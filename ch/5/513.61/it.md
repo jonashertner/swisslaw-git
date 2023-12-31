@@ -4,11 +4,11 @@ title: Ordinanza del 21 novembre 2018 sulla sicurezza militare (OSM)
 short: OSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-730-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/it"
 
 (OSM)
 
-del 21 novembre 2018 (Stato 1° settembre 2023)
+del 21 novembre 2018 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -35,11 +35,13 @@ ordina:
 
 La presente ordinanza disciplina i compiti nell’ambito della sicurezza militare e la loro assunzione da parte degli organi seguenti:
 
-- a. la Sicurezza delle informazioni e degli oggetti (SIO) in seno alla Segreteria generale del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS);
+- a.[^1-1] la Sicurezza integrale Difesa (SI D);
 - b. la Polizia militare (PM);
 - c. il Servizio di protezione preventiva dell’esercito (SPPEs).
 
 <sup>2</sup> Sono esclusi i compiti e la loro assunzione secondo l’articolo 100 capoverso 1 lettera c LM (cyberdifesa militare).
+
+[^1-1]: Nuovo testo giusta il n. II 11 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## Sezione 2: Disposizioni comuni
 
@@ -62,10 +64,12 @@ Gli organi della sicurezza militare acquisiscono le informazioni necessarie per 
 Per l’adempimento dei compiti secondo la presente ordinanza, gli organi della sicurezza militare collaborano con i servizi specializzati militari e civili, in particolare con:
 
 - a. gli organi di sicurezza civili della Confederazione, dei Cantoni e dei Comuni;
-- b. gli incaricati della sicurezza dell’industria;
+- b.[^3-1] ...
 - c. i servizi della Confederazione, dei Cantoni e dei Comuni incaricati della protezione dell’ambiente.
 
 <sup>2</sup> Gli organi della sicurezza militare si assistono reciprocamente.
+
+[^3-1]: Abrogata dal n. II 11 dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 4
 
@@ -92,33 +96,36 @@ Per l’adempimento dei compiti secondo la presente ordinanza, gli organi della 
 
 [^5-1]: Nuovo testo giusta l’all. 2 n. II 64 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
-## Sezione 3: SIO
+## Sezione 3: SI D
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta il n. II 11 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 6
 
 **Compiti**
 
-<sup>1</sup> La SIO dirige la gestione della sicurezza del DDPS e dell’esercito per quanto riguarda la sicurezza delle persone e delle informazioni militari nonché la protezione di oggetti militari.
+<sup>1</sup> La SI D dirige la gestione della sicurezza dell’Aggruppamento Difesa e dell’esercito per quanto riguarda la sicurezza delle persone, delle informazioni, delle costruzioni militari e del materiale dell’esercito.
 
 <sup>2</sup>
 
-La SIO adempie i compiti seguenti:
+In questi settori adempie i compiti seguenti:
 
-- a. allestisce concetti per la sicurezza e la protezione negli ambiti di cui al capoverso 1;
-- b. dirige e appoggia l’istruzione in tali ambiti;
-- c. appoggia i responsabili della sicurezza del DDPS nell’emanazione di istruzioni e direttive in tali ambiti;
-- d. garantisce la consulenza in materia di sicurezza in tali ambiti;
-- e. esegue in seno al DDPS, all’esercito e all’industria una supervisione tecnica specifica in tali ambiti e disciplina gli obblighi d’annuncio necessari;
-- f. dispone di diritti di controllo nel DDPS, nell’esercito e nell’industria;
-- g. istruisce i casi d’infrazione alle misure di sicurezza e protezione da parte di impiegati dell’Amministrazione federale;
-- h. provvede all’elaborazione e all’esecuzione di convenzioni con l’estero in materia di protezione delle informazioni;
-- i. rilascia attestazioni di sicurezza per i depositari di segreti.
+- a. allestisce concetti per la sicurezza e la protezione;
+- b. elabora le direttive necessarie e ne sorveglia l’esecuzione;
+- c. dirige e appoggia l’istruzione;
+- d. garantisce la consulenza in materia di sicurezza;
+- e. esegue una supervisione tecnica specifica e disciplina gli obblighi d’annuncio necessari;
+- f. in relazione alle munizioni e alle sostanze esplosive, garantisce la protezione dalle catastrofi secondo l’articolo 10 della legge del 7 ottobre 1983[^6-1] sulla protezione dell’ambiente;
+
+<sup>3</sup> Nell’ambito dei propri compiti dispone di diritti di controllo in seno all’Aggruppamento Difesa e all’esercito.
+
+[^6-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 
 #### Art. 7
 
-**Organizzazione**
-
-La SIO è composta da impiegati civili della Confederazione.
+*Abrogato*
 
 ## Sezione 4: PM
 
@@ -194,9 +201,11 @@ Il SPPEs è composto da personale militare.
 
 #### Art. 13
 
-**Esecuzione**
+**Esecuzione**[^13-1]
 
-Il segretario generale del DDPS e il capo dell’esercito sono incaricati dell’esecuzione della presente ordinanza ed emanano le istruzioni necessarie.
+Il capo dell’esercito è incaricato dell’esecuzione della presente ordinanza ed emana le istruzioni necessarie.
+
+[^13-1]: Nuovo testo giusta il n. II 11 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 14
 

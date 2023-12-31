@@ -4,11 +4,11 @@ title: Verordnung vom 21. November 2018 über die Militärische Sicherheit (VMS)
 short: VMS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-730-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/de"
 
 (VMS)
 
-vom 21. November 2018 (Stand am 1. September 2023)
+vom 21. November 2018 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -35,11 +35,13 @@ verordnet:
 
 Diese Verordnung regelt die Aufgaben im Bereich Militärische Sicherheit und ihre Wahrnehmung durch folgende Organe:
 
-- a. Informations- und Objektsicherheit (IOS) im Generalsekretariat des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS);
+- a.[^1-1] Integrale Sicherheit Verteidigung (IS V);
 - b. Militärpolizei (MP);
 - c. Dienst für präventiven Schutz der Armee (DPSA).
 
 <sup>2</sup> Ausgenommen sind die Aufgaben und ihre Wahrnehmung nach Artikel 100 Absatz 1 Buchstabe c MG (militärische Cyberabwehr).
+
+[^1-1]: Fassung gemäss Ziff. II 11 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## 2. Abschnitt: Gemeinsame Bestimmungen
 
@@ -62,10 +64,12 @@ Die Organe der Militärischen Sicherheit beschaffen die Informationen, die zur E
 Zur Erfüllung der Aufgaben nach dieser Verordnung arbeiten die Organe der Militärischen Sicherheit mit den militärischen und zivilen Fachstellen zusammen, insbesondere mit:
 
 - a. den zivilen Sicherheitsorganen des Bundes, der Kantone und der Gemeinden;
-- b. den Sicherheitsbeauftragten der Industrie;
+- b.[^3-1] …
 - c. den Umweltstellen des Bundes, der Kantone und der Gemeinden.
 
 <sup>2</sup> Die Organe der Militärischen Sicherheit unterstützen sich gegenseitig.
+
+[^3-1]: Aufgehoben durch Ziff. II 11 der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 4
 
@@ -92,33 +96,36 @@ Zur Erfüllung der Aufgaben nach dieser Verordnung arbeiten die Organe der Milit
 
 [^5-1]: Fassung gemäss Anhang 2 Ziff. II 64 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
-## 3. Abschnitt: IOS
+## 3. Abschnitt: IS V
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Ziff. II 11 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 6
 
 **Aufgaben**
 
-<sup>1</sup> Die IOS leitet das Sicherheitsmanagement des VBS und der Armee für die Sicherheit von Personen und von militärischen Informationen sowie für den Schutz militärischer Objekte.
+<sup>1</sup> Die IS V leitet das Sicherheitsmanagement der Gruppe Verteidigung und der Armee für die Sicherheit von Personen, Informationen, militärischen Bauten und Armeematerial.
 
 <sup>2</sup>
 
-Sie erfüllt folgende Aufgaben:
+Sie erfüllt in diesen Bereichen folgende Aufgaben:
 
-- a. Sie erstellt Konzepte für die Sicherheit und den Schutz in den Bereichen nach Absatz 1.
-- b. Sie steuert und unterstützt die Ausbildung in diesen Bereichen.
-- c. Sie unterstützt die Sicherheitsverantwortliche oder den Sicherheitsverantwortlichen des VBS beim Erlass von Weisungen und Richtlinien in diesen Bereichen.
-- d. Sie gewährleistet die Sicherheitsberatung in diesen Bereichen.
-- e. Sie führt im VBS, in der Armee und in der Industrie in diesen Bereichen ein fachspezifisches Controlling durch und regelt die dafür erforderlichen Meldepflichten.
-- f. Sie verfügt über Kontrollrechte im VBS, in der Armee und in der Industrie.
-- g. Sie instruiert Widerhandlungen von Bundesangestellten gegen Sicherheits- und Schutzmassnahmen.
-- h. Sie sorgt für die Ausarbeitung und den Vollzug von Informationsschutzvereinbarungen mit dem Ausland.
-- i. Sie stellt Sicherheitsbescheinigungen für Geheimnisträgerinnen und -träger aus.
+- a. Sie erstellt Konzepte für Sicherheit und Schutz.
+- b. Sie erarbeitet die nötigen Vorgaben und überwacht deren Vollzug.
+- c. Sie steuert und unterstützt die Ausbildung.
+- d. Sie gewährleistet die Sicherheitsberatung.
+- e. Sie führt ein fachspezifisches Controlling und legt die dafür erforderlichen Meldepflichten fest.
+- f. Sie gewährleistet im Zusammenhang mit Munition und Explosivstoffen den Katastrophenschutz im Sinne von Artikel 10 des Umweltschutzgesetzes vom 7. Oktober 1983[^6-1].
+
+<sup>3</sup> Sie verfügt im Rahmen ihrer Aufgaben über Kontrollrechte in der Gruppe Verteidigung und in der Armee.
+
+[^6-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 
 #### Art. 7
 
-**Organisation**
-
-Die IOS setzt sich aus zivilen Bundesangestellten zusammen.
+Aufgehoben
 
 ## 4. Abschnitt: MP
 
@@ -194,9 +201,11 @@ Der DPSA setzt sich aus militärischem Personal zusammen.
 
 #### Art. 13
 
-**Vollzug**
+**Vollzug**[^13-1]
 
-Die Generalsekretärin oder der Generalsekretär des VBS und die Chefin oder der Chef der Armee vollziehen diese Verordnung und erlassen die erforderlichen Weisungen.
+Die Chefin oder der Chef der Armee vollzieht diese Verordnung und erlässt die erforderlichen Weisungen.
+
+[^13-1]: Fassung gemäss Ziff. II 11 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 14
 

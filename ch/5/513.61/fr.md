@@ -4,11 +4,11 @@ title: Ordonnance du 21 novembre 2018 sur la sécurité militaire (OSM)
 short: OSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-730-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/fr"
 
 (OSM)
 
-du 21 novembre 2018 (État le 1<sup>er</sup> septembre 2023)
+du 21 novembre 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -35,11 +35,13 @@ arrête:
 
 La présente ordonnance règle les tâches relevant de la sécurité militaire et leur accomplissement par les organes suivants:
 
-- a. la Sécurité des informations et des objets (SIO), rattachée au Secrétariat général du Département fédéral de la défense, de la protection de la population et des sports (DDPS);
+- a.[^1-1] la Sécurité intégrale de la Défense (SI D);
 - b. la Police militaire (PM);
 - c. le Service de protection préventive de l’armée (SPPA).
 
 <sup>2</sup> Sont exceptées les mesures de cyberdéfense militaire selon l’art. 100, al. 1, let. c, LAAM.
+
+[^1-1]: Nouvelle teneur selon le ch. II 11 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## Section 2 Dispositions communes
 
@@ -62,10 +64,12 @@ Les organes de la sécurité militaire se procurent les informations qui sont n�
 Afin d’accomplir les tâches prévues par la présente ordonnance, les organes de la sécurité militaire collaborent avec les services militaires et civils, notamment:
 
 - a. les organes de sécurité civils de la Confédération, des cantons et des communes;
-- b. les préposés à la sécurité de l’industrie;
+- b.[^3-1] …
 - c. les offices environnementaux de la Confédération, des cantons et des communes.
 
 <sup>2</sup> Les organes de la sécurité militaire se prêtent mutuellement assistance.
+
+[^3-1]: Abrogée par le ch. II 11 de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 4
 
@@ -92,33 +96,36 @@ Afin d’accomplir les tâches prévues par la présente ordonnance, les organes
 
 [^5-1]: Nouvelle teneur selon l’annexe 2 ch. II 64 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
-## Section 3 SIO
+## Section 3 SI D
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon le ch. II 11 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 6
 
 **Tâches**
 
-<sup>1</sup> La SIO dirige la gestion de la sécurité au DDPS et à l’armée pour la sécurité des personnes et des informations militaires, ainsi que pour la protection des ouvrages militaires.
+<sup>1</sup> La SI D dirige la gestion de la sécurité du Groupement Défense et de l’armée pour la sécurité des personnes, des informations, des ouvrages militaires et du matériel de l’armée.
 
 <sup>2</sup>
 
-Ses tâches sont les suivantes:
+Dans ces domaines, elle effectue les tâches suivantes:
 
-- a. elle élabore des concepts de protection et de sécurité dans les domaines visés à l’al. 1;
-- b. elle pilote et appuie l’instruction dans ces domaines;
-- c. elle appuie la personne responsable de la sécurité au DDPS au moment d’édicter des directives ou lignes directrices dans ces domaines;
-- d. elle assure l’activité de conseil dans ces domaines;
-- e. elle exécute un *controlling* spécialisé au sein de l’armée, du DDPS et de l’industrie et réglemente l’obligation de s’annoncer;
-- f. elle dispose d’un droit de contrôle au sein de l’armée, du DDPS et de l’industrie;
-- g. elle instruit les cas de violation des prescriptions de protection et de sécurité par des employés de la Confédération;
-- h. elle veille à l’élaboration et à l’application des conventions en matière de protection des informations conclues avec des États étrangers;
-- i. elle délivre des attestations de sécurité aux dépositaires de secrets.
+- a. élaborer des concepts de protection et de sécurité;
+- b. établir les lignes directrices nécessaires et en surveiller l’application;
+- c. piloter et appuyer l’instruction;
+- d. prodiguer des conseils en matière de sécurité;
+- e. procéder à un controlling spécialisé et régler les devoirs d’annonce y afférents;
+- f. assurer la protection contre les catastrophes au sens de l’art. 10 de la loi du 7 octobre 1983 sur la protection de l’environnement[^6-1] dans le contexte des munitions et des matières explosives.
+
+<sup>3</sup> Elle dispose, dans le cadre de ses tâches, de droits de contrôle au sein du Groupement Défense et de l’armée.
+
+[^6-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 
 #### Art. 7
 
-**Organisation**
-
-La SIO se compose d’employés civils de la Confédération.
+Abrogé
 
 ## Section 4 PM
 
@@ -194,9 +201,11 @@ Le SPPA se compose de personnel militaire.
 
 #### Art. 13
 
-**Exécution**
+**Exécution**[^13-1]
 
-Le secrétaire général du DDPS et le chef de l’Armée exécutent la présente ordonnance et édictent les directives requises.
+Le chef de l’Armée exécute la présente ordonnance et édicte les directives nécessaires.
+
+[^13-1]: Nouvelle teneur selon le ch. II 11 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 14
 
