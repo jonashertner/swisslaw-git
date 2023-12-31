@@ -4,13 +4,13 @@ number: "150.11"
 title: Verordnung zum Personalgesetz
 short: Personalverordnung
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-06-27
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-12-12
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.11"
-pdf: "https://bl.clex.ch/api/de/versions/3655/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3835/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3655/pdf_file"
 
 (Personalverordnung)
 
-Vom 19.12.2000 (Stand 01.08.2023)
+Vom 19.12.2000 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -503,6 +503,8 @@ beschliesst:
 <sup>2</sup> Er sorgt dafür, dass die Mitarbeiterinnen und Mitarbeiter in ihren bisherigen oder zukünftigen Tätigkeitsbereichen unabhängig vom Beschäftigungsgrad über das zur Ausübung ihrer Funktion erforderliche Wissen sowie über die zur Ausübung ihrer Funktion erforderlichen Fähigkeiten und Fertigkeiten verfügen.
 
 <sup>3</sup> Die Mitarbeitenden tragen gemeinsam mit ihren Vorgesetzten die Verantwortung für ihre berufliche und persönliche Entwicklung.
+
+<sup>3<sup>bis</sup></sup> Im Rahmen der Gleichstellung von Menschen mit Behinderungen bietet das Personalamt geeignete Seminarangebote und Schulungen für Mitarbeitende und Führungskräfte sowie individuelle Coachings an.
 
 <sup>4</sup> Spezielle Regelungen für die Lehrpersonen, die Gerichte, die Staatsanwaltschaft, die Jugendanwaltschaft und die Polizei bleiben vorbehalten.
 
