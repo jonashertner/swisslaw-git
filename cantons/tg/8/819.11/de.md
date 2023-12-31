@@ -4,13 +4,13 @@ number: "819.11"
 title: Verordnung über das Veterinärwesen
 short: VetV
 language: de
-version: 2022-04-01
-valid_until: 2023-12-31
-version_adopted: 2022-03-22
+version: 2024-01-01
+valid_until: 2025-04-30
+version_adopted: 2023-12-19
 adopted: 2022-03-22
 in_force: 2022-04-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/819.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2485/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2739/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ VetV
 
 (VetV)
 
-vom 22.03.2022 (Stand 01.04.2022)
+vom 22.03.2022 (Stand 01.01.2024)
 
 ## 1. Zuständigkeiten und Organisation
 
@@ -76,11 +76,13 @@ vom 22.03.2022 (Stand 01.04.2022)
 
 **Kontrollen**
 
-<sup>1</sup> Die Vollzugsorgane werden mit Dienstausweisen ausgestattet und weisen sich bei Bedarf anlässlich von Kontrollen mit diesen aus.
+<sup>1</sup> Die Vollzugsorgane werden mit Dienstausweisen ausgestattet und weisen sich bei Bedarf mit diesen aus.
 
 <sup>2</sup> Wenn die Beteiligten nicht anwesend sind, ist mit der vorgesehenen Kontrolle fortzufahren, sofern die Umstände dies gebieten. Die Beteiligten sind in solchen Fällen so bald als möglich über das Kontrollergebnis zu informieren und ihnen ist die Möglichkeit einzuräumen, sich dazu zu äussern.
 
 <sup>3</sup> Wird das gesetzliche Zutritts-, Durchsuchungs-, Untersuchungs- oder Editionsrecht verweigert, können die Vollzugsorgane das Zutritts-, Durchsuchungs-, Untersuchungs- und Editionsrecht unmittelbar vor Ort zwangsweise durchsetzen oder durchsetzen lassen.
+
+<sup>4</sup> Die Vollzugsorgane sind berechtigt, zur Ermittlung des Sachverhalts und zur Erhebung von Beweisen Ton-, Bild- und Videoaufnahmen anzufertigen und ihre Feststellungen auf andere Weise geeignet zu dokumentieren.
 
 #### § 7
 
@@ -116,9 +118,9 @@ vom 22.03.2022 (Stand 01.04.2022)
 
 <sup>1</sup> Die für amtliche Aufgaben beigezogenen Tierärzte und Tierärztinnen werden grundsätzlich nach Zeitaufwand entschädigt.
 
-<sup>2</sup> Der pauschale Stundenansatz hierfür beträgt Fr. 150.
+<sup>2</sup> Der pauschale Stundenansatz hierfür beträgt Fr. 170. Tätigkeiten ausserhalb der ordentlichen Arbeitszeiten (Montag bis Freitag, 06.00 Uhr bis 20.00 Uhr) und am Wochenende sowie an Feier- und Ruhetagen werden mit einem Zuschlag von Fr. 70 pro Stunde entschädigt.
 
-<sup>3</sup> Die Vollzugsbehörde kann abweichend Stundenansätze oder Entschädigungspauschalen vorsehen.
+<sup>3</sup> Die Vollzugsbehörde kann abweichende Stundenansätze oder Entschädigungspauschalen vorsehen.
 
 <sup>4</sup> Die Vollzugsbehörde entscheidet, ob zusätzliche Spesenentschädigungen ausgerichtet werden.
 
@@ -168,11 +170,21 @@ vom 22.03.2022 (Stand 01.04.2022)
 
 **Direktes Tätigkeits-, Betriebs- oder Tierhalteverbot, direkter Bewilligungsentzug**
 
-<sup>1</sup> Die Vollzugsbehörde spricht direkt ein Tätigkeits-, Betriebs- oder Tierhalteverbot aus, wenn Schwere oder Ausmass der Verfehlung oder die persönlichen Verhältnisse der betroffenen Person eine zeitnahe nachhaltige Verbesserung unwahrscheinlich erscheinen lassen, es an grundlegenden Voraussetzungen für ein inskünftig gesetzeskonformes Verhalten fehlt oder wenn wichtige öffentliche Interessen oder Güter gefährdet sind. Zu berücksichtigen sind insbesondere auch die finanziellen Verhältnisse der betroffenen Person.
+<sup>1</sup> Die Vollzugsbehörde spricht direkt ein Tätigkeits-, Betriebs- oder Tierhalteverbot oder einen Bewilligungsentzug aus, wenn Schwere oder Ausmass der Verfehlung oder die persönlichen Verhältnisse der betroffenen Person eine zeitnahe nachhaltige Verbesserung unwahrscheinlich erscheinen lassen, es an grundlegenden Voraussetzungen für ein inskünftig gesetzeskonformes Verhalten fehlt oder wenn wichtige öffentliche Interessen oder Güter gefährdet sind. Zu berücksichtigen sind insbesondere auch die finanziellen Verhältnisse der betroffenen Person.
+
+#### § 13a
+
+**Ausnahmebewilligungen**
+
+<sup>1</sup> Die Vollzugsbehörde kann ausnahmsweise erlauben, von den veterinärrechtlichen Vorgaben abzuweichen, wenn einer der folgenden Fälle vorliegt:
+
+- 1\. Die Abweichungen sind geringfügig.
+- 2\. Die öffentliche Sicherheit und Gesundheit werden nicht wesentlich gefährdet oder beeinträchtigt.
+- 3\. Das Tierwohl wird nicht wesentlich gefährdet oder beeinträchtigt.
 
 #### § 14
 
-**Öffentliches Interesse, Information und Datenbekanntgabe**
+**Öffentliches Interesse**
 
 <sup>1</sup> Von einem öffentlichen Interesse im Sinne von § 13 VetG ist insbesondere auszugehen, wenn anzunehmen ist, dass die amtliche Tätigkeit in einer Sache von generellem Interesse für die Bevölkerung ist oder für einzelne oder mehrere Bevölkerungsgruppen Auswirkungen zeitigt.
 
@@ -212,7 +224,7 @@ vom 22.03.2022 (Stand 01.04.2022)
 
 <sup>1</sup> Fundstelle für herrenlose und entlaufene Tiere gemäss Art. 720a Abs. 2 des Schweizerischen Zivilgesetzbuches (ZGB)[^17-1] ist die STMZ Schweizerische Tiermeldezentrale AG.
 
-<sup>2</sup> Das Veterinäramt schliesst mit dieser Stelle eine entsprechende Leistungsvereinbarung ab.
+<sup>2</sup> Die Vollzugsbehörde schliesst mit dieser Stelle eine entsprechende Leistungsvereinbarung ab.
 
 [^17-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
@@ -220,13 +232,15 @@ vom 22.03.2022 (Stand 01.04.2022)
 
 **Prüfung von Baugesuchen**
 
-<sup>1</sup> Das Veterinäramt prüft die ihm unterbreiteten Baugesuche hinsichtlich der baulichen Tierschutzvorschriften.
+<sup>1</sup> Die Vollzugsbehörde prüft die ihr unterbreiteten Baugesuche hinsichtlich der baulichen Tierschutzvorschriften.
 
 #### § 19
 
 **Jagd- und Fischereiverwaltung**
 
 <sup>1</sup> Für den Vollzug von Art. 75 der Tierschutzverordnung (TSchV)[^19-1] über die Ausbildung von Jagdhunden ist die Jagd- und Fischereiverwaltung zuständig.
+
+<sup>2</sup> Vor der Bewilligung von Anlagen zur Ausbildung und Prüfung von Jagdhunden am lebenden Wildtier ist die Vollzugsbehörde anzuhören.
 
 [^19-1]: SR [455.1](https://db.clex.ch/link/Bund/455.1/de)
 
@@ -602,7 +616,7 @@ vom 22.03.2022 (Stand 01.04.2022)
 
 **Gebühren für die Schlachttier- und Fleischuntersuchung**
 
-<sup>1</sup> Die Gebühren für die Schlachttier- und Fleischuntersuchung betragen je Schlachttier:
+<sup>1</sup> Die Gebühren für die Schlachttier- und Fleischuntersuchung setzen sich aus einer Grundgebühr gemäss Abs. 2 und einer Gebühr zusammen, die mit einem Beitrag pro Schlachttier, nach Zeitaufwand oder pro Kilogramm Fleisch nach Abschluss der Schlachtung abgerechnet wird. Die Vollzugsbehörde legt die Abrechnungsart fest. Die Gebühren für die Schlachttier- und Fleischuntersuchung betragen pro Schlachttier:
 
 - 1\. Tier der Rindergattung, das acht Monate alt oder älter ist — Fr. 12
 - 2\. Tier der Rindergattung, das jünger ist als acht Monate — Fr. 10
@@ -616,25 +630,27 @@ vom 22.03.2022 (Stand 01.04.2022)
 - 10\. Federwild, Hasen — Fr. 0.20
 - 11\. anderes Wild — Fr. 8
 
-<sup>2</sup> Zusätzlich zu den Gebühren gemäss Abs. 1 sind folgende Grundgebühren zu entrichten:
+<sup>2</sup> Die Grundgebühr beträgt:
 
-- 1\. für einen Besuch im Schlachtbetrieb — Fr. 20
-- 2\. für eine Schlachttieruntersuchung im Herkunftsbestand — Fr. 50
+- 1\. pro Besuch im Schlacht- oder Wildbearbeitungsbetrieb — Fr. 20
+- 2\. pro Schlachttieruntersuchung im Herkunftsbestand — Fr. 30
 
-<sup>3</sup> Bei Grossbetrieben kann nach Zeitaufwand abgerechnet werden. Unter Vorbehalt einer abweichenden Regelung im Einzelfall beträgt dabei die Gebühr unabhängig von der Tierart:
+<sup>3</sup> Wird die Gebühr nach Zeitaufwand abgerechnet, beträgt sie, unter Vorbehalt einer abweichenden Regelung im Einzelfall, unabhängig von der Tierart:
 
-- 1\. Fr. 150, maximal jedoch Fr. 160 pro Stunde für die Tätigkeiten der amtlichen Tierärzte und Tierärztinnen oder der hiermit beauftragten nichtamtlichen Tierärzte und Tierärztinnen;
-- 2\. Fr. 90, maximal jedoch Fr. 100 pro Stunde für die Tätigkeiten der amtlichen Fachassistenten und Fachassistentinnen.
+- 1\. Fr. 160 pro Stunde für die Tätigkeiten der amtlichen Tierärzte und Tierärztinnen oder der beauftragten nichtamtlichen Tierärzte und Tierärztinnen
+- 2\. Fr. 100 pro Stunde für die Tätigkeiten der amtlichen Fachassistenten und Fachassistentinnen
 
-<sup>4</sup> Für die Überwachung einer Hof- oder Weidetötung zur Fleischgewinnung durch die amtlichen Tierärzte und Tierärztinnen oder die hiermit beauftragten nichtamtlichen Tierärzte und Tierärztinnen ist eine Gebühr zu entrichten, die unter Vorbehalt einer abweichenden Regelung im Einzelfall Fr. 150, maximal jedoch Fr. 160 pro Stunde beträgt.
+<sup>3<sup>bis</sup></sup> Wird die Gebühr pro Kilogramm Fleisch nach Abschluss der Schlachtung abgerechnet, beträgt sie, unter Vorbehalt einer abweichenden Regelung im Einzelfall, unabhängig von der Tierart Fr. 0.10 pro Kilogramm.
 
-<sup>5</sup> Für Tätigkeiten ausserhalb der üblichen Arbeitszeiten (Montag bis Freitag, 06.00 bis 20.00 Uhr) kann auf den Gebühren nach Abs. 1 bis Abs. 4 ein Zuschlag von 50 % erhoben werden.
+<sup>4</sup> Für die Überwachung einer Hof- oder Weidetötung zur Fleischgewinnung durch die amtlichen Tierärzte und Tierärztinnen oder die hiermit beauftragten nichtamtlichen Tierärzte und Tierärztinnen ist eine Gebühr zu entrichten, die unter Vorbehalt einer abweichenden Regelung im Einzelfall Fr. 160 pro Stunde beträgt. Eine Grundgebühr wird nicht erhoben.
+
+<sup>5</sup> Für Tätigkeiten ausserhalb der üblichen Arbeitszeiten (Montag bis Freitag, 06.00 Uhr bis 20.00 Uhr) kann auf den Gebühren nach Abs. 1 bis Abs. 4 ein Zuschlag von 50 % erhoben werden.
 
 #### § 54
 
 **Einsprache gegen Schlachttier- und Fleischuntersuchungsentscheide**
 
-<sup>1</sup> Gegen Entscheide im Zusammenhang mit der Schlachttier- und Fleischuntersuchung kann innert 5 Tagen ab Eröffnung bei der Vollzugsbehörde Einsprache erhoben werden.
+<sup>1</sup> Gegen Entscheide im Zusammenhang mit der Schlachttier- und Fleischuntersuchung kann innert 10 Tagen ab Eröffnung bei der Vollzugsbehörde Einsprache erhoben werden.
 
 <sup>2</sup> Der Einsprache kommt keine aufschiebende Wirkung zu.
 
@@ -653,6 +669,7 @@ vom 22.03.2022 (Stand 01.04.2022)
 - 5\. Tierhomöopath oder Tierhomöopathin
 - 6\. Tierakupunkteur oder Tierakupunkteurin sowie andere Anwendungen der traditionellen chinesischen Medizin (TCM)
 - 7\. Tierphytotherapeut oder Tierphytotherapeutin
+- 8\. Tierdentalpraktiker oder Tierdentalpraktikerin
 
 <sup>2</sup> Für diese Tätigkeiten gelten die Bewilligungsvoraussetzungen von § 36 VetG sinngemäss.
 
