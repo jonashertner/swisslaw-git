@@ -4,11 +4,11 @@ title: Ordonnance du 27 août 2001 sur le personnel du Tribunal fédéral (OPers
 short: OPersTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/487"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2001-08-27
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-487-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-487-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/fr"
 
 (OPersTF)
 
-du 27 août 2001 (État le 1<sup>er</sup> janvier 2022)
+du 27 août 2001 (État le 1<sup>er</sup> janvier 2024)
 
 Le Tribunal fédéral suisse,
 
@@ -1587,23 +1587,19 @@ Les dispositions de l’ordonnance du 22 février 2012 sur le traitement des don
 
 #### Art. 80e
 
-**Préposé à la protection des données**
+**Préposé à la protection des données**[^80e-1]
 
-### (art. 11*a* LPD et art. 23 OLPD)
+### (art. 10 LPD)
 
-<sup>1</sup>
+<sup>1</sup> Le préposé à la protection des données du Tribunal fédéral est le conseiller à la protection des données au sens des art. 10 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^80e-2] et 26 de l’ordonnance du 31 août 2022 sur la protection des données[^80e-3].
 
-Le préposé à la protection des données du Tribunal fédéral est:
+<sup>2</sup> Il exerce ses fonctions de manière indépendante et sans recevoir d’instruction.
 
-- a. le conseiller à la protection des données au sens de l’art. 11*a*, al. 5, let. e, de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^80e-1] et des art. 12*a* et 12*b* de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données (OLPD)[^80e-2];
-- b. le conseiller à la protection des données au sens de l’art. 23 OLPD.
+<sup>3</sup> Les employés du Tribunal fédéral peuvent demander conseil à tout moment au conseiller à la protection des données du Tribunal fédéral.
 
-<sup>2</sup> Il dispose de l'indépendance nécessaire à l'exercice de ses fonctions.
-
-<sup>3</sup> Les employés du Tribunal fédéral peuvent demander conseil à tout moment au préposé à la protection des données du Tribunal fédéral.
-
-[^80e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^80e-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^80e-1]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 759](https://fedlex.data.admin.ch/eli/oc/2023/759)).
+[^80e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^80e-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 80f
 

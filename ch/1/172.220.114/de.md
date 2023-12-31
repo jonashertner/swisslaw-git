@@ -4,11 +4,11 @@ title: Personalverordnung des Bundesgerichts vom 27. August 2001 (PVBger)
 short: PVBger
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/487"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2001-08-27
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-487-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-487-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/de"
 
 (PVBger)
 
-vom 27. August 2001 (Stand am 1. Januar 2022)
+vom 27. August 2001 (Stand am 1. Januar 2024)
 
 Das Schweizerische Bundesgericht,
 
@@ -1592,23 +1592,19 @@ Für die Benutzung der elektronischen Infrastruktur sind die Bestimmungen der Ve
 
 #### Art. 80e
 
-**Datenschutzbeauftragter**
+**Datenschutzbeauftragter oder -beauftragte**[^80e-1]
 
-### (Art. 11*a* DSG und Art. 23 VDSG)
+### (Art. 10 DSG)
 
-<sup>1</sup>
+<sup>1</sup> Der oder die Datenschutzbeauftragte ist Datenschutzberater oder Datenschutzberaterin im Sinne von Artikel 10 des Datenschutzgesetzes vom 25. September 2020[^80e-2] (DSG) und Artikel 26 der Datenschutzverordnung vom 31. August 2022[^80e-3].
 
-Der Datenschutzbeauftragte des Bundesgerichts ist:
+<sup>2</sup> Er oder sie übt seine oder ihre Funktion fachlich unabhängig und weisungsungebunden aus.
 
-- a. Datenschutzverantwortlicher im Sinne von Artikel 11*a* Absatz 5 Buchstabe e des Bundesgesetzes vom 19. Juni 1992[^80e-1] über den Datenschutz (DSG) sowie Artikel 12*a* und 12*b* der Verordnung vom 14. Juni 1993[^80e-2] zum Bundesgesetz über den Datenschutz (VDSG);
-- b. Datenschutzberater im Sinne von Artikel 23 VDSG.
+<sup>3</sup> Die Angestellten des Bundesgerichts können den Datenschutzberater oder die Datenschutzberaterin des Bundesgerichts jederzeit um Beratung ersuchen.
 
-<sup>2</sup> Er übt seine Funktion fachlich unabhängig aus.
-
-<sup>3</sup> Die Angestellten des Bundesgerichts können den Datenschutzbeauftragten des Bundesgerichts jederzeit um Beratung ersuchen.
-
-[^80e-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^80e-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^80e-1]: Fassung gemäss Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 759](https://fedlex.data.admin.ch/eli/oc/2023/759)).
+[^80e-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^80e-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 80f
 

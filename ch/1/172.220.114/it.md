@@ -4,11 +4,11 @@ title: Ordinanza del 27 agosto 2001 sul personale del Tribunale federale (OPersT
 short: OPersTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/487"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2001-08-27
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-487-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2001-487-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/it"
 
 (OPersTF)
 
-del 27 agosto 2001 (Stato 1° gennaio 2022)
+del 27 agosto 2001 (Stato 1° gennaio 2024)
 
 Il Tribunale federale svizzero,
 
@@ -1591,23 +1591,19 @@ Per l’utilizzazione dell’infrastruttura elettronica sono applicabili per ana
 
 #### Art. 80e
 
-**Incaricato della protezione dei dati**
+**Incaricato della protezione dei dati**[^80e-1]
 
-### (art. 11*a* LPD e art. 23 OLPD)
+### (art. 10 LPD)
 
-<sup>1</sup>
+<sup>1</sup> L’incaricato della protezione dei dati è il consulente per la protezione dei dati ai sensi dell’articolo 10 della legge federale del 25 settembre 2020[^80e-2] sulla protezione dei dati (LPD) e dell’articolo 26 dell’ordinanza del 31 agosto 2022[^80e-3] sulla protezione dei dati.
 
-L’incaricato della protezione dei dati del Tribunale federale è:
+<sup>2</sup> Esercita la sua funzione in modo indipendente e senza ricevere istruzioni.
 
-- a. il responsabile della protezione dei dati ai sensi dell’articolo 11*a* capoverso 5 lettera e della legge federale del 19 giugno 1992[^80e-1] sulla protezione dei dati (LPD) e degli articoli 12*a* e 12*b* dell’ordinanza del 14 giugno 1993[^80e-2] relativa alla legge federale sulla protezione dei dati (OLPD);
-- b. il consulente per la protezione dei dati giusta l’articolo 23 OLPD.
+<sup>3</sup> Gli impiegati del Tribunale federale possono in ogni momento ricorrere alla consulenza del consulente per la protezione dei dati del Tribunale federale.
 
-<sup>2</sup> A livello tecnico e professionale, egli esercita la sua funzione in modo indipendente.
-
-<sup>3</sup> Gli impiegati del Tribunale federale possono in ogni momento ricorrere alla consulenza dell’incaricato della protezione dei dati del Tribunale federale.
-
-[^80e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^80e-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^80e-1]: Nuovo testo giusta il n. I dell’O del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 (RU **20****23** 759).
+[^80e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^80e-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 80f
 
