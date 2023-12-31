@@ -4,13 +4,13 @@ number: "851.200"
 title: Gesetz über die öffentliche Sozialhilfe und die soziale Prävention
 short: "Sozialhilfe- und Präventionsgesetz, SPG"
 language: de
-version: 2018-04-08
-valid_until: 2023-12-31
-version_adopted: 2017-06-27
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2023-06-27
 adopted: 2001-03-06
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2970/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3358/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2970/pdf_file"
 
 (Sozialhilfe- und Präventionsgesetz, SPG)
 
-Vom 06.03.2001 (Stand 08.04.2018)
+Vom 06.03.2001 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -114,7 +114,7 @@ beschliesst:
 
 **Unterhalts- und Verwandtenunterstützungspflicht**
 
-<sup>1</sup> Die Gemeinde prüft das Vorliegen von Ansprüchen aus Unterhalts- und Verwandtenunterstützungspflicht gemäss Art. 131 Abs. 3, Art. 289 Abs. 2 und Art. 329 Abs. 3 des Schweizerischen Zivilgesetzbuches (ZGB) vom 10. Dezember 1907[^7-1] und trifft mit pflichtigen Personen nach Möglichkeit eine Vereinbarung über Art und Umfang der Leistung.
+<sup>1</sup> Die Gemeinde prüft das Vorliegen von Ansprüchen aus Unterhalts- und Verwandtenunterstützungspflicht gemäss den Art. 131a Abs. 2, 289 Abs. 2 und 329 Abs. 3 des Schweizerischen Zivilgesetzbuches (ZGB) vom 10. Dezember 1907[^7-1] und trifft mit pflichtigen Personen nach Möglichkeit eine Vereinbarung über Art und Umfang der Leistung.
 
 <sup>2</sup> Sie ergreift die erforderlichen prozessualen Massnahmen.
 
@@ -291,6 +291,8 @@ beschliesst:
 
 <sup>1</sup> Der Kanton ist in der Regel zuständig für Unterbringung, Unterstützung und Betreuung von Asylsuchenden und ausreisepflichtigen Personen.
 
+<sup>1<sup>bis</sup></sup> Er ist auch zuständig für Unterbringung, Unterstützung und Betreuung von Flüchtlingen während des Aufenthalts in einer kantonalen Unterkunft.
+
 <sup>2</sup> Die Gemeinden sind in der Regel zuständig für Unterbringung, Unterstützung und Betreuung von vorläufig Aufgenommenen ohne Flüchtlingseigenschaft.
 
 <sup>3</sup> Vorbehalten bleibt das Recht auf freie Wohnsitzwahl gemäss den bundesrechtlichen Bestimmungen.
@@ -319,7 +321,7 @@ beschliesst:
 
 - a) Personen in kantonalen Unterkünften,
 - b) Personen in Bundesunterkünften,
-- c) Personen gemäss Art. 83 Abs. 1 des Bundesgesetzes über die Ausländerinnen und Ausländer (Ausländergesetz, AuG) vom 16. Dezember 2005[^18a-1].
+- c) Personen gemäss Art. 83 Abs. 1 des Bundesgesetzes über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG) vom 16. Dezember 2005[^18a-1].
 
 [^18a-1]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
 
@@ -367,6 +369,49 @@ beschliesst:
 **Ergänzende Vorschriften zur Unterbringung von Asylsuchenden**
 
 <sup>1</sup> Der Regierungsrat regelt Einzelheiten und Sanktionen durch Verordnung.
+
+### 2.1.5. Observation
+
+#### § 19c
+
+**Zulässigkeitsvoraussetzungen**
+
+<sup>1</sup> Die zuständige Gemeinde kann eine Person im Rahmen eines laufenden Sozialhilfeverfahrens verdeckt observieren, wenn
+
+- a) aufgrund konkreter Anhaltspunkte anzunehmen ist, dass die Person unrechtmässig Sozialhilfeleistungen geltend macht, bezieht oder erhalten hat, und
+- b) alle zur Verfügung stehenden Mittel zur Feststellung des Sachverhalts ausgeschöpft worden sind.
+
+<sup>2</sup> Die Sozialbehörde gemäss § 44 Abs. 1 ist zuständig für die Anordnung der Observation. Zuständig für die Durchführung der angeordneten Observation sind geeignete Mitarbeitende der betroffenen Gemeinde oder von dieser beauftragte geeignete Dritte. Der Regierungsrat regelt die persönlichen und fachlichen Anforderungen an die durchführenden Personen durch Verordnung.
+
+<sup>3</sup> Die Person darf nur observiert werden, wenn sie sich
+
+- a) an einem allgemein zugänglichen Ort befindet, oder
+- b) an einem Ort befindet, der von einem allgemein zugänglichen Ort aus frei einsehbar ist.
+
+<sup>4</sup> Bei der Observation dürfen Bild- und Tonaufzeichnungen gemacht werden. Nicht erlaubt ist der Einsatz von technischen Instrumenten
+
+- a) zur Verstärkung oder Erweiterung der menschlichen Wahrnehmung sowie
+- b) zur Standortbestimmung.
+
+<sup>5</sup> Die angeordnete Observation findet in einem Zeitraum von höchstens 30 Tagen ab dem ersten Observationstag statt. Sie kann mit Genehmigung der zuständigen kantonalen Behörde um maximal 15 Tage verlängert werden.
+
+<sup>6</sup> Die Sozialbehörde informiert die betroffene Person spätestens vor Erlass des Entscheids betreffend die Sozialhilfeleistungen über den Grund, die Art und die Dauer der durchgeführten Observation sowie über die bei der Observation gemachten Feststellungen.
+
+<sup>7</sup> Konnten die konkreten Anhaltspunkte durch die Observation nicht bestätigt werden, teilt die Sozialbehörde der betroffenen Person den Grund, die Art und die Dauer der durchgeführten Observation, die bei der Observation gemachten Feststellungen sowie das Recht auf einen anfechtbaren Entscheid schriftlich mit.
+
+#### § 19d
+
+**Umgang mit dem Observationsmaterial**
+
+<sup>1</sup> Der Regierungsrat regelt die Aufbewahrung und die Vernichtung des Observationsmaterials durch Verordnung. Im Übrigen gelten die Bestimmungen des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006[^19d-1] und dieses Gesetzes (§§ 45 f.) sowie der entsprechenden Ausführungsbestimmungen.
+
+[^19d-1]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
+
+#### § 19e
+
+**Berichterstattung**
+
+<sup>1</sup> Die Gemeinden erstatten dem Kantonalen Sozialdienst regelmässig Bericht über die angeordneten und die durchgeführten Observationen. Der Regierungsrat regelt Form, Umfang und Regelmässigkeit der Berichterstattung.
 
 ### 2.2. Rückerstattung
 
@@ -451,18 +496,18 @@ beschliesst:
 - a) ein Elternteil sich zur Hauptsache der Betreuung des Kindes widmet,
 - b) der betreuende Elternteil seit mindestens einem Jahr vor der Geburt und während der Bezugsdauer im Kanton zivilrechtlichen Wohnsitz hat,
 - c) der betreuende Elternteil und das Kind sich während der Bezugsdauer im Kanton aufhalten,
-- d) sowohl die voraussichtlichen Jahreseinkünfte ab Geburt als auch das steuerbare Vermögen gemäss letzter rechtskräftiger Steuerveranlagung unter den vom Regierungsrat festgelegten Grenzbeträgen liegen,
+- d) sowohl die voraussichtlichen Halbjahreseinkünfte ab Geburt als auch das steuerbare Vermögen gemäss letzter rechtskräftiger Steuerveranlagung unter den vom Regierungsrat festgelegten Grenzbeträgen liegen,
 - e) der betreuende Elternteil nicht Sozialhilfe bezieht.
 
 <sup>2</sup> Anspruchsberechtigt sind die im gleichen Haushalt lebenden Eltern oder ein allein erziehender Elternteil.
 
-<sup>3</sup> Im gleichen Haushalt lebende, nicht miteinander verheiratete Eltern werden bei der Berechnung der voraussichtlichen Jahreseinkünfte und des steuerbaren Vermögens den Ehepaaren gleichgestellt.
+<sup>3</sup> Im gleichen Haushalt lebende, nicht miteinander verheiratete Eltern werden bei der Berechnung der voraussichtlichen Halbjahreseinkünfte und des steuerbaren Vermögens den Ehepaaren gleichgestellt.
 
 #### § 28
 
 **Höhe und Dauer der Elternschaftsbeihilfe**
 
-<sup>1</sup> Die Elternschaftsbeihilfe entspricht der Differenz zwischen dem Grenzbetrag und den Jahreseinkünften gemäss § 27 Abs. 1 lit. d. Sie wird im Voraus in monatlichen Raten ausgerichtet.
+<sup>1</sup> Die Elternschaftsbeihilfe entspricht der Differenz zwischen dem Grenzbetrag und den Halbjahreseinkünften gemäss § 27 Abs. 1 lit. d. Sie wird im Voraus in monatlichen Raten ausgerichtet.
 
 <sup>2</sup> Sie wird ab Gesuchstellung mit dreimonatiger Rückwirkung, frühestens ab Geburt, bis zur Vollendung der ersten 6 Lebensmonate des Kindes gewährt. In Härtefällen kann Elternschaftsbeihilfe bis zur Vollendung des 24. Lebensmonats ausgerichtet werden.
 
@@ -484,15 +529,32 @@ beschliesst:
 
 #### § 31
 
-**Zuständigkeit und Kostenbeteiligung**
+**Zuständigkeit, Organisation, Gegenstand und Kosten**
 
-<sup>1</sup> Die Inkassohilfe gemäss Art. 131 Abs. 1 und Art. 290 ZGB sowie für die über die Volljährigkeit hinausgehenden Unterhaltsansprüche liegt in der Zuständigkeit der Gemeinde am zivilrechtlichen Wohnsitz der anspruchsberechtigten Person.
+<sup>1</sup> Die Inkassohilfe gemäss den Art. 131, 176a und 290 ZGB, Art. 34 Abs. 4 des Bundesgesetzes über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz, PartG) vom 18. Juni 2004[^31-1] sowie der Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen (Inkassohilfeverordnung, InkHV) vom 6. Dezember 2019[^31-2] liegt in der Zuständigkeit der Gemeinde am zivilrechtlichen Wohnsitz der berechtigten Person.
 
-<sup>2</sup> Die Gemeinde kann diese Aufgabe an eine geeignete Amtsstelle oder private Institution übertragen.
+<sup>2</sup> Die Gemeinde kann in einzelnen oder sämtlichen Fällen die Erbringung von Leistungen der Inkassohilfe geeigneten Dritten übertragen. Nicht übertragbar ist die Befugnis, Entscheide betreffend die Inkassohilfe zu erlassen.
 
-<sup>3</sup> Unter Vorbehalt von Art. 290 ZGB erheben die Gemeinden jährlich für ihre Aufwändungen im Rahmen der Inkassohilfe bei guten finanziellen Verhältnissen der anspruchsberechtigten Person eine Gebühr. Der Regierungsrat regelt die Einzelheiten und bestimmt die Ansätze.
+<sup>2<sup>bis</sup></sup> Dritte sind geeignet, wenn sie über die notwendigen Fachkenntnisse verfügen, um im betreffenden Einzelfall die entsprechenden Leistungen erbringen zu können.
 
-<sup>4</sup> Die Inkassohilfe gemäss internationalen Übereinkommen über die Geltendmachung von Unterhaltsansprüchen liegt in der Zuständigkeit der Gemeinde am zivilrechtlichen Wohnsitz der anspruchsberechtigten beziehungsweise unterhaltspflichtigen Person.
+<sup>2<sup>ter</sup></sup> Fachstelle im Sinne des Bundesrechts zur Inkassohilfe ist die Gemeinde, auch bei Übertragung gemäss Absatz 2. Die Gemeinde verfügt über die notwendigen Fachkenntnisse,
+
+- a) um im betreffenden Einzelfall die entsprechenden Leistungen der Inkassohilfe selber erbringen zu können, oder
+- b) um entscheiden zu können, in welchen Fällen die Erbringung von Leistungen der Inkassohilfe an geeignete Dritte übertragen wird, und auch um bei einer Übertragung in der Lage zu sein, allfällige Entscheide betreffend die Inkassohilfe zu erlassen.
+
+<sup>2<sup>quater</sup></sup> Gegenstand der Inkassohilfe sind Unterhaltsansprüche aus dem Kindesrecht, dem Ehe- und Scheidungsrecht und dem Partnerschaftsgesetz gemäss Art. 3 Abs. 1–3 InkHV sowie die weiteren familienrechtlichen Ansprüche gemäss Art. 3 Abs. 4 lit. a und b InkHV.
+
+<sup>3</sup> Leistungen der Gemeinde zur Inkassohilfe für Unterhaltsbeiträge
+
+- a) für Kinder sind unentgeltlich,
+- b) für andere berechtigte Personen sind in der Regel unentgeltlich. Verfügt die berechtigte Person über die erforderlichen Mittel, verlangt die Gemeinde von ihr, sich an den Kosten für deren Leistungen zu beteiligen. Der Regierungsrat regelt durch Verordnung die Einzelheiten und bestimmt die Ansätze.
+
+<sup>3<sup>bis</sup></sup> Kosten der Leistungen anderer Dritter, namentlich Betreibungs-, Verfahrens- und Übersetzungskosten, werden von der Gemeinde bevorschusst. Können die Kosten nicht von der verpflichteten Person erhältlich gemacht werden, werden sie der berechtigten Person nur auferlegt, wenn diese über die erforderlichen Mittel verfügt. Der Regierungsrat regelt durch Verordnung die Einzelheiten und bestimmt die Ansätze.
+
+<sup>4</sup> Die Inkassohilfe gemäss internationalen Übereinkommen über die Geltendmachung von Unterhaltsansprüchen liegt in der Zuständigkeit der Gemeinde. Fachstelle ist die gemäss Inkassohilfeverordnung örtlich zuständige Gemeinde, auch bei Übertragung gemäss Absatz 2.
+
+[^31-1]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de)
+[^31-2]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
 
 ### 3.5. Bevorschussung von Unterhaltsbeiträgen für Kinder
 
@@ -506,7 +568,7 @@ beschliesst:
 
 **Anspruchsvoraussetzungen**
 
-<sup>1</sup> Minderjährige und Personen in Ausbildung bis zum vollendeten 20. Altersjahr haben unter Vorbehalt von § 34 Anspruch auf Bevorschussung der Unterhaltsbeiträge, wenn
+<sup>1</sup> Minderjährige und Personen in Ausbildung bis zum vollendeten 20. Altersjahr haben unter Vorbehalt von § 34 Anspruch auf Bevorschussung sowohl der Unterhaltsbeiträge zur Deckung der direkten Kosten für das Kind (Barunterhalt) als auch der Unterhaltsbeiträge zur Deckung der indirekten Kosten aufgrund der persönlichen Betreuung des Kindes durch die Eltern (Betreuungsunterhalt), wenn
 
 - a) der unterhaltsbeitragspflichtige Elternteil seiner Unterhaltspflicht nicht oder nicht rechtzeitig nachkommt,
 - b) ein vollstreckbarer Rechtstitel vorliegt,
@@ -539,7 +601,7 @@ beschliesst:
 
 <sup>2</sup> Bevorschusst werden die nach der Gesuchstellung fällig werdenden Unterhaltsbeiträge. Im Zeitpunkt der Gesuchstellung ausstehende Beiträge werden auf drei Monate zurück bevorschusst.
 
-<sup>3</sup> Die Durchführung der Bevorschussung kann privaten Organisationen übertragen werden.
+<sup>3</sup> Die Durchführung der Bevorschussung kann geeigneten Dritten übertragen werden. Dritte sind geeignet, wenn sie über die notwendigen Fachkenntnisse verfügen, um im betreffenden Einzelfall die entsprechenden Leistungen erbringen zu können.
 
 #### § 37
 
@@ -694,6 +756,8 @@ beschliesst:
 - a) …
 - b) …
 
+<sup>3<sup>bis</sup></sup> Die Gemeinde meldet dem Kantonalen Sozialdienst Fälle gemäss Absatz 3 innerhalb der vom Regierungsrat durch Verordnung festgelegten Verwirkungsfrist. Der Regierungsrat regelt durch Verordnung auch den Beginn des Fristenlaufs.
+
 <sup>4</sup> Erhält eine Gemeinde in einem Fall, der durch den Fonds mitfinanziert wurde, nachträglich Rückerstattungen, hat sie diese bis maximal zur Höhe der durch den Fonds getragenen Kosten an diesen weiterzuleiten.
 
 <sup>5</sup> Das zuständige Departement organisiert die Durchführung der gemeinsamen Finanzierung gemäss Absatz 3. Es kann externe Dienstleistende mit der Verwaltung und Überwachung des Fonds beauftragen.
@@ -757,6 +821,8 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat regelt durch Verordnung, in welchen Fällen der Kanton anstelle der Standortgemeinde einer kantonalen Unterkunft als Wohnsitzgemeinde von Personen gemäss § 16 Abs. 1 die Folgekosten trägt.
 
+<sup>5</sup> Für die vom Kanton gemäss Absatz 1 lit. b–d voll zu vergütenden Sozialhilfekosten stellen die Gemeinden dem Kantonalen Sozialdienst innerhalb der vom Regierungsrat durch Verordnung festgelegten Verwirkungsfrist Rechnung. Der Regierungsrat regelt durch Verordnung auch den Beginn des Fristenlaufs.
+
 #### § 52
 
 **Gemeinde**
@@ -766,7 +832,7 @@ beschliesst:
 - a) die Infrastruktur und den Betrieb des kommunalen oder regionalen Sozialdienstes,
 - b) die persönliche Hilfe,
 - c) die Inkassohilfe,
-- d) die weiteren Massnahmen der sozialen Prävention gemäss den §§ 39 und 40 vorbehältlich der Leistungen des Kantons gemäss § 51 Abs. 2,
+- d) die Notunterkünfte für Obdachlose gemäss § 40,
 - e) die an Arbeitgebende ausgerichteten Einarbeitungszuschüsse.
 
 #### § 53
@@ -835,29 +901,13 @@ beschliesst:
 
 #### § 60
 
-**Übergangsrecht**
+**…**
 
-<sup>1</sup> Der Kanton bleibt weiterhin Kostenträger für die nach dem Gesetz über die Armenfürsorge vom 12. März 1936[^60-1] dauernd durch ihn unterstützten Personen mit Aargauer Bürgerrecht.
+#### § 60a
 
-<sup>2</sup> Auf die im Zeitpunkt des Inkrafttretens dieses Gesetzes hängigen Gesuche und Verfahren und deren Kostenverteilung ist das bisherige Recht anwendbar, soweit es um Ansprüche oder Leistungen für die Zeit vor dem Inkrafttreten geht.
+**Übergangsrecht zur Änderung vom 27. Juni 2023**
 
-<sup>3</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes beim Regierungsrat hängigen Beschwerdeverfahren werden durch diesen zu Ende geführt.
-
-<sup>4</sup> Die Zuständigkeit zur Geltendmachung von Ansprüchen auf Rückerstattung, Unterhalt und Verwandtenunterstützung sowie die Vereinnahmung der daraus resultierenden Geldbeträge verbleiben bezüglich jener Leistungen, deren Kosten der Kanton getragen hat, bis zum Ablauf von 5 Jahren seit Inkrafttreten dieses Gesetzes beim Kanton, wobei der Rechtsschutz sich nach dem bisherigen Recht richtet. Diese Zuständigkeit verbleibt darüber hinaus beim Kanton, wenn
-
-- a) die rückerstattungspflichtige Person nicht mehr im Kanton Aargau Wohnsitz hat oder
-- b) der Kanton eine schriftliche Rückerstattungsverpflichtung, eine pfandrechtliche Sicherstellung oder eine Forderungsabtretung besitzt.
-
-<sup>5</sup> Bestehende Therapieeinrichtungen im Sinne von § 15 Abs. 1 haben innert 6 Monaten nach Inkrafttreten dieses Gesetzes ein Gesuch um Bewilligungserteilung einzureichen. Sie gelten bis zum Entscheid des Gesundheitsdepartementes[^60-2] als anerkannt.
-
-<sup>6</sup> Bewilligungspflichtige stationäre Einrichtungen mit sozialer Zweckbestimmung im Sinne von § 57 haben innert 6 Monaten nach Inkrafttreten dieses Gesetzes ein Gesuch um Bewilligungserteilung einzureichen.
-
-<sup>7</sup> Stationären Einrichtungen mit sozialer Zweckbestimmung, die bereits vor Inkrafttreten dieses Gesetzes in Betrieb waren, kann bei Vorliegen wichtiger Gründe die Bewilligung unter erleichterten Bedingungen erteilt werden.
-
-<sup>8</sup> Die beim Inkrafttreten der Änderung von § 58 Abs. 1 und 2 beim Bezirksamt hängigen Beschwerden sind der neu zuständigen Behörde zur Bearbeitung zu überweisen.
-
-[^60-1]: AGS Bd. 2 S. 560; Bd. 7 S. 221; Bd. 10 S. 200, 310 (aufgehoben: AGS Bd. 11 S. 26)
-[^60-2]: Heute: Departement Gesundheit und Soziales
+<sup>1</sup> Die Verwirkungsfrist gemäss § 51 Abs. 5 kommt ab dem 1. Januar 2025 zur Anwendung.
 
 #### § 61
 
