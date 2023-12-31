@@ -4,7 +4,7 @@ number: "810.11"
 title: LOI du 16.11.1993 sur les Hospices cantonaux (LHC)
 short: LHC
 language: fr
-version: 2017-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.11?id=a92a2ad4-114a-4725-b235-90bef85a27ea"
 ---
 
@@ -352,7 +352,7 @@ décrète
 
 **Plan stratégique de développement [^13a-2]**
 
-<sup>1</sup> Le CHUV, en concertation avec l'Université, soumet au Conseil d'Etat un plan stratégique de développement au cours de la première année de la législature.
+<sup>1</sup> Le CHUV, en concertation avec l'Université, et sur préavis du Conseil stratégique, soumet au Conseil d'Etat un plan stratégique de développement au cours de la première année de la législature.
 
 <sup>2</sup> Le plan stratégique de développement contient les principales intentions dans le domaine des soins, des services, de la recherche, de l'enseignement et de l'administration et leurs conséquences en matière de qualité et de coût, tant d'investissement que d'exploitation.
 
@@ -362,7 +362,7 @@ décrète
 
 <sup>5</sup> Le Conseil d'Etat transmet le plan stratégique de développement au Grand Conseil pour adoption.
 
-[^13a-2]: Modif. 1 du 24.09.1996: Introduction Art. 13b; entrée en vigueur au 01.01.1997 · Modif. 3 du 21.03.2006: Modification Al. 1,3; entrée en vigueur au 01.07.2006 · Modif. 4 du 24.04.2007: Modification Al. 1,2; entrée en vigueur au 01.07.2007; Abrogation Al. 3; entrée en vigueur au 01.07.2007; Introduction Al. 4,5; entrée en vigueur au 01.07.2007 · Modif. 7 du 15.06.2021: Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Art. 16b; entrée en vigueur au 01.01.2024; Introduction Art. 16c; entrée en vigueur au 01.01.2024
+[^13a-2]: Modif. 1 du 24.09.1996: Introduction Art. 13b; entrée en vigueur au 01.01.1997 · Modif. 3 du 21.03.2006: Modification Al. 1,3; entrée en vigueur au 01.07.2006 · Modif. 4 du 24.04.2007: Modification Al. 1,2; entrée en vigueur au 01.07.2007; Abrogation Al. 3; entrée en vigueur au 01.07.2007; Introduction Al. 4,5; entrée en vigueur au 01.07.2007 · Modif. 7 du 15.06.2021: Modification Al. 1; entrée en vigueur au 01.01.2024
 [^13b-1]: Règlement du 20.05.2009 d'application de la loi du 16.11.1993 sur les Hospices cantonaux ( [BLV 810.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.11.1?id=89c994ee-3658-4b9f-ab2c-d906607d31b8))
 
 #### Art. 13c
@@ -399,11 +399,11 @@ décrète
 
 <sup>2</sup> Le CHUV peut réaliser des travaux de rénovation, de transformation, d'extension et de construction de locaux nécessaires à l'exécution de ses missions, lorsque le coût de l'investissement à sa charge ne dépasse pas huit millions de francs. Sont exclus l'acquisition auprès de tiers d'immeubles déjà existants et de terrains.
 
-<sup>3</sup> Le Conseil d'Etat est compétent pour décider d'engager les travaux mentionnés à l'alinéa 2.
+<sup>3</sup> Le Conseil d'Etat est compétent pour décider d'engager les travaux mentionnés à l'alinéa 2, sous réserve de l'approbation de la Commission des finances. L'approbation de la Commission des finances a lieu une fois par année, sur la base d'une proposition du Conseil d'Etat.
 
-<sup>4</sup> Le CHUV soumet tous les 5 ans au Conseil d'Etat, pour approbation, un programme pluriannuel d'investissement (PPI) décrivant les travaux au sens de l'alinéa 2 qu'il entend réaliser durant la période concernée. Ce PPI est transmis pour information au Grand Conseil.
+<sup>4</sup> Le CHUV soumet tous les 5 ans au Conseil d'Etat, pour approbation, un programme pluriannuel d'investissement (PPI) décrivant les travaux au sens de l'alinéa 2 qu'il entend réaliser durant la période concernée. Ce PPI est soumis pour approbation à la Commission des finances, puis transmis pour information au Grand Conseil. La Commission des finances est également compétente pour approuver les modifications du PPI soumises au Conseil d'Etat.
 
-[^14-1]: Modif. 6 du 14.12.2016: Introduction Art. 14a; entrée en vigueur au 01.01.2017 · Modif. 7 du 15.06.2021: Modification Al. 3-4; entrée en vigueur au 01.01.2024; Introduction Art. 16b; entrée en vigueur au 01.01.2024; Introduction Art. 16c; entrée en vigueur au 01.01.2024
+[^14-1]: Modif. 6 du 14.12.2016: Introduction Art. 14a; entrée en vigueur au 01.01.2017 · Modif. 7 du 15.06.2021: Modification Al. 3-4; entrée en vigueur au 01.01.2024
 
 #### Art. 14b
 
@@ -447,6 +447,49 @@ décrète
 **… [^16-2]**
 
 [^16-2]: Modif. 1 du 24.09.1996: Introduction Art. 16a; entrée en vigueur au 01.01.1997 · Modif. 2 du 26.09.2000: Abrogation Art. 16a; entrée en vigueur au 01.12.2000
+
+#### Art. 16b
+
+**Conseil stratégique du CHUV [^16a-1]**
+
+<sup>1</sup> Le Conseil stratégique du CHUV est composé de 9 membres et comporte des personnalités choisies en fonction de leur intérêt et leur expertise dans le domaine de la santé publique, notamment dans le domaine de la médecine et des soins, des humanités et de l'éthique, du personnel, des ressources humaines, de l'organisation et des finances hospitalières, du droit des patients, du développement durable et des nouvelles technologies.
+
+<sup>2</sup> Le chef du département en charge de la santé, le directeur général du CHUV ad personam, le directeur de la Direction générale de la santé, ainsi que le Doyen de la Faculté de Biologie et Médecine peuvent assister aux séances avec voix consultative.
+
+<sup>3</sup> Le Conseil stratégique du CHUV, dont sa présidence, est nommé par le Conseil d'Etat pour une période de cinq ans renouvelable deux fois. Sa composition est ratifiée par le Grand Conseil. Il est administrativement rattaché à la direction générale du CHUV, qui en assure le secrétariat.
+
+<sup>4</sup> Le Conseil stratégique du CHUV siège aussi souvent que nécessaire, mais au moins une fois par trimestre. Ses membres sont soumis au devoir de confidentialité et sont indemnisés conformément aux dispositions relatives aux commissions extraparlementaires.
+
+<sup>5</sup> Les élus cantonaux ou fédéraux en fonction ou sortant de charge ou non réélus sont soumis à un délai de carence de 5 ans, débutant à la fin de leur mandat politique, pour pouvoir siéger au Conseil stratégique du CHUV.
+
+<sup>6</sup> Pour le surplus, le Conseil stratégique du CHUV se dote d'un règlement interne, approuvé par le département.
+
+[^16a-1]: Modif. 7 du 15.06.2021: Introduction Art. 16b; entrée en vigueur au 01.01.2024
+
+#### Art. 16c
+
+**Attributions du Conseil stratégique du CHUV [^16b-1]**
+
+<sup>1</sup> De par l'expertise de ses membres, le Conseil stratégique du CHUV est un organe d'information, de réflexion, de prospective et de préavis qui a pour mission générale de soutenir et d'accompagner le CHUV dans l'élaboration et la mise en œuvre de sa stratégie et de son développement.
+
+<sup>2</sup> Le Conseil se positionne notamment sur :
+
+- a. la stratégie générale du CHUV ;
+- b. le contrat de prestations avec le département ;
+- c. la nomination du directeur général du CHUV.
+
+<sup>3</sup> Le Conseil stratégique du CHUV préavise formellement :
+
+- a. le Plan stratégique de développement du CHUV ;
+- b. les projets de décret d'investissement de plus de CHF 8 millions à soumettre au Grand Conseil ;
+- c. les travaux mentionnés à l'article 14a alinéa 2 ;
+- d. le PPI au sens de l'article 14a alinéa 4.
+
+<sup>4</sup> Le Conseil stratégique du CHUV rend compte une fois par année au Conseil d'Etat. Il peut également être sollicité directement par la direction du CHUV, le département ou le Conseil d'Etat.
+
+<sup>5</sup> Les avis formels du Conseil stratégique du CHUV sont communiqués au département et au Conseil d'Etat, ainsi qu'aux commissions de surveillance (COFIN et COGES), et à la commission thématique de santé publique pour autant qu'elle soit constituée.
+
+[^16b-1]: Modif. 7 du 15.06.2021: Introduction Art. 16c; entrée en vigueur au 01.01.2024
 
 #### Art. 17
 
