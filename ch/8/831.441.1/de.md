@@ -4,11 +4,11 @@ title: "Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassen
 short: BVV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/de"
 
 (BVV 2)
 
-vom 18. April 1984 (Stand am 1. Januar 2023)
+vom 18. April 1984 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -419,7 +419,8 @@ Das Altersguthaben wird verzinst:
 - g.[^12-7] für den Zeitraum vom 1. Januar 2012 bis zum 31. Dezember 2013: mindestens mit 1,5 Prozent;
 - h.[^12-8] für den Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2015: mindestens mit 1,75 Prozent;
 - i.[^12-9] für den Zeitraum vom 1. Januar 2016 bis zum 31. Dezember 2016: mindestens mit 1,25 Prozent;
-- j.[^12-10] für den Zeitraum ab 1. Januar 2017: mindestens mit 1 Prozent.
+- j.[^12-10] für den Zeitraum vom 1. Januar 2017 bis zum 31. Dezember 2023: mindestens mit 1 Prozent;
+- k.[^12-11] für den Zeitraum ab dem 1. Januar 2024: mindestens mit 1,25 Prozent.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)).
 [^12-2]: Fassung gemäss Ziff. I der V vom 1. Sept. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)).
@@ -430,7 +431,8 @@ Das Altersguthaben wird verzinst:
 [^12-7]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011 ([AS 2011 5035](https://fedlex.data.admin.ch/eli/oc/2011/737)). Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)).
 [^12-8]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013 ([AS 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)). Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)).
 [^12-9]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)). Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
-[^12-10]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
+[^12-10]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016 ([AS 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)). Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
+[^12-11]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
 
 #### Art. 12a–12b
 
@@ -454,7 +456,7 @@ Das für die Berechnung der Altersgutschrift massgebende Alter des Versicherten 
 
 [^14-2]
 
-<sup>1</sup> Die Vorsorgeeinrichtung muss das Alterskonto eines Invaliden, dem sie eine Rente ausrichtet, für den Fall eines Wiedereintrittes in das Erwerbsleben bis zum Rentenalter weiterführen.
+<sup>1</sup> Die Vorsorgeeinrichtung muss das Alterskonto einer invaliden Person, der sie eine Rente ausrichtet, für den Fall eines Wiedereintrittes in das Erwerbsleben bis zum Erreichen des Referenzalters nach Artikel 13 Absatz 1 BVG weiterführen.[^14-3]
 
 <sup>2</sup> Das Altersguthaben des Invaliden ist zu verzinsen.
 
@@ -464,6 +466,7 @@ Das für die Berechnung der Altersgutschrift massgebende Alter des Versicherten 
 
 [^14-1]: Siehe auch die SchlB der Änd. vom 18. Aug. 2004 am Ende dieses Erlasses.
 [^14-2]: Fassung gemäss Ziff. I der V vom 9. Dez. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3452](https://fedlex.data.admin.ch/eli/oc/1996/3452_3452_3452)).
+[^14-3]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 15
 
@@ -550,13 +553,57 @@ Die Vorsorge- oder Freizügigkeitseinrichtung muss festhalten, wie hoch der Ante
 
 Wird der Anschlussvertrag wegen Zahlungsunfähigkeit des Arbeitgebers aufgelöst, so bleiben die Rentenbezüger bei der bisherigen Vorsorgeeinrichtung; diese richtet die laufenden Renten entsprechend den bisherigen reglementarischen Bestimmungen weiter aus.
 
-### 4. Abschnitt: Versicherungsleistungen
+### 3*b*. Abschnitt: Übernahme von Rentnerbeständen und rentnerlastigen Beständen
+
+[^chap1a-sec3b-1]
+
+[^chap1a-sec3b-1]: Eingefügt durch Anhang Ziff. 6 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 17
 
-[^17-1]
+**Rentnerlastigkeit**[^17-1]
 
-[^17-1]: Aufgehoben durch Ziff. I der V vom 18. Aug. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+### (Art. 52*e* Abs. 4 und 53*e*<sup>bis</sup> BVG)
+
+<sup>1</sup> Ein Bestand gilt als rentnerlastig, wenn die Vorsorgekapitalien der Rentnerinnen und Rentner, einschliesslich der dazugehörigen technischen Rückstellungen, mindestens 70 Prozent der gesamten Vorsorgekapitalien des zu übertagenden Bestands betragen.
+
+<sup>2</sup> Der Stichtag für die Beurteilung der Rentnerlastigkeit ist der vereinbarte Zeitpunkt der Übernahme.
+
+<sup>3</sup> Verantwortlich für die Beurteilung der Rentnerlastigkeit ist der Experte für berufliche Vorsorge der *übergebenden* Vorsorgeeinrichtung. Er berücksichtigt bei der Beurteilung der Rentnerlastigkeit die Entwicklung des Bestands, insbesondere absehbare Pensionierungen und Austritte bis zum vereinbarten Zeitpunkt der Übernahme.
+
+<sup>4</sup> Die Vorsorgekapitalien invalider Versicherter, die das reglementarische Referenzalter noch nicht erreicht haben, werden bei der Beurteilung der Rentnerlastigkeit nicht berücksichtigt.
+
+[^17-1]: Fassung gemäss Anhang Ziff. 6 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 17a
+
+**Ausreichende Finanzierung**[^17a-1]
+
+### (Art. 52*e* Abs. 4 und 53*e*<sup>bis</sup> BVG)
+
+<sup>1</sup>
+
+Ein Bestand gilt als ausreichend finanziert, wenn das für den Bestand zu übertragende Vorsorgevermögen folgende Werte deckt:
+
+- a. das Vorsorgekapital für den zu übertragenden Bestand;
+- b. die technischen Rückstellungen für den zu übertragenden Bestand; und
+- c. eine genügende Wertschwankungsreserve für den zu übertragenden Bestand.
+
+<sup>2</sup> Die Wertschwankungsreserve des zu übertragenden Bestands ist genügend, wenn sie mindestens der Wertschwankungsreserve der übernehmenden Vorsorgeeinrichtung entspricht.
+
+<sup>3</sup> Nimmt eine Einrichtung mit separater Rechnung pro Vorsorgewerk den Bestand auf, so ist die Wertschwankungsreserve des Bestands dann genügend, wenn sie mindestens der Zielgrösse des Vorsorgewerks entspricht.
+
+<sup>4</sup> Der Stichtag für die Beurteilung der ausreichenden Finanzierung ist der vereinbarte Zeitpunkt der Übernahme.
+
+<sup>5</sup> Verantwortlich für die Beurteilung der ausreichenden Finanzierung ist der Experte für berufliche Vorsorge der übernehmenden Vorsorgeeinrichtung. Er berücksichtigt bei der Beurteilung die Entwicklung des Bestands, insbesondere absehbare Pensionierungen sowie pendente und latente Invaliditätsfälle.
+
+[^17a-1]: Eingefügt durch Anhang Ziff. 6 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### 4. Abschnitt: Versicherungsleistungen
+
+[^chap1a-sec4-1]
+
+[^chap1a-sec4-1]: Ursprünglich: vor Art. 17.
 
 #### Art. 18
 
@@ -642,13 +689,15 @@ Unter die von der versicherten Person einbezahlten Beiträge nach Artikel 20*a* 
 
 #### Art. 24
 
-**Kürzung von Invalidenleistungen vor dem Erreichen des ordentlichen Rentenalters und von Hinterlassenenleistungen**[^24-1]
+**Kürzung von Invalidenleistungen vor dem Erreichen des Referenzalters und von Hinterlassenenleistungen**[^24-1]
 
 ### (Art. 34*a* BVG)
 
+[^24-2]
+
 <sup>1</sup>
 
-Die Vorsorgeeinrichtung kann bei der Kürzung von Invalidenleistungen vor Erreichen des ordentlichen Rentenalters und von Hinterlassenenleistungen folgende Leistungen und Einkünfte anrechnen:
+Die Vorsorgeeinrichtung kann bei der Kürzung von Invalidenleistungen vor Erreichen des Referenzalters und von Hinterlassenenleistungen folgende Leistungen und Einkünfte anrechnen:[^24-3]
 
 - a. Hinterlassenen- und Invalidenleistungen, die andere in- und ausländische Sozialversicherungen und Vorsorgeeinrichtungen der leistungsberechtigten Person aufgrund des schädigenden Ereignisses ausrichten; dabei werden Kapitalleistungen mit ihrem Rentenumwandlungswert angerechnet;
 - b. Taggelder aus obligatorischen Versicherungen;
@@ -660,7 +709,7 @@ Die Vorsorgeeinrichtung kann bei der Kürzung von Invalidenleistungen vor Erreic
 Sie darf folgende Leistungen und Einkünfte nicht anrechnen:
 
 - a. Hilflosen- und Integritätsentschädigungen, Abfindungen, Assistenzbeiträge und ähnliche Leistungen;
-- b. Zusatzeinkommen, das während der Teilnahme an Massnahmen zur Wiedereingliederung nach Artikel 8*a* des Bundesgesetzes vom 19. Juni 1959[^24-2] über die Invalidenversicherung erzielt wird.
+- b. Zusatzeinkommen, das während der Teilnahme an Massnahmen zur Wiedereingliederung nach Artikel 8*a* des Bundesgesetzes vom 19. Juni 1959[^24-4] über die Invalidenversicherung erzielt wird.
 
 <sup>3</sup> Die Hinterlassenenleistungen an die Witwe oder den Witwer oder an die überlebende eingetragene Partnerin oder den überlebenden eingetragenen Partner und an die Waisen werden zusammengerechnet.
 
@@ -671,23 +720,27 @@ Sie darf folgende Leistungen und Einkünfte nicht anrechnen:
 <sup>6</sup> Der mutmasslich entgangene Verdienst entspricht dem gesamten Erwerbs- oder Ersatzeinkommen, das die versicherte Person ohne das schädigende Ereignis mutmasslich erzielen würde.
 
 [^24-1]: Fassung gemäss Anhang Ziff. 1 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^24-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-2]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24-3]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 24a
 
-**Kürzung von Invalidenleistungen nach dem Erreichen des ordentlichen Rentenalters**[^24a-1]
+**Kürzung von Invalidenleistungen nach dem Erreichen des Referenzalters**[^24a-1]
 
 ### (Art. 34*a* BVG)
 
+[^24a-2]
+
 <sup>1</sup>
 
-Hat die versicherte Person das ordentliche Rentenalter erreicht, so darf die Vorsorgeeinrichtung ihre Leistungen nur kürzen, wenn diese zusammentreffen mit:
+Hat die versicherte Person das Referenzalter erreicht, so darf die Vorsorgeeinrichtung ihre Leistungen nur kürzen, wenn diese zusammentreffen mit:[^24a-3]
 
-- a. Leistungen nach dem Bundesgesetz vom 20. März 1981[^24a-2] über die Unfallversicherung (UVG);
-- b. Leistungen nach dem Bundesgesetz vom 19. Juni 1992[^24a-3] über die Militärversicherung (MVG); oder
+- a. Leistungen nach dem Bundesgesetz vom 20. März 1981[^24a-4] über die Unfallversicherung (UVG);
+- b. Leistungen nach dem Bundesgesetz vom 19. Juni 1992[^24a-5] über die Militärversicherung (MVG); oder
 - c. vergleichbaren ausländischen Leistungen.
 
-<sup>2</sup> Die Vorsorgeeinrichtung erbringt die Leistungen weiterhin in gleichem Umfang wie vor Erreichen des ordentlichen Rentenalters. Insbesondere muss sie Leistungskürzungen bei Erreichen des Rentenalters nach Artikel 20 Absätze 2<sup>ter</sup> und 2<sup>quater</sup> UVG und Artikel 47 Absatz 1 MVG nicht ausgleichen.
+<sup>2</sup> Die Vorsorgeeinrichtung erbringt die Leistungen weiterhin in gleichem Umfang wie vor Erreichen des Referenzalters. Insbesondere muss sie Leistungskürzungen bei Erreichen des Referenzalters nach Artikel 20 Absätze 2<sup>ter</sup> und 2<sup>quater</sup> UVG sowie Artikel 47 Absatz 1 MVG nicht ausgleichen.[^24a-6]
 
 <sup>3</sup> Die gekürzten Leistungen der Vorsorgeeinrichtung dürfen zusammen mit den Leistungen nach UVG, nach MVG und den vergleichbaren ausländischen Leistungen nicht tiefer sein als die ungekürzten Leistungen nach den Artikeln 24 und 25 BVG.
 
@@ -695,11 +748,15 @@ Hat die versicherte Person das ordentliche Rentenalter erreicht, so darf die Vor
 
 <sup>5</sup> Artikel 24 Absätze 4 und 5 gilt sinngemäss.
 
-<sup>6</sup> Wird bei einer Scheidung eine Invalidenrente nach dem reglementarischen Rentenalter geteilt, so wird der Rentenanteil, der dem berechtigten Ehegatten zugesprochen wurde, bei der Berechnung einer allfälligen Kürzung der Invalidenrente des verpflichteten Ehegatten weiterhin angerechnet.
+<sup>6</sup> Wird bei einer Scheidung eine Invalidenrente nach dem Erreichen des reglementarischen Referenzalters geteilt, so wird der Rentenanteil, der dem berechtigten Ehegatten zugesprochen wurde, bei der Berechnung einer allfälligen Kürzung der Invalidenrente des verpflichteten Ehegatten weiterhin angerechnet.[^24a-7]
 
 [^24a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^24a-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^24a-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^24a-2]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-3]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^24a-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^24a-6]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-7]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 25
 
@@ -743,23 +800,29 @@ Die Vorsorgeeinrichtung kann den Anspruch auf Invalidenleistung bis zur Erschöp
 
 #### Art. 26a
 
-**Vorsorgeausgleich bei Kürzung der Invalidenrente vor dem reglementarischen Rentenalter**[^26a-1]
+**Vorsorgeausgleich bei Kürzung der Invalidenrente vor dem Erreichen des reglementarischen Referenzalters**[^26a-1]
 
 ### (Art. 124 Abs. 3 ZGB; Art. 34*a* BVG)
 
-<sup>1</sup> Wurde infolge des Zusammentreffens mit Leistungen der Unfall- oder Militärversicherung eine Invalidenrente gekürzt, so kann bei einer Scheidung vor dem reglementarischen Rentenalter der Betrag nach Artikel 124 Absatz 1 ZGB nicht für den Vorsorgeausgleich verwendet werden.
+[^26a-2]
+
+<sup>1</sup> Wurde infolge des Zusammentreffens mit Leistungen der Unfall- oder Militärversicherung eine Invalidenrente gekürzt, so kann bei einer Scheidung vor dem Erreichen des reglementarischen Referenzalters der Betrag nach Artikel 124 Absatz 1 ZGB nicht für den Vorsorgeausgleich verwendet werden.[^26a-3]
 
 <sup>2</sup> Der Betrag kann jedoch für den Vorsorgeausgleich verwendet werden, wenn die Invalidenrente ohne Anspruch auf Kinderrenten nicht gekürzt würde.
 
 [^26a-1]: Ursprünglich: Art. 25*a*. Eingefügt durch Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^26a-2]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^26a-3]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 26b
 
-**Vorsorgeausgleich bei Kürzung der Invalidenrente nach dem reglementarischen Rentenalter**[^26b-1]
+**Vorsorgeausgleich bei Kürzung der Invalidenrente nach dem Erreichen des reglementarischen Referenzalters**[^26b-1]
 
 ### (Art. 124*a* Abs. 3 Ziff. 2 und 124*c* ZGB; Art. 34*a* BVG)
 
-<sup>1</sup> Wurde eine Invalidenrente infolge des Zusammentreffens mit anderen Leistungen gekürzt, so stützt sich das Gericht bei einer Scheidung nach dem reglementarischen Rentenalter bei der Entscheidung über die Teilung auf die ungekürzte Rente.
+[^26b-2]
+
+<sup>1</sup> Wurde eine Invalidenrente infolge des Zusammentreffens mit anderen Leistungen gekürzt, so stützt sich das Gericht bei einer Scheidung nach dem Erreichen des reglementarischen Referenzalters bei der Entscheidung über die Teilung auf die ungekürzte Rente.[^26b-3]
 
 <sup>2</sup> Ist die gekürzte Invalidenrente mindestens gleich hoch wie der Rentenanteil, der dem berechtigten Ehegatten zugesprochen wurde, so wird der Rentenanteil nach Artikel 124*a* Absatz 2 ZGB umgerechnet und dem berechtigten Ehegatten ausgerichtet oder in seine Vorsorge übertragen.
 
@@ -774,6 +837,8 @@ Ist die gekürzte Invalidenrente tiefer als der dem berechtigten Ehegatten zuges
 <sup>4</sup> Wird ein zugesprochener Rentenanteil nach Artikel 124*c* ZGB verrechnet, so ist für die Anwendung der Absätze 2 und 3 der Differenzbetrag zwischen den gegenseitigen Ansprüchen der Ehegatten massgebend.
 
 [^26b-1]: Ursprünglich: Art. 25*b*. Eingefügt durch Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^26b-2]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^26b-3]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### 7. Abschnitt: Rückgriff
 
@@ -1364,10 +1429,9 @@ Sammel- und Gemeinschaftseinrichtungen, die dem FZG unterstellt sind, dürfen be
 
 ### (Art. 65*a* Abs. 5 und 71 Abs. 1 BVG)
 
-Die Aktiven und die Passiven sind nach den Fachempfehlungen zur Rechnungslegung Swiss GAAP FER 26 zu bewerten. Für die für versicherungstechnische Risiken notwendigen Rückstellungen ist der aktuelle Bericht des Experten für die berufliche Vorsorge nach Artikel 53 Absatz 2 BVG[^48-2] massgebend.
+Die Aktiven und die Passiven sind nach den Fachempfehlungen zur Rechnungslegung Swiss GAAP FER 26 zu bewerten. Für die für versicherungstechnische Risiken notwendigen Rückstellungen ist die aktuelle Berechnung des Experten für berufliche Vorsorge nach Artikel 52*e* BVG massgebend.
 
-[^48-1]: Fassung gemäss Ziff. I der V vom 24. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^48-2]: Dieser Art. wurde aufgehoben. Heute: nach Art. 52*e* BVG.
+[^48-1]: Fassung gemäss Anhang Ziff. 6 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 48a
 
@@ -1952,9 +2016,13 @@ Die Bestimmungen dieses Abschnitts gelten sinngemäss auch für:
 
 <sup>2</sup> Der Höchstbetrag der Einkaufssumme reduziert sich um ein Guthaben in der Säule 3a, soweit es die aufgezinste Summe der jährlichen gemäss Artikel 7 Absatz 1 Buchstabe a der Verordnung vom 13. November 1985[^60a-1] über die steuerliche Abzugsberechtigung für Beiträge an anerkannte Vorsorgeformen vom Einkommen höchstens abziehbaren Beiträge ab vollendetem 24. Altersjahr der versicherten Person übersteigt. Bei der Aufzinsung kommen die jeweils gültigen BVG-Mindestzinssätze zur Anwendung.
 
-<sup>3</sup> Hat eine versicherte Person Freizügigkeitsguthaben, die sie nicht nach Artikel 3 und 4 Absatz 2<sup>bis</sup> FZG in eine Vorsorgeeinrichtung übertragen musste, reduziert sich der Höchstbetrag der Einkaufssumme um diesen Betrag.
+<sup>3</sup> Hat eine versicherte Person Vorsorgeguthaben, die in der bisherigen Vorsorgeeinrichtung verbleiben, oder Freizügigkeitsguthaben, die sie nicht nach den Artikeln 3 und 4 Absatz 2<sup>bis</sup> FZG in eine Vorsorgeeinrichtung übertragen musste, so reduziert sich der Höchstbetrag der Einkaufssumme um diesen Betrag.[^60a-2]
+
+<sup>4</sup> Für eine versicherte Person, die bereits Altersleistungen bezieht oder bezogen hat und die in der Folge die Erwerbstätigkeit wieder aufnimmt oder ihren Beschäftigungsgrad wieder erhöht, reduziert sich der Höchstbetrag der Einkaufssumme im Umfang der bereits bezogenen Altersleistungen.[^60a-3]
 
 [^60a-1]: [SR 831.461.3](https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778)
+[^60a-2]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^60a-3]: Eingefügt durch Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 60b
 
@@ -2118,6 +2186,19 @@ Für die nachfolgend aufgeführten Jahrgänge und deren ordentliches Rentenalter
 <tr><td>1949</td><td>64</td><td>6.80</td></tr>
 </table>
 
+### 1*c*. Abschnitt: Ausführungsbestimmung zu Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG
+
+[^chap7-sec1c-1]
+
+[^chap7-sec1c-1]: Eingefügt durch Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+**Art. 62**d
+
+Das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^chap7-sec1c-2] des Bundesgesetzes vom 20. Dezember 1946[^chap7-sec1c-3] über die Alters- und Hinterlassenenversicherung festgelegte Referenzalter gilt auch als BVG-Referenzalter der Frauen.
+
+[^chap7-sec1c-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^chap7-sec1c-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
 ### 2. Abschnitt: Inkrafttreten
 
 #### Art. 63
@@ -2263,7 +2344,7 @@ Anhang[^t-1]
 
 <sup>1</sup> Der Deckungsgrad der Vorsorgeeinrichtung wird wie folgt ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/de/xml/image/image1.png)
 
 Wobei für Vv gilt: Die gesamten Aktiven per Bilanzstichtag zu Marktwerten bilanziert, vermindert um Verbindlichkeiten, passive Rechnungsabgrenzung und Arbeitgeberbeitragsreserven, soweit keine Vereinbarung über einen Verwendungsverzicht des Arbeitgebers vorliegt. Es ist das effektive Vorsorgevermögen massgebend, wie es aus der tatsächlichen finanziellen Lage nach Artikel 47 Absatz 2 hervorgeht. Eine Arbeitgeberbeitragsreserve mit Verwendungsverzicht (AGBR mit Verwendungsverzicht), die Wertschwankungsreserven und die Umlageschwankungsreserven sind dem verfügbaren Vorsorgevermögen zuzurechnen.
 

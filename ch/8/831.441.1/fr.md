@@ -4,11 +4,11 @@ title: "Ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieilless
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/fr"
 
 (OPP 2)
 
-du 18 avril 1984 (État le 1<sup>er</sup> janvier 2023)
+du 18 avril 1984 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -417,7 +417,8 @@ L’avoir de vieillesse sera crédité d’un intérêt:
 - g.[^12-7] pour la période à partir du 1<sup>er</sup> janvier 2012 jusqu’au 31 décembre 2013: d’au moins 1,5 %;
 - h.[^12-8] pour la période à partir du 1<sup>er</sup> janvier 2014 jusqu’au 31 décembre 2015: d’au moins 1,75 %;
 - i.[^12-9] pour la période à partir du 1<sup>er</sup> janvier 2016 jusqu’au 31 décembre 2016: d’au moins 1,25 %;
-- j.[^12-10] pour la période à partir du 1<sup>er</sup> janvier 2017: d’au moins 1 %.
+- j.[^12-10] pour la période à partir du 1<sup>er</sup> janvier 2017 jusqu’au 31 décembre 2023: d’au moins 1 %;
+- k.[^12-11] pour la période à partir du 1<sup>er</sup> janvier 2024: d’au moins 1,25 %.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)).
 [^12-2]: Nouvelle teneur selon le ch. I de l’O du 10 sept. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3523](https://fedlex.data.admin.ch/eli/oc/2003/501)).
@@ -428,7 +429,8 @@ L’avoir de vieillesse sera crédité d’un intérêt:
 [^12-7]: Introduite par le ch. I de l’O du 2 nov. 2011 ([[RO 2011 5035](http://intranet.admin.ch/ch/d/as/2011/5035.pdf)](https://fedlex.data.admin.ch/eli/oc/2011/737)). Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)).
 [^12-8]: Introduite par le ch. I de l’O du 30 oct. 2013 ([RO 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)). Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)).
 [^12-9]: Introduite par le ch. I de l’O du 28 oct. 2015 ([RO 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)). Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
-[^12-10]: Introduite par le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
+[^12-10]: Introduite par le ch. I de l’O du 26 oct. 2016 ([RO 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
+[^12-11]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
 
 #### Art. 12a et 12b
 
@@ -452,7 +454,7 @@ L’âge déterminant le taux applicable au calcul de la bonification de vieille
 
 [^14-2]
 
-<sup>1</sup> Dans la perspective d’une réinsertion possible dans la vie active, l’institution de prévoyance doit continuer de tenir, jusqu’à l’âge-terme de la vieillesse, le compte de vieillesse de l’invalide auquel elle verse une rente.
+<sup>1</sup> Dans la perspective d’une réinsertion possible dans la vie active, l’institution de prévoyance doit continuer de tenir, jusqu’à l’âge de référence fixé à l’art. 13, al. 1, LPP, le compte de vieillesse de l’invalide auquel elle verse une rente.[^14-3]
 
 <sup>2</sup> L’avoir de vieillesse de l’invalide doit porter intérêt.
 
@@ -462,6 +464,7 @@ L’âge déterminant le taux applicable au calcul de la bonification de vieille
 
 [^14-1]: Voir aussi les disp. fin. de la mod. du 18 août 2004 à la fin du texte.
 [^14-2]: Nouvelle teneur de la parenthèse selon le ch. I de l’O du 9 déc. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3452](https://fedlex.data.admin.ch/eli/oc/1996/3452_3452_3452)).
+[^14-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 15
 
@@ -548,13 +551,57 @@ L’institution de prévoyance ou de libre passage doit consigner la part de l�
 
 En cas de résiliation du contrat d’affiliation pour cause d’insolvabilité de l’employeur, les bénéficiaires de rentes sont maintenus dans l’institution de prévoyance jusque-là compétente; cette institution continue de s’acquitter des rentes en cours conformément aux dispositions réglementaires en vigueur jusque-là.
 
-### Section 4 Prestations d’assurance
+### Section 3*b* Reprise d’effectifs de rentiers et d’effectifs à forte proportion de rentiers
+
+[^chap1a-sec3b-1]
+
+[^chap1a-sec3b-1]: Introduite par l’annexe ch. 6 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 17
 
-[^17-1]
+**Forte proportion de rentiers**[^17-1]
 
-[^17-1]: Abrogé par le ch. I de l’O du 18 août 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+### (art. 52*e*, al. 4, et 53*e*<sup>bis</sup> LPP)
+
+<sup>1</sup> Un effectif compte une forte proportion de rentiers lorsque les capitaux de prévoyance des rentiers, y compris les provisions techniques correspondantes, représentent au moins 70 % du total des capitaux de prévoyance de l’effectif à transférer.
+
+<sup>2</sup> Le jour déterminant pour évaluer la proportion de rentiers est la date convenue de la reprise.
+
+<sup>3</sup> L’évaluation de la proportion de rentiers est du ressort de l’expert en matière de prévoyance professionnelle de l’institution de prévoyance cédante. Lors de son évaluation, il tient compte de l’évolution de l’effectif, en particulier des cas prévisibles de départ à la retraite et de sortie jusqu’à la date convenue de la reprise.
+
+<sup>4</sup> Les capitaux de prévoyance des assurés invalides qui n’ont pas encore atteint l’âge de référence réglementaire ne sont pas pris en compte dans l’évaluation de la proportion de rentiers.
+
+[^17-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 17a
+
+**Financement suffisant**[^17a-1]
+
+### (art. 52*e*, al. 4, et 53*e*<sup>bis</sup> LPP)
+
+<sup>1</sup>
+
+Un effectif est suffisamment financé lorsque la fortune de prévoyance à transférer pour l’effectif couvre les valeurs suivantes:
+
+- a. le capital de prévoyance pour l’effectif à transférer;
+- b. les provisions techniques pour l’effectif à transférer, et
+- c. des réserves de fluctuation de valeur suffisantes pour l’effectif à transférer.
+
+<sup>2</sup> Les réserves de fluctuation de valeur de l’effectif à transférer sont suffisantes si elles correspondent au moins à celles de l’institution de prévoyance reprenante.
+
+<sup>3</sup> Lorsqu’une institution tenant une comptabilité distincte pour chaque caisse de pensions affiliée accepte l’effectif, les réserves de fluctuation de valeur de l’effectif sont suffisantes si elles correspondent au moins à la valeur cible de la caisse de pension affiliée.
+
+<sup>4</sup> Le jour déterminant pour évaluer le caractère suffisant du financement est la date convenue de la reprise.
+
+<sup>5</sup> L’évaluation du caractère suffisant de financement est du ressort de l’expert en matière de prévoyance professionnelle de l’institution de prévoyance reprenante. Lors de son évaluation, il tient compte de l’évolution de l’effectif, en particulier des départs à la retraite prévisibles et des cas d’invalidité en suspens ou latents.
+
+[^17a-1]: Introduit par l’annexe ch. 6 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### Section 4 Prestations d’assurance
+
+[^chap1a-sec4-1]
+
+[^chap1a-sec4-1]: Anciennement avant l’art. 17.
 
 #### Art. 18
 
@@ -602,7 +649,7 @@ Le conjoint divorcé est assimilé au veuf ou à la veuve en cas de décès de s
 
 <sup>2</sup>
 
-L’ex-partenaire enregistré est assimilé au veuf ou à la veuve en cas de décès de son ancien partenaire enregistré à la condition :
+L’ex-partenaire enregistré est assimilé au veuf ou à la veuve en cas de décès de son ancien partenaire enregistré à la condition:
 
 - a. que son partenariat enregistré ait duré dix ans au moins, et
 - b. qu’une rente lui ait été octroyée lors de la dissolution judiciaire du partenariat enregistré en vertu de l’art. 124*e*, al 1, CC ou 34, al. 2 et 3, de la loi du 18 juin 2004 sur le partenariat[^20-2].
@@ -640,13 +687,15 @@ Les cotisations payées par l’assuré au sens de l’art. 20*a*, al. 1, let. c
 
 #### Art. 24
 
-**Réduction des prestations d’invalidité perçues avant l’âge ordinaire de la retraite et des prestations de survivants**[^24-1]
+**Réduction des prestations d’invalidité perçues avant l’âge de référence et des prestations de survivants**[^24-1]
 
 ### (art. 34*a* LPP)
 
+[^24-2]
+
 <sup>1</sup>
 
-Lorsqu’elle réduit des prestations d’invalidité avant l’âge ordinaire de la retraite ou des prestations de survivants, l’institution de prévoyance peut prendre en compte les prestations et revenus suivants:
+Lorsqu’elle réduit des prestations d’invalidité avant l’âge de référence ou des prestations de survivants, l’institution de prévoyance peut prendre en compte les prestations et revenus suivants:[^24-3]
 
 - a. les prestations de survivants et d’invalidité servies à l’ayant droit par d’autres assurances sociales et institutions de prévoyance suisses et étrangères en raison de l’événement dommageable, les prestations en capital étant prises à leur valeur de rentes;
 - b. les indemnités journalières servies par des assurances obligatoires;
@@ -658,7 +707,7 @@ Lorsqu’elle réduit des prestations d’invalidité avant l’âge ordinaire d
 Elle ne peut pas prendre en compte les prestations et revenus suivants:
 
 - a. les allocations pour impotent, les indemnités pour atteinte à l’intégrité, les indemnités uniques, les contributions d’assistance et autres prestations similaires;
-- b. le revenu supplémentaire réalisé pendant l’exécution d’une mesure de nouvelle réadaptation au sens de l’art. 8*a* de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^24-2].
+- b. le revenu supplémentaire réalisé pendant l’exécution d’une mesure de nouvelle réadaptation au sens de l’art. 8*a* de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^24-4].
 
 <sup>3</sup> Les prestations de survivants servies à la veuve, au veuf ou au partenaire enregistré survivant et celles servies aux orphelins sont comptées ensemble.
 
@@ -669,23 +718,27 @@ Elle ne peut pas prendre en compte les prestations et revenus suivants:
 <sup>6</sup> Le revenu dont on peut présumer que l’assuré est privé correspond au revenu provenant d’une activité lucrative ou au revenu de remplacement que l’assuré percevrait si l’événement dommageable n’était pas survenu.
 
 [^24-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^24-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 24a
 
-**Réduction des prestations d’invalidité à l’âge ordinaire de la retraite**[^24a-1]
+**Réduction des prestations d’invalidité à l’âge de référence**[^24a-1]
 
 ### (art. 34*a* LPP)
 
+[^24a-2]
+
 <sup>1</sup>
 
-Si l’assuré a atteint l’âge ordinaire de la retraite, l’institution de prévoyance ne peut réduire ses prestations que si celles-ci sont en concours avec:
+Si l’assuré a atteint l’âge de référence, l’institution de prévoyance ne peut réduire ses prestations que si celles-ci sont en concours avec:[^24a-3]
 
-- a. des prestations régies par la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^24a-2];
-- b. des prestations régies par la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^24a-3], ou
+- a. des prestations régies par la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^24a-4];
+- b. des prestations régies par la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^24a-5], ou
 - c. des prestations étrangères comparables.
 
-<sup>2</sup> L’institution de prévoyance continue de verser ses prestations dans la même mesure qu’avant que l’assuré ait atteint ordinaire l’âge de la retraite. En particulier, elle ne doit pas compenser les réductions de prestations effectuées à l’âge de la retraite en vertu des art. 20, al. 2<sup>ter</sup> et 2<sup>quater</sup>, LAA et 47, al. 1, LAM.
+<sup>2</sup> L’institution de prévoyance continue de verser ses prestations dans la même mesure qu’avant que l’assuré ait atteint l’âge de référence. En particulier, elle ne doit pas compenser les réductions de prestations effectuées à l’âge de référence en vertu des art. 20, al. 2<sup>ter</sup> et 2<sup>quater</sup>, LAA et 47, al. 1, LAM.[^24a-6]
 
 <sup>3</sup> La somme des prestations réduites de l’institution de prévoyance, des prestations servies en vertu de la LAA et de la LAM et des prestations étrangères comparables ne doit pas être inférieure aux prestations non réduites visées aux art. 24 et 25 LPP.
 
@@ -693,11 +746,15 @@ Si l’assuré a atteint l’âge ordinaire de la retraite, l’institution de p
 
 <sup>5</sup> L’art. 24, al. 4 et 5, s’applique par analogie.
 
-<sup>6</sup> Si, en cas de divorce, une rente d’invalidité est partagée après l’âge réglementaire de la retraite, la part de la rente allouée à l’époux bénéficiaire continue à être prise en compte dans le calcul d’une éventuelle baisse de la rente d’invalidité de l’époux débiteur.
+<sup>6</sup> Si, en cas de divorce, une rente d’invalidité est partagée après l’âge de référence réglementaire, la part de la rente allouée à l’époux bénéficiaire continue à être prise en compte dans le calcul d’une éventuelle baisse de la rente d’invalidité de l’époux débiteur.[^24a-7]
 
 [^24a-1]: Introduit par l’annexe ch. 1 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^24a-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^24a-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^24a-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^24a-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^24a-6]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-7]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 25
 
@@ -705,11 +762,11 @@ Si l’assuré a atteint l’âge ordinaire de la retraite, l’institution de p
 
 ### (art. 34*a* LPP)
 
-<sup>1</sup> ...[^25-3]
+<sup>1</sup> …[^25-3]
 
 <sup>2</sup> Elle n’est pas obligée de compenser le refus ou la réduction de prestations de l’assurance-accidents ou de l’assurance militaire lorsque ces assurances ont réduit ou refusé des prestations en se fondant sur les art. 21 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^25-4], 37 et 39 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^25-5] ou 65 et 66 de la loi fédérale du 19 juin 1992 sur l’assurance militaire[^25-6].[^25-7]
 
-<sup>3</sup> ...[^25-8]
+<sup>3</sup> …[^25-8]
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2234](https://fedlex.data.admin.ch/eli/oc/1992/2234_2234_2234)).
 [^25-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
@@ -738,23 +795,29 @@ L’institution de prévoyance peut différer le droit aux prestations d’inval
 
 #### Art. 26a
 
-**Partage de la prévoyance en cas de réduction de la rente d’invalidité avant l’âge réglementaire de la retraite**[^26a-1]
+**Partage de la prévoyance en cas de réduction de la rente d’invalidité avant l’âge de référence réglementaire**[^26a-1]
 
 ### (art. 124, al. 3, CC; art. 34*a* LPP)
 
-<sup>1</sup> Si la rente d’invalidité d’un conjoint a été réduite en raison d’un concours de prestations de l’assurance-accidents ou de l’assurance militaire, le montant au sens de l’art. 124, al. 1, CC ne peut pas être utilisé pour le partage de la prévoyance en cas de divorce avant l'âge réglementaire de la retraite.
+[^26a-2]
+
+<sup>1</sup> Si la rente d’invalidité d’un conjoint a été réduite en raison d’un concours de prestations de l’assurance-accidents ou de l’assurance militaire, le montant au sens de l’art. 124, al. 1, CC ne peut pas être utilisé pour le partage de la prévoyance en cas de divorce avant l’âge de référence réglementaire.[^26a-3]
 
 <sup>2</sup> Le montant peut toutefois être utilisé pour le partage de la prévoyance si la rente d’invalidité n’était pas réduite en l’absence de rentes pour enfant.
 
 [^26a-1]: Anciennement art. 25*a*. Introduit par le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^26a-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^26a-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 26b
 
-**Partage de la prévoyance en cas de réduction de la rente d’invalidité après l’âge réglementaire de la retraite**[^26b-1]
+**Partage de la prévoyance en cas de réduction de la rente d’invalidité après l’âge de référence réglementaire**[^26b-1]
 
 ### (art. 124*a*, al. 3, ch. 2, et 124*c* CC; art. 34*a* LPP)
 
-<sup>1</sup> Si la rente d’invalidité d’un conjoint a été réduite en raison d’un concours d’autres prestations, le juge prend pour base la rente non réduite pour rendre sa décision de partage en cas de divorce après l'âge réglementaire de la retraite.
+[^26b-2]
+
+<sup>1</sup> Si la rente d’invalidité d’un conjoint a été réduite en raison d’un concours d’autres prestations, le juge prend pour base la rente non réduite pour rendre sa décision de partage en cas de divorce après l’âge de référence réglementaire.[^26b-3]
 
 <sup>2</sup> Si le montant de la rente d’invalidité réduite est au moins égal à celui de la part de rente attribuée au conjoint créancier, ladite part est convertie en vertu de l’art. 124*a*, al. 2, CC et versée au conjoint créancier ou transférée dans sa prévoyance.
 
@@ -763,12 +826,14 @@ L’institution de prévoyance peut différer le droit aux prestations d’inval
 Si le montant de la rente d’invalidité réduite est inférieur à celui de la part de rente attribuée au conjoint créancier, les règles suivantes s’appliquent:
 
 - a. la rente d’invalidité réduite est convertie en rente viagère et versée au conjoint créancier ou transférée dans sa prévoyance;
-- b. au décès du conjoint débiteur ou dès que la prestation versée est suffisante pour couvrir les prétentions du conjoint créancier au titre du partage de la prévoyance, la part de rente attribuée au conjoint créancier est convertie en rente viagère et versée à celui-ci ou transférée dans sa prévoyance ; la date déterminante pour la conversion est celle de l’entrée en force du jugement de divorce;
+- b. au décès du conjoint débiteur ou dès que la prestation versée est suffisante pour couvrir les prétentions du conjoint créancier au titre du partage de la prévoyance, la part de rente attribuée au conjoint créancier est convertie en rente viagère et versée à celui-ci ou transférée dans sa prévoyance; la date déterminante pour la conversion est celle de l’entrée en force du jugement de divorce;
 - c. le conjoint débiteur est redevable d’une indemnité équitable (art. 124*e*, al. 1, CC) pour la partie des prétentions au titre du partage de la prévoyance qui n’a pas pu être versée au conjoint créancier ou transférée dans sa prévoyance en raison de la réduction de la rente d’invalidité visée à la let. a.
 
 <sup>4</sup> Si des parts de rente sont compensées entre elles en vertu de l’art. 124*c* CC, la différence entre les prétentions réciproques des conjoints est déterminante pour l’application des al. 2 et 3.
 
 [^26b-1]: Anciennement art. 25*b*. Introduit par le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^26b-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^26b-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### Section 7 Recours
 
@@ -1353,12 +1418,11 @@ Les institutions collectives ou communes soumises à la LFLP peuvent accorder un
 
 **Évaluation**[^48-1]
 
-### (art. 65*a*, al. 5, et 71, al. 1, LPP)
+### (art. 65*a*. al. 5, et 71, al. 1, LPP)
 
-Les actifs et les passifs sont évalués conformément aux recommandations comptables Swiss GAAP RPC 26. Les provisions nécessaires à la couverture des risques actuariels se calculent sur la base du rapport actuel de l’expert agréé en matière de prévoyance professionnelle au sens de l’art. 53, al. 2, LPP[^48-2].
+Les actifs et les passifs sont évalués conformément aux recommandations comptables Swiss GAAP RPC 26. Les provisions nécessaires à la couverture des risques actuariels sont déterminées sur la base du calcul actuel de l’expert agréé en matière de prévoyance professionnelle au sens de l’art. 52*e* LPP.
 
-[^48-1]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^48-2]: Art. abrogé. Actuellement: art. 52*e*, LPP.
+[^48-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 48a
 
@@ -1477,7 +1541,7 @@ Seuls peuvent être chargés de la gestion de la fortune, en tant que personnes 
 - i.[^48f-7] les employeurs qui gèrent la fortune de leurs propres institutions de prévoyance;
 - j.[^48f-8] les associations d’employeurs et de travailleurs qui gèrent la fortune des institutions de prévoyance de leur association.
 
-<sup>5</sup> à <sup>7</sup> ...[^48f-9]
+<sup>5</sup> à <sup>7</sup> …[^48f-9]
 
 [^48f-1]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1349](https://fedlex.data.admin.ch/eli/oc/2013/317)).
 [^48f-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
@@ -1938,9 +2002,13 @@ Les dispositions de la présente section s’appliquent par analogie:
 
 <sup>2</sup> Le montant maximum de la somme de rachat est diminué de l’avoir du pilier 3a de la personne assurée qui dépasse la somme, additionnée d’intérêts, des cotisations maximales annuellement déductibles du revenu à partir de 24 ans selon l’art. 7, al. 1, let. a, de l’ordonnance du 13 novembre 1985 sur les déductions admises fiscalement pour les cotisations versées à des formes reconnues de prévoyance[^60a-1]. Les intérêts sont calculés sur la base du taux d’intérêt minimal LPP en vigueur pour les années correspondantes.
 
-<sup>3</sup> Si une personne assurée dispose d’un avoir de libre passage qui ne devait pas être transféré dans une institution de prévoyance en vertu des art. 3 et 4, al. 2<sup>bis</sup>, LFLP, le montant maximal de la somme de rachat est diminué de ce montant.
+<sup>3</sup> Si une personne assurée dispose d’avoirs de prévoyance auprès de l’institution de prévoyance précédente ou d’avoirs de libre passage qui ne devaient pas être transférés dans une institution de prévoyance en vertu des art. 3 et 4, al. 2<sup>bis</sup>, LFLP, le montant maximal de la somme de rachat est diminué de ce montant.[^60a-2]
+
+<sup>4</sup> Pour la personne assurée qui perçoit déjà ou a perçu des prestations de vieillesse et reprend par la suite une activité lucrative ou augmente à nouveau son taux d’activité, le montant maximal de la somme de rachat est diminué du montant des prestations de vieillesse déjà perçues.[^60a-3]
 
 [^60a-1]: [RS 831.461.3](https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778)
+[^60a-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^60a-3]: Introduit par l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 60b
 
@@ -2039,7 +2107,7 @@ L’OFAS est autorisé à former un recours devant le Tribunal fédéral contre 
 
 Le règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^61-1] est modifie comme il suit:
 
-...[^61-2]
+…[^61-2]
 
 [^61-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 [^61-2]: La mod. peut être consultée au [RO 1984 543](https://fedlex.data.admin.ch/eli/oc/1984/543_543_543).
@@ -2105,6 +2173,19 @@ Pour les classes d’âge et les âges ordinaires de la retraite mentionnés ci-
 <tr><td>1948</td><td>64</td><td>6,85</td></tr>
 <tr><td>1949</td><td>64</td><td>6,80</td></tr>
 </table>
+
+### Section 1*c* Disposition en application de la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS
+
+[^chap7-sec1c-1]
+
+[^chap7-sec1c-1]: Introduite par l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 62d
+
+L’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^62d-1] de la loi fédérale du 20 décembre 1946 sur l’assurance vieillesse et survivant[^62d-2] vaut comme âge de référence pour les femmes dans la LPP.
+
+[^62d-1]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^62d-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Section 2 Entrée en vigueur
 
@@ -2251,7 +2332,7 @@ Annexe[^t-1]
 
 <sup>1</sup> Le taux de couverture de l’institution de prévoyance est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/fr/xml/image/image1.png)
 
 - où Fp: est égal à l’ensemble des actifs à la date du bilan et à la valeur du marché, diminués des engagements, des passifs de régularisation et des réserves de cotisations de l’employeur, pour autant qu’aucun accord sur une renonciation à leur utilisation par l’employeur n’ait été conclu, la fortune de prévoyance effective, telle qu’elle ressort de la situation financière réelle au sens de l’art. 47, al. 2, étant déterminante; une réserve de cotisations de l’employeur incluant une déclaration de renonciation à leur utilisation, les réserves de fluctuation de valeur et les réserves de fluctuation dans la répartition ne sont pas déduites de la fortune de prévoyance disponible, et
 - où Cp: est égal au capital de prévoyance actuariel nécessaire à la date du bilan (capital d’épargne et capital de couverture), y compris les renforcements nécessaires (au vu par ex. de l’augmentation de l’espérance de vie).

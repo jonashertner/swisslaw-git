@@ -4,11 +4,11 @@ title: "Ordinanza del 18 aprile 1984 sulla previdenza professionale per la vecch
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/it"
 
 (OPP 2)
 
-del 18 aprile 1984 (Stato 1° gennaio 2023)
+del 18 aprile 1984 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -240,7 +240,7 @@ I salariati assunti o impiegati per un periodo limitato sottostanno all’assicu
 
 I lavoratori occupati in un’impresa acquisitrice nell’ambito di una fornitura di personale a prestito conformemente alla legge federale del 6 ottobre 1989[^2-2] sul collocamento e il personale a prestito sono considerati impiegati dell’impresa che presta il personale.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^2-2]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 
 #### Art. 3
@@ -415,7 +415,8 @@ Sull’avere di vecchiaia si corrisponde un interesse minimo:
 - g.[^12-7] per il periodo a partire dal 1° gennaio 2012 fino al 31 dicembre 2013: dell’1,5 per cento al minimo;
 - h.[^12-8] per il periodo a partire dal 1° gennaio 2014 fino al 31 dicembre 2015: dell’1,75 per cento al minimo;
 - i.[^12-9] per il periodo a partire dal 1° gennaio 2016 fino al 31 dicembre 2016: dell’1,25 per cento al minimo;
-- j.[^12-10] per il periodo a partire dal 1° gennaio 2017: dell’1 per cento al minimo.
+- j.[^12-10] j. per il periodo a partire dal 1° gennaio 2017 fino al 31 dicembre 2023: dell’1 per cento al minimo;
+- k.[^12-11] per il periodo a partire dal 1° gennaio 2024: dell’1,25 per cento al minimo.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)).
 [^12-2]: Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)).
@@ -426,7 +427,8 @@ Sull’avere di vecchiaia si corrisponde un interesse minimo:
 [^12-7]: Introdotta dal n. I dell’O del 2 nov. 2011 ([RU 2011 5035](https://fedlex.data.admin.ch/eli/oc/2011/737)). Nuovo testo giusta il n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)).
 [^12-8]: Introdotta dal n. I dell’O del 30 ott. 2013 ([RU 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)). Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)).
 [^12-9]: Introdotta dal n. I dell’O del 28 ott. 2015 ([RU 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)). Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
-[^12-10]: Introdotta dal n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
+[^12-10]: Introdotta dal n. I dell’O del 26 ott. 2016 ([RU 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)). Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
+[^12-11]: Introdotta dal n. I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
 
 #### Art. 12a e 12b
 
@@ -450,7 +452,7 @@ L’età determinante il tasso applicabile al calcolo degli accrediti di vecchia
 
 [^14-2]
 
-<sup>1</sup> Nella prospettiva di un possibile reinserimento nella vita attiva, l’istituto di previdenza deve continuare a tenere il conto di vecchiaia di un invalido a cui versa una rendita, fino al momento in cui questi ha raggiunto l’età conferente il diritto alla rendita di vecchiaia.
+<sup>1</sup> Nella prospettiva di un possibile reinserimento nella vita attiva, l’istituto di previdenza deve continuare a tenere il conto di vecchiaia di un invalido a cui versa una rendita, fino al momento in cui questi ha raggiunto l’età di riferimento secondo l’articolo 13 capoverso 1 LPP.[^14-3]
 
 <sup>2</sup> L’avere di vecchiaia dell’invalido deve fruttare interesse.
 
@@ -460,6 +462,7 @@ L’età determinante il tasso applicabile al calcolo degli accrediti di vecchia
 
 [^14-1]: Vedi anche le disp. fin. della mod. del 18 ago. 2004 alla fine del presente testo.
 [^14-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° lug. 1997 ([RU 1996 3452](https://fedlex.data.admin.ch/eli/oc/1996/3452_3452_3452)).
+[^14-3]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 15
 
@@ -546,13 +549,57 @@ L’istituto di previdenza o di libero passaggio determina la quota dell’avere
 
 Nel caso di scioglimento del contratto di affiliazione in seguito all’insolvenza del datore di lavoro, i beneficiari di rendite restano presso l’istituto di previdenza competente fino a quel momento; tale istituto continua a versare le rendite in corso conformemente alle disposizioni regolamentari in vigore fino a quel momento.
 
-### Sezione 4: Prestazioni dell’assicurazione
+### Sezione 3*b*: Rilevamento di effettivi di soli beneficiari di rendite e di effettivi con una netta preponderanza di beneficiari di rendite
+
+[^chap1a-sec3b-1]
+
+[^chap1a-sec3b-1]: Introdotto dall’all. n. 6 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 17
 
-[^17-1]
+**Netta preponderanza di beneficiari di rendite**[^17-1]
 
-[^17-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+### (art. 52*e* cpv. 4 e 53*e*<sup>bis</sup> LPP)
+
+<sup>1</sup> Un effettivo è considerato avere una netta preponderanza di beneficiari di rendite se i capitali di previdenza dei beneficiari di rendite, compresi i relativi accantonamenti tecnici, ammontano almeno al 70 per cento della totalità dei capitali di previdenza dell’effettivo da trasferire.
+
+<sup>2</sup> La data di riferimento per la valutazione della netta preponderanza di beneficiari di rendite è il momento convenuto per il rilevamento.
+
+<sup>3</sup> La valutazione della netta preponderanza di beneficiari di rendite è di responsabilità del perito in materia di previdenza professionale dell’istituto di previdenza trasferente. Nella valutazione il perito tiene conto dell’andamento dell’effettivo, in particolare di prevedibili pensionamenti e uscite fino alla data convenuta per il rilevamento.
+
+<sup>4</sup> I capitali di previdenza degli assicurati invalidi che non hanno ancora raggiunto l’età di riferimento regolamentare non sono presi in considerazione per la valutazione della netta preponderanza di beneficiari di rendite.
+
+[^17-1]: Nuovo testo giusta l’all. n. 6 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 17a
+
+**Finanziamento sufficiente**[^17a-1]
+
+### (art. 52*e* cpv. 4 e 53*e*<sup>bis</sup> LPP)
+
+<sup>1</sup>
+
+Un effettivo è considerato finanziato in misura sufficiente se il patrimonio di previdenza da trasferire per l’effettivo copre:
+
+- a. il capitale di previdenza dell’effettivo da trasferire;
+- b. gli accantonamenti tecnici per l’effettivo da trasferire; e
+- c. una riserva di fluttuazione di valore sufficiente per l’effettivo da trasferire.
+
+<sup>2</sup> La riserva di fluttuazione di valore dell’effettivo da trasferire è sufficiente, se corrisponde almeno alla riserva di fluttuazione di valore dell’istituto di previdenza che rileva l’effettivo.
+
+<sup>3</sup> Se l’effettivo è rilevato da un istituto che procede a un calcolo separato per ogni cassa pensioni affiliata, la riserva di fluttuazione di valore dell’effettivo è sufficiente, se corrisponde almeno al valore obiettivo della cassa pensioni affiliata.
+
+<sup>4</sup> La data di riferimento per la valutazione del finanziamento sufficiente è il momento convenuto per il rilevamento.
+
+<sup>5</sup> La valutazione del finanziamento sufficiente è di responsabilità del perito in materia di previdenza professionale dell’istituto di previdenza che rileva l’effettivo. Nella valutazione il perito tiene conto dell’andamento dell’effettivo, in particolare di prevedibili pensionamenti nonché di casi d’invalidità pendenti e latenti.
+
+[^17a-1]: Introdotto dall’all. n. 6 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### Sezione 4: Prestazioni dell’assicurazione
+
+[^chap1a-sec4-1]
+
+[^chap1a-sec4-1]: Originaria avanti art. 17.
 
 #### Art. 18
 
@@ -638,13 +685,15 @@ I contributi versati dall’assicurato secondo l’articolo 20*a* capoverso 1 le
 
 #### Art. 24
 
-**Riduzione delle prestazioni d’invalidità prima del raggiungimento dell’età ordinaria di pensionamento e riduzione delle prestazioni per i superstiti**[^24-1]
+**Riduzione delle prestazioni d’invalidità prima del raggiungimento dell’età di riferimento e riduzione delle prestazioni per i superstiti**[^24-1]
 
 ### (art. 34*a* LPP)
 
+[^24-2]
+
 <sup>1</sup>
 
-Per la riduzione delle prestazioni d’invalidità prima del raggiungimento dell’età ordinaria di pensionamento e la riduzione delle prestazioni per i superstiti, l’istituto di previdenza può conteggiare le seguenti prestazioni e i seguenti redditi:
+Per la riduzione delle prestazioni d’invalidità prima del raggiungimento dell’età di riferimento e la riduzione delle prestazioni per i superstiti, l’istituto di previdenza può conteggiare le seguenti prestazioni e i seguenti redditi:[^24-3]
 
 - a. le prestazioni per i superstiti e le prestazioni d’invalidità che vengono versate all’avente diritto sulla base dell’evento dannoso da parte di assicurazioni sociali e istituti di previdenza svizzeri ed esteri; le prestazioni in capitale sono conteggiate al loro valore di trasformazione in rendita;
 - b. le indennità giornaliere di assicurazioni obbligatorie;
@@ -656,7 +705,7 @@ Per la riduzione delle prestazioni d’invalidità prima del raggiungimento dell
 Non può conteggiare le seguenti prestazioni né i seguenti redditi:
 
 - a. assegni per grandi invalidi e indennità per menomazioni dell’integrità, indennità in capitale, contributi per l’assistenza e prestazioni analoghe;
-- b. il reddito supplementare realizzato durante la partecipazione a provvedimenti di reintegrazione secondo l’articolo 8*a* della legge federale del 19 giugno 1959[^24-2] su l’assicurazione per l’invalidità.
+- b. il reddito supplementare realizzato durante la partecipazione a provvedimenti di reintegrazione secondo l’articolo 8*a* della legge federale del 19 giugno 1959[^24-4] su l’assicurazione per l’invalidità.
 
 <sup>3</sup> Le prestazioni per i superstiti a favore dei vedovi o dei partner registrati superstiti e degli orfani sono conteggiate insieme.
 
@@ -667,23 +716,27 @@ Non può conteggiare le seguenti prestazioni né i seguenti redditi:
 <sup>6</sup> Il guadagno presumibilmente perso dall’assicurato corrisponde all’intero reddito dell’attività lucrativa o al reddito sostitutivo che l’assicurato avrebbe presumibilmente conseguito senza l’evento dannoso.
 
 [^24-1]: Nuovo testo giusta l’all. n. 1 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^24-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-2]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24-3]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 24a
 
-**Riduzione delle prestazioni d’invalidità dopo il raggiungimento dell’età ordinaria di pensionamento**[^24a-1]
+**Riduzione delle prestazioni d’invalidità dopo il raggiungimento dell’età di riferimento**[^24a-1]
 
 ### (art. 34*a* LPP)
 
+[^24a-2]
+
 <sup>1</sup>
 
-Se l’assicurato ha raggiunto l’età ordinaria di pensionamento, l’istituto di previdenza può ridurre le sue prestazioni solo in caso di concorso di queste ultime con:
+Se l’assicurato ha raggiunto l’età di riferimento, l’istituto di previdenza può ridurre le sue prestazioni solo in caso di concorso di queste ultime con:[^24a-3]
 
-- a. prestazioni ai sensi della legge federale del 20 marzo 1981[^24a-2] sull’assicurazione contro gli infortuni (LAINF);
-- b. prestazioni ai sensi della legge federale del 19 giugno 1992[^24a-3] sull’assicurazione militare (LAM);
+- a. prestazioni ai sensi della legge federale del 20 marzo 1981[^24a-4] sull’assicurazione contro gli infortuni (LAINF);
+- b. prestazioni ai sensi della legge federale del 19 giugno 1992[^24a-5] sull’assicurazione militare (LAM);
 - c. prestazioni estere analoghe.
 
-<sup>2</sup> L’istituto di previdenza continua a fornire le sue prestazioni nella stessa misura in cui le forniva prima che l’assicurato raggiungesse l’età ordinaria di pensionamento. In particolare, non deve compensare la riduzione delle prestazioni al raggiungimento dell’età di pensionamento secondo l’articolo 20 capoversi 2<sup>ter</sup> e 2<sup>quater</sup> LAINF e l’articolo 47 capoverso 1 LAM.
+<sup>2</sup> L’istituto di previdenza continua a fornire le sue prestazioni nella stessa misura in cui le forniva prima che l’assicurato raggiungesse l’età di riferimento. In particolare, non deve compensare la riduzione delle prestazioni al raggiungimento dell’età di riferimento secondo l’articolo 20 capoversi 2<sup>ter</sup> e 2<sup>quater</sup> LAINF e l’articolo 47 capoverso 1 LAM.[^24a-6]
 
 <sup>3</sup> Le prestazioni ridotte versate dall’istituto di previdenza, sommate alle prestazioni ai sensi della LAINF e della LAM e alle prestazioni estere analoghe, non possono essere inferiori alle prestazioni di cui agli articoli 24 e 25 LPP non ridotte.
 
@@ -691,11 +744,15 @@ Se l’assicurato ha raggiunto l’età ordinaria di pensionamento, l’istituto
 
 <sup>5</sup> L’articolo 24 capoversi 4 e 5 si applica per analogia.
 
-<sup>6</sup> Se una rendita d’invalidità è divisa in seguito a divorzio dopo l’età di pensionamento stabilita dal regolamento, la parte di rendita assegnata al coniuge creditore continua a essere conteggiata per il calcolo di un’eventuale riduzione della rendita d’invalidità del coniuge debitore<sup>.</sup>
+<sup>6</sup> Se una rendita d’invalidità è divisa in seguito a divorzio dopo il raggiungimento dell’età di riferimento regolamentare, la parte di rendita assegnata al coniuge creditore continua a essere conteggiata per il calcolo di un’eventuale riduzione della rendita d’invalidità del coniuge debitore.[^24a-7]
 
 [^24a-1]: Introdotto dall’all. n. 1 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^24a-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^24a-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^24a-2]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-3]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^24a-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^24a-6]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^24a-7]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 25
 
@@ -715,7 +772,7 @@ Se l’assicurato ha raggiunto l’età ordinaria di pensionamento, l’istituto
 [^25-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-5]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^25-6]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^25-7]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^25-7]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^25-8]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 26
@@ -736,23 +793,29 @@ L’istituto di previdenza può differire il diritto a prestazioni d’invalidit
 
 #### Art. 26a
 
-**Conguaglio della previdenza professionale in caso di riduzione della rendita d’invalidità prima dell’età di pensionamento stabilita dal regolamento**[^26a-1]
+**Conguaglio della previdenza professionale in caso di riduzione della rendita d’invalidità prima del raggiungimento dell’età di riferimento regolamentare**[^26a-1]
 
 ### (art. 124 cpv. 3 CC; art. 34*a* LPP)
 
-<sup>1</sup> Se, a causa del concorso con prestazioni dell’assicurazione contro gli infortuni o dell’assicurazione militare, una rendita d’invalidità è stata ridotta, in caso di divorzio prima dell’età di pensionamento stabilita dal regolamento l’importo di cui all’articolo 124 capoverso 1 CC non può essere impiegato per il conguaglio della previdenza professionale.
+[^26a-2]
+
+<sup>1</sup> Se, a causa del concorso con prestazioni dell’assicurazione contro gli infortuni o dell’assicurazione militare, una rendita d’invalidità è stata ridotta e il divorzio avviene prima del raggiungimento dell’età di riferimento regolamentare, l’importo di cui all’articolo 124 capoverso 1 CC non può essere impiegato per il conguaglio della previdenza professionale.[^26a-3]
 
 <sup>2</sup> Tale importo può tuttavia essere utilizzato per il conguaglio della previdenza professionale se, in assenza di rendite per i figli, la rendita d’invalidità non è ridotta.
 
 [^26a-1]: Originario art. 25*a*. Introdotto dal n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^26a-2]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^26a-3]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 26b
 
-**Conguaglio della previdenza professionale in caso di riduzione della rendita d’invalidità dopo l’età di pensionamento stabilita dal regolamento**[^26b-1]
+**Conguaglio della previdenza professionale in caso di riduzione della rendita d’invalidità dopo il raggiungimento dell’età di riferimento regolamentare**[^26b-1]
 
 ### (art. 124*a* cpv. 3 n. 2 e 124*c* CC; art. 34*a* LPP)
 
-<sup>1</sup> Se una rendita d’invalidità è stata ridotta a causa del concorso con altre prestazioni, in caso di divorzio dopo l’età di pensionamento stabilita dal regolamento, per decidere sulla divisione il giudice si basa sulla rendita non ridotta.
+[^26b-2]
+
+<sup>1</sup> Se una rendita d’invalidità è stata ridotta a causa del concorso con altre prestazioni e il divorzio avviene dopo il raggiungimento dell’età di riferimento regolamentare, per la decisione sulla divisione il giudice si basa sulla rendita non ridotta.[^26b-3]
 
 <sup>2</sup> Se la rendita d’invalidità ridotta corrisponde almeno alla parte di rendita assegnata al coniuge creditore, tale parte di rendita è convertita conformemente all’articolo 124*a* capoverso 2 CC e versata al coniuge creditore o trasferita nella sua previdenza.
 
@@ -767,6 +830,8 @@ Se la rendita d’invalidità ridotta è inferiore alla parte di rendita assegna
 <sup>4</sup> Se una parte di rendita assegnata è oggetto di compensazione conformemente all’articolo 124*c* CC, per l’applicazione dei capoversi 2 e 3 è determinante la differenza tra le pretese reciproche dei coniugi.
 
 [^26b-1]: Originario art. 25*b*. Introdotto dal n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^26b-2]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^26b-3]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### Sezione 7: Regresso
 
@@ -1359,10 +1424,9 @@ Nel caso in cui le riserve di fluttuazione non siano state interamente alimentat
 
 ### (art. 65*a* cpv. 5 e 71 cpv. 1 LPP)
 
-Gli attivi e i passivi sono valutati conformemente alle raccomandazioni contabili Swiss GAAP RPC 26. Le riserve necessarie per coprire rischi attuariali sono calcolate in base al rapporto attuale del perito in materia di previdenza professionale ai sensi dell’articolo 53 capoverso 2 LPP[^48-2].
+Gli attivi e i passivi sono valutati conformemente alle raccomandazioni contabili Swiss GAAP RPC 26. Le riserve necessarie per coprire rischi attuariali sono stabilite in base al calcolo attuale del perito in materia di previdenza professionale ai sensi dell’articolo 52*e* LPP.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^48-2]: Questo articolo è abrogato. Ora: dell’art. 52*e* LPP.
+[^48-1]: Nuovo testo giusta l’all. n. 6 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 48a
 
@@ -1452,7 +1516,7 @@ L’istituto di previdenza stabilisce in un regolamento le norme per costituire 
 
 [^chap4-sec2b-1]
 
-[^chap4-sec2b-1]: Introdotta dal n. I dell’O del 18 ago. 2004 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)). Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^chap4-sec2b-1]: Introdotta dal n. I dell’O del 18 ago. 2004 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)). Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 48f
 
@@ -1945,9 +2009,13 @@ Le disposizioni della presente sezione si applicano per analogia anche:
 
 <sup>2</sup> L’importo massimo della somma d’acquisto è ridotto dell’avere del pilastro 3a nella misura in cui questo supera la somma, compresi gli interessi, dei contributi massimi deducibili annualmente dal reddito a partire dai 24 anni giusta l’articolo 7 capoverso 1 lettera a dell’ordinanza del 13 novembre 1985[^60a-1] sulla legittimazione alle deduzioni fiscali per i contributi a forme di previdenza riconosciute. Gli interessi sono calcolati in base al tasso d’interesse minimo LPP in vigore per gli anni corrispondenti.
 
-<sup>3</sup> Se un assicurato dispone di un avere di libero passaggio che non doveva essere trasferito in un istituto di previdenza giusta gli articoli 3 e 4 capoverso 2<sup>bis</sup> LFLP, l’ammontare massimo della somma di acquisto è ridotto di questo importo.
+<sup>3</sup> Se un assicurato dispone di un avere di previdenza che rimane nel precedente istituto di previdenza o di un avere di libero passaggio che non doveva essere trasferito in un istituto di previdenza giusta gli articoli 3 e 4 capoverso 2<sup>bis</sup> LFLP, l’ammontare massimo della somma di acquisto è ridotto di questo importo.[^60a-2]
+
+<sup>4</sup> Se un assicurato che riscuote o ha riscosso prestazioni di vecchiaia successivamente riprende l’attività lucrativa o aumenta nuovamente il suo grado d’occupazione, l’ammontare massimo della somma di acquisto è ridotto dell’importo delle prestazioni di vecchiaia già riscosse.[^60a-3]
 
 [^60a-1]: [RS 831.461.3](https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778)
+[^60a-2]: Nuovo testo giusta l’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^60a-3]: Introdotto dall’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 60b
 
@@ -2038,7 +2106,7 @@ L’UFAS è legittimato a interporre ricorso al Tribunale federale contro le dec
 [^60f-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2909](https://fedlex.data.admin.ch/eli/oc/2000/509)). Originario art. 60*c* ([RU 2005 5257](https://fedlex.data.admin.ch/eli/oc/2005/729)).
 [^60f-2]: [[RU 1988 97](https://fedlex.data.admin.ch/eli/oc/1988/97_97_97)]
 [^60f-3]: [[RU 1988 382](https://fedlex.data.admin.ch/eli/oc/1988/382_382_382)]
-[^60f-4]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^60f-4]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 61
 
@@ -2061,7 +2129,7 @@ L’ordinanza del 31 ottobre 1947[^61-1] sull’assicurazione per la vecchiaia e
 
 [^chap7-sec1a-1]
 
-[^chap7-sec1a-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap7-sec1a-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 62a
 
@@ -2113,6 +2181,19 @@ Alle classi di età e alle rispettive età ordinarie di pensionamento sottoelenc
 <tr><td>1949</td><td>64</td><td>6.80</td></tr>
 </table>
 
+### Sezione 1*c*: Disposizione d’esecuzione della lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS
+
+[^chap7-sec1c-1]
+
+[^chap7-sec1c-1]: Introdotta dall’all. n. 7 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 62d
+
+L’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021[^62d-1] della legge federale del 20 dicembre 1946[^62d-2] sull’assicurazione per la vecchiaia e per i superstiti vale anche come età di riferimento delle donne secondo la LPP.
+
+[^62d-1]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^62d-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
 ### Sezione 2: Entrata in vigore
 
 #### Art. 63
@@ -2139,7 +2220,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1985.
 
 [^u3-1]
 
-[^u3-1]: [RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)
+[^u3-1]: [RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)
 
 ### a. Aliquota minima di conversione ed età ordinaria di pensionamentoper determinate classi di età
 
@@ -2258,7 +2339,7 @@ Allegato[^t-1]
 
 <sup>1</sup> Il grado di copertura dell’istituto di previdenza è determinato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20240101/it/xml/image/image1.png)
 
 - Pp corrisponde a: Tutti gli attivi alla data di chiusura del bilancio a valori di mercato, al netto degli obblighi, del conto terzi e delle riserve di contributi del datore di lavoro per le quali non vi è un accordo di rinuncia all’utilizzazione. È determinante il patrimonio di previdenza effettivo risultante dalla situazione finanziaria reale conformemente all’articolo 47 capoverso 2. La riserva di contributi dei datori di lavoro con rinuncia all’utilizzazione (RCDL con rinuncia all’utilizzazione), le riserve di fluttuazione e le riserve di fluttuazione nella ripartizione devono essere aggiunte al patrimonio di previdenza disponibile.
 - Cp corrisponde a: Capitale di previdenza attuariale necessario nel giorno di chiusura del bilancio (capitali a risparmio e capitali di copertura), compresi i necessari consolidamenti (p. es. in ragione dell’aumento della speranza di vita).
