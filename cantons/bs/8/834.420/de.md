@@ -3,22 +3,22 @@ canton: BS
 number: "834.420"
 title: Beschluss des Regierungsrates betreffend Liste der Pflegeheime für den Kanton Basel-Stadt
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-06-20
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-12-12
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5950/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6089/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss des Regierungsrates betreffend Liste der Pflegeheime für den Kanton Basel-Stadt
 
-Pflegeheimliste: RRB | Kranken- und Unfallversicherung
+Kranken- und Unfallversicherung / Kantonale Beiträge im Gesundheitswesen
 
-Vom 12. Dezember 1995 (Stand 1. Juli 2023)
+Vom 12. Dezember 1995 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt erlässt,
 
