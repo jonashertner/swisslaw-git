@@ -4,13 +4,13 @@ number: "642.1"
 title: Loi fiscale
 short: LF
 language: fr
-version: 2021-01-01
-corrected: 2023-01-12
-version_adopted: 2020-03-12
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-09-12
 adopted: 1976-03-10
 in_force: 1977-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/642.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3153/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3444/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3153/pdf_file"
 
 (LF)
 
-du 10.03.1976 (état 01.01.2021)
+du 10.03.1976 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -27,7 +27,7 @@ vu les articles 23 et 24 de la Constitution cantonale;
 
 sur la proposition du Conseil d'Etat,
 
-arrête:
+ordonne:
 
 ## 1 Impôts cantonaux
 
@@ -126,7 +126,7 @@ arrête:
 
 #### Art. 6
 
-**2. Règles particulières concernant les impôts sur le revenu et la fortune 2.1. Femme mariée - Enfants sous autorité parentale**
+**2. Règles particulières concernant les impôts sur le revenu et la fortune 2.1. Couples mariés - Enfants sous autorité parentale**
 
 <sup>1</sup> Le revenu et la fortune des époux qui vivent en ménage commun s'additionnent, quel que soit le régime matrimonial.
 
@@ -374,6 +374,8 @@ arrête:
 
 <sup>5</sup> Si, lors de la vente de droits de participation à une société de capitaux ou une société coopérative qui est cotée dans une bourse suisse et qui les a émis, le remboursement des réserves issues d’apports de capital ne correspond pas au moins à la moitié de l’excédent de liquidation obtenu, la part de cet excédent de liquidation imposable est réduite d’un montant correspondant à la moitié de la différence entre cette part et le remboursement, mais au plus du montant des réserves qui sont imputables à ces droits de participation et qui sont disponibles dans la société.
 
+<sup>6</sup> L'alinéa 1 ne s'applique aux apports et aux agios qui sont versés pendant la durée d'une marge de fluctuation du capital au sens du Code des obligations (CO) que dans la mesure où il dépasse les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.
+
 #### Art. 17
 
 **1.5. Rendement de la fortune immobilière**
@@ -387,6 +389,8 @@ arrête:
 - e) les revenus provenant de concessions hydrauliques.
 
 <sup>2</sup> Pour encourager l'accession à la propriété, les valeurs locatives sont estimées de manière raisonnable. Leur adaptation se fera au plus tôt chaque deux périodes de taxation.
+
+<sup>3</sup> La valeur locative est déterminée compte tenu des conditions locales et de l’utilisation effective du logement au domicile du contribuable. En cas de sous-utilisation effective et durable, la valeur locative est réduite en conséquence.
 
 #### Art. 18
 
@@ -422,7 +426,7 @@ arrête:
 - b) les indemnités obtenues lors de la cessation d'une activité ou de la renonciation à celle-ci;
 - c) les indemnités obtenues lors de la renonciation à l'exercice d'un droit;
 - d) les gains de loterie et d'autres institutions semblables sont imposables selon l'article 33c;
-- e) la pension alimentaire, versée sous forme de rente ou de prestation en capital, obtenue pour elle-même par la personne contribuable divorcée ou séparée judiciairement ou de fait, ainsi que les contributions d'entretien obtenues par l'un des parents pour les enfants sur lesquels il a l'autorité parentale. Les prestations en capital sont imposées selon l'article 33 alinéa 1;
+- e) la pension alimentaire, versée sous forme de rente, obtenue pour elle-même par la personne contribuable divorcée ou séparée judiciairement ou de fait, ainsi que les contributions d'entretien obtenues par l'un des parents pour les enfants sur lesquels il a l'autorité parentale;
 - f) …
 - g) les prestations uniques ou périodiques versées en cas de décès ou de dommages permanents.
 
@@ -441,10 +445,11 @@ arrête:
 - g) les versements à titre de réparation du tort moral;
 - h) les revenus perçus en vertu de la législation fédérale sur les prestations complémentaires à l'assurance vieillesse, survivants et invalidité;
 - i) les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale sur les jeux d’argent (LJAr), pour autant que ces gains ne soient pas issus d’une activité lucrative indépendante;
-- i<sup>bis</sup>) les gains unitaires jusqu’à concurrence d’un montant d’un million de francs provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
+- i<sup>bis</sup>) les gains unitaires jusqu’à concurrence du montant arrêté dans la LIFD provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
 - i<sup>ter</sup>) les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
-- j) les gains unitaires jusqu’à 1'000 francs provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’article 1 alinéa 2 lettres d et e, de cette loi;
-- k) la solde des sapeurs-pompiers de milice, jusqu'à concurrence d'un montant annuel de 8'000 francs, pour les activités liées à l'accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées.
+- j) les gains unitaires jusqu'au montant arrêté dans la LIFD provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’article 1 alinéa 2 lettres d et e, de cette loi;
+- k) la solde des sapeurs-pompiers de milice, jusqu'à concurrence d'un montant annuel de 8'000 francs, pour les activités liées à l'accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
+- l) les prestations transitoires au sens de la loi fédérale sur les prestations transitoires pour les chômeurs âgés (LPtra).
 
 #### Art. 21
 
@@ -560,19 +565,19 @@ arrête:
 - e) les montants, primes et cotisations légaux, statutaires ou réglementaires versés par des salariés ou des indépendants en vue d'acquérir des droits dans le cadre d'institutions de la prévoyance professionnelle;
 - f) les montants, primes et cotisations versés en vue d'acquérir des droits contractuels dans une forme reconnue de la prévoyance individuelle liée, dans la mesure et aux conditions prévues par la législation fédérale;
 - g) les versements, cotisations et primes d'assurance-vie, d'assurances maladie et d'assurance accidents qui ne tombent pas sous le coup de la lettre d, ainsi que les intérêts des capitaux d'épargne du contribuable et des personnes à l'entretien desquelles il pourvoit, jusqu'à concurrence d'un montant global de:
-  - 1\. pour les personnes mariées vivant en ménage commun:
-  - 1\.1. 4'800 francs pour l'année fiscale de l'entrée en vigueur de la modification (année n),
-  - 1\.2. 6'000 francs pour l'année n+1,
-  - 1\.3. 7'200 francs pour l'année n+2,
+  - 1\. pour les personnes mariées vivant en ménage commun: 7'200 francs.
+  - 1\.1. …
+  - 1\.2. …
+  - 1\.3. …
   - 2\. pour les autres contribuables:
-  - 2\.1. 2'400 francs pour l'année fiscale de l'entrée en vigueur de la modification (année n),
-  - 2\.2. 3'000 francs pour l'année n+1,
-  - 2\.3. 3'600 francs pour l'année n+2,
-  - 2\.4. 1'090 francs par enfant ou personne nécessiteuse pour lequel le contribuable peut faire valoir la déduction prévue à l'article 31 alinéa 1 lettre b.
+  - 2\.1. 3'600 francs,
+  - 2\.2. 1'090 francs par enfant ou personne nécessiteuse pour lequel le contribuable peut faire valoir la déduction prévue à l'article 31 alinéa 1 lettre b.
+  - 2\.3. …
+  - 2\.4. …
   - 3\. Lorsque les conditions du partage de la déduction pour enfant au sens de l'article 31 alinéa 1 sont remplies, la déduction par enfant est partagée entre les deux parents.
-  - 4\. Le Grand Conseil peut augmenter ces déductions maximales jusqu'à 30 pour cent.
+  - 4\. Le Grand Conseil peut augmenter ces déductions maximales jusqu'à 30 pour cent dans le cadre du budget.
 - h) …
-- i) les prestations bénévoles versées à des personnes morales qui sont exonérées des impôts en raison de leur but d'intérêt public ou de pure utilité publique, jusqu'à concurrence de 20 pour cent du revenu net;
+- i) les dons en espèces et sous forme d'autres valeurs patrimoniales, jusqu'à concurrence de 20 pour cent du revenu net, en faveur de personnes morales qui ont leur siège en Suisse et sont exonérées de l'impôt en raison de leurs buts de service public ou d'utilité publique ou en faveur de la Confédération, des cantons, des communes et de leurs établissements;
 - j) les frais provoqués par la maladie ou les accidents du contribuable ou d'une personne à l'entretien de laquelle il subvient, lorsque la personne contribuable supporte elle-même ces frais et que ceux-ci excédent 2 pour cent des revenus imposables diminués des déductions prévues aux articles 22 à 29;
 - k) les frais liés à un handicap du contribuable ou d'une personne à l'entretien de laquelle il subvient lorsque le contribuable ou cette personne est handicapé au sens de la loi sur l'égalité pour les handicapés du 13 décembre 2002 et que le contribuable supporte lui-même ces frais;
 - l) 3'000 francs par enfant, pour la garde de ses propres enfants; les frais de garde par un tiers peuvent être déduits jusqu'à 3'000 francs au maximum par enfant, si l'enfant vit dans le même ménage que le contribuable assurant son entretien et si les frais de garde, documentés, ont un lien de causalité direct avec l'activité lucrative, la formation ou l'incapacité de gain du contribuable; ces déductions sont accordées si l'enfant a moins de 14 ans et ne peuvent être cumulées;
@@ -615,7 +620,7 @@ arrête:
   - 5\. Ces déductions sont majorées de l'allocation de naissance et d'adoption.
   - 6\. Le Grand Conseil peut augmenter cette déduction jusqu'à concurrence de 30 pour cent.
   - 7\. Lorsque les parents imposés séparément exercent l'autorité parentale commune sur l'enfant et qu'aucune contribution d'entretien pour l'enfant n'est versée par l'un des parents à l'autre, chaque parent a droit à la moitié de la déduction pour enfant.
-- c) pour chaque personne totalement ou partiellement incapable d'exercer une activité lucrative, à l'entretien de laquelle le contribuable pourvoit, pour autant que son aide atteigne au moins le montant de la déduction, 1'250 francs. Cette déduction n'est ni accordée à l'épouse, ni pour les enfants qui donnent droit à une déduction selon la lettre b;
+- c) pour chaque personne totalement ou partiellement incapable d'exercer une activité lucrative, à l'entretien de laquelle le contribuable pourvoit, pour autant que son aide atteigne au moins le montant de la déduction, 2'500 francs. Cette déduction n'est ni accordée à l'épouse, ni pour les enfants qui donnent droit à une déduction selon la lettre b;
 - d) …
 - e) sur le revenu des apprentis et étudiants 5'000 francs;
 - f) pour les rentiers et rentières AVS ou AI vivant dans des établissements médico-sociaux ou reconnus comme tels le revenu imposable est fixé à zéro lorsque:
@@ -623,7 +628,7 @@ arrête:
   - 2\. la personne contribuable n'a pas de fortune imposable;
 - g) pour chaque étudiant bénéficiant d'un enseignement public du degré secondaire, 5'000 francs par année au maximum pour les frais effectifs d'internat ou de famille d'accueil;
 - h) pour chaque enfant suivant une formation tertiaire qui doit être logé de façon permanente à l'extérieur du domicile parental, 5'000 francs par année au maximum. La déduction n'est pas accordée lorsque l'enfant peut suivre une formation équivalente auprès d'un établissement sis en Valais;
-- i) pour les aidants bénévoles 5'000 francs. La déduction est accordée si l'aide apportée est régulière et s'il est établi qu'à défaut de cette aide, la personne devrait être placée dans un EMS ou dans une institution; l'état de santé de la personne et l'aide apportée doivent être attestés par un médecin ou par le centre médico-social. Lorsque plusieurs aidants bénévoles favorisent le maintien à domicile de la personne, la déduction est partagée entre eux.
+- i) pour les aidants bénévoles 6'000 francs. La déduction est accordée si l'aide apportée est régulière et s'il est établi qu'à défaut de cette aide, la personne devrait être placée dans un EMS ou dans une institution; l'état de santé de la personne et l'aide apportée doivent être attestés par un médecin ou par le centre médico-social. Lorsque plusieurs aidants bénévoles favorisent le maintien à domicile de la personne, la déduction est partagée entre eux;
 
 <sup>2</sup> Les montants exonérés sont fixés d'après la situation existant à la fin de la période fiscale (art. 61) ou de l'assujettissement à l'impôt.
 
@@ -641,7 +646,7 @@ arrête:
 
 **6. Calcul de l'impôt 6.1. Taux**
 
-<sup>1</sup> Le taux de l'impôt sur le revenu, dû pour une année, est arrêté comme suit:
+<sup>1</sup> Le taux de l'impôt sur le revenu est fixé entre 2 pour cent et 14 pour cent selon la classe de revenu, conformément au tableau de l'annexe 1 de la présente loi. Le Conseil d'Etat est autorisé à adapter les classes de revenu, mais pas les taux, dans le tableau après chaque indexation.
 
 <table>
 <tr><th>Classes de revenu imposable</th><th>Taux en pour cent</th><th>Produit de l'impôt</th></tr>
@@ -676,7 +681,7 @@ arrête:
 
 - a) pour les époux vivant en ménage commun ainsi que pour les contribuables veufs, séparés, divorcés ou célibataires qui font ménage commun avec des enfants ou des personnes nécessiteuses et dont ils assurent pour l'essentiel l'entretien, l'impôt se réduit de 35 pour cent, au minimum de 600 francs et au maximum de 4'500 francs. Le Grand Conseil peut porter le maximum à 6'000 francs. Lorsque les parents imposés séparément exercent l'autorité parentale commune sur l'enfant et que la déduction sociale pour enfant est partagée par moitié entre eux (art. 31 al. 1), chaque parent a droit à l'abattement de 35 pour cent, réduit de moitié, au minimum de 300 francs et au maximum de 2'250 francs;
 - b) sous réserve de la lettre c, une déduction sur le revenu net imposable de 20'000 francs est accordée aux contribuables qui n'ont pas droit à l’abattement prévu à la lettre a. Cette déduction se réduit de 2’000 francs par tranches de 1’500 francs dépassant un revenu imposable net de 20’000 francs. La déduction tombe dès que le revenu net imposable dépasse 33’500 francs;
-- c) les déductions prévues aux lettres a et b ne sont pas accordées aux personnes vivant en union libre.
+- c) les déductions prévues aux lettres a et b ne sont pas accordées aux personnes vivant en union libre;
 
 <sup>4</sup> Chaque fois que l'indice des prix à la consommation augmente de 3 pour cent, les taux d'impôts ci-dessus sont automatiquement applicables à des revenus majorés de 3 pour cent. Si la situation financière l'exige, le Grand Conseil peut décider de ne pas atténuer ou d'atténuer partiellement la progression à froid. La variation de 3 pour cent est calculée sur la base du dernier barème adapté. Le niveau de l'indice au 30 juin précédant le début de la période de taxation est déterminant; toutefois, la variation d'indice non compensée précédemment est également prise en considération. L'adaptation est exclue si le renchérissement est négatif. L'adaptation qui a lieu après un renchérissement négatif se fait sur la base du dernier barème adapté.
 
@@ -726,15 +731,13 @@ arrête:
 
 <sup>1</sup> Les gains de loterie et les gains réalisés dans des manifestations similaires aux loteries sont imposés à raison du 50 pour cent des taux du barème ordinaire, séparément de tout autre revenu, l'année fiscale durant laquelle ils ont été touchés.
 
-<sup>2</sup> Sont déduits des gains unitaires provenant des jeux d’argent non exonérés de l’impôt selon l’article 20 alinéa 1 lettres i<sup>bis</sup> à j, 5 pour cent à titre de mise, mais au plus 5'000 francs. Sont déduites des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l’article 20 alinéa 1 lettre i<sup>bis</sup>, les mises prélevées du compte en ligne du joueur au cours de l’année fiscale mais au plus 25'000 francs.
+<sup>2</sup> Sont déduits des gains unitaires provenant des jeux d’argent non exonérés de l’impôt selon l’article 20 alinéa 1 lettres i<sup>bis</sup> à j, 5 pour cent à titre de mise, mais au plus le montant arrêté dans la LIFD. Sont déduites des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l’article 20 alinéa 1 lettre i<sup>bis</sup>, les mises prélevées du compte en ligne du joueur au cours de l’année fiscale mais au plus le montant arrêté dans la LIFD.
 
 <sup>3</sup> Une perte provenant des autres éléments de revenus est imputée sur le gain de loterie réalisé durant la même année fiscale que ces revenus.
 
 #### Art. 33d
 
-**Rendement de participations 2007 et 2008**
-
-<sup>1</sup> Le taux d'imposition du revenu total imposable est réduit de 50 pour cent pour l'imposition des revenus de participations détenues dans des sociétés de capitaux ou dans des sociétés coopératives dont le siège est en Suisse, à condition que la participation soit au moins égale à 10 pour cent du capital-actions ou du capital social.
+**…**
 
 ### 1.1.3
 
@@ -844,7 +847,7 @@ arrête:
 
 **4.3. Dépenses d'investissement a) Prix d'acquisition**
 
-<sup>1</sup> Le prix d'acquisition correspond au prix d'achat, y compris toutes les prestations mises à charge de l'acquéreur et l'impôt sur les successions.
+<sup>1</sup> Le prix d'acquisition correspond au prix d'achat, y compris toutes les prestations mises à charge de l'acquéreur.
 
 <sup>2</sup> Si le prix d'acquisition ne peut être établi, c'est la valeur vénale au moment de l'acquisition par l'aliénateur ou son prédécesseur qui est déterminante ou, à défaut, la taxe cadastrale au 1<sup>er</sup> janvier 1977.
 
@@ -1012,7 +1015,7 @@ arrête:
 <sup>1</sup> L'impôt sur la fortune est de:
 
 <table>
-<tr><th>Classes de fortune imposable</th><th>Taux en pour cent</th><th>Produit de l'impôt</th></tr>
+<tr><th>Classes de fortune imposable</th><th>Taux en pour mille</th><th>Produit de l'impôt</th></tr>
 <tr><td>Fr. 1'000 à 10'000</td><td>1.0</td><td>Fr. 10</td></tr>
 <tr><td>Fr. 11'000 à 20'000</td><td>1.2</td><td>Fr. 24</td></tr>
 <tr><td>Fr. 21'000 à 30'000</td><td>1.3</td><td>Fr. 39</td></tr>
@@ -1100,7 +1103,7 @@ arrête:
 
 <sup>3</sup> En cas de divorce ou de séparation judiciaire ou de fait, chaque époux est imposé séparément pour l'ensemble de la période fiscale.
 
-<sup>4</sup> Le revenu et la fortune des enfants sous autorité parentale sont ajoutés à ceux de l'autorité parentale jusqu'au début de l'année au cours de laquelle les enfants deviennent majeurs. Est toutefois réservé le revenu de l'activité lucrative sur lequel l'enfant mineur est imposé séparément.
+<sup>4</sup> Le revenu et la fortune des enfants sous autorité parentale sont ajoutés à ceux du détenteur de l'autorité parentale jusqu'au début de l'année au cours de laquelle les enfants deviennent majeurs. Est toutefois réservé le revenu de l'activité lucrative sur lequel l'enfant mineur est imposé séparément.
 
 #### Art. 65
 
@@ -1249,13 +1252,16 @@ arrête:
 - f) les personnes morales qui poursuivent des buts de service public ou de pure utilité publique sur le bénéfice et le capital exclusivement et irrévocablement affectés à ces buts. Des buts économiques ne peuvent être considérés en principe comme étant d'intérêt public. L'acquisition et l'administration de participations en capital importantes à des entreprises ont un caractère d'utilité publique lorsque l'intérêt au maintien de l'entreprise occupe une position subalterne par rapport au but d'utilité publique et que des activités dirigeantes ne sont pas exercées;
 - g) les personnes morales qui visent des buts cultuels dans le canton ou sur le plan suisse, sur le bénéfice et le capital exclusivement et irrévocablement affectés à ces buts. Sont notamment exclues les sectes;
 - h) les Etats étrangers, sur leurs immeubles suisses affectés exclusivement à l'usage direct de leurs représentations diplomatiques et consulaires, sous réserve de réciprocité;
-- i) les entreprises de transport et d'infrastructures titulaires d'une concession de la Confédération qui reçoivent des indemnités pour cette activité ou qui doivent, du fait de leur concession, maintenir toute l'année un service d'importance nationale; les gains qui sont issus d'une activité soumise à concession et sont disponibles librement sont également exonérés de l'impôt; les exploitations annexes et les biens fonciers qui n'ont pas de relation nécessaire avec l'activité soumise à concession sont cependant exclus de cette exonération.
+- i) les entreprises de transport et d'infrastructures titulaires d'une concession de la Confédération qui reçoivent des indemnités pour cette activité ou qui doivent, du fait de leur concession, maintenir toute l'année un service d'importance nationale; les gains qui sont issus d'une activité soumise à concession et qui sont disponibles librement sont également exonérés de l'impôt; les exploitations annexes et les biens fonciers qui n'ont pas de relation nécessaire avec l'activité soumise à concession sont cependant exclus de cette exonération;
+- j) les placements collectifs qui possèdent des immeubles en propriété directe sont, dans la mesure où les investisseurs sont exclusivement des institutions de prévoyance professionnelle au sens de la lettre d ou des caisses indigènes d'assurance sociale et de compensation au sens de la lettre e, exonérés de l'impôt.
 
-<sup>2</sup> Les personnes morales mentionnées à l'alinéa 1 lettres b, c, f, g et i sont cependant soumises aux impôts sur les immeubles qui ne servent pas à la réalisation de leur but directement, mais comme valeurs de placement ou exploitations commerciales ainsi que sur les redevances hydro-électriques; les déductions correspondant à une charge hypothécaire normale de l'immeuble sont autorisées. L'impôt sur le bénéfice est prélevé conformément à l'article 93, l'impôt sur le capital conformément à l'article 100, l'impôt foncier conformément aux articles 101 et 181 et l'impôt sur les gains immobiliers conformément aux articles 44 et suivants.
+<sup>2</sup> Les personnes morales mentionnées à l'alinéa 1 lettres b, c et i sont cependant soumises aux impôts sur les immeubles qui ne servent pas à la réalisation de leur but directement, mais comme valeurs de placement, sur les exploitations commerciales ainsi que sur les redevances hydro-électriques; les déductions correspondant à une charge hypothécaire normale de l'immeuble sont autorisées. L'impôt sur le bénéfice est prélevé conformément à l'article 93, l'impôt sur le capital conformément à l'article 100, l'impôt foncier conformément aux articles 101 et 181 et l'impôt sur les gains immobiliers conformément aux articles 44 et suivants.
 
-<sup>3</sup> Les personnes morales mentionnées à l'alinéa 1 lettres d et e sont soumises pour leurs immeubles à l'impôt sur les gains immobiliers et à l'impôt foncier. Ces impôts sont prélevés conformément aux articles 44ss, 101 et 181. Les dispositions relatives aux biens acquis en remploi (art. 26), aux amortissements (art. 24), aux provisions (art. 25) et à la déduction des pertes (art. 27) s'appliquent par analogie.
+<sup>3</sup> Les personnes morales mentionnées à l'alinéa 1 lettre d sont soumises pour leurs immeubles à l'impôt sur les gains immobiliers et à l'impôt foncier. Ces impôts sont prélevés conformément aux articles 44 et suivants, 101 et 181. Les dispositions relatives aux biens acquis en remploi (art. 26), aux amortissements (art. 24), aux provisions (art. 25) et à la déduction des pertes (art. 27) s'appliquent par analogie.
 
 <sup>4</sup> …
+
+<sup>5</sup> Les personnes morales mentionnées à l'alinéa 1 lettre c sont soumises à l'impôt sur les bénéfices en capital lors de la réalisation des réserves latentes des ouvrages et installations ainsi que des droits de participation provenant de l'exercice du droit de retour ou par rachat. Ces derniers sont exonérés pour la part servant à l'alimentation en énergie de la communauté qui dispose de la force. L'impôt sur le bénéfice est prélevé conformément à l'article 93.
 
 ### 1.2.2 Imposition du bénéfice
 
@@ -1312,7 +1318,7 @@ arrête:
 - a) en cas de transformation en une société de personnes ou en une autre personne morale;
 - b) en cas de division ou de séparation de la personne morale se traduisant par le transfert d'une ou plusieurs exploitations ou parties distinctes d'exploitation, à condition que les personnes morales résultant de la scission poursuivent une exploitation ou une partie distincte d'exploitation;
 - c) en cas d'échange de droits de participation ou de droits sociaux suite à une restructuration ou à une concentration assimilable à une fusion;
-- d) en cas de transfert à une société fille suisse, d'exploitations ou de parties distinctes d'exploitation ainsi que d'actifs immobilisés; on entend par une société fille une société de capitaux ou une coopérative dont 20 pour cent au moins du capital-actions ou du capital social appartiennent à la société de capitaux ou à la coopérative transférante.
+- d) en cas de transfert à une société fille suisse, d'exploitations ou de parties distinctes d'exploitation ainsi que d'actifs immobilisés. On entend par une société fille une société de capitaux ou une coopérative dont 20 pour cent au moins du capital-actions ou du capital social appartiennent à la société de capitaux ou à la coopérative transférante.
 
 <sup>2</sup> Les réserves latentes transférées à une société fille selon l'alinéa 1 lettre d font l'objet d'une procédure de rappel d'impôt prévue aux articles 158 et 159 si, dans un délai de cinq ans suivant la restructuration, la société fille aliène les valeurs patrimoniales, les droits de participation ou les droits sociaux qui lui ont été transférés; dans ce cas, la société fille peut faire valoir les réserves latentes correspondantes imposées comme bénéfice.
 
@@ -1475,7 +1481,7 @@ arrête:
 
 **b) Rendement des participations**
 
-<sup>1</sup> Le rendement net des participations correspond au revenu de ces participations diminué des frais de financement y relatifs et d'une contribution de cinq pour cent destinée à la couverture des frais d'administration, sous réserve de la preuve de frais d'administration effectifs inférieurs à ce taux. Sont réputés frais de financement les intérêts passifs ainsi que d'autres frais économiquement assimilables à des intérêts passifs. Font également partie du revenu des participations les bénéfices en capital provenant de la vente de participations et le produit de la vente de droits de souscription s'y rapportant, ainsi que les bénéfices de réévaluation selon l'article 670 du Code suisse des obligations.
+<sup>1</sup> Le rendement net des participations correspond au revenu de ces participations diminué des frais de financement y relatifs et d'une contribution de 5 pour cent destinée à la couverture des frais d'administration, sous réserve de la preuve de frais d'administration effectifs inférieurs ou supérieurs à ce taux. Sont réputés frais de financement les intérêts passifs ainsi que d'autres frais économiquement assimilables à des intérêts passifs. Font également partie du revenu des participations les bénéfices en capital provenant de la vente de participations et le produit de la vente de droits de souscription s'y rapportant, ainsi que les bénéfices de réévaluation selon le Code suisse des obligations.
 
 <sup>2</sup> Ne font pas partie du rendement des participations:
 
@@ -1490,6 +1496,11 @@ arrête:
 - b) si la participation aliénée était égale à 10 pour cent au moins du capital-actions ou du capital social d'une autre société ou si elle avait un droit fondé sur 10 pour cent au moins du bénéfice et des réserves d'une autre société et que la société de capitaux ou la société coopérative l'a détenue pendant un an au moins. Si la participation tombe au-dessous de 10 pour cent à la suite d'une aliénation partielle, la réduction ne peut être accordée sur chaque bénéfice d'aliénation ultérieure que si la valeur vénale des droits de participations s'élève à un million de francs au moins à la fin de l'année fiscale précédant l'aliénation.
 
 <sup>5</sup> Les transactions qui se traduisent au sein du groupe par une économie d'impôt injustifiée entraînent une rectification du bénéfice imposable ou une diminution de la réduction. L'économie d'impôt est injustifiée lorsque les bénéfices en capital et les pertes en capital ou les amortissements relatifs à des participations sont en relation de cause à effet.
+
+<sup>6</sup> En ce qui concerne les sociétés mères de banques d'importance systémique au sens de l'article 7 alinéa 1 de la loi sur les banques (LB), ne sont pas pris en compte pour le calcul du rendement net au sens de l'alinéa 1 les frais de financement relatifs aux emprunts suivants et la créance inscrite au bilan à la suite du transfert au sein du groupe des fonds provenant des emprunts suivants:
+
+- a) emprunts à conversion obligatoire et emprunts assortis d'un abandon de créances visés à l'article 11 alinéa 4 LB, et
+- b) instruments de dette destinés à absorber les pertes en présence de mesures en cas d'insolvabilité au sens des articles 28 à 32 LB.
 
 #### Art. 92
 
@@ -1545,7 +1556,7 @@ arrête:
 
 **1.3. Associations, fondations et autres personnes morales**
 
-<sup>1</sup> Le capital propre imposable du canton, des communes municipales, des bourgeoisies, des associations, fondations et autres personnes morales correspond à leur fortune nette.
+<sup>1</sup> Le capital propre imposable du canton, des communes municipales, des bourgeoisies, des associations, fondations et autres personnes morales correspond à leur fortune nette, déterminée conformément aux dispositions applicables aux personnes physiques.
 
 <sup>2</sup> Les fonds de placement sont assujettis à l'impôt sur le capital pour les immeubles en propriété directe conformément au premier alinéa.
 
@@ -1560,7 +1571,7 @@ arrête:
 
 <sup>2</sup> Le Grand Conseil peut modifier les taux prévus à l'alinéa 1 jusqu'à 0.5 pour mille maximum.
 
-<sup>3</sup> Le capital propre afférent aux droits de participation visés à l’article 90, aux brevets et droits comparables visés à l’article 88a ainsi qu’aux prêts consentis à des sociétés du groupe, est réduit de 90 pour cent.
+<sup>3</sup> Le montant d’impôt sur le capital propre afférent aux droits de participation visés à l’article 90, aux brevets et droits comparables visés à l’article 88a ainsi qu’aux prêts à moyen et long termes consentis à des sociétés affiliées, est réduit de 90 pour cent. Le montant d’impôt sur le capital propre jusqu'à 500'000 francs et le montant d’impôt sur le capital propre dès 500'001 francs sont réduits dans une proportion égale.
 
 #### Art. 100
 
@@ -1616,13 +1627,15 @@ arrête:
 
 <sup>2</sup> La période fiscale correspond à l'exercice commercial.
 
-<sup>3</sup> Chaque année civile, à l'exception de l'année de fondation, les comptes doivent être clos et un bilan et un compte de résultat établis. Les comptes doivent être également clos en cas de transfert du siège, de l'administration ou d'un établissement stable à l'étranger.
+<sup>3</sup> Chaque année civile, à l'exception de l'année de fondation, les comptes doivent être clos et un bilan et un compte de résultat établis. Les comptes doivent être également clos en cas de transfert du siège, de l'administration ou d'un établissement stable à l'étranger ainsi qu'à la fin de la liquidation.
 
 #### Art. 106
 
 **2. Calcul du bénéfice net**
 
 <sup>1</sup> L'impôt sur le bénéfice net est calculé sur la base du bénéfice net réalisé pendant la période fiscale.
+
+<sup>1<sup>bis</sup></sup> Si les comptes annuels sont établis dans une monnaie étrangère, le bénéfice net imposable doit être converti en francs suisses. Le taux de change moyen (vente) de la période est déterminant.
 
 <sup>2</sup> Lorsque l'exercice comprend plus ou moins de douze mois, le taux de l'impôt est fixé compte tenu d'un bénéfice net calculé sur douze mois.
 
@@ -1634,7 +1647,9 @@ arrête:
 
 <sup>1</sup> L'impôt sur le capital propre est calculé sur la base du capital propre existant à la fin de la période fiscale.
 
-<sup>2</sup> L'impôt foncier est calculé sur la valeur fiscale des immeubles existant à la fin de l'exercice.
+<sup>1<sup>bis</sup></sup> Si les comptes annuels sont établis dans une monnaie étrangère, le capital propre imposable doit être converti en francs suisses. Le taux de change (vente) à la fin de la période fiscale est déterminant.
+
+<sup>2</sup> L'impôt foncier est calculé sur la valeur fiscale des immeubles existant au 31 décembre.
 
 ### 1.3 Imposition à la source des personnes physiques et morales
 
@@ -1743,7 +1758,7 @@ arrête:
 
 - a) de retenir l'impôt dû à l'échéance des prestations en espèces et de prélever auprès du travailleur l'impôt dû sur les autres prestations (notamment les prestations en nature et en pourboires);
 - b) de remettre au contribuable un relevé ou une attestation indiquant le montant de l'impôt retenu;
-- c) de verser périodiquement les impôts à l'autorité fiscale compétente, d'établir à son intention les relevés y relatifs et de lui permettre de consulter tous les documents utiles au contrôle de la perception de l'impôt.
+- c) de verser périodiquement les impôts à l'autorité fiscale compétente, d'établir à son intention les relevés y relatifs, ce par voie électronique, et de lui permettre de consulter tous les documents utiles au contrôle de la perception de l'impôt.
 
 <sup>2</sup> Il doit également retenir l’impôt à la source lorsque le travailleur est domicilié ou en séjour dans un autre canton.
 
@@ -1891,7 +1906,7 @@ arrête:
 
 - a) de retenir l'impôt dû à l'échéance des prestations en espèces et de prélever auprès du contribuable l'impôt dû sur les autres prestations;
 - b) de remettre au contribuable une attestation indiquant le montant de la retenue;
-- c) de verser l'impôt à l'autorité compétente;
+- c) de verser périodiquement l'impôt à l'autorité fiscale compétente, d'établir à son intention les relevés y relatifs, ce par voie électronique, et de lui permettre de consulter tous les documents utiles au contrôle de la perception de l'impôt;
 - d) de verser la part proportionnelle de l'impôt sur les options de collaborateur exercées à l'étranger; l'employeur doit la part proportionnelle de l'impôt même si l'avantage appréciable en argent est versé par une société du groupe à l'étranger.
 
 <sup>2</sup> Il doit également retenir l’impôt à la source lorsque le contribuable est assujetti dans un autre canton.
@@ -2262,14 +2277,14 @@ arrête:
 
 **1.4. Informations de tiers**
 
-<sup>1</sup> Doivent produire une attestation à l'autorité de taxation pour chaque période fiscale :
+<sup>1</sup> Doivent produire une attestation à l'autorité de taxation pour chaque période fiscale:
 
 - a) les personnes morales, sur les prestations versées aux membres de l'administration ou d'autres organes;
 - b) les fondations, sur les prestations faites à leurs bénéficiaires;
 - c) les sociétés de personnes, sur les parts des associés au revenu et à la fortune de la société, sur leurs autres créances envers la société, ainsi que sur tout élément présentant un intérêt pour leur taxation;
 - d) les institutions de prévoyance professionnelle et de la prévoyance individuelle liée, sur les prestations fournies à leurs preneurs de prévoyance ou bénéficiaire;
 - e) les fonds de placement, sur tous les éléments déterminants pour l'imposition des immeubles détenus en propriété directe et leur Rendement;
-- f) les employeurs, sur les avantages appréciables en argent dérivant de participations de collaborateur proprement dites ainsi que sur l'attribution et l'exercice d'options de collaborateur.
+- f) les employeurs, sur les avantages appréciables en argent dérivant de participations de collaborateur proprement dites ainsi que sur l'attribution et l'exercice d'options de collaborateur;
 
 <sup>2</sup> Un double de l'attestation doit être adressé au contribuable.
 
@@ -2303,7 +2318,7 @@ arrête:
 
 <sup>2</sup> La réclamation doit être motivée et contenir des conclusions; lorsque la réclamation est incomplète, un délai raisonnable est imparti au contribuable pour y remédier, sous peine d'irrecevabilité. Le réclamant doit indiquer dans sa réclamation les moyens de preuve qu'il entend invoquer.
 
-<sup>3</sup> La réclamation déposée contre une décision de taxation déjà motivée peut être considérée comme un recours et transmise à la Commission cantonale de recours en matière d'impôt, si le contribuable et les autres ayants droit y consentent.
+<sup>3</sup> La réclamation déposée contre une décision de taxation déjà motivée peut être considérée comme un recours et transmise à la Cour de droit fiscal du Tribunal cantonal, si le contribuable et les autres ayants droit y consentent.
 
 #### Art. 140
 
@@ -2335,7 +2350,7 @@ arrête:
 
 <sup>3</sup> La procédure de réclamation est gratuite. Toutefois, tout ou partie des frais d'expertises comptables ou d'autres mesures d'instruction peuvent être mis à la charge du contribuable, lorsque celui-ci les a rendues nécessaires par une grave infraction à ses obligations de procédure.
 
-### 1.6.3 Procédure de taxation de l'impôt sur les gainsimmobiliers
+### 1.6.3 Procédure de taxation de l'impôt sur les gains immobiliers
 
 #### Art. 143
 
@@ -2418,110 +2433,49 @@ arrête:
 
 #### Art. 150
 
-**Par devant la commission cantonale de recours en matière d'impôt: 1. Droit de recours**
+**Par devant la Cour de droit fiscal du Tribunal cantonal: 1. Droit de recours**
 
-<sup>1</sup> Le contribuable peut recourir auprès de la commission cantonale de recours en matière d'impôt contre la décision sur réclamation de l'autorité de taxation, dans les 30 jours dès sa notification.
+<sup>1</sup> Le contribuable peut recourir auprès de la Cour de droit fiscal du Tribunal cantonal contre la décision sur réclamation de l'autorité de taxation, dans les 30 jours dès sa notification.
 
-<sup>2</sup> La commission cantonale de recours en matière d'impôt statue comme autorité précédant immédiatement le Tribunal fédéral.
+<sup>2</sup> La Cour de droit fiscal du Tribunal cantonal statue comme autorité précédant le Tribunal fédéral.
+
+<sup>3</sup> Sauf disposition contraire de la présente loi, son organisation et son fonctionnement, ainsi que la procédure, les frais et dépens, sont régis par la loi sur la procédure et la juridiction administratives, la loi sur l'organisation de la Justice et la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives.
 
 #### Art. 150a
 
-**2. Conditions**
-
-<sup>1</sup> Le recours est déposé dans les 30 jours dès la notification de la décision sur réclamation. L'article 140 est applicable par analogie.
-
-<sup>2</sup> L'acte de recours est déposé en trois exemplaires accompagnés de la décision attaquée. Il contient un exposé concis des faits et des motifs ainsi que les conclusions et l'indication des moyens de preuve. Les documents servant de moyens de preuve doivent être joints à l'acte ou décrits avec précision.
-
-<sup>3</sup> Toute erreur dans la décision attaquée et tout vice de procédure constituent des motifs de recours.
+**…**
 
 #### Art. 151
 
-**3. Examen de la recevabilité, et échange d'écritures**
-
-<sup>1</sup> La commission cantonale de recours en matière d'impôt examine d'office la recevabilité du recours. Si le recours ne satisfait pas aux conditions de recevabilité formelle, un délai raisonnable est imparti au recourant pour y remédier, sous peine d'irrecevabilité.
-
-<sup>2</sup> Pour autant que le recours n'est pas manifestement irrecevable, le recours est transmis à l'autorité inférieure pour que celle-ci se détermine et remette son dossier. Les parties peuvent répliquer.
-
-<sup>3</sup>
+**…**
 
 #### Art. 151a
 
-**4. Instruction**
-
-<sup>1</sup> La commission cantonale de recours en matière d'impôt n'est pas liée par les conclusions des parties. Elle dispose d'un pouvoir d'examen illimité en fait et en droit et peut modifier la décision en défaveur du recourant après avoir entendu celui-ci.
-
-<sup>2</sup> Elle ordonne d'office dans le cadre de l'instruction toutes les mesures d'enquête nécessaires, notamment le dépôt de pièces, l'audition des parties ou de témoins, l'aménagement d'expertises et d'inspections des lieux.
-
-<sup>3</sup> Pour l'audition de personnes entendues à titre de renseignements ou de témoins, sont applicables, par analogie, les dispositions de l'article 18a de la loi sur la procédure et la juridiction administratives.
-
-<sup>4</sup> Lors d'inspections des lieux, le contribuable, de même que ses ayants droit, son locataire, et toute autre personne au bénéfice d'un droit de possession doivent permettre à la commission d'accéder aux immeubles, bâtiments et locaux, dans la mesure nécessaire au traitement du recours.
-
-<sup>5</sup> Si le recourant ne comparaît pas pour une audition ou une inspection des lieux, s'il ne dépose pas un moyen de preuve requis, ou s'il s'oppose d'une manière ou d'une autre à une mesure d'enquête, il pourra être statué sur la base du dossier, sans mesures d'instruction complémentaires.
+**…**
 
 #### Art. 151b
 
-**5. Délibérations**
-
-<sup>1</sup> Les délibérations de la commission cantonale de recours en matière d'impôt ne sont pas ouvertes aux parties.
+**…**
 
 #### Art. 152
 
-**6. Décision a) Généralités**
-
-<sup>1</sup> Si, au moment de la décision, l'une des conditions de recevabilité n'est pas réalisée, le recours fait l'objet d'une décision de non-entrée en matière, sans examen du fond de l'affaire.
-
-<sup>2</sup> Le recours retiré, ou devenu sans objet, avant qu'une décision n'ait été prise, fait l'objet d'une décision de classement. Il n'est pas donné suite à un retrait s'il apparaît sur la base du dossier que la décision attaquée était inexacte.
-
-<sup>3</sup> Lorsque la commission cantonale de recours en matière d'impôt entre en matière, elle statue elle-même sur le fond ou renvoie le dossier avec des instructions obligatoires à l'autorité inférieure pour qu'elle statue à nouveau.
-
-<sup>4</sup> La décision sur recours doit être motivée et communiquée par écrit au contribuable, ainsi qu'à l'autorité de taxation, au Service cantonal des contributions et aux communes intéressées. Toutefois, seul le judicatum peut être notifié. Celui-ci acquiert force exécutoire 30 jours après sa notification si, dans ce délai, aucune des parties ou autorités intéressées n'a demandé par écrit à recevoir une expédition complète de la décision avec motifs et considérants.
+**…**
 
 #### Art. 152a
 
-**b) Décision en séance plénière**
-
-<sup>1</sup> Sous réserve des articles 152b et 152c, les recours sont tranchés en séance plénière par la commission cantonale de recours en matière d'impôt.
-
-<sup>2</sup> Le quorum est fixé à cinq membres.
+**…**
 
 #### Art. 152b
 
-**c) Décision présidentielle**
-
-<sup>1</sup> Le président de la commission cantonale de recours en matière d'impôt statue comme juge unique,
-
-- a) sur les recours qui sont manifestement irrecevables,
-- b) sur les recours qui sont devenus sans objet ou ont été retirés (décision de classement).
+**…**
 
 #### Art. 152c
 
-**d) Décision des cours**
-
-<sup>1</sup> La commission cantonale de recours en matière d'impôt peut, pour le traitement des recours, se diviser en cours de trois membres, au sein desquelles les deux langues officielles doivent être représentées.
-
-<sup>2</sup> La présidence des cours est assurée par le président ou les vice-présidents de la commission.
-
-<sup>3</sup> Lorsque l'un des membres d'une cour le demande, l'affaire est traitée en séance plénière de la commission.
-
-<sup>4</sup> Les décisions qui créent une nouvelle jurisprudence ou modifient une jurisprudence existante doivent en tous les cas être traitées en séance plénière de la commission.
+**…**
 
 #### Art. 153
 
-**7. Frais**
-
-<sup>1</sup> En règle générale, les frais de procédure devant la Commission cantonale de recours en matière d'impôt comprennent le droit de sceau, les émoluments de chancellerie, ainsi que les autres dépenses nécessitées par l'instruction (honoraires des experts, indemnités aux témoins, etc.).
-
-<sup>2</sup> Le droit de sceau est fixé de 50 francs à 2000 francs selon l'importance et la difficulté de l'affaire. Il est réduit de moitié lorsqu'il est renoncé à une expédition complète du jugement (art. 152 al. 4). Les indemnités pour les témoins et les personnes entendues à titre de renseignement sont fixées conformément au tarif des frais et dépens en matière administrative.
-
-<sup>3</sup> Les frais de procédure sont mis à la charge de la partie qui succombe; lorsque le recours est partiellement admis, ils sont répartis proportionnellement.
-
-Les frais peuvent ne pas être mis à la charge du recourant, lorsque des circonstances spéciales le justifient.
-
-<sup>4</sup> Tout ou partie des frais sont mis à la charge du recourant qui obtient gain de cause, lorsqu'en se conformant aux obligations qui lui incombaient, il aurait pu obtenir satisfaction dans la procédure de taxation ou de réclamation déjà ou lorsqu'il a entravé l'instruction de la Commission cantonale de recours en matière d'impôt par son attitude dilatoire.
-
-<sup>5</sup> Sauf les cas dans lesquels l'article 88, alinéa 5, LPJA est applicable, l'autorité de recours allouera, sur requête, à la partie ayant entièrement ou partiellement gain de cause le remboursement des frais nécessaires qui lui ont été occasionnés (dépens) au sens de l'article 91 LPJA.
-
-<sup>6</sup> L'autorité de recours, ou son secrétaire, peut exiger du recourant une avance de frais en lui impartissant un délai de 30 jours et en l'avertissant qu'à défaut le recours sera déclaré irrecevable. L'article 140 est applicable par analogie.
+**…**
 
 #### Art. 153a
 
@@ -2533,7 +2487,7 @@ Les frais peuvent ne pas être mis à la charge du recourant, lorsque des circon
 
 **Recours au Tribunal fédéral**
 
-<sup>1</sup> La décision de la Commission cantonale de recours en matière d'impôt portant sur une matière réglée dans les titres 2 à 5 et 6, chapitre 1 de la loi fédérale sur l'harmonisation des impôts directs des cantons et des communes ou sur la remise de l'impôt cantonal et communal sur le revenu et le bénéfice peut faire l'objet d'un recours en matière de droit public devant le Tribunal fédéral conformément à la loi sur le Tribunal fédéral du 17 juin 2005.
+<sup>1</sup> …
 
 <sup>2</sup> Le contribuable et le Service cantonal des contributions ont qualité pour recourir.
 
@@ -2706,7 +2660,8 @@ Les frais peuvent ne pas être mis à la charge du recourant, lorsque des circon
 - a) intérêts rémunératoires sur les acomptes payés de manière anticipée;
 - b) intérêts moratoires sur les acomptes impayés ou payés tardivement;
 - c) intérêts de remboursement sur les montants facturés et payés en trop;
-- d) les intérêts compensatoires représentant des montants inférieurs à 500 francs ne sont pas facturés sur les impôts non payés au terme général d'échéance de l'impôt.
+- d) les intérêts compensatoires représentant des montants inférieurs à 500 francs ne sont pas facturés sur les impôts non payés au terme général d'échéance de l'impôt;
+- e) le taux d’intérêt moratoire et le taux d’intérêt de remboursement sont identiques.
 
 <sup>7</sup> Le Département des finances détermine les conditions auxquelles il n'est pas compté d'intérêt pour des raisons d'économie ou par simplification administrative.
 
@@ -2718,7 +2673,7 @@ Les frais peuvent ne pas être mis à la charge du recourant, lorsque des circon
 
 <sup>2</sup> L'autorité de perception prend sa décision après instruction de la réclamation.
 
-<sup>3</sup> Le contribuable peut recourir auprès de la Commission cantonale de recours en matière d'impôt contre la décision sur réclamation dans les 30 jours dès sa notification.
+<sup>3</sup> Le contribuable peut recourir auprès de la Cour de droit fiscal du Tribunal cantonal contre la décision sur réclamation dans les 30 jours dès sa notification.
 
 <sup>4</sup> Les règles de procédure en matière de taxation, de réclamation et de recours s'appliquent par analogie.
 
@@ -2764,7 +2719,7 @@ Les frais peuvent ne pas être mis à la charge du recourant, lorsque des circon
 
 <sup>2</sup> La décision peut faire l'objet d'une réclamation dans un délai de 30 jours auprès de l'autorité qui a pris la décision.
 
-<sup>3</sup> Le contribuable peut recourir dans les 30 jours dès la notification de la décision auprès de la Commission cantonale de recours en matière d'impôt.
+<sup>3</sup> Le contribuable peut recourir dans les 30 jours dès la notification de la décision auprès de la Cour de droit fiscal du Tribunal cantonal.
 
 <sup>4</sup> Les règles de procédure en matière de taxation, de réclamation et de recours s'appliquent par analogie.
 
@@ -2797,7 +2752,7 @@ Les frais peuvent ne pas être mis à la charge du recourant, lorsque des circon
 
 <sup>2</sup> Les sûretés doivent être fournies en argent, en titres sûrs et négociables ou sous la forme du cautionnement d'une banque.
 
-<sup>3</sup> Le prononcé de sûretés est notifié au contribuable par écrit. Il peut faire l'objet d'un recours à la Commission cantonale de recours en matière d'impôt.
+<sup>3</sup> Le prononcé de sûretés est notifié au contribuable par écrit. Il peut faire l'objet d'un recours à la Cour de droit fiscal du Tribunal cantonal.
 
 <sup>4</sup> Le recours ne suspend pas l'exécution du prononcé de sûretés.
 
@@ -2845,7 +2800,8 @@ Les frais peuvent ne pas être mis à la charge du recourant, lorsque des circon
 - b) l'impôt foncier;
 - c) l'impôt sur les gains immobiliers;
 - d) l'impôt sur les successions et donations;
-- e) les contributions de plus-value et les taxes de raccordement.
+- e) les contributions de plus-value et les taxes de raccordement;
+- f) l'impôt sur le capital immobilier et son rendement.
 
 <sup>2</sup> Cette hypothèque prime toute autre charge. Les impôts et taxes communaux sont garantis à rang égal.
 
@@ -2974,7 +2930,7 @@ Si la situation financière de la commune l'exige, le législatif communal peut 
 
 <sup>1<sup>bis</sup></sup> A compter de 10 ans après l'entrée en vigueur de la présente loi, les installations et machines de production sont exonérées de l'impôt foncier communal.
 
-<sup>2</sup> Pour les non-domiciliés, l'impôt foncier minimum est de 25 francs.
+<sup>2</sup> L'impôt foncier minimum est de 25 francs pour chaque propriétaire.
 
 #### Art. 182
 
@@ -2998,7 +2954,7 @@ Si la situation financière de la commune l'exige, le législatif communal peut 
 
 <sup>3</sup> En cas de refus, le recours au Conseil d'Etat est réservé.
 
-<sup>4</sup> La décision du Conseil d'Etat est susceptible de recours au Tribunal administratif.
+<sup>4</sup> La décision du Conseil d'Etat est susceptible de recours auprès de la Cour de droit fiscal du Tribunal cantonal.
 
 ### 2.2 Répartitions intercommunales de l'impôt
 
@@ -3041,7 +2997,7 @@ Si la situation financière de la commune l'exige, le législatif communal peut 
 
 **2.4. Imposition de la fortune et de son rendement**
 
-<sup>1</sup> Si l'assujettissement dans le canton existe en vertu d'un rattachement personnel, la fortune et son rendement sont imposables dans la commune du domicile ou du séjour. Cette commune verse à la commune de situation des immeubles bâtis une part d'impôt égale à 2.5 pour mille de la valeur fiscale de ces immeubles.
+<sup>1</sup> Si l'assujettissement dans le canton existe en vertu d'un rattachement personnel, la fortune et son rendement sont imposables dans la commune du domicile ou du séjour. Cette commune verse à la commune de situation des immeubles bâtis une part d'impôt égale à 3 pour mille de la valeur fiscale de ces immeubles.
 
 <sup>2</sup> Toutefois, les commissions de courtiers et les rémunérations semblables, sous déduction d'une part adéquate de frais généraux et d'un préciput, sont imposables au lieu de situation des immeubles auxquels elles se rapportent si elles dépassent 5000 francs par opération.
 
@@ -3081,7 +3037,7 @@ Si la situation financière de la commune l'exige, le législatif communal peut 
 
 <sup>1</sup> L'organe compétent pour procéder à la répartition intercommunale est le Service cantonal des contributions. Si celui-ci admet le principe de la répartition, il procède aux calculs y relatifs et les communique au contribuable et aux communes intéressées qui doivent sans tarder notifier un bordereau calculé sur cette base.
 
-<sup>2</sup> En cas de désaccord, la procédure de réclamation et de recours telle que prévue aux articles 139 à 142 et 150 à 153 est ouverte aussi bien aux communes qu'au contribuable.
+<sup>2</sup> En cas de désaccord, la procédure de réclamation et de recours telle que prévue aux articles 139 à 142 et 150 à 153b est ouverte aussi bien aux communes qu'au contribuable.
 
 ### 2.3 Perception de l'impôt
 
@@ -3258,7 +3214,7 @@ Si la situation financière de la commune l'exige, le législatif communal peut 
 
 <sup>3</sup> Contre les décisions d'amendes, une réclamation peut être formulée à l'autorité qui a pris la décision.
 
-<sup>4</sup> La décision sur réclamation est susceptible d'un recours à la Commission cantonale de recours en matière d'impôt.
+<sup>4</sup> La décision sur réclamation est susceptible d'un recours à la Cour de droit fiscal du Tribunal cantonal.
 
 <sup>5</sup> Les dispositions relatives aux principes généraux, à la procédure de taxation et à la procédure de recours sont applicables par analogie.
 
@@ -3379,11 +3335,7 @@ Si la situation financière de la commune l'exige, le législatif communal peut 
 
 L'autorité de réclamation de l'impôt sur le revenu, de l'impôt sur la fortune et de l'impôt foncier est la Commission cantonale d'impôts des personnes physiques. Cette commission se compose d'un représentant du Service cantonal des contributions qui la préside, de deux membres et de deux suppléants nommés par le Conseil d'Etat pour 4 ans. Les commissions peuvent continuer de siéger en l'absence temporaire d'un membre. Elles peuvent s'adjoindre des experts.
 
-<sup>3</sup> Pour les personnes morales: L'autorité de taxation et de réclamation est la Commission cantonale d'impôts des personnes morales qui se compose d'un fonctionnaire du Service cantonal des contributions qui la préside, et de deux membres et de deux suppléants nommés par le Conseil d'Etat pour quatre ans.
-
-Le chef du Département des finances peut assister aux délibérations avec voix consultative.
-
-La commission peut s'adjoindre des experts, elle consulte les communes intéressées qui le demandent.
+<sup>3</sup> Pour les personnes morales: L'autorité de taxation est le Service cantonal des contributions. L'autorité de réclamation est la Commission cantonale d'impôts des personnes morales qui se compose d'un fonctionnaire du Service cantonal des contributions qui la préside, et de deux membres et de deux suppléants nommés par le Conseil d'Etat pour 4 ans. Le chef du département en charge des finances peut assister aux délibérations avec voix consultative. La commission peut s'adjoindre des experts. Elle consulte les communes intéressées qui le demandent.
 
 <sup>4</sup> Pour les impôts sur les gains immobiliers, sur les successions et donations et à la source: L'autorité de taxation et de réclamation est le Service cantonal de contributions.
 
@@ -3418,24 +3370,19 @@ La commission peut s'adjoindre des experts, elle consulte les communes intéress
 
 #### Art. 219a
 
-**b) Commission cantonale de recours en matière d'impôt**
+**b) Cour de droit fiscal du Tribunal cantonal**
 
-<sup>1</sup> Une Commission cantonale de recours en matière d'impôt statue en qualité d'autorité judiciaire indépendante de l'administration précédant immédiatement le Tribunal fédéral sur tous les recours contre les décisions sur réclamations des autorités de taxation mentionnées à l'article 218, contre les décisions sur réclamations des autorités de perception, de remise et des autorités pénales, désignées aux articles 219 alinéas 1, 2, 3 et 4 et contre les décisions en matière de répétition de l'impôt (art. 168) et de répartition intercommunale de l'impôt (art. 184 et ss).
+<sup>1</sup> Les décisions sur réclamations des autorités de taxation mentionnées à l'article 218, les décisions sur réclamations des autorités de perception, de remise et des autorités pénales, désignées aux articles 219 alinéas 1, 2, 3 et 4 et les décisions en matière de répétition de l'impôt (art. 168) et de répartition intercommunale de l'impôt (art. 184 et ss) peuvent faire l’objet d’un recours à la Cour de droit fiscal du Tribunal cantonal conformément à la loi sur la procédure et la juridiction administratives (LPJA).
 
-<sup>2</sup> Elle se compose:
+<sup>2</sup> …
 
-- a) d'un président:
-- b) de deux vice-présidents de langue maternelle officielle distincte;
-- c) de quatre autres membres;
-- d) de sept membres suppléants.
+<sup>3</sup> …
 
-<sup>3</sup> Les membres de la commission sont nommés par le Grand Conseil pour une période de quatre ans commençant le 1<sup>er</sup> septembre suivant l'élection du Grand Conseil et du Conseil d'Etat. Le Grand Conseil désigne également le président et les vice-présidents et veille à une représentation équitable des diverses parties du canton.
+<sup>4</sup> …
 
-<sup>4</sup> La commission est assistée d'un secrétaire et du personnel de chancellerie nommés par le Conseil d'Etat.
+<sup>5</sup> …
 
-<sup>5</sup> Le Conseil d'Etat fixe les indemnités des membres de la commission.
-
-<sup>6</sup> La commission édicte un règlement concernant son organisation et son fonctionnement.
+<sup>6</sup> …
 
 #### Art. 220
 
@@ -3467,7 +3414,7 @@ La commission peut s'adjoindre des experts, elle consulte les communes intéress
 
 <sup>3</sup> Dans ce dernier cas, le contribuable peut lui-même exiger la récusation. Lorsqu'il y a contestation, le chef du Département des finances statue sous réserve de recours au Conseil d'Etat.
 
-<sup>4</sup> La décision du Conseil d'Etat est susceptible de recours au Tribunal administratif.
+<sup>4</sup> La décision du Conseil d'Etat est susceptible de recours auprès de la Cour de droit fiscal du Tribunal cantonal.
 
 <sup>5</sup> Les dispositions de la loi sur la procédure et la juridiction administratives sont applicables aux procédures de recours.
 
@@ -3514,9 +3461,9 @@ La commission peut s'adjoindre des experts, elle consulte les communes intéress
 
 **2. Contributions pour plus-values**
 
-<sup>1</sup> Lorsqu'une collectivité de droit public exécute des oeuvres d'intérêt public, telles que réseaux d'égouts, d'eau potable, aménagements touristiques, etc. qui profitent plus particulièrement à un groupe de propriétaires fonciers, ceux-ci pourront être appelés à y contribuer pour une part extraordinaire, dans la proportion des avantages qu'ils en retirent par la plus-value de leurs propriétés, mais au maximum 75 pour cent des coûts des travaux déterminant la plus-value incombant à cette collectivité. L'article 76 de la loi sur les routes du 3 septembre 1965 demeure réservé.
+<sup>1</sup> Lorsqu'une collectivité de droit public exécute des oeuvres d'intérêt public, telles que réseaux d'égouts, d'eau potable, aménagements touristiques, etc. qui profitent plus particulièrement à un groupe de propriétaires fonciers, ceux-ci pourront être appelés à y contribuer pour une part extraordinaire, dans la proportion des avantages qu'ils en retirent par la plus-value de leurs propriétés, mais au maximum 75 pour cent des coûts des travaux déterminant la plus-value incombant à cette collectivité.
 
-<sup>2</sup> Un décret du Grand Conseil réglera l'application des dispositions qui précèdent. Jusqu'à la promulgation de celui-ci, la procédure des articles 70 et suivants de la loi sur les routes du 3 septembre 1965 est applicable. Le décret susmentionné pourra modifier les dispositions de procédure de la loi sur les routes.
+<sup>2</sup> Les dispositions de la loi concernant la perception des contributions de propriétaires fonciers aux frais d'équipements et aux frais d'autres ouvrages publics du 15 novembre 1988 sont applicables.
 
 <sup>3</sup> En garantie du paiement des contributions de plus-values dues en vertu du premier alinéa ou de lois spéciales, les communes peuvent requérir l'inscription au registre foncier d'une hypothèque qui prime toute charge autre que les impôts sur les immeubles qui ont été revalorisés par l'exécution de l'oeuvre.
 
@@ -3578,7 +3525,7 @@ La commission peut s'adjoindre des experts, elle consulte les communes intéress
 
 **11. Déductions sociales et taux a) Indexation des déductions sociales**
 
-<sup>1</sup> Les déductions forfaitaires prévues aux articles 29 et 31 sont adaptées lors de chaque période de taxation à l'indice des prix à la consommation. Il en va de même des montants minimum et maximum des articles 32 alinéa 3 et 178 alinéa 3. Les fractions inférieures à 10 francs sont abandonnées.
+<sup>1</sup> Les déductions forfaitaires prévues aux articles 29 et 31 sont adaptées lors de chaque période de taxation à l'indice des prix à la consommation. Il en va de même des montants minimum et maximum des articles 32 alinéa 3, 33b alinéa 4 et 178 alinéa 3. Les fractions inférieures à 10 francs sont abandonnées.
 
 <sup>2</sup> Les fractions négligées des indexations précédentes sont reprises en considération.
 
@@ -3714,11 +3661,7 @@ La commission peut s'adjoindre des experts, elle consulte les communes intéress
 
 #### Art. 241h
 
-**Déductions forfaitaires des primes et cotisations d'assurance et intérêts d'épargne**
-
-<sup>1</sup> L'augmentation des déductions forfaitaires des primes et cotisations d'assurances et intérêts d'épargne de l'article 29 alinéa 1 lettre g, pour l'année fiscale n+2 (2015) à 7'200 francs (personnes mariées vivant en ménage commun) et à 3'600 francs (autres contribuables) est différée.
-
-<sup>2</sup> Le Grand Conseil peut décider chaque année de réaliser la troisième étape de l'augmentation des déductions de l'article 29 alinéa 1 lettre g pour le début de la période fiscale suivante.
+**…**
 
 #### Art. 242
 
