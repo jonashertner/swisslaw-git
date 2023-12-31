@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "640.12"
-title: Verordnung des Regierungsrates über die Steuerschätzung der Grundstücke
-short: Schätzungsverordnung; SchäV
+title: Grundstückschätzungsverordnung
+short: SchäV
 language: de
-version: 2020-08-08
-valid_until: 2023-12-31
-version_adopted: 2020-08-03
+version: 2024-01-01
+version_adopted: 2023-11-28
 adopted: 1992-11-24
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.12"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2346/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Steuerschätzung der Grundstücke
+# Grundstückschätzungsverordnung
 
 SchäV
 
-(Schätzungsverordnung; SchäV)
+(SchäV)
 
-vom 24.11.1992 (Stand 08.08.2020)
+vom 24.11.1992 (Stand 01.01.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -43,34 +42,36 @@ vom 24.11.1992 (Stand 08.08.2020)
 
 **Gesamthafte Neuschätzung**
 
-<sup>1</sup> Jedes nichtlandwirtschaftliche Grundstück im Sinne von § 1 wird in der Regel alle 15 Jahre gesamthaft neu geschätzt. Diese Frist wird durch allfällige Zwischenschätzungen gemäss § 4 und § 5 nicht berührt.
+<sup>1</sup> Jedes nichtlandwirtschaftliche Grundstück im Sinne von § 1 wird in der Regel spätestens nach 15 Jahren gesamthaft neu geschätzt.
 
 <sup>2</sup> Die Frist beginnt ungeachtet einer späteren Eröffnung in jenem Zeitpunkt zu laufen, in welchem die letzte gesamthafte Neuschätzung tatsächlich durchgeführt worden ist.
 
 #### § 4
 
-**Zwischenschätzung auf Antrag**
+**Neuschätzung auf Antrag**
 
-<sup>1</sup> Der Steuerpflichtige ist berechtigt, bei ausserordentlichen und wesentlichen Verhältnissen, die bei der letzten Schätzung noch nicht berücksichtigt worden sind, eine Zwischenschätzung zu verlangen, insbesondere
+<sup>1</sup> Der Steuerpflichtige ist berechtigt, bei ausserordentlichen und wesentlichen Verhältnissen, die bei der letzten Schätzung noch nicht berücksichtigt worden sind, eine Neuschätzung zu verlangen, insbesondere:
 
-- 1\. bei einer Umzonung;
-- 2\. wenn bei einem vermieteten Grundstück die Mietzinseinnahmen seit mindestens einem Jahr unter 75 % der bei der Schätzung des Ertragswertes angenommenen Einnahmen gesunken sind;
-- 3\. bei neuen schwerwiegenden Immissionen.
+- 1\. bei einer Umzonung
+- 2\. wenn bei einem vermieteten Grundstück die Mietzinseinnahmen seit mindestens einem Jahr unter 75 % der bei der Schätzung des Ertragswertes angenommenen Einnahmen gesunken sind
+- 3\. bei neuen schwerwiegenden Immissionen
+- 4\. wenn der bei der Handänderung unter unabhängigen Dritten bezahlte Kaufpreis unter dem steuerlichen Verkehrswert liegt
 
 #### § 5
 
-**Zwischenschätzung von Amtes wegen**
+**Neuschätzung von Amtes wegen**
 
-<sup>1</sup> Eine Zwischenschätzung ist von Amtes wegen vorzunehmen,
+<sup>1</sup> Eine Neuschätzung ist von Amtes wegen vorzunehmen,
 
-- 1\. wenn ein als Einheit geschätztes Grundstück durch eine Handänderung aufgeteilt worden ist;
-- 2\. wenn ein Grundstück neu dem Baugebiet oder dem Nichtbaugebiet zugewiesen worden ist;
-- 3\. bei wesentlichen wertvermehrenden Um-, An- oder Neubauten;
-- 4\. wenn land- oder forstwirtschaftlich eingeschätzte Grundstücke der bisherigen Bewirtschaftungsart dauernd entfremdet worden sind;
-- 5\. wenn bei land- und forstwirtschaftlichen Grundstücken in wesentlichem Ausmass eine Umstellung auf Intensivkulturen erfolgt oder diese erheblich vermehrt oder vermindert worden sind;
-- 6\. wenn Bauten durch Brand oder Abbruch untergegangen sind;
-- 7\. wenn die Gründe, die nach § 4 Ziff. 2 und Ziff. 3 zu einer Zwischenschätzung Anlass gegeben haben, weggefallen sind.
+- 1\. wenn ein als Einheit geschätztes Grundstück durch eine Handänderung aufgeteilt worden ist.
+- 2\. wenn ein Grundstück neu dem Baugebiet oder dem Nichtbaugebiet zugewiesen worden ist.
+- 3\. bei wesentlichen wertvermehrenden Um-, An- oder Neubauten.
+- 4\. wenn land- oder forstwirtschaftlich eingeschätzte Grundstücke der bisherigen Bewirtschaftungsart dauernd entfremdet worden sind.
+- 5\. wenn bei land- und forstwirtschaftlichen Grundstücken in wesentlichem Ausmass eine Umstellung auf Intensivkulturen erfolgt oder diese erheblich vermehrt oder vermindert worden sind.
+- 6\. wenn Bauten durch Brand oder Abbruch untergegangen sind.
+- 7\. wenn die Gründe, die nach § 4 Ziff. 2 und Ziff. 3 zu einer Neuschätzung Anlass gegeben haben, weggefallen sind.
 - 8\. wenn bei land- und forstwirtschaftlichen Grundstücken eine Wertveränderung wesentlichen Ausmasses aufgrund einer Änderung der Anleitung zur Verordnung über die Schätzung des landwirtschaftlichen Ertragswertes, Anhang zur Verordnung über das bäuerliche Bodenrecht (VBB)[^5-1], stattgefunden hat.
+- 9\. wenn der bei der Handänderung bezahlte Kaufpreis wesentlich vom Realwert abweicht.
 
 [^5-1]: SR [211.412.110](https://db.clex.ch/link/Bund/211.412.110/de)
 
@@ -181,12 +182,12 @@ vorzunehmen.
 
 <sup>2</sup> Bei der Punktierung werden folgende Kriterien bewertet:
 
-- 1\. Wirtschaftlichkeit der Produktionsstruktur;
-- 2\. Standort, Verkehrserschliessung;
-- 3\. Umsatzerwartungen, Absatzrisiken;
-- 4\. Anderweitige Verwertbarkeit der Gesamtanlage;
-- 5\. Verkäuflichkeit;
-- 6\. Entwicklungsmöglichkeit.
+- 1\. Wirtschaftlichkeit der Produktionsstruktur
+- 2\. Standort, Verkehrserschliessung
+- 3\. Umsatzerwartungen, Absatzrisiken
+- 4\. Anderweitige Verwertbarkeit der Gesamtanlage
+- 5\. Verkäuflichkeit
+- 6\. Entwicklungsmöglichkeit
 
 #### § 18
 
