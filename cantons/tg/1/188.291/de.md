@@ -1,31 +1,28 @@
 ---
 canton: TG
 number: "188.291"
-title: "Verordnung der Katholischen Synode über die Archivalien, Kult- und Kunstgegenstände"
-short: Archivverordnung
+title: Archivverordnung des Katholischen Kirchenrats
+short: AV
 language: de
-version: 1996-03-02
-valid_until: 2023-12-31
-version_adopted: 1995-12-04
+version: 2024-01-01
+version_adopted: 2023-12-06
 adopted: 2023-12-06
 in_force: 2024-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.291"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2070/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2733/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung der Katholischen Synode über die Archivalien, Kult- und Kunstgegenstände
+# Archivverordnung des Katholischen Kirchenrats
 
-Kath. Synode - Archivverordnung
+AV
 
-(Archivverordnung)
+(AV)
 
-vom 04.12.1995 (Stand 02.03.1996)
+vom 06.12.2023 (Stand 01.01.2024)
 
-Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ingress-1],
-
-**beschliesst:**
+Erlassen vom Katholischen Kirchenrat des Kantons Thurgau gestützt auf § 28 Abs. 2 Ziff. 2 lit. c der Verfassung der Katholischen Landeskirche (LKV)[^ingress-1].
 
 [^ingress-1]: RB [188.21](https://www.rechtsbuch.tg.ch/data/188.21/de)
 
@@ -37,15 +34,15 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 **Archiv**
 
-<sup>1</sup> Jede Kirchgemeinde unterhält ein Archiv.
+<sup>1</sup> Jede Kirchgemeinde führt ein Archiv.
 
-<sup>2</sup> Es ist unveräusserliches öffentliches Eigentum der Kirchgemeinde.
+<sup>2</sup> Das Archiv ist unveräusserliches öffentliches Eigentum der Kirchgemeinde.
 
 #### § 2
 
 **Zweck**
 
-<sup>1</sup> Das Archiv ist dazu bestimmt, eine fortlaufende dokumentarische Überlieferung des wesentlichen Geschehens in Kirchgemeinde und Pfarrei sicherzustellen und die hiefür notwendigen Akten dauernd aufzubewahren. Die Bestände sind laufend zu ergänzen.
+<sup>1</sup> Das Archiv ist dazu bestimmt, eine fortlaufende dokumentarische Überlieferung des wesentlichen Geschehens in Kirchgemeinde und Pfarrei sicherzustellen und die dazu notwendigen Akten dauernd aufzubewahren. Die Bestände sind laufend zu ergänzen.
 
 <sup>2</sup> Das Archiv dient sowohl der Rechtssicherheit im Bereich der Kirchgemeinde und der Pfarrei als auch der zeitgenössischen und zukünftigen historischen Forschung.
 
@@ -53,7 +50,7 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 #### § 3
 
-**Archivraum und Archivmaterial**
+**Organisation**
 
 <sup>1</sup> Das Archiv der Kirchgemeinde ist in einem geeigneten separaten Raum sach- und formgerecht unterzubringen. Der Raum hat Schutz zu bieten gegen Feuer, Wasser und Diebstahl.
 
@@ -61,32 +58,48 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 <sup>3</sup> Die Archivalien sind in Behältnissen aufzubewahren, die den konservatorischen Anforderungen Genüge leisten.
 
+<sup>4</sup> Erfolgt die Archivierung rein elektronisch, hat sie in Zusammenarbeit mit dem Staatsarchiv des Kantons Thurgau zu erfolgen.
+
 #### § 4
 
 **Verantwortlichkeit**
 
-<sup>1</sup> Die Kirchenvorsteherschaft bestimmt eine geeignete Person, welcher die Pflege des Archivs obliegt.
+<sup>1</sup> Der Kirchgemeinderat bestimmt eine geeignete Person, der die Pflege des Archivs obliegt.
 
-<sup>2</sup> Diese ist dem Kirchenrat mitzuteilen, der ein entsprechendes Register führt.
+<sup>2</sup> Er meldet diese Person dem Kirchenrat.
 
-### 1.3. Aufgaben des Archivverantwortlichen
+<sup>3</sup> Der Kirchenrat führt eine Liste der für die Pflege der Archive zuständigen Personen.
+
+### 1.3. Aufgaben der archivverantwortlichen Person
 
 #### § 5
 
 **Unterstellung, Aufgaben**
 
-<sup>1</sup> Die für das Archiv verantwortliche Person untersteht direkt der Kirchenvorsteherschaft und legt jährlich Rechenschaft ab.
+<sup>1</sup> Die für das Archiv verantwortliche Person untersteht direkt dem Kirchgemeinderat und legt jährlich Rechenschaft über ihre Tätigkeit ab.
 
-<sup>2</sup> Sie hat folgende Aufgaben:
+<sup>2</sup> Die verantwortliche Person:
 
-- 1\. regelt in Absprache mit der Kirchenvorsteherschaft die Zugänglichkeit des Archivs,
-- 2\. ordnet, verzeichnet, verpackt und beschriftet die Archivbestände sach- und fachgerecht,
-- 3\. erstellt die geeigneten Findmittel,
-- 4\. betreut die Archivbenutzer und die Aktenausleihe und führt darüber Kontrolle.
+- 1 regelt in Absprache mit dem Kirchgemeinderat die Zugänglichkeit des Archivs
+- 2 ordnet, verzeichnet, verpackt und beschriftet die Archivbestände sach- und fachgerecht
+- 3 erstellt die geeigneten Findmittel
+- 4 betreut die Archivbenutzer und die Aktenausleihe und führt darüber Kontrolle
 
-### 1.4. Aktenablieferung und Archivordnung
+<sup>3</sup> Der Kirchgemeinderat kann diese Aufgaben einem externen Archivdienstleister übertragen.
+
+### 1.4. Aktenführung, -ablieferung und -erschliessung
 
 #### § 6
+
+**Registratur- und Archivplan**
+
+<sup>1</sup> Analoge und digitale Aktenführung und Archivierung basieren auf dem Registratur- und Archivplan; dieser wird vom Kirchenrat erlassen.
+
+<sup>2</sup> Der Registratur- und Archivplan legt die Ordnungsstruktur, die Benennungen der Aktenreihen, die Archivwürdigkeit und die Schutzfristen fest.
+
+<sup>3</sup> Die Archivalien sind nach Registratur- und Archivplan zu ordnen und zu verzeichnen, ebenso jeder Zuwachs.
+
+#### § 7
 
 **Einlieferung**
 
@@ -94,17 +107,11 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 <sup>2</sup> Der Kirchenrat legt die Liste der einzuliefernden Dokumente fest.
 
-#### § 7
-
-**Archivplan**
-
-<sup>1</sup> Die Archivalien sind nach dem vom Kirchenrat zu erstellenden Plan zu ordnen und zu verzeichnen, ebenso jeder Zuwachs.
-
 #### § 8
 
-**Aktenverzeichnis**
+**Archivverzeichnis**
 
-<sup>1</sup> Die für das Archiv verantwortliche Person hält jede Aktenablieferung in einem detaillierten Aktenverzeichnis fest und erstellt eine Quittung.
+<sup>1</sup> Die für das Archiv verantwortliche Person erstellt auf Grundlage des Registratur- und Archivplans ein detailliertes Archivverzeichnis.
 
 ### 1.5. Benützung
 
@@ -116,23 +123,31 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 #### § 10
 
-**Akteneinsicht**
+**Schutzfrist**
 
-<sup>1</sup> Die Akteneinsicht erfolgt nach Vereinbarung und im Beisein des Archivverantwortlichen. Benützer haben sich auf Verlangen auszuweisen.
+<sup>1</sup> Die allgemeine Schutzfrist für Akten beträgt 20 Jahre.
+
+<sup>2</sup> Die Schutzfrist für Akten mit besonders schützenswerten Personendaten beträgt 100 Jahre.
 
 #### § 11
 
-**Ausleihe**
+**Akteneinsicht**
 
-<sup>1</sup> An Kirchgemeindebehörden und Vertreter der Pfarrei können Akten ausgeliehen werden, sofern die Sicherheit der Archivalien gewährleistet bleibt. Die Ausleihe erfolgt gegen Quittung. Die ausgehenden Akten sind als Archivgut zu kennzeichnen. Privatpersonen haben die Akten im Archiv einzusehen.
+<sup>1</sup> Der Kirchgemeinderat kann in Absprache mit der für das Archiv verantwortlichen Person auf Gesuch hin vor Ablauf der Schutzfrist Zugang zu Archivgut gewähren, wenn keine gesetzlichen Vorschriften der Einsichtnahme entgegenstehen und wenn die angeführten Gründe die öffentlichen oder schützenswerten privaten Interessen überwiegen oder die betroffene Person in die Einsichtnahme einwilligt.
 
-<sup>2</sup> In besonderen Fällen wie bei Gesuchen von Behörden, Einsicht zur wissenschaftlichen Forschung etc. entscheidet im Zweifelsfalle der Kirchenrat.
+<sup>2</sup> Das Gesuch ist schriftlich und begründet beim Kirchgemeinderat einzureichen.
+
+<sup>3</sup> Der Kirchgemeinderat oder die für das Archiv verantwortliche Person können die Bewilligung an Bedingungen knüpfen.
+
+<sup>4</sup> Die Akteneinsicht erfolgt nach Vereinbarung und im Beisein der für das Archiv verantwortlichen Person. Benutzer und Benutzerinnen haben sich auf Verlangen auszuweisen.
 
 #### § 12
 
-**Sperrfrist**
+**Ausleihe**
 
-<sup>1</sup> Akten sind grundsätzlich erst nach Ablauf der entsprechenden Sperrfrist für die Öffentlichkeit zugänglich. Die Sperrfristen werden vom Kirchenrat festgelegt.
+<sup>1</sup> An Kirchgemeindebehörden und Vertreter der Pfarrei können Akten ausgeliehen werden, sofern die Sicherheit der Archivalien gewährleistet bleibt. Die Ausleihe erfolgt gegen Quittung. Die ausgehenden Akten sind als Archivgut zu kennzeichnen.
+
+<sup>2</sup> In besonderen Fällen wie bei Gesuchen von Behörden oder der Einsicht zur wissenschaftlichen Forschung entscheidet im Zweifelsfall der Kirchenrat.
 
 ### 1.6. Aufsicht und Beratung
 
@@ -146,7 +161,7 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 **Inspektion**
 
-<sup>1</sup> Der Kirchenrat nimmt periodisch Inspektionen vor. Er ist berechtigt, diese dem Staatsarchiv des Kantons Thurgau zu übertragen.
+<sup>1</sup> Der Kirchenrat nimmt periodisch Inspektionen vor. Er ist berechtigt, diese dem Staatsarchiv zu übertragen.
 
 #### § 15
 
@@ -158,7 +173,7 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 **Zusammenarbeit mit dem Staatsarchiv**
 
-<sup>1</sup> Der Kirchenrat regelt die Zusammenarbeit mit dem Staatsarchiv und die Abgeltung der Leistungen des Staatsarchivs in einer Vereinbarung mit dem zuständigen Departement.
+<sup>1</sup> Der Kirchenrat regelt die Zusammenarbeit mit dem Staatsarchiv und die Abgeltung der Leistungen des Staatsarchivs in einer Vereinbarung mit dem Staatsarchiv oder dem zuständigen Departement.
 
 ## 2. Archiv der Katholischen Landeskirche des Kantons Thurgau
 
@@ -174,7 +189,7 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 **Zweck**
 
-<sup>1</sup> Es ist dazu bestimmt, eine fortlaufende, dokumentarische Überlieferung des wesentlichen Geschehens in den Geschäftsbereichen der Synode, des Kirchenrates, des Bischöflichen Kommissariates beziehungsweise des Regionaldekanats und der Dekanate sicherzustellen und die hiefür notwendigen Akten dauernd aufzubewahren.
+<sup>1</sup> Das Archiv ist dazu bestimmt, auf der Grundlage des Registratur- und Archivplans eine fortlaufende, dokumentarische Überlieferung des wesentlichen Geschehens in den Geschäftsbereichen von Synode und Kirchenrat sicherzustellen und die dazu notwendigen analogen oder digitalen Akten dauernd aufzubewahren.
 
 <sup>2</sup> Es dient sowohl der Rechtssicherheit im Bereich der Landeskirche als auch der zeitgenössischen und der zukünftigen historischen Forschung.
 
@@ -198,15 +213,15 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 **Verwaltung und Archivbenutzung**
 
-<sup>1</sup> Verwaltung und Benutzung des Archivs der Katholischen Landeskirche erfolgt im Rahmen der geltenden gesetzlichen und reglementarischen Bestimmungen über das Staatsarchiv[^21-1].
+<sup>1</sup> Die Verwaltung und Benutzung des Archivs der Katholischen Landeskirche erfolgt im Rahmen des Gesetzes über Aktenführung und Archivierung (ArchivG)[^21-1] und dessen Ausführungsbestimmungen.
 
-[^21-1]: RB [432.111](https://www.rechtsbuch.tg.ch/data/432.111/de)
+[^21-1]: RB [432.10](https://www.rechtsbuch.tg.ch/data/432.10/de)
 
 #### § 22
 
-**Vereinbarung mit DIV**
+**Zusammenarbeit mit dem Staatsarchiv**
 
-<sup>1</sup> Die Modalitäten der Zusammenarbeit mit dem Staatsarchiv sowie die Abgeltung der Leistungen des Staatsarchivs werden vom Kirchenrat mit dem zuständigen Departement vertraglich geregelt.
+<sup>1</sup> Die Modalitäten der Zusammenarbeit mit dem Staatsarchiv sowie die Abgeltung der Leistungen des Staatsarchivs werden vom Kirchenrat mit dem Staatsarchiv oder dem zuständigen Departement vertraglich geregelt.
 
 ## 3. Betreuung der Kult- und Kunstgegenstände
 
@@ -214,9 +229,9 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 **Kult- und Kunstgegenstände, Verantwortlichkeit**
 
-<sup>1</sup> Die Kirchenvorsteherschaft sorgt dafür, dass alle Kult- und Kunstgegenstände sorgfältig aufbewahrt und fachgerecht gepflegt werden.
+<sup>1</sup> Der Kirchgemeinderat sorgt dafür, dass alle Kult- und Kunstgegenstände sorgfältig aufbewahrt und fachgerecht gepflegt werden.
 
-<sup>2</sup> Sie bestimmt eine geeignete Person, welcher die Pflege der Kult- und Kunstgegenstände obliegt. Diese ist dem Kirchenrat mitzuteilen, der ein entsprechendes Register führt.
+<sup>2</sup> Sie bestimmt eine geeignete Person, der die Pflege der Kult- und Kunstgegenstände obliegt. Diese ist dem Kirchenrat mitzuteilen, der ein entsprechendes Register führt.
 
 <sup>3</sup> Über die fachgerechte Pflege und Reparaturen sind die Weisungen der Denkmalpflege einzuholen.
 
@@ -224,32 +239,28 @@ Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG[^ing
 
 **Inventarisierung**
 
-<sup>1</sup> Alle Kult- und Kunstgegenstände sind in Zusammenarbeit mit der Denkmalpflege zu inventarisieren. Neuerwerbungen sind in den Inventaren laufend nachzutragen. Ein Exemplar des Inventars befindet sich im Archiv der Kirchgemeinde, ein zweites im Archiv der Katholischen Landeskirche.
+<sup>1</sup> Alle Kult- und Kunstgegenstände sind in Zusammenarbeit mit der Denkmalpflege zu inventarisieren. Neuerwerbungen sind in den Inventaren laufend nachzutragen. Ein Exemplar des Inventars befindet sich im Archiv der Kirchgemeinde, ein zweites im Archiv der Katholischen Landeskirche und ein drittes bei der Denkmalpflege.
 
-<sup>2</sup> Veräusserungen von Kult- und Kunstgegenständen von kunsthistorischem Wert sind unzulässig (§ 112 KOG[^24-1]).
+<sup>2</sup> Die Denkmalpflege führt das Inventar der kirchlichen Kunst.
 
-[^24-1]: RB [188.21](https://www.rechtsbuch.tg.ch/data/188.21/de)
+<sup>3</sup> Veräusserungen von Kult- und Kunstgegenständen von kunsthistorischem Wert sind nur mit Zustimmung des Kirchenrats und des Bischofs zulässig (vgl. § 23 Abs. 2 des Gesetzes der Katholischen Synode über die katholischen Kirchgemeinden des Kantons Thurgau [KGG][^24-1]).
+
+<sup>4</sup> Vor der Zustimmung fragt der Kirchenrat bei der Denkmalpflege an, ob es sich um Objekte von grosser Wichtigkeit für den Kanton handelt, die nicht veräusserbar sind.
+
+[^24-1]: RB [188.23](https://www.rechtsbuch.tg.ch/data/188.23/de)
 
 #### § 25
 
 **Aufbewahrung**
 
-<sup>1</sup> Kult- und Kunstgegenstände von besonderem Wert sind in einem Tresor aufzubewahren.
+<sup>1</sup> Kult- und Kunstgegenstände von besonderem Wert sind in in Absprache mit der Denkmalpflege fachgerecht aufzubewahren.
 
-<sup>2</sup> Die Verfügungsberechtigung und die Aushändigung der Tresorschlüssel sind von der Kirchenvorsteherschaft zu regeln und protokollarisch festzuhalten.
+<sup>2</sup> Die Verfügungsberechtigung und die Zugänglichkeit sind vom Kirchgemeinderat zu regeln und protokollarisch festzuhalten.
 
 #### § 26
 
 **Massnahmen bei Verlust**
 
-<sup>1</sup> Bei Verlusten sorgt die Kirchenvorsteherschaft sofort für die geeigneten Massnahmen zur Wiederauffindung. Sie informiert den Kirchenrat und die Denkmalpflege.
+<sup>1</sup> Bei Verlusten von jeglichen Kult- und Kunstgegenständen sorgt der Kirchgemeinderat sofort für die geeigneten Massnahmen zur Wiederauffindung. Sie informiert den Kirchenrat und die Denkmalpflege unmittelbar.
 
-## 4. Schlussbestimmung
-
-#### § 27
-
-**Schlussbestimmung**
-
-<sup>1</sup> Diese Verordnung tritt mit der Annahme durch die Synode in Kraft.
-
-9/1996
+50/2023
