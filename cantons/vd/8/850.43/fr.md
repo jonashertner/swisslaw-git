@@ -4,13 +4,13 @@ number: "850.43"
 title: LOI du 27.04.2010 sur la promotion et le soutien aux activités de jeunesse (LSAJ)
 short: LSAJ
 language: fr
-version: 2010-07-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.43?id=c30d6940-8b98-445c-83d6-13541f9119c8"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# LOI sur le soutien aux activités de la jeunesse
+# LOI sur la promotion et le soutien aux activités de jeunesse
 
 (LSAJ)
 
@@ -18,16 +18,24 @@ du 27 avril 2010
 
 LE GRAND CONSEIL DU CANTON DE VAUD
 
-vu les articles 62, 70 et 85 de la Constitution du Canton de Vaud du 14 avril 2003 [^ingress-1]
+vu la Convention des Nations Unies du 20 novembre 1989 relative aux droits de l'enfant (CDE)[^ingress-1]
 
-vu la loi du 22 février 2005 sur les subventions [^ingress-2]
+vu la loi fédérale du 30 septembre 2011 sur l'encouragement de l'enfance et de la jeunesse (LEEJ)[^ingress-2]
 
-vu le projet de loi présenté par le Conseil d'Etat
+vu les articles 62, 70 et 85 de la Constitution du canton de Vaud du 14 avril 2003[^ingress-3]
+
+vu la loi du 22 février 2005 sur les subventions (LSubv)[^ingress-4]
+
+vu les lignes directrices de la politique cantonale de l'enfance et de la jeunesse (PEJ) du 12 mai 2017
+
+vu le projet présenté par le Conseil d'Etat
 
 décrète
 
-[^ingress-1]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
-[^ingress-2]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
+[^ingress-1]: [Convention du 20.11.1989 relative aux droits de l'enfant, RS 0.107](https://www.admin.ch/opc/fr/classified-compilation/19983207/index.html)
+[^ingress-2]: [Loi fédérale du 30.09.2011 sur l’encouragement des activités extrascolaires des enfants et des jeunes, RS 446.1](https://www.fedlex.admin.ch/eli/cc/2012/698/fr)
+[^ingress-3]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
+[^ingress-4]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
 
 ## Chapitre I Dispositions générales
 
@@ -35,41 +43,61 @@ décrète
 
 **Buts [^chapterChapitreI-1]**
 
-<sup>1</sup> La présente loi a pour but d'instaurer une politique de soutien aux activités de la jeunesse.
+<sup>1</sup> La présente loi a pour but de développer une politique de promotion et de soutien aux activités de jeunesse.
 
-<sup>2</sup> Par soutien aux activités de la jeunesse, on entend :
+<sup>2</sup> Par promotion et soutien aux activités de jeunesse, on entend :
 
 - a. l'identification et la prise en compte des besoins, des attentes et des intérêts spécifiques des enfants et des jeunes ;
-- b. l'encouragement de la participation des enfants et des jeunes à la vie sociale au niveau communal, régional et cantonal afin de contribuer à l'apprentissage de la citoyenneté ;
-- c. la reconnaissance et le soutien des activités de jeunesse et des organisations de jeunesse en veillant à favoriser la responsabilité et l'autonomie des enfants et des jeunes ;
+- b. l'encouragement de la participation des enfants et des jeunes à la vie sociale et politique au niveau communal, régional et cantonal afin de contribuer à l'apprentissage de la citoyenneté ;
+- c. a reconnaissance et le soutien des activités de jeunesse extrascolaires et des organisations de jeunesse en veillant à favoriser la prise de responsabilité et d'autonomie des enfants et des jeunes ;
 - d. la reconnaissance et le soutien des expériences et de la formation liées aux tâches d'encadrement des enfants et des jeunes.
 
-[^chapterChapitreI-1]: Modif. 1 du 19.09.2023: Modification Al. 1-2; entrée en vigueur au 01.01.2024; Modification Al. 2, b-c; entrée en vigueur au 01.01.2024; Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^chapterChapitreI-1]: Modif. 1 du 19.09.2023: Modification Al. 1-2; entrée en vigueur au 01.01.2024; Modification Al. 2, b-c; entrée en vigueur au 01.01.2024
 
 #### Art. 2
 
 **Champ d'application [^1-1]**
 
-<sup>1</sup> Au sens de la présente loi, le terme de jeunesses comprend les enfants et les jeunes jusqu'à 25 ans révolus domiciliés ou résidant dans le Canton de Vaud.
+<sup>1</sup> La présente loi s'applique aux enfants et aux jeunes jusqu'à 25 ans révolus domiciliés ou résidant dans le canton de Vaud.
 
 <sup>2</sup> Elle s'applique aussi aux personnes qui les accompagnent et les encadrent au sein des organisations de jeunesse et pour les activités de jeunesse visées par la présente loi.
 
 <sup>3</sup> La présente loi ne s'applique que dans la mesure où il n'y a pas d'autres dispositions cantonales applicables notamment dans les domaines de l'éducation, de l'accueil de jour, du sport, de la culture ou du social.
 
-[^1-1]: Modif. 1 du 19.09.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^1-1]: Modif. 1 du 19.09.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
+
+#### Art. 2a
+
+**Examen des conséquences [^2-1]**
+
+<sup>1</sup> L'Etat peut examiner un projet de loi ou d'investissement sous l'angle de ses conséquences possibles pour l'enfance et la jeunesse.
+
+<sup>2</sup> Pour se faire, l'Etat peut solliciter en particulier la Chambre consultative de la jeunesse et la Commission de jeunes.
+
+[^2-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024
 
 #### Art. 3
 
-**Définitions [^2-1]**
+**Définitions [^2a-1]**
 
 <sup>1</sup> Dans la présente loi, on entend par :
 
 - a. activités de jeunesse : tout projet, conçu et réalisé sans but lucratif par des enfants ou des jeunes ou pour et avec eux dans les domaines social, culturel, sportif et des loisirs ;
 - b. organisation de jeunesse : toute association, au sens de l'article 60 CC [^3-1] , qui se consacre principalement à des activités de jeunesse et dont les membres sont composés majoritairement d'enfants ou de jeunes ;
-- c. organisation s'occupant de la jeunesse : toute association, au sens de l'article 60 CC, qui fournit une aide aux organisations de jeunesse pour leur permettre d'accomplir leurs activités.
+- c. organisation s'occupant de la jeunesse : toute association ou fondation, au sens des articles 60 et suivants et 80 et suivants CC, qui fournit une aide aux activités de jeunesse et aux organisations de jeunesse pour leur permettre d'accomplir leurs activités.
 
-[^2-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Modification Al. 1, c; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^2a-1]: Modif. 1 du 19.09.2023: Modification Al. 1, c; entrée en vigueur au 01.01.2024
 [^3-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
+
+#### Art. 3a
+
+**Participation des enfants et des jeunes [^3-2]**
+
+<sup>1</sup> La participation des enfants et des jeunes est entendue dans le cadre de la présente loi comme la possibilité de participer à la vie publique, ce qui inclut la participation sociale et politique.
+
+<sup>2</sup> Elle a pour but de permettre aux enfants et aux jeunes d'acquérir la capacité de former et d'exprimer leurs opinions et ainsi d'influer sur leurs conditions de vie au niveau communal, régional et cantonal.
+
+[^3-2]: Modif. 1 du 19.09.2023: Introduction Art. 3a; entrée en vigueur au 01.01.2024
 
 ## Chapitre II Dispositif de mise en oeuvre
 
@@ -82,57 +110,65 @@ décrète
 <sup>1</sup> L'application de la présente loi relève :
 
 - a. du département en charge de la jeunesse (ci-après : le département)[^4-1] lorsque la loi n'en dispose pas autrement ; le département peut déléguer certaines tâches au service en charge de la protection de la jeunesse ;
-- b. du service en charge de la protection de la jeunesse (ci-après : le service) ;
-- c. du répondant cantonal pour le soutien aux activités de la jeunesse (ci-après : le répondant cantonal).
+- b. du service en charge de la protection de la jeunesse[^4-2] (ci-après : le service) ;
+- c. du délégué cantonal ou de la déléguée cantonale à l'enfance et à la jeunesse (ci-après : le délégué ou la déléguée).
 
-[^sectionSectionI-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Modification Al. 1, c; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^sectionSectionI-1]: Modif. 1 du 19.09.2023: Modification Al. 1, c; entrée en vigueur au 01.01.2024
 [^4-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^4-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 5
 
-**Tâches du répondant cantonal [^4-2]**
+**Tâches du délégué ou de la déléguée [^4-3]**
 
-<sup>1</sup> Le répondant cantonal a notamment pour tâches :
+<sup>1</sup> Le délégué ou la déléguée a notamment pour tâches :
 
-- - d'assurer le lien avec les personnes de référence désignées par les communes et en particulier avec les délégués à la jeunesse ;
+- - d'apporter soutien et appui aux communes qui le sollicitent et d'assurer le lien avec les personnes de référence désignées par les communes, en particulier avec les délégués à l'enfance et à la jeunesse ;
 - - de veiller à la coordination entre les activités des différentes organisations de jeunesse ou s'occupant de la jeunesse pour lesquelles l'intervention de l'Etat est sollicitée ;
 - - de contribuer à une réflexion prospective tenant compte des besoins et intérêts des enfants et des jeunes, en collaboration avec les milieux concernés ;
 - - d'apporter soutien et appui aux organisations de jeunesse qui le sollicitent ;
-- - de promouvoir un dialogue entre la jeunesse et les collectivités publiques notamment par l'organisation de débats, forums ou manifestations ;
+- - de promouvoir un dialogue entre les enfants, les jeunes et les collectivités publiques, notamment par l'organisation de débats, forums ou manifestations ;
 - - de s'assurer du bon fonctionnement des organes institués par la présente loi ;
-- - de collecter et faire circuler les informations relatives aux activités de la jeunesse.
+- - de collecter et faire circuler les informations relatives au domaine de la promotion et du soutien aux activités de jeunesse ;
+- - de présider le Comité de préavis d'attribution des aides financières ;
+- - d'organiser, en collaboration avec la Commission de jeunes et à intervalles réguliers, une Session cantonale des jeunes qui adresse des propositions au Grand Conseil.
 
-[^4-2]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Modification Al. 1, Tiret 1,5,7; entrée en vigueur au 01.01.2024; Introduction Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^4-3]: Modif. 1 du 19.09.2023: Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Modification Al. 1, Tiret 1,5,7; entrée en vigueur au 01.01.2024; Introduction Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024
 
 ### Section II Chambre consultative de la jeunesse
 
 #### Art. 6
 
-**Création et composition [^sectionSectionII-1]**
+**Composition et nomination [^sectionSectionII-1]**
 
-<sup>1</sup> Le Conseil d'Etat institue une Chambre consultative de la jeunesse (ci-après : la Chambre consultative) composée de 12 à 15 membres représentants des milieux professionnels intéressés.
+<sup>1</sup> Le Conseil d'Etat institue une Chambre consultative de la jeunesse (ci- après : la Chambre consultative) composée de 12 à 17 membres représentants des milieux professionnels intéressés, des communes et des organisations d'envergure cantonale s'occupant de la jeunesse.
 
 <sup>2</sup> Les membres de la Chambre consultative et la personne en charge de la présidence sont désignés par le Conseil d'Etat, sur proposition du département, pour une période de 5 ans renouvelable. Leur rémunération est fixée par le Conseil d'Etat.
 
-<sup>3</sup> Le répondant cantonal est membre de droit de la Chambre consultative.
+<sup>3</sup> Le délégué ou la déléguée est membre de droit de la Chambre consultative.
 
 <sup>4</sup> Pour le surplus, la Chambre consultative s'organise elle-même.
 
-[^sectionSectionII-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1,3; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^sectionSectionII-1]: Modif. 1 du 19.09.2023: Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1,3; entrée en vigueur au 01.01.2024
 
 #### Art. 7
 
 **Tâches [^6-1]**
 
-<sup>1</sup> La Chambre consultative s'exprime sur toute question relative au soutien des activités de la jeunesse qui lui est soumise par le département ou par l'intermédiaire de ce dernier.
+<sup>1</sup> La Chambre consultative a notamment pour tâches :
 
-<sup>2</sup> Elle peut de son initiative lui faire des propositions.
+- a. de prendre position, d'office ou sur requête de l'administration cantonale, sur tout projet de loi ou sujet pouvant la concerner ;
+- b. de faire des propositions à l'intention du département concerné ou du Conseil d'Etat ;
+- c. de prendre connaissance des aspirations et préoccupations des enfants et jeunes du canton notamment par la Commission de jeunes et de développer une réflexion prospective sur les besoins et intérêts des enfants et des jeunes ;
+- d. de participer également, par les représentants qu'elle désigne, au Comité de préavis d'attribution des aides financières.
 
-<sup>3</sup> Elle prend connaissance des aspirations et préoccupations des enfants et jeunes du canton notamment par la Commission de jeunes et développe une réflexion prospective sur les besoins et intérêts des enfants et des jeunes.
+<sup>2</sup> ...
 
-<sup>4</sup> Elle participe également, par les représentants qu'elle désigne, au Comité de préavis d'attribution des aides financières.
+<sup>3</sup> ...
 
-[^6-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 1, a-d; entrée en vigueur au 01.01.2024; Abrogation Al. 2-4; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+<sup>4</sup> ...
+
+[^6-1]: Modif. 1 du 19.09.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 1, a-d; entrée en vigueur au 01.01.2024; Abrogation Al. 2-4; entrée en vigueur au 01.01.2024
 
 ### Section III Commission de jeunes
 
@@ -140,17 +176,17 @@ décrète
 
 **Composition et nomination [^sectionSectionIII-1]**
 
-<sup>1</sup> Le Conseil d'Etat institue une Commission de jeunes (ci-après : la Commission), composée de 15 à 25 membres, âgés au minimum de 14 ans et au maximum de 18 ans, pour un mandat de deux ans, renouvelable en principe une fois.
+<sup>1</sup> Le Conseil d'Etat institue une Commission de jeunes (ci-après : la Commission), composée de 20 à 30 membres, âgés au minimum de 14 ans et au maximum de 20 ans, pour un mandat de deux ans, renouvelable en principe une fois.
 
 <sup>2</sup> Les membres de la Commission et la personne en charge de la présidence sont désignés par le Conseil d'Etat, sur proposition du département élaborée en collaboration avec les communes. Leurs indemnités et défraiements sont fixés par le Conseil d'Etat.
 
 <sup>3</sup> Les membres de la Commission doivent être en principe actifs au sein d'une association de jeunesse, d'un conseil ou d'un parlement de jeunes ou engagés dans d'autres formes d'activités participatives au niveau communal ou intercommunal.
 
-<sup>4</sup> Le répondant cantonal assiste la Commission dans ses travaux.
+<sup>4</sup> Le délégué ou la déléguée assiste la Commission dans ses travaux.
 
 <sup>5</sup> La Commission précise ses modalités de fonctionnement dans un règlement interne qu'elle soumet à l'approbation du département. Pour le surplus, elle s'organise elle-même.
 
-[^sectionSectionIII-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Modification Al. 1,4; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^sectionSectionIII-1]: Modif. 1 du 19.09.2023: Modification Al. 1,4; entrée en vigueur au 01.01.2024
 
 #### Art. 9
 
@@ -158,12 +194,14 @@ décrète
 
 <sup>1</sup> La Commission a notamment pour tâches :
 
-- a. de prendre position, d'office ou sur requête de l'administration cantonale, sur tout projet de loi pouvant la concerner ;
+- a. de prendre position, d'office ou sur requête de l'administration cantonale, sur tout projet de loi ou sujet pouvant la concerner ;
 - b. de saisir la Chambre consultative de toute question susceptible de l'intéresser ;
 - c. de faire des propositions à l'intention du département concerné ou du Conseil d'Etat ;
-- d. de participer, par les représentants qu'elle désigne, au Comité de préavis d'attribution des aides financières.
+- d. d'assurer le suivi des propositions de la Session cantonale des jeunes.
 
-[^8-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Modification Al. 1, a,d; entrée en vigueur au 01.01.2024; Introduction Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+<sup>2</sup> Elle participe également, par les représentants qu'elle désigne, au Comité de préavis d'attribution des aides financières.
+
+[^8-1]: Modif. 1 du 19.09.2023: Modification Al. 1, a,d; entrée en vigueur au 01.01.2024; Introduction Al. 2; entrée en vigueur au 01.01.2024
 
 ### Section IV Au niveau communal
 
@@ -171,17 +209,17 @@ décrète
 
 **Compétences communales [^sectionSectionIV-1]**
 
-<sup>1</sup> Les communes prennent les mesures nécessaires de soutien aux activités des jeunes domiciliés ou résidant sur leur territoire.
+<sup>1</sup> Les communes prennent les mesures nécessaires de promotion et de soutien aux activités extrascolaires des enfants et des jeunes domiciliés ou résidant sur leur territoire.
 
 <sup>2</sup> Elles le font par exemple :
 
-- a. en désignant une personne de référence pour le soutien aux activités de la jeunesse ;
+- a. en désignant une personne de référence pour la promotion et le soutien aux activités de jeunesse ;
 - b. en développant leur collaboration avec les organisations de jeunesse locales ou régionales ;
 - c. en facilitant la réalisation d'activités de jeunesse communales ou régionales.
 
 <sup>3</sup> Pour réaliser ces tâches, elles peuvent développer des collaborations au niveau intercommunal ou régional.
 
-[^sectionSectionIV-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Modification Al. 2, a; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^sectionSectionIV-1]: Modif. 1 du 19.09.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Modification Al. 2, a; entrée en vigueur au 01.01.2024
 
 #### Art. 11
 
@@ -193,9 +231,11 @@ décrète
 
 - a. en mettant à disposition des espaces formels ou non, réguliers ou occasionnels, de participation des enfants et des jeunes à la vie communale ;
 - b. en associant des délégations d'enfants ou de jeunes à l'élaboration de projets communaux ou de quartiers les concernant ;
-- c. en développant des collaborations au niveau intercommunal ou régional.
+- c. ...
 
-[^10-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Abrogation Al. 2, c; entrée en vigueur au 01.01.2024; Introduction Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+<sup>3</sup> Pour réaliser ces tâches, elles peuvent développer des collaborations au niveau intercommunal ou régional.
+
+[^10-1]: Modif. 1 du 19.09.2023: Abrogation Al. 2, c; entrée en vigueur au 01.01.2024; Introduction Al. 3; entrée en vigueur au 01.01.2024
 
 ## Chapitre III Mesures de soutien et de reconnaissance
 
@@ -207,7 +247,7 @@ décrète
 
 [^12-1]: Modif. 1 du 19.09.2023: Modification ; entrée en vigueur au 01.01.2024
 
-### Section I Projets d'activités de jeunesse ou d'organisations de jeunesse
+### Section I Aides financières aux activités de jeunesse
 
 [^12-1]
 
@@ -217,13 +257,13 @@ décrète
 
 <sup>1</sup> Le département institue un Comité de préavis pour l'attribution des aides financières (ci-après : le Comité de préavis).
 
-<sup>2</sup> Il est composé du répondant cantonal, qui le préside, et de 6 à 8 membres, désignés pour une moitié par la Commission de jeunes et pour l'autre par la Chambre consultative.
+<sup>2</sup> Il est composé du délégué ou de la déléguée, qui le préside, et de 6 à 8 membres, désignés pour une moitié par la Commission de jeunes et pour l'autre par la Chambre consultative.
 
 <sup>3</sup> Ses membres sont nommés pour une durée de deux ans, renouvelable en principe une fois.
 
 <sup>4</sup> Pour le surplus, le Comité de préavis fixe son organisation.
 
-[^sectionSectionI-2]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Modification Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^sectionSectionI-2]: Modif. 1 du 19.09.2023: Modification Al. 2; entrée en vigueur au 01.01.2024
 
 #### Art. 14
 
@@ -238,9 +278,9 @@ décrète
 <sup>1</sup> Seul peut bénéficier d'une aide financière un projet :
 
 - a. conçu, porté et réalisé par des enfants ou des jeunes, éventuellement avec l'aide d'un adulte ou
-- b. initié par une organisation de jeunesse, mais impliquant une participation active des enfants ou des jeunes à son élaboration ou à sa réalisation.
+- b. initié par une organisation de jeunesse, une organisation s'occupant de la jeunesse ou une commune, et impliquant une participation active des enfants ou des jeunes à son élaboration ou à sa réalisation.
 
-[^14-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Modification Al. 1, b; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^14-1]: Modif. 1 du 19.09.2023: Modification Al. 1, b; entrée en vigueur au 01.01.2024
 
 #### Art. 16
 
@@ -323,13 +363,15 @@ décrète
 
 - a. le soutien méthodologique aux activités de jeunesse, aux organisations de jeunesse et aux communes ;
 - b. les mesures de coordination en faveur des organisations de jeunesse ;
-- c. les actions d'information ou l'organisation de manifestations sur des questions intéressant la jeunesse.
+- c. les actions d'information ou l'organisation de manifestations sur des questions intéressant les enfants et les jeunes.
 
 <sup>2</sup> A cet effet, le service leur accorde une subvention par convention ou par décision.
 
 <sup>3</sup> Le département détermine en outre si d'autres tâches que celles mentionnées à l'alinéa 1er peuvent être déléguées aux dites organisations.
 
-[^sectionSectionII-2]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Modification Al. 1, c; entrée en vigueur au 01.01.2024; Introduction Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+<sup>4</sup> Les organisations réalisent les tâches déléguées de manière coordonnée avec le délégué ou la déléguée.
+
+[^sectionSectionII-2]: Modif. 1 du 19.09.2023: Modification Al. 1, c; entrée en vigueur au 01.01.2024; Introduction Al. 4; entrée en vigueur au 01.01.2024
 
 #### Art. 24
 
@@ -385,13 +427,13 @@ décrète
 
 #### Art. 30
 
-**Reconnaissance des formations suivies et activités d'encadrement [^sectionSectionIII-2]**
+**Reconnaissance des activités d'encadrement [^sectionSectionIII-2]**
 
-<sup>1</sup> Les formations accomplies et les activités d'encadrement exercées dans le cadre d'activités de jeunesse ou d'organisations de jeunesse peuvent être reconnues comme équivalentes à des stages exigés dans le cursus de la formation professionnelle, en particulier dans le domaine de la santé, du social et de l'enseignement.
+<sup>1</sup> Les activités d'encadrement exercées dans le cadre d'activités de jeunesse ou d'organisations de jeunesse peuvent être reconnues comme équivalentes à des stages exigés dans le cursus de la formation professionnelle, en particulier dans le domaine de la santé, du social et de l'enseignement.
 
 <sup>2</sup> Les conditions d'équivalences sont fixées par le département compétent, le cas échéant sur la base de préavis d'autres départements concernés.
 
-[^sectionSectionIII-2]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Art. 31, Al. 2bis; entrée en vigueur au 01.01.2024
+[^sectionSectionIII-2]: Modif. 1 du 19.09.2023: Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024
 
 #### Art. 31
 
@@ -401,9 +443,11 @@ décrète
 
 <sup>2</sup> Ces formations doivent favoriser des fonctions d'encadrement et développer l'autonomie et la prise de responsabilités des enfants et des jeunes.
 
+<sup>2bis</sup> Ces formations font l'objet d'une attestation reconnue par le service.
+
 <sup>3</sup> Ce soutien fait l'objet d'une convention de subventionnement ou d'une décision de subvention ponctuelle. Les articles 24 à 29 sont applicables par analogie.
 
-[^30-1]: Modif. 1 du 19.09.2023: Introduction Art. 2a; entrée en vigueur au 01.01.2024; Introduction Art. 3a; entrée en vigueur au 01.01.2024; Introduction Art. 5, Al. 1, Tiret 8-9; entrée en vigueur au 01.01.2024; Introduction Art. 7, Al. 1, a-d; entrée en vigueur au 01.01.2024; Introduction Art. 9, Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 23, Al. 4; entrée en vigueur au 01.01.2024; Introduction Al. 2bis; entrée en vigueur au 01.01.2024
+[^30-1]: Modif. 1 du 19.09.2023: Introduction Al. 2bis; entrée en vigueur au 01.01.2024
 
 ## Chapitre IV Dispositions transitoires et finales
 
