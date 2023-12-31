@@ -4,13 +4,12 @@ number: "811.16"
 title: Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung
 short: "kantonale Epidemienverordnung, V EpG"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-25
+version: 2024-01-01
+version_adopted: 2023-09-26
 adopted: 2019-04-30
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.16"
-pdf: "https://bgs.so.ch/api/de/versions/5152/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5421/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5152/pdf_file"
 
 (kantonale Epidemienverordnung, V EpG)
 
-Vom 30.04.2019 (Stand 01.01.2022)
+Vom 30.04.2019 (Stand 01.01.2024)
 
 Der Regierungsrat
 
@@ -122,9 +121,9 @@ beschliesst:
 
 #### § 8
 
-**Oberämter**
+**Zivilstandsämter**
 
-<sup>1</sup> Die Oberämter sind für die Ausstellung von Leichenpässen für den Transport ins Ausland gemäss Artikel 70 EpV[^8-1] namens des Departements des Innern zuständig.
+<sup>1</sup> Die Zivilstandsämter sind für die Ausstellung von Leichenpässen für den Transport ins Ausland gemäss Artikel 70 EpV[^8-1] namens des Volkswirtschaftsdepartements zuständig.
 
 [^8-1]: SR [818.101.1](https://db.clex.ch/link/Bund/818.101.1/de).
 
