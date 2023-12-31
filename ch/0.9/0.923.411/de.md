@@ -4,11 +4,11 @@ title: Vertrag vom 2. November 1977 zwischen der Schweizerischen Eidgenossenscha
 short: UFiO
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754"
 language: de
-version: 2018-01-01
+version: 2024-01-01
 adopted: 1977-11-02
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754/20180101/de/xml/fedlex-data-admin-ch-eli-cc-1978-1755_1754_1754-20180101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1755_1754_1754/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1978-1755_1754_1754-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1755_1754_1754/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Abgeschlossen am 2. November 1977
 
 In Kraft getreten am 1. Januar 1979
 
-(Stand am 1. Januar 2018)
+(Stand am 1. Januar 2024)
 
 Die Schweizerische Eidgenossenschaft und das Land Baden‑Württemberg,
 
@@ -179,7 +179,9 @@ Siebenter Abschnitt: Übergangs‑ und Schlussbestimmungen
 
 <sup>(1)</sup> Im Gebiet der allgemeinen Fischerei ist zur Ausübung der Fischerei nur berechtigt, wer im Besitze einer gültigen Fischerkarte (§§ 6, 8 bis 11) ist.
 
-<sup>(2)</sup> Keiner Fischerkarte bedarf,
+<sup>(2)</sup>
+
+Keiner Fischerkarte bedarf:
 
 - 1\. wer in Anwesenheit des Inhabers einer Fischerkarte diesem beim Fischen hilft;
 - 2\.[^3-1] wer vom schweizerischen Ufer aus die Fischerei mit einer Angelrute mit festem Zapfen (Schwimmer) und einfachem Haken ausübt.
@@ -249,18 +251,20 @@ Dem Inhaber eines privaten Fischereirechts, der nicht Einwohner einer der in Abs
 
 <sup>(1)</sup> Die Fischerkarte wird nur demjenigen erteilt, der einen vom Land Baden‑Württemberg ausgestellten oder anerkannten deutschen Fischereischein oder eine vom Kanton Thurgau ausgestellte oder anerkannte kantonale Fischereibewilligung besitzt.
 
-<sup>(2)</sup> Die Fischerkarte kann verweigert werden jedem, der innerhalb der letzten fünf Jahre
+<sup>(2)</sup> bestraft oder mit einer Geldbusse belegt worden ist.
 
-bestraft oder mit einer Geldbusse belegt worden ist.
+Die Fischerkarte kann verweigert werden jedem, der innerhalb der letzten fünf Jahre:
 
 - 1\. wegen vorsätzlicher Zerstörung oder Beschädigung von Wasserbauten, Fischereieinrichtungen, Fischfangvorrichtungen oder Fischereifahrzeugen,
 - 2\. wegen Diebstahls von Fanggeräten oder Fischereifahrzeugen,
-- 3\. wegen schwerer vorsätzlicher Verstösse gegen die Bestimmungen zum Schutze der Gewässer oder
-- 4\. wegen schwerer vorsätzlicher Zuwiderhandlungen gegen diesen Vertrag oder andere fischereipolizeiliche Vorschriften
+- 3\. wegen schwerer vorsätzlicher Verstösse gegen die Bestimmungen zum Schutze der Gewässer, oder
+- 4\. wegen schwerer vorsätzlicher Zuwiderhandlungen gegen diesen Vertrag oder andere fischereipolizeiliche Vorschriften;
 
-<sup>(3)</sup> Die Fischerkarte kann für ungültig erklärt und eingezogen werden, wenn
+<sup>(3)</sup>
 
-- 1\. nachträglich bekannt wird, dass bei ihrer Erteilung Verweigerungsgründe vorgelegen haben oder
+Die Fischerkarte kann für ungültig erklärt und eingezogen werden, wenn:
+
+- 1\. nachträglich bekannt wird, dass bei ihrer Erteilung Verweigerungsgründe vorgelegen haben, oder
 - 2\. nachträglich Tatsachen eintreten, die ihre Verweigerung gerechtfertigt hätten.
 
 <sup>(4)</sup> Die Erteilung, der Entzug und der Verlust von Fischerkarten sind in ein Verzeichnis einzutragen. Über die Eintragung wird das Landratsamt Konstanz unterrichtet.
@@ -271,16 +275,20 @@ bestraft oder mit einer Geldbusse belegt worden ist.
 
 **Berufsfischerkarte**
 
-<sup>(1)</sup> Die Berufsfischerkarte für die selbständige Ausübung der Fischerei (Berufsfischerkarte A) wird demjenigen erteilt, der
+<sup>(1)</sup>
+
+Die Berufsfischerkarte für die selbständige Ausübung der Fischerei (Berufsfischerkarte A) wird demjenigen erteilt, der:
 
 - 1\. glaubhaft macht, dass er in dem für die Berufsfischerei am Untersee herkömmlichen Umfang die Fischerei berufsmässig ausüben will,
 - 2\.[^8-1] nach mindestens zweijähriger Lehrzeit eine Abschlussprüfung im Fachgebiet Fischerei bestanden hat,
 - 3\.[^8-2] nicht über ein Berufsfischerpatent an einem anderen Gewässer verfügt,
 - 4\.[^8-3] eine mindestens einjährige Erfahrung im Bereich der Fluss‑ und Seenfischerei nachweist.
 
-<sup>(2)</sup> Die Berufsfischerkarte für die unselbständige Ausübung der Fischerei (Berufsfischerkarte B) wird demjenigen erteilt, der
+<sup>(2)</sup>
 
-- 1\.[^8-4] die Voraussetzungen nach Absatz 1 Nr. 2 und 3 erfüllt und
+Die Berufsfischerkarte für die unselbständige Ausübung der Fischerei (Berufsfischerkarte B) wird demjenigen erteilt, der:
+
+- 1\.[^8-4] die Voraussetzungen nach Absatz 1 Nr. 2 und 3 erfüllt, und
 - 2\. in einem Betrieb beschäftigt ist, dessen Inhaber die Berufsfischerkarte A besitzt.
 
 <sup>(3)</sup> Die Berufsfischerkarte wird für höchstens drei aufeinanderfolgende Kalenderjahre erteilt. Vor der erstmaligen Erteilung ist die Fischereikommission (§ 33) anzuhören.
@@ -302,9 +310,11 @@ bestraft oder mit einer Geldbusse belegt worden ist.
 
 **Fischer-Gehilfenkarte**
 
-<sup>(1)</sup> Die Fischer‑Gehilfenkarte wird mit Zustimmung eines Inhabers der Berufsfischerkarte A demjenigen erteilt, der
+<sup>(1)</sup>
 
-- 1\. im Betrieb dieses Berufsfischers unter dessen Verantwortung und Aufsicht die Fischerei ausüben soll und
+Die Fischer‑Gehilfenkarte wird mit Zustimmung eines Inhabers der Berufsfischerkarte A demjenigen erteilt, der:
+
+- 1\. im Betrieb dieses Berufsfischers unter dessen Verantwortung und Aufsicht die Fischerei ausüben soll, und
 - 2\. eine mindestens einjährige Seenfischereierfahrung nachweisen kann.
 
 <sup>(2)</sup> Die Fischer‑Gehilfenkarte wird jeweils für die Dauer eines Kalenderjahres erteilt.
@@ -341,7 +351,9 @@ bestraft oder mit einer Geldbusse belegt worden ist.
 
 **Zuständigkeiten für die Erteilung und den Entzug der Fischerkarte**
 
-<sup>(1)</sup> Zuständig für die Erteilung sowie – unbeschadet gerichtlicher Zuständigkeit – für den Entzug der Fischerkarte sind bei Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt
+<sup>(1)</sup>
+
+Zuständig für die Erteilung sowie – unbeschadet gerichtlicher Zuständigkeit – für den Entzug der Fischerkarte sind bei Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt:
 
 - 1\. im Geltungsbereich des Grundgesetzes für die Bundesrepublik Deutschland haben, das Landratsamt Konstanz,
 - 2\. im Hoheitsgebiet der Schweizerischen Eidgenossenschaft haben, die Bezirksämter Kreuzlingen und Steckborn.
@@ -406,9 +418,9 @@ Für niedere Netze gelten die nachstehenden Masse:
 
 In einem Fischereibetrieb dürfen gleichzeitig verwendet werden:
 
-- 1\. höchstens sechs niedere Netze mit einer Maschenweite von 32 bis 34 mm;
+- 1\.[^15a-3] vom 18. Dezember bis 25. April höchstens sechs niedere Netze mit einer Maschenweite von 32 bis 34 mm und vom 15. Mai bis 31. Oktober höchstens acht niedere Netze mit einer Maschenweite von 32 bis 34 mm; und
 - 2\. höchstens sechs niedere Netze mit einer Mindestmaschenweite von 50 mm; und
-- 3\. ein niederes Spiegelnetz mit einer Mindestmaschenweite des Innennetzes von 32 mm.[^15a-3]
+- 3\. ein niederes Spiegelnetz mit einer Mindestmaschenweite des Innennetzes von 32 mm.[^15a-4]
 
 <sup>(3)</sup>
 
@@ -418,12 +430,13 @@ Für die Verwendung niederer Netze gelten folgende Einschränkungen:
 - 2\. Vom 1. November bis zur Freigabe des Laichfischfangs auf Felchen muss die Mindestmaschenweite 60 mm betragen.
 - 3\. Während der Barschschonzeit dürfen nur niedere Netze mit einer Mindestmaschenweite von 50 mm verwendet werden.
 
-<sup>(4)</sup> …[^15a-4]
+<sup>(4)</sup> …[^15a-5]
 
 [^15a-1]: Eingefügt durch Ziff. I des Vertrages vom 19. Nov. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 [^15a-2]: Maschenweite gemäss Art. 1 Ziff. 1 der Vereinb. vom 10. Okt. 2003, in Kraft seit 1. Jan. 2004 ([AS 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
-[^15a-3]: Fassung gemäss Art. 1 Ziff. 1 der Vereinb. vom 13. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^15a-4]: Aufgehoben durch Art. 1 Ziff. 3 der Vereinb. vom 10. Okt. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
+[^15a-3]: Fassung gemäss Art. 1 Ziff. 1 der Vereinb. vom 21. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^15a-4]: Fassung gemäss Art. 1 Ziff. 1 der Vereinb. vom 13. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^15a-5]: Aufgehoben durch Art. 1 Ziff. 3 der Vereinb. vom 10. Okt. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
 
 #### § 15b
 
@@ -458,7 +471,9 @@ Für hohe Netze gelten die nachstehenden Masse:
 
 <sup>(3)</sup> Werden Netze über die erste Tageshälfte ausgelegt (Übermorgensatz), dürfen nur niedere Netze verwendet werden. Die Netze müssen bis spätestens 11.00 Uhr gehoben sein. Netze, die über diesen Zeitpunkt hinaus stehen, gelten als Treibsatz. …[^15c-3]
 
-<sup>(4)</sup> Im Überabendsatz und im Übermorgensatz müssen die Netze im rechten Winkel zur Haldenkante gesetzt werden; ausgenommen hievon sind
+<sup>(4)</sup>
+
+Im Überabendsatz und im Übermorgensatz müssen die Netze im rechten Winkel zur Haldenkante gesetzt werden; ausgenommen hievon sind:
 
 - 1\. die Fischerei östlich der Linie Fehrenhorn‑Ermatingen Landesteg,
 - 2\. der Treibsatz,
@@ -524,21 +539,20 @@ Für hohe Netze gelten die nachstehenden Masse:
 
 #### § 19
 
-**Köderfischfang**
+**Köderfischfang**[^19-1]
 
-<sup>(1)</sup> Der Fang von Weissfischen als Köderfische für den eigenen Bedarf ist
+<sup>(1)</sup>
 
-gestattet. Anstelle der Stellnetze kann ein Hamen bis zu einer Seitenlänge von 1 m verwendet werden.
+Der Fang von Weissfischen als Köderfische gemäss den Vorgaben des § 24 Absatz 1 Satz 2 und des § 25 Absatz 8 ist für den eigenen Bedarf unter folgenden Voraussetzungen gestattet:
 
-- 1\. den Berufsfischern mit Stellnetzen bis zu 15 m Länge, 1,5 m Höhe und einer Maschenweite unter 34 mm,
-- 2\.[^19-1] den Sportfischern mit einem ständig beaufsichtigten Stellnetz bis zu 10 m Länge, 1 m Höhe und einer Maschenweite bis zu 14 mm
+- 1\. den Berufs- und Sportfischern ganzjährig unter Verwendung von Hamen bis zu einer Seitenlänge von 1 m;
+- 2\. den Berufs- und Sportfischern ganzjährig unter Verwendung von Köderflaschen, die mit dem Namen des Auslegers versehen sein müssen;
+- 3\. den Berufsfischern in der Zeit vom 1. November bis 31. März unter Verwendung von Köderfischnetzen bis zu 15 m Länge, 1,5 m Höhe und einer Maschenweite unter 34 mm; und
+- 4\. den Sportfischern in der Zeit vom 1. November bis 31. März unter Verwendung von einem ständig beaufsichtigten Köderfischnetz bis zu 10 m Länge, 1 m Höhe und einer Maschenweite bis zu 14 mm.
 
-<sup>(2)</sup> Neben den Geräten des Absatzes 1 können gleichzeitig Köderflaschen verwendet werden, die mit dem Namen des Auslegers versehen sein müssen.
+<sup>(2)</sup> § 16 Absatz 5 gilt entsprechend.
 
-<sup>(3)</sup> § 16 Absatz 5 gilt entsprechend.[^19-2]
-
-[^19-1]: Fassung gemäss Ziff. I des Vertrages vom 19. Nov. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
-[^19-2]: Eingefügt durch Art. 1 Ziff. 4 der Vereinb. vom 13. Nov. 1986 ([AS 1987 487](https://fedlex.data.admin.ch/eli/oc/1987/487_487_487)). Fassung gemäss Ziff. I des Vertrages vom 19. Nov. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
+[^19-1]: Fassung gemäss Art. 1 Ziff. 2 der Vereinb. vom 21. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 20
 
@@ -619,9 +633,11 @@ Nachtzeit ist die Zeit zwischen Sonnenuntergang und Sonnenaufgang.[^22-1]
 
 **Verbotene Fanggeräte und Fangmethoden**
 
-<sup>(1)</sup> Der Fischfang mit explodierenden, betäubenden und giftigen Mitteln, mit Schlingen, Drahtreusen, Schusswaffen, Harpunen und sonst verletzenden Geräten (mit Ausnahme der Angelhaken) sowie durch Schlagen auf das Eis ist verboten. Lebende Köderfische dürfen nur am Maul angesteckt werden.
+<sup>(1)</sup> Der Fischfang mit explodierenden, betäubenden und giftigen Mitteln, mit Schlingen, Drahtreusen, Schusswaffen, Harpunen und sonst verletzenden Geräten (mit Ausnahme der Angelhaken) sowie durch Schlagen auf das Eis ist verboten. Die Verwendung lebender Köderfische ist verboten.[^24-1]
 
 <sup>(2)</sup> Die Verwendung des elektrischen Stromes für fischereiliche Zwecke bedarf einer Bewilligung der zuständigen Behörde des betreffenden Vertragsstaates.
+
+[^24-1]: Fassung des zweiten Satzes gemäss Art. 1 Ziff. 3 der Vereinb. vom 21. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 25
 
@@ -634,12 +650,12 @@ Nachtzeit ist die Zeit zwischen Sonnenuntergang und Sonnenaufgang.[^22-1]
 <tr><td>Aal</td><td>keine</td><td>50 cm</td></tr>
 <tr><td>Äsche</td><td>1. Februar–30. April</td><td>30 cm</td></tr>
 <tr><td>Barsch</td><td>25. April–15. Mai</td><td>–</td></tr>
-<tr><td>[tab] Felchen [tab] (einschl. Gangfische)</td><td>15. Oktober–18. Dezember</td><td>30 cm</td></tr>
+<tr><td>[tab] Felchen [tab] (einschl. Gangfische)</td><td>15. Oktober–18. Dezember</td><td>– [^25-2]</td></tr>
 <tr><td>Forellen</td><td>1. Oktober–31. Dezember</td><td>35 cm</td></tr>
 <tr><td>Hecht</td><td>1.–30. April</td><td>40 cm</td></tr>
 <tr><td>Zander</td><td>keine</td><td>35 cm</td></tr>
 <tr><td>Edelkrebs</td><td>1. Oktober–31. Juli</td><td>12 cm</td></tr>
-<tr><td>Steinkrebs</td><td>ganzjährig</td><td>– [^25-2]</td></tr>
+<tr><td>Steinkrebs</td><td>ganzjährig</td><td>– .[^25-3]</td></tr>
 </table>
 
 <sup>(2)</sup> Die Schonzeiten beginnen und enden jeweils um 12.00 Uhr der angegebenen Tage. Als Mindestmass gilt der Abstand von der Kopfspitze bis zum Ende der natürlich ausgebreiteten Schwanzflosse.
@@ -648,32 +664,48 @@ Nachtzeit ist die Zeit zwischen Sonnenuntergang und Sonnenaufgang.[^22-1]
 
 <sup>(4)</sup> Die Mindestmasse müssen auf jedem Boot, von dem aus der Fischfang erfolgt, dauerhaft angebracht sein oder durch sonstige Hilfsmittel einwandfrei festgestellt werden können.
 
-<sup>(5)</sup> Die Tagesfangzahl für Sportfischer ist beim Felchen auf 10 Stück und beim Barsch auf 50 Stück begrenzt. Es dürfen nicht mehr als 10 Stück Felchen und 50 Stück Barsche je Sportfischer im Boot mitgeführt werden.[^25-3] Mit der Angel gefangene Barsche sind anzulanden.[^25-4] [^25-5]
+<sup>(5)</sup> Es gelten folgende Fangbeschränkungen:
 
-<sup>(6)</sup> Im Bereich Seerhein und Untersee zwischen der Alten Konstanzer Rheinbrücke und der Linie Ermatingen-Stad - Bruckgraben (Reichenau) sowie im Rheinsee südwestlich der Linie Landestelle Hemmenhofen und Landestelle Steckborn bis zur Landesgrenze über den Rhein zwischen Öhningen-Stiegen und Stein am Rhein ist die Fischerei auf Äschen verboten.[^25-6]
+Es dürfen nicht mehr als zehn Stück Felchen, fünf Stück Hechte und 50 Stück Barsche je Sportfischer im Boot mitgeführt werden. Mit der Angel gefangene Felchen und Barsche sind anzulanden.[^25-4]
 
-<sup>(7)</sup> Vom 1. April bis 30. Juni ist der Fang von Felchen mit der Angel innerhalb eines Bezirks verboten, der im Osten durch die Grenze des Gebiets der allgemeinen Fischerei gemäss § 5 Absatz 1 Nummer 1 und im Westen durch die Verbindungslinie zwischen dem Pumpenhaus auf der Insel Reichenau westlich des Fehrenhorns (Gebäude mit Ankerverbotstafel) und dem Pumpenhaus Ermatingen in der Ermatinger Bucht begrenzt ist.[^25-7]
+<table>
+<tr><th></th><th>Pro Tag</th><th>Pro Monat</th><th>Pro Jahr</th></tr>
+<tr><td>Sportfischer</td><td>10 Stück Felchen</td><td>50 Stück Felchen</td><td></td></tr>
+<tr><td>Monatskarte</td><td>5 Stück Hecht</td><td>15 Stück Hecht</td><td></td></tr>
+<tr><td></td><td>50 Stück Barsch</td><td></td><td></td></tr>
+<tr><td>Sportfischer</td><td>10 Stück Felchen</td><td></td><td>200 Stück Felchen</td></tr>
+<tr><td>Jahreskarte</td><td>5 Stück Hecht</td><td></td><td>70 Stück Hecht</td></tr>
+<tr><td></td><td>50 Stück Barsch</td><td></td><td></td></tr>
+</table>
+
+<sup>(6)</sup> Im Bereich Seerhein und Untersee zwischen der Alten Konstanzer Rheinbrücke und der Linie Ermatingen-Stad - Bruckgraben (Reichenau) sowie im Rheinsee südwestlich der Linie Landestelle Hemmenhofen und Landestelle Steckborn bis zur Landesgrenze über den Rhein zwischen Öhningen-Stiegen und Stein am Rhein ist die Fischerei auf Äschen verboten.[^25-5]
+
+<sup>(7)</sup> Vom 1. April bis 30. Juni ist der Fang von Felchen mit der Angel innerhalb eines Bezirks verboten, der im Osten durch die Grenze des Gebiets der allgemeinen Fischerei gemäss § 5 Absatz 1 Nummer 1 und im Westen durch die Verbindungslinie zwischen dem Pumpenhaus auf der Insel Reichenau westlich des Fehrenhorns (Gebäude mit Ankerverbotstafel) und dem Pumpenhaus Ermatingen in der Ermatinger Bucht begrenzt ist.[^25-6]
+
+<sup>(8)</sup> Unbeschadet des § 26 Absatz 5 dürfen nur Rotauge, Rotfeder, Brachse, Hasel, Laube (Ukelei) und Alet (Döbel) als Köderfische verwendet werden.[^25-7]
 
 [^25-1]: Fassung gemäss Ziff. I des Vertrages vom 19. Nov. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
-[^25-2]: Fassung gemäss Art. 1 Ziff. 6 der Vereinb. vom 13. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-3]: Satz eingefügt durch Art. 1 Ziff. 5 Buchst. a der Vereinb. vom 24 Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 2000 2352](https://fedlex.data.admin.ch/eli/oc/2000/373)).
-[^25-4]: Ursprünglich Satz 2. Fassung des dritten Satzes gemäss Art. 1 Ziff. 6 der Vereinb. vom 13. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-5]: Eingefügt durch Ziff. I des Vertrages vom 19. Nov. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
+[^25-2]: Fassung gemäss Art. 1 Ziff. 4 Bst. a der Vereinb. vom 21. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^25-3]: Fassung gemäss Art. 1 Ziff. 6 der Vereinb. vom 13. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^25-4]: Eingefügt durch Ziff. I des Vertrages vom 19. Nov. 1991 ([AS 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)). Fassung gemäss Art. 1 Ziff. 4 Bst. b der Vereinb. vom 21. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^25-5]: Eingefügt durch Art. 1 Ziff. 6 der Vereinb. vom 13. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
 [^25-6]: Eingefügt durch Art. 1 Ziff. 6 der Vereinb. vom 13. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-7]: Eingefügt durch Art. 1 Ziff. 6 der Vereinb. vom 13. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^25-7]: Eingefügt durch Art. 1 Ziff. 4 Bst. c der Vereinb. vom 21. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 26
 
 **Bewirtschaftung**
 
-<sup>(1)</sup> Die Vertragsstaaten verpflichten sich,
+<sup>(1)</sup>
+
+Die Vertragsstaaten verpflichten sich:
 
 - 1\. zur Sicherstellung des notwendigen künstlichen Fischeinsatzes im Geltungsbereich dieses Vertrages Brut‑ und Aufzuchtanlagen zu betreiben oder betreiben zu lassen, und
 - 2\. nach Massgabe des innerstaatlichen Rechts besondere Massnahmen zum Schutze und zur Förderung (Schonmassnahmen) zu treffen, soweit dies zur Erhaltung des Fischbestandes erforderlich ist. Soweit dadurch die Fischereiausübung im Gebiet der allgemeinen Fischerei beschränkt wird, bedürfen die Massnahmen der Zustimmung des anderen Vertragsstaates.
 
-<sup>(2)</sup> Zur Sicherstellung einer geordneten fischereilichen Bewirtschaftung vereinbaren die Bevollmächtigten für den Zeitraum von ein bis fünf Jahren einen gemeinsamen Bewirtschaftungsplan über
+<sup>(2)</sup> Die Inhaber der privaten Fischereirechte und die Fischereikommission sind vorher anzuhören.
 
-Die Inhaber der privaten Fischereirechte und die Fischereikommission sind vorher anzuhören.
+Zur Sicherstellung einer geordneten fischereilichen Bewirtschaftung vereinbaren die Bevollmächtigten für den Zeitraum von ein bis fünf Jahren einen gemeinsamen Bewirtschaftungsplan über:
 
 - 1\. Art und Umfang des künstlichen Fischeinsatzes durch die Vertragsstaaten und Dritte, die sich freiwillig am künstlichen Fischeinsatz beteiligen,
 - 2\. Umfang des zulässigen Fischfangs aufgrund der einzelnen privaten Fischereirechte und der Fischerkarten,
@@ -730,9 +762,9 @@ Die Vertragsstaaten verpflichten sich, von den Inhabern der Fischerkarten einsch
 
 <sup>(4)</sup> Die Fischereiaufseher versehen ihren Dienst nach von den Bevollmächtigten zu genehmigenden allgemeinen Vorschriften sowie nach Weisungen des Landratsamtes Konstanz (Fachaufsicht). Sie sind berechtigt, die Aufsicht auch im Hoheitsgebiet des anderen Vertragsstaates auszuüben. Sie unterstehen der Dienstaufsicht und Disziplinargewalt der zuständigen Behörde des Vertragsstaates, der sie bestellt hat.
 
-<sup>(5)</sup> Die beim Fischfang, auf oder an Gewässern mit Fanggeräten angetroffenen Personen haben den Fischereiaufsehern auf Verlangen jederzeit
+<sup>(5)</sup> Die Führer von Wasserfahrzeugen haben auf Anruf sofort ihre Fahrzeuge anzuhalten und auf Verlangen den Fischereiaufseher an Bord zu holen. Die Weiterfahrt ist erst zulässig, wenn der Fischereiaufseher dies gestattet.
 
-Die Führer von Wasserfahrzeugen haben auf Anruf sofort ihre Fahrzeuge anzuhalten und auf Verlangen den Fischereiaufseher an Bord zu holen. Die Weiterfahrt ist erst zulässig, wenn der Fischereiaufseher dies gestattet.
+Die beim Fischfang, auf oder an Gewässern mit Fanggeräten angetroffenen Personen haben den Fischereiaufsehern auf Verlangen jederzeit:
 
 - 1\. die Personalien anzugeben,
 - 2\. die Fischerkarte und beim Fischfang im Bereich von Privatrechten den vom Vertragsstaat jeweils verlangten Nachweis der Berechtigung durch den Inhaber des Fischereirechts auszuhändigen,
@@ -779,7 +811,9 @@ Niemand darf Fanggeräte oder sonstige Fangmittel in, auf oder an den Gewässern
 
 <sup>(1)</sup> Jeder Vertragsstaat bestellt einen Bevollmächtigten.
 
-<sup>(2)</sup> Die Bevollmächtigten haben neben den ihnen durch diesen Vertrag sonst zugewiesenen Aufgaben insbesondere
+<sup>(2)</sup>
+
+Die Bevollmächtigten haben neben den ihnen durch diesen Vertrag sonst zugewiesenen Aufgaben insbesondere:
 
 - 1\. die für die Fischerei im Geltungsbereich dieses Vertrages bedeutsamen Fragen zu beraten und darüber Informationen auszutauschen,
 - 2\. die für die Förderung der Fischerei erforderlichen Massnahmen vorzuschlagen und sich die getroffenen Massnahmen mitzuteilen,
@@ -791,9 +825,9 @@ Niemand darf Fanggeräte oder sonstige Fangmittel in, auf oder an den Gewässern
 
 <sup>(1)</sup> Zur Beratung der Bevollmächtigten und des Landratsamtes Konstanz in fischereifachlichen Fragen wird beim Landratsamt Konstanz eine Fischereikommission gebildet. Die Fischereikommission soll vor grundsätzlichen und allgemein bedeutsamen Entscheidungen gehört werden.
 
-<sup>(2)</sup> Die Fischereikommission besteht aus
+<sup>(2)</sup> Die Fischereikommission ist beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist. Sie fasst ihre Beschlüsse mit einfacher Mehrheit, wobei Stimmenthaltungen nicht mitgezählt werden.
 
-Die Fischereikommission ist beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist. Sie fasst ihre Beschlüsse mit einfacher Mehrheit, wobei Stimmenthaltungen nicht mitgezählt werden.
+Die Fischereikommission besteht aus:
 
 - 1\. dem Landrat des Landkreises Konstanz oder dessen ständigem allgemeinen Stellvertreter als Vorsitzenden,
 - 2\. den Bezirksstatthaltern von Kreuzlingen und Steckborn oder deren Stellvertretern,
@@ -940,7 +974,7 @@ Die Vertragsstaaten teilen sich gegenseitig die Statistiken über die Fänge sow
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diesen Vertrag unterschrieben. Geschehen auf der Reichenau am 2. November 1977 in zwei Urschriften in deutscher Sprache. Für die Schweizerische Eidgenossenschaft: Diez Böckli Für des Land Baden‑Würtemberg: Weiser
 
-Anlage 1*[^t-1]*
+Anlage 1[^t-1]
 
 ## Verzeichnis der Zeichen gemäss § 5
 
@@ -965,7 +999,7 @@ Anlage 1*[^t-1]*
 <tr><td>13</td><td>34 91460.53</td><td>52 78925.66</td><td></td><td>708 694.59</td><td>278 554.24</td></tr>
 </table>
 
-Anlage 2*[^t-2]*
+Anlage 2[^t-2]
 
 ## Tabelle zur Berechnung der Netzhöhe nach der Anzahl der Maschen gemäss § 15 Absatz 1 Satz 3
 

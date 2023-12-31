@@ -4,28 +4,26 @@ title: Accordo del 2 novembre 1977 tra la Confederazione Svizzera e il Paese del
 short: OPLi
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754"
 language: it
-version: 2018-01-01
+version: 2024-01-01
 adopted: 1977-11-02
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754/20180101/it/xml/fedlex-data-admin-ch-eli-cc-1978-1755_1754_1754-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1755_1754_1754/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1978-1755_1754_1754-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1755_1754_1754/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo tra la Confederazione svizzera e il Paese del Baden-Württemberg sulla pesca nel Lago Inferiore di Costanza e nel Reno lacustre
 
-[^t-1]ru Traduzione
+RU **1978** 1754
+
+Traduzione
 
 (Ordinamento della pesca nel Lago Inferiore)
 
-Concluso il 2 novembre 1977
+Concluso il 2 novembre 1977 Entrato in vigore il 1° gennaio 1979
 
-Entrato in vigore il 1° gennaio 1979
-
-(Stato 1° gennaio 2018)
-
-[^t-1]: [RU 1978 1754](https://fedlex.data.admin.ch/eli/oc/1978/1755_1754_1754)
+(Stato 1° gennaio 2024)
 
 La Confederazione Svizzera e il Paese del Baden-Württemberg,
 
@@ -406,9 +404,9 @@ Per le reti basse si applicano le seguenti misure:
 
 In un’azienda piscicola possono essere utilizzate simultaneamente:
 
-- 1\. al massimo sei reti basse con una magliatura di 32 fino a 34 mm;
+- 1\.[^15a-3] dal 18 dicembre al 25 aprile al massimo sei reti basse con una magliatura di 32 fino a 34 mm e dal 15 maggio al 31 ottobre al massimo otto reti basse con una magliatura di 32 fino a 34 mm; e
 - 2\. al massimo sei reti basse con una magliatura minima di 50 mm;
-- 3\. un tramaglio basso con una magliatura minima della rete interna di 32 mm.[^15a-3]
+- 3\. un tramaglio basso con una magliatura minima della rete interna di 32 mm.[^15a-4]
 
 <sup>(3)</sup>
 
@@ -418,12 +416,13 @@ Per l’utilizzazione di reti basse si applicano le seguenti limitazioni:
 - 2\. Dal 1° novembre fino all’apertura alla pesca dei coregoni riproduttori, la magliatura dovrà essere di almeno 60 mm.
 - 3\. Durante il periodo di protezione del pesce persico possono essere usate soltanto reti basse con una magliatura minima di 50 mm.
 
-<sup>(4)</sup> ...[^15a-4]
+<sup>(4)</sup> ...[^15a-5]
 
 [^15a-1]: Introdotto dal n. I dell’acc. del 19 nov. 1991, in vigore dal 1° luglio 1992 ([RU 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 [^15a-2]: Nuovi numeri giusta l’art. 1 n. 1 della Conv. del 10 set. 2003, in vigore dal 1° gen. 2004 ([RU 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
-[^15a-3]: Nuovo testo giusta l’art. 1 n. 1 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^15a-4]: Abrogato dall’art. 1 n. 3 della Conv. del 10 set. 2003, con effetto dal 1° gen. 2004 ([RU 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
+[^15a-3]: Nuovo testo giusta l’art. 1 n. 1 della Conv. del 21 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^15a-4]: Nuovo testo giusta l’art. 1 n. 1 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^15a-5]: Abrogato dall’art. 1 n. 3 della Conv. del 10 set. 2003, con effetto dal 1° gen. 2004 ([RU 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
 
 #### § 15b
 
@@ -525,21 +524,20 @@ Le reti devono formare un angolo retto con il declivio quando sono tese la notte
 
 #### § 19
 
-**Cattura dei pesci da esca**
+**Cattura dei pesci da esca**[^19-1]
 
-<sup>(1)</sup> La cattura dei bianchetti come pesci da esca per il proprio fabbisogno è permessa
+<sup>(1)</sup>
 
-Invece delle reti da posta si può utilizzare un vangaiolo con una larghezza laterale fino a 1 m.
+Secondo le prescrizioni del § 24 capoverso 1 secondo periodo e del § 25 capoverso 8, la cattura dei bianchetti come pesci da esca per il proprio fabbisogno è permessa:
 
-- 1\. ai pescatori professionisti, con reti da posta lunghe fino a 15 m, alte fino a 1,5 m e presentanti una magliatura inferiore a 34 mm;
-- 2\.[^19-1] ai pescatori sportivi, con reti da posta controllate in permanenza, lunghe fino a 10 m, alte fino a 1 m e presentanti una magliatura di 14 mm al massimo.
+- 1\. tutto l’anno, ai pescatori professionisti e ai pescatori sportivi, utilizzando un vangaiolo con una larghezza laterale fino a 1 m;
+- 2\. tutto l’anno, ai pescatori professionisti e ai pescatori sportivi, utilizzando bottiglie per i pesci da esca, munite del nome di chi le ha posate;
+- 3\. dal 1° novembre al 31 marzo, ai pescatori professionisti, utilizzando reti per i pesci da esca lunghe fino a 15 m, alte fino a 1,5 m e presentanti una magliatura inferiore a 34 mm; e
+- 4\. dal 1° novembre al 31 marzo, ai pescatori sportivi, utilizzando reti per i pesci da esca controllate in permanenza lunghe fino a 10 m, alte fino a 1 m e presentanti una magliatura di 14 mm al massimo.
 
-<sup>(2)</sup> Oltre gli attrezzi menzionati al capoverso 1, è autorizzato l’uso simultaneo di bottiglie per i pesci da esca, munite del nome di chi le ha posate.
+<sup>(2)</sup> Il § 16 capoverso 5 è applicabile per analogia.
 
-<sup>(3)</sup> Il § 16 capoverso 5 è applicabile per analogia.[^19-2]
-
-[^19-1]: Nuovo testo giusta il n. I dell’acc. del 19 nov. 1991, in vigore dal 1° luglio 1992 ([RU 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
-[^19-2]: Introdotto dall’art. 1 n. 4 dell’acc. del 13 nov. 1986 ([RU 1987 487](https://fedlex.data.admin.ch/eli/oc/1987/487_487_487)). Nuovo testo giusta il n. I dell’acc. del 19 nov. 1991, in vigore dal 1° luglio 1992 ([RU 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
+[^19-1]: Nuovo testo giusta l’art. 1 n. 2 della Conv. del 21 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 20
 
@@ -621,9 +619,11 @@ Per notte s’intende il periodo tra il calare e il sorgere del sole.[^22-2]
 
 **Attrezzi e metodi di cattura vietati**
 
-<sup>(1)</sup> Per la cattura dei pesci è vietato utilizzare sostanze esplosive, narcotiche e velenose, lacci, bertovelli di fili metallici, armi da tiro, arpioni ed altri attrezzi lesivi (ad eccezione degli ami delle lenze), come pure forare il ghiaccio. I pesci da esca vivi vanno infilzati soltanto alla bocca.
+<sup>(1)</sup> Per la cattura dei pesci è vietato utilizzare sostanze esplosive, narcotiche e velenose, lacci, bertovelli di fili metallici, armi da tiro, arpioni ed altri attrezzi lesivi (ad eccezione degli ami delle lenze), come pure forare il ghiaccio. È vietato l’utilizzo di pesci da esca vivi.[^24-1]
 
 <sup>(2)</sup> L’uso della corrente elettrica a scopi di cattura richiede un permesso dell’autorità competente dello Stato contraente interessato.
+
+[^24-1]: Nuovo testo del per. giusta l’art. 1 n. 3 della Conv. del 21 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 25
 
@@ -636,12 +636,12 @@ Per notte s’intende il periodo tra il calare e il sorgere del sole.[^22-2]
 <tr><td>Anguilla</td><td>nessuno</td><td>50 cm</td></tr>
 <tr><td>Temolo</td><td>1° febbraio–30 aprile</td><td>30 cm</td></tr>
 <tr><td>Pesce persico</td><td>25 aprile–15 maggio</td><td>–</td></tr>
-<tr><td>Coregone (compreso il «Gangfisch»)</td><td>15 ottobre–18 dicembre</td><td>30 cm</td></tr>
+<tr><td>Coregone (compreso il «Gangfisch»)</td><td>15 ottobre–18 dicembre</td><td>– [^25-2]</td></tr>
 <tr><td>Trote</td><td>1° ottobre–31 dicembre</td><td>35 cm</td></tr>
 <tr><td>Luccio</td><td>1°–30 aprile</td><td>40 cm</td></tr>
 <tr><td>Luccioperca</td><td>nessuno</td><td>35 cm</td></tr>
 <tr><td>Gambero fluviale</td><td>1° ottobre–31 luglio</td><td>12 cm</td></tr>
-<tr><td>Astaco</td><td>tutto l’anno</td><td>– . [^25-2]</td></tr>
+<tr><td>Astaco</td><td>tutto l’anno</td><td>– . [^25-3]</td></tr>
 </table>
 
 <sup>(2)</sup> I periodi protettivi iniziano e finiscono sempre alle ore 12.00 dei giorni indicati. La misura minima è data dall’estremità della testa a quella della pinna caudale normalmente spiegata.
@@ -650,19 +650,33 @@ Per notte s’intende il periodo tra il calare e il sorgere del sole.[^22-2]
 
 <sup>(4)</sup> Le misure minime devono essere incise durevolmente in ogni imbarcazione da pesca o constatate per il tramite di altri mezzi ausiliari.
 
-<sup>(5)</sup> Il numero dei pesci catturati è limitato per un pescatore sportivo a 10 coregoni e a 50 pesci persici al giorno. Nel battello non devono trovarsi più di 10 coregoni e 50 pesci persici per ogni pescatore sportivo.[^25-3] I pesci persici pescati con la canna devono essere trascinati a riva.[^25-4] [^25-5]
+<sup>(5)</sup> Si applicano le seguenti restrizioni alla cattura dei pesci:
 
-<sup>(6)</sup> La pesca del temolo è vietata nel tratto di Reno lacustre e di Lago Inferiore compreso tra il vecchio ponte sul Reno di Costanza e la linea Ermatingen-Stad – Bruckgraben (Reichenau) come pure nel Reno lacustre a sud-ovest della linea compresa tra il porto di Hemmenhofen e il porto di Steckborn fino al confine nazionale sul Reno tra Öhningen-Stiegen e Stein am Rhein.[^25-6]
+Per ogni pescatore sportivo presente sul battello non devono trovarsi più di dieci coregoni, cinque lucci e 50 pesci persici. I coregoni e i pesci persici pescati con la canna devono essere trascinati a riva.[^25-4]
 
-<sup>(7)</sup> Dal 1° aprile al 30 giugno è vietata la cattura con la canna di coregoni nel comprensorio delimitato a est dal limite del territorio della pesca generale secondo il paragrafo 5 capoverso 1 numero 1 e a ovest dalla linea di collegamento tra la sala pompe sull’isola di Reichenau a ovest del Fehrenhorn (edificio con tavola di divieto di ancoraggio) e la sala pompe di Ermatingen situata nella baia di Ermatingen.[^25-7]
+<table>
+<tr><th></th><th>Al giorno</th><th>Al mese</th><th>All’anno</th></tr>
+<tr><td>Tessera mensile</td><td>10 coregoni</td><td>50 coregoni</td><td></td></tr>
+<tr><td>di pescatore</td><td>5 lucci</td><td>15 lucci</td><td></td></tr>
+<tr><td>sportivo</td><td>50 pesci persici</td><td></td><td></td></tr>
+<tr><td>Tessera annuale</td><td>10 coregoni</td><td></td><td>200 coregoni</td></tr>
+<tr><td>di pescatore sportivo</td><td>5 lucci</td><td></td><td>70 lucci</td></tr>
+<tr><td></td><td>50 pesci persici</td><td></td><td></td></tr>
+</table>
+
+<sup>(6)</sup> La pesca del temolo è vietata nel tratto di Reno lacustre e di Lago Inferiore compreso tra il vecchio ponte sul Reno di Costanza e la linea Ermatingen-Stad – Bruckgraben (Reichenau) come pure nel Reno lacustre a sud-ovest della linea compresa tra il porto di Hemmenhofen e il porto di Steckborn fino al confine nazionale sul Reno tra Öhningen-Stiegen e Stein am Rhein.[^25-5]
+
+<sup>(7)</sup> Dal 1° aprile al 30 giugno è vietata la cattura con la canna di coregoni nel comprensorio delimitato a est dal limite del territorio della pesca generale secondo il paragrafo 5 capoverso 1 numero 1 e a ovest dalla linea di collegamento tra la sala pompe sull’isola di Reichenau a ovest del Fehrenhorn (edificio con tavola di divieto di ancoraggio) e la sala pompe di Ermatingen situata nella baia di Ermatingen.[^25-6]
+
+<sup>(8)</sup> Fatto salvo il § 26 capoverso 5, possono essere usati come pesci da esca soltanto gardon, scardole, abramidi comuni, leucischi, alburni e cavedani.[^25-7]
 
 [^25-1]: Nuovo testo giusta il n. I dell’acc. del 19 nov. 1991, in vigore dal 1° luglio 1992 ([RU 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
-[^25-2]: Nuovo testo giusta l’art. 1 n. 6 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-3]: Introdotta dall’art. 1 n. 5a della Conv. del 24 nov. 1997, in vigore dal 1° gen. 1998 ([RU 2000 2352](https://fedlex.data.admin.ch/eli/oc/2000/373)).
-[^25-4]: Originario cpv. 2. Nuovo testo giusta l’art. 1 n. 6 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-5]: Introdotto dal n. I dell’acc. del 19 nov. 1991, in vigore dal 1° luglio 1992 ([RU 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
+[^25-2]: Nuovo testo giusta l’art. 1 n. 4 lett. a della Conv. del 21 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^25-3]: Nuovo testo giusta l’art. 1 n. 6 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^25-4]: Introdotto dal n. I dell’acc. del 19 nov. 1991 ([RU 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)). Nuovo testo giusta l’art. 1 n. 4 lett. b della Conv. del 21 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^25-5]: Introdotto dall’art. 1 n. 6 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
 [^25-6]: Introdotto dall’art. 1 n. 6 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-7]: Introdotto dall’art. 1 n. 6 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^25-7]: Introdotto dall’art. 1 n. 4 lett. c della Conv. del 21 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 26
 
@@ -900,7 +914,7 @@ Gli Stati contraenti s’impegnano ad emanare prescrizioni, secondo le quali sia
 
 **Assistenza amministrativa**
 
-Le autorità competenti, degli Stati contraenti si accordano mutua assistenza nell’esecuzione del presente accordo. Applicano il loro diritto e possono comunicare direttamente tra di loro. Esse si tengono vicendevolmente al corrente delle decisioni e disposizioni prese per le infrazioni al presente accordo
+Le autorità competenti, degli Stati contraenti si accordano mutua assistenza nell’esecuzione del presente accordo. Applicano il loro diritto e possono comunicare direttamente tra di loro. Esse si tengono vicendevolmente al corrente delle decisioni e disposizioni prese per le infrazioni al presente accordo.
 
 #### § 40
 
@@ -939,11 +953,11 @@ Gli Stati contraenti si comunicano a vicenda le statistiche delle catture e le i
 
 Il presente accordo è ratificato mediante la firma di chi è competente in materia. Fatto a Reichenau il 2 novembre 1977, in due originali in lingua tedesca. Per la Confederazione svizzera: Diez Böckli Per il Paese del Baden‑Württemberg Weiser
 
-Allegato 1[^t-2]
+Allegato 1[^t-1]
 
 ## Distinta dei segni giusta il § 5
 
-[^t-2]: Originariamente: All.
+[^t-1]: Originariamente: All.
 
 <table>
 <tr><td></td><td>Coordinate</td><td></td><td></td><td></td><td></td></tr>
@@ -964,11 +978,11 @@ Allegato 1[^t-2]
 <tr><td>13</td><td>34 91460.53</td><td>52 78925.66</td><td></td><td>708 694.59</td><td>278 554.24</td></tr>
 </table>
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-2]
 
 ## Tabella di calcolo dell’altezza delle reti in rapporto al numero delle maglie, conformemente al paragrafo 15 capoverso 1 terzo periodo
 
-[^t-3]: Introdotto dall’art. 1 n. 6 della Conv. del 24 nov. 1997 ([RU 2000 2352](https://fedlex.data.admin.ch/eli/oc/2000/373)). Nuovo testo giusta l’art. 1 n. 8 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^t-2]: Introdotto dall’art. 1 n. 6 della Conv. del 24 nov. 1997 ([RU 2000 2352](https://fedlex.data.admin.ch/eli/oc/2000/373)). Nuovo testo giusta l’art. 1 n. 8 della Conv. del 13 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
 
 <table>
 <tr><th>Altezza massima delle reti</th><th>Larghezza delle maglie in mm\*</th><th>Numero delle maglie\*</th></tr>

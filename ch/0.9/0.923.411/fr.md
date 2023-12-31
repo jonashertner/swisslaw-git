@@ -4,11 +4,11 @@ title: Accord du 2 novembre 1977 entre la Confédération suisse et le Pays de B
 short: RPLI
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754"
 language: fr
-version: 2018-01-01
+version: 2024-01-01
 adopted: 1977-11-02
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1755_1754_1754-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1755_1754_1754/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1755_1754_1754/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1755_1754_1754-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1755_1754_1754/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -25,7 +25,7 @@ Conclu le 2 novembre 1977
 
 Entré en vigueur le 1<sup>er</sup> janvier 1979
 
-(Etat le 1<sup>er</sup> janvier 2018)
+(État le 1<sup>er</sup> janvier 2024)
 
 La Confédération suisse et le Pays de Bade‑Wurtemberg,
 
@@ -164,11 +164,11 @@ Chapitre septième: Dispositions transitoires et finales
 
 **Champ d’application à raison de la matière**
 
-<sup>(1)</sup> A défaut de dispositions dans le présent accord, le droit interne de chaque Etat contractant est applicable.
+<sup>(1)</sup> À défaut de dispositions dans le présent accord, le droit interne de chaque État contractant est applicable.
 
 <sup>(2)</sup> Les dispositions du présent accord s’appliquent également à ceux qui sont autorisés à pêcher en vertu d’un droit privé. L’exercice de la pêche s’établit au demeurant à l’appui des titres de droits privés.
 
-<sup>(3)</sup> Les limitations apportées à l’exercice de la pêche sur le territoire de la pêche générale par des prescriptions relatives aux zones protégées, qui relèvent du droit régissant la protection de la nature, sont subordonnées à l’approbation de l’autre Etat contractant.
+<sup>(3)</sup> Les limitations apportées à l’exercice de la pêche sur le territoire de la pêche générale par des prescriptions relatives aux zones protégées, qui relèvent du droit régissant la protection de la nature, sont subordonnées à l’approbation de l’autre État contractant.
 
 ## Chapitre II Autorisation de pêcher
 
@@ -178,7 +178,9 @@ Chapitre septième: Dispositions transitoires et finales
 
 <sup>(1)</sup> Seul le détenteur d’une carte de légitimation valable (§§ 6 et 8 à 11) est habilité à pêcher dans le territoire de la pêche générale.
 
-<sup>(2)</sup> N’a pas besoin de carte de légitimation
+<sup>(2)</sup>
+
+N’a pas besoin de carte de légitimation:
 
 - 1\. celui qui, en présence du détenteur d’une carte, l’aide à pêcher;
 - 2\.[^3-1] celui qui, de la rive suisse, pêche à la ligne avec flotteur fixe ou un hameçon simple.
@@ -248,14 +250,18 @@ Le détenteur d’un droit de pêche privé, qui n’habite pas l’une des comm
 
 <sup>(1)</sup> La carte de légitimation pour pêcheurs n’est remise qu’au détenteur d’un permis de pêche allemand établi ou reconnu par le Pays de Bade‑Wurtemberg ou au possesseur d’une autorisation de pêche établie ou reconnue par le canton de Thurgovie.
 
-<sup>(2)</sup> La carte de légitimation peut être refusée à quiconque a été puni de l’emprisonnement ou de l’amende, au cours des cinq dernières années,
+<sup>(2)</sup>
+
+La carte de légitimation peut être refusée à quiconque a été puni de l’emprisonnement ou de l’amende, au cours des cinq dernières années:
 
 - 1\. pour avoir détruit ou endommagé intentionnellement des constructions hydrauliques, des installations piscicoles, des dispositifs de capture du poisson ou des bateaux de pêche,
 - 2\. pour avoir volé des engins ou des bateaux de pêche,
 - 3\. pour avoir commis intentionnellement de graves infractions aux dispositions sur la protection des eaux, ou
 - 4\. pour avoir gravement contrevenu au présent accord ou à d’autres dispositions de police de la pêche.
 
-<sup>(3)</sup> La carte de légitimation peut être annulée ou retirée si
+<sup>(3)</sup>
+
+La carte de légitimation peut être annulée ou retirée si:
 
 - 1\. l’on apprend ultérieurement que des motifs de refus existaient lors de sa délivrance, ou
 - 2\. si, ultérieurement, des faits surviennent qui auraient justifié le refus.
@@ -268,21 +274,25 @@ Le détenteur d’un droit de pêche privé, qui n’habite pas l’une des comm
 
 **Carte de légitimation pour pêcheurs professionnels**
 
-<sup>(1)</sup> La carte de légitimation pour pêcheurs professionnels autorisant à exercer la pêche de manière indépendante (carte A pour pêcheurs professionnels) est délivrée à quiconque
+<sup>(1)</sup>
+
+La carte de légitimation pour pêcheurs professionnels autorisant à exercer la pêche de manière indépendante (carte A pour pêcheurs professionnels) est délivrée à quiconque:
 
 - 1\. peut justifier qu’il entend exercer la pêche à titre professionnel dans le lac Inférieur, dans les limites usuelles,
 - 2\.[^8-1] a réussi un examen de capacité, dans le domaine de la pêche, après un apprentissage d’au moins deux ans,
 - 3\.[^8-2] ne possède pas de carte de légitimation pour pêcheurs professionnels autorisant la pêche dans un autre lac ou cours d’eau,
 - 4\.[^8-3] justifie d’une expérience d’une année au moins dans le domaine de la pêche en rivière ou de la pêche lacustre.
 
-<sup>(2)</sup> La carte de légitimation pour pêcheurs professionnels autorisant à exercer la pêche de manière dépendante (carte B pour pêcheurs professionnels) est délivrée à quiconque
+<sup>(2)</sup>
+
+La carte de légitimation pour pêcheurs professionnels autorisant à exercer la pêche de manière dépendante (carte B pour pêcheurs professionnels) est délivrée à quiconque:
 
 - 1\.[^8-4] remplit les conditions prévues à l’al. 1, ch. 2 et 3, et
 - 2\. est employé dans une entreprise dont le propriétaire est titulaire de la carte A pour pêcheurs professionnels.
 
 <sup>(3)</sup> La carte de légitimation pour pêcheurs professionnels est délivrée au plus pour trois années civiles consécutives. La Commission de la pêche doit être consultée avant la première délivrance (§ 33).
 
-<sup>(4)</sup> Les Etats contractants peuvent poser, en matière de formation professionnelle au sens de l’al. 1, ch. 2, des exigences plus rigoureuses que celles dont l’al. 1 fait état, pourvu qu’elles soient concordantes.
+<sup>(4)</sup> Les États contractants peuvent poser, en matière de formation professionnelle au sens de l’al. 1, ch. 2, des exigences plus rigoureuses que celles dont l’al. 1 fait état, pourvu qu’elles soient concordantes.
 
 <sup>(5)</sup> Les plénipotentiaires peuvent se mettre d’accord, pour une durée de cinq ans au plus, sur des réglementations prévoyant que les cartes de légitimation pour pêcheurs professionnels ne doivent être délivrées qu’en nombre limité, si une telle mesure s’avère nécessaire pour garantir une exploitation piscicole appropriée, en particulier pour protéger les peuplements de poissons.[^8-5]
 
@@ -301,7 +311,9 @@ Les pêcheurs professionnels qui remplissent les conditions permettant de leur d
 
 **Carte de légitimation pour pêcheurs auxiliaires**
 
-<sup>(1)</sup> La carte de légitimation pour pêcheurs auxiliaires est délivrée avec l’assentiment d’un détenteur de la carte A pour pêcheurs professionnels à quiconque
+<sup>(1)</sup>
+
+La carte de légitimation pour pêcheurs auxiliaires est délivrée avec l’assentiment d’un détenteur de la carte A pour pêcheurs professionnels à quiconque:
 
 - 1\. travaille dans l’entreprise de ce pêcheur professionnel et y exerce la pêche sous la responsabilité et la surveillance de celui‑ci,
 - 2\. peut prouver qu’il a au moins une année d’expérience en matière de pêche lacustre.
@@ -385,7 +397,7 @@ Peuvent être utilisés pour la pêche au filet:
 
 <sup>(2)</sup> Lors de la pose des filets, il convient d’observer un espace de 50 m lorsqu’il s’agit de tramails et autres filets fixes à faible chute, de 100 m lorsqu’il s’agit de hauts filets fixes et de 200 m lorsqu’il s’agit de filets flottants. Les filets «Ufer-zu‑Ufer‑Sätze» peuvent être fixés l’un à l’autre, sans espace.
 
-<sup>(3)</sup> La beine, au sens des dispositions mentionnées ci‑après, est la zone qui va de la rive jusqu’au mont. A l’endroit où le mont n’est pas très prononcé se situe la zone où l’eau peut atteindre jusqu’à cinq mètres de profondeur.
+<sup>(3)</sup> La beine, au sens des dispositions mentionnées ci‑après, est la zone qui va de la rive jusqu’au mont. À l’endroit où le mont n’est pas très prononcé se situe la zone où l’eau peut atteindre jusqu’à cinq mètres de profondeur.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’ac du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 [^15-2]: Phrase introduite par l’art. 1 ch. 1 de la Conv. du 24 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 2000 2352](https://fedlex.data.admin.ch/eli/oc/2000/373)).
@@ -407,9 +419,9 @@ Les dimensions suivantes s’appliquent aux tramails et autres filets fixes à f
 
 Dans une entreprise de pêche peuvent être utilisés simultanément:
 
-- 1\. au plus six filets fixes à faible chute ayant des mailles de 32 à 34 mm;
+- 1\.[^15a-3] du 18 décembre au 25 avril, au plus six filets fixes à faible chute ayant des mailles de 32 à 34 mm, du 15 mai au 31 octobre, au plus huit filets fixes à faible chute ayant des mailles de 32 à 34 mm, et
 - 2\. au plus six filets fixes à faible chute ayant des mailles de 50 mm au moins, et
-- 3\. un filet tramaillé à faible chute dont le filet intérieur a des mailles de 32 mm au moins.[^15a-3]
+- 3\. un filet tramaillé à faible chute dont le filet intérieur a des mailles de 32 mm au moins.[^15a-4]
 
 <sup>(3)</sup>
 
@@ -419,12 +431,13 @@ Les restrictions indiquées ci‑après s’appliquent à l’utilisation de tra
 - 2\. Du 1<sup>er</sup> novembre jusqu’à l’ouverture de la pêche aux corégones géniteurs, les mailles devront avoir au moins 60 mm d’ouverture.
 - 3\. Pendant la période de protection de la perche, seuls peuvent être utilisés des filets fixes à chute libre ayant une ouverture de 50 mm au moins.
 
-<sup>(4)</sup> …[^15a-4]
+<sup>(4)</sup> …[^15a-5]
 
 [^15a-1]: Introduit par le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 [^15a-2]: Nouvelle dimension selon l’art. 1 ch. 1 de la Conv. du 10 oct. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
-[^15a-3]: Nouvelle teneur selon l’art. 1 ch. 1 de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^15a-4]: Abrogé par l’art. 1 ch. 3 de la Conv. du 10 oct. 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
+[^15a-3]: Nouvelle teneur selon l’art. 1 ch. 1 de la Conv. du 21 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^15a-4]: Nouvelle teneur selon l’art. 1 ch. 1 de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^15a-5]: Abrogé par l’art. 1 ch. 3 de la Conv. du 10 oct. 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2007 5215](https://fedlex.data.admin.ch/eli/oc/2007/737)).
 
 #### § 15b
 
@@ -443,7 +456,7 @@ Les dimensions suivantes s’appliquent aux hauts filets fixes:
 
 <sup>(3)</sup> Pendant la période de protection du brochet, la distance à respecter jusqu’au mont est de 100 m au moins; les filets ayant des mailles supérieures à 44 mm ne peuvent être utilisés que comme filets de fond pendant cette période.
 
-<sup>(4)</sup> En dehors de la période de protection du brochet, quatre filets au plus ayant des mailles de 60 mm peuvent être tendus en sus de ceux mentionnés à l’al. 2 pendant la période du 15 mai au 30 septembre ...[^15b-3].
+<sup>(4)</sup> En dehors de la période de protection du brochet, quatre filets au plus ayant des mailles de 60 mm peuvent être tendus en sus de ceux mentionnés à l’al. 2 pendant la période du 15 mai au 30 septembre …[^15b-3].
 
 [^15b-1]: Introduit par le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 [^15b-2]: Mis à jour selon l’art. 1 ch. 2 de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
@@ -459,7 +472,9 @@ Les dimensions suivantes s’appliquent aux hauts filets fixes:
 
 <sup>(3)</sup> Lorsque des filets sont posés pendant la première moitié de la journée (Übermorgensatz), seuls peuvent être utilisés des filets fixes à faible chute. Ils doivent être retirés au plus tard jusqu’à 11 heures. Ceux qui restent au‑delà de cette heure seront considérés comme filets flottants. …[^15c-3]
 
-<sup>(4)</sup> Les filets doivent former un angle droit avec le mont lorsqu’ils sont tendus la nuit (Überabendsatz) ou pendant la première partie de la journée (Übermorgensatz); font exception à cette disposition
+<sup>(4)</sup>
+
+Les filets doivent former un angle droit avec le mont lorsqu’ils sont tendus la nuit (Überabendsatz) ou pendant la première partie de la journée (Übermorgensatz); font exception à cette disposition:
 
 - 1\. la pêche à l’est de la ligne Fehrenhorn–Ermatinger Landsteg,
 - 2\. la pêche aux filets flottants (Treibsatz),
@@ -524,21 +539,20 @@ Les dimensions suivantes s’appliquent aux hauts filets fixes:
 
 #### § 19
 
-**Capture de poissons‑amorces**
+**Capture de poissons‑amorces**[^19-1]
 
-<sup>(1)</sup> Sont autorisés à capturer, pour leurs propres besoins, des poissons blancs devant servir d’amorces
+<sup>(1)</sup>
 
-Il est également possible d’utiliser à la place de filets fixes une épuisette dont la longueur ne doit pas excéder 1 m.
+Sont autorisés à capturer, pour leurs propres besoins, des poissons blancs devant servir d’amorces conformément aux par. 24, al. 1 et 2, et 25, al. 8, dans les conditions suivantes:
 
-- 1\. les pêcheurs professionnels utilisant des filets fixes jusqu’à 15 m de long, 1,5 m de haut et dont les mailles ont une ouverture inférieure à 34 mm,
-- 2\.[^19-1] les pêcheurs sportifs utilisant un filet fixe à faible chute, contrôlé en permanence, jusqu’à 10 m de long, 1 m de haut et dont les mailles ont une ouverture n’excédant pas 14 mm.
+- 1\. toute l’année, les pêcheurs professionnels et sportifs utilisant des épuisettes dont la longueur ne doit pas excéder 1 m;
+- 2\. toute l’année, les pêcheurs professionnels et sportifs utilisant des bouteilles servant à capturer les poissons‑amorces, sur lesquelles doit être inscrit le nom de celui qui les pose;
+- 3\. du 1<sup>er</sup> novembre au 31 mars, les pêcheurs professionnels utilisant des filets ayant des mailles inférieures à 34 mm et dont la longueur ne doit pas excéder 15 m de long et 1,5 m de haut, et
+- 4\. du 1<sup>er</sup> novembre au 31 mars, les pêcheurs sportifs utilisant des filets ayant des mailles inférieures à 14 mm et dont la longueur ne doit pas excéder 10 m de long et 1 m de haut.
 
-<sup>(2)</sup> Outre les engins mentionnés à l’al. 1, on peut utiliser simultanément des bouteilles servant à capturer les poissons‑amorces, sur lesquelles doit être inscrit le nom de celui qui les pose.
+<sup>(2)</sup> Le § 16, al. 5, est applicable par analogie.
 
-<sup>(3)</sup> § 16, al. 5, est applicable par analogie.[^19-2]
-
-[^19-1]: Nouvelle teneur selon le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
-[^19-2]: Introduit par l’art. 1<sup>er</sup> ch. 4 de l’ar. du 13 nov. 1986 ([RO 1987 487](https://fedlex.data.admin.ch/eli/oc/1987/487_487_487)). Nouvelle teneur selon le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
+[^19-1]: Nouvelle teneur selon l’art. 1 ch. 2 de la Conv. du 21 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 20
 
@@ -560,7 +574,7 @@ Il est également possible d’utiliser à la place de filets fixes une épuiset
 
 <sup>(3)</sup> Le propriétaire et tout changement de propriétaire doivent être inscrits dans un registre. Le registre des parcs qui sont entièrement ou pour moitié au moins sur territoire allemand est tenu par la préfecture de Constance, celui des autres parcs par les préfectures de Kreuzlingen et de Steckborn. La préfecture de Constance et les préfectures de Kreuzlingen et de Steckborn se communiquent les inscriptions faites dans le registre. Le propriétaire reçoit une attestation de l’inscription dans le registre, à défaut de laquelle il ne peut pêcher dans le parc.
 
-<sup>(4)</sup> La construction d’un nouveau parc est subordonnée à une autorisation de l’autorité compétente désignée à l’al. 3. Cette autorisation ne doit pas avoir pour effet d’augmenter le nombre des parcs existants dans l’un ou l’autre des Etats contractants.
+<sup>(4)</sup> La construction d’un nouveau parc est subordonnée à une autorisation de l’autorité compétente désignée à l’al. 3. Cette autorisation ne doit pas avoir pour effet d’augmenter le nombre des parcs existants dans l’un ou l’autre des États contractants.
 
 <sup>(5)</sup> Le parc ou une partie du droit d’y pêcher ne peut être cédé par acte juridique que si le parc reste entier. La pêche à l’intérieur de la surface délimitée par des pieux de barrage conformes aux prescriptions ne sera exercée que par le propriétaire du parc ou par les personnes qui bénéficient d’une autorisation écrite de celui‑ci.[^21-1]
 
@@ -607,7 +621,7 @@ La nuit s’étend de l’heure du coucher du soleil à l’heure du lever du so
 
 <sup>(2)</sup> Pendant les jours fériés autres que ceux qui sont compris dans la période de capture des géniteurs de corégones, il est interdit de tendre ou de relever les filets ainsi que les nasses et les lignes de fond, à l’exception de ceux qui sont destinés à la capture de poissons devant servir d’amorces, à moins que cela ne soit indispensable pour préserver les engins de pêche de dommages. Le par. 16, al. 2, 4<sup>e</sup> phrase, reste applicable. À l’Ascension et le jour de la Fête-Dieu, la pose du Überabendsatz est autorisée. Entre le 1<sup>er</sup> novembre et le 20 avril, la pêche sportive ne peut être pratiquée que de la rive.[^23-2]
 
-<sup>(3)</sup> Il est interdit de tendre des filets pour traquer le poisson le jour de l’Epiphanie (6 janvier), le 1<sup>er</sup> mai, le 1<sup>er</sup> août, le 3 octobre et le mercredi précédant le Jeûne fédéral.[^23-3]
+<sup>(3)</sup> Il est interdit de tendre des filets pour traquer le poisson le jour de l’Épiphanie (6 janvier), le 1<sup>er</sup> mai, le 1<sup>er</sup> août, le 3 octobre et le mercredi précédant le Jeûne fédéral.[^23-3]
 
 [^23-1]: Date abrogée par l’art. 1<sup>er</sup> ch. 5 de l’ar. du 13 mars 1986, avec effet au 1<sup>er</sup> fév. 1987 ([RO 1987 487](https://fedlex.data.admin.ch/eli/oc/1987/487_487_487)).
 [^23-2]: Nouvelle teneur selon l’art. 1 ch. 5 de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
@@ -619,9 +633,11 @@ La nuit s’étend de l’heure du coucher du soleil à l’heure du lever du so
 
 **Engins et méthodes de pêche prohibés**
 
-<sup>(1)</sup> Il est interdit de pêcher au moyen de substances explosibles, anesthésiantes ou toxiques, avec des lacets, des nasses en fil de fer, des armes à feu, des harpons et d’autres engins pouvant blesser le poisson (à l’exception des hameçons), ainsi qu’en creusant des trous dans la glace. Les poissons‑amorces vivants ne devront être accrochés à l’hameçon que par la bouche.
+<sup>(1)</sup> Il est interdit de pêcher au moyen de substances explosibles, anesthésiantes ou toxiques, avec des lacets, des nasses en fil de fer, des armes à feu, des harpons et d’autres engins pouvant blesser le poisson (à l’exception des hameçons), ainsi qu’en creusant des trous dans la glace. L’utilisation de poissons-amorces vivants est interdite.[^24-1]
 
-<sup>(2)</sup> L’utilisation du courant électrique à des fins piscicoles est subordonnée à une autorisation des autorités compétentes de l’Etat intéressé.
+<sup>(2)</sup> L’utilisation du courant électrique à des fins piscicoles est subordonnée à une autorisation des autorités compétentes de l’État intéressé.
+
+[^24-1]: Nouvelle teneur de la phrase selon l’art. 1 ch. 3 de la Conv. du 21 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 25
 
@@ -634,12 +650,12 @@ La nuit s’étend de l’heure du coucher du soleil à l’heure du lever du so
 <tr><td>Anguille</td><td>aucune</td><td>50 cm</td></tr>
 <tr><td>Ombre</td><td>du 1<sup>er</sup> février au 30 avril</td><td>30 cm</td></tr>
 <tr><td>Perche</td><td>du 25 avril au 15 mai</td><td>–</td></tr>
-<tr><td>Corégone (y c. Gangfisch)</td><td>du 15 octobre au 18 décembre</td><td>30 cm</td></tr>
+<tr><td>Corégone (y c. Gangfisch)</td><td>du 15 octobre au 18 décembre</td><td>– [^25-2]</td></tr>
 <tr><td>Truite</td><td>du 1<sup>er</sup> octobre au 31 décembre</td><td>35 cm</td></tr>
 <tr><td>Brochet</td><td>du 1<sup>er</sup> au 30 avril</td><td>40 cm</td></tr>
 <tr><td>Sandre</td><td>aucune</td><td>35 cm</td></tr>
 <tr><td>Écrevisse à pattes rouges</td><td>du 1<sup>er</sup> octobre au 31 juillet</td><td>12 cm</td></tr>
-<tr><td>Écrevisse des torrents</td><td>toute l’année</td><td>– .[^25-2]</td></tr>
+<tr><td>Écrevisse des torrents</td><td>toute l’année</td><td>– .[^25-3]</td></tr>
 </table>
 
 <sup>(2)</sup> Les périodes de protection commencent et se terminent à la date fixée dès 12 heures. Est considérée comme longueur minimale la distance entre l’extrémité de la tête et celle de la nageoire caudale normalement déployée.
@@ -648,41 +664,57 @@ La nuit s’étend de l’heure du coucher du soleil à l’heure du lever du so
 
 <sup>(4)</sup> Sur chaque bateau de pêche, les longueurs minimales des poissons seront marquées durablement ou devront pouvoir être déterminées avec précision à l’aide d’autres moyens auxiliaires.
 
-<sup>(5)</sup> Le nombre des prises est limité pour un pêcheur sportif à 10 corégones et à 50 perches par jour. Pour chaque pêcheur sportif présent dans le bateau, il ne doit pas se trouver plus de dix corégones (féras) et cinquante perches.[^25-3] Les perches pêchées à la ligne seront ramenées à terre.[^25-4] [^25-5]
+<sup>(5)</sup> Le nombre de prises est limité comme suit:
 
-<sup>(6)</sup> La pêche de l’ombre est interdite dans la zone du lac Inférieur de Constance et du Rhin lacustre se trouvant entre l’ancien pont du Rhin à Constance et la ligne Ermatingen-Stad-Bruckgraben (Reichenau), ainsi que dans le Rheinsee du sud-ouest de la ligne Hemmenhofen-Steckborn à la frontière germano-suisse traversant le Rhin entre Öhningen-Stiegen et Stein am Rhein.[^25-6]
+Pour chaque pêcheur sportif présent dans le bateau, il ne doit pas se trouver plus de dix corégones, cinq brochets et cinquante perches. Les corégones et les perches pêchées à la ligne seront ramenés à terre.[^25-4]
 
-<sup>(7)</sup> Du 1<sup>er</sup> avril au 30 juin, la pêche à la ligne de corégones est interdite dans un périmètre limité à l’est par la frontière du territoire de la pêche générale visé au par. 5, al. 1, ch. 1, et à l’ouest par la ligne reliant la station de pompage se trouvant sur l’île de Reichenau, à l’ouest du Fehrenhon (bâtiment sur lequel est affiché une interdiction d’ancrage), à la station de pompage se situant dans la baie d’Ermatingen.[^25-7]
+<table>
+<tr><th></th><th>Par jour</th><th>Par mois</th><th>Par an</th></tr>
+<tr><td>Pêcheur sportif</td><td>10 corégones</td><td>50 corégones</td><td></td></tr>
+<tr><td>carte mensuelle</td><td>5 brochets</td><td>15 brochets</td><td></td></tr>
+<tr><td></td><td>50 perches</td><td></td><td></td></tr>
+<tr><td>Pêcheur sportif</td><td>10 corégones</td><td></td><td>200 corégones</td></tr>
+<tr><td>carte annuelle</td><td>5 brochets</td><td></td><td>70 brochets</td></tr>
+<tr><td></td><td>50 perches</td><td></td><td></td></tr>
+</table>
+
+<sup>(6)</sup> La pêche de l’ombre est interdite dans la zone du lac Inférieur de Constance et du Rhin lacustre se trouvant entre l’ancien pont du Rhin à Constance et la ligne Ermatingen-Stad-Bruckgraben (Reichenau), ainsi que dans le Rheinsee du sud-ouest de la ligne Hemmenhofen-Steckborn à la frontière germano-suisse traversant le Rhin entre Öhningen-Stiegen et Stein am Rhein.[^25-5]
+
+<sup>(7)</sup> Du 1<sup>er</sup> avril au 30 juin, la pêche à la ligne de corégones est interdite dans un périmètre limité à l’est par la frontière du territoire de la pêche générale visé au par. 5, al. 1, ch. 1, et à l’ouest par la ligne reliant la station de pompage se trouvant sur l’île de Reichenau, à l’ouest du Fehrenhon (bâtiment sur lequel est affiché une interdiction d’ancrage), à la station de pompage se situant dans la baie d’Ermatingen.[^25-6]
+
+<sup>(8)</sup> Sans préjudice du par. 26, al. 5, il est autorisé d’utiliser comme poissons-amorces uniquement des gardons, des rotengles, des brèmes franches, des vandoises, des ablettes et des chevaines (chevesnes).[^25-7]
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
-[^25-2]: Nouvelle teneur selon l’art. 1 ch. 6 let. a de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-3]: Phrase introduite par l’art. 1 ch. 5 let. a de la Conv. du 24 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 2000 2352](https://fedlex.data.admin.ch/eli/oc/2000/373)).
-[^25-4]: Anciennement phrase. 2. Nouvelle teneur selon l’art. 1 ch. 6 let. b de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-5]: Introduit par le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
+[^25-2]: Nouvelle teneur selon l’art. 1 ch. 4 let. a de la Conv. du 21 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^25-3]: Nouvelle teneur selon l’art. 1 ch. 6 let. a de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^25-4]: Introduit par le ch. I de l’Ac. du 19 nov. 1991 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)). Nouvelle teneur selon l’art. 1 ch. 4 let. b de la Conv. du 21 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
+[^25-5]: Introduit par l’art. 1 ch. 6 let. c de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
 [^25-6]: Introduit par l’art. 1 ch. 6 let. c de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
-[^25-7]: Introduit par l’art. 1 ch. 6 let. c de la Conv. du 13 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7777](https://fedlex.data.admin.ch/eli/oc/2017/887)).
+[^25-7]: Introduit par l’art. 1 ch. 4 let. c de la Conv. du 21 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 41](https://fedlex.data.admin.ch/eli/oc/2024/41)).
 
 #### § 26
 
 **Exploitation piscicole**
 
-<sup>(1)</sup> Les Etats contractants s’engagent
+<sup>(1)</sup>
+
+Les États contractants s’engagent:
 
 - 1\. à exploiter ou à faire exploiter des stations d’incubation et d’élevage aux fins d’assurer l’immersion de poissons dans les eaux auxquelles s’applique le présent accord, et
-- 2\. conformément au droit interne, à prendre des mesures particulières visant à protéger et à encourager les peuplements de poissons, pour autant que le maintien de ces peuplements l’exige. S’il en résulte une limitation de l’exercice de la pêche dans le territoire de la pêche générale, ces mesures doivent être approuvées par l’autre Etat contractant.
+- 2\. conformément au droit interne, à prendre des mesures particulières visant à protéger et à encourager les peuplements de poissons, pour autant que le maintien de ces peuplements l’exige. S’il en résulte une limitation de l’exercice de la pêche dans le territoire de la pêche générale, ces mesures doivent être approuvées par l’autre État contractant.
 
-<sup>(2)</sup> Aux fins d’assurer une bonne exploitation piscicole, les plénipotentiaires établissent d’un commun accord, pour une période d’un à cinq ans, un plan de gestion concernant
+<sup>(2)</sup> Les titulaires des droits de pêche privés et la Commission de la pêche seront préalablement consultés.
 
-Les titulaires des droits de pêche privés et la Commission de la pêche seront préalablement consultés.
+Aux fins d’assurer une bonne exploitation piscicole, les plénipotentiaires établissent d’un commun accord, pour une période d’un à cinq ans, un plan de gestion concernant:
 
-- 1\. les espèces et la quantité de poissons immergés par les Etats contractants et des tiers qui participent bénévolement à cette activité,
+- 1\. les espèces et la quantité de poissons immergés par les États contractants et des tiers qui participent bénévolement à cette activité,
 - 2\. la quantité de poissons pouvant être capturés en vertu des divers droits de pêche privés et des cartes de légitimation pour pêcheurs,
 - 3\. le nombre maximum des autorisations, au sens du § 4, al. 1, afférentes à chaque droit de pêche et à chaque parc,
 - 4\.[^26-1] les mesures contre la prolifération de certaines espèces de poissons.
 
-<sup>(3)</sup> Pour pouvoir entrer en vigueur, les arrangements intervenus selon l’al. 2 doivent avoir été confirmés par échange de lettres entre les services compétents des Etats contractants.
+<sup>(3)</sup> Pour pouvoir entrer en vigueur, les arrangements intervenus selon l’al. 2 doivent avoir été confirmés par échange de lettres entre les services compétents des États contractants.
 
-<sup>(4)</sup> L’immersion de poissons ne peut avoir lieu qu’avec l’autorisation d’un garde‑ pêche désigné par les Etats contractants. Pour éviter la propagation des maladies transmissibles de poissons et conserver l’identité génétique des peuplements, seuls pourront être immergés des poissons nés en incubation à partir de produits géniteurs prélevés sur des sujets du lac de Constance, pour autant que les plénipotentiaires n’en décident pas différemment. Un Etat contractant ne peut immerger des espèces de poissons et d’écrevisses non indigènes qu’après entente avec l’autre; cela s’applique également à des espèces indigènes de poissons qui ont été modifiées dans leur patrimoine génétique par des interventions biochimiques ou de technique génétique.[^26-2]
+<sup>(4)</sup> L’immersion de poissons ne peut avoir lieu qu’avec l’autorisation d’un garde‑ pêche désigné par les États contractants. Pour éviter la propagation des maladies transmissibles de poissons et conserver l’identité génétique des peuplements, seuls pourront être immergés des poissons nés en incubation à partir de produits géniteurs prélevés sur des sujets du lac de Constance, pour autant que les plénipotentiaires n’en décident pas différemment. Un État contractant ne peut immerger des espèces de poissons et d’écrevisses non indigènes qu’après entente avec l’autre; cela s’applique également à des espèces indigènes de poissons qui ont été modifiées dans leur patrimoine génétique par des interventions biochimiques ou de technique génétique.[^26-2]
 
 <sup>(5)</sup> Seuls peuvent être utilisés comme poissons‑appâts des poissons blancs pêchés dans le lac de Constance.[^26-3]
 
@@ -702,7 +734,7 @@ Les titulaires des droits de pêche privés et la Commission de la pêche seront
 
 <sup>(4)</sup> Les autorités mentionnées au § 12, al. 1, peuvent accorder aux pêcheurs professionnels des autorisations pour des captures spéciales, notamment pour des mesures de conservation des peuplements selon § 14, al. 1, 2<sup>e</sup> phrase. L’al. 1, 2<sup>e</sup> phrase, et l’al. 3 sont applicables par analogie.[^27-3]
 
-(5)[^27-4] Seuls les Etats contractants sont habilités à conférer le droit de capturer, dans les eaux auxquelles s’applique le présent accord, de petits animaux servant de nourriture aux poissons.
+(5)[^27-4] Seuls les États contractants sont habilités à conférer le droit de capturer, dans les eaux auxquelles s’applique le présent accord, de petits animaux servant de nourriture aux poissons.
 
 (6)[^27-5] Aux fins de protéger certaines espèces de poissons ou de réglementer la capture des géniteurs, les gardes‑pêche sont autorisés à délimiter et à marquer les places de frai.
 
@@ -716,29 +748,29 @@ Les titulaires des droits de pêche privés et la Commission de la pêche seront
 
 **Taxes de pêche**
 
-Les Etats contractants s’engagent à percevoir des détenteurs d’une carte de légitimation pour pêcheurs, y compris les détenteurs de droits de pêche privés, une taxe de pêche qui servira exclusivement à encourager l’exploitation piscicole dans les eaux auxquelles s’applique le présent accord. Les plénipotentiaires veilleront à ce que la taxe soit de même importance dans les deux Etats contractants. Si une taxe générale était perçue sur le territoire de l’un des Etats contractants, il serait loisible à celui‑ci de renoncer à percevoir la taxe mentionnée à la 1<sup>re</sup> phrase, à condition toutefois que cette taxe générale permette d’atteindre dans une mesure comparable le but fixé dans ladite phrase.
+Les États contractants s’engagent à percevoir des détenteurs d’une carte de légitimation pour pêcheurs, y compris les détenteurs de droits de pêche privés, une taxe de pêche qui servira exclusivement à encourager l’exploitation piscicole dans les eaux auxquelles s’applique le présent accord. Les plénipotentiaires veilleront à ce que la taxe soit de même importance dans les deux États contractants. Si une taxe générale était perçue sur le territoire de l’un des États contractants, il serait loisible à celui‑ci de renoncer à percevoir la taxe mentionnée à la 1<sup>re</sup> phrase, à condition toutefois que cette taxe générale permette d’atteindre dans une mesure comparable le but fixé dans ladite phrase.
 
 #### § 29
 
 **Surveillance de la pêche**
 
-<sup>(1)</sup> La surveillance de la pêche dans les eaux auxquelles s’applique le présent accord incombe à la préfecture de Constance et aux gardes‑pêche nommés par les Etats contractants. Ceux‑ci se communiquent les nominations de gardes‑pêche.
+<sup>(1)</sup> La surveillance de la pêche dans les eaux auxquelles s’applique le présent accord incombe à la préfecture de Constance et aux gardes‑pêche nommés par les États contractants. Ceux‑ci se communiquent les nominations de gardes‑pêche.
 
-<sup>(2)</sup> Les gardes‑pêche nommés par les Etats contractants ont pour tâche, dans les limites du présent accord, de surveiller l’exercice de la pêche et de coopérer à l’exploitation piscicole des eaux.
+<sup>(2)</sup> Les gardes‑pêche nommés par les États contractants ont pour tâche, dans les limites du présent accord, de surveiller l’exercice de la pêche et de coopérer à l’exploitation piscicole des eaux.
 
 <sup>(3)</sup> Les plénipotentiaires sont habilités à établir, à l’intention de la préfecture de Constance, des instructions communes sur la surveillance de la pêche dans les eaux auxquelles s’applique le présent accord. Le Pays de Bade‑Wurtemberg veillera à ce que ces directives soient respectées. Le droit de donner des instructions par l’intermédiaire de la préfecture de Constance est réservé.
 
-<sup>(4)</sup> Les gardes‑pêche accomplissent leur service conformément aux prescriptions générales approuvées par les plénipotentiaires et aux directives de la préfecture de Constance (surveillance technique). Ils sont également autorisés à exercer la surveillance sur le territoire de l’autre Etat contractant. Administrativement et disciplinairement, ils relèvent de l’autorité compétente de l’Etat qui les a nommés.
+<sup>(4)</sup> Les gardes‑pêche accomplissent leur service conformément aux prescriptions générales approuvées par les plénipotentiaires et aux directives de la préfecture de Constance (surveillance technique). Ils sont également autorisés à exercer la surveillance sur le territoire de l’autre État contractant. Administrativement et disciplinairement, ils relèvent de l’autorité compétente de l’État qui les a nommés.
 
-<sup>(5)</sup> Les personnes en train de pêcher sur l’eau ou sur la rive avec des engins sont tenues, à la demande des gardes‑pêche,
+<sup>(5)</sup> Les conducteurs de bateaux sont tenus de les arrêter immédiatement lorsque le garde‑pêche le leur ordonne et, à sa demande, de le faire monter à bord. Ils ne pourront repartir que si le garde‑pêche les y autorise.
 
-Les conducteurs de bateaux sont tenus de les arrêter immédiatement lorsque le garde‑pêche le leur ordonne et, à sa demande, de le faire monter à bord. Ils ne pourront repartir que si le garde‑pêche les y autorise.
+Les personnes en train de pêcher sur l’eau ou sur la rive avec des engins sont tenues, à la demande des gardes‑pêche:
 
 - 1\. de décliner leur identité,
-- 2\. de produire leur carte de légitimation et, si elles exercent la pêche en vertu de droits de pêche privés, d’apporter la preuve exigée par l’Etat contractant qu’elles sont autorisées à pêcher par les titulaires de droits,
+- 2\. de produire leur carte de légitimation et, si elles exercent la pêche en vertu de droits de pêche privés, d’apporter la preuve exigée par l’État contractant qu’elles sont autorisées à pêcher par les titulaires de droits,
 - 3\.[^29-1] de présenter les engins de pêche et les moyens auxiliaires utilisés, les poissons capturés et les engins de pêche à bord des bateaux, ainsi que les viviers.
 
-<sup>(6)</sup> Lorsque le garde‑pêche intervient dans l’exercice de ses fonctions, il est tenu de présenter sa carte sur demande, à moins que des motifs de sécurité ne s’y opposent. Il est en outre habilité à confisquer les poissons et les engins de pêche aux personnes qu’il surprend en train de pêcher sans autorisation, qui pêchent avec des engins dans des eaux ou sur leurs rives où elles ne sont pas en droit de le faire ou qui ont commis toute autre infraction aux prescriptions relatives à la pêche. Si le garde‑pêche exerce son activité dans l’autre Etat contractant, il est tenu de remettre immédiatement les poissons et engins de pêche séquestrés au service compétent de cet Etat. Chaque Etat contractant indique à l’autre les services compétents sur son territoire.
+<sup>(6)</sup> Lorsque le garde‑pêche intervient dans l’exercice de ses fonctions, il est tenu de présenter sa carte sur demande, à moins que des motifs de sécurité ne s’y opposent. Il est en outre habilité à confisquer les poissons et les engins de pêche aux personnes qu’il surprend en train de pêcher sans autorisation, qui pêchent avec des engins dans des eaux ou sur leurs rives où elles ne sont pas en droit de le faire ou qui ont commis toute autre infraction aux prescriptions relatives à la pêche. Si le garde‑pêche exerce son activité dans l’autre État contractant, il est tenu de remettre immédiatement les poissons et engins de pêche séquestrés au service compétent de cet État. Chaque État contractant indique à l’autre les services compétents sur son territoire.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 
@@ -777,12 +809,14 @@ Toute personne qui n’est pas en droit de pêcher dans et sur les eaux auxquell
 
 **Plénipotentiaires**
 
-<sup>(1)</sup> Chaque Etat contractant nomme un plénipotentiaire.
+<sup>(1)</sup> Chaque État contractant nomme un plénipotentiaire.
 
-<sup>(2)</sup> Outre les tâches que leur confère le présent accord, les plénipotentiaires sont chargés en particulier
+<sup>(2)</sup>
+
+Outre les tâches que leur confère le présent accord, les plénipotentiaires sont chargés en particulier:
 
 - 1\. d’examiner les questions importantes touchant la pêche dans les eaux auxquelles s’applique le présent accord et d’échanger des informations en la matière,
-- 2\. de proposer les mesures nécessaires au développement de la pêche et de se communiquer celles qui sont prises par leur Etat respectif,
+- 2\. de proposer les mesures nécessaires au développement de la pêche et de se communiquer celles qui sont prises par leur État respectif,
 - 3\. de veiller à ce que le présent accord soit appliqué de manière uniforme.
 
 #### § 33
@@ -791,15 +825,15 @@ Toute personne qui n’est pas en droit de pêcher dans et sur les eaux auxquell
 
 <sup>(1)</sup> Une Commission de la pêche est adjointe à la préfecture de Constance; elle a pour tâche de conseiller les plénipotentiaires et ladite préfecture sur toutes les questions d’ordre technique touchant la pêche. Cette commission sera consultée avant toute décision fondamentale et d’importance générale.
 
-<sup>(2)</sup> La Commission de la pêche se compose
+<sup>(2)</sup> Pour que la Commission de la pêche puisse délibérer valablement, il faut que la majorité de ses membres soient présents. Elle prend ses décisions à la majorité simple, les abstentions n’étant pas prises en considération.
 
-Pour que la Commission de la pêche puisse délibérer valablement, il faut que la majorité de ses membres soient présents. Elle prend ses décisions à la majorité simple, les abstentions n’étant pas prises en considération.
+La Commission de la pêche se compose:
 
 - 1\. du préfet de Constance ou de son délégué permanent, qui la préside,
 - 2\. des préfets de Kreuzlingen et de Steckborn ou de leurs délégués,
-- 3\. d’un garde‑pêche nommé par chacun des Etats contractants,
-- 4\. de deux pêcheurs professionnels de chacun des Etats contractants,
-- 5\. d’un pêcheur sportif de chacun des Etats contractants.
+- 3\. d’un garde‑pêche nommé par chacun des États contractants,
+- 4\. de deux pêcheurs professionnels de chacun des États contractants,
+- 5\. d’un pêcheur sportif de chacun des États contractants.
 
 <sup>(3)</sup> Les pêcheurs professionnels de Bade‑Wurtemberg et ceux de Suisse membres de la commission, sont élus pour cinq ans lors d’une assemblée électorale commune, par les détenteurs de cartes de légitimation pour pêcheurs professionnels domiciliés dans les communes mentionnées au § 6, al. 2, ch. 1, ou au § 6, al. 2, ch. 2. Ils sont rééligibles. La préfecture de Constance convoque les électeurs à une assemblée électorale sur l’île de Reichenau, quinze jours au moins avant la date de cette assemblée. Celle‑ci est présidée par un représentant de la préfecture de Constance. Un pêcheur professionnel qui n’est plus titulaire de sa carte de légitimation depuis plus de trois mois doit se retirer de la commission.
 
@@ -819,16 +853,16 @@ Pour que la Commission de la pêche puisse délibérer valablement, il faut que 
 
 <sup>(1)</sup>
 
-Les Etats contractants s’engagent à édicter des prescriptions selon lesquelles les infractions intentionnelles ou par négligence aux prescriptions de l’accord mentionnées ci‑après ou aux décisions s’y rapportant peuvent être sanctionnées pour le moins par une amende:
+Les États contractants s’engagent à édicter des prescriptions selon lesquelles les infractions intentionnelles ou par négligence aux prescriptions de l’accord mentionnées ci‑après ou aux décisions s’y rapportant peuvent être sanctionnées pour le moins par une amende:
 
 - 1\. Autorisation et exercice de la pêche (§ 3, al. 1, § 4, al. 2, § 10, al. 1, § 11, al. 1, 1<sup>re</sup> phrase, §§ 14 à 19, § 20, al. 1, 2<sup>e</sup> phrase, § 21, al. 3, 5<sup>e</sup> phrase, al. 4, 1<sup>re</sup> phrase, et al. 5, 2<sup>e</sup> phrase, § 23, al. 2 et 3, § 30, al. 1, 3 et 4, §§ 31 et 38);
 - 2\.[^34-1] Protection des peuplements de poissons et immersion (§§ 24, 25, 26, al. 2, ch. 2 à 4, al. 4 et 5, § 27, al. 1, al. 2, 1<sup>re</sup> phrase, al. 4 et 5);
 - 3\. Annonce de capture et obligation de renseigner (§ 6, al. 5, 21, al. 6, et 29, al. 5);
 - 4\. Port de la carte de légitimation et présentation de celle‑ci (§ 6, al. 4).
 
-<sup>(2)</sup> Les Etats contractants s’engagent en outre à édicter des prescriptions selon lesquelles il est possible d’ordonner la confiscation des poissons capturés illégalement de même que celle des engins de pêche ou des autres moyens de capture prohibés.
+<sup>(2)</sup> Les États contractants s’engagent en outre à édicter des prescriptions selon lesquelles il est possible d’ordonner la confiscation des poissons capturés illégalement de même que celle des engins de pêche ou des autres moyens de capture prohibés.
 
-<sup>(3)</sup> Les prescriptions édictées selon les al. 1 et 2 s’appliquent également aux infractions commises dans l’autre Etat contractant, pour autant qu’elles soient poursuivies par l’Etat qui a édicté lesdites prescriptions.
+<sup>(3)</sup> Les prescriptions édictées selon les al. 1 et 2 s’appliquent également aux infractions commises dans l’autre État contractant, pour autant qu’elles soient poursuivies par l’État qui a édicté lesdites prescriptions.
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’ac du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 
@@ -836,23 +870,23 @@ Les Etats contractants s’engagent à édicter des prescriptions selon lesquell
 
 **Poursuite des infractions**
 
-<sup>(1)</sup> Les infractions aux dispositions du présent accord ainsi qu’aux prescriptions édictées et aux décisions prises en vertu de celui‑ci sont poursuivies par le Pays de Bade‑Wurtemberg lorsque l’auteur de l’infraction a son domicile ou son lieu de séjour habituel sur le territoire auquel s’applique la loi fondamentale de la République fédérale d’Allemagne. Elles sont poursuivies par la Confédération suisse lorsque l’auteur de l’infraction a son domicile ou son lieu de séjour habituel sur son territoire. Si l’infraction a été commise dans l’autre Etat contractant, elle n’est poursuivie que sur requête de l’autorité compétente de cet Etat. En matière de poursuite des infractions, chaque Etat applique le droit en vigueur sur son territoire. Le § 36 reste valable. La poursuite pour braconnage est régie par les prescriptions générales propres à chaque Etat contractant.
+<sup>(1)</sup> Les infractions aux dispositions du présent accord ainsi qu’aux prescriptions édictées et aux décisions prises en vertu de celui‑ci sont poursuivies par le Pays de Bade‑Wurtemberg lorsque l’auteur de l’infraction a son domicile ou son lieu de séjour habituel sur le territoire auquel s’applique la loi fondamentale de la République fédérale d’Allemagne. Elles sont poursuivies par la Confédération suisse lorsque l’auteur de l’infraction a son domicile ou son lieu de séjour habituel sur son territoire. Si l’infraction a été commise dans l’autre État contractant, elle n’est poursuivie que sur requête de l’autorité compétente de cet État. En matière de poursuite des infractions, chaque État applique le droit en vigueur sur son territoire. Le § 36 reste valable. La poursuite pour braconnage est régie par les prescriptions générales propres à chaque État contractant.
 
-<sup>(2)</sup> Si l’auteur de l’infraction n’a son domicile ou son lieu de séjour habituel ni sur le territoire auquel s’applique la loi fondamentale de la République fédérale d’Allemagne, ni sur celui de la Confédération suisse, c’est l’Etat contractant sur le territoire duquel l’infraction a été commise qui est compétent. Si l’on ne parvient pas à déterminer avec précision dans quel Etat l’infraction a été commise, ou si elle l’a été dans les deux Etats contractants, c’est l’Etat dont les services sont intervenus les premiers qui est compétent.
+<sup>(2)</sup> Si l’auteur de l’infraction n’a son domicile ou son lieu de séjour habituel ni sur le territoire auquel s’applique la loi fondamentale de la République fédérale d’Allemagne, ni sur celui de la Confédération suisse, c’est l’État contractant sur le territoire duquel l’infraction a été commise qui est compétent. Si l’on ne parvient pas à déterminer avec précision dans quel État l’infraction a été commise, ou si elle l’a été dans les deux États contractants, c’est l’État dont les services sont intervenus les premiers qui est compétent.
 
-<sup>(3)</sup> Les jugements et décisions définitifs et exécutoires rendus dans un Etat contractant en vertu de sa législation à la suite d’infractions au présent accord seront exécutés, à sa demande, dans l’autre Etat contractant comme s’il avait lui‑même rendu ces jugements et décisions. Les montants perçus et les frais ne sont pas remboursés.
+<sup>(3)</sup> Les jugements et décisions définitifs et exécutoires rendus dans un État contractant en vertu de sa législation à la suite d’infractions au présent accord seront exécutés, à sa demande, dans l’autre État contractant comme s’il avait lui‑même rendu ces jugements et décisions. Les montants perçus et les frais ne sont pas remboursés.
 
-<sup>(4)</sup> Les gardes‑pêche dénoncent les infractions au présent accord et remettent les documents et autres objets s’y rapportant à l’autorité de l’Etat auquel incombe la poursuite, conformément aux al. 1 et 2.
+<sup>(4)</sup> Les gardes‑pêche dénoncent les infractions au présent accord et remettent les documents et autres objets s’y rapportant à l’autorité de l’État auquel incombe la poursuite, conformément aux al. 1 et 2.
 
 #### § 36
 
 **Avertissement taxé (amende d’ordre)**
 
-<sup>(1)</sup> En cas de contraventions de peu d’importance aux dispositions du présent accord ou aux prescriptions et décisions s’y rapportant, les autorités compétentes et les gardes‑pêche nommés par les Etats contractants peuvent donner des avertissements aux personnes fautives et percevoir à ce titre une taxe (amende d’ordre), dont le montant sera au minimum de dix marks allemands/dix francs suisses et au plus de septante‑cinq marks allemands/septante‑cinq francs suisses.[^36-1] Un tel avertissement sera donné lorsqu’un avertissement exempt de taxe est insuffisant.
+<sup>(1)</sup> En cas de contraventions de peu d’importance aux dispositions du présent accord ou aux prescriptions et décisions s’y rapportant, les autorités compétentes et les gardes‑pêche nommés par les États contractants peuvent donner des avertissements aux personnes fautives et percevoir à ce titre une taxe (amende d’ordre), dont le montant sera au minimum de dix marks allemands/dix francs suisses et au plus de septante‑cinq marks allemands/septante‑cinq francs suisses.[^36-1] Un tel avertissement sera donné lorsqu’un avertissement exempt de taxe est insuffisant.
 
 <sup>(2)</sup> L’avertissement au sens de l’al. 1, 1<sup>re</sup> phrase, n’a d’effet que si la personne fautive, après avoir été informée de son droit de le refuser, l’accepte et paie immédiatement la taxe (l’amende d’ordre), conformément aux instructions de l’autorité ou du garde‑pêche, au service désigné à cet effet ou lui en fait parvenir le montant par la poste dans un délai d’une semaine. Un tel délai doit être accordé lorsque la personne fautive ne peut pas payer la taxe (l’amende d’ordre) immédiatement ou lorsque celle‑ci est supérieure à vingt marks allemands/vingt francs suisses.[^36-2]
 
-<sup>(3)</sup> Une attestation portant sur l’avertissement donné en vertu de l’al. 1, 1<sup>re</sup> phrase, le montant de la taxe (amende d’ordre) et le versement ou, le cas échéant, sur le délai de paiement imparti est délivrée. La contre‑valeur des frais (émoluments et dépenses) ne sera pas perçue. L’avertissement ne sera pas inscrit dans le casier judiciaire ou dans un registre analogue. Les montants encaissés reviennent à l’Etat contractant au nom duquel l’autorité ou le garde‑pêche a infligé l’avertissement.
+<sup>(3)</sup> Une attestation portant sur l’avertissement donné en vertu de l’al. 1, 1<sup>re</sup> phrase, le montant de la taxe (amende d’ordre) et le versement ou, le cas échéant, sur le délai de paiement imparti est délivrée. La contre‑valeur des frais (émoluments et dépenses) ne sera pas perçue. L’avertissement ne sera pas inscrit dans le casier judiciaire ou dans un registre analogue. Les montants encaissés reviennent à l’État contractant au nom duquel l’autorité ou le garde‑pêche a infligé l’avertissement.
 
 <sup>(4)</sup> Si l’avertissement au sens de l’al. 1, 1<sup>re</sup> phrase, porte effet, la contravention ne peut plus être poursuivie au titre des faits et des aspects juridiques qui ont été à l’origine de l’avertissement.
 
@@ -878,7 +912,7 @@ Si la biologie et la technique piscicole exigent une adaptation de l’accord au
 
 <sup>(2)</sup> En tenant compte du § 24, les plénipotentiaires peuvent autoriser l’utilisation de nouveaux engins de pêche, méthodes de capture et autres moyens de pêche, en tant que cette mesure est commandée par le développement de la biologie ou de la technique piscicole. Ils peuvent convenir de soumettre à des limitations la nature et le nombre des engins de pêche et d’autres moyens de capture, ainsi que la durée, le lieu et le mode de leur utilisation.
 
-<sup>(3)</sup> Pour pouvoir entrer en vigueur, les arrangements intervenus selon les al. 1 et 2 doivent avoir été confirmés par échange de lettres entre les services compétents des deux Etats contractants.
+<sup>(3)</sup> Pour pouvoir entrer en vigueur, les arrangements intervenus selon les al. 1 et 2 doivent avoir été confirmés par échange de lettres entre les services compétents des deux États contractants.
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 [^37-2]: Introduit par le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
@@ -900,13 +934,13 @@ Si la biologie et la technique piscicole exigent une adaptation de l’accord au
 
 **Entraide administrative**
 
-Les autorités compétentes des Etats contractants s’entraident dans l’exécution du présent accord. Elles appliquent à cet effet leur droit respectif et peuvent directement traiter les unes avec les autres. Elles se tiennent au courant des décisions prises en cas d’infractions au présent accord.
+Les autorités compétentes des États contractants s’entraident dans l’exécution du présent accord. Elles appliquent à cet effet leur droit respectif et peuvent directement traiter les unes avec les autres. Elles se tiennent au courant des décisions prises en cas d’infractions au présent accord.
 
 #### § 40
 
 **Communication des prises et des immersions de poissons**[^40-1]
 
-Les Etats contractants se communiquent jusqu’au 1<sup>er</sup> février de chaque année les statistiques sur les prises et sur les immersions de poissons.
+Les États contractants se communiquent jusqu’au 1<sup>er</sup> février de chaque année les statistiques sur les prises et sur les immersions de poissons.
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’Ac. du 19 nov. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1718](https://fedlex.data.admin.ch/eli/oc/1992/1718_1718_1718)).
 
@@ -931,7 +965,7 @@ Les Etats contractants se communiquent jusqu’au 1<sup>er</sup> février de cha
 
 **Entrée en vigueur**
 
-<sup>(1)</sup> Le présent accord entre en vigueur le premier jour du troisième mois de l’année civile qui suit la date à laquelle les Etats contractants se sont communiqué que les conditions dont la constitution fait dépendre l’entrée en vigueur sont remplies.
+<sup>(1)</sup> Le présent accord entre en vigueur le premier jour du troisième mois de l’année civile qui suit la date à laquelle les États contractants se sont communiqué que les conditions dont la constitution fait dépendre l’entrée en vigueur sont remplies.
 
 <sup>(2)</sup> Dès l’entrée en vigueur du présent accord, la Convention du 3 juillet 1897[^42-1] concernant la pêche dans le lac Inférieur de Constance et le Rhin, ainsi que tous les arrangements qui modifient et complètent cette convention, en particulier ceux de 1908, 1911, 1914, 1921 et 1924, sont abrogés.
 
@@ -939,7 +973,7 @@ Les Etats contractants se communiquent jusqu’au 1<sup>er</sup> février de cha
 
 *En foi de quoi,* les plénipotentiaires, dûment habilités à cet effet, ont signé le présent accord. Fait en langue allemande sur l’île de Reichenau, le 2 novembre 1977, en deux originaux. Pour la Confédération suisse: Diez Böckli Pour le Pays de Bade‑Wurtemberg: Weiser
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 ## Liste des points de repère le § 5
 
@@ -948,7 +982,7 @@ Annexe 1*[^t-1]*
 <table>
 <tr><td>Numéros des points de repère</td><td>Coordonnées</td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Bade‑Wurtemberg</td><td></td><td></td><td>Suisse</td><td></td></tr>
-<tr><td></td><td>A droite</td><td>En haut</td><td></td><td>Y</td><td>X</td></tr>
+<tr><td></td><td>À droite</td><td>En haut</td><td></td><td>Y</td><td>X</td></tr>
 <tr><td>1</td><td>35 08825.00</td><td>52 80613.15</td><td></td><td>726023.73</td><td>280587.35</td></tr>
 <tr><td>2</td><td>35 08832.07</td><td>52 80881.38</td><td></td><td>726025.48</td><td>280855.72</td></tr>
 <tr><td>3</td><td>35 08100.13</td><td>52 81241.80</td><td></td><td>725286.41</td><td>281201.67</td></tr>
@@ -964,7 +998,7 @@ Annexe 1*[^t-1]*
 <tr><td>13</td><td>34 91460.53</td><td>52 78925.66</td><td></td><td>708694.59</td><td>278554.24</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 ## Tableau de calcul de la hauteur des filets d’après le nombre de mailles selon le par. 15, al. 1, 3<sup>e</sup> phrase
 
@@ -990,14 +1024,14 @@ Annexe 2*[^t-2]*
 
 ## Protocole
 
-En complément du présent accord, les Etats contractants sont convenus de ce qui suit:
+En complément du présent accord, les États contractants sont convenus de ce qui suit:
 
 - 1\.[^annex2-lvlu2-1] Les heures indiquées dans le règlement sur la pêche dans le lac Inférieur s’appliquent aussi à l’heure d’été; l’avance d’une heure ne sera pas prise en considération.
-- 2\. Ad § 28: Les Etats contractants sont convenus d’encourager la recherche piscicole aux fins d’obtenir les données et d’acquérir les connaissances scientifiques nécessaires à l’exploitation piscicole du lac Inférieur
+- 2\. Ad § 28: Les États contractants sont convenus d’encourager la recherche piscicole aux fins d’obtenir les données et d’acquérir les connaissances scientifiques nécessaires à l’exploitation piscicole du lac Inférieur
 - 3\. Ad § 29: Le Pays de Bade‑Wurtemberg s’engage à ne pas user du droit, réservé au al. 3, 3<sup>e</sup> phrase, de donner par l’intermédiaire de la préfecture de Constance des instructions contraires à celles que les plénipotentiaires établissent en commun.
 - 4\. Ad § 31: Les pêcheurs qui ont leur bateau sur les eaux auxquelles s’applique le présent accord ne sont pas autorisés à porter sur eux des engins de pêche ou d’autres moyens de capture prêts à l’emploi qui sont prohibés, s’ils entendent les utiliser dans le lac Supérieur où ils disposent du droit de pêche.
-- 5\. Ad § 36: Dans la mesure où le droit pénal allemand est applicable, les Etats contractants sont convenus que le braconnage ne saurait être considéré comme une infraction légère au sens de l’al. 1.
-- Chaque Etat contractant veillera à ce que les gardes‑pêche de l’autre Etat soient autorisés à donner, sur son territoire, en cas d’infractions légères au sens du § 36, al. 1, des avertissements aux fautifs et à percevoir une taxe d’avertissement (amende d’ordre).
+- 5\. Ad § 36: Dans la mesure où le droit pénal allemand est applicable, les États contractants sont convenus que le braconnage ne saurait être considéré comme une infraction légère au sens de l’al. 1.
+- Chaque État contractant veillera à ce que les gardes‑pêche de l’autre État soient autorisés à donner, sur son territoire, en cas d’infractions légères au sens du § 36, al. 1, des avertissements aux fautifs et à percevoir une taxe d’avertissement (amende d’ordre).
 
 Fait en langue allemande sur l’île de Reichenau, le 2 novembre 1977, en deux originaux.
 
