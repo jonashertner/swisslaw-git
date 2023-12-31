@@ -4,7 +4,7 @@ number: "741.15.1"
 title: RÈGLEMENT du 16.11.2016 sur les émoluments perçus par le Service des automobiles et de la navigation (RE-SAN)
 short: RE-SAN
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/741.15.1?id=a98c496b-c044-447f-9229-6303629369f0"
 ---
 
@@ -123,11 +123,13 @@ arrête
 
 <sup>1</sup> Les émoluments pour les examens théoriques sont :
 
-- a. Examen collectif : CHF 40.00
-- b. Examen individuel : CHF 190.00
-- c. Examen complémentaire pour les catégories C et D : CHF 50.00
-- d. Examen complémentaire OACP pour les catégories 95C et 95D : CHF 60.00
-- e. Examen bateaux : CHF 50.00
+- a. Examen théorique pour les catégories M, G, F, A, B, A1, B1 : CHF 40.00.
+- b. Examen théorique complémentaire pour les catégories C1, D1, TPP : CHF 40.00
+- c. Examen théorique complémentaire pour les catégories C, D : CHF 50.00.
+- d. Examen complémentaire OACP (catégories 95C et 95D) : CHF 50.00.
+- e. Examen de théorie en ligne OACP (catégories 95C et 95D) : CHF 40.00.
+- f. Examen bateaux : CHF 50.00
+- g. Examen individuel : CHF 190.00
 
 [^sectionSectionII-1]: Modif. 3 du 07.12.2022: Modification Al. 1, c-d; entrée en vigueur au 01.01.2023 · Modif. 4 du 11.10.2023: Modification Al. 1, a-e; entrée en vigueur au 01.01.2024; Introduction Al. 1, f-g; entrée en vigueur au 01.01.2024
 
@@ -523,13 +525,13 @@ arrête
 
 #### Art. 32
 
-**Sociétés de location, entreprise de louage de bateaux [^31-1]**
+**Entreprise de louage de bateaux [^31-1]**
 
-<sup>1</sup> Le service peut accorder des conditions particulières aux sociétés de location dont l'effectif du parc est supérieur à 30 véhicules.
+<sup>1</sup> ...
 
 <sup>2</sup> L'émolument pour l'autorisation d'exploiter une entreprise de louage de bateaux est de : CHF 100.00
 
-[^31-1]: Modif. 4 du 11.10.2023: Introduction Art. 7, Al. 1, f-g; entrée en vigueur au 01.01.2024; Modification tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1; entrée en vigueur au 01.01.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Modification tArt; entrée en vigueur au 01.09.2026; Introduction Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026
+[^31-1]: Modif. 4 du 11.10.2023: Modification tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1; entrée en vigueur au 01.01.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Modification tArt; entrée en vigueur au 01.09.2026; Introduction Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026
 
 #### Art. 33
 
@@ -620,6 +622,6 @@ Annexes [^39-1]
 
 1
 
-[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.01.2023)
+[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.01.2024)
 
 [^39-1]: Modif. 3 du 07.12.2022: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023 · Modif. 5 du 19.06.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2026
