@@ -4,13 +4,12 @@ number: "892"
 title: Sozialhilfegesetz
 short: SHG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
+version: 2024-01-01
 version_adopted: 2022-10-24
 adopted: 2015-03-16
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892"
-pdf: "https://srl.lu.ch/api/de/versions/4020/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4151/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4020/pdf_file"
 
 (SHG)
 
-vom 16.03.2015 (Stand 01.01.2023)
+vom 16.03.2015 (Stand 01.01.2024)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -466,6 +465,10 @@ beschliesst:
 
 <sup>2</sup> …
 
+<sup>3</sup> In grenzüberschreitenden Fällen hat das unterhaltsberechtigte Kind, der unterhaltsberechtigte Ehegatte oder die unterhaltsberechtigte Ehegattin, der unterhaltsberechtigte eingetragene Partner oder die unterhaltsberechtigte eingetragene Partnerin gegenüber dem Kanton Anspruch auf Inkassohilfe.
+
+<sup>4</sup> Der Kanton kann die Aufgabe der Inkassohilfe in grenzüberschreitenden Fällen an Dritte übertragen. Der Regierungsrat regelt das Nähere durch Verordnung.
+
 <sup>5</sup> Im Übrigen richtet sich die Inkassohilfe nach den Vorschriften der eidgenössischen Inkassohilfeverordnung[^43-1].
 
 [^43-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
@@ -475,6 +478,8 @@ beschliesst:
 **Kostenpflicht**
 
 <sup>1</sup> Die Einwohnergemeinde am Wohnsitz der berechtigten Person trägt die Kosten ihrer Inkassohilfe.
+
+<sup>2</sup> In grenzüberschreitenden Fällen tragen der Kanton und die Einwohnergemeinden die Kosten der Inkassohilfe je zur Hälfte. Der Anteil der einzelnen Gemeinden berechnet sich nach Massgabe der ständigen Wohnbevölkerung des Vorjahres gemäss den Erhebungen der Lustat Statistik Luzern.
 
 <sup>3</sup> Vorbehalten bleibt die Kostenbeteiligung berechtigter Personen gemäss § 43b.
 
