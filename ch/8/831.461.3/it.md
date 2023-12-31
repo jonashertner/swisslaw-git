@@ -4,11 +4,11 @@ title: Ordinanza del 13 novembre 1985 sulla legittimazione alle deduzioni fiscal
 short: OPP 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: it
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20210101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20210101/it"
 
 (OPP 3)
 
-del 13 novembre 1985 (Stato 1° gennaio 2021)
+del 13 novembre 1985 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -94,16 +94,16 @@ Sono considerate beneficiarie le persone seguenti:
 
 **Pagamento delle prestazioni**
 
-<sup>1</sup> Le prestazioni di vecchiaia possono essere versate al più presto cinque anni prima dell’età ordinaria della rendita AVS (art. 21 cpv. 1 della legge federale del 20 dicembre 1946[^3-1] sull’assicurazione per la vecchiaia e per i superstiti; LAVS). Esse diventano esigibili al raggiungimento dell’età ordinaria della rendita AVS. Se l’intestatario della previdenza dimostra che continua a esercitare un’attività lucrativa, la riscossione delle prestazioni può essere rinviata al massimo di cinque anni a partire dal raggiungimento dell’età ordinaria della rendita AVS.[^3-2]
+<sup>1</sup> Le prestazioni di vecchiaia possono essere versate al più presto cinque anni prima del raggiungimento dell’età di riferimento secondo l’articolo 13 capoverso 1 LPP. Esse diventano esigibili al raggiungimento dell’età di riferimento. Se l’intestatario della previdenza dimostra che continua a esercitare un’attività lucrativa, la riscossione delle prestazioni può essere rinviata al massimo fino a cinque anni dopo il raggiungimento dell’età di riferimento.[^3-1]
 
 <sup>2</sup>
 
 Un versamento anticipato delle prestazioni di vecchiaia è ammissibile se il rapporto di previdenza è sciolto per uno dei motivi seguenti:
 
 - a. l’intestatario beneficia d’una rendita intera d’invalidità dell’assicurazione federale per l’invalidità e il rischio d’invalidità non è assicurato;
-- b.[^3-3] …
+- b.[^3-2] ...
 - c. l’intestatario pone termine all’attività lucrativa indipendente esercitata finora e ne inizia un’altra indipendente di genere diverso;
-- d.[^3-4] l’istituto di previdenza è tenuto, giusta l’articolo 5 della legge del 17 dicembre 1993[^3-5] sul libero passaggio, al pagamento in contanti.
+- d.[^3-3] l’istituto di previdenza è tenuto, giusta l’articolo 5 della legge del 17 dicembre 1993[^3-4] sul libero passaggio, al pagamento in contanti.
 
 <sup>3</sup>
 
@@ -111,24 +111,23 @@ La prestazione di vecchiaia può inoltre essere versata anticipatamente per:
 
 - a. l’acquisto e la costruzione di una proprietà d’abitazione per uso proprio;
 - b. l’acquisizione di partecipazioni ad una proprietà d’abitazione per uso proprio;
-- c. la restituzione di mutui ipotecari.[^3-6]
+- c. la restituzione di mutui ipotecari.[^3-5]
 
-<sup>4</sup> Il prelievo anticipato può essere richiesto ogni cinque anni.[^3-7]
+<sup>4</sup> Il prelievo anticipato può essere richiesto ogni cinque anni.[^3-6]
 
-<sup>5</sup> I concetti di «proprietà d’abitazioni per uso proprio», di «partecipazioni» e di «uso proprio» sono definiti negli articoli 2–4 dell’ordinanza del 3 ottobre 1994[^3-8] sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale.[^3-9]
+<sup>5</sup> I concetti di «proprietà d’abitazioni per uso proprio», di «partecipazioni» e di «uso proprio» sono definiti negli articoli 2–4 dell’ordinanza del 3 ottobre 1994[^3-7] sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale.[^3-8]
 
-<sup>6</sup> Se l’assicurato è coniugato o è vincolato da un’unione domestica registrata, il versamento anticipato delle prestazioni di vecchiaia conformemente al capoverso 2 lettere c e d e al capoverso 3 è ammesso soltanto previo consenso scritto del coniuge o del partner registrato. Se il consenso non può essere ottenuto o se è rifiutato, l’assicurato può adire il Tribunale.[^3-10]
+<sup>6</sup> Se l’assicurato è coniugato o è vincolato da un’unione domestica registrata, il versamento anticipato delle prestazioni di vecchiaia conformemente al capoverso 2 lettere c e d e al capoverso 3 è ammesso soltanto previo consenso scritto del coniuge o del partner registrato. Se il consenso non può essere ottenuto o se è rifiutato, l’assicurato può adire il Tribunale.[^3-9]
 
-[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
-[^3-3]: Abrogata dal n. I 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, con effetto dal 1° gen. 2021 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^3-4]: Nuovo testo giusta l’art. 22 n. 2 dell’O del 3 ott. 1994 sul libero passaggio, in vigore dal 1° gen. 1995 ([RU 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)).
-[^3-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^3-6]: Introdotto dal n. I dell’O del 18 set. 1989 ([RU 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Nuovo testo giusta l’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-7]: Introdotto dall’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-8]: [RS 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
-[^3-9]: Introdotto dall’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-10]: Introdotto dal n. I 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^3-1]: Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^3-2]: Abrogata dal n. I 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, con effetto dal 1° gen. 2021 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^3-3]: Nuovo testo giusta l’art. 22 n. 2 dell’O del 3 ott. 1994 sul libero passaggio, in vigore dal 1° gen. 1995 ([RU 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)).
+[^3-4]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-5]: Introdotto dal n. I dell’O del 18 set. 1989 ([RU 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Nuovo testo giusta l’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-6]: Introdotto dall’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-7]: [RS 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
+[^3-8]: Introdotto dall’art. 20 dell’O del 3 ott. 1994 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-9]: Introdotto dal n. I 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 3a
 
@@ -143,12 +142,13 @@ L’intestatario della previdenza può sciogliere il rapporto di previdenza, se:
 
 <sup>2</sup> Può trasferire parzialmente il suo capitale di previdenza soltanto se lo utilizza per il riscatto integrale di lacune presso un istituto di previdenza esente da imposte.
 
-<sup>3</sup> Il trasferimento del capitale di previdenza e il riscatto sono ammessi fino all’età ordinaria di pensionamento secondo l’articolo 21 capoverso 1 LAVS[^3a-2]. Se l’intestatario della previdenza dimostra che continua a esercitare un’attività lucrativa, può procedere a un tale trasferimento o riscatto al massimo fino a cinque anni dopo l’età di pensionamento.
+<sup>3</sup> Il trasferimento del capitale di previdenza e il riscatto sono ammessi fino al raggiungimento dell’età di riferimento. Se l’intestatario della previdenza dimostra che continua a esercitare un’attività lucrativa, tale trasferimento o riscatto può essere effettuato al massimo fino a cinque anni dopo il raggiungimento dell’età di riferimento.[^3a-2]
 
-<sup>4</sup> Tuttavia, un tale trasferimento o riscatto non è più possibile, se una polizza assicurativa diventa esigibile nei cinque anni precedenti l’età ordinaria di pensionamento.
+<sup>4</sup> Tuttavia, un tale trasferimento o riscatto non è più possibile, se una polizza assicurativa diventa esigibile nei cinque anni precedenti il raggiungimento dell’età di riferimento.[^3a-3]
 
 [^3a-1]: Introdotto dal n. I 3 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° gen. 2021 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^3a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3a-2]: Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^3a-3]: Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 4
 
@@ -206,14 +206,13 @@ I salariati e gli indipendenti possono dedurre dal loro reddito, per quanto rigu
 
 <sup>2</sup> I coniugi o i partner registrati possono pretendere queste deduzioni, ciascuno per conto proprio, se ambedue esercitano un’attività lucrativa e pagano i contributi a una forma riconosciuta di previdenza.[^7-1]
 
-<sup>3</sup> I contributi a forme riconosciute di previdenza possono essere versati al più tardi fino a cinque anni dopo il raggiungimento dell’età ordinaria della rendita AVS (art. 21 cpv. 1 LAVS[^7-2]).[^7-3]
+<sup>3</sup> I contributi a forme riconosciute di previdenza possono essere versati al più tardi fino a cinque anni dopo il raggiungimento dell’età di riferimento.[^7-2]
 
-<sup>4</sup> Nell’anno in cui termina l’attività lucrativa può essere versato l’intero contributo.[^7-4]
+<sup>4</sup> Nell’anno in cui termina l’attività lucrativa può essere versato l’intero contributo.[^7-3]
 
 [^7-1]: Nuovo testo giusta il n. I 4 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^7-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-2]: Introdotto dal n. I dell’O del 21 feb. 2001 ([RU 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nuovo testo giusta l’all. n. 8 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^7-3]: Introdotto dal n. I dell’O del 21 feb. 2001 ([RU 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
-[^7-4]: Introdotto dal n. I dell’O del 21 feb. 2001 ([RU 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
 
 #### Art. 8
 

@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1985 sur les déductions admises fiscalement po
 short: OPP 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: fr
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20210101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20210101/fr"
 
 (OPP 3)
 
-du 13 novembre 1985 (État le 1<sup>er</sup> janvier 2021)
+du 13 novembre 1985 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -94,16 +94,16 @@ Les personnes suivantes ont qualité de bénéficiaires:
 
 **Versement des prestations**
 
-<sup>1</sup> Les prestations de vieillesse peuvent être versées au plus tôt cinq ans avant que l’assuré n’atteigne l’âge ordinaire de la retraite de l’AVS (art. 21, al. 1, de la LF du 20 déc. 1946 sur l’assurance-vieillesse et survivants, LAVS[^3-1]). Elles sont échues lorsque l’assuré atteint l’âge ordinaire de la retraite de l’AVS. Lorsque le preneur de prévoyance prouve qu’il continue d’exercer une activité lucrative, le versement des prestations peut être différé jusqu’à cinq ans au plus à compter de l’âge ordinaire de la retraite de l’AVS.[^3-2]
+<sup>1</sup> Les prestations de vieillesse peuvent être versées au plus tôt cinq ans avant que l’assuré n’atteigne l’âge de référence fixé à l’art. 13, al. 1, LPP. Elles sont échues lorsque l’assuré atteint l’âge de référence. Lorsque le preneur de prévoyance prouve qu’il continue d’exercer une activité lucrative, le versement des prestations peut être différé jusqu’à cinq ans au plus à compter de l’âge de référence.[^3-1]
 
 <sup>2</sup>
 
 Le versement anticipé des prestations de vieillesse est possible lorsque le rapport de prévoyance est résilié pour l’une des raisons suivantes:
 
 - a. le preneur de prévoyance est mis au bénéfice d’une rente entière d’invalidité de l’assurance-invalidité fédérale et le risque d’invalidité n’est pas assuré;
-- b.[^3-3] …
+- b.[^3-2] …
 - c. le preneur de prévoyance change d’activité lucrative indépendante;
-- d.[^3-4] l’institution de prévoyance est tenue, conformément à l’art. 5 de la loi fédérale du 17 décembre 1993 sur le libre passage[^3-5], de s’acquitter de son obligation par un versement en espèces.
+- d.[^3-3] l’institution de prévoyance est tenue, conformément à l’art. 5 de la loi fédérale du 17 décembre 1993 sur le libre passage[^3-4], de s’acquitter de son obligation par un versement en espèces.
 
 <sup>3</sup>
 
@@ -111,24 +111,23 @@ La prestation de vieillesse peut, en outre, être versée par anticipation pour:
 
 - a. acquérir ou construire un logement en propriété pour ses propres besoins;
 - b. acquérir des participations à la propriété d’un logement pour ses propres besoins;
-- c. rembourser des prêts hypothécaires.[^3-6]
+- c. rembourser des prêts hypothécaires.[^3-5]
 
-<sup>4</sup> Un tel versement ne peut être demandé que tous les cinq ans.[^3-7]
+<sup>4</sup> Un tel versement ne peut être demandé que tous les cinq ans.[^3-6]
 
-<sup>5</sup> Les notions de propriété du logement, de participations et de propres besoins sont définies aux art. 2 à 4 de l’ordonnance du 3 octobre 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle[^3-8].[^3-9]
+<sup>5</sup> Les notions de propriété du logement, de participations et de propres besoins sont définies aux art. 2 à 4 de l’ordonnance du 3 octobre 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle[^3-7].[^3-8]
 
-<sup>6</sup> Si l’assuré est marié ou lié par un partenariat enregistré, le versement anticipé des prestations de vieillesse n’est possible, dans les cas visés aux al. 2, let. c et d, et 3, que si le conjoint ou le partenaire enregistré donne son consentement écrit. S’il n’est pas possible de recueillir ce consentement ou s’il est refusé, l’assuré peut en appeler au tribunal.[^3-10]
+<sup>6</sup> Si l’assuré est marié ou lié par un partenariat enregistré, le versement anticipé des prestations de vieillesse n’est possible, dans les cas visés aux al. 2, let. c et d, et 3, que si le conjoint ou le partenaire enregistré donne son consentement écrit. S’il n’est pas possible de recueillir ce consentement ou s’il est refusé, l’assuré peut en appeler au tribunal.[^3-9]
 
-[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
-[^3-3]: Abrogée par le ch. I 3 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^3-4]: Nouvelle teneur selon l’art. 22 ch. 2 de l’O du 3 oct. 1994 sur le libre passage, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)).
-[^3-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^3-6]: Introduit par le ch. I de l’O du 18 sept. 1989 ([RO 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Nouvelle teneur selon l’art. 20 de l’O du 3 oct. 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-7]: Introduit par l’art. 20 de l’O du 3 oct. 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-8]: [RS 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
-[^3-9]: Introduit par l’art. 20 de l’O du 3 oct. 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-10]: Introduit par le ch. I 4 de l’O du 29 sept. 2006 sur la mise en oeuvre de la L du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^3-2]: Abrogée par le ch. I 3 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^3-3]: Nouvelle teneur selon l’art. 22 ch. 2 de l’O du 3 oct. 1994 sur le libre passage, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)).
+[^3-4]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-5]: Introduit par le ch. I de l’O du 18 sept. 1989 ([RO 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Nouvelle teneur selon l’art. 20 de l’O du 3 oct. 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-6]: Introduit par l’art. 20 de l’O du 3 oct. 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-7]: [RS 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
+[^3-8]: Introduit par l’art. 20 de l’O du 3 oct. 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-9]: Introduit par le ch. I 4 de l’O du 29 sept. 2006 sur la mise en oeuvre de la L du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 3a
 
@@ -143,12 +142,13 @@ Le preneur de prévoyance peut résilier le rapport de prévoyance:
 
 <sup>2</sup> Il ne peut transférer partiellement son capital de prévoyance que s’il l’affecte au rachat de l’intégralité de la lacune dans une institution de prévoyance exonérée d’impôt.
 
-<sup>3</sup> Le transfert du capital de prévoyance et le rachat sont admis jusqu’à l’âge ordinaire de la retraite au sens de l’art. 21, al. 1, LAVS[^3a-2]. Si le preneur de prévoyance prouve qu’il continue d’exercer une activité lucrative, il peut procéder à un tel transfert ou à un tel rachat pendant cinq ans au maximum après l’âge ordinaire de la retraite.
+<sup>3</sup> Le transfert du capital de prévoyance et le rachat sont admis jusqu’à l’âge de référence. Si le preneur de prévoyance prouve qu’il continue d’exercer une activité lucrative, il peut procéder à un tel transfert ou à un tel rachat pendant cinq ans au maximum après l’âge de référence.[^3a-2]
 
-<sup>4</sup> Un tel transfert ou un tel rachat n’est toutefois plus possible si une police d’assurance devient exigible dans les cinq ans précédant l’âge ordinaire de la retraite.
+<sup>4</sup> Un tel transfert ou un tel rachat n’est toutefois plus possible si une police d’assurance devient exigible dans les cinq ans précédant l’âge de référence.[^3a-3]
 
 [^3a-1]: Introduit par le ch. I 3 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^3a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3a-2]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^3a-3]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 4
 
@@ -205,14 +205,13 @@ Les salariés et les indépendants peuvent déduire de leur revenu, en matière 
 
 <sup>2</sup> Lorsque les deux époux ou les deux partenaires enregistrés exercent une activité lucrative et versent des cotisations à une forme reconnue de prévoyance, ils peuvent prétendre ces déductions pour chacun d’eux.[^7-1]
 
-<sup>3</sup> Les cotisations à des formes reconnues de prévoyance peuvent être versées jusqu’à cinq ans au plus après l’âge ordinaire de la retraite de l’AVS (art. 21, al. 1, LAVS[^7-2]).[^7-3]
+<sup>3</sup> Les cotisations à des formes reconnues de prévoyance peuvent être versées jusqu’à cinq ans au plus après l’âge de référence.[^7-2]
 
-<sup>4</sup> Au cours de l’année civile où il met fin à son activité lucrative, l’assuré peut verser la totalité de la cotisation.[^7-4]
+<sup>4</sup> Au cours de l’année civile où il met fin à son activité lucrative, l’assuré peut verser la totalité de la cotisation.[^7-3]
 
 [^7-1]: Nouvelle teneur selon le ch. I 4 de l’O du 29 sept. 2006 sur la mise en oeuvre de la L du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^7-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-2]: Introduit par le ch. I de l’O du 21 fév. 2001 ([RO 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nouvelle teneur selon l’annexe ch. 8 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^7-3]: Introduit par le ch. I de l’O du 21 fév. 2001 ([RO 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
-[^7-4]: Introduit par le ch. I de l’O du 21 fév. 2001 ([RO 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
 
 #### Art. 8
 

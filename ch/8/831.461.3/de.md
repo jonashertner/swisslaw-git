@@ -4,11 +4,11 @@ title: Verordnung vom 13. November 1985 über die steuerliche Abzugsberechtigung
 short: BVV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: de
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20210101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20210101/de"
 
 (BVV 3)
 
-vom 13. November 1985 (Stand am 1. Januar 2021)
+vom 13. November 1985 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -96,16 +96,16 @@ Als Begünstigte sind folgende Personen zugelassen:
 
 **Ausrichtung der Leistungen**
 
-<sup>1</sup> Die Altersleistungen dürfen frühestens fünf Jahre vor dem ordentlichen Rentenalter der AHV (Art. 21 Abs. 1 des BG vom 20. Dez. 1946[^3-1] über die Alters- Hinterlassenen- und Invalidenversicherung; AHVG) ausgerichtet werden. Sie werden bei Erreichen des ordentlichen Rentenalters der AHV fällig. Weist der Vorsorgenehmer nach, dass er weiterhin erwerbstätig ist, kann der Bezug bis höchstens fünf Jahre nach Erreichen des ordentlichen Rentenalters der AHV aufgeschoben werden.[^3-2]
+<sup>1</sup> Die Altersleistungen dürfen frühestens fünf Jahre vor Erreichen des Referenzalters nach Artikel 13 Absatz 1 BVG ausgerichtet werden. Sie werden bei Erreichen des Referenzalters fällig. Weist der Vorsorgenehmer nach, dass er weiterhin erwerbstätig ist, so kann er den Leistungsbezug höchstens fünf Jahre über das Erreichen des Referenzalters hinaus aufschieben.[^3-1]
 
 <sup>2</sup>
 
 Eine vorzeitige Ausrichtung der Altersleistungen ist zulässig bei Auflösung des Vorsorgeverhältnisses aus einem der folgenden Gründe:
 
 - a. wenn der Vorsorgenehmer eine ganze Invalidenrente der eidgenössischen Invalidenversicherung bezieht und das Invaliditätsrisiko nicht versichert ist;
-- b.[^3-3] …
+- b.[^3-2] …
 - c. wenn der Vorsorgenehmer seine bisherige selbständige Erwerbstätigkeit aufgibt und eine andersartige selbständige Erwerbstätigkeit aufnimmt;
-- d.[^3-4] wenn die Vorsorgeeinrichtung nach Artikel 5 des Freizügigkeitsgesetzes vom 17. Dezember 1993[^3-5] zur Barauszahlung verpflichtet ist.
+- d.[^3-3] wenn die Vorsorgeeinrichtung nach Artikel 5 des Freizügigkeitsgesetzes vom 17. Dezember 1993[^3-4] zur Barauszahlung verpflichtet ist.
 
 <sup>3</sup>
 
@@ -113,24 +113,23 @@ Die Altersleistung kann ferner vorher ausgerichtet werden für:
 
 - a. Erwerb und Erstellung von Wohneigentum zum Eigenbedarf;
 - b. Beteiligungen am Wohneigentum zum Eigenbedarf;
-- c. Rückzahlung von Hypothekardarlehen.[^3-6]
+- c. Rückzahlung von Hypothekardarlehen.[^3-5]
 
-<sup>4</sup> Eine solche Ausrichtung kann alle fünf Jahre geltend gemacht werden.[^3-7]
+<sup>4</sup> Eine solche Ausrichtung kann alle fünf Jahre geltend gemacht werden.[^3-6]
 
-<sup>5</sup> Die Begriffe Wohneigentum, Beteiligungen und Eigenbedarf richten sich nach den Artikeln 2–4 der Verordnung vom 3. Oktober 1994[^3-8] über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge.[^3-9]
+<sup>5</sup> Die Begriffe Wohneigentum, Beteiligungen und Eigenbedarf richten sich nach den Artikeln 2–4 der Verordnung vom 3. Oktober 1994[^3-7] über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge.[^3-8]
 
-<sup>6</sup> Ist die versicherte Person verheiratet oder lebt sie in eingetragener Partnerschaft, so ist die vorzeitige Ausrichtung der Altersleistungen nach den Absätzen 2 Buchstaben c und d sowie 3 nur zulässig, wenn der Ehegatte, die eingetragene Partnerin oder der eingetragene Partner schriftlich zustimmt. Kann die Zustimmung nicht eingeholt werden oder wird sie verweigert, so kann die versicherte Person das Gericht anrufen.[^3-10]
+<sup>6</sup> Ist die versicherte Person verheiratet oder lebt sie in eingetragener Partnerschaft, so ist die vorzeitige Ausrichtung der Altersleistungen nach den Absätzen 2 Buchstaben c und d sowie 3 nur zulässig, wenn der Ehegatte, die eingetragene Partnerin oder der eingetragene Partner schriftlich zustimmt. Kann die Zustimmung nicht eingeholt werden oder wird sie verweigert, so kann die versicherte Person das Gericht anrufen.[^3-9]
 
-[^3-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-2]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
-[^3-3]: Aufgehoben durch Ziff. I 3 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, mit Wirkung seit 1. Jan. 2021 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^3-4]: Fassung gemäss Art. 22 Ziff. 2 der Freizügigkeitsverordnung vom 3. Okt. 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)).
-[^3-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^3-6]: Eingefügt durch Ziff. I der V vom 18. Sept. 1989 ([AS 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Fassung gemäss Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-7]: Eingefügt durch Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-8]: [SR 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
-[^3-9]: Eingefügt durch Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
-[^3-10]: Eingefügt durch Ziff. I 4 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^3-1]: Fassung gemäss Anhang Ziff. 8 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^3-2]: Aufgehoben durch Ziff. I 3 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, mit Wirkung seit 1. Jan. 2021 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^3-3]: Fassung gemäss Art. 22 Ziff. 2 der Freizügigkeitsverordnung vom 3. Okt. 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)).
+[^3-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-5]: Eingefügt durch Ziff. I der V vom 18. Sept. 1989 ([AS 1989 1903](https://fedlex.data.admin.ch/eli/oc/1989/1903_1903_1903)). Fassung gemäss Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-6]: Eingefügt durch Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-7]: [SR 831.411](https://fedlex.data.admin.ch/eli/cc/1994/2379_2379_2379)
+[^3-8]: Eingefügt durch Art. 20 der V vom 3. Okt. 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Januar 1995 ([AS 1994 2379](https://fedlex.data.admin.ch/eli/oc/1994/2379_2379_2379)).
+[^3-9]: Eingefügt durch Ziff. I 4 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 3a
 
@@ -145,12 +144,13 @@ Der Vorsorgenehmer kann das Vorsorgeverhältnis auflösen, wenn er sein Vorsorge
 
 <sup>2</sup> Er kann sein Vorsorgekapital nur dann teilweise übertragen, wenn er es für den vollständigen Einkauf in eine steuerbefreite Vorsorgeeinrichtung verwendet.
 
-<sup>3</sup> Die Übertragung von Vorsorgekapital und der Einkauf sind bis zum Erreichen des ordentlichen Rentenalters der AHV (Art. 21 Abs. 1 AHVG[^3a-2]) zulässig. Weist der Vorsorgenehmer nach, dass er weiterhin erwerbstätig ist, so kann eine solche Übertragung oder ein solcher Einkauf bis höchstens fünf Jahre nach Erreichen des ordentlichen Rentenalters vorgenommen werden.
+<sup>3</sup> Die Übertragung von Vorsorgekapital und der Einkauf sind bis zum Erreichen des Referenzalters zulässig. Weist der Vorsorgenehmer nach, dass er weiterhin erwerbstätig ist, so kann er eine solche Übertragung oder einen solchen Einkauf bis höchstens fünf Jahre nach Erreichen des Referenzalters vornehmen.[^3a-2]
 
-- [tab] <sup>4</sup> Eine solche Übertragung oder ein solcher Einkauf ist allerdings nicht mehr möglich, sobald eine Versicherungspolice ab fünf Jahren vor Erreichen des ordentlichen Rentenalters fällig wird.
+<sup>4</sup> Eine solche Übertragung oder ein solcher Einkauf ist allerdings nicht mehr möglich, sobald eine Versicherungspolice ab fünf Jahren vor Erreichen des Referenzalters fällig wird.[^3a-3]
 
 [^3a-1]: Eingefügt durch Ziff. I 3 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Jan. 2021 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^3a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3a-2]: Fassung gemäss Anhang Ziff. 8 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^3a-3]: Fassung gemäss Anhang Ziff. 8 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 4
 
@@ -207,14 +207,13 @@ Arbeitnehmer und Selbständigerwerbende können bei den direkten Steuern von Bun
 
 <sup>2</sup> Sind beide Ehegatten oder beide eingetragenen Partnerinnen oder Partner erwerbstätig und leisten sie Beiträge an eine anerkannte Vorsorgeform, so können beide diese Abzüge für sich beanspruchen.[^7-1]
 
-<sup>3</sup> Beiträge an anerkannte Vorsorgeformen können längstens bis fünf Jahre nach Erreichen des ordentlichen Rentenalters der AHV (Art. 21 Abs. 1 AHVG[^7-2]) geleistet werden.[^7-3]
+<sup>3</sup> Beiträge an anerkannte Vorsorgeformen können längstens bis fünf Jahre nach Erreichen des Referenzalters geleistet werden.[^7-2]
 
-<sup>4</sup> Im Jahr, in dem die Erwerbstätigkeit beendet wird, kann der volle Beitrag geleistet werden.[^7-4]
+<sup>4</sup> Im Jahr, in dem die Erwerbstätigkeit beendet wird, kann der volle Beitrag geleistet werden.[^7-3]
 
 [^7-1]: Fassung gemäss Ziff. I 4 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^7-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-2]: Eingefügt durch Ziff. I der V vom 21. Febr. 2001 ([AS 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Fassung gemäss Anhang Ziff. 8 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^7-3]: Eingefügt durch Ziff. I der V vom 21. Febr. 2001 ([AS 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
-[^7-4]: Eingefügt durch Ziff. I der V vom 21. Febr. 2001 ([AS 2001 1068](https://fedlex.data.admin.ch/eli/oc/2001/162)). Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5177](https://fedlex.data.admin.ch/eli/oc/2007/725)).
 
 #### Art. 8
 
