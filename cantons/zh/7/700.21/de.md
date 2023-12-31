@@ -4,11 +4,11 @@ number: "700.21"
 title: Besondere Bauverordnung I (BBV I)
 short: BBV I
 language: de
-version: "2022-09-01"
-nachtrag: "118"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2024-04-01
 adopted: 1981-05-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_21-1981_05_06-1982_01_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_21-1981_05_06-1982_01_01-123.html"
 text: pdf
 ---
 
@@ -60,7 +60,7 @@ Als fachgerecht gilt, was nach dem jeweiligen Stand der Technik möglich ist und
 
 **1**
 
-1.10. 22 - 118 § 4. <sup>1</sup> Im Anhang zur Verordnung werden Bereiche bezeichnet, die primär der privaten Kontrolle unterstehen.
+- 1\. 1. 24 - 123 § 4. <sup>1</sup> Im Anhang zur Verordnung werden Bereiche bezeichnet, die primär der privaten Kontrolle unterstehen.
 
 **Private Kontrolle A. Geltungsbereich und Grundsatz**
 
@@ -134,7 +134,7 @@ Künstliche Beleuchtung und Belüftung in Arbeitsräumen sind insbesondere zulä
 
 **3**
 
-1.10. 22 - 118
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Bei besonderen Verhältnissen können Erleichterungen gestattet werden.
 
@@ -208,7 +208,9 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **5**
 
-1.10. 22 - 118 b. Ausrüstungen zur Bereitstellung und zur Verteilung von Wärme und Brauchwarmwasser, soweit diese nicht durch das Bundesrecht geregelt sind,
+- 1\. 1. 24 - 123
+
+- b. Ausrüstungen zur Bereitstellung und zur Verteilung von Wärme und Brauchwarmwasser, soweit diese nicht durch das Bundesrecht geregelt sind,
 
 - c. lüftungstechnische Anlagen.
 
@@ -266,7 +268,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 - b. ordnet Radonsanierungen nach Art. 166 Abs. 2 und 3 StSV[^h3AbschnittLuftre-5] an.
 
-<sup>2</sup> Das Amt für Wirtschaft und Arbeit (AWA) ist zuständig bei Industrie- und Gewerbebetrieben, die dem Arbeitsgesetz vom 13. März 1964[^h3AbschnittLuftre-6] unterstehen. Das AWEL unterstützt das AWA beim Vollzug.
+<sup>2</sup> Das Amt für Wirtschaft (AWI)<sup>85</sup> ist zuständig bei Industrie- und Gewerbebetrieben, die dem Arbeitsgesetz vom 13. März 1964[^h3AbschnittLuftre-6] unterstehen. Das AWEL unterstützt das AWI<sup>85</sup> beim Vollzug.
 
 **B. Kosten**
 
@@ -287,7 +289,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **7**
 
-1.10. 22 - 118
+- 1\. 1. 24 - 123
 
 ### V. Teil: Technische Ausrüstungen
 
@@ -353,7 +355,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **9**
 
-1.10. 22 - 118
+- 1\. 1. 24 - 123
 
 <sup>4</sup> Die Luftgeschwindigkeiten in Lüftungs- und Klimaanlagen von Bauten sind nach dem jeweiligen Stand der Technik zu wählen. Sie dürfen in Apparaten, bezogen auf die Nettofläche, 2 m/s und in Kanälen folgende Werte nicht überschreiten:
 
@@ -423,7 +425,7 @@ Grössere Luftgeschwindigkeiten sind zulässig, wenn mit einer fachgerechten Ene
 
 **11**
 
-1.10. 22 - 118
+- 1\. 1. 24 - 123
 
 ### VI. Teil: Behindertengerechtes Bauen<sup>55</sup>
 
@@ -523,7 +525,7 @@ Die Einstellgelegenheiten für Vorräte und Hausrat müssen pro Wohnung eine Gru
 
 **Beleuchtungsanlagen**
 
-1.10. 22 - 118 § 43.<sup>79</sup> Von der Ausrüstungs- und Abrechnungspflicht des Heizwärmeverbrauchs pro Nutzeinheit gemäss § 9 Abs. 3 EnerG[^hVIIITeilEnergier-1] befreit sind Gebäude und Gebäudegruppen,
+- 1\. 1. 24 - 123 § 43.<sup>79</sup> Von der Ausrüstungs- und Abrechnungspflicht des Heizwärmeverbrauchs pro Nutzeinheit gemäss § 9 Abs. 3 EnerG[^hVIIITeilEnergier-1] befreit sind Gebäude und Gebäudegruppen,
 
 **B. Befreiung**
 
@@ -597,7 +599,11 @@ Die Einstellgelegenheiten für Vorräte und Hausrat müssen pro Wohnung eine Gru
 
 **15**
 
-1.10. 22 - 118 b. bauliche Massnahmen (z.B. Überdachungen) und betriebliche Massnahmen (z.B. Schneeräumungen) nicht ausführbar oder unverhältnismässig sind und c. die Heizung im Freien mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet ist.
+- 1\. 1. 24 - 123
+
+- b. bauliche Massnahmen (z.B. Überdachungen) und betriebliche Massnahmen (z.B. Schneeräumungen) nicht ausführbar oder unverhältnismässig sind und
+
+- c. die Heizung im Freien mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet ist.
 
 § 47.<sup>42</sup>
 
@@ -647,9 +653,9 @@ I Wohnen MFH 35 kWh/m<sup>2</sup> II Wohnen EFH 35 kWh/m<sup>2</sup> III Verwalt
 
 **17**
 
-**C. Wärmeverbund**
+- 1\. 1. 24 - 123
 
-1.10. 22 - 118 c. Für die Kosten von Heizöl, Erdgas und Holz gelten die Daten des Bundesamtes für Statistik.
+- c. Für die Kosten von Heizöl, Erdgas und Holz gelten die Daten des Bundesamtes für Statistik.
 
 - d. Für die Teuerung gilt der Landesindex der Konsumentenpreise.
 
@@ -676,6 +682,8 @@ I Wohnen MFH 35 kWh/m<sup>2</sup> II Wohnen EFH 35 kWh/m<sup>2</sup> III Verwalt
 **3. Ausnahmen**
 
 § 47 f.<sup>78</sup> Von den Anforderungen gemäss § 11 Abs. 4 EnerG befreit sind Wärmeerzeuger, die zu mehr als 50% für die Erzeugung von Prozesswärme eingesetzt werden, wenn Temperaturen von mehr als 60° C erreicht werden müssen und eine Abtrennung des Prozesswärmeverteilnetzes vom Heizungsverteilnetz nicht möglich ist.
+
+**C. Wärmeverbund**
 
 § 47 g.<sup>78</sup> Bei Anschluss an ein Wärmenetz sind die Anforderungen gemäss § 11 Abs. 1–4 EnerG erfüllt, wenn mindestens 70% der Wärme ohne CO2-Emissionen aus fossilen Brennstoffen erzeugt wird. § 47 h.<sup>78</sup> Die Zertifikate können im Jahr der Ausstellung oder in den beiden Folgejahren angerechnet werden.
 
@@ -719,7 +727,9 @@ I Wohnen MFH 35 kWh/m<sup>2</sup> II Wohnen EFH 35 kWh/m<sup>2</sup> III Verwalt
 
 **19**
 
-1.10. 22 - 118 d. lässt ihre Tätigkeit jährlich durch eine unabhängige Stelle prüfen und teilt das Ergebnis der Baudirektion mit,
+- 1\. 1. 24 - 123
+
+- d. lässt ihre Tätigkeit jährlich durch eine unabhängige Stelle prüfen und teilt das Ergebnis der Baudirektion mit,
 
 - e. kann die Vollzugskosten dem Energielieferanten in Rechnung stellen.
 
@@ -797,7 +807,7 @@ Die nachstehenden Verordnungen werden aufgehoben:
 
 **21**
 
-1.10. 22 - 118 § 51. Die nachstehenden Verordnungen werden wie folgt geändert: . . .[^50-1]
+- 1\. 1. 24 - 123 § 51. Die nachstehenden Verordnungen werden wie folgt geändert: . . .[^50-1]
 
 **Änderung bisherigen Rechts**
 
@@ -838,7 +848,7 @@ Feuerungen mit einer Leistung von 350 kW bis 1000 kW, die bis 31. Dezember 2004 
 
 **23**
 
-1.10. 22 - 118 2.4<sup>51</sup> . . .
+- 1\. 1. 24 - 123 2.4<sup>51</sup> . . .
 
 2.5<sup>40</sup> Behinderten- und betagtengerechtes Bauen 2.51<sup>59</sup> Norm SIA 500:2009, Hindernisfreie Bauten 2.52<sup>39</sup> Empfehlung Wohnungsbau hindernisfrei – anpassbar, Schweizerische Fachstelle für behindertengerechtes Bauen, Ausgabe 1992 2.6<sup>41</sup> Abfallentsorgung 2.61<sup>41</sup> Empfehlung SIA 430, Ausgabe 1993, Entsorgung von Bauabfällen bei Neubau-, Umbau- und Abbrucharbeiten (Norm SN 509 430) 2.62<sup>73</sup> Richtlinie des Kantons Zürich, Behandlungsregel für verschmutzte Bauabfälle und Aushub- und Ausbruchmaterial im
 
@@ -870,7 +880,7 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 **25**
 
-1.10. 22 - 118 g.<sup>70</sup> die Bestimmungen über den Lärm von Luft/Wasser-Wärmepumpen (Art. 7 Abs. 1, Art. 32 und Anhang 6 LSV[^h1AlsVerordnungsbe-2], sofern sie mittels einfacher Massnahmen gemäss Formular der Fachstelle Lärmschutz eingehalten werden können,
+- 1\. 1. 24 - 123 g.<sup>70</sup> die Bestimmungen über den Lärm von Luft/Wasser-Wärmepumpen (Art. 7 Abs. 1, Art. 32 und Anhang 6 LSV[^h1AlsVerordnungsbe-2], sofern sie mittels einfacher Massnahmen gemäss Formular der Fachstelle Lärmschutz eingehalten werden können,
 
 - h. die Bestimmungen über Wärmeerzeuger (§§ 47 c–47 g sowie § 11 EnerG),
 
@@ -926,7 +936,7 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 **3.1172 a.**
 
-1.10. 22 - 118 (Fachbereich Rück- und Umbau von Bauten und Anlagen) die Bestimmungen über die Ermittlung, Vermeidung und Entsorgung von Bauabfällen aus dem Rück- und Umbau von Bauten und Anlagen (Art. 30 ff. USG[^h1AlsVerordnungsbe-7], Art. 9, Art. 16– 20, Anhang 3 und 5 Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung von Abfällen[^h1AlsVerordnungsbe-8], Art. 4 ff. und Anhang 1 Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen[^h1AlsVerordnungsbe-9], § 236 Abs. 1 und § 239 Abs. 2 PBG[^h1AlsVerordnungsbe-12].
+- 1\. 1. 24 - 123 (Fachbereich Rück- und Umbau von Bauten und Anlagen) die Bestimmungen über die Ermittlung, Vermeidung und Entsorgung von Bauabfällen aus dem Rück- und Umbau von Bauten und Anlagen (Art. 30 ff. USG[^h1AlsVerordnungsbe-7], Art. 9, Art. 16– 20, Anhang 3 und 5 Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung von Abfällen[^h1AlsVerordnungsbe-8], Art. 4 ff. und Anhang 1 Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen[^h1AlsVerordnungsbe-9], § 236 Abs. 1 und § 239 Abs. 2 PBG[^h1AlsVerordnungsbe-12].
 
 <sup>26</sup> Eingefügt durch RRB vom 6. November 1985 (OS 49, 553). Bisherige §§ 42– 44 werden §§ 50–52.
 
@@ -976,7 +986,7 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 **29**
 
-1.10. 22 - 118
+- 1\. 1. 24 - 123
 
 <sup>49</sup> Eingefügt durch RRB vom 12. Dezember 2001 (OS 57, 119). In Kraft seit 1. März 2002.
 
@@ -1050,9 +1060,11 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 <sup>84</sup> Aufgehoben durch RRB vom 8. Juni 2022 (OS 77, 378; ABl 2022-06-10). In Kraft seit 1. September 2022.
 
+<sup>85</sup> Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 550; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
+
 **31**
 
-1.10. 22 - 118
+- 1\. 1. 24 - 123
 
 [^h1AlsVerordnungsbe-1]: LS 700.211.
 [^h1AlsVerordnungsbe-2]: SR 814.41.
