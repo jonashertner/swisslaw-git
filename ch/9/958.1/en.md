@@ -4,11 +4,11 @@ title: "Federal Act of 19 June 2015 on Financial Market Infrastructures and Mark
 short: FinMIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: en
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2015-853-20230101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Infrastructure Act, FinMIA)
 
-of 19 June 2015 (Status as of 1 January 2023)
+of 19 June 2015 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -604,7 +604,7 @@ FINMA shall grant authorisation to a foreign participant wishing to participate 
 
 #### Art. 41
 
-**Recognition of Foreign Trading Venues**
+**Recognition of foreign trading venues for granting access to Swiss participants[^41-1]**
 
 <sup>1</sup> Trading venues domiciled abroad must obtain recognition from FINMA before granting Swiss participants supervised by FINMA direct access to their facilities.
 
@@ -629,6 +629,56 @@ A foreign trading venue is deemed recognised if FINMA finds that:
 - b. the conditions in paragraph 2 letter b are met.
 
 <sup>4</sup> FINMA may refuse recognition if the state in which the foreign trading venue has its registered office does not grant Swiss trading venues actual access to its markets or does not offer them the same competitive opportunities as those granted to domestic trading venues. Any deviating international commitments are reserved.
+
+[^41-1]: Amended by No I of the FA of 17 March 2023 (Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland), in force from 1 Jan. 2024 to 31 Dec. 2028 ([AS 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [BBl 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+
+### Section 1*a.* Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland
+
+[^tit2-chap2-sec1a-1]
+
+[^tit2-chap2-sec1a-1]: Inserted by No I of the FA of 17 March 2023 (Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland), in force from 1 Jan. 2024 to 31 Dec. 2028 ([AS 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [BBl 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+
+#### Art. 41a
+
+**Duty to obtain recognition**
+
+<sup>1</sup>
+
+Trading venues which have their registered office abroad require prior recognition from FINMA if:
+
+- a. equity securities of companies with registered office in Switzerland are traded there or if they otherwise facilitate the trading of such equity securities; and
+- b. the equity securities pursuant to letter a are listed on a stock exchange in Switzerland or are traded on a Swiss trading venue.
+
+<sup>2</sup>
+
+A foreign stock exchange does not require recognition for the trading of equity securities if:
+
+- a. they are listed or admitted to trading on the relevant stock exchange with the express consent of the issuer of the equity securities, which must have been given prior to 30 November 2018;
+- b. they were listed or admitted to trading on the relevant stock exchange before 30 November 2018; and
+- c. the issuer of the equity securities accepts responsibility for the duties associated with the listing or admission to trading on the relevant stock exchange.
+
+<sup>3</sup> The recognition ceases once that trading venue has its registered office in a jurisdiction listed in accordance with Article 41*c* paragraph 2.
+
+#### Art. 41b
+
+**Conditions for recognition and procedure**
+
+<sup>1</sup>
+
+FINMA shall grant recognition on request if the foreign trading venue:
+
+- a. is subject to appropriate regulation and supervision; and
+- b. does not have its registered office in a jurisdiction that restricts its market participants in trading equity securities of companies with their registered office in Switzerland on Swiss trading venues and thereby significantly adversely affects the trading in such equity securities on Swiss trading venues.
+
+<sup>2</sup> FINMA may also grant recognition to a foreign trading venue without being requested to do so if that foreign trading venue fulfils the conditions in paragraph 1.
+
+#### Art. 41c
+
+**Publication of lists**
+
+<sup>1</sup> FINMA shall publish a list of the recognised foreign trading venues.
+
+<sup>2</sup> The Federal Council shall publish a list of jurisdictions that fall within the definition in Article 41*b* paragraph 1 letter b.
 
 ### Section 2 Organised Trading Facilities
 
@@ -1067,7 +1117,6 @@ DLT trading facilities are subject to the following requirements for trading ven
 - d. guarantee of orderly trading (Art. 30);
 - e. supervision of trading (Art. 31);
 - f. collaboration between trading supervisory bodies (Art. 32);
-
 - g. suspension of trading (Art. 33 para. 2);
 - h. appeal body (Art. 37).
 
@@ -2350,9 +2399,9 @@ The amendment of other legislative instruments is set out in the Annex.
 
 **Financial market infrastructures**
 
-<sup>1</sup> Financial market infrastructures with authorisation or recognition at the time this Act enters into force must submit a new request for authorisation or recognition within one year of this Act coming into force. The authorisation or recognition procedure shall be limited to examination of the new requirements. The financial market infrastructures may continue their activity until the decision on their request is issued.
+<sup>1</sup> Financial market infrastructures with authorisation or recognition at the time this Act comes into force must submit a new request for authorisation or recognition within one year of this Act coming into force. The authorisation or recognition procedure shall be limited to examination of the new requirements. The financial market infrastructures may continue their activity until the decision on their request is issued.
 
-<sup>2</sup> Financial market infrastructures which are now subject to this Act shall report to FINMA within six months of this Act entering into force. Within one year of its entry into force, they must satisfy the requirements of this Act and submit an authorisation or recognition request to FINMA. They may continue their activity until the authorisation or recognition decision is issued.
+<sup>2</sup> Financial market infrastructures which are now subject to this Act shall report to FINMA within six months of this Act coming into force. Within one year of its coming into force, they must satisfy the requirements of this Act and submit an authorisation or recognition request to FINMA. They may continue their activity until the authorisation or recognition decision is issued.
 
 <sup>3</sup> In special cases, FINMA may extend the deadlines set out in paragraphs 1 and 2.
 
@@ -2360,19 +2409,19 @@ The amendment of other legislative instruments is set out in the Annex.
 
 **Foreign participants on a trading venue**
 
-Foreign participants on a trading venue which at the time of this Act's entry into force have FINMA authorisation as a foreign stock exchange member do not require new authorisation. They must meet the requirements of this Act within one year of its entry into force.
+Foreign participants on a trading venue which at the time of this Act coming into force have FINMA authorisation as a foreign stock exchange member do not require new authorisation. They must meet the requirements of this Act within one year of its coming into force.
 
 #### Art. 161
 
 **Interoperability agreements**
 
-Interoperability agreements existing at the time this Act enters into force do not require re-approval by FINMA.
+Interoperability agreements existing at the time this Act comes into force do not require re-approval by FINMA.
 
 #### Art. 162
 
 **Derivatives trading**
 
-The Federal Council shall determine which derivatives transactions still outstanding at the time this Act enters into force shall be subject to the notification and risk mitigation duties.
+The Federal Council shall determine which derivatives transactions still outstanding at the time this Act comes into force shall be subject to the notification and risk mitigation duties.
 
 #### Art. 163
 
@@ -2381,6 +2430,15 @@ The Federal Council shall determine which derivatives transactions still outstan
 <sup>1</sup> Anyone who, on 1 February 1997, directly, indirectly or acting in concert with third parties held securities which granted him or her more than 33⅓% but less than 50% of the voting rights of a target company must make an offer for all listed equity securities of the company if he or she acquires equity securities and thereby exceeds the threshold of 50% of the voting rights.
 
 <sup>2</sup> Paragraph 1 also applies to holdings which were covered by the provisions on public takeover offers for the first time on 1 May 2013.
+
+#### Art. 163a
+
+**Transitional provision to the amendment of 17 March 2023**[^163a-1]
+
+Foreign trading venues that have been recognised by FINMA in accordance with the Ordinance of 30 November 2018[^163a-2] on the Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland when the amendment of 17 March 2023 comes into force do not require new recognition under Article 41*a*.
+
+[^163a-1]: Inserted by No I of the FA of 17 March 2023 (Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland), in force from 1 Jan. 2024 to 31 Dec. 2028 ([AS 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [BBl 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+[^163a-2]: [SR 958.2](https://fedlex.data.admin.ch/eli/cc/2018/689)
 
 ### Section 4 Referendum and Commencement
 

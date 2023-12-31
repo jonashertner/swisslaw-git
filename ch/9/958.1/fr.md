@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 2015 sur les infrastructures des marchés fina
 short: LIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-853-20230101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/fr"
 
 (Loi sur l’infrastructure des marchés financiers, LIMF)[^t-1]
 
-du 19 juin 2015 (État le 1<sup>er</sup> janvier 2023)
+du 19 juin 2015 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -606,7 +606,7 @@ La FINMA octroie une autorisation à un participant étranger qui souhaite prend
 
 #### Art. 41
 
-**Reconnaissance de plates-formes de négociation étrangères**
+**Reconnaissance de plates-formes de négociation étrangères pour l’accès des participants suisses aux installations[^41-1]**
 
 <sup>1</sup> Les plates-formes de négociation ayant leur siège à l’étranger doivent obtenir la reconnaissance de la FINMA avant d’accorder aux participants suisses assujettis à la surveillance de la FINMA l’accès direct à leurs installations.
 
@@ -631,6 +631,56 @@ Une plate-forme de négociation étrangère est réputée reconnue dès lors que
 - b. les conditions visées à l’al. 2, let. b, sont remplies.
 
 <sup>4</sup> La FINMA peut refuser d’octroyer la reconnaissance si l’État dans lequel la plate-forme de négociation étrangère a son siège n’accorde pas aux plates-formes de négociation suisses l’accès effectif à ses marchés ni ne leur offre les mêmes conditions de concurrence que celles accordées aux plates-formes de négociation nationales. Toute obligation internationale divergente est réservée.
+
+[^41-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Reconnaissance de plates-formes étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse), en vigueur du 1<sup>er</sup> janv. 2024 au 31 déc. 2028 ([RO 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [FF 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+
+### Section 1*a* Reconnaissance de plates-formes de négociation étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse
+
+[^tit2-chap2-sec1a-1]
+
+[^tit2-chap2-sec1a-1]: Introduite par le ch. I de la LF du 17 mars 2023 (Reconnaissance de plates-formes étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse), en vigueur du 1<sup>er</sup> janv. 2024 au 31 déc. 2028 ([RO 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [FF 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+
+#### Art. 41a
+
+**Obligation d’obtenir une reconnaissance**
+
+<sup>1</sup>
+
+Les plates-formes de négociation ayant leur siège à l’étranger doivent au préalable obtenir une reconnaissance de la FINMA lorsque les conditions suivantes sont réunies:
+
+- a. des titres de participation de sociétés ayant leur siège en Suisse sont négociés sur ces plates-formes ou celles-ci permettent de négocier de tels titres d’une autre manière;
+- b. les titres de participation visés à la let. a sont cotés à une bourse en Suisse ou négociés sur une plate-forme de négociation en Suisse.
+
+<sup>2</sup>
+
+Une bourse étrangère n’a pas besoin de reconnaissance pour la négociation de titres de participation si ceux-ci répondent aux conditions suivantes:
+
+- a. ils y sont cotés ou admis à la négociation avec l’accord exprès de leur société émettrice donné avant le 30 novembre 2018;
+- b. ils y ont été cotés ou admis à la négociation avant le 30 novembre 2018;
+- c. leur société émettrice y assume les obligations liées à la cotation ou à l’admission à la négociation.
+
+<sup>3</sup> La reconnaissance est caduque dès que la plate-forme de négociation a son siège dans une juridiction mentionnée dans la liste visée à l’art. 41*c*, al. 2.
+
+#### Art. 41b
+
+**Conditions de reconnaissance et procédure**
+
+<sup>1</sup>
+
+La FINMA octroie la reconnaissance sur demande lorsque la plate-forme de négociation étrangère remplit les conditions suivantes:
+
+- a. elle est soumise à une réglementation et à une surveillance appropriées;
+- b. elle n’a pas son siège dans une juridiction qui soumet ses participants au marché à des règles restreignant la négociation, sur des plates-formes de négociation suisses, de titres de participation de sociétés ayant leur siège en Suisse et qui entrave de ce fait de manière substantielle la négociation de tels titres sur des plates-formes de négociation suisses.
+
+<sup>2</sup> Elle peut aussi reconnaître une plate-forme de négociation étrangère qui n’a pas déposé de demande si cette plate-forme remplit les exigences fixées à l’al. 1.
+
+#### Art. 41c
+
+**Publication de listes**
+
+<sup>1</sup> La FINMA publie une liste des plates-formes de négociation étrangères reconnues.
+
+<sup>2</sup> Le Conseil fédéral publie une liste des juridictions visées à l’art. 41*b*, al. 1, let. b.
 
 ### Section 2 Systèmes organisés de négociation
 
@@ -2386,6 +2436,15 @@ Le Conseil fédéral détermine quelles opérations sur dérivés encore ouverte
 
 <sup>2</sup> L’al. 1 s’applique également aux participations qui, le 1<sup>er</sup> mai 2013, n’étaient pas régies par les dispositions relatives aux OPA.
 
+#### Art. 163a
+
+**Disposition transitoire relative à la modification du 17 mars 2023**[^163a-1]
+
+Les plates-formes de négociation étrangères qui disposent, à l’entrée en vigueur de la modification du 17 mars 2023, d’une reconnaissance de la FINMA fondée sur l’ordonnance du 30 novembre 2018 concernant la reconnaissance de plates-formes étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse[^163a-2] n’ont pas besoin d’obtenir de nouvelle reconnaissance conformément à l’art. 41*a*.
+
+[^163a-1]: Introduit par le ch. I de la LF du 17 mars 2023 (Reconnaissance de plates-formes étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse), en vigueur du 1<sup>er</sup> janv. 2024 au 31 déc. 2028 ([RO 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [FF 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+[^163a-2]: [RS 958.2](https://fedlex.data.admin.ch/eli/cc/2018/689)
+
 ### Section 4 Référendum et entrée en vigueur
 
 #### Art. 164
@@ -2411,6 +2470,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853).

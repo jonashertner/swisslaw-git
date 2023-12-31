@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 2015 sulle infrastrutture del mercato finan
 short: LInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-853-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/it"
 
 (Legge sull’infrastruttura finanziaria, LInFi)
 
-del 19 giugno 2015 (Stato 1° gennaio 2023)
+del 19 giugno 2015 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -501,7 +501,7 @@ La sede di negoziazione può ammettere altre istituzioni quali partecipanti se g
 [^34-2]: Nuovo testo giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^34-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^34-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^34-5]: Nuova espressione giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).Di detta mod. è tenuto conto in tutto il testo.
+[^34-5]: Nuova espr. giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).Di detta mod. è tenuto conto in tutto il testo.
 [^34-6]: Introdotta dall’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^34-7]: Introdotta dall’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^34-8]: Introdotta dall’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
@@ -526,7 +526,7 @@ Il regolamento tiene conto degli standard internazionali riconosciuti e contiene
 
 <sup>3</sup> La borsa sorveglia l’osservanza del regolamento e adotta le sanzioni previste contrattualmente in caso di infrazione.
 
-[^35-1]: Nuova espressione giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Di detta mod. è tenuto conto in tutto il testo.
+[^35-1]: Nuova espr. giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Di detta mod. è tenuto conto in tutto il testo.
 [^35-2]: Nuovo testo giusta l’all. n. 5 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^35-3]: Art. 8 cpv. 1 lett. c e d non sono mai entrati in vigore.
 [^35-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
@@ -608,7 +608,7 @@ La FINMA accorda l’autorizzazione a un partecipante estero che intende parteci
 
 #### Art. 41
 
-**Riconoscimento di sedi di negoziazione estere**
+**Riconoscimento di sedi di negoziazione estere per concedere l’accesso ai partecipanti svizzeri[^41-1]**
 
 <sup>1</sup> Prima di accordare ai partecipanti svizzeri soggetti alla vigilanza della FINMA l’accesso diretto alle sue istituzioni, la sede di negoziazione con sede all’estero (sede di negoziazione estera) necessita del riconoscimento della FINMA.
 
@@ -633,6 +633,56 @@ La sede di negoziazione estera è considerata riconosciuta se la FINMA constata 
 - b. le condizioni di cui al capoverso 2 lettera b sono adempiute.
 
 <sup>4</sup> La FINMA può negare il riconoscimento se lo Stato in cui ha sede la sede di negoziazione estera non garantisce alle sedi di negoziazione svizzere un accesso effettivo ai propri mercati né offre loro le medesime condizioni di concorrenza di cui godono le sedi di negoziazione nazionali. Sono fatti salvi gli impegni internazionali di diverso tenore.
+
+[^41-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Riconoscimento di sedi di negoziazione estere per il commercio di titoli di partecipazione di società con sede in Svizzera), in vigore dal 1° gen. 2024 al 31 dic. 2028 ([RU 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [FF 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+
+### Sezione 1*a*: Riconoscimento di sedi di negoziazione estere per il commercio di titoli di partecipazione di società con sede in Svizzera
+
+[^tit2-chap2-sec1a-1]
+
+[^tit2-chap2-sec1a-1]: Introdotta dal n. I della LF del 17 mar. 2023 (Riconoscimento di sedi di negoziazione estere per il commercio di titoli di partecipazione di società con sede in Svizzera), in vigore dal 1° gen. 2024 al 31 dic. 2028 ([RU 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [FF 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+
+#### Art. 41a
+
+**Obbligo di riconoscimento**
+
+<sup>1</sup>
+
+Le sedi di negoziazione con sede all’estero necessitano previamente di un riconoscimento della FINMA se:
+
+- a. vi vengono negoziati titoli di partecipazione di società con sede in Svizzera o se esse consentono in altro modo il commercio di simili titoli di partecipazione; e
+- b. i titoli di partecipazione di cui alla lettera a sono quotati in una borsa in Svizzera o negoziati presso una sede di negoziazione svizzera.
+
+<sup>2</sup>
+
+Una borsa estera non necessita di un riconoscimento per il commercio di titoli di partecipazione:
+
+- a. che sono quotati o ammessi al commercio nella borsa in questione con il consenso esplicito dell’emittente dato prima del 30 novembre 2018;
+- b. che sono stati quotati o ammessi al commercio nella borsa in questione prima del 30 novembre 2018; e
+- c. il cui emittente si assume presso la borsa in questione gli obblighi connessi con la quotazione o l’ammissione al commercio.
+
+<sup>3</sup> Il riconoscimento decade non appena la sede di negoziazione ha la sua sede in una Giurisdizione secondo l’articolo 41*c* capoverso 2.
+
+#### Art. 41b
+
+**Condizioni per il riconoscimento e procedura**
+
+<sup>1</sup>
+
+La FINMA accorda il riconoscimento su domanda se la sede di negoziazione estera:
+
+- a. sottostà a una regolamentazione e a una vigilanza adeguate; e
+- b. non ha la sua sede in una Giurisdizione che pone restrizioni ai suoi partecipanti al mercato per il commercio, presso sedi di negoziazione svizzere, di titoli di partecipazione di società con sede in Svizzera, pregiudicando così notevolmente il commercio di questi titoli presso le sedi di negoziazione svizzere.
+
+<sup>2</sup> Se la sede di negoziazione soddisfa i requisiti di cui al capoverso 1, la FINMA può accordare il riconoscimento anche se non è stata presentata alcuna domanda.
+
+#### Art. 41c
+
+**Pubblicazione di elenchi**
+
+<sup>1</sup> La FINMA pubblica un elenco delle sedi di negoziazione estere riconosciute.
+
+<sup>2</sup> Il Consiglio federale pubblica un elenco delle Giurisdizioni di cui all’articolo 41*b* capoverso 1 lettera b.
 
 ### Sezione 2: Sistemi organizzati di negoziazione
 
@@ -2386,6 +2436,15 @@ Il Consiglio federale stabilisce quali operazioni in derivati ancora in corso al
 
 <sup>2</sup> Il capoverso 1 si applica anche alle partecipazioni interessate dalle disposizioni sulle OPA per la prima volta il 1° maggio 2013.
 
+#### Art. 163a
+
+**Disposizione transitoria della modifica del 17 marzo 2023**[^163a-1]
+
+Non necessitano di un nuovo riconoscimento secondo l’articolo 41*a* le sedi di negoziazione estere che, all’entrata in vigore della modifica del 17 marzo 2023, dispongono di un riconoscimento della FINMA ai sensi dell’ordinanza del 30 novembre 2018[^163a-2] concernente il riconoscimento di sedi di negoziazione estere per il commercio di titoli di partecipazione di società con sede in Svizzera.
+
+[^163a-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Riconoscimento di sedi di negoziazione estere per il commercio di titoli di partecipazione di società con sede in Svizzera), in vigore dal 1° gen. 2024 al 31 dic. 2028 ([RU 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [FF 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+[^163a-2]: [RS 958.2](https://fedlex.data.admin.ch/eli/cc/2018/689)
+
 ### Sezione 4: Referendum ed entrata in vigore
 
 #### Art. 164
@@ -2396,7 +2455,7 @@ Il Consiglio federale stabilisce quali operazioni in derivati ancora in corso al
 
 <sup>3</sup> Pone in vigore gli articoli 112–115 (obbligo di commercio presso una sede di negoziazione o un sistema organizzato di negoziazione) soltanto se opportuno alla luce degli sviluppi internazionali.
 
-Data dell’entrata in vigore: 1° gennaio 2016[^164-1]Art. 112–115: 1° agosto 2017[^164-2]
+Data dell’entrata in vigore: 1° gennaio 2016[^164-1] Art. 112–115: 1° agosto 2017[^164-2]
 
 [^164-1]: DCF del 25 nov. 2015.
 [^164-2]: O del 5 lug. 2017 ([RU 2017 3713](https://fedlex.data.admin.ch/eli/oc/2017/428)).

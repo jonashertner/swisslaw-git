@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Juni 2015 über die Finanzmarktinfrastrukturen und 
 short: FinfraG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-853-20230101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/de"
 
 (Finanzmarktinfrastrukturgesetz, FinfraG)
 
-vom 19. Juni 2015 (Stand am 1. Januar 2023)
+vom 19. Juni 2015 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -606,7 +606,7 @@ Die FINMA erteilt einem ausländischen Teilnehmer, welcher an einem Schweizer Ha
 
 #### Art. 41
 
-**Anerkennung ausländischer Handelsplätze**
+**Anerkennung ausländischer Handelsplätze für Zugangsgewährung für Schweizer Teilnehmer[^41-1]**
 
 <sup>1</sup> Handelsplätze mit Sitz im Ausland haben die Anerkennung der FINMA einzuholen, bevor sie von der FINMA beaufsichtigten Schweizer Teilnehmern direkten Zugang zu ihren Einrichtungen gewähren.
 
@@ -631,6 +631,56 @@ Ein ausländischer Handelsplatz gilt als anerkannt, wenn die FINMA feststellt, d
 - b. die Voraussetzungen nach Absatz 2 Buchstabe b erfüllt sind.
 
 <sup>4</sup> Die FINMA kann die Anerkennung verweigern, wenn der Staat, in dem der ausländische Handelsplatz seinen Sitz hat, den Schweizer Handelsplätzen weder tatsächlichen Zugang zu seinen Märkten gewährt noch die gleichen Wettbewerbsmöglichkeiten bietet wie inländischen Handelsplätzen. Vorbehalten bleiben abweichende internationale Verpflichtungen.
+
+[^41-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Anerkennung ausländischer Handelsplätze für den Handel mit Beteiligungspapieren von Gesellschaften mit Sitz in der Schweiz), in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2028 ([AS 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [BBl 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+
+### 1*a**.* Abschnitt: Anerkennung ausländischer Handelsplätze für den Handel mit Beteiligungspapieren von Gesellschaften mit Sitz in der Schweiz
+
+[^tit2-chap2-sec1a-1]
+
+[^tit2-chap2-sec1a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Anerkennung ausländischer Handelsplätze für den Handel mit Beteiligungspapieren von Gesellschaften mit Sitz in der Schweiz), in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2028 ([AS 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [BBl 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+
+#### Art. 41a
+
+**Anerkennungspflicht**
+
+<sup>1</sup>
+
+Handelsplätze mit Sitz im Ausland bedürfen vorgängig einer Anerkennung der FINMA, wenn:
+
+- a. an ihnen Beteiligungspapiere von Gesellschaften mit Sitz in der Schweiz gehandelt werden oder sie den Handel mit solchen Beteiligungspapieren anderweitig ermöglichen; und
+- b. die Beteiligungspapiere nach Buchstabe a an einer Börse in der Schweiz kotiert sind oder an einem Schweizer Handelsplatz gehandelt werden.
+
+<sup>2</sup>
+
+Keine Anerkennung benötigt eine ausländische Börse für den Handel mit Beteiligungspapieren:
+
+- a. die mit einem vor dem 30. November 2018 erteilten ausdrücklichen Einverständnis von deren Emittent an der betreffenden Börse kotiert oder zum Handel zugelassen sind;
+- b. die an der betreffenden Börse vor dem 30. November 2018 kotiert oder zum Handel zugelassen wurden; und
+- c. deren Emittent an der betreffenden Börse die mit der Kotierung oder Zulassung zum Handel verbundenen Pflichten übernimmt.
+
+<sup>3</sup> Die Anerkennung fällt dahin, sobald der Handelsplatz seinen Sitz in einer Jurisdiktion nach Artikel 41*c* Absatz 2 hat.
+
+#### Art. 41b
+
+**Voraussetzungen für die Anerkennung und Verfahren**
+
+<sup>1</sup>
+
+Die FINMA erteilt die Anerkennung auf Gesuch hin, wenn der ausländische Handelsplatz:
+
+- a. einer angemessenen Regulierung und Aufsicht untersteht; und
+- b. seinen Sitz nicht in einer Jurisdiktion hat, die ihre Marktteilnehmer im Handel mit Beteiligungspapieren von Gesellschaften mit Sitz in der Schweiz an Schweizer Handelsplätzen einschränkt und damit den Handel mit solchen Beteiligungspapieren an Schweizer Handelsplätzen erheblich beeinträchtigt.
+
+<sup>2</sup> Sie kann einen ausländischen Handelsplatz auch ohne Gesuch anerkennen, wenn er die Anforderungen nach Absatz 1 erfüllt.
+
+#### Art. 41c
+
+**Veröffentlichung von Listen**
+
+<sup>1</sup> Die FINMA publiziert eine Liste der anerkannten ausländischen Handelsplätze.
+
+<sup>2</sup> Der Bundesrat publiziert eine Liste der Jurisdiktionen nach Artikel 41*b* Absatz 1 Buchstabe b.
 
 ### 2. Abschnitt: Organisierte Handelssysteme
 
@@ -2383,6 +2433,15 @@ Der Bundesrat bestimmt, welche Derivatgeschäfte, die bei Inkrafttreten dieses G
 <sup>1</sup> Wer am 1. Februar 1997 direkt, indirekt oder in gemeinsamer Absprache mit Dritten über Beteiligungspapiere verfügte, die ihm die Kontrolle über mehr als 33⅓ Prozent, aber weniger als 50 Prozent der Stimmrechte einer Zielgesellschaft verliehen, muss ein Angebot für alle kotierten Beteiligungspapiere der Gesellschaft unterbreiten, wenn er Beteiligungspapiere erwirbt und damit den Grenzwert von 50 Prozent der Stimmrechte überschreitet.
 
 <sup>2</sup> Absatz 1 gilt auch für Beteiligungen, die am 1. Mai 2013 erstmals von den Bestimmungen über die öffentlichen Kaufangebote erfasst wurden.
+
+#### Art. 163a
+
+**Übergangsbestimmung zur Änderung vom 17. März 2023**[^163a-1]
+
+Ausländische Handelsplätze, die bei Inkrafttreten der Änderung vom 17. März 2023 über eine Anerkennung der FINMA nach der Verordnung vom 30. November 2018[^163a-2] über die Anerkennung ausländischer Handelsplätze für den Handel mit Beteiligungspapieren von Gesellschaften mit Sitz in der Schweiz verfügen, bedürfen keiner neuen Anerkennung nach Artikel 41*a*.
+
+[^163a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Anerkennung ausländischer Handelsplätze für den Handel mit Beteiligungspapieren von Gesellschaften mit Sitz in der Schweiz), in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2028 ([AS 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [BBl 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
+[^163a-2]: [SR 958.2](https://fedlex.data.admin.ch/eli/cc/2018/689)
 
 ### 4. Abschnitt: Referendum und Inkrafttreten
 
