@@ -4,13 +4,13 @@ number: "311.1"
 title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2021-09-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-08
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-03-16
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2935/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3540/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2935/pdf_file"
 
 (LACP)
 
-du 12.05.2016 (état 01.09.2021)
+du 12.05.2016 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -286,6 +286,14 @@ ordonne:[^ingress-1]
 **d) Département dont relève la santé publique**
 
 <sup>1</sup> Le département dont relève la santé publique est l'autorité compétente pour recevoir, à des fins statistiques, les annonces en matière d'interruption de grossesse.
+
+#### Art. 24a
+
+**e) Préposé à la protection des données et à la transparence**
+
+<sup>1</sup> Dans le domaine de la protection des données personnelles, lorsque l’autorité compétente pour le traitement est cantonale, le préposé cantonal à la protection des données et à la transparence (préposé cantonal) est compétent en lieu et place du préposé fédéral.
+
+<sup>2</sup> Une vérification au sens de l’article 349g CP ne peut être effectuée qu’à l’encontre d’une autorité assujettie à la surveillance du préposé cantonal.
 
 ### 2.3 Procédures
 
