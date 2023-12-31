@@ -1,24 +1,24 @@
 ---
 canton: VS
 number: "312.5"
-title: Ausführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten
+title: "Ausführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten *"
 short: AGOHG
 language: de
-version: 2009-01-01
-corrected: 2017-09-05
-version_adopted: 2008-04-10
+version: 2024-01-01
+version_adopted: 2023-05-11
 adopted: 2008-04-10
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/312.5"
-pdf: "https://lex.vs.ch/api/de/versions/585/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3240/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten
 
-vom 10. April 2008
+(AGOHG)
+
+vom 10.04.2008 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -30,7 +30,7 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### Abschnitt 1: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -44,13 +44,13 @@ verordnet:
 
 **Gleichstellung**
 
-Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
 #### Art. 3
 
 **Vorbehalt des Subventionsgesetzes**
 
-Die Bestimmungen des kantonalen Subventionsgesetzes vom 13. November 1995 sind unmittelbar und vollumfänglich auf alle im vorliegenden Gesetz vorgesehenen Subventionen anwendbar. Letzteres bleibt nur insoweit anwendbar, als sie den Bestimmungen des Subventionsgesetzes nicht entgegenstehen.
+<sup>1</sup> Die Bestimmungen des kantonalen Subventionsgesetzes vom 13. November 1995 sind unmittelbar und vollumfänglich auf alle im vorliegenden Gesetz vorgesehenen Subventionen anwendbar. Letzteres bleibt nur insoweit anwendbar, als sie den Bestimmungen des Subventionsgesetzes nicht entgegenstehen.
 
 #### Art. 4
 
@@ -60,7 +60,7 @@ Die Bestimmungen des kantonalen Subventionsgesetzes vom 13. November 1995 sind u
 
 <sup>2</sup> Er unterstützt die Aus- und Weiterbildung der Personen, welche mit der Hilfe an Opfer von Straftaten betraut sind.
 
-### Abschnitt 2: Beratungsstellen
+## 2 Beratungsstellen
 
 #### Art. 5
 
@@ -81,12 +81,9 @@ Die Bestimmungen des kantonalen Subventionsgesetzes vom 13. November 1995 sind u
 <sup>1</sup> Die Beratungsstellen erfüllen folgende Aufgaben:
 
 - a) die Opfer über die Hilfe an Opfer von Straftaten informieren und beraten;
-
 - b) den Opfern innert einer angemessenen Frist die durch das OHG vorgesehene Soforthilfe zukommen lassen;
-
 - c) falls notwendig, die durch das OHG vorgesehene längerfristige Hilfe anbieten;
-
-- d) den in Artikel 36 Absatz 1 OHG vorgesehenen Beistand leisten.
+- d) die Rolle der Vertrauensperson, wie in der Strafprozessordnung vorgesehen, wahrnehmen.
 
 <sup>2</sup> Die Beratungsstellen geben den Opfern die angemessene medizinische, psychologische, soziale, materielle und rechtliche Hilfe, die sie benötigen. Diese kann von der Beratungsstelle selbst oder durch öffentliche oder private, ernannte oder anerkannte Drittinstanzen erbracht werden.
 
@@ -96,23 +93,23 @@ Die Bestimmungen des kantonalen Subventionsgesetzes vom 13. November 1995 sind u
 
 **Rechtlicher Beistand**
 
-Die von den OHG-Zentren übernommenen Anwaltskosten werden zum Tarif für unentgeltlichen Rechtsbeistand verrechnet.
+<sup>1</sup> Die von den OHG-Zentren übernommenen Anwaltskosten werden zum Tarif für unentgeltlichen Rechtsbeistand verrechnet.
 
 #### Art. 8
 
 **Verfahren**
 
-<sup>1</sup> Die durch die Beratungsstellen gefassten Entscheide können Gegenstand einer Einsprache im Sinne der Artikel 34a ff. des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) sein.
+<sup>1</sup> Die durch die Beratungsstellen gefassten Entscheide können Gegenstand einer Einsprache im Sinne der Artikel 34a und folgende des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) sein.
 
 <sup>2</sup> Die Einspracheentscheide der Beratungsstellen können Gegenstand einer Beschwerde an den Staatsrat sein.
 
-### Abschnitt 3: Entschädigung und Genugtuung
+## 3 Entschädigung und Genugtuung
 
 #### Art. 9
 
 **Zuständige Behörde**
 
-<sup>1</sup> Das für den Straf- und Massnahmenvollzug zuständige Departement (nach-stehend Departement) entscheidet erstinstanzlich über Gesuche um Entschädigung und Genugtuung.
+<sup>1</sup> Das für den Straf- und Massnahmenvollzug zuständige Departement (nachstehend: Departement) entscheidet erstinstanzlich über Gesuche um Entschädigung und Genugtuung.
 
 <sup>2</sup> Allfällige Gesuche um Vorschuss werden vorrangig und innert kürzester Frist behandelt.
 
@@ -150,21 +147,19 @@ Die von den OHG-Zentren übernommenen Anwaltskosten werden zum Tarif für unentg
 
 <sup>2</sup> Das Departement kann auf die Rückerstattung eines geleisteten Vorschusses ganz oder teilweise verzichten, wenn diese das Opfer in eine schwierige Lage bringt.
 
-**unterliegen der**
-
-<sup>3</sup> Die Entscheide des Departements Verwaltungsgerichtsbeschwerde an das Kantonsgericht; dieses hat freie Überprüfungsbefugnis.
+<sup>3</sup> Die Entscheide des Departements unterliegen der Verwaltungsgerichtsbeschwerde an das Kantonsgericht; dieses hat freie Überprüfungsbefugnis.
 
 <sup>4</sup> Es werden keine Kosten erhoben und keine Parteientschädigungen ausgerichtet.
 
 <sup>5</sup> Die Kosten können auf die mutwillig handelnde Partei überwälzt werden.
 
-### Abschnitt 4: Subrogation und Inkasso
+## 4 Subrogation und Inkasso
 
 #### Art. 13
 
 **Subrogation**
 
-Falls der Staat Leistungen für Soforthilfe, längerfristige Hilfe, Entschädigungen oder Genugtuungen in Anwendung des OHG gewährt, tritt er in dieselben Rechte, welche der Anspruchsberechtigte gegenüber dem Straftäter oder einem Dritten geltend machen kann.
+<sup>1</sup> Falls der Staat Leistungen für Soforthilfe, längerfristige Hilfe, Entschädigungen oder Genugtuungen in Anwendung des OHG gewährt, tritt er in dieselben Rechte, welche der Anspruchsberechtigte gegenüber dem Straftäter oder einem Dritten geltend machen kann.
 
 #### Art. 14
 
@@ -180,15 +175,17 @@ Falls der Staat Leistungen für Soforthilfe, längerfristige Hilfe, Entschädigu
 
 **Anfechtung**
 
-Im Bestreitungsfalle erfolgt das Inkasso vor den Gerichtsbehörden gemäss den Bestimmungen des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 und des Reglements betreffend die Vertretung des Staates vor den Gerichten vom 22. Juni 1988.
+<sup>1</sup> Im Bestreitungsfalle erfolgt das Inkasso vor den Gerichtsbehörden gemäss den Bestimmungen des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 und des Reglements betreffend die Vertretung des Staates vor den Gerichten vom 22. Juni 1988.
 
-### Abschnitt 5: Schutz und besondere Rechte im Strafverfahren
+## 5 Schutz und besondere Rechte im Strafverfahren
 
 #### Art. 16
 
-Untersuchung und Urteil der Straftaten gegen die sexuelle Integrität Auf Gesuch des Untersuchungsrichters oder des Präsidenten des angegangenen Gerichtes bestimmt das Kantonsgericht einen Richter ad hoc, um die Anwendung von Artikel 35 Buchstaben a und b OHG zu gewährleisten.
+**Untersuchung und Urteil der Straftaten gegen die sexuelle Integrität**
 
-### Abschnitt 6: Schlussbestimmungen
+<sup>1</sup> …
+
+## 6 Schlussbestimmungen
 
 #### Art. 17
 
@@ -202,38 +199,19 @@ Untersuchung und Urteil der Straftaten gegen die sexuelle Integrität Auf Gesuch
 
 **Änderung und Aufhebung des bisherigen Rechts**
 
-<sup>1</sup> Das Ausführungsgesetz des Bundesgesetzes über die Hilfe an Opfer von Straftaten vom 11. November 1992 wird aufgehoben.
+<sup>1</sup> Das Ausführungsgesetz des Bundesgesetzes über die Hilfe an Opfer vonStraftaten vom 11. November 1992 wird aufgehoben.
 
-<sup>2</sup> Das Reglement über die kantonale Kommission für die Hilfe an Opfer von Straftaten vom 12. April 1995 wird aufgehoben.
+<sup>2</sup> Das Reglement über die kantonale Kommission für die Hilfe an Opfer vonStraftaten vom 12. April 1995 wird aufgehoben.
 
-<sup>3</sup> Die Walliser Strafprozessordnung vom 22. Februar 1962 wird wie folgt abgeändert:
-
-#### Art.1a
-
-Opfer im Sinne des Bundesgesetzes über die Hilfe an Opfer von Straftaten 1. Der Schutz und die Rechte des Opfers im Strafverfahren, wie auch der Schutz der Persönlichkeit von Kindern als Opfer, sind in Kapitel 6 des Bundesgesetzes über die Hilfe an Opfer von Straftaten geregelt.
-
-- 2\. Der Begriff Opfer oder Kind ist in den Artikeln 1 und 41 des Bundesgesetzes über die Hilfe an Opfer von Straftaten umschrieben.
-
-#### Art. 94bis
-
-**Ziff. 4**
-
-- 4\. Die Einvernahme von Kindern als Opfer wird durch Artikel 43 des Bundesgesetzes über die Hilfe an Opfer von Straftaten geregelt.
-
-#### Art. 130
-
-**Ziff. 7 Einvernahme der Zeugen und der Sachverständigen**
-
-- 7\. Die Einvernahme von Kindern als Opfer wird durch Artikel 43 des Bundesgesetzes über die Hilfe an Opfer von Straftaten geregelt.
+<sup>3</sup> Die Walliser Strafprozessordnung vom 22. Februar 1962 wird abgeändert.
 
 #### Art. 19
 
 **Übergangsrecht**
 
-Das bisherige Recht gilt für:
+<sup>1</sup> Das bisherige Recht gilt für:
 
 - a) Ansprüche auf Entschädigung oder Genugtuung für Straftaten, die vor Inkrafttreten des OHG vom 23. März 2007 und des vorliegenden Gesetzes verübt worden sind; für Ansprüche auf Entschädigung oder Genugtuung für Straftaten, die weniger als zwei Jahre vor dem Inkrafttreten dieser Gesetze verübt worden sind, gelten die Fristen gemäss Artikel 10 des vorliegenden Gesetzes und Artikel 25 OHG;
-
 - b) Gesuche um Kostenbeiträge, die vor dem Inkrafttreten des vorliegenden Gesetzes und des OHG vom 23. März 2007 eingereicht wurden.
 
 #### Art. 20
@@ -244,14 +222,4 @@ Das bisherige Recht gilt für:
 
 <sup>2</sup> Der Staatsrat bestimmt das Inkrafttreten.
 
-So angenommen in einziger Lesung (Art. 101 RGR) im Grossen Rat in Sitten, den 10. April 2008.
-
-Der Präsident des Grossen Rates: Georges Mariétan Der Chef des Parlamentsdienstes: Claude Bumann
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten Ausführungsgesetz zum Bundesgesetz über
-
-**01.01.2009**
-
-die Hilfe an Opfer von Straftaten vom 10.
-
-### April 2008
+CSW BO/Abl. 26/2008
