@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "611.11"
-title: Verordnung des Regierungsrates zum Gesetz über den Finanzhaushalt
+title: Finanzhaushaltsverordnung
 short: FHV
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-08-21
+version: 2024-01-01
+valid_until: 2024-05-31
+version_adopted: 2023-05-30
 adopted: 2024-04-30
 in_force: 2024-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/611.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2175/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2710/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über den Finanzhaushalt
+# Finanzhaushaltsverordnung
 
 FHV
 
 (FHV)
 
-vom 29.11.2011 (Stand 01.01.2019)
+vom 29.11.2011 (Stand 01.01.2024)
 
 ## 1. Allgemeines und Grundsätze
 
@@ -29,7 +29,7 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 **Geltungsbereich**
 
-<sup>1</sup> Das Gesetz über den Finanzhaushalt des Staates[^1-1] und diese Verordnung finden auf die Ämter und Betriebe gemäss Organisationsplan sowie die Organe der Rechtspflege Anwendung.
+<sup>1</sup> Das Finanzhaushaltsgesetz (FHG)[^1-1] und diese Verordnung finden auf die Ämter und Betriebe gemäss Organisationsplan sowie die Organe der Rechtspflege Anwendung.
 
 [^1-1]: RB [611.1](https://www.rechtsbuch.tg.ch/data/611.1/de)
 
@@ -45,7 +45,7 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 **Neue Ausgaben**
 
-<sup>1</sup> Der Regierungsrat bezeichnet im Budget und soweit möglich bereits im Finanzplan diejenigen Ausgabenpositionen, die nicht als gebunden gelten und somit gemäss § 23 der Kantonsverfassung[^3-1] dem obligatorischen oder fakultativen Referendum unterstehen.
+<sup>1</sup> Der Regierungsrat bezeichnet im Budget und soweit möglich bereits im Finanzplan diejenigen Ausgabenpositionen, die nicht als gebunden gelten und somit gemäss § 23 der Kantonsverfassung (KV)[^3-1] dem obligatorischen oder fakultativen Referendum unterstehen.
 
 [^3-1]: RB [101](https://www.rechtsbuch.tg.ch/data/101/de)
 
@@ -89,8 +89,8 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 <sup>2</sup> Soweit nicht anders geregelt, gelten über bewilligte Budgetkredite die folgenden Verfügungskompetenzen:
 
-- 1\. Ämter und Betriebe bis — Fr. 50'000;
-- 2\. Departemente und Staatskanzlei über — Fr. 50'000.
+- 1\. Ämter und Betriebe bis — Fr. 50'000
+- 2\. Departemente und Staatskanzlei über — Fr. 50'000
 
 <sup>3</sup> Die Departemente und die Staatskanzlei können die Verfügungsberechtigung ihrer Ämter und Betriebe einschränken oder erhöhen.
 
@@ -138,9 +138,9 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 <sup>1</sup> Der Kantonsanteil an der leistungsabhängigen Schwerverkehrsabgabe des Bundes (LSVA) gilt als frei verfügbare Einnahme und wird wie folgt verbucht:
 
-- 1\. 45 % des Kantonsanteils werden zur Reduktion der Nettobelastung der Aufwendungen im Kantonsstrassenunterhalt eingesetzt;
-- 2\. 45 % des Kantonsanteils werden zur Reduktion der Nettobelastung der Aufwendungen im regionalen Personenverkehr eingesetzt;
-- 3\. 10 % des Kantonsanteils werden in eine Rückstellung, insbesondere für besondere Vorhaben und Projekte des gemischten Verkehrs, überführt.
+- 1\. 45 % des Kantonsanteils werden zur Reduktion der Nettobelastung der Aufwendungen im Kantonsstrassenunterhalt eingesetzt
+- 2\. 45 % des Kantonsanteils werden zur Reduktion der Nettobelastung der Aufwendungen im regionalen Personenverkehr eingesetzt
+- 3\. 10 % des Kantonsanteils werden in eine Rückstellung, insbesondere für besondere Vorhaben und Projekte des gemischten Verkehrs, überführt
 
 #### § 16
 
@@ -156,8 +156,8 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 <sup>2</sup> Der kantonale Anteil am Ertrag der Swisslos Interkantonale Landeslotterie wird wie folgt aufgeteilt:
 
-- 1\. 78 % an den Lotteriefonds;
-- 2\. 22 % an den Sportfonds.
+- 1\. 75 % an den Lotteriefonds
+- 2\. 25 % an den Sportfonds
 
 <sup>3</sup> Das Departement für Finanzen und Soziales regelt die Einzelheiten des Vollzugs.
 
@@ -197,16 +197,16 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 <sup>2</sup> Im Anhang zur Bilanz sind folgende Informationen und Übersichten aufzulisten:
 
-- 1\. Eigenkapitalnachweis;
-- 2\. Eventualverpflichtungen;
-- 3\. Verpflichtungskredite;
-- 4\. Darlehen des Finanzvermögens;
-- 5\. abzuschreibende Verwaltungsvermögen;
-- 6\. Immobilienbestand;
-- 7\. Beteiligungen;
-- 8\. Fremdkapital;
-- 9\. Rückstellungen;
-- 10\. Spezialfinanzierungen.
+- 1\. Eigenkapitalnachweis
+- 2\. Eventualverpflichtungen
+- 3\. Verpflichtungskredite
+- 4\. Darlehen des Finanzvermögens
+- 5\. abzuschreibende Verwaltungsvermögen
+- 6\. Immobilienbestand
+- 7\. Beteiligungen
+- 8\. Fremdkapital
+- 9\. Rückstellungen
+- 10\. Spezialfinanzierungen
 
 #### § 23
 
@@ -214,10 +214,10 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 <sup>1</sup> Die Abschreibung des Verwaltungsvermögens erfolgt grundsätzlich linear, basierend auf der Nutzungsdauer. Es gelten folgende Mindestabschreibungssätze:
 
-- 1\. Immobilien — 3 %;
-- 2\. Mobilien — 10 %;
-- 3\. Informatikinvestitionen — 20 %;
-- 4\. Strassenbauten — 2,5 %.
+- 1\. Immobilien — 3 %
+- 2\. Mobilien — 10 %
+- 3\. Informatikinvestitionen — 20 %
+- 4\. Strassenbauten — 2,5 %
 
 <sup>1<sup>bis</sup></sup> Für Informatikinvestitionen mit einer Nutzungsdauer von mehr als zehn Jahren gilt ein Mindestabschreibungssatz von 10 %.
 
@@ -241,9 +241,9 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 <sup>1</sup> Instrumente des finanziellen Risikomanagements sind insbesondere:
 
-- 1\. Risikoportfolio und -landkarte;
-- 2\. Internes Kontrollsystem (IKS);
-- 3\. Controllingbericht.
+- 1\. Risikoportfolio und -landkarte
+- 2\. Internes Kontrollsystem (IKS)
+- 3\. Controllingbericht
 
 <sup>2</sup> Das Departement definiert Richtlinien über die Organisation und die Umsetzung des Risikomanagements. Der Regierungsrat genehmigt die Richtlinien.
 
@@ -367,16 +367,8 @@ vom 29.11.2011 (Stand 01.01.2019)
 
 <sup>2</sup> Werden wesentliche Mängel festgestellt, setzt die Finanzkontrolle der geprüften Stelle eine Frist um auf dem Dienstweg schriftlich dazu Stellung zu nehmen und Auskunft über die getroffenen oder eingeleiteten Massnahmen zu erteilen.
 
-#### § 42
+#### § 42–43
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates zum Gesetz über den Finanzhaushalt vom 26. Mai 1992 wird aufgehoben.
-
-#### § 43
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung und das Gesetz über den Finanzhaushalt des Staates vom 15. Juni 2011 treten am 1. Januar 2012 in Kraft.
+**…**
 
 ABl. 49/2011
