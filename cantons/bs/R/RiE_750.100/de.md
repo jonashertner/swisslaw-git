@@ -4,13 +4,12 @@ number: RiE 750.100
 title: Ordnung betreffend Strassen- und Kanalisationsbeiträge sowie Gebühren für die Ableitung von Abwasser
 short: Strassen- und Kanalisationsordnung
 language: de
-version: 2018-02-08
-valid_until: 2023-12-31
-version_adopted: 2017-09-28
+version: 2024-01-01
+version_adopted: 2023-03-29
 adopted: 2008-10-30
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20750.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4341/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5937/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,17 +20,20 @@ Strassen- und Kanalisationsordnung | Riehen: Einwohnergemeinde[^t-1]
 
 (Strassen- und Kanalisationsordnung)
 
-Vom 30. Oktober 2008 (Stand 8. Februar 2018)
+Vom 30. Oktober 2008 (Stand 1. Januar 2024)
 
-Der Einwohnerrat Riehen
+Der Einwohnerrat Riehen,
 
-beschliesst auf Antrag des Gemeinderats und der Sachkommission für Siedlungsentwicklung, Verkehr, Versorgung und Umwelt sowie gestützt auf das Bau- und Planungsgesetz (BPG) vom 17. November 1999[^ingress-1], auf die kantonale Gewässerschutzverordnung vom 12. Dezember 2000[^ingress-2]), auf das Gesetz über die Verwaltungsgebühren vom 9. März 1972[^ingress-3] und auf die Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-4] folgende Ordnung:
+gestützt auf das Bau- und Planungsgesetz (BPG) vom 17. November 1999[^ingress-1], die kantonale Gewässerschutzverordnung vom 12. Dezember 2000[^ingress-2], das Gesetz über die Verwaltungsgebühren vom 9. März 1972[^ingress-3], § 44 der Finanzhaushaltordnung der Einwohnergemeinde Riehen vom 15. Dezember 2021[^ingress-4], die Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-5] sowie auf Antrag des Gemeinderats und der Sachkommission für Siedlungsentwicklung, Verkehr, Versorgung und Umwelt,
+
+beschliesst:
 
 [^t-1]: Vom Regierungsrat genehmigt am 25. 11. 2008.
 [^ingress-1]: SG [730.100](https://www.gesetzessammlung.bs.ch/data/730.100/de).
 [^ingress-2]: SG [783.200](https://www.gesetzessammlung.bs.ch/data/783.200/de)
 [^ingress-3]: SG [153.800](https://www.gesetzessammlung.bs.ch/data/153.800/de).
-[^ingress-4]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de).
+[^ingress-4]: [RiE 610.100](https://www.gesetzessammlung.bs.ch/data/RiE%20610.100/de)
+[^ingress-5]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de).
 
 ## I. Allgemeine Bestimmungen
 
@@ -171,6 +173,22 @@ beschliesst auf Antrag des Gemeinderats und der Sachkommission für Siedlungsent
 **Fördermassnahmen zur Entlastung der öffentlichen Kanalisation**
 
 <sup>1</sup> Der Gemeinderat kann Massnahmen der Grundeigentümerinnen und Grundeigentümer, die der Versickerung, der Retention oder Nutzung von Regenwasser dienen, durch Beiträge fördern.
+
+### D. Spezialfinanzierung Abwasserentsorgung
+
+#### § 12a
+
+<sup>1</sup> Die Gemeinde führt für die Abwasserentsorgung eine Spezialfinanzierung. Aus der Spezialfinanzierung werden finanziert:
+
+- a) Planung, Bau, Erneuerung, Unterhalt und Betrieb des Kanalisationsnetzes und der Spezialbauwerke inkl. Kosten für Abschreibungen und Wertberichtigungen;
+- b) kalkulatorische Zinskosten für das eingesetzte Kapital;
+- c) kalkulatorische Mieten und Verwaltungskosten.
+
+<sup>2</sup> Die Kanalisationsbeiträge und Abwasserableitungsgebühren werden als Einnahmen der Spezialfinanzierung verbucht.
+
+<sup>3</sup> Aufwand und Ertrag der Spezialfinanzierung werden in der Erfolgsrechnung verbucht und die Saldi beim Jahresabschluss bilanziert. Die bilanzierten Verpflichtungen oder Vorschüsse der Spezialfinanzierung sind zu verzinsen.
+
+<sup>4</sup> Für Ausgabenbewilligungen zu Lasten der Spezialfinanzierung gelten die ordentlichen Zuständigkeiten gemäss der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002.
 
 ## III. Kanalisationsanschlussleitungen
 
