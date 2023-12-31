@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2023-11-01
+version: 2024-01-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20231101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20231101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20231101/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. November 2023)
+vom 29. September 1995 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -165,13 +165,13 @@ Die Versicherung übernimmt die Kosten der folgenden Leistungen, soweit sie von 
   der Untersuchung oder Behandlung dienende Mittel und Gegenstände:
 
   - 1\. Produkte der Gruppe 05. Bandagen,
-  - 2\. Produkte der Gruppe 09.02.01 Transkutane elektrische Nervenstimulationsgeräte (TENS),
+  - 2\.[^4-8] Produkte der Gruppe 09.02 Geräte für die trans- und perkutane elektrische neuromuskuläre Modulation,
   - 3\. Produkte der Gruppe 16. Kälte- und/oder Wärmetherapie-Mittel,
   - 4\. Produkte der Gruppe 22. Fertigorthesen,
   - 5\. Produkte der Gruppe 23. Massorthesen,
   - 6\. Produkte der Gruppe 35. Verbandmaterial;
 
-- d.[^4-8]
+- d.[^4-9]
 
   Bildgebende Verfahren:
 
@@ -181,7 +181,7 @@ Die Versicherung übernimmt die Kosten der folgenden Leistungen, soweit sie von 
   - 4\. Diagnostischer Ultraschall,
   - 5\. Drei-Phasen-Skelettszintigraphie;
 
-- e.[^4-9] physiotherapeutische Leistungen nach Artikel 5.
+- e.[^4-10] physiotherapeutische Leistungen nach Artikel 5.
 
 [^4-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^4-2]: Fassung gemäss Ziff. I der V des EDI vom 17. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)).
@@ -190,8 +190,9 @@ Die Versicherung übernimmt die Kosten der folgenden Leistungen, soweit sie von 
 [^4-5]: Fassung gemäss Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^4-6]: Fassung gemäss Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^4-7]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^4-8]: Eingefügt durch Ziff. I der V des EDI vom 10. Juli 2000 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Fassung gemäss Ziff. I der V des EDI vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-9]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
+[^4-8]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^4-9]: Eingefügt durch Ziff. I der V des EDI vom 10. Juli 2000 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Fassung gemäss Ziff. I der V des EDI vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
+[^4-10]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
 
 ### 4. Abschnitt: Pharmazeutische Leistungen
 
@@ -207,10 +208,12 @@ Die Versicherung übernimmt die Kosten folgender Leistungen der Apothekerinnen u
 
 - a. Beratung beim Ausführen einer ärztlichen Verordnung, die mindestens ein Arzneimittel der Spezialitätenliste enthält;
 - b. Ausführung einer ärztlichen Verordnung ausserhalb der ortsüblichen Geschäftszeiten, wenn ein Notfall vorliegt;
-- c. Ersatz eines ärztlich verordneten Originalpräparates oder eines Generikums durch ein preisgünstigeres Generikum;
+- c.[^4a-1] Ersatz eines ärztlich verordneten Arzneimittels durch ein preisgünstigeres Arzneimittel mit gleicher Wirkstoffzusammensetzung;
 - d. ärztlich angeordnete Betreuung bei der Einnahme eines Arzneimittels.
 
 <sup>2</sup> Die Versicherung kann die Kosten von weitergehenden kostendämpfenden Leistungen zugunsten einer Gruppe von Versicherten im Rahmen eines Tarifvertrages übernehmen.
+
+[^4a-1]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 
 ### 5. Abschnitt: Ärztliche komplementärmedizinische Leistungen
 
@@ -562,7 +565,7 @@ Das Kontrollverfahren dient der Überprüfung der Bedarfsermittlung sowie der Ko
 Die nach Artikel 50*a* zugelassenen Ernährungsberater und Ernährungsberaterinnen und die nach 52*c* KVV zugelassenen Organisationen der Ernährungsberatung beraten auf ärztliche Anordnung hin oder in ärztlichem Auftrag Patienten und Patientinnen mit folgenden Krankheiten:[^9b-2]
 
 - a.[^9b-3] Stoffwechselkrankheiten;
-- b.[^9b-4] Adipositas (Body-Mass-Index von über 30) und Folgeerkrankungen des Übergewichts oder in Kombination mit dem Übergewicht;
+- b.[^9b-4] Adipositas (Body-Mass-Index ≥ 30 kg/m<sup>2</sup>) und Übergewicht (Body-Mass-Index ≥ 25 kg/m<sup>2</sup>), das mit einer Folgeerkrankung verbunden ist, die durch die Gewichtsreduktion günstig beeinflusst werden kann;
 - b<sup>bis</sup>.[^9b-5] Adipositas und Übergewicht im Rahmen der «ambulanten individuellen multiprofessionellen strukturierten Therapie für übergewichtige und adipöse Kinder und Jugendliche» nach Anhang 1 Ziffer 4;
 - c. Herz-Kreislauf-Erkrankungen;
 - d. Krankheiten des Verdauungssystems;
@@ -577,7 +580,7 @@ Die nach Artikel 50*a* zugelassenen Ernährungsberater und Ernährungsberaterinn
 [^9b-1]: Ursprünglich Art. 9*a*.
 [^9b-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^9b-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
-[^9b-4]: Fassung gemäss Ziff. I der V des EDI vom 16. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5829](https://fedlex.data.admin.ch/eli/oc/2012/681)).
+[^9b-4]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 [^9b-5]: Eingefügt durch Ziff. I der V des EDI vom 6. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
 [^9b-6]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
 [^9b-7]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
@@ -751,30 +754,51 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen der medizinische
 <tr><td>c. Impfung gegen Influenza</td><td>1. Jährliche Impfung bei Personen mit einem erhöhten Komplikationsrisiko gemäss Impfplan 2023. 2. Während einer Influenza-Pandemie-Bedrohung oder einer Influenza-Pandemie bei Personen, bei denen das BAG eine Impfung empfiehlt[^12a-4]. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</td></tr>
 <tr><td>d. Hepatitis-B-Impfung</td><td>Gemäss Impfplan 2023. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>e.[^12a-5] …</td><td></td></tr>
-<tr><td>f.[^12a-6] Pneumokokken-Impfung</td><td>Gemäss Impfplan 2023. Bei Kindern bis zum vollendeten 5. Altersjahr sowie bei Personen ab 65 Jahren mit einem erhöhten Risiko für eine invasive Infektion.</td></tr>
-<tr><td>g.[^12a-7] Meningokokken-Impfung</td><td>Gegen die Serotypen ACWY gemäss Impfplan 2023. Gegen den Serotyp B bei Personen mit erhöhtem Erkrankungsrisiko sowie zur Postexpositionsprophylaxe gemäss Impfplan 2023. Die Kosten werden nur für die Impfung mit Impfstoffen übernommen, die für die betreffende Altersgruppe über die nötige Zulassung verfügen. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung..</td></tr>
+<tr><td>f.[^12a-6] Impfung gegen Pneumokokken</td><td>Als Basisimpfung gemäss Impfplan 2023. Als Impfung für Personen mit einem erhöhten Risiko für eine invasive Infektion gemäss Impfplan 2023, jedoch nur für Kinder bis zum vollendeten 5. Altersjahr sowie für Personen ab 65 Jahren. Als ergänzende Impfung für Personen ab 65 Jahren gemäss den «Ergänzenden Impfempfehlungen gegen Pneumokokken ab dem Alter von 65 Jahren des BAG und der EKIF vom 30. Oktober 2023[^12a-7]».</td></tr>
+<tr><td>g.[^12a-8] Impfung gegen Meningokokken (Serotypen ACWY und B)</td><td>Als ergänzende Impfung gemäss den «Ergänzenden Impfempfehlungen zum Schutz vor invasiven Meningokokken-Erkrankungen des BAG und der EKIF vom 6. November 2023[^12a-9]». Als Impfung bei Personen mit erhöhtem Erkrankungsrisiko sowie zur Postexpositionsprophylaxe gemäss Impfplan 2023. Die Kosten werden nur für die Impfung mit Impfstoffen übernommen, die für die betreffende Altersgruppe über die nötige Zulassung verfügen. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>h. Impfung gegen Tuberkulose</td><td>Mit BCG-Impfstoff gemäss Impfplan 2023.</td></tr>
 <tr><td>i. Impfung gegen Frühsommer-Meningoenzephalitis (FSME)</td><td>Gemäss Impfplan 2023. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>j.[^12a-8] Varizellen-Impfung</td><td>Basis- und Nachholimpfungen gemäss Impfplan 2023. Die Kosten werden nur für die Impfung mit Impfstoffen übernommen, die für die betreffende Altersgruppe über die nötige Zulassung verfügen.</td></tr>
-<tr><td>k.[^12a-9] Impfung gegen Humane Papillomaviren (HPV)</td><td>1. Gemäss Impfplan 2023: a. Basisimpfung der Mädchen zwischen dem vollendeten 11. und dem vollendeten 15. Altersjahr; b. Impfung der Mädchen und Frauen zwischen dem vollendeten 15. und dem vollendeten 27. Altersjahr; c. ergänzende Impfung bei Knaben und Männern zwischen dem vollendeten 11. und dem vollendeten 27. Altersjahr. 2. Impfung im Rahmen von kantonalen Impfprogrammen, die folgende Minimalanforderungen erfüllen: a. Die Information der Zielgruppen und von deren Eltern/gesetzlicher Vertretung über die Verfügbarkeit der Impfung und die Empfehlungen des BAG und der EKIF nach Ziffer 1 ist sichergestellt. b. Die Vollständigkeit der Impfung wird angestrebt. c. Die Leistungen und Pflichten der Programmträger, der impfenden Ärzte und Ärztinnen und der Krankenversicherer sind definiert. d. Datenerhebung, Abrechnung, Informations- und Finanzflüsse sind geregelt. 3. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</td></tr>
+<tr><td>j.[^12a-10] Varizellen-Impfung</td><td>Basis- und Nachholimpfungen gemäss Impfplan 2023. Die Kosten werden nur für die Impfung mit Impfstoffen übernommen, die für die betreffende Altersgruppe über die nötige Zulassung verfügen.</td></tr>
+<tr><td>k.[^12a-11] Impfung gegen Humane Papillomaviren (HPV)</td><td>1. Gemäss Impfplan 2023: a. Basisimpfung der Mädchen zwischen dem vollendeten 11. und dem vollendeten 15. Altersjahr; b. Impfung der Mädchen und Frauen zwischen dem vollendeten 15. und dem vollendeten 27. Altersjahr; c. ergänzende Impfung bei Männern zwischen dem vollendeten 20. und vollendeten 27. Altersjahr. 2. Basisimpfung für Knaben und Männer zwischen dem vollendeten 11. und dem vollendeten 20. Altersjahr gemäss den «Empfehlungen des BAG und der EKIF zur Basisimpfung gegen Humane Papillomaviren bei Jungen vom 6. November 2023[^12a-12]». 3. Impfung im Rahmen von kantonalen Impfprogrammen, die folgende Minimalanforderungen erfüllen: a. Die Information der Zielgruppen und von deren Eltern/gesetzlicher Vertretung über die Verfügbarkeit der Impfung und die Empfehlungen des BAG und der EKIF nach Ziffer 1 ist sichergestellt. b. Die Vollständigkeit der Impfung wird angestrebt. c. Die Leistungen und Pflichten der Programmträger, der impfenden Ärzte und Ärztinnen und der Krankenversicherer sind definiert. d. Datenerhebung, Abrechnung, Informations- und Finanzflüsse sind geregelt. 4. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</td></tr>
 <tr><td>l. Hepatitis-A-Impfung</td><td>Gemäss Impfplan 2023. Bei folgenden Personen: – bei Patienten und Patientinnen mit einer chronischen Lebererkrankung; – bei Kindern aus Ländern mit mittlerer und hoher Endemizität, die in der Schweiz leben und für einen vorübergehenden Aufenthalt in ihr Herkunftsland zurückkehren; – bei drogeninjizierenden Personen; – bei Männern mit sexuellen Kontakten zu Männern ausserhalb einer stabilen Beziehung. Postexpositionelle Impfung innerhalb von sieben Tagen nach Exposition. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>m.[^12a-10] Impfung gegen Tollwut</td><td>Postexpositionelle Impfung nach Exposition durch ein tollwütiges oder tollwutverdächtiges Tier gemäss Impfplan 2023. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>n.[^12a-11] Impfung gegen Covid-19</td><td>1. Grundimmunisierung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. 2. Auffrischimpfung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. In Evaluation. Auf den Leistungen nach den Ziffern 1 und 2 wird keine Franchise erhoben. Für die Impfung einschliesslich Impfstoff wird eine pauschale Vergütung vereinbart.</td></tr>
-<tr><td>o.[^12a-12] Impfung gegen Herpes Zoster</td><td>Mit dem adjuvantierten Subunit-Impfstoff. Bei den Alters- und Risikogruppen gemäss Impfplan 2023.</td></tr>
+<tr><td>m.[^12a-13] Impfung gegen Tollwut</td><td>Postexpositionelle Impfung nach Exposition durch ein tollwütiges oder tollwutverdächtiges Tier gemäss Impfplan 2023. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
+<tr><td>n.[^12a-14] Impfung gegen Covid-19</td><td>1. Grundimmunisierung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. 2. Auffrischimpfung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. In Evaluation. Auf den Leistungen nach den Ziffern 1 und 2 wird keine Franchise erhoben. Für die Impfung einschliesslich Impfstoff wird eine pauschale Vergütung vereinbart.</td></tr>
+<tr><td>o.[^12a-15] Impfung gegen Herpes Zoster</td><td>Mit dem adjuvantierten Subunit-Impfstoff. Bei den Alters- und Risikogruppen gemäss Impfplan 2023.</td></tr>
+<tr><td>p.[^12a-16] Impfung gegen Mpox</td><td colspan="2">Für Personen mit einem erhöhten Expositionsrisiko gemäss «Analyserahmen und Empfehlungen zur Impfung gegen Affenpocken» des BAG und der EKIF vom 1. September 2022[^12a-17]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart. Die Kostenübernahme ist in Evaluation bis zum 31. Dezember 2024.</td></tr>
+<tr><td>q.[^12a-18] Impfung gegen Rotaviren</td><td colspan="2">Gemäss den «Empfehlungen des BAG und der EKIF zur Impfung gegen Rotaviren vom 6. November 2023[^12a-19]».</td></tr>
 </table>
+
+<sup>2</sup>
+
+Die Versicherung übernimmt für Impfungen nach Absatz 1 folgende Kosten für die Impfberatung:
+
+- a. Impfanamnese mit Überprüfung des Impfstatus;
+- b. Evaluation der Indikationen und Kontraindikationen;
+- c. Aufklärung und Einholen der informierten Einwilligung.[^12a-20]
+
+<sup>3</sup> Bei beruflicher und reisemedizinischer Indikation der Impfung erfolgt für die Impfberatung keine Kostenübernahme durch die Versicherung.[^12a-21]
 
 [^12a-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
 [^12a-2]: Ausdruck gemäss Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^12a-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12a-4]: Siehe die Epidemienverordnung vom 29. April 2015 ([SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
 [^12a-5]: Aufgehoben durch Ziff. I der V des EDI vom 8. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12a-6]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12a-7]: Fassung gemäss Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^12a-8]: Fassung gemäss Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^12a-9]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
+[^12a-6]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^12a-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^12a-8]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^12a-9]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12a-10]: Fassung gemäss Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^12a-11]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Fassung gemäss Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022, Ziff. 2 in Kraft bis zum 31. Dez. 2022, verlängert bis zum 31. Dez. 2023 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369), [840](https://fedlex.data.admin.ch/eli/oc/2022/840)Ziff. III 2).
-[^12a-12]: Eingefügt durch Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)). Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
+[^12a-11]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^12a-12]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12a-13]: Fassung gemäss Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
+[^12a-14]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Fassung gemäss Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022, Ziff. 2 in Kraft bis zum 30. Juni 2024 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369); [2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)Ziff. IV Abs. 4).
+[^12a-15]: Eingefügt durch Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)). Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
+[^12a-16]: Eingefügt durch Ziff. I der V des EDI vom 24. April 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)).
+[^12a-17]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12a-18]: Eingefügt durch Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^12a-19]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^12a-20]: Eingefügt durch Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
+[^12a-21]: Eingefügt durch Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
 
 #### Art. 12b
 
@@ -788,10 +812,10 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 <tr><td>b. Vitamin-D-Gabe zur Rachitisprophylaxe</td><td>Während des ersten Lebensjahres.</td></tr>
 <tr><td>c.[^12b-2] HIV-Postexpositionsprophylaxe</td><td>Gemäss den Empfehlungen des BAG vom 24. November 2014 (BAG-Bulletin Nr. 48, 2014)[^12b-3]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>d.[^12b-4] Postexpositionelle passive Immunisierung</td><td>Gemäss den Empfehlungen des BAG und der Schweizerischen Kommission für Impffragen (Richtlinien und Empfehlungen «Postexpositionelle passive Immunisierung» vom Oktober 2004)[^12b-5]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>e.[^12b-6] Prophylaktische Mastektomie und / oder Adnexektomie</td><td>Bei Trägerinnen von Mutationen oder Deletionen im BRCA1- oder BRCA2-Gen</td></tr>
-<tr><td>f.[^12b-7] Passive Impfung mit Hepatitis B-Immunglobulin</td><td>Bei Neugeborenen HBs-Ag-positiver Mütter.</td></tr>
-<tr><td>g.[^12b-8] monoklonaler Antikörper zur RSV-Prophylaxe</td><td>Indikationsstellung gemäss den Empfehlungen «Konsensus Statement zur Prävention von Respiratory Syncytial Virus (RSV)-Infektionen mit dem humanisierten monoklonalen Antikörper Palivizumab (Synagis®) (Update 2016)»[^12b-9] der interdisziplinären Arbeitsgruppe aus Mitgliedern der Pädiatrischen Infektiologie-Gruppe der Schweiz (PIGS), der Schweizerischen Gesellschaft für Pädiatrische Pneumologie (SGPP), der Schweizerischen Gesellschaft für Kinderkardiologie (SGK) und der Schweizerischen Gesellschaft für Neonatologie (SGN). Bei ehemaligen Frühgeborenen mit bronchopulmonaler Dysplasie: Indikationsstellung durch einen Facharzt oder eine Fachärztin für Kinder- und Jugendmedizin mit Schwerpunkt Neonatologie (Weiterbildungsprogramm vom 1. Juli 2015, revidiert am 17. Juni 2021[^12b-10]) oder pädiatrischer Pneumologie (Weiterbildungsprogramm vom 1. Juli 2004, revidiert am 16. Juni 2016[^12b-11]). Bei Kindern mit hämodynamisch signifikantem kongenitalem Herzvitium: Indikationsstellung durch einen Facharzt oder eine Fachärztin für Kinder- und Jugendmedizin mit Schwerpunkt pädiatrischer Kardiologie (Weiterbildungsprogramm vom 1. Juli 2004, revidiert am 16. Juni 2016[^12b-12]).</td></tr>
-<tr><td>h.[^12b-13] Passive Immunisierung mit Covid-19-Antikörper</td><td>Bei immundefizienten Personen mit höchster Priorität für die passive Immunisierungstherapie gemäss «Position paper on the use of monoclonal antibodies against SARS-CoV-2 as passive immunisation treatments in severely immunocompromised persons in Switzerland», Version vom 26. April 2022[^12b-14], sowie bei Personen mit Sichelzellanämie. Die Kosten werden nur für Antikörperpräparate übernommen, die für die betreffenden Indikationen über die nötige Zulassung verfügen.</td></tr>
+<tr><td>e.[^12b-6] Risikoreduzierende Mastektomie und / oder Adnexektomie</td><td>Bei Trägerinnen von genetischen Mutationen oder Deletionen, die mit einem stark erhöhten Brustkrebs- und/oder Eierstockkrebsrisiko verbunden sind, oder bei Frauen mit vergleichbarem individuellem Risiko. Voraussetzung für die Kostenübernahme ist eine genetische Beratung nach Artikel 12*d* Buchstabe f. Dabei sind neben der genetischen Veranlagung das Alter der zu beratenden Person sowie bereits aufgetretene Krebserkrankungen bei ihr und bei Verwandten ersten und zweiten Grades zu berücksichtigen. Indikation risiko- und altersadaptiert gemäss dem «Referenzdokument Familiär stark erhöhtes Brust- und Eierstockkrebsrisiko des BAG vom 2. November 2023[^12b-7]».</td></tr>
+<tr><td>f.[^12b-8] Passive Impfung mit Hepatitis B-Immunglobulin</td><td>Bei Neugeborenen HBs-Ag-positiver Mütter.</td></tr>
+<tr><td>g.[^12b-9] monoklonaler Antikörper zur RSV-Prophylaxe</td><td>Indikationsstellung gemäss den Empfehlungen «Konsensus Statement zur Prävention von Respiratory Syncytial Virus (RSV)-Infektionen mit dem humanisierten monoklonalen Antikörper Palivizumab (Synagis®) (Update 2016)»[^12b-10] der interdisziplinären Arbeitsgruppe aus Mitgliedern der Pädiatrischen Infektiologie-Gruppe der Schweiz (PIGS), der Schweizerischen Gesellschaft für Pädiatrische Pneumologie (SGPP), der Schweizerischen Gesellschaft für Kinderkardiologie (SGK) und der Schweizerischen Gesellschaft für Neonatologie (SGN). Bei ehemaligen Frühgeborenen mit bronchopulmonaler Dysplasie: Indikationsstellung durch einen Facharzt oder eine Fachärztin für Kinder- und Jugendmedizin mit Schwerpunkt Neonatologie (Weiterbildungsprogramm vom 1. Juli 2015, revidiert am 17. Juni 2021[^12b-11]) oder pädiatrischer Pneumologie (Weiterbildungsprogramm vom 1. Juli 2004, revidiert am 16. Juni 2016[^12b-12]). Bei Kindern mit hämodynamisch signifikantem kongenitalem Herzvitium: Indikationsstellung durch einen Facharzt oder eine Fachärztin für Kinder- und Jugendmedizin mit Schwerpunkt pädiatrischer Kardiologie (Weiterbildungsprogramm vom 1. Juli 2004, revidiert am 16. Juni 2016[^12b-13]).</td></tr>
+<tr><td>h.[^12b-14] Passive Immunisierung mit Covid-19-Antikörper</td><td>Bei immundefizienten Personen mit höchster Priorität für die passive Immunisierungstherapie gemäss «Position paper on the use of monoclonal antibodies against SARS-CoV-2 as passive immunisation treatments in severely immunocompromised persons in Switzerland», Version vom 26. April 2022[^12b-15], sowie bei Personen mit Sichelzellanämie. Die Kosten werden nur für Antikörperpräparate übernommen, die für die betreffenden Indikationen über die nötige Zulassung verfügen.</td></tr>
 </table>
 
 [^12b-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
@@ -799,15 +823,16 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 [^12b-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12b-4]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
 [^12b-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^12b-6]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)).
-[^12b-7]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12b-8]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)). Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12b-9]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12b-6]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^12b-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^12b-8]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^12b-9]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)). Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
 [^12b-10]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12b-11]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12b-12]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^12b-13]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
-[^12b-14]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12b-13]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12b-14]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
+[^12b-15]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 
 #### Art. 12c
 
@@ -895,22 +920,25 @@ Die Versicherung übernimmt bei Mutterschaft die folgenden Kontrolluntersuchunge
 <tr><td>b. Ultraschallkontrollen</td><td></td></tr>
 <tr><td>1.[^13-2] In der normalen Schwangerschaft eine Routineuntersuchung in der 12.–14. Schwangerschaftswoche; eine Routineuntersuchung in der 20.–23. Schwangerschaftswoche</td><td>Nach einem umfassenden Aufklärungs- und Beratungsgespräch, das dokumentiert werden muss. Durchführung gemäss den «Empfehlungen zur Ultraschalluntersuchung in der Schwangerschaft» der Schweizerischen Gesellschaft für Ultraschall in der Medizin (SGUM), Sektion Gynäkologie und Geburtshilfe, 4. Auflage (2019)[^13-3]. Nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012[^13-4], entspricht.</td></tr>
 <tr><td>2. In der Risikoschwangerschaft</td><td>Untersuchungsintervall nach klinischem Ermessen. Nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht.</td></tr>
-<tr><td>b<sup>bis</sup>. Ersttrimestertest</td><td>Pränatale Abklärung des Risikos von Trisomie 21, 18 und 13: anhand der Messung der Nackentransparenz in der Ultraschalluntersuchung (12.–14. Woche), der Bestimmung von PAPP-A und freiem ß-HCG im mütterlichen Blut und weiterer mütterlicher und fötaler Faktoren. Nach einer Information nach Artikel 16 und der Gewährung des Selbstbestimmungsrechts nach Artikel 18 des Bundesgesetzes vom 8. Oktober 2004[^13-5] über genetische Untersuchungen beim Menschen (GUMG). Anordnung und Messung der Nackentransparenz nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. Laboranalysen gemäss Analysenliste (AL).</td></tr>
-<tr><td>b<sup>ter</sup>. Nicht-invasiver pränataler Test (NIPT)</td><td>Zur Untersuchung auf eine Trisomie 21, 18 oder 13. Ab der 12. Schwangerschaftswoche. Bei Schwangeren, bei denen ein Risiko von 1:1000 oder höher besteht, dass beim Fötus eine Trisomie 21, 18 oder 13 vorliegt. Ermittlung des Risikos und Indikationsstellung bei Fehlbildungen im Ultraschall gemäss Expertenbrief Nr. 52 vom 14. März 2018[^13-6] der Schweizerischen Gesellschaft für Gynäkologie und Geburtshilfe (SGGG), verfasst von der Arbeitsgruppe der Akademie für fetomaternale Medizin und der Schweizerischen Gesellschaft für medizinische Genetik. Bei Zwillingsschwangerschaften sind NIPT mittels Microarray oder Single Nucleotide Polymorphism (SNP) von der Kostenübernahme durch die Versicherung ausgeschlossen. Nach einem umfassenden Aufklärungs‑ und Beratungsgespräch nach den Artikeln 14 und 15 GUMG sowie nach Erteilung der schriftlichen Zustimmung durch die Schwangere unter Gewährung des Selbstbestimmungsrechts nach Artikel 18 GUMG. Anordnung nur durch Fachärzte und Fachärztinnen in Gynäkologie und Geburtshilfe mit Schwerpunkt fetomaternale Medizin (Weiterbildungsprogramm vom 15. März 2012, revidiert am 16. Februar 2017[^13-7]), Fachärzte und Fachärztinnen für Medizinische Genetik und Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. Laboranalysen gemäss Analysenliste (AL). Wird aus technischen Gründen das Geschlecht des Fötus bestimmt, darf diese Information nicht vor Ablauf von 12 Wochen seit Beginn der letzten Periode mitgeteilt werden.</td></tr>
+<tr><td>b<sup>bis</sup>.[^13-5] Ersttrimestertest</td><td>Pränatale Abklärung des Risikos von Trisomie 21, 18 und 13: anhand der Messung der Nackentransparenz in der Ultraschalluntersuchung (12.–14. Woche), der Bestimmung von PAPP-A und freiem ß‑HCG im mütterlichen Blut und weiterer mütterlicher und fötaler Faktoren. Nach einer Aufklärung nach Artikel 23 des Bundesgesetzes vom 15. Juni 2018[^13-6] über genetische Untersuchungen beim Menschen (GUMG), der Zustimmung nach Artikel 5 GUMG und der Gewährung der übrigen Selbstbestimmungsrechte nach den Artikeln 7 und 8 GUMG. Anordnung und Messung der Nackentransparenz nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012[^13-7], entspricht. Laboranalysen gemäss Analysenliste (AL).</td></tr>
+<tr><td>b<sup>ter</sup>.[^13-8] Nicht-invasiver pränataler Test (NIPT)</td><td>Zur Untersuchung auf eine Trisomie 21, 18 oder 13. Ab der 12. Schwangerschaftswoche. Bei Schwangeren, bei denen ein Risiko von 1:1000 oder höher besteht, dass beim Fötus eine Trisomie 21, 18 oder 13 vorliegt. Ermittlung des Risikos und Indikationsstellung bei Fehlbildungen im Ultraschall gemäss Expertenbrief Nr. 52 vom 14. März 2018[^13-9] der Schweizerischen Gesellschaft für Gynäkologie und Geburtshilfe (SGGG), verfasst von der Arbeitsgruppe der Akademie für fetomaternale Medizin und der Schweizerischen Gesellschaft für medizinische Genetik. Bei Zwillingsschwangerschaften sind NIPT mittels Microarray oder Single Nucleotide Polymorphism (SNP) von der Kostenübernahme durch die Versicherung ausgeschlossen. Nach einem umfassenden Aufklärungs- und Beratungsgespräch nach den Artikeln 6, 21 und 22 GUMG sowie nach Erteilung der schriftlichen Zustimmung durch die Schwangere nach den Artikeln 5 und 25 GUMG sowie unter Gewährung der weiteren Selbstbestimmungsrechte nach den Artikeln 7 und 8 GUMG. Anordnung nur durch Fachärzte und Fachärztinnen in Gynäkologie und Geburtshilfe mit Schwerpunkt fetomaternale Medizin (Weiterbildungsprogramm vom 15. März 2012, revidiert am 16. Febr. 2017[^13-10]), Fachärzte und Fachärztinnen für Medizinische Genetik und Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. Laboranalysen gemäss Analysenliste (AL). Wird aus technischen Gründen das Geschlecht des Fötus bestimmt, darf diese Information nicht vor Ablauf von 12 Wochen seit Beginn der letzten Periode mitgeteilt werden.</td></tr>
 <tr><td>c. Präpartale Untersuchungen mittels Kardiotokografie</td><td>Bei entsprechender Indikation in der Risikoschwangerschaft.</td></tr>
-<tr><td>d. Amniozentese, Chorionbiopsie, Cordozentese</td><td>Nach einem umfassenden Aufklärungs- und Beratungsgespräch, das dokumentiert werden muss, in den folgenden Fällen: – Zur Bestätigung eines positiven Befundes bei Schwangeren, bei denen aufgrund des nicht-invasiven pränatalen genetischen Tests (NIPT) ein hochgradiger Verdacht oder aufgrund des Ersttrimestertests ein Risiko von 1:380 oder höher besteht, dass beim Fötus eine Trisomie 21, 18 oder 13 vorliegt; – bei Schwangeren, bei denen aufgrund des Ultraschallbefundes, der Familienanamnese oder aus einem andern Grund ein Risiko von 1:380 oder höher besteht, dass beim Fötus eine ausschliesslich genetisch bedingte Erkrankung vorliegt; – bei Gefährdung des Fötus durch eine Schwangerschaftskomplikation, eine Erkrankung der Mutter oder eine nicht genetisch bedingte Erkrankung oder Entwicklungsstörung des Fötus. Anordnung für genetische Untersuchungen nur durch Fachärzte und Fachärztinnen in Gynäkologie und Geburtshilfe mit Schwerpunkt fetomaternale Medizin (Weiterbildungsprogramm vom 15. März 2012, revidiert am 16. Februar 2017) sowie Fachärzte und Fachärztinnen für Medizinische Genetik und Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. [tab] Laboranalysen gemäss Analysenliste (AL)</td></tr>
+<tr><td>d. Amniozentese, Chorionbiopsie, Cordozentese</td><td>Nach einem umfassenden Aufklärungs- und Beratungsgespräch, das dokumentiert werden muss, in den folgenden Fällen: – Zur Bestätigung eines positiven Befundes bei Schwangeren, bei denen aufgrund des nicht-invasiven pränatalen genetischen Tests (NIPT) ein hochgradiger Verdacht oder aufgrund des Ersttrimestertests ein Risiko von 1:380 oder höher besteht, dass beim Fötus eine Trisomie 21, 18 oder 13 vorliegt; – bei Schwangeren, bei denen aufgrund des Ultraschallbefundes, der Familienanamnese oder aus einem andern Grund ein Risiko von 1:380 oder höher besteht, dass beim Fötus eine ausschliesslich genetisch bedingte Erkrankung vorliegt; – bei Gefährdung des Fötus durch eine Schwangerschaftskomplikation, eine Erkrankung der Mutter oder eine nicht genetisch bedingte Erkrankung oder Entwicklungsstörung des Fötus. Anordnung für genetische Untersuchungen nur durch Fachärzte und Fachärztinnen in Gynäkologie und Geburtshilfe mit Schwerpunkt fetomaternale Medizin (Weiterbildungsprogramm vom 15. März 2012, revidiert am 16. Februar 2017) sowie Fachärzte und Fachärztinnen für Medizinische Genetik und Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. Laboranalysen gemäss Analysenliste (AL)</td></tr>
 <tr><td>e. Kontrolle post-partum eine Untersuchung</td><td>Zwischen sechster und zehnter postpartum-Woche: Zwischenanamnese, klinische und gynäkologische Untersuchung inkl. Beratung.</td></tr>
-<tr><td>f. Kontrolle nach Fehlgeburt</td><td>Nach Fehlgeburt oder medizinisch indiziertem Schwangerschaftsabbruch ab der 13. bis zur vollendeten 23. Schwangerschaftswoche. Zwischenanamnese, gynäkologischer und klinischer Status, Beratung; Laboranalysen und Ultraschalluntersuchung nach klinischem Ermessen. Ultraschalluntersuchung nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht.[^13-8]</td></tr>
+<tr><td>f. Kontrolle nach Fehlgeburt</td><td>Nach Fehlgeburt oder medizinisch indiziertem Schwangerschaftsabbruch ab der 13. bis zur vollendeten 23. Schwangerschaftswoche. Zwischenanamnese, gynäkologischer und klinischer Status, Beratung; Laboranalysen und Ultraschalluntersuchung nach klinischem Ermessen. Ultraschalluntersuchung nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht.[^13-11]</td></tr>
 </table>
 
 [^13-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^13-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
 [^13-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^13-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^13-5]: [[AS 2007 635](https://fedlex.data.admin.ch/eli/oc/2007/131); [2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)Anhang Ziff. 3. [AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537)Anhang Ziff. I]. Siehe heute: BG vom 15. Juni 2018 ([SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)).
-[^13-6]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^13-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
-[^13-8]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^13-5]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^13-6]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^13-7]: Das Dokument ist einsehbar unter [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^13-8]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^13-9]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^13-10]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^13-11]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
 #### Art. 14
 
@@ -1231,7 +1259,7 @@ Die Versicherung leistet eine Vergütung an Mittel und Gegenstände, die der Beh
 [^20a-1]: Eingefügt durch Ziff. I der V des EDI vom 28. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
 [^20a-2]: Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 [^20a-3]: Aufgehoben durch Ziff. I der V des EDI vom 4. Juni 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
-[^20a-4]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Liste der Mittel und Gegenstände (MiGeL)
+[^20a-4]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Liste der Mittel und Gegenstände (MiGeL)
 [^20a-5]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 #### Art. 21
@@ -1314,7 +1342,7 @@ Die Versicherung übernimmt für Rettungen in der Schweiz 50 Prozent der Rettung
 
 [^28-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^28-2]: Fassung gemäss Ziff. I der V des EDI vom 10. Juli 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)).
-[^28-3]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL)
+[^28-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL)
 [^28-4]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 [^28-5]: Eingefügt durch Ziff. I der V des EDI vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
@@ -1330,7 +1358,7 @@ Die Versicherung übernimmt für Rettungen in der Schweiz 50 Prozent der Rettung
 
 [^29-1]: Fassung gemäss Ziff. I der V des EDI vom 26. Febr. 1996, in Kraft seit 1. Juni 1996 ([AS 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
 [^29-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^29-3]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Arzneimittel &gt; Arzneimittelliste mit Tarif (ALT)
+[^29-3]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Arzneimittel &gt; Arzneimittelliste mit Tarif (ALT)
 [^29-4]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 ### 3. Abschnitt: Spezialitätenliste
@@ -1361,7 +1389,7 @@ Ein Arzneimittel wird in die Spezialitätenliste aufgenommen, wenn:[^30-1]
 
 Ein Gesuch um Aufnahme in die Spezialitätenliste hat insbesondere zu enthalten:
 
-- a.[^30a-2] für Gesuche nach Artikel 31 Absatz 1 Buchstaben a und c: die Voranzeige der Swissmedic mit deren Mitteilung über die beabsichtigte Zulassung und der Angabe der zuzulassenden Indikationen und Dosierungen, sowie, falls diese vorliegen, die Zulassungsverfügung und die Zulassungsbescheinigung von Swissmedic sowie die definitive Fachinformation;
+- a.[^30a-2] für Gesuche nach Artikel 31 Absatz 1 Buchstaben a und c, mit Ausnahme von Gesuchen nach Artikel 69*a* Absatz 2 KVV: die Voranzeige der Swissmedic mit deren Mitteilung über die beabsichtigte Zulassung und der Angabe der zuzulassenden Indikationen und Dosierungen, sowie, falls diese vorliegen, die Zulassungsverfügung und die Zulassungsbescheinigung der Swissmedic sowie die definitive Fachinformation;
 - a<sup>bis</sup>.[^30a-3] für Gesuche nach Artikel 31 Absatz 2: die Zulassungsverfügung von Swissmedic, die definitive Fachinformation sowie rechtzeitig vor Anpassung der Spezialitätenliste nachgereicht die Zulassungsbescheinigung von Swissmedic;
 - b. die der Swissmedic eingereichte Fachinformation;
 - b<sup>bis</sup>.[^30a-4] bei Originalpräparaten mit Patentschutz: die Nummern der Patente und der ergänzenden Schutzzertifikate sowie deren Ablaufdaten;
@@ -1374,7 +1402,7 @@ Ein Gesuch um Aufnahme in die Spezialitätenliste hat insbesondere zu enthalten:
 <sup>2</sup> Zusammen mit der Zulassungsverfügung und der Zulassungsbescheinigung sind die definitive Fachinformation mit Angabe allfälliger Änderungen und der definitive Zielpreis für die Europäische Gemeinschaft nachzureichen.
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 2. Juli 2002, in Kraft seit 1. Juli 2002 ([AS 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Siehe auch die UeB Änd. 21.3.2012 am Schluss dieses Textes.
-[^30a-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^30a-2]: Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
 [^30a-3]: Eingefügt durch Ziff. I der V des EDI vom 1. Febr. 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)). Fassung gemäss Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
 [^30a-4]: Eingefügt durch Ziff. I der V des EDI vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
 [^30a-5]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
@@ -1390,16 +1418,16 @@ Ein Gesuch um Aufnahme in die Spezialitätenliste hat insbesondere zu enthalten:
 Das BAG entscheidet nach Konsultation der Eidgenössischen Arzneimittelkommission (EAK) über:
 
 - a.[^31-2] Gesuche um Aufnahme von Originalpräparaten in die Spezialitätenliste;
-- b. Gesuche um Preiserhöhungen nach Artikel 67 Absatz 2 KVV;
+- b.[^31-3] Gesuche um Preiserhöhungen nach Artikel 67 Absatz 5 KVV;
 - c. Gesuche und die Folgen von Meldungen nach Artikel 65*f* KVV.
 
 <sup>2</sup>
 
 Es entscheidet ohne Konsultation der EAK über:
 
-- a.[^31-3] Gesuche um Aufnahme neuer galenischer Formen von bereits in der Spezialitätenliste aufgeführten Arzneimitteln, innerhalb der bestehenden Indikationen;
-- a<sup>bis</sup>.[^31-4] Gesuche um Aufnahme neuer Packungsgrössen oder Dosisstärken von bereits in der Spezialitätenliste aufgeführten Arzneimitteln, innerhalb der bestehenden Indikationen;
-- b. Gesuche um Aufnahme von Arzneimitteln, die nach Artikel 12 des Heilmittelgesetzes vom 15. Dezember 2000[^31-5] bei der Swissmedic zweitangemeldet wurden und deren Originalpräparat bereits in der Spezialitätenliste aufgeführt ist;
+- a.[^31-4] Gesuche um Aufnahme neuer galenischer Formen von bereits in der Spezialitätenliste aufgeführten Arzneimitteln, innerhalb der bestehenden Indikationen;
+- a<sup>bis</sup>.[^31-5] Gesuche um Aufnahme neuer Packungsgrössen oder Dosisstärken von bereits in der Spezialitätenliste aufgeführten Arzneimitteln, innerhalb der bestehenden Indikationen;
+- b.[^31-6] Gesuche um Aufnahme von Arzneimitteln, die nach Artikel 12 des Heilmittelgesetzes vom 15. Dezember 2000[^31-7] (HMG) bei der Swissmedic zweitangemeldet wurden und deren Originalpräparat bereits in der Spezialitätenliste aufgeführt ist;
 - c. Gesuche um Aufnahme von Co-Marketing-Arzneimitteln, deren Basispräparat bereits in der Spezialitätenliste aufgeführt ist.
 
 <sup>3</sup> Es kann Aufnahmegesuche nach Absatz 2 der EAK zur Konsultation unterbreiten, wenn die Stellungnahme der EAK von besonderem Interesse ist.
@@ -1408,9 +1436,11 @@ Es entscheidet ohne Konsultation der EAK über:
 
 [^31-1]: Fassung gemäss Ziff. I der V des EDI vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
 [^31-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
-[^31-3]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
-[^31-4]: Eingefügt durch Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
-[^31-5]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^31-3]: Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
+[^31-4]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^31-5]: Eingefügt durch Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^31-6]: Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
+[^31-7]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
 #### Art. 31a
 
@@ -1430,6 +1460,49 @@ Es entscheidet ohne Konsultation der EAK über:
 Sind die Voraussetzungen für das Eintreten auf das Gesuch gemäss Artikel 69 Absatz 4 KVV vor der definitiven Zulassung durch die Swissmedic erfüllt, so entscheidet das BAG in der Regel innert 60 Tagen ab der definitiven Zulassung.
 
 [^31b-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 31c
+
+**Meldung über die Gesuchseinreichung bei der Swissmedic**[^31c-1]
+
+Die Zulassungsinhaberin muss das BAG spätestens 30 Tage nach Einreichung eines Gesuchs bei der Swissmedic um Zulassung eines Originalpräparats oder einer Indikation, das oder die später zur Aufnahme in die Spezialitätenliste angemeldet werden soll, informieren.
+
+[^31c-1]: Eingefügt durch Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
+
+#### Art. 31d
+
+**Vorabklärung und vorzeitige Gesuchseinreichung**[^31d-1]
+
+<sup>1</sup>
+
+Ein Antrag auf eine Vorabklärung kann insbesondere im Hinblick auf folgende Gesuche gestellt werden:
+
+- a. Gesuche um Aufnahme eines Arzneimittels im beschleunigten Aufnahmeverfahren;
+- b. Gesuche für wichtige Arzneimittel für seltene Krankheiten (Art. 4 Abs. 1 Bst. a<sup>decies</sup> HMG[^31d-2]);
+- c. Gesuche für ein Arzneimittel für neuartige Therapien;
+- d. Gesuche für ein Originalpräparat, das bereits für mindestens zwei Indikationen vergütet wird;
+- e. Gesuche, das Kombinationen verschiedener Arzneimittel betrifft;
+- f. Gesuche für ein Originalpräparat oder eine Indikation, das oder die von der Swissmedic befristet zugelassen wird;
+- g. Gesuche für ein Originalpräparat oder eine Indikation, dessen oder deren Zulassung auf gemeinsamer Begutachtung der Zulassungen unterschiedlicher Länder beruht und für das oder die die Zulassungsinhaberin aufzeigen kann, dass auch die Voraussetzungen für eine beschleunigte Zulassung erfüllt gewesen wären;
+- h. Gesuche für eine Impfung, die nicht von Artikel 12*a* abgedeckt ist.
+
+<sup>2</sup>
+
+Das BAG heisst den Antrag auf Vorabklärung nur gut, wenn:
+
+- a. aus seiner Sicht aufgrund der Komplexität des Gesuchs Gesprächsbedarf besteht; und
+- b. das BAG und gegebenenfalls die Swissmedic über die erforderlichen Ressourcen verfügen.
+
+<sup>3</sup> Es bestimmt die Modalitäten der Vorabklärung.
+
+<sup>4</sup> Es nimmt im Rahmen der Vorabklärung keine Überprüfung der Aufnahmebedingungen vor.
+
+<sup>5</sup> Die Absätze 1 und 2 gelten auch für die vorzeitige Gesuchseinreichung.
+
+<sup>6</sup> Das nach der Vorabklärung vorzeitig eingereichte Gesuch muss alle Unterlagen enthalten, die für eine Überprüfung der Aufnahmebedingungen notwendig sind.
+
+[^31d-1]: Eingefügt durch Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
+[^31d-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
 #### Art. 32
 
@@ -1468,50 +1541,65 @@ Bei einem Gesuch nach Artikel 31 Absatz 2 Buchstabe a<sup>bis</sup> erfolgt die 
 
 **Auslandpreisvergleich: Referenzländer und Gegenstand des Vergleichs**[^34abis-1]
 
-<sup>1</sup> Die Wirtschaftlichkeit wird aufgrund eines Vergleichs mit den Preisen in Deutschland, Dänemark, Grossbritannien, den Niederlanden, Frankreich, Österreich, Belgien, Finnland und Schweden beurteilt. Der Vergleich kann mit weiteren Ländern mit wirtschaftlich vergleichbaren Strukturen im Pharmabereich vorgenommen werden, sofern der Fabrikabgabepreis, der Apothekeneinstandspreis oder der Grosshandelspreis öffentlich zugänglich sind.
+<sup>1</sup> Die Wirtschaftlichkeit wird aufgrund eines Vergleichs mit den Preisen in Belgien, Dänemark, Deutschland, Finnland, Frankreich, Grossbritannien, den Niederlanden, Österreich und Schweden beurteilt. Der Vergleich kann mit weiteren Ländern mit wirtschaftlich vergleichbaren Strukturen im Pharmabereich vorgenommen werden, sofern der Fabrikabgabepreis, der Apothekeneinstandspreis oder der Publikumspreis öffentlich zugänglich sind.
 
-<sup>2</sup> Verglichen wird mit dem gleichen Arzneimittel in den Referenzländern, unabhängig von der Bezeichnung des Arzneimittels im Referenzland, der Zulassungsinhaberin im Referenzland, der Vergütung im Referenzland und unabhängig davon, ob die Schweizer Zulassungsinhaberin einen Einfluss auf den Fabrikabgabepreis im Referenzland hat. Als gleiche Arzneimittel gelten Originalpräparate mit gleichem Wirkstoff und derselben Darreichungsform.
+<sup>2</sup> Verglichen wird mit dem gleichen Arzneimittel in den Referenzländern, unabhängig von der Bezeichnung des Arzneimittels im Referenzland, der Zulassungsinhaberin im Referenzland und der Vergütung im Referenzland und unabhängig davon, ob die Schweizer Zulassungsinhaberin einen Einfluss auf den Fabrikabgabepreis im Referenzland hat. Als gleiche Arzneimittel gelten Originalpräparate mit gleichem Wirkstoff und derselben Darreichungsform. Arzneimittel, die im Referenzland für den Parallelimport zugelassen sind, werden nicht berücksichtigt.
 
 <sup>3</sup> Unterschiedliche Indikationen in der Schweiz und in den Referenzländern werden nicht berücksichtigt.
 
-[^34abis-1]: Ursprünglich: Art. 34*a*. Eingefügt durch Ziff. I der V des EDI vom 29. April 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+[^34abis-1]: Ursprünglich: Art. 34*a*. Eingefügt durch Ziff. I der V des EDI vom 29. April 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
 
 #### Art. 34b
 
-**Auslandpreisvergleich: Grosshandelsmargen und Herstellerrabatt**[^34b-1]
+**Auslandpreisvergleich: Abzüge und Herstellerrabatt**[^34b-1]
 
 <sup>1</sup>
 
-Vom Apothekeneinstandspreis oder vom Grosshandelspreis werden beim Auslandpreisvergleich folgende Grosshandelsmargen gemäss Artikel 65*b* Absatz 3 KVV abgezogen:
+Vom Apothekeneinstandspreis oder vom Publikumspreis werden beim Auslandpreisvergleich folgende Abzüge nach Artikel 65*b*<sup>quater</sup> Absatz 1 KVV vorgenommen:
 
-- a. Dänemark: 6,5 Prozent des Apothekeneinstandspreises;
-- b. Grossbritannien: 12,5 Prozent des Grosshandelspreises;
-- c. Niederlande: 6,5 Prozent des Apothekeneinstandspreises;
-- d. Finnland: 3 Prozent des Apothekeneinstandspreises;
-- e. Schweden: 2,7 Prozent des Apothekeneinstandspreises.
+- a.
+
+  Dänemark:
+
+  - 1\. bei patentgeschützten Originalpräparaten: 6,5 Prozent des Apothekeneinstandspreises, höchstens jedoch 224 dänische Kronen,
+  - 2\. bei nicht mehr patentgeschützten Originalpräparaten: 5 Prozent des Apothekeneinstandspreises, höchstens jedoch 224 dänische Kronen;
+
+- b. Grossbritannien: 12,5 Prozent des Publikumspreises;
+- c. Niederlande: 6,5 Prozent des Apothekeneinstandspreises, höchstens jedoch 30 Euro;
+- d. Finnland: 3 Prozent des Apothekeneinstandspreises, höchstens jedoch 30 Euro;
+- e. Schweden: 2,7 Prozent des Apothekeneinstandspreises, höchstens jedoch 167 schwedische Kronen.
 
 <sup>2</sup>
 
-Vom Fabrikabgabepreis in Deutschland werden beim Auslandpreisvergleich die folgenden Herstellerrabatte gemäss Artikel 65*b* Absatz 4 KVV abgezogen:
+Kann die Zulassungsinhaberin nachweisen, dass in Dänemark oder Grossbritannien der effektive Abzug vom Abzug nach Absatz 1 abweicht, so wird der effektive Abzug vorgenommen. Der Abzug vom Apothekeneinstandspreis oder vom Publikumspreis darf jedoch nicht tiefer sein als:
 
-- a.[^34b-2] bei Originalpräparaten: 12 Prozent abzüglich der Umsatzsteuer;
-- b. bei Generika und Originalpräparaten, deren Patentschutz abgelaufen ist: 16 Prozent abzüglich der Umsatzsteuer.[^34b-3]
+- a.[^34b-2] Dänemark: bei patentgeschützten Originalpräparaten 3 Prozent des Apothekeneinstandspreises;
+- b. Grossbritannien: 2 Prozent des Publikumspreises.
 
-<sup>3</sup> Kann die Zulassungsinhaberin belegen, dass die effektive Grosshandelsmarge von der Marge nach Absatz 1 beziehungsweise der effektive Herstellerrabatt vom Herstellerrabatt nach Absatz 2 abweicht, so wird die effektive Grosshandelsmarge beziehungsweise der effektive Herstellerrabatt abgezogen.
+<sup>3</sup>
 
-[^34b-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
-[^34b-2]: Fassung gemäss Ziff. I der V des EDI vom 19. April 2023, in Kraft seit 1. Mai 2023 ([AS 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^34b-3]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+Vom Fabrikabgabepreis in Deutschland werden beim Auslandpreisvergleich die folgenden Herstellerrabatte gemäss Artikel 65*b*<sup>quater</sup> Absatz 2 KVV abgezogen:
+
+- a. bei Originalpräparaten, die in Deutschland patentgeschützt sind: 7 Prozent abzüglich der Umsatzsteuer;
+- b. bei Generika und Originalpräparaten, die in Deutschland nicht mehr patentgeschützt sind: 16 Prozent abzüglich der Umsatzsteuer.[^34b-3]
+
+<sup>4</sup> Kann die Zulassungsinhaberin oder das BAG belegen, dass der effektive Herstellerrabatt vom Herstellerrabatt nach Absatz 3 abweicht, so wird der effektive Herstellerrabatt abgezogen.[^34b-4]
+
+[^34b-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
+[^34b-2]: Siehe auch die UeB Änd. 29.11.2023 am Schluss des Textes.
+[^34b-3]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^34b-4]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 
 #### Art. 34c
 
 **Auslandpreisvergleich: Berechnung und Meldung des Fabrikabgabepreises der Referenzländer**[^34c-1]
 
-<sup>1</sup> Die Zulassungsinhaberin muss dem BAG den Fabrikabgabepreis der Referenzländer mitteilen. Sie muss der Mitteilung eine Bestätigung des Preises durch die Zulassungsinhaberin des Referenzlandes, eine Behörde oder einen Verband beilegen. Das BAG legt in Weisungen die massgeblichen Informationsquellen fest, falls der Fabrikabgabepreis, der Apothekeneinstandspreis oder der Grosshandelspreis nicht eindeutig bestimmbar ist oder die Zulassungsinhaberin die Bekanntgabe der Preise an das BAG verweigert.
+<sup>1</sup> Die Zulassungsinhaberin muss dem BAG den Fabrikabgabepreis der Referenzländer mitteilen. Sie muss der Mitteilung eine Bestätigung des Preises durch die Zulassungsinhaberin des Referenzlandes, durch eine Behörde oder durch einen Verband beilegen. Das BAG legt in Weisungen die massgeblichen Informationsquellen fest, falls der Fabrikabgabepreis, der Apothekeneinstandspreis oder der Publikumspreis nicht eindeutig bestimmbar ist oder die Zulassungsinhaberin die Bekanntgabe der Preise an das BAG verweigert.[^34c-2]
 
 <sup>2</sup> Der Fabrikabgabepreis in den Referenzländern wird gestützt auf einen vom BAG ermittelten durchschnittlichen Wechselkurs über zwölf Monate in Schweizerfranken umgerechnet.
 
 [^34c-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+[^34c-2]: Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
 
 #### Art. 34d
 
@@ -1573,14 +1661,16 @@ Die IT-Gruppen werden in folgende Einheiten nach Artikel 65*d* Absatz 1 KVV eing
 Von der Überprüfung nach Absatz 1 ausgenommen sind Originalpräparate, die:
 
 - a.[^34d-6] seit der letzten Überprüfung ihrer Wirtschaftlichkeit einer Preisüberprüfung aufgrund einer Indikationserweiterung oder einer Änderung oder Aufhebung einer Limitierung nach Artikel 65*f* Absatz 4 KVV unterzogen wurden; das BAG führt die nächste Überprüfung dieser Originalpräparate frühestens im zweiten Jahr nach der letzten Preisüberprüfung durch;
-- b. am 1. Januar des Überprüfungsjahres seit weniger als 13 Monaten in der Spezialitätenliste gelistet sind.
+- b. am 1. Januar des Überprüfungsjahres seit weniger als 13 Monaten in der Spezialitätenliste gelistet sind;
+- c. [^34d-7] befristet in die Spezialitätenliste aufgenommen wurden oder für mindestens eine Indikation befristet vergütet werden.
 
-[^34d-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Siehe auch die UeB Änd. 29.4. Änd. 21.10.2015 und Änd. 1.2.2017 am Ende dieses Textes.
+[^34d-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Siehe auch die UeB Änd. 29.4.2015, Änd. 1.2.2017 und Änd. 22.9.2023 am Ende dieses Textes.
 [^34d-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^34d-3]: Aufgehoben durch Ziff. I der V des EDI vom 1. Febr. 2017, mit Wirkung seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^34d-4]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^34d-5]: Eingefügt durch Ziff. I der V des EDI vom 21. Okt. 2015, in Kraft seit 15. Nov. 2015 ([AS 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
 [^34d-6]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^34d-7]: Eingefügt durch Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)). Siehe auch die UeB Änd. 22.9.2023 am Ende dieses Textes.
 
 #### Art. 34e
 
@@ -1606,27 +1696,20 @@ Auf Verlangen des BAG muss die Zulassungsinhaberin dem BAG folgende Unterlagen e
 
 **Überprüfung der Aufnahmebedingungen alle drei Jahre: therapeutischer Quervergleich**[^34f-1]
 
-<sup>1</sup> Beim therapeutischen Quervergleich nach Artikel 65*b* Absatz 2 Buchstabe b KVV werden diejenigen Originalpräparate berücksichtigt, die zum Zeitpunkt der Überprüfung in der Spezialitätenliste aufgeführt sind und zur Behandlung derselben Krankheit eingesetzt werden.
+<sup>1</sup> Beim therapeutischen Quervergleich nach Artikel 65*b* Absatz 2 Buchstabe a KVV werden diejenigen Originalpräparate sowie Präparate mit bekanntem Wirkstoff, die nicht als Generika in der Spezialitätenliste aufgeführt sind, berücksichtigt, die zum Zeitpunkt der Überprüfung in der Spezialitätenliste aufgeführt sind und zur Behandlung derselben Krankheit eingesetzt werden.[^34f-2]
 
 <sup>2</sup> Die Zulassungsinhaberin muss dem BAG bis zum 15. Februar des Überprüfungsjahres das Ergebnis des therapeutischen Quervergleichs mit den am 1. Januar des Überprüfungsjahres gültigen Fabrikabgabepreisen und alle für diesen Vergleich verwendeten Daten bekannt geben.
 
 <sup>3</sup> Das BAG berücksichtigt Änderungen der für den therapeutischen Quervergleich notwendigen Daten sowie der gültigen Fabrikabgabepreise der Vergleichspräparate bis zum 1. Juli des Überprüfungsjahres.
 
 [^34f-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^34f-2]: Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
 
 #### Art. 34g
 
-**Überprüfung der Aufnahmebedingungen alle drei Jahre: Überprüfung der Wirtschaftlichkeit von Generika**[^34g-1]
+[^34g-1]
 
-Im Zuge der Überprüfung nach Artikel 34*d* Absatz 1 gelten Generika als wirtschaftlich, wenn ihre Fabrikabgabepreise mindestens um die folgenden Prozentsätze tiefer sind als die am 1. Dezember des Überprüfungsjahres geltenden Fabrikabgabepreise der entsprechenden Originalpräparate:
-
-- a. 10 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr 4 Millionen Franken nicht übersteigt;
-- b. 15 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr zwischen 4 Millionen und 8 Millionen Franken liegt;
-- c. 25 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr zwischen 8 Millionen und 16 Millionen Franken liegt;
-- d. 30 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr zwischen 16 Millionen und 25 Millionen Franken liegt;
-- e. 35 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr 25 Millionen Franken übersteigt.
-
-[^34g-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^34g-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Aufgehoben durch Ziff. I der V des EDI vom 22. Sept. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
 
 #### Art. 34h
 
@@ -1643,9 +1726,9 @@ Im Zuge der Überprüfung nach Artikel 34*d* Absatz 1 gelten Generika als wirtsc
 
 **Ausserordentliche Massnahme zur Eindämmung der Kostenentwicklung**[^35-1]
 
-Preiserhöhungen nach Artikel 67 Absatz 2 KVV sind ausgeschlossen. Das BAG kann ausnahmsweise Preiserhöhungen gewähren, wenn die Versorgung der Schweizer Bevölkerung sichergestellt werden muss und therapeutische Alternativen fehlen.
+Preiserhöhungen nach Artikel 67 Absatz 5 KVV sind ausgeschlossen. Das BAG kann ausnahmsweise Preiserhöhungen gewähren, wenn die Versorgung der Schweizer Bevölkerung sichergestellt werden muss und therapeutische Alternativen fehlen.
 
-[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2022, verlängert bis zum 31. Dez. 2023 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885); [2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)Ziff. III 3).
+[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571), [807](https://fedlex.data.admin.ch/eli/oc/2023/807)Ziff. IV Abs. 5).
 
 #### Art. 35a
 
@@ -1669,14 +1752,14 @@ Preiserhöhungen nach Artikel 67 Absatz 2 KVV sind ausgeschlossen. Das BAG kann 
 
 **Wirtschaftlichkeitsbeurteilung während der ersten 15 Jahre[^36-1]**
 
-<sup>1</sup> Arzneimittel, für die ein Preiserhöhungsgesuch gestellt wird, werden vom BAG daraufhin überprüft, ob sie die Voraussetzungen nach Artikel 67 Absatz 2 KVV noch erfüllen.[^36-2]
+<sup>1</sup> Arzneimittel, für die ein Preiserhöhungsgesuch gestellt wird, werden vom BAG daraufhin überprüft, ob sie die Voraussetzungen nach Artikel 67 Absatz 5 KVV noch erfüllen.[^36-2]
 
 <sup>2</sup> Ergibt die Überprüfung, dass der ersuchte Preis zu hoch ist, lehnt das BAG das Gesuch ab.
 
 <sup>3</sup> Die EAK kann dem BAG beantragen, den Innovationszuschlag ganz oder teilweise zu streichen, wenn die Voraussetzungen dafür nicht mehr erfüllt sind.[^36-3]
 
 [^36-1]: Fassung gemäss Ziff. I der V des EDI vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
-[^36-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^36-2]: Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
 [^36-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Mai 2013, in Kraft seit 1. Juni 2013 ([AS 2013 1357](https://fedlex.data.admin.ch/eli/oc/2013/319)).
 
 #### Art. 37
@@ -1809,21 +1892,141 @@ Der Zuschlag je Packung für verschreibungspflichtige Arzneimittel beträgt bei 
 
 [^38a-1]
 
-<sup>1</sup> Für Arzneimittel, deren Fabrikabgabepreis den Durchschnitt der Fabrikabgabepreise des günstigsten Drittels aller Arzneimittel mit gleicher Wirkstoffzusammensetzung auf der Spezialitätenliste um mindestens 10 Prozent übersteigt, beträgt der Selbstbehalt 20 Prozent der die Franchise übersteigenden Kosten.
+<sup>1</sup> Für Arzneimittel, deren Fabrikabgabepreis den Durchschnitt der Fabrikabgabepreise des günstigsten Drittels aller Arzneimittel mit gleicher Wirkstoffzusammensetzung auf der Spezialitätenliste um mindestens 10 Prozent übersteigt, beträgt der Selbstbehalt 40 Prozent der die Franchise übersteigenden Kosten.
 
-<sup>2</sup> Massgebend für die Berechnung des günstigsten durchschnittlichen Drittels ist der Fabrikabgabepreis der umsatzstärksten Packung pro Dosisstärke einer Handelsform aller Arzneimittel mit gleicher Wirkstoffzusammensetzung auf der Spezialitätenliste. Nicht berücksichtigt werden dabei Packungen, die über einen Zeitraum von drei aufeinanderfolgenden Monaten vor der Festlegung des durchschnittlichen günstigsten Drittels der Arzneimittel mit gleicher Wirkstoffzusammensetzung keine Umsätze aufweisen.
+<sup>2</sup> Absatz 1 gilt für Originalpräparate, Generika, Co-Marketing-Arzneimittel, Referenzpräparate und Biosimilars.[^38a-2]
 
-<sup>3</sup> Die Festlegung des günstigsten durchschnittlichen Drittels erfolgt auf den 1. Dezember oder nach Aufnahme des ersten Generikums in die Spezialitätenliste.
+<sup>3</sup> Massgebend für die Berechnung des günstigsten durchschnittlichen Drittels ist der Fabrikabgabepreis der umsatzstärksten Packung pro Dosisstärke einer Handelsform aller Arzneimittel mit gleicher Wirkstoffzusammensetzung auf der Spezialitätenliste. Nicht berücksichtigt werden dabei Packungen, die über einen Zeitraum von drei aufeinanderfolgenden Monaten vor der Festlegung des durchschnittlichen günstigsten Drittels der Arzneimittel mit gleicher Wirkstoffzusammensetzung keine Umsätze aufweisen.
 
-<sup>4</sup> Senkt die Zulassungsinhaberin eines Arzneimittels den Fabrikabgabepreis so unter den Durchschnitt der Fabrikabgabepreise des günstigsten Drittels aller Arzneimittel mit gleicher Wirkstoffzusammensetzung, dass ein Selbstbehalt von 10 Prozent zur Anwendung kommt, so sind sämtliche Packungen pro Dosisstärke einer Handelsform um denselben Senkungssatz zu senken.
+<sup>4</sup> Die Festlegung des günstigsten durchschnittlichen Drittels erfolgt auf den 1. Dezember oder nach Aufnahme des ersten Generikums oder des ersten Biosimilars in die Spezialitätenliste.
 
-<sup>5</sup> Senkt die Zulassungsinhaberin für ein Originalpräparat oder ein Co-Marketing-Arzneimittel nach Patentablauf den Fabrikabgabepreis für sämtliche Packungen in einem Schritt auf das Generikapreisniveau nach Artikel 65*c* Absatz 2 KVV, so gilt für dieses Arzneimittel in den ersten 24 Monaten seit dieser Preissenkung ein Selbstbehalt von 10 Prozent der die Franchise übersteigenden Kosten.
+<sup>5</sup> Senkt die Zulassungsinhaberin eines Arzneimittels den Fabrikabgabepreis so unter den Durchschnitt der Fabrikabgabepreise des günstigsten Drittels aller Arzneimittel mit gleicher Wirkstoffzusammensetzung, dass ein Selbstbehalt von 10 Prozent zur Anwendung kommt, so sind sämtliche Packungen pro Dosisstärke einer Handelsform um denselben Prozentsatz zu senken.
 
-<sup>6</sup> Verschreibt der Arzt oder die Ärztin beziehungsweise der Chiropraktor oder die Chiropraktorin aus medizinischen Gründen ausdrücklich ein Originalpräparat oder lehnt der Apotheker oder die Apothekerin aus medizinischen Gründen eine Substitution ab, kommt Absatz 1 nicht zur Anwendung.
+<sup>6</sup> Senkt die Zulassungsinhaberin für ein Originalpräparat, ein Referenzpräparat oder ein Co-Marketing-Arzneimittel nach Patentablauf den Fabrikabgabepreis für sämtliche Packungen in einem Schritt auf das Preisniveau nach Artikel 65*c* Absatz 2 beziehungsweise Artikel 65*c*<sup>bis</sup> Absatz 2 KVV, so gilt für dieses Arzneimittel in den ersten 24 Monaten nach dieser Preissenkung ein Selbstbehalt von 10 Prozent der die Franchise übersteigenden Kosten.
 
-<sup>7</sup> Der Arzt oder die Ärztin beziehungsweise der Chiropraktor oder die Chiropraktorin sowie der Apotheker oder die Apothekerin informieren den Patienten oder die Patientin, wenn in der Spezialitätenliste mindestens ein mit dem Originalpräparat austauschbares Generikum aufgeführt ist.
+<sup>7</sup> Verschreibt der Arzt oder die Ärztin oder der Chiropraktor oder die Chiropraktorin nachweisbar aus medizinischen Gründen ausdrücklich ein Originalpräparat oder ein Referenzpräparat oder lehnt der Apotheker oder die Apothekerin nachweisbar aus medizinischen Gründen eine Substitution ab, so kommt Absatz 1 nicht zur Anwendung.
 
-[^38a-1]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+<sup>8</sup>
+
+Der Arzt oder die Ärztin oder der Chiropraktor oder die Chiropraktorin sowie der Apotheker oder die Apothekerin informieren den Patienten oder die Patientin, wenn:
+
+- a. in der Spezialitätenliste neben dem Originalpräparat oder dem Referenzpräparat mindestens ein Generikum oder ein Biosimilar mit gleicher Wirkstoffzusammensetzung aufgeführt ist;
+- b. der Selbstbehalt für das abgegebene Arzneimittel mehr als 10 Prozent beträgt.
+
+<sup>9</sup> Für Arzneimittel, die nach den Bestimmungen von Artikel 71*a* KVV vergütet werden, findet dieser Artikel ebenfalls Anwendung.
+
+[^38a-1]: Eingefügt durch Ziff. I der V des EDI vom 1. Feb. 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)). Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
+[^38a-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 773](https://fedlex.data.admin.ch/eli/oc/2023/773)).
+
+### 5. Abschnitt: Vergütung von Arzneimitteln im Einzelfall
+
+[^tit1-chap8-sec5-1]
+
+[^tit1-chap8-sec5-1]: Eingefügt durch Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
+
+#### Art. 38b
+
+**Bewertung des therapeutischen Nutzens**
+
+<sup>1</sup>
+
+Der Vertrauensarzt oder die Vertrauensärztin bewertet den therapeutischen Nutzen eines Arzneimittels:
+
+- a. in einem ersten Schritt anhand der vorliegenden Evidenz in der entsprechenden Indikation; und
+- b. in einem zweiten Schritt im Einzelfall auf der Grundlage der klinischen Gegebenheiten.
+
+<sup>2</sup> Die Bewertung des therapeutischen Nutzens muss mittels eines für die betreffende Krankheit geeigneten standardisierten Nutzenbewertungsmodells vorgenommen werden. Für die Entwicklung der standardisierten Nutzenbewertungsmodelle und deren Weiterentwicklung hören die Vertrauensärzte und Vertrauensärztinnen klinische Fachexperten und -expertinnen an. Diese geben eine Empfehlung ab.
+
+<sup>3</sup> Die Versicherer müssen dem BAG periodisch und bei Anpassungen die standardisierten Nutzenbewertungsmodelle vorlegen. Das BAG hört die EAK dazu an und prüft, ob die in den standardisierten Nutzenbewertungsmodellen festgelegten Kriterien für die Bewertung des therapeutischen Nutzens eines Arzneimittels geeignet sind. Es kann Anpassungen des Modells verlangen.
+
+<sup>4</sup> Bei einem in einer bestimmten Indikation häufig vergüteten Arzneimittel können die Versicherer die Bewertung des therapeutischen Nutzens anhand der vorliegenden Evidenz gemeinsam durchführen. Sie machen die gemeinsame Bewertung allen Versicherern und medizinischen Fachgesellschaften zugänglich.
+
+<sup>5</sup> Ein grosser therapeutischer Nutzen liegt vor, wenn im Vergleich zur Standardtherapie oder zu einem Placebo anhand klinisch relevanter Endpunkte ein bedeutender therapeutischer Fortschritt aufgezeigt wurde oder erwartet werden kann.
+
+<sup>6</sup>
+
+Der therapeutische Nutzen wird entsprechend der Bedeutung des therapeutischen Fortschritts wie folgt eingeteilt:
+
+- a. Nutzenkategorie A: sehr grosser therapeutischer Nutzen;
+- b. Nutzenkategorie B: grosser therapeutischer Nutzen;
+- c. Nutzenkategorie C: erwarteter grosser therapeutischer Nutzen
+- d. Nutzenkategorie D: moderater, geringer oder kein therapeutischer Nutzen.
+
+#### Art. 38c
+
+**Übernahme der Kosten aufgrund des therapeutischen Nutzens des Arzneimittels**
+
+Vergütet werden nur Arzneimittel der Nutzenkategorie A, B und C. Bei Arzneimitteln der Nutzenkategorie C erfolgt eine Vergütung erst, wenn im Rahmen eines Therapieversuchs ein klinisch relevantes Ansprechen auf die Therapie nachgewiesen wurde. Von einem Ansprechen kann namentlich ausgegangen werden, wenn die Therapie länger als zwei Monate gedauert hat.
+
+#### Art. 38d
+
+**Preisabschlag auf Arzneimittel der Spezialitätenliste ausserhalb der genehmigten Fachinformation oder Limitierung im Rahmen von Artikel 71*a* Absatz 1 Buchstabe b KVV**
+
+<sup>1</sup>
+
+Bei einem Arzneimittel der Spezialitätenliste ausserhalb der genehmigten Fachinformation oder Limitierung, dessen Kosten aufgrund der Erfüllung der Voraussetzung nach Artikel 71*a* Absatz 1 Buchstabe b KVV übernommen werden, muss in Bezug auf den Fabrikabgabepreis der Spezialitätenliste folgender Preisabschlag vorgenommen werden:
+
+- a. bei einer Einteilung des Arzneimittels in die Nutzenkategorie A: 30 Prozent;
+- b. bei einer Einteilung des Arzneimittels in die Nutzenkategorie B: 35 Prozent;
+- c. bei einer Einteilung des Arzneimittels in die Nutzenkategorie C: 40 Prozent.
+
+<sup>2</sup>
+
+Bei einem nicht mehr patentgeschützten Originalpräparat oder Referenzpräparat der Spezialitätenliste ausserhalb der genehmigten Fachinformation oder Limitierung, dessen Kosten aufgrund der Erfüllung der Voraussetzung nach Artikel 71*a* Absatz 1 Buchstabe b KVV übernommen werden, muss in Bezug auf den Fabrikabgabepreis der Spezialitätenliste folgender Preisabschlag vorgenommen werden:
+
+- a. bei einer Einteilung des Arzneimittels in die Nutzenkategorie A: 10 Prozent;
+- b. bei einer Einteilung des Arzneimittels in die Nutzenkategorie B: 15 Prozent;
+- c. bei einer Einteilung des Arzneimittels in die Nutzenkategorie C: 20 Prozent.
+
+<sup>3</sup> Liegt das durchschnittliche Generika- oder Biosimilar-Preisniveau unter dem im Vergleich zum Fabrikabgabepreis des entsprechenden Originalpräparats oder des entsprechende Referenzpräparats nach Absatz 2 reduzierten Preis, so ist dieses durchschnittliche Preisniveau auch für das Originalpräparat oder das Referenzpräparat massgebend.
+
+<sup>4</sup> Von den Preisabschlägen nach den Absätzen 1 und 2 ausgenommen sind Generika und Biosimilars, die im Vergleich zum Fabrikabgabepreis des entsprechenden Originalpräparats oder des entsprechenden Referenzpräparats nach den Abschlägen tiefere Preise aufweisen würden.
+
+<sup>5</sup> Der vergütete Preis wird 12 Monate nach der definitiven Zulassung durch die Swissmedic um weitere 10 Prozent reduziert.
+
+<sup>6</sup>
+
+Als sehr tiefe Therapiekosten nach Artikel 71*a* Absatz 5 KVV gelten:
+
+- a. Jahrestherapiekosten bis 730 Franken;
+- b. Tagestherapiekosten bis 2 Franken.
+
+#### Art. 38e
+
+**Preisabschlag auf durch die Swissmedic zugelassene nicht in die Spezialitätenliste aufgenommene Arzneimittel im Rahmen von Artikel 71*a* Absatz 1 Buchstabe b KVV**
+
+<sup>1</sup>
+
+Bei einem durch die Swissmedic zugelassenen nicht in die Spezialitätenliste aufgenommenen Arzneimittel, dessen Kosten aufgrund der Erfüllung der Voraussetzung nach Artikel 71*a* Absatz 1 Buchstabe b KVV übernommen werden, muss in Bezug auf den mittels Auslandpreisvergleich nach Artikel 65*b*<sup>quater</sup> KVV ermittelten Fabrikabgabepreis folgender Preisabschlag vorgenommen werden:
+
+- a. bei einer Einteilung des Arzneimittels in die Nutzenkategorie A: 30 Prozent;
+- b. bei einer Einteilung des Arzneimittels in die Nutzenkategorie B: 35 Prozent;
+- c. bei einer Einteilung des Arzneimittels in die Nutzenkategorie C: 40 Prozent.
+
+<sup>2</sup> Von den Preisabschlägen nach Absatz 1 ausgenommen sind Generika und Biosimilars, die im Vergleich zum Fabrikabgabepreis des entsprechenden Originalpräparats oder des entsprechenden Referenzpräparats nach den Abschlägen tiefere Preise aufweisen würden.
+
+<sup>3</sup> Der vergütete Preis wird 12 Monate nach der definitiven Zulassung durch die Swissmedic um weitere 10 Prozent reduziert.
+
+<sup>4</sup>
+
+Als sehr tiefe Therapiekosten nach Artikel 71*b* Absatz 3 KVV gelten:
+
+- a. Jahrestherapiekosten bis 730 Franken;
+- b. Tagestherapiekosten bis 2 Franken.
+
+#### Art. 38f
+
+**Preisabschlag auf Arzneimittel der Spezialitätenliste ausserhalb der genehmigten Fachinformation oder Limitierung im Rahmen von Artikel 71*a* Absatz 1 Buchstaben a und c KVV**[^38f-1]
+
+Bei einem Arzneimittel der Spezialitätenliste ausserhalb der genehmigten Fachinformation oder Limitierung, dessen Kosten aufgrund der Erfüllung der Voraussetzung nach Artikel 71*a* Absatz 1 Buchstabe a oder c KVV übernommen werden, muss in Bezug auf den Fabrikabgabepreis der Spezialitätenliste ein Preisabschlag von 30 Prozent vorgenommen werden.
+
+[^38f-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 773](https://fedlex.data.admin.ch/eli/oc/2023/773)).
+
+#### Art. 38g
+
+**Preisabschlag auf durch die Swissmedic zugelassene nicht in die Spezialitätenliste aufgenommene Arzneimittel im Rahmen von Artikel 71*a* Absatz 1 Buchstabe a und c KVV**
+
+Bei einem durch die Swissmedic zugelassenen nicht in die Spezialitätenliste aufgenommenen Arzneimittel, dessen Kosten aufgrund der Erfüllung der Voraussetzung nach Artikel 71*a* Absatz 1 Buchstabe a oder c KVV übernommen werden, muss in Bezug auf den mittels Auslandpreisvergleich nach Artikel 65*b*<sup>quater</sup> KVV ermittelten Fabrikabgabepreis ein Preisabschlag von 30 Prozent vorgenommen werden.
 
 ## 2. Titel: Voraussetzungen der Leistungserbringung
 
@@ -1885,17 +2088,19 @@ Als höhere Fachausbildung im Sinne von Artikel 54 Absatz 2 KVV gilt:
 Die Analysen des Kapitels Genetik der Analysenliste dürfen nur in Laboratorien durchgeführt werden:
 
 - a. deren Leiterin oder Leiter sich über einen Weiterbildungstitel in Labormedizin im Fachgebiet medizinische Genetik (Genetik des Menschen mit Ausrichtung auf Gesundheit und Krankheit) nach Artikel 54 Absatz 3 Buchstabe b KVV ausweist;
-- b. die für die entsprechenden Untersuchungen über eine Bewilligung nach Artikel 8 GUMG[^43-2] verfügen.
+- b.[^43-2] die für die entsprechenden Untersuchungen über eine Bewilligung nach Artikel 28 GUMG[^43-3] verfügen.
 
 <sup>2</sup>
 
 Einzelne Analysen des Kapitels Genetik der Analysenliste dürfen auch in Laboratorien durchgeführt werden:
 
 - a. deren Leiterin oder Leiter sich über einen Weiterbildungstitel in Labormedizin nach Artikel 54 Absatz 3 Buchstabe b KVV in den Fachgebieten Hämatologie, klinische Chemie oder klinische Immunologie ausweist;
-- b. die für die entsprechenden Untersuchungen über eine Bewilligung nach Artikel 8 GUMG verfügen.
+- b.[^43-4] die für die entsprechenden Untersuchungen über eine Bewilligung nach Artikel 28 GUMG verfügen.
 
 [^43-1]: Fassung gemäss Ziff. I der V des EDI vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
-[^43-2]: [[AS 2007 635](https://fedlex.data.admin.ch/eli/oc/2007/131); [2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)Anhang Ziff. 3. [AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537)Anhang Ziff. I]. Siehe heute: BG vom 15. Juni 2018 ([SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)).
+[^43-2]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^43-3]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^43-4]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 
 ## 3. Titel: Schlussbestimmungen
 
@@ -2082,7 +2287,10 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 <sup>2</sup> Die Frist nach Absatz 1 wird bis zum 31. Dezember 2023 verlängert.[^u12-2]
 
+<sup>3</sup> Die Frist nach Absatz 1 wird bis zum 31. Dezember 2025 verlängert.[^u12-3]
+
 [^u12-2]: Eingefügt durch Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+[^u12-3]: Eingefügt durch Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 
 ## Übergangsbestimmung zur Änderung vom 19. März 2021
 
@@ -2106,6 +2314,26 @@ Die Versicherung übernimmt die Kosten für Leistungen der delegierten Psychothe
 
 Artikel 34*b* Absatz 2 Buchstabe a gilt auch für Verfahren, die beim Inkrafttreten der Änderung vom 19. April 2023 beim BAG hängig sind.
 
+## Übergangsbestimmungen zur Änderung vom 22. September 2023
+
+[^u16-1]
+
+[^u16-1]: [AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)
+
+<sup>1</sup> Die Änderung vom 22. September 2023 gilt auch für Verfahren, die beim Inkrafttreten dieser Änderung beim BAG hängig sind.
+
+<sup>2</sup> Für Verfahren der Überprüfung der Aufnahmebedingungen alle drei Jahre nach Artikel 34*d*, die beim Inkrafttreten der Änderung vom 22. September 2023 beim BAG hängig sind, gilt das bisherige Recht.
+
+## Übergangsbestimmung zur Änderung vom 29. November 2023
+
+[^u17-1]
+
+[^u17-1]: [AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)
+
+Für Verfahren der Überprüfung der Aufnahmebedingungen alle drei Jahre nach Artikel 34*d* des Jahres 2023, die beim Inkrafttreten der Änderung vom 29. November 2023 beim BAG hängig sind, gilt Artikel 34*b* Absatz 2 Buchstabe a in der Fassung vom 19. April 2023[^u17-2].
+
+[^u17-2]: [AS 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)
+
 Anhang 1[^t-2]
 
 (Art. 1)
@@ -2114,8 +2342,8 @@ Anhang 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)) und vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^annex1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/313](https://fedlex.data.admin.ch/eli/oc/2023/313) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) und vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^annex1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 1a[^t-3]
 
@@ -2125,8 +2353,8 @@ Anhang 1a[^t-3]
 
 [^annex1a-lvlu1-1]
 
-[^t-3]: Eingefügt durch Ziff. III Abs. 4 der V des EDI vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)) und vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^annex1a-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/313](https://fedlex.data.admin.ch/eli/oc/2023/313) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-3]: Eingefügt durch Ziff. III Abs. 4 der V des EDI vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) und vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^annex1a-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2[^t-4]
 
@@ -2136,8 +2364,8 @@ Anhang 2[^t-4]
 
 [^annex2-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. I der V des EDI vom 7. Juni 2018 ([AS 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 2 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 6. Dez. 2019 ([AS 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), Ziff. II Abs. 2 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. I der V des EDI vom 8. Juni 2021 ([AS 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), Ziff. II Abs. 3 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), Ziff. II Abs. 2 der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), vom 1. Sept. 2022 ([AS 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)) und vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/313](https://fedlex.data.admin.ch/eli/oc/2023/313) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. I der V des EDI vom 7. Juni 2018 ([AS 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 2 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 6. Dez. 2019 ([AS 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), Ziff. II Abs. 2 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. I der V des EDI vom 8. Juni 2021 ([AS 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), Ziff. II Abs. 3 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), Ziff. II Abs. 2 der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), vom 1. Sept. 2022 ([AS 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) und vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-5]
 
@@ -2147,8 +2375,8 @@ Anhang 3[^t-5]
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Bereinigt gemäss Ziff. I der V des EDI vom 28. Jan. 2009 ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), vom 26. Juni 2009 ([AS 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), Ziff. II Abs. 3 der V des EDI vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), Ziff. I der V des EDI vom 13. Aug. 2012 ([AS 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), Ziff. II Abs. 3 der V des EDI vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), Ziff. I der V des EDI vom 21. Okt. 2014 ([AS 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), Ziff. II Abs. 3 der V des EDI vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 3 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), vom 27. April 2020 ([AS 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. I der V des EDI vom 25. Sept. 2020 ([AS 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 5. Jan. 2021 ([AS 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), vom 26. Febr. 2021 ([AS 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), Ziff. II Abs. 3 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. II Abs. 4 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), Ziff. II Abs. 3 der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), Ziff. I der V des EDI vom 21. Dez. 2022 ([AS 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)), vom 27. Jan. 2023 ([AS 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)) Ziff. II der V des EDI vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) und Ziff. I der V des EDI vom 17. Okt. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 603](https://fedlex.data.admin.ch/eli/oc/2023/603)).
-[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/603](https://fedlex.data.admin.ch/eli/oc/2023/603) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Bereinigt gemäss Ziff. I der V des EDI vom 28. Jan. 2009 ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), vom 26. Juni 2009 ([AS 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), Ziff. II Abs. 3 der V des EDI vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), Ziff. I der V des EDI vom 13. Aug. 2012 ([AS 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), Ziff. II Abs. 3 der V des EDI vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), Ziff. I der V des EDI vom 21. Okt. 2014 ([AS 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), Ziff. II Abs. 3 der V des EDI vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 3 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), vom 27. April 2020 ([AS 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. I der V des EDI vom 25. Sept. 2020 ([AS 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 5. Jan. 2021 ([AS 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), vom 26. Febr. 2021 ([AS 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), Ziff. II Abs. 3 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. II Abs. 4 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), Ziff. II Abs. 3 der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), Ziff. I der V des EDI vom 21. Dez. 2022 ([AS 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)), vom 27. Jan. 2023 ([AS 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)) ), Ziff. II der V des EDI vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), Ziff. I der V des EDI vom 17. Okt. 2023 ([AS 2023 603](https://fedlex.data.admin.ch/eli/oc/2023/603)) und Ziff. II der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^annex3-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-6]
 
@@ -2158,5 +2386,5 @@ Anhang 4[^t-6]
 
 [^annex4-lvlu1-1]
 
-[^t-6]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 2. Juni 2005 ([AS 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), Ziff. II Abs. 4 der V des EDI vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. II Abs. 5 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)) und Ziff. II der V des EDI vom 19. April 2023, in Kraft seit 1. Mai 2023 ([AS 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)).
-[^annex4-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/195](https://fedlex.data.admin.ch/eli/oc/2023/195) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-6]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 2. Juni 2005 ([AS 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), Ziff. II Abs. 4 der V des EDI vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. II Abs. 5 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. II der V des EDI vom 19. April 2023 ([AS 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)) und vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^annex4-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
