@@ -4,11 +4,11 @@ title: Ordonnance du 2 septembre 2009 sur le cadastre des restrictions de droit 
 short: OCRDP
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/553"
 language: fr
-version: 2020-01-01
+version: 2024-01-01
 adopted: 2009-09-02
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/553/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-553-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/553/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-553-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20200101/fr"
 
 (OCRDP)
 
-du 2 septembre 2009 (Etat le 1<sup>er</sup> janvier 2020)
+du 2 septembre 2009 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -52,7 +52,7 @@ arrête:
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
 
-## Section 2 Contenu, primauté et niveaux d’information****
+## Section 2 Contenu, primauté et niveaux d’information
 
 [^sec2-1]
 
@@ -133,7 +133,7 @@ L’organisme responsable du cadastre vérifie si la confirmation prévue par l�
 
 Le canton règle les modalités de la procédure d’inscription.
 
-## Section 3*a***** Renvoi au registre foncier, informations supplémentaires
+## Section 3*a* Renvoi au registre foncier, informations supplémentaires
 
 [^sec3a-1]
 
@@ -192,13 +192,14 @@ Il comporte au moins:
 - c. les renvois aux bases légales visés à l’art. 3, let. d;
 - d. les informations concernant les modifications prévues ou en cours de restrictions de droit public à la propriété foncière visées à l’art. 8*b*, al. 1, let. a.
 
-<sup>3</sup> Les données relatives aux restrictions de droit public à la propriété foncière sont superposées à la couche d’information «bien-fonds» de la mensuration officielle.
+<sup>3</sup> Les données relatives aux restrictions de droit public à la propriété foncière sont superposées aux limites des immeubles correspondant aux données de la mensuration officielle.[^10-2]
 
 <sup>4</sup> L’extrait précise les éléments de contenu du cadastre qui sont représentés et ceux qui sont omis.
 
 <sup>5</sup> L’Office fédéral de topographie édicte des prescriptions applicables à la production et à la représentation d’extraits.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
+[^10-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 11 et 12
 
@@ -229,11 +230,12 @@ L’Office fédéral de topographie permet l’accès aux cadastres des cantons 
 Par la certification, il est officiellement confirmé:
 
 - a. que les données reproduites correspondent à l’état du cadastre à la date indiquée;
-- b. que la couche d’information «biens-fonds» correspond bien à son état à la date indiquée.
+- b.[^14-2] que les limites des immeubles correspondant aux données de la mensuration officielle correspondent bien à leur état à la date indiquée.
 
 <sup>4</sup> Le canton règle les modalités de la procédure de certification.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
+[^14-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 15
 

@@ -4,11 +4,11 @@ title: Ordinanza del 2 settembre 2009 sul Catasto delle restrizioni di diritto p
 short: OCRDPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/553"
 language: it
-version: 2020-01-01
+version: 2024-01-01
 adopted: 2009-09-02
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/553/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2009-553-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/553/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-553-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20200101/it"
 
 (OCRDPP)
 
-del 2 settembre 2009 (Stato 1° gennaio 2020)
+del 2 settembre 2009 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -52,7 +52,7 @@ ordina:
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
 
-## Sezione 2: Contenuto, carattere determinante e grado di dettaglio informativo****
+## Sezione 2: Contenuto, carattere determinante e grado di dettaglio informativo
 
 [^sec2-1]
 
@@ -133,7 +133,7 @@ L’organo responsabile del Catasto verifica la ricezione della conferma di cui 
 
 I Cantoni disciplinano i dettagli della procedura d’iscrizione.
 
-## Sezione 3*a*:**** Rinvio al registro fondiario, informazioni supplementari
+## Sezione 3*a*: Rinvio al registro fondiario, informazioni supplementari
 
 [^sec3a-1]
 
@@ -192,13 +192,14 @@ L’estratto contiene almeno:
 - c. le indicazioni concernenti le basi legali di cui all’articolo 3 lettera d;
 - d. le informazioni concernenti le modifiche previste o in corso delle restrizioni di diritto pubblico della proprietà di cui all’articolo 8*b* capoverso 1 lettera a.
 
-<sup>3</sup> I dati concernenti le restrizioni di diritto pubblico della proprietà sono sovrapposti al livello d’informazione «Beni immobili» della misurazione ufficiale.
+<sup>3</sup> I dati concernenti le restrizioni di diritto pubblico della proprietà sono sovrapposti ai confini dei fondi secondo i dati della misurazione ufficiale.[^10-2]
 
 <sup>4</sup> L’estratto informa circa quali contenuti del Catasto vi sono rappresentati e quali vi sono stati omessi.
 
 <sup>5</sup> L’Ufficio federale di topografia emana istruzioni in merito all’allestimento e alla rappresentazione di estratti.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
+[^10-2]: Nuovo testo giusta l’all. n. 7 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 11 e 12
 
@@ -229,11 +230,12 @@ L’Ufficio federale di topografia rende possibile l’accesso ai Catasti dei Ca
 Mediante l’autenticazione è ufficialmente attestato che:
 
 - a. i dati riprodotti corrispondono allo stato del Catasto alla data indicata;
-- b. che il livello d’informazione «Beni immobili» corrisponde allo stato alla data indicata.
+- b.[^14-2] i confini dei fondi secondo i dati della misurazione ufficiale corrispondano allo stato alla data indicata.
 
 <sup>4</sup> I Cantoni disciplinano i dettagli della procedura di autenticazione.
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
+[^14-2]: Nuovo testo giusta l’all. n. 7 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 15
 

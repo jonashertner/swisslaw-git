@@ -4,11 +4,11 @@ title: Verordnung vom 2. September 2009 über den Kataster der öffentlich-recht
 short: ÖREBKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/553"
 language: de
-version: 2020-01-01
+version: 2024-01-01
 adopted: 2009-09-02
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/553/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2009-553-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/553/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-553-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/553/20200101/de"
 
 (ÖREBKV)
 
-vom 2. September 2009 (Stand am 1. Januar 2020)
+vom 2. September 2009 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -52,7 +52,7 @@ verordnet:
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
 
-## 2. Abschnitt: Inhalt, Massgeblichkeit und Informationstiefe****
+## 2. Abschnitt: Inhalt, Massgeblichkeit und Informationstiefe
 
 [^sec2-1]
 
@@ -133,7 +133,7 @@ Die für den Kataster verantwortliche Stelle überprüft, ob die Bestätigung na
 
 Der Kanton regelt die Einzelheiten des Aufnahmeverfahrens.
 
-## 3*a*. Abschnitt:**** Hinweis auf das Grundbuch, Zusatzinformationen
+## 3*a*. Abschnitt: Hinweis auf das Grundbuch, Zusatzinformationen
 
 [^sec3a-1]
 
@@ -192,13 +192,14 @@ Er enthält mindestens:
 - c. die Hinweise auf die gesetzlichen Grundlagen nach Artikel 3 Buchstabe d;
 - d. Informationen über geplante oder laufende Änderungen öffentlich-rechtlicher Eigentumsbeschränkungen nach Artikel 8*b* Absatz 1 Buchstabe a.
 
-<sup>3</sup> Die Daten über öffentlich-rechtliche Eigentumsbeschränkungen werden der Informationsebene Liegenschaften der amtlichen Vermessung überlagert.
+<sup>3</sup> Die Daten über öffentlich-rechtliche Eigentumsbeschränkungen werden den Grenzen der Grundstücke gemäss den Daten der amtlichen Vermessung überlagert. [^10-2]
 
 <sup>4</sup> Der Auszug informiert darüber, welche Inhalte des Katasters dargestellt und welche Inhalte weggelassen werden.
 
 <sup>5</sup> Das Bundesamt für Landestopografie erlässt Weisungen über die Erstellung und Darstellung von Auszügen.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
+[^10-2]: Fassung gemäss Anhang Ziff. 7 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 11 und 12
 
@@ -229,11 +230,12 @@ Das Bundesamt für Landestopografie ermöglicht den Zugang zu den Katastern der 
 Mit der Beglaubigung wird amtlich bestätigt:
 
 - a. dass die wiedergegebenen Daten dem mit Datum bezeichneten Stand des Katasters entsprechen;
-- b. dass die Informationsebene Liegenschaften dem mit Datum bezeichneten Stand entspricht.
+- b. [^14-2] dass die Grenzen der Grundstücke gemäss den Daten der amtlichen Vermessung dem mit Datum bezeichneten Stand entsprechen.
 
 <sup>4</sup> Der Kanton regelt die Einzelheiten des Beglaubigungsverfahrens.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3095](https://fedlex.data.admin.ch/eli/oc/2019/568)).
+[^14-2]: Fassung gemäss Anhang Ziff. 7 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 15
 
