@@ -4,11 +4,11 @@ title: "Federal Act of 20 March 1981 on International Mutual Assistance in Crimi
 short: IMAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20230901-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20240101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Mutual Assistance Act, IMAC)
 
-of 20 March 1981 (Status as of 1 September 2023)
+of 20 March 1981 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -185,7 +185,7 @@ A request shall not be granted if:[^5-1]
 
 **Reciprocity**
 
-<sup>1</sup> As a rule, a request shall be granted only if the requesting State guarantees reciprocity. The Federal Office of Justice[^8-1] of the Federal Department of Justice and Police (Federal Office) shall obtain a guarantee of reciprocity if this is considered necessary.
+<sup>1</sup> As a rule, a request shall be granted only if the requesting State guarantees reciprocity. The Federal Office of Justice (FOJ)[^8-1] shall obtain a guarantee of reciprocity if this is considered necessary.
 
 <sup>2</sup>
 
@@ -197,7 +197,7 @@ Reciprocity is in particular not required for the service of documents or if the
 
 <sup>3</sup> The Federal Council may, within the scope of this Act, provide other States with a guarantee of reciprocity.
 
-[^8-1]: The designation of the administrative unit has been adapted according to Art. 16 para. 3 of the O of 17 Nov. 2004 on official publications ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^8-1]: Name in accordance with Annex 1 No 11 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)). This amendment has been made in the provisions specified in the AS.
 [^8-2]: Amended by No I of the FA of 4 Oct. 1996, in force since 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
 #### Art. 8a
@@ -244,7 +244,7 @@ In the execution of requests, protection of privacy shall be governed by the pro
 
 <sup>1</sup>
 
-The Federal Office of Justice shall run a personal data, file and process management system that may contain sensitive personal data obtained through forms of cooperation governed by this Act. This data may be processed in order to:
+The FOJ shall run a personal data, file and process management system that may contain sensitive personal data obtained through forms of cooperation governed by this Act. This data may be processed in order to:
 
 - a. identify whether data on a particular person is being processed;
 - b. process data on processes;
@@ -260,7 +260,7 @@ In order to comply with the processing purposes mentioned in paragraph 1, the sy
 - b. data necessary for the localisation and proper administration of the dossier;
 - c. documents on electronically stored processes and entries.
 
-<sup>3</sup> The Federal Office of Police and the State Secretariat for Migration[^11a-1] and the units of the Federal Intelligence Service responsible for the implementation of the Federal Act of 21 March 1997[^11a-2] on Measures to Safeguard Internal Security shall have online access to the data defined in paragraph 2 letter a.[^11a-3] If the Federal Office of Police carries out the tasks of the Federal Office of Justice under this Act, it shall also have online access to the data defined in paragraph 2 letter b.
+<sup>3</sup> The Federal Office of Police and the State Secretariat for Migration[^11a-1] and the units of the Federal Intelligence Service responsible for the implementation of the Federal Act of 21 March 1997[^11a-2] on Measures to Safeguard Internal Security shall have online access to the data defined in paragraph 2 letter a.[^11a-3] If the Federal Office of Police carries out the tasks of the FOJ under this Act, it shall also have online access to the data defined in paragraph 2 letter b.
 
 <sup>4</sup>
 
@@ -268,7 +268,7 @@ The Federal Council shall specify the details, and in particular:
 
 - a. in the case of the recording of data in accordance with paragraph 2 letters a and b, data on the judicial authorities involved in the mutual assistance proceedings and data on the offences giving rise to the request for mutual assistance;
 - b. the period of time that the data is kept and the archiving of the data;
-- c. the agencies of the Federal Office that are authorised to process the data directly in the system and the data that in individual cases may be disclosed to other authorities.
+- c. the agencies of the FOJ that are authorised to process the data directly in the system and the data that in individual cases may be disclosed to other authorities.
 
 [^11a-1]: The name of this administrative unit was amended by Art. 16 para. 2 of the Publications O of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), in force since 1 Jan. 2015.
 [^11a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
@@ -306,19 +306,19 @@ The competent authority may refuse to provide the information, limit the informa
 
 **Restriction of the right to information in relation to requests for arrest for the purpose of extradition**
 
-<sup>1</sup> Any person may request information on whether Switzerland has received a request from a foreign state to make an arrest for the purpose of extradition. This right may be asserted at the Federal Office. If the request is made to a different authority, that authority shall forward the request immediately to the Federal Office.
+<sup>1</sup> Any person may request information on whether Switzerland has received a request from a foreign state to make an arrest for the purpose of extradition. This right may be asserted at the FOJ. If the request is made to a different authority, that authority shall forward the request immediately to the FOJ.
 
-<sup>2</sup> If a person requests information on whether the Federal Office has received a request to make an arrest for the purpose of extradition, the Federal Office shall notify the person that no data about them has been unlawfully processed and that the person can request the Federal Data Protection and Information Commissioner (the FDPIC) to enquire as to whether any data on them has been lawfully processed.[^11c-1]
+<sup>2</sup> If a person requests information on whether the FOJ has received a request to make an arrest for the purpose of extradition, the FOJ shall notify the person that no data about them has been unlawfully processed and that the person can request the Federal Data Protection and Information Commissioner (the FDPIC) to enquire as to whether any data on them has been lawfully processed.[^11c-1]
 
 <sup>3</sup> The FDPIC shall conduct the enquiries; he shall notify the person concerned either that no data about them has been unlawfully processed or that he has opened an investigation under Article 49 of the Data Protection Act of 25 September 2020[^11c-2] in the case of errors in the processing of personal data.[^11c-3]
 
-<sup>4</sup> If the FDPIC identifies errors in the data processing, he shall order the Federal Office to rectify the same.[^11c-4]
+<sup>4</sup> If the FDPIC identifies errors in the data processing, he shall order the FOJ to rectify the same.[^11c-4]
 
 <sup>5</sup> The notifications under paragraphs 2 and 3 shall always be worded in the same way and shall not mention the grounds.
 
 <sup>6</sup> The notification under paragraph 3 may not be contested.
 
-<sup>7</sup> In derogation from paragraph 2, the Federal Office is entitled to provide the person concerned with the requested information if the requesting state gives its advance consent.
+<sup>7</sup> In derogation from paragraph 2, the FOJ is entitled to provide the person concerned with the requested information if the requesting state gives its advance consent.
 
 [^11c-1]: Amended by Annex 1 No II 29 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^11c-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
@@ -491,7 +491,7 @@ Compensation for detention pending extradition served in Switzerland may also be
 
 <sup>1</sup> The Federal Department of Justice and Police (the Department) shall decide on cases under Article 1 letter *a*.[^17-1] The decision of the Department may be requested within 30 days of receiving written notification of the final ruling.[^17-2]
 
-<sup>2</sup> The Federal Office shall receive the requests from abroad and file Swiss requests. It shall handle extradition requests and arrange for requests for other assistance, transfer of proceedings and execution of criminal judgments to be examined by the appropriate cantonal or federal authorities if their execution is not obviously inadmissible.
+<sup>2</sup> The FOJ shall receive the requests from abroad and file Swiss requests. It shall handle extradition requests and arrange for requests for other assistance, transfer of proceedings and execution of criminal judgments to be examined by the appropriate cantonal or federal authorities if their execution is not obviously inadmissible.
 
 <sup>3</sup>
 
@@ -515,7 +515,7 @@ It shall decide:
 
 <sup>1</sup> The competent authority shall execute requests promptly. It shall decide without delay.
 
-<sup>2</sup> It shall on request provide the Federal Office with information on the status of the proceedings, the reasons for any delay and the measures being considered. If the delay is not justified, the Federal Office may take the matter up with the appropriate supervisory authority.
+<sup>2</sup> It shall on request provide the FOJ with information on the status of the proceedings, the reasons for any delay and the measures being considered. If the delay is not justified, the FOJ may take the matter up with the appropriate supervisory authority.
 
 <sup>3</sup> When the competent authority, without reason, refuses to or delays in issuing a ruling, its conduct shall be regarded as equivalent to a negative decision subject to appeal.
 
@@ -527,7 +527,7 @@ It shall decide:
 
 <sup>1</sup> At the express request of another State, provisional measures may be taken by the competent authority to preserve the existing situation, to safeguard threatened legal interests or to protect jeopardised evidence unless the proceedings under this Act clearly appear to be inadmissible or inappropriate.
 
-<sup>2</sup> If any delay would jeopardise the proceedings and if there is sufficient information to determine whether all the conditions are met, the Federal Office may likewise order provisional measures as soon as a request is announced. Such measures shall be revoked if the foreign State does not make the request within the deadline set.
+<sup>2</sup> If any delay would jeopardise the proceedings and if there is sufficient information to determine whether all the conditions are met, the FOJ may likewise order provisional measures as soon as a request is announced. Such measures shall be revoked if the foreign State does not make the request within the deadline set.
 
 <sup>3</sup> Appeals filed against rulings based on this Article do not have suspensive effect.
 
@@ -537,14 +537,14 @@ It shall decide:
 
 **Surveillance of postal and telecommunications traffic**[^18a-1]
 
-<sup>1</sup> In extradition cases, the Federal Office may, at the express request of another State order the surveillance of postal and telecommunications traffic in order to establish the whereabouts of the defendant.
+<sup>1</sup> In extradition cases, the FOJ may, at the express request of another State order the surveillance of postal and telecommunications traffic in order to establish the whereabouts of the defendant.
 
 <sup>2</sup>
 
 In other mutual assistance cases, the following authorities may order the surveillance of postal and telecommunications traffic:
 
 - a. the Office of the Attorney General of Switzerland or of the Cantonal Public Prosecutor;
-- b. the Federal Office, if it is executing the request for mutual assistance itself.
+- b. the FOJ, if it is executing the request for mutual assistance itself.
 
 <sup>3</sup>
 
@@ -572,7 +572,7 @@ The federal or cantonal authority dealing with a request for mutual assistance m
 
 <sup>2</sup> The data may not be used in evidence before the ruling on granting and the extent of mutual assistance is legally binding.
 
-<sup>3</sup> Notice of the ruling under paragraph 1 and any order or authorisation for surveillance must be given to the Federal Office immediately.
+<sup>3</sup> Notice of the ruling under paragraph 1 and any order or authorisation for surveillance must be given to the FOJ immediately.
 
 [^18b-1]: Inserted by Art. 2 No 2 of the FD of 18 March 2011 (Council of Europe Convention on Cybercrime), in force since 1 Jan. 2012 ([AS 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [BBl 2010 4697](https://fedlex.data.admin.ch/eli/fga/2010/813)).
 [^18b-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -589,7 +589,7 @@ If the defendant is abroad and if, according to the laws of the State to which t
 
 <sup>1</sup>
 
-At the request of the Federal Office, the competent authority may temporarily suspend criminal proceedings or the execution of a sentence against a defendant abroad for another offence if:
+At the request of the FOJ, the competent authority may temporarily suspend criminal proceedings or the execution of a sentence against a defendant abroad for another offence if:
 
 - a. the sentence imposed in Switzerland is not of great importance in comparison to the one likely to be imposed abroad; or
 - b. execution of the sentence in Switzerland does not seem appropriate.
@@ -600,16 +600,16 @@ At the request of the Federal Office, the competent authority may temporarily su
 
 **Transit**[^20a-1]
 
-<sup>1</sup> In the interest of proceedings carried out in another State and permitted under this Act, the Federal Office may permit transit through Swiss territory and approve the measures required therefor on submission of a request by the State concerned or a third State without hearing the person concerned. There is no right of appeal against the decision and ancillary measures. They shall be notified only to the requesting State.
+<sup>1</sup> In the interest of proceedings carried out in another State and permitted under this Act, the FOJ may permit transit through Swiss territory and approve the measures required therefor on submission of a request by the State concerned or a third State without hearing the person concerned. There is no right of appeal against the decision and ancillary measures. They shall be notified only to the requesting State.
 
 <sup>2</sup>
 
 No approval shall be required if the detained person is to be transported by aircraft over Swiss territory without a stopover landing. In the event of an unscheduled stopover landing, the detained person may be kept in custody only if:
 
 - a. the requirements for his arrest under Article 44 are met; or
-- b. the State arranging for the transport to be made has previously informed the Federal Office by indicating the reason for surrender and the offence which is the basis for it.
+- b. the State arranging for the transport to be made has previously informed the FOJ by indicating the reason for surrender and the offence which is the basis for it.
 
-<sup>3</sup> Only the Federal Office may interrupt the transit to prosecute an offence or to execute a criminal judgment in Switzerland.
+<sup>3</sup> Only the FOJ may interrupt the transit to prosecute an offence or to execute a criminal judgment in Switzerland.
 
 [^20a-1]: Inserted by No I of the FA of 4 Oct. 1996, in force since 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -665,7 +665,7 @@ Rulings and decisions issued by federal and cantonal authorities must give notic
 
 <sup>2bis</sup> An appeal against a Swiss request for transferring responsibility for the execution of a criminal judgment in connection with a transfer under Article 101 paragraph 2 is admissible.[^25-4]
 
-<sup>3</sup> The Federal Office may appeal against rulings by cantonal authorities as well as against decisions by the Federal Criminal Court. The cantonal authority is entitled to appeal against the decision of the Federal Office not to make a request.[^25-5]
+<sup>3</sup> The FOJ may appeal against rulings by cantonal authorities as well as against decisions by the Federal Criminal Court. The cantonal authority is entitled to appeal against the decision of the FOJ not to make a request.[^25-5]
 
 <sup>4</sup> An appeal may also be filed against the inadmissible or obviously improper application of foreign law.
 
@@ -698,7 +698,7 @@ Rulings made by the Department under Article 17 paragraph 1 shall be subject to 
 
 <sup>1</sup> Articles 27 to 31 apply to all procedures under this Act subject to the special rules of procedure provided for in the other parts of this Act.[^27-1]
 
-<sup>2</sup> Foreign requests shall be addressed directly to the Federal Office.
+<sup>2</sup> Foreign requests shall be addressed directly to the FOJ.
 
 <sup>3</sup> Requests which are addressed to an inappropriate authority shall be forwarded ex officio. The requesting authority shall be duly notified.
 
@@ -742,7 +742,7 @@ To permit the legal assessment of the offence, the following shall be added:
 
 **Transmission**
 
-<sup>1</sup> The Federal Office may receive requests directly from the ministry of justice of the requesting State.
+<sup>1</sup> The FOJ may receive requests directly from the ministry of justice of the requesting State.
 
 <sup>2</sup> When provisional measures must be taken or in urgent cases, the intervention of the International Criminal Police organisation (ICPO Interpol) may be enlisted or a copy of the written request may be sent directly to the authority competent for its execution.
 
@@ -752,11 +752,16 @@ To permit the legal assessment of the offence, the following shall be added:
 
 <sup>1</sup> Swiss authorities may not address to another State requests which they themselves could not grant under this Act.
 
-<sup>2</sup> The Federal Office is competent for requests for extradition, transfer of proceedings or execution of criminal judgments; it shall take action at the request of the cantonal authority.
+<sup>2</sup> The FOJ is competent for requests for extradition, transfer of proceedings or execution of criminal judgments; it shall take action at the request of the requesting Swiss authority.[^30-1]
 
 <sup>3</sup> Conditions which the requested State attaches to the execution of the request must be observed by the Swiss authorities.
 
-<sup>4</sup> The Federal Office may decline to make a request if the importance of the offence does not justify the proceedings.
+<sup>4</sup> The FOJ may decline to make a request if the importance of the offence does not justify the proceedings.
+
+<sup>5</sup> The FOJ shall inform the requesting Swiss authority immediately if the requested State requires a court order for a requested mutual assistance measure.[^30-2]
+
+[^30-1]: Amended by Annex 1 No 11 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^30-2]: Inserted by Annex 1 No 11 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 31
 
@@ -905,7 +910,7 @@ Requests for tracing and arrest with a view to extradition shall contain, in add
 
 **Consideration of the request**
 
-The Federal Office shall decide whether and under what conditions it will consider the request.
+The FOJ shall decide whether and under what conditions it will consider the request.
 
 ### Section 2 Provisional Measures
 
@@ -929,7 +934,7 @@ Foreign nationals may be arrested with a view to extradition on the basis of a r
 
 **Notice of execution. Duration of measures**
 
-<sup>1</sup> Arrest and seizure shall be reported to the Federal Office.
+<sup>1</sup> Arrest and seizure shall be reported to the FOJ.
 
 <sup>2</sup> They shall continue until a decision concerning the detention awaiting extradition is issued but at the latest until the third workday after the arrest.
 
@@ -941,14 +946,14 @@ Foreign nationals may be arrested with a view to extradition on the basis of a r
 
 <sup>1</sup>
 
-The Federal Office shall issue an arrest warrant with a view to extradition. It may decline to do so, especially if the defendant:
+The FOJ shall issue an arrest warrant with a view to extradition. It may decline to do so, especially if the defendant:
 
 - a. will probably not elude extradition and will not endanger the criminal investigation; or
 - b. can prove without delay that he was not at the place of the offence when it was committed.
 
-<sup>2</sup> If the defendant is unfit to remain in detention or if there are other valid reasons, the Federal Office may order measures other than detention to ensure his presence.
+<sup>2</sup> If the defendant is unfit to remain in detention or if there are other valid reasons, the FOJ may order measures other than detention to ensure his presence.
 
-<sup>3</sup> At the same time the Federal Office shall rule on which objects and assets will remain seized or must be seized.
+<sup>3</sup> At the same time the FOJ shall rule on which objects and assets will remain seized or must be seized.
 
 #### Art. 48
 
@@ -976,7 +981,7 @@ Rulings under Article 47 shall contain:
 
 <sup>2</sup> The arrest warrant with a view to extradition may not be executed while the defendant is held in detention awaiting trial or is serving a sentence.[^49-1]
 
-<sup>3</sup> The defendant may neither be released nor deported from Switzerland without the consent of the Federal Office.
+<sup>3</sup> The defendant may neither be released nor deported from Switzerland without the consent of the FOJ.
 
 [^49-1]: Amended by No I of the FA of 4 Oct. 1996, in force since 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -984,7 +989,7 @@ Rulings under Article 47 shall contain:
 
 **Release from detention**
 
-<sup>1</sup> The Federal Office shall order the release of the person concerned from detention 18 days after arrest if the request for extradition and the documents supporting it have not been received.[^50-1] This period may be extended for special cause by up to 40 days.
+<sup>1</sup> The FOJ shall order the release of the person concerned from detention 18 days after arrest if the request for extradition and the documents supporting it have not been received.[^50-1] This period may be extended for special cause by up to 40 days.
 
 <sup>2</sup> If the defendant is already detained, the period shall start when he is detained with a view to extradition.
 
@@ -1014,7 +1019,7 @@ Rulings under Article 47 shall contain:
 
 <sup>2</sup> The defendant shall be questioned briefly about his personal circumstances, and especially his nationality and relationship with the requesting State, and asked if and for what reasons he raises objections to the arrest warrant or his extradition. His legal adviser may assist in this hearing.
 
-<sup>3</sup> If the extradited person is to be prosecuted for other offences or re-extradited to a third State, the Federal Office shall arrange for him to be questioned on the record in accordance with paragraph 2 by a judicial authority of the requesting State.
+<sup>3</sup> If the extradited person is to be prosecuted for other offences or re-extradited to a third State, the FOJ shall arrange for him to be questioned on the record in accordance with paragraph 2 by a judicial authority of the requesting State.
 
 [^52-1]: Amended by No I of the FA of 4 Oct. 1996, in force since 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1022,7 +1027,7 @@ Rulings under Article 47 shall contain:
 
 **Alibi evidence**
 
-<sup>1</sup> If the defendant claims to be able to prove that he was not at the scene of the offence when it was committed, the Federal Office shall make the necessary investigations.
+<sup>1</sup> If the defendant claims to be able to prove that he was not at the scene of the offence when it was committed, the FOJ shall make the necessary investigations.
 
 <sup>2</sup> Extradition shall be denied in clear cases. In other cases, the exculpatory evidence shall be submitted to the requesting State which shall be asked to declare within a short time whether it wishes to continue with its request.
 
@@ -1030,9 +1035,9 @@ Rulings under Article 47 shall contain:
 
 **Simplified extradition**[^54-1]
 
-<sup>1</sup> If the defendant places on the record before a judicial authority that he waives the requirement of extradition proceedings, the Federal Office shall order his surrender unless there are special considerations prohibiting it.
+<sup>1</sup> If the defendant places on the record before a judicial authority that he waives the requirement of extradition proceedings, the FOJ shall order his surrender unless there are special considerations prohibiting it.
 
-<sup>2</sup> This waiver may be revoked provided the Federal Office has not ordered the surrender.
+<sup>2</sup> This waiver may be revoked provided the FOJ has not ordered the surrender.
 
 <sup>3</sup> Simplified extradition shall have the effect of extradition and is subject to the same conditions. The requesting State shall be given notice thereof.
 
@@ -1044,9 +1049,9 @@ Rulings under Article 47 shall contain:
 
 **Competence**
 
-<sup>1</sup> After setting the defendant and the third party objecting to the handing over of objects an appropriate deadline for stating their position, the Federal Office shall rule on the extradition of the defendant and the handing over of objects and assets seized.[^55-1]
+<sup>1</sup> After setting the defendant and the third party objecting to the handing over of objects an appropriate deadline for stating their position, the FOJ shall rule on the extradition of the defendant and the handing over of objects and assets seized.[^55-1]
 
-<sup>2</sup> If the defendant claims that he is being charged with a political offence or if the investigation reveals serious grounds to believe that the offence is of a political nature, the Appeals Chamber of the Federal Criminal Court shall decide the case.[^55-2] The Federal Office shall send the file to this Court, together with its proposal. The defendant shall be given the opportunity to state his position.
+<sup>2</sup> If the defendant claims that he is being charged with a political offence or if the investigation reveals serious grounds to believe that the offence is of a political nature, the Appeals Chamber of the Federal Criminal Court shall decide the case.[^55-2] The FOJ shall send the file to this Court, together with its proposal. The defendant shall be given the opportunity to state his position.
 
 <sup>3</sup> The procedure for an appeal under Article 25 applies by analogy.[^55-3]
 
@@ -1058,7 +1063,7 @@ Rulings under Article 47 shall contain:
 
 **Coordination with asylum proceedings**[^55a-1]
 
-If the defendant has applied for asylum under the Asylum Act of 26 June 1998[^55a-2], the Federal Office and the appellate authority shall consult the files from the asylum proceedings when deciding on extradition.
+If the defendant has applied for asylum under the Asylum Act of 26 June 1998[^55a-2], the FOJ and the appellate authority shall consult the files from the asylum proceedings when deciding on extradition.
 
 [^55a-1]: Inserted by No I 3 of the FA of 1 Oct. 2010 on the Coordination of Asylum and Extradition Procedures, in force since 1 April 2011 ([AS 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [BBl 2010 1467](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 [^55a-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
@@ -1076,13 +1081,13 @@ Extradition may be executed if the defendant:
 - a. expressly requests his own immediate extradition; or
 - b. does not give notice within five days of the issue of the ruling that he will file an appeal.
 
-<sup>2</sup> If extradition is refused, the Federal Office shall release the person concerned from detention with a view to extradition.
+<sup>2</sup> If extradition is refused, the FOJ shall release the person concerned from detention with a view to extradition.
 
 #### Art. 57
 
 **Extradition**
 
-<sup>1</sup> The Federal Office shall issue the necessary rulings in agreement with the cantonal authorities.
+<sup>1</sup> The FOJ shall issue the necessary rulings in agreement with the cantonal authorities.
 
 <sup>2</sup> It shall notify the requesting State of the decision as well as of the date and place of extradition.
 
@@ -1270,7 +1275,7 @@ At the express request of the foreign State:
 
 <sup>2</sup>
 
-Any further use shall be subject to approval by the Federal Office. This approval is not necessary if:
+Any further use shall be subject to approval by the FOJ. This approval is not necessary if:
 
 - a. the act to which the request relates constitutes another offence for which mutual assistance would be granted; or
 - b. the foreign criminal proceedings are directed against other persons who have participated in committing the offence.
@@ -1292,7 +1297,7 @@ An authority prosecuting offences may, without being requested to do so, transmi
 
 <sup>2</sup> The transmission as defined in paragraph 1 does not have any effect on the criminal proceedings pending in Switzerland.
 
-<sup>3</sup> The transmission of evidence to a State with which Switzerland does not have an international agreement shall be subject to authorisation by the Federal Office.
+<sup>3</sup> The transmission of evidence to a State with which Switzerland does not have an international agreement shall be subject to authorisation by the FOJ.
 
 <sup>4</sup> Paragraphs 1 and 2 do not apply to evidence that is subject to the rules on secrecy.
 
@@ -1344,7 +1349,7 @@ An authority prosecuting offences may, without being requested to do so, transmi
 
 <sup>1</sup> If a detained person is surrendered to the Swiss authorities in the course of an act of assistance, the warrant for his arrest issued abroad shall also be valid in Switzerland for the period of his stay in Switzerland.
 
-<sup>2</sup> During transit the defendant shall be kept in custody by virtue of the order for transit given by the Federal Office.
+<sup>2</sup> During transit the defendant shall be kept in custody by virtue of the order for transit given by the FOJ.
 
 <sup>3</sup> In those cases the detained person may be released only with the agreement of the competent foreign authority.
 
@@ -1425,7 +1430,7 @@ Whenever a person claims to have rights over the objects or assets under paragra
 
 <sup>2</sup> Swiss authorities may also accept requests for the execution of procedural acts from the parties authorised to make them if those acts are incumbent upon the parties under the laws of the requesting State.
 
-<sup>3</sup> The Federal Office shall make requests for mutual assistance that is needed outside criminal proceedings.[^75-1]
+<sup>3</sup> The FOJ shall make requests for mutual assistance that is needed outside criminal proceedings.[^75-1]
 
 [^75-1]: Inserted by No I of the FA of 4 Oct. 1996, in force since 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1459,9 +1464,9 @@ In addition to the information and documents required by Article 28, the followi
 
 **Way of transmission[^77-1]**
 
-<sup>1</sup> Foreign requests shall be addressed to the appropriate cantonal authority through the intermediary of the Federal Office.
+<sup>1</sup> Foreign requests shall be addressed to the appropriate cantonal authority through the intermediary of the FOJ.
 
-<sup>2</sup> Requests for extracts from the Register of Convictions or for determining the identity of a person shall be addressed to the Federal Office[^77-2].
+<sup>2</sup> Requests for extracts from the Register of Convictions or for determining the identity of a person shall be addressed to the FOJ[^77-2].
 
 [^77-1]: Amended by No I of the FA of 4 Oct. 1996, in force since 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^77-2]: The designation of the administrative unit has been adapted according to Art. 16 para. 3 of the Publications O of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
@@ -1476,11 +1481,11 @@ In addition to the information and documents required by Article 28, the followi
 
 **Receipt and transmission**
 
-<sup>1</sup> The Federal Office shall receive foreign requests unless provision is made for direct transmission to the competent cantonal or federal executing authority.
+<sup>1</sup> The FOJ shall receive foreign requests unless provision is made for direct transmission to the competent cantonal or federal executing authority.
 
-<sup>2</sup> The Federal Office shall summarily examine whether the request meets the formal requirements of this Act and shall forward it to the appropriate executing authority unless the request clearly appears to be inadmissible.
+<sup>2</sup> The FOJ shall summarily examine whether the request meets the formal requirements of this Act and shall forward it to the appropriate executing authority unless the request clearly appears to be inadmissible.
 
-<sup>3</sup> If necessary, the Federal Office shall return the request to the requesting State for improvement or completion.
+<sup>3</sup> If necessary, the FOJ shall return the request to the requesting State for improvement or completion.
 
 <sup>4</sup> Receipt and transmission of the request to the competent authority are not subject to appeal.
 
@@ -1490,11 +1495,11 @@ In addition to the information and documents required by Article 28, the followi
 
 **Delegation of execution**
 
-<sup>1</sup> If the execution of the request necessitates investigations in more than one canton or if it also concerns a federal authority, the Federal Office may entrust a single authority with its execution. Articles 44–47, 52 and 53 CrimPC[^79-1] apply by analogy.[^79-2]
+<sup>1</sup> If the execution of the request necessitates investigations in more than one canton or if it also concerns a federal authority, the FOJ may entrust a single authority with its execution. Articles 44–47, 52 and 53 CrimPC[^79-1] apply by analogy.[^79-2]
 
-<sup>2</sup> The Federal Office may delegate all or part of the execution of a request to the federal authority which would be competent if the offence had been committed in Switzerland.
+<sup>2</sup> The FOJ may delegate all or part of the execution of a request to the federal authority which would be competent if the offence had been committed in Switzerland.
 
-<sup>3</sup> The Federal Office may also entrust the execution of supplementary requests to the authority to which execution was delegated.
+<sup>3</sup> The FOJ may also entrust the execution of supplementary requests to the authority to which execution was delegated.
 
 <sup>4</sup> The designation of the cantonal or federal authority responsible shall not be subject to appeal.
 
@@ -1503,9 +1508,9 @@ In addition to the information and documents required by Article 28, the followi
 
 #### Art. 79a
 
-**Decision of the Federal Office**
+**Decision of the FOJ**
 
-The Federal Office may decide whether mutual assistance is permitted and delegate its execution to a cantonal authority or itself decide on the execution if:
+The FOJ may decide whether mutual assistance is permitted and delegate its execution to a cantonal authority or itself decide on the execution if:
 
 - a. the execution of the request necessitates investigations in more than one canton;
 - b. the competent cantonal authority is unable to make a decision within the appropriate time; or
@@ -1586,7 +1591,7 @@ Early transmission is conditional on the requesting authority providing an under
 
 <sup>5</sup> Notification of the person concerned shall be deferred.
 
-<sup>6</sup> Notice of the interim ruling in accordance with paragraph 1 shall be given to the Federal Office without delay and before the early transmission. It is not in itself contestable.
+<sup>6</sup> Notice of the interim ruling in accordance with paragraph 1 shall be given to the FOJ without delay and before the early transmission. It is not in itself contestable.
 
 [^80dbis-1]: Inserted by Annex No II 5 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1610,7 +1615,7 @@ Early transmission is conditional on the requesting authority providing an under
 
 <sup>5</sup> The competent authority shall designate the persons responsible and the members of the JIT for its state. The JIT may call on the services of experts and auxiliary personnel as required.
 
-<sup>6</sup> Notice of the act of appointment shall be given to the Federal Office in writing.
+<sup>6</sup> Notice of the act of appointment shall be given to the FOJ in writing.
 
 #### Art. 80d<sup>quater</sup>
 
@@ -1720,7 +1725,7 @@ Interim rulings preceding the final ruling may be appealed against separately pr
 
 [^80e-1]: Amended by Annex No 30 of the FA of 17 June 2005 on the Federal Administrative Court, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-#### Art. 80fand 80g
+#### Art. 80f and 80g
 
 [^80f80g-1]
 
@@ -1732,7 +1737,7 @@ Interim rulings preceding the final ruling may be appealed against separately pr
 
 The following shall be entitled to appeal:
 
-- a. the Federal Office;
+- a. the FOJ;
 - b. any person who is personally and directly affected by a mutual assistance measure and has a legitimate interest in that measure being annulled or modified.
 
 #### Art. 80i
@@ -1802,23 +1807,23 @@ The executing authority and the appellate authority shall give notice of their r
 
 **Inquiry addressed to the requesting State**
 
-<sup>1</sup> If additional information is necessary, the executing or the appellate authority shall request the Federal Office to obtain it from the requesting State.
+<sup>1</sup> If additional information is necessary, the executing or the appellate authority shall request the FOJ to obtain it from the requesting State.
 
 <sup>2</sup> If necessary, the competent authority shall suspend dealing with all or part of the request and rule on the points that may be dealt with based on the documents available.
 
-<sup>3</sup> The Federal Office shall give the requesting State an appropriate deadline by which to respond. If the deadline given is not respected, the request for mutual assistance shall be examined based on the documents available.
+<sup>3</sup> The FOJ shall give the requesting State an appropriate deadline by which to respond. If the deadline given is not respected, the request for mutual assistance shall be examined based on the documents available.
 
 #### Art. 80p
 
 **Conditions subject to acceptance**
 
-<sup>1</sup> The executing and the appellate authority as well as the Federal Office may make the granting of mutual assistance wholly or partly subject to certain conditions.
+<sup>1</sup> The executing and the appellate authority as well as the FOJ may make the granting of mutual assistance wholly or partly subject to certain conditions.
 
-<sup>2</sup> The Federal Office shall communicate the conditions to the requesting State when the ruling on the granting and the extent of the mutual assistance is final and shall give it an appropriate deadline by which to accept or refuse. If the deadline given is not respected, mutual assistance may be granted on the points that are not subject to conditions.
+<sup>2</sup> The FOJ shall communicate the conditions to the requesting State when the ruling on the granting and the extent of the mutual assistance is final and shall give it an appropriate deadline by which to accept or refuse. If the deadline given is not respected, mutual assistance may be granted on the points that are not subject to conditions.
 
-<sup>3</sup> The Federal Office shall examine if the response of the requesting State satisfies the conditions set.
+<sup>3</sup> The FOJ shall examine if the response of the requesting State satisfies the conditions set.
 
-<sup>4</sup> The ruling of the Federal Office is subject to an appeal to the Appeals Chamber of the Federal Criminal Court within ten days of its notice being given in writing. The decision of the Appeals Chamber is final.[^80p-1]
+<sup>4</sup> The ruling of the FOJ is subject to an appeal to the Appeals Chamber of the Federal Criminal Court within ten days of its notice being given in writing. The decision of the Appeals Chamber is final.[^80p-1]
 
 [^80p-1]: Amended by Annex No 30 of the FA of 17 June 2005 on the Federal Administrative Court, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -1922,13 +1927,13 @@ In addition to the documents specified in Article 28 paragraph 3, the record of 
 
 **Decision on the request**
 
-<sup>1</sup> The Federal Office shall decide on whether to accept the foreign request after consulting the prosecuting authorities.
+<sup>1</sup> The FOJ shall decide on whether to accept the foreign request after consulting the prosecuting authorities.
 
 <sup>2</sup> If it accepts the request, it shall transmit the file to the prosecuting authority and notify the requesting State and the person concerned.
 
 <sup>3</sup> The decision does not create an obligation to institute criminal proceedings.
 
-<sup>4</sup> The Federal Office may refuse to assume responsibility for the prosecution if there is good cause not to do so or if the seriousness of the offence does not justify it.
+<sup>4</sup> The FOJ may refuse to assume responsibility for the prosecution if there is good cause not to do so or if the seriousness of the offence does not justify it.
 
 #### Art. 92
 
@@ -2040,7 +2045,7 @@ Another State may be requested to enforce a Swiss criminal judgment if:
 
 **Conditions for transfer**
 
-<sup>1</sup> The convicted person who is detained in Switzerland may only be transferred with a view to enforcement of the judgment under Article 100 if he agrees and if the requested State is expected to accept the conditions set by the Federal Office.
+<sup>1</sup> The convicted person who is detained in Switzerland may only be transferred with a view to enforcement of the judgment under Article 100 if he agrees and if the requested State is expected to accept the conditions set by the FOJ.
 
 <sup>2</sup> The convicted person may be transferred without his consent if an international agreement ratified by Switzerland so provides. In this case the conditions and effects of the transfer are regulated exclusively by the said international agreement.[^101-1]
 
@@ -2074,7 +2079,7 @@ In addition to the documents specified in Article 28 paragraph 3, the following 
 
 **Decision on the request**
 
-<sup>1</sup> After consulting with the authority which will execute the request, the Federal Office shall decide whether to accept the foreign request. If it accepts, it shall convey the file and its opinion to the executing authority and inform the requesting State. Article 91 paragraph 4 applies by analogy.
+<sup>1</sup> After consulting with the authority which will execute the request, the FOJ shall decide whether to accept the foreign request. If it accepts, it shall convey the file and its opinion to the executing authority and inform the requesting State. Article 91 paragraph 4 applies by analogy.
 
 <sup>2</sup> If there is Swiss jurisdiction and if a sentence which is more severe than the one provided by Swiss law was imposed abroad, the prosecution may be taken over instead of the enforcement of the judgment if the requesting State so requests.
 

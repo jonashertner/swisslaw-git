@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 1981 über internationale Rechtshilfe in Stra
 short: IRSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20230901-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20240101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/de"
 
 (Rechtshilfegesetz, IRSG)
 
-vom 20. März 1981 (Stand am 1. September 2023)
+vom 20. März 1981 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -186,7 +186,7 @@ Einem Ersuchen wird nicht entsprochen, wenn:[^5-1]
 
 **Gegenrecht**
 
-<sup>1</sup> Einem Ersuchen wird in der Regel nur entsprochen, wenn der ersuchende Staat Gegenrecht gewährt. Das Bundesamt für Justiz[^8-1] des Eidgenössischen Justiz- und Polizeidepartements (Bundesamt) holt eine Zusicherung des Gegenrechts ein, wenn dies geboten erscheint.
+<sup>1</sup> Einem Ersuchen wird in der Regel nur entsprochen, wenn der ersuchende Staat Gegenrecht gewährt. Das Bundesamt für Justiz (BJ)[^8-1] holt eine Zusicherung des Gegenrechts ein, wenn dies geboten erscheint.
 
 <sup>2</sup>
 
@@ -198,7 +198,7 @@ Das Gegenrecht ist insbesondere nicht erforderlich bei Zustellungen oder wenn di
 
 <sup>3</sup> Der Bundesrat kann im Rahmen dieses Gesetzes anderen Staaten das Gegenrecht zusichern.
 
-[^8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^8-1]: Ausdruck gemäss Anhang 1 Ziff. 11 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^8-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114)130; [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
 #### Art. 8a
@@ -245,7 +245,7 @@ Bei der Ausführung von Ersuchen richtet sich der Schutz des Geheimbereichs nach
 
 <sup>1</sup>
 
-Das Bundesamt für Justiz betreibt ein Personen-, Akten- und Geschäftsverwaltungssystem, das besonders schützenswerte Personendaten der in diesem Gesetz geregelten Zusammenarbeitsformen enthalten kann. Diese Daten dürfen bearbeitet werden, um:
+Das BJ betreibt ein Personen-, Akten- und Geschäftsverwaltungssystem, das besonders schützenswerte Personendaten der in diesem Gesetz geregelten Zusammenarbeitsformen enthalten kann. Diese Daten dürfen bearbeitet werden, um:
 
 - a. festzustellen, ob über eine bestimmte Person Daten bearbeitet werden;
 - b. Daten über Geschäfte zu bearbeiten;
@@ -261,7 +261,7 @@ Zur Erfüllung der in Absatz 1 genannten Bearbeitungszwecke enthält das System:
 - b. Daten, die für die Lokalisierung und die ordnungsgemässe Verwaltung der Dossiers erforderlich sind;
 - c. Dokumente zu elektronisch gespeicherten Geschäften und Einträgen.
 
-<sup>3</sup> Das Bundesamt für Polizei, das Staatssekretariat für Migration[^11a-1] und die für den Vollzug des Bundesgesetzes vom 21. März 1997[^11a-2] über Massnahmen zur Wahrung der inneren Sicherheit zuständigen Einheiten des Nachrichtendienstes des Bundes haben mittels Abrufverfahren Zugriff auf die Daten nach Absatz 2 Buchstabe a.[^11a-3] Soweit das Bundesamt für Polizei Aufgaben des Bundesamtes für Justiz nach diesem Gesetz wahrnimmt, hat es auch Zugriff mittels Abrufverfahren auf Daten nach Absatz 2 Buchstabe b.
+<sup>3</sup> Das Bundesamt für Polizei, das Staatssekretariat für Migration[^11a-1] und die für den Vollzug des Bundesgesetzes vom 21. März 1997[^11a-2] über Massnahmen zur Wahrung der inneren Sicherheit zuständigen Einheiten des Nachrichtendienstes des Bundes haben mittels Abrufverfahren Zugriff auf die Daten nach Absatz 2 Buchstabe a.[^11a-3] Soweit das Bundesamt für Polizei Aufgaben des BJ nach diesem Gesetz wahrnimmt, hat es auch Zugriff mittels Abrufverfahren auf Daten nach Absatz 2 Buchstabe b.
 
 <sup>4</sup>
 
@@ -269,7 +269,7 @@ Der Bundesrat legt die Einzelheiten fest, insbesondere:
 
 - a. bezüglich der Erfassung der Daten nach Absatz 2 Buchstaben a und b, der Daten der am Rechtshilfeverfahren beteiligten Justizbehörden sowie der dem Rechtshilfeersuchen zugrunde liegenden Delikte;
 - b. die Aufbewahrungsdauer und die Archivierung der Daten;
-- c. die Dienststellen des Bundesamtes, die Daten direkt im System bearbeiten dürfen, und die Daten, die im Einzelfall weiteren Behörden bekannt gegeben werden können.
+- c. die Dienststellen des BJ, die Daten direkt im System bearbeiten dürfen, und die Daten, die im Einzelfall weiteren Behörden bekannt gegeben werden können.
 
 [^11a-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 2 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst.
 [^11a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
@@ -307,19 +307,19 @@ Die zuständige Behörde kann die Auskunft verweigern, einschränken oder aufsch
 
 **Einschränkung des Auskunftsrechts bei Ersuchen um Festnahme zum Zweck der Auslieferung**
 
-<sup>1</sup> Jede Person kann Auskunft darüber verlangen, ob die Schweiz von einem ausländischen Staat ein Ersuchen um Festnahme zum Zweck der Auslieferung erhalten hat. Dieses Recht wird beim Bundesamt geltend gemacht. Wird das Gesuch an eine andere Behörde gerichtet, so leitet diese es unverzüglich an das Bundesamt weiter.
+<sup>1</sup> Jede Person kann Auskunft darüber verlangen, ob die Schweiz von einem ausländischen Staat ein Ersuchen um Festnahme zum Zweck der Auslieferung erhalten hat. Dieses Recht wird beim BJ geltend gemacht. Wird das Gesuch an eine andere Behörde gerichtet, so leitet diese es unverzüglich an das BJ weiter.
 
-<sup>2</sup> Verlangt eine Person Auskunft darüber, ob das Bundesamt ein Ersuchen um Festnahme zum Zweck der Auslieferung erhalten hat, so teilt dieses ihr mit, dass keine Daten über sie unrechtmässig bearbeitet werden und dass sie vom Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) verlangen kann, zu prüfen, ob allfällige Daten über sie rechtmässig bearbeitet werden.[^11c-1]
+<sup>2</sup> Verlangt eine Person Auskunft darüber, ob das BJ ein Ersuchen um Festnahme zum Zweck der Auslieferung erhalten hat, so teilt dieses ihr mit, dass keine Daten über sie unrechtmässig bearbeitet werden und dass sie vom Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) verlangen kann, zu prüfen, ob allfällige Daten über sie rechtmässig bearbeitet werden.[^11c-1]
 
 <sup>3</sup> Der EDÖB führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten eine Untersuchung nach Artikel 49 des Datenschutzgesetzes vom 25. September 2020[^11c-2] eröffnet hat.[^11c-3]
 
-<sup>4</sup> Stellt der EDÖB Fehler bei der Datenbearbeitung fest, so ordnet er an, dass das Bundesamt diese behebt.[^11c-4]
+<sup>4</sup> Stellt der EDÖB Fehler bei der Datenbearbeitung fest, so ordnet er an, dass das BJ diese behebt.[^11c-4]
 
 <sup>5</sup> Die Mitteilungen nach den Absätzen 2 und 3 lauten stets gleich und werden nicht begründet.
 
 <sup>6</sup> Die Mitteilung nach Absatz 3 kann nicht angefochten werden.
 
-<sup>7</sup> Das Bundesamt ist in Abweichung von Absatz 2 ermächtigt, der betroffenen Person die verlangten Auskünfte zu erteilen, wenn der ersuchende Staat vorgängig zustimmt.
+<sup>7</sup> Das BJ ist in Abweichung von Absatz 2 ermächtigt, der betroffenen Person die verlangten Auskünfte zu erteilen, wenn der ersuchende Staat vorgängig zustimmt.
 
 [^11c-1]: Fassung gemäss Anhang 1 Ziff. II 29 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^11c-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
@@ -492,7 +492,7 @@ Die Entschädigung für die in der Schweiz erlittene Auslieferungshaft kann auch
 
 <sup>1</sup> Das Eidgenössische Justiz- und Polizeidepartement (Departement) entscheidet im Fall von Artikel 1*a.*[^17-1] Um einen Entscheid des Departements kann bis 30 Tage nach der schriftlichen Mitteilung der Schlussverfügung ersucht werden.[^17-2]
 
-<sup>2</sup> Das Bundesamt nimmt die Ersuchen des Auslands entgegen und stellt die schweizerischen Ersuchen. Es behandelt Ersuchen um Auslieferung und veranlasst die Prüfung von Ersuchen um andere Rechtshilfe, stellvertretende Strafverfolgung oder Vollstreckung von Strafentscheiden durch die zuständigen kantonalen oder Bundesbehörden, sofern ihre Ausführung nicht offensichtlich unzulässig ist.
+<sup>2</sup> Das BJ nimmt die Ersuchen des Auslands entgegen und stellt die schweizerischen Ersuchen. Es behandelt Ersuchen um Auslieferung und veranlasst die Prüfung von Ersuchen um andere Rechtshilfe, stellvertretende Strafverfolgung oder Vollstreckung von Strafentscheiden durch die zuständigen kantonalen oder Bundesbehörden, sofern ihre Ausführung nicht offensichtlich unzulässig ist.
 
 <sup>3</sup>
 
@@ -516,7 +516,7 @@ Es entscheidet über:
 
 <sup>1</sup> Die zuständige Behörde erledigt die Ersuchen beförderlich. Sie entscheidet ohne Verzug.
 
-<sup>2</sup> Sie informiert das Bundesamt auf dessen Ersuchen über den Stand des Verfahrens, die Gründe für eine allfällige Verzögerung und die erwogenen Massnahmen. Bei ungerechtfertigter Verzögerung kann das Bundesamt bei der zuständigen Aufsichtsbehörde intervenieren.
+<sup>2</sup> Sie informiert das BJ auf dessen Ersuchen über den Stand des Verfahrens, die Gründe für eine allfällige Verzögerung und die erwogenen Massnahmen. Bei ungerechtfertigter Verzögerung kann das BJ bei der zuständigen Aufsichtsbehörde intervenieren.
 
 <sup>3</sup> Verweigert oder verzögert die zuständige Behörde ohne Grund den Erlass einer Verfügung, so kommt ihr Verhalten einem ablehnenden, anfechtbaren Entscheid gleich.
 
@@ -528,7 +528,7 @@ Es entscheidet über:
 
 <sup>1</sup> Auf ausdrückliches Ersuchen eines anderen Staates kann die zuständige Behörde vorläufige Massnahmen zur Erhaltung des bestehenden Zustandes, zur Wahrung bedrohter rechtlicher Interessen oder zur Sicherung gefährdeter Beweismittel anordnen, wenn ein in diesem Gesetz vorgesehenes Verfahren nicht offensichtlich unzulässig oder unzweckmässig erscheint.
 
-<sup>2</sup> Ist Gefahr im Verzug und liegen ausreichende Angaben zur Beurteilung der Voraussetzungen vor, so können diese Massnahmen auch vom Bundesamt angeordnet werden, sobald ein Ersuchen angekündigt ist. Diese Massnahmen werden aufgehoben, wenn der ausländische Staat nicht innert der gesetzten Frist das Ersuchen einreicht.
+<sup>2</sup> Ist Gefahr im Verzug und liegen ausreichende Angaben zur Beurteilung der Voraussetzungen vor, so können diese Massnahmen auch vom BJ angeordnet werden, sobald ein Ersuchen angekündigt ist. Diese Massnahmen werden aufgehoben, wenn der ausländische Staat nicht innert der gesetzten Frist das Ersuchen einreicht.
 
 <sup>3</sup> Beschwerden gegen Entscheide nach diesem Artikel haben keine aufschiebende Wirkung.
 
@@ -538,14 +538,14 @@ Es entscheidet über:
 
 **Überwachung des Post- und Fernmeldeverkehrs**[^18a-1]
 
-<sup>1</sup> In Auslieferungsfällen kann das Bundesamt auf ausdrückliches Ersuchen eines anderen Staates zur Ermittlung des Aufenthaltes des Verfolgten die Überwachung des Post- und Fernmeldeverkehrs anordnen.
+<sup>1</sup> In Auslieferungsfällen kann das BJ auf ausdrückliches Ersuchen eines anderen Staates zur Ermittlung des Aufenthaltes des Verfolgten die Überwachung des Post- und Fernmeldeverkehrs anordnen.
 
 <sup>2</sup>
 
 In anderen Rechtshilfefällen können folgende Behörden die Überwachung des Post- und Fernmeldeverkehrs anordnen:
 
 - a. die mit dem Ersuchen befasste Staatsanwaltschaft des Bundes oder des Kantons;
-- b. das Bundesamt, wenn dieses das Rechtshilfegesuch selber ausführt.
+- b. das BJ, wenn dieses das Rechtshilfegesuch selber ausführt.
 
 <sup>3</sup>
 
@@ -573,7 +573,7 @@ Die mit einem Ersuchen um Rechtshilfe befasste Behörde des Bundes oder des Kant
 
 <sup>2</sup> Diese Daten dürfen nicht als Beweismittel verwendet werden, bevor die Verfügung über die Gewährung und den Umfang der Rechtshilfe rechtskräftig ist.
 
-<sup>3</sup> Die Verfügung nach Absatz 1 und die allfällige Anordnung und Bewilligung der Überwachung sind dem Bundesamt unverzüglich mitzuteilen.
+<sup>3</sup> Die Verfügung nach Absatz 1 und die allfällige Anordnung und Bewilligung der Überwachung sind dem BJ unverzüglich mitzuteilen.
 
 [^18b-1]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. März 2011 (Übereink. des Europarates über die Cyberkriminalität), in Kraft seit 1. Jan. 2012 ([AS 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [BBl 2010 4697](https://fedlex.data.admin.ch/eli/fga/2010/813)).
 [^18b-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -590,7 +590,7 @@ Befindet sich der Verfolgte im Ausland und stehen nach dem Recht des Staates, an
 
 <sup>1</sup>
 
-Auf Antrag des Bundesamtes kann die zuständige Behörde einstweilen davon absehen, gegen den im Ausland Verfolgten wegen einer andern Tat ein Strafverfahren durchzuführen oder eine Sanktion zu vollziehen, wenn:
+Auf Antrag des BJ kann die zuständige Behörde einstweilen davon absehen, gegen den im Ausland Verfolgten wegen einer andern Tat ein Strafverfahren durchzuführen oder eine Sanktion zu vollziehen, wenn:
 
 - a. die in der Schweiz verwirkte Sanktion gegenüber der im Ausland zu erwartenden nicht wesentlich ins Gewicht fällt; oder
 - b. der Vollzug in der Schweiz nicht zweckmässig erscheint.
@@ -601,16 +601,16 @@ Auf Antrag des Bundesamtes kann die zuständige Behörde einstweilen davon abseh
 
 **Durchlieferung**[^20a-1]
 
-<sup>1</sup> Für ein nach diesem Gesetz zulässiges Verfahren in einem anderen Staat kann das Bundesamt auf Ersuchen dieses oder eines dritten Staates ohne Anhören des Betroffenen die Durchlieferung und die dafür erforderlichen Massnahmen bewilligen. Der Entscheid und die damit verbundenen Massnahmen sind nicht anfechtbar. Sie werden nur dem ersuchenden Staat mitgeteilt.
+<sup>1</sup> Für ein nach diesem Gesetz zulässiges Verfahren in einem anderen Staat kann das BJ auf Ersuchen dieses oder eines dritten Staates ohne Anhören des Betroffenen die Durchlieferung und die dafür erforderlichen Massnahmen bewilligen. Der Entscheid und die damit verbundenen Massnahmen sind nicht anfechtbar. Sie werden nur dem ersuchenden Staat mitgeteilt.
 
 <sup>2</sup>
 
 Die Bewilligung ist nicht erforderlich, wenn der Häftling mit einem Luftfahrzeug ohne Zwischenlandung über schweizerisches Gebiet befördert werden soll. Im Falle einer unvorhergesehenen Zwischenlandung darf der Häftling nur festgehalten werden, wenn:
 
 - a. die Voraussetzungen seiner Festnahme nach Artikel 44 erfüllt sind; oder
-- b. der Staat, der die Beförderung veranlasst hat, das Bundesamt vorher davon verständigt und den Grund der Zuführung sowie die sie begründende strafbare Handlung angegeben hat.
+- b. der Staat, der die Beförderung veranlasst hat, das BJ vorher davon verständigt und den Grund der Zuführung sowie die sie begründende strafbare Handlung angegeben hat.
 
-<sup>3</sup> Einzig das Bundesamt darf die Durchlieferung für Massnahmen zur Strafverfolgung oder zum Strafvollzug in der Schweiz unterbrechen.
+<sup>3</sup> Einzig das BJ darf die Durchlieferung für Massnahmen zur Strafverfolgung oder zum Strafvollzug in der Schweiz unterbrechen.
 
 [^20a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -666,7 +666,7 @@ Verfügungen und Entscheide eidgenössischer und kantonaler Behörden müssen mi
 
 <sup>2bis</sup> Zulässig ist die Beschwerde gegen ein schweizerisches Ersuchen um Übernahme der Vollstreckung eines Strafentscheides im Zusammenhang mit einer Zuführung nach Artikel 101 Absatz 2.[^25-4]
 
-<sup>3</sup> Das Bundesamt kann gegen Verfügungen kantonaler Behörden sowie gegen Entscheide des Bundesstrafgerichts Beschwerde erheben. Der kantonalen Behörde steht gegen den Entscheid des Bundesamtes, kein Ersuchen zu stellen, die Beschwerde zu.[^25-5]
+<sup>3</sup> Das BJ kann gegen Verfügungen kantonaler Behörden sowie gegen Entscheide des Bundesstrafgerichts Beschwerde erheben. Der kantonalen Behörde steht gegen den Entscheid des BJ, kein Ersuchen zu stellen, die Beschwerde zu.[^25-5]
 
 <sup>4</sup> Mit der Beschwerde kann auch die unzulässige oder offensichtlich unrichtige Anwendung fremden Rechts gerügt werden.
 
@@ -699,7 +699,7 @@ Verfügungen des Departements nach Artikel 17 Absatz 1 unterliegen der Beschwerd
 
 <sup>1</sup> Die Artikel 27–31 gelten für alle Verfahren nach diesem Gesetz. Die besonderen Verfahrensvorschriften der anderen Teile dieses Gesetzes bleiben vorbehalten.[^27-1]
 
-<sup>2</sup> Ausländische Ersuchen sind unmittelbar an das Bundesamt zu richten.
+<sup>2</sup> Ausländische Ersuchen sind unmittelbar an das BJ zu richten.
 
 <sup>3</sup> Ersuchen, die an eine unzuständige Behörde gerichtet sind, werden von Amtes wegen weitergeleitet. Die ersuchende Stelle ist zu verständigen.
 
@@ -743,7 +743,7 @@ Für die rechtliche Beurteilung der Tat sind beizufügen:
 
 **Übermittlung**
 
-<sup>1</sup> Das Bundesamt kann Ersuchen unmittelbar vom Justizministerium des ersuchenden Staates entgegennehmen.
+<sup>1</sup> Das BJ kann Ersuchen unmittelbar vom Justizministerium des ersuchenden Staates entgegennehmen.
 
 <sup>2</sup> Für vorläufige Massnahmen oder in dringenden Fällen kann die Vermittlung der Internationalen Kriminal-Polizeilichen Organisation (IKPO-Interpol) in Anspruch genommen oder ein Doppel des schriftlichen Ersuchens unmittelbar der zur Ausführung zuständigen Behörde übermittelt werden.
 
@@ -753,11 +753,16 @@ Für die rechtliche Beurteilung der Tat sind beizufügen:
 
 <sup>1</sup> Die schweizerischen Behörden dürfen an einen andern Staat keine Ersuchen richten, denen sie selbst nach diesem Gesetz nicht entsprechen könnten.
 
-<sup>2</sup> Für Ersuchen um Auslieferung oder um Übernahme der Strafverfolgung oder der Vollstreckung ist das Bundesamt zuständig; es handelt auf Antrag der kantonalen Behörde.
+<sup>2</sup> Für Ersuchen um Auslieferung oder um Übernahme der Strafverfolgung oder der Vollstreckung ist das BJ zuständig; es handelt auf Antrag der ersuchenden schweizerischen Behörde.[^30-1]
 
 <sup>3</sup> Bedingungen, die der ersuchte Staat an die Ausführung eines Ersuchens knüpft, sind von den schweizerischen Behörden zu beachten.
 
-<sup>4</sup> Das Bundesamt kann von einem Ersuchen absehen, wenn die Bedeutung der Tat die Durchführung des Verfahrens nicht rechtfertigt.
+<sup>4</sup> Das BJ kann von einem Ersuchen absehen, wenn die Bedeutung der Tat die Durchführung des Verfahrens nicht rechtfertigt.
+
+<sup>5</sup> Das BJ orientiert die ersuchende schweizerische Behörde umgehend, wenn der ersuchte Staat für eine beantragte Rechtshilfemassnahme eine richterliche Anordnung verlangt.[^30-2]
+
+[^30-1]: Fassung gemäss Anhang 1 Ziff. 11 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^30-2]: Eingefügt durch Anhang 1 Ziff. 11 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 31
 
@@ -906,7 +911,7 @@ Ersuchen um Fahndung und Festnahme zum Zwecke der Auslieferung müssen ausser de
 
 **Eintreten auf das Ersuchen**
 
-Das Bundesamt entscheidet, ob und unter welchen Bedingungen auf das Ersuchen eingetreten wird.
+Das BJ entscheidet, ob und unter welchen Bedingungen auf das Ersuchen eingetreten wird.
 
 ### 2. Abschnitt: Vorläufige Massnahmen
 
@@ -930,7 +935,7 @@ Ausländer können zur Auslieferung festgenommen werden aufgrund eines Ersuchens
 
 **Vollzugsmeldung. Dauer der Massnahmen**
 
-<sup>1</sup> Festnahme und Sicherstellung werden dem Bundesamt gemeldet.
+<sup>1</sup> Festnahme und Sicherstellung werden dem BJ gemeldet.
 
 <sup>2</sup> Sie bleiben bis zum Entscheid über die Auslieferungshaft aufrechterhalten, längstens jedoch bis zum dritten Werktag nach der Festnahme.
 
@@ -942,12 +947,12 @@ Ausländer können zur Auslieferung festgenommen werden aufgrund eines Ersuchens
 
 <sup>1</sup>
 
-Das Bundesamt erlässt einen Auslieferungshaftbefehl. Es kann davon absehen, namentlich wenn der Verfolgte:
+Das BJ erlässt einen Auslieferungshaftbefehl. Es kann davon absehen, namentlich wenn der Verfolgte:
 
 - a. voraussichtlich sich der Auslieferung nicht entzieht und die Strafuntersuchung nicht gefährdet; oder
 - b. ohne Verzug nachweisen kann, dass er zur Zeit der Tat nicht am Tatort war.
 
-<sup>2</sup> Ist der Verfolgte nicht hafterstehungsfähig oder rechtfertigen es andere Gründe, so kann das Bundesamt anstelle der Haft andere Massnahmen zu seiner Sicherung anordnen.
+<sup>2</sup> Ist der Verfolgte nicht hafterstehungsfähig oder rechtfertigen es andere Gründe, so kann das BJ anstelle der Haft andere Massnahmen zu seiner Sicherung anordnen.
 
 <sup>3</sup> Gleichzeitig verfügt es, welche Gegenstände und Vermögenswerte sichergestellt bleiben oder sicherzustellen sind.
 
@@ -977,7 +982,7 @@ Verfügungen nach Artikel 47 enthalten:
 
 <sup>2</sup> Der Auslieferungshaftbefehl ist nicht vollstreckbar, solange sich der Verfolgte in Untersuchungs- oder Strafhaft befindet.[^49-1]
 
-<sup>3</sup> Der Verfolgte darf ohne Zustimmung des Bundesamtes weder freigelassen noch aus der Schweiz ausgeschafft werden.
+<sup>3</sup> Der Verfolgte darf ohne Zustimmung des BJ weder freigelassen noch aus der Schweiz ausgeschafft werden.
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -985,7 +990,7 @@ Verfügungen nach Artikel 47 enthalten:
 
 **Aufhebung der Haft**
 
-<sup>1</sup> 18 Tage nach der Festnahme hebt das Bundesamt die Haft auf, wenn das Auslieferungsersuchen und die dazugehörigen Unterlagen nicht bei ihm eingetroffen sind.[^50-1] Diese Frist kann aus besonderen Gründen bis auf 40 Tage verlängert werden.
+<sup>1</sup> 18 Tage nach der Festnahme hebt das BJ die Haft auf, wenn das Auslieferungsersuchen und die dazugehörigen Unterlagen nicht bei ihm eingetroffen sind.[^50-1] Diese Frist kann aus besonderen Gründen bis auf 40 Tage verlängert werden.
 
 <sup>2</sup> Befindet sich der Verfolgte bereits in Haft, so beginnt die Frist mit der Versetzung in die Auslieferungshaft.
 
@@ -1015,7 +1020,7 @@ Verfügungen nach Artikel 47 enthalten:
 
 <sup>2</sup> Der Verfolgte wird kurz über seine persönlichen Verhältnisse, insbesondere seine Staatsangehörigkeit und seine Beziehungen zum ersuchenden Staat, einvernommen und befragt, ob und aus welchen Gründen er Einwendungen gegen den Haftbefehl oder gegen seine Auslieferung erhebe. Sein Rechtsbeistand kann dabei mitwirken.
 
-<sup>3</sup> Soll der Ausgelieferte wegen weiterer Taten verfolgt oder an einen dritten Staat weitergeliefert werden, so veranlasst das Bundesamt, dass er im Sinne von Absatz 2 durch eine Justizbehörde des ersuchenden Staates zu Protokoll einvernommen wird.
+<sup>3</sup> Soll der Ausgelieferte wegen weiterer Taten verfolgt oder an einen dritten Staat weitergeliefert werden, so veranlasst das BJ, dass er im Sinne von Absatz 2 durch eine Justizbehörde des ersuchenden Staates zu Protokoll einvernommen wird.
 
 [^52-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1023,7 +1028,7 @@ Verfügungen nach Artikel 47 enthalten:
 
 **Alibibeweis**
 
-<sup>1</sup> Behauptet der Verfolgte, beweisen zu können, dass er zur Zeit der Tat nicht am Tatort war, so nimmt das Bundesamt die gebotenen Abklärungen vor.
+<sup>1</sup> Behauptet der Verfolgte, beweisen zu können, dass er zur Zeit der Tat nicht am Tatort war, so nimmt das BJ die gebotenen Abklärungen vor.
 
 <sup>2</sup> In klaren Fällen wird die Auslieferung verweigert. Andernfalls wird der ersuchende Staat unter Vorlage der entlastenden Beweise aufgefordert, innert kurzer Frist zu erklären, ob er das Ersuchen aufrechterhalten will.
 
@@ -1031,9 +1036,9 @@ Verfügungen nach Artikel 47 enthalten:
 
 **Vereinfachte Auslieferung**[^54-1]
 
-<sup>1</sup> Gibt der Verfolgte einer Justizbehörde zu Protokoll, dass er auf die Durchführung des Auslieferungsverfahrens verzichtet, so bewilligt das Bundesamt die Übergabe, wenn keine besonderen Bedenken bestehen.
+<sup>1</sup> Gibt der Verfolgte einer Justizbehörde zu Protokoll, dass er auf die Durchführung des Auslieferungsverfahrens verzichtet, so bewilligt das BJ die Übergabe, wenn keine besonderen Bedenken bestehen.
 
-<sup>2</sup> Der Verzicht kann widerrufen werden, solange das Bundesamt die Übergabe nicht bewilligt hat.
+<sup>2</sup> Der Verzicht kann widerrufen werden, solange das BJ die Übergabe nicht bewilligt hat.
 
 <sup>3</sup> Die vereinfachte Auslieferung hat die Wirkungen einer Auslieferung und unterliegt denselben Bedingungen. Der ersuchende Staat muss darauf aufmerksam gemacht werden.
 
@@ -1045,9 +1050,9 @@ Verfügungen nach Artikel 47 enthalten:
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Bundesamt entscheidet über die Auslieferung des Verfolgten sowie über die Aushändigung der beschlagnahmten Gegenstände und Vermögenswerte, nachdem es dem Verfolgten und dem Dritten, der sich der Sachauslieferung widersetzt, eine angemessene Frist zur Stellungnahme eingeräumt hat.[^55-1]
+<sup>1</sup> Das BJ entscheidet über die Auslieferung des Verfolgten sowie über die Aushändigung der beschlagnahmten Gegenstände und Vermögenswerte, nachdem es dem Verfolgten und dem Dritten, der sich der Sachauslieferung widersetzt, eine angemessene Frist zur Stellungnahme eingeräumt hat.[^55-1]
 
-<sup>2</sup> Macht der Verfolgte geltend, er werde eines politischen Deliktes bezichtigt, oder ergeben sich bei der Instruktion ernsthafte Gründe für den politischen Charakter der Tat, so entscheidet die Beschwerdekammer des Bundesstrafgerichts.[^55-2] Das Bundesamt unterbreitet die Akten dem Gericht mit seinem Antrag. Der Verfolgte erhält Gelegenheit, dazu Stellung zu nehmen.
+<sup>2</sup> Macht der Verfolgte geltend, er werde eines politischen Deliktes bezichtigt, oder ergeben sich bei der Instruktion ernsthafte Gründe für den politischen Charakter der Tat, so entscheidet die Beschwerdekammer des Bundesstrafgerichts.[^55-2] Das BJ unterbreitet die Akten dem Gericht mit seinem Antrag. Der Verfolgte erhält Gelegenheit, dazu Stellung zu nehmen.
 
 <sup>3</sup> Das Verfahren der Beschwerde nach Artikel 25 ist sinngemäss anwendbar.[^55-3]
 
@@ -1059,7 +1064,7 @@ Verfügungen nach Artikel 47 enthalten:
 
 **Koordination mit dem Asylverfahren**[^55a-1]
 
-Hat der Verfolgte ein Asylgesuch im Sinne des Asylgesetzes vom 26. Juni 1998[^55a-2] gestellt, so ziehen das Bundesamt und die Rechtsmittelinstanzen für den Auslieferungsentscheid die Akten aus dem Asylverfahren bei.
+Hat der Verfolgte ein Asylgesuch im Sinne des Asylgesetzes vom 26. Juni 1998[^55a-2] gestellt, so ziehen das BJ und die Rechtsmittelinstanzen für den Auslieferungsentscheid die Akten aus dem Asylverfahren bei.
 
 [^55a-1]: Eingefügt durch Ziff. I 3 des BG vom 1. Okt. 2010 über die Koordination des Asyl- und des Auslieferungsverfahrens, in Kraft seit 1. April 2011 ([AS 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [BBl 2010 1467](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 [^55a-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
@@ -1077,13 +1082,13 @@ Die Auslieferung kann vollzogen werden, wenn der Verfolgte:
 - a. ausdrücklich den sofortigen Vollzug verlangt; oder
 - b. nicht innert fünf Tagen nach Eröffnung der Verfügung erklärt, er wolle Beschwerde erheben.
 
-<sup>2</sup> Wird die Auslieferung abgelehnt, so hebt das Bundesamt die Auslieferungshaft auf.
+<sup>2</sup> Wird die Auslieferung abgelehnt, so hebt das BJ die Auslieferungshaft auf.
 
 #### Art. 57
 
 **Auslieferung**
 
-<sup>1</sup> Das Bundesamt trifft die erforderlichen Anordnungen im Einvernehmen mit den kantonalen Behörden.
+<sup>1</sup> Das BJ trifft die erforderlichen Anordnungen im Einvernehmen mit den kantonalen Behörden.
 
 <sup>2</sup> Es teilt dem ersuchenden Staat den Entscheid, sowie Ort und Zeit des Vollzugs mit.
 
@@ -1269,7 +1274,7 @@ Auf ausdrückliches Ersuchen des ausländischen Staates:
 
 <sup>2</sup>
 
-Eine weitere Verwendung bedarf der Zustimmung des Bundesamtes. Diese ist nicht nötig:
+Eine weitere Verwendung bedarf der Zustimmung des BJ. Diese ist nicht nötig:
 
 - a. wenn die Tat, auf die sich das Ersuchen bezieht, einen anderen Straftatbestand darstellt, für den Rechtshilfe zulässig wäre; oder
 - b. wenn sich das ausländische Strafverfahren gegen andere Personen richtet, die an der strafbaren Handlung teilgenommen haben.
@@ -1291,7 +1296,7 @@ Eine Strafverfolgungsbehörde kann Beweismittel, die sie für ihre eigene Strafu
 
 <sup>2</sup> Die Übermittlung nach Absatz 1 hat keine Einwirkung auf das in der Schweiz hängige Strafverfahren.
 
-<sup>3</sup> Die Übermittlung von Beweismitteln an einen Staat, mit dem keine staatsvertragliche Vereinbarung besteht, bedarf der Zustimmung des Bundesamtes.
+<sup>3</sup> Die Übermittlung von Beweismitteln an einen Staat, mit dem keine staatsvertragliche Vereinbarung besteht, bedarf der Zustimmung des BJ.
 
 <sup>4</sup> Die Absätze 1 und 2 gelten nicht für Beweismittel, die den Geheimbereich betreffen.
 
@@ -1343,7 +1348,7 @@ Eine Strafverfolgungsbehörde kann Beweismittel, die sie für ihre eigene Strafu
 
 <sup>1</sup> Wird ein Häftling den schweizerischen Behörden für eine Rechtshilfemassnahme zugeführt, so ist der im Ausland gegen ihn erlassene Haftbefehl auch während des Aufenthaltes in der Schweiz wirksam.
 
-<sup>2</sup> Während der Durchlieferung bleibt der Verfolgte aufgrund des Durchlieferungsbefehls des Bundesamtes in Haft.
+<sup>2</sup> Während der Durchlieferung bleibt der Verfolgte aufgrund des Durchlieferungsbefehls des BJ in Haft.
 
 <sup>3</sup> Der Häftling darf in diesen Fällen nur mit Zustimmung der zuständigen ausländischen Behörde freigelassen werden.
 
@@ -1424,7 +1429,7 @@ Macht ein Berechtigter an den Gegenständen oder Vermögenswerten Ansprüche nac
 
 <sup>2</sup> Schweizerische Behörden können Ersuchen um Vornahme von Prozesshandlungen, die nach den Vorschriften des ersuchenden Staates Sache der Parteien sind, auch von den dazu legitimierten Parteien entgegennehmen.
 
-<sup>3</sup> Das Bundesamt stellt Ersuchen um Rechtshilfe, die ausserhalb eines Strafverfahrens benötigt wird.[^75-1]
+<sup>3</sup> Das BJ stellt Ersuchen um Rechtshilfe, die ausserhalb eines Strafverfahrens benötigt wird.[^75-1]
 
 [^75-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1460,9 +1465,9 @@ Ausser den Angaben und Unterlagen nach Artikel 28 sind in einem Ersuchen aufzuf�
 
 **Geschäftsweg[^77-1]**
 
-<sup>1</sup> Ausländische Ersuchen sind durch Vermittlung des Bundesamtes an die zuständige kantonale Behörde zu richten.
+<sup>1</sup> Ausländische Ersuchen sind durch Vermittlung des BJ an die zuständige kantonale Behörde zu richten.
 
-<sup>2</sup> Ersuchen um Erteilung von Auskünften aus dem Strafregister oder zur Feststellung der Identität einer Person sind an das Bundesamt[^77-2] zu richten.
+<sup>2</sup> Ersuchen um Erteilung von Auskünften aus dem Strafregister oder zur Feststellung der Identität einer Person sind an das BJ[^77-2] zu richten.
 
 [^77-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^77-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
@@ -1477,9 +1482,9 @@ Ausser den Angaben und Unterlagen nach Artikel 28 sind in einem Ersuchen aufzuf�
 
 **Annahme und Weiterleitung**
 
-<sup>1</sup> Unter Vorbehalt der direkten Übermittlung an die zuständige ausführende kantonale oder eidgenössische Behörde nimmt das Bundesamt die ausländischen Ersuchen entgegen.
+<sup>1</sup> Unter Vorbehalt der direkten Übermittlung an die zuständige ausführende kantonale oder eidgenössische Behörde nimmt das BJ die ausländischen Ersuchen entgegen.
 
-<sup>2</sup> Das Bundesamt prüft summarisch, ob das Ersuchen den formellen Anforderungen entspricht, und leitet es an die zuständige ausführende Behörde weiter, sofern es nicht offensichtlich unzulässig erscheint.
+<sup>2</sup> Das BJ prüft summarisch, ob das Ersuchen den formellen Anforderungen entspricht, und leitet es an die zuständige ausführende Behörde weiter, sofern es nicht offensichtlich unzulässig erscheint.
 
 <sup>3</sup> Es sendet das Ersuchen nötigenfalls zur Verbesserung oder Ergänzung an den ersuchenden Staat zurück.
 
@@ -1491,11 +1496,11 @@ Ausser den Angaben und Unterlagen nach Artikel 28 sind in einem Ersuchen aufzuf�
 
 **Übertragung der Ausführung**
 
-<sup>1</sup> Erfordert die Ausführung eines Ersuchens Erhebungen in mehreren Kantonen oder betrifft sie auch eine Bundesbehörde, so kann das Bundesamt eine einzige Behörde mit dessen Ausführung betrauen. Die Artikel 44–47, 52 und 53 StPO[^79-1] gelten sinngemäss.[^79-2]
+<sup>1</sup> Erfordert die Ausführung eines Ersuchens Erhebungen in mehreren Kantonen oder betrifft sie auch eine Bundesbehörde, so kann das BJ eine einzige Behörde mit dessen Ausführung betrauen. Die Artikel 44–47, 52 und 53 StPO[^79-1] gelten sinngemäss.[^79-2]
 
-<sup>2</sup> Das Bundesamt kann die Ausführung eines Ersuchens ganz oder teilweise der Bundesbehörde übertragen, die bei Begehung der Tat in der Schweiz für die Ahndung zuständig wäre.
+<sup>2</sup> Das BJ kann die Ausführung eines Ersuchens ganz oder teilweise der Bundesbehörde übertragen, die bei Begehung der Tat in der Schweiz für die Ahndung zuständig wäre.
 
-<sup>3</sup> Das Bundesamt kann der beauftragten Behörde auch die Ausführung von Ergänzungsersuchen übertragen.
+<sup>3</sup> Das BJ kann der beauftragten Behörde auch die Ausführung von Ergänzungsersuchen übertragen.
 
 <sup>4</sup> Die Bezeichnung der mit der Leitung beauftragten kantonalen oder eidgenössischen Behörde ist nicht anfechtbar.
 
@@ -1504,9 +1509,9 @@ Ausser den Angaben und Unterlagen nach Artikel 28 sind in einem Ersuchen aufzuf�
 
 #### Art. 79a
 
-**Entscheid des Bundesamtes**
+**Entscheid des BJ**
 
-Das Bundesamt kann über die Zulässigkeit der Rechtshilfe entscheiden und die Ausführung einer kantonalen Behörde übertragen oder selber über die Ausführung entscheiden, wenn:
+Das BJ kann über die Zulässigkeit der Rechtshilfe entscheiden und die Ausführung einer kantonalen Behörde übertragen oder selber über die Ausführung entscheiden, wenn:
 
 - a. das Ersuchen Erhebungen in mehreren Kantonen erfordert;
 - b. die zuständige kantonale Behörde nicht in der Lage ist, innerhalb angemessener Frist einen Entscheid zu fällen; oder
@@ -1587,7 +1592,7 @@ Die vorzeitige Übermittlung setzt voraus, dass sich die ersuchende Behörde vor
 
 <sup>5</sup> Die Mitteilung an die betroffene Person wird aufgeschoben.
 
-<sup>6</sup> Die nach Absatz 1 vorgesehene Zwischenverfügung wird dem Bundesamt unverzüglich und vor der vorzeitigen Übermittlung mitgeteilt. Sie ist nicht selbstständig anfechtbar.
+<sup>6</sup> Die nach Absatz 1 vorgesehene Zwischenverfügung wird dem BJ unverzüglich und vor der vorzeitigen Übermittlung mitgeteilt. Sie ist nicht selbstständig anfechtbar.
 
 [^80dbis-1]: Eingefügt durch Anhang Ziff. II 5 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1611,7 +1616,7 @@ Die vorzeitige Übermittlung setzt voraus, dass sich die ersuchende Behörde vor
 
 <sup>5</sup> Die zuständige Behörde legt für ihren Staat den Verantwortlichen und die Mitglieder der GEG fest. Die GEG kann bei Bedarf Experten und Hilfspersonen beiziehen.
 
-<sup>6</sup> Der Einsetzungsakt wird dem Bundesamt in schriftlicher Form zur Kenntnis gebracht.
+<sup>6</sup> Der Einsetzungsakt wird dem BJ in schriftlicher Form zur Kenntnis gebracht.
 
 #### Art. 80d<sup>quater</sup>
 
@@ -1733,7 +1738,7 @@ Der Schlussverfügung vorangehende Zwischenverfügungen können selbständig ang
 
 Zur Beschwerdeführung ist berechtigt:
 
-- a. das Bundesamt;
+- a. das BJ;
 - b. wer persönlich und direkt von einer Rechtshilfemassnahme betroffen ist und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung hat.
 
 #### Art. 80i
@@ -1803,23 +1808,23 @@ Die ausführende Behörde und die Rechtsmittelinstanz stellen ihre Verfügungen 
 
 **Rückfrage an den ersuchenden Staat**
 
-<sup>1</sup> Sind ergänzende Informationen notwendig, so holt das Bundesamt diese auf Verlangen der ausführenden Behörde oder der Rechtsmittelinstanz beim ersuchenden Staat ein.
+<sup>1</sup> Sind ergänzende Informationen notwendig, so holt das BJ diese auf Verlangen der ausführenden Behörde oder der Rechtsmittelinstanz beim ersuchenden Staat ein.
 
 <sup>2</sup> Nötigenfalls setzt die zuständige Behörde die Behandlung des Ersuchens ganz oder teilweise aus und entscheidet über die Punkte, die nach der Aktenlage spruchreif sind.
 
-<sup>3</sup> Das Bundesamt setzt dem ersuchenden Staat eine angemessene Frist für die Antwort. Nach unbenutztem Ablauf der Frist wird das Rechtshilfeersuchen aufgrund der Aktenlage geprüft.
+<sup>3</sup> Das BJ setzt dem ersuchenden Staat eine angemessene Frist für die Antwort. Nach unbenutztem Ablauf der Frist wird das Rechtshilfeersuchen aufgrund der Aktenlage geprüft.
 
 #### Art. 80p
 
 **Annahmebedürftige Auflagen**
 
-<sup>1</sup> Die ausführende Behörde und die Rechtsmittelinstanz sowie das Bundesamt können die Gewährung der Rechtshilfe ganz oder teilweise an Auflagen knüpfen.
+<sup>1</sup> Die ausführende Behörde und die Rechtsmittelinstanz sowie das BJ können die Gewährung der Rechtshilfe ganz oder teilweise an Auflagen knüpfen.
 
-<sup>2</sup> Das Bundesamt teilt die Auflagen dem ersuchenden Staat mit, sobald die Verfügung über die Gewährung und den Umfang der Rechtshilfe rechtskräftig ist, und setzt ihm eine angemessene Frist, um deren Annahme oder Ablehnung zu erklären. Nach unbenutztem Ablauf der Frist kann die Rechtshilfe für die Punkte gewährt werden, die an keine Auflagen gebunden sind.
+<sup>2</sup> Das BJ teilt die Auflagen dem ersuchenden Staat mit, sobald die Verfügung über die Gewährung und den Umfang der Rechtshilfe rechtskräftig ist, und setzt ihm eine angemessene Frist, um deren Annahme oder Ablehnung zu erklären. Nach unbenutztem Ablauf der Frist kann die Rechtshilfe für die Punkte gewährt werden, die an keine Auflagen gebunden sind.
 
-<sup>3</sup> Das Bundesamt prüft, ob die Antwort des ersuchenden Staates den verlangten Auflagen genügt.
+<sup>3</sup> Das BJ prüft, ob die Antwort des ersuchenden Staates den verlangten Auflagen genügt.
 
-<sup>4</sup> Die Verfügung des Bundesamtes kann innert zehn Tagen ab der schriftlichen Mitteilung mit Beschwerde bei der Beschwerdekammer des Bundesstrafgerichts angefochten werden. Der Entscheid der Beschwerdekammer ist endgültig.[^80p-1]
+<sup>4</sup> Die Verfügung des BJ kann innert zehn Tagen ab der schriftlichen Mitteilung mit Beschwerde bei der Beschwerdekammer des Bundesstrafgerichts angefochten werden. Der Entscheid der Beschwerdekammer ist endgültig.[^80p-1]
 
 [^80p-1]: Fassung gemäss Anhang Ziff. 30 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -1923,13 +1928,13 @@ Ausser den Unterlagen nach Artikel 28 Absatz 3 sind einem Ersuchen die Akten des
 
 **Entscheid über das Ersuchen**
 
-<sup>1</sup> Das Bundesamt entscheidet nach Rücksprache mit der Strafverfolgungsbehörde über die Annahme des ausländischen Ersuchens.
+<sup>1</sup> Das BJ entscheidet nach Rücksprache mit der Strafverfolgungsbehörde über die Annahme des ausländischen Ersuchens.
 
 <sup>2</sup> Nimmt es dieses an, so übermittelt es der Strafverfolgungsbehörde die Akten und verständigt den ersuchenden Staat und den Betroffenen.
 
 <sup>3</sup> Der Entscheid verpflichtet nicht, ein Strafverfahren zu eröffnen.
 
-<sup>4</sup> Das Bundesamt kann die Übernahme der Strafverfolgung ablehnen, wenn wichtige Gründe ihr entgegenstehen oder die Bedeutung der Tat sie nicht rechtfertigt.
+<sup>4</sup> Das BJ kann die Übernahme der Strafverfolgung ablehnen, wenn wichtige Gründe ihr entgegenstehen oder die Bedeutung der Tat sie nicht rechtfertigt.
 
 #### Art. 92
 
@@ -2041,7 +2046,7 @@ Ein anderer Staat kann um Übernahme der Vollstreckung eines schweizerischen Str
 
 **Voraussetzungen der Zuführung**
 
-<sup>1</sup> Der Verurteilte, der in der Schweiz in Haft ist, darf zur Vollstreckung nach Artikel 100 nur zugeführt werden, wenn er zustimmt und zu erwarten ist, dass der ersuchte Staat die vom Bundesamt festgelegten Bedingungen beachtet.
+<sup>1</sup> Der Verurteilte, der in der Schweiz in Haft ist, darf zur Vollstreckung nach Artikel 100 nur zugeführt werden, wenn er zustimmt und zu erwarten ist, dass der ersuchte Staat die vom BJ festgelegten Bedingungen beachtet.
 
 <sup>2</sup> Der Verurteilte darf ohne seine Zustimmung zugeführt werden, wenn eine von der Schweiz ratifizierte internationale Vereinbarung dies vorsieht. In diesem Fall richten sich die Voraussetzungen und Wirkungen der Zuführung ausschliesslich nach der internationalen Vereinbarung.[^101-1]
 
@@ -2075,7 +2080,7 @@ Ausser den Unterlagen nach Artikel 28 Absatz 3 sind einem Ersuchen beizufügen:
 
 **Entscheid über das Ersuchen**
 
-<sup>1</sup> Das Bundesamt entscheidet nach Rücksprache mit der Vollzugsbehörde über die Annahme des ausländischen Ersuchens. Nimmt es dieses an, so übermittelt es die Akten und seinen Antrag der Vollzugsbehörde und verständigt den ersuchenden Staat. Artikel 91 Absatz 4 gilt sinngemäss.
+<sup>1</sup> Das BJ entscheidet nach Rücksprache mit der Vollzugsbehörde über die Annahme des ausländischen Ersuchens. Nimmt es dieses an, so übermittelt es die Akten und seinen Antrag der Vollzugsbehörde und verständigt den ersuchenden Staat. Artikel 91 Absatz 4 gilt sinngemäss.
 
 <sup>2</sup> Ist die schweizerische Gerichtsbarkeit gegeben und im Ausland eine Sanktion ausgesprochen worden, die schwerer ist als die nach schweizerischem Recht vorgesehene, so kann anstelle der Vollstreckung die Strafverfolgung übernommen werden, wenn der ersuchende Staat es verlangt.
 

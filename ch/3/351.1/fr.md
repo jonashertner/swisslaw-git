@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 1981 sur l'entraide internationale en matière
 short: EIMP
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20230901-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20240101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/fr"
 
 (Loi sur l’entraide pénale internationale, EIMP)
 
-du 20 mars 1981 (État le 1<sup>er</sup> septembre 2023)
+du 20 mars 1981 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -94,7 +94,7 @@ La demande de coopération en matière pénale est irrecevable s’il y a lieu d
 
 - a.[^2-2] n’est pas conforme aux principes de procédure fixés par la convention européenne du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales[^2-3], ou par le Pacte international du 16 décembre 1966 relatif aux droits civils et politiques[^2-4];
 - b.[^2-5] tend à poursuivre ou à punir une personne en raison de ses opinions politiques, de son appartenance à un groupe social déterminé, de sa race, de sa confession ou de sa nationalité;
-- c. risque d’aggraver la situation de la personne poursuivie, pour l’une ou l’autre des raisons indiquées sous let. b; ou
+- c. risque d’aggraver la situation de la personne poursuivie, pour l’une ou l’autre des raisons indiquées sous let. b, ou
 - d. présente d’autres défauts graves.
 
 [^2-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
@@ -152,7 +152,7 @@ La demande est irrecevable:
   - 1 a prononcé, statuant au fond, un acquittement ou un non-lieu, ou
   - 2 a renoncé à infliger une sanction ou s’est abstenu provisoirement de la prononcer;
 
-- b.[^5-2] si la sanction a été exécutée ou ne peut l’être selon le droit de l’État qui a statué; ou
+- b.[^5-2] si la sanction a été exécutée ou ne peut l’être selon le droit de l’État qui a statué, ou
 - c.[^5-3] si l’exécution de la demande implique des mesures de contrainte et que la prescription absolue empêche, en droit suisse, d’ouvrir une action pénale ou d’exécuter une sanction.
 
 <sup>2</sup> L’al. 1, let. a et b, n’est pas applicable si l’État requérant invoque des motifs de nature à entraîner la révision d’un jugement exécutoire, au sens de l’art. 410 du code de procédure pénale du 5 octobre 2007 (CPP)[^5-4].[^5-5]
@@ -185,19 +185,19 @@ La demande est irrecevable:
 
 **Réciprocité**
 
-<sup>1</sup> En règle générale, il n’est donné suite à une demande que si l’État requérant assure la réciprocité. L’Office de la justice[^8-1] du Département fédéral de justice et police (office fédéral) requiert une garantie de réciprocité si les circonstances l’exigent.
+<sup>1</sup> En règle générale, il n’est donné suite à une demande que si l’État requérant assure la réciprocité. L’Office fédéral de la justice (OFJ)[^8-1] requiert une garantie de réciprocité si les circonstances l’exigent.
 
 <sup>2</sup>
 
 La réciprocité n’est pas nécessaire, en particulier, lorsqu’il s’agit d’une notification ou lorsque l’exécution de la demande:
 
 - a. paraît s’imposer en raison de la nature de l’acte commis ou de la nécessité de lutter contre certaines formes d’infractions;
-- b.[^8-2] est propre à améliorer la situation de la personne poursuivie ou ses chances de reclassement social; ou
+- b.[^8-2] est propre à améliorer la situation de la personne poursuivie ou ses chances de reclassement social, ou
 - c. sert à élucider un acte dirigé contre un citoyen suisse.
 
 <sup>3</sup> Le Conseil fédéral peut garantir la réciprocité à d’autres États dans les limites de la présente loi.
 
-[^8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^8-1]: Nouvelle expression selon l’annexe 1 ch. 11 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)). Il a été tenu compte de cette mod. dans tout le texte.
 [^8-2]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
 #### Art. 8a
@@ -242,7 +242,7 @@ Lors de l’exécution de la demande, la protection du domaine secret est régl�
 
 <sup>1</sup>
 
-L’office fédéral exploite un système de gestion de personnes, de dossiers et d’affaires pouvant contenir des données sensibles traitées dans le cadre des formes de collaboration prévues par la présente loi. Ces données peuvent être traitées dans les buts suivants:
+L’OFJ exploite un système de gestion de personnes, de dossiers et d’affaires pouvant contenir des données sensibles traitées dans le cadre des formes de collaboration prévues par la présente loi. Ces données peuvent être traitées dans les buts suivants:
 
 - a. constater si des données se rapportant à une personne déterminée sont traitées;
 - b. traiter les données relatives aux affaires;
@@ -258,7 +258,7 @@ En vue de poursuivre les buts énoncés à l’al. 1, le système contient:
 - b. les données nécessaires à la localisation et à la gestion correcte des dossiers;
 - c. les documents relatifs aux affaires enregistrés électroniquement et aux entrées électroniques.
 
-<sup>3</sup> L’Office fédéral de la police, le Secrétariat d’État aux migrations[^11a-1] et les unités compétentes du Service de renseignement de la Confédération pour l’exécution de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^11a-2], ont accès en ligne aux données mentionnées à l’al. 2, let. a.[^11a-3] L’Office fédéral de la police a également accès en ligne aux données mentionnées à l’al. 2, let. b, lorsqu’il accomplit des tâches de l’Office fédéral de la justice prévues par la présente loi.
+<sup>3</sup> L’Office fédéral de la police, le Secrétariat d’État aux migrations[^11a-1] et les unités compétentes du Service de renseignement de la Confédération pour l’exécution de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^11a-2], ont accès en ligne aux données mentionnées à l’al. 2, let. a.[^11a-3] L’Office fédéral de la police a également accès en ligne aux données mentionnées à l’al. 2, let. b, lorsqu’il accomplit des tâches de l’OFJ prévues par la présente loi.
 
 <sup>4</sup>
 
@@ -266,7 +266,7 @@ Le Conseil fédéral fixe les modalités, notamment en ce qui concerne:
 
 - a. la saisie des données visées à l’al. 2, let. a et b, des données des autorités judiciaires participant à la procédure d’entraide judiciaire et des données relatives aux délits fondant les demandes d’entraide judiciaire;
 - b. la durée de conservation et l’archivage des données;
-- c. les services de l’office fédéral pouvant directement traiter les données du système et celles pouvant être ponctuellement communiquées à d’autres autorités.
+- c. les services de l’OFJ pouvant directement traiter les données du système et celles pouvant être ponctuellement communiquées à d’autres autorités.
 
 [^11a-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^11a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
@@ -304,19 +304,19 @@ L’autorité compétente peut refuser, restreindre ou différer la communicatio
 
 **Restriction du droit d’accès applicable aux demandes d’arrestation aux fins d’extradition**
 
-<sup>1</sup> Toute personne peut demander si un État étranger a adressé à la Suisse une demande d’arrestation aux fins d’extradition à son encontre. Ce droit est exercé auprès de l’office fédéral. Si la demande est adressée à une autre autorité, celle-ci transmet sans délai l’affaire à l’office fédéral.
+<sup>1</sup> Toute personne peut demander si un État étranger a adressé à la Suisse une demande d’arrestation aux fins d’extradition à son encontre. Ce droit est exercé auprès de l’OFJ. Si la demande est adressée à une autre autorité, celle-ci transmet sans délai l’affaire à l’OFJ.
 
-<sup>2</sup> Lorsqu’une personne demande à l’office fédéral s’il a reçu une demande d’arrestation aux fins d’extradition, ce dernier l’informe qu’aucune donnée la concernant n’est traitée illicitement et qu’elle peut demander au Préposé fédéral à la protection des données et à la transparence (PFPDT) de vérifier si les éventuelles données la concernant sont traitées licitement.[^11c-1]
+<sup>2</sup> Lorsqu’une personne demande à l’OFJ s’il a reçu une demande d’arrestation aux fins d’extradition, ce dernier l’informe qu’aucune donnée la concernant n’est traitée illicitement et qu’elle peut demander au Préposé fédéral à la protection des données et à la transparence (PFPDT) de vérifier si les éventuelles données la concernant sont traitées licitement.[^11c-1]
 
 <sup>3</sup> Le PFPDT effectue la vérification demandée; il indique à la personne concernée soit qu’aucune donnée la concernant n’est traitée illicitement, soit qu’il a constaté une erreur relative au traitement des données personnelles et qu’il a ouvert une enquête conformément à l’art. 49 de la loi fédérale du 25 septembre 2020 sur la protection des données[^11c-2].[^11c-3]
 
-<sup>4</sup> En cas d’erreur relative au traitement des données, il ordonne à l’office fédéral d’y remédier.
+<sup>4</sup> En cas d’erreur relative au traitement des données, il ordonne à l’OFJ d’y remédier.
 
 <sup>5</sup> Les communications visées aux al. 2 et 3 sont toujours libellées de manière identique et ne sont pas motivées.
 
 <sup>6</sup> La communication visée à l’al. 3 n’est pas sujette à recours.
 
-<sup>7</sup> En dérogation à l’al. 2, l’office fédéral est habilité à fournir à la personne concernée les renseignements demandés avec l’accord préalable de l’État requérant.
+<sup>7</sup> En dérogation à l’al. 2, l’OFJ est habilité à fournir à la personne concernée les renseignements demandés avec l’accord préalable de l’État requérant.
 
 [^11c-1]: Nouvelle teneur selon l’annexe 1 ch. II 29 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^11c-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
@@ -488,7 +488,7 @@ L’indemnité pour détention injustifiée en Suisse peut aussi être réduite 
 
 <sup>1</sup> Le Département fédéral de justice et police (département) décide dans le cas prévu à l’art. 1*a*.[^17-1] Une décision du département peut être demandée dans les 30 jours qui suivent la communication écrite de la décision de clôture.[^17-2]
 
-<sup>2</sup> L’office fédéral reçoit les demandes en provenance de l’étranger et présente celles de la Suisse. Il traite les demandes d’extradition et transmet pour examen aux autorités cantonales et fédérales compétentes les demandes concernant les autres actes d’entraide, la poursuite pénale par délégation et l’exécution de décisions, à moins qu’elles ne soient manifestement irrecevables.
+<sup>2</sup> L’OFJ reçoit les demandes en provenance de l’étranger et présente celles de la Suisse. Il traite les demandes d’extradition et transmet pour examen aux autorités cantonales et fédérales compétentes les demandes concernant les autres actes d’entraide, la poursuite pénale par délégation et l’exécution de décisions, à moins qu’elles ne soient manifestement irrecevables.
 
 <sup>3</sup>
 
@@ -513,7 +513,7 @@ Il statue dans les cas suivants:
 
 <sup>1</sup> L’autorité compétente traite les demandes avec célérité. Elle statue sans délai.
 
-<sup>2</sup> À la requête de l’office fédéral, elle l’informe sur l’état de la procédure, les raisons d’un éventuel retard et les mesures envisagées. En cas de retard injustifié, l’office fédéral peut intervenir auprès de l’autorité de surveillance compétente.
+<sup>2</sup> À la requête de l’OFJ, elle l’informe sur l’état de la procédure, les raisons d’un éventuel retard et les mesures envisagées. En cas de retard injustifié, l’OFJ peut intervenir auprès de l’autorité de surveillance compétente.
 
 <sup>3</sup> Lorsque l’autorité compétente, sans motif, refuse de statuer ou tarde à se prononcer, son attitude est assimilée à une décision négative sujette à recours.
 
@@ -525,7 +525,7 @@ Il statue dans les cas suivants:
 
 <sup>1</sup> Si un État étranger le demande expressément et qu’une procédure prévue par la présente loi ne semble pas manifestement inadmissible ou inopportune, l’autorité compétente peut ordonner des mesures provisoires en vue de maintenir une situation existante, de protéger des intérêts juridiques menacés ou de préserver des moyens de preuve.
 
-<sup>2</sup> Lorsqu’il y a péril en la demeure et que les renseignements fournis permettent d’examiner si toutes les conditions sont remplies, l’office fédéral peut lui aussi ordonner ces mesures dès l’annonce d’une demande. Ces mesures sont levées si l’État étranger ne dépose pas la demande dans le délai imparti à cet effet.
+<sup>2</sup> Lorsqu’il y a péril en la demeure et que les renseignements fournis permettent d’examiner si toutes les conditions sont remplies, l’OFJ peut lui aussi ordonner ces mesures dès l’annonce d’une demande. Ces mesures sont levées si l’État étranger ne dépose pas la demande dans le délai imparti à cet effet.
 
 <sup>3</sup> Les recours formés contre les décisions prises en vertu du présent article n’ont pas d’effet suspensif.
 
@@ -535,14 +535,14 @@ Il statue dans les cas suivants:
 
 **Surveillance de la correspondance par poste et télécommunication**[^18a-1]
 
-<sup>1</sup> Si un État étranger le demande expressément, l’office fédéral peut, dans les cas d’extradition, ordonner une surveillance de la correspondance par poste et télécommunication pour déterminer le lieu de séjour d’une personne poursuivie.
+<sup>1</sup> Si un État étranger le demande expressément, l’OFJ peut, dans les cas d’extradition, ordonner une surveillance de la correspondance par poste et télécommunication pour déterminer le lieu de séjour d’une personne poursuivie.
 
 <sup>2</sup>
 
 Dans les autres cas d’entraide judiciaire, les autorités désignées ci-après peuvent ordonner une surveillance de la correspondance par poste et télécommunication:
 
 - a. le ministère public de la Confédération ou du canton concerné saisi de la demande d’entraide;
-- b. l’office fédéral s’il traite lui-même la demande d’entraide.
+- b. l’OFJ s’il traite lui-même la demande d’entraide.
 
 <sup>3</sup>
 
@@ -570,7 +570,7 @@ L’autorité fédérale ou cantonale chargée de traiter une demande d’entrai
 
 <sup>2</sup> Ces données ne peuvent pas être utilisées comme moyen de preuve avant que la décision sur l’octroi et l’étendue de l’entraide n’ait acquis force de chose jugée.
 
-<sup>3</sup> La décision prévue à l’al. 1 et, le cas échéant, l’ordre et l’autorisation de surveillance sont immédiatement communiqués à l’office fédéral.
+<sup>3</sup> La décision prévue à l’al. 1 et, le cas échéant, l’ordre et l’autorisation de surveillance sont immédiatement communiqués à l’OFJ.
 
 [^18b-1]: Introduit par l’art. 2 ch. 2 de l’AF du 18 mars 2011 (Conv. du Conseil de l’Europe sur la cybercriminalité), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [FF 2010 4275](https://fedlex.data.admin.ch/eli/fga/2010/813)).
 [^18b-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -587,9 +587,9 @@ Si la personne poursuivie est à l’étranger et que la loi de l’État auquel
 
 <sup>1</sup>
 
-Sur proposition de l’office fédéral, l’autorité compétente peut suspendre, à l’égard de la personne poursuivie à l’étranger, l’action pénale ou l’exécution d’une sanction à raison d’une autre infraction si:
+Sur proposition de l’OFJ, l’autorité compétente peut suspendre, à l’égard de la personne poursuivie à l’étranger, l’action pénale ou l’exécution d’une sanction à raison d’une autre infraction si:
 
-- a. la sanction encourue en Suisse n’a pas une importance considérable en comparaison de celle à laquelle on peut s’attendre à l’étranger; ou
+- a. la sanction encourue en Suisse n’a pas une importance considérable en comparaison de celle à laquelle on peut s’attendre à l’étranger, ou
 - b. l’exécution en Suisse ne paraît pas opportune.
 
 <sup>2</sup> La procédure pénale étrangère terminée, l’autorité suisse décide s’il y a lieu de reprendre l’action pénale ou d’ordonner l’exécution de la sanction.
@@ -598,16 +598,16 @@ Sur proposition de l’office fédéral, l’autorité compétente peut suspendr
 
 **Transit**[^20a-1]
 
-<sup>1</sup> Le transit d’un détenu qui fait l’objet, dans un autre État, d’une procédure admise au sens de la présente loi, ainsi que les mesures nécessaires à cet effet, peuvent être autorisés par l’office fédéral sur requête de cet État ou d’un État tiers et sans audition de l’intéressé. La décision et les mesures s’y rapportant ne sont pas sujettes à recours. Elles ne sont communiquées qu’à l’État requérant.
+<sup>1</sup> Le transit d’un détenu qui fait l’objet, dans un autre État, d’une procédure admise au sens de la présente loi, ainsi que les mesures nécessaires à cet effet, peuvent être autorisés par l’OFJ sur requête de cet État ou d’un État tiers et sans audition de l’intéressé. La décision et les mesures s’y rapportant ne sont pas sujettes à recours. Elles ne sont communiquées qu’à l’État requérant.
 
 <sup>2</sup>
 
 Le transport par air sans escale en Suisse n’est pas soumis à autorisation. En cas d’atterrissage imprévu, la détention n’est maintenue que:
 
 - a. si les conditions d’arrestation prévues par l’art. 44 sont remplies, ou
-- b. si l’État qui a ordonné le transport en a informé préalablement l’office fédéral, en indiquant les motifs de la remise et l’infraction qui la justifie.
+- b. si l’État qui a ordonné le transport en a informé préalablement l’OFJ, en indiquant les motifs de la remise et l’infraction qui la justifie.
 
-<sup>3</sup> L’office fédéral est seul compétent pour interrompre le transit aux fins de poursuite pénale ou d’exécution en Suisse.
+<sup>3</sup> L’OFJ est seul compétent pour interrompre le transit aux fins de poursuite pénale ou d’exécution en Suisse.
 
 [^20a-1]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -664,7 +664,7 @@ Les décisions et prononcés rendus par les autorités fédérales et cantonales
 
 <sup>2bis</sup> Le recours est recevable contre une demande suisse tendant à obtenir d’un État étranger qu’il assume l’exécution d’une décision pénale en relation avec une remise au sens de l’art. 101, al. 2.[^25-4]
 
-<sup>3</sup> L’office fédéral a qualité pour recourir contre les décisions des autorités cantonales ainsi que contre les décisions du Tribunal pénal fédéral. L’autorité cantonale peut recourir contre la décision de l’office fédéral de ne pas présenter une demande.[^25-5]
+<sup>3</sup> L’OFJ a qualité pour recourir contre les décisions des autorités cantonales ainsi que contre les décisions du Tribunal pénal fédéral. L’autorité cantonale peut recourir contre la décision de l’OFJ de ne pas présenter une demande.[^25-5]
 
 <sup>4</sup> Le recours peut également porter sur l’application inadmissible ou manifestement inexacte du droit étranger.
 
@@ -697,7 +697,7 @@ Les décisions du département, au sens de l’art. 17, al. 1, peuvent faire l�
 
 <sup>1</sup> Les art. 27 à 31 s’appliquent à toutes les procédures visées par la présente loi. Les dispositions particulières de procédure prévues dans les autres parties de la présente loi sont réservées.[^27-1]
 
-<sup>2</sup> Les demandes d’un État étranger sont adressées directement à l’office fédéral.
+<sup>2</sup> Les demandes d’un État étranger sont adressées directement à l’OFJ.
 
 <sup>3</sup> Les demandes mal adressées sont transmises d’office à l’autorité compétente. L’autorité requérante en est avisée.
 
@@ -741,7 +741,7 @@ Pour permettre de déterminer la nature juridique de l’infraction, il y a lieu
 
 **Acheminement**
 
-<sup>1</sup> L’office fédéral peut recevoir les demandes directement du ministère de la justice de l’État requérant.
+<sup>1</sup> L’OFJ peut recevoir les demandes directement du ministère de la justice de l’État requérant.
 
 <sup>2</sup> Lorsqu’il s’agit de mesures provisoires ou en cas d’urgence, il est possible de recourir à l’entremise de l’Organisation internationale de police criminelle (OIPC-Interpol) ou de s’adresser directement à l’autorité d’exécution compétente en lui envoyant une copie de la demande.
 
@@ -751,11 +751,16 @@ Pour permettre de déterminer la nature juridique de l’infraction, il y a lieu
 
 <sup>1</sup> Les autorités suisses ne peuvent adresser à un État étranger une demande à laquelle elles ne pourraient pas donner suite en vertu de la présente loi.
 
-<sup>2</sup> La demande d’extradition, de délégation de poursuite pénale ou d’exécution ressortit à l’office fédéral, qui agit sur requête de l’autorité cantonale.
+<sup>2</sup> La demande d’extradition, de délégation de poursuite pénale ou d’exécution ressortit à l’OFJ, qui agit sur demande de l’autorité requérante suisse.[^30-1]
 
 <sup>3</sup> Les autorités suisses sont tenues d’observer les conditions mises par l’État requis à l’exécution de la demande.
 
-<sup>4</sup> L’office fédéral peut refuser de transmettre une demande si l’importance de l’infraction ne justifie pas la procédure.
+<sup>4</sup> L’OFJ peut refuser de transmettre une demande si l’importance de l’infraction ne justifie pas la procédure.
+
+<sup>5</sup> L’OFJ informe immédiatement l’autorité requérante suisse si l’État requis exige que la mesure d’entraide demandée soit ordonnée par un juge.[^30-2]
+
+[^30-1]: Nouvelle teneur selon l’annexe 1 ch. 11 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^30-2]: Introduit par l’annexe 1 ch. 11 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 31
 
@@ -803,7 +808,7 @@ Tout étranger peut être remis aux fins de poursuite pénale ou d’exécution 
 
 L’extradition peut être accordée s’il ressort des pièces jointes à la demande que l’infraction:
 
-- a. est frappée d’une sanction privative de liberté d’un maximum d’au moins un an ou d’une sanction plus sévère, aux termes du droit suisse et du droit de l’État requérant; et
+- a. est frappée d’une sanction privative de liberté d’un maximum d’au moins un an ou d’une sanction plus sévère, aux termes du droit suisse et du droit de l’État requérant, et
 - b. ne relève pas de la juridiction suisse.
 
 <sup>2</sup>
@@ -855,7 +860,7 @@ La personne poursuivie ne peut être extradée à l’État requérant qu’aux 
 
 Les restrictions prévues à l’al. 1, let. a et b, tombent:
 
-- a. si la personne poursuivie ou extradée y renonce expressément; ou
+- a. si la personne poursuivie ou extradée y renonce expressément, ou
 - b.
 
   si la personne extradée:
@@ -902,7 +907,7 @@ Outre les renseignements prévus par l’art. 28, al. 2 et 3, let. a, toute dema
 
 **Entrée en matière sur la demande**
 
-L’office fédéral décide s’il y a lieu d’entrer en matière sur la demande et à quelles conditions.
+L’OFJ décide s’il y a lieu d’entrer en matière sur la demande et à quelles conditions.
 
 ### Section 2 Mesures provisoires
 
@@ -926,7 +931,7 @@ Tout étranger peut être arrêté aux fins d’extradition, soit en vertu d’u
 
 **Avis d’exécution. Durée des mesures**
 
-<sup>1</sup> L’office fédéral est avisé de l’arrestation et de la saisie.
+<sup>1</sup> L’OFJ est avisé de l’arrestation et de la saisie.
 
 <sup>2</sup> Ces mesures sont maintenues jusqu’à la décision relative à la détention en vue de l’extradition, mais au plus tard jusqu’au troisième jour ouvrable à compter de l’arrestation.
 
@@ -938,12 +943,12 @@ Tout étranger peut être arrêté aux fins d’extradition, soit en vertu d’u
 
 <sup>1</sup>
 
-L’office fédéral décerne un mandat d’arrêt aux fins d’extradition. Il peut y renoncer notamment si:
+L’OFJ décerne un mandat d’arrêt aux fins d’extradition. Il peut y renoncer notamment si:
 
 - a. il apparaît que la personne poursuivie ne se soustraira pas à l’extradition et n’entravera pas l’instruction, ou si
 - b. un alibi peut être fourni sans délai.
 
-<sup>2</sup> Si la personne poursuivie ne peut subir l’incarcération ou si d’autres motifs le justifient, l’office fédéral peut, à titre de sûreté, substituer d’autres mesures à l’arrestation.
+<sup>2</sup> Si la personne poursuivie ne peut subir l’incarcération ou si d’autres motifs le justifient, l’OFJ peut, à titre de sûreté, substituer d’autres mesures à l’arrestation.
 
 <sup>3</sup> En même temps, il décide quels objets et valeurs restent saisis ou doivent l’être.
 
@@ -973,7 +978,7 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 <sup>2</sup> Le mandat d’arrêt aux fins d’extradition n’est pas exécutoire tant que la personne poursuivie est détenue pour les besoins d’une instruction ou l’exécution d’un jugement.[^49-1]
 
-<sup>3</sup> La personne poursuivie ne peut être élargie ou refoulée de Suisse sans l’assentiment de l’office fédéral.
+<sup>3</sup> La personne poursuivie ne peut être élargie ou refoulée de Suisse sans l’assentiment de l’OFJ.
 
 [^49-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -981,7 +986,7 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 **Élargissement**
 
-<sup>1</sup> Dix-huit jours après l’arrestation, l’office fédéral ordonne l’élargissement, si la demande d’extradition et ses annexes ne lui sont pas parvenues. Si des raisons particulières le justifient, ce délai peut être porté à quarante jours.
+<sup>1</sup> Dix-huit jours après l’arrestation, l’OFJ ordonne l’élargissement, si la demande d’extradition et ses annexes ne lui sont pas parvenues. Si des raisons particulières le justifient, ce délai peut être porté à quarante jours.
 
 <sup>2</sup> Si la personne poursuivie est déjà détenue, le délai commence à courir dès le moment où l’incarcération a lieu en vue de l’extradition.
 
@@ -1010,7 +1015,7 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 <sup>2</sup> La personne poursuivie est brièvement entendue sur sa situation personnelle, en particulier sur sa nationalité et ses rapports avec l’État requérant, ainsi que sur ses objections éventuelles au mandat d’arrêt ou à l’extradition. Son mandataire peut participer à cette audition.
 
-<sup>3</sup> Si la personne extradée doit être poursuivie pour d’autres infractions ou livrée à un État tiers, l’office fédéral demande qu’elle soit entendue, conformément à l’al. 2, par une autorité de justice de l’État requérant et qu’un procès-verbal de cette audition soit établi.
+<sup>3</sup> Si la personne extradée doit être poursuivie pour d’autres infractions ou livrée à un État tiers, l’OFJ demande qu’elle soit entendue, conformément à l’al. 2, par une autorité de justice de l’État requérant et qu’un procès-verbal de cette audition soit établi.
 
 [^52-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1018,7 +1023,7 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 **Preuve par alibi**
 
-<sup>1</sup> Si la personne poursuivie affirme qu’elle est en mesure de fournir un alibi, l’office fédéral procède aux vérifications nécessaires.
+<sup>1</sup> Si la personne poursuivie affirme qu’elle est en mesure de fournir un alibi, l’OFJ procède aux vérifications nécessaires.
 
 <sup>2</sup> Il refuse l’extradition si le fait invoqué est évident. À défaut, il communique les preuves à décharge à l’État requérant et l’invite à se prononcer à bref délai sur le maintien de la demande.
 
@@ -1026,9 +1031,9 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 **Extradition simplifiée**[^54-1]
 
-<sup>1</sup> À moins que des considérations particulières ne s’y opposent, l’office fédéral autorise la remise si la personne poursuivie accepte de renoncer à la procédure d’extradition, selon procès-verbal dressé par une autorité judiciaire.
+<sup>1</sup> À moins que des considérations particulières ne s’y opposent, l’OFJ autorise la remise si la personne poursuivie accepte de renoncer à la procédure d’extradition, selon procès-verbal dressé par une autorité judiciaire.
 
-<sup>2</sup> La renonciation peut être révoquée tant que l’office fédéral n’a pas autorisé la remise.
+<sup>2</sup> La renonciation peut être révoquée tant que l’OFJ n’a pas autorisé la remise.
 
 <sup>3</sup> L’extradition simplifiée a les mêmes effets que l’extradition et est soumise aux mêmes restrictions. L’État requérant doit y être rendu attentif.
 
@@ -1040,9 +1045,9 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 **Autorités compétentes**
 
-<sup>1</sup> Après avoir accordé un délai convenable pour se déterminer à la personne poursuivie et au tiers qui s’oppose à la remise des objets et valeurs saisis, l’office fédéral statue sur l’extradition ainsi que sur la remise.[^55-1]
+<sup>1</sup> Après avoir accordé un délai convenable pour se déterminer à la personne poursuivie et au tiers qui s’oppose à la remise des objets et valeurs saisis, l’OFJ statue sur l’extradition ainsi que sur la remise.[^55-1]
 
-<sup>2</sup> Si la personne poursuivie prétend l’être pour un délit politique ou si l’instruction laisse apparaître des raisons sérieuses de croire que l’acte revêt un caractère politique, la décision incombe à la cour des plaintes du Tribunal pénal fédéral.[^55-2] L’office fédéral envoie le dossier au tribunal avec sa proposition. La personne poursuivie a la possibilité de se prononcer.
+<sup>2</sup> Si la personne poursuivie prétend l’être pour un délit politique ou si l’instruction laisse apparaître des raisons sérieuses de croire que l’acte revêt un caractère politique, la décision incombe à la cour des plaintes du Tribunal pénal fédéral.[^55-2] L’OFJ envoie le dossier au tribunal avec sa proposition. La personne poursuivie a la possibilité de se prononcer.
 
 <sup>3</sup> La procédure prévue à l’art. 25 en matière de recours est applicable par analogie.[^55-3]
 
@@ -1054,7 +1059,7 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 **Coordination avec la procédure d’asile**[^55a-1]
 
-Lorsque la personne poursuivie a déposé une demande d’asile au sens de la loi du 26 juin 1998 sur l’asile[^55a-2], l’office fédéral et les autorités de recours prennent en considération le dossier relatif à la procédure d’asile pour statuer sur la demande d’extradition.
+Lorsque la personne poursuivie a déposé une demande d’asile au sens de la loi du 26 juin 1998 sur l’asile[^55a-2], l’OFJ et les autorités de recours prennent en considération le dossier relatif à la procédure d’asile pour statuer sur la demande d’extradition.
 
 [^55a-1]: Introduit par le ch. I 3 de la LF du 1<sup>er</sup> oct. 2010 sur la coordination entre la procédure d’asile et la procédure d’extradition, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1333](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 [^55a-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
@@ -1072,13 +1077,13 @@ L’extradition est exécutoire:
 - a. si la personne poursuivie demande expressément à être remise sans délai ou
 - b. si, dans les cinq jours qui suivent la notification de la décision, la personne poursuivie n’a pas déclaré vouloir recourir.
 
-<sup>2</sup> Si l’extradition est refusée, l’office fédéral met fin à la détention ordonnée pour l’extradition.
+<sup>2</sup> Si l’extradition est refusée, l’OFJ met fin à la détention ordonnée pour l’extradition.
 
 #### Art. 57
 
 **Extradition**
 
-<sup>1</sup> L’office fédéral ordonne les mesures nécessaires avec l’accord des autorités cantonales.
+<sup>1</sup> L’OFJ ordonne les mesures nécessaires avec l’accord des autorités cantonales.
 
 <sup>2</sup> Il communique la décision à l’État requérant et lui fait connaître le temps et le lieu de l’exécution.
 
@@ -1265,7 +1270,7 @@ Sur demande expresse de l’État requérant:
 
 <sup>2</sup>
 
-Toute autre utilisation est subordonnée à l’approbation de l’office fédéral. Cette approbation n’est pas nécessaire lorsque:
+Toute autre utilisation est subordonnée à l’approbation de l’OFJ. Cette approbation n’est pas nécessaire lorsque:
 
 - a. les faits à l’origine de la demande constituent une autre infraction pour laquelle l’entraide est susceptible d’être accordée, ou
 - b. la procédure pénale étrangère est dirigée contre d’autres personnes ayant participé à la commission de l’infraction.
@@ -1282,12 +1287,12 @@ Toute autre utilisation est subordonnée à l’approbation de l’office fédé
 
 L’autorité de poursuite pénale peut transmettre spontanément à une autorité étrangère des moyens de preuve qu’elle a recueillis au cours de sa propre enquête, lorsqu’elle estime que cette transmission:
 
-- a. est de nature à permettre d’ouvrir une poursuite pénale; ou
+- a. est de nature à permettre d’ouvrir une poursuite pénale, ou
 - b. peut faciliter le déroulement d’une enquête en cours.
 
 <sup>2</sup> La transmission prévue à l’al. 1 n’a aucun effet sur la procédure pénale en cours en Suisse.
 
-<sup>3</sup> La transmission d’un moyen de preuve à un État avec lequel la Suisse n’est pas liée par un accord international requiert l’autorisation de l’office fédéral.
+<sup>3</sup> La transmission d’un moyen de preuve à un État avec lequel la Suisse n’est pas liée par un accord international requiert l’autorisation de l’OFJ.
 
 <sup>4</sup> Les al. 1 et 2 ne s’appliquent pas aux moyens de preuve qui touchent au domaine secret.
 
@@ -1339,7 +1344,7 @@ L’autorité de poursuite pénale peut transmettre spontanément à une autorit
 
 <sup>1</sup> Le mandat d’arrêt décerné à l’étranger contre un détenu remis temporairement aux autorités suisses pour l’exécution d’un acte d’entraide produit aussi ses effets pendant le séjour du détenu en Suisse.
 
-<sup>2</sup> Pendant le transit, la personne poursuivie reste détenue en vertu de la décision de l’office fédéral qui l’a ordonné.
+<sup>2</sup> Pendant le transit, la personne poursuivie reste détenue en vertu de la décision de l’OFJ qui l’a ordonné.
 
 <sup>3</sup> Dans ces cas, l’élargissement du détenu est subordonné à l’accord de l’autorité étrangère compétente.
 
@@ -1420,7 +1425,7 @@ Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens 
 
 <sup>2</sup> Si le droit de l’État requérant donne aux parties la compétence d’accomplir des actes de procédure, les autorités suisses peuvent également donner suite à leurs requêtes.
 
-<sup>3</sup> L’office fédéral requiert l’entraide à prêter en dehors d’une cause pénale.[^75-2]
+<sup>3</sup> L’OFJ requiert l’entraide à prêter en dehors d’une cause pénale.[^75-2]
 
 [^75-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^75-2]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
@@ -1455,12 +1460,11 @@ En sus des indications et documents prévus par l’art. 28, il convient d’ajo
 
 **Acheminement[^77-1]**
 
-<sup>1</sup> Les demandes de l’étranger sont adressées à l’autorité cantonale compétente par l’entremise de l’office fédéral.
+<sup>1</sup> Les demandes de l’étranger sont adressées à l’autorité cantonale compétente par l’entremise de l’OFJ.
 
-<sup>2</sup> Les demandes d’extraits de casier judiciaire ou de vérifications d’identité sont adressées à l’office fédéral[^77-2].
+<sup>2</sup> Les demandes d’extraits de casier judiciaire ou de vérifications d’identité sont adressées à l’OFJ.
 
 [^77-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^77-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 ### Section 2 Traitement de la demande
 
@@ -1472,7 +1476,7 @@ En sus des indications et documents prévus par l’art. 28, il convient d’ajo
 
 **Réception et transmission**
 
-<sup>1</sup> Sous réserve de la transmission directe à l’autorité d’exécution fédérale ou cantonale compétente, l’office fédéral reçoit les demandes étrangères.
+<sup>1</sup> Sous réserve de la transmission directe à l’autorité d’exécution fédérale ou cantonale compétente, l’OFJ reçoit les demandes étrangères.
 
 <sup>2</sup> Il examine sommairement la recevabilité de la demande quant à la forme et transmet celle-ci à l’autorité d’exécution compétente, à moins que la requête ne paraisse manifestement irrecevable.
 
@@ -1486,11 +1490,11 @@ En sus des indications et documents prévus par l’art. 28, il convient d’ajo
 
 **Délégation de l’exécution**
 
-<sup>1</sup> Si l’exécution d’une demande nécessite des investigations dans plusieurs cantons ou qu’elle concerne également une autorité fédérale, l’office fédéral peut charger une seule autorité de l’exécution. Les art. 44 à 47, 52 et 53 CPP[^79-1] sont applicables par analogie.[^79-2]
+<sup>1</sup> Si l’exécution d’une demande nécessite des investigations dans plusieurs cantons ou qu’elle concerne également une autorité fédérale, l’OFJ peut charger une seule autorité de l’exécution. Les art. 44 à 47, 52 et 53 CPP[^79-1] sont applicables par analogie.[^79-2]
 
-<sup>2</sup> L’office fédéral peut confier l’exécution partielle ou totale d’une demande à l’autorité fédérale qui serait compétente si l’infraction avait été commise en Suisse.
+<sup>2</sup> L’OFJ peut confier l’exécution partielle ou totale d’une demande à l’autorité fédérale qui serait compétente si l’infraction avait été commise en Suisse.
 
-<sup>3</sup> L’office fédéral peut confier en outre à l’autorité délégataire l’exécution de toute requête complémentaire.
+<sup>3</sup> L’OFJ peut confier en outre à l’autorité délégataire l’exécution de toute requête complémentaire.
 
 <sup>4</sup> La désignation de l’autorité fédérale ou cantonale chargée de conduire la procédure ne peut faire l’objet d’un recours.
 
@@ -1499,9 +1503,9 @@ En sus des indications et documents prévus par l’art. 28, il convient d’ajo
 
 #### Art. 79a
 
-**Décision de l’office fédéral**
+**Décision de l’OFJ**
 
-L’office fédéral peut statuer sur l’admissibilité de l’entraide et déléguer l’exécution à une autorité cantonale ou statuer lui-même sur l’exécution:
+L’OFJ peut statuer sur l’admissibilité de l’entraide et déléguer l’exécution à une autorité cantonale ou statuer lui-même sur l’exécution:
 
 - a. lorsque la demande nécessite des investigations dans plusieurs cantons;
 - b. lorsque l’autorité cantonale compétente n’est pas en mesure de rendre une décision dans un délai raisonnable, ou
@@ -1582,7 +1586,7 @@ Avant la transmission anticipée, l’autorité requérante doit s’être préa
 
 <sup>5</sup> L’information de la personne concernée est différée.
 
-<sup>6</sup> Avant toute transmission anticipée, la décision incidente visée à l’al. 1 est communiquée immédiatement à l’office fédéral. Elle ne peut faire l’objet d’un recours séparé.
+<sup>6</sup> Avant toute transmission anticipée, la décision incidente visée à l’al. 1 est communiquée immédiatement à l’OFJ. Elle ne peut faire l’objet d’un recours séparé.
 
 [^80dbis-1]: Introduit par l’annexe ch. II 5 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1606,7 +1610,7 @@ Avant la transmission anticipée, l’autorité requérante doit s’être préa
 
 <sup>5</sup> L’autorité compétente nomme le responsable et les membres de l’ECE pour son État. L’ECE peut au besoin recourir à des experts et des auxiliaires.
 
-<sup>6</sup> L’acte d’institution est porté à la connaissance de l’office fédéral en la forme écrite.
+<sup>6</sup> L’acte d’institution est porté à la connaissance de l’OFJ en la forme écrite.
 
 #### Art. 80d<sup>quater</sup>
 
@@ -1728,7 +1732,7 @@ Les décisions incidentes antérieures à la décision de clôture peuvent faire
 
 Ont qualité pour recourir:
 
-- a. l’office fédéral;
+- a. l’OFJ;
 - b. quiconque est personnellement et directement touché par une mesure d’entraide et a un intérêt digne de protection à ce qu’elle soit annulée ou modifiée.
 
 #### Art. 80i
@@ -1796,23 +1800,23 @@ L’autorité d’exécution et l’autorité de recours notifient leurs décisi
 
 **Interpellation de l’État requérant**
 
-<sup>1</sup> Si des informations complémentaires sont nécessaires, l’autorité d’exécution ou l’autorité de recours invitent l’office fédéral à les demander à l’État requérant.
+<sup>1</sup> Si des informations complémentaires sont nécessaires, l’autorité d’exécution ou l’autorité de recours invitent l’OFJ à les demander à l’État requérant.
 
 <sup>2</sup> Le cas échéant, l’autorité compétente suspend en totalité ou en partie le traitement de la demande et statue sur les points qui peuvent être tranchés en l’état du dossier.
 
-<sup>3</sup> L’office fédéral impartit à l’État requérant un délai de réponse approprié. Si le délai imparti n’est pas respecté, la demande d’entraide est examinée en l’état du dossier.
+<sup>3</sup> L’OFJ impartit à l’État requérant un délai de réponse approprié. Si le délai imparti n’est pas respecté, la demande d’entraide est examinée en l’état du dossier.
 
 #### Art. 80p
 
 **Conditions soumises à acceptation**
 
-<sup>1</sup> L’autorité d’exécution et l’autorité de recours, de même que l’office fédéral, peuvent subordonner, en totalité ou en partie, l’octroi de l’entraide à des conditions.
+<sup>1</sup> L’autorité d’exécution et l’autorité de recours, de même que l’OFJ, peuvent subordonner, en totalité ou en partie, l’octroi de l’entraide à des conditions.
 
-<sup>2</sup> L’office fédéral communique les conditions à l’État requérant lorsque la décision relative à l’octroi et à l’étendue de l’entraide est devenue exécutoire, et il lui impartit un délai approprié pour déclarer s’il les accepte ou s’il les refuse. Si le délai imparti n’est pas respecté, l’entraide peut être octroyée sur les points ne faisant pas l’objet de conditions.
+<sup>2</sup> L’OFJ communique les conditions à l’État requérant lorsque la décision relative à l’octroi et à l’étendue de l’entraide est devenue exécutoire, et il lui impartit un délai approprié pour déclarer s’il les accepte ou s’il les refuse. Si le délai imparti n’est pas respecté, l’entraide peut être octroyée sur les points ne faisant pas l’objet de conditions.
 
-<sup>3</sup> L’office fédéral examine si la réponse de l’État requérant constitue un engagement suffisant au regard des conditions fixées.
+<sup>3</sup> L’OFJ examine si la réponse de l’État requérant constitue un engagement suffisant au regard des conditions fixées.
 
-<sup>4</sup> La décision de l’office fédéral peut faire l’objet d’un recours devant la cour des plaintes du Tribunal pénal fédéral dans un délai de dix jours à compter de sa communication écrite. La décision de la cour des plaintes est définitive.[^80p-1]
+<sup>4</sup> La décision de l’OFJ peut faire l’objet d’un recours devant la cour des plaintes du Tribunal pénal fédéral dans un délai de dix jours à compter de sa communication écrite. La décision de la cour des plaintes est définitive.[^80p-1]
 
 [^80p-1]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -1912,13 +1916,13 @@ En sus des documents visés à l’art. 28, al. 3, la demande est accompagnée d
 
 **Décision sur la demande**
 
-<sup>1</sup> L’office fédéral, après avoir conféré avec l’autorité de poursuite pénale, statue sur l’acceptation de la demande étrangère.
+<sup>1</sup> L’OFJ, après avoir conféré avec l’autorité de poursuite pénale, statue sur l’acceptation de la demande étrangère.
 
 <sup>2</sup> Dans l’affirmative, il transmet le dossier à l’autorité de poursuite pénale et en informe l’État requérant, ainsi que l’intéressé.
 
 <sup>3</sup> La décision n’oblige pas à ouvrir une action pénale.
 
-<sup>4</sup> L’office fédéral peut refuser la poursuite pénale, si des raisons majeures s’y opposent ou que l’importance de l’infraction ne la justifie pas.
+<sup>4</sup> L’OFJ peut refuser la poursuite pénale, si des raisons majeures s’y opposent ou que l’importance de l’infraction ne la justifie pas.
 
 #### Art. 92
 
@@ -2030,7 +2034,7 @@ L’exécution d’une décision pénale suisse peut être déléguée à un Ét
 
 **Conditions de la remise**
 
-<sup>1</sup> La remise du condamné détenu en Suisse, aux fins de l’exécution prévue par l’art. 100, exige qu’il y consente et que, selon toute attente, les conditions fixées par l’office fédéral seront observées dans l’État requis.
+<sup>1</sup> La remise du condamné détenu en Suisse, aux fins de l’exécution prévue par l’art. 100, exige qu’il y consente et que, selon toute attente, les conditions fixées par l’OFJ seront observées dans l’État requis.
 
 <sup>2</sup> La remise peut avoir lieu sans le consentement du condamné, à condition qu’un accord international ratifié par la Suisse le prévoie. Dans ce cas, les conditions et les effets de la remise sont régis exclusivement par l’accord en question.[^101-1]
 
@@ -2064,7 +2068,7 @@ Sont joints à la demande, outre les documents prévus par l’art. 28, al. 3:
 
 **Décisions sur la demande**
 
-<sup>1</sup> L’office fédéral, après avoir conféré avec l’autorité d’exécution, statue sur l’acceptation de la demande étrangère. S’il l’admet, il transmet le dossier avec son avis à l’autorité d’exécution et en informe l’État requérant. L’art. 91, al. 4, est applicable par analogie.
+<sup>1</sup> L’OFJ, après avoir conféré avec l’autorité d’exécution, statue sur l’acceptation de la demande étrangère. S’il l’admet, il transmet le dossier avec son avis à l’autorité d’exécution et en informe l’État requérant. L’art. 91, al. 4, est applicable par analogie.
 
 <sup>2</sup> Si l’infraction relève de la juridiction suisse et que la sanction prononcée à l’étranger soit plus rigoureuse que celle qui est prévue en droit suisse, la poursuite peut être substituée à l’exécution sur demande de l’État requérant.
 

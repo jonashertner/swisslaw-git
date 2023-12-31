@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 1981 sull'assistenza internazionale in mater
 short: AIMP
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20230901-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20240101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20230901/it"
 
 (Assistenza in materia penale, AIMP)
 
-del 20 marzo 1981 (Stato 1° settembre 2023)
+del 20 marzo 1981 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -185,7 +185,7 @@ La domanda è irricevibile se:
 
 **Reciprocità**
 
-<sup>1</sup> Di regola, è dato seguito alla domanda soltanto se lo Stato richiedente concede la reciprocità. L’Ufficio federale di giustizia[^8-1] del Dipartimento federale di giustizia e polizia (Ufficio federale) chiede una garanzia di reciprocità qualora le circostanze lo richiedano.
+<sup>1</sup> Di regola, è dato seguito alla domanda soltanto se lo Stato richiedente concede la reciprocità. L’Ufficio federale di giustizia (UFG)[^8-1] chiede una garanzia di reciprocità qualora le circostanze lo richiedano.
 
 <sup>2</sup>
 
@@ -197,7 +197,7 @@ La reciprocità non è in particolare necessaria per le notificazioni o qualora 
 
 <sup>3</sup> Il Consiglio federale può, nei limiti della presente legge, garantire la reciprocità ad altri Stati.
 
-[^8-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^8-1]: Nuova espr. giusta l’all. 1 n. 11 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^8-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
 #### Art. 8a
@@ -242,7 +242,7 @@ Nell’esecuzione della domanda, la protezione della sfera segreta è retta dall
 
 <sup>1</sup>
 
-L’Ufficio federale gestisce un sistema di gestione delle persone, degli atti e delle pratiche, che può contenere dati degni di particolare protezione trattati nell’ambito delle forme di collaborazione previste dalla presente legge. Questi dati possono essere trattati per:
+L’UFG[^11a-1] gestisce un sistema di gestione delle persone, degli atti e delle pratiche, che può contenere dati degni di particolare protezione trattati nell’ambito delle forme di collaborazione previste dalla presente legge. Questi dati possono essere trattati per:
 
 - a. accertare se sono trattati dati relativi a una determinata persona;
 - b. trattare dati concernenti le pratiche;
@@ -258,7 +258,7 @@ Per adempiere gli scopi enunciati nel capoverso 1, il sistema contiene:
 - b. i dati necessari a localizzare e gestire correttamente i fascicoli;
 - c. i documenti relativi alle pratiche e alle iscrizioni registrate elettronicamente.
 
-<sup>3</sup> L’Ufficio federale di polizia, la Segreteria di Stato della migrazione[^11a-1] e le unità del Servizio delle attività informative della Confederazione competenti per l’esecuzione della legge federale del 21 marzo 1997[^11a-2] sulle misure per la salvaguardia della sicurezza interna hanno accesso ai dati di cui al capoverso 2 lettera a mediante una procedura di richiamo.[^11a-3] L’Ufficio federale di polizia ha parimenti accesso ai dati di cui al capoverso 2 lettera b, nella misura in cui esegue i compiti previsti dalla presente legge.
+<sup>3</sup> L’Ufficio federale di polizia, la Segreteria di Stato della migrazione[^11a-2] e le unità del Servizio delle attività informative della Confederazione competenti per l’esecuzione della legge federale del 21 marzo 1997[^11a-3] sulle misure per la salvaguardia della sicurezza interna hanno accesso ai dati di cui al capoverso 2 lettera a mediante una procedura di richiamo.[^11a-4] L’Ufficio federale di polizia ha parimenti accesso ai dati di cui al capoverso 2 lettera b, nella misura in cui esegue i compiti previsti dalla presente legge.
 
 <sup>4</sup>
 
@@ -266,11 +266,12 @@ Il Consiglio federale disciplina i particolari, segnatamente per quanto concerne
 
 - a. la registrazione dei dati di cui al capoverso 2 lettere a e b, i dati delle autorità giudiziarie coinvolte nella procedura d’assistenza giudiziaria e i reati che hanno dato luogo alle richieste di assistenza giudiziaria;
 - b. la durata di conservazione e l’archiviazione dei dati;
-- c. i servizi dell’Ufficio federale che possono trattare direttamente dati nel sistema e i dati che possono essere comunicati ad altre autorità in casi specifici.
+- c. i servizi dell’UFG che possono trattare direttamente dati nel sistema e i dati che possono essere comunicati ad altre autorità in casi specifici.
 
-[^11a-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015.
-[^11a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^11a-3]: Nuovo testo giusta il n. I 4 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^11a-1]: Nuova espr. giusta l’all. 1 n. 11 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^11a-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015.
+[^11a-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^11a-4]: Nuovo testo giusta il n. I 4 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
 
 ### Capitolo 1*b*: Protezione dei dati personali
 
@@ -304,19 +305,19 @@ L’autorità competente può rifiutare, limitare o differire l’informazione p
 
 **Restrizione del diritto d’accesso applicabile alle domande di arresto a scopo di estradizione**
 
-<sup>1</sup> Chiunque può domandare se uno Stato estero ha presentato alla Svizzera una domanda di arresto a scopo di estradizione nei suoi confronti. Questo diritto va esperito davanti all’Ufficio federale. Se la domanda è presentata a un’altra autorità, quest’ultima la trasmette senza indugio all’Ufficio federale.
+<sup>1</sup> Chiunque può domandare se uno Stato estero ha presentato alla Svizzera una domanda di arresto a scopo di estradizione nei suoi confronti. Questo diritto va esperito davanti all’UFG. Se la domanda è presentata a un’altra autorità, quest’ultima la trasmette senza indugio all’UFG.
 
-<sup>2</sup> Qualora una persona domandi all’Ufficio federale se ha ricevuto una domanda di arresto a scopo di estradizione, questo le comunica che nessun dato che la concerne è trattato in modo illecito e che può chiedere all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) di verificare se gli eventuali dati che la concernono sono trattati in modo lecito.[^11c-1]
+<sup>2</sup> Qualora una persona domandi all’UFG se ha ricevuto una domanda di arresto a scopo di estradizione, questo le comunica che nessun dato che la concerne è trattato in modo illecito e che può chiedere all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) di verificare se gli eventuali dati che la concernono sono trattati in modo lecito.[^11c-1]
 
 <sup>3</sup> L’IFPDT effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali, che ha aperto un’inchiesta conformemente all’articolo 49 della legge federale del 25 settembre 2020[^11c-2] sulla protezione dei dati.[^11c-3]
 
-<sup>4</sup> Se riscontra errori nel trattamento dei dati, l’IFPDT ordina all’Ufficio federale di porvi rimedio.[^11c-4]
+<sup>4</sup> Se riscontra errori nel trattamento dei dati, l’IFPDT ordina all’UFG di porvi rimedio.[^11c-4]
 
 <sup>5</sup> Le comunicazioni di cui ai capoversi 2 e 3 hanno sempre lo stesso tenore e non vengono motivate.
 
 <sup>6</sup> La comunicazione di cui al capoverso 3 non è impugnabile.
 
-<sup>7</sup> Se lo Stato richiedente vi acconsente, l’Ufficio federale è autorizzato, in deroga al capoverso 2, a fornire all’interessato le informazioni richieste.
+<sup>7</sup> Se lo Stato richiedente vi acconsente, l’UFG è autorizzato, in deroga al capoverso 2, a fornire all’interessato le informazioni richieste.
 
 [^11c-1]: Nuovo testo giusta l’all. 1 n. II 29 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^11c-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
@@ -490,17 +491,17 @@ L’indennità per il carcere sofferto in Svizzera ai fini d’estradizione può
 
 <sup>1</sup> Il Dipartimento federale di giustizia e polizia (Dipartimento) decide nel caso dell’articolo 1*a*.[^17-1] Nei trenta giorni che seguono la comunicazione scritta della decisione finale può essere chiesta una decisione del Dipartimento.[^17-2]
 
-<sup>2</sup> L’Ufficio federale riceve le domande dell’estero e presenta quelle svizzere. Esso tratta le domande d’estradizione e provvede affinché le domande d’altra assistenza, di perseguimento penale in via sostitutiva o di esecuzione di decisioni penali siano esaminate dalle autorità cantonali o federali competenti, sempreché la loro esecuzione non sia manifestamente inammissibile.
+<sup>2</sup> L’UFG riceve le domande dell’estero e presenta quelle svizzere. Esso tratta le domande d’estradizione e provvede affinché le domande d’altra assistenza, di perseguimento penale in via sostitutiva o di esecuzione di decisioni penali siano esaminate dalle autorità cantonali o federali competenti, sempreché la loro esecuzione non sia manifestamente inammissibile.
 
 <sup>3</sup>
 
-L’Ufficio federale decide su:
+L’UFG decide su:
 
 - a. la richiesta della garanzia di reciprocità (art. 8 cpv. 1);
 - b. la scelta della procedura appropriata (art. 19);
 - c. l’ammissibilità di domande svizzere (art. 30 cpv. 1).
 
-<sup>4</sup> L’Ufficio federale può delegare l’attuazione totale o parziale del procedimento all’autorità federale che sarebbe stata competente a reprimere se il reato fosse stato commesso in Svizzera.
+<sup>4</sup> L’UFG può delegare l’attuazione totale o parziale del procedimento all’autorità federale che sarebbe stata competente a reprimere se il reato fosse stato commesso in Svizzera.
 
 <sup>5</sup> Può anche decidere sull’ammissibilità dell’assistenza giudiziaria e sull’esecuzione, conformemente all’articolo 79*a*.[^17-3]
 
@@ -514,7 +515,7 @@ L’Ufficio federale decide su:
 
 <sup>1</sup> L’autorità competente tratta le domande con celerità. Essa decide senza indugio.
 
-<sup>2</sup> A domanda dell’Ufficio federale, lo informa sullo stato del procedimento, sui motivi di un eventuale ritardo e sulle misure prospettate. In caso di ritardo ingiustificato, l’Ufficio federale può intervenire presso l’autorità di vigilanza competente.
+<sup>2</sup> A domanda dell’UFG, lo informa sullo stato del procedimento, sui motivi di un eventuale ritardo e sulle misure prospettate. In caso di ritardo ingiustificato, l’UFG può intervenire presso l’autorità di vigilanza competente.
 
 <sup>3</sup> Qualora l’autorità competente neghi o ritardi senza motivo una decisione, il suo silenzio equivale a una decisione negativa impugnabile.
 
@@ -526,7 +527,7 @@ L’Ufficio federale decide su:
 
 <sup>1</sup> A espressa domanda di uno Stato estero l’autorità competente può prendere misure provvisionali per mantenere lo stato esistente, per salvaguardare interessi giuridici minacciati o per assicurare prove in pericolo, purché il procedimento secondo la presente legge non appaia manifestamente inammissibile o inappropriato.
 
-<sup>2</sup> Se vi è pericolo nel ritardo e qualora vi siano indicazioni sufficienti per giudicare se i presupposti sono adempiuti, queste misure possono anche essere ordinate dall’Ufficio federale appena annunciata la domanda. Esse sono annullate se lo Stato estero non presenta la domanda entro il termine stabilito.
+<sup>2</sup> Se vi è pericolo nel ritardo e qualora vi siano indicazioni sufficienti per giudicare se i presupposti sono adempiuti, queste misure possono anche essere ordinate dall’UFG appena annunciata la domanda. Esse sono annullate se lo Stato estero non presenta la domanda entro il termine stabilito.
 
 <sup>3</sup> I ricorsi contro le decisioni giusta il presente articolo non hanno effetto sospensivo.
 
@@ -536,14 +537,14 @@ L’Ufficio federale decide su:
 
 **Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni**[^18a-1]
 
-<sup>1</sup> Nei casi di estradizione, l’Ufficio federale può ordinare, su espressa domanda di uno Stato estero, una sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni allo scopo di stabilire il luogo di soggiorno di una persona perseguita.
+<sup>1</sup> Nei casi di estradizione, l’UFG può ordinare, su espressa domanda di uno Stato estero, una sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni allo scopo di stabilire il luogo di soggiorno di una persona perseguita.
 
 <sup>2</sup>
 
 Negli altri casi di assistenza giudiziaria, le seguenti autorità possono ordinare la sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni:
 
 - a. il pubblico ministero della Confederazione o del Cantone investiti della domanda d’assistenza;
-- b. l’Ufficio federale, se esegue esso stesso la domanda d’assistenza.
+- b. l’UFG, se esegue esso stesso la domanda d’assistenza.
 
 <sup>3</sup>
 
@@ -571,7 +572,7 @@ L’autorità federale o cantonale incaricata di trattare una domanda di assiste
 
 <sup>2</sup> Tali dati non possono essere utilizzati come mezzi di prova prima che la decisione in merito alla concessione e alla portata dell’assistenza giudiziaria sia passata in giudicato.
 
-<sup>3</sup> La decisione di cui al capoverso 1 e, se del caso, l’ordine e l’autorizzazione della sorveglianza devono essere tempestivamente comunicati all’Ufficio federale.
+<sup>3</sup> La decisione di cui al capoverso 1 e, se del caso, l’ordine e l’autorizzazione della sorveglianza devono essere tempestivamente comunicati all’UFG.
 
 [^18b-1]: Introdotto dall’art. 2 n. 2 del DF del 18 mar. 2011 (Convenzione del Consiglio d’Europa sulla cibercriminalità), in vigore dal 1° gen. 2012 ([RU 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [FF 2010 4119](https://fedlex.data.admin.ch/eli/fga/2010/813)).
 [^18b-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -588,7 +589,7 @@ Se la persona perseguita si trova all’estero e, secondo il diritto dello Stato
 
 <sup>1</sup>
 
-Su proposta dell’Ufficio federale, l’autorità competente può prescindere temporaneamente dall’attuazione del procedimento penale o dall’esecuzione della sanzione per un altro fatto contro una persona perseguita all’estero se:
+Su proposta dell’UFG, l’autorità competente può prescindere temporaneamente dall’attuazione del procedimento penale o dall’esecuzione della sanzione per un altro fatto contro una persona perseguita all’estero se:
 
 - a. la sanzione incorsa in Svizzera non ha importanza essenziale in riscontro a quella che sarà probabilmente inflitta all’estero, o
 - b. l’esecuzione in Svizzera non sembra appropriata.
@@ -599,16 +600,16 @@ Su proposta dell’Ufficio federale, l’autorità competente può prescindere t
 
 **Transito di un carcerato**[^20a-1]
 
-<sup>1</sup> Per un procedimento in uno Stato estero, ammissibile secondo la presente legge, l’Ufficio federale può, a domanda di questo Stato o di uno Stato terzo, autorizzare il transito di un carcerato senza sentire l’interessato e prendere le disposizioni occorrenti. La decisione e i provvedimenti ad essa connessi non sono impugnabili. Essi sono comunicati soltanto allo Stato richiedente.
+<sup>1</sup> Per un procedimento in uno Stato estero, ammissibile secondo la presente legge, l’UFG può, a domanda di questo Stato o di uno Stato terzo, autorizzare il transito di un carcerato senza sentire l’interessato e prendere le disposizioni occorrenti. La decisione e i provvedimenti ad essa connessi non sono impugnabili. Essi sono comunicati soltanto allo Stato richiedente.
 
 <sup>2</sup>
 
 L’autorizzazione non è necessaria se il carcerato è trasportato via aerea senza scalo sul territorio svizzero. In caso di scalo imprevisto il carcerato può essere tenuto in stato di fermo soltanto se:
 
 - a. sono adempiute le condizioni del fermo a tenore dell’articolo 44; o
-- b. lo Stato che ha ordinato il trasporto ne ha informato precedentemente l’Ufficio federale, indicando il motivo della consegna e il reato che la giustifica.
+- b. lo Stato che ha ordinato il trasporto ne ha informato precedentemente l’UFG, indicando il motivo della consegna e il reato che la giustifica.
 
-<sup>3</sup> Soltanto l’Ufficio federale può interrompere il transito per provvedimenti di perseguimento o esecuzione penali in Svizzera.
+<sup>3</sup> Soltanto l’UFG può interrompere il transito per provvedimenti di perseguimento o esecuzione penali in Svizzera.
 
 [^20a-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -664,7 +665,7 @@ Le decisioni delle autorità federali e cantonali devono essere provviste dell�
 
 <sup>2bis</sup> È ammissibile il ricorso contro una domanda svizzera volta a far assumere a uno Stato estero l’esecuzione di una decisione penale relativa a una consegna ai sensi dell’articolo 101 capoverso 2.[^25-4]
 
-<sup>3</sup> L’Ufficio federale può ricorrere contro le decisioni delle autorità cantonali e contro le decisioni del Tribunale penale federale. L’autorità cantonale può ricorrere contro la decisione dell’Ufficio federale di non presentare la domanda.[^25-5]
+<sup>3</sup> L’UFG può ricorrere contro le decisioni delle autorità cantonali e contro le decisioni del Tribunale penale federale. L’autorità cantonale può ricorrere contro la decisione dell’UFG di non presentare la domanda.[^25-5]
 
 <sup>4</sup> Il ricorso può vertere anche sull’applicazione inammissibile o manifestamente inesatta del diritto straniero.
 
@@ -687,7 +688,7 @@ Le decisioni delle autorità federali e cantonali devono essere provviste dell�
 Le decisioni del Dipartimento giusta l’articolo 17 capoverso 1 sono impugnabili mediante ricorso al Consiglio federale. …[^26-2]
 
 [^26-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^26-2]: Abrogato dall’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26-2]: Per. abrogato dall’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Capitolo 4: Procedura interstatale
 
@@ -697,7 +698,7 @@ Le decisioni del Dipartimento giusta l’articolo 17 capoverso 1 sono impugnabil
 
 <sup>1</sup> Gli articoli 27–31 si applicano a tutti i procedimenti disciplinati dalla presente legge. Sono fatte salve le disposizioni procedurali speciali delle altre parti della presente legge.[^27-1]
 
-<sup>2</sup> Le domande estere devono essere indirizzate direttamente all’Ufficio federale.
+<sup>2</sup> Le domande estere devono essere indirizzate direttamente all’UFG.
 
 <sup>3</sup> Le domande indirizzate a un’autorità incompetente sono inoltrate d’ufficio. L’ufficio richiedente deve esserne informato.
 
@@ -741,7 +742,7 @@ Per l’apprezzamento giuridico del reato devono essere allegati:
 
 **Trasmissione**
 
-<sup>1</sup> L’Ufficio federale può ricevere direttamente le domande dal ministero della giustizia dello Stato richiedente.
+<sup>1</sup> L’UFG può ricevere direttamente le domande dal ministero della giustizia dello Stato richiedente.
 
 <sup>2</sup> Per le misure provvisionali o in casi urgenti, si può far capo alla mediazione dell’Organizzazione internazionale di polizia criminale (OIPC – Interpol) o trasmettere direttamente una copia della domanda all’autorità competente per l’esecuzione.
 
@@ -751,11 +752,16 @@ Per l’apprezzamento giuridico del reato devono essere allegati:
 
 <sup>1</sup> Le autorità svizzere non possono presentare a uno Stato estero domande cui esse non potrebbero dar seguito giusta la presente legge.
 
-<sup>2</sup> Per le domande di estradizione o di assunzione del perseguimento penale o dell’esecuzione è competente l’Ufficio federale; esso opera a richiesta dell’autorità cantonale.
+<sup>2</sup> Per le domande di estradizione o di assunzione del perseguimento penale o dell’esecuzione è competente l’UFG; esso opera a richiesta dell’autorità svizzera richiedente.[^30-1]
 
 <sup>3</sup> Le condizioni cui lo Stato richiesto subordina l’esecuzione della domanda devono essere osservate dalle autorità svizzere.
 
-<sup>4</sup> L’Ufficio federale può prescindere dalla domanda se l’importanza del reato non giustifica l’attuazione del procedimento.
+<sup>4</sup> L’UFG può prescindere dalla domanda se l’importanza del reato non giustifica l’attuazione del procedimento.
+
+<sup>5</sup> L’UFG informa senza indugio l’autorità svizzera richiedente se lo Stato richiesto esige che la misura d’assistenza giudiziaria richiesta sia ordinata da un giudice.[^30-2]
+
+[^30-1]: Nuovo testo giusta l’all. 1 n. 11 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^30-2]: Introdotto dall’all. 1 n. 11 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 31
 
@@ -904,7 +910,7 @@ Le domande di ricerca e di fermo a scopo di estradizione devono menzionare oltre
 
 **Entrata in materia sulla domanda**
 
-L’Ufficio federale decide se e a quali condizioni si entrerà in materia sulla domanda.
+L’UFG decide se e a quali condizioni si entrerà in materia sulla domanda.
 
 ### Sezione 2: Misure provvisionali
 
@@ -928,7 +934,7 @@ Gli stranieri possono essere fermati a scopo di estradizione in base a una doman
 
 **Avviso d’esecuzione. Durata delle misure**
 
-<sup>1</sup> Il fermo e il sequestro conservativo devono essere comunicati all’Ufficio federale.
+<sup>1</sup> Il fermo e il sequestro conservativo devono essere comunicati all’UFG.
 
 <sup>2</sup> Essi sono mantenuti sino alla decisione circa il carcere in vista d’estradizione il più tardi però fino al terzo giorno feriale successivo al fermo.
 
@@ -940,12 +946,12 @@ Gli stranieri possono essere fermati a scopo di estradizione in base a una doman
 
 <sup>1</sup>
 
-L’Ufficio federale emette un ordine di arresto in vista d’estradizione. Esso può prescindervi segnatamente se la persona perseguita:
+L’UFG emette un ordine di arresto in vista d’estradizione. Esso può prescindervi segnatamente se la persona perseguita:
 
 - a. verosimilmente non si sottrarrà all’estradizione né comprometterà l’istruzione penale, o
 - b. può produrre immediatamente il suo alibi.
 
-<sup>2</sup> Se la persona perseguita non è in condizione d’essere incarcerata o se altri motivi lo giustificano, l’Ufficio federale può, in luogo della carcerazione, decidere altri provvedimenti cautelari.
+<sup>2</sup> Se la persona perseguita non è in condizione d’essere incarcerata o se altri motivi lo giustificano, l’UFG può, in luogo della carcerazione, decidere altri provvedimenti cautelari.
 
 <sup>3</sup> Simultaneamente, esso decide quali oggetti e beni debbano rimanere od essere messi al sicuro.
 
@@ -975,7 +981,7 @@ Le decisioni di cui all’articolo 47 contengono:
 
 <sup>2</sup> L’ordine di arresto in vista d’estradizione non è eseguibile fin tanto che la persona perseguita si trova in carcere preventivo o espiatorio.[^49-1]
 
-<sup>3</sup> Senza il consenso dell’Ufficio federale, la persona perseguita non può essere né messa in libertà né allontanata dalla Svizzera.
+<sup>3</sup> Senza il consenso dell’UFG, la persona perseguita non può essere né messa in libertà né allontanata dalla Svizzera.
 
 [^49-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -983,7 +989,7 @@ Le decisioni di cui all’articolo 47 contengono:
 
 **Scarcerazione**
 
-<sup>1</sup> Diciotto giorni dopo il fermo, l’Ufficio federale ordina la scarcerazione se la domanda d’estradizione e i relativi documenti a sostegno non gli sono pervenuti.[^50-1] Per motivi speciali, il termine può essere prorogato fino a quaranta giorni.
+<sup>1</sup> Diciotto giorni dopo il fermo, l’UFG ordina la scarcerazione se la domanda d’estradizione e i relativi documenti a sostegno non gli sono pervenuti.[^50-1] Per motivi speciali, il termine può essere prorogato fino a quaranta giorni.
 
 <sup>2</sup> Se la persona perseguita è già incarcerata, il termine decorre dall’inizio del carcere in vista d’estradizione.
 
@@ -1013,7 +1019,7 @@ Le decisioni di cui all’articolo 47 contengono:
 
 <sup>2</sup> La persona perseguita è brevemente interrogata sulle sue condizioni personali, segnatamente sulla cittadinanza e sui rapporti con lo Stato richiedente, e su eventuali obiezioni contro l’ordine di arresto o l’estradizione. Il patrocinatore può partecipare a questa audizione.
 
-<sup>3</sup> Se l’estradato dev’essere perseguito per altri reati o riestradato a uno Stato terzo, l’Ufficio federale fa in modo che l’audizione di cui al capoverso 2 sia fatta e verbalizzata da un’autorità giudiziaria dello Stato richiedente.
+<sup>3</sup> Se l’estradato dev’essere perseguito per altri reati o riestradato a uno Stato terzo, l’UFG fa in modo che l’audizione di cui al capoverso 2 sia fatta e verbalizzata da un’autorità giudiziaria dello Stato richiedente.
 
 [^52-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1021,7 +1027,7 @@ Le decisioni di cui all’articolo 47 contengono:
 
 **Verifica dell’alibi**
 
-<sup>1</sup> Se la persona perseguita afferma di poter provare che, al momento del fatto, non si trovava nel luogo di commissione, l’Ufficio federale procede ai chiarimenti necessari.
+<sup>1</sup> Se la persona perseguita afferma di poter provare che, al momento del fatto, non si trovava nel luogo di commissione, l’UFG procede ai chiarimenti necessari.
 
 <sup>2</sup> Nei casi palesi, l’estradizione è negata. Negli altri casi, le prove a discarico sono comunicate allo Stato richiedente invitandolo a dichiarare entro breve termine se intende mantenere la domanda.
 
@@ -1029,9 +1035,9 @@ Le decisioni di cui all’articolo 47 contengono:
 
 **Estradizione semplificata**[^54-1]
 
-<sup>1</sup> Se, secondo il verbale steso da un’autorità giudiziaria, la persona perseguita rinuncia esplicitamente all’attuazione della procedura d’estradizione, l’Ufficio federale, salvo che speciali considerazioni vi si oppongano, autorizza la consegna.
+<sup>1</sup> Se, secondo il verbale steso da un’autorità giudiziaria, la persona perseguita rinuncia esplicitamente all’attuazione della procedura d’estradizione, l’UFG, salvo che speciali considerazioni vi si oppongano, autorizza la consegna.
 
-<sup>2</sup> La rinuncia può essere revocata fintanto che l’Ufficio federale non abbia autorizzato la consegna.
+<sup>2</sup> La rinuncia può essere revocata fintanto che l’UFG non abbia autorizzato la consegna.
 
 <sup>3</sup> L’estradizione semplificata ha gli stessi effetti di un’estradizione e soggiace alle medesime condizioni. Lo Stato richiedente dev’esserne reso attento.
 
@@ -1043,9 +1049,9 @@ Le decisioni di cui all’articolo 47 contengono:
 
 **Competenza**
 
-<sup>1</sup> L’Ufficio federale decide dell’estradizione della persona perseguita nonché della consegna degli oggetti e dei beni sequestrati dopo che alla persona perseguita e alla terza persona che si oppone alla consegna degli oggetti e dei beni è stato accordato un termine adeguato per esprimersi in merito.[^55-1]
+<sup>1</sup> L’UFG decide dell’estradizione della persona perseguita nonché della consegna degli oggetti e dei beni sequestrati dopo che alla persona perseguita e alla terza persona che si oppone alla consegna degli oggetti e dei beni è stato accordato un termine adeguato per esprimersi in merito.[^55-1]
 
-<sup>2</sup> Se la persona perseguita fa valere d’essere ricercata per un reato politico o se nell’istruzione appaiono seri motivi per concludere al carattere politico dell’atto, la decisione spetta alla Corte dei reclami penali del Tribunale penale federale.[^55-2] L’Ufficio federale trasmette l’inserto, con propria proposta. Alla persona perseguita è dato modo di esprimersi in merito.
+<sup>2</sup> Se la persona perseguita fa valere d’essere ricercata per un reato politico o se nell’istruzione appaiono seri motivi per concludere al carattere politico dell’atto, la decisione spetta alla Corte dei reclami penali del Tribunale penale federale.[^55-2] L’UFG trasmette l’inserto, con propria proposta. Alla persona perseguita è dato modo di esprimersi in merito.
 
 <sup>3</sup> È applicabile per analogia la procedura del ricorso giusta l’articolo 25.[^55-3]
 
@@ -1057,7 +1063,7 @@ Le decisioni di cui all’articolo 47 contengono:
 
 **Coordinamento con la procedura d’asilo**[^55a-1]
 
-Se la persona perseguita ha presentato una domanda d’asilo ai sensi della legge del 26 giugno 1998[^55a-2] sull’asilo, l’Ufficio federale e le autorità di ricorso decidono in merito all’estradizione tenendo conto degli atti della procedura d’asilo.
+Se la persona perseguita ha presentato una domanda d’asilo ai sensi della legge del 26 giugno 1998[^55a-2] sull’asilo, l’UFG e le autorità di ricorso decidono in merito all’estradizione tenendo conto degli atti della procedura d’asilo.
 
 [^55a-1]: Introdotto dal n. I 3 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 [^55a-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
@@ -1075,13 +1081,13 @@ L’estradizione può essere eseguita se la persona perseguita:
 - a. chiede esplicitamente l’esecuzione immediata o
 - b. non dichiara entro cinque giorni dalla notificazione della decisione di voler interporre ricorso.
 
-<sup>2</sup> Se l’estradizione è negata, l’Ufficio federale pone fine al carcere in vista d’estradizione.
+<sup>2</sup> Se l’estradizione è negata, l’UFG pone fine al carcere in vista d’estradizione.
 
 #### Art. 57
 
 **Estradizione**
 
-<sup>1</sup> L’Ufficio federale prende le disposizioni necessarie d’intesa con le autorità cantonali.
+<sup>1</sup> L’UFG prende le disposizioni necessarie d’intesa con le autorità cantonali.
 
 <sup>2</sup> Esso comunica allo Stato richiedente la decisione, nonché il luogo e il tempo dell’esecuzione.
 
@@ -1269,7 +1275,7 @@ Su domanda esplicita dello Stato estero:
 
 <sup>2</sup>
 
-Qualsiasi altro uso sottostà al consenso dell’Ufficio federale. Tale consenso non è necessario se:
+Qualsiasi altro uso sottostà al consenso dell’UFG. Tale consenso non è necessario se:
 
 - a. il fatto cui si riferisce la domanda costituisce un’altra fattispecie penale per la quale l’assistenza giudiziaria è ammissibile, o
 - b. il procedimento penale estero è diretto contro un’altra persona che ha partecipato al reato.
@@ -1291,7 +1297,7 @@ L’autorità di perseguimento penale può trasmettere spontaneamente a un’aut
 
 <sup>2</sup> La trasmissione di cui al capoverso 1 non ha alcun effetto sul procedimento penale pendente in Svizzera.
 
-<sup>3</sup> Senza il consenso dell’Ufficio federale nessun mezzo di prova può essere trasmesso ad un altro Stato con il quale non esiste alcun accordo internazionale.
+<sup>3</sup> Senza il consenso dell’UFG nessun mezzo di prova può essere trasmesso ad un altro Stato con il quale non esiste alcun accordo internazionale.
 
 <sup>4</sup> I capoversi 1 e 2 non si applicano ai mezzi di prova inerenti alla sfera segreta.
 
@@ -1343,7 +1349,7 @@ L’autorità di perseguimento penale può trasmettere spontaneamente a un’aut
 
 <sup>1</sup> Se un carcerato è consegnato temporaneamente alle autorità svizzere a scopo di esecuzione di un provvedimento d’assistenza, l’ordine di arresto spiccato all’estero nei suoi confronti è efficace durante il soggiorno in Svizzera.
 
-<sup>2</sup> Durante il transito, la persona perseguita rimane in stato d’arresto in base all’ordine di transito dell’Ufficio federale.
+<sup>2</sup> Durante il transito, la persona perseguita rimane in stato d’arresto in base all’ordine di transito dell’UFG.
 
 <sup>3</sup> In questi casi, la scarcerazione è subordinata al consenso dell’autorità estera competente.
 
@@ -1424,7 +1430,7 @@ Se un avente diritto fa valere pretese su oggetti o beni giusta il capoverso 4, 
 
 <sup>2</sup> Le autorità svizzere possono procedere a operazioni processuali, che secondo le prescrizioni dello Stato richiedente sono di spettanza delle parti, anche a domanda delle parti legittimate a tal fine.
 
-<sup>3</sup> L’Ufficio federale presenta la domanda se l’assistenza è necessaria fuori di un procedimento penale.[^75-1]
+<sup>3</sup> L’UFG presenta la domanda se l’assistenza è necessaria fuori di un procedimento penale.[^75-1]
 
 [^75-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1458,12 +1464,11 @@ Oltre alle indicazioni e ai documenti di cui all’articolo 28 devono essere ind
 
 **Iter[^77-1]**
 
-<sup>1</sup> Le domande estere sono indirizzate all’autorità cantonale competente per il tramite dell’Ufficio federale.
+<sup>1</sup> Le domande estere sono indirizzate all’autorità cantonale competente per il tramite dell’UFG.
 
-<sup>2</sup> Le domande d’informazioni concernenti il casellario giudiziale o d’accertamento d’identità di una persona sono indirizzate all’Ufficio federale[^77-2].
+<sup>2</sup> Le domande d’informazioni concernenti il casellario giudiziale o d’accertamento d’identità di una persona sono indirizzate all’UFG.
 
 [^77-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^77-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 ### Sezione 2: Disbrigo della domanda
 
@@ -1475,11 +1480,11 @@ Oltre alle indicazioni e ai documenti di cui all’articolo 28 devono essere ind
 
 **Accettazione e trasmissione**
 
-<sup>1</sup> Fatta salva la trasmissione diretta all’autorità cantonale o federale competente per l’esecuzione, l’Ufficio federale riceve le domande estere.
+<sup>1</sup> Fatta salva la trasmissione diretta all’autorità cantonale o federale competente per l’esecuzione, l’UFG riceve le domande estere.
 
-<sup>2</sup> L’Ufficio federale esamina sommariamente se la domanda soddisfa le esigenze formali e la trasmette all’autorità d’esecuzione competente, eccetto che sembri manifestamente inammissibile.
+<sup>2</sup> L’UFG esamina sommariamente se la domanda soddisfa le esigenze formali e la trasmette all’autorità d’esecuzione competente, eccetto che sembri manifestamente inammissibile.
 
-<sup>3</sup> Se necessario, l’Ufficio federale rinvia la domanda allo Stato richiedente a scopo di modifica o completamento.
+<sup>3</sup> Se necessario, l’UFG rinvia la domanda allo Stato richiedente a scopo di modifica o completamento.
 
 <sup>4</sup> L’accettazione e la trasmissione della domanda all’autorità competente non possono essere impugnate.
 
@@ -1489,11 +1494,11 @@ Oltre alle indicazioni e ai documenti di cui all’articolo 28 devono essere ind
 
 **Deferimento dell’esecuzione**
 
-<sup>1</sup> Se il disbrigo della domanda esige indagini in più Cantoni o se essa concerne anche un’autorità federale, l’Ufficio federale può affidarne l’esecuzione a un’unica autorità. Gli articoli 44*–*47, 52 e 53 CPP[^79-1] sono applicabili per analogia.[^79-2]
+<sup>1</sup> Se il disbrigo della domanda esige indagini in più Cantoni o se essa concerne anche un’autorità federale, l’UFG può affidarne l’esecuzione a un’unica autorità. Gli articoli 44*–*47, 52 e 53 CPP[^79-1] sono applicabili per analogia.[^79-2]
 
-<sup>2</sup> L’Ufficio federale può deferire l’esecuzione parziale o totale della domanda all’autorità federale che sarebbe competente a reprimere se il reato fosse stato commesso in Svizzera.
+<sup>2</sup> L’UFG può deferire l’esecuzione parziale o totale della domanda all’autorità federale che sarebbe competente a reprimere se il reato fosse stato commesso in Svizzera.
 
-<sup>3</sup> L’Ufficio federale può deferire all’autorità incaricata anche l’esecuzione di domande complementari.
+<sup>3</sup> L’UFG può deferire all’autorità incaricata anche l’esecuzione di domande complementari.
 
 <sup>4</sup> La designazione dell’autorità cantonale o federale a cui è stata affidata la direzione della procedura non può essere contestata.
 
@@ -1502,9 +1507,9 @@ Oltre alle indicazioni e ai documenti di cui all’articolo 28 devono essere ind
 
 #### Art. 79a
 
-**Decisione dell’Ufficio federale**
+**Decisione dell’UFG**
 
-L’Ufficio federale può statuire sull’ammissibilità dell’assistenza e delegare l’esecuzione a un’autorità cantonale oppure decidere lui stesso sull’esecuzione:
+L’UFG può statuire sull’ammissibilità dell’assistenza e delegare l’esecuzione a un’autorità cantonale oppure decidere lui stesso sull’esecuzione:
 
 - a. qualora la domanda richieda indagini in più Cantoni;
 - b. qualora l’autorità cantonale competente non sia in grado di decidere entro un termine ragionevole, o
@@ -1585,7 +1590,7 @@ La trasmissione anticipata presuppone che l’autorità richiedente si impegni p
 
 <sup>5</sup> La comunicazione all’interessato è rimandata.
 
-<sup>6</sup> La decisione incidentale secondo il capoverso 1 è comunicata senza indugio all’Ufficio federale prima della trasmissione anticipata. Non è impugnabile a titolo indipendente.
+<sup>6</sup> La decisione incidentale secondo il capoverso 1 è comunicata senza indugio all’UFG prima della trasmissione anticipata. Non è impugnabile a titolo indipendente.
 
 [^80dbis-1]: Introdotto dall’all. n. II 5 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1609,7 +1614,7 @@ La trasmissione anticipata presuppone che l’autorità richiedente si impegni p
 
 <sup>5</sup> L’autorità competente nomina il responsabile e i membri della SInC per il proprio Stato. Se necessario, la SInC può far capo a esperti e ausiliari.
 
-<sup>6</sup> L’atto di costituzione è comunicato all’Ufficio federale in forma scritta.
+<sup>6</sup> L’atto di costituzione è comunicato all’UFG in forma scritta.
 
 #### Art. 80d<sup>quater</sup>
 
@@ -1731,7 +1736,7 @@ Le decisioni incidentali anteriori alla decisione di chiusura possono essere imp
 
 Ha diritto di ricorrere:
 
-- a. l’Ufficio federale;
+- a. l’UFG;
 - b. chiunque è toccato personalmente e direttamente da una misura d’assistenza giudiziaria e ha un interesse degno di protezione all’annullamento o alla modifica della stessa.
 
 #### Art. 80i
@@ -1801,23 +1806,23 @@ L’autorità d’esecuzione e l’autorità di ricorso notificano le loro decis
 
 **Richiesta di informazioni complementari allo Stato richiedente**
 
-<sup>1</sup> Se sono necessarie informazioni complementari, l’Ufficio federale le chiede allo Stato richiedente su richiesta dell’autorità d’esecuzione o dell’autorità di ricorso.
+<sup>1</sup> Se sono necessarie informazioni complementari, l’UFG le chiede allo Stato richiedente su richiesta dell’autorità d’esecuzione o dell’autorità di ricorso.
 
 <sup>2</sup> L’autorità competente sospende se del caso totalmente o parzialmente il disbrigo della domanda e decide sui punti che, secondo lo stato degli atti, possono essere giudicati.
 
-<sup>3</sup> L’Ufficio federale assegna allo Stato richiedente un termine congruo per la risposta. Scaduto infruttuosamente tale termine, la domanda d’assistenza giudiziaria viene esaminata sulla base dello stato degli atti.
+<sup>3</sup> L’UFG assegna allo Stato richiedente un termine congruo per la risposta. Scaduto infruttuosamente tale termine, la domanda d’assistenza giudiziaria viene esaminata sulla base dello stato degli atti.
 
 #### Art. 80p
 
 **Oneri subordinati ad accettazione**
 
-<sup>1</sup> L’autorità d’esecuzione e l’autorità di ricorso nonché l’Ufficio federale possono subordinare totalmente o parzialmente ad oneri la concessione dell’assistenza giudiziaria.
+<sup>1</sup> L’autorità d’esecuzione e l’autorità di ricorso nonché l’UFG possono subordinare totalmente o parzialmente ad oneri la concessione dell’assistenza giudiziaria.
 
-<sup>2</sup> L’Ufficio federale comunica gli oneri allo Stato richiedente qualora la decisione inerente alla concessione e alla portata dell’assistenza giudiziaria sia passata in giudicato, fissandogli un termine congruo per dichiararne l’accettazione o il rifiuto. Scaduto inutilizzato tale termine, l’assistenza giudiziaria può essere concessa sui punti non subordinati ad alcun onere.
+<sup>2</sup> L’UFG comunica gli oneri allo Stato richiedente qualora la decisione inerente alla concessione e alla portata dell’assistenza giudiziaria sia passata in giudicato, fissandogli un termine congruo per dichiararne l’accettazione o il rifiuto. Scaduto inutilizzato tale termine, l’assistenza giudiziaria può essere concessa sui punti non subordinati ad alcun onere.
 
-<sup>3</sup> L’Ufficio federale esamina se la risposta dello Stato richiedente soddisfa gli oneri richiesti.
+<sup>3</sup> L’UFG esamina se la risposta dello Stato richiedente soddisfa gli oneri richiesti.
 
-<sup>4</sup> La decisione dell’Ufficio federale può essere impugnata entro dieci giorni dalla sua comunicazione scritta con ricorso alla Corte dei reclami penali del Tribunale penale federale. La decisione della Corte dei reclami penali è definitiva.[^80p-1]
+<sup>4</sup> La decisione dell’UFG può essere impugnata entro dieci giorni dalla sua comunicazione scritta con ricorso alla Corte dei reclami penali del Tribunale penale federale. La decisione della Corte dei reclami penali è definitiva.[^80p-1]
 
 [^80p-1]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -1919,13 +1924,13 @@ Oltre ai documenti di cui all’articolo 28 capoverso 3, la domanda dev’essere
 
 **Decisione sulla domanda**
 
-<sup>1</sup> L’Ufficio federale, dopo aver conferito con l’autorità incaricata del perseguimento penale, decide se accettare la domanda straniera.
+<sup>1</sup> L’UFG, dopo aver conferito con l’autorità incaricata del perseguimento penale, decide se accettare la domanda straniera.
 
 <sup>2</sup> Se l’accetta, esso trasmette l’inserto all’autorità incaricata del perseguimento penale e ne informa lo Stato richiedente e l’interessato.
 
 <sup>3</sup> La decisione non obbliga ad aprire il procedimento penale.
 
-<sup>4</sup> L’Ufficio federale può rifiutare l’assunzione del perseguimento penale se vi si oppongono motivi gravi o l’importanza del reato non la giustifichi.
+<sup>4</sup> L’UFG può rifiutare l’assunzione del perseguimento penale se vi si oppongono motivi gravi o l’importanza del reato non la giustifichi.
 
 #### Art. 92
 
@@ -2037,7 +2042,7 @@ Si può chiedere a uno Stato estero di assumere l’esecuzione di una decisione 
 
 **Condizioni della consegna**
 
-<sup>1</sup> Il condannato incarcerato in Svizzera può essere consegnato per l’esecuzione secondo l’articolo 100 soltanto se vi acconsente e se vi è motivo di credere che lo Stato richiesto osserverà le condizioni stabilite dall’Ufficio federale.
+<sup>1</sup> Il condannato incarcerato in Svizzera può essere consegnato per l’esecuzione secondo l’articolo 100 soltanto se vi acconsente e se vi è motivo di credere che lo Stato richiesto osserverà le condizioni stabilite dall’UFG.
 
 <sup>2</sup> Se un accordo internazionale ratificato dalla Svizzera lo prevede, il condannato può essere consegnato senza il suo consenso. In questo caso, le condizioni e gli effetti della consegna sono retti esclusivamente dall’accordo.[^101-1]
 
@@ -2071,7 +2076,7 @@ Oltre ai documenti di cui all’articolo 28 capoverso 3, alla domanda devono ess
 
 **Decisione sulla domanda**
 
-<sup>1</sup> L’Ufficio federale, dopo aver conferito con l’autorità d’esecuzione, decide se accettare la domanda estera. Se l’accetta, trasmette l’inserto e la sua proposta a questa autorità e ne informa lo Stato richiedente. L’articolo 91 capoverso 4 è applicabile per analogia.
+<sup>1</sup> L’UFG, dopo aver conferito con l’autorità d’esecuzione, decide se accettare la domanda estera. Se l’accetta, trasmette l’inserto e la sua proposta a questa autorità e ne informa lo Stato richiedente. L’articolo 91 capoverso 4 è applicabile per analogia.
 
 <sup>2</sup> Se vi è giurisdizione svizzera e la sanzione pronunciata all’estero è più severa di quella prevista dal diritto svizzero, a domanda dello Stato richiedente in luogo dell’esecuzione può essere assunto il perseguimento penale.
 
