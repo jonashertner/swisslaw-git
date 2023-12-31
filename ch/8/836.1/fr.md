@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1952 sur les allocations familiales dans l'agr
 short: LFA
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/fr"
 
 (LFA)[^t-1]
 
-du 20 juin 1952 (État le 1<sup>er</sup> juillet 2023)
+du 20 juin 1952 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1979, en vigueur depuis le 1<sup>er</sup> avr. 1980 ([RO 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)280; [FF 1979 II 737](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -203,7 +203,7 @@ Les dispositions suivantes de la LAFam sont applicables par analogie, même si e
 
 <sup>3</sup> Les agriculteurs indépendants qui exercent leur activité à titre accessoire ainsi que les exploitants d’alpages n’ont droit aux allocations familiales que pour le temps qu’ils consacrent à l’exploitation de leur domaine agricole ou de l’alpage.[^10-5]
 
-<sup>4</sup> Le droit aux allocations familiales est maintenu durant le congé de maternité prévu à l’art. 329*f* du code des obligations (CO)[^10-6], de paternité au sens de l’art. 329*g* CO, de prise en charge prévu à l’art. 329*i* CO et durant le congé d’adoption prévu à l’art. 329*j* CO.[^10-7]
+<sup>4</sup> Le droit aux allocations familiales est maintenu durant le congé de maternité au sens de l’art. 329*f* du code des obligations (CO)[^10-6], le congé de l’autre parent au sens des art. 329*g* et 329*g*<sup>bis</sup> CO, le congé de prise en charge au sens de l’art. 329*i* CO et le congé d’adoption prévu à l’art. 329*j* CO.[^10-7]
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1979, en vigueur depuis le 1<sup>er</sup> avr. 1980 ([RO 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)280; [FF 1979 II 737](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
 [^10-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
@@ -211,7 +211,7 @@ Les dispositions suivantes de la LAFam sont applicables par analogie, même si e
 [^10-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-7]: Introduit par l’annexe ch. 4 de la LF du 3 oct. 2003 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^10-7]: Introduit par l’annexe ch. 4 de la LF du 3 oct. 2003 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 11 et 12
 
@@ -255,11 +255,12 @@ Il incombe aux caisses de compensation cantonales prévues à l’art. 61 LAVS[^
 
 #### Art. 16
 
-**Revision des caisses et contrôle des employeurs**
+**Révision des caisses et contrôle des employeurs**[^16-1]
 
-Les revisions des caisses et les éventuels contrôles des employeurs prévus à l’art. 68 LAVS[^16-1] porteront également sur l’exécution de la présente loi.
+Les révisions des caisses prévues aux art. 68 et 68*a* LAVS[^16-2] et les éventuels contrôles des employeurs prévus à l’art. 68*b* LAVS doivent également porter sur l’exécution de la présente loi.
 
-[^16-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^16-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 17
 
@@ -294,6 +295,15 @@ Les revisions des caisses et les éventuels contrôles des employeurs prévus à
 Les dépenses résultant du versement d’allocations familiales aux agriculteurs indépendants, y compris les frais d’administration occasionnés aux caisses de compensation par ce versement, sont à raison de deux tiers à la charge de la Confédération et d’un tiers à celle des cantons. Les cantons peuvent faire participer les communes à leurs subventions.
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 1957, en vigueur depuis le 1<sup>er</sup> janv. 1958 ([RO 1958 189](https://fedlex.data.admin.ch/eli/oc/1958/183_189_195); [FF 1957 I 1045](https://fedlex.data.admin.ch/eli/fga/1957/1_1019_1045_)).
+
+#### Art. 19a
+
+**Prise en charge des frais et taxes postales**[^19a-1]
+
+Les frais de la Centrale de compensation de l’assurance-vieillesse et survivants qui résultent de l’application de la présente loi et les dépenses pour les taxes postales comptabilisées au sens de l’art. 95, al. 3, let. b, LAVS[^19a-2] sont couverts conformément aux art. 18, al. 4, et 19.
+
+[^19a-1]: Introduit par l’annexe ch. 7 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^19a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 20
 
@@ -395,7 +405,7 @@ En complément de la présente loi, les cantons peuvent fixer des allocations pl
 
 <sup>1</sup> Si la présente loi et la LPGA[^25-5] ne règlent pas l’exécution de manière exhaustive, les dispositions de la LAFam et de la LAVS sont applicables par analogie.[^25-6]
 
-<sup>2</sup> L’art. 49*a* LAVS[^25-7] s’applique par analogie au traitement de données personnelles; l’art. 50*a* LAVS*,* y compris ses dérogations à la LPGA, s’applique par analogie à la communication de données.
+<sup>2</sup> L’art. 49*f* LAVS s’applique par analogie au traitement de données personnelles; l’art. 50*a* LAVS, y compris ses dérogations à la LPGA, s’applique par analogie à la communication de données.[^25-7]
 
 <sup>3</sup> La responsabilité pour les dommages causés par les organes de l’AVS définis à l’art. 49 LAVS est régie par l’art. 78 LPGA et par les art. 52, 70 et 71*a* LAVS.
 
@@ -405,7 +415,7 @@ En complément de la présente loi, les cantons peuvent fixer des allocations pl
 [^25-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-6]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^25-7]: Voir actuellement l’art. 49*b*.
+[^25-7]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 25a
 

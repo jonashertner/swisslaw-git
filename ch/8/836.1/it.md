@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1952 sugli assegni familiari nell'agricoltu
 short: LAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/it"
 
 (LAF)[^t-1]
 
-del 20 giugno 1952 (Stato 1° luglio 2023)
+del 20 giugno 1952 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1979, in vigore dal 1° apr. **1980** (RU 1980 276 280; [FF 1979 II 693](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Secondo la medesima disp. i titoli marginali diventano titoli centrali.
 
@@ -166,9 +166,10 @@ Gli assegni familiari per gli agricoltori indipendenti comprendono gli assegni p
 
 **Compensazione**
 
-Gli assegni familiari agli agricoltori indipendenti possono essere compensati con le quote e i contributi dovuti dagli stessi conformemente alla legge federale del 20 dicembre 1946[^8-1] su l’assicurazione per la vecchiaia e per i superstiti (detta qui di seguito «legge sull’AVS») e all’articolo 18 della presente legge.
+Gli assegni familiari agli agricoltori indipendenti possono essere compensati con le quote e i contributi dovuti dagli stessi conformemente alla legge federale del 20 dicembre 1946[^8-1] su l’assicurazione per la vecchiaia e per i superstiti (detta qui di seguito «LAVS[^8-2]») e all’articolo 18 della presente legge.
 
 [^8-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^8-2]: Nuova espr. giusta l’all. n. 7 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### 3. Disposizioni comuni
 
@@ -202,7 +203,7 @@ Le seguenti disposizioni della LAFam, con le relative deroghe alla LPGA[^9-3], s
 
 <sup>3</sup> Gli agricoltori indipendenti che esercitano la loro attività a titolo accessorio e gli alpigiani hanno diritto agli assegni familiari soltanto per il periodo di lavoro nel proprio podere agricolo o sull’alpe.[^10-5]
 
-<sup>4</sup> Il diritto agli assegni familiari sussiste anche durante il congedo di maternità secondo l’articolo 329*f* del Codice delle obbligazioni (CO)[^10-6], il congedo di paternità secondo l’articolo 329*g* CO, il congedo di assistenza secondo l’articolo 329*i* CO e il congedo di adozione secondo l’articolo 329*j* CO.[^10-7]
+<sup>4</sup> Il diritto agli assegni familiari sussiste anche durante il congedo di maternità secondo l’articolo 329*f* del Codice delle obbligazioni (CO)[^10-6], il congedo per l’altro genitore secondo gli articoli 329*g* e 329*g*<sup>bis</sup> CO, il congedo di assistenza secondo l’articolo 329*i* CO e il congedo di adozione secondo l’articolo 329*j* CO.[^10-7]
 
 [^10-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1979, in vigore dal 1° apr. 1980 ([RU 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)280; [FF 1979 II 693](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
 [^10-2]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
@@ -210,7 +211,7 @@ Le seguenti disposizioni della LAFam, con le relative deroghe alla LPGA[^9-3], s
 [^10-4]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-5]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-7]: Introdotto dall’all. n. 4 della LF del 3 ott. 2003 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)). Nuovo testo giusta l’all. n. 4 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^10-7]: Introdotto dall’all. n. 4 della LF del 3 ott. 2003 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)). Nuovo testo giusta l’all. n. 4 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 11 e 12
 
@@ -224,7 +225,7 @@ Le seguenti disposizioni della LAFam, con le relative deroghe alla LPGA[^9-3], s
 
 **Compiti delle casse di compensazione**
 
-La fissazione e il versamento degli assegni familiari, nonché la riscossione dei contributi dei datori di lavoro in conformità dell’articolo 18, spettano alle casse cantonali di compensazione istituite in virtù dell’articolo 61 della legge sull’AVS[^13-1] (dette qui di seguito «casse di compensazione»).
+La fissazione e il versamento degli assegni familiari, nonché la riscossione dei contributi dei datori di lavoro in conformità dell’articolo 18, spettano alle casse cantonali di compensazione istituite in virtù dell’articolo 61 della LAVS[^13-1] (dette qui di seguito «casse di compensazione»).
 
 [^13-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -248,17 +249,18 @@ La fissazione e il versamento degli assegni familiari, nonché la riscossione de
 
 <sup>1</sup> Le casse di compensazione devono tenere una contabilità distinta dei contributi dei datori di lavoro nell’agricoltura e degli assegni familiari versati, e regolare i conti con l’Ufficio centrale di compensazione dell’assicurazione per la vecchiaia e per i superstiti.
 
-<sup>2</sup> Per il regolamento dei conti e dei pagamenti sono applicabili per analogia le disposizioni della legge sull’AVS[^15-1].
+<sup>2</sup> Per il regolamento dei conti e dei pagamenti sono applicabili per analogia le disposizioni della LAVS[^15-1].
 
 [^15-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 16
 
-**Revisione delle casse e controllo dei datori di lavoro**
+**Revisione delle casse e controllo dei datori di lavoro**[^16-1]
 
-La revisione delle casse e gli eventuali controlli dei datori di lavoro in conformità dell’articolo 68 della legge sull’AVS[^16-1] devono estendersi anche all’esecuzione della presente legge.
+La revisione delle casse secondo gli articoli 68 e 68*a* LAVS[^16-2] e gli eventuali controlli dei datori di lavoro secondo l’articolo 68*b* LAVS devono estendersi anche all’esecuzione della presente legge.
 
-[^16-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-1]: Nuovo testo giusta l’all. n. 7 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^16-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 17
 
@@ -272,11 +274,11 @@ La revisione delle casse e gli eventuali controlli dei datori di lavoro in confo
 
 **Assegni familiari ai lavoratori agricoli**
 
-<sup>1</sup> I datori di lavoro nell’agricoltura devono pagare un contributo pari al 2 per cento dei salari in contanti e in natura versati al loro personale agricolo sempre che per detti salari siano dovuti contributi in conformità della legge sull’AVS[^18-1].[^18-2]
+<sup>1</sup> I datori di lavoro nell’agricoltura devono pagare un contributo pari al 2 per cento dei salari in contanti e in natura versati al loro personale agricolo sempre che per detti salari siano dovuti contributi in conformità della LAVS[^18-1].[^18-2]
 
-<sup>2</sup> I contributi alle spese di amministrazione previsti nell’articolo 69 della legge sull’AVS devono essere riscossi parimente sui contributi dovuti dai datori di lavoro, in conformità del capoverso 1.
+<sup>2</sup> I contributi alle spese di amministrazione previsti nell’articolo 69 della LAVS devono essere riscossi parimente sui contributi dovuti dai datori di lavoro, in conformità del capoverso 1.
 
-<sup>3</sup> Per la riscossione dei contributi arretrati sono applicabili le disposizioni della legge sull’AVS, comprese le rispettive deroghe alla LPGA[^18-3].[^18-4]
+<sup>3</sup> Per la riscossione dei contributi arretrati sono applicabili le disposizioni della LAVS, comprese le rispettive deroghe alla LPGA[^18-3].[^18-4]
 
 <sup>4</sup> La parte delle spese, incluse le spese di amministrazione, sostenute dalle casse di compensazione per il versamento degli assegni familiari, per quanto non sia coperta dai contributi dei datori di lavoro, è assunta per due terzi dalla Confederazione e per un terzo dai Cantoni. I Cantoni possono far partecipare i Comuni al pagamento del loro contributo.[^18-5]
 
@@ -293,6 +295,15 @@ La revisione delle casse e gli eventuali controlli dei datori di lavoro in confo
 Le spese derivanti dal versamento degli assegni familiari agli agricoltori indipendenti, incluse le spese d’amministrazione sostenute dalle casse di compensazione per il versamento di detti assegni, sono assunte per due terzi dalla Confederazione e per un terzo dai Cantoni. I Cantoni possono far partecipare i Comuni al pagamento del loro contributo.
 
 [^19-1]: Nuovo testo giusta il n. I della LF del 20 dic. 1957, in vigore dal 1° gen. 1958 ([RU 1958 195](https://fedlex.data.admin.ch/eli/oc/1958/183_189_195); FF **1979** II 1045).
+
+#### Art. 19a
+
+**Assunzione di spese e tasse postali**[^19a-1]
+
+Le spese derivanti all’Ufficio centrale di compensazione dell’assicurazione per la vecchiaia e per i superstiti dall’applicazione della presente legge e le spese per le tasse postali comprovate secondo l’articolo 95 capoverso 3 lettera b LAVS[^19a-2] sono coperte in conformità degli articoli 18 capoverso 4 e 19.
+
+[^19a-1]: Introdotto dall’all. n. 7 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^19a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 20
 
@@ -330,7 +341,7 @@ Le spese derivanti dal versamento degli assegni familiari agli agricoltori indip
 
 **Disposizioni penali**
 
-Gli articoli 87 a 91 della legge sull’AVS[^23-1] sono applicabili alle persone che violano le prescrizioni della presente legge in uno dei modi specificati da detti articoli.
+Gli articoli 87 a 91 della LAVS[^23-1] sono applicabili alle persone che violano le prescrizioni della presente legge in uno dei modi specificati da detti articoli.
 
 [^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -394,9 +405,9 @@ A complemento della presente legge, i Cantoni possono stabilire assegni più ele
 
 <sup>1</sup> Nella misura in cui la presente legge e la LPGA[^25-5] non prevedono un’esaustiva regolamentazione d’esecuzione, si applicano per analogia le disposizioni della LAFam e della LAVS.[^25-6]
 
-<sup>2</sup> L’articolo 49*a* della legge sull’AVS[^25-7] si applica per analogia al trattamento di dati personali; l’articolo 50*a* della legge sull’AVS è applicabile alla comunicazione di dati, incluse le deroghe alla LPGA.
+<sup>2</sup> L’articolo 49*f* LAVS si applica per analogia al trattamento di dati personali; l’articolo 50*a* LAVS è applicabile per analogia alla comunicazione di dati, incluse le deroghe alla LPGA.[^25-7]
 
-<sup>3</sup> La responsabilità per danni degli organi dell’AVS di cui all’articolo 49 della legge sull’AVS è retta dall’articolo 78 LPGA e dagli articoli 52, 70 e 71*a* della legge sull’AVS.
+<sup>3</sup> La responsabilità per danni degli organi dell’AVS di cui all’articolo 49 della LAVS è retta dall’articolo 78 LPGA e dagli articoli 52, 70 e 71*a* della LAVS.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O dell’Ass. fed. del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511)3470; [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^25-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
@@ -404,7 +415,7 @@ A complemento della presente legge, i Cantoni possono stabilire assegni più ele
 [^25-4]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-6]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^25-7]: Attualmente art. 49*b*.
+[^25-7]: Nuovo testo giusta l’all. n. 7 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 25a
 

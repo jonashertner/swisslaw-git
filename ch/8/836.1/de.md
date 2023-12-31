@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 1952 über die Familienzulagen in der Landwirts
 short: FLG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230701/de"
 
 (FLG)[^t-1]
 
-vom 20. Juni 1952 (Stand am 1. Juli 2023)
+vom 20. Juni 1952 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -203,7 +203,7 @@ Die folgenden Bestimmungen des FamZG mit ihren Abweichungen vom ATSG[^9-3] gelte
 
 <sup>3</sup> Nebenberufliche selbstständigerwerbende Landwirte und Älpler haben nur für die Zeit der Tätigkeit im landwirtschaftlichen Betrieb oder auf der Alp Anspruch auf Familienzulagen.[^10-5]
 
-<sup>4</sup> Während des Mutterschaftsurlaubs nach Artikel 329*f* des Obligationenrechts (OR)[^10-6], des Vaterschaftsurlaubs nach Artikel 329*g* OR, des Betreuungsurlaubs nach Artikel 329*i* OR und des Adoptionsurlaubs nach Artikel 329*j* OR besteht weiterhin Anspruch auf die Familienzulagen.[^10-7]
+<sup>4</sup> Während des Mutterschaftsurlaubs nach Artikel 329*f* des Obligationenrechts (OR)[^10-6], des Urlaubs des andern Elternteils nach den Artikeln 329*g* und 329*g*<sup>bis</sup> OR, des Betreuungsurlaubs nach Artikel 329*i* OR und des Adoptionsurlaubs nach Artikel 329*j* OR besteht weiterhin Anspruch auf die Familienzulagen.[^10-7]
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
 [^10-2]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
@@ -211,7 +211,7 @@ Die folgenden Bestimmungen des FamZG mit ihren Abweichungen vom ATSG[^9-3] gelte
 [^10-4]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-5]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-6]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-7]: Eingefügt durch Anhang Ziff. 4 des BG vom 3. Okt. 2003 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)). Fassung gemäss Anhang Ziff. 4 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^10-7]: Eingefügt durch Anhang Ziff. 4 des BG vom 3. Okt. 2003 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)). Fassung gemäss Anhang Ziff. 4 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 11 und 12
 
@@ -255,11 +255,12 @@ Die Festsetzung und die Ausrichtung der Familienzulagen sowie die Erhebung des A
 
 #### Art. 16
 
-**Kassenrevision und Arbeitgeberkontrolle**
+**Kassenrevision und Arbeitgeberkontrolle**[^16-1]
 
-Die Kassenrevisionen sowie allfällige Arbeitgeberkontrollen gemäss Artikel 68 AHVG[^16-1] haben sich auch auf die Durchführung dieses Gesetzes zu erstrecken.
+Die Kassenrevisionen nach den Artikeln 68 und 68*a* AHVG[^16-2] sowie allfällige Arbeitgeberkontrollen nach Artikel 68*b* AHVG haben sich auch auf die Durchführung dieses Gesetzes zu erstrecken.
 
-[^16-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^16-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 17
 
@@ -294,6 +295,15 @@ Die Kassenrevisionen sowie allfällige Arbeitgeberkontrollen gemäss Artikel 68 
 Die Aufwendungen für die Ausrichtung von Familienzulagen an selbstständigerwerbende Landwirte mit Einschluss der Verwaltungskosten, die den Ausgleichskassen aus der Ausrichtung der Familienzulagen entstehen, gehen zu zwei Dritteln zu Lasten des Bundes und zu einem Drittel zu Lasten der Kantone. Diese können die Gemeinden zur Beitragsleistung heranziehen.
 
 [^19-1]: Fassung gemäss Ziff. I des BG vom 20. Dez. 1957, in Kraft seit 1. Jan. 1958 ([AS 1958 183](https://fedlex.data.admin.ch/eli/oc/1958/183_189_195); [BBl 1957 I 1019](https://fedlex.data.admin.ch/eli/fga/1957/1_1019_1045_)).
+
+#### Art. 19a
+
+**Kostenübernahme und Posttaxen**[^19a-1]
+
+Die Kosten, die der Zentralen Ausgleichsstelle der Alters- und Hinterlassenenversicherung bei der Durchführung dieses Gesetzes erwachsen, sowie die Aufwendungen für die ausgewiesenen Posttaxen im Sinne von Artikel 95 Absatz 3 Buchstabe b AHVG[^19a-2] werden nach Massgabe der Artikel 18 Absatz 4 und 19 gedeckt.
+
+[^19a-1]: Eingefügt durch Anhang Ziff. 7 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^19a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 20
 
@@ -396,7 +406,7 @@ Die Kantone können in Ergänzung zu diesem Gesetz höhere und andere Zulagen fe
 
 <sup>1</sup> Soweit dieses Gesetz und das ATSG[^25-5] den Vollzug nicht abschliessend regeln, gelten die Bestimmungen des FamZG und des AHVG sinngemäss.[^25-6]
 
-<sup>2</sup> Für das Bearbeiten von Personendaten gilt sinngemäss Artikel 49*a* AHVG[^25-7], für die Datenbekanntgabe gilt Artikel 50*a* AHVG mit den Abweichungen vom ATSG.
+<sup>2</sup> Für das Bearbeiten von Personendaten gilt sinngemäss Artikel 49*f* AHVG, für die Datenbekanntgabe gilt sinngemäss Artikel 50*a* AHVG mit den Abweichungen vom ATSG.[^25-7]
 
 <sup>3</sup> Die Haftung für Schäden der AHV-Organe nach Artikel 49 AHVG richtet sich nach Artikel 78 ATSG und nach den Artikeln 52, 70 und 71*a* AHVG.
 
@@ -406,7 +416,7 @@ Die Kantone können in Ergänzung zu diesem Gesetz höhere und andere Zulagen fe
 [^25-4]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-6]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^25-7]: Siehe heute: Art. 49*b*.
+[^25-7]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 25a
 
