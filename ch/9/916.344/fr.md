@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les effectifs maximums dans la product
 short: OEM
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/727"
 language: fr
-version: 2016-01-01
+version: 2024-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-727-20160101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-727-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20160101/fr"
 
 (Ordonnance sur les effectifs maximums, OEM)
 
-du 23 octobre 2013 (Etat le 1<sup>er</sup> janvier 2016)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -87,21 +87,24 @@ Ne sont pas pris en compte dans le calcul de l’effectif total autorisé au sen
 
 #### Art. 4
 
-**Communautés d’exploitation et communautés partielles d’exploitation**
+**Communautés d*’*exploitation et communautés partielles d’exploitation**[^4-1]
 
-Pour les communautés d’exploitation et les communautés partielles d’exploitation, les effectifs autorisés en vertu des art. 2 et 3 s’appliquent à chaque exploitation membre de la communauté.
+Pour les communautés d’exploitation et les communautés partielles d’exploitation, les effectifs maximums et l’effectif total autorisé sont calculées en multipliant les chiffres indiqués aux art. 2 et 3 par le nombre d’exploitations membres de la communauté.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
 
 ## Section 3 Exploitations fournissant les prestations écologiques requises sans livrer de l’engrais de ferme à des tiers
 
 #### Art. 5
 
-**Effectifs autorisés**
+**Effectifs autorisés**[^5-1]
 
-<sup>1</sup> Sur demande, l’OFAG autorise des effectifs plus élevés que ceux qui sont prévus à l’art. 2 pour les exploitations qui fournissent les prestations écologiques requises sans livrer de l’engrais de ferme.
+<sup>1</sup> Sur demande, l’Office fédéral de l’agriculture (OFAG) autorise des effectifs plus élevés que ceux qui sont prévus à l’art. 2 pour les exploitations qui fournissent les prestations écologiques requises sans livrer de l’engrais de ferme.
 
-<sup>2</sup> Il autorise les effectifs maximums qui permettent à l’exploitation de respecter les exigences de l’annexe 1, ch. 2.1.4 et 2.1.5, de l’ordonnance du 23 octobre 2013 sur les paiements directs[^5-1] en matière de bilan de phosphore, compte tenu des engrais de ferme produits.
+<sup>2</sup> Il autorise les effectifs maximums qui permettent à l’exploitation de respecter les exigences de l’annexe 1, ch. 2.1.5, de l’ordonnance du 23 octobre 2013 sur les paiements directs[^5-2] en matière de bilan de phosphore, compte tenu des engrais de ferme produits.
 
-[^5-1]: RS **910**.**13**
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
+[^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 6
 
@@ -232,7 +235,7 @@ Un retrait de l’autorisation est possible en tout temps si les prescriptions e
 
 <sup>3</sup> L’office du registre foncier radie d’office la mention relative au plafonnement des effectifs dans le temps selon l’ordonnance sur l’abandon d’exploitations qui a été inscrite au registre foncier en tant que restriction de la propriété fondée sur le droit public valable pendant une durée de 20 ans, lorsque le délai de 20 ans depuis la réduction de l’effectif ou la cessation de l’activité est écoulé. Avant l’échéance de ce délai, la mention ne peut être radiée qu’avec l’assentiment de l’OFAG.
 
-[^18-1]: [[RO 1993 865](https://fedlex.data.admin.ch/eli/oc/1993/865_865_865)[1598](https://fedlex.data.admin.ch/eli/oc/1993/1598_1598_1598)annexe 2 ch. 5, [1994 784](https://fedlex.data.admin.ch/eli/oc/1994/784_784_784). [RO 1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)I ch. 2]
+[^18-1]: [[RO 1993 865](https://fedlex.data.admin.ch/eli/oc/1993/865_865_865), [1598](https://fedlex.data.admin.ch/eli/oc/1993/1598_1598_1598)annexe 2 ch. 5; [1994 784](https://fedlex.data.admin.ch/eli/oc/1994/784_784_784). [RO 1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)I ch. 2]
 
 ## Section 6 Taxes
 
@@ -273,7 +276,11 @@ Un retrait de l’autorisation est possible en tout temps si les prescriptions e
 
 #### Art. 21
 
-Les autorités cantonales compétentes autorisent la construction et la transformation de bâtiments pour les effectifs visés aux art. 2 et 3, à moins que l’OFAG n’ait préalablement autorisé un effectif plus élevé en vertu des art. 5, 10 ou 12.
+[^21-1]
+
+Les autorités cantonales compétentes ne peuvent autoriser la construction et la transformation de bâtiments pour des effectifs excédant ceux visés aux art. 2 et 3 ou, dans le cas des communautés d’exploitation ou des communautés partielles d’exploitation, ceux visés à l’art. 4 que dans la limite des effectifs supérieurs préalablement approuvés par l’OFAG en vertu des art. 5, 10 ou 12.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
 
 ## Section 8 Dispositions finales
 
@@ -291,7 +298,7 @@ Les autorités cantonales compétentes autorisent la construction et la transfor
 
 L’ordonnance du 26 novembre 2003 sur les effectifs maximums[^23-1] est abrogée.
 
-[^23-1]: [[RO 2003 4933](https://fedlex.data.admin.ch/eli/oc/2003/731), [2010 5881](https://fedlex.data.admin.ch/eli/oc/2010/841), [2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350), [2013 679](https://fedlex.data.admin.ch/eli/oc/2013/125)]
+[^23-1]: [[RO 2003 4933](https://fedlex.data.admin.ch/eli/oc/2003/731); [2010 5881](https://fedlex.data.admin.ch/eli/oc/2010/841); [2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350); [2013 679](https://fedlex.data.admin.ch/eli/oc/2013/125)]
 
 #### Art. 24
 

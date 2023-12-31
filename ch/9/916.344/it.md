@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente gli effettivi massimi per la p
 short: OEMas
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/727"
 language: it
-version: 2016-01-01
+version: 2024-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2013-727-20160101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2013-727-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20160101/it"
 
 (Ordinanza sugli effettivi massimi, OEMas)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2016)
+del 23 ottobre 2013 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -87,21 +87,24 @@ Per il calcolo dell’effettivo complessivo autorizzato ai sensi dell’articolo
 
 #### Art. 4
 
-**Comunità aziendali e comunità aziendali settoriali**
+**Comunità aziendali e comunità aziendali settoriali**[^4-1]
 
-Nel caso di comunità aziendali e comunità aziendali settoriali gli effettivi di cui agli articoli 2 e 3 si applicano singolarmente per ogni azienda associata.
+Nel caso di comunità aziendali e comunità aziendali settoriali, per il calcolo degli effettivi massimi e dell’effettivo complessivo autorizzato le cifre menzionate negli articoli 2 e 3 vengono moltiplicate per il numero di aziende associate.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
 
 ## Sezione 3: Aziende che forniscono la prova che le esigenze ecologiche sono rispettate senza cedere concime aziendale a terzi
 
 #### Art. 5
 
-**Effettivi consentiti**
+**Effettivi consentiti**[^5-1]
 
-<sup>1</sup> L’UFAG, su domanda, autorizza effettivi superiori a quelli di cui all’articolo 2 ad aziende che forniscono la prova che le esigenze ecologiche sono rispettate senza cedere concime aziendale a terzi.
+<sup>1</sup> L’Ufficio federale dell’agricoltura (UFAG), su domanda, autorizza effettivi superiori a quelli di cui all’articolo 2 ad aziende che forniscono la prova che le esigenze ecologiche sono rispettate senza cedere concime aziendale a terzi.
 
-<sup>2</sup> Esso autorizza al massimo gli effettivi che consentono, con il concime aziendale risultante, di rispettare un bilancio fosforico secondo l’allegato 1 numeri 2.1.4 e 2.1.5 dell’ordinanza del 23 ottobre 2013[^5-1] sui pagamenti diretti.
+<sup>2</sup> Esso autorizza al massimo gli effettivi che consentono, con il concime aziendale risultante, di rispettare un bilancio fosforico secondo l’allegato 1 numero 2.1.5 dell’ordinanza del 23 ottobre 2013[^5-2] sui pagamenti diretti.
 
-[^5-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^5-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
+[^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 6
 
@@ -232,7 +235,7 @@ La revoca dell’autorizzazione è possibile in ogni momento se le prescrizioni 
 
 <sup>3</sup> L’Ufficio del registro fondiario competente radia d’ufficio la menzione nel registro fondiario concernente la limitazione dell’effettivo di bestiame, iscritta come restrizioni di diritto pubblico della proprietà e limitata a 20 anni secondo l’ordinanza concernente i contributi per la cessazione dell’esercizio aziendale se il termine di cui al capoverso 1 dalla pronuncia della decisione sulla riduzione dell’effettivo di bestiame o sulla cessazione d’attività è scaduto. Prima della scadenza di tale termine, la menzione può essere radiata soltanto con il consenso dell’UFAG.
 
-[^18-1]: [[RU 1993 865](https://fedlex.data.admin.ch/eli/oc/1993/865_865_865)[1598](https://fedlex.data.admin.ch/eli/oc/1993/1598_1598_1598)all. 2 n. 5, [1994 784](https://fedlex.data.admin.ch/eli/oc/1994/784_784_784). [RU 1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)]
+[^18-1]: [[RU 1993 865](https://fedlex.data.admin.ch/eli/oc/1993/865_865_865), [1598](https://fedlex.data.admin.ch/eli/oc/1993/1598_1598_1598)all. 2 n. 5; [1994 784](https://fedlex.data.admin.ch/eli/oc/1994/784_784_784). [RU 1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)]
 
 ## Sezione 6: Tasse
 
@@ -252,31 +255,31 @@ La revoca dell’autorizzazione è possibile in ogni momento se le prescrizioni 
 
 Le tasse per animale tenuto in sovrannumero all’anno ammontano:
 
-- a. per gli animali della specie suina:
+- a.
 
-<table>
-<tr><td>1. scrofe da allevamento, in lattazione o non in lattazione, di oltre 6 mesi</td><td>450.—</td></tr>
-<tr><td>2. suinetti svezzati fino a 35 kg</td><td>75.—</td></tr>
-<tr><td>3. rimonte e suini da ingrasso di oltre 35 kg, di entrambi i sessi</td><td>75.—</td></tr>
-</table>
+  per gli animali della specie suina:
 
-- b. per il pollame da reddito:
+  - 1\. scrofe da allevamento, in lattazione o non in lattazione, di oltre 6 mesi 450.—
+  - 2\. suinetti svezzati fino a 35 kg 75.—
+  - 3\. rimonte e suini da ingrasso di oltre 35 kg, di entrambi i sessi 75.—
 
-<table>
-<tr><td>1. galline ovaiole di oltre 18 settimane</td><td>12.—</td></tr>
-<tr><td>2. polli da ingrasso oltre 42 giorni di ingrasso</td><td>5.—</td></tr>
-<tr><td>3. polli da ingrasso fino a 42 giorni di ingrasso</td><td>4.30</td></tr>
-<tr><td>4. polli da ingrasso fino a 35 giorni di ingrasso</td><td>3.80</td></tr>
-<tr><td>5. polli da ingrasso fino a 28 giorni di ingrasso</td><td>3.40</td></tr>
-<tr><td>6. tacchini da ingrasso di oltre 6 settimane (finissaggio)</td><td>15.—</td></tr>
-<tr><td>7. tacchini da ingrasso fino a 6 settimane (ingrasso preliminare)</td><td>5.—</td></tr>
-</table>
+- b.
 
-- c. per animali della specie bovina:
+  per il pollame da reddito:
 
-<table>
-<tr><td>vitelli da ingrasso (ingrasso con latte intero o con succedanei del latte)</td><td>200.—</td></tr>
-</table>
+  - 1\. galline ovaiole di oltre 18 settimane 12.—
+  - 2\. polli da ingrasso oltre 42 giorni di ingrasso 5.—
+  - 3\. polli da ingrasso fino a 42 giorni di ingrasso 4.30
+  - 4\. polli da ingrasso fino a 35 giorni di ingrasso 3.80
+  - 5\. polli da ingrasso fino a 28 giorni di ingrasso 3.40
+  - 6\. tacchini da ingrasso di oltre 6 settimane (finissaggio) 15.—
+  - 7\. tacchini da ingrasso fino a 6 settimane (ingrasso preliminare) 5.—
+
+- c.
+
+  per animali della specie bovina:
+
+  - vitelli da ingrasso (ingrasso con latte intero o con succedanei del latte) 200.—
 
 <sup>2</sup> Se il gestore detiene animali di diverse categorie, per il calcolo della tassa ci si basa sulla soluzione più vantaggiosa per il gestore.
 
@@ -284,7 +287,11 @@ Le tasse per animale tenuto in sovrannumero all’anno ammontano:
 
 #### Art. 21
 
-Le competenti autorità cantonali autorizzano la costruzione o la trasformazione di edifici soltanto per gli effettivi di cui agli articoli 2 e 3, a meno che l’UFAG abbia precedentemente garantito un effettivo più elevato in conformità dell’articolo 5, 10 o 12.
+[^21-1]
+
+Le competenti autorità cantonali possono autorizzare la costruzione o la trasformazione di edifici per effettivi che superano quelli di cui agli articoli 2 e 3 o, nel caso di una comunità aziendale o di una comunità aziendale settoriale, che superano quelli di cui all’articolo 4 soltanto se l’UFAG ha precedentemente autorizzato effettivi più elevati in conformità dell’articolo 5, 10 o 12.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
 
 ## Sezione 8: Disposizioni finali
 

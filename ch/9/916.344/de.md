@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über Höchstbestände in der Fleisch- u
 short: HBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/727"
 language: de
-version: 2016-01-01
+version: 2024-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2013-727-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2013-727-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20160101/de"
 
 (Höchstbestandesverordnung, HBV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2016)
+vom 23. Oktober 2013 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -84,21 +84,24 @@ Für die Berechnung des zulässigen Gesamtbestandes im Sinne von Artikel 46 Absa
 
 #### Art. 4
 
-**Betriebsgemeinschaften und Betriebszweiggemeinschaften**
+**Betriebsgemeinschaften und Betriebszweiggemeinschaften**[^4-1]
 
-Bei Betriebsgemeinschaften und Betriebszweiggemeinschaften gelten die Bestände nach den Artikeln 2 und 3 einzeln für jeden beteiligten Betrieb.
+Bei Betriebsgemeinschaften und Betriebszweiggemeinschaften werden für die Berechnung der Höchstbestände und des zulässigen Gesamtbestands die in den Artikeln 2 und 3 genannten Zahlen mit der Anzahl der beteiligten Betriebe multipliziert.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **20****23** 704).
 
 ## 3. Abschnitt: Betriebe, die den ökologischen Leistungsnachweis erbringen, ohne dass sie Hofdünger abgeben
 
 #### Art. 5
 
-**Zulässige Bestände**
+**Zulässige Bestände**[^5-1]
 
-<sup>1</sup> Das BLW bewilligt Betrieben, die den ökologischen Leistungsnachweis erbringen, ohne dass sie Hofdünger abgeben, auf Gesuch hin höhere Bestände als diejenigen nach Artikel 2.
+<sup>1</sup> Das Bundesamt für Landwirtschaft (BLW) bewilligt Betrieben, die den ökologischen Leistungsnachweis erbringen, ohne dass sie Hofdünger abgeben, auf Gesuch hin höhere Bestände als diejenigen nach Artikel 2.
 
-<sup>2</sup> Es bewilligt dem Betrieb höchstens die Bestände, die es ermöglichen, mit dem anfallenden Hofdünger eine Phosphorbilanz nach den Anforderungen von Anhang 1 Ziffern 2.1.4 und 2.1.5 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-1] einzuhalten.
+<sup>2</sup> Es bewilligt dem Betrieb höchstens die Bestände, die es ermöglichen, mit dem anfallenden Hofdünger eine Phosphorbilanz nach den Anforderungen von Anhang 1 Ziffer 2.1.5 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-2] einzuhalten.
 
-[^5-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^5-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
+[^5-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 6
 
@@ -229,7 +232,7 @@ Ein Entzug der Bewilligung ist jederzeit möglich, wenn Vorschriften des Tier- o
 
 <sup>3</sup> Das zuständige Grundbuchamt löscht die nach der Betriebs-Stilllegungsverordnung auf 20 Jahre befristeten und als öffentlich-rechtliche Eigentumsbeschränkungen im Grundbuch eingetragenen Anmerkungen über die Begrenzungen der Bestände von Amtes wegen, wenn seit Erlass der Verfügung über den Abbau oder die Stilllegung eines Bestandes die Frist von 20 Jahren abgelaufen ist. Vor Ablauf dieser Frist darf die Anmerkung nur mit Zustimmung des BLW gelöscht werden.
 
-[^18-1]: [[AS 1993 865](https://fedlex.data.admin.ch/eli/oc/1993/865_865_865)[1598](https://fedlex.data.admin.ch/eli/oc/1993/1598_1598_1598)Anhang 2 Ziff. 5, [1994 784](https://fedlex.data.admin.ch/eli/oc/1994/784_784_784). [AS 1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)Ziff. I 2]
+[^18-1]: [[AS 1993 865](https://fedlex.data.admin.ch/eli/oc/1993/865_865_865), [1598](https://fedlex.data.admin.ch/eli/oc/1993/1598_1598_1598)Anhang 2 Ziff. 5; [1994 784](https://fedlex.data.admin.ch/eli/oc/1994/784_784_784). [AS 1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)Ziff. I 2]
 
 ## 6. Abschnitt: Abgaben
 
@@ -281,7 +284,11 @@ Die Abgabe beträgt pro Jahr je zu viel gehaltenes Tier:
 
 #### Art. 21
 
-Die zuständigen kantonalen Behörden bewilligen Neu- und Umbauten maximal für die Bestände nach den Artikeln 2 und 3, es sei denn, das BLW hat vorgängig gestützt auf Artikel 5, 10 oder 12 einen höheren Bestand bewilligt.
+[^21-1]
+
+Die zuständigen kantonalen Behörden dürfen Neu- und Umbauten für Bestände, die die Bestände nach den Artikeln 2 und 3 oder, bei einer Betriebsgemeinschaft oder einer Betriebszweiggemeinschaft, jene nach Artikel 4 übersteigen, nur soweit bewilligen, als das BLW vorgängig gestützt auf Artikel 5, 10 oder 12 höhere Bestände bewilligt hat.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
 
 ## 8. Abschnitt: Schlussbestimmungen
 
