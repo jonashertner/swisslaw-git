@@ -4,13 +4,12 @@ number: "152.31"
 title: Verordnung über das Amtsblatt des Kantons Zug
 short: "Amtsblattverordnung, ABV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-02-01
+version: 2024-01-01
+version_adopted: 2023-12-05
 adopted: 2022-02-01
 in_force: 2023-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/152.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2308/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2308/pdf_file"
 
 (Amtsblattverordnung, ABV)
 
-Vom 1. Februar 2022 (Stand 1. Januar 2023)
+Vom 1. Februar 2022 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug vom 31. Januar 1894[^ingress-1] sowie die §§ 7b Abs. 8 und 7c Abs. 2 und 3 des Gesetzes über die Veröffentlichung der Erlasse und das Amtsblatt des Kantons Zug (Publikationsgesetz, PublG-ZG) vom 29. Januar 1981[^ingress-2],
+gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1] sowie die §§ 7b Abs. 8 und 7c Abs. 2 und 3 des Gesetzes über die Veröffentlichung der Erlasse und das Amtsblatt des Kantons Zug (Publikationsgesetz, PublG-ZG) vom 29. Januar 1981[^ingress-2],
 
 beschliesst:
 
@@ -63,7 +62,7 @@ beschliesst:
 
 **Liste der Meldestellen**
 
-<sup>1</sup> Die Staatskanzlei führt eine Liste sämtlicher Meldestellen und publiziert diese in den Gesetzessammlungen.
+<sup>1</sup> Die Staatskanzlei führt eine Liste sämtlicher Meldestellen und publiziert diese auf der Internetseite des Kantons Zug.
 
 #### § 4
 
