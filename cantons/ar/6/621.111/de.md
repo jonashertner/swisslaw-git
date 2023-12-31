@@ -4,13 +4,12 @@ number: "621.111"
 title: Verordnung zum Steuergesetz
 short: Steuerverordnung
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-01
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2000-08-08
 in_force: 2001-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/621.111"
-pdf: "https://ar.clex.ch/api/de/versions/1339/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1339/pdf_file"
 
 (Steuerverordnung)
 
-vom 08.08.2000 (Stand 01.01.2021)
+vom 08.08.2000 (Stand 01.01.2024)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -101,13 +100,7 @@ verordnet:
 
 <sup>3</sup> Die Kantonale Steuerverwaltung erlässt ein Merkblatt, wie der massgebliche Mietwert erhoben wird, wenn keine amtliche Schätzung vorliegt. Der Mietwert von Betriebsleiterwohnungen landwirtschaftlicher Betriebe bestimmt sich nach der eidgenössischen Pachtzinsverordnung.
 
-#### Art. 11a
-
-**Einkünfte aus beruflicher Vorsorge (Art. 25 Abs. 2 StG)**
-
-<sup>1</sup> Sind die für die direkte Bundessteuer verlangten Voraussetzungen erfüllt, gelten gleichartige Kapitalabfindungen des Arbeitgebers bei definitiver Aufgabe der Erwerbstätigkeit als Einkünfte aus beruflicher Vorsorge.
-
-#### Art. 12–14
+#### Art. 11a–14
 
 **…**
 
@@ -612,15 +605,31 @@ verordnet:
 
 ### B. Allgemeine Verfahrensgrundsätze
 
+#### Art. 56a
+
+**eSteuern (Art. 160a StG)**
+
+<sup>1</sup> Das Verfahren kann elektronisch geführt werden, soweit das gemeinsame Behördenportal von Kanton und Gemeinden entsprechende eServices zur Verfügung stellt.
+
+<sup>2</sup> Die Nutzung der eServices setzt eine durch den Authentifizierungsdienst der Schweizer Behörden AGOV geprüfte elektronische Identität voraus.
+
+<sup>3</sup> Die zuständige Steuerverwaltungsbehörde bestimmt die notwendigen Identitätsdaten und die notwendige Authentifizierungsstufe für die Nutzung der eServices.
+
+<sup>4</sup> Eine elektronische Eingabe gilt als eingereicht, wenn der entsprechende eService die Übermittlung bestätigt hat.
+
+<sup>5</sup> Soweit keine besonderen Bestimmungen bestehen, sind die allgemeinen Bestimmungen über den elektronischen Geschäftsverkehr anwendbar.
+
 #### Art. 57
 
 **…**
 
 #### Art. 57a
 
-**Auskünfte aus Steuerakten (Art. 153 Abs. 3 StG)**
+**Steuerauskünfte (Art. 153 StG)**
 
 <sup>1</sup> Das Departement kann für bestimmte Auskünfte generelle Ermächtigungen erteilen.
+
+<sup>2</sup> Die Kantonale Steuerverwaltung stellt den Gemeinden zwei Mal jährlich die sie betreffenden Debitorenlisten zu. Der Gemeinderat regelt die Zugriffsberechtigung auf die Debitorenlisten.
 
 #### Art. 58
 
