@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20230101/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 1° gennaio 2023)
+dell’11 agosto 1999 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1345,7 +1345,7 @@ Allegato 3[^t-3]
 
 ## Chiave di riparto per l’attribuzione proporzionale alla popolazione
 
-[^t-3]: Introdotto dal n. II dell’O dell’8 giu. 2018 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nuovo testo giusta il n. I dell’O del DFGP del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 655](https://fedlex.data.admin.ch/eli/oc/2022/655)).
+[^t-3]: Introdotto dal n. II dell’O dell’8 giu. 2018 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nuovo testo giusta il n. I dell’O del DFGP del 7 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 645](https://fedlex.data.admin.ch/eli/oc/2023/645)).
 
 <table>
 <tr><th></th><th>percentuale</th><th></th><th>percentuale</th></tr>
@@ -1354,12 +1354,12 @@ Allegato 3[^t-3]
 <tr><td>Appenzello Interno</td><td>0,2</td><td>Sciaffusa</td><td>1,0</td></tr>
 <tr><td>Basilea Campagna</td><td>3,4</td><td>Svitto</td><td>1,9</td></tr>
 <tr><td>Basilea Città</td><td>2,2</td><td>Soletta</td><td>3,2</td></tr>
-<tr><td>Berna</td><td>12,0</td><td>San Gallo</td><td>5,9</td></tr>
+<tr><td>Berna</td><td>11,9</td><td>San Gallo</td><td>6,0</td></tr>
 <tr><td>Friburgo</td><td>3,8</td><td>Ticino</td><td>4,0</td></tr>
 <tr><td>Ginevra</td><td>5,8</td><td>Turgovia</td><td>3,3</td></tr>
 <tr><td>Glarona</td><td>0,5</td><td>Uri</td><td>0,4</td></tr>
 <tr><td>Grigioni</td><td>2,3</td><td>Vaud</td><td>9,4</td></tr>
-<tr><td>Giura</td><td>0,9</td><td>Vallese</td><td>4,0</td></tr>
+<tr><td>Giura</td><td>0,8</td><td>Vallese</td><td>4,1</td></tr>
 <tr><td>Lucerna</td><td>4,8</td><td>Zugo</td><td>1,5</td></tr>
 <tr><td>Neuchâtel</td><td>2,0</td><td>Zurigo</td><td>17,9</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20230101/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (État le 1<sup>er</sup> janvier 2023)
+du 11 août 1999 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -605,7 +605,7 @@ Les cantons désignent l’autorité auprès de laquelle la personne attribuée 
 
 ### (art. 31, LAsi)
 
-<sup>1</sup> Le DFJP arrête les principes régissant la préparation des décisions en matière d'asile quant au fond et à l'organisation et réglemente l'échange d'informations entre le SEM et les cantons.[^27-1]
+<sup>1</sup> Le DFJP arrête les principes régissant la préparation des décisions en matière d’asile quant au fond et à l’organisation et réglemente l’échange d’informations entre le SEM et les cantons.[^27-1]
 
 <sup>2</sup> Lorsqu’un recours est interjeté contre une décision préparée par un canton et que le Tribunal administratif fédéral ordonne un échange d’écritures, le SEM peut demander l’avis du canton.[^27-2]
 
@@ -860,7 +860,7 @@ La qualité de réfugié n’est étendue au conjoint, au partenaire enregistré
 
 <sup>1</sup> Les conditions de résidence d’une personne qui a obtenu l’asile en Suisse sont réglementées par le canton auquel cette personne a, une fois entrée en Suisse, été attribuée en tant que requérant d’asile. Si, au cours de la procédure d’asile, ladite personne a, conformément à l’art. 22, al. 2, été attribuée par le SEM à un autre canton, la compétence en la matière revient à ce dernier.
 
-<sup>2</sup> ...[^41-1]
+<sup>2</sup> …[^41-1]
 
 [^41-1]: Abrogé par le ch. I de l’O du 24 oct. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 
@@ -1331,7 +1331,7 @@ Annexe 3[^t-3]
 
 ## Clé d’attribution proportionnelle à la population
 
-[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 655](https://fedlex.data.admin.ch/eli/oc/2022/655)).
+[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 7 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 645](https://fedlex.data.admin.ch/eli/oc/2023/645)).
 
 <table>
 <tr><th></th><th>En pourcentage</th><th></th><th>En pourcentage</th></tr>
@@ -1340,12 +1340,12 @@ Annexe 3[^t-3]
 <tr><td>Appenzell Rhodes-Intérieures</td><td>0,2</td><td>Schaffhouse</td><td>1,0</td></tr>
 <tr><td>Bâle-Campagne</td><td>3,4</td><td>Schwyz</td><td>1,9</td></tr>
 <tr><td>Bâle-Ville</td><td>2,2</td><td>Soleure</td><td>3,2</td></tr>
-<tr><td>Berne</td><td>12,0</td><td>Saint-Gall</td><td>5,9</td></tr>
+<tr><td>Berne</td><td>11,9</td><td>Saint-Gall</td><td>6,0</td></tr>
 <tr><td>Fribourg</td><td>3,8</td><td>Tessin</td><td>4,0</td></tr>
 <tr><td>Genève</td><td>5,8</td><td>Thurgovie</td><td>3,3</td></tr>
 <tr><td>Glaris</td><td>0,5</td><td>Uri</td><td>0,4</td></tr>
 <tr><td>Grisons</td><td>2,3</td><td>Vaud</td><td>9,4</td></tr>
-<tr><td>Jura</td><td>0,9</td><td>Valais</td><td>4,0</td></tr>
+<tr><td>Jura</td><td>0,8</td><td>Valais</td><td>4,1</td></tr>
 <tr><td>Lucerne</td><td>4,8</td><td>Zoug</td><td>1,5</td></tr>
 <tr><td>Neuchâtel</td><td>2,0</td><td>Zurich</td><td>17,9</td></tr>
 </table>
