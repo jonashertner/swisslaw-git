@@ -4,13 +4,12 @@ number: 894b
 title: Verordnung zum Gesetz über soziale Einrichtungen
 short: SEV
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-01-07
+version: 2024-01-01
+version_adopted: 2023-06-06
 adopted: 2020-01-07
 in_force: 2020-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/894b"
-pdf: "https://srl.lu.ch/api/de/versions/3540/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4154/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3540/pdf_file"
 
 (SEV)
 
-vom 07.01.2020 (Stand 01.01.2020)
+vom 07.01.2020 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -163,7 +162,8 @@ beschliesst:
 - k. übt die Aufsicht über die anerkannten sozialen Einrichtungen nach § 17 des Gesetzes aus,
 - l. kann eine Liste geplanter Platzierungen führen,
 - m. ist für die Durchführung der Erhebung und Auswertung der Kennzahlen gemäss § 14 verantwortlich,
-- n. erlässt Weisungen zur Kostenregelung, zur Kostenbeteiligung, zur Betriebsrechnung und zur Buchführung gemäss dieser Verordnung und überprüft deren Einhaltung.
+- n. erlässt Weisungen zur Kostenregelung, zur Kostenbeteiligung, zur Betriebsrechnung und zur Buchführung gemäss dieser Verordnung und überprüft deren Einhaltung,
+- o. führt eine Liste mit den Angeboten der ambulanten Leistungen gemäss den §§ 5 und 6 sowie der zugelassenen Beratungsstellen gemäss § 13.
 
 <sup>2</sup> Die Kosten der Dienststelle Soziales und Gesellschaft werden nach § 28 Absatz 1c des Gesetzes von Kanton und Gemeinden gemeinsam je hälftig getragen.
 
@@ -181,9 +181,15 @@ beschliesst:
 
 #### § 13
 
-**Abklärungs- und Beratungsstelle**
+**Abklärungs- und Beratungsstellen**
 
-<sup>1</sup> Das Gesundheits- und Sozialdepartement bezeichnet die Abklärungs- und Beratungsstelle gemäss § 21a des Gesetzes. Es hört die anerkannten sozialen Einrichtungen und die Fachstellen der Behindertenhilfe in geeigneter Weise an.
+<sup>1</sup> Das Gesundheits- und Sozialdepartement bezeichnet die unabhängige Abklärungsstelle und die zugelassenen Beratungsstellen gemäss § 21a des Gesetzes. Es hört die Kommission für soziale Einrichtungen, die anerkannten sozialen Einrichtungen und die Fachstellen der Behindertenhilfe in geeigneter Weise an.
+
+<sup>2</sup> Die unabhängige Abklärungsstelle prüft die Indikation der beantragten ambulanten Leistungen sowie die übrigen Voraussetzungen für eine Kostengutsprache und gibt eine Empfehlung zuhanden der Dienststelle Soziales und Gesellschaft ab. Das Gesundheits- und Sozialdepartement schliesst mit der unabhängigen Abklärungsstelle eine Leistungsvereinbarung ab.
+
+<sup>3</sup> Die zugelassenen Beratungsstellen beraten und begleiten die erwachsenen Personen mit Behinderung bei der Findung bedarfsgerechter ambulanter Leistungen nach den §§ 5 und 6 und unterstützen sie im Gesuchsverfahren.
+
+<sup>4</sup> Die zugelassenen Beratungsstellen erhalten eine Vergütung von pauschal 1200 Franken pro beratene Person, wenn die Beratung mindestens 120 Minuten gedauert hat und die beratene Person bereits zum Zeitpunkt der Kontaktaufnahme ihren zivilrechtlichen Wohnsitz im Kanton Luzern hatte. Eine erneute Vergütung für die gleiche Person kann frühestens drei Jahre nach der letzten Zahlung geltend gemacht werden.
 
 ## 3 Planung und Steuerung
 
@@ -310,13 +316,17 @@ beschliesst:
 
 **Kostengutsprache**
 
-<sup>1</sup> Die betreuungsbedürftige Person füllt das Anmeldeformular für den Bezug ambulanter Leistungen aus. Für den Bezug ambulanter Leistungen für erwachsene Personen mit Behinderungen hat die betreuungsbedürftige Person ihren Unterstützungsbedarf mit einem Bedarfsermittlungsinstrument der Abklärungs- und Beratungsstelle zu ermitteln und es bei dieser einzureichen.
+<sup>1</sup> Erwachsene Personen mit Behinderungen haben die Kostengutsprache für den Bezug ambulanter Leistungen mittels Gesuch zu beantragen. Dazu haben sie ihren Unterstützungsbedarf mit einem Bedarfsermittlungsinstrument zu deklarieren und dieses zusammen mit dem Gesuchsformular sowie den erforderlichen Unterlagen bei der Abklärungsstelle einzureichen.
 
-<sup>2</sup> Die Abklärungs- und Beratungsstelle überprüft den ermittelten Bedarf und nimmt gegebenenfalls eine Differenzbereinigung mit der betreuungsbedürftigen Person vor.
+<sup>2</sup> Die Abklärungsstelle überprüft die formellen Voraussetzungen für den Leistungsbezug sowie den geltend gemachten Bedarf und nimmt gegebenenfalls eine Differenzbereinigung mit der betreuungsbedürftigen Person vor. Sie ermittelt den behinderungsbedingt notwendigen, angemessenen und nicht gedeckten Bedarf an Fach- und Assistenzleistungen.
 
-<sup>3</sup> Gestützt auf den ermittelten Bedarf reicht die betreuungsbedürftige Person das Gesuch um Kostengutsprache bei der Dienststelle Soziales und Gesellschaft nach deren Vorgaben ein.
+<sup>3</sup> Sie leitet das Gesuch um Kostengutsprache mit einem Kurzbericht an die Dienststelle Soziales und Gesellschaft weiter.
 
-<sup>4</sup> Die Dienststelle Soziales und Gesellschaft entscheidet mittels Verfügung über das Gesuch um Kostengutsprache. Kostengutsprachen können befristet und mit Auflagen versehen werden. Sie können unter Berücksichtigung einer angemessenen Frist aufgehoben werden.
+<sup>4</sup> Die Dienststelle Soziales und Gesellschaft entscheidet mittels Verfügung über das Gesuch um Kostengutsprache. Kostengutsprachen können befristet und mit Auflagen versehen werden. Sie können unter Berücksichtigung einer angemessenen Frist aufgehoben und veränderten Verhältnissen angepasst werden.
+
+<sup>5</sup> Beiträge für ambulante Leistungen, die als Vorschuss im Hinblick auf Leistungen Dritter, insbesondere von Sozialversicherungen, gewährt werden und für die rückwirkend Leistungen erbracht werden, sind zurückzuerstatten. Die Dienststelle Soziales und Gesellschaft kann beim Dritten die direkte Auszahlung der rückwirkenden Leistungen zugunsten der Rechnung über die sozialen Einrichtungen verlangen.
+
+<sup>6</sup> Die betreuungsbedürftige Person hat unrechtmässig bezogene Leistungen zurückzuerstatten.
 
 #### § 25
 
@@ -324,7 +334,7 @@ beschliesst:
 
 <sup>1</sup> Ist ein rascher Wechsel von einem stationären Angebot zu einer ambulanten Fachleistung notwendig und kann vorgängig das ordentliche Verfahren gemäss § 24 nicht durchgeführt werden, kann eine vorläufige Kostengutsprache erteilt werden.
 
-<sup>2</sup> Die gesuchstellende Person übermittelt innert fünf Arbeitstagen nach Erstbezug der ambulanten Fachleistung das Anmeldeformular inklusive der Bestätigung des beabsichtigten Leistungsbezuges durch die betreuende anerkannte soziale Einrichtung an die Dienststelle Soziales und Gesellschaft.
+<sup>2</sup> Die gesuchstellende Person übermittelt innert fünf Arbeitstagen nach Erstbezug der ambulanten Fachleistung das Gesuchsformular inklusive der Bestätigung des beabsichtigten Leistungsbezuges durch die betreuende anerkannte soziale Einrichtung an die Dienststelle Soziales und Gesellschaft.
 
 <sup>3</sup> Die gesuchstellende Person erhält in diesem Fall eine vorläufige Kostengutsprache für maximal drei Monate. Diese wird der betreuenden anerkannten sozialen Einrichtung zur Kenntnis zugestellt.
 
@@ -332,9 +342,7 @@ beschliesst:
 
 #### § 26
 
-**Weitere Aufgaben der Abklärungs- und Beratungsstelle**
-
-<sup>1</sup> Die Abklärungs- und Beratungsstelle ist Kontaktstelle für Fragen zu ambulanten und stationären Leistungen für betreuungsbedürftige Personen, für deren gesetzliche Vertretung, für soziale Einrichtungen, Behindertenorganisationen und weitere Fachpersonen.
+**…**
 
 #### § 27
 
@@ -352,13 +360,15 @@ beschliesst:
 
 **Beitragsgrenze für ambulante Leistungen für erwachsene Personen mit Behinderungen**
 
-<sup>1</sup> Als vergleichbarer Aufenthalt in einer anerkannten sozialen Einrichtung zur Ermittlung der Beitragsgrenze für ambulante Leistungen für erwachsene Personen mit Behinderungen gelten die stationären Leistungen, welche die betreffende Person anstelle einer ambulanten Lösung benötigen würde. Massgebend sind die Vollkosten entsprechend der Einstufung des individuellen Betreuungsbedarfs nach Abzug der Kostenbeteiligung.
+<sup>1</sup> Als vergleichbarer Aufenthalt in einer anerkannten sozialen Einrichtung zur Ermittlung der Beitragsgrenze für ambulante Leistungen für erwachsene Personen mit Behinderungen gelten die stationären Leistungen, welche die betreffende Person anstelle einer ambulanten Lösung benötigen würde. Massgebend ist die durchschnittliche Vollkostenpauschale für stationäre Leistungen der entsprechenden individuellen Betreuungsbedarfsstufe nach Abzug einer Kostenbeteiligung.
+
+<sup>2</sup> Die Dienststelle Soziales und Gesellschaft erlässt Weisungen zur Bestimmung der individuellen Betreuungsbedarfsstufe, zur Ermittlung der durchschnittlichen Vollkostenpauschale sowie zur Höhe der abzuziehenden Kostenbeteiligung.
 
 #### § 29
 
-**Kantonale Assistenzleistungen**
+**Tarife und Wohnsitzerfordernis**
 
-<sup>1</sup> Die Kostengutsprachen sind auf maximal 35 Franken Entschädigung pro Person und Stunde begrenzt. Pro Monat darf die Abgeltung für ambulante Fach- und Assistenzleistungen insgesamt die Vollkostenpauschale eines vergleichbaren stationären Aufenthalts in einer anerkannten sozialen Einrichtung im Kanton Luzern nach Anrechnung der Kostenbeteiligung nicht überschreiten.
+<sup>1</sup> Der anrechenbare Tarif für kantonale Assistenzleistungen beträgt maximal 35 Franken pro Stunde. Für ambulante Fachleistungen entsprechen die anrechenbaren Tarife maximal den Vollkosten einer Dienstleistungsstunde von Sozialpädagoginnen und -pädagogen beziehungsweise von Arbeitsagoginnen und -agogen. Pro Monat darf die Abgeltung für ambulante Fach- und Assistenzleistungen insgesamt die Beitragsgrenze gemäss § 28 nicht überschreiten.
 
 <sup>2</sup> Für kantonale Assistenzleistungen können frühestens zwei Jahren nach Wohnsitznahme der anspruchsberechtigten Person im Kanton Luzern Kostengutsprachen erteilt werden.
 
@@ -370,9 +380,9 @@ beschliesst:
 
 **Kostenbeteiligungsordnung**
 
-<sup>1</sup> Jede anerkannte soziale Einrichtung erlässt eine Kostenbeteiligungsordnung, die insbesondere die Höhe der Kostenbeteiligung bei Spital- und Ferienaufenthalten bis maximal 90 Tage regelt. Im Weiteren sind darin die Grundsätze für die Ermässigung der Kostenbeteiligung gemäss § 37 zu regeln.
+<sup>1</sup> Jede anerkannte soziale Einrichtung erlässt eine Kostenbeteiligungsordnung, die insbesondere Angaben zur Höhe der Kostenbeteiligung, zu allfälligen Ermässigungen bei Abwesenheiten und zu den individuellen Nebenkosten enthält.
 
-<sup>2</sup> Die Kostenbeteiligungsordnung bedarf der Genehmigung durch die Dienststelle Soziales und Gesellschaft.
+<sup>2</sup> Erlass und wesentliche Änderungen der Kostenbeteiligungsordnung bedürfen der Genehmigung durch die Dienststelle Soziales und Gesellschaft.
 
 <sup>3</sup> Die Kostenbeteiligungsordnungen gelten für betreuungsbedürftige Personen mit Wohnsitz im Kanton Luzern. Für betreuungsbedürftige Personen aus anderen Kantonen ist die IVSE massgebend.
 
@@ -444,6 +454,10 @@ beschliesst:
 
 <sup>1</sup> Die Höhe der Kostenbeteiligung von erwachsenen Personen mit Behinderungen in anerkannten sozialen Einrichtungen mit stationärem Wohnangebot beträgt pro Person und Monat 4500 Franken. Bei einer Person mit einer Entschädigung für Hilflosigkeit wird die Hilflosenentschädigung gemäss Bundesgesetz über die Invalidenversicherung[^35-1], gemäss Bundesgesetz über die Alters- und Hinterlassenenversicherung[^35-2] oder gemäss Bundesgesetz über die Unfallversicherung[^35-3] hinzugezählt.
 
+<sup>1<sup>bis</sup></sup> Die Höhe der Kostenbeteiligung bei einem Aufenthalt in einer ausserkantonalen Einrichtung mit stationärem Wohnangebot entspricht für Personen mit einem Anspruch auf Ergänzungsleistungen der maximal anrechenbaren Tagestaxe gemäss § 1 Absatz 2 Satz 1 der Verordnung über die Ergänzungsleistungen zur AHV/IV vom 30. November 2007[^35-4].
+
+<sup>1<sup>ter</sup></sup> Die Kostenbeteiligung nach den Absätzen 1 und 1<sup>bis</sup> darf höchstens der Vollkostenpauschale der bezogenen Leistungen entsprechen.
+
 <sup>2</sup> Die Kostenbeteiligung wird im Ein- oder Austrittsmonat anteilsmässig in Rechnung gestellt (maximal 30 Tage).
 
 <sup>3</sup> Personen, die ausserhalb eines stationären Angebots wohnen und eine Tagesstruktur ohne Lohn besuchen, in welcher sie über Mittag Betreuung und Verpflegung benötigen, haben eine Kostenbeteiligung für das Mittagessen von 10 Franken pro Tag und für die Betreuung von 35 Franken pro Tag zu übernehmen. Das Gleiche gilt für Personen in einer Tagesstruktur mit Lohn, wenn sie einen hohen Betreuungsbedarf über Mittag aufweisen und weniger als 200 Franken pro Monat verdienen.
@@ -451,6 +465,7 @@ beschliesst:
 [^35-1]: SR [831.20](https://db.clex.ch/link/Bund/831.20/de)
 [^35-2]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 [^35-3]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
+[^35-4]: SRL Nr. [881a](https://srl.lu.ch/data/881a/de)
 
 #### § 36
 
@@ -586,7 +601,7 @@ beschliesst:
 
 <sup>1</sup> Anerkannte soziale Einrichtungen mit privater Trägerschaft, die während eines Betriebsjahres Leistungen in der vereinbarten Qualität wirtschaftlich erbringen und einen Mehrertrag erzielen, haben die daraus resultierenden Betriebsergebnisse aus den einzelnen Bereichen oder Angeboten pro Rechnungsjahr einem gesamthaften Schwankungsfonds oder den jeweiligen Schwankungsfonds für einzelne Bereiche oder Angebote zuzuweisen.
 
-<sup>2</sup> Die Höhe der Schwankungsfonds darf insgesamt 10 Prozent des durchschnittlich vereinbarten IVSE-Nettoaufwandes der letzten drei Jahre nicht übersteigen. Liegt der durchschnittliche IVSE-Nettoaufwand der letzten drei Jahre unter 10 Millionen Franken, dürfen die Schwankungsfonds 20 Prozent nicht übersteigen. Falls für Tagesstrukturen mit Lohn gemäss § 2 Absatz 1b des Gesetzes ein separater Schwankungsfonds geführt wird, kann dieser in jedem Fall bis zum Plafond von 20 Prozent des anrechenbaren IVSE-Nettoaufwandes geäufnet werden. Schwankungsfondskapital über 10 Millionen Franken oder Plafondüberschüsse müssen dem Kanton zurückerstattet werden. Für die Berechnung der Plafondlimiten werden alle bisherigen Rücklagen gemäss § 41a des Gesetzes und frühere Rücklagen zum Produktivitätsausgleich nach Vorgabe des Bundesamts für Sozialversicherungen einbezogen.
+<sup>2</sup> Die Höhe der Schwankungsfonds darf insgesamt 20 Prozent des durchschnittlich vereinbarten IVSE-Nettoaufwandes der letzten drei Jahre bis 10 Millionen Franken zuzüglich 10 Prozent des diesen Betrag übersteigenden vereinbarten IVSE-Nettoaufwandes, maximal jedoch 10 Millionen Franken, nicht übersteigen. Falls für Tagesstrukturen mit Lohn gemäss § 2 Absatz 1b des Gesetzes ein separater Schwankungsfonds geführt wird, beträgt für diesen der Plafond 20 Prozent des diesbezüglich vereinbarten IVSE-Nettoaufwandes. Schwankungsfondskapital über 10 Millionen Franken oder Plafondüberschüsse müssen dem Kanton zurückerstattet werden. Für die Berechnung der Plafondlimiten werden alle bisherigen Rücklagen gemäss § 41a des Gesetzes und frühere Rücklagen zum Produktivitätsausgleich nach Vorgabe des Bundesamts für Sozialversicherungen einbezogen.
 
 <sup>3</sup> Schwankungsfonds sind bei Rechnungslegung gemäss Swiss GAAP FER 21 passivseitig im Fondskapital und bei Rechnungslegung gemäss Schweizerischem Obligationenrecht passivseitig im Fremdkapital separat auszuweisen.
 
@@ -621,13 +636,16 @@ beschliesst:
 - c. die Förderung der körperlichen und geistigen Entwicklung der betreuungsbedürftigen Personen und eine ihnen angemessene Betreuung gewährleistet sind sowie für eine ausgewogene Ernährung und die ärztliche Versorgung gesorgt ist,
 - d. die Sicherheit und der Schutz der betreuungsbedürftigen Personen gewährleistet sind,
 - e. die Wahlmöglichkeiten und Selbstbestimmungsrechte der erwachsenen Personen gefördert werden beziehungsweise gewährleistet ist, dass Kinder und Jugendliche bei allen Entscheiden, die einen wesentlichen Einfluss auf ihr Leben haben, ihrem Alter entsprechend beteiligt werden,
-- f. das Betreuungsverhältnis in schriftlichen Verträgen geregelt wird, aus denen ersichtlich ist, welche Leistungen die soziale Einrichtung erbringt,
+- f. das Betreuungsverhältnis in schriftlichen Verträgen geregelt wird, aus denen ersichtlich ist, welche Leistungen die soziale Einrichtung erbringt und für welche Kosten die betreuungsbedürftige Person beziehungsweise die Leistungspflichtigen nach § 31 des Gesetzes aufzukommen haben,
 - g. eine gesicherte wirtschaftliche Grundlage vorgewiesen werden kann,
 - h. die bevorzugte Aufnahme von Personen aus dem Kanton Luzern gewährleistet wird,
 - i. die soziale Einrichtung über eine Haftpflichtversicherung nach Massgabe der Art und des Umfangs der Risiken, die mit den Leistungen verbunden sind, verfügt,
-- j. die Leitung und die Mitarbeitenden über die für die Erbringung der Leistungen nötigen fachlichen Kompetenzen verfügen und die Zahl der Mitarbeitenden für die zu betreuenden Personen genügt,
+- j. die Leitung und die Mitarbeitenden über die für die Erbringung der Leistungen nötigen fachlichen Kompetenzen verfügen sowie vertrauenswürdig sind und die Zahl der Mitarbeitenden für die zu betreuenden Personen genügt,
 - k. die Gebäude und Anlagen den gesetzlichen Vorschriften entsprechen, insbesondere jenen des behindertengerechten Bauens und des Brandschutzes,
-- l. die soziale Einrichtung über geeignete Instrumente zur Entwicklung und Sicherung der Qualität verfügt.
+- l. die soziale Einrichtung über geeignete Instrumente zur Entwicklung und Sicherung der Qualität verfügt,
+- m. die private Trägerschaft im Handelsregister eingetragen ist.
+
+<sup>2</sup> Die Anerkennungsvoraussetzungen nach Absatz 1 gelten für soziale Einrichtungen, die ausschliesslich ambulante Leistungen erbringen, sinngemäss.
 
 #### § 51
 
@@ -679,10 +697,14 @@ beschliesst:
 
 - a. Austritte sowie Übertritte innerhalb derselben Einrichtung innert Monatsfrist,
 - b. Zahl der anerkannten Plätze, die nicht belegt sind,
-- c. Änderungen des Wohnsitzes der betreuungsbedürftigen Personen,
-- d. Änderungen des Wohnsitzes der Inhaberinnen und Inhaber der elterlichen Sorge,
+- c. Änderungen des Wohnsitzes oder des Wohnortes der betreuungsbedürftigen Personen,
+- d. Änderungen des Wohnsitzes oder des Wohnortes der Inhaberinnen und Inhaber der elterlichen Sorge,
 - e. Änderungen bei den Massnahmen für die betreuungsbedürftigen Personen im Rahmen des Kindes- und Erwachsenenschutzrechts,
 - f. Änderungen der Beistandschaftspersonen.
+
+<sup>2</sup> Von dieser Meldepflicht ausgenommen sind Anbieterinnen ambulanter Fachleistungen gemäss § 2 Absatz 5a des Gesetzes.
+
+<sup>3</sup> Betreuungsbedürftige Personen, die ambulante Fach- und Assistenzleistungen beziehen, sind zur Meldung von anspruchsrelevanten Änderungen in ihren persönlichen, gesundheitlichen und finanziellen Verhältnissen verpflichtet.
 
 #### § 57
 
