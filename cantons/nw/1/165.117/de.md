@@ -1,25 +1,25 @@
 ---
 canton: NW
 number: "165.117"
-title: Vollzugsverordnung betreffend die Lehrpersonen
+title: Verordnung betreffend die Lehrpersonen
 short: "Lehrpersonalverordnung, LPV"
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-06-27
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-11-14
 adopted: 2008-06-24
 in_force: 2008-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/1166/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1218/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung betreffend die Lehrpersonen
+# Verordnung betreffend die Lehrpersonen
 
 (Lehrpersonalverordnung, LPV)
 
-vom 24.06.2008 (Stand 01.08.2023)
+vom 24.06.2008 (Stand 01.01.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -920,44 +920,44 @@ beschliesst:
 
 <table>
 <tr><th>Band</th><th>Funktionswert</th><th>Funktionslohn, 5/8 des theoretischen Bandmaximums</th><th>Effektiver Höchstbetrag des Erfahrungslohnanteils</th><th>erreichbarer Maximallohn in % des Bandmaximums</th><th>theoretisches Bandmaximum</th></tr>
-<tr><td>L 1</td><td>19</td><td>3'670</td><td>1'873</td><td>94.4</td><td>5'872</td></tr>
-<tr><td>L 2</td><td>20</td><td>3'850</td><td>1'965</td><td>94.4</td><td>6'160</td></tr>
-<tr><td>L 3</td><td>21</td><td>4'040</td><td>2'062</td><td>94.4</td><td>6'464</td></tr>
-<tr><td>L 4</td><td>22</td><td>4'240</td><td>2'164</td><td>94.4</td><td>6'784</td></tr>
-<tr><td>L 5</td><td>23</td><td>4'450</td><td>2'271</td><td>94.4</td><td>7'120</td></tr>
-<tr><td>L 6</td><td>24</td><td>4'670</td><td>2'384</td><td>94.4</td><td>7'472</td></tr>
-<tr><td>L 7</td><td>25</td><td>4'900</td><td>2'501</td><td>94.4</td><td>7'840</td></tr>
-<tr><td>L 8</td><td>26</td><td>5'140</td><td>2'623</td><td>94.4</td><td>8'224</td></tr>
-<tr><td>L 9</td><td>27</td><td>5'400</td><td>2'756</td><td>94.4</td><td>8'640</td></tr>
-<tr><td>L 10</td><td>28</td><td>5'670</td><td>2'894</td><td>94.4</td><td>9'072</td></tr>
-<tr><td>L 11</td><td>29</td><td>5'950</td><td>3'037</td><td>94.4</td><td>9'520</td></tr>
-<tr><td>L 12</td><td>30</td><td>6'250</td><td>3'190</td><td>94.4</td><td>10'000</td></tr>
-<tr><td>L 13</td><td>31</td><td>6'560</td><td>3'348</td><td>94.4</td><td>10'496</td></tr>
-<tr><td>L 14</td><td>32</td><td>6'890</td><td>3'517</td><td>94.4</td><td>11'024</td></tr>
-<tr><td>L 15</td><td>33</td><td>7'230</td><td>3'690</td><td>94.4</td><td>11'568</td></tr>
-<tr><td>L 16</td><td>34</td><td>7'590</td><td>3'874</td><td>94.4</td><td>12'144</td></tr>
+<tr><td>L 1</td><td>19</td><td>3'781</td><td>1'929</td><td>94.4</td><td>6'049</td></tr>
+<tr><td>L 2</td><td>20</td><td>3'966</td><td>2'024</td><td>94.4</td><td>6'345</td></tr>
+<tr><td>L 3</td><td>21</td><td>4'162</td><td>2'123</td><td>94.4</td><td>6'658</td></tr>
+<tr><td>L 4</td><td>22</td><td>4'368</td><td>2'229</td><td>94.4</td><td>6'988</td></tr>
+<tr><td>L 5</td><td>23</td><td>4'584</td><td>2'339</td><td>94.4</td><td>7'334</td></tr>
+<tr><td>L 6</td><td>24</td><td>4'811</td><td>2'455</td><td>94.4</td><td>7'697</td></tr>
+<tr><td>L 7</td><td>25</td><td>5'047</td><td>2'577</td><td>94.4</td><td>8'076</td></tr>
+<tr><td>L 8</td><td>26</td><td>5'295</td><td>2'702</td><td>94.4</td><td>8'471</td></tr>
+<tr><td>L 9</td><td>27</td><td>5'562</td><td>2'840</td><td>94.4</td><td>8'900</td></tr>
+<tr><td>L 10</td><td>28</td><td>5'841</td><td>2'981</td><td>94.4</td><td>9'345</td></tr>
+<tr><td>L 11</td><td>29</td><td>6'129</td><td>3'128</td><td>94.4</td><td>9'806</td></tr>
+<tr><td>L 12</td><td>30</td><td>6'438</td><td>3'285</td><td>94.4</td><td>10'300</td></tr>
+<tr><td>L 13</td><td>31</td><td>6'757</td><td>3'449</td><td>94.4</td><td>10'811</td></tr>
+<tr><td>L 14</td><td>32</td><td>7'097</td><td>3'622</td><td>94.4</td><td>11'355</td></tr>
+<tr><td>L 15</td><td>33</td><td>7'447</td><td>3'802</td><td>94.4</td><td>11'916</td></tr>
+<tr><td>L 16</td><td>34</td><td>7'818</td><td>3'990</td><td>94.4</td><td>12'509</td></tr>
 </table>
 
 <sup>2</sup> Parameter für die Berechnung der Lohnleitlinien:
 
 <table>
 <tr><th>Lohnband</th><th>Lebensalter (Startjahr)</th><th>Minimallohn je Monat (62.5%)</th><th>jährlicher Anstieg in den Jahren 1–6</th><th>jährlicher Anstieg in den Jahren 7–12</th><th>jährlicher Anstieg in den Jahren 13–18</th><th>jährlicher Anstieg in den Jahren 19–25</th></tr>
-<tr><td>L 1</td><td>19</td><td>3'670</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 2</td><td>19</td><td>3'850</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 3</td><td>20</td><td>4'040</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 4</td><td>20</td><td>4'240</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 5</td><td>21</td><td>4'450</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 6</td><td>21</td><td>4'670</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 7</td><td>22</td><td>4'900</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 8</td><td>22</td><td>5'140</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 9</td><td>22</td><td>5'400</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 10</td><td>22</td><td>5'670</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 11</td><td>22</td><td>5'950</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 12</td><td>25</td><td>6'250</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 13</td><td>25</td><td>6'560</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 14</td><td>25</td><td>6'890</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 15</td><td>28</td><td>7'230</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 16</td><td>28</td><td>7'590</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 1</td><td>19</td><td>3'781</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 2</td><td>19</td><td>3'966</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 3</td><td>20</td><td>4'162</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 4</td><td>20</td><td>4'368</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 5</td><td>21</td><td>4'584</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 6</td><td>21</td><td>4'811</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 7</td><td>22</td><td>5'047</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 8</td><td>22</td><td>5'295</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 9</td><td>22</td><td>5'562</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 10</td><td>22</td><td>5'841</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 11</td><td>22</td><td>6'129</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 12</td><td>25</td><td>6'438</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 13</td><td>25</td><td>6'757</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 14</td><td>25</td><td>7'097</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 15</td><td>28</td><td>7'447</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
+<tr><td>L 16</td><td>28</td><td>7'818</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
 </table>
 
 #### § A2-2
@@ -970,15 +970,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>19</td><td>3'780</td><td>3'670</td><td></td></tr>
-<tr><td>25</td><td>4'433</td><td>4'304</td><td>4'175</td></tr>
-<tr><td>31</td><td>4'941</td><td>4'797</td><td>4'654</td></tr>
-<tr><td>37</td><td>5'322</td><td>5'167</td><td>5'012</td></tr>
-<tr><td>44</td><td>5'534</td><td>5'373</td><td>5'212</td></tr>
-<tr><td>50</td><td>5'534</td><td>5'373</td><td>5'212</td></tr>
-<tr><td>55</td><td>5'534</td><td>5'375</td><td>5'212</td></tr>
-<tr><td>60</td><td>5'534</td><td>5'375</td><td>5'212</td></tr>
-<tr><td>65</td><td>5'534</td><td>5'375</td><td>5'212</td></tr>
+<tr><td>19</td><td>3'894</td><td>3'781</td><td></td></tr>
+<tr><td>25</td><td>4'567</td><td>4'434</td><td>4'301</td></tr>
+<tr><td>31</td><td>5'091</td><td>4'943</td><td>4'794</td></tr>
+<tr><td>37</td><td>5'483</td><td>5'324</td><td>5'164</td></tr>
+<tr><td>44</td><td>5'701</td><td>5'535</td><td>5'369</td></tr>
+<tr><td>50</td><td>5'701</td><td>5'535</td><td>5'369</td></tr>
+<tr><td>55</td><td>5'701</td><td>5'535</td><td>5'369</td></tr>
+<tr><td>60</td><td>5'701</td><td>5'535</td><td>5'369</td></tr>
+<tr><td>65</td><td>5'701</td><td>5'535</td><td>5'369</td></tr>
 </table>
 
 #### § A2-3
@@ -991,15 +991,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>19</td><td>3'966</td><td>3'850</td><td></td></tr>
-<tr><td>25</td><td>4'651</td><td>4'515</td><td>4'380</td></tr>
-<tr><td>31</td><td>5'184</td><td>5'033</td><td>4'882</td></tr>
-<tr><td>37</td><td>5'583</td><td>5'421</td><td>5'258</td></tr>
-<tr><td>44</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-<tr><td>50</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-<tr><td>55</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-<tr><td>60</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-<tr><td>65</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
+<tr><td>19</td><td>4'085</td><td>3'966</td><td></td></tr>
+<tr><td>25</td><td>4'791</td><td>4'651</td><td>4'512</td></tr>
+<tr><td>31</td><td>5'340</td><td>5'184</td><td>5'029</td></tr>
+<tr><td>37</td><td>5'752</td><td>5'584</td><td>5'417</td></tr>
+<tr><td>44</td><td>5'980</td><td>5'806</td><td>5'632</td></tr>
+<tr><td>50</td><td>5'980</td><td>5'806</td><td>5'632</td></tr>
+<tr><td>55</td><td>5'980</td><td>5'806</td><td>5'632</td></tr>
+<tr><td>60</td><td>5'980</td><td>5'806</td><td>5'632</td></tr>
+<tr><td>65</td><td>5'980</td><td>5'806</td><td>5'632</td></tr>
 </table>
 
 #### § A2-4
@@ -1012,15 +1012,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>20</td><td>4'161</td><td>4'040</td><td></td></tr>
-<tr><td>26</td><td>4'880</td><td>4'738</td><td>4'596</td></tr>
-<tr><td>32</td><td>5'440</td><td>5'281</td><td>5'123</td></tr>
-<tr><td>38</td><td>5'859</td><td>5'688</td><td>5'518</td></tr>
-<tr><td>45</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-<tr><td>50</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-<tr><td>55</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-<tr><td>60</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-<tr><td>65</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
+<tr><td>20</td><td>4'287</td><td>4'162</td><td></td></tr>
+<tr><td>26</td><td>5'028</td><td>4'881</td><td>4'735</td></tr>
+<tr><td>32</td><td>5'604</td><td>5'441</td><td>5'277</td></tr>
+<tr><td>38</td><td>6'036</td><td>5'860</td><td>5'684</td></tr>
+<tr><td>45</td><td>6'276</td><td>6'093</td><td>5'910</td></tr>
+<tr><td>50</td><td>6'276</td><td>6'093</td><td>5'910</td></tr>
+<tr><td>55</td><td>6'276</td><td>6'093</td><td>5'910</td></tr>
+<tr><td>60</td><td>6'276</td><td>6'093</td><td>5'910</td></tr>
+<tr><td>65</td><td>6'276</td><td>6'093</td><td>5'910</td></tr>
 </table>
 
 #### § A2-5
@@ -1033,15 +1033,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>20</td><td>4'367</td><td>4'240</td><td></td></tr>
-<tr><td>26</td><td>5'122</td><td>4'973</td><td>4'823</td></tr>
-<tr><td>32</td><td>5'709</td><td>5'543</td><td>5'376</td></tr>
-<tr><td>38</td><td>6'149</td><td>5'970</td><td>5'791</td></tr>
-<tr><td>45</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-<tr><td>50</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-<tr><td>55</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-<tr><td>60</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-<tr><td>65</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
+<tr><td>20</td><td>4'499</td><td>4'368</td><td></td></tr>
+<tr><td>26</td><td>5'276</td><td>5'123</td><td>4'969</td></tr>
+<tr><td>32</td><td>5'881</td><td>5'710</td><td>5'539</td></tr>
+<tr><td>38</td><td>6'335</td><td>6'150</td><td>5'966</td></tr>
+<tr><td>45</td><td>6'587</td><td>6'395</td><td>6'203</td></tr>
+<tr><td>50</td><td>6'587</td><td>6'395</td><td>6'203</td></tr>
+<tr><td>55</td><td>6'587</td><td>6'395</td><td>6'203</td></tr>
+<tr><td>60</td><td>6'587</td><td>6'395</td><td>6'203</td></tr>
+<tr><td>65</td><td>6'587</td><td>6'395</td><td>6'203</td></tr>
 </table>
 
 #### § A2-6
@@ -1054,15 +1054,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>21</td><td>4'584</td><td>4'450</td><td></td></tr>
-<tr><td>27</td><td>5'376</td><td>5'219</td><td>5'062</td></tr>
-<tr><td>33</td><td>5'992</td><td>5'817</td><td>5'643</td></tr>
-<tr><td>39</td><td>6'454</td><td>6'266</td><td>6'078</td></tr>
-<tr><td>46</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-<tr><td>50</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-<tr><td>55</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-<tr><td>60</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-<tr><td>65</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
+<tr><td>21</td><td>4'722</td><td>4'584</td><td></td></tr>
+<tr><td>27</td><td>5'537</td><td>5'376</td><td>5'215</td></tr>
+<tr><td>33</td><td>6'172</td><td>5'992</td><td>5'812</td></tr>
+<tr><td>39</td><td>6'648</td><td>6'454</td><td>6'261</td></tr>
+<tr><td>46</td><td>6'912</td><td>6'711</td><td>6'510</td></tr>
+<tr><td>50</td><td>6'912</td><td>6'711</td><td>6'510</td></tr>
+<tr><td>55</td><td>6'912</td><td>6'711</td><td>6'510</td></tr>
+<tr><td>60</td><td>6'912</td><td>6'711</td><td>6'510</td></tr>
+<tr><td>65</td><td>6'912</td><td>6'711</td><td>6'510</td></tr>
 </table>
 
 #### § A2-7
@@ -1075,15 +1075,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>21</td><td>4'810</td><td>4'670</td><td></td></tr>
-<tr><td>27</td><td>5'641</td><td>5'477</td><td>5'313</td></tr>
-<tr><td>33</td><td>6'288</td><td>6'105</td><td>5'921</td></tr>
-<tr><td>39</td><td>6'773</td><td>6'575</td><td>6'378</td></tr>
-<tr><td>46</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-<tr><td>50</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-<tr><td>55</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-<tr><td>60</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-<tr><td>65</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
+<tr><td>21</td><td>4'955</td><td>4'811</td><td></td></tr>
+<tr><td>27</td><td>5'812</td><td>5'642</td><td>5'473</td></tr>
+<tr><td>33</td><td>6'478</td><td>6'289</td><td>6'100</td></tr>
+<tr><td>39</td><td>6'977</td><td>6'774</td><td>6'571</td></tr>
+<tr><td>46</td><td>7'255</td><td>7'043</td><td>6'832</td></tr>
+<tr><td>50</td><td>7'255</td><td>7'043</td><td>6'832</td></tr>
+<tr><td>55</td><td>7'255</td><td>7'043</td><td>6'832</td></tr>
+<tr><td>60</td><td>7'255</td><td>7'043</td><td>6'832</td></tr>
+<tr><td>65</td><td>7'255</td><td>7'043</td><td>6'832</td></tr>
 </table>
 
 #### § A2-8
@@ -1096,15 +1096,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>5'047</td><td>4'900</td><td></td></tr>
-<tr><td>28</td><td>5'919</td><td>5'747</td><td>5'574</td></tr>
-<tr><td>34</td><td>6'597</td><td>6'405</td><td>6'213</td></tr>
-<tr><td>40</td><td>7'106</td><td>6'899</td><td>6'692</td></tr>
-<tr><td>47</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-<tr><td>50</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-<tr><td>55</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-<tr><td>60</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-<tr><td>65</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
+<tr><td>22</td><td>5'198</td><td>5'047</td><td></td></tr>
+<tr><td>28</td><td>6'097</td><td>5'919</td><td>5'742</td></tr>
+<tr><td>34</td><td>6'795</td><td>6'597</td><td>6'400</td></tr>
+<tr><td>40</td><td>7'319</td><td>7'106</td><td>6'893</td></tr>
+<tr><td>47</td><td>7'610</td><td>7'389</td><td>7'167</td></tr>
+<tr><td>50</td><td>7'610</td><td>7'389</td><td>7'167</td></tr>
+<tr><td>55</td><td>7'610</td><td>7'389</td><td>7'167</td></tr>
+<tr><td>60</td><td>7'610</td><td>7'389</td><td>7'167</td></tr>
+<tr><td>65</td><td>7'610</td><td>7'389</td><td>7'167</td></tr>
 </table>
 
 #### § A2-9
@@ -1117,15 +1117,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>5'294</td><td>5'140</td><td></td></tr>
-<tr><td>28</td><td>6'209</td><td>6'028</td><td>5'847</td></tr>
-<tr><td>34</td><td>6'921</td><td>6'719</td><td>6'517</td></tr>
-<tr><td>40</td><td>7'454</td><td>7'237</td><td>7'020</td></tr>
-<tr><td>47</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-<tr><td>50</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-<tr><td>55</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-<tr><td>60</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-<tr><td>65</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
+<tr><td>22</td><td>5'454</td><td>5'295</td><td></td></tr>
+<tr><td>28</td><td>6'396</td><td>6'210</td><td>6'024</td></tr>
+<tr><td>34</td><td>7'129</td><td>6'922</td><td>6'714</td></tr>
+<tr><td>40</td><td>7'679</td><td>7'455</td><td>7'232</td></tr>
+<tr><td>47</td><td>7'984</td><td>7'752</td><td>7'519</td></tr>
+<tr><td>50</td><td>7'984</td><td>7'752</td><td>7'519</td></tr>
+<tr><td>55</td><td>7'984</td><td>7'752</td><td>7'519</td></tr>
+<tr><td>60</td><td>7'984</td><td>7'752</td><td>7'519</td></tr>
+<tr><td>65</td><td>7'984</td><td>7'752</td><td>7'519</td></tr>
 </table>
 
 #### § A2-10
@@ -1138,15 +1138,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>5'562</td><td>5'400</td><td></td></tr>
-<tr><td>28</td><td>6'523</td><td>6'333</td><td>6'143</td></tr>
-<tr><td>34</td><td>7'271</td><td>7'059</td><td>6'847</td></tr>
-<tr><td>40</td><td>7'831</td><td>7'603</td><td>7'375</td></tr>
-<tr><td>47</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-<tr><td>50</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-<tr><td>55</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-<tr><td>60</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-<tr><td>65</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
+<tr><td>22</td><td>5'729</td><td>5'562</td><td></td></tr>
+<tr><td>28</td><td>6'719</td><td>6'523</td><td>6'327</td></tr>
+<tr><td>34</td><td>7'489</td><td>7'271</td><td>7'053</td></tr>
+<tr><td>40</td><td>8'066</td><td>7'831</td><td>7'596</td></tr>
+<tr><td>47</td><td>8'387</td><td>8'143</td><td>7'898</td></tr>
+<tr><td>50</td><td>8'387</td><td>8'143</td><td>7'898</td></tr>
+<tr><td>55</td><td>8'387</td><td>8'143</td><td>7'898</td></tr>
+<tr><td>60</td><td>8'387</td><td>8'143</td><td>7'898</td></tr>
+<tr><td>65</td><td>8'387</td><td>8'143</td><td>7'898</td></tr>
 </table>
 
 #### § A2-11
@@ -1159,15 +1159,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>5'840</td><td>5'670</td><td></td></tr>
-<tr><td>28</td><td>6'849</td><td>6'650</td><td>6'450</td></tr>
-<tr><td>34</td><td>7'634</td><td>7'412</td><td>7'189</td></tr>
-<tr><td>40</td><td>8'223</td><td>7'983</td><td>7'744</td></tr>
-<tr><td>47</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-<tr><td>50</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-<tr><td>55</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-<tr><td>60</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-<tr><td>65</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
+<tr><td>22</td><td>6'016</td><td>5'841</td><td></td></tr>
+<tr><td>28</td><td>7'056</td><td>6'850</td><td>6'645</td></tr>
+<tr><td>34</td><td>7'864</td><td>7'635</td><td>7'406</td></tr>
+<tr><td>40</td><td>8'471</td><td>8'224</td><td>7'977</td></tr>
+<tr><td>47</td><td>8'808</td><td>8'551</td><td>8'295</td></tr>
+<tr><td>50</td><td>8'808</td><td>8'551</td><td>8'295</td></tr>
+<tr><td>55</td><td>8'808</td><td>8'551</td><td>8'295</td></tr>
+<tr><td>60</td><td>8'808</td><td>8'551</td><td>8'295</td></tr>
+<tr><td>65</td><td>8'808</td><td>8'551</td><td>8'295</td></tr>
 </table>
 
 #### § A2-12
@@ -1180,15 +1180,15 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>6'129</td><td>5'950</td><td></td></tr>
-<tr><td>28</td><td>7'188</td><td>6'978</td><td>6'769</td></tr>
-<tr><td>34</td><td>8'011</td><td>7'778</td><td>7'545</td></tr>
-<tr><td>40</td><td>8'629</td><td>8'378</td><td>8'126</td></tr>
-<tr><td>47</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-<tr><td>50</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-<tr><td>55</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-<tr><td>60</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-<tr><td>65</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
+<tr><td>22</td><td>6'313</td><td>6'129</td><td></td></tr>
+<tr><td>28</td><td>7'404</td><td>7'188</td><td>6'972</td></tr>
+<tr><td>34</td><td>8'252</td><td>8'012</td><td>7'771</td></tr>
+<tr><td>40</td><td>8'889</td><td>8'630</td><td>8'371</td></tr>
+<tr><td>47</td><td>9'242</td><td>8'973</td><td>8'704</td></tr>
+<tr><td>50</td><td>9'242</td><td>8'973</td><td>8'704</td></tr>
+<tr><td>55</td><td>9'242</td><td>8'973</td><td>8'704</td></tr>
+<tr><td>60</td><td>9'242</td><td>8'973</td><td>8'704</td></tr>
+<tr><td>65</td><td>9'242</td><td>8'973</td><td>8'704</td></tr>
 </table>
 
 #### § A2-13
@@ -1201,14 +1201,14 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>25</td><td>6'438</td><td>6'250</td><td></td></tr>
-<tr><td>31</td><td>7'550</td><td>7'330</td><td>7'110</td></tr>
-<tr><td>37</td><td>8'415</td><td>8'170</td><td>7'925</td></tr>
-<tr><td>43</td><td>9'064</td><td>8'800</td><td>8'536</td></tr>
-<tr><td>50</td><td>9'425</td><td>9'150</td><td>8'876</td></tr>
-<tr><td>55</td><td>9'425</td><td>9'150</td><td>8'876</td></tr>
-<tr><td>60</td><td>9'425</td><td>9'150</td><td>8'876</td></tr>
-<tr><td>65</td><td>9'425</td><td>9'150</td><td>8'876</td></tr>
+<tr><td>25</td><td>6'631</td><td>6'438</td><td></td></tr>
+<tr><td>31</td><td>7'777</td><td>7'550</td><td>7'324</td></tr>
+<tr><td>37</td><td>8'668</td><td>8'416</td><td>8'163</td></tr>
+<tr><td>43</td><td>9'337</td><td>9'065</td><td>8'793</td></tr>
+<tr><td>50</td><td>9'708</td><td>9'425</td><td>9'142</td></tr>
+<tr><td>55</td><td>9'708</td><td>9'425</td><td>9'142</td></tr>
+<tr><td>60</td><td>9'708</td><td>9'425</td><td>9'142</td></tr>
+<tr><td>65</td><td>9'708</td><td>9'425</td><td>9'142</td></tr>
 </table>
 
 #### § A2-14
@@ -1221,14 +1221,14 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>25</td><td>6'757</td><td>6'560</td><td></td></tr>
-<tr><td>31</td><td>7'924</td><td>7'694</td><td>7'463</td></tr>
-<tr><td>37</td><td>8'832</td><td>8'575</td><td>8'318</td></tr>
-<tr><td>43</td><td>9'514</td><td>9'236</td><td>8'959</td></tr>
-<tr><td>50</td><td>9'892</td><td>9'604</td><td>9'316</td></tr>
-<tr><td>55</td><td>9'892</td><td>9'604</td><td>9'316</td></tr>
-<tr><td>60</td><td>9'892</td><td>9'604</td><td>9'316</td></tr>
-<tr><td>65</td><td>9'892</td><td>9'604</td><td>9'316</td></tr>
+<tr><td>25</td><td>6'960</td><td>6'757</td><td></td></tr>
+<tr><td>31</td><td>8'162</td><td>7'925</td><td>7'687</td></tr>
+<tr><td>37</td><td>9'098</td><td>8'833</td><td>8'568</td></tr>
+<tr><td>43</td><td>9'799</td><td>9'514</td><td>9'228</td></tr>
+<tr><td>50</td><td>10'189</td><td>9'892</td><td>9'595</td></tr>
+<tr><td>55</td><td>10'189</td><td>9'892</td><td>9'595</td></tr>
+<tr><td>60</td><td>10'189</td><td>9'892</td><td>9'595</td></tr>
+<tr><td>65</td><td>10'189</td><td>9'892</td><td>9'595</td></tr>
 </table>
 
 #### § A2-15
@@ -1241,14 +1241,14 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>25</td><td>7'097</td><td>6'890</td><td></td></tr>
-<tr><td>31</td><td>8'323</td><td>8'081</td><td>7'838</td></tr>
-<tr><td>37</td><td>9'277</td><td>9'007</td><td>8'736</td></tr>
-<tr><td>43</td><td>9'992</td><td>9'701</td><td>9'410</td></tr>
-<tr><td>50</td><td>10'390</td><td>10'087</td><td>9'784</td></tr>
-<tr><td>55</td><td>10'390</td><td>10'087</td><td>9'784</td></tr>
-<tr><td>60</td><td>10'390</td><td>10'087</td><td>9'784</td></tr>
-<tr><td>65</td><td>10'390</td><td>10'087</td><td>9'784</td></tr>
+<tr><td>25</td><td>7'310</td><td>7'097</td><td></td></tr>
+<tr><td>31</td><td>8'573</td><td>8'323</td><td>8'074</td></tr>
+<tr><td>37</td><td>9'556</td><td>9'277</td><td>8'999</td></tr>
+<tr><td>43</td><td>10'292</td><td>9'993</td><td>9'693</td></tr>
+<tr><td>50</td><td>10'702</td><td>10'390</td><td>10'078</td></tr>
+<tr><td>55</td><td>10'702</td><td>10'390</td><td>10'078</td></tr>
+<tr><td>60</td><td>10'702</td><td>10'390</td><td>10'078</td></tr>
+<tr><td>65</td><td>10'702</td><td>10'390</td><td>10'078</td></tr>
 </table>
 
 #### § A2-16
@@ -1261,14 +1261,14 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>28</td><td>7'447</td><td>7'230</td><td></td></tr>
-<tr><td>34</td><td>8'734</td><td>8'479</td><td>8'225</td></tr>
-<tr><td>40</td><td>9'735</td><td>9'451</td><td>9'168</td></tr>
-<tr><td>46</td><td>10'485</td><td>10'180</td><td>9'874</td></tr>
-<tr><td>53</td><td>10'902</td><td>10'585</td><td>10'267</td></tr>
-<tr><td>55</td><td>10'902</td><td>10'585</td><td>10'267</td></tr>
-<tr><td>60</td><td>10'902</td><td>10'585</td><td>10'267</td></tr>
-<tr><td>65</td><td>10'902</td><td>10'585</td><td>10'267</td></tr>
+<tr><td>28</td><td>7'670</td><td>7'447</td><td></td></tr>
+<tr><td>34</td><td>8'996</td><td>8'734</td><td>8'472</td></tr>
+<tr><td>40</td><td>10'027</td><td>9'735</td><td>9'443</td></tr>
+<tr><td>46</td><td>10'800</td><td>10'485</td><td>10'171</td></tr>
+<tr><td>53</td><td>11'229</td><td>10'902</td><td>10'575</td></tr>
+<tr><td>55</td><td>11'229</td><td>10'902</td><td>10'575</td></tr>
+<tr><td>60</td><td>11'229</td><td>10'902</td><td>10'575</td></tr>
+<tr><td>65</td><td>11'229</td><td>10'902</td><td>10'575</td></tr>
 </table>
 
 #### § A2-17
@@ -1281,14 +1281,14 @@ beschliesst:
 
 <table>
 <tr><th>Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>28</td><td>7'818</td><td>7'590</td><td></td></tr>
-<tr><td>34</td><td>9'169</td><td>8'902</td><td>8'635</td></tr>
-<tr><td>40</td><td>10'219</td><td>9'922</td><td>9'624</td></tr>
-<tr><td>46</td><td>11'007</td><td>10'687</td><td>10'366</td></tr>
-<tr><td>53</td><td>11'445</td><td>11'112</td><td>10'778</td></tr>
-<tr><td>55</td><td>11'445</td><td>11'112</td><td>10'778</td></tr>
-<tr><td>60</td><td>11'445</td><td>11'112</td><td>10'778</td></tr>
-<tr><td>65</td><td>11'445</td><td>11'112</td><td>10'778</td></tr>
+<tr><td>28</td><td>8'053</td><td>7'818</td><td></td></tr>
+<tr><td>34</td><td>9'444</td><td>9'169</td><td>8'894</td></tr>
+<tr><td>40</td><td>10'526</td><td>10'220</td><td>9'913</td></tr>
+<tr><td>46</td><td>11'338</td><td>11'008</td><td>10'678</td></tr>
+<tr><td>53</td><td>11'789</td><td>11'446</td><td>11'102</td></tr>
+<tr><td>55</td><td>11'789</td><td>11'446</td><td>11'102</td></tr>
+<tr><td>60</td><td>11'789</td><td>11'446</td><td>11'102</td></tr>
+<tr><td>65</td><td>11'789</td><td>11'446</td><td>11'102</td></tr>
 </table>
 
 ## A3 Anhang 3:
