@@ -4,11 +4,11 @@ title: Ordinanza del 15 novembre 2017 sulla sorveglianza della corrispondenza po
 short: OSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-32-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20230901/it"
 
 (OSCPT)
 
-del 15 novembre 2017 (Stato 1° settembre 2023)
+del 15 novembre 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -37,7 +37,7 @@ ordina:
 
 **Oggetto e campo d’applicazione**
 
-<sup>1</sup> La presente ordinanza disciplina l’organizzazione e la procedura applicabili alla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, come pure alla fornitura di informazioni sui servizi postali e di telecomunicazione.
+<sup>1</sup> La presente ordinanza disciplina l’organizzazione e la procedura applicabili alla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni nonché alla fornitura di informazioni sui servizi postali e di telecomunicazione.[^1-1]
 
 <sup>2</sup>
 
@@ -52,10 +52,13 @@ Essa si applica:
 - g. al Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (Servizio SCPT);
 - h. ai fornitori di servizi postali (FSP);
 - i. ai fornitori di servizi di telecomunicazione (FST);
-- j. ai fornitori di servizi che si fondano su servizi di telecomunicazione e permettono una comunicazione unilaterale o multilaterale (fornitori di servizi di comunicazione derivati);
+- j.[^1-2] ai fornitori di servizi di comunicazione derivati (FSCD);
 - k. ai gestori di reti di telecomunicazione interne;
 - l. alle persone che mettono a disposizione di terzi il loro accesso a una rete pubblica di telecomunicazione;
 - m. ai rivenditori professionali di carte o di altri mezzi analoghi che consentono di accedere a una rete pubblica di telecomunicazione.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 2
 
@@ -67,17 +70,15 @@ I termini e le abbreviazioni utilizzati nella presente ordinanza sono definiti n
 
 #### Art. 3
 
-**Richieste al Servizio SCPT**
+**Richieste al Servizio SCPT**[^3-1]
 
-<sup>1</sup>
+L’autorità che dispone la sorveglianza e quella d’approvazione usano uno dei canali seguenti per trasmettere al Servizio SCPT gli ordini di sorveglianza, le relative proroghe o revoche, le approvazioni e i diritti di accesso da concedere:
 
-L’autorità che dispone la sorveglianza usa uno dei canali seguenti per trasmettere al Servizio SCPT gli ordini di sorveglianza nonché le relative proroghe o revoche e per comunicargli i diritti di accesso da concedere:
+- a. un mezzo di trasmissione sicuro autorizzato dal DFGP;
+- b. una lettera, se per motivi tecnici non è disponibile un mezzo di trasmissione di cui alla lettera a; o
+- c. in casi urgenti il telefono, con trasmissione successiva, entro 24 ore, dell’ordine di sorveglianza come previsto nella lettera a o b.
 
-- a. un mezzo di trasmissione sicuro approvato dal Servizio SCPT;
-- b. la posta o il telefax se per motivi tecnici non è disponibile uno dei mezzi di trasmissione di cui alla lettera a; o
-- c. in casi urgenti il telefono, con trasmissione successiva dell’ordine di sorveglianza, entro 24 ore, come previsto nelle lettere a o b.
-
-<sup>2</sup> Il Servizio SCPT può sostituire il mezzo di trasmissione delle richieste di cui al capoverso 1 lettera a con un accesso in linea al sistema di trattamento del Servizio.
+[^3-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 4
 
@@ -88,6 +89,16 @@ L’autorità che dispone la sorveglianza usa uno dei canali seguenti per trasme
 <sup>2</sup> La persona obbligata a collaborare che, a seguito di problemi d’esercizio, è impossibilitata ad adempiere i propri obblighi in materia di sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni ne informa immediatamente il Servizio SCPT e motiva successivamente tale inadempienza per scritto. Il Servizio SCPT informa immediatamente le persone obbligate a collaborare se, a seguito di suoi problemi d’esercizio, la sorveglianza non può essere effettuata.
 
 <sup>3</sup> Indipendentemente dalla causa del problema, la persona obbligata a collaborare deve memorizzare temporaneamente e successivamente consegnare senza indugio almeno i metadati della sorveglianza in tempo reale non trasmessi. Se i metadati della sorveglianza in tempo reale non sono più disponibili o sono incompleti, la persona obbligata a collaborare deve consegnare senza indugio i corrispondenti metadati della sorveglianza retroattiva conformemente alle istruzioni impartite dal Servizio SCPT.
+
+#### Art. 4a
+
+**Inizio e fine della sorveglianza retroattiva**[^4a-1]
+
+<sup>1</sup> La sorveglianza retroattiva inizia al più presto sei mesi prima del giorno di ricezione dell’ordine da parte del Servizio SCPT; il numero del primo giorno della sorveglianza corrisponde a quello del giorno di ricezione dell’ordine. In mancanza del giorno corrispondente nel mese di inizio della sorveglianza, quest’ultima inizia non prima dell’ultimo giorno di detto mese.
+
+<sup>2</sup> La sorveglianza retroattiva finisce al più tardi il giorno di ricezione dell’ordine da parte del Servizio SCPT.
+
+[^4a-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 5
 
@@ -163,24 +174,25 @@ Il fascicolo comprende tutti i documenti relativi al caso, in particolare:
 
 #### Art. 11
 
-**Prestazioni al di fuori degli orari d’ufficio ordinari**
+**Prestazioni al di fuori degli orari d’ufficio ordinari e nei giorni festivi**[^11-1]
 
 <sup>1</sup>
 
-Al di fuori degli orari d’ufficio ordinari e nei giorni festivi il Servizio SCPT fornisce un servizio di picchetto per le seguenti prestazioni:
+Al di fuori degli orari d’ufficio ordinari e nei giorni festivi, il Servizio SCPT, i FST, eccettuati quelli con obblighi di sorveglianza ridotti (art. 51), e i FSCD con obblighi di sorveglianza supplementari (art. 52) forniscono un servizio di picchetto durante il quale sono sempre raggiungibili per riparare eventuali guasti e, nella misura in cui sono tenuti a farlo secondo gli articoli 18 e 50, garantire le prestazioni seguenti:
 
-- a. la trasmissione delle domande di informazioni secondo gli articoli 35–43;
-- b. la trasmissione dei mandati di sorveglianza in tempo reale secondo gli articoli 54–59;
-- c. la trasmissione degli incarichi di esecuzione della sorveglianza retroattiva dichiarata urgente secondo gli articoli 60–63, 65 e 66;
-- d. la trasmissione degli incarichi di ricerca d’emergenza e ricerca di condannati secondo gli articoli 67 e 68, eccettuata l’analisi della copertura di rete in vista di una ricerca per zona di copertura dell’antenna secondo l’articolo 64;
-- d<sup>bis</sup>.[^11-1] la trasmissione dei mandati di localizzazione di potenziali terroristi tramite telefonia mobile secondo l’articolo 68*a*;
-- e. la riparazione di guasti.
+- a. la fornitura di informazioni secondo gli articoli 35–43 e 48*a*–48*c*, nonché secondo l’articolo 27 in combinato disposto con gli articoli 35, 40, 42 e 43;
+- b. l’attivazione di sorveglianze in tempo reale secondo gli articoli 54–59;
+- c. l’esecuzione di sorveglianze retroattive secondo gli articoli 60–63, 65 e 66 dichiarate urgenti;
+- d. l’esecuzione di ricerche d’emergenza secondo l’articolo 67 e di ricerche di condannati secondo l’articolo 68, eccettuata l’analisi della copertura di rete in vista di una ricerca per zona di copertura dell’antenna secondo l’articolo 64;
+- e. l’attribuzione di mandati di localizzazione di potenziali terroristi tramite telefonia mobile secondo l’articolo 68*a*.
 
-<sup>2</sup> I FST, esclusi quelli con obblighi di sorveglianza ridotti ai sensi dell’articolo 51, e i fornitori di servizi di comunicazione derivati con obblighi di sorveglianza supplementari ai sensi dell’articolo 52 devono essere in grado di assistere il Servizio SCPT in modo tale da permettergli di eseguire in qualsiasi momento le prestazioni di cui al capoverso 1. Devono essere raggiungibili in qualsiasi momento per il Servizio SCPT.
+<sup>2</sup> Le autorità annunciano per telefono le prestazioni di cui al capoverso 1 al servizio di picchetto del Servizio SCPT, a meno che le informazioni siano fornite in forma automatizzata tramite l’interfaccia di consultazione del sistema di trattamento.
 
-<sup>3</sup> Gli ordini di sorveglianze speciali e le richieste di informazioni speciali (art. 25) non sono né accettati né trattati al di fuori degli orari d’ufficio ordinari.
+<sup>3</sup> Le domande di informazioni particolari e gli ordini di sorveglianze particolari (art. 25) non sono né accettati né trattati al di fuori degli orari d’ufficio ordinari e nei giorni festivi.
 
-[^11-1]: Introdotta dal n. I 12 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+<sup>4</sup> I FST con obblighi di sorveglianza ridotti (art. 51), i FSCD e i FSCD con obblighi di informazione supplementari (art. 22) che dispongono già di un servizio di picchetto interno comunicano al Servizio SCPT i dati di contatto aggiornati del proprio servizio di picchetto. In casi di particolare urgenza, il Servizio SCPT è autorizzato a contattarli attraverso questo canale anche al di fuori degli orari d’ufficio ordinari e nei giorni festivi.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### Sezione 4: Statistiche
 
@@ -284,7 +296,7 @@ Possono essere ordinati i tipi di sorveglianza seguenti:
 
 **Domande di informazioni**
 
-<sup>1</sup> Le domande di informazioni delle autorità di cui all’articolo 15 LSCPT rivolte ai FST, ai fornitori di servizi di comunicazione derivati e ai gestori di reti di telecomunicazione interne, nonché le informazioni fornite da questi alle autorità sono trasmesse con procedura di richiamo o mediante le interfacce tramite il sistema di trattamento secondo l’OST-SCPT[^17-1].
+<sup>1</sup> Le domande di informazioni delle autorità di cui all’articolo 15 LSCPT rivolte ai FST, ai FSCD [^17-1]e ai gestori di reti di telecomunicazione interne, nonché le informazioni fornite da questi alle autorità sono trasmesse con procedura di richiamo o mediante le interfacce tramite il sistema di trattamento secondo l’OST-SCPT[^17-2].
 
 <sup>2</sup> Se la procedura di richiamo tramite il sistema di trattamento non è disponibile per motivi tecnici, le domande di informazioni e le informazioni fornite alle autorità possono essere inoltrate al Servizio SCPT per posta o telefax.
 
@@ -292,90 +304,195 @@ Possono essere ordinati i tipi di sorveglianza seguenti:
 
 <sup>4</sup> Nella domanda di informazioni devono essere indicati, oltre ai dati previsti per i singoli tipi di informazione, il numero massimo di pacchetti di dati da trasmettere e, se disponibili, i numeri di riferimento e la denominazione del caso cui si riferisce la sorveglianza.
 
-[^17-1]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^17-1]: Nuova espr. giusta il n. I cpv. 2 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^17-2]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
 
 #### Art. 18
 
-**Obblighi per la trasmissione di informazioni**
+**Obblighi per la trasmissione di informazioni da parte di FST e di FSCD con obblighi supplementari**[^18-1]
 
-<sup>1</sup> I FST e i fornitori di servizi di comunicazione derivati con obblighi di informazione supplementari ai sensi dell’articolo 22 devono essere in grado di fornire le informazioni di cui agli articoli 35–37 e 40–48 nonché all’articolo 27 in combinato disposto con gli articoli 35, 40, 42 e 43 riguardanti i servizi da loro offerti. Possono ricorrere a terzi.
+<sup>1</sup>
 
-<sup>2</sup> Forniscono le informazioni di cui agli articoli 35–37 e 40–42 nonché all’articolo 27 in combinato disposto con gli articoli 35, 40 e 42 in modo automatizzato tramite l’interfaccia di consultazione del sistema di trattamento del Servizio SCPT. Le domande di informazioni di cui agli articoli 43–48 nonché all’articolo 27 in combinato disposto con l’articolo 43 possono anche essere fornite manualmente.
+I seguenti fornitori forniscono le informazioni tramite l’interfaccia di consultazione del sistema di trattamento del Servizio SCPT:
 
-<sup>3</sup> I FST con obblighi di sorveglianza ridotti ai sensi dell’articolo 51 possono fornire informazioni di tutti i tipi anche per scritto, senza usare il sistema di trattamento.
+- a. i FST, eccettuati quelli con obblighi di sorveglianza ridotti (art. 51);
+- b. i FSCD con obblighi di informazione supplementari (art. 22);
+- c. i FSCD con obblighi di sorveglianza supplementari (art. 52).
 
-<sup>4</sup> I FST, eccetto quelli con obblighi di sorveglianza ridotti ai sensi dell’articolo 51, e i fornitori di servizi di comunicazione derivati con obblighi di sorveglianza supplementari ai sensi dell’articolo 52 devono essere in grado di fornire le informazioni di cui agli articoli 38 e 39 riguardanti i servizi da loro offerti mediante l’interfaccia di consultazione del sistema di trattamento del Servizio SCPT. Possono ricorrere a terzi.
+<sup>2</sup> I FST, eccettuati quelli con obblighi di sorveglianza ridotti, forniscono in forma automatizzata le informazioni di cui agli articoli 35–37, 40, 41 e 48*b* nonché all’articolo 27 in combinato disposto con gli articoli 35 e 40. Forniscono le altre informazioni standardizzate manualmente o, se lo desiderano e d’accordo con il Servizio SCPT, in forma automatizzata.
 
-<sup>5</sup> I fornitori di servizi di comunicazione derivati senza obblighi di informazione e di sorveglianza supplementari e i gestori di reti di telecomunicazione interne non sono obbligati a fornire i tipi di informazioni di cui agli articoli 35–48 nonché all’articolo 27 in combinato disposto con gli articoli 35, 40, 42 e 43. Trasmettono i dati disponibili mediante il sistema di trattamento o in altro modo per scritto.
+<sup>3</sup>
 
-<sup>6</sup> Se il numero di pacchetti di dati trovati supera il valore massimo indicato nella domanda, il fornitore ne comunica soltanto il numero.
+I FST con obblighi di sorveglianza ridotti sono esentati dal fornire le informazioni di cui all’articolo 48*b*. Forniscono le informazioni standardizzate come segue:
+
+- a. per scritto, al di fuori del sistema di trattamento, tramite un mezzo di trasmissione sicuro autorizzato dal DFGP;
+- b. manualmente, tramite l’interfaccia di consultazione del sistema di trattamento; o
+- c. in forma automatizzata, se lo desiderano e d’accordo con il Servizio SCPT.
+
+<sup>4</sup> I FSCD con obblighi supplementari ai sensi dell’articolo 22 o 52 forniscono in forma automatizzata le informazioni di cui agli articoli 35–37, 40 e 41 nonché all’articolo 27 in combinato disposto con gli articoli 35 e 40. Sono esentati dal fornire le informazioni di cui agli articoli 48*a–*48*c*. Forniscono le altre informazioni standardizzate manualmente o, se lo desiderano e d’accordo con il Servizio SCPT, in forma automatizzata.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 18a
+
+**Obblighi per la trasmissione di informazioni da parte dei FSCD senza obblighi supplementari e dei gestori di reti di telecomunicazione interne**[^18a-1]
+
+<sup>1</sup> Nel fornire informazioni, i FSCD senza obblighi supplementari e i gestori di reti di telecomunicazione interne non sono tenuti a rispettare i tipi previsti dalla presente ordinanza.
+
+<sup>2</sup> Trasmettono i dati di cui dispongono per scritto al di fuori del sistema di trattamento tramite un mezzo di trasmissione sicuro autorizzato dal DFGP.
+
+<sup>3</sup> Se lo desiderano, possono trasmettere i dati tramite l’interfaccia di consultazione del sistema di trattamento del Servizio SCPT manualmente o, d’accordo con il Servizio SCPT, in forma automatizzata.
+
+[^18a-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 18b
+
+**Ricorso a terzi per fornire informazioni**[^18b-1]
+
+Le persone obbligate a collaborare possono ricorrere a terzi per fornire informazioni.
+
+[^18b-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 18c
+
+**Comunicazione del numero di pacchetti di dati al momento di fornire informazioni**[^18c-1]
+
+Se il numero di pacchetti di dati trovati supera il valore massimo indicato nella domanda, la persona obbligata a collaborare ne comunica soltanto il numero.
+
+[^18c-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 19
 
 **Identificazione degli utenti**
 
-<sup>1</sup> I FST, i fornitori di servizi di comunicazione derivati con obblighi di informazione supplementari ai sensi dell’articolo 22, i fornitori di servizi di comunicazione derivati con obblighi di sorveglianza supplementari ai sensi dell’articolo 52 e i rivenditori di cui all’articolo 2 lettera f LSCPT devono garantire l’identificazione degli utenti con mezzi adeguati.
+<sup>1</sup> I FST, i FSCD con obblighi di informazione supplementari ai sensi dell’articolo 22, i FSCD con obblighi di sorveglianza supplementari ai sensi dell’articolo 52 e i rivenditori di cui all’articolo 2 lettera f LSCPT devono garantire l’identificazione degli utenti con mezzi adeguati.
 
-<sup>2</sup> I FST devono garantire con mezzi adeguati l’identificazione di tutti gli utilizzatori finali dei punti di accesso WLAN pubblici gestiti professionalmente.
+<sup>2</sup> I FST devono garantire con mezzi adeguati l’identificazione di tutti gli utilizzatori finali dell’accesso WLAN[^19-1] pubblici gestiti professionalmente.
+
+[^19-1]: Nuova espr. giusta il n. I cpv. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 20
 
-**Registrazione dei dati degli utenti dei servizi di telefonia mobile**
+**Verifica dei dati degli utenti di servizi di telefonia mobile**[^20-1]
 
-<sup>1</sup> Alla consegna dei mezzi di accesso o alla prima attivazione del servizio, i FST e i rivenditori di cui all’articolo 2 lettera f LSCPT devono verificare l’identità degli utenti dei servizi di telefonia mobile sulla scorta di un passaporto, di una carta d’identità o di una carta di soggiorno ai sensi degli articoli 71 e 71*a* dell’ordinanza del 24 ottobre 2007[^20-1] sull’ammissione, il soggiorno e l’attività lucrativa. Una copia ben leggibile del documento d’identità deve essere conservata.
+<sup>1</sup> Per i servizi di telefonia mobile, il FST verifica*,* alla consegna dei mezzi di accesso o alla prima attivazione dei servizi, l’identità dell’utente conformemente agli articoli 20*a* e 20*b*.
 
-<sup>2</sup>
+<sup>2</sup> Tale obbligo non incombe al FST ma al rivenditore di cui all’articolo 2 lettera f LSCPT, nel caso in cui quest’ultimo esegua direttamente la consegna dei mezzi di accesso o la prima attivazione dei servizi.
 
-Per le persone fisiche devono essere rilevate le seguenti indicazioni:
+<sup>3</sup> Il FST verifica in modo adeguato che il rivenditore abbia registrato e identificato correttamente l’utente e abbia trasmesso al FST i dati forniti e la copia del documento d’identità presentato.
 
-- a. il cognome e il nome;
-- b. la data di nascita;
-- c. il tipo di documento, il numero del documento e il Paese o l’organizzazione di emissione;
-- d. l’indirizzo;
-- e. se nota, la professione;
-- f. la cittadinanza.
+[^20-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
-<sup>3</sup>
+#### Art. 20a
 
-Per le persone giuridiche devono essere rilevate le seguenti indicazioni:
-
-- a. il nome, la sede e i dati di contatto;
-- b. il numero d’identificazione delle imprese (IDI) secondo la legge federale del 18 giugno 2010[^20-2] sul numero d’identificazione delle imprese;
-- c. se disponibili, i cognomi e i nomi degli utenti dei servizi del fornitore.
-
-<sup>4</sup>
-
-Se il cliente non ha un abbonamento devono essere rilevate le seguenti indicazioni:
-
-- a. il momento della consegna dei mezzi di accesso;
-- b. il luogo di consegna (nome e indirizzo completo);
-- c. il nome della persona incaricata della consegna.
-
-[^20-1]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^20-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-
-#### Art. 21
-
-**Termini di conservazione**
-
-<sup>1</sup> I FST e i fornitori di servizi di comunicazione derivati con obblighi di informazione e di sorveglianza supplementari (art. 22 e 52) devono conservare ed essere in grado di trasmettere le indicazioni sui servizi di telecomunicazione e quelle ai fini dell’identificazione per l’intera durata della relazione commerciale e per sei mesi dopo il suo termine. I FST devono conservare i dati per l’identificazione ai sensi dell’articolo 19 capoverso 2 ed essere in grado di trasmetterli durante il periodo di validità dell’autorizzazione di accesso al punto di accesso WLAN pubblico e per sei mesi dopo la sua scadenza.
-
-<sup>2</sup>
-
-I FST, eccetto quelli con con obblighi di sorveglianza ridotti ai sensi dell’articolo 51, e i fornitori di servizi di comunicazione derivati con obblighi di sorveglianza supplementari ai sensi dell’articolo 52 devono conservare e trasmettere per sei mesi i seguenti dati per l’identificazione:
-
-- a. i metadati sugli identificativi dell’apparecchio effettivamente usati, per poter fornire le informazioni di cui agli articoli 36 capoverso 1 lettera d e 41 capoverso 1 lettera d; e
-- b. i metadati sull’attribuzione e la traduzione degli indirizzi IP e dei numeri di porta, per poter fornire le informazioni di cui agli articoli 37, 38 e 39.
-
-<sup>3</sup> I metadati di cui al capoverso 2 devono essere distrutti non appena il termine di conservazione è scaduto e nessun altro atto normativo prevede che debbano o possano essere conservati più a lungo.
-
-#### Art. 22
-
-**Fornitori di servizi di comunicazione derivati con obblighi di informazione supplementari**
+**Prova dell’identità di persone fisiche utenti di servizi di telefonia mobile**[^20a-1]
 
 <sup>1</sup>
 
-Il servizio SCPT dichiara che un fornitore di servizi di comunicazione derivati ha obblighi di informazione supplementari (art. 22 cpv. 4 LSCPT) se raggiunge uno dei valori seguenti:
+Per le persone fisiche utenti di servizi di telefonia mobile, la prova dell’identità deve essere fornita esibendo uno dei seguenti documenti valido il giorno del rilevamento:
+
+- a. un passaporto svizzero o straniero;
+- b. una carta d’identità svizzera o straniera; o
+- c. una carta di soggiorno per stranieri secondo gli articoli 71 e 71*a* dell’ordinanza del 24 ottobre 2007[^20a-2] sull’ammissione, il soggiorno e l’attività lucrativa.
+
+<sup>2</sup>
+
+Devono essere rilevati i seguenti dati dell’utente:
+
+- a.
+
+  in base al documento presentato:
+
+  - 1\. i cognomi e i nomi,
+  - 2\. la data di nascita,
+  - 3\. il tipo e il numero del documento, nonché il Paese o l’organizzazione di emissione,
+  - 4\. le cittadinanze;
+
+- b. l’indirizzo;
+- c. se nota, la professione.
+
+<sup>3</sup>
+
+Se il cliente non ha un abbonamento, devono essere inoltre rilevati i seguenti dati:
+
+- a. la data e l’ora della consegna dei mezzi di accesso o della prima attivazione dei servizi;
+- b. il nome e l’indirizzo completo del luogo di consegna o di attivazione;
+- c. i cognomi e i nomi della persona che effettua il rilevamento.
+
+<sup>4</sup> Il FST o, se del caso, il rivenditore deve allestire o far allestire una copia elettronica ben leggibile del documento originale presentato. Il rivenditore trasmette al FST entro tre giorni dal rilevamento i dati di cui ai capoversi 2 e 3 nonché la copia del documento.
+
+[^20a-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^20a-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+
+#### Art. 20b
+
+**Prova dell’identità di persone giuridiche utenti di servizi di telefonia mobile**[^20b-1]
+
+<sup>1</sup>
+
+Per le persone giuridiche utenti di servizi di telefonia mobile devono essere rilevati e verificati per mezzo di prove idonee i seguenti dati:
+
+- a. il nome, la sede e i dati di contatto;
+- b. il numero d’identificazione delle imprese (IDI) secondo la legge federale del 18 giugno 2010[^20b-2] sul numero d’identificazione delle imprese o il Legal Entity Identifier (LEI);
+- c. se disponibili, i cognomi e i nomi degli utenti dei servizi del fornitore.
+
+<sup>2</sup> Il rivenditore trasmette i dati al FST entro tre giorni dal rilevamento.
+
+<sup>3</sup> L’articolo 20*a* capoverso 3 si applica per analogia.
+
+[^20b-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^20b-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+
+#### Art. 20c
+
+**Consegna di mezzi di accesso e attivazione di servizi per il SIC e le autorità di polizia**[^20c-1]
+
+<sup>1</sup> Su richiesta del SIC o di un’autorità di polizia federale o cantonale, il Servizio SCPT funge da intermediario tra un FST e l’autorità in questione nella conclusione di un contratto concernente la consegna di mezzi di accesso e l’attivazione di servizi. Il contratto prevede che i dati di cui all’articolo 20*b* siano accessibili soltanto a una cerchia molto ristretta di persone degne di fiducia. D’accordo con il Servizio SCPT, il FST definisce i metodi per impedire l’ulteriore diffusione dei dati.
+
+<sup>2</sup> Il Servizio SCPT verifica l’identità delle persone autorizzate a ottenere mezzi di accesso e servizi a nome delle autorità e trasmette al FST i dati necessari per la consegna dei mezzi di accesso e per l’attivazione dei servizi. Il FST documenta internamente i mezzi di accesso consegnati alle autorità e i servizi attivati a nome delle stesse.
+
+<sup>3</sup> I mezzi di accesso e i servizi di cui al presente articolo possono essere impiegati soltanto nell’ambito del diritto applicabile all’autorità in questione.
+
+[^20c-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 21
+
+**Termini di conservazione**[^21-1]
+
+<sup>1</sup>
+
+I seguenti fornitori devono conservare ed essere in grado di trasmettere, per l’intera durata della relazione commerciale e per sei mesi dopo il suo termine, le seguenti indicazioni:
+
+- a. i FST e i FSCD con obblighi supplementari secondo l’articolo 22 o 52: le indicazioni sui servizi e sui dati ai fini dell’identificazione ai sensi dell’articolo 19 capoverso 1;
+- b. i FST: anche le indicazioni su identificativi attribuiti a lungo termine secondo l’articolo 48*a*.
+
+<sup>2</sup> I FST devono conservare i dati relativi all’identificazione ai sensi dell’articolo 19 capoverso 2 ed essere in grado di trasmetterli durante il periodo di validità dell’autorizzazione di accesso al WLAN pubblico gestito professionalmente e per sei mesi dopo la sua scadenza.
+
+<sup>3</sup> Ai fini dell’identificazione, devono conservare per sei mesi i dati sull’assegnazione univoca degli indirizzi IP per l’accesso alla rete ed essere in grado di fornire le informazioni di cui all’articolo 37.
+
+<sup>4</sup> I FST che offrono servizi di telefonia mobile devono conservare ed essere in grado di trasmettere i dati degli utenti di cui agli articoli 20*a* e 20*b* nonché la copia del documento d’identità per l’intera durata della relazione commerciale e per sei mesi dopo il suo termine.
+
+<sup>5</sup>
+
+I FST, eccettuati quelli con obblighi di sorveglianza ridotti (art. 51), devono conservare per sei mesi i seguenti dati ai fini dell’identificazione:
+
+- a. i metadati sugli identificativi dei dispositivi effettivamente usati, per poter fornire le informazioni di cui agli articoli 36 capoverso 1 lettera b numero 4 e 41 capoverso 1 lettera b numero 2;
+- b. i metadati sull’assegnazione e la traduzione (NAT) degli indirizzi IP e dei numeri di porta per l’accesso alla rete, per poter fornire le informazioni di cui agli articoli 38 e 39; e
+- c. i metadati per la determinazione delle reti immediatamente adiacenti di una comunicazione o di un tentativo di comunicazione per i servizi di telefonia e multimediali, per poter fornire le informazioni di cui all’articolo 48*c*.
+
+<sup>6</sup> Ai fini dell’identificazione, i FSCD con obblighi di sorveglianza supplementari (art. 52) devono conservare per sei mesi i dati di cui al capoverso 5 lettere a e b.
+
+<sup>7</sup> I metadati di cui al capoverso 5 devono essere distrutti non appena scade il termine di conservazione, a condizione che nessun altro atto normativo preveda che debbano o possano essere conservati più a lungo.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 22
+
+**FSCD con obblighi di informazione supplementari**
+
+<sup>1</sup>
+
+Il servizio SCPT dichiara che un FSCD ha obblighi di informazione supplementari (art. 22 cpv. 4 LSCPT) se raggiunge uno dei valori seguenti:
 
 - a. 100 domande di informazioni negli ultimi 12 mesi (data di riferimento: 30 giugno);
 - b. un fatturato annuo in Svizzera di 100 milioni di franchi per due esercizi consecutivi, se gran parte dell’attività commerciale consiste nel fornire servizi di comunicazione derivati, e 5000 utenti che utilizzano i servizi del fornitore.
@@ -408,29 +525,29 @@ I terzi a cui ricorre il fornitore come ausiliari per la fornitura di informazio
 
 **Informazioni e sorveglianze particolari**
 
-Per le informazioni e le sorveglianze non corrispondenti ai tipi di informazione e di sorveglianza standardizzati, i FST e i fornitori di servizi di comunicazione derivati mettono a disposizione del Servizio SCPT tutte le interfacce e i collegamenti al sistema di trattamento del Servizio SCPT già disponibili. Il contenuto e i metadati delle telecomunicazioni della persona sorvegliata devono essere trasmessi per quanto possibile conformemente all’articolo 26 capoverso 1 LSCPT. Il Servizio SCPT ne stabilisce le modalità caso per caso.
+Per le informazioni e le sorveglianze non corrispondenti ai tipi di informazione e di sorveglianza standardizzati, i FST e i FSCD mettono a disposizione del Servizio SCPT tutte le interfacce e i collegamenti al sistema di trattamento del Servizio SCPT già disponibili. Il contenuto e i metadati delle telecomunicazioni della persona sorvegliata devono essere trasmessi per quanto possibile conformemente all’articolo 26 capoverso 1 LSCPT. Il Servizio SCPT ne stabilisce le modalità caso per caso.
 
 #### Art. 26
 
-**Tipi di informazioni in generale**
+**Tipi di informazione**[^26-1]
 
 <sup>1</sup>
 
-I fornitori interessati forniscono i seguenti tipi di informazioni sui servizi di telecomunicazione o sui servizi di comunicazione derivati:
+I tipi di informazione riguardano informazioni concernenti:
 
-- a. informazioni sugli utenti (art. 35, 40, 42 e 43 nonché art. 27 in combinato disposto con art. 35, 40, 42 e 43);
-- b. informazioni sui servizi (art. 36–39 e 41);
-- c.
+- a. gli utenti (art. 35, 40, 42 e 43 nonché art. 27 in combinato disposto con detti articoli);
+- b. i servizi (art. 36–39 e 41);
+- c. la modalità di pagamento (art. 44);
+- d. la prova dell’identità (art. 45);
+- e. le copie delle fatture (art. 46);
+- f. le copie dei contratti (art. 47);
+- g. i dati tecnici dei sistemi di telecomunicazione e degli elementi di rete (art. 48);
+- h. gli identificativi attribuiti (art 48*a* e 48*b*); e
+- i. la determinazione delle reti adiacenti (art. 48*c*).
 
-  altre informazioni:
+<sup>2</sup> Le autorità possono richiedere le informazioni che le persone obbligate a collaborare sono tenute a fornire secondo la presente ordinanza soltanto attenendosi alla procedura prevista nell’ordinanza medesima.
 
-  - 1\. informazioni sulle modalità di pagamento (art. 44),
-  - 2\. richiesta di copie dei documenti di identità (art. 45),
-  - 3\. richiesta di copie delle fatture (art. 46),
-  - 4\. richiesta di copie del contratto (art. 47),
-  - 5\. informazioni sui dati tecnici dei sistemi di telecomunicazione e degli elementi di rete (art. 48).
-
-<sup>2</sup> Le autorità possono chiedere ai fornitori le informazioni da fornire secondo la presente ordinanza soltanto conformemente alla procedura prevista nell’ordinanza medesima.
+[^26-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 27
 
@@ -442,47 +559,52 @@ I fornitori interessati forniscono i seguenti tipi di informazioni sui servizi d
 
 #### Art. 28
 
-**Tipi di sorveglianza**
+**Tipi di sorveglianza**[^28-1]
 
-<sup>1</sup>
+Sono previsti i seguenti tipi di sorveglianza:
 
-I fornitori interessati devono eseguire i seguenti tipi di sorveglianza in tempo reale per i servizi di telecomunicazione e i servizi di comunicazione derivati:
+- a.
 
-- a. la sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete (art. 54);
-- b. la sorveglianza in tempo reale dei contenuti e dei metadati per i servizi di accesso alla rete (art. 55);
-- c. la sorveglianza in tempo reale dei metadati per le applicazioni (art. 56 e 58);
-- d. la sorveglianza in tempo reale di contenuti e metadati per le applicazioni (art. 57 e 59).
+  sorveglianza in tempo reale:
 
-<sup>2</sup>
+  - 1\. di metadati per i servizi di accesso alla rete (art. 54),
+  - 2\. di contenuti e metadati per i servizi di accesso alla rete (art. 55),
+  - 3\. di metadati per le applicazioni (art. 56 e 58),
+  - 4\. tramite la determinazione della posizione mediante la rete (art. 56*a* e 56*b*),
+  - 5\. di contenuti e metadati per le applicazioni (art. 57 e 59);
 
-I fornitori interessati devono eseguire i seguenti tipi di sorveglianza retroattiva per i servizi di telecomunicazione e i servizi di comunicazione derivati:
+- b.
 
-- a. la sorveglianza retroattiva dei metadati per i servizi di accesso alla rete (art. 60);
-- b. la sorveglianza retroattiva dei metadati per le applicazioni (art. 61 e 62);
-- c. la determinazione dell’ultima posizione attiva dell’apparecchiatura terminale mobile (art. 63);
-- d. la ricerca per zona di copertura dell’antenna (art. 66) e i pertinenti preparativi (art. 64 o 65).
+  sorveglianza retroattiva:
 
-<sup>3</sup>
+  - 1\. dei servizi di accesso alla rete (art. 60),
+  - 2\. delle applicazioni (art. 61 e 62),
+  - 3\. tramite la determinazione della localizzazione al momento dell’ultima attività (art. 63),
+  - 4\. tramite una ricerca per zona di copertura dell’antenna (art. 66) e i pertinenti preparativi (art. 64 e 65);
 
-I fornitori interessati devono eseguire i seguenti tipi di ricerche d’emergenza (art. 67):
+- c.
 
-- a. la determinazione dell’ultima posizione attiva dell’apparecchiatura terminale mobile (art. 67 lett. a);
-- b. la sorveglianza in tempo reale dei contenuti e dei metadati per i servizi di accesso alla rete e i servizi di telefonia e multimedia (art. 67 lett. b);
-- c. la sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete e i servizi di telefonia e multimedia (art. 67 lett. c);
-- d. la sorveglianza retroattiva dei metadati per i servizi di accesso alla rete e i servizi di telefonia e multimedia (art. 67 lett. d).
+  ricerca d’emergenza (art. 67) tramite:
 
-<sup>4</sup>
+  - 1\. la determinazione della localizzazione al momento dell’ultima attività (art. 67 lett. a),
+  - 2\. la determinazione della posizione mediante la rete (art. 67 lett. b e c),
+  - 3\. la sorveglianza in tempo reale dei contenuti e dei metadati per i servizi di accesso alla rete e per i servizi di telefonia e multimedia (art. 67 lett. d),
+  - 4\. la sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete e per i servizi di telefonia e multimedia (art. 67 lett. e),
+  - 5\. la sorveglianza retroattiva dei servizi di accesso alla rete e dei servizi di telefonia e multimedia (art. 67 lett. f);
 
-I fornitori interessati devono eseguire i seguenti tipi di ricerche di condannati (art. 68):
+- d.
 
-- a. la determinazione dell’ultima posizione attiva dell’apparecchiatura terminale mobile (art. 68 lett. a);
-- b. la sorveglianza in tempo reale dei contenuti e dei metadati per i servizi di accesso alla rete o per le applicazioni (art. 68 lett. b);
-- c. la sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete o per le applicazioni (art. 68 lett. c);
-- d. la sorveglianza retroattiva dei metadati per i servizi di accesso alla rete o per le applicazioni (art. 68 lett. d).
+  ricerca di condannati (art. 68) tramite:
 
-<sup>5</sup> I fornitori interessati devono eseguire la localizzazione di potenziali terroristi tramite telefonia mobile mediante la sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete o per le applicazioni (art. 68*a*).[^28-1]
+  - 1\. la determinazione della localizzazione al momento dell’ultima attività (art. 68 cpv. 1 lett. a),
+  - 2\. la determinazione della posizione mediante la rete (art. 68 cpv. 1 lett. b e c),
+  - 3\. la sorveglianza in tempo reale dei contenuti e dei metadati per i servizi di accesso alla rete o per le applicazioni (art. 68 cpv. 1 lett. d),
+  - 4\. la sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete o per le applicazioni (art. 68 cpv. 1 lett. e),
+  - 5\. la sorveglianza retroattiva dei servizi di accesso alla rete o delle applicazioni (art. 68 cpv. 1 lett. f),
+  - 6\. una ricerca per zona di copertura dell’antenna e i pertinenti preparativi (art. 68 cpv. 1 lett. g);
+  - e. localizzazione in tempo reale di potenziali terroristi tramite telefonia mobile (art. 68*a*).
 
-[^28-1]: Introdotto dal n. I 12 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### Sezione 2: Garanzia della qualità
 
@@ -518,9 +640,11 @@ Il Servizio SCPT può eseguire collegamenti test e collaborare a tal fine con le
 
 <sup>2</sup> Il Servizio SCPT può incaricare le persone obbligate a collaborare di partecipare alla produzione dei dati relativi ai test. Elabora un piano di test dopo aver sentito le persone obbligate a collaborare.
 
-<sup>3</sup> Le persone obbligate a collaborare mettono gratuitamente e permanentemente a disposizione del Servizio SCPT, su sua richiesta, i collegamenti test necessari e i servizi di telecomunicazione o i servizi di comunicazione derivati richiesti.
+<sup>3</sup> Le persone obbligate a collaborare mettono gratuitamente e permanentemente a disposizione del Servizio SCPT, su sua richiesta, i collegamenti test necessari e i servizi di telecomunicazione o i servizi di comunicazione derivati richiesti. Gli permettono di eseguire i collegamenti test necessari, che esse stesse non sono in grado di mettergli a disposizione.[^30-1]
 
 <sup>4</sup> Le autorità di perseguimento penale e il SIC possono parimenti eseguire a proprie spese dei test ai fini della garanzia della qualità e della formazione. Presentano la relativa domanda al Servizio SCPT e versano gli emolumenti.
+
+[^30-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### Sezione 3: Garanzia della disponibilità a informare e sorvegliare
 
@@ -528,7 +652,7 @@ Il Servizio SCPT può eseguire collegamenti test e collaborare a tal fine con le
 
 **Verifica della disponibilità a informare e sorvegliare**
 
-<sup>1</sup> La prova della disponibilità a informare e sorvegliare di cui all’articolo 33 capoverso 1 LSCPT deve essere fornita dai FST e dai fornitori di servizi di comunicazione derivati con obblighi di informazione (art. 22) o di sorveglianza supplementari (art. 52).
+<sup>1</sup> La prova della disponibilità a informare e sorvegliare di cui all’articolo 33 capoverso 1 LSCPT deve essere fornita dai FST e FSCD con obblighi di informazione (art. 22) o di sorveglianza supplementari (art. 52).
 
 <sup>2</sup>
 
@@ -586,28 +710,43 @@ Il Servizio SCPT annulla immediatamente un attestato della disponibilità a info
 Il tipo di informazione IR\_4\_NA comprende le seguenti indicazioni sugli utenti di servizi di accesso alla rete:
 
 - a. se disponibile, l’identificativo univoco dell’utente (p. es. il numero cliente);
-- b. per i servizi di telefonia mobile, le indicazioni relative alla persona fisica o giuridica secondo l’articolo 20 e, se noti, ulteriori dati di contatto e il sesso della persona fisica;
-- c. per gli altri servizi di accesso alla rete, i dati identificativi di cui all’articolo 19 e, se noti, i dati sulla persona fisica o giuridica, ulteriori dati di contatto e il sesso della persona fisica;
+- b.[^35-1]
+
+  per i servizi di telefonia mobile:
+
+  - 1\. i dati delle persone fisiche o giuridiche di cui agli articoli 20–20*b*,
+  - 2\. se disponibili, altri indirizzi e dati di contatto nonché il loro periodo di validità, e
+  - 3\. per le persone fisiche, il sesso;
+
+- c.[^35-2]
+
+  per gli altri servizi di accesso alla rete:
+
+  - 1\. i dati relativi all’identificazione ai sensi dell’articolo 19,
+  - 2\. se disponibili, i dati della persona fisica o giuridica, altri indirizzi e dati di contatto nonché il loro periodo di validità, e
+  - 3\. per le persone fisiche, il sesso;
+
 - d.
 
-  le seguenti indicazioni per ogni servizio di accesso alla rete di cui l’utente dispone presso il fornitore:
+  le seguenti indicazioni per ogni servizio di accesso alla rete del fornitore utilizzato dall’utente:[^35-3]
 
   - 1\. l’identificativo univoco che designa il fornitore (p. es. il numero FST),
-  - 2\. l’identificativo univoco del servizio (p. es. nome utente, MSISDN, identificativo DSL),
+  - 2\.[^35-4] l’identificativo univoco principale del servizio (p. es. nome utente, MSISDN, GPSI),
   - 3\. il periodo di utilizzazione del servizio (inizio, prima attivazione ed eventualmente fine),
   - 4\. se del caso, altre indicazioni su opzioni supplementari o limitazioni del servizio di accesso alla rete,
   - 5\. se del caso, gli indirizzi di installazione dell’accesso fisso alla rete e il suo periodo di validità,
   - 6\. lo stato del servizio secondo la designazione interna del fornitore (p. es. attivo, sospeso, bloccato) e il suo periodo di validità,
   - 7\. se del caso, tutti gli indirizzi IP statici, i prefissi IP, i settori di indirizzi IP e le maschere di sottorete o le lunghezze di prefisso assegnati al servizio di accesso alla rete e il loro periodo di validità,
   - 8\. se il cliente non ha un abbonamento, il momento e il luogo di consegna (nome e indirizzo completo) del mezzo di accesso nonché il nome della persona incaricata della consegna,
-  - 9\. se del caso, il numero della carta SIM (ICCID) al momento della consegna,
-  - 10\. se del caso, l’IMSI,
-  - 11\. il tipo di servizio (p. es. prepaid, abbonamento),
-  - 12\. se del caso, l’identificativo dell’utente per il servizio di accesso alla rete.
+  - 9\.[^35-5] se del caso, gli ICCID associati al momento della consegna,
+  - 10\. [^35-6] se del caso, gli IMSI o i SUPI associati,
+  - 11\.[^35-7] il tipo di relazione commerciale (p. es. servizio prepagato, abbonamento),
+  - 12\.[^35-8] se del caso, l’elenco o il settore degli altri elementi di indirizzo (p. es. MSISDN) e identificativi (p. es. ICCID) associati al servizio o registrati in relazione a esso e il loro periodo di validità,
+  - 13\.[^35-9] la designazione del servizio (p. es. nome dell’abbonamento o della tariffa).
 
 <sup>2</sup>
 
-La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. Contiene almeno uno dei seguenti criteri di ricerca. In caso di indicazione di un criterio di cui alle lettere a–e va aggiunto un secondo criterio. Per le ricerche di sequenze di segni (lett. a, c, d, f) il fornitore deve eseguire una ricerca letterale conformemente alle prescrizioni applicabili del DFGP:
+La domanda di informazioni precisa il periodo a cui si riferisce la stessa. Contiene almeno uno dei seguenti criteri:[^35-10]
 
 - a. il cognome e il nome;
 - b. la data di nascita;
@@ -615,35 +754,61 @@ La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. C
 - d. la via e, se del caso, il numero civico;
 - e. il numero del documento d’identità e, opzionalmente, il tipo;
 - f. il nome e, opzionalmente, la sede della persona giuridica;
-- g. il numero d’identificazione delle imprese (IDI);
+- g.[^35-11] l’IDI o il LEI;
 - h. l’identificativo dell’utente (p. es. il numero cliente);
-- i. l’identificativo del servizio, escluso l’indirizzo IP (p. es. nome utente, MSISDN, identificativo DSL);
-- j. l’IMSI;
-- k. il numero di carta SIM (ICCID).
+- i.[^35-12] l’identificativo dell’utente o l’identificativo del servizio, esclusi gli indirizzi IP (p. es. nome utente, MSISDN, GPSI);
+- j.[^35-13] l’IMSI o il SUPI;
+- k.[^35-14] l’ICCID.
+
+<sup>3</sup> Per i criteri di cui al capoverso 2 lettere a–d va aggiunto un secondo criterio. Per le ricerche in base a sequenze di segni (cpv. 2 lett. a, c, d, f) il fornitore deve eseguire una ricerca letterale conformemente alle prescrizioni del DFGP.[^35-15]
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-7]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-8]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-9]: Introdotta dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-10]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-11]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-12]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-13]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-14]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-15]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 36
 
-**Tipo di informazione IR\_6\_NA: informazioni su servizi di accesso alla rete**
+**Tipo di informazione IR\_6\_NA: informazioni su servizi di accesso alla rete**[^36-1]
 
 <sup>1</sup>
 
-Il tipo di informazione IR\_6\_NA comprende le seguenti indicazioni sui servizi di accesso alla rete. Per le indicazioni di cui alle lettere b, c ed e va comunicato il periodo di validità comune:
+Il tipo di informazione IR\_6\_NA comprende le seguenti indicazioni sui servizi di accesso alla rete:
 
-- a. se disponibile, l’identificativo univoco dell’utente (p. es. il numero cliente);
-- b. l’identificativo univoco del servizio (p. es. nome utente, MSISDN, identificativo DSL);
-- c. se del caso, IMSI e MSISDN;
-- d. l’elenco degli identificativi univoci, conformi alle norme internazionali (p. es. IMEI, indirizzo MAC), degli apparecchi usati presso il fornitore nell’ambito del servizio e, se disponibile, la loro denominazione in forma di testo.
-- e. se del caso, i numeri delle carte SIM (ICCID);
-- f. se del caso, i codici PUK e PUK2.
+- a. se disponibile, l’identificativo univoco dell’utente (p. es. numero cliente);
+- b.
+
+  le seguenti indicazioni sui servizi di accesso alla rete oggetto della domanda e sugli altri servizi di accesso alla rete associati:
+
+  - 1\. l’identificativo univoco del servizio (p. es. nome utente),
+  - 2\. se del caso, tutti gli identificativi associati a ciascuno dei servizi (p. es. nome utente, MSISDN, GPSI) e il loro periodo di validità,
+  - 3\. se disponibile, l’identificativo alternativo dell’utente, in particolare, nel caso di un accesso WLAN pubblico gestito professionalmente, un identificativo che permette di richiedere i dati relativi all’identificazione ai sensi dell’articolo 19 capoverso 2,
+  - 4\. gli identificativi univoci conformi alle norme internazionali (p. es. IMEI, PEI, indirizzo MAC) dei dispositivi usati negli ultimi sei mesi in relazione ai vari servizi presso il fornitore e, se disponibile, la designazione di ciascun dispositivi,
+  - 5\. se del caso, gli ICCID di tutte le SIM associate ai vari servizi e il loro periodo di validità, i codici PUK e PUK2, l’IMSI o il SUPI, il MSISDN o il GPSI e l’eUICC-ID,
+  - 6\. in caso di un’offerta multidispositivo, se si tratta del dispositivo principale o di un dispositivo secondario.
 
 <sup>2</sup>
 
-La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. Contiene almeno uno dei seguenti criteri di ricerca:
+La domanda di informazioni precisa il periodo a cui si riferisce la stessa. Contiene almeno uno dei seguenti criteri:
 
-- a. l’identificativo del servizio, escluso l’indirizzo IP (p. es. nome utente, MSISDN, identificativo DSL);
-- b. l’IMSI;
-- c. l’identificativo univoco dell’apparecchio conforme alle norme internazionali (p. es. IMEI, indirizzo MAC);
-- d. l’indirizzo di installazione dell’accesso fisso alla rete.
+- a. l’identificativo del servizio, esclusi gli indirizzi IP (p. es. nome utente, MSISDN, GPSI), o un identificativo che permette di richiedere i dati identificativi ai sensi dell’articolo 19 capoverso 2;
+- b. l’IMSI o il SUPI;
+- c. l’identificativo univoco del dispositivo conforme alle norme internazionali (p. es. IMEI, PEI, indirizzo MAC);
+- d. l’indirizzo di installazione dell’accesso fisso alla rete;
+- e. l’ICCID.
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 37
 
@@ -651,10 +816,10 @@ La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. C
 
 <sup>1</sup>
 
-Il tipo di informazione IR\_7\_IP comprende le seguenti indicazioni sull’utente identificato al quale, nel momento in questione, era univocamente assegnato un indirizzo IP:
+Il tipo di informazione IR\_7\_IP comprende le seguenti indicazioni sull’utente identificato al quale, nel momento determinante, era univocamente assegnato un indirizzo IP:[^37-1]
 
 - a. se disponibile, l’identificativo univoco dell’utente (p. es. nome utente);
-- b. l’identificativo univoco (p. es. nome utente, MSISDN, identificativo DSL) del servizio di accesso alla rete;
+- b.[^37-2] l’identificativo univoco (p. es. nome utente, MSISDN, GPSI) del servizio di accesso alla rete o un identificativo che permette di richiedere i dati relativi all’identificazione ai sensi dell’articolo 19 capoverso 2;
 - c. l’identificativo univoco che designa il fornitore del servizio di accesso alla rete (p. es. il numero FST).
 
 <sup>2</sup>
@@ -664,51 +829,59 @@ La domanda di informazioni contiene le seguenti indicazioni:
 - a. l’indirizzo IP;
 - b. il momento a cui si riferisce, con data e ora.
 
+[^37-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^37-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
 #### Art. 38
 
 **Tipo di informazione IR\_8\_IP (NAT): identificazione dell’utenza in caso di indirizzi IP non assegnati univocamente (NAT)**
 
 <sup>1</sup>
 
-Il tipo di informazione IR\_8\_IP (NAT) comprende le seguenti indicazioni sull’utente identificato al quale, nel momento in questione, non era univocamente assegnato un indirizzo IP:
+Il tipo di informazione IR\_8\_IP (NAT) comprende le seguenti indicazioni ai fini dell’identificazione se l’indirizzo IP non è stato assegnato in modo univoco (NAT):[^38-1]
 
 - a. se disponibile, l’identificativo univoco dell’utente (p. es. nome utente);
-- b. l’identificativo univoco del servizio (p. es. nome utente, MSISDN, identificativo DSL) del servizio di accesso alla rete.
+- b.[^38-2] l’identificativo univoco del servizio (p. es. nome utente, MSISDN, GPSI) del servizio di accesso alla rete o un identificativo che permette di richiedere i dati relativi all’identificazione ai sensi dell’articolo 19 capoverso 2.
 
 <sup>2</sup>
 
-La domanda di informazioni contiene indicazioni sulla procedura di traduzione NAT ai fini dell’identificazione:
+La domanda di informazioni contiene le indicazioni note sul contesto di traduzione NAT oggetto della domanda:[^38-3]
 
 - a. l’indirizzo IP sorgente pubblico;
 - b. se necessario per l’identificazione, il numero di porta sorgente pubblico;
 - c. se necessario per l’identificazione, l’indirizzo IP di destinazione pubblico;
 - d. se necessario per l’identificazione, il numero di porta di destinazione;
 - e. se necessario per l’identificazione, il tipo di protocollo di trasporto;
-- f. il momento a cui si riferisce, con data e ora.
+- f.[^38-4] il momento determinante, con data e ora, all’inizio, durante o alla fine del contesto di traduzione NAT.
+
+[^38-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^38-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^38-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^38-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 39
 
-**Tipo di informazione IR\_9\_NAT: informazioni su procedure di traduzione NAT**[^39-1]
+**Tipo di informazione IR\_9\_NAT: informazioni su contesti di traduzione NAT**[^39-1]
 
 <sup>1</sup>
 
-Il tipo di informazione IR\_9\_NAT comprende, se necessari per l’identificazione, le seguenti indicazioni su procedure di traduzione NAT:
+Il tipo di informazione IR\_9\_NAT comprende le seguenti indicazioni su un determinato contesto di traduzione NAT ai fini dell’identificazione in relazione a una procedura NAT al livello del fornitore:
 
 - a. l’indirizzo IP sorgente prima o dopo la traduzione NAT;
 - b. il numero di porta sorgente prima o dopo la traduzione NAT.
 
 <sup>2</sup>
 
-La domanda di informazioni contiene le seguenti informazioni sulla procedura di traduzione NAT:
+La domanda di informazioni contiene le indicazioni note sul contesto di traduzione NAT oggetto della domanda:
 
-- a. l’indirizzo IP sorgente prima o dopo la traduzione NAT;
-- b. il numero di porta sorgente prima o dopo la traduzione NAT;
-- c. se necessario per l’identificazione, l’indirizzo IP di destinazione pubblico;
+- a. l’indirizzo IP sorgente dopo o prima della traduzione NAT;
+- b. il numero di porta sorgente dopo o prima della traduzione NAT;
+- c. se necessario per l’identificazione, l’indirizzo IP pubblico di destinazione;
 - d. se necessario per l’identificazione, il numero di porta di destinazione;
-- e. il tipo di protocollo di trasporto;
-- f. il momento della procedura di traduzione NAT, con data e ora.
+- e. se necessario per l’identificazione, il tipo di protocollo di trasporto;
+- f. il momento determinante, con data e ora, all’inizio, durante o alla fine del contesto di traduzione NAT.
 
-[^39-1]: La correzione del 9 apr. 2019 concerne soltanto il testo francese ([RU 2019 1201](https://fedlex.data.admin.ch/eli/oc/2019/222)).
+[^39-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### Sezione 5: Tipi di informazione per applicazioni
 
@@ -721,27 +894,43 @@ La domanda di informazioni contiene le seguenti informazioni sulla procedura di 
 Il tipo di informazione IR\_10\_TEL comprende le seguenti indicazioni sugli utenti di servizi di telefonia e multimedia:
 
 - a. se disponibile, l’identificativo univoco dell’utente (p. es. il numero cliente);
-- b.[^40-1] per i servizi di telefonia mobile, le indicazioni relative alla persona fisica o giuridica secondo l’articolo 20 e, se noti, ulteriori dati di contatto e il sesso della persona fisica;
-- c. per gli altri servizi di telefonia e multimedia, i dati identificativi di cui all’articolo 19 e, se noti, i dati sulla persona fisica o giuridica, ulteriori dati di contatto e il sesso della persona fisica;
+- b.[^40-1]
+
+  per i servizi di telefonia mobile:
+
+  - 1\. i dati delle persone fisiche e giuridiche di cui agli articoli 20, 20*a* e 20*b*,
+  - 2\. se disponibili, altri indirizzi e dati di contatto nonché il loro periodo di validità, e
+  - 3\. per le persone fisiche, il sesso;
+
+- c.[^40-2]
+
+  per gli altri servizi di telefonia e multimediali:
+
+  - 1\. i dati relativi all’identificazione ai sensi dell’articolo 19,
+  - 2\. se disponibili, i dati della persona fisica o giuridica, altri indirizzi e dati di contatto nonché il loro periodo di validità, e
+  - 3\. per le persone fisiche, il sesso;
+
 - d.
 
-  le seguenti indicazioni per ogni servizio di telefonia e multimedia acquistato dall’utente presso il fornitore:
+  le seguenti indicazioni per ogni servizio di telefonia e multimediale del fornitore utilizzato dall’utente:[^40-3]
 
   - 1\. l’identificativo univoco del fornitore (p. es. il numero FST),
-  - 2\. l’identificativo univoco del servizio (p. es. numero di telefono, SIP URI),
+  - 2\.[^40-4] l’identificativo univoco principale del servizio (p. es. numero di telefono, SIP URI),
   - 3\. il periodo di utilizzazione del servizio (inizio, prima attivazione ed eventualmente fine),
   - 4\. il tipo di servizio (p. es. impianto di telecomunicazione privato, telefono pubblico, servizio fisso o mobile),
   - 5\. se del caso, l’indirizzo di installazione dell’accesso fisso alla rete per il servizio e il suo periodo di validità,
-  - 6\. lo stato del servizio secondo la designazione interna del fornitore (p. es. attivo, sospeso, bloccato),
-  - 7\. se del caso, l’elenco o il settore degli altri elementi d’indirizzo o identificativi registrati nell’ambito del servizio (p. es. numeri di telefono, IMPU),
+  - 6\.[^40-5] lo stato del servizio secondo la designazione interna del fornitore (p. es. attivo, sospeso, bloccato) e il suo periodo di validità,
+  - 7\.[^40-6] se del caso, l’elenco o il settore degli altri elementi di indirizzo (p. es. numeri di telefono, IMPU) e identificativi (p. es. ICCID) associati al servizio o registrati in relazione a esso e il loro periodo di validità,
   - 8\. se il cliente non ha un abbonamento, il momento e il luogo di consegna (nome e indirizzo completo) del mezzo di accesso nonché il nome della persona incaricata della consegna,
   - 9\. se del caso, le indicazioni sulla preselezione per la libera scelta del fornitore di collegamenti,
-  - 10\. se del caso, l’IMSI,
-  - 11\. se del caso, il numero SIM (ICCID) al momento della consegna.
+  - 10\.[^40-7] se del caso, gli IMSI o i SUPI associati,
+  - 11\.[^40-8] se del caso, gli ICCID associati al momento della consegna,
+  - 12\.[^40-9] il tipo di relazione commerciale (p. es. servizio prepagato, abbonamento),
+  - 13\.[^40-10] la designazione del servizio (p. es. nome dell’abbonamento o della tariffa).
 
 <sup>2</sup>
 
-La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. Contiene almeno uno dei seguenti criteri di ricerca. In caso di indicazione di un criterio di cui alle lettere a–d va aggiunto un secondo criterio. Per le ricerche di sequenze di segni (lett. a, c, d, f) il fornitore deve eseguire una ricerca letterale conformemente alle prescrizioni applicabili del DFGP:
+La domanda di informazioni precisa il periodo a cui si riferisce la stessa. Contiene almeno uno dei seguenti criteri:[^40-11]
 
 - a. il cognome e il nome;
 - b. la data di nascita;
@@ -749,38 +938,60 @@ La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. C
 - d. la via e, se del caso, il numero civico;
 - e. il numero del documento di identità e, opzionalmente, il tipo;
 - f. il nome e, opzionalmente, la sede della persona giuridica;
-- g. il numero d’identificazione delle imprese (IDI);
+- g.[^40-12] l’IDI o il LEI;
 - h. l’identificativo dell’utente (p. es. il numero cliente);
 - i. gli elementi d’indirizzo o gli identificativi (p. es. numero di telefono, SIP URI, TEL URI, IMPU);
-- j. l’IMSI;
-- k. il numero di carta SIM (ICCID).
+- j.[^40-13] l’IMSI o il SUPI;
+- k.[^40-14] l’ICCID.
 
-[^40-1]: La correzione del 3 dic. 2019 concerne soltanto il testo francese ([RU 2019 4085](https://fedlex.data.admin.ch/eli/oc/2019/711)).
+<sup>3</sup> Per i criteri di cui al capoverso 2 lettere a–d va aggiunto un secondo criterio. Per le ricerche in base a sequenze di segni (cpv. 2 lett. a, c, d, f) il fornitore deve eseguire una ricerca letterale conformemente alle prescrizioni del DFGP.[^40-15]
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-7]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-8]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-9]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-10]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-11]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-12]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-13]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-14]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-15]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 41
 
-**Tipo di informazione IR\_12\_TEL: informazioni su servizi di telefonia e multimedia**
+**Tipo di informazione IR\_12\_TEL: informazioni su servizi di telefonia e multimediali**[^41-1]
 
 <sup>1</sup>
 
-Il tipo di informazione IR\_12\_TEL comprende le seguenti indicazioni sui servizi di telefonia e multimedia. Per le indicazioni di cui alle lettere b, c ed e va comunicato il periodo di validità comune:
+Il tipo di informazione IR\_12\_TEL comprende le seguenti indicazioni sui servizi di telefonia e multimediali:
 
 - a. se disponibile, l’identificativo univoco dell’utente (p. es. il numero cliente);
-- b. gli elementi d’indirizzo o gli identificativi registrati per il servizio (p. es. numeri di telefono, SIP URI, IMPI);
-- c. se del caso, l’IMSI;
-- d. ai fini dell’identificazione, l’elenco degli identificativi univoci (p. es. IMEI, indirizzo MAC), conformi alle norme internazionali, degli apparecchi usati presso il fornitore nell’ambito del servizio e, se disponibile, la loro denominazione in forma di testo;
-- e. se del caso, i numeri delle carte SIM (ICCID);
-- f. se del caso, i codici PUK e PUK2.
+- b.
+
+  le seguenti indicazioni sui servizi di telefonia e multimediali oggetto della domanda e sugli altri servizi di telefonia e multimediali associati:
+
+  - 1\. se del caso, tutti gli elementi di indirizzo pubblici (p. es. MSISDN, SIP URI, TEL URI) e privati (p. es. IMPI) associati a ciascun servizio e il loro periodo di validità,
+  - 2\. gli identificativi univoci conformi alle norme internazionali (p. es. IMEI, PEI) dei dispositivi usati negli ultimi sei mesi in relazione a ciascuno dei servizi presso il fornitore e, se disponibile, la designazione di ciascuno di questi dispositivi,
+  - 3\. se del caso, gli ICCID di tutte le SIM associate a ciascuno dei servizi e il loro periodo di validità, i codici PUK e PUK2, l’IMSI o il SUPI, il MSISDN o il GPSI e l’eUICC-ID,
+  - 4\. in caso di un’offerta multidispositivo, se si tratta del dispositivo principale o di un dispositivo secondario.
 
 <sup>2</sup>
 
-La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. Contiene almeno uno dei seguenti criteri di ricerca:
+La domanda di informazioni precisa il periodo a cui si riferisce la stessa. Contiene almeno uno dei seguenti criteri:
 
-- a. l’elemento di indirizzo (p. es. numero di telefono, SIP URI, MSISDN, TEL URI);
-- b. l’IMSI;
-- c. l’identificativo univoco dell’apparecchio conforme alle norme internazionali (p. es. IMEI, indirizzo MAC);
+- a. l’elemento di indirizzo pubblico (p. es. SIP URI, MSISDN, GPSI);
+- b. l’IMSI o il SUPI;
+- c. l’identificativo univoco del dispositivo conforme alle norme internazionali (p. es. IMEI, PEI, indirizzo MAC);
 - d. l’indirizzo di installazione dell’accesso fisso alla rete;
-- e. l’identificativo del servizio (p. es. IMPI).
+- e. l’elemento di indirizzo privato (p. es. IMPI);
+- f. l’ICCID.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 42
 
@@ -800,13 +1011,14 @@ Il tipo di informazione IR\_13\_ EMAIL comprende su utenti di servizi di posta e
   - 2\. l’identificativo univoco del servizio (p. es. indirizzo di posta elettronica, nome utente),
   - 3\. il periodo di utilizzazione del servizio (inizio, prima attivazione ed eventualmente fine),
   - 4\. se del caso, l’elenco di tutti gli altri elementi d’indirizzo (p. es. indirizzi alias), appartenenti al servizio in questione,
-  - 5\. se del caso, l’elenco di tutti gli indirizzi a cui sono inoltrati i messaggi destinati all’indirizzo richiesto (p. es. mailing list);
+  - 5\. se del caso, l’elenco di tutti gli indirizzi a cui sono inoltrati i messaggi destinati all’indirizzo richiesto (p. es. mailing list),
+  - 6\.[^42-1] la designazione del servizio;
 
-- d. se del caso, gli altri elementi d’indirizzo registrati presso il fornitore nell’ambito del servizio (p. es. indirizzo di posta elettronica, MSISDN).
+- d.[^42-2] se del caso, gli altri elementi di indirizzo o identificativi registrati presso il fornitore in relazione al servizio (p. es. indirizzo di posta elettronica, MSISDN, GPSI, elemento di indirizzo per ripristinare un accesso perduto a un indirizzo di posta elettronica).
 
 <sup>2</sup>
 
-La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. Contiene almeno uno dei seguenti criteri di ricerca. In caso di indicazione di un criterio di cui alle lettere a–d va aggiunto un secondo criterio. Per le ricerche di sequenze di segni (lett. a, c, d, f) il fornitore deve eseguire una ricerca letterale conformemente alle prescrizioni applicabili del DFGP:
+La domanda di informazioni precisa il periodo a cui si riferisce la stessa. Contiene almeno uno dei seguenti criteri:[^42-3]
 
 - a. il cognome e il nome;
 - b. la data di nascita;
@@ -814,9 +1026,19 @@ La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. C
 - d. la via e, se del caso, il numero civico;
 - e. il numero del documento di identità e, opzionalmente, il tipo;
 - f. il nome e, opzionalmente, la sede della persona giuridica;
-- g. il numero d’identificazione delle imprese (IDI);
+- g.[^42-4] l’IDI o il LEI;
 - h. l’identificativo dell’utente (p. es. il numero cliente);
-- i. l’identificativo del servizio (p. es. indirizzo di posta elettronica, nome utente).
+- i. l’identificativo del servizio (p. es. indirizzo di posta elettronica, nome utente);
+- j.[^42-5] gli identificativi connessi al servizio oggetto della domanda, ad esempio un elemento di indirizzo per il ripristino.
+
+<sup>3</sup> Per i criteri di cui al capoverso 2 lettere a–d va aggiunto un secondo criterio. Per le ricerche in base a sequenze di segni (cpv. 2 lett. a, c, d, f) il fornitore deve eseguire una ricerca letterale conformemente alle prescrizioni del DFGP.[^42-6]
+
+[^42-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-5]: Introdotta dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-6]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 43
 
@@ -824,7 +1046,7 @@ La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. C
 
 <sup>1</sup>
 
-Il tipo di informazione IR\_15\_COM comprende le indicazioni seguenti sugli utenti di altri servizi di telecomunicazione o servizi di comunicazione derivati (p. es. servizi di messaggeria, servizi di comunicazione nelle reti sociali, servizi cloud e proxy):
+Il tipo di informazione IR\_15\_COM comprende le indicazioni seguenti sugli utenti di altri servizi di telecomunicazione o servizi di comunicazione derivati (p. es. servizi di messaggeria, servizi di comunicazione nei media sociali):[^43-1]
 
 - a. se disponibile, l’identificativo univoco dell’utente (p. es. il numero cliente);
 - b. i dati identificativi di cui all’articolo 19 e, se note, le indicazioni relative alla persona fisica o giuridica, ulteriori dati di contatto e il sesso della persona fisica;
@@ -836,11 +1058,12 @@ Il tipo di informazione IR\_15\_COM comprende le indicazioni seguenti sugli uten
   - 2\. l’identificativo univoco del servizio (p. es. nome utente),
   - 3\. il periodo di utilizzazione del servizio (inizio, prima attivazione ed eventualmente fine),
   - 4\. lo stato del servizio secondo la designazione interna del fornitore (p. es. attivo, sospeso, bloccato) e il suo periodo di validità,
-  - 5\. l’elenco degli altri elementi d’indirizzo o identificativi registrati nell’ambito del servizio.
+  - 5\. l’elenco degli altri elementi d’indirizzo o identificativi registrati nell’ambito del servizio,
+  - 6\.[^43-2] la designazione del servizio.
 
 <sup>2</sup>
 
-La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. Contiene almeno uno dei seguenti criteri di ricerca. In caso di indicazione di un criterio di cui alle lettere a–d va aggiunto un secondo criterio. Per le ricerche di sequenze di segni (lett. a, c, d, f) il fornitore deve eseguire una ricerca letterale conformemente alle prescrizioni applicabili del DFGP:
+La domanda di informazioni precisa il periodo a cui si riferisce la stessa. Contiene almeno uno dei seguenti criteri:[^43-3]
 
 - a. il cognome e il nome;
 - b. la data di nascita;
@@ -848,9 +1071,20 @@ La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. C
 - d. la via e, se del caso, il numero civico;
 - e. il numero del documento di identità e, opzionalmente, il tipo di documento;
 - f. il nome e, opzionalmente, la sede della persona giuridica;
-- g. il numero d’identificazione delle imprese (IDI);
+- g.[^43-4] l’IDI o il LEI;
 - h. l’identificativo dell’utente (p. es. il numero cliente);
-- i. elemento d’indirizzo o identificativo (p. es. nome utente).
+- i.[^43-5] l’elemento di indirizzo o l’identificativo del servizio (p. es. indirizzo dell’utente, pseudonimo, identificativo univoco specifico dell’applicazione);
+- j.[^43-6] l’identificativo connesso al servizio oggetto della domanda, ad esempio un elemento di indirizzo per il ripristino.
+
+<sup>3</sup> In caso di indicazione di un criterio di cui al capoverso 2 lettere a–d va aggiunto un secondo criterio. Per le ricerche in base a sequenze di segni (cpv. 2 lett. a, c, d, f) il fornitore deve eseguire una ricerca letterale conformemente alle prescrizioni del DFGP.[^43-7]
+
+[^43-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-2]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-6]: Introdotta dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-7]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### Sezione 6: Altri tipi di informazione
 
@@ -860,7 +1094,7 @@ La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. C
 
 <sup>1</sup>
 
-Il tipo di informazione IR\_17\_PAY comprende le seguenti informazioni sulle modalità di pagamento degli utenti di servizi di telecomunicazione e servizi di comunicazione derivati:
+Il tipo di informazione IR\_17\_PAY comprende le seguenti indicazioni sulle modalità di pagamento degli utenti di servizi di telecomunicazione e servizi di comunicazione derivati:[^44-1]
 
 - a. l’identificativo univoco che designa il fornitore;
 - b. l’identificativo univoco dell’utente (p. es. il numero cliente);
@@ -874,23 +1108,28 @@ Il tipo di informazione IR\_17\_PAY comprende le seguenti informazioni sulle mod
 
 <sup>3</sup>
 
-La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. Contiene almeno uno dei seguenti criteri di ricerca:[^44-1]
+La domanda di informazioni precisa il periodo a cui si riferisce la stessa. Contiene almeno uno dei seguenti criteri:[^44-2]
 
 - a. l’identificativo dell’utente (p. es. il numero cliente);
 - b. l’identificativo del servizio (p. es. numero di telefono, SIP URI, nome utente);
 - c. l’identificativo assegnato dal fornitore all’utente per i conteggi o la fatturazione;
 - d. i dati del conto dell’utente: IBAN (o BIC e numero di conto) oppure il numero nazionale della banca e il numero di conto;
-- e. l’indirizzo di fatturazione (numero civico, via, casella postale, numero postale di avviamento, luogo, Paese).
+- e. l’indirizzo di fatturazione (numero civico, via, casella postale, numero postale di avviamento, luogo, Paese);
+- f.[^44-3] il codice per la ricarica del credito o per il pagamento del servizio.
 
-[^44-1]: La correzione del 6 mar. 2018 concerne soltanto il testo francese ([RU 2018 989](https://fedlex.data.admin.ch/eli/oc/2018/144)).
+[^44-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^44-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^44-3]: Introdotta dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 45
 
-**Tipo di informazione IR\_18\_ID: copia del documento di identità**
+**Tipo di informazione IR\_18\_ID: prova dell’identità**[^45-1]
 
-<sup>1</sup> Il tipo di informazione IR\_18\_ID comprende la trasmissione di una copia elettronica del documento di identità dell’utente registrato conformemente all’articolo 20.
+<sup>1</sup> Il tipo di informazione IR\_18\_ID comprende la trasmissione della copia elettronica del documento registrato dell’utente conformemente all’articolo 20*a* capoverso 4.
 
-<sup>2</sup> La domanda di informazioni precisa il momento e l’identificativo dell’utente o del servizio oppure il numero SIM (ICCID) o IMSI o, se del caso, l’identificativo dell’apparecchio a cui si riferisce la richiesta.
+<sup>2</sup> La domanda di informazioni precisa il momento e l’identificativo dell’utente o del servizio, l’ICCID, l’IMSI, il SUPI oppure, se del caso, l’identificativo del dispositivo a cui si riferisce la richiesta.
+
+[^45-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 46
 
@@ -906,29 +1145,70 @@ La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. C
 
 <sup>1</sup> Il tipo di informazione IR\_20\_CONTRACT comprende la trasmissione delle copie elettroniche di tutta la documentazione contrattuale disponibile per l’utente per i servizi di telecomunicazione e i servizi di comunicazione derivati.
 
-<sup>2</sup> La domanda di informazioni precisa il momento e l’identificativo dell’utente o del servizio oppure il numero SIM (ICCID) o IMSI o, se del caso, l’identificativo dell’apparecchio a cui si riferisce la richiesta.
+<sup>2</sup> La domanda di informazioni precisa il momento e l’identificativo dell’utente o del servizio, l’ICCID, l’IMSI, il SUPI oppure, se del caso, l’identificativo del dispositivo a cui si riferisce la richiesta.[^47-1]
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 48
 
-**Tipo di informazione IR\_21\_TECH: dati tecnici**
+**Tipo di informazione IR\_21\_TECH: dati tecnici**[^48-1]
 
-<sup>1</sup> Il tipo di informazione IR\_21\_TECH comprende la trasmissione dei dati tecnici dei sistemi di telecomunicazione e degli elementi di rete, in particolare i dati di localizzazione delle celle radio e dei punti di accesso WLAN pubblici.
+<sup>1</sup> Il tipo di informazione IR\_21\_TECH comprende la trasmissione dei dati tecnici dei sistemi di telecomunicazione e degli elementi di rete nella localizzazione oggetto della domanda, in particolare i dati di localizzazione delle celle radio e degli accessi WLAN pubblici gestiti professionalmente.
 
 <sup>2</sup>
 
 I dati di localizzazione comprendono:
 
-- a. gli identificativi degli elementi di rete (p. es. CGI, ECGI, SAI, RAI, TAI, BSSID) e le coordinate geografiche o altre indicazioni sulla localizzazione conformi alle norme internazionali;
-- b. se del caso, l’indirizzo postale della localizzazione;
-- c. se del caso, la direzione principale di trasmissione dell’antenna; e
-- d. se del caso, altre caratteristiche della localizzazione disponibili.
+- a. gli identificativi degli elementi di rete (p. es. identificativo della cella o della zona) o un’altra designazione idonea (p. es. nome dell’hotspot) e le coordinate geografiche o altre indicazioni sulla localizzazione conformi alle norme internazionali;
+- b. se disponibile, l’indirizzo postale della localizzazione;
+- c. se del caso, la direzione principale di trasmissione delle celle;
+- d. se disponibili, altre caratteristiche della localizzazione; e
+- e. se del caso, le marche temporali connesse.
 
 <sup>3</sup>
 
-La domanda di informazioni precisa il periodo a cui si riferisce la richiesta. Contiene almeno uno dei seguenti criteri di ricerca:
+La domanda di informazioni precisa il periodo a cui si riferisce la stessa. Contiene almeno uno dei seguenti criteri:
 
-- a. le coordinate geografiche della localizzazione dell’elemento di rete;
-- b. l’identificativo dell’elemento di rete (p. es. CGI, ECGI, BSSID).
+- a. le coordinate geografiche della localizzazione, oggetto della domanda, dell’elemento di rete;
+- b. l’identificativo di un elemento di rete nella localizzazione oggetto della domanda (p. es. identificativo della cella o della zona) o un’altra designazione idonea (p. es. nome dell’hotspot).
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 48a
+
+**Tipo di informazione IR\_51\_ASSOC\_PERM: informazioni su identificativi attribuiti a lungo termine**[^48a-1]
+
+<sup>1</sup> Il tipo di informazione IR\_51\_ASSOC\_PERM comprende la trasmissione di tutti gli identificativi (IMPU e IMPI) che nel momento determinante sono o erano attribuiti all’identificativo (IMPU o IMPI) oggetto della domanda allo scopo di fornire un determinato servizio di telefonia e multimediale, nonché il periodo di validità di tale attribuzione.
+
+<sup>2</sup> La domanda di informazioni precisa il momento determinante, l’identificativo oggetto della domanda e il tipo di identificativo (IMPU o IMPI).
+
+[^48a-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 48b
+
+**Tipo di informazione IR\_52\_ASSOC\_TEMP: informazioni immediate su identificativi attribuiti per breve tempo**[^48b-1]
+
+<sup>1</sup> Il tipo di informazione IR\_52\_ASSOC\_TEMP comprende la trasmissione degli identificativi permanenti (p. es. SUPI) attribuiti, al momento della richiesta, agli identificativi temporanei (p. es. SUCI, GUTI 5G) oggetto della domanda allo scopo di fornire un determinato servizio di telecomunicazione.
+
+<sup>2</sup> La domanda di informazioni precisa gli identificativi temporanei oggetto della domanda e la corrispondente zona coperta dalla rete di telefonia mobile.
+
+[^48b-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 48c
+
+**Tipo di informazione IR\_53\_TEL\_ADJ\_NET: determinazione delle reti adiacenti di servizi di telefonia e multimediali**[^48c-1]
+
+<sup>1</sup> Il tipo di informazione IR\_53\_TEL\_ADJ\_NET comprende, se del caso, la determinazione e la trasmissione della designazione delle reti immediatamente adiacenti di una comunicazione o di un tentativo di comunicazione di servizi di telefonia e multimediali (p. es. Inter Operator Identifier, indirizzo IP).
+
+<sup>2</sup>
+
+La domanda di informazioni precisa la comunicazione o il tentativo di comunicazione a cui si riferisce la stessa. Contiene i seguenti criteri:
+
+- a. il momento della comunicazione o del tentativo di comunicazione;
+- b. gli elementi di indirizzo a cui la comunicazione o il tentativo di comunicazione erano indirizzati; e
+- c. se disponibili, gli elementi di indirizzo da cui proviene la comunicazione o il tentativo di comunicazione.
+
+[^48c-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### Sezione 7: Disposizioni generali per la sorveglianza del traffico delle telecomunicazioni
 
@@ -959,17 +1239,31 @@ L’ordine di sorveglianza trasmesso al Servizio SCPT contiene le seguenti indic
 
 **Obblighi di sorveglianza**
 
-<sup>1</sup> Ogni FST e ogni fornitore di servizi di comunicazione derivati con obblighi di sorveglianza supplementari ai sensi dell’articolo 52 deve essere in grado di eseguire o far eseguire da terzi i tipi di sorveglianza previsti nelle sezioni 8–12 del presente capitolo (art. 54–69) e riguardanti i servizi da esso offerti. Sono fatti salvi i FST con obblighi di sorveglianza ridotti ai sensi dell’articolo 51.
+<sup>1</sup> Ogni FST, eccettuati quelli con obblighi di sorveglianza ridotti (art. 51), e ogni FSCD con obblighi di sorveglianza supplementari (art. 52) deve essere in grado di eseguire o far eseguire da terzi i tipi di sorveglianza previsti nelle sezioni 8–12 del presente capitolo (art. 54–69) e riguardanti i servizi da esso offerti. I FSCD con obblighi di sorveglianza supplementari sono esentati dai tipi di sorveglianza previsti agli articoli 56*a*, 56*b*, 67 lettere b e c nonché 68 capoverso 1 lettere b e c.[^50-1]
 
 <sup>2</sup> Il fornitore garantisce la disponibilità alla sorveglianza del traffico delle telecomunicazioni a partire dall’inizio dell’esercizio commerciale di un servizio.
 
 <sup>3</sup> Garantisce di essere in grado di ricevere gli incarichi di sorveglianza anche al di fuori degli orari di servizio ordinari di cui all’articolo 10 e di eseguirli o farli eseguire da terzi conformemente alle prescrizioni del DFGP.
 
-<sup>4</sup> Durante il periodo stabilito dal mandato di sorveglianza, garantisce la sorveglianza di tutto il traffico delle telecomunicazioni transitante per l’infrastruttura da esso controllata, se tale traffico ha luogo tramite i servizi sorvegliati e può essere attribuito all’identificativo sorvegliato (Target ID).
+<sup>4</sup> Durante il periodo stabilito dal mandato di sorveglianza, garantisce la sorveglianza di tutto il traffico delle telecomunicazioni transitante per l’infrastruttura da esso controllata, se tale traffico ha luogo tramite i servizi sorvegliati e può essere attribuito al Target ID[^50-2].
 
-<sup>5</sup> Se necessario, il fornitore assiste il Servizio SCPT nel verificare che i dati della sorveglianza trasmessi corrispondano effettivamente al traffico delle telecomunicazioni indicato nel mandato di sorveglianza.
+<sup>5</sup> Il fornitore assiste il Servizio SCPT, su richiesta di quest’ultimo, nel verificare che i dati della sorveglianza trasmessi corrispondano effettivamente al traffico delle telecomunicazioni indicato nel mandato di sorveglianza.[^50-3]
 
-<sup>6</sup> Se all’identificativo sorvegliato (Target ID) sono associati altri identificativi (p. es. IMPI con IMPU, indirizzo di posta elettronica con indirizzi alias), il fornitore garantisce che anche questi siano sorvegliati nell’ambito del tipo di sorveglianza.
+<sup>6</sup> Se al Target ID sono associati altri identificativi (p. es. IMPI con IMPU, indirizzo di posta elettronica con indirizzi alias, SIM supplementare, multidispositivo), il fornitore garantisce che anche questi siano sorvegliati nell’ambito del tipo di sorveglianza.[^50-4]
+
+<sup>7</sup> La sorveglianza in tempo reale di servizi di telefonia mobile comprende anche la sorveglianza di elementi di rete rilevanti quali l’HLR, l’HSS e l’UDM, in particolare per rilevare e trasmettere in modo standardizzato nell’IRI informazioni sulla rete che fornisce il servizio, sulla modifica degli identificativi del servizio e del dispositivo attribuiti, sugli eventi relativi alla localizzazione, sul cambio dell’elemento di rete che fornisce il servizio e sugli eventi di identificazione e autenticazione del Target ID.[^50-5]
+
+<sup>8</sup> Se del caso, per la sorveglianza in tempo reale nell’IMS deve essere attivata la determinazione da parte della rete dei dati di localizzazione del Target ID.[^50-6]
+
+<sup>9</sup> Se, nel corso di una sorveglianza in tempo reale o di una determinazione periodica della posizione già attivate, a un servizio si aggiunge un nuovo dispositivo (multidispositivo) o una nuova SIM (SIM supplementare), anche il nuovo dispositivo o la nuova SIM vanno sorvegliati. A tal fine non è riscosso alcun emolumento supplementare né è versata alcuna indennità supplementare. Se necessario, il fornitore può chiedere un numero amministrativo supplementare di identificazione della sorveglianza.[^50-7]
+
+[^50-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-2]: Nuova espr. giusta il n. I cpv. 4 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^50-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-5]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-6]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-7]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 51
 
@@ -1002,11 +1296,11 @@ Gli FST con obblighi di sorveglianza ridotti sono obbligati a comunicare per scr
 
 #### Art. 52
 
-**Fornitori di servizi di comunicazione derivati con obblighi di sorveglianza supplementari**
+**FSCD con obblighi di sorveglianza supplementari**
 
 <sup>1</sup>
 
-Il servizio SCPT dichiara, mediante decisione, che un fornitore di servizi di comunicazione derivati ha obblighi di sorveglianza supplementari (art. 27 cpv. 3 LSCPT) se ha raggiunto uno dei valori seguenti:
+Il servizio SCPT dichiara, mediante decisione, che un FSCD ha obblighi di sorveglianza supplementari (art. 27 cpv. 3 LSCPT) se ha raggiunto uno dei valori seguenti:
 
 - a. incarichi di sorveglianza di dieci diversi obiettivi di sorveglianza negli ultimi 12 mesi (data di riferimento: 30 giugno);
 - b. fatturato annuo in Svizzera di 100 milioni di franchi per due esercizi consecutivi, se gran parte dell’attività commerciale consiste nel fornire servizi di comunicazione derivati, e 5000 utenti che utilizzano i servizi del fornitore.
@@ -1015,40 +1309,53 @@ Il servizio SCPT dichiara, mediante decisione, che un fornitore di servizi di co
 
 #### Art. 53
 
-**Accesso agli impianti**
+**Accesso agli impianti**[^53-1]
 
-<sup>1</sup> Le persone obbligate a collaborare che devono garantire al Servizio SCPT o ai suoi incaricati l’accesso ai propri impianti rendono loro possibile, nei limiti necessari alla sorveglianza, l’accesso a edifici, apparecchi, linee, sistemi, reti e servizi.
+<sup>1</sup> Le persone obbligate a collaborare che devono garantire al Servizio SCPT o ai suoi incaricati l’accesso ai propri impianti rendono loro possibile l’accesso a edifici, dispositivi, linee, sistemi, reti e servizi nei limiti necessari alla sorveglianza o ai collegamenti test (art. 30).
 
-<sup>2</sup> Mettono gratuitamente a disposizione gli accessi esistenti alle reti di telecomunicazione pubbliche. D’intesa con il Servizio SCPT o i suoi incaricati, creano, se necessario per la sorveglianza, nuovi accessi alla rete a spese del Servizio SCPT.
+<sup>2</sup> Mettono gratuitamente a disposizione gli accessi esistenti alle reti di telecomunicazione pubbliche. D’accordo con il Servizio SCPT o i suoi incaricati, creano, se necessario per la sorveglianza, nuovi accessi alla rete a spese del Servizio SCPT.
+
+[^53-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### Sezione 8: Tipi di sorveglianza in tempo reale per i servizi di accesso alla rete
 
 #### Art. 54
 
-**Tipo di sorveglianza RT\_22\_NA\_IRI: sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete**
+**Tipo di sorveglianza RT\_22\_NA\_IRI: sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete**[^54-1]
 
 <sup>1</sup> Il tipo di sorveglianza RT\_22\_NA\_IRI comprende la sorveglianza in tempo reale di un servizio di accesso alla rete nel settore della telefonia mobile.
 
 <sup>2</sup>
 
-Devono essere trasmessi in tempo reale i seguenti metadati del traffico delle telecomunicazioni, inviato o ricevuto tramite il servizio di accesso alla rete sorvegliato:
+Devono essere trasmessi in tempo reale i seguenti metadati del traffico delle telecomunicazioni inviato o ricevuto tramite il servizio di accesso alla rete sorvegliato:
 
-- a. il momento dell’accesso alla rete o del distacco dalla stessa: data, ora, tipo di evento e motivo del distacco;
+- a. il momento dell’accesso alla rete o del distacco dalla stessa: la data, l’ora, il tipo di evento e la tecnologia nonché, se del caso, il motivo del distacco;
 - b. il tipo di accesso alla rete nel momento esaminato;
-- c. le informazioni AAA del servizio di accesso alla rete sorvegliato, in particolare l’identificativo dell’utente e, per le reti mobili, l’IMSI;
-- d. gli indirizzi IP assegnati al servizio di accesso alla rete sorvegliato o i settori di indirizzi nonché la data e l’ora della rispettiva assegnazione;
-- e. gli elementi d’indirizzo disponibili del servizio di accesso alla rete sorvegliato, per la telefonia mobile ad esempio il MSISDN o l’IMSI;
-- f. gli identificativi univoci, conformi alle norme internazionali, degli apparecchi terminali momentaneamente usati del servizio di accesso alla rete sorvegliato (p. es. IMEI, indirizzo MAC);
-- g. il tipo, la data e l’ora di inizio ed eventualmente di fine dei cambiamenti tecnici dell’accesso alla rete (p.es. location update, cambio della tecnologia di telefonia mobile) e, se note, le loro cause;
-- h. i dati di localizzazione momentanea del target disponibili, oppure della cella o del punto di accesso WLAN utilizzati dal target secondo il capoverso 3.
+- c. le informazioni AAA del servizio di accesso alla rete sorvegliato, in particolare gli identificativi dell’utente e l’IMSI o il SUPI associati;
+- d. gli indirizzi IP assegnati al servizio di accesso alla rete sorvegliato e ai dispositivi associati nonché la data e l’ora della rispettiva assegnazione;
+- e. gli elementi di indirizzo e gli identificativi disponibili del servizio di accesso alla rete sorvegliato, in particolare il MSISDN o il GPSI e l’IMSI o il SUPI associati;
+- f. gli identificativi univoci, conformi alle norme internazionali, dei dispositivi associati del servizio di accesso alla rete sorvegliato, usati nel momento esaminato (p. es. IMEI, PEI, indirizzo MAC);
+- g. il tipo, la data e l’ora di inizio ed eventualmente di fine degli eventi che modificano le caratteristiche tecniche del servizio di accesso alla rete sorvegliato o la sua gestione della mobilità e, se note, le cause di tali eventi;
+- h. i dati attuali di localizzazione del target, delle celle utilizzate o dell’accesso non 3GPP utilizzato, determinati per quanto possibile dalla rete e contrassegnati come tali, compresi i dati di localizzazione riguardanti il target dedotti dai messaggi di segnalazione NAS e, nel caso dei sistemi EPS e 5GS, i dati di localizzazione integrati, se disponibili, dalla marca temporale connessa o dall’età dei dati di localizzazione;
+- i. se possibile, informazioni sulla rete che forniva precedentemente il servizio e su quella che lo fornisce attualmente;
+- j. informazioni sulla modifica degli identificativi del servizio e del dispositivo attribuiti, sugli eventi relativi alla localizzazione e, se del caso, sul loro motivo, sul cambio dell’elemento di rete che fornisce il servizio nonché sugli eventi di identificazione e autenticazione del target;
+- k. per la tecnologia 5G, anche informazioni sull’attribuzione di un nuovo identificativo temporaneo del target.
 
 <sup>3</sup>
 
-I dati di localizzazione comprendono:
+I dati di localizzazione comprendono le marche temporali associate e, se disponibile, il tipo di tecnologia di accesso alla rete utilizzato nonché:
 
-- a. l’identificativo o una combinazione di identificativi (p. es. CGI, ECGI, SAI, RAI, TAI, BSSID), le coordinate geografiche e, se del caso, la direzione principale di trasmissione della cella o del punto di accesso WLAN e, se disponibile, il tipo di tecnologia di telefonia mobile utilizzato;
-- b. la posizione del target determinata dalla rete, ad esempio sotto forma di coordinate geografiche e relativo valore di incertezza oppure di poligonali con indicazione delle coordinate geografiche di ogni punto poligonometrico, nonché, se disponibile, il tipo di tecnologia di telefonia mobile usato; o
-- c. se disponibili, altre indicazioni, conformi alle norme internazionali, sulla localizzazione del target, della cella o del punto di accesso WLAN nonché, se disponibile, il tipo di tecnologia di telefonia mobile usato.
+- a. gli identificativi (p. es. identificativo della cella o della zona) e le coordinate geografiche delle celle e, se del caso, le direzioni principali di trasmissione delle celle nonché, per un gruppo di celle radio (combined cell), altri dati di localizzazione conformemente alle prescrizioni applicabili del DFGP;
+- b. la posizione del target determinata dalla rete, ad esempio sotto forma di coordinate geografiche assieme al valore di incertezza associato oppure sotto forma di poligoni con indicazione delle coordinate geografiche di ogni punto poligonometrico;
+- c. altre indicazioni, conformi alle norme internazionali, sulla localizzazione del target oppure delle celle; o
+- d.
+
+  in caso di un accesso non 3GPP:
+
+  - 1\. gli identificativi o un’altra designazione idonea (p. es. nome dell’hotspot) dell’accesso non 3GPP, l’indirizzo IP sorgente pubblico per la connessione sicura del target al gateway nonché, nel caso di NAT, il numero di porta sorgente e il protocollo, o
+  - 2 l’identificativo dell’accesso alla rete e, se disponibile, l’indirizzo postale di tale accesso.
+
+[^54-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 55
 
@@ -1060,47 +1367,111 @@ Il tipo di sorveglianza RT\_23\_NA\_CC\_IRI comprende la sorveglianza in tempo r
 
 #### Art. 56
 
-**Tipo di sorveglianza RT\_24\_TEL\_IRI: sorveglianza in tempo reale dei metadati per i servizi di telefonia e multimedia**
+**Tipo di sorveglianza RT\_24\_TEL\_IRI: sorveglianza in tempo reale dei metadati per servizi di telefonia e multimediali**[^56-1]
 
-<sup>1</sup>
-
-Il tipo di sorveglianza RT\_24\_TEL\_IRI comprende la sorveglianza in tempo reale di un servizio di telefonia e multimedia e, se del caso, dei servizi convergenti, in particolare SMS, segreteria vocale e RCS. Devono essere trasmessi in tempo reale i seguenti metadati del traffico delle telecomunicazioni inviato, trattato o ricevuto tramite i servizi sorvegliati:
-
-- a. la data e l’ora delle procedure di login e di logout e il loro risultato;
-- b.[^56-1] le informazioni AAA dei servizi sorvegliati e le informazioni sugli eventi di registrazione e sottoscrizione nonché le relative risposte, in particolare l’identificativo dell’utente (p. es. SIP URI, IMPI) e, per le reti mobili, l’IMSI;
-- b<sup>bis</sup>.[^56-2] se del caso, gli indirizzi IP e i numeri di porta del client e del server e i dati sul protocollo usato;
-- c. le informazioni di segnalazione, in particolare quelle relative al sistema di servizio, allo stato dei partecipanti e alla qualità del servizio;
-- d. se del caso, le informazioni di presenza;
-- e.
-
-  in caso di comunicazioni, tentativi di comunicazione e modifiche tecniche (p. es. uso di servizi supplementari, uso di o passaggio a servizi convergenti, passaggio a un’altra tecnologia di telefonia mobile, location update), se del caso:
-
-  - 1\. il tipo, la data e l’ora di inizio ed eventualmente di fine,
-  - 2\. gli elementi d’indirizzo (p. es MSISDN, numero E.164, SIP URI, IMPU) di tutti i partecipanti alla comunicazione e il loro ruolo,
-  - 3\. l’indirizzo di destinazione reale conosciuto e gli indirizzi intermedi disponibili, se la comunicazione o il tentativo di comunicazione sono stati deviati o trasferiti,
-  - 4\. gli identificativi univoci, conformi alle norme internazionali, degli apparecchi terminali del servizio sorvegliato (p. es. IMEI, indirizzo MAC),
-  - 5\. gli altri identificativi disponibili,
-  - 6\. il motivo della fine della comunicazione, della sua non riuscita o della modifica tecnica,
-  - 7\. le informazioni di segnalazione dei servizi supplementari (p. es. conferenza, trasferimento di chiamata, DTMF),
-  - 8\. lo stato della comunicazione o dei tentativi di comunicazione,
-  - 9\. in caso di servizi mobili, anche i dati di localizzazione momentanea del target disponibili, della cella utilizzata dal target o del punto di accesso WLAN utilizzato dal target secondo il capoverso 2.
+<sup>1</sup> Il tipo di sorveglianza RT\_24\_TEL\_IRI comprende la sorveglianza in tempo reale di un servizio di telefonia e multimediale e, se del caso, dei servizi convergenti, in particolare SMS, segreteria vocale e RCS.
 
 <sup>2</sup>
 
-I dati di localizzazione comprendono:
+Devono essere trasmessi in tempo reale i seguenti metadati del traffico delle telecomunicazioni inviato, trattato o ricevuto tramite i servizi sorvegliati:
 
-- a. gli identificativi o una combinazione di identificativi (p. es. CGI, ECGI, SAI, RAI, TAI, BSSID), le coordinate geografiche della cella o il punto di accesso WLAN e, se disponibile, il tipo di tecnologia di telefonia mobile utilizzato;
-- b. la posizione del target determinata dalla rete, ad esempio sotto forma di coordinate geografiche e relativo valore di incertezza oppure di poligonali con indicazione delle coordinate geografiche di ogni punto poligonometrico, nonché il tipo di tecnologia di telefonia mobile usato; o
-- c. se disponibili, altre indicazioni, conformi alle norme internazionali, sulla localizzazione del target, della cella o del punto di accesso WLAN nonché il tipo di tecnologia di telefonia mobile usata.
+- a. la data e l’ora delle procedure di login e di logout e il loro risultato;
+- b. le informazioni AAA dei servizi sorvegliati e le informazioni sugli eventi di registrazione e sottoscrizione nonché le relative risposte, in particolare l’identificativo dell’utente (p. es. SIP URI, IMPI) e, per i servizi di telefonia mobile, l’IMSI o il SUPI e, se del caso, gli indirizzi IP e i numeri di porta del client e del server nonché i dati sul protocollo usato;
+- c. le informazioni di segnalazione, in particolare quelle relative al sistema di servizio, allo stato dell’utente e alla qualità del servizio;
+- d. se del caso, le informazioni di presenza;
+- e.
 
-[^56-1]: Nuovo testo giusta il n. I 12 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^56-2]: Introdotta dal n. I 12 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+  in caso di comunicazioni, tentativi di comunicazione e modifiche tecniche (p. es. integrazione di servizi supplementari, integrazione di servizi convergenti o passaggio a servizi di questo tipo, passaggio a un’altra tecnologia di accesso alla rete, location update), se del caso:
+
+  - 1\. il tipo, la data e l’ora di inizio ed eventualmente di fine,
+  - 2\. gli elementi di indirizzo (p. es MSISDN, GPSI, numero E.164, SIP URI, IMPU) di tutti i partecipanti alla comunicazione e il loro ruolo specifico,
+  - 3\. l’indirizzo di destinazione reale conosciuto e gli indirizzi intermedi disponibili, se la comunicazione o il tentativo di comunicazione sono stati deviati o trasferiti,
+  - 4\. gli identificativi univoci, conformi alle norme internazionali, dei dispositivi dei servizi sorvegliati (p. es. IMEI, PEI, indirizzo MAC),
+  - 5\. gli altri identificativi disponibili,
+  - 6\. il motivo della fine della comunicazione, della sua non riuscita o della modifica tecnica,
+  - 7\. le informazioni di segnalazione sui servizi supplementari (p. es. teleconferenza, trasferimento di chiamata, DTMF),
+  - 8\. lo stato della comunicazione o del tentativo di comunicazione,
+  - 9\. per i servizi di telefonia mobile, anche i dati attuali di localizzazione secondo l’articolo 54 capoversi 2 lettera h e 3;
+
+- f. per i servizi di telefonia mobile, anche informazioni sulla rete che forniva precedentemente il servizio e su quella che lo fornisce attualmente, sulla modifica degli identificativi del servizio e del dispositivo attribuiti, sugli eventi relativi alla localizzazione e, se del caso, sul loro motivo, sul cambio dell’elemento di rete che fornisce il servizio nonché sugli eventi di identificazione e autenticazione del target.
+
+[^56-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 56a
+
+**Tipo di sorveglianza RT\_54\_POS\_ONCE: determinazione unica e immediata della posizione mediante la rete**[^56a-1]
+
+<sup>1</sup> Il tipo di sorveglianza RT\_54\_POS\_ONCE comprende la determinazione unica e immediata mediante la rete della posizione di tutti i dispositivi mobili associati al Target ID.
+
+<sup>2</sup> La posizione deve essere determinata dalla rete con l’aiuto di una funzione di posizionamento immediata conformemente alle prescrizioni del DFGP.
+
+<sup>3</sup>
+
+Devono essere trasmesse immediatamente le seguenti indicazioni:
+
+- a. i MSISDN o i GPSI, gli IMEI o i PEI e gli IMSI o i SUPI osservati: almeno una di queste indicazioni, le altre se disponibili;
+- b. l’identificativo della rete del location service client e la marca temporale della determinazione della posizione;
+- c.
+
+  se la posizione è stata determinata: la marca temporale della posizione e i dati della posizione come segue:
+
+  - 1\. se disponibile, il metodo utilizzato per determinare la posizione,
+  - 2\. se disponibili, indicazioni sul grado di precisione della posizione,
+  - 3\.
+
+    la posizione sotto forma di:
+
+    - – coordinate geografiche e, se del caso, i relativi valori d’incertezza,
+    - – poligoni con indicazione delle coordinate geografiche di ogni punto poligonometrico, o
+    - – altre indicazioni conformi alle norme internazionali, e
+
+  - 4\. se disponibili, l’altitudine della posizione, la qualità del servizio, lo stato di spostamento del dispositivo nonché la velocità e la direzione di tale spostamento;
+
+- d. se la posizione non è stata determinata: il motivo dell’insuccesso (codice d’errore) e i dati di localizzazione definiti nell’articolo 63 al momento dell’ultima attività rilevabile, senza costi aggiuntivi.
+
+[^56a-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 56b
+
+**Tipo di sorveglianza RT\_55\_POS\_PERIOD: determinazione ricorrente e periodica della posizione mediante la rete**[^56b-1]
+
+<sup>1</sup> Il tipo di sorveglianza RT\_55\_POS\_PERIOD comprende la determinazione ricorrente e periodica mediante la rete della posizione di tutti i dispositivi mobili associati al Target ID.
+
+<sup>2</sup> La posizione deve essere determinata dalla rete con l’aiuto di una funzione di posizionamento periodica conformemente alle prescrizioni del DFGP.
+
+<sup>3</sup>
+
+Devono essere trasmesse immediatamente le seguenti indicazioni:
+
+- a. i MSISDN o i GPSI, gli IMEI o i PEI e gli IMSI o i SUPI osservati: almeno una di queste indicazioni, le altre se disponibili;
+- b. l’identificativo della rete del location service client e la marca temporale della determinazione della posizione;
+- c.
+
+  se la posizione è stata determinata: la marca temporale della posizione e i dati della posizione come segue:
+
+  - 1\. il metodo utilizzato per determinare la posizione,
+  - 2\. indicazioni sul grado di precisione della posizione,
+  - 3\.
+
+    la posizione sotto forma di:
+
+    - – coordinate geografiche e, se del caso, i relativi valori d’incertezza,
+    - – poligoni con indicazione delle coordinate geografiche di ogni punto poligonometrico, o
+    - – altre indicazioni conformi alle norme internazionali, e
+
+  - 4\. se disponibili, l’altitudine della posizione, la qualità del servizio, lo stato di spostamento del dispositivo nonché la velocità e la direzione di tale spostamento;
+
+- d. se la posizione non è stata determinata: il motivo dell’insuccesso (codice d’errore).
+
+[^56b-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 57
 
 **Tipo di sorveglianza RT\_25\_TEL\_CC\_IRI: sorveglianza in tempo reale dei contenuti e dei metadati per i servizi di telefonia e multimedia**
 
-Il tipo di sorveglianza RT\_25\_TEL\_CC\_IRI comprende la sorveglianza in tempo reale di un servizio di telefonia e multimedia e, se del caso, dei servizi convergenti, in particolare SMS, segreteria vocale e RCS. Devono essere trasmessi in tempo reale il contenuto del traffico delle telecomunicazioni, inviato, trattato o ricevuto tramite i servizi sorvegliati, e i relativi metadati secondo l’articolo 56.
+Il tipo di sorveglianza RT\_25\_TEL\_CC\_IRI comprende la sorveglianza in tempo reale di un servizio di telefonia e multimediale[^57-1] e, se del caso, dei servizi convergenti, in particolare SMS, segreteria vocale e RCS. Devono essere trasmessi in tempo reale il contenuto del traffico delle telecomunicazioni, inviato, trattato o ricevuto tramite i servizi sorvegliati, e i relativi metadati secondo l’articolo 56.
+
+[^57-1]: Nuova espr. giusta il n. I cpv. 5 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 58
 
@@ -1131,47 +1502,37 @@ Il tipo di sorveglianza RT\_27\_EMAIL\_CC\_IRI comprende la sorveglianza in temp
 
 #### Art. 60
 
-**Tipo di sorveglianza HD\_28\_NA: sorveglianza retroattiva dei metadati per i servizi di accesso alla rete**
+**Tipo di sorveglianza HD\_28\_NA: sorveglianza retroattiva dei metadati per i servizi di accesso alla rete**[^60-1]
 
 Il tipo di sorveglianza HD\_28\_NA comprende la sorveglianza retroattiva dei metadati di un servizio di accesso alla rete. Devono essere trasmessi i seguenti metadati del traffico delle telecomunicazioni inviato o ricevuto tramite il servizio di accesso alla rete sorvegliato:
 
-- a. la data e l’ora d’inizio ed eventualmente della fine della sessione o la sua durata;
+- a. la data e l’ora d’inizio ed eventualmente di fine della sessione o la sua durata;
 - b. il tipo e lo stato dell’accesso alla rete;
-- c. l’identificativo usato per autentificare l’utente nel punto di accesso sorvegliato, ad esempio il nome utente;
-- d. gli indirizzi IP o i settori di indirizzi assegnati al target e il loro tipo;
-- e. se disponibile, l’identificativo univoco, conforme alle norme internazionali, dell’apparecchiatura terminale utilizzata dal target (p. es. indirizzo MAC, IMEI per la telefonia mobile);
-- f. se disponibile, il volume di dati caricato e scaricato durante la sessione;
-- g.
+- c. l’identificativo usato per autenticare l’utente presso l’accesso sorvegliato, ad esempio il nome utente;
+- d. l’indirizzo IP assegnato al target e il relativo tipo oppure, in caso di accesso non 3GPP, l’indirizzo IP sorgente pubblico per la connessione sicura del target al gateway e il numero di porta sorgente associato;
+- e. l’identificativo univoco, conforme alle norme internazionali, del dispositivo del target (p. es. indirizzo MAC, IMEI o PEI nel caso di servizi di telefonia mobile);
+- f. il volume di dati caricato e scaricato durante la sessione;
+- g. per i servizi di telefonia mobile: le informazioni GPRS, EPS o 5GS (in particolare IMSI, SUPI, MSISDN, GPSI) e i dati di localizzazione a inizio e fine sessione nonché, se disponibili, quelli durante la sessione conformemente alle prescrizioni applicabili del DFGP;
+- h. in caso di accesso alla rete tramite WLAN pubblico gestito professionalmente: gli identificativi (p. es. BSSID) o altre designazioni idonee (p. es. nome dell’hotspot), i dati di localizzazione (coordinate geografiche o indirizzo postale) nonché, se disponibili, il tipo di autenticazione, un identificativo che permetta di richiedere i dati identificativi ai sensi dell’articolo 19 capoverso 2 e l’indirizzo IP dell’accesso usato dal target;
+- i. se disponibili, in aggiunta alle indicazioni di cui alle lettere g e h, le informazioni relative alla localizzazione provenienti dalla navigazione marittima e aerea;
+- j. in caso di accesso alla rete fissa: gli elementi di indirizzo dell’accesso e, se disponibile, l’indirizzo postale.
 
-  in caso di accesso alla rete mediante telefonia mobile: le informazioni GPRS ed EPS (in particolare IMSI o MSISDN) e i seguenti dati di localizzazione a inizio e fine sessione nonché, se disponibili, durante la sessione. Se note, devono essere trasmesse informazioni complementari relative alla localizzazione provenienti dalla navigazione marittima o aerea:
-
-  - 1\. gli identificativi della cella e della zona, le coordinate geografiche e, se del caso, la direzione di trasmissione e l’indirizzo postale, o
-  - 2\. la posizione del target determinata dalla rete (p. es. sotto forma di coordinate geografiche e relativo valore di incertezza oppure di poligonali con indicazione delle coordinate geografiche di ogni punto poligonometrico) nonché i relativi indirizzi postali, o
-  - 3\. altre indicazioni, conformi alle norme internazionali, sulla localizzazione del target o delle celle usate da quest’ultimo nonché i relativi indirizzi postali;
-
-- h. in caso di accesso alla rete mediante WLAN pubblico: il BSSID e, se disponibile, il SSID e i dati di localizzazione sotto forma di coordinate geografiche e l’indirizzo postale del punto di accesso WLAN usato dal target; il nome utente, il tipo di autentificazione, le informazioni complementari disponibili sull’identificazione dell’utente (numero di telefono, indirizzo MAC, IMSI, identificativo dell’utente impiegato per l’autentificazione e password) e l’indirizzo IP del punto di accesso WLAN. Se disponibili, devono essere trasmesse informazioni complementari relative alla localizzazione provenienti dalla navigazione marittima o aerea;
-- i. in caso di accesso alla rete fissa: gli elementi d’indirizzo dell’accesso alla rete e, se disponibile, l’indirizzo postale.
+[^60-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 61
 
 **Tipo di sorveglianza HD\_29\_TEL: sorveglianza retroattiva dei metadati per i servizi di telefonia e multimedia**
 
-Il tipo di sorveglianza HD\_29\_TEL comprende la sorveglianza retroattiva dei metadati di un servizio di telefonia e multimedia e, se del caso, dei servizi convergenti, in particolare SMS, MMS e segreteria vocale. Devono essere trasmessi i seguenti metadati delle comunicazioni e dei tentativi di comunicazione dei servizi sorvegliati:
+Il tipo di sorveglianza HD\_29\_TEL comprende la sorveglianza retroattiva dei metadati di un servizio di telefonia e multimediale e, se del caso, dei servizi convergenti, in particolare SMS, segreteria vocale e RCS. Devono essere trasmessi i seguenti metadati delle comunicazioni e dei tentativi di comunicazione dei servizi sorvegliati:[^61-1]
 
 - a. il loro tipo, la data e l’ora di inizio ed eventualmente di fine oppure la loro durata;
-- b. gli elementi d’indirizzo (p. es MSISDN, numero E.164, SIP URI, IMPU) di tutti i partecipanti alla comunicazione e i loro ruoli;
+- b.[^61-2] gli elementi di indirizzo (p. es MSISDN, GPSI, numero E.164, SIP URI, IMPU) di tutti i partecipanti alla comunicazione e il loro ruolo;
 - c. il motivo della fine della comunicazione o dei tentativi di comunicazione;
-- d. per la telefonia mobile (per i servizi multimedia se disponibili): l’IMEI dell’apparecchiatura terminale del target e l’IMSI del target;
+- d.[^61-3] per i servizi di telefonia mobile: l’IMEI o il PEI del dispositivo del target e l’IMSI o il SUPI del target;
 - e. se pertinente, il tipo di servizio portante;
 - f. per gli SMS e gli MMS: le informazioni sull’evento, il tipo (soltanto per gli SMS) e lo stato;
-- g.
-
-  per la telefonia mobile: i dati di localizzazione della cella utilizzata dal target all’inizio e alla fine della comunicazione o del tentativo di comunicazione. Se note, devono essere trasmesse informazioni complementari relative alla localizzazione provenienti dalla navigazione marittima o aerea:
-
-  - 1\. gli identificativi della cella e della zona, le coordinate geografiche e, se del caso, la direzione di trasmissione e l’indirizzo postale, o
-  - 2\. la posizione del target calcolata dalla rete (p. es. sotto forma di coordinate geografiche e relativo valore di incertezza oppure di poligonali con indicazione delle coordinate geografiche di ogni punto poligonometrico) nonché i relativi indirizzi postali, o
-  - 3\. altre indicazioni, conformi alle norme internazionali, sulla localizzazione del target o delle celle usate da quest’ultimo nonché i relativi indirizzi postali;
-
+- g.[^61-4] per i servizi di telefonia mobile: i dati di localizzazione, determinati per quanto possibile dalla rete e contrassegnati come tali, delle celle utilizzate dal target o dell’accesso non 3GPP all’inizio e alla fine della comunicazione o del tentativo di comunicazione nonché, se disponibili, quelli durante la comunicazione conformemente alle prescrizioni applicabili del DFGP;
+- g.<sup>bis</sup> [^61-5] se disponibili, in aggiunta ai dati di cui alla lettera g, le informazioni relative alla localizzazione provenienti dalla navigazione marittima e aerea;
 - h.
 
   per i servizi multimedia:
@@ -1179,73 +1540,95 @@ Il tipo di sorveglianza HD\_29\_TEL comprende la sorveglianza retroattiva dei me
   - 1\. l’indirizzo IP del client, il suo tipo e il numero di porto,
   - 2\. l’identificativo di correlazione della comunicazione,
   - 3\. i tipi di contenuto multimedia,
-  - 4\. le informazioni sui componenti multimedia (ora, nome, descrizione, iniziatore, identificativo del correlativo di accesso), e
-  - 5\. se pertinenti, le informazioni sui servizi IMS (tipo di servizio IMS utilizzato, ruolo dell’elemento di rete da cui provengono i metadati); e
+  - 4\. le informazioni sui componenti multimediali (ora, nome, descrizione, iniziatore, identificativo del correlativo di accesso), e
+  - 5\. se pertinenti, le informazioni sui servizi IMS (tipo di servizio IMS utilizzato, ruolo dell’elemento di rete da cui provengono i metadati);
 
-- i.
+- i.[^61-6]
 
-  per i servizi multimedia: le informazioni sull’accesso alla rete del target:
+  per i servizi multimediali: le informazioni sull’accesso alla rete del target:
 
   - 1\. il tipo di accesso,
   - 2\. la classe di accesso,
-  - 3\. se le informazioni sull’accesso alla rete provengono dalla rete, e
-  - 4\.
+  - 3\. l’indicazione se le informazioni sull’accesso alla rete provengono dalla rete, e
+  - 4\. i dati di localizzazione relativi all’accesso alla rete all’inizio e alla fine della sessione multimediale nonché, se disponibili, quelli durante la sessione multimediale conformemente alle prescrizioni applicabili del DFGP; e
 
-    i dati di localizzazione relativi all’accesso alla rete all’inizio e alla fine della sessione multimediale nonché, se disponibili, durante la sessione multimediale:
+- j.[^61-7] se del caso, la designazione delle reti immediatamente
 
-    - – per l’accesso alla rete via rete di telefonia mobile; i dati di localizzazione della cella utilizzata dal target secondo la lettera g, o
-    - – per l’accesso alla rete via WLAN: i dati di localizzazione disponibili del punto di accesso WLAN utilizzato dal target (coordinate geografiche, indirizzo postale), o
-    - – per l’accesso alla rete fissa: l’indirizzo postale disponibile dell’accesso utilizzato dal target.
+[^61-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-5]: Introdotta dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-7]: Introdotta dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 62
 
-**Tipo di sorveglianza HD\_30\_EMAIL: sorveglianza retroattiva dei metadati per servizi di posta elettronica**
+**Tipo di sorveglianza HD\_30\_EMAIL: sorveglianza retroattiva dei metadati per servizi di posta elettronica**[^62-1]
 
 Il tipo di sorveglianza HD\_30\_EMAIL comprende la sorveglianza retroattiva dei metadati di un servizio di posta elettronica. Devono essere trasmessi i seguenti metadati del traffico delle telecomunicazioni inviato, trattato o ricevuto tramite il servizio sorvegliato:
 
-- a. la data, l’ora, il tipo di evento, l’identificativo dell’utente, gli eventuali indirizzi alias, gli indirizzi di mittente e destinatario, il protocollo usato, gli indirizzi IP del server e del client, nonché lo stadio a cui si trova il messaggio in caso di invio, ricezione, login nella casella di posta, logout e, se disponibile, anche in caso di download, upload, eliminazione, elaborazione, aggiunta di un messaggio;
-- b. gli indirizzi IP e i nomi dei server di posta elettronica di mittente e destinatario.
+- a. la data, l’ora, il tipo di evento, gli identificativi dell’utente, gli eventuali indirizzi alias, gli indirizzi di mittente e destinatario, il protocollo usato, gli indirizzi IP e i numeri di porta del server e del client, nonché eventualmente lo stato di recapito del messaggio nei casi di invio, ricezione, login nella casella di posta, logout e, se disponibile, anche nei casi di download, upload, eliminazione, elaborazione, aggiunta di un messaggio;
+- b. gli indirizzi IP e i nomi dei server di posta elettronica in uscita e in arrivo.
+
+[^62-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 63
 
-**Tipo di sorveglianza HD\_31\_PAGING: determinazione dell’ultima attività dell’apparecchiatura terminale mobile della persona sorvegliata**
+**Tipo di sorveglianza HD\_31\_PAGING: determinazione della localizzazione al momento dell’ultima attività**[^63-1]
 
-Il tipo di sorveglianza HD\_31\_PAGING comprende la determinazione dell’ultima attività (servizi di accesso alla rete, di telefonia e multimedia) rilevata dal fornitore di telefonia mobile per l’apparecchiatura terminale mobile della persona sorvegliata e la trasmissione di MSISDN, IMSI, IMEI (se disponibili), tipo di tecnologia di telefonia mobile, banda di frequenze, identificativo univoco della rete mobile, data e ora dell’ultima attività accertata nonché una delle seguenti indicazioni necessarie alla localizzazione:
+<sup>1</sup> Il tipo di sorveglianza HD\_31\_PAGING comprende la determinazione della localizzazione al momento dell’ultima attività rilevabile dal fornitore di telefonia mobile per i servizi di accesso alla rete e per i servizi di telefonia e multimediali di tutti i dispositivi mobili della persona sorvegliata associati al Target ID.
 
-- a. le indicazioni della cella usata: l’identificativo o una combinazione di identificativi (p. es. CGI, ECGI, SAI, RAI, TAI), l’indirizzo postale, la direzione di trasmissione o, per le celle complesse, la direzione di trasmissione e il tipo di cella, le coordinate geografiche;
-- b. l’indirizzo postale e la posizione del terminale determinata dalla rete al momento dell’ultima attività, ad esempio sotto forma di coordinate geografiche e relativo valore di incertezza oppure di una poligonale con indicazione delle coordinate geografiche di ogni punto poligonometrico; o
-- c. l’indirizzo postale e altre indicazioni standardizzate determinate dalla rete sulla posizione dell’apparecchiatura terminale al momento dell’ultima attività oppure sulla localizzazione della cella usata.
+<sup>2</sup>
+
+Devono essere trasmessi:
+
+- a. il MSISDN o il GPSI;
+- b. l’IMSI o il SUPI;
+- c. se disponibile, l’IMEI o il PEI;
+- d. il tipo di tecnologia di accesso alla rete utilizzato;
+- e. se del caso, la banda di frequenza;
+- f. l’identificativo univoco della rete di telefonia mobile;
+- g. la data e l’ora dell’ultima attività rilevabile per i servizi di accesso alla rete e i servizi di telefonia e multimediali; e
+- h. i dati di localizzazione conformemente alle prescrizioni applicabili del DFGP.
+
+[^63-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 64
 
 **Tipo di sorveglianza AS\_32\_PREP\_COV: analisi della copertura di rete in vista di una ricerca per zona di copertura dell’antenna**
 
-<sup>1</sup> Il tipo di sorveglianza AS\_32\_PREP\_COV comprende l’analisi della copertura di rete in vista di una ricerca per zona di copertura dell’antenna secondo l’articolo 66. È condotta dal FST e finalizzata a identificare tutte le celle radio o i punti di accesso WLAN pubblici che più probabilmente coprono la localizzazione designata dall’autorità che dispone la sorveglianza sotto forma di coordinate geografiche o tramite indirizzo postale, se del caso tenendo conto di ulteriori indicazioni (p. es. orario, condizioni meteorologiche, giorno della settimana, localizzazione all’interno o all’esterno di un edificio).
+<sup>1</sup> Il tipo di sorveglianza AS\_32\_PREP\_COV comprende l’analisi della copertura di rete in vista di una ricerca per zona di copertura dell’antenna secondo l’articolo 66. È condotta dal FST e finalizzata a identificare tutte le celle radio o accesso WLAN pubblico che più probabilmente coprono la localizzazione designata dall’autorità che dispone la sorveglianza sotto forma di coordinate geografiche o tramite indirizzo postale, se del caso tenendo conto di ulteriori indicazioni (p. es. orario, condizioni meteorologiche, giorno della settimana, localizzazione all’interno o all’esterno di un edificio).
 
-<sup>2</sup> Il FST trasmette al Servizio SCPT un elenco degli identificativi della cella (p. es. CGI, ECGI) oppure l’identificativo BSSID delle celle radio o dei punti di accesso WLAN pubblici identificati.
+<sup>2</sup> Il FST trasmette al Servizio SCPT un elenco degli identificativi della cella o della zona delle celle radio identificate e degli identificativi (p. es. BSSID) o altre designazioni idonee (p. es. nome dell’hotspot) degli accessi WLAN pubblici gestiti professionalmente identificati.[^64-1]
+
+[^64-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 65
 
 **Tipo di sorveglianza AS\_33\_PREP\_REF: comunicazioni di riferimento o accessi di riferimento alla rete in vista di una ricerca per zona di copertura dell’antenna**
 
-<sup>1</sup> Il tipo di sorveglianza AS\_33\_PREP\_REF comprende la determinazione delle celle radio oppure dei punti di accesso WLAN pubblici sulla scorta di comunicazioni di riferimento o accessi di riferimento alla rete in vista di una ricerca per zona di copertura dell’antenna secondo l’articolo 66.
+<sup>1</sup> Il tipo di sorveglianza AS\_33\_PREP\_REF comprende la determinazione delle celle radio oppure di accesso WLAN pubblico sulla scorta di comunicazioni di riferimento o accessi di riferimento alla rete in vista di una ricerca per zona di copertura dell’antenna secondo l’articolo 66.
 
 <sup>2</sup>
 
-L’autorità che dispone la sorveglianza fa eseguire di sua iniziativa comunicazioni e accessi alla rete nel luogo in questione e trasmette al Servizio SCPT un elenco con le seguenti indicazioni:
+L’autorità che dispone la sorveglianza fa eseguire di sua iniziativa comunicazioni di riferimento e accessi di riferimento alla rete nella localizzazione determinante e trasmette al Servizio SCPT un elenco con le seguenti indicazioni:[^65-1]
 
 - a. il tipo di comunicazione o di accesso alla rete;
 - b. la data e l’ora della comunicazione o dell’accesso alla rete;
-- c. l’elemento d’indirizzo del servizio di telefonia e multimedia utilizzato oppure del servizio di accesso alla rete;
+- c. l’elemento d’indirizzo del servizio di telefonia e multimediale utilizzato oppure del servizio di accesso alla rete;
 - d. se del caso, il nome della rete mobile utilizzata.
 
-<sup>3</sup> Il Servizio SCPT incarica i FST di identificare, sulla scorta dei metadati del traffico delle telecomunicazioni, le celle radio o i punti di accesso WLAN pubblici usati all’inizio e alla fine delle comunicazioni di riferimento e degli accessi di riferimento alla rete di cui al capoverso 2 e di trasmettergli l’elenco di cui al capoverso 2 completo di identificativi della cella (p. es. CGI, ECGI) oppure dei BSSID.
+<sup>3</sup> Il Servizio SCPT incarica i FST di identificare, sulla scorta dei metadati del traffico delle telecomunicazioni, le celle radio o gli accessi WLAN pubblici usati all’inizio e alla fine delle comunicazioni di riferimento e degli accessi di riferimento alla rete di cui al capoverso 2 e di trasmettergli l’elenco di cui al capoverso 2 completo dei relativi identificativi della cella o della zona delle celle radio, dei relativi identificativi (p. es. BSSID) o di altre designazioni idonee (p. es. nome dell’hotspot) degli accessi WLAN.[^65-2]
+
+[^65-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^65-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 66
 
 **Tipo di sorveglianza AS\_34: ricerca per zona di copertura dell’antenna**
 
-<sup>1</sup> Il tipo di sorveglianza AS\_34 comprende la sorveglianza retroattiva di tutte le comunicazioni, i tentativi di comunicazione e gli accessi alla rete che hanno avuto luogo in un periodo di al massimo due ore mediante una determinata cella radio o un determinato punto di accesso WLAN pubblico.[^66-1]
+<sup>1</sup> Il tipo di sorveglianza AS\_34 comprende la sorveglianza retroattiva di tutte le comunicazioni, i tentativi di comunicazione e gli accessi alla rete che hanno avuto luogo in un periodo di al massimo due ore mediante una determinata cella radio o un determinato accesso WLAN pubblico.[^66-1]
 
 <sup>2</sup> Il FST trasmette i metadati del traffico delle telecomunicazioni secondo gli articoli 60 e 61 risultanti dal capoverso 1.
 
@@ -1259,32 +1642,38 @@ L’autorità che dispone la sorveglianza fa eseguire di sua iniziativa comunica
 
 #### Art. 67
 
-**Tipo di sorveglianza EP: ricerca d’emergenza**
+**Tipi di sorveglianza EP: ricerca d’emergenza**[^67-1]
 
 Per la ricerca d’emergenza secondo l’articolo 35 LSCPT possono essere ordinati i seguenti tipi di sorveglianza:
 
-- a.
+- a. il tipo EP\_35\_PAGING: la localizzazione al momento dell’ultima attività, rilevabile dal fornitore di telefonia mobile, di tutti i dispositivi mobili, associati al Target ID, della persona dispersa o di terzi; corrisponde al tipo HD\_31\_PAGING secondo l’articolo 63;
+- b. il tipo EP\_56\_POS\_ONCE: la determinazione unica e immediata mediante la rete della posizione di tutti i dispositivi mobili, associati al Target ID, della persona dispersa o di terzi; corrisponde al tipo RT\_54\_POS\_ONCE secondo l’articolo 56*a*;
+- c. il tipo EP\_57\_POS\_PERIOD: la determinazione ricorrente e periodica mediante la rete della posizione di tutti i dispositivi mobili, associati al Target ID, della persona dispersa o di terzi; corrisponde al tipo RT\_55\_POS\_PERIOD secondo l’articolo 56*b*;
+- d. il tipo EP\_36\_RT\_CC\_IRI: sorveglianza in tempo reale dei contenuti e dei metadati; corrisponde alla combinazione dei tipi di sorveglianza secondo gli articoli 55 (servizi di accesso alla rete) e 57 (servizi di telefonia e multimediali);
+- e. il tipo EP\_37\_RT\_IRI: sorveglianza in tempo reale dei metadati; corrisponde alla combinazione dei tipi di sorveglianza secondo gli articoli 54 (servizi di accesso alla rete) e 56 (servizi di telefonia e multimediali);
+- f. il tipo EP\_38\_HD: sorveglianza retroattiva dei metadati; corrisponde alla combinazione dei tipi di sorveglianza secondo gli articoli 60 (servizi di accesso alla rete) e 61 (servizi di telefonia e multimediali).
 
-  il tipo EP\_35\_PAGING: la determinazione dell’ultima attività (servizi di accesso alla rete, di telefonia e multimedia) rilevata dal fornitore di telefonia mobile per l’apparecchiatura terminale mobile della persona dispersa o di una terza persona e la consegna di MSISDN, IMSI, IMEI (se disponibili), tipo di tecnologia di telefonia mobile, banda di frequenze, identificativo univoco della rete mobile, data e ora dell’ultima attività accertata nonché una delle seguenti indicazioni necessarie alla localizzazione:
-
-  - 1\. le indicazioni della cella usata: l’identificativo o una combinazione di identificativi (p. es. CGI, ECGI, SAI, RAI, TAI), l’indirizzo postale, la direzione di trasmissione o, per le celle complesse, la direzione di trasmissione e il tipo di cella, le coordinate geografiche,
-  - 2\. l’indirizzo postale e la posizione del terminale determinata dalla rete al momento dell’ultima attività, ad esempio sotto forma di coordinate geografiche e relativo valore di incertezza oppure di una poligonale con indicazione delle coordinate geografiche di ogni punto poligonometrico, o
-  - 3\. l’indirizzo postale e altre indicazioni standardizzate determinate dalla rete sulla posizione dell’apparecchiatura terminale al momento dell’ultima attività oppure sulla localizzazione della cella usata;
-
-- b. il tipo EP\_36\_RT\_CC\_IRI (sorveglianza in tempo reale di contenuto e metadati): la combinazione dei tipi di sorveglianza secondo l’articolo 55 (servizi di accesso alla rete) e secondo l’articolo 57 (servizi di telefonia e multimedia);
-- c. il tipo EP\_37\_RT\_IRI (sorveglianza in tempo reale di metadati): la combinazione dei tipi di sorveglianza secondo l’articolo 54 (servizi di accesso alla rete) e secondo l’articolo 56 (servizi di telefonia e multimedia);
-- d. il tipo EP\_38\_HD (sorveglianza retroattiva di metadati): la combinazione dei tipi di sorveglianza secondo l’articolo 60 (servizi di accesso alla rete) e secondo l’articolo 61 (servizi di telefonia e multimedia).
+[^67-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 68
 
-**Ricerca di condannati**
+**Ricerca di condannati**[^68-1]
+
+<sup>1</sup>
 
 Per la ricerca di condannati secondo l’articolo 36 LSCPT possono essere ordinati i seguenti tipi di sorveglianza, indicando nell’ordine di sorveglianza «ricerca di condannati» come motivo della sorveglianza (art. 49 cpv. 1 lett. e):
 
-- a. uno dei tipi di sorveglianza in tempo reale dei contenuti e dei metadati per i servizi di accesso alla rete o per le applicazioni di cui agli articoli 55, 57 o 59;
-- b. uno dei tipi di sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete o per le applicazioni di cui agli articoli 54, 56 o 58;
-- c. uno dei tipi di sorveglianza retroattiva dei metadati per i servizi di accesso alla rete o per le applicazioni di cui agli articoli 60–63;
-- d. la ricerca per zona di copertura dell’antenna di cui all’articolo 66 e i pertinenti preparativi di cui agli articoli 64 e 65.
+- a. la determinazione della localizzazione al momento dell’ultima attività rilevabile dal fornitore di telefonia mobile di tutti i dispositivi mobili, del condannato o di terzi, associati al Target ID secondo l’articolo 63;
+- b. la determinazione unica e immediata della posizione mediante la rete di tutti i dispositivi mobili, del condannato o di terzi, associati al Target ID secondo l’articolo 56*a*;
+- c. la determinazione periodica e ricorrente mediante la rete della posizione di tutti i dispositivi mobili, del condannato o di terzi, associati al Target ID secondo l’articolo 56*b*;
+- d. uno dei tipi di sorveglianza in tempo reale dei contenuti e dei metadati dei servizi di accesso alla rete o delle applicazioni secondo gli articoli 55, 57 o 59;
+- e. uno dei tipi di sorveglianza in tempo reale dei metadati dei servizi di accesso alla rete o delle applicazioni secondo gli articoli 54, 56 o 58;
+- f. uno dei tipi di sorveglianza retroattiva secondo gli articoli 60–62;
+- g. la ricerca per zona di copertura dell’antenna secondo l’articolo 66 e i pertinenti preparativi secondo gli articoli 64 e 65.
+
+<sup>2</sup> Per il tipo di sorveglianza di cui al capoverso 1 lettera f, l’inizio e la fine della sorveglianza sono retti dall’articolo 4*a*.
+
+[^68-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 68a
 
@@ -1292,11 +1681,11 @@ Per la ricerca di condannati secondo l’articolo 36 LSCPT possono essere ordina
 
 <sup>1</sup> Per la localizzazione di potenziali terroristi tramite telefonia mobile secondo l’articolo 23*q* capoverso 3 della legge federale del 21 marzo 1997[^68a-2] sulle misure per la salvaguardia della sicurezza interna può essere ordinato il tipo di sorveglianza ML\_50\_RT.
 
-<sup>2</sup> Questo tipo di sorveglianza comprende la combinazione della sorveglianza in tempo reale, ai fini della localizzazione tramite telefonia mobile, dei metadati per i servizi di accesso alla rete, per i servizi di telefonia e multimedia e, se del caso, per i servizi convergenti, in particolare SMS, segreteria vocale e RCS.
+<sup>2</sup> Questo tipo di sorveglianza comprende la combinazione della sorveglianza in tempo reale, ai fini della localizzazione tramite telefonia mobile, dei metadati per i servizi di accesso alla rete, per i servizi di telefonia e multimediale e, se del caso, per i servizi convergenti, in particolare SMS, segreteria vocale e RCS.
 
 <sup>3</sup> Per i servizi di accesso alla rete devono essere trasmessi i metadati del traffico delle telecomunicazioni secondo l’articolo 54 capoverso 2 lettere a–c, g e h nonché capoverso 3.
 
-<sup>4</sup> Per i servizi di telefonia e multimedia nonché per i servizi convergenti devono essere trasmessi i metadati del traffico delle telecomunicazioni secondo l’articolo 56 capoverso 1 lettere a, b, d ed e numeri 1 e 9, nonché capoverso 2.
+<sup>4</sup> Per i servizi di telefonia e multimediale nonché per i servizi convergenti devono essere trasmessi i metadati del traffico delle telecomunicazioni secondo l’articolo 56 capoverso 1 lettere a, b, d ed e numeri 1 e 9, nonché capoverso 2.
 
 [^68a-1]: Introdotto dal n. I 12 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^68a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
@@ -1305,7 +1694,7 @@ Per la ricerca di condannati secondo l’articolo 36 LSCPT possono essere ordina
 
 #### Art. 69
 
-La sorveglianza secondo gli articoli 56–59, 61 e 62 comprende anche il traffico delle telecomunicazioni che ha luogo tramite i servizi sorvegliati e può essere attribuito all’identificativo sorvegliato (Target ID), anche se quest’ultimo non è gestito dal fornitore incaricato.
+La sorveglianza secondo gli articoli 56–59, 61 e 62 comprende anche il traffico delle telecomunicazioni che ha luogo tramite i servizi sorvegliati e può essere attribuito al Target ID, anche se quest’ultimo non è gestito dal fornitore incaricato.
 
 ## Capitolo 4: Disposizioni finali
 
@@ -1369,9 +1758,9 @@ Le ordinanze qui appresso sono modificate come segue:
 
 <sup>3</sup> I FST che, entro tre mesi dall’entrata in vigore della presente ordinanza, presentano al Servizio SCPT una domanda per essere classificati come FST con obblighi di sorveglianza ridotti secondo l’articolo 51 sono considerati tali dall’entrata in vigore della presente ordinanza e per la durata della procedura. Il Servizio SCPT può negare tale classificazione per la durata della procedura se l’approvazione della domanda è improbabile. L’articolo 51 capoverso 5 non si applica ai fornitori di servizi di telecomunicazione finora assoggettati all’obbligo di notifica.
 
-<sup>4</sup> Al più tardi tre mesi dopo l’entrata in vigore della presente ordinanza, i FST e i fornitori di servizi di comunicazione con obblighi di sorveglianza supplementari secondo l’articolo 22 adeguano i loro sistemi per attuare i nuovi requisiti quanto all’identificazione degli utenti (art. 19) e alla registrazione dei dati degli utenti dei servizi di telefonia mobile (art. 20).
+<sup>4</sup> Al più tardi tre mesi dopo l’entrata in vigore della presente ordinanza, i FST e i FSCD[^74-1] con obblighi di sorveglianza supplementari secondo l’articolo 22 adeguano i loro sistemi per attuare i nuovi requisiti quanto all’identificazione degli utenti (art. 19) e alla registrazione dei dati degli utenti dei servizi di telefonia mobile (art. 20).
 
-<sup>5</sup> Al più tardi sei mesi dopo l’entrata in vigore della presente ordinanza, i FST, eccetto quelli con obblighi di sorveglianza ridotti secondo l’articolo 51, e i fornitori di servizi di comunicazione derivati con obblighi di sorveglianza supplementari secondo l’articolo 52 adeguano i loro sistemi per poter fornire le informazioni secondo gli articoli 38 e 39.
+<sup>5</sup> Al più tardi sei mesi dopo l’entrata in vigore della presente ordinanza, i FST, eccetto quelli con obblighi di sorveglianza ridotti secondo l’articolo 51, e i FSCD con obblighi di sorveglianza supplementari secondo l’articolo 52 adeguano i loro sistemi per poter fornire le informazioni secondo gli articoli 38 e 39.
 
 <sup>6</sup>
 
@@ -1382,15 +1771,16 @@ Al più tardi 24 mesi dopo l’entrata in vigore della presente ordinanza:
 
 <sup>7</sup>
 
-Fino alla messa in esercizio del nuovo sistema di trattamento, acquistato con il programma STC[^74-1]:
+Fino alla messa in esercizio del nuovo sistema di trattamento, acquistato con il programma STC[^74-2]:
 
 - a. il Servizio SCPT può allestire le statistiche (art. 12) secondo il diritto anteriore;
 - b. le informazioni (art. 35–48) e sorveglianze (art. 54–68) si svolgono ancora con il sistema esistente, i precedenti formati e i relativi moduli. Sono trasmesse con un mezzo di trasmissione sicuro autorizzato dal Servizio SCPT, per posta o telefax; l’articolo 17 capoversi 1 e 2 non è applicabile;
 - c. le informazioni con ricerca flessibile di nomi secondo l’articolo 27 in combinato disposto con gli articoli 35, 40, 42 e 43 non sono possibili; dalla messa in esercizio del nuovo sistema di trattamento sono eseguite soltanto con gli FST e i fornitori di servizi di telecomunicazione derivati con obblighi di informazione supplementari secondo l’articolo 22 che hanno debitamente adeguato i loro sistemi.
 
-<sup>8</sup> Al più tardi entro 12 mesi dalla messa in esercizio del nuovo sistema di trattamento, gli FST e i fornitori di servizi di comunicazione derivati con obblighi di informazione supplementari secondo l’articolo 22 adeguano i propri sistemi per poter fornire le informazioni di cui agli articoli 35–37 e 40–42 nonché articolo 27 in combinato disposto con gli articoli 35, 40, 42 in modo automatizzato tramite l’interfaccia di consultazione del sistema di trattamento (art. 18 cpv. 2) e per poter eseguire la ricerca flessibile dei nomi secondo l’articolo 27 in combinato disposto con gli articoli 35, 40, 42 e 43.
+<sup>8</sup> Al più tardi entro 12 mesi dalla messa in esercizio del nuovo sistema di trattamento, gli FST e i FSCD con obblighi di informazione supplementari secondo l’articolo 22 adeguano i propri sistemi per poter fornire le informazioni di cui agli articoli 35–37 e 40–42 nonché articolo 27 in combinato disposto con gli articoli 35, 40, 42 in modo automatizzato tramite l’interfaccia di consultazione del sistema di trattamento (art. 18 cpv. 2) e per poter eseguire la ricerca flessibile dei nomi secondo l’articolo 27 in combinato disposto con gli articoli 35, 40, 42 e 43.
 
-[^74-1]: [FF 2015 2543](https://fedlex.data.admin.ch/eli/fga/2015/612)
+[^74-1]: Nuova espr. giusta il n. I cpv. 3 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^74-2]: [FF 2015 2543](https://fedlex.data.admin.ch/eli/fga/2015/612)
 
 #### Art. 74a
 
@@ -1398,11 +1788,38 @@ Fino alla messa in esercizio del nuovo sistema di trattamento, acquistato con il
 
 <sup>1</sup> Il Servizio SCPT adegua il suo sistema di trattamento entro 12 mesi dal rinnovo del componente di sistema per la sorveglianza in tempo reale al fine di poter eseguire le localizzazioni di potenziali terroristi tramite telefonia mobile in modo standardizzato e registrarle nella statistica.
 
-<sup>2</sup> I FST, eccetto quelli con obblighi di sorveglianza ridotti (art. 51), e i fornitori di servizi di comunicazione derivati con obblighi di sorveglianza supplementari (art. 52) adeguano i loro sistemi entro 12 mesi dal rinnovo del componente di sistema per la sorveglianza in tempo reale al fine di poter eseguire le localizzazioni di potenziali terroristi tramite telefonia mobile (art. 68*a*) in modo standardizzato.
+<sup>2</sup> I FST, eccetto quelli con obblighi di sorveglianza ridotti (art. 51), e i FSCD con obblighi di sorveglianza supplementari (art. 52) adeguano i loro sistemi entro 12 mesi dal rinnovo del componente di sistema per la sorveglianza in tempo reale al fine di poter eseguire le localizzazioni di potenziali terroristi tramite telefonia mobile (art. 68*a*) in modo standardizzato.
 
 <sup>3</sup> Finché le localizzazioni di potenziali terroristi tramite telefonia mobile non possono essere eseguite in modo standardizzato secondo l’articolo 68*a*, i fornitori eseguono i tipi di sorveglianza secondo l’articolo 54 e, all’occorrenza, secondo gli articoli 56 e 63. Il Servizio SCPT trasmette alle autorità legittimate i dati di cui agli articoli 54 e 63. Trasmette i dati di cui all’articolo 56 soltanto nella misura prevista dall’articolo 68*a*. Se il suo sistema di trattamento non può garantire questa cernita, il Servizio SCPT non trasmette alcun dato. Distrugge i dati non trasmessi. Gli emolumenti e le indennità sono calcolati in funzione dei tipi di sorveglianza ordinati (art. 54, 56 e 63).
 
 [^74a-1]: Introdotto dal n. I 12 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 74b
+
+**Disposizione transitoria della modifica del 15 novembre 2023**[^74b-1]
+
+<sup>1</sup> I FST garantiscono la disponibilità a fornire le informazioni di cui agli articoli 48*a* e 48*c* entro 24 mesi dall’entrata in vigore della modifica del 15 novembre 2023.
+
+<sup>2</sup> I FST, eccettuati quelli con obblighi di sorveglianza ridotti (art. 51), devono essere in grado di fornire in modo standardizzato le informazioni di cui all’articolo 48*b* dalla messa in esercizio del loro primo accesso commerciale alla rete di telefonia mobile che nasconde gli identificativi permanenti sull’interfaccia radio.
+
+<sup>3</sup> Devono essere in grado di effettuare in modo standardizzato le sorveglianze di cui agli articoli 56*a* e 67 lettera b entro 24 mesi dall’entrata in vigore della modifica del 15 novembre 2023.
+
+<sup>4</sup> Devono attuare l’integrazione della sorveglianza retroattiva di cui all’articolo 61 lettera j entro 24 mesi dall’entrata in vigore della modifica del 15 novembre 2023 e garantire la memorizzazione dei dati necessari a tal fine entro 18 mesi dall’entrata in vigore di detta modifica*.*
+
+<sup>5</sup> Devono essere in grado di effettuare in modo standardizzato le sorveglianze di cui agli articoli 56*b* e 67 lettera c entro 24 mesi dal rinnovo della componente del sistema di trattamento relativa alla sorveglianza in tempo reale.
+
+<sup>6</sup>
+
+Il Servizio SCPT adegua il suo sistema di trattamento entro 24 mesi dall’entrata in vigore della modifica del 15 novembre 2023, affinché:
+
+- a. possano essere fornite in modo standardizzato le informazioni di cui agli articoli 48*a* e 48*c* ed effettuate in modo standardizzato le sorveglianze di cui agli articoli 56*a* e 67 lettera b e tali informazioni e sorveglianze possano essere rilevate nelle statistiche;
+- b. possano essere ricevuti i dati di cui all’articolo 61 lettera j.
+
+<sup>7</sup> Adegua il suo sistema di trattamento affinché le informazioni di cui all’articolo 48*b* possano essere fornite in modo standardizzato dalla messa in esercizio del primo accesso commerciale alla rete di telefonia mobile che nasconde gli identificativi permanenti sull’interfaccia radio e possano essere rilevate nelle statistiche.
+
+<sup>8</sup> Adegua il suo sistema di trattamento entro 24 mesi dal rinnovo della componente del sistema di trattamento relativa alla sorveglianza in tempo reale affinché le sorveglianze di cui agli articoli 56*b* e 67 lettera c possano essere effettuate in modo standardizzato e rilevate nelle statistiche.
+
+[^74b-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 75
 
@@ -1410,57 +1827,70 @@ Fino alla messa in esercizio del nuovo sistema di trattamento, acquistato con il
 
 La presente ordinanza entra in vigore il 1° marzo 2018.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2)
 
 ## Termini e abbreviazioni
 
-- 1\. *Indirizzo IP (Internet Protocol Address)*: numero identificativo di tutti gli apparecchi collegati a una rete che comunicano mediante il protocollo Internet; ci sono indirizzi IP della versione 4 del protocollo (IPv4) e della versione 6 (IPv6).
-- 2\. *Utente*: persona che ha concluso con un fornitore di servizi di telecomunicazione o di comunicazione derivati un contratto sulla fruizione di tali servizi, che si è registrata per usufruire degli stessi o che ha ricevuto dal fornitore un mezzo di accesso agli stessi.
-- 3\. *Servizi multimediali*: servizi di comunicazione che integrano i servizi voce e altri tipi di media e funzioni, ad esempio video, trasferimento dati, immagini, audio, contenuti e informazioni di presenza (p. es. videotelefonia, Unified Communication, RCS, Multimedia Telephony Service).
-- 4\. *Identificativo*: elemento d’indirizzo, il numero identificativo o un altro identificativo univoco per un determinato utente, servizio o apparecchio.
-- 5\. *MSISDN (Mobile Subscriber Integrated Services Digital Network Number)*: numero di telefono univoco mediante il quale è possibile raggiungere gli utenti in una rete mobile.
-- 6\. *Identificativo DSL (Digital Subscriber Line)*: identificativo di un *collegamento digitale*, ovvero un accesso alla rete a banda larga in cui i dati possono essere trasmessi su cavi in rame.
-- 7\. *Prefisso IP*: parte dell’indirizzo IPv6 che identifica la rispettiva rete.
-- 8\. *Settore di indirizzi IP (range)*: serie di indirizzi IP che si succedono l’uno all’altro.
-- 9\. *Maschera di sottorete*: nella versione 4 del protocollo di rete (IPv4), indica il numero di bit che denota quale parte di un indirizzo IP identifica la rete.
-- 10\. *Lunghezza di prefisso*: nella versione 6 del protocollo di rete (IPv6), indica il numero di bit che denota quale parte di un indirizzo IP identifica la rete.
-- 11\. *SIM (Subscriber Identity Module)*: scheda munita di chip o il chip integrato nel terminale su cui sono memorizzati in modo sicuro l’IMSI e la relativa chiave usati per autenticare gli utenti di una rete mobile, compresi USIM (Universal Subscriber Identity Module), UICC (Universal Integrated Circuit Card) ed eSIM (embedded SIM).
-- 12\. *ICCID (Integrated Circuit Card Identifier)*: numero di serie di un chip integrato (p. es. eSIM) o di una scheda munita di chip (p. es. la carta SIM) che identifica in modo univoco il chip.
-- 13\. *IMSI (International Mobile Subscriber Identity)*: numero che serve all’identificazione univoca internazionale di un utente di una rete mobile.
-- 14\. *IMEI (International Mobile Equipment Identity)*: numero che identifica in modo univoco a livello internazionale un terminale di telefonia mobile.
-- 15\. *Indirizzo MAC* *(Media Access Control Address)*: codice hardware sulla scheda di rete o sull’adattatore di rete utilizzato come indirizzo univoco al livello dello strato 2 OSI.
-- 16\. *Codice PUK (Personal Unblocking Key)*: numero segreto non modificabile usato per sbloccare la SIM. Il codice PUK è vincolato alla SIM e sovraordinato al codice PIN: se viene inserito più volte un codice PIN errato, la SIM può essere sbloccata mediante il codice PUK.
-- 17\. *Codice PUK2 (Personal Unblocking Key 2)*: analogo al codice PUK, ma sovraordinato al codice PIN2.
-- 18\. *NAT (Network Address Translation)*: procedura per la traduzione degli indirizzi di rete. Consiste nella sostituzione automatizzata, da parte di un elemento di rete (p. es. router), delle informazioni di indirizzo nei pacchetti IP con altre informazioni di indirizzo.
-- 19\. *Indirizzo IP sorgente*: indirizzo IP del punto terminale di una comunicazione che stabilisce una connessione (normalmente il client).
-- 20\. *Numero di porta*: indirizzo di una porta. Una porta è il punto terminale logico di una comunicazione con o in un sistema informatico. È collegata con l’indirizzo IP e il tipo di protocollo della comunicazione.
-- 21\. *Numero di porta sorgente*: numero di porta del punto terminale di una comunicazione che stabilisce una connessione (normalmente il client).
-- 22\. *Indirizzo IP di destinazione*: indirizzo IP del punto terminale di una comunicazione con cui è stabilita una connessione (normalmente il server).
-- 23\. *Numero di porta di destinazione*: numero di porta del punto terminale di una comunicazione con cui è stabilita una connessione (normalmente il server).
-- 24\. *SIP (Session Initiation Protocol)*: protocollo di comunicazione usato per la segnalazione e la gestione delle sessioni di comunicazione multimediali.
-- 25\. *SIP URI (SIP Uniform Resource Identifier)*: schema URI per l’indirizzamento di SIP. Si tratta di elementi d’indirizzo nel formato *utente@domain.tld*.
-- 26\. *IMPU (IP Multimedia Public Identity)*: oltre all’IMPI, un utente IMS ha uno o più IMPU, che servono a comunicare con altri partecipanti. A un IMPI possono essere assegnati più IMPU e, viceversa, un IMPU può essere condiviso con altri utenti.
-- 27\. *TEL URI (Telephone Uniform Resource Identifier)*: schema URI per i numeri di telefono. Si tratta di elementi d’indirizzo nel formato *tel:numero*, ad esempio *tel:+41-868-868-868*.
-- 28\. *IMPI (IP Multimedia Private Identity)*: identificativo univoco a livello internazionale che è assegnato in modo definitivo all’utente dal fornitore ed usato, tra le altre cose, per la registrazione e i protocolli AAA. Ogni utente del IP Multimedia Subsystem (IMS) ha un IMPI. L’IMS è un sistema di telecomunicazione basato sul protocollo di rete che mira all’integrazione di servizi voce mobili e di funzioni Internet.
-- 29\. *Indirizzo alias*: indirizzo di posta elettronica supplementare che l’utente può creare, modificare e cancellare a piacere. Gli indirizzi alias, il cui numero massimo e struttura sono stabiliti dal fornitore, sono collegati all’account di posta elettronica principale, nella cui cartella di posta in entrata sono visualizzati i messaggi inviati a un indirizzo alias.
-- 30\. *Mailing list*: gruppo di indirizzi di posta elettronica, chiamato anche lista di distribuzione, a cui è assegnato un indirizzo di posta elettronica proprio. I messaggi inviati all’indirizzo della mailing list sono inoltrati agli indirizzi di posta elettronica dei membri del gruppo.
-- 31\. *Servizi di messaggeria* («*messaging»*): servizi per la trasmissione di comunicazioni o messaggi, indipendenti dai servizi di telefonia e multimedia, ad esempio: messaggistica istantanea, IMS messaging, applicazioni per messaggistica e SMS di fornitori terzi (ovvero servizi SMS non forniti dal FST dell’utente). I servizi di messaggistica possono includere anche altre funzioni come la comunicazione multimediale, la trasmissione di dati e le informazioni di presenza (p. es. l’utente può visualizzare lo stato attuale ed eventualmente la localizzazione di altri utenti).
-- 32\. *Servizi cloud*: servizi di comunicazione derivati, tra cui i servizi per il salvataggio di dati e le applicazioni, che sono disponibili online e, a seconda delle risorse richieste, ospitati in centri di calcolo.
-- 33\. *Servizi proxy*: interfaccia di comunicazione all’interno di una rete. È usato per svolgere un servizio di intermediazione, in cui le richieste ricevute sono trasmesse tramite l’indirizzo del proxy stesso al punto terminale con cui crea un collegamento; è pertanto importante ai fini dell’identificazione.
-- 34\. *Punto di accesso WLAN pubblico*: punto di accesso, pubblico e senza fili, a una rete pubblica di telecomunicazione che può trovarsi in locali privati o pubblici.
-- 35\. *CGI (Cell Global Identity):* identificativo invariato della cella nelle reti mobili di seconda e terza generazione (2G e 3G; cfr. 3GPP TS 23.003, Clause 4.3.1).
-- 36\. *ECGI (E-UTRAN Cell Global Identity)*: identificativo invariato della cella nelle reti mobili di quarta generazione (4G; cfr. 3GPP TS 23.003, Clause 19.6).
-- 37\. *SAI (Service Area Identity)*: identificativo invariato per la zona di copertura del servizio (*service area*), usato per la gestione della mobilità nelle reti mobili (cfr. 3GPP TS 23.003, Clause 12.5);
-- 38\. *RAI (Routing Area Identity)*: identificativo invariato per la zona di routing (*routing area*), usato nel settore del trasferimento di dati a pacchetto per la gestione della mobilità nelle reti mobili (cfr. 3GPP TS 23.003, Clause 4.2).
-- 39\. *TAI (Service Tracking Area Identity)*: identificativo invariato per la zona di tracciatura (*tracking area*), usato nelle reti mobili di quarta generazione per la gestione della mobilità (cfr. 3GPP TS 23.003, Clause 19.4.2.3).
-- 40\. *BSSID (Basic Service Set Identifier)*: identificativo univoco (indirizzo MAC) del punto di accesso WLAN.
-- 41\. *Target ID*: identificativo sorvegliato, ovvero l’identificativo dell’oggetto della sorveglianza (target).
-- 42\. *Informazioni AAA (autenticazione, autorizzazione e accounting)*: informazioni riguardanti il tipo di servizi autorizzati per determinati utenti e usate per quantificarne l’uso. Ai sensi della presente ordinanza le parole chiave non sono considerate informazioni AAA. L’autentificazione consente di identificare un utente prima di concedergli l’accesso al sistema; l’autorizzazione stabilisce quali diritti di accesso a risorse o servizi sono assegnati a un utente e permette il controllo degli accessi; l’accounting consiste nella tracciatura delle risorse usate dall’utente.
-- 43\. *SMS (Short Message Service)*: servizio di messaggeria che permette la trasmissione di brevi messaggi di testo.
-- 44\. *Segreteria vocale (Voice Mail)*: dispositivo di memorizzazione usato nelle reti di telecomunicazioni che mette a disposizione servizi di segreteria (p. es. ricezione, inoltro e salvataggio di messaggi vocali). Esistono inoltre estensioni per diversi tipi di media e servizi, ad esempio SMS, posta elettronica, telefax o messaggi video, nonché funzionalità aggiuntive che consentono, ad esempio, la conversione tra tipi di media e l’invio di messaggi.
-- 45\. *RCS (Rich Communications Services)*: (originariamente: Rich Communication Suite) è una specifica dell’associazione di categoria internazionale dei fornitori di servizi di telecomunicazione mobile (GSM Association, GSMA) per la fornitura basata su IMS di servizi multimediali interoperabili (cioè indipendenti dal fornitore e dal terminale) con funzionalità più ampie. Consente di combinare diversi tipi di media (voce, musica, foto, video ecc.) e servizi (chat, chat di gruppo, chiamate, messaggi multimediali, brevi o istantanei, informazioni di presenza, trasmissione di file, rubriche ecc.). I servizi RCS sono messi a disposizione dell’utente dal suo fornitore di servizi di telecomunicazione mobile.
-- 46\. *Numero E.164*: numero di telefono secondo il piano di numerazione internazionale E.164 di ITU-T.
-- 47\. *DTMF (Dual-tone multi-frequency)*: la multifrequenza è un sistema usato per codificare codici numerici sotto forma di segnali sonori, grazie al quale è possibile, ad esempio, inviare dei segnali per l’uso della segreteria telefonica o di un servizio vocale interattivo automatico premendo determinati tasti durante una telefonata.
-- 48\. *MMS (Multimedia Messaging Service)*: servizio di messaggeria per la trasmissione di messaggi multimediali nelle reti mobili.
+[^t-1]: Nuovo testo giusta il n. II dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+- 1\. *Servizio di comunicazione:* servizio che permette la telecomunicazione; ne fanno parte i servizi di telecomunicazione e i servizi di comunicazione derivati.
+- 2\. *Utente:* persona che ha concluso con un FST o un FSCD un contratto sulla fruizione di tali servizi, che si è registrata per usufruire degli stessi o che ha ricevuto dal fornitore un mezzo di accesso agli stessi.
+- 3\. *WLAN (Wireless Local Area Network):* rete locale senza fili.
+- 4\. *Identificativo:* elemento di indirizzo, il numero identificativo o un altro elemento che identifica in modo univoco un determinato utente, servizio o dispositivo.
+- 5\. *Indirizzo IP (Internet Protocol Adress):* numero identificativo di tutti i dispositivi collegati a una rete che comunicano mediante il protocollo Internet. Esistono indirizzi IP della versione 4 (IPv4) e della versione 6 (IPv6).
+- 6\. *Numero di porta:* indirizzo di una porta. Una porta è il punto terminale logico di una comunicazione con o in un sistema informatico; è collegata con l’indirizzo IP e il tipo di protocollo della comunicazione.
+- 7\. *NAT (Network Address Translation):* procedura per la traduzione degli indirizzi di rete. Consiste nella sostituzione automatizzata, da parte di un elemento di rete (p. es. router), delle informazioni di indirizzo in pacchetti IP con altre informazioni di indirizzo.
+- 8\. *Servizio di telefonia:* servizio interattivo che permette agli interlocutori di comunicare verbalmente in tempo reale; il relativo indirizzamento avviene secondo un piano di numerazione. Sono considerati servizi di telefonia anche i sistemi di segreteria telefonica offerti da un fornitore e collegati a un servizio di telefonia (p. es. casella vocale, segreteria vocale, segreteria visiva).
+- 9\. *Servizio multimediale:* servizio di telefonia che, oltre a servizi vocali, permette di usare anche altri tipi di media e funzioni quali video, immagini, audio, trasferimento di file, condivisione di contenuti, presentazione di contenuti, trasmissione di informazioni di presenza (p. es. videotelefonia, comunicazione unificata, RCS, teleconferenza, sedute di videoconferenza in linea).
+- 10\. *GPSI (Generic Public Subscription Identifier):* elemento di indirizzo pubblico univoco all’interno e all’esterno di reti 5G (p. es. MSISDN).
+- 11\. *MSISDN (Mobile Subscriber Integrated Services Digital Network Number):* numero di telefono univoco mediante il quale è possibile raggiungere gli utenti in una rete di telefonia mobile.
+- 12\. *Prefisso IP:* parte dell’indirizzo IP che identifica la rete.
+- 13\. *Settore di indirizzi IP (range):* serie di indirizzi IP che si succedono l’uno all’altro.
+- 14\. *Maschera di sottorete:* nella versione 4 del protocollo di rete (IPv4), numero di bit all’inizio dell’indirizzo IP, che identifica la rete.
+- 15\. *Lunghezza di prefisso:* nella versione 6 del protocollo di rete (IPv6), numero di bit all’inizio dell’indirizzo IP, che identifica la rete.
+- 16\. *ICCID (Integrated Circuit Card Identifier):* numero di serie di una scheda munita di chip (p. es. ICCID di una carta SIM) o di un profilo su un chip integrato (p. es. eUICC-ID) che identifica in modo univoco il chip o il profilo a livello internazionale.
+- 17\. *IMSI (International Mobile Subscriber Identity):* numero che identifica in modo univoco a livello internazionale un utente di una rete di telefonia mobile.
+- 18\. *SUPI (SUbscription Permanent Identifier):* numero che identifica in modo univoco a livello internazionale un utente di una rete di telefonia mobile 5G.
+- 19\. *IMEI (International Mobile Equipment Identity):* numero che identifica in modo univoco a livello internazionale un dispositivo di telefonia mobile.
+- 20\. *PEI (Permanent Equipment Identifier):* numero che identifica in modo univoco a livello internazionale un dispositivo di telefonia mobile in una rete 5G.
+- 21\. *Indirizzo MAC (Media Access Control Address):* codice hardware sulla scheda di rete o sull’adattatore di rete utilizzato come indirizzo univoco al livello dello strato 2 OSI.
+- 22\. *SIM (Subscriber Identity Module):* scheda munita di chip o il chip integrato nel dispositivo su cui sono memorizzati in modo sicuro l’IMSI o il SUPI e la relativa chiave usati per autenticare gli utenti di una rete di telefonia mobile, compresi *USIM (Universal Subscriber Identity Module), UICC (Universal* *Integrated* *Circuit Card) ed eSIM (embedded SIM)*.
+- 23\. *Codice PUK (Personal Unblocking Key):* numero segreto non modificabile usato per sbloccare la SIM; è vincolato alla SIM e sovraordinato al codice PIN. Se viene inserito più volte un codice PIN errato, la SIM può essere sbloccata mediante il codice PUK.
+- 24\. *Codice PUK2 (Personal Unblocking Key 2):* analogo al codice PUK, ma sovraordinato al codice PIN2.
+- 25\. *eUICC-ID* *(abbreviato: EID, embedded Universal Integrated Circuit Card-Identifier)*: identificativo univoco internazionale di un chip integrato nel dispositivo e che funge da SIM (cfr. ICCID e SIM).
+- 26\. *Indirizzo IP sorgente:* indirizzo IP del punto terminale di una comunicazione (normalmente il client) che stabilisce una connessione.
+- 27\. *Numero di porta sorgente:* numero di porta del punto terminale di una comunicazione (normalmente il client) che stabilisce una connessione.
+- 28\. *Indirizzo IP di destinazione:* indirizzo IP del punto terminale di una comunicazione (normalmente il server) con cui è stabilita una connessione.
+- 29\. *Numero di porta di destinazione*: numero di porta del punto terminale di una comunicazione (normalmente il server) con cui è stabilita una connessione.
+- 30\. *SIP (Session Initiation Protocol):* protocollo di comunicazione usato per la segnalazione e la gestione delle sessioni di comunicazione multimediali.
+- 31\. *SIP URI (SIP Uniform Resource Identifier):* schema URI per l’indirizzamento del SIP. Si tratta di elementi di indirizzo nel formato *utente@domain.tld*.
+- 32\. *IMPU (IP Multimedia Public Identity):* identificatore per comunicare con altri utenti. Oltre all’IMPI, un utente dell’IMS ha una o più IMPU. A un IMPI possono essere assegnate più IMPU e, viceversa, un’IMPU può essere condivisa con altri utenti.
+- 33\. *TEL URI (Telephone Uniform Resource Identifier):* schema URI per i numeri di telefono. Si tratta di elementi di indirizzo nel formato *tel: numero*, ad esempio *tel:* *+41-868-868-868*.
+- 34\. *IMPI (IP Multimedia Private Identity):* identificativo univoco internazionale che è assegnato in via permanente nell’IMS all’utente dal fornitore e usato, tra le altre cose, per la registrazione e i protocolli AAA.
+- 35\. *Servizio di posta elettronica:* casella di posta o interfaccia per la lettura, la redazione, la modifica, l’invio, la ricezione o l’inoltro di messaggi di posta elettronica, basata su SMPT.
+- 36\. *Indirizzo alias:* indirizzo di posta elettronica supplementare che l’utente può creare, modificare e cancellare a piacere. Gli indirizzi alias, il cui numero massimo e la cui struttura sono stabiliti dal fornitore, sono collegati all’account di posta elettronica principale dell’utente, nella cui cartella di posta in entrata sono visualizzati i messaggi inviati a un indirizzo alias.
+- 37\. *Mailing list:* gruppo di indirizzi di posta elettronica, chiamato anche lista di distribuzione, a cui è assegnato un indirizzo di posta elettronica proprio. I messaggi inviati all’indirizzo della mailing list sono inoltrati agli indirizzi di posta elettronica dei membri del gruppo.
+- 38\. *Servizi di messaggistica (messaging):* servizi per la trasmissione di comunicazioni o messaggi, indipendenti dai servizi di telefonia e multimediali, ad esempio: messaggistica istantanea, IMS messaging, applicazioni per messaggistica e SMS di fornitori terzi (ovvero servizi SMS non forniti dal FST dell’utente). I servizi di messaggistica possono includere anche altre funzioni come la comunicazione multimediale, la trasmissione di file e le informazioni di presenza (p. es. l’utente può visualizzare lo stato attuale ed eventualmente la localizzazione di altri utenti).
+- 39\. *Identificativo della cella:* identificativo invariabile di una cella radio in una rete di telefonia mobile, ad esempio *CGI (Cell Global Identity), ECGI (E**‑UTRAN Cell Global Identity), NCGI (New Radio Cell Global Identity).*
+- 40\. *Identificativo della zona:* identificativo invariabile di una zona in una rete di telefonia mobile, ad esempio *SAI (Service Area Identity), RAI (Routing Area Identity), TAI (Tracking Area Identity).*
+- 41\. *Nome dell’hotspot (SSID):* designazione a libera scelta del fornitore di un hotspot di norma facilmente leggibile e indicata all’utente. Nella presente ordinanza per *hotspot* si intende un accesso pubblico a Internet tramite WLAN (Wi‑Fi) e non un hotspot privato fisso o mobile (tethering).
+- 42\. *Target ID:* identificativo sorvegliato, ovvero l’identificativo dell’oggetto della sorveglianza (target);
+- 43\. *IRI (Intercept Related Information):* i metadati del traffico delle telecomunicazioni del target rilevati nell’ambito di una sorveglianza in tempo reale; sono trasmessi di regola anche in tempo reale. Vanno distinti dai metadati conservati (dati storici) i quali sono rilevati solo in modo selettivo e di regola a posteriori ai fini della sorveglianza retroattiva.
+- 44\. *HLR (Home Location Register):* nelle reti di telefonia mobile di seconda e terza generazione, banca dati di un fornitore di telefonia mobile in cui sono memorizzate le caratteristiche delle funzioni dei suoi utenti (p. es. IMSI, MSISDN, configurazione, profili del servizio) e la rete utilizzata in ogni singolo caso per fornire il servizio.
+- 45\. *HSS (Home Subscriber Server):* nelle reti di telefonia mobile di quarta generazione; banca dati con funzioni analoghe a HLR.
+- 46\. *UDM (Unified Data Management):* nelle reti di telefonia mobile di quinta generazione; banca dati con funzioni analoghe a HLR e HSS.
+- 47\. *IMS (IP Multimedia Subsystem):* un sistema di telecomunicazione basato sul protocollo Internet che mira all’integrazione di servizi vocali mobili e di funzioni Internet.
+- 48\. *Informazioni AAA (Authentication, Authorisation and Accounting Information):* informazioni riguardanti il tipo di servizi autorizzati per determinati utenti e usate per conteggiarne l’uso (accounting). Ai sensi della presente ordinanza le password non sono considerate informazioni AAA. L’autenticazione consente di identificare un utente prima di concedergli l’accesso al sistema; l’autorizzazione stabilisce, da un lato, quali diritti di accesso a risorse o servizi sono assegnati a un utente e permette, dall’altro, il controllo degli accessi; per il conteggio è misurato il consumo delle risorse, da parte dell’utente, durante l’impiego.
+- 49\. *3GPP (3rd Generation Partnership Project):* collaborazione a livello mondiale fra enti che si occupano di standardizzazione nella telefonia mobile.
+- 50\. *Accesso non 3GPP (non-3GPP access):* accesso a una rete di telefonia mobile basato su una tecnologia non standardizzata dal 3GPP (p. es. accesso WLAN).
+- 51\. *EPS (Evolved Packet System):* architettura dello standard di telefonia mobile LTE del 3GPP, in commercio come «4G».
+- 52\. *5GS (5G System):* architettura di sistema dello standard di telefonia mobile 5G del 3GPP.
+- 53\. *SMS (Short Message Service):* servizio di messaggistica che permette la trasmissione di brevi messaggi di testo.
+- 54\. *Segreteria vocale:* dispositivo di memorizzazione usato nelle reti di telecomunicazioni che mette a disposizione servizi di segreteria (p. es. ricezione, inoltro e salvataggio di messaggi vocali). Esistono estensioni per diversi tipi di media e servizi, ad esempio SMS, posta elettronica, telefax o messaggi video, nonché funzionalità aggiuntive che consentono, ad esempio, la conversione tra diversi tipi di media (p. es. da scritto a orale) e l’invio di messaggi.
+- 55\. *RCS (Rich Communications Services,* *originariamente: Rich Communication Suite*): specifica dell’associazione di categoria internazionale dei fornitori di servizi di telefonia mobile (GSM Association, GSMA) per la fornitura basata su IMS di servizi multimediali interoperabili (cioè indipendenti dal fornitore e dal dispositivo) con funzionalità aggiuntive. Consente di combinare diversi tipi di media (p. es. voce, musica, foto, video) e servizi (p. es. chat, chat di gruppo, chiamate, messaggi multimediali, messaggi brevi o istantanei, informazioni di presenza, trasmissione di file, rubrica); s’intendono solo i servizi RCS messi a disposizione dell’utente dal fornitore di servizi di telefonia mobile.
+- 56\. *Numero E.164:* numero di telefono secondo il piano di numerazione internazionale E.164 dell’ITU-T.
+- 57\. *DTMF (Dual-Tone Multi-Frequency):* la multifrequenza è una procedura di segnalazione, grazie alla quale è possibile, ad esempio, inviare segnali acustici per l’uso della segreteria telefonica o di un servizio vocale interattivo automatico premendo determinati tasti durante una telefonata.
+- 58\. *BSSID (Basic Service Set Identifier):* identificativo univoco (indirizzo MAC) dell’accesso WLAN.
+- 59\. *Interfaccia radio:* l’interfaccia della trasmissione radio nella rete di telefonia mobile, p. es. 5G New Radio (5G NR), chiamata anche interfaccia aerea o accesso 3GPP.

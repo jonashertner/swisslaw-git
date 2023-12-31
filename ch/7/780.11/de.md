@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über die Überwachung des Post- und Fer
 short: VÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-32-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20230901/de"
 
 (VÜPF)
 
-vom 15. November 2017 (Stand am 1. September 2023)
+vom 15. November 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -37,7 +37,7 @@ verordnet:
 
 **Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Organisation und das Verfahren zur Überwachung des Post- und Fernmeldeverkehrs sowie die Erteilung von Auskünften über Post- und Fernmeldedienste.
+<sup>1</sup> Diese Verordnung regelt die Organisation und das Verfahren zur Überwachung des Post- und Fernmeldeverkehrs sowie zur Erteilung von Auskünften über Post- und Fernmeldedienste.[^1-1]
 
 <sup>2</sup>
 
@@ -52,10 +52,13 @@ Sie gilt für:
 - g. den Dienst Überwachung Post- und Fernmeldeverkehr (Dienst ÜPF);
 - h. die Anbieterinnen von Postdiensten (PDA);
 - i. die Anbieterinnen von Fernmeldediensten (FDA);
-- j. die Anbieterinnen von Diensten, die sich auf Fernmeldedienste stützen und eine Einweg- oder Mehrwegkommunikation ermöglichen (Anbieterinnen abgeleiteter Kommunikationsdienste);
+- j.[^1-2] die Anbieterinnen abgeleiteter Kommunikationsdienste (AAKD);
 - k. Betreiberinnen von internen Fernmeldenetzen;
 - l. Personen, die ihren Zugang zu einem öffentlichen Fernmeldenetz Dritten zur Verfügung stellen;
 - m. professionelle Wiederverkäuferinnen von Karten und ähnlichen Mitteln, die den Zugang zu einem öffentlichen Fernmeldenetz ermöglichen.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 2
 
@@ -67,17 +70,15 @@ Die in dieser Verordnung verwendeten Begriffe und Abkürzungen sind im Anhang de
 
 #### Art. 3
 
-**Eingaben beim Dienst ÜPF**
+**Eingaben beim Dienst ÜPF**[^3-1]
 
-<sup>1</sup>
+Die anordnende Behörde und die Genehmigungsbehörde übermitteln dem Dienst ÜPF die Überwachungsanordnungen, deren Verlängerungen und Aufhebungen, die Genehmigungen sowie die einzurichtenden Zugriffsrechte wie folgt:
 
-Die anordnende Behörde verwendet einen der folgenden Übermittlungswege, um beim Dienst ÜPF die Überwachungsanordnungen sowie deren Verlängerungen und Aufhebungen einzureichen und ihm die einzurichtenden Zugriffsrechte zu melden:
+- a. durch ein vom EJPD zugelassenes sicheres Übertragungsmittel;
+- b. brieflich, falls das Übertragungsmittel gemäss Buchstabe a aus technischen Gründen nicht zur Verfügung steht; oder
+- c. in dringlichen Fällen telefonisch, mit Nachreichung der Überwachungsanordnung gemäss Buchstabe a oder b innerhalb von 24 Stunden.
 
-- a. ein durch den Dienst ÜPF zugelassenes sicheres Übertragungsmittel;
-- b. Post oder Telefax, falls ein Übertragungsmittel gemäss Buchstabe a aus technischen Gründen nicht zur Verfügung steht; oder
-- c. Telefon in dringlichen Fällen, mit Nachreichung der Überwachungsanordnung gemäss Buchstabe a oder b innerhalb von 24 Stunden.
-
-<sup>2</sup> Der Dienst ÜPF kann das Übertragungsmittel der Eingaben gemäss Absatz 1 Buchstabe a durch einen Online-Zugriff auf das Verarbeitungssystem des Dienstes ersetzen.
+[^3-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 4
 
@@ -88,6 +89,16 @@ Die anordnende Behörde verwendet einen der folgenden Übermittlungswege, um bei
 <sup>2</sup> Ist infolge betrieblicher Probleme eine Mitwirkungspflichtige nicht in der Lage, ihre Pflichten zur Überwachung des Post- oder Fernmeldeverkehrs wahrzunehmen, so meldet sie dies dem Dienst ÜPF unverzüglich und liefert eine diesbezügliche schriftliche Begründung nach. Der Dienst ÜPF informiert die Mitwirkungspflichtigen unverzüglich, wenn infolge betrieblicher Probleme auf seiner Seite die Überwachung nicht ausgeführt werden kann.
 
 <sup>3</sup> Unabhängig davon, wo die Fehlerursache liegt, sind mindestens die nicht gelieferten Randdaten einer Echtzeitüberwachung von der Mitwirkungspflichtigen zwischenzuspeichern und unverzüglich nachzuliefern. Falls die Randdaten der Echtzeitüberwachung nicht mehr verfügbar oder unvollständig sein sollten, hat die Mitwirkungspflichtige gemäss den Anweisungen des Dienstes ÜPF unverzüglich die entsprechenden Randdaten der rückwirkenden Überwachung zu liefern.
+
+#### Art. 4a
+
+**Beginn und Ende der rückwirkenden Überwachung**[^4a-1]
+
+<sup>1</sup> Die rückwirkende Überwachung beginnt frühestens 6 Monate vor dem Tag des Empfangs der Anordnung durch den Dienst ÜPF, wobei die Zahl des ersten Tages der Überwachung derjenigen des Tages des Empfangs der Anordnung entspricht. Fehlt der entsprechende Tag im Monat des Beginns der Überwachung, so beginnt sie frühestens am letzten Tag dieses Monats.
+
+<sup>2</sup> Sie endet spätestens am Tag des Empfangs der Anordnung durch den Dienst ÜPF.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 5
 
@@ -163,24 +174,25 @@ Die Akte besteht aus allen Unterlagen zum betreffenden Fall, insbesondere:
 
 #### Art. 11
 
-**Leistungen ausserhalb der Normalarbeitszeiten**
+**Leistungen ausserhalb der Normalarbeitszeiten und an Feiertagen**[^11-1]
 
 <sup>1</sup>
 
-Ausserhalb der Normalarbeitszeiten und an den Feiertagen stellt der Dienst ÜPF einen Pikettdienst mit folgenden Leistungen zur Verfügung:
+Ausserhalb der Normalarbeitszeiten und an Feiertagen müssen der Dienst ÜPF, die FDA, mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51), und die AAKD mit weitergehenden Überwachungspflichten (Art. 52) einen Pikettdienst zur Verfügung stellen, während welchem sie jederzeit erreichbar sind, um Störungen zu beheben und die folgenden Leistungen zu erbringen, soweit sie dazu gemäss den Artikeln 18 und 50 verpflichtet sind:
 
-- a. die Weiterleitung von Auskunftsgesuchen gemäss den Artikeln 35–43;
-- b. die Beauftragung der Aktivierung von Echtzeitüberwachungen gemäss den Artikeln 54–59;
-- c. die Beauftragung der Durchführung von als dringend erklärten rückwirkenden Überwachungen gemäss den Artikeln 60–63, 65 und 66;
-- d. die Beauftragung von Notsuchen und Fahndungen gemäss den Artikeln 67 und 68, ausgenommen die Netzabdeckungsanalyse in Vorbereitung eines Antennensuchlaufs gemäss Artikel 64;
-- d<sup>bis</sup>.[^11-1] die Beauftragung von Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder gemäss Artikel 68*a*;
-- e. die Störungsbehebung.
+- a. Erteilung von Auskünften gemäss den Artikeln 35–43, 48*a*–48*c* sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43;
+- b. Aktivierung von Echtzeitüberwachungen gemäss den Artikeln 54–59;
+- c. Durchführung von als dringend erklärten rückwirkenden Überwachungen gemäss den Artikeln 60–63, 65 und 66;
+- d. Durchführung von Notsuchen gemäss Artikel 67 und Fahndungen gemäss Artikel 68, ausgenommen die Netzabdeckungsanalyse in Vorbereitung eines Antennensuchlaufs gemäss Artikel 64;
+- e. Beauftragung von Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder gemäss Artikel 68*a*.
 
-<sup>2</sup> Die FDA, ausser jenen mit reduzierten Überwachungspflichten gemäss Artikel 51, sowie die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 müssen in der Lage sein, den Dienst ÜPF so zu unterstützen, dass dieser die Leistungen gemäss Absatz 1 jederzeit erbringen kann. Sie müssen für den Dienst ÜPF jederzeit erreichbar sein.
+<sup>2</sup> Die Behörden müssen Leistungen nach Absatz 1 dem Pikettdienst des Dienstes ÜPF telefonisch ankündigen, ausser wenn Auskünfte automatisiert über die Abfrageschnittstelle des Verarbeitungssystems erteilt werden.
 
-<sup>3</sup> Die Anordnung besonderer Überwachungen und Gesuche um besondere Auskünfte (Art. 25) werden ausserhalb der Normalarbeitszeiten weder entgegengenommen noch bearbeitet.
+<sup>3</sup> Gesuche um besondere Auskünfte und Anordnungen besonderer Überwachungen (Art. 25) werden ausserhalb der Normalarbeitszeiten und an Feiertagen weder entgegengenommen noch bearbeitet.
 
-[^11-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+<sup>4</sup> FDA mit reduzierten Überwachungspflichten (Art. 51), AAKD und AAKD mit weitergehenden Auskunftspflichten (Art. 22), welche bereits über einen internen Pikettdienst verfügen, müssen dem Dienst ÜPF die aktuellen Kontaktangaben ihres Pikettdienstes mitteilen. In besonders dringenden Fällen ist der Dienst ÜPF berechtigt, sie auch ausserhalb der Normalarbeitszeiten und an Feiertagen über diesen Weg zu kontaktieren.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### 4. Abschnitt: Statistiken
 
@@ -284,7 +296,7 @@ Folgende Überwachungstypen können angeordnet werden:
 
 **Auskunftsgesuche**
 
-<sup>1</sup> Die Auskunftsgesuche der Behörden gemäss Artikel 15 BÜPF an die FDA, die Anbieterinnen abgeleiteter Kommunikationsdienste und die Betreiberinnen interner Fernmeldenetze sowie deren Auskünfte zurück an die Behörden werden im Abrufverfahren oder über die Schnittstellen mittels Verarbeitungssystem gemäss VVS-ÜPF[^17-1] übermittelt.
+<sup>1</sup> Die Auskunftsgesuche der Behörden gemäss Artikel 15 BÜPF an die FDA, die AAKD[^17-1] und die Betreiberinnen interner Fernmeldenetze sowie deren Auskünfte zurück an die Behörden werden im Abrufverfahren oder über die Schnittstellen mittels Verarbeitungssystem gemäss VVS-ÜPF[^17-2] übermittelt.
 
 <sup>2</sup> Wenn das Abrufverfahren mittels Verarbeitungssystem aus technischen Gründen nicht zur Verfügung steht, können die Auskunftsgesuche sowie die Auskünfte zurück an die Behörden per Post oder Telefax beim Dienst ÜPF eingereicht werden.
 
@@ -292,90 +304,195 @@ Folgende Überwachungstypen können angeordnet werden:
 
 <sup>4</sup> Im Auskunftsgesuch sind, neben den für den jeweiligen Auskunftstyp vorgesehenen Angaben, die maximale Anzahl der zu liefernden Datensätze und, falls vorhanden, auch die Referenznummern und Fallnamen anzugeben.
 
-[^17-1]: [SR 780.12](https://fedlex.data.admin.ch/eli/cc/2018/36)
+[^17-1]: Ausdruck gemäss Ziff. I Abs. 2 der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Diese Änd. ist in der in den AS genannten Bestimmungen berücksichtigt.
+[^17-2]: [SR 780.12](https://fedlex.data.admin.ch/eli/cc/2018/36)
 
 #### Art. 18
 
-**Pflichten für die Lieferung von Auskünften**
+**Pflichten für die Lieferung von Auskünften durch FDA und AAKD mit weitergehenden Pflichten**[^18-1]
 
-<sup>1</sup> Die FDA und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten gemäss Artikel 22 müssen in der Lage sein, die Auskünfte gemäss den Artikeln 35–37 und 40–48 sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43, die durch sie angebotene Dienste betreffen, zu erteilen. Sie können dazu Dritte beiziehen.
+<sup>1</sup>
 
-<sup>2</sup> Sie erteilen die Auskünfte gemäss den Artikeln 35–37 und 40–42 sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40 und 42 automatisiert über die Abfrageschnittstelle des Verarbeitungssystems des Dienstes ÜPF. Diejenigen gemäss den Artikeln 43–48 sowie gemäss Artikel 27 in Verbindung mit Artikel 43 können sie auch manuell erteilen.
+Die folgenden Anbieterinnen erteilen die Auskünfte über die Abfrageschnittstelle des Verarbeitungssystems des Dienstes ÜPF:
 
-<sup>3</sup> Die FDA mit reduzierten Überwachungspflichten gemäss Artikel 51 können die Auskünfte aller Typen auch ausserhalb des Verarbeitungssystems schriftlich erteilen.
+- a. FDA, mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51);
+- b. AAKD mit weitergehenden Auskunftspflichten (Art. 22);
+- c. AAKD mit weitergehenden Überwachungspflichten (Art. 52).
 
-<sup>4</sup> Die FDA, ausser jenen mit reduzierten Überwachungspflichten gemäss Artikel 51, und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 müssen in der Lage sein, die Auskünfte gemäss den Artikeln 38 und 39, die durch sie angebotene Dienste betreffen, über die Abfrageschnittstelle des Verarbeitungssystems des Dienstes ÜPF zu erteilen. Sie können dazu Dritte beiziehen.
+<sup>2</sup> Die FDA, mit Ausnahme derjenigen mit reduzierten Überwachungspflichten, erteilen die Auskünfte gemäss den Artikeln 35–37, 40, 41 und 48*b* sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35 und 40 automatisiert. Die übrigen standardisierten Auskünfte erteilen sie manuell oder auf eigenen Wunsch und im Einvernehmen mit dem Dienst ÜPF automatisiert.
 
-<sup>5</sup> Die Anbieterinnen abgeleiteter Kommunikationsdienste ohne weitergehende Auskunfts- und Überwachungspflichten und die Betreiberinnen interner Fernmeldenetze sind nicht verpflichtet, die Auskünfte gemäss den in den Artikeln 35–48 sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43 definierten Typen zu erteilen. Sie liefern die ihnen vorliegenden Angaben über das Verarbeitungssystem oder auf anderem Weg in schriftlicher Form.
+<sup>3</sup>
 
-<sup>6</sup> Falls die Anzahl der gefundenen Datensätze den in der Anfrage angegebenen Höchstwert überschreitet, gibt die Anbieterin lediglich deren Anzahl bekannt.
+Die FDA mit reduzierten Überwachungspflichten sind von der Auskunftserteilung nach Artikel 48*b* befreit. Sie erteilen die standardisierten Auskünfte wie folgt:
+
+- a. schriftlich, ausserhalb des Verarbeitungssystems mittels eines durch das EJPD zugelassenen sicheren Übertragungsmittels;
+- b. manuell, über die Abfrageschnittstelle des Verarbeitungssystems; oder
+- c. automatisiert, auf eigenen Wunsch und im Einvernehmen mit dem Dienst ÜPF.
+
+<sup>4</sup> Die AAKD mit weitergehenden Pflichten gemäss Artikel 22 oder 52 erteilen die Auskünfte gemäss den Artikeln 35–37, 40 und 41 sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35 und 40 automatisiert. Sie sind von der Auskunftserteilung nach den Artikeln 48*a–*48*c* befreit. Die übrigen standardisierten Auskünfte erteilen sie manuell oder, auf eigenen Wunsch und im Einvernehmen mit dem Dienst ÜPF, automatisiert.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 18a
+
+**Pflichten für die Lieferung von Auskünften durch die AAKD ohne weitergehende Pflichten und die Betreiberinnen von internen Fernmeldenetzen**[^18a-1]
+
+<sup>1</sup> Die AAKD ohne weitergehende Pflichten und die Betreiberinnen von internen Fernmeldenetzen sind bei der Auskunftserteilung nicht verpflichtet, sich an die in dieser Verordnung vorgesehenen Typen zu halten.
+
+<sup>2</sup> Sie liefern die ihnen vorliegenden Angaben schriftlich ausserhalb des Verarbeitungssystems mittels eines durch das EJPD zugelassenen sicheren Übertragungsmittels.
+
+<sup>3</sup> Sie können die Angaben auf eigenen Wunsch über die Abfrageschnittstelle des Verarbeitungssystems des Dienstes ÜPF manuell oder im Einvernehmen mit dem Dienst ÜPF automatisiert liefern.
+
+[^18a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 18b
+
+**Beizug Dritter bei der Auskunftserteilung**[^18b-1]
+
+Die Mitwirkungspflichtigen können Dritte zur Auskunftserteilung beiziehen.
+
+[^18b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 18c
+
+**Bekanntgabe der Anzahl Datensätze bei der Auskunftserteilung**[^18c-1]
+
+Falls die Anzahl der gefundenen Datensätze den in der Anfrage angegebenen Höchstwert überschreitet, gibt die Mitwirkungspflichtige lediglich deren Anzahl bekannt.
+
+[^18c-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 19
 
 **Identifikation der Teilnehmenden**
 
-<sup>1</sup> Die FDA, die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten gemäss Artikel 22, die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 und die Wiederverkäuferinnen gemäss Artikel 2 Buchstabe f BÜPF haben sicherzustellen, dass die Teilnehmenden mit geeigneten Mitteln identifiziert werden.
+<sup>1</sup> Die FDA, die AAKD mit weitergehenden Auskunftspflichten gemäss Artikel 22, die AAKD mit weitergehenden Überwachungspflichten gemäss Artikel 52 und die Wiederverkäuferinnen gemäss Artikel 2 Buchstabe f BÜPF haben sicherzustellen, dass die Teilnehmenden mit geeigneten Mitteln identifiziert werden.
 
-<sup>2</sup> Die FDA haben bei professionell betriebenen öffentlichen WLAN-Zugangspunkten sicherzustellen, dass alle Endbenutzerinnen und -benutzer mit geeigneten Mitteln identifiziert werden.
+<sup>2</sup> Die FDA haben bei professionell betriebenen öffentlichen WLAN-Zugängen[^19-1] sicherzustellen, dass alle Endbenutzerinnen und -benutzer mit geeigneten Mitteln identifiziert werden.
+
+[^19-1]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Diese Änd. ist in der in den AS genannten Bestimmungen berücksichtigt.
 
 #### Art. 20
 
-**Erfassung von Angaben zur Person bei Mobilfunkdiensten**
+**Überprüfung der Angaben zur Person bei Mobilfunkdiensten**[^20-1]
 
-<sup>1</sup> Bei Mobilfunkdiensten müssen die FDA und die Wiederverkäuferinnen gemäss Artikel 2 Buchstabe f BÜPF bei der Abgabe des Zugangsmittels oder bei der erstmaligen Aktivierung des Dienstes die Identität des Teilnehmenden anhand eines Reisepasses, einer Identitätskarte oder eines Ausländerausweises im Sinne der Artikel 71 und 71*a* der Verordnung vom 24. Oktober 2007[^20-1] über Zulassung, Aufenthalt und Erwerbstätigkeit überprüfen. Es ist eine gut lesbare Ausweiskopie aufzubewahren.
+<sup>1</sup> Bei Mobilfunkdiensten muss die FDA bei der Abgabe der Zugangsmittel oder bei der erstmaligen Aktivierung der Dienste den Identitätsnachweis nach den Artikeln 20*a* und 20*b* überprüfen.
 
-<sup>2</sup>
+<sup>2</sup> Diese Pflicht obliegt statt der FDA der Wiederverkäuferin gemäss Artikel 2 Buchstabe f BÜPF, falls die Abgabe der Zugangsmittel oder die erstmalige Aktivierung der Dienste unmittelbar durch die Wiederverkäuferin erfolgt.
 
-Bei natürlichen Personen sind folgende Angaben zu erfassen:
+<sup>3</sup> Die FDA überprüft in geeigneter Weise die ordnungsgemässe Registrierung und Identifizierung der oder des Teilnehmenden durch die Wiederverkäuferin sowie die Weiterleitung der Angaben und der Ausweiskopie an die FDA.
 
-- a. die Namen und die Vornamen;
-- b. das Geburtsdatum;
-- c. die Art des Ausweises, die Ausweisnummer und das ausstellende Land beziehungsweise die ausstellende Organisation;
-- d. die Adresse;
-- e. falls bekannt, der Beruf;
-- f. die Nationalität.
+[^20-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
-<sup>3</sup>
+#### Art. 20a
 
-Bei juristischen Personen sind folgende Angaben zu erfassen:
-
-- a. der Name, der Sitz und die Kontaktdaten der juristischen Person;
-- b. die Unternehmens-Identifikationsnummer (UID) gemäss dem Bundesgesetz vom 18. Juni 2010[^20-2] über die Unternehmens-Identifikationsnummer;
-- c. falls vorhanden, die Namen und Vornamen der Personen, die die Dienste der Anbieterin in Anspruch nehmen.
-
-<sup>4</sup>
-
-Bei Kundenbeziehungen ohne Abonnementsverhältnis sind zudem folgende Angaben zu erfassen:
-
-- a. der Zeitpunkt der Abgabe der Zugangsmittel;
-- b. die Abgabestelle (Name und vollständige Adresse);
-- c. der Name der abgebenden Person.
-
-[^20-1]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^20-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-
-#### Art. 21
-
-**Aufbewahrungsfristen**
-
-<sup>1</sup> Die FDA und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunfts- und Überwachungspflichten (Art. 22 und 52) müssen die Angaben über die Fernmeldedienste und jene zum Zweck der Identifikation während der Dauer der Kundenbeziehung sowie während 6 Monaten nach deren Beendigung aufbewahren und in der Lage sein, sie zu liefern. Die FDA müssen Identifikationsdaten gemäss Artikel 19 Absatz 2 während der Dauer der Zugangsberechtigung zum öffentlichen WLAN-Zugangspunkt sowie während 6 Monaten nach deren Ende aufbewahren und in der Lage sein, sie zu liefern.
-
-<sup>2</sup>
-
-Folgende Daten zum Zweck der Identifikation haben die FDA, ausser jenen mit reduzierten Überwachungspflichten gemäss Artikel 51, und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 während 6 Monaten aufzubewahren und zu liefern:
-
-- a. die Randdaten über die tatsächlich benutzten Geräteidentifikatoren, um die Auskünfte gemäss Artikel 36 Absatz 1 Buchstabe d und Artikel 41 Absatz 1 Buchstabe d erteilen zu können; und
-- b. die Randdaten über die Zuteilung und Übersetzung von IP-Adressen und Portnummern, um die Auskünfte gemäss den Artikeln 37, 38 und 39 erteilen zu können.
-
-<sup>3</sup> Die Randdaten nach Absatz 2 sind zu vernichten, sobald die Aufbewahrungsfrist abgelaufen ist und kein anderer Erlass vorsieht, dass sie länger aufbewahrt werden müssen oder dürfen.
-
-#### Art. 22
-
-**Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten**
+**Erbringung des Identitätsnachweises bei natürlichen Personen bei Mobilfunkdiensten**[^20a-1]
 
 <sup>1</sup>
 
-Der Dienst ÜPF erklärt eine Anbieterin abgeleiteter Kommunikationsdienste als eine mit weitergehenden Auskunftspflichten (Art. 22 Abs. 4 BÜPF), wenn sie eine der nachstehenden Grössen erreicht hat:
+Bei natürlichen Personen muss der Identitätsnachweis der oder des Teilnehmenden durch Vorzeigen eines der folgenden, am Erfassungstag gültigen Dokumente erbracht werden:
+
+- a. einem schweizerischen oder ausländischen Reisepass;
+- b. einer schweizerischen oder ausländischen Identitätskarte; oder
+- c. einem Ausländerausweis gemäss den Artikeln 71 und 71*a* der Verordnung vom 24. Oktober 2007[^20a-2] über Zulassung, Aufenthalt und Erwerbstätigkeit.
+
+<sup>2</sup>
+
+Folgende Angaben der oder des Teilnehmenden werden erfasst:
+
+- a.
+
+  gestützt auf das Dokument:
+
+  - 1\. Namen und Vornamen,
+  - 2\. Geburtsdatum,
+  - 3\. Art des Dokuments, dessen Nummer und das ausstellende Land beziehungsweise die ausstellende Organisation,
+  - 4\. Nationalitäten;
+
+- b. Adresse;
+- c. falls bekannt: Beruf.
+
+<sup>3</sup>
+
+Bei Kundenbeziehungen ohne Abonnementsverhältnis müssen zudem folgende Angaben erfasst werden:
+
+- a. Zeitpunkt der Abgabe der Zugangsmittel oder der erstmaligen Aktivierung der Dienste;
+- b. Name und vollständige Adresse der Abgabe- oder Aktivierungsstelle;
+- c. Namen und Vornamen der erfassenden Person.
+
+<sup>4</sup> Die FDA oder gegebenenfalls die Wiederverkäuferin muss vom Originaldokument eine gut lesbare elektronische Kopie erstellen oder erstellen lassen. Die Wiederverkäuferin übermittelt die Angaben nach den Absätzen 2 und 3 sowie die Kopie innerhalb von 3 Tagen nach der Erfassung an die FDA.
+
+[^20a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^20a-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+
+#### Art. 20b
+
+**Erbringung des Identitätsnachweises bei juristischen Personen bei Mobilfunkdiensten**[^20b-1]
+
+<sup>1</sup>
+
+Bei juristischen Personen müssen folgende Angaben erfasst und anhand geeigneter Nachweise überprüft werden:
+
+- a. Name, Sitz und Kontaktdaten der juristischen Person;
+- b. nationale Unternehmens-Identifikationsnummer (UID) gemäss dem Bundesgesetz vom 18. Juni 2010[^20b-2] über die Unternehmens-Identifikationsnummer oder internationaler Legal Entity Identifier (LEI) der juristischen Person;
+- c. soweit vorhanden: Namen und Vornamen der Personen, welche die Dienste der Anbieterin in Anspruch nehmen.
+
+<sup>2</sup> Die Wiederverkäuferin übermittelt die Angaben innerhalb von 3 Tagen nach der Erfassung an die FDA.
+
+<sup>3</sup> Artikel 20*a* Absatz 3 gilt sinngemäss.
+
+[^20b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^20b-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+
+#### Art. 20c
+
+**Abgabe von Zugangsmitteln und Aktivieren von Diensten für Polizeibehörden und den NDB**[^20c-1]
+
+<sup>1</sup> Der Dienst ÜPF vermittelt auf Antrag der Polizeibehörden des Bundes oder der Kantone oder des NDB den Abschluss eines Vertrags zwischen einer FDA und der Behörde über die Abgabe von Zugangsmitteln und die Aktivierung von Diensten. Der Vertrag sieht vor, dass die Angaben nach Artikel 20*b* nur einem besonders engen Kreis vertrauenswürdiger Personen zugänglich sind. Die FDA legt im Einvernehmen mit dem Dienst ÜPF fest, mit welchen Methoden eine weitere Verbreitung der Daten verhindert wird.
+
+<sup>2</sup> Der Dienst ÜPF überprüft die Identität der Personen, die berechtigt sind, im Namen der Behörden Zugangsmittel und Dienste zu beziehen, und leitet die zur Abgabe dieser Zugangsmittel und zur Aktivierung dieser Dienste erforderlichen Angaben an die FDA weiter. Die FDA dokumentiert intern die an die Behörden abgegebenen Zugangsmittel und für die Behörden aktivierten Dienste.
+
+<sup>3</sup> Die Zugangsmittel und Dienste nach diesem Artikel dürfen nur im Rahmen des für die jeweilige Behörde geltenden Rechts eingesetzt werden.
+
+[^20c-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 21
+
+**Aufbewahrungsfristen**[^21-1]
+
+<sup>1</sup>
+
+Die folgenden Anbieterinnen müssen während der Dauer und während 6 Monaten nach der Beendigung der Kundenbeziehung die folgenden Angaben aufbewahren und liefern können:
+
+- a. die FDA und die AAKD mit weitergehenden Pflichten gemäss Artikel 22 oder 52: die Angaben über die Dienste und die Angaben zum Zweck der Identifikation gemäss Artikel 19 Absatz 1;
+- b. die FDA: zusätzlich die Angaben über längerfristig zugeordnete Identifikatoren gemäss Artikel 48*a*.
+
+<sup>2</sup> Die FDA müssen Identifikationsangaben gemäss Artikel 19 Absatz 2 während der Dauer und während 6 Monaten nach der Beendigung der Zugangsberechtigung zum professionell betriebenen öffentlichen WLAN-Zugang aufbewahren und in der Lage sein, sie zu liefern.
+
+<sup>3</sup> Sie müssen zum Zweck der Identifikation die Daten über die eindeutige Zuteilung von IP-Adressen für den Netzzugang während 6 Monaten aufbewahren und in der Lage sein, die Auskünfte gemäss Artikel 37 zu erteilen.
+
+<sup>4</sup> Die FDA, welche Mobilfunkdienste anbieten, müssen die Angaben über die Teilnehmenden gemäss den Artikeln 20*a* und 20*b* sowie die Kopie des Identitätsnachweises während der Dauer und während 6 Monaten nach der Beendigung der Kundenbeziehung aufbewahren und in der Lage sein, sie zu liefern.
+
+<sup>5</sup>
+
+Die FDA, mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51), müssen folgende Daten zum Zweck der Identifikation während 6 Monaten aufbewahren:
+
+- a. Randdaten über die tatsächlich benutzten Geräteidentifikatoren, um die Auskünfte gemäss den Artikeln 36 Absatz 1 Buchstabe b Ziffer 4 und 41 Absatz 1 Buchstabe b Ziffer 2 erteilen zu können;
+- b. Randdaten über die Zuteilung und Übersetzung (NAT) von IP-Adressen und Portnummern für den Netzzugang, um die Auskünfte gemäss den Artikeln 38 und 39 erteilen zu können; und
+- c. Randdaten zur Bestimmung der unmittelbar benachbarten Netze einer Kommunikation oder eines Kommunikationsversuchs bei Telefonie- und Multimediadiensten, um die Auskünfte gemäss Artikel 48*c* erteilen zu können.
+
+<sup>6</sup> Die AAKD mit weitergehenden Überwachungspflichten (Art. 52) müssen die Daten gemäss Absatz 5 Buchstaben a und b während 6 Monaten zum Zweck der Identifikation aufbewahren.
+
+<sup>7</sup> Die Randdaten nach Absatz 5 sind zu vernichten, sobald die Aufbewahrungsfrist abgelaufen ist und kein anderer Erlass vorsieht, dass sie länger aufbewahrt werden müssen oder dürfen.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 22
+
+**AAKD mit weitergehenden Auskunftspflichten**
+
+<sup>1</sup>
+
+Der Dienst ÜPF erklärt eine AAKD als eine mit weitergehenden Auskunftspflichten (Art. 22 Abs. 4 BÜPF), wenn sie eine der nachstehenden Grössen erreicht hat:
 
 - a. 100 Auskunftsgesuche in den letzten 12 Monaten (Stichtag: 30. Juni);
 - b. Jahresumsatz in der Schweiz von 100 Millionen Franken in zwei aufeinander folgenden Geschäftsjahren, wobei ein grosser Teil ihrer Geschäftstätigkeit im Anbieten abgeleiteter Kommunikationsdienste besteht, und 5000 Teilnehmende, die die Dienste der Anbieterin in Anspruch nehmen.
@@ -408,29 +525,29 @@ Werden Dritte von der Anbieterin als Erfüllungsgehilfen zur Erteilung von Ausk�
 
 **Besondere Auskünfte und Überwachungen**
 
-Bei Auskünften und Überwachungen, die nicht einem standardisierten Auskunfts- oder Überwachungstypen entsprechen, stellen die FDA und die Anbieterinnen abgeleiteter Kommunikationsdienste dem Dienst ÜPF alle bereits vorhandenen Schnittstellen und Anbindungen zum Verarbeitungssystem des Dienstes ÜPF zur Verfügung. Der Inhalt und die Randdaten des Fernmeldeverkehrs der überwachten Person sind soweit möglich gemäss Artikel 26 Absatz 1 BÜPF zu liefern. Der Dienst ÜPF bestimmt die Modalitäten im Einzelfall.
+Bei Auskünften und Überwachungen, die nicht einem standardisierten Auskunfts- oder Überwachungstypen entsprechen, stellen die FDA und die AAKD dem Dienst ÜPF alle bereits vorhandenen Schnittstellen und Anbindungen zum Verarbeitungssystem des Dienstes ÜPF zur Verfügung. Der Inhalt und die Randdaten des Fernmeldeverkehrs der überwachten Person sind soweit möglich gemäss Artikel 26 Absatz 1 BÜPF zu liefern. Der Dienst ÜPF bestimmt die Modalitäten im Einzelfall.
 
 #### Art. 26
 
-**Auskunftstypen im Allgemeinen**
+**Auskunftstypen**[^26-1]
 
 <sup>1</sup>
 
-Die betreffenden Anbieterinnen erteilen die folgenden Typen von Auskünften über Fernmeldedienste oder abgeleitete Kommunikationsdienste:
+Die Auskunftstypen betreffen Auskünfte über:
 
-- a. Auskünfte über Teilnehmende (Art. 35, 40, 42 und 43 sowie Art. 27 in Verbindung mit Art. 35, 40, 42 und 43);
-- b. Auskünfte über Dienste (Art. 36–39 und 41);
-- c.
+- a. die Teilnehmenden (Art. 35, 40, 42 und 43 sowie Art. 27 in Verbindung mit diesen Artikeln);
+- b. die Dienste (Art. 36–39 und 41);
+- c. die Zahlungsweise (Art. 44);
+- d. den Identitätsnachweis (Art. 45);
+- e. die Rechnungskopien (Art. 46);
+- f. die Vertragskopien (Art. 47);
+- g. die technischen Daten von Fernmeldesystemen und Netzelementen (Art. 48);
+- h. die zugeordneten Identifikatoren (Art. 48*a* und 48*b*); und
+- i. die Bestimmung der benachbarten Netze (Art. 48*c*).
 
-  sonstige Auskünfte:
+<sup>2</sup> Informationen, zu welchen die Mitwirkungspflichtigen nach Massgabe dieser Verordnung Auskunft erteilen müssen, dürfen von den Behörden nur in dem in dieser Verordnung vorgesehenen Verfahren angefragt werden.
 
-  - 1\. Auskünfte über die Zahlungsweise (Art. 44),
-  - 2\. das Anfordern von Ausweiskopien (Art. 45),
-  - 3\. das Anfordern von Rechnungskopien (Art. 46),
-  - 4\. das Anfordern von Vertragskopien (Art. 47),
-  - 5\. Auskünfte über technische Daten von Fernmeldesystemen und Netzelementen (Art. 48).
-
-<sup>2</sup> Informationen, zu welchen die Anbieterinnen nach Massgabe dieser Verordnung Auskunft erteilen müssen, dürfen von den Behörden nur in dem in dieser Verordnung vorgesehenen Verfahren angefragt werden.
+[^26-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 27
 
@@ -442,47 +559,53 @@ Die betreffenden Anbieterinnen erteilen die folgenden Typen von Auskünften übe
 
 #### Art. 28
 
-**Überwachungstypen**
+**Überwachungstypen**[^28-1]
 
-<sup>1</sup>
+Es bestehen die folgenden Überwachungstypen:
 
-Die betreffenden Anbieterinnen müssen die folgenden Typen von Echtzeitüberwachungen für Fernmeldedienste und abgeleitete Kommunikationsdienste durchführen:
+- a.
 
-- a. die Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten (Art. 54);
-- b. die Echtzeitüberwachung von Inhalten und Randdaten bei Netzzugangsdiensten (Art. 55);
-- c. die Echtzeitüberwachung von Randdaten bei Anwendungen (Art. 56 und 58);
-- d. die Echtzeitüberwachung von Inhalten und Randdaten bei Anwendungen (Art. 57 und 59).
+  die Echtzeitüberwachung:
 
-<sup>2</sup>
+  - 1\. von Randdaten bei Netzzugangsdiensten (Art. 54),
+  - 2\. von Inhalten und Randdaten bei Netzzugangsdiensten (Art. 55),
+  - 3\. von Randdaten bei Anwendungen (Art. 56 und 58),
+  - 4\. mittels der Positionsbestimmung durch das Netzwerk (Art. 56*a* und 56*b*),
+  - 5\. von Inhalten und Randdaten bei Anwendungen (Art. 57 und 59);
 
-Die betreffenden Anbieterinnen müssen die folgenden Typen von rückwirkenden Überwachungen für Fernmeldedienste und abgeleitete Kommunikationsdienste durchführen:
+- b.
 
-- a. die rückwirkende Überwachung bei Netzzugangsdiensten (Art. 60);
-- b. die rückwirkende Überwachung bei Anwendungen (Art. 61 und 62);
-- c. die Bestimmung der letzten aktiven Position des mobilen Endgerätes (Art. 63);
-- d. den Antennensuchlauf (Art. 66) sowie die entsprechenden Vorbereitungen (Art. 64 oder 65).
+  die rückwirkende Überwachung:
 
-<sup>3</sup>
+  - 1\. bei Netzzugangsdiensten (Art. 60),
+  - 2\. bei Anwendungen (Art. 61 und 62),
+  - 3\. mittels der Bestimmung des Standorts bei der letzten Aktivität (Art. 63),
+  - 4\. mittels eines Antennensuchlaufs (Art. 66) und der entsprechenden Vorbereitungen (Art. 64 und 65);
 
-Die betreffenden Anbieterinnen müssen die folgenden Typen von Notsuchen (Art. 67) durchführen:
+- c.
 
-- a. die Bestimmung der letzten aktiven Position des mobilen Endgerätes (Art. 67 Bst. a);
-- b. die Echtzeitüberwachung von Inhalten und Randdaten bei Netzzugangsdiensten sowie Telefonie- und Multimediadiensten (Art. 67 Bst. b);
-- c. die Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten sowie Telefonie- und Multimediadiensten (Art. 67 Bst. c);
-- d. die rückwirkende Überwachung bei Netzzugangsdiensten sowie Telefonie- und Multimediadiensten (Art. 67 Bst. d).
+  die Notsuche (Art. 67) mittels:
 
-<sup>4</sup>
+  - 1\. der Bestimmung des Standorts bei der letzten Aktivität (Art. 67 Bst. a),
+  - 2\. der Positionsbestimmung durch das Netzwerk (Art. 67 Bst. b und c),
+  - 3\. der Echtzeitüberwachung von Inhalten und Randdaten bei Netzzugangsdiensten sowie bei Telefonie- und Multimediadiensten (Art. 67 Bst. d),
+  - 4\. der Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten sowie bei Telefonie- und Multimediadiensten (Art. 67 Bst. e),
+  - 5\. der rückwirkenden Überwachung bei Netzzugangsdiensten sowie bei Telefonie- und Multimediadiensten (Art. 67 Bst. f);
 
-Die betreffenden Anbieterinnen müssen die folgenden Typen von Fahndungen (Art. 68) durchführen:
+- d.
 
-- a. die Bestimmung der letzten aktiven Position des mobilen Endgerätes (Art. 68 Bst. a);
-- b. die Echtzeitüberwachung von Inhalten und Randdaten bei Netzzugangsdiensten oder Anwendungen (Art. 68 Bst. b);
-- c. die Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten oder Anwendungen (Art. 68 Bst. c);
-- d. die rückwirkende Überwachung bei Netzzugangsdiensten oder Anwendungen (Art. 68 Bst. d).
+  die Fahndung (Art. 68) mittels:
 
-<sup>5</sup> Die betreffenden Anbieterinnen müssen die Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder mittels Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten und Anwendungen durchführen (Art. 68*a*).[^28-1]
+  - 1\. der Bestimmung des Standorts bei der letzten Aktivität (Art. 68 Abs. 1 Bst. a),
+  - 2\. der Positionsbestimmung durch das Netzwerk (Art. 68 Abs. 1 Bst. b und c),
+  - 3\. der Echtzeitüberwachung von Inhalten und Randdaten bei Netzzugangsdiensten oder bei Anwendungen (Art. 68 Abs. 1 Bst. d),
+  - 4\. der Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten oder Anwendungen (Art. 68 Abs. 1 Bst. e),
+  - 5\. der rückwirkenden Überwachung bei Netzzugangsdiensten oder Anwendungen (Art. 68 Abs. 1 Bst. f),
+  - 6\. eines Antennensuchlaufs und der entsprechenden Vorbereitungen (Art. 68 Abs. 1 Bst. g);
 
-[^28-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+- e. die Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder in Echtzeit (Art. 68*a*).
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### 2. Abschnitt: Qualitätssicherung
 
@@ -518,9 +641,11 @@ Der Dienst ÜPF kann Testschaltungen vornehmen und dabei mit den Strafverfolgung
 
 <sup>2</sup> Der Dienst ÜPF kann die Mitwirkungspflichtigen beauftragen, bei der Erzeugung der Testdaten mitzuwirken. Der Dienst ÜPF erstellt nach Anhörung der Mitwirkungspflichtigen ein Testkonzept.
 
-<sup>3</sup> Die Mitwirkungspflichtigen stellen dem Dienst ÜPF die notwendigen Testschaltungen sowie die dafür erforderlichen Fernmeldedienste beziehungsweise abgeleiteten Kommunikationsdienste auf dessen Ersuchen hin kostenlos sowie dauerhaft zur Verfügung.
+<sup>3</sup> Die Mitwirkungspflichtigen stellen dem Dienst ÜPF auf dessen Ersuchen hin kostenlos und dauerhaft die notwendigen Testschaltungen sowie die dafür erforderlichen Fernmeldedienste und abgeleiteten Kommunikationsdienste zur Verfügung. Sie ermöglichen ihm die Durchführung von notwendigen Testschaltungen, die sie ihm nicht selber zur Verfügung stellen können.[^30-1]
 
 <sup>4</sup> Die Strafverfolgungsbehörden und der NDB können auf eigene Kosten ebenfalls Testschaltungen zu Zwecken der Qualitätssicherung und der Schulung vornehmen. Dazu reichen sie beim Dienst ÜPF die entsprechenden Anordnungen ein und entrichten Gebühren.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### 3. Abschnitt: Sicherstellung der Auskunfts- und Überwachungsbereitschaft
 
@@ -528,7 +653,7 @@ Der Dienst ÜPF kann Testschaltungen vornehmen und dabei mit den Strafverfolgung
 
 **Überprüfung der Auskunfts- und Überwachungsbereitschaft**
 
-<sup>1</sup> Der Nachweis der Auskunfts- und Überwachungsbereitschaft gemäss Artikel 33 Absatz 1 BÜPF ist von den FDA und den Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunfts- (Art. 22) oder Überwachungspflichten (Art. 52) zu erbringen.
+<sup>1</sup> Der Nachweis der Auskunfts- und Überwachungsbereitschaft gemäss Artikel 33 Absatz 1 BÜPF ist von den FDA und den AAKD mit weitergehenden Auskunfts- (Art. 22) oder Überwachungspflichten (Art. 52) zu erbringen.
 
 <sup>2</sup>
 
@@ -586,28 +711,43 @@ Der Dienst ÜPF erklärt eine bereits erteilte Bestätigung der Auskunfts- und �
 Der Auskunftstyp IR\_4\_NA umfasst die folgenden Angaben über Teilnehmende von Netzzugangsdiensten:
 
 - a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z.B. Kundennummer);
-- b. bei Mobilfunkdiensten, die Angaben zur natürlichen beziehungsweise juristischen Person gemäss Artikel 20 und, falls bekannt, weitere Kontaktdaten und das Geschlecht der natürlichen Person;
-- c. bei den übrigen Netzzugangsdiensten, die Identifikationsangaben gemäss Artikel 19 und, falls bekannt, die Angaben zur natürlichen beziehungsweise juristischen Person, weitere Kontaktdaten und das Geschlecht der natürlichen Person;
+- b.[^35-1]
+
+  bei Mobilfunkdiensten:
+
+  - 1\. die Angaben zur natürlichen oder juristischen Person gemäss den Artikeln 20–20*b*,
+  - 2\. soweit vorhanden weitere Adressen und Kontaktdaten sowie deren Gültigkeitszeitraum, und
+  - 3\. bei natürlichen Personen das Geschlecht;
+
+- c.[^35-2]
+
+  bei den übrigen Netzzugangsdiensten:
+
+  - 1\. die Identifikationsangaben gemäss Artikel 19,
+  - 2\. soweit vorhanden, die Angaben zur natürlichen oder juristischen Person, weitere Adressen und Kontaktdaten sowie deren Gültigkeitszeitraum, und
+  - 3\. bei natürlichen Personen das Geschlecht;
+
 - d.
 
-  die folgenden Angaben über jeden von dem Teilnehmenden bei der Anbieterin bezogenen Netzzugangsdienst:
+  die folgenden Angaben über jeden von der oder dem Teilnehmenden bei der Anbieterin bezogenen Netzzugangsdienst:[^35-3]
 
   - 1\. den eindeutigen Identifikator, welcher die Anbieterin bezeichnet (z.B. FDA-Nummer),
-  - 2\. den eindeutigen Dienstidentifikator (z.B. Benutzername, MSISDN, DSL-Identifikator),
+  - 2\.[^35-4] den eindeutigen Haupt-Dienstidentifikator (z. B. Benutzername, MSISDN, GPSI),
   - 3\. den Zeitraum des Dienstbezugs (Beginn, erstmalige Aktivierung und gegebenenfalls Ende),
   - 4\. falls zutreffend, weitere Angaben über zusätzliche Optionen oder Einschränkungen des Netzzugangsdienstes,
   - 5\. falls zutreffend, die Installationsadressen des ortsgebundenen Netzzugangs und jeweils deren Gültigkeitszeitraum,
   - 6\. die Zustände des Dienstes gemäss den internen Bezeichnungen der Anbieterin (z.B. aktiv, suspendiert, gesperrt) und jeweils deren Gültigkeitszeitraum,
   - 7\. falls zutreffend, alle diesem Netzzugangsdienst zugeteilten statischen IP-Adressen, IP-Präfixe, IP-Adressbereiche und Netzmasken beziehungsweise Präfixlängen und jeweils deren Gültigkeitszeitraum,
   - 8\. bei Kundenbeziehungen ohne Abonnementsverhältnis, den Zeitpunkt und die Stelle (Name und vollständige Adresse) der Abgabe des Zugangsmittels sowie den Namen der abgebenden Person,
-  - 9\. falls zutreffend, die SIM-Nummer (ICCID) zum Zeitpunkt der Abgabe,
-  - 10\. falls zutreffend, die IMSI,
-  - 11\. den Typ des Dienstes (z.B. Prepaid, Abonnement),
-  - 12\. falls zutreffend, den alternativen Teilnehmeridentifikator für den Netzzugangsdienst.
+  - 9\.[^35-5] falls zutreffend, die zugehörigen ICCID zum Zeitpunkt der Abgabe,
+  - 10\.[^35-6] falls zutreffend, die zugehörigen IMSI oder SUPI,
+  - 11\.[^35-7] den Typ der Kundenbeziehung (z. B. Prepaid, Abonnement),
+  - 12\.[^35-8] falls zutreffend, die Liste oder den Bereich der weiteren im Zusammenhang mit diesem Dienst registrierten oder zugehörigen Adressierungselemente (z. B. MSISDN) und Identifikatoren (z. B. ICCID) sowie deren jeweiliger Gültigkeitszeitraum,
+  - 13\.[^35-9] die Bezeichnung des Dienstes (z. B. Name des Abonnements oder des Tarifs).
 
 <sup>2</sup>
 
-Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien. Bei Verwendung der Buchstaben a–e ist ein zweites Anfragekriterium hinzuzufügen. Bei Suchen nach Zeichenketten (Bst. a, c, d und f) hat die Anbieterin eine buchstabengetreue Suche gemäss den anwendbaren Vorschriften des EJPD durchzuführen:
+Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:[^35-10]
 
 - a. Name(n), Vorname(n);
 - b. Geburtsdatum;
@@ -615,35 +755,61 @@ Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. 
 - d. Strasse und allenfalls Hausnummer;
 - e. Ausweisnummer und optional Art des Ausweises;
 - f. Name und optional Sitz der juristischen Person;
-- g. Unternehmens-Identifikationsnummer (UID);
+- g.[^35-11] UID oder LEI;
 - h. Teilnehmeridentifikator (z.B. Kundennummer);
-- i. Dienstidentifikator ausser IP-Adressen (z.B. Benutzername, MSISDN, DSL-Identifikator);
-- j. IMSI;
-- k. SIM-Nummer (ICCID).
+- i.[^35-12] Teilnehmeridentifikator oder Dienstidentifikator ausser den IP-Adressen (z. B. Benutzername, MSISDN, GPSI);
+- j.[^35-13] IMSI oder SUPI;
+- k.[^35-14] ICCID.
+
+<sup>3</sup> Bei den Kriterien nach Absatz 2 Buchstaben a–d ist ein zweites Anfragekriterium hinzuzufügen. Bei Suchen nach Zeichenketten (Abs. 2 Bst. a, c, d und f) hat die Anbieterin eine buchstabengetreue Suche gemäss den Vorschriften des EJPD durchzuführen.[^35-15]
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-7]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-8]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-9]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-10]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-11]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-12]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-13]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-14]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^35-15]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 36
 
-**Auskunftstyp IR\_6\_NA: Auskünfte über Netzzugangsdienste**
+**Auskunftstyp IR\_6\_NA: Auskünfte über Netzzugangsdienste**[^36-1]
 
 <sup>1</sup>
 
-Der Auskunftstyp IR\_6\_NA umfasst die folgenden Angaben über Netzzugangsdienste. Für die Angaben gemäss Buchstabe b, c und e ist der gemeinsame Gültigkeitszeitraum mitzuteilen:
+Der Auskunftstyp IR\_6\_NA umfasst die folgenden Angaben über Netzzugangsdienste:
 
-- a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z.B. Kundennummer);
-- b. den eindeutigen Dienstidentifikator (z.B. Benutzername, DSL-Identifikator);
-- c. falls zutreffend, IMSI und MSISDN;
-- d. die Liste der eindeutigen Geräteidentifikatoren gemäss internationalen Standards (z.B. IMEI, MAC-Adresse) der im Zusammenhang mit diesem Dienst bei der Anbieterin benutzten Geräte sowie, sofern verfügbar, deren Bezeichnung in Textform;
-- e. falls zutreffend, die SIM-Nummern (ICCID);
-- f. falls zutreffend, die PUK- und PUK2-Codes.
+- a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z. B. Kundennummer);
+- b.
+
+  die folgenden Angaben über den angefragten und alle weiteren zugehörigen Netzzugangsdienste:
+
+  - 1\. den eindeutigen Dienstidentifikator (z. B. Benutzername),
+  - 2\. falls zutreffend, alle zum jeweiligen Dienst zugehörigen Identifikatoren (z. B. Benutzername, MSISDN, GPSI) und jeweils deren Gültigkeitszeitraum,
+  - 3\. falls vorhanden, den alternativen Teilnehmeridentifikator, insbesondere bei professionell betriebenem öffentlichem WLAN-Zugang einen Identifikator, der eine Anfrage der Identifikationsangaben gemäss Artikel 19 Absatz 2 ermöglicht,
+  - 4\. die eindeutigen Geräteidentifikatoren gemäss internationalen Standards (z. B. IMEI, PEI, MAC-Adresse) der im Zusammenhang mit dem jeweiligen Dienst bei der Anbieterin in den letzten 6 Monaten benutzten Geräte sowie, falls verfügbar, die jeweilige Bezeichnung der Geräte,
+  - 5\. falls zutreffend, die ICCID aller zum jeweiligen Dienst zugehörigen SIM sowie jeweils deren Gültigkeitszeitraum, die PUK- und PUK2-Codes, die IMSI oder die SUPI, die MSISDN oder die GPSI und die eUICC-ID,
+  - 6\. bei einem Multi-Device-Angebot: jeweils die Information, ob es sich um das Hauptgerät oder ein Nebengerät handelt.
 
 <sup>2</sup>
 
 Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:
 
-- a. den Dienstidentifikator ausser IP-Adressen (z.B. Benutzername, MSISDN, DSL-Identifikator);
-- b. die IMSI;
-- c. den eindeutigen Geräteidentifikator gemäss internationalen Standards (z.B. IMEI, MAC-Adresse);
-- d. die Installationsadresse des ortsgebundenen Netzzugangs.
+- a. den Dienstidentifikator ausser den IP-Adressen (z. B. Benutzername, MSISDN, GPSI) oder einen Identifikator, der eine Anfrage der Identifikationsangaben gemäss Artikel 19 Absatz 2 ermöglicht;
+- b. die IMSI oder die SUPI;
+- c. den eindeutigen Geräteidentifikator gemäss internationalen Standards (z. B. IMEI, PEI, MAC-Adresse);
+- d. die Installationsadresse des ortsgebundenen Netzzugangs;
+- e. die ICCID.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 37
 
@@ -651,10 +817,10 @@ Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. 
 
 <sup>1</sup>
 
-Der Auskunftstyp IR\_7\_IP umfasst die folgenden Angaben über den identifizierten Teilnehmenden, falls diesem zum fraglichen Zeitpunkt eine IP-Adresse eindeutig zugeteilt war:
+Der Auskunftstyp IR\_7\_IP umfasst die folgenden Angaben über die identifizierte Teilnehmende oder den identifizierten Teilnehmenden, falls dieser oder diesem zum massgeblichen Zeitpunkt eine IP-Adresse eindeutig zugeteilt war:[^37-1]
 
 - a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z.B. Benutzername);
-- b. den eindeutigen Dienstidentifikator (z.B. Benutzername, MSISDN, DSL-Identifikator) des Netzzugangsdienstes;
+- b.[^37-2] den eindeutigen Dienstidentifikator (z. B. Benutzername, MSISDN, GPSI) des Netzzugangsdienstes oder einen Identifikator, der eine Anfrage der Identifikationsangaben gemäss Artikel 19 Absatz 2 ermöglicht;
 - c. den eindeutigen Identifikator, der die Anbieterin des Netzzugangsdienstes bezeichnet (z.B. FDA-Nummer).
 
 <sup>2</sup>
@@ -664,51 +830,59 @@ Das Auskunftsgesuch enthält die folgenden Angaben:
 - a. die IP-Adresse;
 - b. den Zeitpunkt nach Datum und Uhrzeit.
 
+[^37-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^37-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
 #### Art. 38
 
 **Auskunftstyp IR\_8\_IP (NAT): Identifikation der Benutzerschaft bei nicht eindeutig zugeteilten IP-Adressen (NAT)**
 
 <sup>1</sup>
 
-Der Auskunftstyp IR\_8\_IP (NAT) umfasst die folgenden Angaben über den identifizierten Teilnehmenden, falls diesem zum fraglichen Zeitpunkt eine IP-Adresse nicht eindeutig zugeteilt war (NAT):
+Der Auskunftstyp IR\_8\_IP (NAT) umfasst die folgenden Angaben zum Zweck der Identifikation, falls die IP-Adresse nicht eindeutig zugeteilt war (NAT):[^38-1]
 
 - a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z.B. Benutzername);
-- b. den eindeutigen Dienstidentifikator (z.B. Benutzername, MSISDN, DSL-Identifikator) des Netzzugangsdienstes.
+- b.[^38-2] den eindeutigen Dienstidentifikator (z. B. Benutzername, MSISDN, GPSI) des Netzzugangsdienstes oder einen Identifikator, der eine Anfrage der Identifikationsangaben gemäss Artikel 19 Absatz 2 ermöglicht.
 
 <sup>2</sup>
 
-Das Auskunftsgesuch enthält die Angaben über den NAT-Übersetzungsvorgang zum Zweck der Identifikation:
+Das Auskunftsgesuch enthält die bekannten Angaben über den angefragten NAT-Übersetzungskontext:[^38-3]
 
 - a. die öffentliche Quell-IP-Adresse;
 - b. falls für die Identifikation notwendig, die öffentliche Quell-Portnummer;
 - c. falls für die Identifikation notwendig, die öffentliche Ziel-IP-Adresse;
 - d. falls für die Identifikation notwendig, die Ziel-Portnummer;
 - e. falls für die Identifikation notwendig, den Typ des Transportprotokolls;
-- f. den Zeitpunkt nach Datum und Uhrzeit.
+- f.[^38-4] den massgeblichen Zeitpunkt, nach Datum und Uhrzeit, zu Beginn, innerhalb oder am Ende des NAT-Übersetzungskontextes.
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^38-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^38-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^38-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 39
 
-**Auskunftstyp IR\_9\_NAT: Auskünfte über NAT‑Übersetzungsvorgänge**[^39-1]
+**Auskunftstyp IR\_9\_NAT: Auskünfte über NAT‑Übersetzungskontexte**[^39-1]
 
 <sup>1</sup>
 
-Der Auskunftstyp IR\_9\_NAT umfasst die folgenden Angaben zum Zweck der Identifikation im Zusammenhang mit NAT-Übersetzungsvorgängen falls für die Identifikation notwendig:
+Der Auskunftstyp IR\_9\_NAT umfasst die folgenden Angaben über einen bestimmten NAT-Übersetzungskontext zum Zweck der Identifikation im Zusammenhang mit einem NAT-Verfahren auf Anbieterebene:
 
-- a. die Quell-IP-Adresse vor beziehungsweise nach dem NAT-Übersetzungsvorgang;
-- b. die Quell-Portnummer vor beziehungsweise nach dem NAT-Übersetzungsvorgang.
+- a. die Quell-IP-Adresse vor oder nach der NAT-Übersetzung;
+- b. die Quell-Portnummer vor oder nach der NAT-Übersetzung.
 
 <sup>2</sup>
 
-Das Auskunftsgesuch enthält die Angaben über den NAT-Übersetzungsvorgang:
+Das Auskunftsgesuch enthält die bekannten Angaben über den angefragten NAT-Übersetzungskontext:
 
-- a. die Quell-IP-Adresse nach beziehungsweise vor dem NAT-Übersetzungsvorgang;
-- b. die Quell-Portnummer nach beziehungsweise vor dem NAT-Übersetzungsvorgang;
+- a. die Quell-IP-Adresse nach oder vor der NAT-Übersetzung;
+- b. die Quell-Portnummer nach oder vor der NAT-Übersetzung;
 - c. falls für die Identifikation notwendig, die öffentliche Ziel-IP-Adresse;
 - d. falls für die Identifikation notwendig, die Ziel-Portnummer;
-- e. den Typ des Transportprotokolls;
-- f. den Zeitpunkt des NAT-Übersetzungsvorgangs nach Datum und Uhrzeit.
+- e. falls für die Identifikation notwendig, den Typ des Transportprotokolls;
+- f. den massgeblichen Zeitpunkt, nach Datum und Uhrzeit, zu Beginn, innerhalb oder am Ende des NAT-Übersetzungskontextes.
 
-[^39-1]: Die Berichtigung vom 9. April 2019 betrifft nur den französischen Text ([AS 2019 1201](https://fedlex.data.admin.ch/eli/oc/2019/222)).
+[^39-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### 5. Abschnitt: Auskunftstypen für Anwendungen
 
@@ -721,27 +895,43 @@ Das Auskunftsgesuch enthält die Angaben über den NAT-Übersetzungsvorgang:
 Der Auskunftstyp IR\_10\_TEL umfasst die folgenden Angaben über Teilnehmende von Telefonie- und Multimediadiensten:
 
 - a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z.B. Kundennummer);
-- b.[^40-1] bei Mobilfunkdiensten, die Angaben zur natürlichen beziehungsweise juristischen Person gemäss Artikel 20 und, falls bekannt, weitere Kontaktdaten und das Geschlecht der natürlichen Person;
-- c. bei den übrigen Telefonie- und Multimediadiensten, die Identifikationsangaben gemäss Artikel 19 und, falls bekannt, die Angaben zur natürlichen beziehungsweise juristischen Person, weitere Kontaktdaten sowie das Geschlecht der natürlichen Person;
+- b.[^40-1]
+
+  bei Mobilfunkdiensten:
+
+  - 1\. die Angaben zur natürlichen oder juristischen Person gemäss den Artikeln 20, 20*a* und 20*b*,
+  - 2\. soweit vorhanden, weitere Adressen und Kontaktdaten sowie deren Gültigkeitszeitraum, und
+  - 3\. bei natürlichen Personen das Geschlecht;
+
+- c.[^40-2]
+
+  bei den übrigen Telefonie- und Multimediadiensten:
+
+  - 1\. die Identifikationsangaben gemäss Artikel 19,
+  - 2\. soweit vorhanden, die Angaben zur natürlichen oder juristischen Person, weitere Adressen und Kontaktdaten sowie deren Gültigkeitszeitraum, und
+  - 3\. bei natürlichen Personen das Geschlecht;
+
 - d.
 
-  die folgenden Angaben über jeden von dem Teilnehmenden bei der Anbieterin bezogenen Telefonie- und Multimediadienst:
+  die folgenden Angaben über jeden von der oder dem Teilnehmenden bei der Anbieterin bezogenen Telefonie- und Multimediadienst:[^40-3]
 
   - 1\. den eindeutigen Identifikator, welcher die Anbieterin bezeichnet (z.B. FDA-Nummer),
-  - 2\. den eindeutigen Dienstidentifikator (z.B. Telefonnummer, SIP URI),
+  - 2\.[^40-4] den eindeutigen Haupt-Dienstidentifikator (z. B. Telefonnummer, SIP URI),
   - 3\. den Zeitraum des Dienstbezugs (Beginn, erstmalige Aktivierung und gegebenenfalls Ende),
   - 4\. den Typ des Dienstes (z.B. private Fernmeldeanlage, öffentliche Sprechstelle, ortsgebundener oder ortsunabhängiger Dienst),
   - 5\. falls zutreffend, die Installationsadressen des ortsgebundenen Netzzugangs zum Dienst und jeweils deren Gültigkeitszeitraum,
-  - 6\. die Zustände des Dienstes gemäss den internen Bezeichnungen der Anbieterin (z.B. aktiv, suspendiert, gesperrt),
-  - 7\. falls zutreffend, die Liste beziehungsweise den Bereich der weiteren im Zusammenhang mit diesem Dienst registrierten Adressierungselemente oder Identifikatoren (z.B. Telefonnummern, IMPU),
+  - 6\.[^40-5] die Zustände des Dienstes gemäss den internen Bezeichnungen der Anbieterin (z. B. aktiv, suspendiert, gesperrt) und deren Gültigkeitszeitraum,
+  - 7\.[^40-6] falls zutreffend, die Liste oder den Bereich der weiteren im Zusammenhang mit diesem Dienst registrierten oder zugehörigen Adressierungselemente (z. B. Telefonnummern, IMPU) und Identifikatoren (z. B. ICCID) sowie deren jeweiliger Gültigkeitszeitraum,
   - 8\. bei Kundenbeziehungen ohne Abonnementsverhältnis, den Zeitpunkt und die Stelle (Name und vollständige Adresse) der Abgabe des Zugangsmittels sowie den Namen der abgebenden Person,
   - 9\. falls zutreffend, die Angaben zur vorbestimmten freien Wahl der Dienstanbieterin für Verbindungen,
-  - 10\. falls zutreffend, die IMSI,
-  - 11\. falls zutreffend, die SIM-Nummer (ICCID) zum Zeitpunkt der Abgabe.
+  - 10\.[^40-7] falls zutreffend, die zugehörigen IMSI oder SUPI,
+  - 11\.[^40-8] falls zutreffend, die zugehörigen ICCID zum Zeitpunkt der Abgabe,
+  - 12\.[^40-9] den Typ der Kundenbeziehung (z. B. Prepaid, Abonnement),
+  - 13\.[^40-10] die Bezeichnung des Dienstes (z. B. Name des Abonnements oder des Tarifs).
 
 <sup>2</sup>
 
-Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien. Bei Verwendung der Buchstaben a–d ist ein zweites Anfragekriterium hinzuzufügen. Bei Suchen nach Zeichenketten (Bst. a, c, d und f) hat die Anbieterin eine buchstabengetreue Suche gemäss den anwendbaren Vorschriften des EJPD durchzuführen:
+Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:[^40-11]
 
 - a. Name(n), Vorname(n);
 - b. Geburtsdatum;
@@ -749,38 +939,60 @@ Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. 
 - d. Strasse und allenfalls Hausnummer;
 - e. Ausweisnummer und optional Art des Ausweises;
 - f. Name und optional Sitz der juristischen Person;
-- g. Unternehmens-Identifikationsnummer (UID);
+- g.[^40-12] UID oder LEI;
 - h. Teilnehmeridentifikator (z.B. Kundennummer);
 - i. Adressierungselemente oder Identifikatoren (z.B. Telefonnummer, SIP URI, TEL URI, IMPU);
-- j. IMSI;
-- k. SIM-Nummer (ICCID).
+- j.[^40-13] IMSI oder SUPI;
+- k.[^40-14] ICCID.
 
-[^40-1]: Die Berichtigung vom 3. Dez. 2019 betrifft nur den französischen Text ([AS 2019 4085](https://fedlex.data.admin.ch/eli/oc/2019/711)).
+<sup>3</sup> Bei den Kriterien gemäss Absatz 2 Buchstaben a–d ist ein zweites Anfragekriterium hinzuzufügen. Bei Suchen nach Zeichenketten (Abs. 2 Bst. a, c, d und f) hat die Anbieterin eine buchstabengetreue Suche gemäss den Vorschriften des EJPD durchzuführen.[^40-15]
+
+[^40-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-7]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-8]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-9]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-10]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-11]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-12]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-13]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-14]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^40-15]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 41
 
-**Auskunftstyp IR\_12\_TEL: Auskünfte über Telefonie- und Multimediadienste**
+**Auskunftstyp IR\_12\_TEL: Auskünfte über Telefonie- und Multimediadienste**[^41-1]
 
 <sup>1</sup>
 
-Der Auskunftstyp IR\_12\_TEL umfasst die folgenden Angaben über Telefonie- und Multimediadienste. Für die Angaben gemäss Buchstabe b, c und e ist der gemeinsame Gültigkeitszeitraum mitzuteilen:
+Der Auskunftstyp IR\_12\_TEL umfasst die folgenden Angaben über Telefonie- und Multimediadienste:
 
-- a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z.B. Kundennummer);
-- b. die für diesen Dienst registrierten Adressierungselemente oder Identifikatoren (z.B. Telefonnummern, SIP URI, IMPI);
-- c. falls zutreffend, die IMSI;
-- d. zum Zweck der Identifikation, die Liste der eindeutigen Geräteidentifikatoren gemäss internationalen Standards (z.B. IMEI, MAC-Adresse) der im Zusammenhang mit diesem Dienst bei der Anbieterin benutzten Geräte sowie, sofern verfügbar, deren Bezeichnung in Textform;
-- e. falls zutreffend, die SIM-Nummern (ICCID);
-- f. falls zutreffend, die PUK- und PUK2-Codes.
+- a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z. B. Kundennummer);
+- b.
+
+  die folgenden Angaben über den angefragten und alle weiteren zugehörigen Telefonie- und Multimediadienste:
+
+  - 1\. falls zutreffend, alle zum jeweiligen Dienst zugehörigen öffentlichen Adressierungselemente (z. B. MSISDN, SIP URI, TEL URI) und privaten Adressierungselemente (z. B. IMPI) sowie jeweils deren Gültigkeitszeitraum,
+  - 2\. die eindeutigen Geräteidentifikatoren gemäss internationalen Standards (z. B. IMEI, PEI) der im Zusammenhang mit dem jeweiligen Dienst bei der Anbieterin in den letzten 6 Monaten benutzten Geräte sowie, falls verfügbar, die jeweilige Bezeichnung der Geräte,
+  - 3\. falls zutreffend, die ICCID aller zum jeweiligen Dienst zugehörigen SIM sowie jeweils deren Gültigkeitszeitraum, die PUK- und PUK2-Codes, die IMSI oder die SUPI, die MSISDN oder die GPSI und die eUICC-ID,
+  - 4\. bei einem Multi-Device-Angebot: jeweils die Information, ob es sich um das Hauptgerät oder ein Nebengerät handelt.
 
 <sup>2</sup>
 
 Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:
 
-- a. das Adressierungselement (z.B. Telefonnummer, SIP URI, MSISDN, TEL URI);
-- b. die IMSI;
-- c. den eindeutigen Geräteidentifikator gemäss internationalen Standards (z.B. IMEI, MAC-Adresse);
-- d. die Installationsadressen des ortsgebundenen Netzzugangs;
-- e. den Dienstidentifikator (z.B. IMPI).
+- a. das öffentliche Adressierungselement (z. B. SIP URI, MSISDN, GPSI);
+- b. die IMSI oder die SUPI;
+- c. den eindeutigen Geräteidentifikator gemäss internationalen Standards (z. B. IMEI, PEI, MAC-Adresse);
+- d. die Installationsadresse des ortsgebundenen Netzzugangs;
+- e. das private Adressierungselement (z. B. IMPI);
+- f. die ICCID.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 42
 
@@ -794,19 +1006,20 @@ Der Auskunftstyp IR\_13\_EMAIL umfasst die folgenden Angaben über Teilnehmende 
 - b. die Identifikationsangaben gemäss Artikel 19 und, falls bekannt, die Angaben zur natürlichen beziehungsweise juristischen Person, weitere Kontaktdaten sowie das Geschlecht der natürlichen Person;
 - c.
 
-  die folgenden Angaben über jeden von dem Teilnehmenden bei der Anbieterin bezogenen E-Mail- Dienst:
+  die folgenden Angaben über jeden von der oder dem Teilnehmenden bei der Anbieterin bezogenen E-Mail-Dienst:[^42-1]
 
   - 1\. den eindeutigen Identifikator, welcher die Anbieterin des Dienstes bezeichnet,
   - 2\. den eindeutigen Dienstidentifikator (z.B. E-Mail-Adresse, Benutzername),
   - 3\. den Zeitraum des Dienstbezugs (Beginn, erstmalige Aktivierung und gegebenenfalls Ende),
   - 4\. falls zutreffend, die Liste aller weiteren Adressierungselemente (z.B. Alias-Adressen), die zu diesem Dienst gehören,
-  - 5\. falls zutreffend, die Liste aller Adressen, an welche die an die angefragte Adresse adressierten Nachrichten weitergeleitet werden (z.B. Mailingliste);
+  - 5\. falls zutreffend, die Liste aller Adressen, an welche die an die angefragte Adresse adressierten Nachrichten weitergeleitet werden (z.B. Mailingliste),
+  - 6\.[^42-2] die Bezeichnung des Dienstes;
 
-- d. falls zutreffend, die im Zusammenhang mit diesem Dienst bei der Anbieterin erfassten weiteren Adressierungselemente (z.B. E-Mail-Adresse, MSISDN).
+- d.[^42-3] falls zutreffend, die im Zusammenhang mit diesem Dienst bei der Anbieterin erfassten weiteren Adressierungselemente oder Identifikatoren (z. B. E-Mail-Adresse, MSISDN, GPSI, zur Wiederherstellung eines verlorenen Zugangs zum E-Mail-Konto hinterlegtes Adressierungselement).
 
 <sup>2</sup>
 
-Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien. Bei Verwendung der Buchstaben a–d ist ein zweites Anfragekriterium hinzuzufügen. Bei Suchen nach Zeichenketten (Bst. a, c, d und f) hat die Anbieterin eine buchstabengetreue Suche gemäss den anwendbaren Vorschriften des EJPD durchzuführen:
+Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:[^42-4]
 
 - a. Name(n), Vorname(n);
 - b. Geburtsdatum;
@@ -814,9 +1027,20 @@ Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. 
 - d. Strasse und allenfalls Hausnummer;
 - e. Ausweisnummer und optional Art des Ausweises;
 - f. Name und optional Sitz der juristischen Person;
-- g. Unternehmens-Identifikationsnummer (UID);
+- g.[^42-5] UID oder LEI;
 - h. Teilnehmeridentifikator (z.B. Kundennummer);
-- i. Dienstidentifikator (z.B. E-Mail-Adresse, Benutzername).
+- i. Dienstidentifikator (z.B. E-Mail-Adresse, Benutzername);
+- j.[^42-6] mit dem angefragten Dienst verbundene Identifikatoren, zum Beispiel ein Wiederherstellungs-Adressierungselement.
+
+<sup>3</sup> Bei den Kriterien gemäss Absatz 2 Buchstaben a–d ist ein zweites Anfragekriterium hinzuzufügen. Bei Suchen nach Zeichenketten (Abs. 2 Bst. a, c, d und f) hat die Anbieterin eine buchstabengetreue Suche gemäss den Vorschriften des EJPD durchzuführen.[^42-7]
+
+[^42-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-2]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-6]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^42-7]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 43
 
@@ -824,23 +1048,24 @@ Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. 
 
 <sup>1</sup>
 
-Der Auskunftstyp IR\_15\_COM umfasst die folgenden Angaben über Teilnehmende von anderen Fernmelde- oder abgeleiteten Kommunikationsdiensten (z.B. Mitteilungsdienste, Kommunikationsdienste in sozialen Netzen, Cloud- und Proxy-Dienste):
+Der Auskunftstyp IR\_15\_COM umfasst die folgenden Angaben über Teilnehmende von anderen Fernmelde- oder abgeleiteten Kommunikationsdiensten (z. B. Mitteilungsdienste, Kommunikationsdienste in sozialen Netzen):[^43-1]
 
 - a. falls vorhanden, den eindeutigen Teilnehmeridentifikator (z.B. Kundennummer);
 - b. die Identifikationsangaben gemäss Artikel 19 und, falls bekannt, die Angaben zur natürlichen beziehungsweise juristischen Person, weitere Kontaktdaten sowie das Geschlecht der natürlichen Person;
 - c.
 
-  die folgenden Angaben über jeden von dem Teilnehmenden bei der Anbieterin bezogenen anderen Fernmeldedienst oder abgeleiteten Kommunikationsdienst:
+  die folgenden Angaben über jeden von der oder dem Teilnehmenden bei der Anbieterin bezogenen anderen Fernmeldedienst oder abgeleiteten Kommunikationsdienst:[^43-2]
 
   - 1\. den eindeutigen Identifikator, welcher die Anbieterin bezeichnet,
   - 2\. den eindeutigen Dienstidentifikator (z.B. Benutzername),
   - 3\. den Zeitraum des Dienstbezugs (Beginn, erstmalige Aktivierung und gegebenenfalls Ende),
   - 4\. die Zustände des Dienstes gemäss den internen Bezeichnungen der Anbieterin (z.B. aktiv, suspendiert, gesperrt) und jeweils deren Gültigkeitszeitraum,
-  - 5\. die Liste der weiteren im Zusammenhang mit diesem Dienst registrierten Adressierungselemente oder Identifikatoren.
+  - 5\. die Liste der weiteren im Zusammenhang mit diesem Dienst registrierten Adressierungselemente oder Identifikatoren,
+  - 6\.[^43-3] die Bezeichnung des Dienstes.
 
 <sup>2</sup>
 
-Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien. Bei Verwendung der Buchstaben a–d ist ein zweites Anfragekriterium hinzuzufügen. Bei Suchen nach Zeichenketten (Bst. a, c, d und f) hat die Anbieterin eine buchstabengetreue Suche gemäss den anwendbaren Vorschriften des EJPD durchzuführen:
+Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:[^43-4]
 
 - a. Name(n), Vorname(n);
 - b. Geburtsdatum;
@@ -848,9 +1073,21 @@ Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. 
 - d. Strasse und allenfalls Hausnummer;
 - e. Ausweisnummer und optional Art des Ausweises;
 - f. Name und optional Sitz der juristischen Person;
-- g. Unternehmens-Identifikationsnummer (UID);
+- g.[^43-5] UID oder LEI
 - h. Teilnehmeridentifikator (z.B. Kundennummer);
-- i. Adressierungselement oder Identifikator (z.B. Benutzername).
+- i.[^43-6] Adressierungselement oder Identifikator des Dienstes (z. B. Nutzeradresse, Pseudonym, eindeutiger applikationsspezifischer Identifikator);
+- j.[^43-7] mit dem angefragten Dienst verbundenen Identifikator, zum Beispiel ein Wiederherstellungs-Adressierungselement.
+
+<sup>3</sup> Bei den Kriterien gemäss Absatz 2 Buchstaben a–d ist ein zweites Anfragekriterium hinzuzufügen. Bei Suchen nach Zeichenketten (Abs. 2 Bst. a, c, d und f) hat die Anbieterin eine buchstabengetreue Suche gemäss den Vorschriften des EJPD durchzuführen.[^43-8]
+
+[^43-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-3]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-7]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^43-8]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### 6. Abschnitt: Weitere Auskunftstypen
 
@@ -864,71 +1101,121 @@ Der Auskunftstyp IR\_17\_PAY umfasst die folgenden Angaben über die Zahlungswei
 
 - a. den eindeutigen Identifikator, welcher die Anbieterin bezeichnet;
 - b. den eindeutigen Teilnehmeridentifikator (z.B. Kundennummer);
-- c. den eindeutigen Identifikator, den die Anbieterin dem Teilnehmenden für die Abrechnung beziehungsweise Rechnungsstellung zugeteilt hat;
+- c.[^44-1] den eindeutigen Identifikator, den die Anbieterin der oder dem Teilnehmenden für die Abrechnung beziehungsweise Rechnungsstellung zugeteilt hat;
 - d. den eindeutigen Dienstidentifikator (z.B. Telefonnummer, SIP URI, Benutzername);
 - e. die Zahlungsmethode (Debit, Überweisung oder Prepaid);
-- f. die bei der Anbieterin hinterlegten Kontoinformationen des Teilnehmenden, bestehend aus Name der Bank, Kontoinhaber und IBAN (oder BIC und Kontonummer) oder nationale Banknummer und Kontonummer;
+- f.[^44-2] die bei der Anbieterin hinterlegten Kontoinformationen der oder des Teilnehmenden, bestehend aus dem Namen der Bank und der Kontoinhaberin oder des Kontoinhabers und der IBAN (oder dem BIC und der Kontonummer) oder der nationalen Banknummer und der Kontonummer;
 - g. die Rechnungsadressen (Hausnummer, Strasse, Postfach, Postleitzahl, Ort, Land) und deren Gültigkeitszeitraum (Beginn und gegebenenfalls Ende).
 
 <sup>2</sup> Die Angaben gemäss Absatz 1 sind zu liefern, soweit die Anbieterin über sie verfügt.
 
 <sup>3</sup>
 
-Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:[^44-1]
+Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:
 
 - a. den Teilnehmeridentifikator (z.B. Kundennummer);
 - b. den Dienstidentifikator (z.B. Telefonnummer, SIP URI, Benutzername);
-- c. den Identifikator, den die Anbieterin dem Teilnehmenden für die Abrechnung beziehungsweise Rechnungsstellung zugeteilt hat;
-- d. die Kontoinformationen des Teilnehmenden: IBAN (oder BIC und Kontonummer) oder nationale Banknummer und Kontonummer;
-- e. die Rechnungsadresse (Hausnummer, Strasse, Postfach, Postleitzahl, Ort, Land).
+- c.[^44-3] den Identifikator, den die Anbieterin der oder dem Teilnehmenden für die Abrechnung beziehungsweise Rechnungsstellung zugeteilt hat;
+- d.[^44-4] die Kontoinformationen der oder des Teilnehmenden: IBAN (oder BIC und Kontonummer) oder nationale Banknummer und Kontonummer;
+- e. die Rechnungsadresse (Hausnummer, Strasse, Postfach, Postleitzahl, Ort, Land);
+- f.[^44-5] den Code zum Aufladen des Guthabens oder zur Bezahlung der Dienstleistung.
 
-[^44-1]: Die Berichtigung vom 6. März 2018 betrifft nur den französischen Text ([AS 2018 989](https://fedlex.data.admin.ch/eli/oc/2018/144)).
+[^44-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^44-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^44-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^44-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^44-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 45
 
-**Auskunftstyp IR\_18\_ID: Ausweiskopie**
+**Auskunftstyp IR\_18\_ID: Identitätsnachweis**[^45-1]
 
-<sup>1</sup> Der Auskunftstyp IR\_18\_ID umfasst die Lieferung einer elektronischen Kopie des gemäss Artikel 20 erfassten Ausweises des Teilnehmenden.
+<sup>1</sup> Der Auskunftstyp IR\_18\_ID umfasst die Lieferung der elektronischen Kopie des erfassten Dokuments gemäss Artikel 20*a* Absatz 4 der oder des Teilnehmenden.
 
-<sup>2</sup> Das Auskunftsgesuch präzisiert, auf welchen Zeitpunkt und auf welchen Teilnehmer- oder Dienstidentifikator, auf welche SIM-Nummer (ICCID) oder IMSI oder gegebenenfalls auf welchen Geräteidentifikator sich die Anfrage bezieht.
+<sup>2</sup> Das Auskunftsgesuch präzisiert, auf welchen Zeitpunkt und auf welchen Teilnehmer- oder Dienstidentifikator, auf welche ICCID, IMSI, SUPI oder gegebenenfalls auf welchen Geräteidentifikator sich die Anfrage bezieht.
+
+[^45-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 46
 
 **Auskunftstyp IR\_19\_BILL: Rechnungskopie**
 
-<sup>1</sup> Der Auskunftstyp IR\_19\_BILL umfasst die Lieferung von elektronischen Kopien aller vorhandenen Rechnungsunterlagen des Teilnehmenden, ohne Randdaten für Fernmeldedienste und abgeleitete Kommunikationsdienste.
+<sup>1</sup> Der Auskunftstyp IR\_19\_BILL umfasst die Lieferung von elektronischen Kopien aller vorhandenen Rechnungsunterlagen der oder des Teilnehmenden, ohne Randdaten für Fernmeldedienste und abgeleitete Kommunikationsdienste.[^46-1]
 
 <sup>2</sup> Das Auskunftsgesuch präzisiert, auf welchen Zeitraum und auf welchen eindeutigen Teilnehmer- oder Dienstidentifikator beziehungsweise eindeutigen Identifikator für die Abrechnung oder Rechnungsstellung sich die Anfrage bezieht.
 
+[^46-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
 #### Art. 47
 
-**Auskunftstyp IR\_20\_CONTRACT: Vertragskopie**
+**Auskunftstyp IR\_20\_CONTRACT: Vertragskopie**[^47-1]
 
-<sup>1</sup> Der Auskunftstyp IR\_20\_CONTRACT umfasst die Lieferung von elektronischen Kopien aller vorhandenen Vertragsunterlagen des Teilnehmenden für Fernmeldedienste und abgeleitete Kommunikationsdienste.
+<sup>1</sup> Der Auskunftstyp IR\_20\_CONTRACT umfasst die Lieferung von elektronischen Kopien aller vorhandenen Vertragsunterlagen der oder des Teilnehmenden für Fernmeldedienste und abgeleitete Kommunikationsdienste.
 
-<sup>2</sup> Das Auskunftsgesuch präzisiert, auf welchen Zeitpunkt und auf welchen Teilnehmer- oder Dienstidentifikator, auf welche SIM-Nummer (ICCID) oder IMSI oder gegebenenfalls auf welchen Geräteidentifikator sich die Anfrage bezieht.
+<sup>2</sup> Das Auskunftsgesuch präzisiert, auf welchen Zeitpunkt und auf welchen Teilnehmer- oder Dienstidentifikator, auf welche ICCID, IMSI, SUPI oder gegebenenfalls auf welchen Geräteidentifikator sich die Anfrage bezieht.
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 48
 
-**Auskunftstyp IR\_21\_TECH: Technische Daten**
+**Auskunftstyp IR\_21\_TECH: Technische Daten**[^48-1]
 
-<sup>1</sup> Der Auskunftstyp IR\_21\_TECH umfasst die Lieferung von technischen Daten von Fernmeldesystemen und Netzelementen, insbesondere der Standortangaben von Mobilfunkzellen und öffentlichen WLAN-Zugangspunkten.
+<sup>1</sup> Der Auskunftstyp IR\_21\_TECH umfasst die Lieferung von technischen Daten von Fernmeldesystemen und Netzelementen am angefragten Standort, insbesondere der Standortangaben von Mobilfunkzellen und professionell betriebenen öffentlichen WLAN-Zugängen.
 
 <sup>2</sup>
 
 Die Standortangaben bestehen aus:
 
-- a. den Identifikatoren der Netzelemente (z.B. CGI, ECGI, SAI, RAI, TAI, BSSID) sowie den geografischen Koordinaten oder anderen Angaben zum Standort gemäss internationalen Standards;
-- b. gegebenenfalls, der Postadresse des Standorts;
-- c. gegebenenfalls, den Hauptstrahlungsrichtungen der Antennen; und
-- d. gegebenenfalls, anderen vorhandenen Standortmerkmalen.
+- a. den Identifikatoren der Netzelemente (z. B. Zell- oder Gebietsidentifikator) oder einer anderen geeigneten Bezeichnung (z. B. Hotspotname) sowie den geografischen Koordinaten oder anderen Angaben zum Standort gemäss internationalen Standards;
+- b. der verfügbaren Postadresse des Standorts;
+- c. gegebenenfalls, den Hauptstrahlrichtungen der Zellen;
+- d. anderen vorhandenen Standortmerkmalen; und
+- e. gegebenenfalls den verknüpften Zeitstempeln.
 
 <sup>3</sup>
 
 Das Auskunftsgesuch präzisiert, auf welchen Zeitraum sich die Anfrage bezieht. Es enthält mindestens eines der folgenden Anfragekriterien:
 
-- a. die geografischen Koordinaten des Standorts des Netzelementes;
-- b. den Identifikator des Netzelementes (z.B. CGI, ECGI, BSSID).
+- a. die geografischen Koordinaten des angefragten Standorts des Netzelements;
+- b. den Identifikator eines Netzelements am angefragten Standort (z. B. Zell- oder Gebietsidentifikator) oder eine andere geeignete Bezeichnung (z. B. Hotspotname).
+
+[^48-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 48a
+
+**Auskunftstyp IR\_51\_ASSOC\_PERM: Auskünfte über längerfristig zugeordnete Identifikatoren**[^48a-1]
+
+<sup>1</sup> Der Auskunftstyp IR\_51\_ASSOC\_PERM umfasst die Lieferung aller Identifikatoren (IMPU und IMPI), die dem angefragten Identifikator (IMPU oder IMPI) zum massgeblichen Zeitpunkt für die Erbringung eines bestimmten Telefonie- und Multimediadienstes zugeordnet sind oder waren, und den Gültigkeitszeitraum dieser Zuordnung.
+
+<sup>2</sup> Das Auskunftsgesuch präzisiert den massgeblichen Zeitpunkt, den angefragten Identifikator und dessen Typ (IMPU oder IMPI).
+
+[^48a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 48b
+
+**Auskunftstyp IR\_52\_ASSOC\_TEMP: sofortige Auskünfte über kurzzeitig zugeordnete Identifikatoren**[^48b-1]
+
+<sup>1</sup> Der Auskunftstyp IR\_52\_ASSOC\_TEMP umfasst die Lieferung der permanenten Identifikatoren (z. B. SUPI), die den angefragten temporären Identifikatoren (z. B. SUCI, 5G-GUTI) zum Zeitpunkt der Anfrage für die Erbringung eines bestimmten Fernmeldedienstes zugeordnet sind.
+
+<sup>2</sup> Das Auskunftsgesuch präzisiert die angefragten temporären Identifikatoren und das zugehörige Mobilfunkgebiet.
+
+[^48b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 48c
+
+**Auskunftstyp IR\_53\_TEL\_ADJ\_NET: Bestimmung der benachbarten Netze bei Telefonie- und Multimediadiensten**[^48c-1]
+
+<sup>1</sup> Der Auskunftstyp IR\_53\_TEL\_ADJ\_NET umfasst, soweit zutreffend, die Bestimmung und die Lieferung der Bezeichnung der unmittelbar benachbarten Netze einer Kommunikation oder eines Kommunikationsversuchs bei Telefonie- und Multimediadiensten (z. B. Inter-Operator-Identifier, IP-Adresse).
+
+<sup>2</sup>
+
+Das Auskunftsgesuch präzisiert, auf welche Kommunikation oder welchen Kommunikationsversuch sich die Anfrage bezieht. Es enthält die folgenden Anfragekriterien:
+
+- a. den Zeitpunkt der Kommunikation oder des Kommunikationsversuchs;
+- b. die Adressierungselemente, an welche die Kommunikation oder der Kommunikationsversuch adressiert war; und
+- c. soweit vorhanden, die Adressierungselemente der Herkunft der Kommunikation oder des Kommunikationsversuchs.
+
+[^48c-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### 7. Abschnitt: Allgemeine Bestimmungen für die Überwachung des Fernmeldeverkehrs
 
@@ -959,17 +1246,31 @@ Die beim Dienst ÜPF eingereichte Überwachungsanordnung enthält folgende Angab
 
 **Überwachungspflichten**
 
-<sup>1</sup> Jede FDA und jede Anbieterin abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 muss in der Lage sein, die Überwachungen gemäss den 8.–12. Abschnitten dieses Kapitels (Art. 54–69), die durch sie angebotene Dienste betreffen, auszuführen oder durch Dritte ausführen zu lassen. Davon ausgenommen sind die FDA mit reduzierten Überwachungspflichten gemäss Artikel 51.
+<sup>1</sup> Jede FDA, mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51), und jede AAKD mit weitergehenden Überwachungspflichten (Art. 52) muss in der Lage sein, die Überwachungen gemäss den 8.–12. Abschnitten dieses Kapitels (Art. 54–69), welche die von ihr angebotenen Dienste betreffen, auszuführen oder durch Dritte ausführen zu lassen. Die AAKD mit weitergehenden Überwachungspflichten sind von den Überwachungstypen gemäss den Artikeln 56*a*, 56*b*, 67 Buchstaben b und c sowie 68 Absatz 1 Buchstaben b und c befreit.[^50-1]
 
 <sup>2</sup> Die Anbieterin stellt die Bereitschaft zur Überwachung des Fernmeldeverkehrs von der kommerziellen Aufnahme des Kundenbetriebes eines Dienstes an sicher.
 
 <sup>3</sup> Sie stellt sicher, dass sie die Überwachungsaufträge auch ausserhalb der Normalarbeitszeiten gemäss Artikel 10 entgegennehmen und gemäss den Vorgaben des EJPD ausführen oder durch Dritte ausführen lassen kann.
 
-<sup>4</sup> Sie gewährleistet, dass innerhalb des durch den Überwachungsauftrag bestimmten Zeitraumes die Überwachung des gesamten, über die von ihr kontrollierten Infrastrukturen geführten Fernmeldeverkehrs ausgeführt wird, wenn er über die überwachten Dienste abgewickelt wird und dem überwachten Identifikator (Target-ID) zugeordnet werden kann.
+<sup>4</sup> Sie gewährleistet, dass innerhalb des durch den Überwachungsauftrag bestimmten Zeitraumes die Überwachung des gesamten, über die von ihr kontrollierten Infrastrukturen geführten Fernmeldeverkehrs ausgeführt wird, wenn er über die überwachten Dienste abgewickelt wird und dem Target-ID[^50-2] zugeordnet werden kann.
 
-<sup>5</sup> Sie unterstützt den Dienst ÜPF, wenn nötig, um sicherzustellen, dass die übermittelten Überwachungsdaten tatsächlich mit dem im Überwachungsauftrag bezeichneten Fernmeldeverkehr übereinstimmen.
+<sup>5</sup> Sie unterstützt den Dienst ÜPF auf dessen Aufforderung hin, um sicherzustellen, dass die übermittelten Überwachungsdaten tatsächlich mit dem im Überwachungsauftrag bezeichneten Fernmeldeverkehr übereinstimmen.[^50-3]
 
-<sup>6</sup> Sind weitere Identifikatoren mit dem überwachten Identifikator (Target-ID) assoziiert (z.B. IMPI mit IMPU, E-Mail-Adresse mit Alias-Adressen), so stellt die Anbieterin sicher, dass auch diese im Rahmen des Überwachungstyps überwacht werden.
+<sup>6</sup> Sind weitere Identifikatoren mit der Target-ID assoziiert (z. B. IMPI mit IMPU, E‑Mail-Adresse mit Alias-Adressen, Extra-SIM, Multi-Device), so stellt die Anbieterin sicher, dass auch diese im Rahmen des Überwachungstyps überwacht werden.[^50-4]
+
+<sup>7</sup> Bei der Echtzeitüberwachung von Mobilfunkdiensten sind auch relevante Netzelemente wie HLR, HSS und UDM zu überwachen, insbesondere um Informationen über das diensterbringende Netz, über die Änderung der zugeordneten Dienst- und Geräteidentifikatoren, über standortbezogene Ereignisse, über den Wechsel des diensterbringenden Netzelements sowie über Identifizierungs- und Authentifizierungsereignisse der Target-ID zu erfassen und in den IRI standardisiert zu übermitteln.[^50-5]
+
+<sup>8</sup> Bei der Echtzeitüberwachung im IMS ist die netzwerkseitige Bestimmung der Standortangaben der Target-ID gegebenenfalls auszulösen.[^50-6]
+
+<sup>9</sup> Wenn bei einer bereits aktiven Echtzeitüberwachung oder periodischen Positionsbestimmung ein neues Endgerät (Multi-Device) oder eine neue SIM (Extra-SIM) zu einem Dienst hinzukommt, ist dieses oder diese ebenfalls zu überwachen. Es wird dafür keine zusätzliche Gebühr fällig und keine zusätzliche Entschädigung ausgerichtet. Bei Bedarf kann die Anbieterin dafür eine zusätzliche administrative Identifikationsnummer der Überwachung anfordern.[^50-7]
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-2]: Ausdruck gemäss Ziff. I Abs. 2 der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Diese Änd. ist in der in den AS genannten Bestimmungen berücksichtigt.
+[^50-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-6]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^50-7]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 51
 
@@ -1002,11 +1303,11 @@ Die FDA mit reduzierten Überwachungspflichten sind verpflichtet, dem Dienst ÜP
 
 #### Art. 52
 
-**Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten**
+**AAKD mit weitergehenden Überwachungspflichten**
 
 <sup>1</sup>
 
-Der Dienst ÜPF erklärt mit Verfügung eine Anbieterin abgeleiteter Kommunikationsdienste als eine mit weitergehenden Überwachungspflichten (Art. 27 Abs. 3 BÜPF), wenn sie eine der nachstehenden Grössen erreicht hat:
+Der Dienst ÜPF erklärt mit Verfügung eine AAKD als eine mit weitergehenden Überwachungspflichten (Art. 27 Abs. 3 BÜPF), wenn sie eine der nachstehenden Grössen erreicht hat:
 
 - a. Überwachungsaufträge zu 10 verschiedenen Zielen der Überwachung in den letzten 12 Monaten (Stichtag: 30. Juni);
 - b. Jahresumsatz in der Schweiz von 100 Millionen Franken in zwei aufeinander folgenden Geschäftsjahren, wobei ein grosser Teil ihrer Geschäftstätigkeit im Anbieten abgeleiteter Kommunikationsdienste besteht, und 5000 Teilnehmende, welche die Dienste der Anbieterin in Anspruch nehmen.
@@ -1015,17 +1316,19 @@ Der Dienst ÜPF erklärt mit Verfügung eine Anbieterin abgeleiteter Kommunikati
 
 #### Art. 53
 
-**Zugang zu den Anlagen**
+**Zugang zu den Anlagen**[^53-1]
 
-<sup>1</sup> Die Mitwirkungspflichtigen, die dem Dienst ÜPF oder dessen Beauftragten Zugang zu ihren Anlagen gewähren müssen, ermöglichen ihm, im Rahmen des für die Überwachung Notwendigen, den Zugang zu Gebäuden, Geräten, Leitungen, Systemen, Netzen und Diensten.
+<sup>1</sup> Die Mitwirkungspflichtigen, die dem Dienst ÜPF oder dessen Beauftragten Zugang zu ihren Anlagen gewähren müssen, ermöglichen ihm oder ihnen den Zugang zu Gebäuden, Geräten, Leitungen, Systemen, Netzen und Diensten, soweit dies für die Überwachung oder für Testschaltungen (Art. 30) notwendig ist.
 
-<sup>2</sup> Sie stellen bestehende Netzzugänge zu öffentlichen Fernmeldenetzen kostenlos zur Verfügung. In Absprache mit dem Dienst ÜPF oder dem von ihm beauftragten Dritten erstellen sie, soweit dies für die Überwachung notwendig ist, neue Netzzugänge auf Kosten des Dienstes ÜPF.
+<sup>2</sup> Sie stellen bestehende Netzzugänge zu öffentlichen Fernmeldenetzen kostenlos zur Verfügung. Im Einvernehmen mit dem Dienst ÜPF oder dem von ihm beauftragten Dritten erstellen sie, soweit dies für die Überwachung notwendig ist, neue Netzzugänge auf Kosten des Dienstes ÜPF.
+
+[^53-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 ### 8. Abschnitt: Typen der Echtzeitüberwachung von Netzzugangsdiensten
 
 #### Art. 54
 
-**Überwachungstyp RT\_22\_NA\_IRI: Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten**
+**Überwachungstyp RT\_22\_NA\_IRI: Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten**[^54-1]
 
 <sup>1</sup> Der Überwachungstyp RT\_22\_NA\_IRI umfasst die Echtzeitüberwachung eines Netzzugangsdienstes im Mobilfunkbereich.
 
@@ -1033,22 +1336,33 @@ Der Dienst ÜPF erklärt mit Verfügung eine Anbieterin abgeleiteter Kommunikati
 
 Es sind die folgenden Randdaten des Fernmeldeverkehrs, der über den überwachten Netzzugangsdienst gesendet oder empfangen wird, in Echtzeit zu übermitteln:
 
-- a. wenn der Netzzugang hergestellt oder getrennt wird: das Datum, die Uhrzeit, die Art des Ereignisses und der Grund der Trennung;
+- a. wenn der Netzzugang hergestellt oder getrennt wird: das Datum, die Uhrzeit, die Art des Ereignisses und die Technologie sowie gegebenenfalls der Grund der Trennung;
 - b. die Art des momentanen Netzzugangs;
-- c. die verwendeten AAA-Informationen des überwachten Netzzugangsdienstes, insbesondere der Teilnehmeridentifikator, bei Mobilfunk die IMSI;
-- d. die dem überwachten Netzzugangsdienst zugeteilten IP-Adressen beziehungsweise Adressbereiche sowie das Datum und die Uhrzeit der jeweiligen Zuteilung;
-- e. die verfügbaren Adressierungselemente des überwachten Netzzugangsdienstes, bei Mobilfunk zum Beispiel die MSISDN oder die IMSI;
-- f. die eindeutigen Geräteidentifikatoren gemäss internationalen Standards der momentanen Endgeräte des überwachten Netzzugangsdienstes (z.B. IMEI, MAC-Adresse);
-- g. die Art, das Datum und die Uhrzeit des Beginns und gegebenenfalls des Endes der technischen Änderungen des Netzzugangs (z.B. Location Update, Wechsel der Mobilfunktechnologie) und, falls bekannt, ihre Ursachen;
-- h. die verfügbaren momentanen Standortangaben des Targets oder der vom Target benutzten Zelle beziehungsweise des vom Target benutzten WLAN-Zugangspunktes gemäss Absatz 3.
+- c. die verwendeten AAA-Informationen des überwachten Netzzugangsdienstes, insbesondere die Teilnehmeridentifikatoren und die zugehörigen IMSI oder SUPI;
+- d. die dem überwachten Netzzugangsdienst und den zugehörigen Endgeräten zugeteilten IP-Adressen sowie das Datum und die Uhrzeit der jeweiligen Zuteilung;
+- e. die verfügbaren Adressierungselemente und Identifikatoren des überwachten Netzzugangsdienstes, insbesondere die zugehörigen MSISDN oder GPSI und die zugehörigen IMSI oder SUPI;
+- f. die eindeutigen Geräteidentifikatoren gemäss internationalen Standards der momentan zugehörigen Endgeräte des überwachten Netzzugangsdienstes (z. B. IMEI, PEI, MAC-Adresse);
+- g. die Art, das Datum und die Uhrzeit des Beginns und gegebenenfalls des Endes der Ereignisse, die die technischen Eigenschaften des überwachten Netzzugangsdienstes oder dessen Mobilitätsmanagement ändern, und, falls bekannt, ihre Ursachen;
+- h. die soweit möglich vom Netzwerk bestimmten und dementsprechend gekennzeichneten aktuellen Standortangaben des Targets, der benutzten Zellen oder des benutzten Nicht-3GPP-Zugangs, wobei auch die das Target betreffenden Standortangaben aus NAS-Signalisierungsnachrichten zu übermitteln und bei EPS und 5GS die Standortangaben, soweit verfügbar, mit dem jeweiligen verknüpften Zeitstempel oder dem Alter der Standortangabe zu ergänzen sind;
+- i. soweit möglich, Informationen über das vorherige und das aktuelle diensterbringende Netz;
+- j. Informationen über die Änderung der zugeordneten Dienst- und Geräteidentifikatoren, über standortbezogene Ereignisse und gegebenenfalls deren Grund, über den Wechsel des diensterbringenden Netzelements sowie über Identifizierungs- und Authentifizierungsereignisse des Targets;
+- k. bei der 5G-Technologie: zusätzlich Informationen über die Zuordnung eines neuen temporären Identifikators des Targets.
 
 <sup>3</sup>
 
-Die Standortangaben bestehen aus:
+Die Standortangaben bestehen aus den zugehörigen Zeitstempeln und, soweit verfügbar, dem Typ der benutzten Netzzugangstechnologie sowie:
 
-- a. den Identifikatoren oder einer Kombination von Identifikatoren (z.B. CGI, ECGI, SAI, RAI, TAI, BSSID) sowie den geografischen Koordinaten und gegebenenfalls der Hauptstrahlungsrichtung der Zelle beziehungsweise des WLAN-Zugangspunktes sowie soweit verfügbar dem Typ der benutzten Mobilfunktechnologie;
-- b. der vom Netzwerk bestimmten Position des Targets, zum Beispiel in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form von Polygonen unter Angabe der geografischen Koordinaten jedes Polygonpunktes sowie soweit verfügbar dem Typ der benutzten Mobilfunktechnologie; oder
-- c. soweit verfügbar, anderen Angaben zum Standort des Targets oder der Zelle beziehungsweise des WLAN-Zugangspunktes, gemäss internationalen Standards sowie soweit verfügbar dem Typ der benutzten Mobilfunktechnologie.
+- a. den Identifikatoren (z. B. Zell- oder Gebietsidentifikator) sowie den geografischen Koordinaten der Zellen und gegebenenfalls der Hauptstrahlrichtungen der Zellen sowie bei einem Funkzellenverbund (combined Cell) weiteren Standortangaben gemäss den anwendbaren Vorschriften des EJPD;
+- b. der vom Netzwerk bestimmten Position des Targets, zum Beispiel in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form von Polygonen, unter Angabe der geografischen Koordinaten jedes Polygonpunkts;
+- c. anderen Angaben zum Standort des Targets oder der Zellen gemäss internationalen Standards; oder
+- d.
+
+  bei einem Nicht-3GPP-Zugang:
+
+  - 1\. den Identifikatoren oder einer anderen geeigneten Bezeichnung (z. B. Hotspotname) des Nicht-3GPP-Zugangs, der öffentlichen Quell-IP-Adresse für die gesicherte Verbindung des Targets zum Gateway sowie, im Falle von NAT, der Quell-Portnummer und dem Protokoll, oder
+  - 2\. dem Identifikator des Netzzugangs und, soweit vorhanden, dessen Postadresse.
+
+[^54-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 55
 
@@ -1060,41 +1374,103 @@ Der Überwachungstyp RT\_23\_NA\_CC\_IRI umfasst die Echtzeitüberwachung eines 
 
 #### Art. 56
 
-**Überwachungstyp RT\_24\_TEL\_IRI: Echtzeitüberwachung von Randdaten bei Telefonie- und Multimediadiensten**
+**Überwachungstyp RT\_24\_TEL\_IRI: Echtzeitüberwachung von Randdaten bei Telefonie- und Multimediadiensten**[^56-1]
 
-<sup>1</sup>
-
-Der Überwachungstyp RT\_24\_TEL\_IRI umfasst die Echtzeitüberwachung eines Telefonie- und Multimediadienstes und, falls zutreffend, der mit diesem konvergierenden Dienste, insbesondere SMS, Voice Mail und RCS. Es sind die folgenden Randdaten des Fernmeldeverkehrs, der über die überwachten Dienste gesendet, bearbeitet oder empfangen wird, in Echtzeit zu übermitteln:
-
-- a. das Datum und die Uhrzeit von Anmelde- beziehungsweise Abmeldevorgängen und deren Ergebnis;
-- b.[^56-1] die verwendeten AAA-Informationen der überwachten Dienste und die Informationen über Registrierungs- und Subskriptionsereignisse sowie die entsprechenden Antworten, insbesondere der Teilnehmeridentifikator (z. B. SIP URI, IMPI) und bei Mobilfunk die IMSI;
-- b<sup>bis</sup>.[^56-2] soweit zutreffend, die IP-Adressen und Portnummern des Clients und des Servers sowie die Angaben zum benutzten Protokoll;
-- c. die Signalisierungsinformationen, insbesondere zum Serving System, zum Status des Teilnehmenden und zur Dienstqualität;
-- d. falls zutreffend, die Präsenzinformationen;
-- e.
-
-  bei Kommunikationen, Kommunikationsversuchen und bei technischen Änderungen (z.B. Einbeziehung von Zusatzdiensten, Einbeziehung von oder Wechsel auf konvergierende Dienste, Wechsel der Mobilfunktechnologie, Location Updates), soweit zutreffend:
-
-  - 1\. deren Art, das Datum und die Uhrzeit ihres Beginns und gegebenenfalls ihres Endes,
-  - 2\. die Adressierungselemente (z.B. MSISDN, E.164-Nummer, SIP URI, IMPU) aller Kommunikationsteilnehmenden und deren Rolle,
-  - 3\. die tatsächliche bekannte Zieladresse und die zwischengeschalteten verfügbaren Adressen, falls die Kommunikation oder der Kommunikationsversuch um- oder weitergeleitet wird,
-  - 4\. die eindeutigen Geräteidentifikatoren gemäss internationalen Standards der Endgeräte der überwachten Dienste (z.B. IMEI, MAC-Adresse),
-  - 5\. die anderen verfügbaren Identifikatoren,
-  - 6\. die Ursache für die Beendigung der Kommunikation oder deren Nichtzustandekommen oder für die technische Änderung,
-  - 7\. die Signalisierungsinformationen zu Zusatzdiensten (z.B. Konferenzschaltung, Anrufumleitung, DTMF),
-  - 8\. der Status der Kommunikation oder des Kommunikationsversuches,
-  - 9\. bei ortsunabhängigen Diensten zusätzlich die verfügbaren momentanen Standortangaben des Targets oder der vom Target benutzten Zelle beziehungsweise des vom Target benutzten WLAN-Zugangspunktes gemäss Absatz 2.
+<sup>1</sup> Der Überwachungstyp RT\_24\_TEL\_IRI umfasst die Echtzeitüberwachung eines Telefonie- und Multimediadienstes und, falls zutreffend, die Echtzeitüberwachung der mit diesem konvergierenden Dienste, insbesondere SMS, Voice Mail und RCS.
 
 <sup>2</sup>
 
-Die Standortangaben bestehen aus:
+Es sind die folgenden Randdaten des Fernmeldeverkehrs, der über die überwachten Dienste gesendet, bearbeitet oder empfangen wird, in Echtzeit zu übermitteln:
 
-- a. den Identifikatoren oder einer Kombination von Identifikatoren (z.B. CGI, ECGI, SAI, RAI, TAI, BSSID) sowie den geografischen Koordinaten der Zelle beziehungsweise des WLAN-Zugangspunktes sowie soweit verfügbar dem Typ der benutzten Mobilfunktechnologie;
-- b. der vom Netzwerk bestimmten Position des Targets, zum Beispiel in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form von Polygonen unter Angabe der geografischen Koordinaten jedes Polygonpunktes sowie dem Typ der benutzten Mobilfunktechnologie; oder
-- c. soweit verfügbar, anderen Angaben zum Standort des Targets oder der Zelle beziehungsweise des WLAN-Zugangspunktes, gemäss internationalen Standards sowie dem Typ der benutzten Mobilfunktechnologie.
+- a. das Datum und die Uhrzeit von An- und Abmeldevorgängen und deren Ergebnis;
+- b. die verwendeten AAA-Informationen der überwachten Dienste und die Informationen über Registrierungs- und Subskriptionsereignisse sowie die entsprechenden Antworten, insbesondere der Teilnehmeridentifikator (z. B. SIP URI, IMPI), bei Mobilfunkdiensten die IMSI oder die SUPI und, soweit zutreffend, die IP‑Adressen und Portnummern des Clients und des Servers sowie die Angaben zum benutzten Protokoll;
+- c. die Signalisierungsinformationen, insbesondere zum Serving-System, zum Status der oder des Teilnehmenden und zur Dienstqualität;
+- d. falls zutreffend, die Präsenzinformationen;
+- e.
 
-[^56-1]: Fassung gemäss Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^56-2]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+  bei Kommunikationen, Kommunikationsversuchen und technischen Änderungen (z. B. Einbeziehung von Zusatzdiensten, Einbeziehung von konvergierenden Diensten oder Wechsel auf konvergierende Dienste, Wechsel der Netzzugangstechnologie, Location Updates), soweit zutreffend:
+
+  - 1\. deren Art, das Datum und die Uhrzeit ihres Beginns und gegebenenfalls ihres Endes,
+  - 2\. die Adressierungselemente (z. B. MSISDN, GPSI, E.164-Nummer, SIP URI, IMPU) aller Kommunikationsteilnehmenden und jeweils deren Rolle,
+  - 3\. die tatsächliche bekannte Zieladresse und die zwischengeschalteten verfügbaren Adressen, falls die Kommunikation oder der Kommunikationsversuch um- oder weitergeleitet wird,
+  - 4\. die eindeutigen Geräteidentifikatoren gemäss internationalen Standards der Endgeräte der überwachten Dienste (z. B. IMEI, PEI, MAC-Adresse),
+  - 5\. die anderen verfügbaren Identifikatoren,
+  - 6\. die Ursache für die Beendigung der Kommunikation oder deren Nichtzustandekommen oder für die technische Änderung,
+  - 7\. die Signalisierungsinformationen zu Zusatzdiensten (z. B. Konferenzschaltung, Anrufumleitung, DTMF),
+  - 8\. der Status der Kommunikation oder des Kommunikationsversuchs,
+  - 9\. bei Mobilfunkdiensten: zusätzlich die soweit möglich vom Netzwerk bestimmten und dementsprechend gekennzeichneten aktuellen Standortangaben gemäss Artikel 54 Absätze 2 Buchstabe h und 3;
+
+- f. bei Mobilfunkdiensten: zusätzlich Informationen über das vorherige und das aktuelle diensterbringende Netz, über die Änderung der zugeordneten Dienst- und Geräteidentifikatoren, über standortbezogene Ereignisse und gegebenenfalls deren Grund, über den Wechsel des diensterbringenden Netzelements sowie über Identifizierungs- und Authentifizierungsereignisse des Targets.
+
+[^56-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 56a
+
+**Überwachungstyp RT\_54\_POS\_ONCE: einmalige, sofortige Positionsbestimmung durch das Netzwerk**[^56a-1]
+
+<sup>1</sup> Der Überwachungstyp RT\_54\_POS\_ONCE umfasst jeweils die einmalige, sofortige Positionsbestimmung durch das Netzwerk von allen mit der Target-ID assoziierten mobilen Endgeräten.
+
+<sup>2</sup> Die Positionsbestimmung ist durch das Netzwerk mit Hilfe einer sofortigen Positionierungsfunktion gemäss den Vorschriften des EJPD durchzuführen.
+
+<sup>3</sup>
+
+Es sind jeweils die folgenden Angaben sofort zu übermitteln:
+
+- a. die beobachteten MSISDN oder GPSI, IMEI oder PEI und IMSI oder SUPI, mindestens eine dieser Angaben, die übrigen soweit verfügbar;
+- b. der Netzidentifikator des Location-Service-Client und der Zeitstempel der Positionsbestimmung;
+- c.
+
+  bei erfolgreicher Positionsbestimmung: der Zeitstempel der Position und die Positionsangaben wie folgt:
+
+  - 1\. soweit verfügbar, die Positionierungsmethode,
+  - 2\. soweit verfügbar, Angaben zur Genauigkeit der Position,
+  - 3\.
+
+    die Position in Form von:
+
+    - – geografischen Koordinaten und gegebenenfalls den zugehörigen Unsicherheitswerten
+    - – Polygonen unter Angabe der geografischen Koordinaten jedes Polygonpunkts oder
+    - – anderen Angaben gemäss internationalen Standards, und
+
+  - 4\. soweit verfügbar, die Höhenangaben der Position, die Dienstqualität, der Bewegungszustand sowie die Geschwindigkeit und die Richtung der Bewegung des Endgeräts;
+
+- d. bei nicht erfolgreicher Positionsbestimmung: der Grund des Misserfolgs (Fehlercode) und die in Artikel 63 definierten Standortangaben bei der letzten feststellbaren Aktivität, ohne zusätzliche Kostenfolgen.
+
+[^56a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+#### Art. 56b
+
+**Überwachungstyp RT\_55\_POS\_PERIOD: periodisch wiederkehrende Positionsbestimmung durch das Netzwerk**[^56b-1]
+
+<sup>1</sup> Der Überwachungstyp RT\_55\_POS\_PERIOD umfasst jeweils die periodisch wiederkehrende Positionsbestimmung durch das Netzwerk von allen mit der Target-ID assoziierten mobilen Endgeräten.
+
+<sup>2</sup> Die Positionsbestimmungen sind durch das Netzwerk mit Hilfe einer periodischen Positionierungsfunktion gemäss den Vorschriften des EJPD durchzuführen.
+
+<sup>3</sup>
+
+Es sind jeweils die folgenden Angaben sofort zu übermitteln:
+
+- a. die beobachteten MSISDN oder GPSI, IMEI oder PEI und IMSI oder SUPI, mindestens eine dieser Angaben, die übrigen soweit verfügbar;
+- b. der Netzidentifikator des Location-Service-Client und der Zeitstempel der Positionsbestimmung;
+- c.
+
+  bei erfolgreicher Positionsbestimmung der Zeitstempel der Position und die Positionsangaben wie folgt:
+
+  - 1\. die Positionierungsmethode,
+  - 2\. Angaben zur Genauigkeit der Position,
+  - 3\.
+
+    die Position in Form von:
+
+    - – geografischen Koordinaten und gegebenenfalls den zugehörigen Unsicherheitswerten
+    - – Polygonen unter Angabe der geografischen Koordinaten jedes Polygonpunkts oder
+    - – anderen Angaben gemäss internationalen Standards, und
+
+  - 4\. soweit verfügbar, die Höhenangaben der Position, die Dienstqualität, der Bewegungszustand sowie die Geschwindigkeit und die Richtung der Bewegung des Endgeräts;
+
+- d. bei nicht erfolgreicher Positionsbestimmung: der Grund des Misserfolgs (Fehlercode).
+
+[^56b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 57
 
@@ -1131,47 +1507,41 @@ Der Überwachungstyp RT\_27\_EMAIL\_CC\_IRI umfasst die Echtzeitüberwachung ein
 
 #### Art. 60
 
-**Überwachungstyp HD\_28\_NA: rückwirkende Überwachung von Randdaten bei Netzzugangsdiensten**
+**Überwachungstyp HD\_28\_NA: rückwirkende Überwachung von Randdaten bei Netzzugangsdiensten**[^60-1]
 
-Der Überwachungstyp HD\_28\_NA umfasst die rückwirkende Überwachung von Randdaten eines Netzzugangsdienstes. Es sind die folgenden Randdaten des vergangenen Fernmeldeverkehrs, der über den überwachten Netzzugangsdienst gesendet oder empfangen wurde, zu übermitteln:
+Der Überwachungstyp HD\_28\_NA umfasst die rückwirkende Überwachung von Randdaten eines Netzzugangsdienstes. Es sind die folgenden Randdaten des Fernmeldeverkehrs, der über den überwachten Netzzugangsdienst gesendet oder empfangen wurde, zu übermitteln:
 
 - a. das Datum und die Uhrzeit des Beginns und gegebenenfalls des Endes oder die Dauer der Sitzung;
 - b. der Typ und der Status des Netzzugangs;
-- c. der Identifikator, der für die Authentifizierung des Benutzenden am überwachten Zugangspunkt verwendet wurde, zum Beispiel Benutzername;
-- d. die dem Target zugeteilten IP-Adressen beziehungsweise Adressbereiche und deren Typ;
-- e. sofern verfügbar, der eindeutige Geräteidentifikator des benutzten Endgeräts des Targets, gemäss internationalen Standards (z.B. MAC-Adresse, IMEI bei Mobilfunk);
-- f. sofern verfügbar, die jeweiligen Datenmengen, welche innerhalb der Sitzung hochgeladen und heruntergeladen wurden;
-- g.
+- c. der Identifikator, der für die Authentifizierung der Benutzerin oder des Benutzers am überwachten Zugang verwendet wurde, zum Beispiel der Benutzername;
+- d. die dem Target zugeteilte IP-Adresse und deren Typ oder bei Nicht-3GPP-Zugang die öffentliche Quell-IP-Adresse für die gesicherte Verbindung des Targets zum Gateway und die zugehörige Quell-Portnummer;
+- e. der eindeutige Geräteidentifikator des benutzten Endgeräts des Targets gemäss internationalen Standards (z. B. MAC-Adresse, IMEI oder PEI bei Mobilfunkdiensten);
+- f. die jeweiligen Datenmengen, die innerhalb der Sitzung hochgeladen und heruntergeladen wurden;
+- g. bei Mobilfunkdiensten: die GPRS-, EPS- oder 5GS-Informationen (insbesondere IMSI, SUPI, MSISDN, GPSI) und die Standortangaben zu Beginn und am Ende sowie, soweit verfügbar, während der Sitzung gemäss den anwendbaren Vorschriften des EJPD;
+- h. bei Netzzugang über professionell betriebenes öffentliches WLAN: die Identifikatoren (z. B. BSSID) oder andere geeignete Bezeichnungen (z. B. Hotspotname), die Standortangaben (geografische Koordinaten oder Postadresse) sowie, falls verfügbar, den Typ der Authentifizierung, einen Identifikator, der eine Anfrage der Identifikationsangaben gemäss Artikel 19 Absatz 2 ermöglicht und die IP-Adresse des vom Target benutzten Zugangs;
+- i. falls verfügbar, zusätzlich zu den Angaben nach den Buchstaben g und h, die Standortinformationen aus der Seeschifffahrt und der Luftfahrt;
+- j. bei Festnetzzugang: die Adressierungselemente des Zugangs und, falls verfügbar, die Postadresse.
 
-  bei Netzzugang über Mobilfunk: die GPRS- beziehungsweise EPS-Informationen (insbesondere IMSI oder MSISDN) und die folgenden Standortangaben zu Beginn und am Ende der Sitzung sowie soweit verfügbar während der Sitzung; falls bekannt, sind zusätzliche Standortinformationen aus der Seeschifffahrt oder der Luftfahrt zu übermitteln:
-
-  - 1\. die Zell- und Gebietsidentifikatoren sowie die geografischen Koordinaten, die Postadressen und gegebenenfalls die Hauptstrahlungsrichtungen der vom Target benutzten Zellen, oder
-  - 2\. die vom Netzwerk bestimmten Positionen des Targets (z.B. in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form von Polygonen unter Angabe der geografischen Koordinaten jedes Polygonpunktes) sowie die zugehörigen Postadressen, oder
-  - 3\. andere Angaben zu den Standorten des Targets oder der von diesem benutzten Zellen, gemäss internationalen Standards sowie die zugehörigen Postadressen;
-
-- h. bei Netzzugang über öffentliches WLAN: die BSSID, sowie, falls vorhanden, die SSID und die Standortangaben in Form von geografischen Koordinaten und der Postadresse des vom Target benutzten WLAN-Zugangspunktes; der Benutzername, der Typ der Authentifizierung, die vorhandenen zusätzlichen Informationen über die Benutzerauthentifizierung (Telefonnummer, MAC-Adresse, IMSI, für die Authentifizierung benutzter Benutzeridentifikator und Password) und die IP-Adresse des WLAN-Zugangspunktes. Falls vorhanden sind zusätzliche Standortinformationen aus der Seeschifffahrt oder der Luftfahrt zu übermitteln;
-- i. bei Festnetz-Zugang: die Adressierungselemente des Netzzugangs und falls vorhanden die Postadresse.
+[^60-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 61
 
 **Überwachungstyp HD\_29\_TEL: rückwirkende Überwachung von Randdaten bei Telefonie- und Multimediadiensten**
 
-Der Überwachungstyp HD\_29\_TEL umfasst die rückwirkende Überwachung von Randdaten eines Telefonie- und Multimediadienstes und, falls zutreffend, der mit diesem konvergierenden Dienste, insbesondere SMS, MMS und Voice Mail. Es sind die folgenden Randdaten des vergangenen Fernmeldeverkehrs von Kommunikationen und Kommunikationsversuchen der überwachten Dienste zu übermitteln:
+Der Überwachungstyp HD\_29\_TEL umfasst die rückwirkende Überwachung von Randdaten eines Telefonie- und Multimediadienstes und, falls zutreffend, der mit diesem konvergierenden Dienste, insbesondere SMS, Voice Mail und RCS. Es sind die folgenden Randdaten des vergangenen Fernmeldeverkehrs von Kommunikationen und Kommunikationsversuchen der überwachten Dienste zu übermitteln:[^61-1]
 
 - a. deren Art, das Datum und die Uhrzeit des Beginns und gegebenenfalls des Endes oder deren Dauer;
-- b. die Adressierungselemente (z.B. MSISDN, E.164-Nummer, SIP URI, IMPU) aller Kommunikationsbeteiligten und deren Rollen;
+- b.[^61-2] die Adressierungselemente (z. B. MSISDN, GPSI, E.164-Nummer, SIP URI, IMPU) aller Kommunikationsbeteiligten und deren Rollen;
 - c. der Grund für das Ende der Kommunikation oder des Kommunikationsversuches;
-- d. bei Mobilfunk (bei Multimediadiensten soweit verfügbar): die IMEI des benutzten Endgeräts des Targets und die IMSI des Targets;
+- d.[^61-3] bei Mobilfunkdiensten: IMEI oder PEI des benutzten Endgeräts des Targets und IMSI oder SUPI des Targets;
 - e. falls zutreffend, der Typ des Trägerdienstes;
 - f. bei SMS und MMS: die Informationen über das Ereignis, den Typ (nur bei SMS) und den Status;
-- g.
-
-  bei Mobilfunk: die Standortangaben der vom Target benutzten Zelle zu Beginn und am Ende der Kommunikation oder des Kommunikationsversuches. Falls bekannt sind zusätzliche Standortinformationen aus der Seeschifffahrt oder der Luftfahrt zu übermitteln:
-
+- g.[^61-4] bei Mobilfunkdiensten: die soweit möglich vom Netzwerk bestimmten und dementsprechend gekennzeichneten Standortangaben der vom Target benutzten Zellen oder des Nicht-3GPP-Zugangs zu Beginn der Kommunikation oder des Kommunikationsversuchs und am Ende sowie, soweit verfügbar, während der Kommunikation, gemäss den anwendbaren Vorschriften des EJPD;
   - 1\. die Zell- und Gebietsidentifikatoren, die geografischen Koordinaten und gegebenenfalls die Hauptstrahlungsrichtungen und die Postadresse, oder
   - 2\. die vom Netzwerk bestimmten Positionen des Targets (z.B. in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form von Polygonen unter Angabe der geografischen Koordinaten jedes Polygonpunktes) sowie die zugehörigen Postadressen, oder
   - 3\. andere Angaben zu den Standorten des Targets oder der von diesem benutzten Zellen, gemäss internationalen Standards sowie die zugehörigen Postadressen;
 
+- g<sup>bis</sup>.[^61-5] soweit vorhanden, zusätzlich zu den Angaben nach Buchstabe g die Standortinformationen aus der Seeschifffahrt und der Luftfahrt;
 - h.
 
   bei Multimediadiensten:
@@ -1182,70 +1552,92 @@ Der Überwachungstyp HD\_29\_TEL umfasst die rückwirkende Überwachung von Rand
   - 4\. die Informationen über die Multimediakomponenten (Zeit, Name, Beschreibung, Initiator, Zugangs-Korrelationsidentifikator), und
   - 5\. falls zutreffend, die Informationen über die IMS-Dienste (Typ des benutzten IMS-Dienstes, Rolle des Netzelements, von dem die Randdaten stammen); und
 
-- i.
+- i.[^61-6]
 
   bei Multimediadiensten: die Informationen über den Netzzugang des Targets:
 
   - 1\. der Zugangstyp,
   - 2\. die Zugangsklasse,
-  - 3\. ob die Informationen über den Netzzugang vom Netzwerk stammen, und
-  - 4\.
+  - 3\. die Angabe, ob die Informationen über den Netzzugang vom Netzwerk stammen, und
+  - 4\. die Standortangaben über den Netzzugang zu Beginn und am Ende der Multimediasitzung sowie, soweit verfügbar, während der Multimediasitzung, gemäss den anwendbaren Vorschriften des EJPD;
 
-    die Standortangaben über den Netzzugang zu Beginn und am Ende der Multimediasitzung sowie soweit verfügbar während der Multimediasitzung:
+- j.[^61-7] soweit zutreffend, die Bezeichnung der unmittelbar benachbarten Netze der Kommunikation oder des Kommunikationsversuchs.
 
-    - – bei Netzzugang über Mobilfunk: die Standortangaben der vom Target benutzten Zelle gemäss Buchstabe g, oder
-    - – bei Netzzugang über WLAN: die verfügbaren Standortangaben des vom Target benutzten WLAN-Zugangspunktes (geografische Koordinaten, Postadresse), oder
-    - – bei Festnetz-Zugang: die verfügbare Postadresse des vom Target benutzten Zugangs.
+[^61-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^61-7]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 62
 
-**Überwachungstyp HD\_30\_EMAIL: rückwirkende Überwachung von Randdaten bei E-Mail-Diensten**
+**Überwachungstyp HD\_30\_EMAIL: rückwirkende Überwachung von Randdaten bei E-Mail-Diensten**[^62-1]
 
 Der Überwachungstyp HD\_30\_EMAIL umfasst die rückwirkende Überwachung von Randdaten eines E-Mail-Dienstes. Es sind die folgenden Randdaten des vergangenen Fernmeldeverkehrs, der über den überwachten Dienst gesendet, bearbeitet oder empfangen wurde, zu übermitteln:
 
-- a. das Datum, die Uhrzeit, die Art des Ereignisses, die Teilnehmeridentifikatoren, gegebenenfalls die Alias-Adressen, die Sender- und Empfängeradressen, das verwendete Protokoll, die IP-Adressen des Servers und des Clients sowie gegebenenfalls der Zustellstatus der Nachricht bei den folgenden Ereignissen: Senden, Empfangen, Mailbox-Anmeldung, Mailbox-Abmeldung und bei den folgenden Ereignissen, soweit vorhanden: Herunterladen, Hochladen, Löschen, Bearbeiten, Hinzufügen einer Nachricht;
-- b. die IP-Adressen und Namen der sendenden und empfangenden E-Mail-Server.
+- a. das Datum, die Uhrzeit, die Art des Ereignisses, die Teilnehmeridentifikatoren, gegebenenfalls die Alias-Adressen, die Sender- und Empfängeradressen, das verwendete Protokoll, die IP-Adressen und Portnummern des Servers und des Clients sowie gegebenenfalls der Zustellstatus der Nachricht bei den folgenden Ereignissen: Senden, Empfangen, Mailbox-Anmeldung, Mailbox-Abmeldung und bei den folgenden Ereignissen, soweit vorhanden: Herunterladen, Hochladen, Löschen, Bearbeiten, Hinzufügen einer Nachricht;
+- b. die IP-Adressen und Namen der sendenden und empfangenden E-Mail- Server.
+
+[^62-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 63
 
-**Überwachungstyp HD\_31\_PAGING: Bestimmung der letzten Aktivität des mobilen Endgerätes der überwachten Person**
+**Überwachungstyp HD\_31\_PAGING: Bestimmung des Standorts bei der letzten Aktivität**[^63-1]
 
-Der Überwachungstyp HD\_31\_PAGING umfasst die Bestimmung der letzten durch die Mobilfunkanbieterin festgestellten Aktivität (Netzzugangsdienste sowie Telefonie- und Multimediadienste) des mobilen Endgerätes der überwachten Person und die Lieferung der MSISDN, der IMSI, der IMEI (falls vorhanden), des Typs der Mobilfunktechnologie, des Frequenzbandes, des eindeutigen Identifikators des Mobilfunknetzes, des Datums und der Uhrzeit der letzten festgestellten Aktivität sowie einer der folgenden, zur Standortbestimmung notwendigen Angaben:
+<sup>1</sup> Der Überwachungstyp HD\_31\_PAGING umfasst die jeweilige Bestimmung des Standorts bei der letzten durch die Mobilfunkanbieterin feststellbaren Aktivität für Netzzugangsdienste sowie Telefonie- und Multimediadienste von allen mit der Target-ID assoziierten mobilen Endgeräten der überwachten Person.
 
-- a. die Angaben über die dabei benutzte Zelle: der Identifikator oder eine Kombination von Identifikatoren (z.B. CGI, ECGI, SAI, RAI, TAI), die Postadresse, die Hauptstrahlungsrichtung beziehungsweise bei komplexen Zellen die Hauptstrahlungsrichtungen und die Art der Zelle, die geografischen Koordinaten;
-- b. die Postadresse und die vom Netzwerk bestimmten Angaben zur Position des Endgerätes bei der letzten Aktivität, zum Beispiel in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form eines Polygons unter Angabe der geografischen Koordinaten jedes Polygonpunktes; oder
-- c. die Postadresse und andere standardisierte, vom Netzwerk bestimmte Angaben zur Position des Endgerätes bei der letzten Aktivität oder zum Standort der dabei benutzten Zelle.
+<sup>2</sup>
+
+Zu übermitteln sind:
+
+- a. die MSISDN oder die GPSI;
+- b. die IMSI oder die SUPI;
+- c. falls vorhanden, die IMEI oder der PEI;
+- d. der Typ der Netzzugangstechnologie;
+- e. falls zutreffend, das Frequenzband;
+- f. der eindeutige Identifikator des Mobilfunknetzes;
+- g. das Datum und die Uhrzeit der jeweils letzten feststellbaren Aktivität für Netzzugangsdienste sowie Telefonie- und Multimediadienste; und
+- h. die Standortangaben gemäss den anwendbaren Vorschriften des EJPD.
+
+[^63-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 64
 
 **Überwachungstyp AS\_32\_PREP\_COV: Netzabdeckungsanalyse in Vorbereitung eines Antennensuchlaufs**
 
-<sup>1</sup> Der Überwachungstyp AS\_32\_PREP\_COV umfasst die Netzanalyse in Vorbereitung des Antennensuchlaufs gemäss Artikel 66. Sie wird durch die FDA durchgeführt und dient dazu, die Mobilfunkzellen oder öffentlichen WLAN-Zugangspunkte zu ermitteln, welche den durch die anordnende Behörde in Form geografischer Koordinaten oder mittels Postadresse bezeichneten Standort, gegebenenfalls unter Berücksichtigung weiterer Angaben (z.B. Tageszeit, Witterung, Wochentag, Standort innerhalb oder ausserhalb eines Gebäudes) am wahrscheinlichsten abdecken.
+<sup>1</sup> Der Überwachungstyp AS\_32\_PREP\_COV umfasst die Netzanalyse in Vorbereitung des Antennensuchlaufs gemäss Artikel 66. Sie wird durch die FDA durchgeführt und dient dazu, die Mobilfunkzellen oder öffentlichen WLAN-Zugänge zu ermitteln, welche den durch die anordnende Behörde in Form geografischer Koordinaten oder mittels Postadresse bezeichneten Standort, gegebenenfalls unter Berücksichtigung weiterer Angaben (z.B. Tageszeit, Witterung, Wochentag, Standort innerhalb oder ausserhalb eines Gebäudes) am wahrscheinlichsten abdecken.
 
-<sup>2</sup> Die FDA liefert dem Dienst ÜPF eine Liste der Zell-Identifikatoren (z.B. CGI, ECGI) beziehungsweise BSSID der ermittelten Mobilfunkzellen beziehungsweise öffentlichen WLAN-Zugangspunkte.
+<sup>2</sup> Die FDA liefert dem Dienst ÜPF eine Liste der Zell- oder Gebietsidentifikatoren der ermittelten Mobilfunkzellen und der Identifikatoren (z. B. BSSID) oder andere geeigneten Bezeichnungen (z. B. Hotspotname) der ermittelten professionell betriebenen öffentlichen WLAN-Zugänge.[^64-1]
+
+[^64-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 65
 
 **Überwachungstyp AS\_33\_PREP\_REF: Referenzkommunikationen oder Referenznetzzugänge in Vorbereitung eines Antennensuchlaufs**
 
-<sup>1</sup> Der Überwachungstyp AS\_33\_PREP\_REF umfasst die Bestimmung der Mobilfunkzellen beziehungsweise der öffentlichen WLAN-Zugangspunkte anhand von Referenzkommunikationen und Referenznetzzugängen in Vorbereitung des Antennensuchlaufs gemäss Artikel 66.
+<sup>1</sup> Der Überwachungstyp AS\_33\_PREP\_REF umfasst die Bestimmung der Mobilfunkzellen beziehungsweise der öffentlichen WLAN-Zugänge anhand von Referenzkommunikationen und Referenznetzzugängen in Vorbereitung des Antennensuchlaufs gemäss Artikel 66.
 
 <sup>2</sup>
 
-Die anordnende Behörde lässt in eigener Regie am fraglichen Standort Referenzkommunikationen und Referenznetzzugänge durchführen und übermittelt dem Dienst ÜPF eine Liste mit den folgenden diesbezüglichen Angaben:
+Die anordnende Behörde lässt in eigener Regie am massgeblichen Standort Referenzkommunikationen und Referenznetzzugänge durchführen und übermittelt dem Dienst ÜPF eine Liste mit den folgenden diesbezüglichen Angaben:[^65-1]
 
 - a. die Art der Kommunikation oder des Netzzugangs;
 - b. das Datum und die Uhrzeit der Kommunikation oder des Netzzugangs;
 - c. das Adressierungselement des benutzten Telefonie- und Multimediadienstes beziehungsweise des Netzzugangsdienstes;
 - d. falls zutreffend, der Name des benutzten Mobilfunknetzes.
 
-<sup>3</sup> Der Dienst ÜPF beauftragt die FDA, anhand der Randdaten des vergangenen Fernmeldeverkehrs die zu Beginn und am Ende der Referenzkommunikationen und Referenznetzzugänge gemäss Absatz 2 jeweils benutzten Mobilfunkzellen beziehungsweise öffentlichen WLAN-Zugangspunkte zu bestimmen und ihm die mit den entsprechenden Zell-Identifikatoren (z.B. CGI, ECGI) beziehungsweise BSSID vervollständigte Liste gemäss Absatz 2 zu liefern.
+<sup>3</sup> Der Dienst ÜPF beauftragt die FDA, anhand der Randdaten des vergangenen Fernmeldeverkehrs die zu Beginn und am Ende der Referenzkommunikationen und der Referenznetzzugänge gemäss Absatz 2 jeweils benutzten Mobilfunkzellen oder öffentlichen WLAN-Zugänge zu bestimmen und ihm die mit den entsprechenden Zell- oder Gebietsidentifikatoren der Mobilfunkzellen, den entsprechenden Identifikatoren (z. B. BSSID) oder anderen geeigneten Bezeichnungen (z. B. Hotspotname) der WLAN-Zugänge vervollständigte Liste gemäss Absatz 2 zu liefern.[^65-2]
+
+[^65-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^65-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 66
 
 **Überwachungstyp AS\_34: Antennensuchlauf**
 
-<sup>1</sup> Der Überwachungstyp AS\_34 umfasst die rückwirkende Überwachung aller Kommunikationen, Kommunikationsversuche und Netzzugänge, welche über eine bestimmte Mobilfunkzelle beziehungsweise über einen bestimmten öffentlichen WLAN-Zugangspunkt während eines Zeitraumes von bis zu zwei Stunden stattgefunden haben.[^66-1]
+<sup>1</sup> Der Überwachungstyp AS\_34 umfasst die rückwirkende Überwachung aller Kommunikationen, Kommunikationsversuche und Netzzugänge, welche über eine bestimmte Mobilfunkzelle beziehungsweise über einen bestimmten öffentlichen WLAN-Zugang während eines Zeitraumes von bis zu zwei Stunden stattgefunden haben.[^66-1]
 
 <sup>2</sup> Die FDA übermittelt die aus Absatz 1 resultierenden Randdaten des vergangenen Fernmeldeverkehrs gemäss Artikel 60 und 61.
 
@@ -1259,32 +1651,38 @@ Die anordnende Behörde lässt in eigener Regie am fraglichen Standort Referenzk
 
 #### Art. 67
 
-**Überwachungstypen EP: Notsuche**
+**Überwachungstypen EP: Notsuche**[^67-1]
 
 Für die Notsuche gemäss Artikel 35 BÜPF können die folgenden Überwachungstypen angeordnet werden:
 
-- a.
+- a. der Typ EP\_35\_PAGING: jeweils die Bestimmung des Standorts bei der letzten durch die Mobilfunkanbieterin feststellbaren Aktivität von allen mit der Target-ID assoziierten mobilen Endgeräten der vermissten oder dritten Person; dieser Typ entspricht dem Typ HD\_31\_PAGING gemäss Artikel 63;
+- b. der Typ EP\_56\_POS\_ONCE: jeweils die einmalige, sofortige Positionsbestimmung durch das Netzwerk von allen mit der Target-ID assoziierten mobilen Endgeräten der vermissten oder dritten Person; dieser Typ entspricht dem Typ RT\_54\_POS\_ONCE gemäss Artikel 56*a*;
+- c. der Typ EP\_57\_POS\_PERIOD: jeweils die periodisch wiederkehrende Positionsbestimmung durch das Netzwerk von allen mit der Target-ID assoziierten mobilen Endgeräten der vermissten oder dritten Person; dieser Typ entspricht dem Typ RT\_55\_POS\_PERIOD gemäss Artikel 56*b*;
+- d. der Typ EP\_36\_RT\_CC\_IRI: Echtzeitüberwachung von Inhalten und Randdaten; dieser Typ entspricht der Kombination der Überwachungstypen gemäss Artikel 55 (Netzzugangsdienste) und gemäss Artikel 57 (Telefonie- und Multimediadienste);
+- e. der Typ EP\_37\_RT\_IRI: Echtzeitüberwachung von Randdaten; dieser Typ entspricht der Kombination der Überwachungstypen gemäss Artikel 54 (Netzzugangsdienste) und gemäss Artikel 56 (Telefonie- und Multimediadienste);
+- f. der Typ EP\_38\_HD: rückwirkende Überwachung von Randdaten; dieser Typ entspricht der Kombination der Überwachungstypen gemäss Artikel 60 (Netzzugangsdienste) und gemäss Artikel 61 (Telefonie- und Multimediadienste).
 
-  der Typ EP\_35\_PAGING: die Bestimmung der letzten durch die Mobilfunkanbieterin festgestellten Aktivität (Netzzugangsdienste sowie Telefonie- und Multimediadienste) des mobilen Endgerätes der vermissten oder einer dritten Person und die Lieferung der MSISDN, der IMSI, der IMEI (falls vorhanden), des Typs der Mobilfunktechnologie, des Frequenzbandes, des eindeutigen Identifikators des Mobilfunknetzes, des Datums und der Uhrzeit der letzten festgestellten Aktivität sowie einer der folgenden, zur Standortbestimmung notwendigen Angaben:
-
-  - 1\. die Angaben über die dabei benutzte Zelle: der Identifikator oder eine Kombination von Identifikatoren (z.B. CGI, ECGI, SAI, RAI, TAI), die Postadresse, die Hauptstrahlungsrichtung beziehungsweise bei komplexen Zellen die Hauptstrahlungsrichtungen und die Art der Zelle, die geografischen Koordinaten,
-  - 2\. die Postadresse und die vom Netzwerk bestimmten Angaben zur Position des Endgerätes bei der letzten Aktivität, zum Beispiel in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form eines Polygons unter Angabe der geografischen Koordinaten jedes Polygonpunktes, oder
-  - 3\. die Postadresse und andere standardisierte, vom Netzwerk bestimmte Angaben zur Position des Endgerätes bei der letzten Aktivität oder zum Standort der dabei benutzten Zelle;
-
-- b. der Typ EP\_36\_RT\_CC\_IRI (Echtzeitüberwachung von Inhalten und Randdaten): die Kombination der Überwachungstypen gemäss Artikel 55 (Netzzugangsdienste) und gemäss Artikel 57 (Telefonie- und Multimediadienste);
-- c. der Typ EP\_37\_RT\_IRI (Echtzeitüberwachung von Randdaten): die Kombination der Überwachungstypen gemäss Artikel 54 (Netzzugangsdienste) und gemäss Artikel 56 (Telefonie- und Multimediadienste);
-- d. der Typ EP\_38\_HD (rückwirkende Überwachung von Randdaten): die Kombination der Überwachungstypen gemäss Artikel 60 (Netzzugangsdienste) und gemäss Artikel 61 (Telefonie- und Multimediadienste).
+[^67-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 68
 
-**Fahndung**
+**Fahndung**[^68-1]
+
+<sup>1</sup>
 
 Für die Fahndung nach verurteilten Personen gemäss Artikel 36 BÜPF können die folgenden Überwachungstypen angeordnet werden, wobei in der Überwachungsanordnung als Grund der Überwachung (Art. 49 Abs. 1 Bst. e) «Fahndung» anzugeben ist:
 
-- a. einer der Überwachungstypen der Echtzeitüberwachung von Inhalten und Randdaten bei Netzzugangsdiensten oder Anwendungen gemäss den Artikeln 55, 57 oder 59;
-- b. einer der Überwachungstypen der Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten oder Anwendungen gemäss den Artikeln 54, 56 oder 58;
-- c. einer der Überwachungstypen der rückwirkenden Überwachung gemäss den Artikeln 60–63;
-- d. der Antennensuchlauf gemäss Artikel 66 und die entsprechenden Vorbereitungen gemäss Artikel 64 und 65.
+- a. jeweils die Bestimmung des Standorts bei der letzten durch die Mobilfunkanbieterin feststellbaren Aktivität von allen mit der Target-ID assoziierten mobilen Endgeräten der verurteilten oder dritten Person gemäss Artikel 63;
+- b. jeweils die einmalige, sofortige Positionsbestimmung durch das Netzwerk von allen mit der Target-ID assoziierten mobilen Endgeräten der verurteilten oder dritten Person gemäss Artikel 56*a*;
+- c. jeweils die periodisch wiederkehrende Positionsbestimmung durch das Netzwerk von allen mit der Target-ID assoziierten mobilen Endgeräten der verurteilten oder dritten Person gemäss Artikel 56*b*;
+- d. einer der Überwachungstypen der Echtzeitüberwachung von Inhalten und Randdaten bei Netzzugangsdiensten oder bei Anwendungen gemäss den Artikeln 55, 57 oder 59;
+- e. einer der Überwachungstypen der Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten oder bei Anwendungen gemäss den Artikeln 54, 56 oder 58;
+- f. einer der Überwachungstypen der rückwirkenden Überwachung gemäss den Artikeln 60–62;
+- g. der Antennensuchlauf gemäss Artikel 66 und die entsprechenden Vorbereitungen gemäss den Artikeln 64 und 65.
+
+<sup>2</sup> Beim Überwachungstyp gemäss Absatz 1 Buchstabe f richten sich Beginn und Ende der Überwachung nach Artikel 4*a*.
+
+[^68-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 68a
 
@@ -1305,7 +1703,7 @@ Für die Fahndung nach verurteilten Personen gemäss Artikel 36 BÜPF können di
 
 #### Art. 69
 
-Eine Überwachung gemäss den Artikeln 56–59, 61 und 62 umfasst auch den Fernmeldeverkehr, der über die überwachten Dienste abgewickelt wird und dem überwachten Identifikator (Target-ID) zugeordnet werden kann, selbst wenn der überwachte Identifikator nicht von der beauftragten Anbieterin verwaltet wird.
+Eine Überwachung gemäss den Artikeln 56–59, 61 und 62 umfasst auch den Fernmeldeverkehr, der über die überwachten Dienste abgewickelt wird und dem Target-ID zugeordnet werden kann, selbst wenn der überwachte Identifikator nicht von der beauftragten Anbieterin verwaltet wird.
 
 ## 4. Kapitel: Schlussbestimmungen
 
@@ -1369,9 +1767,9 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 <sup>3</sup> FDA, die innert drei Monaten seit dem Inkrafttreten dieser Verordnung beim Dienst ÜPF ein Gesuch um Einstufung als FDA mit reduzierten Überwachungspflichten gemäss Artikel 51 einreichen, gelten ab Inkrafttreten dieser Verordnung und während der Dauer des Verfahrens als solche. Der Dienst ÜPF kann diese Einstufung für die Dauer des Verfahrens aufheben, wenn eine Gutheissung des Gesuchs unwahrscheinlich ist. Bei bisher meldepflichtigen Anbieterinnen von Fernmeldediensten ist Artikel 51 Absatz 5 nicht anwendbar.
 
-<sup>4</sup> Spätestens 3 Monate nach Inkrafttreten dieser Verordnung passen die FDA und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten gemäss Artikel 22 ihre Systeme an, um die neuen Anforderungen an die Identifikation der Teilnehmenden (Art. 19) und die Erfassung von Angaben zur Person bei Mobilfunkdiensten (Art. 20) umzusetzen.
+<sup>4</sup> Spätestens 3 Monate nach Inkrafttreten dieser Verordnung passen die FDA und die AAKD mit weitergehenden Auskunftspflichten gemäss Artikel 22 ihre Systeme an, um die neuen Anforderungen an die Identifikation der Teilnehmenden (Art. 19) und die Erfassung von Angaben zur Person bei Mobilfunkdiensten (Art. 20) umzusetzen.
 
-<sup>5</sup> Spätestens 6 Monate nach Inkrafttreten dieser Verordnung passen die FDA, ausser jenen mit reduzierten Überwachungspflichten gemäss Artikel 51, und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 ihre Systeme an, um die Auskünfte gemäss den Artikeln 38 und 39 erteilen zu können.
+<sup>5</sup> Spätestens 6 Monate nach Inkrafttreten dieser Verordnung passen die FDA, ausser jenen mit reduzierten Überwachungspflichten gemäss Artikel 51, und die AAKD mit weitergehenden Überwachungspflichten gemäss Artikel 52 ihre Systeme an, um die Auskünfte gemäss den Artikeln 38 und 39 erteilen zu können.
 
 <sup>6</sup>
 
@@ -1386,9 +1784,9 @@ Bis zur Inbetriebnahme des neuen Verarbeitungssystems, das mit dem Programm FMÜ
 
 - a. kann der Dienst ÜPF die Statistiken (Art. 12) noch nach bisherigem Recht erstellen;
 - b. werden die Auskünfte (Art. 35–48) und Überwachungen (Art. 54–68) noch mit dem bestehenden System, den bisherigen Formaten und den entsprechenden Formularen abgewickelt. Dabei werden sie mit einem durch den Dienst ÜPF zugelassenen sicheren Übertragungsmittel, per Post oder Telefax übermittelt; Artikel 17 Absätze 1–2 ist nicht anwendbar;
-- c. sind die Auskünfte mit flexibler Namenssuche gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43 nicht möglich; ab Inbetriebnahme werden sie nur mit den FDA und Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten gemäss Artikel 22 durchgeführt, die ihre Systeme entsprechend angepasst haben.
+- c. sind die Auskünfte mit flexibler Namenssuche gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43 nicht möglich; ab Inbetriebnahme werden sie nur mit den FDA und AAKD mit weitergehenden Auskunftspflichten gemäss Artikel 22 durchgeführt, die ihre Systeme entsprechend angepasst haben.
 
-<sup>8</sup> Spätestens 12 Monate nach Inbetriebnahme des neuen Verarbeitungssystems passen die FDA und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten gemäss Artikel 22 ihre Systeme an, um die Auskünfte gemäss den Artikeln 35–37 und 40–42 sowie Artikel 27 in Verbindung mit den Artikeln 35, 40 und 42 automatisiert über die Abfrageschnittstelle des Verarbeitungssystems erteilen (Art. 18 Abs. 2) und um die flexible Namenssuche gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43 durchführen zu können.
+<sup>8</sup> Spätestens 12 Monate nach Inbetriebnahme des neuen Verarbeitungssystems passen die FDA und die AAKD mit weitergehenden Auskunftspflichten gemäss Artikel 22 ihre Systeme an, um die Auskünfte gemäss den Artikeln 35–37 und 40–42 sowie Artikel 27 in Verbindung mit den Artikeln 35, 40 und 42 automatisiert über die Abfrageschnittstelle des Verarbeitungssystems erteilen (Art. 18 Abs. 2) und um die flexible Namenssuche gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43 durchführen zu können.
 
 [^74-1]: [BBl 2015 3033](https://fedlex.data.admin.ch/eli/fga/2015/612)
 
@@ -1398,11 +1796,38 @@ Bis zur Inbetriebnahme des neuen Verarbeitungssystems, das mit dem Programm FMÜ
 
 <sup>1</sup> Der Dienst ÜPF passt sein Verarbeitungssystem innerhalb von 12 Monaten nach der Erneuerung der Echtzeitsystemkomponente des Verarbeitungssystems an, um die Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder standardisiert durchführen und in der Statistik erfassen zu können.
 
-<sup>2</sup> Die FDA mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51) und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten (Art. 52) passen ihre Systeme innerhalb von 12 Monaten nach der Erneuerung der Echtzeitsystemkomponente des Verarbeitungssystems an, um die Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder (Art. 68*a*) standardisiert durchführen zu können.
+<sup>2</sup> Die FDA mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51) und die AAKD mit weitergehenden Überwachungspflichten (Art. 52) passen ihre Systeme innerhalb von 12 Monaten nach der Erneuerung der Echtzeitsystemkomponente des Verarbeitungssystems an, um die Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder (Art. 68*a*) standardisiert durchführen zu können.
 
 <sup>3</sup> Solange die Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder noch nicht standardisiert nach Artikel 68*a* durchgeführt werden können, führen die Anbieterinnen stattdessen die Überwachungstypen nach Artikel 54 sowie bei Bedarf nach den Artikeln 56 und 63 aus. Der Dienst ÜPF leitet den berechtigten Behörden die Daten nach den Artikeln 54 und 63 weiter. Die Daten nach Artikel 56 leitet der Dienst ÜPF nur im Umfang von Artikel 68*a* weiter. Kann sein Verarbeitungssystem diese Filterung nicht sicherstellen, so leitet er keine Daten weiter. Daten, die er nicht weiterleitet, vernichtet er. Die Gebühren und Entschädigungen richten sich nach den angeordneten Überwachungstypen (Art. 54, 56 und 63).
 
 [^74a-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 74b
+
+**Übergangsbestimmung zur Änderung vom 15. November 2023**[^74b-1]
+
+<sup>1</sup> Die FDA stellen die Auskunftsbereitschaft für die Auskünfte gemäss den Artikeln 48*a* und 48*c* innerhalb von 24 Monaten nach Inkrafttreten der Änderung vom 15. November 2023 her.
+
+<sup>2</sup> Die FDA, mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51), müssen die Auskünfte gemäss Artikel 48*b* ab Inbetriebnahme ihres ersten kommerziellen mobilen Netzzugangs, der die permanenten Identifikatoren auf der Funkschnittstelle verbirgt, standardisiert erteilen können.
+
+<sup>3</sup> Sie müssen die Überwachungen gemäss den Artikeln 56*a* und 67 Buchstabe b innerhalb von 24 Monaten nach Inkrafttreten der Änderung vom 15. November 2023 standardisiert durchführen können.
+
+<sup>4</sup> Sie müssen die Ergänzung der rückwirkenden Überwachung gemäss Artikel 61 Buchstabe j innerhalb von 24 Monaten umsetzen und die Speicherung der hierfür notwendigen Daten innerhalb von 18 Monaten nach Inkrafttreten der Änderung vom 15. November 2023 sicherstellen.
+
+<sup>5</sup> Sie müssen die Überwachungen gemäss den Artikeln 56*b* und 67 Buchstabe c innerhalb von 24 Monaten nach der Erneuerung der Echtzeitsystemkomponente des Verarbeitungssystems standardisiert durchführen können.
+
+<sup>6</sup>
+
+Der Dienst ÜPF passt sein Verarbeitungssystem innerhalb von 24 Monaten nach Inkrafttreten der Änderung vom 15. November 2023 an, damit:
+
+- a. die Auskünfte gemäss den Artikeln 48*a* und 48*c* standardisiert erteilt und die Überwachungen gemäss den Artikeln 56*a* und 67 Buchstabe b standardisiert durchgeführt sowie in der Statistik erfasst werden können;
+- b. die Daten gemäss Artikel 61 Buchstabe j entgegengenommen werden können.
+
+<sup>7</sup> Er passt sein Verarbeitungssystem an, damit Auskünfte gemäss Artikel 48*b* ab Inbetriebnahme des ersten kommerziellen mobilen Netzzugangs, der die permanenten Identifikatoren auf der Funkschnittstelle verbirgt, standardisiert erteilt und in der Statistik erfasst werden können.
+
+<sup>8</sup> Er passt sein Verarbeitungssystem innerhalb von 24 Monaten nach der Erneuerung der Echtzeitsystemkomponente des Verarbeitungssystems an, damit die Überwachungen gemäss den Artikeln 56*b* und 67 Buchstabe c standardisiert durchgeführt und in der Statistik erfasst werden können.
+
+[^74b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
 #### Art. 75
 
@@ -1410,57 +1835,70 @@ Bis zur Inbetriebnahme des neuen Verarbeitungssystems, das mit dem Programm FMÜ
 
 Diese Verordnung tritt am 1. März 2018 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 2)
 
 ## Begriffe und Abkürzungen
 
-- 1\. *IP-Adresse (Internetprotokoll-Adresse):* Adresse, die alle verbundenen Geräte in einem Netzwerk identifiziert, welche über das Internetprotokoll kommunizieren; es gibt IP-Adressen der Version 4 (IPv4) und der Version 6 (IPv6);
-- 2\. *Teilnehmende:* Personen, die mit einer Anbieterin von Fernmelde- oder abgeleiteten Kommunikationsdiensten einen Vertrag über die Inanspruchnahme von deren Diensten geschlossen oder sich für deren Dienste registriert oder von dieser ein Zugangsmittel zu deren Diensten erhalten haben;
-- 3\. *Multimediadienste:* Kommunikationsdienste, die neben der Sprache auch noch andere Medientypen und Funktionen integrieren, wie Video, Dateitransfer, Bilder, Audio, Teilen von Inhalten, Präsenzinformationen (Beispiele: Videotelefonie, Unified Communication, RCS, Multimedia Telephony Service);
-- 4\. *Identifikator:* Adressierungselement, die Identifikationsnummer oder anderer eindeutiger Bezeichner für einen bestimmten Teilnehmenden, einen bestimmten Dienst oder ein bestimmtes Gerät;
-- 5\. *MSISDN (Mobile Subscriber Integrated Services Digital Network Number):* eindeutige Telefonnummer, über die Teilnehmende in einem Mobilfunknetz erreicht werden können;
-- 6\. *DSL-Identifikator (Digital Subscriber Line Identifikator):* Identifikator eines *digitalen Teilnehmeranschlusses,* das heisst eines Breitband-Netzzugangs, bei dem Daten über Kupferleitungen gesendet und empfangen werden können;
-- 7\. *IP-Präfix:* Teil der IPv6-Adresse, welcher das jeweilige Netzwerk identifiziert;
-- 8\. *IP-Adressbereich (Range):* Menge aufeinanderfolgender IP-Adressen;
-- 9\. *Netzmaske:* beschreibt im Internet Protokoll Version 4 (IPv4), wie viele Bits am Anfang der dargestellten IP-Adresse das jeweilige Netzwerk identifizieren;
-- 10\. *Präfixlänge:* beschreibt im Internet Protokoll Version 6 (IPv6), wie viele Bits am Anfang der dargestellten IP-Adresse das jeweilige Netzwerk identifizieren;
-- 11\. *SIM (Subscriber Identity Module):* Chipkarte oder im Endgerät fest eingebaute Chip, auf der die IMSI und der dazugehörige Schlüssel gesichert abgespeichert sind, welche dazu dienen, die Teilnehmenden in einem Mobilfunknetz zu authentisieren, einschliesslich *USIM (Universal Subscriber Identity Module), UICC (Universal Integrated Circuit Card) und eSIM (embedded SIM)*;
-- 12\. *ICCID (Integrated Circuit Card Identifier):* Serien-Nummer eines eingebauten Chips (z.B. eSIM) oder einer Chipkarte (z.B. SIM-Karte), die den Chip eindeutig identifiziert;
-- 13\. *IMSI (International Mobile Subscriber Identity):* Nummer, die zur international eindeutigen Identifikation von Mobilfunk-Teilnehmenden dient;
-- 14\. *IMEI (International Mobile Equipment Identity):* Nummer, die zur international eindeutigen Identifikation von Mobilfunk-Endgeräten dient;
-- 15\. *MAC-Adresse (Media Access Control Adresse):* Hardware-Adresse, die in einer Netzwerkkarte- oder einem Netzwerkadapter hinterlegt ist und als eindeutige Adresse auf der Ebene der OSI-Schicht 2 gebraucht wird;
-- 16\. *PUK-Code (Personal Unblocking Key):* unveränderliche Geheimzahl zum Entsperren der SIM. Der PUK-Code ist an die SIM gebunden. Er ist dem PIN-Code übergeordnet. Falls der PIN-Code mehrmals falsch eingegeben wurde, kann die SIM mittels des PUK-Codes entsperrt werden;
-- 17\. *PUK2-Code (Personal Unblocking Key 2):* wie PUK-Code, jedoch dem PIN2-Code übergeordnet;
-- 18\. *NAT (Network Address Translation) :* Verfahren zur Übersetzung von Netzwerkadressen. Dabei werden die Adressinformationen in IP-Paketen von einem Netzwerkelement (z.B. Router) automatisiert durch andere Adressinformationen ersetzt;
-- 19\. *Quell-IP-Adresse:* IP-Adresse, die sich auf den Kommunikationsendpunkt (typischerweise Client) bezieht, der die Verbindung aufbaut;
-- 20\. *Portnummer:* Adresse eines Ports; ein Port ist der logische Endpunkt für Kommunikationen mit oder in einem Computersystem. Ein Port ist mit einer IP-Adresse und dem Protokolltyp der Kommunikation verknüpft;
-- 21\. *Quell-Portnummer:* Portnummer, die sich auf den Kommunikationsendpunkt (typischerweise Client) bezieht, der die Verbindung aufbaut;
-- 22\. *Ziel-IP-Adresse:* IP-Adresse, die sich auf den Kommunikationsendpunkt (typischerweise Server) bezieht, zu dem die Verbindung aufgebaut wird;
-- 23\. *Ziel-Portnummer:* Portnummer, die sich auf den Kommunikationsendpunkt (typischerweise Server) bezieht, zu dem die Verbindung aufgebaut wird;
-- 24\. *SIP (Session Initiation Protocol):* Kommunikationsprotokoll, welches für die Signalisierung und Steuerung von Multimedia-Kommunikationssitzungen verwendet wird;
-- 25\. *SIP URI (SIP Uniform Resource Identifier):* URI Schema für die Adressierung des SIP. Die SIP URI sind Adressierungselemente im Format *benutzer@domain.tld*;
-- 26\. *IMPU (IP Multimedia Public Identity):* Neben der IMPI besitzt ein Teilnehmender des IMS eine oder mehrere IMPU, welche für die Kommunikation mit anderen Teilnehmenden dienen. Einer IMPI können mehrere IMPU zugeordnet sein. Umgekehrt kann eine IMPU auch mit anderen Teilnehmenden geteilt werden;
-- 27\. *TEL URI (Telephone Uniform Resource Identifier):* URI-Schema für Telefonnummern. Die TEL URI sind Adressierungselemente im Format *tel:nummer*, zum Beispiel *tel:+41-868-868-868*;
-- 28\. *IMPI (IP Multimedia Private Identity):* global eindeutiger, dem Teilnehmenden durch dessen Anbieterin fest zugeteilte Identifikator, welcher unter anderem für die Registrierung und AAA-Vorgänge verwendet wird. Jede oder jeder Teilnehmende des IP Multimedia Subsystems (IMS) hat eine IMPI. Das IMS ist ein auf dem Internetprotokoll beruhendes Telekommunikationssystem zur Integration von mobilen Sprachdiensten und Internetfunktionen;
-- 29\. *Alias-Adresse:* zusätzliche E-Mail-Adresse, die der oder die Teilnehmende beliebig einrichten, ändern und löschen kann. Deren maximale Anzahl und Aufbau werden von der E-Mail-Anbieterin vorgegeben. Die Alias-Adressen sind mit dem E-Mail-Konto verknüpft. An eine Alias-Adresse gesendete E-Mails werden in das gleiche E-Mail-Postfach der zugehörigen Haupt-E-Mail-Adresse des Teilnehmenden zugestellt;
-- 30\. *Mailingliste:* Liste von E-Mail-Adressen, auch Verteilerliste oder Verteilergruppe genannt. Die Liste besitzt selbst eine E-Mail-Adresse. Die Nachrichten, die an die Adresse der Mailing Liste geschickt werden, werden an die E-Mail-Adressen ihrer Mitglieder weitergeleitet;
-- 31\. *Mitteilungsdienste:* («Messaging») unabhängig von Telefonie- und Multimediadiensten angebotene Dienste zur Übermittlung von Mitteilungen oder Nachrichten. Dazu gehören unter anderem Instant Messaging, IMS Messaging und Messaging Applikationen (Apps) und SMS von Drittanbieterinnen (d.h. SMS-Dienste, die nicht von der FDA des Teilnehmenden erbracht werden). Diese Dienste können auch erweiterte Funktionen enthalten wie Multimediakommunikation, Dateiübertragung und Präsenzinformationen (z.B. die oder der Teilnehmende kann den aktuellen Status und eventuell den Standort der anderen Teilnehmenden sehen);
-- 32\. *Cloud-Dienste:* abgeleitete Kommunikationsdienste wie Speicherdienste und Applikationen; die online verfügbar und je nach Ressourcenbedarf in verteilten Rechenzentren beherbergt sind;
-- 33\. *Proxy-Dienste:* Kommunikationsschnittstelle in einem Netzwerk. Er arbeitet als Vermittler, der auf der einen Seite Anfragen entgegennimmt, um dann über seine eigene Adresse eine Verbindung zur anderen Seite herzustellen. Proxy-Dienste sind daher zum Zweck der Identifikation relevant;
-- 34\. *öffentlicher* *WLAN-**Zugangspunkt**:* öffentlicher drahtloser Zugangspunkt zu einem öffentlichen Fernmeldenetz, der sich sowohl in öffentlichen als auch in privaten Räumen befinden kann;
-- 35\. *CGI (Cell Global Identity):* unveränderter Zell-Identifikator in Mobilfunknetzen der zweiten und dritten Generation (2G und 3G) (siehe 3GPP TS 23.003, Clause 4.3.1);
-- 36\. *ECGI (E-UTRAN Cell Global Identity):* unveränderter Zell-Identifikator in Mobilfunknetzen der vierten Generation (4G) (siehe 3GPP TS 23.003, Clause 19.6);
-- 37\. *SAI (Service Area Identity):* unveränderter Identifikator für ein Dienstabdeckungsgebiet (Service Area), welcher in Mobilfunknetzen für das Mobility Management verwendet wird (siehe 3GPP TS 23.003, Clause 12.5);
-- 38\. *RAI (Routing Area Identity):* unveränderter Identifikator für ein Routing-Gebiet (Routing Area), welcher in Mobilfunknetzen im Bereich paketvermittelte Datenübertragung für das Mobility Management verwendet wird (siehe 3GPP TS 23.003, Clause 4.2);
-- 39\. *TAI (Tracking Area Identity):* unveränderter Identifikator für ein Tracking-Gebiet (Tracking Area), welcher in Mobilfunknetzen der vierten Generation für das Mobility Management verwendet wird (siehe 3GPP TS 23.003, Clause 19.4.2.3);
-- 40\. *BSSID (Basic Service Set Identifier):* eindeutiger Identifikator (MAC-Adresse) des WLAN-Zugangspunktes;
-- 41\. *Target-ID:* überwachter Identifikator, das heisst der Identifikator des Ziels der Überwachung (Target);
-- 42\. *AAA-Informationen (authentication, authorisation and accounting):* Informationen darüber, welchen Teilnehmenden es erlaubt ist, welche Dienste zu benutzen und dienen zur Abrechnung der Dienstbenutzung. Im Sinne dieser Verordnung sind Passwörter nicht Teil der AAA-Informationen. Authentifizierung ist die Art und Weise, einen Teilnehmenden zu identifizieren, bevor der Zugang gewährt wird. Mittels der Autorisierung wird zum einen festgelegt, welche Zugriffsrechte auf Ressourcen oder Dienste ein Teilnehmender besitzt und zum anderen die Zugriffskontrolle gewährleistet. Für die Abrechnung wird während der Nutzung der Ressourcenverbrauch des Teilnehmenden gemessen;
-- 43\. *SMS (Short Message Service):* Mitteilungsdienst zur Übertragung von kurzen Textnachrichten;
-- 44\. *Voice Mail:* in Fernmeldenetzen betriebene Speichereinrichtungen, welche Anrufbeantworterdienste (z.B. Sprachmitteilungen empfangen, weiterleiten, speichern) bereitstellen. Es existieren ausserdem Erweiterungen für verschiedene Medientypen und Dienste, wie SMS, E-Mail, Telefax oder Videomitteilungen sowie Funktionserweiterungen wie die Umwandlung von einem Medientyp in einen anderen und das Versenden von Nachrichten;
-- 45\. *RCS (Rich Communications Services):* (ursprünglich: Rich Communication Suite) Spezifikation des internationalen Branchenverbandes der Mobilfunkanbieterinnen (GSM Association, GSMA) für die IMS-basierte Erbringung interoperabler (d.h. anbieter- und endgeräteübergreifender) Multimediadienste mit erweitertem Funktionsumfang. Dabei können verschiedene Medientypen (z.B. Sprache, Musik, Fotos, Videos) und Dienste (z.B. Chat, Gruppen-Chat, Anrufe, Multimedia-Mitteilungen, Kurzmitteilungen, Sofortmitteilungen, Präsenzinformationen, Übermittlung von Dateien, Adressbuch) kombiniert werden; die RCS-Dienste werden dem Teilnehmenden von dessen Mobilfunkanbieterin erbracht;
-- 46\. *E.164-Nummer:* Telefonnummer gemäss dem internationalen Nummerierungsplan E.164 der ITU-T;
-- 47\. *DTMF (Dual-tone multi-frequency, Doppelton-Mehrfrequenz):* ein Verfahren zur Signalisierung, das heisst während des Telefongesprächs können durch Drücken der Wähltasten Signale gesendet werden, zum Beispiel für die Bedienung von Anrufbeantwortern oder automatischen Sprachdialogsystemen;
-- 48\. *MMS (Multimedia Messaging Service):* Mitteilungsdienst zur Übertragung von Nachrichten verschiedener Medientypen (Multimedia) in Mobilfunknetzen.
+[^t-1]: Fassung gemäss Ziff. II der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+
+- 1\. *Kommunikationsdienst*: Dienst, der eine fernmeldetechnische Kommunikation ermöglicht; dazu gehören Fernmeldedienste und abgeleitete Kommunikationsdienste;
+- 2\. *Teilnehmende:* Personen, die mit einer FDA oder einer AAKD einen Vertrag über die Inanspruchnahme von deren Diensten geschlossen oder sich für deren Dienste registriert oder von dieser ein Zugangsmittel zu deren Diensten erhalten haben;
+- 3\. *WLAN (Wireless Local Area Network)*: drahtloses lokales Netzwerk;
+- 4\. *Identifikator:* Adressierungselement, die Identifikationsnummer oder ein anderer eindeutiger Bezeichner für eine oder einen bestimmten Teilnehmenden, einen bestimmten Dienst oder ein bestimmtes Gerät;
+- 5\. *IP-Adresse (Internetprotokoll-Adresse):* Adresse, die alle verbundenen Geräte in einem Netzwerk identifiziert, welche über das Internetprotokoll kommunizieren; es gibt IP-Adressen der Version 4 (IPv4) und der Version 6 (IPv6);
+- 6\. *Portnummer:* Adresse eines Ports; ein Port ist der logische Endpunkt für Kommunikationen mit oder in einem Computersystem; ein Port ist mit einer IP-Adresse und dem Protokolltyp der Kommunikation verknüpft;
+- 7\. *NAT (Network Address Translation):* Verfahren zur Übersetzung von Netzwerkadressen. Dabei werden die Adressinformationen in IP-Paketen von einem Netzwerkelement (z. B. Router) automatisiert durch andere Adressinformationen ersetzt;
+- 8\. *Telefoniedienst:* interaktiver Dienst, der zur gleichzeitigen Sprachkommunikation der Kommunikationsbeteiligten in Echtzeit dient, wobei die Adressierung nach einem Nummerierungsplan erfolgt; mit einem Telefoniedienst verbundene Anrufbeantwortersysteme einer Anbieterin (z. B. Sprachbox, Voice Mail, Visual Voice Mail) gelten ebenfalls als Telefoniedienst;
+- 9\. *Multimediadienst:* angereicherter Telefoniedienst, mit dem neben der Sprache auch andere Medientypen und Funktionen genutzt werden können, wie Video, Bilder, Audio, Dateitransfer, Teilen von Inhalten, Präsentieren von Inhalten, Übermittlung von Präsenzinformationen (z. B. Videotelefonie, Unified Communication, RCS, Telefonkonferenz, Videokonferenz Online-Sitzung);
+- 10\. *GPSI (Generic Public Subscription Identifier):* eindeutiges öffentliches Adressierungselement innerhalb und ausserhalb von 5G-Netzen (z. B. MSISDN);
+- 11\. *MSISDN (Mobile Subscriber Integrated Services Digital Network Number):* eindeutige Telefonnummer, über die Teilnehmende in einem Mobilfunknetz erreicht werden können;
+- 12\. *IP-Präfix:* Teil der IP-Adresse, welcher das jeweilige Netzwerk identifiziert;
+- 13\. *IP-Adressbereich (Range):* Menge aufeinanderfolgender IP-Adressen;
+- 14\. *Netzmaske:* beschreibt im Internet-Protokoll Version 4 (IPv4), wie viele Bits am Anfang der dargestellten IP-Adresse das jeweilige Netzwerk identifizieren;
+- 15\. *Präfixlänge:* beschreibt im Internet-Protokoll Version 6 (IPv6), wie viele Bits am Anfang der dargestellten IP-Adresse das jeweilige Netzwerk identifizieren;
+- 16\. *ICCID (Integrated Circuit Card Identifier):* Seriennummer einer Chipkarte (z. B. ICCID einer SIM-Karte) oder eines Profils auf einem eingebauten Chip (z. B. EID einer eUICC), die den Chip oder das Profil weltweit eindeutig identifiziert;
+- 17\. *IMSI (International Mobile Subscriber Identity):* Nummer, die zur international eindeutigen Identifikation von Mobilfunkteilnehmenden dient;
+- 18\. *SUPI (SUbscription Permanent Identifier):* Nummer, die zur international eindeutigen Identifikation von Mobilfunkteilnehmenden in 5G-Netzen dient;
+- 19\. *IMEI (International Mobile Equipment Identity):* Nummer, die zur international eindeutigen Identifikation von Mobilfunkendgeräten dient;
+- 20\. *PEI (Permanent Equipment Identifier):* Nummer, die zur international eindeutigen Identifikation von Mobilfunkendgeräten in 5G-Netzen dient;
+- 21\. *MAC-Adresse (Media Access Control Adresse):* Hardware-Adresse, die in einer Netzwerkkarte- oder einem Netzwerkadapter hinterlegt ist und als eindeutige Adresse auf der Ebene der OSI-Schicht 2 gebraucht wird;
+- 22\. *SIM (Subscriber Identity Module):* Chipkarte oder im Endgerät fest eingebauter Chip, auf der oder dem die IMSI oder SUPI und der dazugehörige Schlüssel gesichert abgespeichert sind, welche dazu dienen, die Teilnehmenden in einem Mobilfunknetz zu authentisieren, einschliesslich *USIM (Universal Subscriber Identity Module), UICC (Universal Integrated Circuit Card) und eSIM (embedded SIM)*;
+- 23\. *PUK-Code (Personal Unblocking Key):* unveränderliche Geheimzahl zum Entsperren der SIM. Der PUK-Code ist an die SIM gebunden. Er ist dem PIN-Code übergeordnet; falls der PIN-Code mehrmals falsch eingegeben wurde, kann die SIM mittels des PUK-Codes entsperrt werden;
+- 24\. *PUK2-Code (Personal Unblocking Key 2):* wie der PUK-Code, jedoch dem PIN2-Code übergeordnet;
+- 25\. *eUICC-ID* *(kurz: EID, embedded Universal Integrated Circuit Card-Identifier)*: weltweit eindeutiger Identifikator eines im Endgerät fest eingebauten Chips, der die SIM-Funktionen beherbergt (vgl. ICCID und SIM);
+- 26\. *Quell-IP-Adresse:* IP-Adresse, die sich auf den Kommunikationsendpunkt (typischerweise Client) bezieht, der die Verbindung aufbaut;
+- 27\. *Quell-Portnummer:* Portnummer, die sich auf den Kommunikationsendpunkt (typischerweise Client) bezieht, der die Verbindung aufbaut;
+- 28\. *Ziel-IP-Adresse:* IP-Adresse, die sich auf den Kommunikationsendpunkt (typischerweise Server) bezieht, zu dem die Verbindung aufgebaut wird;
+- 29\. *Ziel-Portnummer:* Portnummer, die sich auf den Kommunikationsendpunkt (typischerweise Server) bezieht, zu dem die Verbindung aufgebaut wird;
+- 30\. *SIP (Session Initiation Protocol):* Kommunikationsprotokoll, welches für die Signalisierung und die Steuerung von Multimediakommunikationssitzungen verwendet wird;
+- 31\. *SIP URI (SIP Uniform Resource Identifier):* URI-Schema für die Adressierung des SIP. Die SIP URI sind Adressierungselemente im Format *benutzer@domain.tld*;
+- 32\. *IMPU (IP Multimedia Public Identity):* Identifikator, der zur Kommunikation mit anderen Teilnehmenden dient; eine Teilnehmende oder ein Teilnehmender des IMS besitzt neben der IMPI eine oder mehrere IMPU; einer IMPI können mehrere IMPU zugeordnet sein. Umgekehrt kann eine IMPU auch mit anderen Teilnehmenden geteilt werden;
+- 33\. *TEL URI (Telephone Uniform Resource Identifier):* URI-Schema für Telefonnummern; die TEL URI sind Adressierungselemente im Format *tel: nummer*, zum Beispiel *tel: +41-868-868-868*;
+- 34\. *IMPI (IP Multimedia Private Identity):* international eindeutiger, der oder dem Teilnehmenden durch deren oder dessen Anbieterin fest zugeteilter Identifikator im IMS, welcher unter anderem für die Registrierung und AAA-Vorgänge verwendet wird;
+- 35\. *E-Mail-Dienst:* Mailbox oder Schnittstelle zum Lesen, Verfassen, Ändern, Versand, Empfang oder Weiterleiten von E-Mails, basierend auf SMTP;
+- 36\. *Alias-Adresse:* zusätzliche E-Mail-Adresse, die der oder die Teilnehmende beliebig einrichten, ändern und löschen kann; ihre maximale Anzahl und ihr Aufbau werden von der E-Mail-Anbieterin vorgegeben; die Alias-Adressen sind mit dem E-Mail-Konto verknüpft; an eine Alias-Adresse gesendete E-Mails werden in das gleiche E-Mail-Postfach der zugehörigen Haupt- E-Mail-Adresse der oder des Teilnehmenden zugestellt;
+- 37\. *Mailingliste:* Liste von E-Mail-Adressen, auch Verteilerliste oder Verteilergruppe genannt; die Liste besitzt selbst eine E-Mail-Adresse; die Nachrichten, die an die Adresse der Mailing Liste geschickt werden, werden an die E-Mail-Adressen ihrer Mitglieder weitergeleitet;
+- 38\. *Mitteilungsdienste (Messaging):* unabhängig von Telefonie- und Multimediadiensten angebotene Dienste zur Übermittlung von Mitteilungen oder Nachrichten;. dazu gehören unter anderem *Instant Messaging*, *IMS Messa**ging* und *Messaging-Applikationen (Apps)* sowie SMS von Drittanbieterinnen (d. h. SMS-Dienste, die nicht von der FDA der oder des Teilnehmenden erbracht werden). Diese Dienste können auch erweiterte Funktionen enthalten wie Multimediakommunikation, Dateiübertragung und Präsenzinformationen (z. B. die oder der Teilnehmende kann den aktuellen Status und eventuell den Standort der anderen Teilnehmenden sehen);
+- 39\. *Zellidentifikator:* unveränderter Identifikator für Funkzellen in Mobilfunknetzen, zum Beispiel *CGI* (*Cell Global Identity*), *ECGI* (*E-UTRAN Cell Global Identity*), *NCGI* (*New Radio Cell Global Identity*);
+- 40\. *Gebietsidentifikator*: unveränderter Identifikator für Gebiete in Mobilfunknetzen, zum Beispiel *SAI* (*Service Area Identity*), *RAI* (*Routing Area Identity*), *TAI* (*Tracking Area Identity*);
+- 41\. *Hotspotname (SSID)*: durch die Anbieterin frei wählbare Bezeichnung eines Hotspots, die in der Regel leicht lesbar ist und den Benutzenden angezeigt wird, wobei *Hotspot* im Sinne dieser Verordnung ein öffentlicher Zugang zum Internet über WLAN (Wi-Fi) ist, im Gegensatz zum stationären oder mobilen (*Tethering*) privaten Hotspot;
+- 42\. *Target-ID:* überwachter Identifikator, das heisst der Identifikator des Ziels der Überwachung (*Target*);
+- 43\. *IRI (Intercept Related Information):* im Rahmen einer Echtzeitüberwachung erfasste Randdaten des Fernmeldeverkehrs des Targets. sie werden in der Regel auch in Echtzeit übermittelt; sie sind von den aufbewahrten Randdaten (Historische Daten) zu unterscheiden, welche nur selektiv und in der Regel zeitversetzt für die Zwecke der rückwirkenden Überwachung erfasst werden;
+- 44\. *HLR (Home Location Register)*: in Mobilfunknetzen der zweiten und dritten Generation; Datenbank einer Mobilfunkanbieterin, in der die Funktionsmerkmale ihrer Teilnehmenden (z. B. IMSI, MSISDN, Konfiguration, Dienstprofile) und deren jeweils aktuelles diensterbringendes Netz gespeichert sind;
+- 45\. *HSS (Home Subscriber Server)*: in Mobilfunknetzen der vierten Generation; Datenbank mit ähnlichen Funktionen wie HLR;
+- 46\. *UDM (Unified Data Management):* in Mobilfunknetzen der fünften Generation; Datenbank mit ähnlichen Funktionen wie HLR und HSS;
+- 47\. *IMS (IP Multimedia Subsystem):* ein auf dem Internetprotokoll beruhendes Telekommunikationssystem zur Integration von mobilen Sprachdiensten und Internetfunktionen;
+- 48\. *AAA-Informationen (Authentication, Authorisation and Accounting Information):* Informationen darüber, welchen Teilnehmenden es erlaubt ist, welche Dienste zu benutzen, und Informationen, die zur Abrechnung der Dienstbenutzung dienen; im Sinne dieser Verordnung sind Passwörter nicht Teil der AAA-Informationen. Authentifizierung ist die Art und Weise, Teilnehmende zu identifizieren, bevor der Zugang gewährt wird; mittels der Autorisierung wird zum einen festgelegt, welche Zugriffsrechte auf Ressourcen oder Dienste die Teilnehmenden besitzen, und zum anderen die Zugriffskontrolle gewährleistet; für die Abrechnung wird während der Nutzung der Ressourcenverbrauch der oder des Teilnehmenden gemessen;
+- 49\. *3GPP (3rd Generation Partnership Project):* weltweite Kooperation von Standardisierungsgremien für die Standardisierung im Mobilfunk;
+- 50\. *Nicht-3GPP-Zugang (non-3GPP Access):* Zugang zum Mobilfunkkernnetz, der auf einer Technologie basiert, die nicht vom 3GPP standardisiert wird (z. B. WLAN-Zugang);
+- 51\. *EPS (Evolved Packet System)*: Architektur des LTE-Mobilfunkstandards des 3GPP, welcher als «4G» vermarktet wird;
+- 52\. *5GS (5G-System)*: Systemarchitektur des 5G-Mobilfunkstandards des 3GPP;
+- 53\. *SMS (Short Message Service):* Mitteilungsdienst zur Übertragung von kurzen Textnachrichten;
+- 54\. *Voice Mail:* in Fernmeldenetzen betriebene Speichereinrichtungen, welche Anrufbeantworterdienste (z. B. Sprachmitteilungen empfangen, weiterleiten, speichern) bereitstellen, es existieren Erweiterungen für verschiedene Medientypen und Dienste, wie SMS, E-Mail, Telefax oder Videomitteilungen, sowie Funktionserweiterungen, wie die Umwandlung von einem Medientyp in einen anderen (z. B. Text zu Sprache) und das Versenden von Nachrichten;
+- 55\. *RCS (Rich Communications Services, ursprünglich: Rich Communication Suite):* Spezifikation des internationalen Branchenverbandes der Mobilfunkanbieterinnen GSM Association (GSMA) für die IMS-basierte Erbringung interoperabler (d. h. anbieter- und endgeräteübergreifender) Multimediadienste mit erweitertem Funktionsumfang; dabei können verschiedene Medientypen (z. B. Sprache, Musik, Fotos, Videos) und Dienste (z. B. Chat, Gruppen-Chat, Anrufe, Multimedia-Mitteilungen, Kurzmitteilungen, Sofortmitteilungen, Präsenzinformationen, Übermittlung von Dateien, Adressbuch) kombiniert werden; gemeint sind hier nur RCS-Dienste, die von der Mobilfunkanbieterin der oder des Teilnehmenden erbracht werden;
+- 56\. *E.164-Nummer:* Telefonnummer gemäss dem internationalen Nummerierungsplan E.164 der ITU-T;
+- 57\. *DTMF (Dual-Tone Multi-Frequency, Doppelton-Mehrfrequenz):* Verfahren zur Signalisierung, das heisst während des Telefongesprächs können durch Drücken der Wähltasten Tonsignale gesendet werden, zum Beispiel für die Bedienung von Anrufbeantwortern oder automatischen Sprachdialogsystemen;
+- 58\. *BSSID (Basic Service Set Identifier)*: eindeutiger Identifikator (MAC-Adresse) des WLAN-Zugangs;
+- 59\. *Funkschnittstelle:* die Schnittstelle der Funkübertragung im Mobilfunknetz, z. B. 5G New Radio (5G NR), auch Luftschnittstelle oder 3GPP-Zugang genannt.
