@@ -4,31 +4,37 @@ number: "312.1"
 title: Loi concernant les dossiers de police judiciaire
 short: LDPolJ
 language: fr
-version: 2017-01-01
-corrected: 2017-07-21
-version_adopted: 2015-12-18
+version: 2024-01-01
+version_adopted: 2023-03-16
 adopted: 1984-06-28
 in_force: 1987-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/312.1"
-pdf: "https://lex.vs.ch/api/fr/versions/587/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3231/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi concernant les dossiers de police judiciaire
 
-du 28 juin 1984
+(LDPolJ)
+
+du 28.06.1984 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
-vu l'article 4, alinéa 1, de la Constitution cantonale;
+vu l'article 4 alinéa 1 de la Constitution cantonale;
 
 vu le message du Conseil d'Etat,
 
 décrète:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
+
+#### Art. 1a
+
+**Réserve**
+
+<sup>1</sup> Le traitement des données personnelles effectué par la police à des fins de prévention, d’élucidation et de poursuite d’infractions ou d’exécution de sanctions pénales, y compris à des fins de protection contre les menaces pour la sécurité publique et de prévention de telles menaces, dans le cadre de l’acquis de Schengen ou de l’application d’accords internationaux conclus avec l’Union européenne ou avec des Etats Schengen et qui renvoient à la directive (UE) 2016/680 pour ce qui est de la protection des données, est régi par la loi sur l’information du public, la protection des données et l’archivage (LIPDA).
 
 #### Art. 1
 
@@ -62,19 +68,16 @@ décrète:
 
 #### Art. 3a
 
-<sup>1,3</sup> Destruction des données
+**Destruction des données**
 
-<sup>1</sup> Les données de la police judiciaire sont détruites d'office, dans la mesure nécessaire :
+<sup>1</sup> Les données de la police judiciaire sont détruites d'office, dans la mesure nécessaire:
 
-- a) abrogé;
-
+- a) …
 - b) à l'expiration du délai de prescription de l'action pénale;
-
 - c) après le décès de la personne concernée;
-
 - d) en conformité des principes régissant l'élimination des inscriptions du casier judiciaire, en cas de condamnation.
 
-<sup>2</sup> abrogé.
+<sup>2</sup> …
 
 <sup>3</sup> La décision du commandant de la police relative à la destruction des données peut être déférée dans les 30 jours dès sa notification au président de la chambre pénale qui statue en dernière instance cantonale. La procédure se déroule à huis clos; les dispositions sur le recours selon le code de procédure pénale suisse s'appliquent pour le surplus.
 
@@ -82,7 +85,7 @@ décrète:
 
 #### Art. 4
 
-<sup>1</sup> Utilisation
+**Utilisation**
 
 <sup>1</sup> Les dossiers ne peuvent être exploités qu'à des fins de police judiciaire.
 
@@ -92,7 +95,7 @@ décrète:
 
 #### Art. 5
 
-<sup>1,3</sup> Droit d'accès après la clôture de la procédure pénale a) principes
+**Droit d'accès après la clôture de la procédure pénale a) Principes**
 
 <sup>1</sup> Toute personne a le droit d'être renseignée sur les données personnelles la concernant qui sont contenues dans les dossiers de police et en requérir la rectification lorsque celles-ci sont inexactes. Le droit d'être renseigné sur les données personnelles s'étend à l'usage qui en est fait.
 
@@ -106,11 +109,9 @@ décrète:
 
 <sup>6</sup> Si les données personnelles ont été communiquées à la police par des autorités de poursuite ou des organes de police d'autres cantons, par la Confédération ou par un Etat étranger, la police peut transmettre la requête pour décision à ces autorités ou organes.
 
-[^5-1]: Loi modifiant le CPP du 27 juin 2000 RO/VS 2000, 55 01.01.2001
-
 #### Art. 5a
 
-**b) procédure**[^5-1]
+**b) Procédure**
 
 <sup>1</sup> La demande de renseignements ou de rectification est formulée par le requérant ou son avocat, et adressée par écrit au commandant de la police. Celui-ci peut demander au requérant qu'il justifie de son identité par la production d'une pièce de légitimation officielle.
 
@@ -120,13 +121,11 @@ décrète:
 
 <sup>4</sup> La procédure est gratuite sauf en cas de démarche abusive.
 
-[^5a-1]: Loi modifiant le CPP du 27 juin 2000 RO/VS 2000, 55 01.01.2001
-
 #### Art. 5b
 
-**c) recours**[^5a-1]
+**c) Recours**
 
-<sup>931</sup> Les décisions prises par le commandant de la police en application des articles 5 et 5a peuvent être déférées dans les 30 jours dès leur notification au président de la chambre pénale.
+<sup>1</sup> Les décisions prises par le commandant de la police en application des articles 5 et 5a peuvent être déférées dans les 30 jours dès leur notification au président de la chambre pénale.
 
 <sup>2</sup> Lorsque la décision attaquée limite, suspend ou refuse la communication de données personnelles en application de l'article 5 alinéa 5, seul le président de la chambre pénale est autorisé à consulter le dossier de police de l'intéressé.
 
@@ -150,11 +149,11 @@ décrète:
 
 <sup>2</sup> De plus, des mesures de sécurité appropriées doivent être prises contre la destruction volontaire ou accidentelle des installations électroniques de stockage et de traitement des données de police.
 
-### Chapitre 2: Consultation des dossiers
+## 2 Consultation des dossiers
 
 #### Art. 8
 
-<sup>1</sup> Principe
+**Principe**
 
 <sup>1</sup> Le personnel assermenté de la section informatique et documentation, les fonctionnaires de la police judiciaire valaisanne et le président de la chambre pénale peuvent seuls consulter un dossier de police judiciaire.
 
@@ -170,50 +169,34 @@ décrète:
 
 <sup>3</sup> Sous réserve de la communication de renseignements (chapitre 3), les photocopies sont interdites, sauf circonstance exceptionnelle et sur la base d'une autorisation accordée par le Commandement de la police cantonale, sous la forme d'une décision écrite et motivée, qui sera inscrite, avec un numéro d'ordre, sur un registre spécial. Un double de cette décision doit être adressé à la commission cantonale de protection des données.
 
-### Chapitre 3: Communication de renseignements
+## 3 Communication de renseignements
 
 #### Art. 10
 
-<sup>1,2,3</sup> Destinataires
+**Destinataires**
 
 <sup>1</sup> Sous la responsabilité du commandant de la police cantonale, des renseignements peuvent être communiqués:
 
 - a) aux autorités judiciaires et au ministère public du canton du Valais;
-
 - b) à l'autorité administrative chargée de la répression des contraventions prévues par le droit pénal fédéral et cantonal;
-
 - c) au ministère public de la Confédération;
-
 - d) à l'Office fédéral de la police;
-
 - e) à la justice militaire;
-
 - f) au commandement des polices judiciaires et aux autorités judiciaires pénales d'un autre canton ou d'un Etat étranger dans le cadre de l'entraide judiciaire pénale en matière internationale;
-
 - g) à la police municipale et au tribunal de police pour la répression des contraventions relevant du tribunal de police.
 
 <sup>2</sup> Sous la responsabilité du commandant de la police cantonale, des renseignements peuvent être communiqués:
 
-- a) au chef du service administratif et juridique du département dont relève la sécurité dans la mesure nécessaire à l'exécution des peines et mesures, à la mise en oeuvre de la probation et à l'instruction des recours en grâce;
-
+- a) au chef du service de l'application des peines et mesures dans la mesure nécessaire à l'exécution des peines et mesures, à la mise en oeuvre de la probation et à l'instruction des recours en grâce;
 - b) au chef du service cantonal en charge de la police des étrangers en exécution des prescriptions légales fédérales;
-
 - c) au chef du service cantonal en charge des naturalisations et en exécution des prescriptions légales fédérales;
-
 - d) au chef du service cantonal en charge de la circulation routière dans le cadre de l'admission des personnes à la circulation routière;
-
-- e) au directeur des établissements pénitentiaires dans le cadre de l'exécution des peines et mesures;
-
+- e) …
 - f) au directeur de la caisse cantonale de compensation en exécution des prescriptions légales fédérales;
-
 - g) au chef du service cantonal en charge des affaires militaires en exécution des prescriptions légales fédérales;
-
 - h) au chef du service du personnel pour l'engagement de candidats à certaines fonctions publiques à déterminer par le règlement et aux conditions fixées par celui-ci;
-
 - i) aux commissions d'enquête du Grand Conseil en application de l'article 133 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs;
-
-- j) au chef du service cantonal en charge de la jeunesse dans le cadre de la loi sur les violences domestiques;[^10-1]
-
+- j) au chef du service cantonal en charge de la jeunesse dans le cadre de la loi sur les violences domestiques;
 - k) au chef du département concerné à propos d'un fonctionnaire occupant un poste sensible, exerçant des fonctions d'expert ou en contact avec la jeunesse.
 
 <sup>3</sup> Par voie de décret, le Grand Conseil peut élargir ou restreindre la liste des autorités administratives selon l'alinéa 2.
@@ -221,8 +204,6 @@ décrète:
 <sup>4</sup> Dans la mesure nécessaire à l'accomplissement de ses tâches constitutionnelles et légales, le Conseil d'Etat peut obtenir des renseignements tirés d'un dossier de police judiciaire chaque fois que cette faculté est reconnue à un chef de service selon l'alinéa 2.
 
 <sup>5</sup> Aucun renseignement ne peut être communiqué à des tiers.
-
-[^10-1]: Modification du 18 décembre 2015 (Loi sur BO No 4/2016; BO 01.01.2017 les violences domestiques du 18 décembre No 39/2016 2015 (LVD), art. 25 ch. 1)
 
 #### Art. 11
 
@@ -240,41 +221,31 @@ décrète:
 
 <sup>2</sup> Il ne sera donné suite à une demande téléphonique qu'en cas d'urgence et si le correspondant peut être identifié avec certitude.
 
-### Chapitre 4: Système d'information en matière de prostitution
+## 4 Système d'information en matière de prostitution
 
 #### Art. 13
 
-<sup>2,4</sup> Système d'information
+**Système d'information**
 
 <sup>1</sup> La police cantonale gère un système de traitement de données relatives:
 
 - a) aux personnes s'adonnant à la prostitution;
-
-- b) aux personnes ayant commis des infractions liées à la pratique de la prostitution ou soupçonnées de telles infractions dans le cadre d'une procédure d'investigation (art. 299 du code de procédure pénale suisse).
+- b) aux personnes ayant commis des infractions liées à la pratique de la prostitution ou soupçonnées de telles infractions dans le cadre d'une procédure d'investigation (art. 299 CPP).
 
 <sup>2</sup> Le but de ce système d'information est de faciliter le travail de la police cantonale dans sa mission de prévention et de répression des infractions présentant ou pouvant présenter un lien de connexité avec la prostitution, en particulier:
 
 - a) l'usure (art. 157 CP);
-
 - b) la traite d'êtres humains (art. 182 CP);
-
-- c) l'exploitation de l'activité sexuelle ou l'encouragement à la prostitution (art.
-
-195 CP);
-
+- c) l'exploitation de l'activité sexuelle ou l'encouragement à la prostitution (art. 195 CP);
 - d) l'exercice illicite de la prostitution (art. 199 CP);
-
 - e) l'organisation criminelle (art. 260<sup>ter</sup> CP);
-
-- f) les crimes contre l'humanité (art. 264a al. 1 lettres d, g et h CP);
-
+- f) les crimes contre l'humanité (art. 264a al. 1 let. d, g et h CP);
 - g) le blanchiment d'argent (art. 305<sup>bis</sup> CP);
-
 - h) l'inobservation de la législation sur les étrangers et de la législation sociale.
 
 #### Art. 14
 
-<sup>2,4</sup> Obligation d'annonce
+**Obligation d'annonce**
 
 <sup>1</sup> Toute personne s'adonnant à la prostitution ou désireuse de s'y adonner est tenue de s'annoncer sans délai à la police cantonale.
 
@@ -282,39 +253,32 @@ décrète:
 
 #### Art. 15
 
-<sup>2,4</sup> Traitement des données: a) principe
+**Traitement des données a) Principe**
 
-Le traitement des données s'opère conformément à la présente loi, subsidiairement conformément à la loi sur la prostitution, sous réserve des dispositions spécifiques prévues ci-après.
-
-[^15-1]: Modification du 9 octobre 2003 BO No 43/2003 01.02.2004
+<sup>1</sup> Le traitement des données s'opère conformément à la présente loi, subsidiairement conformément à la loi sur la prostitution, sous réserve des dispositions spécifiques prévues ci-après.
 
 #### Art. 16
 
-**b) enregistrement**[^15-1]
+**b) Enregistrement**
 
 <sup>1</sup> Sont enregistrées dans le système d'information:
 
 - a) les données concernant les personnes s'adonnant à la prostitution, quelles qu'en soient les formes;
-
 - b) les données relatives à des tierces personnes ou les indications les concernant dans la mesure où ces personnes sont soupçonnées de se livrer aux activités délictueuses au sens de l'article 13 alinéa 2 de la présente loi, d'y être impliquées, d'y participer ou d'en retirer bénéfice.
 
-<sup>2</sup> Abrogé.[^16-1]
-
-[^16-1]: Modification (Loi sur la prostitution du 12 BO No 14/2015; BO 01.01.2016 mars 2015, art. 34) No 40/2015
+<sup>2</sup> …
 
 #### Art. 17
 
-<sup>2,4</sup> c) protection des données
+**c) Protection des données**
 
 <sup>1</sup> Les données contenues dans le système d'information doivent être adéquates, pertinentes, exactes, complètes et non excessives par rapport aux finalités pour lesquelles elles sont enregistrées.
 
 <sup>2</sup> Les données au sens de l'article 16 alinéa 1 lettre b de la présente loi ne doivent être utilisées que dans le cadre de la prévention et de la répression des infractions mentionnées à l'article 13 alinéa 2 de la présente loi.
 
-[^17-1]: Modification du 9 octobre 2003 BO No 43/2003 01.02.2004
-
 #### Art. 18
 
-**d) conservation**[^17-1]
+**d) Conservation**
 
 <sup>1</sup> Les données relatives aux personnes s'adonnant à la prostitution doivent être conservées séparément de celles recueillies dans le cadre d'une enquête de police judiciaire.
 
@@ -322,23 +286,23 @@ Le traitement des données s'opère conformément à la présente loi, subsidiai
 
 <sup>3</sup> Le système doit être périodiquement épuré des données qui ne sont plus pertinentes par rapport au but visé.
 
-### Chapitre 5: Dispositions finales
+## 5 Dispositions finales
 
 #### Art. 19
 
 **Surveillance**
 
-La commission est chargée de veiller au respect des présentes dispositions.
+<sup>1</sup> La commission est chargée de veiller au respect des présentes dispositions.
 
 #### Art. 20
 
-<sup>2</sup> Dispositions d'exécution
+**Dispositions d'exécution**
 
-Le Conseil d'Etat adopte les dispositions d'exécution nécessaires dans un règlement.
+<sup>1</sup> Le Conseil d'Etat adopte les dispositions d'exécution nécessaires dans un règlement.
 
 #### Art. 20a
 
-<sup>2</sup> Droit pénal administratif
+**Droit pénal administratif**
 
 <sup>1</sup> La personne qui contrevient à l'obligation d'annonce prévue par l'article 14 alinéa 1 de la présente loi et par son règlement d'exécution est passible de l'amende.
 
@@ -348,24 +312,12 @@ Le Conseil d'Etat adopte les dispositions d'exécution nécessaires dans un règ
 
 **Entrée en vigueur**
 
-Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi.
+<sup>1</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi.
 
 #### Art. 22
 
 **Votation populaire**
 
-La présente loi sera soumise à la votation populaire.
+<sup>1</sup> La présente loi sera soumise à la votation populaire.
 
-Ainsi adoptée en seconds débats en séance du Grand Conseil à Sion, le 28 juin 1984.
-
-Le président du Grand Conseil: R. Gertschen Les secrétaires: A. Burrin, P. Amherd
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Loi concernant les dossiers de police RO/VS 1984, 23 01.01.1987 judiciaire du 28 juin 1984
-
-## Autres notes
-
-- [3] Modification du 11 février 2009 BO No 13/2009 01.01.2011
+RCV RO/AGS 1984 f 23, 205 | d 23, 217

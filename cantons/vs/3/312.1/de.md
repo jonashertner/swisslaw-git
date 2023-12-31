@@ -4,31 +4,37 @@ number: "312.1"
 title: Gesetz über die Akten der gerichtlichen Polizei
 short: GAgPol
 language: de
-version: 2017-01-01
-corrected: 2017-07-21
-version_adopted: 2015-12-18
+version: 2024-01-01
+version_adopted: 2023-03-16
 adopted: 1984-06-28
 in_force: 1987-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/312.1"
-pdf: "https://lex.vs.ch/api/de/versions/587/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3231/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Akten der gerichtlichen Polizei
 
-vom 28. Juni 1984
+(GAgPol)
+
+vom 28.06.1984 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen Artikel 4, Absatz 1, der Kantonsverfassung;
+eingesehen Artikel 4 Absatz 1 der Kantonsverfassung;
 
 eingesehen die Botschaft des Staatsrates,
 
 beschliesst:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1a
+
+**Vorbehalt**
+
+<sup>1</sup> Die Bearbeitung von Personendaten durch die Polizei zum Zweck der Verhütung, Aufklärung oder Verfolgung von Straftaten oder der Strafvollstreckung, einschliesslich des Schutzes vor und der Abwehr von Gefahren für die öffentliche Sicherheit und die Verhütung solcher Bedrohungen im Rahmen des Schengen-Besitzstands oder in Anwendung von mit der Europäischen Union oder den Schengen-Staaten abgeschlossenen Abkommen, die sich bezüglich Datenschutz auf die Richtlinie (EU) 2016/680 beziehen, richtet sich nach dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA).
 
 #### Art. 1
 
@@ -62,19 +68,16 @@ beschliesst:
 
 #### Art. 3a
 
-<sup>1,3</sup> Vernichtung von Daten
+**Vernichtung von Daten**
 
 <sup>1</sup> Die Daten der gerichtlichen Polizei werden soweit erforderlich von Amtes wegen vernichtet:
 
-- a) aufgehoben;
-
+- a) …
 - b) bei Ablauf der für die Strafklage geltenden Verjährungsfrist;
-
 - c) nach dem Tod der betroffenen Person;
-
 - d) in Übereinstimmung mit den Grundsätzen, welche die Entfernung der Einträge, welche im Strafregister infolge Verurteilung enthalten sind, betreffen.
 
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
 <sup>3</sup> Der Entscheid des Polizeikommandanten betreffend die Vernichtung von Daten kann innert 30 Tagen seit Zustellung an den Präsidenten der Strafkammer weitergezogen werden, welcher als letzte kantonale Instanz entscheidet. Das Verfahren findet unter Ausschluss der Öffentlichkeit statt; überdies sind die Bestimmungen über die Beschwerde gemäss der Schweizerischen Strafprozessordnung anwendbar.
 
@@ -82,7 +85,7 @@ beschliesst:
 
 #### Art. 4
 
-<sup>1</sup> Verwendung
+**Verwendung**
 
 <sup>1</sup> Die Akten dürfen nur für Zwecke der gerichtlichen Polizei verwendet werden.
 
@@ -92,7 +95,7 @@ beschliesst:
 
 #### Art. 5
 
-<sup>1,3</sup> Auskunftsrecht nach Abschluss des Strafverfahrens a) Grundsatz
+**Auskunftsrecht nach Abschluss des Strafverfahrens a) Grundsatz**
 
 <sup>1</sup> Jedermann kann Auskunft über die ihn betreffenden Daten verlangen, welche in den Polizeiakten enthalten sind und deren Berichtigung beantragen, sofern diese falsch sind. Das Auskunftsrecht über die persönlichen Daten beinhaltet auch die Auskunft über deren Benutzung.
 
@@ -106,11 +109,9 @@ beschliesst:
 
 <sup>6</sup> Wenn die persönlichen Daten der Polizei durch Verfolgungsbehörden oder Polizeiorgane anderer Kantone, des Bundes oder eines ausländischen Staates mitgeteilt wurden, kann die Polizei das Gesuch an diese Behörden oder Organe zum Entscheid weiterleiten.
 
-[^5-1]: Gesetz zur Abänderung der GS/VS 2000, 55 01.01.2001 Strafprozessordnung vom 27. Juni 2000
-
 #### Art. 5a
 
-**b) Verfahren**[^5-1]
+**b) Verfahren**
 
 <sup>1</sup> Das Auskunfts- oder Berichtigungsgesuch ist vom Gesuchsteller oder von seinem Anwalt schriftlich beim Polizeikommandanten einzureichen. Dieser kann vom Gesuchsteller verlangen, dass er sich durch ein amtliches Dokument ausweist.
 
@@ -120,11 +121,9 @@ beschliesst:
 
 <sup>4</sup> Das Verfahren ist unter Vorbehalt des Missbrauchs unentgeltlich.
 
-[^5a-1]: Gesetz zur Abänderung der GS/VS 2000, 55 01.01.2001 Strafprozessordnung vom 27. Juni 2000
-
 #### Art. 5b
 
-**c) Beschwerde**[^5a-1]
+**c) Beschwerde**
 
 <sup>1</sup> Die in Anwendung der Artikel 5 und 5a erlassenen Entscheide des Polizeikommandanten können innert 30 Tagen seit Zustellung an den Präsidenten der Strafkammer weitergezogen werden.
 
@@ -150,11 +149,11 @@ beschliesst:
 
 <sup>2</sup> Überdies sind geeignete Sicherheitsmassnahmen gegen das absichtliche oder zufällige Vernichten der elektronischen Anlagen für das Speichern und Bearbeiten von polizeilichen Daten zu treffen.
 
-### 2. Kapitel: Einsichtnahme in die Akten
+## 2 Einsichtnahme in die Akten
 
 #### Art. 8
 
-<sup>1</sup> Grundsatz
+**Grundsatz**
 
 <sup>1</sup> Zugang zu den Akten haben nur das vereidigte Personal der Informatikabteilung der Polizei, die Beamten der gerichtlichen Polizei des Kantons Wallis und der Präsident der Strafkammer.
 
@@ -168,52 +167,36 @@ beschliesst:
 
 <sup>2</sup> Es dürfen weder unmittelbar den Akten entnommene Dokumente noch irgendwelche Karteien mitgenommen werden.
 
-<sup>3</sup> Unter Vorbehalt der Auskunftserteilung (Kapitel III) sind Fotokopien nicht gestattet, ausser bei Vorliegen eines aussergewöhnlichen Umstandes und aufgrund einer Bewilligung des Kommandos der Kantonspolizei in Form einer schriftlichen und begründeten Verfügung, die mit einer Ordnungsnummer in ein Spezialregister einzutragen ist. Ein Doppel dieser Verfügung ist der kantonalen Datenschutzkommission zuzustellen.
+<sup>3</sup> Unter Vorbehalt der Auskunftserteilung (Kapitel 3) sind Fotokopien nicht gestattet, ausser bei Vorliegen eines aussergewöhnlichen Umstandes und aufgrund einer Bewilligung des Kommandos der Kantonspolizei in Form einer schriftlichen und begründeten Verfügung, die mit einer Ordnungsnummer in ein Spezialregister einzutragen ist. Ein Doppel dieser Verfügung ist der kantonalen Datenschutzkommission zuzustellen.
 
-### 3. Kapitel: Auskunftserteilung
+## 3 Auskunftserteilung
 
 #### Art. 10
 
-<sup>1,2,3</sup> Empfänger
+**Empfänger**
 
 <sup>1</sup> Unter der Verantwortung des Kommandanten der Kantonspolizei können Auskünfte erteilt werden an:
 
 - a) die Gerichtsbehörden und die Staatsanwaltschaft des Kantons Wallis;
-
 - b) die Verwaltungsbehörde, die mit der Ahndung von Zuwiderhandlungen gegen das Strafrecht des Bundes und des Kantons beauftragt ist;
-
 - c) die Bundesanwaltschaft;
-
 - d) das Bundesamt für Polizeiwesen;
-
 - e) die Militärgerichtsbarkeit;
-
 - f) das Kommando der gerichtlichen Polizei- und Strafgerichtsbehörden eines anderen Kantons oder des Auslandes im Rahmen der internationalen Rechtshilfe in Strafsachen;
-
 - g) die Gemeindepolizei und das Polizeigericht bei Widerhandlungen, die in der Zuständigkeit des Polizeigerichts liegen.
 
 <sup>2</sup> Unter der Verantwortung des Kommandanten der Kantonspolizei können Auskünfte erteilt werden an:
 
-- a) den Chef des Verwaltungs- und Rechtsdienstes des Departements für Sicherheit und Institutionen insoweit es erforderlich ist für den Straf- und Massnahmenvollzug, die Ausführung der Schutzaufsicht und die Vorbehandlung der Begnadigungsgesuche;
-
+- a) den Chef der Dienststelle für den Straf- und Massnahmenvollzug insoweit es erforderlich ist für den Straf- und Massnahmenvollzug, die Ausführung der Schutzaufsicht und die Vorbehandlung der Begnadigungsgesuche;
 - b) den Chef der kantonalen mit der Fremdenpolizei beauftragten Dienststelle für den Vollzug der gesetzlichen Vorschriften des Bundes;
-
 - c) den Chef der kantonalen mit den Einbürgerungen beauftragten Dienststelle für den Vollzug der gesetzlichen Vorschriften des Bundes;
-
 - d) den Chef der kantonalen Dienststelle für den Strassenverkehr im Rahmen der Zulassung der Personen im Strassenverkehr;
-
-- e) den Direktor der Strafanstalten im Rahmen des Straf- und Massnahmenvollzuges;
-
+- e) …
 - f) den Direktor der kantonalen Ausgleichskasse für den Vollzug der gesetzlichen Vorschriften des Bundes;
-
 - g) den Chef der kantonalen mit dem Militärwesen beauftragten Dienststelle für den Vollzug der gesetzlichen Vorschriften des Bundes;
-
 - h) den Chef des Personalamtes für die Anstellung von Bewerbern für gewisse Stellen im öffentlichen Dienst. Das Reglement bezeichnet diese Stellen und bestimmt die Bedingungen;
-
 - i) die Untersuchungskommission des Grossen Rates in Anwendung von Artikel 133 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten;
-
-- j) den Chef der kantonalen Dienststelle, die mit der Jugend betraut ist, im Rahmen des Gesetzes über häusliche Gewalt;[^10-1]
-
+- j) den Chef der kantonalen Dienststelle, die mit der Jugend betraut ist, im Rahmen des Gesetzes über häusliche Gewalt;
 - k) den zuständigen Departementsvorsteher betreffend einen Beamten, der eine heikle Position bekleidet, indem er als Experte oder im Zusammenhang mit der Jugend tätig ist.
 
 <sup>3</sup> Der Grosse Rat kann auf dem Dekretswege die Liste der Verwaltungsbehörden gemäss Absatz 2 ausweiten oder einschränken.
@@ -221,8 +204,6 @@ beschliesst:
 <sup>4</sup> Soweit es nötig ist, kann der Staatsrat zur Erfüllung seiner verfassungsmäs-sigen und gesetzlichen Aufgaben jedes Mal dann Auskünfte aus einer Akte der gerichtlichen Polizei erhalten, wenn diese Befugnis einem Abteilungsvorsteher gemäss Absatz 2 zuerkannt ist.
 
 <sup>5</sup> Drittpersonen dürfen keine Auskünfte erteilt werden.
-
-[^10-1]: Änderung vom 18. Dezember 2015 (Gesetz Abl. Nr. 4/2016; 01.01.2017 über häusliche Gewalt vom 18. Dezember Abl. Nr. 39/2016 (GhG), Art. 25 Ziff. 1)
 
 #### Art. 11
 
@@ -240,41 +221,31 @@ beschliesst:
 
 <sup>2</sup> Telefonischen Anfragen wird nur im Dringlichkeitsfall Folge geleistet und nur, wenn der Anrufer mit Sicherheit identifiziert werden kann.
 
-### 4. Kapitel: Informationssystem betreffend Prostitution
+## 4 Informationssystem betreffend Prostitution
 
 #### Art. 13
 
-<sup>2,4</sup> Informationssystem
+**Informationssystem**
 
 <sup>1</sup> Die Kantonspolizei betreibt ein Datenbearbeitungssystem bezüglich Personen:
 
 - a) die der Prostitution nachgehen;
-
-- b) die Widerhandlungen begangen haben oder im Rahmen eines Ermittlungsverfahrens (Art. 299 der Schweizerischen Strafprozessordnung) verdächtigt werden, solche begangen zu haben, die mit der Ausübung der Prostitution im Zusammenhang stehen.
+- b) die Widerhandlungen begangen haben oder im Rahmen eines Ermittlungsverfahrens (Art. 299 StPO) verdächtigt werden, solche begangen zu haben, die mit der Ausübung der Prostitution im Zusammenhang stehen.
 
 <sup>2</sup> Dieses Informationssystem hat den Zweck, die polizeiliche Präventions- und Repressionstätigkeit gegen Widerhandlungen, die mit der Prostitution im Zusammenhang stehen oder stehen könnten, zu erleichtern, im Besonderen:
 
 - a) Wucher (Art. 157 StGB);
-
 - b) Menschenhandel (Art. 182 StGB);
-
-- c) Ausnützung sexueller Handlungen oder Förderung der Prostitution (Art.
-
-195 StGB);
-
+- c) Ausnützung sexueller Handlungen oder Förderung der Prostitution (Art. 195 StGB);
 - d) Unzulässige Ausübung der Prostitution (Art. 199 StGB);
-
 - e) Kriminelle Organisation (Art. 260<sup>ter</sup> StGB);
-
 - f) Verbrechen gegen die Menschlichkeit (Art. 264a, Abs. 1 Bst. d, g und h StGB);
-
-- g) Geldwäscherei (Art. 305bis StGB);
-
+- g) Geldwäscherei (Art. 305<sup>bis</sup> StGB);
 - h) Nichtbefolgung der Gesetzgebung über die Ausländer und der Sozialgesetzgebung.
 
 #### Art. 14
 
-<sup>2,4</sup> Meldepflicht
+**Meldepflicht**
 
 <sup>1</sup> Jede Person, die der Prostitution nachgeht oder beabsichtigt, dieser nachzugehen, hat sich unverzüglich bei der Kantonspolizei anzumelden.
 
@@ -282,39 +253,32 @@ beschliesst:
 
 #### Art. 15
 
-<sup>2,4</sup> Datenbearbeitung: a) Grundsatz
+**Datenbearbeitung a) Grundsatz**
 
-Die Datenbearbeitung erfolgt, vorbehältlich der nachfolgenden Spezialbestimmungen, gemäss dem vorliegenden Gesetz, subsidiär gemäss dem Gesetz über die Prostitution.
-
-[^15-1]: Änderung vom 9. Oktober 2003 Abl. Nr. 43/2003 01.02.2004
+<sup>1</sup> Die Datenbearbeitung erfolgt, vorbehältlich der nachfolgenden Spezialbestimmungen, gemäss dem vorliegenden Gesetz, subsidiär gemäss dem Gesetz über die Prostitution.
 
 #### Art. 16
 
-**b) Eintragung**[^15-1]
+**b) Eintragung**
 
 <sup>1</sup> Das Informationssystem enthält:
 
 - a) die Daten bezüglich der Personen, die der Prostitution nachgehen, ungeachtet deren Formen;
-
 - b) die Daten über Drittpersonen oder diese betreffende Hinweise in dem Masse, als dass diese Personen verdächtigt werden, in Widerhandlungen im Sinne von Artikel 13 Absatz 2 dieses Gesetzes verwickelt zu sein, daran beteiligt zu sein, oder daraus Nutzen zu ziehen.
 
-<sup>2</sup> Aufgehoben.[^16-1]
-
-[^16-1]: Änderung (Gesetz über die Prostitution vom Abl. Nr. 14/2015; 01.01.2016 12. März 2015, Art. 34) Abl. Nr. 40/2015
+<sup>2</sup> …
 
 #### Art. 17
 
-<sup>2,4</sup> c) Datenschutz
+**c) Datenschutz**
 
 <sup>1</sup> Die im Informationssystem enthaltenen Daten müssen geeignet, treffend, richtig, vollständig und verhältnismässig sein in Bezug auf die Zwecke, für welche sie gesammelt werden.
 
 <sup>2</sup> Die im Informationssystem enthaltenen Daten gemäss Artikel 16 Absatz 1 Buchstabe b des vorliegenden Gesetzes dürfen nur im Rahmen der Präventions- und Repressionstätigkeit gegen Widerhandlungen gemäss Artikel 13 Absatz 2 des vorliegenden Gesetzes verwendet werden.
 
-[^17-1]: Änderung vom 9. Oktober 2003 Abl. Nr. 43/2003 01.02.2004
-
 #### Art. 18
 
-**d) Aufbewahrung**[^17-1]
+**d) Aufbewahrung**
 
 <sup>1</sup> Die Daten betreffend Personen, die der Prostitution nachgehen, müssen von jenen, die im Rahmen einer gerichtspolizeilichen Untersuchung gesammelt werden, getrennt aufbewahrt werden.
 
@@ -322,23 +286,23 @@ Die Datenbearbeitung erfolgt, vorbehältlich der nachfolgenden Spezialbestimmung
 
 <sup>3</sup> Das System ist periodisch bezüglich Daten, die im Hinblick auf den angestrebten Zweck nicht mehr erforderlich sind, zu bereinigen.
 
-### 5. Kapitel: Schlussbestimmungen
+## 5 Schlussbestimmungen
 
 #### Art. 19
 
 **Aufsicht**
 
-Die Kommission wird beauftragt, über die Einhaltung dieser Vorschriften zu wachen.
+<sup>1</sup> Die Kommission wird beauftragt, über die Einhaltung dieser Vorschriften zu wachen.
 
 #### Art. 20
 
-<sup>2</sup> Vollzugsbestimmungen
+**Vollzugsbestimmungen**
 
-Der Staatsrat erlässt die notwendigen Vollzugsbestimmungen in einem Reglement.
+<sup>1</sup> Der Staatsrat erlässt die notwendigen Vollzugsbestimmungen in einem Reglement.
 
 #### Art. 20a
 
-<sup>2</sup> Verwaltungsstrafrecht
+**Verwaltungsstrafrecht**
 
 <sup>1</sup> Wer gegen die in Artikel 14 Absatz 1 des Gesetzes und in dessen Ausführungsreglement vorgesehene Meldepflicht verstösst, wird mit Busse bestraft.
 
@@ -348,24 +312,12 @@ Der Staatsrat erlässt die notwendigen Vollzugsbestimmungen in einem Reglement.
 
 **Inkrafttreten**
 
-Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
+<sup>1</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
 #### Art. 22
 
 **Volksabstimmung**
 
-Dieses Gesetz unterliegt der Volksabstimmung.
+<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung.
 
-So angenommen in zweiter Lesung im Grossen Rate zu Sitten, den 28. Juni 1984.
-
-Der Präsident des Grossen Rates: R. Gertschen Die Schriftführer: A. Burrin, P. Amherd
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Gesetz über die Akten der gerichtlichen GS/VS 1984, 23 01.07.1987
-
-### Polizei vom 28. Juni 1984
-
-## Weitere Fussnoten
-
-- [3] Änderung vom 11. Februar 2009 Abl. Nr. 13/2009 01.01.2011
+CSW RO/AGS 1984 f 23, 205 | d 23, 217
