@@ -3,20 +3,20 @@ canton: SO
 number: "211.1"
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-09
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-06
 adopted: 1954-04-04
 in_force: 1955-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/211.1"
-pdf: "https://bgs.so.ch/api/de/versions/5022/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 
-Vom 04.04.1954 (Stand 01.01.2021)
+Vom 04.04.1954 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -2284,9 +2284,14 @@ beschliesst:
 - b) den Verkehrswert des enteigneten Rechtes, inbegriffen den Minderwert der verbleibenden Rechte;
 - c) irgendwelche dem Enteigneten in diesem Zusammenhang erwachsenden Nachteile.
 
+<sup>1<sup>bis</sup></sup> Bei der Enteignung von Kulturland im Geltungsbereich des Bundesgesetzes über das bäuerliche Bodenrecht (BGBB) vom 4. Oktober 1991[^232-1] ist als Verkehrswert zusätzlich zum ermittelten Höchstpreis nach Artikel 66 BGBB[^232-2] der betriebswirtschaftliche Verlust nach kantonsüblicher Bewirtschaftung zu entschädigen, soweit nicht Realersatz geleistet wird. Der Regierungsrat regelt die Einzelheiten in einer Verordnung und kann sich in dieser auf die Berechnungshilfe der Konferenz der Landwirtschaftsämter oder eine andere anerkannte und gleichwertige Publikation stützen.
+
 <sup>2</sup> Die besonderen Vorteile, die dem Enteigneten aus dem Unternehmen erwachsen, sind dabei anzurechnen.
 
 <sup>3</sup> Beträgt die Entschädigung für eine materielle Enteignung mehr als die Hälfte des Verkehrswertes, sind das entschädigungspflichtige Gemeinwesen und der Eigentümer berechtigt, die formelle Enteignung geltend zu machen. Das Verfahren richtet sich nach den §§ 228 ff hievor.
+
+[^232-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de).
+[^232-2]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de).
 
 #### § 232bis
 
@@ -2760,7 +2765,7 @@ beschliesst:
 <sup>1</sup> Nach kantonalem Recht entsteht mit Fälligkeit der zugrunde liegenden Forderung ohne Eintragung in das Grundbuch ein gesetzliches Pfandrecht, das jeder eingetragenen Belastung vorgeht:
 
 - a) zugunsten des Staates für die Handänderungssteuer[^283-1], die staatlichen Verurkundungs- und Grundbuchgebühren sowie für die Kosten der Grundbuchvermessung und der Katasterschätzung;
-- b) zugunsten der Gemeinden und ihrer Wasserversorgungsunternehmen für den letzten verfallenen Jahreswasserzins;
+- b) zugunsten der Gemeinden, der Wasserversorgungsunternehmen sowie der Abwasserbeseitigungsunternehmen für die letzten verfallenen jährlichen Benützungsgebühren;
 - c) in den von der Spezialgesetzgebung bezeichneten Fällen.
 
 [^283-1]: Fassung nach § 260 Absatz 2 StG vom 1. Dezember 1985; GS 90, 185.
