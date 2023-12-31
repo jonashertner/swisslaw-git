@@ -4,13 +4,12 @@ number: "178.1"
 title: Loi sur le notariat
 short: LN
 language: fr
-version: 2022-01-07
-valid_until: 2023-12-31
-version_adopted: 2021-09-09
+version: 2024-01-01
+version_adopted: 2023-06-15
 adopted: 2004-12-15
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/178.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3010/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3257/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3010/pdf_file"
 
 (LN)
 
-du 15.12.2004 (état 07.01.2022)
+du 15.12.2004 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -65,6 +64,11 @@ ordonne:
 
 <sup>2</sup> Il est un officier public exerçant son ministère de manière indépendante, sous la surveillance de l'Etat; il n'est pas un fonctionnaire public.
 
+<sup>3</sup> Un notaire peut exercer sa profession en étant employé:
+
+- a) par un autre notaire autorisé à pratiquer dans le canton;
+- b) par une société de capitaux (société anonyme ou société à responsabilité limitée) aux conditions prévues aux articles 23a et 23b.
+
 #### Art. 4
 
 **Compétence matérielle et territoriale**
@@ -73,15 +77,15 @@ ordonne:
 
 <sup>2</sup> Le notaire autorisé à pratiquer en application de la présente loi peut instrumenter sur l'ensemble du territoire cantonal.
 
-<sup>3</sup> Le notaire peut instrumenter un acte hors du canton s'il est autorisé par l'autorité compétente du lieu de stipulation.
+<sup>3</sup> Le notaire peut instrumenter un acte hors du canton s'il est autorisé par l'autorité compétente du lieu de stipulation ou par la loi.
 
-<sup>4</sup> Il peut, sans cette autorisation, instrumenter hors du canton les actes relatifs aux droits réels immobiliers qui sont de sa compétence territoriale.
+<sup>4</sup> …
 
 #### Art. 5
 
 **Responsabilité civile - Principes**
 
-<sup>1</sup> Le notaire est civilement responsable de tout dommage qu'il cause, soit de manière illicite, intentionnellement ou par négligence, soit en violation de ses obligations contractuelles:
+<sup>1</sup> Le notaire est civilement responsable de tout dommage qu'il cause, soit de manière illicite, intentionnellement ou par négligence, soit en violation de ses obligations contractuelles, y compris lorsqu'il est employé par un autre notaire ou lorsque l'étude est exploitée sous la forme d'une société de capitaux:
 
 - a) dans l'exercice de son activité ministérielle;
 - b) dans l'exercice de son activité professionnelle connexe à son activité ministérielle.
@@ -167,7 +171,7 @@ ordonne:
 
 <sup>4</sup> Le stage se fait en l'étude d'un ou, successivement, de plusieurs notaires du canton.
 
-<sup>5</sup> Une partie de ce stage doit être effectuée dans un office du registre foncier et du registre du commerce. Une partie du stage peut, en outre, se faire auprès d'un service de l'administration cantonale ayant des activités en rapport direct avec l'activité ministérielle du notaire.
+<sup>5</sup> Une partie du stage doit être effectuée dans un office du registre foncier et du registre du commerce. Une partie du stage peut, en outre, se faire auprès d'un service de l'administration cantonale ayant des activités en rapport direct avec l'activité ministérielle du notaire.
 
 <sup>6</sup> Pour être admis à l'examen, le stagiaire doit suivre les cours de formation organisés par l'Association des notaires en collaboration avec le département. Le financement de ces cours est assuré à raison de 30 pour cent par les stagiaires et à raison de 70 pour cent par l'Association des notaires.
 
@@ -236,7 +240,8 @@ ordonne:
 - a) être citoyen suisse et avoir l'exercice complet des droits civils;
 - b) ne pas avoir fait l'objet d'une condamnation pénale pour des faits incompatibles avec l'exercice ou la dignité de la profession dont l'inscription n'est pas radiée du casier judiciaire;
 - c) ne pas être en faillite, ni être l'objet d'un acte de défaut de biens provisoire ou définitif;
-- d) être domicilié en Valais et avoir une étude dans le canton;
+- d) être domicilié dans le canton pendant l'exercice de son ministère; à défaut, il est réputé avoir élu domicile à son étude pour toutes affaires ministérielles et professionnelles;
+- d<sup>bis</sup>) disposer d’une étude dans le canton ou être employé de cette étude;
 - e) être titulaire du brevet valaisan de notaire;
 - f) être au bénéfice d'une assurance responsabilité civile suffisante et avoir fourni les sûretés prévues par la loi;
 - g) être membre de l'Association des notaires valaisans.
@@ -245,9 +250,9 @@ ordonne:
 
 **Etude**
 
-<sup>1</sup> Le notaire doit avoir une étude ouverte au public, se prêtant à l'exercice de la profession et séparée de tout autre bureau, à l'exception de celui d'avocat.
+<sup>1</sup> Le notaire doit disposer d'une étude ouverte au public, se prêtant à l'exercice de la profession et séparée de tout autre bureau, à l'exception de celui d'avocat.
 
-<sup>2</sup> Il peut avoir une étude secondaire si l'intérêt public le justifie.
+<sup>2</sup> Il peut disposer d'une étude secondaire si l'intérêt public le justifie.
 
 #### Art. 19
 
@@ -293,7 +298,7 @@ ordonne:
 - a) d'une charge accessoire d'enseignement;
 - b) d'un mandat politique à temps partiel;
 - c) de la fonction de juge de commune, de suppléant d'un magistrat de l'ordre judiciaire, ou de membre d'une commission administrative communale, cantonale ou fédérale;
-- d) de la fonction de greffier-juriste d'une instance communale, intercommunale ou encore de la chambre de tutelle.
+- d) de la fonction de greffier-juriste d'une instance communale ou intercommunale et d’une autorité de protection de l’enfant et de l’adulte.
 
 <sup>2</sup> Le notaire est en outre autorisé, pour autant qu'il agisse en son nom propre, à gérer des immeubles et à administrer des biens, officiellement ou par mandat privé.
 
@@ -307,8 +312,34 @@ ordonne:
 
 <sup>3</sup> En cas d'association, le notaire doit:
 
-- a) tenir séparément ses répertoires, ses minutes, ses testaments olographes et autres documents confiés, ainsi que ses copies d'actes en brevet; il conserve en annexe à ces actes toutes les pièces justificatives qui y sont mentionnées;
-- b) tenir séparément la comptabilité de son activité ministérielle et professionnelle (art. 42 et 43).
+- a) tenir séparément ses répertoires, ses minutes, ses testaments olographes et autres documents confiés, ainsi que ses copies d'actes en brevet; il conserve en annexe à ces actes toutes les pièces justificatives qui y sont mentionnées.
+- b) …
+
+#### Art. 23a
+
+**Société de capitaux – Conditions d’exercice**
+
+<sup>1</sup> Lorsqu’une étude est exploitée sous la forme d’une société de capitaux, les conditions supplémentaires suivantes s’appliquent:
+
+- a) le capital est uniquement détenu par un ou plusieurs notaires autorisés à exercer en Valais ou par une société elle-même détenue exclusivement par un ou plusieurs notaires autorisés à exercer en Valais;
+- b) le siège de la société de capitaux est en Valais;
+- c) le but de la société est de fournir une activité de service relative au fonctionnement d’une étude;
+- d) seuls le ou les notaires détenteurs de la société de capitaux peuvent accéder au conseil d’administration, à un poste de directeur général ou de gérant de la société;
+- e) un notaire ne peut détenir des participations d’une autre société de capitaux ayant le même but;
+- f) le transfert des parts sociales ou des actions fait l'objet des restrictions prévues aux articles 685a et 685b CO;
+- g) l'acte constitutif et les statuts de la société de capitaux ont été soumis à l’examen du département.
+
+<sup>2</sup> Le règlement du Conseil d'Etat détermine les autres pièces et documents utiles à l'examen du département prévu à l'alinéa 1 lettre g.
+
+<sup>3</sup> Lorsqu’un ou plusieurs notaires exploitent une étude notariale sous la forme d’une société de capitaux et qu’ils exercent simultanément la profession d’avocat, ils peuvent exercer leurs deux activités professionnelles au sein de la même société de capitaux.
+
+#### Art. 23b
+
+**Société de capitaux – Contrôle**
+
+<sup>1</sup> Le notaire signale immédiatement au département toute modification survenue à l'une des conditions prévues à l'article 23a.
+
+<sup>2</sup> Le respect de ces conditions est vérifié lors du contrôle restreint auquel les notaires qui exercent au sein d’une société de capitaux sont soumis. Les conclusions de ce contrôle sont transmises par le notaire au département en même temps que le rapport sur le contrôle restreint.
 
 ### 1.2.3 Fin des fonctions
 
@@ -348,13 +379,13 @@ ordonne:
 
 <sup>1</sup> Lors de la cessation des fonctions, le notaire doit:
 
-- a) fermer l'étude;
+- a) fermer l'étude ou céder sa participation dans la société de capitaux;
 - b) liquider les actes en suspens dans un délai approprié;
 - c) clôturer le compte de l'étude;
 - d) restituer au département le sceau officiel et l'autorisation d'exercer le notariat;
 - e) collaborer avec l'inspecteur et le notaire liquidateur.
 
-<sup>2</sup> Il doit remettre à l'inspecteur, dans le délai fixé par le département, les répertoires, minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes; les actes doivent être rangés dans des boîtes d'archives selon l'ordre de numérotation des répertoires.
+<sup>2</sup> Il doit remettre aux Archives de l'Etat du Valais, dans le délai fixé par le département et sous la supervision de l'inspecteur, les répertoires, minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes; les actes doivent être rangés dans des boîtes d'archives selon l'ordre de numérotation des répertoires.
 
 <sup>3</sup> En cas de décès du notaire, ses ayants droit doivent tolérer toutes les opérations en vue de la liquidation de l'étude.
 
@@ -541,17 +572,19 @@ ordonne:
 
 **Obligation de tenir une comptabilité**
 
-<sup>1</sup> Le notaire doit tenir la comptabilité de son activité ministérielle et professionnelle, ainsi que de tous mouvements de fonds effectués pour le compte d'autrui; il tient le compte séparé des émoluments, des débours, des provisions, des avances et des sommes encaissées en raison de l'activité professionnelle connexe à son ministère.
+<sup>1</sup> Toute activité notariale fait l'objet d'une comptabilité en la forme commerciale. Celle-ci fait apparaître, dans une rubrique séparée, tous les mouvements de fonds effectués pour le compte d'autrui. Elle est bouclée au 31 décembre.
 
-<sup>2</sup> Les fonds confiés à la garde du notaire sans rapport avec son activité ministérielle ne peuvent être déposés sur le compte de l'étude.
+<sup>2</sup> Les fonds confiés à la garde du notaire sont déposés sur un compte de consignation de l'étude, sous leur rubrique.
 
 <sup>3</sup> Le notaire veille à ce que le compte de l'étude bénéficie de la clause de non-compensation par rapport à la banque.
 
 <sup>4</sup> Les pièces comptables sont conservées pendant dix ans. Le Conseil d'Etat peut arrêter d'autres prescriptions sur la tenue de la comptabilité et la garde des valeurs confiées au notaire dans l'exercice de son ministère.
 
+<sup>5</sup> Cette comptabilité est soumise, tous les deux ans, au contrôle restreint au sens de l'article 727a CO et selon les normes mentionnées dans le règlement. Le contrôle restreint est effectué par un réviseur agréé. Il n’est pas possible de renoncer à ce contrôle.
+
 #### Art. 43
 
-**Dépôts**
+**Comptes de consignation**
 
 <sup>1</sup> La contre-valeur des fonds confiés au notaire à quelque titre que ce soit doit être constamment disponible sous forme de liquidités (caisse, compte courant en banque ou compte de chèques postaux); elle peut être déposée sur un compte spécial ouvert par l'Association des notaires.
 
@@ -587,7 +620,7 @@ ordonne:
 - d) au versement d'une provision pour sa rémunération;
 - e) à une avance pour les contributions publiques dues.
 
-<sup>2</sup> Demeurent réservés les honoraires perçus sur la base d'un contrat de mandat pour des activités ne relevant pas de son ministère. Ils doivent faire l'objet d'une facturation séparée.
+<sup>2</sup> Demeurent réservées les rémunérations perçues pour les activités ne relevant pas de son ministère.
 
 <sup>3</sup> Le Conseil d'Etat arrête le tarif des émoluments et débours dans les limites fixées par la présente loi.
 
@@ -657,6 +690,15 @@ ordonne:
 - b) les émoluments horaires calculés en fonction du temps employé;
 - c) les débours.
 
+#### Art. 54a
+
+**Cession du droit aux émoluments et à des débours**
+
+<sup>1</sup> Le notaire peut céder son droit aux émoluments et à des débours comme suit:
+
+- a) à un autre notaire de la même étude dont il est l'employé;
+- b) à la société de capitaux qui l'emploie.
+
 #### Art. 55
 
 **Paiement des émoluments, émoluments horaires et débours**
@@ -694,7 +736,8 @@ ordonne:
 - a) les conditions d'admission à la profession;
 - b) la tenue des répertoires, la délivrance des expéditions et la conservation des minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que des pièces justificatives mentionnées dans ces actes;
 - c) le contrôle des actes dont l'inscription n'a pas été requise;
-- d) le contrôle de la tenue de la comptabilité et de la garde des valeurs confiées au notaire dans l'exercice de son ministère.
+- d) le contrôle de la tenue de la comptabilité et de la garde des valeurs confiées au notaire dans l'exercice de son ministère;
+- e) le contrôle des conditions prévues à l'article 23a lorsque le notaire exerce au sein d'une société de capitaux.
 
 <sup>2</sup> Demeurent réservés:
 
@@ -725,7 +768,8 @@ ordonne:
 - a) le notaire satisfait aux conditions d'exercice de la profession;
 - b) l'étude est organisée d'une manière compatible avec le devoir de confidentialité et l'accomplissement digne des fonctions ministérielles;
 - c) les actes sont conservés et les répertoires tenus selon les formes prescrites;
-- d) les actes en suspens reposent sur un motif pertinent.
+- d) les actes en suspens reposent sur un motif pertinent;
+- e) le notaire est toujours au bénéfice d'une assurance responsabilité civile suffisante.
 
 <sup>2</sup> En outre, l'inspecteur s'assure, par sondages, que le notaire:
 
@@ -1049,7 +1093,7 @@ Le recours à un interprète est nécessaire si le notaire ou un témoin maîtri
 
 <sup>3</sup> Le représentant agit selon une procuration produite ou à produire. Cette dernière est soumise aux formes prévues par le droit fédéral.
 
-<sup>4</sup> Lorsque le représentant agit pour une personne dont l'exercice des droits civils est restreint en vertu du droit de la tutelle, il produit la décision le désignant.
+<sup>4</sup> Lorsque le représentant agit pour une personne dont l'exercice des droits civils est restreint en vertu du droit de la protection de l'enfant et de l'adulte, il produit la décision le désignant.
 
 <sup>5</sup> La procuration ou l'autorisation est annexée à l'acte en original ou sous forme de copie authentifiée.
 
@@ -1278,11 +1322,11 @@ Le recours à un interprète est nécessaire si le notaire ou un témoin maîtri
 
 #### Art. 107
 
-**Auteur de l'expédition**
+**Auteur de l'expédition et de la copie conforme**
 
 <sup>1</sup> Seul peut délivrer l'expédition d'un acte le notaire qui en a signé la minute ou le notaire liquidateur.
 
-<sup>2</sup> L'archiviste délivre les expéditions des actes déposés aux archives, à l'exception des obligations hypothécaires au porteur.
+<sup>2</sup> L'archiviste cantonal délivre, au besoin avec le soutien du service en charge du registre foncier, les copies conformes des actes déposés auprès des Archives de l'Etat du Valais, à l'exception des obligations hypothécaires au porteur.
 
 #### Art. 108
 
@@ -1384,5 +1428,11 @@ Le recours à un interprète est nécessaire si le notaire ou un témoin maîtri
 **Délai pour réussir l’examen**
 
 <sup>1</sup> Les personnes admises au stage avant l'entrée en vigueur de la modification de la loi peuvent bénéficier de l'ancien régime pendant une période transitoire de 5 ans pour réussir l'examen.
+
+## T2 Disposition transitoire de la modification du 15 juin 2023
+
+#### Art. T2-1
+
+<sup>1</sup> Les instructions transmises aux candidats ayant commencé leur stage avant l'entrée en vigueur de la modification de l'article 12 alinéa 5 restent valables pour ceux-ci.
 
 RCV BO/Abl. 2/2005, 46/2005

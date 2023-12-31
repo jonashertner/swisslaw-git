@@ -4,13 +4,12 @@ number: "178.1"
 title: Notariatsgesetz
 short: NG
 language: de
-version: 2022-01-07
-valid_until: 2023-12-31
-version_adopted: 2021-09-09
+version: 2024-01-01
+version_adopted: 2023-06-15
 adopted: 2004-12-15
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/178.1"
-pdf: "https://lex.vs.ch/api/de/versions/3010/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3257/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3010/pdf_file"
 
 (NG)
 
-vom 15.12.2004 (Stand 07.01.2022)
+vom 15.12.2004 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -59,11 +58,16 @@ verordnet:
 
 #### Art. 3
 
-**Rechtsstatut des Notars**
+**Rechtsstatus des Notars**
 
 <sup>1</sup> Der Notar ist ein Organ der freiwilligen Gerichtsbarkeit und übt eine staatliche Funktion aus.
 
 <sup>2</sup> Er ist eine Amtsperson, die ihre Amtstätigkeit unabhängig unter staatlicher Aufsicht ausübt; er ist kein Staatsbeamter.
+
+<sup>3</sup> Ein Notar kann seinen Beruf ausüben als Angestellter:
+
+- a) eines anderen Notars, der im Kanton zugelassen ist;
+- b) einer Kapitalgesellschaft (Aktiengesellschaft oder Gesellschaft mit beschränkter Haftung) gemäss den in den Artikeln 23a und 23b genannten Bedingungen.
 
 #### Art. 4
 
@@ -73,15 +77,15 @@ verordnet:
 
 <sup>2</sup> Der in Anwendung des vorliegenden Gesetzes zur Berufsausübung zugelassene Notar kann Beurkundungen im ganzen Kantonsgebiet vornehmen.
 
-<sup>3</sup> Der Notar kann ausserhalb des Kantons einen Akt beurkunden, wenn er durch die zuständige Behörde des Beurkundungsortes dazu ermächtigt wurde.
+<sup>3</sup> Der Notar kann ausserhalb des Kantons einen Akt beurkunden, wenn er durch die zuständige Behörde des Beurkundungsortes oder durch das Gesetz dazu ermächtigt wurde.
 
-<sup>4</sup> Ohne diese Bewilligung kann er ausserhalb des Kantons die in seiner örtlichen Zuständigkeit liegenden dinglichen Grundstücksakte beurkunden.
+<sup>4</sup> …
 
 #### Art. 5
 
 **Zivilrechtliche Verantwortlichkeit - Grundsätze**
 
-<sup>1</sup> Der Notar haftet zivilrechtlich für jeden Schaden, den er entweder rechtswidrig, vorsätzlich oder fährlässig, oder in Verletzung seiner vertraglichen Verpflichtungen verursacht:
+<sup>1</sup> Der Notar haftet zivilrechtlich für jeden Schaden, den er entweder rechtswidrig, vorsätzlich oder fahrlässig oder in Verletzung seiner vertraglichen Verpflichtungen verursacht, auch dann, wenn er von einem anderen Notar angestellt ist oder wenn die Kanzlei in der Form einer Kapitalgesellschaft betrieben wird:
 
 - a) in Ausübung seiner amtlichen Tätigkeit;
 - b) in Ausübung seiner mit der amtlichen Tätigkeit zusammenhängenden beruflichen Tätigkeit.
@@ -167,7 +171,7 @@ verordnet:
 
 <sup>4</sup> Das Praktikum wird in der Kanzlei eines oder nacheinander mehrerer Notare des Kantons absolviert.
 
-<sup>5</sup> Ein Teil des Praktikums muss in einem Grundbuch- oder Handelsregisteramt absolviert werden. Im Übrigen kann ein Teil des Praktikums in einer kantonalen Dienststelle geleistet werden, welche einen direkt mit der notariellen Tätigkeit zusammenhängenden Aufgabenbereich hat.
+<sup>5</sup> Ein Teil des Praktikums muss je in einem Grundbuch- und in einem Handelsregisteramt absolviert werden. Im Übrigen kann ein Teil des Praktikums in einer kantonalen Dienststelle geleistet werden, deren Aufgabenbereich einen direkten Bezug zur amtlichen Tätigkeit des Notars hat.
 
 <sup>6</sup> Um zum Examen zugelassen zu werden, muss der Praktikant Weiterbildungskurse besucht haben, welche vom Notarenverband in Zusammenarbeit mit dem Departement organisiert werden. Die Finanzierung dieser Kurse erfolgt zu 30 Prozent durch die Praktikanten und zu 70 Prozent durch den Notarenverband.
 
@@ -231,12 +235,13 @@ verordnet:
 
 **Bedingungen für die Notariatsausübung**
 
-<sup>1</sup> Wer die Bewilligung zur Ausübung des Notariats verlangt, muss folgende Bedingungen erfüllen:
+<sup>1</sup> Wer die Bewilligung zur Ausübung des Notariats beantragt, muss folgende Bedingungen erfüllen:
 
 - a) Schweizerbürger sein und die volle Handlungsfähigkeit besitzen;
 - b) nicht strafrechtlich verurteilt sein wegen Handlungen, die mit der Ausübung oder der Würde des Berufs nicht zu vereinbaren sind und deren Eintrag im Strafregister nicht gelöscht ist;
 - c) sich weder im Konkurs befinden noch von einem provisorischen oder definitiven Verlustschein betroffen sein;
-- d) im Wallis wohnsässig sein und daselbst eine Kanzlei führen;
+- d) während der Ausübung der amtlichen Tätigkeit im Kanton wohnhaft sein; andernfalls wird davon ausgegangen, dass die Kanzlei als Wohnsitz für alle amtlichen und beruflichen Angelegenheiten gewählt wurde;
+- d<sup>bis</sup>) über eine Kanzlei im Kanton verfügen oder bei dieser angestellt sein;
 - e) Inhaber des Walliser Notariatsdiploms sein;
 - f) eine genügende Berufshaftpflichtversicherung abgeschlossen und die vom Gesetz vorgesehene Sicherheit geleistet haben;
 - g) Mitglied des Walliser Notarenverbandes sein.
@@ -245,9 +250,9 @@ verordnet:
 
 **Kanzlei**
 
-<sup>1</sup> Der Notar muss eine der Öffentlichkeit zugängliche und für die Berufsausübung geeignete Kanzlei führen, welche von jedem anderen Büro, Anwaltskanzleien ausgenommen, getrennt ist.
+<sup>1</sup> Der Notar muss über eine der Öffentlichkeit zugängliche und für die Berufsausübung geeignete Kanzlei verfügen, die von jedem anderen Büro, Anwaltskanzleien ausgenommen, getrennt ist.
 
-<sup>2</sup> Er kann eine zweite Kanzlei führen, wenn dass öffentliche Interesse dies rechtfertigt.
+<sup>2</sup> Er kann über eine zweite Kanzlei verfügen, wenn das öffentliche Interesse dies rechtfertigt.
 
 #### Art. 19
 
@@ -293,7 +298,7 @@ verordnet:
 - a) eines nebenamtlichen Lehrauftrags;
 - b) eines politischen Mandats in Teilzeit;
 - c) der Funktion des Gemeinderichters oder des Suppleanten eines Gerichtsmagistraten oder als Mitglied einer kommunalen, kantonalen oder eidgenössischen Verwaltungskommission;
-- d) der Funktion eines juristischen Schreibers einer Gemeindebehörde, einer interkommunalen Behörde oder der Vormundschaftskammer.
+- d) der Funktion eines juristischen Schreibers einer kommunalen oder interkommunalen Behörde und einer Kindes- und Erwachsenenschutzbehörde.
 
 <sup>2</sup> Sofern er in eigenem Namen handelt, ist der Notar im Übrigen ermächtigt, amtlich oder in privatem Auftrag Immobilien und Güter zu verwalten.
 
@@ -305,10 +310,36 @@ verordnet:
 
 <sup>2</sup> Jeder Notar übt seine Tätigkeit in eigener Verantwortung aus.
 
-<sup>3</sup> Im Falle der Kanzleigemeinschaft hat der Notar
+<sup>3</sup> Im Falle einer Kanzleigemeinschaft hat der Notar:
 
-- a) seine Verzeichnisse, Urkunden, die ihm anvertrauten handschriftlichen Testamente und andere Dokumente sowie die Kopien der im Original ausgehändigten Urkunden separat zu führen. Er bewahrt als Beilage zu seinen Urkunden alle darin erwähnten Belege auf;
-- b) die Buchhaltung seiner amtlichen und beruflichen Tätigkeit (Art. 42 und 43) getrennt zu führen.
+- a) seine Verzeichnisse, Urschriften, die ihm anvertrauten handschriftlichen Testamente und andere Dokumente sowie die Kopien der im Original ausgehändigten Urkunden separat zu führen. Er bewahrt als Beilage zu seinen Urkunden alle darin erwähnten Belege auf.
+- b) …
+
+#### Art. 23a
+
+**Kapitalgesellschaft – Ausübungsbedingungen**
+
+<sup>1</sup> Wird eine Kanzlei in Form einer Kapitalgesellschaft betrieben, finden die nachfolgenden Zusatzbestimmungen Anwendung:
+
+- a) am Kapital der Gesellschaft beteiligt sein dürfen ausschliesslich ein oder mehrere im Kanton Wallis zur Berufsausübung zugelassene Notare oder eine Gesellschaft, an der wiederum ausschliesslich ein oder mehrere im Kanton Wallis zur Berufsausübung zugelassene Notare beteiligt sind;
+- b) die Kapitalgesellschaft hat ihren Sitz im Kanton Wallis;
+- c) die Gesellschaft bezweckt die Erbringung von Dienstleistungen, die mit dem Betrieb einer Kanzlei verbunden sind;
+- d) nur der oder die am Kapital der Gesellschaft beteiligten Notare können im Verwaltungsrat Einsitz nehmen, die Funktion eines Generaldirektors innehaben oder als Geschäftsführer der Gesellschaft tätig sein;
+- e) ein Notar darf keine Beteiligungen an anderen Kapitalgesellschaften mit dem gleichen Zweck halten;
+- f) die Veräusserung von Stammanteilen oder Aktien unterliegt den in den Artikeln 685a und 685b OR vorgesehenen Beschränkungen;
+- g) die Gründungsurkunde und die Statuten der Kapitalgesellschaft wurden dem Departement zur Prüfung vorgelegt.
+
+<sup>2</sup> Das Reglement des Staatrates bezeichnet die weiteren zweckdienlichen Unterlagen und Dokumente, für die in Absatz 1 Buchstabe g vorgesehene Prüfung durch das Departement.
+
+<sup>3</sup> Wenn ein oder mehrere Notare ein Notariat in Form einer Kapitalgesellschaft betreiben und gleichzeitig den Beruf des Rechtsanwalts ausüben, können sie beide Berufstätigkeiten innerhalb der gleichen Kapitalgesellschaft ausüben.
+
+#### Art. 23b
+
+**Kapitalgesellschaft – Prüfung**
+
+<sup>1</sup> Der Notar meldet dem Departement unverzüglich alle Änderungen betreffend die in Artikel 23a vorgesehenen Bedingungen.
+
+<sup>2</sup> Die Einhaltung dieser Bedingungen wird im Rahmen der eingeschränkten Revision überprüft, zu der Notare, die ihre Tätigkeit im Rahmen einer Kapitalgesellschaft ausüben, verpflichtet sind. Der Notar übermittelt die Ergebnisse dieser Revision zusammen mit dem Revisionsbericht an das Departement.
 
 ### 1.2.3 Ende der Berufsausübung
 
@@ -348,13 +379,13 @@ verordnet:
 
 <sup>1</sup> Bei Beendigung der Berufsausübung muss der Notar:
 
-- a) seine Kanzlei schliessen;
+- a) seine Kanzlei schliessen oder seine Beteiligung an der Kapitalgesellschaft veräussern;
 - b) die nicht eingetragenen Urkunden innert nützlicher Frist erledigen;
 - c) die Rechnung der Kanzlei abschliessen;
 - d) dem Departement das amtliche Siegel und die Berufsausübungsbewilligung zurückgeben;
 - e) mit dem Inspektor und dem Liquidationsnotar zusammenarbeiten.
 
-<sup>2</sup> Er muss dem Inspektor innert der vom Departement angesetzten Frist die Verzeichnisse, die Urschriften, die handschriftlichen Testamente oder die anderen anvertrauten Akten, die Kopien der im Original ausgehändigten Urkunden sowie alle in diesen Urkunden erwähnten Belege aushändigen.
+<sup>2</sup> Er muss dem Staatsarchiv Wallis innert der vom Departement festgelegten Frist und unter Aufsicht des Inspektors die Verzeichnisse, die Urschriften, die ihm anvertrauten handschriftlichen Testamente oder anderen Dokumente, die Kopien der im Original ausgehändigten Urkunden sowie alle darin erwähnten Belege aushändigen; die Akten müssen in Archivschachteln in der Reihenfolge der Nummerierung der Verzeichnisse versorgt werden.
 
 <sup>3</sup> Im Todesfall müssen die Rechtsnachfolger alle Handlungen hinsichtlich der Auflösung der Kanzlei zulassen.
 
@@ -541,17 +572,19 @@ verordnet:
 
 **Buchführungspflicht**
 
-<sup>1</sup> Der Notar führt Buchhaltung über seine amtliche und berufliche Tätigkeit, wie auch über jeglichen Zahlungsverkehr für einen Dritten; er führt getrennte Konti über die Gebühren, die Auslagen, die Kostenvorschüsse, die Auslagenvorschüsse und die Beträge, die er aufgrund seiner mit der amtlichen Tätigkeit zusammenhängenden beruflichen Tätigkeit einkassiert.
+<sup>1</sup> Jegliche notarielle Tätigkeit ist Gegenstand einer Buchführung in kaufmännischer Form. Darin ist der gesamte Zahlungsverkehr für Dritte in einer separaten Rubrik auszuweisen. Sie wird per 31. Dezember abgeschlossen.
 
-<sup>2</sup> Die dem Notar ohne Bezug zu seiner amtlichen Tätigkeit anvertrauten Mittel dürfen nicht in der Buchhaltung der Kanzlei enthalten sein.
+<sup>2</sup> Die dem Notar anvertrauten Mittel werden unter ihrer Rubrik auf ein Klientengelder-Konto der Kanzlei einbezahlt.
 
 <sup>3</sup> Der Notar achtet darauf, dass zu Gunsten des Kanzleikontos eine Verrechnungsausschlussklausel seitens der Bank besteht.
 
 <sup>4</sup> Die Buchhaltungsbelege sind während zehn Jahren aufzubewahren. Der Staatsrat kann spezielle Vorschriften über die Buchführung und die dem Notar in Ausübung seiner amtlichen Tätigkeit zur Aufbewahrung anvertrauten Werte erlassen.
 
+<sup>5</sup> Die Buchhaltung wird alle zwei Jahre einer Prüfung im Sinne der eingeschränkten Revision gemäss Artikel 727a OR und gemäss den im Reglement aufgeführten Grundsätzen unterzogen. Die eingeschränkte Revision wird von einem zugelassenen Revisor vorgenommen. Auf diese Revision kann nicht verzichtet werden.
+
 #### Art. 43
 
-**Depot**
+**Klientengelder-Konti**
 
 <sup>1</sup> Der Gegenwert der dem Notar aus irgendeinem Grund anvertrauten Gelder muss jederzeit in liquider Form verfügbar sein (Kasse, Kontokorrentkonto oder Postscheckkonto). Er kann auf einem speziellen Konto deponiert werden, welches vom Notarenverband eröffnet wurde.
 
@@ -587,7 +620,7 @@ verordnet:
 - d) die Leistung eines Kostenvorschusses für seine Entschädigung;
 - e) einen Auslagenvorschuss für die geschuldeten öffentlichen Abgaben.
 
-<sup>2</sup> Vorbehalten bleiben die gestützt auf einen Auftrag geschuldeten Honorare für nicht amtliche Tätigkeiten. Diese müssen Gegenstand einer eigenen Abrechnung sein.
+<sup>2</sup> Vorbehalten bleibt die Entschädigung der nicht amtlichen Tätigkeiten des Notars.
 
 <sup>3</sup> Der Staatsrat erlässt den Tarif der Gebühren und Auslagen im Rahmen des vorliegenden Gesetzes.
 
@@ -657,6 +690,15 @@ verordnet:
 - b) die Stundengebühr nach Zeitaufwand;
 - c) die Auslagen.
 
+#### Art. 54a
+
+**Abtretung des Anspruchs auf Gebühren und Auslagen**
+
+<sup>1</sup> Der Notar kann seinen Anspruch auf Gebühren und Auslagen wie folgt abtreten:
+
+- a) an einen anderen Notar der gleichen Kanzlei, deren Angestellter er ist;
+- b) an die Kapitalgesellschaft, bei der er angestellt ist.
+
 #### Art. 55
 
 **Zahlung der Gebühren, Stundengebühren und Auslagen**
@@ -694,7 +736,8 @@ verordnet:
 - a) die Zulassungsbedingungen zum Beruf;
 - b) die Führung der Verzeichnisse, die Aushändigung von Abschriften und die Aufbewahrung der Urschriften, handschriftlichen Testamente oder die anderen anvertrauten Akten, die Kopien der im Original ausgehändigten Urkunden sowie die in diesen Urkunden erwähnten Belege;
 - c) die Kontrolle der Urkunden, deren Eintragung nicht verlangt wurde;
-- d) die Kontrolle der Buchführung und der Aufbewahrung der im Rahmen der amtlichen Tätigkeit anvertrauten Wertsachen.
+- d) die Kontrolle der Buchführung und der Aufbewahrung der im Rahmen der amtlichen Tätigkeit anvertrauten Wertsachen;
+- e) die Kontrolle der gemäss Artikel 23a vorgesehenen Bedingungen, falls der Notar seine Tätigkeit in einer Kapitalgesellschaft ausübt.
 
 <sup>2</sup> Vorbehalten bleiben:
 
@@ -725,7 +768,8 @@ verordnet:
 - a) der Notar die Bedingungen für die Berufsausübung erfüllt;
 - b) die Organisation der Kanzlei, die Geheimhaltung und eine würdige Ausübung der amtlichen Tätigkeit gewährleistet sind;
 - c) die Urkunden aufbewahrt und die Verzeichnisse in der vorgeschriebenen Form geführt werden;
-- d) für die nicht eingetragenen Urkunden sachliche Gründe vorliegen.
+- d) für die nicht eingetragenen Urkunden sachliche Gründe vorliegen;
+- e) der Notar stets über eine genügende Haftpflichtversicherung verfügt.
 
 <sup>2</sup> Im Übrigen prüft der Inspektor stichprobenweise ob der Notar:
 
@@ -1049,7 +1093,7 @@ Der Beizug eines Dolmetschers ist erforderlich, wenn der Notar oder ein diese Sp
 
 <sup>3</sup> Der Vertreter handelt aufgrund einer vorgelegten oder vorzulegenden Vollmacht. Diese untersteht den im Bundesrecht vorgesehenen Formvorschriften.
 
-<sup>4</sup> Wenn der Vertreter für eine Person handelt, deren Rechtsfähigkeit im Sinne des Vormundschaftsrechts eingeschränkt ist, so legt er den ihn ernennenden Entscheid vor.
+<sup>4</sup> Handelt der Vertreter für eine Person, deren Handlungsfähigkeit im Sinne des Kindes- und Erwachsenenschutzrechts eingeschränkt ist, so legt er den ihn ernennenden Entscheid vor.
 
 <sup>5</sup> Die Vollmacht wird der Urkunde im Original oder in beglaubigter Kopie beigelegt.
 
@@ -1278,11 +1322,11 @@ Der Beizug eines Dolmetschers ist erforderlich, wenn der Notar oder ein diese Sp
 
 #### Art. 107
 
-**Verfasser der Abschriften**
+**Verfasser der Abschriften und beglaubigten Kopien**
 
 <sup>1</sup> Nur der Notar, der die Urschrift unterzeichnet hat, oder der Liquidationsnotar können Abschriften aushändigen.
 
-<sup>2</sup> Der Archivar händigt Abschriften der archivierten Urkunden aus, mit Ausnahme der Inhaberobligationen mit Grundpfandverschreibung.
+<sup>2</sup> Der Staatsarchivar händigt, allenfalls mit der Unterstützung der für das Grundbuch zuständigen Dienststelle, beglaubigte Kopien der beim Walliser Staatsarchiv hinterlegten Urkunden aus, mit Ausnahme der Inhaberobligationen mit Grundpfandverschreibung.
 
 #### Art. 108
 
@@ -1384,5 +1428,11 @@ Der Beizug eines Dolmetschers ist erforderlich, wenn der Notar oder ein diese Sp
 **Frist für das Bestehen der Prüfung**
 
 <sup>1</sup> Personen, die vor Inkrafttreten der Gesetzesänderung zum Praktikum zugelassen wurden, können während einer Übergangsfrist von 5 Jahren das alte Recht in Anspruch nehmen, um die Prüfung zu bestehen.
+
+## T2 Übergangsbestimmung zur Änderung vom 15. Juni 2023
+
+#### Art. T2-1
+
+<sup>1</sup> Anweisungen, die Kandidaten erteilt wurden, die ihr Praktikum vor dem Inkrafttreten der Änderung von Artikel 12 Absatz 5 begonnen haben, behalten für sie Gültigkeit.
 
 CSW BO/Abl. 2/2005, 46/2005
