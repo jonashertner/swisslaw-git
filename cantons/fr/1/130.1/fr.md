@@ -4,13 +4,12 @@ number: "130.1"
 title: Loi sur la justice
 short: LJ
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-10-10
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2010-05-31
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/130.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7484/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7926/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Justice – L
 
 (LJ)
 
-du 31.05.2010 (version entrée en vigueur le 01.01.2022)
+du 31.05.2010 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -567,6 +566,21 @@ Décrète:
 
 <sup>3</sup> Dans le Tribunal plénier, la voix du président ou de la présidente est prépondérante en cas d'égalité.
 
+#### Art. 46a
+
+**Correspondant ou correspondante à la protection des données**
+
+<sup>1</sup> Le Tribunal cantonal désigne un correspondant ou une correspondante à la protection des données au sens de l'article 45 de la loi du 12 octobre 2023 sur la protection des données (LPrD).
+
+<sup>2</sup> Il ou elle a pour tâches de:
+
+- a) conseiller et sensibiliser les cours et les services centraux du Tribunal cantonal en matière de protection des données;
+- b) collaborer à l'élaboration des analyses d'impact au sens de la législation sur la protection des données;
+- c) traiter les demandes des personnes concernées relatives au traitement de leurs données;
+- d) répondre aux demandes de l'Autorité cantonale de surveillance en matière de protection des données.
+
+<sup>3</sup> Le correspondant ou la correspondante à la protection des données n'intervient pas dans les affaires juridictionnelles en cours.
+
 #### Art. 47
 
 **Unité de la jurisprudence**
@@ -841,6 +855,21 @@ Décrète:
 <sup>1</sup> Les procureur-e-s spécialisés en matière de délinquance juvénile forment le Ministère public des mineurs. Ils exercent toutes les tâches qui incombent à ce dernier conformément à la procédure pénale applicable aux mineurs. Ils peuvent notamment former opposition contre les ordonnances pénales et approuvent les ordonnances de non-entrée en matière, de suspension et de classement.
 
 <sup>2</sup> Ils peuvent également conduire des procédures contre des adultes.
+
+#### Art. 71a
+
+**Correspondant ou correspondante à la protection des données**
+
+<sup>1</sup> Le Ministère public désigne un correspondant ou une correspondante à la protection des données au sens de l'article 45 LPrD.
+
+<sup>2</sup> Il ou elle a pour tâches de:
+
+- a) conseiller et sensibiliser le personnel du Ministère public en matière de protection des données;
+- b) collaborer à l'élaboration des analyses d'impact au sens de la législation sur la protection des données;
+- c) traiter les demandes des personnes concernées relatives au traitement de leurs données;
+- d) répondre aux demandes de l'Autorité cantonale de surveillance en matière de protection des données.
+
+<sup>3</sup> Le correspondant ou la correspondante à la protection des données n'intervient pas dans les affaires juridictionnelles en cours.
 
 ### 4.4.4 Tribunal des mesures de contrainte
 
@@ -1567,9 +1596,9 @@ Décrète:
 
 <sup>1</sup> Après la clôture de la procédure pénale, le traitement et la conservation des données sont régis par les dispositions fédérales et au surplus:
 
-- a) par la loi cantonale sur la protection des données (LPrD);
-- b) par le règlement cantonal sur la sécurité des données personnelles (RSD);
-- c) par les directives du Tribunal cantonal sur le préarchivage des dossiers judiciaires.
+- a) par la législation cantonale sur la protection des données;
+- b) par la législation cantonale sur la sécurité de l'information;
+- c) par la législation cantonale sur l'archivage, y compris les directives du Tribunal cantonal dans ce domaine.
 
 #### Art. 141
 

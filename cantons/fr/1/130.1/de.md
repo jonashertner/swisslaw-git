@@ -4,13 +4,12 @@ number: "130.1"
 title: Justizgesetz
 short: JG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-10-10
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2010-05-31
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/130.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7484/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7926/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Justizgesetz
 
 (JG)
 
-vom 31.05.2010 (Fassung in Kraft getreten am 01.01.2022)
+vom 31.05.2010 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -567,6 +566,21 @@ beschliesst:
 
 <sup>3</sup> Im Gesamtgericht entscheidet bei Stimmengleichheit die Stimme der vorsitzenden Person.
 
+#### Art. 46a
+
+**Ansprechperson für den Datenschutz**
+
+<sup>1</sup> Das Kantonsgericht bezeichnet eine Ansprechperson für den Datenschutz im Sinne von Artikel 45 des Gesetzes vom 12. Oktober 2023 über den Datenschutz (DSchG).
+
+<sup>2</sup> Sie hat folgende Aufgaben:
+
+- a) sie berät und sensibilisiert die Höfe und die zentralen Dienste des Kantonsgerichts im Bereich des Datenschutzes;
+- b) sie arbeitet bei der Erstellung von Folgenabschätzungen im Sinne der Datenschutzgesetzgebung mit;
+- c) sie bearbeitet Anfragen von betroffenen Personen zur Bearbeitung ihrer Daten;
+- d) sie beantwortet Anfragen der kantonalen Aufsichtsbehörde im Datenschutzbereich.
+
+<sup>3</sup> Die Ansprechperson für den Datenschutz greift nicht in laufende Gerichtsverfahren ein.
+
 #### Art. 47
 
 **Einheitliche Rechtsprechung**
@@ -841,6 +855,21 @@ beschliesst:
 <sup>1</sup> Die auf dem Gebiet der Jugendkriminalität spezialisierten Staatsanwältinnen und Staatsanwälte bilden die Jugendstaatsanwaltschaft. Sie nehmen alle Befugnisse wahr, die nach der Jugendstrafprozessordnung der Jugendstaatsanwaltschaft zustehen. Sie können insbesondere gegen Strafbefehle Einsprache erheben und Nichtanhandnahme-, Sistierungs- und Einstellungsverfügungen genehmigen.
 
 <sup>2</sup> Sie können auch Verfahren gegen Erwachsene führen.
+
+#### Art. 71a
+
+**Ansprechperson für den Datenschutz**
+
+<sup>1</sup> Die Staatsanwaltschaft ernennt eine Ansprechperson für den Datenschutz im Sinne von Artikel 45 DSchG.
+
+<sup>2</sup> Sie hat folgende Aufgaben:
+
+- a) sie berät und sensibilisiert das Personal der Staatsanwaltschaft im Bereich des Datenschutzes;
+- b) sie arbeitet bei der Erstellung von Folgenabschätzungen im Sinne der Datenschutzgesetzgebung mit;
+- c) sie bearbeitet Anfragen von betroffenen Personen zur Bearbeitung ihrer Daten;
+- d) sie beantwortet Anfragen der kantonalen Aufsichtsbehörde im Datenschutzbereich.
+
+<sup>3</sup> Die Ansprechperson für den Datenschutz greift nicht in laufende Gerichtsverfahren ein.
 
 ### 4.4.4 Zwangsmassnahmengericht
 
@@ -1567,9 +1596,9 @@ beschliesst:
 
 <sup>1</sup> Die Bearbeitung und Aufbewahrung von Daten nach Abschluss des Strafverfahrens richtet sich nach Bundesrecht und überdies nach:
 
-- a) dem Gesetz über den Datenschutz (DSchG);
-- b) dem Reglement über die Sicherheit der Personendaten (DSR);
-- c) den Richtlinien des Kantonsgerichts über die Vorarchivierung von Gerichtsakten.
+- a) der kantonalen Datenschutzgesetzgebung;
+- b) der kantonalen Gesetzgebung zur Informationssicherheit;
+- c) der kantonalen Gesetzgebung über die Archivierung, einschliesslich der einschlägigen Richtlinien des Kantonsgerichts.
 
 #### Art. 141
 
