@@ -4,13 +4,12 @@ number: "661.312.56"
 title: "Ordonnance sur les frais professionnels *"
 short: OFrP
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-08
+version: 2024-01-01
+version_adopted: 2023-10-18
 adopted: 2000-10-18
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.312.56"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2376/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2873/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2376/pdf_file"
 
 (OFrP)
 
-du 18.10.2000 (état au 01.01.2022)
+du 18.10.2000 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -100,7 +99,7 @@ arrête:
 
 <sup>4</sup> La déduction des frais de trajet occasionnés par le retour au domicile durant la pause-repas est limitée au montant de la déduction totale accordée pour repas pris hors du domicile.
 
-<sup>5</sup> Au titre de frais de déplacement entre le domicile et le lieu de travail, la personne contribuable peut déduire au maximum 6700 francs.
+<sup>5</sup> La déduction maximale pour les frais de déplacement entre le domicile et le lieu de travail est définie à l'article 31, alinéa 1, lettre a LI.
 
 #### Art. 7a
 

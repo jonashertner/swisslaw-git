@@ -4,13 +4,12 @@ number: "661.312.56"
 title: Verordnung über die Berufskosten
 short: "Berufskostenverordnung, BKV"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-08
+version: 2024-01-01
+version_adopted: 2023-10-18
 adopted: 2000-10-18
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.312.56"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2376/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2873/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2376/pdf_file"
 
 (Berufskostenverordnung, BKV)
 
-vom 18.10.2000 (Stand 01.01.2022)
+vom 18.10.2000 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -100,7 +99,7 @@ beschliesst:
 
 <sup>4</sup> Für die Hin- und Rückfahrt über Mittag ist der Fahrkostenabzug auf die Höhe des vollen Abzugs für auswärtige Verpflegung beschränkt.
 
-<sup>5</sup> Als Kosten für Fahrten zwischen Wohn- und Arbeitsstätte können maximal 6700 Franken geltend gemacht werden.
+<sup>5</sup> Die maximal abziehbaren Kosten für Fahrten zwischen Wohn- und Arbeitsstätte richten sich nach Artikel 31 Absatz 1 Buchstabe a StG.
 
 #### Art. 7a
 
