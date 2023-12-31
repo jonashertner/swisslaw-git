@@ -4,10 +4,10 @@ number: "837.11"
 title: Verordnung zum Einführungsgesetz zum Arbeitslosenversicherungsgesetz (VO EG AVIG)
 short: VO EG AVIG
 language: de
-nachtrag: "81"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2013-03-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-837_11-2013_03_05-2013_07_01-081.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-837_11-2013_03_05-2013_07_01-123.html"
 text: pdf
 ---
 
@@ -21,14 +21,15 @@ Der Regierungsrat beschliesst:
 
 [^t-1]: OS 68, 214; Begründung siehe ABl 2013-03-22.
 [^t-2]: Inkrafttreten: 1. Juli 2013.
-[^t-3]: SR 837.0.
-[^t-4]: LS 837.1.
+[^t-3]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 559; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
+[^t-4]: SR 837.0.
+[^t-5]: LS 837.1.
 
 #### § 1
 
 **Zuständigkeit**
 
-Das Amt für Wirtschaft und Arbeit (AWA) ist für den Vollzug des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^t-3] und für die Leistungen gemäss § 8 des Einführungsgesetzes zum Arbeitslosenversicherungsgesetz vom 27. September 1999 (EG AVIG)[^t-4] zuständig.
+Das Amt für Arbeit (AFA)[^t-3] ist für den Vollzug des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^t-4] und für die Leistungen gemäss § 8 des Einführungsgesetzes zum Arbeitslosenversicherungsgesetz vom 27. September 1999 (EG AVIG)[^t-5] zuständig.
 
 [^1-1]: LS 837.1.
 
@@ -50,13 +51,15 @@ Der Kanton kann unter folgenden Voraussetzungen Subventionen an ein Programm aus
 
 - c. Es weist einen Bildungsanteil von mindestens 20% eines Vollzeitpensums auf.
 
-- d. Die Programmanbieterin oder der Programmanbieter verfügt über eine Zertifizierung des Schweizerischen Verbandes der Organisatoren von Arbeitsmarktmassnahmen oder einen vergleichbaren, vom AWA anerkannten Qualitätsstandard.
+- d. Die Programmanbieterin oder der Programmanbieter verfügt über eine Zertifizierung des Schweizerischen Verbandes der Organisatoren von Arbeitsmarktmassnahmen oder einen vergleichbaren, vom AFA[^3-1] anerkannten Qualitätsstandard.
+
+[^3-1]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 559; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
 
 #### § 4
 
 **c. Entscheid**
 
-Das AWA entscheidet unter Einbezug der zuständigen Gemeindeorgane, welche Programme subventioniert werden.
+Das AFA[^3-1] entscheidet unter Einbezug der zuständigen Gemeindeorgane, welche Programme subventioniert werden.
 
 #### § 5
 
@@ -64,20 +67,22 @@ Das AWA entscheidet unter Einbezug der zuständigen Gemeindeorgane, welche Progr
 
 <sup>1</sup> Der Beitrag des Kantons beträgt 50% der anrechenbaren Programmkosten.
 
-<sup>2</sup> Das AWA legt die anrechenbaren Programmkosten pro Teilnehmerin und Teilnehmer mit dem Entscheid gemäss § 4 fest.
+<sup>2</sup> Das AFA[^5-1] legt die anrechenbaren Programmkosten pro Teilnehmerin und Teilnehmer mit dem Entscheid gemäss § 4 fest.
 
-<sup>3</sup> Das AWA regelt das Nähere über die Abrechnung der Programmkosten.
+<sup>3</sup> Das AFA[^5-1] regelt das Nähere über die Abrechnung der Programmkosten.
 
 **1**
 
-- 1\. 7. 13 - 81 § 6. <sup>1</sup> Über die Teilnahme einer Person an einem Programm entscheidet das AWA unter Einbezug der zuständigen Gemeindeorgane.
+- 1\. 1. 24 - 123 § 6. <sup>1</sup> Über die Teilnahme einer Person an einem Programm entscheidet das AFA[^5-1] unter Einbezug der zuständigen Gemeindeorgane.
 
 **Programmteilnahme**
 
 <sup>2</sup> Der Kanton leistet Beiträge während insgesamt längstens sechs Monaten innerhalb einer Periode von zwei Jahren.
 
+[^5-1]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 559; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
+
 #### § 7
 
 **Qualitätssicherung**
 
-Das AWA sorgt in Zusammenarbeit mit den Programmanbietenden für die Qualitätssicherung.
+Das AFA[^5-1] sorgt in Zusammenarbeit mit den Programmanbietenden für die Qualitätssicherung.
