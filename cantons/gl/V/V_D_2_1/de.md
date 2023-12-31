@@ -3,20 +3,19 @@ canton: GL
 number: V D/2/1
 title: Entschädigungsreglement für den Verwaltungsrat der Glarnersach
 language: de
-version: 2018-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-08-21
+version: 2024-01-01
+version_adopted: 2023-12-07
 adopted: 2011-01-19
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-D.2.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1959/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Entschädigungsreglement für den Verwaltungsrat der Glarnersach
 
-Vom 19.01.2011 (Stand 01.01.2018)
+Vom 19.01.2011 (Stand 01.01.2024)
 
 Der Verwaltungsrat,
 
@@ -36,14 +35,14 @@ beschliesst:
 
 **Fixum**
 
-<sup>1</sup> Die Aufwendungen für Akteneinsicht, -studium sowie Sitzungsvor- und -nachbearbeitung werden mit folgenden Fixentschädigungen pro Jahr abgegolten:
+<sup>1</sup> Die Aufwendungen für Akteneinsicht, -studium sowie Sitzungsvor- und -⁠nachbearbeitung werden mit folgenden Fixentschädigungen pro Jahr abgegolten:
 
-- a. Verwaltungsratspräsident: — 10 000 Franken
-- b. Mitglieder des Verwaltungsrates: — 3000 Franken
+- a. Verwaltungsratspräsident: — 11 000 Franken
+- b. Mitglieder des Verwaltungsrates: — 4500 Franken
 
 <sup>2</sup> Für Mitglieder des Verwaltungsrates werden zur Fixentschädigung folgende Zuschläge ausgerichtet:
 
-- a. Vizepräsident: — 4000 Franken
+- a. Vizepräsident: — 5500 Franken
 - b. Ausschusspräsident (ständiger Ausschuss): — 3000 Franken
 - c. Mitglieder eines ständigen Ausschusses — 1000 Franken
 
@@ -51,7 +50,7 @@ beschliesst:
 
 **Sitzungsgeld**
 
-<sup>1</sup> Zusätzlich zur Fixentschädigung wird für jede Arbeitssitzung sowie weitere angeordnete Einsätze zu Gunsten der Glarnersach ein Sitzungsgeld von 150 Franken pro Stunde ausbezahlt.
+<sup>1</sup> Zusätzlich zur Fixentschädigung wird für jede Arbeitssitzung und Telefonkonferenz sowie weitere angeordnete Einsätze zu Gunsten der Glarnersach ein Sitzungsgeld von 160 Franken pro Stunde ausbezahlt.
 
 #### Art. 4
 
