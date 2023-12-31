@@ -4,11 +4,11 @@ title: Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialver
 short: ATSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-510-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2002-510-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20220101/de"
 
 (ATSG)
 
-vom 6. Oktober 2000 (Stand am 1. Januar 2022)
+vom 6. Oktober 2000 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 112 Absatz 1, 114 Absatz 1 und 117 Absatz 1 der Bundes
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)
 [^ingress-3]: [BBl 1991 II 910](https://fedlex.data.admin.ch/eli/fga/1991/2_910__)
 [^ingress-4]: [BBl 1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__)
@@ -144,7 +144,7 @@ Arbeitgeber ist, wer Arbeitnehmerinnen und Arbeitnehmer beschäftigt.
 
 <sup>2</sup> Ihren gewöhnlichen Aufenthalt hat eine Person an dem Ort, an dem sie während längerer Zeit lebt, selbst wenn diese Zeit zum Vornherein befristet ist.
 
-[^13-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 13a
 
@@ -380,7 +380,7 @@ Die Verwaltungs- und Rechtspflegebehörden des Bundes, der Kantone, Bezirke, Kre
 
 [^32-1]: Die Berichtigung der RedK der BVers vom 3. Nov. 2021, publiziert am 10. Nov. 2021 betrifft nur den italienischen Text ([AS 2021 658](https://fedlex.data.admin.ch/eli/oc/2021/658)).
 [^32-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^32-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^32-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^32-4]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 33
@@ -541,7 +541,7 @@ Der Bundesrat regelt:
 - c. die Anforderungen an die Spezialistinnen und Spezialisten, die mit der Observation beauftragt werden.
 
 [^43a-1]: Eingefügt durch Ziff. I des BG vom 16. März 2018 (Gesetzliche Grundlage für die Überwachung von Versicherten), in Kraft seit 1. Okt. 2019 ([AS 2019 2829](https://fedlex.data.admin.ch/eli/oc/2019/519); [BBl 2017 7403](https://fedlex.data.admin.ch/eli/fga/2017/2097)[7421](https://fedlex.data.admin.ch/eli/fga/2017/2099)).
-[^43a-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^43a-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 43b
 
@@ -615,7 +615,7 @@ Der Bundesrat:
 
 <sup>4</sup> Hat eine versicherte Person wissentlich mit unwahren Angaben oder in anderer rechtswidriger Weise eine Versicherungsleistung erwirkt oder zu erwirken versucht, so kann ihr der Versicherungsträger die Mehrkosten auferlegen, die ihm durch den Beizug von Spezialistinnen und Spezialisten, die zur Bekämpfung des unrechtmässigen Leistungsbezugs mit der Durchführung der Observationen beauftragt wurden, entstanden sind.[^45-1] [^45-2]
 
-[^45-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^45-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^45-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 46
@@ -727,7 +727,7 @@ Verfügungen und Einspracheentscheide sind vollstreckbar, wenn:
 
 <sup>2</sup> Vollstreckbare Verfügungen und Einspracheentscheide, die auf Geldzahlung oder Sicherheitsleistung gerichtet sind, stehen vollstreckbaren Urteilen im Sinne von Artikel 80 des Bundesgesetzes vom 11. April 1889[^54-1] über Schuldbetreibung und Konkurs gleich.
 
-[^54-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^54-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 55
 
@@ -739,7 +739,7 @@ Verfügungen und Einspracheentscheide sind vollstreckbar, wenn:
 
 <sup>2</sup> Das Verfahren vor einer Bundesbehörde richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968, ausser wenn sie über sozialversicherungsrechtliche Leistungen, Forderungen und Anordnungen entscheidet.
 
-[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^55-2]: Eingefügt durch Anhang Ziff. 106 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 3. Abschnitt: Rechtspflegeverfahren
@@ -799,7 +799,7 @@ Das Verfahren vor dem kantonalen Versicherungsgericht bestimmt sich unter Vorbeh
 - h. Die Entscheide werden, versehen mit einer Begründung und einer Rechtsmittelbelehrung sowie mit den Namen der Mitglieder des Versicherungsgerichts schriftlich eröffnet.
 - i. Die Revision von Entscheiden wegen Entdeckung neuer Tatsachen oder Beweismittel oder wegen Einwirkung durch Verbrechen oder Vergehen muss gewährleistet sein.
 
-[^61-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^61-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^61-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^61-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
@@ -814,7 +814,7 @@ Das Verfahren vor dem kantonalen Versicherungsgericht bestimmt sich unter Vorbeh
 <sup>2</sup> Für die Vollstreckbarkeit der vorinstanzlichen Beschwerdeentscheide ist Artikel 54 sinngemäss anwendbar.
 
 [^62-1]: Fassung gemäss Anhang Ziff. 106 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^62-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^62-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## 5. Kapitel: Koordinationsregeln
 
@@ -880,7 +880,7 @@ Hilflosenentschädigungen werden nach den Bestimmungen des jeweiligen Einzelgese
 - a. von der Militärversicherung oder der Unfallversicherung;
 - b. von der Invalidenversicherung oder der Alters- und Hinterlassenenversicherung.
 
-[^66-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^66-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 67
 
@@ -926,7 +926,7 @@ Vorleistungspflichtig sind:
 <sup>3</sup> Die berechtigte Person hat sich bei den in Frage kommenden Sozialversicherungen anzumelden.
 
 [^70-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^70-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^70-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 71
 
@@ -1009,7 +1009,7 @@ Leistungen gleicher Art sind namentlich:
 
 Der Bundesrat bestimmt die Stellen, die damit beauftragt sind, für die einzelnen Sozialversicherungen die Aufgaben, insbesondere als zuständige Behörde, Verbindungsstelle und zuständiger Träger, gemäss den Erlassen in der für die Schweiz verbindlichen Fassung von Anhang II des Freizügigkeitsabkommens[^75a-1] und gemäss anderen internationalen Abkommen über die soziale Sicherheit wahrzunehmen.
 
-[^75a-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^75a-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 75b
 
@@ -1027,7 +1027,7 @@ Der Bundesrat bestimmt die Stellen, die damit beauftragt sind, für die einzelne
 
 <sup>2</sup> Der Bundesrat regelt die Gebühren im Rahmen von Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^75c-1]. Er hört vorgängig die betroffenen Stellen an. Er berücksichtigt bei der Bemessung der Gebühren den Umfang der Benutzung der Infrastruktur.
 
-[^75c-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^75c-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## 6. Kapitel: Verschiedene Bestimmungen
 
@@ -1037,7 +1037,22 @@ Der Bundesrat bestimmt die Stellen, die damit beauftragt sind, für die einzelne
 
 <sup>1</sup> Der Bundesrat überwacht die Durchführung der Sozialversicherungen und erstattet hierüber regelmässig Bericht.
 
-<sup>2</sup> In Fällen wiederholter schwerer Missachtung der gesetzlichen Vorschriften durch einen Versicherungsträger ordnet der Bundesrat die notwendigen Massnahmen zur Wiederherstellung der gesetzmässigen Verwaltung an.
+<sup>1bis</sup> Der Bericht enthält eine Darstellung der Systemrisiken der verschiedenen Sozialversicherungen und erläutert die strategische Steuerung der Sozialversicherungen durch den Bundesrat.[^76-1]
+
+<sup>2</sup> In Fällen wiederholter schwerer Missachtung der gesetzlichen Vorschriften durch einen Versicherungsträger ordnet der Bundesrat oder die von ihm bezeichnete Aufsichtsbehörde die notwendigen Massnahmen zur Wiederherstellung der gesetzmässigen Verwaltung der Versicherung an.[^76-2]
+
+[^76-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^76-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art.76a
+
+**Elektronischer Datenaustausch**[^76a-1]
+
+<sup>1</sup> Der Bundesrat regelt den elektronischen Austausch von Sozialversicherungsdaten unter den schweizerischen Versicherungsträgern und zwischen diesen und den Bundesbehörden. Die Bestimmungen über die Datenbekanntgabe in den einzelnen Sozialversicherungsgesetzen bleiben vorbehalten.
+
+<sup>2</sup> Der Bundesrat kann die Regelung des elektronischen Austausches den Aufsichtsbehörden übertragen.
+
+[^76a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 77
 
@@ -1059,8 +1074,8 @@ Die Träger der Sozialversicherung haben den Aufsichtsbehörden alle Auskünfte 
 
 <sup>5</sup> Personen, die als Organe oder Funktionäre eines Versicherungsträgers, einer Revisions- oder Kontrollstelle handeln oder denen durch die Einzelgesetze bestimmte Aufgaben übertragen wurden, unterliegen der gleichen strafrechtlichen Verantwortlichkeit wie Behördemitglieder und Beamte nach dem Strafgesetzbuch[^78-2].
 
-[^78-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^78-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^78-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^78-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 79
 
@@ -1072,10 +1087,10 @@ Die Träger der Sozialversicherung haben den Aufsichtsbehörden alle Auskünfte 
 
 <sup>3</sup> Der Versicherungsträger kann in Strafverfahren wegen Verletzung von Artikel 148*a* des Strafgesetzbuches und Artikel 87 des Bundesgesetzes vom 20. Dezember 1946[^79-4] über die Alters- und Hinterlassenenversicherung die Rechte einer Privatklägerschaft wahrnehmen.[^79-5]
 
-[^79-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^79-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^79-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^79-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^79-3]: Fassung gemäss Anhang 1 Ziff. II 28 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^79-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^79-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^79-5]: Eingefügt durch Ziff. I des BG vom 16. März 2018 (Gesetzliche Grundlage für die Überwachung von Versicherten), in Kraft seit 1. Okt. 2019 ([AS 2019 2829](https://fedlex.data.admin.ch/eli/oc/2019/519); [BBl 2017 7403](https://fedlex.data.admin.ch/eli/fga/2017/2097)[7421](https://fedlex.data.admin.ch/eli/fga/2017/2099)).
 
 #### Art. 80

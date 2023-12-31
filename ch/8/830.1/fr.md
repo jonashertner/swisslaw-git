@@ -4,20 +4,22 @@ title: Loi fédérale du 6 octobre 2000 sur la partie générale du droit des as
 short: LPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-510-20220101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-510-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la partie générale du droit des assurances sociales
+# Loi fédérale sur la partie générale du droit des assurances sociales\*
 
-(LPGA)
+(LPGA)[^t-1]
 
-du 6 octobre 2000 (État le 1<sup>er</sup> janvier 2022)
+du 6 octobre 2000 (État le 1<sup>er</sup> janvier 2024)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +27,7 @@ vu les art. 112, al. 1, 114, al. 1, et 117, al. 1, de la Constitution[^ingress-1
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)
 [^ingress-3]: [FF 1991 II 888](https://fedlex.data.admin.ch/eli/fga/1991/2__888_)
 [^ingress-4]: [FF 1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_)
@@ -145,7 +147,7 @@ Est réputé employeur celui qui emploie des salariés.
 
 <sup>2</sup> Une personne est réputée avoir sa résidence habituelle au lieu où elle séjourne[^13-2] un certain temps même si la durée de ce séjour est d’emblée limitée.
 
-[^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^13-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 #### Art. 13a
@@ -381,12 +383,11 @@ Les autorités administratives et judiciaires de la Confédération, des cantons
 
 <sup>2bis</sup> Si les organes d’une assurance sociale ou les autorités administratives et judiciaires de la Confédération, des cantons, des districts, des arrondissements ou des communes apprennent dans l’exercice de leurs fonctions qu’un assuré perçoit des prestations indues, ils peuvent en informer les organes des assurances sociales concernées ainsi que ceux des institutions de prévoyance touchées.[^32-2]
 
-<sup>3</sup> Les organismes visés à l’art. 75*a* se communiquent les données nécessaires pour accomplir les tâches qui leur sont assignées en vertu de l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^32-3] (accord sur la libre circulation des personnes) et d’autres traités internationaux en matière de sécurité sociale.[^32-4]
+<sup>3</sup> Les organismes visés à l’art. 75*a* se communiquent les données nécessaires pour accomplir les tâches qui leur sont assignées en vertu de l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (accord sur la libre circulation des personnes) et d’autres conventions internationales en matière de sécurité sociale.[^32-3]
 
 [^32-1]: Erratum de la CdR de l’Ass. féd. du 3 nov. 2021, publié le 10 nov. 2021, ne concerne que le texte italien ([RO 2021 658](https://fedlex.data.admin.ch/eli/oc/2021/658)).
 [^32-2]: Introduit par l’annexe ch. 1 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^32-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-4]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^32-3]: Introduit par le ch. I de la LF du 21 juin 2019 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 33
 
@@ -547,7 +548,7 @@ Le Conseil fédéral règle:
 - c. les exigences à l’endroit des spécialistes chargés de l’observation.
 
 [^43a-1]: Introduit par le ch. I de la LF du 16 mars 2018 (Base légale pour la surveillance des assurés), en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2829](https://fedlex.data.admin.ch/eli/oc/2019/519); [FF 2017 7003](https://fedlex.data.admin.ch/eli/fga/2017/2097)[7021](https://fedlex.data.admin.ch/eli/fga/2017/2099)).
-[^43a-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^43a-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 43b
 
@@ -730,7 +731,7 @@ Les décisions et les décisions sur opposition sont exécutoires lorsque:
 
 <sup>2</sup> Les décisions et les décisions sur opposition exécutoires qui portent condamnation à payer une somme d’argent ou à fournir des sûretés sont assimilées aux jugements exécutoires au sens de l’art. 80 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^54-1].
 
-[^54-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^54-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 55
 
@@ -742,7 +743,7 @@ Les décisions et les décisions sur opposition sont exécutoires lorsque:
 
 <sup>2</sup> La procédure devant une autorité fédérale est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative, sauf lorsqu’il s’agit de prestations, créances et injonctions relevant du droit des assurances sociales.
 
-[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^55-2]: Introduit par l’annexe ch. 106 de la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Section 3 Contentieux
@@ -802,7 +803,7 @@ Sous réserve de l’art. 1, al. 3, de la loi fédérale du 20 décembre 1968 su
 - h. les jugements contiennent les motifs retenus, l’indication des voies de recours ainsi que les noms des membres du tribunal et sont notifiés par écrit;
 - i. les jugements sont soumis à révision si des faits ou des moyens de preuve nouveaux sont découverts ou si un crime ou un délit a influencé le jugement.
 
-[^61-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^61-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^61-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^61-3]: Introduite par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
@@ -817,7 +818,7 @@ Sous réserve de l’art. 1, al. 3, de la loi fédérale du 20 décembre 1968 su
 <sup>2</sup> L’art. 54 s’applique par analogie à l’exécution des jugements rendus par les autorités de recours précédant le Tribunal fédéral.
 
 [^62-1]: Nouvelle teneur selon l’annexe ch. 106 de la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^62-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^62-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## Chapitre 5 Règles de coordination
 
@@ -883,7 +884,7 @@ Les allocations pour impotents sont, selon les dispositions de la loi spéciale 
 - a. l’assurance militaire ou l’assurance-accidents;
 - b. l’AVS ou l’AI.
 
-[^66-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^66-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 67
 
@@ -929,7 +930,7 @@ Sont tenues de prendre provisoirement le cas à leur charge:
 <sup>3</sup> L’ayant droit adresse sa demande aux institutions d’assurances sociales entrant en ligne de compte.
 
 [^70-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^70-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^70-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 71
 
@@ -1010,11 +1011,11 @@ Sont notamment des prestations de même nature:
 
 #### Art. 75a
 
-**Organismes responsables**
+**Organismes responsables**[^75a-1]
 
-Le Conseil fédéral désigne les organismes chargés d’accomplir les tâches assignées aux diverses assurances sociales, notamment en qualité d’autorité compétente, d’organisme de liaison ou d’institution compétente, en vertu des actes pertinents dans la version qui lie la Suisse de l’annexe II de l’accord sur la libre circulation des personnes[^75a-1] et en vertu d’autres traités internationaux en matière de sécurité sociale.
+Le Conseil fédéral désigne les organismes chargés d’accomplir les tâches assignées aux diverses assurances sociales, notamment en qualité d’autorité compétente, d’organisme de liaison ou d’institution compétente, en vertu des actes pertinents dans la version qui lie la Suisse de l’annexe II de l’accord sur la libre circulation des personnes et en vertu d’autres conventions internationales en matière de sécurité sociale.
 
-[^75a-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^75a-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 75b
 
@@ -1032,7 +1033,7 @@ Le Conseil fédéral désigne les organismes chargés d’accomplir les tâches 
 
 <sup>2</sup> Le Conseil fédéral fixe les émoluments conformément à l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^75c-1]. Il consulte au préalable les organismes concernés. Il tient compte de l’étendue de l’utilisation de l’infrastructure lors du calcul des émoluments.
 
-[^75c-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^75c-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Chapitre 6 Dispositions diverses
 
@@ -1042,7 +1043,22 @@ Le Conseil fédéral désigne les organismes chargés d’accomplir les tâches 
 
 <sup>1</sup> Le Conseil fédéral surveille la mise en œuvre des assurances sociales et en rend régulièrement compte.
 
-<sup>2</sup> En cas de violation grave et répétée des dispositions légales par un assureur, le Conseil fédéral ordonne les mesures nécessaires au rétablissement d’une gestion de l’assurance conforme à la loi.
+<sup>1bis</sup> Le rapport rédigé à cet effet contient une présentation des risques systémiques des différentes assurances sociales et expose le pilotage stratégique des assurances sociales par le Conseil fédéral.[^76-1]
+
+<sup>2</sup> En cas de violation grave et répétée des dispositions légales par un assureur, le Conseil fédéral ou l’autorité de surveillance qu’il a désignée ordonne les mesures nécessaires au rétablissement d’une gestion de l’assurance conforme à la loi.[^76-2]
+
+[^76-1]: Introduit par l’annexe ch. 2 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^76-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 76a
+
+**Échange électronique de données**[^76a-1]
+
+<sup>1</sup> Le Conseil fédéral règle l’échange électronique de données de sécurité sociale entre les assureurs suisses et entre ceux-ci et les autorités fédérales. Les dispositions relatives à la communication des données dans les différentes lois sur les assurances sociales sont réservées.
+
+<sup>2</sup> Le Conseil fédéral peut déléguer aux autorités de surveillance la compétence de régler l’échange électronique de données.
+
+[^76a-1]: Introduit par l’annexe ch. 2 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 77
 
@@ -1064,8 +1080,8 @@ Les assureurs sociaux sont tenus de fournir aux autorités de surveillance tous 
 
 <sup>5</sup> Les personnes agissant en tant qu’organes ou agents d’un assureur, d’un organe de révision ou de contrôle ou auxquelles sont confiées des tâches dans le cadre des lois spéciales, sont soumises à la même responsabilité pénale que les membres des autorités et les fonctionnaires, selon les dispositions du code pénal[^78-2].
 
-[^78-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^78-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^78-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^78-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 79
 
@@ -1077,10 +1093,10 @@ Les assureurs sociaux sont tenus de fournir aux autorités de surveillance tous 
 
 <sup>3</sup> En cas de procédure pénale pour violation de l’art. 148*a* CP ou de l’art. 87 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^79-4], l’assureur peut exercer les droits d’une partie plaignante.[^79-5]
 
-[^79-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^79-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^79-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^79-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^79-3]: Nouvelle teneur selon le ch. II 28 de l’annexe 1 au code de procédure pénale du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^79-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^79-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^79-5]: Introduit par le ch. I de la LF du 16 mars 2018 (Base légale pour la surveillance des assurés), en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2829](https://fedlex.data.admin.ch/eli/oc/2019/519); [FF 2017 7003](https://fedlex.data.admin.ch/eli/fga/2017/2097)[7021](https://fedlex.data.admin.ch/eli/fga/2017/2099)).
 
 #### Art. 80
