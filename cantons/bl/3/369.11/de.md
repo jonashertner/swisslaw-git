@@ -3,20 +3,19 @@ canton: BL
 number: "369.11"
 title: Verordnung über den Swisslos Sportfonds
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-08
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2020-01-21
 in_force: 2020-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/369.11"
-pdf: "https://bl.clex.ch/api/de/versions/3786/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3847/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Swisslos Sportfonds
 
-Vom 21.01.2020 (Stand 01.01.2021)
+Vom 21.01.2020 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -51,6 +50,8 @@ beschliesst:
 
 <sup>2</sup> Beiträge, die aufgrund falscher oder irreführender Angaben zu Unrecht ausgerichtet oder zweckentfremdet verwendet wurden, können vom Regierungsrat zurückgefordert werden.
 
+<sup>3</sup> Bei einem Verstoss gegen die Ethik-Charta des Schweizer Sports können zugesprochene Beiträge vom Regierungsrat gekürzt oder zurückgefordert werden.
+
 #### § 4
 
 **Verwaltung**
@@ -78,7 +79,7 @@ beschliesst:
 - a. kantonale Sportverbände oder Sportorganisationen und ihre Vereine mit Sitz im Kanton Basel-Landschaft, sofern sie der Swiss Olympic Association angeschlossen sind;
 - b. regionale Sportverbände oder Sportorganisationen, sofern aus der Namensgebung der Bezug zum Kanton Basel-Landschaft klar hervorgeht;
 - c. Einzelpersonen mit zivilrechtlichem Wohnsitz im Kanton Basel-Landschaft;
-- d. gemeinnützige Institutionen oder privatrechtliche Organisationen, die mit Sport oder Sportbetrieb im Zusammenhang stehen;
+- d. …
 - e. Gemeinden des Kantons Basel-Landschaft.
 
 #### § 7
@@ -144,32 +145,13 @@ beschliesst:
 - b. der Baselbieter Sportpreis sowie die Anerkennungs- und Förderpreise gemäss der Sportpreisverordnung[^12-1] inklusive die mit der Preisverleihung entstehenden Ausgaben;
 - c. spezielle Aktionen und Pilotprojekte.
 
+<sup>2</sup> Aus dem Swisslos Sportfonds können Beiträge geleistet werden, wenn Baselbieter Sportorganisationen aufgrund von behördlichen Massnahmen wegen Ereignissen im Bereich der höheren Gewalt Mehraufwände entstehen.
+
 [^12-1]: [SGS 369.12](https://bl.clex.ch/data/369.12/de)
 
 #### § 12a
 
-**Ausserordentliche Beiträge im Jahr 2020 im Zusammenhang mit der Corona-Pandemie**
-
-<sup>1</sup> Geraten vorwiegend auf Freiwilligenarbeit basierende Sportorganisationen gemäss § 6 Abs. 1 Bst. a und b aufgrund der behördlichen Massnahmen zur Bekämpfung der Corona-Pandemie in finanzielle Schwierigkeiten, kann das Sportamt zur Deckung des aufgrund der Massnahmen entstandenen Schadens nicht rückzahlbare Beiträge in 2 Kategorien und in nachfolgender Höhe ausrichten:
-
-- a. Sportstützpunkte und Nationalliga-Vereine erhalten einen Beitrag in Höhe des nicht anderweitig gedeckten Schadens, maximal 50 % des ordentlichen Jahresbeitrages 2020 aus dem Swisslos Sportfonds; die Anhänge 1 und 4 der Verordnung bleiben vorbehalten;
-- b. Sportverbände und Sportvereine erhalten einen Beitrag von maximal 80 % des nicht anderweitig gedeckten Schadens, maximal CHF 10'000.–.
-
-<sup>2</sup> Der Beitrag gemäss Abs. 1 Bst. a wird nur ausgerichtet, wenn ein Sportstützpunkt oder ein Nationalliga-Verein glaubhaft machen kann, dass:
-
-- a. sein finanzieller Schaden höher ist als der ordentliche Jahresbeitrag, der für das Jahr 2020 aus den Mitteln des Swisslos Sportfonds geleistet worden ist und
-- b. er im Zusammenhang mit dem finanziellen Schaden alle zumutbaren Selbsthilfemassnahmen ergriffen hat.
-
-<sup>3</sup> Der Beitrag gemäss Abs. 1 Bst. b wird nur ausgerichtet, wenn ein Sportverband oder ein Sportverein glaubhaft machen kann, dass:
-
-- a. der finanzielle Schaden mindestens CHF 30'000.– oder mehr als 1/3 seines Jahresbudgets beträgt und
-- b. er im Zusammenhang mit dem finanziellen Schaden alle zumutbaren Selbsthilfemassnahmen ergriffen hat.
-
-<sup>4</sup> Die Beiträge gemäss Abs. 1 sind subsidiär zu allen nichtrückzahlbaren Unterstützungsleistungen des Bundes, der Kantone und der Gemeinden, Versicherungsleistungen privater Anbieter sowie Selbsthilfemassnahmen im Zusammenhang mit der Corona-Pandemie.
-
-<sup>5</sup> Beitragsgesuche sind elektronisch und begründet mit den notwendigen Beilagen bis spätestens am 30. November 2020 beim Sportamt einzureichen.
-
-<sup>6</sup> Das Sportamt regelt das Nähere in einer Richtlinie.
+**…**
 
 #### § 13
 
