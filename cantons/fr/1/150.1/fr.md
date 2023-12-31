@@ -4,13 +4,13 @@ number: "150.1"
 title: Code de procédure et de juridiction administrative
 short: CPJA
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-09
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-10-12
 adopted: 1991-05-23
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/150.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7482/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7924/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Code de procédure et de juridiction administrative (CPJA)
 
 (CPJA)
 
-du 23.05.1991 (version entrée en vigueur le 01.01.2022)
+du 23.05.1991 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -729,6 +729,16 @@ Décrète:
 <sup>2</sup> Les décisions qui peuvent faire l'objet d'un recours au Tribunal fédéral doivent répondre aux exigences de l'article 112 de la loi fédérale du 17 juin 2005 sur le Tribunal fédéral.
 
 <sup>3</sup> Le Tribunal cantonal peut rendre ses jugements en ne communiquant que le dispositif. Il informe les parties que la rédaction de la motivation intégrale peut être demandée dans les trente jours dès la notification de celui-ci.
+
+#### Art. 66a
+
+**Soutien automatisé à la prise de décision**
+
+<sup>1</sup> Si une autorité utilise des algorithmes pour l'aider à former son raisonnement en fait ou en droit lors de la prise d'une décision, elle est tenue d'en faire mention systématiquement dans la partie de la décision qui contient la motivation.
+
+<sup>2</sup> A la demande du ou de la destinataire de la décision, l'autorité lui communique sous une forme intelligible la logique et les critères des algorithmes utilisés, à moins qu'un intérêt public prépondérant ne s'y oppose.
+
+<sup>3</sup> La demande n'a pas d'effet suspensif, sauf décision contraire de l'autorité, et elle n'entraine aucune interruption de délai.
 
 #### Art. 67
 
@@ -1646,6 +1656,21 @@ Décrète:
 <sup>2</sup> Le service en charge de l'informatique et des télécommunications[^A14-1] fixe les moyens techniques à mettre en œuvre.
 
 [^A14-1]: Actuellement: Service de l'informatique et des télécommunications.
+
+#### Art. A1-4a
+
+**Décisions individuelles automatisées**
+
+<sup>1</sup> Si une décision au sens de l'article 4 est prise sur le seul fondement d'un traitement de données personnelles automatisé, elle doit obligatoirement être présentée comme telle.
+
+<sup>2</sup> A la demande de la personne faisant l'objet d'une décision automatisée, l'organe qui a émis la décision lui communique sous une forme intelligible la logique et les critères à la base de celle-ci, à moins qu'un intérêt public prépondérant ne s'y oppose.
+
+<sup>3</sup> Sauf dans les cas où il n'existe pas de droit d'être entendu avant la décision, toute personne faisant l'objet d'une décision individuelle automatisée peut, dans les 30 jours, déposer une réclamation auprès de l'organe qui l'a émise, lorsque:
+
+- a) la décision est selon toute vraisemblance entachée d'une erreur non juridique, et
+- b) l'erreur en question est imputable à la machine qui l'a rendue.
+
+<sup>4</sup> L'organe qui a émis la décision procède à un réexamen sommaire et gratuit des opérations de traitement accomplies.
 
 #### Art. A1-5
 

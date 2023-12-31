@@ -4,13 +4,13 @@ number: "150.1"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-09
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-10-12
 adopted: 1991-05-23
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/150.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7482/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7924/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gesetz über die Verwaltungsrechtspflege (VRG)
 
 (VRG)
 
-vom 23.05.1991 (Fassung in Kraft getreten am 01.01.2022)
+vom 23.05.1991 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -729,6 +729,16 @@ beschliesst:
 <sup>2</sup> Entscheide, die der Beschwerde an das Bundesgericht unterliegen, müssen den Anforderungen von Artikel 112 des Bundesgesetzes vom 17. Juni 2005 über das Bundesgericht entsprechen.
 
 <sup>3</sup> Das Kantonsgericht kann seine Urteile durch blosse Mitteilung der Entscheidformel abgeben. Es informiert die Parteien darüber, dass die Redaktion der gesamten Begründung innert 30 Tagen nach der Eröffnung verlangt werden kann.
+
+#### Art. 66a
+
+**Automatisierte Unterstützung bei der Entscheidungsfindung**
+
+<sup>1</sup> Verwendet eine Behörde Algorithmen zur Unterstützung ihrer faktischen oder rechtlichen Argumentation bei der Entscheidfindung, so muss sie dies im Begründungsteil des Entscheids systematisch erwähnen.
+
+<sup>2</sup> Die Behörde teilt der Adressatin oder dem Adressaten des Entscheids auf Gesuch hin die Logik und die Kriterien der verwendeten Algorithmen in verständlicher Form mit, sofern dem nicht ein überwiegendes öffentliches Interesse entgegensteht.
+
+<sup>3</sup> Das Gesuch hat keine aufschiebende Wirkung, sofern die Behörde nichts anderes beschliesst, und bewirkt keine Fristunterbrechung.
 
 #### Art. 67
 
@@ -1646,6 +1656,21 @@ beschliesst:
 <sup>2</sup> Das Amt, das für Informatik und Telekommunikation zuständig ist [^A14-1], legt die technischen Mittel, die eingesetzt werden müssen, fest.
 
 [^A14-1]: Heute: Amt für Informatik und Telekommunikation.
+
+#### Art. A1-4a
+
+**Automatisierte Einzelentscheide**
+
+<sup>1</sup> Wenn ein Entscheid im Sinne von Artikel 4 allein auf der Grundlage einer automatisierten Bearbeitung von Personendaten getroffen wird, muss er zwingend als solcher dargestellt werden.
+
+<sup>2</sup> Auf Gesuch der Person, die von einem automatisierten Entscheid betroffen ist, teilt ihr das Organ, das den Entscheid gefällt hat, in verständlicher Form das Funktionieren und die Kriterien der Algorithmen, die dem Entscheid zugrundeliegen, mit, sofern dem nicht ein überwiegendes öffentliches Interesse entgegensteht.
+
+<sup>3</sup> Ausser in Fällen, in denen es kein Recht auf Anhörung vor dem Entscheid gibt, kann jede Person, die von einem automatisierten Einzelentscheid betroffen ist, innerhalb von 30 Tagen eine Beschwerde beim Organ einreichen, das den Entscheid gefällt hat, wenn:
+
+- a) der Entscheid höchstwahrscheinlich einen nichtjuristischen Fehler enthält und
+- b) ein Fehler der Maschine, die den Entscheid gefällt hat, zuzurechnen ist.
+
+<sup>4</sup> Das Organ, das den Entscheid gefällt hat, überprüft die durchgeführten Bearbeitungsoperationen summarisch und kostenlos.
 
 #### Art. A1-5
 
