@@ -3,13 +3,13 @@ canton: BS
 number: RiE 162.110
 title: Personalreglement
 language: de
-version: 2023-10-01
-valid_until: 2023-12-31
-version_adopted: 2023-07-04
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2002-07-16
 in_force: 2002-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5966/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6099/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5966/pdf_file"
 
 Personalreglement | Riehen: Einwohnergemeinde
 
-Vom 16. Juli 2002 (Stand 1. Oktober 2023)
+Vom 16. Juli 2002 (Stand 1. Januar 2024)
 
 Der Gemeinderat Riehen
 
@@ -44,7 +44,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Der Gemeinderat kann das vorliegende Reglement durch Beschlüsse weiter ausführen.
 
-<sup>2</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter, die Generalsekretärin oder der Generalsekretär sowie die Abteilungsleitenden und die Leitung des Fachbereichs Personal können das vorliegende Reglement in ihrem Verantwortungsbereich durch generelle Weisungen konkretisieren.
+<sup>2</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter, die Generalsekretärin oder der Generalsekretär sowie die Abteilungsleitenden und die Leitung Personal können das vorliegende Reglement in ihrem Verantwortungsbereich durch generelle Richtlinien und Weisungen konkretisieren.
 
 <sup>3</sup> Beschlüsse und generelle Weisungen unterliegen nicht der Publikation, sind aber den betroffenen Mitarbeiterinnen und Mitarbeitern in geeigneter Form zur Kenntnis zu bringen. Sie dürfen nichts enthalten, was der Personalordnung, dem vorliegenden Reglement oder den individuellen Zusicherungen im Arbeitsvertrag widerspricht.
 
@@ -80,13 +80,17 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Bearbeitung von Personendaten und Akteneinsicht**
 
-<sup>1</sup> Personendaten von Mitarbeiterinnen und Mitarbeitern sowie von Stellenbewerberinnen und Stellenbewerbern dürfen bearbeitet werden, soweit sie für die Beurteilung der Eignung, der Leistung und des Verhaltens im Rahmen des Arbeitsverhältnisses notwendig und geeignet sind.
+<sup>1</sup> Personendaten von Mitarbeiterinnen und Mitarbeitern sowie von Stellenbewerberinnen und Stellenbewerber dürfen bearbeitet werden, soweit eine Bearbeitung für die Beurteilung der Eignung, der Leistung und des Verhaltens sowie für die Lohnbuchhaltung im Rahmen des Arbeitsverhältnisses notwendig ist.
 
-<sup>2</sup> Das Akteneinsichtsrecht der Mitarbeiterinnen und Mitarbeiter in ihre Personalakten richtet sich nach dem kantonalen Datenschutzrecht.
+<sup>1<sup>bis</sup></sup> Besondere Personendaten der Mitarbeiterinnen und Mitarbeiter dürfen bearbeitet werden, soweit eine Datenbearbeitung im Zusammenhang mit dem Betrieblichen Gesundheitsmanagement, mit der Abwicklung der Sozialversicherungsleistungen oder mit personalrechtlichen Massnahmen notwendig ist.
+
+<sup>1<sup>ter</sup></sup> Die Arbeitgeberin betreibt ein digitales Personalinformationssystem, in welchem auch besondere Personendaten bearbeitet werden dürfen. Die Mitarbeiterinnen und Mitarbeiter des Personalbereichs und der Lohnbuchhaltung sowie die direkten Vorgesetzten, die Anstellungsinstanz und die für den technischen Support verantwortliche Stelle haben Zugriff auf das Personalinformationssystem, soweit dies für ihre Aufgabenerfüllung notwendig ist.
+
+<sup>2</sup> Das Akteneinsichtsrecht der Mitarbeiterinnen und Mitarbeiter in ihre Personalakten richtet sich nach dem kantonalen Informations- und Datenschutzrecht.
 
 <sup>3</sup> Unterlagen mit Personendaten sind bei Nichtanstellung zurückzugeben oder zu vernichten. Vorbehalten bleibt eine weitere Aufbewahrung mit Zustimmung der betroffenen Person.
 
-<sup>4</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter regelt gemeinsam mit der Leitung des Fachbereichs Personal die Aufbewahrung von Personalakten und das Zugriffsrecht in einer Richtlinie.
+<sup>4</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter regelt gemeinsam mit der Leitung Personal in einer Richtlinie die datenschutzrechtlichen Vorgaben für das digitale Personalinformationssystem, insbesondere die Datenbearbeitung, die Zugriffsberechtigungen, die Aufbewahrung und die Löschung von Personaldaten.
 
 #### § 5b
 
@@ -118,25 +122,25 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Der Gemeinderat entscheidet über die Begründung, Änderung und Beendigung der Arbeitsverhältnisse der Verwaltungsleiterin oder des Verwaltungsleiters, der Generalsekretärin oder des Generalsekretärs, der Abteilungsleitenden sowie der Leitungen der Stabsstellen.
 
-<sup>2</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter sowie die Generalsekretärin oder der Generalsekretär entscheiden in ihrem Zuständigkeitsbereich über die Begründung, Änderung und Beendigung der Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter, welche direkt den Abteilungsleitenden und den Leitungen der Stabsstellen unterstellt sind. Bei der Anstellung, Änderung oder Beendigung von Arbeitsverhältnissen von Mitarbeiterinnen und Mitarbeitern, welche eine Kostenstelle leiten oder als Produktverantwortliche tätig sind, ist die Zustimmung des zuständigen Mitglieds des Gemeinderats notwendig.
+<sup>2</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter sowie die Generalsekretärin oder der Generalsekretär entscheiden in ihrem Zuständigkeitsbereich über die Begründung, Änderung und Beendigung der Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter, welche direkt den Abteilungsleitenden und den Leitungen der Stabsstellen unterstellt sind. Bei der Begründung, Änderung oder Beendigung von Arbeitsverhältnissen der Stellvertretungen von Abteilungs- oder Stabsleitenden sowie weiteren Schlüsselstellen, ist die Zustimmung des zuständigen Mitglieds des Gemeinderats notwendig.
 
-<sup>3</sup> Die Abteilungsleitenden entscheiden über die Begründung, Änderung und Beendigung der Arbeitsverhältnisse des übrigen Personals der Verwaltung.
+<sup>3</sup> Die Abteilungsleitenden entscheiden über die Begründung, Änderung und Beendigung der Arbeitsverhältnisse des übrigen Personals der Verwaltung. Vorbehalten bleiben abweichende Regelungen im Schulrecht.
 
-<sup>4</sup> Die Anstellungsinstanzen treffen ihren Entscheid unter Beizug der direkten Vorgesetzten der betroffenen Mitarbeiterinnen und Mitarbeiter sowie der Leitung des Fachbereichs Personal.
+<sup>4</sup> Die Anstellungsinstanzen treffen ihren Entscheid unter Beizug der direkten Vorgesetzten der betroffenen Mitarbeiterinnen und Mitarbeiter sowie der Leitung Personal.
 
 #### § 8
 
 **Vertrauensärztliche Untersuchung**
 
-<sup>1</sup> Die vertrauensärztliche Untersuchung dient der Abklärung, ob die betreffende Bewerberin oder der betreffende Bewerber zur Ausübung der entsprechenden Stelle geeignet ist. Sie wird in der Regel bei jeder Anstellung einer neuen Mitarbeiterin oder eines neuen Mitarbeiters angeordnet. Eine Anordnung muss erfolgen, wenn Zweifel an der gesundheitlichen Eignung einer Bewerberin oder eines Bewerbers bestehen, wenn die zu besetzende Stelle mit erheblicher körperlicher Arbeit verbunden ist oder in anderer Weise ein guter gesundheitlicher Allgemeinzustand der Bewerberin oder des Bewerbers geboten erscheint.
+<sup>1</sup> Im Rahmen der Stellenbewerbungen dienen die vertrauensärztlichen Untersuchungen der Abklärung, ob sich Stellenbewerberinnen und Stellenbewerber zur Ausübung der entsprechenden Stelle eignen, insbesondere, wenn Zweifel an der gesundheitlichen Eignung bestehen, wenn die zu besetzende Stelle mit erheblicher körperlicher Arbeit verbunden ist oder wenn in anderer Weise ein guter gesundheitlicher Allgemeinzustand der Stellenbewerbenden für die Aufgabenerfüllung notwendig ist.
 
 <sup>2</sup> Kann das Ergebnis der Untersuchung nicht vor Ablauf der Probezeit erlangt werden, verlängert sich die Probezeit bis zum Zeitpunkt der Kenntnisnahme des Ergebnisses, längstens jedoch bis zu sechs Monaten.
 
 <sup>3</sup> Die Anordnung einer vertrauensärztlichen Untersuchung nach Ablauf der Probezeit ist möglich, wenn Zweifel an der Eignung der Mitarbeiterin oder des Mitarbeiters zur weiteren Ausübung der entsprechenden Stelle bestehen. Die Anordnung ist in jedem Fall möglich, wenn die Arbeitnehmerin oder der Arbeitnehmer mehr als drei Monate innerhalb eines Jahres durch Unfall oder Krankheit verhindert ist oder begründete Zweifel an der Richtigkeit eingereichter Arztzeugnisse bestehen.
 
-<sup>4</sup> Die Anordnung einer vertrauensärztlichen Untersuchung erfolgt durch die Anstellungsinstanz. Bei Anordnung und Kenntnisnahme vertrauensärztlicher Untersuchungen wahrt die Anstellungsinstanz die Persönlichkeitsrechte der oder des Betroffenen bestmöglich.
+<sup>4</sup> Die Anordnung einer vertrauensärztlichen Untersuchung erfolgt durch die für das Betriebliche Gesundheitsmanagement zuständige Person nach Rücksprache mit der Anstellungsinstanz. Bei Anordnung einer vertrauensärztlichen Untersuchung wahren die Anstellungsinstanz und alle Beteiligten die Persönlichkeitsrechte der betroffenen Person bestmöglich.
 
-<sup>5</sup> Eine vertrauensärztliche Untersuchung wird in der Regel vom amtsärztlichen Dienst des Kantons durchgeführt. Ihr Ergebnis geht einem privaten Zeugnis der Mitarbeiterin oder des Mitarbeiters vor.
+<sup>5</sup> Die Arbeitgeberin beauftragt eine externe Stelle aus dem Bereich Arbeitsmedizin zur Durchführung von vertrauensärztlichen Untersuchungen. Ihr Ergebnis geht einem privaten Zeugnis der Mitarbeiterin oder des Mitarbeiters vor.
 
 <sup>6</sup> Vorbehalten bleibt die Anordnung einer vertrauensärztlichen Untersuchung zum Abschluss von Versicherungen gemäss § 26 Personalordnung und zur Wahrung der entsprechenden Ansprüche.
 
@@ -166,7 +170,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Probezeit**
 
-<sup>1</sup> Während der Probezeit kann das Arbeitsverhältnis von beiden Seiten ohne Angabe von Gründen schriftlich gekündigt werden. Mitarbeiterinnen und Mitarbeiter haben das Recht, innert 5 Tagen nach Erhalt der Kündigung von der Anstellungsinstanz eine begründete Verfügung zu verlangen. In der schriftlichen Mitteilung sind sie auf dieses Recht hinzuweisen.
+<sup>1</sup> Während der Probezeit kann das Arbeitsverhältnis von beiden Seiten ohne Angabe von Gründen schriftlich gekündigt werden.
 
 <sup>2</sup> Rekurse gegen Kündigungen im Probeverhältnis haben keine aufschiebende Wirkung.
 
@@ -204,7 +208,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>2</sup> Die Jahresarbeitszeit dient der effizienten, termin- und qualitätsgerechten Erfüllung von Aufträgen und Dienstleistungen der Gemeinde. Zugleich soll sie den Mitarbeiterinnen und Mitarbeitern erlauben, ihre Arbeitszeit und ihren Tagesablauf flexibler zu gestalten.
 
-<sup>3</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter und die Leitung des Fachbereichs Personal können das Jahresarbeitszeitmodell durch generelle Weisungen weiter konkretisieren.
+<sup>3</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter und die Leitung Personal können das Jahresarbeitszeitmodell durch generelle Weisungen weiter konkretisieren.
 
 <sup>4</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter kann für gewisse Funktionen oder Funktionsgruppen Weisungen erlassen, die vom Grundmodell der Jahresarbeitszeit abweichen. Im Schulbereich regelt das Schulrecht die Zuständigkeiten für abweichende Regelungen.
 
@@ -224,9 +228,9 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Zeiterfassung**
 
-<sup>1</sup> Die Arbeitszeit wird mittels eines Zeiterfassungsgeräts registriert oder auf einem Formular festgehalten.
+<sup>1</sup> Die Arbeitszeit wird mittels eines Zeiterfassungssystems erfasst.
 
-<sup>2</sup> Bei Missbrauch können Mitarbeiterinnen und Mitarbeiter von den direkten Vorgesetzten verpflichtet werden, ihre Arbeitsleistung zu festen Zeiten zu erbringen.
+<sup>2</sup> Bei Missbrauch können Mitarbeiterinnen und Mitarbeiter von den direkten Vorgesetzten verpflichtet werden, ihre Arbeitsleistung zu festen Zeiten zu erbringen. Vorbehalten bleiben weitere personalrechtliche Massnahmen.
 
 #### § 18
 
@@ -438,7 +442,9 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Barvergütung**
 
-<sup>1</sup> Können Mehrleistungen im Ausnahmefall in den nächsten 12 Monaten nicht kompensiert werden, kann die Gemeindeverwalterin oder der Gemeindeverwalter bzw. die Gemeindepräsidentin oder der Gemeindepräsident als Anstellungsinstanz auf schriftlichen Antrag der Vorgesetzten und nach Rücksprache mit der Leitung des Fachbereichs Personal eine Barvergütung bewilligen.
+<sup>1</sup> Können Mehrleistungen im Ausnahmefall in den nächsten 12 Monaten nicht kompensiert werden, kann die Verwaltungsleiterin oder der Verwaltungsleiter oder die Generalsekretärin oder der Generalsekretär bzw. die Gemeindepräsidentin oder der Gemeindepräsident als Anstellungsinstanz auf schriftlichen Antrag der Vorgesetzten und nach Rücksprache mit der Leitung Personal eine Barvergütung bewilligen.
+
+<sup>1<sup>bis</sup></sup> Die einzelnen Gemeinderatsmitglieder werden über Bewilligungen von Barvergütungen in ihrem Ressort informiert.
 
 <sup>2</sup> …
 
@@ -519,7 +525,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Das Gesuch um bezahlten Urlaub wird nach Massgabe von § 14 Abs. 3 Personalordnung und § 37[^32-1] dieses Reglements (Weiterbildung) bewilligt.
 
-<sup>2</sup> Über die Bewilligung von bezahltem Urlaub bis zu vier Arbeitstagen entscheiden die direkten Vorgesetzten. Bei länger dauerndem oder wiederkehrendem Urlaub entscheidet die Anstellungsinstanz nach Rücksprache mit der Leitung des Fachbereichs Personal.
+<sup>2</sup> Über die Bewilligung von bezahltem Urlaub bis zu vier Arbeitstagen entscheiden die direkten Vorgesetzten. Bei länger dauerndem oder wiederkehrendem Urlaub entscheidet die Anstellungsinstanz nach Rücksprache mit der Leitung Personal.
 
 [^32-1]: § 32 Abs. 1: Verweis redaktionell berichtigt.
 
@@ -562,16 +568,16 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>2</sup> Anspruch auf bezahlten Urlaub besteht bei folgenden Ereignissen im nachgenannten Umfang:
 
-- a) Heirat der Mitarbeiterin oder des Mitarbeiters oder naher Angehöriger: 1–2 Tage
-- b) Geburt eines Kindes: 10 Tage für den Vater und 5 Tage für die eingetragene Partnerin
-- c) Adoption eines Kindes: 5 Tage
-- d) Todesfall naher Angehöriger oder vergleichbar nahestehender Personen: bis zu 4 Tagen
-- e) Betreuung von nahen Angehörigen mit gesundheitlicher Beeinträchtigung bis zu 3 Tagen pro Ereignis; ausser bei der Betreuung der eigenen Kinder beträgt der Betreuungsurlaub höchstens zehn Tage pro Kalenderjahr
+- a) Heirat der Mitarbeiterin oder des Mitarbeiters: 2 Tage; Heirat naher Angehöriger: 1 Tag
+- b) …
+- c) …
+- d) Todesfall naher Angehöriger oder vergleichbar nahestehender Personen: Bis zu 4 Tagen, je nach Aufwand und Reisezeit
+- e) Betreuung von nahen Angehörigen mit gesundheitlicher Beeinträchtigung bis zu 3 Tagen pro Ereignis; der Betreuungsurlaub beträgt höchstens zehn Tage pro Kalenderjahr
 - f) Wohnungswechsel: 1 Tag
 
 <sup>3</sup> Als nahe Angehörige im Sinne dieses Reglements gelten alle Verwandten in auf- und absteigender Linie und die Geschwister sowie die Ehegattin bzw. der Ehegatte, die eingetragene Partnerin bzw. der eingetragene Partner, die Person, mit welcher eine faktische Lebensgemeinschaft geführt wird, und die Schwiegereltern. Als Kinder gelten diejenigen Personen, zu denen ein Kindesverhältnis im zivilrechtlichen Sinne besteht.
 
-<sup>4</sup> In begründeten Fällen kann die Anstellungsinstanz ausnahmsweise von der Mitarbeiterin bzw. dem Mitarbeiter einen Nachweis für den Urlaubsgrund verlangen.
+<sup>4</sup> In begründeten Fällen können die Vorgesetzten ausnahmsweise von der Mitarbeiterin bzw. dem Mitarbeiter einen Nachweis für den Urlaubsgrund verlangen.
 
 #### § 37
 
@@ -583,15 +589,35 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>3</sup> Über die Gewährung von bezahltem Urlaub entscheiden direkte Vorgesetzte und Anstellungsinstanz nach Massgabe von § 32 dieses Reglements. Eine Kombination von bezahltem und unbezahltem Urlaub ist möglich.
 
-<sup>4</sup> Hinsichtlich der Tragung der Kurskosten und weiterer Spesen entscheidet die Anstellungsinstanz nach Rücksprache mit der Leitung des Fachbereichs Personal im Rahmen ihrer Finanzkompetenzen und des Spesenreglements.
+<sup>4</sup> Hinsichtlich der Tragung der Kurskosten und weiterer Spesen entscheidet die Anstellungsinstanz nach Rücksprache mit der Leitung Personal im Rahmen ihrer Finanzkompetenzen und des Spesenreglements.
 
 <sup>5</sup> Leistet die Arbeitgeberin Beiträge an die Weiterbildung einer Mitarbeiterin oder eines Mitarbeiters von über CHF 5'000, werden die Modalitäten schriftlich vereinbart. Die Vereinbarung sieht eine vollständige oder teilweise Rückzahlung dieses Beitrags vor, wenn das Arbeitsverhältnis vor einem bestimmten Zeitpunkt ohne Zutun der Arbeitgeberin aufgelöst wird.
+
+#### § 37a
+
+**Bezahlter Urlaub für Lernende**
+
+<sup>1</sup> Lernende, die eine Berufslehre absolvieren, haben insbesondere für Prüfungsvorbereitungen Anspruch auf fünf Tage bezahlten Urlaub pro Lehrjahr (sogenannte Lerntage). Die Lerntage stehen den Lernenden zur flexiblen Nutzung zur Verfügung.
+
+<sup>2</sup> Der Bezug der Lerntage ist von den direkten Vorgesetzten unter besonderer Beachtung der Bedürfnisse der Lernenden sowie unter Berücksichtigung der betrieblichen Bedürfnisse zu bewilligen.
+
+<sup>3</sup> Werden innert eines Lehrjahres Lerntage nicht bezogen, verfällt der Anspruch am Ende des Lehrjahres.
+
+#### § 37b
+
+**Bezahlter Urlaub für ausserschulische Jugendarbeit**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter erhalten bis zum vollendeten 30. Altersjahr bezahlten Urlaub von bis zu fünf Arbeitstagen pro Kalenderjahr für unentgeltliche leitende, betreuende oder beratende Tätigkeit im Rahmen der ausserschulischen Jugendarbeit in einer kulturellen, sportlichen oder sozialen Organisation. Der Urlaub wird auch für die notwendige Aus- und Weiterbildung gewährt.
+
+<sup>2</sup> Der Zeitpunkt und die Dauer des Urlaubs werden frühzeitig mit den Vorgesetzten vereinbart. Dabei werden die beidseitigen Interessen berücksichtigt.
+
+<sup>3</sup> Die Lohnzahlung erfolgt unter Verrechnung mit allfälligen Lohnersatzzahlungen Dritter.
 
 #### § 38
 
 **Weiterer bezahlter und unbezahlter Urlaub**
 
-<sup>1</sup> Die Anstellungsinstanz kann nach Rücksprache mit der Leitung des Fachbereichs Personal folgende Urlaube bewilligen:
+<sup>1</sup> Die Anstellungsinstanz kann nach Rücksprache mit der Leitung Personal folgende Urlaube bewilligen:
 
 - a) bezahlten oder unbezahlten Urlaub, namentlich zur Teilnahme von Mitarbeiterinnen oder Mitarbeitern an kulturellen und sportlichen Anlässen von nationaler Bedeutung;
 - b) unbezahlten Urlaub für die Betreuung und Begleitung von Angehörigen bei schweren Erkrankungen oder in schweren Lebenskrisen.
@@ -618,25 +644,51 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>3</sup> Krankheit nach Antritt des Urlaubs verlängert diesen nicht.
 
-## VI. Schwangerschafts- und Elternurlaub
+## VI. Schwangerschafts-, Mutterschafts- und Elternurlaub
 
 #### § 41
 
 **Meldung**
 
-<sup>1</sup> Die Mitarbeiterin spricht den Beginn des Schwangerschaftsurlaubs gemäss § 15 Abs. 1 Personalordnung mit ihren direkten Vorgesetzten frühzeitig ab, spätestens aber drei Monate vor der voraussichtlichen Niederkunft.
+<sup>1</sup> Die Mitarbeiterin spricht den Beginn des Schwangerschafts- und des geplanten Mutterschaftsurlaubs gemäss § 15 Abs. 1 Personalordnung mit ihren direkten Vorgesetzten frühzeitig ab, spätestens aber drei Monate vor der voraussichtlichen Niederkunft.
 
-<sup>2</sup> Für die Gewährung eines unbezahlten Elternurlaubs gemäss § 15 Abs. 2 Personalordnung ist die Anstellungsinstanz zuständig.
+<sup>2</sup> …
+
+#### § 41a
+
+**Anspruch auf Mutterschaftsurlaub**
+
+<sup>1</sup> Der Anspruch auf bezahlten Mutterschaftsurlaub entsteht:
+
+- a) wenn das Kind lebensfähig geboren wird oder
+- b) bei einer Totgeburt, sofern die Schwangerschaft mindestens 23 Wochen gedauert hat.
+
+<sup>2</sup> Eine verspätete Geburt zieht keine Kürzung des vereinbarten Mutterschaftsurlaubs nach sich.
+
+<sup>3</sup> Bei befristeten Arbeitsverhältnissen endet der Lohnanspruch mit Ablauf der Befristung. Danach richtet sich die Mutterschaftsentschädigung nach dem Bundesgesetz über den Erwerbsersatz (Erwerbsersatzgesetz, EOG) vom 25. September 1952.
+
+#### § 41b
+
+**Krankheit und Unfall**
+
+<sup>1</sup> Krankheit oder Unfall nach Antritt des Mutterschaftsurlaubs verlängert den Urlaub nicht.
+
+<sup>2</sup> Mitarbeiterinnen, die vor der Niederkunft einen Teil ihres Mutterschaftsurlaubs gemäss § 15 Abs. 1 der Personalordnung als Schwangerschaftsurlaub beziehen und während dieses Urlaubs krank werden oder verunfallen, haben Anspruch auf Verlängerung des Mutterschaftsurlaubs im Ausmass der ärztlich bescheinigten Absenz in den letzten zwei Wochen vor der Niederkunft.
+
+<sup>3</sup> Auf Gesuch der Mitarbeiterin kann, sofern der Gesundheitszustand oder die arbeitsmedizinische Notwendigkeit ärztlich bescheinigt wird, die Gesamtdauer des Schwangerschafts- und Mutterschaftsurlaubs um höchstens vier Wochen verlängert werden. Der frühestmögliche Beginn des verlängerten Schwangerschafts- und Mutterschaftsurlaubs kann um maximal sechs Wochen vor dem errechneten Geburtstermin vorverschoben werden.
 
 #### § 42
 
-**Dauer**
+**Dauer des Mutterschaftsurlaubs**
 
-<sup>1</sup> Auf Gesuch der Mitarbeiterin kann, sofern ihr Gesundheitszustand oder die arbeitsmedizinische Notwendigkeit ärztlich bescheinigt wird, die Gesamtdauer des Schwangerschafts- und Mutterschaftsurlaubs um höchstens vier Wochen verlängert werden. Der frühest mögliche Beginn des verlängerten Schwangerschafts- und Mutterschaftsurlaubs kann um maximal sechs Wochen vor den errechneten Geburtstermin vorverschoben werden.
+<sup>1</sup> Bei einem Spitalaufenthalt eines Neugeborenen verlängert sich der Mutterschaftsurlaub bzw. der Anspruch auf Mutterschaftsentschädigung gemäss Art. 16c Abs. 3 des Erwerbsersatzgesetzes um die Dauer der Hospitalisierung, höchstens aber um acht Wochen, sofern:
 
-<sup>2</sup> Der unbezahlte Urlaub soll die Dauer von einem Jahr nach Niederkunft in der Regel nicht überschreiten.
+- a) das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilt und
+- b) der Nachweis vorliegt, dass bereits vor der Niederkunft beschlossen wurde, die Erwerbstätigkeit nach Ende des Mutterschaftsurlaubs fortzusetzen.
 
-<sup>3</sup> Wird der bezahlte Urlaub von 16 Wochen nicht ausgeschöpft, entsteht kein Anspruch auf finanzielle Entschädigung.
+<sup>2</sup> Der mindestens zweiwöchige Aufenthalt des Neugeborenen im Spital sowie die effektive Dauer des Spitalaufenthalts des Neugeborenen sind mit ärztlichem Attest zu belegen.
+
+<sup>3</sup> Der Anspruch auf Mutterschaftsentschädigung endet vorzeitig am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.
 
 <sup>4</sup> Die Ferien dürfen nicht gekürzt werden, wenn:
 
@@ -667,41 +719,49 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 #### § 45a
 
-**Stillzeit bei Mutterschaft**
+**Arbeitszeit und Stillzeit bei Schwangerschaft und Mutterschaft**
 
-<sup>1</sup> Sofern betrieblich möglich, darf eine Mitarbeiterin ihr Kind am Arbeitsort stillen.
+<sup>1</sup> Schwangere und stillende Mitarbeiterinnen dürfen nicht über die vereinbarte ordentliche Dauer der täglichen Arbeit hinaus beschäftigt werden, jedoch keinesfalls über 9 Stunden.
 
-<sup>2</sup> Stillzeit und die benötigte Zeit zum Abpumpen von Muttermilch im Betrieb gelten als bezahlte Arbeitszeit.
+<sup>2</sup> Wird die Erwerbstätigkeit wieder aufgenommen, ist während des ersten Lebensjahres des Kindes die für das Stillen oder für das Abpumpen von Milch erforderliche Zeit freizugeben. Davon wird als bezahlte Arbeitszeit angerechnet:
 
-<sup>3</sup> Verlässt die Mitarbeiterin den Arbeitsort zum Stillen, ist die Hälfte dieser Abwesenheit als Arbeitszeit anzuerkennen.
+- a) bei einer täglichen Arbeitszeit von bis zu 4 Stunden: 30 Minuten
+- b) bei einer täglichen Arbeitszeit von mehr als 4 Stunden: 60 Minuten
+- c) bei einer täglichen Arbeitszeit von mehr als 7 Stunden: 90 Minuten
+
+<sup>3</sup> Die Anrechnung der Arbeitszeit erfolgt unabhängig davon, ob die stillenden Mitarbeiterinnen den Arbeitsplatz verlassen.
+
+<sup>4</sup> Die Stillzeit darf keine Mehrleistungen generieren.
 
 #### § 46
 
-**Adoption**
+**Bezahlter Adoptionsurlaub**
 
-<sup>1</sup> Für die Zeit eines unbezahlten Elternurlaubs gemäss § 15 Abs. 2 der Personalordnung wird der Mitarbeiterin oder dem Mitarbeiter der bisherige Arbeitsplatz im Rahmen der betrieblichen Möglichkeiten garantiert.
+<sup>1</sup> Bei Aufnahme eines Kindes im Hinblick auf eine spätere Adoption haben Mitarbeiterinnen und Mitarbeiter Anspruch auf bezahlten Urlaub im Umfang von acht Wochen, sofern das Adoptivkind bisher nicht im gleichen Haushalt lebte und nicht älter als 5 Jahre ist.
 
-<sup>2</sup> Die §§ 44 und 45 sind sinngemäss anwendbar.
+<sup>2</sup> Arbeiten beide künftigen Adoptiveltern bei der Gemeinde, so besteht insgesamt nur ein Anspruch auf bezahlten Urlaub im Umfang von acht Wochen. Die künftigen Adoptiveltern können den Anspruch nach eigenem Ermessen und unter Berücksichtigung der betrieblichen Bedürfnisse unter sich aufteilen.
 
-<sup>3</sup> Die Anstellungsinstanz entscheidet nach pflichtgemässem Ermessen und unter Berücksichtigung der besonderen Umstände des Einzelfalls.
+<sup>3</sup> Krankheit oder Unfall nach Antritt des Adoptionsurlaubs verlängert den Urlaub nicht.
 
 #### § 46a
 
-**Vaterschaftsurlaub**
+**Bezahlter Vaterschaftsurlaub**
 
-<sup>1</sup> Der Mitarbeiter, der im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden sechs Monate wird, hat Anspruch auf einen Vaterschaftsurlaub von zehn Arbeitstagen gemäss § 36 Abs. 2 lit. b.
+<sup>1</sup> Mitarbeiter, die im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater sind oder dies innerhalb der folgenden sechs Monate werden, sowie die Ehefrau der Mutter im Sinne von Art. 255a Abs. 1 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 haben einen Anspruch auf einen Vaterschaftsurlaub von zwanzig Arbeitstagen.
 
 <sup>2</sup> Der Vaterschaftsurlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden. Er kann wochen- oder tageweise bezogen werden.
 
-<sup>3</sup> Bezieht ein Mitarbeiter einen Vaterschaftsurlaub gemäss § 36 Abs. 2 lit. b, dürfen die Ferien nicht gekürzt werden.
+<sup>3</sup> Wird der Vaterschaftsurlaub bezogen, dürfen die Ferien nicht gekürzt werden.
 
-<sup>4</sup> Kündigt die Arbeitgeberin das Arbeitsverhältnis und hat der Mitarbeiter vor Ende des Arbeitsverhältnisses Anspruch auf einen Vaterschaftsurlaub nach § 36 Abs. 2 lit. b, wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
+<sup>4</sup> Kündigt die Arbeitgeberin das Arbeitsverhältnis und hat der betreffende Mitarbeiter bzw. die Ehefrau der Mutter Anspruch auf einen Vaterschaftsurlaub, wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
+
+<sup>5</sup> Der Anspruch besteht auch bei Totgeburt, sofern die Schwangerschaft der Mutter des Kindes mindestens 23 Wochen gedauert hat.
 
 #### § 46b
 
 **Betreuungsurlaub für die Pflege schwer beeinträchtigter Kinder**
 
-<sup>1</sup> Hat eine Mitarbeiterin oder ein Mitarbeiter Anspruch auf eine Betreuungsentschädigung nach den Art. 16n–16s des Bundesgesetzes über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft (Erwerbsersatzgesetz, EOG) vom 25. September 1952, weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.
+<sup>1</sup> Hat eine Mitarbeiterin oder ein Mitarbeiter Anspruch auf eine Betreuungsentschädigung nach den Art. 16n–16s des Erwerbsersatzgesetzes, weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.
 
 <sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
 
@@ -714,6 +774,36 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 <sup>6</sup> Die Ferien dürfen nicht gekürzt werden, wenn eine Mitarbeiterin oder ein Mitarbeiter einen Betreuungsurlaub bezieht.
 
 <sup>7</sup> Solange der Anspruch auf Betreuungsurlaub besteht, darf die Arbeitgeberin das Arbeitsverhältnis nicht kündigen, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt.
+
+#### § 46c
+
+**Bezahlter Urlaub bei eingetragener Partnerschaft**
+
+<sup>1</sup> Die Mitarbeiterin, deren eingetragene Partnerin ein Kind zur Welt bringt, hat Anspruch auf einen bezahlten Urlaub von zwanzig Arbeitstagen.
+
+<sup>2</sup> Die Modalitäten des Urlaubs richten sich nach § 46a.
+
+#### § 46d
+
+**Unbezahlter Eltern- oder Adoptionsurlaub**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeitern kann auf Gesuch hin bei Geburt eines eigenen Kindes oder eines Kindes einer Partnerin oder Ehegattin sowie bei der Aufnahme eines Kindes im Hinblick auf eine Adoption ein unbezahlter Urlaub gemäss § 15 Abs. 2 Personalordnung gewährt werden. Der unbezahlte Urlaub soll die Dauer von einem Jahr nach Niederkunft oder Adoption in der Regel nicht überschreiten.
+
+<sup>2</sup> Für die Gewährung eines unbezahlten Elternurlaubs ist die Anstellungsinstanz zuständig.
+
+<sup>3</sup> Den betroffenen Mitarbeiterinnen und Mitarbeitern wird während des unbezahlten Urlaubs der bisherige Arbeitsplatz im Rahmen der betrieblichen Möglichkeiten garantiert.
+
+<sup>4</sup> Arbeiten beide Eltern oder künftige Adoptiveltern bei der Gemeinde, so besteht insgesamt nur ein Anspruch auf unbezahlten Urlaub gemäss Abs. 1. Die Eltern bzw. künftigen Adoptiveltern können den unbezahlten Urlaub frei untereinander aufteilen.
+
+<sup>5</sup> Die individuelle Regelung des unbezahlten Eltern- oder Adoptivurlaubs ist spätestens vier Monate vor dem voraussichtlichen Geburtstermin bzw. vier Wochen vor Beginn des Adoptionsurlaubs schriftlich mit der Anstellungsinstanz zu vereinbaren.
+
+#### § 46e
+
+**Vorbezug des 13. Monatslohns für unbezahlten Eltern- oder Adoptionsurlaub**
+
+<sup>1</sup> Unbefristet angestellte Mitarbeiterinnen und Mitarbeiter können nach Ablauf der Probezeit zur Finanzierung eines unbezahlten Eltern- oder Adoptivurlaubs ihren 13. Monatslohn vorbeziehen.
+
+<sup>2</sup> Bei einem vorzeitigen Austritt findet eine Verrechnung mit der letzten Lohnzahlung statt.
 
 ## VII. Nebenbeschäftigung
 
@@ -762,11 +852,11 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Trinkgelder und Geschenke**
 
-<sup>1</sup> Die Annahme von Vorteilen gemäss § 20 Personalordnung und gemäss Art. 322 quater und sexies Strafgesetzbuch ist den Mitarbeiterinnen und Mitarbeitern verboten.
+<sup>1</sup> Die Annahme von Vorteilen gemäss § 20 Personalordnung und gemäss Art. 322<sup>quater</sup> und Art. 322<sup>sexies</sup> des Strafgesetzbuches vom 21. Dezember 1937 ist den Mitarbeiterinnen und Mitarbeitern verboten.
 
-<sup>2</sup> Erhalten Mitarbeiterinnen und Mitarbeiter sozial übliche Trinkgelder, übergeben sie diese unaufgefordert den in den verschiedenen Abteilungen und Gruppen bezeichneten Kassen. Über die Verwendung entscheiden die mit Trinkgeldern bedachten Arbeitsteams gemeinschaftlich. Sie haben über ihre Kasse nach Weisungen der Leitung des Fachbereichs Personal Buch zu führen und die Abteilungsleitenden und die Leitung des Fachbereichs Personal über den Verwendungszweck zu orientieren. Diese nehmen periodisch Einblick in die Buchführung und ergreifen die erforderlichen Massnahmen, wenn die Zuwendungen den Charakter unzulässiger Vorteile annehmen.
+<sup>2</sup> Erhalten Mitarbeiterinnen und Mitarbeiter übliche Trinkgelder, übergeben sie diese unaufgefordert den in den verschiedenen Abteilungen und Gruppen bezeichneten Kassen. Über die Verwendung entscheiden die mit Trinkgeldern bedachten Arbeitsteams gemeinschaftlich. Sie haben über ihre Kasse nach Weisungen der Leitung Personal Buch zu führen und die Abteilungsleitenden und die Leitung Personal über den Verwendungszweck zu orientieren. Diese nehmen periodisch Einblick in die Buchführung und ergreifen die erforderlichen Massnahmen, wenn die Zuwendungen den Charakter unzulässiger Vorteile annehmen.
 
-<sup>3</sup> Sozial übliche Naturalgeschenke dürfen bis zum Wert von hundert Franken angenommen werden. Übersteigen die Geschenke diesen Wert, entscheidet die Anstellungsinstanz unter Beizug der Leitung Personelles über deren Verwendung.
+<sup>3</sup> Sozial übliche Naturalgeschenke dürfen bis zum Wert von hundert Franken angenommen werden. Übersteigen die Geschenke diesen Wert, entscheidet die Anstellungsinstanz unter Beizug der Leitung Personal über deren Verwendung.
 
 #### § 51a
 
@@ -774,7 +864,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Die Arbeitgeberin richtet den Mitarbeiterinnen und Mitarbeitern, die ihr Arbeitsverhältnis in Folge einer vorzeitigen oder ordentlichen Pensionierung beenden, ein Abschiedsgeschenk bis zum Wert von CHF 300 aus.
 
-<sup>2</sup> Zuständig ist die Leitung des Fachbereichs Personal.
+<sup>2</sup> Zuständig ist die Leitung Personal.
 
 #### § 51b
 
@@ -817,11 +907,13 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Arbeitsunfähigkeit**
 
-<sup>1</sup> Dauert die Arbeitsunfähigkeit gemäss § 12 Personalordnung mehr als drei Arbeitstage, reicht die Mitarbeiterin oder der Mitarbeiter den direkten Vorgesetzten unaufgefordert ein Arztzeugnis ein.
+<sup>1</sup> Dauert die Arbeitsunfähigkeit gemäss § 12 Personalordnung länger als drei Arbeitstage, reicht die Mitarbeiterin oder der Mitarbeiter den direkten Vorgesetzten unaufgefordert und spätestens sieben Tage nach Beginn der Arbeitsunfähigkeit ein Arztzeugnis ein.
 
-<sup>2</sup> Fehlen Mitarbeiterinnen oder Mitarbeiter wiederholt, können die direkten Vorgesetzten nach Rücksprache mit der Leitung des Fachbereichs Personal ein Arztzeugnis ab dem zweiten Tag verlangen.
+<sup>1<sup>bis</sup></sup> Dauert die Arbeitsunfähigkeit länger als drei Monate, ist ein fachärztliches Arztzeugnis einzureichen.
 
-<sup>3</sup> Die Anordnung einer vertrauensärztlichen Untersuchung gemäss § 8 dieses Reglements bleibt vorbehalten.
+<sup>2</sup> Fehlen Mitarbeiterinnen und Mitarbeiter wiederholt, können die direkten Vorgesetzten nach Rücksprache mit der Leitung Personal ein Arztzeugnis ab dem ersten Tag verlangen.
+
+<sup>3</sup> Bestehen Zweifel an einem eingereichten Arztzeugnis, kann eine Anordnung einer vertrauensärztlichen Untersuchung gemäss § 8 dieses Reglements erfolgen.
 
 ## IX. Konfliktlösung, Beratung und Massnahmen
 
@@ -833,25 +925,25 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 #### § 57
 
-**Leitung des Fachbereichs Personal**
+**Leitung Personal**
 
-<sup>1</sup> Die Leitung des Fachbereichs Personal stellt die Beratung und Unterstützung der Vorgesetzten bei der Umsetzung der übergeordneten Personalpolitik und der Führungsrichtlinien sicher. Sie wirkt darauf hin, dass in der Gemeindeverwaltung professionelle und zeitgemässe Personalarbeit geleistet wird, und erbringt abteilungsübergreifende Dienstleistungen im Bereich des Personalmanagements.
+<sup>1</sup> Die Leitung Personal stellt die Beratung und Unterstützung der Vorgesetzten bei der Umsetzung der übergeordneten Personalstrategie und der Führungsrichtlinien sicher. Sie wirkt darauf hin, dass in der Gemeindeverwaltung professionelle und zeitgemässe Personalarbeit geleistet wird, und erbringt abteilungsübergreifende Dienstleistungen im Bereich des Personalmanagements.
 
-<sup>2</sup> Zur Erfüllung dieser Aufgaben hat die Leitung des Fachbereichs Personal fachliche Weisungskompetenz. Die Funktion ist direkt der Verwaltungsleiterin oder dem Verwaltungsleiter unterstellt.
+<sup>2</sup> Zur Erfüllung dieser Aufgaben hat die Leitung Personal fachliche Weisungskompetenz. Die Funktion ist direkt der Verwaltungsleiterin oder dem Verwaltungsleiter unterstellt.
 
 #### § 58
 
 **Beratungsangebote**
 
-<sup>1</sup> Der Fachbereich Personal berät die Mitarbeiterinnen und Mitarbeiter und Vorgesetzte bei dienstlichen oder einfachen privaten Fragestellungen. Entsprechende Anfragen werden vertraulich behandelt. Bei Bedarf vermittelt die Leitung Fachbereich Personal externe Fachstellen.
+<sup>1</sup> Der Personalbereich berät die Mitarbeiterinnen und Mitarbeiter sowie die Vorgesetzte bei dienstlichen oder einfachen privaten Fragestellungen. Entsprechende Anfragen werden vertraulich behandelt. Bei Bedarf wird an eine externe Fachstelle vermittelt.
 
 <sup>2</sup> Die Arbeitgeberin sorgt ausserdem:
 
 - a) für eine niederschwellige externe Sozialberatung;
-- b) für ein niederschwelliges internes Konfliktberatungsangebot;
+- b) …
 - c) für externe Beratungsangebote im Zusammenhang mit Konflikten, Mobbing oder sexueller Belästigung.
 
-<sup>3</sup> Für die interne Konfliktberatung wählt die Verwaltungsleiterin oder der Verwaltungsleiter aus dem Kreis der Mitarbeitenden eine weibliche und eine männliche Person. Die Konfliktberatungspersonen erhalten eine fachliche Schulung für die interne Konfliktberatung.
+<sup>3</sup> …
 
 <sup>4</sup> Die Beratungen werden vertraulich behandelt.
 
@@ -897,9 +989,9 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Verfügung**
 
-<sup>1</sup> Für den Erlass von Verfügungen gegenüber Mitarbeiterinnen und Mitarbeitern ist die Anstellungsinstanz zuständig. Sie zieht für ihren Entscheid die direkten Vorgesetzten und die Leitung des Fachbereichs Personal bei.
+<sup>1</sup> Für den Erlass von Verfügungen gegenüber Mitarbeiterinnen und Mitarbeiter sind die Anstellungsinstanzen bzw. die Vorgesetzten gemäss Personalordnung zuständig. Die Anstellungsinstanzen ziehen vor ihrem Entscheid die Leitung Personal und die direkten Vorgesetzten bei. Sind die direkten Vorgesetzten zuständig, ziehen diese ebenfalls die Leitung Personal bei.
 
-<sup>2</sup> Soweit sich der massgebliche Sachverhalt, die Begehren der Mitarbeiterin oder des Mitarbeiters sowie weitere relevante Vorbringen nicht bereits aus eigener Wahrnehmung ergeben, hört die verfügende Instanz die betroffene Mitarbeiterin oder den betroffenen Mitarbeiter vor Erlass einer Verfügung nochmals mündlich oder schriftlich an. Bei einer mündlichen Anhörung kann sich die oder der Betroffene von einer Person ihres Vertrauens begleiten oder vertreten lassen.
+<sup>2</sup> Die verfügende Instanz hört die betroffenen Mitarbeiterinnen und Mitarbeiter vor Erlass der Verfügung mündlich oder schriftlich an. Bei einer mündlichen Anhörung können sich die Betroffenen von einer Person ihres Vertrauens begleiten oder vertreten lassen.
 
 <sup>3</sup> Bei Verfügungen im Zusammenhang mit sexueller Belästigung werden zusätzlich die beauftragte externe Vertrauensperson und die beauftragte untersuchende Person angehört.
 
@@ -983,7 +1075,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Ergänzende Richtlinien und Weisungen**
 
-<sup>1</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter erlässt gemeinsam mit der Leitung des Fachbereichs Personal ergänzende Weisungen oder Richtlinien.
+<sup>1</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter erlässt gemeinsam mit der Leitung Personal ergänzende Weisungen oder Richtlinien.
 
 <sup>2</sup> Diese regeln insbesondere:
 
