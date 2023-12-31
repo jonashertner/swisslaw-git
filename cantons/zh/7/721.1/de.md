@@ -4,11 +4,10 @@ number: "721.1"
 title: Immobilienverordnung (ImV)
 short: ImV
 language: de
-version: "2023-07-01"
-nachtrag: "121"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2018-06-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-721_1-2018_06_20-2019_01_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-721_1-2018_06_20-2019_01_01-123.html"
 text: pdf
 ---
 
@@ -58,7 +57,7 @@ In dieser Verordnung bedeuten a. Immobilien: mit dem Boden fest und dauernd verb
 
 **1**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 24 - 123
 
 - f. Instandsetzung: räumliche, insbesondere bauliche Massnahmen zur Wiederherstellung der Gebrauchstauglichkeit und Sicherheit der Immobilie und der zugehörigen technischen Anlagen,
 
@@ -136,7 +135,7 @@ Bei Uneinigkeit zwischen einer Direktion und der Baudirektion entscheidet der Re
 
 **3**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Betreiberorganisationen führen für die von ihnen betriebenen Immobilien im Verwaltungs- und Finanzvermögen und in Fonds die Instandhaltungsplanung.
 
@@ -244,7 +243,7 @@ Das Sozialamt schliesst Mietverträge für Asylunterkünfte mit Dritten in Abwei
 
 **5**
 
-- 1\. 7. 23 - 121 § 19. <sup>1</sup> Das Immobilienamt erstellt aufgrund der Planungsliste und der Planungsliste der Universität Zürich in Abstimmung mit dem Hochbauamt und den Direktionen jährlich eine Planungsübersicht. Diese enthält die Projekte und räumlichen Massnahmen nach Massgabe des Höchstbetrags der Investitionsausgaben für Immobilien gemäss § 21.
+- 1\. 1. 24 - 123 § 19. <sup>1</sup> Das Immobilienamt erstellt aufgrund der Planungsliste und der Planungsliste der Universität Zürich in Abstimmung mit dem Hochbauamt und den Direktionen jährlich eine Planungsübersicht. Diese enthält die Projekte und räumlichen Massnahmen nach Massgabe des Höchstbetrags der Investitionsausgaben für Immobilien gemäss § 21.
 
 **Planungsübersicht**
 
@@ -326,7 +325,7 @@ Der Regierungsrat legt den Höchstbetrag der Investitionsausgaben für Immobilie
 
 **7**
 
-- 1\. 7. 23 - 121 § 24. Das Immobilienamt entscheidet in Abstimmung mit der bestellenden Direktion aufgrund der Ergebnisse der Vorstudienphase über die Freigabe des Projekts für die nächste Phase.
+- 1\. 1. 24 - 123 § 24. Das Immobilienamt entscheidet in Abstimmung mit der bestellenden Direktion aufgrund der Ergebnisse der Vorstudienphase über die Freigabe des Projekts für die nächste Phase.
 
 #### § 25
 
@@ -420,7 +419,7 @@ Das Immobilienamt ist zuständig für die Planung und Umsetzung der übrigen Pro
 
 **9**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 24 - 123
 
 ### 4. Abschnitt: Bewirtschaftung
 
@@ -458,9 +457,11 @@ Das Immobilienamt ist zuständig für die Planung und Umsetzung der übrigen Pro
 
 <sup>1</sup> Das Immobilienamt verrechnet die Nutzungskosten der Immobilien vierteljährlich zulasten der Buchungskreise. Aus wichtigen Gründen kann die Verrechnung zulasten einer anderen Einheit erfolgen. Die Nutzungskosten enthalten anteilmässig die Kosten für mehrfach genutzte und allgemeine Flächen.
 
-<sup>2</sup> Für gemietete Immobilien, die das Amt für Wirtschaft und Arbeit nutzt und die vom Bund refinanziert werden, verrechnet das Immobilienamt der Volkswirtschaftsdirektion die tatsächlichen Mietzinsen und Nebenkosten gemäss Mietvertrag.
+<sup>2</sup> Für gemietete Immobilien, die das Amt für Arbeit[^35-1] nutzt und die vom Bund refinanziert werden, verrechnet das Immobilienamt der Volkswirtschaftsdirektion die tatsächlichen Mietzinsen und Nebenkosten gemäss Mietvertrag.
 
 <sup>3</sup> Von der Verrechnung ausgenommen sind die Mietzinsen und Nebenkosten gemäss Mietvertrag für vom Sozialamt gemietete Asylunterkünfte.
+
+[^35-1]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 553; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
 
 ### B. Betrieb
 
@@ -522,7 +523,7 @@ Die Betreiberorganisation kann die Erbringung ihrer Leistungen Dritten übertrag
 
 **11**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Die öffentlich-rechtlichen Anstalten einschliesslich der Universität Zürich und die Fondsverantwortlichen bzw. deren Betreiberorganisationen sind berechtigt, die vom Immobilienamt koordiniert beschafften Dienstleistungen und Güter für die Bewirtschaftung zu beziehen.
 
