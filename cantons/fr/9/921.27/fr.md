@@ -3,13 +3,12 @@ canton: FR
 number: "921.27"
 title: Règlement relatif aux indemnités spéciales versées au personnel du Service des forêts et de la nature
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-17
+version: 2024-01-01
+version_adopted: 2023-10-09
 adopted: 1991-07-09
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.27"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7724/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7841/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7724/pdf_file"
 
 Personnel forestier, indemnités spéciales – R
 
-du 09.07.1991 (version entrée en vigueur le 01.01.2023)
+du 09.07.1991 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -186,7 +185,7 @@ Arrête:
 
 **Gardes auxiliaires**
 
-<sup>1</sup> Lorsqu'ils sont appelés à assumer des tâches spéciales ordonnées par le ou la garde-faune auquel ou à laquelle ils sont subordonnés, les gardes auxiliaires bénéficient des indemnités fixées à l'article 11a al. 1 et 4 du présent règlement.
+<sup>1</sup> Lorsqu'ils sont appelés à assumer des tâches spéciales ordonnées par le ou la garde-faune auquel ou à laquelle ils sont subordonnés, les gardes auxiliaires bénéficient des indemnités fixées à l'article 11a al. 1, 4 et 5 du présent règlement.
 
 ## 7 Entrée en vigueur et publication
 

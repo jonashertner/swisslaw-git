@@ -3,13 +3,12 @@ canton: FR
 number: "921.27"
 title: Reglement über die besonderen Entschädigungen für das Personal des Amts für Wald und Natur
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-17
+version: 2024-01-01
+version_adopted: 2023-10-09
 adopted: 1991-07-09
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.27"
-pdf: "https://bdlf.fr.ch/api/de/versions/7724/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7841/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7724/pdf_file"
 
 Forstpersonal, besondere Entschädigungen – R
 
-vom 09.07.1991 (Fassung in Kraft getreten am 01.01.2023)
+vom 09.07.1991 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -186,7 +185,7 @@ beschliesst:
 
 **Hilfsaufseherinnen und Hilfsaufseher**
 
-<sup>1</sup> Nehmen Hilfsaufseherinnen und Hilfsaufseher besondere Aufgaben wahr, die ihnen von der Wildhüterin-Fischereiaufseherin oder vom Wildhüter-Fischereiaufseher, der oder dem sie unterstellt sind, übertragen werden, so erhalten sie eine Entschädigung nach Artikel 11a Abs. 1 und 4 dieses Reglements.
+<sup>1</sup> Nehmen Hilfsaufseherinnen und Hilfsaufseher besondere Aufgaben wahr, die ihnen von der Wildhüterin-Fischereiaufseherin oder vom Wildhüter-Fischereiaufseher, der oder dem sie unterstellt sind, übertragen werden, so erhalten sie eine Entschädigung nach Artikel 11a Abs. 1, 4 und 5 dieses Reglements.
 
 ## 7 Inkrafttreten und Veröffentlichung
 
