@@ -3,20 +3,20 @@ canton: AR
 number: "621.11"
 title: Steuergesetz
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-12-03
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-09-25
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/621.11"
-pdf: "https://ar.clex.ch/api/de/versions/1628/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuergesetz
 
-vom 21.05.2000 (Stand 01.01.2021)
+vom 21.05.2000 (Stand 01.01.2024)
 
 Die Stimmberechtigten von Appenzell Ausserrhoden,
 
@@ -127,7 +127,7 @@ beschliessen:
 
 <sup>1</sup> Steuerpflichtige Personen, die im Kanton nur für einen Teil ihres Einkommens und Vermögens steuerpflichtig sind, entrichten die Steuern für die im Kanton steuerbaren Werte nach dem Steuersatz, der ihrem gesamten Einkommen und Vermögen entspricht; steuerfreie Beträge werden ihnen anteilmässig gewährt. Vorbehalten bleibt Abs. 2.
 
-<sup>2</sup> Steuerpflichtige Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz entrichten die Steuern für Geschäftsbetriebe, Betriebsstätten und Grundstücke im Kanton zu dem Steuersatz, der dem im Kanton erzielten Einkommen und den im Kanton gelegenen Vermögenswerten entspricht. Die Sozialabzüge und Steuerfreibeträge werden nicht gewährt.
+<sup>2</sup> Steuerpflichtige Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz entrichten die Steuern für Geschäftsbetriebe, Betriebsstätten und Grundstücke im Kanton mindestens zu dem Steuersatz, der dem in der Schweiz erzielten Einkommen und dem in der Schweiz gelegenen Vermögen entspricht. Die Sozialabzüge und Steuerfreibeträge werden nicht gewährt.
 
 #### Art. 9
 
@@ -241,6 +241,8 @@ beschliessen:
 <sup>1</sup> Steuerbar sind alle Einkünfte aus privatrechtlichem oder öffentlich-rechtlichem Arbeitsverhältnis mit Einschluss der Nebeneinkünfte wie Entschädigungen für Sonderleistungen, Provisionen, Zulagen, Dienstalters- und Jubiläumsgeschenke, Gratifikationen, Trinkgelder, Tantiemen, geldwerte Vorteile aus Mitarbeiterbeteiligungen und andere geldwerte Vorteile.
 
 <sup>2</sup> Die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, stellen unabhängig von deren Höhe keinen anderen geldwerten Vorteil im Sinne von Abs. 1 dar.
+
+<sup>3</sup> Kapitalabfindungen aus einer mit dem Arbeitsverhältnis verbundenen Vorsorgeeinrichtung oder gleichartige Kapitalabfindungen des Arbeitgebers werden nach Art. 41 besteuert.
 
 #### Art. 20a
 
@@ -371,6 +373,10 @@ beschliessen:
 
 <sup>5</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>6</sup> Abs. 1 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach Art. 653s ff. des Obligationenrechts[^23b-1] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
+[^23b-1]: OR (SR [220](https://db.clex.ch/link/Bund/220/de))
+
 #### Art. 24
 
 **5. Unbewegliches Vermögen**
@@ -429,8 +435,10 @@ beschliessen:
 - l) die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - m) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
 - n) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 lit. d und e BGS diesem nicht unterstehen, sofern die Grenze von Fr. 1 000.– nicht überschritten wird.
+- o) Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^27-2].
 
 [^27-1]: Geldspielgesetz (BGS)
+[^27-2]: ÜLG (SR [837.2](https://db.clex.ch/link/Bund/837.2/de))
 
 #### Art. 28
 
@@ -474,6 +482,11 @@ beschliessen:
 - b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
 - c) Bussen (inkl. Steuerbussen und Strafsteuern) und Geldstrafen;
 - d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Abs. 3 lit. c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### Art. 30a
 
@@ -532,7 +545,7 @@ beschliessen:
 
 #### Art. 35
 
-**5. Allgemeine Abzüge**
+**5. Allgemeine Abzüge[^35-1]**
 
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
@@ -540,11 +553,11 @@ beschliessen:
 - b) die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten;
 - c) die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge oder Obhut stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d) die gemäss Gesetz, Statuten oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus der Alters-, Hinterlassenen- und Invalidenversicherung und aus Einrichtungen der beruflichen Vorsorge;
-- e) die Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge im Sinn und im Umfang von Art. 82 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^35-1];
+- e) die Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge im Sinn und im Umfang von Art. 82 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^35-2];
 - f) die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
-- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter lit. f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen, bis zum Gesamtbetrag von Fr. 4 000.– für in ungetrennter Ehe lebende, und von Fr. 2 000.– für die übrigen steuerpflichtigen Personen. Für jedes Kind, für welches die steuerpflichtige Person einen Abzug gemäss Art. 38 geltend machen kann, erhöhen sich diese Abzüge um Fr. 1 000.–;
+- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter lit. f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen, bis zum Gesamtbetrag von Fr. 5 400.– für in ungetrennter Ehe lebende, und von Fr. 2 700.– für die übrigen steuerpflichtigen Personen. Für jedes Kind, für welches die steuerpflichtige Person einen Abzug gemäss Art. 38 geltend machen kann, erhöhen sich diese Abzüge um Fr. 1 000.–;
 - h) Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe, werden vom niedrigeren Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des anderen Ehegatten erzielt, 10 Prozent, jedoch mindestens Fr. 2 400.– und höchstens Fr. 5 000.– abgezogen. Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Art. 29–33 und der allgemeinen Abzüge nach Art. 35 lit. d–f. Bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des anderen Ehegatten oder bei gemeinsamer selbständiger Erwerbstätigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine abweichende Aufteilung ist vom Ehepaar nachzuweisen.
-- i) die nachgewiesenen Kosten, jedoch höchstens Fr. 10 000.–, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
+- i) die nachgewiesenen Kosten, jedoch höchstens Fr. 25 000.–, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
 - j) die Mitgliederbeiträge und Zuwendungen bis zu einem Gesamtbetrag von Fr. 10 000.– an politische Parteien, die:
   - 1\. im Parteienregister nach Art. 76a des Bundesgesetzes über die politischen Rechte eingetragen sind,
   - 2\. in einem kantonalen Parlament vertreten sind, oder
@@ -554,7 +567,8 @@ beschliessen:
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
-[^35-1]: BVG (SR [831.40](https://db.clex.ch/link/Bund/831.40/de))
+[^35-1]: Ausgleich der kalten Progression siehe Anhang 1
+[^35-2]: BVG (SR [831.40](https://db.clex.ch/link/Bund/831.40/de))
 
 #### Art. 36
 
@@ -584,7 +598,7 @@ beschliessen:
 
 **IV. Sozialabzüge**
 
-<sup>1</sup> Vom Reineinkommen werden für die Steuerberechnung abgezogen:
+<sup>1</sup> Vom Reineinkommen werden für die Steuerberechnung abgezogen:[^38-1]
 
 - a) als Kinderabzug, sofern die steuerpflichtige Person den Unterhalt zur Hauptsache bestreitet, das Kind auf den Unterhalt angewiesen ist und für das Kind keine Unterhaltsbeiträge nach Art. 35 lit. c abgezogen werden:
   - 1\. für jedes unter der elterlichen Sorge oder Obhut der steuerpflichtigen Person stehende Kind bis zur Vollendung des 4. Altersjahres Fr. 5 000.–;
@@ -600,9 +614,11 @@ beschliessen:
 
 <sup>4</sup> Im internationalen Verhältnis werden die Sozialabzüge nur unbeschränkt steuerpflichtigen Personen gewährt.
 
+[^38-1]: Ausgleich der kalten Progression siehe Anhang 1
+
 #### Art. 39
 
-**V. Steuerberechnung 1. Steuertarife**
+**V. Steuerberechnung 1. Steuertarife[^39-1]**
 
 <sup>1</sup> Die Einkommenssteuer beträgt (Grundtarif):
 
@@ -639,13 +655,15 @@ beschliessen:
 
 <sup>4–5</sup> …
 
+[^39-1]: Ausgleich der kalten Progression siehe Anhang 1
+
 #### Art. 39a
 
 **1a. Ausgleich der Folgen der kalten Progression**
 
-<sup>1</sup> Bei der Steuer vom Einkommen der natürlichen Personen werden die Folgen der kalten Progression durch eine gleichmässige Anpassung der Tarifstufen sowie der in Art. 35 lit. g–i und der in Art. 38 Abs. 1 genannten Abzüge vom Einkommen ausgeglichen. Die Beträge sind auf Fr. 100.– auf- oder abzurunden.
+<sup>1</sup> Bei der Steuer vom Einkommen der natürlichen Personen werden die Folgen der kalten Progression durch eine gleichmässige Anpassung der Tarifstufen sowie der in Art. 35 lit. g–l und der in Art. 38 Abs. 1 genannten Abzüge vom Einkommen ausgeglichen. Die Beträge sind auf Fr. 100.– auf- oder abzurunden.
 
-<sup>2</sup> Die Kantonale Steuerverwaltung passt die Tarifstufen und Abzüge an, wenn der Landesindex der Konsumentenpreise um mindestens 3,0 Prozent seit der letzten Anpassung gestiegen ist.
+<sup>2</sup> Der Regierungsrat passt die Tarifstufen und Abzüge an, wenn der Landesindex der Konsumentenpreise um mindestens 3,0 Prozent seit der letzten Anpassung gestiegen ist.
 
 <sup>3</sup> Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode, ausgehend vom Indexstand am 31. Dezember 2010.
 
@@ -675,7 +693,7 @@ beschliessen:
 
 #### Art. 41
 
-**3. Kapitalleistungen mit Vorsorgecharakter**
+**3. Kapitalleistungen mit Vorsorgecharakter[^41-1]**
 
 <sup>1</sup> Kapitalleistungen gemäss Art. 25 sowie Zahlungen bei Tod und für bleibende körperliche oder gesundheitliche Nachteile werden gesondert besteuert. Sie unterliegen stets einer vollen Jahressteuer. Der Satz der einfachen Steuer berechnet sich wie folgt:
 
@@ -689,6 +707,8 @@ beschliessen:
 <sup>2</sup> Die Sozialabzüge werden nicht gewährt.
 
 <sup>3</sup> Der Steueranspruch entsteht zum Zeitpunkt des Zuflusses der Leistung.
+
+[^41-1]: Ausgleich der kalten Progression siehe Anhang 1
 
 #### Art. 41a
 
@@ -1042,6 +1062,11 @@ beschliessen:
 - c) Bussen (inkl. Steuerbussen und Strafsteuern);
 - d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
 
+<sup>3</sup> Sind Sanktionen nach Abs. 2 lit. c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
+
 #### Art. 70a
 
 **Zusätzlicher Abzug von Forschungs- und Entwicklungsaufwand**
@@ -1176,6 +1201,8 @@ beschliessen:
 
 <sup>1</sup> Der steuerbare Gewinn von Kapitalgesellschaften und Genossenschaften wird gesamthaft mit 6.5 Prozent besteuert.
 
+<sup>2</sup> Der Steuersatz wird bei Kapitalgesellschaften und Genossenschaften, die in ein internationales Konzernverhältnis eingebunden sind, unter Berücksichtigung der direkten Bundessteuer auf die vom ausländischen Staat akzeptierte minimale Steuerbelastung angehoben.
+
 #### Art. 78
 
 **2. Beteiligungsgesellschaften a) Grundsatz**
@@ -1246,7 +1273,7 @@ beschliessen:
 
 **IV. Verteilung**
 
-<sup>1</sup> Der Ertrag der Gewinnsteuer der juristischen Personen fällt im Umfang von 55 Prozent an die Gemeinde.
+<sup>1</sup> Der Ertrag der Gewinnsteuer der juristischen Personen fällt im Umfang von 50 Prozent an die Gemeinde.
 
 <sup>2</sup> …
 
@@ -1291,9 +1318,9 @@ beschliessen:
 
 **II. Steuerberechnung**
 
-<sup>1</sup> Die einfache Steuer beträgt 0.065 Promille des steuerbaren Eigenkapitals; vorbehalten bleibt Abs. 2.
+<sup>1</sup> Die einfache Steuer beträgt 0.065 Promille des steuerbaren Eigenkapitals. Der Tarif beginnt für im Kanton nach Art. 59 persönlich zugehörige juristische Personen bei Fr. 120.–. Für im Kanton nach Art. 60 wirtschaftlich zugehörige juristische Personen beginnt der Tarif bei Fr. 70.–.
 
-<sup>2</sup> Die Kapitalsteuer beträgt mindestens Fr. 900.–.
+<sup>2</sup> …
 
 <sup>3</sup> Eigenkapital der Vereine, Stiftungen und übrigen juristischen Personen, einschliesslich der kollektiven Kapitalanlagen, unter Fr. 50 000.– wird nicht besteuert.
 
@@ -1321,6 +1348,8 @@ beschliessen:
 
 <sup>1</sup> Der steuerbare Reingewinn bemisst sich nach dem Ergebnis der Steuerperiode.
 
+<sup>1<sup>bis</sup></sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 <sup>2</sup> Wird eine juristische Person aufgelöst oder verlegt sie ihren Sitz, die Verwaltung, einen Geschäftsbetrieb oder eine Betriebsstätte ins Ausland, werden die aus nicht versteuertem Gewinn gebildeten stillen Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahrs besteuert.
 
 #### Art. 94
@@ -1330,6 +1359,8 @@ beschliessen:
 <sup>1</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode.
 
 <sup>2</sup> Bei über- oder unterjährigen Geschäftsabschlüssen bestimmt sich die Höhe der Kapitalsteuer nach der Dauer des Geschäftsjahres.
+
+<sup>3</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 #### Art. 95
 
@@ -2048,6 +2079,8 @@ beschliessen:
 
 <sup>4</sup> …
 
+<sup>5</sup> Auf Ersuchen der steuerpflichtigen Person bestätigt die Kantonale Steuerverwaltung die Verweigerung der Akteneinsicht durch eine Verfügung, die durch Beschwerde angefochten werden kann.
+
 #### Art. 158
 
 **Beweisabnahmen**
@@ -2078,6 +2111,18 @@ beschliessen:
 
 <sup>2</sup> Leistet sie einer entsprechenden Aufforderung innert der angesetzten Frist keine Folge, werden ihr die Verfügungen und Entscheide durch kostenpflichtige Publikation im Amtsblatt eröffnet.
 
+#### Art. 160a
+
+**Elektronisches Verfahren**
+
+<sup>1</sup> Das Verfahren kann elektronisch geführt werden. Dabei sind die Authentizität und die Integrität der Datenübermittlung sicherzustellen.
+
+<sup>2</sup> Die Steuererklärung samt Beilagen kann elektronisch eingereicht werden. Anstelle der persönlichen Unterzeichnung hat die steuerpflichtige Person elektronisch zu bestätigen, dass ihre Angaben vollständig und wahrheitsgetreu sind.
+
+<sup>3</sup> Verfügungen und Dokumente können der steuerpflichtigen Person mit deren Einverständnis in elektronischer Form zugestellt werden.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
+
 ### C. Veranlagung im ordentlichen Verfahren
 
 #### Art. 161
@@ -2087,6 +2132,8 @@ beschliessen:
 <sup>1</sup> Die steuerpflichtigen Personen werden durch öffentliche Bekanntgabe oder Zustellung des amtlichen Formulars aufgefordert, die Steuererklärung einzureichen. Wer kein Formular erhält, muss es bei der zuständigen Behörde verlangen.
 
 <sup>2</sup> Die steuerpflichtige Person muss die Steuererklärung wahrheitsgemäss und vollständig ausfüllen, persönlich unterzeichnen und samt den vorgeschriebenen Beilagen fristgemäss der zuständigen Behörde einreichen.
+
+<sup>3</sup> Die Steuerdeklaration sowie zusätzliche Hinweise müssen ausschliesslich in den dafür vorgesehenen Formularfeldern erfolgen. Ausserhalb dieser Formularfelder angebrachte Hinweise und Angaben gelten als nicht erfolgt und nicht aktenkundig.
 
 #### Art. 162
 
@@ -2151,6 +2198,7 @@ beschliessen:
 - b) Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge über die den Vorsorgenehmern oder Begünstigten erbrachten Leistungen;
 - c) einfache Gesellschaften und Personengesellschaften über alle Verhältnisse, die für die Veranlagung der Teilhaber von Bedeutung sind, insbesondere über ihren Anteil an Einkommen und Vermögen der Gesellschaft.
 - d) die Arbeitgeber über die geldwerten Vorteile aus echten Mitarbeiterbeteiligungen sowie über die Zuteilung und die Ausübung von Mitarbeiteroptionen.
+- e) die Arbeitslosenkassen über ausgerichtete Leistungen.
 
 <sup>2</sup> Kollektive Kapitalanlagen müssen den Veranlagungsbehörden für jede Steuerperiode eine Bescheinigung über alle Verhältnisse einreichen, die für die Besteuerung des direkten Grundbesitzes und dessen Erträge massgeblich sind.
 
@@ -2364,6 +2412,14 @@ beschliessen:
 
 [^188-1]: VRPG (bGS [143.1](https://ar.clex.ch/data/143.1/de))
 
+#### Art. 188a
+
+**Bundesgericht**
+
+<sup>1</sup> Gegen den Entscheid des Obergerichts können die steuerpflichtige Person, die Eidgenössische Steuerverwaltung und die Kantonale Steuerverwaltung nach Massgabe des Bundesgerichtsgesetzes[^188a-1] Beschwerde in öffentlich-rechtlichen Angelegenheiten erheben.
+
+[^188a-1]: BGG (SR [173.110](https://db.clex.ch/link/Bund/173.110/de))
+
 ### F. Änderung rechtskräftiger Entscheide
 
 #### Art. 189
@@ -2548,9 +2604,7 @@ beschliessen:
 
 <sup>1</sup> Die Schlussrechnung wird der steuerpflichtigen Person nach Vornahme der Veranlagung zugestellt. Sie kann mit der Eröffnung der Veranlagung verbunden werden.
 
-<sup>2</sup> Wird gegen die Veranlagung Einsprache erhoben, gilt die Schlussrechnung als aufgehoben. Eine neue Schlussrechnung wird der steuerpflichtigen Person nach dem Entscheid über die Veranlagung zugestellt. Sie kann mit der Eröffnung des Entscheides verbunden werden.
-
-<sup>3</sup> Wird gegen den Entscheid über die Veranlagung Beschwerde erhoben, gilt die Schlussrechnung als aufgehoben. Eine neue Schlussrechnung wird der steuerpflichtigen Person nach Abschluss des Rechtsmittelverfahrens zugestellt.
+<sup>2–3</sup> …
 
 #### Art. 206
 
