@@ -4,13 +4,12 @@ number: "162.625"
 title: Geschäftsreglement der Rekurskommission für Massnahmen gegenüber Fahrzeugführerinnen und Fahrzeugführern
 short: GeschR RKMF
 language: de
-version: 2020-12-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-16
+version: 2024-01-01
+version_adopted: 2023-11-15
 adopted: 2020-09-16
 in_force: 2020-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.625"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2051/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2979/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2051/pdf_file"
 
 (GeschR RKMF)
 
-vom 16.09.2020 (Stand 01.12.2020)
+vom 16.09.2020 (Stand 01.01.2024)
 
 Die Rekurskommission des Kantons Bern für Massnahmen gegenüber Fahrzeugführerinnen und Fahrzeugführern,
 
@@ -133,10 +132,11 @@ beschliesst:
 
 <sup>2</sup> Über Streitigkeiten von grundsätzlicher Bedeutung entscheidet die RKMF in Fünferbesetzung.
 
-<sup>3</sup> Die Präsidentin oder der Präsident behandelt als Einzelrichterin oder Einzelrichter Beschwerden
+<sup>3</sup> Die Präsidentin oder der Präsident beurteilt als Einzelrichterin oder Einzelrichter Beschwerden gegen Zwischenverfügungen und -entscheide sowie Beschwerden,
 
 - a die zurückgezogen oder gegenstandslos werden,
-- b gegen vorsorgliche Massnahmen.
+- b …
+- c auf die nicht eingetreten werden kann.
 
 <sup>4</sup> Sie oder er kann für die Behandlung von Beschwerden nach Absatz 3 eine Besetzung nach Absatz 1 oder 2 festlegen, wenn die rechtlichen oder tatbeständlichen Verhältnisse es rechtfertigen.
 
@@ -216,7 +216,7 @@ beschliesst:
 
 <sup>2</sup> Für Personalentscheide bezüglich des weiteren Personals der Geschäftsstelle ist die Geschäftsleitung zuständig. Diese Aufgabe kann der Leiterin oder dem Leiter der Geschäftsstelle übertragen werden.
 
-<sup>3</sup> Im Übrigen werden Personalangelegenheiten nach Vorgabe der Justizleitung und des Verwaltungsgerichts geregelt.
+<sup>3</sup> Im Übrigen werden Personalangelegenheiten nach Vorgabe der Justizverwaltungsleitung und des Verwaltungsgerichts geregelt.
 
 ## 5 Information und Öffentlichkeit
 

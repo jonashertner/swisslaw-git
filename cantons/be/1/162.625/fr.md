@@ -4,13 +4,12 @@ number: "162.625"
 title: Règlement d’organisation de la Commission de recours contre les mesures administratives prononcées en vertu de la loi sur la circulation routière
 short: ROr CRMLCR
 language: fr
-version: 2020-12-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-16
+version: 2024-01-01
+version_adopted: 2023-11-15
 adopted: 2020-09-16
 in_force: 2020-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.625"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2051/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2979/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2051/pdf_file"
 
 (ROr CRMLCR)
 
-du 16.09.2020 (état au 01.12.2020)
+du 16.09.2020 (état au 01.01.2024)
 
 La Commission de recours du canton de Berne contre les mesures administratives prononcées en vertu de la loi sur la circulation routière,
 
@@ -133,10 +132,11 @@ arrête:
 
 <sup>2</sup> Lors de litiges d’une importance fondamentale, la CRMLCR statue dans une composition de cinq juges.
 
-<sup>3</sup> Le président ou la présidente connaît en qualité de juge unique des recours
+<sup>3</sup> Le président ou la présidente connaît en qualité de juge unique des recours introduits contre des décisions incidentes ou des décisions sur opposition incidentes ainsi que des recours
 
 - a qui ont été retirés ou sont devenus sans objet;
-- b contre des mesures provisionnelles.
+- b …
+- c sur lesquels il ne peut être entré en matière.
 
 <sup>4</sup> Lorsque les circonstances de droit ou de fait le justifient, il ou elle peut définir pour le traitement des recours selon l’alinéa 3 une composition au sens de l’alinéa 1 ou 2.
 
@@ -216,7 +216,7 @@ arrête:
 
 <sup>2</sup> Le directoire est compétent pour les décisions en matière de personnel concernant les autres membres du secrétariat. Cette tâche peut être déléguée au ou à la responsable du secrétariat.
 
-<sup>3</sup> Au surplus, les questions en matière de personnel sont réglées selon les directives de la Direction de la magistrature et du Tribunal administratif.
+<sup>3</sup> Au surplus, les questions en matière de personnel sont réglées selon les directives de la Direction administrative de la magistrature et du Tribunal administratif.
 
 ## 5 Information et publicité
 
