@@ -4,13 +4,13 @@ number: "506.060"
 title: "Ordinanza della legge sulla promozione della cura degli ammalati e dell'assistenza alle persone anziane e bisognose di cure"
 short: "Ordinanza della legge sulla cura degli ammalati, OLCA"
 language: it
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-31
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-23
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3298/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3353/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3298/pdf_file"
 
 (Ordinanza della legge sulla cura degli ammalati, OLCA)
 
-del 19.12.2017 (stato 01.01.2023)
+del 19.12.2017 (stato 01.01.2024)
 
 emanata dal Governo il 19 dicembre 2017
 
@@ -36,10 +36,10 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> Gli ospedali, le cliniche e le case per partorienti (di seguito: ospedali) che figurano nell'elenco degli ospedali del Cantone e che sono situati nel Cantone sono tenuti:
 
 - a) ad allestire il conto annuale conformemente ai principi per la presentazione dei conti emanati dalla Fondazione per le raccomandazioni relative alla presentazione dei conti (Swiss GAAP RPC) e al manuale della Federazione grigionese ospedali e case di cura basato su di essi. Il manuale deve essere approvato dall'Ufficio dell'igiene pubblica (Ufficio);
-- b) ad allestire un rapporto sulle retribuzioni secondo le direttive previste dall'articolo 663b<sup>bis</sup> CO[^1-1];
-- c) a calcolare e registrare i costi e le prestazioni conformemente all'ordinanza sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell'assicurazione malattie[^1-2] (OCPre) e al manuale REKOLE® di H+ Gli Ospedali Svizzeri.
+- b) …
+- c) a calcolare e registrare i costi e le prestazioni conformemente all'ordinanza sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell'assicurazione malattie[^1-1] (OCPre) e al manuale REKOLE® di H+ Gli Ospedali Svizzeri.
 
-<sup>2</sup> Il rapporto sulle retribuzioni deve essere pubblicato quale allegato al bilancio e sul sito web degli ospedali. Nel rapporto sulle retribuzioni destinato alla pubblicazione, in deroga alle direttive di cui all'articolo 663b<sup>bis</sup> capoverso 4 numero 2 CO la retribuzione corrisposta alla direzione deve essere indicata quale importo totale.
+<sup>2</sup> …
 
 <sup>3</sup> L'anno d'esercizio deve corrispondere all'anno civile.
 
@@ -47,8 +47,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>5</sup> Nel caso di case per partorienti, l'Ufficio può ridurre i requisiti posti alla presentazione dei conti oppure esentarle dall'obbligo di tenere un calcolo dei costi.
 
-[^1-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
-[^1-2]: RS [832.104](https://db.clex.ch/link/Bund/832.104/it)
+[^1-1]: RS [832.104](https://db.clex.ch/link/Bund/832.104/it)
 
 #### Art. 2
 
@@ -60,13 +59,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>3</sup> Il calcolo dei costi va allestito conformemente al manuale dell'Associazione degli istituti sociali e di cura svizzeri e alle direttive dell'Ufficio.
 
-<sup>4</sup> Il rapporto sulle retribuzioni deve essere allestito secondo le direttive di cui all'articolo 663b<sup>bis</sup> CO[^2-1] e deve essere pubblicato quale allegato al bilancio nonché sul sito web della casa per anziani e di cura. Nel rapporto sulle retribuzioni destinato alla pubblicazione, in deroga alle direttive di cui all'articolo 663b<sup>bis</sup> capoverso 4 numero 2 CO la retribuzione corrisposta alla direzione deve essere indicata quale importo totale. Se la direzione è composta da un'unica persona, si può rinunciare a pubblicare la retribuzione.
+<sup>4</sup> …
 
 <sup>5</sup> …
 
 <sup>6</sup> L'anno d'esercizio deve corrispondere all'anno civile.
-
-[^2-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
 
 #### Art. 3
 
@@ -99,8 +96,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> Gli ospedali che figurano sull'elenco degli ospedali del Cantone e che sono situati nel Cantone devono inoltrare all'Ufficio i seguenti documenti:
 
 - a) la statistica ospedaliera e la statistica medica secondo le direttive dell'Ufficio federale di statistica;
-- b) entro dieci giorni dalla conclusione di un trimestre, il numero di casi provvisorio con indicazioni relative alla provenienza, all'età, a chi si assume i costi e al tipo di assicurazione dei singoli casi;
-- c) entro 30 giorni dalla fine di un trimestre, i dati della statistica medica compresi i dati facoltativi nell'insieme minimo di dati;
+- b) la fattura elettronica di ogni singolo caso nello standard XML, tramite l'interfaccia, dopo la dimissione;
+- c) …
 - d) i dati relativi ai pazienti, per quanto siano necessari alla verifica dell'obbligo di versare sussidi e alla concessione di sussidi;
 - e) i dati relativi allo spettro e alla quantità di prestazioni;
 - f) i dati finanziari determinanti per il sussidio cantonale in base a un modulo messo a disposizione dall'Ufficio;
@@ -108,7 +105,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - h) entro il 31 marzo dell'anno seguente, il calcolo dei costi, il risultato dei rilevamenti della qualità prescritti dal Governo, nonché i dati e i documenti necessari per il calcolo dei sussidi e per la verifica dell'autorizzazione d'esercizio;
 - i) entro il 30 aprile dell'anno seguente, il conto annuale sottoposto a una revisione ordinaria conformemente all'articolo 727 CO[^5-1] insieme alla contabilità degli investimenti, nonché il rapporto completo dell'ufficio di revisione;
 - j) tutti i dati dei servizi di salvataggio registrati nel programma di redazione dei verbali e di gestione della qualità;
-- k) i file dei costi per caso forniti nel quadro della rilevazione dei dati di SwissDRG.
+- k) il file dei costi per caso fornito nel quadro della rilevazione dei dati di SwissDRG.
 
 [^5-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
 
@@ -169,13 +166,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Versamento dei sussidi**
 
-<sup>1</sup> Per la fine di ogni mese, l'Ufficio versa degli acconti pari al 90 per cento dei pagamenti dell'anno precedente.
+<sup>1</sup> Dopo la dimissione, quale indennizzo per il singolo caso l'Ufficio versa la quota cantonale ai trattamenti stazionari sulla base delle fatture elettroniche trasmesse all'Ufficio dell'igiene pubblica nello standard XML tramite l'interfaccia.
 
-<sup>2</sup> Per la fine del mese che segue il trimestre, versa sussidi alle prestazioni provvisori prendendo ogni volta quale base i dati per caso provvisori.
+<sup>2</sup> …
 
 <sup>3</sup> La determinazione definitiva dei sussidi alle prestazioni avviene da parte dell'Ufficio dopo l'esame dei dati statistici e dei dati finanziari.
 
-<sup>4</sup> I sussidi del Cantone per il servizio pre-ospedaliero di soccorso e trasporto sanitario, per la formazione universitaria e la ricerca, per prestazioni economicamente di interesse generale e per garantire l'assistenza sanitaria vengono versati in misura di un quarto alla fine di ciascun trimestre.
+<sup>4</sup> I sussidi del Cantone per il servizio pre-ospedaliero di soccorso e trasporto sanitario, per la formazione universitaria e la ricerca, per prestazioni economicamente di interesse generale e per garantire l'assistenza sanitaria vengono versati in ragione della metà ogni volta a metà gennaio e a metà luglio.
 
 <sup>5</sup> La quota comunale viene anticipata dal Cantone e fatturata ai comuni durante l'anno seguente.
 
@@ -475,9 +472,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> I familiari curanti possono essere assunti dietro loro richiesta dai servizi di cura e assistenza a domicilio, in misura pari al risultato della verifica del bisogno e nei limiti delle proprie competenze, se:
 
-- a) dispongono di un certificato di collaboratori sanitari rilasciato dalla Croce Rossa Svizzera (CRS) oppure hanno concluso una formazione in una professione indicata nell'elenco di cui all'articolo 10 capoverso 2 dell'ordinanza relativa alla legge sanitaria[^29-1];
-- b) l'intervento fa fronte a una situazione di lunga durata e se l'assunzione dura almeno due mesi;
-- c) non hanno ancora raggiunto l'età AVS.
+- a) hanno frequentato un corso in cure di base e assistenza per persone di riferimento riconosciuto dall'Ufficio o si impegnano a frequentare un tale corso entro un anno dall'assunzione oppure hanno concluso una formazione in una professione indicata nell'elenco di cui all'articolo 10 capoverso 2 dell'ordinanza relativa alla legge sanitaria[^29-1];
+- b) l'intervento fa fronte a una situazione di lunga durata e se l'assunzione dura almeno due mesi.
+- c) …
 
 [^29-1]: CSC [500.010](https://www.gr-lex.gr.ch/data/500.010/it)
 
@@ -623,11 +620,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 45
 
-**Medici liberi professionisti**
-
-<sup>1</sup> I medici coinvolti nel servizio pre-ospedaliero di soccorso e trasporto sanitario dell'ospedale devono essere indennizzati con 800 franchi per ogni giorno di servizio prestato durante i fine settimana o i giorni festivi che supera il limite di 12,5 giorni di servizio all'anno prestati durante i fine settimana o i giorni festivi.
-
-<sup>2</sup> L'Ufficio può limitare il numero di giorni e di medici aventi diritto a indennizzo per ogni regione ospedaliera.
+**…**
 
 #### Art. 46
 

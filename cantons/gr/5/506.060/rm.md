@@ -4,13 +4,13 @@ number: "506.060"
 title: "Ordinaziun tar la lescha per promover la tgira da persunas malsaunas e l'assistenza da persunas attempadas e da persunas che basegnan tgira"
 short: "ordinaziun tar la lescha per promover la tgira da persunas malsaunas, OLTM"
 language: rm
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-31
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-23
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3298/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3353/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3298/pdf_file"
 
 (ordinaziun tar la lescha per promover la tgira da persunas malsaunas, OLTM)
 
-dals 19-12-2017 (versiun dals 01-01-2023)
+dals 19-12-2017 (versiun dals 01-01-2024)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -36,10 +36,10 @@ relaschada da la regenza ils 19 da december 2017
 <sup>1</sup> Ospitals, clinicas e chasas da parturir (en quai che suonda: ospitals) che sa chattan sin la glista dals ospitals dal chantun e che han lur lieu da domicil en il chantun èn obligads:
 
 - a) da far il quint annual tenor ils princips davart il rendaquint che vegnan relaschads da la fundaziun per las recumandaziuns tecnicas per il rendaquint (Swiss GAAP RRQ) e tenor il manual da la federaziun grischuna "chasas ed ospitals" che sa basa sin quai. Il manual sto vegnir approvà da l'uffizi da sanadad (uffizi);
-- b) da far in rapport d'indemnisaziun analogamain a las directivas da l'artitgel 663b<sup>bis</sup> DO[^1-1];
-- c) d'eruir e da registrar ils custs e las prestaziuns tenor l'ordinaziun davart la calculaziun dals custs e la registraziun da las prestaziuns tras ils ospitals, tras las chasas da parturir e tras las chasas da tgira en l'assicuranza da malsauns[^1-2] (OCPre) e tenor il manual REKOLE® da H+ Ils ospitals da la Svizra.
+- b) …
+- c) d'eruir e da registrar ils custs e las prestaziuns tenor l'ordinaziun davart la calculaziun dals custs e la registraziun da las prestaziuns tras ils ospitals, tras las chasas da parturir e tras las chasas da tgira en l'assicuranza da malsauns[^1-1] (OCPre) e tenor il manual REKOLE® da H+ Ils ospitals da la Svizra.
 
-<sup>2</sup> Il rapport d'indemnisaziun sto vegnir publitgà sco agiunta tar la bilantscha e sin la pagina d'internet dals ospitals. En il rapport d'indemnisaziun ch'è destinà per la publicaziun sto l'indemnisaziun a la direcziun vegnir cumprovada sco import total, e quai en divergenza da las directivas da l'artitgel 663b<sup>bis</sup> alinea 4 cifra 2 DO.
+<sup>2</sup> …
 
 <sup>3</sup> L'onn da gestiun sto correspunder a l'onn chalendar.
 
@@ -47,8 +47,7 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>5</sup> En cas da las chasas da parturir po l'uffizi reducir las pretensiuns envers il rendaquint u deliberar quellas da l'obligaziun da manar ina calculaziun dals custs.
 
-[^1-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
-[^1-2]: CS [832.104](https://db.clex.ch/link/Bund/832.104/rm)
+[^1-1]: CS [832.104](https://db.clex.ch/link/Bund/832.104/rm)
 
 #### Art. 2
 
@@ -60,13 +59,11 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>3</sup> La calculaziun dals custs sto vegnir fatga tenor il manual da l'associaziun dals instituts socials e da tgira svizzers e tenor las directivas da l'uffizi.
 
-<sup>4</sup> Il rapport d'indemnisaziun sto vegnir fatg analogamain a las directivas da l'artitgel 663b<sup>bis</sup> DO[^2-1] e publitgà sco agiunta tar la bilantscha sco er sin la pagina d'internet da la chasa da persunas attempadas e da tgira. En il rapport d'indemnisaziun ch'è destinà per la publicaziun sto l'indemnisaziun a la direcziun vegnir cumprovada sco import total, e quai en divergenza da las directivas da l'artitgel 663b<sup>bis</sup> alinea 4 cifra 2 DO. Sche la direcziun cumpiglia mo ina persuna, poi vegnir desistì da publitgar l'indemnisaziun.
+<sup>4</sup> …
 
 <sup>5</sup> …
 
 <sup>6</sup> L'onn da gestiun sto correspunder a l'onn chalendar.
-
-[^2-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
 
 #### Art. 3
 
@@ -99,8 +96,8 @@ relaschada da la regenza ils 19 da december 2017
 <sup>1</sup> Ospitals che figureschan sin la glista dals ospitals dal chantun e che han lur domicil en il chantun èn obligads d'inoltrar ils suandants documents a l'uffizi:
 
 - a) la statistica da l'ospital e la statistica medicinala tenor las directivas da l'uffizi federal da statistica;
-- b) ils dumbers provisorics da cas cun inditgar la provegnientscha, la vegliadetgna, ils purtaders dals custs ed il tip d'assicuranza dals singuls cas. Quests dumbers ston vegnir furnids mintgamai entaifer 10 dis suenter la fin d'in quartal;
-- c) las datas da la statistica medicinala inclusiv las datas facultativas en las unitads da datas minimalas, e quai mintgamai entaifer 30 dis suenter la fin d'in quartal;
+- b) suenter l'extrada, il quint electronic da mintga cas singul en il standard XML sur l'interfatscha;
+- c) …
 - d) las datas da pazientas e da pazients, uschenavant ch'ellas èn necessarias per controllar l'obligaziun da pajar contribuziuns e per conceder contribuziuns;
 - e) las datas davart il spectrum da prestaziun e davart la quantitad da prestaziun;
 - f) las datas da finanzas ch'èn decisivas per la contribuziun chantunala, e quai a maun d'in formular che vegn mess a disposiziun da l'uffizi;
@@ -108,7 +105,7 @@ relaschada da la regenza ils 19 da december 2017
 - h) fin il pli tard ils 31 da mars da l'onn suandant la calculaziun dals custs, il resultat da las mesiraziuns da la qualitad prescrittas da la regenza, sco er las datas ed ils documents ch'èn necessaris per calcular las contribuziuns e per controllar la permissiun da manaschi;
 - i) fin il pli tard ils 30 d'avrigl da l'onn suandant il quint annual cun la contabilitad da la facultad investida, ch'è vegnì suttamess ad ina revisiun ordinaria tenor l'artitgel 727 DO[^5-1], sco er il rapport cumplessiv dal post da revisiun;
 - j) tut las datas dals servetschs da salvament ch'èn registradas en il program per rediger protocols e per il management da qualitad;
-- k) la datoteca dals custs pro cas furnida en il rom da la retschertga da datas da swissDRG.
+- k) la datoteca dals custs pro cas furnida en il rom da la retschertga da datas da SwissDRG.
 
 [^5-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
 
@@ -169,13 +166,13 @@ relaschada da la regenza ils 19 da december 2017
 
 **Pajament da las contribuziuns**
 
-<sup>1</sup> L'uffizi fa mintgamai per la fin dal mais pajaments a quint en l'autezza da 90 pertschient dals pajaments da l'onn precedent.
+<sup>1</sup> L'uffizi paja la cumpart chantunala als tractaments staziunars sco indemnisaziun per il cas singul, e quai suenter l'extrada sin basa dals quints electronics, che vegnan transmess en il standard XML sur l'interfatscha a l'Uffizi da sanadad.
 
-<sup>2</sup> Per la fin dal mais che suonda il quartal paja el – mintgamai sin basa da las datas da cas provisoricas – contribuziuns da prestaziun provisoricas.
+<sup>2</sup> …
 
 <sup>3</sup> La determinaziun definitiva da las contribuziuns da prestaziun vegn fatga da l'uffizi suenter la controlla da las datas statisticas e da las datas finanzialas.
 
-<sup>4</sup> Las contribuziuns dal chantun per il servetsch da transport en cas d'urgenza e d'ambulanza, per l'instrucziun universitara e per la perscrutaziun, per las prestaziuns d'utilitad publica e per la garanzia dal provediment vegnan pajadas mintgamai per in quart a la fin da mintga quartal.
+<sup>4</sup> Las contribuziuns dal chantun per il servetsch da transport en cas d'urgenza e d'ambulanza, per l'instrucziun universitara e per la perscrutaziun, per las prestaziuns d'utilitad publica e per la garanzia dal provediment vegnan pajadas mintgamai per la mesadad mez schaner e mez fanadur.
 
 <sup>5</sup> La part da la vischnanca vegn prefinanziada dal chantun e messa a quint a la vischnanca l'onn suandant.
 
@@ -475,9 +472,9 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>1</sup> Persunas che tgiran lur confamigliars pon – sin lur dumonda – vegnir engaschadas dals servetschs da la tgira ed assistenza a chasa en la dimensiun dals resultats dal scleriment dal basegn ed en il rom da lur cumpetenzas, sche:
 
-- a) ellas ed els possedan in certificat sco gidantra u gidanter da tgira da la crusch cotschna svizra (CCS) u disponan d'ina scolaziun terminada en ina da las professiuns menziunadas sin la glista tenor l'artitgel 10 alinea 2 da l'ordinaziun tar la lescha da sanadad[^29-1];
-- b) l'acziun correspunda ad ina situaziun da lunga durada e l'engaschament è concepì per la durada d'almain 2 mais;
-- c) ellas ed els n'han betg anc cuntanschì la vegliadetgna da la AVS.
+- a) ellas ed els han absolvì in curs en tgira da basa ed assistenza per persunas da referiment u s'obligheschan d'absolver in tal entaifer 1 onn a partir da l'engaschament, u han in diplom d'ina professiun ch'è menziunada sin la glista tenor l'artitgel 10 alinea 2 da l'Ordinaziun tar la Lescha da sanadad[^29-1];
+- b) l'engaschi correspunda ad ina situaziun da lunga durada e l'engaschament è concepì per la durada d'almain 2 mais.
+- c) …
 
 [^29-1]: DG [500.010](https://www.gr-lex.gr.ch/data/500.010/rm)
 
@@ -623,11 +620,7 @@ relaschada da la regenza ils 19 da december 2017
 
 #### Art. 45
 
-**Medias e medis che pratitgeschan en moda libra**
-
-<sup>1</sup> Medias e medis che lavuran en il servetsch da transport en cas d'urgenza e d'ambulanza da l'ospital ston vegnir indemnisads cun 800 francs per di per ils dis da servetsch a las fin d'emnas u als firads che surpassan ils 12,5 dis da servetsch a las fin d'emnas u als firads per onn.
-
-<sup>2</sup> Per regiun d'ospital po l'uffizi limitar il dumber da dis cun dretg da survegnir ina indemnisaziun sco er il dumber da medias e da medis che han il dretg da survegnir ina indemnisaziun.
+**…**
 
 #### Art. 46
 

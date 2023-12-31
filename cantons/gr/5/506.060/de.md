@@ -4,13 +4,13 @@ number: "506.060"
 title: Verordnung zum Gesetz über die Förderung der Krankenpflege und der Betreuung von betagten und pflegebedürftigen Personen
 short: "Verordnung zum Krankenpflegegesetz, VOzKPG"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-31
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-23
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3298/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3353/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3298/pdf_file"
 
 (Verordnung zum Krankenpflegegesetz, VOzKPG)
 
-Vom 19.12.2017 (Stand 01.01.2023)
+Vom 19.12.2017 (Stand 01.01.2024)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -36,10 +36,10 @@ von der Regierung erlassen am 19. Dezember 2017
 <sup>1</sup> Spitäler, Kliniken und Geburtshäuser (nachfolgend Spitäler), die sich auf der Spitalliste des Kantons befinden und ihren Standort im Kanton haben, sind verpflichtet:
 
 - a) die Jahresrechnung gemäss den von der Stiftung für Fachempfehlungen zur Rechnungslegung erlassenen Grundsätzen zur Rechnungslegung (Swiss GAAP FER) und dem darauf beruhenden Handbuch des Bündner Spital- und Heimverbands zu erstellen. Das Handbuch ist vom Gesundheitsamt (Amt) zu genehmigen;
-- b) einen Vergütungsbericht analog den Vorgaben von Artikel 663b<sup>bis</sup> OR[^1-1] zu erstellen;
-- c) die Kosten und Leistungen gemäss der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung[^1-2] (VKL) und dem Handbuch REKOLE® von H+ Die Spitäler der Schweiz zu ermitteln und zu erfassen.
+- b) …
+- c) die Kosten und Leistungen gemäss der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung[^1-1] (VKL) und dem Handbuch REKOLE® von H+ Die Spitäler der Schweiz zu ermitteln und zu erfassen.
 
-<sup>2</sup> Der Vergütungsbericht ist als Anhang zur Bilanz und auf der Webseite der Spitäler zu veröffentlichen. In dem für die Veröffentlichung bestimmten Vergütungsbericht ist die Vergütung an die Geschäftsleitung in Abweichung von den Vorgaben von Artikel 663b<sup>bis</sup> Absatz 4 Ziffer 2 OR als Gesamtbetrag auszuweisen.
+<sup>2</sup> …
 
 <sup>3</sup> Das Geschäftsjahr hat dem Kalenderjahr zu entsprechen.
 
@@ -47,8 +47,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>5</sup> Das Amt kann bei den Geburtshäusern die Anforderungen an die Rechnungslegung reduzieren oder diese von der Pflicht zur Führung einer Kostenrechnung befreien.
 
-[^1-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
-[^1-2]: SR [832.104](https://db.clex.ch/link/Bund/832.104/de)
+[^1-1]: SR [832.104](https://db.clex.ch/link/Bund/832.104/de)
 
 #### Art. 2
 
@@ -60,13 +59,11 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>3</sup> Die Kostenrechnung ist gemäss dem Handbuch des Verbands Heime und Institutionen Schweiz und den Vorgaben des Amts zu erstellen.
 
-<sup>4</sup> Der Vergütungsbericht ist analog den Vorgaben von Artikel 663b<sup>bis</sup> OR[^2-1] zu erstellen und als Anhang zur Bilanz sowie auf der Webseite des Alters- und Pflegeheims zu veröffentlichen. In dem für die Veröffentlichung bestimmten Vergütungsbericht ist die Vergütung an die Geschäftsleitung in Abweichung von den Vorgaben von Artikel 663b<sup>bis</sup> Absatz 4 Ziffer 2 OR als Gesamtbetrag auszuweisen. Besteht die Geschäftsleitung aus einer Person, kann auf die Veröffentlichung der Vergütung verzichtet werden.
+<sup>4</sup> …
 
 <sup>5</sup> …
 
 <sup>6</sup> Das Geschäftsjahr hat dem Kalenderjahr zu entsprechen.
-
-[^2-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 3
 
@@ -99,8 +96,8 @@ von der Regierung erlassen am 19. Dezember 2017
 <sup>1</sup> Spitäler, die sich auf der Spitalliste des Kantons befinden und ihren Standort im Kanton haben, sind verpflichtet, dem Amt folgende Unterlagen einzureichen:
 
 - a) die Krankenhausstatistik und die medizinische Statistik gemäss den Vorgaben des Bundesamts für Statistik;
-- b) jeweils innert zehn Tagen nach Ende eines Quartals provisorische Fallzahlen mit Angaben über die Herkunft, das Alter, den Kostenträger und die Versicherungsart der einzelnen Fälle;
-- c) jeweils innert 30 Tagen nach Ende eines Quartals die Daten der medizinischen Statistik inklusive der fakultativen Daten im Minimaldatensatz;
+- b) nach Austritt die elektronische Rechnung jedes Einzelfalls im XML-Standard via Schnittstelle;
+- c) …
 - d) Patientendaten, soweit sie zur Überprüfung der Beitragspflicht und zur Beitragsgewährung notwendig sind;
 - e) Daten hinsichtlich Leistungsspektrum und Leistungsmenge;
 - f) die für den Kantonsbeitrag massgebenden Finanzdaten anhand eines vom Amt zur Verfügung gestellten Formulars;
@@ -108,7 +105,7 @@ von der Regierung erlassen am 19. Dezember 2017
 - h) bis spätestens am 31. März des Folgejahres die Kostenrechnung, das Ergebnis der von der Regierung vorgegebenen Qualitätsmessungen sowie die zur Beitragsbemessung und zur Überprüfung der Betriebsbewilligung notwendigen Daten und Unterlagen;
 - i) bis spätestens am 30. April des Folgejahres die einer ordentlichen Revision gemäss Artikel 727 OR[^5-1] unterzogene Jahresrechnung mit der Anlagebuchhaltung sowie den umfassenden Bericht der Revisionsstelle;
 - j) alle im Protokollerfassungs- und Qualitätsmanagementprogramm erfassten Daten der Rettungsdienste;
-- k) die im Rahmen der swissDRG-Datenerhebung gelieferte Fallkostendatei.
+- k) die im Rahmen der SwissDRG-Datenerhebung gelieferte Fallkostendatei.
 
 [^5-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
@@ -169,13 +166,13 @@ von der Regierung erlassen am 19. Dezember 2017
 
 **Auszahlung der Beiträge**
 
-<sup>1</sup> Das Amt richtet jeweils Ende Monat Akontozahlungen in der Höhe von 90 Prozent der Zahlungen des Vorjahres aus.
+<sup>1</sup> Das Amt richtet den kantonalen Anteil an den stationären Behandlungen nach Austritt auf Basis elektronischer Rechnungen, welche im XML-Standard via Schnittstelle an das Gesundheitsamt übermittelt werden, als Einzelfallabgeltung aus.
 
-<sup>2</sup> Per Ende des Quartalsfolgemonats richtet es jeweils auf der Basis der provisorischen Falldaten provisorische Leistungsbeiträge aus.
+<sup>2</sup> …
 
 <sup>3</sup> Die definitive Festsetzung der Leistungsbeiträge erfolgt durch das Amt nach Prüfung der statistischen Daten und der Finanzdaten.
 
-<sup>4</sup> Die Beiträge des Kantons für den Notfall- und Krankentransportdienst, für die universitäre Lehre und die Forschung, für die gemeinwirtschaftlichen Leistungen und für die Sicherstellung der Versorgung werden jeweils zu einem Viertel am Ende jedes Quartals ausgerichtet.
+<sup>4</sup> Die Beiträge des Kantons für den Notfall- und Krankentransportdienst, für die universitäre Lehre und die Forschung, für die gemeinwirtschaftlichen Leistungen und für die Sicherstellung der Versorgung werden jeweils hälftig Mitte Januar und Mitte Juli ausgerichtet.
 
 <sup>5</sup> Der Gemeindeanteil wird durch den Kanton vorfinanziert und den Gemeinden im darauffolgenden Jahr in Rechnung gestellt.
 
@@ -475,9 +472,9 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>1</sup> Pflegende Angehörige können auf ihr Begehren hin durch die Dienste der häuslichen Pflege und Betreuung im Umfang des Ergebnisses der Bedarfsklärung und im Rahmen ihrer Kompetenzen angestellt werden, wenn:
 
-- a) sie über ein Zertifikat Pflegehelferin oder Pflegehelfer des Schweizerischen Roten Kreuzes (SRK) oder über eine abgeschlossene Ausbildung in einem auf der Liste gemäss Artikel 10 Absatz 2 der Verordnung zum Gesundheitsgesetz[^29-1] aufgeführten Beruf verfügen;
-- b) der Einsatz einer Langzeitsituation entspricht und die Anstellung auf mindestens zwei Monate angelegt ist;
-- c) sie noch nicht das AHV-Alter erreicht haben.
+- a) sie einen vom Amt anerkannten Kurs in der Grundpflege und Betreuung für Bezugspersonen absolviert haben oder sich verpflichten, innerhalb eines Jahres ab Anstellung einen solchen zu absolvieren, oder über eine abgeschlossene Ausbildung in einem auf der Liste gemäss Artikel 10 Absatz 2 der Verordnung zum Gesundheitsgesetz[^29-1] aufgeführten Beruf verfügen;
+- b) der Einsatz einer Langzeitsituation entspricht und die Anstellung auf mindestens zwei Monate angelegt ist.
+- c) …
 
 [^29-1]: BR [500.010](https://www.gr-lex.gr.ch/data/500.010/de)
 
@@ -623,11 +620,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 #### Art. 45
 
-**Frei praktizierende Ärzte**
-
-<sup>1</sup> Ärztinnen und Ärzte, welche in den Notfall- und Krankentransportdienst des Spitals eingebunden sind, sind für die über 12.5 Diensttage an Wochenenden oder Feiertagen pro Jahr hinausgehenden Diensttage an Wochenenden oder Feiertagen mit 800 Franken pro Tag zu entschädigen.
-
-<sup>2</sup> Das Amt kann die Anzahl der entschädigungsberechtigten Tage und der entschädigungsberechtigten Ärztinnen und Ärzte pro Spitalregion limitieren.
+**…**
 
 #### Art. 46
 
