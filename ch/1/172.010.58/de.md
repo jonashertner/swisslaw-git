@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über die Koordination der digitalen Tr
 short: VDTI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: de
-version: 2023-11-01
+version: 2024-01-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20231101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/de"
 
 (Verordnung über die digitale Transformation und die Informatik, VDTI)
 
-vom 25. November 2020 (Stand am 1. November 2023)
+vom 25. November 2020 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -61,11 +61,24 @@ Die nachstehenden Stellen können sich, unter dem Vorbehalt widersprechender org
 
 <sup>4</sup> Der Bereich DTI der BK stellt Mustervereinbarungen zur Verfügung.
 
-<sup>5</sup> Er konsultiert zu Mustervereinbarungen und Vereinbarungen mit Auswirkungen auf die Cybersicherheit das Nationale Zentrum für Cybersicherheit (NCSC).
+<sup>5</sup> Er konsultiert zu Mustervereinbarungen und Vereinbarungen mit Auswirkungen auf die Cybersicherheit das Bundesamt für Cybersicherheit (BACS).[^2-4]
 
 [^2-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^2-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 [^2-3]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^2-4]: Fassung gemäss Ziff. II 4 der V vom 22. Nov. 2023, in Kraft seit 1.Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+
+#### Art. 2a
+
+**Anwendbarkeit auf einsatzkritische IKT-Leistungen der Armee**[^2a-1]
+
+<sup>1</sup> Auf IKT-Leistungen der Armee, die während eines Einsatzes für die wirkungsvolle Erfüllung der Aufgaben der Armee zwingend, autark und permanent zur Verfügung stehen müssen (einsatzkritische IKT-Leistungen der Armee), ist nur Kapitel 5 anwendbar.
+
+<sup>2</sup> Das Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) definiert die einsatzkritischen IKT-Leistungen der Armee in einem Leistungskatalog. Es hört vorgängig den Bereich DTI der BK an.
+
+<sup>3</sup> Bei Differenzen entscheidet die Vorsteherin oder der Vorsteher des VBS. Artikel 19 gilt sinngemäss.
+
+[^2a-1]: Eingefügt durch Ziff. II 4 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 3
 
@@ -117,10 +130,14 @@ Der Digitalisierungsrat setzt sich zusammen aus:
 - b. je einer Vertreterin oder einem Vertreter jedes Departements;
 - c. der oder dem Beauftragten des Bundes und der Kantone für die digitale Verwaltung Schweiz;
 - d. einer Vertreterin oder einem Vertreter der Informatikbetreiberkonferenz (Art. 10);
-- e. einer Vertreterin oder einem Vertreter des NCSC;
+- e.[^6-1] einer Vertreterin oder einem Vertreter des BACS;
 - f. einer Vertreterin oder einem Vertreter des Bundesamtes für Statistik (BFS).
+- g.[^6-2] einer Vertreterin oder einem Vertreter des Kommando Cyber, sofern für das Kommando Cyber verbindliche Beschlüsse diskutiert werden.
 
 <sup>2</sup> Die oder der DTI-Delegierte führt den Vorsitz.
+
+[^6-1]: Fassung gemäss Ziff. II 4 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^6-2]: Eingeführt durch Ziff. II 4 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 7
 
@@ -201,7 +218,9 @@ Er setzt sich zusammen aus je einer Vertreterin oder einem Vertreter der folgend
 
 <sup>3</sup> Die Vertreterin oder der Vertreter des Bereichs DTI der BK führt den Vorsitz.
 
-<sup>4</sup> Mit beratender Stimme nehmen je eine Vertreterin oder ein Vertreter des Bundesamtes für Informatik und Telekommunikation sowie der Führungsunterstützungsbasis an den Sitzungen teil.
+<sup>4</sup> Mit beratender Stimme nimmt eine Vertreterin oder ein Vertreter des Bundesamtes für Informatik und Telekommunikation an den Sitzungen teil.[^12-1]
+
+[^12-1]: Fassung gemäss Ziff. II 4 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## 3. Kapitel: Strategien
 

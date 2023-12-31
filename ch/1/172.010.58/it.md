@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sul coordinamento della trasformazione di
 short: OTDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: it
-version: 2023-11-01
+version: 2024-01-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20231101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/it"
 
 (Ordinanza sulla trasformazione digitale e l’informatica, OTDI)
 
-del 25 novembre 2020 (Stato 1° novembre 2023)
+del 25 novembre 2020 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -61,11 +61,24 @@ Fatte salve disposizioni di diverso tenore previste dal diritto federale in mate
 
 <sup>4</sup> Il settore TDT della CaF propone accordi tipo.
 
-<sup>5</sup> Esso consulta il Centro nazionale per la cibersicurezza in merito agli accordi e agli accordi tipo rilevanti per la cibersicurezza.
+<sup>5</sup> Esso consulta l’Ufficio federale della cibersicurezza (UFCS) in merito agli accordi e agli accordi tipo rilevanti per la cibersicurezza.[^2-4]
 
 [^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^2-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 [^2-3]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^2-4]: Nuovo testo giusta il n. II 4 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+
+#### Art. 2a
+
+**Applicabilità alle prestazioni TIC dell’esercito critiche per gli impieghi**[^2a-1]
+
+<sup>1</sup> Alle prestazioni TIC dell’esercito che, per l’adempimento efficace dei compiti dell’esercito, durante un impiego devono essere a disposizione necessariamente, in modo autarchico e permanente (prestazioni TIC dell’esercito critiche per gli impieghi) è applicabile unicamente il capitolo 5.
+
+<sup>2</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) definisce in un catalogo delle prestazioni le prestazioni TIC dell’esercito critiche per gli impieghi. In via preliminare sente il settore Trasformazione digitale e governance delle TIC della CaF.
+
+<sup>3</sup> In caso di divergenze decide il capo del DDPS. L’articolo 19 si applica per analogia.
+
+[^2a-1]: Introdotto dal n. II 4 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 3
 
@@ -117,10 +130,14 @@ Il Consiglio TDT si compone delle persone seguenti:
 - b. un rappresentante di ogni dipartimento;
 - c. l’incaricato della Confederazione e dei Cantoni per l’amministrazione digitale Svizzera;
 - d. un rappresentante della Conferenza dei gestori informatici (art. 10);
-- e. un rappresentante del Centro nazionale per la cibersicurezza;
-- f. un rappresentante dell’Ufficio federale di statistica (UFS).
+- e.[^6-1] un rappresentante dell’UFCS;
+- f. un rappresentante dell’Ufficio federale di statistica (UFS);
+- g.[^6-2] un rappresentante del Comando Ciber, nella misura in cui vengono discusse decisioni vincolanti per il Comando Ciber.
 
 <sup>2</sup> È presieduto dal delegato TDT.
+
+[^6-1]: Nuovo testo giusta il n. II 4 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^6-2]: Introdotta dal n. II 4 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 7
 
@@ -199,7 +216,9 @@ Esso si compone di un rappresentante di ciascuna delle seguenti unità amministr
 
 <sup>3</sup> Il rappresentante del settore TDT della CaF ne è il presidente.
 
-<sup>4</sup> Un rappresentante dell’Ufficio federale dell’informatica e della telecomunicazione e un rappresentante della Base d’aiuto alla condotta partecipano alle sedute con voto consultivo.
+<sup>4</sup> Un rappresentante dell’Ufficio federale dell’informatica e della telecomunicazione partecipa alle sedute con voto consultivo.[^12-1]
+
+[^12-1]: Nuovo testo giusta il n. II 4 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## Capitolo 3: Strategie
 
@@ -217,7 +236,7 @@ Esso si compone di un rappresentante di ciascuna delle seguenti unità amministr
 
 <sup>2</sup> Tale strategia definisce gli obiettivi della trasformazione digitale nell’Amministrazione federale e gli ambiti di azione che consentono di raggiungerli.
 
-[^13-1]: Nuova espressione giusta il n. I cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^13-1]: Nuova espr. giusta il n. I cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 14
 
@@ -288,7 +307,7 @@ Può delegare decisioni di portata minore concernenti tali deroghe:
 
 <sup>3</sup> Può delegare decisioni di portata minore concernenti deroghe tali al settore TDT della CaF.
 
-[^18-1]: Nuova espressione giusta il n. I cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). Di detta mod.è stato tenuto conto in tutte disp. menzionate nella RU.
+[^18-1]: Nuova espr. giusta il n. I cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). Di detta mod.è stato tenuto conto in tutte disp. menzionate nella RU.
 
 #### Art. 19
 
@@ -493,7 +512,7 @@ L’AFF può, mediante un’interfaccia, mettere a disposizione dati centralizza
 
 <sup>3</sup> I fornitori interni di prestazioni tengono una contabilità analitica estesa e presentano periodicamente al settore TDT della CaF, in modo trasparente, i costi e i ricavi dei servizi standard.
 
-[^32-1]: Nuova espressione giusta il n. I cpv. 3 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). Di detta mod.è stato tenuto conto in tutte disp. menzionate nella RU.
+[^32-1]: Nuova espr. giusta il n. I cpv. 3 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). Di detta mod. è stato tenuto conto in tutte disp. menzionate nella RU.
 
 #### Art. 33
 
@@ -536,7 +555,7 @@ Nel quadro dell’esecuzione del preventivo e dopo aver sentito il Consiglio TDT
 
 <sup>2</sup> La modifica di altri atti normativi è disciplinata nell’allegato.
 
-[^35-1]: [[RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844), [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)n. III 2, 2**016** 1783 3445, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 n. II 1, [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)all. n. 1]
+[^35-1]: [[RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)n. III 2; 2**016** 1783, 3445; [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 n. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)all. n. 1]
 
 #### Art. 36
 
@@ -548,7 +567,7 @@ Nel quadro dell’esecuzione del preventivo e dopo aver sentito il Consiglio TDT
 
 <sup>3</sup> Le direttive del Consiglio federale, del Dipartimento federale delle finanze e dell’ODIC nell’ambito delle TIC che sono state adottate prima dell’entrata in vigore della presente ordinanza rimangono valide per quanto non siano in contraddizione con la presente ordinanza e non siano state modificate o abrogate dall’autorità competente ai sensi della presente ordinanza.
 
-[^36-1]: [[RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844), [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)n. III 2, 2**016** 1783 3445, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 n. II 1, [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)all. n. 1]
+[^36-1]: [[RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)n. III 2; 2**016** 1783, 3445; [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 n. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)all. n. 1]
 
 #### Art. 37
 

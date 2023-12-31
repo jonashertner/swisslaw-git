@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 sur la coordination de la transformation 
 short: OTNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: fr
-version: 2023-11-01
+version: 2024-01-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20231101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/fr"
 
 (Ordonnance sur la transformation numérique et l’informatique, OTNI)
 
-du 25 novembre 2020 (État le 1<sup>er</sup> novembre 2023)
+du 25 novembre 2020 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -61,11 +61,24 @@ Peuvent, sous réserve d’autres dispositions d’organisation contenues dans l
 
 <sup>4</sup> Le secteur TNI de la ChF propose des accords-types.
 
-<sup>5</sup> Il consulte le Centre national pour la cybersécurité pour les accords et les accords-types qui ont une incidence sur la cybersécurité.
+<sup>5</sup> Il consulte l’Office fédéral de la cybersécurité (OFCS) pour tout accord, y compris pour tout accord-type, qui a une incidence sur la cybersécurité.[^2-4]
 
 [^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^2-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 [^2-3]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^2-4]: Nouvelle teneur selon le ch. II 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+
+#### Art. 2a
+
+**Applicabilité aux prestations informatiques indispensables aux engagements de l’armée**[^2a-1]
+
+<sup>1</sup> Seul le chap. 5 est applicable aux prestations informatiques qui doivent impérativement être à la disposition de l’armée de manière autarcique et permanente pour lui permettre de remplir ses tâches (prestations informatiques indispensables aux engagements de l’armée).
+
+<sup>2</sup> Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) définit les prestations informatiques indispensables aux engagements de l’armée dans un catalogue. Il consulte au préalable le secteur TNI de la ChF.
+
+<sup>3</sup> En cas de différends, le chef du DDPS tranche. L’art. 19 s’applique par analogie.
+
+[^2a-1]: Introduit par le ch. II 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 3
 
@@ -117,10 +130,14 @@ Le Conseil TNI est composé des personnes suivantes:
 - b. un représentant de chaque département;
 - c. le chargé de mission Administration numérique suisse auprès de la Confédération et des cantons;
 - d. un représentant de la Conférence des prestataires de services informatiques (art. 10);
-- e. un représentant du Centre national pour la cybersécurité;
-- f. un représentant de l’Office fédéral de la statistique (OFS).
+- e.[^6-1] un représentant de l’OFCS;
+- f. un représentant de l’Office fédéral de la statistique (OFS);
+- g.[^6-2] un représentant du commandement Cyber, pour autant que la discussion porte sur une décision qui oblige celui-ci.
 
 <sup>2</sup> Il est présidé par le délégué TNI.
+
+[^6-1]: Nouvelle teneur selon le ch. II 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^6-2]: Introduite par le ch. II 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 7
 
@@ -199,7 +216,9 @@ Il se compose d’un représentant de chacune des unités administratives suivan
 
 <sup>3</sup> Il est présidé par le représentant du secteur TNI de la ChF.
 
-<sup>4</sup> Un représentant de l’Office fédéral de l’informatique et de la télécommunication et un représentant de la Base d’aide au commandement participent aux séances avec voix consultative.
+<sup>4</sup> Un représentant de l’Office fédéral de l’informatique et de la télécommunication participe aux séances, avec voix consultative.[^12-1]
+
+[^12-1]: Nouvelle teneur selon le ch. II 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## Chapitre 3 Stratégies
 
