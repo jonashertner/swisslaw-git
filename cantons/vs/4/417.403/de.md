@@ -1,240 +1,160 @@
 ---
 canton: VS
 number: "417.403"
-title: Reglement über die institutionelle Anerkennung und die Validierung erworbener Fähigkeiten
+title: Reglement über die institutionelle Anerkennung von informell erworbenen Fähigkeiten
 short: RIA
 language: de
-version: 2007-01-01
-corrected: 2017-09-06
-version_adopted: 2008-02-20
+version: 2024-01-01
+version_adopted: 2024-01-10
 adopted: 2024-01-10
 in_force: 2024-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/417.403"
-pdf: "https://lex.vs.ch/api/de/versions/480/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3282/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die institutionelle Anerkennung und die Validierung erworbener Fähigkeiten
+# Reglement über die institutionelle Anerkennung von informell erworbenen Fähigkeiten
 
-vom 20. Februar 2008
+(RIA)
+
+vom 10.01.2024 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Bundesgesetz über die Berufsbildung vom 13. Dezember 2002 und die Berufsbildungsverordnung;
+eingesehen das Bundesgesetz über die Berufsbildung vom 13. Dezember 2002 (BBG) und die Berufsbildungsverordnung vom 19. November 2003 (BBV);
 
 eingesehen Artikel 57 Absatz 1 der Kantonsverfassung;
 
-eingesehen das Weiterbildungsgesetz vom 2. Februar 2001;
+eingesehen das Einführungsgesetz zum Bundesgesetz über die Berufsbildung vom 13. Juni 2008 (EGBBG);
 
-eingesehen das Gesetz über die Beschäftigung und die Massnahmen zugunsten von Arbeitslosen vom 23. November 1995;
+eingesehen die Verordnung zum Einführungsgesetz des Bundesgesetzes über die Berufsbildung vom 9. Februar 2011 (VOEGBBG);
 
-auf Antrag des Departements für Erziehung, Kultur und Sport,
+eingesehen das kantonale Weiterbildungsgesetz vom 13. März 2020 (WBG);
 
-beschliesst:
+eingesehen das kantonale Gesetz über die Beschäftigung und die Massnahmen zugunsten von Arbeitslosen vom 13. Dezember 2012 (BMAG);
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+auf Antrag des für die Bildung zuständigen Departements,
+
+verordnet: [^ingress-1]
+
+[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Anwendungsbereich**
+**Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement definiert die Bedingungen und den Prozess der zuständigen kantonalen Behörden für die offizielle Bestätigung der nicht formell erworbenen Fähigkeiten und Geschicklichkeiten einer Person.
+<sup>1</sup> Dieses Reglement definiert die Bedingungen und das Verfahren der zuständigen kantonalen Behörden für die offizielle Bestätigung der informell erworbenen Fähigkeiten und Fertigkeiten einer Person.
 
-<sup>2</sup> Es bestimmt die mit der Führung und Betreuung des Verfahrens beauftragten Behörden:
-
-- a) für die institutionelle Anerkennung der Fähigkeiten (AF),
-
-- b) für die Validierung erworbener Fähigkeiten (VF), und die Aushändigung der entsprechenden Bestätigungen.
-
-<sup>3</sup> Alle Personen-, Status- oder Funktionsbezeichnungen dieses Reglements gelten für beide Geschlechter.
+<sup>2</sup> Es bestimmt die mit der Führung und Betreuung des Verfahrens der institutionellen Anerkennung von informell erworbenen Fähigkeiten (nachfolgend: AF) beauftragten Behörden.
 
 #### Art. 2
 
-**Ziele**
+**AF - Definition**
 
-Die institutionelle Anerkennung und die Validierung der nicht formell erworbenen Fähigkeiten fördern insbesondere:
+<sup>1</sup> Die AF bezeichnet das Verfahren, nach dessen Abschluss die zuständige Behörde bescheinigt, dass sich eine Person in einer beruflichen Tätigkeit, die von der zuständigen eidgenössischen Behörde registriert ist oder nicht, durch Berufspraxis relevante Fähigkeiten angeeignet hat.
 
-- a) die berufliche Mobilität und Flexibilität,
-
-- b) die berufliche Wiedereingliederung,
-
-- c) die Förderung einer bestätigten Ausbildung von unvollständig qualifizierten Personen.
+<sup>2</sup> Die beruflichen Qualifikationsverfahren für Erwachsene, die zu einem Abschluss der beruflichen Grundbildung führen, werden in der entsprechenden Verordnung definiert.
 
 #### Art. 3
 
-**Institutionelle Anerkennung (AF) - Definition**
+**Ziele**
 
-Die institutionelle Anerkennung bezeichnet das Verfahren, nach dessen Abschluss die zuständige Behörde bestätigt, dass sich eine Person in einer beruflichen Tätigkeit, die von der zuständigen eidgenössischen Behörde (BBT) registriert ist oder nicht, berufliche Fähigkeiten angeeignet hat.
+<sup>1</sup> Die AF fördert insbesondere:
+
+- a) die berufliche Mobilität und Flexibilität;
+- b) die berufliche Wiedereingliederung;
+- c) die Förderung einer bestätigten Ausbildung von unvollständig oder nicht qualifizierten Personen.
 
 #### Art. 4
 
-**Validierung erworbener Fähigkeiten (VF) - Definition**
+**Zielpublikum**
 
-Die Validierung erworbener Fähigkeiten bezeichnet das Verfahren, nach dessen Abschluss die zuständige Behörde das Bestehen einer beruflichen Grundausbildung durch das Aushändigen eines offiziellen, durch die eidgenössische oder kantonale Gesetzgebung vorgesehenen Titels, bestätigt.
+<sup>1</sup> Die AF richtet sich hauptsächlich an Personen, die nicht im Besitz eines Berufstitels sind, der ihrem Tätigkeitssektor entspricht oder die in einem Berufsbereich arbeiten, der nicht durch ein durch die entsprechende Gesetzgebung vorgesehenes Zertifikationssystem abgedeckt ist.
 
 #### Art. 5
 
-**Zielpublikum**
+**Grundlage**
 
-<sup>1</sup> Die institutionelle Anerkennung der nicht formell erworbenen Tätigkeiten richtet sich an Personen, die nicht im Besitz eines Berufstitels sind, der ihrem Tätigkeitssektor entspricht oder die in einem Berufsbereich arbeiten, der nicht durch ein durch die entsprechende Gesetzgebung vorgesehenes Zertifikationssystem abgedeckt ist.
+<sup>1</sup> Die AF stützt sich auf eine Bilanz der Kompetenzen und eine Bewertung am Arbeitsplatz im Rahmen eines Praktikums auf dem ersten Arbeitsmarkt.
 
-<sup>2</sup> Die Validierung nicht formell erworbener Tätigkeiten richtet sich hauptsächlich an Personen, die in einem offiziell registrierten Beruf eine berufliche Tätigkeit ausüben, ohne das entsprechende Diplom zu besitzen; sie können darauf aber Anspruch erheben, sei es durch die Berufserfahrung, die sie sich angeeignet haben, oder durch Ausbildungszusätze, die sie besucht haben.
+<sup>2</sup> Die Bewertung der Kompetenzen wird von Fachleuten aus dem jeweiligen Tätigkeitsgebiet vorgenommen, die vom entsprechenden Berufsverband anerkannt sind.
 
 #### Art. 6
 
-**Grundlage**
+**Bedingungen der AF**
 
-<sup>1</sup> Die institutionelle Anerkennung und die Validierung nicht formell erworbener Fähigkeiten stützen sich auf eine Bilanz der Kompetenzen und auf deren Bewertung.
+<sup>1</sup> An einem AF-Verfahren kann jede Person teilnehmen, die die folgenden kumulativen Bedingungen erfüllt:
 
-<sup>2</sup> Die Bewertung der Kompetenzen wird durch eine Vorrichtung/ein System vorgenommen, die/das durch die zuständige kantonale Behörde zugelassen ist.
+- a) im Wallis wohnhaft sein;
+- b) relevante Berufserfahrung im entsprechenden Tätigkeitsgebiet haben;
+- c) in der Lage sein, ihre praktischen Fähigkeiten im entsprechenden Tätigkeitsbereich nachzuweisen.
+
+<sup>2</sup> Personen, deren Antrag von der Arbeitslosenversicherung oder anderen institutionellen Partnern, welche die Kosten übernehmen, eingereicht wird, können das AF-Verfahren ebenfalls in Anspruch nehmen.
+
+<sup>3</sup> Ausserhalb des Kantons wohnhafte Personen senden ihren Antrag dem zuständigen Amt ihres Wohnkantons. Dieses Amt behandelt den Fall nach Absprache mit der zuständigen Dienststelle des Kantons Wallis.
 
 #### Art. 7
 
-**Bedingungen**
+**Dauer des AF-Verfahrens**
 
-<sup>1</sup> Sämtliche Personen, die nachstehende Grundbedingungen erfüllen, können im Kanton die Anwendung des einen oder anderen Vorgehens beanspruchen:
+<sup>1</sup> Die Dauer des AF-Verfahrens umfasst die Zeit für die Bilanz der Kompetenzen und die Zeit für das vierwöchige Praktikum, das zur Bewertung der Kompetenzen organisiert wird.
 
-- a) im Wallis wohnhaft sein,
-
-- b) während mindestens fünf Jahren eine berufliche Tätigkeit nachweisen können.
-
-<sup>2</sup> Personen, deren Antrag von der Arbeitslosenversicherung oder anderen institutionellen Partnern, welche die Kosten übernehmen, eingereicht wird, können das AF- oder VF-Verfahren ebenfalls in Anspruch nehmen.
-
-<sup>3</sup> Ausserhalb des Kantons wohnhafte Personen senden ihren Antrag dem zuständigen Amt ihres Wohnkantons. Dieses Amt behandelt den Fall nach Absprache mit der zuständigen Dienststelle des Kantons Wallis (DB).
-
-<sup>4</sup> Interkantonale Bestimmungen bleiben vorbehalten.
+## 2 Zuständige Behörden
 
 #### Art. 8
 
-**Dauer des VF-Verfahrens**
+**Führung des Verfahrens**
 
-Die Dauer des VF-Verfahrens wird von der zuständigen Behörde festgelegt und zwar je nach Berufssektor und dem Niveau der Fähigkeiten zum Zeitpunkt der Bewertung.
+<sup>1</sup> Das in diesem Reglement vorgesehene AF-Verfahren fällt in den Zuständigkeitsbereich des für die Bildung zuständigen Departements (nachfolgend: Departement) und wird unter der operativen Leitung des Amts für Berufs-, Studien- und Laufbahnberatung (nachfolgend: Amt) durchgeführt.
 
-### 2. Abschnitt: Zuständige Behörden
+<sup>2</sup> Darin eingeschlossen sind, je nach anzuwendendem Verfahren, folgende Partner:
+
+- a) die Arbeitgeberverbände;
+- b) die Arbeitnehmervertretungen;
+- c) zugelassene Experten der betroffenen Branche;
+- d) betroffene Unternehmen und Institutionen.
 
 #### Art. 9
 
-**Führung des Verfahrens**
+**Aufgaben des Amts**
 
-<sup>1</sup> Die in diesem Reglement vorgesehenen AF- und VF-Verfahren, fallen in den Kompetenzbereich des Departements für Erziehung, Kultur und Sport (DEKS), insbesondere der Dienststelle für Berufsbildung und auf operativem Niveau den Studien- und Berufsberatungsstellen.
+<sup>1</sup> Die operative Führung, die Begleitung der Personen, die Betreuung der Dossiers und die Verwaltung der Bescheinigungen werden dem Amt übertragen, welches verantwortlich für die Organisation und die Betreuung der verschiedenen Etappen der AF ist; dies in Zusammenarbeit mit den für die Expertise verantwortlichen Partnern und den betroffenen Wirtschaftskreisen.
 
-<sup>2</sup> Darin eingeschlossen sind, je nach dem zu führenden Verfahren, folgende Partner:
-
-- a) die Arbeitgeberverbände,
-
-- b) die Arbeitnehmervertreter,
-
-- c) zugelassene Experten der betroffenen Branche,
-
-- d) betroffene Berufsbildungszentren,
-
-- e) betroffene Unternehmen und Institutionen.
+## 3 Ablauf
 
 #### Art. 10
 
-**Aufgaben der Studien- und Berufsberatungsstellen**
+**Durchführungsantrag**
 
-Die operative Führung und die Betreuung der Dossiers wird den Studien- und Berufsberatungsstellen übertragen, welche verantwortlich sind für die Organisation und die Betreuung der verschiedenen Etappen der AF- und VF-Verfahren; dies in Zusammenarbeit mit den für die Expertise und die Berufsbildung verantwortlichen Partnern.
+<sup>1</sup> Die AF wird insbesondere auf Antrag der betroffenen Person, eines Unternehmens oder einer beruflichen Wiedereingliederungsorganisation durchgeführt.
 
-#### Art.11
+#### Art. 11
 
-**Berufliche Validierungskommission**
+**Etappen des AF-Verfahrens**
 
-<sup>1</sup> Für jeden Beruf, für welchen ein VF-Verfahren eingeleitet wird, ernennt der Staatsrat eine berufliche Validierungskommission.
+<sup>1</sup> Das AF-Verfahren beinhaltet folgende Etappen:
 
-<sup>2</sup> Diese Kommission setzt sich zusammen aus:
+- a) die Bilanz der Kompetenzen, die insbesondere dazu beiträgt, die im Rahmen der beruflichen und/oder persönlichen Tätigkeit erworbenen Fähigkeiten zu identifizieren und diese dann aufzulisten;
+- b) die Bewertung der genannten Kompetenzen durch vom jeweiligen Berufsverband anerkannte Fachleute aus dem betreffenden Tätigkeitsgebiet im Rahmen eines Praktikums in einem Unternehmen.
 
-- a) zwei Vertretern der Organisationen der Arbeitswelt, die den betroffenen Ausbildungsbereich vertreten: ein Arbeitgebervertreter und ein Arbeitnehmervertreter;
+<sup>2</sup> Nach Abschluss dieser Etappen wird die kantonale Bestätigung der AF ausgehändigt.
 
-- b) dem durch das DEKS ernannten Chefexperten des betroffenen Bereichs;
-
-- c) einem Vertreter der Studien- und Berufsberatungsstelle, welcher das Präsidium der Kommission leitet;
-
-- d) einem Vertreter der Ausbildungsinstitution des betroffenen Bereichs.
+## 4 Bestätigungen und Zertifikationen
 
 #### Art. 12
 
-**Aufgaben der beruflichen Validierungskommission**
-
-<sup>1</sup> Die Aufgaben der beruflichen Validierungskommission sind:
-
-- a) festlegen der Evaluationsmodalitäten,
-
-- b) beauftragen der durch das DEKS ernannten Experten,
-
-- c) durchführen der Qualitätskontrolle über den Verlauf des Verfahrens,
-
-- d) bei Bedarf Anhören jeder Person, die eine Anerkennung oder Validierung ihrer Fähigkeiten verlangt.
-
-<sup>2</sup> Je nach dem zu behandelnden Fall kann die Kommission eine entsprechende Unterkommission oder Experten zuziehen oder beauftragen.
-
-### 3. Abschnitt: Die Modalitäten
-
-#### Art. 13
-
-**Antrag für Durchführung**
-
-<sup>1</sup> Die institutionelle Anerkennung und die Validierung erworbener Fähigkeiten werden auf Antrag der betroffenen Person, eines Unternehmens oder insbesondere einer beruflichen Wiedereingliederungsorganisation beantragt.
-
-<sup>2</sup> Im Zweifelsfall über die Zweckmässigkeit, die Durchführung eines vom Reglement vorgesehenen Antrages vorzunehmen, konsultiert die Studien- und Berufsberatungsstelle die betroffenen Berufspartner.
-
-#### Art. 14
-
-**Anträge**
-
-<sup>1</sup> Der Kandidat hinterlegt ein Dossier, welches die Belege enthält, die den Aufnahmebedingungen entsprechen, sowie eine solide Begründung.
-
-<sup>2</sup> Eine Ausnahme der Aufnahmebedingungen kann von der beruflichen Validierungskommission gewährt werden, gemäss den Richtlinien des Bundesamtes für Berufsbildung und Technologie.
-
-#### Art. 15
-
-**Etappen der AF- und VF-Verfahren**
-
-<sup>1</sup> Die AF- und VF-Verfahren beinhalten im Prinzip folgende gemeinsame Etappen:
-
-- a) die Bilanz der Kompetenzen, welche dazu beiträgt, die erworbenen Fähigkeiten, die im Rahmen der beruflichen und/oder persönlichen Tätigkeit erworben wurden, zu identifizieren;
-
-- b) die Evaluation dieser Kompetenzen durch die zugelassene Vorrichtung oder das zugelassene System.
-
-<sup>2</sup> Für das VF-Verfahren muss die betroffene Person Ausbildungszusätze besuchen gemäss den durch die zuständigen Behörden erlassenen Bestimmungen. Die Aneignung dieser Ausbildungszusätze wird regelmässig und entsprechend der Voranschreitung evaluiert.
-
-<sup>3</sup> Nach Abschluss dieser Etappen wird der entsprechende Titel ausgehändigt.
-
-#### Art. 16
-
-Zusatzausbildung hinsichtlich der Validierung erworbener Fähig-keiten
-
-<sup>1</sup> Die Zusatzausbildung ist obligatorisch für Branchen, welche nach der Evaluation nicht anerkannt sind.
-
-<sup>2</sup> Sie kann in verschiedenen Formen durchgeführt werden (insbesondere durch Module) und wird in Zusammenarbeit mit dem Kandidaten und in Koordination mit den Ausbildungsinstitutionen organisiert.
-
-<sup>3</sup> Jedes Ausbildungsmodul muss evaluiert werden. Diese Evaluation ist Gegenstand einer entsprechenden Bestätigung.
-
-### 4. Abschnitt: Bestätigungen und Zertifikationen
-
-#### Art. 17
-
 **Kantonale Bestätigung der AF**
 
-<sup>1</sup> Das AF-Verfahren gibt Anrecht auf eine kantonale Bestätigung, welche die anerkannten Fähigkeiten in den beruflich ausgeführten Tätigkeiten / Bereichen detailliert aufführt.
+<sup>1</sup> Das AF-Verfahren gibt Anrecht auf eine kantonale Bestätigung, die die anerkannten Fähigkeiten in den beruflich ausgeführten Tätigkeiten/Bereichen mit einer Gewichtung ihres Beherrschungsgrads aufführt.
 
-<sup>2</sup> Die Bestätigung der AF stellt keinen gleichwertigen formellen Teil oder einen offiziellen Titel dar, der durch die Eidgenössische oder Kantonale Gesetzgebung vorgesehen ist.
+<sup>2</sup> Die kantonale Bestätigung der AF ist formell nicht gleichwertig zu einem Teil oder der Gesamtheit eines offiziellen Titels, der durch die eidgenössische oder kantonale Gesetzgebung vorgesehen ist.
 
-#### Art. 18
+## 5 Finanzierung
 
-**Schlusszertifikat der VF**
-
-<sup>1</sup> Die Validierung kann zum Erlangen des Eidgenössischen Fähigkeitsausweises (nachstehend EFA) oder des Eidgenössischen Berufsattests (nachstehend EBA) führen.
-
-<sup>2</sup> Der Vermerk über den Erfolg jeder Branche steht auf einem offiziellen Dokument, das alle für den Erhalt des offiziellen Titels zu erlangenden Branchen aufzeigt.
-
-<sup>3</sup> Die erfolgreiche Evaluation aller erforderlichen Branchen im angestrebten Beruf gibt Anspruch auf den durch die Eidgenössische oder Kantonale Gesetzgebung vorgesehenen Titel.
-
-### 5. Abschnitt: Schlussbestimmungen
-
-#### Art. 19
+#### Art. 13
 
 **Finanzierung - Prinzipien**
 
@@ -244,22 +164,16 @@ Zusatzausbildung hinsichtlich der Validierung erworbener Fähig-keiten
 
 <sup>3</sup> Die Beteiligung der Partner des Arbeitsmarktes wird gefördert.
 
-<sup>4</sup> Das DEKS bestimmt die finanziellen Beteiligungen der Interessierten.
+<sup>4</sup> Das Departement bestimmt die finanziellen Beteiligungen der Interessierten.
 
-#### Art. 20
+## 6 Rechtsmittel
+
+#### Art. 14
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Entscheide kann beim Departement für Erziehung, Kultur und Sport (DEKS) Beschwerde eingelegt werden.
+<sup>1</sup> Gegen Entscheide im Zusammenhang mit dem vorliegenden Reglement kann innert 30 Tagen seit deren Eröffnung beim Departement Beschwerde eingereicht werden. Die Beschwerde an das Kantonsgericht bleibt vorbehalten.
 
-<sup>2</sup> Das Beschwerdeverfahren wird durch das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 geregelt.
+<sup>2</sup> Auf das Beschwerdeverfahren findet das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege Anwendung (VVRG).
 
-#### Art. 21
-
-**Inkrafttreten**
-
-Dieses Reglement wird im Amtsblatt veröffentlicht und tritt rückwirkend auf den 1. Januar 2007 in Kraft.
-
-So beschlossen im Staatsrat zu Sitten, am 20. Februar 2008.
-
-Der Staatsratspräsident: Jean-Jacques Rey-Bellet Der Staatskanzler: Henri v. Roten
+CSW RO/AGS 2024-008
