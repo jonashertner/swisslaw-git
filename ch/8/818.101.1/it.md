@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230901/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° settembre 2023)
+del 29 aprile 2015 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -103,6 +103,7 @@ La dichiarazione di referti clinici di medici, ospedali e altre istituzioni pubb
   in merito alla persona in questione:
 
   - 1\. nome, cognome, indirizzo e numero di telefono, se necessari ai fini dei provvedimenti di cui agli articoli 15 e 33–38 LEp, altrimenti solo le iniziali del nome e del cognome e il luogo di domicilio; se la persona non è domiciliata in Svizzera, il luogo di dimora,
+  - 1<sup>bis</sup>.[^6-1] numero AVS, se la dichiarazione è trasmessa per via elettronica,
   - 2\. data di nascita,
   - 3\. sesso,
   - 4\. cittadinanza,
@@ -110,6 +111,8 @@ La dichiarazione di referti clinici di medici, ospedali e altre istituzioni pubb
   - 6\. Paese di origine;
 
 - l. i dati di contatto del medico, dell’ospedale, dell’organo dell’ospedale secondo l’articolo 12 capoverso 2 o dell’istituzione pubblica o privata del settore sanitario.
+
+[^6-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 7
 
@@ -130,10 +133,13 @@ Contiene, a seconda dell’agente patogeno, le seguenti informazioni:
   in merito alla persona in questione:
 
   - 1\. nome, cognome, indirizzo e numero di telefono, se necessari ai fini dei provvedimenti di cui agli articoli 15 e 33–38 LEp, altrimenti solo le iniziali del nome e del cognome e il luogo di domicilio; se la persona non è domiciliata in Svizzera, il luogo di dimora,
+  - 1<sup>bis</sup>.[^7-1] numero AVS, se la dichiarazione è trasmessa per via elettronica,
   - 2\. data di nascita,
   - 3\. sesso;
 
 - f. i dati di contatto del medico, dell’ospedale, dell’organo dell’ospedale secondo l’articolo 12 capoverso 2 o dell’istituzione pubblica o privata del settore sanitario.
+
+[^7-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 8
 
@@ -152,6 +158,7 @@ La dichiarazione di referti delle analisi condotte da laboratori pubblici o priv
   in merito alla persona in questione:
 
   - 1\. nome, cognome, indirizzo e numero di telefono, se necessari ai fini dei provvedimenti di cui agli articoli 15 e 33–38 LEp, altrimenti solo le iniziali del nome e del cognome e il luogo di domicilio,
+  - 1<sup>bis</sup>.[^8-1] numero AVS, se la dichiarazione è trasmessa per via elettronica,
   - 2\. data di nascita,
   - 3\. sesso;
 
@@ -159,6 +166,8 @@ La dichiarazione di referti delle analisi condotte da laboratori pubblici o priv
 - g. i dati di contatto del laboratorio.
 
 <sup>2</sup> I laboratori comunicano periodicamente all’UFSP una statistica di tutti i risultati delle osservazioni soggette all’obbligo di dichiarazione. Il Dipartimento federale dell’interno (DFI) stabilisce il contenuto della statistica in riferimento ai singoli agenti patogeni.
+
+[^8-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 9
 
@@ -183,9 +192,12 @@ La dichiarazione di referti epidemiologici di medici, ospedali e altre istituzio
   - 3\. probabile via di trasmissione e indicazioni sul rischio di trasmissione,
   - 4\. data delle singole diagnosi,
   - 5\. provvedimenti adottati,
-  - 6\. nome e indirizzo della struttura interessata;
+  - 6\. nome e indirizzo della struttura interessata,
+  - 7\.[^9-1] numero d’identificazione delle imprese (IDI) e numero d’identificazione del Registro delle imprese e degli stabilimenti (numero RIS) della struttura interessata, se la dichiarazione è trasmessa per via elettronica;
 
 - c. i dati di contatto del medico, dell’ospedale, dell’organo dell’ospedale secondo l’articolo 12 capoverso 2 o dell’istituzione pubblica o privata del settore sanitario.
+
+[^9-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 ### Sezione 4: Trattamento delle dichiarazioni
 
@@ -193,9 +205,14 @@ La dichiarazione di referti epidemiologici di medici, ospedali e altre istituzio
 
 **Accettazione e controllo delle dichiarazioni**
 
-<sup>1</sup> I medici cantonali sono preposti all’accettazione delle dichiarazioni secondo gli articoli 6–8. Controllano che le dichiarazioni siano complete e, se necessario, richiedono i dati necessari. Per l’esercito, il medico in capo è preposto all’accettazione e al controllo delle dichiarazioni.
+<sup>1</sup> I medici cantonali sono preposti all’accettazione delle dichiarazioni secondo gli articoli 6–9. Controllano che le dichiarazioni siano complete e, se necessario, richiedono i dati necessari. Per l’esercito, il medico in capo è preposto all’accettazione e al controllo delle dichiarazioni.[^10-1]
 
 <sup>2</sup> Se dopo il ricevimento della dichiarazione di referti delle analisi di laboratorio (art. 8) non è pervenuta alcuna dichiarazione di referti clinici (art. 6) il medico cantonale o il medico in capo dell’esercito la richiede. Chiede inoltre le dichiarazioni complementari di referti clinici (art. 7).
+
+<sup>3</sup> Se le dichiarazioni di cui agli articoli 6–8 sono trasmesse per via elettronica, l’UFSP controlla la correttezza del numero AVS.[^10-2]
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^10-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 11
 
@@ -216,6 +233,13 @@ La dichiarazione di referti epidemiologici di medici, ospedali e altre istituzio
 <sup>3</sup> L’UFSP e i medici cantonali o il medico in capo dell’esercito assicurano il reciproco scambio di informazioni.
 
 <sup>4</sup> L’UFSP può incaricare i laboratori di fornire alle persone e alle istituzioni soggette all’obbligo di dichiarazione uno speciale modulo relativo al referto clinico con il risultato dell’analisi.
+
+<sup>5</sup> I medici trasmettono ai laboratori incaricati le informazioni di cui all’articolo 8 capoverso 1 lettera e.[^12-1]
+
+<sup>6</sup> I medici, gli ospedali e le altre istituzioni pubbliche o private del settore sanitario nonché i laboratori pubblici o privati devono cancellare i dati sulla persona in questione trattati elettronicamente per la dichiarazione non appena hanno adempiuto l’obbligo di dichiarazione.[^12-2]
+
+[^12-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^12-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 13
 
@@ -826,74 +850,11 @@ Possono essere considerati con priorità in particolare:
 
 <sup>2</sup> I Cantoni si assumono i costi della distribuzione al loro interno.
 
-#### Art. 64a
+#### Art. 64a e 64b
 
-**Assunzione dei costi delle vaccinazioni anti-COVID-19 effettuate dai farmacisti**[^64a-1]
+[^64a64b-1]
 
-<sup>1</sup>
-
-La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate dai farmacisti sulle seguenti persone:
-
-- a. persone assicurate secondo l’articolo 3 della legge federale del 18 marzo 1994[^64a-2] sull’assicurazione malattie (LAMal);
-- b. persone assicurate contro le malattie secondo la legge federale del 19 giugno 1992[^64a-3] sull’assicurazione militare (LAM);
-- c.
-
-  persone non assicurate secondo l’articolo 3 LAMal né assicurate contro le malattie secondo la LAM, che però appartengono a una delle seguenti categorie:
-
-  - 1\. persone che hanno domicilio o dimora abituale in Svizzera,
-  - 2\. persone che esercitano un’attività lucrativa in Svizzera come frontalieri.
-
-<sup>2</sup>
-
-I farmacisti devono:
-
-- a. aver conseguito un certificato nel quadro del programma di formazione complementare FPH Vaccinazione e prelievo di sangue del 1° dicembre 2011[^64a-4];
-- b. essere stati incaricati dal Cantone di effettuare vaccinazioni anti-COVID-19; e
-- c. adempiere le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
-
-<sup>3</sup> La Confederazione assume un importo forfettario di 29 franchi per ogni vaccinazione effettuata secondo il capoverso 1.
-
-<sup>4</sup>
-
-Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni fornite in relazione alla vaccinazione, ovvero:
-
-- a. la somministrazione del vaccino;
-- b. la verifica dello stato vaccinale e l’anamnesi vaccinale;
-- c. la verifica delle controindicazioni;
-- d. la documentazione;
-- e. il rilascio dell’attestato di vaccinazione e del certificato di vaccinazione COVID‑19.
-
-<sup>5</sup> I farmacisti non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
-
-[^64a-1]: Introdotto dal n. I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2023 ([RU 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
-[^64a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64a-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64a-4]: Consultabile su www.fphch.org/impfen-und-blutentnahme
-
-#### Art. 64b
-
-**Procedura per l’assunzione dei costi delle vaccinazioni anti‑COVID‑19 effettuate dai farmacisti**[^64b-1]
-
-<sup>1</sup>
-
-Alla fine dei mesi di marzo, giugno, settembre e dicembre, i farmacisti inviano all’autorità cantonale competente una fattura collettiva per le vaccinazioni che hanno effettuato nei due o tre mesi precedenti secondo l’articolo 64*a* capoverso 1. Sulla fattura devono essere indicati:
-
-- a. il numero di vaccinazioni effettuate nel periodo di fatturazione;
-- b. l’importo forfettario per ogni vaccinazione effettuata;
-- c. l’importo complessivo di tutte le vaccinazioni effettuate.
-
-<sup>2</sup> La fattura può comprendere soltanto le prestazioni fornite in relazione alle vaccinazioni. Deve essere trasmessa per via elettronica.
-
-<sup>3</sup> L’autorità cantonale competente controlla la plausibilità delle fatture in base alle dosi di vaccino distribuite nel Cantone, ne verifica la completezza e le trasmette per via elettronica all’istituzione comune di cui all’articolo 18 LAMal[^64b-2] (istituzione comune) entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
-
-<sup>4</sup> L’istituzione comune invia all’UFSP, entro il ventesimo giorno lavorativo del mese successivo al periodo di fatturazione, una fattura per tutte le fatture pervenute dai Cantoni per le vaccinazioni effettuate secondo l’articolo 64*a* capoverso 1. L’UFSP versa all’istituzione comune l’importo fatturato entro 10 giorni lavorativi dal ricevimento della fattura.
-
-<sup>5</sup> L’istituzione comune versa ai farmacisti, entro cinque giorni lavorativi dal ricevimento del pagamento dell’UFSP, l’importo forfettario di cui all’articolo 64*a* capoverso 3 per ogni vaccinazione effettuata.
-
-<sup>6</sup> L’istituzione comune fattura trimestralmente all’UFSP le spese amministrative in base all’onere effettivo. L’aliquota oraria è di 95 franchi e comprende le spese salariali, le prestazioni sociali e le spese infrastrutturali. Le spese per eventuali revisioni e adeguamenti del sistema e gli interessi negativi non compresi nelle spese amministrative vengono rimborsati in base ai costi effettivi.
-
-[^64b-1]: Introdotto dal n. I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2023 ([RU 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
-[^64b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64a64b-1]: Introdotti dal n. I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2023 ([RU 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 
 #### Art. 64c
 
@@ -906,7 +867,7 @@ La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate sul
 - a. persone che hanno domicilio o dimora abituale in Svizzera;
 - b. persone che esercitano un’attività lucrativa in Svizzera come frontalieri.
 
-<sup>2</sup> Assume i costi soltanto se le persone di cui al capoverso 1 non sono assicurate contro le malattie né secondo l’articolo 3 LAMal[^64c-2] né secondo la LAM[^64c-3].
+<sup>2</sup> Assume i costi soltanto se le persone di cui al capoverso 1 non sono assicurate contro le malattie né secondo l’articolo 3 della legge federale del 18 marzo 1994[^64c-2] sull’assicurazione malattie (LAMal) né secondo la legge federale del 19 giugno 1992[^64c-3] sull’assicurazione militare (LAM).
 
 <sup>3</sup>
 
@@ -921,7 +882,7 @@ Assume i seguenti importi forfettari per ogni vaccinazione effettuata secondo il
 
 - a. 20 franchi per le vaccinazioni effettuate in centri di vaccinazione, in ospedali o da équipe mobili;
 - b. 29 franchi per le vaccinazioni effettuate in studi medici;
-- c. 40.45 franchi per le vaccinazioni effettuate in studi medici a bambini di età inferiore agli 11 anni compiuti.
+- c. 40.45 franchi per le vaccinazioni effettuate in studi medici a bambini di età inferiore ai 12 anni compiuti.
 
 <sup>5</sup>
 
@@ -935,41 +896,78 @@ Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni for
 
 <sup>6</sup> I fornitori di prestazioni non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
 
-<sup>7</sup> Alla procedura per l’assunzione dei costi si applica per analogia l’articolo 64*b*.
-
-[^64c-1]: Introdotto dal n. I dell’O del 3 feb. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2023 ([RU 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
+[^64c-1]: Introdotto dal n. I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 [^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
 #### Art. 64d
 
-**Assunzione dei costi delle vaccinazioni anti-COVID-19 per la protezione indiretta di persone particolarmente a rischio**[^64d-1]
+**Procedura per l’assunzione dei costi delle vaccinazioni anti‑COVID‑19**[^64d-1]
 
-<sup>1</sup> La Confederazione assume i costi delle vaccinazioni anti-COVID-19, compresi i richiami, di persone che non sono particolarmente a rischio, ma la cui vaccinazione serve a proteggere indirettamente le persone particolarmente a rischio.
+<sup>1</sup>
 
-<sup>2</sup> L’articolo 64*c* capoversi 3–7 è applicabile.
+Alla fine del mese di marzo 2024, i fornitori di prestazioni inviano all’autorità cantonale competente una fattura per le vaccinazioni che hanno effettuato nei mesi di gennaio, febbraio e marzo 2024 secondo l’articolo 64*c* capoversi 1–3 e, alla fine del mese di giugno 2024, inviano una fattura per le vaccinazioni che hanno effettuato nei mesi di aprile, maggio e giugno 2024. La fattura deve contenere le seguenti indicazioni:
 
-[^64d-1]: Introdotto dal n. I dell’O del 3 nov. 2021 ([RU 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2023 ([RU 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
+- a. il numero di vaccinazioni;
+- b. l’importo forfettario per ogni vaccinazione;
+- c. l’importo complessivo.
+
+<sup>2</sup> La fattura può contenere soltanto indicazioni sulle prestazioni in relazione alle vaccinazioni effettuate. Deve essere trasmessa per via elettronica.
+
+<sup>3</sup> L’autorità cantonale competente controlla la plausibilità delle fatture in base alle dosi di vaccino distribuite nel Cantone, ne verifica la completezza e le trasmette per via elettronica all’istituzione comune di cui all’articolo 18 LAMal[^64d-2] (istituzione comune) entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
+
+<sup>4</sup> L’istituzione comune registra le fatture ricevute e invia all’UFSP, entro il ventesimo giorno lavorativo del mese successivo al periodo di fatturazione, una fattura collettiva. L’UFSP versa all’istituzione comune l’importo della fattura collettiva entro 10 giorni lavorativi dal ricevimento della fattura.
+
+<sup>5</sup> L’istituzione comune versa ai fornitori di prestazioni, entro cinque giorni lavorativi dal ricevimento del pagamento dell’UFSP, l’importo forfettario di cui all’articolo 64*c* capoverso 4 per ogni vaccinazione effettuata.
+
+<sup>6</sup> L’istituzione comune fattura trimestralmente all’UFSP le spese amministrative in base all’onere effettivo. L’aliquota oraria è di 95 franchi, comprese le spese salariali, le prestazioni sociali e le spese infrastrutturali. Le spese per eventuali revisioni e adeguamenti del sistema e gli interessi negativi non compresi nelle spese amministrative vengono rimborsati in base ai costi effettivi.
+
+[^64d-1]: Introdotto dal n. I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^64d-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 64d<sup>bis</sup>
 
 **Sistema di paganti in proprio per le vaccinazioni anti-COVID-19**[^64dbis-1]
 
-<sup>1</sup> La Confederazione può mettere a disposizione dietro pagamento i vaccini acquistati per le vaccinazioni anti-COVID-19 secondo l’articolo 44 capoverso 1 LEp, compresi i richiami, per la vaccinazione delle persone secondo l’articolo 64*a* capoverso 1, se la consegna dei vaccini non è raccomandata dalle autorità e non serve per lottare contro le malattie trasmissibili. Se è garantita una disponibilità sufficiente per la vaccinazione delle persone di cui all’articolo 64*a* capoverso 1, la Confederazione può mettere i vaccini a disposizione di altre persone dietro pagamento.
+<sup>1</sup>
 
-<sup>2</sup> Le strutture di vaccinazione versano alla Confederazione un importo forfettario per il vaccino, la logistica, il materiale di vaccinazione e le spese amministrative supplementari. L’importo forfettario ammonta a 30 franchi per vaccinazione.
+Se la consegna dei vaccini non è raccomandata dalle autorità e non serve per lottare contro le malattie trasmissibili, la Confederazione può mettere a disposizione dietro pagamento i vaccini acquistati per le vaccinazioni anti-COVID-19 secondo l’articolo 44 capoverso 1 LEp, compresi i richiami, per la vaccinazione delle persone indicate qui di seguito:
 
-<sup>3</sup> Alla fine dei mesi di marzo, giugno, settembre e dicembre, le strutture di vaccinazione inviano all’autorità cantonale competente un elenco delle vaccinazioni effettuate secondo il capoverso 1.
+- a. persone assicurate secondo l’articolo 3 LAMal[^64dbis-2];
+- b. persone assicurate contro le malattie secondo la LAM[^64dbis-3];
+- c.
 
-<sup>4</sup> L’autorità cantonale competente controlla la plausibilità dell’elenco in base alle dosi distribuite alla struttura di vaccinazione, ne verifica la completezza e lo trasmette per via elettronica all’istituzione comune entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
+  persone non assicurate secondo l’articolo 3 LAMal né assicurate contro le malattie secondo la LAM che:
 
-<sup>5</sup> L’istituzione comune invia alle strutture di vaccinazione, entro il ventesimo giorno lavorativo del mese successivo al periodo di fatturazione, una fattura per l’importo forfettario di cui al capoverso 2.
+  - 1\. hanno domicilio o dimora abituale in Svizzera, o
+  - 2\. esercitano un’attività lucrativa in Svizzera come frontalieri.
 
-<sup>6</sup> Una volta ricevuti i pagamenti delle strutture di vaccinazione, versa trimestralmente alla Confederazione l’importo complessivo.
+<sup>2</sup> Se per la vaccinazione delle persone di cui al capoverso 1 sono disponibili sufficienti vaccini, questi possono essere messi a disposizione di altre persone dietro pagamento.
 
-<sup>7</sup> L’UFSP rimborsa all’istituzione comune le spese amministrative conformemente all’articolo 64*b* capoverso 6.
+<sup>3</sup>
 
-[^64dbis-1]: Introdotto dal n. I dell’O del 10 giu. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2023 ([RU 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
+I farmacisti che effettuano vaccinazioni di cui ai capoversi 1 e 2 devono:
+
+- a. aver conseguito un certificato nel quadro del programma di formazione complementare FPH Vaccinazione e prelievo di sangue del 1° dicembre 2011[^64dbis-4] o avere una formazione equivalente in materia di vaccinazioni;
+- b. essere stati incaricati dal Cantone di effettuare vaccinazioni anti-COVID-19; e
+- c. adempiere le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
+
+<sup>4</sup> Le strutture di vaccinazione versano alla Confederazione un importo forfettario di 30 franchi per vaccinazione per il vaccino, la logistica, il materiale di vaccinazione e le spese amministrative supplementari.
+
+<sup>5</sup> Alla fine dei mesi di marzo 2024 e giugno 2024 le strutture di vaccinazione inviano all’autorità cantonale competente un elenco delle vaccinazioni effettuate secondo i capoversi 1 e 2.
+
+<sup>6</sup> L’autorità cantonale competente controlla la plausibilità dell’elenco in base alle dosi distribuite alla struttura di vaccinazione, ne verifica la completezza e lo trasmette per via elettronica all’istituzione comune entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
+
+<sup>7</sup> L’istituzione comune invia alle strutture di vaccinazione, entro il ventesimo giorno lavorativo del mese successivo al periodo di fatturazione, una fattura per l’importo forfettario di cui al capoverso 4.
+
+<sup>8</sup> Una volta ricevuti i pagamenti delle strutture di vaccinazione, versa trimestralmente alla Confederazione l’importo complessivo.
+
+<sup>9</sup> L’UFSP rimborsa all’istituzione comune le spese amministrative conformemente all’articolo 64*d* capoverso 6.
+
+[^64dbis-1]: Introdotto dal n. I dell’O del 10 giu. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^64dbis-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64dbis-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64dbis-4]: Consultabile su: [www.fphch.org](http://www.fphch.org/) &gt; Fähigkeitsprogramme &gt; Impfen und Blutentnahme.
 
 #### Art. 64e
 
@@ -1022,103 +1020,11 @@ La rimunerazione del valore contabile uniforme del medicamento di cui al capover
 [^64f-1]: Introdotto dal n. I dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19), in vigore dal 17 feb. 2022 ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 [^64f-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
-#### Art. 64g
+#### Art. 64g a 64j
 
-**Assunzione dei costi delle vaccinazioni contro il vaiolo delle scimmie**[^64g-1]
+[^64g64j-1]
 
-<sup>1</sup>
-
-La Confederazione assume i costi delle vaccinazioni contro il vaiolo delle scimmie effettuate sulle seguenti persone conformemente alle raccomandazioni dell’UFSP e della Commissione federale per le vaccinazioni del 1° settembre 2022[^64g-2]:
-
-- a. persone assicurate secondo l’articolo 3 LAMal[^64g-3];
-- b. persone assicurate contro le malattie secondo la LAM[^64g-4];
-- c.
-
-  persone non assicurate secondo l’articolo 3 LAMal né assicurate contro le malattie secondo la LAM, che però appartengono a una delle seguenti categorie:
-
-  - 1\. persone che hanno domicilio o dimora abituale in Svizzera,
-  - 2\. persone che esercitano un’attività lucrativa in Svizzera come frontalieri.
-
-<sup>2</sup>
-
-Assume i costi soltanto se i fornitori di prestazioni:
-
-- a. sono stati incaricati dal Cantone di effettuare vaccinazioni contro il vaiolo delle scimmie; e
-- b. adempiono le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
-
-<sup>3</sup> Per ogni vaccinazione effettuata secondo il capoverso 1, la Confederazione assume un importo forfettario di 40 franchi.
-
-<sup>4</sup> Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni fornite in relazione alla vaccinazione.
-
-<sup>5</sup> I fornitori di prestazioni non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
-
-[^64g-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
-[^64g-2]: Le raccomandazioni sono disponibili alla pagina web seguente: www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Vaiolo delle scimmie.
-[^64g-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64g-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-
-#### Art. 64h
-
-**Procedura per l’assunzione dei costi delle vaccinazioni contro il vaiolo delle scimmie**[^64h-1]
-
-<sup>1</sup>
-
-Alla fine dei mesi di marzo, giugno, settembre e dicembre, i fornitori di prestazioni inviano all’autorità cantonale competente una fattura collettiva per le vaccinazioni che hanno effettuato nei tre mesi precedenti secondo l’articolo 64*g* capoverso 1. Sulla fattura devono essere indicati:
-
-- a. il numero di vaccinazioni effettuate nel periodo di fatturazione;
-- b. l’importo forfettario per ogni vaccinazione effettuata;
-- c. l’importo complessivo di tutte le vaccinazioni effettuate.
-
-<sup>2</sup> La fattura può comprendere soltanto le prestazioni fornite in relazione alle vaccinazioni. Deve essere trasmessa per via elettronica.
-
-<sup>3</sup> L’autorità cantonale competente controlla la plausibilità delle fatture in base alle dosi di vaccino distribuite nel Cantone, ne verifica la completezza e, dopo averle saldate, le trasmette per via elettronica all’UFSP entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
-
-<sup>4</sup> La Confederazione versa ai Cantoni, entro 20 giorni lavorativi dal ricevimento della fattura, l’importo forfettario di cui all’articolo 64*g* capoverso 3 per ogni vaccinazione effettuata.
-
-[^64h-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
-
-#### Art. 64i
-
-**Assunzione dei costi dei medicamenti impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie**[^64i-1]
-
-<sup>1</sup> La Confederazione assume i costi dei medicamenti di cui all’allegato 2 numero 1 soltanto se:
-
-sono adempiute le condizioni di cui all’allegato 2 numero 1; e
-
-i fornitori di prestazioni sono stati incaricati dal Cantone di effettuare il trattamento e di consegnare il medicamento.
-
-<sup>2</sup>
-
-Il DFI può inserire ulteriori medicamenti nell’allegato 2 numero 1, purché siano adempiute le seguenti condizioni:
-
-- a. sono impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie;
-- b. non figurano nell’elenco delle specialità secondo la LAMal[^64i-2];
-- c. al fine di garantire l’approvvigionamento della popolazione con questi medicamenti, la Confederazione ha stipulato un contratto con il titolare dell’omologazione.
-
-<sup>3</sup> In caso di consegna di un medicamento da parte di un farmacista autorizzato quale fornitore di prestazioni secondo la LAMal, la Confederazione assume 24 franchi per gli oneri associati alla consegna.
-
-[^64i-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
-[^64i-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-
-#### Art. 64j
-
-**Procedura per l’assunzione dei costi per la consegna di un medicamento contro il vaiolo delle scimmie da parte dei farmacisti**[^64j-1]
-
-<sup>1</sup>
-
-Alla fine dei mesi di marzo, giugno, settembre e dicembre, i farmacisti inviano all’autorità cantonale competente una fattura collettiva per le consegne che hanno effettuato nei tre mesi precedenti secondo l’articolo 64*i* capoverso 3. Sulla fattura devono essere indicati:
-
-- a. il numero di consegne effettuate nel periodo di fatturazione;
-- b. l’importo forfettario per ogni consegna effettuata;
-- c. l’importo complessivo di tutte le consegne effettuate.
-
-<sup>2</sup> La fattura può comprendere soltanto le prestazioni fornite in relazione alle consegne. Deve essere trasmessa per via elettronica.
-
-<sup>3</sup> L’autorità cantonale competente controlla la plausibilità delle fatture in base alle consegne effettuate nel Cantone, ne verifica la completezza e, dopo averle saldate, le trasmette per via elettronica all’UFSP entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
-
-<sup>4</sup> La Confederazione versa ai Cantoni l’importo dovuto entro 20 giorni lavorativi dal ricevimento delle fatture di cui al capoverso 3.
-
-[^64j-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^64g64j-1]: Introdotti dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
 ### Sezione 3: Trasporto di merci
 
@@ -1426,7 +1332,7 @@ Il sistema d’informazione si compone:
 
 **Registrazione dei dati nel sistema «dichiarazioni»**
 
-<sup>1</sup> Nel sistema «dichiarazioni» l’UFSP registra tutti i dati rilevati secondo gli articoli 6–8 e comunicati all’UFSP.
+<sup>1</sup> Nel sistema «dichiarazioni» l’UFSP registra tutti i dati rilevati secondo gli articoli 6–9 e comunicati all’UFSP.[^91-1]
 
 <sup>2</sup> Può registrare anche i risultati delle indagini epidemiologiche (art. 17) e i dati sulla diagnostica di riferimento (art. 23 e 24).
 
@@ -1437,6 +1343,14 @@ I medici cantonali registrano nel sistema «dichiarazioni» i seguenti dati sull
 - a. i provvedimenti adottati per la prevenzione delle malattie trasmissibili e la lotta contro di esse (art. 13);
 - b. i risultati delle indagini epidemiologiche (art. 15);
 - c. le aggiunte e le modifiche dei dati di cui all’articolo 12.
+
+<sup>4</sup> Per identificare medici, ospedali e altre istituzioni pubbliche o private del settore sanitario nonché laboratori pubblici o privati soggetti all’obbligo di dichiarazione, il sistema «dichiarazioni» utilizza l’IDI del registro IDI e il numero RIS del Registro delle imprese e degli stabilimenti.[^91-2]
+
+<sup>5</sup> L’UFSP mette l’IDI e il numero RIS a disposizione delle persone soggette all’obbligo di dichiarazione.[^91-3]
+
+[^91-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^91-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^91-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 92
 
@@ -1683,9 +1597,7 @@ Sono abrogate le seguenti ordinanze:
 
 #### Art. 108a
 
-**Disposizioni transitorie relative alla modifica del 24 agosto 2022**[^108a-1]
-
-Le fatture collettive di cui all’articolo 64*h* capoverso 1 e 64*j* capoverso 1 devono essere trasmesse per la prima volta alle autorità cantonali competenti entro la fine di dicembre 2022.
+[^108a-1]
 
 [^108a-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
@@ -1746,27 +1658,4 @@ Allegato 1[^t-1]
 
 Allegato 2[^t-2]
 
-(art. 64*i* cpv. 1 e 2)
-
-## Medicamenti impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie
-
 [^t-2]: Introdotto dal n. II dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
-
-- 1\. La Confederazione assume i costi per i seguenti medicamenti impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie:
-
-<table>
-<tr><th>Medicamento</th></tr>
-<tr><td>Tecovirimat</td></tr>
-</table>
-
-- 2\.
-
-  Assume i costi dei medicamenti soltanto per le persone che:
-
-  - a. sono sintomatiche; e
-  - b.
-
-    sono trattate come segue:
-
-    - 1\. nel quadro dell’indicazione omologata, o
-    - 2\. prima dell’omologazione del medicamento, ma applicando le raccomandazioni delle società specializzate responsabili e tenendo conto dei dati epidemiologici.

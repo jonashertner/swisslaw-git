@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230901/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. September 2023)
+vom 29. April 2015 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -103,6 +103,7 @@ Die Meldung von klinischen Befunden von Ärztinnen und Ärzten, Spitälern und a
   zur betroffenen Person:
 
   - 1\. Vorname, Name, Adresse und Telefonnummer, wenn dies für Massnahmen nach den Artikeln 15 sowie 33–38 EpG notwendig ist, sonst nur die Initialen des Vor- und Nachnamens und den Wohnort; falls die Person nicht in der Schweiz wohnhaft ist, den Aufenthaltsort,
+  - 1<sup>bis</sup>.[^6-1] AHV-Nummer, sofern die Meldung elektronisch übermittelt wird,
   - 2\. Geburtsdatum,
   - 3\. Geschlecht,
   - 4\. Staatsangehörigkeit,
@@ -110,6 +111,8 @@ Die Meldung von klinischen Befunden von Ärztinnen und Ärzten, Spitälern und a
   - 6\. Herkunftsland;
 
 - l. Kontaktdaten der Ärztin oder des Arztes, des Spitals, der Stelle des Spitals nach Artikel 12 Absatz 2 oder der öffentlichen oder privaten Institution des Gesundheitswesens.
+
+[^6-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 7
 
@@ -130,10 +133,13 @@ Sie beinhaltet je nach Krankheitserreger die folgenden Angaben:
   zur betroffenen Person:
 
   - 1\. Vorname, Name sowie Adresse und Telefonnummer, wenn dies für Massnahmen nach den Artikeln 15 sowie 33–38 EpG notwendig ist, sonst nur die Initialen des Vor- und Nachnamens und den Wohnort; falls die Person nicht in der Schweiz wohnhaft ist, den Aufenthaltsort,
+  - 1<sup>bis</sup>.[^7-1] AHV-Nummer, sofern die Meldung elektronisch übermittelt wird,
   - 2\. das Geburtsdatum,
   - 3\. das Geschlecht;
 
 - f. Kontaktdaten der Ärztin oder des Arztes, des Spitals, der Stelle des Spitals nach Artikel 12 Absatz 2 oder der öffentlichen oder privaten Institution des Gesundheitswesens.
+
+[^7-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 8
 
@@ -152,6 +158,7 @@ Die Meldung von laboranalytischen Befunden von öffentlichen oder privaten Labor
   zur betroffenen Person:
 
   - 1\. Vorname, Name, Adresse und Telefonnummer, wenn dies für Massnahmen nach den Artikeln 15 sowie 33–38 EpG notwendig ist, sonst nur die Initialen des Vor- und Nachnamens und den Wohnort,
+  - 1<sup>bis</sup>.[^8-1] AHV-Nummer, sofern die Meldung elektronisch übermittelt wird,
   - 2\. Geburtsdatum,
   - 3\. Geschlecht;
 
@@ -159,6 +166,8 @@ Die Meldung von laboranalytischen Befunden von öffentlichen oder privaten Labor
 - g. Kontaktdaten des Laboratoriums.
 
 <sup>2</sup> Die Laboratorien melden dem BAG periodisch eine Statistik aller Resultate zu meldepflichtigen Beobachtungen. Das Eidgenössische Departement des Innern (EDI) legt den Inhalt der Statistik in Bezug auf die einzelnen Krankheitserreger fest.
+
+[^8-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 9
 
@@ -183,9 +192,12 @@ Die Meldung von epidemiologischen Befunden von Ärztinnen und Ärzten, Spitäler
   - 3\. wahrscheinlicher Übertragungsweg sowie Angaben zum Übertragungsrisiko,
   - 4\. Datum der einzelnen Diagnosen,
   - 5\. getroffene Massnahmen,
-  - 6\. Name und Adresse der betroffenen Einrichtung;
+  - 6\. Name und Adresse der betroffenen Einrichtung,
+  - 7\.[^9-1] Unternehmens-Identifikationsnummer (UID) und Betriebs-Identifikationsnummer (BUR-Nummer) der betroffenen Einrichtung, sofern die Meldung elektronisch übermittelt wird;
 
 - c. Kontaktdaten der Ärztin oder des Arztes, des Spitals, der Stelle des Spitals nach Artikel 12 Absatz 2 oder der öffentlichen oder privaten Institution des Gesundheitswesens.
+
+[^9-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 ### 4. Abschnitt: Bearbeitung der Meldungen
 
@@ -193,9 +205,14 @@ Die Meldung von epidemiologischen Befunden von Ärztinnen und Ärzten, Spitäler
 
 **Entgegennahme und Kontrolle der Meldungen**
 
-<sup>1</sup> Die Kantonsärztinnen und Kantonsärzte nehmen die Meldungen nach den Artikeln 6–8 entgegen. Sie kontrollieren, ob die Meldungen vollständig sind, und fordern bei Bedarf die nötigen Angaben ein. Für die Armee nimmt die Oberfeldärztin oder der Oberfeldarzt die Meldungen entgegen und kontrolliert sie.
+<sup>1</sup> Die Kantonsärztinnen und Kantonsärzte nehmen die Meldungen nach den Artikeln 6–9 entgegen. Sie kontrollieren, ob die Meldungen vollständig sind, und fordern bei Bedarf die nötigen Angaben ein. Für die Armee nimmt die Oberfeldärztin oder der Oberfeldarzt die Meldungen entgegen und kontrolliert sie.[^10-1]
 
 <sup>2</sup> Geht nach Eingang der Meldung zu einem laboranalytischen Befund (Art. 8) keine Meldung zu einem klinischen Befund (Art. 6) ein, so fordert die Kantonsärztin oder der Kantonsarzt beziehungsweise die Oberfeldärztin oder der Oberfeldarzt diese ein. Er oder sie fordert zusätzlich die Ergänzungsmeldung zu einem klinischen Befund (Art. 7) ein.
+
+<sup>3</sup> Werden die Meldungen nach den Artikeln 6−8 elektronisch übermittelt, so kontrolliert das BAG die Richtigkeit der AHV-Nummer.[^10-2]
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^10-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 11
 
@@ -216,6 +233,13 @@ Die Meldung von epidemiologischen Befunden von Ärztinnen und Ärzten, Spitäler
 <sup>3</sup> Das BAG und die Kantonsärztinnen und Kantonsärzte beziehungsweise die Oberfeldärztin oder der Oberfeldarzt stellen den gegenseitigen Informationsaustausch sicher.
 
 <sup>4</sup> Das BAG kann die Laboratorien beauftragen, den meldepflichtigen Personen und Institutionen zusammen mit dem Untersuchungsergebnis ein Meldeformular zum klinischen Befund zuzustellen.
+
+<sup>5</sup> Die Ärztinnen und Ärzte übermitteln den beauftragten Laboratorien die Informationen nach Artikel 8 Absatz 1 Buchstabe e.[^12-1]
+
+<sup>6</sup> Ärztinnen und Ärzte, Spitäler und andere öffentliche oder private Institutionen des Gesundheitswesens sowie öffentliche oder private Laboratorien müssen die für die Meldung elektronisch bearbeiteten Daten über die betroffene Person löschen, sobald sie die Meldepflicht erfüllt haben.[^12-2]
+
+[^12-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^12-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 13
 
@@ -826,74 +850,11 @@ Insbesondere folgende Personen können prioritär berücksichtigt werden:
 
 <sup>2</sup> Die Kantone tragen die Kosten für die Weiterverteilung innerhalb des Kantons.
 
-#### Art. 64a
+#### Art. 64a und 64b
 
-**Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker**[^64a-1]
+[^64a64b-1]
 
-<sup>1</sup>
-
-Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei folgenden Personen durchgeführt werden:
-
-- a. Personen, die nach Artikel 3 des Bundesgesetzes vom 18. März 1994[^64a-2] über die Krankenversicherung (KVG) versichert sind;
-- b. Personen, die nach dem Militärversicherungsgesetz vom 19. Juni 1992[^64a-3] (MVG) gegen Krankheit versichert sind;
-- c.
-
-  Personen, die weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind, die aber einer der folgenden Personenkategorien angehören:
-
-  - 1\. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben,
-  - 2\. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
-
-<sup>2</sup>
-
-Die Apothekerinnen und Apotheker müssen:
-
-- a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm FPH Impfen und Blutentnahme vom 1. Dezember 2011[^64a-4] verfügen;
-- b. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sein; und
-- c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
-
-<sup>3</sup> Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von 29 Franken.
-
-<sup>4</sup>
-
-Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst:
-
-- a. die Verabreichung der Impfung;
-- b. die Überprüfung des Impfstatus und die Impfanamnese;
-- c. die Überprüfung von Kontraindikationen;
-- d. die Dokumentation;
-- e. die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
-
-<sup>5</sup> Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
-
-[^64a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
-[^64a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64a-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64a-4]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme
-
-#### Art. 64b
-
-**Verfahren zur Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker**[^64b-1]
-
-<sup>1</sup>
-
-Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Sammelrechnung für die von ihnen in den vergangenen zwei beziehungsweise drei Monaten durchgeführten Impfungen nach Artikel 64*a* Absatz 1. Die Rechnung muss enthalten:
-
-- a. die Anzahl der im Rechnungszeitraum durchgeführten Impfungen;
-- b. die Impfpauschale pro durchgeführte Impfung;
-- c. den Gesamtbetrag für alle durchgeführten Impfungen.
-
-<sup>2</sup> Die Rechnung darf nur Leistungen im Zusammenhang mit den Impfungen beinhalten. Die Übermittlung erfolgt elektronisch.
-
-<sup>3</sup> Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton verteilten Impfdosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung nach Artikel 18 KVG[^64b-2] (gemeinsame Einrichtung).
-
-<sup>4</sup> Die gemeinsame Einrichtung stellt dem BAG für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung zu allen von den Kantonen eingegangenen Rechnungen für Impfungen nach Artikel 64*a* Absatz 1 zu. Das BAG bezahlt der gemeinsamen Einrichtung den Rechnungsbetrag innerhalb von 10 Arbeitstagen nach der Zustellung der Rechnung.
-
-<sup>5</sup> Die gemeinsame Einrichtung bezahlt den Apothekerinnen und Apothekern innerhalb von 5 Arbeitstagen nach Eingang der Zahlung des BAG pro durchgeführte Impfung die Pauschale nach Artikel 64*a* Absatz 3.
-
-<sup>6</sup> Sie stellt dem BAG quartalsweise ihre Verwaltungskosten nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
-
-[^64b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
-[^64b-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64a64b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 
 #### Art. 64c
 
@@ -906,7 +867,7 @@ Der Bund übernimmt die Kosten von Covid-19-Impfungen, die bei den folgenden Per
 - a. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben;
 - b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
 
-<sup>2</sup> Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1 weder nach Artikel 3 KVG[^64c-2] noch nach dem MVG[^64c-3] gegen Krankheit versichert sind.
+<sup>2</sup> Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1 weder nach Artikel 3 des Bundesgesetzes vom 18. März 1994[^64c-2] über die Krankenversicherung (KVG) noch nach dem Militärversicherungsgesetz vom 19. Juni 1992[^64c-3] (MVG) gegen Krankheit versichert sind.
 
 <sup>3</sup>
 
@@ -921,7 +882,7 @@ Er übernimmt für jede Impfung nach Absatz 1 eine der folgenden Pauschalen:
 
 - a. 20 Franken für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen;
 - b. 29 Franken für Impfungen in Arztpraxen;
-- c. Fr. 40.45 für Impfungen in Arztpraxen bei Kindern bis zum vollendeten 11. Altersjahr.
+- c. Fr. 40.45 für Impfungen in Arztpraxen bei Kindern bis zum vollendeten 12. Altersjahr.
 
 <sup>5</sup>
 
@@ -935,41 +896,78 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 
 <sup>6</sup> Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
-<sup>7</sup> Für das Verfahren zur Übernahme der Kosten gilt Artikel 64*b* sinngemäss.
-
-[^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
+[^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft vom 1. Jan. 2024 bis zum 30. Juni 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 [^64c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
 #### Art. 64d
 
-**Übernahme der Kosten von Covid-19-Impfungen zum indirekten Schutz besonders gefährdeter Personen**[^64d-1]
+**Verfahren zur Übernahme der Kosten von Covid-19-Impfungen**[^64d-1]
 
-<sup>1</sup> Der Bund übernimmt die Kosten von Covid-19-Impfungen, einschliesslich Auffrischimpfungen, von Personen, die selber nicht besonders gefährdet sind, deren Impfung aber dem indirekten Schutz besonders gefährdeter Personen dient.
+<sup>1</sup>
 
-<sup>2</sup> Artikel 64*c* Absätze 3–7 ist anwendbar.
+Die Leistungserbringer senden der zuständigen kantonalen Behörde Ende März 2024 eine Rechnung für die von ihnen in den Monaten Januar, Februar und März 2024 nach Artikel 64*c* Absätze 1–3 durchgeführten Impfungen sowie Ende Juni 2024 eine Rechnung für die von ihnen in den Monaten April, Mai und Juni 2024 durchgeführten Impfungen. Die Rechnung muss folgende Angaben enthalten:
 
-[^64d-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
+- a. die Anzahl Impfungen;
+- b. die Impfpauschale pro Impfung;
+- c. den Gesamtbetrag.
+
+<sup>2</sup> Die Rechnung darf nur Angaben zu Leistungen im Zusammenhang mit den durchgeführten Impfungen enthalten. Sie muss elektronisch übermittelt werden.
+
+<sup>3</sup> Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton verteilten Impfdosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung nach Artikel 18 KVG[^64d-2] (gemeinsame Einrichtung).
+
+<sup>4</sup> Die gemeinsame Einrichtung erfasst die eingegangenen Rechnungen und stellt dem BAG bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Sammelrechnung zu. Das BAG bezahlt der gemeinsamen Einrichtung den Betrag der Sammelrechnung innerhalb von 10 Arbeitstagen nach dem Eingang der Rechnung.
+
+<sup>5</sup> Die gemeinsame Einrichtung bezahlt den Leistungserbringern innerhalb von 5 Arbeitstagen nach Eingang der Zahlung des BAG pro durchgeführte Impfung die Pauschale nach Artikel 64*c* Absatz 4.
+
+<sup>6</sup> Sie stellt dem BAG quartalsweise ihre Verwaltungskosten nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken, einschliesslich Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
+
+[^64d-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft vom 1. Jan. 2024 bis zum 30. Juni 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^64d-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 64d<sup>bis</sup>
 
 **Selbstzahlersystem bei Covid-19-Impfungen**[^64dbis-1]
 
-<sup>1</sup> Der Bund kann die nach Artikel 44 Absatz 1 EpG beschafften Impfstoffe für Covid-19-Impfungen, einschliesslich Auffrischimpfungen, für die Impfung von Personen nach Artikel 64*a* Absatz 1 gegen Bezahlung zur Verfügung stellen, wenn die Abgabe ohne behördliche Empfehlung erfolgt und nicht der Bekämpfung übertragbarer Krankheiten dient. Ist eine ausreichende Verfügbarkeit für die Impfung der Personen nach Artikel 64*a* Absatz 1 sichergestellt, so kann der Bund die Impfstoffe gegen Bezahlung für die Impfung weiterer Personen zur Verfügung stellen.
+<sup>1</sup>
 
-<sup>2</sup> Die Impfstellen entrichten dem Bund eine Pauschale für Impfstoff, Logistik, Impfmaterial und zusätzliche administrative Kosten. Die Pauschale beträgt 30 Franken pro Impfung.
+Der Bund kann die nach Artikel 44 Absatz 1 EpG beschafften Impfstoffe für Covid-19-Impfungen, einschliesslich Auffrischimpfungen, für die Impfung der nachfolgend aufgeführten Personen gegen Bezahlung zur Verfügung stellen, wenn die Abgabe ohne behördliche Empfehlung erfolgt und nicht der Bekämpfung übertragbarer Krankheiten dient:
 
-<sup>3</sup> Die Impfstellen senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Aufstellung über die nach Absatz 1 durchgeführten Impfungen.
+- a. Personen, die nach Artikel 3 KVG[^64dbis-2] versichert sind;
+- b. Personen, die nach dem MVG[^64dbis-3] gegen Krankheit versichert sind;
+- c.
 
-<sup>4</sup> Die zuständige kantonale Behörde plausibilisiert die Aufstellung aufgrund der an die Impfstelle gelieferten Dosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung.
+  Personen, die weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind und:
 
-<sup>5</sup> Die gemeinsame Einrichtung stellt den Impfstellen für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung für die Pauschale nach Absatz 2 zu.
+  - 1\. ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben, oder
+  - 2\. in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
 
-<sup>6</sup> Sie überweist dem Bund nach Eingang der Zahlungen der Impfstellen quartalsweise den Gesamtbetrag.
+<sup>2</sup> Sind für die Impfung von Personen nach Absatz 1 genügend Impfstoffe verfügbar, so können diese gegen Bezahlung zur Impfung weiterer Personen zur Verfügung gestellt werden.
 
-<sup>7</sup> Das BAG vergütet der gemeinsamen Einrichtung deren Verwaltungskosten gemäss Artikel 64*b* Absatz 6.
+<sup>3</sup>
 
-[^64dbis-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
+Apothekerinnen und Apotheker, die Impfungen nach den Absätzen 1 und 2 durchführen, müssen:
+
+- a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm «FPH Impfen und Blutentnahme» vom 1. Dezember 2011[^64dbis-4] oder über eine gleichwertige Ausbildung im Bereich Impfung verfügen;
+- b. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sein; und
+- c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
+
+<sup>4</sup> Die Impfstellen entrichten dem Bund für Impfstoff, Logistik, Impfmaterial und zusätzliche administrative Kosten eine Pauschale von 30 Franken pro Impfung.
+
+<sup>5</sup> Die Impfstellen senden der zuständigen kantonalen Behörde per Ende März 2024 und per Ende Juni 2024 eine Liste über die nach den Absätzen 1 und 2 durchgeführten Impfungen.
+
+<sup>6</sup> Die zuständige kantonale Behörde plausibilisiert die Aufstellung aufgrund der an die Impfstelle gelieferten Dosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung.
+
+<sup>7</sup> Die gemeinsame Einrichtung stellt den Impfstellen für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung für die Pauschale nach Absatz 4 zu.
+
+<sup>8</sup> Sie überweist dem Bund nach Eingang der Zahlungen der Impfstellen quartalsweise den Gesamtbetrag.
+
+<sup>9</sup> Das BAG vergütet der gemeinsamen Einrichtung die Verwaltungskosten nach Artikel 64*d* Absatz 6.
+
+[^64dbis-1]: Fassung gemäss Ziff. I der V vom 10. Juni 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft vom 1. Jan. 2024 bis zum 30. Juni 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^64dbis-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64dbis-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64dbis-4]: Abrufbar unter: [www.fphch.org](http://www.fphch.org) &gt; Fähigkeitsprogramme &gt; Impfen und Blutentnahme.
 
 #### Art. 64e
 
@@ -1022,104 +1020,11 @@ Die Vergütung des einheitlichen Buchwerts der Arzneimittel nach Absatz 3 und de
 [^64f-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln), in Kraft seit 17. Febr. 2022 ([AS 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 [^64f-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
-#### Art. 64g
+#### Art. 64g–64j
 
-**Übernahme der Kosten von Affenpockenimpfungen**[^64g-1]
+[^64g64j-1]
 
-<sup>1</sup>
-
-Der Bund übernimmt die Kosten von Affenpockenimpfungen, die gemäss den Empfehlungen des BAG und der Eidgenössischen Kommission für Impffragen vom 1. September 2022[^64g-2] bei folgenden Personen durchgeführt werden:
-
-- a. Personen, die nach Artikel 3 KVG[^64g-3] versichert sind;
-- b. Personen, die nach dem MVG[^64g-4] gegen Krankheit versichert sind;
-- c.
-
-  Personen, die weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind, die aber einer der folgenden Personenkategorien angehören:
-
-  - 1\. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben,
-  - 2\. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
-
-<sup>2</sup>
-
-Er übernimmt die Kosten nur, wenn die Leistungserbringer:
-
-- a. vom Kanton mit der Durchführung von Affenpockenimpfungen beauftragt worden sind; und
-- b. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
-
-<sup>3</sup> Er übernimmt für jede Impfung nach Absatz 1 eine Pauschale von 40 Franken.
-
-<sup>4</sup> Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten.
-
-<sup>5</sup> Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
-
-[^64g-1]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
-[^64g-2]: Die Empfehlungen sind abrufbar unter: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Affenpocken.
-[^64g-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64g-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-
-#### Art. 64h
-
-**Verfahren zur Übernahme der Kosten von Affenpockenimpfungen**[^64h-1]
-
-<sup>1</sup>
-
-Die Leistungserbringer senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Sammelrechnung für die von ihnen in den vergangenen drei Monaten durchgeführten Impfungen nach Artikel 64*g* Absatz 1. Die Rechnung muss enthalten:
-
-- a. die Anzahl der im Rechnungszeitraum durchgeführten Impfungen;
-- b. die Impfpauschale pro durchgeführte Impfung;
-- c. den Gesamtbetrag für alle durchgeführten Impfungen.
-
-<sup>2</sup> Die Rechnung darf nur Leistungen im Zusammenhang mit den Impfungen beinhalten. Die Übermittlung erfolgt elektronisch.
-
-<sup>3</sup> Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton verteilten Impfdosen, prüft sie auf ihre Vollständigkeit und sendet sie nach erfolgter Vergütung der Leistungserbringer innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an das BAG.
-
-<sup>4</sup> Der Bund bezahlt den Kantonen innerhalb von 20 Arbeitstagen nach Eingang der Rechnung pro durchgeführte Impfung die Pauschale nach Artikel 64*g* Absatz 3.
-
-[^64h-1]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
-
-#### Art. 64i
-
-**Übernahme der Kosten von Arzneimitteln zur ambulanten oder stationären Behandlung von Affenpocken**[^64i-1]
-
-<sup>1</sup>
-
-Der Bund übernimmt die Kosten der in Anhang 2 Ziffer 1 aufgeführten Arzneimittel, wenn:
-
-- a. die Voraussetzungen nach Anhang 2 Ziffer 2 erfüllt sind; und
-- b. die Leistungserbringer vom Kanton mit der Durchführung der Behandlung und der Abgabe eines solchen Arzneimittels beauftragt worden sind.
-
-<sup>2</sup>
-
-Das EDI kann weitere Arzneimittel in Anhang 2 Ziffer 1 aufnehmen, sofern sie folgende Voraussetzungen erfüllen:
-
-- a. Sie werden zur ambulanten oder stationären Behandlung von Affenpocken eingesetzt.
-- b. Sie sind nicht auf der Spezialitätenliste nach dem KVG[^64i-2] aufgeführt.
-- c. Der Bund hat zur Sicherstellung der Versorgung der Bevölkerung mit diesen Arzneimitteln mit der Zulassungsinhaberin einen Vertrag abgeschlossen.
-
-<sup>3</sup> Bei der Abgabe eines Arzneimittels durch eine Apothekerin oder einen Apotheker, die oder der als Leistungserbringer nach dem KVG zugelassen ist, übernimmt der Bund 24 Franken für die mit der Abgabe verbundenen Aufwände.
-
-[^64i-1]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
-[^64i-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-
-#### Art. 64j
-
-**Verfahren zur Übernahme der Kosten für die Abgabe von Arzneimitteln gegen Affenpocken durch Apothekerinnen und Apotheker**[^64j-1]
-
-<sup>1</sup>
-
-Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Sammelrechnung für die von ihnen in den vergangenen drei Monaten erfolgten Abgaben nach Artikel 64*i* Absatz 3. Die Rechnung muss enthalten:
-
-- a. die Anzahl der im Rechnungszeitraum erfolgte Abgaben;
-- b. die Pauschale pro erfolgte Abgabe;
-- c. den Gesamtbetrag für alle erfolgten Abgaben.
-
-<sup>2</sup> Die Rechnung darf nur Leistungen im Zusammenhang mit den Abgaben beinhalten. Die Übermittlung erfolgt elektronisch.
-
-<sup>3</sup> Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton erfolgten Abgaben, prüft sie auf ihre Vollständigkeit und sendet sie nach erfolgter Vergütung der Apothekerinnen und Apotheker innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an das BAG.
-
-<sup>4</sup> Der Bund bezahlt den Kantonen den geschuldeten Betrag innerhalb von 20 Arbeitstagen nach Eingang der Rechnungen nach Absatz 3.
-
-[^64j-1]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^64g64j-1]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
 ### 3. Abschnitt: Warenverkehr
 
@@ -1427,7 +1332,7 @@ Das Informationssystem besteht aus:
 
 **Datenerfassung im System «Meldungen»**
 
-<sup>1</sup> Das BAG erfasst im System «Meldungen» alle Daten, die nach den Artikeln 6–8 erhoben und dem BAG gemeldet werden.
+<sup>1</sup> Das BAG erfasst im System «Meldungen» alle Daten, die nach den Artikeln 6–9 erhoben und dem BAG gemeldet werden.[^91-1]
 
 <sup>2</sup> Es kann zusätzlich die Ergebnisse von epidemiologischen Abklärungen (Art. 17) sowie die Daten zur Referenzdiagnostik (Art. 23 und 24) erfassen.
 
@@ -1438,6 +1343,14 @@ Die Kantonsärztinnen und Kantonsärzte erfassen im System «Meldungen» folgend
 - a. die getroffenen Massnahmen zur Verhütung und Bekämpfung übertragbarer Krankheiten (Art. 13);
 - b. die Ergebnisse von epidemiologischen Abklärungen (Art. 15);
 - c. die Ergänzungen und Änderungen von Daten nach Artikel 12.
+
+<sup>4</sup> Das System «Meldungen» bezieht zur Identifikation von meldepflichtigen Ärztinnen und Ärzten, Spitälern und anderen öffentlichen oder privaten Institutionen des Gesundheitswesens sowie von meldepflichtigen öffentlichen oder privaten Laboratorien die UID aus dem UID-Register und die BUR-Nummer aus dem Betriebs- und Unternehmensregister.[^91-2]
+
+<sup>5</sup> Das BAG stellt die UID und die BUR-Nummern den meldepflichtigen Personen zur Verfügung.[^91-3]
+
+[^91-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^91-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^91-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 92
 
@@ -1684,9 +1597,7 @@ Folgende Verordnungen werden aufgehoben:
 
 #### Art. 108a
 
-**Übergangsbestimmung zur Änderung vom 24. August 2022**[^108a-1]
-
-Die Sammelrechnungen nach den Artikeln 64*h* Absatz 1 und 64*j* Absatz 1 sind der zuständigen kantonalen Behörde erstmals per Ende Dezember 2022 zu senden.
+[^108a-1]
 
 [^108a-1]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
@@ -1744,27 +1655,4 @@ Anhang 1[^t-1]
 
 Anhang 2[^t-2]
 
-(Art. 64*i* Abs. 1 und 2)
-
-## Arzneimittel zur ambulanten oder stationären Behandlung von Affenpocken
-
 [^t-2]: Eingefügt durch Ziff. II der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
-
-- 1\. Der Bund übernimmt die Kosten für folgende Arzneimittel, die zur ambulanten oder stationären Behandlung von Affenpocken eingesetzt werden:
-
-<table>
-<tr><th>Arzneimittel</th></tr>
-<tr><td>Tecovirimat</td></tr>
-</table>
-
-- 2\.
-
-  Er übernimmt die Kosten nur bei Personen, die:
-
-  - a. symptomatisch sind; und
-  - b.
-
-    wie folgt behandelt werden:
-
-    - 1\. innerhalb der zugelassenen Indikation, oder
-    - 2\. vor der Zulassung des Arzneimittels, aber unter Anwendung der Empfehlungen der federführenden Fachgesellschaften und unter Berücksichtigung der epidemiologischen Daten.
