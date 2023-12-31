@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über das Verarbeitungssystem für die �
 short: VVS-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-36-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-36-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/de"
 
 (VVS-ÜPF)
 
-vom 15. November 2017 (Stand am 1. September 2023)
+vom 15. November 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -67,12 +67,15 @@ Das Verarbeitungssystem enthält folgende Daten:
 
 Im Verarbeitungssystem können Daten bearbeitet werden:
 
-- a. aus Auskünften (3. Kap. 4.–6. Abschnitt der Verordnung vom 15. November 2017[^3-1] über die Überwachung des Post- und Fernmeldeverkehrs [VÜPF]);
-- b. aus der Echtzeitüberwachung (3. Kap. 8., 9. und 11. Abschnitt VÜPF);
-- c. aus der rückwirkenden Überwachung (3. Kap. 10. und 11. Abschnitt VÜPF);
+- a.[^3-1] aus Auskünften (3. Kap. 1. und 4.–6. Abschnitt der Verordnung vom 15. November 2017[^3-2] über die Überwachung des Post- und Fernmeldeverkehrs [VÜPF]);
+- b.[^3-3] aus der Echtzeitüberwachung (3. Kap. 1., 8., 9. und 11. Abschnitt VÜPF);
+- c.[^3-4] aus der rückwirkenden Überwachung (3. Kap. 1., 10. und 11. Abschnitt VÜPF);
 - d. zur Abwicklung und Kontrolle der Geschäfte des Dienstes ÜPF (Art. 6).
 
-[^3-1]: [SR 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^3-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^3-2]: [SR 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^3-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 4
 
@@ -165,15 +168,34 @@ Der Dienst ÜPF erstellt auf Antrag mittels Antragsformulars persönliche Benutz
 
 <sup>2</sup> Ein Gesuch auf Zugriff auf die Überwachungsdaten können die nach Artikel 279 der Strafprozessordnung[^8-1] beziehungsweise nach Artikel 70*j* des Militärstrafprozesses vom 23. März 1979[^8-2], nach Artikel 33 des Nachrichtendienstgesetzes vom 25. September 2015[^8-3] , nach den Artikeln 35 und 36 BÜPF und nach dem Datenschutzgesetz vom 25. September 2020[^8-4] betroffenen Personen sowie ihre Rechtsbeistände bei der nach Artikel 10 Absätze 1–3 BÜPF zuständigen Behörde einreichen.[^8-5] Sie erhalten über die zuständige Behörde nach deren jeweils anwendbaren Bestimmungen Zugriff auf die Daten, die sie für die Wahrnehmung des ihnen zustehenden Akteneinsichtsrechts beziehungsweise Rechts auf Auskunft über die Daten benötigen.
 
-<sup>3</sup> Der Dienst ÜPF berechtigt einzelne Mitarbeiterinnen und Mitarbeiter der Behörden nach Artikel 7 Absatz 2, Zugriffe innerhalb ihrer Behörde und an nach Absatz 2 berechtigte Personen zu vergeben, soweit diese zur Erfüllung der jeweiligen Aufgaben oder zur Wahrnehmung von Rechten von Dritten notwendig sind.
+<sup>3</sup> Der Dienst ÜPF berechtigt einzelne Mitarbeiterinnen und Mitarbeiter nach Artikel 7 Absatz 2, Zugriffe innerhalb ihrer Behörde, an genehmigende Behörden und an nach Absatz 2 berechtigte Personen zu vergeben, soweit der Zugriff zur Erfüllung der jeweiligen Aufgaben oder zur Wahrnehmung von Rechten von Dritten notwendig ist.[^8-6]
 
-<sup>4</sup> Der Dienst ÜPF präzisiert Absatz 3 im Bearbeitungsreglement.
+<sup>4</sup> Mit der schriftlichen Zustimmung der mit dem Verfahren befassten Behörde kann der Dienst ÜPF seinen Mitarbeiterinnen und Mitarbeitern sowie weiteren Hilfspersonen erlauben, vom Inhalt der Daten aus Überwachungen Kenntnis zu nehmen, wenn dies zur Beratung der betreffenden Behörde oder der betreffenden Mitwirkungspflichtigen, zur Qualitätskontrolle oder zur Sicherstellung des ordnungsgemässen Funktionierens des Verarbeitungssystems notwendig ist.[^8-7]
+
+<sup>5</sup>
+
+Die Zustimmung ist nicht erforderlich:
+
+- a.
+
+  zur Sicherstellung des ordnungsgemässen Funktionierens, wenn:
+
+  - 1\. gravierende Funktionsstörungen drohen oder vorliegen, oder
+  - 2\. es unmöglich oder unverhältnismässig ist, die betroffene Überwachung ausfindig zu machen oder die für diese zuständige Behörde zu kontaktieren; oder
+
+- b. wenn es aufgrund der grossen Anzahl der betroffenen Überwachungen unverhältnismässig ist, alle zuständigen Behörden zu kontaktieren.[^8-8]
+
+<sup>6</sup> Der Dienst ÜPF ergreift angemessene vertragliche, organisatorische und technische Vorkehrungen, um eine weitere Verbreitung der Daten zu verhindern.[^8-9]
 
 [^8-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^8-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^8-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^8-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^8-5]: Fassung gemäss Anhang 2 Ziff. II 86 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-7]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-8]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-9]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 9
 
@@ -203,13 +225,17 @@ Der Dienst ÜPF stellt durch technische und organisatorische Massnahmen insbeson
 
 <sup>3</sup> Er erlässt zur Umsetzung der Massnahmen die nötigen Anweisungen an die Systembenutzerinnen und -benutzer.
 
-<sup>4</sup> Er bewahrt die Protokolle während der gesamten Speicherdauer der jeweiligen Daten aus Auskünften und Überwachungen auf.
+<sup>4</sup> Er bewahrt die Protokolle während der gesamten Aufbewahrungsdauer auf, die für die jeweiligen Daten aus Auskünften und Überwachungen gilt. Die Protokolle der Vernichtung der Daten sind während zwei weiteren Jahren aufzubewahren.[^10-1]
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 11
 
-**Massnahmen für die Systemsicherheit**
+**Massnahmen für die Systemsicherheit**[^11-1]
 
-Der Dienst ÜPF entscheidet bei einer drohenden oder bestehenden Störung des ordentlichen Betriebs des Verarbeitungssystems, welche Massnahmen zu treffen sind. Er tut dies nach Möglichkeit nach Anhörung der anordnenden oder auswertenden Behörde.
+Der Dienst ÜPF entscheidet bei einer drohenden oder bestehenden Störung des ordnungsgemässen Funktionierens des Verarbeitungssystems, welche Massnahmen zu treffen sind. Kann er die Störung einem oder mehreren Verfahren zuordnen, so hört er vorgängig nach Möglichkeit die mit diesen Verfahren befassten Behörden an.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 12
 
@@ -284,11 +310,13 @@ Die zuletzt mit dem Verfahren befasste Behörde weist den Dienst ÜPF vor Ablauf
 
 Diese Verordnung tritt am 1. März 2018 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 7 Abs. 4)
 
 ## Zugriffsmatrix Verarbeitungssystem des Dienstes ÜPF
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 <table>
 <tr><th>berechtigte Personengruppen</th><th>1. Dienst ÜPF</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
@@ -305,7 +333,7 @@ Anhang
 <tr><td>j. Anordnung/Beendigung der Überwachung</td><td>D\*\*\*</td><td>G</td><td>G</td><td>G</td><td></td><td></td><td>G</td></tr>
 <tr><td>k. Genehmigung der Überwachung</td><td>D\*\*\*</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>l. Verlängerung der Überwachung</td><td>D\*\*\*</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>m. Bearbeitung von Daten aus Überwachungen</td><td></td><td>D\*\*\*</td><td></td><td>D\*\*\*</td><td></td><td></td><td>D\*\*\*</td></tr>
+<tr><td>m. Bearbeitung von Daten aus Überwachungen</td><td>[tab]</td><td>[tab] D\*\*\*\*</td><td>[tab]</td><td>[tab] D\*\*\*\*</td><td>[tab]</td><td>[tab]</td><td>[tab] D\*\*\*\*</td></tr>
 <tr><td>n. eingeschränkte materielle Prüfung der Überwachungsanordnung</td><td>D</td><td>D</td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>o. formelle Prüfung der Überwachungsanordnung</td><td>D</td><td></td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>p. Fristenkontrolle</td><td>D</td><td></td><td>G</td><td></td><td></td><td></td><td></td></tr>
@@ -324,6 +352,7 @@ Anhang
 <tr><td>ac. Übermittlung von Daten im Abrufverfahren zum polizeilichen Informationssystem-Verbund und zum Informationssystem des NDB</td><td>(G)</td><td>(G)</td><td>(G)</td><td>(G)</td><td></td><td></td><td>P</td></tr>
 <tr><td>ad. Archivierung von Daten im BAR vor der Vernichtung</td><td>P</td><td>P</td><td>G</td><td>P</td><td></td><td></td><td>P</td></tr>
 <tr><td>ae. Vernichtung von Daten im Verarbeitungssystem</td><td></td><td>D\*\*\*</td><td>(G)</td><td>D\*\*\*</td><td>(G)</td><td></td><td>D\*\*\*</td></tr>
+<tr><td>af. Anzeige Betriebslage der Teile des Verarbeitungssystems, auf welche die Person Zugriff hat</td><td>[tab] M</td><td>[tab] M</td><td>[tab] G</td><td>[tab] D</td><td>[tab] G</td><td>[tab] G</td><td>[tab] M</td></tr>
 </table>
 
 <table>
@@ -331,7 +360,7 @@ Anhang
 <tr><th>Funktion</th><th>2.1 Organisatons-Administrator (OrgAdmin), Superuser</th><th colspan="2">2.2 Anordnende Behörde</th><th>2.3 Sachbearbeiter Auskünfte</th><th>2.4 Sachbearbeiter Überwachungen</th><th>2.5 Übersetzer</th><th>2.6 Schulung</th><th>2.7 Genehmigende Behörde</th><th>2.8 Verfahrens-leitende Gerichts-behörde</th></tr>
 <tr><td>a. Benutzerverwaltung</td><td>D\*</td><td colspan="2">D\*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>b. Systemwartung, ‑reparatur, ‑test und ‑betrieb</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>c. Rechnungswesen</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>c. Rechnungswesen</td><td>[tab] G\*\*</td><td colspan="2">[tab] G\*\*</td><td>[tab] G\*\*</td><td>[tab] G\*\*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab] G\*\*</td></tr>
 <tr><td>d. Geschäftskontrolle</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>e. Aufbereitung, Anonymisierung und Veröffentlichung der statistischen Daten</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>f. Auskunftsgesuch</td><td>D\*</td><td colspan="2">D\*</td><td>D\*</td><td>D\*</td><td></td><td></td><td></td><td></td></tr>
@@ -360,6 +389,7 @@ Anhang
 <tr><td>ac. Übermittlung von Daten im Abrufverfahren zum polizeilichen Informationssystem-Verbund und zum Informationssystem des NDB</td><td>D\*\*</td><td colspan="2"></td><td>D\*\*</td><td>D\*\*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ad. Archivierung von Daten im BAR vor der Vernichtung</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ae. Vernichtung von Daten im Verarbeitungssystem</td><td></td><td colspan="2">Q\*\*</td><td></td><td></td><td></td><td></td><td></td><td>Q\*\*</td></tr>
+<tr><td>af. Anzeige Betriebslage der Teile des Verarbeitungssystems, auf welche die Person Zugriff hat</td><td>[tab] G</td><td colspan="2">[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td></tr>
 </table>
 
 <table>
@@ -395,5 +425,6 @@ Anhang
 <tr><td>ac. Übermittlung von Daten im Abrufverfahren zum polizeilichen Informationssystem-Verbund und zum Informationssystem des NDB</td><td></td><td></td></tr>
 <tr><td>ad. Archivierung von Daten im BAR vor der Vernichtung</td><td></td><td></td></tr>
 <tr><td>ae. Vernichtung von Daten im Verarbeitungssystem</td><td>G\*\*</td><td></td></tr>
-<tr><td colspan="3">Legende: G (get) = Lesen A (add) = Lesen, Erfassen M (mutate) = Lesen, Erfassen, Mutieren D (delete) = Lesen, Erfassen, Mutieren, Löschen P (produce) = Erstellen Q (request) = Gesuch/Anweisung \* = nur innerhalb der gleichen Organisationseinheit \*\* = nur Daten der zugewiesenen Überwachungsfälle beziehungsweise Auskünfte \*\*\* = nur nach Anweisung der anordnenden, der genehmigenden Behörde oder der verfahrensleitenden Gerichtsbehörde beziehungsweise der von ihr bezeichneten Personen ( ) = eingeschränkter Zugriff nur auf Metadaten, beispielsweise welche Art von Daten und welche Datenmenge wann von wo wohin kopiert wurde</td></tr>
+<tr><td>af. Anzeige Betriebslage der Teile des Verarbeitungssystems, auf welche die Person Zugriff hat</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="3">Legende: G (get) = Lesen A (add) = Lesen, Erfassen M (mutate) = Lesen, Erfassen, Mutieren D (delete) = Lesen, Erfassen, Mutieren, Löschen P (produce) = Erstellen Q (request) = Gesuch/Anweisung \* = nur innerhalb der gleichen Organisationseinheit \*\* = nur Daten der zugewiesenen Überwachungsfälle beziehungsweise Auskünfte \*\*\* = nur nach Zustimmung der anordnenden, der genehmigenden Behörde oder der verfahrensleitenden Gerichtsbehörde beziehungsweise der von ihr bezeichneten Personen \*\*\*\* = in der Regel nur nach Zustimmung der anordnenden, der genehmigenden Behörde oder der verfahrensleitenden Gerichtsbehörde beziehungsweise der von ihr bezeichneten Personen; bei Funktionsstörungen, Unmöglichkeit und Unverhältnismässigkeit ohne Zustimmung (vgl. Art. 8 Abs. 5) ( ) = eingeschränkter Zugriff nur auf Metadaten, beispielsweise welche Art von Daten und welche Datenmenge wann von wo wohin kopiert wurde</td></tr>
 </table>

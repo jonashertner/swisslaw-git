@@ -4,11 +4,11 @@ title: Ordinanza del 15 novembre 2017 sul sistema di trattamento per la sorvegli
 short: OST-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-36-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-36-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/it"
 
 (OST-SCPT)
 
-del 15 novembre 2017 (Stato 1° settembre 2023)
+del 15 novembre 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -67,12 +67,15 @@ Il sistema di trattamento contiene i seguenti dati:
 
 Il sistema di trattamento è in grado di trattare i seguenti dati:
 
-- a. i dati relativi a informazioni (cap. 3 sez. 4–6 dell’ordinanza del 15 novembre 2017[^3-1] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, OSCPT);
-- b. i dati delle sorveglianze in tempo reale (cap. 3 sez. 8, 9 e 11 OSCPT);
-- c. i dati delle sorveglianze retroattive (cap. 3 sez. 10 e 11 OSCPT);
+- a.[^3-1] i dati relativi a informazioni (cap. 3 sez. 1 e 4‑6 dell’ordinanza del 15 novembre 2017[^3-2] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni [OSCPT]);
+- b.[^3-3] i dati delle sorveglianze in tempo reale (cap. 3 sez. 1, 8, 9 e 11 OSCPT);
+- c.[^3-4] i dati delle sorveglianze retroattive (cap. 3 sez. 1, 10 e 11 OSCPT);
 - d. i dati per lo svolgimento e il controllo delle pratiche del Servizio SCPT (art. 6).
 
-[^3-1]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^3-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^3-2]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^3-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 4
 
@@ -165,15 +168,34 @@ Su richiesta mediante l’apposito modulo, il Servizio SCPT crea conti utente pe
 
 <sup>2</sup> Le persone interessate secondo l’articolo 279 del Codice di procedura penale[^8-1] o l’articolo 70*j* della procedura penale militare del 23 marzo 1979[^8-2]<sup>,</sup> l’articolo 33 della legge federale del 25 settembre 2015[^8-3] sulle attività informative, gli articoli 35 e 36 LSCPT e la legge federale del 25 settembre 2020[^8-4] sulla protezione dei dati, nonché i relativi rappresentanti legali possono trasmettere una domanda di accesso ai dati delle sorveglianze all’autorità competente secondo l’articolo 10 capoversi 1–3 LSCPT.[^8-5] Per il tramite delle autorità competenti e in virtù delle disposizioni applicabili a tali autorità, dette persone ottengono accesso ai dati di cui hanno bisogno per esercitare il loro diritto di consultare gli atti o di accedere ai dati.
 
-<sup>3</sup> Il Servizio SCPT autorizza singoli collaboratori delle autorità secondo l’articolo 7 capoverso 2 ad assegnare accessi all’interno della propria autorità ea persone autorizzate secondo il capoverso 2, per quanto ciò sia necessario all’adempimento dei loro compiti o all’esercizio dei diritti di terzi.
+<sup>3</sup> Il Servizio SCPT autorizza singoli collaboratori secondo l’articolo 7 capoverso 2 ad assegnare accessi all’interno della loro autorità, ad autorità d’approvazione e a persone autorizzate secondo il capoverso 2, per quanto tale accesso sia necessario all’adempimento dei loro compiti o all’esercizio dei diritti di terzi.[^8-6]
 
-<sup>4</sup> Il Servizio SCPT precisa il capoverso 3 in un regolamento per il trattamento dei dati.
+<sup>4</sup> Previo consenso scritto dell’autorità incaricata del procedimento, il Servizio SCPT può permettere ai suoi collaboratori e ad altri ausiliari di conoscere il contenuto dei dati delle sorveglianze, se ciò è necessario per fornire consulenza all’autorità interessata o alla persona interessata obbligata a collaborare, ai fini del controllo della qualità o per assicurare il funzionamento regolamentare del sistema di trattamento.[^8-7]
+
+<sup>5</sup>
+
+Il consenso non è necessario:
+
+- a.
+
+  per assicurare il funzionamento regolamentare del sistema di trattamento:
+
+  - 1\. in caso di gravi guasti o rischio di gravi guasti, o
+  - 2\. se è impossibile o sproporzionato individuare la sorveglianza interessata o contattare l’autorità competente per detta sorveglianza; oppure
+
+- b. se è sproporzionato contattare tutte le autorità competenti visto il gran numero di sorveglianze interessate.[^8-8]
+
+<sup>6</sup> Il Servizio SCPT adotta adeguati provvedimenti contrattuali, organizzativi e tecnici per impedire l’ulteriore diffusione dei dati.[^8-9]
 
 [^8-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^8-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^8-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^8-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^8-5]: Nuovo testo giusta l’all. 2 n. II 86 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-7]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-8]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-9]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 9
 
@@ -203,13 +225,17 @@ Attraverso misure tecniche e organizzative, il Servizio SCPT garantisce in parti
 
 <sup>3</sup> Emana le necessarie istruzioni per l’attuazione di tali misure all’indirizzo degli utenti del sistema.
 
-<sup>4</sup> Conserva i verbali per tutta la durata di conservazione delle informazioni e dei dati delle sorveglianze.
+<sup>4</sup> Conserva i verbali per tutta la durata di conservazione che si applica ai dati ottenuti dalle sorveglianze e dalle informazioni. I verbali della distruzione dei dati devono essere conservati per altri due anni.[^10-1]
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 11
 
-**Misure per la sicurezza del sistema**
+**Misure per la sicurezza del sistema**[^11-1]
 
-Il Servizio SCPT decide le misure da adottare in caso di guasti o di rischio di guasti nell’esercizio regolare del sistema di trattamento. Prende una decisione dopo aver consultato, se possibile, le autorità che hanno disposto la sorveglianza o le autorità che analizzano i dati.
+Il Servizio SCPT decide le misure da adottare in caso di guasti o rischio di guasti nel funzionamento regolamentare del sistema di trattamento. Se può attribuire il guasto a uno o più procedimenti, consulta previamente, se possibile, l’autorità incaricata del procedimento.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 12
 
@@ -284,11 +310,13 @@ Prima della scadenza del termine di conservazione di cui all’articolo 11 LSCPT
 
 La presente ordinanza entra in vigore il 1° marzo 2018.
 
-Allegato
+Allegato[^t-1]
 
 (art. 7 cpv. 4)
 
 ## Matrice di accesso al sistema di trattamento dei dati del Servizio SCPT
+
+[^t-1]: Aggiornato dal n. II dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 <table>
 <tr><th>Gruppi di persone autorizzati</th><th>1. Servizio SCPT</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
@@ -305,7 +333,7 @@ Allegato
 <tr><td>j. Ordine/fine della sorveglianza</td><td>D\*\*\*</td><td>G</td><td>G</td><td>G</td><td></td><td></td><td>G</td></tr>
 <tr><td>k. Approvazione della sorveglianza</td><td>D\*\*\*</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>l. Proroga della sorveglianza</td><td>D\*\*\*</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>m. Trattamento dei dati delle sorveglianze</td><td></td><td>D\*\*\*</td><td></td><td>D\*\*\*</td><td></td><td></td><td>D\*\*\*</td></tr>
+<tr><td>m. Trattamento dei dati delle sorveglianze</td><td>[tab]</td><td>D\*\*\*\*</td><td></td><td>D\*\*\*\*</td><td></td><td></td><td>D\*\*\*\*</td></tr>
 <tr><td>n. Esame materiale limitato dell’ordine di sorveglianza</td><td>D</td><td>D</td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>o. Esame formale dell’ordine di sorveglianza</td><td>D</td><td></td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>p. Controllo dei termini</td><td>D</td><td></td><td>G</td><td></td><td></td><td></td><td></td></tr>
@@ -324,6 +352,7 @@ Allegato
 <tr><td>ac. Trasmissione di dati, mediante procedura di richiamo, nella rete di sistemi d’informazione di polizia e nel sistema d’informazione del SIC</td><td>(G)</td><td>(G)</td><td>(G)</td><td>(G)</td><td></td><td></td><td>P</td></tr>
 <tr><td>ad. Archiviazione dei dati nell’AFS prima della distruzione</td><td>P</td><td>P</td><td>G</td><td>P</td><td></td><td></td><td>P</td></tr>
 <tr><td>ae. Distruzione dei dati nel sistema di trattamento</td><td></td><td>D\*\*\*</td><td>(G)</td><td>D\*\*\*</td><td>(G)</td><td></td><td>D\*\*\*</td></tr>
+<tr><td>af. Visualizzazione dello stato di funzionamento delle parti del sistema di trattamento cui la persona ha accesso</td><td>[tab] M</td><td>[tab] M</td><td>[tab] G</td><td>[tab] D</td><td>[tab] G</td><td>[tab] G</td><td>[tab] M</td></tr>
 </table>
 
 <table>
@@ -331,7 +360,7 @@ Allegato
 <tr><th>Funzione</th><th>2.1 Amministratore dell’organizzazione (OrgAdmin), superuser</th><th colspan="2">2.2 Autorità che dispone la sorveglianza</th><th>2.3 Responsabile delle informazioni</th><th>2.4 Responsabile delle sorveglianze</th><th>2.5 Traduttore</th><th>2.6 Formazione</th><th>2.7 Autorità d’approvazione</th><th>2.8 Autorità giudiziaria che dirige il procedimento</th></tr>
 <tr><td>a. Amministrazione degli utenti</td><td>D\*</td><td colspan="2">D\*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>b. Manutenzione, riparazione, test e gestione del sistema</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>c. Contabilità</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>c. Contabilità</td><td>[tab] G\*\*</td><td colspan="2">[tab] G\*\*</td><td>[tab] G\*\*</td><td>[tab] G\*\*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab] G\*\*</td></tr>
 <tr><td>d. Controllo delle pratiche</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>e. Preparazione, anonimizzazione e pubblicazione dei dati statistici</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>f. Domande di informazioni</td><td>D\*</td><td colspan="2">D\*</td><td>D\*</td><td>D\*</td><td></td><td></td><td></td><td></td></tr>
@@ -360,6 +389,7 @@ Allegato
 <tr><td>ac. Trasmissione di dati, mediante procedura di richiamo, nella rete di sistemi d’informazione di polizia e nel sistema d’informazione del SIC</td><td>D\*\*</td><td colspan="2"></td><td>D\*\*</td><td>D\*\*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ad. Archiviazione dei dati nell’AFS prima della distruzione</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ae. Distruzione dei dati nel sistema di trattamento</td><td></td><td colspan="2">Q\*\*</td><td></td><td></td><td></td><td></td><td></td><td>Q\*\*</td></tr>
+<tr><td>af. Visualizzazione dello stato di funzionamento delle parti del sistema di trattamento cui la persona ha accesso</td><td>[tab] G</td><td colspan="2">[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td></tr>
 </table>
 
 <table>
@@ -395,5 +425,6 @@ Allegato
 <tr><td>[tab] ac. Trasmissione di dati, mediante procedura di richiamo, nella rete di sistemi d’informazione di polizia e nel sistema d’informazione del SIC</td><td></td><td></td></tr>
 <tr><td>ad. Archiviazione dei dati nell’AFS prima della distruzione</td><td></td><td></td></tr>
 <tr><td>ae. Distruzione dei dati nel sistema di trattamento</td><td>G\*\*</td><td></td></tr>
-<tr><td colspan="3">Legenda: G (get) = consultare A (add) = consultare, registrare M (mutate) = consultare, registrare, modificare D (delete) = consultare, registrare, modificare, cancellare P (produce) = creare Q (request) = domanda/istruzione \* = soltanto all’interno della stessa unità organizzativa \*\* = soltanto dati delle sorveglianze e delle domande d’informazioni assegnate \*\*\* = soltanto su istruzione dell’autorità che dispone o approva la sorveglianza o dell’autorità giudiziaria che dirige il procedimento o delle persone da essa designate ( ) = accesso limitato ai soli metadati (p. es. quale tipo di dati è stato copiato, in che quantità, quando, da dove a dove)</td></tr>
+<tr><td>af. Visualizzazione dello stato di funzionamento delle parti del sistema di trattamento cui la persona ha accesso</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="3">Legenda: G (get) = consultare A (add) = consultare, registrare M (mutate) = consultare, registrare, modificare D (delete) = consultare, registrare, modificare, cancellare P (produce) = creare Q (request) = domanda/istruzione \* = soltanto all’interno della stessa unità organizzativa \*\* = soltanto dati delle sorveglianze e delle domande di informazioni assegnate \*\*\* = soltanto con il consenso dell’autorità che dispone o approva la sorveglianza o dell’autorità giudiziaria che dirige il procedimento o delle persone da essa designate \*\*\*\* = di regola soltanto con il consenso dell’autorità che dispone o approva la sorveglianza o dell’autorità giudiziaria che dirige il procedimento o delle persone da essa designate; senza consenso, in caso di guasti, impossibilità o sproporzionalità (cfr. art. 8 cpv. 5) ( ) = accesso limitato ai soli metadati, p. es. quale tipo di dati è stato copiato, in che quantità, quando, da dove a dove</td></tr>
 </table>

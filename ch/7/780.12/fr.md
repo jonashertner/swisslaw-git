@@ -4,11 +4,11 @@ title: Ordonnance du 15 novembre 2017 sur le système de traitement pour la surv
 short: OST-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-36-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-36-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20230901/fr"
 
 (OST-SCPT)
 
-du 15 novembre 2017 (État le 1<sup>er</sup> septembre 2023)
+du 15 novembre 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -67,12 +67,15 @@ Le système de traitement contient les données suivantes:
 
 Peuvent être traitées dans le système:
 
-- a. des données concernant des renseignements (chap. 3, sections 4 à 6, de l’ordonnance du 15 novembre 2017 sur la surveillance de la correspondance par poste et télécommunication [OSCPT][^3-1]);
-- b. des données de surveillances en temps réel (chap. 3, sections 8, 9 et 11, OSCPT);
-- c. des données de surveillances rétroactives (chap. 3, sections 10 et 11, OSCPT);
+- a.[^3-1] des données concernant des renseignements (chap. 3, sections 1 et 4 à 6, de l’ordonnance du 15 novembre 2017 sur la surveillance de la correspondance par poste et télécommunication [OSCPT][^3-2]);
+- b.[^3-3] des données de surveillances en temps réel (chap. 3, sections 1, 8, 9 et 11 OSCPT);
+- c.[^3-4] des données de surveillances rétroactives (chap. 3, sections 1, 10 et 11 OSCPT);
 - d. des données sur l’exécution et le suivi des affaires du Service SCPT (art. 6).
 
-[^3-1]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^3-2]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 4
 
@@ -165,15 +168,34 @@ Le Service SCPT crée, sur demande transmise au moyen du formulaire à cet effet
 
 <sup>2</sup> Les personnes concernées par l’art. 279 du code de procédure pénale[^8-1], ou l’art. 70*j* de la procédure pénale militaire du 23 mars 1979[^8-2], par l’art. 33 de la loi fédérale du 25 septembre 2015 sur le renseignement[^8-3], par les art. 35 et 36 LSCPT et par la loi fédérale du 25 septembre 2020 sur la protection des données[^8-4], ainsi que leurs conseils juridiques peuvent déposer auprès de l’autorité compétente en vertu de l’art. 10, al. 1 à 3, LSCPT une demande d’accès aux données issues des surveillances.[^8-5] Elles obtiennent via les autorités compétentes et en vertu des dispositions qui s’appliquent à ces autorités un accès aux données dont elles ont besoin pour exercer leur droit de consulter le dossier et leur droit d’accès aux données.
 
-<sup>3</sup> Le Service SCPT autorise certains collaborateurs des autorités mentionnées à l’art. 7, al. 2, à octroyer des accès au sein de leur autorité ainsi qu’à des personnes autorisées selon l’al. 2, pour autant que ces accès soient nécessaires à l’exécution des tâches ou pour permettre à des tiers d’exercer leurs droits.
+<sup>3</sup> Le Service SCPT autorise certains des collaborateurs visés à l’art. 7, al. 2, à octroyer des accès au sein de leur autorité, à des autorités autorisant des mesures ainsi qu’à des personnes autorisées visées à l’al. 2, pour autant que ces accès soient nécessaires à l’exécution des tâches ou pour permettre à des tiers d’exercer leurs droits.[^8-6]
 
-<sup>4</sup> Le Service SCPT concrétise l’al. 3 dans un règlement de traitement.
+<sup>4</sup> Le Service SCPT peut, avec le consentement de l’autorité chargée de la procédure, permettre à ses collaborateurs ou à d’autres auxiliaires de prendre connaissance du contenu des données de surveillances, lorsque cela est nécessaire pour conseiller l’autorité concernée ou la personne obligée de collaborer concernée, à des fins d’assurance de la qualité ou pour assurer le bon fonctionnement du système de traitement.[^8-7]
+
+<sup>5</sup>
+
+Le consentement n’est pas requis:
+
+- a.
+
+  pour assurer le bon fonctionnement du système:
+
+  - 1\. en cas de graves dysfonctionnements ou de risque de graves dysfonctionnements,
+  - 2\. lorsqu’il est impossible ou qu’il serait disproportionné de retrouver la surveillance concernée ou de contacter l’autorité compétente pour cette surveillance, ou
+
+- b. lorsqu’il serait disproportionné de contacter toutes les autorités compétentes en raison du grand nombre de surveillances concernées.[^8-8]
+
+<sup>6</sup> Le Service SCPT prend les mesures contractuelles, organisationnelles et techniques appropriées afin que les données ne soient pas accessibles à des tiers.[^8-9]
 
 [^8-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^8-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^8-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^8-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^8-5]: Nouvelle teneur selon l’annexe 2 ch. II 86 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^8-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-7]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-8]: Introduit par le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
+[^8-9]: Introduit par le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 9
 
@@ -203,13 +225,17 @@ Le Service SCPT s’assure en particulier des points suivants par des mesures te
 
 <sup>3</sup> Il édicte, à l’attention des utilisateurs du système, les instructions nécessaires à la mise en œuvre des mesures.
 
-<sup>4</sup> Il conserve les fichiers de journalisation pendant toute la durée de conservation des renseignements et des données issues des surveillances.
+<sup>4</sup> Il conserve les fichiers de journalisation pendant toute la durée de conservation applicable aux données issues de renseignements ou de surveillances. Les fichiers de journalisation de la destruction des données sont conservés durant deux années supplémentaires.[^10-1]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 11
 
-**Mesures pour la sécurité du système**
+**Mesures pour la sécurité du système**[^11-1]
 
-Le Service SCPT décide des mesures à prendre en cas de dérangement ou de risque de dérangement dans l’exploitation ordinaire du système de traitement. Dans la mesure du possible, il entend préalablement les autorités ayant ordonné la surveillance ou celles chargées d’analyser les données recueillies.
+Le Service SCPT décide des mesures à prendre en cas de dérangement ou de risque de dérangement du bon fonctionnement du système de traitement. S’il peut attribuer le dérangement à une ou plusieurs procédures, il entend préalablement, lorsque cela est possible, les autorités compétentes pour ces procédures.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 #### Art. 12
 
@@ -284,11 +310,13 @@ La dernière autorité à avoir été en charge de la procédure communique au S
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2018.
 
-Annexe
+Annexe[^t-1]
 
 (art. 7, al. 4)
 
 ## Tableau synoptique des accès au système de traitement du Service SCPT
+
+[^t-1]: Mise à jour par le ch. II de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 687](https://fedlex.data.admin.ch/eli/oc/2023/687)).
 
 <table>
 <tr><th>Groupes de personnes autorisées</th><th>1. Service SCPT</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
@@ -305,7 +333,7 @@ Annexe
 <tr><td>j. Ordre/fin de la surveillance</td><td>D\*\*\*</td><td>G</td><td>G</td><td>G</td><td></td><td></td><td>G</td></tr>
 <tr><td>k. Autorisation de la surveillance</td><td>D\*\*\*</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>l. Prolongation de la surveillance</td><td>D\*\*\*</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>m. Traitement des données issues de surveillances</td><td></td><td>D\*\*\*</td><td></td><td>D\*\*\*</td><td></td><td></td><td>D\*\*\*</td></tr>
+<tr><td>m. Traitement des données issues de surveillances</td><td>[tab]</td><td>[tab] D\*\*\*\*</td><td>[tab]</td><td>[tab] D\*\*\*\*</td><td>[tab]</td><td>[tab]</td><td>[tab] D\*\*\*\*</td></tr>
 <tr><td>n. Examen matériel limité de l’ordre de surveillance</td><td>D</td><td>D</td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>o. Examen formel de l’ordre de surveillance</td><td>D</td><td></td><td>G</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>p. Contrôle des délais</td><td>D</td><td></td><td>G</td><td></td><td></td><td></td><td></td></tr>
@@ -324,6 +352,7 @@ Annexe
 <tr><td>ac. Transmission de données dans une procédure d’appel vers les systèmes d’information de police de la Confédération et vers les systèmes d’information du SRC</td><td>(G)</td><td>(G)</td><td>(G)</td><td>(G)</td><td></td><td></td><td>P</td></tr>
 <tr><td>ad. Archivage des données aux Archives fédérales avant leur destruction</td><td>P</td><td>P</td><td>G</td><td>P</td><td></td><td></td><td>P</td></tr>
 <tr><td>ae. Destruction des données dans le système de traitement</td><td></td><td>D\*\*\*</td><td>(G)</td><td>D\*\*\*</td><td>(G)</td><td></td><td>D\*\*\*</td></tr>
+<tr><td>af. Affichage du statut des parties du système de traitement auxquelles la personne a accès</td><td>[tab] M</td><td>[tab] M</td><td>[tab] G</td><td>[tab] D</td><td>[tab] G</td><td>[tab] G</td><td>[tab] M</td></tr>
 </table>
 
 <table>
@@ -331,7 +360,7 @@ Annexe
 <tr><th>Fonction</th><th>2.1 Administrateur de l’organisation (OrgAdmin), superutilisateur</th><th colspan="2">2.2 Autorités qui ordonnent la surveillance</th><th>2.3 Personne chargée du dossier pour les renseignements</th><th>2.4 Personne chargée du dossier pour les surveillances</th><th>2.5 Traducteur</th><th>2.6 Formation</th><th>2.7 Autorités qui donnent l’autorisation</th><th>2.8 Autorité judiciaire qui dirige la procédure</th></tr>
 <tr><td>a. Gestion des utilisateurs</td><td>D\*</td><td colspan="2">D\*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>b. Maintenance, réparation, test et exploitation du système</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>c. Facturation</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>c. Facturation</td><td>[tab] G\*\*</td><td colspan="2">[tab] G\*\*</td><td>[tab] G\*\*</td><td>[tab] G\*\*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab] G\*\*</td></tr>
 <tr><td>d. Contrôle des opérations</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>e. Préparation, anonymisation et publication des données statistiques</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>f. Demandes de renseignements</td><td>D\*</td><td colspan="2">D\*</td><td>D\*</td><td>D\*</td><td></td><td></td><td></td><td></td></tr>
@@ -360,6 +389,7 @@ Annexe
 <tr><td>ac. Transmission de données dans une procédure d’appel vers les systèmes d’information de police de la Confédération et vers les systèmes d’information du SRC</td><td>D\*\*</td><td colspan="2"></td><td>D\*\*</td><td>D\*\*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ad. Archivage des données aux Archives fédérales avant leur destruction</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ae. Destruction des données dans le système de traitement</td><td></td><td colspan="2">Q\*\*</td><td></td><td></td><td></td><td></td><td></td><td>Q\*\*</td></tr>
+<tr><td>af. Affichage du statut des parties du système de traitement auxquelles la personne a accès</td><td>[tab] G</td><td colspan="2">[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td><td>[tab] G</td></tr>
 </table>
 
 <table>
@@ -395,5 +425,6 @@ Annexe
 <tr><td>ac. Transmission de données dans une procédure d’appel en ligne vers les systèmes d’information de police de la Confédération et vers les systèmes d’information du SRC</td><td></td><td colspan="2"></td></tr>
 <tr><td>ad. Archivage des données aux Archives fédérales avant leur destruction</td><td></td><td colspan="2"></td></tr>
 <tr><td>ae. Destruction des données dans le système de traitement</td><td>G\*\*</td><td colspan="2"></td></tr>
-<tr><td colspan="4">Légende: G (*get*) = lecture A (*add*) = lecture, saisie M (*mutate*) = lecture, saisie, mutation D (*delete*) = lecture, saisie, mutation, effacement P (*produce*) = production Q (*request*) = demande/instruction \* = uniquement au sein de la même unité organisationnelle \*\* = uniquement des données des affaires de surveillance ou des demandes de renseignements attribuées \*\*\* = seulement après instruction de l’autorité qui a ordonné la mesure, de celle qui l’autorisée, ou de l’autorité judiciaire qui dirige la procédure ou de la personne désignée par elle ( ) = accès limité uniquement aux métadonnées, par ex. quel type et quelle quantité de données ont été copiées, à quel moment, d’où et vers où</td></tr>
+<tr><td>af. Affichage du statut des parties du système de traitement auxquelles la personne a accès</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="4">Légende: G (get) = lecture A (add) = lecture, saisie M (mutate) = lecture, saisie, mutation D (delete) = lecture, saisie, mutation, effacement P (produce) = production Q (request) = demande/instruction \* = uniquement au sein de la même unité organisationnelle \*\* = uniquement des données des affaires de surveillance ou des demandes de renseignements attribuées \*\*\* = seulement après consentement de l’autorité qui a ordonné la mesure, de celle qui l’a autorisée, ou de l’autorité judiciaire qui dirige la procédure ou de la personne désignée par elle \*\*\*\* = en règle générale seulement après consentement de l’autorité qui a ordonné la mesure, de celle qui l’a autorisée, ou de l’autorité judiciaire qui dirige la procé-dure ou de la personne désignée par elle; en cas de dysfonctionnement, lorsque c’est impossible ou disproportionné, sans consentement (cf. art. 8, al. 5) ( ) = accès limité uniquement aux métadonnées, par ex. quel type et quelle quantité de données ont été copiées, à quel moment, d’où et vers où</td></tr>
 </table>
