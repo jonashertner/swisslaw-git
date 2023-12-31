@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20231015-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 15. Oktober 2023)
+vom 15. August 2018 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -253,8 +253,8 @@ In Abweichung von Absatz 3 gelten bei Aufenthalten mit Erwerbstätigkeit folgend
 
 <sup>5</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) passt Anhang 3 an, sobald die Schweiz über den Abschluss eines Abkommens zwischen der EU und einem der in Anhang II der Verordnung (EU) 2018/1806 genannten Staaten oder einer der dort genannten Gebietskörperschaften zur Aufhebung der Visumpflicht informiert worden ist.[^8-13]
 
-[^8-1]: Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates vom 14. November 2018 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind, ABl. L 303 vom 28.11.2018, S. 39; zuletzt geändert durch die Verordnung (EU) 2019/592, ABl. L 103l vom 12.4.2019, S. 1.
-[^8-2]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-1]: Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates vom 14. November 2018 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind, Fassung gemäss ABl. L 303 vom 28.11.2018, S. 1, zuletzt geändert durch Verordnung (EU) 2023/850, ABl. L 110 vom 25.4.2023, S. 1.
+[^8-2]: Fassung gemäss Ziff. I der V vom 17. Mai 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 [^8-3]: Siehe Fussnote zu Art. 3 Abs. 1.
 [^8-4]: Beschluss 94/795/JI des Rates vom 30. November 1994 über die vom Rat aufgrund von Artikel K.3 Absatz 2 Buchstabe b) des Vertrages über die Europäische Union beschlossene gemeinsame Massnahme über Reiseerleichterungen für Schüler von Drittstaaten mit Wohnsitz in einem Mitgliedstaat, Fassung gemäss ABl. L 327 vom 19.12.1994, S. 1.
 [^8-5]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
@@ -1250,9 +1250,9 @@ Anhang 2[^t-1]
 
 (Art. 8 Abs. 4 Bst. a)
 
-## Staaten und Gebietskörperschaften, deren Angehörige ab dem ersten Tag der Erwerbstätigkeit der Visumpflicht für kurzfristige Aufenthalte unterstehen
+## Staaten, deren Staatsangehörige ab dem ersten Tag der Erwerbstätigkeit der Visumpflicht unterliegen
 
-[^t-1]: Bereinigt durch Berichtigung vom 4. Dez. 2018 ([AS 2018 4559](https://fedlex.data.admin.ch/eli/oc/2018/711)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 17. Mai 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 
 Albanien
 
@@ -1260,11 +1260,13 @@ Bosnien und Herzegowina
 
 Georgien
 
-Nordmazedonien
+Kosovo
 
 Moldau
 
 Montenegro
+
+Nordmazedonien
 
 Serbien
 

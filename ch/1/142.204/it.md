@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20231015-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 15 ottobre 2023)
+del 15 agosto 2018 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -253,8 +253,8 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 
 <sup>5</sup> Il Dipartimento federale di giustizia e polizia (DFGP) adegua l’allegato 3 non appena la Svizzera è informata in merito alla conclusione di un accordo in materia di esenzione dall’obbligo del visto tra l’UE e uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806.[^8-13]
 
-[^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo da il regolamento (UE) 2019/592, GU L 103l del 12.4.2019, pag. 1.
-[^8-2]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo dal regolamento (UE) 2023/850, GU L 110 del 25.4.2023, pag. 1.
+[^8-2]: Nuovo testo giusta il n. I dell’O del 17 mag. 2023, in vigore dal 1° gen. 2024 ([RU 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 [^8-3]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 [^8-4]: Decisione del Consiglio, del 30 nov. 1994, relativa a un’azione comune adottata dal Consiglio sulla base dell’art. K.3, par. 2, lett. b) del trattato sull’Unione europea in materia di agevolazioni per i viaggi compiuti da scolari di paesi terzi residenti in uno Stato membro (94/795/GAI), versione della GU L 327 del 19.12.1994, pag. 1.
 [^8-5]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
@@ -1251,13 +1251,15 @@ Allegato 2[^t-1]
 
 ## Stati e collettività territoriali i cui cittadini sono soggetti all’obbligo del visto per un soggiorno di breve durata sin dal primo giorno di esercizio dell’attività
 
-[^t-1]: Aggiornato dalla correzione del 4 dic. 2018 ([RU 2018 4559](https://fedlex.data.admin.ch/eli/oc/2018/711)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 17 mag. 2023, in vigore dal 1° gen. 2024 ([RU 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 
 Albania
 
-Bosnia ed Erzegovina
+Bosnia e Erzegovina
 
 Georgia
+
+Kosovo
 
 Macedonia del Nord
 

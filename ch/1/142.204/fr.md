@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20231015-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 15 octobre 2023)
+du 15 août 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -240,7 +240,7 @@ Sont libérées de l’obligation de visa de court séjour, en dérogation à l�
 - g.[^8-8] les titulaires d’un titre de voyage pour apatrides valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni, pour autant qu’ils séjournent dans cet État, conformément à la Convention du 28 septembre 1954 relative au statut des apatrides[^8-9];
 - h.[^8-10] les membres de forces armées qui voyagent dans le cadre de l’Organisation du Traité de l’Atlantique Nord (OTAN) ou du Partenariat pour la paix et qui sont titulaires de documents d’identité et d’ordres d’engagement prévus par le Statut des forces de l’OTAN du 19 juin 1951[^8-11].
 
-<sup>3</sup> Les ressortissants des États et des autres entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806 ne sont pas soumis à l’obligation de visa de court séjour. Les actes d’exécution et actes délégués de la Commission visant à suspendre temporairement l’obligation de visas de court séjour fondés sur le règlement (UE) 2010/1806 sont réservés. Ils sont mentionnés à l’annexe 5.[^8-12]
+<sup>3</sup> Les ressortissants des États et des autres entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806 ne sont pas soumis à l’obligation de visa de court séjour. Les actes d’exécution et actes délégués de la Commission visant à suspendre temporairement l’exemption de l’obligation de visa de court séjour fondés sur le règlement (UE) 2018/1806 sont réservés. Ils sont mentionnés à l’annexe 5.[^8-12]
 
 <sup>4</sup>
 
@@ -252,8 +252,8 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 
 <sup>5</sup> Le Département fédéral de justice et police (DFJP) adapte l’annexe 3 dès que la Suisse est informée de la conclusion d’un accord sur la levée de l’obligation de visa entre l’UE et l’un des États ou l’une des entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806.[^8-13]
 
-[^8-1]: Règlement (UE) 2018/1806 du Parlement européen et du Conseil du 14 novembre 2018 fixant la liste des pays tiers dont les ressortissants sont soumis à l’obligation de visa pour franchir les frontières extérieures des États membres et la liste de ceux dont les ressortissants sont exemptés de cette obligation, JO L 303 du 28.11.2018, p. 39; modifié en dernier lieu par le règlement (UE) 2019/592, JO L 1031 du 12.4.2019, p 1.
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-1]: Règlement (UE) 2018/1806 du Parlement européen et du Conseil du 14 novembre 2018 fixant la liste des pays tiers dont les ressortissants sont soumis à l’obligation de visa pour franchir les frontières extérieures des États membres et la liste de ceux dont les ressortissants sont exemptés de cette obligation, JO L 303 du 28.11.2018, p. 39; modifié en dernier lieu par le règlement (UE) 2023/850, JO L 110 du 25.4.2023, p 1.
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 17 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 [^8-3]: Cf. note de bas de page relative à l’art. 3, al. 1.
 [^8-4]: Décision du Conseil du 30 novembre 1994 relative à une action commune adoptée par le Conseil sur la base de l’article K.3 paragraphe 2 point b) du traité sur l’Union européenne en ce qui concerne les facilités de déplacement des écoliers ressortissants de pays tiers résidant dans un État membre (94/795/JAI), version du JO L 327 du 19.12.1994, p. 1.
 [^8-5]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
@@ -263,7 +263,7 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 [^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 [^8-10]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428)**,** annexe
-[^8-12]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 h 00 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+[^8-12]: Nouvelle teneur selon le ch. I de l’O du 17 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 [^8-13]: Nouvelle teneur selon le ch. I de l’O du 16 janv. 2019, en vigueur depuis le 15 fév. 2019 ([RO 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
@@ -1248,15 +1248,17 @@ Annexe 2[^t-1]
 
 (art. 8, al. 4, let. a)
 
-## États et collectivités territoriales dont les ressortissants sont soumis à l’obligation de visa pour un court séjour dès le premier jour où ils exercent une activité lucrative
+## États dont les ressortissants sont soumis à l’obligation de visa dès le premier jour où ils exercent une activité lucrative
 
-[^t-1]: Mise à jour par l’erratum du 4 déc. 2018 ([RO 2018 4559](https://fedlex.data.admin.ch/eli/oc/2018/711)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 17 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 
 Albanie
 
 Bosnie et Herzégovine
 
 Géorgie
+
+Kosovo
 
 Macédoine du Nord
 
