@@ -3,20 +3,19 @@ canton: GR
 number: "710.200"
 title: Ordinanza sulla gestione finanziaria per i comuni
 language: it
-version: 2012-12-01
-corrected: 2014-11-29
-version_adopted: 2012-09-25
+version: 2024-01-01
+version_adopted: 2023-09-05
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2359/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3801/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza sulla gestione finanziaria per i comuni
 
-del 25.09.2012 (stato 01.12.2012)
+del 25.09.2012 (stato 01.01.2024)
 
 emanata dal Governo il 25 settembre 2012
 
@@ -40,7 +39,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 2
 
-**Competenza per le uscite**
+**Competenza per le uscite e gli investimenti**
 
 <sup>1</sup> La competenza per la decisione in merito a uscite liberamente determinabili si conforma alla legislazione determinante del comune. In caso di uscite ricorrenti, la competenza è determinata dall'ammontare della prima uscita.
 
@@ -116,10 +115,12 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> Il comune è esentato dalla richiesta di un credito aggiuntivo o suppletivo se l'adempimento di un compito risulta indispensabile e urgente.
 
-<sup>3</sup> Se rispetto a un credito d'impegno approvato risultano uscite supplementari per le quali è necessario richiedere crediti e se il comune non dispone di una regolamentazione ai sensi del capoverso 1, la competenza si conforma:
+<sup>2<sup>bis</sup></sup> È possibile rinunciare alla richiesta di un credito suppletivo se l'importo del superamento del credito di preventivo è coperto dal credito d'impegno.
 
-- a) per uscite supplementari liberamente determinabili, al nuovo credito complessivo;
-- b) per uscite supplementari vincolate, all'ammontare del credito aggiuntivo.
+<sup>3</sup> Se rispetto a un credito d'impegno approvato risultano uscite supplementari per le quali è necessario richiedere crediti e se il comune non dispone di una regolamentazione ai sensi del capoverso 1, la competenza si conforma al nuovo credito complessivo.
+
+- a) …
+- b) …
 
 ## 4. Presentazione dei conti
 
@@ -162,6 +163,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - c) comuni da 5000 a 10 000 abitanti: fr. 75 000;
 - d) comuni di oltre 10 000 abitanti: fr. 100 000.
 
+<sup>1<sup>bis</sup></sup> Per i valori patrimoniali aventi una durata di utilizzo pluriennale, la manutenzione edilizia e d'esercizio che garantisce l'utilizzo nel quadro della durata di utilizzo e dell'entità dell'utilizzo deve essere addebitata al conto economico.
+
 <sup>2</sup> Mutui e partecipazioni dei beni amministrativi, così come le loro modifiche devono essere registrati nel conto degli investimenti indipendentemente dal loro importo.
 
 <sup>3</sup> Il conto degli investimenti va articolato secondo le direttive in appendice alla presente ordinanza.
@@ -170,11 +173,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Conto dei flussi monetari**
 
-<sup>1</sup> Il conto dei flussi monetari informa sull'origine e sull'impiego dei mezzi finanziari.
+<sup>1</sup> Il conto dei flussi monetari informa sull'origine e sull'impiego della liquidità e degli investimenti di denaro a breve termine.
 
-<sup>2</sup> Il conto dei flussi monetari presenta in modo scalare il flusso monetario dall'attività d'esercizio (conto economico), il flusso monetario dall'attività d'investimento (conto degli investimenti) e il flusso monetario dall'attività di finanziamento.
+<sup>2</sup> Il conto dei flussi monetari è articolato in tre parti. La prima parte rappresenta il flusso monetario dall'attività operativa, la seconda parte rappresenta il flusso monetario da attività di investimento e da attività di immobilizzazione e la terza parte rappresenta il flusso monetario da attività di finanziamento.
 
-<sup>3</sup> Il fondo "disponibilità liquide" comprende i crediti di cassa, postali e bancari, nonché mezzi prossimi alle liquidità. I mezzi prossimi alle liquidità sono investimenti finanziari che possono essere realizzati entro tre mesi, senza dover prendere in considerazione importanti oscillazioni di valore.
+<sup>3</sup> …
 
 #### Art. 14
 
@@ -233,7 +236,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - a) il comune può modificare la base giuridica, oppure
 - b) se la base giuridica si fonda su un diritto superiore che lascia però al comune un considerevole margine di manovra.
 
-<sup>2</sup> Gli anticipi e gli impegni dei finanziamenti speciali vanno assoggettati a interessi calcolatori. Il tasso d'interesse viene fissato annualmente dal Dipartimento delle finanze e dei comuni.
+<sup>2</sup> A impegni e anticipi dei finanziamenti speciali deve essere applicato un tasso d'interesse conforme al mercato. Fanno eccezione gli impegni a favore di finanziamenti speciali che vengono finanziati con mezzi finanziari generali. Il tasso d'interesse viene fissato annualmente dal Dipartimento delle finanze e dei comuni. Esso si orienta al mercato finanziario.
 
 <sup>3</sup> L'esecutivo scioglie i finanziamenti speciali il cui scopo di utilizzo è venuto meno o non può più essere perseguito in modo adeguato.
 
@@ -241,7 +244,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Prefinanziamenti**
 
-<sup>1</sup> La costituzione di prefinanziamenti per progetti d'investimento necessita di una decisione dell'autorità competente.
+<sup>1</sup> La costituzione di prefinanziamenti (riserve) per progetti d'investimento necessita di una decisione dell'autorità competente.
 
 <sup>2</sup> I prefinanziamenti possono essere costituiti soltanto se gli ammortamenti prescritti secondo la durata di utilizzo sono coperti, se un eventuale disavanzo di bilancio è stato estinto e se essi non portano a un'eccedenza di spesa nel conto economico.
 
@@ -251,7 +254,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>5</sup> Se i mezzi vanno impiegati per la costituzione di un altro prefinanziamento, valgono le regole per la nuova costituzione di prefinanziamenti. Non è ammessa la modifica della destinazione d'uso nel bilancio in sostituzione di uno scioglimento e di una nuova costituzione del prefinanziamento.
 
-<sup>6</sup> I prefinanziamenti accumulati da mezzi fiscali generali non vanno assoggettati a interessi.
+<sup>6</sup> I prefinanziamenti accumulati da mezzi finanziari generali non vanno assoggettati a interessi.
 
 #### Art. 19
 
@@ -283,11 +286,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Rettifiche del valore**
 
-<sup>1</sup> Se per una voce dei beni amministrativi si prevede una perdita di valore duratura e che supera l'utilizzo ordinario, il suo valore contabile viene rettificato.
+<sup>1</sup> Se per una posizione dei beni patrimoniali o amministrativi è prevedibile una riduzione permanente del valore, il valore a bilancio viene rettificato.
 
-<sup>2</sup> Una riduzione del valore è permanente se con ogni probabilità si può prevedere che il valore a bilancio non potrà più essere raggiunto in tempi prevedibili, oppure se a seguito di distruzione, invecchiamento o circostanze simili la posizione ha perso del tutto o in parte il valore o questo non può più essere sfruttato nella misura precedente.
+<sup>2</sup> Una riduzione del valore è permanente se con ogni probabilità si deve supporre che il valore a bilancio non potrà più essere raggiunto in tempi prevedibili, oppure se a seguito di distruzione, invecchiamento o circostanze simili la posizione ha perso del tutto o in parte il valore o la posizione non può più essere sfruttata nella misura precedente.
 
-<sup>3</sup> Se per i crediti vi è un rischio di perdita, va costituito un delcredere. Le posizioni importanti nei crediti vengono valutate singolarmente. Il valore delle posizioni rimanenti può essere rettificato in modo forfetario. L'aliquota forfetaria di rettifica del valore ammonta al massimo al 5 per cento.
+<sup>3</sup> Se per i crediti vi è un rischio di perdita, va costituito un delcredere. Le posizioni rilevanti nei crediti vengono valutate singolarmente. Il valore delle posizioni rimanenti può essere rettificato in modo forfetario. L'aliquota forfetaria di rettifica del valore di norma ammonta al massimo al cinque per cento.
 
 #### Art. 22
 
@@ -375,8 +378,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - a) impegni e anticipi a favore di finanziamenti speciali;
 - b) fondi;
 - c) prefinanziamenti;
-- d) riserva di rivalutazione dal passaggio al MCA2;
-- e) riserva di nuova valutazione dei beni patrimoniali;
+- d) …
+- e) …
 - f) altro capitale proprio;
 - g) eccedenza di bilancio / disavanzo di bilancio.
 
@@ -432,25 +435,21 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - f) quota del debito lordo;
 - g) quota degli investimenti.
 
-<sup>2</sup> Per il calcolo di questi indicatori finanziari valgono le seguenti definizioni:
+<sup>2</sup> Per il calcolo di questi indicatori finanziari valgono le definizioni per i comuni armonizzate a livello nazionale.
 
-- a) Grado di autofinanziamento: il grado di autofinanziamento è l'autofinanziamento espresso in per cento dell'investimento netto.
-- b) Quota degli interessi: la quota degli interessi è la differenza tra oneri per interessi e proventi per interessi espressa in per cento del ricavo corrente (ricavo d'esercizio senza contributi da riversare, ricavi finanziari, prelevamenti da fondi e finanziamenti speciali, ricavi straordinari e compensazioni interne).
-- c) Debito netto in franchi per abitante: il debito netto è il capitale di terzi dedotti i beni patrimoniali, diviso per il numero di abitanti secondo STATPOP.
-- d) Quota di autofinanziamento: la quota di autofinanziamento è l'autofinanziamento espresso in per cento del ricavo corrente (ricavo d'esercizio senza contributi da riversare, ricavi finanziari, prelevamenti da fondi e finanziamenti speciali, ricavi straordinari e compensazioni interne).
-- e) Quota degli oneri finanziari: la quota degli oneri finanziari è costituita dagli oneri per interessi netti e dagli ammortamenti ordinari espressi in per cento del ricavo corrente (ricavo d'esercizio senza contributi da riversare, ricavi finanziari, prelevamenti da fondi e finanziamenti speciali, ricavi straordinari e compensazioni interne).
-- f) Quota del debito lordo: la quota del debito lordo corrisponde ai debiti lordi espressi in per cento del ricavo corrente (ricavo d'esercizio senza contributi da riversare, ricavi finanziari, prelevamenti da fondi e finanziamenti speciali, ricavi straordinari e compensazioni interne).
-- g) Quota degli investimenti: la quota degli investimenti corrisponde agli investimenti lordi (senza investimenti straordinari e contributi da riversare) espressi in per cento della spesa totale consolidata (spesa corrente senza ammortamenti sui beni amministrativi, senza contributi da riversare, senza versamenti in fondi e finanziamenti speciali, senza spese straordinarie, senza compensazioni interne; con l'aggiunta degli investimenti lordi, senza investimenti straordinari e senza contributi da riversare).
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
 
 ## 7. Disposizioni finali
 
 #### Art. 31
 
-**Nuova valutazione dei beni patrimoniali**
-
-<sup>1</sup> Al momento del passaggio al MCA2, i beni patrimoniali vanno sottoposti a nuova valutazione conformemente all'articolo 20.
-
-<sup>2</sup> Nel bilancio di apertura, l'utile o la perdita risultanti dalla nuova valutazione vanno attribuiti alla "riserva di nuova valutazione dei beni patrimoniali". Alla fine del primo anno d'esercizio, il saldo della riserva di nuova valutazione viene trasferito sul conto "altro capitale proprio" e quindi sciolto.
+**…**
 
 #### Art. 32
 
@@ -460,20 +459,139 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> Investimenti importanti attuati nei 5 anni precedenti l'introduzione del MCA2 o quelli la cui durata di utilizzo residua supera considerevolmente la fase transitoria di 12 anni possono essere trattati a parte. In questo caso vanno sottoposti a nuova valutazione e ammortizzati in modo lineare sull'arco della durata di utilizzo residua conformemente alla categoria di investimento. Se i beni amministrativi vengono trattati a parte, ciò va indicato nell'allegato.
 
-<sup>3</sup> Nel bilancio di apertura, l'utile risultante dalla nuova valutazione va attribuito alla "riserva di rivalutazione dal passaggio al MCA2" e al termine del primo anno il saldo va trasferito sul conto "altro capitale proprio".
+<sup>3</sup> …
 
 #### Art. 33
 
-**Nuova valutazione di accantonamenti e delimitazioni contabili**
+**…**
 
-<sup>1</sup> Gli accantonamenti e le delimitazioni contabili vanno sottoposti a nuova valutazione al momento del passaggio al MCA2.
+#### Art. 33a
 
-<sup>2</sup> Nel bilancio di apertura, l'utile o la perdita risultanti dalla nuova valutazione vanno attribuiti alla "riserva di rivalutazione dal passaggio al MCA2" e al termine del primo anno il saldo va trasferito sul conto "altro capitale proprio".
+**…**
 
 #### Art. 34
 
 **Entrata in vigore**
 
 <sup>1</sup> La presente ordinanza entra in vigore il 1° dicembre 2012.
+
+## A1 Allegato 1: Art. 10, 11 e 12
+
+#### Art. A1-1
+
+**Articolazione del bilancio (art. 10 cpv. 2)**
+
+<sup>1</sup> Beni patrimoniali: I beni patrimoniali vengono suddivisi come segue:
+
+- a) liquidità e investimenti di denaro a breve termine (100)
+- b) crediti (101)
+- c) investimenti finanziari a breve termine (102)
+- d) delimitazioni contabili attive (104)
+- e) scorte e lavori in corso (106)
+- f) investimenti finanziari a lungo termine (107)
+- g) investimenti materiali, inclusi immobili da acquisto preventivo (108)
+- h) crediti verso finanziamenti speciali e fondi nel capitale di terzi (109)
+
+<sup>2</sup> Beni amministrativi: I beni amministrativi vengono suddivisi come segue:
+
+- a) investimenti materiali (140)
+- b) investimenti immateriali (142)
+- c) mutui (144)
+- d) partecipazioni (145)
+- e) contributi per investimenti (146)
+- f) ammortamenti supplementari cumulati (148)
+
+<sup>3</sup> Il patrimonio di congodimento viene inserito a bilancio nei beni amministrativi. Se non viene inserito a bilancio, va indicato nell'allegato al conto annuale.
+
+<sup>4</sup> Capitale di terzi: Il capitale di terzi viene suddiviso come segue:
+
+- a) impegni correnti (200)
+- b) impegni finanziari a breve termine (201)
+- c) delimitazioni contabili passive (204)
+- d) accantonamenti a breve termine (205)
+- e) impegni finanziari a lungo termine (206)
+- f) accantonamenti a lungo termine (208)
+- g) impegni verso finanziamenti speciali e fondi nel capitale di terzi (209)
+
+<sup>5</sup> Capitale proprio: Il capitale proprio viene suddiviso come segue:
+
+- a) impegni e anticipi a favore di finanziamenti speciali (290)
+- b) fondi (291)
+- c) prefinanziamenti (293)
+- d) altro capitale proprio (298)
+- e) eccedenza di bilancio / disavanzo di bilancio (299)
+
+#### Art. A1-2
+
+**Articolazione funzionale del conto economico e del conto degli investimenti (art. 11 cpv. 1 e art. 12 cpv. 3)**
+
+<sup>1</sup> Il conto economico e il conto degli investimenti sono articolati secondo le seguenti funzioni:
+
+- a) amministrazione generale (0)
+- b) ordine pubblico e sicurezza, difesa (1)
+- c) formazione (2)
+- d) cultura, sport e tempo libero, chiesa (3)
+- e) sanità (4)
+- f) sicurezza sociale (5)
+- g) trasporti e comunicazione (6)
+- h) protezione dell'ambiente e pianificazione territoriale (7)
+- i) economia pubblica (8)
+- j) finanze e imposte (9)
+
+#### Art. A1-3
+
+**Articolazione per tipi del conto economico (art. 11 cpv. 1)**
+
+<sup>1</sup> Il conto economico va suddiviso secondo i seguenti tipi:
+
+- a) Spese:
+  - 1\. spese per il personale (30)
+  - 2\. spese per beni e servizi e altre spese d'esercizio (31)
+  - 3\. ammortamenti dei beni amministrativi (33)
+  - 4\. spese finanziarie (34)
+  - 5\. versamenti in fondi e finanziamenti speciali (35)
+  - 6\. spese di riversamento (36)
+  - 7\. contributi da riversare (37)
+  - 8\. spese straordinarie (38)
+  - 9\. compensazioni interne (39)
+- b) Ricavi:
+  - 1\. gettito fiscale (40)
+  - 2\. regalie e concessioni (41)
+  - 3\. ricavi e tasse (42)
+  - 4\. ricavi diversi (43)
+  - 5\. ricavi finanziari (44)
+  - 6\. prelevamenti da fondi e finanziamenti speciali (45)
+  - 7\. ricavi da riversamenti (46)
+  - 8\. contributi da riversare (47)
+  - 9\. ricavi straordinari (48)
+  - 10\. compensazioni interne (49)
+
+#### Art. A1-4
+
+**Articolazione per tipi del conto degli investimenti (art. 12 cpv. 3)**
+
+<sup>1</sup> Il conto degli investimenti va suddiviso secondo i seguenti tipi:
+
+- a) Uscite:
+  - 1\. investimenti materiali (50)
+  - 2\. investimenti per conto di terzi (51)
+  - 3\. investimenti immateriali (52)
+  - 4\. mutui (54)
+  - 5\. partecipazioni (55)
+  - 6\. contributi propri per investimenti (56)
+  - 7\. contributi per investimenti da riversare (57)
+  - 8\. investimenti straordinari (58)
+  - 9\. riporto a bilancio / iscrizione al passivo (59)
+- b) Entrate:
+  - 1\. trasferimento di investimenti materiali nei beni patrimoniali (60)
+  - 2\. rimborsi (61)
+  - 3\. alienazione di investimenti immateriali (62)
+  - 4\. contributi per investimenti per conto proprio (63)
+  - 5\. restituzione di mutui (64)
+  - 6\. trasferimento di partecipazioni (65)
+  - 7\. restituzione di contributi propri per investimenti (66)
+  - 8\. contributi per investimenti da riversare (67)
+  - 9\. entrate straordinarie per investimenti (68)
+  - 10\. riporto a bilancio / iscrizione all'attivo (69)
 
 -

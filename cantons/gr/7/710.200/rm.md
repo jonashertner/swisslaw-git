@@ -3,20 +3,19 @@ canton: GR
 number: "710.200"
 title: Ordinaziun da finanzas per las vischnancas
 language: rm
-version: 2012-12-01
-corrected: 2014-11-29
-version_adopted: 2012-09-25
+version: 2024-01-01
+version_adopted: 2023-09-05
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2359/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3801/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun da finanzas per las vischnancas
 
-dals 25-09-2012 (versiun dals 01-12-2012)
+dals 25-09-2012 (versiun dals 01-01-2024)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -40,7 +39,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 #### Art. 2
 
-**Cumpetenza per expensas**
+**Cumpetenza per expensas e per investiziuns**
 
 <sup>1</sup> La cumpetenza da decider davart expensas libramain fixablas sa drizza tenor la legislaziun mintgamai decisiva da la vischnanca. En cas d'expensas periodicas è l'import da l'emprima expensa decisiv per la cumpetenza.
 
@@ -116,10 +115,12 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>2</sup> La vischnanca è liberada da dumandar in credit supplementar u in credit posteriur, sch'i sa demussa ch'igl è inevitabel u urgent d'ademplir ina incumbensa.
 
-<sup>3</sup> Sch'i resultan expensas supplementaras suttamessas a l'obligaziun da dumandar in credit visavi in credit d'impegn permess e sche la vischnanca n'ha betg ina regulaziun en il senn da l'alinea 1, vegn la cumpetenza mesirada:
+<sup>2<sup>bis</sup></sup> I po vegnir desistì da dumandar in credit posteriur, sche l'import che surpassa il credit budgetà è garantì tras il credit d'impegn.
 
-- a) tar expensas supplementaras libramain fixablas tenor il nov credit global;
-- b) tar expensas supplementaras liadas tenor l'import dal credit supplementar.
+<sup>3</sup> Sch'i resultan expensas supplementaras suttamessas a l'obligaziun da dumandar in credit visavi in credit d'impegn permess e sche la vischnanca n'ha betg ina regulaziun en il senn da l'alinea 1, vegn la cumpetenza mesirada tenor il nov credit global.
+
+- a) …
+- b) …
 
 ## 4. Rendaquint
 
@@ -162,6 +163,8 @@ relaschada da la regenza ils 25 da settember 2012
 - c) vischnancas sur 5000 fin a 10 000 abitantas ed abitants: fr. 75 000;
 - d) vischnancas fin a 10 000 abitantas ed abitants: fr. 100 000.
 
+<sup>1<sup>bis</sup></sup> Il mantegniment architectonic e funcziunal da valurs da facultad cun ina durada d'utilisaziun da plirs onns, che garantescha l'utilisaziun en il rom da la durada e da la dimensiun d'utilisaziun, sto vegnir adossà al quint economic.
+
 <sup>2</sup> Emprests e participaziuns da la facultad administrativa respectivamain lur midadas ston vegnir registrads independentamain da l'import dal quint d'investiziun.
 
 <sup>3</sup> Il quint d'investiziun sto vegnir structurà tenor las prescripziuns en l'agiunta da questa ordinaziun.
@@ -170,11 +173,11 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Quint da la circulaziun dals daners**
 
-<sup>1</sup> Il quint da la circulaziun dals daners infurmescha davart l'origin e davart il diever dals meds finanzials.
+<sup>1</sup> Il quint da la circulaziun dals daners infurmescha davart l'origin e davart il diever dals meds liquids e da las investiziuns da daners a curta vista.
 
-<sup>2</sup> Il quint da la circulaziun dals daners preschenta en moda graduada la circulaziun dals daners da l'activitad manaschiala (quint economic), la circulaziun dals daners da l'activitad d'investiziun (quint d'investiziun) e la circulaziun dals daners da l'activitad da finanziaziun.
+<sup>2</sup> Il quint da la circulaziun dals daners è dividì en trais parts. L'emprima part mussa la circulaziun dals daners da l'activitad operativa, la segunda part la circulaziun dals daners da l'activitad d'investiziun e la terza part la circulaziun dals daners da l'activitad da finanziaziun.
 
-<sup>3</sup> Il fond "daners" cuntegna dabuns da cassa, da posta e da banca sco er equivalents da daners. Equivalents da daners èn investiziuns finanzialas che pon vegnir realisadas entaifer 3 mais, senza ch'ins stoppia prender encunter midadas impurtantas da la valur.
+<sup>3</sup> …
 
 #### Art. 14
 
@@ -233,7 +236,7 @@ relaschada da la regenza ils 25 da settember 2012
 - a) lur basa giuridica po vegnir midada da la vischnanca; u
 - b) lur basa giuridica sa basa bain sin il dretg surordinà, ma il dretg surordinà lascha a la vischnanca ina libertad d'agir considerabla.
 
-<sup>2</sup> Ils pajaments anticipads respectivamain las obligaziuns da las finanziaziuns spezialas ston vegnir tschainsids calculatoricamain. La tariffa da tschains vegn fixada annualmain dal departament da finanzas e vischnancas.
+<sup>2</sup> Las obligaziuns ed ils pajaments anticipads da las finanziaziuns spezialas ston vegnir tschainsids confurm al martgà. Exceptadas da quai èn obligaziuns envers finanziaziuns spezialas, che vegnan finanziadas cun meds finanzials generals. La tariffa da tschains vegn fixada annualmain dal Departament da finanzas e vischnancas. Ella s'orientescha al martgà da chapital.
 
 <sup>3</sup> L'executiva liquidescha quellas finanziaziuns spezialas che han pers lur intent d'utilisaziun u che na pon betg pli vegnir ademplidas adequatamain.
 
@@ -241,7 +244,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Prefinanziaziuns**
 
-<sup>1</sup> Per furmar prefinanziaziuns per projects che n'èn anc betg vegnids concludids, dovri in conclus da l'autoritad ch'è cumpetenta.
+<sup>1</sup> Per furmar prefinanziaziuns (reservas) per projects d'investiziun dovri in conclus da l'autoritad cumpetenta.
 
 <sup>2</sup> Prefinanziaziuns pon vegnir furmadas mo, sche las amortisaziuns prescrittas èn cuvridas tenor la durada d'utilisaziun, sch'in eventual deficit da bilantscha è vegnì amortisà e sch'ellas na chaschunan betg in surpli d'expensas en il quint economic.
 
@@ -251,7 +254,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>5</sup> Sch'ils meds finanzials duain vegnir duvrads per furmar in'autra prefinanziaziun, valan las reglas concernent la furmaziun da novas prefinanziaziuns. I n'è betg permess da midar l'intent d'ina prefinanziaziun en la bilantscha empè da liquidar la prefinanziaziun e da furmar ina nova prefinanziaziun.
 
-<sup>6</sup> Las prefinanziaziuns che vegnan augmentadas da meds finanzials fiscals generals na ston betg vegnir tschainsidas.
+<sup>6</sup> Las prefinanziaziuns che vegnan augmentadas da meds finanzials generals na ston betg vegnir tschainsidas.
 
 #### Art. 19
 
@@ -283,11 +286,11 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Rectificaziuns da la valur**
 
-<sup>1</sup> Sch'ina reducziun permanenta da la valur che surpassa l'utilisaziun ordinaria è previsibla tar ina posiziun da la facultad administrativa, vegn rectifitgada sia valur cudeschada.
+<sup>1</sup> Sch'ina reducziun duraivla da la valur è previsibla tar ina posiziun da la facultad finanziala u administrativa, vegn rectifitgada la valur bilantschada.
 
-<sup>2</sup> Ina reducziun da la valur è duraivla, sch'i po vegnir supponì cun gronda probabilitad che la valur bilantschada na po betg pli vegnir cuntanschida il proxim temp, u alura sche la posiziun ha pers dal tuttafatg u per part sia valur, perquai che la valur è vegnida destruida u inveterada ubain pervia da circumstanzas sumegliantas respectivamain perquai che la valur na po betg pli vegnir duvrada en la dimensiun d'enfin ussa.
+<sup>2</sup> Ina reducziun da la valur è duraivla, sch'i sto vegnir supponì cun gronda probabilitad, che la valur bilantschada na sa laschia betg pli cuntanscher il proxim temp, ubain, sche la posiziun ha pers dal tuttafatg u per part sia valur pervia da destrucziun, pervia d'inveteraziun u pervia da circumstanzas sumegliantas, respectivamain sche la posiziun na po betg pli vegnir duvrada en la dimensiun da fin ussa.
 
-<sup>3</sup> Sch'igl è avant maun ina ristga da perdita en connex cun las pretensiuns, sto vegnir furmà in delcredere. Posiziuns essenzialas en connex cun pretensiuns vegnan valitadas separadamain. Tar las ulteriuras posiziuns po la valur vegnir rectifitgada pauschalmain. La tariffa da la rectificaziun pauschala importa maximalmain 5 pertschient.
+<sup>3</sup> Sch'igl è avant maun ina ristga da perdita en connex cun las pretensiuns, sto vegnir furmà in delcredere. Posiziuns essenzialas en connex cun pretensiuns vegnan valitadas separadamain. Las valurs da las ulteriuras posiziuns pon vegnir rectifitgadas pauschalmain. La tariffa da la rectificaziun pauschala da la valur importa per regla maximalmain 5 pertschient.
 
 #### Art. 22
 
@@ -375,8 +378,8 @@ relaschada da la regenza ils 25 da settember 2012
 - a) obligaziuns respectivamain pajaments anticipads envers finanziaziuns spezialas;
 - b) fonds;
 - c) prefinanziaziuns;
-- d) reserva per l'augment da la valur pervia da la midada al MAC2;
-- e) reserva da la nova valitaziun da la facultad finanziala;
+- d) …
+- e) …
 - f) ulteriur agen chapital;
 - g) surpli da bilantscha / deficit da bilantscha.
 
@@ -432,25 +435,21 @@ relaschada da la regenza ils 25 da settember 2012
 - f) quota da l'indebitament brut;
 - g) quota d'investiziun.
 
-<sup>2</sup> Per calcular quests indicaturs da finanzas valan las suandantas definiziuns:
+<sup>2</sup> Per calcular quests indicaturs da finanzas valan las definiziuns armonisadas per las vischnancas da l'entira Svizra.
 
-- a) Grad da l'atgna finanziaziun: Il grad da l'atgna finanziaziun è l'atgna finanziaziun en pertschients da l'investiziun netta.
-- b) Quota da la grevezza da tschains: La quota da la grevezza da tschains è la differenza tranter ils custs da tschains ed il retgav dal tschains en pertschients dal retgav current (retgav dal manaschi senza contribuziuns transitoricas, senza retgav finanzial, senza prelevaziuns da fonds e finanziaziuns spezialas, senza retgav extraordinari sco er senza scuntradas internas).
-- c) Debit net en francs per abitanta u abitant: Il debit net è il chapital ester minus la facultad finanziala, dividì tras il dumber d'abitantas e d'abitants tenor STATPOP.
-- d) Quota da l'atgna finanziaziun: La quota da l'atgna finanziaziun è l'atgna finanziaziun en pertschients dal retgav current (retgav dal manaschi senza contribuziuns transitoricas, senza retgav finanzial, senza prelevaziuns da fonds e finanziaziuns spezialas, senza retgav extraordinari sco er senza scuntradas internas).
-- e) Quota dal servetsch da chapital: La quota dal servetsch da chapital èn ils custs nets dals tschains e las amortisaziuns ordinarias en pertschients dal retgav current (retgav dal manaschi senza contribuziuns transitoricas, senza retgav finanzial, senza prelevaziuns da fonds e finanziaziuns spezialas, senza retgav extraordinari sco er senza scuntradas internas).
-- f) Quota da l'indebitament brut: La quota da l'indebitament brut correspunda als debits bruts en pertschients dal retgav current (retgav dal manaschi senza contribuziuns transitoricas, senza retgav finanzial, senza prelevaziuns da fonds e finanziaziuns spezialas, senza retgav extraordinari sco er senza scuntradas internas).
-- g) Quota d'investiziun: La quota d'investiziun correspunda a las investiziuns bruttas (senza investiziuns extraordinarias e senza contribuziuns transitoricas) en pertschients da las expensas totalas consolidadas (expensas currentas senza amortisaziuns sin la facultad administrativa, senza contribuziuns transitoricas, senza apports a fonds ed a finanziaziuns spezialas, senza custs extraordinaris, senza scuntradas internas; plus las investiziuns bruttas senza investiziuns extraordinarias e senza contribuziuns transitoricas).
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
 
 ## 7. Disposiziuns finalas
 
 #### Art. 31
 
-**Nova valitaziun da la facultad finanziala**
-
-<sup>1</sup> Cun midar al MAC2 sto la facultad finanziala vegnir valitada da nov tenor l'artitgel 20.
-
-<sup>2</sup> En la bilantscha d'avertura sto il gudogn u la perdita che resulta da la nova valitaziun vegnir attribuì a la "reserva da la nova valitaziun da la facultad finanziala". A la fin da l'emprim onn da gestiun vegn il saldo da la reserva da la nova valitaziun transferì al conto "ulteriur agen chapital" e liquidà uschia.
+**…**
 
 #### Art. 32
 
@@ -460,20 +459,139 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>2</sup> Investiziuns essenzialas dals ultims 5 onns avant l'introducziun dal MAC2 u talas cun ina durada d'utilisaziun restanta che surpassa per bler la fasa transitorica da 12 onns, pon vegnir tractadas separadamain. En quest cas ston ellas vegnir valitadas da nov e ston vegnir amortisadas en moda lineara tenor la categoria d'investiziun per la durada d'utilisaziun restanta. In eventual tractament spezial da la facultad administrativa sto vegnir inditgà en l'agiunta.
 
-<sup>3</sup> Il gudogn da la nova valitaziun sto vegnir attribuì en la bilantscha d'avertura a la "reserva per l'augment da la valur pervia da la midada al MAC2" ed il saldo sto vegnir cudeschà a la fin da l'emprim onn sin il conto "ulteriur agen chapital".
+<sup>3</sup> …
 
 #### Art. 33
 
-**Nova valitaziun da retenziuns e da posiziuns transitoricas**
+**…**
 
-<sup>1</sup> Cun midar al MAC2 ston las retenziuns e las posiziuns transitoricas vegnir valitadas da nov.
+#### Art. 33a
 
-<sup>2</sup> Il gudogn u la perdita da la nova valitaziun sto vegnir attribuì en la bilantscha d'avertura a la "reserva per l'augment da la valur pervia da la midada al MAC2" ed il saldo sto vegnir cudeschà a la fin da l'emprim onn sin il conto "ulteriur agen chapital".
+**…**
 
 #### Art. 34
 
 **Entrada en vigur**
 
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. da december 2012.
+
+## A1 Agiunta 1: Art. 10, 11 e 12
+
+#### Art. A1-1
+
+**Structura da la bilantscha (art. 10 al. 2)**
+
+<sup>1</sup> Facultad finanziala: La facultad finanziala vegn structurada sco suonda:
+
+- a) meds finanzials liquids ed investiziuns da daners da curta durada (100)
+- b) pretensiuns (101)
+- c) investiziuns finanzialas da curta durada (102)
+- d) cudeschaziuns transitoricas activas (104)
+- e) reservas e lavurs cumenzadas (106)
+- f) investiziuns finanzialas da lunga durada (107)
+- g) bains d'investiziun materials inclusiv immobiglias da l'acquist preventiv (108)
+- h) pretensiuns envers finanziaziuns spezialas e fonds en chapital ester (109)
+
+<sup>2</sup> Facultad administrativa: La facultad administrativa vegn structurada sco suonda:
+
+- a) bains d'investiziun materials (140)
+- b) bains d'investiziun immaterials (142)
+- c) emprests (144)
+- d) participaziuns (145)
+- e) contribuziuns d'investiziun (146)
+- f) amortisaziuns supplementaras cumuladas (148)
+
+<sup>3</sup> La facultad d'utilisaziun vegn bilantschada en la facultad administrativa. Sch'ella n'è betg bilantschada, sto ella vegnir inditgada en l'agiunta al quint annual.
+
+<sup>4</sup> Chapital ester: Il chapital ester vegn structurà sco suonda:
+
+- a) impegns currents (200)
+- b) impegns finanzials da curta durada (201)
+- c) cudeschaziuns transitoricas passivas (204)
+- d) retenziuns da curta durada (205)
+- e) impegns finanzials da lunga durada (206)
+- f) retenziuns da lunga durada (208)
+- g) impegns envers finanziaziuns spezialas e fonds en chapital ester (209)
+
+<sup>5</sup> Agen chapital: L'agen chapital vegn structurà sco suonda:
+
+- a) impegns respectivamain pajaments anticipads envers finanziaziuns spezialas (290)
+- b) fonds (291)
+- c) prefinanziaziuns (293)
+- d) ulteriur agen chapital (298)
+- e) surpli da bilantscha / deficit da bilantscha (299)
+
+#### Art. A1-2
+
+**Structura funcziunala dal quint economic e dal quint d'investiziun (art. 11 al. 1 ed art. 12 al. 3)**
+
+<sup>1</sup> Il quint economic ed il quint d'investiziun èn structurads tenor las suandantas funcziuns:
+
+- a) administraziun generala (0)
+- b) urden public e segirezza publica, defensiun (1)
+- c) furmaziun (2)
+- d) cultura, sport e temp liber, baselgia (3)
+- e) sanadad (4)
+- f) segirezza sociala (5)
+- g) traffic e transmissiun d'infurmaziuns (6)
+- h) protecziun da l'ambient ed organisaziun dal territori (7)
+- i) economia publica (8)
+- j) finanzas e taglias (9)
+
+#### Art. A1-3
+
+**Structura tenor geners dal quint economic (art. 11 al. 1)**
+
+<sup>1</sup> Il quint economic sto vegnir structurà tenor ils suandants geners:
+
+- a) Custs:
+  - 1\. custs da persunal (30)
+  - 2\. custs materials ed ulteriurs custs da manaschi (31)
+  - 3\. amortisaziuns da la facultad administrativa (33)
+  - 4\. custs finanzials (34)
+  - 5\. apports a fonds ed a finanziaziuns spezialas (35)
+  - 6\. custs da transfers (36)
+  - 7\. contribuziuns transitoricas (37)
+  - 8\. custs extraordinaris (38)
+  - 9\. scuntradas internas (39)
+- b) Retgav:
+  - 1\. retgav fiscal (40)
+  - 2\. regals e concessiuns (41)
+  - 3\. indemnisaziuns (42)
+  - 4\. differents retgavs (43)
+  - 5\. retgav finanzial (44)
+  - 6\. prelevaziuns da fonds e da finanziaziuns spezialas (45)
+  - 7\. retgav da transfers (46)
+  - 8\. contribuziuns transitoricas (47)
+  - 9\. retgav extraordinari (48)
+  - 10\. scuntradas internas (49)
+
+#### Art. A1-4
+
+**Structura tenor geners dal quint d'investiziun (art. 12 al. 3)**
+
+<sup>1</sup> Il quint d'investiziun sto vegnir structurà tenor ils suandants geners:
+
+- a) Expensas:
+  - 1\. bains d'investiziun materials (50)
+  - 2\. investiziuns a quint da terzas persunas (51)
+  - 3\. bains d'investiziun immaterials (52)
+  - 4\. emprests (54)
+  - 5\. participaziuns (55)
+  - 6\. atgnas contribuziuns d'investiziun (56)
+  - 7\. contribuziuns d'investiziun transitoricas (57)
+  - 8\. investiziuns extraordinarias (58)
+  - 9\. transport a la bilantscha / passivaziun (59)
+- b) Entradas:
+  - 1\. transport da bains d'investiziun materials en la facultad finanziala (60)
+  - 2\. restituziuns (61)
+  - 3\. perdita d'investiziuns immaterialas (62)
+  - 4\. contribuziuns d'investiziun per l'agen quint (63)
+  - 5\. restituziun d'emprests (64)
+  - 6\. transport da participaziuns (65)
+  - 7\. restituziun d'atgnas contribuziuns d'investiziun (66)
+  - 8\. contribuziuns d'investiziun transitoricas (67)
+  - 9\. entradas d'investiziun extraordinarias (68)
+  - 10\. transport a la bilantscha / activaziun (69)
 
 -

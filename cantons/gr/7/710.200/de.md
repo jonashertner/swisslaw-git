@@ -3,20 +3,19 @@ canton: GR
 number: "710.200"
 title: Finanzhaushaltsverordnung für die Gemeinden
 language: de
-version: 2012-12-01
-corrected: 2014-11-29
-version_adopted: 2012-09-25
+version: 2024-01-01
+version_adopted: 2023-09-05
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2359/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3801/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Finanzhaushaltsverordnung für die Gemeinden
 
-Vom 25.09.2012 (Stand 01.12.2012)
+Vom 25.09.2012 (Stand 01.01.2024)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -40,7 +39,7 @@ von der Regierung erlassen am 25. September 2012
 
 #### Art. 2
 
-**Zuständigkeit für Ausgaben**
+**Zuständigkeit für Ausgaben und Anlagen**
 
 <sup>1</sup> Die Zuständigkeit für den Beschluss über frei bestimmbare Ausgaben richtet sich nach der jeweils massgebenden Gesetzgebung der Gemeinde. Bei wiederkehrenden Ausgaben ist die Höhe der erstmaligen Ausgabe massgebend für die Zuständigkeit.
 
@@ -116,10 +115,12 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>2</sup> Die Gemeinde ist von der Einholung eines Zusatz- oder Nachtragskredites befreit, wenn sich eine Aufgabenerfüllung als unerlässlich und dringlich erweist.
 
-<sup>3</sup> Fallen gegenüber einem bewilligten Verpflichtungskredit kreditpflichtige Mehrausgaben an und verfügt die Gemeinde über keine Regelung im Sinne von Absatz 1, so bemisst sich die Zuständigkeit:
+<sup>2<sup>bis</sup></sup> Auf die Einholung eines Nachtragskredits kann verzichtet werden, wenn die Überschreitung des Budgetkredits betragsmässig durch den Verpflichtungskredit gedeckt ist.
 
-- a) bei frei bestimmbaren Mehrausgaben nach dem neuen Gesamtkredit;
-- b) bei gebundenen Mehrausgaben nach der Höhe des Zusatzkredites.
+<sup>3</sup> Fallen gegenüber einem bewilligten Verpflichtungskredit kreditpflichtige Mehrausgaben an und verfügt die Gemeinde über keine Regelung im Sinne von Absatz 1, so bemisst sich die Zuständigkeit nach dem neuen Gesamtkredit.
+
+- a) …
+- b) …
 
 ## 4. Rechnungslegung
 
@@ -162,6 +163,8 @@ von der Regierung erlassen am 25. September 2012
 - c) Gemeinden über 5000 bis 10 000 Einwohner: Fr. 75 000.–
 - d) Gemeinden über 10 000 Einwohner: Fr. 100 000.–
 
+<sup>1<sup>bis</sup></sup> Der bauliche und betriebliche Unterhalt an Vermögenswerten mit mehrjähriger Nutzungsdauer, welcher die Nutzung im Rahmen der Nutzungsdauer und des Nutzungsumfanges sicherstellt, ist der Erfolgsrechnung zu belasten.
+
 <sup>2</sup> Darlehen und Beteiligungen des Verwaltungsvermögens beziehungsweise deren Veränderungen sind unabhängig vom Betrag in der Investitionsrechnung zu erfassen.
 
 <sup>3</sup> Die Investitionsrechnung ist gemäss den Vorgaben im Anhang dieser Verordnung zu gliedern.
@@ -170,11 +173,11 @@ von der Regierung erlassen am 25. September 2012
 
 **Geldflussrechnung**
 
-<sup>1</sup> Die Geldflussrechnung gibt Auskunft über die Herkunft und Verwendung der Geldmittel.
+<sup>1</sup> Die Geldflussrechnung gibt Auskunft über die Herkunft und die Verwendung der flüssigen Mittel und kurzfristigen Geldanlagen.
 
-<sup>2</sup> Die Geldflussrechnung stellt den Geldfluss aus betrieblicher Tätigkeit (Erfolgsrechnung), den Geldfluss aus Investitionstätigkeit (Investitionsrechnung) und den Geldfluss aus Finanzierungstätigkeit gestuft dar.
+<sup>2</sup> Die Geldflussrechnung ist in drei Teile gegliedert. Der erste Teil zeigt den Geldfluss aus der operativen Tätigkeit, der zweite Teil den Geldfluss aus der Investitions- und Anlagentätigkeit und der dritte Teil den Geldfluss aus der Finanzierungstätigkeit auf.
 
-<sup>3</sup> Der Fonds "Geld" beinhaltet Kassa-, Post- und Bankguthaben sowie geldnahe Mittel. Geldnahe Mittel sind Finanzanlagen, die innerhalb von drei Monaten ohne Inkaufnahme bedeutender Wertschwankungen realisiert werden können.
+<sup>3</sup> …
 
 #### Art. 14
 
@@ -233,7 +236,7 @@ von der Regierung erlassen am 25. September 2012
 - a) die Rechtsgrundlage von der Gemeinde geändert werden kann, oder
 - b) die Rechtsgrundlage zwar auf übergeordnetem Recht basiert, dieses aber der Gemeinde einen erheblichen Gestaltungsspielraum offen lässt.
 
-<sup>2</sup> Die Vorschüsse beziehungsweise Verpflichtungen der Spezialfinanzierungen sind kalkulatorisch zu verzinsen. Der Zinssatz wird jährlich vom Departement für Finanzen und Gemeinden festgelegt.
+<sup>2</sup> Verpflichtungen und Vorschüsse der Spezialfinanzierungen sind marktkonform zu verzinsen. Davon ausgenommen sind Verpflichtungen gegenüber Spezialfinanzierungen, die mit allgemeinen Finanzmitteln finanziert werden. Der Zinssatz wird jährlich vom Departement für Finanzen und Gemeinden festgelegt. Er orientiert sich am Kapitalmarkt.
 
 <sup>3</sup> Die Exekutive löst jene Spezialfinanzierungen auf, deren Verwendungszweck entfallen ist oder nicht mehr sachgerecht verfolgt werden kann.
 
@@ -241,7 +244,7 @@ von der Regierung erlassen am 25. September 2012
 
 **Vorfinanzierungen**
 
-<sup>1</sup> Die Bildung von Vorfinanzierungen für Investitionsvorhaben benötigt einen Beschluss der zuständigen Behörde.
+<sup>1</sup> Die Bildung von Vorfinanzierungen (Reserven) für Investitionsvorhaben benötigt einen Beschluss der zuständigen Behörde.
 
 <sup>2</sup> Vorfinanzierungen können nur dann gebildet werden, wenn die vorgeschriebenen Abschreibungen nach Nutzungsdauer gedeckt sind, ein allfälliger Bilanzfehlbetrag abgetragen wurde und sie in der Erfolgsrechnung nicht zu einem Aufwandüberschuss führen.
 
@@ -251,7 +254,7 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>5</sup> Sollen die Mittel für die Bildung einer anderen Vorfinanzierung eingesetzt werden, so gelten die Regeln für die Neubildung von Vorfinanzierungen. Die Änderung der Zweckbestimmung in der Bilanz anstelle einer Auflösung und Neubildung der Vorfinanzierung ist nicht gestattet.
 
-<sup>6</sup> Die aus allgemeinen Steuermitteln geäufneten Vorfinanzierungen sind nicht zu verzinsen.
+<sup>6</sup> Die aus allgemeinen Finanzmitteln geäufneten Vorfinanzierungen sind nicht zu verzinsen.
 
 #### Art. 19
 
@@ -283,11 +286,11 @@ von der Regierung erlassen am 25. September 2012
 
 **Wertberichtigungen**
 
-<sup>1</sup> Ist bei einer Position des Verwaltungsvermögens eine dauerhafte und die ordentliche Nutzung übersteigende Wertminderung absehbar, wird deren Buchwert berichtigt.
+<sup>1</sup> Ist bei einer Position des Finanz- oder des Verwaltungsvermögens eine dauerhafte Wertminderung absehbar, wird der bilanzierte Wert berichtigt.
 
-<sup>2</sup> Dauerhaft ist die Wertminderung dann, wenn aller Voraussicht nach angenommen werden kann, dass der bilanzierte Wert auf absehbare Zeit nicht mehr erreicht werden kann, oder dann, wenn die Position durch Zerstörung, Alterung oder ähnliche Umstände den Wert teilweise oder ganz verloren hat beziehungsweise er nicht mehr im bisherigen Ausmass genutzt werden kann.
+<sup>2</sup> Dauerhaft ist die Wertminderung dann, wenn aller Voraussicht nach angenommen werden muss, dass der bilanzierte Wert auf absehbare Zeit nicht mehr erreicht werden kann, oder dann, wenn die Position durch Zerstörung, Alterung oder ähnliche Umstände den Wert teilweise oder ganz verloren hat beziehungsweise die Position nicht mehr im bisherigen Ausmass genutzt werden kann.
 
-<sup>3</sup> Liegt bei den Forderungen ein Verlustrisiko vor, ist ein Delkredere zu bilden. Wesentliche Positionen bei Forderungen werden einzeln bewertet. Bei den übrigen Positionen kann der Wert pauschal berichtigt werden. Der pauschale Wertberichtigungssatz beträgt maximal fünf Prozent.
+<sup>3</sup> Liegt bei den Forderungen ein Verlustrisiko vor, ist ein Delkredere zu bilden. Wesentliche Positionen bei Forderungen werden einzeln bewertet. Die übrigen Positionen können pauschal wertberichtigt werden. Der pauschale Wertberichtigungssatz beträgt in der Regel maximal fünf Prozent.
 
 #### Art. 22
 
@@ -375,8 +378,8 @@ von der Regierung erlassen am 25. September 2012
 - a) Verpflichtungen beziehungsweise Vorschüsse gegenüber Spezialfinanzierungen;
 - b) Fonds;
 - c) Vorfinanzierungen;
-- d) Aufwertungsreserve aus der Umstellung auf HRM2;
-- e) Neubewertungsreserve Finanzvermögen;
+- d) …
+- e) …
 - f) übriges Eigenkapital;
 - g) Bilanzüberschuss / Bilanzfehlbetrag.
 
@@ -432,25 +435,21 @@ von der Regierung erlassen am 25. September 2012
 - f) Bruttoverschuldungsanteil;
 - g) Investitionsanteil.
 
-<sup>2</sup> Für die Berechnung dieser Finanzkennzahlen gelten folgende Definitionen:
+<sup>2</sup> Für die Berechnung dieser Finanzkennzahlen gelten die schweizweit für die Gemeinden harmonisierten Definitionen.
 
-- a) Selbstfinanzierungsgrad: Der Selbstfinanzierungsgrad ist die Selbstfinanzierung in Prozenten der Nettoinvestition;
-- b) Zinsbelastungsanteil: Der Zinsbelastungsanteil ist die Differenz zwischen Zinsaufwand und Zinsertrag in Prozenten des laufenden Ertrags (betrieblicher Ertrag ohne durchlaufende Beiträge, Finanzertrag, Entnahmen aus Fonds und Spezialfinanzierungen, ausserordentlicher Ertrag sowie interne Verrechnungen);
-- c) Nettoschuld in Franken je Einwohner: Die Nettoschuld ist das Fremdkapital abzüglich das Finanzvermögen, geteilt durch die Anzahl Einwohner gemäss STATPOP;
-- d) Selbstfinanzierungsanteil: Der Selbstfinanzierungsanteil ist die Selbstfinanzierung in Prozenten des laufenden Ertrags (betrieblicher Ertrag ohne durchlaufende Beiträge, Finanzertrag, Entnahmen aus Fonds und Spezialfinanzierungen, ausserordentlicher Ertrag sowie interne Verrechnungen);
-- e) Kapitaldienstanteil: Der Kapitaldienstanteil ist der Nettozinsaufwand und die ordentlichen Abschreibungen in Prozenten des laufenden Ertrags (betrieblicher Ertrag ohne durchlaufende Beiträge, Finanzertrag, Entnahmen aus Fonds und Spezialfinanzierungen, ausserordentlicher Ertrag sowie interne Verrechnungen);
-- f) Bruttoverschuldungsanteil: Der Bruttoverschuldungsanteil entspricht den Bruttoschulden in Prozenten des Laufenden Ertrags (Betrieblicher Ertrag ohne durchlaufende Beiträge, Finanzertrag, Entnahmen aus Fonds und Spezialfinanzierungen, ausserordentlicher Ertrag sowie interne Verrechnungen);
-- g) Investitionsanteil: Der Investitionsanteil entspricht den Bruttoinvestitionen (ohne ausserordentliche Investitionen und durchlaufende Beiträge) in Prozenten des konsolidierten Gesamtaufwands (laufender Aufwand ohne Abschreibungen auf dem Verwaltungsvermögen, ohne durchlaufende Beiträge, ohne Einlagen in Fonds und Spezialfinanzierungen, ohne ausserordentlichen Aufwand, ohne interne Verrechnungen; zuzüglich der Bruttoinvestitionen ohne ausserordentliche Investitionen und ohne durchlaufende Beiträge).
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
 
 ## 7. Schlussbestimmungen
 
 #### Art. 31
 
-**Neubewertung Finanzvermögen**
-
-<sup>1</sup> Das Finanzvermögen ist beim Übergang zu HRM2 gemäss Artikel 20 neu zu bewerten.
-
-<sup>2</sup> Der Neubewertungsgewinn oder -verlust ist in der Eröffnungsbilanz der "Neubewertungsreserve Finanzvermögen" zuzuweisen. Am Ende des ersten Rechnungsjahres wird der Saldo der Neubewertungsreserve auf das Konto "Übriges Eigenkapital" umgebucht und somit aufgelöst.
+**…**
 
 #### Art. 32
 
@@ -460,20 +459,139 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>2</sup> Wesentliche Investitionen der letzten fünf Jahre vor Einführung von HRM2 oder solche, deren Restnutzungsdauer wesentlich über die Übergangsphase von zwölf Jahre hinausreicht, können gesondert behandelt werden. Sie sind diesfalls neu zu bewerten und gemäss der Anlagekategorie über die Restnutzungsdauer linear abzuschreiben. Eine allfällige Sonderbehandlung des Verwaltungsvermögens ist im Anhang aufzuführen.
 
-<sup>3</sup> Der Neubewertungsgewinn ist in der Eröffnungsbilanz der "Aufwertungsreserve aus der Umstellung auf HRM2" zuzuweisen und der Saldo am Ende des ersten Jahres auf das Konto "Übriges Eigenkapital" umzubuchen.
+<sup>3</sup> …
 
 #### Art. 33
 
-**Neubewertung von Rückstellungen und Rechnungsabgrenzungen**
+**…**
 
-<sup>1</sup> Die Rückstellungen und Rechnungsabgrenzungen sind beim Übergang zu HRM2 neu zu bewerten.
+#### Art. 33a
 
-<sup>2</sup> Der Neubewertungsgewinn oder –verlust ist in der Eröffnungsbilanz der "Aufwertungsreserve aus der Umstellung auf HRM2" zuzuweisen und der Saldo am Ende des ersten Jahres auf das Konto "Übriges Eigenkapital" umzubuchen.
+**…**
 
 #### Art. 34
 
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Dezember 2012 in Kraft.
+
+## A1 Anhang 1: Art. 10, 11 und 12
+
+#### Art. A1-1
+
+**Gliederung der Bilanz (Art. 10 Abs. 2)**
+
+<sup>1</sup> Finanzvermögen: Das Finanzvermögen wird wie folgt unterteilt:
+
+- a) flüssige Mittel und kurzfristige Geldanlagen (100)
+- b) Forderungen (101)
+- c) kurzfristige Finanzanlagen (102)
+- d) aktive Rechnungsabgrenzungen (104)
+- e) Vorräte und angefangene Arbeiten (106)
+- f) langfristige Finanzanlagen (107)
+- g) Sachanlagen inklusive Immobilien aus vorsorglichem Erwerb (108)
+- h) Forderungen gegenüber Spezialfinanzierungen und Fonds im Fremdkapital (109)
+
+<sup>2</sup> Verwaltungsvermögen: Das Verwaltungsvermögen wird wie folgt unterteilt:
+
+- a) Sachanlagen (140)
+- b) immaterielle Anlagen (142)
+- c) Darlehen (144)
+- d) Beteiligungen (145)
+- e) Investitionsbeiträge (146)
+- f) kumulierte zusätzliche Abschreibungen (148)
+
+<sup>3</sup> Das Nutzungsvermögen wird im Verwaltungsvermögen bilanziert. Sofern es nicht bilanziert ist, ist es im Anhang zur Jahresrechnung aufzuführen.
+
+<sup>4</sup> Fremdkapital: Das Fremdkapital wird wie folgt unterteilt:
+
+- a) laufende Verbindlichkeiten (200)
+- b) kurzfristige Finanzverbindlichkeiten (201)
+- c) passive Rechnungsabgrenzungen (204)
+- d) kurzfristige Rückstellungen (205)
+- e) langfristige Finanzverbindlichkeiten (206)
+- f) langfristige Rückstellungen (208)
+- g) Verbindlichkeiten gegenüber Spezialfinanzierungen und Fonds im Fremdkapital (209)
+
+<sup>5</sup> Eigenkapital: Das Eigenkapital wird wie folgt unterteilt:
+
+- a) Verpflichtungen beziehungsweise Vorschüsse gegenüber Spezialfinanzierungen (290)
+- b) Fonds (291)
+- c) Vorfinanzierungen (293)
+- d) übriges Eigenkapital (298)
+- e) Bilanzüberschuss / Bilanzfehlbetrag (299)
+
+#### Art. A1-2
+
+**Funktionale Gliederung der Erfolgsrechnung und der Investitionsrechnung (Art. 11 Abs. 1 und Art. 12 Abs. 3)**
+
+<sup>1</sup> Die Erfolgsrechnung und die Investitionsrechnung sind nach folgenden Funktionen gegliedert:
+
+- a) Allgemeine Verwaltung (0)
+- b) Öffentliche Ordnung und Sicherheit, Verteidigung (1)
+- c) Bildung (2)
+- d) Kultur, Sport und Freizeit, Kirche (3)
+- e) Gesundheit (4)
+- f) Soziale Sicherheit (5)
+- g) Verkehr und Nachrichtenübermittlung (6)
+- h) Umweltschutz und Raumordnung (7)
+- i) Volkswirtschaft (8)
+- j) Finanzen und Steuern (9)
+
+#### Art. A1-3
+
+**Artengliederung der Erfolgsrechnung (Art. 11 Abs. 1)**
+
+<sup>1</sup> Die Erfolgsrechnung ist nach folgenden Arten zu gliedern:
+
+- a) Aufwand:
+  - 1\. Personalaufwand (30)
+  - 2\. Sach- und übriger Betriebsaufwand (31)
+  - 3\. Abschreibungen Verwaltungsvermögen (33)
+  - 4\. Finanzaufwand (34)
+  - 5\. Einlagen in Fonds und Spezialfinanzierungen (35)
+  - 6\. Transferaufwand (36)
+  - 7\. durchlaufende Beiträge (37)
+  - 8\. ausserordentlicher Aufwand (38)
+  - 9\. interne Verrechnungen (39)
+- b) Ertrag:
+  - 1\. Fiskalertrag (40)
+  - 2\. Regalien und Konzessionen (41)
+  - 3\. Entgelte (42)
+  - 4\. verschiedene Erträge (43)
+  - 5\. Finanzertrag (44)
+  - 6\. Entnahmen aus Fonds und Spezialfinanzierungen (45)
+  - 7\. Transferertrag (46)
+  - 8\. durchlaufende Beiträge (47)
+  - 9\. ausserordentlicher Ertrag (48)
+  - 10\. interne Verrechnungen (49)
+
+#### Art. A1-4
+
+**Artengliederung der Investitionsrechnung (Art. 12 Abs. 3)**
+
+<sup>1</sup> Die Investitionsrechnung ist nach folgenden Arten zu gliedern:
+
+- a) Ausgaben:
+  - 1\. Sachanlagen (50)
+  - 2\. Investitionen auf Rechnung Dritter (51)
+  - 3\. immaterielle Anlagen (52)
+  - 4\. Darlehen (54)
+  - 5\. Beteiligungen (55)
+  - 6\. eigene Investitionsbeiträge (56)
+  - 7\. durchlaufende Investitionsbeiträge (57)
+  - 8\. ausserordentliche Investitionen (58)
+  - 9\. Übertrag an Bilanz / Passivierung (59)
+- b) Einnahmen:
+  - 1\. Übertragung von Sachanlagen in das Finanzvermögen (60)
+  - 2\. Rückerstattungen (61)
+  - 3\. Abgang immaterieller Anlagen (62)
+  - 4\. Investitionsbeiträge für eigene Rechnung (63)
+  - 5\. Rückzahlung von Darlehen (64)
+  - 6\. Übertragung von Beteiligungen (65)
+  - 7\. Rückzahlung eigener Investitionsbeiträge (66)
+  - 8\. durchlaufende Investitionsbeiträge (67)
+  - 9\. ausserordentliche Investitionseinnahmen (68)
+  - 10\. Übertrag an Bilanz / Aktivierung (69)
 
 -
