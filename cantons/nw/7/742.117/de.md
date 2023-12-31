@@ -1,22 +1,22 @@
 ---
 canton: NW
 number: "742.117"
-title: Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2023 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
+title: Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2024 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-27
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-26
 adopted: 2025-09-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/1057/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1196/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2023 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
+# Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2024 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
 
-vom 27.09.2022 (Stand 01.01.2023)
+vom 26.09.2023 (Stand 01.01.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -28,7 +28,7 @@ beschliesst:
 
 #### Ziff. 1
 
-<sup>1</sup> Die Pflegetaxen für Pflegeleistungen der zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause sowie der selbständig erwerbenden Pflegefachpersonen gemäss Art. 28f Abs. 3 Ziff. 2 kKVG[^Ziff1-1] betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2023 je Stunde:
+<sup>1</sup> Die Pflegetaxen für Pflegeleistungen der zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause sowie der selbständig erwerbenden Pflegefachpersonen gemäss Art. 28f Abs. 3 Ziff. 2 kKVG[^Ziff1-1] betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2024 je Stunde:
 
 - a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a der Krankenpflege-Leistungsverordnung, KLV[^Ziff1-2]): — Fr. 131.00
 - b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 102.00
@@ -39,7 +39,7 @@ beschliesst:
 
 #### Ziff. 2
 
-<sup>1</sup> Die Pflegetaxen für ambulante Pflegeleistungen der Pflegeheime, die gemäss Art. 28f Abs. 3 Ziff. 3 kKVG[^Ziff2-1] als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2023 je Stunde:
+<sup>1</sup> Die Pflegetaxen für ambulante Pflegeleistungen der Pflegeheime, die gemäss Art. 28f Abs. 3 Ziff. 3 kKVG[^Ziff2-1] als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2024 je Stunde:
 
 - a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a KLV[^Ziff2-2]): — Fr. 117.90
 - b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 91.80
@@ -50,23 +50,17 @@ beschliesst:
 
 #### Ziff. 3
 
-<sup>1</sup> Für Pflegeleistungen gemäss Ziff. 1 lit. a–c mit Einsatzzeiten von insgesamt 30 Minuten oder weniger je Tag und Klientin oder Klient erfolgt zusätzlich eine pauschale Vergütung von Fr. 12.00.
+<sup>1</sup> Für Pflegeleistungen gemäss Ziff. 1 lit. a–c mit Einsatzzeiten von insgesamt 30 Minuten oder weniger je Einsatz und Klientin oder Klient erfolgt zusätzlich eine pauschale Vergütung von Fr. 12.00.
 
 #### Ziff. 4
 
 <sup>1</sup> Für Pflegeleistungen bei akut oder chronisch kranken, behinderten oder sterbenden Minderjährigen erfolgt zusätzlich zur ordentlichen Pflegetaxe eine pauschale Vergütung je Stunde:
 
-- a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a der KLV[^Ziff4-1]): — Fr. 5.–
-- b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 34.–
-- c) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV) bei Minderjährigen, die Anspruch auf Leistungen gemäss IVG[^Ziff4-2] haben: — Fr. 18.–
+- a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a der KLV[^Ziff4-1]): — Fr. 25.35
+- b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 54.35
+- c) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV) bei Minderjährigen, die Anspruch auf Leistungen gemäss IVG[^Ziff4-2] haben: — Fr. 26.00
 
 [^Ziff4-1]: SR 832.112.31
 [^Ziff4-2]: SR 831.20
 
-#### Ziff. 5
-
-<sup>1</sup> Gegen diesen Beschluss kann binnen 30 Tagen nach erfolgter Publikation beim Regierungsrat Einsprache erhoben werden (Art. 29 Abs. 1 kKVG[^Ziff5-1]).
-
-[^Ziff5-1]: NG 742.1
-
-2022-026
+2023-039
