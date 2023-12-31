@@ -4,13 +4,12 @@ number: "725.3"
 title: Gesetz über die Hundehaltung
 short: HHG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-06
+version: 2024-01-01
+version_adopted: 2023-02-08
 adopted: 2006-11-02
 in_force: 2007-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/725.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/7126/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7839/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Hundehaltung – G
 
 (HHG)
 
-vom 02.11.2006 (Fassung in Kraft getreten am 01.01.2022)
+vom 02.11.2006 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -127,9 +126,9 @@ beschliesst:
 
 #### Art. 11
 
-**Ausbildnerinnen und Ausbildner**
+**Ausbilderinnen und Ausbilder**
 
-<sup>1</sup> Als Hundeausbilderinnen oder -ausbilder gelten Personen, die Hundehalterinnen und -haltern den Sachkundeausweis nach Bundesgesetzgebung ausstellen dürfen.
+<sup>1</sup> Als Hundeausbilderinnen oder -ausbilder gelten Personen, die über eine Ausbildung im Sinne von Artikel 34 dieses Gesetzes verfügen.
 
 #### Art. 12
 
@@ -138,6 +137,8 @@ beschliesst:
 <sup>1</sup> Als Halterinnen und Halter gelten Personen, die einen Hund vorübergehend oder ständig in ihrer Obhut haben.
 
 <sup>2</sup> Als ordentliche Halterin oder ordentlicher Halter gilt die Person, die tatsächlich und ständig die Verfügungsgewalt und die Obhut über den Hund innehat.
+
+<sup>3</sup> Als neue Halterin oder neuer Halter gilt eine Person, die noch nie einen Hund gehalten hat oder seit zehn Jahren keinen Hund gehalten hat.
 
 #### Art. 13
 
@@ -195,19 +196,7 @@ beschliesst:
 
 #### Art. 19
 
-**Haltungsbewilligung**
-
-<sup>1</sup> Wer einen Hund einer vom Staatsrat bezeichneten Rasse, eines vom Staatsrat bezeichneten Rassetyps oder aus einer Kreuzung mit mindestens einer dieser Rassen züchten, halten, verwenden oder einführen will, benötigt eine Bewilligung. Davon ausgenommen ist das vorübergehende Verbringen in das Kantonsgebiet für einen Aufenthalt von höchstens 90 Tagen, unter der Voraussetzung, dass das Tier an der Leine gehalten wird und einen Maulkorb trägt.
-
-<sup>2</sup> Für die Haltung von mehr als vier über 1 Jahr alten Hunden braucht es unabhängig von deren Rasse eine Bewilligung.
-
-<sup>3</sup> Das Gesuch muss beim Amt mindestens 30 Tage vor der Aufnahme einer Tätigkeit nach Absatz 1 oder 2 oder der Geburt des Hundes eingereicht werden.
-
-<sup>4</sup> Das Amt erteilt die Bewilligung, wenn die Gesuchstellerin oder der Gesuchsteller mindestens 18 Jahre alt ist, den Nachweis erbringt, dass sie oder er die erforderlichen Kenntnisse über die Haltung dieser Hunde und den Umgang mit ihnen hat, und über einen einwandfreien Leumund verfügt.
-
-<sup>5</sup> Das Amt kann an die Bewilligung Auflagen an die Ausbildung der Hundehalterin oder des Hundehalters und an die Erziehung des Hundes knüpfen und Anforderungen an die Haltung festlegen.
-
-<sup>6</sup> …
+**…**
 
 #### Art. 20
 
@@ -322,6 +311,20 @@ beschliesst:
 <sup>3</sup> Der Staatsrat regelt den Zugriff auf die Daten dieser Liste und ihre Verwendung.
 
 ### 4.4 Vorbeugende Massnahmen
+
+#### Art. 28a
+
+**Theoriekurs und Beurteilung der Führbarkeit**
+
+<sup>1</sup> Die neuen Halterinnen und Halter müssen vor der Haltung des Hundes einen obligatorischen Theoriekurs besuchen.
+
+<sup>2</sup> Jeder neu gehaltene Hund wird einer praktischen Beurteilung der Führbarkeit unterzogen. Besteht das Tier die Beurteilung der Führbarkeit nicht, so kann das Amt erzieherische Massnahmen oder Massnahmen für die öffentliche Sicherheit anordnen. Artikel 27 Abs. 1 gilt sinngemäss.
+
+<sup>3</sup> Das Amt kann die Massnahmen nach Artikel 27 ergreifen, wenn der obligatorische Theoriekurs nicht besucht wurde oder wenn der neu gehaltene Hund nicht einer praktischen Beurteilung der Führbarkeit unterzogen wurde.
+
+<sup>4</sup> Der Staatsrat legt die Modalitäten und die möglichen Ausnahmen fest.
+
+<sup>5</sup> Die damit verbundenen Kosten gehen zu Lasten der Hundehalterin oder des Hundehalters.
 
 #### Art. 29
 
@@ -467,7 +470,7 @@ beschliesst:
 
 **Übertretungen**
 
-<sup>1</sup> Wer absichtlich gegen die Bestimmungen der Artikel 16, 19 Abs. 1–3, 20 Abs. 1, 21 Abs. 1, 25 Abs. 1, 26 Abs. 3, 31, 34 Abs. 1, 35 Abs. 1 und 39 verstösst, wird mit Busse bestraft.
+<sup>1</sup> Wer absichtlich oder fahrlässig gegen die Bestimmungen der Artikel 16, 20 Abs. 1, 21 Abs. 1 und 3, 25 Abs. 1, 26 Abs. 3, 28a, 31, 34 Abs. 1, 35 Abs. 1 und 39 verstösst, wird mit Busse bestraft.
 
 <sup>2</sup> Verstösse gegen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
 
@@ -586,6 +589,16 @@ beschliesst:
 <sup>1</sup> Halterinnen und Halter, die einen Hund nach Artikel 20 Abs. 1 Bst. a und b besitzen, melden ihren Hund innert 3 Monaten nach Inkrafttreten dieses Gesetzes dem Amt. Dieses ergreift innerhalb von 3 Monaten die in Artikel 27 vorgesehenen Massnahmen. Solche Hunde müssen auf jeden Fall kastriert oder sterilisiert, mit einem Mikrochip versehen und an der Leine geführt werden.
 
 <sup>2</sup> Halterinnen und Halter eines Hundes nach Artikel 20 Abs. 1 Bst. c oder eines Hundes, der auf der vom Staatsrat nach Artikel 19 Abs. 1 erlassenen Liste steht, melden ihren Hund innert 3 Monaten nach Inkrafttreten dieses Gesetzes dem Amt. Dieses führt die nötigen Untersuchungen durch und entscheidet innerhalb von 6 Monaten, ob eine Haltebewilligung erteilt werden kann oder welche Massnahmen nach Artikel 27 ergriffen werden müssen.
+
+#### Art. 56a
+
+**Übergangsrecht – Änderung vom 8. Februar 2023 – Theoriekurs und Beurteilung der Führbarkeit**
+
+<sup>1</sup> Die Beurteilung der Führbarkeit gilt für neu gehaltene Hunde, die nach dem Inkrafttreten dieser Änderung geboren werden.
+
+<sup>2</sup> Hunde, für die zuvor eine Haltungsbewilligung mit Sicherheitsauflagen entsprechend ihrer Rasse nötig war, müssen einer offiziellen Beurteilung der Führbarkeit unterzogen werden, die vom Amt innerhalb von zwei Jahren nach Inkrafttreten der Änderung durchgeführt wird.
+
+<sup>3</sup> Hunde, für die zuvor eine Haltungsbewilligung mit Ausbildungsauflagen nötig war, oder Hunde, deren Bewilligungsverfahren entsprechend der Rasse nicht abgeschlossen ist, müssen einer Beurteilung der Führbarkeit unterzogen werden, die von einer Ausbilderin oder einem Ausbilder innerhalb von zwei Jahren nach Inkrafttreten der Änderung durchgeführt wird.
 
 #### Art. 57
 

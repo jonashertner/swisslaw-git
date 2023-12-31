@@ -4,13 +4,12 @@ number: "725.3"
 title: Loi sur la détention des chiens
 short: LDCh
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-06
+version: 2024-01-01
+version_adopted: 2023-02-08
 adopted: 2006-11-02
 in_force: 2007-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/725.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7126/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7839/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Détention des chiens – L
 
 (LDCh)
 
-du 02.11.2006 (version entrée en vigueur le 01.01.2022)
+du 02.11.2006 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -129,7 +128,7 @@ Décrète:
 
 **Educateur et éducatrice**
 
-<sup>1</sup> Est considérée comme éducateur ou éducatrice toute personne qui est autorisée à délivrer aux détenteurs et détentrices de chiens les attestations de compétence prévues par la législation fédérale.
+<sup>1</sup> Est considérée comme éducateur ou éducatrice toute personne qui dispose d'une formation au sens de l'article 34 de la présente loi.
 
 #### Art. 12
 
@@ -138,6 +137,8 @@ Décrète:
 <sup>1</sup> Est considérée comme détenteur ou détentrice toute personne chargée, temporairement ou durablement, de la garde d'un chien.
 
 <sup>2</sup> Est considérée comme détenteur ou détentrice habituel-le la personne qui possède effectivement et durablement le pouvoir de disposer du chien et en a la garde.
+
+<sup>3</sup> Est considérée comme nouveau détenteur ou nouvelle détentrice la personne qui n'a jamais détenu préalablement un chien ou qui n'en a pas détenu depuis dix ans.
 
 #### Art. 13
 
@@ -195,19 +196,7 @@ Décrète:
 
 #### Art. 19
 
-**Autorisation de détention**
-
-<sup>1</sup> Quiconque souhaite élever, détenir, utiliser ou importer un chien d'une des races ou d'un type de races déterminées par le Conseil d'Etat ou issu d'un croisement avec au moins une de ces races doit en demander l'autorisation. Une autorisation n'est pas requise lorsqu'un tel chien est introduit sur le territoire du canton pour un séjour temporaire de nonante jours au maximum, à la condition que l'animal soit tenu en laisse et muni d'une muselière.
-
-<sup>2</sup> Une même autorisation est nécessaire pour détenir plus de quatre chiens âgés de plus de 1 année, et cela sans distinction de race.
-
-<sup>3</sup> La demande doit être déposée auprès du Service au moins trente jours avant la survenance d'un des cas visés aux alinéas 1 et 2 ou la naissance du chien.
-
-<sup>4</sup> Le Service délivre une autorisation si la personne qui en fait la demande est âgée de 18 ans au moins, apporte la preuve qu'elle a les connaissances nécessaires concernant la détention des chiens et la manière de les traiter et jouit d'une bonne réputation.
-
-<sup>5</sup> Le Service peut assortir l'autorisation de charges concernant la formation du requérant ou de la requérante et l'éducation du chien et fixer des exigences relatives à la détention.
-
-<sup>6</sup> …
+**…**
 
 #### Art. 20
 
@@ -322,6 +311,20 @@ Décrète:
 <sup>3</sup> Le Conseil d'Etat règle l'accès aux données contenues dans la liste ainsi que leur utilisation.
 
 ### 4.4 Mesures de prévention
+
+#### Art. 28a
+
+**Cours théorique et évaluation de conductibilité**
+
+<sup>1</sup> Les nouveaux détenteurs et nouvelles détentrices doivent suivre un cours théorique obligatoire avant la détention du chien.
+
+<sup>2</sup> Tout chien nouvellement détenu est soumis à une évaluation pratique de conductibilité. En cas d'échec à l'évaluation de conductibilité, le Service peut ordonner des mesures éducatives ou de sécurité publique. L'article 27 al. 1 est applicable par analogie.
+
+<sup>3</sup> Le Service peut prendre les mesures prévues à l'article 27 si le cours théorique obligatoire n'a pas été suivi ou si le chien nouvellement détenu n'a pas été soumis à une évaluation pratique de conductibilité.
+
+<sup>4</sup> Le Conseil d'Etat en fixe les modalités et les dérogations possibles.
+
+<sup>5</sup> Les frais y relatifs sont à la charge du détenteur ou de la détentrice.
 
 #### Art. 29
 
@@ -467,7 +470,7 @@ Décrète:
 
 **Contraventions**
 
-<sup>1</sup> Est passible de l'amende la personne qui contrevient intentionnellement aux dispositions des articles 16, 19 al. 1 à 3, 20 al. 1, 21 al. 1, 25 al. 1, 26 al. 3, 31, 34 al. 1, 35 al. 1 et 39.
+<sup>1</sup> Est passible de l'amende la personne qui contrevient intentionnellement ou par négligence aux dispositions des articles 16, 20 al. 1, 21 al. 1 et 3, 25 al. 1, 26 al. 3, 28a, 31, 34 al. 1, 35 al. 1 et 39.
 
 <sup>2</sup> Les infractions aux dispositions de la présente loi et à celles de sa réglementation d'exécution que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
 
@@ -586,6 +589,16 @@ Décrète:
 <sup>1</sup> Les personnes qui possèdent un chien visé à l'article 20 al. 1 let. a et b déclarent leur animal au Service dans les trois mois suivant l'entrée en vigueur de la présente loi. Le Service prend, dans les trois mois, les mesures prévues à l'article 27. De tels chiens doivent dans tous les cas être castrés ou stérilisés, munis d'une puce électronique et tenus en laisse.
 
 <sup>2</sup> Les personnes qui possèdent un chien visé à l'article 20 al. 1 let. c ou figurant dans la liste arrêtée par le Conseil d'Etat en application de l'article 19 al. 1 déclarent leur animal au Service dans les trois mois suivant l'entrée en vigueur de la présente loi. Le Service mène les enquêtes nécessaires et décide, dans les six mois, si une autorisation de détention peut être délivrée et quelles mesures doivent être prises selon l'article 27.
+
+#### Art. 56a
+
+**Droit transitoire – Modification du 8 février 2023 – Cours théorique et évaluation de conductibilité**
+
+<sup>1</sup> L'évaluation de conductibilité est applicable aux chiens nouvellement détenus nés après l'entrée en vigueur de cette modification.
+
+<sup>2</sup> Toutefois, les chiens qui faisaient précédemment l'objet d'une autorisation de détention avec charge sécuritaire en fonction de leur race sont soumis à une évaluation de conductibilité officielle qui doit être faite par le Service dans un délai de deux ans à compter de l'entrée en vigueur de la modification.
+
+<sup>3</sup> Les chiens qui faisaient précédemment l'objet d'une autorisation de détention avec charge éducative ou les chiens dont la procédure d'autorisation en fonction de leur race n'est pas terminée sont soumis à une évaluation pratique de conductibilité qui doit être faite par un éducateur ou une éducatrice dans un délai de deux ans à compter de l'entrée en vigueur de la modification.
 
 #### Art. 57
 
