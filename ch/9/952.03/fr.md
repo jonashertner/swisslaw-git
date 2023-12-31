@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juin 2012 les fonds propres et la répartit
 short: OFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/fr"
 
 (Ordonnance sur les fonds propres, OFR)[^t-1]
 
-du 1<sup>er</sup> juin 2012 (État le 1<sup>er</sup> janvier 2023)
+du 1<sup>er</sup> juin 2012 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -92,7 +92,7 @@ Au sens de la présente ordonnance, on entend par:
 
 - h. *standards minimaux de Bâle:* les documents du Comité de Bâle sur le contrôle bancaire déterminants pour calculer les fonds propres nécessaires[^4-1].
 
-[^4-1]: Les standards minimaux de Bâle actuels peuvent être consultés à l’adresse www.bis.org/bcbs ou demandés à la Banque des règlements internationaux, Centralbahnplatz 2, 4002 Bâle.
+[^4-1]: Les standards minimaux de Bâle actuels peuvent être consultés à l’adresse [www.bis.org/bcbs](http://www.bis.org/bcbs) ou demandés à la Banque des règlements internationaux, Centralbahnplatz 2, 4002 Bâle.
 
 #### Art. 5
 
@@ -2550,13 +2550,13 @@ L’exigence énoncée à l’art. 132, al. 2, let. b, se monte:
 
 <sup>1</sup> Jusqu’au 31 décembre 2021, les banques des catégories 4 et 5 selon l’annexe 3 de l’OB[^148k-1] peuvent, dans le cadre des titres 3 et 4, également effectuer la conversion de dérivés en leur équivalent-crédit selon la méthode de la valeur de marché visée à l’art. 57 dans sa teneur du 1<sup>er</sup> juillet 2016[^148k-2].
 
-<sup>1bis</sup> Le délai transitoire prévu à l’al. 1 est prolongé jusqu’au 31 décembre 2023.[^148k-3]
+<sup>1bis</sup> Le délai transitoire prévu à l’al. 1 est prolongé jusqu’au 31 décembre 2024.[^148k-3]
 
 <sup>2</sup> Il en va de même pour les banques de la catégorie 3 selon l’annexe 3 de l’OB dont les positions en dérivés ne sont pas significatives. La FINMA édicte les dispositions d’exécution techniques.
 
 [^148k-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^148k-2]: [RO 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
-[^148k-3]: Introduit par le ch. I 6 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^148k-3]: Introduit par le ch. I 6 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 725](https://fedlex.data.admin.ch/eli/oc/2023/725)).
 
 #### Art. 148l
 

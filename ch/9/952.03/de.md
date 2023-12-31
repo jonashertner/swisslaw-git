@@ -4,11 +4,11 @@ title: "Verordnung vom 1. Juni 2012 über die Eigenmittel und Risikoverteilung d
 short: ERV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/de"
 
 (Eigenmittelverordnung, ERV)[^t-1]
 
-vom 1. Juni 2012 (Stand am 1. Januar 2023)
+vom 1. Juni 2012 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 10 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -2554,13 +2554,13 @@ Die Anforderung gemäss Artikel 132 Absatz 2 Buchstabe b beträgt:
 
 <sup>1</sup> Bis zum 31. Dezember 2021 können Banken der Kategorien 4 und 5 nach Anhang 3 BankV[^148k-1] die Umrechnung von Derivaten in ihre Kreditäquivalente im Rahmen des 3. und 4. Titels auch nach der Marktwertmethode nach Artikel 57 in der Fassung vom 1. Juli 2016[^148k-2] vornehmen.
 
-<sup>1bis</sup> Die Übergangsfrist nach Absatz 1 wird bis zum 31. Dezember 2023 verlängert.[^148k-3]
+<sup>1bis</sup> Die Übergangsfrist nach Absatz 1 wird bis zum 31. Dezember 2024 verlängert.[^148k-3]
 
 <sup>2</sup> Dies gilt ebenfalls für Banken der Kategorie 3 nach Anhang 3 BankV, die unwesentliche Derivatpositionen haben. Die FINMA erlässt technische Ausführungsbestimmungen.
 
 [^148k-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^148k-2]: [AS 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
-[^148k-3]: Eingefügt durch Ziff. I 6 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^148k-3]: Eingefügt durch Ziff. I 6 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register (AS **2021** 400). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **2023** 725).
 
 #### Art. 148l
 

@@ -4,11 +4,11 @@ title: "Ordinance of 1 June 2012 on the Capital Adequacy and Risk Diversificatio
 short: CAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: en
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2012-629-20230101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2012-629-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Capital Adequacy Ordinance, CAO)
 
-of 1 June 2012 (Status as of 1 January 2023)
+of 1 June 2012 (Status as of 1 January 2024)
 
 [^t-1]: Amended by Annex 1 No II 10 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -2558,13 +2558,13 @@ The requirement under Article 132 paragraph 2 letter b shall amount to:
 
 <sup>1</sup> Up to 31 December 2021, banks in categories 4 and 5 under Annex 3 of the BankO[^148k-1] may also use the market valuation method in accordance with Article 57 in the version of 1 July 2016[^148k-2] to convert derivatives into their credit equivalents within the scope of Titles 3 and 4.
 
-<sup>1bis</sup> The deadline in accordance with paragraph shall be extended to 31 December 2023.[^148k-3]
+<sup>1bis</sup> The deadline in accordance with paragraph shall be extended to 31 December 2024.[^148k-3]
 
 <sup>2</sup> This also applies to banks in category 3 under Annex 3 of the BankO which do not have significant derivatives exposures. FINMA shall issue technical implementing provisions.
 
 [^148k-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^148k-2]: [AS 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
-[^148k-3]: Inserted by No I 6 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^148k-3]: Inserted by No I 6 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Amended by No I of the O of 29 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 725](https://fedlex.data.admin.ch/eli/oc/2023/725)).
 
 #### Art. 148l
 

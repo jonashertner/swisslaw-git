@@ -4,11 +4,11 @@ title: "Ordinanza del 1° giugno 2012 sui fondi propri e sulla ripartizione dei 
 short: OFoP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/it"
 
 (Ordinanza sui fondi propri, OFoP)[^t-1]
 
-del 1° giugno 2012 (Stato 1° gennaio 2023)
+del 1° giugno 2012 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -92,7 +92,7 @@ Nella presente ordinanza s’intende per:
 
 - h*.* *standard minimi di Basilea*: i documenti del Comitato di Basilea per la vigilanza sulle banche che sono determinanti per il calcolo delle esigenze sui fondi propri[^4-1].
 
-[^4-1]: Gli attuali standard minimi di Basilea possono essere consultati all’indirizzo Internet www.bis.org/bcbs oppure ottenuti presso la Banca dei regolamenti internazionali, Centralbahnplatz 2, 4002 Basilea.
+[^4-1]: Gli attuali standard minimi di Basilea possono essere consultati all’indirizzo Internet [www.bis.org/bcbs](http://www.bis.org/bcbs) oppure ottenuti presso la Banca dei regolamenti internazionali, Centralbahnplatz 2, 4002 Basilea.
 
 #### Art. 5
 
@@ -2552,13 +2552,13 @@ L’esigenza di cui all’articolo 132 capoverso 2 lettera b ammonta:
 
 <sup>1</sup> Fino al 31 dicembre 2021 le banche delle categorie 4 e 5 di cui all’allegato 3 OBCR[^148k-1] possono effettuare la conversione dei derivati nel loro equivalente di credito nell’ambito dei titoli terzo e quarto anche secondo il metodo del valore di mercato conformemente all’articolo 57 nel tenore del 1° luglio 2016[^148k-2].
 
-<sup>1bis</sup> Il termine transitorio secondo il capoverso 1 è prolungato fino al 31 dicembre 2023.[^148k-3]
+<sup>1bis</sup> Il termine transitorio secondo il capoverso 1 è prolungato fino al 31 dicembre 2024.[^148k-3]
 
 <sup>2</sup> Ciò si applica anche alle banche della categoria 3 di cui all’allegato 3 OBCR che hanno posizioni in derivati non rilevanti. La FINMA emana disposizioni di esecuzione tecniche.
 
 [^148k-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^148k-2]: [RU 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
-[^148k-3]: Introdotto dal n. I 6 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^148k-3]: Introdotto dal n. I 6 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 725](https://fedlex.data.admin.ch/eli/oc/2023/725)).
 
 #### Art. 148l
 
