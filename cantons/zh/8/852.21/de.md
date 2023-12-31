@@ -4,11 +4,11 @@ number: "852.21"
 title: Kinder- und Jugendheimverordnung (KJV)
 short: KJV
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2025-01-01
 adopted: 2021-10-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_21-2021_10_06-2022_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_21-2021_10_06-2022_01_01-123.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ Leistungsbeziehende: Kinder, Jugendliche und junge Erwachsene, die eine ergänze
 
 **1**
 
-- 1\. 1. 23 - 119 Leistungserbringende mit Anbietende von ergänzenden Hilfen Leistungsvereinbarung (LV): zur Erziehung, die Leistungen gemäss dem Kinder- und Jugendheimgesetz im Rahmen einer Leistungsvereinbarung mit dem Amt erbringen.
+- 1\. 1. 24 - 123 Leistungserbringende mit Anbietende von ergänzenden Hilfen Leistungsvereinbarung (LV): zur Erziehung, die Leistungen gemäss dem Kinder- und Jugendheimgesetz im Rahmen einer Leistungsvereinbarung mit dem Amt erbringen.
 
 Leistungserbringende Anbietende von ergänzenden Hilfen ohne LV: zur Erziehung, die Leistungen gemäss dem Kinder- und Jugendheimgesetz ohne LV mit dem Amt erbringen.
 
@@ -158,7 +158,7 @@ pädagogische Familienhilfe
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 - d. Entscheidungen, die einen wesentlichen Einfluss auf das Leben der Leistungsbeziehenden haben, sowie deren Meinung dazu.
 
@@ -258,7 +258,7 @@ Die Anbietenden bestätigen dem Amt die Anstellung des gemäss § 18 erforderlic
 
 **5**
 
-- 1\. 1. 23 - 119 § 20. Drei Viertel des Personalbestands gemäss § 19 müssen ausgebildete Betreuungspersonen sein. Die Anbietenden bestätigen dem Amt, dass diese Anforderung erfüllt ist.
+- 1\. 1. 24 - 123 § 20. Drei Viertel des Personalbestands gemäss § 19 müssen ausgebildete Betreuungspersonen sein. Die Anbietenden bestätigen dem Amt, dass diese Anforderung erfüllt ist.
 
 #### § 21
 
@@ -350,7 +350,7 @@ Ausländische Ausbildungen müssen von der zuständigen eidgenössischen oder ka
 
 **7**
 
-- 1\. 1. 23 - 119 § 25. Mit dem Bewilligungsgesuch bestätigen die Anbietenden, dass sie für alle im Heimpflegeangebot tätigen Personen vor Tätigkeitsaufnahme und später mindestens alle vier Jahre die folgenden Auszüge aus dem Strafregister überprüfen:
+- 1\. 1. 24 - 123 § 25. Mit dem Bewilligungsgesuch bestätigen die Anbietenden, dass sie für alle im Heimpflegeangebot tätigen Personen vor Tätigkeitsaufnahme und später mindestens alle vier Jahre die folgenden Auszüge aus dem Strafregister überprüfen:
 
 **Persönliche Eignung**
 
@@ -436,7 +436,7 @@ Die Gebühren betragen:
 
 **9**
 
-- 1\. 1. 23 - 119 § 32. Als beitragsberechtigt gelten Leistungserbringende mit LV. Das Amt schliesst mit Anbietenden ergänzender Hilfen zur Erziehung eine LV ab aufgrund
+- 1\. 1. 24 - 123 § 32. Als beitragsberechtigt gelten Leistungserbringende mit LV. Das Amt schliesst mit Anbietenden ergänzender Hilfen zur Erziehung eine LV ab aufgrund
 
 **Beitragsberechtigung und LV**
 
@@ -452,9 +452,7 @@ Die Gebühren betragen:
 
 <sup>1</sup> Für die Leistungen gelten folgende Tarife:
 
-a.<sup>8</sup> Fr. 155 pro Stunde für sozialpädagogische Familienhilfe und Dienstleistungsangebote in der Familienpflege,
-
-- b. Fr. 75 pro Tag und leistungsbeziehende Person für Familienpflege, c.<sup>8</sup> Fr. 145 pro Tag und leistungsbeziehende Person für Fachfamilienpflege.
+a.<sup>8</sup> Fr. 155 pro Stunde für sozialpädagogische Familienhilfe und Dienstleistungsangebote in der Familienpflege, b.<sup>9</sup> Fr. 80 pro Tag und leistungsbeziehende Person für Familienpflege. c.<sup>8</sup> Fr. 145 pro Tag und leistungsbeziehende Person für Fachfamilienpflege.
 
 <sup>2</sup> Bei der Heimpflege werden die anrechenbaren Kosten gemäss §§ 39 und 40 abzüglich der anrechenbaren Erlöse gemäss § 42 abgegolten.
 
@@ -480,9 +478,7 @@ Fachfamilienpflege wird gemäss § 33 Abs. 1 lit. c entschädigt, wenn a. die be
 
 <sup>1</sup> Das Amt richtet den Leistungserbringenden mit LV im Bereich der sozialpädagogischen Familienhilfe und der Dienstleistungsangebote in der Familienpflege für die Reisezeit und die Reisekosten bis zum Aufenthaltsort der Leistungsbeziehenden oder bis zum Wohnsitz von möglichen Pflegeeltern folgende Wegpauschalen aus:<sup>8</sup> a. Fr. 85 bei einer Reisezeit bis 60 Minuten,
 
-- b. Fr. 125 bei einer Reisezeit von mehr als 60 bis 120 Minuten,
-
-- c. Fr. 165 bei einer Reisezeit von mehr als 120 Minuten.
+- b. Fr. 125 bei einer Reisezeit von mehr als 60 bis 120 Minuten, c.<sup>9</sup> Fr. 170 bei einer Reisezeit von mehr als 120 Minuten.
 
 <sup>2</sup> Das Amt entschädigt die Leistungserbringenden mit LV für den Beizug von Dolmetscherinnen und Dolmetschern, soweit dieser für die Leistungserbringung notwendig ist. Die Entschädigung erfolgt gemäss der Sprachdienstleistungsverordnung vom 19. Dezember 2018 / 7. Januar 2019<sup>4</sup>, wenn die Dolmetscherinnen und Dolmetscher a. ein von der Schweizerischen Interessengemeinschaft für interkulturelles Dolmetschen und Vermitteln (Interpret) verliehenes Zertifikat besitzen,
 
@@ -518,7 +514,7 @@ Die Tarife gemäss §§ 33 Abs. 1 lit. a–c und 35 Abs. 1 beruhen auf dem Lande
 
 **11**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 ### C. Anrechnung von Kosten und Erlösen im Bereich der Heimpflege
 
@@ -607,7 +603,7 @@ Zu den Kosten gemäss § 17 KJG gehören a. die den Anbietenden von ergänzenden
 
 **13**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Abrechnung des Rechnungsjahres erfolgt bis 30. Juni des Folgejahres. Für die Berechnung der Gemeindeanteile ist der Einwohnerbestand massgebend, den das Statistische Amt per 31. Dezember des Vorjahres erhoben hat.
 
@@ -689,7 +685,7 @@ Zu den Kosten gemäss § 17 KJG gehören a. die den Anbietenden von ergänzenden
 
 **15**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Für Projektänderungen während der Ausführung ist ein Gesuch vor Beginn der entsprechenden Arbeiten zu stellen. Mit diesen darf erst nach Vorliegen der Genehmigung begonnen werden.
 
@@ -775,7 +771,7 @@ Werden Bauten und Anschaffungen nicht ausschliesslich von Leistungsbeziehenden g
 
 **17**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> In Abweichung von der Frist gemäss Abs. 1 kann ein Antrag um Kostenübernahme eingereicht werden a. beim Bezug von Familien- und Heimpflege bei besonderer Dringlichkeit bis 20 Tage nach Beginn des Leistungsbezugs,
 
@@ -857,7 +853,7 @@ Das Amt stellt den Entscheid über die Kostenübernahme zu:
 
 **19**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 - c. den minderjährigen Leistungsbeziehenden ab vollendetem 14. Altersjahr,
 
@@ -985,7 +981,7 @@ Ziffer Raumbezeichnung
 
 **23**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 - 4\. Allgemeine Räume
 
@@ -1031,7 +1027,7 @@ Ziffer Raumbezeichnung
 
 **25**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 ### Anhang 2
 
@@ -1111,7 +1107,7 @@ Aufwand anrechenbar.
 
 **27**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 ## Weitere Fussnoten
 
@@ -1122,4 +1118,5 @@ Aufwand anrechenbar.
 - [5] LS 412.100.
 - [6] LS 852.2.
 - [7] SR 211.222.338.
-- [8] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 11. Oktober 2022 (OS 77, 554; ABl 2022-10-14). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 21
+- [8] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 11. Oktober 2022 (OS 77, 554; ABl 2022-10-14). In Kraft seit 1. Januar 2023.
+- [9] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 16. Oktober 2023 (OS 78, 509; ABl 2023-10-20). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 21
