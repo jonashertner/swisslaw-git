@@ -4,13 +4,12 @@ number: IX D/633/2
 title: Verordnung zum kantonalen Tierschutz- und Tierseuchengesetz
 short: "Veterinärverordnung, VetV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-24
+version: 2024-01-01
+version_adopted: 2023-11-28
 adopted: 2013-09-17
 in_force: 2014-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-D.633.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2407/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2407/pdf_file"
 
 (Veterinärverordnung, VetV)
 
-Vom 17.09.2013 (Stand 01.01.2023)
+Vom 17.09.2013 (Stand 01.01.2024)
 
 Der Regierungsrat,
 
@@ -220,10 +219,10 @@ verordnet:
 - d. Staffordshire Bull Terrier;
 - e. Rottweiler;
 - f. Dobermann;
-- g. Hovawart;
+- g. …
 - h. Dogo Argentino;
 - i. Cane Corso;
-- j. Rhodesian Ridgeback;
+- j. …
 - k. Deutscher Schäferhund;
 - l. Belgischer Schäferhund;
 - m. Mischlinge dieser Rassen.
@@ -314,7 +313,7 @@ verordnet:
 <sup>1</sup> Die Leinen- und Maulkorbpflicht gemäss Artikel 31 Absatz 2 des Gesetzes entfällt, wenn die auswärtigen Halter oder Halterinnen:
 
 - a. von Hunden gemäss Artikel 19 Buchstaben a–f sowie Mischlingen mit Anteilen der betreffenden Rassen über eine Erlaubnis des kantonstierärztlichen Dienstes zum freien Ausführen verfügen; eine solche Erlaubnis wird Haltern und Halterinnen erteilt, welche die persönlichen Voraussetzungen gemäss Artikel 21 Absatz 2 erfüllen und eine Prüfung gemäss Artikel 24 bestanden haben oder über eine Halterbewilligung eines andern Kantons verfügen; zur Gesuchstellung sind die Unterlagen gemäss Artikel 23 einzureichen;
-- b. von Hunden gemäss Artikel 19 Buchstaben g–l und deren Mischlingen eine Prüfung gemäss Artikel 24 bestanden haben oder über eine Halterbewilligung eines anderen Kantons verfügen.
+- b. von Hunden gemäss Artikel 19 Buchstaben h–l und deren Mischlingen eine Prüfung gemäss Artikel 24 bestanden haben oder über eine Halterbewilligung eines anderen Kantons verfügen.
 
 <sup>2</sup> Die entsprechenden Nachweise sind stets mitzuführen und auf Verlangen den zur Kontrolle befugten Personen vorzuweisen.
 
@@ -366,12 +365,7 @@ verordnet:
 
 <sup>1</sup> Die von den Hundehaltern oder Hundehalterinnen jährlich zu entrichtende Taxe beträgt 55 Franken pro Hund ab dem sechsten Lebensmonat.
 
-<sup>2</sup> Personen, die Rennschlittenhunde zur eigenen Bestreitung von Rennen halten, und Züchter oder Züchterinnen von Rassehunden können anstelle der Einzeltaxe eine Gruppentaxe (Zwingerpauschale) entrichten.
-
-<sup>3</sup> Die Zwingerpauschale beträgt jährlich:
-
-- a. für sechs bis elf Hunde — 300 Franken;
-- b. ab zwölf Hunden — 500 Franken.
+<sup>2–3</sup> …
 
 <sup>4</sup> Die Einwohnerämter besorgen den Einzug.
 
@@ -391,16 +385,16 @@ verordnet:
 
 <sup>1</sup> Von Hundetaxe und Zuschlag befreit sind:
 
-- a. aktive Blindenführhunde;
+- a. sich in Ausbildung befindende sowie ausgebildete Blindenführhunde mit einer Bescheinigung einer anerkannten Blindenführerhundeausbildungsstätte;
 - b. Therapiehunde, die regelmässig im Einsatz sind und eine aktuelle Ausbildung des Vereins Therapiehunde Schweiz (VTHS) aufweisen;
-- c. Diensthunde der Polizei mit einer Bescheinigung des Polizeikommandos;
+- c. sich in Ausbildung befindende sowie ausgebildete Diensthunde der Polizei mit einer Bescheinigung des Polizeikommandos;
 - d. aktive Katastrophen- und Flächensuchhunde mit einem gültigen Ausweis des Schweizerischen Vereins für Katastrophenhunde (SVKA) über die Einsatzfähigkeit;
 - e. Lawinenhunde und Geländesuchhunde mit einer gültigen Bescheinigung der Alpinen Rettung Schweiz oder einem gültigen Nachweis über eine in der Stufe III mit Ausbildungskennzeichen absolvierten Prüfung in der Klasse der Lawinenhunde gemäss Leistungsheft der SKG, Leistungsklassen III gemäss Vielseitigkeitsprüfung für Gebrauchshunde (VPG) beziehungsweise der FCI (IPO);
-- f. Hunde der Wildhüter zur Ausübung ihres Berufes;
+- f. sich in Ausbildung befindende sowie ausgebildete Diensthunde der Wildhut mit einer Bescheinigung der Abteilung Jagd und Fischerei;
 - g. geprüfte Schweisshunde gemäss jährlicher Liste der Jagdverwaltung, die dem jagdlichen Pikettdienst zur Nachsuche zur Verfügung stehen;
 - h. nach SKG-Normen geprüfte Gebrauchshunde der Leistungsklassen III gemäss VPG beziehungsweise IPO, sofern sie jährlich die Prüfung bestehen und im Bedarfsfall dem Kanton zur Verfügung stehen;
 - i. Diensthunde der Armee mit einem Verbal für Militärhunde sowie einer Militärhundemarke;
-- j. ausgebildete Herdenschutzhunde.
+- j. sich in Ausbildung befindende sowie ausgebildete Herdenschutzhunde.
 
 <sup>2</sup> Der Kantonstierarzt oder die Kantonstierärztin entscheidet über entsprechende Gesuche.
 
