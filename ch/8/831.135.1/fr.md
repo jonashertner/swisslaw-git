@@ -4,11 +4,11 @@ title: "Ordonnance du 28 août 1978 concernant la remise de moyens auxiliaires p
 short: OMAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387"
 language: fr
-version: 2018-07-01
+version: 2024-01-01
 adopted: 1978-08-28
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387/20180701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1387_1387_1387-20180701-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20180701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1387_1387_1387-20240101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20180701/fr"
 
 (OMAV)
 
-du 28 août 1978 (État le 1<sup>er</sup> juillet 2018)
+du 28 août 1978 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral de l’intérieur,
 
-vu l’art. 66<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance‑vieillesse et survivants (RAVS)[^ingress-1],
+vu l’art. 66<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^ingress-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 1
 
@@ -33,7 +33,7 @@ arrête:
 
 La présente ordonnance définit le droit des assurés à l’octroi de moyens auxiliaires, conformément à l’art. 43<sup>ter</sup> de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^1-1].
 
-[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 2
 
@@ -48,21 +48,22 @@ La présente ordonnance définit le droit des assurés à l’octroi de moyens a
 
 #### Art. 3
 
-**Naissance et extinction du droit aux prestations**
+**Naissance et extinction du droit aux prestations**[^3-1]
 
-Le droit aux prestations prend naissance au plus tôt le premier jour du mois pour lequel une rente de vieillesse est versée, mais au plus tard à l’âge de la retraite fixé à l’art. 21, al. 1, LAVS[^3-1].[^3-2] Il s’éteint lorsque les conditions dont dépend l’octroi ne sont plus remplies.
+Le droit aux prestations prend naissance au plus tôt le premier jour du mois pour lequel une rente de vieillesse entière est versée, mais au plus tard à l’âge de référence fixé à l’art. 21, al. 1, LAVS[^3-2]. Il s’éteint lorsque les conditions dont dépend l’octroi ne sont plus remplies.
 
-[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3718](https://fedlex.data.admin.ch/eli/oc/2002/573)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 507](https://fedlex.data.admin.ch/eli/oc/2023/507)).
+[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 4
 
 **Droit aux prestations lorsque des moyens auxiliaires ont déjà été accordés par l’AI**[^4-1]
 
-Les bénéficiaires d’une rente de vieillesse domiciliés en Suisse qui bénéficient de moyens auxiliaires ou de contributions aux frais au sens des art. 21 et 21<sup>bis</sup> de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^4-2] au moment où ils peuvent prétendre une rente AVS, continuent d’avoir droit à ces prestations dans la même mesure, tant que les conditions qui présidaient à leur octroi sont remplies et autant que la présente ordonnance n’en dispose pas autrement. Pour le reste, les dispositions de l’assurance-invalidité relatives aux moyens auxiliaires sont applicables par analogie.
+Les bénéficiaires d’une rente de vieillesse domiciliés en Suisse qui bénéficient de moyens auxiliaires ou de contributions aux frais au sens des art. 21 et 21<sup>ter</sup> [^4-2] de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^4-3] au moment où ils peuvent prétendre une rente AVS, continuent d’avoir droit à ces prestations dans la même mesure, tant que les conditions qui présidaient à leur octroi sont remplies et autant que la présente ordonnance n’en dispose pas autrement. Pour le reste, les dispositions de l’assurance-invalidité relatives aux moyens auxiliaires sont applicables par analogie.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 sept. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 (RO **1982** **1930**).
-[^4-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2012 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^4-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 5
 
@@ -85,9 +86,9 @@ L’Office fédéral des assurances sociales peut conclure avec les institutions
 <sup>4</sup> …[^6-6]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 nov. 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 2007](https://fedlex.data.admin.ch/eli/oc/1985/2007_2007_2007)).
-[^6-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^6-2]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^6-3]: Abrogé par le ch. I de l’O du DFI du 20 déc. 2006, avec effet depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)).
-[^6-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^6-4]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^6-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3718](https://fedlex.data.admin.ch/eli/oc/2002/573)).
 [^6-6]: Abrogé par le ch. I de l’O du DFI du 25 mai 1992, avec effet au 1<sup>er</sup> juil. 1992 ([RO 1992 1249](https://fedlex.data.admin.ch/eli/oc/1992/1249_1249_1249)).
 
@@ -111,7 +112,7 @@ L’Office fédéral des assurances sociales peut conclure avec les institutions
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1979.
 
-<sup>2</sup> à <sup>4</sup> …[^9-1]
+<sup>2 à <sup>4</sup></sup> …[^9-1]
 
 [^9-1]: <sup>Abrogés par le ch. I de l’O du DFI du 25 mai 1992</sup>, avec effet au 1<sup>er</sup> juil. 1992 <sup>(</sup>[<sup>RO</sup> <sup>1992</sup> <sup>1249</sup>](https://fedlex.data.admin.ch/eli/oc/1992/1249_1249_1249)<sup>).</sup>
 
@@ -123,7 +124,7 @@ L’Office fédéral des assurances sociales peut conclure avec les institutions
 
 La présente modification s’applique aux offices AI et aux caisses de compensation concernés dès l’entrée en vigueur de la loi cantonale d’introduction (disp. trans. de la modification de la LAI du 22 mars 1991[^u1-2], en vigueur dès le 1<sup>er</sup> janv. 1992).
 
-[^u1-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)in fine
+[^u1-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)in fine
 
 ## Disposition transitoire de la modification du 20 décembre 2006
 
@@ -155,16 +156,16 @@ Annexe[^t-1]
 
 ## Liste des moyens auxiliaires
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 9 oct. 1992 ([RO 1992 2402](https://fedlex.data.admin.ch/eli/oc/1992/2402_2402_2402)). Mise à jour selon le ch. I des O du DFI du 6 nov. 1998 ([RO 1998 3023](https://fedlex.data.admin.ch/eli/oc/1998/3023_3023_3023)), du 16 déc. 1999 ([RO 2000 615](https://fedlex.data.admin.ch/eli/oc/2000/104)), du 20 déc. 2006 ([RO 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)), et du 14 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2245](https://fedlex.data.admin.ch/eli/oc/2018/314)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 9 oct. 1992 ([RO 1992 2402](https://fedlex.data.admin.ch/eli/oc/1992/2402_2402_2402)). Mise à jour par le ch. I des O du DFI du 6 nov. 1998 ([RO 1998 3023](https://fedlex.data.admin.ch/eli/oc/1998/3023_3023_3023)), du 20 déc. 2006 ([RO 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)), du 14 mai 2018 2018 ([RO 2018 2245](https://fedlex.data.admin.ch/eli/oc/2018/314)) et du 14 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 676](https://fedlex.data.admin.ch/eli/oc/2023/676)).
 
 - **1** **…**
 - **2** **…**
 - **4** **Chaussures**
-- 4\.51 *Chaussures orthopédiques sur mesure et chaussures orthopédiques de sé**rie, frais de fabrication inclus*
-- Lorsqu’elles sont adaptées individuellement à une forme ou à une fonction pathologique du pied ou qu’elles remplacent un appareil orthopédique. La prestation de l’assurance peut être revendiquée au maximum tous les deux ans, à moins que des raisons médicales ne justifient un nouvel achat de chaussures orthopédiques sur mesure avant l’expiration de ce délai.
+- 4\.51 *Chaussures orthopédiques sur mesure et chaussures orthopédiques de série, frais de fabrication inclus*
+- Lorsqu’elles sont adaptées individuellement à une forme ou à une fonction pathologique du pied ou qu’elles remplacent un appareil orthopédique. La prestation de l’assurance peut être revendiquée une fois par année civile, à moins que des raisons médicales ne justifient un nouvel achat avant l’expiration de ce délai.
 - **5** **Moyens auxiliaires pour le crâne et la face**
 - 5\.51 …
-- 5\.52 *Epithèses faciales*
+- 5\.52 *Épithèses faciales*
 - La prestation de l’assurance peut être revendiquée au maximum tous les deux ans.
 - 5\.56 *Perruques*
 - Lorsque l’absence de chevelure modifie l’apparence extérieure de l’assuré. L’assurance participe aux coûts à raison de 1000 francs maximum par année civile.
@@ -188,4 +189,4 @@ Annexe[^t-1]
 - 11\.57 *Lunettes-loupes*
 - Destinées aux assurés gravement handicapés de la vue qui ne peuvent lire que par ce moyen. L’assurance participe aux coûts à raison de 590 francs au plus pour des lunettes loupes monoculaires, de 900 francs au plus pour des lunettes loupes binoculaires, de 1334 francs au plus pour des téléloupes monoculaires et de 2048 francs au plus pour des téléloupes binoculaires. La prestation peut être revendiquée au maximum tous les cinq ans, à moins que des raisons médicales ne justifient un nouvel achat avant l’expiration de ce délai.
 
-[^annexu1-lvlu1-1]: [RS 831.232.51](https://fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664)
+[^annexu1-lvlu1-1]: [RS 831.232.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10065)

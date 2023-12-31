@@ -4,11 +4,11 @@ title: Verordnung vom 28. August 1978 über die Abgabe von Hilfsmitteln durch di
 short: HVA
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387"
 language: de
-version: 2018-07-01
+version: 2024-01-01
 adopted: 1978-08-28
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387/20180701/de/xml/fedlex-data-admin-ch-eli-cc-1978-1387_1387_1387-20180701-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20180701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1978-1387_1387_1387-20240101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20180701/de"
 
 (HVA)
 
-vom 28. August 1978 (Stand am 1. Juli 2018)
+vom 28. August 1978 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Departement des Innern,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 66<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^ingress-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 1
 
@@ -33,7 +33,7 @@ verordnet:
 
 Die Verordnung umschreibt den Anspruch auf Hilfsmittel nach Artikel 43<sup>ter</sup> des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG)[^1-1].
 
-[^1-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 2
 
@@ -48,21 +48,22 @@ Die Verordnung umschreibt den Anspruch auf Hilfsmittel nach Artikel 43<sup>ter</
 
 #### Art. 3
 
-**Beginn und Ende des Anspruchs**
+**Beginn und Ende des Anspruchs**[^3-1]
 
-Der Anspruch entsteht frühestens am ersten Tag des Monats, für welchen eine Altersrente bezogen wird, spätestens bei Erreichen des Rentenalters nach Artikel 21 Absatz 1 AHVG[^3-1].[^3-2] Er erlischt, wenn die Anspruchsvoraussetzungen nicht mehr erfüllt sind.
+Der Anspruch entsteht frühestens am ersten Tag des Monats, für den eine ganze Altersrente bezogen wird, spätestens bei Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^3-2]. Er erlischt, wenn die Anspruchsvoraussetzungen nicht mehr erfüllt sind.
 
-[^3-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-2]: Fassung gemäss Ziff. I der V des EDI vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3718](https://fedlex.data.admin.ch/eli/oc/2002/573)).
+[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 507](https://fedlex.data.admin.ch/eli/oc/2023/507)).
+[^3-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 4
 
 **Anspruch bei vorangehender Abgabe von Hilfsmitteln durch die IV**[^4-1]
 
-Für in der Schweiz wohnhafte Bezüger von Altersrenten, die bis zum Entstehen des Anspruchs auf eine Altersrente Hilfsmittel oder Ersatzleistungen nach den Artikeln 21 oder 21<sup>bis</sup> des Bundesgesetzes über die Invalidenversicherung (IVG)[^4-2] erhalten haben, bleibt der Anspruch auf diese Leistungen in Art und Umfang bestehen, solange die massgebenden Voraussetzungen weiterhin erfüllt sind und soweit die vorliegende Verordnung nichts anderes bestimmt. Im übrigen gelten die entsprechenden Bestimmungen der Invalidenversicherung sinngemäss.
+Für in der Schweiz wohnhafte Bezüger von Altersrenten, die bis zum Entstehen des Anspruchs auf eine Altersrente Hilfsmittel oder Ersatzleistungen nach den Artikeln 21 oder 21<sup>ter</sup> [^4-2] des Bundesgesetzes über die Invalidenversicherung (IVG)[^4-3] erhalten haben, bleibt der Anspruch auf diese Leistungen in Art und Umfang bestehen, solange die massgebenden Voraussetzungen weiterhin erfüllt sind und soweit die vorliegende Verordnung nichts anderes bestimmt. Im übrigen gelten die entsprechenden Bestimmungen der Invalidenversicherung sinngemäss.
 
 [^4-1]: Fassung gemäss Ziff. I der V des EDI vom 21. Sept. 1982, in Kraft seit 1. Jan. 1983 ([AS 1982 1930](https://fedlex.data.admin.ch/eli/oc/1982/1930_1930_1930)).
-[^4-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2012 angepasst.
+[^4-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 5
 
@@ -85,9 +86,9 @@ Das Bundesamt für Sozialversicherungen kann mit Institutionen der Altershilfe o
 <sup>4</sup> …[^6-6]
 
 [^6-1]: Fassung gemäss Ziff. I der V des EDI vom 13. Nov. 1985, in Kraft seit 1. Jan. 1986 ([AS 1985 2007](https://fedlex.data.admin.ch/eli/oc/1985/2007_2007_2007)).
-[^6-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^6-2]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^6-3]: Aufgehoben durch Ziff. I der V des EDI vom 20. Dez. 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)).
-[^6-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^6-4]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^6-5]: Fassung gemäss Ziff. I der V des EDI vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3718](https://fedlex.data.admin.ch/eli/oc/2002/573)).
 [^6-6]: Aufgehoben durch Ziff. I der V des EDI vom 25. Mai 1992, mit Wirkung seit 1. Juli 1992 ([AS 1992 1249](https://fedlex.data.admin.ch/eli/oc/1992/1249_1249_1249)).
 
@@ -123,7 +124,7 @@ Das Bundesamt für Sozialversicherungen kann mit Institutionen der Altershilfe o
 
 Diese Änderung gilt, soweit sie die einzelnen IV-Stellen und die Ausgleichskassen betrifft, ab Inkrafttreten des kantonalen Einführungsgesetzes (SchlB der Änderung des IVG[^u1-2] vom 22. März 1991, in Kraft seit 1. Jan. 1992).
 
-[^u1-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^u1-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 ## Übergangsbestimmung zur Änderung vom 20. Dezember 2006
 
@@ -153,13 +154,15 @@ Anhang[^t-1]
 
 ## Liste der Hilfsmittel
 
-[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 9. Okt. 1992 ([AS 1992 2402](https://fedlex.data.admin.ch/eli/oc/1992/2402_2402_2402)). Bereinigt durch Ziff. I der V des EDI vom 6. Nov. 1998 ([AS 1998 3023](https://fedlex.data.admin.ch/eli/oc/1998/3023_3023_3023)), vom 16. Dez. 1999, ([AS 2000 615](https://fedlex.data.admin.ch/eli/oc/2000/104)), vom 20. Dez. 2006 ([AS 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)) und vom 14. Mai 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2245](https://fedlex.data.admin.ch/eli/oc/2018/314)).
+[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 9. Okt. 1992 ([AS 1992 2402](https://fedlex.data.admin.ch/eli/oc/1992/2402_2402_2402)). Bereinigt durch Ziff. I der V des EDI vom 6. Nov. 1998 ([AS 1998 3023](https://fedlex.data.admin.ch/eli/oc/1998/3023_3023_3023)), vom 20. Dez. 2006 ([AS 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)), vom 14. Mai 2018 ([AS 2018 2245](https://fedlex.data.admin.ch/eli/oc/2018/314)), und vom 14. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 676](https://fedlex.data.admin.ch/eli/oc/2023/676)).
 
 - **1** **…**
 - **2** **…**
 - **4** **Schuhwerk**
-- 4\.51 *Orthopädische Massschuhe und orthopädische Serienschuhe* *einschliesslich* *Fertigungskosten,*
-- sofern sie einer pathologischen Fussform oder Fussfunktion individuell angepasst sind oder einen orthopädischen Apparat ersetzen. Die Leistung der Versicherung kann höchstens alle zwei Jahre beansprucht werden. Ein früherer Ersatz ist auf ärztliche Begründung hin möglich.
+- 4\.51 *Orthopädische Massschuhe und orthopädische Serienschuhe einschliesslich Fertigungskosten**,*
+
+sofern sie einer pathologischen Fussform oder Fussfunktion individuell angepasst sind oder einen orthopädischen Apparat ersetzen. Die Leistung der Versicherung kann einmal pro Kalenderjahr beansprucht werden. Ein früherer Ersatz ist auf ärztliche Begründung hin möglich.
+
 - **5** **Hilfsmittel für den Kopfbereich**
 
 5.51 …
@@ -178,7 +181,7 @@ falls die äussere Erscheinung der Versicherten durch den fehlenden Haarschmuck 
 - Die Pauschale beträgt 75 Prozent der jeweiligen Pauschale der Invalidenversicherung (IV) gemäss Ziffer 5.07 des Anhangs der Verordnung des EDI vom 29. November 1976[^annexu1-lvlu1-1] über die Abgabe von Hilfsmitteln durch die IV (HVI). Der Anspruch beschränkt sich auf die Hörgeräteversorgung; auf weitere Kostenbeteiligungen durch die Versicherung besteht kein Anspruch.
 - Die Pauschale wird nur für Hörgeräte ausgerichtet, die den Anforderungen der Versicherung entsprechen.
 - Die Pauschale wird gegen Vorlage des gesamten Rechnungsbetrages und der entsprechenden Belege ausgerichtet.
-- 5\.57.1 *Besondere Bestimmungen für implantierte und knochenverankerte* *Hörgeräte* *sowie Mittelohrimplantate*
+- 5\.57.1 *Besondere Bestimmungen für implantierte und knochenverankerte Hörgeräte sowie Mittelohrimplantate*
 - Die AHV leistet 75 Prozent des Betrages der IV an die externen Komponenten von implantierten Hörgeräten, von knochenverankerten Hörgeräten sowie von Mittelohrimplantaten.
 - Die AHV leistet an externe Komponenten von knochenverankerten Hörgeräte sowie von Mittelohrimplantaten zusätzlich eine Dienstleistungspauschale für die Anpassung und Nachbetreuung. Diese Pauschale beträgt 75 Prozent der jeweiligen IV-Pauschale gemäss Ziffer 5.07.1 des Anhangs der HVI.
 - Die Dienstleistungspauschale wird gegen Vorlage des gesamten Rechnungsbetrages und der entsprechenden Belege ausgerichtet.
@@ -192,11 +195,12 @@ Die Leistung der Versicherung kann höchstens alle fünf Jahre beansprucht werde
 
 9.51 *Rollstühle ohne motorischen Antrieb,*
 
-- sofern sie voraussichtlich dauernd und ständig verwendet werden. Der Beitrag der Versicherung beträgt 900 Franken und kann höchstens alle fünf Jahre beansprucht werden. Bei invaliditätsbedingt notwendiger Spezialversorgung beträgt die Kostenbeteiligung 1840 Franken, bei zusätzlicher Notwendigkeit eines Antidekubituskissens 2200 Franken. Die Spezialversorgungen haben durch geeignete, vom Bundesamt für Sozialversicherungen anerkannte Stellen zu erfolgen.
+sofern sie voraussichtlich dauernd und ständig verwendet werden. Der Beitrag der Versicherung beträgt 900 Franken und kann höchstens alle fünf Jahre beansprucht werden. Bei invaliditätsbedingt notwendiger Spezialversorgung beträgt die Kostenbeteiligung 1840 Franken, bei zusätzlicher Notwendigkeit eines Antidekubituskissens 2200 Franken. Die Spezialversorgungen haben durch geeignete, vom Bundesamt für Sozialversicherungen anerkannte Stellen zu erfolgen.
+
 - **11** **Hilfsmittel für Sehbehinderte**
 
 11.57 *Lupenbrillen,*
 
-- sofern hochgradig Sehschwache nur mit diesem Behelf lesen können. Die Kostenbeteiligung der Versicherung beträgt höchstens 590 Franken für monokulare Lupenbrillen, 900 Franken für binokulare Lupenbrillen, 1334 Franken für monokulare Fernrohrlupenbrillen und 2048 Franken für binokulare Fernrohrlupenbrillen und kann höchstens alle fünf Jahre beansprucht werden. Ein früherer Ersatz ist auf ärztliche Begründung hin möglich.
+sofern hochgradig Sehschwache nur mit diesem Behelf lesen können. Die Kostenbeteiligung der Versicherung beträgt höchstens 590 Franken für monokulare Lupenbrillen, 900 Franken für binokulare Lupenbrillen, 1334 Franken für monokulare Fernrohrlupenbrillen und 2048 Franken für binokulare Fernrohrlupenbrillen und kann höchstens alle fünf Jahre beansprucht werden. Ein früherer Ersatz ist auf ärztliche Begründung hin möglich.
 
-[^annexu1-lvlu1-1]: [SR 831.232.51](https://fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664)
+[^annexu1-lvlu1-1]: [SR 831.232.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10065)

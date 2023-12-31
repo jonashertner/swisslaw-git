@@ -4,11 +4,11 @@ title: "Ordinanza del 28 agosto 1978 sulla consegna di mezzi ausiliari da parte 
 short: OMAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387"
 language: it
-version: 2018-07-01
+version: 2024-01-01
 adopted: 1978-08-28
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387/20180701/it/xml/fedlex-data-admin-ch-eli-cc-1978-1387_1387_1387-20180701-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20180701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1978-1387_1387_1387-20240101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20180701/it"
 
 (OMAV)
 
-del 28 agosto 1978 (Stato 1° luglio 2018)
+del 28 agosto 1978 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale dell’interno,
 
@@ -25,7 +25,7 @@ visto l’articolo 66<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^ingres
 
 ordina:
 
-[^ingress-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^ingress-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 1
 
@@ -33,7 +33,7 @@ ordina:
 
 La presente ordinanza definisce il diritto degli assicurati all’assegnazione di mezzi ausiliari conformemente all’articolo 43<sup>ter</sup> della legge federale del 20 dicembre 1946[^1-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS).
 
-[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 2
 
@@ -48,21 +48,22 @@ La presente ordinanza definisce il diritto degli assicurati all’assegnazione d
 
 #### Art. 3
 
-**Inizio e fine del diritto**
+**Inizio e fine del diritto**[^3-1]
 
-Il diritto alle prestazioni inizia al più presto il primo giorno del mese a partire dal quale è percepita una rendita di vecchiaia, al più tardi con il raggiungimento dell’età di pensionamento secondo l’articolo 21 capoverso 1 LAVS[^3-1].[^3-2] Esso si estingue allorché le condizioni non sono più adempite.
+Il diritto alle prestazioni inizia al più presto il primo giorno del mese a partire dal quale è percepita la totalità della rendita di vecchiaia, al più tardi con il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^3-2]. Esso si estingue allorché le condizioni non sono più adempite.
 
-[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-2]: Nuovo testo del per. giusta il n. I dell’O del DFI dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3718](https://fedlex.data.admin.ch/eli/oc/2002/573)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del DFI del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 507](https://fedlex.data.admin.ch/eli/oc/2023/507)).
+[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 4
 
 **Diritto ai mezzi ausiliari nel caso di una precedente consegna tramite l’AI**[^4-1]
 
-I beneficiari di una rendita di vecchiaia domiciliati in svizzera, assegnatari di mezzi ausiliari o di sussidi per le spese ai sensi degli articoli 21 e 21<sup>bis</sup> della legge del 19 giugno 1959[^4-2] sull’assicurazione per l’invalidità (LAI) nel momento in cui nasce il diritto a una rendita AVS continuano ad averne diritto nella medesima misura fintanto che le condizioni determinanti sono adempite e salvo disposizioni contrarie della presente ordinanza. Per il resto, le corrispondenti disposizioni dell’assicurazione per l’invalidità sono applicabili per analogia.
+I beneficiari di una rendita di vecchiaia domiciliati in svizzera, assegnatari di mezzi ausiliari o di sussidi per le spese ai sensi degli articoli 21 e 21<sup>ter</sup> [^4-2] della legge del 19 giugno 1959[^4-3] sull’assicurazione per l’invalidità (LAI) nel momento in cui nasce il diritto a una rendita AVS continuano ad averne diritto nella medesima misura fintanto che le condizioni determinanti sono adempite e salvo disposizioni contrarie della presente ordinanza. Per il resto, le corrispondenti disposizioni dell’assicurazione per l’invalidità sono applicabili per analogia.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 21 set. 1982, in vigore dal 1° gen. 1983 (RU **1981** 1930).
-[^4-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2012.
+[^4-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 5
 
@@ -85,9 +86,9 @@ L’Ufficio federale delle assicurazioni sociali può concludere convenzioni con
 <sup>4</sup> ...[^6-6]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 nov. 1985, in vigore dal 1° gen. 1986 ([RU 1985 2007](https://fedlex.data.admin.ch/eli/oc/1985/2007_2007_2007)).
-[^6-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^6-2]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^6-3]: Abrogato dal n. I dell’O del DFI del 20 dic. 2006, con effetto dal 1° gen. 2007 ([RU 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)).
-[^6-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^6-4]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^6-5]: Nuovo testo giusta il n. I dell’O del DFI dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3718](https://fedlex.data.admin.ch/eli/oc/2002/573)).
 [^6-6]: Abrogato dal n. I dell’O del DFI del 25 mag. 1992, con effetto dal 1° lug. 1992 ([RU 1992 1249](https://fedlex.data.admin.ch/eli/oc/1992/1249_1249_1249)).
 
@@ -111,7 +112,7 @@ L’Ufficio federale delle assicurazioni sociali può concludere convenzioni con
 
 <sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 1979.
 
-<sup>2</sup> a <sup>4</sup> ...[^9-1]
+<sup>2 a <sup>4</sup></sup> ...[^9-1]
 
 [^9-1]: Abrogati dal n. I dell’O del DFI del 25 mag. 1992, con effetto dal 1° lug. 1992 ([RU 1992 1249](https://fedlex.data.admin.ch/eli/oc/1992/1249_1249_1249)).
 
@@ -123,7 +124,7 @@ L’Ufficio federale delle assicurazioni sociali può concludere convenzioni con
 
 La modificazione del 25 maggio 1992 si applica a ogni ufficio AI e alle casse di compensazione a decorrere dall’entrata in vigore della legge cantonale d’introduzione (disp. trans. della modifica della LAI del 22 mar. 1991[^u1-2], in vigore dal 1° gen. 1992).
 
-[^u1-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)in fine.
+[^u1-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)in fine.
 
 ## Disposizione transitoria della modifica del 20 dicembre 2006
 
@@ -153,13 +154,13 @@ Allegato[^t-1]
 
 ## Lista dei mezzi ausiliari
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DFI del 9 ott. 1992 (RU **1992** 2403). Aggiornato dai n. I delle O del DFI del 6 nov. 1998 ([RU 1998 3023](https://fedlex.data.admin.ch/eli/oc/1998/3023_3023_3023)), del 16 dic. 1999 ([RU 2000 615](https://fedlex.data.admin.ch/eli/oc/2000/104)), del 20 dic. 2006 ([RU 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)) e del 14 mag. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2245](https://fedlex.data.admin.ch/eli/oc/2018/314)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del DFI del 9 ott. 1992 (RU **1992** 2403). Aggiornato dal n. I delle O del DFI del 6 nov. 1998 ([RU 1998 3023](https://fedlex.data.admin.ch/eli/oc/1998/3023_3023_3023)), del 20 dic. 2006 ([RU 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)), del 14 mag. 2018 ([RU 2018 2245](https://fedlex.data.admin.ch/eli/oc/2018/314)) e del 14 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 676](https://fedlex.data.admin.ch/eli/oc/2024/676)).
 
 - **1** **…**
 - **2** **…**
 - **4** **Calzature**
 - 4\.51 *Scarpe ortopediche su misura e scarpe ortopediche fabbricate in serie inclusi i costi di produzione,*
-- allorché sono adattate individualmente a una forma o a una funzione patologica del piede, oppure sostituiscono un apparecchio ortopedico. La prestazione dell’assicurazione può essere richiesta al massimo ogni due anni, a meno che ragioni mediche giustifichino un nuovo acquisto di scarpe ortopediche su misura prima della scadenza di questo termine.
+- allorché sono adattate individualmente a una forma o a una funzione patologica del piede, oppure sostituiscono un apparecchio ortopedico. La prestazione dell’assicurazione può essere richiesta una volta per anno civile, a meno che ragioni mediche giustifichino un nuovo acquisto prima della scadenza di questo termine.
 - **5** **Mezzi ausiliari per il cranio e la faccia**
 - 5\.51 …
 - 5\.52 *Epitesi della faccia*
@@ -186,4 +187,4 @@ Allegato[^t-1]
 - 11\.57 *Occhiali-lente*
 - Allorché solo con questo ausilio le persone colpite da forte ambliopia riescono a leggere. Il contributo dell’assicurazione ammonta al massimo a 590 franchi per occhiali-lente monoculari, a 900 franchi per occhiali-lente binoculari, a 1334 franchi per occhiali telescopici monoculari e a 2048 franchi per occhiali telescopici binoculari. Il contributo può essere richiesto al massimo ogni cinque anni, a meno che ragioni mediche non giustifichino un nuovo acquisto prima della scadenza di questo termine.
 
-[^annexu1-lvlu1-1]: [RS 831.232.51](https://fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664)
+[^annexu1-lvlu1-1]: [RS 831.232.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10065)
