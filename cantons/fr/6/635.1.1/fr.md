@@ -4,13 +4,13 @@ number: "635.1.1"
 title: Loi sur les droits de mutation et les droits sur les gages immobiliers
 short: LDMG
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-05
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-09-06
 adopted: 1996-05-01
 in_force: 1997-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.1.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7275/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7944/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droits de mutation et droits sur les gages immobiliers – L
 
 (LDMG)
 
-du 01.05.1996 (version entrée en vigueur le 01.01.2022)
+du 01.05.1996 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -234,6 +234,24 @@ Décrète:
 **Transferts immobiliers – Cas particuliers g) Acquisition ou accroissement d'une participation**
 
 <sup>1</sup> Pour l'acquisition ou l'accroissement d'une participation dans une société immobilière, la base de calcul est donnée par la valeur vénale attribuée à l'immeuble en proportion des actions ou des parts sociales acquises.
+
+#### Art. 19a
+
+**Transferts immobiliers – Cas particuliers h) Acquisition d'un premier logement**
+
+<sup>1</sup> En cas d'acquisition de la propriété juridique d'un premier logement destiné à l'habitation principale de l'acquéreur, la base de calcul est réduite de 500'000 francs lorsque le prix global du terrain et de l'ouvrage n'excède pas 1'000'000 francs et de 250'000 francs lorsque le prix global se situe entre 1'000'001 francs et 1'500'000 francs. Si le prix global est supérieur à 1'500'000 francs ou si la base de calcul est donnée par la valeur du terrain uniquement, sans la valeur de la construction, aucune déduction n'est accordée.
+
+L'habitation doit être affectée essentiellement à l'usage personnel de l'acquéreur, d'une manière immédiate et pendant au moins deux ans, sans interruption, à compter du jour où celui-ci y élit domicile.
+
+<sup>2</sup> S'il y a plusieurs acquéreurs et que seul l'un d'eux remplit les conditions prévues à l'alinéa 1, le montant exonéré de 500'000 francs respectivement de 250'000 francs valant pour le logement tout entier est réduit proportionnellement à la part acquise par celui-ci. Il en va de même si l'acquisition porte uniquement sur une part de propriété collective d'un premier logement et que l'acquéreur remplit les conditions énoncées à l'alinéa 1.
+
+Dans tous les cas, une déduction ne peut être admise que pour la première part de propriété collective acquise. Toute acquisition de part supplémentaire, notamment à l'occasion d'un partage du premier logement, ne donne lieu à aucune déduction.
+
+<sup>3</sup> L'acte notarié contient l'attestation de l'acquéreur selon laquelle la condition du premier logement est réalisée et selon laquelle le logement acquis sera utilisé essentiellement et personnellement par celui-ci à des fins d'habitation principale, d'une manière immédiate et pendant au moins deux ans.
+
+<sup>4</sup> Si l'une des conditions énoncées à l'alinéa 1 n'est pas réalisée ou cesse de l'être, l'acquéreur est tenu de l'annoncer dans les trente jours au registre foncier compétent, qui procède au rappel des droits et des centimes additionnels, sauf en cas de décès.
+
+<sup>5</sup> L'application des dispositions pénales est réservée.
 
 #### Art. 20
 
@@ -555,7 +573,11 @@ Décrète:
 
 **Contraventions – Soustraction a) Commission**
 
-<sup>1</sup> Le débiteur qui, intentionnellement ou par négligence, aura fait en sorte qu'une taxation ne soit pas effectuée alors qu'elle aurait dû l'être, notamment en n'annonçant pas dans le délai légal une opération ou la réalisation d'une condition fondant un prélèvement, aura fait en sorte qu'une taxation définitive soit incomplète ou aura obtenu une restitution illégale ou une remise injustifiée est passible d'une amende allant d'une à quatre fois le montant des droits soustraits.
+<sup>1</sup> Est passible d'une amende allant d'une à quatre fois le montant des droits soustraits le débiteur qui, intentionnellement ou par négligence:
+
+- a) aura fait en sorte qu'une taxation ne soit pas effectuée alors qu'elle aurait dû l'être, notamment en n'annonçant pas dans le délai légal une opération ou la réalisation d'une condition fondant un prélèvement;
+- b) aura fait en sorte qu'une taxation définitive soit incomplète;
+- c) aura obtenu une restitution illégale (art. 48), une remise injustifiée (art. 46) ou une réduction indue de la base de calcul (art. 19a).
 
 <sup>2</sup> Lorsque le débiteur annonce spontanément la soustraction, l'amende est en règle générale réduite jusqu'à la moitié des droits soustraits.
 
@@ -678,6 +700,12 @@ Décrète:
 **Droit transitoire relatif à la modification du 16 octobre 2020**
 
 <sup>1</sup> L'article 9 al. 1 let. a1, de même que les articles 16a, 30 al. 2a et 60 al. 3 s'appliquent aux opérations passées avant l'entrée en vigueur de la modification du 16 octobre 2020 de la présente loi et ne faisant pas l'objet d'une taxation entrée en force.
+
+#### Art. 67b
+
+**Droit transitoire relatif à la modification du 6 septembre 2023**
+
+<sup>1</sup> Les modifications introduites par la loi du 6 septembre 2023 (ROF 2023\_072) s'appliquent aux actes donnant lieu au transfert conclus dès le 1<sup>er</sup> janvier 2024.
 
 #### Art. 68
 

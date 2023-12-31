@@ -4,13 +4,13 @@ number: "635.1.1"
 title: Gesetz über die Handänderungs- und Grundpfandrechtssteuern
 short: HGStG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-05
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-09-06
 adopted: 1996-05-01
 in_force: 1997-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/635.1.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7275/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7944/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Handänderungs- und Grundpfandrechtssteuern – G
 
 (HGStG)
 
-vom 01.05.1996 (Fassung in Kraft getreten am 01.01.2022)
+vom 01.05.1996 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -234,6 +234,24 @@ beschliesst:
 **Grundstücksübertragungen – Besondere Fälle g) Erwerb einer Mehrheitsbeteiligung**
 
 <sup>1</sup> Für den Erwerb oder die Vergrösserung einer Beteiligung an einer Immobiliengesellschaft gilt als Bemessungsgrundlage der Verkehrswert der Grundstücke im Verhältnis der erworbenen Aktien oder Gesellschaftsanteile.
+
+#### Art. 19a
+
+**Grundstücksübertragungen – Besondere Fälle h) Ersterwerb von Wohneigentum**
+
+<sup>1</sup> Beim erstmaligen rechtlichen Erwerb von Wohneigentum zur Eigennutzung als Hauptwohnsitz wird die Bemessungsgrundlage bei einem Gesamtpreis für das Land und das Bauwerk von bis zu 1'000'000 Franken um 500'000 Franken reduziert. Bei einem Gesamtpreis von 1'000'001–1'500'000 Franken wird die Bemessungsgrundlage um 250'000 Franken reduziert. Liegt der Gesamtpreis über 1'500'000 Franken oder gilt nur der Landwert als Bemessungsgrundlage, ohne Wert des Bauwerks, so wird kein Abzug gewährt.
+
+Das Wohneigentum muss im Wesentlichen der Eigennutzung des Erwerbers dienen, und zwar unmittelbar und mindestens zwei Jahre ohne Unterbruch ab dem Tag, an dem er dort Wohnsitz nimmt.
+
+<sup>2</sup> Bei mehreren Erwerbern, von denen nur einer die Voraussetzungen nach Absatz 1 erfüllt, wird der Freibetrag von 500'000 Franken beziehungsweise von 250'000 Franken für das ganze Wohneigentum im Verhältnis zum von dieser Person erworbenen Anteil reduziert. Dasselbe gilt auch, wenn beim erstmaligen Eigentumserwerb nur ein Anteil an gemeinschaftlichem Wohneigentum erworben wird und der Erwerber die Voraussetzungen nach Absatz 1 erfüllt.
+
+In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaftlichen Eigentum zulässig. Beim Erwerb weiterer Anteile, namentlich bei einer Teilung des erstmalig erworbenen Wohneigentums, wird kein Abzug gewährt.
+
+<sup>3</sup> Die notarielle Urkunde enthält die Bestätigung des Erwerbers, wonach die Bedingung des erstmaligen Wohneigentumserwerbs zur Eigennutzung erfüllt ist und das Wohneigentum von ihm unmittelbar und für mindestens zwei Jahre im Wesentlichen und persönlich als Hauptwohnsitz genutzt werden wird.
+
+<sup>4</sup> Ist eine der Bedingungen nach Absatz 1 nicht erfüllt oder fällt sie weg, so ist der Erwerber verpflichtet, dies innerhalb von 30 Tagen dem zuständigen Grundbuchamt zu melden, das ausser im Todesfall die Steuern und Zusatzabgaben nachfordert.
+
+<sup>5</sup> Die Anwendung der Strafbestimmungen bleibt vorbehalten.
 
 #### Art. 20
 
@@ -555,7 +573,11 @@ beschliesst:
 
 **Übertretungen – Hinterziehung a) Vollendete Hinterziehung**
 
-<sup>1</sup> Der Schuldner, der vorsätzlich oder fahrlässig bewirkt, dass eine Veranlagung zu Unrecht unterbleibt, insbesondere indem er ein Geschäft oder das Eintreten einer Bedingung, die die Steuererhebung begründet, nicht innert der gesetzlichen Frist meldet, dafür sorgt, dass eine rechtskräftige Veranlagung unvollständig ist, oder eine unrechtmässige Rückerstattung oder einen ungerechtfertigten Erlass erwirkt, wird mit einer Busse in der Höhe des ein- bis vierfachen Betrags der hinterzogenen Steuern bestraft.
+<sup>1</sup> Mit einer Busse in der Höhe des einfachen bis vierfachen Betrags der hinterzogenen Steuern bestraft wird, wer vorsätzlich oder fahrlässig:
+
+- a) bewirkt, dass eine Veranlagung zu Unrecht unterbleibt, insbesondere indem er ein Geschäft oder das Eintreten eine Bedingung, welche die Steuererhebung begründet, nicht innert der gesetzlichen Frist meldet;
+- b) bewirkt, dass eine rechtskräftige Veranlagung unvollständig ist;
+- c) eine unrechtmässige Rückerstattung (Art. 48), einen ungerechtfertigten Erlass (Art. 46) oder eine unzulässige Reduktion der Bemessungsgrundlage (Art. 19a) erwirkt.
 
 <sup>2</sup> Bei Selbstanzeige wird die Busse in der Regel bis zur Hälfte des hinterzogenen Steuerbetrags ermässigt.
 
@@ -678,6 +700,12 @@ beschliesst:
 **Übergangsrecht zur Änderung vom 16. Oktober 2020**
 
 <sup>1</sup> Artikel 9 Abs. 1 Bst. a1 sowie die Artikel 16a, 30 Abs. 2a und 60 Abs. 3 gelten für die vor dem Inkrafttreten der Änderung vom 16. Oktober 2020 dieses Gesetzes abgeschlossenen und noch nicht rechtskräftig veranlagten Rechtsgeschäfte.
+
+#### Art. 67b
+
+**Übergangsrecht zur Änderung vom 6. September 2023**
+
+<sup>1</sup> Die mit dem Gesetz vom 6. September 2023 (ASF 2023\_072) eingeführten Änderungen gelten für die ab 1. Januar 2024 abgeschlossenen Rechtsgeschäfte, welche die Übertragung begründen.
 
 #### Art. 68
 
