@@ -4,13 +4,13 @@ number: "110.1"
 title: Loi sur la statistique cantonale
 short: LStat
 language: fr
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-05-31
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-10-12
 adopted: 2006-02-07
 in_force: 2006-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/110.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7172/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7928/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Statistique cantonale – L
 
 (LStat)
 
-du 07.02.2006 (version entrée en vigueur le 01.01.2011)
+du 07.02.2006 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -100,7 +100,7 @@ Décrète:
 
 **Principes de collecte des données**
 
-<sup>1</sup> La collecte des données respecte les principes généraux de proportionnalité et de nécessité; elle est conforme à l'article 14 de la loi du 25 novembre 1994 sur la protection des données.
+<sup>1</sup> La collecte des données respecte les principes généraux de proportionnalité et de nécessité; elle est conforme à la législation sur la protection des données.
 
 <sup>2</sup> L'autorité compétente renonce à organiser des relevés pour la statistique publique (relevés directs, indirects ou fondés sur des observations ou des mesures) si elle dispose des données requises ou qu'un organisme soumis à la présente loi les obtienne en application du droit cantonal (données administratives de l'administration cantonale).
 
@@ -242,9 +242,9 @@ Décrète:
 
 <sup>1</sup> Les données recueillies ou communiquées à des fins statistiques ne peuvent être utilisées à d'autres fins, à moins qu'une loi ne l'autorise expressément ou que la personne concernée n'y ait consenti par écrit.
 
-<sup>2</sup> L'accès à des données personnelles ou des résultats qui permettent l'identification ou la déduction d'informations sur la situation individuelle des personnes physiques ou morales concernées est interdit, conformément à l'article 16 de la loi du 25 novembre 1994 sur la protection des données.
+<sup>2</sup> La publication de données personnelles ou de résultats qui permettent l'identification ou la déduction d'informations sur la situation individuelle des personnes physiques ou morales concernées est interdite conformément à l'article 26 al. 1 let. d de la loi du 12 octobre 2023 sur la protection des données.
 
-<sup>3</sup> Les données recueillies à des fins statistiques sont traitées confidentiellement et conformément à l'article 16 de la loi du 25 novembre 1994 sur la protection des données.
+<sup>3</sup> Les données recueillies à des fins statistiques sont traitées confidentiellement et conformément à la législation sur la protection des données.
 
 <sup>4</sup> Les personnes chargées des travaux statistiques doivent garder le secret sur les données et les faits se rapportant à des personnes physiques ou morales et dont elles ont eu connaissance dans l'exercice de leur fonction.
 

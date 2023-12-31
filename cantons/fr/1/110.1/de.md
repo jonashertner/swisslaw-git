@@ -4,13 +4,13 @@ number: "110.1"
 title: Gesetz über die kantonale Statistik
 short: StatG
 language: de
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-05-31
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-10-12
 adopted: 2006-02-07
 in_force: 2006-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/110.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7172/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7928/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Kantonale Statistik – G
 
 (StatG)
 
-vom 07.02.2006 (Fassung in Kraft getreten am 01.01.2011)
+vom 07.02.2006 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -100,7 +100,7 @@ beschliesst:
 
 **Grundsätze der Datenbeschaffung**
 
-<sup>1</sup> Die Daten werden nach den Grundprinzipien der Verhältnismässigkeit und der Notwendigkeit sowie in Beachtung von Artikel 14 des Datenschutzgesetzes vom 25. November 1994 erhoben.
+<sup>1</sup> Die Daten werden nach den Grundsätzen der Verhältnismässigkeit und der Notwendigkeit beschafft; dabei wird die Gesetzgebung über den Datenschutz eingehalten.
 
 <sup>2</sup> Verfügt die zuständige Behörde über die notwendigen Daten oder fallen diese bei einer anderen diesem Gesetz unterstellten Organisation durch den Vollzug kantonalen Rechts an (Verwaltungsdaten des Kantons), so verzichtet sie auf besondere Erhebungen für die kantonale Statistik (Direkterhebung, Indirekterhebung oder Erhebungen mittels Beobachtung und Messung).
 
@@ -242,9 +242,9 @@ beschliesst:
 
 <sup>1</sup> Zu statistischen Zwecken erhobene oder weitergegebene Daten dürfen nicht zu anderen Zwecken verwendet werden, es sei denn, ein anderes Gesetz ordne eine andere Verwendung ausdrücklich an oder die betroffene Person stimme ihr schriftlich zu.
 
-<sup>2</sup> Personenbezogene Daten oder Resultate, die eine Identifikation oder einen Rückschluss auf die persönliche Situation einzelner natürlicher oder juristischer Personen erlauben, dürfen gemäss Artikel 16 des Datenschutzgesetzes vom 25. November 1994 niemandem zugänglich gemacht werden.
+<sup>2</sup> Personendaten oder Resultate, die eine Identifikation oder einen Rückschluss auf die persönliche Situation einzelner natürlicher oder juristischer Personen erlauben, dürfen gemäss Artikel 26 Abs. 1 Bst. d des Gesetzes vom 12. Oktober 2023 über den Datenschutz nicht veröffentlicht werden.
 
-<sup>3</sup> Zu statistischen Zwecken erhobene Daten sind gemäss Artikel 16 des Datenschutzgesetzes vom 25. November 1994 vertraulich zu behandeln.
+<sup>3</sup> Daten, die zu Statistikzwecken erhoben wurden, werden vertraulich und gemäss der Gesetzgebung über den Datenschutz bearbeitet.
 
 <sup>4</sup> Die mit statistischen Aufgaben betrauten Personen müssen über die Daten und alle mit natürlichen und juristischen Personen zusammenhängenden Tatbestände, von denen sie im Rahmen dieser Tätigkeit Kenntnis erlangt haben, Stillschweigen bewahren.
 
