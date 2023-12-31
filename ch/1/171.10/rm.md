@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2023-12-04
+version: 2024-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-rm-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dals 4 da december 2023)
+dals 13 da december 2002 (versiun dals 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -363,9 +363,9 @@ Per abolir il secret da posta e da telecommunicaziun en il senn da l’artitgel 
 
 <sup>1</sup> Ils presidis da las chombras decidan en ina tractativa cuminaivla e secreta. Per conceder l’autorisaziun tenor l’artitgel 18 dovri il consentiment d’almain tschintg commembers.
 
-<sup>2</sup> L’autorisaziun per abolir il secret da posta e da telecommunicaziun po vegnir concedida pir, cura che l’autoritad cumpetenta ha approvà l’ordinaziun da la surveglianza tenor l’artitgel 7 da la Lescha federala dals 6 d’october 2000[^19-1] davart la surveglianza da la posta e da la telecommunicaziun.
+<sup>2</sup> L’autorisaziun per abolir il secret da posta e da telecommunicaziun po vegnir concedida pir, cura che l’autoritad cumpetenta ha approvà l’ordinaziun da la surveglianza.[^19-1]
 
-[^19-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^19-1]: Versiun tenor la cifra 1 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 20
 

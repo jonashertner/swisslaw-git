@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2023-12-04
+version: 2024-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 4 December 2023)
+of 13 December 2002 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -349,10 +349,11 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 <sup>3</sup> As soon as the measures authorised by Presiding Colleges of the Councils have been carried out, authorisation for prosecution must be obtained from the competent committees of both chambers in accordance with Article 17, unless proceedings have already been dropped.[^18-2]
 
-<sup>4</sup> Any arrest made without this authorisation is unlawful.[<sup>23</sup>](https://www.fedlex.admin.ch/eli/cc/2003/510/en)
+<sup>4</sup> Any arrest made without this authorisation is unlawful.[^18-3]
 
 [^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^18-2]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^18-3]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 19
 
@@ -362,7 +363,7 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 <sup>2</sup> Authorisation to suspend postal and telecommunications secrecy may only be granted if the relevant authority has approved the order for surveillance to be carried out.[^19-1]
 
-[^19-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^19-1]: Amended by annex 1 No 1 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 20
 
@@ -498,9 +499,9 @@ The Federal Assembly shall participate:
 - a. in the significant aspects of the planning of state activities;
 - b. in determining the strategic goals of units that have become autonomous in accordance with Article 8 paragraph 5 of the Government and Administration Organisation Act of 21 March 1997[^28-1].[^28-2]
 
-<sup>1</sup>
+<sup>1bis</sup>
 
-<sup>bis</sup> It participates by:
+It participates by:
 
 - a. gathering information on its activities in accordance with paragraph 1 from Federal Council reports or acknowledging such reports;
 - b.
@@ -1055,7 +1056,7 @@ They carry out the following tasks:
 - a. they plan and organise the sessions and the meetings of the committees;
 - b. they are responsible for providing secretarial services, carrying out translation work and taking the minutes of the resolutions and debates of the councils, the United Federal Assembly and the committees;
 - c. they keep records and offer services in relation to records and information technologies;
-- [tab] c<sup>bis</sup>.[^64-1] they operate information systems used to evaluate data for the fulfilment of the tasks of the Federal Assembly, its organs and the members of the Councils; this data processing may also include particularly sensitive personal data; a Federal Assembly ordinance shall specify the sources used for this purpose and regulate access authorisations and how this data may be disclosed;
+- c<sup>bis</sup>.[^64-1] they operate information systems used to evaluate data for the fulfilment of the tasks of the Federal Assembly, its organs and the members of the Councils; this data processing may also include particularly sensitive personal data; a Federal Assembly ordinance shall specify the sources used for this purpose and regulate access authorisations and how this data may be disclosed;
 - d. they advise the assembly members, and in particular the Presiding Colleges of the Councils and the chairpersons of the committees on factual and procedural matters;
 - e. they inform the general public about the Federal Assembly and its activities;
 - f. they assist the Federal Assembly in its activities with regard to international relations;
@@ -2156,17 +2157,17 @@ Inability to discharge the duties of office must be presumed if the following re
 In the dispatch, the Federal Council shall provide justification for the bill and if necessary comment on the individual provisions. In addition, it shall explain the following points in particular, on condition that it is possible to provide a substantial amount of information thereon:
 
 - a. the legal background, the consequences for constitutional rights, compatibility with superior law and the relationship with European law;
-- [tab] a<sup>bis</sup>.[^141-1] the use of Switzerland’s room for manoeuvre in adopting international law;
-- [tab] a<sup>ter</sup>.[^141-2] the observance of the principle of subsidiarity in the allocation and performance of state tasks and the impact of the bill on communes, towns and cities, urban agglomerations and mountain areas;
-- [tab] a<sup>quater</sup>.[^141-3] any examination of time limit on the bill;
+- a<sup>bis</sup>.[^141-1] the use of Switzerland’s room for manoeuvre in adopting international law;
+- a<sup>ter</sup>.[^141-2] the observance of the principle of subsidiarity in the allocation and performance of state tasks and the impact of the bill on communes, towns and cities, urban agglomerations and mountain areas;
+- a<sup>quater</sup>.[^141-3] any examination of time limit on the bill;
 - b. the delegation of powers provided for in a draft act;
 - c. the points of view debated in the preliminary stages of the legislative process and their alternatives and the related position of the Federal Council;
 - d. the planned implementation of the enactment, the planned evaluation of its implementation and the assessment of the planned implementation that took place in the preliminary stages of the legislative process;
 - e. the coordination of tasks and funding;
 - f.[^141-4] the consequences for staffing and finances of the bill and its implementation for the federal government, cantons and communes, the methods for meeting the costs and the cost-benefit ratio;
 - g.[^141-5] the consequences for the economy, society, the environment and future generations;
-- [tab] g<sup>bis</sup>.[^141-6] the safeguarding of the responsibility and room for manoeuvre of the private individuals affected by a regulation;
-- [tab] g<sup>ter</sup>.[^141-7] the impact on the need for information and communication technologies and the related expenditure;
+- g<sup>bis</sup>.[^141-6] the safeguarding of the responsibility and room for manoeuvre of the private individuals affected by a regulation;
+- g<sup>ter</sup>.[^141-7] the impact on the need for information and communication technologies and the related expenditure;
 - h.[^141-8] the position of the bill in relation to the planning of legislation and the financial plan;
 - i. the consequences for gender equality;
 - j.[^141-9] the consequences of the bill for the Swiss living abroad.

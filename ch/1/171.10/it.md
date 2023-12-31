@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2023-12-04
+version: 2024-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 4 dicembre 2023)
+del 13 dicembre 2002 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -84,17 +84,13 @@ Le Camere si riuniscono senza indugio in sessione straordinaria quando:
 
 <sup>3</sup> Chi si rifiuta di prestare giuramento o promessa solenne rinuncia al mandato.
 
-<sup>4</sup>
+<sup>4</sup> La formula del giuramento è la seguente:
 
-La formula del giuramento è la seguente:
+«Giuro dinnanzi a Dio onnipotente di osservare la Costituzione e le leggi e di adempiere coscienziosamente gli obblighi inerenti al mio mandato.»
 
-- «Giuro dinnanzi a Dio onnipotente di osservare la Costituzione e le leggi e di adempiere coscienziosamente gli obblighi inerenti al mio mandato.»
+<sup>5</sup> La formula della promessa è la seguente:
 
-<sup>5</sup>
-
-La formula della promessa è la seguente:
-
-- «Prometto di osservare la Costituzione e le leggi e di adempiere coscienziosamente gli obblighi inerenti al mio mandato.»
+«Prometto di osservare la Costituzione e le leggi e di adempiere coscienziosamente gli obblighi inerenti al mio mandato.»
 
 #### Art. 4
 
@@ -364,9 +360,9 @@ Per togliere il segreto postale o il segreto delle telecomunicazioni a tenore de
 
 <sup>1</sup> Le presidenze delle due Camere deliberano congiuntamente e in segreto. La concessione dell’autorizzazione secondo l’articolo 18 richiede il consenso di almeno cinque membri.
 
-<sup>2</sup> L’autorizzazione di togliere il segreto postale o il segreto delle telecomunicazioni può essere data soltanto se l’autorità competente approva l’ordine di effettuare la sorveglianza conformemente all’articolo 7 della legge federale del 6 ottobre 2000[^19-1] concernente la sorveglianza della corrispondenza postale e delle telecomunicazioni.
+<sup>2</sup> L’autorizzazione di togliere il segreto postale o il segreto delle telecomunicazioni può essere data soltanto se l’autorità competente approva l’ordine di effettuare la sorveglianza.[^19-1]
 
-[^19-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^19-1]: Nuovo testo giusta l’all. 1 n. 1 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 20
 
@@ -627,7 +623,7 @@ La Conferenza di coordinamento ha i compiti seguenti:
 
 - a.[^37-1] stabilisce le settimane in cui si svolgono le sessioni ordinarie e le sessioni straordinarie;
 - b. cura le relazioni tra le due Camere e tra queste e il Consiglio federale;
-- c.[^37-2] ...
+- c.[^37-2] …
 - d. elegge il segretario generale dell’Assemblea federale. L’elezione va confermata dall’Assemblea federale plenaria;
 - e. approva la costituzione di nuovi gruppi parlamentari secondo i criteri di cui all’articolo 61.
 
@@ -635,7 +631,7 @@ La Conferenza di coordinamento ha i compiti seguenti:
 
 <sup>4</sup> Le decisioni della Conferenza di coordinamento richiedono l’approvazione degli Uffici del Consiglio nazionale e del Consiglio degli Stati. L’elezione secondo il capoverso 2 lettera d avviene a maggioranza assoluta dei membri votanti.
 
-<sup>5</sup> ...[^37-3]
+<sup>5</sup> …[^37-3]
 
 [^37-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^37-2]: Abrogata dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), con effetto dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -864,7 +860,7 @@ Le commissioni informano l’opinione pubblica sui risultati delle loro delibera
 
 <sup>4</sup> In caso di affari intersettoriali, altre commissioni possono presentare rapporti alle commissioni incaricate dell’esame preliminare.
 
-<sup>5</sup> ...[^49-1]
+<sup>5</sup> …[^49-1]
 
 [^49-1]: Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
@@ -946,7 +942,7 @@ Le commissioni informano l’opinione pubblica sui risultati delle loro delibera
 
 #### Art. 55
 
-**...[^55-1]**
+**…[^55-1]**
 
 Le Commissioni delle finanze e della gestione riferiscono una volta all’anno alla propria Camera sui risultati principali dei loro lavori.
 
@@ -1109,18 +1105,9 @@ Le unità amministrative dei Servizi del Parlamento dispongono degli stessi diri
 
 #### Art. 69a
 
-**Obbligo del certificato COVID-19 nel Palazzo del Parlamento**[^69a-1]
-
-<sup>1</sup> Le persone a partire dai 16 anni hanno accesso al Palazzo del Parlamento unicamente se in possesso di un certificato COVID-19 valido secondo l’articolo 6*a* della legge COVID-19 del 25 settembre 2020[^69a-2]. La Delegazione amministrativa può sospendere questo provvedimento se la situazione epidemiologica lo consente.
-
-<sup>2</sup> Alle persone che per motivi imperativi devono accedere al Palazzo del Parlamento sono rimborsati i costi dei test eventualmente necessari per il rilascio del certificato COVID-19. La Delegazione amministrativa definisce le categorie di persone che hanno diritto al rimborso.
-
-<sup>3</sup> La Delegazione amministrativa disciplina le modalità di controllo dei certificati COVID-19.
-
-<sup>4</sup> Ai parlamentari privi del certificato COVID-19 è consentito l’accesso al Palazzo del Parlamento a condizione che indossino una mascherina all’interno dell’edificio. I Servizi del Parlamento tengono un elenco di tali parlamentari destinato alle persone cui spetta l’esercizio del diritto di polizia.
+[^69a-1]
 
 [^69a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 2 ott. 2021 al 31 dic. 2022 ([RU 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [FF 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181), [2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
-[^69a-2]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
 #### Art. 70
 
@@ -1459,7 +1446,7 @@ Se le decisioni divergenti delle due Camere si riferiscono a un oggetto nel suo 
 - f. la clausola d’urgenza;
 - g.[^95-1] la decisione di dar seguito o meno a un’iniziativa cantonale;
 - h. l’approvazione di ordinanze del Consiglio federale;
-- i.[^95-2] ...
+- i.[^95-2] …
 - j. il mantenimento di un oggetto in deliberazione di cui è stato proposto lo stralcio dal ruolo.
 
 [^95-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -1581,7 +1568,7 @@ Se l’Assemblea federale sottopone contemporaneamente al Popolo e ai Cantoni un
 
 <sup>1</sup> Se una Camera si pronuncia per un controprogetto o per un disegno di atto legislativo strettamente connesso all’iniziativa, l’Assemblea federale può prorogare di un anno il termine di trattazione.
 
-<sup>1bis</sup> ...[^105-1]
+<sup>1bis</sup> …[^105-1]
 
 <sup>2</sup> Se le decisioni delle Camere in merito alla proroga del termine divergono, la proroga è considerata non riuscita.
 
@@ -1786,7 +1773,7 @@ Sono interventi parlamentari:
 
 <sup>3</sup> Il testo di un intervento depositato non può più essere modificato; è fatto salvo l’articolo 121 capoverso 3 lettera b.[^119-1]
 
-<sup>4</sup> ...[^119-2]
+<sup>4</sup> …[^119-2]
 
 <sup>5</sup>
 
@@ -1795,7 +1782,7 @@ Un intervento di un parlamentare o di un gruppo parlamentare è tolto dal ruolo 
 - a. la Camera non lo ha trattato definitivamente entro due anni dalla sua presentazione; o
 - b. il suo autore non fa più parte della Camera e nessun altro parlamentare lo riprende nella prima settimana della sessione successiva.[^119-3]
 
-<sup>6</sup> ...[^119-4]
+<sup>6</sup> …[^119-4]
 
 [^119-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^119-2]: Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -2181,14 +2168,14 @@ Nel messaggio il Consiglio federale motiva il disegno di atto legislativo e, per
 - a. la base giuridica, le ripercussioni sui diritti fondamentali, la compatibilità con il diritto di rango superiore e il rapporto con il diritto europeo;
 - a<sup>bis</sup>.[^141-1] come ha utilizzato il margine di manovra di cui dispone la Svizzera nel recepire il diritto internazionale;
 - a<sup>ter</sup>.[^141-2] l’osservanza del principio di sussidiarietà nell’assegnazione e nell’adempimento dei compiti statali nonché le ripercussioni del disegno per i Comuni, le città, gli agglomerati urbani e le regioni di montagna;
-- [tab] a<sup>quater</sup>.[^141-3] l’analisi della necessità di limitare nel tempo la validità dell’atto;
+- a<sup>quater</sup>.[^141-3] l’analisi della necessità di limitare nel tempo la validità dell’atto;
 - b. le deleghe di competenza previste nel disegno di legge;
 - c. i punti di vista e le alternative discusse nella procedura preparlamentare, nonché il relativo parere dell’Esecutivo;
 - d. la prevista realizzazione del disegno, la prevista valutazione della realizzazione medesima e l’esame dell’idoneità all’attuazione nella procedura preparlamentare;
 - e. la compatibilità tra i compiti e le finanze;
 - f.[^141-4] le ripercussioni del disegno di atto legislativo e della sua esecuzione a livello finanziario e di effettivo del personale per la Confederazione, i Cantoni e i Comuni, nonché le modalità di copertura dei costi e il rapporto costi-benefici;
 - g.[^141-5] le ripercussioni sull’economia, sulla società, sull’ambiente e sulle future generazioni;
-- [tab] g<sup>bis</sup>.[^141-6] la salvaguardia della responsabilità individuale e del margine di manovra dei privati interessati da una determinata normativa;
+- g<sup>bis</sup>.[^141-6] la salvaguardia della responsabilità individuale e del margine di manovra dei privati interessati da una determinata normativa;
 - g<sup>ter</sup>.[^141-7] le ripercussioni sul fabbisogno in termini di tecnologie dell’informazione e della comunicazione e le spese che ne derivano;
 - h.[^141-8] il rapporto tra il disegno di atto legislativo e il programma di legislatura nonché il piano finanziario;
 - i. le ripercussioni sulla parità dei sessi;
@@ -2789,7 +2776,7 @@ II
 
 Le leggi qui appresso sono modificate come segue:
 
-...[^annex1-lvlu1-4]
+…[^annex1-lvlu1-4]
 
 [^annex1-lvlu1-1]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. I, [414](https://fedlex.data.admin.ch/eli/oc/2000/91); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n.3].
 [^annex1-lvlu1-2]: [CS **1** 431]

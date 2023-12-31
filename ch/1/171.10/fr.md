@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2023-12-04
+version: 2024-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 4 décembre 2023)
+du 13 décembre 2002 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -356,9 +356,9 @@ La levée du secret des postes et des télécommunications au sens de l’art. 3
 
 <sup>1</sup> Les collèges présidentiels délibèrent ensemble et à huis-clos. L’autorisation prévue à l’art. 18 n’est accordée qu’avec l’assentiment de cinq membres au moins.
 
-<sup>2</sup> L’autorisation de lever le secret des postes et des télécommunications ne peut être accordée avant que l’autorité compétente ait ordonné la surveillance conformément à l’art. 7 de la loi fédérale du 6 octobre 2000 sur la surveillance de la correspondance par poste et télécommunication[^19-1].
+<sup>2</sup> L’autorisation de lever le secret des postes et des télécommunications ne peut être accordée avant que l’autorité compétente ait ordonné la surveillance.[^19-1]
 
-[^19-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^19-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 20
 
@@ -1104,18 +1104,9 @@ Lorsque les Services du Parlement travaillent pour le compte d’un organe de l�
 
 #### Art. 69a
 
-**Obligation de présenter un certificat COVID-19 pour accéder au Palais du Parlement**[^69a-1]
-
-<sup>1</sup> Toute personne âgée de 16 ans ou plus n’a accès au Palais du Parlement que sur présentation d’un certificat COVID-19 valide conformément à l’art. 6*a* de la loi COVID-19 du 25 septembre 2020[^69a-2]. La Délégation administrative peut suspendre cette mesure si la situation épidémiologique le permet.
-
-<sup>2</sup> Pour les personnes qui doivent impérativement avoir accès au Palais du Parlement, les coûts des tests éventuellement nécessaires à l’établissement du certificat sont remboursés. La Délégation administrative détermine les catégories de personnes ayant droit au remboursement.
-
-<sup>3</sup> La Délégation administrative règle les modalités du contrôle des certificats.
-
-<sup>4</sup> Les membres des Chambres fédérales qui ne présentent pas de certificat ont accès au Palais du Parlement s’ils portent un masque à l’intérieur de celui-ci. Les Services du Parlement tiennent une liste de ces députés à l’intention des personnes responsables de l’exercice du droit de disposer des locaux.
+[^69a-1]
 
 [^69a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur du 2 oct. 2021 au 31 déc. 2022 ([RO 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [FF 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181), [2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
-[^69a-2]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
 #### Art. 70
 
@@ -1835,12 +1826,14 @@ Si le second conseil modifie une motion, le conseil prioritaire peut, en seconde
 - b. confirmer sa décision d’adopter la motion dans sa version initiale;
 - c. rejeter définitivement la motion.[^121-4]
 
-<sup>4bis</sup>
+<sup>4bis</sup> Si le conseil prioritaire confirme, en seconde lecture, sa décision d’adopter la motion dans sa version initiale, le second conseil peut se rallier à cette décision ou rejeter définitivement la motion.[^121-5]
 
-Si le conseil prioritaire confirme, en seconde lecture, sa décision d’adopter la motion dans sa version initiale, le second conseil peut se rallier à cette décision ou rejeter définitivement la motion.<sup>5</sup> Une motion est définitivement adoptée par le conseil prioritaire sans être transmise à l’autre conseil:
+<sup>5</sup>
+
+Une motion est définitivement adoptée par le conseil prioritaire sans être transmise à l’autre conseil:
 
 - a. si elle concerne l’organisation ou le fonctionnement du conseil où elle a été déposée;
-- b. si elle a été déposée par une commission et qu’une motion de teneur identique déposée par une commission est adoptée par l’autre conseil.[^121-5]
+- b. si elle a été déposée par une commission et qu’une motion de teneur identique déposée par une commission est adoptée par l’autre conseil.
 
 [^121-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^121-2]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -2163,16 +2156,16 @@ L’incapacité est admise lorsque les conditions suivantes sont réunies:
 Dans son message, le Conseil fédéral motive son projet d’acte et en commente au besoin les dispositions. D’autre part, dans la mesure où des indications substantielles peuvent être fournies, il fait notamment le point sur:
 
 - a. les bases légales ou constitutionnelles sur lesquelles le projet se fonde, ses effets sur les droits fondamentaux, sa compatibilité avec le droit de rang supérieur et ses relations avec le droit européen;
-- [tab] a<sup>bis</sup>.[^141-1] l’usage de la marge de manœuvre dont la Suisse dispose lorsqu’elle reprend le droit international;
+- a<sup>bis</sup>.[^141-1] l’usage de la marge de manœuvre dont la Suisse dispose lorsqu’elle reprend le droit international;
 - a<sup>ter</sup>.[^141-2] le respect du principe de subsidiarité dans l’attribution et l’accomplissement de tâches étatiques et les conséquences que le projet aura pour les communes, les villes, les agglomérations urbaines et les régions de montagne;
-- [tab] a<sup>quater</sup>.[^141-3] l’examen d’une limitation de la durée de validité des dispositions concernées;
+- a<sup>quater</sup>.[^141-3] l’examen d’une limitation de la durée de validité des dispositions concernées;
 - b. les compétences que le projet prévoit de déléguer;
 - c. les points de vue et variantes discutés au stade préliminaire de la procédure législative et leur appréciation par le Conseil fédéral;
 - d. les modalités de mise en œuvre du projet, l’évaluation à laquelle cette mise en œuvre donnera lieu et les possibilités de mise en œuvre qui ont été examinées au stade préliminaire de la procédure législative;
 - e. l’adéquation des tâches et des moyens financiers à disposition;
 - f. les conséquences que le projet et sa mise en œuvre entraînent sur les finances et l’état du personnel de la Confédération, des cantons, des communes, les modalités de son financement, enfin le rapport coût-utilité des mesures proposées;[^141-4]
 - g.[^141-5] les conséquences économiques, sociales et environnementales du projet ainsi que ses conséquences pour les générations futures;
-- [tab] g<sup>bis</sup>.[^141-6] la préservation de la responsabilité personnelle et de la marge de manœuvre des particuliers concernés par une réglementation donnée;
+- g<sup>bis</sup>.[^141-6] la préservation de la responsabilité personnelle et de la marge de manœuvre des particuliers concernés par une réglementation donnée;
 - g<sup>ter</sup>.[^141-7] les conséquences que le projet aura sur les besoins en matière de technologies de l’information et de la communication et les frais qui en découleront;
 - h.[^141-8] les relations du projet avec le programme de la législature et avec le plan financier;
 - i. les conséquences que le projet aura sous l’angle de l’égalité entre hommes et femmes;

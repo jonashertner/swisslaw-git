@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2023-12-04
+version: 2024-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-de-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 4. Dezember 2023)
+vom 13. Dezember 2002 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -359,9 +359,9 @@ Für die Aufhebung des Post- und Fernmeldegeheimnisses im Sinne von Artikel 321<
 
 <sup>1</sup> Die Ratspräsidien entscheiden in gemeinsamer und geheimer Beratung. Die Erteilung der Ermächtigung nach Artikel 18 bedarf der Zustimmung von mindestens fünf Mitgliedern.
 
-<sup>2</sup> Die Ermächtigung zur Aufhebung des Post- und Fernmeldegeheimnisses kann erst erteilt werden, wenn die zuständige Behörde die Anordnung zur Überwachung gemäss Artikel 7 des Bundesgesetzes vom 6. Oktober 2000[^19-1] betreffend Überwachung des Post- und Fernmeldeverkehrs genehmigt.
+<sup>2</sup> Die Ermächtigung zur Aufhebung des Post- und Fernmeldegeheimnisses kann erst erteilt werden, wenn die zuständige Behörde die Anordnung zur Überwachung genehmigt.[^19-1]
 
-[^19-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^19-1]: Fassung gemäss Anhang 1 Ziff. 1 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 20
 
@@ -633,7 +633,7 @@ Die Koordinationskonferenz hat folgende Aufgaben:
 <sup>5</sup> …[^37-3]
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^37-2]: Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen mit Wirkung seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^37-2]: Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), mit Wirkung seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^37-3]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 38
@@ -2157,7 +2157,7 @@ In der Botschaft begründet er den Erlassentwurf und kommentiert soweit nötig d
 - a. die Rechtsgrundlage, die Auswirkungen auf die Grundrechte, die Vereinbarkeit mit übergeordnetem Recht und das Verhältnis zum europäischen Recht;
 - a<sup>bis</sup>.[^141-1] die Nutzung des Handlungsspielraumes der Schweiz bei der Übernahme von internationalem Recht;
 - a<sup>ter</sup>.[^141-2] die Beachtung des Grundsatzes der Subsidiarität bei der Zuweisung und Erfüllung staatlicher Aufgaben und die Auswirkungen des Erlassentwurfs auf Gemeinden, Städte, städtische Agglomerationen und Berggebiete;
-- [tab] a<sup>quater</sup>.[^141-3] die Prüfung einer Befristung des Erlassentwurfs;
+- a<sup>quater</sup>.[^141-3] die Prüfung einer Befristung des Erlassentwurfs;
 - b. die in einem Gesetzesentwurf vorgesehenen Kompetenzdelegationen;
 - c. im vorparlamentarischen Verfahren diskutierte Standpunkte und Alternativen und die diesbezügliche Stellungnahme des Bundesrates;
 - d. die geplante Umsetzung des Erlasses, die geplante Auswertung dieser Umsetzung und die Prüfung der Vollzugstauglichkeit im vorparlamentarischen Verfahren;
