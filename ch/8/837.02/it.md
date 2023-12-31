@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 1° settembre 2023)
+del 31 agosto 1983 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuova abbreviazione giusta il n. I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -329,9 +329,11 @@ Gli importi destinati alla previdenza professionale sono dedotti dalle prestazio
 
 <sup>1</sup> Se sono state convenute prestazioni volontarie sotto forma di versamenti mensili per un periodo determinato, la somma di tali prestazioni mensili è decurtata dell’importo annuo massimo di cui all’articolo 3 capoverso 2 LADI e divisa per il numero di mesi convenuto. L’importo risultante è dedotto dall’indennità di disoccupazione.
 
-<sup>2</sup> Se non è stato stabilito alcun periodo, il calcolo di cui al capoverso 1 è effettuato sulla base del numero di mesi che precedono il raggiungimento dell’età ordinaria che dà diritto alla rendita AVS.
+<sup>2</sup> Se non è stato stabilito alcun periodo, il calcolo di cui al capoverso 1 è effettuato sulla base del numero di mesi che precedono il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^10d-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS).[^10d-3]
 
 [^10d-1]: Introdotto dal n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^10d-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10d-3]: Nuovo testo giusta l’all. n. 12 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 10e
 
@@ -401,24 +403,9 @@ Le prestazioni volontarie considerate sono incluse nel calcolo del guadagno assi
 
 #### Art. 12
 
-**Periodo di contribuzione degli assicurati pensionati anticipatamente**
+[^12-1]
 
-### (art. 13 cpv. 3 LADI)
-
-<sup>1</sup> Per gli assicurati che sono stati pensionati prima del raggiungimento dell’età della rendita AVS, è computata, come periodo di contribuzione, soltanto l’attività contributiva esercitata dopo il pensionamento.
-
-<sup>2</sup>
-
-Il capoverso 1 non è applicabile qualora l’assicurato:
-
-- a. sia stato pensionato anticipatamente per motivi economici o in base a regolamentazioni imperative nell’ambito della previdenza professionale, e
-- b.[^12-1] possa pretendere prestazioni di vecchiaia inferiori all’indennità di disoccupazione che gli spetta conformemente all’articolo 22 LADI.[^12-2]
-
-<sup>3</sup> Sono considerate prestazioni di vecchiaia le prestazioni della previdenza professionale obbligatoria e di quella più estesa, nonché le prestazioni di vecchiaia di un’assicurazione per la vecchiaia estera obbligatoria o facoltativa, indipendentemente dal fatto che si tratti di una rendita di vecchiaia ordinaria o di una prestazione di prepensionamento.[^12-3]
-
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 28 ago. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2000, in vigore dal 1° giu. 2002 ([RU 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)).
+[^12-1]: Abrogato dall’all. n. 12 dell’O del 30 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 12a
 
@@ -816,16 +803,12 @@ L’assicurato ha diritto a un’adeguata anticipazione per i giorni controllati
 
 #### Art. 32
 
-**Indennità degli assicurati pensionati anticipatamente**[^32-1]
+**Prestazioni di vecchiaia della previdenza professionale**[^32-1]
 
-### (art. 18 cpv. 1 e 22 LADI)
+Sono considerate prestazioni di vecchiaia della previdenza professionale, che vanno dedotte dall’indennità di disoccupazione, le prestazioni della previdenza professionale obbligatoria e sovraobbligatoria versate all’assicurato prima del raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^32-2].
 
-[^32-2]
-
-Sono considerate prestazioni di vecchiaia le prestazioni della previdenza professionale obbligatoria e complementare alle quali l’assicurato aveva diritto quando ha raggiunto il limite d’età regolamentare per il pensionamento anticipato.
-
-[^32-1]: Nuovo testo giusta il n. I 6 dell’O dell’11 ago. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° set. 1999 ([RU 1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)).
-[^32-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^32-1]: Nuovo testo giusta l’all. n. 12 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^32-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 33
 
@@ -1076,17 +1059,18 @@ Nel caso in cui le due parti riprendano i rapporti di lavoro entro un anno o li 
 
 #### Art. 41b
 
-**Termine quadro e numero di indennità giornaliere per gli assicurati prossimi all’età che dà diritto alla rendita AVS**[^41b-1]
+**Termine quadro e numero di indennità giornaliere per gli assicurati prossimi al raggiungimento dell’età di riferimento[^41b-2]**[^41b-1]
 
-### (art. 27 cpv. 3 LADI)
-
-<sup>1</sup> L’assicurato che ha aperto un termine quadro per la riscossione della prestazione in base all’articolo 13 LADI durante gli ultimi quattro anni precedenti il raggiungimento dell’età ordinaria che dà diritto alla rendita AVS ha diritto a 120 indennità giornaliere supplementari.
+<sup>1</sup> L’assicurato che ha aperto un termine quadro per la riscossione della prestazione in base all’articolo 13 LADI durante gli ultimi quattro anni precedenti il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^41b-3] ha diritto a 120 indennità giornaliere supplementari.[^41b-4]
 
 <sup>2</sup> Il termine quadro per la riscossione della prestazione è prolungato fino alla fine del mese che precede quello del versamento della rendita AVS.
 
 <sup>3</sup> Se il diritto all’indennità è esaurito, un nuovo termine quadro per la riscossione della prestazione viene aperto qualora i relativi presupposti siano adempiuti.
 
 [^41b-1]: Introdotto dal n. I dell’O dell’11 dic. 1995 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^41b-2]: Nuovo testo giusta l’all. n. 12 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^41b-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^41b-4]: Nuovo testo giusta l’all. n. 12 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 41c
 
@@ -1354,6 +1338,18 @@ Un settore d’esercizio è parificato ad un’azienda se costituisce un’unit�
 <sup>1</sup> È considerato periodo di conteggio un periodo di tempo di quattro settimane se i salari sono pagati ad intervalli di una, due o quattro settimane. In tutti gli altri casi, il periodo di conteggio è di un mese.
 
 <sup>2</sup> Se un’azienda prevede diversi periodi di salario, all’indennità per lavoro ridotto è applicabile il periodo di conteggio corrispondente a un mese o a quattro settimane.
+
+#### Art. 53a
+
+**Autorizzazione per i formatori**[^53a-1]
+
+### (art. 32 cpv. 6 LADI)
+
+<sup>1</sup> Il datore di lavoro che intende ottenere un’autorizzazione secondo l’articolo 32 capoverso 6 LADI deve presentare domanda al servizio cantonale competente entro il termine stabilito dall’articolo 36 capoverso 1 LADI prima di poter continuare la formazione durante le ore considerate perdita di lavoro computabile.
+
+<sup>2</sup> Se il preannuncio di lavoro ridotto deve essere rinnovato in applicazione dell’articolo 36 capoverso 1 ultimo periodo LADI, si deve inoltrare una nuova domanda di autorizzazione.
+
+[^53a-1]: Introdotto dal n. I dell’O del 24 gen. 2024, in vigore dal 1° gen. 2024 (RU **20****24** 62).
 
 #### Art. 54
 
@@ -3188,6 +3184,21 @@ Per quanto riguarda l’Islanda, il Lichtenstein e la Norvegia, fino all’entra
 
 [^u3-2]: [RU 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+
+## Disposizioni transitorie della modifica del 30 agosto 2023
+
+[^u4-1]
+
+[^u4-1]: [RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+<sup>1</sup> Se per il versamento mensile di prestazioni volontarie del datore di lavoro alle assicurate non è stato stabilito alcun periodo, il calcolo di cui all’articolo 10*d* capoverso 1 è effettuato sulla base del numero di mesi che precedono il raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021[^u4-2] della LAVS[^u4-3].
+
+<sup>2</sup> Sono considerate prestazioni di vecchiaia della previdenza professionale, che vanno dedotte dall’indennità di disoccupazione, le prestazioni della previdenza professionale obbligatoria e sovraobbligatoria versate alle assicurate prima del raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS.
+
+<sup>3</sup> Le assicurate che hanno aperto un termine quadro per la riscossione della prestazione in base all’articolo 13 LADI durante gli ultimi quattro anni precedenti il raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS hanno diritto a 120 indennità giornaliere supplementari.
+
+[^u4-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^u4-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 Allegato[^t-2]
 

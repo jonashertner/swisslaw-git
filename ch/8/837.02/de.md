@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. September 2023)
+vom 31. August 1983 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -325,9 +325,11 @@ Die für die berufliche Vorsorge verwendeten Beträge werden von den zu berücks
 
 <sup>1</sup> Wird eine für einen bestimmten Zeitraum in Monatsraten auszurichtende freiwillige Leistung vereinbart, so wird von der Summe dieser monatlichen Leistungen der Jahreshöchstbetrag nach Artikel 3 Absatz 2 AVIG abgezogen und das Ergebnis durch die vereinbarte Anzahl Monate geteilt. Der sich daraus ergebende Betrag wird von der Arbeitslosenentschädigung abgezogen.
 
-<sup>2</sup> Wurde kein Zeitraum festgelegt, so erfolgt die Berechnung nach Absatz 1 auf Grund der Anzahl Monate bis zum Erreichen des ordentlichen AHV-Rentenalters.
+<sup>2</sup> Wurde kein Zeitraum festgelegt, so erfolgt die Berechnung nach Absatz 1 aufgrund der Anzahl Monate bis zum Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^10d-2] über die Alters- und Hinterlassenenversicherung (AHVG).[^10d-3]
 
 [^10d-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^10d-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10d-3]: Fassung gemäss Anhang Ziff. 12 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 10e
 
@@ -397,24 +399,9 @@ Die berücksichtigten freiwilligen Leistungen werden in die Berechnung des versi
 
 #### Art. 12
 
-**Beitragszeit vorzeitig pensionierter Versicherter**
+[^12-1]
 
-### (Art. 13 Abs. 3 AVIG)
-
-<sup>1</sup> Versicherten, die vor Erreichung des Rentenalters der AHV pensioniert worden sind, wird nur jene beitragspflichtige Beschäftigung als Beitragszeit angerechnet, die sie nach der Pensionierung ausgeübt haben.
-
-<sup>2</sup>
-
-Absatz 1 gilt nicht, wenn der Versicherte:
-
-- a. aus wirtschaftlichen Gründen oder aufgrund von zwingenden Regelungen im Rahmen der beruflichen Vorsorge vorzeitig pensioniert wurde und
-- b.[^12-1] einen Anspruch auf Altersleistungen erwirbt, der geringer ist als die Entschädigung, die ihm nach Artikel 22 AVIG zustünde.[^12-2]
-
-<sup>3</sup> Als Altersleistungen gelten Leistungen der obligatorischen und weitergehenden beruflichen Vorsorge sowie Altersleistungen einer ausländischen obligatorischen oder freiwilligen Altersversicherung, unabhängig davon, ob es sich um eine ordentliche Altersleistung oder um eine Vorruhestandsleistung handelt.[^12-3]
-
-[^12-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^12-2]: Fassung gemäss Ziff. I der V vom 28. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
-[^12-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Juni 2002 ([AS 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)).
+[^12-1]: Aufgehoben durch Anhang Ziff. 12 der V vom 30. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 12a
 
@@ -808,16 +795,12 @@ Der Versicherte hat Anspruch auf einen angemessenen Vorschuss für kontrollierte
 
 #### Art. 32
 
-**Entschädigung vorzeitig pensionierter Versicherter**[^32-1]
+**Altersleistungen der beruflichen Vorsorge**[^32-1]
 
-### (Art. 18*c* Abs. 1 und 22 AVIG)
+Als Altersleistungen der beruflichen Vorsorge, die von der Arbeitslosenentschädigung abzuziehen sind, gelten Leistungen der obligatorischen und der überobligatorischen beruflichen Vorsorge, die der versicherten Person vor Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^32-2] ausbezahlt werden.
 
-[^32-2]
-
-Als Altersleistungen gelten Leistungen der obligatorischen und weitergehenden beruflichen Vorsorge, auf die bei Erreichen der reglementarischen Altersgrenze für die vorzeitige Pensionierung ein Anspruch erworben wurde.
-
-[^32-1]: Fassung gemäss Ziff. I 6 der V über das Stabilisierungsprogramm 1998 vom 11. Aug. 1999, in Kraft seit 1. Sept. 1999 ([AS 1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)).
-[^32-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^32-1]: Fassung gemäss Anhang Ziff. 12 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^32-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 33
 
@@ -1066,17 +1049,22 @@ Wird das Arbeitsverhältnis innerhalb eines Jahres zwischen den gleichen Parteie
 
 #### Art. 41b
 
-**Rahmenfrist und Anzahl Taggelder für kurz vor dem Rentenalter stehende Versicherte**[^41b-1]
+**Rahmenfrist und Anzahl Taggelder für kurz vor dem Erreichen des Referenzalters stehende Versicherte**[^41b-1]
 
 ### (Art. 27 Abs. 3 AVIG)
 
-<sup>1</sup> Versicherte, denen innerhalb der letzten vier Jahre vor Erreichen des ordentlichen AHV-Rentenalters aufgrund von Artikel 13 AVIG eine Rahmenfrist für den Leistungsbezug eröffnet wird, haben Anspruch auf zusätzliche 120 Taggelder.
+[^41b-2]
+
+<sup>1</sup> Versicherte, denen innerhalb der letzten vier Jahre vor Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^41b-3] aufgrund von Artikel 13 AVIG eine Rahmenfrist für den Leistungsbezug eröffnet wird, haben Anspruch auf zusätzliche 120 Taggelder.[^41b-4]
 
 <sup>2</sup> Die Rahmenfrist für den Leistungsbezug wird bis zum Ende des der Ausrichtung der AHV-Rente vorangehenden Monats verlängert.
 
 <sup>3</sup> Ist der Taggeldhöchstanspruch ausgeschöpft, so wird eine neue Rahmenfrist für den Leistungsbezug eröffnet, wenn die Voraussetzungen dafür erfüllt sind.
 
 [^41b-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^41b-2]: Fassung gemäss Anhang Ziff. 12 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^41b-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^41b-4]: Fassung gemäss Anhang Ziff. 12 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 41c
 
@@ -1344,6 +1332,18 @@ Eine Betriebsabteilung ist einem Betrieb gleichgestellt, wenn sie eine mit eigen
 <sup>1</sup> Als Abrechnungsperiode gilt ein Zeitraum von vier Wochen, wenn die Löhne in Zeitabständen von einer, zwei oder vier Wochen ausbezahlt werden. In allen übrigen Fällen beträgt die Abrechnungsperiode einen Monat.
 
 <sup>2</sup> Gibt es in einem Betrieb unterschiedliche Lohnperioden, so werden für die Kurzarbeitsentschädigung die entsprechenden Abrechnungsperioden von einem Monat oder vier Wochen angewendet.
+
+#### Art. 53a
+
+**Bewilligung für Berufsbildnerinnen und Berufsbildner**[^53a-1]
+
+### (Art. 32 Abs. 6 AVIG)
+
+<sup>1</sup> Ein Arbeitgeber, der eine Bewilligung nach Artikel 32 Absatz 6 AVIG erhalten will, muss diese innerhalb der in Artikel 36 Absatz 1 AVIG vorgesehenen Frist bei der zuständigen kantonalen Amtsstelle beantragen, bevor die Ausbildung der Lernenden während der Stunden, die als anrechenbarer Arbeitsausfall gelten, fortgesetzt werden kann.
+
+<sup>2</sup> Muss die Voranmeldung von Kurzarbeit gemäss Artikel 36 Absatz 1 letzter Satz AVIG erneuert werden, so ist ein neuer Bewilligungsantrag zu stellen.
+
+[^53a-1]: Eingefügt durch Ziff. I der V vom 24. Jan. 2024, in Kraft seit 1. Jan. 2024 ([AS 2024 62](https://fedlex.data.admin.ch/eli/oc/2024/62)).
 
 #### Art. 54
 
@@ -3171,6 +3171,21 @@ In Bezug auf Island, Liechtenstein, und Norwegen gilt bis zum Inkrafttreten der 
 
 [^u3-2]: [AS 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+
+## Übergangsbestimmung zur Änderung vom 30. August 2023
+
+[^u4-1]
+
+[^u4-1]: [AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+<sup>1</sup> Wurde für die Ausrichtung von monatlichen freiwilligen Leistungen des Arbeitgebers an weibliche Versicherte kein Zeitraum festgelegt, so erfolgt die Berechnung nach Artikel 10*d* Absatz 1 aufgrund der Anzahl Monate bis zum Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^u4-2] des AHVG[^u4-3] festgelegten Referenzalters.
+
+<sup>2</sup> Als Altersleistungen der beruflichen Vorsorge, die von der Arbeitslosenentschädigung abzuziehen sind, gelten Leistungen der obligatorischen und der überobligatorischen beruflichen Vorsorge, die der weiblichen Versicherten vor Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters ausbezahlt werden.
+
+<sup>3</sup> Weibliche Versicherte, denen innerhalb der letzten vier Jahre vor Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters aufgrund von Artikel 13 AVIG eine Rahmenfrist für den Leistungsbezug eröffnet wird, haben Anspruch auf zusätzliche 120 Taggelder.
+
+[^u4-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^u4-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 Anhang[^t-1]
 

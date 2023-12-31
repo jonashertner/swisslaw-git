@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230901/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (État le 1<sup>er</sup> septembre 2023)
+du 31 août 1983 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -327,9 +327,11 @@ Les montants affectés à la prévoyance professionnelle sont déduits des prest
 
 <sup>1</sup> Lorsque des prestations volontaires mensuelles ont été convenues pour une période déterminée, le montant maximum du gain annuel assuré visé à l’art. 3, al. 2, LACI est déduit de la somme de ces prestations mensuelles ’et le résultat est divisé par le nombre de mois convenu. Le montant qui en résulte est déduit de l’indemnité de chômage.
 
-<sup>2</sup> Si aucune période n’a été fixée, le calcul visé à l’al. 1 est effectué sur la base du nombre de mois qui précèdent l’âge ordinaire de l’AVS.
+<sup>2</sup> Si aucune période n’a été fixée, le calcul visé à l’al. 1 est effectué sur la base du nombre de mois qui précèdent l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^10d-2].[^10d-3]
 
 [^10d-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^10d-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10d-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 10e
 
@@ -399,24 +401,9 @@ Les prestations volontaires prises en compte entrent dans le calcul du gain assu
 
 #### Art. 12
 
-**Période de cotisation des assurés à la retraite anticipée**
+[^12-1]
 
-### (art. 13, al. 3, LACI)
-
-<sup>1</sup> Pour les assurés qui ont été mis à la retraite avant d’avoir atteint l’âge donnant droit aux prestations de l’AVS, seule est prise en compte, comme période de cotisation, l’activité soumise à cotisation qu’ils ont exercée après leur mise à la retraite.
-
-<sup>2</sup>
-
-L’al. 1 n’est pas applicable lorsque l’assuré:
-
-- a. a été mis à la retraite anticipée pour des raisons d’ordre économique ou sur la base de réglementations impératives entrant dans le cadre de la prévoyance professionnelle et
-- b.[^12-1] a droit à des prestations de retraite inférieures à l’indemnité de chômage à laquelle il a droit en vertu de l’art. 22 LACI.[^12-2]
-
-<sup>3</sup> Sont considérées comme des prestations de vieillesse les prestations de la prévoyance professionnelle obligatoire et surobligatoire, ainsi que les prestations de vieillesse d’une assurance-vieillesse étrangère, obligatoire ou facultative, quelles soient versées au titre d’une rente de vieillesse ordinaire ou d’une prestation de préretraite.[^12-3]
-
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
-[^12-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)).
+[^12-1]: Abrogé par l’annexe ch. 12 de l’O du 30 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 12a
 
@@ -815,16 +802,12 @@ L’assuré a droit à une avance convenable correspondant aux jours contrôlés
 
 #### Art. 32
 
-**Indemnisation des assurés à la retraite anticipée**[^32-1]
+**Prestations de vieillesse de la prévoyance professionnelle**[^32-1]
 
-### (art. 18*c*, al. 1, et 22 LACI<sup>)</sup>
+Sont considérées comme prestations de vieillesse de la prévoyance professionnelle à déduire de l’indemnité de chômage les prestations de la prévoyance professionnelle obligatoire et de la prévoyance professionnelle surobligatoire qui sont versées à l’assuré avant qu’il atteigne l’âge de référence fixé à l’art. 21, al. 1, LAVS[^32-2].
 
-[^32-2]
-
-Sont considérées comme prestations de vieillesse les prestations de prévoyance professionnelle obligatoire et surobligatoire auxquelles l’assuré avait droit lorsqu’il a atteint la limite d’âge réglementaire pour la retraite anticipée.
-
-[^32-1]: Nouvelle teneur selon le ch. I 6 de l’O du 11 août 1999 sur le programme de stabilisation 1998 ([RO 1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)).
-[^32-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^32-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^32-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 33
 
@@ -1075,17 +1058,20 @@ Lorsque les mêmes parties reprennent les rapports de travail dans un délai d�
 
 #### Art. 41b
 
-**Délai-cadre et nombre d’indemnités journalières pour les assurés proches de l’âge de la retraite**[^41b-1]
+**Délai-cadre et nombre d’indemnités journalières pour les assurés proches de l’âge de référence[^41b-2]**[^41b-1]
 
 ### (art. 27, al. 3, LACI)
 
-<sup>1</sup> L’assuré pour lequel un délai-cadre d’indemnisation fondé sur l’art. 13 LACI a été ouvert dans les quatre ans précédant l’âge donnant droit à une rente ordinaire AVS a droit à 120 indemnités journalières supplémentaires.
+<sup>1</sup> L’assuré pour lequel un délai-cadre d’indemnisation fondé sur l’art. 13 LACI a été ouvert dans les quatre ans précédant l’âge de référence fixé à l’art. 21, al. 1, LAVS[^41b-3] a droit à 120 indemnités journalières supplémentaires.[^41b-4]
 
 <sup>2</sup> Le délai-cadre d’indemnisation est prolongé jusqu’à la fin du mois précédant celui du versement de la rente AVS.
 
 <sup>3</sup> Un nouveau délai-cadre d’indemnisation est ouvert lorsque l’assuré a épuisé son droit maximum aux indemnités si les conditions sont remplies.
 
 [^41b-1]: Introduit par le ch. I de l’O du 11 déc. 1995 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^41b-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^41b-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^41b-4]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 41c
 
@@ -1355,6 +1341,18 @@ Un secteur d’exploitation est assimilé à une entreprise lorsqu’il constitu
 <sup>1</sup> Est réputé période de décompte, un laps de temps de quatre semaines lorsque l’entreprise verse les salaires à une, deux ou quatre semaines d’intervalle. Dans tous les autres cas, la période de décompte est d’un mois.
 
 <sup>2</sup> Lorsqu’une entreprise connaît différentes périodes de salaire, la période de décompte correspondante, d’un mois ou de quatre semaines, est applicable à l’indemnité en cas de réduction de l’horaire de travail.
+
+#### Art. 53a
+
+**Autorisation pour les formateurs**[^53a-1]
+
+### (art. 32, al. 6, LACI)
+
+<sup>1</sup> L’employeur qui souhaite obtenir une autorisation visée à l’art. 32, al. 6, LACI, doit en faire la demande à l’autorité cantonale compétente dans le délai prévu à l’art. 36, al. 1, LACI avant que le formateur puisse poursuivre la formation pendant les heures qui comptent comme une perte de travail à prendre en considération.
+
+<sup>2</sup> Lorsque le préavis de réduction de l’horaire de travail doit être renouvelé en application de l’art. 36, al. 1, dernière phrase LACI, une nouvelle demande d’autorisation doit être déposée.
+
+[^53a-1]: Introduit par le ch. I de l’O du 24 janv. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 62](https://fedlex.data.admin.ch/eli/oc/2024/62)).
 
 #### Art. 54
 
@@ -2597,7 +2595,7 @@ Si l’employeur perçoit abusivement l’indemnité allouée en cas de réducti
 
 <sup>3</sup> L’organe de compensation annule la décision lorsque, sur recours du bénéficiaire de prestations, il a été décidé définitivement que le versement était légal ou n’était pas indubitablement erroné.
 
-[^114-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011, à l'exception de l'al. 2 qui entre en vigueur le 1<sup>er</sup> avr. 2011 ([RO 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
+[^114-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011, à l’exception de l’al. 2 qui entre en vigueur le 1<sup>er</sup> avr. 2011 ([RO 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
 
 #### Art. 114a
 
@@ -3195,6 +3193,21 @@ L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norv
 
 [^u3-2]: [RO 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+
+## Dispositions transitoires de la modification du 30 août 2023
+
+[^u4-1]
+
+[^u4-1]: [RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+<sup>1</sup> Si aucune période n’a été fixée pour le versement de prestations volontaires mensuelles de l’employeur à l’assurée, le calcul visé à l’art. 10*d*, al. 1, est effectué sur la base du nombre de mois qui précèdent l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^u4-2] de la LAVS[^u4-3].
+
+<sup>2</sup> Sont considérées comme prestations de vieillesse de la prévoyance professionnelle à déduire de l’indemnité de chômage les prestations de la prévoyance professionnelle obligatoire et de la prévoyance professionnelle surobligatoire qui sont versées à l’assurée avant qu’elle atteigne l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS.
+
+<sup>3</sup> L’assurée pour laquelle un délai-cadre d’indemnisation fondé sur l’art. 13 LACI a été ouvert dans les quatre ans précédant l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS a droit à 120 indemnités journalières supplémentaires.
+
+[^u4-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^u4-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 Annexe[^t-1]
 
