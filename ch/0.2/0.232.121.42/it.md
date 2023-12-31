@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Regolamento d'esecuzione del 30 settembre 2003 relativo all’Accordo dell’Aja concernente la registrazione internazionale dei disegni e modelli industriali (con tariffe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: it
-version: 2023-04-01
+version: 2024-01-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20230401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione dell’Aja il 30 settembre 2003 Entrato in vigore il 1° aprile 2004
 
-(Stato 1° aprile 2023)
+(Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -831,17 +831,17 @@ Ogni emolumento di designazione standard o di designazione individuale pagato al
 
 Tariffe[^t-2]
 
-(in vigore il 1° gen. 2015)
+(in vigore il 1° gen. 2024)
 
 ## I. Domande internazionali
 
-[^t-2]: Aggiornate dalla cifra I della Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008 ( [[RU 2011 963](https://www.fedlex.admin.ch/eli/oc/2011/145/it)](https://fedlex.data.admin.ch/eli/oc/2011/145)), del 1° ott. 2009 ( [[RU 2011 969](https://www.fedlex.admin.ch/eli/oc/2011/146/it)](https://fedlex.data.admin.ch/eli/oc/2011/146)) e del 30 set. 2014, in vigore dal 1° gen. 2015 ( [[RU 2015 3715](https://www.fedlex.admin.ch/eli/oc/2015/621/it)](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+[^t-2]: Aggiornate dalla cifra I delle Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008 ( [[RU 2011 963](https://www.fedlex.admin.ch/eli/oc/2011/145/it)](https://fedlex.data.admin.ch/eli/oc/2011/145)), del 1° ott. 2009 ( [[RU 2011 969](https://www.fedlex.admin.ch/eli/oc/2011/146/it)](https://fedlex.data.admin.ch/eli/oc/2011/146)), del 30 set. 2014 ( [[RU 2015 3715](https://www.fedlex.admin.ch/eli/oc/2015/621/it)](https://fedlex.data.admin.ch/eli/oc/2015/621)) e del 14 lug. 2023, in vigore dal 1° gen. 2024 ( [[RU 2023 589](https://www.fedlex.admin.ch/eli/oc/2023/589/it)](https://fedlex.data.admin.ch/eli/oc/2023/589)).
 
 <table>
 <tr><th></th><th>Franchi svizzeri</th></tr>
 <tr><td>1. Tassa di base[^annexu1-lvlI-1]\*</td><td></td></tr>
 <tr><td>1.1 Per un disegno o modello</td><td>397.–</td></tr>
-<tr><td>1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>19.–</td></tr>
+<tr><td>1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>50.–</td></tr>
 <tr><td>2. Tassa di pubblicazione[^annexu1-lvlI-2]\*</td><td></td></tr>
 <tr><td>2.1 Per ogni raffigurazione da pubblicare</td><td>17.–</td></tr>
 <tr><td>2.2 Per ogni pagina supplementare sulla quale sono presentate una o più raffigurazioni (quando le raffigurazioni sono presentate su carta)</td><td>150.–</td></tr>
@@ -863,8 +863,8 @@ Tariffe[^t-2]
 <tr><td>5. Tassa di designazione individuale (l’importo della tassa di designazione individuale è fissato da ogni parte contraente interessata)[^annexu1-lvlI-4]\*\*\*</td><td></td></tr>
 </table>
 
-[^annexu1-lvlI-1]: Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di base ammonta a 40 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale), la tassa di pubblicazione ammonta a 2 franchi svizzeri per ogni raffigurazione ed a 15 franchi svizzeri per ogni pagina in più della prima in cui sono presentate una o più raffigurazioni, e la tassa supplementare quando la descrizione supera le 100 parole ammonta a 1 franco svizzero per ogni gruppo di cinque parole in più della centesima parola.
-[^annexu1-lvlI-2]: 
+[^annexu1-lvlI-1]: <sup>\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri.
+[^annexu1-lvlI-2]: – Qualora sia applicata questa riduzione di tassa, la tassa di base ammonta a 40 franchi svizzeri (per un disegno o modello) e a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale), la tassa di pubblicazione ammonta a 2 franchi svizzeri per ogni raffigurazione e a 15 franchi svizzeri per ogni pagina in più della prima in cui sono presentate una o più raffigurazioni, e la tassa supplementare quando la descrizione supera le 100 parole ammonta a 1 franco svizzero per ogni gruppo di cinque parole in più della centesima parola.
 [^annexu1-lvlI-3]: <sup>\*\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % del’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di designazione standard ammonta a 4 franchi svizzeri (per un disegno o modello) ed a 1 franco svizzero (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello uno, a 6 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello due ed a 9 franchi svizzeri (per un disegno o modello) ed a 5 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale per il livello tre.
 [^annexu1-lvlI-4]: <sup>\*\*\*</sup> [Nota dell’OMPI]: Raccomandazione adottata dall’Assemblea dell’Unione dell’Aja: «Le parti contraenti che effettuano, o hanno effettuato, la dichiarazione prevista all’articolo 7.2) dell’Atto del 1999 o dalla regola 36.1) del regolamento d’esecuzione comune sono invitate a indicare, in tale dichiarazione o in una nuova dichiarazione, che, per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria dei paesi meno avanzati, conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, la tassa individuale da pagare per la loro designazione è ridotta al 10 % dell’importo normalmente riscosso (arrotondato, all’occorrenza, al numero intero più vicino)».
 
@@ -922,7 +922,7 @@ Tariffe[^t-2]
 <tr><td>22. Ricerca nella lista dei titolari di registrazioni internazionali pubblicate</td><td></td></tr>
 <tr><td>22.1 Per ricerca basata sul nome di una persona fisica o giuridica specifica</td><td>82.–</td></tr>
 <tr><td>22.2 Per ogni registrazione internazionale supplementare trovata</td><td>10.–</td></tr>
-<tr><td>23. Supplemento per la comunicazione di estratti, copie, informazioni o rapporti di ricerca tramite telecopiatrice (per pagina)</td><td>4.–</td></tr>
+<tr><td>23. ...</td><td></td></tr>
 </table>
 
 ## VII. Servizi forniti dall’Ufficio internazionale

@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: Ausführungsordnung vom 30. September 2003 der Genfer Akte (1999) des Haager Abkommens betreffend die internationale Eintragung gewerblicher Muster und Modelle (mit Gebührenverzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: de
-version: 2023-04-01
+version: 2024-01-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2006-236-20230401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-236-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Angenommen von der Versammlung des Haager Verbands am 30. September 2003
 
 In Kraft getreten am 1. April 2004
 
-(Stand am 1. April 2023)
+(Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 30. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -831,16 +831,16 @@ Jede in Bezug auf eine Vertragspartei an das Internationale Büro entrichtete St
 
 Gebührenverzeichnis[^t-2]
 
-(In Kraft seit dem 1. Januar 2015)
+(In Kraft seit dem 1. Januar 2024)
 
 ## I. Internationale Anmeldungen
 
-[^t-2]: Bereinigt gemäss Beschlüssen der Versammlung des Haager Verbands vom 30. Sept. 2008 ([AS 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), 1. Okt. 2009 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)) und 30. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+[^t-2]: Bereinigt gemäss Beschlüssen der Versammlung des Haager Verbands vom 30. Sept. 2008, ([AS 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), 1. Okt. 2009 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)), 30. Sept. 2014 ([AS 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)) und vom 14. Juli 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 589](https://fedlex.data.admin.ch/eli/oc/2023/589)).
 
 <table>
 <tr><td>1.</td><td colspan="3">Grundgebühr[^annexu1-lvlI-1]\*</td><td></td><td>Schweizer Franken</td></tr>
 <tr><td></td><td>1.1</td><td colspan="2">Für ein Muster oder ein Modell</td><td></td><td>397.–</td></tr>
-<tr><td></td><td>1.2</td><td colspan="2">Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td></td><td>19.–</td></tr>
+<tr><td></td><td>1.2</td><td colspan="2">Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td></td><td>50.–</td></tr>
 <tr><td>2.</td><td colspan="3">Veröffentlichungsgebühr<sup>\*</sup></td><td></td><td></td></tr>
 <tr><td></td><td>2.1</td><td colspan="2">Für jede zu veröffentlichende Abbildung</td><td></td><td>17.–</td></tr>
 <tr><td></td><td>2.2</td><td colspan="2">Für jede Seite, zusätzlich zur ersten, auf welcher eine oder mehrere Abbildungen präsentiert werden (falls die Abbildungen auf Papier präsentiert werden)</td><td></td><td>150.–</td></tr>
@@ -858,7 +858,7 @@ Gebührenverzeichnis[^t-2]
 <tr><td>5.</td><td colspan="3">Individuelle Bestimmungsgebühr (der Betrag der individuellen Bestimmungsgebühr wird durch jede betroffene Vertragspartei festgelegt)[^annexu1-lvlI-3]\*\*\*</td><td></td><td></td></tr>
 </table>
 
-[^annexu1-lvlI-1]: <sup>\*</sup> Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die für das Internationale Büro bestimmten Gebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. – Findet eine solche Gebührenermässigung Anwendung, so beträgt die Grundgebühr 40 Schweizer Franken (für ein Muster oder Modell) und 2 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist), die Veröffentlichungsgebühr 2 Schweizer Franken für jede Abbildung und 15 Schweizer Franken für jede Seite ab der zweiten Seite, auf der sich eine oder mehrere Abbildungen befinden, und die Zusatzgebühr 1 Schweizer Franken für jede Gruppe von 5 weiteren Wörtern, wenn die Beschreibung mehr als 100 Wörter umfasst.
+[^annexu1-lvlI-1]: \* Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren dies-bezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die für das Internationale Büro bestimmten Gebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. Findet eine solche Gebührenermässigung Anwendung, so beträgt die Grundgebühr 40 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist), die Veröffentlichungsgebühr 2 Schweizer Franken für jede Abbildung und 15 Schweizer Franken für jede Seite ab der zweiten Seite, auf der sich eine oder mehrere Abbildungen befinden, und die Zusatzgebühr 1 Schweizer Franken für jede Gruppe von 5 weiteren Wörtern, wenn die Beschreibung mehr als 100 Wörter umfasst.
 [^annexu1-lvlI-2]: <sup>\*\*</sup> Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die Standardgebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. – Findet eine solche Ermässigung Anwendung, so beträgt die Standard-Bestimmungsgebühr 4 Schweizer Franken (für ein Muster oder Modell) und 1 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe eins, 6 Schweizer Franken (für ein Muster oder Modell) und 2 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe zwei und 9 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe drei.
 [^annexu1-lvlI-3]: <sup>\*\*\*</sup> [Anmerkung der WIPO]: Von der Versammlung des Haager Verbands beschlossene Empfehlung: – «Vertragsparteien, die eine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1 der Gemeinsamen Ausführungsordnung abgeben oder abgegeben haben, sind aufgefordert, in dieser Erklärung oder einer neuen Erklärung darauf hinzuweisen, dass sich bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, die für ihre Bestimmung zu zahlende individuelle Bestimmungsgebühr auf 10 % des normalerweise eingezogenen Betrags ermässigt (gegebenenfalls gerundet auf die nächste ganze Zahl). Des Weiteren sind diese Vertragsparteien aufgefordert, darauf hinzuweisen, dass die Ermässigung auch Anwendung findet auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist.»
 
@@ -919,7 +919,7 @@ Gebührenverzeichnis[^t-2]
 <tr><td>22.</td><td colspan="2">Suche in der Liste der Inhaber von veröffentlichten internationalen Eintragungen</td><td></td><td></td></tr>
 <tr><td></td><td>22.1</td><td>Pro Suche, die sich auf den Namen einer bestimmten natürlichen oder juristischen Person erstreckt</td><td></td><td>82.–</td></tr>
 <tr><td></td><td>22.2</td><td>Für jede internationale Eintragung, die zusätzlich zur ersten gefunden wird</td><td></td><td>10.–</td></tr>
-<tr><td>23.</td><td colspan="2">Zuschlagsgebühr für die Faxmitteilung von Auszügen, von Abschriften, von Auskünften oder Suchberichten (pro Seite)</td><td></td><td>4.–</td></tr>
+<tr><td>23.</td><td colspan="2">...</td><td></td><td></td></tr>
 </table>
 
 ## VII. Vom Internationalen Büro erbrachte Dienstleistungen

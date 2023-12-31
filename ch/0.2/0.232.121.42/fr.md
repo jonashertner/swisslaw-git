@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Règlement d'exécution du 30 septembre 2003 de l’Acte de Genève (1999) de l’Arrangement de La Haye concernant l’enregistrement international des dessins et modèles industriels (avec barème)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: fr
-version: 2023-04-01
+version: 2024-01-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20230401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,11 +18,9 @@ RO **2006** 1375[^t-1]
 
 Texte original
 
-Adopté par l’Assemblée de l’Union de La Haye le 30 septembre 2003
+Adopté par l’Assemblée de l’Union de La Haye le 30 septembre 2003 Entré en vigueur le 1<sup>er</sup> avril 2004
 
-Entré en vigueur le 1<sup>er</sup> avril 2004
-
-(État le 1<sup>er</sup> avril 2023)
+(État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 30 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -32,7 +30,7 @@ Entré en vigueur le 1<sup>er</sup> avril 2004
 
 **Définitions**[^1-1]
 
-\1) [*Expressions abrégées*] Aux fins du présent règlement d’exécution, il faut entendre par :
+\1) [*Expressions abrégées*] Aux fins du présent règlement d’exécution, il faut entendre par:
 
 - i) «Acte de 1999[^1-2]», l’Acte signé à Genève le 2 juillet 1999 de l’Arrangement de La Haye;
 - ii) «Acte de 1960[^1-3]», l’Acte signé à La Haye le 28 novembre 1960 de l’Arrangement de La Haye;
@@ -770,7 +768,7 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 
 Toute taxe de désignation standard ou toute taxe de désignation individuelle payée au Bureau international à l’égard d’une Partie contractante est créditée sur le compte de cette Partie contractante auprès du Bureau international au cours du mois qui suit celui de l’inscription de l’enregistrement international ou du renouvellement pour lequel cette taxe a été payée ou, en ce qui concerne la seconde partie de la taxe de désignation individuelle, dès sa réception par le Bureau international.
 
-## Chapitre 8 ...
+## Chapitre 8 …
 
 ### **Règles 30** et **31**
 
@@ -880,17 +878,17 @@ Toute taxe de désignation standard ou toute taxe de désignation individuelle p
 
 Barème des taxes[^t-2]
 
-(en vigueur le 1<sup>er</sup> janv. 2015)
+(en vigueur le 1<sup>er</sup> janv. 2024)
 
 ## I. Demandes internationales
 
-[^t-2]: Mis à jour selon les D de l’Ass. de l’Union de la Haye du 30 sept. 2008 ([RO 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), du 1<sup>er</sup> oct. 2009 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)) et du 30 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+[^t-2]: Mis à jour par les D de l’Ass. de l’Union de la Haye du 30 sept. 2008 ([RO 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), du 1<sup>er</sup> oct. 2009 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)), du 30 sept. 2014 ([RO 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)) et du 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 589](https://fedlex.data.admin.ch/eli/oc/2023/589)).
 
 <table>
 <tr><th></th><th>Francs suisses</th></tr>
 <tr><td>1. Taxe de base[^annexu1-lvlI-1]\*</td><td colspan="2"></td></tr>
 <tr><td>1.1 Pour un dessin ou modèle</td><td colspan="2">397.–</td></tr>
-<tr><td>1.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td colspan="2">19.–</td></tr>
+<tr><td>1.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td colspan="2">50.–</td></tr>
 <tr><td>2. Taxe de publication<sup>\*</sup></td><td colspan="2"></td></tr>
 <tr><td>2.1 Pour chaque reproduction à publier</td><td colspan="2">17.–</td></tr>
 <tr><td>2.2 Pour chaque page, en sus de la première, sur laquelle sont présentées une ou plusieurs reproductions (lorsque les reproductions sont présentées sur papier)</td><td colspan="2">150.–</td></tr>
@@ -908,13 +906,13 @@ Barème des taxes[^t-2]
 <tr><td>5. Taxe de désignation individuelle (le montant de la taxe de désignation individuelle est fixé par chaque Partie contractante concernée)[^annexu1-lvlI-3]\*\*\*</td><td colspan="2"></td></tr>
 </table>
 
-[^annexu1-lvlI-1]: \* Pour les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés (PMA), conformément à la liste établie par l’Organisation des Nations Unies, ou à une organisation intergouvernementale dont la majorité des États membres sont des PMA, les taxes à l’intention du Bureau international sont ramenées à 10 % du montant prescrit (arrondi au nombre entier le plus proche). Cette réduction s’applique également à l’égard d’une demande internationale déposée par un déposant dont le droit à cet égard ne découle pas exclusivement d’un rattachement à une telle organisation intergouvernementale, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des PMA ou, à défaut, qui est un État membre de cette organisation intergouvernementale et que, dans ce cas, la demande internationale soit régie exclusivement par l’Acte de 1999. En cas de pluralité de déposants, chacun d’entre eux doit satisfaire à ces critères. – Lorsque cette réduction de taxe s’applique, la taxe de base s’établit à 40 francs suisses (pour un dessin ou modèle) et à 2 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale), la taxe de publication s’établit à 2 francs suisses pour chaque reproduction et à 15 francs suisses pour chaque page, en sus de la première, sur laquelle sont présentées une ou plusieurs reproductions, et la taxe supplémentaire lorsque la description excède 100 mots s’établit à 1 franc suisse par groupe de cinq mots au‑delà du 100<sup>e</sup>.
+[^annexu1-lvlI-1]: \* En ce qui concerne les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés (PMA), conformément à la liste établie par l’Organisation des Nations Unies, ou à une organisation intergouvernementale dont la majorité des États membres sont des PMA, les taxes qui doivent être payées au Bureau international sont ramenées à 10 % du montant prescrit (arrondi au nombre entier le plus proche). Cette réduction s’applique également à l’égard d’une demande internationale déposée par un déposant dont le droit à cet égard ne découle pas exclusivement d’un rattachement à une telle organisation intergouvernementale, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des PMA ou, à défaut, qui est un État membre de cette organisation intergouvernementale et que, dans ce cas, la demande internationale soit régie exclusivement par l’Acte de 1999. En cas de pluralité de déposants, chacun d’entre eux doit remplir ces critères. Lorsque cette réduction de taxe s’applique, la taxe de base s’établit à 40 francs suisses (pour un dessin ou modèle) et à 5 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale), la taxe de publication s’établit à 2 francs suisses pour chaque reproduction et à 15 francs suisses pour chaque page, en sus de la première, sur laquelle sont présentées une ou plusieurs reproductions, et la taxe supplémentaire lorsque la description excède 100 mots s’établit à 1 franc suisse par groupe de cinq mots au-delà du 100<sup>e</sup>.
 [^annexu1-lvlI-2]: \*\* Pour les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés (PMA), conformément à la liste établie par l’Organisation des Nations Unies, ou à une organisation intergouvernementale dont la majorité des États membres sont des PMA, les taxes standard sont ramenées à 10 % du montant prescrit (arrondi au nombre entier le plus proche). Cette réduction s’applique également à l’égard d’une demande internationale déposée par un déposant dont le droit à cet égard ne découle pas exclusivement d’un rattachement à une telle organisation intergouvernementale, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des PMA ou, à défaut, qui est un État membre de cette organisation intergouvernementale et que, dans ce cas, la demande internationale soit régie exclusivement par l’Acte de 1999. En cas de pluralité de déposants, chacun d’entre eux doit satisfaire à ces critères. – Lorsque cette réduction de taxe s’applique, la taxe de désignation standard s’établit à 4 francs suisses (pour un dessin ou modèle) et à 1 franc suisse (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau un, à 6 francs suisses (pour un dessin ou modèle) et à 2 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau deux et à 9 francs suisses (pour un dessin ou modèle) et à 5 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau trois.
 [^annexu1-lvlI-3]: \*\*\* [Note de l’OMPI]: Recommandation adoptée par l’Assemblée de l’Union de La Haye: – «Les parties contractantes qui font, ou qui ont fait, la déclaration prévue à l’art. 7.2) de l’Acte de 1999 ou à la règle 36.1) du règlement d’exécution commun sont encouragées à indiquer, dans cette déclaration ou dans une nouvelle déclaration, que, pour les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés, conformément à la liste établie par l’Organisation des Nations Unies, la taxe individuelle à payer pour leur désignation est ramenée à 10 % du montant normalement perçu (arrondi au nombre entier le plus proche). Ces parties contractantes sont en outre encouragées à indiquer que la réduction s’applique, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des pays les moins avancés ou, à défaut, qui est un État membre de cette organisation intergouvernementale et que, dans ce cas, la demande internationale soit régie exclusivement par l’Acte de 1999».
 
-## II. ...
+## II. …
 
-\6. ...
+\6. …
 
 ## III. Renouvellement d’un enregistrement international issu d’une demande internationale régie exclusivement ou partiellement par l’Acte de 1960 ou par l’Acte de 1999
 
@@ -932,9 +930,9 @@ Barème des taxes[^t-2]
 
 [^annexu1-lvlIII-1]: \*\*\*\* 50 % de la taxe de base de renouvellement.
 
-## IV. ...
+## IV. …
 
-\11. et 12. ...
+\11. et 12. …
 
 ## V. Inscriptions diverses
 
@@ -966,7 +964,7 @@ Barème des taxes[^t-2]
 <tr><td>22. Recherche dans la liste des titulaires d’enregistrements internationaux publiés</td><td></td></tr>
 <tr><td>22.1 Par recherche portant sur le nom d’une personne physique ou morale déterminée</td><td>82.–</td></tr>
 <tr><td>22.2 Pour chaque enregistrement international trouvé en sus du premier</td><td>10.–</td></tr>
-<tr><td>23. Surtaxe pour la communication d’extraits, de copies, de renseignements ou de rapports de recherche par télécopie (par page)</td><td>4.–</td></tr>
+<tr><td>23. …</td><td></td></tr>
 </table>
 
 ## VII. Services fournis par le Bureau international
