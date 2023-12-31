@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
 short: OPair
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20230101-fr-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20240101-fr-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20230101/fr"
 
 (OPair)
 
-du 16 décembre 1985 (État le 1<sup>er</sup> janvier 2023)
+du 16 décembre 1985 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1287,7 +1287,7 @@ Annexe 2[^t-2]
 
 ## Limitation complémentaire et dérogatoire des émissions pour certaines installations spéciales
 
-[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) et le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci-devant.
+[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), l’erratum du 30 nov. 2021 ([RO 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), le ch. I des O du 16 nov. 2022 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) et du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)ch. III). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci-devant.
 
 ### Table des matières
 
@@ -1794,7 +1794,7 @@ Les valeurs limites d’émission se rapportent à une teneur en oxygène des ef
 
 Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image1.png)
 
 ### 474 Mesures
 
@@ -1911,11 +1911,17 @@ Lorsqu’il s’agit d’une installation dans laquelle des produits sont trait�
 
 Les dispositifs pour l’entreposage de lisier et de produits méthanisés liquides doivent être équipés d’une couverture durablement efficace afin de limiter les émissions d’ammoniac et d’odeurs. L’OFEV et l’Office fédéral de l’agriculture établissent ensemble des recommandations en la matière.
 
-### 552 …
+### 552 Épandage d’engrais de ferme liquides
 
-[^annex2-lvlu1-lvl5-lvl55-lvl552-1]
+<sup>1</sup> Le lisier et les produits méthanisés liquides doivent être épandus, sur les surfaces dont la déclivité est inférieure ou égale à 18 %, selon des techniques appropriées de sorte à limiter le plus possible les émissions, lorsque l’exploitation dispose de 3 ha ou plus de ce type de surfaces.
 
-[^annex2-lvlu1-lvl5-lvl55-lvl552-1]: En vigueur le 1<sup>er</sup> janvier 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682), [789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
+<sup>2</sup> Sont considérées comme des techniques appropriées au sens de l’al. 1:
+
+- a. l’épandage en bande par distributeur avec rampe d’épandage à tuyaux souples (pendillards) ou à tuyaux semi-rigides équipés de socs;
+- b. l’épandage par enfouissement dans des sillons ouverts ou fermés;
+- c. l’épandage avec un déflecteur sur des surfaces de terres arables, pour autant que les engrais de ferme liquides épandus soient enfouis dans le sol dans les heures qui suivent.
+
+<sup>3</sup> Sur demande écrite, l’autorité peut octroyer, au cas par cas, des dérogations justifiées pour des raisons relevant de la technique ou de l’exploitation.
 
 ### 56 Torréfaction du café et du cacao
 
@@ -2697,14 +2703,14 @@ Si une même installation de combustion est alimentée alternativement avec diff
 
 <sup>2</sup> La valeur limite du mélange se calcule selon la formule suivante:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image4.png)</sub>
 
 Signification:
 
 - G<sub>m</sub> = valeur limite pondérée du mélange de combustibles, rapportée à une teneur en oxygène B<sub>1</sub>
 - G<sub>1</sub>, G<sub>2</sub> ... G<sub>n</sub> = valeur limite d’émission des différents combustibles[^annex3-lvlu1-lvl8-lvl82-1]
 - E<sub>1</sub>, E<sub>2</sub> ... E<sub>n</sub> = énergie fournie par combustible et par heure
-- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + ... E<sub>n</sub>
+- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + .... E<sub>n</sub>
 - B<sub>1</sub>, B<sub>2</sub> ... B<sub>n</sub> = grandeur de référence (teneur en oxygène à laquelle sont rapportées les valeurs limites d’émission pour le premier, le deuxième et les autres combustibles)
 
 <sup>3</sup> On procédera par analogie à l’al. 2 pour calculer le taux d’émission déterminant du soufre.
@@ -3121,13 +3127,13 @@ Si les circonstances le justifient, l’autorité exigera des cheminées plus é
 
 Diagramme 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image5.png)
 
 ### Détermination du facteur de correction g pour les zones de construction et de végétation
 
 Diagramme 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/fr/xml/image/image6.png)
 
 I = hauteur des obstacles déterminants les plus élevés (ch. 5)
 

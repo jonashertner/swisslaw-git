@@ -4,11 +4,11 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20230101-en-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20240101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAPC)
 
-of 16 December 1985 (Status as of 1 January 2023)
+of 16 December 1985 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -938,9 +938,9 @@ The rated thermal input is the maximum thermal energy that can be supplied to an
 
 If the mass flow of dust is 0.20 kg/h or more, total dust emissions must not exceed 20 mg/m<sup>3</sup>.
 
-### 42 Limitation of exposure to components of dust
+### 42 Limitation of dust component emissions
 
-The requirements specified in Numbers 5, 7 and 8 apply for the limitation of exposure to individual components of dust.
+The requirements specified in Numbers 5, 7 and 8 apply to the limitation of emissions of individual components of dust.
 
 ### 43 Measures relating to treatment, storage, trans-shipment and transport
 
@@ -1284,7 +1284,7 @@ Annex 2[^t-2]
 
 ## Additional or different emission limitation requirements for particular installations
 
-[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) and No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)). See also the transitional provision to the Amendment of 12.2.2020 above.
+[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), the correction of 30 Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), No I of the O of 16 Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) and of 12 Feb. 2020, in force since 1 Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)No III). See also the transitional provision to the Amendment of 12.2.2020 above.
 
 ### Contents
 
@@ -1354,7 +1354,7 @@ Annex 2[^t-2]
 
 54 Installations for drying green fodder
 
-55 Installations for the storage and spreading of liquid farmyard manure
+55 Installations for the storage and spreading of liquid farm manure
 
 56 Installations for roasting coffee and cocoa
 
@@ -1431,7 +1431,7 @@ Emissions of sulphur oxides, expressed as sulphur dioxide, shall be limited as f
 
 ### 115 Dust
 
-Dust emissions must not exceed 20 mg/m<sup>3</sup>.
+Dust emissions must not exceed 10 mg/m<sup>3</sup>.
 
 ### 116 Mercury and cadmium
 
@@ -1843,7 +1843,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -1954,17 +1954,23 @@ Dust emissions shall be limited as far as is technically and operationally feasi
 
 The provisions of Number 81 also apply to installations in which products are treated by direct contact with furnace flue gases.
 
-### 55 Installations for storing and spreading liquid farmyard manure
+### 55 Installations for storing and spreading liquid farm manure
 
-### 551 Storage of liquid farmyard manure
+### 551 Storage of liquid farm manure
 
 Facilities for the storage of liquid manure and liquid fermentation products must be equipped with a permanently effective cover to limit ammonia and odour emissions. The FOEN and the Federal Office for Agriculture shall issue joint recommendations.
 
-### 552 ...
+### 552 Spreading of liquid farm manure
 
-[^annex2-lvlu1-lvl5-lvl56-1]
+<sup>1</sup> Liquid manure and liquid fermentation products shall be spread on areas with slopes of up to 18 per cent using suitable methods with the lowest possible emissions if these areas on the farm total 3 or more hectares.
 
-[^annex2-lvlu1-lvl5-lvl56-1]: Comes into force on 1 Jan. 2024 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682), [789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
+<sup>2</sup> The following apply as suitable methods in accordance with paragraph 1:
+
+- a. band-shaped spreading with a drag hose or drag shoe distributors;
+- b. the slot drilling process with open or closed slot;
+- c. spreading with wide spreaders in arable farming, provided that the applied liquid farmyard manure is worked into the soil within a few hours.
+
+<sup>3</sup> The authority may, in response to a written application, permit exceptions in individual cases on technical or operational grounds.
 
 ### 56 Installations for roasting coffee and cocoa
 
@@ -2177,7 +2183,7 @@ For comparison with the emission limit values, the measured emissions shall be a
 
 ### 741 Scope
 
-<sup>1</sup> The provisions of this Number apply to installations in which solid biogenic waste and products of agriculture are incinerated or thermally decomposed alone or together with wood fuels as specified in Annex 5. Farmyard manure and other strong-smelling waste and products must not be either incinerated or thermally decomposed in such installations.
+<sup>1</sup> The provisions of this Number apply to installations in which solid biogenic waste and products of agriculture are incinerated or thermally decomposed alone or together with wood fuels as specified in Annex 5. Farm manure and other strong-smelling waste and products must not be either incinerated or thermally decomposed in such installations.
 
 <sup>2</sup> If such waste and products are incinerated together with waste as specified in Number 711 or Number 721, the provisions of Number 71 or Number 72 apply.
 
@@ -2656,8 +2662,8 @@ Hand-stoked boilers with a rated heat output of up to 500 kW must be fitted with
 
 <sup>3</sup> In derogation from paragraphs 1, 2 and 2<sup>bis</sup>, the authority may specify a smaller accumulator volume if.
 
-- a. two or more individual installations as are operated as a single operating unit in order to cover a variable heat or steam requirement in changing situations;
-- b. this is appropriate for technical or operational reasons
+- two or more individual installations as are operated as a single operating unit in order to cover a variable heat or steam requirement in changing situations;
+- this is appropriate for technical or operational reasons
 
 ### 524 Measurement and control
 
@@ -2759,7 +2765,7 @@ If a single installation operates alternately on different kinds of fuel, the em
 
 <sup>2</sup> The composite limit value is calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image2.png)
 
 where:
 
@@ -3198,15 +3204,15 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image3.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image4.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image5.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20240101/en/xml/image/image5.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)
