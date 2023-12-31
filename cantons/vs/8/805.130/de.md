@@ -3,20 +3,20 @@ canton: VS
 number: "805.130"
 title: Beschluss über die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-21
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-20
 adopted: 2026-06-10
 in_force: 2026-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.130"
-pdf: "https://lex.vs.ch/api/de/versions/3146/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3271/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen
 
-vom 21.12.2022 (Stand 01.01.2023)
+vom 20.12.2023 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -38,43 +38,53 @@ beschliesst:
 
 **Allgemeine Bestimmungen**
 
-<sup>1</sup> Der vorliegende Beschluss regelt für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen:
+<sup>1</sup> Der vorliegende Beschluss regelt für die Organisationen für Krankenpflege zu Hause (Spitex-Organisationen) und die selbstständigen Pflegefachpersonen:
 
 - a) die fakturierbaren Kosten für die Pflegeleistungen gemäss Artikel 21 Absatz 2 der Verordnung über die Planung und die Finanzierung der Langzeitpflege, und
 - b) die Restfinanzierung der öffentlichen Hand an den Pflegekosten der im Wallis wohnhaften Versicherten, gemäss Artikel 21 Absatz 3 und 4 der Verordnung über die Planung und die Finanzierung der Langzeitpflege.
 
 #### Art. 2
 
-**Fakturierbare Kosten 2023**
+**Fakturierbare Kosten 2024**
 
-<sup>1</sup> Die fakturierbaren Kosten für die Pflegeleistungen pro Stunde:
+<sup>1</sup> Die fakturierbaren Standardkosten für die Pflegeleistungen pro Stunde:
 
-- a) 105 Franken für die Leistungen der Abklärung und Beratung;
-- b) 96 Franken für die Leistungen der Untersuchung und Behandlung;
-- c) 74 Franken für die Leistungen der Grundpflege.
+- a) 105,00 Franken für die Leistungen der Abklärung und Beratung;
+- b) 96,00 Franken für die Leistungen der Untersuchung und Behandlung;
+- c) 74,00 Franken für die Leistungen der Grundpflege.
 
 #### Art. 3
 
-**Restbeitrag 2023**
+**Restbeitrag 2024**
 
-<sup>1</sup> Die Restbeiträge der öffentlichen Hand an den Pflegekosten pro Stunde:
+<sup>1</sup> Die Standardrestbeiträge der öffentlichen Hand an den Pflegekosten pro Stunde:
 
 <table>
 <tr><th>Leistung</th><th>Anteil Kanton (CHF)</th><th>Anteil Gemeinde (CHF)</th></tr>
-<tr><td>Abklärung und Beratung</td><td>19.65</td><td>8.45</td></tr>
-<tr><td>Untersuchung und Behandlung</td><td>23.10</td><td>9.90</td></tr>
-<tr><td>Grundpflege</td><td>15.00</td><td>6.40</td></tr>
+<tr><td>Abklärung und Beratung</td><td>19,65</td><td>8,45</td></tr>
+<tr><td>Untersuchung und Behandlung</td><td>23,10</td><td>9,90</td></tr>
+<tr><td>Grundpflege</td><td>15,00</td><td>6,40</td></tr>
 </table>
 
 <sup>2</sup> Für die Organisationen für Krankenpflege zu Hause, die Familienangehörige (pflegende Angehörige) beschäftigen und entlohnen, wird kein Restbeitrag der öffentlichen Hand für die von den Familienangehörigen erbrachten Leistungen gewährt.
 
 <sup>3</sup> Kein Restbeitrag der öffentlichen Hand wird in dem besonderen Fall gewährt, dass ein Alters- und Pflegeheim (APH) Leistungen in Wohnungen mit sozialmedizinischer Betreuung erbringt, die sich in derselben Infrastruktur wie das APH befinden.
 
+<sup>4</sup> Der Staatsrat kann mittels Entscheid bis zu den in Absatz 1 definierten Beträgen Restbeiträge an den Pflegekosten für Spitex-Organisationen festlegen, welche ausschliesslich Pflegeleistungen in Wohnungen mit sozialmedizinischer Betreuung an mehreren Standorten erbringen.
+
+<sup>5</sup> In-House-Spitex (Spitex-Organisationen, die ausschliesslich innerhalb ihrer eigenen Räumlichkeiten Pflegeleistungen erbringen und sich nicht an den Wohnort des Patienten begeben) sind nicht berechtigt, Restbeiträge zu erhalten. Ausnahmen sind für Spitex-Organisationen ohne Gewinnorientierung möglich.
+
+<sup>6</sup> Für Spitex, die, alle Klienten zusammengenommen, den nationalen Mittelwert an Pflegestunden pro Klient im Jahresdurchschnitt erheblich überschreiten, kann das für die Gesundheit zuständige Departement entscheiden, eine Reduktion auf die Standardrestbeiträge anzuwenden.
+
 #### Art. 4
 
-**Entschädigung für die Grundversorgung für öffentliche-rechtliche Organisationen mit kantonalem Leistungsauftrag**
+**Spitex-Organisationen mit kantonalem Leistungsauftrag**
 
-<sup>1</sup> Für die Organisationen mit einem kantonalen Leistungsauftrag wird eine Entschädigung von 4 Franken für die Grundversorgung pro fakturierter Stunde entrichtet.
+<sup>1</sup> Das für die Gesundheit zuständige Departement kann Spitex-Organisationen, die die notwendigen Voraussetzungen erfüllen, einen kantonalen Leistungsauftrag für spezifische Dienstleistungen erteilen, beispielsweise für die Grundversorgung in einer bestimmten Region oder spezialisierte Pflege.
+
+<sup>2</sup> Die Erteilung eines Leistungsauftrags hängt von der Einhaltung der Subventionierungsbedingungen gemäss Artikel 25, 26 und 28 des Gesetzes über die Langzeitpflege und festgelegten Kriterien ab, etwa der geografischen Abdeckung, der Spezialisierung auf bestimmte Pflegebereiche, dem Umfang der zurückgelegten Entfernungen, der pro Klient aufgewendeten Zeit im Jahresdurchschnitt, und verpflichtet ausserdem zur Bereitstellung einer Jahresrechnung und gegebenenfalls anderer Daten.
+
+<sup>3</sup> Die Vergütung wird im jährlichen Mandatsvertrag in Form einer Pauschale in Höhe von 1 bis 4 Franken pro Pflegestunde vereinbart.
 
 #### Art. 5
 
@@ -82,4 +92,4 @@ beschliesst:
 
 <sup>1</sup> Das für die Gesundheit zuständige Departement wird mit der Ausführung dieses Beschlusses beauftragt.
 
-CSW RO/AGS 2022-110
+CSW RO/AGS 2023-138
