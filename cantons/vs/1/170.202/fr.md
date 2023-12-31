@@ -4,13 +4,12 @@ number: "170.202"
 title: "Règlement d'exécution de la loi sur l'information du public, la protection des données et l'archivage"
 short: RELIPDA
 language: fr
-version: 2020-03-01
-valid_until: 2023-12-31
-version_adopted: 2020-03-04
+version: 2024-01-01
+version_adopted: 2023-11-29
 adopted: 2010-12-16
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/170.202"
-pdf: "https://lex.vs.ch/api/fr/versions/2642/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3473/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2642/pdf_file"
 
 (RELIPDA)
 
-du 16.12.2010 (état 01.03.2020)
+du 16.12.2010 (état 01.01.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -97,7 +96,7 @@ décide:
 
 **Traitement de la demande d'informations**
 
-<sup>1</sup> L'autorité à qui la demande est adressée la traite elle-même dans un délai de dix jours dans la mesure où aucune autre autorité n'est compétente pour le faire.
+<sup>1</sup> L'autorité à qui la demande est adressée la traite elle-même dans un délai de 10 jours ouvrables à compter de la réception de la demande dans la mesure où aucune autre autorité n'est compétente pour le faire.
 
 <sup>2</sup> Au cas où la demande concerne manifestement des informations détenues par une autre autorité, la demande lui est transmise pour traitement.
 
@@ -111,7 +110,7 @@ décide:
 
 <sup>2</sup> L'accès à des informations requises sur demande écrite s'effectue par consultation auprès de l'autorité compétente ou par mise à disposition de copies.
 
-<sup>3</sup> Un accès par voie électronique peut être accordé, lorsque l'information requise ne contient pas de données à caractère personnel ou si les données à caractère personnel peuvent être suffisamment protégées.
+<sup>3</sup> Un accès par voie électronique peut être accordé, lorsque l'information requise ne contient pas de données personnelles ou si les données personnelles peuvent être suffisamment protégées.
 
 #### Art. 10
 
@@ -161,11 +160,7 @@ décide:
 
 #### Art. 15
 
-**Tiers concernés par une demande d'information**
-
-<sup>1</sup> Lorsque l'accès à un document officiel peut porter atteinte à un intérêt prépondérant public ou privé, les tiers concernés sont consultés par écrit.
-
-<sup>2</sup> Un délai de dix jours leur est imparti pour s'opposer par écrit à la communication du document.
+**…**
 
 #### Art. 16
 
@@ -240,9 +235,9 @@ décide:
 
 **Modalités**
 
-<sup>1</sup> Toute personne qui demande au maître du fichier si des données la concernant sont traitées doit en règle générale le faire par écrit et justifier de son identité.
+<sup>1</sup> Toute personne qui demande au responsable du traitement si des données la concernant sont traitées doit justifier de son identité.
 
-<sup>2</sup> La demande d'accès et la communication des renseignements demandés peuvent être faites par voie électronique, pour autant que le maître du fichier le prévoie expressément et qu'il prenne des mesures adéquates afin:
+<sup>2</sup> La demande d'accès et la communication des renseignements demandés peuvent être faites par voie électronique, pour autant que le responsable du traitement le prévoie expressément et qu'il prenne des mesures adéquates afin:
 
 - a) d'assurer l'identification de la personne concernée, et
 - b) de protéger les données de la personne concernée de tout accès de tiers non autorisés lors de la communication des renseignements.
@@ -252,13 +247,13 @@ décide:
 - a) les informations concernant le bénéficiaire qui sont disponibles dans les bases de données de l'autorité;
 - b) la base juridique et le but poursuivi par le traitement des données, les autorités impliquées dans le traitement des données ainsi que les destinataires réguliers de l'information.
 
-<sup>4</sup> D'entente avec le maître du fichier ou sur proposition de celui-ci, la personne concernée peut également consulter ses données sur place. Si elle y a consenti et qu'elle a été identifiée, les renseignements peuvent également lui être fournis oralement.
+<sup>4</sup> D'entente avec le responsable du traitement ou sur proposition de celui-ci, la personne concernée peut également consulter ses données sur place. Si elle y a consenti et qu'elle a été identifiée, les renseignements peuvent également lui être fournis oralement.
 
-<sup>5</sup> Les renseignements sont fournis dans les tente jours suivant réception de la demande. Il en va de même d'une décision restreignant le droit d'accès; celle-ci doit être motivée. Si les renseignements ne peuvent être donnés dans les trente jours, le maître du fichier en avertit le requérant en lui indiquant le délai dans lequel interviendra la réponse.
+<sup>5</sup> Les renseignements sont fournis dans les 30 jours suivant réception de la demande. Il en va de même d'une décision restreignant le droit d'accès; celle-ci doit être motivée. Si les renseignements ne peuvent être donnés dans les 30 jours, le responsable du traitement en avertit le requérant en lui indiquant le délai dans lequel interviendra la réponse.
 
-<sup>6</sup> Si plusieurs maîtres de fichier gèrent en commun un ou plusieurs fichiers, le droit d'accès peut être exercé auprès de chacun d'eux, à moins que l'un d'eux soit responsable du traitement de l'ensemble des demandes de renseignements. Si le maître de fichier n'est pas autorisé à communiquer le renseignement demandé, il transmet la requête à qui de droit.
+<sup>6</sup> Si plusieurs responsables du traitement gèrent en commun des données, le droit d'accès peut être exercé auprès de chacun d'eux. Si le responsable du traitement n'est pas autorisé à communiquer le renseignement demandé, il transmet la requête à qui de droit.
 
-<sup>7</sup> Si le traitement des données faisant l'objet d'une demande d'accès est effectué par un tiers pour le compte du maître de fichier et que ce dernier n'est pas en mesure de fournir le renseignement demandé, il transmet la demande au tiers pour qu'il y donne suite.
+<sup>7</sup> Si le traitement des données faisant l'objet d'une demande d'accès est effectué par un tiers pour le compte du responsable du traitement et que ce dernier n'est pas en mesure de fournir le renseignement demandé, il transmet la demande au tiers pour qu'il y donne suite.
 
 <sup>8</sup> La consultation des données d'une personne décédée est accordée lorsque le requérant justifie un intérêt à la consultation et qu'aucun intérêt prépondérant de proches de la personne décédée ou de tiers ne s'y oppose. Un intérêt est établi en cas de proche parenté ou de mariage avec la personne décédée.
 
@@ -266,68 +261,83 @@ décide:
 
 **Communication des données**
 
-<sup>1</sup> Le maître du fichier indique au destinataire l'actualité et la fiabilité des données personnelles qu'il communique, dans la mesure où ces informations ne ressortent pas des données elles-mêmes ou des circonstances.
+<sup>1</sup> Le responsable du traitement indique au destinataire l'actualité et la fiabilité des données qu'il communique, dans la mesure où ces informations ne ressortent pas des données elles-mêmes ou des circonstances.
 
-### 5.2 Déclaration des fichiers
+### 5.2 Registre
 
 #### Art. 27
 
-**Déclaration**
+**Exception à l’obligation d’enregistrer certains traitements**
 
-<sup>1</sup> Les nouveaux fichiers contenant des données sensibles sont déclarés au préposé à la protection des données et à la transparence (ci-après: préposé) avant d'être opérationnels. La déclaration contient les informations suivantes:
+<sup>1</sup> Ne sont pas enregistrés les traitements qui servent exclusivement à l’accomplissement de tâches de l’administration et ne déploient pas d’effets externes, à la condition qu’ils ne soient pas susceptibles de comporter un risque pour les droits de la personne concernée.
 
-- a) les bases légales;
-- b) les finalités du traitement pour lequel les données sont collectées;
-- c) les autorités compétentes et le maître du fichier;
-- d) les destinataires prévus.
+- a) …
+- b) …
+- c) …
+- d) …
+
+<sup>2</sup> Les autorités n’ont pas l’obligation d’enregistrer les traitements occasionnels ou qui ne sont pas susceptibles de comporter un risque pour les droits de la personne concernée.
 
 ### 5.3 Mesures techniques et organisationnelles
 
 #### Art. 28
 
-**Mesures générales**
-
-<sup>1</sup> L'autorité qui traite des données personnelles ou qui met à disposition un réseau télématique assure l'authenticité, la fiabilité, l'intégrité et l'exploitabilité des données afin de garantir de manière appropriée la protection des données. Elle protège les systèmes notamment contre les risques de:
-
-- a) destruction accidentelle ou non autorisée;
-- b) perte accidentelle;
-- c) erreurs techniques;
-- d) falsification, vol ou utilisation illicite;
-- e) modification, copie, accès ou autre traitement non autorisés.
-
-<sup>2</sup> Les mesures techniques et organisationnelles sont appropriées. Elles tiennent compte en particulier des critères suivants:
-
-- a) but du traitement de données;
-- b) nature et étendue du traitement de données;
-- c) évaluation des risques potentiels pour les personnes concernées;
-- d) développement technique.
-
-<sup>3</sup> Ces mesures font l'objet d'un réexamen périodique.
+**…**
 
 #### Art. 29
 
 **Mesures particulières**
 
-<sup>1</sup> Le maître du fichier prend, en particulier lors de traitements automatisés de données personnelles, des mesures techniques et organisationnelles propres à réaliser notamment les objectifs suivants:
+<sup>1</sup> Le responsable du traitement prend des mesures techniques et organisationnelles propres à réaliser notamment les objectifs suivants:
 
-- a) contrôle des installations à l'entrée: les personnes non autorisées n'ont pas accès aux locaux et aux installations utilisées pour le traitement de données personnelles;
-- b) contrôle des supports de données personnelles: les personnes non autorisées ne peuvent pas lire, copier, modifier ou importer des supports de données;
-- c) contrôle du transport: les personnes non autorisées ne peuvent pas lire, copier, modifier ou effacer des données personnelles lors de leur communication ou lors du transport de supports de données;
-- d) contrôle de la communication: les destinataires auxquels des données personnelles sont communiquées à l'aide d'installations de transmission peuvent être identifiés;
-- e) contrôle de la mémoire: les personnes non autorisées ne peuvent ni introduire de données personnelles dans la mémoire ni prendre connaissance des données mémorisées, les modifier ou les effacer;
-- f) contrôle de l'utilisation: les personnes non autorisées ne peuvent pas utiliser les systèmes de traitement automatisé de données personnelles au moyen d'installations de transmission;
-- g) contrôle de l'accès: les personnes autorisées ont accès uniquement aux données personnelles dont elles ont besoin pour accomplir leurs tâches;
-- h) contrôle de la saisie: l'identité des personnes saisissant des données personnelles dans le système, ainsi que les données saisies et le moment de leur saisie peuvent être vérifiés a posteriori.
+- a) sensibiliser les utilisateurs aux risques liés aux libertés et à la sphère privée;
+- b) authentifier les utilisateurs avant tout accès aux données et moyens de traitement;
+- c) limiter les accès aux seules données nécessaires à l’utilisateur;
+- d) prévoir un système de journalisation pour tracer les accès et gérer les incidents;
+- e) assurer la sécurité des postes de travail, y compris les équipements mobiles, des réseaux internes, des serveurs et des sites web;
+- f) effectuer des sauvegardes régulières et assurer la continuité d’activité en garantissant que les systèmes installés puissent être rétablis en cas d’interruption;
+- g) archiver les données de manière sécurisée;
+- h) limiter l’accès aux données pendant les opérations de maintenance et s’assurer de la destruction correcte des données;
+- i) vérifier le respect de la sécurité par les sous-traitants, cas échéant par des audits;
+- j) assurer la fiabilité, l’intégrité et l’authenticité des données;
+- k) chiffrer ou pseudonymiser les données lorsque cela est possible;
+- l) tester, analyser et évaluer régulièrement l’efficacité des mesures prises.
 
-<sup>2</sup> Les fichiers doivent être organisés de manière à permettre à la personne concernée d'exercer ses droits d'accès et de rectification.
+<sup>2</sup> Les données doivent être organisées de manière à permettre à la personne concernée d'exercer ses droits d'accès et de rectification.
 
 #### Art. 30
 
 **Journalisation**
 
-<sup>1</sup> Le maître du fichier journalise les traitements automatisés de données sensibles ou de profils de la personnalité lorsque les mesures préventives ne suffisent pas à garantir la protection des données. Une journalisation est notamment nécessaire, lorsque, sans cette mesure, il ne serait pas possible de vérifier a posteriori que les données ont été traitées conformément aux finalités pour lesquelles elles ont été collectées ou communiquées. Le préposé peut recommander la journalisation pour d'autres traitements.
+<sup>1</sup> Le responsable du traitement journalise les traitements automatisés de données sensibles ou de profilage lorsque les mesures préventives ne suffisent pas à garantir la protection des données. Une journalisation est notamment nécessaire, lorsque, sans cette mesure, il ne serait pas possible de vérifier a posteriori que les données ont été traitées conformément aux finalités pour lesquelles elles ont été collectées ou communiquées. Le préposé peut recommander la journalisation pour d'autres traitements.
 
-<sup>2</sup> Les procès-verbaux de journalisation sont conservés durant une année et sous une forme répondant aux exigences de la révision. Ils sont accessibles aux seuls organes ou personnes chargés de vérifier l'application des dispositions de protection des données personnelles, et ils ne sont utilisés qu'à cette fin.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés durant une année et sous une forme répondant aux exigences de la révision. Ils sont accessibles aux seules autorités de surveillance chargées de vérifier l'application des dispositions de protection des données, et ils ne sont utilisés qu'à cette fin.
+
+## 5a Autorité de surveillance
+
+#### Art. 30a
+
+**Composition de la commission cantonale de protection des données et de transparence**
+
+<sup>1</sup> La commission est composée:
+
+- a) d’un président;
+- b) d’un vice-président;
+- c) de 3 autres membres.
+
+#### Art. 30b
+
+**Statut et pouvoir d’examen et d’instruction**
+
+<sup>1</sup> La commission statue, en qualité d’autorité judiciaire indépendante de l’administration, sur tous les cas dont elle est saisie concernant les médiations qui n’ont pas abouti ou concernant le non-respect de l’accord trouvé lors d’une médiation.
+
+<sup>2</sup> Elle dispose d’un pouvoir d’examen illimité en fait et en droit.
+
+<sup>3</sup> Elle ordonne d’office, dans le cadre de l’instruction, toutes les mesures d’enquête nécessaire.
+
+<sup>4</sup> Elle peut mandater un expert externe.
+
+<sup>5</sup> La procédure est régie à titre supplétif par la loi sur la procédure et la juridiction administratives (LPJA).
 
 ## 6 Archivage
 

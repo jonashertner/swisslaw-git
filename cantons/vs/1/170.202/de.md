@@ -4,13 +4,12 @@ number: "170.202"
 title: "Ausführungsreglement zum Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung"
 short: ARGIDA
 language: de
-version: 2020-03-01
-valid_until: 2023-12-31
-version_adopted: 2020-03-04
+version: 2024-01-01
+version_adopted: 2023-11-29
 adopted: 2010-12-16
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/170.202"
-pdf: "https://lex.vs.ch/api/de/versions/2642/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2642/pdf_file"
 
 (ARGIDA)
 
-vom 16.12.2010 (Stand 01.03.2020)
+vom 16.12.2010 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -97,7 +96,7 @@ beschliesst:
 
 **Behandlung des Informationsgesuchs**
 
-<sup>1</sup> Die Behörde, an die das Gesuch gerichtet ist, behandelt es selbst innert einer Frist von zehn Tagen, sofern keine andere Behörde dafür zuständig ist.
+<sup>1</sup> Die Behörde, an die das Gesuch gerichtet ist, behandelt es selbst innert einer Frist von 10 Arbeitstagen nach dessen Eingang, sofern keine andere Behörde dafür zuständig ist.
 
 <sup>2</sup> Falls das Gesuch offensichtlich Informationen betrifft, die im Besitz einer anderen Behörde sind, wird das Gesuch zur Behandlung an diese Behörde weitergeleitet.
 
@@ -111,7 +110,7 @@ beschliesst:
 
 <sup>2</sup> Der Zugang zu schriftlich beantragten Informationen erfolgt entweder mittels Einsichtnahme bei der zuständigen Behörde oder mittels Zurverfügungstellung von Kopien.
 
-<sup>3</sup> Der Zugang auf elektronischem Weg kann gewährt werden, wenn die beantragte Information keine Personendaten enthält oder wenn die Personendaten ausreichend geschützt werden können.
+<sup>3</sup> Der Zugang auf elektronischem Weg kann gewährt werden, wenn die beantragte Information keine Personendaten enthält oder die Personendaten ausreichend geschützt werden können.
 
 #### Art. 10
 
@@ -161,11 +160,7 @@ beschliesst:
 
 #### Art. 15
 
-**Von einem Informationsgesuch betroffene Dritte**
-
-<sup>1</sup> Wenn der Zugang zu einem amtlichen Dokument einem überwiegenden öffentlichen oder privaten Interesse entgegenstehen könnte, werden die betroffenen Dritten schriftlich konsultiert.
-
-<sup>2</sup> Diese können innerhalb von zehn Tagen schriftlich gegen die Bekanntgabe des Dokuments Einsprache erheben.
+**…**
 
 #### Art. 16
 
@@ -240,9 +235,9 @@ beschliesst:
 
 **Modalitäten**
 
-<sup>1</sup> Jede Person, die vom Inhaber einer Datensammlung Auskunft darüber verlangt, ob Daten über sie bearbeitet werden, muss dies in der Regel in schriftlicher Form beantragen und sich über ihre Identität ausweisen.
+<sup>1</sup> Jede Person, die vom Verantwortlichen für die Datenbearbeitung Auskunft darüber verlangt, ob Daten über sie bearbeitet werden, muss sich über ihre Identität ausweisen.
 
-<sup>2</sup> Das Auskunftsbegehren sowie die Auskunftserteilung können auf elektronischem Weg erfolgen, wenn der Inhaber der Datensammlung dies ausdrücklich vorsieht und angemessene Massnahmen trifft, um:
+<sup>2</sup> Das Auskunftsbegehren sowie die Auskunftserteilung können auf elektronischem Weg erfolgen, wenn der Verantwortliche für die Datenbearbeitung dies ausdrücklich vorsieht und angemessene Massnahmen trifft, um:
 
 - a) die Identifizierung der betroffenen Person sicherzustellen; und
 - b) die persönlichen Daten der betroffenen Person bei der Auskunftserteilung vor dem Zugriff unberechtigter Dritter zu schützen.
@@ -252,13 +247,13 @@ beschliesst:
 - a) die Informationen betreffend den Gesuchsteller, die in den Datenbanken der Behörde verfügbar sind;
 - b) die Rechtsgrundlage und den mit der Datenbearbeitung verfolgten Zweck, die in die Datenbearbeitung involvierten Behörden sowie die regelmässigen Empfänger der Information.
 
-<sup>4</sup> Im Einvernehmen mit dem Inhaber der Datensammlung oder auf dessen Vorschlag hin kann die betroffene Person ihre Daten auch an Ort und Stelle einsehen. Die Auskunft kann auch mündlich erteilt werden, wenn die betroffene Person eingewilligt hat und identifiziert worden ist.
+<sup>4</sup> Im Einvernehmen mit dem Verantwortlichen für die Datenbearbeitung oder auf dessen Vorschlag hin kann die betroffene Person ihre Daten auch an Ort und Stelle einsehen. Die Auskunft kann auch mündlich erteilt werden, wenn die betroffene Person eingewilligt hat und identifiziert worden ist.
 
-<sup>5</sup> Die Auskunft oder der begründete Entscheid über die Beschränkung des Auskunftsrechts wird innert 30 Tagen nach Eingang des Auskunftsbegehrens erteilt. Kann die Auskunft nicht innert 30 Tagen erteilt werden, muss der Inhaber der Datensammlung den Gesuchsteller hierüber informieren und ihm die Frist mitteilen, in der die Auskunft erfolgen wird.
+<sup>5</sup> Die Auskunft wird innert 30 Tagen nach Eingang des Auskunftsbegehrens erteilt. Dies gilt auch für den begründeten Entscheid über die Beschränkung des Auskunftsrechts. Kann die Auskunft nicht innert 30 Tagen erteilt werden, muss der Verantwortliche für die Datenbearbeitung den Gesuchsteller hierüber informieren und ihm die Frist mitteilen, innerhalb der die Auskunft erteilt wird.
 
-<sup>6</sup> Werden eine oder mehrere Datensammlungen von mehreren Inhabern gemeinsam geführt, kann das Auskunftsrecht bei jedem Inhaber geltend gemacht werden, sofern nicht einer von ihnen für die Behandlung aller Auskunftsbegehren verantwortlich ist. Wenn der Inhaber der Datensammlung zur Auskunftserteilung nicht ermächtigt ist, leitet er das Begehren an den Zuständigen weiter.
+<sup>6</sup> Werden Daten von mehreren Verantwortlichen für die Datenbearbeitung gemeinsam verwaltet, kann das Auskunftsrecht bei jedem Verantwortlichen geltend gemacht werden. Ist der Verantwortliche für die Datenbearbeitung zur Auskunftserteilung nicht ermächtigt, leitet er das Begehren an die zuständige Person weiter.
 
-<sup>7</sup> Betrifft das Auskunftsbegehren Daten, die im Auftrag des Inhabers der Datensammlung von einem Dritten bearbeitet werden, leitet der Auftraggeber das Begehren an den Dritten zur Erledigung weiter, sofern er nicht selbst in der Lage ist, Auskunft zu erteilen.
+<sup>7</sup> Betrifft das Auskunftsbegehren Daten, die im Auftrag des Verantwortlichen für die Datenbearbeitung von einem Dritten bearbeitet werden, leitet der Verantwortliche das Begehren an den Dritten zur Erledigung weiter, sofern er nicht selbst in der Lage ist, Auskunft zu erteilen.
 
 <sup>8</sup> Wird Auskunft über Daten von verstorbenen Personen verlangt, ist sie zu erteilen, wenn der Gesuchsteller ein Interesse an der Auskunft nachweist und wenn keine überwiegenden Interessen von Angehörigen der verstorbenen Person oder von Dritten entgegenstehen. Nahe Verwandtschaft sowie Ehe mit der verstorbenen Person begründen ein Interesse.
 
@@ -266,68 +261,83 @@ beschliesst:
 
 **Bekanntgabe der Daten**
 
-<sup>1</sup> Der Inhaber der Datensammlung meldet dem Datenempfänger die Aktualität und Zuverlässigkeit der von ihm bekannt gegebenen Personendaten, sofern diese Informationen nicht aus den Daten selbst oder aus den Umständen hervorgehen.
+<sup>1</sup> Der Verantwortliche für die Datenbearbeitung meldet dem Datenempfänger die Aktualität und Zuverlässigkeit der von ihm bekannt gegebenen Daten, sofern diese Informationen nicht aus den Daten selbst oder aus den Umständen hervorgehen.
 
-### 5.2 Anmeldung der Datensammlungen
+### 5.2 Register
 
 #### Art. 27
 
-**Anmeldung**
+**Ausnahmen von der Pflicht zur Registrierung bestimmter Datenbearbeitungen**
 
-<sup>1</sup> Neue Datensammlungen mit besonders schützenswerten Daten sind vor Inbetriebnahme beim Datenschutz- und Öffentlichkeitsbeauftragten (nachstehend: Beauftragter) anzumelden. Die Anmeldung enthält folgende Angaben:
+<sup>1</sup> Datenbearbeitungen, die ausschliesslich der Erfüllung von Aufgaben der Verwaltung dienen und keine Wirkung nach aussen haben, werden nicht registriert, sofern sie kein Risiko für die Rechte der betroffenen Person darstellen.
 
-- a) die Rechtsgrundlagen;
-- b) den Zweck der Bearbeitung der gesammelten Daten;
-- c) die zuständigen Behörden und den Inhaber der Datensammlung;
-- d) die vorgesehenen Empfänger.
+- a) …
+- b) …
+- c) …
+- d) …
+
+<sup>2</sup> Die Behörden sind nicht verpflichtet, Datenbearbeitungen zu registrieren, die gelegentlich erfolgen oder kein Risiko für die Rechte der betroffenen Person darstellen.
 
 ### 5.3 Technische und organisatorische Massnahmen
 
 #### Art. 28
 
-**Allgemeine Massnahmen**
-
-<sup>1</sup> Die Behörde, die Personendaten bearbeitet oder ein Datenkommunikationsnetz zur Verfügung stellt, sorgt für die Echtheit, die Zuverlässigkeit, die Integrität und die Benutzbarkeit der Daten, um einen angemessenen Datenschutz zu gewährleisten. Insbesondere schützt sie die Systeme vor folgenden Risiken:
-
-- a) zufällige oder unbefugte Vernichtung;
-- b) zufälliger Verlust;
-- c) technische Fehler;
-- d) Fälschung, Diebstahl oder widerrechtliche Verwendung;
-- e) unbefugtes Ändern, Kopieren, Zugreifen oder andere unbefugte Bearbeitungen.
-
-<sup>2</sup> Die technischen und organisatorischen Massnahmen müssen angemessen sein. Insbesondere tragen sie folgenden Kriterien Rechnung:
-
-- a) Zweck der Datenbearbeitung;
-- b) Art und Umfang der Datenbearbeitung;
-- c) Einschätzung der möglichen Risiken für die betroffenen Personen;
-- d) gegenwärtiger Stand der Technik.
-
-<sup>3</sup> Diese Massnahmen sind periodisch zu überprüfen.
+**…**
 
 #### Art. 29
 
 **Besondere Massnahmen**
 
-<sup>1</sup> Der Inhaber der Datensammlung trifft insbesondere bei der automatisierten Bearbeitung von Personendaten die technischen und organisatorischen Massnahmen, die geeignet sind, namentlich folgenden Zielen gerecht zu werden:
+<sup>1</sup> Der Verantwortliche für die Datenbearbeitung trifft die technischen und organisatorischen Massnahmen, die geeignet sind, namentlich folgenden Zielen gerecht zu werden:
 
-- a) Zugangskontrolle: Unbefugten Personen ist der Zugang zu den Einrichtungen, in denen Personendaten bearbeitet werden, zu verwehren;
-- b) Personendatenträgerkontrolle: Unbefugten Personen ist das Lesen, Kopieren, Verändern oder Einführen von Datenträgern zu verunmöglichen;
-- c) Transportkontrolle: Bei der Bekanntgabe von Personendaten sowie beim Transport von Datenträgern ist zu verhindern, dass die Daten unbefugt gelesen, kopiert, verändert oder gelöscht werden können;
-- d) Bekanntgabekontrolle: Datenempfänger, denen Personendaten mittels Einrichtungen zur Datenübertragung bekannt gegeben werden, müssen identifizierbar sein;
-- e) Speicherkontrolle: Die unbefugte Eingabe in den Speicher sowie die unbefugte Einsichtnahme, Veränderung oder Löschung gespeicherter Personendaten sind zu verhindern;
-- f) Benutzerkontrolle: Die Benutzung von automatisierten Datenverarbeitungssystemen mittels Einrichtungen zur Datenübertragung durch unbefugte Personen ist zu verhindern;
-- g) Zugriffskontrolle: Der Zugriff der befugten Personen ist auf diejenigen Personendaten zu beschränken, die sie zur Erfüllung ihrer Aufgaben benötigen;
-- h) Eingabekontrolle: In automatisierten Systemen muss nachträglich überprüft werden können, welche Personendaten zu welcher Zeit und von welcher Person eingegeben wurden.
+- a) die Nutzer für die Risiken für die Freiheiten und die Privatsphäre sensibilisieren;
+- b) die Nutzer vor jedem Zugriff auf Daten und Bearbeitungsmittel authentifizieren;
+- c) den Zugriff auf die für den Nutzer notwendigen Daten beschränken;
+- d) eine Protokollierung zur Aufzeichnung der Zugriffe und Verwaltung der Vorfälle vorsehen;
+- e) die Sicherheit der Arbeitsplätze, einschliesslich der mobilen Ausrüstungen, internen Netzwerke, Server und Websites gewährleisten;
+- f) regelmässige Sicherungen durchführen und die Kontinuität der Tätigkeit gewährleisten, indem die Wiederherstellung der installierten Systeme im Falle eines Unterbruchs sichergestellt wird;
+- g) die Daten auf gesicherte Weise archivieren;
+- h) den Zugriff auf die Daten während der Unterhaltsarbeiten beschränken und die korrekte Vernichtung der Daten gewährleisten;
+- i) die Einhaltung der Sicherheitsvorschriften durch Subunternehmer überprüfen, gegebenenfalls durch Audits;
+- j) die Zuverlässigkeit, Integrität und Authentizität der Daten gewährleisten;
+- k) die Daten nach Möglichkeit verschlüsseln oder pseudonymisieren;
+- l) die Wirksamkeit der ergriffenen Massnahmen regelmässig überprüfen, analysieren und bewerten.
 
-<sup>2</sup> Die Datensammlungen sind so zu gestalten, dass die betroffenen Personen ihr Auskunftsrecht und ihr Recht auf Berichtigung wahrnehmen können.
+<sup>2</sup> Die Daten sind so zu organisieren, dass die betroffenen Personen ihr Auskunftsrecht und ihr Recht auf Berichtigung wahrnehmen können.
 
 #### Art. 30
 
 **Protokollierung**
 
-<sup>1</sup> Der Inhaber der Datensammlung protokolliert die automatisierte Bearbeitung von besonders schützenswerten Personendaten oder Persönlichkeitsprofilen, wenn die präventiven Massnahmen den Datenschutz nicht ausreichend gewährleisten können. Eine Protokollierung hat insbesondere dann zu erfolgen, wenn sonst nicht nachträglich festgestellt werden kann, ob die Daten für diejenigen Zwecke bearbeitet wurden, für die sie erhoben oder bekannt gegeben wurden. Der Beauftragte kann die Protokollierung auch für andere Bearbeitungen empfehlen.
+<sup>1</sup> Der Verantwortliche für die Datenbearbeitung protokolliert die automatisierte Bearbeitung von besonders schützenswerten Personendaten oder Profilingdaten, wenn die präventiven Massnahmen den Datenschutz nicht ausreichend gewährleisten können. Eine Protokollierung hat insbesondere dann zu erfolgen, wenn sonst nicht nachträglich festgestellt werden kann, ob die Daten für diejenigen Zwecke bearbeitet wurden, für die sie erhoben oder bekannt gegeben wurden. Der Beauftragte kann die Protokollierung auch für andere Bearbeitungen empfehlen.
 
-<sup>2</sup> Die Protokolle sind während eines Jahres revisionsgerecht aufzubewahren. Sie sind ausschliesslich den Organen oder privaten Personen zugänglich, denen die Überwachung der Datenschutzvorschriften obliegt, und dürfen nur für diesen Zweck verwendet werden.
+<sup>2</sup> Die Protokolle sind während eines Jahres revisionsgerecht aufzubewahren. Sie sind ausschliesslich den Aufsichtsbehörden zugänglich, denen die Überwachung der Datenschutzvorschriften obliegt, und dürfen nur für diesen Zweck verwendet werden.
+
+## 5a Aufsichtsbehörde
+
+#### Art. 30a
+
+**Zusammensetzung der kantonalen Datenschutz- und Öffentlichkeitskommission**
+
+<sup>1</sup> Die Kommission setzt sich zusammen aus:
+
+- a) einem Präsidenten;
+- b) einem Vizepräsidenten;
+- c) 3 weiteren Mitgliedern.
+
+#### Art. 30b
+
+**Statut und Überprüfungs- und Untersuchungsbefugnis**
+
+<sup>1</sup> Die Kommission entscheidet als verwaltungsunabhängige Justizbehörde über alle Fälle betreffend erfolglose Mediationen oder die Nichteinhaltung der im Rahmen einer Mediation erzielten Vereinbarung, mit denen sie befasst wird.
+
+<sup>2</sup> Sie verfügt über eine umfassende Überprüfungsbefugnis in tatsächlicher und rechtlicher Hinsicht.
+
+<sup>3</sup> Sie ordnet im Instruktionsverfahren von Amtes wegen alle nötigen Untersuchungsmassnahmen an.
+
+<sup>4</sup> Sie kann einen externen Experten beauftragen.
+
+<sup>5</sup> Das Verfahren wird ergänzend im Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) geregelt.
 
 ## 6 Archivierung
 
