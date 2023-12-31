@@ -3,35 +3,36 @@ canton: BL
 number: "420.001"
 title: Pflichtenheft des Beirats für das öffentliche Beschaffungswesen
 language: de
-version: 2017-02-01
-valid_until: 2023-12-31
-version_adopted: 2017-01-24
+version: 2024-01-01
+version_adopted: 2023-11-14
 adopted: 2017-01-24
 in_force: 2017-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/420.001"
-pdf: "https://bl.clex.ch/api/de/versions/3758/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3759/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Pflichtenheft des Beirats für das öffentliche Beschaffungswesen
 
-Vom 24.01.2017 (Stand 01.02.2017)
+Vom 24.01.2017 (Stand 01.01.2024)
 
 Die Bau- und Umweltschutzdirektion des Kantons Basel-Landschaft,
 
-gestützt auf § 4a Abs. 3 des Gesetzes über öffentliche Beschaffungen vom 3. Juni 1999[^ingress-1],
+gestützt auf § 6 Abs. 5 des Einführungsgesetzes zur interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (EG IVöB) vom 5. Mai 2022[^ingress-1],
 
 legt fest:[^ingress-2]
 
-[^ingress-1]: [SGS 420](https://bl.clex.ch/data/420/de/art4a)
+[^ingress-1]: [SGS 420](https://bl.clex.ch/data/420/de/art6)
 [^ingress-2]: Vom Regierungsrat genehmigt am 31. Januar 2017.
 
 #### § 1
 
 **Grundsatz**
 
-<sup>1</sup> Die Aufgaben und Pflichten des Beirats für das öffentliche Beschaffungswesen (Beirat) ergeben sich aus den Vorgaben gemäss § 4a des Gesetzes über öffentliche Beschaffungen des Kantons Basel-Landschaft (SGS [420](https://bl.clex.ch/data/420/de/art4a)).
+<sup>1</sup> Die Aufgaben und Pflichten des Beirats für das öffentliche Beschaffungswesen (Beirat) ergeben sich aus den Vorgaben gemäss § 12 der Verordnung zum Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (Vo EG IVöB) vom 14. November 2023[^1-1].
+
+[^1-1]: [SGS 420.11](https://bl.clex.ch/data/420.11/de/art12)
 
 #### § 2
 
