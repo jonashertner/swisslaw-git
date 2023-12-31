@@ -4,13 +4,13 @@ number: "211.250"
 title: Verordnung über den Kindes- und Erwachsenenschutz
 short: VKES
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-07-05
+version: 2024-01-01
+valid_until: 2026-05-31
+version_adopted: 2023-11-22
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.250"
-pdf: "https://lex.vs.ch/api/de/versions/3226/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3245/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3226/pdf_file"
 
 (VKES)
 
-vom 28.09.2022 (Stand 01.07.2023)
+vom 28.09.2022 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -259,6 +259,52 @@ verordnet:
 
 <sup>3</sup> Die KESB hält das Ergebnis ihrer Beratungen schriftlich in zusammengefasster Form fest.
 
+#### Art. 21a
+
+**Mitteilungspflicht**
+
+<sup>1</sup> Die KESB teilt ihren Entscheid über die Anordnung, Änderung oder Aufhebung einer Massnahme des Kindes- und Erwachsenenschutzes den in Artikel 449c ZGB vorgesehenen Behörden mit.
+
+#### Art. 21b
+
+**Informationen für Dritte**
+
+<sup>1</sup> Die örtlich zuständige KESB kann einer Person (nachstehend: Antragsteller), die ihr Interesse glaubhaft gemacht hat, mitteilen, ob für eine bestimmte Person eine Massnahme des Kindes- und Erwachsenenschutzes oder ein Vorsorgeauftrag vorliegt und wie sich diese auswirkt.
+
+<sup>2</sup> Der Antragsteller hat ein glaubhaftes Interesse an der Übermittlung der Informationen, insbesondere wenn sein Antrag in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Rechtsgeschäfts steht, das sich nicht nur auf eine geringfügige Angelegenheit des täglichen Lebens bezieht.
+
+#### Art. 21c
+
+**Form des Antrags auf Bereitstellung der Informationen**
+
+<sup>1</sup> Der Antrag kann schriftlich oder elektronisch an die KESB gerichtet werden.
+
+<sup>2</sup> Wenn der Antragsteller Informationen über eine andere Person wünscht, muss er:
+
+- a) seine Identität angeben und eine Kopie eines offiziellen Ausweisdokuments oder einen Auszug aus dem Handelsregister vorlegen;
+- b) die ihm bekannten Daten zur Identität der Person angeben, über die er die Information wünscht.
+
+<sup>3</sup> Er muss das Rechtsgeschäft, das seinem Antrag zugrunde liegt, kurz beschreiben. Er ist in der Regel nicht verpflichtet, Dokumente beizufügen, die sich auf dieses Rechtsgeschäft beziehen.
+
+<sup>4</sup> Er muss alle von der KESB verlangten zusätzlichen Dokumente oder Auskünfte einreichen.
+
+#### Art. 21d
+
+**Informationsprinzip**
+
+<sup>1</sup> Die KESB kann darauf hinweisen, dass eine Person Gegenstand einer Massnahme des Kindes- und Erwachsenenschutzes oder eines Vorsorgeauftrags ist:
+
+- a) wenn der Entscheid zur Anordnung der Massnahme oder zur Feststellung der Gültigkeit des Vorsorgeauftrags vollstreckbar ist, und
+- b) wenn die Massnahme oder der Vorsorgeauftrag die Handlungsfähigkeit der betroffenen Person einschränkt und sich dem im Antrag aufgeführte Rechtsgeschäft entgegensteht oder entgegenstehen könnte.
+
+#### Art. 21e
+
+**Form der Information**
+
+<sup>1</sup> Die KESB teilt die gewünschten Informationen schriftlich mit.
+
+<sup>2</sup> Wenn die KESB dem Antragsteller Informationen über eine andere Person übermittelt, händigt sie der betroffenen Person und gegebenenfalls ihrem Vertreter eine Kopie aus.
+
 ## 6 Inventar, Rechnung und Tätigkeitsbericht
 
 #### Art. 22
@@ -470,5 +516,11 @@ verordnet:
 #### Art. 42
 
 <sup>1</sup> Beschwerden, die im Sinne von Artikel 419 ZGB bis zum 31. Dezember 2022 bei den kommunalen/interkommunalen KESB eingereicht werden, werden automatisch an die zuständige kantonale KESB überwiesen.
+
+## T1 Übergangsbestimmung der Änderung vom 22. November 2023
+
+#### Art. T1-1
+
+<sup>1</sup> Informationsanfragen, die zum Zeitpunkt des Inkrafttretens dieser Änderung noch hängig sind, werden nach dem neuen Recht behandelt.
 
 CSW RO/AGS 2022-071

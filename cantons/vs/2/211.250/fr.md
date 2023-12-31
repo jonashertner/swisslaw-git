@@ -4,13 +4,13 @@ number: "211.250"
 title: "Ordonnance sur la protection de l'enfant et de l'adulte"
 short: OPEA
 language: fr
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-07-05
+version: 2024-01-01
+valid_until: 2026-05-31
+version_adopted: 2023-11-22
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.250"
-pdf: "https://lex.vs.ch/api/fr/versions/3226/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3245/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3226/pdf_file"
 
 (OPEA)
 
-du 28.09.2022 (état 01.07.2023)
+du 28.09.2022 (état 01.01.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -259,6 +259,52 @@ ordonne:
 
 <sup>3</sup> L’APEA consigne par écrit le résultat de ses délibérations, sous forme succincte.
 
+#### Art. 21a
+
+**Obligation de communiquer**
+
+<sup>1</sup> L’APEA communique sa décision concernant l’instauration, la modification ou la levée d’une mesure de protection de l’enfant et de l’adulte aux autorités prévues à l’article 449c CC.
+
+#### Art. 21b
+
+**Information aux tiers**
+
+<sup>1</sup> L’APEA, compétente à raison du lieu, peut communiquer à une personne (ci-après: le demandeur) qui a rendu vraisemblable son intérêt si une personne déterminée fait l’objet d’une mesure de protection de l'enfant et de l'adulte ou d’un mandat d’inaptitude et quels en sont les effets.
+
+<sup>2</sup> Le demandeur a un intérêt vraisemblable à la transmission de l’information notamment si sa demande a un lien direct avec la conclusion ou l’exécution d’un acte juridique qui n’a pas trait uniquement à une affaire mineure se rapportant à la vie.
+
+#### Art. 21c
+
+**Forme de la demande d'information**
+
+<sup>1</sup> La demande peut être adressée à l’APEA par écrit ou par voie électronique.
+
+<sup>2</sup> Si le demandeur souhaite une information concernant autrui, il doit:
+
+- a) indiquer son identité et fournir la copie d’un document d’identité officiel ou un extrait du registre du commerce;
+- b) indiquer les données dont il a connaissance concernant l’identité de la personne sur laquelle il souhaite une information.
+
+<sup>3</sup> Il doit décrire succinctement l’acte juridique à l’origine de sa demande. Il n’est en principe pas tenu d’y joindre des documents relatifs à cet acte juridique.
+
+<sup>4</sup> Il doit fournir tout document ou renseignement complémentaire exigé par l'APEA.
+
+#### Art. 21d
+
+**Principe de l'information**
+
+<sup>1</sup> L’APEA peut indiquer qu’une personne fait l’objet d’une mesure de protection de l'enfant et de l’adulte ou d’un mandat pour cause d’inaptitude:
+
+- a) si la décision ordonnant la mesure ou constatant la validité du mandat est exécutoire, et
+- b) si la mesure ou le mandat limite l’exercice des droits civils de la personne concernée et s’oppose ou pourrait s'opposer à l’acte juridique invoqué dans la demande.
+
+#### Art. 21e
+
+**Forme de l'information**
+
+<sup>1</sup> L’APEA donne l’information requise par écrit.
+
+<sup>2</sup> Si l'APEA transmet au demandeur une information concernant autrui, elle en remet une copie à la personne concernée et, le cas échéant, à son représentant.
+
 ## 6 Inventaires, comptes et rapports d'activité
 
 #### Art. 22
@@ -470,5 +516,11 @@ ordonne:
 #### Art. 42
 
 <sup>1</sup> Les recours pendants au sens de l'article 419 CC devant les APEA communales/intercommunales au 31 décembre 2022 sont transmis d'office à l'APEA cantonale compétente.
+
+## T1 Disposition transitoire de la modification du 22 novembre 2023
+
+#### Art. T1-1
+
+<sup>1</sup> Les demandes d'information, pendantes lors de l’entrée en vigueur de la présente modification, sont traitées conformément au nouveau droit.
 
 RCV RO/AGS 2022-071
