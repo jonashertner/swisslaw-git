@@ -4,11 +4,11 @@ title: Ordonnance du 23 février 2022 sur la coopération et la mobilité intern
 short: OCMIF
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/165"
 language: fr
-version: 2022-04-01
+version: 2024-01-01
 adopted: 2022-02-23
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-165-20220401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-165-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20220401/fr"
 
 (OCMIF)
 
-du 23 février 2022 (Etat le 1<sup>er</sup> avril 2022)
+du 23 février 2022 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -315,6 +315,54 @@ Toute personne qui remplit les conditions ci-après peut prétendre à une bours
 
 Les candidats doivent déposer leur demande de bourse directement auprès des instituts universitaires en tenant compte de leurs directives en la matière.
 
+#### Art. 19a
+
+**Traitement des données**[^19a-1]
+
+<sup>1</sup> Dans le cadre de l’octroi des bourses, le SEFRI peut accéder électroniquement aux dossiers de candidature concernés.
+
+<sup>2</sup>
+
+Il traite à cet effet les données personnelles suivantes concernant chaque candidat:
+
+- a. nom et prénom;
+- b. lieu d’origine;
+- c. adresse;
+- d. numéro de téléphone et adresse électronique;
+- e. genre;
+- f. date de naissance;
+- g. nationalité;
+- h. langue de correspondance;
+- i. numéro de passeport;
+- j. coordonnées bancaires pour le versement de la bourse;
+- k. parcours scolaire et professionnel;
+- l. titres de formation et titre académique;
+- m. séjours de recherche et séjours à l’étranger;
+- n. lettres de motivation et de recommandation;
+- o. institut universitaire, domaine d’études et année académique.
+
+<sup>3</sup>
+
+En ce qui concerne les lettres de recommandation, il traite les données personnelles ci-après relatives aux personnes de référence:
+
+- a. nom et prénom;
+- b. titre académique;
+- c. adresse électronique;
+- d. employeur;
+- e. lien de la personne de référence avec le candidat.
+
+[^19a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+
+#### Art. 19b
+
+**Conservation et effacement des données**[^19b-1]
+
+<sup>1</sup> Les données sont anonymisées ou effacées cinq ans après la décision d’octroi d’une bourse au Collège d’Europe et dix ans après la décision d’octroi d’une bourse à l’IUE.
+
+<sup>2</sup> Le nom et le prénom, la langue de correspondance, l’adresse électronique ainsi que l’institut universitaire, le domaine d’études et l’année académique peuvent être conservés jusqu’à 20 ans au maximum à des fins d’évaluation de l’efficacité de la mesure.
+
+[^19b-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+
 #### Art. 20
 
 **Octroi d’une bourse**
@@ -348,7 +396,7 @@ Le SEFRI fixe le montant des bourses sur la base des coûts forfaitaires suivant
 
 #### Art. 22
 
-**Contributions aux instituts**
+**Contributions aux instituts et taxes d’études[^22-1]**
 
 <sup>1</sup> Le SEFRI fixe par voie de décision et octroie chaque année, à leur demande, des contributions au Collège d’Europe et à l’IUE.
 
@@ -356,7 +404,10 @@ Le SEFRI fixe le montant des bourses sur la base des coûts forfaitaires suivant
 
 <sup>3</sup> Il tient également compte du budget adopté par le Conseil d’administration du Collège d’Europe pour les quatre années d’encouragement précédentes.
 
-<sup>4</sup> La contribution à l’IUE est calculée sur la base du nombre de bourses approuvées par cohorte et par année. Elle comprend les taxes d’études, qui s’élèvent à 12 000 euros par bourse.
+<sup>4</sup> La contribution à l’IUE est calculée sur la base du nombre de bourses approuvées par cohorte et par année. Le calcul se fonde sur une taxe d’études forfaitaire de 12 000 euros par personne bénéficiant d’une bourse. Le montant des taxes d’études peut être adapté annuellement au renchérissement en Italie.[^22-2]
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
 
 #### Art. 23
 
@@ -519,7 +570,7 @@ L’ordonnance du 18 septembre 2015 relative à la coopération internationale e
 
 **Modification d’un autre acte**
 
-...*[^36-1]*
+…[^36-1]
 
 [^36-1]: La mod. peut être consultée au [RO 2022 165](https://fedlex.data.admin.ch/eli/oc/2022/165).
 

@@ -4,11 +4,11 @@ title: Ordinanza del 23 febbraio 2022 sulla cooperazione e la mobilità internaz
 short: OCMIF
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/165"
 language: it
-version: 2022-04-01
+version: 2024-01-01
 adopted: 2022-02-23
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2022-165-20220401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-165-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20220401/it"
 
 (OCMIF)
 
-del 23 febbraio 2022 (Stato 1° aprile 2022)
+del 23 febbraio 2022 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -315,6 +315,54 @@ Una borsa di studio può essere assegnata a chiunque soddisfi le condizioni segu
 
 I candidati devono presentare la loro candidatura per una borsa di studio direttamente all’istituto universitario conformemente alle sue direttive in materia.
 
+#### Art. 19a
+
+**Trattamento dei dati**[^19a-1]
+
+<sup>1</sup> Nell’ambito dell’assegnazione delle borse di studio, la SEFRI può accedere per via elettronica ai relativi dossier di candidatura.
+
+<sup>2</sup>
+
+A tal fine tratta i seguenti dati personali del candidato:
+
+- a. cognome e nome;
+- b. luogo d’origine;
+- c. indirizzo;
+- d. numero di telefono e indirizzo e-mail;
+- e. sesso;
+- f. data di nascita;
+- g. nazionalità;
+- h. lingua di corrispondenza;
+- i. numero di passaporto;
+- j. coordinate bancarie per il versamento dei sussidi;
+- k. percorso scolastico e professionale;
+- l. titoli di formazione e titolo accademico;
+- m. soggiorni di ricerca e soggiorni all’estero;
+- n. lettere di motivazione e di raccomandazione;
+- o. istituto universitario con indirizzo di studio e anno accademico.
+
+<sup>3</sup>
+
+Per quanto riguarda le lettere di raccomandazione, tratta i seguenti dati personali delle persone indicate come referenza:
+
+- a. cognome e nome;
+- b. titolo accademico;
+- c. indirizzo e-mail;
+- d. datore di lavoro;
+- e. rapporto della persona indicata come referenza con il candidato.
+
+[^19a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+
+#### Art. 19b
+
+**Conservazione e cancellazione dei dati**[^19b-1]
+
+<sup>1</sup> I dati sono resi anonimi o cancellati cinque anni dopo la decisione di assegnazione di una borsa di studio presso il Collegio d’Europa e dieci anni dopo la decisione di assegnazione di una borsa di studio presso l’IUE.
+
+<sup>2</sup> Ai fini della valutazione dell’efficacia della misura, il cognome, il nome, la lingua di corrispondenza, l’indirizzo e-mail nonché l’istituto universitario con l’indirizzo di studio e l’anno accademico possono essere conservati fino a un massimo di 20 anni.
+
+[^19b-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+
 #### Art. 20
 
 **Assegnazione**
@@ -348,7 +396,7 @@ La SEFRI stabilisce l’ammontare delle borse di studio sulla base dei costi for
 
 #### Art. 22
 
-**Sussidi agli istituti**
+**Sussidi agli istituti e tasse universitarie[^22-1]**
 
 <sup>1</sup> La SEFRI decide e versa annualmente sussidi al Collegio d’Europa e all’IUE su loro richiesta.
 
@@ -356,7 +404,10 @@ La SEFRI stabilisce l’ammontare delle borse di studio sulla base dei costi for
 
 <sup>3</sup> Tiene inoltre conto del preventivo approvato dal Consiglio d’amministrazione del Collegio d’Europa per i quattro anni di promozione precedenti.
 
-<sup>4</sup> I sussidi destinati all’IUE sono calcolati sulla base del numero di borse di studio approvate per coorte e per anno. Comprendono le tasse universitarie, che ammontano a 12 000 euro per borsa di studio.
+<sup>4</sup> Il sussidio destinato all’IUE è calcolato sulla base del numero di borse di studio approvate per coorte e per anno. Il calcolo si fonda su una tassa universitaria forfettaria di 12 000 euro per ogni borsista. L’importo delle tasse universitarie può essere adeguato annualmente al rincaro in Italia.[^22-2]
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+[^22-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
 
 #### Art. 23
 

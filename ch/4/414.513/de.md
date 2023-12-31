@@ -4,11 +4,11 @@ title: Verordnung vom 23. Februar 2022 über die internationale Zusammenarbeit u
 short: VIZMB
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/165"
 language: de
-version: 2022-04-01
+version: 2024-01-01
 adopted: 2022-02-23
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2022-165-20220401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-165-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20220401/de"
 
 (VIZMB)
 
-vom 23. Februar 2022 (Stand am 1. April 2022)
+vom 23. Februar 2022 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -315,6 +315,54 @@ Einer Person kann unabhängig von ihrer Nationalität ein Stipendium zugesproche
 
 Die Kandidatin oder der Kandidat muss sich direkt bei der Hochschulinstitution nach deren Vorgaben um das Stipendium bewerben.
 
+#### Art. 19a
+
+**Datenbearbeitung**[^19a-1]
+
+<sup>1</sup> Für die Vergabe der Stipendien kann das SBFI elektronisch auf die betreffenden Bewerbungsdossiers zugreifen.
+
+<sup>2</sup>
+
+Es bearbeitet dazu die folgenden Personendaten über die Kandidatin oder den Kandidaten:
+
+- a. Name und Vorname;
+- b. Heimatort;
+- c. Adresse;
+- d. Telefonnummer und E-Mail-Adresse;
+- e. Geschlecht;
+- f. Geburtsdatum;
+- g. Nationalität;
+- h. Korrespondenzsprache;
+- i. Passnummer;
+- j. Bankverbindung zur Überweisung der Beiträge;
+- k. schulischer und beruflicher Werdegang;
+- l. Bildungsabschlüsse und akademischer Titel;
+- m. Forschungs- und Auslandaufenthalte;
+- n. Motivation und Empfehlungsschreiben;
+- o. Hochschulinstitut mit Fachrichtung und akademischem Jahr.
+
+<sup>3</sup>
+
+Es bearbeitet betreffend die Empfehlungsschreiben die folgenden Personendaten über die Referenzpersonen:
+
+- a. Name und Vorname;
+- b. akademischer Titel;
+- c. E-Mail-Adresse;
+- d. Arbeitgeber;
+- e. Bezug der Referenzperson zur Kandidatin oder zum Kandidaten.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+
+#### Art. 19b
+
+**Datenaufbewahrung und Löschung**[^19b-1]
+
+<sup>1</sup> Die Daten betreffend das Collège d’Europe werden fünf Jahre und die Daten betreffend das EUI zehn Jahre nach dem Entscheid über die Vergabe eines Stipendiums anonymisiert oder gelöscht.
+
+<sup>2</sup> Für die Evaluation der Wirksamkeit der Massnahme können Name, Vorname, Korrespondenzsprache, E-Mail-Adresse sowie Hochschulinstitut mit Fachrichtung und akademischem Jahr bis maximal 20 Jahre aufbewahrt werden.
+
+[^19b-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+
 #### Art. 20
 
 **Vergabe**
@@ -348,7 +396,7 @@ Das SBFI legt die Höhe der Stipendien gestützt auf die folgenden Kostenpauscha
 
 #### Art. 22
 
-**Institutsbeiträge**
+**Institutsbeiträge und Studiengebühren[^22-1]**
 
 <sup>1</sup> Das SBFI verfügt und entrichtet die Institutsbeiträge an das Collège d’Europe und an das EUI jährlich auf deren Antrag hin.
 
@@ -356,7 +404,10 @@ Das SBFI legt die Höhe der Stipendien gestützt auf die folgenden Kostenpauscha
 
 <sup>3</sup> Für das Collège d’Europe gilt das vom Verwaltungsrat des Collège d’Europe verabschiedete Budget während den vorangehenden vier Förderjahren.
 
-<sup>4</sup> Der Institutsbeitrag an das EUI wird aufgrund der Anzahl bewilligter Stipendien pro Kohorte und Jahr festgelegt. Er enthält die Studiengebühren von 12 000 Euro pro Stipendium.
+<sup>4</sup> Der Institutsbeitrag an das EUI wird auf der Grundlage der Anzahl bewilligter Stipendien pro Kohorte und Jahr festgelegt. Er wird mittels einer pauschalen Studiengebühr pro Stipendiaten und Stipendiatin in der Höhe von 12 000 Euro berechnet. Der Beitrag an die Studiengebühren kann jährlich an die Teuerung in Italien angepasst werden.[^22-2]
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
 
 #### Art. 23
 
