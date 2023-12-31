@@ -4,13 +4,13 @@ number: "641.4"
 title: Steuergesetz
 short: StG
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-03
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-26
 adopted: 1994-10-30
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.4"
-pdf: "http://gdb.ow.ch/api/de/versions/1725/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1836/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1725/pdf_file"
 
 (StG)
 
-vom 30.10.1994 (Stand 01.01.2021)
+vom 30.10.1994 (Stand 01.01.2024)
 
 Das Volk des Kantons Obwalden erlässt,
 
@@ -428,7 +428,24 @@ als Gesetz:
 
 <sup>4</sup> …
 
+<sup>5</sup> Die Rückzahlung von Einlagen, Aufgeldern und Zuschüssen (Reserven aus Kapitaleinlagen), die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital. Absatz 6 bleibt vorbehalten.
+
+<sup>6</sup> Schüttet eine Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 5 nicht mindestens im gleichen Umfang übrige Reserven aus, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der in der Gesellschaft vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven.
+
+<sup>7</sup> Absatz 6 ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
+
+- a. die bei fusionsähnlichen Zusammenschlüssen durch Einbringen von Beteiligungs- und Mitgliedschaftsrechten an einer ausländischen Kapitalgesellschaft oder Genossenschaft nach Art. 81 Abs. 1 Bst. c oder durch eine grenzüberschreitende Übertragung auf eine inländische Tochtergesellschaft nach Art. 81 Abs. 1 Bst. d nach dem 24. Februar 2008 entstanden sind;
+- b. die im Zeitpunkt einer grenzüberschreitenden Fusion oder Umstrukturierung nach Art. 81 Abs. 1 Bst. b und Abs. 4 oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung nach dem 24. Februar 2008 bereits in einer ausländischen Kapitalgesellschaft oder Genossenschaft vorhanden waren;
+- c. im Falle der Liquidation der Kapitalgesellschaft oder Genossenschaft.
+
+<sup>8</sup> Die Absätze 6 und 7 gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.
+
+<sup>9</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
+
+<sup>10</sup> Absatz 5 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach Art. 653s ff. des Obligationenrechts (OR)[^22-2] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
 [^22-1]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de)
+[^22-2]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 22a
 
@@ -529,7 +546,10 @@ als Gesetz:
 - i. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Bundesgesetz über Geldspiele zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
 - j. die einzelnen Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem Bundesgesetz über Geldspiele zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem Bundesgesetz über Geldspiele zugelassen sind;
 - k. die Gewinne aus Kleinspielen, die nach dem Bundesgesetz über Geldspiele zugelassen sind;
-- l. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 Bst. d und e des Bundesgesetzes über Geldspiele diesem nicht unterstehen, sofern die Grenze von Fr. 1 000.– nicht überschritten wird.
+- l. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 Bst. d und e des Bundesgesetzes über Geldspiele diesem nicht unterstehen, sofern die Grenze von Fr. 1 000.– nicht überschritten wird;
+- m. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^26-1].
+
+[^26-1]: SR [837.2](https://db.clex.ch/link/Bund/837.2/de)
 
 ### 2.2.3. Ermittlung des Reineinkommens
 
@@ -569,19 +589,32 @@ als Gesetz:
 - b. die eingetretenen und verbuchten Verluste auf Geschäftsvermögen;
 - c. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - d. die Zinsen auf Geschäftsschulden und Zinsen, die auf Beteiligungen gemäss Art. 20 Abs. 3 dieses Gesetzes entfallen;
-- e. die Kosten der berufsorientierten Aus- und Weiterbildung sowie Umschulungskosten des eigenen Personals.
+- e. die Kosten der berufsorientierten Aus- und Weiterbildung sowie Umschulungskosten des eigenen Personals;
+- f. gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>3</sup> Nicht abziehbar sind insbesondere:
+
+- a. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c. Bussen und Geldstrafen;
+- d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Absatz 3 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### Art. 30
 
 **Abschreibungen**
 
-<sup>1</sup> Geschäftsmässig begründete Abschreibungen von Aktiven sind zulässig, soweit sie buchmässig oder, wenn eine kaufmännische Buchhaltung fehlt, in besondern Abschreibungstabellen ausgewiesen sind.
+<sup>1</sup> Geschäftsmässig begründete Abschreibungen von Aktiven sind zulässig, soweit sie buchmässig oder, bei vereinfachter Buchführung nach Art. 957 Abs. 2 OR[^30-1], in besonderen Abschreibungstabellen ausgewiesen sind.
 
 <sup>2</sup> In der Regel werden die Abschreibungen nach dem tatsächlichen Wert der einzelnen Vermögensteile berechnet oder nach ihrer voraussichtlichen Gebrauchsdauer angemessen verteilt.
 
 <sup>3</sup> Abschreibungen auf Aktiven, die zum Ausgleich von Verlusten aufgewertet wurden, können nur vorgenommen werden, wenn die Aufwertungen handelsrechtlich zulässig waren und die Verluste im Zeitpunkt der Abschreibung nach Art. 33 Abs. 1 dieses Gesetzes verrechenbar gewesen wären.
+
+[^30-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 31
 
@@ -1203,9 +1236,20 @@ als Gesetz:
 - b. Zuwendungen im Rahmen des Bundesrechts an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - c. freiwillige Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des Reingewinns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf öffentliche oder ausschliesslich gemeinnützige Zwecke von der Steuerpflicht befreit sind gemäss Art. 76 Bst. g dieses Gesetzes, sowie an Bund, Kantone, Gemeinden und deren Anstalten gemäss Art. 76 Bst. a bis c dieses Gesetzes;
 - d. Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie die zur Verteilung an die Versicherten bestimmten Überschüsse von Versicherungsgesellschaften;
-- e. Kosten der berufsorientierten Aus- und Weiterbildung sowie Umschulungskosten des eigenen Personals.
+- e. Kosten der berufsorientierten Aus- und Weiterbildung sowie Umschulungskosten des eigenen Personals;
+- f. gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
+
+- a. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c. Bussen;
+- d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>3</sup> Sind Sanktionen nach Absatz 2 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### Art. 79a
 
@@ -1389,6 +1433,10 @@ als Gesetz:
 
 <sup>6</sup> Transaktionen, die im Konzern eine ungerechtfertigte Steuerersparnis bewirken, führen zu einer Berichtigung des steuerbaren Reingewinnes oder zu einer Kürzung der Ermässigung. Eine ungerechtfertigte Steuerersparnis liegt vor, wenn Kapitalgewinne und Kapitalverluste oder Abschreibungen auf Beteiligungen im Sinne der Art. 82 und 88 dieses Gesetzes in kausalem Zusammenhang stehen.
 
+<sup>7</sup> Bei Konzernobergesellschaften von systemrelevanten Banken nach Art. 7 Abs. 1 des Bankengesetzes (BankG)[^88-1] werden für die Berechnung des Nettoertrags nach Absatz 1 der Finanzierungsaufwand und die Forderung in der Bilanz aus konzernintern weitergegebenen Mitteln nicht berücksichtigt, wenn diese Mittel aus Fremdkapitalinstrumenten nach Art. 11 Abs. 4 oder Art. 30b Abs. 6 oder 7 Bst. b BankG stammen, die von der Eidgenössischen Finanzmarktaufsicht im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigt wurden.
+
+[^88-1]: SR [952.0](https://db.clex.ch/link/Bund/952.0/de)
+
 #### Art. 89
 
 **…**
@@ -1473,6 +1521,8 @@ als Gesetz:
 
 <sup>1</sup> Die Kapitalsteuer der Kapitalgesellschaften und Genossenschaften beträgt 0,01 Promille des steuerbaren Eigenkapitals.
 
+<sup>1a</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
+
 <sup>2</sup> Die Jahressteuer hat in allen Fällen unter Mitberücksichtigung der Gewinnsteuer mindestens Fr. 500.– je Steuerjahr zu betragen, ausgenommen bei Genossenschaften mit Selbsthilfecharakter ohne gewinnstrebende Tätigkeit.
 
 #### Art. 99
@@ -1523,6 +1573,8 @@ als Gesetz:
 **Bemessung des Reingewinns**
 
 <sup>1</sup> Der Reingewinn bemisst sich nach dem Ergebnis der Steuerperiode.
+
+<sup>1a</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
 
 <sup>2</sup> …
 
@@ -2430,6 +2482,8 @@ als Gesetz:
 
 <sup>4</sup> Für die Berechnung von Fristen sowie die Wiederherstellung von Fristen gelten die Bestimmungen der Verordnung über das Verwaltungsgerichtsverfahren[^186-1] sinngemäss.
 
+<sup>5</sup> Der Regierungsrat legt bei elektronischer Zustellung von Verfügungen und anderen Mitteilungen den Beginn des Fristenlaufs in Ausführungsbestimmungen fest.
+
 [^186-1]: GDB [134.14](http://gdb.ow.ch/data/134.14/de)
 
 ### 7.2.5. Verjährung
@@ -2511,15 +2565,25 @@ als Gesetz:
 
 #### Art. 190a
 
-**b. Steuererklärung in elektronischer Form oder in Papierform**
+**b. Elektronisches Verfahren**
 
-<sup>1</sup> Die Steuererklärung kann in elektronischer Form oder in Papierform eingereicht werden.
+<sup>1</sup> Die Steuererklärung kann in elektronischer Form eingereicht werden.
 
-<sup>2</sup> Der Regierungsrat legt in Ausführungsbestimmungen die Einzelheiten für die elektronische Einreichung der Steuererklärung fest.
+<sup>2</sup> Das Veranlagungsverfahren wird in elektronischer Form durchgeführt. Die kantonale Steuerverwaltung kann der steuerpflichtigen Person mit deren Einverständnis Dokumente in elektronischer Form zustellen.
 
-<sup>3</sup> Die Steuererklärung in Papierform kann von den Steuerpflichtigen bei der Steuerverwaltung bezogen werden.
+<sup>3</sup> Anstelle der Unterzeichnung ist bei elektronischen Eingaben eine elektronische Bestätigung der Angaben abzugeben. Der Regierungsrat legt fest, wie beim elektronischen Verkehr das Erfordernis der Schriftlichkeit erfüllt ist.
 
-<sup>4</sup> Die steuerpflichtige Person muss die in Papierform eingereichte Steuererklärung persönlich unterschreiben.
+<sup>4</sup> Der Regierungsrat legt in Ausführungsbestimmungen die Einzelheiten für das elektronische Verfahren fest. Dabei ist die Authentizität und Integrität der übermittelten Daten zu gewährleisten.
+
+#### Art. 190b
+
+**c. Verfahren in Papierform**
+
+<sup>1</sup> Die Steuererklärung kann anstelle der elektronischen Form auch in Papierform eingereicht werden.
+
+<sup>2</sup> Die Steuererklärung in Papierform kann von den Steuerpflichtigen bei der Steuerverwaltung bezogen werden.
+
+<sup>3</sup> Die steuerpflichtige Person muss die in Papierform eingereichte Steuererklärung persönlich unterschreiben.
 
 #### Art. 191
 
@@ -2593,7 +2657,8 @@ als Gesetz:
 - b. Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge über die den Versicherten oder Begünstigten erbrachten Leistungen;
 - c. einfache Gesellschaften und Personengesellschaften über alle Verhältnisse, die für die Veranlagung der Teilhaber von Bedeutung sind, insbesondere über ihren Anteil an Einkommen und Vermögen der Gesellschaft;
 - d. kollektive Kapitalanlagen mit direktem Grundbesitz über alle Verhältnisse, die für die Besteuerung des direkten Grundbesitzes und dessen Erträge massgeblich sind;
-- e. Arbeitgeber über alle notwendigen Angaben für die Veranlagung von Mitarbeiterbeteilungen, welche ihren Angestellten eingeräumt wurden. Die vom Bundesrat gestützt auf Art. 129 Abs. 1 Bst. d des Bundesgesetzes über die direkte Bundessteuer[^195-1] erlassenen Bestimmungen gelten sinngemäss.
+- e. Arbeitgeber über alle notwendigen Angaben für die Veranlagung von Mitarbeiterbeteiligungen, welche ihren Angestellten eingeräumt wurden. Die vom Bundesrat gestützt auf Art. 129 Abs. 1 Bst. d des Bundesgesetzes über die direkte Bundessteuer[^195-1] erlassenen Bestimmungen gelten sinngemäss;
+- f. die Arbeitslosenkassen über ausgerichtete Entschädigungen an Arbeitslose.
 
 <sup>2</sup> Den Steuerpflichtigen ist ein Doppel der Bescheinigung zuzustellen.
 
@@ -4134,6 +4199,8 @@ geändert durch
 
 \- Nachtrag vom 28. Juni 2019 (Abstimmungserläuterungen zur kantonalen Volksabstimmung vom 22. September 2019, OGS 2019, 43), Botschaft und Vorlage des Regierungsrat vom 9. April 2019, Kantonsratsprotokolle vom 23. Mai und 28. Juni 2019 (22.19.01), Abstimmungsergebnis der Volksabstimmung vom 22. September 2019 (OGS 2019, 44 und 47), in Kraft seit 1. Januar 2020 (OGS 2019, 43 und 47),
 
-\- Nachtrag vom 3. Dezember 2020 (OGS 2020, 51), Botschaft und Vorlage des Regierungsrats vom 3. Juli 2020, Kantonsratssitzungen vom 22. Oktober und 3. Dezember 2020 (22.20.06), in Kraft seit 1. Januar 2021 (OGS 2021, 6)
+\- Nachtrag vom 3. Dezember 2020 (OGS 2020, 51), Botschaft und Vorlage des Regierungsrats vom 3. Juli 2020, Kantonsratssitzungen vom 22. Oktober und 3. Dezember 2020 (22.20.06), in Kraft seit 1. Januar 2021 (OGS 2021, 6),
+
+\- Nachtrag vom 26. Oktober 2023 (OGS 2023, 29), Botschaft und Vorlage des Regierungsrats vom 2. Mai 2023, Kantonsratssitzungen vom 14. September und 26. Oktober 2023 (22.23.03), in Kraft seit 1. Januar 2024 (OGS 2023, 35)
 
 OGS 1995, 41
