@@ -3,11 +3,11 @@ sr: "121.1"
 title: Ordinanza del 16 agosto 2017 sulle attività informative (OAIn)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: it
-version: 2022-06-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2017-495-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-495-20240101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/it"
 
 (OAIn)
 
-del 16 agosto 2017 (Stato 1° giugno 2022)
+del 16 agosto 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -24,9 +24,9 @@ visti gli articoli 8 capoverso 3, 11 capoverso 3, 19 capoverso 5, 39 capoverso 4
 
 ordina:
 
-[^ingress-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
+[^ingress-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 ## Capitolo 1: Collaborazione
 
@@ -81,7 +81,7 @@ Essi si assistono reciprocamente nell’adempimento dei loro compiti, segnatamen
 
 <sup>4</sup> In caso di servizi d’appoggio dell’esercito in Svizzera che presentano un nesso con compiti secondo l’articolo 6 capoverso 1 lettera a LAIn, il SIC assume la responsabilità in materia di attività informative nei confronti della direzione dell’impiego.
 
-[^3-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 4
 
@@ -290,8 +290,8 @@ Nel caso di misure di acquisizione soggette ad autorizzazione, il SIC documenta:
 
 <sup>6</sup> Il DDPS comunica al SIC e al Tribunale amministrativo federale la decisione del capo del DDPS in merito al nullaosta per l’esecuzione.
 
-[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 23
 
@@ -299,7 +299,7 @@ Nel caso di misure di acquisizione soggette ad autorizzazione, il SIC documenta:
 
 Se una persona appartenente a una delle categorie professionali secondo gli articoli 171–173 del Codice di procedura penale[^23-1] è sorvegliata in virtù dell’articolo 27 LAIn, deve essere garantito che il SIC non venga a conoscenza di informazioni soggette al segreto professionale che non siano in relazione con il motivo per cui è stata ordinata la sorveglianza. Nel quadro della procedura di autorizzazione secondo l’articolo 29 LAIn, il SIC segnala che deve essere eseguita la cernita delle informazioni conformemente all’articolo 58 capoverso 3 LAIn.
 
-[^23-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Sezione 4: Infiltrazione in sistemi e reti informatici ubicati all’estero
 
@@ -340,17 +340,20 @@ Mediante l’esplorazione di segnali via cavo, il SIC può acquisire informazion
 
 **Servizio preposto all’esecuzione**
 
-<sup>1</sup> L’esplorazione di segnali via cavo è eseguita dal Centro operazioni elettroniche (COE).
+<sup>1</sup> L’esplorazione di segnali via cavo è eseguita dal Servizio delle attività ciber ed elettromagnetiche (ACE).[^26-1]
 
-<sup>2</sup> Il SIC conviene con il COE i principi della collaborazione, dell’assegnazione dei mandati e del disbrigo dei mandati.
+<sup>2</sup> Il SIC conviene con l’ACE[^26-2] i principi della collaborazione, dell’assegnazione dei mandati e del disbrigo dei mandati.
 
-<sup>3</sup> Il COE assicura i contatti con i gestori di reti filari e i fornitori di servizi di telecomunicazione per tutte le questioni inerenti all’esplorazione di segnali via cavo.
+<sup>3</sup> L’ACE assicura i contatti con i gestori di reti filari e i fornitori di servizi di telecomunicazione per tutte le questioni inerenti all’esplorazione di segnali via cavo.
+
+[^26-1]: Nuovo testo giusta la cifra II n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^26-2]: Nuova espressione giusta la cifra II n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 27
 
-**Compiti del COE**
+**Compiti dell’ACE**
 
-<sup>1</sup> Il COE sollecita presso i gestori di reti filari e i fornitori di servizi di telecomunicazione le indicazioni tecniche necessarie per l’allestimento di mandati e per l’esecuzione di mandati di esplorazione di segnali via cavo; in caso di necessità, può chiedere che dette indicazioni siano oggetto di spiegazioni, completate o aggiornate.
+<sup>1</sup> L’ACE sollecita presso i gestori di reti filari e i fornitori di servizi di telecomunicazione le indicazioni tecniche necessarie per l’allestimento di mandati e per l’esecuzione di mandati di esplorazione di segnali via cavo; in caso di necessità, può chiedere che dette indicazioni siano oggetto di spiegazioni, completate o aggiornate.
 
 <sup>2</sup> Esso elabora i mandati di esplorazione di segnali via cavo del SIC.
 
@@ -358,13 +361,13 @@ Mediante l’esplorazione di segnali via cavo, il SIC può acquisire informazion
 
 <sup>4</sup> Nel quadro delle categorie autorizzate e che hanno ricevuto il nullaosta, esso può proporre al SIC di aggiungere chiavi di ricerca supplementari ai mandati in corso. Dette chiavi di ricerca possono essere definite anche in base a informazioni ottenute nel quadro di altri mandati, segnatamente nel quadro dell’esplorazione radio.
 
-<sup>5</sup> Il COE assicura mediante misure interne che l’adempimento dei mandati si svolga nel quadro delle autorizzazioni.
+<sup>5</sup> L’ACE assicura mediante misure interne che l’adempimento dei mandati si svolga nel quadro delle autorizzazioni.
 
 #### Art. 28
 
 **Trattamento dei dati**
 
-<sup>1</sup> Il COE distrugge i risultati ottenuti nel quadro dell’esplorazione di segnali via cavo al più tardi al momento della cessazione del corrispondente mandato di esplorazione di segnali via cavo.
+<sup>1</sup> L’ACE distrugge i risultati ottenuti nel quadro dell’esplorazione di segnali via cavo al più tardi al momento della cessazione del corrispondente mandato di esplorazione di segnali via cavo.
 
 <sup>2</sup> Esso distrugge le comunicazioni rilevate al momento della cessazione del mandato, ma al più tardi 18 mesi dopo il loro rilevamento.
 
@@ -374,9 +377,9 @@ Mediante l’esplorazione di segnali via cavo, il SIC può acquisire informazion
 
 **Compiti dei gestori di reti filari e dei fornitori di servizi di telecomunicazione**
 
-<sup>1</sup> I gestori di reti filari e i fornitori di servizi di telecomunicazione comunicano al COE qual è l’organo competente per il trattamento.
+<sup>1</sup> I gestori di reti filari e i fornitori di servizi di telecomunicazione comunicano all’ACE qual è l’organo competente per il trattamento.
 
-<sup>2</sup> Essi consentono al COE di accedere ai locali necessari per l’esplorazione di segnali via cavo, al fine di consentire l’installazione di componenti tecniche necessarie per l’esecuzione di mandati di esplorazione di segnali via cavo.
+<sup>2</sup> Essi consentono all’ACE di accedere ai locali necessari per l’esplorazione di segnali via cavo, al fine di consentire l’installazione di componenti tecniche necessarie per l’esecuzione di mandati di esplorazione di segnali via cavo.
 
 #### Art. 30
 
@@ -388,7 +391,7 @@ Le indennità per i gestori di reti filari e i fornitori di servizi di telecomun
 
 **Contatti con servizi specializzati esteri**
 
-I contatti informativi del COE con servizi specializzati esteri avvengono per il tramite del SIC.
+I contatti informativi dell’ACE con servizi specializzati esteri avvengono per il tramite del SIC.
 
 ## Capitolo 3: Disposizioni particolari sulla protezione dei dati
 
@@ -429,7 +432,7 @@ Le autorità d’esecuzione cantonali possono comunicare valutazioni della situa
 
 <sup>4</sup> Il SIC può accordare all’autorità di vigilanza cantonale il consenso per la consultazione di valutazioni della situazione o dati trattati dal Cantone su mandato della Confederazione per determinate categorie di dati e destinatari.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 33a
 
@@ -441,7 +444,7 @@ Le autorità d’esecuzione cantonali possono comunicare valutazioni della situa
 
 <sup>3</sup> Informa immediatamente il SIC in merito alla comunicazione e al suo motivo.
 
-[^33a-1]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
+[^33a-1]: Introdotto dalla cifra I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 34
 
@@ -470,7 +473,7 @@ Il SIC rende attento l’organo destinatario:
 
 <sup>6</sup> Esso registra la comunicazione, il contenuto della comunicazione e l’organo destinatario.
 
-[^35-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^35-1]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 ## Capitolo 4: Direzione politica, procedura di controllo e divieti
 
@@ -587,8 +590,8 @@ Il SIC può ridurre o condonare l’emolumento se:
 - a. la riscossione dell’emolumento costa più della prestazione; o
 - b. la riscossione dell’emolumento appare sproporzionata per motivi inerenti alla prestazione o concernenti la persona assoggettata.
 
-[^43-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^43-2]: [RS 172.045.103](https://fedlex.data.admin.ch/eli/cc/2006/704)
+[^43-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^43-2]: [RS 172.045.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5120)
 
 ## Capitolo 6: Controlli
 
@@ -752,7 +755,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>2</sup> Fatto salvo l’articolo 12 capoverso 2 della legge del 26 giugno 1998[^57-1] sull’archiviazione, gli archivi con un termine di protezione prorogato secondo il capoverso 1 possono essere consultati se il servizio di sicurezza estero interessato non formula riserve su una loro consultazione.
 
-[^57-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^57-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 58
 
@@ -830,7 +833,7 @@ Allegato 3[^t-1]
 
 ## Comunicazione di dati personali ad autorità e servizi svizzeri
 
-[^t-1]: Aggiornato dall’all. 3 n. II 1 dell’O dell’11 nov. 2020 sulla protezione della popolazione, ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) e dal n. I 2 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-1]: Aggiornato dall’all. 3 cifra II n. 1 dell’O dell’11 nov. 2020 sulla protezione della popolazione, ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)), dalla cifra I n. 2 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)), dall’all. 2 cifra II n. 1 dell’O dell’8 nov. 2023 ([RU 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)) e dalla cifra II n. 12 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 Il SIC comunica dati personali alle autorità di perseguimento penale svizzere alle condizioni menzionate all’articolo 60 capoversi 2–4 LAIn; esso comunica i dati senza riserve alle autorità di vigilanza.
 
@@ -841,7 +844,7 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
 - 3\. Stati maggiori di crisi e speciali della Confederazione: per la gestione di situazioni particolari;
 - 4\. Autorità d’esecuzione cantonali: per l’applicazione della LAIn;
 - 5\. Autorità cantonali di polizia: per l’adozione di misure di sicurezza cantonali al di fuori del perseguimento penale;
-- 6\. Servizio specializzato nei controlli di sicurezza relativi alle persone della Cancelleria federale: per l’esecuzione di controlli di sicurezza relativi alle persone;
+- 6\. Servizio specializzato per i controlli di sicurezza relativi alle persone della Cancelleria federale: per l’esecuzione di controlli di sicurezza relativi alle persone;
 - 7\.
 
   Dipartimento federale degli affari esteri:
@@ -898,12 +901,12 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
 
   - 10\.1
 
-    Stati maggiori dell’esercito:
+    Comandi e Stati maggiori dell’esercito:
 
     - 10\.1.1 in relazione con la valutazione della situazione di minaccia e di informazioni concernenti l’estero rilevanti sotto il profilo della politica di sicurezza nonché in relazione con le zone d’impiego dell’esercito all’estero,
     - 10\.1.2 in relazione con servizi d’appoggio in Svizzera e all’estero,
     - 10\.1.3 per la valutazione di agenti patogeni e sostanze chimiche messi in circolazione,
-    - 10\.1.4 per la valutazione della sicurezza di sistemi e banche dati EED della Confederazione nel caso di influenze per le quali non è possibile escludere una relazione con il terrorismo, lo spionaggio o l’estremismo violento,
+    - 10\.1.4 per la valutazione della sicurezza informatica della Confederazione nel caso di influenze per le quali non è possibile escludere una relazione con il terrorismo, lo spionaggio o l’estremismo violento,
 
   - 10\.2 Segreteria generale: per la valutazione della situazione di minaccia e gli interessi svizzeri in materia di politica di sicurezza,
   - 10\.3
@@ -923,7 +926,16 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
     - 10\.4.2 Centrale nazionale d’allarme: in vista dell’acquisizione, dell’analisi e della diffusione di informazioni secondo l’ordinanza dell’11 novembre 2020[^annex3-lvlu1-5] sulla protezione della popolazione,
     - 10\.4.3 Laboratorio di Spiez: in relazione a informazioni riguardanti la sicurezza NBC,
 
-  - 10\.5 servizio specializzato per i controlli di sicurezza relativi alle persone: per l’esecuzione di controlli di sicurezza relativi alle persone;
+  - 10\.5
+
+    Segreteria di Stato della politica di sicurezza: per la valutazione della situazione di minaccia e per la tutela degli interessi della Svizzera in materia di politica di sicurezza:
+
+    - 10\.5.1 Servizio specializzato della Confederazione per la sicurezza delle informazioni: in relazione con la tutela della sicurezza delle informazioni,
+    - 10\.5.2 Servizio specializzato per i controlli di sicurezza relativi alle persone: per l’esecuzione di controlli di sicurezza relativi alle persone,
+    - 10\.5.3 Servizio specializzato competente per l’esecuzione della procedura di sicurezza relativa alle aziende (Servizio specializzato PSA): per l’esecuzione di procedure di sicurezza relative alle aziende,
+
+  - 10\.6 Ufficio federale della cibersicurezza: in relazione con la protezione della Svizzera dalle ciberminacce,
+  - 10\.7 Ufficio federale dell’armamento: nell’ambito di progetti nel settore dello sviluppo di soluzioni tecniche e analisi di sicurezza;
 
 - 11\.
 
@@ -980,14 +992,14 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
 
 - 14\. Autorità e servizi della Confederazione, dei Cantoni e dei Comuni: se necessario per la loro sicurezza o per sventare una minaccia incombente.
 
-[^annex3-lvlu1-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^annex3-lvlu1-2]: [[RU 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. II 2. [RU 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 54]. Vedi ora l’O del 27 giu. 2001 sulla protezione di persone ed edifici di competenza federale ([RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
-[^annex3-lvlu1-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-5]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
-[^annex3-lvlu1-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex3-lvlu1-7]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^annex3-lvlu1-8]: [RS 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
+[^annex3-lvlu1-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^annex3-lvlu1-2]: [[RU 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 cifra II n. 2. [RU 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 54]. Vedi ora l’O del 27 giu. 2001 sulla protezione di persone ed edifici di competenza federale ([RS 120.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4756)).
+[^annex3-lvlu1-3]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^annex3-lvlu1-4]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^annex3-lvlu1-5]: [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
+[^annex3-lvlu1-6]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^annex3-lvlu1-7]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^annex3-lvlu1-8]: [RS 732.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8546)
 
 Allegato 4
 
@@ -1008,6 +1020,6 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 …[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[RU 2000 61](https://fedlex.data.admin.ch/eli/oc/2000/11), [2001 1369](https://fedlex.data.admin.ch/eli/oc/2001/189), [2006 5249](https://fedlex.data.admin.ch/eli/oc/2006/795), [2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 5, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 3]
-[^annex4-lvlu1-2]: [[RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848); [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558); [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 n. 2, [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 2; [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46; [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)all. n. II 1; [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]
+[^annex4-lvlu1-1]: [[RU 2000 61](https://fedlex.data.admin.ch/eli/oc/2000/11), [2001 1369](https://fedlex.data.admin.ch/eli/oc/2001/189), [2006 5249](https://fedlex.data.admin.ch/eli/oc/2006/795), [2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 5, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 cifra II n. 3]
+[^annex4-lvlu1-2]: [[RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848); [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558); [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 n. 2, [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 2; [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46; [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)all. cifra II n. 1; [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]
 [^annex4-lvlu1-3]: Le mod. possono essere consultate alla [RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495).

@@ -4,11 +4,11 @@ title: "Ordonnance du 16 août 2017 sur le service de renseignement (Ordonnance 
 short: ORens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: fr
-version: 2022-06-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-495-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-495-20240101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/fr"
 
 (Ordonnance sur le renseignement, ORens)
 
-du 16 août 2017 (Etat le 1<sup>er</sup> juin 2022)
+du 16 août 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 8, al. 3, 11, al. 3, 19, al. 5, 39, al. 4, 43, al. 4, 46, al. 3, 72,
 
 arrête:
 
-[^ingress-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 ## Chapitre 1 Collaboration
@@ -71,7 +71,7 @@ La collaboration porte en particulier sur les domaines suivants:
 
 <sup>2</sup>
 
-Ils s’épaulent mutuellement dans l’accomplissement des tâches qui leurs sont dévolues, notamment par:
+Ils s’épaulent mutuellement dans l’accomplissement des tâches qui leur sont dévolues, notamment par:
 
 - a. la transmission régulière d’informations et d’appréciations dans les domaines où se chevauchent les tâches à exécuter en vertu des art. 6, al. 1, LRens, et 99, al. 1, LAAM;
 - b. la recherche d’informations;
@@ -82,7 +82,7 @@ Ils s’épaulent mutuellement dans l’accomplissement des tâches qui leurs so
 
 <sup>4</sup> Pour les services d’appui de l’armée accomplis en Suisse et en corrélation avec les tâches à exécuter en vertu de l’art. 6, al. 1, let. a, LRens, le SRC assume la responsabilité en matière de renseignement à l’égard de la direction de l’intervention.
 
-[^3-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 4
 
@@ -118,7 +118,7 @@ Dans la perspective d’un service actif commandé par l’armée, le Départeme
 
 **Fixation annuelle des principes de la collaboration**
 
-<sup>1</sup> Après avoir consulté le chef du Département fédéral de justice et police (DFJP) et le du Département fédéral des affaires étrangères (DFAE), le DDPS soumet chaque année au Conseil fédéral une proposition classifiée secret sur les principes de la collaboration du SRC en matière de renseignement avec des services étrangers.
+<sup>1</sup> Après avoir consulté le chef du Département fédéral de justice et police (DFJP) et le chef du Département fédéral des affaires étrangères (DFAE), le DDPS soumet chaque année au Conseil fédéral une proposition classifiée secret sur les principes de la collaboration du SRC en matière de renseignement avec des services étrangers.
 
 <sup>2</sup> La proposition comporte une liste des services étrangers avec lesquels le SRC entretient régulièrement des contacts en matière de renseignement ainsi qu’une appréciation de l’utilité, des coûts et des risques de ces contacts.
 
@@ -162,7 +162,7 @@ Les cantons informent le SRC de leur collaboration en matière de sécurité ave
 
 **Opérations**
 
-<sup>1</sup> Le SRC peut mener des opérations, à savoir des processus connexes limités dans le temps servant à la recherche d’informations en vertu de l’art. 6 LRens et dépassant le cadre normal d’une activité ordinaire du renseignement de par son importance, son étendue, les moyens requis ou le maintien du secret. Ces opérations doivent être débutées et terminées formellement et être documentées séparément.
+Le SRC peut mener des opérations, à savoir des processus connexes limités dans le temps servant à la recherche d’informations en vertu de l’art. 6 LRens et dépassant le cadre normal d’une activité ordinaire du renseignement de par son importance, son étendue, les moyens requis ou le maintien du secret. Ces opérations doivent être débutées et terminées formellement et être documentées séparément.
 
 #### Art. 13
 
@@ -291,8 +291,8 @@ Le SRC documente pour les mesures de recherche soumises à autorisation:
 
 <sup>6</sup> Il communique au SRC et au Tribunal administratif fédéral la décision du chef du DDPS relative à l’aval de l’exécution de la mesure.
 
-[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 23
 
@@ -300,7 +300,7 @@ Le SRC documente pour les mesures de recherche soumises à autorisation:
 
 Si une personne appartenant à l’un des groupes professionnels mentionnés aux art. 171 à 173 du code de procédure pénale[^23-1] est surveillée en vertu de l’art. 27 LRens, il convient de s’assurer que le SRC n’entre pas en possession d’informations liées à un secret professionnel et sans relation avec le motif de la surveillance. Le SRC signale dans la procédure d’autorisation au sens de l’art. 29 LRens que les informations doivent être triées conformément à l’art. 58, al. 3, LRens.
 
-[^23-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Section 4 Infiltration dans des systèmes et réseaux informatiques à l’étranger
 
@@ -341,17 +341,20 @@ Le SRC peut collecter des informations importantes en matière de politique de s
 
 **Service exécutant**
 
-<sup>1</sup> Le Centre des opérations électroniques (COE) procède à l’exploration du réseau câblé.
+<sup>1</sup> Le service Actions dans le cyberespace et dans l’espace électromagnétique (ACEM) procède à l’exploration du réseau câblé.[^26-1]
 
-<sup>2</sup> Le SRC et le COE s’entendent sur les principes de la collaboration, de l’octroi des mandats et de leur exécution.
+<sup>2</sup> Le SRC et l’ACEM[^26-2] s’entendent sur les principes de la collaboration, de l’octroi des mandats et de leur exécution.
 
-<sup>3</sup> Le COE fonctionne comme interlocuteur des exploitants de réseaux filaires et des opérateurs de télécommunications pour toutes les questions en lien avec l’exploration du réseau câblé.
+<sup>3</sup> L’ACEM fonctionne comme interlocuteur des exploitants de réseaux filaires et des opérateurs de télécommunications pour toutes les questions en lien avec l’exploration du réseau câblé.
+
+[^26-1]: Nouvelle teneur selon le ch. II 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^26-2]: Nouvelle expression selon le ch. II 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 27
 
-**Tâches du COE**
+**Tâches de l’ACEM**
 
-<sup>1</sup> Le COE demande aux exploitants des réseaux filaires et aux opérateurs de télécommunications les données techniques requises pour l’établissement des demandes d’exploration et l’exécution des mandats d’exploration du réseau câblé; au besoin, il peut demander que ces données soient déclarées requises et qu’elles soient complétées ou actualisées.
+<sup>1</sup> L’ACEM demande aux exploitants des réseaux filaires et aux opérateurs de télécommunications les données techniques requises pour l’établissement des demandes d’exploration et l’exécution des mandats d’exploration du réseau câblé; au besoin, il peut demander que ces données soient déclarées requises et qu’elles soient complétées ou actualisées.
 
 <sup>2</sup> Il traite les mandats d’exploration du réseau câblé du SRC.
 
@@ -359,13 +362,13 @@ Le SRC peut collecter des informations importantes en matière de politique de s
 
 <sup>4</sup> Il peut proposer au SRC d’intégrer des critères de recherches supplémentaires dans les mandats en cours dans le cadre des catégories autorisées et avalisées. Ces critères de recherche peuvent aussi provenir de résultats obtenus dans le cadre d’autres mandats, en particulier de l’exploration radio.
 
-<sup>5</sup> Le COE, par le biais de mesures internes, s’assure que la mission est effectuée dans le cadre de l’autorisation.
+<sup>5</sup> L’ACEM, par le biais de mesures internes, s’assure que la mission est effectuée dans le cadre de l’autorisation.
 
 #### Art. 28
 
 **Traitement des données**
 
-<sup>1</sup> Le COE détruit les résultats issus de l’exploration du réseau câblé au plus tard au terme du mandat d’exploration du réseau câblé concerné.
+<sup>1</sup> L’ACEM détruit les résultats issus de l’exploration du réseau câblé au plus tard au terme du mandat d’exploration du réseau câblé concerné.
 
 <sup>2</sup> Il détruit les communications enregistrées au moment du terme du mandat, mais au plus tard 18 mois après leur enregistrement.
 
@@ -375,9 +378,9 @@ Le SRC peut collecter des informations importantes en matière de politique de s
 
 **Tâches des exploitants de réseaux filaires et des opérateurs de télécommunications**
 
-<sup>1</sup> Les exploitants des réseaux filaires et les opérateurs de télécommunications indiquent au COE leur service chargé du traitement des mandats.
+<sup>1</sup> Les exploitants des réseaux filaires et les opérateurs de télécommunications indiquent à l’ACEM leur service chargé du traitement des mandats.
 
-<sup>2</sup> Ils garantissent au COE l’accès à leurs locaux en vue de l’exploration du réseau câblé afin qu’il puisse installer les composants techniques nécessaires à l’exécution des mandats d’exploration du réseau câblé.
+<sup>2</sup> Ils garantissent à l’ACEM l’accès à leurs locaux en vue de l’exploration du réseau câblé afin qu’il puisse installer les composants techniques nécessaires à l’exécution des mandats d’exploration du réseau câblé.
 
 #### Art. 30
 
@@ -389,7 +392,7 @@ L’annexe 2 règle l’indemnisation des prestations fournies par les exploitan
 
 **Contacts avec des services étrangers**
 
-Les contacts du COE avec des services étrangers relevant du renseignement interviennent par l’intermédiaire du SRC.
+Les contacts de l’ACEM avec des services étrangers relevant du renseignement interviennent par l’intermédiaire du SRC.
 
 ## Chapitre 3 Dispositions particulières relatives à la protection des données
 
@@ -471,7 +474,7 @@ Il informe le destinataire:
 
 <sup>6</sup> Il enregistre la communication, son objet et son destinataire.
 
-[^35-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^35-1]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 ## Chapitre 4 Pilotage politique, procédure d’examen et interdictions
 
@@ -588,8 +591,8 @@ Le SRC peut accorder une remise de l’émolument ou y renoncer lorsque:
 - a. la perception de l’émolument engendre un coût supérieur à la prestation proprement dite, ou
 - b. d’autres raisons, dans le contexte de la prestation ou concernant la personne assujettie, portent à en déduire que la perception d’un émolument est disproportionnée.
 
-[^43-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^43-2]: [RS 172.045.103](https://fedlex.data.admin.ch/eli/cc/2006/704)
+[^43-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^43-2]: [RS 172.045.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5120)
 
 ## Chapitre 6 Contrôle
 
@@ -700,7 +703,7 @@ Sont réputées armes de service:
 Le directeur du SRC confirme l’appartenance au groupe de personnes visé à l’al. 2 en autorisant le port d’une arme de service lorsque:
 
 - a. le danger individuel encouru par le collaborateur concerné le commande, et que
-- b. le supérieur hiérarchique du collaborateur concerné ou le responsable des armes et du tir du SRC ne voit aucune objection à ce que ce collaborateur porte une arme de service; il y a notamment motif lorsque des indices laissent présumer que collaborateur présente une menace pour lui-même ou des tiers.
+- b. le supérieur hiérarchique du collaborateur concerné ou le responsable des armes et du tir du SRC ne voit aucune objection à ce que ce collaborateur porte une arme de service; il y a notamment motif lorsque des indices laissent présumer que le collaborateur présente une menace pour lui-même ou des tiers.
 
 <sup>4</sup>
 
@@ -753,7 +756,7 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 <sup>2</sup> Les archives dont le délai de protection est prolongé au sens de l’al. 1 peuvent être consultées sous réserve de l’art. 12, al. 2, de la loi fédérale du 26 juin 1998 sur l’archivage[^57-1], si le service de sûreté étranger concerné par les archives en question n’émet aucune réserve quant à la consultation.
 
-[^57-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^57-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 58
 
@@ -831,11 +834,11 @@ Annexe 3[^t-1]
 
 ## Communication de données personnelles à des autorités et services suisses
 
-[^t-1]: Mise à jour par l’annexe 3 ch. II 1 de l’O du 11 nov. 2020 sur la protection de la population ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) et le ch. I 2 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-1]: Mise à jour par l’annexe 3 ch. II 1 de l’O du 11 nov. 2020 sur la protection de la population ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)), le ch. I 2 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)), l’annexe 2 ch. II 1 de l’O du 8 nov. 2023 sur la procédure de sécurité relative aux entreprises ([RO 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)) et le ch. II 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 Le SRC communique des données personnelles aux autorités suisses de poursuite pénale aux conditions énumérées à l’art. 60, al. 2 à 4, LRens; il les communique sans réserve aux autorités de surveillance.
 
-Le SRC peut communiquer des données personnelles aux autorités et services suisses mentionnés ci après aux conditions énumérées à l’art. 60 LRens aux fins suivantes:
+Le SRC peut communiquer des données personnelles aux autorités et services suisses mentionnés ci-après aux conditions énumérées à l’art. 60 LRens aux fins suivantes:
 
 - 1\. autorités de surveillance et de régulation comme la Commission fédérale de l’électricité ou la Commission fédérale de la communication: à des fins de protection en cas d’attaques visant des infrastructures critiques;
 - 2\. organes de conduite de la politique de sécurité du Conseil fédéral: pour préserver la sûreté intérieure ou extérieure;
@@ -848,17 +851,17 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
   Département fédéral des affaires étrangères:
 
   - 7\.1 pour l’évaluation des demandes d’accréditation ou d’autorisations d’établissement émanant de ressortissants étrangers ou d’organisations internationales,
-  - 7\.2 pour l’exécution de devoirs de protection découlant du droit international publi,
-  - 7\.3 dans le cadre de ses droits de participation dans le domaine du droit du commerce extérieu,
-  - 7\.4 pour la constatation et l’évaluation de faits relatifs à la sécurité et concernant des représentations suisses à l’étrange,
-  - 7\.5 pour l’évaluation de la situation de la menace et des intérêts de politique de sécurité de la Suiss,
-  - 7\.6 pour l’analyse de la situation en vue de projets de développement et d’encouragement ainsi que d’initiatives de politique extérieur,
+  - 7\.2 pour l’exécution de devoirs de protection découlant du droit international public,
+  - 7\.3 dans le cadre de ses droits de participation dans le domaine du droit du commerce extérieur,
+  - 7\.4 pour la constatation et l’évaluation de faits relatifs à la sécurité et concernant des représentations suisses à l’étranger,
+  - 7\.5 pour l’évaluation de la situation de la menace et des intérêts de politique de sécurité de la Suisse,
+  - 7\.6 pour l’analyse de la situation en vue de projets de développement et d’encouragement ainsi que d’initiatives de politique extérieure,
 
 - 8\.
 
   Département fédéral de l’intérieur:
 
-  - 8\.1 Office fédéral de la santé publique: en corrélation avec l’exécution de la législation sur la radioprotection, les toxiques, les épidémies et les stupéfiant,
+  - 8\.1 Office fédéral de la santé publique: en corrélation avec l’exécution de la législation sur la radioprotection, les toxiques, les épidémies et les stupéfiants,
   - 8\.2 Office fédéral de la sécurité alimentaire et des affaires vétérinaires: en corrélation avec l’exécution de la législation sur les denrées alimentaires, les épizooties, la protection des animaux et la conservation des espèces;
 
 - 9\.
@@ -882,7 +885,7 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
     - 9\.3.1 pour l’accomplissement de tâches en vertu de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération[^annex3-lvlu1-1] et les centres de coopération policière et douanière communs avec d’autres États,
     - 9\.3.2 pour l’exécution des accords bilatéraux ou internationaux en matière de coopération policière,
     - 9\.3.3 pour le traitement de demandes d’entraide policière,
-    - 9\.3.4 pour la saisie dans le système système de recherches informatisées de police (RIPOL),
+    - 9\.3.4 pour la saisie dans le système de recherches informatisées de police (RIPOL),
     - 9\.3.5 pour la protection des personnes et des bâtiments au sens de l’ordonnance du 27 juin 2001 sur la sécurité relevant de la compétence fédérale[^annex3-lvlu1-2],
     - 9\.3.6 pour la protection de représentations suisses à l’étranger,
     - 9\.3.7 pour l’exécution de mesures de protection des objets, des informations et des valeurs en Suisse et à l’étranger,
@@ -899,12 +902,12 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
 
   - 10\.1
 
-    états-majors de l’armée:
+    commandements et états-majors de l’armée:
 
     - 10\.1.1 en corrélation avec l’appréciation de la situation de la menace et avec les informations sur l’étranger importantes en matière de sécurité politique ainsi qu’en corrélation avec les zones d’engagement de l’armée à l’étranger,
     - 10\.1.2 en corrélation avec les services d’appui en Suisse et à l’étranger,
     - 10\.1.3 pour l’appréciation des agents pathogènes et substances chimiques mis en circulation,
-    - 10\.1.4 pour l’appréciation des atteintes à la sécurité de systèmes et de banques de données informatiques de la Confédération par des actes dont les auteurs pourraient être liés à des activités de terrorisme, de service de renseignements ou d’extrémisme violent,
+    - 10\.1.4 pour l’évaluation de la sécurité informatique de la Confédération contre des actes en lien avec lesquels des activités de terrorisme, de service de renseignement ou d’extrémisme violent ne sauraient être exclues,
 
   - 10\.2 secrétariat général: pour l’appréciation de la situation de la menace et les intérêts en matière de politique de sécurité de la Suisse,
   - 10\.3
@@ -920,11 +923,20 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
 
     Office fédéral de la protection de la population:
 
-    - 10\.4.1 division de la politique en matière protection de la population, en corrélation avec la protection des infrastructures critiques,
+    - 10\.4.1 division de la politique en matière de protection de la population, en corrélation avec la protection des infrastructures critiques,
     - 10\.4.2 Centrale nationale d’alarme: en vue de rechercher, d’analyser et de communiquer des informations conformément à l’ordonnance du 11 novembre 2020 sur la protection de la population[^annex3-lvlu1-5],
     - 10\.4.3 laboratoire de Spiez: en corrélation avec des informations, des renseignements et des rapports relatifs à la sécurité NBC,
 
-  - 10\.5 service spécialisé chargé des contrôles de sécurité relatifs aux personnes: pour l’exécution des contrôles;
+  - 10\.5
+
+    Secrétariat d’État à la politique de sécurité, pour l’évaluation de la menace et pour la sauvegarde des intérêts de la Suisse en matière de politique de sécurité:
+
+    - 10\.5.1 service spécialisé de la Confédération pour la sécurité de l’information en lien avec le domaine de compétences de celui-ci,
+    - 10\.5.2 service spécialisé chargé des contrôles de sécurité relatifs aux personnes, dans l’exécution desdits contrôles,
+    - 10\.5.3 service spécialisé chargé de mener la procédure de sécurité relative aux entreprises, dans l’exécution desdits contrôles,
+
+  - 10\.6 Office fédéral de la cybersécurité, dans le contexte de la protection de la Suisse contre les cybermenaces,
+  - 10\.7 Office fédéral de l’armement, dans le cadre de projets relevant du développement de solutions techniques et d’analyses en matière de sécurité;
 
 - 11\.
 
@@ -981,14 +993,14 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
 
 - 14\. autorités et services de la Confédération, des cantons et des communes, lorsqu’il y a une nécessité pour leur sécurité ou pour contrer une menace imminente.
 
-[^annex3-lvlu1-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^annex3-lvlu1-2]: [[RO 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)annexe ch. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. II 2. [RO 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 54]. Voir actuellement l’O du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale ([RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
-[^annex3-lvlu1-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-5]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
-[^annex3-lvlu1-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex3-lvlu1-7]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^annex3-lvlu1-8]: [RS 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
+[^annex3-lvlu1-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^annex3-lvlu1-2]: [[RO 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)annexe ch. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. II 2. [RO 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 54]. Voir actuellement l’O du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale ([RS 120.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4756)).
+[^annex3-lvlu1-3]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^annex3-lvlu1-4]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^annex3-lvlu1-5]: [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
+[^annex3-lvlu1-6]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^annex3-lvlu1-7]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^annex3-lvlu1-8]: [RS 732.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8546)
 
 Annexe 4
 
@@ -1009,6 +1021,6 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 …[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[RO 2000 61](https://fedlex.data.admin.ch/eli/oc/2000/11), [2001 1369](https://fedlex.data.admin.ch/eli/oc/2001/189), [2006 5249](https://fedlex.data.admin.ch/eli/oc/2006/795), [2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 5, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 3]
-[^annex4-lvlu1-2]: [[RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848), [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558), [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430)[5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 ch. 2 [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)annexe ch. 1, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 2, [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46, [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)annexe ch. II 1, [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]
+[^annex4-lvlu1-1]: [[RO 2000 61](https://fedlex.data.admin.ch/eli/oc/2000/11); [2001 1369](https://fedlex.data.admin.ch/eli/oc/2001/189); [2006 5249](https://fedlex.data.admin.ch/eli/oc/2006/795); [2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 5; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 3]
+[^annex4-lvlu1-2]: [[RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848); [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558); [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 ch. 2, [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)annexe ch. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 2; [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46; [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)annexe ch. II 1; [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]
 [^annex4-lvlu1-3]: Les mod. peuvent être consultées au [RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495).

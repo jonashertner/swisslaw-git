@@ -4,11 +4,11 @@ title: "Verordnung vom 16. August 2017 über den Nachrichtendienst (Nachrichtend
 short: NDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: de
-version: 2022-06-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2017-495-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-495-20240101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/de"
 
 (Nachrichtendienstverordnung, NDV)
 
-vom 16. August 2017 (Stand am 1. Juni 2022)
+vom 16. August 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 8 Absatz 3, 11 Absatz 3, 19 Absatz 5, 39 Absatz 4, 43 
 
 verordnet:
 
-[^ingress-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 ## 1. Kapitel: Zusammenarbeit
@@ -82,7 +82,7 @@ Sie unterstützen sich gegenseitig bei der Erfüllung ihrer Aufgaben, insbesonde
 
 <sup>4</sup> Bei Assistenzdiensten der Armee im Inland, die einen Zusammenhang mit Aufgaben nach Artikel 6 Absatz 1 Buchstabe a NDG aufweisen, trägt der NDB die nachrichtendienstliche Verantwortung gegenüber der Einsatzleitung.
 
-[^3-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 4
 
@@ -291,8 +291,8 @@ Der NDB dokumentiert bei genehmigungspflichtigen Beschaffungsmassnahmen:
 
 <sup>6</sup> Es teilt dem NDB und dem Bundesverwaltungsgericht den Entscheid der Vorsteherin oder des Vorstehers des VBS über die Freigabe zur Durchführung mit.
 
-[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-2]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 23
 
@@ -300,7 +300,7 @@ Der NDB dokumentiert bei genehmigungspflichtigen Beschaffungsmassnahmen:
 
 Wird eine Person, die einer der Berufsgruppen nach den Artikeln 171−173 der Strafprozessordnung[^23-1] angehört, gestützt auf Artikel 27 NDG überwacht, so ist sicherzustellen, dass der NDB keine von einem Berufsgeheimnis erfassten Informationen erfährt, die nicht mit dem Grund, aus welchem die Überwachung angeordnet wurde, zusammenhängen. Der NDB weist im Genehmigungsverfahren nach Artikel 29 NDG darauf hin, dass die Selektion der Informationen nach Artikel 58 Absatz 3 NDG zu erfolgen hat.
 
-[^23-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### 4. Abschnitt: Eindringen in Computersysteme und -netzwerke im Ausland
 
@@ -341,17 +341,20 @@ Der NDB kann durch Kabelaufklärung sicherheitspolitisch bedeutsame Informatione
 
 **Durchführender Dienst**
 
-<sup>1</sup> Die Kabelaufklärung wird vom Zentrum für elektronische Operationen (ZEO) durchgeführt.
+<sup>1</sup> Die Kabelaufklärung wird vom Dienst für Cyber- und elektromagnetische Aktionen (CEA) durchgeführt.[^26-1]
 
-<sup>2</sup> Der NDB vereinbart mit dem ZEO die Grundsätze der Zusammenarbeit sowie der Auftragserteilung und -erledigung.
+<sup>2</sup> Der NDB vereinbart mit dem CEA[^26-2] die Grundsätze der Zusammenarbeit sowie der Auftragserteilung und -erledigung.
 
-<sup>3</sup> Das ZEO stellt den Kontakt zu den Betreiberinnen von leitungsgebundenen Netzen und den Anbieterinnen von Telekommunikationsdienstleistungen für alle Belange der Kabelaufklärung sicher.
+<sup>3</sup> Das CEA stellt den Kontakt zu den Betreiberinnen von leitungsgebundenen Netzen und den Anbieterinnen von Telekommunikationsdienstleistungen für alle Belange der Kabelaufklärung sicher.
+
+[^26-1]: Fassung gemäss Ziff. II 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^26-2]: Ausdruck gemäss Ziff. II 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 27
 
-**Aufgaben des ZEO**
+**Aufgaben des CEA**
 
-<sup>1</sup> Das ZEO holt bei den Betreiberinnen von leitungsgebundenen Netzen und den Anbieterinnen von Telekommunikationsdienstleistungen die für die Erstellung der Anträge und die Durchführung der Kabelaufklärungsaufträge erforderlichen technischen Angaben ein; es kann sich diese falls notwendig erklären lassen und die Vervollständigung oder eine Aktualisierung verlangen.
+<sup>1</sup> Das CEA holt bei den Betreiberinnen von leitungsgebundenen Netzen und den Anbieterinnen von Telekommunikationsdienstleistungen die für die Erstellung der Anträge und die Durchführung der Kabelaufklärungsaufträge erforderlichen technischen Angaben ein; es kann sich diese falls notwendig erklären lassen und die Vervollständigung oder eine Aktualisierung verlangen.
 
 <sup>2</sup> Es bearbeitet die Kabelaufklärungsaufträge des NDB.
 
@@ -359,13 +362,13 @@ Der NDB kann durch Kabelaufklärung sicherheitspolitisch bedeutsame Informatione
 
 <sup>4</sup> Es kann dem NDB vorschlagen, im Rahmen der genehmigten und freigegebenen Kategorien zusätzliche Suchbegriffe in laufende Aufträge aufzunehmen. Diese Suchbegriffe können auch aus Erkenntnissen aus anderen Aufträgen, namentlich der Funkaufklärung, hervorgehen.
 
-<sup>5</sup> Das ZEO stellt durch interne Massnahmen sicher, dass die Auftragserfüllung im Rahmen der Genehmigung erfolgt.
+<sup>5</sup> Das CEA stellt durch interne Massnahmen sicher, dass die Auftragserfüllung im Rahmen der Genehmigung erfolgt.
 
 #### Art. 28
 
 **Datenbearbeitung**
 
-<sup>1</sup> Das ZEO vernichtet die im Rahmen der Kabelaufklärung gewonnenen Resultate spätestens im Zeitpunkt der Beendigung des betreffenden Kabelaufklärungsauftrags.
+<sup>1</sup> Das CEA vernichtet die im Rahmen der Kabelaufklärung gewonnenen Resultate spätestens im Zeitpunkt der Beendigung des betreffenden Kabelaufklärungsauftrags.
 
 <sup>2</sup> Es vernichtet die erfassten Kommunikationen im Zeitpunkt der Beendigung des Auftrags, spätestens aber 18 Monate nach deren Erfassung.
 
@@ -375,9 +378,9 @@ Der NDB kann durch Kabelaufklärung sicherheitspolitisch bedeutsame Informatione
 
 **Aufgaben der Betreiberinnen von leitungsgebundenen Netzen und der Anbieterinnen von Telekommunikationsdienstleistungen**
 
-<sup>1</sup> Die Betreiberinnen von leitungsgebundenen Netzen und die Anbieterinnen von Telekommunikationsdienstleistungen melden dem ZEO, welche Stelle für die Bearbeitung zuständig ist.
+<sup>1</sup> Die Betreiberinnen von leitungsgebundenen Netzen und die Anbieterinnen von Telekommunikationsdienstleistungen melden dem CEA, welche Stelle für die Bearbeitung zuständig ist.
 
-<sup>2</sup> Sie gewähren dem ZEO Zutritt zu den für die Kabelaufklärung benötigten Räumen, um die Installation von technischen Komponenten zu ermöglichen, die für die Durchführung von Kabelaufklärungsaufträgen notwendig sind.
+<sup>2</sup> Sie gewähren dem CEA Zutritt zu den für die Kabelaufklärung benötigten Räumen, um die Installation von technischen Komponenten zu ermöglichen, die für die Durchführung von Kabelaufklärungsaufträgen notwendig sind.
 
 #### Art. 30
 
@@ -389,7 +392,7 @@ Die Entschädigung der Betreiberinnen von leitungsgebundenen Netzen und der Anbi
 
 **Kontakte zu ausländischen Fachstellen**
 
-Nachrichtendienstliche Kontakte des ZEO zu ausländischen Fachstellen erfolgen über den NDB.
+Nachrichtendienstliche Kontakte des CEA zu ausländischen Fachstellen erfolgen über den NDB.
 
 ## 3. Kapitel: Besondere Bestimmungen über den Datenschutz
 
@@ -471,7 +474,7 @@ Er weist die empfangende Stelle auf Folgendes hin:
 
 <sup>6</sup> Er registriert die Bekanntgabe, deren Inhalt und die empfangende Stelle.
 
-[^35-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^35-1]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 ## 4. Kapitel: Politische Steuerung, Prüfverfahren und Verbote
 
@@ -588,8 +591,8 @@ Der NDB kann die Gebühr ermässigen oder erlassen, wenn:
 - a. die Erhebung mehr Aufwand verursacht, als die Dienstleistung kostet; oder
 - b. Gründe im Zusammenhang mit der Dienstleistung oder betreffend die gebührenpflichtige Person die Erhebung als unverhältnismässig erscheinen lassen.
 
-[^43-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^43-2]: [SR 172.045.103](https://fedlex.data.admin.ch/eli/cc/2006/704)
+[^43-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^43-2]: [SR 172.045.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5120)
 
 ## 6. Kapitel: Kontrolle
 
@@ -753,7 +756,7 @@ Die Aufhebung und die Änderung anderer Erlasse sind in Anhang 4 geregelt.
 
 <sup>2</sup> In Archivgut mit nach Absatz 1 verlängerter Schutzfrist wird vorbehältlich Artikel 12 Absatz 2 des Archivierungsgesetzes vom 26. Juni 1998[^57-1] Einsicht gewährt, wenn der betroffene ausländische Sicherheitsdienst keine Vorbehalte gegen die Einsichtnahme geltend macht.
 
-[^57-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^57-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 58
 
@@ -831,7 +834,7 @@ Anhang 3[^t-1]
 
 ## Bekanntgabe von Personendaten an inländische Behörden und Amtsstellen
 
-[^t-1]: Bereinigt gemäss Anhang 3 Ziff. II 1 der Bevölkerungsschutzverordnung vom 11. Nov. 2020 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) und Ziff. I 2 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-1]: Bereinigt gemäss Anhang 3 Ziff. II 1 der Bevölkerungsschutzverordnung vom 11. Nov. 2020 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)), Ziff. I 2 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)), Anhang 2 Ziff. II 1 der V vom 8. Nov. 2023 über das Betriebssicherheitsverfahren ([AS 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)) und Ziff. II 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 Der NDB gibt den schweizerischen Strafverfolgungsbehörden Personendaten unter den in Artikel 60 Absätze 2–4 NDG genannten Voraussetzungen bekannt; den Aufsichtsbehörden gibt er die Daten vorbehaltlos bekannt.
 
@@ -899,12 +902,12 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
 
   - 10\.1
 
-    den Stäben der Armee:
+    den Kommandos und Stäben der Armee:
 
     - 10\.1.1 im Zusammenhang mit der Beurteilung der Bedrohungslage und sicherheitspolitisch bedeutsamer Informationen über das Ausland sowie im Zusammenhang mit den Einsatzgebieten der Armee im Ausland
     - 10\.1.2 im Zusammenhang mit Assistenzdiensten im In- und Ausland
     - 10\.1.3 zur Beurteilung von in Umlauf gebrachten Krankheitserregern und chemischen Substanzen
-    - 10\.1.4 zur Beurteilung der Sicherheit von EDV-Systemen und ‑Datenbanken des Bundes gegen Einwirkungen, bei denen ein terroristischer, nachrichtendienstlicher oder gewalttätig-extremistischer Bezug nicht ausgeschlossen werden kann,
+    - 10\.1.4 zur Beurteilung der Informatiksicherheit des Bundes vor Einwirkungen, bei denen ein terroristischer, nachrichtendienstlicher oder gewalttätig-extremistischer Bezug nicht ausgeschlossen werden kann,
 
   - 10\.2 dem Generalsekretariat: für die Beurteilung der Bedrohungslage und für die sicherheitspolitischen Interessen der Schweiz,
   - 10\.3
@@ -921,10 +924,19 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
     dem Bundesamt für Bevölkerungsschutz:
 
     - 10\.4.1 dem Geschäftsbereich Bevölkerungsschutzpolitik im Zusammenhang mit dem Schutz kritischer Infrastrukturen
-    - 10\.4.2 der Nationalen Alarmzentrale: im Hinblick auf die Beschaffung, Analyse und Verbreitung von Informationen nach der Bevölkerungsschutzverordnung vom 11. November 2020[^annex3-lvlu1-5]
+    - 10\.4.2 der Nationalen Alarmzentrale: im Hinblick auf die Beschaffung, Analyse und Verbreitung von Informationen nach der Bevölkerungsschutzverordnung vom 11. November 2020
     - 10\.4.3 dem Labor Spiez: im Zusammenhang mit Informationen und Erkenntnissen zur ABC-Sicherheit,
 
-  - 10\.5 der Fachstelle für Personensicherheitsprüfungen: zur Durchführung von Personensicherheitsprüfungen;
+  - 10\.5
+
+    dem Staatssekretariat für Sicherheitspolitik: zur Beurteilung der Bedrohungslage und für die Wahrung von sicherheitspolitischen Interessen der Schweiz:
+
+    - 10\.5.1 der Fachstelle des Bundes für Informationssicherheit: im Zusammenhang mit der Wahrung der Informationssicherheit,
+    - 10\.5.2 der Fachstelle für Personensicherheitsprüfungen: zur Durchführung von Personensicherheitsprüfungen,
+    - 10\.5.3 der Fachstelle für Betriebssicherheit: zur Durchführung von Betriebssicherheitsverfahren,
+
+  - 10\.6 dem Bundesamt für Cybersicherheit: im Zusammenhang mit dem Schutz der Schweiz vor Cyberbedrohungen,
+  - 10\.7 dem Bundesamt für Rüstung: im Rahmen von Projekten im Bereich der Entwicklung von technischen Lösungen und Sicherheitsanalysen;
 
 - 11\.
 
@@ -955,7 +967,7 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
 
     dem Staatssekretariat für Wirtschaft:
 
-    - 12\.1.1 zum Vollzug des Kriegsmaterialgesetzes vom 13. Dezember 1996[^annex3-lvlu1-6] und des Güterkontrollgesetzes vom 13. Dezember 1996[^annex3-lvlu1-7]
+    - 12\.1.1 zum Vollzug des Kriegsmaterialgesetzes vom 13. Dezember 1996[^annex3-lvlu1-5] und des Güterkontrollgesetzes vom 13. Dezember 1996[^annex3-lvlu1-6]
     - 12\.1.2 zur Ergreifung von Massnahmen auf dem Gebiet des Aussenwirtschaftsrechts
     - 12\.1.3 zur Vorbereitung oder Durchführung eines polizeilichen Ermittlungsverfahrens
     - 12\.1.4 zur Beurteilung der wirtschaftlichen und wirtschaftspolitischen Lage in den Interessensgebieten der Schweiz,
@@ -976,19 +988,18 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
     - 13\.2.1 im Zusammenhang mit dem Vollzug der Kernenergiegesetzgebung
     - 13\.2.2 im Rahmen seiner Mitwirkungsrechte auf dem Gebiet des Aussenwirtschaftsrechts,
 
-  - 13\.3 dem Eidgenössischen Nuklearsicherheitsinspektorat: im Zusammenhang mit dem Vollzug der Strahlenschutzgesetzgebung und der Aufgaben nach Artikel 2 Absatz 1 des Bundesgesetzes vom 22. Juni 2007[^annex3-lvlu1-8] über das Eidgenössische Nuklearsicherheitsinspektorat,
+  - 13\.3 dem Eidgenössischen Nuklearsicherheitsinspektorat: im Zusammenhang mit dem Vollzug der Strahlenschutzgesetzgebung und der Aufgaben nach Artikel 2 Absatz 1 des Bundesgesetzes vom 22. Juni 2007[^annex3-lvlu1-7] über das Eidgenössische Nuklearsicherheitsinspektorat,
   - 13\.4 dem Bundesamt für Umwelt: im Zusammenhang mit dem Vollzug der Umweltschutzgesetzgebung;
 
 - 14\. Behörden und Amtsstellen des Bundes, der Kantone und der Gemeinden, wenn es zu deren Sicherheit oder zur Abwehr einer unmittelbar drohenden Gefahr notwendig ist.
 
-[^annex3-lvlu1-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^annex3-lvlu1-2]: [[AS 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. II 2]. Siehe heute: die V vom 24. Juni 2020 ([SR 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
-[^annex3-lvlu1-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-5]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
-[^annex3-lvlu1-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex3-lvlu1-7]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^annex3-lvlu1-8]: [SR 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
+[^annex3-lvlu1-1]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^annex3-lvlu1-2]: [[AS 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. II 2]. Siehe heute: die V vom 24. Juni 2020 ([SR 120.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4756)).
+[^annex3-lvlu1-3]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^annex3-lvlu1-4]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^annex3-lvlu1-5]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^annex3-lvlu1-6]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^annex3-lvlu1-7]: [SR 732.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8546)
 
 Anhang 4
 
