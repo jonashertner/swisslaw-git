@@ -3,20 +3,19 @@ canton: LU
 number: "415"
 title: Verordnung über die kommunalen Musikschulen und die ausserschulische musikalische Talentförderung
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
+version: 2024-01-01
 version_adopted: 2023-06-06
 adopted: 2010-04-27
 in_force: 2010-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/415"
-pdf: "https://srl.lu.ch/api/de/versions/4100/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die kommunalen Musikschulen und die ausserschulische musikalische Talentförderung
 
-vom 27.04.2010 (Stand 01.08.2023)
+vom 27.04.2010 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -64,11 +63,11 @@ beschliesst:
 
 **Kantonsbeiträge**
 
-<sup>1</sup> Der Kanton leistet den Trägergemeinden an die Betriebskosten der Musikschulen einen gewichteten Kantonsbeitrag von durchschnittlich 975 Franken pro Lernenden oder Lernende und Schuljahr. Bei der Gewichtung werden die Lektionsdauer, die Art des Unterrichts und die Ausbildung der Lehrpersonen berücksichtigt.
+<sup>1</sup> Der Kanton leistet den anerkannten Musikschulen einen Pro-Kopf-Beitrag an die Betriebskosten. Dieser wird von der Dienststelle Volksschulbildung jährlich gestützt auf die gesamten Betriebskosten des vorletzten Rechnungsjahres berechnet und pro Art des Unterrichtsangebots festgelegt.
 
 <sup>1<sup>bis</sup></sup> Die Kantonsbeiträge werden für Lernende bis zum Abschluss einer Ausbildung auf der Sekundarstufe II und längstens bis zur Erfüllung des 20. Altersjahres ausgerichtet.
 
-<sup>2</sup> Für die Berechnung der Kantonsbeiträge ist die Anzahl Lernender am 1. November des Vorjahres massgebend.
+<sup>2</sup> Der Pro-Kopf-Beitrag wird an die Trägerschaft der Musikschule ausgerichtet. Massgebend ist die Anzahl Lernender am 1. November des Vorjahres.
 
 <sup>3</sup> Die Dienststelle Volksschulbildung berechnet die Beiträge und zahlt sie jeweils im ersten Quartal des Kalenderjahres aus.
 
