@@ -4,11 +4,11 @@ title: "Verordnung vom 26. November 2003 über den Schlachtvieh- und Fleischmark
 short: SV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-791-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-791-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/de"
 
 (Schlachtviehverordnung, SV)
 
-vom 26. November 2003 (Stand am 1. Januar 2023)
+vom 26. November 2003 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 21 Absatz 2, 22 Absatz 4, 49, 51 Absatz 1 und 177 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1],[^ingress-2]
+gestützt auf die Artikel 21 Absatz 2, 22 Absatz 4, 49, 51 Absatz 1, 177 und 180 Absatz 3 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1],[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
 
@@ -356,11 +356,11 @@ Als Einfuhrperiode gilt:
 - b. für Fleisch von Tieren der Schaf-, Ziegen- und Pferdegattung, Geflügelfleisch inkl. Geflügelkonserven und Schlachtnebenprodukte von Geflügel sowie für Schlachtnebenprodukte von Tieren der Rindvieh-, Schweine-, Pferde-, Schaf- und Ziegengattung: das Jahresquartal;
 - c. für alle anderen Fleisch- und Fleischwarenkategorien: das Kalenderjahr.
 
-<sup>4</sup> …[^16-4]
+<sup>4</sup> ...[^16-4]
 
 <sup>4bis</sup> Die Einfuhrperioden dürfen sich weder überschneiden noch über das Kalenderjahr hinausgehen.[^16-5]
 
-- [tab] <sup>5</sup> und <sup>6</sup> …[^16-6]
+<sup>5 und <sup>6</sup></sup> ...[^16-6]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-2]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
@@ -389,12 +389,12 @@ Als Einfuhrperiode gilt:
 
 **Übertragung nicht ausgenützter Kontingentsanteile**[^16b-1]
 
-Das BLW kann auf begründetes, schriftliches Gesuch hin nicht ausgenützte Mengen von ersteigerten und bezahlten Kontingentsanteilen einer Fleischkategorie auf die nächste Einfuhrperiode im selben Kalenderjahr übertragen, wenn:
+Kommt es bei der Einfuhr aufgrund höherer Gewalt zu unverschuldeten logistischen Schwierigkeiten, so kann das BLW auf begründetes schriftliches Gesuch hin nicht ausgenützte Mengen von ersteigerten und bezahlten Kontingentsanteilen auf die nächste Einfuhrperiode im selben Kalenderjahr übertragen, wenn:
 
-- a. die Menge mindestens 500 kg und höchstens 5 Prozent der zugeteilten und zur Ausnützung übertragenen Kontingentsanteile beträgt; und
+- a. die Menge mindestens 500 kg sowie höchstens 5 Prozent der Kontingentsanteile beträgt, die der gesuchstellenden Person insgesamt aufgrund der Versteigerung zugeteilt und zur Ausnützung übertragen worden sind; und
 - b. das Gesuch vor Ablauf der Einfuhrperiode beim BLW eintrifft.
 
-[^16b-1]: Ursprünglich: Art. 16*a*. Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^16b-1]: Ursprünglich: Art. 16*a*. Eingefügt durch Ziff. I der V vom 26. Okt. 2011 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ### 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung
 
@@ -424,31 +424,42 @@ Die folgenden vom BLW nach Artikel 16 festgelegten Einfuhrmengen werden wie folg
 
 Kontingentsanteile für die Teilzollkontingente 5.3 und 5.4 werden Angehörigen der jüdischen Gemeinschaft sowie der ihnen zugehörigen juristischen Personen und Personengemeinschaften zugeteilt, die:
 
-- a. sich verpflichten, das einzuführende Fleisch ausschliesslich an anerkannte Verkaufsstellen für Koscherfleisch zu liefern; oder
+- a.[^18-2] sich verpflichten, das einzuführende Fleisch ausschliesslich an Betreiberinnen und Betreiber von anerkannten Verkaufsstellen für Koscherfleisch zu liefern; oder
 - b. sich verpflichten, das einzuführende Fleisch ausschliesslich über eine eigene anerkannte Verkaufsstelle von Koscherfleisch selbst zu vermarkten.
 
 <sup>2</sup>
 
-Das BLW anerkennt eine Verkaufsstelle, wenn sie:
+Das BLW anerkennt als Verkaufsstellen Verkaufsläden, Verkaufsstände und Vertriebsplattformen im Internet, wenn sie der Öffentlichkeit zugänglich sind und die Betreiberinnen und Betreiber dafür sorgen, dass:
 
-- a. gewerbsmässig ausschliesslich Koscherfleisch und daraus hergestellte Fleischerzeugnisse verkauft und mit einem Verkaufsladen oder ‑stand der Öffentlichkeit zugänglich ist;
-- b. dafür sorgt, dass an gut sichtbarer Stelle der Hinweis «Koscher» oder «Koscherfleisch» in leicht lesbarer und unverwischbarer Schrift angebracht ist; der Hinweis muss mindestens in einer Amtssprache abgefasst sein, die von der Hauptbevölkerung der Ortschaft verstanden wird.
+- a. das Fleisch und die Fleischerzeugnisse, die gewerbsmässig verkauft werden, ausschliesslich Koscherfleisch und Erzeugnisse aus Koscherfleisch sind;
+- b. das Koscherfleisch und die daraus hergestellten Fleischerzeugnisse nicht über einen Zwischenhandel weitervermarket werden;
+- c.
+
+  gewährleistet ist, dass der Hinweis «Koscher» oder «Koscherfleisch» in mindestens einer Amtssprache des Bundes in leicht lesbarer und unverwischbarer Schrift angebracht ist:
+
+  - 1\. im Verkaufsladen, beim Verkaufsstand oder auf der Vertriebsplattform im Internet: an gut sichtbarer Stelle, und
+  - 2\. im Falle von vorverpackten Erzeugnissen: auf jeder Verpackung.[^18-3]
+
+<sup>2bis</sup> Werden das Koscherfleisch und die daraus hergestellten Fleischerzeugnisse über eine Vertriebsplattform im Internet verkauft, so muss die Betreiberin oder der Betreiber zusätzlich dafür sorgen, dass das Fleisch und die Fleischerzeugnisse in der Schweiz gelagert werden, bevor sie der Kundin oder dem Kunden zugestellt werden. Das Fleisch und die Fleischerzeugnisse müssen mit dem Hinweis nach Absatz 2 Buchstabe c versehen sein und so gelagert werden, dass gut erkennbar ist, dass es sich dabei um Koscherfleisch und Erzeugnisse aus Koscherfleisch handelt.[^18-4]
 
 <sup>3</sup> Die Kontingentsperiode wird in vier Einfuhrperioden, die den Jahresquartalen entsprechen, aufgeteilt.
 
 <sup>4</sup>
 
-Je Versteigerung können einer Kontingentsanteilsberechtigten[^18-2] maximal 40 Prozent der ausgeschriebenen Teilzollkontingentsmenge zugeteilt werden, wenn:
+Je Versteigerung können einer Kontingentsanteilsberechtigten[^18-5] maximal 40 Prozent der ausgeschriebenen Teilzollkontingentsmenge zugeteilt werden, wenn:
 
 - a. mehr als eine Kontingentsanteilsberechtigte an der Versteigerung teilnimmt; und
-- b. die berücksichtigbare Gebotsmenge grösser als die ausgeschriebene Teilzollkontingentsmenge ist.[^18-3]
+- b. die berücksichtigbare Gebotsmenge grösser als die ausgeschriebene Teilzollkontingentsmenge ist.[^18-6]
 
-<sup>5</sup> Wird durch die Anwendung von Absatz 4 die ausgeschriebene Zollkontingentsmenge nicht vollständig zugeteilt, wird die Restmenge unmittelbar nochmals allgemein ausgeschrieben und der maximale Kontingentsanteil nicht mehr angewendet.[^18-4]
+<sup>5</sup> Wird durch die Anwendung von Absatz 4 die ausgeschriebene Zollkontingentsmenge nicht vollständig zugeteilt, wird die Restmenge unmittelbar nochmals allgemein ausgeschrieben und der maximale Kontingentsanteil nicht mehr angewendet.[^18-7]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^18-2]: Ausdruck gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Die Anpassung wurde im ganzen Text vorgenommen.
-[^18-3]: Eingefügt durch Ziff. III der V vom 25. Juni 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
-[^18-4]: Eingefügt durch Ziff. III der V vom 25. Juni 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-5]: Ausdruck gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Die Anpassung wurde im ganzen Text vorgenommen.
+[^18-6]: Eingefügt durch Ziff. III der V vom 25. Juni 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18-7]: Eingefügt durch Ziff. III der V vom 25. Juni 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
 
 #### Art. 18a
 
@@ -458,15 +469,23 @@ Je Versteigerung können einer Kontingentsanteilsberechtigten[^18-2] maximal 40 
 
 Kontingentsanteile für die Teilzollkontingente 5.5 und 5.6 werden Angehörigen der islamischen Gemeinschaft sowie der ihnen zugehörigen juristischen Personen und Personengemeinschaften zugeteilt, die:
 
-- a. sich verpflichten, das einzuführende Fleisch ausschliesslich an anerkannte Verkaufsstellen für Halalfleisch zu liefern; oder
+- a.[^18a-2] sich verpflichten, das einzuführende Fleisch ausschliesslich an Betreiberinnen und Betreiber von anerkannten Verkaufsstellen für Halalfleisch zu liefern; oder
 - b. sich verpflichten, das einzuführende Fleisch ausschliesslich über eine eigene anerkannte Verkaufsstelle von Halalfleisch selbst zu vermarkten.
 
 <sup>2</sup>
 
-Das BLW anerkennt eine Verkaufsstelle, wenn sie:
+Das BLW anerkennt als Verkaufsstellen Verkaufsläden, Verkaufsstände und Vertriebsplattformen im Internet, wenn sie der Öffentlichkeit zugänglich sind und die Betreiberinnen und Betreiber dafür sorgen, dass:
 
-- a. gewerbsmässig ausschliesslich Halalfleisch und daraus hergestellte Fleischerzeugnisse verkauft und mit einem Verkaufsladen oder ‑stand der Öffentlichkeit zugänglich ist;
-- b. dafür sorgt, dass an gut sichtbarer Stelle der Hinweis «Halal» oder «Halalfleisch» in leicht lesbarer und unverwischbarer Schrift angebracht ist; der Hinweis muss mindestens in einer Amtssprache abgefasst sein, die von der Hauptbevölkerung der Ortschaft verstanden wird.
+- a. das Fleisch und die Fleischerzeugnisse, die gewerbsmässig verkauft werden, ausschliesslich Halalfleisch und Erzeugnisse aus Halalfleisch sind;
+- b. das Halalfleisch und die daraus hergestellten Fleischerzeugnisse nicht über einen Zwischenhandel weitervermarket werden;
+- c.
+
+  gewährleistet ist, dass der Hinweis «Halal» oder «Halalfleisch» in mindestens einer Amtssprache des Bundes in leicht lesbarer und unverwischbarer Schrift angebracht ist:
+
+  - 1\. im Verkaufsladen, beim Verkaufsstand oder auf der Vertriebsplattform im Internet: an gut sichtbarer Stelle, und
+  - 2\. im Falle von vorverpackten Erzeugnissen: auf jeder Verpackung.[^18a-3]
+
+<sup>2bis</sup> Werden das Halalfleisch und die daraus hergestellten Fleischerzeugnisse über eine Vertriebsplattform im Internet verkauft, so muss die Betreiberin oder der Betreiber zusätzlich dafür sorgen, dass das Fleisch und die Fleischerzeugnisse in der Schweiz gelagert werden, bevor sie der Kundin oder dem Kunden zugestellt werden. Das Fleisch und die Fleischerzeugnisse müssen mit dem Hinweis nach Absatz 2 Buchstabe c versehen sein und so gelagert werden, dass gut erkennbar ist, dass es sich dabei um Halalfleisch und Erzeugnisse aus Halalfleisch handelt.[^18a-4]
 
 <sup>3</sup> Die Kontingentsperiode wird in vier Einfuhrperioden, die den Jahresquartalen entsprechen, aufgeteilt.
 
@@ -475,24 +494,28 @@ Das BLW anerkennt eine Verkaufsstelle, wenn sie:
 Je Versteigerung können einer zollkontingentanteilsberechtigten Person maximal 40 Prozent der ausgeschriebenen Teilzollkontingentsmenge zugeteilt werden, wenn:
 
 - a. mehr als eine zollkontingentanteilsberechtigte Person an der Versteigerung teilnimmt; und
-- b. die berücksichtigbare Gebotsmenge grösser als die ausgeschriebene Teilzollkontingentsmenge ist.[^18a-2]
+- b. die berücksichtigbare Gebotsmenge grösser als die ausgeschriebene Teilzollkontingentsmenge ist.[^18a-5]
 
-<sup>5</sup> Wird durch die Anwendung von Absatz 4 die ausgeschriebene Zollkontingentsmenge nicht vollständig zugeteilt, wird die Restmenge unmittelbar nochmals allgemein ausgeschrieben und der maximale Kontingentsanteil nicht mehr angewendet.[^18a-3]
+<sup>5</sup> Wird durch die Anwendung von Absatz 4 die ausgeschriebene Zollkontingentsmenge nicht vollständig zugeteilt, wird die Restmenge unmittelbar nochmals allgemein ausgeschrieben und der maximale Kontingentsanteil nicht mehr angewendet.[^18a-6]
 
 [^18a-1]: Eingefügt durch Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^18a-2]: Eingefügt durch Ziff. III der V vom 25. Juni 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
-[^18a-3]: Eingefügt durch Ziff. III der V vom 25. Juni 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18a-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-5]: Eingefügt durch Ziff. III der V vom 25. Juni 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18a-6]: Eingefügt durch Ziff. III der V vom 25. Juni 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
 
 #### Art. 19
 
 **Zahlungsfrist**[^19-1]
 
-<sup>1</sup> Bei Kontingentsanteilen, die für die Dauer einer Kontingentsperiode (Kalenderjahr) zugeteilt werden, und bei Kontingentsanteilen der Zollkontingente 101 und 102 nach Anhang 3 der Freihandelsverordnung 1 vom 18. Juni 2008[^19-2] beträgt die Zahlungsfrist für das erste Drittel des Zuschlagspreises 90 Tage, für das zweite Drittel 120 Tage und für das dritte Drittel 150 Tage ab dem Ausstelldatum der Verfügung.
+<sup>1</sup> Bei Kontingentsanteilen, die für die Dauer einer Kontingentsperiode zugeteilt werden, und bei Kontingentsanteilen der Zollkontingente 101 und 102 nach Anhang 3 der Freihandelsverordnung 1 vom 18. Juni 2008[^19-2] beträgt die Zahlungsfrist für das erste Drittel des Zuschlagspreises 90 Tage, für das zweite Drittel 120 Tage und für das dritte Drittel 150 Tage ab dem Ausstelldatum der Verfügung.[^19-3]
 
 <sup>2</sup> Bei den übrigen Kontingentsanteilen beträgt die Zahlungsfrist 30 Tage ab dem Ausstelldatum der Verfügung.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^19-2]: [SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
+[^19-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 #### Art. 20
 
@@ -533,9 +556,13 @@ Anrechenbar sind:
 
 #### Art. 23
 
-**Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere**
+**Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere**[^23-1]
 
-Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere sind dem BLW auf dem dafür vorgesehenen Formular bis spätestens zum 15. August vor Beginn der Kontingentsperiode einzureichen.
+<sup>1</sup> Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere sind über die vom BLW bereitgestellte Internetanwendung einzureichen.
+
+<sup>2</sup> Sie sind vor Beginn der Kontingentsperiode bis spätestens am Werktag, der auf den 15. August folgt, einzureichen.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ### 3*a*. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere
 
@@ -617,22 +644,26 @@ Bei folgenden Produkten der Zollkontingente Nr. 05 und 06 wird auf eine Regelung
 
 #### Art. 25a
 
-<sup>1</sup> Rindfleisch hoher Qualität (High Quality Beef) kann im Teilzollkontingent Nr. 5.711 eingeführt werden, wenn die anmeldepflichtige Person nach Artikel 26 des Zollgesetzes vom 18. März 2005[^25a-1] der Zollstelle beim Zollveranlagungsverfahren eine Bescheinigung vorweist.
+<sup>1</sup> Rindfleisch hoher Qualität (High Quality Beef) kann in den Teilzollkontingenten Nr. 5.711 und Nr. 5.712 eingeführt werden, wenn die anmeldepflichtige Person nach Artikel 26 des Zollgesetzes vom 18. März 2005[^25a-1] der Zollstelle beim Zollveranlagungsverfahren eine Bescheinigung vorweist.[^25a-2]
 
 <sup>2</sup>
 
 Die Bescheinigung muss:
 
-- a. bestätigen, dass es sich um High Quality Beef nach den Kriterien in Ziffer 5 der Verpflichtung der Schweiz vom 12. April 1979[^25a-2] betreffend den Marktzutritt für Rindfleisch handelt;
-- b. dem Formular in Anhang I der Verordnung (EG) Nr. 810/2008 der Kommission vom 11. August 2008[^25a-3] zur Eröffnung und Verwaltung von Zollkontingenten für hochwertiges frisches, gekühltes oder gefrorenes Rindfleisch und gefrorenes Büffelfleisch (Neufassung) entsprechen;
+- a. bestätigen, dass es sich um High Quality Beef nach den Kriterien in Ziffer 5 der Verpflichtung der Schweiz vom 12. April 1979[^25a-3] betreffend den Marktzutritt für Rindfleisch handelt;
+- b.[^25a-4] auf dem vom BLW auf seiner Website bereitgestellten Formular ausgestellt werden;
 - c. in deutscher, französischer, italienischer oder englischer Sprache abgefasst sein; und
 - d. von der zuständigen Behörde des Lieferlandes unterzeichnet und mit einem amtlichen Stempel versehen sein.
+
+<sup>2bis</sup> Das BLW kann Bescheinigungen in anderer Form als jener nach Absatz 2 Buchstabe b zulassen, insbesondere um die elektronische Übermittlung der für die Bescheinigung erforderlichen Angaben zu ermöglichen.[^25a-5]
 
 <sup>3</sup> Die Zollstelle kontrolliert die Bescheinigung.
 
 [^25a-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^25a-2]: [SR 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
-[^25a-3]: ABl. L 219 vom 14.8.2008, S. 3
+[^25a-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-3]: [SR 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
+[^25a-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## 6. Kapitel: Übertragung von Aufgaben
 

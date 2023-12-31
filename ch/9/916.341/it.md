@@ -4,11 +4,11 @@ title: "Ordinanza del 26 novembre 2003 concernente il mercato del bestiame da ma
 short: OBM
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-791-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-791-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/it"
 
 (Ordinanza sul bestiame da macello, OBM)
 
-del 26 novembre 2003 (Stato 1° gennaio 2023)
+del 26 novembre 2003 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 21 capoverso 2, 22 capoverso 4, 49, 51 capoverso 1 e 177 della legge del 29 aprile 1998[^ingress-1] sull’agricoltura,[^ingress-2]
+visti gli articoli 21 capoverso 2, 22 capoverso 4, 49, 51 capoverso 1, 177 e 180 capoverso 3 della legge del 29 aprile 1998[^ingress-1] sull’agricoltura,[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## Capitolo 1: Oggetto e campo d’applicazione
 
@@ -359,7 +359,7 @@ Per periodo d’importazione s’intende:
 
 <sup>4bis</sup> I periodi d’importazione non devono sovrapporsi né superare l’anno civile.[^16-5]
 
-<sup>5</sup> e <sup>6</sup> ...[^16-6]
+<sup>5 e <sup>6</sup></sup> ...[^16-6]
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-2]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
@@ -388,12 +388,12 @@ Per periodo d’importazione s’intende:
 
 **Trasferimento di quote del contingente non utilizzate**[^16b-1]
 
-L’UFAG, su domanda scritta motivata, può trasferire sul successivo periodo d’importazione del medesimo anno civile quantitativi non utilizzati di quote del contingente di una categoria di carne messe all’asta e pagate, qualora:
+In caso di difficoltà logistiche senza colpa a livello di importazione per cause di forza maggiore, l’UFAG, su domanda scritta motivata, può trasferire sul successivo periodo d’importazione del medesimo anno civile i quantitativi non utilizzati di quote del contingente acquistate all’asta e pagate, qualora:
 
-- a. il quantitativo ammonti almeno a 500 kg e costituisca al massimo il 5 per cento delle quote del contingente assegnate e trasferite per essere utilizzate; e
+- a. il quantitativo ammonti almeno a 500 kg e costituisca al massimo il 5 per cento del totale delle quote del contingente assegnate sulla base di una vendita all’asta e trasferite al richiedente per essere utilizzate; e
 - b. la domanda pervenga all’UFAG prima della scadenza del periodo d’importazione.
 
-[^16b-1]: Originario art. 16*a*. Introdotto dal n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^16b-1]: Originario art. 16*a*. Introdotto dal n. I dell’O del 26 ott. 2011 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ### Sezione 2: Assegnazione delle quote del contingente sulla base di una vendita all’asta
 
@@ -423,15 +423,23 @@ I quantitativi d’importazione seguenti stabiliti dall’UFAG secondo l’artic
 
 Le quote del contingente per i contingenti doganali parziali 5.3 e 5.4 sono assegnate ai membri della comunità ebraica nonché alle rispettive persone giuridiche e comunità di persone che si impegnano:
 
-- a. a fornire la carne da importare esclusivamente ai punti di vendita di carne kasher riconosciuti; o
+- a.[^18-2] a fornire la carne da importare esclusivamente a gestori di punti di vendita di carne kasher riconosciuti; o
 - b. a commercializzare la carne da importare esclusivamente in un proprio punto di vendita di carne kasher riconosciuto.
 
 <sup>2</sup>
 
-L’UFAG riconosce i punti di vendita se essi:
+L’UFAG riconosce come punti di vendita negozi, banchi di vendita e piattaforme di distribuzione online se sono accessibili al pubblico e i gestori provvedono affinché:
 
-- a. vendono a titolo commerciale esclusivamente carne kasher e prodotti a base di tale carne e dispongono di magazzini o banchi accessibili al pubblico;
-- b. fanno in modo che l’indicazione «kasher» o «carne kasher» sia indicata in forma scritta in maniera ben visibile, facilmente leggibile e indelebile; l’indicazione è redatta almeno in una lingua ufficiale compresa dalla popolazione principale della località.
+- a. la carne e i prodotti carnei venduti a titolo commerciale siano esclusivamente carne kasher e prodotti a base di tale carne;
+- b. la carne kasher e i prodotti carnei ottenuti da tale carne non siano rivenduti tramite il commercio intermedio;
+- c.
+
+  sia garantito che la designazione «kasher» o «carne kasher» sia indicata almeno in una lingua ufficiale della Confederazione in maniera facilmente leggibile e indelebile:
+
+  - 1\. nel negozio, nel banco di vendita o sulla piattaforma di distribuzione online, in una collocazione ben visibile, e
+  - 2\. nel caso di prodotti preconfezionati, su ogni imballaggio.[^18-3]
+
+<sup>2bis</sup> Se la carne kasher e i prodotti carnei ottenuti da tale carne sono venduti tramite una piattaforma di distribuzione online, devono essere stoccati dall’operatore in Svizzera prima di essere consegnati ai clienti. La carne e i prodotti carnei devono recare la designazione di cui al capoverso 2 lettera c ed essere stoccati in modo che sia chiaramente riconoscibile che si tratta di carne kasher e di prodotti a base di tale carne.[^18-4]
 
 <sup>3</sup> Il periodo di contingentamento è suddiviso in quattro periodi di importazione, corrispondenti ai trimestri.
 
@@ -439,15 +447,18 @@ L’UFAG riconosce i punti di vendita se essi:
 
 Per ogni asta, a ciascun titolare di quote del contingente può essere assegnato al massimo il 40 per cento del quantitativo del contingente doganale parziale messo all’asta, se:
 
-- a. partecipano all’asta più di un avente diritto a quote del contingente[^18-2]; e
-- b. il quantitativo totale offerto che può essere tenuto in considerazione è maggiore del quantitativo del contingente doganale parziale messo all’asta.[^18-3]
+- a. partecipano all’asta più di un avente diritto a quote del contingente[^18-5]; e
+- b. il quantitativo totale offerto che può essere tenuto in considerazione è maggiore del quantitativo del contingente doganale parziale messo all’asta.[^18-6]
 
-<sup>5</sup> Se, per effetto del capoverso 4, il quantitativo di contingente doganale messo all’asta non viene completamente assegnato, il quantitativo rimanente è immediatamente oggetto di un nuovo bando generale senza che siano previste quote massime di assegnazione.[^18-4]
+<sup>5</sup> Se, per effetto del capoverso 4, il quantitativo di contingente doganale messo all’asta non viene completamente assegnato, il quantitativo rimanente è immediatamente oggetto di un nuovo bando generale senza che siano previste quote massime di assegnazione.[^18-7]
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^18-2]: Nuova espr. giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^18-3]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
-[^18-4]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-4]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-5]: Nuova espr. giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^18-6]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18-7]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
 
 #### Art. 18a
 
@@ -457,15 +468,23 @@ Per ogni asta, a ciascun titolare di quote del contingente può essere assegnato
 
 Le quote del contingente per i contingenti doganali parziali 5.5 e 5.6 sono assegnate ai membri della comunità musulmana nonché alle rispettive persone giuridiche e comunità di persone che si impegnano:
 
-- a. a fornire la carne da importare esclusivamente ai punti di vendita di carne halal riconosciuti; o
+- a.[^18a-2] a fornire la carne da importare esclusivamente a gestori di punti di vendita di carne halal riconosciuti; o
 - b. a commercializzare la carne da importare esclusivamente in un proprio punto di vendita di carne halal riconosciuto.
 
 <sup>2</sup>
 
-L’UFAG riconosce i punti di vendita se essi:
+L’UFAG riconosce come punti di vendita negozi, banchi di vendita e piattaforme di distribuzione online se sono accessibili al pubblico e i gestori provvedono affinché:
 
-- a. vendono a titolo commerciale esclusivamente carne halal e prodotti a base di tale carne e dispongono di magazzini o banchi accessibili al pubblico;
-- b. fanno in modo che l’indicazione «halal» o «carne halal» sia indicata in forma scritta in maniera ben visibile, facilmente leggibile e indelebile; l’indicazione è redatta almeno in una lingua ufficiale compresa dalla popolazione principale della località.
+- a. la carne e i prodotti carnei venduti a titolo commerciale siano esclusivamente carne halal e prodotti a base di tale carne;
+- b. la carne halal e i prodotti carnei ottenuti da tale carne non siano rivenduti tramite il commercio intermedio;
+- c.
+
+  sia garantito che la designazione «halal» o «carne halal» sia indicata almeno in una lingua ufficiale della Confederazione in maniera facilmente leggibile e indelebile:
+
+  - 1\. nel negozio, nel banco di vendita o sulla piattaforma di distribuzione online, in una collocazione ben visibile, e
+  - 2\. nel caso di prodotti preconfezionati, su ogni imballaggio.[^18a-3]
+
+<sup>2bis</sup> Se la carne halal e i prodotti carnei ottenuti da tale carne sono venduti tramite una piattaforma di distribuzione online, devono essere stoccati dall’operatore in Svizzera prima di essere consegnati ai clienti. La carne e i prodotti carnei devono recare la designazione di cui al capoverso 2 lettera c ed essere stoccati in modo che sia chiaramente riconoscibile che si tratta di carne halal e di prodotti a base di tale carne.[^18a-4]
 
 <sup>3</sup> Il periodo di contingentamento è suddiviso in quattro periodi di importazione, corrispondenti ai trimestri.
 
@@ -474,24 +493,28 @@ L’UFAG riconosce i punti di vendita se essi:
 Per ogni asta, a ciascun titolare di quote del contingente può essere assegnato al massimo il 40 per cento del quantitativo del contingente doganale parziale messo all’asta, se:
 
 - a. partecipano all’asta più di un avente diritto a quote del contingente; e
-- b. il quantitativo totale offerto che può essere tenuto in considerazione è maggiore del quantitativo del contingente doganale parziale messo all’asta.[^18a-2]
+- b. il quantitativo totale offerto che può essere tenuto in considerazione è maggiore del quantitativo del contingente doganale parziale messo all’asta.[^18a-5]
 
-<sup>5</sup> Se, per effetto del capoverso 4, il quantitativo di contingente doganale messo all’asta non viene completamente assegnato, il quantitativo rimanente è immediatamente oggetto di un nuovo bando generale senza che siano previste quote massime di assegnazione.[^18a-3]
+<sup>5</sup> Se, per effetto del capoverso 4, il quantitativo di contingente doganale messo all’asta non viene completamente assegnato, il quantitativo rimanente è immediatamente oggetto di un nuovo bando generale senza che siano previste quote massime di assegnazione.[^18a-6]
 
 [^18a-1]: Introdotto dal n. I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^18a-2]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
-[^18a-3]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18a-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-4]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-5]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18a-6]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
 
 #### Art. 19
 
 **Termine di pagamento**[^19-1]
 
-<sup>1</sup> Per le quote del contingente assegnate per la durata di un periodo di contingentamento (anno civile) e per le quote dei contingenti doganali 101 e 102 secondo l’allegato 3 dell’ordinanza del 18 giugno 2008[^19-2] sul libero scambio 1, il termine di pagamento è di 90 giorni per il primo terzo del prezzo di aggiudicazione, 120 giorni per il secondo terzo e 150 giorni per l’ultimo terzo, a decorrere dalla data in cui è emanata la decisione.
+<sup>1</sup> Per le quote del contingente assegnate per la durata di un periodo di contingentamento e per le quote dei contingenti doganali 101 e 102 secondo l’allegato 3 dell’ordinanza del 18 giugno 2008[^19-2] sul libero scambio 1, il termine di pagamento è di 90 giorni per il primo terzo del prezzo di aggiudicazione, 120 giorni per il secondo terzo e 150 giorni per l’ultimo terzo, a decorrere dalla data in cui è emanata la decisione.[^19-3]
 
 <sup>2</sup> Per le altre quote del contingente il termine di pagamento è di 30 giorni dalla data in cui è emanata la decisione.
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^19-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
+[^19-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 #### Art. 20
 
@@ -532,9 +555,13 @@ Sono computabili:
 
 #### Art. 23
 
-**Domande per l’ottenimento di quote del contingente in base al numero di animali acquistati all’asta**
+**Domande per l’ottenimento di quote del contingente in base al numero di animali acquistati all’asta**[^23-1]
 
-Le domande per l’ottenimento di quote del contingente in base al numero di animali acquistati all’asta devono essere presentate all’UFAG, utilizzando l’apposito modulo, entro il 15 agosto precedente l’inizio del periodo di contingentamento.
+<sup>1</sup> Le domande per l’ottenimento di quote del contingente in base al numero di animali acquistati all’asta devono essere presentate utilizzando l’applicazione messa a disposizione dall’UFAG.
+
+<sup>2</sup> Devono essere presentate prima dell’inizio del periodo di contingentamento, entro il giorno feriale successivo al 15 agosto.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ### Sezione 3*a*: Assegnazione delle quote del contingente in base al numero di animali macellati
 
@@ -585,6 +612,8 @@ Per l’assegnazione delle quote del contingente doganale parziale n. 5.7 sono d
 
 <sup>2</sup> Le domande devono essere presentate mediante il portale Internet Agate entro il 31 agosto precedente l’inizio del periodo di contingentamento.
 
+<sup>3</sup> Per l’assegnazione delle quote del contingente sono determinanti i numeri di PGI registrati al 31 agosto precedente l’inizio del periodo di contingentamento.
+
 [^24b-1]: Introdotto dal n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^24b-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 [^24b-3]: Nuovo testo giusta l’all. 3 n. II 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
@@ -614,22 +643,26 @@ La ripartizione delle quote del contingente per i seguenti prodotti dei continge
 
 #### Art. 25a
 
-<sup>1</sup> La carne bovina di alta qualità (High Quality Beef) può essere importata nell’ambito del contingente doganale parziale n. 5.711 se, durante la procedura d’imposizione doganale, la persona soggetta all’obbligo di dichiarazione secondo l’articolo 26 della legge del 18 marzo 2005[^25a-1] sulle dogane esibisce un certificato all’ufficio doganale.
+<sup>1</sup> La carne bovina di alta qualità (High Quality Beef) può essere importata nell’ambito dei contingenti doganali parziali n. 5.711 e 5.712 se, durante la procedura d’imposizione doganale, la persona soggetta all’obbligo di dichiarazione secondo l’articolo 26 della legge del 18 marzo 2005[^25a-1] sulle dogane esibisce un certificato all’ufficio doganale.[^25a-2]
 
 <sup>2</sup>
 
 Il certificato deve:
 
-- a. attestare che si tratta di High Quality Beef secondo i criteri definiti nel numero 5 degli obblighi assunti dalla Svizzera il 12 aprile 1979[^25a-2] in materia d’importazione di carne bovina;
-- b. corrispondere al formulario di cui all’Allegato I del Regolamento (CE) n. 810/2008 della Commissione, dell’11 agosto 2008[^25a-3], recante apertura e modalità di gestione dei contingenti tariffari per le carni bovine di alta qualità, fresche refrigerate o congelate e la carne di bufalo congelata (nuova versione);
+- a. attestare che si tratta di High Quality Beef secondo i criteri definiti nel numero 5 degli obblighi assunti dalla Svizzera il 12 aprile 1979[^25a-3] in materia d’importazione di carne bovina;
+- b.[^25a-4] essere rilasciato sul modulo messo a disposizione dall’UFAG sulla sua pagina Internet;
 - c. essere redatto in tedesco, francese, italiano o inglese; e
 - d. essere firmato dalla competente autorità del Paese fornitore e munito di un timbro ufficiale.
+
+<sup>2bis</sup> L’UFAG può autorizzare certificati in formato diverso da quello di cui al capoverso 2 lettera b, in particolare per consentire la trasmissione elettronica dei dati necessari per il certificato.[^25a-5]
 
 <sup>3</sup> L’ufficio doganale controlla il certificato.
 
 [^25a-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^25a-2]: [RS 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
-[^25a-3]: GU L 219 del 14.8.2008, pag. 3
+[^25a-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-3]: [RS 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
+[^25a-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-5]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## Capitolo 6: Delega di compiti
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 26 novembre 2003 sur les marchés du bétail de boucherie 
 short: OBB
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-791-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-791-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/fr"
 
 (Ordonnance sur le bétail de boucherie, OBB)
 
-du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2023)
+du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 21, al. 2, 22, al. 4, 49, 51, al. 1, et 177 de la loi du 29 avril 1998 sur l’agriculture[^ingress-1],[^ingress-2]
+vu les art. 21, al. 2, 22, al. 4, 49, 51, al. 1, 177 et 180, al. 3, de la loi du 29 avril 1998 sur l’agriculture[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## Chapitre 1 Objet et champ d’application
 
@@ -359,7 +359,7 @@ Par période d’importation, on entend:
 
 <sup>4bis</sup> Les périodes d’importation ne doivent ni se chevaucher ni aller au-delà de l’année civile.[^16-5]
 
-<sup>5</sup> et <sup>6</sup> …[^16-6]
+<sup>5 et <sup>6</sup></sup> …[^16-6]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-2]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
@@ -386,14 +386,14 @@ Par période d’importation, on entend:
 
 #### Art. 16b
 
-**Report de parts de contingent non utilisées**[^16b-1]
+**Report de parts de contingent**[^16b-1]
 
-Sur demande écrite et motivée, l’OFAG peut reporter sur la période d’importation suivante de la même année civile des quantités non utilisées de parts de contingent d’une catégorie de viande, acquises par voie d’adjudication et payées, lorsque:
+En cas de difficultés logistiques lors de l’importation non imputables à l’importateur, dues à un cas de force majeure, l’OFAG peut, sur demande écrite et motivée, reporter sur la période d’importation suivante de la même année civile des quantités non utilisées de parts de contingent acquises par voie d’adjudication et payées, si les conditions suivantes sont réunies:
 
-- a. la quantité s’élève à au moins 500 kg et représente au plus 5 % des parts de contingent attribuées et reportées pour être utilisées, et
+- a. la quantité s’élève au moins à 500 kg et représente au plus 5 % des parts de contingent qui ont été attribuées au total au requérant dans le cadre de la mise en adjudication et reportées pour être utilisées;
 - b. la demande parvient à l’OFAG avant la fin de la période d’importation.
 
-[^16b-1]: Anciennement art. 16*a*. Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^16b-1]: Anciennement art. 16*a*. Introduit par le ch. I de l’O du 26 oct. 2011 ([RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ### Section 2 Attribution des parts de contingent par voie de mise en adjudication
 
@@ -423,15 +423,23 @@ Les quantités de viande à importer fixées par l’OFAG en vertu de l’art. 1
 
 Des parts de contingent prélevées sur les contingents partiels 5.3 et 5.4 sont attribuées à des personnes physiques ainsi qu’à des personnes et communautés de personnes morales appartenant à la communauté juive:
 
-- a. qui s’engagent à livrer la viande importée exclusivement aux points de vente de viande kascher reconnus, ou
+- a.[^18-2] qui s’engagent à livrer la viande importée exclusivement à des exploitants de points de vente de viande kascher reconnus, ou
 - b. qui s’engagent à commercialiser la viande importée exclusivement dans leurs propres points de vente de viande kascher reconnus.
 
 <sup>2</sup>
 
-L’OFAG reconnaît un point de vente:
+L’OFAG reconnaît comme points de vente les magasins, les étals et les plateformes de distribution en ligne qui sont accessibles au public et dont les exploitants veillent:
 
-- a. s’il vend, à titre professionnel, exclusivement de la viande kascher et des produits qui en découlent et s’il dispose d’un magasin ou d’un étal accessible au public;
-- b. s’il veille à ce que l’indication «kascher» ou «viande kascher» figure à un endroit bien visible, dans une écriture facilement lisible et indélébile; l’indication doit être rédigée au moins dans une langue officielle, comprise par la majorité de la population du lieu.
+- a. à ce que la viande et les produits à base de viande vendus à titre professionnel soient exclusivement de la viande kasher et des produits à base de viande kasher;
+- b. à ce que la viande kasher et les produits à base de viande qui en découlent ne soient pas revendus par le biais d’un commerce intermédiaire;
+- c.
+
+  à ce qu’il soit garanti que l’indication «kascher» ou «viande kascher» figure dans au moins une langue officielle de la Confédération, dans une écriture facilement lisible et indélébile:
+
+  - 1\. dans le magasin, sur l’étal ou sur la plateforme de distribution en ligne: à un endroit bien visible, et
+  - 2\. dans le cas de produits préemballés: sur chaque emballage.[^18-3]
+
+<sup>2bis</sup> Si la viande kasher et les produits à base de viande qui en découlent sont vendus par le biais d’une plateforme de distribution en ligne, l’exploitant doit en outre veiller à ce qu’ils soient stockés en Suisse avant la livraison au client. La viande et les produits à base de viande doivent porter l’indication visée à l’al. 2, let. c, et être stockés de manière à ce qu’il soit clairement visible qu’il s’agit de viande kasher et de produits à base de viande kasher.[^18-4]
 
 <sup>3</sup> La période contingentaire est subdivisée en quatre périodes d’importation, qui correspondent aux trimestres.
 
@@ -439,15 +447,18 @@ L’OFAG reconnaît un point de vente:
 
 Par enchère, 40 % au maximum du contingent partiel total mis aux enchères peuvent être attribués à un détenteur de parts de contingent si:
 
-- a. plus d’un ayant droit à des parts de contingents[^18-2] participe à la mise aux enchères, et que
-- b. la quantité totale des offres pouvant être prise en considération est supérieure au contingent partiel mis aux enchères.[^18-3]
+- a. plus d’un ayant droit à des parts de contingents[^18-5] participe à la mise aux enchères, et que
+- b. la quantité totale des offres pouvant être prise en considération est supérieure au contingent partiel mis aux enchères.[^18-6]
 
-<sup>5</sup> Lorsque, en raison de l’application de l’al. 4, le contingent tarifaire mis aux enchères n’a pas été entièrement attribué, la quantité restante est immédiatement remise aux enchères et la part de contingent maximale n’est plus appliquée.[^18-4]
+<sup>5</sup> Lorsque, en raison de l’application de l’al. 4, le contingent tarifaire mis aux enchères n’a pas été entièrement attribué, la quantité restante est immédiatement remise aux enchères et la part de contingent maximale n’est plus appliquée.[^18-7]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^18-2]: Nouvelle expression selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Il a été tenu compte de cette mod. dans tout le texte.
-[^18-3]: Introduit par le ch. III de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
-[^18-4]: Introduit par le ch. III de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-5]: Nouvelle expression selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Il a été tenu compte de cette mod. dans tout le texte.
+[^18-6]: Introduit par le ch. III de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18-7]: Introduit par le ch. III de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
 
 #### Art. 18a
 
@@ -457,15 +468,23 @@ Par enchère, 40 % au maximum du contingent partiel total mis aux enchères peuv
 
 Des parts de contingent prélevées sur les contingents partiels 5.5 et 5.6 sont attribuées à des personnes physiques ainsi qu’à des personnes et communautés de personnes morales appartenant à la communauté musulmane:
 
-- a. qui s’engagent à livrer la viande importée exclusivement aux points de vente de viande halal reconnus, ou
+- a.[^18a-2] qui s’engagent à livrer la viande importée exclusivement à des exploitants de points de vente de viande halal reconnus, ou
 - b. qui s’engagent à commercialiser la viande importée exclusivement dans leurs propres points de vente de viande halal reconnus.
 
 <sup>2</sup>
 
-L’OFAG reconnaît un point de vente:
+L’OFAG reconnaît comme points de vente les magasins, les étals et les plateformes de distribution en ligne qui sont accessibles au public et dont les exploitants veillent:
 
-- a. s’il vend, à titre professionnel, exclusivement de la viande halal et des produits qui en découlent et s’il dispose d’un magasin ou d’un étal accessible au public;
-- b. s’il veille à ce que l’indication «halal» ou «viande halal» figure à un endroit bien visible, dans une écriture facilement lisible et indélébile; l’indication doit être rédigée au moins dans une langue officielle, comprise par la majorité de la population du lieu.
+- a. à ce que la viande et les produits à base de viande vendus à titre professionnel soient exclusivement de la viande halal et des produits à base de viande halal;
+- b. à ce que la viande halal et les produits à base de viande qui en découlent ne soient pas revendus par le biais d’un commerce intermédiaire;
+- c.
+
+  à ce que l’indication «halal» ou «viande halal» figure dans au moins une langue officielle de la Confédération, dans une écriture facilement lisible et indélébile:
+
+  - 1\. dans le magasin, sur l’étal ou sur la plateforme de distribution en ligne: à un endroit bien visible, et
+  - 2\. dans le cas de produits préemballés: sur chaque emballage.[^18a-3]
+
+<sup>2bis</sup> Si la viande halal et les produits à base de viande qui en découlent sont vendus par le biais d’une plateforme de distribution en ligne, l’exploitant doit en outre veiller à ce qu’ils soient stockés en Suisse avant la livraison au client. La viande et les produits à base de viande doivent porter l’indication visée à l’al. 2, let. c, et être stockés de manière à ce qu’il soit clairement visible qu’il s’agit de viande halal et de produits à base de viande halal.[^18a-4]
 
 <sup>3</sup> La période contingentaire est subdivisée en quatre périodes d’importation, qui correspondent aux trimestres.
 
@@ -474,24 +493,28 @@ L’OFAG reconnaît un point de vente:
 Par enchère, 40 % au maximum du contingent partiel total mis aux enchères peuvent être attribués à un détenteur de parts de contingent si:
 
 - a. plus d’un ayant droit à des parts de contingents participe à la mise aux enchères, et que
-- b. la quantité totale des offres pouvant être prise en considération est supérieure au contingent partiel mis aux enchères.[^18a-2]
+- b. la quantité totale des offres pouvant être prise en considération est supérieure au contingent partiel mis aux enchères.[^18a-5]
 
-<sup>5</sup> Lorsque, en raison de l’application de l’al. 4, le contingent tarifaire mis aux enchères n’a pas été entièrement attribué, la quantité restante est immédiatement remise aux enchères et la part de contingent maximale n’est plus appliquée.[^18a-3]
+<sup>5</sup> Lorsque, en raison de l’application de l’al. 4, le contingent tarifaire mis aux enchères n’a pas été entièrement attribué, la quantité restante est immédiatement remise aux enchères et la part de contingent maximale n’est plus appliquée.[^18a-6]
 
 [^18a-1]: Introduit par le ch. I de l’O du 9 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^18a-2]: Introduit par le ch. III de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
-[^18a-3]: Introduit par le ch. III de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-5]: Introduit par le ch. III de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18a-6]: Introduit par le ch. III de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
 
 #### Art. 19
 
 **Délai de paiement**[^19-1]
 
-<sup>1</sup> En ce qui concerne les parts de contingent attribuées pour la durée d’une période contingentaire (année civile) et les parts des contingents 101 et 102 selon l’annexe 3 de l’ordonnance du 18 juin 2008 sur le libre-échange 1[^19-2], le délai de paiement est de 90 jours pour le premier tiers du prix de l’adjudication, de 120 jours pour le deuxième tiers et de 150 jours pour le troisième tiers, à compter de la date à laquelle la décision est rendue.
+<sup>1</sup> En ce qui concerne les parts de contingent attribuées pour la durée d’une période contingentaire et les parts des contingents 101 et 102 visés à l’annexe 3 de l’ordonnance du 18 juin 2008 sur le libre-échange 1[^19-2], le délai de paiement est de 90 jours pour le premier tiers du prix de l’adjudication, de 120 jours pour le deuxième tiers et de 150 jours pour le troisième tiers, à compter de la date à laquelle la décision est rendue.[^19-3]
 
 <sup>2</sup> En ce qui concerne les autres parts de contingent, le délai de paiement est de 30 jours à compter de la date à laquelle la décision est rendue.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1er janv. 2016 ([RO 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^19-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 #### Art. 20
 
@@ -532,9 +555,13 @@ Sont imputables:
 
 #### Art. 23
 
-**Demandes de parts de contingents selon le nombre d’animaux acquis aux enchères**
+**Demandes de parts de contingents selon le nombre d’animaux acquis aux enchères**[^23-1]
 
-Les demandes de parts de contingent selon le nombre d’animaux acquis aux enchères doivent être envoyées à l’OFAG, au moyen du formulaire prévu à cet effet, au plus tard le 15 août précédant le début de la période contingentaire.
+<sup>1</sup> Les demandes de parts de contingent selon le nombre d’animaux acquis aux enchères doivent être déposées via l’application en ligne mise à disposition par l’OFAG.
+
+<sup>2</sup> Elles doivent être déposées avant le début de la période contingentaire, au plus tard le jour ouvré suivant le 15 août.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ### Section 3*a* Attribution des parts de contingent selon le nombre d’animaux abattus
 
@@ -616,22 +643,26 @@ Les produits suivants des contingents n°05 et 06 ne sont pas soumis à une rég
 
 #### Art. 25a
 
-<sup>1</sup> La viande bovine de premier choix (High Quality Beef) peut être importée dans le cadre du contingent tarifaire partiel n<sup>o</sup> 5.711 lorsque la personne assujettie à l’obligation de déclarer conformément à l’art. 26 de la loi du 18 mars 2005 sur les douanes[^25a-1] présente une attestation au bureau de douane lors de la procédure douanière.
+<sup>1</sup> La viande bovine de premier choix (High Quality Beef) peut être importée dans le cadre des contingents tarifaires partiels n<sup>o</sup> 5.711 et n<sup>o</sup> 5.712 lorsque la personne assujettie à l’obligation de déclarer conformément à l’art. 26 de la loi du 18 mars 2005 sur les douanes[^25a-1] présente une attestation au bureau de douane lors de la procédure douanière.[^25a-2]
 
 <sup>2</sup>
 
 L’attestation doit:
 
-- a. attester qu’il s’agit de High Quality Beef selon les critères du ch. 5 des Obligations du 12 avril 1979 contractées par la Suisse en matière d’importation de viande bovine[^25a-2];
-- b. correspondre au formulaire figurant à l’annexe 1 du Règlement (CE) n<sup>o</sup> 810/2008 de la Commission du 11 août 2008 portant ouverture et mode de gestion des contingents tarifaires pour les viandes bovines de haute qualité, fraîches, réfrigérées ou congelées et pour la viande de buffle congelée[^25a-3] (nouvelle version);
+- a. attester qu’il s’agit de High Quality Beef selon les critères du ch. 5 des Obligations du 12 avril 1979 contractées par la Suisse en matière d’importation de viande bovine[^25a-3];
+- b.[^25a-4] être délivrée au moyen du formulaire mis à disposition par l’OFAG sur son site Web;
 - c. être établie en français, allemand, italien ou en anglais, et
 - d. être signée par l’autorité désignée du pays fournisseur et munie d’un timbre officiel.
+
+<sup>2bis</sup> L’OFAG peut admettre des attestations sous une autre forme que celle prévue à l’al. 2, let. b, en particulier pour permettre la transmission électronique des informations requises pour l’attestation.[^25a-5]
 
 <sup>3</sup> Le bureau de douane contrôle l’attestation.
 
 [^25a-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^25a-2]: [RS 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
-[^25a-3]: JO L 219 du 14.8.2008, p. 3
+[^25a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-3]: [RS 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
+[^25a-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## Chapitre 6 Transfert de tâches
 
@@ -683,7 +714,7 @@ L’OFAG est chargé de l’exécution de la présente ordonnance, dans la mesur
 
 L’ordonnance du 7 décembre 1998 sur les marchés du bétail de boucherie et de la viande[^29-1] est abrogée.
 
-[^29-1]: [[RO 1999 111](https://fedlex.data.admin.ch/eli/oc/1999/19), [2000 401](https://fedlex.data.admin.ch/eli/oc/2000/84), [2001 314](https://fedlex.data.admin.ch/eli/oc/2001/67)[2091](https://fedlex.data.admin.ch/eli/oc/2001/305)annexe ch. 18 [2880](https://fedlex.data.admin.ch/eli/oc/2001/427), [2002 3495](https://fedlex.data.admin.ch/eli/oc/2002/521)]
+[^29-1]: [[RO 1999 111](https://fedlex.data.admin.ch/eli/oc/1999/19); [2000 401](https://fedlex.data.admin.ch/eli/oc/2000/84); [2001 314](https://fedlex.data.admin.ch/eli/oc/2001/67), [2091](https://fedlex.data.admin.ch/eli/oc/2001/305)annexe ch. 18 [2880](https://fedlex.data.admin.ch/eli/oc/2001/427); [2002 3495](https://fedlex.data.admin.ch/eli/oc/2002/521)]
 
 #### Art. 30
 
