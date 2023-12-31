@@ -4,13 +4,13 @@ number: "860.2"
 title: Gesetz über die sozialen Leistungsangebote
 short: SLG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-09
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-13
 adopted: 2021-03-09
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2482/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2969/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2482/pdf_file"
 
 (SLG)
 
-vom 09.03.2021 (Stand 01.01.2022)
+vom 09.03.2021 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -882,11 +882,12 @@ beschliesst:
 
 #### Art. 80
 
-<sup>1</sup> Die zuständige Stelle der GSI kann Massnahmen im Bereich der Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen ergreifen, wenn die Sicherstellung des beruflichen Nachwuchses in den Betrieben der Leistungserbringer nach Absatz 2 gefährdet ist.
+<sup>1</sup> Die zuständige Stelle der GSI kann Massnahmen im Bereich der Aus- und Weiterbildung in nichtuniversitären Gesundheits- und Sozialberufen ergreifen, wenn die Sicherstellung des beruflichen Nachwuchses in den Betrieben der Leistungserbringer nach Absatz 2 gefährdet ist.
 
 <sup>2</sup> Die Bestimmungen über die Aus- und Weiterbildung gelten für folgende Leistungserbringer:
 
 - a Wohn- und Pflegeheime für Menschen mit Pflege- und Betreuungsbedarf,
+- a1 Wohnheime für Menschen mit Behinderungen,
 - b Spitex-Organisationen.
 
 <sup>3</sup> Der Regierungsrat bezeichnet die nichtuniversitären Gesundheitsberufe durch Verordnung.

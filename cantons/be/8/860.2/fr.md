@@ -4,13 +4,13 @@ number: "860.2"
 title: Loi sur les programmes d’action sociale
 short: LPASoc
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-09
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-13
 adopted: 2021-03-09
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2482/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2969/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2482/pdf_file"
 
 (LPASoc)
 
-du 09.03.2021 (état au 01.01.2022)
+du 09.03.2021 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -882,11 +882,12 @@ arrête:
 
 #### Art. 80
 
-<sup>1</sup> Le service compétent de la DSSI peut prendre des mesures touchant la formation et le perfectionnement dans les professions de la santé non universitaires quand la relève est menacée dans les entreprises des fournisseurs de prestations visés à l’alinéa 2.
+<sup>1</sup> Le service compétent de la DSSI peut prendre des mesures touchant la formation et le perfectionnement dans les professions de la santé et du social non universitaires quand la relève est menacée dans les entreprises des fournisseurs de prestations visés à l’alinéa 2.
 
 <sup>2</sup> Les dispositions sur la formation et le perfectionnement s’appliquent aux fournisseurs de prestations suivants:
 
 - a institutions médico-sociales accueillant des personnes ayant besoin de soins ou d’une prise en charge;
+- a1 homes pour personnes en situation de handicap,
 - b services d’assistance, d’aide et de soins à domicile (services de maintien à domicile).
 
 <sup>3</sup> Le Conseil-exécutif désigne par voie d’ordonnance les professions de la santé non universitaires concernées.
