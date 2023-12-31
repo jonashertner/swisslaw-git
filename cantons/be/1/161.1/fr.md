@@ -4,13 +4,13 @@ number: "161.1"
 title: "Loi sur l'organisation des autorités judiciaires et du Ministère public"
 short: LOJM
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-06-15
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2721/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3063/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2721/pdf_file"
 
 (LOJM)
 
-du 11.06.2009 (état au 01.01.2023)
+du 11.06.2009 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -33,7 +33,7 @@ arrête:
 
 **Objet**
 
-<sup>1</sup> La présente loi règle l'organisation et la conduite des autorités judiciaires et du Ministère public.
+<sup>1</sup> La présente loi règle l'organisation et la conduite des autorités judiciaires et du Ministère public ainsi que la collaboration avec le Conseil-exécutif et le Grand Conseil.
 
 <sup>2</sup> Elle crée les conditions nécessaires à une organisation efficace des autorités ainsi qu'au déroulement en temps utile des procédures judiciaires et des poursuites pénales.
 
@@ -84,7 +84,13 @@ arrête:
 
 <sup>2</sup> Le Ministère public accomplit les tâches que la loi lui attribue en matière de poursuite pénale.
 
-## 2 Principes d'organisation et de conduite
+#### Art. 3a
+
+**Direction administrative de la magistrature**
+
+<sup>1</sup> La Direction administrative de la magistrature est l'organe d'autoadministration de la justice commun à la Cour suprême, au Tribunal administratif et au Parquet général.
+
+## 2 Principes d'organisation, de conduite et de collaboration
 
 #### Art. 4
 
@@ -108,7 +114,40 @@ arrête:
 
 <sup>1</sup> Les Directions de l’administration cantonale compétentes sont responsables de mettre à la disposition des autorités judiciaires et du Ministère public les immeubles et les bâtiments de même que les systèmes informatiques et les systèmes de communication dont ils ont besoin, ainsi que de les gérer et de les entretenir.
 
-<sup>2</sup> La Direction de la magistrature informe en temps utile la Direction compétente des besoins des autorités judiciaires et du Ministère public. Celle-ci les prend en considération de manière appropriée, compte tenu des consignes cantonales applicables.
+<sup>2</sup> La Direction administrative de la magistrature informe en temps utile la Direction compétente des besoins des autorités judiciaires et du Ministère public. Celle-ci les prend en considération de manière appropriée, compte tenu des consignes cantonales applicables.
+
+#### Art. 6a
+
+**Droit de proposition et de représentation de la Direction administrative de la magistrature**
+
+<sup>1</sup> La Direction administrative de la magistrature a le droit, dans son domaine d'activité, de soumettre au Grand Conseil des propositions concernant les affaires suivantes:
+
+- a le budget et le plan intégré mission-financement selon l'article 11,
+- b le rapport de gestion et le rapport d'activité,
+- c les crédits,
+- d les interventions parlementaires.
+
+<sup>2</sup> Elle représente ces affaires devant le Grand Conseil et désigne la personne qui exerce son droit de représentation et son droit de s'exprimer.
+
+#### Art. 6b
+
+**Participation du Conseil-exécutif aux affaires de la Direction administrative de la magistrature**
+
+<sup>1</sup> La Direction administrative de la magistrature transmet ses affaires au sens de l'article 6a au Conseil-exécutif à l'intention du Grand Conseil, pour autant que la législation n’en dispose pas autrement.
+
+<sup>2</sup> Le Conseil-exécutif transmet les affaires de la Direction administrative de la magistrature au Grand Conseil sans les modifier. Il peut prendre position à leur sujet et formuler ses propres propositions.
+
+#### Art. 6c
+
+**Information**
+
+<sup>1</sup> Le Conseil-exécutif ou la Direction compétente à raison de la matière informe, au préalable, la Direction administrative de la magistrature des affaires touchant les tribunaux et le Ministère public. Dans la mesure du possible, les besoins de la justice sont pris en compte dans la décision.
+
+#### Art. 6d
+
+**Collaboration entre le Grand Conseil, le Conseil-exécutif et la Direction administrative de la magistrature**
+
+<sup>1</sup> Le Grand Conseil, le Conseil-exécutif et la Direction administrative de la magistrature s'entendent sur les modalités de leur collaboration.
 
 #### Art. 7
 
@@ -142,9 +181,9 @@ arrête:
 
 #### Art. 11
 
-**Budget, plan intégré «mission-financement**
+**Budget, plan intégré mission-financement**
 
-<sup>1</sup> Le budget et le plan intégré «mission-financement» se subdivisent comme suit en groupes de produits:
+<sup>1</sup> Le budget et le plan intégré mission-financement se subdivisent comme suit en groupes de produits:
 
 - a juridictions civile et pénale,
 - b juridiction administrative,
@@ -154,9 +193,9 @@ arrête:
 
 <sup>3</sup> Les trois groupes de produits font l’objet d’un compte spécial commun.
 
-<sup>4</sup> Le budget et le plan intégré «mission-financement» sont portés à la connaissance de la Commission de justice du Grand Conseil avant d’être transmis au Conseil-exécutif.
+<sup>4</sup> Le budget et le plan intégré mission-financement sont portés à la connaissance de la Commission de justice du Grand Conseil avant d’être transmis au Conseil-exécutif.
 
-<sup>5</sup> Le Conseil-exécutif reprend le budget et le plan intégré «mission-financement» élaborés par la Direction de la magistrature, les insère sans modification dans le budget et dans le plan intégré «mission-financement» du canton, et prend position à leur égard.
+<sup>5</sup> Le Conseil-exécutif reprend le budget et le plan intégré mission-financement élaborés par la Direction administrative de la magistrature, les insère sans modification dans le budget et dans le plan intégré mission-financement du canton, et prend position à leur égard.
 
 #### Art. 12
 
@@ -179,7 +218,7 @@ arrête:
 
 **Surveillance et haute surveillance**
 
-<sup>1</sup> La Cour suprême, le Tribunal administratif, le Parquet général et la Direction de la magistrature sont placés sous la haute surveillance du Grand Conseil.
+<sup>1</sup> La Cour suprême, le Tribunal administratif, le Parquet général et la Direction administrative de la magistrature sont placés sous la haute surveillance du Grand Conseil.
 
 <sup>2</sup> Les tribunaux des mesures de contrainte, le Tribunal pénal économique, le Tribunal des mineurs, les tribunaux régionaux ainsi que les autorités régionales de conciliation sont placés sous la surveillance de la Cour suprême.
 
@@ -205,54 +244,57 @@ arrête:
 
 <sup>1</sup> Le Grand Conseil fixe par voie de décret la langue judiciaire et la langue de la procédure pour les autorités judiciaires et le Ministère public.
 
-## 6 Direction de la magistrature
+## 6 Direction administrative de la magistrature
 
 #### Art. 17
 
 **Composition et organisation**
 
-<sup>1</sup> La Direction de la magistrature est un organe commun à la Cour suprême, au Tribunal administratif et au Parquet général.
+<sup>1</sup> …
 
-<sup>2</sup> Elle se compose du président ou de la présidente de la Cour suprême, du président ou de la présidente du Tribunal administratif ainsi que du procureur général ou de la procureure générale.
+<sup>2</sup> La Direction administrative de la magistrature se compose du président ou de la présidente de la Cour suprême, du président ou de la présidente du Tribunal administratif ainsi que du procureur général ou de la procureure générale.
+
+<sup>2a</sup> La Direction administrative de la magistrature prend ses décisions à l’unanimité.
 
 <sup>3</sup> Elle fixe son organisation et ses processus de décision dans un règlement.
 
-<sup>4</sup> Les représentants et représentantes de la Direction de la magistrature peuvent se faire accompagner par des experts et expertes aux séances des commissions permanentes du Grand Conseil.
+<sup>4</sup> Les représentants et représentantes de la Direction administrative de la magistrature peuvent se faire accompagner par des experts et expertes aux séances des commissions permanentes du Grand Conseil.
 
 #### Art. 18
 
-**Tâches et compétences en matière d'autorisation de dépenses**
+**Tâches**
 
-<sup>1</sup> La Direction de la magistrature accomplit les tâches suivantes:
+<sup>1</sup> La Direction administrative de la magistrature accomplit les tâches suivantes relevant de l'autoadministration de la justice:
 
 - a Elle est l'interlocutrice du Grand Conseil et du Conseil-exécutif pour toutes les questions ayant trait à la fois aux autorités judiciaires et au Ministère public.
-- b Elle établit le budget, le plan intégré «mission-financement» et le rapport de gestion des autorités judiciaires et du Ministère public.
+- a1 La Cour suprême, le Tribunal administratif et le Parquet général prennent individuellement position sur les questions ayant trait à la justice. La Direction administrative de la magistrature peut compléter leurs prises de position.
+- b Elle adopte le budget, le plan intégré mission-financement ainsi que le rapport de gestion des autorités judiciaires et du Ministère public à l'intention du Grand Conseil.
+- b1 Elle adopte les demandes de crédit à l'intention du Grand Conseil après avoir sollicité un rapport de la Direction des finances.
+- b2 Elle adopte les réponses aux motions financières, aux interpellations et aux questions à l'intention du Grand Conseil.
 - c Elle prend position sur les réglementations du Conseil-exécutif qui concernent les autorités judiciaires ou le Ministère public.
-- d Elle règle les compétences en matière d'autorisation de dépenses des autorités judiciaires et du Ministère public dans le cadre des prescriptions de la législation sur les finances.
-- e Elle soumet chaque année un rapport d'activité au Grand Conseil.
-- f Elle défend devant le Grand Conseil le budget, le plan intégré «mission-financement», le rapport de gestion ainsi que le rapport d'activité, et désigne à cette fin un représentant ou une représentante
+- d Elle règle les compétences en matière d'autorisation de dépenses des autorités judiciaires et du Ministère public dans le cadre des prescriptions de la Constitution cantonale (ConstC)[^18-1] et de la législation sur les finances.
+- e Elle soumet directement, chaque année, un rapport d'activité au Grand Conseil.
+- f …
 - g Elle accomplit, dans les domaines des autorités judiciaires et du Ministère public, les tâches administratives que la législation sur les finances attribue au Conseil-exécutif pour le domaine de l'administration cantonale, sauf dispositions contraires de la présente loi.
 - h Elle peut, avec l'accord de la Commission de justice du Grand Conseil, autoriser des écarts soumis à crédit supplémentaire par rapport aux soldes arrêtés dans le budget
   - 1\. si ces écarts ne dépassent pas un million de francs par groupe de produits ou
   - 2\. si l'organe compétent ne dispose d'aucune liberté d'action.
 - i Elle peut, avec l'accord de la Commission de justice du Grand Conseil, contracter avant l'autorisation du crédit supplémentaire des engagements qu'il est impossible de différer sans que cela n'entraîne pour le canton des conséquences particulièrement préjudiciables.
 - k Elle est responsable d'édicter, dans le cadre des dispositions légales, des directives stratégiques applicables au personnel, aux finances et à la comptabilité ainsi qu'à la gestion de l'informatique, et garantit un controlling en la matière. Elle peut donner des instructions à cet égard aux autorités judiciaires et au Ministère public, et édicter les règlements nécessaires.
-- l Elle coordonne, en collaboration avec les services compétents de la Direction de la sécurité ainsi que de la Direction des travaux publics et des transports, l'édiction de directives stratégiques dans le domaine de la sécurité
+- l Elle coordonne, en collaboration avec les services compétents de la Direction de la sécurité ainsi que de la Direction des travaux publics et des transports, l'édiction de directives stratégiques dans le domaine de la sécurité.
 - m Elle dirige l'état-major des ressources, fixe l'organisation et les tâches de ce dernier dans un règlement, et engage son chef ou sa cheffe ainsi que le reste du personnel.
 
-<sup>2</sup> La Direction de la magistrature arrête
+<sup>2</sup> …
 
-- a les dépenses nouvelles uniques jusqu'à concurrence d'un million de francs,
-- b les dépenses nouvelles périodiques jusqu'à concurrence de 200'000 francs,
-- c les dépenses liées.
+[^18-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
 
 #### Art. 19
 
 **Etat-major des ressources**
 
-<sup>1</sup> La Direction de la magistrature dispose d'un état-major des ressources qui se charge de l'administration du personnel, des finances et de la comptabilité ainsi que de l'informatique pour les autorités judiciaires et le Ministère public en collaboration avec leurs responsables des ressources respectifs.
+<sup>1</sup> La Direction administrative de la magistrature dispose d'un état-major des ressources qui se charge de l'administration du personnel, des finances et de la comptabilité ainsi que de l'informatique pour les autorités judiciaires et le Ministère public en collaboration avec leurs responsables des ressources respectifs.
 
-<sup>2</sup> Le chef ou la cheffe de l'état-major des ressources participe avec voix consultative aux séances de la Direction de la magistrature.
+<sup>2</sup> Le chef ou la cheffe de l'état-major des ressources participe avec voix consultative aux séances de la Direction administrative de la magistrature.
 
 <sup>3</sup> L'état-major des ressources collabore étroitement avec les responsables des ressources des autorités judiciaires et du Ministère public, et peut leur donner des instructions techniques dans les domaines du personnel et des finances.
 
@@ -325,11 +367,11 @@ arrête:
 
 <sup>1</sup> Avant leur entrée en fonction, tous les membres des autorités judiciaires et du Parquet général élus par le Grand Conseil prêtent serment ou font la promesse. Une nouvelle assermentation n'est pas requise en cas de réélection suivant immédiatement la période de fonction arrivée à son terme.
 
-<sup>2</sup> L'assermentation des juges des tribunaux suprêmes et des membres du Parquet général a lieu devant le Grand Conseil, sauf dans le cas des membres suppléants. Les autres juges sont assermentés par la Direction de la magistrature.
+<sup>2</sup> L'assermentation des juges des tribunaux suprêmes et des membres du Parquet général a lieu devant le Grand Conseil, sauf dans le cas des membres suppléants. Les autres juges sont assermentés par le représentant ou la représentante de l’autorité judiciaire concernée au sein de la Direction administrative de la magistrature.
 
-<sup>3</sup> Les formulations de l'article 3 de la loi du 8 novembre 1988 sur le Grand Conseil (LGC)[^23-1] sont applicables au serment et à la promesse.
+<sup>3</sup> Les formulations de l'article 3 du règlement du Grand Conseil du 4 juin 2013 (RGC)[^23-1] sont applicables au serment et à la promesse.
 
-[^23-1]: Abrogée par L du 4. 6. 2013 sur le Grand Conseil (LGC); RSB 151.21
+[^23-1]: RSB [151.211](https://www.belex.sites.be.ch/data/151.211/fr)
 
 #### Art. 24
 
@@ -359,6 +401,14 @@ arrête:
 
 <sup>2</sup> Pour des motifs identiques, le Parquet général peut engager une personne susceptible d’exercer la fonction concernée en qualité de procureur ou procureure extraordinaire pour les ministères publics placés sous sa surveillance.
 
+#### Art. 26a
+
+**Entraide dans les tribunaux civils et pénaux de première instance**
+
+<sup>1</sup> Les juges de première instance et les présidents et présidentes des autorités de conciliation sont tenus de prêter main-forte aux tribunaux de première instance et aux autorités de conciliation.
+
+<sup>2</sup> Le directoire de la Cour suprême ordonne l'entraide d'entente avec les autorités judiciaires concernées et après avoir entendu les juges ou les présidents et présidentes des autorités de conciliation concernés.
+
 #### Art. 27
 
 **Incompatibilité à raison de la fonction**
@@ -371,13 +421,15 @@ arrête:
 
 **Incompatibilité à raison de la personne**
 
-<sup>1</sup> Les conjoints, les partenaires enregistrés, les personnes menant de fait une vie de couple et les parents en ligne directe ne peuvent être simultanément juges du même tribunal, ni présidents ou présidentes de la même autorité de conciliation, ni procureurs ou procureures du Parquet général.
+<sup>1</sup> Les conjoints, les partenaires enregistrés, les personnes menant de fait une vie de couple et les parents en ligne directe ne peuvent occuper simultanément des postes placés dans un rapport hiérarchique de subordination directe au sein des autorités judiciaires ou du Ministère public.
+
+<sup>2</sup> Les personnes dont les liens de parenté ou d'alliance sont définis à l'alinéa 1 ne peuvent être simultanément juges du même tribunal, ni présidents ou présidentes de la même autorité de conciliation, ni suppléants ou suppléantes du procureur général ou de la procureure générale.
 
 #### Art. 29
 
-**Eligibilité**
+**Eligibilité et conditions d'engagement**
 
-<sup>1</sup> Sauf dispositions contraires de la présente loi, les juges ainsi que les procureurs et procureures doivent être titulaires du brevet de notaire bernois ou d'un brevet d'avocat.
+<sup>1</sup> Sauf dispositions contraires de la présente loi, les juges, les procureurs et procureures ainsi que les procureurs et procureures des mineurs doivent être titulaires du brevet de notaire bernois ou d'un brevet d'avocat.
 
 <sup>2</sup> Doivent comprendre et parler les deux langues officielles
 
@@ -397,7 +449,7 @@ arrête:
 
 **Activités annexes et charges publiques**
 
-<sup>1</sup> Les juges à titre principal ainsi que les procureurs et procureures doivent être au bénéfice d'une autorisation pour exercer des activités annexes ou des charges publiques.
+<sup>1</sup> Les juges à titre principal, les présidents et présidentes des autorités de conciliation, les procureurs et procureures, les procureurs et procureures des mineurs, les procureurs-assistants et procureures-assistantes ainsi que les procureurs-assistants et procureures-assistantes des mineurs doivent être au bénéfice d'une autorisation pour exercer des activités annexes ou des charges publiques.
 
 <sup>2</sup> L'autorisation est accordée par
 
@@ -405,9 +457,9 @@ arrête:
 - b la Cour suprême ou le Tribunal administratif pour les membres des autorités judiciaires placées sous leur surveillance respective,
 - c le Parquet général pour les membres des ministères publics cantonaux et régionaux.
 
-<sup>3</sup> Les juges ne peuvent exercer aucune activité susceptible de nuire à l'exercice de leur fonction, à l'indépendance de l'autorité judiciaire ou à sa réputation.
+<sup>3</sup> Les juges, les présidents et présidentes des autorités de conciliation, les procureurs et procureures, les procureurs et procureures des mineurs, les procureurs-assistants et procureures-assistantes ainsi que les procureurs-assistants et procureures-assistantes des mineurs ne peuvent exercer aucune activité susceptible de nuire à l'exercice de leur fonction, à l'indépendance de l'autorité judiciaire ou à sa réputation.
 
-<sup>4</sup> Les juges à titre principal ne peuvent représenter professionnellement des tiers devant une autorité judiciaire ou une autorité administrative du canton.
+<sup>4</sup> Les juges à titre principal, les présidents et présidentes des autorités de conciliation, les procureurs et procureures, les procureurs et procureures des mineurs, les procureurs-assistants et procureures-assistantes ainsi que les procureurs-assistants et procureures-assistantes des mineurs ne peuvent représenter professionnellement des tiers devant une autorité judiciaire ou une autorité administrative du canton.
 
 <sup>5</sup> A l'exception des membres de la Commission des recours en matière fiscale, les juges à titre accessoire ne peuvent représenter professionnellement des tiers devant l'autorité judiciaire auprès de laquelle ils exercent leur fonction.
 
@@ -431,13 +483,31 @@ arrête:
 
 <sup>1</sup> Les autorités judiciaires disposent de greffiers et de greffières ainsi que de secrétaires non juristes. Leur nombre est fixé par l’autorité judiciaire concernée dans les limites des ressources disponibles.
 
+<sup>1a</sup> Les autorités judiciaires peuvent au besoin engager des greffiers et greffières à titre accessoire. Le Grand Conseil règle leur indemnisation par voie de décret.
+
 <sup>2</sup> Le Ministère public dispose de secrétaires juristes ainsi que de secrétaires non juristes. Leur nombre est fixé par le ministère public concerné dans les limites des ressources disponibles.
+
+<sup>2a</sup> Le Ministère public des mineurs dispose de secrétaires juristes ainsi que de secrétaires non juristes. Leur nombre est fixé par le procureur ou la procureure des mineurs en chef dans les limites des ressources disponibles.
 
 <sup>3</sup> Les greffiers et greffières ainsi que les secrétaires juristes sont en règle générale titulaires du brevet de notaire bernois ou d’un brevet d’avocat.
 
 <sup>4</sup> Les tâches et les compétences des greffiers et greffières ainsi que des secrétaires juristes sont fixées dans un règlement. Les tâches, les compétences et les responsabilités prévues par la législation spéciale sont réservées.
 
 <sup>5</sup> Pour être composée valablement, l’autorité appelée à statuer doit comporter un rédacteur ou une rédactrice du procès-verbal.
+
+#### Art. 33a
+
+**Procureurs-assistants et procureures-assistantes ainsi que procureurs-assistants et procureures-assistantes des mineurs**
+
+<sup>1</sup> Le Ministère public dispose de procureurs-assistants et de procureures-assistantes. Leur nombre est fixé par le Parquet général dans les limites des ressources disponibles.
+
+<sup>2</sup> Le Ministère public des mineurs dispose de procureurs-assistants et de procureures-assistantes. Leur nombre est fixé par le procureur ou la procureure des mineurs en chef dans les limites des ressources disponibles.
+
+<sup>3</sup> Les procureurs-assistants et les procureures-assistantes au sens des alinéas 1 et 2 doivent être titulaires du brevet de notaire bernois ou d'un brevet d'avocat.
+
+<sup>4</sup> Les tâches et les compétences des procureurs-assistants et procureures-assistantes au sens des alinéas 1 et 2 sont fixées par la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^33a-1].
+
+[^33a-1]: RSB [271.1](https://www.belex.sites.be.ch/data/271.1/fr)
 
 #### Art. 34
 
@@ -492,7 +562,7 @@ arrête:
 - e de nommer les membres de l'autorité de surveillance des avocats et de la commission des examens d'avocat;
 - f de procéder aux autres nominations et désignations, dans la mesure où un règlement ne les attribue pas à un autre organe de la Cour suprême;
 - g de soumettre des propositions au Grand Conseil pour la présidence de la Cour suprême et la création de postes à temps partiel;
-- h d'approuver les objectifs de prestation, le budget, le plan intégré «mission-financement» et le rapport d'activité à l'intention de la Direction de la magistrature;
+- h d'approuver les objectifs de prestation, le budget, le plan intégré mission-financement et le rapport d'activité à l'intention de la Direction administrative de la magistrature;
 - i d'engager le secrétaire général ou la secrétaire générale ainsi que de désigner son suppléant ou sa suppléante;
 - k …
 - l de statuer sur les modifications apportées au cours de la période de fonction au taux d'occupation des juges de la Cour suprême, avec l'accord des titulaires et pour autant que le nombre total de pourcentages de postes n'augmente pas;
@@ -507,10 +577,13 @@ arrête:
 - a du président ou de la présidente de la Cour suprême,
 - b des présidents et présidentes des sections,
 - c du secrétaire général ou de la secrétaire générale,
+- d ...
 
-<sup>2</sup> Il est responsable de l'administration de la Cour suprême et compétent pour toutes les affaires qui ne sont pas attribuées à un autre organe, en particulier pour
+<sup>1a</sup> Le secrétaire général ou la secrétaire générale n'a pas de droit de vote, mais peut formuler des propositions dans son domaine de compétence.
 
-- a adopter les objectifs de prestation, le budget, le plan intégré «mission- financement» et le rapport d'activité à l'intention du plénum ainsi que le rapport de gestion à l'intention de la Direction de la magistrature;
+<sup>2</sup> Le directoire est responsable de l'administration de la Cour suprême et compétent pour toutes les affaires qui ne sont pas attribuées à un autre organe, en particulier pour
+
+- a adopter les objectifs de prestation, le budget, le plan intégré mission-financement et le rapport d'activité à l'intention du plénum ainsi que le rapport de gestion à l'intention de la Direction administrative de la magistrature;
 - b engager l'inspecteur ou l'inspectrice des tribunaux sur proposition du président ou de la présidente de la Cour suprême;
 - c engager les greffiers et greffières et les attribuer aux sections, sur proposition des présidents ou présidentes de ces dernières;
 - d engager le personnel administratif et l'attribuer aux sections, sur proposition des présidents ou présidentes de ces dernières, ou du secrétaire général ou de la secrétaire générale;
@@ -545,7 +618,7 @@ arrête:
 
 <sup>1</sup> Le secrétaire général ou la secrétaire générale est à la tête de l'administration de la Cour suprême et soutient les organes de direction de cette dernière dans l'accomplissement de leurs tâches.
 
-<sup>2</sup> Il ou elle assure le secrétariat de la présidence et du plénum, et dirige le secrétariat général. Les domaines du personnel, des finances et de la comptabilité, les autres services centraux ainsi que l'infrastructure de la Cour suprême relèvent de sa compétence. Les compétences de l'état-major des ressources de la Direction de la magistrature sont réservées.
+<sup>2</sup> Il ou elle assure le secrétariat de la présidence et du plénum, et dirige le secrétariat général. Les domaines du personnel, des finances et de la comptabilité, les autres services centraux ainsi que l'infrastructure de la Cour suprême relèvent de sa compétence. Les compétences de l'état-major des ressources de la Direction administrative de la magistrature sont réservées.
 
 <sup>3</sup> Il ou elle coordonne l'information du public.
 
@@ -663,7 +736,7 @@ arrête:
 - d de désigner les présidents et présidentes neutres du Tribunal arbitral des assurances sociales ainsi que les représentants et représentantes du Tribunal administratif au sein d'autres autorités judiciaires;
 - e de soumettre des propositions au Grand Conseil pour la présidence du Tribunal administratif et la création de postes à temps partiel;
 - f de prendre position à l'intention de la Commission de justice du Grand Conseil au sujet de l'élection et de la réélection des juges;
-- g d'approuver les objectifs de prestation et le rapport d'activité à l'intention de la Direction de la magistrature;
+- g d'approuver les objectifs de prestation et le rapport d'activité à l'intention de la Direction administrative de la magistrature;
 - h d'engager le secrétaire général ou la secrétaire générale ainsi que de désigner son suppléant ou sa suppléante;
 - i de statuer sur les modifications apportées au cours de la période de fonction au taux d'occupation des juges, avec l'accord des titulaires et pour autant que le nombre total de pourcentages de postes n'augmente pas;
 - k d'attribuer les membres extraordinaires du Tribunal administratif aux cours;
@@ -681,7 +754,7 @@ arrête:
 
 <sup>2</sup> Il est responsable de l'administration du Tribunal administratif et compétent pour toutes les affaires qui ne sont pas attribuées à un autre organe, en particulier pour
 
-- a adopter les objectifs de prestation et le rapport d'activité à l'intention du plénum ainsi que le budget, le plan intégré «mission-financement» et le rapport de gestion à l'intention de la Direction de la magistrature;
+- a adopter les objectifs de prestation et le rapport d'activité à l'intention du plénum ainsi que le budget, le plan intégré mission-financement et le rapport de gestion à l'intention de la Direction administrative de la magistrature;
 - b approuver l'organisation des cours sur proposition de ces dernières;
 - c proposer au plénum les candidats et candidates à la présidence des cours, sur proposition de ces dernières;
 - d engager ou désigner le ou la responsable du controlling, sur proposition du président ou de la présidente du Tribunal administratif;
@@ -701,7 +774,7 @@ arrête:
 
 <sup>1</sup> Le secrétaire général ou la secrétaire générale est à la tête de l’administration du Tribunal administratif et soutient les organes de direction de ce dernier dans l’accomplissement de leurs tâches.
 
-<sup>2</sup> Il ou elle assure le secrétariat de la présidence et du plénum, et dirige le secrétariat général. Les domaines du personnel, des finances et de la comptabilité ainsi que de l’infrastructure du Tribunal administratif relèvent de sa compétence. Les compétences de l’état-major des ressources de la Direction de la magistrature sont réservées.
+<sup>2</sup> Il ou elle assure le secrétariat de la présidence et du plénum et dirige le secrétariat général. Les domaines du personnel, des finances et de la comptabilité ainsi que de l’infrastructure du Tribunal administratif relèvent de sa compétence. Les compétences de l’état-major des ressources de la Direction administrative de la magistrature sont réservées.
 
 <sup>3</sup> Il ou elle coordonne l’information du public.
 
@@ -771,7 +844,7 @@ arrête:
 
 <sup>6</sup> Le ou la juge unique peut demander que l'autorité appelée à statuer soit composée en application de l'article 56 lorsque les circonstances de droit ou de fait le justifient.
 
-<sup>7</sup> Lors de litiges portés devant le Tribunal arbitral des assurances sociales, le président ou la présidente neutre approuve les transactions et connaît des requêtes ou actions qui ont été retirées, sont devenues sans objet ou sont manifestement irrecevables. Il ou elle connaît en outre des affaires pour lesquelles les parties concluent de façon concordante à l’admission du recours ou de la demande.
+<sup>7</sup> Lors de litiges portés devant le Tribunal arbitral des assurances sociales, le président ou la présidente neutre approuve les transactions et connaît des requêtes ou actions qui ont été retirées, sont devenues sans objet ou sont manifestement irrecevables. Il ou elle statue en outre sur toutes les affaires pour lesquelles les parties concluent de façon concordante à l’admission du recours ou de la demande.
 
 [^57-1]: RS 272
 [^57-2]: RSB [122.20](https://www.belex.sites.be.ch/data/122.20/fr)
@@ -814,17 +887,15 @@ arrête:
 
 **Autorité appelée à statuer**
 
-<sup>1</sup> Les décisions du Tribunal cantonal des mesures de contrainte sont rendues par un ou une juge unique.
+<sup>1</sup> Les jugements du Tribunal cantonal des mesures de contrainte sont rendus par un ou une juge unique.
 
 #### Art. 62
 
-**Membres suppléants et entraide**
+**Membres suppléants**
 
 <sup>1</sup> La Cour suprême désigne les membres suppléants, en règle générale parmi les présidents et présidentes de tribunal de la région de Berne-Mittelland.
 
-<sup>2</sup> Les membres à titre principal du Tribunal cantonal des mesures de contrainte sont tenus de prêter main-forte au Tribunal régional de Berne-Mittelland en qualité de présidents ou de présidentes de tribunal.
-
-<sup>3</sup> En cas de besoin, le ou la juge en chef et le directoire concernés se mettent d'accord. S'ils ne parviennent pas à s'entendre, le directoire de la Cour suprême tranche.
+<sup>2–3</sup> …
 
 ### 9.2 Tribunal pénal économique
 
@@ -852,13 +923,11 @@ arrête:
 
 #### Art. 66
 
-**Membres suppléants et entraide**
+**Membres suppléants**
 
 <sup>1</sup> La Cour suprême désigne les membres suppléants ordinaires parmi les présidents et présidentes de tribunal ainsi que, dans les cas particuliers qui le requièrent, un membre suppléant extraordinaire en tenant compte de la langue de la procédure.
 
-<sup>2</sup> Les membres à titre principal du Tribunal pénal économique sont tenus de prêter main-forte en premier lieu au Tribunal régional de Berne-Mittelland en qualité de présidents ou de présidentes de tribunal.
-
-<sup>3</sup> En cas de besoin, le ou la juge en chef et le directoire concernés se mettent d'accord. S'ils ne parviennent pas à s'entendre, le directoire de la Cour suprême tranche.
+<sup>2–3</sup> …
 
 ### 9.3 Tribunal des mineurs
 
@@ -874,17 +943,15 @@ arrête:
 
 <sup>4</sup> Le Tribunal des mineurs se trouve au siège du Tribunal régional de Berne-Mittelland, dont il utilise l'infrastructure.
 
-<sup>5</sup> Il siège en règle générale à l'agence régionale du Ministère public des mineurs ou au tribunal régional.
+<sup>5</sup> Il siège en règle générale à l'agence régionale du Ministère public des mineurs ou au tribunal régional compétent à raison du lieu.
 
 #### Art. 68
 
-**Suppléance, entraide**
+**Suppléance**
 
 <sup>1</sup> Les présidents et présidentes du Tribunal des mineurs se suppléent mutuellement.
 
-<sup>2</sup> Ils sont tenus de prêter main-forte aux tribunaux régionaux de Berne-Mittelland et du Jura bernois-Seeland en qualité de présidents ou de présidentes de tribunal.
-
-<sup>3</sup> En cas de besoin, le ou la juge en chef et le directoire concernés se mettent d’accord. S’ils ne parviennent pas à s’entendre, le directoire de la Cour suprême tranche.
+<sup>2–3</sup> …
 
 ### 9.4 Commission des recours en matière fiscale
 
@@ -942,7 +1009,7 @@ arrête:
 
 <sup>3</sup> Le directoire est responsable de l'administration de la Commission des recours en matière fiscale. Il est en particulier compétent pour
 
-- a adopter le budget, le plan intégré «mission-financement», le rapport de gestion et le rapport d'activité à l'intention des organes compétents;
+- a adopter le budget, le plan intégré mission-financement, le rapport de gestion et le rapport d'activité à l'intention des organes compétents;
 - b engager les membres du secrétariat juridique, les experts-comptables et les expertes-comptables ainsi que le personnel de chancellerie;
 - c garantir la disponibilité de prestations scientifiques et administratives suffisantes;
 - d accomplir toutes les autres tâches administratives qui ne relèvent pas du plénum.
@@ -967,9 +1034,11 @@ arrête:
 
 **Autorité appelée à statuer**
 
-<sup>1</sup> La Commission de recours contre les mesures administratives prononcées en vertu de la loi sur la circulation routière statue habituellement dans une composition de trois juges. L’autorité appelée à statuer se compose du président ou de la présidente, ou du vice-président ou de la vice-présidente, qui dirige les débats, et de deux juges spécialisés.
+<sup>1</sup> L’autorité appelée à statuer se compose du président ou de la présidente, ou du vice-président ou de la vice-présidente, qui dirige les débats, et de deux juges spécialisés.
 
-<sup>2</sup> Lors de litiges d’une importance fondamentale, elle fait appel en sus à deux autres juges spécialisés.
+<sup>1a</sup> La Commission de recours contre les mesures administratives prononcées en vertu de la loi sur la circulation routière statue dans une composition de trois juges. Le président ou la présidente, ou le vice-président ou la vice-présidente, statue en qualité de juge unique lorsqu'un recours fait l'objet d'un retrait, devient sans objet, est dirigé contre une décision incidente ou une décision sur recours incidente, ou est irrecevable.
+
+<sup>2</sup> Lors de litiges d’une importance fondamentale, la commission fait appel en sus à deux autres juges spécialisés.
 
 ### 9.6 Commission d'estimation en matière d'expropriation
 
@@ -987,7 +1056,9 @@ arrête:
 
 **Autorité appelée à statuer**
 
-<sup>1</sup> La Commission d’estimation en matière d’expropriation statue dans une composition de trois juges. L’autorité appelée à statuer se compose du président ou de la présidente, ou du vice-président ou de la vice-présidente, qui dirige les débats, et de deux juges spécialisés.
+<sup>1</sup> L’autorité appelée à statuer se compose du président ou de la présidente, ou du vice-président ou de la vice-présidente, qui dirige les débats, et de deux juges spécialisés.
+
+<sup>1a</sup> La Commission d’estimation en matière d’expropriation statue dans une composition de trois juges. Le président ou la présidente, ou le vice-président ou la vice-présidente, statue en qualité de juge unique lorsqu'une requête, une action ou un recours fait l'objet d'un retrait, devient sans objet ou est irrecevable.
 
 <sup>2</sup> La composition de l’autorité appelée à statuer tient compte des intérêts régionaux dans une mesure appropriée.
 
@@ -1007,7 +1078,9 @@ arrête:
 
 **Autorité appelée à statuer**
 
-<sup>1</sup> La Commission des améliorations foncières statue dans une composition de trois juges. L’autorité appelée à statuer se compose du président ou de la présidente, ou du vice-président ou de la vice-présidente, qui dirige les débats, et de deux juges spécialisés.
+<sup>1</sup> L’autorité appelée à statuer se compose du président ou de la présidente, ou du vice-président ou de la vice-présidente, qui dirige les débats, et de deux juges spécialisés.
+
+<sup>1a</sup> La Commission des améliorations foncières statue dans une composition de trois juges. Le président ou la présidente, ou le vice-président ou la vice-présidente, statue en qualité de juge unique lorsqu'une opposition ou un recours fait l'objet d'un retrait, devient sans objet ou est irrecevable.
 
 ## 10 Autorités judiciaires régionales
 
@@ -1038,13 +1111,11 @@ arrête:
 
 <sup>3</sup> Le tribunal régional se compose de présidents ou présidentes de tribunal, de juges spécialisés ainsi que de juges non professionnels.
 
-<sup>4</sup> Ses jugements sont rendus par un ou une juge unique en matière civile, sauf dans les procédures relevant du droit du travail au sens de l'article 9 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^81-1]. Ils sont rendus par un ou une juge unique ou par une autorité collégiale en matière pénale.
+<sup>4</sup> Ses jugements sont rendus par un ou une juge unique en matière civile, sauf dans les procédures relevant du droit du travail au sens de l'article 9 LiCPM. Ils sont rendus par un ou une juge unique ou par une autorité collégiale en matière pénale.
 
 <sup>5</sup> Un président ou une présidente de tribunal dirige l’autorité appelée à statuer.
 
 <sup>6</sup> En matière pénale, le tribunal collégial statue dans une composition de trois ou de cinq juges, à savoir un président ou une présidente de tribunal et deux ou quatre juges non professionnels.
-
-[^81-1]: RSB 271.1
 
 #### Art. 82
 
@@ -1071,7 +1142,7 @@ arrête:
 
 <sup>1</sup> La Cour suprême désigne des juges régionaux des mesures de contrainte ainsi que leurs suppléants et suppléantes parmi les présidents et présidentes de tribunal des régions du Jura bernois-Seeland, de l’Emmental-Haute-Argovie et de l’Oberland.
 
-<sup>2</sup> Les juges régionaux des mesures de contrainte traitent les affaires de détention du ministère public de leur région et rendent les autres décisions qui leur incombent de par la loi.
+<sup>2</sup> Les juges régionaux des mesures de contrainte traitent les affaires qui ont trait aux détentions et aux mesures de substitution du ministère public de leur région et rendent les autres décisions qui leur incombent de par la loi.
 
 <sup>3</sup> S’il n’est possible d’atteindre ni les juges régionaux des mesures de contrainte ni leurs suppléants ou suppléantes, un autre président ou une autre présidente de tribunal de la région judiciaire concernée les remplace.
 
@@ -1109,11 +1180,7 @@ arrête:
 
 #### Art. 87
 
-**Entraide**
-
-<sup>1</sup> Les présidents et présidentes des autorités de conciliation sont tenus de prêter main-forte au tribunal régional en qualité de présidents ou de présidentes de tribunal, en premier lieu dans leur région, ou à une autre autorité régionale de conciliation.
-
-<sup>2</sup> En cas de besoin, le ou la juge en chef et le directoire ou les juges en chef concernés se mettent d’accord. S’ils ne parviennent pas à s’entendre, le directoire de la Cour suprême tranche.
+**…**
 
 #### Art. 88
 
@@ -1139,7 +1206,7 @@ arrête:
 - b de deux procureurs généraux suppléants ou procureures générales suppléantes,
 - c de procureurs ou procureures en chef,
 - d de procureurs ou procureures,
-- e d’un procureur ou d’une procureure des mineurs en chef, qui est simultanément responsable d’une agence régionale,
+- e d’un procureur ou d’une procureure des mineurs en chef,
 - f de procureurs ou procureures des mineurs.
 
 <sup>2</sup> Les deux langues officielles doivent être représentées de manière appropriée.
@@ -1156,7 +1223,7 @@ arrête:
 
 <sup>4</sup> Au surplus, le procureur général ou la procureure générale ainsi que ses suppléants et suppléantes assument les tâches que la loi leur attribue, en particulier devant les organes de la Cour suprême compétents pour connaître des recours et des appels. Ils peuvent déléguer leurs compétences dans un cas déterminé à un autre membre du Ministère public.
 
-<sup>5</sup> Le Parquet général dispose d’un ou d’une responsable des ressources en charge des domaines du personnel, des finances, de la comptabilité et de l’informatique ainsi que des autres services centraux. Les compétences de l’état-major des ressources de la Direction de la magistrature sont réservées.
+<sup>5</sup> Le Parquet général dispose d’un ou d’une responsable des ressources en charge des domaines du personnel, des finances, de la comptabilité et de l’informatique ainsi que des autres services centraux. Les compétences de l’état-major des ressources de la Direction administrative de la magistrature sont réservées.
 
 #### Art. 91
 

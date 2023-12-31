@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft
 short: GSOG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-06-15
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2721/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3063/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2721/pdf_file"
 
 (GSOG)
 
-vom 11.06.2009 (Stand 01.01.2023)
+vom 11.06.2009 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -33,7 +33,7 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt die Organisation und Führung der Gerichtsbehörden und der Staatsanwaltschaft.
+<sup>1</sup> Dieses Gesetz regelt die Organisation und Führung der Gerichtsbehörden und der Staatsanwaltschaft sowie die Zusammenarbeit mit dem Regierungsrat und dem Grossen Rat.
 
 <sup>2</sup> Es schafft die Rahmenbedingungen für eine effiziente Behördenorganisation sowie die zeitgerechte Durchführung der Gerichtsverfahren und der Strafverfolgung.
 
@@ -84,7 +84,13 @@ beschliesst:
 
 <sup>2</sup> Die Staatsanwaltschaft nimmt die ihr gemäss Gesetz zugewiesenen Aufgaben im Bereich der Strafverfolgung wahr.
 
-## 2 Grundsätze der Organisation und Führung
+#### Art. 3a
+
+**Justizverwaltungsleitung**
+
+<sup>1</sup> Die Justizverwaltungsleitung ist das gemeinsame Organ von Obergericht, Verwaltungsgericht und Generalstaatsanwaltschaft für die Selbstverwaltung der Justiz.
+
+## 2 Grundsätze der Organisation, Führung und Zusammenarbeit
 
 #### Art. 4
 
@@ -108,7 +114,40 @@ beschliesst:
 
 <sup>1</sup> Für die Bereitstellung, die Bewirtschaftung und den Unterhalt der von den Gerichtsbehörden und der Staatsanwaltschaft benötigten Grundstücke und Gebäude sowie Informatik- und Kommunikationssysteme sind die zuständigen Direktionen der kantonalen Verwaltung verantwortlich.
 
-<sup>2</sup> Die Justizleitung meldet den Bedarf der Gerichtsbehörden und der Staatsanwaltschaft frühzeitig bei der zuständigen Direktion an. Diese trägt deren Bedürfnisse unter Berücksichtigung der anwendbaren kantonalen Vorgaben angemessen Rechnung.
+<sup>2</sup> Die Justizverwaltungsleitung meldet den Bedarf der Gerichtsbehörden und der Staatsanwaltschaft frühzeitig bei der zuständigen Direktion an. Diese trägt deren Bedürfnisse unter Berücksichtigung der anwendbaren kantonalen Vorgaben angemessen Rechnung.
+
+#### Art. 6a
+
+**Antrags- und Vertretungsrecht der Justizverwaltungsleitung**
+
+<sup>1</sup> Bei folgenden Geschäften in ihrem Aufgabenbereich hat die Justizverwaltungsleitung das Recht, dem Grossen Rat Anträge zu stellen:
+
+- a Budget sowie Aufgaben- und Finanzplan gemäss Artikel 11,
+- b Geschäftsbericht und Tätigkeitsbericht,
+- c Kredite,
+- d parlamentarische Vorstösse.
+
+<sup>2</sup> Sie vertritt diese Geschäfte im Grossen Rat und bezeichnet eine Vertreterin oder einen Vertreter zur Wahrnehmung des Vertretungs- und Äusserungsrechts.
+
+#### Art. 6b
+
+**Mitwirkung des Regierungsrates bei Geschäften der Justizverwaltungsleitung**
+
+<sup>1</sup> Die Justizverwaltungsleitung übermittelt ihre Geschäfte gemäss Artikel 6a dem Regierungsrat zuhanden des Grossen Rates, soweit das Gesetz nichts anderes bestimmt.
+
+<sup>2</sup> Der Regierungsrat leitet die Geschäfte der Justizverwaltungsleitung unverändert an den Grossen Rat weiter. Er kann zu den Geschäften Stellung nehmen und eigene Anträge stellen.
+
+#### Art. 6c
+
+**Information**
+
+<sup>1</sup> Der Regierungsrat oder die in der Sache zuständige Direktion informiert die Justizverwaltungsleitung vorgängig über Geschäfte, welche die Gerichtsbehörden und die Staatsanwaltschaft betreffen. Bei der Beschlussfassung werden die Anliegen der Justiz nach Möglichkeit berücksichtigt.
+
+#### Art. 6d
+
+**Zusammenarbeit zwischen Grossem Rat, Regierungsrat und Justizverwaltungsleitung**
+
+<sup>1</sup> Der Grosse Rat, der Regierungsrat und die Justizverwaltungsleitung verständigen sich über ihre Zusammenarbeit.
 
 #### Art. 7
 
@@ -142,9 +181,9 @@ beschliesst:
 
 #### Art. 11
 
-**Voranschlag, Aufgaben- und Finanzplan**
+**Budget, Aufgaben- und Finanzplan**
 
-<sup>1</sup> Der Voranschlag und der Aufgaben- und Finanzplan gliedern sich in die folgenden Produktgruppen:
+<sup>1</sup> Das Budget und der Aufgaben- und Finanzplan gliedern sich in die folgenden Produktgruppen:
 
 - a Zivil- und Strafgerichtsbarkeit,
 - b Verwaltungsgerichtsbarkeit,
@@ -154,9 +193,9 @@ beschliesst:
 
 <sup>3</sup> Für die drei Produktgruppen wird gesamthaft eine Besondere Rechnung geführt.
 
-<sup>4</sup> Der Voranschlag sowie der Aufgaben- und Finanzplan sind vor der Weiterleitung an den Regierungsrat der Justizkommission des Grossen Rates zur Kenntnis zu bringen.
+<sup>4</sup> Das Budget sowie der Aufgaben- und Finanzplan sind vor der Weiterleitung an den Regierungsrat der Justizkommission des Grossen Rates zur Kenntnis zu bringen.
 
-<sup>5</sup> Der Regierungsrat übernimmt den durch die Justizleitung erarbeiteten Voranschlag und den Aufgaben- und Finanzplan unverändert in den Voranschlag und in den Aufgaben- und Finanzplan des Kantons und nimmt dazu Stellung.
+<sup>5</sup> Der Regierungsrat übernimmt das durch die Justizverwaltungsleitung erarbeitete Budget und den Aufgaben- und Finanzplan unverändert in das Budget und in den Aufgaben- und Finanzplan des Kantons und nimmt dazu Stellung.
 
 #### Art. 12
 
@@ -179,7 +218,7 @@ beschliesst:
 
 **Aufsicht und Oberaufsicht**
 
-<sup>1</sup> Das Obergericht, das Verwaltungsgericht, die Generalstaatsanwaltschaft und die Justizleitung stehen unter der Oberaufsicht des Grossen Rates.
+<sup>1</sup> Das Obergericht, das Verwaltungsgericht, die Generalstaatsanwaltschaft und die Justizverwaltungsleitung stehen unter der Oberaufsicht des Grossen Rates.
 
 <sup>2</sup> Die Zwangsmassnahmengerichte, das Wirtschaftsstrafgericht, das Jugendgericht, die Regionalgerichte und die regionalen Schlichtungsbehörden stehen unter der Aufsicht des Obergerichts.
 
@@ -205,32 +244,37 @@ beschliesst:
 
 <sup>1</sup> Der Grosse Rat legt die Gerichts- und die Verfahrenssprache der Gerichtsbehörden und der Staatsanwaltschaft durch Dekret fest.
 
-## 6 Justizleitung
+## 6 Justizverwaltungsleitung
 
 #### Art. 17
 
 **Zusammensetzung und Organisation**
 
-<sup>1</sup> Die Justizleitung ist das gemeinsame Organ von Obergericht, Verwaltungsgericht und Generalstaatsanwaltschaft.
+<sup>1</sup> …
 
-<sup>2</sup> Sie setzt sich zusammen aus den Präsidentinnen oder Präsidenten des Obergerichts und des Verwaltungsgerichts sowie der Generalstaatsanwältin oder dem Generalstaatsanwalt.
+<sup>2</sup> Die Justizverwaltungsleitung setzt sich zusammen aus den Präsidentinnen oder Präsidenten des Obergerichts und des Verwaltungsgerichts sowie der Generalstaatsanwältin oder dem Generalstaatsanwalt.
+
+<sup>2a</sup> Die Justizverwaltungsleitung fasst ihre Beschlüsse einstimmig.
 
 <sup>3</sup> Sie regelt ihre Organisation und das Verfahren der Entscheidfällung durch Reglement.
 
-<sup>4</sup> Bei Sitzungen der ständigen Kommissionen des Grossen Rates kann sich die Vertretung der Justizleitung durch Sachverständige begleiten lassen.
+<sup>4</sup> Bei Sitzungen der ständigen Kommissionen des Grossen Rates kann sich die Vertretung der Justizverwaltungsleitung durch Sachverständige begleiten lassen.
 
 #### Art. 18
 
-**Aufgaben und Ausgabenbefugnisse**
+**Aufgaben**
 
-<sup>1</sup> Die Justizleitung nimmt die folgenden Aufgaben wahr:
+<sup>1</sup> Für die Selbstverwaltung der Justiz nimmt die Justizverwaltungsleitung die folgenden Aufgaben wahr:
 
 - a Sie ist Ansprechpartnerin des Grossen Rates und des Regierungsrates bei allen Fragen, die sowohl die Gerichtsbehörden als auch die Staatsanwaltschaft betreffen.
-- b Sie erstellt den Voranschlag, den Aufgaben- und Finanzplan und den Geschäftsbericht der Gerichtsbehörden und der Staatsanwaltschaft.
+- a1 Das Obergericht, das Verwaltungsgericht und die Generalstaatsanwaltschaft geben zu Fragen, welche die Justiz betreffen, eigene Vernehmlassungen ab. Diese Vernehmlassungen können ergänzt werden durch eine Vernehmlassung der Justizverwaltungsleitung.
+- b Sie verabschiedet das Budget, den Aufgaben- und Finanzplan sowie den Geschäftsbericht der Gerichtsbehörden und der Staatsanwaltschaft zuhanden des Grossen Rates.
+- b1 Sie verabschiedet Kreditanträge zuhanden des Grossen Rates, nachdem sie einen Bericht der Finanzdirektion eingeholt hat.
+- b2 Sie verabschiedet Antworten auf Finanzmotionen, Interpellationen und Anfragen zuhanden des Grossen Rates.
 - c Sie nimmt Stellung zu Regelungen des Regierungsrates, welche die Gerichtsbehörden oder die Staatsanwaltschaft betreffen.
-- d Sie regelt die Ausgabenbefugnisse der Gerichtsbehörden und der Staatsanwaltschaft im Rahmen der Vorschriften der Finanzhaushaltsgesetzgebung.
-- e Sie unterbreitet dem Grossen Rat jährlich einen Tätigkeitsbericht.
-- f Sie vertritt im Grossen Rat den Voranschlag, den Aufgaben- und Finanzplan, den Geschäftsbericht und den Tätigkeitsbericht und bezeichnet zu diesem Zweck eine Vertreterin oder einen Vertreter.
+- d Sie regelt die Ausgabenbefugnisse der Gerichtsbehörden und der Staatsanwaltschaft im Rahmen der Vorschriften der Kantonsverfassung (KV)[^18-1] und der Finanzhaushaltsgesetzgebung.
+- e Sie unterbreitet direkt dem Grossen Rat jährlich einen Tätigkeitsbericht.
+- f …
 - g Sie nimmt die Verwaltungsaufgaben, welche die Finanzhaushaltsgesetzgebung dem Regierungsrat für den Bereich der kantonalen Verwaltung einräumt, für die Bereiche der Gerichtsbarkeit und der Staatsanwaltschaft wahr, soweit dieses Gesetz nichts anderes bestimmt.
 - h Sie kann mit Zustimmung der Justizkommission des Grossen Rates nachkreditpflichtige Abweichungen der im Voranschlag beschlossenen Saldi bewilligen,
   - 1\. wenn diese eine Million Franken pro Produktgruppe nicht übersteigen,
@@ -240,19 +284,17 @@ beschliesst:
 - l Sie koordiniert in Zusammenarbeit mit den zuständigen Stellen der Sicherheitsdirektion und der Bau- und Verkehrsdirektion den Erlass von strategischen Leitlinien auf dem Gebiet der Sicherheit.
 - m Sie leitet die Stabsstelle für Ressourcen, regelt deren Organisation und Aufgaben durch Reglement und stellt deren Leitung sowie deren übriges Personal an.
 
-<sup>2</sup> Die Justizleitung beschliesst über
+<sup>2</sup> …
 
-- a neue einmalige Ausgaben bis eine Million Franken,
-- b neue wiederkehrende Ausgaben bis 200 000 Franken,
-- c gebundene Ausgaben.
+[^18-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
 
 #### Art. 19
 
 **Stabsstelle für Ressourcen**
 
-<sup>1</sup> Die Justizleitung verfügt über eine Stabsstelle für Ressourcen, welche die Personaladministration, das Finanz- und Rechnungswesen sowie das Informatikwesen für die Gerichtsbehörden und die Staatsanwaltschaft in Zusammenarbeit mit deren Ressourcenverantwortlichen besorgt.
+<sup>1</sup> Die Justizverwaltungsleitung verfügt über eine Stabsstelle für Ressourcen, welche die Personaladministration, das Finanz- und Rechnungswesen sowie das Informatikwesen für die Gerichtsbehörden und die Staatsanwaltschaft in Zusammenarbeit mit deren Ressourcenverantwortlichen besorgt.
 
-<sup>2</sup> Die Leiterin oder der Leiter der Stabsstelle für Ressourcen nimmt mit beratender Stimme an den Sitzungen der Justizleitung teil.
+<sup>2</sup> Die Leiterin oder der Leiter der Stabsstelle für Ressourcen nimmt mit beratender Stimme an den Sitzungen der Justizverwaltungsleitung teil.
 
 <sup>3</sup> Die Stabsstelle arbeitet eng mit den Ressourcenverantwortlichen der Gerichtsbehörden und der Staatsanwaltschaft zusammen und kann diesen personal- und finanztechnische Weisungen erteilen.
 
@@ -325,11 +367,11 @@ beschliesst:
 
 <sup>1</sup> Alle vom Grossen Rat gewählten Mitglieder der Gerichtsbehörden und der Generalstaatsanwaltschaft legen vor ihrem Amtsantritt den Eid oder das Gelübde ab. Eine erneute Vereidigung ist nicht erforderlich bei der Wiederwahl direkt im Anschluss an die abgelaufene Amtsdauer.
 
-<sup>2</sup> Mit Ausnahme der Ersatzrichterinnen und Ersatzrichter werden die Richterinnen und Richter der obersten Gerichte und die Mitglieder der Generalstaatsanwaltschaft durch den Grossen Rat vereidigt. Die übrigen Richterinnen und Richter werden durch die Justizleitung vereidigt.
+<sup>2</sup> Mit Ausnahme der Ersatzrichterinnen und Ersatzrichter werden die Richterinnen und Richter der obersten Gerichte und die Mitglieder der Generalstaatsanwaltschaft durch den Grossen Rat vereidigt. Die übrigen Richterinnen und Richter werden durch die Vertretung der jeweiligen Gerichtsbarkeit innerhalb der Justizverwaltungsleitung vereidigt.
 
-<sup>3</sup> Für den Eid oder das Gelübde sind die Formeln nach Artikel 3 des Gesetzes vom 8. November 1988 über den Grossen Rat (GRG)[^23-1] anwendbar.
+<sup>3</sup> Für den Eid oder das Gelübde sind die Formeln nach Artikel 3 der Geschäftsordnung des Grossen Rates vom 4. Juni 2013 (GO)[^23-1] anwendbar.
 
-[^23-1]: Aufgehoben durch G vom 4. 6. 2013 über den Grossen Rat, BSG 151.21
+[^23-1]: BSG [151.211](https://www.belex.sites.be.ch/data/151.211/de)
 
 #### Art. 24
 
@@ -359,6 +401,14 @@ beschliesst:
 
 <sup>2</sup> Aus denselben Gründen kann die Generalstaatsanwaltschaft für die unter ihrer Aufsicht stehenden Staatsanwaltschaften eine in das jeweilige Amt ernennbare Person als ausserordentliche Staatsanwältin oder ausserordentlichen Staatsanwalt einsetzen.
 
+#### Art. 26a
+
+**Aushilfe an den erstinstanzlichen Zivil- und Strafgerichten**
+
+<sup>1</sup> Erstinstanzliche Richterinnen und Richter sowie Vorsitzende der Schlichtungsbehörden sind zur Aushilfe an den erstinstanzlichen Gerichten und an den Schlichtungsbehörden verpflichtet.
+
+<sup>2</sup> Die Geschäftsleitung des Obergerichts entscheidet über die Aushilfe in Absprache mit den betroffenen Gerichtsbehörden und nach Anhörung der betroffenen Richterinnen und Richter bzw. der betroffenen Vorsitzenden der Schlichtungsbehörden.
+
 #### Art. 27
 
 **Unvereinbarkeit in der Funktion**
@@ -371,13 +421,15 @@ beschliesst:
 
 **Unvereinbarkeit in der Person**
 
-<sup>1</sup> Ehegatten, eingetragene Partnerinnen oder Partner, Personen in faktischer Lebensgemeinschaft sowie Verwandte in gerader Linie dürfen nicht gleichzeitig als Richterinnen und Richter, Vorsitzende oder Staatsanwältinnen und Staatsanwälte demselben Gericht, derselben Schlichtungsbehörde oder der Generalstaatsanwaltschaft angehören.
+<sup>1</sup> Ehegatten, eingetragene Partnerinnen und Partner, Personen in faktischer Lebensgemeinschaft sowie Verwandte in gerader Linie dürfen nicht gleichzeitig Stellen bei Gerichtsbehörden oder bei der Staatsanwaltschaft bekleiden, die zueinander im Verhältnis der unmittelbaren Über- und Unterordnung stehen.
+
+<sup>2</sup> Die in Absatz 1 genannten Personen dürfen nicht gleichzeitig als Richterinnen und Richter demselben Gericht oder als Vorsitzende derselben Schlichtungsbehörde angehören. Sie dürfen auch nicht gleichzeitig als stellvertretende Generalstaatsanwältinnen und stellvertretende Generalstaatsanwälte tätig sein.
 
 #### Art. 29
 
-**Wählbarkeit**
+**Wählbarkeit und Anstellungsvoraussetzungen**
 
-<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, müssen die Richterinnen und Richter sowie Staatsanwältinnen und Staatsanwälte über ein Anwaltspatent oder das bernische Notariatspatent verfügen.
+<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, müssen Richterinnen und Richter, Staatsanwältinnen und Staatsanwälte sowie Jugendanwältinnen und Jugendanwälte über ein Anwaltspatent oder das bernische Notariatspatent verfügen.
 
 <sup>2</sup> Beide Amtssprachen verstehen und sprechen müssen
 
@@ -397,7 +449,7 @@ beschliesst:
 
 **Nebenbeschäftigungen und öffentliche Ämter**
 
-<sup>1</sup> Die hauptamtlichen Richterinnen und Richter sowie die Staatsanwältinnen und Staatsanwälte bedürfen einer Bewilligung für die Ausübung von Nebenbeschäftigungen und öffentlichen Ämtern.
+<sup>1</sup> Hauptamtliche Richterinnen und Richter, Vorsitzende der Schlichtungsbehörden, Staatsanwältinnen und Staatsanwälte, Jugendanwältinnen und Jugendanwälte, Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie Assistenzjugendanwältinnen und Assistenzjugendanwälte bedürfen einer Bewilligung für die Ausübung von Nebenbeschäftigungen und öffentlichen Ämtern.
 
 <sup>2</sup> Die Bewilligung erteilt
 
@@ -405,9 +457,9 @@ beschliesst:
 - b das Obergericht und das Verwaltungsgericht je für die Mitglieder der von ihnen beaufsichtigten Gerichtsbehörden,
 - c die Generalstaatsanwaltschaft für die Mitglieder der kantonalen und der regionalen Staatsanwaltschaften.
 
-<sup>3</sup> Richterinnen und Richter dürfen keine Tätigkeit ausüben, welche die Erfüllung der Amtspflichten, die Unabhängigkeit oder das Ansehen der Gerichtsbehörde beeinträchtigt.
+<sup>3</sup> Richterinnen und Richter, Vorsitzende der Schlichtungsbehörden, Staatsanwältinnen und Staatsanwälte, Jugendanwältinnen und Jugendanwälte, Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie Assistenzjugendanwältinnen und Assistenzjugendanwälte dürfen keine Tätigkeit ausüben, welche die Erfüllung der Amtspflichten, die Unabhängigkeit oder das Ansehen der Gerichtsbehörde beeinträchtigt.
 
-<sup>4</sup> Hauptamtliche Richterinnen und Richter dürfen Dritte nicht berufsmässig vor einer Gerichts- oder Verwaltungsbehörde des Kantons vertreten.
+<sup>4</sup> Hauptamtliche Richterinnen und Richter, Vorsitzende der Schlichtungsbehörden, Staatsanwältinnen und Staatsanwälte, Jugendanwältinnen und Jugendanwälte, Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie Assistenzjugendanwältinnen und Assistenzjugendanwälte dürfen Dritte nicht berufsmässig vor einer Gerichts- oder Verwaltungsbehörde des Kantons vertreten.
 
 <sup>5</sup> Mit Ausnahme der Mitglieder der Steuerrekurskommission dürfen nebenamtliche Richterinnen und Richter vor der Gerichtsbehörde, an der sie tätig sind, nicht berufsmässig Dritte vertreten.
 
@@ -431,13 +483,31 @@ beschliesst:
 
 <sup>1</sup> Die Gerichtsbehörden verfügen über Gerichtsschreiberinnen und Gerichtsschreiber sowie nichtjuristische Sekretärinnen und Sekretäre. Deren Anzahl wird von der jeweiligen Gerichtsbehörde im Rahmen der zur Verfügung stehenden Mittel festgesetzt.
 
-<sup>2</sup> Die Staatsanwaltschaft verfügt über juristische und nichtjuristische Sekretärinnen und Sekretäre. Deren Anzahl wird von der jeweiligen Staatsanwaltschaft im Rahmen der ihr zur Verfügung stehenden Mittel festgesetzt.
+<sup>1a</sup> Die Gerichtsbehörden können bei Bedarf nebenamtliche Gerichtsschreiberinnen und Gerichtsschreiber einsetzen. Der Grosse Rat regelt deren Entschädigung durch Dekret.
+
+<sup>2</sup> Die Staatsanwaltschaft verfügt über juristische und nichtjuristische Sekretärinnen und Sekretäre. Deren Anzahl wird von der jeweiligen Staatsanwaltschaft im Rahmen der zur Verfügung stehenden Mittel festgesetzt.
+
+<sup>2a</sup> Die Jugendanwaltschaft verfügt über juristische und nichtjuristische Sekretärinnen und Sekretäre. Deren Anzahl wird von der leitenden Jugendanwältin oder vom leitenden Jugendanwalt im Rahmen der zur Verfügung stehenden Mittel festgesetzt.
 
 <sup>3</sup> Die Gerichtsschreiberinnen und Gerichtsschreiber sowie die juristischen Sekretärinnen und Sekretäre verfügen in der Regel über ein Anwaltspatent oder das bernische Notariatspatent.
 
 <sup>4</sup> Die Aufgaben und Kompetenzen der Gerichtsschreiberinnen und Gerichtsschreiber sowie der juristischen Sekretärinnen und Sekretäre werden durch Reglement geregelt. Vorbehalten bleiben spezialgesetzlich geregelte Aufgaben, Kompetenzen und Verantwortlichkeiten.
 
 <sup>5</sup> Zur rechtsgültigen Besetzung des Spruchkörpers gehört eine Protokollführerin oder ein Protokollführer.
+
+#### Art. 33a
+
+**Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie Assistenzjugendanwältinnen und Assistenzjugendanwälte**
+
+<sup>1</sup> Die Staatsanwaltschaft verfügt über Assistenzstaatsanwältinnen und Assistenzstaatsanwälte. Deren Anzahl wird von der Generalstaatsanwaltschaft im Rahmen der zur Verfügung stehenden Mittel festgesetzt.
+
+<sup>2</sup> Die Jugendanwaltschaft verfügt über Assistenzjugendanwältinnen und Assistenzjugendanwälte. Deren Anzahl wird von der leitenden Jugendanwältin oder vom leitenden Jugendanwalt im Rahmen der zur Verfügung stehenden Mittel festgesetzt.
+
+<sup>3</sup> Die Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie die Assistenzjugendanwältinnen und Assistenzjugendanwälte müssen über ein Anwaltspatent oder das bernische Notariatspatent verfügen.
+
+<sup>4</sup> Die Aufgaben und Kompetenzen der Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie der Assistenzjugendanwältinnen und Assistenzjugendanwälte werden durch das Einführungsgesetz vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordung (EG ZSJ)[^33a-1] geregelt.
+
+[^33a-1]: BSG 271.1
 
 #### Art. 34
 
@@ -492,7 +562,7 @@ beschliesst:
 - e die Wahl der Mitglieder der Anwaltsaufsichtsbehörde und der Anwaltsprüfungskommission,
 - f die weiteren Wahlen, soweit diese nicht durch Reglement einem anderen Organ des Obergerichts zugewiesen sind,
 - g die Vorschläge zuhanden des Grossen Rates betreffend die Wahl der Präsidentin oder des Präsidenten des Obergerichts sowie die Errichtung von Teilzeitstellen,
-- h die Genehmigung der Leistungsziele, des Voranschlags, des Aufgaben- und Finanzplanes sowie des Tätigkeitsberichts zuhanden der Justizleitung,
+- h die Genehmigung der Leistungsziele, des Budgets, des Aufgaben- und Finanzplanes sowie des Tätigkeitsberichts zuhanden der Justizverwaltungsleitung,
 - i die Anstellung der Generalsekretärin oder des Generalsekretärs und die Bezeichnung der Stellvertreterin oder des Stellvertreters,
 - k …
 - l den Entscheid über Veränderungen des Beschäftigungsgrads von Oberrichterinnen und Oberrichtern während der Amtsdauer mit dem Einverständnis der Stelleninhaberinnen und Stelleninhaber, wenn die Summe der Stellenprozente dadurch nicht erhöht wird,
@@ -507,10 +577,13 @@ beschliesst:
 - a der Präsidentin oder dem Präsidenten des Obergerichts,
 - b den Abteilungspräsidentinnen und Abteilungspräsidenten,
 - c der Generalsekretärin oder dem Generalsekretär,
+- d ...
 
-<sup>2</sup> Sie ist verantwortlich für die Gerichtsverwaltung und zuständig für alle Angelegenheiten, die nicht einem anderen Organ zugewiesen sind, insbesondere für
+<sup>1a</sup> Die Generalsekretärin oder der Generalsekretär hat kein Stimmrecht. Sie oder er kann im eigenen Aufgabenbereich Anträge stellen.
 
-- a die Verabschiedung der Leistungsziele, des Voranschlags, des Aufgaben- und Finanzplans sowie des Tätigkeitsberichts zuhanden des Plenums sowie die Verabschiedung des Geschäftsberichts zuhanden der Justizleitung,
+<sup>2</sup> Die Geschäftsleitung ist verantwortlich für die Gerichtsverwaltung und zuständig für alle Angelegenheiten, die nicht einem anderen Organ zugewiesen sind, insbesondere für
+
+- a die Verabschiedung der Leistungsziele, des Budgets, des Aufgaben- und Finanzplans sowie des Tätigkeitsberichts zuhanden des Plenums sowie die Verabschiedung des Geschäftsberichts zuhanden der Justizverwaltungsleitung,
 - b die Anstellung der Gerichtsinspektorin oder des Gerichtsinspektors auf Antrag der Präsidentin oder des Präsidenten des Obergerichts,
 - c die Anstellung der Gerichtsschreiberinnen und Gerichtsschreiber und deren Zuteilung an die Abteilungen auf Antrag der Abteilungspräsidentinnen und Abteilungspräsidenten,
 - d die Anstellung des administrativen Personals und dessen Zuteilung auf Antrag des betreffenden Abteilungspräsidiums oder der Generalsekretärin oder des Generalsekretärs,
@@ -545,7 +618,7 @@ beschliesst:
 
 <sup>1</sup> Die Generalsekretärin oder der Generalsekretär steht der Gerichtsverwaltung vor und unterstützt die Organe der Gerichtsleitung bei der Wahrnehmung ihrer Aufgaben.
 
-<sup>2</sup> Sie oder er führt das Sekretariat des Präsidiums und des Plenums und leitet das Generalsekretariat. Sie oder er ist zuständig für das Personal-, Finanz- und Rechnungswesen, die übrigen zentralen Dienste und die Infrastruktur des Obergerichts, vorbehältlich der Zuständigkeiten der Stabsstelle für Ressourcen der Justizleitung.
+<sup>2</sup> Sie oder er führt das Sekretariat des Präsidiums und des Plenums und leitet das Generalsekretariat. Sie oder er ist zuständig für das Personal-, Finanz- und Rechnungswesen, die übrigen zentralen Dienste und die Infrastruktur des Obergerichts, vorbehältlich der Zuständigkeiten der Stabsstelle für Ressourcen der Justizverwaltungsleitung.
 
 <sup>3</sup> Sie oder er koordiniert die Information der Öffentlichkeit.
 
@@ -663,7 +736,7 @@ beschliesst:
 - d die Bezeichnung der neutralen Vorsitzenden des Schiedsgerichts in Sozialversicherungsstreitigkeiten und der Vertretung des Verwaltungsgerichts in weiteren richterlichen Behörden,
 - e die Vorschläge an den Grossen Rat betreffend die Wahl der Präsidentin oder des Präsidenten des Verwaltungsgerichts sowie die Errichtung von Teilzeitstellen,
 - f die Stellungnahmen an die Justizkommission des Grossen Rates zur Wahl und Wiederwahl der Richterinnen und Richter,
-- g die Genehmigung der Leistungsziele und des Tätigkeitsberichts zuhanden der Justizleitung,
+- g die Genehmigung der Leistungsziele und des Tätigkeitsberichts zuhanden der Justizverwaltungsleitung,
 - h die Anstellung der Generalsekretärin oder des Generalsekretärs und die Bezeichnung der Stellvertreterin oder des Stellvertreters,
 - i den Entscheid über Veränderungen des Beschäftigungsgrads von Richterinnen und Richtern während der Amtsdauer mit ihrem Einverständnis, wenn die Summe der Stellenprozente dadurch nicht erhöht wird,
 - k die Zuteilung der ausserordentlichen Mitglieder des Verwaltungsgerichts an die Abteilungen,
@@ -681,7 +754,7 @@ beschliesst:
 
 <sup>2</sup> Sie ist verantwortlich für die Gerichtsverwaltung und zuständig für alle Angelegenheiten, die nicht einem anderen Organ zugewiesen sind, insbesondere für
 
-- a die Verabschiedung der Leistungsziele und des Tätigkeitsberichts zuhanden des Plenums sowie die Verabschiedung des Voranschlags, des Aufgaben- und Finanzplans und des Geschäftsberichts zuhanden der Justizleitung,
+- a die Verabschiedung der Leistungsziele und des Tätigkeitsberichts zuhanden des Plenums sowie die Verabschiedung des Budgets, des Aufgaben- und Finanzplans und des Geschäftsberichts zuhanden der Justizverwaltungsleitung,
 - b die Genehmigung der Organisation der Abteilungen auf deren Antrag,
 - c die Antragstellung an das Plenum auf Wahl der Abteilungspräsidentinnen und der Abteilungspräsidenten auf Antrag der Abteilungen,
 - d die Anstellung oder Bezeichnung der Leiterin oder des Leiters Controlling auf Antrag der Präsidentin oder des Präsidenten des Verwaltungsgerichts,
@@ -701,7 +774,7 @@ beschliesst:
 
 <sup>1</sup> Die Generalsekretärin oder der Generalsekretär steht der Gerichtsverwaltung vor und unterstützt die Organe der Gerichtsleitung bei der Wahrnehmung ihrer Aufgaben.
 
-<sup>2</sup> Sie oder er führt das Sekretariat des Präsidiums sowie des Plenums und leitet das Generalsekretariat. Sie oder er ist zuständig für das Personal-, Finanz- und Rechnungswesen sowie die Infrastruktur des Verwaltungsgerichts vorbehältlich der Zuständigkeiten der Stabsstelle für Ressourcen der Justizleitung.
+<sup>2</sup> Sie oder er führt das Sekretariat des Präsidiums sowie des Plenums und leitet das Generalsekretariat. Sie oder er ist zuständig für das Personal-, Finanz- und Rechnungswesen sowie die Infrastruktur des Verwaltungsgerichts vorbehältlich der Zuständigkeiten der Stabsstelle für Ressourcen der Justizverwaltungsleitung.
 
 <sup>3</sup> Sie oder er koordiniert die Information der Öffentlichkeit.
 
@@ -771,7 +844,7 @@ beschliesst:
 
 <sup>6</sup> Die Einzelrichterin oder der Einzelrichter kann eine Besetzung nach Artikel 56 verlangen, wenn die rechtlichen oder tatbeständlichen Verhältnisse es rechtfertigen.
 
-<sup>7</sup> In Streitigkeiten vor dem Schiedsgericht in Sozialversicherungsstreitigkeiten genehmigt die oder der neutrale Vorsitzende Vergleiche und behandelt Gesuche und Klagen, die zurückgezogen oder gegenstandslos geworden sind oder auf die offensichtlich nicht eingetreten werden kann. Sie oder er behandelt ferner all jene Geschäfte, bei denen die Parteien übereinstimmend Gutheissung beantragen.
+<sup>7</sup> In Streitigkeiten vor dem Schiedsgericht in Sozialversicherungsstreitigkeiten genehmigt die oder der neutrale Vorsitzende Vergleiche und behandelt Gesuche und Klagen, die zurückgezogen oder gegenstandslos geworden sind oder auf die offensichtlich nicht eingetreten werden kann. Sie oder er behandelt ferner die Geschäfte, bei denen die Parteien übereinstimmend Gutheissung beantragen.
 
 [^57-1]: SR 272
 [^57-2]: BSG [122.20](https://www.belex.sites.be.ch/data/122.20/de)
@@ -818,13 +891,11 @@ beschliesst:
 
 #### Art. 62
 
-**Ersatzmitglieder und Aushilfe**
+**Ersatzmitglieder**
 
 <sup>1</sup> Das Obergericht bezeichnet die Ersatzmitglieder; diese sind in der Regel Gerichtspräsidentinnen und Gerichtspräsidenten der Region Bern-Mittelland.
 
-<sup>2</sup> Die hauptamtlichen Mitglieder des kantonalen Zwangsmassnahmengerichts sind zur Aushilfe als Gerichtspräsidentinnen und Gerichtspräsidenten des Regionalgerichts Bern-Mittelland verpflichtet.
-
-<sup>3</sup> Im Bedarfsfall verständigen sich die betroffenen Geschäftsleitungen. Kommen sie zu keiner Einigung, entscheidet die Geschäftsleitung des Obergerichts.
+<sup>2–3</sup> …
 
 ### 9.2 Wirtschaftsstrafgericht
 
@@ -852,13 +923,11 @@ beschliesst:
 
 #### Art. 66
 
-**Ersatzmitglieder und Aushilfe**
+**Ersatzmitglieder**
 
 <sup>1</sup> Das Obergericht bezeichnet aus den Reihen der Gerichtspräsidentinnen und Gerichtspräsidenten die ordentlichen Ersatzmitglieder und bestimmt bei Bedarf und unter Berücksichtigung der Verfahrenssprache im Einzelfall ein ausserordentliches Ersatzmitglied.
 
-<sup>2</sup> Die hauptamtlichen Mitglieder des Wirtschaftsstrafgerichts sind zur Aushilfe als Gerichtspräsidentinnen und Gerichtspräsidenten in erster Linie des Regionalgerichts Bern-Mittelland verpflichtet.
-
-<sup>3</sup> Im Bedarfsfall verständigen sich die betroffenen Geschäftsleitungen. Kommen sie zu keiner Einigung, entscheidet die Geschäftsleitung des Obergerichts.
+<sup>2–3</sup> …
 
 ### 9.3 Jugendgericht
 
@@ -874,17 +943,15 @@ beschliesst:
 
 <sup>4</sup> Das Jugendgericht befindet sich am Sitz des Regionalgerichts Bern-Mittelland und benützt dessen Infrastruktur.
 
-<sup>5</sup> Es tagt in der Regel am Sitz der regionalen Dienststelle der Jugendanwaltschaft oder des Regionalgerichts.
+<sup>5</sup> Es tagt in der Regel am Sitz der regionalen Dienststelle der Jugendanwaltschaft oder des örtlich zuständigen Regionalgerichts.
 
 #### Art. 68
 
-**Vertretung, Aushilfe**
+**Vertretung**
 
 <sup>1</sup> Die Jugendgerichtspräsidentinnen oder Jugendgerichtspräsidenten vertreten sich gegenseitig.
 
-<sup>2</sup> Sie sind zur Aushilfe als Gerichtspräsidentinnen oder Gerichtspräsidenten der Regionalgerichte Bern-Mittelland und Berner Jura-Seeland verpflichtet.
-
-<sup>3</sup> Im Bedarfsfall verständigen sich die betroffenen Geschäftsleitungen. Kommen sie zu keiner Einigung, entscheidet die Geschäftsleitung des Obergerichts.
+<sup>2–3</sup> …
 
 ### 9.4 Steuerrekurskommission
 
@@ -942,7 +1009,7 @@ beschliesst:
 
 <sup>3</sup> Die Geschäftsleitung ist verantwortlich für die Gerichtsverwaltung. Sie ist insbesondere zuständig für
 
-- a die Verabschiedung des Voranschlags, des Aufgaben- und Finanzplans sowie des Geschäftsberichts und Tätigkeitsberichts zuhanden der zuständigen Organe,
+- a die Verabschiedung des Budgets, des Aufgaben- und Finanzplans sowie des Geschäftsberichts und Tätigkeitsberichts zuhanden der zuständigen Organe,
 - b die Anstellung der Mitglieder des juristischen Sekretariats, der Bücherexpertinnen und Bücherexperten sowie des Kanzleipersonals,
 - c die Verfügbarkeit genügender wissenschaftlicher und administrativer Dienstleistungen,
 - d sämtliche weitere Verwaltungsangelegenheiten, die nicht in die Zuständigkeit des Plenums fallen.
@@ -967,9 +1034,11 @@ beschliesst:
 
 **Spruchkörper**
 
-<sup>1</sup> Die Rekurskommission für Massnahmen gegenüber Fahrzeugführerinnen und Fahrzeugführern urteilt gewöhnlich in Dreierbesetzung. Der Spruchkörper setzt sich zusammen aus einer oder einem Vorsitzenden sowie zwei Fachrichterinnen oder Fachrichtern. Den Vorsitz führt die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident.
+<sup>1</sup> Der Spruchkörper setzt sich zusammen aus einer oder einem Vorsitzenden sowie zwei Fachrichterinnen oder Fachrichtern. Den Vorsitz führt die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident.
 
-<sup>2</sup> Sie urteilt unter Beizug von zwei weiteren Fachrichterinnen oder Fachrichtern über Streitigkeiten von grundsätzlicher Bedeutung.
+<sup>1a</sup> Die Rekurskommission für Massnahmen gegenüber Fahrzeugführerinnen und Fahrzeugführern urteilt in Dreierbesetzung. Die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident entscheidet als Einzelrichterin oder als Einzelrichter, wenn eine Beschwerde zurückgezogen oder gegenstandslos wird, die Beschwerde sich gegen Zwischenverfügungen oder -entscheide richtet oder nicht darauf eingetreten werden kann.
+
+<sup>2</sup> Die Kommission urteilt unter Beizug von zwei weiteren Fachrichterinnen oder Fachrichtern über Streitigkeiten von grundsätzlicher Bedeutung.
 
 ### 9.6 Enteignungsschätzungskommission
 
@@ -987,7 +1056,9 @@ beschliesst:
 
 **Spruchkörper**
 
-<sup>1</sup> Die Enteignungsschätzungskommission urteilt in Dreierbesetzung. Der Spruchkörper setzt sich zusammen aus einer oder einem Vorsitzenden sowie zwei Fachrichterinnen oder Fachrichtern. Den Vorsitz führt die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident.
+<sup>1</sup> Der Spruchkörper setzt sich zusammen aus einer oder einem Vorsitzenden sowie zwei Fachrichterinnen oder Fachrichtern. Den Vorsitz führt die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident.
+
+<sup>1a</sup> Die Enteignungsschätzungskommission urteilt in Dreierbesetzung. Die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident entscheidet als Einzelrichterin oder als Einzelrichter, wenn ein Gesuch, eine Klage oder eine Beschwerde zurückgezogen oder gegenstandslos wird oder nicht darauf eingetreten werden kann.
 
 <sup>2</sup> Bei der Zusammensetzung des Spruchkörpers ist den regionalen Interessen angemessen Rechnung zu tragen.
 
@@ -1007,7 +1078,9 @@ beschliesst:
 
 **Spruchkörper**
 
-<sup>1</sup> Die Bodenverbesserungskommission urteilt in Dreierbesetzung. Der Spruchkörper setzt sich zusammen aus einer oder einem Vorsitzenden sowie zwei Fachrichterinnen oder Fachrichtern. Den Vorsitz führt die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident.
+<sup>1</sup> Der Spruchkörper setzt sich zusammen aus einer oder einem Vorsitzenden sowie zwei Fachrichterinnen oder Fachrichtern. Den Vorsitz führt die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident.
+
+<sup>1a</sup> Die Bodenverbesserungskommission urteilt in Dreierbesetzung. Die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident entscheidet als Einzelrichterin oder als Einzelrichter, wenn eine Einsprache oder eine Beschwerde zurückgezogen oder gegenstandslos wird oder nicht darauf eingetreten werden kann.
 
 ## 10 Regionale Gerichtsbehörden
 
@@ -1038,13 +1111,11 @@ beschliesst:
 
 <sup>3</sup> Das Regionalgericht setzt sich aus Gerichtspräsidentinnen und Gerichtspräsidenten, aus Fachrichterinnen und Fachrichtern sowie aus Laienrichterinnen und Laienrichtern zusammen.
 
-<sup>4</sup> Mit Ausnahme der arbeitsrechtlichen Verfahren nach Artikel 9 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordung (EG ZSJ)[^81-1] urteilt es in Zivilsachen als Einzelgericht. In Strafsachen urteilt es als Einzelgericht oder als Kollegialgericht.
+<sup>4</sup> Mit Ausnahme der arbeitsrechtlichen Verfahren nach Artikel 9 EG ZSJ urteilt es in Zivilsachen als Einzelgericht. In Strafsachen urteilt es als Einzelgericht oder als Kollegialgericht.
 
 <sup>5</sup> Den Vorsitz führt eine Gerichtspräsidentin oder ein Gerichtspräsident.
 
 <sup>6</sup> In Strafsachen urteilt das Kollegialgericht in Dreier- oder Fünferbesetzung mit einer Gerichtspräsidentin oder einem Gerichtspräsidenten sowie zwei oder vier Laienrichterinnen und Laienrichtern.
-
-[^81-1]: BSG 271.1
 
 #### Art. 82
 
@@ -1071,7 +1142,7 @@ beschliesst:
 
 <sup>1</sup> Das Obergericht bezeichnet aus dem Kreis der Gerichtspräsidentinnen und Gerichtspräsidenten der Regionalgerichte Berner Jura-Seeland, Emmental-Oberaargau sowie Oberland regionale Zwangsmassnahmenrichterinnen und Zwangsmassnahmenrichter sowie deren Stellvertretung.
 
-<sup>2</sup> Die regionalen Zwangsmassnahmenrichterinnen und Zwangsmassnahmenrichter behandeln die bei den jeweiligen regionalen Staatsanwaltschaften anfallenden Haftsachen und treffen weitere ihnen gesetzlich zugewiesene Entscheide.
+<sup>2</sup> Die regionalen Zwangsmassnahmenrichterinnen und Zwangsmassnahmenrichter behandeln die bei den jeweiligen regionalen Staatsanwaltschaften anfallenden Haftanordnungen und Ersatzmassnahmen und treffen weitere ihnen gesetzlich zugewiesene Entscheide.
 
 <sup>3</sup> Sind weder die hauptamtlichen Mitglieder des regionalen Zwangsmassnahmengerichts noch deren Stellvertretung erreichbar, so amtet an ihrer Stelle eine andere Gerichtspräsidentin oder ein anderer Gerichtspräsident des betreffenden Regionalgerichts.
 
@@ -1109,11 +1180,7 @@ beschliesst:
 
 #### Art. 87
 
-**Aushilfe**
-
-<sup>1</sup> Die Vorsitzenden der Schlichtungsbehörden sind zur Aushilfe als Gerichtspräsidentinnen oder Gerichtspräsidenten in erster Linie der jeweiligen Gerichtsregion oder in anderen regionalen Schlichtungsbehörden verpflichtet.
-
-<sup>2</sup> Im Bedarfsfall verständigen sich die betroffenen Geschäftsleitungen. Kommen sie zu keiner Einigung, entscheidet die Geschäftsleitung des Obergerichts.
+**…**
 
 #### Art. 88
 
@@ -1139,7 +1206,7 @@ beschliesst:
 - b zwei Stellvertreterinnen oder Stellvertretern der Generalstaatsanwältin oder des Generalstaatsanwalts,
 - c leitenden Staatsanwältinnen und Staatsanwälten,
 - d Staatsanwältinnen und Staatsanwälten,
-- e der leitenden Jugendanwältin oder dem leitenden Jugendanwalt, die oder der gleichzeitig eine regionale Dienststelle leitet,
+- e der leitenden Jugendanwältin oder dem leitenden Jugendanwalt,
 - f Jugendanwältinnen und Jugendanwälten.
 
 <sup>2</sup> Die beiden Amtssprachen müssen angemessen vertreten sein.
@@ -1156,7 +1223,7 @@ beschliesst:
 
 <sup>4</sup> Im Übrigen nehmen die Generalstaatsanwältin oder der Generalstaatsanwalt sowie deren Stellvertreterinnen und Stellvertreter die ihnen gemäss Gesetz zukommenden Aufgaben wahr, insbesondere vor den für die Beurteilung von Beschwerden und Berufungen zuständigen Stellen des Obergerichts. Sie können diese Befugnisse im Einzelfall an ein anderes Mitglied der Staatsanwaltschaft übertragen.
 
-<sup>5</sup> Die Generalstaatsanwaltschaft verfügt über eine Fachverantwortliche oder einen Fachverantwortlichen für Ressourcen. Sie oder er ist zuständig für das Personal-, Finanz- und Rechnungswesen sowie für die Informatik und die übrigen zentralen Dienste vorbehältlich der Zuständigkeiten der Stabsstelle für Ressourcen der Justizleitung.
+<sup>5</sup> Die Generalstaatsanwaltschaft verfügt über eine Fachverantwortliche oder einen Fachverantwortlichen für Ressourcen. Sie oder er ist zuständig für das Personal-, Finanz- und Rechnungswesen sowie für die Informatik und die übrigen zentralen Dienste vorbehältlich der Zuständigkeiten der Stabsstelle für Ressourcen der Justizverwaltungsleitung.
 
 #### Art. 91
 
