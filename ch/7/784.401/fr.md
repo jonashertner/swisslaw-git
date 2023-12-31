@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur la radio et la télévision (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-151-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-151-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/fr"
 
 (ORTV)
 
-du 9 mars 2007 (État le 1<sup>er</sup> janvier 2023)
+du 9 mars 2007 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu la loifédérale du 24 mars 2006 sur la radio et la télévision (LRTV)[^ingress-1],
+vu la loi fédérale du 24 mars 2006 sur la radio et la télévision (LRTV)[^ingress-1],
 
 arrête:
 
@@ -134,25 +134,9 @@ Dans la mesure du possible, les diffuseurs de programmes de télévision nationa
 
 #### Art. 6
 
-**Obligation de promouvoir les films suisses**
+[^6-1]
 
-### (art. 7, al. 2, LRTV)
-
-<sup>1</sup>
-
-L’obligation de promouvoir des films suisses et des films coproduits par la Suisse et l’étranger s’applique à tous les diffuseurs de télévision nationaux ou régionaux-linguistiques:
-
-- a lorsque des longs métrages, des documentaires ou des films d’animation sont proposés dans leurs programmes suisses ou leurs programmes-cadres étrangers;
-- b.[^6-1] lorsque leurs charges d’exploitation s’élèvent à plus de 1 million de francs par année;
-- c. lorsqu’ils ne diffusent pas de programme ayant une faible activité d’antenne.[^6-2]
-
-<sup>2</sup> Les diffuseurs visés à l’al. 1 rendent compte dans leur rapport annuel des prestations fournies pour encourager le cinéma. L’OFCOM décide, d’entente avec l’Office fédéral de la culture, du montant d’une éventuelle taxe visant à promouvoir le cinéma. L’ensemble des dépenses consenties durant l’exercice pour l’achat, la production ou la coproduction de longs métrages, de documentaires ou de films d’animation suisses sont déduites.
-
-<sup>3</sup> L’affectation de la taxe visant à promouvoir le cinéma relève de l’art. 15, al. 2 et 3, de la loi fédérale du 14 décembre 2001 sur le cinéma[^6-3].
-
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
-[^6-3]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^6-1]: Abrogé par l’art. 38 de l’O du 6 sept. 2023 sur le quota des films européens et les investissements dans le cinéma suisse, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 533](https://fedlex.data.admin.ch/eli/oc/2023/533)).
 
 #### Art. 7
 

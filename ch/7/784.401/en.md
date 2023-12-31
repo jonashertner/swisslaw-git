@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Radio and Television (RTVO)
 short: RTVO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: en
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2007-151-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2007-151-20240101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RTVO)
 
-of 9 March 2007 (Status as of 1 January 2023)
+of 9 March 2007 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -136,25 +136,9 @@ Broadcasters of national and regional-language television programme services sha
 
 #### Art. 6
 
-**Obligation to promote Swiss films**
+[^6-1]
 
-### (Art. 7 para. 2 RTVA)
-
-<sup>1</sup>
-
-The obligation to promote Swiss films and films co-produced in Switzerland and other countries applies to all regional-language and national television broadcasters which meet the following criteria:
-
-- a. they broadcast feature films, documentary films or animation films in their Swiss programme services or foreign syndicated programme services;
-- b.[^6-1] their annual operating expenditure exceeds CHF 1 million;
-- c. they do not transmit any programme service with low broadcasting activity.[^6-2]
-
-<sup>2</sup> The broadcasters referred to in paragraph 1 shall report on their film promotion activities in their annual report. The Federal Office of Communications, in consultation with the Federal Office of Culture, decides on the amount of any support fee. All expenditure incurred in the reporting year for the purchase, production or co-production of Swiss films, documentaries or animated films will be allowable.
-
-<sup>3</sup> The use of the support fee is based on Article 15 paragraphs 2 and 3 of the Film Act of 14 December 2001[^6-3].
-
-[^6-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^6-2]: Amended by No I of the O of 12 March 2010, in force since 1 Apr. 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
-[^6-3]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^6-1]: Repealed by Art. 38 of the O of 6 Sept. 2023 on the Quota for European Films and Investments in Swiss Film Production, with effect from 1 Jan. 2024 ([AS 2023 533](https://fedlex.data.admin.ch/eli/oc/2023/533)).
 
 #### Art. 7
 
@@ -1117,7 +1101,7 @@ The maximum number of programme services to be broadcast by wire free of charge 
 
 <sup>3</sup> …[^54-3]
 
-[^54-1]: Amended by No I of the O of 15 June 2012, in force since 1 Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^54-1]: Inserted by No I of the O of 15 June 2012, in force since 1 Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
 [^54-2]: Repealed by No I of the O of 5 Nov. 2014, with effect from 1 Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 [^54-3]: Inserted by No I of the O of 12 March 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Repealed by No I of the O of 5 Nov. 2014, with effect from 1 Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 
@@ -2012,11 +1996,11 @@ Devices suitable for receiving radio or television programme services are:
 
 [^tit8-chap2b-1]: Inserted by No I of the O of 16 Sept. 2022, in force since 1 Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
-**Art. 96**b
+#### Art. 96b
 
-The previous versions of Annexes 1 and 2[^tit8-chap2b-2] apply until 31 December 2024 to licences in accordance with Articles 38 and 43 RTVA in existence at the time the Amendment comes into force.
+The previous versions of Annexes 1 and 2[^96b-1] apply until 31 December 2024 to licences in accordance with Articles 38 and 43 RTVA in existence at the time the Amendment comes into force.
 
-[^tit8-chap2b-2]: [AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438); [2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660); [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)
+[^96b-1]: [AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438); [2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660); [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)
 
 ### Chapter 3 Commencement
 

@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sulla radiotelevisione (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/it"
 
 (ORTV)
 
-del 9 marzo 2007 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 9 marzo 2007 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -134,25 +134,9 @@ Le emittenti di programmi televisivi nazionali o destinati alle regioni linguist
 
 #### Art. 6
 
-**Obbligo di promuovere i film svizzeri**
+[^6-1]
 
-### (art. 7 cpv. 2 LRTV)
-
-<sup>1</sup>
-
-L’obbligo di promuovere i film svizzeri e i film coprodotti dalla Svizzera e dall’estero si applica alle emittenti di programmi televisivi nazionali o destinati alle regioni linguistiche:
-
-- a. i cui programmi svizzeri o programmi mantello esteri propongono lungometraggi, documentari o film d’animazione;
-- b.[^6-1] le cui spese d’esercizio annue superano 1 milione di franchi;
-- c. che non trasmettono alcun programma a diffusione limitata.[^6-2]
-
-<sup>2</sup> Le emittenti di cui al capoverso 1 riferiscono nella relazione annuale sugli sforzi forniti nell’ambito della promozione cinematografica. L’UFCOM decide, d’intesa con l’UFCOM della cultura, l’importo di un’eventuale tassa di promozione cinematografica. Tutte le spese affrontate durante l’esercizio annuo per l’acquisto, la produzione o la coproduzione di lungometraggi, documentari o film d’animazione svizzeri sono computate.
-
-<sup>3</sup> L’utilizzazione della tassa di promozione cinematografica è retta dall’articolo 15 capoversi 2 e 3 della legge del 14 dicembre 2001[^6-3] sul cinema.
-
-[^6-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
-[^6-3]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^6-1]: Abrogato dall’art. 38 dell’O del 6 set. 2023 sulla quota per i film europei e sugli investimenti nel cinema svizzero, con effetto dal 1° gen. 2024 ([RU 2023 533](https://fedlex.data.admin.ch/eli/oc/2023/533)).
 
 #### Art. 7
 
@@ -719,7 +703,7 @@ L’UFCOM può:
 
 <sup>4</sup> Le spese della SSR sono considerate nel fabbisogno di cui all’articolo 68*a* capoverso 1 lettera a LRTV.
 
-[^33-1]: Nuovo testo giusto il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^33-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 33a
 
@@ -830,7 +814,7 @@ La quota di partecipazione annua al canone corrisponde:
 
 <sup>3</sup> Alla successiva determinazione degli importi del canone, sarà tenuto conto della quota dei proventi del canone non utilizzata.[^40-3]
 
-[^40-1]: Nuovo testo giusto il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^40-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 [^40-2]: Nuovo testo giusta il n. I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 [^40-3]: Introdotto dal n. I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
@@ -961,7 +945,7 @@ Se un fornitore di servizi di telecomunicazione diffonde un programma con diritt
 
 <sup>3</sup> Il DATEC può emanare prescrizioni tecniche e prevedere per determinate tecnologie eccezioni all’obbligo di diffusione per i servizi abbinati.
 
-[^46-1]: Nuovo testo giusto il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^46-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 ### Capitolo 2: Diffusione di programmi via etere
 
@@ -1041,7 +1025,7 @@ I costi di cui al capoverso 1 sono fissati secondo i seguenti principi:
 
 <sup>3</sup> Contributi agli investimenti per una determinata modalità di diffusione possono essere versati a un’emittente al massimo per dieci anni.
 
-[^50-1]: Nuovo testo giusto il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^50-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 51
 
@@ -1059,7 +1043,7 @@ I costi di cui al capoverso 1 sono fissati secondo i seguenti principi:
 
 <sup>5</sup> È applicabile la legge del 5 ottobre 1990[^51-2] sui sussidi.
 
-[^51-1]: Nuovo testo giusto il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^51-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 [^51-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### Capitolo 3: Diffusione su linea
@@ -1141,7 +1125,7 @@ Il numero massimo di programmi che devono essere diffusi gratuitamente su linea 
 
 [^tit4-1]
 
-[^tit4-1]: Nuovo testo giusto il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^tit4-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 ### Capitolo 1: Canone per le economie domestiche di tipo privato e le collettività
 
@@ -1372,7 +1356,7 @@ Il DFAE mette a disposizione dell’organo di riscossione i seguenti dati proven
 <tr><td>r. Livello 18</td><td>[tab] 1 000 000 000 e oltre</td><td>49 925. [^67b-2]</td></tr>
 </table>
 
-[^67b-1]: Nuovo testo giusto il n. I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
+[^67b-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
 [^67b-2]: Nuovo testo giusta il n. I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
 
 #### Art. 67c
@@ -1811,7 +1795,7 @@ Il contributo di promozione a favore delle emittenti con partecipazione al canon
 
 <sup>3</sup> Il canone radiotelevisivo è riscosso a partire dal cambiamento di sistema.
 
-[^86-1]: Nuovo testo giusto il n. I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
+[^86-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
 [^86-2]: [RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)
 [^86-3]: [RU 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861), [2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749), [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)
 

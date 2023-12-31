@@ -4,11 +4,11 @@ title: Radio- und Fernsehverordnung vom 9. März 2007 (RTVV)
 short: RTVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/de"
 
 (RTVV)
 
-vom 9. März 2007 (Stand am 1. Januar 2023)
+vom 9. März 2007 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -134,25 +134,9 @@ Veranstalter von nationalen und sprachregionalen Fernsehprogrammen sorgen im Rah
 
 #### Art. 6
 
-**Pflicht zur Förderung des Schweizer Films**
+[^6-1]
 
-### (Art. 7 Abs. 2 RTVG)
-
-<sup>1</sup>
-
-Die Pflicht zur Förderung von Schweizer Filmen und von zwischen der Schweiz und dem Ausland koproduzierten Filmen gilt für alle sprachregionalen und nationalen Fernsehveranstalter, auf die folgende Kriterien zutreffen:
-
-- a. In ihren schweizerischen Programmen oder ausländischen Mantelprogrammen werden Spiel-, Dokumentar- oder Animationsfilme ausgestrahlt.
-- b.[^6-1] Ihr jährlicher Betriebsaufwand beträgt mehr als 1 Million Franken.
-- c. Sie strahlen kein Programm mit geringer Sendetätigkeit aus.[^6-2]
-
-<sup>2</sup> Die Veranstalter nach Absatz 1 berichten in ihrem Jahresbericht über die geleistete Filmförderung. Das BAKOM verfügt nach Rücksprache mit dem Bundesamt für Kultur die Höhe einer allfälligen Filmförderungsabgabe. Dabei werden sämtliche im Berichtsjahr geleisteten Ausgaben für den Ankauf, die Produktion oder die Koproduktion von schweizerischen Spiel-, Dokumentar- oder Animationsfilmen angerechnet.
-
-<sup>3</sup> Die Verwendung der Filmförderungsabgabe richtet sich nach Artikel 15 Absatz 2 und 3 des Filmgesetzes vom 14. Dezember 2001[^6-3].
-
-[^6-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
-[^6-3]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^6-1]: Aufgehoben durch Art. 38 der V vom 6. Sept. 2023 über die Quote für europäische Filme und Investitionen in das Schweizer Filmschaffen, mit Wirkung seit 1. Jan. 2024 ([AS 2023 533](https://fedlex.data.admin.ch/eli/oc/2023/533)).
 
 #### Art. 7
 
@@ -1113,7 +1097,7 @@ Die Höchstzahl der nach den Artikeln 59 und 60 RTVG in einem bestimmten Gebiet 
 
 <sup>3</sup> …[^54-3]
 
-[^54-1]: Fassung gemäss Ziff. I der V vom 15. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^54-1]: Eingefügt durch Ziff. I der V vom 15. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
 [^54-2]: Aufgehoben durch Ziff. I der V vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 [^54-3]: Eingefügt durch Ziff. I der V vom 12. März 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Aufgehoben durch Ziff. I der V vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 
@@ -2006,11 +1990,11 @@ Zum Empfang von Radio- oder Fernsehprogrammen geeignete Geräte sind:
 
 [^tit8-chap2b-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
-**Art. 96**b
+#### Art. 96b
 
-Für die im Zeitpunkt des Inkrafttretens bestehenden Konzessionen nach den Artikeln 38 und 43 RTVG gelten bis zum 31. Dezember 2024 die bisherigen Fassungen der Anhänge 1 und 2[^tit8-chap2b-2].
+Für die im Zeitpunkt des Inkrafttretens bestehenden Konzessionen nach den Artikeln 38 und 43 RTVG gelten bis zum 31. Dezember 2024 die bisherigen Fassungen der Anhänge 1 und 2[^96b-1].
 
-[^tit8-chap2b-2]: [AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438); [2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660); [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)
+[^96b-1]: [AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438); [2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660); [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)
 
 ### 3. Kapitel: Inkrafttreten
 
