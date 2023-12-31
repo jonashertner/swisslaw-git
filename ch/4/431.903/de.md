@@ -4,11 +4,11 @@ title: Verordnung vom 30. Juni 1993 über das Betriebs- und Unternehmensregister
 short: BURV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/de"
 
 (BURV)[^t-1]
 
-vom 30. Juni 1993 (Stand am 1. September 2023)
+vom 30. Juni 1993 (Stand am 1. Januar 2024)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -353,15 +353,16 @@ Aus dem BUR dürfen keine Daten veröffentlicht werden, die Rückschlüsse auf d
 Für die Datensicherheit gelten:
 
 - a.[^15-2] die Datenschutzverordnung vom 31. August 2022[^15-3] (DSV);
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^15-4].
+- b.[^15-4] die Informationssicherheitsverordnung vom 8. November 2023[^15-5].
 
-<sup>2</sup> Für die Sicherheit von Daten juristischer Personen gilt die DSV sinngemäss.[^15-5]
+<sup>2</sup> Für die Sicherheit von Daten juristischer Personen gilt die DSV sinngemäss.[^15-6]
 
 [^15-1]: Fassung gemäss Anhang Ziff. 26 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^15-2]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^15-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^15-5]: Eingefügt durch Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-4]: Fassung gemäss Anhang 2 Ziff. II 27 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^15-6]: Eingefügt durch Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 

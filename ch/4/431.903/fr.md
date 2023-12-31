@@ -4,11 +4,11 @@ title: Ordonnance du 30 juin 1993 sur le Registre des entreprises et des établi
 short: OREE
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/fr"
 
 (OREE[^t-1])
 
-du 30 juin 1993 (État le 1<sup>er</sup> septembre 2023)
+du 30 juin 1993 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Introduite par le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -354,15 +354,16 @@ Les données contenues dans le REE qui permettent de déduire des faits relatifs
 La sécurité des données est régie par:
 
 - a.[^15-2] l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^15-3];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^15-4].
+- b.[^15-4] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^15-5].
 
-<sup>2</sup> L’OPDo s’applique par analogie à la sécurité des données des personnes morales.[^15-5]
+<sup>2</sup> L’OPDo s’applique par analogie à la sécurité des données des personnes morales.[^15-6]
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 26 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^15-2]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^15-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^15-5]: Introduit par l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-4]: Nouvelle teneur selon l’annexe 2 ch. II 27 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^15-6]: Introduit par l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 

@@ -4,11 +4,11 @@ title: Ordinanza del 30 giugno 1993 sul Registro delle imprese e degli stabilime
 short: ORIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20230901/it"
 
 (ORIS)[^t-1]
 
-del 30 giugno 1993 (Stato 1° settembre 2023)
+del 30 giugno 1993 (Stato 1° gennaio 2024)
 
 [^t-1]: Introdotta dal n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -111,24 +111,24 @@ Il RIS può contenere i seguenti dati:[^3-14]
 
 - a. il numero telefonico;
 - b.[^3-15] l’indirizzo elettronico;
-- c.[^3-16] le coordinate degli edifici
-- d.[^3-17] l’appartenenza a zone del catasto della produzione agricola e zone di pianificazione;
-- e.[^3-18] il numero di apprendisti;
-- f.[^3-19] il settore istituzionale;
-- g.[^3-20] la struttura dell’impresa (sede principale, filiale, gruppo di imprese);
-- h.[^3-21] connessioni internazionali;
-- i.[^3-22] la cifra d’affari;
-- j.[^3-23] codici per rilevazioni statistiche;
-- k.[^3-24] partecipazioni finanziarie di maggioranza ad altre imprese in percentuale (gruppo di imprese);
-- l.[^3-25] l’indicazione che precisa se l’unità è «importatrice»;
-- m.[^3-26] l’indicazione che precisa se l’unità è «esportatrice».
+- c. le coordinate degli edifici
+- d.[^3-16] l’appartenenza a zone del catasto della produzione agricola e zone di pianificazione;
+- e. il numero di apprendisti;
+- f. il settore istituzionale;
+- g.[^3-17] la struttura dell’impresa (sede principale, filiale, gruppo di imprese);
+- h. connessioni internazionali;
+- i. la cifra d’affari;
+- j.[^3-18] codici per rilevazioni statistiche;
+- k.[^3-19] partecipazioni finanziarie di maggioranza ad altre imprese in percentuale (gruppo di imprese);
+- l.[^3-20] l’indicazione che precisa se l’unità è «importatrice»;
+- m.[^3-21] l’indicazione che precisa se l’unità è «esportatrice».[^3-22]
 
 <sup>4</sup>
 
 Sono considerati dati di base delle imprese:
 
 - a. i dati del RIS conformemente ai capoversi 2 lettere a, c, e–f, h e o–q nonché 3 lettere b, c, f–h e k–m;
-- b. la classe di grandezza in funzione delle persone occupate calcolata sulla base dell’articolo 3 capoverso 2 lettera d.[^3-27]
+- b. la classe di grandezza in funzione delle persone occupate calcolata sulla base dell’articolo 3 capoverso 2 lettera d.[^3-23]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
@@ -139,24 +139,20 @@ Sono considerati dati di base delle imprese:
 [^3-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^3-8]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^3-9]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
-[^3-10]: Introdotta dal n. I dell’O del 18 ago. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Nuovo testo giusta il n. I dell’O del 7 nov. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
+[^3-10]: Nuovo testo giusta il n. I dell’O del 7 nov. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-11]: Abrogata dal n. I dell’O del 7 nov. 2018, con effetto dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-12]: Introdotta dall’all. n. 5 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 [^3-13]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
 [^3-14]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 [^3-15]: Nuovo testo giusta il n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
-[^3-16]: Originaria lett. b
-[^3-17]: Originaria lett. c. Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-18]: Introdotta dal n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
-[^3-19]: Introdotta dal n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
-[^3-20]: Introdotta dal n. I dell’O del 15 giu. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)). Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^3-21]: Introdotta dal n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
-[^3-22]: Originaria lett. d.
-[^3-23]: Originaria lett. e. Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-24]: Originaria lett. f. Introdotta dal n. I dell’O del 13 giu. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)). Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^3-25]: Introdotta dal n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
-[^3-26]: Introdotta dal n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
-[^3-27]: Introdotto dal n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^3-16]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3-17]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^3-18]: Originaria lett. e. Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3-19]: Introdotta dal n. I dell’O del 13 giu. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)). Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^3-20]: Introdotta dal n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
+[^3-21]: Introdotta dal n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
+[^3-22]: Nuovo testo giusta il n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
+[^3-23]: Introdotto dal n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 #### Art. 3a
 
@@ -198,9 +194,9 @@ I dati registrati nel RIS provengono dalle seguenti fonti:
 - j.[^4-8] Registri delle casse di compensazione professionali (CCP):
 - k.[^4-9] Banche dati d’imprese private;
 - l.[^4-10] sistemi d’informazione dell’Amministrazione federale delle contribuzioni (AFC) per l’imposta sul valore aggiunto;
-- [tab] m.[^4-11] sistemi d’informazione dell’AFC per i dati concernenti l’imposta preventiva e le tasse di bollo;
+- m.[^4-11] sistemi d’informazione dell’AFC per i dati concernenti l’imposta preventiva e le tasse di bollo;
 - n.[^4-12] Sistema d’informazione per i dati su aziende, strutture e contributi (AGIS) dell’Ufficio federale dell’agricoltura (UFAG);
-- [tab] o.[^4-13] registro IDI dell’UST;
+- o.[^4-13] registro IDI dell’UST;
 - p.[^4-14] sistema dell’Amministrazione federale delle finanze per la gestione dei dati di base per i processi di supporto *Master Data Governance*.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
@@ -363,16 +359,17 @@ I dati del RIS che consentono di trarre conclusioni sulla situazione di determin
 La sicurezza dei dati è disciplinata:[^15-2]
 
 - a.[^15-3] dall’ordinanza del 31 agosto 2022[^15-4] sulla protezione dei dati (OPDa);
-- b. dall’ordinanza del 27 maggio 2020[^15-5] sui ciber-rischi.
+- b.[^15-5] dall’ordinanza dell’8 novembre 2023[^15-6] sulla sicurezza delle informazioni.
 
-<sup>2</sup> La sicurezza dei dati di persone giuridiche è disciplinata per analogia dall’OPDa.[^15-6]
+<sup>2</sup> La sicurezza dei dati di persone giuridiche è disciplinata per analogia dall’OPDa.[^15-7]
 
 [^15-1]: Nuovo testo giusta l’all. n. 26 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^15-2]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^15-3]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^15-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^15-6]: Introdotto dall’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-5]: Nuovo testo giusta l’all. 2 n. II 27 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^15-7]: Introdotto dall’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
