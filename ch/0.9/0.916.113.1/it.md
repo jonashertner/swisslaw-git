@@ -3,11 +3,11 @@ sr: "0.916.113.1"
 title: "Accordo internazionale sullo zucchero del 1992, del 20 marzo 1992 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1992-03-20
 in_force: 1993-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Fatto a Ginevra il 20 marzo 1992 Approvato dall’Assemblea federale il 28 settembre 1993[^t-1] Applicato a titolo provvisorio dalla Svizzera dal 20 gennaio 1993 Ratificato dalla Svizzera con strumento depositato il 27 gennaio 1994
 
-(Stato 1° gennaio 2022)
+(Stato 1° gennaio 2024)
 
 [^t-1]: [RU 1994 1803](https://fedlex.data.admin.ch/eli/oc/1994/1803_1803_1803)
 
@@ -549,7 +549,7 @@ I governi di tutti gli Stati possono aderire al presente Accordo alle condizioni
 
 <sup>5.</sup> Il Consiglio notifica al depositario qualsiasi decisione presa giusta il paragrafo 2 o 3 del presente articolo.
 
-[^45-1]: Questo Acc. è stato prorogato dalle Ris. del Consiglio internazionale dello zucchero del 1° dic. 1995 fino al 31 dic. 1997 ([RU 1996 1116](https://fedlex.data.admin.ch/eli/oc/1996/1116_1116_1116)), del 29 mag. 1997 fino al 31 dic. 1999 ([RU 1997 2450](https://fedlex.data.admin.ch/eli/oc/1997/2450_2450_2450)), del 27 mag. 1999 fino al 31 dic. 2001 ([RU 1999 2513](https://fedlex.data.admin.ch/eli/oc/1999/395)), del 30 mag. 2001 fino al 31 dic. 2003 ([RU 2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416)), del 29 mag. 2003 fino al 31 dic. 2005 (RU **2003** 1451), del 26 mag. 2005 fino al 31 dic. 2007 ([RU 2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458)), del 31 mag. 2007 fino al 31 dic. 2009 ([RU 2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447)), del 28 mag. 2009 fino al 31 dic. 2011 ([RU 2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418)), del 2 giu. 2011 fino al 31 dic. 2013 ([RU 2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)), del 6 giu. 2013 fino al 31 dic. 2015 ([RU 2013 2105](https://fedlex.data.admin.ch/eli/oc/2013/445)), del 25 giu. 2015 fino al 31 dic. 2017 ([RU 2015 2643](https://fedlex.data.admin.ch/eli/oc/2015/501)), del 1° dic. 2017 fino al 31 dic. 2019 ([RU 2017 7767](https://fedlex.data.admin.ch/eli/oc/2017/884)), del 19 lug. 2019 fino al 31 dic. 2021 ([RU 2019 2625](https://fedlex.data.admin.ch/eli/oc/2019/487)) e del 26 nov. 2021 fino al 31 dic. 2023 ([RU 2021 817](https://fedlex.data.admin.ch/eli/oc/2021/817)).
+[^45-1]: Questo Acc. è stato prorogato dalle Ris. del Consiglio internazionale dello zucchero del 1° dic. 1995 fino al 31 dic. 1997 ([RU 1996 1116](https://fedlex.data.admin.ch/eli/oc/1996/1116_1116_1116)), del 29 mag. 1997 fino al 31 dic. 1999 ([RU 1997 2450](https://fedlex.data.admin.ch/eli/oc/1997/2450_2450_2450)), del 27 mag. 1999 fino al 31 dic. 2001 ([RU 1999 2513](https://fedlex.data.admin.ch/eli/oc/1999/395)), del 30 mag. 2001 fino al 31 dic. 2003 ([RU 2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416)), del 29 mag. 2003 fino al 31 dic. 2005 (RU **2003** 1451), del 26 mag. 2005 fino al 31 dic. 2007 ([RU 2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458)), del 31 mag. 2007 fino al 31 dic. 2009 ([RU 2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447)), del 28 mag. 2009 fino al 31 dic. 2011 ([RU 2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418)), del 2 giu. 2011 fino al 31 dic. 2013 ([RU 2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)), del 6 giu. 2013 fino al 31 dic. 2015 ([RU 2013 2105](https://fedlex.data.admin.ch/eli/oc/2013/445)), del 25 giu. 2015 fino al 31 dic. 2017 ([RU 2015 2643](https://fedlex.data.admin.ch/eli/oc/2015/501)), del 1° dic. 2017 fino al 31 dic. 2019 ([RU 2017 7767](https://fedlex.data.admin.ch/eli/oc/2017/884)), del 19 lug. 2019 fino al 31 dic. 2021 ([RU 2019 2625](https://fedlex.data.admin.ch/eli/oc/2019/487)), del 26 nov. 2021 ([RU 2021 817](https://fedlex.data.admin.ch/eli/oc/2021/817)) e del 24 nov. 2023 fino al 31 dic. 2024 ([RU 2023 796](https://fedlex.data.admin.ch/eli/oc/2023/796)).
 
 #### Art. 46
 
@@ -561,9 +561,7 @@ I governi di tutti gli Stati possono aderire al presente Accordo alle condizioni
 
 [^46-1]: [[RU 1991 454](https://fedlex.data.admin.ch/eli/oc/1991/454_454_454)]
 
-*In fede di che,* i sottoscritti, debitamente autorizzati, hanno apposto la propria firma sul presente Accordo alle date indicate. Fatto a Ginevra, il venti marzo millenovecentonovantadue. I testi del presente Accordo in inglese, arabo, cinese, spagnolo, francese e russo fanno tutti egualmente fede.
-
-(Seguono le firme)
+*In fede di che,* i sottoscritti, debitamente autorizzati, hanno apposto la propria firma sul presente Accordo alle date indicate. Fatto a Ginevra, il venti marzo millenovecentonovantadue. I testi del presente Accordo in inglese, arabo, cinese, spagnolo, francese e russo fanno tutti egualmente fede. (Seguono le firme)
 
 Allegato
 
@@ -603,7 +601,7 @@ Allegato
 <tr><td colspan="4">\* Non partecipa alla Conferenza sullo zucchero 1992 delle Nazioni Unite, ma è incluso nella sua qualità di Membro dell’Organizzazione internazionale dello zucchero creata in virtù dell’Acc. internazionale sullo zucchero del 1987.</td></tr>
 </table>
 
-Campo d’applicazione il 5 ottobre 2016**[^t-2]**
+Campo d’applicazione il 5 ottobre 2016[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -678,4 +676,4 @@ Panama
 
 Sudan
 
-[^t-2]: [RU 1994 1804](https://fedlex.data.admin.ch/eli/oc/1994/1804_1804_1804), [1999 1406](https://fedlex.data.admin.ch/eli/oc/1999/206), [2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416), [2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357), [2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458), [2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447), [2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418), [2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)e [2016 3533](https://fedlex.data.admin.ch/eli/oc/2016/592). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1994 1804](https://fedlex.data.admin.ch/eli/oc/1994/1804_1804_1804); [1999 1406](https://fedlex.data.admin.ch/eli/oc/1999/206); [2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416); [2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357); [2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458); [2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447); [2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418); [2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21); [2016 3533](https://fedlex.data.admin.ch/eli/oc/2016/592). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
