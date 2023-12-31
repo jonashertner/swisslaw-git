@@ -4,11 +4,11 @@ number: "172.110.5"
 title: Organisationsverordnung der Gesundheitsdirektion (OV GD)
 short: OV GD
 language: de
-version: "2023-09-01"
-nachtrag: "122"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2024-06-01
 adopted: 2021-12-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_5-2021_12_23-2022_01_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_5-2021_12_23-2022_01_01-123.html"
 text: pdf
 ---
 
@@ -41,9 +41,7 @@ A. Gliederung
 
 - c. Ämter:
 
-- 1\. Amt für Gesundheit (AFG),
-
-- 2\. Kantonsapotheke (KAZ),
+- 1\. Amt für Gesundheit (AFG), 2.[^h1AbschnittOrgani-1]
 
 - 3\. Kantonale Heilmittelkontrolle (KHZ),
 
@@ -52,6 +50,8 @@ A. Gliederung
 - 5\. Veterinäramt (VETA).
 
 <sup>2</sup> Die Ämter sind gemäss Anhang 1 gegliedert.
+
+[^h1AbschnittOrgani-1]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
 
 #### § 2
 
@@ -89,7 +89,7 @@ A. Gliederung
 
 <sup>5</sup> §§ 30–32 gelten für die Kommissionen sinngemäss.
 
-[^2-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023. 1. 1. 24 - 123 15
+[^2-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023.
 
 ### B. Direktionsvorsteherin oder Direktionsvorsteher
 
@@ -165,7 +165,7 @@ Der Direktionsvorsteherin oder dem Direktionsvorsteher sind direkt unterstellt:
 
 <sup>5</sup> Dem Generalsekretariat ist die Geschäftsstelle der kantonalen Ethikkommission angegliedert.
 
-[^hCGeneralsekretaria-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023. 1. 1. 24 - 123 15
+[^hCGeneralsekretaria-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023.
 
 #### § 6
 
@@ -227,7 +227,7 @@ Der Direktionsvorsteherin oder dem Direktionsvorsteher sind direkt unterstellt:
 
 - k. finanzielle Gesamtsteuerung und Abrechnung im Bereich Prämienverbilligung.
 
-[^6-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023. 1. 1. 24 - 123 15
+[^6-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023.
 
 #### § 9
 
@@ -309,7 +309,7 @@ Der Direktionsvorsteherin oder dem Direktionsvorsteher sind direkt unterstellt:
 
 - g. Leitung und Begleitung der Digitalisierungsprojekte, der IKT-Projekte sowie von Fachapplikationsprojekten (signifikante Änderungen, major releases).
 
-[^9-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023. 1. 1. 24 - 123 15
+[^9-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023.
 [^9-2]: Eingefügt durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023.
 
 ### D. Abteilung Kommunikation
@@ -360,7 +360,7 @@ Die Ämter erfüllen in den Zuständigkeitsbereichen gemäss Anhang 2 folgende A
 
 **Amtsleiterin oder Amtsleiter**
 
-<sup>2</sup> Sie oder er nimmlt dazu insbesondere folgenden Aufgaben wahr:
+<sup>2</sup> Sie oder er nimmt dazu insbesondere folgenden Aufgaben wahr:
 
 - a. Organisation des Amts,
 
@@ -484,7 +484,7 @@ Die Ämter handeln und entscheiden in den Zuständigkeitsbereichen gemäss Anhan
 
 <sup>4</sup> Die Bewilligung von Ausgaben bis Fr. 100 000 kann automatisiert erfolgen, wenn die Zuverlässigkeit des Automatismus gewährleistet ist.
 
-[^19-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023. 1. 1. 24 - 123 15
+[^19-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023.
 
 #### § 20
 
@@ -560,7 +560,7 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher legt im Rahmen des Person
 
 <sup>4</sup> Es wird eine Traktandenliste erstellt und eine Pendenzenliste geführt.
 
-[^hAFührungsgefässe-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023. 1. 1. 24 - 123 15
+[^hAFührungsgefässe-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023.
 
 ### B. Informationen
 
@@ -686,7 +686,7 @@ Bis zur Inkraftsetzung der Organisationsreglemente des Generalsekretariats und d
 
 <sup>2</sup> Die Organisationsverordnung der Gesundheitsdirektion vom 27. Oktober 2011 wird aufgehoben.
 
-[^35-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023. 1. 1. 24 - 123 15
+[^35-1]: Fassung gemäss Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. September 2023.
 
 ### Anhang 1: Gliederung der Ämter (§ 1 Abs. 2)
 
@@ -710,43 +710,11 @@ Das Amt für Gesundheit (AFG) ist wie folgt gegliedert:
 
 - 7\. Amtsstab sowie weitere Fach- und Stabsstellen
 
-### B. Kantonsapotheke
+[^hAAmtfürGesundhei-1]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
 
-Die Kantonsapotheke (KAZ) ist wie folgt gegliedert:
+### B.
 
-- 1\. Bereich Produktion (P)
-
-- a. Abteilung Herstellung Steril (SS)
-
-- b. Abteilung Herstellung Nichtsteril (NS)
-
-- c. Abteilung Qualitätskontrolle (QK)
-
-- d. Supportstelle Facility Management (FM)
-
-- e. Supportstelle Studienkoordination
-
-- 2\. Bereich Pharmazeutische Dienste (PD)
-
-- a. Abteilung Supply Chain Management (SCM)
-
-- b. Abteilung Offizin (OZ)
-
-- c. Abteilung Klinikbetreuung (KZ)
-
-- d. Abteilung Kantonsspitalapotheke Winterthur (KAW)
-
-- 3\. Support- und Stabsstellen
-
-- a. Abteilung Finanzen und Controlling (FiCo)
-
-- b. Abteilung Informatik (IT)
-
-- c. Abteilung Qualitätsmanagement (QM)
-
-- d. Stabsstelle Personal (PB)
-
-- e. Stabsstelle Sekretariat
+[^hAAmtfürGesundhei-1]
 
 ### C. Kantonale Heilmittelkontrolle
 
@@ -816,15 +784,11 @@ heitsfachpersonen
 
 des Amtschefs
 
-### Amt Zuständigkeitsbereich
+[^hAmtZuständigkeitsbe-1]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
 
-- 2\. Kantonsapotheke a. Beschaffung, Lagerung, Verkauf/Abgabe und Vertrieb von Heilmitteln an Institutionen und Private
+### Amt Zuständigkeitsbereich 2.
 
-- b. Herstellung von Arzneimitteln
-
-- d. Vorhalteleistungen für Epidemien und andere aussergewöhnliche Ereignisse
-
-- e. Pharmazeutische Fachberatung und Wissensvermittlung
+[^hAmtZuständigkeitsbe-1]
 
 - 3\. Kantonale Heilmittel- a. Vollzug der Heilmittelgesetzgebung: Bewilligungserteikontrolle erteilung für Herstellung, Abgabe und Versandhandel von Arzneimitteln sowie für Lagerung von Blut und Blutprodukten; Kontrolle der Arzneimittelherstellung, des Arzneimittelgrosshandels und der Heilmittelabgabe; Marktüberwachung von Heilmitteln
 
@@ -846,12 +810,6 @@ stellten Betrieben
 
 - e. Kontrolle der Solarien nach NISSG
 
-**19**
-
-- 1\. 1. 24 - 123
-
-### Amt Zuständigkeitsbereich
-
 - 5\. Veterinäramt a. Prävention und Bekämpfung von Tierseuchen und anderen übertragbaren Krankheiten
 
 - b. Tierschutz und Wahrnehmung der Parteirechte in Straf-
@@ -865,3 +823,7 @@ verfahren
 - e. Heilmittel und Medizinalberufe, soweit sie Tiere und Tätigkeiten mit Tieren betreffen
 
 - f. Findeltiermeldestelle
+
+**19**
+
+- 1\. 1. 24 - 123
