@@ -4,11 +4,11 @@ title: Ordonnance sur les explosifs du 27 novembre 2000 (OExpl)
 short: OExpl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20240101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230901/fr"
 
 (OExpl)[^t-1]
 
-du 27 novembre 2000 (État le 1<sup>er</sup> septembre 2023)
+du 27 novembre 2000 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
@@ -27,12 +27,12 @@ vu les art. 34*a* et 42 de la loi du 25 mars 1977 sur les explosifs[^ingress-1] 
 
 arrête:
 
-[^ingress-1]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^ingress-1]: [RS 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
 [^ingress-2]: Nouvelle expression selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^ingress-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-6]: [RS 0.748.710.4](https://fedlex.data.admin.ch/eli/cc/2002/532)
+[^ingress-3]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^ingress-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-6]: [RS 0.748.710.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3315)
 
 ## Titre 1 Champ d’application et définitions
 
@@ -45,8 +45,8 @@ arrête:
 <sup>2</sup> Sont réservées les prescriptions de l’ordonnance du 5 juin 2015 sur les produits chimiques[^1-2] et de l’ordonnance du 27 février 1991 sur les accidents majeurs[^1-3].[^1-4]
 
 [^1-1]: Nouvelle teneur selon le ch. II 22 de l’O du 18 mai 2005 sur l’abrogation et la mod. du droit en vigueur du fait de la loi sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
-[^1-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^1-3]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^1-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^1-3]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 [^1-4]: Nouvelle teneur selon l’annexe 6 ch. 8 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 
 #### Art. 1a
@@ -219,7 +219,7 @@ Les normes techniques qui se prêtent à la concrétisation des exigences essent
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^10-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
-[^10-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^10-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 11
 
@@ -243,7 +243,7 @@ La déclaration de conformité doit être libellée dans une des langues officie
 
 [^11-1]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
-[^11-3]: Figurent à l’annexe A de l’Ac. européen du 30 sept. 1957 relatif au transport international des marchandises dangereuses par route (ADR; [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+[^11-3]: Figurent à l’annexe A de l’Ac. européen du 30 sept. 1957 relatif au transport international des marchandises dangereuses par route (ADR; [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
 [^11-4]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 #### Art. 12
@@ -316,7 +316,7 @@ Les laboratoires d’essais et les organismes d’évaluation de la conformité,
 
 <sup>2</sup> Celui qui se réfère à des documents émanant d’un autre organisme que ceux mentionnés à l’al. 1 doit montrer de façon plausible que les procédures appliquées et les qualifications dudit organisme satisfont aux exigences suisses d’après l’art. 18 LETC.
 
-[^15-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^15-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 16
 
@@ -332,7 +332,7 @@ Les laboratoires d’essais et les organismes d’évaluation de la conformité,
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^16-2]: Nouvelle expression selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Il a été tenu compte de cette mod. dans tout le texte.
-[^16-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^16-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 17
 
@@ -395,7 +395,7 @@ Sur chaque autre unité d’emballage doivent figurer, en plus des indications e
 <sup>3</sup> Pour les explosifs encartouchés, doivent figurer sur chaque cartouche les noms de l’explosif et du fabricant, ainsi que le lieu, l’année et le mois de fabrication.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^21-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^21-2]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 [^21-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 22
@@ -458,7 +458,7 @@ Les normes techniques qui se prêtent à la concrétisation des exigences essent
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^25-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
-[^25-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^25-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 25a
 
@@ -510,7 +510,7 @@ Sur la plus petite unité d’emballage destinée à la vente (emballage par pi�
 <sup>3</sup> Les indications seront clairement signalées et rédigées dans les trois langues officielles.
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^26-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^26-2]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 ## Titre 3 Commerce, permis d’acquisition et d’emploi
 
@@ -551,7 +551,7 @@ Pour les matières explosives, elle contiendra en plus:
 - a. une description complète incluant les données d’identification et le numéro d’identification des Nations Unies[^28-1];
 - b. le cas échéant, l’attestation de conformité d’un organisme notifié.
 
-[^28-1]: Figurent à l’annexe A de l’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+[^28-1]: Figurent à l’annexe A de l’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
 
 #### Art. 29
 
@@ -613,7 +613,7 @@ Elles seront accompagnées:
 <sup>4</sup> Pour les pièces d’artifice des catégories 1 à 3, la demande indiquera en outre le numéro d’identification-CH. Si celui-ci n’a pas encore été attribué, la demande sera accompagnée d’une étiquette originale.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^32-2]: Figurent à l’annexe A de l’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+[^32-2]: Figurent à l’annexe A de l’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
 
 #### Art. 33
 
@@ -1124,7 +1124,7 @@ Lorsque les matières explosives ou les engins pyrotechniques servent en quantit
 
 Le mode de construction, l’aménagement et l’exploitation des installations et bâtiments dans lesquels sont fabriqués des matières explosives, des engins pyrotechniques et de la poudre de guerre seront conformes aux prescriptions de la législation sur le travail et des ordonnances d’exécution 3 et 4 y relatives du 18 août 1993[^70-1].
 
-[^70-1]: [RS 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)**/.114**
+[^70-1]: [RS 822.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9894)**/.114**
 
 ## Titre 6 Entreposage
 
@@ -1521,8 +1521,8 @@ Les exploitants d’entreprises commerciales et de magasins désigneront pour l�
 
 <sup>4</sup> Les appareils doivent en outre répondre aux exigences essentielles de sécurité de fonctionnement prévues par la loi du 12 juin 2009 sur la sécurité des produits[^98-1] et de l’ordonnance du 19 mai 2010 sur la sécurité des produits[^98-2], qui en découle.[^98-3]
 
-[^98-1]: [<sup>RS</sup> 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^98-2]: [<sup>RS</sup> 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^98-1]: [<sup>RS</sup> 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^98-2]: [<sup>RS</sup> 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
 [^98-3]: Nouvelle teneur selon l’annexe 4 ch. II 12 de l’O du 19 mai 2010 sur la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 
 #### Art. 99
@@ -1574,7 +1574,7 @@ Le chef mineur doit veiller à ce que:
 
 <sup>2</sup> Avant le premier signal de tir, le chef mineur doit assigner un emplacement sûr aux personnes se trouvant dans la zone de danger.
 
-[^103-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^103-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 #### Art. 104
 
@@ -1718,7 +1718,7 @@ Les envois doivent être retenus et signalés au SECO:
 - a. lorsqu’ils ne sont pas accompagnés d’une autorisation d’exportation;
 - b. lorsque, pour leur transit, la preuve de l’expédition conforme à la LExpl n’a pas été apportée (art. 25 de l’O du 25 juin 1997 sur le contrôle des biens[^112-1]).
 
-[^112-1]: [[RO 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)ch. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)annexe 7 ch. 4, [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)annexe 4 ch. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)annexe 6 ch. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)app. 2 ch. 4; [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446), [4553](https://fedlex.data.admin.ch/eli/oc/2014/760); [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83). [RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)art. 30]. Voir actuellement l’O du 3 juin 2016 ([RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
+[^112-1]: [[RO 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)ch. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)annexe 7 ch. 4, [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)annexe 4 ch. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)annexe 6 ch. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)app. 2 ch. 4; [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446), [4553](https://fedlex.data.admin.ch/eli/oc/2014/760); [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83). [RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)art. 30]. Voir actuellement l’O du 3 juin 2016 ([RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)).
 
 ### Chapitre 3 Émoluments
 
@@ -1729,7 +1729,7 @@ Les envois doivent être retenus et signalés au SECO:
 L’ordonnance générale du 8 septembre 2004 sur les émoluments[^112a-2] est applicable, sous réserve des dispositions spéciales de la présente ordonnance.
 
 [^112a-1]: Introduit par l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^112a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^112a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 113
 
@@ -1752,7 +1752,7 @@ L’ordonnance générale du 8 septembre 2004 sur les émoluments[^112a-2] est a
 
 [^113-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^113-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^113-3]: [RS 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^113-3]: [RS 412.109.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6626)
 [^113-4]: Introduit par l’annexe ch. 5 de l’O du 16 juin 2006 sur les émoluments du SEFRI ([RO 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)). Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 114
@@ -1872,9 +1872,9 @@ Les autorités suivantes ont accès en ligne aux données enregistrées dans BAR
 <sup>2</sup> Les droits d’accès sont réglés à l’annexe 17.
 
 [^117e-1]: Nouvelle teneur selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^117e-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^117e-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^117e-4]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^117e-2]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^117e-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^117e-4]: [RS 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 
 #### Art. 117f
 
@@ -1917,8 +1917,8 @@ Tout traitement de données dans BARBARA est journalisé. Les procès-verbaux de
 Les données sont proposées aux Archives fédérales suisses conformément à l’art. 38 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^117i-2] et à l’art. 6 de la loi fédérale du 26 juin 1998 sur l’archivage[^117i-3].
 
 [^117i-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^117i-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117i-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^117i-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^117i-3]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 117j
 
@@ -1929,14 +1929,15 @@ Les données sont proposées aux Archives fédérales suisses conformément à l
 La sécurité des données est garantie conformément à:
 
 - a.[^117j-1] l’art. 8 LPD[^117j-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^117j-3].[^117j-4]
+- b.[^117j-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^117j-4].[^117j-5]
 
 <sup>2</sup> L’OCE prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
 
 [^117j-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^117j-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117j-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^117j-4]: Nouvelle teneur selon l’annexe ch. 37 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^117j-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^117j-3]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^117j-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
+[^117j-5]: Nouvelle teneur selon l’annexe ch. 37 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 117k
 
@@ -1945,7 +1946,7 @@ La sécurité des données est garantie conformément à:
 Le droit d’accès des personnes concernées aux données, de même que le droit à la rectification et à la destruction des données, sont régis par la LPD[^117k-2].
 
 [^117k-1]: Nouvelle teneur selon l’annexe 2 ch. II 135 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^117k-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117k-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 117l
 
@@ -1973,7 +1974,7 @@ Le Département fédéral de justice et police peut adapter les annexes 1 à 16 
 
 **Dispositions transitoires relatives à la modification du 12 mai 2010**[^119a-1]
 
-<sup>1</sup> et <sup>2</sup> ...[^119a-2]
+<sup>1 et <sup>2</sup></sup> ...[^119a-2]
 
 <sup>3</sup> Lors de l’entrée en vigueur de la modification du 12 mai 2010, aucune attestation de conformité ne doit être présentée pour les engins pyrotechniques au bénéfice d’une homologation délivrée selon l’ancien droit et non encore échue. Cette exemption ne pourra s’appliquer au-delà de la date d’expiration de l’homologation mais au plus tard jusqu’au 3 juillet 2017.
 
@@ -2043,7 +2044,7 @@ Les engins pyrotechniques dont la fabrication ou l’importation a été autoris
 Les données visées aux art. 117*c*, let. c, et 117*d*, al. 2, qui figurent dans BARBARA lors de l’entrée en vigueur de la modification du 25 mai 2022 sont transférées dans le système d’information visé l’art. 21 de la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles (LPSE)[^119f-2] (art. 22, let. f, LPSE).
 
 [^119f-1]: Introduit par l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^119f-2]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^119f-2]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
 
 #### Art. 120
 
@@ -2213,7 +2214,7 @@ Annexe 5
 <tr><td>10 000</td><td>150</td><td>390</td><td>755</td></tr>
 <tr><td>20 000</td><td>190</td><td>490</td><td>950</td></tr>
 <tr><td>...</td><td>...</td><td>...</td><td>...</td></tr>
-<tr><td colspan="4">Les chiffres figurant dans le tableau ci-dessus sont arrondis à cinq mètres près.</td></tr>
+<tr><td colspan="4">[tab] Les chiffres figurant dans le tableau ci-dessus sont arrondis à cinq mètres près.</td></tr>
 </table>
 
 Légende:
@@ -2230,7 +2231,7 @@ S = Entrepôt ou magasin de matières explosives
 
 h = Hauteur du remblai au moins égale à celle de l’entrepôt ou du magasin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image1.png)
 
 Annexe 6
 
@@ -2238,7 +2239,7 @@ Annexe 6
 
 ## Entrepôt au magasin souterrain de matières explosives dans une roche sèche et solide
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image2.png)
 
 <table>
 <tr><td>Quantité d’explosif en kg et par caverne</td><td colspan="2">L = longueur de l’accès en m</td><td>Recouvrement</td></tr>
@@ -2263,7 +2264,7 @@ Annexe 7
 
 ## Distances minimales entre les entrepôts ou magasins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image3.png)
 
 rK=0,7·L<sup>(1/3)</sup>
 
@@ -2275,7 +2276,7 @@ Annexe 8.1[^t-5]
 
 [^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image4.png)
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
 - Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2293,7 +2294,7 @@ Capot de protection: tôle d’acier 5 mm: perforée Ø 10 mm
 
 Grille de protection: fil d’acier Ø 2 mm: largeur des mailles 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image5.png)
 
 Annexe 9.1
 
@@ -2301,7 +2302,7 @@ Annexe 9.1
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image6.png)
 
 Annexe 9.2
 
@@ -2309,9 +2310,9 @@ Annexe 9.2
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image8.png)
 
 Annexe 10.1[^t-6]
 
@@ -2321,7 +2322,7 @@ Annexe 10.1[^t-6]
 
 [^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image9.png)
 
 A = moyens d’allumage
 
@@ -2344,7 +2345,7 @@ Annexe 10.2[^t-7]
 [^t-7]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 <table>
-<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
+<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
 </table>
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2359,7 +2360,7 @@ Annexe 11.1
 
 ## Récipient à matières explosives
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image12.png)
 
 Légende:
 
@@ -2375,7 +2376,7 @@ Annexe 11.2
 
 ## Récipient mobile
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image13.png)
 
 Légende:
 
@@ -2428,7 +2429,7 @@ Les dispositions de la présente annexe ne s’appliquent pas:
 - a. une partie lisible à l’œil nu contenant le nom du fabricant et un code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation, trois chiffres identifiant le nom du site de production (attribué par l’OCE), le code produit unique et les informations logistiques conçues par le fabricant;
 - b. un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique selon l’exemple ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/fr/xml/image/image14.png)
 
 <sup>5</sup> Lorsqu’il n’est pas possible d’apposer l’identification unique complète décrite à l’al. 4 sur un article car celui-ci est trop petit, le code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et trois chiffres identifiant le nom du site de production (attribué par l’OCE), ainsi qu’un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique, suffisent.
 

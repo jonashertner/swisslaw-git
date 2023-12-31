@@ -4,11 +4,11 @@ title: Sprengstoffverordnung vom 27. November 2000 (SprstV)
 short: SprstV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20240101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230901/de"
 
 (SprstV)[^t-1]
 
-vom 27. November 2000 (Stand am 1. September 2023)
+vom 27. November 2000 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
@@ -27,12 +27,12 @@ gestützt auf die Artikel 34*a* und 42 des Sprengstoffgesetzes vom 25. März 197
 
 verordnet:
 
-[^ingress-1]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^ingress-1]: [SR 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
 [^ingress-2]: Ausdruck gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^ingress-3]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^ingress-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-5]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-6]: [SR 0.748.710.4](https://fedlex.data.admin.ch/eli/cc/2002/532)
+[^ingress-3]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^ingress-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^ingress-5]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-6]: [SR 0.748.710.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3315)
 
 ## 1. Titel: Geltungsbereich und Begriffe
 
@@ -45,8 +45,8 @@ verordnet:
 <sup>2</sup> Die Vorschriften der Chemikalienverordnung vom 5. Juni 2015[^1-2] und der Störfallverordnung vom 27. Februar 1991[^1-3] bleiben vorbehalten.[^1-4]
 
 [^1-1]: Fassung gemäss Ziff. II 22 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes, in Kraft seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
-[^1-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^1-3]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^1-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^1-3]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 [^1-4]: Fassung gemäss Anhang 6 Ziff. 8 der Chemikalienverordnung vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 
 #### Art. 1a
@@ -217,7 +217,7 @@ Die Bezeichnung der technischen Normen, die geeignet sind, die grundlegenden Anf
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^10-2]: Siehe Fussnote zu Art. 1*a* Abs. 2.
-[^10-3]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^10-3]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 11
 
@@ -241,7 +241,7 @@ Die Konformitätserklärung muss in einer schweizerischen Amtssprache oder in En
 
 [^11-1]: Siehe Fussnote zu Art. 1*a* Abs. 2.
 [^11-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
-[^11-3]: Enthalten in Anlage A des Europäischen Übereink. vom 30. Sept. 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR – [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Die Anlage A des ADR wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden.
+[^11-3]: Enthalten in Anlage A des Europäischen Übereink. vom 30. Sept. 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR – [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)). Die Anlage A des ADR wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden.
 [^11-4]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 #### Art. 12
@@ -314,7 +314,7 @@ Prüf- oder Konformitätsbewertungsstellen, die Berichte oder Bescheinigungen au
 
 <sup>2</sup> Wer sich auf die Unterlagen einer anderen als der in Absatz 1 erwähnten Stellen beruft, muss glaubhaft darlegen, dass die angewandten Verfahren und die Qualifikation dieser Stelle den schweizerischen Anforderungen nach Massgabe von Artikel 18 THG genügen.
 
-[^15-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^15-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 16
 
@@ -329,7 +329,7 @@ Prüf- oder Konformitätsbewertungsstellen, die Berichte oder Bescheinigungen au
 <sup>4</sup> Die ZSE kann vom Bundesamt für Zoll und Grenzsicherheit[^16-2] für eine festgesetzte Dauer Meldungen über die Einfuhr von Sprengmittelsendungen verlangen. Sie muss die Sendungen genau bezeichnen.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
-[^16-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^16-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 17
 
@@ -391,7 +391,7 @@ Zusätzlich zu den Angaben nach Absatz 1 muss jede weitere Verpackungseinheit mi
 <sup>3</sup> Auf Sprengstoffpatronen müssen der Sprengstoffname und der Hersteller sowie Ort, Jahr und Monat der Herstellung aufgeführt sein.
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^21-2]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^21-2]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 [^21-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 22
@@ -454,7 +454,7 @@ Die Bezeichnung der technischen Normen, die geeignet sind, die grundlegenden Anf
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^25-2]: Siehe Fussnote zu Art. 1*a* Abs. 2.
-[^25-3]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^25-3]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 25a
 
@@ -506,7 +506,7 @@ Auf der kleinsten für den Verkauf bestimmten Verpackungseinheit (Einzel- oder S
 <sup>3</sup> Die Angaben müssen in übersichtlicher Form in den drei Amtssprachen aufgeführt werden.
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^26-2]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^26-2]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 ## 3. Titel: Berechtigung zum Verkehr
 
@@ -547,7 +547,7 @@ Für Sprengmittel muss das Gesuch zudem enthalten:
 - a. eine vollständige Beschreibung mit Identifizierungsdaten einschliesslich der Identifikationsnummer der Vereinten Nationen[^28-1];
 - b. gegebenenfalls die Konformitätsbescheinigung.
 
-[^28-1]: Enthalten in Anlage A des Europäischen Übereink. vom 30. Sept. 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR – [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Die Anlage A des ADR wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden.
+[^28-1]: Enthalten in Anlage A des Europäischen Übereink. vom 30. Sept. 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR – [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)). Die Anlage A des ADR wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden.
 
 #### Art. 29
 
@@ -609,7 +609,7 @@ Dem Gesuch beizulegen sind:
 <sup>4</sup> Für pyrotechnische Gegenstände der Kategorien F1–F3 ist zusätzlich die CH-Identifikationsnummer anzugeben. Ist diese noch nicht zugewiesen worden, ist eine Originaletikette beizulegen.
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^32-2]: Enthalten in Anlage A des ADR ([SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Diese wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden.
+[^32-2]: Enthalten in Anlage A des ADR ([SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)). Diese wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden.
 
 #### Art. 33
 
@@ -1116,7 +1116,7 @@ In den Fällen, da Sprengmittel oder pyrotechnische Gegenstände in geringen Men
 
 Bauart, Einrichtung und Betrieb von Anlagen und Gebäuden, in denen Sprengmittel, pyrotechnische Gegenstände oder Schiesspulver hergestellt werden, richten sich nach dem Arbeitsgesetz und den zugehörigen Verordnungen 3 und 4 vom 18. August 1993[^70-1].
 
-[^70-1]: [SR 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)**/.114**
+[^70-1]: [SR 822.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9894)**/.114**
 
 ## 6. Titel: Lagerung
 
@@ -1517,8 +1517,8 @@ Inhaber von Handelsbetrieben und Geschäften haben für das Lagern, den Versand 
 
 <sup>4</sup> Die Geräte müssen ausserdem den grundlegenden Anforderungen an die Betriebssicherheit gemäss dem Bundesgesetz vom 12. Juni 2009[^98-1] über die Produktesicherheit und der Verordnung vom 19. Mai 2010[^98-2] über die Produktesicherheit entsprechen.[^98-3]
 
-[^98-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^98-2]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^98-1]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^98-2]: [SR 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
 [^98-3]: Fassung gemäss Anhang 4 Ziff. II 12 der V vom 19. Mai 2010 über die Produktesicherheit, in Kraft seit 1. Juli 2010 ([AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 
 #### Art. 99
@@ -1570,7 +1570,7 @@ Die Sprengleiterin oder der Sprengleiter muss dafür sorgen dass:
 
 <sup>2</sup> Sie oder er weist den im Gefahrenbereich befindlichen Personen vor dem ersten Sprengsignal einen sicheren Standort zu.
 
-[^103-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^103-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 #### Art. 104
 
@@ -1715,7 +1715,7 @@ Sendungen sind anzuhalten und dem SECO zu melden wenn:
 - a. dafür keine Ausfuhrbewilligung vorliegt;
 - b. für die Durchfuhr kein Nachweis über den rechtmässigen Versand (Art. 25 der Güterkontrollverordnung vom 25. Juni 1977[^112-1]) vorliegt.
 
-[^112-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Ziff. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 4, [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Anhang 4 Ziff. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Anhang 6 Ziff. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249), [6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Beilage 2 Ziff. 4; **2014** 2507 4553; **2016** 493. [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)Art. 30]. S. heute: die V vom 3. Juni 2016 ([SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
+[^112-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Ziff. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 4, [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Anhang 4 Ziff. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Anhang 6 Ziff. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249), [6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Beilage 2 Ziff. 4; **2014** 2507 4553; **2016** 493. [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)Art. 30]. S. heute: die V vom 3. Juni 2016 ([SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)).
 
 ### 3. Kapitel: Gebühren
 
@@ -1726,7 +1726,7 @@ Sendungen sind anzuhalten und dem SECO zu melden wenn:
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^112a-2].
 
 [^112a-1]: Eingefügt durch Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^112a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^112a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 113
 
@@ -1749,7 +1749,7 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 [^113-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^113-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^113-3]: [SR 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^113-3]: [SR 412.109.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6626)
 [^113-4]: Eingefügt durch Anhang Ziff. 5 der Gebührenverordnung SBFI vom 16. Juni 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 114
@@ -1863,9 +1863,9 @@ Folgende Behörden können im Abrufverfahren auf die Daten in BARBARA zugreifen:
 <sup>2</sup> Die Einzelheiten der Zugriffsrechte sind in Anhang 17 geregelt.
 
 [^117e-1]: Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^117e-2]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^117e-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^117e-4]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^117e-2]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^117e-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^117e-4]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 
 #### Art. 117f
 
@@ -1907,8 +1907,8 @@ Die Bearbeitung von Daten in BARBARA wird protokolliert. Die Protokolle werden w
 Das Anbieten der Daten an das Bundesarchiv richtet sich nach Artikel 38 des Datenschutzgesetzes vom 25. September 2020[^117i-2] (DSG) und nach Artikel 6 des Archivierungsgesetzes vom 26. Juni 1998[^117i-3].
 
 [^117i-1]: Fassung gemäss Anhang 2 Ziff. II 135 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^117i-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117i-3]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^117i-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^117i-3]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 117j
 
@@ -1919,14 +1919,15 @@ Das Anbieten der Daten an das Bundesarchiv richtet sich nach Artikel 38 des Date
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a.[^117j-1] Artikel 8 DSG[^117j-2];
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^117j-3].[^117j-4]
+- b.[^117j-3] die Informationssicherheitsverordnung vom 8. November 2023[^117j-4].[^117j-5]
 
 <sup>2</sup> Die ZSE trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
 
 [^117j-1]: Fassung gemäss Anhang 2 Ziff. II 135 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^117j-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^117j-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^117j-4]: Fassung gemäss Anhang Ziff. 37 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^117j-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^117j-3]: Fassung gemäss Anhang 2 Ziff. II 44 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^117j-4]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
+[^117j-5]: Fassung gemäss Anhang Ziff. 37 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 117k
 
@@ -1935,7 +1936,7 @@ Für die Gewährleistung der Datensicherheit gelten:
 Das Recht auf Auskunft, Berichtigung und Vernichtung von Daten richtet sich nach den Bestimmungen des DSG[^117k-2].
 
 [^117k-1]: Fassung gemäss Anhang 2 Ziff. II 135 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^117k-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117k-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 117l
 
@@ -1963,7 +1964,7 @@ Das Eidgenössische Justiz- und Polizeidepartement kann die Anhänge 1–16 neue
 
 **Übergangsbestimmungen zur Änderung vom 12. Mai 2010**[^119a-1]
 
-<sup>1</sup> und <sup>2</sup> …[^119a-2]
+<sup>1 und <sup>2</sup></sup> …[^119a-2]
 
 <sup>3</sup> Beim Inkrafttreten der Änderung vom 12. Mai 2010 muss für pyrotechnische Gegenstände, deren Zulassung nach bisherigem Recht erteilt wurde und noch nicht abgelaufen ist, keine Konformitätserklärung vorgelegt werden. Die Befreiung von dieser Pflicht gilt bis zum Ablauf der Zulassung, längstens jedoch bis zum 3. Juli 2017.
 
@@ -2033,7 +2034,7 @@ Pyrotechnische Gegenstände, für die eine Herstellungs- oder Einfuhrbewilligung
 Die Daten nach den Artikeln 117*c* Buchtstabe c und 117*d* Absatz 2, die bei Inkrafttreten der Änderung vom 25. Mai 2022 in BARBARA enthalten sind, werden ins Informationssystem nach Artikel 21 des Vorläuferstoffgesetzes vom 25. September 2020[^119f-2] (VSG) überführt (Art. 22 Bst. f VSG).
 
 [^119f-1]: Eingefügt durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^119f-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^119f-2]: [SR 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
 
 #### Art. 120
 
@@ -2191,9 +2192,9 @@ Anhang 5
 
 <table>
 <tr><td>Sprengstoffmenge in kg und pro Lager- oder Magazingebäude</td><td colspan="3">Abstände (E) in Meter zu</td></tr>
-<tr><td>Lagermenge (M)</td><td>A</td><td>B</td><td>C</td></tr>
+<tr><td></td><td>A</td><td>B</td><td>C</td></tr>
 <tr><td></td><td colspan="3">Berechnungsformel</td></tr>
-<tr><td></td><td>E = 7·M<sup>(1/3)</sup></td><td>E = 18·M<sup>(1/3)</sup></td><td>E = 35·M<sup>(1/3)</sup></td></tr>
+<tr><td>Lagermenge (M)</td><td>E = 7·M<sup>(1/3)</sup></td><td>E = 18·M<sup>(1/3)</sup></td><td>E = 35·M<sup>(1/3)</sup></td></tr>
 <tr><td>100</td><td>30</td><td>85</td><td>160</td></tr>
 <tr><td>200</td><td>40</td><td>105</td><td>205</td></tr>
 <tr><td>500</td><td>55</td><td>145</td><td>280</td></tr>
@@ -2208,14 +2209,19 @@ Anhang 5
 
 Legende:
 
-- A = öffentliche Verkehrswege (Bei hoher Verkehrsdichte sind die Distanzen zu verdoppeln.)
-- B = Gebäulichkeiten, welche bewohnt sind oder in welchen sich Personen aufhalten, sowie Einrichtungen, die der Allgemeinheit dienen
-- C = Gebäude mit hoher Belegungsdichte wie z.B. Spitäler, Heime, Schulen und kulturhistorisch wertvolle Bauten
-- P = Fixpunkt 4,5 m über Verkehrsweg
-- S = Sprengmittellager oder -magazin
-- h = Wallhöhe, mindestens Höhe Sprengmittellager oder -magazin
+A = öffentliche Verkehrswege (Bei hoher Verkehrsdichte sind die Distanzen zu verdoppeln.)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image1.png)
+B = Gebäulichkeiten, welche bewohnt sind oder in welchen sich Personen aufhalten, sowie Einrichtungen, die der Allgemeinheit dienen
+
+C = Gebäude mit hoher Belegungsdichte wie z.B. Spitäler, Heime, Schulen und kulturhistorisch wertvolle Bauten
+
+P = Fixpunkt 4,5 m über Verkehrsweg
+
+S = Sprengmittellager oder -magazin
+
+h = Wallhöhe, mindestens Höhe Sprengmittellager oder -magazin
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image1.png)
 
 Anhang 6
 
@@ -2223,7 +2229,7 @@ Anhang 6
 
 ## Unterirdisches Sprengmittellager oder -magazin in trockenem und standfestem Fels
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image2.png)
 
 (Tabelle siehe folgende Seite)
 
@@ -2250,7 +2256,7 @@ Anhang 7
 
 ## Mindestabstände zwischen Lager- oder Magazingebäuden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image3.png)
 
 rK = 0,7·L<sup>(1/3)</sup>
 
@@ -2262,7 +2268,7 @@ Anhang 8.1[^t-5]
 
 [^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image4.png)
 
 Decke und Aussenwände, Boden und Armierung
 
@@ -2282,7 +2288,7 @@ Schutzkappe: Stahlblech 5 mm: gelocht X 10 mm
 
 Schutzgitter: Stahldraht X 2 mm: Maschenweite 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image5.png)
 
 Anhang 9.1
 
@@ -2290,7 +2296,7 @@ Anhang 9.1
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image6.png)
 
 Anhang 9.2
 
@@ -2298,9 +2304,9 @@ Anhang 9.2
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image8.png)
 
 Anhang 10.1[^t-6]
 
@@ -2310,7 +2316,7 @@ Anhang 10.1[^t-6]
 
 [^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image9.png)
 
 A = Zündmittel
 
@@ -2336,6 +2342,7 @@ Anhang 10.2[^t-7]
 
 <table>
 <tr><td>[tab] a. Mit Erdmaterial überdeckt</td><td>[tab] b. In festem Fels</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image10.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image11.png)</td></tr>
 </table>
 
 Decke und Aussenwände, Boden und Armierung
@@ -2352,7 +2359,7 @@ Anhang 11.1
 
 ## Sprengmittelbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image13.png)
 
 Legende:
 
@@ -2368,7 +2375,7 @@ Anhang 11.2
 
 ## Transportbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image14.png)
 
 Legende:
 
@@ -2421,7 +2428,7 @@ Die Bestimmungen dieses Anhangs gelten nicht für:
 - a. einen von blossem Auge lesbaren Teil mit dem Namen des Herstellers und einem alphanumerischen Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland, 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSE zugeteilt), einem eindeutigen Produktecode und logistischen Informationen des Herstellers;
 - b. eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht nach dem folgenden Beispiel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230901/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20240101/de/xml/image/image15.png)
 
 <sup>5</sup> Sind die Artikel zu klein für eine vollständige eindeutige Kennzeichnung nach Absatz 4, so genügen der alphanumerische Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSE zugeteilt) sowie eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht.
 
