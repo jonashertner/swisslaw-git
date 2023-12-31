@@ -4,13 +4,12 @@ number: "721.3"
 title: Ordonnance sur les notions et les méthodes de mesure dans le domaine de la construction
 short: ONMC
 language: fr
-version: 2019-07-01
-valid_until: 2023-12-31
-version_adopted: 2019-05-08
+version: 2024-01-01
+version_adopted: 2023-08-16
 adopted: 2011-05-25
 in_force: 2011-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.3"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1664/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2858/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1664/pdf_file"
 
 (ONMC)
 
-du 25.05.2011 (état au 01.07.2019)
+du 25.05.2011 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -296,11 +295,11 @@ arrête:
 
 **Délai transitoire pour les communes**
 
-<sup>1</sup> Les communes adaptent leur réglementation fondamentale en matière de construction aux dispositions de la présente ordonnance jusqu’au 31 décembre 2023.
+<sup>1</sup> Les communes adaptent leur réglementation fondamentale en matière de construction aux dispositions de la présente ordonnance jusqu’au 31 décembre 2028.
 
 <sup>2</sup> Les articles 93 à 98, alinéa 1 de l’ordonnance du 6 mars 1985 sur les constructions (OC)[^34-1] s’appliquent jusqu’à l’adaptation de la réglementation fondamentale conformément à l’alinéa 1. L’alinéa 3 est réservé.
 
-<sup>3</sup> A partir du 1<sup>er</sup> janvier 2024, les dispositions de la présente ordonnance s’appliquent aux communes qui n’ont pas adapté leur réglementation fondamentale dans le délai prévu à l’alinéa 1.
+<sup>3</sup> À partir du 1<sup>er</sup> janvier 2029, les dispositions de la présente ordonnance s’appliquent aux communes qui n’ont pas arrêté l'adaptation de leur réglementation fondamentale dans le délai prévu à l’alinéa 1.
 
 <sup>4</sup> L’article 26 s’applique à toutes les communes dès l’entrée en vigueur de la présente ordonnance.
 

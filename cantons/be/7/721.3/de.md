@@ -4,13 +4,12 @@ number: "721.3"
 title: Verordnung über die Begriffe und Messweisen im Bauwesen
 short: BMBV
 language: de
-version: 2019-07-01
-valid_until: 2023-12-31
-version_adopted: 2019-05-08
+version: 2024-01-01
+version_adopted: 2023-08-16
 adopted: 2011-05-25
 in_force: 2011-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.3"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1664/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2858/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1664/pdf_file"
 
 (BMBV)
 
-vom 25.05.2011 (Stand 01.07.2019)
+vom 25.05.2011 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -296,11 +295,11 @@ beschliesst:
 
 **Übergangsfrist für Gemeinden**
 
-<sup>1</sup> Die Gemeinden passen ihre baurechtliche Grundordnung bis zum 31. Dezember 2023 den Bestimmungen dieser Verordnung an.
+<sup>1</sup> Die Gemeinden passen ihre baurechtliche Grundordnung bis zum 31. Dezember 2028 den Bestimmungen dieser Verordnung an.
 
 <sup>2</sup> Bis zur Anpassung der baurechtlichen Grundordnung gemäss Absatz 1 finden die bisherigen Artikel 93 bis 98 Absatz 1 der Bauverordnung vom 6. März 1985 (BauV[^34-1]) Anwendung. Absatz 3 bleibt vorbehalten.
 
-<sup>3</sup> Für Gemeinden, die ihre baurechtliche Grundordnung nicht innert Frist gemäss Absatz 1 angepasst haben, gelten ab dem 1. Januar 2024 die Bestimmungen dieser Verordnung.
+<sup>3</sup> Für Gemeinden, welche die Anpassung ihrer baurechtlichen Grundordnung nicht innert Frist gemäss Absatz 1 beschlossen haben, gelten ab dem 1. Januar 2029 die Bestimmungen dieser Verordnung.
 
 <sup>4</sup> Artikel 26 gilt für alle Gemeinden ab Inkrafttreten dieser Verordnung.
 
