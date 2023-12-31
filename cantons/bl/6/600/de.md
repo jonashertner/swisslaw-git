@@ -4,13 +4,12 @@ number: "600"
 title: Gesetz über die Kulturförderung
 short: "Kulturförderungsgesetz, KFG BL"
 language: de
-version: 2016-01-01
-valid_until: 2023-12-31
-version_adopted: 2015-06-04
+version: 2024-01-01
+version_adopted: 2023-01-26
 adopted: 2015-06-04
 in_force: 2016-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/600"
-pdf: "https://bl.clex.ch/api/de/versions/3814/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3816/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3814/pdf_file"
 
 (Kulturförderungsgesetz, KFG BL)
 
-Vom 04.06.2015 (Stand 01.01.2016)
+Vom 04.06.2015 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -59,7 +58,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Der Kanton und die Gemeinden fördern die Kultur in ihrer ganzen Vielfalt und Breite.
 
-<sup>2</sup> Sie sorgen für Rahmenbedingungen, welche der Entfaltung kultureller Aktivitäten dienen und den öffentlichen Zugang zu diesen ermöglichen und erleichtern.
+<sup>2</sup> Sie sorgen für Rahmenbedingungen, welche der Entfaltung kultureller Aktivitäten dienen und den öffentlichen Zugang zu diesen barrierefrei ermöglichen bzw. erleichtern.
 
 <sup>3</sup> Sie achten die Freiheit der Kulturschaffenden und fördern den chancengleichen Zugang zur Kulturförderung.
 
@@ -76,6 +75,8 @@ beschliesst:[^ingress-2]
 <sup>4</sup> Er berücksichtigt dabei die kulturelle Vielfalt des Kantons Basel-Landschaft.
 
 <sup>5</sup> Er unterstützt öffentlich zugängliche, kulturelle Aktivitäten der Gemeinden durch Gewährung von Beiträgen im Rahmen der Bestimmungen dieses Gesetzes.
+
+<sup>6</sup> Er kann Vorhaben zur Stärkung der Teilhabe der Bevölkerung am kulturellen Leben unterstützen.
 
 #### § 5
 
@@ -96,8 +97,9 @@ beschliesst:[^ingress-2]
 - a. Berücksichtigung der inhaltlichen Bedeutung kultureller Aktivitäten für die Öffentlichkeit sowie der Erhaltung und Pflege des kulturellen Erbes;
 - b. Förderung der Vielfalt der kulturellen Aktivitäten unter Berücksichtigung der verschiedenen künstlerischen Sparten;
 - c. Förderung der Vermittlung von Kunst und Kultur und des kulturellen Austauschs;
-- d. Unterstützung und Förderung kultureller Aktivitäten an den Schulen und
-- e. Gewährleistung von geeigneten Strukturen und transparenten Verfahren.
+- d. Unterstützung und Förderung kultureller Aktivitäten an den Schulen;
+- e. Gewährleistung von geeigneten Strukturen und transparenten Verfahren;
+- f. Förderung der selbständigen kulturellen Betätigung und Abbau von Hindernissen zur Teilhabe am kulturellen Leben.
 
 #### § 7
 
