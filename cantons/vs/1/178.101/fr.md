@@ -4,13 +4,13 @@ number: "178.101"
 title: Règlement concernant la loi sur le notariat
 short: RLN
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-21
+version: 2024-01-01
+valid_until: 2025-08-31
+version_adopted: 2023-12-06
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/fr/versions/3142/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3252/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,15 +19,17 @@ pdf: "https://lex.vs.ch/api/fr/versions/3142/pdf_file"
 
 (RLN)
 
-du 07.09.2005 (état 01.01.2023)
+du 07.09.2005 (état 01.01.2024)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les articles 57 alinéa 1 de la Constitution cantonale et 88 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs;
+vu l' article 57 alinéa 1 de la Constitution cantonale;
 
-vu les articles 7 alinéa 4, 12 alinéa 7, 13 alinéas 4 et 5, 15 alinéa 2, 16 alinéas 2 et 3, 19 alinéa 2, 42 alinéa 4, 62 alinéa 4, 81 alinéa 7, 91 alinéa 3, 98, 101 alinéa 5, 104 alinéas 2 et 3 et 117 alinéa 2 de la loi sur le notariat du 15 décembre 2004;
+vu l'article 88 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 
-sur la proposition du Département des finances, des institutions et de la sécurité,
+vu les articles 7 alinéa 4, 12 alinéa 7, 13 alinéas 4 et 5, 15 alinéa 2, 16 alinéas 2 et 3, 19 alinéa 2, 23a alinéa 2, 42 alinéas 4 et 5, 62 alinéa 4, 81 alinéa 7, 91 alinéa 3, 98, 101 alinéa 5, 104 alinéas 2 et 3 et 117 alinéa 2 de la loi sur le notariat du 15 décembre 2004 (LN);
+
+sur la proposition du département en charge de la sécurité,
 
 arrête:
 
@@ -315,7 +317,7 @@ arrête:
 
 <sup>1</sup> La chancellerie d'Etat fournit à tout notaire ayant qualité d'officier public, aux frais de ce dernier, un unique sceau officiel qui doit accompagner sa signature sur tous les actes en brevet, sur les expéditions des actes en minute passés par lui, ainsi que sur les réquisitions qu'il est appelé à présenter en vertu de sa profession.
 
-<sup>2</sup> Le sceau porte l'écusson cantonal, le nom et le prénom du notaire, sa qualité et sa résidence.
+<sup>2</sup> Le sceau porte l'écusson cantonal, le nom et le prénom du notaire, sa qualité et sa résidence notariale.
 
 <sup>3</sup> Il est interdit au notaire d'employer le sceau à d'autres usages que ceux prévus par la loi.
 
@@ -331,7 +333,7 @@ arrête:
 
 **Sûretés**
 
-<sup>1</sup> Pour la réparation du préjudice non couvert par l'assurance responsabilité civile minimale, les sûretés, à concurrence de 200'000 francs au plus par sinistre, sont fournies par l'Association au nom de ses membres sous la forme d'une assurance cautionnement ou d'un cautionnement au sens des articles 492 et suivants du code des obligations. A cet effet, l'Association perçoit auprès de chacun de ses membres une cotisation annuelle conforme aux principes de la couverture des frais et de l'équivalence des prestations.
+<sup>1</sup> Pour la réparation du préjudice non couvert par l'assurance responsabilité civile minimale, les sûretés, à concurrence de 500'000 francs au plus par sinistre et par notaire, sont fournies par l'Association au nom de ses membres sous la forme d'une assurance cautionnement ou d'un cautionnement au sens des articles 492 et suivants du code des obligations. A cet effet, l'Association perçoit auprès de chacun de ses membres une cotisation annuelle conforme aux principes de la couverture des frais et de l'équivalence des prestations.
 
 <sup>2</sup> Par son adhésion à l'Association, le notaire satisfait à son obligation de fournir des sûretés au sens de l'article 19 alinéa 1 lettre b de la loi sur le notariat.
 
@@ -355,15 +357,29 @@ arrête:
 
 <sup>7</sup> L'acte reçu en l'étude secondaire doit être inscrit dans les répertoires de l'étude principale et selon les modalités prévues par la loi sur le notariat et le présent règlement.
 
-## 4 Comptabilité
+#### Art. 28a
+
+**Autres pièces et documents à fournir en cas d’exploitation d’une étude sous la forme d’une société de capitaux**
+
+<sup>1</sup> Sur demande du département, le notaire transmet notamment la convention d’actionnaires, le contrat d’associés et le contrat de cession de parts sociales.
+
+## 4 Comptabilité et contrôle restreint
 
 #### Art. 29
 
-<sup>1</sup> La comptabilité doit être tenue à jour régulièrement. Elle doit permettre de déterminer en tout temps le montant exact des avoirs appartenant à autrui que détient le notaire, ainsi que ses engagements d'ordre professionnel à l'égard de clients ou de tiers.
+**Comptabilité**
+
+<sup>1</sup> La comptabilité en la forme commerciale doit être tenue à jour régulièrement. Elle doit permettre de déterminer en tout temps le montant exact des avoirs appartenant à autrui que détient le notaire, ainsi que ses engagements d'ordre professionnel à l'égard de clients ou de tiers.
 
 <sup>2</sup> La comptabilité est conservée et tenue à jour à l'étude. Elle peut être tenue par système informatique.
 
 <sup>3</sup> Le notaire conservera, classés de manière appropriée et séparément, les pièces justificatives des comptes, les reçus concernant les papiers-valeurs, ainsi que les quittances ou récépissés séparés pour les montants en espèces versés.
+
+#### Art. 29a
+
+**Contrôle restreint**
+
+<sup>1</sup> Le contrôle restreint doit être établi selon la norme suisse relative au contrôle restreint (NCR) conformément à l'article 42 alinéa 5 de la loi sur le notariat.
 
 ## 5 Surveillance administrative
 
@@ -427,9 +443,13 @@ Le notaire dit au déclarant: "Vous jurez (ou vous promettez) que la déclaratio
 
 #### Art. 37
 
-**Instrumentation à distance**
+**…**
 
-<sup>1</sup> L'instrumentation à distance est traitée dans un règlement spécial du Conseil d'Etat, soumis à l'approbation du Département fédéral de justice et police. Dans l'intervalle, le notaire ne peut procéder à une instrumentation à distance.
+#### Art. 37a
+
+**Procès-verbaux d'assemblée générale ou de conseil d'administration**
+
+<sup>1</sup> Les procès-verbaux d'assemblée générale ou de conseil d'administration peuvent être valablement instrumentés à distance selon le droit fédéral en la matière.
 
 #### Art. 38
 
@@ -481,15 +501,15 @@ Le notaire dit au déclarant: "Vous jurez (ou vous promettez) que la déclaratio
 
 <sup>4</sup> Les minutes, testaments olographes ou autres documents confiés faisant l'objet d'un acte en dépôt, les copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes, de même que les répertoires sont conservés par le notaire à l'abri de toute détérioration, du vol et de l'indiscrétion.
 
-<sup>5</sup> Lors de la cessation des fonctions, le notaire doit, dans les 60 jours, remettre à l'inspecteur les répertoires, les actes et les documents mentionnés à l'article 26 alinéa 2 de la loi sur le notariat.
+<sup>5</sup> Lors de la cessation des fonctions, le notaire doit, dans les 60 jours, remettre aux Archives de l'Etat du Valais sous la supervision de l'inspecteur les répertoires, les actes et les documents mentionnés à l'article 26 alinéa 2 de la loi sur le notariat.
 
 #### Art. 43
 
 **Archives**
 
-<sup>1</sup> Lors de la cessation des fonctions du notaire, le conservateur du registre foncier est responsable de l'archivage des répertoires, minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes.
+<sup>1</sup> Lors de la cessation des fonctions du notaire, l'archiviste cantonal sous la supervision du conservateur du registre foncier sont responsables de l'archivage des répertoires, minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes.
 
-<sup>2</sup> Il établit les authentifications de copies.
+<sup>2</sup> Il établit, sous la supervision du conservateur du registre foncier, les authentifications de copies.
 
 <sup>3</sup> Si une minute déposée aux archives doit être déposée en justice, ou si un testateur veut retirer un testament, il est procédé conformément à l'article 105 de la loi sur le notariat.
 
@@ -527,7 +547,7 @@ Le notaire dit au déclarant: "Vous jurez (ou vous promettez) que la déclaratio
 
 - a) les nom, prénom, filiation, date de naissance, origine et domicile du testateur, et, si celui-ci est étranger, son lieu de naissance;
 - b) la date de l'instrumentation ou du dépôt, ainsi que le numéro du répertoire;
-- c) le nom du notaire et sa résidence.
+- c) le nom du notaire et sa résidence notariale.
 
 #### Art. 47
 
@@ -586,5 +606,11 @@ Le notaire dit au déclarant: "Vous jurez (ou vous promettez) que la déclaratio
 #### Art. T2-1
 
 <sup>1</sup> Les notaires qui, au 1<sup>er</sup> janvier 2022, forment des stagiaires, peuvent en achever la formation même s’ils ne remplissent pas la condition prévue par l'article 2 alinéa 1<sup>bis</sup> relative à la durée de pratique.
+
+## T3 Disposition transitoire de la modification du 6 décembre 2023
+
+#### Art. T3-1
+
+<sup>1</sup> Les faits qui se sont produits avant l’entrée en vigueur de la modification du montant des sûretés mentionnées à l’article 27 alinéa 1 du règlement sont régis par l’ancien droit.
 
 RCV BO/Abl. 46/2005

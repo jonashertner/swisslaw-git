@@ -4,13 +4,13 @@ number: "178.101"
 title: Reglement betreffend das Notariatsgesetz
 short: RNG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-21
+version: 2024-01-01
+valid_until: 2025-08-31
+version_adopted: 2023-12-06
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/de/versions/3142/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3252/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +19,17 @@ pdf: "https://lex.vs.ch/api/de/versions/3142/pdf_file"
 
 (RNG)
 
-vom 07.09.2005 (Stand 01.01.2023)
+vom 07.09.2005 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 57 Absatz 1 der Verfassung des Kantons Wallis und Artikel 88 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten;
+eingesehen den Artikel 57 Absatz 1 der Kantonsverfassung;
 
-eingesehen die Artikel 7 Absatz 4, 12 Absatz 7, 13 Absätze 4 und 5, 15 Absatz 2, 16 Absätze 2 und 3, 19 Absatz 2, 42 Absatz 4, 62 Absatz 4, 81 Absatz 7, 91 Absatz 3, 98, 101 Absatz 5, 104 Absätze 2 und 3 und 117 Absatz 2 des Notariatsgesetzes vom 15. Dezember 2004;
+eingesehen Artikel 88 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996 (GORBG);
 
-auf Antrag des Departements für Finanzen, Institutionen und Sicherheit,
+eingesehen die Artikel 7 Absatz 4, 12 Absatz 7, 13 Absätze 4 und 5, 15 Absatz 2, 16 Absätze 2 und 3, 19 Absatz 2, 23a Absatz 2, 42 Absätze 4 und 5, 62 Absatz 4, 81 Absatz 7, 91 Absatz 3, 98, 101 Absatz 5, 104 Absätze 2 und 3 und 117 Absatz 2 des Notariatsgesetzes vom 15. Dezember 2004 (NG);
+
+auf Antrag des für die Sicherheit zuständigen Departements,
 
 beschliesst:
 
@@ -315,7 +317,7 @@ beschliesst:
 
 <sup>1</sup> Jeder Notar, welcher das Statut einer Amtsperson inne hat, erhält von der Staatskanzlei auf seine Kosten ein Siegel, das auf allen Urschriften, die den Beteiligten ausgehändigt werden und auf allen Ausfertigungen von Urschriften, sowie auf allen Anmeldungen, die er auf Grund seines Berufes vornehmen muss neben seiner Unterschrift anzubringen ist.
 
-<sup>2</sup> Das Siegel trägt das Kantonswappen, den Namen und Vornamen des Notars, die Bezeichnung ''Notar'' und den Wohnort.
+<sup>2</sup> Das Siegel trägt das Kantonswappen, den Namen und Vornamen des Notars, die Bezeichnung ''Notar'' und den Sitz der Notariatskanzlei.
 
 <sup>3</sup> Es ist dem Notar verboten, das Siegel zu andern Zwecken zu gebrauchen.
 
@@ -331,7 +333,7 @@ beschliesst:
 
 **Sicherheiten**
 
-<sup>1</sup> Für den durch die Berufshaftpflichtversicherung nicht gedeckten Schaden erbringt der Verband im Namen seiner Mitglieder bis zum Betrag von höchstens 200'000 Franken pro Schadenfall Sicherheiten in Form einer Kautionsversicherung oder einer Bürgschaft im Sinne vom Artikel 492 folgende des Schweizerischen Obligationenrechts. Zu diesem Zweck erhebt der Verband von seinen Mitgliedern einen jährlichen Beitrag gemäss dem Kostendeckungs- und Äquivalenzprinzip.
+<sup>1</sup> Für den durch die Berufshaftpflichtversicherung nicht gedeckten Schaden erbringt der Verband im Namen seiner Mitglieder bis zum Betrag von höchstens 500'000 Franken pro Schadenfall und pro Notar Sicherheiten in Form einer Kautionsversicherung oder einer Bürgschaft im Sinne vom Artikel 492 folgende des Schweizerischen Obligationenrechts. Zu diesem Zweck erhebt der Verband von seinen Mitgliedern einen jährlichen Beitrag gemäss dem Kostendeckungs- und Äquivalenzprinzip.
 
 <sup>2</sup> Mit seinem Beitritt zum Verband erfüllt der Notar seine Pflicht eine Sicherheit im Sinne von Artikel 19 Absatz 1 Buchstabe b des Notariatsgesetz zu leisten.
 
@@ -355,15 +357,29 @@ beschliesst:
 
 <sup>7</sup> Der am Zweitsitz beurkundete Akt muss in den Registern am Hauptsitz und gemäss den im Notariatsgesetz und vorliegenden Reglement vorgesehenen Modalitäten eingetragen werden.
 
-## 4 Buchführung
+#### Art. 28a
+
+**Weitere zweckdienliche Unterlagen und Dokumente, wenn die Kanzlei in Form einer Kapitalgesellschaft betrieben ist**
+
+<sup>1</sup> Auf Verlangen des Departementes hat der Notar unter anderem den Aktionärsbindungsvertrag, den Gesellschaftervertrag und den Abtretungsvertrag über die Gesellschaftsanteile vorzulegen.
+
+## 4 Buchführung und eingeschränkte Revision
 
 #### Art. 29
 
-<sup>1</sup> Die Buchhaltung muss laufend aktualisiert werden. Sie muss jederzeit Auskunft über den genauen Betrag der Guthaben Dritter, die im Besitz des Notars sind, sowie den beruflichen Verpflichtungen gegenüber seinen Klienten oder Dritten geben.
+**Buchhaltung**
+
+<sup>1</sup> Die Buchführung in kaufmännischer Form muss laufend aktualisiert werden. Sie muss jederzeit Auskunft über den genauen Betrag der Guthaben Dritter, die vom Notar verwahrt werden, sowie den beruflichen Verpflichtungen gegenüber seinen Klienten oder Dritten geben.
 
 <sup>2</sup> Die Buchhaltung wird in der Kanzlei aufbewahrt und aktualisiert. Sie kann mittels EDV erfasst werden.
 
 <sup>3</sup> Der Notar bewahrt die Buchhaltungsbelege, die Quittungen der Wertpapiere sowie die Quittungen oder den Zahlungsbeleg der in Bar überwiesenen Beträge geeignet und getrennt klassiert auf.
+
+#### Art. 29a
+
+**Eingeschränkte Revision**
+
+<sup>1</sup> Die eingeschränkte Revision muss nach dem Schweizer Standard zur eingeschränkten Revision (SER) gemäss Artikel 42 Absatz 5 des Notariatsgesetzes durchgeführt werden.
 
 ## 5 Verwaltungsaufsicht
 
@@ -427,9 +443,13 @@ Der Notar sagt dem Erklärenden: "Schwören Sie (Versprechen Sie), dass die von 
 
 #### Art. 37
 
-**Fernbeurkundung**
+**…**
 
-<sup>1</sup> Die Fernbeurkundung wird in einem besonderen Reglement des Staatsrates geregelt und zur Genehmigung dem eidgenössischen Justiz- und Polizeidepartement unterbreitet. In der Zwischenzeit kann der Notar keine Fernbeurkundungen vornehmen.
+#### Art. 37a
+
+**Protokolle einer Generalversammlung oder einer Verwaltungsratssitzung**
+
+<sup>1</sup> Nach dem einschlägigen Bundesrecht kann das Protokoll einer Generalversammlung oder einer Verwaltungsratssitzung gültig durch eine Fernbeurkundung rechtsgültig öffentlich errichtet werden.
 
 #### Art. 38
 
@@ -473,23 +493,23 @@ Der Notar sagt dem Erklärenden: "Schwören Sie (Versprechen Sie), dass die von 
 
 **Art der Aufbewahrung der Urkunden**
 
-<sup>1</sup> Unter Vorbehalt von Absatz 2 müssen die Urschriften und die Kopien der im Original ausgehändigten Urkunden nicht gebunden, aber in Archivkästen chronologisch klassiert werden.
+<sup>1</sup> Unter Vorbehalt von Absatz 2 müssen die Urschriften und die Kopien der im Original ausgehändigten Urkunden nicht gebunden, aber in Archivschachteln chronologisch klassiert werden.
 
-<sup>2</sup> Die Testamente und die Erbverträge sind gesondert in Archivkästen chronologisch zu klassieren.
+<sup>2</sup> Die Testamente und die Erbverträge sind gesondert in Archivschachteln chronologisch zu klassieren.
 
-<sup>3</sup> Auf jedem Archivkasten werden die darin enthaltenen Nummern der Verzeichnisse und der Urkunden angegeben.
+<sup>3</sup> Auf jeder Archivschachtel werden die darin enthaltenen Nummern der Verzeichnisse und der Urkunden angegeben.
 
 <sup>4</sup> Die Urkunden, handschriftlichen Testamente oder andere anvertrauten Dokumente müssen aufbewahrt werden. Die Kopien der im Original ausgehändigten Urkunden, alle in diesen Urkunden erwähnten Belege sowie die Verzeichnisse werden vom Notar gegen Beschädigungen, Diebstahl und Indiskretion geschützt.
 
-<sup>5</sup> Bei Beendigung der Berufsausübung muss der Notar innert 60 Tagen dem Inspektor die Verzeichnisse, die Urkunden und die in Artikel 26 Absatz 2 des Notariatsgesetz erwähnten Dokumente aushändigen.
+<sup>5</sup> Bei Beendigung der Berufsausübung muss der Notar innert 60 Tagen dem Staatsarchiv Wallis unter der Aufsicht des Inspektors die Verzeichnisse, die Urkunden und die in Artikel 26 Absatz 2 des Notariatsgesetzes erwähnten Dokumente aushändigen.
 
 #### Art. 43
 
 **Archive**
 
-<sup>1</sup> Bei Beendigung der Berufsausübung des Notars ist der Grundbuchführer für die Archivierung der Verzeichnisse, der Urschriften, der handschriftlichen Testamente, der anderen anvertrauten Dokumente, der Kopien der im Original ausgehändigten Urkunden sowie allen in diesen Urkunden erwähnten Belegen verantwortlich.
+<sup>1</sup> Bei Beendigung der Berufsausübung des Notars ist der Kantonsarchivar unter der Aufsicht des Grundbuchverwalters für die Archivierung der Verzeichnisse, der Urschriften, der handschriftlichen Testamente, der anderen anvertrauten Dokumente, der Kopien der im Original ausgehändigten Urkunden sowie allen in diesen Urkunden erwähnten Belegen verantwortlich.
 
-<sup>2</sup> Er beglaubigt die Kopien.
+<sup>2</sup> Er beglaubigt die Kopien unter der Aufsicht des Grundbuchverwalters.
 
 <sup>3</sup> Wenn eine im Archiv hinterlegte Urschrift bei Gericht hinterlegt werden muss, oder wenn ein Testator sein Testament zurückverlangt, ist gemäss Artikel 105 des Notariatsgesetzes vorzugehen.
 
@@ -527,7 +547,7 @@ Der Notar sagt dem Erklärenden: "Schwören Sie (Versprechen Sie), dass die von 
 
 - a) den Namen, Vornamen, Abstammung, Geburtsdatum, Heimatort und Adresse des Testators, und wenn es sich um einen Ausländer handelt den Geburtsort;
 - b) das Datum der Beurkundung oder der Hinterlegung sowie die Nummer des Verzeichnisses;
-- c) der Namen und den Wohnsitz des Notars.
+- c) den Namen und den Sitz der Notariatskanzlei.
 
 #### Art. 47
 
@@ -586,5 +606,11 @@ Der Notar sagt dem Erklärenden: "Schwören Sie (Versprechen Sie), dass die von 
 #### Art. T2-1
 
 <sup>1</sup> Notare, die am 1. Januar 2022 Praktikanten ausbilden, können dies bis zu deren Abschluss des Praktikums tun, auch wenn sie die in Artikel 2 Absatz 1<sup>bis</sup> genannte Voraussetzung der Berufserfahrung nicht erfüllen.
+
+## T3 Übergangsbestimmung der Änderung vom 6. Dezember 2023
+
+#### Art. T3-1
+
+<sup>1</sup> Für Sachverhalte, die sich vor Inkrafttreten der Änderung der Höhe der in Artikel 27 Absatz 1 des Reglements genannten Sicherheiten ereignet haben, gilt das alte Recht.
 
 CSW BO/Abl. 46/2005
