@@ -4,13 +4,12 @@ number: IX D/4/1
 title: Verordnung über die landwirtschaftlichen Strukturverbesserungen und die sozialen Begleitmassnahmen
 short: Strukturverbesserungsverordnung; kant. SVV
 language: de
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-12-16
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-D.4.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1735/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2465/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +18,13 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1735/pdf_file"
 
 (Strukturverbesserungsverordnung; kant. SVV)
 
-Vom 16.12.2014 (Stand 01.01.2015)
+Vom 16.12.2014 (Stand 01.01.2024)
+
+Der Regierungsrat,
 
 gestützt auf Artikel 2 Absatz 2 Buchstabe h und Artikel 13 Absatz 2 des Einführungsgesetzes zu den Bundesgesetzen über die Landwirtschaft, über das bäuerliche Bodenrecht und über die landwirtschaftliche Pacht (EG LwG)[^ingress-1],
+
+erlässt:
 
 [^ingress-1]: GS [IX D/1/1](https://gesetze.gl.ch/data/IX-D.1.1/de)
 
@@ -111,7 +114,9 @@ gestützt auf Artikel 2 Absatz 2 Buchstabe h und Artikel 13 Absatz 2 des Einfüh
 <sup>1</sup> Die Mindesthöhe wird festgesetzt:
 
 - a. bei Strukturverbesserungsbeiträgen für natürliche Personen auf 8000 Franken und für juristische Personen auf 12'000 Franken;
-- b. bei Investitonskrediten für einzelbetriebliche Massnahmen auf 20'000 Franken und für gemeinschaftliche Massnahmen auf 30'000 Franken.
+- b. bei Investitionskrediten für einzelbetriebliche Massnahmen auf 20'000 Franken und für gemeinschaftliche Massnahmen auf 30'000 Franken.
+
+<sup>2</sup> Die Mindesthöhe gilt nicht für Finanzhilfen für mobile Hirtenunterkünfte für den Herdenschutz.
 
 #### Art. 9
 
