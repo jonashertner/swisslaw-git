@@ -3,11 +3,11 @@ sr: "632.319"
 title: "Ordonnance du 27 juin 1995 sur les droits de douane applicables aux marchandises dans le trafic avec les États partenaires de libre-échange (excepté les États membres de l'UE et de l'AELE) (Ordonnance sur le libre-échange 2)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1995-06-27
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20220101/fr"
 
 (Ordonnance sur le libre-échange 2)[^t-1]
 
-du 27 juin 1995 (État le 1<sup>er</sup> janvier 2022)
+du 27 juin 1995 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon l’art. 8 de l’O du 18 juin 2008 sur le libre-échange 1, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)).
 
@@ -248,7 +248,7 @@ Annexe 2[^t-3]
 
 ## Droits de douane à l’importation: marchandises, taux et pays bénéficiaires
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 24 sept. 2021 ([RO 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)). Mise à jour par le ch. I de l’O du 2 déc. 2022 ([RO 2023 37](https://fedlex.data.admin.ch/eli/oc/2023/37)) et l’annexe 3 ch. 9 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 24 sept. 2021 ([RO 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)). Mise à jour par le ch. I de l’O du 2 déc. 2022 ([RO 2023 37](https://fedlex.data.admin.ch/eli/oc/2023/37)), l’annexe 3 ch. 9 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) et l’annexe 2 ch. II 4 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th colspan="2">N<sup>o</sup> du tarif</th><th colspan="2">Taux préférentiel</th><th>Pays bénéficiaires (code ISO 2 ou sigle)</th><th>Contingents tarifaires; dispositions particulières</th></tr>
@@ -3162,11 +3162,11 @@ Annexe 2[^t-3]
 <tr><td></td><td>9190</td><td>7.30</td><td></td><td>IL, JO, JP, MA, TN</td><td></td></tr>
 <tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9200/9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2501.</td><td>0010/ 2904.9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>2501.</td><td>0000/ 2904.9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>2905.</td><td>1110/4200</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>4300/4500</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td>4910/5990</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2906.</td><td>1110/ 3215.9090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>4900/5900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>2906.</td><td>1100/ 3215.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3301.</td><td>1200/ 3302.1000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3302.</td><td>9000/ 3407.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3501.</td><td>1010</td><td>exempt</td><td></td><td>GE, ID, JP, SACU</td><td></td></tr>
@@ -3196,10 +3196,10 @@ Annexe 2[^t-3]
 <tr><td>3505.</td><td>1010</td><td>exempt</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>1090</td><td>exempt</td><td></td><td>CN, CO, EC, FO, GE, ID, JO, JP, LB, MA, MK, PE, SACU, TN</td><td></td></tr>
 <tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3506.</td><td>1000/9180</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3506.</td><td>1000/9100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>9910</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9990</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3507.</td><td>1010/ 3808.9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3507.</td><td>1000/ 3808.9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3809.</td><td>1010</td><td></td><td>4.50</td><td>FO, MA</td><td></td></tr>
 <tr><td></td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>9100/9300</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
@@ -3221,16 +3221,16 @@ Annexe 2[^t-3]
 <tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3826.</td><td>0010/ 3827.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3901.</td><td>1000/ 4017.0090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3901.</td><td>1000/ 4017.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>4101.</td><td>2000/ 4103.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4104.</td><td>1100/ 4206.0090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4104.</td><td>1100/ 4206.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>4301.</td><td>1000/9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4302.</td><td>1100/ 4911.9990</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4302.</td><td>1100/ 4911.9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5001.</td><td>0000/ 5003.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5004.</td><td>0010/ 5007.9030</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5004.</td><td>0000/ 5007.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5101.</td><td>1100/ 5103.3000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5104.</td><td>0000/ 5113.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5201.</td><td>0010/ 5203.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5201.</td><td>0000/ 5203.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5204.</td><td>1100/ 5212.2500</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5301.</td><td>1000/ 5302.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5303.</td><td>1000/ 9706.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
@@ -3325,7 +3325,7 @@ Annexe 4[^t-5]
 
 ## Droits de douane à l’importation pour le Lesotho: marchandises et taux
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du 11 juin 2010 ([RO 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)). Mise à jour par l’annexe 3 ch. 9 des O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) et du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du 11 juin 2010 ([RO 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)). Mise à jour par l’annexe 3 ch. 9 des O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) et du 30 juin 2021 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) et l’annexe 2 ch. II 4 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th>N° du tarif</th><th>Taux préférentiel</th><th>Dispositions particulières</th></tr>
@@ -3342,7 +3342,7 @@ Annexe 4[^t-5]
 <tr><td>2302.10 10/ 2309.90 30</td><td>exempt</td><td></td></tr>
 <tr><td>2309.90 81/ 2404.99 00</td><td>exempt</td><td></td></tr>
 <tr><td>2905.43 00/44 00</td><td>exempt</td><td></td></tr>
-<tr><td>3301.12 00/90 90</td><td>exempt</td><td></td></tr>
+<tr><td>3301.12 00/90 00</td><td>exempt</td><td></td></tr>
 <tr><td>3501.10 10/ 3505.20 90</td><td>exempt</td><td></td></tr>
 <tr><td>3809.10 10/10 90</td><td>exempt</td><td></td></tr>
 <tr><td>3823.11 10</td><td>exempt</td><td></td></tr>
@@ -3353,7 +3353,7 @@ Annexe 4[^t-5]
 <tr><td>4301.10 00/90 00</td><td>exempt</td><td></td></tr>
 <tr><td>5001.00 00/ 5003.00 00</td><td>exempt</td><td></td></tr>
 <tr><td>5101.11 00/ 5103.30 00</td><td>exempt</td><td></td></tr>
-<tr><td>5201.00 10/ 5203.00 00</td><td>exempt</td><td></td></tr>
+<tr><td>5201.00 00/ 5203.00 00</td><td>exempt</td><td></td></tr>
 <tr><td>5301.10 00/ 5302.90 00</td><td>exempt</td><td></td></tr>
 </table>
 

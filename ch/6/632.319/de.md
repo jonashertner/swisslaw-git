@@ -3,11 +3,11 @@ sr: "632.319"
 title: Verordnung vom 27. Juni 1995 über die Zollansätze für Waren im Verkehr mit Freihandelspartnern (ausgenommen EU- und EFTA-Mitgliedstaaten) (Freihandelsverordnung 2)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1995-06-27
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20220101/de"
 
 (Freihandelsverordnung 2)[^t-1]
 
-vom 27. Juni 1995 (Stand am 1. Januar 2022)
+vom 27. Juni 1995 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Art. 8 der Freihandelsverordnung 1 vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)).
 
@@ -154,7 +154,7 @@ Anhang 1[^t-2]
 - 5\. Interimsabkommen vom 30. November 1998[^annex1-lvlu1-8] zwischen den EFTA-Staaten und der PLO, handelnd zu Gunsten der Palästinensischen Behörde (Art. 3–7) sowie Vereinbarung in Form eines Briefwechsels vom 30. November 1998[^annex1-lvlu1-9] zwischen der Schweizerischen Eidgenossenschaft und der Palästinensischen Behörde über Abmachungen im Agrarbereich,
 - 6\. Abkommen vom 19. Juni 2000[^annex1-lvlu1-10] zwischen den EFTA-Staaten und der Republik Mazedonien (Art. 3–7) sowie Vereinbarung in Form eines Briefwechsels vom 19. Juni 2000[^annex1-lvlu1-11] zwischen der Schweizerischen Eidgenossenschaft und der Republik Mazedonien über Abmachungen im Agrarbereich,
 - 7\. Freihandelsabkommen vom 27. November 2000[^annex1-lvlu1-12] zwischen den EFTA-Staaten und den Vereinigten Mexikanischen Staaten (Art. 3–7) sowie Landwirtschaftsabkommen vom 27. November 2000[^annex1-lvlu1-13] zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Mexikanischen Staaten,
-- 8\. …
+- 8\. ...
 - 9\. Freihandelsabkommen vom 21. Juni 2001[^annex1-lvlu1-14] zwischen den EFTA-Staaten und dem Haschemitischen Königreich Jordanien (Art. 4–8) sowie Vereinbarung in Form eines Briefwechsels vom 21. Juni 2001[^annex1-lvlu1-15] zwischen der Schweizerischen Eidgenossenschaft und dem Haschemitischen Königreich Jordanien über den Handel mit Agrarprodukten,
 - 10\. Freihandelsabkommen vom 26. Juni 2002[^annex1-lvlu1-16] zwischen den EFTA-Staaten und der Republik Singapur (Art. 3–11) sowie Landwirtschaftsabkommen vom 26. Juni 2002[^annex1-lvlu1-17] zwischen der Schweizerischen Eidgenossenschaft und der Republik Singapur,
 - 11\. Freihandelsabkommen vom 26. Juni 2003[^annex1-lvlu1-18] zwischen den EFTA-Staaten und der Republik Chile (Art. 4–15) sowie Zusatzabkommen vom 26. Juni 2003[^annex1-lvlu1-19] über den Handel mit landwirtschaftlichen Erzeugnissen zwischen der Schweizerischen Eidgenossenschaft und der Republik Chile,
@@ -247,7 +247,7 @@ Anhang 2[^t-3]
 
 ## Einfuhrzölle: Waren, Zollansätze und begünstigte Länder
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 vom 24. Sept. 2021 ([AS 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)). Bereinigt gemäss Ziff. I der V vom 2. Dez. 2022 ([AS 2023 37](https://fedlex.data.admin.ch/eli/oc/2023/37)) und Anhang 3 Ziff. 9 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 vom 24. Sept. 2021 ([AS 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)). Bereinigt gemäss Ziff. I der V vom 2. Dez. 2022 ([AS 2023 37](https://fedlex.data.admin.ch/eli/oc/2023/37)), Anhang 3 Ziff. 9 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) und Anhang 2 Ziff. II 4 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th colspan="2">Tarif-Nr.</th><th colspan="2">Präferenz-Zollansatz</th><th>Begünstigte Länder (ISO 2-Code bzw. Abkürzung)</th><th colspan="3">Zollkontingente; besondere Bestimmungen</th></tr>
@@ -3161,11 +3161,11 @@ Anhang 2[^t-3]
 <tr><td></td><td>9190</td><td>7.30</td><td></td><td colspan="2">IL, JO, JP, MA, TN</td><td></td></tr>
 <tr><td></td><td></td><td>frei</td><td></td><td colspan="2">AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9200/9900</td><td>frei</td><td></td><td colspan="2">AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2501.</td><td>0010/ 2904.9900</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>2501.</td><td>0000/ 2904.9900</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>2905.</td><td>1110/4200</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td></td><td>4300/4500</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td></td><td>4910/5990</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td>2906.</td><td>1110/ 3215.9090</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td></td><td>4900/5900</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>2906.</td><td>1100/ 3215.9000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>3301.</td><td>1200/ 3302.1000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>3302.</td><td>9000/ 3407.0000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>3501.</td><td>1010</td><td>frei</td><td></td><td>GE, ID, JP, SACU</td><td colspan="3"></td></tr>
@@ -3195,10 +3195,10 @@ Anhang 2[^t-3]
 <tr><td>3505.</td><td>1010</td><td>frei</td><td></td><td>ID</td><td colspan="3"></td></tr>
 <tr><td></td><td>1090</td><td>frei</td><td></td><td>CN, CO, EC, FO, GE, ID, JO, JP, LB, MA, MK, PE, SACU, TN</td><td colspan="3"></td></tr>
 <tr><td></td><td>2090</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td>3506.</td><td>1000/9180</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>3506.</td><td>1000/9100</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td></td><td>9910</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td colspan="3"></td></tr>
 <tr><td></td><td>9990</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td>3507.</td><td>1010/ 3808.9900</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>3507.</td><td>1000/ 3808.9900</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>3809.</td><td>1010</td><td></td><td>4.50</td><td>FO, MA</td><td colspan="3"></td></tr>
 <tr><td></td><td>1090</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td></td><td>9100/9300</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
@@ -3220,16 +3220,16 @@ Anhang 2[^t-3]
 <tr><td></td><td>9010</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td colspan="3"></td></tr>
 <tr><td></td><td>9090</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>3826.</td><td>0010/ 3827.9000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td>3901.</td><td>1000/ 4017.0090</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>3901.</td><td>1000/ 4017.0000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>4101.</td><td>2000/ 4103.9000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td>4104.</td><td>1100/ 4206.0090</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>4104.</td><td>1100/ 4206.0000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>4301.</td><td>1000/9000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td>4302.</td><td>1100/ 4911.9990</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>4302.</td><td>1100/ 4911.9900</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>5001.</td><td>0000/ 5003.0000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td>5004.</td><td>0010/ 5007.9030</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>5004.</td><td>0000/ 5007.9000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>5101.</td><td>1100/ 5103.3000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>5104.</td><td>0000/ 5113.0000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
-<tr><td>5201.</td><td>0010/ 5203.0000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
+<tr><td>5201.</td><td>0000/ 5203.0000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>5204.</td><td>1100/ 5212.2500</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>5301.</td><td>1000/ 5302.9000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
 <tr><td>5303.</td><td>1000/ 9706.9000</td><td>frei</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td colspan="3"></td></tr>
@@ -3324,7 +3324,7 @@ Anhang 4[^t-5]
 
 ## Einfuhrzölle für Lesotho: Waren und Zollansätze
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 11. Juni 2010 ([AS 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)). Bereinigt gemäss Anhang 3 Ziff. 9 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) und Anhang 3 Ziff. 9 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 11. Juni 2010 ([AS 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)). Bereinigt gemäss Anhang 3 Ziff. 9 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Anhang 3 Ziff. 9 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) und Anhang 2 Ziff. II 4 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th>Tarif-Nr.</th><th></th><th>Präferenz-Zollansatz</th><th>Besondere Bestimmungen</th></tr>
@@ -3349,7 +3349,7 @@ Anhang 4[^t-5]
 <tr><td>2309.</td><td>90 81/</td><td>frei</td><td></td></tr>
 <tr><td></td><td>2404.99 00</td><td></td><td></td></tr>
 <tr><td>2905.</td><td>43 00/44 00</td><td>frei</td><td></td></tr>
-<tr><td>3301.</td><td>12 00/90 90</td><td>frei</td><td></td></tr>
+<tr><td>3301.</td><td>12 00/90 00</td><td>frei</td><td></td></tr>
 <tr><td>3501.</td><td>10 10/</td><td>frei</td><td></td></tr>
 <tr><td></td><td>3505.20 90</td><td></td><td></td></tr>
 <tr><td>3809.</td><td>10 10/10 90</td><td>frei</td><td></td></tr>
@@ -3364,7 +3364,7 @@ Anhang 4[^t-5]
 <tr><td></td><td>5003.00 00</td><td></td><td></td></tr>
 <tr><td>5101.</td><td>11 00/</td><td>frei</td><td></td></tr>
 <tr><td></td><td>5103.30 00</td><td></td><td></td></tr>
-<tr><td>5201.</td><td>00 10/</td><td>frei</td><td></td></tr>
+<tr><td>5201.</td><td>00 00/</td><td>frei</td><td></td></tr>
 <tr><td></td><td>5203.00 00</td><td></td><td></td></tr>
 <tr><td>5301.</td><td>10 00/</td><td>frei</td><td></td></tr>
 <tr><td></td><td>5302.90 00</td><td></td><td></td></tr>

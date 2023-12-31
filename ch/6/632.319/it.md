@@ -3,11 +3,11 @@ sr: "632.319"
 title: "Ordinanza del 27 giugno 1995 sulle aliquote di dazio per le merci nel traffico con partner di libero scambio (esclusi gli Stati membri dell'UE e dell'AELS) (Ordinanza sul libero scambio 2)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1995-06-27
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20220101/it"
 
 (Ordinanza sul libero scambio 2)[^t-1]
 
-del 27 giugno 1995 (Stato 1° gennaio 2022)
+del 27 giugno 1995 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta l’art. 8 dell’O del 18 giu. 2008 sul libero scambio 1, in vigore dal 1° ago. 2008 ([RU 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)).
 
@@ -123,7 +123,7 @@ Sono abrogate le seguenti ordinanze:
 - h. ordinanza del 12 novembre 1993[^6-8] sulle aliquote di dazio per le merci nel traffico con la Polonia;
 - i. ordinanza del 14 marzo 1994[^6-9] sulle aliquote di dazio per le merci nel traffico con le Isole Färöer
 
-[^6-1]: [[RU 1992 823](https://fedlex.data.admin.ch/eli/oc/1992/823_823_823)[1315](https://fedlex.data.admin.ch/eli/oc/1992/1315_1315_1315)art. 5 n. 3, [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 5]
+[^6-1]: [[RU 1992 823](https://fedlex.data.admin.ch/eli/oc/1992/823_823_823), [1315](https://fedlex.data.admin.ch/eli/oc/1992/1315_1315_1315)art. 5 n. 3; [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 5]
 [^6-2]: [[RU 1992 1315](https://fedlex.data.admin.ch/eli/oc/1992/1315_1315_1315), [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 7]
 [^6-3]: [[RU 1993 18](https://fedlex.data.admin.ch/eli/oc/1993/18_18_18), [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 6]
 [^6-4]: [[RU 1993 1319](https://fedlex.data.admin.ch/eli/oc/1993/1319_1319_1319), [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 7, [1995 1466](https://fedlex.data.admin.ch/eli/oc/1995/1466_1466_1466)]
@@ -186,7 +186,7 @@ Allegato 1[^t-2]
 [^annex1-lvlu1-1]: [RS 0.632.317.631](https://fedlex.data.admin.ch/eli/cc/2021/559)
 [^annex1-lvlu1-2]: [RS 0.632.317.631.1](https://fedlex.data.admin.ch/eli/cc/2021/560)
 [^annex1-lvlu1-3]: [RS 0.632.314.491](https://fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477)
-[^annex1-lvlu1-4]: [RS 0.632.314.491.1](https://fedlex.data.admin.ch/eli/cc/2021/435); [RU 2021 435](https://fedlex.data.admin.ch/eli/oc/2021/435)
+[^annex1-lvlu1-4]: [RS 0.632.314.491.1](https://fedlex.data.admin.ch/eli/cc/2021/435)
 [^annex1-lvlu1-5]: [RS 0.946.293.142](https://fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925)
 [^annex1-lvlu1-6]: [RS 0.632.315.491](https://fedlex.data.admin.ch/eli/cc/2003/433)
 [^annex1-lvlu1-7]: [RS 0.632.315.491.1](https://fedlex.data.admin.ch/eli/cc/2003/433-2)
@@ -240,7 +240,7 @@ Allegato 1[^t-2]
 [^annex1-lvlu1-55]: [RS 0.632.316.451](https://fedlex.data.admin.ch/eli/cc/2018/310)
 [^annex1-lvlu1-56]: [RS 0.632.313.271](https://fedlex.data.admin.ch/eli/cc/2020/784)
 [^annex1-lvlu1-57]: [RS 0.946.293.671](https://fedlex.data.admin.ch/eli/cc/2020/1071)
-[^annex1-lvlu1-58]: [RS 0.632.314.271](https://fedlex.data.admin.ch/eli/cc/2021/715); [FF 2019 4409](https://fedlex.data.admin.ch/eli/fga/2019/1851)
+[^annex1-lvlu1-58]: [RS 0.632.314.271](https://fedlex.data.admin.ch/eli/cc/2021/715)
 
 Allegato 2[^t-3]
 
@@ -248,7 +248,7 @@ Allegato 2[^t-3]
 
 ## Aliquote di dazio all’importazione: merci, aliquote e Paesi beneficianti
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 set. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)). Aggiornato dal n. I dell’O del 2 dic. 2022 ([RU 2023 37](https://fedlex.data.admin.ch/eli/oc/2023/37)) e dall’all. 3 n. 9 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 set. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)). Aggiornato dal n. I dell’O del 2 dic. 2022 ([RU 2023 37](https://fedlex.data.admin.ch/eli/oc/2023/37)), dall’all. 3 n. 9 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 n. II 4 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale negli allegati 1 e 2 della legge sulla tariffa delle dogane e concernente l’adeguamento di atti normativi connessi a tale modifica, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th colspan="2">Voce di tariffa</th><th colspan="2">Aliquota preferenziale</th><th>Paesi beneficianti (Codice ISO 2 o sigla)</th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -3162,11 +3162,11 @@ Allegato 2[^t-3]
 <tr><td></td><td>9190</td><td>7.30</td><td></td><td>IL, JO, JP, MA, TN</td><td></td></tr>
 <tr><td></td><td></td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, ID, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9200/9900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2501.</td><td>0010/ 2904.9900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>2501.</td><td>0000/ 2904.9900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>2905.</td><td>1110/4200</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>4300/4500</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td>4910/5990</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2906.</td><td>1110/ 3215.9090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>4900/5900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>2906.</td><td>1110/ 3215.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3301.</td><td>1200/ 3302.1000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3302.</td><td>9000/ 3407.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3501.</td><td>1010</td><td>esente</td><td></td><td>GE, ID, JP, SACU</td><td></td></tr>
@@ -3196,10 +3196,10 @@ Allegato 2[^t-3]
 <tr><td>3505.</td><td>1010</td><td>esente</td><td></td><td>ID</td><td></td></tr>
 <tr><td></td><td>1090</td><td>esente</td><td></td><td>CN, CO, EC, FO, GE, ID, JO, JP, LB, MA, MK, PE, SACU, TN</td><td></td></tr>
 <tr><td></td><td>2090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3506.</td><td>1000/9180</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3506.</td><td>1000/9100</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>9910</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9990</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3507.</td><td>1010/ 3808.9900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3507.</td><td>1000/ 3808.9900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3809.</td><td>1010</td><td></td><td>4.50</td><td>FO, MA</td><td></td></tr>
 <tr><td></td><td>1090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td></td><td>9100/9300</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
@@ -3221,16 +3221,16 @@ Allegato 2[^t-3]
 <tr><td></td><td>9010</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
 <tr><td></td><td>9090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>3826.</td><td>0010/ 3827.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3901.</td><td>1000/ 4017.0090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3901.</td><td>1000/ 4017.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>4101.</td><td>2000/ 4103.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4104.</td><td>1100/ 4206.0090</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4104.</td><td>1100/ 4206.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>4301.</td><td>1000/9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4302.</td><td>1100/ 4911.9990</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4302.</td><td>1100/ 4911.9900</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5001.</td><td>0000/ 5003.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5004.</td><td>0010/ 5007.9030</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5004.</td><td>0000/ 5007.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5101.</td><td>1100/ 5103.3000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5104.</td><td>0000/ 5113.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5201.</td><td>0010/ 5203.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5201.</td><td>0000/ 5203.0000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5204.</td><td>1100/ 5212.2500</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5301.</td><td>1000/ 5302.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 <tr><td>5303.</td><td>1000/ 9706.9000</td><td>esente</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, ID, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
@@ -3324,7 +3324,7 @@ Allegato 4[^t-5]
 
 ## Aliquote di dazio all’importazione per il Lesotho: merci e aliquote
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del’11 giu. 2010 ([RU 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)). Aggiornato dall’all. 3 n. 9 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) e dall’all. 3 n. 9 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del’11 giu. 2010 ([RU 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)). Aggiornato dall’all. 3 n. 9 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dall’all. 3 n. 9 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 n. II 4 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale negli allegati 1 e 2 della legge sulla tariffa delle dogane e concernente l’adeguamento di atti normativi connessi a tale modifica, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th colspan="2">Voce di tariffa</th><th></th><th>Aliquota preferenziale</th><th>Disposizioni particolari</th></tr>
@@ -3349,7 +3349,7 @@ Allegato 4[^t-5]
 <tr><td>2309.</td><td colspan="2">90 81/</td><td>esente</td><td></td></tr>
 <tr><td></td><td colspan="2">2404.9900</td><td></td><td></td></tr>
 <tr><td>2905.</td><td colspan="2">43 00/44 00</td><td>esente</td><td></td></tr>
-<tr><td>3301.</td><td colspan="2">12 00/90 90</td><td>esente</td><td></td></tr>
+<tr><td>3301.</td><td colspan="2">12 00/90 00</td><td>esente</td><td></td></tr>
 <tr><td>3501.</td><td colspan="2">10 10/</td><td>esente</td><td></td></tr>
 <tr><td></td><td colspan="2">3505.20 90</td><td></td><td></td></tr>
 <tr><td>3809.</td><td colspan="2">10 10/10 90</td><td>esente</td><td></td></tr>
@@ -3364,7 +3364,7 @@ Allegato 4[^t-5]
 <tr><td></td><td colspan="2">5003.00 00</td><td></td><td></td></tr>
 <tr><td>5101.</td><td colspan="2">11 00/</td><td>esente</td><td></td></tr>
 <tr><td></td><td colspan="2">5103.30 00</td><td></td><td></td></tr>
-<tr><td>5201.</td><td colspan="2">00 10/</td><td>esente</td><td></td></tr>
+<tr><td>5201.</td><td colspan="2">00 00/</td><td>esente</td><td></td></tr>
 <tr><td></td><td colspan="2">5203.00 00</td><td></td><td></td></tr>
 <tr><td>5301.</td><td colspan="2">10 00/</td><td>esente</td><td></td></tr>
 <tr><td></td><td colspan="2">5302.90 00</td><td></td><td></td></tr>
