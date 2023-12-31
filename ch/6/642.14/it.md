@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'armonizzazione delle imposte di
 short: LAID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/it"
 
 (LAID)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2023)
+del 14 dicembre 1990 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1316,6 +1316,18 @@ Per la tassazione ordinaria ulteriore è competente:
 
 <sup>2</sup> I Cantoni si prestano gratuitamente assistenza amministrativa e giudiziaria per la riscossione dell’imposta alla fonte.
 
+#### Art. 38b
+
+**Procedure elettroniche**[^38b-1]
+
+<sup>1</sup> I Cantoni prevedono la possibilità di svolgere procedure per via elettronica. Garantiscono conformemente al diritto cantonale l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>2</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, i Cantoni prevedono, invece della firma, la possibilità per il contribuente di confermare i dati per via elettronica.
+
+<sup>3</sup> I Cantoni prevedono che l’autorità fiscale notifichi al contribuente, previo suo assenso, documenti in formato elettronico.
+
+[^38b-1]: Introdotto dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ## Titolo quinto: Procedura
 
 ### Capitolo 1: Principi generali e procedura di tassazione
@@ -1774,7 +1786,9 @@ La procedura penale e l’esecuzione della pena sono determinate dal diritto can
 
 <sup>2</sup> I Cantoni comunicano alle autorità federali competenti tutte le informazioni utili all’applicazione della presente legge e procurano loro i documenti necessari.
 
-<sup>3</sup> Le dichiarazioni d’imposta e i loro allegati vengono compilati su un modulo uniforme per tutta la Svizzera.
+<sup>3</sup> Le dichiarazioni d’imposta e i loro allegati sono compilati in un formato di dati uniforme per tutta la Svizzera. Il Consiglio federale determina in collaborazione con i Cantoni il formato dei dati da utilizzare.[^71-1]
+
+[^71-1]: Nuovo testo giusta il n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72
 

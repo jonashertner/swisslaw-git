@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. Dezember 1990 über die Harmonisierung der direkten
 short: StHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/de"
 
 (Steuerharmonisierungsgesetz, StHG)[^t-1]
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2023)
+vom 14. Dezember 1990 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -1319,6 +1319,18 @@ Für die nachträgliche ordentliche Veranlagung ist zuständig:
 
 ### 1. Kapitel: Verfahrensgrundsätze und Veranlagungsverfahren
 
+#### Art. 38b
+
+**Elektronische Verfahren**[^38b-1]
+
+<sup>1</sup> Die Kantone sehen die Möglichkeit elektronischer Verfahren vor. Dabei stellen sie die Authentizität und Integrität der übermittelten Daten nach kantonalem Recht sicher.
+
+<sup>2</sup> Sie sehen bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der Unterzeichnung die Möglichkeit einer elektronischen Bestätigung der Angaben durch die steuerpflichtige Person vor.
+
+<sup>3</sup> Sie sehen vor, dass die Steuerbehörde der steuerpflichtigen Person mit deren Einverständnis Dokumente in elektronischer Form zustellt.
+
+[^38b-1]: Eingefügt durch Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 #### Art. 39
 
 **Amtspflichten**
@@ -1770,7 +1782,9 @@ Das Strafverfahren und der Strafvollzug richten sich nach kantonalem Recht, sowe
 
 <sup>2</sup> Die Kantone erteilen den zuständigen Bundesbehörden sämtliche für die Durchführung dieses Gesetzes nötigen Auskünfte und beschaffen ihnen die erforderlichen Unterlagen.
 
-<sup>3</sup> Für die Steuererklärungen und die dazugehörigen Beilagen werden für die ganze Schweiz einheitliche Formulare verwendet.
+<sup>3</sup> Für die Steuererklärungen und die dazugehörigen Beilagen werden für die ganze Schweiz einheitliche Datenformate verwendet. Der Bundesrat bestimmt die hierzu anzuwendenden Datenformate in Zusammenarbeit mit den Kantonen.[^71-1]
+
+[^71-1]: Fassung gemäss Ziff. I 4 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72
 

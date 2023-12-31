@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts dire
 short: LHID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/fr"
 
 (LHID)
 
-du 14 décembre 1990 (Etat le 1<sup>er</sup> janvier 2023)
+du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1314,6 +1314,18 @@ Est compétent pour la taxation ordinaire ultérieure:
 
 <sup>2</sup> Les cantons se prêtent gratuitement l’assistance administrative et l’entraide judiciaire pour le prélèvement de l’impôt à la source.
 
+#### Art. 38b
+
+**Procédures électroniques**[^38b-1]
+
+<sup>1</sup> Les cantons prévoient la possibilité de recourir à des procédures électroniques. Dans ce cadre, ils assurent conformément au droit cantonal l’authenticité et l’intégrité des données transmises.
+
+<sup>2</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, les cantons prévoient, en lieu et place de la signature, la possibilité d’une confirmation électronique des données par le contribuable.
+
+<sup>3</sup> Ils prévoient que l’autorité fiscale remet des documents au contribuable sous forme électronique avec l’accord de ce dernier.
+
+[^38b-1]: Introduit par le ch. I 4 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ## Titre 5 Procédure
 
 ### Chapitre 1 Principes généraux et procédure de taxation
@@ -1768,7 +1780,9 @@ Sauf disposition contraire du droit fédéral, la procédure pénale et l’exé
 
 <sup>2</sup> Les cantons communiquent aux autorités fédérales compétentes tous les renseignements utiles à l’exécution de la présente loi et leur procurent les documents nécessaires.
 
-<sup>3</sup> Les déclarations d’impôt et leurs annexes sont établies sur des formules uniformes dans toute la Suisse.
+<sup>3</sup> Les déclarations d’impôt et leurs annexes sont établies dans des formats de données uniformes dans toute la Suisse. Le Conseil fédéral définit les formats de données à utiliser en collaboration avec les cantons.[^71-1]
+
+[^71-1]: Nouvelle teneur selon le ch. I 4 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72
 
