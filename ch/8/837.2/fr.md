@@ -4,11 +4,11 @@ title: Loi fédérale du 19 juin 2020 sur les prestations transitoires pour les 
 short: LPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20230101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20230101/fr"
 
 (LPtra)
 
-du 19 juin 2020 (État le 1<sup>er</sup> janvier 2023)
+du 19 juin 2020 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -52,14 +52,16 @@ La présente loi vise à améliorer la protection sociale des personnes, âgées
 
 Les personnes âgées de 60 ans ou plus qui sont arrivées en fin de droit dans l’assurance-chômage ont droit à des prestations transitoires destinées à couvrir leurs besoins vitaux jusqu’au moment où elles:
 
-- a. atteignent l’âge ordinaire de la retraite dans l’assurance-vieillesse et survivants (AVS), ou
-- b. ont droit au plus tôt au versement anticipé de la rente de vieillesse, s’il est prévisible qu’elles auront droit à des prestations complémentaires au sens de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^3-1] à l’âge ordinaire de la retraite.
+- a. atteignent l’âge de référence au sens de l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^3-1], ou
+- b. ont droit au plus tôt au versement anticipé de la rente de vieillesse, s’il est prévisible qu’elles auront droit à des prestations complémentaires au sens de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^3-2] à l’âge de référence.[^3-3]
 
 <sup>2</sup> Une personne est arrivée en fin de droit lorsqu’elle a épuisé son droit aux indemnités de l’assurance-chômage ou lorsque son droit aux indemnités de l’assurance-chômage s’est éteint à l’expiration du délai-cadre d’indemnisation et qu’elle n’a pas pu ouvrir un nouveau délai-cadre d’indemnisation.
 
 <sup>3</sup> Une personne arrive en fin de droit le mois au cours duquel elle perçoit la dernière indemnité journalière de l’assurance-chômage ou au cours duquel le délai-cadre d’indemnisation expire.
 
-[^3-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 4
 
@@ -274,9 +276,10 @@ Le Conseil fédéral peut, lorsqu’il fixe les nouvelles rentes conformément �
 
 <sup>2</sup> Le droit aux prestations transitoires s’éteint à la fin du mois au cours duquel l’une des conditions d’octroi cesse d’être remplie.
 
-<sup>3</sup> Le droit aux prestations transitoires s’éteint en outre si au moment auquel l’assuré a droit au plus tôt au versement anticipé d’une rente de vieillesse la naissance du droit à des prestations complémentaires au sens de la LPC[^14-1] à l’âge ordinaire de la retraite est prévisible.
+<sup>3</sup> Le droit aux prestations transitoires s’éteint en outre si au moment auquel l’assuré a droit au plus tôt au versement anticipé d’une rente de vieillesse la naissance du droit à des prestations complémentaires au sens de la LPC[^14-1] à l’âge de référence est prévisible.[^14-2]
 
 [^14-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^14-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 15
 
@@ -368,11 +371,12 @@ Sont applicables par analogie les dispositions de la LAVS[^20-1], y compris lors
 - d. l’utilisation systématique du numéro AVS comme numéro de sécurité sociale: art. 50*d* LAVS;
 - e. la divulgation du numéro AVS dans l’application du droit cantonal: art. 50*f* LAVS;
 - f. les mesures de précaution: art. 50*g* LAVS.
-- [tab] <sup>2</sup> Les organes visés à l’art. 19, al. 1, ont accès en ligne au registre central des prestations en cours de la Centrale de compensation (art. 50*b* LAVS).
+
+<sup>2</sup> Les organes visés à l’art. 19, al. 1, ont accès en ligne au registre central des prestations en cours de la Centrale de compensation (art. 50*b* LAVS).
 
 [^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Voir actuellement l’art. 49*b*.
+[^20-3]: Voir actuellement l’art. 49*f*.
 
 #### Art. 21
 

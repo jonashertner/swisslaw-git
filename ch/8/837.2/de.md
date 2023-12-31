@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2020 über Überbrückungsleistungen für älte
 short: ÜLG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20230101/de"
 
 (ÜLG)
 
-vom 19. Juni 2020 (Stand am 1. Januar 2023)
+vom 19. Juni 2020 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -52,14 +52,16 @@ Dieses Gesetz bezweckt, die soziale Absicherung älterer Ausgesteuerter zu verbe
 
 Personen ab 60 Jahren, die ausgesteuert sind, haben Anspruch auf Überbrückungs-leistungen zur Deckung ihres Existenzbedarfs bis zum Zeitpunkt, in dem sie:
 
-- a. das ordentliche Rentenalter der Alters- und Hinterlassenenversicherung (AHV) erreichen; oder
-- b. die Altersrente frühestens vorbeziehen können, wenn dann absehbar ist, dass sie bei Erreichen des ordentlichen Rentenalters einen Anspruch auf Ergän-zungsleistungen gemäss dem Bundesgesetz vom 6. Oktober 2006[^3-1] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) haben werden.
+- a. das Referenzalter nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^3-1] über die Alters- und Hinterlassenenversicherung erreichen; oder
+- b. die Altersrente frühestens vorbeziehen können, wenn dann absehbar ist, dass sie bei Erreichen des Referenzalters einen Anspruch auf Ergänzungsleistungen gemäss dem Bundesgesetz vom 6. Oktober 2006[^3-2] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) haben werden.[^3-3]
 
 <sup>2</sup> Eine Person ist ausgesteuert, wenn sie ihren Anspruch auf Taggelder der Arbeitslosenversicherung (ALV) ausgeschöpft hat oder wenn ihr Anspruch auf ALV-Taggelder nach Ablauf der Rahmenfrist für den Leistungsbezug erloschen ist und anschliessend keine neue Rahmenfrist für den Leistungsbezug eröffnet werden kann.
 
 <sup>3</sup> Die Aussteuerung erfolgt in dem Monat, in dem das letzte Taggeld bezogen wird oder in dem die Rahmenfrist für den Leistungsbezug abläuft.
 
-[^3-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-3]: Fassung gemäss Anhang Ziff. 10 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 4
 
@@ -274,9 +276,10 @@ Bei der Neufestsetzung der Renten nach Artikel 33<sup>ter</sup> AHVG[^12-1] kann
 
 <sup>2</sup> Der Anspruch auf Überbrückungsleistungen erlischt am Ende des Monats, in dem eine der Voraussetzungen nicht mehr erfüllt ist.
 
-<sup>3</sup> Der Anspruch auf Überbrückungsleistungen erlischt zudem, wenn im frühestmöglichen Zeitpunkt des Vorbezugs der Altersrente absehbar ist, dass bei Erreichen des ordentlichen Rentenalters ein Anspruch auf Ergänzungsleistungen gemäss ELG[^14-1] bestehen wird.
+<sup>3</sup> Der Anspruch auf Überbrückungsleistungen erlischt zudem, wenn im frühestmöglichen Zeitpunkt des Vorbezugs der Altersrente absehbar ist, dass bei Erreichen des Referenzalters ein Anspruch auf Ergänzungsleistungen gemäss ELG[^14-1] bestehen wird.[^14-2]
 
 [^14-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^14-2]: Fassung gemäss Anhang Ziff. 10 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 15
 
@@ -362,7 +365,7 @@ Krankheits- und Behinderungskosten werden vergütet, wenn:
 
 Die folgenden Bestimmungen des AHVG[^20-1] mit ihren allfälligen Abweichungen von ATSG[^20-2] gelten sinngemäss für:
 
-- a. das Bearbeiten von Personendaten: Artikel 49*a* AHVG[^20-3];
+- a. das Bearbeiten von Personendaten: Artikel 49*a**[^20-3]* AHVG;
 - b. die Datenbekanntgabe: Artikel 50*a* AHVG;
 - c. die Zuweisung der Versichertennummer: Artikel 50*c* AHVG;
 - d. die systematische Verwendung der Versichertennummer als Sozialversicherungsnummer: Artikel 50*d* AHVG;
@@ -373,7 +376,7 @@ Die folgenden Bestimmungen des AHVG[^20-1] mit ihren allfälligen Abweichungen v
 
 [^20-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^20-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Siehe heute: Art. 49*b*.
+[^20-3]: Siehe heute: Art. 49*f*.
 
 #### Art. 21
 

@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 2020 sulle prestazioni transitorie per i dis
 short: LPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20230101/it"
 
 (LPTD)
 
-del 19 giugno 2020 (Stato 1° gennaio 2023)
+del 19 giugno 2020 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -52,14 +52,17 @@ La presente legge si prefigge di migliorare la protezione sociale dei lavoratori
 
 Chi ha compiuto i 60 anni di età e ha esaurito il diritto all’indennità di disoccupazione ha diritto a prestazioni transitorie destinate a coprire il fabbisogno vitale, fino al momento in cui:
 
-- a. raggiunge l’età ordinaria di pensionamento dell’assicurazione per la vecchiaia e per i superstiti (AVS); o
-- b. ha diritto alla riscossione anticipata della rendita di vecchiaia, se in quel momento è prevedibile che all’età ordinaria di pensionamento avrà diritto alle prestazioni complementari secondo la legge del 6 ottobre 2006[^3-1] sulle prestazioni complementari (LPC).
+- a. raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^3-1] sull’assicurazione per la vecchiaia e i superstiti; o
+
+- b. ha diritto alla riscossione anticipata della rendita di vecchiaia, se in quel momento è prevedibile che al raggiungimento dell’età di riferimento avrà diritto alle prestazioni complementari secondo la legge federale del 6 ottobre 2006[^3-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC).[^3-3]
 
 <sup>2</sup> Ha esaurito il diritto all’indennità di disoccupazione chi ha esaurito il diritto alle indennità giornaliere dell’assicurazione contro la disoccupazione (AD) oppure perde il diritto alle indennità giornaliere dell’AD alla scadenza del termine quadro per la riscossione della prestazione e non può aprire un nuovo termine quadro per la riscossione.
 
 <sup>3</sup> Il diritto all’indennità di disoccupazione si esaurisce nel mese in cui è riscossa l’ultima indennità giornaliera o in cui scade il termine quadro per la riscossione della prestazione.
 
-[^3-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-3]: Nuovo testo giusta l’all. n. 10 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 4
 
@@ -274,9 +277,10 @@ Nel ricalcolare le rendite conformemente all’articolo 33<sup>ter</sup> LAVS[^1
 
 <sup>2</sup> Il diritto alle prestazioni transitorie si estingue alla fine del mese in cui una delle condizioni non è più adempiuta.
 
-<sup>3</sup> Il diritto alle prestazioni transitorie si estingue inoltre se al momento in cui si ha diritto alla riscossione anticipata di una rendita di vecchiaia è prevedibile che all’età ordinaria di pensionamento si avrà diritto alle prestazioni complementari secondo la LPC[^14-1].
+<sup>3</sup> Il diritto alle prestazioni transitorie si estingue inoltre se al momento in cui si ha diritto alla riscossione anticipata di una rendita di vecchiaia è prevedibile che al raggiungimento dell’età di riferimento si avrà diritto alle prestazioni complementari secondo la LPC[^14-1].[^14-2]
 
 [^14-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^14-2]: Nuovo testo giusta l’all. n. 10 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 15
 
@@ -373,7 +377,7 @@ Si applicano per analogia le seguenti disposizioni della LAVS[^20-1], incluse le
 
 [^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Attualmente art. 49*b*.
+[^20-3]: Ora art. 49*f*.
 
 #### Art. 21
 
