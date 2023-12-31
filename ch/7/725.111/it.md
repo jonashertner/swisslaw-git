@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2007 sulle strade nazionali (OSN)
 short: OSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/it"
 
 (OSN)
 
-del 7 novembre 2007 (Stato 1° gennaio 2023)
+del 7 novembre 2007 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -349,9 +349,13 @@ L’esame dei progetti dettagliati può essere affidato a un ingegnere verificat
 
 #### Art. 19
 
-**Annuncio all’autorità di sorveglianza sulla misurazione ufficiale**
+**Annuncio al servizio cantonale di vigilanza sulle misurazioni**[^19-1]
 
-Le autorità competenti informano entro un termine di 30 giorni il servizio cantonale responsabile della sorveglianza sulla misurazione ufficiale circa i cambiamenti che rendono necessario un aggiornamento della misurazione ufficiale.
+<sup>1</sup> L’USTRA informa il servizio cantonale di vigilanza sulle misurazioni in merito alla presentazione di un progetto esecutivo.
+
+<sup>2</sup> Informa tale servizio entro un termine di 20 giorni circa i cambiamenti del progetto esecutivo che rendono necessario un aggiornamento della misurazione ufficiale.
+
+[^19-1]: Nuovo testo giusta l’all. n. 10 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Sezione 2: Acquisto del terreno
 

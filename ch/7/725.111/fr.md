@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2007 sur les routes nationales (ORN)
 short: ORN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-796-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-796-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/fr"
 
 (ORN)
 
-du 7 novembre 2007 (État le 1<sup>er</sup> janvier 2023)
+du 7 novembre 2007 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -347,9 +347,13 @@ L’examen des projets de détail peut être confié à des ingénieurs de contr
 
 #### Art. 19
 
-**Communication à l’autorité de surveillance de la mensuration officielle**
+**Annonces au service cantonal du cadastre**[^19-1]
 
-Les autorités compétentes informent dans un délai de 30 jours le service cantonal responsable de la surveillance de la mensuration officielle s’il y a des changements qui nécessitent une mise à jour de la mensuration officielle.
+<sup>1</sup> L’OFROU informe le service cantonal du cadastre du dépôt d’un projet définitif.
+
+<sup>2</sup> Il informe ce service dans un délai de 20 jours de toute modification du projet définitif rendant nécessaire une mise à jour de la mensuration officielle.
+
+[^19-1]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Section 2 Acquisition de terrain
 
@@ -925,7 +929,7 @@ Annexe 3[^t-3]
 <tr><td>3</td><td>GE</td><td>6</td><td>A1</td><td>5 Meyrin</td><td></td><td></td><td>Genève-centre</td></tr>
 <tr><td>4</td><td>GE</td><td>7</td><td></td><td>Ferney</td><td></td><td>A1</td><td>7 Gd Saconnex</td></tr>
 <tr><td>4</td><td>GE</td><td>7</td><td>A1</td><td>7 Gd Saconnex</td><td></td><td></td><td>Genève-centre</td></tr>
-<tr><td>5</td><td>GE</td><td>29</td><td>A1a</td><td>4 Etoile</td><td></td><td></td><td>Genève-centre</td></tr>
+<tr><td>5</td><td>GE</td><td>29</td><td>A1a</td><td>4 Étoile</td><td></td><td></td><td>Genève-centre</td></tr>
 <tr><td>6</td><td>GE</td><td>3</td><td></td><td>Carouge</td><td></td><td>A1a</td><td>2 Lancy-Sud</td></tr>
 <tr><td colspan="8">Région de La Côte</td></tr>
 <tr><td>1</td><td>VD</td><td>1/19/31</td><td>A1</td><td>12 Gland</td><td>Nyon</td><td>A1</td><td>11 Nyon</td></tr>

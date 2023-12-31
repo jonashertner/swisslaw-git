@@ -4,11 +4,11 @@ title: Nationalstrassenverordnung vom 7. November 2007 (NSV)
 short: NSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-796-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-796-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/de"
 
 (NSV)
 
-vom 7. November 2007 (Stand am 1. Januar 2023)
+vom 7. November 2007 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -347,9 +347,13 @@ Zur Begutachtung von Detailprojekten können Prüfingenieure und Prüfingenieuri
 
 #### Art. 19
 
-**Meldung an die Aufsicht über die amtliche Vermessung**
+**Meldung an die Aufsicht über die amtliche Vermessung**[^19-1]
 
-Die zuständigen Behörden orientieren die für die Aufsicht über die amtliche Vermessung zuständige kantonale Stelle innert 30 Tagen über Veränderungen, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>1</sup> Das ASTRA informiert die kantonale Vermessungsaufsicht über die Einreichung eines Ausführungsprojekts.
+
+<sup>2</sup> Es informiert diese Stelle innert 20 Tagen über Änderungen des Ausführungsprojekts, die eine Nachführung der amtlichen Vermessung notwendig machen.
+
+[^19-1]: Fassung gemäss Anhang Ziff. 10 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 (AS **20****23** 529).
 
 ### 2. Abschnitt: Landerwerb
 
