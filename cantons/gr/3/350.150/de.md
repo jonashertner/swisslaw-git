@@ -3,64 +3,79 @@ canton: GR
 number: "350.150"
 title: Verordnung zur DNA-Profil-Gesetzgebung des Bundes
 language: de
-version: 2010-01-01
-corrected: 2014-10-09
-version_adopted: 2009-12-22
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2023-12-19
 in_force: 2024-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.150"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/642/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3352/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur DNA-Profil-Gesetzgebung des Bundes
 
-Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^t-1]
+Vom 19.12.2023 (Stand 01.01.2024)
 
-von der Regierung erlassen am 27. November 2007
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
-[^t-1]: BR 110.100
+von der Regierung erlassen am 19. Dezember 2023
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
 #### Art. 1
 
-**Zentrale Meldestelle für Löschungen**
+**Identifikation ausserhalb von Strafverfahren**
 
-Die Kantonspolizei (Kriminaltechnischer Dienst) meldet als zentrale Stelle gemäss Artikel 12 Absatz 1 der bundesrätlichen DNA-Profil-Verordnung[^1-1] den zuständigen Bundesbehörden das Eintreten der gesetzlichen Voraussetzungen für die Löschung von Profilen.
+<sup>1</sup> Die Kantonspolizei ist zuständig, um Anordnungen zur Identifikation von Personen ausserhalb von Strafverfahren gemäss Artikel 6 des Bundesgesetzes über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz[^1-1]) zu treffen.
 
-[^1-1]: SR 363.1
+[^1-1]: SR [363](https://db.clex.ch/link/Bund/363/de)
 
 #### Art. 2
 
-**Meldung von Löschungsereignissen**
+**Vernichtung der Proben**
 
-<sup>1</sup> Verantwortlich für die Meldung der Löschungsereignisse mit dem Löschungsdatum und die Annullierung von Löschungsterminen innert 20 Tagen nach Eintritt des für die Löschung oder Annullierung massgeblichen Ereignisses an die zentrale Meldestelle sind als jeweils verfahrensführende Behörden:
-
-- a) die Kantonspolizei in den Fällen gemäss Artikel 16 Absatz 1 literae a und b sowie Artikel 18 litera a und Artikel 19 des DNA-Profil-Gesetzes[^2-1];
-
-- b) die Staatsanwaltschaft in den Fällen gemäss Artikel 16 Absatz 1 literae a, b und d sowie Artikel 18 litera a des DNA-Profil-Gesetzes;
-
-- c)[^2-2]Die Gerichte oder andere urteilende Behörden in den Fällen von Artikel 16 Absatz 1 literae a bis f sowie Artikel 18 litera a des DNA-Profil-Gesetzes;
-
-- d)[^2-3]Das Amt für Justizvollzug in den Fällen gemäss Artikel 16 Absatz 1 literae b und f sowie Artikel 16 Abs. 4 des DNA-Profil-Gesetzes.
-
-<sup>2</sup> Für alle übrigen Fälle ist die Staatsanwaltschaft für die Meldung entsprechender Löschungsereignisse an die zentrale Meldestelle zuständig.
-
-[^2-1]: SR 363
-[^2-2]: Fassung gemäss Artikel 118 Ziffer 1 Justizvollzugsverordnung; BR 350.510; am 1. Januar 2010 in Kraft getreten.
-[^2-3]: Fassung gemäss Artikel 118 Ziffer 1 Justizvollzugsverordnung; BR 350.510; am 1. Januar 2010 in Kraft getreten. 1.01.2010 1
+<sup>1</sup> Stellt die für das Verfahren zuständige oder als letzte mit der Sache befasste Behörde fest, dass eine der Voraussetzungen gemäss Artikel 9 Absatz 1 des DNA-Profil-Gesetzes erfüllt ist, meldet sie dies der anordnenden Behörde spätestens 20 Tage nach der Kenntnisnahme.
 
 #### Art. 3
 
-**Vernichtung von Proben**
+**Löschung von DNA-Profilen 1. Zentrale Meldestelle**
 
-Ist eine der Voraussetzungen gemäss Artikel 9 Absatz 1 des DNA-Profil-Gesetzes[^3-1] erfüllt, meldet die in diesem Zeitpunkt für das Verfahren zuständige Behörde dies der anordnenden Behörde.
+<sup>1</sup> Die Kantonspolizei (Kriminaltechnischer Dienst) ist als zentrale Meldestelle im Sinne von Artikel 12 Absatz 1 der Verordnung über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Verordnung[^3-1]) für die Meldung von Löschungsereignissen verantwortlich.
 
-[^3-1]: SR 363 2 1.01.2010
+[^3-1]: SR [363.1](https://db.clex.ch/link/Bund/363.1/de)
 
 #### Art. 4
 
-**Inkrafttreten**
+**2. Meldung von Löschungsereignissen**
 
-Diese Verordnung tritt auf den 1. Januar 2008 in Kraft.
+<sup>1</sup> Die folgenden Behörden melden der zentralen Meldestelle Löschungsereignisse mit dem Löschungsdatum und die Annullierung von Löschungsterminen:
+
+- a) die Gerichte in den Fällen gemäss Artikel 18 Litera a des DNA-Profil-Gesetzes;
+- b) die Kantonspolizei in den Fällen gemäss Artikel 16 Absatz 1 Litera a und Litera b, Artikel 18 Litera a und Artikel 19 des DNA-Profil-Gesetzes;
+- c) das Amt für Justizvollzug in den Fällen gemäss Artikel 16 Absatz 1 Litera b und Artikel 16 Absatz 6 des DNA-Profil-Gesetzes;
+- d) die Staatsanwaltschaft in den Fällen gemäss Artikel 16 Absatz 1 Litera a und Litera b und Artikel 18 Litera a des DNA-Profil-Gesetzes sowie in den Fällen, die keiner Behörde zugewiesen sind.
+
+<sup>2</sup> Ist für den Beginn der Löschungsfrist das Datum des Urteils massgebend, erfolgt die Meldung spätestens 20 Tage, nachdem das massgebliche Urteil in Rechtskraft erwachsen ist. In den übrigen Fällen erfolgt die Meldung spätestens 20 Tage nach Eintritt des für die Löschung oder Annullierung massgeblichen Ereignisses.
+
+#### Art. 5
+
+**3. Verlängerung der Aufbewahrungsdauer durch die urteilende Behörde**
+
+<sup>1</sup> Das Verfahren für die Verlängerung der Aufbewahrungsdauer durch die urteilende Behörde richtet sich nach den strafprozessualen Regelungen zum Erlass einer nachträglichen richterlichen Entscheidung (Art. 363 StPO[^5-1]).
+
+<sup>2</sup> Die Staatsanwaltschaft und das Amt für Justizvollzug können mit einem Gesuch die Einleitung des Verfahrens beantragen.
+
+<sup>3</sup> Verlängert die urteilende Behörde die Aufbewahrungsdauer, so meldet sie der zentralen Meldestelle diese Entscheidung, sobald sie in Rechtskraft erwachsen ist.
+
+[^5-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+
+#### Art. 6
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Die zentrale Meldestelle meldet dem Bundesamt für Polizei die Löschung von DNA-Profilen, die vor dem Erlass des DNA-Profil-Gesetzes in Strafverfahren erstellt worden sind, die zu einer Verurteilung wegen einer Übertretung geführt haben.
+
+<sup>2</sup> Die Staatsanwaltschaft meldet der zentralen Meldestelle die Löschung von DNA-Profilen, die vor dem Inkrafttreten der Änderung des DNA-Profil-Gesetzes vom 17. Dezember 2021 erstellt und noch nicht gelöscht worden sind, soweit die Löschfristen aufgrund des vormals geltenden Rechts festgelegt wurden. Die zentrale Meldestelle gibt der Staatsanwaltschaft die für die Neufestlegung der Löschfristen erforderlichen Personendaten bekannt.
+
+2023-040
