@@ -3,18 +3,18 @@ sr: "152.21"
 title: "Ordonnance du Tribunal fédéral du 27 septembre 1999 portant application de la loi fédérale sur l'archivage"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/460"
 language: fr
-version: 1999-10-01
+version: 2024-01-01
 adopted: 1999-09-27
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/460/19991001/fr/xml/fedlex-data-admin-ch-eli-cc-1999-460-19991001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/460/19991001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/460/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-460-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/460/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du Tribunal fédéral portant application de la loi fédérale sur l’archivage
 
-du 27 septembre 1999 (État le 1<sup>er</sup> octobre 1999)
+du 27 septembre 1999 (État le 1<sup>er</sup> janvier 2024)
 
 Le Tribunal fédéral suisse,
 
@@ -102,9 +102,11 @@ Pour les procédures dans lesquelles le Tribunal fédéral statue comme autorit�
 
 <sup>2</sup> Les actes des procédures sont soumis au délai de 50 ans au sens de l’art. 11 de la loi sur l’archivage, à l’exclusion des procédures dans lesquelles seules étaient parties des collectivités publiques ou des corporations de droit public.
 
-<sup>3</sup> Les autres documents sont soumis au délai de protection de 50 ans lorsqu’ils contiennent des données personnelles particulièrement sensibles ou des profils de personnalité.
+<sup>3</sup> Les autres documents sont soumis au délai de protection de 50 ans lorsqu’ils contiennent des données sensibles.[^6-1]
 
 <sup>4</sup> Les procès-verbaux des réunions plénières du Tribunal fédéral et de ses organes de direction sont soumis au délai de protection de 50 ans.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 758](https://fedlex.data.admin.ch/eli/oc/2023/758)).
 
 #### Art. 7
 
@@ -209,7 +211,7 @@ La demande contient:
 
 #### Art. 15
 
-**Emoluments**
+**Émoluments**
 
 ### (art. 9 LAr)
 

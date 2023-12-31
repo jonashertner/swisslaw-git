@@ -3,18 +3,18 @@ sr: "152.21"
 title: Verordnung des Bundesgerichts vom 27. September 1999 zum Archivierungsgesetz
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/460"
 language: de
-version: 1999-10-01
+version: 2024-01-01
 adopted: 1999-09-27
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/460/19991001/de/xml/fedlex-data-admin-ch-eli-cc-1999-460-19991001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/460/19991001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/460/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-460-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/460/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des Bundesgerichts zum Archivierungsgesetz
 
-vom 27. September 1999 (Stand am 1. Oktober 1999)
+vom 27. September 1999 (Stand am 1. Januar 2024)
 
 Das Schweizerische Bundesgericht,
 
@@ -102,9 +102,11 @@ In Verfahren, in welchen das Bundesgericht als Rechtsmittelinstanz entscheidet, 
 
 <sup>2</sup> Prozessakten unterliegen der verlängerten Schutzfrist von 50 Jahren nach Artikel 11 des Archivierungsgesetzes, ausser am Verfahren seien ausschliesslich öffentlich-rechtliche Gemeinwesen oder Körperschaften beteiligt.
 
-<sup>3</sup> Für andere Unterlagen gilt die verlängerte Schutzfrist von 50 Jahren, soweit sie besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthalten.
+<sup>3</sup> Für andere Unterlagen gilt die verlängerte Schutzfrist von 50 Jahren, soweit sie besonders schützenswerte Personendaten enthalten.[^6-1]
 
 <sup>4</sup> Für die Verhandlungsprotokolle des Gesamtgerichts und der Leitungsorgane des Bundesgerichts gilt die verlängerte Schutzfrist von 50 Jahren.
+
+[^6-1]: Fassung gemäss Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 758](https://fedlex.data.admin.ch/eli/oc/2023/758)).
 
 #### Art. 7
 
@@ -122,7 +124,9 @@ In Verfahren, in welchen das Bundesgericht als Rechtsmittelinstanz entscheidet, 
 
 ### (Art. 13 BGA)
 
-<sup>1</sup> Einsicht während der Schutzfrist kann insbesondere gewährt werden, wenn
+<sup>1</sup>
+
+Einsicht während der Schutzfrist kann insbesondere gewährt werden, wenn:
 
 - a. die Einwilligung der betroffenen Personen vorliegt;
 - b. die betroffenen Personen seit mindestens drei Jahren tot sind;

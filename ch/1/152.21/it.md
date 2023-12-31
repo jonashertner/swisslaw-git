@@ -3,18 +3,18 @@ sr: "152.21"
 title: "Ordinanza del Tribunale federale del 27 settembre 1999 relativa all'applicazione della legge sull'archiviazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/460"
 language: it
-version: 1999-10-01
+version: 2024-01-01
 adopted: 1999-09-27
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/460/19991001/it/xml/fedlex-data-admin-ch-eli-cc-1999-460-19991001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/460/19991001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/460/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-460-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/460/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del Tribunale federale relativa all’applicazione della legge sull’archiviazione
 
-del 27 settembre 1999 (Stato 1° ottobre 1999)
+del 27 settembre 1999 (Stato 1° gennaio 2024)
 
 Il Tribunale federale,
 
@@ -102,9 +102,11 @@ Nei procedimenti in cui il Tribunale federale decide quale istanza di ricorso, s
 
 <sup>2</sup> Gli atti di un processo soggiacciono al termine di protezione più lungo, di 50 anni, ai sensi dell’articolo 11 della legge sull’archiviazione, salvo che abbiano partecipato al procedimento esclusivamente enti o corporazioni di diritto pubblico.
 
-<sup>3</sup> Per gli altri documenti vige il termine di protezione di 50 anni, nella misura in cui contengano dati personali degni di particolare protezione o profili della personalità.
+<sup>3</sup> Per gli altri documenti vige il termine di protezione di 50 anni, nella misura in cui contengano dati personali degni di particolare protezione.[^6-1]
 
 <sup>4</sup> Per i verbali d’udienza della Corte plenaria o degli organi direttivi del Tribunale federale vige il termine di protezione di 50 anni.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 758](https://fedlex.data.admin.ch/eli/oc/2023/758)).
 
 #### Art. 7
 
