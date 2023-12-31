@@ -4,13 +4,13 @@ number: "152.053.2"
 title: Direktionsverordnung über die Berechtigungen der Direktion für Inneres und Justiz für die zentralen Personendatensammlungen
 short: PDS DV DIJ
 language: de
-version: 2022-05-01
-valid_until: 2023-12-31
-version_adopted: 2022-03-31
+version: 2024-01-01
+valid_until: 2024-08-31
+version_adopted: 2023-12-04
 adopted: 2021-09-24
 in_force: 2021-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.053.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2599/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2965/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2599/pdf_file"
 
 (PDS DV DIJ)
 
-vom 24.09.2021 (Stand 01.05.2022)
+vom 24.09.2021 (Stand 01.01.2024)
 
 Die Direktion für Inneres und Justiz des Kantons Bern,
 
