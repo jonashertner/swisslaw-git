@@ -3,22 +3,22 @@ canton: FR
 number: "122.72.21"
 title: Verordnung über die Einreihung der Funktionen des Staatspersonals
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-07-06
+version: 2024-01-01
+valid_until: 2024-11-30
+version_adopted: 2023-12-12
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7805/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8015/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Einreihung der Funktionen des Staatspersonals
 
-Personnel de l'Etat, classification des fonctions – O
+Staatspersonal, Einreihung der Funktionen – V
 
-vom 29.11.2022 (Fassung in Kraft getreten am 01.08.2023)
+vom 29.11.2022 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -108,7 +108,7 @@ beschliesst:
 - 3 00 UNTERRICHTSWESEN
   - 3 10 Primarschulen
   - 3 20 Orientierungsschulen (OS)
-  - 3 30 Schulen für berufliche Grundbildung
+  - 3 30 Berufsfachschulen
   - 3 35 Höhere Fachschulen (HF)
   - 3 40 Fachhochschulen (HSW-FR, HSA-FR, HTA-FR, HfG-FR)
   - 3 45 Pädagogische Hochschule Freiburg (HEP-PH FR)
@@ -155,7 +155,7 @@ beschliesst:
 
 **ASS** Amt für Strassenverkehr und Schifffahrt
 
-**BS** Berufsfachschule
+**BFS** Berufsfachschulen
 
 **ETH/HS** Eidgenössische Technische Hochschule/Hochschule
 
@@ -201,7 +201,7 @@ beschliesst:
 
 **PH** Pädagogische Hochschule
 
-**Pol SiAss** Polizeiliche/r Sicherheitsassistent/in
+**Pol SiAss** Polizeiliche Sicherheitsassistentin/Polizeilicher Sicherheitsassistent
 
 **RAV** Regionale Arbeitsvermittlungszentren
 
@@ -247,32 +247,36 @@ beschliesst:
 <tr><td>1 10 170</td><td>Verwaltungssachbearbeiter/in</td><td>12–14</td><td>a</td></tr>
 <tr><td>1 10 180</td><td>Höhere Verwaltungssachbearbeiterin/ Höherer Verwaltungssachbearbeiter</td><td>16–18</td><td>b</td></tr>
 <tr><td>1 10 190</td><td>Dipl. Verwaltungssachbearbeiter/in</td><td>18–20</td><td></td></tr>
-<tr><td>1 10 210</td><td>Bürochef/in</td><td>13–15</td><td></td></tr>
-<tr><td>1 10 230</td><td>Adjunkt/in der Sektionschefin/des Sektionschefs</td><td>14–18</td><td></td></tr>
-<tr><td>1 10 250</td><td>Adjunkt/in der Sektorchefin/des Sektorchefs</td><td>14–18</td><td></td></tr>
+<tr><td>1 10 210</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 230</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 250</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>1 10 280</td><td>Zivilstandsbeamtin/Zivilstandsbeamter</td><td>14</td><td>a</td></tr>
-<tr><td>1 10 290</td><td>Leiter/in des regionalen Zivilstandsamts</td><td>16</td><td>b</td></tr>
-<tr><td>1 10 330</td><td>Verwaltungsadjunkt/in</td><td>16–22</td><td></td></tr>
-<tr><td>1 10 350</td><td>Sektionschef/in</td><td>18–24</td><td></td></tr>
-<tr><td>1 10 370</td><td>Sektorchef/in</td><td>18–24</td><td></td></tr>
+<tr><td>1 10 290</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 320</td><td>Gruppenleiter/in</td><td>12–20 (22\*)</td><td></td></tr>
+<tr><td>1 10 330</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 350</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 370</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>1 10 410</td><td>Wissenschaftliche Mitarbeiterin/Wissenschaftlicher Mitarbeiter</td><td>20–24</td><td>b</td></tr>
 <tr><td>1 10 430</td><td>Jurist/in</td><td>20–24</td><td>b</td></tr>
 <tr><td>1 10 450</td><td>Wirtschaftswissenschaftler/in</td><td>20–24</td><td>b</td></tr>
-<tr><td>1 10 490</td><td>Adjunkt/in der Amtsvorsteherin/des Amtsvorstehers</td><td>16–26</td><td></td></tr>
+<tr><td>1 10 480</td><td>Adjunkt/in eines Kaders</td><td>12–26</td><td></td></tr>
+<tr><td>1 10 490</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>1 10 510</td><td>Adjunkt/in der Direktorin/des Direktors (für die Anstalten gemäss Artikel 2 StPR)</td><td>23–26</td><td></td></tr>
+<tr><td>1 10 520</td><td>Kader B</td><td>20–26 (28\*)</td><td></td></tr>
 <tr><td>1 10 570</td><td>Stellvertretende Amtsvorsteherin/Stellvertretender Amtsvorsteher</td><td>25–32</td><td>a</td></tr>
 <tr><td>1 10 590</td><td>Stellvertretende Direktorin/Stellvertretender Direktor (für die Anstalten gemäss Artikel 2 StPR)</td><td>27–30</td><td></td></tr>
+<tr><td>1 10 620</td><td>Kader A</td><td>26–28 (30\*)</td><td></td></tr>
 <tr><td>1 10 630</td><td>Grundbuchverwalter/in</td><td>24–30</td><td></td></tr>
 <tr><td>1 10 650</td><td>Wissenschaftliche Beraterin/Wissenschaftlicher Berater</td><td>26–30</td><td></td></tr>
 <tr><td>1 10 670</td><td>Juristische Beraterin/Juristischer Berater</td><td>26–30</td><td></td></tr>
 <tr><td>1 10 690</td><td>Wirtschaftswissenschaftliche Beraterin/Wirtschaftswissenschaftlicher Berater</td><td>26–30</td><td></td></tr>
 <tr><td>1 10 710</td><td>Amtsvorsteher/in</td><td>24–36</td><td>a</td></tr>
-<tr><td>1 10 720</td><td>Direktor/in einer kulturellen Institution</td><td>28–30</td><td></td></tr>
-<tr><td>1 10 725</td><td>Stellvertretende Direktorin/Stellvertretender Direktor einer kulturellen Institution</td><td>25–28</td><td></td></tr>
+<tr><td>1 10 720</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 725</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>1 10 730</td><td>Generalsekretär/in</td><td>34</td><td>a</td></tr>
 <tr><td>1 10 750</td><td>Direktor/in (für die Anstalten nach Artikel 2 StPR)</td><td>28–36</td><td>a</td></tr>
 <tr><td>1 10 770</td><td>Verwalter/in (für die Anstalten nach Artikel 2 StPR)</td><td>30–34</td><td></td></tr>
-<tr><td>1 10 790</td><td>Vizeoberamtfrau /Vizeoberamtmann</td><td>25–28</td><td>a</td></tr>
+<tr><td>1 10 790</td><td>Vizeoberamtfrau /Vizeoberamtmann</td><td>28–30</td><td>a</td></tr>
 </table>
 
 ### 1 20 Übersetzung
@@ -285,7 +289,7 @@ beschliesst:
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>1 20 010</td><td>Dolmetscher/in</td><td>18</td><td></td></tr>
 <tr><td>1 20 030</td><td>Übersetzer/in</td><td>22</td><td>a</td></tr>
-<tr><td>1 20 050</td><td>Chefübersetzer/in</td><td>26–28</td><td></td></tr>
+<tr><td>1 20 050</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 30 Buchhaltung – Kasse – Finanzkontrolle
@@ -300,8 +304,8 @@ beschliesst:
 <tr><td>1 30 020</td><td>Sachbearbeiter/in Buchhaltung</td><td>12–14</td><td></td></tr>
 <tr><td>1 30 090</td><td>Finanzinspektor/in</td><td>18–22</td><td>a</td></tr>
 <tr><td>1 30 110</td><td>Buchhaltungsfachfrau/Buchhaltungsfachmann</td><td>16–18</td><td>a</td></tr>
-<tr><td>1 30 130</td><td>Chefbuchhalter/in</td><td>18–22</td><td></td></tr>
-<tr><td>1 30 150</td><td>Chef/in der Staatsbuchhaltung</td><td>29–30</td><td></td></tr>
+<tr><td>1 30 130</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 30 150</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 40 Einschätzung – Kontrolle – Revision
@@ -316,9 +320,9 @@ beschliesst:
 <tr><td>1 40 030</td><td>Steuereinschätzer/in</td><td>12–15</td><td>a</td></tr>
 <tr><td>1 40 070</td><td>Hauptsteuereinschätzer/in</td><td>16–17</td><td></td></tr>
 <tr><td>1 40 130</td><td>Revisor/in</td><td>19–23</td><td>b</td></tr>
-<tr><td>1 40 170</td><td>Sektorchef/in–Adjunkt/in KSTV</td><td>20–25</td><td></td></tr>
-<tr><td>1 40 190</td><td>Sektorchef/in KSTV</td><td>24–27</td><td></td></tr>
-<tr><td>1 40 210</td><td>Sektionschef/in KSTV</td><td>28–29</td><td></td></tr>
+<tr><td>1 40 170</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 40 190</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 40 210</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 50 Staatsarchiv – Bibliotheken - Mediatheken
@@ -333,7 +337,7 @@ beschliesst:
 <tr><td>1 50 070</td><td>Fachfrau/Fachmann Information und Dokumentation</td><td>08–10</td><td>a</td></tr>
 <tr><td>1 50 110</td><td>Bibliothekar/in-Mediathekar/in</td><td>15–18</td><td>a</td></tr>
 <tr><td>1 50 150</td><td>Wissenschaftliche Bibliothekarin-Mediathekarin/Wissenschaftlicher Bibliothekar-Mediathekar</td><td>18–20</td><td>b</td></tr>
-<tr><td>1 50 190</td><td>Chef/in eines Sektors/einer Einheit</td><td>22–24</td><td>b</td></tr>
+<tr><td>1 50 190</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 55 Regionale Arbeitsvermittlungszentren (RAV)
@@ -345,7 +349,7 @@ beschliesst:
 <table>
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>1 55 010</td><td>Personalberater/in RAV</td><td>16–18</td><td>a</td></tr>
-<tr><td>1 55 050</td><td>Gruppenleiter/in RAV</td><td>20–22</td><td></td></tr>
+<tr><td>1 55 050</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 60 Kantonale Sozialversicherungsanstalt (KSVA)
@@ -374,7 +378,7 @@ beschliesst:
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>2 10 010</td><td>Substitut/in beim Betreibungsamt</td><td>16–20</td><td></td></tr>
 <tr><td>2 10 020</td><td>Weibel/in beim Betreibungsamt</td><td>14</td><td></td></tr>
-<tr><td>2 10 040</td><td>Weibel/in-Sektorchef/in beim Betreibungsamt</td><td>15</td><td></td></tr>
+<tr><td>2 10 040</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>2 10 060</td><td>Weibel/in beim Konkursamt</td><td>11</td><td></td></tr>
 <tr><td>2 10 070</td><td>Substitut/in beim Konkursamt</td><td>20</td><td></td></tr>
 <tr><td>2 10 090</td><td>Vorsteher/in des Betreibungsamtes</td><td>22–26</td><td>a</td></tr>
@@ -477,7 +481,7 @@ beschliesst:
 
 <table>
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
-<tr><td>2 50 010</td><td>Instruktor/in ZS</td><td>14–16</td><td>b</td></tr>
+<tr><td>2 50 020</td><td>Instruktor/in ZS</td><td>14–16</td><td>b</td></tr>
 </table>
 
 ### 3 00 UNTERRICHTSWESEN
@@ -514,17 +518,17 @@ beschliesst:
 <tr><td>3 20 160</td><td>Schuldirektor/in der Orientierungsschule</td><td>28</td><td>a</td></tr>
 </table>
 
-### 3 30 Schulen für berufliche Grundbildung
+### 3 30 Berufsfachschulen (BFS)
 
 #### Art. A2-16
 
-<sup>1</sup> Die Einreihung der Funktionen des Staatspersonals des Bereichs «Unterrichtswesen» für den Unterbereich «Schulen für berufliche Grundbildung»:
+<sup>1</sup> Die Einreihung der Funktionen des Staatspersonals des Bereichs «Unterrichtswesen» für den Unterbereich «Berufsfachschulen (BFS)»:
 
 <table>
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>3 30 030</td><td>Berufsfachschullehrer/in</td><td>22–25</td><td>b</td></tr>
-<tr><td>3 30 070</td><td>Abteilungsvorsteher/in BS</td><td>25–27</td><td>a</td></tr>
-<tr><td>3 30 110</td><td>Direktor/in einer Schule der beruflichen Grundbildung</td><td>30</td><td>a</td></tr>
+<tr><td>3 30 070</td><td>Abteilungsvorsteher/in BFS</td><td>26–27</td><td>a</td></tr>
+<tr><td>3 30 110</td><td>Direktor/in einer Berufsfachschule</td><td>30</td><td>a</td></tr>
 </table>
 
 ### 3 35 Höhere Fachschulen (HF)
@@ -597,7 +601,7 @@ beschliesst:
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>3 60 010</td><td>Pädagogische Mitarbeiterin/Pädagogischer Mitarbeiter</td><td>19–25</td><td>a</td></tr>
 <tr><td>3 60 070</td><td>Berufs-, Studien- und Laufbahnberater/in</td><td>22</td><td></td></tr>
-<tr><td>3 60 090</td><td>Schulverwalter/in</td><td>19–24</td><td></td></tr>
+<tr><td>3 60 090</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>3 60 110</td><td>Schulinspektor/in</td><td>26–29</td><td>a</td></tr>
 </table>
 
@@ -644,8 +648,8 @@ beschliesst:
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>4 10 030</td><td>Spezialhandwerker/in</td><td>04–06</td><td>a</td></tr>
 <tr><td>4 10 050</td><td>Qualifizierte Handwerkerin/Qualifizierter Handwerker</td><td>08–10</td><td>a</td></tr>
-<tr><td>4 10 070</td><td>Vorarbeiter/in</td><td>13–15</td><td></td></tr>
-<tr><td>4 10 090</td><td>Werkstattchef/in</td><td>13–15</td><td></td></tr>
+<tr><td>4 10 070</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>4 10 090</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 4 15 Lagerpersonal
@@ -658,7 +662,7 @@ beschliesst:
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>4 15 010</td><td>Materialverwalter/in</td><td>07–09</td><td></td></tr>
 <tr><td>4 15 030</td><td>Magaziner/in</td><td>07–09</td><td></td></tr>
-<tr><td>4 15 050</td><td>Chefmagaziner/in</td><td>10–12</td><td></td></tr>
+<tr><td>4 15 050</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 4 20 Hauswirtschaftspersonal
@@ -686,7 +690,7 @@ beschliesst:
 <tr><td>4 25 010</td><td>Reinigungspersonal</td><td>03–05</td><td></td></tr>
 <tr><td>4 25 030</td><td>Hilfshauswart/in</td><td>04–06</td><td></td></tr>
 <tr><td>4 25 050</td><td>Hauswart/in</td><td>11</td><td>a</td></tr>
-<tr><td>4 25 070</td><td>Chefhauswart/in</td><td>12–13</td><td></td></tr>
+<tr><td>4 25 070</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 4 30 Strassenunterhalt
@@ -700,7 +704,7 @@ beschliesst:
 <tr><td>4 30 010</td><td>Strassenwärter/in</td><td>06–08</td><td>a</td></tr>
 <tr><td>4 30 050</td><td>Chauffeur/in–Strassenwärter/in</td><td>09</td><td>a</td></tr>
 <tr><td>4 30 070</td><td>Chauffeur/in-Maschinist/in</td><td>09</td><td>a</td></tr>
-<tr><td>4 30 110</td><td>Equipenchef/in</td><td>12</td><td>a</td></tr>
+<tr><td>4 30 110</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 4 40 Aufsicht
@@ -763,15 +767,15 @@ beschliesst:
 <tr><td>5 10 090</td><td>Technische Assistentin/Technischer Assistent</td><td>12–14</td><td></td></tr>
 <tr><td>5 10 110</td><td>Technische Sachbearbeiterin/Technischer Sachbearbeiter</td><td>12–14</td><td>a</td></tr>
 <tr><td>5 10 130</td><td>Höhere technische Sachbearbeiterin/Höherer technischer Sachbearbeiter</td><td>16–18</td><td>b</td></tr>
-<tr><td>5 10 170</td><td>Technische Chefin/Technischer Chef</td><td>16–18</td><td></td></tr>
+<tr><td>5 10 170</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>5 10 190</td><td>Techniker/in</td><td>12–14</td><td></td></tr>
 <tr><td>5 10 220</td><td>Arbeitsinspektor/in</td><td>17–21</td><td></td></tr>
 <tr><td>5 10 230</td><td>Dipl. technische Sachbearbeiterin B/Dipl. technischer Sachbearbeiter B</td><td>16–18</td><td>a</td></tr>
 <tr><td>5 10 240</td><td>Dipl. technische Sachbearbeiterin A/Dipl. technischer Sachbearbeiter A</td><td>18–20</td><td>a</td></tr>
-<tr><td>5 10 250</td><td>Adjunkt/in der Leiterin/des Leiters eines technischen Dienstes</td><td>16–22</td><td></td></tr>
-<tr><td>5 10 270</td><td>Leiter/in eines technischen Dienstes</td><td>18–24</td><td></td></tr>
-<tr><td>5 10 290</td><td>Sektionschef/in FH – Sektorchef/in FH</td><td>20–24</td><td></td></tr>
-<tr><td>5 10 330</td><td>Sektionschef/in ETH/HS – Sektorchef/in ETH/HS</td><td>24–28</td><td></td></tr>
+<tr><td>5 10 250</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 10 270</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 10 290</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 10 330</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 15 Amt für Strassenverkehr und Schifffahrt (ASS)
@@ -795,7 +799,7 @@ beschliesst:
 
 <table>
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
-<tr><td>5 20 030</td><td>Inventarleiter/in – Redaktor/in</td><td>22–24</td><td></td></tr>
+<tr><td>5 20 030</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>5 20 050</td><td>Kunstrestaurator/in</td><td>18–20</td><td></td></tr>
 </table>
 
@@ -809,7 +813,7 @@ beschliesst:
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>5 25 020</td><td>Spezialisierte Ausgrabungstechnikerin/Spezialisierter Ausgrabungstechniker</td><td>16</td><td></td></tr>
 <tr><td>5 25 030</td><td>Wissenschaftliche Assistentin/Wissenschaftlicher Assistent AAFR</td><td>18–20</td><td>a</td></tr>
-<tr><td>5 25 050</td><td>Sektorchef/in AAFR</td><td>22–24</td><td></td></tr>
+<tr><td>5 25 050</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 30 Forstwesen
@@ -821,7 +825,7 @@ beschliesst:
 <table>
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>5 30 010</td><td>Förster/in</td><td>15–16</td><td>a</td></tr>
-<tr><td>5 30 030</td><td>Kreisforstingenieur/in</td><td>28</td><td></td></tr>
+<tr><td>5 30 030</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 35 Laboratorium
@@ -835,7 +839,7 @@ beschliesst:
 <tr><td>5 35 070</td><td>Laborant/in</td><td>11–12</td><td>a</td></tr>
 <tr><td>5 35 090</td><td>Fachlaborant/in</td><td>13–14</td><td>a</td></tr>
 <tr><td>5 35 110</td><td>Cheflaborant/in</td><td>15</td><td>a</td></tr>
-<tr><td>5 35 170</td><td>Laborchef/in ETH/HS</td><td>24–28</td><td></td></tr>
+<tr><td>5 35 170</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 37 Amt für Lebensmittelsicherheit und Veterinärwesen (LSVW)
@@ -850,7 +854,7 @@ beschliesst:
 <tr><td>5 37 040</td><td>Lebensmittelkontrolleur/in</td><td>16–18</td><td>a</td></tr>
 <tr><td>5 37 060</td><td>Kantonale Lebensmittelinspektorin/Kantonaler Lebensmittelinspektor</td><td>18–20</td><td>a</td></tr>
 <tr><td>5 37 110</td><td>Amtliche Tierärztin/Amtlicher Tierarzt</td><td>22–24</td><td></td></tr>
-<tr><td>5 37 120</td><td>Cheftierärztin/Cheftierarzt eines Standorts</td><td>26–27</td><td></td></tr>
+<tr><td>5 37 120</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 50 Grangeneuve
@@ -896,9 +900,9 @@ beschliesst:
 <tr><td>5 60 310</td><td>ICT Qualitätsmanager/in</td><td>18–20</td><td></td></tr>
 <tr><td>5 60 320</td><td>ICT Sicherheitsbeauftragte/r</td><td>21–25</td><td></td></tr>
 <tr><td>5 60 340</td><td>ICT Architekt/in</td><td>21–25</td><td></td></tr>
-<tr><td>5 60 440</td><td>Sektorchef/in ITA</td><td>18–24</td><td></td></tr>
-<tr><td>5 60 490</td><td>Adjunkt/in der Sektionschefin/des Sektionschefs ITA</td><td>24–26</td><td></td></tr>
-<tr><td>5 60 510</td><td>Sektionschef/in ITA</td><td>27–28</td><td></td></tr>
+<tr><td>5 60 440</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 60 490</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 60 510</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 6 00 SPITAL– UND SOZIALWESEN

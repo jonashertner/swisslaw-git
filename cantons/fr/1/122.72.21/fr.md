@@ -3,13 +3,13 @@ canton: FR
 number: "122.72.21"
 title: "Ordonnance relative à la classification des fonctions du personnel de l'Etat"
 language: fr
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-07-06
+version: 2024-01-01
+valid_until: 2024-11-30
+version_adopted: 2023-12-12
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7805/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8015/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7805/pdf_file"
 
 Personnel de l'Etat, classification des fonctions – O
 
-du 29.11.2022 (version entrée en vigueur le 01.08.2023)
+du 29.11.2022 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -108,7 +108,7 @@ Arrête:
 - 3 00 ENSEIGNEMENT
   - 3 10 Ecoles primaires
   - 3 20 Ecoles du cycle d'orientation (CO)
-  - 3 30 Ecoles professionnelles initiales
+  - 3 30 Ecoles professionnelles (EP)
   - 3 35 Ecoles supérieures (ES)
   - 3 40 Hautes écoles spécialisées (HEG-FR, HETS-FR, HEIA-FR, HEdS-FR)
   - 3 45 Haute Ecole pédagogique Fribourg (HEP-PH FR)
@@ -167,7 +167,7 @@ Arrête:
 
 **EDFR** Etablissement de détention fribourgeois
 
-**EP** Ecole professionnelle
+**EP** Ecoles professionnelles
 
 **EPD** Etudes postdiplômes
 
@@ -249,32 +249,36 @@ Arrête:
 <tr><td>1 10 170</td><td>Collaborateur/trice administratif/ive</td><td>12–14</td><td>m</td></tr>
 <tr><td>1 10 180</td><td>Collaborateur/trice administratif/ive supérieur/e</td><td>16–18</td><td>c</td></tr>
 <tr><td>1 10 190</td><td>Collaborateur/trice administratif/ive diplômé/e</td><td>18–20</td><td></td></tr>
-<tr><td>1 10 210</td><td>Chef/fe de bureau</td><td>13–15</td><td></td></tr>
-<tr><td>1 10 230</td><td>Adjoint/e du/de la chef/fe de section</td><td>14–18</td><td></td></tr>
-<tr><td>1 10 250</td><td>Adjoint/e du/de la chef/fe de secteur</td><td>14–18</td><td></td></tr>
+<tr><td>1 10 210</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 230</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 250</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>1 10 280</td><td>Officier/ière de l'état civil</td><td>14</td><td>m</td></tr>
-<tr><td>1 10 290</td><td>Chef/fe d'office de l'état civil régional</td><td>16</td><td>c</td></tr>
-<tr><td>1 10 330</td><td>Adjoint/e administratif/ive</td><td>16–22</td><td></td></tr>
-<tr><td>1 10 350</td><td>Chef/fe de section</td><td>18–24</td><td></td></tr>
-<tr><td>1 10 370</td><td>Chef/fe de secteur</td><td>18–24</td><td></td></tr>
+<tr><td>1 10 290</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 320</td><td>Chef/fe de groupe</td><td>12–20 (22\*)</td><td></td></tr>
+<tr><td>1 10 330</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 350</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 370</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>1 10 410</td><td>Collaborateur/trice scientifique</td><td>20–24</td><td>c</td></tr>
 <tr><td>1 10 430</td><td>Juriste</td><td>20–24</td><td>c</td></tr>
 <tr><td>1 10 450</td><td>Economiste</td><td>20–24</td><td>c</td></tr>
-<tr><td>1 10 490</td><td>Adjoint/e du/de la chef/fe de service</td><td>16–26</td><td></td></tr>
+<tr><td>1 10 480</td><td>Adjoint/e de cadre</td><td>12–26</td><td></td></tr>
+<tr><td>1 10 490</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>1 10 510</td><td>Adjoint/e du/de la directeur/trice (pour les établissements selon l'article 2 RPers)</td><td>23–26</td><td></td></tr>
+<tr><td>1 10 520</td><td>Cadre B</td><td>20–26 (28\*)</td><td></td></tr>
 <tr><td>1 10 570</td><td>Chef/fe de service adjoint/e</td><td>25–32</td><td>m</td></tr>
 <tr><td>1 10 590</td><td>Directeur/trice adjoint/e (pour les établissements selon l'article 2 RPers)</td><td>27–30</td><td></td></tr>
+<tr><td>1 10 620</td><td>Cadre A</td><td>26–28 (30\*)</td><td></td></tr>
 <tr><td>1 10 630</td><td>Conservateur/trice du Registre foncier</td><td>24–30</td><td></td></tr>
 <tr><td>1 10 650</td><td>Conseiller/ère scientifique</td><td>26–30</td><td></td></tr>
 <tr><td>1 10 670</td><td>Conseiller/ère juridique</td><td>26–30</td><td></td></tr>
 <tr><td>1 10 690</td><td>Conseiller/ère économique</td><td>26–30</td><td></td></tr>
 <tr><td>1 10 710</td><td>Chef/fe de service</td><td>24–36</td><td>m</td></tr>
-<tr><td>1 10 720</td><td>Directeur/trice d'une institution culturelle</td><td>28–30</td><td></td></tr>
-<tr><td>1 10 725</td><td>Directeur/trice adjoint/e d'une institution culturelle</td><td>25–28</td><td></td></tr>
+<tr><td>1 10 720</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 10 725</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>1 10 730</td><td>Secrétaire général/e</td><td>34</td><td>m</td></tr>
 <tr><td>1 10 750</td><td>Directeur/trice (pour les établissements selon l'article 2 RPers)</td><td>28–36</td><td>m</td></tr>
 <tr><td>1 10 770</td><td>Administrateur/trice (pour les établissements selon l'article 2 RPers)</td><td>30–34</td><td></td></tr>
-<tr><td>1 10 790</td><td>Lieutenant/e de préfet</td><td>25–28</td><td>m</td></tr>
+<tr><td>1 10 790</td><td>Lieutenant/e de préfet</td><td>28–30</td><td>m</td></tr>
 </table>
 
 ### 1 20 Traduction
@@ -287,7 +291,7 @@ Arrête:
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>1 20 010</td><td>Interprète</td><td>18</td><td></td></tr>
 <tr><td>1 20 030</td><td>Traducteur/trice</td><td>22</td><td>m</td></tr>
-<tr><td>1 20 050</td><td>Chef/fe traducteur/trice</td><td>26–28</td><td></td></tr>
+<tr><td>1 20 050</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 30 Comptabilité – Caisse – Contrôle financier
@@ -302,8 +306,8 @@ Arrête:
 <tr><td>1 30 020</td><td>Collaborateur/trice en gestion comptable</td><td>12–14</td><td></td></tr>
 <tr><td>1 30 090</td><td>Inspecteur/trice financier/ière</td><td>18–22</td><td>m</td></tr>
 <tr><td>1 30 110</td><td>Collaborateur/trice spécialisé/e en comptabilité</td><td>16–18</td><td>m</td></tr>
-<tr><td>1 30 130</td><td>Chef/fe comptable</td><td>18–22</td><td></td></tr>
-<tr><td>1 30 150</td><td>Chef/fe de la comptabilité générale de l'Etat</td><td>29–30</td><td></td></tr>
+<tr><td>1 30 130</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 30 150</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 40 Taxation – Contrôle – Révision
@@ -318,9 +322,9 @@ Arrête:
 <tr><td>1 40 030</td><td>Taxateur/trice fiscal/e</td><td>12–15</td><td>m</td></tr>
 <tr><td>1 40 070</td><td>Taxateur/trice fiscal/e principal/e</td><td>16–17</td><td></td></tr>
 <tr><td>1 40 130</td><td>Réviseur/e</td><td>19–23</td><td>c</td></tr>
-<tr><td>1 40 170</td><td>Chef/fe de secteur adjoint/e SCC</td><td>20–25</td><td></td></tr>
-<tr><td>1 40 190</td><td>Chef/fe de secteur SCC</td><td>24–27</td><td></td></tr>
-<tr><td>1 40 210</td><td>Chef/fe de section SCC</td><td>28–29</td><td></td></tr>
+<tr><td>1 40 170</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 40 190</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>1 40 210</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 50 Archives – Bibliothèques – Médiathèques
@@ -335,7 +339,7 @@ Arrête:
 <tr><td>1 50 070</td><td>Agent/e en information documentaire</td><td>08–10</td><td>m</td></tr>
 <tr><td>1 50 110</td><td>Bibliothécaire-médiathécaire</td><td>15–18</td><td>m</td></tr>
 <tr><td>1 50 150</td><td>Bibliothécaire-médiathécaire scientifique</td><td>18–20</td><td>c</td></tr>
-<tr><td>1 50 190</td><td>Chef/fe de secteur/d'unité</td><td>22–24</td><td>c</td></tr>
+<tr><td>1 50 190</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 55 Offices régionaux de placement (ORP)
@@ -347,7 +351,7 @@ Arrête:
 <table>
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>1 55 010</td><td>Conseiller/ère en personnel ORP</td><td>16–18</td><td>m</td></tr>
-<tr><td>1 55 050</td><td>Chef/fe de groupe ORP</td><td>20–22</td><td></td></tr>
+<tr><td>1 55 050</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 1 60 Etablissement cantonal des assurances sociales (ECAS)
@@ -376,7 +380,7 @@ Arrête:
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>2 10 010</td><td>Substitut/e à l'Office des poursuites</td><td>16–20</td><td></td></tr>
 <tr><td>2 10 020</td><td>Huissier/ière à l'Office des poursuites</td><td>14</td><td></td></tr>
-<tr><td>2 10 040</td><td>Huissier/ière-chef/fe de secteur à l'Office des poursuites</td><td>15</td><td></td></tr>
+<tr><td>2 10 040</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>2 10 060</td><td>Huissier/ière à l'Office des faillites</td><td>11</td><td></td></tr>
 <tr><td>2 10 070</td><td>Substitut/e à l'Office des faillites</td><td>20</td><td></td></tr>
 <tr><td>2 10 090</td><td>Préposé/e à l'Office des poursuites</td><td>22–26</td><td>m</td></tr>
@@ -479,7 +483,7 @@ Arrête:
 
 <table>
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
-<tr><td>2 50 010</td><td>Instructeur/trice PC</td><td>14–16</td><td>c</td></tr>
+<tr><td>2 50 020</td><td>Instructeur/trice PC</td><td>14–16</td><td>c</td></tr>
 </table>
 
 ### 3 00 ENSEIGNEMENT
@@ -516,17 +520,17 @@ Arrête:
 <tr><td>3 20 160</td><td>Directeur/trice d'école du cycle d'orientation</td><td>28</td><td>m</td></tr>
 </table>
 
-### 3 30 Ecoles professionnelles initiales
+### 3 30 Ecoles professionnelles (EP)
 
 #### Art. A2-16
 
-<sup>1</sup> La classification des fonctions du personnel de l'Etat du domaine «Enseignement» est la suivante pour le sous-domaine «Ecoles professionnelles initiales»:
+<sup>1</sup> La classification des fonctions du personnel de l'Etat du domaine «Enseignement» est la suivante pour le sous-domaine «Ecoles professionnelles (EP)»:
 
 <table>
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>3 30 030</td><td>Maître/sse professionnel/le</td><td>22–25</td><td>c</td></tr>
-<tr><td>3 30 070</td><td>Doyen/ne EP</td><td>25–27</td><td>m</td></tr>
-<tr><td>3 30 110</td><td>Directeur/trice d'une école de formation professionnelle initiale</td><td>30</td><td>m</td></tr>
+<tr><td>3 30 070</td><td>Doyen/ne EP</td><td>26–27</td><td>m</td></tr>
+<tr><td>3 30 110</td><td>Directeur/trice d'une école professionnelle</td><td>30</td><td>m</td></tr>
 </table>
 
 ### 3 35 Ecoles supérieures (ES)
@@ -599,7 +603,7 @@ Arrête:
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>3 60 010</td><td>Collaborateur/trice pédagogique</td><td>19–25</td><td>m</td></tr>
 <tr><td>3 60 070</td><td>Conseiller/ère en orientation professionnelle, universitaire et de carrière</td><td>22</td><td></td></tr>
-<tr><td>3 60 090</td><td>Administrateur/trice d'école</td><td>19–24</td><td></td></tr>
+<tr><td>3 60 090</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>3 60 110</td><td>Inspecteur/trice scolaire</td><td>26–29</td><td>m</td></tr>
 </table>
 
@@ -646,8 +650,8 @@ Arrête:
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>4 10 030</td><td>Ouvrier/ière spécialisé/e</td><td>04–06</td><td>m</td></tr>
 <tr><td>4 10 050</td><td>Ouvrier/ière qualifié/e</td><td>08–10</td><td>m</td></tr>
-<tr><td>4 10 070</td><td>Contremaître/sse</td><td>13–15</td><td></td></tr>
-<tr><td>4 10 090</td><td>Chef/fe d'atelier</td><td>13–15</td><td></td></tr>
+<tr><td>4 10 070</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>4 10 090</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 4 15 Personnel de magasin
@@ -660,7 +664,7 @@ Arrête:
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>4 15 010</td><td>Responsable de matériel</td><td>07–09</td><td></td></tr>
 <tr><td>4 15 030</td><td>Magasinier/ière</td><td>07–09</td><td></td></tr>
-<tr><td>4 15 050</td><td>Chef/fe magasinier/ière</td><td>10–12</td><td></td></tr>
+<tr><td>4 15 050</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 4 20 Personnel d'intendance
@@ -688,7 +692,7 @@ Arrête:
 <tr><td>4 25 010</td><td>Personnel de nettoyage</td><td>03–05</td><td></td></tr>
 <tr><td>4 25 030</td><td>Aide-concierge</td><td>04–06</td><td></td></tr>
 <tr><td>4 25 050</td><td>Concierge</td><td>11</td><td>m</td></tr>
-<tr><td>4 25 070</td><td>Chef/fe concierge</td><td>12–13</td><td></td></tr>
+<tr><td>4 25 070</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 4 30 Entretien des routes
@@ -702,7 +706,7 @@ Arrête:
 <tr><td>4 30 010</td><td>Cantonnier/ière</td><td>06–08</td><td>m</td></tr>
 <tr><td>4 30 050</td><td>Chauffeur/e cantonnier/ière</td><td>09</td><td>m</td></tr>
 <tr><td>4 30 070</td><td>Chauffeur/e machiniste</td><td>09</td><td>m</td></tr>
-<tr><td>4 30 110</td><td>Chef/fe d'équipe</td><td>12</td><td>m</td></tr>
+<tr><td>4 30 110</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 4 40 Surveillance
@@ -765,15 +769,15 @@ Arrête:
 <tr><td>5 10 090</td><td>Assistant/e technique</td><td>12–14</td><td></td></tr>
 <tr><td>5 10 110</td><td>Collaborateur/trice technique</td><td>12–14</td><td>m</td></tr>
 <tr><td>5 10 130</td><td>Collaborateur/trice technique supérieur/e</td><td>16–18</td><td>c</td></tr>
-<tr><td>5 10 170</td><td>Chef/fe technique</td><td>16–18</td><td></td></tr>
+<tr><td>5 10 170</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>5 10 190</td><td>Technicien/ne</td><td>12–14</td><td></td></tr>
 <tr><td>5 10 220</td><td>Inspecteur/trice du travail</td><td>17–21</td><td></td></tr>
 <tr><td>5 10 230</td><td>Collaborateur/trice technique diplômé/e B</td><td>16–18</td><td>m</td></tr>
 <tr><td>5 10 240</td><td>Collaborateur/trice technique diplômé/e A</td><td>18–20</td><td>m</td></tr>
-<tr><td>5 10 250</td><td>Adjoint/e du/de la chef/fe d'un service technique</td><td>16–22</td><td></td></tr>
-<tr><td>5 10 270</td><td>Chef/fe d'un service technique</td><td>18–24</td><td></td></tr>
-<tr><td>5 10 290</td><td>Chef/fe de section/secteur HES</td><td>20–24</td><td></td></tr>
-<tr><td>5 10 330</td><td>Chef/fe de section EPF/universitaire – Chef/fe de secteur EPF/universitaire</td><td>24–28</td><td></td></tr>
+<tr><td>5 10 250</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 10 270</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 10 290</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 10 330</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 15 Office de la circulation et de la navigation (OCN)
@@ -797,7 +801,7 @@ Arrête:
 
 <table>
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
-<tr><td>5 20 030</td><td>Rédacteur/trice responsable d'inventaire</td><td>22–24</td><td></td></tr>
+<tr><td>5 20 030</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td>5 20 050</td><td>Restaurateur/trice d'art</td><td>18–20</td><td></td></tr>
 </table>
 
@@ -811,7 +815,7 @@ Arrête:
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>5 25 020</td><td>Technicien/ne de fouille spécialisé/e</td><td>16</td><td></td></tr>
 <tr><td>5 25 030</td><td>Assistant/e scientifique SAEF</td><td>18–20</td><td>m</td></tr>
-<tr><td>5 25 050</td><td>Chef/fe de secteur SAEF</td><td>22–24</td><td></td></tr>
+<tr><td>5 25 050</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 30 Forêts
@@ -823,7 +827,7 @@ Arrête:
 <table>
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>5 30 010</td><td>Forestier/ière</td><td>15–16</td><td>m</td></tr>
-<tr><td>5 30 030</td><td>Ingénieur/e forestier/ière d'arrondissement</td><td>28</td><td></td></tr>
+<tr><td>5 30 030</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 35 Laboratoire
@@ -837,7 +841,7 @@ Arrête:
 <tr><td>5 35 070</td><td>Laborantin/e</td><td>11–12</td><td>m</td></tr>
 <tr><td>5 35 090</td><td>Laborantin/e spécialisé/e</td><td>13–14</td><td>m</td></tr>
 <tr><td>5 35 110</td><td>Laborantin/e-chef/fe</td><td>15</td><td>m</td></tr>
-<tr><td>5 35 170</td><td>Chef/fe de laboratoire EPF/universitaire</td><td>24–28</td><td></td></tr>
+<tr><td>5 35 170</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 37 Service de la sécurité alimentaire et des affaires vétérinaires (SAAV)
@@ -852,7 +856,7 @@ Arrête:
 <tr><td>5 37 040</td><td>Contrôleur/euse des denrées alimentaires</td><td>16–18</td><td>m</td></tr>
 <tr><td>5 37 060</td><td>Inspecteur/trice cantonal/e des denrées alimentaires</td><td>18–20</td><td>m</td></tr>
 <tr><td>5 37 110</td><td>Vétérinaire officiel/le</td><td>22–24</td><td></td></tr>
-<tr><td>5 37 120</td><td>Vétérinaire officiel/le chef/fe de site</td><td>26–27</td><td></td></tr>
+<tr><td>5 37 120</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 5 50 Grangeneuve
@@ -898,9 +902,9 @@ Arrête:
 <tr><td>5 60 310</td><td>Manager de la qualité TIC</td><td>18–20</td><td></td></tr>
 <tr><td>5 60 320</td><td>Responsable de la sécurité TIC</td><td>21–25</td><td></td></tr>
 <tr><td>5 60 340</td><td>Architecte TIC</td><td>21–25</td><td></td></tr>
-<tr><td>5 60 440</td><td>Chef/fe de secteur SITel</td><td>18–24</td><td></td></tr>
-<tr><td>5 60 490</td><td>Adjoint/e du/de la chef/fe de section SITel</td><td>24–26</td><td></td></tr>
-<tr><td>5 60 510</td><td>Chef/fe de section SITel</td><td>27–28</td><td></td></tr>
+<tr><td>5 60 440</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 60 490</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>5 60 510</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 ### 6 00 MÉDICAL – PARAMÉDICAL – SOCIAL
