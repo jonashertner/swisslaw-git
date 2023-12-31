@@ -4,11 +4,11 @@ title: Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkeh
 short: IdTVD-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20240101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/de"
 
 (IdTVD-V)
 
-vom 3. November 2021 (Stand am 1. September 2023)
+vom 3. November 2021 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -387,15 +387,17 @@ Die Identitas AG prüft die Daten nach den Artikeln 16–21 auf ihre Vollständi
 
 <sup>2</sup> Schlachtbetriebe können die TVD-Nummer der Gesuchstellerin oder des Gesuchstellers nach Anhang 1 Ziffer 1 Buchstabe e Ziffer 7, Ziffer 2 Buchstabe e Ziffer 7 sowie Ziffer 4 Buchstabe j Ziffer 5 bis 30 Tage nach der Schlachtung online ändern.
 
-<sup>3</sup> Die meldepflichtigen Personen und die beauftragten Personen können bei der Identitas AG bis 1 Jahr nach dem Tod eines Tiers telefonisch oder schriftlich eine Berichtigung der von ihnen übermittelten Daten beantragen.
+<sup>3</sup> Die meldepflichtigen Personen und die beauftragten Personen können bei der Identitas AG telefonisch oder schriftlich eine Berichtigung der von ihnen übermittelten Daten beantragen.[^25-2]
 
-<sup>4</sup> Für die Berichtigung von Daten nach Anhang 1 Ziffer 1 Buchstaben c–e, Ziffer 2 Buchstaben c–e sowie Ziffer 3 Buchstaben b und c sind die Begleitdokumente nach Artikel 12 TSV[^25-2] einzureichen.
+<sup>4</sup> Drittpersonen können bei der Identitas AG eine Berichtigung nur für Daten über den Abgang eines Tiers nach Anhang 1 Ziffer 1 Buchstabe d und Ziffer 2 Buchstabe d beantragen. Sie müssen dafür die Begleitdokumente nach Artikel 12 TSV[^25-3] einreichen.[^25-4]
 
-<sup>5</sup> Die kantonalen Stellen, die für den Vollzug der Tierseuchengesetzgebung zuständig sind, können bei der Identitas AG telefonisch oder schriftlich eine Berichtigung von Daten nach Anhang 1 beantragen.[^25-3]
+<sup>5</sup> Die kantonalen Stellen, die für den Vollzug der Tierseuchengesetzgebung zuständig sind, können bei der Identitas AG telefonisch oder schriftlich eine Berichtigung von Daten nach Anhang 1 beantragen.[^25-5]
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
-[^25-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^25-3]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^25-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^25-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^25-5]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 26
 
@@ -487,36 +489,16 @@ Die Identitas AG veröffentlicht anonymisierte Auswertungen über die gesammelte
 
 #### Art. 33
 
-**Allgemeine Berechtigung**
+**Zugriff auf eigene Daten**[^33-1]
 
-<sup>1</sup>
+Jede Person kann in die folgenden Daten, die sie betreffen, Einsicht nehmen und sie verwenden:
 
-Jede Person kann in folgende Daten Einsicht nehmen und sie verwenden:
+- a. Name und Adresse;
+- b. Telefonnummer und Korrespondenzsprache;
+- c. Post- oder Bankverbindung;
+- d. E-Mail-Adresse.
 
-- a. Daten, die sie betreffen;
-- b.
-
-  Daten zu Tierhaltungen:
-
-  - 1\. bei landwirtschaftlichen Tierhaltungen nach Artikel 11 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^33-1] (LBV): die Gebietszugehörigkeit,
-  - 2\. bei Tierhaltungen mit Tieren der Rindergattung, Büffeln oder Bisons: den BVD-Status,
-  - 3\.[^33-2] bei Tierhaltungen mit Tieren der Schafgattung: den Moderhinkestatus;
-
-- c.
-
-  Daten zu einzelnen Tieren:
-
-  - 1\. Tiergeschichte,
-  - 2\. Tierdetail,
-  - 3\. bei Tieren der Rindergattung, Büffeln und Bisons: den BVD-Status, den Tiergeschichtenstatus und das Geburtsdatum,
-  - 4\. bei Tieren der Schaf- und der Ziegengattung: den Tiergeschichtenstatus und das Geburtsdatum,
-  - 5\. bei Equiden: den Verwendungszweck nach Artikel 15 TAMV[^33-3].
-
-<sup>2</sup> Die TVD-Nummer der Tierhaltung dient als Schlüssel für die Einsichtnahme in die Daten nach Absatz 1 Buchstabe b. Die Identifikationsnummer des Tiers oder die Mikrochipnummer des Tiers dienen als Schlüssel für die Einsichtnahme in die Daten nach Absatz 1 Buchstabe c. Die Benutzerin oder der Benutzer beschafft die Schlüssel selber.
-
-[^33-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^33-2]: In Kraft seit 1. Jan. 2023 in Kraft (Art. 69 Abs. 3).
-[^33-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^33-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 34
 
@@ -553,17 +535,18 @@ Die Zucht-, Produzenten- und Labelorganisationen sowie die Tiergesundheitsdienst
 Tierhalterinnen und Tierhalter können in folgende Daten Einsicht nehmen und sie verwenden:
 
 - a. Daten über die eigene Tierhaltung;
-- b. Auflistung des eigenen Tierbestands mit der Identitätsnummer jedes einzelnen Tiers zum aktuellen oder zu einem früheren Zeitpunkt.
+- b.[^36-1] Auflistung der Identifikationsnummern der Tiere, die in der eigenen Tierhaltung stehen oder gestanden sind.
 
 <sup>2</sup>
 
-Tierhalterinnen und Tierhalter, bei denen ein Tier gestanden ist, sowie eine allfällige Abtretungsempfängerin oder ein allfälliger Abtretungsempfänger nach Artikel 24 Absatz 3 SV[^36-1] können in folgende Daten Einsicht nehmen und sie verwenden:
+Tierhalterinnen und Tierhalter, bei denen ein Tier gestanden ist, sowie eine allfällige Abtretungsempfängerin oder ein allfälliger Abtretungsempfänger nach Artikel 24 Absatz 3 SV[^36-2] können in folgende Daten Einsicht nehmen und sie verwenden:
 
 - a. Ergebnisse der neutralen Qualitätseinstufung nach Artikel 3 Absatz 1 SV;
 - b. Rotwert der Farbe beim Kalbfleisch (L\*-Wert);
 - c. Ergebnisse der Schlachttieruntersuchung sowie Ergebnisse der Fleischuntersuchung, die die Genusstauglichkeit betreffen.
 
-[^36-1]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^36-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^36-2]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
 
 #### Art. 37
 
@@ -577,15 +560,49 @@ Eigentümerinnen und Eigentümer von Equiden können in die Daten der Equiden, d
 
 Die beauftragten Personen nach Artikel 23 können in die gleichen Daten der TVD Einsicht nehmen und sie verwenden wie die Personen, von denen sie beauftragt sind.
 
+#### Art. 38a
+
+[^38a-1]
+
+[^38a-1]: In Kraft ab 1. Jan. 2026
+
+#### Art. 38b
+
+**Zugriff über die TVD-, die Identifikations- oder die Mikrochipnummer**[^38b-1]
+
+<sup>1</sup>
+
+Wer über die TVD-Nummer einer Tierhaltung verfügt, kann ohne Einwilligung der betroffenen Person in die folgenden Daten zu dieser Tierhaltung Einsicht nehmen und sie verwenden:
+
+- a. bei landwirtschaftlichen Tierhaltungen nach Artikel 11 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^38b-2] (LBV): die Gebietszugehörigkeit;
+- b. bei Tierhaltungen mit Tieren der Rindergattung, Büffeln oder Bisons: den BVD-Status;
+- c. bei Tierhaltungen mit Tieren der Schafgattung: den Moderhinkestatus.
+
+<sup>2</sup>
+
+Wer über die Identifikationsnummer oder die Mikrochipnummer eines Tiers verfügt, kann ohne Einwilligung der betroffenen Person in die folgenden Daten zu diesem Tier Einsicht nehmen und sie verwenden:
+
+- a. Tiergeschichte;
+- b. Tierdetail;
+- c. bei Tieren der Rindergattung, Büffeln und Bisons: den BVD-Status, den Tiergeschichtenstatus und das Geburtsdatum;
+- d. bei Tieren der Schaf- und der Ziegengattung: den Tiergeschichtenstatus und das Geburtsdatum;
+- e. bei Equiden: den Verwendungszweck nach Artikel 15 TAMV[^38b-3].
+
+<sup>3</sup> Personen, die in die Daten Einsicht nehmen und sie verwenden wollen, beschaffen die TVD-Nummern von Tierhaltungen sowie die Identifikationsnummern und Mikrochipnummern von Tieren selber
+
+[^38b-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **2023** 706).
+[^38b-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^38b-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+
 #### Art. 39
 
-**Dritte**[^39-1]
+**Zugriff auf Gesuch hin für Zuchtzwecke oder wissenschaftliche Untersuchungszwecke**[^39-1]
 
-<sup>1</sup> Die Identitas AG kann auf Gesuch hin Dritten erlauben, für Zuchtzwecke oder wissenschaftliche Untersuchungszwecke in Daten Einsicht zu nehmen und sie zu verwenden. Sie entscheidet im Einvernehmen mit dem BLW.
+<sup>1</sup> Die Identitas AG kann auf Gesuch hin Dritten ohne Einwilligung der Betroffenen erlauben, für Zuchtzwecke oder wissenschaftliche Untersuchungszwecke in alle Daten der TVD Einsicht zu nehmen und sie zu verwenden. Sie entscheidet im Einvernehmen mit dem BLW.
 
-<sup>2</sup> Beinhaltet das Gesuch nicht anonymisierte Daten oder sind durch die Gesamtheit der verfügbaren Daten Rückschlüsse auf betroffene Personen möglich, so muss die Identitas AG einen Vertrag mit der Drittperson schliessen. Der Vertrag ist vor der Unterzeichnung dem BLW zur Genehmigung vorzulegen.
+<sup>2</sup> Betrifft das Gesuch nicht anonymisierte Daten oder sind durch die Gesamtheit der verfügbaren Daten Rückschlüsse auf betroffene Personen möglich, so muss die Identitas AG einen Vertrag mit der Drittperson schliessen. Der Vertrag ist vor der Unterzeichnung dem BLW zur Genehmigung vorzulegen.
 
-[^39-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^39-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 40
 
@@ -652,11 +669,42 @@ Die Identitas AG berechnet für Tiere der Rindergattung, Wasserbüffel, Bisons u
 [^43-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^43-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
+#### Art. 43a
+
+**Berechnung der Anzahl der geschlachteten Kühe und ihrer Abkalbungen**[^43a-1]
+
+<sup>1</sup> Die Identitas AG berechnet jährlich die Anzahl der geschlachteten Milchkühe und ihrer Abkalbungen sowie die Anzahl der geschlachteten anderen Kühe und ihrer Abkalbungen nach den Artikeln 36 Absatz 1<sup>bis</sup> und 37 Absätze 7 und 8 DZV[^43a-2].
+
+<sup>2</sup> Sie speichert die Daten nach Absatz 1 im GVE-Rechner.
+
+<sup>3</sup> Sie stellt die Daten den zuständigen kantonalen Stellen, dem BLW und dem Bundesamt für Statistik zur Verfügung.
+
+[^43a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^43a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 #### Art. 44
 
-[^44-1]
+**Berechnung der GVE-Werte für Tiere der Schaf- und der Ziegengattung**[^44-1]
 
-[^44-1]: Tritt am 1. Januar 2024 in Kraft (Art. 69 Abs. 2).
+<sup>1</sup>
+
+Die Identitas AG berechnet für Tiere der Schaf- und der Ziegengattung jährlich nach Tierkategorie pro Tierhaltung die Daten nach den Artikeln 36 und 37 DZV[^44-2]:
+
+- a. für Ganzjahresbetriebe nach Artikel 6 LBV[^44-3]: den massgebenden Tierbestand und den Bestand am 1. Januar, mit Auflistung aller Einzeltiere;
+- b. für Sömmerungs- und Gemeinschaftsweidebetriebe nach den Artikeln 8 und 9 LBV: den massgebenden Tierbestand und den Bestand am 25. Juli, mit Auflistung aller Einzeltiere;
+- c. die Entwicklung des Bestands in den Bemessungsperioden nach Artikel 36 DZV auf Ganzjahres-, Sömmerungs- und Gemeinschaftsweidebetrieben.
+
+<sup>2</sup> Sie berechnet einmalig die Daten für die Referenzjahre nach Artikel 41 Absatz 3<sup>bis</sup> DZV.
+
+<sup>3</sup> Sie speichert die Daten nach Absatz 1 im GVE-Rechner.
+
+<sup>4</sup> Sie stellt die Daten den zuständigen kantonalen Stellen, dem BLW und dem Bundesamt für Statistik zur Verfügung.
+
+<sup>5</sup> Das BLW erlässt Vorgaben, wie die Daten zu berechnen und in welcher Form sie zur Verfügung zu stellen sind.
+
+[^44-1]: In Kraft seit 1. Jan. 2024 in Kraft (Art. 69 Abs. 2).
+[^44-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^44-3]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
 #### Art. 45
 
@@ -671,11 +719,23 @@ Die Identitas AG stellt den Tierhalterinnen und Tierhaltern jeweils bis spätest
 [^45-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^45-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
+#### Art. 45a
+
+**Erstellen des Verzeichnisses der geschlachteten Kühe mit ihren Abkalbungen**[^45a-1]
+
+Die Identitas AG stellt den Tierhalterinnen und Tierhaltern jeweils bis spätestens 15 Tage nach Ablauf der Bemessungsperioden nach Artikel 36 DZV[^45a-2] auf elektronischem Weg ein Verzeichnis mit den Angaben nach Artikel 43*a* zu.
+
+[^45a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^45a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 #### Art. 46
 
-[^46-1]
+**Erstellen des GVE-Verzeichnisses für Tiere der Schaf- und der Ziegengattung**[^46-1]
 
-[^46-1]: Tritt am 1. Januar 2024 in Kraft (Art. 69 Abs. 2).
+Die Identitas AG stellt den Tierhalterinnen und Tierhaltern jeweils bis spätestens 15 Tage nach Ablauf der Bemessungsperioden nach Artikel 36 DZV[^46-2] auf elektronischem Weg ein Verzeichnis ihrer Tiere der Schaf- und der Ziegengattung zur Verfügung. Dieses Verzeichnis enthält die Angaben nach Artikel 44 Absatz 1 sowie die Angaben zur Nutzungsart nach Anhang 1 Ziffer 2 Buchstabe h Ziffer 3.
+
+[^46-1]: In Kraft seit 1. Jan. 2024 in Kraft (Art. 69 Abs. 2).
+[^46-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 47
 
@@ -688,9 +748,14 @@ Die Identitas AG stellt den Tierhalterinnen und Tierhaltern sowie den Amtsstelle
 
 #### Art. 48
 
-[^48-1]
+**Bereitstellen eines Berechnungsinstruments für Tiere der Schaf- und der Ziegengattung**[^48-1]
 
-[^48-1]: Tritt am 1. Januar 2024 in Kraft (Art. 69 Abs. 2).
+Die Identitas AG stellt den Tierhalterinnen und Tierhaltern sowie den Amtsstellen und beigezogenen Firmen, Organisationen und Kontrollorganen nach Artikel 34 ein Instrument zur Verfügung, mit dem sie, für einen wählbaren Zeitraum von maximal einem Jahr, Folgendes berechnen können:
+
+- a. den Bestand an Tieren der Schaf- und der Ziegengattung nach Tierkategorien in Grossvieheinheiten;
+- b. für die Alpung und Sömmerung den Bestand an Tieren der Schaf- und der Ziegengattung nach Tierkategorien in Normalstössen.
+
+[^48-1]: In Kraft seit 1. Jan. 2024 in Kraft (Art. 69 Abs. 2).
 
 #### Art. 49
 

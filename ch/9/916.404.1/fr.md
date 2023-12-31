@@ -4,11 +4,11 @@ title: Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de
 short: OId-BDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20240101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/fr"
 
 (OId-BDTA)
 
-du 3 novembre 2021 (État le 1<sup>er</sup> septembre 2023)
+du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
-## Chapitre 1 Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -385,15 +385,17 @@ Identitas SA vérifie l’exhaustivité et la plausibilité des données visées
 
 <sup>2</sup> L’abattoir peut modifier en ligne le numéro BDTA du requérant visé à l’annexe 1, ch. 1, let. e, ch. 7, ch. 2, let. e, ch. 7 et ch. 4, let. j, ch. 5, jusqu’à 30 jours après l’abattage.
 
-<sup>3</sup> Les personnes soumises au devoir de notification et les mandataires peuvent, jusqu’à une année après la mort d’un animal, demander, par écrit ou par téléphone, à Identitas SA la rectification des données qu’elles ont transmises.
+<sup>3</sup> Les personnes soumises au devoir de notification et les mandataires peuvent demander à Identitas SA, par écrit ou par téléphone, la rectification des données qu’elles ont transmises.[^25-2]
 
-<sup>4</sup> Les documents d’accompagnement prévus à l’art. 12 OFE[^25-2] sont joints aux demandes de rectification des données, conformément à l’annexe 1, ch. 1, let. c à e, ch. 2, let. c à e, et ch. 3, let. b et c.
+<sup>4</sup> Les tiers ne peuvent demander une rectification à Identitas SA que pour les données concernant la sortie d’un animal visées à l’annexe 1, ch. 1, let. d, et 2, let. d. Pour ce faire, ils doivent lui remettre le document d’accompagnement prévu à l’art. 12 OFE[^25-3].[^25-4]
 
-<sup>5</sup> Les services cantonaux compétents pour l’exécution de la législation sur les épizooties peuvent demander, par écrit ou par téléphone, à Identitas SA la rectification des données visées à l’annexe 1.[^25-3]
+<sup>5</sup> Les services cantonaux compétents pour l’exécution de la législation sur les épizooties peuvent demander, par écrit ou par téléphone, à Identitas SA la rectification des données visées à l’annexe 1.[^25-5]
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
-[^25-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^25-3]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^25-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^25-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^25-5]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 26
 
@@ -485,36 +487,16 @@ Identitas SA publie les évaluations anonymisées des données collectées. Les 
 
 #### Art. 33
 
-**Autorisation générale**
+**Accès à ses propres données**[^33-1]
 
-<sup>1</sup>
+Toute personne peut consulter et utiliser les données suivantes la concernant:
 
-Toute personne peut consulter et utiliser les données suivantes:
+- a. le nom et l’adresse;
+- b. le numéro de téléphone et la langue de correspondance;
+- c. les coordonnées postales ou bancaires;
+- d. l’adresse de courrier électronique.
 
-- a. les données la concernant;
-- b.
-
-  les données relatives aux unités d’élevage:
-
-  - 1\. concernant les unités d’élevage agricoles au sens de l’art. 11 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^33-1]: la région d’appartenance,
-  - 2\. concernant des unités d’élevage comprenant des bovins, des buffles ou des bisons: le statut BVD,
-  - 3\.[^33-2] concernant les unités d’élevage comprenant des ovins: le statut piétin;
-
-- c.
-
-  les données relatives à chaque animal:
-
-  - 1\. historique de l’animal,
-  - 2\. informations détaillées sur l’animal,
-  - 3\. concernant les bovins, les buffles et les bisons: le statut BVD, le statut de l’historique de l’animal et la date de naissance,
-  - 4\. concernant les ovins et les caprins: le statut de l’historique et la date de naissance,
-  - 5\. concernant les équidés: l’utilisation prévue au sens de l’art. 15 de l’OMédV[^33-3].
-
-<sup>2</sup> Le numéro d’identification de l’animal ou le numéro de la puce électronique servent de code d’accès pour la consultation des données visées à l’al. 1, let. b. Le numéro d’identification de l’animal ou le numéro de la puce électronique servent de code d’accès pour la consultation des données visées à l’al. 1, let. c. L’utilisateur se procure lui-même ces codes d’accès.
-
-[^33-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^33-2]: En vigueur depuis le 1<sup>er</sup> janv. 2023 (art. 69, al. 3).
-[^33-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 34
 
@@ -551,17 +533,18 @@ Les organisations d’élevage, de producteurs, de production sous label et les 
 Le détenteur de l’animal peut consulter les données ci-après dans la BDTA et les utiliser:
 
 - a. les données relatives à sa propre unité d’élevage;
-- b. la liste concernant son propre effectif avec le numéro d’identité de chaque animal à la date du jour ou à une date antérieure.
+- b.[^36-1] la liste des numéros d’identification des animaux qui séjournent ou ont séjourné dans sa propre unité d’élevage.
 
 <sup>2</sup>
 
-Les détenteurs d’animaux chez lesquels un animal a séjourné et, le cas échéant, le bénéficiaire du transfert d’un droit à une part de contingent selon l’art. 24, al. 3, OBB[^36-1] peuvent consulter les données ci-après dans la BDTA et les utiliser:
+Les détenteurs d’animaux chez lesquels un animal a séjourné et, le cas échéant, le bénéficiaire du transfert d’un droit à une part de contingent selon l’art. 24, al. 3, OBB[^36-2] peuvent consulter les données ci-après dans la BDTA et les utiliser:
 
 - a. les résultats de la taxation neutre de la qualité au sens de l’art. 3, al. 1, OBB;
 - b. la valeur L\*;
 - c. les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes qui concernent la salubrité de la viande.
 
-[^36-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^36-2]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
 
 #### Art. 37
 
@@ -575,15 +558,49 @@ Les propriétaires d’équidés peuvent consulter et utiliser les données rela
 
 Les personnes mandatées visées à l’art. 23 peuvent consulter et utiliser les mêmes données de la BDTA que leurs mandants.
 
+#### Art. 38a
+
+[^38a-1]
+
+[^38a-1]: En vigueur le 1<sup>er</sup> janv. 2026.
+
+#### Art. 38b
+
+**Accès via le numéro BDTA, le numéro d’identification ou le numéro de la puce électronique**[^38b-1]
+
+<sup>1</sup>
+
+Quiconque dispose du numéro BDTA d’une unité d’élevage peut, sans l’accord de la personne concernée, consulter et utiliser les données suivantes relatives à cette unité d’élevage:
+
+- a. concernant les unités d’élevage agricoles au sens de l’art. 11 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^38b-2]: la région d’appartenance;
+- b. concernant les unités d’élevage comprenant des bovins, des buffles ou des bisons: le statut BVD;
+- c. concernant les unités d’élevage comprenant des ovins: le statut piétin.
+
+<sup>2</sup>
+
+Quiconque dispose du numéro d’identification ou du numéro de la puce électronique d’un animal peut, sans l’accord de la personne concernée, consulter et utiliser les données suivantes relatives à cet animal:
+
+- a. historique de l’animal;
+- b. informations détaillées sur l’animal;
+- c. concernant les bovins, les buffles et les bisons: le statut BVD, le statut de l’historique de l’animal et la date de naissance;
+- d. concernant les ovins et les caprins: le statut de l’historique de l’animal et la date de naissance;
+- e. concernant les équidés: l’utilisation prévue au sens de l’art. 15 de l’OMédV[^38b-3].
+
+<sup>3</sup> Les personnes qui veulent consulter et utiliser les données se procurent elles-mêmes les numéros BDTA des unités d’élevage ainsi que les numéros d’identification et les numéros de la puce électronique des animaux.
+
+[^38b-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^38b-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^38b-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+
 #### Art. 39
 
-**Tiers**[^39-1]
+**Accès sur demande à des fins zootechniques ou de recherches scientifiques**[^39-1]
 
-<sup>1</sup> Sur demande, Identitas SA peut autoriser des tiers à consulter et à utiliser des données à des fins zootechniques ou de recherches scientifiques. Elle prend sa décision en accord avec l’OFAG.
+<sup>1</sup> Sur demande, Identitas SA peut autoriser des tiers à consulter et à utiliser l’ensemble des données de la BDTA, à des fins zootechniques ou de recherches scientifiques, sans l’autorisation des personnes concernées. Elle prend sa décision avec l’accord de l’OFAG.
 
-<sup>2</sup> Si la demande comporte des données non anonymisées ou si l’ensemble des données disponibles permet de tirer des conclusions sur les personnes concernées, Identitas SA conclut un contrat avec les tiers. Avant la signature, le contrat est soumis à l’approbation de l’OFAG.
+<sup>2</sup> Si la demande porte sur des données non anonymisées ou que l’ensemble des données disponibles permet de tirer des conclusions sur les personnes concernées, Identitas SA doit conclure un contrat avec les tiers en question. Avant la signature, le contrat est soumis à l’approbation de l’OFAG.
 
-[^39-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 40
 
@@ -651,11 +668,42 @@ Identitas SA calcule ou détermine chaque année les données visées aux art. 3
 [^43-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^43-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
+#### Art. 43a
+
+**Calcul du nombre de vaches abattues et de leurs vêlages**[^43a-1]
+
+<sup>1</sup> Identitas SA calcule chaque année le nombre de vaches laitières abattues et de leurs vêlages ainsi que le nombre d’autres vaches abattues et de leurs vêlages selon les art. 36, al. 1<sup>bis</sup>, et 37, al. 7 et 8, OPD[^43a-2].
+
+<sup>2</sup> Elle enregistre les données visées à l’al. 1 dans de calculateur UGB.
+
+<sup>3</sup> Elle met les données à la disposition des services cantonaux compétents, de l’OFAG et de l’Office fédéral de la statistique.
+
+[^43a-1]: Introduit par l’annexe ch. 4 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^43a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 #### Art. 44
 
-[^44-1]
+**Calcul des valeurs UGB pour les ovins et les caprins**[^44-1]
 
-[^44-1]: Entre en vigueur le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
+<sup>1</sup>
+
+Identitas SA calcule ou détermine chaque année les données visées aux art. 36 et 37 OPD[^44-2] pour les ovins et caprins selon la catégorie d’animaux et par unité d’élevage:
+
+- a. dans les exploitations à l’année selon l’art. 6 OTerm[^44-3]: l’effectif déterminant et l’effectif au 1<sup>er</sup> janvier, y compris la liste de tous les animaux;
+- b. dans les exploitations d’estivage et les exploitations de pâturages communautaires selon les art. 8 et 9 OTerm: l’effectif déterminant et l’effectif au 25 juillet, y compris la liste de tous les animaux;
+- c. l’évolution des effectifs dans les exploitations à l’année, les exploitations d’estivage et les exploitations de pâturages communautaires, durant les périodes de références visées à l’art. 36 OPD.
+
+<sup>2</sup> Elle calcule ou détermine une fois les données pour les années de référence selon l’art. 41, al. 3<sup>bis</sup>, OPD.
+
+<sup>3</sup> Elle enregistre les données visées à l’al. 1 dans le calculateur UGB.
+
+<sup>4</sup> Elle met les données à la disposition des services cantonaux compétents, de l’OFAG et de l’Office fédéral de la statistique.
+
+<sup>5</sup> L’OFAG édicte les dispositions relatives au mode de calcul et à la forme de mise à disposition des données.
+
+[^44-1]: En vigueur depuis le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
+[^44-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^44-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
 #### Art. 45
 
@@ -670,11 +718,23 @@ Au plus tard 15 jours après l’échéance des périodes de référence visées
 [^45-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^45-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
+#### Art. 45a
+
+**Établissement de la liste des vaches abattues et de leurs vêlages**[^45a-1]
+
+Au plus tard 15 jours après l’échéance des périodes de référence visées à l’art. 36 OPD[^45a-2], Identitas SA met à la disposition du détenteur d’animaux, par voie électronique, une liste comprenant les indications visées à l’art. 43*a*.
+
+[^45a-1]: Introduit par l’annexe ch. 4 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^45a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 #### Art. 46
 
-[^46-1]
+**Établissement de la liste UGB pour les ovins et les caprins**[^46-1]
 
-[^46-1]: Entre en vigueur le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
+Au plus tard 15 jours après l’échéance des périodes de référence visées à l’art. 36 OPD[^46-2], Identitas SA met à la disposition du détenteur d’animaux, par voie électronique, une liste de ses ovins et caprins. Cette liste comprend les indications visés à l’art. 44, al. 1, ainsi que les données portant sur le type d’utilisation au sens de l’annexe 1, ch. 2, let. h, ch. 3.
+
+[^46-1]: En vigueur depuis le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
+[^46-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 47
 
@@ -687,9 +747,14 @@ Identitas SA met à la disposition des détenteurs d’animaux ainsi que des ser
 
 #### Art. 48
 
-[^48-1]
+**Calcul des valeurs UGB pour les ovins et les caprins**[^48-1]
 
-[^48-1]: Entre en vigueur le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
+Identitas SA met à la disposition des détenteurs d’animaux ainsi que des services administratifs et des entreprises, organisations et organes de contrôle mandatés visés à l’art. 34 un instrument permettant de convertir pour une période de leur choix, d’un an au plus:
+
+- a. l’effectif des ovins et des caprins, en unités de gros bétail par catégorie d’animaux;
+- b. concernant la mise à l’alpage et l’estivage, l’effectif des ovins et des caprins, en pâquiers normaux par catégorie d’animaux.
+
+[^48-1]: En vigueur depuis le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
 
 #### Art. 49
 
@@ -743,7 +808,7 @@ Le système e-Transit peut tirer les données suivantes d’autres systèmes d�
 
 <sup>1</sup> Les détenteurs d’animaux visés à l’art. 2, let. a, peuvent établir les documents d’accompagnement électroniques dans e-Transit.
 
-<sup>2</sup> Les détenteurs d’animaux, les transporteurs et les entreprises de commerce d’animaux peuvent consulter les documents d’accompagnement électroniques valables, les utiliser et, pendant la durée de validité du document d’accompagnement visé à l’art. 12*a* OFE[^54-1], les compléter.
+<sup>2</sup> Les détenteurs d’animaux, les transporteurs et les entreprises de commerce d’animaux peuvent consulter les documents d’accompagnement électroniques, les utiliser et, pendant la durée de validité du document d’accompagnement visée à l’art. 12*a* OFE, les compléter.[^54-1]
 
 <sup>3</sup> …[^54-2]
 
@@ -753,7 +818,7 @@ Le système e-Transit peut tirer les données suivantes d’autres systèmes d�
 
 <sup>6</sup> Pour accomplir leurs tâches, l’OFAG, l’OSAV et les services cantonaux compétents pour l’exécution de la législation sur les épizooties, sur l’agriculture, sur la protection des animaux, sur les denrées alimentaires et sur les produits thérapeutiques peuvent consulter les documents d’accompagnement électroniques, les utiliser et, pendant leur durée de validité respective au sens de l’art. 12*a* OFE, les compléter.[^54-3]
 
-[^54-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 [^54-2]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 [^54-3]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
@@ -1410,7 +1475,7 @@ Annexe 2[^t-2]
 
 ## Émoluments
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Mise à jour par le ch. II de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 <table>
 <tr><th></th><th>Francs</th></tr>
@@ -1448,7 +1513,7 @@ Annexe 2[^t-2]
 <tr><td>4.3 Concernant les animaux de l’espèce porcine: notification manquante selon l’art. 18</td><td>7.50</td></tr>
 <tr><td>4.4 Concernant les équidés: notification manquante selon l’art. 19</td><td>15.–</td></tr>
 <tr><td>5 Remise de données</td><td></td></tr>
-<tr><td>Liste des numéros d’identification des animaux d’un effectif: forfait par année civile, unité d’élevage et genre animal; les émoluments inférieurs à 20 francs par année civile ne sont pas facturés</td><td>3.–</td></tr>
+<tr><td>Liste des numéros d’identification des animaux qui séjournent dans une unité d’élevage: forfait par année civile, unité d’élevage et genre animal; les émoluments inférieurs à 20 francs par année civile ne sont pas facturés</td><td>3.–</td></tr>
 <tr><td>6 Saisie de nouvelles organisations</td><td></td></tr>
 <tr><td>Saisie d’une nouvelle organisation d’élevage, de producteurs ou de production sous label, ou d’un nouveau service sanitaire</td><td>250.–</td></tr>
 <tr><td>7 Frais de rappel</td><td></td></tr>

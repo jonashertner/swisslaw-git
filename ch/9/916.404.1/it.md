@@ -4,11 +4,11 @@ title: Ordinanza del 3 novembre 2021 concernente Identitas AG e la banca dati su
 short: OIBDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20240101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230901/it"
 
 (OIBDTA)
 
-del 3 novembre 2021 (Stato 1° settembre 2023)
+del 3 novembre 2021 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -386,15 +386,17 @@ Identitas AG verifica la completezza e la plausibilità dei dati di cui agli art
 
 <sup>2</sup> I macelli possono modificare online entro 30 giorni dalla macellazione il numero BDTA del richiedente di cui all’allegato 1 numeri 1 lettera e numero 7, 2 lettera e numero 7 nonché 4 lettera j numero 5.
 
-<sup>3</sup> Le persone soggette all’obbligo di notifica e i terzi incaricati possono chiedere telefonicamente o per scritto a Identitas AG, entro un anno dalla morte dell’animale, la rettifica dei dati che hanno trasmesso.
+<sup>3</sup> Le persone soggette all’obbligo di notifica e le persone incaricate possono chiedere telefonicamente o per scritto a Identitas AG la rettifica dei dati che hanno trasmesso*.*[^25-2]
 
-<sup>4</sup> Le domande di rettifica dei dati di cui all’allegato 1 numeri 1 lettere c–e, 2 lettere c–e nonché 3 lettere b e c devono essere corredate dei certificati d’accompagnamento di cui all’articolo 12 OFE[^25-2].
+<sup>4</sup> Terze persone possono chiedere una rettifica a Identitas AG solo per dati sull’uscita di un animale secondo l’allegato 1 numero 1 lettera d nonché numero 2 lettera d. A tal fine devono presentare i certificati d’accompagnamento di cui all’articolo 12 OFE[^25-3].[^25-4]
 
-<sup>5</sup> I servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie possono chiedere telefonicamente o per scritto a Identitas AG una rettifica dei dati di cui all’allegato 1.[^25-3]
+<sup>5</sup> I servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie possono chiedere telefonicamente o per scritto a Identitas AG una rettifica dei dati di cui all’allegato 1.[^25-5]
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
-[^25-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^25-3]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^25-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^25-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^25-5]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 26
 
@@ -486,36 +488,16 @@ Identitas AG pubblica in forma anonima analisi dei dati raccolti. I dati sono pr
 
 #### Art. 33
 
-**Diritto generale**
+**Accesso ai propri dati**[^33-1]
 
-<sup>1</sup>
+Chiunque può consultare e utilizzare i seguenti dati che lo concernono:
 
-Chiunque può consultare e utilizzare i seguenti dati:
+- a. nome e indirizzo;
+- b. numero di telefono e lingua per la corrispondenza;
+- c. relazione postale o bancaria;
+- d. indirizzo di posta elettronica.
 
-- a. dati che lo concernono;
-- b.
-
-  dati concernenti le aziende detentrici di animali:
-
-  - 1\. per le aziende agricole detentrici di animali di cui all’articolo 11 dell’ordinanza del 7 dicembre 1998[^33-1] sulla terminologia agricola (OTerm): l’appartenenza territoriale,
-  - 2\. per le aziende detentrici di animali della specie bovina, di bufali o di bisonti: lo stato BVD,
-  - 3\.[^33-2] per le aziende detentrici di animali della specie ovina: lo stato riguardo alla zoppina;
-
-- c.
-
-  dati concernenti i singoli animali:
-
-  - 1\. storia dell’animale,
-  - 2\. informazioni dettagliate relative all’animale,
-  - 3\. per gli animali della specie bovina, i bufali e i bisonti: lo stato BVD, lo stato della storia dell’animale e la data di nascita,
-  - 4\. per gli animali delle specie ovina e caprina: lo stato della storia dell’animale e la data di nascita,
-  - 5\. per gli equidi: lo scopo d’utilizzo giusta l’articolo 15 OMVet[^33-3].
-
-<sup>2</sup> Il numero BDTA dell’azienda detentrice di animali funge da codice per la consultazione dei dati di cui al capoverso 1 lettera b. Il numero d’identificazione dell’animale o il numero del microchip dell’animale funge da codice per la consultazione dei dati di cui al capoverso 1 lettera c. L’utente deve procurarsi autonomamente tali codici.
-
-[^33-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^33-2]: In vigore dal 1° gen. 2023 (art. 69 cpv. 3).
-[^33-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^33-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 34
 
@@ -552,17 +534,18 @@ Le organizzazioni di allevamento, di produttori e di produzione con label nonch�
 I detentori di animali possono consultare e utilizzare i seguenti dati:
 
 - a. dati concernenti la propria azienda detentrice di animali;
-- b. elenco del proprio effettivo di animali con il numero d’identificazione di ogni singolo animale nel momento attuale o in un momento anteriore.
+- b.[^36-1] elenco dei numeri d’identificazione degli animali che sono tenuti o sono stati tenuti nella propria azienda detentrice di animali.
 
 <sup>2</sup>
 
-I detentori di animali che hanno tenuto un animale nonché un eventuale beneficiario di cessione ai sensi dell’articolo 24 capoverso 3 OBM[^36-1] possono consultare e utilizzare i seguenti dati:
+I detentori di animali che hanno tenuto un animale nonché un eventuale beneficiario di cessione ai sensi dell’articolo 24 capoverso 3 OBM[^36-2] possono consultare e utilizzare i seguenti dati:
 
 - a. risultati della classificazione neutrale della qualità ai sensi dell’articolo 3 capoverso 1 OBM;
 - b. indice del rosso nel colore della carne di vitello (valore L\*);
 - c. risultati del controllo degli animali da macello e risultati del controllo delle carni che riguardano la commestibilità.
 
-[^36-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^36-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^36-2]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
 
 #### Art. 37
 
@@ -576,15 +559,49 @@ I proprietari di equidi possono consultare e utilizzare i dati concernenti gli e
 
 I terzi incaricati di cui all’articolo 23 possono consultare e utilizzare gli stessi dati della BDTA come le persone da cui sono state incaricate.
 
+#### Art. 38a
+
+[^38a-1]
+
+[^38a-1]: Entra in vigore il 1° gen. 2026 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+
+#### Art. 38b
+
+**Accesso mediante il numero BDTA, il numero d’identificazione o il numero di microchip**[^38b-1]
+
+<sup>1</sup>
+
+Chi dispone del numero BDTA di un’azienda detentrice di animali può consultare e utilizzare senza il consenso della persona interessata i seguenti dati concernenti tale azienda detentrice di animali:
+
+- a. per le aziende agricole detentrici di animali di cui all’articolo 11 dell’ordinanza del 7 dicembre 1998[^38b-2] sulla terminologia agricola (OTerm): l’appartenenza territoriale;
+- b. per le aziende detentrici di animali della specie bovina, di bufali o di bisonti: lo stato BVD;
+- c. per le aziende detentrici di animali della specie ovina: lo stato riguardo alla zoppina.
+
+<sup>2</sup>
+
+Chi dispone del numero d’identificazione o del numero di microchip di un animale può consultare e utilizzare senza il consenso della persona interessata i seguenti dati concernenti tale animale:
+
+- a. storia dell’animale;
+- b. informazioni dettagliate relative all’animale;
+- c. per gli animali della specie bovina, i bufali e i bisonti: lo stato BVD, lo stato della storia dell’animale e la data di nascita;
+- d. per gli animali delle specie ovina e caprina: lo stato della storia dell’animale e la data di nascita;
+- e. per gli equidi: lo scopo d’utilizzo giusta l’articolo 15 OMVet[^38b-3].
+
+<sup>3</sup> Le persone che intendono consultare e utilizzare i dati acquisiscono personalmente i numeri BDTA delle aziende detentrici di animali nonché i numeri d’identificazione e i numeri di microchip degli animali.
+
+[^38b-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^38b-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^38b-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+
 #### Art. 39
 
-**Terzi**[^39-1]
+**Accesso su richiesta a fini zootecnici o di ricerca scientifica**[^39-1]
 
-<sup>1</sup> Su richiesta, Identitas AG può autorizzare terzi a consultare e utilizzare dati a fini zootecnici o di ricerca scientifica. Decide d’intesa con l’UFAG.
+<sup>1</sup> Su richiesta senza consenso degli interessati, Identitas AG può autorizzare terzi a consultare e utilizzare tutti i dati della BDTA a fini zootecnici o di ricerca scientifica. Decide d’intesa con l’UFAG.
 
 <sup>2</sup> Se la domanda comprende dati non anonimizzati o se attraverso tutti i dati disponibili è possibile risalire a persone interessate, Identitas AG deve concludere un contratto con il terzo. Il contratto va sottoposto per approvazione all’UFAG prima della firma.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^39-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 40
 
@@ -651,11 +668,42 @@ Per gli animali della specie bovina, i bufali, i bisonti e gli equidi Identitas 
 [^43-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^43-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
+#### Art. 43a
+
+**Calcolo del numero di vacche macellate e dei rispettivi parti**[^43a-1]
+
+<sup>1</sup> Identitas AG calcola annualmente il numero di vacche da latte macellate e dei rispettivi parti nonché il numero delle altre vacche macellate e dei rispettivi parti ai sensi degli articoli 36 capoverso 1<sup>bis</sup> e 37 capoversi 7 e 8 OPD[^43a-2].
+
+<sup>2</sup> Salva i dati di cui al capoverso 1 nel calcolatore di UBG.
+
+<sup>3</sup> Li mette a disposizione dei servizi cantonali competenti, dell’UFAG e dell’Ufficio federale di statistica.
+
+[^43a-1]: Introdotto dall’all. n. 4 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^43a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 #### Art. 44
 
-[^44-1]
+**Calcolo dei valori UBG per animali delle specie ovina e caprina**[^44-1]
+
+<sup>1</sup>
+
+Per gli animali delle specie ovina e caprina Identitas AG calcola annualmente per categoria di animali e azienda detentrice di animali i dati di cui agli articoli 36 e 37 OPD[^44-2]:
+
+- a. per le aziende gestite durante tutto l’anno secondo l’articolo 6 OTerm[^44-3]: l’effettivo di animali determinante e l’effettivo al 1° gennaio, con un elenco di tutti i singoli animali;
+- b. per le aziende con pascoli comunitari e le aziende d’estivazione secondo gli articoli 8 e 9 OTerm: l’effettivo di animali determinante e l’effettivo al 25 luglio, con un elenco di tutti i singoli animali;
+- c. l’evoluzione dell’effettivo durante i periodi di calcolo di cui all’articolo 36 OPD in aziende gestite durante tutto l’anno, aziende con pascoli comunitari e aziende d’estivazione.
+
+<sup>2</sup> Identitas AG effettua un calcolo unico dei dati per gli anni di riferimento di cui all’articolo 41 capoverso 3<sup>bis</sup> OPD.
+
+<sup>3</sup> Salva i dati di cui al capoverso 1 nel calcolatore di UBG.
+
+<sup>4</sup> Li mette a disposizione dei servizi cantonali competenti, dell’UFAG e dell’Ufficio federale di statistica.
+
+<sup>5</sup> L’UFAG disciplina il calcolo dei dati e la forma in cui vanno messi a disposizione.
 
 [^44-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
+[^44-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^44-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 
 #### Art. 45
 
@@ -670,11 +718,23 @@ Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 O
 [^45-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^45-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
+#### Art. 45a
+
+**Allestimento dell’elenco delle vacche macellate e dei rispettivi parti**[^45a-1]
+
+Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 OPD[^45a-2], Identitas AG mette a disposizione dei detentori di animali per via elettronica un elenco con i dati di cui all’articolo 43*a*.
+
+[^45a-1]: Introdotto dall’all. n. 4 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^45a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 #### Art. 46
 
-[^46-1]
+**Allestimento dell’elenco di UBG per animali delle specie ovina e caprina**[^46-1]
+
+Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 OPD[^46-2], Identitas AG mette a disposizione dei detentori di animali per via elettronica un elenco dei rispettivi animali delle specie ovina e caprina. Tale elenco contiene i dati di cui all’articolo 44 capoverso 1 e i dati concernenti il tipo di utilizzazione di cui all’allegato 1 numero 2 lettera h numero 3.
 
 [^46-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
+[^46-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 47
 
@@ -687,7 +747,12 @@ Identitas AG mette a disposizione dei detentori di animali, nonché dei servizi 
 
 #### Art. 48
 
-[^48-1]
+**Messa a disposizione di uno strumento di calcolo per animali delle specie ovina e caprina**[^48-1]
+
+Identitas AG mette a disposizione dei detentori di animali, nonché dei servizi ufficiali e di aziende, organizzazioni e organi di controllo coinvolti di cui all’articolo 34 uno strumento con cui, per un periodo a loro scelta di un anno al massimo, possono calcolare:
+
+- a. l’effettivo di animali delle specie ovina e caprina per categoria di animali in unità di bestiame grosso;
+- b. per l’alpeggio e l’estivazione: l’effettivo di animali delle specie ovina e caprina per categoria di animali in carichi normali.
 
 [^48-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
 
@@ -1410,7 +1475,7 @@ Allegato 2[^t-2]
 
 ## Emolumenti
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 2 nov. 2022 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Aggiornato dal n. II dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 <table>
 <tr><th></th><th>Franchi</th></tr>
@@ -1448,7 +1513,7 @@ Allegato 2[^t-2]
 <tr><td>4.3 Animali della specie suina: mancata notifica dei dati di cui all’articolo 18</td><td>7.50</td></tr>
 <tr><td>4.4 Equidi: mancata notifica dei dati di cui all’articolo 19</td><td>15.00</td></tr>
 <tr><td>5 Consegna di dati</td><td></td></tr>
-<tr><td>Elenco dei numeri d’identificazione degli animali di un effettivo: costi forfettari per anno civile, azienda detentrice di animali e specie animale; non vengono fatturati emolumenti se l’importo totale è inferiore a 20 franchi per anno civile</td><td>3.00</td></tr>
+<tr><td>Elenco dei numeri d’identificazione degli animali che sono tenuti in un’azienda detentrice di animali: costi forfettari per anno civile, azienda detentrice di animali e specie animale; non vengono fatturati emolumenti se l’importo totale è inferiore a 20 franchi per anno civile:</td><td>3.00</td></tr>
 <tr><td>6 Registrazione di nuove organizzazioni Registrazione di una nuova organizzazione di allevamento, di produttori o di produzione con label oppure di un servizio di sanità animale</td><td>250.00</td></tr>
 <tr><td>7 Emolumenti per solleciti</td><td></td></tr>
 <tr><td>Sollecito per ogni mancato pagamento</td><td>30.00</td></tr>
