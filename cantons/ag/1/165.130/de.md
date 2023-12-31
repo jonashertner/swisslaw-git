@@ -4,13 +4,12 @@ number: "165.130"
 title: Dekret über die Löhne des kantonalen Personals
 short: Lohndekret
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-15
+version: 2024-01-01
+version_adopted: 2023-03-14
 adopted: 1999-11-30
 in_force: 2000-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.130"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3103/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3589/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3103/pdf_file"
 
 (Lohndekret)
 
-Vom 30.11.1999 (Stand 01.01.2022)
+Vom 30.11.1999 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -164,9 +163,9 @@ beschliesst:
 
 **Veränderung der Löhne des kantonalen Personals**
 
-<sup>1</sup> Die durch den Grossen Rat gemäss § 13 des Gesetzes über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (GAF) vom 11. Januar 2005[^11-1] beschlossene durchschnittliche prozentuale Veränderung der Löhne wird durch den Regierungsrat in einen generellen und individuellen Anteil aufgeteilt. Sie wird auf der Basis der Summe der Positions- und Grundlöhne sowie der Leistungs- und Erfahrungsanteile gerechnet. Dabei sind die Löhne gemäss §§ 5 ff. und diejenigen gemäss § 22 in der durchschnittlichen Lohnentwicklung auf die Dauer gleich zu behandeln. Die Verteilung der individuellen Anteile wird gemäss § 6 beziehungsweise § 22 Abs. 2 vorgenommen.
+<sup>1</sup> Die durch den Grossen Rat gemäss § 13 des Gesetzes über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (GAF) vom 11. Januar 2005[^11-1] beschlossene durchschnittliche prozentuale Veränderung der Löhne (inklusive Anteil für Systempflege) wird durch den Regierungsrat in einen generellen und individuellen Anteil aufgeteilt. Sie wird auf der Basis der Summe der Positions- und Grundlöhne sowie der Leistungs- und Erfahrungsanteile gerechnet. Dabei sind die Löhne gemäss den §§ 5 ff. und diejenigen gemäss § 22 in der durchschnittlichen Lohnentwicklung auf die Dauer gleich zu behandeln. Die Verteilung der individuellen Anteile wird gemäss § 6 beziehungsweise § 22 Abs. 2 vorgenommen.
 
-<sup>2</sup> Die Summe der veränderten Löhne sowie die Mittel für Zulagen und für neu zu schaffende Stellen bilden die Gesamtlohnsumme.
+<sup>2</sup> Die Summe der veränderten Löhne (inklusive zusätzliche Mittel für die Lohnsystempflege), die Mittel für neu zu schaffende Stellen sowie allfällige Veränderungen von Arbeitgeberbeiträgen oder Zulagen bilden die Gesamtlohnsumme.
 
 <sup>3</sup> Reduktionen der Minima der Lohnstufen gemäss Anhang I sind 4 Monate vor ihrem Inkrafttreten zu publizieren.
 
