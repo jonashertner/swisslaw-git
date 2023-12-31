@@ -4,13 +4,12 @@ number: "162.511"
 title: Geschäftsreglement des Jugendgerichts
 short: GeschR JG
 language: de
-version: 2013-09-01
-valid_until: 2023-12-31
-version_adopted: 2013-05-07
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 2013-05-07
 in_force: 2013-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.511"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/127/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2922/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/127/pdf_file"
 
 (GeschR JG)
 
-vom 07.05.2013 (Stand 01.09.2013)
+vom 07.05.2013 (Stand 01.01.2024)
 
 Das Jugendgericht des Kantons Bern,
 
@@ -35,11 +34,11 @@ beschliesst:
 
 <sup>1</sup> Das Jugendgericht ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
-<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse des Obergerichts verwaltet es sich selbst. Dabei beachten die Jugendgerichtspräsidentinnen und Jugendgerichtspräsidenten sinngemäss die Grundsätze der Führungs-, Leistungs- und Kostenorientierung gemäss Artikel 3 Absatz 2, 4 und 5 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^1-1].
+<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizverwaltungsleitung und des Obergerichts verwaltet es sich selbst. Die Leitungsorgane beachten dabei sinngemäss die allgemeinen Grundsätze der Steuerung von Finanzen und Leistungen gemäss Artikel 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^1-1].
 
 <sup>3</sup> Wo in administrativen Belangen nötig, spricht sich die Geschäftsleiterin oder der Geschäftsleiter des Jugendgerichts mit den Leitungsorganen der Jugendanwaltschaft und der in der Region Bern-Mittelland ansässigen Zivil- und Strafgerichtsbehörden sowie dem Obergericht ab.
 
-[^1-1]: BSG 620.0
+[^1-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 ## 2 Organisation des Jugendgerichts
 
@@ -93,7 +92,7 @@ beschliesst:
 
 <sup>3</sup> Die Geschäftsleiterin oder der Geschäftsleiter lädt die Mitglieder der Richterkonferenz spätestens fünf Tage vor dem Sitzungstag schriftlich oder per E-Mail und unter Angabe der Traktanden zu den Sitzungen ein. Allfällige Unterlagen werden der Einladung beigelegt oder zur Einsicht aufgelegt. Eine kurzfristigere Einladung ist mit dem Einverständnis aller Mitglieder der Richterkonferenz oder bei offensichtlicher Dringlichkeit möglich.
 
-<sup>4</sup> Eine Vertreterin oder ein Vertreter der Gerichtsschreiberinnen und Gerichtsschreiber nimmt in der Regel an den Sitzungen teil. Die Gerichtsschreiberinnen und Gerichtsschreiber bestimmen ihre Vertreterin oder ihren Vertreter selbst. Diese oder dieser führt das Protokoll der Richterkonferenz.
+<sup>4</sup> Eine Vertreterin oder ein Vertreter der Gerichtsschreiberinnen und Gerichtsschreiber kann bei Bedarf zu den Sitzungen beigezogen werden. In einem solchen Fall führt diese oder dieser das Protokoll der Richterkonferenz.
 
 <sup>5</sup> Zu den Sitzungen der Richterkonferenz können bei Bedarf weitere interne oder externe Personen mit beratender Stimme hinzugezogen werden.
 
@@ -118,10 +117,10 @@ beschliesst:
 - a die Einberufung und Leitung der Sitzungen der Richterkonferenz,
 - b die Vertretung des Jugendgerichts gegenüber den Regionalgerichten, dem Obergericht und der Jugendanwaltschaft,
 - c die Vertretung des Jugendgerichts gegen aussen,
-- d die Führung der Jahresgespräche mit den Richterinnen und Richtern,
+- d die Führung der Standortgespräche mit den Richterinnen und Richtern,
 - e die Anstellung und Führung der Gerichtsschreiberinnen und Gerichtsschreiber sowie des Sekretariatspersonals,
-- f den Entscheid über die Aushilfe von Richterinnen und Richtern in anderen Gerichtsbehörden, insbesondere den Regionalgerichten,
-- g den Einsatz von Aushilfen aus anderen Behörden,
+- f …
+- g den Einsatz von vom Obergericht bezeichneten Aushilfen aus anderen Behörden,
 - h die Festlegung der Grundsätze betreffend Registratur, Dossierführung und Archivierung,
 - i die Gewährleistung einer den Bedürfnissen angepassten Weiterbildung.
 
@@ -161,9 +160,23 @@ beschliesst:
 
 #### Art. 12
 
-<sup>1</sup> Die Geschäftsleiterin oder der Geschäftsleiter entscheidet über Ausgaben bis zu einer Höhe von 3000 Franken in eigener Kompetenz.
+**Finanzkompetenzen für Verwaltungsaufgaben**
 
-<sup>2</sup> Höhere Ausgaben sind unter Vorbehalt der Kompetenzen des Obergerichts durch die Richterkonferenz zu beschliessen.
+<sup>1</sup> Die Geschäftsleiterin oder der Geschäftsleiter bewilligt Ausgaben für Verwaltungsaufgaben bis zu einer Höhe von 30'000 Franken in eigener Kompetenz. Eine Delegation an die Stellvertreterin oder den Stellvertreter der Geschäftsleiterin oder des Geschäftsleiters ist möglich.
+
+<sup>2</sup> Ausgaben über 30'000 Franken bedürfen einer Ausgabenbewilligung durch die Geschäftsleitung des Obergerichts.
+
+#### Art. 12a
+
+**Finanzkompetenzen für Verfahren in Strafsachen**
+
+<sup>1</sup> Für die Ausgaben in Zusammenhang mit Verfahren in Strafsachen gilt die finanzielle Belegfreigabe unabhängig von der Höhe als Ausgabenbewilligung (Art. 31 Abs. 1 Bst. e der Finanzhaushaltsverordnung vom 16.11.2022 [FHaV][^12a-1]).
+
+<sup>2</sup> Die Verfahrensleitung ist für die materielle Prüfung der Ausgaben zuständig. Obliegt ihr bei einer Ausgabe die finanzielle Belegfreigabe, übernimmt die im betroffenen Verfahren zuständige Gerichtsschreiberin oder der zuständige Gerichtsschreiber die materielle Prüfung.
+
+<sup>3</sup> Die finanzielle Belegfreigabe erfolgt durch die Geschäftsleiterin oder den Geschäftsleiter oder durch deren oder dessen Stellvertreterin oder Stellvertreter.
+
+[^12a-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 ## 3 Richterinnen und Richter
 
