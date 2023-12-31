@@ -4,13 +4,12 @@ number: "28.1"
 title: Ausführungsgesetz zur Bundesgesetzgebung über Schuldbetreibung und Konkurs
 short: AGSchKG
 language: de
-version: 2015-07-01
-valid_until: 2023-12-31
-version_adopted: 2015-02-12
+version: 2024-01-01
+version_adopted: 2023-03-21
 adopted: 2015-02-12
 in_force: 2015-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/28.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7148/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7834/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Schuldbetreibung und Konkurs – G
 
 (AGSchKG)
 
-vom 12.02.2015 (Fassung in Kraft getreten am 01.07.2015)
+vom 12.02.2015 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -47,11 +46,19 @@ beschliesst:
 
 #### Art. 2
 
-**Kreise (Art. 1 und 2 SchKG)**
+**Betreibungskreise (Art. 1 und 2 SchKG)**
 
 <sup>1</sup> Das Gebiet jedes Verwaltungsbezirks bildet einen Betreibungskreis. Der Sitz der Betreibungsämter befindet sich im Bezirkshauptort.
 
-<sup>2</sup> Das Gebiet des Kantons Freiburg bildet einen einzigen Konkurskreis. Der Sitz des Konkursamtes befindet sich in Freiburg.
+<sup>2</sup> …
+
+<sup>3</sup> Die Betreibungsämter sind berechtigt, für das gesamte Kantonsgebiet Betreibungsregisterauszüge auszustellen.
+
+#### Art. 2a
+
+**Konkurskreise (Art. 1 und 2 SchKG)**
+
+<sup>1</sup> Das Gebiet des Kantons Freiburg bildet einen einzigen Konkurskreis. Der Sitz des Konkursamtes befindet sich in Freiburg.
 
 #### Art. 3
 

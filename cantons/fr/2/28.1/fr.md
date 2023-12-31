@@ -4,13 +4,12 @@ number: "28.1"
 title: "Loi d'application de la législation fédérale sur la poursuite pour dettes et la faillite"
 short: LALP
 language: fr
-version: 2015-07-01
-valid_until: 2023-12-31
-version_adopted: 2015-02-12
+version: 2024-01-01
+version_adopted: 2023-03-21
 adopted: 2015-02-12
 in_force: 2015-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/28.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7148/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7834/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Poursuite pour dettes et faillite – L
 
 (LALP)
 
-du 12.02.2015 (version entrée en vigueur le 01.07.2015)
+du 12.02.2015 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -47,11 +46,19 @@ Décrète:
 
 #### Art. 2
 
-**Arrondissements (art. 1 et 2 LP)**
+**Arrondissements des poursuites (art. 1 et 2 LP)**
 
 <sup>1</sup> Le territoire de chaque district administratif forme un arrondissement des poursuites. Le siège des offices des poursuites est au chef-lieu du district.
 
-<sup>2</sup> Le territoire du canton forme un seul arrondissement de faillites. Le siège de l'Office des faillites est à Fribourg.
+<sup>2</sup> …
+
+<sup>3</sup> Les offices des poursuites sont habilités à délivrer des extraits du registre des poursuites portant sur l'ensemble du territoire cantonal.
+
+#### Art. 2a
+
+**Arrondissement de faillites (art. 1 et 2 LP)**
+
+<sup>1</sup> Le territoire du canton forme un seul arrondissement de faillites. Le siège de l'Office des faillites est à Fribourg.
 
 #### Art. 3
 
