@@ -4,13 +4,12 @@ number: "152.010"
 title: Décret sur les tâches des Directions et de la Chancellerie d’Etat et sur la désignation des Directions
 short: DTDD
 language: fr
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-30
+version: 2024-01-01
+version_adopted: 2022-09-05
 adopted: 2019-09-11
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.010"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2782/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2901/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2782/pdf_file"
 
 (DTDD)
 
-du 11.09.2019 (état au 01.03.2023)
+du 11.09.2019 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -165,6 +164,7 @@ arrête:
 - b des droits politiques,
 - c de la publication officielle des actes législatifs,
 - d de l’information du public et de la communication,
+- d1 de l'aide aux médias ainsi que de la promotion des compétences médiatiques et de la formation politique,
 - e des langues,
 - f de l’accompagnement législatif,
 - g des affaires du Jura bernois,

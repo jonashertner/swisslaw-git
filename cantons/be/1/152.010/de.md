@@ -4,13 +4,12 @@ number: "152.010"
 title: Dekret über die Aufgaben der Direktionen und der Staatskanzlei und die Direktionsbezeichnungen
 short: ADSD
 language: de
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-30
+version: 2024-01-01
+version_adopted: 2022-09-05
 adopted: 2019-09-11
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.010"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2782/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2901/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2782/pdf_file"
 
 (ADSD)
 
-vom 11.09.2019 (Stand 01.03.2023)
+vom 11.09.2019 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -165,6 +164,7 @@ beschliesst:
 - b politische Rechte,
 - c amtliche Veröffentlichung von Erlassen,
 - d Information der Öffentlichkeit und Kommunikation,
+- d1 Medienförderung, Förderung der Medienkompetenz und der politischen Bildung,
 - e Sprachen,
 - f begleitende Rechtsetzung,
 - g bernjurassische Angelegenheiten,
