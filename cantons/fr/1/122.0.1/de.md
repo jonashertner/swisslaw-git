@@ -4,13 +4,12 @@ number: "122.0.1"
 title: Gesetz über die Organisation des Staatsrates und der Verwaltung
 short: SVOG
 language: de
-version: 2021-12-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-07
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2001-10-16
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6968/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8182/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Organisation des Staatsrates und der Verwaltung – G
 
 (SVOG)
 
-vom 16.10.2001 (Fassung in Kraft getreten am 01.12.2021)
+vom 16.10.2001 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -57,11 +56,13 @@ beschliesst:
 - b) Er leitet die Kantonsverwaltung.
 - c) Er erfüllt Rechtsetzungsaufgaben.
 - d) Er verrichtet die Vollzugs- und Rechtspflegehandlungen, für die er zuständig ist.
-- e) Er nimmt die übrigen Befugnisse wahr, die ihm durch die Verfassung und das Gesetz übertragen werden.
+- e) Er nimmt die übrigen Befugnisse wahr, die ihm durch die Verfassung[^2-1] und das Gesetz übertragen werden.
 
 <sup>2</sup> Er erstattet dem Grossen Rat Bericht über seine Tätigkeit, stellt die Information der Öffentlichkeit sicher und sorgt für die Umsetzung des Rechts auf Zugang zu amtlichen Dokumenten.
 
 <sup>3</sup> Seine Handlungsweise entspricht den Kriterien einer guten Geschäftsführung und ermöglicht, die gesetzten Ziele zu erreichen.
+
+[^2-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 3
 
@@ -171,11 +172,15 @@ beschliesst:
 
 **Beginn und Ende der Funktionen**
 
-<sup>1</sup> Die Mitglieder des Staatsrates werden nach den Bestimmungen der Verfassung, des Gesetzes über die Ausübung der politischen Rechte und des Grossratsgesetzes gewählt und vereidigt.
+<sup>1</sup> Die Mitglieder des Staatsrates werden nach den Bestimmungen der Verfassung[^11-1], des Gesetzes über die Ausübung der politischen Rechte[^11-2] und des Grossratsgesetzes[^11-3] gewählt und vereidigt.
 
 <sup>2</sup> Sie treten ihr Amt am ersten Tag des Monats an, der auf ihre Vereidigung folgt.
 
 <sup>3</sup> Die bisherigen Mitglieder bleiben in der Regel bis zum Amtsantritt ihrer Nachfolgerinnen und Nachfolger im Amt.
+
+[^11-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+[^11-2]: SGF [115.1.1](https://bdlf.fr.ch/data/115.1.1/de)
+[^11-3]: SGF [121.1](https://bdlf.fr.ch/data/121.1/de)
 
 #### Art. 12
 
@@ -211,9 +216,11 @@ beschliesst:
 
 **Ausstand**
 
-<sup>1</sup> Der Ausstand der Mitglieder des Staatsrates bestimmt sich nach dem Gesetz über die Verwaltungsrechtspflege sowie nach Artikel 32 Abs. 2 dieses Gesetzes.
+<sup>1</sup> Der Ausstand der Mitglieder des Staatsrates bestimmt sich nach dem Gesetz über die Verwaltungsrechtspflege[^15-1] sowie nach Artikel 32 Abs. 2 dieses Gesetzes.
 
 <sup>2</sup> Bei Entscheiden, die nicht in den Geltungsbereich des Gesetzes über die Verwaltungsrechtspflege fallen, beschränken sich jedoch die Ausstandsgründe auf die Fälle, in denen die Mitglieder des Staatsrates, ihre Ehegattin oder ihr Ehegatte, ihre eingetragene Partnerin oder ihr eingetragener Partner oder eine andere Person, mit der sie in einem engen Verwandtschafts-, Schwägerschafts-, Pflicht- oder Abhängigkeitsverhältnis stehen, an einem Geschäft ein unmittelbares persönliches Interesse haben.
+
+[^15-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 16
 
@@ -249,9 +256,12 @@ beschliesst:
 
 **Zivilrechtliche Verantwortlichkeit und Verantwortlichkeit gegenüber dem Grossen Rat**
 
-<sup>1</sup> Die zivilrechtliche Verantwortlichkeit der Mitglieder des Staatsrates bestimmt sich nach dem Gesetz über die Haftung der Gemeinwesen und ihrer Amtsträger.
+<sup>1</sup> Die zivilrechtliche Verantwortlichkeit der Mitglieder des Staatsrates bestimmt sich nach dem Gesetz über die Haftung der Gemeinwesen und ihrer Amtsträger[^19-1].
 
-<sup>2</sup> Zudem sind die Mitglieder des Staatsrats dem Grossen Rat gegenüber verantwortlich für ihre Geschäftsführung und für die Handlungen der ihrer Aufsicht unterstehenden Personen (Art. 109 Abs. 2 der Verfassung).
+<sup>2</sup> Zudem sind die Mitglieder des Staatsrats dem Grossen Rat gegenüber verantwortlich für ihre Geschäftsführung und für die Handlungen der ihrer Aufsicht unterstehenden Personen (Art. 109 Abs. 2 der Verfassung[^19-2]).
+
+[^19-1]: SGF [16.1](https://bdlf.fr.ch/data/16.1/de)
+[^19-2]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 ### 1.3 Vorsitz und Sekretariat
 
@@ -269,9 +279,11 @@ beschliesst:
 
 **Präsidentschaft – Wahl**
 
-<sup>1</sup> Die Präsidentin oder der Präsident wird nach der Verfassung und der Gesetzgebung über den Grossen Rat alljährlich vom Grossen Rat gewählt.
+<sup>1</sup> Die Präsidentin oder der Präsident wird nach der Verfassung[^21-1] und der Gesetzgebung über den Grossen Rat alljährlich vom Grossen Rat gewählt.
 
 <sup>2</sup> Bei einer ausserordentlichen Vakanz gilt die Wahl nur bis zum Ende des laufenden Jahres; dauert die Präsidentschaft weniger als ein halbes Jahr, so ist die Wiederwahl nicht ausgeschlossen.
+
+[^21-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 22
 
@@ -370,7 +382,9 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat fasst seine Beschlüsse nach gemeinsamer Beratung; weniger wichtige Geschäfte kann er jedoch in einem vereinfachten Verfahren erledigen.
 
-<sup>2</sup> Tritt ein Mitglied in den Ausstand, so nimmt es nicht an der Beratung über das betreffende Geschäft teil, es sei denn, seine Anwesenheit sei für Erklärungen erforderlich; Artikel 97 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege bleibt zudem vorbehalten.
+<sup>2</sup> Tritt ein Mitglied in den Ausstand, so nimmt es nicht an der Beratung über das betreffende Geschäft teil, es sei denn, seine Anwesenheit sei für Erklärungen erforderlich; Artikel 97 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege[^32-1] bleibt zudem vorbehalten.
+
+[^32-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 33
 
@@ -441,9 +455,11 @@ beschliesst:
 
 **Beschlussfassung – Zurücknahme eines Beschlusses**
 
-<sup>1</sup> Ein Beschluss kann nur zurückgenommen werden, solange er noch nicht angefangen hat, Wirkungen zu entfalten; insbesondere können Entscheide im Sinne des Gesetzes über die Verwaltungsrechtspflege nur zurückgenommen werden, sofern sie den Empfängerinnen oder Empfängern noch nicht eröffnet worden sind.
+<sup>1</sup> Ein Beschluss kann nur zurückgenommen werden, solange er noch nicht angefangen hat, Wirkungen zu entfalten; insbesondere können Entscheide im Sinne des Gesetzes über die Verwaltungsrechtspflege[^40-1] nur zurückgenommen werden, sofern sie den Empfängerinnen oder Empfängern noch nicht eröffnet worden sind.
 
 <sup>2</sup> Der Antrag, einen Beschluss zurückzunehmen, muss die Stimmen von mindestens vier Mitgliedern auf sich vereinigen.
+
+[^40-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 41
 
@@ -651,6 +667,21 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder des Staatsrates nehmen gegenüber ihrer Direktion mit der Unterstützung ihres Generalsekretariats sinngemäss die Führungsaufgaben wahr, die die Artikel 56 und 57 den Chefinnen und Chefs der Verwaltungseinheiten übertragen.
 
+#### Art. 58a
+
+**Geschäftsverwaltungssysteme**
+
+<sup>1</sup> Direktionen und Verwaltungseinheiten können Informations- und Dokumentationssysteme betreiben, die den reibungslosen Ablauf ihrer Geschäftsprozesse und die Verwaltung von Korrespondenz und anderen Dokumenten ermöglichen.
+
+<sup>2</sup> Diese Systeme können Personendaten, einschliesslich besonders schützenswerter Personendaten, enthalten, zwecks:
+
+- a) Behandlung von Angelegenheiten, die in den Zuständigkeitsbereich des betroffenen Organs fallen;
+- b) Organisation des Arbeitsablaufs;
+- c) Feststellung, ob Daten verarbeitet werden, die sich auf eine bestimmte Person beziehen;
+- d) Erleichterung des Zugangs zur Dokumentation.
+
+<sup>3</sup> Der Staatsrat erlässt Ausführungsbestimmungen über das Funktionieren des zentralen Geschäftsverwaltungssystems des Staates.
+
 #### Art. 59
 
 **Leistungsorientierte Führung**
@@ -783,7 +814,9 @@ beschliesst:
 
 **Zuständigkeitskonflikte**
 
-<sup>1</sup> Zuständigkeitskonflikte innerhalb der Kantonsverwaltung werden in jedem Fall nach den Regeln des Gesetzes über die Verwaltungsrechtspflege beigelegt.
+<sup>1</sup> Zuständigkeitskonflikte innerhalb der Kantonsverwaltung werden in jedem Fall nach den Regeln des Gesetzes über die Verwaltungsrechtspflege[^69-1] beigelegt.
+
+[^69-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ### 2.3 Vollzugsmassnahmen
 

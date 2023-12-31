@@ -4,13 +4,12 @@ number: "122.0.1"
 title: "Loi sur l'organisation du Conseil d'Etat et de l'administration"
 short: LOCEA
 language: fr
-version: 2021-12-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-07
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2001-10-16
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6968/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8182/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Organisation du Conseil d'Etat et de l'administration – L
 
 (LOCEA)
 
-du 16.10.2001 (version entrée en vigueur le 01.12.2021)
+du 16.10.2001 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -57,11 +56,13 @@ Décrète:
 - b) il dirige l'administration cantonale;
 - c) il remplit des fonctions en matière législative;
 - d) il accomplit les actes d'exécution et de juridiction qui lui incombent;
-- e) il exerce les autres attributions qui lui sont confiées par la Constitution et la loi.
+- e) il exerce les autres attributions qui lui sont confiées par la Constitution[^2-1] et la loi.
 
 <sup>2</sup> Il rend compte de ses activités au Grand Conseil, assure l'information du public et pourvoit à la mise en œuvre du droit d'accès aux documents officiels.
 
 <sup>3</sup> Il agit de manière à répondre aux critères d'une bonne gestion et à atteindre les objectifs fixés.
+
+[^2-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 #### Art. 3
 
@@ -171,11 +172,15 @@ Décrète:
 
 **Début et fin des fonctions**
 
-<sup>1</sup> Les membres du Conseil d'Etat sont élus et assermentés conformément aux dispositions de la Constitution, de la loi sur l'exercice des droits politiques et de la loi sur le Grand Conseil.
+<sup>1</sup> Les membres du Conseil d'Etat sont élus et assermentés conformément aux dispositions de la Constitution[^11-1], de la loi sur l'exercice des droits politiques[^11-2] et de la loi sur le Grand Conseil[^11-3].
 
 <sup>2</sup> Ils entrent en fonction le premier jour du mois suivant leur assermentation.
 
 <sup>3</sup> Les membres sortants restent en charge en principe jusqu'à l'entrée en fonction de leurs successeur-e-s.
+
+[^11-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
+[^11-2]: RSF [115.1](https://bdlf.fr.ch/data/115.1/fr)
+[^11-3]: RSF [121.1](https://bdlf.fr.ch/data/121.1/fr)
 
 #### Art. 12
 
@@ -211,9 +216,11 @@ Décrète:
 
 **Récusation**
 
-<sup>1</sup> La récusation des membres du Conseil d'Etat est régie par les règles du code de procédure et de juridiction administrative, ainsi que par l'article 32 al. 2 de la présente loi.
+<sup>1</sup> La récusation des membres du Conseil d'Etat est régie par les règles du code de procédure et de juridiction administrative[^15-1], ainsi que par l'article 32 al. 2 de la présente loi.
 
 <sup>2</sup> Toutefois, pour les décisions qui n'entrent pas dans le champ d'application de ce code, les motifs de récusation sont limités aux cas dans lesquels les membres du Conseil d'Etat ainsi que leur conjoint ou conjointe, leur partenaire enregistré-e ou une autre personne avec laquelle ils se trouvent dans un rapport étroit de parenté, d'alliance, d'obligation ou de dépendance ont un intérêt personnel direct dans une affaire.
+
+[^15-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 16
 
@@ -249,9 +256,12 @@ Décrète:
 
 **Responsabilité civile et responsabilité devant le Grand Conseil**
 
-<sup>1</sup> La responsabilité civile des membres du Conseil d'Etat est régie par la loi sur la responsabilité civile des collectivités publiques et de leurs agents.
+<sup>1</sup> La responsabilité civile des membres du Conseil d'Etat est régie par la loi sur la responsabilité civile des collectivités publiques et de leurs agents[^19-1].
 
-<sup>2</sup> En outre, les membres du Conseil d'Etat répondent devant le Grand Conseil de leur gestion et des actes des personnes soumises à leur surveillance (art. 109 al. 2 de la Constitution).
+<sup>2</sup> En outre, les membres du Conseil d'Etat répondent devant le Grand Conseil de leur gestion et des actes des personnes soumises à leur surveillance (art. 109 al. 2 de la Constitution[^19-2]).
+
+[^19-1]: RSF [16.1](https://bdlf.fr.ch/data/16.1/fr)
+[^19-2]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 ### 1.3 Présidence et secrétariat
 
@@ -269,9 +279,11 @@ Décrète:
 
 **Présidence – Election**
 
-<sup>1</sup> Le président ou la présidente est élu-e chaque année par le Grand Conseil, conformément à la Constitution et à la législation sur le Grand Conseil.
+<sup>1</sup> Le président ou la présidente est élu-e chaque année par le Grand Conseil, conformément à la Constitution[^21-1] et à la législation sur le Grand Conseil.
 
 <sup>2</sup> En cas de vacance extraordinaire, l'élection ne vaut que pour la fin de l'année en cours; une présidence d'une durée inférieure à six mois n'empêche pas la réélection.
+
+[^21-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 #### Art. 22
 
@@ -370,7 +382,9 @@ Décrète:
 
 <sup>1</sup> Le Conseil d'Etat prend ses décisions après en avoir délibéré en commun; il peut toutefois régler les affaires de moindre importance par une procédure simplifiée.
 
-<sup>2</sup> Si un membre est récusé, il n'assiste pas à la délibération sur l'objet en question, à moins que sa présence ne soit requise pour des explications; l'article 97 al. 2 du code de procédure et de juridiction administrative est en outre réservé.
+<sup>2</sup> Si un membre est récusé, il n'assiste pas à la délibération sur l'objet en question, à moins que sa présence ne soit requise pour des explications; l'article 97 al. 2 du code de procédure et de juridiction administrative[^32-1] est en outre réservé.
+
+[^32-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 33
 
@@ -441,9 +455,11 @@ Décrète:
 
 **Prise des décisions – Rapport d'une décision**
 
-<sup>1</sup> Une décision ne peut être rapportée que si elle n'a pas commencé à déployer d'effet; en particulier, les décisions au sens du code de procédure et de juridiction administrative ne peuvent être rapportées que dans la mesure où elles n'ont pas déjà été communiquées à leurs destinataires.
+<sup>1</sup> Une décision ne peut être rapportée que si elle n'a pas commencé à déployer d'effet; en particulier, les décisions au sens du code de procédure et de juridiction administrative[^40-1] ne peuvent être rapportées que dans la mesure où elles n'ont pas déjà été communiquées à leurs destinataires.
 
 <sup>2</sup> La proposition de rapporter une décision doit recueillir les voix de quatre membres au moins.
+
+[^40-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 41
 
@@ -651,6 +667,21 @@ Décrète:
 
 <sup>1</sup> A l'égard de leur Direction, les membres du Conseil d'Etat exercent par analogie, avec le concours de leur secrétariat général, les tâches de conduite que les articles 56 et 57 attribuent aux chef-fe-s des unités administratives.
 
+#### Art. 58a
+
+**Systèmes de gestion des affaires**
+
+<sup>1</sup> Les Directions et les unités administratives peuvent gérer des systèmes d'information et de documentation permettant d'assurer le bon déroulement de leurs processus opérationnels ainsi que la gestion de la correspondance et d'autres documents.
+
+<sup>2</sup> Ces systèmes peuvent contenir des données personnelles, y compris des données personnelles sensibles, dans le but de:
+
+- a) traiter des affaires qui sont du ressort de l'organe concerné;
+- b) organiser le déroulement du travail;
+- c) constater si des données se rapportant à une personne déterminée sont traitées;
+- d) faciliter l'accès à la documentation.
+
+<sup>3</sup> Le Conseil d'Etat édicte des dispositions d'exécution concernant le fonctionnement du système de gestion des affaires centralisé de l'Etat.
+
 #### Art. 59
 
 **Gestion par prestations**
@@ -783,7 +814,9 @@ Décrète:
 
 **Conflits de compétence**
 
-<sup>1</sup> Les conflits de compétence au sein de l'administration cantonale sont tranchés dans tous les cas conformément aux règles du code de procédure et de juridiction administrative.
+<sup>1</sup> Les conflits de compétence au sein de l'administration cantonale sont tranchés dans tous les cas conformément aux règles du code de procédure et de juridiction administrative[^69-1].
+
+[^69-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ### 2.3 Mesures d'exécution
 
