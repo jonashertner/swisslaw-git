@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 1983 sur la construction et l'exploitation des
 short: OCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902"
 language: fr
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1983-11-23
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20210101/fr"
 
 (Ordonnance sur les chemins de fer, OCF)
 
-du 23 novembre 1983 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 novembre 1983 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -32,7 +32,7 @@ arrête:
 
 ## Chapitre 1 Dispositions générales
 
-### Section 1 Objet, but et champ d’application****
+### Section 1 Objet, but et champ d’application
 
 [^chap1-sec1-1]
 
@@ -56,7 +56,7 @@ La présente ordonnance régit la planification, la construction, l’exploitati
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
-### Section 2 Sécurité****
+### Section 2 Sécurité
 
 [^chap1-sec2-1]
 
@@ -304,7 +304,7 @@ Les entreprises ferroviaires et les personnes responsables de la maintenance des
 [^5k-1]: Introduit par le ch. I de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^5k-2]: Règlement (UE) n<sup>o</sup> 1078/2012 de la Commission du 16 novembre 2012 concernant une méthode de sécurité commune aux fins du contrôle que doivent exercer les entreprises ferroviaires et les gestionnaires d’infrastructure après l’obtention d’un certificat de sécurité ou d’un agrément de sécurité, ainsi que les entités chargées de l’entretien, version du JO L 320 du 17.11.2012, p. 8.
 
-### Section 3 Planification, construction et exploitation****
+### Section 3 Planification, construction et exploitation
 
 [^chap1-sec3-1]
 
@@ -592,18 +592,29 @@ La gestionnaire de l’infrastructure établit des recommandations en matière d
 
 **Rapports sur l’exploitation et l’entretien**
 
-<sup>1</sup> Les entreprises ferroviaires renseignent l’OFT sur l’état de leurs ouvrages, installations et véhicules. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) indique les rapports périodiques à fournir à l’OFT.[^15-1]
+<sup>1</sup> Les gestionnaires d’infrastructure informent l’OFT de l’état de leurs ouvrages, installations et véhicules.[^15-1] Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) indique les rapports périodiques à fournir à l’OFT.[^15-2]
 
-<sup>1bis</sup> Les entreprises ferroviaires informent dans un délai de 30 jours le service cantonal chargé de la surveillance de la mensuration officielle de toute modification rendant nécessaire une mise à jour de la mensuration officielle.[^15-2]
+<sup>1bis</sup> ...[^15-3]
 
-<sup>2</sup> Pour le reste, l’ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d’incident dans le domaine des transports[^15-3] est applicable.[^15-4]
+<sup>2</sup> Pour le reste, l’ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d’incident dans le domaine des transports[^15-4] est applicable.[^15-5]
 
-[^15-1]: Nouvelle teneur selon le ch. I 5 de l’O du 4 nov. 2009 (1<sup>re</sup> phase de la réforme des chemins de fer 2), en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
-[^15-2]: Introduit par l’annexe ch. 3 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^15-3]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^15-4]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^15-2]: Nouvelle teneur selon le ch. I 5 de l’O du 4 nov. 2009 (1<sup>re</sup> phase de la réforme des chemins de fer 2), en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
+[^15-3]: Introduit par l’annexe ch. 3 de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Abrogé par l’annexe ch. 12 de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^15-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^15-5]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
-## Chapitre 1*a***** Interopérabilité
+#### Art. 15<sup>bis</sup>
+
+**Annonces au service cantonal du cadastre**[^15bis-1]
+
+<sup>1</sup> L’OFT informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+
+<sup>2</sup> Les gestionnaires d’infrastructure informent ce service dans un délai de 20 jours de toute modification de leurs ouvrages et installations rendant nécessaire une mise à jour de la mensuration officielle.
+
+[^15bis-1]: Introduit par l’annexe ch. 12 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+## Chapitre 1*a* Interopérabilité
 
 [^chap1a-1]
 
@@ -913,7 +924,7 @@ L’OFT vérifie, conformément à l’art. 21, par. 8, de la directive (UE) 201
 
 <sup>3</sup> Si l’OFT ne statue pas sur une demande d’autorisation d’exploiter un véhicule dans un délai de cinq mois après que le requérant a déclaré que ladite demande était complète, le requérant est autorisé à mettre en service le véhicule en question.
 
-## Chapitre 1*b***** Organismes de contrôle indépendants
+## Chapitre 1*b* Organismes de contrôle indépendants
 
 [^chap1b-1]
 
@@ -1046,7 +1057,7 @@ L’OFT vérifie pour chaque projet:
 - c. si l’indépendance est garantie, et
 - d. si les rapports d’évaluation de la sécurité, les attestations de la conformité d’organismes reconnus ou les rapports d’examen d’experts répondent aux exigences, et ce, par sondages en fonction des risques.
 
-## Chapitre 2 Ouvrages et installations****
+## Chapitre 2 Ouvrages et installations
 
 [^chap2-1]
 
@@ -1165,7 +1176,7 @@ Dans les gares, les points à partir desquels les croisements peuvent s’effect
 
 Aucun arbre aucun poteau ou aucune construction ne résistant pas suffisamment au vent et aux agents atmosphériques ne doit se trouver à proximité des voies ferrées s’il y a risque de chute sur celles-ci.
 
-### Section 3 Infrastructure, ouvrages d’art et dispositifs de protection****
+### Section 3 Infrastructure, ouvrages d’art et dispositifs de protection
 
 [^chap2-sec3-1]
 
@@ -1289,7 +1300,7 @@ Les extrémités des voies seront munies de butoirs.
 
 <sup>3</sup> Dans l’aménagement des bâtiments, il sera tenu compte des dangers dus aux lignes de contact.
 
-### Section 6**** Protection et signalisation des passages à niveau
+### Section 6 Protection et signalisation des passages à niveau
 
 [^chap2-sec6-1]
 
@@ -1389,7 +1400,7 @@ Si la suppression d’un passage à niveau entraîne l’impraticabilité d’un
 [^37f-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^37f-2]: [RS 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
 
-### Section 7 Installations de sécurité et applications télématiques****
+### Section 7 Installations de sécurité et applications télématiques
 
 [^chap2-sec7-1]
 
@@ -1456,7 +1467,7 @@ Les installations de sécurité servent en particulier à:
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
-### Section 8 Systèmes d’avertissement des personnes sur les voies et aux abords de celles-ci****
+### Section 8 Systèmes d’avertissement des personnes sur les voies et aux abords de celles-ci
 
 [^chap2-sec8-1]
 
@@ -1477,7 +1488,7 @@ Les systèmes d’avertissement des personnes effectuant des travaux sur et aux 
 
 [^41-1]: Anciennement art. 44. Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
-### Section 9 Installations électriques****
+### Section 9 Installations électriques
 
 [^chap2-sec9-1]
 
@@ -1552,7 +1563,7 @@ Les dispositions de la présente ordonnance et ses dispositions d’exécution s
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^46-2]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
-## Chapitre 3**** Véhicules
+## Chapitre 3 Véhicules
 
 [^chap3-1]
 
@@ -1975,7 +1986,7 @@ Il y a lieu de présenter le premier rapport annuel visé à l’art. 5*g* lorsq
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1984.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 18, al. 1 et 2, et 47, al. 2)
 
@@ -1990,14 +2001,14 @@ Légende:
 </table>
 
 <table>
-<tr><td>Ce dessin ne tient pas compte des espaces supplémentaires selon l’art. 18, al. 4.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20210101/fr/xml/image/image1.png)</td></tr>
+<tr><td>Ce dessin ne tient pas compte des espaces supplémentaires selon l’art. 18, al. 4.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/fr/xml/image/image1.png)</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 [^t-2]: Introduite par le ch. II de l’O du 25 nov. 1998 ([RO 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Abrogée par le ch. II al. 1 de l’O du 18 nov. 2015, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 12*b,* al. 1)
 
@@ -2014,7 +2025,7 @@ Sont considérées comme des données liées aux tronçons:
 - e. le nombre de trains;
 - f. les types de trains.
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 42, al. 1)
 
@@ -2078,7 +2089,7 @@ Les installations électriques sont des installations ou des éléments d’inst
   - 1\. la technique de protection comprend notamment les installations et les mesures destinées à détecter les défauts ou d’autres états d’exploitation anormaux sur le réseau électrique d’un chemin de fer, à éliminer ces états anormaux et à commander la signalisation.
   - 2\. les installations de la technique de télésurveillance et d’acquisition des données comprennent, en rapport avec le réseau d’alimentation de traction, ladite technique et ses systèmes locaux, destinés exclusivement ou en majeure partie à l’exploitation ferroviaire. Elles incluent la transmission des données à distance.
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 15*a*, al. 1)
 
@@ -2114,7 +2125,7 @@ Niederbipp–Oberbipp
 
 Wohlen–Villmergen
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 (art. 15*a*, al. 2)
 
@@ -2496,7 +2507,7 @@ Zürich Wiedikon–Thalwil
 
 - [tab] Zürich Aussersihl (bif)–Zimmerberg-Basistunnel–Litti
 
-Annexe 7*[^t-7]*
+Annexe 7[^t-7]
 
 (art. 15*b*, al. 2)
 

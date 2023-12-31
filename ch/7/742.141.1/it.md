@@ -4,11 +4,11 @@ title: "Ordinanza del 23 novembre 1983 sulla costruzione e l'esercizio delle fer
 short: Oferr
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902"
 language: it
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1983-11-23
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20210101/it"
 
 (Ordinanza sulle ferrovie, Oferr)
 
-del 23 novembre 1983 (Stato 1° gennaio 2021)
+del 23 novembre 1983 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -32,7 +32,7 @@ ordina:
 
 ## Capitolo 1: Disposizioni generali
 
-### Sezione 1: Oggetto, scopo e campo d’applicazione****
+### Sezione 1: Oggetto, scopo e campo d’applicazione
 
 [^chap1-sec1-1]
 
@@ -56,7 +56,7 @@ La presente ordinanza disciplina la pianificazione, la costruzione, l’esercizi
 [^1-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^1-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
-### Sezione 2: Sicurezza****
+### Sezione 2: Sicurezza
 
 [^chap1-sec2-1]
 
@@ -87,7 +87,7 @@ L’Ufficio federale dei trasporti (UFT) esamina gli aspetti rilevanti per la si
 - a. sulla base di attestati di conformità (art. 15*k* e 15*l*), rapporti di perizia (art. 6 cpv. 3, 8*a* cpv. 4 e 15*m*) o rapporti di valutazione sulla sicurezza (art. 8*c* cpv. 2); o
 - b. procedendo a controlli per campionatura.
 
-[^2a-1]: Introdotto dal il n. I dell’O del 16 nov. 2011 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)). Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^2a-1]: Introdotto dal n. I dell’O del 16 nov. 2011 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)). Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 3
 
@@ -304,7 +304,7 @@ Alle imprese ferroviarie e alle persone responsabili della manutenzione dei veic
 [^5k-1]: Introdotto dal n. I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^5k-2]: Regolamento (UE) n. 1078/2012 della Commissione, del 16 novembre 2012, relativo a un metodo di sicurezza comune per il monitoraggio che devono applicare le imprese ferroviarie, i gestori dell’infrastruttura che hanno ottenuto un certificato di sicurezza o un’autorizzazione di sicurezza e i soggetti responsabili della manutenzione, GU L 320 del 17.11.2012, pag. 8.
 
-### Sezione 3: Pianificazione, costruzione ed esercizio****
+### Sezione 3: Pianificazione, costruzione ed esercizio
 
 [^chap1-sec3-1]
 
@@ -594,18 +594,29 @@ La manutenzione dev’essere organizzata in modo che:
 
 **Notifiche sull’esercizio e la manutenzione**
 
-<sup>1</sup> Le imprese ferroviarie informano l’UFT sullo stato delle loro costruzioni e dei loro impianti e veicoli. Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) stabilisce quali sono gli annunci da trasmettere periodicamente all’UFT.[^15-1]
+<sup>1</sup> I gestori dell’infrastruttura informano l’UFT sullo stato delle loro costruzioni e dei loro impianti e veicoli.[^15-1] Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) stabilisce quali sono gli annunci da trasmettere periodicamente all’UFT.[^15-2]
 
-<sup>1bis</sup> Le imprese ferroviarie informano entro 30 giorni il servizio cantonale competente per la vigilanza sulla misurazione ufficiale in merito a modifiche che rendono necessaria una tenuta a giorno della misurazione ufficiale.[^15-2]
+<sup>1bis</sup> ...[^15-3]
 
-<sup>2</sup> Per il rimanente si applica l’ordinanza del 17 dicembre 2014[^15-3] concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti.[^15-4]
+<sup>2</sup> Per il rimanente si applica l’ordinanza del 17 dicembre 2014[^15-4] concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti.[^15-5]
 
-[^15-1]: Nuovo testo giusta il n. I 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
-[^15-2]: Introdotto dall’all. n. 3 dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^15-3]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^15-4]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^15-1]: Nuovo testo giusta l’all. n. 12 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^15-2]: Nuovo testo giusta il n. I 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
+[^15-3]: Introdotto dall’all. n. 3 dell’O del 21 mag. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Abrogato dall’all. n. 12 dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^15-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^15-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
-## Capitolo 1*a*:**** Interoperabilità
+#### Art. 15<sup>bis</sup>
+
+**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^15bis-1]
+
+<sup>1</sup> L’UFT informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura d’approvazione dei piani.
+
+<sup>2</sup> I gestori dell’infrastruttura informano tale servizio entro un termine di 20 giorni in merito alle modifiche di loro costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+
+[^15bis-1]: Introdotto dall’all. n. 12 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+## Capitolo 1*a*: Interoperabilità
 
 [^chap1a-1]
 
@@ -910,7 +921,7 @@ Dopo la ricezione della documentazione completa, l’UFT decide:
 
 <sup>3</sup> Se l’UFT non decide su una domanda di autorizzazione d’esercizio per un veicolo, dichiarata completa dal richiedente, entro cinque mesi dalla sua ricezione, il richiedente è autorizzato a mettere in esercizio il veicolo in questione.
 
-## Capitolo 1 *b*.:**** Organismi di controllo indipendenti
+## Capitolo 1 *b*.: Organismi di controllo indipendenti
 
 [^chap1b-1]
 
@@ -1045,7 +1056,7 @@ L’UFT esamina in modo specifico per ogni singolo progetto:
 - c. se è garantita l’indipendenza;
 - d. i rapporti di valutazione della sicurezza, gli attestati di conformità di organismi riconosciuti e i rapporti di perizia, per campionatura e in funzione dei rischi.
 
-## Capitolo 2: Costruzioni e impianti****
+## Capitolo 2: Costruzioni e impianti
 
 [^chap2-1]
 
@@ -1160,7 +1171,7 @@ I punti limite della lunghezza utile dei binari di stazione devono essere contra
 
 A lato del tracciato ferroviario non devono trovarsi né alberi, né pali o costruzioni che non oppongano sufficiente resistenza al vento e agli influssi atmosferici e che, di conseguenza, potrebbero cadere sulla linea ferroviaria.
 
-### Sezione 3: Piattaforma, opere d’arte e dispositivi di protezione****
+### Sezione 3: Piattaforma, opere d’arte e dispositivi di protezione
 
 [^chap2-sec3-1]
 
@@ -1284,7 +1295,7 @@ Le estremità dei binari devono essere provviste di paraurti.
 
 <sup>3</sup> Nella disposizione dei fabbricati di stazione si deve tener conto dei pericoli dovuti alla presenza delle linee di contatto.
 
-### Sezione 6:**** Sicurezza e segnaletica ai passaggi a livello
+### Sezione 6: Sicurezza e segnaletica ai passaggi a livello
 
 [^chap2-sec6-1]
 
@@ -1384,7 +1395,7 @@ Se l’eliminazione di un passaggio a livello rende impraticabile una parte dell
 [^37f-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^37f-2]: [RS 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
 
-### Sezione 7: Impianti di sicurezza e applicazioni telematiche****
+### Sezione 7: Impianti di sicurezza e applicazioni telematiche
 
 [^chap2-sec7-1]
 
@@ -1409,7 +1420,7 @@ Per garantire la sicurezza delle ferrovie o per raggiungere altri obiettivi di o
 
 [^38-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 [^38-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^38-3]: Introdotto dal il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^38-3]: Introdotto dal n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 39
 
@@ -1451,7 +1462,7 @@ Gli impianti di sicurezza servono in particolare:
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
-### Sezione 8: Sistemi di avvertimento per le persone nella zona dei binari****
+### Sezione 8: Sistemi di avvertimento per le persone nella zona dei binari
 
 [^chap2-sec8-1]
 
@@ -1472,11 +1483,11 @@ I sistemi di avvertimento per le persone che effettuano lavori nella zona dei bi
 
 [^41-1]: Originario art. 44. Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
-### Sezione 9: Impianti elettrici****
+### Sezione 9: Impianti elettrici
 
 [^chap2-sec9-1]
 
-[^chap2-sec9-1]: Introdotta dal il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^chap2-sec9-1]: Introdotta dal n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 42
 
@@ -1547,7 +1558,7 @@ Le prescrizioni della presente ordinanza e le sue disposizioni d’esecuzione so
 [^46-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^46-2]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
-## Capitolo 3:**** Veicoli
+## Capitolo 3: Veicoli
 
 [^chap3-1]
 
@@ -1778,7 +1789,7 @@ La velocità massima ammessa è determinata in funzione dei seguenti criteri:
 
 <sup>3</sup> a <sup>5</sup> ...[^77-1]
 
-[^77-1]: Abrogati dal il n. I dell’O del 16 nov. 2011, con effetto dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^77-1]: Abrogati dal n. I dell’O del 16 nov. 2011, con effetto dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 78
 
@@ -1970,7 +1981,7 @@ Il riconoscimento di organismi di valutazione del rischio riconosciuti prima del
 
 La presente ordinanza entra in vigore il 1° gennaio 1984.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 18 cpv. 1 e 2, nonché 47 cpv. 2)
 
@@ -1985,14 +1996,14 @@ Legenda:
 </table>
 
 <table>
-<tr><td>Gli spazi supplementari di cui all’articolo 18 capoverso 4 non figurano nel presente schizzo.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20210101/it/xml/image/image1.png)</td></tr>
+<tr><td>Gli spazi supplementari di cui all’articolo 18 capoverso 4 non figurano nel presente schizzo.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/it/xml/image/image1.png)</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 [^t-2]: Introdotto dal n. II dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Abrogato dal n. II cpv. 1 dell’O del 18 nov. 2015, con effetto dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 12*b* cpv. 1)
 
@@ -2009,7 +2020,7 @@ Sono dati relativi alle tratte:
 - e. il numero di treni;
 - f. il tipo di treni.
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 42 cpv. 1)
 
@@ -2073,7 +2084,7 @@ Gli impianti elettrici sono impianti e parti d’impianto fissi o mobili apparte
   - 1\. la tecnica di protezione comprende in particolare l’insieme delle installazioni e delle misure destinate a individuare difetti o altre condizioni di funzionamento anormali sulla rete elettrica di una ferrovia che, a loro volta, consentono di eliminare i difetti e le condizioni anormali e di far scattare la segnalazione,
   - 2\. gli impianti con strumentazione di controllo comprendono, in relazione con la rete di approvvigionamento elettrico delle ferrovie, in particolare la strumentazione di controllo in rete e i sistemi locali che servono prevalentemente o esclusivamente all’esercizio delle ferrovie. Essi includono la teletrasmissione di dati.
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 15*a* cpv. 1)
 
@@ -2109,7 +2120,7 @@ Niederbipp–Oberbipp
 
 Wohlen–Villmergen
 
-Allegato 6*[^t-6]*
+Allegato 6[^t-6]
 
 (art. 15*a* cpv. 2)
 
@@ -2491,7 +2502,7 @@ Zürich Wiedikon–Thalwil
 
 Zürich Aussersihl (bif)–galleria di base dello Zimmerberg–Litti
 
-Allegato 7*[^t-7]*
+Allegato 7[^t-7]
 
 (art. 15*b* cpv. 2)
 

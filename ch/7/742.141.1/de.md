@@ -4,11 +4,11 @@ title: "Verordnung vom 23. November 1983 über Bau und Betrieb der Eisenbahnen (
 short: EBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902"
 language: de
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1983-11-23
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20210101/de"
 
 (Eisenbahnverordnung, EBV)
 
-vom 23. November 1983 (Stand am 1. Januar 2021)
+vom 23. November 1983 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -32,7 +32,7 @@ verordnet:
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
-### 1. Abschnitt: Gegenstand, Zweck und Geltungsbereich****
+### 1. Abschnitt: Gegenstand, Zweck und Geltungsbereich
 
 [^chap1-sec1-1]
 
@@ -56,7 +56,7 @@ Diese Verordnung regelt die Planung, den Bau, den Betrieb, die Instandhaltung so
 [^1-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^1-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
-### 2. Abschnitt: Sicherheit****
+### 2. Abschnitt: Sicherheit
 
 [^chap1-sec2-1]
 
@@ -304,7 +304,7 @@ Für Eisenbahnunternehmen und die für die Instandhaltung von Fahrzeugen verantw
 [^5k-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^5k-2]: Verordnung (EU) Nr. 1078/2012 der Kommission vom 16. November 2012 über eine gemeinsame Sicherheitsmethode für die Kontrolle, die von Eisenbahnunternehmen und Fahrwegbetreibern, denen eine Sicherheitsbescheinigung beziehungsweise Sicherheitsgenehmigung erteilt wurde, sowie von den für die Instandhaltung zuständigen Stellen anzuwenden ist, Fassung gemäss ABl. L 320 vom 17.11.2012, S. 8.
 
-### 3. Abschnitt: Planung, Bau und Betrieb****
+### 3. Abschnitt: Planung, Bau und Betrieb
 
 [^chap1-sec3-1]
 
@@ -322,7 +322,7 @@ Für Eisenbahnunternehmen und die für die Instandhaltung von Fahrzeugen verantw
 
 <sup>4</sup> Es kann im Rahmen der Plangenehmigung festlegen, für welche Bauten oder Anlagen oder Teile davon Sicherheitsnachweise nach Artikel 8*a* einzureichen sind.[^6-5]
 
-<sup>5</sup> ...*[^6-6]*
+<sup>5</sup> …[^6-6]
 
 <sup>6</sup> Die Plangenehmigung für Bauten und Anlagen gilt als Baubewilligung.
 
@@ -592,18 +592,29 @@ Die Infrastrukturbetreiberin erlässt technisch-betriebliche Empfehlungen für d
 
 **Meldungen über Betrieb und Instandhaltung**
 
-<sup>1</sup> Die Eisenbahnunternehmen orientieren das BAV über den Zustand ihrer Bauten, Anlagen und Fahrzeuge. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) bestimmt, welche Meldungen sie dem BAV periodisch übermitteln müssen.[^15-1]
+<sup>1</sup> Die Infrastrukturbetreiberinnen informieren das BAV über den Zustand ihrer Bauten, Anlagen und Fahrzeuge.[^15-1] Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) bestimmt, welche Meldungen sie dem BAV periodisch übermitteln müssen.[^15-2]
 
-<sup>1bis</sup> Die Bahnunternehmen orientieren die für die Aufsicht über die amtliche Vermessung zuständige kantonale Stelle innert 30 Tagen über Veränderungen, die eine Nachführung der amtlichen Vermessung notwendig machen.[^15-2]
+<sup>1bis</sup> …[^15-3]
 
-<sup>2</sup> Im Übrigen gilt die Verordnung vom 17. Dezember 2014[^15-3] über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen.[^15-4]
+<sup>2</sup> Im Übrigen gilt die Verordnung vom 17. Dezember 2014[^15-4] über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen.[^15-5]
 
-[^15-1]: Fassung gemäss Ziff. I 5 der V vom 4. Nov. 2009 (erste Phase der Bahnreform 2), in Kraft seit 1. Jan. 2010 ([AS 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
-[^15-2]: Eingefügt durch Anhang Ziff. 3 der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^15-3]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^15-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^15-1]: Fassung gemäss Anhang Ziff. 12 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^15-2]: Fassung gemäss Ziff. I 5 der V vom 4. Nov. 2009 (erste Phase der Bahnreform 2), in Kraft seit 1. Jan. 2010 ([AS 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
+[^15-3]: Eingefügt durch Anhang Ziff. 3 der V vom 21. Mai 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Aufgehoben durch Anhang Ziff. 12 der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^15-4]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^15-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
-## 1*a*. Kapitel:**** Interoperabilität
+#### Art. 15<sup>bis</sup>
+
+**Meldungen an die kantonale Vermessungsaufsicht**[^15bis-1]
+
+<sup>1</sup> Das BAV informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahren.
+
+<sup>2</sup> Die Infrastrukturbetreiberinnen informieren diese Stelle innert 20 Tagen über Änderungen ihrer Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung notwendig machen.
+
+[^15bis-1]: Eingefügt durch Anhang Ziff. 12 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+## 1*a*. Kapitel: Interoperabilität
 
 [^chap1a-1]
 
@@ -679,7 +690,7 @@ Neue Teilsysteme der Bereiche Infrastruktur, Energie, Zugsteuerung, Zugsicherung
 
 <sup>2</sup> Das BAV kann auf Gesuch hin Abweichungen von bestimmten Anforderungen der TSI bewilligen, wenn ein Ausnahmegrund nach Artikel 7 Absatz 1 der Richtlinie (EU) 2016/797 vorliegt.[^15e-3]
 
-<sup>3</sup> ...[^15e-4]
+<sup>3</sup> …[^15e-4]
 
 <sup>4</sup> Bei Fahrzeugen kann das BAV Abweichungen von den TSI auch dann bewilligen, wenn deren Einhaltung nicht für den Einsatz auf interoperablen Strecken erforderlich ist und der Gesuchsteller den Nachweis nach Artikel 5 Absatz 2 erbringt.
 
@@ -908,7 +919,7 @@ Das BAV entscheidet nach Eingang der vollständigen Gesuchsunterlagen über:
 
 <sup>3</sup> Entscheidet das BAV nicht innerhalb von fünf Monaten nach Eingang über ein vom Gesuchsteller für vollständig erklärtes Gesuch um Erteilung einer Betriebsbewilligung für ein Fahrzeug, so darf es der Gesuchsteller danach in Betrieb nehmen.
 
-## 1*b*. Kapitel:**** Unabhängige Prüfstellen
+## 1*b*. Kapitel: Unabhängige Prüfstellen
 
 [^chap1b-1]
 
@@ -1041,7 +1052,7 @@ Das BAV überprüft projektspezifisch:
 - c. ob die Unabhängigkeit gewährleistet ist;
 - d. risikoorientiert mit Stichproben Sicherheitsbewertungsberichte, Konformitätsbescheinigungen anerkannter Stellen und Prüfberichte Sachverständiger.
 
-## 2. Kapitel: Bauten und Anlagen****
+## 2. Kapitel: Bauten und Anlagen
 
 [^chap2-1]
 
@@ -1148,7 +1159,7 @@ Die Grenzpunkte der Nutzlänge von Stationsgleisen sind mit Sicherheitszeichen z
 
 <sup>1</sup> Wo Bahnlinie und Strasse parallel verlaufen, ist für Neuanlagen von Bahnen oder Strassen zwischen dem Rand des nächsten Fahrstreifens und der nächsten Gleisachse genügend Abstand einzuhalten.
 
-<sup>2</sup> ...[^23-1]
+<sup>2</sup> …[^23-1]
 
 <sup>3</sup> Das Bahntrassee muss gegenüber einer parallel verlaufenden Strasse sichtbar abgegrenzt sein.
 
@@ -1162,7 +1173,7 @@ Neben dem Bahntrassee dürfen keine Bäume, Stangen oder Konstruktionen stehen, 
 
 [^24-1]: Ausdruck gemäss Ziff. I 5 der V vom 4. Nov. 2009 (erste Phase der Bahnreform 2), in Kraft seit 1. Jan. 2010 ([AS 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
-### 3. Abschnitt: Unterbau, Kunstbauten und Schutzeinrichtungen****
+### 3. Abschnitt: Unterbau, Kunstbauten und Schutzeinrichtungen
 
 [^chap2-sec3-1]
 
@@ -1239,7 +1250,7 @@ Das UVEK[^31-2] bezeichnet die Reglemente, Normalien und Pflichtenhefte, die fü
 
 <sup>1</sup> Die Weichen müssen eine einwandfreie Führung und einen möglichst ruhigen Lauf der Räder aller auf der betreffenden Strecke fahrenden Fahrzeuge gewährleisten.
 
-<sup>2</sup> ...[^32-1]
+<sup>2</sup> …[^32-1]
 
 [^32-1]: Aufgehoben durch Ziff. I der V vom 4. Nov. 2009, mit Wirkung seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
@@ -1287,7 +1298,7 @@ Die Gleisenden sind mit Abschlüssen zu versehen.
 
 <sup>3</sup> Bei der Gestaltung der Stationsbauten sind die Gefahren der Fahrleitungsanlage zu berücksichtigen.
 
-### 6. Abschnitt:**** Sicherung und Signalisation von Bahnübergängen
+### 6. Abschnitt: Sicherung und Signalisation von Bahnübergängen
 
 [^chap2-sec6-1]
 
@@ -1348,7 +1359,7 @@ Anstelle von Blinklichtsignalen können Lichtsignale eingesetzt werden, sofern d
 
 <sup>4bis</sup> An Bahnübergängen mit Halbschrankenanlagen dürfen die Blinklichtsignale durch Lichtsignale ergänzt werden, sofern der Bahnübergang in einer durch Lichtsignale geregelten Verzweigung liegt.[^37c-10]
 
-<sup>5</sup> ...[^37c-11]
+<sup>5</sup> …[^37c-11]
 
 <sup>6</sup> Die für die Gewährleistung der Sicherheit am Bahnübergang erforderlichen strassenseitigen Vorsignale und Markierungen werden nach der SSV angebracht.
 
@@ -1387,7 +1398,7 @@ Wird durch die Aufhebung eines Bahnüberganges ein Teil des in den kantonalen Pl
 [^37f-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^37f-2]: [SR 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
 
-### 7. Abschnitt: Sicherungsanlagen und Telematikanwendungen****
+### 7. Abschnitt: Sicherungsanlagen und Telematikanwendungen
 
 [^chap2-sec7-1]
 
@@ -1454,7 +1465,7 @@ Sicherungsanlagen dienen insbesondere der:
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
-### 8. Abschnitt: Personenwarnsysteme im Gleisbereich****
+### 8. Abschnitt: Personenwarnsysteme im Gleisbereich
 
 [^chap2-sec8-1]
 
@@ -1475,7 +1486,7 @@ Warnsysteme für Arbeiten im Gleisbereich müssen gewährleisten, dass:
 
 [^41-1]: Ursprünglich Art. 44. Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
-### 9. Abschnitt: Elektrische Anlagen****
+### 9. Abschnitt: Elektrische Anlagen
 
 [^chap2-sec9-1]
 
@@ -1517,7 +1528,7 @@ Die Vorschriften dieser Verordnung und ihre Ausführungsbestimmungen sind auf di
 - d. Bahnrückstrom- und Erdungsanlagen;
 - e.[^44-2] übrige bahnspezifische elektrische Anlagen;
 - f. Schutztechnik und Leittechnikanlagen;
-- g.[^44-3] ...
+- g.[^44-3] …
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^44-2]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
@@ -1550,7 +1561,7 @@ Die Vorschriften dieser Verordnung und ihre Ausführungsbestimmungen sind auf di
 [^46-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^46-2]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
-## 3. Kapitel:**** Fahrzeuge
+## 3. Kapitel: Fahrzeuge
 
 [^chap3-1]
 
@@ -1781,7 +1792,7 @@ Die höchstzulässige Fahrgeschwindigkeit ist nach folgenden Gesichtspunkten fes
 
 <sup>2</sup> Die Wirkung der Bremsen eines Zuges muss den betrieblichen Erfordernissen entsprechen.
 
-<sup>3–5</sup> ...[^77-1]
+<sup>3–5</sup> …[^77-1]
 
 [^77-1]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
@@ -1906,7 +1917,7 @@ Der jährliche Bericht der Eisenbahnunternehmen nach Artikel 5*g* ist erstmals f
 
 <sup>2</sup> Normalspurige Fahrzeuge können bis zum 31. Dezember 2017 nach den Vorschriften zugelassen werden, die für den Einsatz auf nicht interoperablen Strecken gelten.
 
-<sup>3</sup> ...[^83e-2]
+<sup>3</sup> …[^83e-2]
 
 <sup>4</sup> Das BAV kann schon vor Inkrafttreten entsprechender internationaler Abkommen Konformitätsbescheinigungen nach Artikel 15*k* von ausländischen Konformitätsbewertungsstellen anerkennen.
 
@@ -1975,7 +1986,7 @@ Die Anerkennung von Risikobewertungsstellen, die vor dem 1. November 2020 anerka
 
 Diese Verordnung tritt am 1. Januar 1984 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 18 Abs. 1 und 2 sowie 47 Abs. 2)
 
@@ -1990,14 +2001,14 @@ Legende:
 </table>
 
 <table>
-<tr><td>Zusätzliche Räume nach Artikel 18 Absatz 4 sind in dieser Zeichnung nicht berücksichtigt.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20210101/de/xml/image/image1.png)</td></tr>
+<tr><td>Zusätzliche Räume nach Artikel 18 Absatz 4 sind in dieser Zeichnung nicht berücksichtigt.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/de/xml/image/image1.png)</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Eingefügt durch Ziff. II der V vom 25. Nov. 1998 ([AS 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Aufgehoben durch Ziff. II Abs. 1 der V vom 18. Nov. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 12*b* Abs. 1)
 
@@ -2014,7 +2025,7 @@ Als streckenbezogene Daten gelten:
 - e. Zugzahlen;
 - f. Zugstypen.
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 42 Abs. 1)
 
@@ -2078,7 +2089,7 @@ Elektrische Anlagen sind feste oder mobile elektrische Anlagen und Anlagenteile 
   - 1\. Schutztechnik umfasst insbesondere die Gesamtheit der Einrichtungen und Massnahmen zum Erfassen von Netzfehlern oder anderen anormalen Betriebszuständen in einem Elektrizitätsnetz der Eisenbahn, welche die Fehlerbeseitigung, die Beseitigung der anormalen Zustände und die Signalisierung oder Anzeige bewirken.
   - 2\. Leittechnikanlagen umfassen im Zusammenhang mit dem Bahnstromversorgungsnetz insbesondere die ganz oder überwiegend dem Eisenbahnbetrieb dienende Netzleittechnik und die örtlichen Leitsysteme. Sie schliessen die zugehörige Datenfernübertragung ein.
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 15*a* Abs. 1)
 
@@ -2114,7 +2125,7 @@ Niederbipp–Oberbipp
 
 Wohlen–Villmergen
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-6]
 
 (Art. 15*a* Abs. 2)
 
@@ -2498,7 +2509,7 @@ Zürich Aussersihl (Abzw)–Zimmerberg-Basistunnel–Litti
 
 - [tab]
 
-Anhang 7*[^t-7]*
+Anhang 7[^t-7]
 
 (Art. 15*b* Abs. 2)
 
