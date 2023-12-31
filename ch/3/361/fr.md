@@ -4,11 +4,11 @@ title: "Loi fédérale du 13 juin 2008 sur les systèmes d'information de police
 short: LSIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-698-20230901-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-698-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230901/fr"
 
 (LSIP)
 
-du 13 juin 2008 (État le 1<sup>er</sup> septembre 2023)
+du 13 juin 2008 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -439,21 +439,21 @@ Dans l’accomplissement de leurs tâches, les autorités et les services suivan
 - c. les représentations suisses à l’étranger et le service de protection consulaire du Département fédéral des affaires étrangères (DFAE);
 - d. le Secrétariat général d’Interpol et les Bureaux centraux nationaux Interpol d’autres pays, en ce qui concerne la recherche de véhicules et d’objets, à l’exclusion des données se rapportant à des personnes;
 - e. les offices de la circulation routière et de la navigation, en ce qui concerne les véhicules et les embarcations ainsi que les documents et plaques d’immatriculation y afférents;
-- f. l’autorité chargée d’effectuer les contrôles de sécurité relatifs aux personnes visés à l’art. 21, al. 1, LMSI;
+- f.[^15-13] ...
 - g. le Secrétariat d’État à l’économie et les autorités cantonales et communales compétentes en matière de migrations et d’emploi, afin de vérifier si un étranger est inscrit dans le système d’information;
-- h. les autorités visées à l’art. 4 de la loi du 22 juin 2001 sur les documents d’identité[^15-13], afin de déterminer s’il existe des motifs empêchant l’établissement de documents d’identité;
-- i. le SRC, pour la recherche du lieu de séjour de personnes et la recherche concernant des véhicules conformément à la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^15-14];
+- h. les autorités visées à l’art. 4 de la loi du 22 juin 2001 sur les documents d’identité[^15-14], afin de déterminer s’il existe des motifs empêchant l’établissement de documents d’identité;
+- i. le SRC, pour la recherche du lieu de séjour de personnes et la recherche concernant des véhicules conformément à la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^15-15];
 - j. l’Office fédéral de l’aviation civile, en ce qui concerne les aéronefs, y compris les documents, moteurs et autres parties identifiables y afférents;
-- k.[^15-15] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^15-16];
-- k<sup>bis</sup>.[^15-17]
+- k.[^15-16] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^15-17];
+- k<sup>bis</sup>.[^15-18]
 
   le SEM, les autorités migratoires cantonales et communales aux fins suivantes:
 
   - 1\. examen des conditions d’entrée et de séjour en Suisse,
-  - 2\. procédure régissant l’acquisition ou la perte de la nationalité dans le cadre de la loi du 20 juin 2014 sur la nationalité suisse (LN)[^15-18];
+  - 2\. procédure régissant l’acquisition ou la perte de la nationalité dans le cadre de la loi du 20 juin 2014 sur la nationalité suisse (LN)[^15-19];
 
-- l.[^15-19] la police des transports;
-- m[^15-20]. les autres autorités judiciaires et administratives désignées par le Conseil fédéral par voie d’ordonnance.
+- l.[^15-20] la police des transports;
+- m[^15-21]. les autres autorités judiciaires et administratives désignées par le Conseil fédéral par voie d’ordonnance.
 
 <sup>5</sup> Le système informatisé de recherche de personnes et d’objets et d’autres systèmes d’information peuvent être interconnectés de manière à donner aux utilisateurs mentionnés à l’al. 4 la possibilité de consulter les autres systèmes au moyen d’une seule interrogation, lorsqu’ils disposent des autorisations d’accès nécessaires.
 
@@ -469,14 +469,15 @@ Dans l’accomplissement de leurs tâches, les autorités et les services suivan
 [^15-10]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^15-11]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^15-12]: Anciennement let. l.
-[^15-13]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^15-14]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^15-15]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^15-16]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^15-17]: Anciennement let. k.
-[^15-18]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^15-19]: Anciennement let. k. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^15-20]: Anciennement let. l.
+[^15-13]: Abrogée par l’annexe 2 ch. 6 de la L du 18 déc. 2020 sur la sécurité de l’information, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^15-14]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^15-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^15-16]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^15-17]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^15-18]: Anciennement let. k.
+[^15-19]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^15-20]: Anciennement let. k. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^15-21]: Anciennement let. l.
 
 #### Art. 16
 
@@ -623,7 +624,7 @@ L’index contient les informations suivantes:
 
 <sup>4</sup>
 
-Ont accès en ligne à ces données:
+Ont accès en ligne à ces données:[^17-1]
 
 - a. la PJF;
 - b. le Ministère public de la Confédération et les autorités cantonales de poursuite pénale;
@@ -632,13 +633,13 @@ Ont accès en ligne à ces données:
 - e. le Bureau de communication en matière de blanchiment d’argent;
 - f. les autorités cantonales de police;
 - g. le service chargé de l’exploitation du système de recherches informatisées de police;
-- h. l’OFJ, pour l’accomplissement des tâches qui lui incombent en vertu de la loi du 20 mars 1981 sur l’entraide internationale en matière pénale[^17-1];
+- h. l’OFJ, pour l’accomplissement des tâches qui lui incombent en vertu de la loi du 20 mars 1981 sur l’entraide internationale en matière pénale[^17-2];
 - i. le Corps des gardes-frontière et le service antifraude douanier;
 - j. la sécurité militaire;
 - k. les autorités de la justice militaire;
-- l. l’autorité chargée d’effectuer les contrôles de sécurité visés à l’art. 21, al. 1, LMSI[^17-2];
-- m.[^17-3] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^17-4].
-- n.[^17-5] le SEM, pour l’accomplissement des tâches qui lui incombent en vertu des art. 5, al. 1, let. c, 98*c* et 99 LEI[^17-6] et 5*a*, 26, al. 2, et 53, let. b, de la loi du 26 juin 1998 sur l’asile[^17-7].
+- l.[^17-3] les services spécialisés chargés des contrôles de sécurité relatifs à des personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^17-4], afin d’évaluer le risque pour la sécurité dans le cadre d’un contrôle de sécurité relatif aux personnes, d’un contrôle de loyauté ou d’une évaluation du potentiel de violence[^17-5];
+- m.[^17-6] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^17-7].
+- n.[^17-8] le SEM, pour l’accomplissement des tâches qui lui incombent en vertu des art. 5, al. 1, let. c, 98*c* et 99 LEI[^17-9] et 5*a*, 26, al. 2, et 53, let. b, de la loi du 26 juin 1998 sur l’asile[^17-10].
 
 <sup>5</sup> Le Conseil fédéral est habilité à restreindre l’accès à l’index des utilisateurs mentionnés à l’al. 4. Ces restrictions peuvent porter tant sur les données énumérées à l’al. 3 que sur les systèmes visés à l’al. 1.
 
@@ -653,13 +654,16 @@ Les autorités cantonales décident librement du raccordement de leur système �
 - a. les critères édictés par la Confédération pour le type d’infractions à inclure dans l’index;
 - b. les normes informatiques arrêtées par la Confédération pour faciliter l’échange de données.
 
-[^17-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^17-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^17-3]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^17-4]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^17-5]: Anciennement let. m. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^17-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^17-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-1]: Nouvelle teneur selon l’annexe 1 ch. 11 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^17-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^17-3]: Nouvelle teneur selon l’annexe 1 ch. 11 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^17-4]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^17-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^17-6]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^17-7]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^17-8]: Anciennement let. m. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^17-9]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^17-10]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 17a
 

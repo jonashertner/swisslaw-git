@@ -4,11 +4,11 @@ title: Bundesgesetz vom 13. Juni 2008 über die polizeilichen Informationssystem
 short: BPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-698-20230901-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-698-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230901/de"
 
 (BPI)
 
-vom 13. Juni 2008 (Stand am 1. September 2023)
+vom 13. Juni 2008 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -441,21 +441,21 @@ Folgende Behörden und Stellen dürfen zur Erfüllung ihrer Aufgaben mittels Abr
 - c. die schweizerischen Vertretungen im Ausland und der Dienst für konsularischen Schutz des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA);
 - d. das Interpol-Generalsekretariat und die ausländischen nationalen Interpol-Zentralbüros, soweit es um abhandengekommene Fahrzeuge und Gegen‑ stände geht, mit Ausnahme von Personendaten;
 - e. die Strassenverkehrs- und Schifffahrtsämter, soweit es um Strassen- oder Wasserfahrzeuge sowie zugehörige Dokumente oder Nummernschilder geht;
-- f. die Behörde, die nach Artikel 21 Absatz 1 BWIS mit der Durchführung von Personensicherheitsprüfungen betraut ist;
+- f.[^15-13] …
 - g. das Staatssekretariat für Wirtschaft und die kantonalen sowie kommunalen Migrations- und Arbeitsmarktbehörden, zwecks Abklärung, ob eine ausländische Staatsangehörige oder ein ausländischer Staatsangehöriger im Informationssystem verzeichnet ist;
-- h. die Behörden gemäss Artikel 4 des Ausweisgesetzes vom 22. Juni 2001[^15-13], zwecks Abklärung des Vorliegens allfälliger Gründe für die Verweigerung der Ausstellung eines Ausweises;
-- i. der NDB zur Feststellung des Aufenthaltsortes von Personen und des Standortes von Fahrzeugen nach Massgabe des Nachrichtendienstgesetzes vom 25. September 2015[^15-14] (NDG);
+- h. die Behörden gemäss Artikel 4 des Ausweisgesetzes vom 22. Juni 2001[^15-14], zwecks Abklärung des Vorliegens allfälliger Gründe für die Verweigerung der Ausstellung eines Ausweises;
+- i. der NDB zur Feststellung des Aufenthaltsortes von Personen und des Standortes von Fahrzeugen nach Massgabe des Nachrichtendienstgesetzes vom 25. September 2015[^15-15] (NDG);
 - j. das Bundesamt für Zivilluftfahrt, soweit es um Luftfahrzeuge einschliesslich zugehöriger Dokumente, Motoren und anderer identifizierbarer Teile geht;
-- k.[^15-15] fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^15-16];
-- k<sup>bis</sup>.[^15-17]
+- k.[^15-16] fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^15-17];
+- k<sup>bis</sup>.[^15-18]
 
   das SEM, die kantonalen und kommunalen Migrationsbehörden:
 
   - 1\. zur Prüfung der Voraussetzungen für die Einreise und den Aufenthalt in der Schweiz,
-  - 2\. für Verfahren über Erwerb oder Verlust des Bürgerrechts im Rahmen des Bürgerrechtsgesetzes vom 20. Juni 2014[^15-18] (BüG);
+  - 2\. für Verfahren über Erwerb oder Verlust des Bürgerrechts im Rahmen des Bürgerrechtsgesetzes vom 20. Juni 2014[^15-19] (BüG);
 
-- l.[^15-19] die Transportpolizei;
-- m.[^15-20] weitere vom Bundesrat durch Verordnung bezeichnete Justiz- und Verwaltungsbehörden.
+- l.[^15-20] die Transportpolizei;
+- m.[^15-21] weitere vom Bundesrat durch Verordnung bezeichnete Justiz- und Verwaltungsbehörden.
 
 <sup>5</sup> Das automatisierte Personen- und Sachfahndungssystem kann mit anderen Informationssystemen so verbunden werden, dass die Benutzenden des Systems nach Absatz 4 mit einer einzigen Abfrage andere Informationssysteme konsultieren können, sofern sie über die notwendigen Zugriffsberechtigungen verfügen.
 
@@ -471,14 +471,15 @@ Folgende Behörden und Stellen dürfen zur Erfüllung ihrer Aufgaben mittels Abr
 [^15-10]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^15-11]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^15-12]: Ursprünglich: Bst. l.
-[^15-13]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^15-14]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^15-15]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^15-16]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^15-17]: Ursprünglich: Bst. k.
-[^15-18]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^15-19]: Ursprünglich: Bst. k. Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^15-20]: Ursprünglich: Bst. l.
+[^15-13]: Aufgehoben durch Anhang 2 Ziff. 6 des Informationssicherheitsgesetzes vom 18. Dez. 2020, mit Wirkung seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^15-14]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^15-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^15-16]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^15-17]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^15-18]: Ursprünglich: Bst. k.
+[^15-19]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^15-20]: Ursprünglich: Bst. k. Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^15-21]: Ursprünglich: Bst. l.
 
 #### Art. 16
 
@@ -625,7 +626,7 @@ Der Index enthält die folgenden Informationen:
 
 <sup>4</sup>
 
-Zugriff auf diese Daten mittels eines automatisierten Abrufverfahrens haben:
+Zugriff auf diese Daten mittels Abrufverfahren haben:[^17-1]
 
 - a. die BKP;
 - b. die Bundesanwaltschaft und die kantonalen Strafverfolgungsbehörden;
@@ -634,13 +635,13 @@ Zugriff auf diese Daten mittels eines automatisierten Abrufverfahrens haben:
 - e. die Meldestelle für Geldwäscherei;
 - f. die Polizeibehörden der Kantone;
 - g. der mit der Führung des automatisierten Polizeifahndungssystems betraute Dienst;
-- h. das BJ, zur Erfüllung der Aufgaben nach dem Rechtshilfegesetz vom 20. März 1981[^17-1];
+- h. das BJ, zur Erfüllung der Aufgaben nach dem Rechtshilfegesetz vom 20. März 1981[^17-2];
 - i. das Grenzwachtkorps und die Zollfahndung;
 - j die militärische Sicherheit;
 - k. die Militärjustizbehörden;
-- l. die Behörde, die nach Artikel 21 Absatz 1 BWIS[^17-2] mit der Durchführung von Personensicherheitsprüfungen betraut ist;
-- m.[^17-3] fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^17-4];
-- n.[^17-5] das SEM zur Wahrnehmung seiner Aufgaben nach den Artikeln 5 Absatz 1 Buchstabe c, 98*c* und 99 AIG[^17-6] sowie nach den Artikeln 5*a*, 26 Absatz 2 und 53 Buchstabe b des Asylgesetzes vom 26. Juni 1998[^17-7].
+- l.[^17-3] die für die Durchführung der Personensicherheitsprüfungen zuständigen Fachstellen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^17-4] zur Beurteilung des Sicherheitsrisikos im Rahmen einer Personensicherheitsprüfung, einer Prüfung der Vertrauenswürdigkeit oder einer Beurteilung des Gewaltpotenzials;
+- m.[^17-5] fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^17-6];
+- n.[^17-7] das SEM zur Wahrnehmung seiner Aufgaben nach den Artikeln 5 Absatz 1 Buchstabe c, 98*c* und 99 AIG[^17-8] sowie nach den Artikeln 5*a*, 26 Absatz 2 und 53 Buchstabe b des Asylgesetzes vom 26. Juni 1998[^17-9].
 
 <sup>5</sup> Der Bundesrat ist ermächtigt, den Umfang des Zugriffs im Index für die Benutzenden nach Absatz 4 einzuschränken. Diese Einschränkung kann sowohl den Umfang der in Absatz 3 aufgeführten Daten wie auch die Systeme nach Absatz 1 betreffen.
 
@@ -655,13 +656,15 @@ Die kantonalen Behörden entscheiden, ob sie ihr System an den Nationalen Polize
 - a. die vom Bund festgelegten Kriterien hinsichtlich der im Index zu verzeichnenden Deliktsarten beachten; und
 - b. die vom Bund festgelegten technischen Standards für einen erleichterten Datenaustausch einhalten.
 
-[^17-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^17-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^17-3]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^17-4]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^17-5]: Ursprünglich: Bst. m. Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^17-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^17-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-1]: Fassung gemäss Anhang 1 Ziff. 11 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^17-2]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^17-3]: Fassung gemäss Anhang 1 Ziff. 11 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^17-4]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^17-5]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^17-6]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^17-7]: Ursprünglich: Bst. m. Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^17-8]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^17-9]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 17a
 
