@@ -3,11 +3,11 @@ sr: "0.653.1"
 title: Multilaterale Vereinbarung vom 29. Oktober 2014 der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten (mit Beilage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/759"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2014-10-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-759-20230101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-759-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 18. Dezember 2015[^t-1]
 
 In Kraft getreten am 1. Januar 2017
 
-(Stand am 1. Januar 2023)
+(Stand am 1. Januar 2024)
 
 [^t-1]: [AS 2016 4717](https://fedlex.data.admin.ch/eli/oc/2016/758)
 
@@ -655,7 +655,7 @@ Im Sinne dieser Erklärung:
 [^annexu1-lvlu2-2]: [SR 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
 [^annexu1-lvlu2-3]: Die Schweiz verfügt über eine Angemessenheitsentscheidung der Europäischen Kommission gemäss Artikel 25 Absatz 6 der Richtlinie 95/46/EG vom 24. Oktober 1995 des Europäischen Parlaments und des Rates zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr.
 
-Geltungsbereich am 1. Januar 2023[^t-2]
+Geltungsbereich am 1. Januar 2024[^t-2]
 
 Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung über den automatischen Informationsaustausch über Finanzkonten in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Abschnitt 7 Absatz 2.1 dieser Vereinbarung:
 
@@ -689,60 +689,64 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung über den
 <tr><td>Grenada[^t-28]</td><td>1. Januar 2019</td></tr>
 <tr><td>Grönland[^t-29]</td><td>1. Januar 2018</td></tr>
 <tr><td>Guernsey[^t-30]</td><td>1. Januar 2017</td></tr>
-<tr><td>Indien[^t-31]</td><td>1. Januar 2018</td></tr>
-<tr><td>Indonesien[^t-32]</td><td>1. Januar 2018</td></tr>
-<tr><td>Insel Man[^t-33]</td><td>1. Januar 2017</td></tr>
-<tr><td>Island[^t-34]</td><td>1. Januar 2017</td></tr>
-<tr><td>Israel[^t-35]</td><td>1. Januar 2019</td></tr>
-<tr><td>Jamaica[^t-36]</td><td>1. Januar 2023</td></tr>
-<tr><td>Japan[^t-37]</td><td>1. Januar 2017</td></tr>
-<tr><td>Jersey[^t-38]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kaimaninseln[^t-39]</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Kanada[^t-40]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kasachstan[^t-41]</td><td>1. Januar 2022</td></tr>
-<tr><td>Katar[^t-42]</td><td>1. Januar 2019</td></tr>
-<tr><td>Kolumbien[^t-43]</td><td>1. Januar 2018</td></tr>
-<tr><td>Korea[^t-44]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kuwait[^t-45]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Libanon[^t-46]</td><td>1. Januar 2020</td></tr>
-<tr><td>Liechtenstein[^t-47]</td><td>1. Januar 2018</td></tr>
-<tr><td>Macao[^t-48]</td><td>1. Januar 2020</td></tr>
-<tr><td>Malaysia[^t-49]</td><td>1. Januar 2018</td></tr>
-<tr><td>Malediven[^t-50]</td><td>1. Januar 2022</td></tr>
-<tr><td>Marshallinseln[^t-51]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Mauritius[^t-52]</td><td>1. Januar 2018</td></tr>
-<tr><td>Mexiko[^t-53]</td><td>1. Januar 2018</td></tr>
-<tr><td>Monaco[^t-54]</td><td>1. Januar 2018</td></tr>
-<tr><td>Montserrat[^t-55]</td><td>1. Januar 2018</td></tr>
-<tr><td>Nauru[^t-56]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Neukaledonien[^t-57]</td><td>1. Januar 2023\*</td></tr>
-<tr><td>Neuseeland[^t-58]</td><td>1. Januar 2018</td></tr>
-<tr><td>Niederländische Überseegemeinden Bonaire, Saint Eustatius und Saba[^t-59]</td><td>1. Januar 2019</td></tr>
-<tr><td>Nigeria[^t-60]</td><td>1. Januar 2021</td></tr>
-<tr><td>Norwegen[^t-61]</td><td>1. Januar 2017</td></tr>
-<tr><td>Oman[^t-62]</td><td>1. Januar 2022</td></tr>
-<tr><td>Pakistan[^t-63]</td><td>1. Januar 2020</td></tr>
-<tr><td>Panama[^t-64]</td><td>1. Januar 2019</td></tr>
-<tr><td>Peru[^t-65]</td><td>1. Januar 2021</td></tr>
-<tr><td>Russland[^t-66]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Kitts und Nevis[^t-67]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Lucia[^t-68]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Vincent und die Grenadinen[^t-69]</td><td>1. Januar 2018</td></tr>
-<tr><td>Samoa[^t-70]</td><td>1. Januar 2020</td></tr>
-<tr><td>San Marino[^t-71]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saudi-Arabien[^t-72]</td><td>1. Januar 2018</td></tr>
-<tr><td>Seychellen[^t-73]</td><td>1. Januar 2018</td></tr>
-<tr><td>Sint Maarten[^t-74]</td><td>1. Januar 2023</td></tr>
-<tr><td>Südafrika[^t-75]</td><td>1. Januar 2018</td></tr>
-<tr><td>Türkei[^t-76]</td><td>1. Januar 2021</td></tr>
-<tr><td>Turks- und Caicos-Inseln[^t-77]</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Uruguay[^t-78]</td><td>1. Januar 2018</td></tr>
-<tr><td>Vanuatu[^t-79]</td><td>1. Januar 2020\*</td></tr>
-<tr><td>Vereinigte Arabische Emirate[^t-80]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Hong Kong[^t-31]</td><td>1. Januar 2024</td></tr>
+<tr><td>Indien[^t-32]</td><td>1. Januar 2018</td></tr>
+<tr><td>Indonesien[^t-33]</td><td>1. Januar 2018</td></tr>
+<tr><td>Insel Man[^t-34]</td><td>1. Januar 2017</td></tr>
+<tr><td>Island[^t-35]</td><td>1. Januar 2017</td></tr>
+<tr><td>Israel[^t-36]</td><td>1. Januar 2019</td></tr>
+<tr><td>Jamaica[^t-37]</td><td>1. Januar 2023</td></tr>
+<tr><td>Japan[^t-38]</td><td>1. Januar 2017</td></tr>
+<tr><td>Jersey[^t-39]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kaimaninseln[^t-40]</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Kanada[^t-41]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kasachstan[^t-42]</td><td>1. Januar 2022</td></tr>
+<tr><td>Katar[^t-43]</td><td>1. Januar 2019</td></tr>
+<tr><td>Kenia[^t-44]</td><td>1. Januar 2024</td></tr>
+<tr><td>Kolumbien[^t-45]</td><td>1. Januar 2018</td></tr>
+<tr><td>Korea (Süd)[^t-46]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kuwait[^t-47]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Libanon[^t-48]</td><td>1. Januar 2020</td></tr>
+<tr><td>Liechtenstein[^t-49]</td><td>1. Januar 2018</td></tr>
+<tr><td>Macao[^t-50]</td><td>1. Januar 2020</td></tr>
+<tr><td>Malaysia[^t-51]</td><td>1. Januar 2018</td></tr>
+<tr><td>Malediven[^t-52]</td><td>1. Januar 2022</td></tr>
+<tr><td>Marshallinseln[^t-53]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Mauritius[^t-54]</td><td>1. Januar 2018</td></tr>
+<tr><td>Mexiko[^t-55]</td><td>1. Januar 2018</td></tr>
+<tr><td>Monaco[^t-56]</td><td>1. Januar 2018</td></tr>
+<tr><td>Montserrat[^t-57]</td><td>1. Januar 2018</td></tr>
+<tr><td>Nauru[^t-58]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Neukaledonien[^t-59]</td><td>1. Januar 2023\*</td></tr>
+<tr><td>Neuseeland[^t-60]</td><td>1. Januar 2018</td></tr>
+<tr><td>Niederländische Überseegemeinden Bonaire, Saint Eustatius und Saba[^t-61]</td><td>1. Januar 2019</td></tr>
+<tr><td>Nigeria[^t-62]</td><td>1. Januar 2021</td></tr>
+<tr><td>Norwegen[^t-63]</td><td>1. Januar 2017</td></tr>
+<tr><td>Oman[^t-64]</td><td>1. Januar 2022</td></tr>
+<tr><td>Pakistan[^t-65]</td><td>1. Januar 2020</td></tr>
+<tr><td>Panama[^t-66]</td><td>1. Januar 2019</td></tr>
+<tr><td>Peru[^t-67]</td><td>1. Januar 2021</td></tr>
+<tr><td>Russland[^t-68]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Kitts und Nevis[^t-69]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Lucia[^t-70]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Vincent und die Grenadinen[^t-71]</td><td>1. Januar 2018</td></tr>
+<tr><td>Samoa[^t-72]</td><td>1. Januar 2020</td></tr>
+<tr><td>San Marino[^t-73]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saudi-Arabien[^t-74]</td><td>1. Januar 2018</td></tr>
+<tr><td>Seychellen[^t-75]</td><td>1. Januar 2018</td></tr>
+<tr><td>Singapur[^t-76]</td><td>1. Januar 2024</td></tr>
+<tr><td>Sint Maarten[^t-77]</td><td>1. Januar 2023</td></tr>
+<tr><td>Südafrika[^t-78]</td><td>1. Januar 2018</td></tr>
+<tr><td>Thailand[^t-79]</td><td>1. Januar 2024</td></tr>
+<tr><td>Türkei[^t-80]</td><td>1. Januar 2021</td></tr>
+<tr><td>Turks- und Caicos-Inseln[^t-81]</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Uruguay[^t-82]</td><td>1. Januar 2018</td></tr>
+<tr><td>Vanuatu[^t-83]</td><td>1. Januar 2020\*</td></tr>
+<tr><td>Vereinigte Arabische Emirate[^t-84]</td><td>1. Januar 2019\*</td></tr>
 <tr><td colspan="2">\* Diese Staaten und Territorien wenden den automatischen Informationsaustausch gestützt auf eine Notifikation gemäss Abschnitt 7 (1)(b) der Multilateralen Vereinbarung ständig in nichtreziproker Weise an. Dies bedeutet, dass sie keine Daten über Finanzkonten von der Schweiz erhalten, der Schweiz aber solche Informationen übermitteln werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769), [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36); [2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36), [2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107); [2024 15](https://fedlex.data.admin.ch/eli/oc/2024/15). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 [^t-3]: BB vom 10. Dez. 2019 ([AS 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764))
 [^t-4]: BB vom 5. Dez. 2017 ([AS 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841))
 [^t-5]: BB vom 13. Dez. 2018 ([AS 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10))
@@ -771,53 +775,57 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung über den
 [^t-28]: BB vom 5. Dez. 2017 ([AS 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857))
 [^t-29]: BB vom 5. Dez. 2017 ([AS 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858))
 [^t-30]: BB vom 12. Dez. 2016 ([AS 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843))
-[^t-31]: BB vom 5. Dez. 2017 ([AS 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859))
-[^t-32]: BB vom 5. Dez. 2017 ([AS 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860))
-[^t-33]: BB vom 12. Dez. 2016 ([AS 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844))
-[^t-34]: BB vom 12. Dez. 2016 ([AS 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845))
-[^t-35]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9))
-[^t-36]: BB vom 8. Dez. 2022 ([AS 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104))
-[^t-37]: BB vom 12. Dez. 2016 ([AS 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846))
-[^t-38]: BB vom 12. Dez. 2016 ([AS 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847))
-[^t-39]: BB vom 5. Dez. 2017 ([AS 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850))
-[^t-40]: BB vom 12. Dez. 2016 ([AS 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841))
-[^t-41]: BB vom 10. Dez. 2019 ([AS 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33))
-[^t-42]: BB vom 13. Dez. 2018 ([AS 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13))
-[^t-43]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861))
-[^t-44]: BB vom 12. Dez. 2016 ([AS 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842))
-[^t-45]: BB vom 13. Dez. 2018 ([AS 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14))
-[^t-46]: BB vom 10. Dez 2019 ([AS 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35))
-[^t-47]: BB vom 5. Dez. 2017 ([AS 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863))
-[^t-48]: BB vom 10. Dez 2019 ([AS 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36))
-[^t-49]: BB vom 5. Dez. 2017 ([AS 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864))
-[^t-50]: BB vom 10. Dez. 2019 ([AS 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34))
-[^t-51]: BB vom 5. Dez. 2017 ([AS 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865))
-[^t-52]: BB vom 5. Dez. 2017 ([AS 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866))
-[^t-53]: BB vom 5. Dez. 2017 ([AS 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867))
-[^t-54]: BB vom 5. Dez. 2017 ([AS 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868))
-[^t-55]: BB vom 5. Dez. 2017 ([AS 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869))
-[^t-56]: BB vom 13. Dez. 2018 ([AS 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15))
-[^t-57]: BB vom 8. Dez. 2022 ([AS 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105))
-[^t-58]: BB vom 12. Dez. 2017 ([AS 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870))
-[^t-59]: BB vom 13. Dez. 2018 ([AS 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16))
-[^t-60]: BB vom 10. Dez. 2019 ([AS 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766))
-[^t-61]: BB vom 12. Dez. 2016 ([AS 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848))
-[^t-62]: BB vom 10. Dez. 2019 ([AS 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35))
-[^t-63]: BB vom 10. Dez 2019 ([AS 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37))
-[^t-64]: BB vom 13. Dez. 2018 ([AS 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17))
-[^t-65]: BB vom 10. Dez. 2019 ([AS 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767))
-[^t-66]: BB vom 5. Dez. 2017 ([AS 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871))
-[^t-67]: BB vom 5. Dez. 2017 ([AS 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872))
-[^t-68]: BB vom 5. Dez. 2017 ([AS 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873))
-[^t-69]: BB vom 5. Dez. 2017 ([AS 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874))
-[^t-70]: BB vom 10. Dez 2019 ([AS 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38))
-[^t-71]: BB vom 5. Dez. 2017 ([AS 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875))
-[^t-72]: BB vom 6. Dez. 2017 ([AS 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876))
-[^t-73]: BB vom 5. Dez. 2017 ([AS 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877))
-[^t-74]: BB vom 10. Dez. 2019 ([AS 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106))
-[^t-75]: BB vom 5. Dez. 2017 ([AS 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878))
-[^t-76]: BB vom 3. März 2020 ([AS 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768))
-[^t-77]: BB vom 5. Dez. 2017 ([AS 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879))
-[^t-78]: BB vom 5. Dez. 2017 ([AS 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880))
-[^t-79]: BB vom 10. Dez 2019 ([AS 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39))
-[^t-80]: BB vom 5. Dez. 2017 ([AS 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881))
+[^t-31]: BB vom 13. Dez. 2018 ([AS 2024 16](https://fedlex.data.admin.ch/eli/oc/2024/16))
+[^t-32]: BB vom 5. Dez. 2017 ([AS 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859))
+[^t-33]: BB vom 5. Dez. 2017 ([AS 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860))
+[^t-34]: BB vom 12. Dez. 2016 ([AS 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844))
+[^t-35]: BB vom 12. Dez. 2016 ([AS 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845))
+[^t-36]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9))
+[^t-37]: BB vom 8. Dez. 2022 ([AS 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104))
+[^t-38]: BB vom 12. Dez. 2016 ([AS 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846))
+[^t-39]: BB vom 12. Dez. 2016 ([AS 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847))
+[^t-40]: BB vom 5. Dez. 2017 ([AS 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850))
+[^t-41]: BB vom 12. Dez. 2016 ([AS 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841))
+[^t-42]: BB vom 10. Dez. 2019 ([AS 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33))
+[^t-43]: BB vom 13. Dez. 2018 ([AS 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13))
+[^t-44]: BB vom 8. Dez. 2022 ([AS 2024 17](https://fedlex.data.admin.ch/eli/oc/2024/17))
+[^t-45]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861))
+[^t-46]: BB vom 12. Dez. 2016 ([AS 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842))
+[^t-47]: BB vom 13. Dez. 2018 ([AS 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14))
+[^t-48]: BB vom 10. Dez 2019 ([AS 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35))
+[^t-49]: BB vom 5. Dez. 2017 ([AS 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863))
+[^t-50]: BB vom 10. Dez 2019 ([AS 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36))
+[^t-51]: BB vom 5. Dez. 2017 ([AS 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864))
+[^t-52]: BB vom 10. Dez. 2019 ([AS 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34))
+[^t-53]: BB vom 5. Dez. 2017 ([AS 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865))
+[^t-54]: BB vom 5. Dez. 2017 ([AS 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866))
+[^t-55]: BB vom 5. Dez. 2017 ([AS 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867))
+[^t-56]: BB vom 5. Dez. 2017 ([AS 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868))
+[^t-57]: BB vom 5. Dez. 2017 ([AS 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869))
+[^t-58]: BB vom 13. Dez. 2018 ([AS 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15))
+[^t-59]: BB vom 8. Dez. 2022 ([AS 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105))
+[^t-60]: BB vom 12. Dez. 2017 ([AS 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870))
+[^t-61]: BB vom 13. Dez. 2018 ([AS 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16))
+[^t-62]: BB vom 10. Dez. 2019 ([AS 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766))
+[^t-63]: BB vom 12. Dez. 2016 ([AS 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848))
+[^t-64]: BB vom 10. Dez. 2019 ([AS 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35))
+[^t-65]: BB vom 10. Dez 2019 ([AS 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37))
+[^t-66]: BB vom 13. Dez. 2018 ([AS 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17))
+[^t-67]: BB vom 10. Dez. 2019 ([AS 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767))
+[^t-68]: BB vom 5. Dez. 2017 ([AS 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871))
+[^t-69]: BB vom 5. Dez. 2017 ([AS 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872))
+[^t-70]: BB vom 5. Dez. 2017 ([AS 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873))
+[^t-71]: BB vom 5. Dez. 2017 ([AS 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874))
+[^t-72]: BB vom 10. Dez 2019 ([AS 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38))
+[^t-73]: BB vom 5. Dez. 2017 ([AS 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875))
+[^t-74]: BB vom 6. Dez. 2017 ([AS 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876))
+[^t-75]: BB vom 5. Dez. 2017 ([AS 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877))
+[^t-76]: BB vom 13. Dez. 2018 ([AS 2024 18](https://fedlex.data.admin.ch/eli/oc/2024/18))
+[^t-77]: BB vom 10. Dez. 2019 ([AS 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106))
+[^t-78]: BB vom 5. Dez. 2017 ([AS 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878))
+[^t-79]: BB vom 8. Dez. 2022 ([AS 2024 19](https://fedlex.data.admin.ch/eli/oc/2024/19))
+[^t-80]: BB vom 3. März 2020 ([AS 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768))
+[^t-81]: BB vom 5. Dez. 2017 ([AS 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879))
+[^t-82]: BB vom 5. Dez. 2017 ([AS 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880))
+[^t-83]: BB vom 10. Dez 2019 ([AS 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39))
+[^t-84]: BB vom 5. Dez. 2017 ([AS 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881))
