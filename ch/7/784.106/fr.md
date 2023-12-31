@@ -4,11 +4,11 @@ title: Ordonnance du 18 novembre 2020 sur les redevances et émoluments dans le 
 short: OREDT
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1028"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/fr"
 
 (OREDT)
 
-du 18 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -232,16 +232,11 @@ Le coefficient de territoire pour les concessions nationales est de 42 000. Pour
 
 #### Art. 11
 
-**Radiocommunications fixes par satellite**
+**Stations terrestres de communication par satellite: Principe[^11-1]**
 
-<sup>1</sup>
+<sup>1</sup> …[^11-2]
 
-Sont réputées liaisons fixes par satellite:
-
-- a. la liaison menant, sur la même fréquence, d’une station spatiale vers une ou plusieurs stations terriennes;
-- b. la liaison menant, sur la même fréquence, d’une ou plusieurs stations terriennes vers une station spatiale.
-
-<sup>2</sup> La redevance annuelle de concession de radiocommunication pour une liaison fixe par satellite se calcule en multipliant le prix de base pour les fréquences par le coefficient de gamme de fréquences, le coefficient de largeur de bande et le coefficient de territoire.
+<sup>2</sup> La redevance annuelle de concession de radiocommunication pour une station terrestre de communication par satellite se calcule en multipliant le prix de base pour les fréquences par le coefficient de gamme de fréquences, le coefficient de largeur de bande et le coefficient de territoire.[^11-3]
 
 <sup>3</sup> Le prix de base pour les fréquences s’élève à 2 francs.
 
@@ -255,7 +250,7 @@ Sont réputées liaisons fixes par satellite:
 <tr><td>30 GHz et plus</td><td>0,25</td></tr>
 </table>
 
-<sup>5</sup> Le coefficient de largeur de bande se calcule en divisant la largeur de bande attribuée par 25 kHz. Pour les installations à plusieurs canaux, la largeur de bande correspond à la somme des largeurs de bande des différents canaux.
+<sup>5</sup> Le coefficient de largeur de bande se calcule en divisant la largeur de bande attribuée par 1 MHz. Pour les installations à plusieurs canaux, la largeur de bande correspond à la somme des largeurs de bande des différents canaux.[^11-4]
 
 <sup>6</sup> Le coefficient de territoire se détermine comme suit:
 
@@ -266,11 +261,47 @@ Sont réputées liaisons fixes par satellite:
 <tr><td>Orbite non géostationnaire</td><td>1,0</td></tr>
 </table>
 
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-2]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+
+#### Art. 11a
+
+**Stations terrestres de communication par satellite: reportages par radiocommunication**[^11a-1]
+
+<sup>1</sup> La redevance annuelle de concession de radiocommunication pour une station terrestre de communication par satellite destinée aux reportages par radiocommunication (*Satellite News Gathering*) se calcule en multipliant le prix de base pour les fréquences par le coefficient de gamme de fréquences, le coefficient de largeur de bande et le coefficient de territoire.
+
+<sup>2</sup> Le prix de base pour les fréquences s’élève à 1 franc.
+
+<sup>3</sup> Le coefficient de gamme de fréquences se détermine comme suit:
+
+<table>
+<tr><th>Gamme de fréquences</th><th>Coefficient</th></tr>
+<tr><td>3 à moins de 10 GHz</td><td>1,5</td></tr>
+<tr><td>10 à moins de 20 GHz</td><td>3,0</td></tr>
+<tr><td>20 à moins de 30 GHz</td><td>1,0</td></tr>
+<tr><td>30 GHz et plus</td><td>0,25</td></tr>
+</table>
+
+<sup>4</sup> Le coefficient de largeur de bande se calcule en divisant la largeur de bande attribuée par 1 MHz. Pour les installations à plusieurs canaux, la largeur de bande correspond à la somme des largeurs de bande des différents canaux.
+
+<sup>5</sup> Le coefficient de territoire se détermine comme suit:
+
+<table>
+<tr><th>Orbite</th><th>Coefficient</th></tr>
+<tr><td>Orbite géostationnaire</td><td>0,05</td></tr>
+<tr><td>Orbite géostationnaire virtuelle</td><td>0,1</td></tr>
+<tr><td>Orbite non géostationnaire</td><td>1,0</td></tr>
+</table>
+
+[^11a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+
 #### Art. 12
 
-**Radiocommunications mobiles par satellite**
+**Réseaux de communication par satellite[^12-1]**
 
-<sup>1</sup> La redevance annuelle de concession de radiocommunication pour les radiocommunications mobiles par satellite se calcule en multipliant le prix de base pour les fréquences par le coefficient de gamme de fréquences, le coefficient de largeur de bande et le coefficient de classe de fréquences.
+<sup>1</sup> La redevance annuelle de concession de radiocommunication pour les réseaux de communication par satellite se calcule en multipliant le prix de base pour les fréquences par le coefficient de gamme de fréquences, le coefficient largeur de bande et le coefficient de classe de fréquences.[^12-2]
 
 <sup>2</sup> Le prix de base pour les fréquences s’élève à 15 francs.
 
@@ -285,7 +316,7 @@ Sont réputées liaisons fixes par satellite:
 <tr><td>40 GHz et plus</td><td>1,0</td></tr>
 </table>
 
-<sup>4</sup> Le coefficient de largeur de bande se calcule en divisant la largeur de bande attribuée par 25 kHz.
+<sup>4</sup> Le coefficient de largeur de bande se calcule en divisant la largeur de bande attribuée par 1 MHz.[^12-3]
 
 <sup>5</sup>
 
@@ -293,6 +324,10 @@ Le coefficient de classe de fréquences se détermine comme suit:
 
 - a. lorsque la largeur de bande est attribuée à un seul réseau de satellites, le coefficient est de 1;
 - b. lorsque la largeur de bande est attribuée à plusieurs réseaux de satellites ou qu’elle est utilisée conjointement avec des fonctions de radiocommunication terrestres, le coefficient est de 0,2.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 13
 
@@ -326,9 +361,11 @@ Le coefficient de classe de fréquences se détermine comme suit:
 <tr><td>avec 1 à 10 appareils</td><td>0,2</td></tr>
 </table>
 
-<sup>6</sup> La redevance annuelle de concession de radiocommunication pour les radiocommunications mobiles terrestres de la classe de fréquences B s’élève à 48 francs.
+<sup>6</sup> La redevance annuelle de concession de radiocommunication pour la radiocommunication mobile terrestre de la classe de fréquences B s’élève à 48 francs par tranche entamée de 1 MHz de largeur de bande attribuée.[^13-1]
 
 <sup>7</sup> La redevance de concession de radiocommunication pour les caméras sans fil utilisées comme installations auxiliaires à la radiodiffusion pour l’information par voie électronique est régie par l’art. 9, al. 2 à 6.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 14
 
@@ -438,9 +475,13 @@ S’agissant de raccordements sans fil à large bande, l’émolument pour la ge
 
 #### Art. 23
 
-**Radiocommunications par satellite**
+**Radiocommunications par satellite**[^23-1]
 
-S’agissant de radiocommunications par satellite, l’émolument pour la gestion et le contrôle technique du spectre des fréquences et de la position orbitale des satellites s’élève à 36 francs par année et par largeur de bande de 100 kHz, mais au minimum à 300 francs et au maximum à 50 000 francs.
+<sup>1</sup> S’agissant de radiocommunications par satellite, l’émolument pour la gestion et le contrôle technique du spectre des fréquences et de la position orbitale des satellites s’élève à 36 francs par année et par largeur de bande de 4 MHz attribuée, et à 36 francs par largeur de bande de 10 MHz attribuée pour les stations terrestres de communication par satellite destinées aux reportages par radiocommunication.
+
+<sup>2</sup> L’émolument s’élève au minimum à 300 francs et au maximum à 50 000 francs.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 24
 
@@ -557,11 +598,12 @@ S’agissant de présentations d’installations de radiocommunication, l’émo
 
 #### Art. 35
 
-**Installations de télécommunication perturbatrices, systèmes de localisation et de surveillance**
+**Démonstrations, tests et réparations d’installations de radiocommunication exploitées pour assurer la sécurité publique par des opérateurs économiques**[^35-1]
 
-<sup>1</sup> S’agissant d’installations de télécommunication perturbatrices ainsi que de systèmes de localisation et de surveillance, l’art. 24 s’applique par analogie.
+Pour les démonstrations, tests et réparations selon l’art. 59*a* OUS[^35-2], l’émolument pour la gestion et le contrôle technique du spectre des fréquences s’élève à 312 francs par autorisation.
 
-<sup>2</sup> La largeur de bande maximale facturée par autorisation est de 50 kHz.
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^35-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 36
 
@@ -727,7 +769,10 @@ Un émolument annuel de 90 francs, TVA non comprise, est facturé au registraire
 
 <sup>3</sup> Des suppléments aux émoluments perçus en vertu de l’al. 2 sont calculés en fonction du temps consacré, TVA non comprise, lorsque l’établissement ou le renouvellement d’un mandat de nommage engendre une charge excessive.
 
+<sup>4</sup> Lorsqu’un mandat de nommage est résilié conformément à l’art. 56, al. 8<sup>bis</sup>, ODI, l’OFCOM perçoit un émolument calculé en fonction du temps consacré, TVA non comprise.[^48-2]
+
 [^48-1]: [RS 784.104.2](https://fedlex.data.admin.ch/eli/cc/2014/701)
+[^48-2]: Introduit par le ch. II de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 49
 

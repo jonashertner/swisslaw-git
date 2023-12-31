@@ -4,11 +4,11 @@ title: Ordinanza del 18 novembre 2020 sulle tasse nel settore delle telecomunica
 short: OTST
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1028"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/it"
 
 (OTST)
 
-del 18 novembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 18 novembre 2020 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -232,16 +232,11 @@ Il coefficiente di territorio per le concessioni nazionali è 42 000. Per le con
 
 #### Art. 11
 
-**Collegamenti fissi via satellite**
+**Stazioni satellitari di terra: principio[^11-1]**
 
-<sup>1</sup>
+<sup>1</sup> *...* [^11-2]
 
-Sono considerati collegamenti fissi via satellite:
-
-- a. il collegamento da una stazione spaziale verso una o più stazioni di terra sulla stessa frequenza;
-- b. il collegamento da una o più stazioni di terra verso una stazione spaziale sulla stessa frequenza.
-
-<sup>2</sup> La tassa di concessione annuale per un collegamento fisso via satellite è calcolata moltiplicando il prezzo di base della frequenza per il coefficiente di gamma delle frequenze, il coefficiente di larghezza di banda e il coefficiente di territorio.
+<sup>2</sup> La tassa di concessione annuale per una stazione satellitare di terra è calcolata moltiplicando il prezzo di base della frequenza per il coefficiente di gamma delle frequenze, il coefficiente di larghezza di banda e il coefficiente di territorio.[^11-3]
 
 <sup>3</sup> Il prezzo di base della frequenza ammonta a 2 franchi.
 
@@ -255,7 +250,7 @@ Sono considerati collegamenti fissi via satellite:
 <tr><td>30 GHz e oltre</td><td>0,25</td></tr>
 </table>
 
-<sup>5</sup> Il coefficiente di larghezza di banda è calcolato dividendo la larghezza di banda attribuita per 25 kHz. Per gli impianti multicanale la larghezza di banda risulta dalla somma delle larghezze di banda dei singoli canali.
+<sup>5</sup> Il coefficiente di larghezza di banda è calcolato dividendo la larghezza di banda attribuita per 1 MHz. Per gli impianti multicanale la larghezza di banda risulta dalla somma delle larghezze di banda dei singoli canali.[^11-4]
 
 <sup>6</sup> Il coefficiente di territorio è determinato come segue:
 
@@ -266,11 +261,47 @@ Sono considerati collegamenti fissi via satellite:
 <tr><td>Non-GSO</td><td>1,0</td></tr>
 </table>
 
+[^11-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-2]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+
+#### Art. 11a
+
+**Stazioni satellitari di terra: radiocomunicazioni a fini di reportage**[^11a-1]
+
+<sup>1</sup> La tassa di concessione annuale per stazioni satellitari di terra per radiocomunicazioni a fini di reportage (*Satellite News Gathering*) è calcolata moltiplicando il prezzo di base della frequenza per il coefficiente di gamma delle frequenze, il coefficiente di larghezza di banda e il coefficiente di territorio.
+
+<sup>2</sup> Il prezzo di base della frequenza ammonta a 1 franco.
+
+<sup>3</sup> Il coefficiente di gamma delle frequenze è determinato come segue:
+
+<table>
+<tr><th>Gamma delle frequenze</th><th>Coefficiente</th></tr>
+<tr><td>da 3 fino a meno di 10 GHz</td><td>1,5</td></tr>
+<tr><td>da 10 fino a meno di 20 GHz</td><td>3,0</td></tr>
+<tr><td>da 20 fino a meno di 30 GHz</td><td>1,0</td></tr>
+<tr><td>30 GHz e oltre</td><td>0,25</td></tr>
+</table>
+
+<sup>4</sup> Il coefficiente di larghezza di banda è calcolato dividendo la larghezza di banda attribuita per 1 MHz. Per gli impianti multicanale la larghezza di banda risulta dalla somma delle larghezze di banda dei singoli canali.
+
+<sup>5</sup> Il coefficiente di territorio è determinato come segue:
+
+<table>
+<tr><th>Orbita</th><th>Coefficiente</th></tr>
+<tr><td>GSO (Geostationary Orbit)</td><td>0,05</td></tr>
+<tr><td>Virtual GSO</td><td>0,1</td></tr>
+<tr><td>Non-GSO</td><td>1,0</td></tr>
+</table>
+
+[^11a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+
 #### Art 12
 
-**Collegamenti mobili via satellite**
+**Reti di stazioni terrestri per collegamenti via satellite[^12-1]**
 
-<sup>1</sup> La tassa di concessione annuale per collegamenti mobili via satellite è calcolata moltiplicando il prezzo di base della frequenza per il coefficiente di gamma delle frequenze, il coefficiente di larghezza di banda e il coefficiente di classe delle frequenze.
+<sup>1</sup> La tassa di concessione annuale per reti di stazioni terrestri per collegamenti via satellite è calcolata moltiplicando il prezzo di base della frequenza per il coefficiente di gamma delle frequenze, il coefficiente di larghezza di banda e il coefficiente di classe delle frequenze.[^12-2]
 
 <sup>2</sup> Il prezzo di base della frequenza ammonta a 15 franchi.
 
@@ -285,7 +316,7 @@ Sono considerati collegamenti fissi via satellite:
 <tr><td>da 40 GHz e oltre</td><td>1,0</td></tr>
 </table>
 
-<sup>4</sup> Il coefficiente di larghezza di banda è calcolato dividendo la larghezza di banda attribuita per 25 kHz.
+<sup>4</sup> Il coefficiente di larghezza di banda è calcolato dividendo la larghezza di banda attribuita per 1 MHz.[^12-3]
 
 <sup>5</sup>
 
@@ -293,6 +324,10 @@ Il coefficiente di classe delle frequenze è determinato come segue:
 
 - a. se la larghezza di banda è attribuita a un’unica rete satellitare, si applica il coefficiente 1;
 - b. se la larghezza di banda è attribuita a più reti satellitari o se è utilizzata con funzioni di radiocomunicazione terrestre, si applica il coefficiente 0,2.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^12-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 13
 
@@ -326,9 +361,11 @@ Il coefficiente di classe delle frequenze è determinato come segue:
 <tr><td>da 1 a 10 apparecchi</td><td>0,2</td></tr>
 </table>
 
-<sup>6</sup> La tassa di concessione annuale per le radiocomunicazioni mobili terrestri della classe di frequenze B ammonta a 48 franchi.
+<sup>6</sup> La tassa di concessione annuale per le radiocomunicazioni mobili terrestri della classe di frequenze B ammonta a 48 franchi per larghezza di banda attribuita di 1 MHz o parte di essa.[^13-1]
 
 <sup>7</sup> La tassa di concessione per le radiocomunicazioni mediante telecamere senza filo utilizzate come impianti accessori per la radiodiffusione finalizzata al giornalismo elettronico è disciplinata dall’articolo 9 capoversi 2–6.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 14
 
@@ -438,9 +475,13 @@ La tassa amministrativa annuale per la gestione e il controllo tecnico dello spe
 
 #### Art. 23
 
-**Radiocomunicazioni via satellite**
+**Radiocomunicazioni via satellite**[^23-1]
 
-La tassa amministrativa annuale per la gestione e il controllo tecnico dello spettro delle frequenze e delle posizioni orbitali dei satelliti utilizzati per le radiocomunicazioni via satellite ammonta a 36 franchi per ogni larghezza di banda di 100 kHz attribuita, ma in ogni caso a un minimo di 300 franchi e a un massimo di 50 000 franchi.
+<sup>1</sup> La tassa amministrativa annuale per la gestione e il controllo tecnico dello spettro delle frequenze e delle posizioni orbitali dei satelliti utilizzati per le radiocomunicazioni via satellite ammonta a 36 franchi per ogni larghezza di banda di 4 MHz attribuita, e nel caso di stazioni satellitari di terra per radiocomunicazioni a fini di reportage ammonta a 36 franchi per ogni larghezza di banda di 10 MHz attribuita.
+
+<sup>2</sup> La tassa amministrativa ammonta a un minimo di 300 franchi e a un massimo di 50 000 franchi.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 24
 
@@ -557,11 +598,12 @@ Per le dimostrazioni d’impianti di radiocomunicazione, la tassa amministrativa
 
 #### Art. 35
 
-**Sistemi di localizzazione e di sorveglianza nonché impianti di telecomunicazione che provocano interferenze**
+**Dimostrazioni, test e riparazioni di impianti di radiocomunicazione impiegati da operatori economici per garantire la sicurezza pubblica**[^35-1]
 
-<sup>1</sup> Per i sistemi di localizzazione e di sorveglianza e per gli impianti di telecomunicazione che provocano interferenze l’articolo 24 si applica per analogia.
+In caso di dimostrazioni, test e riparazioni secondo l’articolo 59*a* OUS[^35-2] la tassa amministrativa per la gestione e il controllo tecnico dello spettro delle frequenze ammonta a 312 franchi per ogni autorizzazione.
 
-<sup>2</sup> Viene fatturata al massimo una larghezza di banda di 50 kHz per ogni autorizzazione.
+[^35-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^35-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 36
 
@@ -727,7 +769,10 @@ Una tassa annuale di 90 franchi, IVA esclusa, è fatturata al centro di registra
 
 <sup>3</sup> Se la preparazione o il rinnovo di un mandato di nominazione comporta un onere eccessivo, oltre alle tasse amministrative riscosse in virtù del capoverso 2 sono calcolati supplementi in funzione del tempo impiegato, IVA esclusa.
 
+<sup>3</sup> Se un mandato di nominazione viene disdetto conformemente all’articolo 56 capoverso 8<sup>bis</sup> ODIn, l’UFCOM riscuote una tassa calcolata in funzione del tempo impiegato, IVA esclusa.[^48-2]
+
 [^48-1]: [RS 784.104.2](https://fedlex.data.admin.ch/eli/cc/2014/701)
+[^48-2]: Introdotto dal n. II dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2024 365](https://fedlex.data.admin.ch/eli/oc/2024/365)).
 
 #### Art. 49
 

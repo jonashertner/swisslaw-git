@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2020 über die Gebühren im Fernmeldebereich
 short: GebV-FMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1028"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/de"
 
 (Fernmeldegebührenverordnung, GebV-FMG)
 
-vom 18. November 2020 (Stand am 1. Januar 2022)
+vom 18. November 2020 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -232,16 +232,11 @@ Der Raumfaktor beträgt für nationale Konzessionen 42 000. Für regionale Konze
 
 #### Art. 11
 
-**Fester Satellitenfunk**
+**Satellitenerdfunkstellen: Grundsatz[^11-1]**
 
-<sup>1</sup>
+<sup>1</sup> …[^11-2]
 
-Als feste Satellitenfunkverbindung gilt:
-
-- a. die Verbindung von einer Weltraumfunkstelle zu einer oder mehreren Erdfunkstellen auf derselben Frequenz;
-- b. die Verbindung von einer oder mehreren Erdfunkstellen zu einer Weltraumfunkstelle auf derselben Frequenz.
-
-<sup>2</sup> Die jährliche Funkkonzessionsgebühr für eine feste Satellitenfunkverbindung wird berechnet, indem der Frequenzgrundpreis mit dem Frequenzbereichsfaktor, dem Bandbreitefaktor und dem Raumfaktor multipliziert wird.
+<sup>2</sup> Die jährliche Funkkonzessionsgebühr für eine Satellitenerdfunkstelle wird berechnet, indem der Frequenzgrundpreis mit dem Frequenzbereichsfaktor, dem Bandbreitefaktor und dem Raumfaktor multipliziert wird.[^11-3]
 
 <sup>3</sup> Der Frequenzgrundpreis beträgt 2 Franken.
 
@@ -255,7 +250,7 @@ Als feste Satellitenfunkverbindung gilt:
 <tr><td>30 GHz und mehr</td><td>0,25</td></tr>
 </table>
 
-<sup>5</sup> Der Bandbreitefaktor wird berechnet, indem die zugeteilte Bandbreite durch 25 kHz geteilt wird. Bei Mehrkanalanlagen gilt die Summe der Bandbreiten der einzelnen Kanäle als Bandbreite.
+<sup>5</sup> Der Bandbreitefaktor wird berechnet, indem die zugeteilte Bandbreite durch 1 MHz geteilt wird. Bei Mehrkanalanlagen gilt die Summe der Bandbreiten der einzelnen Kanäle als Bandbreite.[^11-4]
 
 <sup>6</sup> Der Raumfaktor ist wie folgt bestimmt:
 
@@ -266,11 +261,47 @@ Als feste Satellitenfunkverbindung gilt:
 <tr><td>Nicht geostationäre Umlaufbahn</td><td>1,0</td></tr>
 </table>
 
+[^11-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-2]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^11-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+
+#### Art. 11a
+
+**Satellitenerdfunkstellen: Reportagefunk**[^11a-1]
+
+<sup>1</sup> Die jährliche Funkkonzessionsgebühr für eine Satellitenerdfunkstelle für den Reportagefunk (*Satellite News Gathering*) wird berechnet, indem der Frequenzgrundpreis mit dem Frequenzbereichsfaktor, dem Bandbreitefaktor und dem Raumfaktor multipliziert wird.
+
+<sup>2</sup> Der Frequenzgrundpreis beträgt 1 Franken.
+
+<sup>3</sup> Der Frequenzbereichsfaktor ist wie folgt bestimmt:
+
+<table>
+<tr><th>Frequenzbereich</th><th>Faktor</th></tr>
+<tr><td>3 bis weniger als 10 GHz</td><td>1,5</td></tr>
+<tr><td>10 bis weniger als 20 GHz</td><td>3,0</td></tr>
+<tr><td>20 bis weniger als 30 GHz</td><td>1,0</td></tr>
+<tr><td>30 GHz und mehr</td><td>0,25</td></tr>
+</table>
+
+<sup>4</sup> Der Bandbreitefaktor wird berechnet, indem die zugeteilte Bandbreite durch 1 MHz geteilt wird. Bei Mehrkanalanlagen gilt die Summe der Bandbreiten der einzelnen Kanäle als Bandbreite.
+
+<sup>5</sup> Der Raumfaktor ist wie folgt bestimmt:
+
+<table>
+<tr><th>Umlaufbahn</th><th>Faktor</th></tr>
+<tr><td>Geostationäre Umlaufbahn</td><td>0,05</td></tr>
+<tr><td>Virtuelle geostationäre Umlaufbahn</td><td>0,1</td></tr>
+<tr><td>Nicht geostationäre Umlaufbahn</td><td>1,0</td></tr>
+</table>
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+
 #### Art. 12
 
-**Mobiler Satellitenfunk**
+**Satellitenfunknetze[^12-1]**
 
-<sup>1</sup> Die jährliche Funkkonzessionsgebühr für den mobilen Satellitenfunk wird berechnet, indem der Frequenzgrundpreis mit dem Frequenzbereichsfaktor, dem Bandbreitefaktor und dem Frequenzklassenfaktor multipliziert wird.
+<sup>1</sup> Die jährliche Funkkonzessionsgebühr für Satellitenfunknetze wird berechnet, indem der Frequenzgrundpreis mit dem Frequenzbereichsfaktor, dem Bandbreitefaktor und dem Frequenzklassenfaktor multipliziert wird.[^12-2]
 
 <sup>2</sup> Der Frequenzgrundpreis beträgt 15 Franken.
 
@@ -285,7 +316,7 @@ Als feste Satellitenfunkverbindung gilt:
 <tr><td>40 GHz und mehr</td><td>1,0</td></tr>
 </table>
 
-<sup>4</sup> Der Bandbreitefaktor wird berechnet, indem die zugeteilte Bandbreite durch 25 kHz geteilt wird.
+<sup>4</sup> Der Bandbreitefaktor wird berechnet, indem die zugeteilte Bandbreite durch 1 MHz geteilt wird.[^12-3]
 
 <sup>5</sup>
 
@@ -293,6 +324,10 @@ Der Frequenzklassenfaktor ist wie folgt bestimmt:
 
 - a. Ist die Bandbreite einem einzigen Satellitennetz zugeteilt, so beträgt der Faktor 1.
 - b. Ist die Bandbreite mehreren Satellitennetzen zugeteilt oder wird sie zusammen mit terrestrischen Funknutzungen genutzt, so beträgt der Faktor 0,2.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 13
 
@@ -326,9 +361,11 @@ Der Frequenzklassenfaktor ist wie folgt bestimmt:
 <tr><td>mit 1–10 Geräten</td><td>0,2</td></tr>
 </table>
 
-<sup>6</sup> Die Funkkonzessionsgebühr für den mobilen Landfunk der Frequenzklasse B beträgt jährlich 48 Franken.
+<sup>6</sup> Die Funkkonzessionsgebühr für den mobilen Landfunk der Frequenzklasse B beträgt jährlich 48 Franken pro angefangene zugeteilte Bandbreite von 1 MHz.[^13-1]
 
 <sup>7</sup> Die Funkkonzessionsgebühr für drahtlose Kameras, die als Zusatzanlagen für den Rundfunk zur elektronischen Berichterstattung verwendet werden, richtet sich nach Artikel 9 Absätze 2–6.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 14
 
@@ -438,9 +475,13 @@ Bei drahtlosen Breitbandanschlüssen beträgt die Gebühr für die Verwaltung un
 
 #### Art. 23
 
-**Satellitenfunk**
+**Satellitenfunk**[^23-1]
 
-Beim Satellitenfunk beträgt die Gebühr für die Verwaltung und technische Kontrolle des Frequenzspektrums und der Orbitalpositionen von Satelliten jährlich 36 Franken pro zugeteilte Bandbreite von 100 kHz, mindestens aber 300 Franken und höchstens 50 000 Franken.
+<sup>1</sup> Beim Satellitenfunk beträgt die Gebühr für die Verwaltung und technische Kontrolle des Frequenzspektrums und der Orbitalpositionen von Satelliten jährlich 36 Franken pro zugeteilte Bandbreite von 4 MHz, bei Satellitenerdfunkstellen für den Reportagefunk 36 Franken pro zugeteilte Bandbreite von 10 MHz.
+
+<sup>2</sup> Die Gebühr beträgt mindestens 300 Franken und höchstens 50 000 Franken.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
 
 #### Art. 24
 
@@ -557,11 +598,12 @@ Bei Vorführungen von Funkanlagen beträgt die Gebühr für die Verwaltung und t
 
 #### Art. 35
 
-**Störende Fernmeldeanlagen sowie Ortungs- und Überwachungssysteme**
+**Vorführungen, Tests und Reparaturen von Funkanlagen zur Wahrung der öffentlichen Sicherheit durch Wirtschaftsakteurinnen**[^35-1]
 
-<sup>1</sup> Für störende Fernmeldeanlagen sowie Ortungs- und Überwachungssysteme gilt Artikel 24 sinngemäss.
+Bei Vorführungen, Tests und Reparaturen nach Artikel 59*a* VNF[^35-2] beträgt die Gebühr für die Verwaltung und technische Kontrolle des Frequenzspektrums 312 Franken pro Bewilligung.
 
-<sup>2</sup> Es wird maximal eine Bandbreite von 50 kHz pro Bewilligung verrechnet.
+[^35-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 723](https://fedlex.data.admin.ch/eli/oc/2023/723)).
+[^35-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 36
 
@@ -727,7 +769,10 @@ Dem Registrar von Domain-Namen mit der Endung «.swiss» wird jährlich eine Ver
 
 <sup>3</sup> Führt die Erstellung oder Erneuerung eines Namenszuteilungsmandats zu einem übermässigen Aufwand, so werden zusätzlich zu den nach Absatz 2 erhobenen Verwaltungsgebühren Zuschläge nach Zeitaufwand berechnet, ohne Mehrwertsteuer.
 
+<sup>4</sup> Wird nach Artikel 56 Absatz 8<sup>bis</sup> VID ein Namenszuteilungsmandat aufgelöst, so erhebt das BAKOM eine Gebühr, die nach Zeitaufwand berechnet wird, ohne Mehrwertsteuer.[^48-2]
+
 [^48-1]: [SR 784.104.2](https://fedlex.data.admin.ch/eli/cc/2014/701)
+[^48-2]: Eingefügt durch Ziff. II der V vom 28. Jun. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 49
 
