@@ -3,20 +3,19 @@ canton: BL
 number: "640.221"
 title: Reglement über Aufnahmen und Übertritte
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-02-16
+version: 2024-01-01
+version_adopted: 2023-09-19
 adopted: 2021-03-05
 in_force: 2021-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.221"
-pdf: "https://bl.clex.ch/api/de/versions/3533/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3739/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über Aufnahmen und Übertritte
 
-Vom 05.03.2021 (Stand 01.01.2023)
+Vom 05.03.2021 (Stand 01.01.2024)
 
 Die Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH),
 
@@ -65,8 +64,8 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Die Aufnahme in die BM 2 erfolgt prüfungsfrei, wenn eine der folgenden Bedingungen erfüllt ist:
 
 - a. Am Schluss der obligatorischen Schulzeit wurden die Bedingungen für den prüfungsfreien Übertritt in die BMS erfüllt. Es gelten die Übertrittsbedingungen der jeweiligen Kantone.
-- b. Das Eidgenössische Fähigkeitszeugnis (EFZ) Kauffrau oder Kaufmann E-Profil weist eine Gesamtnote (schulischer und betrieblicher Teil) von mindestens 5.0 aus.
-- c. Das EFZ eines anderen Berufs weist eine Gesamtnote (schulischer und betrieblicher Teil) von mindestens 5.3 aus.
+- b. Das Eidgenössische Fähigkeitszeugnis (EFZ) Kauffrau oder Kaufmann E-Profil weist eine Gesamtnote (schulischer und betrieblicher Teil) von mindestens 4.7 aus.
+- c. Das EFZ eines anderen Berufs weist eine Gesamtnote (schulischer und betrieblicher Teil) von mindestens 5.0 aus.
 
 <sup>3</sup> Gelernte Berufsleute EFZ, welche die Bedingungen für eine prüfungsfreie Aufnahme gemäss Abs. 2 nicht erfüllen, legen in den Fächern Deutsch und Mathematik eine Prüfung ab.
 
