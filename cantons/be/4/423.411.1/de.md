@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Kantonale Kulturförderungsverordnung
 short: KKFV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-22
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2847/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2957/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2847/pdf_file"
 
 (KKFV)
 
-vom 13.11.2013 (Stand 01.01.2023)
+vom 13.11.2013 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -623,6 +623,14 @@ beschliesst:
 
 <sup>3</sup> Lastenverschiebungen zwischen Kanton und Gemeinden aufgrund dieser Änderung werden ab dem Zeitpunkt ihres Eintretens dem Lastenausgleich nach Artikel 29b FILAG angerechnet.
 
+## T4 Übergangsbestimmung der Änderung vom 22.11.2023
+
+#### Art. T4-1
+
+<sup>1</sup> Die Betriebsbeiträge an die Kulturinstitutionen nach Artikel A1-2 Absatz 2 Buchstabe f und nach Artikel A1-5 Absatz 5 Buchstabe g werden ab dem 1. Januar 2025 nach den Bestimmungen dieser Änderung ausgerichtet.
+
+<sup>2</sup> Lastenverschiebungen zwischen Kanton und Gemeinden aufgrund der zusätzlichen Kulturinstitutionen nach Absatz 1 werden ab dem Zeitpunkt ihres Eintretens dem Lastenausgleich nach Artikel 29b FILAG angerechnet.
+
 ## A1 Anhang 1: zu Artikel 10
 
 #### Art. A1-1
@@ -687,7 +695,8 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - b Stadttheater Langenthal (Standortgemeinde Langenthal),
 - c Bibliothek Oberaargau (Standortgemeinde Herzogenbuchsee, Huttwil, Langenthal),
 - d Kunsthaus Langenthal (Standortgemeinde Langenthal),
-- e Kulturzentrum Chrämerhuus (Standortgemeinde Langenthal).
+- e Kulturzentrum Chrämerhuus (Standortgemeinde Langenthal),
+- f KreuzKellerBühne (Standortgemeinde Herzogenbuchsee).
 
 #### Art. A1-3
 
@@ -724,8 +733,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - i Kornhausforum (Standortgemeinde Bern),
 - k Kulturhof Schloss Köniz (Standortgemeinde Köniz),
 - l La Cappella (Standortgemeinde Bern),
-- m Mühle Hunziken (Standortgemeinde Rubigen),
-- n …
+- m–n …
 - o Swiss Jazz Orchestra (Standortgemeinde Bern),
 - p Museum Schloss Jegenstorf (Standortgemeinde Jegenstorf),
 - q Bären Buchsi (Standortgemeinde Münchenbuchsee),
@@ -741,7 +749,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 <sup>2</sup> Zur Teilregion Thun gehören folgende Gemeinden:
 
-Amsoldingen, Blumenstein, Buchholterberg, Burgistein, Eriz, Fahrni, Forst-Längenbühl, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Oberhofen am Thunersee, Oberlangenegg, Pohlern, Reutigen, Seftigen, Sigriswil, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil, Zwieselberg.
+Amsoldingen, Blumenstein, Buchholterberg, Burgistein, Eriz, Fahrni, Forst-Längenbühl, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Oberhofen am Thunersee, Oberlangenegg, Pohlern, Reutigen, Seftigen, Sigriswil, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil.
 
 <sup>3</sup> Zur Teilregion Frutigen-Niedersimmental gehören folgende Gemeinden:
 
@@ -755,10 +763,11 @@ Boltigen, Gsteig, Lauenen, Lenk, Saanen, St. Stephan, Zweisimmen.
 
 - a Kunstmuseum Thun und Thun-Panorama (Standortgemeinde Thun),
 - b Stadtbibliothek Thun (Standortgemeinde Thun),
-- c Gastspieltheater der Kunstgesellschaft Thun (Standortgemeinde Thun),
+- c Theater in Thun (Standortgemeinde Thun),
 - d Museumsschloss Thun (Standortgemeinde Thun),
 - e Schlosskonzerte Thun (Standortgemeinde Thun),
-- f Museum Schloss Oberhofen (Standortgemeinde Oberhofen).
+- f Museum Schloss Oberhofen (Standortgemeinde Oberhofen),
+- g Bachwochen Thun (Standortgemeinde Thun).
 
 <sup>6</sup> Folgende Kulturinstitutionen werden in der Teilregion Frutigen-Niedersimmental unterstützt:
 
@@ -784,7 +793,7 @@ Boltigen, Gsteig, Lauenen, Lenk, Saanen, St. Stephan, Zweisimmen.
 - a Kunsthaus Interlaken (Standortgemeinde Interlaken, Matten, Unterseen),
 - b Interlaken Classics (Standortgemeinde Interlaken, Matten, Unterseen),
 - c Musikfestwoche Meiringen (Standortgemeinde Meiringen),
-- d Stiftung Holzbildhauerei Brienz (Standortgemeinde Brienz),
+- d Schweizer Holzbildhauerei Stiftung Brienz (Standortgemeinde Brienz),
 - e Bödeli Bibliothek Interlaken (Standortgemeinde Interlaken, Matten, Unterseen).
 
 Bern, 13. November 2013

@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Ordonnance sur l’encouragement des activités culturelles
 short: OEAC
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-22
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2847/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2957/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2847/pdf_file"
 
 (OEAC)
 
-du 13.11.2013 (état au 01.01.2023)
+du 13.11.2013 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -623,6 +623,14 @@ arrête:
 
 <sup>3</sup> Les transferts de charges entre le canton et les communes résultant de la présente modification sont imputés à la compensation des charges conformément à l'article 29b LPFC à partir du moment où ils interviennent.
 
+## T4 Disposition transitoire de la modification du 22.11.2023
+
+#### Art. T4-1
+
+<sup>1</sup> Les subventions d'exploitation allouées aux institutions culturelles visées à l'article A1-2, alinéa 2, lettre f et à l'article A1-5, alinéa 5, lettre g sont versées conformément aux dispositions de la présente modification à partir du 1<sup>er</sup> janvier 2025.
+
+<sup>2</sup> Les transferts de charges entre le canton et les communes qui sont dus aux institutions culturelles supplémentaires mentionnées à l'alinéa 1 sont imputés à la compensation des charges conformément à l'article 29b LPFC à partir du moment où ils interviennent.
+
 ## A1 Annexe 1: à l'article 10
 
 #### Art. A1-1
@@ -687,7 +695,8 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - b Stadttheater Langenthal (commune-siège Langenthal),
 - c Bibliothek Oberaargau (communes-sièges Herzogenbuchsee, Huttwil, Langenthal),
 - d Kunsthaus Langenthal (commune-siège Langenthal),
-- e Kulturzentrum Chrämerhuus (commune-siège Langenthal).
+- e Kulturzentrum Chrämerhuus (commune-siège Langenthal),
+- f KreuzKellerBühne (commune-siège Herzogenbuchsee).
 
 #### Art. A1-3
 
@@ -724,8 +733,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - i Kornhausforum (commune-siège Berne),
 - k Kulturhof Schloss Köniz (commune-siège Köniz),
 - l La Cappella (commune-siège Berne),
-- m Mühle Hunziken (commune-siège Rubigen),
-- n …
+- m–n …
 - o Swiss Jazz Orchestra (commune-siège Berne),
 - p Museum Schloss Jegenstorf (commune-siège Jegenstorf),
 - q Bären Buchsi (commune-siège Münchenbuchsee),
@@ -741,7 +749,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 <sup>2</sup> La sous-région Thoune se compose des communes suivantes:
 
-Amsoldingen, Blumenstein, Buchholterberg, Burgistein, Eriz, Fahrni, Forst-Längenbühl, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Oberhofen am Thunersee, Oberlangenegg, Pohlern, Reutigen, Seftigen, Sigriswil, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thoune, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil, Zwieselberg.
+Amsoldingen, Blumenstein, Buchholterberg, Burgistein, Eriz, Fahrni, Forst-Längenbühl, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Oberhofen am Thunersee, Oberlangenegg, Pohlern, Reutigen, Seftigen, Sigriswil, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thoune, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil.
 
 <sup>3</sup> La sous-région Frutigen-Bas-Simmental se compose des communes suivantes:
 
@@ -755,10 +763,11 @@ Boltigen, Gsteig, Lauenen, Lenk, Saanen, St. Stephan, Zweisimmen.
 
 - a Kunstmuseum Thun et Thun-Panorama (commune-siège Thoune),
 - b Stadtbibliothek Thun (commune-siège Thoune),
-- c Gastspieltheater der Kunstgesellschaft Thun (commune-siège Thoune),
+- c Theater in Thun (commune-siège Thoune),
 - d Museumsschloss Thun (commune-siège Thoune),
 - e Schlosskonzerte Thun (commune-siège Thoune),
-- f Museum Schloss Oberhofen (commune-siège Oberhofen).
+- f Museum Schloss Oberhofen (commune-siège Oberhofen),
+- g Bachwochen Thun (commune-siège Thoune).
 
 <sup>6</sup> Les institutions culturelles suivantes sont soutenues par les communes de la sous-région Frutigen-Bas-Simmental:
 
@@ -784,7 +793,7 @@ Boltigen, Gsteig, Lauenen, Lenk, Saanen, St. Stephan, Zweisimmen.
 - a Kunsthaus Interlaken (commune-siège Interlaken, Matten, Unterseen),
 - b Interlaken Classics (commune-siège Interlaken, Matten, Unterseen),
 - c Musikfestwoche Meiringen (commune-siège Meiringen),
-- d Stiftung Holzbildhauerei Brienz (commune-siège Brienz),
+- d Schweizer Holzbildhauerei Stiftung Brienz (commune-siège Brienz),
 - e Bödeli Bibliothek Interlaken (commune-siège Interlaken, Matten, Unterseen).
 
 Berne, le 13 novembre 2013
