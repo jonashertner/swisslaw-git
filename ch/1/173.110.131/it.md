@@ -4,11 +4,11 @@ title: Regolamento del 20 novembre 2006 del Tribunale federale (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/it"
 
 (RTF)
 
-del 20 novembre 2006 (Stato 1° luglio 2023)
+del 20 novembre 2006 (Stato 1° gennaio 2024)
 
 Il Tribunale federale,
 
@@ -598,15 +598,16 @@ La prima Corte di diritto civile tratta i ricorsi in materia civile e i ricorsi 
 - d. responsabilità dello Stato per attività medica;
 - e. diritto privato della concorrenza;
 - f. diritti immateriali;
-- g.[^33-2] arbitrato internazionale;
-- h. tenuta dei registri e decisioni sul riconoscimento e l’esecuzione di decisioni nonché sull’assistenza giudiziaria in materia civile ai sensi dell’art. 72 capoverso 2 lettera b n. 1 e 2 LTF nei campi secondo le lettere a–g.
+- g.[^33-2] arbitrato nazionale e internazionale;
+- h. tenuta dei registri e decisioni sul riconoscimento e l’esecuzione di decisioni nonché sull’assistenza giudiziaria in materia civile ai sensi dell’art. 72 capoverso 2 lettera b n. 1 e 2 LTF nei campi secondo le lettere a–g;
+- i.[^33-3] rigetto provvisorio e definitivo.
 
-<sup>2</sup> La prima Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF) e i ricorsi contro i lodi giusta l’articolo 389 del Codice di procedura civile[^33-3] (CPC).[^33-4]
+<sup>2</sup> La prima Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF).[^33-4]
 
 [^33-1]: Originario art. 31.
-[^33-2]: Introdotto dal n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^33-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^33-4]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-2]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-3]: Introdotta dal n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-4]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 34
 
@@ -628,14 +629,15 @@ La seconda Corte di diritto civile tratta i ricorsi in materia civile e i ricors
   - 4\. diritti reali;
 
 - b. diritto fondiario rurale;
-- c. esecuzione e fallimenti;
+- c.[^34-2] esecuzione e fallimenti (senza rigetto provvisorio e definitivo);
 - d. tenuta dei registri e decisioni sul riconoscimento e l’esecuzione di decisioni nonché sull’assistenza giudiziaria in materia civile ai sensi dell’art. 72 capoverso 2 lettera b LTF nei campi secondo le lettere a e c di questo capoverso.
 
-<sup>2</sup> La seconda Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF) e i ricorsi contro i lodi giusta l’articolo 389 CPC[^34-2].[^34-3]
+<sup>2</sup> La seconda Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF) e i ricorsi contro i lodi giusta l’articolo 389 CPC[^34-3].[^34-4]
 
 [^34-1]: Originario art. 32.
-[^34-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^34-3]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^34-2]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^34-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^34-4]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
 #### Art. 35
 
@@ -777,15 +779,9 @@ Per la designazione dei membri del collegio giudicante, il presidente della cort
 
 #### Art. 41
 
-**Composizione di cinque giudici della prima Corte di diritto penale**[^41-1]
+[^41-1]
 
-### (art. 13, 18 cpv. 3 e 20 cpv. 2 LTF)
-
-<sup>1</sup> Un giudice della seconda Corte di diritto penale partecipa a rotazione alle sentenze della prima Corte di diritto penale che devono essere giudicate nella composizione di cinque giudici, finché la prima Corte di diritto penale consta di soli quattro membri.
-
-<sup>2</sup> La rotazione avviene per anzianità e include tutti i membri della seconda Corte di diritto penale.
-
-[^41-1]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^41-1]: Abrogato dal n. I del R del TF del 9 ott. 2023, con effetto dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 42
 
@@ -1005,7 +1001,11 @@ La procedura di ricorso è retta dalla disposizioni della legge federale del 20 
 
 [^56-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-## Titolo 4: Informazione
+## Titolo 4: Informazione e protezione dei dati
+
+[^tit4-1]
+
+[^tit4-1]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 57
 
@@ -1107,16 +1107,37 @@ L’incaricato della comunicazione e dei contatti con i media consiglia e coadiu
 
 <sup>6</sup> Autorità di ricorso è la Commissione di ricorso del Tribunale federale. La sua decisione è definitiva.
 
-<sup>7</sup> Consulente e responsabile per l’esecuzione della legge 17 dicembre 2004 sulla trasparenza ai sensi dell’articolo 20 dell’ordinanza del 24 maggio 2006[^64-3] sulla trasparenza è la persona incaricata della protezione dei dati del Tribunale federale. È pure di sua competenza la redazione del rapporto.
+<sup>7</sup> Il consulente ai sensi dell’articolo 20 dell’ordinanza del 24 maggio 2006[^64-3] sulla trasparenza è l’incaricato della protezione dei dati del Tribunale federale. È pure di sua competenza la redazione del rapporto.[^64-4]
 
-<sup>8</sup> La riscossione degli emolumenti è retta dal regolamento del 31 marzo 2006[^64-4] sulle tasse amministrative del Tribunale federale. Nella misura in cui quest’ultima non preveda alcuna disposizione, gli emolumenti vengono fissati secondo la tariffa degli emolumenti nell’allegato 1 dell’ordinanza 24 maggio 2006 sulla trasparenza.
+<sup>8</sup> La riscossione degli emolumenti è retta dal regolamento del 31 marzo 2006[^64-5] sulle tasse amministrative del Tribunale federale. Nella misura in cui quest’ultima non preveda alcuna disposizione, gli emolumenti vengono fissati secondo la tariffa degli emolumenti nell’allegato 1 dell’ordinanza 24 maggio 2006 sulla trasparenza.
 
 <sup>9</sup> Per il resto si applica per analogia l’ordinanza 24 maggio 2006 sulla trasparenza.
 
 [^64-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 [^64-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^64-3]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^64-4]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^64-4]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^64-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+
+#### Art. 64a
+
+**Incaricato della protezione dei dati**[^64a-1]
+
+### (art. 10 LPD)
+
+<sup>1</sup> L’incaricato della protezione dei dati è il consulente per la protezione dei dati ai sensi dell’articolo 10 della legge federale del 25 settembre 2020[^64a-2] sulla protezione dei dati e dell’articolo 26 dell’ordinanza del 31 agosto 2022[^64a-3] sulla protezione dei dati.
+
+<sup>2</sup> Esercita la sua funzione in modo indipendente e senza ricevere istruzioni.
+
+<sup>3</sup> I servizi scientifici e amministrativi del Tribunale federale concedono al consulente per la protezione dei dati l’accesso a qualsiasi informazione, documento, registro delle attività di trattamento e dato personale necessario all’adempimento dei suoi compiti.
+
+<sup>4</sup> Informano il consulente per la protezione dei dati in merito a qualsiasi violazione della sicurezza dei dati.
+
+<sup>5</sup> Per il resto si applica per analogia l*’*ordinanza del 31 agosto 2022 sulla protezione dei dati.
+
+[^64a-1]: Introdotto dal n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^64a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64a-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 ## Titolo 5: Disposizioni finali
 

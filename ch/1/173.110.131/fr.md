@@ -4,11 +4,11 @@ title: Règlement du 20 novembre 2006 du Tribunal fédéral (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/fr"
 
 (RTF)
 
-du 20 novembre 2006 (État le 1<sup>er</sup> juillet 2023)
+du 20 novembre 2006 (État le 1<sup>er</sup> janvier 2024)
 
 Le Tribunal fédéral,
 
@@ -602,15 +602,16 @@ La première Cour de droit civil traite les recours en matière civile et les re
 - d. responsabilité de l’État pour les activités médicales;
 - e. droit privé de la concurrence;
 - f. propriété intellectuelle;
-- g.[^33-2] arbitrage international;
-- h. tenue des registres et décisions sur la reconnaissance et l’exécution de décisions ainsi que sur l’entraide en matière civile selon l’art. 72, al. 2, let. b, ch.1 et 2, LTF dans les domaines prévus aux let. a à g ci-dessus.
+- g.[^33-2] arbitrage interne et international;
+- h. tenue des registres et décisions sur la reconnaissance et l’exécution de décisions ainsi que sur l’entraide en matière civile selon l’art. 72, al. 2, let. b, ch.1 et 2, LTF dans les domaines prévus aux let. a à g ci-dessus;
+- i.[^33-3] mainlevées provisoires et définitives.
 
-<sup>2</sup> La première Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 du code de procédure civile (CPC)[^33-3].[^33-4]
+<sup>2</sup> La première Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que, dans ses domaines de compétence, les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF).[^33-4]
 
 [^33-1]: Anciennement art. 31.
-[^33-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^33-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^33-4]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-3]: Introduite par le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-4]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 34
 
@@ -632,14 +633,15 @@ La deuxième Cour de droit civil traite les recours en matière civile et les re
   - 4\. droits réels;
 
 - b. droit foncier rural;
-- c. poursuite pour dettes et faillite;
+- c.[^34-2] poursuite pour dettes et faillite (sauf mainlevées provisoires et définitives);
 - d. tenue des registres et décisions sur la reconnaissance et l’exécution de décisions ainsi que sur l’entraide en matière civile selon l’art. 72, al. 2, let. b, LTF dans les domaines prévus aux let. a à c ci-dessus.
 
-<sup>2</sup> La deuxième Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 CPC[^34-2].[^34-3]
+<sup>2</sup> La deuxième Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 CPC[^34-3].[^34-4]
 
 [^34-1]: Anciennement art. 32.
-[^34-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^34-3]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^34-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^34-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^34-4]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
 #### Art. 35
 
@@ -781,15 +783,9 @@ Pour la désignation des membres des cours appelées à statuer, le président d
 
 #### Art. 41
 
-**Composition à cinq juges de la première Cour de droit pénal**[^41-1]
+[^41-1]
 
-### (art. 13, 18, al. 3, et 20, al. 2, LTF )
-
-<sup>1</sup> Un membre de la deuxième Cour de droit pénal est appelé à siéger, par rotation, dans les affaires de la première Cour de droit pénal pour lesquelles la cour statue à cinq juges tant que la première Cour de droit pénal ne compte que quatre membres.
-
-<sup>2</sup> Cette rotation suit l’ordre d’ancienneté et inclut tous les membres de la cour.
-
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^41-1]: Abrogé par le ch. I de l’O du TF du 9 oct. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 42
 
@@ -1007,7 +1003,11 @@ La procédure de recours est régie par les dispositions de la loi fédérale du
 
 [^56-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-## Titre 4 Information
+## Titre 4 Information et protection des données
+
+[^tit4-1]
+
+[^tit4-1]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 57
 
@@ -1109,16 +1109,37 @@ La personne chargée de la communication et des relations avec les médias conse
 
 <sup>6</sup> L’autorité de recours est la Commission de recours du Tribunal fédéral. Sa décision est définitive.
 
-<sup>7</sup> Le conseiller au sens de l’art. 20 de l’ordonnance du 24 mai 2006 sur la transparence[^64-3] est la personne chargée de la protection des données du Tribunal fédéral. Elle est également compétente pour la rédaction du rapport.
+<sup>7</sup> Le conseiller au sens de l’art. 20 de l’ordonnance du 24 mai 2006 sur la transparence[^64-3] est le préposé à la protection des données du Tribunal fédéral. Il est également compétent pour la rédaction du rapport.[^64-4]
 
-<sup>8</sup> Les émoluments sont fixés conformément au règlement du 31 mars 2006 sur les émoluments administratifs du Tribunal fédéral [^64-4]. Lorsque celui-ci ne contient pas de dispositions topiques, les émoluments sont fixés selon le tarif des émoluments de l’annexe 1 de l’ordonnance sur la transparence.
+<sup>8</sup> Les émoluments sont fixés conformément au règlement du 31 mars 2006 sur les émoluments administratifs du Tribunal fédéral [^64-5]. Lorsque celui-ci ne contient pas de dispositions topiques, les émoluments sont fixés selon le tarif des émoluments de l’annexe 1 de l’ordonnance sur la transparence.
 
 <sup>9</sup> Pour le surplus, l’ordonnance du 24 mai 2006 sur la transparence est applicable par analogie.
 
 [^64-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 [^64-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^64-3]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^64-4]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^64-4]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^64-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+
+#### Art. 64a
+
+**Préposé à la protection des données**[^64a-1]
+
+### (art. 10 LPD)
+
+<sup>1</sup> Le préposé à la protection des données du Tribunal fédéral est le conseiller à la protection des données au sens des art. 10 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^64a-2] et 26 de l’ordonnance du 31 août 2022 sur la protection des données[^64a-3].
+
+<sup>2</sup> Il exerce ses fonctions de manière indépendante et sans recevoir d’instruction.
+
+<sup>3</sup> Les services scientifiques et administratifs du Tribunal fédéral donnent accès au conseiller à la protection des données à tous les renseignements, documents et registres et à toutes les données personnelles dont il a besoin pour accomplir ses tâches.
+
+<sup>4</sup> Ils informent le conseiller à la protection des données de toute violation de la sécurité des données.
+
+<sup>5</sup> Pour le surplus, l’ordonnance du 31 août 2022 sur la protection des données est applicable par analogie.
+
+[^64a-1]: Introduit par le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^64a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64a-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 ## Titre 5 Dispositions finales
 

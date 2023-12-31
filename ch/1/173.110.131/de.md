@@ -4,11 +4,11 @@ title: Reglement vom 20. November 2006 für das Bundesgericht (BGerR)
 short: BGerR
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/de"
 
 (BGerR)
 
-vom 20. November 2006 (Stand am 1. Juli 2023)
+vom 20. November 2006 (Stand am 1. Januar 2024)
 
 Das Bundesgericht,
 
@@ -600,15 +600,16 @@ Die Erste zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen und
 - d. medizinische Staatshaftung;
 - e. privates Wettbewerbsrecht;
 - f. Immaterialgüterrecht;
-- g.[^33-2] internationale Schiedsgerichtsbarkeit;
-- h. Registersachen und Entscheide über die Anerkennung und Vollstreckung von Entscheiden sowie über die Rechtshilfe in Zivilsachen gemäss Artikel 72 Absatz 2 Buchstabe b Ziffern 1 und 2 BGG in den Rechtsgebieten nach den Buchstaben a–g.
+- g.[^33-2] nationale und internationale Schiedsgerichtsbarkeit;
+- h. Registersachen und Entscheide über die Anerkennung und Vollstreckung von Entscheiden sowie über die Rechtshilfe in Zivilsachen gemäss Artikel 72 Absatz 2 Buchstabe b Ziffern 1 und 2 BGG in den Rechtsgebieten nach den Buchstaben a–g;
+- i.[^33-3] provisorische und definitive Rechtsöffnungen.
 
-<sup>2</sup> Die Erste zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 der Zivilprozessordnung[^33-3] (ZPO).[^33-4]
+<sup>2</sup> Die Erste zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG).[^33-4]
 
 [^33-1]: Ursprünglich: Art. 31.
-[^33-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^33-3]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^33-4]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-3]: Eingefügt durch Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-4]: Fassung gemäss Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 34
 
@@ -630,14 +631,15 @@ Die Zweite zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen un
   - 4\. Sachenrecht;
 
 - b. bäuerliches Bodenrecht;
-- c. Schuldbetreibung und Konkurs;
+- c.[^34-2] Schuldbetreibung und Konkurs (ohne provisorische und definitive Rechtsöffnungen);
 - d. Registersachen und Entscheide über die Anerkennung und Vollstreckung von Entscheiden sowie über die Rechtshilfe in Zivilsachen gemäss Artikel 72 Absatz 2 Buchstabe b BGG in den Rechtsgebieten nach Buchstaben a und c dieses Absatzes.
 
-<sup>2</sup> Die Zweite zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 ZPO[^34-2].[^34-3]
+<sup>2</sup> Die Zweite zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 ZPO[^34-3].[^34-4]
 
 [^34-1]: Ursprünglich: Art. 32.
-[^34-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^34-3]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^34-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^34-3]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^34-4]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
 #### Art. 35
 
@@ -781,15 +783,9 @@ Bei der Bezeichnung der Mitglieder des Spruchkörpers berücksichtigt der Abteil
 
 #### Art. 41
 
-**Spruchkörper der Ersten strafrechtlichen Abteilung in Fünferbesetzung**[^41-1]
+[^41-1]
 
-### (Art. 13, 18 Abs. 3 und 20 Abs. 2 BGG)
-
-<sup>1</sup> Solange die Erste strafrechtliche Abteilung nur aus vier Mitgliedern besteht, wirkt an Entscheiden, die in Fünferbesetzung gefällt werden müssen, im Turnus ein Mitglied der Zweiten strafrechtlichen Abteilung mit.
-
-<sup>2</sup> Dieser Turnus folgt der Anciennität und schliesst alle Mitglieder der Abteilung ein.
-
-[^41-1]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^41-1]: Aufgehoben durch Ziff. I der V des BGer vom 9. Okt. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 42
 
@@ -1009,7 +1005,11 @@ Das Beschwerdeverfahren richtet sich nach den Vorschriften des Bundesgesetzes vo
 
 [^56-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-## 4. Titel: Information
+## 4. Titel: Information und Datenschutz
+
+[^tit4-1]
+
+[^tit4-1]: Fassung gemäss Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 57
 
@@ -1121,6 +1121,26 @@ Der oder die Kommunikations- und Medienbeauftragte berät und unterstützt das P
 [^64-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^64-3]: [SR 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
 [^64-4]: [SR 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+
+#### Art. 64a
+
+**Datenschutzbeauftragter oder -beauftragte**[^64a-1]
+
+### (Art. 10 DSG)
+
+<sup>1</sup> Der oder die Datenschutzbeauftragte ist Datenschutzberater oder Datenschutzberaterin im Sinne von Artikel 10 des Datenschutzgesetzes vom 25. September 2020[^64a-2] (DSG) und Artikel 26 der Datenschutzverordnung vom 31. August 2022[^64a-3].
+
+<sup>2</sup> Er oder sie übt seine oder ihre Funktion fachlich unabhängig und weisungsungebunden aus.
+
+<sup>3</sup> Die wissenschaftlichen und administrativen Dienste des Bundesgerichts gewähren dem Datenschutzberater oder der Datenschutzberaterin Zugang zu allen Auskünften, Unterlagen, Verzeichnissen der Bearbeitungstätigkeiten und Personendaten, die er oder sie zur Erfüllung seiner oder ihrer Aufgaben benötigt.
+
+<sup>4</sup> Sie informieren den Datenschutzberater oder die Datenschutzberaterin über Verletzungen der Datensicherheit.
+
+<sup>5</sup> Im Übrigen ist die Datenschutzverordnung vom 31. August 2022 sinngemäss anwendbar.
+
+[^64a-1]: Eingefügt durch Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^64a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64a-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 ## 5. Titel: Schlussbestimmungen
 
