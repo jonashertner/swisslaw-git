@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230901-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230901/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 1° settembre 2023)
+del 24 ottobre 2007 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -2405,33 +2405,33 @@ Allegato 1[^t-1]
 
 ## Contingenti dei permessi di soggiorno di breve durata
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)).
 
 \1. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19 sono stabiliti complessivamente a 4000:
 
 - a. Contingente a disposizione dei Cantoni: 2000
 
 <table>
-<tr><td>Zurigo 396</td><td>Sciaffusa 17</td></tr>
-<tr><td>Berna 236</td><td>Appenzello Esterno 10</td></tr>
-<tr><td>Lucerna 93</td><td>Appenzello Interno 3</td></tr>
+<tr><td>Zurigo 399</td><td>Sciaffusa 18</td></tr>
+<tr><td>Berna 235</td><td>Appenzello Esterno 9</td></tr>
+<tr><td>Lucerna 93</td><td>Appenzello Interno 4</td></tr>
 <tr><td>Uri 7</td><td>San Gallo 114</td></tr>
-<tr><td>Svitto 31</td><td>Grigioni 49</td></tr>
+<tr><td>Svitto 31</td><td>Grigioni 48</td></tr>
 <tr><td>Obvaldo 8</td><td>Argovia 130</td></tr>
 <tr><td>Nidvaldo 9</td><td>Turgovia 52</td></tr>
 <tr><td>Glarona 8</td><td>Ticino 94</td></tr>
-<tr><td>Zugo 45</td><td>Vaud 180</td></tr>
-<tr><td>Friburgo 57</td><td>Vallese 68</td></tr>
-<tr><td>Soletta 54</td><td>Neuchâtel 42</td></tr>
-<tr><td>Basilea Città 74</td><td>Ginevra 148</td></tr>
-<tr><td>Basilea Campagna 58</td><td>Giura 17</td></tr>
+<tr><td>Zugo 45</td><td>Vaud 181</td></tr>
+<tr><td>Friburgo 58</td><td>Vallese 69</td></tr>
+<tr><td>Soletta 54</td><td>Neuchâtel 41</td></tr>
+<tr><td>Basilea Città 72</td><td>Ginevra 147</td></tr>
+<tr><td>Basilea Campagna 57</td><td>Giura 17</td></tr>
 </table>
 
 - b. Contingente a disposizione della Confederazione: 2000
 
-\2. I contingenti sono validi dal 1° gennaio 2023 al 31 dicembre 2023.
+\2. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024.
 
-\3. I contingenti liberati in virtù della modifica del 24 novembre 2021[^annex1-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
+\3. I contingenti liberati in virtù della modifica del 23 novembre 2022[^annex1-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
 
 \4. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19*a* sono stabiliti complessivamente a 3000:
 
@@ -2440,9 +2440,9 @@ Allegato 1[^t-1]
 <tr><td>750</td><td>750</td><td>750</td><td>750</td></tr>
 </table>
 
-\5. I contingenti sono validi dal 1° gennaio 2023 al 31 dicembre 2023 e sono liberati trimestralmente.
+\5. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024 e sono liberati trimestralmente.
 
-\6. I contingenti liberati in virtù della modifica del 24 novembre 2021 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
+\6. I contingenti liberati in virtù della modifica del 23 novembre 2022 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
 
 \7. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19*b* sono stabiliti complessivamente a 1400:
 
@@ -2451,9 +2451,9 @@ Allegato 1[^t-1]
 <tr><td>350</td><td>350</td><td>350</td><td>350</td></tr>
 </table>
 
-\8. I contingenti sono validi dal 1° gennaio 2023 al 31 dicembre 2023 e sono liberati trimestralmente.
+\8. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024 e sono liberati trimestralmente.
 
-[^annex1-lvlu1-1]: [RU 2021 841](https://fedlex.data.admin.ch/eli/oc/2021/841)
+[^annex1-lvlu1-1]: [RU 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)
 
 Allegato 2[^t-2]
 
@@ -2461,33 +2461,33 @@ Allegato 2[^t-2]
 
 ## Contingenti dei permessi di dimora
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)).
 
 \1. I contingenti dei permessi di dimora per le persone di cui all’articolo 20 sono stabiliti complessivamente a 4500:
 
 - a. Contingente a disposizione dei Cantoni: 1250
 
 <table>
-<tr><td>Zurigo 247</td><td>Sciaffusa 11</td></tr>
-<tr><td>Berna 148</td><td>Appenzello Esterno 6</td></tr>
-<tr><td>Lucerna 58</td><td>Appenzello Interno 2</td></tr>
+<tr><td>Zurigo 250</td><td>Sciaffusa 11</td></tr>
+<tr><td>Berna 147</td><td>Appenzello Esterno 7</td></tr>
+<tr><td>Lucerna 59</td><td>Appenzello Interno 2</td></tr>
 <tr><td>Uri 4</td><td>San Gallo 71</td></tr>
-<tr><td>Svitto 19</td><td>Grigioni 31</td></tr>
-<tr><td>Obvaldo 5</td><td>Argovia 81</td></tr>
-<tr><td>Nidvaldo 6</td><td>Turgovia 33</td></tr>
-<tr><td>Glarona 5</td><td>Ticino 59</td></tr>
-<tr><td>Zugo 28</td><td>Vaud 112</td></tr>
-<tr><td>Friburgo 36</td><td>Vallese 43</td></tr>
-<tr><td>Soletta 34</td><td>Neuchâtel 26</td></tr>
-<tr><td>Basilea Città 46</td><td>Ginevra 92</td></tr>
-<tr><td>Basilea Campagna 36</td><td>Giura 11</td></tr>
+<tr><td>Svitto 20</td><td>Grigioni 31</td></tr>
+<tr><td>Obvaldo 5</td><td>Argovia 80</td></tr>
+<tr><td>Nidvaldo 6</td><td>Turgovia 32</td></tr>
+<tr><td>Glarona 5</td><td>Ticino 58</td></tr>
+<tr><td>Zugo 29</td><td>Vaud 112</td></tr>
+<tr><td>Friburgo 36</td><td>Vallese 44</td></tr>
+<tr><td>Soletta 33</td><td>Neuchâtel 26</td></tr>
+<tr><td>Basilea Città 45</td><td>Ginevra 91</td></tr>
+<tr><td>Basilea Campagna 36</td><td>Giura 10</td></tr>
 </table>
 
 - b. Contingente a disposizione della Confederazione: 3250
 
-\2. I contingenti sono validi dal 1° gennaio 2023 al 31 dicembre 2023.
+\2. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024.
 
-\3. I contingenti liberati in virtù della modifica del 24 novembre 2021[^annex2-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
+\3. I contingenti liberati in virtù della modifica del 23 novembre 2022[^annex2-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
 
 \4. I contingenti dei permessi di dimora per le persone di cui all’articolo 20*a* sono stabiliti complessivamente a 500:
 
@@ -2496,9 +2496,9 @@ Allegato 2[^t-2]
 <tr><td>125</td><td>125</td><td>125</td><td>125</td></tr>
 </table>
 
-\5. I contingenti sono validi dal 1° gennaio 2023 al 31 dicembre 2023 e sono liberati trimestralmente.
+\5. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024 e sono liberati trimestralmente.
 
-\6. I contingenti liberati in virtù della modifica del 24 novembre 2021 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
+\6. I contingenti liberati in virtù della modifica del 23 novembre 2022 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
 
 \7. I contingenti dei permessi di dimora per le persone di cui all’articolo 20*b* sono stabiliti complessivamente a 2100:
 
@@ -2507,9 +2507,9 @@ Allegato 2[^t-2]
 <tr><td>525</td><td>525</td><td>525</td><td>525</td></tr>
 </table>
 
-\8. I contingenti sono validi dal 1° gennaio 2023 al 31 dicembre 2023 e sono liberati trimestralmente.
+\8. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024 e sono liberati trimestralmente.
 
-[^annex2-lvlu1-1]: [RU 2021 841](https://fedlex.data.admin.ch/eli/oc/2021/841)
+[^annex2-lvlu1-1]: [RU 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)
 
 Allegato 3[^t-3]
 
