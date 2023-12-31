@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2002 sur le cinéma (OCin)
 short: OCin
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/284"
 language: fr
-version: 2016-01-01
+version: 2024-01-01
 adopted: 2002-07-03
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/284/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-284-20160101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/284/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/284/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-284-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/284/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/284/20160101/fr"
 
 (OCin)
 
-du 3 juillet 2002 (Etat le 1<sup>er</sup> janvier 2016)
+du 3 juillet 2002 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -39,11 +39,11 @@ La présente ordonnance règle:
 - a. l’évaluation de la diversité de l’offre de films projetés en public dans les différentes régions cinématographiques de la Suisse;
 - b. l’introduction d’une taxe d’incitation;
 - c.[^1-1] l’obligation d’enregistrement des entreprises de distribution et de projection;
-- d.[^1-2] les obligations de communication des entreprises de production, de distribution et de projection ainsi que des entreprises qui exploitent des films en dehors des salles de cinéma;
+- d.[^1-2] les obligations de communiquer incombant aux entreprises de distribution et de projection;
 - e.[^1-3] les organes d’exécution de l’encouragement du cinéma.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 [^1-3]: Introduite par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
 
 #### Art. 2
@@ -65,20 +65,21 @@ Dans la présente ordonnance, on entend par:
 
 ## Chapitre 2 Mesures visant à promouvoir la diversité de l’offre cinématographique
 
-### Section 1 Evaluation de la diversité de l’offre
+### Section 1 Évaluation de la diversité de l’offre
 
 #### Art. 3
 
-**Evaluations**
+**Évaluations**
 
-<sup>1</sup> L’Office fédéral de la culture (OFC[^3-1]) procède annuellement à l’évaluation de la diversité de l’offre dans les diverses régions cinématographiques.
+<sup>1</sup> L’Office fédéral de la culture (OFC) procède périodiquement à l’évaluation de la diversité de l’offre dans les diverses régions cinématographiques.[^3-1]
 
-<sup>2</sup> Lorsqu’il y a lieu de penser que des faits particuliers réduisent la diversité de l’offre dans une région cinématographique donnée, l’OFC procède à une évaluation intermédiaire.
+<sup>2</sup> Lorsqu’il y a lieu de penser que des faits particuliers réduisent la diversité de l’offre dans une région cinématographique donnée, l’OFC[^3-2] procède à une évaluation intermédiaire.
 
-<sup>3</sup> L’OFC procède en outre à une évaluation intermédiaire lorsque des entreprises de distribution ou de projection d’une région cinématographique donnée ou des organisations ayant passé un accord au sens de l’art. 17, al. 2, LCin[^3-2], en font la demande.
+<sup>3</sup> L’OFC procède en outre à une évaluation intermédiaire lorsque des entreprises de distribution ou de projection d’une région cinématographique donnée ou des organisations ayant passé un accord au sens de l’art. 17, al. 2, LCin[^3-3], en font la demande.
 
-[^3-1]: Nouvelle expression selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 [^3-2]: Nouvelle expression selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-3]: Nouvelle expression selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
@@ -93,7 +94,9 @@ L’OFC donne aux représentants suivants de la branche cinématographique la po
 - c. aux associations suisses d’entreprises de distribution et de projection;
 - d. aux organisations professionnelles et culturelles importantes de la branche cinématographique.
 
-<sup>2</sup> Le délai pour la prise de position est de 90 jours dans le cas de l’évaluation annuelle et de 60 jours dans le cas d’une évaluation intermédiaire au sens de l’art. 3, al. 2 et 3.
+<sup>2</sup> Le délai pour la prise de position est de 90 jours dans le cas de l’évaluation périodique et de 60 jours dans le cas d’une évaluation intermédiaire au sens de l’art. 3, al. 2 et 3.[^4-1]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 5
 
@@ -177,47 +180,68 @@ Les entreprises de distribution et de projection s’engagent à contribuer à l
 
 #### Art. 14
 
-<sup>1</sup> L’OFC tient le registre public prévu à l’art. 23 LCin.
+**Registre**[^14-1]
 
-<sup>2</sup> Les entreprises de distribution et de projection tenues de s’enregistrer doivent s’annoncer spontanément auprès de l’OFC.
+L’OFC tient le registre public prévu à l’art. 23 LCin.
 
-<sup>3</sup> La déclaration doit porter le nom, le but et le siège de l’entreprise.
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
-<sup>4</sup> Les entreprises de projection communiquent en outre le nom des écrans en exploitation ainsi que leur nombre et, pour les personnes morales, le nom des membres de la direction de l’entreprise.
+#### Art. 14a
 
-<sup>5</sup> Tout changement intervenant dans les données énoncées aux al. 3 et 4 doit être signalé spontanément à l’OFC dans un délai de 30 jours.
+**Enregistrement**[^14a-1]
+
+<sup>1</sup> Les entreprises de distribution et de projection soumises à l’enregistrement doivent s’inscrire d’office auprès de l’OFC.
+
+<sup>2</sup> L’inscription doit comporter le nom, l’adresse, le but commercial, le siège et le numéro d’identification des entreprises (IDE) de l’entreprise, ainsi que, pour les personnes morales, les membres de la direction.
+
+<sup>3</sup> Les entreprises de projection communiquent en outre le nom et le nombre des écrans exploités.
+
+<sup>4</sup> Toute modification des informations visées aux al. 2 et 3 doit être communiquée d’office à l’OFC dans un délai de 30 jours.
+
+[^14a-1]: Introduit par le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
+
+#### Art. 14b
+
+**Communication des obligations incombant aux entreprises enregistrées**[^14b-1]
+
+<sup>1</sup> Une fois l’enregistrement effectué, l’OFC examine les obligations légales auxquelles l’entreprise est soumise et en informe celle-ci.
+
+<sup>2</sup> Si l’entreprise conteste ces obligations, l’OFC rend une décision susceptible de recours.
+
+[^14b-1]: Introduit par le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 ### Section 2 Obligations de communiquer
 
 #### Art. 15
 
-**Obligation de communiquer pour les entreprises de production soutenues et pour les entreprises de distribution**
+**Obligation de communiquer incombant aux entreprises de distribution**[^15-1]
 
 <sup>1</sup>
 
-Pour chaque film projeté dans une salle de cinéma enregistrée, les entreprises de production soutenues et les entreprises de distribution communiquent:[^15-1]
+Pour chaque film projeté dans une salle de cinéma enregistrée, les entreprises de distribution communiquent:
 
-- a. le titre original, les titres utilisés dans les langues officielles de la Suisse ainsi que les numéros SUISA ou ISAN;
-- b.
+- a. le titre original et les titres utilisés dans les langues officielles de la Suisse;
+- b. les numéros SUISA ou ISAN;
+- c.
 
   les principaux responsables de la conception et de la réalisation, notamment:
 
   - 1\. le réalisateur,
-  - 2\. le scénariste,
-  - 3\. le producteur et les coproducteurs,
-  - 4\. les acteurs principaux,
-  - 5\. le compositeur de la musique originale;
+  - 2\. le producteur et les coproducteurs,
+  - 3\. les acteurs principaux;
 
-- c. le genre auquel appartient le film;
-- d. le pays producteur, les pays coproducteurs et la langue originale;
-- e. l’année de réalisation et la date de la première projection en Suisse;
-- f. la durée (en minutes), la couleur, le format, les conditions de projection, le système de sonorisation et les versions linguistiques des copies importées;
-- g. le titulaire des droits d’auteur;
-- h. le nombre d’entrées en Suisse pour chaque année.
+- d. le genre auquel le film appartient;
+- e. le pays producteur, les pays coproducteurs et le pays qui fournit la majeure partie du de financement;
+- f. la langue originale;
+- g. l’année de réalisation;
+- h. la date de la première projection en Suisse;
+- i. la durée (en minutes), la couleur, le format, les conditions de projection, le système de sonorisation et les versions linguistiques des copies importées;
+- j. le titulaire des droits d’auteur;
+- k. le nombre d’entrées en Suisse pour chaque année.
 
-<sup>2</sup> Les ch. 2, 3 et 5 de la let. b ne s’appliquent qu’aux films suisses et aux coproductions helvético-étrangères.
+<sup>2</sup> L’al. 1, let. c, ch. 2, ne s’applique qu’aux films suisses et aux coproductions entre la Suisse et l’étranger.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 16
 
@@ -232,40 +256,11 @@ Pour chaque semaine d’exploitation cinématographique, les entreprises de proj
 
 #### Art. 16a
 
-**Obligation de communiquer pour les entreprises qui exploitent les films en dehors des salles de cinéma**[^16a-1]
+[^16a-1]
 
-<sup>1</sup>
+[^16a-1]: Introduit par le ch. I de l’O du 25 nov. 2015 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)). Abrogé par le ch. I de l’O du 6 sept. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
-Les entreprises suisses et étrangères qui vendent des films en Suisse sur des supports physiques ou en fournissent par le biais de services électroniques à la demande ou par abonnement ainsi que les détenteurs des droits d’exploitation correspondants communiquent annuellement les informations suivantes pour chaque film d’une durée supérieure à soixante minutes:
-
-- a. le titre original, les titres utilisés dans les langues officielles de la Suisse ainsi que les numéros ISAN;
-- b.
-
-  les noms des principaux responsables de la conception et de la réalisation, notamment ceux:
-
-  - 1\. du réalisateur,
-  - 2\. du scénariste,
-  - 3\. du producteur et des coproducteurs;
-
-- c. le genre auquel appartient le film;
-- d. le pays producteur et les pays coproducteurs;
-- e. les versions linguistiques disponibles;
-- f. l’année de réalisation;
-- g. pour tout type d’exploitation : la date de début de l’exploitation;
-- h. la durée (en minutes);
-- i. le détenteur des droits d’exploitation pour la Suisse.
-
-<sup>2</sup> L’al. 1, let. b, ch. 2 et 3, ne s’applique qu’aux films suisses et aux coproductions helvético-étrangères.
-
-<sup>3</sup> S’agissant de vente de films sur support physique, le nombre de supports vendus par film doit également être communiqué.
-
-<sup>4</sup> S’agissant de vente par le biais de services électroniques à la demande ou par abonnement, le nombre de visionnement payé par titre doit également être communiqué.
-
-<sup>5</sup> Les entreprises doivent s’annoncer auprès de l’OFC avant la première communication.
-
-[^16a-1]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
-
-## Chapitre 4 Organes d’exécution****
+## Chapitre 4 Organes d’exécution
 
 [^chap4-1]
 
@@ -275,27 +270,26 @@ Les entreprises suisses et étrangères qui vendent des films en Suisse sur des 
 
 **Collecte de données et statistiques[^17-1]**
 
-<sup>1</sup> Le DFI désigne l’organe chargé de collecter les données visées à l’art. 24 LCin et aux art. 15 à 16*a* de la présente ordonnance. La collecte des données est du ressort de l’Office fédéral de la statistique.[^17-2]
+<sup>1</sup> L’Office fédéral de la statistique est chargé de collecter les données visées aux art. 24 LCin et 15 et 16 de la présente ordonnance.[^17-2]
 
 <sup>2</sup> L’Office fédéral de la statistique peut confier la collecte des données à une organisation privée. Cette dernière est alors tenue de communiquer les données à l’Office fédéral de la statistique. Un contrat de droit public règle les droits et les devoirs de cette organisation.[^17-3]
 
-<sup>3</sup> L’Office fédéral de la statistique procède, à l’intention de l’OFC, à l’analyse des données pertinentes pour l’évaluation de la diversité de l’offre. Il peut communiquer ces données à l’OFC sous une forme non anonyme par le biais d’une procédure d’appel.
+<sup>3</sup> L’Office fédéral de la statistique rassemble les données déterminantes pour l’évaluation de la diversité de l’offre et les transmet à l’OFC sous une forme non anonymisée.[^17-4]
 
 <sup>4</sup> Les divergences entre les données fournies par les entreprises de distribution et celles fournies par les entreprises de projection doivent être ajustées à intervalles réguliers auprès de l’organe chargé de collecter les données.
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
-[^17-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 [^17-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^17-4]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 18
 
 **Composition de la Commission fédérale du cinéma**[^18-1]
 
-<sup>1</sup> La Commission fédérale du cinéma réunit des spécialistes issus des domaines de la création cinématographique, de la diffusion de films, de la formation continue, de l’archivage et de la culture cinématographique.
+La Commission fédérale du cinéma réunit des spécialistes issus du secteur de l’audiovisuel, en particulier des domaines de la création cinématographique, de la diffusion de films, du droit du cinéma, des nouvelles technologies, de la culture cinématographique et des marchés cinématographiques.
 
-<sup>2</sup> Les autorités culturelles des cantons ont un représentant dans la Commission fédérale du cinéma.
-
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 18a
 
@@ -339,6 +333,16 @@ L’ordonnance du 24 juin 1992 sur le cinéma[^19-1] et l’ordonnance du 25 nov
 L’obligation de communiquer en vertu de l’art. 16*a* s’applique à tous les films vendus ou visionnés à partir du 1<sup>er</sup> janvier 2017.
 
 [^21a-1]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+
+#### Art. 21b
+
+**Dispositions transitoires relatives à la modification du 6 septembre 2023**[^21b-1]
+
+<sup>1</sup> Les entreprises déjà enregistrées doivent communiquer les informations supplémentaires requises à l’art. 14*a*, al. 2, en vertu de la modification du 6 septembre 2023 dans les 90 jours suivant l’entrée en vigueur de cette modification.
+
+<sup>2</sup> L’obligation de communiquer incombant aux entreprises qui exploitent des films en dehors des salles de cinéma est régie, pour les films qui seront exploités jusqu’au 31 décembre 2023, par l’ancien droit.
+
+[^21b-1]: Introduit par le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 22
 

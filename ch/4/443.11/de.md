@@ -4,11 +4,11 @@ title: Filmverordnung vom 3. Juli 2002 (FiV)
 short: FiV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/284"
 language: de
-version: 2016-01-01
+version: 2024-01-01
 adopted: 2002-07-03
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/284/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2002-284-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/284/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/284/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2002-284-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/284/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/284/20160101/de"
 
 (FiV)
 
-vom 3. Juli 2002 (Stand am 1. Januar 2016)
+vom 3. Juli 2002 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -39,11 +39,11 @@ Diese Verordnung regelt:
 - a. die Evaluation der Vielfalt des Angebots öffentlich vorgeführter Filme in den einzelnen Kinoregionen der Schweiz;
 - b. die Einführung einer Förderungsabgabe;
 - c.[^1-1] die Registrierungspflicht der Verleih- und Vorführunternehmen;
-- d.[^1-2] die Meldepflichten der Produktions-, Verleih- und Vorführunternehmen sowie der Unternehmen, die Filme ausserhalb der Kinos verwerten;
+- d.[^1-2] die Meldepflichten der Verleih- und Vorführunternehmen;
 - e.[^1-3] die Vollzugsorgane der Filmförderung.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
-[^1-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 [^1-3]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
 
 #### Art. 2
@@ -71,14 +71,15 @@ In dieser Verordnung bedeuten:
 
 **Evaluationen**
 
-<sup>1</sup> Das Bundesamt für Kultur (BAK[^3-1]) nimmt jährlich eine Evaluation der Angebotsvielfalt in den einzelnen Kinoregionen vor.
+<sup>1</sup> Das Bundesamt für Kultur (BAK) nimmt periodisch eine Evaluation der Angebotsvielfalt in den einzelnen Kinoregionen vor.[^3-1]
 
-<sup>2</sup> Besteht begründete Annahme, dass besondere Vorkommnisse die Angebotsvielfalt in einer Kinoregion beeinträchtigen, so nimmt das BAK eine Zwischenevaluation vor.
+<sup>2</sup> Besteht begründete Annahme, dass besondere Vorkommnisse die Angebotsvielfalt in einer Kinoregion beeinträchtigen, so nimmt das BAK[^3-2] eine Zwischenevaluation vor.
 
-<sup>3</sup> Das BAK nimmt zudem eine Zwischenevaluation vor, wenn dies von Verleih- und Vorführunternehmen einer bestimmten Kinoregion oder von der Trägerorganisation einer Vereinbarung nach Artikel 17 Absatz 2 FiG[^3-2] gefordert wird.
+<sup>3</sup> Das BAK nimmt zudem eine Zwischenevaluation vor, wenn dies von Verleih- und Vorführunternehmen einer bestimmten Kinoregion oder von der Trägerorganisation einer Vereinbarung nach Artikel 17 Absatz 2 FiG[^3-3] gefordert wird.
 
-[^3-1]: Ausdruck gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3-1]: Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 [^3-2]: Ausdruck gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3-3]: Ausdruck gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 4
 
@@ -93,7 +94,9 @@ Das BAK gibt folgenden Vertretern der Filmbranche Gelegenheit, zu den Evaluation
 - c. den schweizerischen Verbänden der Verleih- und Vorführunternehmen;
 - d. wichtigen beruflichen und kulturellen Organisationen der Filmbranche.
 
-<sup>2</sup> Die Frist für die Stellungnahme beträgt bei der jährlichen Evaluation 90 Tage, bei einer Zwischenevaluation nach Artikel 3 Absätze 2 und 3 60 Tage.
+<sup>2</sup> Die Frist für die Stellungnahme beträgt bei der periodischen Evaluation 90 Tage, bei einer Zwischenevaluation nach Artikel 3 Absätze 2 und 3 60 Tage.[^4-1]
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 5
 
@@ -177,47 +180,68 @@ Die Verleih- und Vorführunternehmen verpflichten sich zur Leistung eines über 
 
 #### Art. 14
 
-<sup>1</sup> Das BAK führt das öffentliche Register nach Artikel 23 FiG.
+**Register**[^14-1]
 
-<sup>2</sup> Die der Registrierung unterstehenden Verleih- und Vorführunternehmen haben sich unaufgefordert beim BAK anzumelden.
+Das BAK führt das öffentliche Register nach Artikel 23 FiG.
 
-<sup>3</sup> In der Anmeldung anzugeben sind Name, Geschäftszweck und Sitz des Unternehmens.
+[^14-1]: Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
-<sup>4</sup> Die Vorführunternehmen melden zusätzlich Namen und Anzahl der betriebenen Leinwände und, für juristische Personen, die Mitglieder der Geschäftsleitung.
+#### Art. 14a
 
-<sup>5</sup> Änderungen der Angaben nach den Absätzen 3 und 4 sind dem BAK innert 30 Tagen unaufgefordert zu melden.
+**Registrierung**[^14a-1]
+
+<sup>1</sup> Die der Registrierung unterstehenden Verleih- und Vorführunternehmen haben sich unaufgefordert beim BAK anzumelden.
+
+<sup>2</sup> In der Anmeldung anzugeben sind Name, Adresse, Geschäftszweck, Sitz und Unternehmens-Identifikationsnummer des Unternehmens sowie, für juristische Personen, die Mitglieder der Geschäftsleitung.
+
+<sup>3</sup> Die Vorführunternehmen melden zusätzlich Namen und Anzahl der betriebenen Leinwände.
+
+<sup>4</sup> Änderungen der Angaben nach den Absätzen 2 und 3 sind dem BAK innert 30 Tagen unaufgefordert zu melden.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
+
+#### Art. 14b
+
+**Mitteilung der Pflichten der registrierten Unternehmen**[^14b-1]
+
+<sup>1</sup> Das BAK prüft nach der Registrierung, welche gesetzlichen Pflichten dem Unternehmen obliegen, und teilt ihm dies mit.
+
+<sup>2</sup> Ist ein Unternehmen nicht einverstanden, so erlässt das BAK eine anfechtbare Verfügung.
+
+[^14b-1]: Eingefügt durch Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 ### 2. Abschnitt: Meldepflichten
 
 #### Art. 15
 
-**Meldepflicht für geförderte Produktionsunternehmen und Verleihunternehmen**
+**Meldepflicht für Verleihunternehmen**[^15-1]
 
 <sup>1</sup>
 
-Die geförderten Produktionsunternehmen und die Verleihunternehmen geben für jeden Film, der in einem registrierten Kino vorgeführt wird, an:[^15-1]
+Die Verleihunternehmen geben für jeden Film, der in einem registrierten Kino vorgeführt wird, an:
 
-- a. den Originaltitel, die in den Amtssprachen der Schweiz verwendeten Titel sowie die SUISA- oder ISAN-Nummern;
-- b.
+- a. den Originaltitel und die in den Amtssprachen der Schweiz verwendeten Titel;
+- b. die SUISA- und ISAN-Nummern;
+- c.
 
   die für die Gestaltung und Herstellung Hauptverantwortlichen, insbesondere:
 
   - 1\. den Regisseur oder die Regisseurin,
-  - 2\. den Drehbuchautor oder die Drehbuchautorin,
-  - 3\. den Produzenten oder die Produzentin sowie den Koproduzenten oder die Koproduzentin,
-  - 4\. die Hauptdarsteller und Hauptdarstellerinnen,
-  - 5\. den Komponisten oder die Komponistin der Originalmusik;
+  - 2\. den Produzenten oder die Produzentin sowie den Koproduzenten oder die Koproduzentin,
+  - 3\. die Hauptdarsteller und Hauptdarstellerinnen;
 
-- c. das Filmgenre;
-- d. das Produktionsland, die Koproduktionsländer sowie die Originalsprache;
-- e. das Herstellungsjahr und das Datum der Erstaufführung in der Schweiz;
-- f. Dauer (in Minuten), Farbe, Format, Projektionsverhältnisse, Tonsysteme und Sprachversionen der eingeführten Kopien;
-- g. den Inhaber der Vorführungsrechte;
-- h. die Anzahl der Eintritte in der Schweiz für jedes Jahr.
+- d. das Filmgenre;
+- e. das Produktionsland, die Koproduktionsländer und das Land mit dem grössten Finanzierungsanteil;
+- f. die Originalsprache;
+- g. das Herstellungsjahr;
+- h. das Datum der Erstaufführung in der Schweiz;
+- i. Dauer in Minuten, Farbe, Format, Projektionsverhältnisse, Tonsysteme und Sprachversionen der eingeführten Kopien;
+- j. den Inhaber der Vorführungsrechte;
+- k. die Anzahl der Eintritte in der Schweiz für jedes Jahr.
 
-<sup>2</sup> Buchstabe b Ziffern 2, 3 und 5 gelten nur für Schweizer Filme und schweizerisch-ausländische Koproduktionen.
+<sup>2</sup> Absatz 1 Buchstabe c Ziffer 2 gilt nur für Schweizer Filme und schweizerisch-ausländische Koproduktionen.
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 16
 
@@ -232,40 +256,11 @@ Die Vorführunternehmen melden für jede Kinowoche:
 
 #### Art. 16a
 
-**Meldepflicht für Unternehmen, die Filme ausserhalb der Kinos verwerten**[^16a-1]
+[^16a-1]
 
-<sup>1</sup>
+[^16a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)). Aufgehoben durch Ziff. I der V vom 6. Sept. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
-In- und ausländische Unternehmen, die in der Schweiz Filme auf Tonbildträgern verkaufen oder über elektronische Abruf- oder Abonnentendienste anbieten, sowie die Inhaber der entsprechenden Verwertungsrechte melden jährlich für jeden Film von über sechzig Minuten Länge:
-
-- a. den Originaltitel, die in den Amtssprachen der Schweiz verwendeten Titel sowie die ISAN-Nummern;
-- b.
-
-  die für die Gestaltung und Herstellung Hauptverantwortlichen, insbesondere:
-
-  - 1\. den Regisseur oder die Regisseurin,
-  - 2\. den Drehbuchautor oder die Drehbuchautorin,
-  - 3\. den Produzenten oder die Produzentin sowie den Koproduzenten oder die Koproduzentin;
-
-- c. das Filmgenre;
-- d. das Produktionsland und die Koproduktionsländer;
-- e. die Sprachversionen, in denen der Film verfügbar ist;
-- f das Herstellungsjahr;
-- g. für jede Verwertungsart: das Startdatum der Verwertung;
-- h. die Dauer (in Minuten);
-- i. den Inhaber der Verwertungsrechte für die Schweiz.
-
-<sup>2</sup> Absatz 1 Buchstabe b Ziffern 2 und 3 gelten nur für Schweizer Filme und schweizerisch-ausländische Koproduktionen.
-
-<sup>3</sup> Beim Verkauf von Tonbildträgern ist zusätzlich die Anzahl der pro Film verkauften Tonbildträger zu melden.
-
-<sup>4</sup> Beim Vertrieb über elektronische Abruf- oder Abonnementsdienste ist zusätzlich die Anzahl pro Film bezahlter Abrufe zu melden.
-
-<sup>5</sup> Die Unternehmen müssen sich vor der erstmaligen Meldung der Daten beim BAK anmelden.
-
-[^16a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
-
-## 4. Kapitel: Vollzugsorgane****
+## 4. Kapitel: Vollzugsorgane
 
 [^chap4-1]
 
@@ -275,27 +270,26 @@ In- und ausländische Unternehmen, die in der Schweiz Filme auf Tonbildträgern 
 
 **Datenerfassung und Statistik[^17-1]**
 
-<sup>1</sup> Das EDI bestimmt die Stelle, die für die Erfassung der Daten nach Artikel 24 FiG und nach den Artikeln 15–16*a* dieser Verordnung verantwortlich ist. Die Erfassung obliegt dem Bundesamt für Statistik.[^17-2]
+<sup>1</sup> Das Bundesamt für Statistik ist zuständig für die Erfassung der Daten nach Artikel 24 FiG sowie nach den Artikeln 15 und 16 dieser Verordnung.[^17-2]
 
 <sup>2</sup> Das Bundesamt für Statistik kann eine private Organisation mit der Erfassung der Daten betrauen. Die private Organisation wird dadurch gegenüber dem Bundesamt für Statistik meldepflichtig. Ihre Rechte und Pflichten werden in einem öffentlich-rechtlichen Vertrag festgelegt.[^17-3]
 
-<sup>3</sup> Das Bundesamt für Statistik führt die Analyse der für die Evaluation der Angebotsvielfalt massgebenden Daten zuhanden des BAK durch. Es kann diese Daten in einer nicht anonymisierten Form dem BAK mittels eines Abrufverfahrens mitteilen.
+<sup>3</sup> Das Bundesamt für Statistik stellt die für die Evaluation der Angebotsvielfalt massgebenden Daten zusammen und übermittelt sie dem BAK in nicht anonymisierter Form.[^17-4]
 
 <sup>4</sup> Abweichende Angaben zwischen den Verleih- und den Vorführunternehmen sind bei der Erfassungsstelle regelmässig abzugleichen.
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
-[^17-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 [^17-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^17-4]: Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 18
 
 **Zusammensetzung der eidgenössischen Filmkommission**[^18-1]
 
-<sup>1</sup> Die eidgenössische Filmkommission vereint Fachleute aus den Bereichen Filmschaffen, Verbreitung von Filmen, Weiterbildung, Archivierung und Filmkultur.
+Die eidgenössische Filmkommission vereint Fachleute aus dem audiovisuellen Sektor, namentlich aus den Bereichen Filmschaffen, Verbreitung von Filmen, Filmrecht, neue Technologien, Filmkultur und Filmmärkte.
 
-<sup>2</sup> Die Kulturbehörden der Kantone sind in der eidgenössischen Filmkommission mit einem Mitglied vertreten.
-
-[^18-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 18a
 
@@ -339,6 +333,16 @@ Die Filmverordnung vom 24. Juni 1992[^19-1] und die Verordnung vom 25. November 
 Die Meldepflicht nach Artikel 16*a* bezieht sich auf alle seit dem 1. Januar 2017 verkauften oder abgerufenen Filme.
 
 [^21a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5639](https://fedlex.data.admin.ch/eli/oc/2015/883)).
+
+#### Art. 21b
+
+**Übergangsbestimmung zur Änderung vom 6. September 2023**[^21b-1]
+
+<sup>1</sup> Bereits registrierte Unternehmen haben die aufgrund der Änderung vom 6. September 2023 zusätzlich erforderlichen Angaben nach Artikel 14*a* Absatz 2 innert 90 Tagen nach Inkrafttreten dieser Änderung zu melden.
+
+<sup>2</sup> Die Meldepflicht der Unternehmen, die Filme ausserhalb der Kinos verwerten, betreffend Filme, die bis 31. Dezember 2023 ausgewertet werden, richtet sich nach dem bisherigen Recht*.*
+
+[^21b-1]: Eingefügt durch Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 532](https://fedlex.data.admin.ch/eli/oc/2023/532)).
 
 #### Art. 22
 
