@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 marzo 2016 sulla requisizione di impianti di protezio
 short: OReq
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/165"
 language: it
-version: 2019-04-01
+version: 2024-01-01
 adopted: 2016-03-11
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/165/20190401/it/xml/fedlex-data-admin-ch-eli-cc-2016-165-20190401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20190401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/165/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-165-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,21 +17,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20190401/it"
 
 (OReq)
 
-dell’11 marzo 2016 (Stato 1° aprile 2019) (Stato 1° aprile 2019)
+dell’11 marzo 2016 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 75 capoverso 1 della legge federale 4 ottobre 2002[^ingress-1] sulla protezione della popolazione e sulla protezione civile del (LPPC),
-
-ordina:
+vista la legge federale del 20 dicembre 2019[^ingress-1] sulla protezione della popolazione e sulla protezione civile (LPPC),[^ingress-2]
 
 [^ingress-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente ordinanza disciplina la requisizione di impianti di protezione secondo l’articolo 50 LPPC e di letti in rifugi pubblici secondo l’articolo 46 capoverso 3 LPPC da parte di Confederazione e dei Cantoni per affrontare situazioni d’emergenza nel settore dell’asilo.
+La presente ordinanza disciplina la requisizione di impianti di protezione di cui all’articolo 67 LPPC e di letti in rifugi pubblici secondo l’articolo 61 capoverso 3 LPPC da parte della Confederazione e dei Cantoni per affrontare situazioni d’emergenza nel settore dell’asilo.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 2
 
@@ -56,10 +57,12 @@ Gli impianti di protezione e i letti possono essere requisiti se:
 
 - a. sussiste una situazione d’emergenza nel settore dell’asilo;
 - b. non sono disponibili o non possono essere resi disponibili in tempo utile altri alloggi a condizioni accettabili;
-- c. dei militi di protezione civile sono chiamati in servizio per far fronte a una situazione d’emergenza nel settore dell’asilo in virtù dell’articolo 27 capoverso 1 lettera a o al capoverso 2 lettera a LPPC;
+- c.[^3-1] dei militi di protezione civile sono impiegati per far fronte a una situazione d’emergenza nel settore dell’asilo in virtù dell’articolo 46 capoversi 1 lettera a o 2 LPPC; e
 - d. gli impianti di protezione e i letti non sono forzatamente indispensabili alla protezione civile.
 
 <sup>2</sup> Non possono essere requisiti impianti di protezione e letti necessari all’esercito per l’adempimento dei suoi compiti.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 4
 
@@ -153,7 +156,9 @@ I ricorsi contro decisioni dell’UFPP emanate in relazione alla requisizione no
 
 <sup>1</sup> In caso di danneggiamento o di perdita totale dell’impianto di protezione o dei letti, l’UFPP o l’ufficio cantonale responsabile della protezione civile decide in merito alle pretese di risarcimento.
 
-<sup>2</sup> Per quanto concerne la prescrizione di pretese di risarcimento secondo il capoverso 1 si applicano le disposizioni di cui all’articolo 65 capoversi 1 e 4 LPPC.
+<sup>2</sup> Per quanto concerne la prescrizione di pretese di risarcimento secondo il capoverso 1 si applicano le disposizioni di cui all’articolo 83 capoversi 1 e 4 LPPC.[^12-1]
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 13
 
@@ -163,4 +168,7 @@ I ricorsi contro decisioni dell’UFPP emanate in relazione alla requisizione no
 
 <sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2023.[^13-1]
 
+<sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2025.[^13-2]
+
 [^13-1]: Introdotto dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 887](https://fedlex.data.admin.ch/eli/oc/2019/154)).
+[^13-2]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).

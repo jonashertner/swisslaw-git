@@ -4,11 +4,11 @@ title: Verordnung vom 11. März 2016 über die Requisition von Schutzanlagen und
 short: VRSL
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/165"
 language: de
-version: 2019-04-01
+version: 2024-01-01
 adopted: 2016-03-11
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/165/20190401/de/xml/fedlex-data-admin-ch-eli-cc-2016-165-20190401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/165/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-165-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,21 +17,24 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20190401/de"
 
 (VRSL)
 
-vom 11. März 2016 (Stand am 1. April 2019)
+vom 11. März 2016 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 75 Absatz 1 des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002[^ingress-1] (BZG),
+gestützt auf das Bevölkerungs- und Zivilschutzgesetz vom 20. Dezember 2019[^ingress-1] (BZG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Diese Verordnung regelt die Requisition von Schutzanlagen nach Artikel 50 BZG und von Liegestellen aus öffentlichen Schutzräumen nach Artikel 46 Absatz 3 BZG durch den Bund und die Kantone zur Bewältigung von Notlagen im Asylbereich.
+Diese Verordnung regelt die Requisition von Schutzanlagen nach Artikel 67 BZG und von Liegestellen aus öffentlichen Schutzräumen nach Artikel 61 Absatz 3 BZG durch den Bund und die Kantone zur Bewältigung von Notlagen im Asylbereich.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 2
 
@@ -56,10 +59,12 @@ Schutzanlagen und Liegestellen dürfen requiriert werden, wenn:
 
 - a. eine Notlage im Asylbereich vorliegt;
 - b. keine anderen Unterbringungsmöglichkeiten zu annehmbaren Bedingungen zur Verfügung stehen oder rechtzeitig beschafft werden können;
-- c. gestützt auf Artikel 27 Absatz 1 Buchstabe a oder Absatz 2 Buchstabe a BZG Schutzdienstpflichtige zur Bewältigung der Notlage im Asylbereich im Einsatz sind; und
+- c.[^3-1] gestützt auf Artikel 46 Absatz 1 Buchstabe a oder Absatz 2 BZG Schutzdienstpflichtige zur Bewältigung der Notlage im Asylbereich im Einsatz sind; und
 - d. die Schutzanlagen und Liegestellen für den Zivilschutz nicht zwingend erforderlich sind.
 
 <sup>2</sup> Nicht requiriert werden dürfen Schutzanlagen und Liegestellen, welche die Armee zur Erfüllung ihrer Aufgaben benötigt.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 4
 
@@ -153,7 +158,9 @@ Beschwerden gegen Verfügungen des BABS, die im Zusammenhang mit der Requisition
 
 <sup>1</sup> Über Schadenersatzforderungen bei Schädigung oder Totalverlust der Schutzanlage oder der Liegestellen entscheidet das BABS oder die für den Zivilschutz zuständige Stelle des betreffenden Kantons.
 
-<sup>2</sup> Betreffend die Verjährung von Schadenersatzansprüchen nach Absatz 1 gelten die Bestimmungen nach Artikel 65 Absätze 1 und 4 BZG.
+<sup>2</sup> Betreffend die Verjährung von Schadenersatzansprüchen nach Absatz 1 gelten die Bestimmungen nach Artikel 83 Absätze 1 und 4 BZG.[^12-1]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 13
 
@@ -163,4 +170,7 @@ Beschwerden gegen Verfügungen des BABS, die im Zusammenhang mit der Requisition
 
 <sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2023 verlängert.[^13-1]
 
+<sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2025 verlängert.[^13-2]
+
 [^13-1]: Eingefügt durch Ziff. I der V vom 27 Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 887](https://fedlex.data.admin.ch/eli/oc/2019/154)).
+[^13-2]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).

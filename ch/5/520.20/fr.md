@@ -4,11 +4,11 @@ title: "Ordonnance du 11 mars 2016 sur la réquisition de constructions protég�
 short: ORCPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/165"
 language: fr
-version: 2019-04-01
+version: 2024-01-01
 adopted: 2016-03-11
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/165/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-165-20190401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/165/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-165-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,21 +17,24 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20190401/fr"
 
 (ORCPL)
 
-du 11 mars 2016 (Etat le 1<sup>er</sup> avril 2019)
+du 11 mars 2016 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 75, al. 1, de la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile (LPPCi)[^ingress-1],
+vu la loi fédérale du 20 décembre 2019 sur la protection de la population et sur la protection civile (LPPCi)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 1
 
-**Objet**
+**Objet**[^1-1]
 
-La présente ordonnance régit la réquisition par la Confédérations et les cantons de constructions protégées selon l’art. 50 LPPCi et de lits dans les abris publics selon l’art. 46, al. 3, LPPCi pour la maîtrise de situations d’urgence en matière d’asile.
+La présente ordonnance régit la réquisition par la Confédération et les cantons de constructions protégées au sens de l’art. 67 LPPCi et de lits dans les abris publics au sens de l’art. 61, al. 3, LPPCi pour la maîtrise de situations d’urgence en matière d’asile.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 2
 
@@ -56,10 +59,12 @@ Les constructions protégées et les lits peuvent être réquisitionnés:
 
 - a. en cas de situation d’urgence en matière d’asile;
 - b. si aucune autre possibilité d’hébergement dans des conditions acceptables n’est disponible ou ne peut être mise à disposition à temps;
-- c. si des personnes astreintes au service de protection civile sont engagées selon l’art. 27, al. 1, let. a, ou al. 2, let. a, LPPCi pour la maîtrise de situations d’urgence en matière d’asile, et
+- c.[^3-1] si des personnes astreintes au service de protection civile sont engagées au sens de l’art. 46, al. 1, let. a, ou 2, LPPCi pour la maîtrise de situations d’urgence en matière d’asile, et
 - d. si les constructions protégées et les lits ne sont pas absolument nécessaires à la protection civile.
 
 <sup>2</sup> Les constructions protégées et les lits dont l’armée a besoin pour accomplir ses tâches ne peuvent pas faire l’objet d’une réquisition.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 4
 
@@ -153,7 +158,9 @@ Les recours contre les décisions que l’OFPP prend en lien avec la réquisitio
 
 <sup>1</sup> L’OFPP ou l’autorité compétente en matière de protection civile du canton concerné statue sur les demandes en dommages-intérêts en cas de dommage ou de perte de la construction protégée et des lits.
 
-<sup>2</sup> Le droit d’ouvrir une action en dommages-intérêts se prescrit selon les règles fixées à l’art. 65, al. 1 et 4, LPPCi.
+<sup>2</sup> Le droit d’ouvrir une action en dommages-intérêts se prescrit selon les règles fixées à l’art. 83, al. 1 et 4, LPPCi.[^12-1]
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
 
 #### Art. 13
 
@@ -163,4 +170,7 @@ Les recours contre les décisions que l’OFPP prend en lien avec la réquisitio
 
 <sup>2</sup> Sa durée de validité est prolongée jusqu’au 31 décembre 2023.[^13-1]
 
+<sup>3</sup> Sa durée de validité est prolongée jusqu’au 31 décembre 2025.[^13-2]
+
 [^13-1]: Introduit par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 887](https://fedlex.data.admin.ch/eli/oc/2019/154)).
+[^13-2]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 541](https://fedlex.data.admin.ch/eli/oc/2023/541)).
