@@ -4,13 +4,13 @@ number: "833.151"
 title: Verordnung über die Pflegefinanzierung
 short: PFV
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-14
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-26
 adopted: 2016-12-20
 in_force: 2017-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/833.151"
-pdf: "https://ar.clex.ch/api/de/versions/1370/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1510/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1370/pdf_file"
 
 (PFV)
 
-vom 20.12.2016 (Stand 01.01.2022)
+vom 20.12.2016 (Stand 01.01.2024)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -56,18 +56,18 @@ verordnet:
 
 <table>
 <tr><th>Pflegestufe</th><th>Pflegebedarf in Minuten</th><th>Franken je Tag</th></tr>
-<tr><td>1</td><td>bis 20</td><td>13.60</td></tr>
-<tr><td>2</td><td>21 - 40</td><td>37.80</td></tr>
-<tr><td>3</td><td>41 - 60</td><td>62.70</td></tr>
-<tr><td>4</td><td>61 - 80</td><td>87.50</td></tr>
-<tr><td>5</td><td>81 - 100</td><td>112.30</td></tr>
-<tr><td>6</td><td>101 - 120</td><td>137.10</td></tr>
-<tr><td>7</td><td>121 - 140</td><td>161.90</td></tr>
-<tr><td>8</td><td>141 - 160</td><td>186.80</td></tr>
-<tr><td>9</td><td>161 - 180</td><td>211.60</td></tr>
-<tr><td>10</td><td>181 - 200</td><td>236.40</td></tr>
-<tr><td>11</td><td>201 - 220</td><td>261.20</td></tr>
-<tr><td>12</td><td>mehr als 220</td><td>286.00</td></tr>
+<tr><td>1</td><td>bis 20</td><td>13.70</td></tr>
+<tr><td>2</td><td>21 - 40</td><td>39.70</td></tr>
+<tr><td>3</td><td>41 - 60</td><td>65.70</td></tr>
+<tr><td>4</td><td>61 - 80</td><td>91.70</td></tr>
+<tr><td>5</td><td>81 - 100</td><td>117.70</td></tr>
+<tr><td>6</td><td>101 - 120</td><td>143.70</td></tr>
+<tr><td>7</td><td>121 - 140</td><td>169.70</td></tr>
+<tr><td>8</td><td>141 - 160</td><td>195.70</td></tr>
+<tr><td>9</td><td>161 - 180</td><td>221.70</td></tr>
+<tr><td>10</td><td>181 - 200</td><td>247.70</td></tr>
+<tr><td>11</td><td>201 - 220</td><td>273.70</td></tr>
+<tr><td>12</td><td>mehr als 220</td><td>299.70</td></tr>
 </table>
 
 #### Art. 4
@@ -78,18 +78,18 @@ verordnet:
 
 <table>
 <tr><th>Pflegestufe</th><th>Pflegebedarf in Minuten</th><th>Franken je Tag</th></tr>
-<tr><td>1</td><td>bis 20</td><td>14.30</td></tr>
-<tr><td>2</td><td>21 - 40</td><td>39.70</td></tr>
-<tr><td>3</td><td>41 - 60</td><td>65.80</td></tr>
-<tr><td>4</td><td>61 - 80</td><td>91.90</td></tr>
-<tr><td>5</td><td>81 - 100</td><td>117.90</td></tr>
-<tr><td>6</td><td>101 - 120</td><td>144.00</td></tr>
-<tr><td>7</td><td>121 - 140</td><td>170.00</td></tr>
-<tr><td>8</td><td>141 - 160</td><td>196.10</td></tr>
-<tr><td>9</td><td>161 - 180</td><td>222.20</td></tr>
-<tr><td>10</td><td>181 - 200</td><td>248.20</td></tr>
-<tr><td>11</td><td>201 - 220</td><td>274.30</td></tr>
-<tr><td>12</td><td>mehr als 220</td><td>300.30</td></tr>
+<tr><td>1</td><td>bis 20</td><td>14.40</td></tr>
+<tr><td>2</td><td>21 - 40</td><td>41.70</td></tr>
+<tr><td>3</td><td>41 - 60</td><td>69.00</td></tr>
+<tr><td>4</td><td>61 - 80</td><td>96.30</td></tr>
+<tr><td>5</td><td>81 - 100</td><td>123.60</td></tr>
+<tr><td>6</td><td>101 - 120</td><td>150.90</td></tr>
+<tr><td>7</td><td>121 - 140</td><td>178.20</td></tr>
+<tr><td>8</td><td>141 - 160</td><td>205.50</td></tr>
+<tr><td>9</td><td>161 - 180</td><td>232.80</td></tr>
+<tr><td>10</td><td>181 - 200</td><td>260.10</td></tr>
+<tr><td>11</td><td>201 - 220</td><td>287.40</td></tr>
+<tr><td>12</td><td>mehr als 220</td><td>314.70</td></tr>
 </table>
 
 #### Art. 5
@@ -164,7 +164,7 @@ verordnet:
 <tr><th>Massnahme</th><th>Franken je Stunde</th></tr>
 <tr><td>Abklärung, Beratung und Koordination nach Art. 7 Abs. 2 lit. a KLV</td><td>121.80</td></tr>
 <tr><td>Untersuchung und Behandlung nach Art. 7 Abs. 2 lit. b KLV</td><td>112.30</td></tr>
-<tr><td>Grundpflege nach Art. 7 Abs. 2 lit. c KLV</td><td>97.00</td></tr>
+<tr><td>Grundpflege nach Art. 7 Abs. 2 lit. c KLV</td><td>100.40</td></tr>
 </table>
 
 <sup>2</sup> Für die von Leistungserbringern mit kommunalem Versorgungsauftrag erbrachten Pflegeleistungen gelten folgende Höchstansätze:
@@ -173,7 +173,7 @@ verordnet:
 <tr><th>Massnahme</th><th>Franken je Stunde</th></tr>
 <tr><td>Abklärung, Beratung und Koordination nach Art. 7 Abs. 2 lit. a KLV</td><td>145.50</td></tr>
 <tr><td>Untersuchung und Behandlung nach Art. 7 Abs. 2 lit. b KLV</td><td>134.20</td></tr>
-<tr><td>Grundpflege nach Art. 7 Abs. 2 lit. c KLV</td><td>115.90</td></tr>
+<tr><td>Grundpflege nach Art. 7 Abs. 2 lit. c KLV</td><td>120.00</td></tr>
 </table>
 
 <sup>3</sup> Für Leistungserbringer, die über keine standardisierte Kostenrechnung verfügen, gelten anstelle von Abs. 1 folgende Normansätze:
@@ -182,14 +182,12 @@ verordnet:
 <tr><th>Massnahme</th><th>Franken je Stunde</th></tr>
 <tr><td>Abklärung, Beratung und Koordination nach Art. 7 Abs. 2 lit. a KLV</td><td>97.40</td></tr>
 <tr><td>Untersuchung und Behandlung nach Art. 7 Abs. 2 lit. b KLV</td><td>89.90</td></tr>
-<tr><td>Grundpflege nach Art. 7 Abs. 2 lit. c KLV</td><td>77.60</td></tr>
+<tr><td>Grundpflege nach Art. 7 Abs. 2 lit. c KLV</td><td>80.30</td></tr>
 </table>
 
 #### Art. 12a
 
-**Mittel und Gegenstände**
-
-<sup>1</sup> Ungedeckte Kosten für Mittel und Gegenstände, die Teil der Pflegeleistung bilden, gehen zu Lasten der Gemeinde. Das Amt für Soziales kann Weisungen für eine einheitliche Vergütung erlassen.
+**…**
 
 #### Art. 13
 
