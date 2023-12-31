@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur la procédure d'approbation des plans 
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20230101/fr"
 
 (OPIE)
 
-du 2 février 2000 (État le 1<sup>er</sup> janvier 2023)
+du 2 février 2000 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -450,7 +450,11 @@ Si l’exécution d’un plan entreprise à temps est interrompue durant plus d�
 
 **Mise en service**
 
-L’entreprise doit notifier par écrit à l’inspection l’achèvement de l’installation et joindre une confirmation du constructeur mentionnant que l’installation correspond aux prescriptions de la législation et aux règles reconnues de la technique.
+<sup>1</sup> L’entreprise doit notifier par écrit à l’inspection l’achèvement de l’installation et joindre une confirmation du constructeur mentionnant que l’installation correspond aux prescriptions de la législation et aux règles reconnues de la technique.
+
+<sup>2</sup> Elle doit informer le service cantonal du cadastre de toute modification de l’installation rendant nécessaire une mise à jour de la mensuration officielle. Elle confirme l’avoir informé, au moyen de la notification visée à l’al.1.[^12-1]
+
+[^12-1]: Introduit par l’annexe ch. 11 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 13
 

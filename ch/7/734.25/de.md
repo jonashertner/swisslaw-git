@@ -4,11 +4,11 @@ title: Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für e
 short: VPeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -449,7 +449,11 @@ Wird die Ausführung eines rechtzeitig begonnenen Bauvorhabens für länger als 
 
 **Inbetriebnahme**
 
-Die Unternehmung muss die Fertigstellung der Anlage dem Inspektorat schriftlich mitteilen und eine Bestätigung des Erstellers beilegen, aus welcher hervorgeht, dass die Anlage den Anforderungen der Gesetzgebung und den anerkannten Regeln der Technik entspricht.
+<sup>1</sup> Die Unternehmung muss die Fertigstellung der Anlage dem Inspektorat schriftlich mitteilen und eine Bestätigung des Erstellers beilegen, aus welcher hervorgeht, dass die Anlage den Anforderungen der Gesetzgebung und den anerkannten Regeln der Technik entspricht.
+
+<sup>2</sup> Sie muss die kantonale Vermessungsaufsicht über Änderungen von Anlagen informieren, die eine Nachführung der amtlichen Vermessung notwendig machen. Sie bestätigt den Vollzug dieser Meldung mit der Mitteilung nach Absatz 1.[^12-1]
+
+[^12-1]: Eingefügt durch Anhang Ziff. 11 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 (AS **20****2****3** 529).
 
 #### Art. 13
 

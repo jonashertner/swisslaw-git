@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2000 sulla procedura d'approvazione dei piani d
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20230101/it"
 
 (OPIE)
 
-del 2 febbraio 2000 (Stato 1° gennaio 2023)
+del 2 febbraio 2000 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -64,8 +64,8 @@ Essa non è applicabile ai piani che concernono la costruzione e la modifica di:
 [^1-3]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^1-4]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
 [^1-5]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^1-6]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 12749, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653). [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
-[^1-7]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4. [RU 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Vedi ora l’O del 25 nov. 2015 sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
+[^1-6]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II, 12749; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653). [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^1-7]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 26; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 2, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 2; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4. [RU 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Vedi ora l’O del 25 nov. 2015 sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
 [^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
 ## Sezione 1*a*: Procedura del piano settoriale
@@ -448,7 +448,11 @@ Se l’esecuzione di un piano di costruzione iniziato entro i termini previsti �
 
 **Attivazione**
 
-L’impresa deve notificare per scritto all’Ispettorato il completamento dell’impianto e allegare una conferma del costruttore dalla quale risulti che l’impianto soddisfa i requisiti legali e le norme tecniche riconosciute.
+<sup>1</sup> L’impresa deve notificare per scritto all’Ispettorato il completamento dell’impianto e allegare una conferma del costruttore dalla quale risulti che l’impianto soddisfa i requisiti legali e le norme tecniche riconosciute.
+
+<sup>2</sup> Deve informare il servizio cantonale di vigilanza sulle misurazioni in merito a modifiche di impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale. Conferma l’esecuzione di tale informazione con la notifica secondo il capoverso 1.[^12-1]
+
+[^12-1]: Introdotto dall’all. n. 11 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 13
 
@@ -514,7 +518,7 @@ Le spese di pubblicazione della domanda sono a carico del richiedente. L’organ
 
 <sup>1</sup> L’ordinanza del 26 giugno 1991[^18-1] sulla procedura d’approvazione dei piani d’impianti a corrente forte è abrogata.
 
-[^18-1]: [[RU 1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476), [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)art. 15 n. 2, [1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)all. n. 4, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 3, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)II 19 [754](https://fedlex.data.admin.ch/eli/oc/1999/116)all. n. 2]
+[^18-1]: [[RU 1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476); [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)art. 15 n. 2; [1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)all. n. 4; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 3; [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)II 19, [754](https://fedlex.data.admin.ch/eli/oc/1999/116)all. n. 2]
 
 #### Art. 19
 
