@@ -4,13 +4,13 @@ number: "172.311"
 title: Standeskommissionsbeschluss zur Personalverordnung
 short: StKB PeV
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-04-11
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 1999-04-13
 in_force: 1999-04-13
 url: "https://ai.clex.ch/app/de/texts_of_law/172.311"
-pdf: "https://ai.clex.ch/api/de/versions/2217/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2254/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2217/pdf_file"
 
 (StKB PeV)
 
-vom 13.04.1999 (Stand 01.08.2023)
+vom 13.04.1999 (Stand 01.01.2024)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
