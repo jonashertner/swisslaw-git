@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Ordonnance du SEFRI du 16 août 2021 sur la formation professionnelle initiale d’employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: fr
-version: 2023-06-01
+version: 2024-01-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-495-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC)
 
-du 16 août 2021 (État le 1<sup>er</sup> juin 2023)
+du 16 août 2021 (État le 1<sup>er</sup> janvier 2024)
 
 <table>
 <tr><td>68800</td><td>Employée de commerce CFC / Employé de commerce CFC Kauffrau EFZ / Kaufmann EFZ Impiegata di commercio AFC / Impiegato di commercio AFC</td></tr>
@@ -378,21 +378,158 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:
 
 <sup>2</sup> Les contrôles de compétence sont sanctionnés par des notes. Celles-ci sont prises en compte pour le calcul de la note d’expérience.
 
-## Section 8 ...
+## Section 8 Procédures de qualification
 
-#### Art. 21 à 26
+#### Art. 21
 
-[^2126-1]
+**Admission**
 
-[^2126-1]: Entrent en vigueur le 1<sup>er</sup> janv. 2026 (art. 32, al.2).
+Est admise aux procédures de qualification la personne qui a suivi la formation professionnelle initiale:
 
-## Section 9 ...
+- a. conformément à la présente ordonnance;
+- b. dans une institution de formation accréditée par le canton, ou
+- c.
+
+  dans un autre cadre que celui d’une filière de formation réglementée et qui:
+
+  - 1\. a acquis l’expérience professionnelle nécessaire visée à l’art. 32 OFPr,
+  - 2\. a effectué 3 ans au minimum de cette expérience dans le domaine d’activité des employés de commerce CFC, et
+  - 3\. démontre qu’elle satisfait aux exigences des procédures de qualification.
+
+#### Art. 22
+
+**Objet**
+
+Les procédures de qualification visent à démontrer que les compétences opérationnelles décrites à l’art. 8 ont été acquises.
+
+#### Art. 23
+
+**Étendue et organisation de la procédure de qualification avec examen final**
+
+<sup>1</sup>
+
+La procédure de qualification avec examen final porte sur les compétences opérationnelles dans les domaines de qualification ci-après selon les modalités suivantes:
+
+- a.
+
+  travail pratique d’une durée de 50 minutes; les règles suivantes s’appliquent:
+
+  - 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
+  - 2\. le travail pratique a lieu dans la branche de formation et d’examens inscrite dans le contrat d’apprentissage,
+  - 3\. le domaine de qualification est évalué sous la forme d’une étude de cas spécifique à la branche,
+  - 4\. le domaine de qualification porte dans la mesure du possible sur tous les domaines de compétences opérationnelles,
+  - 5\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation;
+
+- b.
+
+  connaissances professionnelles et culture générale d’une durée de 4,75 heures; les règles suivantes s’appliquent:
+
+  - 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
+  - 2\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations et des durées suivantes selon les formes d’examen ci-dessous:
+
+<table>
+<tr><td>Point d’appréciation</td><td>Domaine de compétences opérationnelles</td><td colspan="2">Forme et durée d’examen</td><td>Pondération</td></tr>
+<tr><td></td><td></td><td>écrit</td><td>oral</td><td></td></tr>
+<tr><td>1</td><td>Travail au sein de structures d’activité et d’organisation dynamiques</td><td></td><td>30 min</td><td>20 %</td></tr>
+<tr><td>2</td><td>Interaction dans un milieu de travail interconnecté</td><td>75 min</td><td></td><td>20 %</td></tr>
+<tr><td>3</td><td>Coordination des processus de travail en entreprise</td><td>75 min</td><td></td><td>20 %</td></tr>
+<tr><td>4</td><td>Gestion des relations avec les clients et les fournisseurs</td><td></td><td>30 min</td><td>20 %</td></tr>
+<tr><td>5</td><td>Utilisation des technologies numériques du monde du travail</td><td>75 min</td><td></td><td>20 %</td></tr>
+</table>
+
+- 3\. la culture générale est régie par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^23-1]; elle fait l’objet d’un examen intégré au sein du domaine de qualification connaissances professionnelles et culture générale; le travail personnel d’approfondissement au sens de l’art. 10 de l’ordonnance précitée est présenté et évalué dans le cadre du point d’appréciation 1.
+
+<sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
+
+[^23-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 24
+
+**Conditions de réussite, calcul et pondération des notes**
+
+<sup>1</sup>
+
+La procédure de qualification avec examen final est réussie si les conditions suivantes sont réunies:
+
+- a. la note du domaine de qualification «travail pratique» est supérieure ou égale à 4;
+- b. la note du domaine de qualification «connaissances professionnelles et culture générale» est supérieure ou égale à 4;
+- c. la note globale est supérieure ou égale à 4.
+
+<sup>2</sup>
+
+La note globale correspond à la moyenne, arrondie à la première décimale, des notes pondérées des domaines de qualification de l’examen final et de la note d’expérience pondérée; la pondération suivante s’applique:
+
+- a. travail pratique: 30 %;
+- b. connaissances professionnelles et culture générale: 30 %;
+- c. note d’expérience: 40 %.
+
+<sup>3</sup>
+
+La note d’expérience correspond à la moyenne, arrondie à la première décimale, des notes ci-après pondérées de la manière suivante:
+
+- a. formation à la pratique professionnelle: 25 %;
+- b. enseignement des connaissances professionnelles et de la culture générale: 50 %;
+- c. cours interentreprises: 25 %.
+
+<sup>4</sup>
+
+Dans la maturité professionnelle en cours d’apprentissage, la note d’expérience correspond à la moyenne, arrondie à la première décimale, des notes ci-après pondérées de la manière suivante:
+
+- a. formation à la pratique professionnelle: 50 %;
+- b. cours interentreprises: 50 %.
+
+<sup>5</sup> La note de la formation à la pratique professionnelle correspond à la moyenne, arrondie à une note entière ou à une demi-note, des notes des contrôles de compétence.
+
+<sup>6</sup> La note de l’enseignement des connaissances professionnelles et de la culture générale correspond à la moyenne, arrondie à une note entière ou à une demi-note, des notes semestrielles globales au sens de l’art. 19, al. 2.
+
+<sup>7</sup> En cas d’abandon de la maturité professionnelle en cours d’apprentissage, la note de l’enseignement des connaissances professionnelles et de la culture générale correspond à la moyenne, arrondie à une note entière ou à une demi-note, des notes semestrielles globales au sens de l’art. 19, al. 2 obtenues après l’abandon.
+
+<sup>8</sup> La note des cours interentreprises correspond à la moyenne, arrondie à une note entière ou à une demi-note, des notes des 2 contrôles de compétence.
+
+#### Art. 25
+
+**Répétitions**
+
+<sup>1</sup> La répétition de la procédure de qualification est régie par l’art. 33 OFPr.
+
+<sup>2</sup> Si la note du domaine de qualification «travail pratique» est insuffisante, le domaine de qualification doit être répété dans sa globalité.
+
+<sup>3</sup> Si la note du domaine de qualification «connaissances professionnelles et culture générale» est insuffisante, seuls les points d’appréciation dont la note est insuffisante doivent être répétés.
+
+<sup>4</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus la formation à la pratique professionnelle, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau la formation à la pratique professionnelle pendant 2 semestres au minimum, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
+
+<sup>5</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus l’enseignement des connaissances professionnelles et de la culture générale, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau l’enseignement des connaissances professionnelles et de la culture générale pendant 2 semestres au minimum, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
+
+<sup>6</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus les cours interentreprises, l’ancienne note est prise en compte. Pour les personnes qui effectuent à nouveau les deux contrôles de compétence des cours interentreprises, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
+
+#### Art. 26
+
+**Qualifications acquises hors du cadre d’une filière de formation réglementée (cas particulier)**
+
+<sup>1</sup> Pour les personnes qui ont acquis les compétences opérationnelles requises hors du cadre de la formation professionnelle initiale réglementée et subi l’examen final régi par la présente ordonnance, il n’y a pas de note d’expérience.
+
+<sup>2</sup>
+
+Pour le calcul de la note globale, les notes sont pondérées de la manière suivante:
+
+- a. travail pratique: 50 %;
+- b. connaissances professionnelles et culture générale: 50 %;
+
+## Section 9 Certificat et titre
 
 #### Art. 27
 
-[^27-1]
+<sup>1</sup> La personne qui a réussi une procédure de qualification reçoit le certificat fédéral de capacité (CFC).
 
-[^27-1]: Entre en vigueur le 1<sup>er</sup> janv. 2026 (art. 32, al.2).
+<sup>2</sup> Le CFC autorise ses titulaires à porter le titre légalement protégé d’«employée de commerce CFC» / «employé de commerce CFC».
+
+<sup>3</sup>
+
+Si le CFC a été obtenu selon la procédure de qualification avec examen final, le bulletin de notes mentionne:
+
+- a. la note globale;
+- b. les notes de chaque domaine de qualification de l’examen final et, sous réserve de l’art. 26, al. 1, la note d’expérience;
+- c. la branche de formation et d’examens.
 
 ## Section 10 Développement de la qualité et organisation
 
@@ -461,13 +598,17 @@ L’ordonnance du SEFRI du 26 septembre 2011 sur la formation professionnelle in
 
 <sup>3</sup> Les candidats qui répètent la procédure de qualification avec examen final d’employé de commerce CFC jusqu’au 31 décembre 2027 et les candidats qui répètent la procédure de qualification avec examen final d’employé de commerce CFC dans le cadre d’une filière de formation en 4 ans dans une école de commerce jusqu’au 31 décembre 2028 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont évalués selon le nouveau droit.
 
+<sup>4</sup> Les dispositions relatives aux procédures de qualification, au certificat et au titre (art. 21 à 27) sont applicables au 1<sup>er</sup> janvier 2026.[^31-1]
+
+[^31-1]: Introduit par le ch. I de l’O du SEFRI du 5 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
+
 #### Art. 32
 
-**Entrée en vigueur**
+**Entrée en vigueur**[^32-1]
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2023, sous réserve de l’al. 2.
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2023.
 
-<sup>2</sup> Les art. 21 à 27 entrent en vigueur le 1<sup>er</sup> janvier 2026.
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 5 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
 
 Annexe 1
 

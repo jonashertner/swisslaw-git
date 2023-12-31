@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Ordinanza della SEFRI del 16 agosto 2021 sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: it
-version: 2023-06-01
+version: 2024-01-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-495-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con attestato federale di capacità (AFC)
 
-del 16 agosto 2021 (Stato 1° giugno 2023)
+del 16 agosto 2021 (Stato 1° gennaio 2024)
 
 <table>
 <tr><td>68800</td><td>Impiegata di commercio AFC / Impiegato di commercio AFC Kauffrau EFZ/Kaufmann EFZ Employée de commerce CFC / Employé de commerce CFC</td></tr>
@@ -197,6 +197,7 @@ Lo sviluppo delle competenze operative è obbligatorio per tutte le persone in f
 
 - a. competenza operativa c.6: per l’opzione finanze;
 - b. competenza operativa d.5: per l’opzione comunicazione nella lingua nazionale;
+
 - c. competenza operativa d.6: per l’opzione comunicazione nella lingua straniera;
 - d. competenze operative e.5 ed e.6: per l’opzione tecnologia.
 
@@ -378,21 +379,158 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>2</sup> I controlli delle competenze sono espressi in note. Queste confluiscono nel calcolo della nota dei luoghi di formazione.
 
-## Sezione 8: ...
+## Sezione 8: Procedure di qualificazione
 
-#### Art. 21 a 26
+#### Art. 21
 
-[^2126-1]
+**Ammissione**
 
-[^2126-1]: In vigore dal 1° gen. 2026 (vedi art. 32 cpv. 2).
+È ammesso alle procedure di qualificazione chi ha concluso la formazione professionale di base:
 
-## Sezione 9: ...
+- a. secondo le disposizioni della presente ordinanza;
+- b. in un istituto di formazione riconosciuto dal Cantone; o
+- c.
+
+  al di fuori di un ciclo di formazione regolamentato, se:
+
+  - 1\. ha maturato l’esperienza professionale di cui all’articolo 32 OFPr,
+  - 2\. ha svolto almeno tre anni di tale esperienza nel campo dell’impiegato di commercio AFC, e
+  - 3\. rende verosimile il possesso dei requisiti per la rispettiva procedura di qualificazione.
+
+#### Art. 22
+
+**Oggetto**
+
+Nelle procedure di qualificazione occorre dimostrare di aver acquisito le competenze operative di cui all’articolo 8.
+
+#### Art. 23
+
+**Durata e svolgimento della procedura di qualificazione con esame finale**
+
+<sup>1</sup>
+
+Nella procedura di qualificazione con esame finale sono esaminate, nel modo sotto indicato, le competenze operative nei campi di qualificazione seguenti:
+
+- a.
+
+  «lavoro pratico» della durata di 50 minuti; vale quanto segue:
+
+  - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
+  - 2\. il lavoro pratico si svolge nel ramo di formazione e d’esame stabilito nel contratto di tirocinio,
+  - 3\. il campo di qualificazione è esaminato sotto forma di caso di studio specifico del ramo,
+  - 4\. di norma, il campo di qualificazione comprende tutti i campi di competenze operative,
+  - 5\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione;
+
+- b.
+
+  conoscenze professionali e cultura generale, della durata di 4,75 ore; vale quanto segue:
+
+  - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
+  - 2\. il campo di qualificazione comprende i campi di competenze operative e i tipi di esame sottoelencati, con la durata e le ponderazioni seguenti:
+
+<table>
+<tr><td>Voce</td><td>Campi di competenze operative</td><td colspan="2">Forma d’esame e durata</td><td>Ponderazione</td></tr>
+<tr><td></td><td></td><td>scritto</td><td>orale</td><td></td></tr>
+<tr><td>1</td><td>Forme lavorative e organizzative agili</td><td></td><td>30 min.</td><td>20 %</td></tr>
+<tr><td>2</td><td>Interazione in un campo lavorativo interconnesso</td><td>75 min.</td><td></td><td>20 %</td></tr>
+<tr><td>3</td><td>Coordinamento dei processi lavorativi imprenditoriali</td><td>75 min.</td><td></td><td>20 %</td></tr>
+<tr><td>4</td><td>Creazione di relazioni con i clienti o i fornitori</td><td></td><td>30 min.</td><td>20 %</td></tr>
+<tr><td>5</td><td>Utilizzo delle tecnologie del mondo del lavoro digitale</td><td>75 min.</td><td></td><td>20 %</td></tr>
+</table>
+
+- 3\. alla cultura generale si applica l’ordinanza della SEFRI del 27 aprile 2006[^23-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base; la cultura generale è valutata in modo integrato nel campo di qualificazione «conoscenze professionali e cultura generale»; il lavoro d’approfondimento di cui all’articolo 10 dell’ordinanza summenzionata è presentato e valutato nella voce 1.
+
+<sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^23-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 24
+
+**Superamento della procedura di qualificazione, calcolo e ponderazione delle note**
+
+<sup>1</sup>
+
+La procedura di qualificazione con esame finale è superata se:
+
+- a. per il campo di qualificazione «lavoro pratico» è attribuito almeno il 4;
+- b. per il campo di qualificazione «conoscenze professionali e cultura generale» è attribuito almeno il 4; e
+- c. la nota complessiva raggiunge almeno il 4.
+
+<sup>2</sup>
+
+La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata dei luoghi di formazione; vale la seguente ponderazione:
+
+- a. lavoro pratico: 30 per cento;
+- b. conoscenze professionali e cultura generale: 30 per cento;
+- c. nota dei luoghi di formazione: 40 per cento.
+
+<sup>3</sup>
+
+Per nota dei luoghi di formazione si intende la media arrotondata a un decimale della somma delle note sottoelencate con la ponderazione seguente:
+
+- a. nota relativa alla formazione professionale pratica: 25 per cento;
+- b. nota relativa all’insegnamento delle conoscenze professionali e della cultura generale: 50 per cento;
+- c. nota relativa ai corsi interaziendali: 25 per cento.
+
+<sup>4</sup>
+
+Nella maturità professionale svolta parallelamente al tirocinio per nota dei luoghi di formazione si intende la media arrotondata a un decimale della somma delle note sottoelencate con la ponderazione seguente:
+
+- a. nota relativa alla formazione professionale pratica: 50 per cento;
+- b. nota relativa ai corsi interaziendali: 50 per cento.
+
+<sup>5</sup> Per nota relativa alla formazione professionale pratica si intende la media arrotondata al punto o al mezzo punto delle note conseguite nei controlli delle competenze.
+
+<sup>6</sup> Per nota relativa all’insegnamento delle conoscenze professionali e della cultura generale si intende la media arrotondata al punto o al mezzo punto della somma di tutte le note delle pagelle semestrali di cui all’articolo 19 capoverso 2.
+
+<sup>7</sup> In caso di interruzione della maturità professionale svolta parallelamente al tirocinio per nota relativa all’insegnamento delle conoscenze professionali e della cultura generale si intende la nota arrotondata al punto o al mezzo punto della somma di tutte le note delle pagelle semestrali di cui all’articolo 19 capoverso 2 conseguite dopo l’interruzione.
+
+<sup>8</sup> Per nota relativa ai corsi interaziendali si intende la media arrotondata al punto o al mezzo punto della somma delle note conseguite nei due controlli delle competenze.
+
+#### Art. 25
+
+**Ripetizioni**
+
+<sup>1</sup> La ripetizione della procedura di qualificazione è disciplinata dall’articolo 33 OFPr.
+
+<sup>2</sup> Qualora la nota del campo di qualificazione «lavoro pratico» sia insufficiente, il campo di qualificazione va ripetuto interamente.
+
+<sup>3</sup> Qualora la nota del campo di qualificazione «conoscenze professionali e cultura generale» sia insufficiente, devono essere ripetute soltanto le voci in cui è stata conseguita una nota insufficiente.
+
+<sup>4</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente la formazione professionale pratica, resta valida la nota conseguita in precedenza. Se si ripetono almeno due semestri di formazione professionale pratica, per il calcolo della nota dei luoghi di formazione fanno stato soltanto le nuove note.
+
+<sup>5</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente l’insegnamento delle conoscenze professionali e della cultura generale, resta valida la nota conseguita in precedenza. Se si ripetono almeno due semestri di insegnamento delle conoscenze professionali e della cultura generale, per il calcolo della nota dei luoghi di formazione fanno stato soltanto le nuove note.
+
+<sup>6</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente i corsi interaziendali, resta valida la nota conseguita in precedenza. Se sono elaborati due nuovi controlli delle competenze in corsi interaziendali, per il calcolo della nota dei luoghi di formazione fanno stato soltanto le nuove note.
+
+#### Art. 26
+
+**Qualifiche acquisite al di fuori di un ciclo di formazione regolamentato (caso particolare)**
+
+<sup>1</sup> Per i candidati che hanno acquisito le competenze operative necessarie al di fuori di un ciclo di formazione regolamentato e che hanno sostenuto l’esame finale secondo la presente ordinanza viene meno la nota dei luoghi di formazione.
+
+<sup>2</sup>
+
+In questo caso, per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
+
+- a. lavoro pratico: 50 per cento;
+- b. conoscenze professionali e cultura generale: 50 per cento.
+
+## Sezione 9: Attestazioni e titolo
 
 #### Art. 27
 
-[^27-1]
+<sup>1</sup> Chi ha superato la procedura di qualificazione consegue l’attestato federale di capacità (AFC).
 
-[^27-1]: In vigore dal 1° gen. 2026 (vedi art. 32 cpv. 2).
+<sup>2</sup> L’attestato federale di capacità conferisce il diritto di avvalersi del titolo legalmente protetto di «impiegata di commercio AFC» / «impiegato di commercio AFC».
+
+<sup>3</sup>
+
+Se l’attestato federale di capacità è stato conseguito mediante procedura di qualificazione con esame finale, nel certificato delle note sono riportate:
+
+- a. la nota complessiva;
+- b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 26 capoverso 1, la nota dei luoghi di formazione.
+- c. il ramo di formazione e d’esame.
 
 ## Sezione 10: Sviluppo della qualità e organizzazione
 
@@ -461,13 +599,17 @@ L’ordinanza della SEFRI del 26 settembre 2011[^30-1] sulla formazione professi
 
 <sup>3</sup> I candidati che ripetono la procedura di qualificazione con esame finale per impiegati di commercio AFC entro il 31 dicembre 2027 oppure in un ciclo di formazione quadriennale presso una scuola media di commercio o di economia entro il 31 dicembre 2028 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
 
+<sup>4</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 21–27) si applicano dal 1° gennaio 2026.[^31-1]
+
+[^31-1]: Introdotto dal n. I dell’O della SEFRI del 5 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
+
 #### Art. 32
 
-**Entrata in vigore**
+**Entrata in vigore**[^32-1]
 
-<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° gennaio 2023.
+La presente ordinanza entra in vigore il 1° gennaio 2023.
 
-<sup>2</sup> Gli articoli da 21 a 27 entrano in vigore il 1° gennaio 2026.
+[^32-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 5 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
 
 Allegato 1
 

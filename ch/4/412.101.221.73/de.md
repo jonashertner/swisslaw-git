@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Verordnung des SBFI vom 16. August 2021 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: de
-version: 2023-06-01
+version: 2024-01-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-495-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 16. August 2021 (Stand am 1. Juni 2023)
+vom 16. August 2021 (Stand am 1. Januar 2024)
 
 <table>
 <tr><td>68800</td><td>Kauffrau EFZ / Kaufmann EFZ Employée de commerce CFC / Employé de commerce CFC Impiegata di commercio AFC / Impiegato di commercio AFC</td></tr>
@@ -378,21 +378,158 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 
 <sup>2</sup> Die Kompetenznachweise werden in Noten ausgedrückt. Diese fliessen in die Berechnung der Erfahrungsnote ein.
 
-## 8. Abschnitt: …
+## 8. Abschnitt: Qualifikationsverfahren
 
-#### Art. 21–26
+#### Art. 21
 
-[^2126-1]
+**Zulassung**
 
-[^2126-1]: Treten am 1. Jan. 2026 in Kraft (Art. 32 Abs. 2).
+Zu den Qualifikationsverfahren wird zugelassen, wer die berufliche Grundbildung absolviert hat:
 
-## 9. Abschnitt: …
+- a. nach den Bestimmungen dieser Verordnung;
+- b. in einer vom Kanton dafür anerkannten Bildungsinstitution; oder
+- c.
+
+  ausserhalb eines geregelten Bildungsganges und:
+
+  - 1\. die nach Artikel 32 BBV erforderliche Erfahrung erworben hat,
+  - 2\. von dieser beruflichen Erfahrung mindestens drei Jahre im Bereich der Kauffrau EFZ oder des Kaufmanns EFZ erworben hat, und
+  - 3\. glaubhaft macht, den Anforderungen der jeweiligen Qualifikationsverfahren gewachsen zu sein.
+
+#### Art. 22
+
+**Gegenstand**
+
+In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen nach Artikel 8 erworben worden sind.
+
+#### Art. 23
+
+**Umfang und Durchführung des Qualifikationsverfahrens mit Abschlussprüfung**
+
+<sup>1</sup>
+
+Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen in den nachstehenden Qualifikationsbereichen wie folgt geprüft:
+
+- a.
+
+  praktische Arbeit im Umfang von 50 Minuten; dafür gilt Folgendes:
+
+  - 1\. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft.
+  - 2\. Die praktische Arbeit erfolgt in der im Lehrvertrag festgelegten Ausbildungs- und Prüfungsbranche.
+  - 3\. Der Qualifikationsbereich wird in der Form einer branchenspezifischen Fallarbeit geprüft.
+  - 4\. Er umfasst möglichst alle Handlungskompetenzbereiche.
+  - 5\. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen.
+
+- b.
+
+  Berufskenntnisse und Allgemeinbildung im Umfang von 4,75 Stunden; dafür gilt Folgendes:
+
+  - 1\. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft.
+  - 2\. Der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche mit den nachstehenden Prüfungsformen in nachstehender Dauer und mit den nachstehenden Gewichtungen:
+
+<table>
+<tr><td>Position</td><td>Handlungskompetenzbereiche</td><td colspan="2">Prüfungsform und Dauer</td><td>Gewichtung</td></tr>
+<tr><td></td><td></td><td>schriftlich</td><td>mündlich</td><td></td></tr>
+<tr><td>1</td><td>Handeln in agilen Arbeits- und Organisationsformen</td><td></td><td>30 Min.</td><td>20 %</td></tr>
+<tr><td>2</td><td>Interagieren in einem vernetzten Arbeitsumfeld</td><td>75 Min.</td><td></td><td>20 %</td></tr>
+<tr><td>3</td><td>Koordinieren von unternehmerischen Arbeitsprozessen</td><td>75 Min</td><td></td><td>20 %</td></tr>
+<tr><td>4</td><td>Gestalten von Kunden- oder Lieferantenbeziehungen</td><td></td><td>30 Min.</td><td>20 %</td></tr>
+<tr><td>5</td><td>Einsetzen von Technologien der digitalen Arbeitswelt</td><td>75 Min.</td><td></td><td>20 %</td></tr>
+</table>
+
+- 3\. Für die Allgemeinbildung gilt die Verordnung des SBFI vom 27. April 2006[^23-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung; sie wird integriert im Qualifikationsbereich Berufskenntnisse und Allgemeinbildung geprüft; die Vertiefungsarbeit gemäss Artikel 10 der Verordnung über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung wird in der Position 1 präsentiert und bewertet.
+
+<sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
+
+[^23-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 24
+
+**Bestehen, Notenberechnung, Notengewichtung**
+
+<sup>1</sup>
+
+Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
+
+- a. der Qualifikationsbereich «praktische Arbeit» mindestens mit der Note 4 bewertet wird;
+- b. der Qualifikationsbereich «Berufskenntnisse und Allgemeinbildung» mindestens mit der Note 4 bewertet wird; und
+- c. die Gesamtnote mindestens 4 beträgt.
+
+<sup>2</sup>
+
+Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der gewichteten Noten der einzelnen Qualifikationsbereiche der Abschlussprüfung und der gewichteten Erfahrungsnote; dabei gilt folgende Gewichtung:
+
+- a. praktische Arbeit: 30 %;
+- b. Berufskenntnisse und Allgemeinbildung: 30 %;
+- c. Erfahrungsnote: 40 %.
+
+<sup>3</sup>
+
+Die Erfahrungsnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der folgenden Noten mit nachstehender Gewichtung:
+
+- a. Note für die Bildung in beruflicher Praxis: 25 %;
+- b. Note für den Unterricht in den Berufskenntnissen und in der Allgemeinbildung: 50 %;
+- c. Note für die überbetrieblichen Kurse: 25 %.
+
+<sup>4</sup>
+
+In der lehrbegleitenden Berufsmaturität ist die Erfahrungsnote das auf eine Dezimalstelle gerundete Mittel aus der Summe der folgenden Noten mit nachstehender Gewichtung:
+
+- a. Note für die Bildung in beruflicher Praxis: 50 %;
+- b. Note für die überbetrieblichen Kurse: 50 %.
+
+<sup>5</sup> Die Note für die Bildung in beruflicher Praxis ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der benoteten Kompetenznachweise.
+
+<sup>6</sup> Die Note für den Unterricht in Berufskenntnissen und Allgemeinbildung ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der gesamthaften Semesterzeugnisnoten gemäss Artikel 19 Absatz 2.
+
+<sup>7</sup> Bei vorzeitiger Beendigung der lehrbegleitenden Berufsmaturität ist die Note für den Unterricht in Berufskenntnissen und Allgemeinbildung das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der nach der Beendigung erreichten gesamthaften Semesterzeugnisnoten gemäss Artikel 19 Absatz 2.
+
+<sup>8</sup> Die Note für die überbetrieblichen Kurse ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der zwei benoteten Kompetenznachweise.
+
+#### Art. 25
+
+**Wiederholungen**
+
+<sup>1</sup> Die Wiederholung des Qualifikationsverfahrens richtet sich nach Artikel 33 BBV.
+
+<sup>2</sup> Ist die Note des Qualifikationsbereiches «praktische Arbeit» ungenügend, so ist er in seiner Gesamtheit zu wiederholen.
+
+<sup>3</sup> Ist die Note des Qualifikationsbereiches «Berufskenntnisse und Allgemeinbildung» ungenügend, so sind nur die mit einer ungenügenden Note absolvierten Positionen zu wiederholen.
+
+<sup>4</sup> Wird die Abschlussprüfung ohne erneute Bildung in beruflicher Praxis wiederholt, so wird die bisherige Note beibehalten. Wird die Bildung in beruflicher Praxis während mindestens zwei Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+
+<sup>5</sup> Wird die Abschlussprüfung ohne erneuten Besuch des Unterrichts in den Berufskenntnissen und in der Allgemeinbildung wiederholt, so wird die bisherige Note beibehalten. Wird der Unterricht in den Berufskenntnissen und in der Allgemeinbildung während mindestens zwei Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+
+<sup>6</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so wird die bisherige Note beibehalten. Werden zwei neue Kompetenznachweise in überbetrieblichen Kursen erarbeitet, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+
+#### Art. 26
+
+**Qualifikationen ausserhalb eines geregelten Bildungsganges (Spezialfall)**
+
+<sup>1</sup> Hat eine kandidierende Person die erforderlichen Handlungskompetenzen ausserhalb der geregelten beruflichen Grundbildung erworben und die Abschlussprüfung nach dieser Verordnung absolviert, so entfällt die Erfahrungsnote.
+
+<sup>2</sup>
+
+Für die Berechnung der Gesamtnote werden in diesem Fall die einzelnen Noten wie folgt gewichtet:
+
+- a. praktische Arbeit: 50 %;
+- b. Berufskenntnisse und Allgemeinbildung: 50 %.
+
+## 9. Abschnitt: Ausweise und Titel
 
 #### Art. 27
 
-[^27-1]
+<sup>1</sup> Wer ein Qualifikationsverfahren erfolgreich durchlaufen hat, erhält das eidgenössische Fähigkeitszeugnis (EFZ).
 
-[^27-1]: Tritt am 1. Jan. 2026 in Kraft (Art. 32 Abs. 2).
+<sup>2</sup> Das Fähigkeitszeugnis berechtigt, den gesetzlich geschützten Titel «Kauffrau EFZ» oder «Kaufmann EFZ» zu führen.
+
+<sup>3</sup>
+
+Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung erworben worden, so werden im Notenausweis aufgeführt:
+
+- a. die Gesamtnote;
+- b. die Noten jedes Qualifikationsbereichs der Abschlussprüfung sowie, unter dem Vorbehalt von Artikel 26 Absatz 1, die Erfahrungsnote;
+- c. die Ausbildungs- und Prüfungsbranche.
 
 ## 10. Abschnitt: Qualitätsentwicklung und Organisation
 
@@ -461,13 +598,17 @@ Die Verordnung des SBFI vom 26. September 2011[^30-1] über die berufliche Grund
 
 <sup>3</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Kauffrau oder Kaufmann EFZ bis zum 31. Dezember 2027 beziehungsweise in einem vierjährigen Bildungsgang in einer Handelsmittelschule oder in einer Wirtschaftsmittelschule bis zum 31. Dezember 2028 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
 
+<sup>4</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 21−27) kommen ab dem 1. Januar 2026 zur Anwendung.[^31-1]
+
+[^31-1]: Eingefügt durch Ziff. I der V des SBFI vom 5. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
+
 #### Art. 32
 
-**Inkrafttreten**
+**Inkrafttreten**[^32-1]
 
-<sup>1</sup> Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Januar 2023 in Kraft.
+Diese Verordnung tritt am 1. Januar 2023 in Kraft.
 
-<sup>2</sup> Die Artikel 21–27 treten am 1. Januar 2026 in Kraft.
+[^32-1]: Fassung gemäss Ziff. I der V des SBFI vom 5. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
 
 Anhang 1
 
