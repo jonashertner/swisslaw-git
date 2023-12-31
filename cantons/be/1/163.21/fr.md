@@ -4,13 +4,12 @@ number: "163.21"
 title: Règlement de gestion du Tribunal régional Jura-bernois-Seeland
 short: RG TR JBS
 language: fr
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-11-05
+version: 2024-01-01
+version_adopted: 2023-11-08
 adopted: 2010-08-30
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/163.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1113/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3069/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1113/pdf_file"
 
 (RG TR JBS)
 
-du 30.08.2010 (état au 01.01.2015)
+du 30.08.2010 (état au 01.01.2024)
 
 Le Tribunal régional du Jura bernois-Seeland,
 
@@ -37,7 +36,7 @@ décide:
 
 <sup>1</sup> Le Tribunal régional est indépendant dans l’exercice de ses compétences juridictionnelles et n’est soumis qu’au droit.
 
-<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction de la magistrature et de la Cour suprême, il s'administre lui-même.
+<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction administrative de la magistrature et de la Cour suprême, il s'administre lui-même.
 
 <sup>3</sup> Si nécessaire, les organes de la direction du tribunal se concertent avec ceux des autres autorités judiciaires civiles et pénales de la région du Jura bernois-Seeland ainsi qu’avec la Cour suprême.
 
@@ -47,13 +46,13 @@ décide:
 
 **Principes de l'autoadministration**
 
-<sup>1</sup> Les organes de direction respectent par analogie les principes visant à mettre l'accent sur la direction stratégique, les prestations et les coûts selon l'article 3, alinéas 2, 4 et 5 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^1a-1].
+<sup>1</sup> Les organes de direction respectent par analogie les principes généraux visant à mettre l'accent sur le pilotage des finances et des prestations selon l'article 3 de la loi du 15 juin 2022 sur les finances (LFin)[^1a-1].
 
 <sup>2</sup> Le Tribunal régional applique à l'interne comme à l'externe le principe de la transparence et du droit à l'information, tout en respectant le secret de fonction et la protection des données.
 
 <sup>3</sup> Dans la mesure du possible, il est tenu compte des critères linguistiques dans la communication et la répartition des responsabilités au sein du Tribunal régional.
 
-[^1a-1]: RSB 620.0
+[^1a-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 #### Art. 1b
 
@@ -101,7 +100,7 @@ décide:
 
 - a le chef ou la cheffe de la section pénale pour une période de trois ans;
 - b le chef ou la cheffe de la section civile pour une période de trois ans;
-- c le représentant ou la représentante de l'agence du Jura bernois et son suppléant ou sa suppléante pour une période de trois ans;
+- c le représentant ou la représentante de l'agence du Jura bernois pour une période de trois ans;
 - d le suppléant ou la suppléante du ou de la juge en chef pour une période de trois ans, celui-ci ou celle-ci devant être le chef ou la cheffe d'une section ou le représentant ou la représentante de l'agence du Jura bernois;
 - e le greffier ou la greffière en chef pour une période de trois ans.
 
@@ -166,8 +165,8 @@ décide:
 - c la nomination d’un suppléant ou d’une suppléante du ou de la responsable des ressources, ainsi que du greffier ou de la greffière en chef suppléant ou suppléante;
 - d les ressources humaines du Tribunal régional, en particulier l'engagement du personnel, son affectation aux sections et à l'agence du Jura bernois ainsi que l'aide ponctuelle à d'autres sections et à l'agence du Jura bernois;
 - e la surveillance du fonctionnement du secrétariat;
-- f la décision d’affecter des juges pour prêter main-forte à d’autres sections et autorités;
-- g la demande d’aide à d’autres autorités;
+- f la décision d’affecter des juges pour prêter main-forte à d’autres sections;
+- g la demande d’aide, désignée par la Cour suprême, à d’autres autorités;
 - h le règlement de la suppléance entre les présidents et présidentes du Tribunal régional;
 - i la définition des principes régissant l’enregistrement, la gestion et l’archivage des dossiers;
 - k la garantie d’une formation continue adaptée aux besoins;
@@ -208,9 +207,9 @@ décide:
 <sup>1</sup> Le ou la juge en chef du directoire veille à la marche régulière des affaires du Tribunal régional. Il lui incombe en particulier les tâches suivantes:
 
 - a la convocation et la présidence des séances du directoire et de la conférence des juges;
-- b la représentation des autorités judiciaires civiles et pénales ayant leur siège dans la région du Jura bernois-Seeland au sein du directoire élargi;
+- b la représentation des autorités judiciaires civiles et pénales ayant leur siège dans la région du Jura bernois-Seeland au sein du directoire élargi de la Cour suprême;
 - c la représentation du Tribunal régional à l’extérieur;
-- d la conduite des entretiens annuels avec les chefs ou cheffes de section ainsi qu'avec le représentant ou la représentante de l'agence du Jura bernois;
+- d la conduite des entretiens de bilan avec les chefs ou cheffes de section ainsi qu'avec le représentant ou la représentante de l'agence du Jura bernois;
 - e la conduite d'autres entretiens annuels avec des juges au besoin et d'entente avec les chefs ou cheffes de section ou le représentant ou la représentante de l'agence du Jura bernois;
 - f la direction du greffier ou de la greffière en chef ainsi que du ou de la responsable des ressources.
 
@@ -234,9 +233,9 @@ décide:
 
 #### Art. 14
 
-**Suppléant ou suppléante**
+**Suppléants ou suppléantes**
 
-<sup>1</sup> Le suppléant ou la suppléante du greffier ou de la greffière en chef appartient dans la mesure du possible à une autre section ou à l’autre groupe linguistique.
+<sup>1</sup> Le greffier ou la greffière en chef a un ou deux suppléants ou suppléantes. Un ou une d’entre eux appartient dans la mesure du possible à l’autre groupe linguistique.
 
 ### 2.5 Responsable des ressources
 
@@ -280,9 +279,26 @@ décide:
 
 #### Art. 18
 
-<sup>1</sup> Le ou la juge en chef du directoire est seule compétente pour autoriser les dépenses jusqu'à concurrence de 10 000 francs.
+**Compétences financières pour les tâches administratives**
 
-<sup>2</sup> Le greffier ou la greffière en chef ainsi que le ou la responsable des ressources sont seuls compétents pour autoriser les dépenses jusqu’à concurrence de 4 000 francs.
+<sup>1</sup> Le ou la juge en chef du directoire et le ou la responsable des ressources autorisent les dépenses pour les tâches administratives jusqu'à concurrence de 30'000 francs, chacun dans sa propre compétence. Une délégation à d’autres membres du directoire est possible.
+
+<sup>2</sup> Les dépenses supérieures à 30'000 francs sont soumises à autorisation du directoire de la Cour suprême.
+
+#### Art. 18a
+
+**Compétences financières pour les procédures en matière civile et pénale**
+
+<sup>1</sup> Pour les dépenses liées aux procédures en matière civile et pénale, la validation financière des pièces comptables vaut autorisation de dépenses, quel que soit le montant (art. 31, al. 1, lit. e de l’ordonnance du 16.11.2022 sur les finances [OFin][^18a-1]).
+
+<sup>2</sup> La direction de la procédure est compétente pour l’examen matériel des dépenses. Si la validation financière des pièces comptables d’une dépense lui incombe, le greffier ou la greffière ou le ou la secrétaire de tribunal compétente dans la procédure concernée se charge de l’examen matériel.
+
+<sup>3</sup> La validation financière des pièces comptables est effectuée
+
+- a pour les dépenses jusqu’à 30'000 francs, par un membre du directoire,
+- b pour les dépenses supérieures à 30'000 francs, par le ou la juge en chef du directoire ou par son suppléant ou sa suppléante.
+
+[^18a-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 ### 2.8 Information
 
@@ -292,9 +308,9 @@ décide:
 
 <sup>1</sup> Les organes de la direction du tribunal informent de manière appropriée les juges ainsi que le reste du personnel sur leurs activités.
 
-<sup>2</sup> Les procès-verbaux des séances de la conférence des juges et du directoire sont portés à la connaissance des juges ordinaires. Dans des cas déterminés, il peut être dérogé à cette règle pour des motifs de protection de la personnalité ou pour des raisons de service impérieuses.
+<sup>2</sup> Les procès-verbaux des séances de la conférence des juges et du directoire sont portés à la connaissance des juges ordinaires ainsi que du personnel. Dans des cas déterminés, il peut être dérogé à cette règle pour des motifs de protection de la personnalité ou pour des raisons de service impérieuses.
 
-<sup>3</sup> Des extraits des procès-verbaux peuvent être remis au personnel.
+<sup>3</sup> …
 
 #### Art. 20
 
@@ -332,9 +348,9 @@ décide:
 
 <sup>3</sup> Il ou elle veille à une répartition équilibrée de la charge de travail au sein de la section.
 
-<sup>4</sup> Il ou elle conduit les entretiens annuels avec les juges occupés dans sa section au siège du Tribunal régional.
+<sup>4</sup> Il ou elle conduit les entretiens de bilan avec les juges occupés dans sa section au siège du Tribunal régional.
 
-<sup>5</sup> Le représentant ou la représentante de l'agence du Jura bernois conduit les entretiens annuels avec les juges de celle-ci.
+<sup>5</sup> Le représentant ou la représentante de l'agence du Jura bernois conduit les entretiens de bilan avec les juges de celle-ci.
 
 #### Art. 23
 
@@ -344,7 +360,7 @@ décide:
 
 <sup>2</sup> Les juges de l'agence du Jura bernois participent aux séances des sections civile et pénale.
 
-<sup>3</sup> Le greffier ou la greffière en chef et la direction du secrétariat assistent aux séances avec voix consultative.
+<sup>3</sup> Le greffier ou la greffière en chef ou son suppléant ou sa suppléante et la direction du secrétariat assistent aux séances avec voix consultative.
 
 <sup>4</sup> La conférence de section est compétente pour
 

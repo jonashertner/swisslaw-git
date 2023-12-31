@@ -4,13 +4,12 @@ number: "163.21"
 title: Geschäftsreglement des Regionalgerichts Berner Jura-Seeland
 short: GeschR RG BJS
 language: de
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-11-05
+version: 2024-01-01
+version_adopted: 2023-11-08
 adopted: 2010-08-30
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/163.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1113/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3069/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1113/pdf_file"
 
 (GeschR RG BJS)
 
-vom 30.08.2010 (Stand 01.01.2015)
+vom 30.08.2010 (Stand 01.01.2024)
 
 Das Regionalgericht Berner Jura-Seeland,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Das Regionalgericht ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
-<sup>2</sup> Es verwaltet sich im Rahmen der gesetzlichen Vorschriften und unter Vorbehalt der Aufgaben und Befugnisse der Justizleitung und des Obergerichts selbst.
+<sup>2</sup> Es verwaltet sich im Rahmen der gesetzlichen Vorschriften und unter Vorbehalt der Aufgaben und Befugnisse der Justizverwaltungsleitung und des Obergerichts selbst.
 
 <sup>3</sup> Wo nötig, sprechen sich die Organe der Gerichtsleitung mit jenen der anderen in der Region Berner Jura-Seeland ansässigen Zivil- und Strafgerichtsbehörden sowie mit dem Obergericht ab.
 
@@ -47,13 +46,13 @@ beschliesst:
 
 **Grundsätze der Selbstverwaltung**
 
-<sup>1</sup> Die Organe der Gerichtsleitung berücksichtigen die Grundsätze der Führungs-, Leistungs- und Kostenorientierung gemäss Artikel 3 Absatz 2, 4 und 5 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^1a-1].
+<sup>1</sup> Die Leitungsorgane beachten sinngemäss die allgemeinen Grundsätze der Steuerung von Finanzen und Leistungen gemäss Artikel 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^1a-1].
 
 <sup>2</sup> Das Regionalgericht bekennt sich gegen innen und aussen zum Grundsatz der Transparenz und zum Recht auf Information, unter Beachtung des Amtsgeheimnisses und des Datenschutzes.
 
 <sup>3</sup> Bei der Kommunikation und bei der Verteilung der Aufgaben innerhalb des Regionalgerichts werden die sprachlichen Kriterien soweit als möglich berücksichtigt.
 
-[^1a-1]: BSG 620.0
+[^1a-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 #### Art. 1b
 
@@ -101,7 +100,7 @@ beschliesst:
 
 - a die Leiterin oder den Leiter der Strafabteilung für die Dauer von drei Jahren,
 - b die Leiterin oder den Leiter der Zivilabteilung für die Dauer von drei Jahren,
-- c die Vertreterin oder den Vertreter der Aussenstelle Berner Jura und deren oder dessen Stellvertreterin oder Stellvertreter für die Dauer von drei Jahren,
+- c die Vertreterin oder den Vertreter der Aussenstelle Berner Jura für die Dauer von drei Jahren,
 - d die Stellvertreterin oder den Stellvertreter der oder des Vorsitzenden der Geschäftsleitung für die Dauer von drei Jahren; diese oder dieser hat zugleich Leiterin oder Leiter einer Abteilung oder Vertreterin oder Vertreter der Aussenstelle Berner Jura zu sein,
 - e die leitende Gerichtsschreiberin oder den leitenden Gerichtsschreiber für die Dauer von drei Jahren.
 
@@ -166,8 +165,8 @@ beschliesst:
 - c die Ernennung einer oder eines stellvertretenden Ressourcenverantwortlichen sowie einer stellvertretenden leitenden Gerichtsschreiberin oder eines stellvertretenden leitenden Gerichtsschreibers,
 - d das Personalwesen des Regionalgerichts, insbesondere die Anstellung des Personals, dessen Zuteilung auf die Abteilungen und die Aussenstelle Berner Jura sowie die Aushilfe in anderen Abteilungen und in der Aussenstelle Berner Jura,
 - e die Aufsicht über den Sekretariatsbetrieb,
-- f den Entscheid über die Aushilfe von Richterinnen und Richtern in anderen Abteilungen und Behörden,
-- g den Einsatz von Aushilfen aus anderen Behörden,
+- f den Entscheid über die Aushilfe von Richterinnen und Richtern in anderen Abteilungen,
+- g den Einsatz von vom Obergericht bezeichneten Aushilfen aus anderen Behörden,
 - h die Regelung der Stellvertretung unter den Gerichtspräsidentinnen und Gerichtspräsidenten des Regionalgerichts,
 - i die Festlegung der Grundsätze betreffend Registratur, Dossierführung und Archivierung,
 - k die Gewährleistung einer den Bedürfnissen angepassten Weiterbildung,
@@ -208,9 +207,9 @@ beschliesst:
 <sup>1</sup> Die oder der Vorsitzende der Geschäftsleitung sorgt für den ordnungsgemässen Geschäftsgang des Regionalgerichts. Ihr oder ihm obliegen insbesondere die folgenden Aufgaben:
 
 - a Einberufung und Leitung der Sitzungen der Geschäftsleitung und der Richterkonferenz,
-- b Vertretung der in der Region Berner Jura-Seeland ansässigen Zivil- und Strafgerichtsbehörden in der Erweiterten Geschäftsleitung,
+- b Vertretung der in der Region Berner Jura-Seeland ansässigen Zivil- und Strafgerichtsbehörden in der Erweiterten Geschäftsleitung des Obergerichts,
 - c Vertretung des Regionalgerichts gegen aussen,
-- d Führen der Jahresgespräche mit den Abteilungsleiterinnen und Abteilungsleitern sowie mit der Vertreterin oder dem Vertreter der Aussenstelle Berner Jura,
+- d Führen der Standortgespräche mit den Abteilungsleiterinnen und Abteilungsleitern sowie mit der Vertreterin oder dem Vertreter der Aussenstelle Berner Jura,
 - e Führen von Jahresgesprächen mit anderen Richterinnen und Richtern im Bedarfsfall und in Absprache mit den Abteilungsleiterinnen und Abteilungsleitern oder mit der Vertreterin oder dem Vertreter der Aussenstelle Berner Jura,
 - f Führung der leitenden Gerichtsschreiberin oder des leitenden Gerichtsschreibers sowie der oder des Ressourcenverantwortlichen.
 
@@ -234,9 +233,9 @@ beschliesst:
 
 #### Art. 14
 
-**Stellvertreterin oder Stellvertreter**
+**Stellvertreterinnen oder Stellvertreter**
 
-<sup>1</sup> Die Stellvertreterin oder der Stellvertreter der leitenden Gerichtsschreiberin oder des leitenden Gerichtsschreibers gehört nach Möglichkeit einer anderen Abteilung oder der anderen Sprachgruppe an.
+<sup>1</sup> Die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber hat ein oder zwei Stellvertreterinnen oder Stellvertreter. Eine oder einer von diesen gehört nach Möglichkeit der anderen Sprachgruppe an.
 
 ### 2.5 Ressourcenverantwortliche oder Ressourcenverantwortlicher
 
@@ -280,9 +279,26 @@ beschliesst:
 
 #### Art. 18
 
-<sup>1</sup> Über Ausgaben bis zum Betrag von 10 000 Franken entscheidet die oder der Vorsitzende der Geschäftsleitung in eigener Kompetenz.
+**Finanzkompetenzen für Verwaltungsaufgaben**
 
-<sup>2</sup> Über Ausgaben bis zum Betrag von 4000 Franken entscheidet die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber oder die oder der Ressourcenverantwortliche in eigener Kompetenz.
+<sup>1</sup> Die oder der Vorsitzende der Geschäftsleitung und die Ressourcenverantwortliche oder der Ressourcenverantwortliche bewilligen Ausgaben für Verwaltungsaufgaben bis zu einer Höhe von 30'000 Franken in je eigener Kompetenz. Eine Delegation an andere Mitglieder der Geschäftsleitung ist möglich.
+
+<sup>2</sup> Ausgaben über 30'000 Franken bedürfen einer Ausgabenbewilligung durch die Geschäftsleitung des Obergerichts.
+
+#### Art. 18a
+
+**Finanzkompetenzen für Verfahren in Zivil- und Strafsachen**
+
+<sup>1</sup> Für die Ausgaben in Zusammenhang mit Verfahren in Zivil- und Strafsachen gilt die finanzielle Belegfreigabe unabhängig von der Höhe als Ausgabenbewilligung (Art. 31 Abs. 1 Bst. e der Finanzhaushaltsverordnung vom 16.11.2022 [FHaV][^18a-1]).
+
+<sup>2</sup> Die Verfahrensleitung ist für die materielle Prüfung der Ausgaben zuständig. Obliegt ihr bei einer Ausgabe die finanzielle Belegfreigabe, übernimmt die im betroffenen Verfahren zuständige Gerichtsschreiberin oder Gerichtssekretärin bzw. der zuständige Gerichtsschreiber oder Gerichtssekretär die materielle Prüfung.
+
+<sup>3</sup> Die finanzielle Belegfreigabe erfolgt
+
+- a bei Ausgaben bis zu einer Höhe von 30'000 Franken durch ein Mitglied der Geschäftsleitung,
+- b bei Ausgaben über 30'000 Franken durch die oder den Vorsitzenden der Geschäftsleitung oder durch deren oder dessen Stellvertreterin oder Stellvertreter.
+
+[^18a-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 ### 2.8 Information
 
@@ -292,9 +308,9 @@ beschliesst:
 
 <sup>1</sup> Die Organe der Gerichtsleitung informieren die Richterinnen und Richter sowie das übrige Personal in geeigneter Form über ihre Tätigkeit.
 
-<sup>2</sup> Die Sitzungsprotokolle der Richterkonferenz und der Geschäftsleitung werden den ordentlich gewählten Richterinnen und Richter zur Kenntnis gebracht. Zur Wahrung des Schutzes der Persönlichkeit oder aus zwingenden dienstlichen Gründen kann in Einzelfällen von dieser Regel abgewichen werden.
+<sup>2</sup> Die Sitzungsprotokolle der Richterkonferenz und der Geschäftsleitung werden den ordentlich gewählten Richterinnen und Richter sowie dem Personal zur Kenntnis gebracht. Zur Wahrung des Schutzes der Persönlichkeit oder aus zwingenden dienstlichen Gründen kann in Einzelfällen von dieser Regel abgewichen werden.
 
-<sup>3</sup> Dem Personal können Protokollauszüge abgegeben werden.
+<sup>3</sup> …
 
 #### Art. 20
 
@@ -332,9 +348,9 @@ beschliesst:
 
 <sup>3</sup> Sie oder er sorgt für eine ausgeglichene Verteilung der Arbeitsbelastung innerhalb der Abteilung.
 
-<sup>4</sup> Sie oder er führt die Jahresgespräche mit den Richterinnen und Richtern, die in ihrer oder seiner Abteilung am Sitz des Regionalgerichts beschäftigt sind.
+<sup>4</sup> Sie oder er führt die Standortgespräche mit den Richterinnen und Richtern, die in ihrer oder seiner Abteilung am Sitz des Regionalgerichts beschäftigt sind.
 
-<sup>5</sup> Die Vertreterin oder der Vertreter der Aussenstelle Berner Jura führt die Jahresgespräche mit den Richterinnen und Richtern der Aussenstelle.
+<sup>5</sup> Die Vertreterin oder der Vertreter der Aussenstelle Berner Jura führt die Standortgespräche mit den Richterinnen und Richtern der Aussenstelle.
 
 #### Art. 23
 
@@ -344,7 +360,7 @@ beschliesst:
 
 <sup>2</sup> Die Richterinnen und Richter der Aussenstelle Berner Jura nehmen an den Sitzungen der Zivilabteilung und der Strafabteilung teil.
 
-<sup>3</sup> Die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber und die Kanzleileitung nehmen mit beratender Stimme an den Sitzungen teil.
+<sup>3</sup> Die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber bzw. deren oder dessen Stellvertreterin oder Stellvertreter und die Kanzleileitung nehmen mit beratender Stimme an den Sitzungen teil.
 
 <sup>4</sup> Die Abteilungskonferenz ist zuständig für
 
