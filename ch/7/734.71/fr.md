@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/fr"
 
 (OApEl)
 
-du 14 mars 2008 (État le 1<sup>er</sup> septembre 2023)
+du 14 mars 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1019,13 +1019,14 @@ L’utilisation des recettes provenant de procédures d’attribution axées sur
 Pendant le délai transitoire visé à l’al. 1, le gestionnaire de réseau détermine la date à laquelle il souhaite équiper les consommateurs finaux ou les producteurs d’un système de mesure intelligent visé aux art. 8*a* et 8*b*. Doivent dans tous les cas être équipés d’un système de mesure de ce type les acteurs suivants:
 
 - a. les consommateurs finaux qui font usage de leur droit d’accès au réseau;
-- b. les producteurs qui raccordent une nouvelle installation de production au réseau électrique.
+- b.[^31e-1] …
 
-<sup>3</sup> et <sup>4</sup> …[^31e-1]
+<sup>3</sup> et <sup>4</sup> …[^31e-2]
 
 <sup>5</sup> Les amortissements exceptionnels nécessaires dus au démontage d’installations de mesure du gestionnaire de réseau non encore entièrement amorties sont également considérés comme des coûts imputables.
 
-[^31e-1]: Abrogés par le ch. I de l’O du 3 avr. 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^31e-1]: Abrogée par le ch. II de l’O du 29 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^31e-2]: Abrogés par le ch. I de l’O du 3 avr. 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 31f
 
@@ -1109,6 +1110,18 @@ Le gestionnaire de réseau peut utiliser et comptabiliser dans les 80 % visés �
 #### Art. 31m
 
 Les nouvelles dispositions relatives aux différences de couverture s’appliquent pour la première fois aux différences de couverture de l’exercice suivant l’entrée en vigueur.
+
+### Section 4*e* Disposition transitoire relative à la modification du 29 novembre 2023
+
+[^chap5-sec4e-1]
+
+[^chap5-sec4e-1]: Introduite par le ch. II de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+
+#### Art. 31n
+
+Pendant le délai transitoire visé à l’art. 31*e*, al. 1, le gestionnaire de réseau détermine la date à laquelle il souhaite équiper les consommateurs finaux ou les producteurs d’un système de mesure intelligent visé aux art. 8*a* et 8*b*. Les producteurs doivent dans tous les cas être équipés d’un système de mesure de ce type lorsqu’ils raccordent au réseau d’électricité une nouvelle installation produisant de l’électricité et dont les travaux d’installation sont soumis au régime de l’autorisation prévu à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^31n-1].
+
+[^31n-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
 ### Section 5 Entrée en vigueur
 

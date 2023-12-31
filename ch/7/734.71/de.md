@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. September 2023)
+vom 14. März 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1017,13 +1017,14 @@ Die Verwendung von Einnahmen aus marktorientierten Zuteilungsverfahren gemäss A
 Innerhalb der Übergangsfrist von Absatz 1 bestimmt der Netzbetreiber, wann er Endverbraucher und Erzeuger mit einem intelligenten Messsystem nach Artikel 8*a* und 8*b* ausstatten will. Unabhängig davon sind mit einem solchen Messsystem auszustatten:
 
 - a. Endverbraucher, wenn sie von ihrem Anspruch auf Netzzugang Gebrauch machen;
-- b. Erzeuger, wenn sie eine neue Erzeugungsanlage an das Elektrizitätsnetz anschliessen.
+- b.[^31e-1] …
 
-<sup>3</sup> und <sup>4</sup> …[^31e-1]
+<sup>3</sup> und <sup>4</sup> …[^31e-2]
 
 <sup>5</sup> Notwendige Sonderabschreibungen wegen des Ausbaus von noch nicht vollständig abgeschriebenen Messeinrichtungen des Netzbetreibers sind ebenfalls anrechenbare Kosten.
 
-[^31e-1]: Aufgehoben durch Ziff. I der V vom 3. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^31e-1]: Aufgehoben durch Ziff. II der V vom 29. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^31e-2]: Aufgehoben durch Ziff. I der V vom 3. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 31f
 
@@ -1107,6 +1108,18 @@ Der Netzbetreiber kann Messsysteme, die elektronische Messmittel mit Lastgangmes
 #### Art. 31m
 
 Die neuen Bestimmungen zum Umgang mit Deckungsdifferenzen gelten erstmals für die Deckungsdifferenzen des auf das Inkrafttreten folgenden Geschäftsjahres.
+
+### 4*e*. Abschnitt: Übergangsbestimmung zur Änderung vom 29. November 2023
+
+[^chap5-sec4e-1]
+
+[^chap5-sec4e-1]: Eingefügt durch Ziff. II der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+
+#### Art. 31n
+
+Innerhalb der Übergangsfrist von Artikel 31*e* Absatz 1 bestimmt der Netzbetreiber, wann er Endverbraucher und Erzeuger mit einem intelligenten Messsystem nach Artikel 8*a* und 8*b* ausstatten will. Unabhängig davon sind Erzeuger mit einem solchen Messsystem auszustatten, wenn sie eine neue Erzeugungsanlage an das Elektrizitätsnetz anschliessen, deren Installation der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^31n-1] unterliegt.
+
+[^31n-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
 ### 5. Abschnitt: Inkrafttreten
 

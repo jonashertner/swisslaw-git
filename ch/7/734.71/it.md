@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230901/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° settembre 2023)
+del 14 marzo 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -39,7 +39,7 @@ ordina:
 
 <sup>3</sup>
 
-La rete di trasporto delle ferrovie svizzere, gestita con una frequenza di 16,7 Hz e un livello di tensione di 132 kV, è considerata consumatore finale ai sensi dell’articolo 4 capoverso 1 lettera b LAEl e della presente ordinanza. Un convertitore di frequenza all’interno di una centrale a 50 Hz non è considerato consumatore finale per la quota di energia elettrica che la centrale a 50 Hz:
+La rete di trasporto delle ferrovie svizzere, gestita con una frequenza di 16,7 Hz e un livello di tensione di 132 kV, è considerata consumatore finale ai sensi dell’articolo 4 capoverso 1 lettera b LAEl e della prFFesente ordinanza. Un convertitore di frequenza all’interno di una centrale a 50 Hz non è considerato consumatore finale per la quota di energia elettrica che la centrale a 50 Hz:
 
 - a. produce e contemporaneamente immette nella rete a 16,7 Hz in un’unità economica localizzata;
 - b. preleva per il fabbisogno proprio e per azionare le pompe (art. 4 cpv. 1 lett. b secondo periodo LAEl).[^1-1]
@@ -1020,13 +1020,14 @@ L’impiego delle entrate risultanti dalle procedure di attribuzione orientate a
 Durante il periodo transitorio di cui al capoverso 1, il gestore di rete decide quando intende dotare i consumatori finali e i produttori di un sistema di misurazione intelligente di cui agli articoli 8*a* e 8*b*. In ogni caso, sono tenuti a dotarsi di un tale sistema di misurazione intelligente:
 
 - a. i consumatori finali che esercitano il loro diritto di accesso alla rete;
-- b. i produttori che allacciano alla rete un nuovo impianto di produzione.
+- b.[^31e-1] ...
 
-<sup>3</sup> e <sup>4</sup> ...[^31e-1]
+<sup>3</sup> e <sup>4</sup> ...[^31e-2]
 
 <sup>5</sup> Gli ammortamenti straordinari necessari per lo smontaggio dei dispositivi di misurazione del gestore di rete non ancora totalmente ammortizzati sono anch’essi costi computabili.
 
-[^31e-1]: Abrogati dal n. I dell’O del 3 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^31e-1]: Abrogata dal n. II dall’O del 29 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^31e-2]: Abrogati dal n. I dell’O del 3 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 31f
 
@@ -1108,6 +1109,18 @@ Il diritto di fornire elettricità ai consumatori finali in regime di servizio u
 #### Art. 31m
 
 Le nuove disposizioni sulla gestione delle differenze di copertura si applicano la prima volta alle differenze di copertura dell’anno contabile successivo all’entrata in vigore.
+
+### Sezione 4*e*: Disposizione transitoria della modifica del 29 novembre 2023
+
+[^chap5-sec4e-1]
+
+[^chap5-sec4e-1]: Introdotta dal n. II dall’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+
+#### Art. 31n
+
+Durante il periodo transitorio di cui all’articolo 31*e* capoverso 1, il gestore di rete decide quando intende dotare i consumatori finali e i produttori di un sistema di misurazione intelligente di cui all’articolo 8*a* e 8*b*. Indipendentemente da ciò, i produttori devono essere dotati di un tale sistema di misurazione intelligente se allacciano alla rete un nuovo impianto di produzione la cui installazione sottostà all’obbligo di autorizzazione di cui all’articolo 6 dell’ordinanza del 7 novembre 2001[^31n-1] sugli impianti a bassa tensione.
+
+[^31n-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
 ### Sezione 5: Entrata in vigore
 
