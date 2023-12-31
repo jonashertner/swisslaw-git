@@ -3,20 +3,19 @@ canton: BE
 number: "153.15"
 title: Ordonnance sur les représentants et les représentantes du canton
 language: fr
-version: 2018-07-01
-valid_until: 2023-12-31
-version_adopted: 2018-05-23
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 1994-08-24
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.15"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1461/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2893/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les représentants et les représentantes du canton
 
-du 24.08.1994 (état au 01.07.2018)
+du 24.08.1994 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -36,7 +35,7 @@ arrête:
 
 <sup>2</sup> Le mandat des agents et agentes cantonaux prend fin lorsqu’ils quittent le service du canton. Le Conseil-exécutif peut autoriser la prolongation du mandat.
 
-<sup>3</sup> Les représentants et les représentantes du canton se démettent de leurs fonctions, en règle générale, à la fin du mois au cours duquel ils atteignent l’âge de 70 ans. La Direction concernée, la Chancellerie d’Etat ou la Direction de la magistrature statue sur les dérogations.
+<sup>3</sup> Les représentants et les représentantes du canton se démettent de leurs fonctions, en règle générale, à la fin du mois au cours duquel ils atteignent l’âge de 70 ans. La Direction concernée, la Chancellerie d’Etat ou la Direction administrative de la magistrature statue sur les dérogations.
 
 <sup>4</sup> Les réglementations dérogatoires de la législation spéciale sont réservées.
 

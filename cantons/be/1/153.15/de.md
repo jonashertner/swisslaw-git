@@ -3,20 +3,19 @@ canton: BE
 number: "153.15"
 title: Verordnung über die Kantonsvertreterinnen und Kantonsvertreter
 language: de
-version: 2018-07-01
-valid_until: 2023-12-31
-version_adopted: 2018-05-23
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 1994-08-24
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.15"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1461/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2893/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Kantonsvertreterinnen und Kantonsvertreter
 
-vom 24.08.1994 (Stand 01.07.2018)
+vom 24.08.1994 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -36,7 +35,7 @@ beschliesst:
 
 <sup>2</sup> Das Mandat von Mitarbeiterinnen und Mitarbeitern des Kantons endet mit dem Austritt aus dem Kantonsdienst. Der Regierungsrat kann die Weiterführung des Mandats bewilligen.
 
-<sup>3</sup> Kantonsvertreterinnen und Kantonsvertreter treten in der Regel auf das Ende des Monats, in dem sie das 70. Altersjahr vollenden, zurück. Über Ausnahmen entscheidet die betroffene Direktion, die Staatskanzlei oder die Justizleitung.
+<sup>3</sup> Kantonsvertreterinnen und Kantonsvertreter treten in der Regel auf das Ende des Monats, in dem sie das 70. Altersjahr vollenden, zurück. Über Ausnahmen entscheidet die betroffene Direktion, die Staatskanzlei oder die Justizverwaltungsleitung.
 
 <sup>4</sup> Vorbehalten bleiben abweichende Regelungen in der besonderen Gesetzgebung.
 
