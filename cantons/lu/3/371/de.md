@@ -3,30 +3,30 @@ canton: LU
 number: "371"
 title: Verordnung über den Bevölkerungsschutz
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-08
+version: 2024-01-01
+version_adopted: 2024-11-05
 adopted: 2008-04-08
 in_force: 2008-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/371"
-pdf: "https://srl.lu.ch/api/de/versions/3986/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Bevölkerungsschutz
 
-vom 08.04.2008 (Stand 01.01.2023)
+vom 08.04.2008 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 5 Absatz 1, 6, 12a Absatz 4, 12b und 13 des Gesetzes über den Bevölkerungsschutz vom 19. Juni 2007[^ingress-1],
+gestützt auf die §§ 5 Absatz 1, 6, 12a Absatz 4, 12b und 13 des Gesetzes über den Bevölkerungsschutz vom 19. Juni 2007[^ingress-1] sowie § 1 Absatz 3 des Gesetzes über das öffentlich-rechtliche Arbeitsverhältnis (Personalgesetz, PG) vom 26. Juni 2001[^ingress-2],
 
 auf Antrag des Justiz- und Sicherheitsdepartementes,
 
 beschliesst:
 
 [^ingress-1]: SRL Nr. [370](https://srl.lu.ch/data/370/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+[^ingress-2]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
 
 ## 1 Zuständigkeiten
 
@@ -43,6 +43,12 @@ beschliesst:
 <sup>1</sup> Der kantonale Führungsstab ist für die Erstellung einer kantonalen Gefahren- und Risikoanalyse sowie für die in § 12a des Gesetzes über den Bevölkerungsschutz[^1a-1] genannten Aufgaben beim Schutz kritischer Infrastrukturen von kantonaler Bedeutung zuständig.
 
 [^1a-1]: SRL Nr. [370](https://srl.lu.ch/data/370/de)
+
+#### § 1b
+
+**Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat regelt in einem Leistungsauftrag die Zielsetzungen und Aufgaben des kantonalen Führungsstabes, um die Lageverfolgung, die Vorsorgeplanung sowie die Grundbereitschaft für die Bewältigung von Katastrophen und Notlagen sicherzustellen.
 
 #### § 2
 
@@ -81,19 +87,19 @@ beschliesst:
 
 **Kantonaler Führungsstab und Stabschef oder Stabschefin**
 
-<sup>1</sup> Der kantonale Führungsstab (KFS) besteht aus einem Kernstab und weiteren Fachpersonen.
+<sup>1</sup> Der kantonale Führungsstab (KFS) gliedert sich in verschiedene Führungsgrundgebiete, die jeweils durch ein Stabsmitglied geleitet werden.
 
-<sup>2</sup> Der Stabschef oder die Stabschefin und deren Stellvertretung führen den kantonalen Führungsstab und sind verantwortlich für dessen Organisation und Ausbildung.
+<sup>2</sup> Der Stabschef oder die Stabschefin und deren Stellvertretung führen den kantonalen Führungsstab und sind verantwortlich für dessen Organisation und Ausbildung. Sie legen nach Rücksprache mit dem Justiz- und Sicherheitsdepartement in einer Weisung die Grundlagen für die Bereitschaft, die Führung und die Ausbildung des kantonalen Führungsstabes fest.
 
-<sup>3</sup> Sie werden von einem Sekretariat unterstützt.
+<sup>3</sup> Sie werden von der Abteilung Bevölkerungsschutz der Dienststelle Militär, Zivilschutz und Justizvollzug unterstützt.
 
 <sup>4</sup> Der kantonale Führungsstab hat einen Kommandoposten.
 
 #### § 5
 
-**Kernstab**
+**Fachbereiche**
 
-<sup>1</sup> Im Kernstab sind mindestens folgende Fachbereiche vertreten:
+<sup>1</sup> Im kantonalen Führungsstab sind mindestens folgende Fachbereiche vertreten:
 
 - a. Polizei,
 - b. Feuerwehr,
@@ -110,7 +116,7 @@ beschliesst:
 
 **Weitere Fachpersonen**
 
-<sup>1</sup> Es können bei Bedarf weitere Fachpersonen aus kantonalen oder kommunalen Verwaltungen oder aus der Privatwirtschaft hinzugezogen werden.
+<sup>1</sup> Bei Bedarf kann der kantonale Führungsstab um weitere Fachpersonen aus kantonalen oder kommunalen Verwaltungen oder aus der Privatwirtschaft ergänzt werden.
 
 <sup>2</sup> Das Justiz- und Sicherheitsdepartement bestimmt die Fachbereiche und die dafür verantwortlichen Fachpersonen im Einvernehmen mit den zuständigen Departementen.
 
@@ -126,20 +132,27 @@ beschliesst:
 
 #### § 6a
 
-**Entschädigung für Angehörige des kantonalen Führungsstabes**
+**Entschädigung und Zulagen für Angehörige des kantonalen Führungsstabes**
 
-<sup>1</sup> Angehörigen des kantonalen Führungsstabes werden jährlich maximal folgende Pauschalen entrichtet:
+<sup>1</sup> Die Entschädigung für Angehörige des kantonalen Führungsstabes richtet sich nach Anhang 3 der Besoldungsverordnung für das Staatspersonal vom 24. September 2002[^6a-1].
 
-- a. Stabschef oder Stabschefin — 5000 Franken
-- b. Personen im Kernstab — 3000 Franken
-- c. weitere Fachpersonen — 1000 Franken
+- a. …
+- b. …
+- c. …
 
-<sup>2</sup> Die Höhe der Pauschale wird im Einzelnen durch den Stabschef oder die Stabschefin festgelegt. Für den Stabschef oder die Stabschefin erfolgt die Festlegung durch das Justiz- und Sicherheitsdepartement.
+<sup>2</sup> Gehört die Tätigkeit im kantonalen Führungsstab zum Aufgabenbereich eines oder einer Angestellten des Kantons oder eines anderen Arbeitgebers, gilt die Teilnahme als Arbeitszeit und es besteht kein Anspruch auf Entschädigung. Ebenfalls kein Anspruch auf Entschädigung besteht, wenn eine Person für ihre Tätigkeit im kantonalen Führungsstab Sold oder Entschädigungen gemäss der Erwerbsersatzordnung erhält.
 
-<sup>3</sup> Kein Anspruch auf Entschädigung besteht, wenn
+<sup>3</sup> Der Stabschef oder die Stabschefin entscheidet über den Anspruch auf Entschädigung. Über den Anspruch des Stabschefs oder der Stabschefin auf Entschädigung entscheidet das Justiz- und Sicherheitsdepartement.
 
-- a. die Tätigkeit im kantonalen Führungsstab im Rahmen der beruflichen Tätigkeit für einen Arbeitgeber erbracht wird oder
-- b. diese Personen für die Tätigkeit im kantonalen Führungsstab Sold oder Entschädigungen gemäss der Erwerbsersatzordnung erhalten.
+- a. …
+- b. …
+
+<sup>4</sup> Für Angehörige des kantonalen Führungsstabes gelten bei Einsätzen die Regelungen über Vergütungen für Nacht- und Sonntagsarbeit sowie Pikettdienst der Besoldungsverordnung für das Staatspersonal[^6a-2] sinngemäss.
+
+<sup>5</sup> Der Regierungsrat kann einzelnen Angehörigen des kantonalen Führungsstabes für unvermittelte Einsätze mit hoher Intensität eine Einsatzzulage von maximal 1500 Franken pro Einsatz zusprechen.
+
+[^6a-1]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de)
+[^6a-2]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de)
 
 #### § 7
 
@@ -217,7 +230,7 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Die Feuerwehr stellt die Installation, den Unterhalt, die ständige Einsatzbereitschaft und den Einsatz der mobilen Sirenen sicher.
 
-<sup>2<sup>ter</sup></sup> Die Gemeinden stellen die telefonische Alarmierung von Personen in abgelegenen Wohnbauten sicher.
+<sup>2<sup>ter</sup></sup> Die Gemeinden stellen die Alarmierung von Personen in abgelegenen Wohnbauten per Telefon oder über weitere Kanäle sicher.
 
 <sup>3</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug plant die Alarmierung, führt das Inventar der Alarmierungsmittel, koordiniert die Partnerorganisationen und führt unter Mithilfe der Partnerorganisationen den jährlichen Test des Bundes durch.
 
@@ -230,6 +243,12 @@ beschliesst:
 <sup>1</sup> Die Polizei ist zuständig für die gemeinsamen Kommunikationssysteme von Bund, Kantonen und Dritten.
 
 ## 5 Schlussbestimmung
+
+#### § 12b
+
+**Übergangsbestimmung zur Änderung vom 5. November 2024**
+
+<sup>1</sup> Ist für einen Angehörigen oder eine Angehörige des kantonalen Führungsstabes die bisherige Regelung der Entschädigung in § 6a dieser Verordnung günstiger als diejenige gemäss der Änderung vom 5. November 2024, gilt für ihn oder sie bis am 31. Dezember 2024 die bisherige Regelung.
 
 #### § 13
 
