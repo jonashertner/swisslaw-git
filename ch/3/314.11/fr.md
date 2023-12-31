@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2023-08-01
+version: 2024-01-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/fr"
 
 (OAO)
 
-du 16 janvier 2019 (État le 1<sup>er</sup> août 2023)
+du 16 janvier 2019 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -597,7 +597,7 @@ Annexe 2[^t-2]
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)) et du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), le ch. III de l’O du 16 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), l’annexe ch. 1 de l’O COVID-19 situation particulière du 16 fév. 2022, en vigueur depuis le 17 fév. 2022, le ch. 16002 en vigueur jusqu’au 31 mars 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)), l’erratum du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)) et l’annexe ch. 1 de l’O du 16 juin 2023 sur la vignette autoroutière, en vigueur depuis le 1<sup>er</sup> aout 2023 ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)) et du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)), l’annexe ch. 1 de l’O du 16 juin 2023 sur la vignette autoroutière ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) et le ch. II 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -725,11 +725,6 @@ Annexe 2[^t-2]
 <tr><td>14001. Pratiquer le commerce itinérant sans autorisation (art. 14, al. 1, let. b, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
 <tr><td>14002. Offrir des marchandises ou des services en violation des interdictions ou restrictions prévues (art. 14, al. 1, let. e, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
 <tr><td>14003. Ne pas porter sur soi l’autorisation de pratiquer le commerce itinérant dans l’exercice de cette activité (art. 14, al. 1, let. f, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>20</td></tr>
-<tr><td>**XV.** **…**</td><td></td></tr>
-<tr><td>**XVI.** **…**</td><td>[tab]</td></tr>
-<tr><td>[tab] **XVII.**[^annex2-lvlu1-lvlu1-25] **Loi du 28 septembre 2012 sur les épidémies (LEp) , en relation avec l’ordonnance COVID-19 du 23 juin 2021 transport international de voyageurs**</td><td>[tab]</td></tr>
-<tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 ou à un test rapide SARS-CoV-2 avec application par un professionnel lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 8, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>200</td></tr>
-<tr><td>17002. Fournir des coordonnées incomplètes ou erronées lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp et 3, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -756,7 +751,6 @@ Annexe 2[^t-2]
 [^annex2-lvlu1-lvlu1-22]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^annex2-lvlu1-lvlu1-23]: O du 24 novembre 1993 relative à la loi fédérale sur la pêche ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^annex2-lvlu1-lvlu1-25]: Les deux entrées ne disposent plus de base légale depuis le 1<sup>er</sup> janv. 2023. Voir art. 1, al. 1, let. a, ch. 12*a*, de la loi du 18 mars 2016 sur les amendes d’ordre ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725); [RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 2).
 
 Annexe 3
 

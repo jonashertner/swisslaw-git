@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2023-08-01
+version: 2024-01-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 1° agosto 2023)
+del 16 gennaio 2019 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -600,7 +600,7 @@ Allegato 2[^t-2]
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 19 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), dal n. III dell’O del 16 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), dall’all. n. 1 dell’O COVID-19 situazione particolare del 16 feb. 2022, in vigore dal 17 feb. 2022, n. 16002 con effetto sino al 31 mar. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) e dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale, in vigore dal 1° ago. 2023 ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) e dal n. II 1 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -730,9 +730,7 @@ Allegato 2[^t-2]
 <tr><td>14003. Omissione di avere con sé l’autorizzazione mentre si esercita il commercio ambulante (art. 14 cpv. 1 lett. f e cpv. 2 della LF sul commercio ambulante)</td><td colspan="2">[tab] 20</td></tr>
 <tr><td>XV. ...</td><td colspan="2"></td></tr>
 <tr><td>XVI. ...</td><td colspan="2">[tab]</td></tr>
-<tr><td>[tab] **XVII.**[^annex2-lvlu1-lvlu1-25] **Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-26] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 traffico internazionale viaggiatori del 23 giugno 2021**[^annex2-lvlu1-lvlu1-27]</td><td colspan="2">[tab]</td></tr>
-<tr><td colspan="2">17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 8 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">200</td></tr>
-<tr><td colspan="2">17002. Dati di contatto errati o mancanti all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 3 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">100</td></tr>
+<tr><td>**XVII.** **...**</td><td colspan="2">[tab]</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -759,9 +757,6 @@ Allegato 2[^t-2]
 [^annex2-lvlu1-lvlu1-22]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^annex2-lvlu1-lvlu1-23]: O del 24 nov. 1993 concernente la legge federale sulla pesca ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)).
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^annex2-lvlu1-lvlu1-25]: Le due voci sono prive di base giuridica dal 1° gennaio 2023. Cfr. art. 1 cpv. 1 let. a n. 12*a* della legge sulle multe disciplinari del 18 marzo 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725); [RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 2).
-[^annex2-lvlu1-lvlu1-26]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^annex2-lvlu1-lvlu1-27]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
 
 Allegato 3
 

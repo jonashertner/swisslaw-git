@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2023-08-01
+version: 2024-01-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230801/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 1. August 2023)
+vom 16. Januar 2019 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -603,7 +603,7 @@ Anhang 2[^t-2]
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 19. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), Ziff. III der V vom 16. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), Anhang Ziff. 1 der Covid-19-Verordnung besondere Lage vom 16. Febr. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) und Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) und Ziff. II 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -731,11 +731,6 @@ Anhang 2[^t-2]
 <tr><td>14001. Ausübung des Reisendengewerbes ohne Bewilligung (Art. 14 Abs. 1 Bst. b und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
 <tr><td>14002. Anbieten von Waren oder Dienstleistungen, deren Vertrieb im Reisendengewerbe gegen Einschränkungen oder Verbote verstösst (Art. 14 Abs. 1 Bst. e und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
 <tr><td>14003. Nichtmitführen der Bewilligung bei der Ausübung des Reisendengewerbes (Art. 14 Abs. 1 Bst. f und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 20</td></tr>
-<tr><td>XV. …</td><td></td></tr>
-<tr><td>XVI. …</td><td></td></tr>
-<tr><td>**XVII.**[^annex2-lvlu1-lvlu1-25] **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** **Covid-19-Verordnung internationaler Personenverkehr vom** **23. Juni 2021**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
-<tr><td>17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 oder eines Sars-CoV-2-Schnelltests zur Fachanwendung mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 8 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td>[tab] 200</td></tr>
-<tr><td>17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td>100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -762,9 +757,6 @@ Anhang 2[^t-2]
 [^annex2-lvlu1-lvlu1-22]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^annex2-lvlu1-lvlu1-23]: V vom 24. Nov. 1993 zum Bundesgesetz über die Fischerei ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^annex2-lvlu1-lvlu1-25]: Die beiden Einträge verfügen seit dem 1. Jan. 2023 über keine rechtliche Grundlage mehr. Siehe Art. 1 Abs. 1 Bst. a Ziff. 12*a* des Ordnungsbussengesetzes vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725); [AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 2).
-[^annex2-lvlu1-lvlu1-26]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^annex2-lvlu1-lvlu1-27]: [SR 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
 
 Anhang 3
 
