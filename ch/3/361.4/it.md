@@ -3,18 +3,18 @@ sr: "361.4"
 title: Ordinanza del 15 ottobre 2008 sul Registro nazionale di polizia
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-701-20230901-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-701-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul Registro nazionale di polizia
 
-del 15 ottobre 2008 (Stato 1° settembre 2023)
+del 15 ottobre 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,11 @@ Il Registro contiene:
 - c. il motivo dell’iscrizione, se sono stati rilevati i dati segnaletici di una persona;
 - d. l’indicazione dell’autorità alla quale si possono richiedere ulteriori informazioni sulla persona tramite l’assistenza giudiziaria e amministrativa;
 - e. l’indicazione del sistema d’informazione o del tipo di sistema da cui provengono i dati.
-- [tab] <sup>2</sup> Possono essere registrati solo i dati concernenti:
+
+<sup>2</sup>
+
+Possono essere registrati solo i dati concernenti:
+
 - a. persone che hanno commesso un reato o vi hanno partecipato;
 - b. reati che costituiscono un crimine o un delitto secondo il Codice penale svizzero, il diritto penale accessorio della Confederazione o il diritto penale cantonale.
 
@@ -173,7 +177,8 @@ Il diritto delle persone iscritte nel Registro all’accesso, alla rettifica e a
 - c.[^8-5] per le registrazioni del sistema RIPOL, dall’articolo 13 dell’ordinanza RIPOL del 26 ottobre 2016[^8-6];
 - d.[^8-7] per le registrazioni del sistema N-SIS, dall’articolo 50 dell’ordinanza N-SIS dell’8 marzo 2013[^8-8];
 - e. per le registrazioni dai sistemi d’informazione di polizia dei Cantoni partecipanti, dal diritto cantonale applicabile.
-- [tab] <sup>2</sup> Le persone i cui dati non sono stati trattati nei sistemi ne sono informate da fedpol tre anni dopo la ricezione della loro richiesta.
+
+<sup>2</sup> Le persone i cui dati non sono stati trattati nei sistemi ne sono informate da fedpol tre anni dopo la ricezione della loro richiesta.
 
 [^8-1]: Nuovo testo giusta l’all. 2 n. II 45 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^8-2]: Nuovo testo giusta l’all. 3 n. 3 dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
@@ -222,14 +227,15 @@ Il consulente per la protezione dei dati può esaminare il verbale per i seguent
 Per la salvaguardia della sicurezza dei dati si applicano:
 
 - a.[^12-1] l’ordinanza del 31 agosto 2022[^12-2] sulla protezione dei dati;
-- b. l’ordinanza del 27 maggio 2020[^12-3] sui ciber-rischi.[^12-4]
+- b.[^12-3] l’ordinanza dell’8 novembre 2023[^12-4] sulla sicurezza delle informazioni.[^12-5]
 
 <sup>2</sup> I servizi collegati prendono i provvedimenti tecnici e organizzativi necessari conformemente alle disposizioni in materia di protezione dei dati, al fine di impedire l’accesso ai dati alle persone non autorizzate.
 
 [^12-1]: Nuovo testo giusta l’all. 2 n. II 45 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-4]: Nuovo testo giusta l’all. n. 21 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-3]: Nuovo testo giusta l’all. 2 n. II 21 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-5]: Nuovo testo giusta l’all. n. 21 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -243,11 +249,12 @@ Fedpol emana un regolamento per il trattamento dei dati.
 
 <sup>1</sup> I costi per lo sviluppo e la gestione del sistema d’informazione sono coperti dalla Confederazione. La Confederazione finanzia l’allacciamento e la gestione delle linee di trasmissione dei dati fino a un raccordo centrale (distributore principale) situato nel capoluogo cantonale.
 
-<sup>2</sup> I Cantoni assumono le spese:
+<sup>2</sup>
 
-a. per l’acquisto e la manutenzione delle loro apparecchiature;
+I Cantoni assumono le spese:
 
-b. per l’installazione e la gestione della distribuzione capillare sul loro territorio.
+- a. per l’acquisto e la manutenzione delle loro apparecchiature;
+- b. per l’installazione e la gestione della distribuzione capillare sul loro territorio.
 
 ## Sezione 5: Disposizioni finali
 

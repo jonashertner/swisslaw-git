@@ -3,11 +3,11 @@ sr: "361.4"
 title: Verordnung vom 15. Oktober 2008 über den Nationalen Polizeiindex (Polizeiindex-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20230901-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230901/de"
 
 (Polizeiindex-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. September 2023)
+vom 15. Oktober 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -230,14 +230,15 @@ Die Datenschutzberaterin oder der Datenschutzberater kann die Protokollierung zu
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a.[^12-1] die Datenschutzverordnung vom 31. August 2022[^12-2];
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^12-3].[^12-4]
+- b.[^12-3] die Informationssicherheitsverordnung vom 8. November 2023[^12-4].[^12-5]
 
 <sup>2</sup> Die angeschlossenen Stellen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
 [^12-1]: Fassung gemäss Anhang 2 Ziff. II 45 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-4]: Fassung gemäss Anhang Ziff. 21 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-3]: Fassung gemäss Anhang 2 Ziff. II 21 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-5]: Fassung gemäss Anhang Ziff. 21 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -282,10 +283,9 @@ Anhang[^t-1]
 
 [^t-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), Anhang Ziff. 9 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), Ziff. II der V vom 21. Nov. 2018 ([AS 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) und Anhang 3 Ziff. 3 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
-<table>
-<tr><td>X</td><td>=</td><td>Zugriff</td></tr>
-<tr><td>leer</td><td>=</td><td>kein Zugriff</td></tr>
-</table>
+X = Zugriff
+
+leer = kein Zugriff
 
 ### Stab fedpol
 

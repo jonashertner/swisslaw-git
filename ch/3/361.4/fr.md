@@ -3,18 +3,18 @@ sr: "361.4"
 title: "Ordonnance du 15 octobre 2008 sur l'index national de police"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20230901-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’index national de police
 
-du 15 octobre 2008 (État le 1<sup>er</sup> septembre 2023)
+du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -178,7 +178,8 @@ Le droit des personnes inscrites dans l’index à obtenir des informations sur 
 - c.[^8-5] pour les inscriptions issues du système-source RIPOL, de l’art. 13 de l’ordonnance RIPOL du 26 octobre 2016[^8-6];
 - d.[^8-7] pour les inscriptions issues du système-source N-SIS, de l’art. 50 de l’ordonnance N-SIS du 8 mars 2013[^8-8];
 - e. pour les inscriptions issues des systèmes d’information de police des cantons participants, du droit cantonal applicable.
-- [tab] 2 Les personnes dont les données n’ont pas été traitées dans les systèmes-sources sont informées en conséquence par fedpol trois ans après réception de leur demande.
+
+<sup>2</sup> Les personnes dont les données n’ont pas été traitées dans les systèmes-sources sont informées en conséquence par fedpol trois ans après réception de leur demande.
 
 [^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^8-2]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
@@ -228,14 +229,15 @@ Le conseiller à la protection des données peut utiliser le procès-verbal aux 
 La sécurité des données est garantie par:
 
 - a.[^12-1] l’ordonnance du 31 août 2022 sur la protection des données[^12-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-3].[^12-4]
+- b.[^12-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^12-4].[^12-5]
 
 <sup>2</sup> Les organes rattachés à l’index prennent les mesures nécessaires du point de vue organisationnel et technique, conformément aux dispositions de la législation sur la protection des données, pour empêcher les tiers non autorisés d’accéder aux données.
 
 [^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-4]: Nouvelle teneur selon l’annexe ch. 21 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-3]: Nouvelle teneur selon l’annexe 2 ch. II 21 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-5]: Nouvelle teneur selon l’annexe ch. 21 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -278,7 +280,7 @@ Annexe[^t-1]
 
 ## Droits d’accès à l’index national de police
 
-[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) et l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) et l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 X = accès
 
