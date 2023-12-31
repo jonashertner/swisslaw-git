@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale federale (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: it
-version: 2022-07-01
+version: 2024-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220701-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/it"
 
 (LTF)
 
-del 17 giugno 2005 (Stato 1° luglio 2022)
+del 17 giugno 2005 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1049,21 +1049,22 @@ Ha diritto di interporre ricorso in materia penale chi:
 
   - 1\. l’imputato,
   - 2\. il rappresentante legale dell’accusato,
-  - 3\. il pubblico ministero,
-  - 4\.[^81-1] ...
-  - 5\.[^81-2] l’accusatore privato, se la decisione impugnata può influire sul giudizio delle sue pretese civili,
+  - 3\.[^81-1] il pubblico ministero, salvo se si tratta di decisioni che ordinano, prorogano o mettono fine alla carcerazione preventiva o di sicurezza,
+  - 4\.[^81-2] ...
+  - 5\.[^81-3] l’accusatore privato, se la decisione impugnata può influire sul giudizio delle sue pretese civili,
   - 6\. il querelante, per quanto trattasi del diritto di querela come tale,
-  - 7\.[^81-3] nelle cause penali amministrative secondo la legge federale del 22 marzo 1974[^81-4] sul diritto penale amministrativo, il pubblico ministero della Confederazione e l’amministrazione interessata.
+  - 7\.[^81-4] nelle cause penali amministrative secondo la legge federale del 22 marzo 1974[^81-5] sul diritto penale amministrativo, il pubblico ministero della Confederazione e l’amministrazione interessata.
 
-<sup>2</sup> Il pubblico ministero della Confederazione è inoltre legittimato a ricorrere se il diritto federale prevede che la decisione deve essergli comunicata, o essere comunicata a un’altra autorità federale, o se lui stesso ha delegato alle autorità cantonali l’istruzione e il giudizio della causa penale.[^81-5]
+<sup>2</sup> Un’autorità federale è legittimata a ricorrere se il diritto federale prevede che la decisione deve esserle comunicata.[^81-6]
 
 <sup>3</sup> Il diritto di ricorrere contro le decisioni di cui all’articolo 78 capoverso 2 lettera b spetta inoltre alla Cancelleria federale, ai dipartimenti federali o, in quanto lo preveda il diritto federale, ai servizi loro subordinati, se la decisione impugnata viola la legislazione federale nella sfera dei loro compiti.
 
-[^81-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-2]: Nuovo testo giusta l’all. n. II 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^81-3]: Introdotto dal n. II 8 della L201F del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)). Nuovo testo giusta l’all. 1 n. II 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-4]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^81-5]: Nuovo testo giusta l’all. 1 n. II 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-1]: Nuovo testo giusta l’all. 1 n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^81-2]: Abrogato dall’all. 1 n. II 3 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-3]: Nuovo testo giusta l’all. n. II 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^81-4]: Introdotto dal n. II 8 della L201F del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)). Nuovo testo giusta l’all. 1 n. II 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^81-6]: Nuovo testo giusta l’all. 1 n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Sezione 3: Ricorso in materia di diritto pubblico
 

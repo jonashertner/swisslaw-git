@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal fédéral (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: fr
-version: 2022-07-01
+version: 2024-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220701-fr-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/fr"
 
 (LTF)[^t-1]
 
-du 17 juin 2005 (État le 1<sup>er</sup> juillet 2022)
+du 17 juin 2005 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -538,7 +538,7 @@ En cas de transmission électronique, le mémoire doit être muni de la signatur
 
 Le Tribunal fédéral accorde au recourant, à sa demande, un délai approprié pour compléter la motivation de son recours en matière d’entraide pénale internationale:
 
-- a. s’il a déclaré recevable ce recours; et
+- a. s’il a déclaré recevable ce recours, et
 - b. si l’étendue exceptionnelle ou la difficulté particulière de l’affaire le commande.
 
 ### Section 5 Délais
@@ -865,7 +865,7 @@ Les arrêts du Tribunal fédéral sont toutefois exécutés:
 - b. conformément aux art. 74 à 78 PCF[^70-2], s’ils ont été rendus à la suite d’une action;
 - c. conformément aux art. 74 et 75 de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^70-3], s’ils ont été rendus dans une affaire pénale relevant de la juridiction fédérale.[^70-4]
 
-<sup>3</sup> ...[^70-5]
+<sup>3</sup> …[^70-5]
 
 <sup>4</sup> En cas d’exécution défectueuse, un recours peut être déposé devant le Conseil fédéral. Celui-ci prend les mesures nécessaires.
 
@@ -908,7 +908,7 @@ Sont également sujettes au recours en matière civile:
   - 4\. en matière de surveillance des fondations, à l’exclusion des institutions de prévoyance et de libre passage,
   - 5\.[^72-1] en matière de surveillance des exécuteurs testamentaires et autres représentants successoraux,
   - 6\.[^72-2] les décisions prises dans le domaine de la protection de l’enfant et de l’adulte,
-  - 7*.*[^72-3] *...*
+  - 7*.*[^72-3] *…*
 
 [^72-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^72-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -970,7 +970,7 @@ Les cantons instituent des tribunaux supérieurs comme autorités cantonales de 
 
 A qualité pour former un recours en matière civile quiconque:
 
-- a. a pris part à la procédure devant l’autorité précédente ou a été privé de la possibilité de le faire; et
+- a. a pris part à la procédure devant l’autorité précédente ou a été privé de la possibilité de le faire, et
 - b.[^76-1] est particulièrement touché par la décision attaquée et a un intérêt digne de protection à son annulation ou sa modification.
 
 <sup>2</sup> Ont également qualité pour recourir contre les décisions visées à l’art. 72, al. 2, la Chancellerie fédérale, les départements fédéraux et, pour autant que le droit fédéral le prévoie, les unités qui leur sont subordonnées, si l’acte attaqué est susceptible de violer la législation fédérale dans leur domaine d’attributions.[^76-2]
@@ -999,8 +999,8 @@ Le recours en matière civile, indépendamment de la valeur litigieuse, est rece
 [^77-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 7153](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 [^77-3]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^77-4]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^77-5]: Nouvelle teneur selon le ch. II 2 de l’annexe 1 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^77-6]: Nouvelle teneur selon le ch. II 2 de l’annexe 1 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^77-5]: Nouvelle teneur selon l’annexe 1 ch. II 2 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^77-6]: Nouvelle teneur selon l’annexe 1 ch. II 2 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-7]: Introduit par l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 7153](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### Section 2 Recours en matière pénale
@@ -1044,28 +1044,29 @@ Le recours est irrecevable contre les décisions de la cour des plaintes du Trib
 
 A qualité pour former un recours en matière pénale quiconque:
 
-- a. a pris part à la procédure devant l’autorité précédente ou a été privé de la possibilité de le faire; et
+- a. a pris part à la procédure devant l’autorité précédente ou a été privé de la possibilité de le faire, et
 - b.
 
   a un intérêt juridique à l’annulation ou à la modification de la décision attaquée, soit en particulier:
 
   - 1\. l’accusé,
   - 2\. le représentant légal de l’accusé,
-  - 3\. l’accusateur public,
-  - 4\.[^81-1] ...
-  - 5\.[^81-2] la partie plaignante, si la décision attaquée peut avoir des effets sur le jugement de ses prétentions civiles,
+  - 3\.[^81-1] le ministère public, sauf pour les décisions relatives à la mise en détention provisoire ou pour des motifs de sûreté, à la prolongation de la détention ou à sa levée,
+  - 4\.[^81-2] …
+  - 5\.[^81-3] la partie plaignante, si la décision attaquée peut avoir des effets sur le jugement de ses prétentions civiles,
   - 6\. le plaignant, pour autant que la contestation porte sur le droit de porter plainte,
-  - 7\.[^81-3] le Ministère public de la Confédération et les autorités administratives participant à la poursuite et au jugement des affaires pénales administratives selon la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^81-4].
+  - 7\.[^81-4] le Ministère public de la Confédération et les autorités administratives participant à la poursuite et au jugement des affaires pénales administratives selon la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^81-5].
 
-<sup>2</sup> Le Ministère public de la Confédération a aussi qualité pour recourir si le droit fédéral prescrit que la décision doit être communiquée à lui-même ou à une autre autorité fédérale ou si la cause a été déférée pour instruction et jugement aux autorités cantonales.[^81-5]
+<sup>2</sup> Une autorité fédérale a qualité pour recourir si le droit fédéral prévoit que la décision doit lui être communiquée.[^81-6]
 
 <sup>3</sup> La qualité pour recourir contre les décisions visées à l’art. 78, al. 2, let. b, appartient également à la Chancellerie fédérale, aux départements fédéraux ou, pour autant que le droit fédéral le prévoie, aux unités qui leur sont subordonnées, si l’acte attaqué est susceptible de violer la législation fédérale dans leur domaine d’attributions.
 
-[^81-1]: Abrogé par le ch. II 3 de l’annexe 1 du CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-2]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^81-3]: Introduit par le ch. II 8 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)). Nouvelle teneur selon le ch. II 3 de l’annexe 1 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-4]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^81-5]: Nouvelle teneur selon l’annexe 1 ch. II 3 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-1]: Nouvelle teneur selon l’annexe 1 ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^81-2]: Abrogé par l’annexe 1 ch. II 3 du CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-3]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^81-4]: Introduit par le ch. II 8 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)). Nouvelle teneur selon l’annexe 1 ch. II 3 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^81-6]: Nouvelle teneur selon l’annexe 1 ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 3 Recours en matière de droit public
 
@@ -1150,7 +1151,7 @@ Le recours est irrecevable contre:
 
   les décisions en matière d’agriculture qui concernent:
 
-  - 1\.[^83-19] ...
+  - 1\.[^83-19] …
   - 2\. la délimitation de zones dans le cadre du cadastre de production;
 
 - t.[^83-20] les décisions sur le résultat d’examens ou d’autres évaluations des capacités, notamment en matière de scolarité obligatoire, de formation ultérieure ou d’exercice d’une profession;
@@ -1264,7 +1265,7 @@ Le recours concernant le droit de vote des citoyens ainsi que les élections et 
 A qualité pour former un recours en matière de droit public quiconque:
 
 - a. a pris part à la procédure devant l’autorité précédente ou a été privé de la possibilité de le faire;
-- b. est particulièrement atteint par la décision ou l’acte normatif attaqué; et
+- b. est particulièrement atteint par la décision ou l’acte normatif attaqué, et
 - c. a un intérêt digne de protection à son annulation ou à sa modification.
 
 <sup>2</sup>
@@ -1313,7 +1314,7 @@ Le recours est recevable contre toute décision:
 
 Les autres décisions préjudicielles et incidentes notifiées séparément peuvent faire l’objet d’un recours:
 
-- a. si elles peuvent causer un préjudice irréparable; ou
+- a. si elles peuvent causer un préjudice irréparable, ou
 - b. si l’admission du recours peut conduire immédiatement à une décision finale qui permet d’éviter une procédure probatoire longue et coûteuse.
 
 <sup>2</sup> En matière d’entraide pénale internationale et en matière d’asile, les décisions préjudicielles et incidentes ne peuvent pas faire l’objet d’un recours.[^93-1] Le recours contre les décisions relatives à la détention extraditionnelle ou à la saisie d’objets et de valeurs est réservé si les conditions de l’al. 1 sont remplies.
@@ -1403,7 +1404,7 @@ Le délai de recours est de cinq jours contre:
 
 <sup>5</sup> En matière de recours pour conflit de compétence entre deux cantons, le délai de recours commence à courir au plus tard le jour où chaque canton a pris une décision pouvant faire l’objet d’un recours devant le Tribunal fédéral.
 
-<sup>6</sup> ...[^100-7]
+<sup>6</sup> …[^100-7]
 
 <sup>7</sup> Le recours pour déni de justice ou retard injustifié peut être formé en tout temps.
 
@@ -1544,9 +1545,9 @@ Si, en vertu de la présente loi, les cantons sont tenus d’instituer un tribun
 
 <sup>2</sup> Si une autorité fédérale a qualité pour recourir devant le Tribunal fédéral, elle peut recourir devant les autorités cantonales précédentes ou, pour autant qu’elle le demande, participer à la procédure devant celles-ci.
 
-<sup>3</sup> L’autorité qui précède immédiatement le Tribunal fédéral doit pouvoir examiner au moins les griefs visés aux art. 95 à 98. ...[^111-1]
+<sup>3</sup> L’autorité qui précède immédiatement le Tribunal fédéral doit pouvoir examiner au moins les griefs visés aux art. 95 à 98. …[^111-1]
 
-[^111-1]: Phrase abrogée par le ch. II 2 de l’annexe 1 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^111-1]: Phrase abrogée par l’annexe 1 ch. II 2 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 112
 
@@ -1700,7 +1701,7 @@ La révision peut en outre être demandée:
 - b.[^123-1] dans les affaires pénales, si les conditions fixées à l’art. 410, al. 1, let. a et b, et 2 CPP[^123-2] sont remplies;
 - c.[^123-3] en matière de réparation d’un dommage nucléaire, pour les motifs prévus à l’art. 5, al. 5, de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^123-4].
 
-[^123-1]: Nouvelle teneur selon le ch. II 3 de l’annexe 1 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^123-1]: Nouvelle teneur selon l’annexe 1 ch. II 3 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^123-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^123-3]: Introduite par l’annexe ch. II 1 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^123-4]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
@@ -1760,7 +1761,7 @@ Pour autant que le Tribunal fédéral ne considère pas la demande de révision 
 <sup>3</sup> Si le Tribunal fédéral statue à nouveau dans une affaire pénale, l’art. 415 CPP[^128-1] est applicable par analogie.[^128-2]
 
 [^128-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^128-2]: Nouvelle teneur selon le ch. II 3 de l’annexe 1 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^128-2]: Nouvelle teneur selon l’annexe 1 ch. II 3 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### Section 2 Interprétation et rectification
 
@@ -1806,7 +1807,7 @@ Pour autant que le Tribunal fédéral ne considère pas la demande de révision 
 
 <sup>1</sup> La présente loi s’applique aux procédures introduites devant le Tribunal fédéral après son entrée en vigueur; elle ne s’applique aux procédures de recours que si l’acte attaqué a été rendu après son entrée en vigueur.
 
-<sup>2</sup> ...[^132-1]
+<sup>2</sup> …[^132-1]
 
 <sup>3</sup> La période de fonction des juges ordinaires et suppléants qui ont été élus sur la base de l’organisation judiciaire du 16 décembre 1943[^132-2] ou de l’arrêté fédéral du 23 mars 1984 concernant l’augmentation du nombre des juges suppléants du Tribunal fédéral[^132-3] ou qui seront élus pendant les années 2007 et 2008 prend fin le 31 décembre 2008.[^132-4]
 
@@ -1844,6 +1845,6 @@ Annexe
 
 ## Modification du droit en vigueur
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218).

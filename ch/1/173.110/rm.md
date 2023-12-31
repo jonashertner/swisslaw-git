@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2005 davart il Tribunal federal (Le
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: rm
-version: 2022-07-01
+version: 2024-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220701-rm-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240101-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,17 +19,18 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il tribunal federal, LTF)
 
-dals 17 da zercladur 2005 (versiun dal 1. da fanadur 2022)
+dals 17 da zercladur 2005 (versiun dal 1. da schaner 2024)
+
+[^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
 
 L’Assamblea federala da la Confederaziun svizra,
 
-sa basond sin ils artitgels 188–191*c* da la Constituziun federala[^t-2], suenter avair gì invista da la missiva dal Cussegl federal dals 28 da favrer 2001[^t-3],
+sa basond sin ils artitgels 188–191*c* da la Constituziun federala[^ingress-1], suenter avair gì invista da la missiva dal Cussegl federal dals 28 da favrer 2001[^ingress-2],
 
 concluda:
 
-[^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
-[^t-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^t-3]: [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 ## 1. chapitel Posiziun ed organisaziun
 
@@ -1053,21 +1054,22 @@ Il dretg da far recurs en chaussas penalas ha, tgi che:
 
   - 1\. la persuna inculpada,
   - 2\. ses represchentant legal,
-  - 3\. la Procura publica,
-  - 4\.[^81-1] …
-  - 5\.[^81-2] l’accusader privat, sche la decisiun contestada po avair consequenzas sin il giudicament da sias pretensiuns civilas,
+  - 3\.[^81-1] la Procura publica, danor en cas da decisiuns davart l’ordinaziun, la prolungaziun e l’annullaziun da l’arrest d’inquisiziun e da l’arrest da segirezza,
+  - 4\.[^81-2] …
+  - 5\.[^81-3] l’accusader privat, sche la decisiun contestada po avair consequenzas sin il giudicament da sias pretensiuns civilas,
   - 6\. la persuna che porta il plant penal, uschenavant ch’i sa tracta dal dretg da purtar plant penal sco tal,
-  - 7\.[^81-3] la Procura publica da la Confederaziun e l’administraziun participada en chaussas penalas administrativas tenor la Lescha federala dals 22 da mars 1974[^81-4] davart il dretg penal administrativ.
+  - 7\.[^81-4] la Procura publica da la Confederaziun e l’administraziun participada en chaussas penalas administrativas tenor la Lescha federala dals 22 da mars 1974[^81-5] davart il dretg penal administrativ.
 
-<sup>2</sup> La Procura publica da la Confederaziun ha er il dretg da far recurs, sch’il dretg federal prevesa che la decisiun stoppia vegnir communitgada ad ella u ad in’autra autoritad federala u sch’ella ha surdà la chaussa penala a las autoritads chantunalas per laschar retschertgar e giuditgar la chaussa.[^81-5]
+<sup>2</sup> In’autoritad federala ha il dretg da far recurs, sch’il dretg federal prevesa che la decisiun vegnia communitgada ad ella.[^81-6]
 
 <sup>3</sup> Il dretg da far recurs cunter decisiuns tenor l’artitgel 78 alinea 2 litera b han er la Chanzlia federala, ils departaments federals u, uschenavant ch’il dretg federal prevesa quai, ils servetschs ch’èn subordinads ad els, sche la decisiun contestada po violar la legislaziun federala en lur champ d’incumbensas.
 
-[^81-1]: Abolì tras la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, cun effect dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-2]: Versiun tenor la cifra II 5 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^81-3]: Integrà tras la cifra II 8 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-4]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^81-5]: Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-1]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^81-2]: Abolì tras la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, cun effect dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-3]: Versiun tenor la cifra II 5 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^81-4]: Integrà tras la cifra II 8 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^81-6]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 3. secziun Recurs en chaussas da dretg public
 
@@ -1619,7 +1621,7 @@ Per la procedura dal recurs constituziunal valan ils artitgels 90–94, 99, 100,
 
 <sup>3</sup> El examinescha las contestaziuns formuladas tenor las prescripziuns davart il gener da recurs correspundent.
 
-## 5*a*. chapitel**** Revisiun da decisiuns da dretgiras da cumpromiss en la giurisdicziun internaziunala da cumpromiss
+## 5*a*. chapitel Revisiun da decisiuns da dretgiras da cumpromiss en la giurisdicziun internaziunala da cumpromiss
 
 [^chap5a-1]
 

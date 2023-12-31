@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsge
 short: BGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: de
-version: 2022-07-01
+version: 2024-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220701-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/de"
 
 (Bundesgerichtsgesetz, BGG)
 
-vom 17. Juni 2005 (Stand am 1. Juli 2022)
+vom 17. Juni 2005 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1050,21 +1050,22 @@ Zur Beschwerde in Strafsachen ist berechtigt, wer:
 
   - 1\. die beschuldigte Person,
   - 2\. ihr gesetzlicher Vertreter oder ihre gesetzliche Vertreterin,
-  - 3\. die Staatsanwaltschaft,
-  - 4\.[^81-1] …
-  - 5\.[^81-2] die Privatklägerschaft, wenn der angefochtene Entscheid sich auf die Beurteilung ihrer Zivilansprüche auswirken kann,
+  - 3\.[^81-1] die Staatsanwaltschaft, ausser bei Entscheiden über die Anordnung, die Verlängerung und die Aufhebung der Untersuchungs- und Sicherheitshaft,
+  - 4\.[^81-2] …
+  - 5\.[^81-3] die Privatklägerschaft, wenn der angefochtene Entscheid sich auf die Beurteilung ihrer Zivilansprüche auswirken kann,
   - 6\. die Person, die den Strafantrag stellt, soweit es um das Strafantragsrecht als solches geht,
-  - 7\.[^81-3] die Staatsanwaltschaft des Bundes und die beteiligte Verwaltung in Verwaltungsstrafsachen nach dem Bundesgesetz vom 22. März 1974[^81-4] über das Verwaltungsstrafrecht.
+  - 7\.[^81-4] die Staatsanwaltschaft des Bundes und die beteiligte Verwaltung in Verwaltungsstrafsachen nach dem Bundesgesetz vom 22. März 1974[^81-5] über das Verwaltungsstrafrecht.
 
-<sup>2</sup> Die Staatsanwaltschaft des Bundes ist auch zur Beschwerde berechtigt, wenn das Bundesrecht vorsieht, dass ihr oder einer anderen Bundesbehörde der Entscheid mitzuteilen ist oder wenn sie die Strafsache den kantonalen Behörden zur Untersuchung und Beurteilung überwiesen hat.[^81-5]
+<sup>2</sup> Eine Bundesbehörde ist zur Beschwerde berechtigt, wenn das Bundesrecht vorsieht, dass ihr der Entscheid mitzuteilen ist.[^81-6]
 
 <sup>3</sup> Gegen Entscheide nach Artikel 78 Absatz 2 Buchstabe b steht das Beschwerderecht auch der Bundeskanzlei, den Departementen des Bundes oder, soweit das Bundesrecht es vorsieht, den ihnen unterstellten Dienststellen zu, wenn der angefochtene Entscheid die Bundesgesetzgebung in ihrem Aufgabenbereich verletzen kann.
 
-[^81-1]: Aufgehoben durch Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-2]: Fassung gemäss Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^81-3]: Eingefügt durch Ziff. II 8 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-4]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^81-5]: Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-1]: Fassung gemäss Anhang 1 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^81-2]: Aufgehoben durch Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-3]: Fassung gemäss Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^81-4]: Eingefügt durch Ziff. II 8 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^81-6]: Fassung gemäss Anhang 1 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 3. Abschnitt: Beschwerde in öffentlich-rechtlichen Angelegenheiten
 
