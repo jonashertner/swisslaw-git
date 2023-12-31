@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-en-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20240101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20240101-en-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 September 2023)
+of 30 March 1911 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -4452,7 +4452,7 @@ The employer may not reduce the holiday entitlement of:
 
 - a. a female employee who is prevented from working by pregnancy for up to two months;
 - b. a female employee who has taken maternity leave in accordance with Article 329*f*;
-- c.[^329b-3] a male employee who has taken paternity leave in accordance with Article 329*g*;
+- c. [^329b-3] an employee who has taken parental leave in accordance with Article 329*g* or leave in the event of the mother’s death in accordance with Article 329*g*<sup>bis</sup>;
 - d. an employee who has taken carer’s leave in accordance with Article 329*i*,
 - e.[^329b-4] an employee who has taken adoption leave in accordance with Article 329*j*.[^329b-5]
 
@@ -4460,7 +4460,7 @@ The employer may not reduce the holiday entitlement of:
 
 [^329b-1]: Amended by Art. 117 of the FA of 25 June 1982 on Unemployment Insurance, in force since 1 Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Amended by Art. 13 of the FA of 6 Oct. 1989 on Youth Work, in force since 1 Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Amended by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-3]: Amended by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^329b-4]: Amended by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^329b-5]: Amended by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-6]: Inserted by No I of the FA of 16 Dec. 1983, in force since 1 July 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
@@ -4509,24 +4509,48 @@ The employer may not reduce the holiday entitlement of:
 
 <sup>1</sup> After having given birth, a female employee is entitled to maternity leave of at least 14 weeks.
 
-<sup>2</sup> In the event of the hospitalisation of the new-born child, the maternity leave shall be extended by the extended period of payment of the maternity allowance.[^329f-2]
+<sup>2</sup> In the event of the hospitalisation of the new-born child, the maternity leave shall be extended by the extended period of payment the maternity allowance.[^329f-2]
+
+<sup>3</sup> In the event of the death of the other parent during the six months following the birth of the child, a female employee is entitled to two additional weeks of leave; she may take this leave in full weeks or on a day-to-day basis within a period of six months from the day after the death.[^329f-3]
 
 [^329f-1]: Inserted by Annex No 1 to the FA of 3 Oct. 2003, in force since 1 July 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^329f-2]: Inserted by No II of the FA of 18 Dec. 2020, in force since 1 July 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^329f-3]: Inserted by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
-### 5. Paternity leave
+### 5. Parental leave
+
+### a. General
 
 #### Art. 329g
 
 [^329g-1]
 
-<sup>1</sup> An employee who is legally the father at the time of the birth of a child or who becomes the legal father within the following six months is entitled to paternity leave of two weeks.
+<sup>1</sup>
 
-<sup>2</sup> Paternity leave must be taken within six months of the birth of the child.
+The following persons are entitled to parental leave of two weeks:
 
-<sup>3</sup> It may be taken in full weeks or on a day-to-day basis.
+- a. an employee who is legally the father at the time of the birth of a child or who becomes the legal father within the following six months;
+- b. a female employee who is legally the other parent at the time of the birth of the child.
 
-[^329g-1]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+<sup>2</sup> Parental leave must be taken within six months of the birth of the child. This period is suspended during leave in accordance with Article 329*g*<sup>bis</sup>.
+
+<sup>3</sup> The leave may be taken in full weeks or on a day-to-day basis.
+
+[^329g-1]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Amended by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+
+### b. In the event of the mother’s death
+
+#### Art. 329g<sup>bis</sup>
+
+[^329gbis-1]
+
+<sup>1</sup> If the mother dies on the day of the birth or during the 14 weeks thereafter, the other parent is entitled to leave of 14 weeks; this leave must be taken on consecutive days from the date of the death.
+
+<sup>2</sup> The other parent is entitled to the leave if the relationship with the child is established on the date of death or during the 14 weeks thereafter.
+
+<sup>3</sup> In the event of the hospitalisation of the new-born child in accordance with Article 329*f* paragraph 2, leave in accordance with paragraph 1 shall be extended by the duration of the hospitalisation, up to a maximum of eight weeks.
+
+[^329gbis-1]: Inserted by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### 6. Leave to care for family members
 
@@ -4891,10 +4915,10 @@ If the company or part thereof is transferred during a debt restructuring morato
 
 <sup>2</sup> These notice periods may be varied by written individual, standard or collective employment contract; however, they may be reduced to less than one month only by collective employment contract and only for the first year of service.
 
-<sup>3</sup> If the employer terminates the employment relationship and if the employee is entitled to paternity leave in accordance with Article 329*g* before the end of the employment relationship, the period of notice of termination shall be extended by the number of days of paternity leave not yet taken.[^335c-2]
+<sup>3</sup> If the employer terminates the employment relationship and if the employee is entitled to parental leave in accordance with Article 329*g* before the end of the employment relationship, the period of notice of termination shall be extended by the number of days of paternity leave not yet taken.[^335c-2]
 
 [^335c-1]: Inserted by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
-[^335c-2]: Inserted by Annex No 1 of the FA of 27 Sept. 2019, in force since 1 Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^335c-2]: Inserted by Annex No 1 of the FA of 27 Sept. 2019([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Amended by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### II<sup>bis</sup>. Mass redundancies
 
@@ -5105,7 +5129,9 @@ After the probation period has expired, the employer may not terminate the emplo
 - b. while the employee through no fault of his own is partially or entirely prevented from working by illness or accident for up to 30 days in the first year of service, 90 days in the second to fifth years of service and 180 days in the sixth and subsequent years of service;
 - c. during the pregnancy of an employee and the sixteen weeks following birth;
 - c<sup>bis</sup>.[^336c-4] before the end of the extended period of maternity leave in accordance with Article 329*f* paragraph 2;
-- c<sup>ter</sup>.[^336c-5] for as long as the employee is entitled to carer’s leave under Article 329*i*, but for no longer than six months from the day on which the period within which to take the leave begins;
+- c<sup>ter</sup>.[^336c-5] between the start of leave in accordance with Article 329*f* paragraph 3 and the last day of leave taken, but for a maximum of three months from the end of the period in accordance with letter c;
+- c<sup>quater</sup>.[^336c-6] for as long as the employee is entitled to carer’s leave under Article 329*i*, but for no longer than six months from the day on which the period within which to take the leave begins;
+- [tab] c<sup>quinquies</sup>.[^336c-7] while leave is being taken in accordance with Article 329*g*<sup>bis</sup>;
 - d. while the employee is participating with the employer’s consent in an overseas aid project ordered by the competent federal authority.
 
 <sup>2</sup> Any notice of termination given during the proscribed periods stipulated in paragraph 1 is void; by contrast, where such notice was given prior to the commencement of a proscribed period but the notice period has not yet expired at that juncture, it is suspended and does not resume until the proscribed period has ended.
@@ -5116,7 +5142,9 @@ After the probation period has expired, the employer may not terminate the emplo
 [^336c-2]: Amended by Annex No 3 to the FA of 6 Oct. 1995 on Alternative Civilian Service, in force since 1 Oct. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Revised by the Federal Assembly Drafting Committee (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^336c-4]: Inserted by No II of the FA of 18 Dec. 2020, in force since 1 July 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^336c-5]: Originally let. c<sup>bis</sup>. Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-5]: Inserted by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^336c-6]: Originally let. c<sup>bis</sup>, then c<sup>ter</sup>. Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-7]: Inserted by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### b. By the employee
 
@@ -5400,7 +5428,7 @@ The apprenticeship relationship may be terminated with immediate effect for good
 
 - a. the specialist supervising the training lacks the professional skills or personal qualities required to train the apprentice;
 - b. the apprentice does not have the physical or intellectual aptitude required for his training or if his health or morals are in doubt; the apprentice and, where applicable, his legal representative must be heard beforehand;
-- c. the training cannot be completed or can only be completed under fundamentally different conditions.
+- c. the training cannot be completed or can only be completed under fundamentally different conditions
 
 ### 2. Certificate of apprenticeship
 
@@ -5838,38 +5866,63 @@ A canton issuing a standard employment contract pursuant to Article 360*a* must 
 
 #### Art. 361
 
-<sup>1</sup>
+<sup>1</sup> It is not permissible to derogate from the following provisions to the detriment of either the employer or the employee by individual agreement, standard employment contract or collective employment contract:
 
-It is not permissible to derogate from the following provisions to the detriment of either the employer or the employee by individual agreement, standard employment contract or collective employment contract:
+Article 321*c*: paragraph 1 (overtime);
 
-- Article 321*c*: paragraph 1 (overtime);
-- Article 323: paragraph 4 (advances);
-- Article 323*b*: paragraph 2 (set-off against countervailing claims);
-- Article 325: paragraph 2 (assignment and pledge of salary claims);
-- Article 326: paragraph 2 (allocation of work);
-- Article 329*d*: paragraph 2 and 3 (holiday pay);
-- Article 331: paragraphs 1 and 2 (employee benefits scheme contributions);
-- Article 331*b*: (assignment and pledge of claims to occupational benefits);[^361-1]
-- [tab] ...[^361-2]
-- Article 334: paragraph 3 (termination of long-term employment relationships);
-- Article 335: (termination of employment relationships);
-- Article 335*k*: (social plan during bankruptcy or composition proceedings)[^361-3]
-- Article 336: paragraph 1 (wrongful termination);
-- Article 336*a*: (compensation in the event of wrongful termination);
-- Article 336*b*: (compensation procedure);
-- Article 336*d*: (termination by the employee at an inopportune juncture);
-- Article 337: paragraphs 1 and 2 (termination with immediate effect for good cause);
-- Article 337*b*: paragraph 1 (consequences of justified termination);
-- Article 337*d*: (consequences of failure to take up post or departure without just cause);
-- Article 339: paragraph 1 (maturity of claims);
-- Article 339*a*: (return);
-- Article 340*b*: paragraph 1 and 2 (consequences of infringement of the prohibition of competition);
-- Article 342: paragraph 2 (civil law effects of public law);
-- [tab] ...[^361-4]
-- Article 346: (early termination of apprenticeship contract);
-- Article 349*c*: paragraph 3 (prevention from travelling);
-- Article 350: (termination in special cases);
-- Article 350*a*: paragraph 2 (return).[^361-5]
+Article 323: paragraph 4 (advances);
+
+Article 323*b*: paragraph 2 (set-off against countervailing claims);
+
+Article 325: paragraph 2 (assignment and pledge of salary claims);
+
+Article 326: paragraph 2 (allocation of work);
+
+Article 329*d*: paragraph 2 and 3 (holiday pay);
+
+Article 331: paragraphs 1 and 2 (employee benefits scheme contributions);
+
+Article 331*b*: (assignment and pledge of claims to occupational benefits);[^361-1]
+
+...[^361-2]
+
+Article 334: paragraph 3 (termination of long-term employment relationships);
+
+Article 335: (termination of employment relationships);
+
+Article 335*k*: (social plan during bankruptcy or composition proceedings)[^361-3]
+
+Article 336: paragraph 1 (wrongful termination);
+
+Article 336*a*: (compensation in the event of wrongful termination);
+
+Article 336*b*: (compensation procedure);
+
+Article 336*d*: (termination by the employee at an inopportune juncture);
+
+Article 337: paragraphs 1 and 2 (termination with immediate effect for good cause);
+
+Article 337*b*: paragraph 1 (consequences of justified termination);
+
+Article 337*d*: (consequences of failure to take up post or departure without just cause);
+
+Article 339: paragraph 1 (maturity of claims);
+
+Article 339*a*: (return);
+
+Article 340*b*: paragraph 1 and 2 (consequences of infringement of the prohibition of competition);
+
+Article 342: paragraph 2 (civil law effects of public law);
+
+...[^361-4]
+
+Article 346: (early termination of apprenticeship contract);
+
+Article 349*c*: paragraph 3 (prevention from travelling);
+
+Article 350: (termination in special cases);
+
+Article 350*a*: paragraph 2 (return).[^361-5]
 
 <sup>2</sup> Any agreement or clause of a standard employment contract or collective employment contract that derogates from the aforementioned provisions to the detriment of the employer or the employee is void.
 
@@ -5881,88 +5934,150 @@ It is not permissible to derogate from the following provisions to the detriment
 
 ### B. Provisions from which no derogation is permissible to the detriment of the employee
 
-### **Article 362**
+#### Art. 362
 
-<sup>1</sup> It is not permissible to derogate from the following provisions to the detriment of the employee by individual agreement, standard employment contract or collective employment contract:[^part2-tit10-chap4-lvlB-lvlu1-1]
+<sup>1</sup> It is not permissible to derogate from the following provisions to the detriment of the employee by individual agreement, standard employment contract or collective employment contract:[^362-1]
 
-- Article 321*e*: (employee’s liability);
-- Article 322*a*: paragraphs 2 and 3 (share in the business results);
-- Article 322*b*: paragraphs 1 and 2 (entitlement to commission);
-- Article 322*c*: (statement of commission);
-- Article 323*b*: paragraph 1, second sentence (salary statement);
-- Article 324: (salary where employer fails to accept work);
-- Article 324*a*: paragraphs 1 and 3 (salary where employee is prevented from working);
-- Article 324*b*: (salary where employee has compulsory insurance);
-- Article 326: paragraphs 1, 3 and 4 (piece work);
-- Article 326*a*: (piece work rates);
-- Article 327*a*: paragraph 1 (reimbursement of expenses in general);
-- Article 327*b*: paragraph 1 (reimbursement of expenses for motor vehicles);
-- Article 327*c*: paragraph 2 (advances for expenses);
-- Article 328: (protection of the employee’s personality rights in general);
-- Article 328*a*: (protection of personality rights of employees living in the employer’s household);
-- Article 328*b*: (protection when handling personal data);[^part2-tit10-chap4-lvlB-lvlu1-2]
-- Article 329: paragraphs 1, 2 and 3 (days off work);
-- Article 329*a*: paragraphs 1 and 3 (holiday entitlement);
-- Article 329*b*: paragraphs 2 and 3 (reduction of holiday entitlement);
-- Article 329*c*: (consecutive weeks and timing of holidays);
-- Article 329*d*: paragraph 1 (holiday pay);
-- Article 329*e*: paragraphs 1 and 3 (leave for youth work);[^part2-tit10-chap4-lvlB-lvlu1-3]
-- Article 329*f*: (maternity leave);[^part2-tit10-chap4-lvlB-lvlu1-4]
-- Article 329*g*: (paternity leave);[^part2-tit10-chap4-lvlB-lvlu1-5]
-- Article 329*h*: (leave to care for family members);[^part2-tit10-chap4-lvlB-lvlu1-6]
-- Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident);[^part2-tit10-chap4-lvlB-lvlu1-7]
-- Article 329*j*: (Adoption leave);[^part2-tit10-chap4-lvlB-lvlu1-8]
-- Article 330: paragraphs 1, 3 and 4 (security);
-- Article 330*a*: (reference);
-- Article 331: paragraphs 3 and 4 (contributions and information for employee benefits);
-- Article 331*a*: (beginning and end of insurance cover);[^part2-tit10-chap4-lvlB-lvlu1-9]
-- [tab] ...[^part2-tit10-chap4-lvlB-lvlu1-10]
-- Article 332: paragraph 4 (remuneration for inventions);
-- Article 333: paragraph 3 (liability in the event of transfer of employment relationships);
-- Article 335*c*: (notice periods)[^part2-tit10-chap4-lvlB-lvlu1-11]
-- Article 335*i*: (duty to negotiate in order to conclude a social plan)[^part2-tit10-chap4-lvlB-lvlu1-12]
-- Article 335*j*: (preparation of the social plan by an arbitral tribunal)[^part2-tit10-chap4-lvlB-lvlu1-13]
-- Article 336: paragraph 2 (wrongful termination by the employer);
-- Article 336*c*: (termination by the employer at an inopportune juncture);
-- Article 337*a*: (termination with immediate effect because salary is at risk);
-- Article 337*c*: paragraph 1 (consequences of termination without just cause);
-- Article 338: (death of the employee);
-- Article 338*a*: (death of the employer);
-- Article. 339*b*: (Requirements for severance allowance);
-- Article. 339*d*: (benefits in lieu);
-- Article. 340: paragraph 1 (Requirements for prohibition of competition);
-- Article. 340*a*: paragraph 1 (restrictions on prohibition of competition);
-- Article. 340*c*: (extinction of prohibition of competition);
-- Article. 341: paragraph 1 (no right of waiver);
-- Article. 345*a*: (obligations of the master[^part2-tit10-chap4-lvlB-lvlu1-14]);
-- Article. 346*a*: (certificate of apprenticeship);
-- Article. 349*a*: paragraph 1 (commercial traveller’s salary);
-- Article. 349*b*: paragraph 3 (payment of commission);
-- Article. 349*c*: paragraph 1 (salary where prevented from travelling);
-- Article. 349*e*: paragraph 1 (commercial traveller’s lien);
-- Article. 350*a*: paragraph 1 (commission on termination of the employment relationship);
-- Article. 352*a*: paragraph 3 (home worker’s liability);
-- Article. 353: (acceptance of completed work);
-- Article. 353*a*: (payment of salary);
-- Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).[^part2-tit10-chap4-lvlB-lvlu1-15]
+Article 321*e*: (employee’s liability);
+
+Article 322*a*: paragraphs 2 and 3 (share in the business results);
+
+Article 322*b*: paragraphs 1 and 2 (entitlement to commission);
+
+Article 322*c*: (statement of commission);
+
+Article 323*b*: paragraph 1, second sentence (salary statement);
+
+Article 324: (salary where employer fails to accept work);
+
+Article 324*a*: paragraphs 1 and 3 (salary where employee is prevented from working);
+
+Article 324*b*: (salary where employee has compulsory insurance);
+
+Article 326: paragraphs 1, 3 and 4 (piece work);
+
+Article 326*a*: (piece work rates);
+
+Article 327*a*: paragraph 1 (reimbursement of expenses in general);
+
+Article 327*b*: paragraph 1 (reimbursement of expenses for motor vehicles);
+
+Article 327*c*: paragraph 2 (advances for expenses);
+
+Article 328: (protection of the employee’s personality rights in general);
+
+Article 328*a*: (protection of personality rights of employees living in the employer’s household);
+
+Article 328*b*: (protection when handling personal data);[^362-2]
+
+Article 329: paragraphs 1, 2 and 3 (days off work);
+
+Article 329*a*: paragraphs 1 and 3 (holiday entitlement);
+
+Article 329*b*: paragraphs 2 and 3 (reduction of holiday entitlement);
+
+Article 329*c*: (consecutive weeks and timing of holidays);
+
+Article 329*d*: paragraph 1 (holiday pay);
+
+Article 329*e*: paragraphs 1 and 3 (leave for youth work);[^362-3]
+
+Article 329*f*: (maternity leave);[^362-4]
+
+Article 329*g*: (parental leave);[^362-5]
+
+Article 329*g*<sup>bis</sup>: (leave in the event of the mother’s death)[^362-6]
+
+Article 329*h*: (leave to care for family members);[^362-7]
+
+Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident);[^362-8]
+
+Article 329*j*: (Adoption leave);[^362-9]
+
+Article 330: paragraphs 1, 3 and 4 (security);
+
+Article 330*a*: (reference);
+
+Article 331: paragraphs 3 and 4 (contributions and information for employee benefits);
+
+Article 331*a*: (beginning and end of insurance cover);[^362-10]
+
+...[^362-11]
+
+Article 332: paragraph 4 (remuneration for inventions);
+
+Article 333: paragraph 3 (liability in the event of transfer of employment relationships);
+
+Article 335*c*: (notice periods)[^362-12]
+
+Article 335*i*: (duty to negotiate in order to conclude a social plan)[^362-13]
+
+Article 335*j*: (preparation of the social plan by an arbitral tribunal)[^362-14]
+
+Article 336: paragraph 2 (wrongful termination by the employer);
+
+Article 336*c*: (termination by the employer at an inopportune juncture);
+
+Article 337*a*: (termination with immediate effect because salary is at risk);
+
+Article 337*c*: paragraph 1 (consequences of termination without just cause);
+
+Article 338: (death of the employee);
+
+Article 338*a*: (death of the employer);
+
+Article. 339*b*: (Requirements for severance allowance);
+
+Article. 339*d*: (benefits in lieu);
+
+Article. 340: paragraph 1 (Requirements for prohibition of competition);
+
+Article. 340*a*: paragraph 1 (restrictions on prohibition of competition);
+
+Article. 340*c*: (extinction of prohibition of competition);
+
+Article. 341: paragraph 1 (no right of waiver);
+
+Article. 345*a*: (obligations of the master[^362-15]);
+
+Article. 346*a*: (certificate of apprenticeship);
+
+Article. 349*a*: paragraph 1 (commercial traveller’s salary);
+
+Article. 349*b*: paragraph 3 (payment of commission);
+
+Article. 349*c*: paragraph 1 (salary where prevented from travelling);
+
+Article. 349*e*: paragraph 1 (commercial traveller’s lien);
+
+Article. 350*a*: paragraph 1 (commission on termination of the employment relationship);
+
+Article. 352*a*: paragraph 3 (home worker’s liability);
+
+Article. 353: (acceptance of completed work);
+
+Article. 353*a*: (payment of salary);
+
+Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).[^362-16]
 
 <sup>2</sup> Any agreement or clause of a standard employment contract or collective employment contract that derogates from the aforementioned provisions to the detriment of the employee is void.
 
-[^part2-tit10-chap4-lvlB-lvlu1-1]: Amended by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-2]: Inserted by Annex No 2 to the FA of 19 June 1992 on Data Protection, in force since 1 July 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
-[^part2-tit10-chap4-lvlB-lvlu1-3]: Inserted by Art. 13 of the FA of 6 Oct. 1989 on Youth Work, in force since 1 Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^part2-tit10-chap4-lvlB-lvlu1-4]: Inserted by Annex No 12 Annex No 1 to the FA of 3 Oct. 2003, in force since 1 July 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^part2-tit10-chap4-lvlB-lvlu1-5]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-6]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-7]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-8]: Inserted by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^part2-tit10-chap4-lvlB-lvlu1-9]: Amended by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^part2-tit10-chap4-lvlB-lvlu1-10]: Repealed by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, with effect from 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^part2-tit10-chap4-lvlB-lvlu1-11]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-12]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^part2-tit10-chap4-lvlB-lvlu1-13]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^part2-tit10-chap4-lvlB-lvlu1-14]: Now: the employer.
-[^part2-tit10-chap4-lvlB-lvlu1-15]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-1]: Amended by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-2]: Inserted by Annex No 2 to the FA of 19 June 1992 on Data Protection, in force since 1 July 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^362-3]: Inserted by Art. 13 of the FA of 6 Oct. 1989 on Youth Work, in force since 1 Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
+[^362-4]: Inserted by Annex No 12 Annex No 1 to the FA of 3 Oct. 2003, in force since 1 July 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^362-5]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Amended by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-6]: Inserted by Annex No 1 of the FA of 17 March 2023 (Daily Allowance for the Surviving Parent), in force since 1 Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-7]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-8]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-9]: Inserted by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^362-10]: Amended by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-11]: Repealed by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, with effect from 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-12]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-13]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-14]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-15]: Now: the employer.
+[^362-16]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Title Eleven: The Work Contract
 
@@ -9198,9 +9313,7 @@ The resolution adopted by the general meeting or the board of directors concerni
 
 <sup>1</sup> The general meeting may resolve to make an ordinary increase in share capital.
 
-<sup>2</sup>
-
-The resolution of the general meeting must be done as a public deed and contain the following information:
+<sup>2</sup> The resolution of the general meeting must be done as a public deed and contain the following information:
 
 - 1\. the nominal value or, if applicable, the maximum nominal value by which the share capital is to be increased;
 - 2\. the number or, if applicable, the nominal value and type of newly issued shares and preferential rights pertaining to specific classes of shares;
@@ -9308,7 +9421,6 @@ Unless the law provides otherwise, capital contributions must be made in accorda
 The equity capital used to meet the amount of the increase is shown:
 
 - 1\. in the annual accounts as approved by the general meeting and audited by a licensed auditor; or
-
 - 2\. in an interim account audited by a licensed auditor, provided the balance sheet date at the time of the resolution of the general meeting is more than six months in the past.[^652d-2]
 
 <sup>3</sup> The articles of association must indicate that the capital increase was made by converting freely disposable equity capital.[^652d-3]
@@ -9393,9 +9505,7 @@ Shares issued prior to entering the capital increase in the commercial register 
 
 [^653-1]
 
-<sup>1</sup> The general meeting resolve to create contingent capital by granting shareholders, creditors of bonds or similar debt instruments, employees, members of the board of directors of the company or another company in the group or third parties the right to subscribe for new shares (conversion and option rights).
-
-<sup>2</sup> The share capital automatically increases whenever and to the extent that such conversion or option rights are exercised and the contribution obligations are discharged by payment or offsetting.
+<sup>1</sup> The general meeting resolve to create contingent capital by granting shareholders, creditors of bonds or similar debt instruments, employees, members of the board of directors of the company or another company in the group or third parties the right to subscribe for new shares (conversion and option rights).<sup>2</sup> The share capital automatically increases whenever and to the extent that such conversion or option rights are exercised and the contribution obligations are discharged by payment or offsetting.
 
 <sup>3</sup> The provisions on increasing the share capital from contingent capital also apply *mutatis mutandis* in the event that conversion and acquisition requirements are imposed.
 
@@ -9650,7 +9760,7 @@ The resolution of the general meeting on reducing the share capital must be done
 
 [^653p-1]
 
-<sup>1</sup> If the share capital is reduced in order to partly or fully correct a situation of negative net worth caused by losses and if a licensed audit expert confirms to the general meeting that the amount of the capital reduction does not exceed the amount of the negative net worth, the provisions relating to an ordinary capital reduction on securing claims, the interim account, the audit confirmation and the declarations of the board of directors do not apply.
+<sup>1</sup> If the share capital is reduced in order to partly or fully correct a situation of negative net worth caused by losses and if a licensed audit expert confirms to the general meeting that the amount of the capital reduction does not exceed the amount of the negative net worth, the provisions relating to an ordinary capital reduction on securing claims, the interim account, the audit confirmation and the declarations of the board of directors do not apply.<sup>2</sup> The resolution of the general meeting shall contain the information specified in Article 653*n*. It shall make reference to the result of the audit report and amend the articles of association.
 
 <sup>2</sup> The resolution of the general meeting shall contain the information specified in Article 653*n*. It shall make reference to the result of the audit report and amend the articles of association.
 
@@ -9718,6 +9828,7 @@ If a capital band is introduced, the articles of association must specify the fo
 - 4\. the number, nominal value and type of shares and the preferential rights of individual classes of shares or participation certificates;
 - 5\. the nature and value of special privileges and the names of the beneficiaries;
 - 6\. restrictions on the transferability of newly registered shares;
+
 - 7\. any restriction or cancellation of the subscription right or the good cause for which the board of directors may restrict or cancel the subscription right, and the allocation of subscription rights that have not been exercised or have been withdrawn;
 - 8\. the requirements for exercising contractually acquired subscription rights;
 - 9\. the authorisation of the board of directors to increase the capital with contingent capital and the information specified in Article 653*b*;
@@ -10190,7 +10301,6 @@ Losses must be offset in the following order against:
 
 - 1\. the profit carried forward;
 - 2\. the voluntary retained earnings;
-
 - 3\. the statutory retained earnings;
 - 4\. the statutory capital reserve.
 
@@ -15934,7 +16044,7 @@ The supreme management or governing body shall ensure that the report:
 
 #### Art. 964d
 
-<sup>1</sup> Companies that are required by law to undergo an ordinary audit and which and which are either themselves or through a company that they control involved in the extraction of minerals, oil or natural gas or in the harvesting of timber in primary forests must produce a report each year on the payments they have made to state bodies.[^964d-1]
+<sup>1</sup> Companies that are required by law to undergo an ordinary audit and which are either themselves or through a company that they control involved in the extraction of minerals, oil or natural gas or in the harvesting of timber in primary forests must produce a report each year on the payments they have made to state bodies.[^964d-1]
 
 <sup>2</sup> If the company must draw up consolidated annual accounts, then it must produce a consolidated report on payments made to state bodies (group payments report); this replaces the reports from the individual companies.
 

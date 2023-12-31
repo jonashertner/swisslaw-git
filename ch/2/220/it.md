@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-it-xml-39.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20240101/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20240101-it-xml-23.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 1° settembre 2023)
+del 30 marzo 1911 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -163,7 +163,7 @@ Quando la legge prescrive per un contratto la forma scritta, questa s’intende 
 
 <sup>1</sup> Il contratto pel quale la legge prescrive la forma scritta deve essere firmato da tutti i contraenti, che mediante il medesimo rimangono obbligati.
 
-<sup>2</sup> ...[^13-1]
+<sup>2</sup> …[^13-1]
 
 [^13-1]: Abrogato dall’all. n. 2 della LF del 19 dic. 2003 sulla firma elettronica, con effetto dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
@@ -505,7 +505,7 @@ Il cliente non ha diritto di revoca se:
 
 [^40e-1]
 
-- [tab] <sup>1</sup> La revoca non è vincolata ad alcuna forma. La prova dell’osservanza del termine di revoca incombe al cliente.[^40e-2]
+<sup>1</sup> La revoca non è vincolata ad alcuna forma. La prova dell’osservanza del termine di revoca incombe al cliente.[^40e-2]
 
 <sup>2</sup>
 
@@ -617,7 +617,7 @@ Il termine di revoca è di 14 giorni e decorre dal momento in cui il cliente:[^4
 
 Nel caso di morte di un uomo o di lesione corporale, il giudice, tenuto conto delle particolari circostanze, potrà attribuire al danneggiato o ai congiunti dell’ucciso un’equa indennità pecuniaria a titolo di riparazione.
 
-### 2. ...
+### 2. …
 
 #### Art. 48
 
@@ -703,7 +703,7 @@ Nel caso di morte di un uomo o di lesione corporale, il giudice, tenuto conto de
 
 <sup>2</sup> Gli è salvo il regresso se l’animale sia stato aizzato da terza persona o dall’animale di un altro.
 
-<sup>3</sup> ...[^56-1]
+<sup>3</sup> …[^56-1]
 
 [^56-1]: Abrogato dall’art. 27 n. 3 della L del 20 giu. 1986 sulla caccia, con effetto dal 1° apr. 1988 ([RU 1988 506](https://fedlex.data.admin.ch/eli/oc/1988/506_506_506); [FF 1983 II 1169](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)).
 
@@ -1746,7 +1746,7 @@ La condizione diretta allo scopo di promuovere un atto od una omissione illecita
 
 <sup>3</sup> Se fu pattuita una pena di recesso, colui che la diede può recedere dal contratto perdendo il denaro dato e colui che la ricevette restituendo il doppio.
 
-### B. ...
+### B. …
 
 #### Art. 159
 
@@ -1782,7 +1782,7 @@ La condizione diretta allo scopo di promuovere un atto od una omissione illecita
 
 <sup>1</sup> Le disposizioni sulla pena convenzionale sono applicabili al patto che i pagamenti rateali restano acquisiti al creditore in caso di recesso.
 
-<sup>2</sup> ...[^162-1]
+<sup>2</sup> …[^162-1]
 
 [^162-1]: Abrogato dall’all. 2 n. II 2 della LF del 23 mar. 2001 sul credito al consumo, con effetto dal 1° gen. 2003 ([RU 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2697](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
@@ -1972,7 +1972,7 @@ Rimangono riservate le speciali disposizioni che la legge stabilisce per la tras
 [^181-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 [^181-3]: Introdotto dall’all. n. 2 della LF del 3 ott. 2003 sulla fusione ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)). Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### VI. ...
+### VI. …
 
 #### Art. 182
 
@@ -2498,7 +2498,7 @@ Nel rimanente, alla vendita dei fondi si applicano per analogia le disposizioni 
 
 [^226-1]: Abrogato dal n. I della LF del 23 mar. 1962, con effetto dal 1° gen. 1963 ([RU 1962 1085](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); FF **1962** 593).
 
-### C. ...
+### C. …
 
 #### Art. 226a a 226d
 
@@ -2656,7 +2656,7 @@ Ove la cosa permutata venga evitta o restituita pei suoi difetti, la parte danne
 
 <sup>2</sup> I beni dell’incapace possono essere donati solamente per effettuare regali d’uso. È fatta salva la responsabilità del rappresentante legale.[^240-1]
 
-<sup>3</sup> ...[^240-2]
+<sup>3</sup> …[^240-2]
 
 [^240-1]: Nuovo testo giusta l’all. n. 10 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^240-2]: Abrogato dall’all. n. 10 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), con effetto dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -3590,7 +3590,7 @@ Il conduttore che intende domandare la protrazione della locazione deve presenta
 
 <sup>2</sup> Le convenzioni contrarie sono nulle.
 
-### Capo quarto: ...
+### Capo quarto: …
 
 #### Art. 274 a 274g
 
@@ -4356,7 +4356,7 @@ Il lavoratore deve prestare personalmente il lavoro stipulato, in quanto il cont
 
 <sup>2</sup> Se il lavoratore, d’intesa con il datore di lavoro, mette a disposizione un veicolo a motore, gli devono essere inoltre rimborsati le tasse pubbliche sul veicolo, i premi dell’assicurazione per la responsabilità civile e un’equa indennità per l’usura del veicolo, nella misura in cui questo è adoperato per il lavoro.
 
-<sup>3</sup> ...[^327b-1]
+<sup>3</sup> …[^327b-1]
 
 [^327b-1]: Abrogato dall’all. n. 12 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, con effetto dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724); [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
@@ -4420,7 +4420,7 @@ Il datore di lavoro può trattare dati concernenti il lavoratore soltanto in qua
 
 <sup>3</sup> Il datore di lavoro deve inoltre concedere al lavoratore le ore e i giorni di libero usuali e, se il contratto è disdetto, il tempo necessario per cercare un altro lavoro.
 
-<sup>4</sup> Nel determinare il tempo libero si deve tener debitamente contro degli interessi del datore di lavoro e del lavoratore.
+<sup>4</sup> Nel determinare il tempo libero si deve tener debitamente conto degli interessi del datore di lavoro e del lavoratore.
 
 ### 2. Vacanze
 
@@ -4430,7 +4430,7 @@ Il datore di lavoro può trattare dati concernenti il lavoratore soltanto in qua
 
 <sup>1</sup> Il datore di lavoro deve accordare al lavoratore, ogni anno di lavoro, almeno quattro settimane di vacanza; ai lavoratori sino ai 20 anni compiuti, almeno cinque settimane.[^329a-1]
 
-<sup>2</sup> ...[^329a-2]
+<sup>2</sup> …[^329a-2]
 
 <sup>3</sup> Per un anno incompleto di lavoro, le vacanze sono date proporzionalmente alla durata del rapporto di lavoro nell’anno considerato.
 
@@ -4451,7 +4451,7 @@ Il datore di lavoro non può neppure ridurre le vacanze:
 
 - a. di una lavoratrice che, causa gravidanza, è impedita di lavorare per due mesi al massimo;
 - b. di una lavoratrice che ha fruito di un congedo di maternità ai sensi dell’articolo 329*f*;
-- c.[^329b-3] di un lavoratore che ha fruito di un congedo di paternità ai sensi dell’articolo 329*g*;
+- c.[^329b-3] di un lavoratore o di una lavoratrice che ha fruito di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o di un congedo in caso di decesso della madre ai sensi dell’articolo 329*g*<sup>bis</sup>;
 - d. di un lavoratore o di una lavoratrice che ha fruito di un congedo di assistenza ai sensi dell’articolo 329*i*; o
 - e.[^329b-4] di un lavoratore o di una lavoratrice che ha fruito di un congedo di adozione ai sensi dell’articolo 329*j*.[^329b-5]
 
@@ -4459,7 +4459,7 @@ Il datore di lavoro non può neppure ridurre le vacanze:
 
 [^329b-1]: Nuovo testo giusta l’art. 117 della L del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° gen. 1984 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)[1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Nuovo testo giusta l’art. 13 della L del 6 ott. 1989 sulle attività giovanili, in vigore dal 1° gen. 1991 ([RU 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 641](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Nuovo testo giusta l’all. n. 1 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-3]: Nuovo testo giusta l’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^329b-4]: Introdotta dall’all. n. 1 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^329b-5]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-6]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1984 ([RU 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [FF 1982 III 161](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
@@ -4511,22 +4511,46 @@ Il datore di lavoro non può neppure ridurre le vacanze:
 
 <sup>2</sup> In caso di degenza ospedaliera del neonato, il congedo di maternità è prolungato in misura equivalente al prolungamento della durata del versamento dell’indennità di maternità.[^329f-2]
 
+<sup>3</sup> In caso di decesso dell’altro genitore nei sei mesi successivi alla nascita del figlio, la lavoratrice ha diritto a due settimane di congedo supplementare; tale congedo può essere preso in settimane o in giorni entro un termine quadro di sei mesi a decorrere dal giorno successivo al decesso.[^329f-3]
+
 [^329f-1]: Introdotto dall’all. n. 1 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^329f-2]: Introdotto dal n. II della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^329f-3]: Introdotto dall’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
-### 5. Congedo di paternità
+### 5. Congedo per l’altro genitore
+
+### a. In generale
 
 #### Art. 329g
 
 [^329g-1]
 
-<sup>1</sup> In caso di paternità, il lavoratore ha diritto a un congedo di paternità di due settimane se è il padre legale al momento della nascita del figlio o lo diventa nei sei mesi seguenti.
+<sup>1</sup>
 
-<sup>2</sup> Il congedo di paternità deve essere preso entro sei mesi dalla nascita del figlio.
+Ha diritto a un congedo di due settimane:
 
-<sup>3</sup> Può essere preso in settimane o in giorni.
+- a. il lavoratore che è il padre legale al momento della nascita del figlio o lo diventa nei sei mesi seguenti;
+- b. la lavoratrice che è l’altro genitore legale al momento della nascita del figlio.
 
-[^329g-1]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+<sup>2</sup> Il congedo deve essere preso entro sei mesi dalla nascita del figlio. Tale termine è sospeso durante il congedo secondo l’articolo 329*g*<sup>bis</sup>.
+
+<sup>3</sup> Il congedo può essere preso in settimane o in giorni.
+
+[^329g-1]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Nuovo testo giusta l’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+
+### b. In caso di morte della madre
+
+#### Art. 329g<sup>bis</sup>
+
+[^329gbis-1]
+
+<sup>1</sup> Se la madre muore il giorno del parto o nelle 14 settimane successive, l’altro genitore ha diritto a un congedo di 14 settimane; tale congedo va preso in giorni consecutivi a partire dal giorno successivo al decesso.
+
+<sup>2</sup> L’altro genitore ha diritto al congedo se il rapporto di filiazione sussiste al momento del decesso o è stabilito nelle 14 settimane successive.
+
+<sup>3</sup> In caso di degenza ospedaliera del neonato secondo l’articolo 329*f* capoverso 2, il congedo di cui al capoverso 1 è prolungato in misura equivalente alla durata della degenza ospedaliera, ma al massimo di otto settimane.
+
+[^329gbis-1]: Introdotto dall’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### 6. Congedo di assistenza ai familiari
 
@@ -4881,10 +4905,10 @@ Se l’azienda o una parte di essa è trasferita a un terzo nel corso di una mor
 
 <sup>2</sup> Questi termini possono essere modificati per accordo scritto, contratto normale o contratto collettivo; possono essere resi inferiori a un mese soltanto per contratto collettivo e per il primo anno di servizio.
 
-<sup>3</sup> Se il datore di lavoro disdice il rapporto di lavoro e il lavoratore ha diritto a un congedo di paternità ai sensi dell’articolo 329*g* prima della fine del rapporto stesso, il termine di disdetta è prolungato del numero di giorni di congedo non ancora presi.[^335c-2]
+<sup>3</sup> Se il datore di lavoro disdice il rapporto di lavoro e il lavoratore o la lavoratrice ha diritto a un congedo per l’altro genitore ai sensi dell’articolo 329*g* prima della fine del rapporto stesso, il termine di disdetta è prolungato del numero di giorni di congedo non ancora presi.[^335c-2]
 
 [^335c-1]: Introdotto dal n. I della LF del 18 mar. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
-[^335c-2]: Introdotto dall’all. n. 1 della LF del 27 set. 2019, in vigore dal 1° gen. 2021 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^335c-2]: Introdotto dall’all. n. 1 della LF del 27 set. 2019 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Nuovo testo giusta l’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### IIbis. Licenziamento collettivo
 
@@ -5094,8 +5118,10 @@ Dopo il tempo di prova, il datore di lavoro non può disdire il rapporto di lavo
 - a.[^336c-2] allorquando il lavoratore presta servizio obbligatorio svizzero, militare o di protezione civile, oppure servizio civile svizzero e, in quanto il servizio duri più di 11[^336c-3] giorni, nelle quattro settimane precedenti e seguenti;
 - b. allorquando il lavoratore è impedito di lavorare, in tutto o in parte, a causa di malattia o infortunio non imputabili a sua colpa, per 30 giorni nel primo anno di servizio, per 90 giorni dal secondo anno di servizio sino al quinto compreso e per 180 giorni dal sesto anno di servizio;
 - c. durante la gravidanza e nelle 16 settimane dopo il parto della lavoratrice;
-- c.<sup>bis</sup> [^336c-4] prima del termine del congedo di maternità prolungato conformemente all’articolo 329*f* capoverso 2;
-- c.<sup>ter</sup> [^336c-5] finché sussiste il diritto al congedo di assistenza di cui all’articolo 329*i*, ma al massimo per sei mesi a decorrere dall’inizio del termine quadro;
+- c<sup>bis</sup>.[^336c-4] prima del termine del congedo di maternità prolungato conformemente all’articolo 329*f* capoverso 2;
+- c<sup>ter</sup>.[^336c-5] tra l’inizio del congedo di cui all’articolo 329*f* capoverso 3 e l’ultimo giorno di congedo preso, ma al massimo per tre mesi a decorrere dalla fine del periodo stabilito nella lettera c;
+- c<sup>quater</sup>.[^336c-6] finché sussiste il diritto al congedo di assistenza di cui all’articolo 329*i*, ma al massimo per sei mesi a decorrere dall’inizio del termine quadro;
+- c<sup>quinquies</sup>.[^336c-7] durante il congedo di cui all’articolo 329*g*<sup>bis</sup>;
 - d. allorquando, con il suo consenso, il lavoratore partecipa a un servizio, ordinato dall’autorità federale competente, nell’ambito dell’aiuto all’estero.
 
 <sup>2</sup> La disdetta data durante uno dei periodi stabiliti nel capoverso 1 è nulla; se, invece, è data prima, il termine che non sia ancora giunto a scadenza all’inizio del periodo è sospeso e riprende a decorrere soltanto dopo la fine del periodo.
@@ -5106,7 +5132,9 @@ Dopo il tempo di prova, il datore di lavoro non può disdire il rapporto di lavo
 [^336c-2]: Nuovo testo giusta l’all. n. 3 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^336c-4]: Introdotta dal n. II della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^336c-5]: Originaria lett. c.<sup>bis</sup>. Introdotta dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-5]: Introdotta dall’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^336c-6]: Originaria lett. c<sup>bis</sup> e c<sup>ter</sup>. Introdotta dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-7]: Introdotta dall’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### b. da parte del lavoratore
 
@@ -5176,7 +5204,7 @@ In caso d’insolvenza del datore di lavoro, il lavoratore può recedere immedia
 
 <sup>3</sup> Il diritto all’indennità, se non si estingue per compensazione, dev’essere fatto valere per azione giudiziaria o esecuzione entro 30 giorni dal mancato inizio o dall’abbandono dell’impiego, sotto pena di perenzione.[^337d-1]
 
-<sup>4</sup> ...[^337d-2]
+<sup>4</sup> …[^337d-2]
 
 [^337d-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^337d-2]: Abrogato dal n. I della LF del 18 mar. 1988, con effetto dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); FF **1984** 494).
@@ -5826,38 +5854,63 @@ Se stabilisce un contratto normale di lavoro in applicazione dell’articolo 360
 
 #### Art. 361
 
-<sup>1</sup>
+<sup>1</sup> Alle disposizioni seguenti non può essere derogato a svantaggio del datore di lavoro o del lavoratore mediante accordo, contratto normale o contratto collettivo di lavoro:
 
-Alle disposizioni seguenti non può essere derogato a svantaggio del datore di lavoro o del lavoratore mediante accordo, contratto normale o contratto collettivo di lavoro:
+articolo 321*c* capoverso 1 (lavoro straordinario);
 
-- articolo 321*c* capoverso 1 (lavoro straordinario);
-- articolo 323 capoverso 4 (anticipazioni);
-- articolo 323*b* capoverso 2 (compensazione con crediti);
-- articolo 325 capoverso 2 (cessione e costituzione in pegno di crediti di salario);
-- articolo 326 capoverso 2 (affidamento di lavoro);
-- articolo 329*d* capoversi 2 e 3 (salario relativo alle vacanze);
-- articolo 331 capoversi 1 e 2 (devoluzioni a scopo di previdenza a favore del personale);
-- articolo 331*b* (cessione e costituzione in pegno di crediti in prestazioni di previdenza);[^361-1]
-- [tab] ...[^361-2]
-- articolo 334 capoverso 3 (disdetta del rapporto di lavoro dilunga durata);
-- articolo 335 (disdetta del rapporto di lavoro);
-- articolo 335*k* (piano sociale durante un fallimento o una procedura concordataria);[^361-3]
-- articolo 336 capoverso 1 (disdetta abusiva);
-- articolo 336*a* (indennità in caso di disdetta abusiva);
-- articolo 336*b* (indennità, procedura);
-- articolo 336*d* (disdetta in tempo inopportuno da parte del lavoratore);
-- articolo 337 capoversi 1 e 2 (risoluzione immediata per cause gravi);
-- articolo 337*b* capoverso 1 (conseguenze della risoluzione giustificata);
-- articolo 337*d* (conseguenze del mancato inizio o dell’abbandono ingiustificato dell’impiego);
-- articolo 339 capoverso 1 (esigibilità dei crediti);
-- articolo 339*a* (obbligo di restituzione);
-- articolo 340*b* capoversi 1 e 2 (effetti della contravvenzione al divieto di concorrenza);
-- articolo 342 capoverso 2 (effetti di diritto civile del diritto pubblico);
-- [tab] ...[^361-4]
-- articolo 346 (disdetta anticipata del rapporto di tirocinio);
-- articolo 349*c* capoverso 3 (impedimento di viaggiare);
-- articolo 350 (caso speciale di disdetta);
-- articolo 350*a* capoverso 2 (obbligo di restituzione).[^361-5]
+articolo 323 capoverso 4 (anticipazioni);
+
+articolo 323*b* capoverso 2 (compensazione con crediti);
+
+articolo 325 capoverso 2 (cessione e costituzione in pegno di crediti di salario);
+
+articolo 326 capoverso 2 (affidamento di lavoro);
+
+articolo 329*d* capoversi 2 e 3 (salario relativo alle vacanze);
+
+articolo 331 capoversi 1 e 2 (devoluzioni a scopo di previdenza a favore del personale);
+
+articolo 331*b* (cessione e costituzione in pegno di crediti in prestazioni di previdenza);[^361-1]
+
+…[^361-2]
+
+articolo 334 capoverso 3 (disdetta del rapporto di lavoro dilunga durata);
+
+articolo 335 (disdetta del rapporto di lavoro);
+
+articolo 335*k* (piano sociale durante un fallimento o una procedura concordataria);[^361-3]
+
+articolo 336 capoverso 1 (disdetta abusiva);
+
+articolo 336*a* (indennità in caso di disdetta abusiva);
+
+articolo 336*b* (indennità, procedura);
+
+articolo 336*d* (disdetta in tempo inopportuno da parte del lavoratore);
+
+articolo 337 capoversi 1 e 2 (risoluzione immediata per cause gravi);
+
+articolo 337*b* capoverso 1 (conseguenze della risoluzione giustificata);
+
+articolo 337*d* (conseguenze del mancato inizio o dell’abbandono ingiustificato dell’impiego);
+
+articolo 339 capoverso 1 (esigibilità dei crediti);
+
+articolo 339*a* (obbligo di restituzione);
+
+articolo 340*b* capoversi 1 e 2 (effetti della contravvenzione al divieto di concorrenza);
+
+articolo 342 capoverso 2 (effetti di diritto civile del diritto pubblico);
+
+…[^361-4]
+
+articolo 346 (disdetta anticipata del rapporto di tirocinio);
+
+articolo 349*c* capoverso 3 (impedimento di viaggiare);
+
+articolo 350 (caso speciale di disdetta);
+
+articolo 350*a* capoverso 2 (obbligo di restituzione).[^361-5]
 
 <sup>2</sup> Sono nulli gli accordi e le clausole di contratti normali e contratti collettivi di lavoro deroganti alle disposizioni surriferite a svantaggio del datore di lavoro o del lavoratore.
 
@@ -5871,87 +5924,147 @@ Alle disposizioni seguenti non può essere derogato a svantaggio del datore di l
 
 #### Art. 362
 
-<sup>1</sup>
+<sup>1</sup> Alle disposizioni seguenti non può essere derogato a svantaggio del lavoratore mediante accordo, contratto normale o contratto collettivo di lavoro:
 
-Alle disposizioni seguenti non può essere derogato a svantaggio del lavoratore mediante accordo, contratto normale o contratto collettivo di lavoro:
+articolo 321*e* (responsabilità del lavoratore);
 
-- articolo 321*e* (responsabilità del lavoratore);
-- articolo 322*a* capoversi 2 e 3 (partecipazione al risultato dell’esercizio);
-- articolo 322*b* capoversi 1 e 2 (inizio del diritto di provvigione);
-- articolo 322*c* (rendiconto della provvigione);
-- articolo 323*b* capoverso 1 secondo periodo (rendiconto del salario);
-- articolo 324 (salario in caso di mora del datore di lavoro);
-- articolo 324*a* capoversi 1 e 3 (salario in caso di impedimento del lavoratore);
-- articolo 324*b* (salario in caso di assicurazione obbligatoria del lavoratore);
-- articolo 326 capoversi 1, 3 e 4 (affidamento di lavoro a cottimo);
-- articolo 326*a* (salario per lavoro a cottimo);
-- articolo 327*a* capoverso 1 (rimborso delle spese in generale);
-- articolo 327*b* capoverso 1 (rimborso delle spese per uso di veicoli a motore);
-- articolo 327*c* capoverso 2 (anticipazioni per spese);
-- articolo 328 (protezione della personalità del lavoratore in generale);
-- articolo 328*a* (protezione della personalità del lavoratore in caso di comunione domestica);
-- articolo 328*b* (protezione della personalità nel trattamento di dati personali);[^362-1]
-- articolo 329 capoversi 1, 2 e 3 (tempo libero);
-- articolo 329*a* capoversi 1 e 3 (durata delle vacanze);
-- articolo 329*b* capoversi 2 e 3 (riduzione delle vacanze);
-- articolo 329*c* (continuità e data delle vacanze);
-- articolo 329*d* capoverso 1 (salario relativo alle vacanze);
-- articolo 329*e* capoversi 1 e 3 (congedo giovanile);[^362-2]
-- articolo 329*f* (congedo di maternità);[^362-3]
-- articolo 329*g* (congedo di paternità);[^362-4]
-- articolo 329*h* (congedo di assistenza ai famigliari);[^362-5]
-- articolo 329*i* (congedo di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio);[^362-6]
-- articolo 329*j* (congedo di adozione);[^362-7]
-- articolo 330 capoversi 1, 3 e 4 (cauzione);
-- articolo 330*a* (attestato);
-- articolo 331 capoversi 3 e 4 (contributi e obbligo di informazione nel campo della previdenza a favore del personale);
-- articolo 331*a* (inizio e fine della previdenza);[^362-8]
-- [tab] ...[^362-9]
-- articolo 332 capoverso 4 (compenso in caso d’invenzione);
-- articolo 333 capoverso 3 (responsabilità in caso di trasferimento del rapporto di lavoro);
-- articolo 335*c* capoverso 3 (termini di disdetta);[^362-10]
-- articolo 335*i* (obbligo di negoziazione);[^362-11]
-- articolo 335*j* (elaborazione del piano sociale da parte di un tribunale arbitrale);[^362-12]
-- articolo 336 capoverso 2 (disdetta abusiva da parte del datore di lavoro);
-- articolo 336*c* (disdetta in tempo inopportuno da parte del datore di lavoro);
-- articolo 337*a* (risoluzione immediata per insolvenza del datore di lavoro);
-- articolo 337*c* capoverso 1 (conseguenze del licenziamento ingiustificato);
-- articolo 338 (morte del lavoratore);
-- articolo 338*a* (morte del datore di lavoro);
-- articolo 339*b* (presupposti dell’indennità di partenza);
-- articolo 339*d* (prestazioni sostitutive);
-- articolo 340 capoverso 1 (presupposti del divieto di concorrenza);
-- articolo 340*a* capoverso 1 (limitazioni del divieto di concorrenza);
-- articolo 340*c* (cessazione del divieto di concorrenza);
-- articolo 341 capoverso 1 (irrinunciabilità);
-- articolo 345*a* (obblighi del maestro di tirocinio[^362-13]);
-- articolo 346*a* (attestato di tirocinio);
-- articolo 349*a* capoverso 1 (salario del commesso viaggiatore);
-- articolo 349*b* capoverso 3 (pagamento della provvigione);
-- articolo 349*c* capoverso 1 (salario in caso d’impedimento di viaggiare);
-- articolo 349*e* capoverso 1 (diritto di ritenzione del commesso viaggiatore);
-- articolo 350*a* capoverso 1 (provvigione alla fine del rapporto d’impiego);
-- articolo 352*a* capoverso 3 (responsabilità del lavoratore a domicilio);
-- articolo 353 (accettazione del prodotto del lavoro);
-- articolo 353*a* (pagamento del salario);
-- articolo 353*b* capoverso 1 (salario in caso di impedimento al lavoro).[^362-14]
+articolo 322*a* capoversi 2 e 3 (partecipazione al risultato dell’esercizio);
+
+articolo 322*b* capoversi 1 e 2 (inizio del diritto di provvigione);
+
+articolo 322*c* (rendiconto della provvigione);
+
+articolo 323*b* capoverso 1 secondo periodo (rendiconto del salario);
+
+articolo 324 (salario in caso di mora del datore di lavoro);
+
+articolo 324*a* capoversi 1 e 3 (salario in caso di impedimento del lavoratore);
+
+articolo 324*b* (salario in caso di assicurazione obbligatoria del lavoratore);
+
+articolo 326 capoversi 1, 3 e 4 (affidamento di lavoro a cottimo);
+
+articolo 326*a* (salario per lavoro a cottimo);
+
+articolo 327*a* capoverso 1 (rimborso delle spese in generale);
+
+articolo 327*b* capoverso 1 (rimborso delle spese per uso di veicoli a motore);
+
+articolo 327*c* capoverso 2 (anticipazioni per spese);
+
+articolo 328 (protezione della personalità del lavoratore in generale);
+
+articolo 328*a* (protezione della personalità del lavoratore in caso di comunione domestica);
+
+articolo 328*b* (protezione della personalità nel trattamento di dati personali);[^362-1]
+
+articolo 329 capoversi 1, 2 e 3 (tempo libero);
+
+articolo 329*a* capoversi 1 e 3 (durata delle vacanze);
+
+articolo 329*b* capoversi 2 e 3 (riduzione delle vacanze);
+
+articolo 329*c* (continuità e data delle vacanze);
+
+articolo 329*d* capoverso 1 (salario relativo alle vacanze);
+
+articolo 329*e* capoversi 1 e 3 (congedo giovanile);[^362-2]
+
+articolo 329*f* (congedo di maternità);[^362-3]
+
+articolo 329*g* (congedo per l’altro genitore);[^362-4]
+
+articolo 329*g*<sup>bis</sup> (congedo in caso di morte della madre);[^362-5]
+
+articolo 329*h* (congedo di assistenza ai famigliari);[^362-6]
+
+articolo 329*i* (congedo di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio);[^362-7]
+
+articolo 329*j* (congedo di adozione);[^362-8]
+
+articolo 330 capoversi 1, 3 e 4 (cauzione);
+
+articolo 330*a* (attestato);
+
+articolo 331 capoversi 3 e 4 (contributi e obbligo di informazione nel campo della previdenza a favore del personale);
+
+articolo 331*a* (inizio e fine della previdenza);[^362-9]
+
+…[^362-10]
+
+articolo 332 capoverso 4 (compenso in caso d’invenzione);
+
+articolo 333 capoverso 3 (responsabilità in caso di trasferimento del rapporto di lavoro);
+
+articolo 335*c* capoverso 3 (termini di disdetta);[^362-11]
+
+articolo 335*i* (obbligo di negoziazione);[^362-12]
+
+articolo 335*j* (elaborazione del piano sociale da parte di un tribunale arbitrale);[^362-13]
+
+articolo 336 capoverso 2 (disdetta abusiva da parte del datore di lavoro);
+
+articolo 336*c* (disdetta in tempo inopportuno da parte del datore di lavoro);
+
+articolo 337*a* (risoluzione immediata per insolvenza del datore di lavoro);
+
+articolo 337*c* capoverso 1 (conseguenze del licenziamento ingiustificato);
+
+articolo 338 (morte del lavoratore);
+
+articolo 338*a* (morte del datore di lavoro);
+
+articolo 339*b* (presupposti dell’indennità di partenza);
+
+articolo 339*d* (prestazioni sostitutive);
+
+articolo 340 capoverso 1 (presupposti del divieto di concorrenza);
+
+articolo 340*a* capoverso 1 (limitazioni del divieto di concorrenza);
+
+articolo 340*c* (cessazione del divieto di concorrenza);
+
+articolo 341 capoverso 1 (irrinunciabilità);
+
+articolo 345*a* (obblighi del maestro di tirocinio[^362-14]);
+
+articolo 346*a* (attestato di tirocinio);
+
+articolo 349*a* capoverso 1 (salario del commesso viaggiatore);
+
+articolo 349*b* capoverso 3 (pagamento della provvigione);
+
+articolo 349*c* capoverso 1 (salario in caso d’impedimento di viaggiare);
+
+articolo 349*e* capoverso 1 (diritto di ritenzione del commesso viaggiatore);
+
+articolo 350*a* capoverso 1 (provvigione alla fine del rapporto d’impiego);
+
+articolo 352*a* capoverso 3 (responsabilità del lavoratore a domicilio);
+
+articolo 353 (accettazione del prodotto del lavoro);
+
+articolo 353*a* (pagamento del salario);
+
+articolo 353*b* capoverso 1 (salario in caso di impedimento al lavoro).[^362-15]
 
 <sup>2</sup> Sono nulli gli accordi e le clausole di contratti normali e contratti collettivi di lavoro deroganti alle disposizioni surriferite a svantaggio del lavoratore.
 
 [^362-1]: Introdotto dall’all. n. 2 della LF del 19 giu. 1993 sulla protezione dei dati, in vigore dal 1° lug. 1993 ([RU 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945), [FF 1988 II 353](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^362-2]: Introdotto dall’art. 13 della L del 6 ott. 1989 sulle attività giovanili, in vigore dal 1° gen. 1991 ([RU 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 641](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
 [^362-3]: Introdotto dall’all. n. 1 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^362-4]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-5]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-6]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-7]: Introdotto dall’all. n. 1 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^362-8]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-9]: Abrogato dall’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, con effetto dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-10]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-11]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-4]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Nuovo testo giusta l’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-5]: Introdotto dall’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-6]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-7]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-8]: Introdotto dall’all. n. 1 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^362-9]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-10]: Abrogato dall’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, con effetto dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-11]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-12]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-13]: Ora: del datore di lavoro.
-[^362-14]: Nuovo testo giusta il n. I del DF del 18 mar. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-13]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-14]: Ora: del datore di lavoro.
+[^362-15]: Nuovo testo giusta il n. I del DF del 18 mar. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Titolo undecimo: Del contratto di appalto
 
@@ -5986,7 +6099,7 @@ L’appalto è un contratto per cui l’appaltatore si obbliga a compiere un’o
 
 <sup>2</sup> L’appaltatore deve adoperare con tutta diligenza la materia somministrata dal committente, deve rendergli conto dell’uso fattone e restituirgli quanto sia per restare.
 
-<sup>3</sup> Ove durante l’esecuzione dell’opera si manifestino dei difetti nella materia somministrata, dal committente o nel terreno destinato alla costruzione, o si verifichino dei fatti che ne compromettano il regolare e puntuale adempimento, l’appaltatore deve senza indugio darne avviso al committente, sotto pena di sottostare ai danni che ne possono derivare.
+<sup>3</sup> Ove durante l’esecuzione dell’opera si manifestino dei difetti nella materia somministrata dal committente o nel terreno destinato alla costruzione, o si verifichino dei fatti che ne compromettano il regolare e puntuale adempimento, l’appaltatore deve senza indugio darne avviso al committente, sotto pena di sottostare ai danni che ne possono derivare.
 
 ### 3. Principio ed esecuzione dei lavori in conformità del contratto
 
@@ -6457,7 +6570,7 @@ Per la sua validità il contratto necessita della forma scritta e deve contenere
 
 [^406e-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Revisione del diritto di revoca), in vigore dal 1° gen. 2016 ([RU 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/139)[2677](https://fedlex.data.admin.ch/eli/fga/2014/549)).
 
-### E. ...
+### E. …
 
 #### Art. 406f
 
@@ -6556,7 +6669,7 @@ Se l’importo della mercede non è determinato, questa è dovuta secondo la tar
 
 Ove il mediatore, contrariamente ai patti, avesse agito anche nell’interesse dell’altra parte, o contrariamente alle norme della buona fede si fosse fatto promettere anche dalla medesima una ricompensa, egli non potrà pretendere dal suo mandante né la mercede né il rimborso delle spese.
 
-### IV. ...
+### IV. …
 
 #### Art. 416
 
@@ -6604,7 +6717,7 @@ Se per indicare l’occasione di conchiudere un contratto individuale di lavoro 
 
 <sup>1</sup> Le disposizioni relative al contratto di mediazione sono applicabili a titolo completivo agli agenti che trattano gli affari, quelle concernenti la commissione agli agenti che li conchiudono.
 
-<sup>2</sup> ...[^418b-1]
+<sup>2</sup> …[^418b-1]
 
 [^418b-1]: Abrogato dall’all.n. I lett. b della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
@@ -7191,7 +7304,7 @@ Lo spedizioniere, che ricorre ad una pubblica impresa di trasporto per eseguire 
 
 <sup>2</sup> L’agente di negozio però non può firmare cambiali, contrarre mutui o stare in giudizio, ove non gli sia stata conferita siffatta speciale facoltà.
 
-### C. ...
+### C. …
 
 #### Art. 463
 
@@ -7497,7 +7610,7 @@ Se più persone, per tutelare i loro diritti, hanno depositato presso un terzo, 
 
 <sup>1</sup> Per la validità della fideiussione di una persona coniugata si richiede il consenso scritto del coniuge, dato nel singolo caso, anticipatamente o al più tardi simultaneamente, a meno che i coniugi siano separati da sentenza giudiziale.
 
-<sup>2</sup> ...[^494-1]
+<sup>2</sup> …[^494-1]
 
 <sup>3</sup> Per le modificazioni successive di una fideiussione, il consenso del coniuge è richiesto soltanto se la somma garantita deve essere aumentata o una fideiussione semplice trasformata in solidale o se la modificazione ha per effetto di diminuire notevolmente le garanzie.
 
@@ -7812,7 +7925,7 @@ Per la validità del contratto di rendita vitalizia si richiede l’atto scritto
 
 <sup>1</sup> Il creditore della rendita vitalizia può ceder l’esercizio dei suoi diritti salvo patto in contrario.
 
-<sup>2</sup> ...[^519-1]
+<sup>2</sup> …[^519-1]
 
 [^519-1]: Abrogato dall’all. n. 6 della LF del 16 dic. 1995, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -8539,7 +8652,7 @@ L’interruzione della prescrizione in confronto della società, che continua, o
 
 #### Art. 595
 
-Se siffatta società non esercita un’impresa in forma commerciale, essa esiste come società in accomandita solo dal momento in cui si fa iscrivere nel registro di commercio.
+Se siffatta società non esercita un’impresa in forma commerciale, essa esiste come società in accomandita solo dal momento in cui si fa iscrivere nel registro di commercio
 
 ### C. Iscrizione nel registro di commercio
 
@@ -8553,7 +8666,7 @@ Se siffatta società non esercita un’impresa in forma commerciale, essa esiste
 
 <sup>1</sup> La società dev’essere iscritta nel registro di commercio del luogo in cui ha sede.[^596-1]
 
-<sup>2</sup> ...[^596-2]
+<sup>2</sup> …[^596-2]
 
 <sup>3</sup> Ove il capitale accomandato non consista o consista solo parzialmente in contanti, il conferimento in natura ed il valore che gli è attribuito devono essere espressamente notificati all’ufficio del registro di commercio e menzionati nell’iscrizione.
 
@@ -8640,7 +8753,7 @@ L’accomandante che faccia affari per la società, senza dichiarare espressamen
 
 Ove la società abbia fatto affari prima di essere iscritta nel registro di commercio, l’accomandante risponde verso i terzi, come un socio illimitatamente responsabile, delle obbligazioni della società nate prima dell’iscrizione, quando non provi che essi conoscevano la limitazione della sua responsabilità.
 
-### III. ...
+### III. …
 
 #### Art. 607
 
@@ -8832,7 +8945,7 @@ Nel fallimento dell’accomandante non spetta né ai creditori della società n�
 
 <sup>1</sup> Le azioni possono emettersi solo per il loro valore nominale o per somma superiore. Rimane riservata l’emissione di nuove azioni destinate a sostituire quelle annullate.
 
-<sup>2</sup> e <sup>3</sup> ...[^624-1]
+<sup>2</sup> e <sup>3</sup> …[^624-1]
 
 [^624-1]: Abrogati dal n. I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -8860,7 +8973,7 @@ Lo statuto deve contenere disposizioni sui punti seguenti:
 - 2\. lo scopo della società;
 - 3\.[^626-2] l’ammontare e la moneta del capitale azionario, nonché l’ammontare dei conferimenti effettuati;
 - 4\. il numero, il valore nominale e la specie delle azioni;
-- 5\. e 6.[^626-3] ...
+- 5\. e 6.[^626-3] …
 - 7\.[^626-4] la forma delle comunicazioni della società agli azionisti.
 
 <sup>2</sup>
@@ -8949,7 +9062,7 @@ All’atto costitutivo devono essere acclusi:
 - 3\. l’attestazione di verifica;
 - 4\. l’attestazione di deposito dei conferimenti in denaro;
 - 5\. i contratti riguardanti i conferimenti in natura;
-- 6\.[^631-2] ...
+- 6\.[^631-2] …
 
 [^631-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^631-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -9094,7 +9207,7 @@ La società dev’essere iscritta nel registro di commercio del luogo in cui ha 
 
 [^640-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### II. ...
+### II. …
 
 #### Art. 641
 
@@ -9102,7 +9215,7 @@ La società dev’essere iscritta nel registro di commercio del luogo in cui ha 
 
 [^641-1]: Abrogato dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), con effetto dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### III. ...
+### III. …
 
 #### Art. 642
 
@@ -9124,7 +9237,7 @@ La società dev’essere iscritta nel registro di commercio del luogo in cui ha 
 
 <sup>2</sup> La società acquista la personalità con l’iscrizione, anche se non si verificano le condizioni di questa.
 
-<sup>3</sup> Tuttavia, se, all’atto della costituzione, furono violate disposizioni legali o statutarie sì da porre in grave pericolo o da ledere gravemente gli interessi di creditori o di azionisti, il giudice può, ad istanza d’uno di questi creditori o azionisti, pronunciare lo scioglimento della società. ...[^643-1]
+<sup>3</sup> Tuttavia, se, all’atto della costituzione, furono violate disposizioni legali o statutarie sì da porre in grave pericolo o da ledere gravemente gli interessi di creditori o di azionisti, il giudice può, ad istanza d’uno di questi creditori o azionisti, pronunciare lo scioglimento della società. …[^643-1]
 
 <sup>4</sup> L’azione si estingue se non è proposta al più tardi entro tre mesi dalla pubblicazione nel *Foglio ufficiale svizzero di commercio.*
 
@@ -9235,7 +9348,7 @@ La deliberazione dell’assemblea generale deve risultare da un atto pubblico e 
 
 <sup>2</sup> La scheda di sottoscrizione deve riferirsi alla deliberazione d’aumento presa dall’assemblea generale e alla relativa decisione del consiglio d’amministrazione. Se la legge prescrive un prospetto, la scheda di sottoscrizione vi si riferisce parimenti.[^652-2]
 
-<sup>3</sup> ...[^652-3]
+<sup>3</sup> …[^652-3]
 
 [^652-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^652-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -10057,7 +10170,7 @@ Salvo diversa disposizione dello statuto, le quote d’utili netti e d’avanzo 
 
 [^663a663b-1]: Introdotti dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogati dal n. I 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### B. ...
+### B. …
 
 #### Art. 663b<sup>bis</sup>
 
@@ -10295,7 +10408,7 @@ Quote di utili possono essere attribuite agli amministratori solo se prelevate s
 
 <sup>1</sup> Nel fallimento della società gli amministratori devono restituire tutte le quote di utili ricevute nel corso dei tre anni che hanno preceduto la dichiarazione del fallimento, salvo che provino che le condizioni previste dalla legge e dallo statuto per la distribuzione di tali quote erano soddisfatte; in particolare deve essere provato che la distribuzione si basava su un bilancio allestito con prudenza.
 
-<sup>2</sup> ...[^679-2]
+<sup>2</sup> …[^679-2]
 
 [^679-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^679-2]: Abrogato dall’all. della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
@@ -10550,7 +10663,7 @@ Sentito l’interessato, la società può cancellare iscrizioni nel libro delle 
 
 <sup>1</sup> Negli affari sociali l’azionista esercita i suoi diritti nell’assemblea generale, in particolare quelli che concernono la designazione degli organi, l’approvazione della relazione sulla gestione e la deliberazione sull’impiego dell’utile.
 
-<sup>2</sup> ... [^689-2]
+<sup>2</sup> … [^689-2]
 
 [^689-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^689-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -10699,7 +10812,7 @@ Il consiglio d’amministrazione garantisce che gli azionisti abbiano in partico
 
 <sup>2</sup> Ogni azionista ha almeno un voto anche se possegga una sola azione. Lo statuto può tuttavia limitare il numero dei voti spettanti ai possessori di più azioni.
 
-<sup>3</sup> ...[^692-1]
+<sup>3</sup> …[^692-1]
 
 [^692-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -10736,7 +10849,7 @@ Il diritto di voto nasce non appena sia versato sull’azione l’importo determ
 
 <sup>1</sup> Le persone che hanno in qualsiasi modo partecipato alla gestione degli affari non possono dare il voto nelle deliberazioni riguardanti il discarico al consiglio d’amministrazione.
 
-<sup>2</sup> ...[^695-1]
+<sup>2</sup> …[^695-1]
 
 [^695-1]: Abrogato dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), con effetto dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -11344,7 +11457,7 @@ Possono essere contestate in particolare le deliberazioni che:
 - 3\. provocano per gli azionisti un’ineguaglianza di trattamento o un pregiudizio non giustificati dallo scopo della società;
 - 4\. sopprimono lo scopo lucrativo della società senza il consenso di tutti gli azionisti.[^706-1]
 
-<sup>3</sup> e <sup>4</sup> ...[^706-2]
+<sup>3</sup> e <sup>4</sup> …[^706-2]
 
 <sup>5</sup> L’annullamento per sentenza delle deliberazioni ha effetto per tutti gli azionisti.
 
@@ -11361,7 +11474,7 @@ Possono essere contestate in particolare le deliberazioni che:
 
 <sup>2</sup> Se l’azione è proposta dal consiglio d’amministrazione, il giudice designa un rappresentante della società.
 
-<sup>3</sup> ... [^706a-2]
+<sup>3</sup> … [^706a-2]
 
 [^706a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^706a-2]: Abrogato dall’all. 1 n. II 5 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
@@ -11402,7 +11515,7 @@ Sono nulle in particolare le deliberazioni dell’assemblea generale che:
 
 <sup>1</sup> Il consiglio d’amministrazione della società si compone di uno o più membri.[^707-1]
 
-<sup>2</sup> ...[^707-2]
+<sup>2</sup> …[^707-2]
 
 <sup>3</sup> Le persone giuridiche e le società commerciali non possono, anche se azionisti, essere membri del consiglio d’amministrazione, ma sono eleggibili, in luogo d’esse, i loro rappresentanti.
 
@@ -12469,7 +12582,7 @@ Terminata la liquidazione, i liquidatori devono notificare all’ufficio del reg
 
 ### C. Scioglimento senza liquidazione
 
-### I. ...
+### I. …
 
 #### Art. 748 a 750
 
@@ -12491,7 +12604,7 @@ Terminata la liquidazione, i liquidatori devono notificare all’ufficio del reg
 
 ### A. Fattispecie
 
-### I. ...
+### I. …
 
 #### Art. 752
 
@@ -12664,7 +12777,7 @@ I promotori, gli amministratori e tutti coloro che cooperano alla costituzione d
 
 <sup>1</sup> I soci illimitatamente responsabili formano l’amministrazione della società in accomandita per azioni. Spettano loro la gestione e la rappresentanza della società. Lo statuto deve indicare i loro nomi.
 
-<sup>2</sup> ...[^765-1]
+<sup>2</sup> …[^765-1]
 
 <sup>3</sup> Ogni cambiamento dei soci illimitatamente responsabili esige il consenso dei membri che rimangono a far parte dell’amministrazione ed una modificazione dello statuto.
 
@@ -12712,7 +12825,7 @@ Le deliberazioni dell’assemblea generale riguardanti il cambiamento dello scop
 
 <sup>2</sup> Lo scioglimento della società in accomandita per azioni soggiace del resto alle disposizioni che reggono lo scioglimento della società anonima; tuttavia solo col consenso dell’amministrazione la società può essere sciolta mediante una deliberazione dell’assemblea generale prima del termine fissato nello statuto.
 
-<sup>3</sup> ...[^770-1]
+<sup>3</sup> …[^770-1]
 
 [^770-1]: Abrogato dall’all. n. 2 della LF del 3 ott. 2003 sulla fusione, con effetto dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
@@ -12768,7 +12881,7 @@ Le deliberazioni dell’assemblea generale riguardanti il cambiamento dello scop
 
 Lo statuto può prevedere l’emissione di buoni di godimento; le disposizioni del diritto della società anonima si applicano per analogia.
 
-### E. ...
+### E. …
 
 #### Art. 775
 
@@ -12792,7 +12905,7 @@ Lo statuto deve contenere disposizioni sui punti seguenti:[^776-1]
 [^776-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^776-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. ...
+### II. …
 
 #### Art. 776a
 
@@ -12852,7 +12965,7 @@ All’atto costitutivo devono essere acclusi:
 - 3\. l’attestazione di verifica;
 - 4\. l’attestazione di deposito dei conferimenti in denaro;
 - 5\. i contratti riguardanti i conferimenti in natura;
-- 6\.[^777b-1] ...
+- 6\.[^777b-1] …
 
 [^777b-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -12867,7 +12980,7 @@ All’atto costitutivo devono essere acclusi:
 Per il rimanente, le disposizioni del diritto della società anonima si applicano per analogia:
 
 - 1\.[^777c-1] all’indicazione nello statuto dei conferimenti in natura, delle compensazioni e dei vantaggi speciali;
-- 2\.[^777c-2] *...*
+- 2\.[^777c-2] *…*
 - 3\. alla prestazione e alla verifica dei conferimenti.
 
 [^777c-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -12881,7 +12994,7 @@ Per il rimanente, le disposizioni del diritto della società anonima si applican
 
 La società deve essere iscritta nel registro di commercio del luogo in cui ha sede.
 
-### II. ...
+### II. …
 
 #### Art. 778a
 
@@ -13344,7 +13457,7 @@ All’assemblea dei soci spettano le attribuzioni intrasmissibili seguenti:
 
 <sup>3</sup> L’assemblea dei soci è convocata almeno 20 giorni prima di quello fissato per l’adunanza. Lo statuto può prorogare questo termine o abbreviarlo sino a dieci giorni. È fatta salva la possibilità di una riunione di tutti i soci.
 
-<sup>4</sup> ...[^805-1]
+<sup>4</sup> …[^805-1]
 
 <sup>5</sup>
 
@@ -13544,7 +13657,7 @@ I gerenti e i terzi che si occupano della gestione devono trattare allo stesso m
 
 <sup>5</sup> Le persone autorizzate a rappresentare la società firmano per essa aggiungendo alla ditta sociale la propria firma.
 
-<sup>6</sup> ...[^814-2]
+<sup>6</sup> …[^814-2]
 
 [^814-1]: Nuovo testo giusta il n. I 2 della LF del 12 dic. 2015 concernente l attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^814-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -13758,7 +13871,7 @@ Lo statuto deve contenere disposizioni sui punti seguenti:
 
 - 1\.[^832-1] la ditta e la sede della società
 - 2\. lo scopo della società;
-- [tab] 3. e 4.[^832-2] ...
+- 3\. e 4.[^832-2] …
 - 5\.[^832-3] la forma delle comunicazioni della società ai soci.
 
 [^832-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -13773,7 +13886,7 @@ Non obbligano, se non sono contenute nello statuto, le disposizioni riguardanti:
 
 - 1\. la formazione di un capitale sociale mediante il conferimento di quote da parte dei soci (creazione di certificati di quota);
 - 2\. i conferimenti di capitale sociale in natura, il loro oggetto, il prezzo per il quale sono accettati e la persona del socio che li eseguisce;
-- 3\.[^833-1] ...
+- 3\.[^833-1] …
 - 4\. le deroghe alle norme legali su l’ammissione nella società e la perdita della qualità di socio;
 - 5\.[^833-2] la responsabilità personale dei soci, il loro obbligo di effettuare versamenti suppletivi oppure di fornire prestazioni pecuniarie o di altro genere, come pure la specie ed i limiti di tali prestazioni;
 - 6\. le deroghe alle norme legali su l’organizzazione, la rappresentanza, la modificazione dello statuto e le deliberazioni dell’assemblea generale;
@@ -13810,7 +13923,7 @@ La società dev’essere iscritta nel registro di commercio del luogo in cui ha 
 
 [^835-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### 2. ...
+### 2. …
 
 #### Art. 836
 
@@ -14043,7 +14156,7 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 [^part3-tit29-chap4-lvlD-lvlIII-1]: Nuova espr. giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
-### 1. ...
+### 1. …
 
 #### Art. 858
 
@@ -14071,7 +14184,7 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 <sup>3</sup> In quanto il fondo di riserva non superi la metà del patrimonio sociale restante o, se esistono certificati di quota, la metà del capitale sociale, esso può essere adoperato solo per riparare a perdite o per prendere misure che in tempi di cattivo andamento degli affari rendano possibile il conseguimento del fine sociale.
 
-<sup>4</sup> ...[^860-1]
+<sup>4</sup> …[^860-1]
 
 [^860-1]: Abrogato dall’all. n. II 1 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, con effetto dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -14095,7 +14208,7 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 <sup>1</sup> Lo statuto può in ispecie prevedere la costituzione di fondi destinati a creare ed a sostenere istituzioni di previdenza[^862-1] a favore d’impiegati e d’operai dell’impresa o di soci.
 
-<sup>2</sup> a <sup>4</sup> ...[^862-2]
+<sup>2</sup> a <sup>4</sup> …[^862-2]
 
 [^862-1]: Nuovo termine giusta il n. I lett. c della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
 [^862-2]: Abrogati dal n. I lett. b della LF del 21 mar. 1958, con effetto dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
@@ -14363,7 +14476,7 @@ Nell’assemblea generale o nella votazione per corrispondenza ogni socio ha un 
 
 <sup>1</sup> Le persone che hanno in qualsiasi modo partecipato alla gestione degli affari non possono dare il voto nelle deliberazioni di discarico all’amministrazione.
 
-<sup>2</sup> ...[^887-1]
+<sup>2</sup> …[^887-1]
 
 [^887-1]: Abrogato dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), con effetto dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -14453,7 +14566,7 @@ Le disposizioni del diritto della società anonima concernenti il luogo di riuni
 
 <sup>2</sup> Le persone giuridiche e le società commerciali non possono, anche se soci, essere amministratori, ma sono eleggibili, in luogo d’esse, i loro rappresentanti.
 
-### 2. ...
+### 2. …
 
 #### Art. 895
 
@@ -14682,7 +14795,7 @@ La società cooperativa si scioglie:
 
 <sup>5</sup> Qualora lo statuto non disponga diversamente, la destinazione è deliberata dall’assemblea generale.
 
-### D. ...
+### D. …
 
 #### Art. 914
 
@@ -15172,7 +15285,7 @@ La ditta di una società commerciale o di una società cooperativa deve distingu
 
 <sup>2</sup> La ditta della succursale di un’azienda, la cui sede principale trovasi all’estero, deve inoltre indicare la sede principale e la sede della succursale, e contenere l’esplicita qualifica di succursale.
 
-### V. ...
+### V. …
 
 #### Art. 953
 
@@ -16388,7 +16501,7 @@ Qualora il debitore si sia riservato nel titolo nominativo il diritto di pagare 
 
 <sup>1</sup> L’ammortamento dei titoli al portatore, come azioni, obbligazioni, buoni di godimento, fogli di cedole, scontrini per il rinnovo di tali fogli (talloni), è pronunciato dal giudice ad istanza di chi ha diritto al titolo; non possono essere ammortizzate singole cedole.
 
-<sup>2</sup> ...[^981-1]
+<sup>2</sup> …[^981-1]
 
 <sup>3</sup> L’istante deve render verosimili il possesso e la perdita del titolo.
 
@@ -18158,7 +18271,7 @@ I titoli rappresentanti merci, emessi come titoli di credito da un magazziniere 
 
 ### Titolo trentesimoquarto: Dei prestiti in obbligazioni
 
-### Capo primo: ...
+### Capo primo: …
 
 #### Art. 1156
 
@@ -18502,7 +18615,7 @@ Contro le deliberazioni previste negli articoli 1180 e 1181 ogni obbligazionista
 
 I. Il titolo finale del Codice civile svizzero del 10 dicembre 1907[^u1-1] è modificato come segue:
 
-...[^u1-2]
+…[^u1-2]
 
 II. La presente legge entrerà in vigore col 1° gennaio 1912. Conforme alla legge federale del 17 giugno 1874[^u1-3] concernente le votazioni popolari su leggi e risoluzioni federali, il Consiglio federale è incaricato di pubblicare la presente legge.
 
@@ -18522,7 +18635,7 @@ II. La presente legge entrerà in vigore col 1° gennaio 1912. Conforme alla leg
 
 Nell’articolo 219 della legge federale dell’11 aprile 1889[^u2-1-1] sulla esecuzione e sul fallimento è aggiunta la disposizione seguente:
 
-...[^u2-1-2]
+…[^u2-1-2]
 
 [^u2-1-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^u2-1-2]: La mod. può essere consultata alla [RU 1962 1085](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085).
@@ -18533,7 +18646,7 @@ Nell’articolo 219 della legge federale dell’11 aprile 1889[^u2-1-1] sulla es
 
 Negli articoli 1 e 13 della legge federale del 30 settembre 1943[^u2-2-1] sulla concorrenza sleale, sono aggiunte le disposizioni seguenti (art. 1 lett. i e k; art. 13 lett. h e i):
 
-...[^u2-2-2]
+…[^u2-2-2]
 
 [^u2-2-1]: [CS **2** 935; [RU 1970 308](https://fedlex.data.admin.ch/eli/oc/1970/_308_308), [1978 2057](https://fedlex.data.admin.ch/eli/oc/1978/2057_2057_2057). [RU 1988 233](https://fedlex.data.admin.ch/eli/oc/1988/233_233_233)art. 28]
 [^u2-2-2]: La mod. può essere consultata alla [RU 1962 1085](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085).
@@ -18929,7 +19042,7 @@ Il decreto federale del 30 giugno 1972[^u12-1-1] concernente provvedimenti contr
 
 La legge federale del 4 ottobre 1985[^u12-24-1] sull’affitto agricolo è modificata come segue:
 
-...[^u12-24-2]
+…[^u12-24-2]
 
 [^u12-24-1]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
 [^u12-24-2]: Le mod. possono essere consultate alla [RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
@@ -18956,7 +19069,7 @@ La legge federale del 4 ottobre 1985[^u12-24-1] sull’affitto agricolo è modif
 
 #### Art. 1
 
-...[^u13-1-1]
+…[^u13-1-1]
 
 [^u13-1-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
@@ -18964,7 +19077,7 @@ La legge federale del 4 ottobre 1985[^u12-24-1] sull’affitto agricolo è modif
 
 #### Art. 2
 
-...[^u13-2-1]
+…[^u13-2-1]
 
 [^u13-2-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
@@ -18972,7 +19085,7 @@ La legge federale del 4 ottobre 1985[^u12-24-1] sull’affitto agricolo è modif
 
 #### Art. 3
 
-...[^u13-3-1]
+…[^u13-3-1]
 
 [^u13-3-1]: La mod. può essere consultata alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
@@ -18980,7 +19093,7 @@ La legge federale del 4 ottobre 1985[^u12-24-1] sull’affitto agricolo è modif
 
 #### Art. 4
 
-...[^u13-4-1]
+…[^u13-4-1]
 
 [^u13-4-1]: La mod. può essere consultata alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
@@ -18988,7 +19101,7 @@ La legge federale del 4 ottobre 1985[^u12-24-1] sull’affitto agricolo è modif
 
 #### Art. 5
 
-...[^u13-5-1]
+…[^u13-5-1]
 
 [^u13-5-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
@@ -19061,7 +19174,7 @@ Il Consiglio federale fissa la data dell’entrata in vigore della presente legg
 
 #### Art. 2
 
-...[^u14-2-1]
+…[^u14-2-1]
 
 [^u14-2-1]: La mod. può essere consultata alla RU **1949** I 815.
 
@@ -19153,7 +19266,7 @@ Le società anonime, le società in accomandita per azioni e le società coopera
 
 <sup>2</sup> Se nell’allestimento d’un bilancio fu applicata una siffatta decisione del Consiglio federale, deve esserne fatta menzione nel bilancio.
 
-### II. ...
+### II. …
 
 #### Art. 6
 
@@ -19223,7 +19336,7 @@ Le disposizioni dell’ordinanza del 20 febbraio 1918[^u16-13-1] concernente la 
 [^u16-13-1]: [[RU 34 249](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 396](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 599](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [933](https://fedlex.data.admin.ch/eli/oc/36/893_913_933). CS **2** 193 in fine, disp. fin. cap. II tit. XXXIV n. 4]
 [^u16-13-2]: [[RU 51 779](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 459](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1595](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 978](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1105, [63 1348](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
 
-### H. ...
+### H. …
 
 #### Art. 14
 
@@ -19235,7 +19348,7 @@ Le disposizioni dell’ordinanza del 20 febbraio 1918[^u16-13-1] concernente la 
 
 #### Art. 15
 
-...[^u16-15-1]
+…[^u16-15-1]
 
 [^u16-15-1]: Le mod. possono essere consultate alla [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
@@ -19253,7 +19366,7 @@ Rimangono riservate le norme della legge federale dell’8 novembre 1934[^u16-16
 
 #### Art. 17
 
-...[^u16-17-1]
+…[^u16-17-1]
 
 [^u16-17-1]: Le mod. possono essere consultate alla [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
@@ -19341,7 +19454,7 @@ Qualora una società abbia ripreso nello statuto, riproducendo semplicemente dis
 
 Sono modificate:
 
-...[^u17-7-1]
+…[^u17-7-1]
 
 [^u17-7-1]: Le mod. possono essere consultate alla [RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
 

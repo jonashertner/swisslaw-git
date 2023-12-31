@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-de-xml-39.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20240101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20240101-de-xml-23.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. September 2023)
+vom 30. März 1911 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2495,7 +2495,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 ### C. …
 
-#### Art. 226a<sup>–</sup>226d
+#### Art. 226a–226d
 
 [^226a226d-1]
 
@@ -2507,11 +2507,11 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [^226e-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Ziff. I des BG vom 14. Dez. 1990, mit Wirkung seit 1. Juli 1991 ([AS 1991 974](https://fedlex.data.admin.ch/eli/oc/1991/974_974_974); [BBl 1989 III 1233](https://fedlex.data.admin.ch/eli/fga/1989/3_1233__), [1990 I 120](https://fedlex.data.admin.ch/eli/fga/1990/1_120_108_103)).
 
-#### Art. 226f
+#### Art. 226f–226k
 
-**<sup>–</sup>**226***k*[^226f-1]**
+[^226f226k-1]
 
-[^226f-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
+[^226f226k-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226l
 
@@ -4448,7 +4448,7 @@ Die Ferien dürfen vom Arbeitgeber auch nicht gekürzt werden, wenn:
 
 - a. eine Arbeitnehmerin wegen Schwangerschaft bis zu zwei Monate an der Arbeitsleistung verhindert ist;
 - b. eine Arbeitnehmerin einen Mutterschaftsurlaub nach Artikel 329*f* bezogen hat;
-- c.[^329b-3] ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329*g* bezogen hat;
+- c.[^329b-3] eine Arbeitnehmerin oder ein Arbeitnehmer den Urlaub des andern Elternteils nach Artikel 329*g* oder den Urlaub im Falle des Todes der Mutter nach Artikel 329*g*<sup>bis</sup> bezogen hat;
 - d. eine Arbeitnehmerin oder ein Arbeitnehmer einen Betreuungsurlaub nach Artikel 329*i* bezogen hat,
 - e.[^329b-4] eine Arbeitnehmerin oder ein Arbeitnehmer einen Adoptionsurlaub nach Artikel 329*j* bezogen hat.[^329b-5]
 
@@ -4456,7 +4456,7 @@ Die Ferien dürfen vom Arbeitgeber auch nicht gekürzt werden, wenn:
 
 [^329b-1]: Fassung gemäss Art. 117 des Arbeitslosenversicherungsgesetzes, in Kraft seit 1. Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Fassung gemäss Art. 13 des JFG vom 6. Okt. 1989, in Kraft seit 1. Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^329b-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^329b-5]: Fassung gemäss Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-6]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1983, in Kraft seit 1. Juli 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
@@ -4507,22 +4507,46 @@ Die Ferien dürfen vom Arbeitgeber auch nicht gekürzt werden, wenn:
 
 <sup>2</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.[^329f-2]
 
+<sup>3</sup> Im Falle des Todes des andern Elternteils während der sechs Monate nach der Geburt des Kindes hat die Arbeitnehmerin Anspruch auf zwei Wochen zusätzlichen Urlaub; sie kann diesen Urlaub innert einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod wochen- oder tageweise beziehen.[^329f-3]
+
 [^329f-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^329f-2]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^329f-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
-### 5. Vaterschaftsurlaub
+### 5. Urlaub des andern Elternteils
+
+### a. Im Allgemeinen
 
 #### Art. 329g
 
 [^329g-1]
 
-<sup>1</sup> Der Arbeitnehmer, der im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden sechs Monate wird, hat Anspruch auf einen Vaterschaftsurlaub von zwei Wochen.
+<sup>1</sup>
 
-<sup>2</sup> Der Vaterschaftsurlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden.
+Anspruch auf den Urlaub des andern Elternteils von zwei Wochen hat:
 
-<sup>3</sup> Er kann wochen- oder tageweise bezogen werden.
+- a. der Arbeitnehmer, der im Zeitpunkt der Geburt des Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden sechs Monate wird;
+- b. die Arbeitnehmerin, die im Zeitpunkt der Geburt des Kindes der rechtliche andere Elternteil ist.
 
-[^329g-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+<sup>2</sup> Der Urlaub muss innert der sechs Monate nach der Geburt des Kindes bezogen werden. Diese Frist steht während des Urlaubs nach Artikel 329*g*<sup>bis</sup> still.
+
+<sup>3</sup> Der Urlaub kann wochen- oder tageweise bezogen werden.
+
+[^329g-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Fassung gemäss Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+
+### b. Im Falle des Todes der Mutter
+
+#### Art. 329g<sup>bis</sup>
+
+[^329gbis-1]
+
+<sup>1</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 14 Wochen danach, so hat der andere Elternteil Anspruch auf einen Urlaub von 14 Wochen; dieser Urlaub muss ab dem Tag nach dem Tod an aufeinanderfolgenden Tagen bezogen werden.
+
+<sup>2</sup> Der andere Elternteil hat Anspruch auf den Urlaub, wenn das Kindesverhältnis am Todestag begründet ist oder während der 14 Wochen danach begründet wird.
+
+<sup>3</sup> Bei Hospitalisierung des Neugeborenen nach Artikel 329*f* Absatz 2 verlängert sich der Urlaub nach Absatz 1 um die Dauer der Hospitalisierung, höchstens jedoch um acht Wochen.
+
+[^329gbis-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### 6. Urlaub für die Betreuung von Angehörigen
 
@@ -4887,10 +4911,10 @@ Wird der Betrieb oder der Betriebsteil während einer Nachlassstundung, im Rahme
 
 <sup>2</sup> Diese Fristen dürfen durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag abgeändert werden; unter einen Monat dürfen sie jedoch nur durch Gesamtarbeitsvertrag und nur für das erste Dienstjahr herabgesetzt werden.
 
-<sup>3</sup> Kündigt der Arbeitgeber das Arbeitsverhältnis und hat der Arbeitnehmer vor Ende des Arbeitsverhältnisses Anspruch auf Vaterschaftsurlaub im Sinne von Artikel 329*g*, so wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.[^335c-2]
+<sup>3</sup> Kündigt der Arbeitgeber das Arbeitsverhältnis und hat die Arbeitnehmerin oder der Arbeitnehmer vor Ende des Arbeitsverhältnisses Anspruch auf den Urlaub des andern Elternteils nach Artikel 329*g*, so wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.[^335c-2]
 
 [^335c-1]: Eingefügt durch Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
-[^335c-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^335c-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 27. Sept. 2019 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Fassung gemäss Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### II<sup>bis</sup>. Massenentlassung
 
@@ -5101,7 +5125,9 @@ Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kün
 - b. während der Arbeitnehmer ohne eigenes Verschulden durch Krankheit oder durch Unfall ganz oder teilweise an der Arbeitsleistung verhindert ist, und zwar im ersten Dienstjahr während 30 Tagen, ab zweitem bis und mit fünftem Dienstjahr während 90 Tagen und ab sechstem Dienstjahr während 180 Tagen;
 - c. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft einer Arbeitnehmerin;
 - c<sup>bis</sup>.[^336c-4] vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329*f* Absatz 2;
-- c<sup>ter</sup>.[^336c-5] solange der Anspruch auf Betreuungsurlaub nach Artikel 329*i* besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;
+- c<sup>ter</sup>.[^336c-5] zwischen dem Beginn des Urlaubs nach Artikel 329*f* Absatz 3 und dem letzten bezogenen Urlaubstag, längstens aber während drei Monaten ab dem Ende der Sperrfrist nach Buchstabe c;
+- c<sup>quater</sup>.[^336c-6] solange der Anspruch auf Betreuungsurlaub nach Artikel 329*i* besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;
+- c<sup>quinquies</sup>.[^336c-7] während des Urlaubs nach Artikel 329*g*<sup>bis</sup>;
 - d. während der Arbeitnehmer mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundesbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
 
 <sup>2</sup> Die Kündigung, die während einer der in Absatz 1 festgesetzten Sperrfristen erklärt wird, ist nichtig; ist dagegen die Kündigung vor Beginn einer solchen Frist erfolgt, aber die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.
@@ -5112,7 +5138,9 @@ Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kün
 [^336c-2]: Fassung gemäss Anhang Ziff. 3 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^336c-4]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^336c-5]: Ursprünglich: Bst. c<sup>bis</sup>. Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^336c-6]: Ursprünglich: Bst. c<sup>bis</sup>, dann c<sup>ter</sup>. Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-7]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### b. durch den Arbeitnehmer
 
@@ -5834,38 +5862,63 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 
 #### Art. 361
 
-<sup>1</sup>
+<sup>1</sup> Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften weder zuungunsten des Arbeitgebers noch des Arbeitnehmers abgewichen werden:
 
-Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften weder zuungunsten des Arbeitgebers noch des Arbeitnehmers abgewichen werden:
+Artikel 321*c*: Absatz 1 (Überstundenarbeit)
 
-- Artikel 321*c*: Absatz 1 (Überstundenarbeit)
-- Artikel 323: Absatz 4 (Vorschuss)
-- Artikel 323*b*: Absatz 2 (Verrechnung mit Gegenforderungen)
-- Artikel 325: Absatz 2 (Abtretung und Verpfändung von Lohnforderungen)
-- Artikel 326: Absatz 2 (Zuweisung von Arbeit)
-- Artikel 329*d*: Absätze 2 und 3 (Ferienlohn)
-- Artikel 331: Absätze 1 und 2 (Zuwendungen für die Personalfürsorge)
-- Artikel 331*b*: (Abtretung und Verpfändung von Forderungen auf Vorsorgeleistungen)[^361-1]
-- [tab] …[^361-2]
-- Artikel 334: Absatz 3 (Kündigung beim langjährigen Arbeitsverhältnis)
-- Artikel 335: (Kündigung des Arbeitsverhältnisses)
-- Artikel 335*k*: (Sozialplan während eines Konkurs- oder eines Nachlassverfahrens)[^361-3]
-- Artikel 336: Absatz 1 (Missbräuchliche Kündigung)
-- Artikel 336*a*: (Entschädigung bei missbräuchlicher Kündigung)
-- Artikel 336*b*: (Geltendmachung der Entschädigung)
-- Artikel 336*d*: (Kündigung zur Unzeit durch den Arbeitnehmer)
-- Artikel 337: Absätze 1 und 2 (Fristlose Auflösung aus wichtigen Gründen)
-- Artikel 337*b*: Absatz 1 (Folgen bei gerechtfertigter Auflösung)
-- Artikel 337*d*: (Folgen bei ungerechtfertigtem Nichtantritt oder Verlassen der Arbeitsstelle)
-- Artikel 339: Absatz 1 (Fälligkeit der Forderungen)
-- Artikel 339*a*: (Rückgabepflichten)
-- Artikel 340*b*: Absätze 1 und 2 (Folgen der Übertretung des Konkurrenzverbotes)
-- Artikel 342: Absatz 2 (Zivilrechtliche Wirkungen des öffentlichen Rechts)
-- [tab] …[^361-4]
-- Artikel 346: (Vorzeitige Auflösung des Lehrvertrages)
-- Artikel 349*c*: Absatz 3 (Verhinderung an der Reisetätigkeit)
-- Artikel 350: (Besondere Kündigung)
-- Artikel 350*a*: Absatz 2 (Rückgabepflichten).[^361-5]
+Artikel 323: Absatz 4 (Vorschuss)
+
+Artikel 323*b*: Absatz 2 (Verrechnung mit Gegenforderungen)
+
+Artikel 325: Absatz 2 (Abtretung und Verpfändung von Lohnforderungen)
+
+Artikel 326: Absatz 2 (Zuweisung von Arbeit)
+
+Artikel 329*d*: Absätze 2 und 3 (Ferienlohn)
+
+Artikel 331: Absätze 1 und 2 (Zuwendungen für die Personalfürsorge)
+
+Artikel 331*b*: (Abtretung und Verpfändung von Forderungen auf Vorsorgeleistungen)[^361-1]
+
+…[^361-2]
+
+Artikel 334: Absatz 3 (Kündigung beim langjährigen Arbeitsverhältnis)
+
+Artikel 335: (Kündigung des Arbeitsverhältnisses)
+
+Artikel 335*k*: (Sozialplan während eines Konkurs- oder eines Nachlassverfahrens)[^361-3]
+
+Artikel 336: Absatz 1 (Missbräuchliche Kündigung)
+
+Artikel 336*a*: (Entschädigung bei missbräuchlicher Kündigung)
+
+Artikel 336*b*: (Geltendmachung der Entschädigung)
+
+Artikel 336*d*: (Kündigung zur Unzeit durch den Arbeitnehmer)
+
+Artikel 337: Absätze 1 und 2 (Fristlose Auflösung aus wichtigen Gründen)
+
+Artikel 337*b*: Absatz 1 (Folgen bei gerechtfertigter Auflösung)
+
+Artikel 337*d*: (Folgen bei ungerechtfertigtem Nichtantritt oder Verlassen der Arbeitsstelle)
+
+Artikel 339: Absatz 1 (Fälligkeit der Forderungen)
+
+Artikel 339*a*: (Rückgabepflichten)
+
+Artikel 340*b*: Absätze 1 und 2 (Folgen der Übertretung des Konkurrenzverbotes)
+
+Artikel 342: Absatz 2 (Zivilrechtliche Wirkungen des öffentlichen Rechts)
+
+…[^361-4]
+
+Artikel 346: (Vorzeitige Auflösung des Lehrvertrages)
+
+Artikel 349*c*: Absatz 3 (Verhinderung an der Reisetätigkeit)
+
+Artikel 350: (Besondere Kündigung)
+
+Artikel 350*a*: Absatz 2 (Rückgabepflichten).[^361-5]
 
 <sup>2</sup> Abreden sowie Bestimmungen von Normalarbeitsverträgen und Gesamtarbeitsverträgen, die von den vorstehend angeführten Vorschriften zuungunsten des Arbeitgebers oder des Arbeitnehmers abweichen, sind nichtig.
 
@@ -5879,70 +5932,129 @@ Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgen
 
 #### Art. 362
 
-<sup>1</sup>
+<sup>1</sup> Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften nicht zuungunsten der Arbeitnehmerin oder des Arbeitnehmers abgewichen werden:[^362-1]
 
-Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften nicht zuungunsten der Arbeitnehmerin oder des Arbeitnehmers abgewichen werden:[^362-1]
+Artikel 321*e*: (Haftung des Arbeitnehmers)
 
-- Artikel 321*e*: (Haftung des Arbeitnehmers)
-- Artikel 322*a*: Absätze 2 und 3 (Anteil am Geschäftsergebnis)
-- Artikel 322*b*: Absätze 1 und 2 (Entstehung des Provisionsanspruchs)
-- Artikel 322*c*: (Provisionsabrechnung)
-- Artikel 323*b*: Absatz 1 zweiter Satz (Lohnabrechnung)
-- Artikel 324: (Lohn bei Annahmeverzug des Arbeitgebers)
-- Artikel 324*a*: Absätze 1 und 3 (Lohn bei Verhinderung des Arbeitnehmers)
-- Artikel 324*b*: (Lohn bei obligatorischer Versicherung des Arbeitnehmers)
-- Artikel 326: Absätze 1, 3 und 4 (Akkordlohnarbeit)
-- Artikel 326*a*: (Akkordlohn)
-- Artikel 327*a*: Absatz 1 (Auslagenersatz im Allgemeinen)
-- Artikel 327*b*: Absatz 1 (Auslagenersatz bei Motorfahrzeug)
-- Artikel 327*c*: Absatz 2 (Vorschuss für Auslagen)
-- Artikel 328: (Schutz der Persönlichkeit des Arbeitnehmers im Allgemeinen)
-- Artikel 328*a*: (Schutz der Persönlichkeit bei Hausgemeinschaft)
-- Artikel 328*b*: (Schutz der Persönlichkeit bei der Bearbeitung von Personendaten)[^362-2]
-- Artikel 329: Absätze 1, 2 und 3 (Freizeit)
-- Artikel 329*a*: Absätze 1 und 3 (Dauer der Ferien)
-- Artikel 329*b*: Absätze 2 und 3 (Kürzung der Ferien)
-- Artikel 329*c*: (Zusammenhang und Zeitpunkt der Ferien)
-- Artikel 329*d*: Absatz 1 (Ferienlohn)
-- Artikel 329*e*: Absätze 1 und 3 (Jugendurlaub)[^362-3]
-- Artikel 329*f*: (Mutterschaftsurlaub)[^362-4]
-- Artikel 329*g*: (Vaterschaftsurlaub)[^362-5]
-- Artikel 329*h*: (Urlaub für die Betreuung von Angehörigen)[^362-6]
-- Artikel 329*i*: (Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes)[^362-7]
-- Artikel 329*j*: (Adoptionsurlaub)[^362-8]
-- Artikel 330: Absätze 1, 3 und 4 (Kaution)
-- Artikel 330*a*: (Zeugnis)
-- Artikel 331: Absätze 3 und 4 (Beitragsleistung und Auskunftspflicht bei Personalfürsorge)
-- Artikel 331*a*: (Beginn und Ende des Vorsorgeschutzes)[^362-9]
-- …[^362-10]
-- Artikel 332: Absatz 4 (Vergütung bei Erfindungen)
-- Artikel 333: Absatz 3 (Haftung bei Übergang des Arbeitsverhältnisses)
-- Artikel 335*c*: Absatz 3 (Kündigungsfristen)[^362-11]
-- Artikel 335*i*: (Verhandlungspflicht zwecks Abschlusses eines Sozialplans)[^362-12]
-- Artikel 335*j*: (Aufstellung des Sozialplans durch ein Schiedsgericht)[^362-13]
-- Artikel 336: Absatz 2 (Missbräuchliche Kündigung durch den Arbeitgeber)
-- Artikel 336*c*: (Kündigung zur Unzeit durch den Arbeitgeber)
-- Artikel 337*a*: (Fristlose Auflösung wegen Lohngefährdung)
-- Artikel 337*c*: Absatz 1 (Folgen bei ungerechtfertigter Entlassung)
-- Artikel 338: (Tod des Arbeitnehmers)
-- Artikel 338*a*: (Tod des Arbeitgebers)
-- Artikel 339*b*: (Voraussetzungen der Abgangsentschädigung)
-- Artikel 339*d*: (Ersatzleistungen)
-- Artikel 340: Absatz 1 (Voraussetzungen des Konkurrenzverbotes)
-- Artikel 340*a*: Absatz 1 (Beschränkung des Konkurrenzverbotes)
-- Artikel 340*c*: (Wegfall des Konkurrenzverbotes)
-- Artikel 341: Absatz 1 (Unverzichtbarkeit)
-- Artikel 345*a*: (Pflichten des Lehrmeisters[^362-14])
-- Artikel 346*a*: (Lehrzeugnis)
-- Artikel 349*a*: Absatz 1 (Lohn des Handelsreisenden)
-- Artikel 349*b*: Absatz 3 (Ausrichtung der Provision)
-- Artikel 349*c*: Absatz 1 (Lohn bei Verhinderung an der Reisetätigkeit)
-- Artikel 349*e*: Absatz 1 (Retentionsrecht des Handelsreisenden)
-- Artikel 350*a*: Absatz 1 (Provision bei Beendigung des Arbeitsverhältnisses)
-- Artikel 352*a*: Absatz 3 (Haftung des Heimarbeitnehmers)
-- Artikel 353: (Abnahme des Arbeitserzeugnisses)
-- Artikel 353*a*: (Ausrichtung des Lohnes)
-- Artikel 353*b*: Absatz 1 (Lohn bei Verhinderung an der Arbeitsleistung).[^362-15]
+Artikel 322*a*: Absätze 2 und 3 (Anteil am Geschäftsergebnis)
+
+Artikel 322*b*: Absätze 1 und 2 (Entstehung des Provisionsanspruchs)
+
+Artikel 322*c*: (Provisionsabrechnung)
+
+Artikel 323*b*: Absatz 1 zweiter Satz (Lohnabrechnung)
+
+Artikel 324: (Lohn bei Annahmeverzug des Arbeitgebers)
+
+Artikel 324*a*: Absätze 1 und 3 (Lohn bei Verhinderung des Arbeitnehmers)
+
+Artikel 324*b*: (Lohn bei obligatorischer Versicherung des Arbeitnehmers)
+
+Artikel 326: Absätze 1, 3 und 4 (Akkordlohnarbeit)
+
+Artikel 326*a*: (Akkordlohn)
+
+Artikel 327*a*: Absatz 1 (Auslagenersatz im Allgemeinen)
+
+Artikel 327*b*: Absatz 1 (Auslagenersatz bei Motorfahrzeug)
+
+Artikel 327*c*: Absatz 2 (Vorschuss für Auslagen)
+
+Artikel 328: (Schutz der Persönlichkeit des Arbeitnehmers im Allgemeinen)
+
+Artikel 328*a*: (Schutz der Persönlichkeit bei Hausgemeinschaft)
+
+Artikel 328*b*: (Schutz der Persönlichkeit bei der Bearbeitung von Personendaten)[^362-2]
+
+Artikel 329: Absätze 1, 2 und 3 (Freizeit)
+
+Artikel 329*a*: Absätze 1 und 3 (Dauer der Ferien)
+
+Artikel 329*b*: Absätze 2 und 3 (Kürzung der Ferien)
+
+Artikel 329*c*: (Zusammenhang und Zeitpunkt der Ferien)
+
+Artikel 329*d*: Absatz 1 (Ferienlohn)
+
+Artikel 329*e*: Absätze 1 und 3 (Jugendurlaub)[^362-3]
+
+Artikel 329*f*: (Mutterschaftsurlaub)[^362-4]
+
+Artikel 329*g*: (Urlaub des andern Elternteils)[^362-5]
+
+Artikel 329*g*<sup>bis</sup>: (Urlaub im Falle des Todes der Mutter)[^362-6]
+
+Artikel 329*h*: (Urlaub für die Betreuung von Angehörigen)[^362-7]
+
+Artikel 329*i*: (Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes)[^362-8]
+
+Artikel 329*j*: (Adoptionsurlaub)[^362-9]
+
+Artikel 330: Absätze 1, 3 und 4 (Kaution)
+
+Artikel 330*a*: (Zeugnis)
+
+Artikel 331: Absätze 3 und 4 (Beitragsleistung und Auskunftspflicht bei Personalfürsorge)
+
+Artikel 331*a*: (Beginn und Ende des Vorsorgeschutzes)[^362-10]
+
+…[^362-11]
+
+Artikel 332: Absatz 4 (Vergütung bei Erfindungen)
+
+Artikel 333: Absatz 3 (Haftung bei Übergang des Arbeitsverhältnisses)
+
+Artikel 335*c*: Absatz 3 (Kündigungsfristen)[^362-12]
+
+Artikel 335*i*: (Verhandlungspflicht zwecks Abschlusses eines Sozialplans)[^362-13]
+
+Artikel 335*j*: (Aufstellung des Sozialplans durch ein Schiedsgericht)[^362-14]
+
+Artikel 336: Absatz 2 (Missbräuchliche Kündigung durch den Arbeitgeber)
+
+Artikel 336*c*: (Kündigung zur Unzeit durch den Arbeitgeber)
+
+Artikel 337*a*: (Fristlose Auflösung wegen Lohngefährdung)
+
+Artikel 337*c*: Absatz 1 (Folgen bei ungerechtfertigter Entlassung)
+
+Artikel 338: (Tod des Arbeitnehmers)
+
+Artikel 338*a*: (Tod des Arbeitgebers)
+
+Artikel 339*b*: (Voraussetzungen der Abgangsentschädigung)
+
+Artikel 339*d*: (Ersatzleistungen)
+
+Artikel 340: Absatz 1 (Voraussetzungen des Konkurrenzverbotes)
+
+Artikel 340*a*: Absatz 1 (Beschränkung des Konkurrenzverbotes)
+
+Artikel 340*c*: (Wegfall des Konkurrenzverbotes)
+
+Artikel 341: Absatz 1 (Unverzichtbarkeit)
+
+Artikel 345*a*: (Pflichten des Lehrmeisters[^362-15])
+
+Artikel 346*a*: (Lehrzeugnis)
+
+Artikel 349*a*: Absatz 1 (Lohn des Handelsreisenden)
+
+Artikel 349*b*: Absatz 3 (Ausrichtung der Provision)
+
+Artikel 349*c*: Absatz 1 (Lohn bei Verhinderung an der Reisetätigkeit)
+
+Artikel 349*e*: Absatz 1 (Retentionsrecht des Handelsreisenden)
+
+Artikel 350*a*: Absatz 1 (Provision bei Beendigung des Arbeitsverhältnisses)
+
+Artikel 352*a*: Absatz 3 (Haftung des Heimarbeitnehmers)
+
+Artikel 353: (Abnahme des Arbeitserzeugnisses)
+
+Artikel 353*a*: (Ausrichtung des Lohnes)
+
+Artikel 353*b*: Absatz 1 (Lohn bei Verhinderung an der Arbeitsleistung).[^362-16]
 
 <sup>2</sup> Abreden sowie Bestimmungen von Normalarbeitsverträgen und Gesamtarbeitsverträgen, die von den vorstehend angeführten Vorschriften zuungunsten des Arbeitnehmers abweichen, sind nichtig.
 
@@ -5950,17 +6062,18 @@ Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgen
 [^362-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 1992 über den Datenschutz, in Kraft seit 1. Juli 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^362-3]: Eingefügt durch Art. 13 des JFG vom 6. Okt. 1989, in Kraft seit 1. Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
 [^362-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^362-5]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-6]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-7]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-8]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^362-9]: Fassung gemäss Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-10]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-11]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-12]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-5]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Fassung gemäss Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-7]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-8]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-9]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^362-10]: Fassung gemäss Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-11]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-12]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-13]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-14]: Heute: des Arbeitgebers.
-[^362-15]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-14]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-15]: Heute: des Arbeitgebers.
+[^362-16]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Elfter Titel: Der Werkvertrag
 
@@ -9306,7 +9419,6 @@ Soweit das Gesetz nichts anderes vorschreibt, sind die Einlagen nach den Bestimm
 Die Deckung des Erhöhungsbetrags wird nachgewiesen:
 
 - 1\. mit der Jahresrechnung in der von der Generalversammlung genehmigten und durch einen zugelassenen Revisor geprüften Fassung; oder
-
 - 2\. mit einem durch einen zugelassenen Revisor geprüften Zwischenabschluss, sofern der Bilanzstichtag im Zeitpunkt des Beschlusses der Generalversammlung mehr als sechs Monate zurückliegt.[^652d-2]
 
 <sup>3</sup> Die Statuten müssen den Umstand angeben, dass die Kapitalerhöhung durch Umwandlung von frei verwendbarem Eigenkapital erfolgte.[^652d-3]
@@ -10064,7 +10176,7 @@ Die Anteile am Gewinn und am Liquidationsergebnis sind, sofern die Statuten nich
 
 [^663a663b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### B. ...
+### B. …
 
 #### Art. 663b<sup>bis</sup>
 
@@ -13447,7 +13559,7 @@ Ein Beschluss der Gesellschafterversammlung, der mindestens zwei Drittel der ver
 - 8\. den Antrag an das Gericht, einen Gesellschafter aus wichtigem Grund auszuschliessen;
 - 9\. den Ausschluss eines Gesellschafters aus in den Statuten vorgesehenen Gründen;
 - 10\. die Verlegung des Sitzes der Gesellschaft;
-- [tab] 10<sup>bis</sup>.[^808b-2] die Einführung einer statutarischen Schiedsklausel;
+- 10<sup>bis</sup>.[^808b-2] die Einführung einer statutarischen Schiedsklausel;
 - 11\. die Auflösung der Gesellschaft.
 
 <sup>2</sup> Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt, geändert oder aufgehoben werden.[^808b-3]
@@ -16787,7 +16899,7 @@ Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch nur in Hä
 
 #### Art. 1023
 
-1 Ein Wechsel kann gezogen werden: auf Sicht; auf eine bestimmte Zeit nach Sicht; auf eine bestimmte Zeit nach der Ausstellung; auf einen bestimmten Tag.
+<sup>1</sup> Ein Wechsel kann gezogen werden: auf Sicht; auf eine bestimmte Zeit nach Sicht; auf eine bestimmte Zeit nach der Ausstellung; auf einen bestimmten Tag.
 
 <sup>2</sup> Wechsel mit anderen oder mit mehreren aufeinander folgenden Verfallzeiten sind nichtig.
 

@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20240101-rm-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. da settember 2023)
+dals 30 da mars 1911 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -4450,7 +4450,7 @@ Il patrun na dastga er betg reducir las vacanzas, sche:
 
 - a. ina lavuranta è impedida da lavurar fin 2 mais pervia da gravidanza;
 - b. ina lavuranta ha retratg in congedi da maternitad tenor l’artitgel 329*f*;
-- c.[^329b-3] in lavurant ha retratg in congedi da paternitad tenor l’artitgel 329*g*;
+- c.[^329b-3] ina lavuranta u in lavurant ha retratg il congedi da l’auter genitur tenor l’artitgel 329*g* u il congedi en cas da mort da la mamma tenor l’artitgel 329*g*<sup>bis</sup>;
 - d. ina lavuranta u in lavurant ha retratg in congedi d’assistenza tenor l’artitgel 329*i*;
 - e.[^329b-4] ina lavuranta u in lavurant ha retratg in congedi d’adopziun tenor l’artitgel 329*j*.[^329b-5]
 
@@ -4458,7 +4458,7 @@ Il patrun na dastga er betg reducir las vacanzas, sche:
 
 [^329b-1]: Versiun tenor l’art. 117 da la LF davart l’assicuranza cunter la dischoccupaziun, en vigur dapi il 1. da schan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Versiun tenor l’art. 13 da la LF dals 6 d’oct. 1989 davart la lavur cun giuvenils, en vigur dapi il 1. da schan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^329b-4]: Versiun tenor la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^329b-5]: Versiun tenor la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-6]: Integrà tras la cifra I da la LF dals 16 da dec. 1983, en vigur dapi il 1. da fan. 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); BBl **1982** III201).
@@ -4509,22 +4509,46 @@ Il patrun na dastga er betg reducir las vacanzas, sche:
 
 <sup>2</sup> Sche l’uffant novnaschì vegn ospitalisà, sa prolunghescha il congedi da maternitad per la durada prolungada dal pajament da l’indemnisaziun da maternitad.[^329f-2]
 
+<sup>3</sup> En cas da mort da l’auter genitur durant ils 6 mais suenter la naschientscha da l’uffant ha la lavuranta il dretg d’in congedi supplementar da 2 emnas; ella po retrair quest congedi en furma d’entiras emnas u da singuls dis entaifer 6 mais a partir dal di suenter la mort.[^329f-3]
+
 [^329f-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^329f-2]: Integrà tras la cifra II da la LF dals 18 da dec. 2020, en vigur dapi il 1. da fan. 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^329f-3]: Integrà tras la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
-### 5. Congedi da paternitad
+### 5. Congedi da l’auter genitur
+
+### a. En general
 
 #### Art. 329g
 
 [^329g-1]
 
-<sup>1</sup> In lavurant ch’è – il mument da la naschientscha da l’uffant – il bab legitim da quest uffant u daventa quai entaifer ils proxims 6 mais, ha il dretg d’in congedi da paternitad da 2 emnas.
+<sup>1</sup>
 
-<sup>2</sup> Il congedi da paternitad sto vegnir retratg entaifer 6 mais suenter la naschientscha da l’uffant.
+Il dretg dal congedi da 2 emnas da l’auter genitur ha:
 
-<sup>3</sup> El po vegnir retratg per emna u per di.
+- a. il lavurant ch’è – il mument da la naschientscha da l’uffant – ses bab legitim u daventa quai entaifer ils proxims 6 mais;
+- b. la lavuranta ch’è – il mument da la naschientscha da l’uffant – l’auter genitur legal.
 
-[^329g-1]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+<sup>2</sup> Il congedi sto vegnir retratg entaifer 6 mais suenter la naschientscha da l’uffant. Quest termin è suspendì durant il congedi tenor l’artitgel 329*g*<sup>bis</sup>.
+
+<sup>3</sup> Il congedi po vegnir retratg en furma d’entiras emnas u da singuls dis.
+
+[^329g-1]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+
+### b. En cas da mort da la mamma
+
+#### Art. 329g<sup>bis</sup>
+
+[^329gbis-1]
+
+<sup>1</sup> Sche la mamma mora il di da la naschientscha u durant las 14 emnas suenter la naschientscha, ha l’auter genitur il dretg d’in congedi da 14 emnas; quest congedi sto vegnir retratg a partir dal di suenter la mort en furma da dis consecutivs.
+
+<sup>2</sup> L’auter genitur ha il dretg dal congedi, sche la relaziun da figlialanza è constituida il di da la mort u vegn constituida durant las 14 emnas suenter il di da la mort.
+
+<sup>3</sup> Sche l’uffant novnaschì vegn ospitalisà tenor l’artitgel 329*f* alinea 2, sa prolunghescha il congedi tenor l’alinea 1 per la durada da l’ospitalisaziun, maximalmain dentant per 8 emnas.
+
+[^329gbis-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### 6. Congedi per l’assistenza da confamigliars
 
@@ -4889,10 +4913,10 @@ Sch’il manaschi u ina part dal manaschi vegn transferì ad ina terza persuna d
 
 <sup>2</sup> Quests termins dastgan vegnir midads tras ina cunvegna en scrit, tras in contract normal u tras in contract collectiv da lavur; sut 1 mais dastgan els dentant vegnir reducids mo tras in contract collectiv da lavur e mo per l’emprim onn da servetsch.
 
-<sup>3</sup> Sch’il patrun disdescha la relaziun da lavur e sch’il lavurant ha – avant la fin da la relaziun da lavur – il dretg d’in congedi da paternitad en il senn da l’artitgel 329*g*, vegn il termin da disditga prolungà per ils dis da congedi anc betg retratgs.[^335c-2]
+<sup>3</sup> Sch’il patrun disdescha la relaziun da lavur e sche la lavuranta u il lavurant ha – avant la fin da la relaziun da lavur – il dretg dal congedi da l’auter genitur en il senn da l’artitgel 329*g*, vegn il termin da disditga prolungà per ils dis da congedi anc betg retratgs.[^335c-2]
 
 [^335c-1]: Integrà tras la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
-[^335c-2]: Integrà tras la cifra 1 da l’agiunta da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^335c-2]: Integrà tras la cifra 1 da l’agiunta da la LF dals 27 da sett. 2019 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### II<sup>bis</sup>. Relaschada en massa
 
@@ -5103,7 +5127,9 @@ Suenter la fin dal temp d’emprova na dastga il patrun betg disdir la relaziun 
 - b. durant ch’il lavurant è – senza sia culpa – impedì cumplettamain u parzialmain da lavurar pervia da malsogna u d’accident, e quai l’emprim onn da servetsch durant 30 dis, a partir dal segund fin e cun il 5avel onn da servetsch durant 90 dis ed a partir dal 6avel onn da servetsch durant 180 dis;
 - c. durant la gravidanza e durant las 16 emnas suenter la pagliola;
 - c<sup>bis</sup>.[^336c-4] avant la fin dal congedi da maternitad prolungà tenor l’artitgel 329*f* alinea 2;
-- c<sup>ter</sup>.[^336c-5] uschè ditg ch’il dretg d’in congedi d’assistenza tenor l’artitgel 329*i* exista, maximalmain dentant durant 6 mais a partir dal di ch’il termin general cumenzà;
+- c<sup>ter</sup>.[^336c-5] tranter il cumenzament dal congedi tenor l’artitgel 329*f* alinea 3 e l’ultim di da congedi retratg, maximalmain dentant durant 3 mais a partir dal temp da bloccada tenor la litera c;
+- c<sup>quater</sup>.[^336c-6] uschè ditg ch’il dretg d’in congedi d’assistenza tenor l’artitgel 329*i* exista, maximalmain dentant durant 6 mais a partir dal di ch’il termin general cumenzà;
+- c<sup>quinquies</sup>.[^336c-7] durant il congedi tenor l’artitgel 329*g*<sup>bis</sup>;
 - d. durant ch’il lavurant sa participescha – cun il consentiment dal patrun – ad in servetsch che l’autoritad federala cumpetenta ha ordinà en il rom d’ina acziun d’agid a l’exteriur.
 
 <sup>2</sup> La disditga che vegn pronunziada durant in temp da bloccada tenor l’alinea 1 è nunvalaivla; sche la disditga è dentant vegnida pronunziada avant il cumenzament d’in tal temp da bloccada e sch’il termin da disditga n’è betg anc scadì fin alura, vegn la scadenza dal termin interrutta e cuntinuada pir suenter la fin dal temp da bloccada.
@@ -5114,7 +5140,9 @@ Suenter la fin dal temp d’emprova na dastga il patrun betg disdir la relaziun 
 [^336c-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 6 d’oct. 1995 davart il servetsch civil, en vigur dapi il 1. d’oct. 1996 (AS **1996** 1455; [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^336c-4]: Integrà tras la cifra II da la LF dals 18 da dec. 2020, en vigur dapi il 1. da fan. 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^336c-5]: Oriundamain: lit. c<sup>bis</sup>. Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-5]: Integrà tras la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^336c-6]: Oriundamain: lit. c<sup>bis</sup>, lura c<sup>ter</sup>. Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-7]: Integrà tras la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### b. Tras il lavurant
 
@@ -5908,20 +5936,21 @@ Tras ina cunvegna, tras in contract normal da lavur u tras in contract collectiv
 - artitgel 329*d*: alinea 1 (salari da vacanzas)
 - artitgel 329*e*: alineas 1 e 3 (congedi per giuvenils)[^362-3]
 - artitgel 329*f*: (congedi da maternitad)[^362-4]
-- artitgel 329*g*: (congedi da paternitad)[^362-5]
-- artitgel 329*h*: (congedi per l’assistenza da confamigliars)[^362-6]
-- artitgel 329*i*: (congedi per tgirar in uffant cun grevs problems da la sanadad pervia da malsogna u d’accident)[^362-7]
-- artitgel 329*j*: (congedi d’adopziun)[^362-8]
+- artitgel 329*g*: (congedi da l’auter genitur)[^362-5]
+- artitgel 329*g*<sup>bis</sup>: (congedi en cas da mort da la mamma)[^362-6]
+- artitgel 329*h*: (congedi per l’assistenza da confamigliars)[^362-7]
+- artitgel 329*i*: (congedi per tgirar in uffant cun grevs problems da la sanadad pervia da malsogna u d’accident)[^362-8]
+- artitgel 329*j*: (congedi d’adopziun)[^362-9]
 - artitgel 330: alineas 1, 3 e 4 (cauziun)
 - artitgel 330*a*: (attestat)
 - artitgel 331: alineas 3 e 4 (contribuziun ed obligaziun da dar infurmaziuns en connex cun il provediment dal persunal)
-- artitgel 331*a*: (cumenzament e fin dal provediment)[^362-9]
-- …[^362-10]
+- artitgel 331*a*: (cumenzament e fin dal provediment)[^362-10]
+- …[^362-11]
 - artitgel 332: alinea 4 (indemnisaziun en cas d’invenziuns)
 - artitgel 333: alinea 3 (responsabladad en cas d’in transferiment da la relaziun da lavur)
-- artitgel 335*c*: alinea 3 (termins da disditga)[^362-11]
-- artitgel 335*i*: (obligaziun da manar tractativas per concluder in plan social)[^362-12]
-- artitgel 335*j*: (fixaziun dal plan social tras ina dretgira da cumpromiss)[^362-13]
+- artitgel 335*c*: alinea 3 (termins da disditga)[^362-12]
+- artitgel 335*i*: (obligaziun da manar tractativas per concluder in plan social)[^362-13]
+- artitgel 335*j*: (fixaziun dal plan social tras ina dretgira da cumpromiss)[^362-14]
 - artitgel 336: alinea 2 (disditga abusiva tras il patrun)
 - artitgel 336*c*: (disditga da temp maladattà tras il patrun)
 - artitgel 337*a*: (schliaziun immediata pervia d’insolvenza dal patrun)
@@ -5934,7 +5963,7 @@ Tras ina cunvegna, tras in contract normal da lavur u tras in contract collectiv
 - artitgel 340*a*: alinea 1 (restricziun dal scumond da concurrenza)
 - artitgel 340*c*: (scrudada dal scumond da concurrenza)
 - artitgel 341: alinea 1 (nunpussaivladad da renunziar a la surannaziun)
-- artitgel 345*a*: (obligaziuns dal patrun d’emprendissadi[^362-14])
+- artitgel 345*a*: (obligaziuns dal patrun d’emprendissadi[^362-15])
 - artitgel 346*a*: (attestat d’emprendissadi)
 - artitgel 349*a*: alinea 1 (salari dal viagiatur da commerzi)
 - artitgel 349*b*: alinea 3 (pajament da la provisiun)
@@ -5944,7 +5973,7 @@ Tras ina cunvegna, tras in contract normal da lavur u tras in contract collectiv
 - artitgel 352*a*: alinea 3 (responsabladad dal lavurant a chasa)
 - artitgel 353: (collaudaziun dal product)
 - artitgel 353*a*: (pajament dal salari)
-- artitgel 353*b*: alinea 1 (salari en cas d’impediment da lavurar).[^362-15]
+- artitgel 353*b*: alinea 1 (salari en cas d’impediment da lavurar).[^362-16]
 
 <sup>2</sup> Cunvegnas e disposiziuns da contracts collectivs e da contracts normals da lavur che divergeschan da las prescripziuns numnadas qua survart a disfavur dal lavurant, èn nunvalaivlas.
 
@@ -5952,17 +5981,18 @@ Tras ina cunvegna, tras in contract normal da lavur u tras in contract collectiv
 [^362-2]: Integrà tras la cifra 2 da l’agiunta da la LF dals 19 da zer. 1992 davart la protecziun da datas, en vigur dapi il 1. da fan. 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^362-3]: Integrà tras l’art. 13 da la LF dals 6 d’oct. 1989 davart la lavur cun giuvenils, en vigur dapi il 1. da schan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
 [^362-4]: Integrà tras la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^362-5]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-6]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-7]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-8]: Integrà tras la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^362-9]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-10]: Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, cun effect dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-11]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-12]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-5]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-6]: Integrà tras la cifra 1 da l’agiunta da la LF dals 17 da mars 2023 (diarias per il genitur survivent), en vigur dapi il 1. da schan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-7]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-8]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-9]: Integrà tras la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^362-10]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-11]: Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, cun effect dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-12]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-13]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-14]: Ussa: dal patrun.
-[^362-15]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-14]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-15]: Ussa: dal patrun.
+[^362-16]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Indeschavel titel: Il contract d’execuziun da lavurs
 
@@ -19333,15 +19363,13 @@ Il Cussegl federal fixescha l’entrada en vigur.
 
 [^u18-1]: Integrà tras la cifra II da la LF dal 1. d’avr. 1949, en vigur dapi il 1. da schan. 1950 (AS **1949** I 791 801; [BBl 1947 III 869](https://fedlex.data.admin.ch/eli/fga/1947/3_869_905_)).
 
-- 1\. ...[^u18-2]
-- 2\. ...[^u18-3]
+- 1\. e 2.[^u18-2] …
 - 3\. Ils conclus da la cuminanza ch’èn vegnids prendids sin basa dal dretg vertent restan valaivels sut il dretg nov.
 - Per conclus che vegnan prendids suenter l’entrada en vigur da questa lescha èn decisivas las prescripziuns dal dretg nov.
 - Sch’in debitur ha dentant survegnì gia sin basa dal dretg vertent e tras conclus da la cuminanza dals debiturs facilitaziuns ch’èn egualas u che correspundan a quellas ch’èn previsas en l’artitgel 1170, ston ellas vegnir resguardadas adequatamain tar l’applicaziun da questa prescripziun.
 - Dal rest èn applitgablas las disposiziuns finalas e transitoricas da la Lescha federala dals 18 da december 1936 davart la revisiun dal ventgaquatteravel fin al trentatraisavel titel dal Dretg d’obligaziuns.
-- 4\. Cun l’entrada en vigur da questa lescha vegnan abolidas las disposiziuns che cuntrafan a questa lescha, en spezial l’Ordinaziun dal Cussegl federal dals 20 da favrer 1918[^u18-4] davart la cuminanza da crediturs en cas d’obligaziuns d’emprest.
+- 4\. Cun l’entrada en vigur da questa lescha vegnan abolidas las disposiziuns che cuntrafan a questa lescha, en spezial l’Ordinaziun dal Cussegl federal dals 20 da favrer 1918[^u18-3] davart la cuminanza da crediturs en cas d’obligaziuns d’emprest.
 - 5\. Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
 [^u18-2]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 791.
-[^u18-3]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 791.
-[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [AS 35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [AS 36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-3]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [AS 35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [AS 36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]

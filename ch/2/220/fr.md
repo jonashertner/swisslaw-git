@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230901-fr-xml-39.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20240101-fr-xml-23.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230901/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 1<sup>er</sup> septembre 2023)
+du 30 mars 1911 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -4459,7 +4459,7 @@ L’employeur ne peut pas réduire la durée des vacances si:
 
 - a. une travailleuse, en raison d’une grossesse, est empêchée de travailler pendant deux mois au plus;
 - b. une travailleuse a pris un congé de maternité au sens de l’art. 329*f*;
-- c.[^329b-3] un travailleur a pris un congé de paternité au sens de l’art. 329*g*;
+- c.[^329b-3] un travailleur a pris le congé de l’autre parent au sens de l’art. 329*g* ou le congé en cas de décès de la mère au sens de l’art. 329*g*<sup>bis</sup>;
 - d. un travailleur a bénéficié d’un congé de prise en charge au sens de l’art. 329*i*;
 - e.[^329b-4] une travailleuse ou un travailleur a pris un congé d’adoption au sens de l’art. 329*j*.[^329b-5]
 
@@ -4467,7 +4467,7 @@ L’employeur ne peut pas réduire la durée des vacances si:
 
 [^329b-1]: Nouvelle teneur selon l’art. 117 de la LF du 25 juin 1982 sur l’assurance-chômage, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [FF 1980 III 485](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Nouvelle teneur selon l’art. 13 de la LF du 6 oct. 1989 sur les activités de jeunesse, en vigueur depuis le 1<sup>er</sup> janv. 1991 ([RO 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 777](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^329b-4]: Introduite par l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^329b-5]: Nouvelle teneur selon le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-6]: Introduit par le ch. I de la LF du 16 déc. 1983, en vigueur depuis le 1<sup>er</sup> juil. 1984 ([RO 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [FF 1982 III 177](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
@@ -4519,22 +4519,46 @@ L’employeur ne peut pas réduire la durée des vacances si:
 
 <sup>2</sup> En cas d’hospitalisation du nouveau-né, le congé est prolongé d’une durée équivalente à la prolongation de la durée du versement de l’allocation de maternité.[^329f-2]
 
+<sup>3</sup> En cas de décès de l’autre parent durant les six mois qui suivent la naissance de l’enfant, la travailleuse a droit à deux semaines de congé supplémentaires; celles-ci peuvent être prises sous la forme de semaines ou de journées dans un délai-cadre de six mois à compter du jour suivant le décès.[^329f-3]
+
 [^329f-1]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^329f-2]: Introduit par le ch. II de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^329f-3]: Introduit par l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
-### 5. Congé de paternité
+### 5. Congé de l’autre parent
+
+### a. En général
 
 #### Art. 329g
 
 [^329g-1]
 
-<sup>1</sup> En cas de paternité, le travailleur a droit à un congé de deux semaines s’il est le père légal au moment de la naissance de l’enfant ou s’il le devient au cours des six mois qui suivent.
+<sup>1</sup>
 
-<sup>2</sup> Le congé de paternité doit être pris dans les six mois qui suivent la naissance de l’enfant.
+Ont droit au congé de l’autre parent de deux semaines:
 
-<sup>3</sup> Il peut être pris sous la forme de semaines ou de journées.
+- a. le travailleur, s’il est le père légal au moment de la naissance de l’enfant ou s’il le devient au cours des six mois qui suivent;
+- b. la travailleuse, si elle est l’autre parent légal au moment de la naissance de l’enfant.
 
-[^329g-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+<sup>2</sup> Le congé doit être pris dans les six mois qui suivent la naissance de l’enfant. Ce délai est suspendu pendant le congé au sens de l’art. 329*g*<sup>bis</sup>.
+
+<sup>3</sup> Le congé peut être pris sous la forme de semaines ou de journées.
+
+[^329g-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+
+### b. En cas de décès de la mère
+
+#### Art. 329g<sup>bis</sup>
+
+[^329gbis-1]
+
+<sup>1</sup> En cas de décès de la mère le jour de l’accouchement ou durant les 14 semaines qui suivent, l’autre parent a droit à un congé de 14 semaines à prendre de manière ininterrompue à compter du jour qui suit le décès.
+
+<sup>2</sup> L’autre parent a droit au congé lorsque le lien de filiation est établi au jour du décès ou durant les 14 semaines qui suivent.
+
+<sup>3</sup> En cas d’hospitalisation du nouveau-né selon l’art. 329*f*, al. 2, le congé prévu à l’al. 1 est prolongé d’une durée équivalente à celle de l’hospitalisation, mais de huit semaines au plus.
+
+[^329gbis-1]: Introduit par l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### 6. Congé pour la prise en charge de proches
 
@@ -4894,10 +4918,10 @@ Lorsque l’entreprise ou une partie de celle-ci est transférée à un tiers du
 
 <sup>2</sup> Ces délais peuvent être modifiés par accord écrit, contrat-type de travail ou convention collective; des délais inférieurs à un mois ne peuvent toutefois être fixés que par convention collective et pour la première année de service.
 
-<sup>3</sup> Si l’employeur résilie le contrat de travail et que le travailleur bénéficie d’un congé de paternité au sens de l’art. 329*g* avant la fin du contrat de travail, le délai de congé est prolongé du nombre de jours de congé qui n’ont pas été pris.[^335c-2]
+<sup>3</sup> Si l’employeur résilie le contrat de travail et que le travailleur bénéficie du congé de l’autre parent au sens de l’art. 329*g* avant la fin du contrat de travail, le délai de congé est prolongé du nombre de jours de congé qui n’ont pas été pris.[^335c-2]
 
 [^335c-1]: Introduit par le ch. I de la LF du 18 mars 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 574](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
-[^335c-2]: Introduit par l’annexe ch. 1 de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 3309](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3743](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^335c-2]: Introduit par l’annexe ch. 1 de la LF du 27 sept. 2019 ([RO 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 3309](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3743](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### II<sup>bis</sup>. Licenciement collectif
 
@@ -5108,10 +5132,12 @@ Après le temps d’essai, l’employeur ne peut pas résilier le contrat:
 - b. pendant une incapacité de travail totale ou partielle résultant d’une maladie ou d’un accident non imputables à la faute du travailleur, et cela, durant 30 jours au cours de la première année de service, durant 90 jours de la deuxième à la cinquième année de service et durant 180 jours à partir de la sixième année de service;
 - c. pendant la grossesse et au cours des seize semaines qui suivent l’accouchement;
 - c<sup>bis</sup>.[^336c-4] avant le terme du congé de maternité prolongé conformément à l’art. 329*f*, al. 2;
-- c<sup>ter</sup>.[^336c-5] tant que dure le droit au congé de prise en charge visé à l’art. 329*i*, pour une période maximale de six mois à compter du jour où le délai-cadre commence à courir;
+- c<sup>ter</sup>.[^336c-5] entre le début du congé prévu à l’art. 329*f*, al. 3, et le dernier jour de congé pris, mais pendant trois mois au plus à compter de la fin de la période de protection prévue à la let. c;
+- c<sup>quater</sup>.[^336c-6] tant que dure le droit au congé de prise en charge visé à l’art. 329*i*, pour une période maximale de six mois à compter du jour où le délai-cadre commence à courir;
+- c<sup>quinquies</sup>.[^336c-7] pendant le congé prévu à l’art. 329*g*<sup>bis</sup>;
 - d. pendant que le travailleur participe, avec l’accord de l’employeur, à un service d’aide à l’étranger ordonné par l’autorité fédérale.
 
-<sup>2</sup> Le congé donné pendant une des périodes prévues à l’alinéa précédent est nul; si le congé a été donné avant l’une de ces périodes et si le délai de congé n’a pas expiré avant cette période[^336c-6], ce délai est suspendu et ne continue à courir qu’après la fin de la période.
+<sup>2</sup> Le congé donné pendant une des périodes prévues à l’alinéa précédent est nul; si le congé a été donné avant l’une de ces périodes et si le délai de congé n’a pas expiré avant cette période[^336c-8], ce délai est suspendu et ne continue à courir qu’après la fin de la période.
 
 <sup>3</sup> Lorsque les rapports de travail doivent cesser à un terme, tel que la fin d’un mois ou d’une semaine de travail, et que ce terme ne coïncide pas avec la fin du délai de congé qui a recommencé à courir, ce délai est prolongé jusqu’au prochain terme.
 
@@ -5119,8 +5145,10 @@ Après le temps d’essai, l’employeur ne peut pas résilier le contrat:
 [^336c-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^336c-3]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^336c-4]: Introduite par le ch. II de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^336c-5]: Anciennement let. c<sup>bis</sup>. Introduite par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^336c-6]: Rectifié par la Commission de rédaction le 10 nov. 1988.
+[^336c-5]: Introduite par l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^336c-6]: Anciennement let. c<sup>bis</sup> puis c<sup>ter</sup>. Introduite par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-7]: Introduite par l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^336c-8]: Rectifié par la Commission de rédaction le 10 nov. 1988.
 
 ### b. Par le travailleur
 
@@ -5470,7 +5498,7 @@ Le contrat doit être fait par écrit et régler notamment:
 
 #### Art. 348b
 
-<sup>1</sup> À moins qu’un accord écrit n’en dispose autrement, le voyageur de commerce n’a que le pouvoir de négocier des affaires
+<sup>1</sup> À moins qu’un accord écrit n’en dispose autrement, le voyageur de commerce n’a que le pouvoir de négocier des affaires.
 
 <sup>2</sup> Si le voyageur est autorisé à conclure des affaires, ses pouvoirs s’étendent à tous les actes juridiques que comporte habituellement l’exécution de celles-ci; toutefois, il ne peut pas, sans pouvoirs spéciaux, encaisser les paiements des clients, ni accorder des délais de paiement.
 
@@ -5841,38 +5869,63 @@ Les cantons qui édictent un contrat-type de travail en application de l’art. 
 
 #### Art. 361
 
-<sup>1</sup>
+<sup>1</sup> Il ne peut être dérogé aux dispositions ci-après par accord, contrat-type de travail ou convention collective, ni au détriment de l’employeur ni au détriment du travailleur:
 
-Il ne peut être dérogé aux dispositions ci-après par accord, contrat-type de travail ou convention collective, ni au détriment de l’employeur ni au détriment du travailleur:
+art. 321*c*, al. 1 (heures de travail supplémentaire);
 
-- art. 321*c*, al. 1 (heures de travail supplémentaire);
-- art. 323, al. 4 (avances);
-- art. 323*b*, al. 2 (compensation avec des créances contre l’autre partie);
-- art. 325, al. 2 (cession et mise en gage de créances de salaire);
-- art. 326, al. 2 (fourniture de travail);
-- art. 329*d*, al. 2 et 3 (salaire afférent aux vacances);
-- art. 331, al. 1 et 2 (prestations pour la prévoyance en faveur du personnel);
-- art. 331*b*, (cession et mise en gage de créances en prestations de prévoyance);[^361-1]
-- [tab] …[^361-2]
-- art. 334, al. 3 (résiliation en cas de contrat de longue durée);
-- art. 335, (résiliation du contrat);
-- art. 335*k*, (plan social, licenciement collectif pendant une procédure de faillite ou de concordat);[^361-3]
-- art. 336, al. 1 (résiliation abusive);
-- art. 336*a*, (indemnité en cas de résiliation abusive);
-- art. 336*b*, (indemnité, procédure);
-- art. 336*d*, (résiliation en temps inopportun par le travailleur);
-- art. 337, al. 1 et 2 (résiliation immédiate pour justes motifs);
-- art. 337*b*, al. 1 (conséquences de la résiliation justifiée);
-- art. 337*d*, (conséquences de la non-entrée en service ou de l’abandon injustifié de l’emploi);
-- art. 339, al. 1 (exigibilité des créances);
-- art. 339*a*, (restitution);
-- art. 340*b*, al. 1 et 2 (conséquences des contraventions à la prohibition de faire concurrence);
-- art. 342, al. 2 (effets de droit civil du droit public);
-- [tab] …[^361-4]
-- art. 346, (résiliation anticipée du contrat d’apprentis sage);
-- art. 349*c*, al. 3 (empêchement de voyager);
-- art. 350, (cas spécial de résiliation);
-- art. 350*a*, al. 2 (restitution).[^361-5]
+art. 323, al. 4 (avances);
+
+art. 323*b*, al. 2 (compensation avec des créances contre l’autre partie);
+
+art. 325, al. 2 (cession et mise en gage de créances de salaire);
+
+art. 326, al. 2 (fourniture de travail);
+
+art. 329*d*, al. 2 et 3 (salaire afférent aux vacances);
+
+art. 331, al. 1 et 2 (prestations pour la prévoyance en faveur du personnel);
+
+art. 331*b*, (cession et mise en gage de créances en prestations de prévoyance);[^361-1]
+
+…[^361-2]
+
+art. 334, al. 3 (résiliation en cas de contrat de longue durée);
+
+art. 335, (résiliation du contrat);
+
+art. 335*k*, (plan social, licenciement collectif pendant une procédure de faillite ou de concordat);[^361-3]
+
+art. 336, al. 1 (résiliation abusive);
+
+art. 336*a*, (indemnité en cas de résiliation abusive);
+
+art. 336*b*, (indemnité, procédure);
+
+art. 336*d*, (résiliation en temps inopportun par le travailleur);
+
+art. 337, al. 1 et 2 (résiliation immédiate pour justes motifs);
+
+art. 337*b*, al. 1 (conséquences de la résiliation justifiée);
+
+art. 337*d*, (conséquences de la non-entrée en service ou de l’abandon injustifié de l’emploi);
+
+art. 339, al. 1 (exigibilité des créances);
+
+art. 339*a*, (restitution);
+
+art. 340*b*, al. 1 et 2 (conséquences des contraventions à la prohibition de faire concurrence);
+
+art. 342, al. 2 (effets de droit civil du droit public);
+
+…[^361-4]
+
+art. 346, (résiliation anticipée du contrat d’apprentis sage);
+
+art. 349*c*, al. 3 (empêchement de voyager);
+
+art. 350, (cas spécial de résiliation);
+
+art. 350*a*, al. 2 (restitution).[^361-5]
 
 <sup>2</sup> Les accords et les dispositions de contrats-types de travail et de conventions collectives qui dérogent aux dispositions susdites au détriment de l’employeur ou du travailleur, sont nuls.
 
@@ -5886,70 +5939,129 @@ Il ne peut être dérogé aux dispositions ci-après par accord, contrat-type de
 
 #### Art. 362
 
-<sup>1</sup>
+<sup>1</sup> Il ne peut pas être dérogé aux dispositions ci-après par accord, contrat-type de travail ou convention collective, au détriment de la travailleuse ou du travailleur:[^362-1]
 
-Il ne peut pas être dérogé aux dispositions ci-après par accord, contrat-type de travail ou convention collective, au détriment de la travailleuse ou du travailleur:[^362-1]
+art. 321*e*, (responsabilité du travailleur);
 
-- art. 321*e*, (responsabilité du travailleur);
-- art. 322*a*, al. 2 et 3 (participation au résultat de l’exploitation);
-- art. 322*b*, al. 1 et 2 (naissance du droit à la provision);
-- art. 322*c*, (décompte de la provision);
-- art. 323*b*, al. 1, 2<sup>e</sup> phrase (décompte de salaire);
-- art. 324, (salaire en cas de demeure de l’employeur);
-- art. 324*a*, al. 1 et 3 (salaire en cas d’empêchement du travailleur);
-- art. 324*b*, (salaire en cas d’assurance obligatoire);
-- art. 326, al. 1, 3 et 4 (travail aux pièces ou à la tâche);
-- art. 326*a*, (salaire pour travail aux pièces ou à la tâche);
-- art. 327*a*, al. 1 (remboursement des frais en général);
-- art. 327*b*, al. 1 (remboursement des frais en cas d’utilisation d’un véhicule à moteur);
-- art. 327*c*, al. 2 (avances pour les frais);
-- art. 328, (protection de la personne du travailleur en général);
-- art. 328*a*, (protection de la personne du travailleur en cas de communauté domestique);
-- art. 328*b*, (protection de la personnalité lors du traitement de données personnelles);[^362-2]
-- art. 329, al. 1, 2 et 3 (congé);
-- art. 329*a*, al. 1 et 3 (durée des vacances);
-- art. 329*b*, al. 2 et 3 (réduction de la durée des vacances);
-- art. 329*c*, (continuité et date des vacances);
-- art. 329*d*, al. 1 (salaire afférent aux vacances);
-- art. 329*e*, al. 1 et 3 (congé-jeunesse);[^362-3]
-- art. 329*f*, (congé de maternité);[^362-4]
-- art. 329*g,* (congé de paternité);[^362-5]
-- art. 329*h,* (congé pour la prise en charge de proches);[^362-6]
-- art. 329*i*, (congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident);[^362-7]
-- art. 329*j*, (congé d’adoption);[^362-8]
-- art. 330, al. 1, 3 et 4 (sûreté);
-- art. 330*a*, (certificat);
-- art. 331, al. 3 et 4 (contributions et renseignements en matière de prévoyance en faveur du personnel);
-- art. 331*a*, (début et fin de la prévoyance);[^362-9]
-- [tab] …[^362-10]
-- art. 332, al. 4 (rétribution en cas d’invention);
-- art. 333, al. 3 (responsabilité en cas de transfert des rapports de travail);
-- art. 335*c*, al. 3 (délai de congé);[^362-11]
-- art. 335*i*, (obligation de négocier);[^362-12]
-- art. 335*j*, (plan social établi par sentence arbitrale);[^362-13]
-- art. 336, al. 2 (résiliation abusive de la part de l’employeur);
-- art. 336*c*, (résiliation en temps inopportun par l’employeur);
-- art. 337*a,* (résiliation immédiate pour cause d’insolvabilité de l’employeur);
-- art. 337*c*, al. 1 (conséquences de la résiliation injustifiée);
-- art. 338, (décès du travailleur);
-- art. 338*a*, (décès de l’employeur);
-- art. 339*b*, (conditions pour l’indemnité de départ);
-- art. 339*d*, (prestations de remplacement);
-- art. 340, al. 1 (conditions de la prohibition de faire concurrence);
-- art. 340*a*, al. 1 (limitations de la prohibition de faire concurrence);
-- art. 340*c*, (fin de la prohibition de faire concurrence);
-- art. 341, al. 1 (impossibilité de renoncer);
-- art. 345*a*, (obligations du maître d’apprentissage[^362-14]);
-- art. 346*a,* (certificat d’apprentissage);
-- art. 349*a*, al. 1 (salaire du voyageur de commerce);
-- art. 349*b*, al. 3 (paiement de la provision);
-- art. 349*c*, al. 1 (salaire en cas d’empêchement de voyager);
-- art. 349*e*, al. 1 (droit de rétention du voyageur de commerce);
-- art. 350*a*, al. 1 (provision à la fin des rapports de travail);
-- art. 352*a*, al. 3 (responsabilité du travailleur à domicile);
-- art. 353, (acceptation du produit du travail);
-- art. 353*a*, (paiement du salaire);
-- art. 353*b*, al. 1 (paiement du salaire en cas d’empêchement de travailler).[^362-15]
+art. 322*a*, al. 2 et 3 (participation au résultat de l’exploitation);
+
+art. 322*b*, al. 1 et 2 (naissance du droit à la provision);
+
+art. 322*c*, (décompte de la provision);
+
+art. 323*b*, al. 1, 2<sup>e</sup> phrase (décompte de salaire);
+
+art. 324, (salaire en cas de demeure de l’employeur);
+
+art. 324*a*, al. 1 et 3 (salaire en cas d’empêchement du travailleur);
+
+art. 324*b*, (salaire en cas d’assurance obligatoire);
+
+art. 326, al. 1, 3 et 4 (travail aux pièces ou à la tâche);
+
+art. 326*a*, (salaire pour travail aux pièces ou à la tâche);
+
+art. 327*a*, al. 1 (remboursement des frais en général);
+
+art. 327*b*, al. 1 (remboursement des frais en cas d’utilisation d’un véhicule à moteur);
+
+art. 327*c*, al. 2 (avances pour les frais);
+
+art. 328, (protection de la personne du travailleur en général);
+
+art. 328*a*, (protection de la personne du travailleur en cas de communauté domestique);
+
+art. 328*b*, (protection de la personnalité lors du traitement de données personnelles);[^362-2]
+
+art. 329, al. 1, 2 et 3 (congé);
+
+art. 329*a*, al. 1 et 3 (durée des vacances);
+
+art. 329*b*, al. 2 et 3 (réduction de la durée des vacances);
+
+art. 329*c*, (continuité et date des vacances);
+
+art. 329*d*, al. 1 (salaire afférent aux vacances);
+
+art. 329*e*, al. 1 et 3 (congé-jeunesse);[^362-3]
+
+art. 329*f*, (congé de maternité);[^362-4]
+
+art. 329*g,* (congé de l’autre parent);[^362-5]
+
+art. 329*g*<sup>bis</sup>, (congé en cas de décès de la mère);[^362-6]
+
+art. 329*h*, (congé pour la prise en charge de proches);[^362-7]
+
+art. 329*i*, (congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident);[^362-8]
+
+art. 329*j*, (congé d’adoption);[^362-9]
+
+art. 330, al. 1, 3 et 4 (sûreté);
+
+art. 330*a*, (certificat);
+
+art. 331, al. 3 et 4 (contributions et renseignements en matière de prévoyance en faveur du personnel);
+
+art. 331*a*, (début et fin de la prévoyance);[^362-10]
+
+…[^362-11]
+
+art. 332, al. 4 (rétribution en cas d’invention);
+
+art. 333, al. 3 (responsabilité en cas de transfert des rapports de travail);
+
+art. 335*c*, al. 3 (délai de congé);[^362-12]
+
+art. 335*i*, (obligation de négocier);[^362-13]
+
+art. 335*j*, (plan social établi par sentence arbitrale);[^362-14]
+
+art. 336, al. 2 (résiliation abusive de la part de l’employeur);
+
+art. 336*c*, (résiliation en temps inopportun par l’employeur);
+
+art. 337*a,* (résiliation immédiate pour cause d’insolvabilité de l’employeur);
+
+art. 337*c*, al. 1 (conséquences de la résiliation injustifiée);
+
+art. 338, (décès du travailleur);
+
+art. 338*a*, (décès de l’employeur);
+
+art. 339*b*, (conditions pour l’indemnité de départ);
+
+art. 339*d*, (prestations de remplacement);
+
+art. 340, al. 1 (conditions de la prohibition de faire concurrence);
+
+art. 340*a*, al. 1 (limitations de la prohibition de faire concurrence);
+
+art. 340*c*, (fin de la prohibition de faire concurrence);
+
+art. 341, al. 1 (impossibilité de renoncer);
+
+art. 345*a*, (obligations du maître d’apprentissage[^362-15]);
+
+art. 346*a,* (certificat d’apprentissage);
+
+art. 349*a*, al. 1 (salaire du voyageur de commerce);
+
+art. 349*b*, al. 3 (paiement de la provision);
+
+art. 349*c*, al. 1 (salaire en cas d’empêchement de voyager);
+
+art. 349*e*, al. 1 (droit de rétention du voyageur de commerce);
+
+art. 350*a*, al. 1 (provision à la fin des rapports de travail);
+
+art. 352*a*, al. 3 (responsabilité du travailleur à domicile);
+
+art. 353, (acceptation du produit du travail);
+
+art. 353*a*, (paiement du salaire);
+
+art. 353*b*, al. 1 (paiement du salaire en cas d’empêchement de travailler).[^362-16]
 
 <sup>2</sup> Les accords et les dispositions de contrats-types de travail et de conventions collectives qui dérogent aux dispositions susdites au détriment du travailleur, sont nuls.
 
@@ -5957,17 +6069,18 @@ Il ne peut pas être dérogé aux dispositions ci-après par accord, contrat-typ
 [^362-2]: Introduit par l’annexe ch. 2 de la LF du 19 juin 1992 sur la protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^362-3]: Introduit par l’art. 13 de la LF du 6 oct. 1989 sur les activités de jeunesse, en vigueur depuis le 1<sup>er</sup> janv. 1991 ([RO 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 777](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
 [^362-4]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^362-5]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-6]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-7]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-8]: Introduit par l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^362-9]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-10]: Abrogé par l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-11]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-12]: Introduit par l’annexe de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-5]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-6]: Introduit par l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^362-7]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-8]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-9]: Introduit par l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^362-10]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-11]: Abrogé par l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-12]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-13]: Introduit par l’annexe de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-14]: Actuellement: de l’employeur.
-[^362-15]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 574](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-14]: Introduit par l’annexe de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-15]: Actuellement: de l’employeur.
+[^362-16]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 574](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Titre onzième: Du contrat d’entreprise
 
@@ -6885,7 +6998,7 @@ Si les actes du gérant ont été ratifiés par le maître, les règles du manda
 
 <sup>2</sup> Sinon, il répond du préjudice causé par sa négligence.
 
-<sup>3</sup> Lorsqu’il y a lieu de craindre que les marchandises expédiées en commission pour être vendues ne se détériorent promptement, le comissionnaire a le droit et même, si l’intérêt du commettant l’exige, l’obligation de les faire vendre avec l’assistance de l’autorité compétente du lieu où elles se trouvent.
+<sup>3</sup> Lorsqu’il y a lieu de craindre que les marchandises expédiées en commission pour être vendues ne se détériorent promptement, le commissionnaire a le droit et même, si l’intérêt du commettant l’exige, l’obligation de les faire vendre avec l’assistance de l’autorité compétente du lieu où elles se trouvent.
 
 ### 3. Prix fixé par le commettant
 
@@ -13464,7 +13577,7 @@ Une décision de l’assemblée des associés recueillant au moins deux tiers de
 - 8\.[^808b-2] décider de requérir du tribunal l’exclusion d’un associé pour de justes motifs;
 - 9\. exclure un associé pour un motif prévu par les statuts;
 - 10\. transférer le siège de la société;
-- [tab] 10<sup>bis</sup>.[^808b-3] introduire une clause d’arbitrage statutaire;
+- 10<sup>bis</sup>.[^808b-3] introduire une clause d’arbitrage statutaire;
 - 11\. dissoudre la société.
 
 <sup>2</sup> Les dispositions statutaires qui prévoient pour certaines décisions une plus forte majorité que celle prévue par la loi ne peuvent être adoptées, modifiées ou abrogées qu’à la majorité prévue.[^808b-4]
@@ -18356,7 +18469,7 @@ Une majorité des deux tiers au moins du capital en circulation est nécessaire 
 - 2\. la remise d’intérêts pour cinq années au plus, comprises dans une période de sept ans;
 - 3\. la réduction du taux de l’intérêt jusqu’à la moitié du taux stipulé dans les conditions de l’emprunt ou le remplacement d’un intérêt fixe par un intérêt dépendant du résultat des affaires, dans les deux cas pour dix années au plus, avec possibilité de prolongation pour cinq ans au plus;
 - 4\. la prolongation de dix ans au plus du délai prévu pour l’amortissement, au moyen de la réduction des annuités ou de l’augmentation du nombre des remboursements partiels ou de la suspension temporaire de ces prestations, avec possibilité de prorogation pour cinq ans au plus;
-- 5\. l’ajournement pendant dix années au plus des termes de remboursement, soit pour un emprunt échu ou venant a échéance dans le délai de cinq ans, soit pour des fractions de cet emprunt, avec possibilité de prorogation pour cinq ans au plus;
+- 5\. l’ajournement pendant dix années au plus des termes de remboursement, soit pour un emprunt échu ou venant à échéance dans le délai de cinq ans, soit pour des fractions de cet emprunt, avec possibilité de prorogation pour cinq ans au plus;
 - 6\. l’autorisation d’un remboursement anticipé du capital;
 - 7\. la constitution d’un gage avec droit de priorité en faveur de nouveaux capitaux versés à l’entreprise, la modification des sûretés garantissant un emprunt ou la renonciation totale ou partielle à ces sûretés;
 - 8\. l’approbation de la révision des clauses qui limitent l’émission des obligations par rapport au capital-actions;
