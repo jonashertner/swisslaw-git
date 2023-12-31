@@ -4,13 +4,13 @@ number: "312.0"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EGStPO
 language: de
-version: 2021-01-01
-corrected: 2020-10-27
-version_adopted: 2020-09-09
+version: 2024-01-01
+valid_until: 2026-01-31
+version_adopted: 2023-09-07
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/312.0"
-pdf: "https://lex.vs.ch/api/de/versions/2687/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3263/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2687/pdf_file"
 
 (EGStPO)
 
-vom 11.02.2009 (Stand 01.01.2021)
+vom 11.02.2009 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -83,52 +83,54 @@ verordnet:
 
 #### Art. 6
 
-**Zuständigkeit des Generalstaatsanwalts**
+**Zuständigkeiten des Generalstaatsanwalts**
 
-<sup>1</sup> Der Generalstaatsanwalt organisiert und leitet die Tätigkeit der Staatsanwaltschaft im Kanton und gewährleistet eine einheitliche Kriminalitätsbekämpfung.
+<sup>1</sup> Der Generalstaatsanwalt definiert und gewährleistet eine einheitliche Kriminalitätsbekämpfung.
 
-<sup>2</sup> Er wacht über den guten Gang der regionalen Ämter der Staatsanwaltschaft und leitet nötigenfalls die ihnen anvertrauten Verfahren, indem er namentlich auf die Einhaltung des Beschleunigungsgebots achtet.
+<sup>2</sup> Er wacht über den guten Gang der Staatsanwaltschaft, indem er insbesondere auf die gleichmässige Verteilung der Arbeitslast zwischen den Magistraten und die Einhaltung der Grundsätze, die das Strafverfahren regeln, achtet.
 
-<sup>3</sup> Er wacht über die gleichmässige Verteilung der Arbeitslast zwischen den Vertretern der Staatsanwaltschaft.
+<sup>3</sup> …
 
 <sup>4</sup> Er ist zuständig für:
 
-- a) den Erlass von Instruktionen und Weisungen für die Oberstaatsanwälte, Staatsanwälte und Substitute, die Polizei und die Behörden, in den von der Strafuntersuchung betroffenen Bereichen;
+- a) die Erteilung von Instruktionen und Weisungen für den Generalstaatsanwalt-Stellvertreter, die Oberstaatsanwälte, die Staatsanwälte, die Substituten und die Gerichtsschreiber, die Polizei und andere Strafverfolgungsbehörden;
 - b) die Stellungnahme in strafrechtlichen Vernehmlassungsverfahren;
-- c) die Übertragung eines Falles an einen Oberstaatsanwalt, Staatsanwalt oder einen Substitut;
-- d) den Entzug eines Falles bei einem Oberstaatsanwalt, Staatsanwalt oder Substitut, um diesen selber zu behandeln oder einem anderen Oberstaatsanwalt, Staatsanwalt oder Substitut zu übertragen.
+- c) die Zuteilung eines Falles an sich selbst, an den Generalstaatsanwalt-Stellvertreter, einen Oberstaatsanwalt, einen Staatsanwalt, einen Substituten oder einen Gerichtsschreiber;
+- d) den Entzug eines Falles von sich selbst oder vom Generalstaatsanwalt-Stellvertreter, von einem Oberstaatsanwalt, einem Staatsanwalt, einem Substituten oder einem Gerichtsschreiber, um diesen einem anderen Magistraten oder einem anderen Gerichtsschreiber desselben Amtes oder sich selbst zu übertragen.
 
 #### Art. 7
 
-**Zuständigkeit des zentralen Amtes der Staatsanwaltschaft**
+**Zuständigkeiten der Ämter der Staatsanwaltschaft**
 
-<sup>1</sup> Das zentrale Amt der Staatsanwaltschaft ist zuständig:
+<sup>1</sup> Das zentrale Amt der Staatsanwaltschaft ist für das gesamte Kantonsgebiet zuständig:
 
 - a) für Fälle von besonderer Bedeutung, insbesondere von Wirtschafts- und Drogenkriminalität sowie des organisierten Verbrechens;
 - b) im Bereich der Rechtshilfe;
 - c) im Bereich der Gerichtsstandskonflikte.
 
+<sup>2</sup> Die regionalen Ämter der Staatsanwaltschaft entscheiden über Fälle, die nicht in die sachliche Zuständigkeit des zentralen Amtes fallen, gemäss den Gerichtsstandsregeln der Strafprozessordnung.
+
 #### Art. 8
 
-**Zuständigkeit des Oberstaatsanwalts und des regionalen Amtes der Staatsanwaltschaft**
+**Zuständigkeiten des Generalstaatsanwalt-Stellvertreters und der Oberstaatsanwälte**
 
-<sup>1</sup> Unter Vorbehalt der Zuständigkeit des Generalstaatsanwalts wacht der Oberstaatsanwalt über den guten Gang seines Amtes und übernimmt die Verantwortung für seine administrative Führung. Er wacht über eine gleichmässige Verteilung der Arbeitslast zwischen den Staatsanwälten und den Substituten seines Amtes und die Anwendung der Weisungen. Er ist zuständig für:
+<sup>1</sup> Unter Vorbehalt der Zuständigkeit des Generalstaatsanwalts wachen der Generalstaatsanwalt-Stellvertreter und die Oberstaatsanwälte über den guten Gang ihres Amtes, über eine gleichmässige Verteilung der Arbeitslast zwischen den Staatsanwälten, den Substituten und den Gerichtsschreibern ihres Amtes und über die Anwendung der Weisungen. Sie sind zuständig für:
 
-- a) die Instruktionen bezüglich der Akten seines Amtes;
-- b) die Übertragung eines Falles an einen Staatsanwalt oder einen Substitut seines Amtes;
-- c) den Entzug eines Falles bei einem Staatsanwalt oder einem Substitut seines Amtes, um diesen selber zu behandeln oder einem anderen Staatsanwalt oder Substitut seines Amtes zu übertragen.
+- a) die Instruktionen bezüglich der Fälle ihres Amtes;
+- b) die Übertragung eines Falles an sich selbst, an einen Staatsanwalt, einen Substituten oder einen Gerichtschreiber ihres Amtes;
+- c) den Entzug eines Falles von sich selbst, von einem Staatsanwalt, einem Substituten oder einem Gerichtsschreiber ihres Amtes, um diesen einem anderen Magistraten oder einem anderen Gerichtsschreiber ihres Amtes oder sich selbst zu übertragen.
 
 <sup>2</sup> …
 
-<sup>3</sup> Das regionale Amt befasst sich mit Angelegenheiten, die nicht der Zuständigkeit des zentralen Amtes unterliegen.
+<sup>3</sup> …
 
 #### Art. 9
 
-**Zuständigkeit des Substituten**
+**Zuständigkeiten des Substituten**
 
-<sup>1</sup> Der Substitut ist zuständig für den Erlass von Strafbefehlen.
+<sup>1</sup> Der Substitut ist in allen Fällen zuständig, in denen eine Busse, eine Geldstrafe von bis zu 180 Tagessätzen oder eine Freiheitsstrafe von bis zu sechs Monaten vorgesehen ist.
 
-<sup>2</sup> Unter Einhaltung der unter Absatz 3 genannten Bedingungen kann der Generalstaatsanwalt, der Generalstaatsanwalt-Stellvertreter oder der Oberstaatsanwalt einem Substitut folgende Untersuchungs- und Vertretungshandlungen übertragen:
+<sup>2</sup> Unter Einhaltung der in Absatz 3 genannten Bedingungen kann der Generalstaatsanwalt, der Generalstaatsanwalt-Stellvertreter, ein Oberstaatsanwalt oder ein Staatsanwalt einem Substituten folgende Untersuchungs- und Vertretungshandlungen übertragen:
 
 - a) die Einvernahme des Beschuldigten;
 - b) die Einvernahme des Zeugen;
@@ -143,9 +145,23 @@ verordnet:
 - k) die Ausstellung der Vorladung, des Vorführungs- und Fahndungsbefehls in direktem Zusammenhang mit der übertragenen Beweiserhebung;
 - l) die Vertretung der Staatsanwaltschaft in Fällen, welche in die Zuständigkeit des Bezirksrichters fallen.
 
-<sup>3</sup> Diese Untersuchungs- und Vertretungshandlungen haben sich auf die Straftat zu beschränken, die das Verfahren ausgelöst hat. Der Substitut informiert den Generalstaatsanwalt, den Generalstaatsanwalt-Stellvertreter oder den Oberstaatsanwalt laufend.
+<sup>3</sup> Diese Untersuchungs- und Vertretungshandlungen haben sich auf die Straftat zu beschränken, die das Verfahren ausgelöst hat. Der Substitut informiert laufend den Generalstaatsanwalt, den Generalstaatsanwalt-Stellvertreter, den Oberstaatsanwalt oder den Staatsanwalt, der ihm diese Handlungen übertragen hat.
 
 <sup>4</sup> Die Übertragung der Beweiserhebung und der Vertretung der Staatsanwaltschaft an den Bezirksrichter kann nicht angefochten werden.
+
+#### Art. 9a
+
+**Zuständigkeiten des Gerichtsschreibers**
+
+<sup>1</sup> Der Gerichtsschreiber unterstützt die Staatsanwälte unter anderem durch das Studium von Akten, das Verfassen von Rechtsgutachten, das Führen von Protokollen und das Erstellen von Entscheidentwürfen.
+
+<sup>2</sup> Der Generalstaatsanwalt, der Generalstaatsanwalt-Stellvertreter, ein Oberstaatsanwalt oder ein Staatsanwalt kann die Zuständigkeit zur Durchführung der Untersuchung und zum Erlass eines Strafbefehls an einen Gerichtsschreiber delegieren, wenn die Strafe eine Busse oder eine Geldstrafe von bis zu 90 Tagessätzen nicht zu übersteigen scheint.
+
+<sup>3</sup> Unter den Bedingungen von Absatz 4 kann der Generalstaatsanwalt, der Generalstaatsanwalt-Stellvertreter, ein Oberstaatsanwalt oder ein Staatsanwalt die in Artikel 9 Absatz 2 Buchstaben a bis k dieses Gesetzes aufgeführten Untersuchungshandlungen einem Gerichtsschreiber übertragen, wenn die angedrohte Strafe 180 Tagessätze oder einen Freiheitsentzug von sechs Monaten nicht zu übersteigen scheint.
+
+<sup>4</sup> Diese Untersuchungshandlungen haben sich auf die Straftat zu beschränken, die das Verfahren ausgelöst hat. Der Gerichtsschreiber informiert laufend den Generalstaatsanwalt, den Generalstaatsanwalt-Stellvertreter, den Oberstaatsanwalt oder den Staatsanwalt, der ihm diese Handlungen anvertraut hat.
+
+<sup>5</sup> Die Übertragung der Beweiserhebung ist nicht anfechtbar.
 
 ### 2.3 Gerichte und andere Behörden
 
@@ -365,13 +381,17 @@ verordnet:
 
 **c) Ersatzmassnahmen**
 
-<sup>1</sup> Wenn das Gericht eine Ersatzmassnahme anstelle der Haft anordnet, bestimmt es:
+<sup>1</sup> Die Dienststelle ist die Vollstreckungsbehörde für die vom Gericht angeordneten Ersatzmassnahmen.
 
-- a) den Polizeiposten des Kreises, in dem der Betroffene wohnt oder sich aufhält, wenn der Beschuldigte regelmässig bei einer Amtsstelle zu erscheinen hat;
-- b) den zuständigen Arzt, nachdem dieser eingewilligt hat, wenn der Beschuldigte sich einer ärztlichen Behandlung zu unterziehen hat;
-- c) den zuständigen Dienst oder die zuständige Institution mittels einer mindestens fünf Tage vor der Behandlung erteilten Vorinformation, wenn der Beschuldigte sich einer Kontrolle zu unterziehen hat.
+- a) …
+- b) …
+- c) …
 
-<sup>2</sup> Im Widersetzungsfall ist das Gericht unverzüglich zu informieren.
+<sup>1<sup>bis</sup></sup> Vorbehalten bleiben die in Artikel 237 Absatz 2 Buchstaben a und b der Schweizerischen Strafprozessordnung vorgesehenen Ersatzmassnahmen, deren Vollstreckung durch die Verfahrensleitung gewährleistet wird.
+
+<sup>2</sup> …
+
+<sup>3</sup> Die Bestimmungen über den Straf- und Massnahmenvollzug gelten sinngemäss für Personen, die Ersatzmassnahmen unterworfen sind, die von der Dienststelle vollstreckt werden.
 
 #### Art. 32
 
@@ -415,8 +435,10 @@ verordnet:
 
 <sup>1</sup> Die Einstellungs- und Nichteintretensverfügung sowie die Sistierung müssen genehmigt werden:
 
-- a) für das zentrale Amt durch den Generalstaatsanwalt oder seinen Adjunkt;
+- a) für das zentrale Amt durch den Generalstaatanwalt-Stellvertreters;
 - b) für die regionalen Ämter durch den Oberstaatsanwalt.
+
+<sup>1<sup>bis</sup></sup> Die Genehmigung kann in allen Fällen vom Generalstaatsanwalt erteilt werden.
 
 <sup>2</sup> Das Genehmigungsverfahren ist in einem internen Reglement oder durch Weisungen geregelt.
 
@@ -428,8 +450,10 @@ verordnet:
 
 <sup>1</sup> Die Strafbefehle müssen genehmigt werden:
 
-- a) für das zentrale Amt durch den Generalstaatsanwalt oder seinen Adjunkt;
+- a) für das zentrale Amt durch den Generalstaatanwalt-Stellvertreters;
 - b) für die regionalen Ämter durch den Oberstaatsanwalt.
+
+<sup>1<sup>bis</sup></sup> Die Genehmigung kann in allen Fällen vom Generalstaatsanwalt erteilt werden.
 
 <sup>2</sup> Das Genehmigungsverfahren ist in einem internen Reglement oder durch Weisungen geregelt.
 
@@ -462,11 +486,15 @@ verordnet:
 
 **Legitimation zur Ergreifung von Rechtsmitteln**
 
-<sup>1</sup> Der Oberstaatsanwalt oder der Staatsanwalt, der in erster Instanz am Verfahren beteiligt war, kann ein Rechtsmittel ergreifen.
+<sup>1</sup> Der Oberstaatsanwalt, der Staatsanwalt oder der Substitut, der in erster Instanz am Verfahren beteiligt war, ist legitimiert, ein Rechtsmittel zu ergreifen.
+
+<sup>1<sup>bis</sup></sup> Der Generalstaatsanwalt-Stellvertreter oder der Oberstaatsanwalt ist auch legitimiert, ein Rechtsmittel beim Kantonsgericht zu ergreifen, wenn es um Fälle ihres Amtes geht.
 
 <sup>2</sup> Die für die Übertretungen zuständige Verwaltungsbehörde kann kein Rechtsmittel ergreifen.
 
-<sup>3</sup> Der Generalstaatsanwalt kann subsidiär immer ein Rechtsmittel ergreifen.
+<sup>3</sup> …
+
+<sup>4</sup> Der Generalstaatsanwalt ist immer legitimiert, ein Rechtsmittel zu ergreifen.
 
 ## 9 Verfahrenskosten und Entschädigungen
 
@@ -512,7 +540,7 @@ verordnet:
 
 <sup>1</sup> Das kantonale Recht über den Strafprozess wird wie folgt angepasst:
 
-- a) die dem Untersuchungsrichter zugewiesenen Zuständigkeiten obliegen dem Oberstaatsanwalt, dem Staatsanwalt oder dem Substitut;
+- a) die dem Untersuchungsrichter zugewiesenen Zuständigkeiten obliegen dem Generalstaatsanwalt, dem Generalstaatsanwalt-Stellvertreter, dem Oberstaatsanwalt, dem Staatsanwalt, dem Substituten oder dem Gerichtsschreiber;
 - b) die Beschwerde- und Berufungsmittel beziehen sich auf die Beschwerde und die Berufung im Sinne der Schweizerischen Strafprozessordnung;
 - c) jeder Verweis auf die kantonale Strafprozessordnung bezieht sich auf die entsprechende Bestimmung der Schweizerischen Strafprozessordnung.
 

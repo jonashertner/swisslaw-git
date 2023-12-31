@@ -4,13 +4,13 @@ number: "312.0"
 title: "Loi d'application du code de procédure pénale suisse"
 short: LACPP
 language: fr
-version: 2021-01-01
-corrected: 2020-10-27
-version_adopted: 2020-09-09
+version: 2024-01-01
+valid_until: 2026-01-31
+version_adopted: 2023-09-07
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/312.0"
-pdf: "https://lex.vs.ch/api/fr/versions/2687/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3263/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2687/pdf_file"
 
 (LACPP)
 
-du 11.02.2009 (état 01.01.2021)
+du 11.02.2009 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -85,50 +85,52 @@ ordonne:
 
 **Compétences du procureur général**
 
-<sup>1</sup> Le procureur général organise et dirige l'activité du ministère public sur le territoire cantonal, et assure une politique uniforme en matière de lutte contre la criminalité.
+<sup>1</sup> Le procureur général définit et assure une politique uniforme en matière de lutte contre la criminalité.
 
-<sup>2</sup> Il veille à la bonne marche des offices régionaux du ministère public et, au besoin, dirige les procédures qui leur sont confiées, en veillant notamment au principe de célérité.
+<sup>2</sup> Il veille à la bonne marche du ministère public, notamment s'agissant de la répartition équitable de la charge de travail entre les magistrats et du respect des principes régissant la procédure pénale.
 
-<sup>3</sup> Il veille à une répartition équitable de la charge de travail entre les représentants du ministère public.
+<sup>3</sup> …
 
 <sup>4</sup> Il a la compétence de:
 
-- a) donner des instructions et édicter des directives aux premiers procureurs, procureurs et substituts, à la police et aux autorités dans les domaines touchant l'instruction pénale;
+- a) donner des instructions et édicter des directives au procureur général adjoint, aux premiers procureurs, aux procureurs, aux substituts et aux greffiers, à la police et aux autres autorités de poursuite pénale;
 - b) prendre position lors des procédures de consultation en matière pénale;
-- c) saisir un premier procureur, un procureur ou un substitut d'une cause;
-- d) dessaisir un premier procureur, un procureur ou un substitut d'un dossier, pour s'en charger lui-même ou en charger un autre premier procureur, un procureur ou un substitut.
+- c) se saisir lui-même ou saisir le procureur général adjoint, un premier procureur, un procureur, un substitut ou un greffier d'un dossier;
+- d) se dessaisir ou dessaisir le procureur général adjoint, un premier procureur, un procureur, un substitut ou un greffier d'un dossier pour en charger un autre magistrat ou un autre greffier du même office ou s'en charger lui-même.
 
 #### Art. 7
 
-**Compétences de l'office central du ministère public**
+**Compétences des offices du ministère public**
 
-<sup>1</sup> L'office central du ministère public est compétent:
+<sup>1</sup> L'office central du ministère public est compétent sur l'ensemble du territoire:
 
 - a) pour les affaires importantes, notamment de criminalité économique, de stupéfiants et de crime organisé;
 - b) en matière d'entraide judiciaire;
 - c) en matière de conflits de fors.
 
+<sup>2</sup> Les offices régionaux du ministère public connaissent des affaires qui ne relèvent pas de la compétence matérielle de l'office central, selon les règles de for du Code de procédure pénale.
+
 #### Art. 8
 
-**Compétences du premier procureur et de l'office régional du ministère public**
+**Compétences du procureur général adjoint et des premiers procureurs**
 
-<sup>1</sup> Sous réserve des compétences du procureur général, le premier procureur veille à la bonne marche de son office et assume la responsabilité de sa direction administrative. Il veille à la répartition équitable de la charge de travail entre les procureurs et les substituts de son office et à l'application des directives. Il a la compétence de:
+<sup>1</sup> Sous réserve des compétences du procureur général, le procureur général adjoint et les premiers procureurs veillent à la bonne marche de leur office, à la répartition équitable de la charge de travail entre les procureurs, les substituts et les greffiers de leur office et à l'application des directives. Ils ont la compétence de:
 
-- a) donner des instructions sur les dossiers de son office;
-- b) saisir un procureur ou un substitut de son office d'une cause;
-- c) dessaisir un procureur ou un substitut de son office d'une cause pour s'en charger lui-même, ou la confier à un procureur ou un substitut de son office.
+- a) donner des instructions sur les dossiers de leur office;
+- b) se saisir eux-mêmes ou saisir un procureur, un substitut ou un greffier de leur office d'un dossier;
+- c) se dessaisir ou dessaisir un procureur, un substitut ou un greffier de leur office d'un dossier pour en charger un autre magistrat ou un autre greffier de leur office ou s'en charger eux-mêmes.
 
 <sup>2</sup> …
 
-<sup>3</sup> L'office régional connaît des affaires qui ne relèvent pas de la compétence de l'office central.
+<sup>3</sup> …
 
 #### Art. 9
 
 **Compétences du substitut**
 
-<sup>1</sup> Le substitut est compétent pour rendre des ordonnances pénales.
+<sup>1</sup> Le substitut est compétent dans toutes les affaires où le prévenu encourt une amende, une peine pécuniaire de 180 jours-amende au plus ou une peine privative de liberté de six mois au plus.
 
-<sup>2</sup> Aux conditions de l'alinéa 3, le procureur général, le procureur général adjoint ou le premier procureur peut confier à un substitut les actes d'instruction et de représentation suivants:
+<sup>2</sup> Aux conditions de l'alinéa 3, le procureur général, le procureur général adjoint, un premier procureur ou un procureur peut confier à un substitut les actes d'instruction et de représentation suivants:
 
 - a) l'audition du prévenu;
 - b) l'audition du témoin;
@@ -143,9 +145,23 @@ ordonne:
 - k) la délivrance de mandats de comparution, d'amener et de recherches se rapportant directement à l'administration déléguée d'un moyen de preuve;
 - l) la représentation du ministère public dans les affaires de la compétence du juge de district.
 
-<sup>3</sup> Ces actes d'instruction et de représentation sont limités à l'infraction pour laquelle la procédure est engagée. Le substitut tient le procureur général, le procureur général adjoint ou le premier procureur informé.
+<sup>3</sup> Ces actes d'instruction et de représentation sont limités à l'infraction pour laquelle la procédure est engagée. Le substitut informe au fur et à mesure le procureur général, le procureur général adjoint, le premier procureur ou le procureur qui lui a confié ces actes.
 
 <sup>4</sup> La délégation de l'administration des preuves et de la représentation du ministère public devant le juge de district n'est pas sujette à recours.
+
+#### Art. 9a
+
+**Compétences du greffier**
+
+<sup>1</sup> Le greffier assiste les magistrats du ministère public, notamment par l'étude de dossiers, la rédaction d'avis de droit, la tenue de procès-verbaux et l'élaboration de projet de décisions.
+
+<sup>2</sup> Le procureur général, le procureur général adjoint, un premier procureur ou un procureur peut déléguer à un greffier la compétence de mener l'instruction et prononcer une ordonnance pénale lorsque la peine encourue ne semble pas dépasser une amende ou une peine pécuniaire de 90 jours-amende au plus.
+
+<sup>3</sup> Aux conditions de l'alinéa 4, le procureur général, le procureur général adjoint, un premier procureur ou un procureur peut confier à un greffier les actes d'instruction énumérés à l'article 9 alinéa 2 lettres a à k de la présente loi, lorsque la peine encourue semble ne pas dépasser 180 jours-amende ou une privation de liberté de six mois.
+
+<sup>4</sup> Ces actes d'instruction sont limités à l'infraction pour laquelle la procédure est engagée. Le greffier informe au fur et à mesure le procureur général, le procureur général adjoint, le premier procureur ou le procureur qui lui a confié ces actes.
+
+<sup>5</sup> La délégation de l'administration des preuves n'est pas sujette à recours.
 
 ### 2.3 Tribunaux et autres autorités
 
@@ -365,13 +381,17 @@ ordonne:
 
 **c) Mesures de substitution**
 
-<sup>1</sup> Lorsque le tribunal ordonne une mesure de substitution à la détention impliquant:
+<sup>1</sup> Le service est l’autorité d’exécution des mesures de substitution ordonnées par le tribunal.
 
-- a) l'obligation de se présenter régulièrement à un service administratif, il désigne le poste de police de l'arrondissement du domicile ou du lieu de séjour de l'intéressé;
-- b) l'obligation de se soumettre à un traitement médical, il désigne le médecin compétent pour y procéder après avoir requis son consentement;
-- c) l'obligation de se soumettre à un contrôle, il désigne le service ou l'institution compétents pour y procéder moyennant une information préalable donnée cinq jours au moins avant le suivi.
+- a) …
+- b) …
+- c) …
 
-<sup>2</sup> En cas d'insoumission, le tribunal doit être informé sans délai.
+<sup>1<sup>bis</sup></sup> Sont réservées les mesures de substitution prévues à l’article 237 alinéa 2 lettres a et b du Code de procédure pénale suisse dont la direction de la procédure assure l’exécution.
+
+<sup>2</sup> …
+
+<sup>3</sup> Les dispositions régissant l’exécution des peines et mesures s’appliquent par analogie aux personnes soumises à des mesures de substitution exécutées par le service.
 
 #### Art. 32
 
@@ -415,8 +435,10 @@ ordonne:
 
 <sup>1</sup> Les ordonnances de classement, de non-entrée en matière et de suspension doivent être approuvées:
 
-- a) pour l'office central, par le procureur général ou son adjoint;
+- a) pour l'office central, par le procureur général adjoint;
 - b) pour les offices régionaux, par le premier procureur.
+
+<sup>1<sup>bis</sup></sup> Dans tous les cas, l’approbation peut être donnée par le procureur général.
 
 <sup>2</sup> La procédure d'approbation est arrêtée dans le règlement interne ou par voie de directive.
 
@@ -428,8 +450,10 @@ ordonne:
 
 <sup>1</sup> Les ordonnances pénales doivent être approuvées:
 
-- a) pour l'office central, par le procureur général ou son adjoint;
+- a) pour l'office central, par le procureur général adjoint;
 - b) pour les offices régionaux, par le premier procureur.
+
+<sup>1<sup>bis</sup></sup> Dans tous les cas, l’approbation peut être donnée par le procureur général.
 
 <sup>2</sup> La procédure d'approbation est arrêtée dans le règlement interne ou par voie de directive.
 
@@ -462,11 +486,15 @@ ordonne:
 
 **Qualité pour interjeter recours**
 
-<sup>1</sup> Le premier procureur ou le procureur qui a procédé en première instance a qualité pour interjeter recours.
+<sup>1</sup> Le premier procureur, le procureur ou le substitut qui a procédé en première instance a qualité pour interjeter recours.
+
+<sup>1<sup>bis</sup></sup> Le procureur général adjoint ou le premier procureur ont également la qualité d’interjeter recours auprès du Tribunal cantonal, s’agissant des affaires de leur office.
 
 <sup>2</sup> L'autorité administrative compétente en matière de contraventions n'a pas qualité pour interjeter recours.
 
-<sup>3</sup> Le procureur général a toujours qualité, subsidiairement, pour interjeter recours.
+<sup>3</sup> …
+
+<sup>4</sup> Le procureur général a toujours qualité pour interjeter recours.
 
 ## 9 Frais de procédure et indemnités
 
@@ -512,7 +540,7 @@ ordonne:
 
 <sup>1</sup> Le droit cantonal traitant de la procédure pénale est adapté comme il suit:
 
-- a) les compétences attribuées au juge d'instruction relèvent du premier procureur, du procureur ou du substitut;
+- a) les compétences attribuées au juge d'instruction relèvent du procureur général, du procureur général adjoint, du premier procureur, du procureur, du substitut ou du greffier;
 - b) les moyens de la plainte et de l'appel s'entendent du recours et de l'appel au sens du code de procédure pénale suisse;
 - c) toute référence au code cantonal de procédure pénale concerne la disposition correspondante du code de procédure pénale suisse.
 
