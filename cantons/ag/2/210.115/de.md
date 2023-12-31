@@ -4,13 +4,12 @@ number: "210.115"
 title: Ausführungsbestimmungen zur BVG- und Stiftungsaufsicht Aargau
 short: Ausführungsbestimmungen BVSA
 language: de
-version: 2018-09-01
-valid_until: 2023-12-31
-version_adopted: 2018-04-20
+version: 2024-01-01
+version_adopted: 2022-10-12
 adopted: 2013-04-22
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.115"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2638/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2638/pdf_file"
 
 (Ausführungsbestimmungen BVSA)
 
-Vom 22.04.2013 (Stand 01.09.2018)
+Vom 22.04.2013 (Stand 01.01.2024)
 
 Der Verwaltungsrat der BVG- und Stiftungsaufsicht Aargau (BVSA),
 
@@ -85,7 +84,7 @@ erlässt folgende Ausführungsbestimmungen:
 - a) auf ausdrückliches Verlangen der BVSA die gültige Fassung der Stiftungsurkunde,
 - b) der Beschluss des zuständigen Stiftungsorgans mit dem Wortlaut der Änderungen oder ein Antrag des Stifters sowie die entsprechenden Protokolle.
 
-<sup>2</sup> Nach erfolgter Änderung hat die Stiftung der BVSA eine beglaubigte Abschrift der vollständig neu gefassten Stiftungsurkunde in dreifacher Ausfertigung einzureichen.
+<sup>2</sup> …
 
 <sup>3</sup> Nach Aufhebung der Stiftung genehmigt die BVSA die Schlussabrechnung und ermächtigt den Handelsregisterführer zur Löschung.
 
