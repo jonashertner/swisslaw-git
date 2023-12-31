@@ -4,13 +4,13 @@ number: "175"
 title: Verwaltungsverfahrensgesetz Basel-Landschaft
 short: VwVG BL
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-10
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-01-26
 adopted: 1988-06-13
 in_force: 1989-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/175"
-pdf: "https://bl.clex.ch/api/de/versions/3900/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3905/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3900/pdf_file"
 
 (VwVG BL)
 
-Vom 13.06.1988 (Stand 01.01.2022)
+Vom 13.06.1988 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -315,7 +315,8 @@ zu schaffen oder zu erhalten.
 - f. Beschwerden gegen den Umlegungsperimeter gemäss § 59 Abs. 3 des Raumplanungs- und Baugesetzes (RBG) vom 8. Januar 1998[^20a-4];
 - g. Beschwerden gegen den Neuzuteilungsplan gemäss § 69 Abs. 4 des Raumplanungs- und Baugesetzes (RBG) vom 8. Januar 1998[^20a-5];
 - h. Beschwerden gegen den Perimeter gemäss § 28 Abs. 2 des Landwirtschaftsgesetzes Basel-Landschaft (LG BL) vom 8. Januar 1998[^20a-6];
-- i. Beschwerden gegen Einsprachen gemäss § 29a Abs. 5 des Landwirtschaftsgesetzes Basel-Landschaft (LG BL) vom 8. Januar 1998[^20a-7].
+- i. Beschwerden gegen Einsprachen gemäss § 29a Abs. 5 des Landwirtschaftsgesetzes Basel-Landschaft (LG BL) vom 8. Januar 1998[^20a-7];
+- j. Beschwerden wegen Verletzung der Rechte von Menschen mit Behinderungen.
 
 <sup>6</sup> Wenn nichts anderes bestimmt wird, haben mehrere Personen die ihnen gemeinsam auferlegten Verfahrenskosten zu gleichen Teilen und in solidarischer Haftung zu tragen.
 
@@ -325,7 +326,7 @@ zu schaffen oder zu erhalten.
 [^20a-4]: [SGS 400](https://bl.clex.ch/data/400/de/art59)
 [^20a-5]: [SGS 400](https://bl.clex.ch/data/400/de/art69)
 [^20a-6]: [SGS 510](https://bl.clex.ch/data/510/de/art28)
-[^20a-7]: [SGS 510](https://bl.clex.ch/data/510/de/art29a)
+[^20a-7]: [SGS 510](https://bl.clex.ch/data/510/de)
 
 #### § 21
 
