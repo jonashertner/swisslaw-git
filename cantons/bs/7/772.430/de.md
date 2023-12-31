@@ -3,22 +3,22 @@ canton: BS
 number: "772.430"
 title: Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-06-30
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-06-29
 adopted: 2024-06-27
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.430"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5772/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6111/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie
 
-Elektrische Energie: Gebührentarif | Energie- und Wasserversorgung[^t-1]
+Wasser / Energie[^t-1]
 
-Vom 4. Juli 2011 (Stand 1. Januar 2023)
+Vom 4. Juli 2011 (Stand 1. Januar 2024)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -112,13 +112,13 @@ beschliesst:
 
 <table>
 <tr><th></th><th>Einfachtarif</th></tr>
-<tr><td>small</td><td>10.40 Rp./kWh</td></tr>
-<tr><td>small plus</td><td>8.85 Rp./kWh</td></tr>
-<tr><td>medium</td><td>8.75 Rp./kWh</td></tr>
-<tr><td>medium plus</td><td>8.35 Rp./kWh</td></tr>
+<tr><td>small</td><td>11.10 Rp./kWh</td></tr>
+<tr><td>small plus</td><td>9.40 Rp./kWh</td></tr>
+<tr><td>medium</td><td>9.20 Rp./kWh</td></tr>
+<tr><td>medium plus</td><td>8.60 Rp./kWh</td></tr>
 <tr><td>big</td><td>-</td></tr>
 <tr><td>big plus</td><td>-</td></tr>
-<tr><td>switch</td><td>8.65 Rp./kWh</td></tr>
+<tr><td>switch</td><td>8.70 Rp./kWh</td></tr>
 </table>
 
 #### § 8
@@ -127,12 +127,12 @@ beschliesst:
 
 <table>
 <tr><th></th><th>Normaltarif</th><th>Spartarif</th></tr>
-<tr><td>small</td><td>11.50 Rp./kWh</td><td>9.35 Rp./kWh</td></tr>
-<tr><td>small plus</td><td>9.95 Rp./kWh</td><td>7.70 Rp./kWh</td></tr>
-<tr><td>medium</td><td>9.90 Rp./kWh</td><td>7.65 Rp./kWh</td></tr>
-<tr><td>medium plus</td><td>9.50 Rp./kWh</td><td>7.30 Rp./kWh</td></tr>
-<tr><td>big</td><td>9.40 Rp./kWh</td><td>7.25 Rp./kWh</td></tr>
-<tr><td>big plus</td><td>9.30 Rp./kWh</td><td>7.05 Rp./kWh</td></tr>
+<tr><td>small</td><td>12.25 Rp./kWh</td><td>9.65 Rp./kWh</td></tr>
+<tr><td>small plus</td><td>10.55 Rp./kWh</td><td>7.90 Rp./kWh</td></tr>
+<tr><td>medium</td><td>10.40 Rp./kWh</td><td>7.85 Rp./kWh</td></tr>
+<tr><td>medium plus</td><td>9.80 Rp./kWh</td><td>7.45 Rp./kWh</td></tr>
+<tr><td>big</td><td>9.60 Rp./kWh</td><td>7.30 Rp./kWh</td></tr>
+<tr><td>big plus</td><td>9.40 Rp./kWh</td><td>7.10 Rp./kWh</td></tr>
 </table>
 
 #### § 9
