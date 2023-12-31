@@ -4,13 +4,12 @@ number: "177.250"
 title: Verordnung des Grossen Rates über die Besoldung der Lehrpersonen
 short: LBV
 language: de
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-03-12
+version: 2024-01-01
+version_adopted: 2023-01-25
 adopted: 1998-11-18
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.250"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2448/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2740/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ LBV
 
 (LBV)
 
-vom 18.11.1998 (Stand 01.01.2015)
+vom 18.11.1998 (Stand 01.01.2024)
 
 #### § 1
 
@@ -62,19 +61,17 @@ vom 18.11.1998 (Stand 01.01.2015)
 
 <table>
 <tr><th>Lehrpersonen</th><th>Lohnband</th></tr>
-<tr><td>Lehrpersonen für Kindergärten</td><td>2</td></tr>
-<tr><td>Lehrpersonen für Textilarbeit/Werken sowie Hauswirtschaft</td><td>2–4</td></tr>
-<tr><td>Primarlehrpersonen</td><td>3</td></tr>
+<tr><td>Kindergarten- und Kindergarten-Unterstufen-Lehrpersonen, Primarlehrpersonen</td><td>3</td></tr>
 <tr><td>Sonderklassen- und Sonderschullehrpersonen</td><td>4–6</td></tr>
 <tr><td>Sekundarlehrpersonen</td><td>6</td></tr>
-<tr><td>Berufsschullehrpersonen</td><td>4–8</td></tr>
+<tr><td>Berufsfachschullehrpersonen</td><td>4–8</td></tr>
 <tr><td>Mittelschullehrpersonen</td><td>4–8</td></tr>
-<tr><td>Lehrpersonen für schulische Heilpädagogik</td><td>4–6</td></tr>
+<tr><td>Schulische Heilpädagoginnen und Schulische Heilpädagogen</td><td>4–6</td></tr>
 </table>
 
 <sup>2</sup> Der Regierungsrat regelt die Einreihung von weiteren Lehrberufen.
 
-<sup>3</sup> Lehrpersonen, die nicht über einen für die Einreihung des Unterrichtes an einer bestimmten Schulstufe oder einem bestimmten Schultypus erforderlichen Ausbildungsausweis verfügen, sind tiefer zu besolden.
+<sup>3</sup> Lehrpersonen, die nicht über einen für die Erteilung des Unterrichts an einer bestimmten Schulstufe oder einem bestimmten Schultypus erforderlichen Ausbildungsausweis verfügen, sind tiefer zu besolden.
 
 #### § 4
 
@@ -132,23 +129,14 @@ vom 18.11.1998 (Stand 01.01.2015)
 
 **Verweis auf die Besoldungsverordnung, Anhörung**
 
-<sup>1</sup> Die Bestimmungen der Verordnung des Grossen Rates über die Besoldung des Staatspersonals[^11-1] betreffend die Besoldung unter besonderen Umständen, die Sozialzulagen[^11-2] und die generelle Besoldungsanpassung gelten auch für die gemäss dieser Verordnung besoldeten Lehrpersonen.
+<sup>1</sup> Die Bestimmungen der Verordnung des Grossen Rates über die Besoldung des Staatspersonals (BesVO)[^11-1] betreffend die Besoldung unter besonderen Umständen, die Auszahlung, die Kinder-, Ausbildungs- und Familienzulagen sowie die generelle Besoldungsanpassung gelten auch für die gemäss dieser Verordnung besoldeten Lehrpersonen.
 
 <sup>2</sup> Bei Besoldungsänderungen ist der Verband der Thurgauer Schulgemeinden anzuhören.
 
 [^11-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
-[^11-2]: Heute: Familienzulagen, vgl. Bundesgesetz über die Familienzulagen und Finanzhilfen an Familienorganisationen (FamZG; SR [836.2](https://db.clex.ch/link/Bund/836.2/de))
 
-#### § 12
+#### § 12–13
 
 **…**
-
-#### § 13
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^13-1].
-
-[^13-1]: In Kraft gesetzt auf den 1. Januar 2000.
 
 ABl. 51/1999
