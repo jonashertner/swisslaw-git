@@ -4,13 +4,12 @@ number: "153.011.2"
 title: Stellenvermittlungsverordnung
 short: StvV
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-16
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 2020-09-16
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2027/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2891/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2027/pdf_file"
 
 (StvV)
 
-vom 16.09.2020 (Stand 01.01.2021)
+vom 16.09.2020 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -61,7 +60,7 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Die Direktionen, die Staatskanzlei und die Justizleitung sowie die Hochschulen streben an, den in ihrem Bereich von Stellenaufhebungen betroffenen Mitarbeiterinnen und Mitarbeitern eine neue Stelle innerhalb ihres Zuständigkeitsbereichs zu vermitteln.
+<sup>1</sup> Die Direktionen, die Staatskanzlei und die Justizverwaltungsleitung sowie die Hochschulen streben an, den in ihrem Bereich von Stellenaufhebungen betroffenen Mitarbeiterinnen und Mitarbeitern eine neue Stelle innerhalb ihres Zuständigkeitsbereichs zu vermitteln.
 
 <sup>2</sup> Bei allen Stellenbesetzungen in der kantonalen Verwaltung und an den Hochschulen sind in erster Linie Bewerbungen von Mitarbeiterinnen und Mitarbeitern zu berücksichtigen, die im Sinne dieser Verordnung von der Entlassung bedroht sind.
 
@@ -77,12 +76,12 @@ beschliesst:
 
 <sup>2</sup> Die ZPS hat insbesondere folgende Aufgaben:
 
-- a Information, Unterstützung und Begleitung der Direktionen, der Staatskanzlei, der Justizleitung sowie der Hochschulen bei der Umsetzung dieser Verordnung,
-- b Registrierung und Beurteilung der von den Direktionen, der Staatskanzlei, der Justizleitung sowie der Hochschulen zur Wiederbesetzung gemeldeten Stellen,
+- a Information, Unterstützung und Begleitung der Direktionen, der Staatskanzlei, der Justizverwaltungsleitung sowie der Hochschulen bei der Umsetzung dieser Verordnung,
+- b Registrierung und Beurteilung der von den Direktionen, der Staatskanzlei, der Justizverwaltungsleitung sowie der Hochschulen zur Wiederbesetzung gemeldeten Stellen,
 - c Unterstützung der von den Organisationseinheiten gemeldeten Mitarbeiterinnen und Mitarbeiter bei der Stellensuche,
 - d Koordination und Vermittlung von Unterstützungsmassnahmen,
 - e bedarfsgerechte Information der betroffenen Organisationseinheiten über den Stand der Vermittlungstätigkeit,
-- f Berichterstattung an die Direktionen, die Staatskanzlei, die Justizleitung sowie die Hochschulen im Rahmen der vorsorgerechtlichen Verschuldensfeststellung.
+- f Berichterstattung an die Direktionen, die Staatskanzlei, die Justizverwaltungsleitung sowie die Hochschulen im Rahmen der vorsorgerechtlichen Verschuldensfeststellung.
 
 <sup>3</sup> Die ZPS bearbeitet die zur Erfüllung ihrer Aufgaben erforderlichen Personendaten, beinhaltend auch aktuelle Angaben zur Arbeitsfähigkeit und zum Gehalt. Sie führt insbesondere ein Verzeichnis der zu vermittelnden Personen. Spätestens drei Monate nach Ende der Vermittlungstätigkeit sind die jeweiligen Personendaten zu löschen.
 
@@ -90,7 +89,7 @@ beschliesst:
 
 **Verwaltungsinterne Koordination**
 
-<sup>1</sup> Die Direktionen, die Staatskanzlei, die Justizleitung sowie die Hochschulen bezeichnen die für die ZPS zuständigen Personen in ihrer Organisation.
+<sup>1</sup> Die Direktionen, die Staatskanzlei, die Justizverwaltungsleitung sowie die Hochschulen bezeichnen die für die ZPS zuständigen Personen in ihrer Organisation.
 
 <sup>2</sup> Die oder der ZPS-Verantwortliche stellt die Schnittstelle zur ZPS sicher und koordiniert die Umsetzung dieser Verordnung innerhalb der betroffenen Organisationseinheiten.
 
@@ -108,7 +107,7 @@ beschliesst:
 
 **Meldepflichten der Organisationseinheiten**
 
-<sup>1</sup> Die Direktionen, die Staatskanzlei, die Justizleitung sowie die Hochschulen oder die von ihnen ermächtigten Organisationseinheiten informieren die ZPS schriftlich über beabsichtigte Stellenaufhebungen.
+<sup>1</sup> Die Direktionen, die Staatskanzlei, die Justizverwaltungsleitung sowie die Hochschulen oder die von ihnen ermächtigten Organisationseinheiten informieren die ZPS schriftlich über beabsichtigte Stellenaufhebungen.
 
 <sup>2</sup> Sie melden der ZPS unverzüglich:
 
@@ -117,7 +116,7 @@ beschliesst:
 - c sobald bekannt, deren Personalien und die bisherige Tätigkeit,
 - d den Zeitraum, in dem die Kündigungen ausgesprochen werden sollen und den Endtermin der Anstellung.
 
-<sup>3</sup> Die Direktionen, die Staatskanzlei, die Justizleitung sowie die Hochschulen haben alle wieder zu besetzenden und neu geschaffenen Stellen mit den nötigen Angaben der ZPS zu melden. Die Meldepflicht entfällt, wenn die Stellen innerhalb der jeweiligen Organisationseinheit besetzt werden.
+<sup>3</sup> Die Direktionen, die Staatskanzlei, die Justizverwaltungsleitung sowie die Hochschulen haben alle wieder zu besetzenden und neu geschaffenen Stellen mit den nötigen Angaben der ZPS zu melden. Die Meldepflicht entfällt, wenn die Stellen innerhalb der jeweiligen Organisationseinheit besetzt werden.
 
 <sup>4</sup> Soweit von einer Stellenaufhebung betroffene Mitarbeiterinnen und Mitarbeiter nicht in Betracht kommen, können vakante Stellen extern ausgeschrieben werden. Die Rückmeldung der ZPS an die Organisationseinheiten erfolgt spätestens fünf Arbeitstage nach Meldung der vakanten Stelle.
 

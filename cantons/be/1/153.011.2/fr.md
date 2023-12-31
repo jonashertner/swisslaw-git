@@ -4,13 +4,12 @@ number: "153.011.2"
 title: Ordonnance sur le placement du personnel
 short: OPlac
 language: fr
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-16
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 2020-09-16
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2027/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2891/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2027/pdf_file"
 
 (OPlac)
 
-du 16.09.2020 (état au 01.01.2021)
+du 16.09.2020 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -61,7 +60,7 @@ arrête:
 
 **Principes**
 
-<sup>1</sup> Les Directions, la Chancellerie d'Etat et la Direction de la magistrature ainsi que les hautes écoles s'efforcent de trouver un poste dans leur domaine d'attribution pour les agents et agentes concernés par une suppression de poste dans leur domaine.
+<sup>1</sup> Les Directions, la Chancellerie d'Etat et la Direction administrative de la magistrature ainsi que les hautes écoles s'efforcent de trouver un poste dans leur domaine d'attribution pour les agents et agentes concernés par une suppression de poste dans leur domaine.
 
 <sup>2</sup> Chaque fois qu'un poste est à pourvoir dans l'administration cantonale et dans les hautes écoles, il faut examiner en premier lieu les candidatures présentées par des agents ou agentes qui sont menacés de licenciement au sens de la présente ordonnance.
 
@@ -77,12 +76,12 @@ arrête:
 
 <sup>2</sup> Le SCP a en particulier les tâches suivantes:
 
-- a information, soutien et accompagnement des Directions, de la Chancellerie d'Etat, de la Direction de la magistrature et des hautes écoles dans la mise en œuvre de la présente ordonnance,
-- b enregistrement et évaluation des postes à repourvoir que lui annoncent les Directions, la Chancellerie d'Etat, la Direction de la magistrature et les hautes écoles,
+- a information, soutien et accompagnement des Directions, de la Chancellerie d'Etat, de la Direction administrative de la magistrature et des hautes écoles dans la mise en œuvre de la présente ordonnance,
+- b enregistrement et évaluation des postes à repourvoir que lui annoncent les Directions, la Chancellerie d'Etat, la Direction administrative de la magistrature et les hautes écoles,
 - c aide à la recherche d'emploi offerte aux agents et agentes que lui annoncent les unités administratives,
 - d coordination et transmission de mesures de soutien,
 - e information des unités administratives, en fonction de leurs besoins, sur l'avancement des activités de placement,
-- f compte rendu aux Directions, à la Chancellerie d'Etat, à la Direction de la magistrature et aux hautes écoles dans le cadre de la détermination de la faute en matière de prévoyance.
+- f compte rendu aux Directions, à la Chancellerie d'Etat, à la Direction administrative de la magistrature et aux hautes écoles dans le cadre de la détermination de la faute en matière de prévoyance.
 
 <sup>3</sup> Le SCP traite les données personnelles nécessaires à l'accomplissement de ses tâches, y compris des indications actuelles sur la capacité de travail et le traitement. Il tient en particulier un registre des personnes à placer. Il supprime les données personnelles au plus tard trois mois après la fin de son activité de placement.
 
@@ -90,7 +89,7 @@ arrête:
 
 **Coordination au sein de l'administration**
 
-<sup>1</sup> Les Directions, la Chancellerie d'Etat, la Direction de la magistrature et les hautes écoles désignent, dans leur organisation, un ou une responsable SCP.
+<sup>1</sup> Les Directions, la Chancellerie d'Etat, la Direction administrative de la magistrature et les hautes écoles désignent, dans leur organisation, un ou une responsable SCP.
 
 <sup>2</sup> Le ou la responsable SCP assure la liaison avec le SCP et coordonne la mise en œuvre de la présente ordonnance au sein des unités administratives concernées.
 
@@ -108,7 +107,7 @@ arrête:
 
 **Obligation des unités administratives d'annoncer les suppressions de postes**
 
-<sup>1</sup> Les Directions, la Chancellerie d'Etat, la Direction de la magistrature et les hautes écoles ou les unités administratives par elles habilitées informent par écrit le SCP des suppressions de postes qu'elles envisagent.
+<sup>1</sup> Les Directions, la Chancellerie d'Etat, la Direction administrative de la magistrature et les hautes écoles ou les unités administratives par elles habilitées informent par écrit le SCP des suppressions de postes qu'elles envisagent.
 
 <sup>2</sup> Elles indiquent sans délai au SCP
 
@@ -117,7 +116,7 @@ arrête:
 - c dès qu'elle est connue, leur identité et l'activité qu'ils exerçaient jusque-là;
 - d le délai durant lequel les licenciements doivent être prononcés et la date de fin d'engagement.
 
-<sup>3</sup> Les Directions, la Chancellerie d'Etat, la Direction de la magistrature et les hautes écoles annoncent au SCP tous les nouveaux postes à pourvoir ou les postes à repourvoir en lui fournissant les indications nécessaires. Elles sont dégagées de cette obligation si les postes sont pourvus au sein de l'unité administrative concernée.
+<sup>3</sup> Les Directions, la Chancellerie d'Etat, la Direction administrative de la magistrature et les hautes écoles annoncent au SCP tous les nouveaux postes à pourvoir ou les postes à repourvoir en lui fournissant les indications nécessaires. Elles sont dégagées de cette obligation si les postes sont pourvus au sein de l'unité administrative concernée.
 
 <sup>4</sup> Un poste vacant peut être mis au concours à l'extérieur de l'administration dès lors qu’il n’y a pas de candidat ou de candidate susceptible de l’occuper parmi les agents et agentes dont le poste est supprimé. Le SCP répond aux unités administratives au plus tard dans les cinq jours ouvrés après qu'elles lui ont annoncé le poste à pouvoir.
 
