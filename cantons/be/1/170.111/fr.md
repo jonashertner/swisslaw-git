@@ -4,13 +4,13 @@ number: "170.111"
 title: Ordonnance sur les communes
 short: OCo
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-10-19
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-15
 adopted: 1998-12-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2692/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2947/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2692/pdf_file"
 
 (OCo)
 
-du 16.12.1998 (état au 01.01.2023)
+du 16.12.1998 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -320,7 +320,7 @@ arrête:
 
 **Publicité**
 
-<sup>1</sup> La publicité des assemblées communales, des séances des organes communaux et des procès-verbaux y afférents ainsi que des dossiers de la commune est régie par les législations sur l'information du public et sur la protection des données.
+<sup>1</sup> La publicité des assemblées communales, des séances des organes communaux et des procès-verbaux y afférents ainsi que des informations de la commune est régie par les législations sur l'information et sur la protection des données.
 
 #### Art. 34
 

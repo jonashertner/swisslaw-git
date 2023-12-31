@@ -4,13 +4,13 @@ number: "170.111"
 title: Gemeindeverordnung
 short: GV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-10-19
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-15
 adopted: 1998-12-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2692/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2947/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2692/pdf_file"
 
 (GV)
 
-vom 16.12.1998 (Stand 01.01.2023)
+vom 16.12.1998 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -320,7 +320,7 @@ beschliesst:
 
 **Öffentlichkeit**
 
-<sup>1</sup> Die Öffentlichkeit der Gemeindeversammlungen, der Sitzungen von Gemeindeorganen und der darüber geführten Protokolle sowie die Öffentlichkeit von Akten der Gemeinde richtet sich nach der Gesetzgebung über die Information der Bevölkerung und über den Datenschutz.
+<sup>1</sup> Die Öffentlichkeit der Gemeindeversammlungen, der Sitzungen von Gemeindeorganen und der darüber geführten Protokolle sowie die Öffentlichkeit von Informationen der Gemeinde richtet sich nach der Informations- und Datenschutzgesetzgebung.
 
 #### Art. 34
 
