@@ -4,24 +4,25 @@ number: "414.41"
 title: Gesetz über die Pädagogische Hochschule Zug
 short: "PH-Gesetz, PHG"
 language: de
-version: 2013-08-01
-valid_until: 2023-12-31
-version_adopted: 2013-02-28
+version: 2024-01-01
+version_adopted: 2024-02-29
 adopted: 2013-02-28
 in_force: 2013-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.41"
-pdf: "https://bgs.zg.ch/api/de/versions/1151/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2563/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Pädagogische Hochschule Zug
 
-Vom 28. Februar 2013 (Stand 1. August 2013)
+(PH-Gesetz, PHG)
+
+Vom 28. Februar 2013 (Stand 1. Januar 2024)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -39,11 +40,15 @@ beschliesst:
 
 <sup>2</sup> Die Pädagogische Hochschule Zug ist eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit.
 
+<sup>3</sup> Sie ist im Rahmen der Kantonsverfassung und im Rahmen spezieller Bestimmungen anderer Gesetze autonom.
+
+<sup>4</sup> Die Freiheit von Lehre und Forschung ist gewährleistet.
+
 #### § 2
 
 **Leistungsauftrag**
 
-<sup>1</sup> Die Pädagogische Hochschule Zug plant, regelt und führt ihre Angelegenheiten aufgrund eines Leistungsauftrages.
+<sup>1</sup> Die Pädagogische Hochschule Zug plant, regelt und führt ihre Angelegenheiten aufgrund eines kantonalen Leistungsauftrags.
 
 #### § 3
 
@@ -54,9 +59,9 @@ beschliesst:
 <sup>2</sup> Die Pädagogische Hochschule
 
 - a) bildet Lehrpersonen aus;
-- b) bietet Weiterbildungen und Zusatzausbildungen für Lehrpersonen und Mitglieder der Schulleitungen an;
+- b) bietet Weiterbildungen und Zusatzausbildungen (Zertifikatsstudiengänge CAS, DAS, MAS sowie weitere Programme) an;
 - c) betreibt anwendungsorientierte Forschung und Entwicklung und sichert damit die Verbindung zu Praxis und Wissenschaft;
-- d) erbringt Dienstleistungen im Auftrag Dritter in den Bereichen Schulen und Bildung.
+- d) erbringt Dienstleistungen für Dritte in den Bereichen Schulen und Bildung.
 
 [^3-1]: BGS [411.214](https://bgs.zg.ch/data/411.214/de)
 
@@ -77,9 +82,9 @@ beschliesst:
 
 #### § 5
 
-**Leitbild und Qualitätsmanagement**
+**Leitbild, Strategie und Qualitätsmanagement**
 
-<sup>1</sup> Die Pädagogische Hochschule Zug richtet sich nach ihrem Leitbild und nach anerkannten Qualitätsstandards aus.
+<sup>1</sup> Die Pädagogische Hochschule Zug richtet sich nach ihrem Leitbild, ihrer Strategie sowie nach anerkannten Qualitätsstandards aus.
 
 ### 1.2. Organisation
 
@@ -87,7 +92,7 @@ beschliesst:
 
 **Kantonsrat**
 
-<sup>1</sup> Der Kantonsrat genehmigt den Leistungsauftrag, das Globalbudget sowie die Jahresrechnung und Berichterstattung der Pädagogischen Hochschule Zug.
+<sup>1</sup> Der Kantonsrat genehmigt den Leistungsauftrag, das Globalbudget sowie die Jahresrechnung und die Berichterstattung der Pädagogischen Hochschule Zug.
 
 #### § 7
 
@@ -100,15 +105,16 @@ beschliesst:
 - a) beantragt dem Kantonsrat die Genehmigung des Leistungsauftrags, des Globalbudgets sowie der Jahresrechnung und der Berichterstattung der Pädagogischen Hochschule Zug;
 - b) erteilt dem Hochschulrat den Leistungsauftrag;
 - c) wählt die Mitglieder des Hochschulrats und legt ihre Entschädigung fest;
-- d) stellt die Rektorin oder den Rektor an;
-- e) kann mit anderen Kantonen Vereinbarungen über die Zusammenarbeit zwischen den Hochschulen abschliessen.
+- d) genehmigt auf Antrag des Hochschulrats die Anstellung der Rektorin oder des Rektors.
+- e) …
 
 <sup>3</sup> Der Regierungsrat
 
-- a) legt die Studiengänge fest;
+- a) genehmigt die Studiengänge;
 - b) legt den Mindest-Kostendeckungsgrad fest;
 - c) kann die Zulassung zu den einzelnen Studiengängen beschränken;
-- d) legt die Gebühren fest.
+- d) erlässt die Gebührenordnung;
+- e) erlässt die Verordnung zu diesem Gesetz.
 
 #### § 8
 
@@ -118,9 +124,9 @@ beschliesst:
 
 <sup>2</sup> Die Direktion für Bildung und Kultur
 
-- a) stellt die weiteren Mitglieder der Hochschulleitung an;
-- b) erlässt die Geschäftsordnung für den Hochschulrat;
-- c) erlässt das Studienreglement;
+- a) …
+- b) genehmigt die Geschäftsordnung für den Hochschulrat;
+- c) genehmigt das Studienreglement;
 - d) reicht Gesuche bei der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren ein;
 - e) übt die Aufsicht über die Pädagogische Hochschule Zug aus.
 
@@ -138,7 +144,7 @@ beschliesst:
 
 #### § 10
 
-**Zusammensetzung und Wahl des Hochschulrats**
+**Zusammensetzung und Amtsdauer des Hochschulrats**
 
 <sup>1</sup> Dem Hochschulrat gehören fünf bis sieben Mitglieder an. Die Vorsteherin oder der Vorsteher der Direktion für Bildung und Kultur präsidiert den Rat von Amtes wegen. Im Weiteren setzt sich der Hochschulrat aus gewählten Persönlichkeiten aus Bildung, Wissenschaft und Wirtschaft zusammen.
 
@@ -147,7 +153,9 @@ beschliesst:
 <sup>3</sup> An den Sitzungen des Hochschulrats nehmen mit beratender Stimme teil:
 
 - a) die Rektorin oder der Rektor der Pädagogischen Hochschule Zug;
-- b) die Leiterin oder der Leiter des für die Pädagogische Hochschule Zug zuständigen Amts der Direktion für Bildung und Kultur.
+- b) die Leiterin oder der Leiter des für die Pädagogische Hochschule Zug zuständigen Amts der Direktion für Bildung und Kultur;
+- c) eine Vertreterin oder ein Vertreter der Dozierenden der Pädagogischen Hochschule Zug;
+- d) eine Vertreterin oder ein Vertreter der Studierenden der Pädagogischen Hochschule Zug.
 
 #### § 11
 
@@ -158,11 +166,15 @@ beschliesst:
 <sup>2</sup> Der Hochschulrat
 
 - a) verabschiedet den Leistungsauftrag, das Globalbudget sowie die Jahresrechnung und die Berichterstattung zuhanden des Regierungsrats;
-- b) erlässt die Strategie, das Leitbild, das Konzept zum Qualitätsmanagement und zum internen Kontrollsystem sowie die Studienpläne;
-- c) stellt Antrag betreffend aller personalrechtlichen Belange der Mitglieder der Hochschulleitung zuhanden des Regierungsrats bzw. der Direktion für Bildung und Kultur;
-- d) erlässt das Organisationsreglement der Pädagogischen Hochschule Zug;
-- e) stellt Antrag an den Regierungsrat zum Erlass von besonderen Bestimmungen betreffend Gebühren sowie Zulassungsbeschränkungen;
-- f) verleiht Professorinnen- und Professorentitel;
+- b) genehmigt das Leitbild, die Strategie, das Qualitätsmanagement, das interne Kontrollsystem und die Studienpläne;
+- b1) beantragt dem Regierungsrat die Anstellung der Rektorin oder des Rektors und stellt auf Antrag der Rektorin oder des Rektors die weiteren Mitglieder der Hochschulleitung an;
+- c) …
+- c1) stellt Antrag an den Regierungsrat zur Genehmigung von Studiengängen;
+- c2) stellt Antrag an die Direktion für Bildung und Kultur zur Genehmigung seiner Geschäftsordnung;
+- c3) stellt Antrag an die Direktion für Bildung und Kultur zur Genehmigung des Studienreglements;
+- d) genehmigt das Organisationsreglement der Pädagogischen Hochschule Zug;
+- e) stellt Antrag an den Regierungsrat zum Erlass von Bestimmungen betreffend Gebühren sowie Zulassungsbeschränkungen;
+- f) verleiht Professorinnen- und Professorentitel, genehmigt Stellen für Professorinnen und Professoren und erlässt das Reglement über die Verleihung des Titels Professorin oder Professor an der Pädagogischen Hochschule Zug;
 - g) kann Ausschüsse einsetzen und Fachleute beiziehen.
 
 <sup>3</sup> Der Regierungsrat kann dem Hochschulrat weitere Aufgaben und Befugnisse übertragen.
@@ -174,20 +186,27 @@ beschliesst:
 <sup>1</sup> Der Hochschulleitung gehören an:
 
 - a) die Rektorin oder der Rektor als Führungsverantwortliche oder -verantwortlicher;
-- b) die Leiterin oder der Leiter Ausbildung als Prorektorin oder Prorektor;
+- b) die Leiterin oder der Leiter Ausbildung;
+- b1) die Leitenden der weiteren Leistungsbereiche;
 - c) die Verwaltungsleiterin oder der Verwaltungsleiter.
+
+<sup>2</sup> Die Rektorin oder der Rektor ernennt eine Prorektorin oder einen Prorektor als ihre oder seine Stellvertretung aus dem Kreis der Leitenden der Leistungsbereiche.
+
+<sup>3</sup> Im Organisationsreglement der Pädagogischen Hochschule Zug können weitere Personen mit beratender Stimme für die Mitarbeit in der Hochschulleitung bestimmt werden.
 
 #### § 13
 
 **Funktion und Aufgaben der Hochschulleitung**
 
-<sup>1</sup> Die Hochschulleitung trägt die operative Führungsverantwortung. Sie wirkt bei der Erarbeitung der Strategie des Hochschulrats mit und setzt diese um.
+<sup>1</sup> Die Hochschulleitung trägt die operative Führungsverantwortung. Sie wirkt bei der Erarbeitung der Strategie der Pädagogischen Hochschule mit und setzt diese um.
 
-<sup>2</sup> Der Hochschulleitung obliegt insbesondere:
+<sup>2</sup> Der Hochschulleitung obliegt insbesondere
 
 - a) die personelle, pädagogische, organisatorische und administrative Führung der Pädagogischen Hochschule Zug;
 - b) die Erstellung des Leistungsauftrags, des Globalbudgets sowie der Jahresrechnung und Berichterstattung zuhanden des Hochschulrats;
-- c) die Antragstellung zur Genehmigung des Leitbilds, des Konzepts zum Qualitätsmanagement sowie der Studienpläne an den Hochschulrat;
+- c) die Antragstellung zur Genehmigung des Leitbilds, der Strategie, des Qualitätsmanagements, des internen Kontrollsystems, der Studienpläne sowie des Organisationsreglements an den Hochschulrat;
+- c1) die Antragstellung zur Verleihung von Professorinnen- und Professorentitel und zur Genehmigung von Stellen für Professorinnen und Professoren an den Hochschulrat;
+- c2) die Antragstellung zum Erlass des Studienreglements an den Hochschulrat;
 - d) der Erlass der zur Erfüllung ihrer Aufgaben erforderlichen Weisungen;
 - e) die Geschäftsführung des Hochschulrats;
 - f) die Vertretung der Hochschule nach innen und aussen;
@@ -195,7 +214,7 @@ beschliesst:
 - h) die Wahl der Prüfungskommission;
 - i) die Verweigerung der Zulassung zum Studium sowie der Ausschluss vom Studium und vom Vorbereitungskurs;
 - j) der ganze oder teilweise Erlass von Gebühren;
-- k) die Genehmigung der Ordnung der Studierendenorganisation.
+- k) die Genehmigung der Geschäftsordnungen der Mitarbeitenden- und der Studierendenorganisation.
 
 #### § 14
 
@@ -232,23 +251,24 @@ beschliesst:
 
 <sup>3</sup> Schenkungen und Legate können im Sinne des Leistungsauftrags frei verwendet werden, sofern sie nicht zweckgebunden sind. Bei einer Zweckbindung sind sie in einem Reserven-Konto zu passivieren.
 
-<sup>4</sup> Ein allfälliger Ertragsüberschuss ist in der Bilanz in einem Reserven-Konto zu passivieren. Diese Reserve darf 10 % des jährlichen Kantonsbeitrages nicht übersteigen. Ein allenfalls diese Limite überschreitender Betrag ist dem Kanton zurückzuerstatten.
+<sup>4</sup> Ein allfälliger Ertragsüberschuss ist in der Bilanz in einem Reserven-Konto zu passivieren. Diese Reserve darf 10 % des jährlichen Bruttoaufwands nicht übersteigen. Ein allenfalls diese Limite überschreitender Betrag ist dem Kanton zurückzuerstatten.
 
 #### § 17
 
 **Gebührenerhebung**
 
-<sup>1</sup> Die Pädagogische Hochschule Zug erhebt Gebühren
+<sup>1</sup> Die Pädagogische Hochschule Zug erhebt Gebühren für
 
-- a) für die Einschreibung;
-- b) für die Aufnahmeprüfungen und allfällige Eignungsabklärungen;
-- c) für die Teilnahme am Vorbereitungskurs;
-- d) für die Benützung des Studienangebots;
-- e) für die Benützung des freiwilligen Instrumental- oder Gesangsunterrichts;
-- f) für das Absolvieren von Prüfungen;
-- g) für die Benützung des Weiterbildungsangebots für Lehrpersonen, sowie des Angebots an Nachdiplomstudien und weiteren Kursen;
-- h) für die Benützung des Studienangebots durch Hörerinnen und Hörer;
-- i) für die Benützung ihrer Einrichtungen.
+- a) die Einschreibung;
+- b) die Aufnahmeprüfungen und allfällige Eignungsabklärungen im Rahmen des Aufnahmeverfahrens;
+- b1) die Bearbeitung von Gesuchen zur Anerkennung von Vorleistungen;
+- c) die Teilnahme am Vorbereitungskurs;
+- d) die Benutzung des Studienangebots;
+- e) die Benutzung des freiwilligen Instrumental- oder Gesangsunterrichts;
+- f) das Absolvieren von Prüfungen;
+- g) die Benutzung des Weiterbildungsangebots;
+- h) die Benutzung des Studienangebots der Ausbildung durch Hörerinnen und Hörer;
+- i) die Benutzung ihrer Einrichtungen.
 
 <sup>2</sup> Sie erhebt Kanzleigebühren für Tätigkeiten der Verwaltung, insbesondere für das Ausstellen von Diplomen, Zeugnissen, Zertifikaten und Bescheinigungen.
 
@@ -258,9 +278,9 @@ beschliesst:
 
 **Gebührenbemessung**
 
-<sup>1</sup> Die Gebühren sind so zu bemessen, dass sie den Zugang zu den Studien nicht beeinträchtigen.
+<sup>1</sup> Die Gebühren sind so zu bemessen, dass sie den Zugang zu den Studien nicht beeinträchtigen und im schweizerischen Vergleich konkurrenzfähig sind.
 
-<sup>2</sup> Die Gebühren für die Benützung des Weiterbildungsangebots für Lehrpersonen, des Angebots an Nachdiplomstudien und weiteren Kursen sowie des Studienangebots für Hörerinnen und Hörer sind ebenso wie die Gebühren für die Benützung der Einrichtungen der Pädagogischen Hochschule Zug in der Regel kostendeckend und marktgerecht festzusetzen. Bei der Gebührenbemessung für die Benützung des Weiterbildungsangebots für Lehrpersonen ist der Kantonsbeitrag in Abzug zu bringen.
+<sup>2</sup> Die Gebühren für die Benutzung von Weiterbildungsangeboten sind in der Regel so festzulegen, dass sie die gesamten Kosten nach Abzug allfälliger Beiträge des Kantons oder Dritter decken.
 
 <sup>3</sup> Ausländische Studierende, die ihren Wohnsitz im Ausland haben oder ihren Wohnsitz weniger als zwei Jahre vor Studienbeginn in die Schweiz verlegt haben, bezahlen kostendeckende Gebühren.
 
@@ -286,20 +306,49 @@ beschliesst:
 
 <sup>1</sup> Die Pädagogische Hochschule Zug nutzt für ihre Tätigkeit Liegenschaften, die sie vom Kanton oder von Dritten zu marktgerechten Preisen mietet.
 
+#### § 20a
+
+**Hochschulpersonal**
+
+<sup>1</sup> Zum Hochschulpersonal gehören:
+
+- a) die Mitglieder der Hochschulleitung;
+- b) die Dozierenden;
+- c) die Lehrbeauftragten;
+- d) die wissenschaftlichen Mitarbeitenden und die wissenschaftlichen Assistierenden;
+- e) die Mitarbeitenden in Verwaltung und Stäben.
+
+<sup>2</sup> Der Regierungsrat kann weitere Personalkategorien bilden.
+
+<sup>3</sup> Die Mitarbeitenden der Pädagogischen Hochschule Zug unterstehen grundsätzlich dem Personalrecht des Kantons, sofern die Verordnung zum Gesetz über die Pädagogische Hochschule Zug keine anderen Bestimmungen enthält.
+
 ## 2. Angehörige der Pädagogischen Hochschule Zug
 
 ### 2.1. Hochschulpersonal
 
 #### § 21
 
-**Gehaltsklassen**
+**…**
 
-<sup>1</sup> Für die nachfolgenden Funktionsgruppen gelten die folgenden Einreihungen:
+#### § 21a
 
-- a) Mitglieder der Hochschulleitung von Lohnklasse 22 bis 24;
-- b) Dozierende von Lohnklasse 18 bis 22;
-- c) Besondere wissenschaftliche Mitarbeitende von Lohnklasse 14 bis 16;
-- d) Wissenschaftliche Assistierende von Lohnklasse 11 bis 13.
+**Referenzfunktionen, Einreihungsplan und Lohneinreihung**
+
+<sup>1</sup> Der Regierungsrat regelt in der Verordnung zum Gesetz über die Pädagogische Hochschule Zug die Personalkategorien sowie für Teile des Hochschulpersonals die Referenzfunktionen und den Einreihungsplan mit der Zuordnung zu den Lohnklassen.
+
+#### § 21b
+
+**Arbeitszeit**
+
+<sup>1</sup> Der Regierungsrat regelt in der Verordnung zum Gesetz über die Pädagogische Hochschule Zug die Bestimmungen zur Arbeitszeit der Mitarbeitenden der Pädagogischen Hochschule Zug.
+
+#### § 21c
+
+**Aus- und Weiterbildung**
+
+<sup>1</sup> Die Aus- und Weiterbildung richtet sich grundsätzlich nach den Bestimmungen des Personalgesetzes.
+
+<sup>2</sup> Der Regierungsrat regelt in der Verordnung zum Gesetz über die Pädagogische Hochschule Zug allenfalls notwendige, für die Pädagogische Hochschule Zug spezifische rechtliche Abweichungen der Bestimmungen betreffend die Bedingungen für die Aus- und Weiterbildung, die Voraussetzungen und den Umfang einer allfälligen Kostenbeteiligung durch die Pädagogische Hochschule Zug sowie der Rückzahlungsverpflichtung durch die Mitarbeitenden.
 
 #### § 22
 
@@ -307,9 +356,9 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder der Hochschulleitung können das Arbeitsverhältnis mit einer Kündigungsfrist von sechs Monaten kündigen.
 
-<sup>2</sup> Personen mit Lehrverpflichtung können das Arbeitsverhältnis unter Einhaltung einer Kündigungsfrist von sechs Monaten jeweils nur auf Ende eines Semesters kündigen. Ihnen kann nur auf Ende des Studienjahres gekündigt werden. Beim Vorliegen besonderer Umstände können im Arbeitsvertrag andere Kündigungstermine oder Kündigungsfristen vorgesehen werden.
+<sup>2</sup> Personen mit Lehrverpflichtung können das Arbeitsverhältnis unter Einhaltung einer Kündigungsfrist von sechs Monaten jeweils auf Ende eines Semesters kündigen. Die Pädagogische Hochschule Zug kann das Arbeitsverhältnis unter Einhaltung derselben Kündigungsfristen und Kündigungstermine kündigen. Beim Vorliegen besonderer Umstände können im Arbeitsvertrag andere Kündigungstermine oder Kündigungsfristen vorgesehen werden.
 
-### 2.2. Studierende und Kursteilnehmende
+### 2.2. Studierende und Weiterbildungsteilnehmende
 
 #### § 23
 
@@ -317,7 +366,7 @@ beschliesst:
 
 <sup>1</sup> Als Studierende der Pädagogischen Hochschule Zug gelten die immatrikulierten Studierenden der Studiengänge.
 
-<sup>2</sup> Als Kursteilnehmende gelten Personen, welche ein Angebot in den Bereichen Weiterbildung und Zusatzausbildung wahrnehmen.
+<sup>2</sup> Als Weiterbildungsteilnehmende gelten Personen, welche ein Weiterbildungsangebot oder eine Zusatzausbildung wahrnehmen.
 
 #### § 24
 
@@ -350,23 +399,23 @@ beschliesst:
 
 #### § 27
 
-**Austauschstudentinnen und -studenten**
+**Gaststudierende**
 
-<sup>1</sup> Studierende anderer in- oder ausländischer Hochschulen können für eine im Austauschprogramm vorgesehene Zeitdauer an der Pädagogischen Hochschule Zug einen Austausch absolvieren.
+<sup>1</sup> Studierende anderer in- oder ausländischer Hochschulen können für eine im Mobilitätsprogramm vorgesehene Zeitdauer an der Pädagogischen Hochschule Zug einen Gastaufenthalt absolvieren.
 
 #### § 28
 
-**Organisation der Studierenden**
+**Organisation von Mitarbeitenden und Studierenden**
 
-<sup>1</sup> Die Mitsprache der Studierenden der Pädagogischen Hochschule Zug wird durch die Studierendenorganisation wahrgenommen.
+<sup>1</sup> Die Mitsprache von Mitarbeitenden und Studierenden der Pädagogischen Hochschule Zug wird durch die Mitarbeitenden- respektive die Studierendenorganisation wahrgenommen.
 
-<sup>2</sup> Die Studierendenorganisation gibt sich eine Ordnung. Diese ist zu genehmigen.
+<sup>2</sup> Die Mitarbeitenden- und die Studierendenorganisation geben sich eine Geschäftsordnung. Diese ist durch die Hochschulleitung zu genehmigen.
 
 #### § 29
 
 **Vorbereitungskurs**
 
-<sup>1</sup> Die Teilnehmerinnen und Teilnehmer des Vorbereitungskurses unterstehen dem Disziplinarrecht der Studierenden.
+<sup>1</sup> Die Teilnehmenden des Vorbereitungskurses unterstehen dem Disziplinarrecht der Studierenden.
 
 <sup>2</sup> Sie können bei Nichteignung zum Lehrberuf oder bei schwerwiegenden Verstössen gegen die Disziplinarordnung vom Vorbereitungskurs an der Pädagogischen Hochschule Zug ausgeschlossen werden.
 
@@ -415,39 +464,27 @@ beschliesst:
 
 #### § 34
 
-**Vorkehrungen zur Verselbständigung**
-
-<sup>1</sup> Der Regierungsrat trifft auf den Zeitpunkt des Inkrafttretens dieses Gesetzes sämtliche erforderlichen Vorkehrungen für die Errichtung der Pädagogischen Hochschule Zug als öffentlich-rechtliche Anstalt.
-
-<sup>2</sup> Er ist befugt, sämtliche damit im Zusammenhang stehenden Rechtshandlungen vorzunehmen.
+**…**
 
 #### § 35
 
 **Personal**
 
-<sup>1</sup> Die Pädagogische Hochschule Zug übernimmt auf den 1. August 2013 die zu diesem Zeitpunkt bestehenden Anstellungsverhältnisse mit den Mitarbeitenden der Pädagogischen Hochschule Zentralschweiz Teilschule Zug. Innert eines Jahres sind die Anstellungsverträge anzupassen.
+<sup>1</sup> …
 
-<sup>2</sup> Die Hochschulleitung reiht in Zusammenarbeit mit dem Personalamt die zu übernehmenden Mitarbeitenden der Pädagogischen Hochschule Zentralschweiz Teilschule Zug auf den 1. August 2014 nach dem kantonalen Personalrecht ein.
+<sup>2</sup> …
 
-<sup>3</sup> Ist die Jahresbesoldung nach neuer Einreihung geringer als nach dem bisherigen Personalrecht, so wird den betroffenen Mitarbeitenden der Besitzstand garantiert und solange ausgerichtet, bis die Besoldung nach neuer Einreihung höher ist.
+<sup>3</sup> …
 
 <sup>4</sup> Für Dienstaltersgeschenke und Abgangsentschädigungen werden die vor dem Übertritt an die Pädagogische Hochschule Zug an den kantonalen Schulen und der Pädagogischen Hochschule Zentralschweiz Teilschule Zug ununterbrochen geleisteten Dienstjahre angerechnet.
 
 #### § 36
 
-**Studierende**
-
-<sup>1</sup> Studierende, die das Studium vor Inkrafttreten dieses Gesetzes an der Pädagogischen Hochschule Zentralschweiz Teilschule Zug aufgenommen haben, können das Studium an der Pädagogischen Hochschule Zug weiterführen und beenden. Sie können die Prüfungen nach bisherigem Recht abschliessen.
-
-<sup>2</sup> Studierende, die unter dem Konkordatsrecht an der Pädagogischen Hochschule Zentralschweiz Teilschule Zug aufgenommen wurden, gelten auch unter neuem Recht als aufgenommen.
-
-<sup>3</sup> Geänderte oder neue Gebühren gelten für alle Studierenden ab 1. August 2013.
+**…**
 
 #### § 37
 
-**Hängige Verfahren**
-
-<sup>1</sup> Auf Verfahren der Pädagogischen Hochschule Zentralschweiz Teilschule Zug, die bei Inkrafttreten dieses Gesetzes hängig sind, ist das bisherige Recht anwendbar; zuständig sind die entsprechenden Instanzen der Pädagogischen Hochschule Zug.
+**…**
 
 ### 5.2. Schlussbestimmungen
 
