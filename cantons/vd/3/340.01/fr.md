@@ -4,7 +4,7 @@ number: "340.01"
 title: "LOI du 04.07.2006 sur l'exécution des condamnations pénales (LEP)"
 short: LEP
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/340.01?id=29de99b6-f6aa-48a2-86df-9b223eb3a7c9"
 ---
 
@@ -932,7 +932,7 @@ décrète
 [^36-1]: Modif. 1 du 28.10.2008: Modification Al. 1-2; entrée en vigueur au 01.01.2009 · Modif. 2 du 19.05.2009: Abrogation Al. 3; entrée en vigueur au 01.01.2011 · Modif. 5 du 03.03.2015: Abrogation Art. 37; entrée en vigueur au 01.09.2015
 [^37-1]: Modif. 2 du 19.05.2009: Modification ; entrée en vigueur au 01.01.2011 · Modif. 8 du 05.11.2024: Modification ; entrée en vigueur au 01.01.2024
 
-### Chapitre III Auprès de la Chambre des recours pénale
+### Chapitre III Auprès du Tribunal cantonal
 
 [^37-1]
 
@@ -944,34 +944,43 @@ décrète
 
 - - les décisions rendues par l'Office d'exécution des peines ;
 - - les décisions rendues sur recours par le Service pénitentiaire ;
-- - les décisions rendues par le juge d'application des peines et par le collège des juges d'application des peines ;
-- - les décisions judiciaires indépendantes rendues postérieurement au jugement par le tribunal d'arrondissement et le président du tribunal d'arrondissement.
+- - les décisions rendues par le juge d'application des peines et par le collège des juges d'application des peines qui ne peuvent pas faire l'objet d'un appel;
+- - ...
 
 <sup>2</sup> La procédure est régie par les dispositions du CPP[^38-1] relatives au recours.
 
-<sup>3</sup> En matière de sanctions disciplinaires, les motifs de recours sont limités à ceux fixés aux articles 95 et 97 de la loi fédérale du 17 juin 2005 sur le Tribunal fédéral (LTF) [^38-2] .
+<sup>3</sup> ...
 
 <sup>4</sup> Lorsque le recours porte sur la réintégration d'une personne condamnée en régime ordinaire d'exécution de peine ou de mesure, les décisions sur effet suspensif sont prises à trois juges.
 
-[^chapterChapitreIII-3]: Modif. 2 du 19.05.2009: Modification Al. 1,2; entrée en vigueur au 01.01.2011; Introduction Al. 3; entrée en vigueur au 01.01.2011 · Modif. 5 du 03.03.2015: Modification Al. 1,2; entrée en vigueur au 01.09.2015; Introduction Al. 4; entrée en vigueur au 01.09.2015 · Modif. 7 du 21.03.2023: Modification Al. 4; entrée en vigueur au 01.07.2023 · Modif. 8 du 05.11.2024: Modification Al. 1, Tiret 3; entrée en vigueur au 01.01.2024; Abrogation Al. 1, Tiret 4; entrée en vigueur au 01.01.2024; Abrogation Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 38a; entrée en vigueur au 01.01.2024
+[^chapterChapitreIII-3]: Modif. 2 du 19.05.2009: Modification Al. 1,2; entrée en vigueur au 01.01.2011; Introduction Al. 3; entrée en vigueur au 01.01.2011 · Modif. 5 du 03.03.2015: Modification Al. 1,2; entrée en vigueur au 01.09.2015; Introduction Al. 4; entrée en vigueur au 01.09.2015 · Modif. 7 du 21.03.2023: Modification Al. 4; entrée en vigueur au 01.07.2023 · Modif. 8 du 05.11.2024: Modification Al. 1, Tiret 3; entrée en vigueur au 01.01.2024; Abrogation Al. 1, Tiret 4; entrée en vigueur au 01.01.2024; Abrogation Al. 3; entrée en vigueur au 01.01.2024
 [^38-1]: Loi du 19.05.2009 d'introduction du Code de procédure pénale suisse ([BLV 312.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.01?id=2d30c3c5-8940-44d6-b00e-f0b57ff7f499))
-[^38-2]: Loi fédérale du 17.06.2005 sur le Tribunal fédéral (RS 173.110)
+
+#### Art. 38a
+
+**Des décisions susceptibles d'appel [^38-2]**
+
+<sup>1</sup> Peuvent faire l'objet d'un appel au Tribunal cantonal, conformément au CPP, les décisions judiciaires indépendantes rendues postérieurement au jugement.
+
+<sup>2</sup> La procédure est régie par les dispositions du CPP relatives à l'appel.
+
+[^38-2]: Modif. 8 du 05.11.2024: Introduction tArt; entrée en vigueur au 01.01.2024; Introduction Al. 1-2; entrée en vigueur au 01.01.2024; Introduction Art. 38a; entrée en vigueur au 01.01.2024
 
 #### Art. 39
 
-**… [^38-3]**
+**… [^38a-1]**
 
-[^38-3]: Modif. 2 du 19.05.2009: Abrogation Art. 39; entrée en vigueur au 01.01.2011
+[^38a-1]: Modif. 2 du 19.05.2009: Abrogation Art. 39; entrée en vigueur au 01.01.2011
 
 #### Art. 39a
 
 **Participation du Ministère public [^39-1]**
 
-<sup>1</sup> Si le recours n'est pas manifestement irrecevable ou mal fondé, le Tribunal cantonal communique les recours au Ministère public et lui fixe un délai pour se déterminer.
+<sup>1</sup> Si le recours ou l'appel n'est pas manifestement irrecevable ou mal fondé, le Tribunal cantonal le communique au Ministère public et lui fixe un délai pour se déterminer.
 
-<sup>2</sup> Les arrêts sur recours sont notifiés au Ministère public.
+<sup>2</sup> Les arrêts sur recours ou appel sont notifiés au Ministère public.
 
-[^39-1]: Modif. 5 du 03.03.2015: Introduction Art. 39a; entrée en vigueur au 01.09.2015 · Modif. 8 du 05.11.2024: Introduction Art. 38a; entrée en vigueur au 01.01.2024; Modification Al. 1-2; entrée en vigueur au 01.01.2024
+[^39-1]: Modif. 5 du 03.03.2015: Introduction Art. 39a; entrée en vigueur au 01.09.2015 · Modif. 8 du 05.11.2024: Modification Al. 1-2; entrée en vigueur au 01.01.2024
 
 ## Titre V Dispositions finales
 
