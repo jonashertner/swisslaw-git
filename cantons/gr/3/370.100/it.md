@@ -4,13 +4,13 @@ number: "370.100"
 title: Legge sulla giustizia amministrativa
 short: LGA
 language: it
-version: 2019-01-01
-corrected: 2019-11-28
-version_adopted: 2018-08-31
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2023-06-13
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2986/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3346/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2986/pdf_file"
 
 (LGA)
 
-del 31.08.2006 (stato 01.01.2019)
+del 31.08.2006 (stato 01.01.2024)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -601,7 +601,7 @@ decide:
 <sup>2</sup> Quale Tribunale cantonale delle assicurazioni giudica ricorsi contro:
 
 - a) decisioni su opposizione e decisioni in materia di assicurazioni sociali che secondo il diritto federale sono suscettibili di ricorso;
-- b) decisioni su opposizione e decisioni in materia di assicurazioni malattia e di riduzione dei premi che secondo il diritto federale sono suscettibili di ricorso;
+- b) decisioni su opposizione e decisioni in materia di assicurazioni malattia e di riduzione dei premi che secondo il diritto cantonale sono suscettibili di ricorso e che non si riferiscono all'autorizzazione a esercitare a carico dell'assicurazione obbligatoria delle cure medico-sanitarie;
 - c) decisioni su opposizione, disposizioni e decisioni in materia di assegni familiari che secondo il diritto cantonale sono suscettibili di ricorso.
 
 <sup>3</sup> Sono considerate decisioni anche il diniego di giustizia e la ritardata giustizia, nonché atti materiali che attentano ai diritti e ai doveri di persone.

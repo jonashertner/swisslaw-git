@@ -4,13 +4,13 @@ number: "370.100"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2019-01-01
-corrected: 2019-11-28
-version_adopted: 2018-08-31
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2023-06-13
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2986/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2986/pdf_file"
 
 (VRG)
 
-Vom 31.08.2006 (Stand 01.01.2019)
+Vom 31.08.2006 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -603,7 +603,7 @@ beschliesst:
 <sup>2</sup> Es beurteilt als kantonales Versicherungsgericht Beschwerden gegen:
 
 - a) Einspracheentscheide und Verfügungen in Sozialversicherungssachen, die gemäss Bundesrecht der Beschwerde unterliegen;
-- b) Einspracheentscheide und Verfügungen im Bereich Krankenversicherung und Prämienverbilligung, die gemäss kantonalem Recht der Beschwerde unterliegen;
+- b) Einspracheentscheide und Verfügungen im Bereich Krankenversicherung und Prämienverbilligung, die gemäss kantonalem Recht der Beschwerde unterliegen und sich nicht auf die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenversicherung beziehen;
 - c) Einspracheentscheide, Verfügungen und Entscheide im Bereich der Familienzulagen, die gemäss kantonalem Recht der Beschwerde unterliegen.
 
 <sup>3</sup> Als Entscheide gelten auch Rechtsverweigerung und Rechtsverzögerung sowie Realakte, die in Rechte und Pflichten von Personen eingreifen.

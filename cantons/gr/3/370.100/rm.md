@@ -4,13 +4,13 @@ number: "370.100"
 title: Lescha davart la giurisdicziun administrativa
 short: LGA
 language: rm
-version: 2019-01-01
-corrected: 2019-11-28
-version_adopted: 2018-08-31
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2023-06-13
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2986/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2986/pdf_file"
 
 (LGA)
 
-dals 31-08-2006 (versiun dals 01-01-2019)
+dals 31-08-2006 (versiun dals 01-01-2024)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -603,7 +603,7 @@ concluda:
 <sup>2</sup> Sco dretgira chantunala d'assicuranzas giuditgescha ella recurs cunter:
 
 - a) decisiuns da protesta e disposiziuns en chaussas d'assicuranza sociala ch'èn – tenor il dretg federal – suttamessas al recurs;
-- b) decisiuns da protesta e disposiziuns en il sectur da l'assicuranza da persunas malsaunas e da la reducziun da las premias ch'èn – tenor il dretg chantunal – suttamessas al recurs;
+- b) decisiuns da protesta e disposiziuns en il sectur da l'assicuranza da malsauns e da la reducziun da las premias ch'èn – tenor il dretg chantunal – suttamessas al recurs e che na sa refereschan betg a l'admissiun a l'activitad a quint da l'assicuranza obligatorica da malsauns;
 - c) decisiuns da protesta, disposiziuns e decisiuns en il sectur dals supplements da famiglia ch'èn – tenor il dretg chantunal – suttamessas al recurs.
 
 <sup>3</sup> Sco decisiuns valan er la snegaziun da dretg e la retardada da dretg sco er acts reals che intervegnan en dretgs ed en obligaziuns da persunas.
