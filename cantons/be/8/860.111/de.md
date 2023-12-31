@@ -4,13 +4,13 @@ number: "860.111"
 title: Verordnung über die öffentliche Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-08-23
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-16
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2862/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2990/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2862/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 24.10.2001 (Stand 01.01.2023)
+vom 24.10.2001 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -190,66 +190,67 @@ beschliesst:
 
 <sup>2</sup> Der Grundbedarf für den Lebensunterhalt nach Haushaltsgrösse beträgt pro Monat, unter Vorbehalt der Absätze 3 bis 5, für
 
-- a eine Person — CHF 977
-- b zwei Personen — CHF 1495
-- c drei Personen — CHF 1818
-- d vier Personen — CHF 2090
-- e fünf Personen — CHF 2364
-- f jede weitere Person — + CHF 200
+- a eine Person — CHF 1006
+- b zwei Personen — CHF 1539
+- c drei Personen — CHF 1871
+- d vier Personen — CHF 2153
+- e fünf Personen — CHF 2435
+- f jede weitere Person — + CHF 204
 
 <sup>3</sup> Bei jungen Erwachsenen wird der Grundbedarf für den Lebensunterhalt nach Lebens- und Wohnform pro Monat wie folgt festgelegt:
 
 - a entsprechender Anteil bei einer Hausgemeinschaft mit den Eltern oder in einer familienähnlichen Gemeinschaft, wobei sich dieser nach dem Grundbedarf für den gesamten Haushalt, geteilt durch die Anzahl der im Haushalt lebenden Personen, bestimmt,
-- b Pauschale von 748 Franken bei einer Zweckwohngemeinschaft,
-- c Pauschale von 782 Franken bei eigenem Haushalt aus wichtigen Gründen,
+- b Pauschale von 770 Franken bei einer Zweckwohngemeinschaft,
+- c Pauschale von 805 Franken bei eigenem Haushalt aus wichtigen Gründen,
 - d gemäss Absatz 2 bei eigenem Haushalt, wenn sie
   - 1 an einer auf die arbeitsmarktliche Integration ausgerichteten Ausbildung oder Massnahme teilnehmen,
   - 2 einer angemessenen Erwerbstätigkeit nachgehen oder
   - 3 eigene Kinder betreuen,
-- e Pauschale von 748 Franken bei eigenem Haushalt, ohne die Voraussetzungen gemäss den Buchstaben c und d zu erfüllen.
+- e Pauschale von 770 Franken bei eigenem Haushalt, ohne die Voraussetzungen gemäss den Buchstaben c und d zu erfüllen.
 
 <sup>4</sup> Der Grundbedarf für den Lebensunterhalt für Personen gemäss Artikel 46a Absatz 1 Buchstabe c SHG (vorläufig Aufgenommene) wird vor Ablauf von zehn Jahren nach Erteilung der vorläufigen Aufnahme, unter Vorbehalt von Absatz 4c, nach Haushaltsgrösse festgelegt. Er beträgt pro Monat für
 
-- a eine Person — CHF 696
-- b zwei Personen — CHF 1065
-- c drei Personen — CHF 1295
-- d vier Personen — CHF 1489
-- e fünf Personen — CHF 1684
-- f sechs Personen — CHF 1825
-- g für jede weitere Person — + CHF 141
+- a eine Person — CHF 717
+- b zwei Personen — CHF 1097
+- c drei Personen — CHF 1334
+- d vier Personen — CHF 1534
+- e fünf Personen — CHF 1735
+- f sechs Personen — CHF 1880
+- g für jede weitere Person — + CHF 145
 
 <sup>4a</sup> Der Grundbedarf für den Lebensunterhalt für Personen gemäss Artikel 46a Absatz 1 Buchstabe c SHG (vorläufig Aufgenommene) beträgt nach Ablauf von zehn Jahren nach Erteilung der vorläufigen Aufnahme nach Haushaltsgrösse pro Monat, unter Vorbehalt von Absatz 4b, für
 
-- a eine Person — CHF 830
-- b zwei Personen — CHF 1271
-- c drei Personen — CHF 1545
-- d vier Personen — CHF 1777
-- e fünf Personen — CHF 2009
-- f sechs Personen — CHF 2179
-- g für jede weitere Person — + CHF 170
+- a eine Person — CHF 855
+- b zwei Personen — CHF 1308
+- c drei Personen — CHF 1590
+- d vier Personen — CHF 1830
+- e fünf Personen — CHF 2070
+- f sechs Personen — CHF 2243
+- g für jede weitere Person — + CHF 173
 
 <sup>4b</sup> Bei jungen Erwachsenen gemäss Absatz 4a wird der Grundbedarf für den Lebensunterhalt nach Lebens- und Wohnform pro Monat wie folgt festgelegt:
 
 - a entsprechender Anteil gemäss Absatz 4a bei einer Hausgemeinschaft mit den Eltern oder in einer familienähnlichen Gemeinschaft, wobei sich dieser nach dem Grundbedarf für den gesamten Haushalt, geteilt durch die Anzahl der im Haushalt lebenden Personen, bestimmt,
-- b Pauschale von 730 Franken bei einer Zweckwohngemeinschaft,
-- c Pauschale von 770 Franken bei eigenem Haushalt aus wichtigen Gründen,
+- b Pauschale von 752 Franken bei einer Zweckwohngemeinschaft,
+- c Pauschale von 793 Franken bei eigenem Haushalt aus wichtigen Gründen,
 - d gemäss Absatz 4a bei eigenem Haushalt, wenn sie
   - 1 an einer auf die arbeitsmarktliche Integration ausgerichteten Ausbildung oder Massnahme teilnehmen,
   - 2 einer angemessenen Erwerbstätigkeit nachgehen oder
   - 3 eigene Kinder betreuen,
-- e Pauschale von 730 Franken bei eigenem Haushalt, ohne die Voraussetzungen gemäss den Buchstaben c und d zu erfüllen.
+- e Pauschale von 752 Franken bei eigenem Haushalt, ohne die Voraussetzungen gemäss den Buchstaben c und d zu erfüllen.
 
 <sup>4c</sup> Bei minderjährigen vorläufig Aufgenommenen richtet sich der Grundbedarf für den Lebensunterhalt unabhängig von der Dauer ihrer vorläufigen Aufnahme gemäss Absatz 4a. Tritt im Verlauf der Unterstützung gemäss Absatz 4a die Volljährigkeit ein, richtet sich die Unterstützung gemäss Absatz 4b.
 
 <sup>5</sup> Der Grundbedarf für den Lebensunterhalt für Personen gemäss Artikel 46a Absatz 1 Buchstabe a SHG (Flüchtlinge und anerkannte Staatenlose), die in einer Kollektivunterkunft leben, wird unabhängig ihres Alters nach Unterstützungseinheit festgelegt. Er beträgt pro Monat für
 
-- a eine Person — CHF 582
-- b zwei Personen — CHF 891
-- c drei Personen — CHF 1082
-- d vier Peronen — CHF 1245
-- e fünf Personen — CHF 1408
-- f sechs Personen — CHF 1526
-- g für jede weitere Person — + CHF 118
+- a eine Person — CHF 599
+- b zwei Personen — CHF 918
+- c drei Personen — CHF 1114
+- d vier Peronen — CHF 1282
+- e fünf Personen — CHF 1491
+- f sechs Personen — CHF 1685
+- g sieben Personen — CHF 1852
+- h für jede weitere Person — + CHF 134
 
 [^8-1]: [https://rl.skos.ch](https://rl.skos.ch)
 
@@ -756,90 +757,19 @@ beschliesst:
 
 <sup>2</sup> Der Bericht enthält Angaben über die Anzahl der Sozialinspektionen, die Ergebnisse, die Sanktionen, die Dauer und Kosten der Abklärungen sowie gegebenenfalls die Namen der vom Sozialdienst beauftragten Dritten.
 
-## 3 Leistungsangebote der institutionellen Sozialhilfe (Art. 58 bis 77 SHG)
+## 3
 
-### 3.1 Leistungserbringer
+### 3.1
 
 #### Art. 24
 
 **…**
 
-### 3.2 Leistungsabgeltung
+### 3.2
 
-#### Art. 25
-
-**Gewährung von Beiträgen**
-
-<sup>1</sup> Die von den Leistungserbringern im Rahmen eines Leistungsvertrages oder Leistungsauftrages erbrachten Leistungen der institutionellen Sozialhilfe werden vom Kanton oder von den Gemeinden mit Beiträgen abgegolten.
-
-<sup>2</sup> Die Gewährung der kantonalen und kommunalen Beiträge richtet sich nach den Bestimmungen des Staatsbeitragsgesetzes vom 16. September 1992[^25-1] (StBG) und der Staatsbeitragsverordnung vom 23. März 1994[^25-2] (StBV).
-
-[^25-1]: BSG 641.1
-[^25-2]: BSG 641.111
-
-#### Art. 25a–25d
+#### Art. 25–31
 
 **…**
-
-#### Art. 26
-
-**Ausgabenbefugnisse**
-
-<sup>1</sup> Die Bau- und Investitionsbeiträge des Kantons werden vom Regierungsrat bewilligt.
-
-<sup>2</sup> Die GSI bewilligt die Bau- und Investitionsbeiträge des Kantons im Rahmen der ihr gemäss Artikel 152 der Verordnung vom 3. Dezember 2003 über die Steuerung von Finanzen und Leistungen (FLV)[^26-1] übertragenen Ausgabenbefugnisse.
-
-<sup>3</sup> Sie bewilligt die Betriebsbeiträge des Kantons.
-
-<sup>4</sup> Die Beiträge der Gemeinden werden von dem für die Bewilligung der Ausgabe zuständigen Gemeindeorgan bewilligt.
-
-[^26-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
-
-#### Art. 27
-
-**Festsetzung der Beiträge**
-
-<sup>1</sup> Die Beiträge an die Leistungserbringer werden grundsätzlich leistungsorientiert und soweit möglich prospektiv und auf Grund von Normkosten festgesetzt.
-
-<sup>2</sup> Bei Fehlen von Normkosten können die Beiträge unter Berücksichtigung der effektiven Betriebs- und Baukosten festgesetzt werden.
-
-<sup>3</sup> Die GSI wird ermächtigt, im Einvernehmen mit der Finanzdirektion die für die Beitragsfestsetzung anrechenbaren Kosten auf ein einheitliches Mass zu beschränken und Kostenobergrenzen festzusetzen.
-
-#### Art. 28
-
-**Subsidiarität**
-
-<sup>1</sup> Betriebs- und Baukosten werden vom Kanton und den Gemeinden nur soweit übernommen, als sie nicht anderweitig gedeckt werden können.
-
-<sup>2</sup> Vorrang gegenüber den Beiträgen des Kantons und der Gemeinden haben
-
-- a Beiträge und Leistungen Dritter, insbesondere des Bundes, anderer Kantone und der Sozialversicherer,
-- b Beiträge und Gebühren der Benutzerinnen und Benutzer,
-- c Eigenmittel der Leistungserbringer.
-
-<sup>3</sup> Die GSI wird ermächtigt, im Einvernehmen mit der Finanzdirektion Vorschriften zur Anrechnung der Eigenmittel zu erlassen.
-
-#### Art. 29
-
-**Tarife**
-
-<sup>1</sup> Die Modalitäten der Tarifanwendung sind in den Leistungsverträgen zu regeln.
-
-<sup>2</sup> Die GSI wird zum Erlass von Tarifvorschriften ermächtigt.
-
-#### Art. 30
-
-**Rechnungsführung**
-
-<sup>1</sup> Die Leistungserbringer haben nach einheitlichen Vorschriften Rechnung zu führen.
-
-<sup>2</sup> Die GSI wird zum Erlass entsprechender Vorschriften ermächtigt.
-
-#### Art. 31
-
-**Pilotversuche**
-
-<sup>1</sup> Die GSI, oder mit ihrer Ermächtigung die Gemeinden, können im Rahmen von Versuchen und Pilotprojekten besondere Formen der Leistungsabgeltung erproben.
 
 ## 3a
 
@@ -853,7 +783,7 @@ beschliesst:
 
 #### Art. 32
 
-<sup>1</sup> Die Beiträge des Kantons an die Leistungserbringer im Bereich der institutionellen Sozialhilfe sind lastenausgleichsberechtigt im Rahmen der vorstehenden Bestimmungen über die Leistungsabgeltung (Artikel 25ff.).
+<sup>1</sup> …
 
 <sup>2</sup> Als lastenausgleichsberechtigte Aufwendungen für weitere Massnahmen gelten die Aufwendungen für Ombudsstellen gemäss Artikel 21 SHG[^32-1] und für besondere Massnahmen gemäss Artikel 73 SHG.
 
@@ -954,7 +884,7 @@ beschliesst:
 
 **Pauschale für die wirtschaftliche Hilfe**
 
-<sup>1</sup> Die Pauschale pro Fall wirtschaftlicher Hilfe beträgt 2386 Franken.
+<sup>1</sup> Die Pauschale pro Fall wirtschaftlicher Hilfe beträgt 2450 Franken.
 
 <sup>2</sup> Als Fall wirtschaftlicher Hilfe gilt eine Unterstützungseinheit, der im Laufe des Kalenderjahres wirtschaftliche Hilfe ausgerichtet wird.
 
@@ -975,7 +905,7 @@ beschliesst:
 
 **Pauschale für die präventive Beratung**
 
-<sup>1</sup> Die Pauschale pro Fall präventiver Beratung beträgt 1193 Franken.
+<sup>1</sup> Die Pauschale pro Fall präventiver Beratung beträgt 1225 Franken.
 
 <sup>2</sup> Als Fall präventiver Beratung gilt die Unterstützung einer hilfesuchenden Person bzw. einer Unterstützungseinheit bei mindestens einer Problemlage, wenn
 
@@ -991,7 +921,7 @@ beschliesst:
 
 **Pauschale für das Inkasso von Unterhaltsbeiträgen**
 
-<sup>1</sup> Die Pauschale pro Inkassofall beträgt 387 Franken.
+<sup>1</sup> Die Pauschale pro Inkassofall beträgt 397 Franken.
 
 <sup>2</sup> Als Inkassofall gilt die Tätigkeit gestützt auf Artikel 1 oder 1a des Gesetzes vom 6. Februar 1980 über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen[^34f-1] oder auf Artikel 37 SHG.
 
@@ -1003,7 +933,7 @@ beschliesst:
 
 **Pauschale für die Bevorschussung von Unterhaltsbeiträgen**
 
-<sup>1</sup> Die Pauschale pro Bevorschussungsfall beträgt 502 Franken.
+<sup>1</sup> Die Pauschale pro Bevorschussungsfall beträgt 516 Franken.
 
 <sup>2</sup> Als Bevorschussungsfall gilt die Bevorschussung von Unterhaltsbeiträgen gestützt auf Artikel 3 des Gesetzes über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen.
 
@@ -1216,6 +1146,16 @@ beschliesst:
 #### Art. T8-1
 
 <sup>1</sup> Die Sozialdienste setzen die Leistungen für Personen nach Artikel 46a Absatz 1 Buchstabe c SHG, die bereits vor Inkrafttreten der Änderung vom 7. Dezember 2022 wirtschaftliche Hilfe gestützt auf die Bestimmungen des SHG erhalten haben, aufgrund der neuen Vorschriften von Artikel 8 Absätze 4a und 4b bis spätestens 1. April 2023 neu fest.
+
+## T9 Übergangsbestimmung der Änderung vom 06.12.2023
+
+#### Art. T9-1
+
+<sup>1</sup> Die Sozialdienste setzen den Grundbedarf für den Lebensunterhalt für Personen, die bereits vor Inkrafttreten dieser Änderung wirtschaftliche Hilfe gestützt auf die Bestimmungen des SHG erhalten haben, aufgrund der in Artikel 8 geänderten Unterstützungsansätze bis spätestens 1. Mai 2024 neu fest und zahlen die Differenz zwischen dem neuen und dem alten Ansatz rückwirkend per 1. Januar 2024 an die berechtigte Person nach.
+
+<sup>2</sup> Absatz 1 gilt sinngemäss für regionale Partner, soweit sie aufgrund von Artikel 27 Absatz 2 des Gesetzes vom 3. Dezember 2019 über die Sozialhilfe im Asyl- und Flüchtlingsbereich (SAFG)[^T91-1] die in dieser Verordnung festgelegten Unterstützungsansätze anwenden.
+
+[^T91-1]: BSG [861.1](https://www.belex.sites.be.ch/data/861.1/de)
 
 Bern, 24. Oktober 2001
 

@@ -4,13 +4,13 @@ number: "860.111"
 title: "Ordonnance sur l'aide sociale"
 short: OASoc
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-08-23
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-16
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2862/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2990/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2862/pdf_file"
 
 (OASoc)
 
-du 24.10.2001 (état au 01.01.2023)
+du 24.10.2001 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -188,66 +188,67 @@ arrête:
 
 <sup>2</sup> Le forfait pour l’entretien est fixé comme suit par mois, selon la taille du ménage, sous réserve des alinéas 3 à 5:
 
-- a une personne — CHF 977
-- b deux personnes — CHF 1495
-- c trois personnes — CHF 1818
-- d quatre personnes — CHF 2090
-- e cinq personnes — CHF 2364
-- f par personne supplémentaire — + CHF 200
+- a une personne — CHF 1006
+- b deux personnes — CHF 1539
+- c trois personnes — CHF 1871
+- d quatre personnes — CHF 2153
+- e cinq personnes — CHF 2435
+- f par personne supplémentaire — + CHF 204
 
 <sup>3</sup> Le forfait pour l’entretien en faveur des jeunes adultes est calculé comme suit par mois, en fonction du type de ménage:
 
 - a quote-part du forfait pour l’entretien pour les jeunes adultes vivant chez leurs parents ou dans une autre communauté de type familial, le montant total pour le ménage étant divisé par le nombre de personnes qui y cohabitent;
-- b forfait de 748 francs pour les jeunes adultes vivant en colocation;
-- c forfait de 782 francs pour les jeunes adultes tenant leur propre ménage pour de justes motifs;
+- b forfait de 770 francs pour les jeunes adultes vivant en colocation;
+- c forfait de 805 francs pour les jeunes adultes tenant leur propre ménage pour de justes motifs;
 - d forfait selon l’alinéa 2 pour les jeunes adultes tenant leur propre ménage lorsque ces personnes
   - 1 suivent une formation ou participent à une mesure visant l’insertion sur le marché du travail,
   - 2 exercent une activité lucrative appropriée ou
   - 3 s’occupent de leurs enfants;
-- e forfait de 748 francs pour les jeunes adultes tenant leur propre ménage mais ne remplissant pas les conditions énoncées aux lettres c et d.
+- e forfait de 770 francs pour les jeunes adultes tenant leur propre ménage mais ne remplissant pas les conditions énoncées aux lettres c et d.
 
 <sup>4</sup> Le forfait pour l’entretien en faveur des personnes visées à l’article 46a, alinéa 1, lettre c LASoc (personnes admises à titre provisoire) est fixé comme suit par mois, sous réserve de l’alinéa 4c, selon la taille du ménage, avant l’échéance de la période de dix ans suivant la décision d’admission provisoire:
 
-- a une personne — CHF 696
-- b deux personnes — CHF 1065
-- c trois personnes — CHF 1295
-- d quatre personnes — CHF 1489
-- e cinq personnes — CHF 1684
-- f six personnes — CHF 1825
-- g par personne supplémentaire — + CHF 141
+- a une personne — CHF 717
+- b deux personnes — CHF 1097
+- c trois personnes — CHF 1334
+- d quatre personnes — CHF 1534
+- e cinq personnes — CHF 1735
+- f six personnes — CHF 1880
+- g par personne supplémentaire — + CHF 145
 
 <sup>4a</sup> Le forfait pour l’entretien en faveur des personnes visées à l’article 46a, alinéa 1, lettre c LASoc (personnes admises à titre provisoire) est fixé comme suit par mois, sous réserve de l’alinéa 4b, selon la taille du ménage, après l'échéance de la période de dix ans suivant la décision d’admission provisoire:
 
-- a une personne — CHF 830
-- b deux personnes — CHF 1271
-- c trois personnes — CHF 1545
-- d quatre personnes — CHF 1777
-- e cinq personnes — CHF 2009
-- f six personnes — CHF 2179
-- g par personne supplémentaire — + CHF 170
+- a une personne — CHF 855
+- b deux personnes — CHF 1308
+- c trois personnes — CHF 1590
+- d quatre personnes — CHF 1830
+- e cinq personnes — CHF 2070
+- f six personnes — CHF 2243
+- g par personne supplémentaire — + CHF 173
 
 <sup>4b</sup> Le forfait pour l’entretien en faveur des jeunes adultes faisant partie des personnes visées à l’alinéa 4a est calculé comme suit par mois, en fonction du type de ménage:
 
 - a quote-part du forfait pour l’entretien selon l’alinéa 4a pour les jeunes adultes vivant chez leurs parents ou dans une autre communauté de type familial, le montant total pour le ménage étant divisé par le nombre de personnes qui y cohabitent;
-- b forfait de 730 francs pour les jeunes adultes vivant en colocation;
-- c forfait de 770 francs pour les jeunes adultes tenant leur propre ménage pour de justes motifs;
+- b forfait de 752 francs pour les jeunes adultes vivant en colocation;
+- c forfait de 793 francs pour les jeunes adultes tenant leur propre ménage pour de justes motifs;
 - d forfait selon l’alinéa 4a pour les jeunes adultes tenant leur propre ménage lorsque ces personnes
   - 1 suivent une formation ou participent à une mesure visant l’insertion sur le marché du travail,
   - 2 exercent une activité lucrative appropriée ou
   - 3 s’occupent de leurs enfants;
-- e forfait de 730 francs pour les jeunes adultes tenant leur propre ménage mais ne remplissant pas les conditions énoncées aux lettres c et d.
+- e forfait de 752 francs pour les jeunes adultes tenant leur propre ménage mais ne remplissant pas les conditions énoncées aux lettres c et d.
 
 <sup>4c</sup> Le forfait pour l’entretien en faveur des personnes mineures admises à titre provisoire est régi par l’alinéa 4a, indépendamment de la durée écoulée depuis la décision d’admission provisoire. Il est régi par l’alinéa 4b si ces personnes atteignent la majorité pendant qu’elles bénéficient du forfait pour l’entretien selon l’alinéa 4a.
 
 <sup>5</sup> Le forfait pour l’entretien en faveur des personnes visées à l’article 46a, alinéa 1, lettre a LASoc (personnes apatrides reconnues ou réfugiées) qui vivent dans un centre d’hébergement collectif est fixé comme suit par mois, indépendamment de l’âge, selon la taille de l’unité d’assistance:
 
-- a une personne — CHF 582
-- b deux personnes — CHF 891
-- c trois personnes — CHF 1082
-- d quatre personnes — CHF 1245
-- e cinq personnes — CHF 1408
-- f six personnes — CHF 1526
-- g par personne supplémentaire — + CHF 118
+- a une personne — CHF 599
+- b deux personnes — CHF 918
+- c trois personnes — CHF 1114
+- d quatre personnes — CHF 1282
+- e cinq personnes — CHF 1491
+- f six personnes — CHF 1685
+- g sept personnes — CHF 1852
+- h par personne supplémentaire — +CHF 134
 
 [^8-1]: [https://rl.skos.ch](https://rl.skos.ch)/
 
@@ -750,90 +751,19 @@ arrête:
 
 <sup>2</sup> Le rapport contient des indications sur le nombre d’enquêtes, leurs conclusions, leur durée et leurs coûts ainsi que sur les sanctions prononcées et précise le cas échéant les noms des tiers mandatés pour les réaliser.
 
-## 3 Aide sociale institutionnelle (art. 58 à 77 LASoc)
+## 3
 
-### 3.1 Fournisseurs de prestations
+### 3.1
 
 #### Art. 24
 
 **…**
 
-### 3.2 Rétribution des prestations
+### 3.2
 
-#### Art. 25
-
-**Octroi de contributions**
-
-<sup>1</sup> Les prestations institutionnelles convenues avec les fournisseurs dans le cadre d'un contrat ou d'un mandat de prestations sont rétribuées par le canton ou les communes sous forme de contributions.
-
-<sup>2</sup> L'octroi de ces contributions est régi par les dispositions de la loi du 16 septembre 1992 sur les subventions cantonales (LCSu)[^25-1] et par l'ordonnance du 23 mars 1994 sur les subventions cantonales (OCSu)[^25-2].
-
-[^25-1]: RSB 641.1
-[^25-2]: RSB 641.111
-
-#### Art. 25a–25d
+#### Art. 25–31
 
 **…**
-
-#### Art. 26
-
-**Autorisations de dépenses**
-
-<sup>1</sup> Les subventions cantonales de construction et d’investissement sont autorisées par le Conseil-exécutif.
-
-<sup>2</sup> La DSSI est habilitée à autoriser des subventions cantonales de construction et d’investissement dans les limites des compétences en matière d’autorisation de dépenses qui lui sont déléguées en vertu de l’article 152 de l’ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^26-1].
-
-<sup>3</sup> Les subventions cantonales d’exploitation sont autorisées par la DSSI.
-
-<sup>4</sup> Les contributions communales sont autorisées par l’organe communal compétent en matière d’autorisation de dépenses.
-
-[^26-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
-
-#### Art. 27
-
-**Montant des contributions**
-
-<sup>1</sup> Les contributions allouées aux fournisseurs de prestations sont essentiellement orientées sur les prestations. Elles sont si possible prospectives et calculées sur la base de coûts normatifs.
-
-<sup>2</sup> En l'absence de coûts normatifs, le montant des contributions peut être fixé sur la base des coûts d'exploitation et de construction effectifs.
-
-<sup>3</sup> La DSSI est habilitée à limiter uniformément les coûts imputables pour la fixation du montant des contributions et à déterminer des coûts plafonds d'entente avec la Direction des finances.
-
-#### Art. 28
-
-**Subsidiarité**
-
-<sup>1</sup> Les coûts d'exploitation et de construction sont pris en charge par le canton et les communes uniquement s'ils ne peuvent pas être couverts par d'autres sources.
-
-<sup>2</sup> Priment sur les contributions du canton et des communes
-
-- a les contributions et prestations de tiers, en particulier de la Confédération, d'autres cantons et des assureurs sociaux,
-- b les contributions et les taxes des bénéficiaires,
-- c les fonds propres des fournisseurs de prestations.
-
-<sup>3</sup> La DSSI est habilitée à édicter des prescriptions sur l'imputation des fonds propres d'entente avec la Direction des finances.
-
-#### Art. 29
-
-**Tarifs**
-
-<sup>1</sup> Les modalités d'application des tarifs sont réglées dans les contrats de prestations.
-
-<sup>2</sup> La DSSI est habilitée à édicter des prescriptions tarifaires.
-
-#### Art. 30
-
-**Comptabilité**
-
-<sup>1</sup> Les fournisseurs de prestations tiennent une comptabilité selon des prescriptions uniformes.
-
-<sup>2</sup> La DSSI est habilitée à édicter des prescriptions en conséquence.
-
-#### Art. 31
-
-**Essais-pilotes**
-
-<sup>1</sup> La DSSI ou, avec son autorisation, les communes peuvent expérimenter des formes particulières de rétribution des prestations dans le cadre d'essais ou de projets-pilotes.
 
 ## 3a
 
@@ -847,7 +777,7 @@ arrête:
 
 #### Art. 32
 
-<sup>1</sup> Les contributions cantonales allouées aux fournisseurs de prestations dans le domaine de l'aide sociale institutionnelle sont admises à la compensation des charges dans les limites des dispositions sur la rétribution des prestations de la présente ordonnance (art. 25ss).
+<sup>1</sup> …
 
 <sup>2</sup> Sont considérées comme dépenses admises à la compensation des charges pour d'autres mesures les dépenses consenties pour les organes de médiation au sens de l'article 21 LASoc[^32-1] et pour des mesures particulières au sens de l'article 73 LASoc.
 
@@ -950,7 +880,7 @@ arrête:
 
 **Forfait d'aide matérielle**
 
-<sup>1</sup> Le forfait par cas d'aide matérielle s'élève à 2386 francs.
+<sup>1</sup> Le forfait par cas d'aide matérielle s'élève à 2450 francs.
 
 <sup>2</sup> Est considérée comme cas d'aide matérielle l'unité d'assistance à laquelle est versée l'aide matérielle au cours de l'année civile.
 
@@ -971,7 +901,7 @@ arrête:
 
 **Forfait de consultation préventive**
 
-<sup>1</sup> Le forfait par cas de consultation préventive s'élève à 1193 francs.
+<sup>1</sup> Le forfait par cas de consultation préventive s'élève à 1225 francs.
 
 <sup>2</sup> Est considérée comme cas de consultation préventive l'assistance à une personne nécessitant de l'aide ou à une unité d'assistance dans un cas au moins, lorsque
 
@@ -987,7 +917,7 @@ arrête:
 
 **Forfait de recouvrement des contributions d'entretien**
 
-<sup>1</sup> Le forfait par cas de recouvrement s'élève à 387 francs.
+<sup>1</sup> Le forfait par cas de recouvrement s'élève à 397 francs.
 
 <sup>2</sup> Est considérée comme cas de recouvrement l'activité au sens de l'article 1 ou 1a de la loi du 6 février 1980 sur l’aide au recouvrement et les avances de contributions d’entretien[^34f-1] ou de l'article 37 LASoc.
 
@@ -999,7 +929,7 @@ arrête:
 
 **Forfait d'avance de contributions d'entretien**
 
-<sup>1</sup> Le forfait par cas d'avance de contribution d'entretien s'élève à 502 francs.
+<sup>1</sup> Le forfait par cas d'avance de contribution d'entretien s'élève à 516 francs.
 
 <sup>2</sup> Est considérée comme cas d'avance de contribution d'entretien l'avance faite au sens de l'article 3 de la loi sur l’aide au recouvrement et les avances de contributions d’entretien.
 
@@ -1210,6 +1140,16 @@ arrête:
 #### Art. T8-1
 
 <sup>1</sup> Les services sociaux redéfinissent d’ici le 1<sup>er</sup> avril 2023 au plus tard les prestations à verser selon les nouvelles dispositions de l’article 8, alinéas 4a et 4b aux personnes visées à l’article 46a, alinéa 1, lettre c LASoc qui, avant l’entrée en vigueur de la modification du 7 décembre 2022, percevaient déjà une aide matérielle en vertu de la LASoc.
+
+## T9 Disposition transitoire de la modification du 06.12.2023
+
+#### Art. T9-1
+
+<sup>1</sup> D’ici le 1<sup>er</sup> mai 2024 au plus tard, les services sociaux adaptent aux nouveaux montants fixés à l’article 8 les forfaits pour l’entretien à octroyer aux personnes qui, avant l’entrée en vigueur de la présente modification, percevaient déjà une aide matérielle en vertu de la LASoc; ils versent aux ayants droit la différence entre les nouveaux et les anciens forfaits rétroactivement au 1<sup>er</sup> janvier 2024.
+
+<sup>2</sup> L’alinéa 1 s’applique par analogie aux partenaires régionaux qui octroient des forfaits pour l’entretien selon la présente ordonnance en vertu de l’article 27, alinéa 2 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^T91-1].
+
+[^T91-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
 
 Berne, le 24 octobre 2001
 
