@@ -4,7 +4,7 @@ number: "173.01"
 title: "LOI du 12.12.1979 d'organisation judiciaire (LOJV)"
 short: LOJV
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72"
 ---
 
@@ -1030,7 +1030,7 @@ décrète
 
 <sup>1</sup> La Cour d'appel pénale statue sur :
 
-- a. les appels formés contre les jugements rendus par les tribunaux de première instance ;
+- a. les appels formés contre les jugements rendus par les tribunaux de première instance, contre les décisions judiciaires ultérieures indépendantes et contre les décisions de confiscation indépendantes.
 - b. les demandes de révision.
 
 <sup>2</sup> Les membres de l'autorité de recours ne peuvent pas statuer dans la même affaire comme membres de la juridiction d'appel.
