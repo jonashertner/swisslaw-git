@@ -3,18 +3,22 @@ sr: "611.015.3"
 title: Ordinanza del DFF del 18 dicembre 2015 concernente la Cassa di risparmio del personale federale (Ordinanza sulla CRPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/4"
 language: it
-version: 2016-04-01
+version: 2024-01-01
 adopted: 2015-12-18
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/4/20160401/it/xml/fedlex-data-admin-ch-eli-cc-2016-4-20160401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/4/20160401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/4/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-4-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/4/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFF concernente la Cassa di risparmio del personale federale
 
-del 18 dicembre 2015 (Stato 1° aprile 2016)
+(Ordinanza sulla CRPF)[^t-1]
+
+del 18 dicembre 2015 (Stato 1° gennaio 2024)
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFF del 9 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -135,9 +139,13 @@ Se una persona di cui al capoverso 1 dispone di un conto presso la CRPF e decede
 
 #### Art. 6
 
-**Costituzione della relazione di conto**
+**Costituzione della relazione di conto**[^6-1]
 
-La relazione di conto è costituita con l’accoglimento da parte della CRPF di una richiesta scritta di apertura di un conto.
+<sup>1</sup> La relazione di conto è costituita con l’approvazione da parte della CRPF della richiesta di apertura di un conto.
+
+<sup>2</sup> La richiesta deve essere presentata in forma elettronica o cartacea; occorre utilizzare il modulo della CRPF. L’identificazione del mittente e l’integrità della trasmissione devono essere garantite.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del DFF del 9 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 ## Sezione 3: Prestazioni di servizi
 
@@ -246,7 +254,7 @@ In caso di averi non rivendicati, la CRPF custodisce oltre il termine di conserv
 
 **Osservanza della legislazione in materia di riciclaggio di denaro**
 
-<sup>1</sup> Le disposizioni per gli intermediari finanziari secondo la legge del 10 ottobre 1997[^18-1] sul riciclaggio di denaro (LRD) e l’ordinanza FINMA del 3 giugno 2015[^18-2] sul riciclaggio di denaro (ORD-FINMA) si applicano per analogia anche alla CRPF.
+<sup>1</sup> Le disposizioni per gli intermediari finanziari secondo la legge del 10 ottobre 1997[^18-1] sul riciclaggio di denaro (LRD), l’ordinanza dell’11 novembre 2015[^18-2] sul riciclaggio di denaro e l’ordinanza FINMA del 3 giugno 2015[^18-3] sul riciclaggio di denaro si applicano per analogia anche alla CRPF.[^18-4]
 
 <sup>2</sup>
 
@@ -255,20 +263,26 @@ La CRPF è tenuta in particolare a:
 - a. identificare la controparte (art. 3 LRD);
 - b. accertare l’avente economicamente diritto (art. 4 LRD);
 - c. procedere nuovamente a un’identificazione o a un accertamento dell’avente economicamente diritto (art. 5 LRD);
-- d. procedere a chiarimenti particolari (art. 6 LRD);
+- d.[^18-5] adempiere gli obblighi di diligenza particolari (art. 6 LRD);
 - e. documentare le transazioni effettuate e i chiarimenti (art. 7 LRD);
-- f. prendere provvedimenti organizzativi (art. 8 LRD);
-- g effettuare comunicazioni all’Ufficio di comunicazione in materia di riciclaggio di denaro (art. 9 e 9*a* LRD); e
-- h. bloccare i valori patrimoniali (art. 10 e 10*a* LRD).
+- f. prendere provvedimenti organizzativi (art. 8 LRD); e
+- g.[^18-6] adempiere gli obblighi in caso di sospetto di riciclaggio di denaro (art. 9–10*a* LRD);
+- h.[^18-7] ...
 
-<sup>3</sup> Se la CRPF adempie gli obblighi di comunicazione secondo il capoverso 2 lettera g o blocca i valori patrimoniali secondo il capoverso 2 lettera h, si applica l’esclusione dalla responsabilità penale e civile ai sensi dell’articolo 11 LRD.
+<sup>3</sup> Se la CRPF adempie gli obblighi in caso di sospetto di riciclaggio di denaro secondo il capoverso 2 lettera g, si applica l’esclusione della responsabilità penale e civile ai sensi dell’articolo 11 LRD.[^18-8]
 
 <sup>4</sup> I titolari dei conti sono tenuti a collaborare all’adempimento degli obblighi di cui alla LRD.
 
 <sup>5</sup> La CRPF ha il diritto di sciogliere la relazione di conto se i titolari dei conti non assolvono il loro obbligo di collaborare, per quanto l’adempimento degli obblighi previsti dalla legislazione in materia di riciclaggio di denaro non si opponga allo scioglimento.
 
 [^18-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^18-2]: [RS 955.033.0](https://fedlex.data.admin.ch/eli/cc/2015/390)
+[^18-2]: [RS 955.01](https://fedlex.data.admin.ch/eli/cc/2015/791)
+[^18-3]: [RS 955.033.0](https://fedlex.data.admin.ch/eli/cc/2015/390)
+[^18-4]: Nuovo testo giusta il n. I dell’O del DFF del 9 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-5]: Nuovo testo giusta il n. I dell’O del DFF del 9 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-6]: Nuovo testo giusta il n. I dell’O del DFF del 9 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-7]: Abrogata dal n. I dell’O del DFF del 9 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-8]: Nuovo testo giusta il n. I dell’O del DFF del 9 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 #### Art. 19
 
@@ -297,9 +311,9 @@ I seguenti titolari dei conti hanno il diritto a mantenere la relazione di conto
 - a. i coniugi e i partner registrati che percepiscono una rendita per coniugi da una cassa di previdenza di un’unità organizzativa affiliata o da una cassa di previdenza chiusa di PUBLICA;
 - b. i conviventi che percepiscono una rendita per conviventi da una cassa di previdenza di un’unità organizzativa affiliata o da una cassa di previdenza chiusa di PUBLICA.
 
-<sup>3</sup> La CRPF estingue i conti privati entro un anno dall’entrata in vigore della presente ordinanza o li converte in conti di risparmio. Se non può estinguere o convertire un conto, al più tardi dopo un anno dall’entrata in vigore della presente ordinanza la CRPF non fornisce più prestazioni di servizi. Essa può mantenere il conto senza più rimunerarlo.
+<sup>3</sup> e <sup>4</sup> ... [^20-1]
 
-<sup>4</sup> La CRPF estingue i conti di persone che in virtù della sezione 2 non hanno diritto a una relazione di conto. Se non può estinguere un conto, al più tardi dal 1° ottobre 2016 la CRPF non fornisce più prestazioni di servizi. Essa può mantenere il conto senza più rimunerarlo.
+[^20-1]: Abrogati dal n. I dell’O del DFF del 9 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 #### Art. 21
 

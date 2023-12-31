@@ -3,18 +3,22 @@ sr: "611.015.3"
 title: Verordnung des EFD vom 18. Dezember 2015 über die Sparkasse Bundespersonal (SKB-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/4"
 language: de
-version: 2016-04-01
+version: 2024-01-01
 adopted: 2015-12-18
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/4/20160401/de/xml/fedlex-data-admin-ch-eli-cc-2016-4-20160401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/4/20160401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/4/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-4-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/4/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EFD über die Sparkasse Bundespersonal
 
-vom 18. Dezember 2015 (Stand am 1. April 2016)
+(SKB-Verordnung)[^t-1]
+
+vom 18. Dezember 2015 (Stand am 1. Januar 2024)
+
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 9. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -135,9 +139,13 @@ Verfügt eine Person nach Absatz 1 über ein Konto bei der SKB und verstirbt sie
 
 #### Art. 6
 
-**Entstehung der Kontobeziehung**
+**Entstehung der Kontobeziehung**[^6-1]
 
-Die Kontobeziehung entsteht mit Zustimmung der SKB zu einem schriftlichen Antrag auf Kontoeröffnung.
+<sup>1</sup> Die Kontobeziehung entsteht mit Zustimmung der SKB zu einem Antrag auf Kontoeröffnung.
+
+<sup>2</sup> Der Antrag ist elektronisch oder auf Papier einzureichen; es ist das Formular der SKB zu verwenden. Die Identifizierung der Absenderin oder des Absenders und die Integrität der Übermittlung müssen sichergestellt sein.
+
+[^6-1]: Fassung gemäss Ziff. I der V des EFD vom 9. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 ## 3. Abschnitt: Dienstleistungen
 
@@ -246,7 +254,7 @@ Im Fall von nachrichtenlosen Vermögenswerten bewahrt die SKB die Dokumente übe
 
 **Einhaltung der Geldwäschereigesetzgebung**
 
-<sup>1</sup> Die Bestimmungen für Finanzintermediäre nach dem Geldwäschereigesetz vom 10. Oktober 1997[^18-1] (GwG) und der Geldwäschereiverordnung der FINMA vom 3. Juni 2015[^18-2] (GwV-FINMA) gelten sinngemäss auch für die SKB.
+<sup>1</sup> Die Bestimmungen für Finanzintermediäre nach dem Geldwäschereigesetz vom 10. Oktober 1997[^18-1] (GwG), der Geldwäschereiverordnung vom 11. November 2015[^18-2] und der Geldwäschereiverordnung-FINMA vom 3. Juni 2015[^18-3] gelten sinngemäss auch für die SKB.[^18-4]
 
 <sup>2</sup>
 
@@ -255,20 +263,26 @@ Die SKB ist insbesondere verpflichtet:
 - a. die Vertragspartei zu identifizieren (Art. 3 GwG);
 - b. die wirtschaftlich berechtigte Person festzustellen (Art. 4 GwG);
 - c. eine erneute Identifizierung oder Feststellung der wirtschaftliche berechtigten Person vorzunehmen (Art. 5 GwG);
-- d. besondere Abklärungen vorzunehmen (Art. 6 GwG);
+- d.[^18-5] den besonderen Sorgfaltspflichten nachzukommen (Art. 6 GwG);
 - e. die getätigten Transaktionen und Abklärungen zu dokumentieren (Art. 7 GwG);
 - f. organisatorische Massnahmen zu treffen (Art. 8 GwG);
-- g. der Meldestelle für Geldwäscherei Meldung zu erstatten (Art. 9 und 9*a* GwG); und
-- h. die Vermögenswerte zu sperren (Art. 10 und 10*a* GwG).
+- g.[^18-6] den Pflichten bei Geldwäschereiverdacht nachzukommen (Art. 9–10*a* GwG);
+- h.[^18-7] …
 
-<sup>3</sup> Erfüllt die SKB die Meldepflichten nach Absatz 2 Buchstabe g oder sperrt sie Vermögenswerte nach Absatz 2 Buchstabe h, so gilt der Straf- und Haftungsausschluss nach Artikel 11 GwG.
+<sup>3</sup> Erfüllt die SKB die Pflichten bei Geldwäschereiverdacht nach Absatz 2 Buchstabe g, so gilt der Straf- und Haftungsausschluss nach Artikel 11 GwG.[^18-8]
 
 <sup>4</sup> Die Kontoinhaberinnen und Kontoinhaber sind verpflichtet, bei der Erfüllung der Pflichten nach dem Geldwäschereigesetz mitzuwirken.
 
 <sup>5</sup> Die SBK ist berechtigt, die Kontobeziehung aufzulösen, wenn die Kontoinhaberinnen und Kontoinhaber ihrer Mitwirkungspflicht nicht nachkommen, sofern die Erfüllung der geldwäschereirechtlichen Pflichten einer Auflösung nicht entgegenstehen.
 
 [^18-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^18-2]: [SR 955.033.0](https://fedlex.data.admin.ch/eli/cc/2015/390)
+[^18-2]: [SR 955.01](https://fedlex.data.admin.ch/eli/cc/2015/791)
+[^18-3]: [SR 955.033.0](https://fedlex.data.admin.ch/eli/cc/2015/390)
+[^18-4]: Fassung gemäss Ziff. I der V des EFD vom 9. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-5]: Fassung gemäss Ziff. I der V des EFD vom 9. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-6]: Fassung gemäss Ziff. I der V des EFD vom 9. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-7]: Aufgehoben durch Ziff. I der V des EFD vom 9. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-8]: Fassung gemäss Ziff. I der V des EFD vom 9. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 #### Art. 19
 
@@ -297,9 +311,9 @@ Folgende Kontoinhaberinnen und Kontoinhaber bleiben zur Weiterführung der Konto
 - a. Ehegattinnen und Ehegatten sowie eingetragene Partnerinnen und eingetragene Partner, die eine Ehegattenrente aus einem Vorsorgewerk einer angeschlossenen Organisationseinheit oder aus einem geschlossenen Vorsorgewerk von PUBLICA beziehen;
 - b. Lebenspartnerinnen und Lebenspartnern, die eine Lebenspartnerrente aus einem Vorsorgewerk einer angeschlossenen Organisationseinheit oder aus einem geschlossenen Vorsorgewerk von PUBLICA beziehen.
 
-<sup>3</sup> Die SKB löst Privatkonten innerhalb eines Jahres nach Inkrafttreten dieser Verordnung auf oder wandelt sie in ein Sparkonto um. Kann die SKB ein Konto nicht auflösen oder umwandeln, so erbringt sie spätestens ein Jahr nach Inkfrafttreten dieser Verordnung keine Dienstleistungen mehr. Sie kann das Konto zinslos stellen.
+<sup>3</sup> und <sup>4</sup> …[^20-1]
 
-<sup>4</sup> Die SKB löst Konten von Personen auf, die nach dem 2. Abschnitt nicht zur Kontobeziehung berechtigt sind. Kann die SKB ein Konto nicht auflösen, so erbringt sie spätestens ab dem 1. Oktober 2016 keine Dienstleistungen mehr. Sie kann das Konto zinslos stellen.
+[^20-1]: Aufgehoben durch Ziff. I der V des EFD vom 9. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 #### Art. 21
 

@@ -3,18 +3,22 @@ sr: "611.015.3"
 title: "Ordonnance du DFF du 18 décembre 2015 sur la Caisse d'épargne du personnel fédéral (Ordonnance sur la CEPF)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/4"
 language: fr
-version: 2016-04-01
+version: 2024-01-01
 adopted: 2015-12-18
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/4/20160401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-4-20160401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/4/20160401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/4/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-4-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/4/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFF sur la Caisse d’épargne du personnel fédéral
 
-du 18 décembre 2015 (Etat le 1<sup>er</sup> avril 2016)
+(Ordonnance sur la CEPF)[^t-1]
+
+du 18 décembre 2015 (État le 1<sup>er</sup> janvier 2024)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 9 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 Le Département fédéral des finances (DFF),
 
@@ -135,9 +139,13 @@ Lorsqu’une personne selon l’al. 1, détenant un compte auprès de la CEPF, d
 
 #### Art. 6
 
-**Naissance de la relation de compte**
+**Naissance de la relation de compte**[^6-1]
 
-La relation de compte naît dès l’approbation par la CEPF d’une demande écrite d’ouverture d’un compte.
+<sup>1</sup> La relation de compte naît dès l’approbation par la CEPF d’une demande d’ouverture d’un compte.
+
+<sup>2</sup> La demande doit être soumise par voie électronique ou sur papier; il faut utiliser le formulaire de la CEPF. L’identification de l’expéditeur et l’intégrité de la transmission doivent être garanties.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 9 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 ## Section 3 Prestations
 
@@ -246,7 +254,7 @@ En présence d’avoirs en déshérence, la CEPF conserve au-delà du délai lé
 
 **Respect de la législation sur le blanchiment d’argent**
 
-<sup>1</sup> Les dispositions applicables aux intermédiaires financiers en vertu de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^18-1] et de l’ordonnance de la FINMA du 3 juin 2015 sur le blanchiment d’argent (OBA-FINMA)[^18-2] s’appliquent par analogie à la CEPF.
+<sup>1</sup> Les dispositions applicables aux intermédiaires financiers en vertu de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^18-1], de l’ordonnance du 11 novembre 2015 sur le blanchiment d’argent[^18-2] et de l’ordonnance de la FINMA du 3 juin 2015 sur le blanchiment d’argent[^18-3] s’appliquent par analogie à la CEPF.[^18-4]
 
 <sup>2</sup>
 
@@ -255,20 +263,26 @@ La CEPF est tenue notamment:
 - a. de vérifier l’identité du cocontractant (art. 3 LBA);
 - b. d’identifier l’ayant droit économique (art. 4 LBA);
 - c. de procéder au renouvellement de la vérification de l’identité du cocontractant ou de l’identification de l’ayant droit économique (art. 5 LBA);
-- d. de procéder à des clarifications particulières (art. 6 LBA);
+- d.[^18-5] de remplir les obligations de diligence particulières (art. 6 LBA);
 - e. de documenter les transactions effectuées et les clarifications requises (art. 7 LBA);
 - f. de prendre des mesures organisationnelles (art. 8 LBA);
-- g. de faire les déclarations requises au Bureau de communication en matière de blanchiment d’argent (art. 9 et 9*a* LBA), et
-- h. de bloquer les avoirs si nécessaire (art. 10 et 10*a* LBA).
+- g.[^18-6] de remplir les obligations en cas de soupçon de blanchiment d’argent (art. 9 à 10*a* LBA);
+- h.[^18-7] …
 
-<sup>3</sup> Si la CEPF remplit les obligations de déclarer qui lui incombent au sens de l’al. 2, let. g, ou bloque les avoirs au sens de l’al. 2, let. h, l’exclusion de la responsabilité pénale et civile visée à l’art. 11 LBA s’applique à elle.
+<sup>3</sup> Si la CEPF remplit les obligations qui lui incombent en cas de soupçon de blanchiment d’argent en vertu de l’al. 2, let. g, l’exclusion de la responsabilité pénale et civile visée à l’art. 11 LBA s’applique à elle.[^18-8]
 
 <sup>4</sup> Le titulaire d’un compte est tenu de collaborer à l’accomplissement des obligations énoncées dans la loi sur le blanchiment d’argent.
 
 <sup>5</sup> Si le titulaire d’un compte ne satisfait pas à son obligation de collaborer, la CEPF est habilitée à résilier la relation de compte, pour autant que l’accomplissement des obligations découlant de la législation sur le blanchiment d’argent ne s’oppose pas à une telle résiliation.
 
 [^18-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^18-2]: [RS 955.033.0](https://fedlex.data.admin.ch/eli/cc/2015/390)
+[^18-2]: [RS 955.01](https://fedlex.data.admin.ch/eli/cc/2015/791)
+[^18-3]: [RS 955.033.0](https://fedlex.data.admin.ch/eli/cc/2015/390)
+[^18-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 9 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-5]: Nouvelle teneur selon le ch. I de l’O du DFF du 9 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-6]: Nouvelle teneur selon le ch. I de l’O du DFF du 9 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-7]: Abrogée par le ch. I de l’O du DFF du 9 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
+[^18-8]: Nouvelle teneur selon le ch. I de l’O du DFF du 9 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 #### Art. 19
 
@@ -297,9 +311,9 @@ Les titulaires d’un compte suivants ont le droit de maintenir leur relation de
 - a. les conjoints ainsi que les partenaires enregistrés qui perçoivent une rente de viduité d’une caisse de prévoyance d’une unité affiliée ou d’une caisse de prévoyance fermée de PUBLICA;
 - b. les partenaires qui perçoivent une rente de partenaire d’une caisse de prévoyance d’une unité affiliée ou d’une caisse de prévoyance fermée de PUBLICA.
 
-<sup>3</sup> La CEPF résilie les comptes privés dans les douze mois qui suivent l’entrée en vigueur de la présente ordonnance ou les convertit en comptes d’épargne. Si elle ne peut résilier ou convertir un compte, elle ne fournit plus aucune prestation au plus tard un an après l’entrée en vigueur de la présente ordonnance. Elle peut convertir le compte en compte non rémunéré.
+<sup>3</sup> et <sup>4</sup>…[^20-1]
 
-<sup>4</sup> La CEPF résilie les comptes de personnes non autorisées à détenir une relation de compte en vertu de la section 2. Si elle ne peut résilier un compte, elle ne fournit plus aucune prestation à compter du 1<sup>er</sup> octobre 2016 au plus tard. Elle peut convertir le compte en compte non rémunéré.
+[^20-1]: Abrogés par le ch. I de l’O du DFF du 9 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 664](https://fedlex.data.admin.ch/eli/oc/2023/664)).
 
 #### Art. 21
 
