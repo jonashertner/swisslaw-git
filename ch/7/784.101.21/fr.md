@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 26 mai 2016 sur les installations de télécomm
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20230101/fr"
 
 (OOIT)
 
-du 26 mai 2016 (État le 1<sup>er</sup> janvier 2023)
+du 26 mai 2016 (État le 1<sup>er</sup> janvier 2024)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -34,6 +34,14 @@ arrête:
 **Exigences essentielles additionnelles**
 
 Les exigences essentielles additionnelles applicables visées à l’art. 7, al. 3, OIT et les installations de radiocommunication concernées figurent à l’annexe 1.
+
+#### Art. 1a
+
+**Installations de radiocommunication compatibles avec un dispositif de charge universel et spécifications techniques y relatives**[^1a-1]
+
+Les installations de radiocommunication qui, en vertu de l’art. 7, al. 2<sup>bis</sup>, OIT, doivent être compatibles avec un dispositif de charge universel sont mentionnées à l’annexe 7, ch. 1, les spécifications relatives aux capacités de chargement à l’annexe 7, ch. 2.
+
+[^1a-1]: Introduit par le ch. I de l’O de l’OFCOM du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
 
 #### Art. 2
 
@@ -68,6 +76,18 @@ Pour une installation de radiocommunication portant la marque de conformité ét
 <sup>4</sup> Pour une installation de radiocommunication portant les deux marques de conformité, l’information doit être inscrite sous l’une des formes prévues à l’al. 3.
 
 [^2a-1]: Introduit par le ch. I de l’O de l’OFCOM du 21 nov. 2017, en vigueur depuis le 9 août 2018 ([RO 2017 7137](https://fedlex.data.admin.ch/eli/oc/2017/771)).
+
+#### Art. 2b
+
+**Informations relatives aux capacités de chargement et aux dispositifs de charge**[^2b-1]
+
+Pour les installations de radiocommunication visées à l’art. 7, al. 2<sup>bis</sup>, OIT, qui peuvent être chargées au moyen d’un câble, les informations suivantes doivent être inscrites:
+
+- a. les informations figurant à l’annexe 7, ch. 3, relatives aux capacités de chargement des installations de radiocommunication et aux dispositifs de charge compatibles visés à l’art. 19, al. 2, let. d, OIT: dans les consignes de sécurité;
+- b. l’information selon laquelle un dispositif de charge visé à l’art. 19, al. 2, let. d, OIT, est inclus: par un pictogramme figurant à l’annexe 7, ch. 4;
+- c. les informations relatives aux capacités de chargement et aux dispositifs de charge compatibles visés à l’art. 19, al. 2, let. d, OIT: par une étiquette figurant à l’annexe 7, ch. 5.
+
+[^2b-1]: Introduit par le ch. I de l’O de l’OFCOM du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
 
 #### Art. 3
 
@@ -157,11 +177,19 @@ Les téléphones portables possédant des capacités informatiques avancées et 
 
 #### Art. 10b
 
-**Disposition transitoire relative à la modification du 21 juillet 2022**[^10b-1]
+**[Disposition transitoire relative à la modification du 21 juillet 2022](https://www.fedlex.admin.ch/eli/cc/2016/307/de)**[^10b-1]
 
-Les installations de radiocommunication qui sont soumises aux exigences essentielles additionnelles de l’art. 7, al. 3, let. d à f, OIT en relation avec l’annexe 1, ch. 7 à 9, et qui ne respectent pas ces exigences peuvent être mises sur le marché jusqu’au 31 juillet 2024.
+Les installations de radiocommunication soumises aux exigences essentielles additionnelles visées à l’art. 7, al. 3, let. d à f, OIT, en relation avec l’annexe 1, ch. 7 à 9, mais qui ne les remplissent pas, peuvent être mises sur le marché jusqu’au 31 juillet 2025.
 
-[^10b-1]: Introduit par le ch. I de l’O de l’OFCOM du 21 juil. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
+[^10b-1]: Introduit par le ch. I de l’O de l’OFCOM du 21 juil. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)). Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
+
+#### Art. 10c
+
+**Disposition transitoire relative à la modification du 1<sup>er</sup> janvier 2024**[^10c-1]
+
+Les installations de radiocommunication soumises aux spécifications techniques définies à l’art. 7, al. 2<sup>bis</sup>, en relation avec l’annexe 7, ch. 1.1 à 1.12, mais qui ne les remplissent pas, peuvent être mises à disposition sur le marché jusqu’au 28 décembre 2024, les installations de radiocommunication visées au ch. 1.13 peuvent l’être jusqu’au 28 avril 2026.
+
+[^10c-1]: Introduit par le ch. I de l’O de l’OFCOM du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
 
 #### Art. 11
 
@@ -191,7 +219,7 @@ Annexe 1[^t-1]
 <tr><td>9</td><td>Installations de radiocommunication connectées à l’internet permettant de transférer de l’argent, de la valeur monétaire, voire une monnaie virtuelle telle que définie à l’art. 2, point d), de la directive (UE) 2019/713[^annex1-lvlu1-19] Font exception: – les dispositifs médicaux selon l’art. 2, point 1), du règlement (UE) 2017/745[^annex1-lvlu1-20] intégrant une installation de radiocommunication; – les dispositifs médicaux de diagnostic in vitro selon l’art. 2, point 2), du règlement (UE) 2017/746[^annex1-lvlu1-21] intégrant une installation de radiocommunication; – les installations de radiocommunication pour la sécurité aérienne selon le règlement (UE) 2018/1139[^annex1-lvlu1-22]; – les installations de radiocommunication dans des véhicules selon l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^annex1-lvlu1-23]; – les systèmes de télépéage routier intégrant une installation de radiocommunication selon l’art. 2, point 10), de la directive (UE) 2019/520[^annex1-lvlu1-24].</td><td>art. 7, al. 3, let. f, OIT</td><td>Règlement délégué (UE) 2022/30[^annex1-lvlu1-25]</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Le texte de l’accord peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consulté gratuitement à l’adresse Internet suivante: www.rainwat.bipt.be
+[^annex1-lvlu1-1]: Le texte de l’accord peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consulté gratuitement à l’adresse Internet suivante: [www.rainwat.bipt.be](https://www.bipt.be/operators/publication/rainwat-agreement)
 [^annex1-lvlu1-2]: 2000/637/CE: Décision de la Commission du 22 septembre 2000 relative à l’application de l’art. 3, par. 3, point e), de la directive 1999/5/CE aux équipements hertziens soumis à l’Accord régional relatif aux services radiotéléphoniques dans la navigation intérieure, version du JO L 269 du 21.10.2000, p. 50.
 [^annex1-lvlu1-3]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
 [^annex1-lvlu1-4]: 2013/638/UE: Décision de la Commission du 12 août 2013 concernant les exigences essentielles relatives aux équipements hertziens marins destinés à être utilisés à bord des navires non soumis à la convention SOLAS en vue de participer au système mondial de détresse et de sécurité en mer (SMDSM), version du JO L 296 du 7.11.2013, p. 22.
@@ -225,8 +253,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l’O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), le ch. II de l’O de l’OFCOM du 5 juil. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), le ch. I des O de l’OFCOM du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), du 21 mars 2022 ([RO 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)), le ch. II al. 2 de l’O de l’OFCOM du 21 juil. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)) et le ch. I de l’O de l’OFCOM du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 670](https://fedlex.data.admin.ch/eli/oc/2022/670)).
-[^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: www.ofcom.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour par le ch. I des O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), le ch. II al. 2 de l’O de l’OFCOM du 21 juil. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)), le ch. I des O de l’OFCOM du 8 nov. 2022 ([RO 2022 670](https://fedlex.data.admin.ch/eli/oc/2022/670)) et du 6 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 665](https://fedlex.data.admin.ch/eli/oc/2023/665)).
+[^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: [www.ofcom.ch](https://www.bakom.admin.ch/bakom/fr/page-daccueil/frequences-et-antennes/plan-national-d-attribution-des-frequences/prescriptions-techniques-d-interface.html) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Titre du document</th><th>Édition</th></tr>
@@ -236,18 +264,18 @@ Annexe 2[^t-2]
 <tr><td>RIR0103</td><td>Surveillance aéronautique</td><td>8</td></tr>
 <tr><td>RIR0104</td><td>Systèmes de détresse aéronautique</td><td>4</td></tr>
 <tr><td>RIR0105</td><td>Télémétrie/télécommandes aéronautiques</td><td>3</td></tr>
-<tr><td>RIR0201</td><td>Émetteurs de radiodiffusion terrestre</td><td>16</td></tr>
-<tr><td>RIR0203</td><td>Services pour la réalisation de programmes et d’événements spéciaux (PMSE)</td><td>22</td></tr>
+<tr><td>RIR0201</td><td>Émetteurs de radiodiffusion terrestre</td><td>17</td></tr>
+<tr><td>RIR0203</td><td>Services pour la réalisation de programmes et d’événements spéciaux (PMSE)</td><td>23</td></tr>
 <tr><td>RIR0301</td><td>Faisceaux hertziens point à multipoint</td><td>12</td></tr>
-<tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>30</td></tr>
-<tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>18</td></tr>
+<tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>31</td></tr>
+<tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>19</td></tr>
 <tr><td>RIR0503</td><td>Téléphones sans fil</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Équipements radio pour services d’urgence</td><td>11</td></tr>
 <tr><td>RIR0506</td><td>Installations de recherche de personnes (pager)</td><td>9</td></tr>
 <tr><td>RIR0507</td><td>Installations de radiocommunication PMR/PAMR</td><td>18</td></tr>
 <tr><td>RIR0510</td><td>Systèmes intelligents de transport (ITS)</td><td>7</td></tr>
 <tr><td>RIR0601</td><td>Terminaux pour le système global de détresse et de sûreté maritime</td><td>10</td></tr>
-<tr><td>RIR0603</td><td>Communication maritime</td><td>9</td></tr>
+<tr><td>RIR0603</td><td>Communication maritime</td><td>10</td></tr>
 <tr><td>RIR0604</td><td>Radionavigation maritime</td><td>11</td></tr>
 <tr><td>RIR0702</td><td>Sondes météorologiques</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Radars météorologiques</td><td>8</td></tr>
@@ -264,11 +292,11 @@ Annexe 2[^t-2]
 <tr><td>RIR1006</td><td>Applications sans fil dans le domaine de la santé</td><td>19</td></tr>
 <tr><td>RIR1007</td><td>Télécommandes de modèles réduits</td><td>9</td></tr>
 <tr><td>RIR1008</td><td>Applications à courte portée non spécifiques</td><td>22</td></tr>
-<tr><td>RIR1009</td><td>Microphones sans fil</td><td>25</td></tr>
+<tr><td>RIR1009</td><td>Microphones sans fil</td><td>26</td></tr>
 <tr><td>RIR1010</td><td>Systèmes de transmission de données à large bande</td><td>19</td></tr>
 <tr><td>RIR1011</td><td>Identification par fréquence radio (RFID)</td><td>12</td></tr>
 <tr><td>RIR1012</td><td>Télématique des transports et du trafic (TTT)</td><td>16</td></tr>
-<tr><td>RIR1013</td><td>Applications audio sans fil</td><td>16</td></tr>
+<tr><td>RIR1013</td><td>Applications audio sans fil</td><td>17</td></tr>
 <tr><td>RIR1021</td><td>Télécommande, transmission de données et télémétrie à puissance élevée</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Applications à bande ultra large (UWB)</td><td>11</td></tr>
 <tr><td>RIR1101</td><td>Équipements radioamateurs</td><td>14</td></tr>
@@ -295,7 +323,7 @@ Annexe 4[^t-3]
 
 ## Procédure d’homologation d’installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités
 
-[^t-3]: Mise à jour par le ch. I de l’O de l’OFCOM du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
+[^t-3]: Mise à jour par le ch. I de l’O de l’OFCOM du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)) et le ch. II al. 1 de l’O de l’OFCOM du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
 
 ### 1 Demande d’homologation
 
@@ -320,8 +348,21 @@ Annexe 4[^t-3]
 ### 4 Durée de l’homologation
 
 - 4\.1 En règle générale, l’homologation est accordée pour une durée indéterminée.
-- 4\.2 Elle prend fin notamment au décès de son titulaire ou, s’il s’agit d’une personne morale, à la dissolution de celle-ci.
-- 4\.3 L’OFCOM détermine si l’extinction d’une homologation a des effets sur les installations de radiocommunication qui sont déjà mises sur le marché.
+- 4\.2
+
+  Elle prend fin notamment:
+
+  - a. par révocation, en vertu du ch. 4*a*;
+  - b. à l’échéance de sa durée de validité, si celle-ci est limitée;
+  - c. au décès de son titulaire ou, s’il s’agit d’une personne morale, à la dissolution de celle-ci.
+
+- 4\.3 L’OFCOM détermine si l’extinction d’une homologation en vertu du ch. 4.2, let. a et c, a des effets sur les installations de radiocommunication qui ont déjà été mises sur le marché, sont mises en place ou exploitées. Dans son analyse, il tient dûment compte des risques ainsi que de la nécessité de protéger les investissements des autorités concernées.
+- **4***a* **Révocation de l’homologation**
+
+L’OFCOM peut révoquer l’homologation pour de justes motifs sans dédommagement, en tenant compte des risques et de la protection des investissements, notamment en cas de:
+
+- a. modification de la présente ordonnance ou des prescriptions techniques et administratives y relatives;
+- b. non-respect par le titulaire du certificat d’homologation de la présente ordonnance ou des conditions liées à l’homologation.
 
 ### 5 Numéro d’homologation
 
@@ -347,7 +388,7 @@ Annexe 5[^t-4]
 [^annex5-lvlu1-1]
 
 [^t-4]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour par le ch. I de l’O de l’OFCOM du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
-[^annex5-lvlu1-1]: Ces prescriptions techniques et administratives peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: www.ofcom.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Autres prescriptions.
+[^annex5-lvlu1-1]: Ces prescriptions techniques et administratives peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: [www.ofcom.ch](http://www.ofcom.ch) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Autres prescriptions.
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Titre du document</th><th>Édition</th></tr>
@@ -369,7 +410,7 @@ Annexe 6[^t-5]
 
 <sup>2</sup> Il contient le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image1.png)
 
 <sup>3</sup> Pour une installation de radiocommunication portant la marque suisse de con-formité selon l’annexe 1, ch. 1, OIT, il mentionne, en dessous ou à côté du symbole figurant à l’al. 2, l’abréviation de la Suisse (CH).
 
@@ -387,13 +428,80 @@ Annexe 6[^t-5]
 <sup>7</sup> Exemple, à caractère informatif:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Règlement d’exécution (UE) 2017/1354 de la Commission du 20 juillet 2017 précisant comment présenter les informations prévues à l’art. 10, par. 10, de la directive 2014/53/UE du Parlement européen et du Conseil, version du JO L 190 du 21.7.2017, p. 7.
+
+Annexe 7[^t-6]
+
+(art. 1*a* et 2*b*)
+
+## Installations de radiocommunication compatibles avec un dispositif de charge universel
+
+[^t-6]: Introduite par le ch. II al. 2 de l’O de l’OFCOM du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
+
+### 1 Installations de radiocommunication visées à l’art. 7, al. 2<sup>bis</sup>, OIT
+
+<table>
+<tr><th>N°.</th><th>Catégorie</th></tr>
+<tr><td>1.</td><td>Téléphones mobiles</td></tr>
+<tr><td>2.</td><td>Tablettes</td></tr>
+<tr><td>3.</td><td>Caméras numériques</td></tr>
+<tr><td>4.</td><td>Casques d’écoute</td></tr>
+<tr><td>5.</td><td>Casques-micros</td></tr>
+<tr><td>6.</td><td>Consoles de jeux vidéo portatives</td></tr>
+<tr><td>7.</td><td>Haut-parleurs portatifs</td></tr>
+<tr><td>8.</td><td>Liseuses numériques</td></tr>
+<tr><td>9.</td><td>Claviers</td></tr>
+<tr><td>10.</td><td>Souris</td></tr>
+<tr><td>11.</td><td>Systèmes de navigation portables</td></tr>
+<tr><td>12.</td><td>Écouteurs</td></tr>
+<tr><td>13.</td><td>Ordinateurs portables</td></tr>
+</table>
+
+### 2 Spécifications techniques relatives aux capacités de chargement
+
+<table>
+<tr><th>Ch.</th><th>Catégorie</th><th>Spécifications techniques applicables</th></tr>
+<tr><td>1.</td><td>Installations de radiocommunication qui peuvent être chargées au moyen d’un câble:</td><td>Les installations de radiocommunication doivent: – être équipées du connecteur USB Type-C, tel qu’il est décrit dans la norme EN IEC 62680-1-2: 2021, Interfaces de bus universel en série pour les données et l’alimentation électrique — Parties 1-3: Composants communs — Spécification des câbles et connecteurs USB Type-C®, qui doit rester accessible et opérationnel à tout moment; – pouvoir être chargées au moyen d’un câble conforme à la norme EN IEC 62680-1-3: 2021, Interfaces de bus universel en série pour les données et l’alimentation électrique – Parties 1–3: Composants communs – Spécification des câbles et connecteurs USB-Type-C®.</td></tr>
+<tr><td>2.</td><td>Installations de radiocommunication qui peuvent être chargées au moyen d’un câble à des tensions supérieures à 5 volts, à des courants supérieurs à 3 ampères ou à une puissance supérieure à 15 watts:</td><td>Les installations de radiocommunication doivent: – intégrer la technologie d’alimentation électrique par port USB «USB Power Delivery», telle qu’elle est décrite dans la norme EN IEC 62680 1 2: 2021, Interfaces de bus universel en série pour les données et l’alimentation électrique – Parties 1-2: Composants communs – Spécification de l’alimentation électrique par port USB; – être conçues de telle sorte que tout protocole de charge supplémentaire permet la pleine fonctionnalité de l’alimentation électrique par port USB «USB Power Delivery», quel que soit le dispositif de charge utilisé.</td></tr>
+</table>
+
+### 3 Informations relatives aux capacités de chargement et aux dispositifs de charge compatibles visés à l’art. 19, al. 2, let. d, OIT
+
+<table>
+<tr><th>Ch.</th><th>Catégorie</th><th>Informations relatives aux fonctions de chargement et aux dispositifs de charge compatibles</th></tr>
+<tr><td>1.</td><td>Pour les catégories qui relèvent du champ d’application de l’art. 7, al. 2<sup>bis</sup>, OIT et sont soumises aux exigences figurant à l’annexe 2, les informations suivantes doivent être fournies:</td><td>Une description des exigences en matière de puissance des dispositifs de charge pouvant être utilisés avec l’installation de radiocommunication en question, y compris la puissance minimale requise pour recharger l’installation de radiocommunication et la puissance maximale requise pour recharger les installations de radiocommunication à la vitesse de chargement maximale exprimée en watts, en affichant le texte suivant: «*La puissance fournie par le chargeur doit être entre, au minimum, [xx] Watts requis par l’équipement radioélectrique et, au maximum, [yy] Watts pour atteindre la vitesse de chargement maximale*». Le nombre de watts exprime respectivement la puissance minimale requise et la puissance requise pour atteindre la vitesse de chargement maximale.</td></tr>
+<tr><td>2.</td><td>Pour les installations de radiocommunication qui relèvent du champ d’application de l’art. 7, al. 2<sup>bis</sup>, OIT et sont soumises aux exigences figurant à l’annexe 7, ch. 2, les informations suivantes doivent être fournies:</td><td>Une description des spécifications relatives aux capacités de chargement, y compris l’indication que le protocole USB Power Delivery est pris en charge, au moyen de la mention *«**charge rapide par alimentation électrique par port USB»*, et une indication de tout autre protocole de charge au moyen de l’affichage du nom du protocole en question en format texte.</td></tr>
+</table>
+
+### 4 Pictogramme
+
+\1. Le pictogramme se présente dans le format suivant et avec le symbole suivant:
+
+- a. pour les installations de radiocommunication vendues avec un dispositif de charge:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image2.png)
+
+- b. pour les installations de radiocommunication vendues sans dispositif de charge:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image3.png)
+
+\2. Pour autant que le pictogramme reste visible et lisible, des variations, notamment au regard de sa couleur, de son aspect plein ou creux ou de l’épaisseur du trait, sont autorisées. En cas de réduction ou d’agrandissement, les proportions indiquées dans les graphismes figurant au ch. 1 doivent être maintenues. La dimension «a» doit être supérieure ou égale à 7 mm, quelle que soit la variation.
+
+### 5 Étiquetage
+
+\1. L’étiquetage se présente dans le format suivant et avec le symbole suivant:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image4.png)
+
+\2. Les lettres XX sont remplacées par le chiffre correspondant à la puissance minimale requise par l’installation de radiocommunication à charger, qui définit la puissance minimale qu’un dispositif de charge doit fournir pour charger l’installation de radiocommunication. Les lettres YY sont remplacées par le chiffre correspondant à la puissance maximale requise par l’installation de radiocommunication pour atteindre la vitesse de charge maximale, qui détermine la puissance qu’un dispositif de charge doit fournir au minimum pour atteindre cette vitesse de chargement maximale. L’abréviation USB PD (USB Power Delivery) est affichée si l’installation est compatible avec ce protocole de communication pour la charge rapide.
+
+\3. Pour autant que l’étiquette reste visible et lisible, des variations, notamment au regard de sa couleur, de son aspect plein ou creux ou de l’épaisseur du trait, sont autorisées. En cas de réduction ou d’agrandissement de l’étiquette, les proportions indiquées dans le graphisme figurant au ch. 1 doivent être maintenues. La dimension «a» doit être supérieure ou égale à 7 mm, quelle que soit la variation.
