@@ -4,24 +4,24 @@ number: "869.710"
 title: Verordnung über die Behindertenhilfe
 short: BHV
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-12-04
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2016-11-29
 in_force: 2017-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/869.710"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5474/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6088/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Behindertenhilfe
 
-Behindertenhilfe: Verordnung | Heime / Alterswohnungen / Behindertenhilfe
+Heime / Alterswohnungen / Behindertenhilfe
 
 (BHV)
 
-Vom 29. November 2016 (Stand 1. Januar 2019)
+Vom 29. November 2016 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -80,11 +80,12 @@ beschliesst:
 
 **Nicht personale Leistungen**
 
-<sup>1</sup> Als nicht personale in Institutionen gemäss dem Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG) vom 6. Oktober 2006 erbrachte Leistungen (IFEG-Leistungen) sind behinderungsbedingt notwendige personenunabhängige und personenabhängige Leistungen anrechenbar, insbesondere
+<sup>1</sup> Als nicht personale in Institutionen gemäss dem Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG) vom 6. Oktober 2006 erbrachte Leistungen (IFEG-Leistungen) sind behinderungsbedingt notwendige personenunabhängige und personenabhängige Leistungen anrechenbar, insbesondere:
 
 - a) Unterkunft und Infrastruktur inklusive Gebäude- und Verwaltungskosten;
-- b) Organisation und Administration für die Zurverfügungstellung der personalen und nicht personalen Leistungen; sowie
-- c) Verpflegung.
+- b) Organisation und Administration für die Zurverfügungstellung der personalen und nicht personalen Leistungen;
+- c) Verpflegung sowie
+- d) behinderungsbedingt notwendige Fahrten zu und von Werkstätten und Tagesstätten.
 
 <sup>2</sup> Als ambulante nicht personale Leistungen sind ausschliesslich Organisation und Administration für die Zurverfügungstellung der behinderungsbedingt notwendigen personalen Leistungen anrechenbar.
 
@@ -172,7 +173,7 @@ beschliesst:
 
 - a) bei der erstmaligen Inanspruchnahme von Leistungen in den Lebensbereichen Wohnen und Tagesstruktur, die innerhalb von anerkannten Institutionen gemäss IFEG erbracht werden, ausser wenn ausschliesslich Leistungen im Lebensbereich Tagesstruktur in Anspruch genommen werden wollen oder wenn der Standortkanton der Institution ein vergleichbares Bedarfsermittlungsverfahren für IBBplus kennt;
 - a<sup>bis</sup>) bei der nachträglichen Inanspruchnahme von Leistungen des Lebensbereichs Wohnen zusätzlich zu Leistungen des Lebensbereichs Tagesstruktur;
-- b) bei der Inanspruchnahme von Leistungen von ambulanten Leistungen, die in selbständigen Wohnformen durch in den Kantonen Basel-Stadt und Basel-Landschaft anerkannte Institutionen oder nicht institutionelle Anbietende erbracht werden und zwar bei der erstmaligen Inanspruchnahme sowie bei der Überprüfung des individuellen Bedarfs;
+- b) bei der Inanspruchnahme von ambulanten Leistungen, die in selbständigen Wohnformen durch in den Kantonen Basel-Stadt und Basel-Landschaft anerkannte Institutionen oder nicht institutionelle Anbietende erbracht werden und zwar bei der erstmaligen Inanspruchnahme sowie bei der Überprüfung des individuellen Bedarfs;
 - c) bei Zusatzbedarf bzw. Sonderbedarf.
 
 <sup>6</sup> Die individuelle Bedarfsermittlung erfolgt in folgenden Fällen mittels IBBplus:
@@ -279,7 +280,7 @@ beschliesst:
 
 **Bedarfsüberprüfung**
 
-<sup>1</sup> Die Überprüfung des Bedarfs richtet sich nach den Vorgaben der Bedarfsermittlung gemäss den §§ 12 und 13 dieser Verordnung. Sie erfolgt bei Bedarfsermittlungen gemäss IBBplus in der Regel jährlich und bei Bedarfsermittlungen gemäss IHP auf den Ablauf der Befristung des Hilfeplans hin, jedoch spätestens nach drei Jahren, bzw. bei Zusatzbedarf bzw. Sonderbedarf spätestens nach einem Jahr mittels IHP. Eine frühere Überprüfung mittels IHP ist auf begründeten Antrag der Person mit Behinderung möglich.
+<sup>1</sup> Die Überprüfung des Bedarfs richtet sich nach den Vorgaben der Bedarfsermittlung gemäss den §§ 12 und 13. Sie erfolgt bei Bedarfsermittlungen gemäss IBBplus in der Regel jährlich und bei Bedarfsermittlungen gemäss IHP auf den Ablauf der Befristung des Hilfeplans hin, jedoch spätestens nach drei Jahren. Eine frühere Überprüfung mittels IHP ist auf begründeten Antrag der Person mit Behinderung möglich.
 
 <sup>2</sup> Die Institution gemäss IFEG hat bei Neueintritten, die gemäss § 9 dieser Verordnung von einer IHP-Bedarfsstufe in eine IBB-Bedarfsstufe umgerechnet wurden, eine Bedarfsüberprüfung gemäss IBBplus vorzunehmen, falls die Umrechnung gemäss § 9 dieser Verordnung die Realität nicht ausreichend wiedergibt.
 
@@ -319,9 +320,11 @@ beschliesst:
 
 **Festlegung der Normkosten für personale IFEG-Leistungen**
 
-<sup>1</sup> Der Regierungsrat legt für personale Leistungen in den Bereichen Wohnen, Tagesgestaltung und Arbeit gemäss IFEG auf der Basis von Kosten-, Leistungs- und Bedarfsdaten die Normkosten jährlich in Form von Taxpunkten (TaxpunktNorm) fest.
+<sup>1</sup> Für personale Leistungen in den Bereichen Wohnen, Tagesgestaltung und Arbeit gemäss IFEG legt der Regierungsrat auf der Basis von Kosten-, Leistungs- und Bedarfsdaten die Normkosten alle vier Jahre, erstmals auf den 1. Januar 2025, in Form von Normtaxpunkten (TaxpunktNorm) fest.
 
 <sup>2</sup> Der Regierungsrat berücksichtigt bei der Festlegung des Taxpunktwertes die Ist-Kosten und den Betreuungsbedarf in den beiden Kantonen Basel-Stadt und Basel-Landschaft pro Leistungsbereich sowie insbesondere die regulatorischen und finanzpolitischen Rahmenbedingungen als auch die Preis- und Lohnentwicklungen der für die Behindertenhilfe kostenrelevanten Faktoren. Er kann zudem die IBB-Vergleichswerte anderer Kantone berücksichtigen.
+
+<sup>3</sup> Während der vierjährigen Geltungsdauer der Normtaxpunkte wird jährlich ein automatischer Teuerungsausgleich gewährt. Dieser beruht auf der Entwicklung des Basler Index der Konsumentenpreise der Jahresteuerung zum Juni (Juni-Index) des Vorjahres. Weist der Juni-Index eine negative Entwicklung aus, findet keine Anpassung des Teuerungsausgleiches statt. Dieser erfolgt erst wieder, wenn der kumulierte Wert positiv ist.
 
 #### § 22
 
@@ -369,11 +372,13 @@ beschliesst:
 
 **Festlegung der Normkosten für nicht personale IFEG-Leistungen**
 
-<sup>1</sup> Der Regierungsrat legt für nicht personale IFEG-Leistungen in den Bereichen Wohnen, Tagesgestaltung und Arbeit die jeweiligen Normkosten fest (ObjektkostenNorm).
+<sup>1</sup> Für nicht personale Leistungen in den Bereichen Wohnen, Tagesgestaltung und Arbeit gemäss IFEG legt der Regierungsrat auf der Basis von Kosten-, Leistungs- und Bedarfsdaten die Normkosten alle vier Jahre, erstmals auf den 1. Januar 2025, in Form von Normtaxpunkten (ObjektkostenNorm) fest.
 
 <sup>2</sup> Der Regierungsrat berücksichtigt bei der Festlegung der Objektnormkosten die Ist-Kosten und die Leistungsmenge in den beiden Kantonen Basel-Stadt und Basel-Landschaft pro Leistungsbereich des Vorjahres sowie insbesondere die regulatorischen und finanzpolitischen Rahmenbedingungen als auch die Preisentwicklungen der für die Leistungserbringung relevanten Faktoren. Er kann zudem die IBB-Vergleichswerte anderer Kantone berücksichtigen.
 
 <sup>3</sup> Der Regierungsrat kann für Gruppen von Institutionen mit ähnlicher Angebotsstruktur unterschiedliche Normkosten definieren.
+
+<sup>4</sup> Der Teuerungsausgleich richtet sich nach § 21 Abs. 3.
 
 #### § 25
 
@@ -421,32 +426,11 @@ beschliesst:
 
 #### § 28
 
-**Festlegung der Normkosten für ambulante personale Leistungen**
-
-<sup>1</sup> Der Regierungsrat legt für ambulante personale Leistungen die Normkosten pro anrechenbare (direkte) Begleitstunde in Form eines Referenzansatzes für die Fachleistungsstunde im Bereich Wohnen am Tag bei institutionellen Leistungserbringenden fest.
-
-<sup>2</sup> Die Stundenansätze für die anderen Leistungstypen institutioneller ambulanter personaler Leistungen ergeben sich durch Multiplikation des Stundenansatzes gemäss Abs. 1 mit den Faktoren aus der nachfolgenden Tabelle:
-
-<table>
-<tr><th>Leistungskategorie</th><th>Anrechnungsfaktor</th></tr>
-<tr><td>Fachleistungsstunde institutionell Wohnen am Tag</td><td>1</td></tr>
-<tr><td>Fachleistungsstunde institutionell Wohnen in der Nacht</td><td>1,21</td></tr>
-<tr><td>Assistenzstunde institutionell Wohnen am Tag</td><td>0,56</td></tr>
-<tr><td>Assistenzstunde institutionell Wohnen in der Nacht</td><td>0,72</td></tr>
-<tr><td>Bereitschaftsdienst</td><td>0,01</td></tr>
-</table>
-
-<sup>3</sup> Für die Festlegung der Bedarfsstufe im Bereich Tagesstruktur kommen die Fachleistungsstunden institutionell Wohnen am Tag sowie die Assistenzstunde institutionell Wohnen am Tag zur Anwendung.
-
-<sup>4</sup> Die Stundenansätze für Assistenzleistungen für Wohnen am Tag und in der Nacht bei nicht institutionellem Leistungsbezug legt der Regierungsrat jährlich fest.
-
-<sup>5</sup> Leistungen zur Unterstützung des betreuenden familiären Umfelds werden als Pauschalen für Assistenz ausgerichtet.
+**…**
 
 #### § 29
 
-**Festlegung der Normkosten für ambulante nicht personale Leistungen**
-
-<sup>1</sup> Der Regierungsrat legt für ambulante, nicht personale Leistungen im institutionellen Bereich Normkosten pro Fachleistungsstunde je Bedarfsstufe fest.
+**…**
 
 ### 5. Festlegung der Kosten des Sonderbedarfs, des Zusatzbedarfs und des ausserkantonalen Leistungsbezugs
 
@@ -606,6 +590,8 @@ beschliesst:
 <sup>1</sup> Kann für eine Person mit Behinderung kein geeignetes Wohn- und Betreuungsangebot in einer anerkannten Institution gemäss §§ 27 und 30 BHG gefunden werden, kann das ASB eine inner- oder ausserkantonale Institution ausserhalb des IFEG für die Dauer des Aufenthaltes einer Person mit Behinderung anerkennen. Die Voraussetzungen von § 26 BHG gelten sinngemäss und werden periodisch überprüft.
 
 <sup>2</sup> Die Anerkennung erfolgt jeweils mit einer Kostenübernahmegarantie für die Dauer des Leistungsbezugs der Person mit Behinderung. Dabei können ausnahmsweise Normkosten für personale und nicht personale Leistungen über dem Mittelwert der institutionsspezifischen Normkosten für die bewilligte Bedarfsstufe berücksichtigt werden. In den ersten zwei Jahren nach dem Wirksamwerden dieser Verordnung entsprechen die Normkosten den Kosten im Jahr vor dem Wirksamwerden dieser Verordnung.
+
+<sup>3</sup> Die Anerkennung im Einzelfall kann auch für ambulante Angebote gesprochen werden.
 
 ## VI. Bedarfsplanung
 
