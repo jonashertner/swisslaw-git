@@ -4,13 +4,12 @@ number: "173.1"
 title: "Loi sur l'organisation de la Justice"
 short: LOJ
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-03-11
+version: 2024-01-01
+version_adopted: 2023-09-07
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3121/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3260/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3121/pdf_file"
 
 (LOJ)
 
-du 11.02.2009 (état 01.01.2023)
+du 11.02.2009 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -136,7 +135,7 @@ ordonne:
 - a) le Tribunal cantonal;
 - b) les commissions spéciales de recours.
 
-<sup>2</sup> La justice en matière d'assurances sociales est exercée par le Tribunal cantonal. Si une cour du Tribunal cantonal a été saisie comme juridiction de première instance dans une matière qui ne relève pas de l'article 86 alinéa 2 de la loi fédérale sur le Tribunal fédéral, un recours peut être formé, selon les règles de la procédure administrative, auprès d'une autre cour du Tribunal cantonal.
+<sup>2</sup> La justice en matière fiscale et d'assurances sociales est exercée par le Tribunal cantonal. Si une cour du Tribunal cantonal a été saisie comme juridiction de première instance dans une matière qui ne relève pas de l'article 86 alinéa 2 de la loi fédérale sur le Tribunal fédéral, un recours peut être formé, selon les règles de la procédure administrative, auprès d'une autre cour du Tribunal cantonal.
 
 ### 2.2 Autorités judiciaires
 
@@ -269,7 +268,7 @@ ordonne:
 
 <sup>4</sup> Un greffier peut suppléer un juge de district, un juge des mineurs, un juge des mesures de contrainte et un juge de l'application des peines et mesures. Il ne peut toutefois siéger au tribunal d'arrondissement avec le juge dont il est le greffier.
 
-<sup>5</sup> Les obligations des greffiers sont définies par la présente loi et ses dispositions d'exécution, dans les lois de procédure ainsi que dans les autres dispositions du droit judiciaire. Toutefois, et sous réserve du droit fédéral, la tenue du procès-verbal des séances d'instruction doit, en règle générale, être assumée par le personnel administratif sous la responsabilité du président du tribunal. Exceptionnellement, il peut être fait usage de moyens techniques d'enregistrement et de reproduction, selon règlement à édicter par le Tribunal cantonal.
+<sup>5</sup> Les obligations des greffiers sont définies par la présente loi et ses dispositions d'exécution, dans les lois de procédure ainsi que dans les autres dispositions du droit judiciaire. Toutefois, et sous réserve du droit fédéral, la tenue du procès-verbal des séances d'instruction doit, en règle générale, être assumée par le personnel administratif sous la responsabilité du président du tribunal. Il peut être fait usage de moyens techniques d'enregistrement et de reproduction, selon règlement à édicter par le Tribunal cantonal.
 
 #### Art. 18
 
@@ -287,7 +286,9 @@ ordonne:
 
 **Autorité collégiale**
 
-<sup>1</sup> Pour l'administration de la justice, et sous réserve de l'article 20 de la présente loi, le Tribunal cantonal est composé de cours civiles, pénales, de droit public, des assurances sociales, et de sections ou chambres. Le nombre de juges par cour, section ou chambre ainsi que leurs attributions sont fixés dans le règlement d'organisation des tribunaux valaisans ou dans la législation spéciale.
+<sup>1</sup> Pour l'administration de la justice, et sous réserve de l'article 20 de la présente loi, le Tribunal cantonal est composé de cours civiles, pénales, de droit public, de droit fiscal, des assurances sociales, et de sections ou chambres. Le nombre de juges par cour, section ou chambre ainsi que leurs attributions sont fixés dans le règlement d'organisation des tribunaux valaisans ou dans la législation spéciale.
+
+<sup>1<sup>bis</sup></sup> Sous réserve de l'art. 65 al. 3bis LPJA, deux juges de la Cour de droit fiscal du Tribunal cantonal délibèrent et décident avec un juge assesseur dans les cas de droit fiscal. Le président fixe la composition du tribunal pour chaque affaire.
 
 <sup>2</sup> Dans tous les cas où la loi n'exige pas expressément des délibérations orales, les causes peuvent être jugées par voie de circulation sur la base du rapport et du dossier, sauf si un juge demande la délibération. Les décisions par voie de circulation ne peuvent être prises qu'à l'unanimité. Chacun des juges doit apposer sa signature sur le rapport.
 
@@ -320,6 +321,12 @@ ordonne:
 - a) le recours, adressé au Conseil d'Etat, est régi, selon la matière entrant en considération, par les règles de la procédure civile, pénale ou administrative;
 - b) le Conseil d'Etat procède à la désignation d'un second tribunal extraordinaire en appliquant l'alinéa 2 par analogie.
 
+#### Art. 21a
+
+**Levée du secret de fonction**
+
+<sup>1</sup> Le président du Tribunal cantonal délie du secret de fonction les juges de commune, les juges et les juges suppléants de première instance et les autorise à déposer en justice.
+
 #### Art. 22
 
 **Tribunal supérieur - Cas particuliers**
@@ -335,13 +342,17 @@ ordonne:
 
 **Ministère public indépendant, hiérarchisé et décentralisé**
 
-<sup>1</sup> Il est institué pour l'ensemble du canton un ministère public indépendant dans l'application du droit.
+<sup>1</sup> Il est institué pour l'ensemble du canton un ministère public indépendant dans l'application du droit comprenant un office central, dont le siège est à Sion, et un office régional par arrondissement judiciaire, dont le siège est respectivement à Brigue-Glis, Sion et St-Maurice.
 
-<sup>2</sup> Le ministère public cantonal comprend un office central dont le siège est à Sion, et trois offices régionaux dont le siège est respectivement à Brigue-Glis, Sion et St-Maurice.
+<sup>2</sup> Sous réserve des compétences du bureau du ministère public, le procureur général dirige l'activité du ministère public et veille à la bonne marche des offices.
 
-<sup>3</sup> L'office central est dirigé par le procureur général, assisté d'un procureur général adjoint; chaque office régional est dirigé par un premier procureur sous réserve des compétences du procureur général.
+<sup>2<sup>bis</sup></sup> En cas d'empêchement, le procureur général est suppléé dans ses fonctions et ses compétences par le procureur général adjoint ou, en cas d'empêchement de ce dernier, par un premier procureur, par ordre d'ancienneté, subsidiairement d'âge.
 
-<sup>4</sup> Le Grand Conseil élit et assermente le procureur général, le procureur général adjoint et les premiers procureurs, qui forment le bureau du ministère public.
+<sup>3</sup> L'office central est dirigé par le procureur général adjoint et chaque office régional par un premier procureur, sous réserve des compétences du procureur général.
+
+<sup>3<sup>bis</sup></sup> Le procureur général adjoint et les premiers procureurs désignent chacun parmi les procureurs de leur office un suppléant chargé de les remplacer en cas d'empêchement.
+
+<sup>4</sup> Le procureur général, le procureur général adjoint et les premiers procureurs forment le bureau du ministère public.
 
 <sup>5</sup> …
 
@@ -372,7 +383,8 @@ ordonne:
 - c) le nombre et le type d'affaires closes et d'affaires pendantes, et la charge de travail des différentes unités;
 - d) la durée de traitement des affaires;
 - e) l'utilisation des ressources humaines, des moyens financiers et de l'infrastructure;
-- f) le nombre et l'issue des recours déposés contre les ordonnances et les actes de procédure du ministère public.
+- f) le nombre et l'issue des recours déposés contre les ordonnances et les actes de procédure du ministère public;
+- g) la politique criminelle menée par le ministère public.
 
 <sup>2</sup> …
 
@@ -382,13 +394,16 @@ ordonne:
 
 **Organisation interne**
 
-<sup>1</sup> Sur proposition du procureur général et rapport du Conseil d'Etat, le Grand Conseil fixe, par voie de décision, le nombre de procureurs et de substituts.
+<sup>1</sup> Sur proposition du procureur général et rapport du Conseil d'Etat, le Grand Conseil fixe, par voie de décision, un nombre maximal d'unités juristes en arrêtant le nombre de procureurs, de substituts et de greffiers pour l'ensemble du ministère public.
 
 <sup>2</sup> Le bureau du ministère public:
 
-- a) nomme et assermente les procureurs et les substituts;
+- a) nomme et assermente les procureurs, les substituts et les greffiers;
 - b) nomme le personnel administratif;
-- c) décide de l'affectation des procureurs, des substituts et du personnel administratif dans les offices.
+- c) décide de l'affectation des procureurs, des substituts, des greffiers et du personnel administratif dans les offices;
+- d) délie du secret de fonction les procureurs et les substituts et les autorise à déposer en justice.
+
+<sup>2<sup>bis</sup></sup> Dans les limites du nombre maximal d'unités juristes et du budget, le bureau du ministère public peut réduire le nombre de greffiers et augmenter proportionnellement le nombre de procureurs et de substituts. Il décide ensuite de leur affectation conformément à l'alinéa 2 lettre c.
 
 <sup>3</sup> Les décisions du bureau du ministère public en matière d'organisation sont publiées dans le Bulletin officiel.
 
@@ -428,9 +443,9 @@ ordonne:
 
 #### Art. 28a
 
-**Nomination et assermentation des procureurs et des substituts**
+**Nomination et assermentation des procureurs, des substituts et des greffiers**
 
-<sup>1</sup> La procédure de nomination et d'assermentation des procureurs, des substituts et du procureur extraordinaire est fixée par le règlement du ministère public du canton du Valais.
+<sup>1</sup> La procédure de nomination et d'assermentation des procureurs, des substituts, des greffiers et du procureur extraordinaire est fixée par le règlement du ministère public du canton du Valais.
 
 #### Art. 29
 
@@ -444,7 +459,7 @@ ordonne:
 
 **Assermentation - Promesse solennelle**
 
-<sup>1</sup> Les membres des autorités judiciaires à assermenter, les membres du ministère public ainsi que les greffiers doivent prêter serment ou promettre solennellement de remplir leur fonction en toute conscience.
+<sup>1</sup> Les membres des autorités judiciaires et du ministère public ainsi que les greffiers doivent prêter serment ou promettre solennellement de remplir leur fonction en toute conscience.
 
 <sup>2</sup> S'ils entendent être assermentés, ils prêtent le serment suivant: "Je jure de remplir en toute conscience les fonctions qui me sont confiées, je le jure par le nom de Dieu comme je désire qu'il m'assiste à mon dernier jour."
 
@@ -460,7 +475,7 @@ ordonne:
 
 **Devoirs généraux des juges et des procureurs**
 
-<sup>1</sup> Les juges, les juges assesseurs et les procureurs:
+<sup>1</sup> Les juges, les juges assesseurs, les procureurs et les substituts:
 
 - a) sont indépendants et impartiaux;
 - b) exercent leur charge avec assiduité, diligence et rigueur;
@@ -468,13 +483,15 @@ ordonne:
 - d) sont tenus à un devoir de réserve;
 - e) tiennent à jour et perfectionnent leur connaissance du droit.
 
+<sup>2</sup> Le Conseil de la magistrature délie les juges cantonaux, les juges suppléants, les juges assesseurs et les membres du bureau du ministère public de leur secret de fonction et les autorise à déposer en justice.
+
 #### Art. 32
 
 **Surveillance**
 
 <sup>1</sup> Le Tribunal cantonal exerce la surveillance sur les greffiers et le personnel administratif. Il est compétent pour prononcer des mesures disciplinaires en première instance et sur recours, conformément au règlement d'organisation des tribunaux valaisans.
 
-<sup>2</sup> Le bureau du ministère public exerce la même surveillance sur le personnel administratif. Le Tribunal cantonal connaît des recours contre les décisions en matière disciplinaire prononcées à l'endroit du personnel administratif.
+<sup>2</sup> Le bureau du ministère public exerce la même surveillance sur les greffiers et le personnel administratif. Le Tribunal cantonal connaît des recours contre les décisions en matière disciplinaire prononcées à leur endroit.
 
 <sup>3</sup> Demeure réservé le contrôle interne sur les tribunaux et les offices du ministère public au sens de l'article 19 alinéa 4 de la loi sur le Conseil de la magistrature.
 
@@ -510,11 +527,11 @@ ordonne:
 
 #### Art. 34a
 
-**Liens d'intérêts**
+**Liens d'intérêts et affiliation à un parti politique**
 
-<sup>1</sup> En entrant en fonction et lors de toute modification, chaque magistrat de l'ordre judiciaire et du ministère public signale ses liens d'intérêts définis par règlement.
+<sup>1</sup> En entrant en fonction et lors de toute modification, chaque magistrat du pouvoir judiciaire et du ministère public signale ses liens d'intérêts définis par règlement ainsi que son affiliation à un parti politique.
 
-<sup>2</sup> Le secrétaire général des tribunaux valaisans établit un registre public des indications fournies par les magistrats de l'ordre judiciaire. Le procureur général en fait de même des indications fournies par les magistrats du ministère public. Ces registres sont publiés sur les sites officiels du pouvoir judiciaire et du ministère public.
+<sup>2</sup> Le secrétaire général des tribunaux valaisans établit un registre public des indications fournies par les magistrats du pouvoir judiciaire. Le secrétaire général du ministère public en fait de même des indications fournies par les magistrats du ministère public. Ces registres sont publiés sur les sites officiels du pouvoir judiciaire et du ministère public.
 
 #### Art. 35
 
@@ -526,13 +543,14 @@ ordonne:
 - b) contre un juge de première instance ou un juge de première instance suppléant: un autre juge de première instance ou un juge de première instance suppléant désigné par le président du Tribunal cantonal;
 - c) contre un juge cantonal: le président du Tribunal cantonal;
 - d) contre le président du Tribunal cantonal: le vice-président du Tribunal cantonal;
-- e) contre le président et le vice-président du Tribunal cantonal: le juge cantonal doyen de fonction qui n'est pas concerné par le motif de récusation.
+- e) contre le président et le vice-président du Tribunal cantonal: le juge cantonal doyen de fonction qui n'est pas concerné par le motif de récusation;
+- f) contre un juge assesseur: le président du Tribunal cantonal.
 
 <sup>2</sup> La décision de récusation concernant un juge de commune ou un juge de première instance est sujette à recours auprès du président du Tribunal cantonal qui statue, selon la matière entrant en considération, conformément aux règles de la procédure civile, de la procédure pénale ou de la procédure administrative.
 
 <sup>3</sup> Demeurent réservés:
 
-- a) l'article 59 du code de procédure pénale suisse lorsque la récusation est dirigée contre une autorité pénale;
+- a) …
 - b) l'article 21 alinéas 2 et 3 de la présente loi lorsque la récusation est dirigée contre tous les membres du Tribunal cantonal;
 - c) l'article 22 de la présente loi lorsque le recours est dirigé contre la décision de récusation concernant un juge cantonal, le président ou le vice-président du Tribunal cantonal.
 
@@ -544,11 +562,11 @@ ordonne:
 
 **Secrétariat**
 
-<sup>1</sup> Le Tribunal cantonal dispose d'un secrétariat général qui lui apporte un appui administratif général, notamment en matière de personnel, de locaux, d'équipements, d'informatique, de comptabilité et de préparation du budget.
+<sup>1</sup> Le Tribunal cantonal et le ministère public disposent chacun d'un secrétariat général qui leur apporte un appui administratif général, notamment en matière de personnel, de locaux, d'équipements, d'informatique, de comptabilité et de préparation du budget.
 
-<sup>2</sup> Le Tribunal cantonal arrête dans un règlement l'organisation du secrétariat général et ses compétences.
+<sup>2</sup> Le Tribunal cantonal et le procureur général arrêtent dans un règlement l'organisation de leur secrétariat général et leurs compétences.
 
-<sup>3</sup> Le ministère public dispose de son propre secrétariat.
+<sup>3</sup> …
 
 #### Art. 37
 
@@ -587,7 +605,7 @@ ordonne:
 
 <sup>3</sup> Le Tribunal cantonal arrête dans un règlement les relations entre les tribunaux et les médias ainsi que la mise en œuvre du présent article.
 
-<sup>4</sup> Le ministère public arrête dans un règlement ses relations avec les médias.
+<sup>4</sup> Le procureur général arrête dans un règlement les relations du ministère public avec les médias.
 
 #### Art. 39
 
@@ -607,19 +625,19 @@ ordonne:
 
 **Personnel administratif**
 
-<sup>1</sup> Le personnel administratif des tribunaux est nommé par le Tribunal cantonal; celui du ministère public par son bureau. Le personnel administratif est soumis à la législation sur le personnel de l'Etat. Les juges de district, les juges des mineurs, les juges du tribunal des mesures de contrainte et de l'application des peines et mesures ainsi que les premiers procureurs proposent le personnel à nommer pour leur siège.
+<sup>1</sup> Le personnel administratif des tribunaux est nommé par le Tribunal cantonal; celui du ministère public par son bureau. Le personnel administratif est soumis à la législation sur le personnel de l'Etat. Les juges de district, les juges des mineurs, les juges du tribunal des mesures de contrainte et de l'application des peines et mesures, le procureur général adjoint ainsi que les premiers procureurs proposent le personnel à nommer pour leur siège.
 
-<sup>2</sup> Dans le cadre du budget, le Tribunal cantonal peut transformer un poste de l'organigramme attribué au personnel administratif en un poste de greffier ou de juge de première instance. De la même façon, le bureau du ministère public peut transformer un poste de l'organigramme attribué au personnel administratif en un poste de procureur ou de substitut.
+<sup>2</sup> Dans le cadre du budget, le Tribunal cantonal peut transformer un poste de l'organigramme attribué au personnel administratif en un poste de greffier ou de juge de première instance. De la même façon, le bureau du ministère public peut transformer un poste de l'organigramme attribué au personnel administratif en un poste de procureur, de substitut ou de greffier.
 
 #### Art. 42
 
 **Huissiers**
 
-<sup>1</sup> Le Tribunal cantonal, le ministère public, les tribunaux d'arrondissement et les juges de première instance peuvent être assistés par un ou plusieurs huissiers nommés pour la durée de la législature et assermentés par ces autorités.
+<sup>1</sup> Le Tribunal cantonal, le ministère public, les tribunaux d'arrondissement et les juges de première instance peuvent être assistés par un ou plusieurs huissiers nommés pour la durée de la législature par ces autorités.
 
-<sup>2</sup> Le procès-verbal fait mention de la nomination et de l'assermentation.
+<sup>2</sup> …
 
-<sup>3</sup> Les nominations des huissiers sont rendues publiques par la voie du Bulletin officiel.
+<sup>3</sup> …
 
 <sup>4</sup> Sauf disposition contraire, la législation sur le personnel de l'Etat s'applique par analogie.
 
@@ -635,13 +653,15 @@ ordonne:
 
 <sup>1</sup> Le Tribunal cantonal fixe, par voie de règlement, l'organisation et la tenue des archives judiciaires.
 
-<sup>2</sup> Le bureau du ministère public fixe, par voie de règlement, l'organisation et la tenue des archives du ministère public.
+<sup>2</sup> Le procureur général fixe, par voie de règlement, l'organisation et la tenue des archives du ministère public.
 
 #### Art. 45
 
-**Règlements du Tribunal cantonal et du bureau du ministère public**
+**Règlements du Tribunal cantonal, du ministère public et du bureau du ministère public**
 
 <sup>1</sup> Le Tribunal cantonal arrête, par voie de règlement, les dispositions relatives à son organisation interne, à celle des tribunaux de district, du tribunal des mineurs, du tribunal des mesures de contrainte et de l'application des peines et mesures.
+
+<sup>1<sup>bis</sup></sup> Le procureur général arrête, par voie de règlement et après consultation du bureau, les dispositions relatives à l'organisation interne du ministère public.
 
 <sup>2</sup> Le bureau du ministère public arrête, par voie de règlement, les dispositions relatives à son organisation interne.
 
