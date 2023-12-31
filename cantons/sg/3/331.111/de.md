@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2023-01-01
-corrected: 2023-01-31
-version_adopted: 2023-01-24
+version: 2024-01-01
+valid_until: 2024-09-30
+version_adopted: 2022-12-06
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3423/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.01.2023)
+vom 12.12.1995 (Stand 01.01.2024)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -246,7 +246,7 @@ als Verordnung:[^ingress-2]
 
 **2. quellenbesteuerte Personen**
 
-<sup>1</sup> Als massgebendes Einkommen gilt das der Quellensteuer zugrunde liegende definitive Brutto-Einkommen des vorletzten Jahres.
+<sup>1</sup> Als massgebendes Einkommen gilt das der Quellensteuer zugrunde liegende definitive Brutto-Einkommen des vorletzten Jahres zuzüglich des im vereinfachten Verfahren nach Art. 3 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005[^12bis-1] abgerechneten Bruttolohns des vorletzten Jahres.
 
 <sup>2</sup> Es werden sachgemäss angewendet:
 
@@ -258,13 +258,14 @@ als Verordnung:[^ingress-2]
 
 <sup>4</sup> Die Steuerbehörde stellt die für die Berechnung der Anspruchsberechtigung notwendigen Steuerdaten zur Verfügung.
 
-<sup>5</sup> Das für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ermittelte Einkommen wird in die Kaufkraft des Wohnlandes umgerechnet. Massgebend ist der Index nach Art. 1 der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island und in Norwegen[^12bis-1].
+<sup>5</sup> Das für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ermittelte Einkommen wird in die Kaufkraft des Wohnlandes umgerechnet. Massgebend ist der Index nach Art. 1 der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island und in Norwegen[^12bis-2].
 
 <sup>5<sup>bis</sup></sup> Bei einer nachträglichen Veränderung des massgebenden Einkommens nach Abs. 1 und 2 dieser Bestimmung führt die Sozialversicherungsanstalt die Neuberechnung der Prämienverbilligung auf Basis des veränderten Einkommens durch.
 
 <sup>6</sup> Bei nachträglich ordentlich veranlagten quellensteuerpflichtigen Personen wird das massgebende Einkommen nach Art. 12 Abs. 2 und 3 dieses Erlasses bestimmt.
 
-[^12bis-1]: SR [832.112.51](https://db.clex.ch/link/Bund/832.112.51/de).
+[^12bis-1]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de).
+[^12bis-2]: SR [832.112.51](https://db.clex.ch/link/Bund/832.112.51/de).
 
 #### Art. 12ter
 
@@ -422,7 +423,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> …
 
-<sup>1<sup>bis</sup></sup> Die Sozialversicherungsanstalt zahlt den Versicherern die Prämienverbilligung für ein Bezugsjahr am 30. Juni oder am darauffolgenden Werktag aus. Wird die Prämienverbilligung nach dem 30. Juni beantragt, erfolgt die Auszahlung für das laufende Bezugsjahr periodisch.
+<sup>1<sup>bis</sup></sup> Die Sozialversicherungsanstalt zahlt den Versicherern die Prämienverbilligung für ein Bezugsjahr am dritten Werktag des Monats Juli aus. Wird die Prämienverbilligung nach diesem Datum verfügt, erfolgt die Auszahlung für das laufende Bezugsjahr periodisch.
 
 <sup>2</sup> …
 
@@ -499,7 +500,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 35
 
-**Verwaltungskostenbeitrag b) Geltendmachung**
+**Verwaltungskostenbeitrag Kanton b) Geltendmachung**
 
 <sup>1</sup> Die Sozialversicherungsanstalt rechnet den Verwaltungskostenbeitrag nach Art. 3 Abs. 3 des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^35-1] bis 31. Januar des Jahres nach der Auszahlung der Prämienverbilligung mit dem Gesundheitsdepartement ab.
 
@@ -550,6 +551,18 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Der Anteil der politischen Gemeinden an der Forderung nach Art. 8h Abs. 3 Bst. b des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^38quater-1] wird nach der neuesten definitiven Statistik der ständigen Wohnbevölkerung per 31. Dezember berechnet.
 
 [^38quater-1]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
+
+#### Art. 38quinquies
+
+**Verwaltungskostenbeitrag politische Gemeinden**
+
+<sup>1</sup> Für den Verwaltungskostenbeitrag nach [Art. 3](https://www.gesetzessammlung.sg.ch/data/331.11/de/art3) Abs. 4 des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 12. Dezember 1995[^38quinquies-1] leistet die politische Gemeinde der Sozialversicherungsanstalt jeweils bis 31. Januar eine Akontozahlung in der Höhe der voraussichtlichen Verwaltungskosten gemäss Voranschlag der Sozialversicherungsanstalt.
+
+<sup>2</sup> Die Sozialversicherungsanstalt stellt der politischen Gemeinde den definitiven Verwaltungskostenbeitrag eines Jahres bis 31. Januar des Folgejahres in Rechnung.
+
+<sup>3</sup> Der Anteil der politischen Gemeinden am Verwaltungskostenbeitrag wird nach der neuesten definitiven Statistik der ständigen Wohnbevölkerung per 31. Dezember berechnet.
+
+[^38quinquies-1]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
 
 ## III. Schlussbestimmungen
 
