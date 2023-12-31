@@ -4,13 +4,12 @@ number: "413.141"
 title: Verordnung über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen
 short: RSV BM
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
+version: 2024-01-01
 version_adopted: 2023-05-09
 adopted: 2004-03-02
 in_force: 2004-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.141"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2688/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2689/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ RSV BM
 
 (RSV BM)
 
-vom 02.03.2004 (Stand 01.08.2023)
+vom 02.03.2004 (Stand 01.01.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -88,6 +87,8 @@ vom 02.03.2004 (Stand 01.08.2023)
 - 3\. einen Beschäftigungsgrad von in der Regel mindestens 50 %.
 
 <sup>2</sup> Das Amt entscheidet über die Anerkennung des Lehrdiploms sowie über Ausnahmen von Abs. 1.
+
+<sup>3</sup> Lehrpersonen an Brückenangeboten, die über ein Lehrdiplom der Sekundarstufe I oder höher verfügen, werden als Hauptlehrpersonen angestellt.
 
 #### § 5
 
@@ -711,11 +712,15 @@ vom 02.03.2004 (Stand 01.08.2023)
 
 #### § 58
 
-**Klassenlehrpersonen**
+**Anrechnungen**
 
-<sup>1</sup> Mittelschullehrpersonen mit Klassenlehrerfunktion wird eine Lektion an das Pensum angerechnet.
+<sup>1</sup> Mittelschullehrpersonen und Berufsfachschullehrpersonen mit Unterricht an der Berufsmaturitätsausbildung nach Abschluss der beruflichen Grundbildung (BM2) wird für die Funktion als Klassenlehrperson eine Lektion an das Pensum angerechnet.
 
-<sup>2</sup> Berufsschullehrpersonen mit Klassenlehrerfunktion für drei Klassen oder mit erweitertem Auftrag für fachkundige individuelle Begleitung (FiB) wird in der Regel eine Lektion an das Pensum angerechnet; das Departement erlässt ergänzende Richtlinien, insbesondere für die Anrechnung bei Klassen mit mehr als einem Schultag pro Woche. Klassenlehrpersonen an Brückenangeboten erhalten eine Anrechnung von drei Lektionen.
+<sup>2</sup> Berufsfachschullehrpersonen mit der Funktion als Klassenlehrperson wird eine halbe Lektion pro Klasse an das Pensum angerechnet.
+
+<sup>3</sup> Berufsfachschullehrpersonen mit einem erweiterten Auftrag für fachkundige individuelle Begleitung (FiB) wird eine Lektion pro Klasse an das Pensum angerechnet.
+
+<sup>4</sup> Klassenlehrpersonen an Brückenangeboten werden bei vollschulischen Angeboten drei Lektionen, bei Angeboten mit Praktika vier Lektionen an das Pensum angerechnet.
 
 #### § 59
 
