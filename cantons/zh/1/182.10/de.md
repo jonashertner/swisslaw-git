@@ -3,11 +3,11 @@ canton: ZH
 number: "182.10"
 title: Kirchenordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2023-01-01"
-nachtrag: "120"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2025-01-01
 adopted: 2009-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-123.html"
 text: pdf
 ---
 
@@ -31,19 +31,23 @@ beschliesst:
 
 Die römisch-katholischen Einwohnerinnen und Einwohner des Kantons Zürich geben sich, im Vertrauen auf Gott, in der Absicht, im Kanton Voraussetzungen für eine lebendige Kirche zum Wohl der Menschen zu schaffen, in Mitverantwortung für die Bedürfnisse der Kirche im Bistum und in der Schweiz sowie für die Weltkirche, im Willen, die je eigenen kirchlichen und staatskirchenrechtlichen Zuständigkeiten zu beachten und mit den kirchlichen Organen einvernehmlich zusammenzuarbeiten, im Rahmen des kirchlichen und des staatlichen Rechts, folgende Kirchenordnung:
 
-### I. Die Körperschaft
+[^hPräambel-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
-[^hIDieKörperschaft-1]: LS 101.
+### I. Körperschaft
+
+[^hPräambel-1]
+
+[^hIKörperschafthPr-1]: LS 101.
 
 #### Art. 1
 
 **Bestand, Autonomie**
 
-Die Römisch-katholische Körperschaft des Kantons Zürich vereinigt die römisch-katholischen Kantonseinwohnerinnen und -einwohner und ihre Kirchgemeinden in einer selbstständigen Körperschaft des öffentlichen Rechts gemäss Art. 130 Abs. 1 lit. b der Verfassung des Kantons Zürich[^hIDieKörperschaft-1].
+Die Römisch-katholische Körperschaft des Kantons Zürich vereinigt die römisch-katholischen Kantonseinwohnerinnen und -einwohner und ihre Kirchgemeinden in einer selbstständigen Körperschaft des öffentlichen Rechts gemäss Art. 130 Abs. 1 lit. b der Verfassung des Kantons Zürich[^hIKörperschafthPr-1].
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 #### Art. 2
 
@@ -75,13 +79,9 @@ Die Organe der Körperschaft sind:
 
 - 4\. die Rekurskommission
 
-#### Art. 4
-
 **Aufgaben**
 
-<sup>1</sup> Die Körperschaft schafft auf ihrem Gebiet Voraussetzun-
-
-gen für die Entfaltung des kirchlichen Lebens.
+Art. 4[^3-1] <sup>1</sup> Die Körperschaft schafft auf ihrem Gebiet Voraussetzungen für die Entfaltung des kirchlichen Lebens. Sie engagiert sich für gesellschaftspolitische und sozialethische Themen und tritt insbesondere ein für eine generationenübergreifende Gemeinschaft und für die Gleichberechtigung der Geschlechter unabhängig von Zivilstand und Lebensform. Sie setzt sich für die Beseitigung bestehender Nachteile ein, auch im Hinblick auf die Weiterentwicklung des kirchlichen Rechts.
 
 <sup>2</sup> Sie nimmt überregionale und solche regionale Aufgaben wahr, welche einzelne Kirchgemeinden oder Verbindungen von Kirchgemeinden nicht erfüllen können.
 
@@ -95,11 +95,31 @@ gen für die Entfaltung des kirchlichen Lebens.
 
 <sup>7</sup> Sie gewährt finanzielle Beiträge namentlich an: Spezialseelsorge, Jugend- und Erwachsenenbildung, Aus- und Weiterbildung der in der Kirche Mitarbeitenden, soziale Institutionen, Medien, kirchliche Hilfen im In- und Ausland.
 
+<sup>8</sup> Sie kann zur Erfüllung von Aufgaben eine juristische Person errichten, Mitglied einer solchen werden, sich an einer bestehenden juristischen Person beteiligen oder einer solchen Aufgaben übertragen.
+
+[^3-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
 #### Art. 5
 
 **Ökumene und interreligiöser Dialog**
 
 Die Körperschaft fördert zusammen mit den kirchlichen Organen die Ökumene und den interreligiösen Dialog.
+
+[^5-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 5 a
+
+**Öffentlichkeitsarbeit**[^5-1]
+
+<sup>1</sup> Die Körperschaft stellt die Präsenz und die Vertretung
+
+der Anliegen der katholischen Kirche im Kanton Zürich in der Öffentlichkeit sicher.
+
+<sup>2</sup> Zu diesem Zweck unterhält die Körperschaft eine Kommunikationsstelle.
+
+<sup>3</sup> Die Kommunikationsstelle kommuniziert intern und extern über Werthaltungen, Anliegen und Wirkungsfelder der katholischen Kirche im Kanton Zürich.
+
+<sup>4</sup> Die Kommunikationsstelle pflegt die digitalen und analogen Kommunikationskanäle der Körperschaft und entwickelt sie entsprechend gesellschaftlichen und medialen Erfordernissen weiter.
 
 #### Art. 6
 
@@ -107,19 +127,37 @@ Die Körperschaft fördert zusammen mit den kirchlichen Organen die Ökumene und
 
 Wo die Körperschaft keine eigenen Bestimmungen erlässt, wendet sie das staatliche Recht sinngemäss als eigenes Recht an.
 
-#### Art. 7
-
 **Datenschutz**
 
-<sup>1</sup> Erfassung und Bearbeitung von Personendaten erfolgen
+Art. 7[^6-1] <sup>1</sup> Die Erfassung, Bearbeitung und Bekanntgabe von Informationen, Personendaten und besonderen Personendaten erfolgen auf der Grundlage des Gesetzes über die Information und den Datenschutz[^6-2]. Der Synodalrat und jede Kirchenpflege bezeichnen je eine in Datenschutzfragen zuständige Ansprechperson.
 
-auf der Grundlage der staatlichen Datenschutzgesetzgebung. Jede Kirchenpflege bezeichnet eine in Datenschutzfragen zuständige Ansprechperson.
-
-<sup>2</sup> Zur Gewährleistung der gemeinschaftsbildenden Ziele gemäss kirchlicher Ordnung tragen insbesondere die Pfarrämter die Verantwortung für die Erfassung und Bearbeitung der notwendigen Personendaten. Vorbehältlich individueller Sperrvermerke sind sie befugt, unter Beachtung ihrer Schweigepflicht Daten zur Erfüllung kirchlicher Aufgaben zu bearbeiten oder untereinander auszutauschen. Der Datenaustausch gilt ausdrücklich auch für den Verkehr in der zwischenkirchlichen Zusammenarbeit unter Kirchen verschiedener Konfessionen, wo der Dienst in ökumenischer Verantwortung wahrgenommen wird.
+<sup>2</sup> Zur Gewährleistung der gemeinschaftsbildenden Ziele gemäss kirchlicher Ordnung tragen insbesondere die Pfarrämter die Verantwortung für die Erfassung, Bearbeitung und Bekanntgabe der notwendigen Informationen, Personendaten und besonderen Personendaten. Vorbehältlich individueller Sperrvermerke sind sie befugt, unter Beachtung ihrer Schweigepflicht Daten zur Erfüllung kirchlicher Aufgaben zu bearbeiten oder untereinander auszutauschen. Der Datenaustausch gilt ausdrücklich auch für den Verkehr in der zwischenkirchlichen Zusammenarbeit unter Kirchen verschiedener Konfessionen, wo der Dienst in ökumenischer Verantwortung wahrgenommen wird, sowie für den Verkehr mit dem Kanton, den politischen Gemeinden und Schulgemeinden.
 
 <sup>3</sup> Der Synodalrat regelt Einzelheiten in einem Datenschutzreglement. Er kann dies in Absprache mit den zuständigen Organen anderer öffentlich-rechtlich anerkannter Kirchen tun.
 
-### II. Die Gesamtheit der Stimmberechtigten
+[^6-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^6-2]: LS 170.4.
+[^6-3]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 7 a
+
+**Mitgliederregister**[^6-3]
+
+<sup>1</sup> Der Synodalrat kann für die Körperschaft und die Kirch-
+
+gemeinden ein Mitgliederregister einrichten und betreiben oder sich an einem solchen beteiligen.
+
+**3**
+
+- 1\. 1. 24 - 123
+
+<sup>2</sup> Die Synode legt in einer Verordnung die im Mitgliederregister zu erfassenden Identifikatoren und Merkmale der Mitglieder der Körperschaft fest.
+
+[^7a-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+### II. Gesamtheit der Stimmberechtigten
+
+[^7a-1]
 
 #### Art. 8
 
@@ -139,26 +177,15 @@ Den Stimmberechtigten kommen folgende Aufgaben zu:
 
 - c. Ausübung des Initiativ- und Referendumsrechtes.
 
-[^9-1]: LS 101.
-[^9-2]: LS 180.1.
-
-#### Art. 10
-
 **Stimm- und Wahlrecht**
 
-<sup>1</sup> Stimm- und wahlberechtigt sind die Mitglieder der Kör-
+Art. 10[^9-3] <sup>1</sup> Stimm- und wahlberechtigt sind die Mitglieder der Körperschaft, welche das 18. Altersjahr zurückgelegt haben und im Besitze des Schweizer Bürgerrechtes oder der Niederlassungs- oder Aufenthaltsbewilligung sind.
 
-perschaft, welche das 18. Altersjahr zurückgelegt haben und im Besitze des Schweizer Bürgerrechtes oder der Niederlassungs- oder Aufenthaltsbewilligung sind.
+<sup>2</sup> Der Synodalrat regelt die Einzelheiten betreffend die zulässigen ausländerrechtlichen Bewilligungen in Bezug auf das Mitgliederstimm- und -wahlrecht von ausländischen Staatsangehörigen in einem separaten Beschluss.
 
-<sup>2</sup> Die Kirchgemeinden führen ein Register der stimm- und wahlberechtigten Personen.
-
-<sup>3</sup> Unvereinbarkeit, Rücktritt und Entlassung aus dem Amt richten sich unter Vorbehalt der Bestimmungen der Kirchenordnung nach dem Gesetz über die politischen Rechte (GPR)[^10-1].
-
-**3**
-
-- 1\. 4. 23 - 120
-
-[^10-1]: LS 161.
+[^9-1]: LS 101.
+[^9-2]: LS 180.1.
+[^9-3]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 11
 
@@ -178,21 +205,19 @@ Dem obligatorischen Referendum unterstehen:
 
 - a. Teilrevisionen der Kirchenordnung, welche weder das Stimm- und Wahlrecht noch weitere Befugnisse der Stimmberechtigten betreffen,
 
-- b. Beschlüsse der Synode, welche die Rechte und Pflichten der Mitglieder der Körperschaft oder der Kirchgemeinden betreffen,
-
-- c. Beschlüsse der Synode über neue, einmalige Ausgaben von mehr als Fr. 3 000 000 oder neue, jährlich wiederkehrende Ausgaben von mehr als Fr. 300 000.
+- b. Beschlüsse der Synode, welche die Rechte und Pflichten der Mitglieder der Körperschaft oder der Kirchgemeinden betreffen, c.[^12-1] Beschlüsse der Synode über neue einmalige Ausgaben über Fr. 3 000 000 für einen bestimmten Zweck und neue wiederkehrende Ausgaben von jährlich über Fr. 300 000 für einen bestimmten Zweck.
 
 <sup>2</sup> Die Synode kann von sich aus einzelne Beschlüsse der Volksabstimmung unterstellen.
 
-#### Art. 13
-
 **Ausnahmen**
 
-Folgende Beschlüsse der Synode unterstehen nicht dem fakultativen Referendum:
+Art. 13[^12-1] Folgende Beschlüsse der Synode unterstehen nicht dem fakultativen Referendum:
 
-- a. Festsetzung der Beitragssätze zur Ermittlung der Zentralkassenbeiträge der Kirchgemeinden,
+- a. Festsetzung der Beitragssätze für die finanziellen Leistungen der Kirchgemeinden an die Körperschaft,
 
-- b. Genehmigung des Voranschlages der Zentralkasse.
+- b. Genehmigung des Budgets der Körperschaft.
+
+[^12-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 14
 
@@ -250,6 +275,10 @@ obligatorischen Referendum untersteht, wird sie mit einem zustimmenden oder able
 
 <sup>3</sup> Die Synode kann den Stimmberechtigten gleichzeitig mit dem Initiativbegehren einen Gegenvorschlag unterbreiten.
 
+**5**
+
+- 1\. 1. 24 - 123
+
 #### Art. 19
 
 **Einreichung**
@@ -260,7 +289,149 @@ dem Synodalrat zur Vorprüfung einzureichen.
 
 <sup>2</sup> Die Unterschriftenlisten sind ihm gesamthaft und spätestens 6 Monate nach der Veröffentlichung der Initiative im kantonalen Amtsblatt einzureichen.
 
-### III. Die Synode
+[^19-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+### III. Synode, Synodalrat und Rekurskommission
+
+[^19-1]
+
+[^hIIISynodeSynodal-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+### A. Allgemeine Bestimmungen
+
+[^hIIISynodeSynodal-1]
+
+[^hAAllgemeineBestim-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 a
+
+**Amtsdauer**[^hAAllgemeineBestim-1]
+
+<sup>1</sup> Die Wahl der Mitglieder der Synode, des Synodalrates
+
+und der Rekurskommission erfolgt für eine Amtsdauer von vier Jahren, bei Ersatzwahlen für den Rest der Amtsdauer.
+
+<sup>2</sup> Mitglieder der Synode können dreimal und die Mitglieder des Synodalrates zweimal wiedergewählt werden. Angebrochene Amtsdauern werden nicht mitgezählt. Für die Mitglieder der Rekurskommission gilt keine Amtszeitbeschränkung.
+
+[^19a-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 b
+
+**Amtsgeheimnis und Entbindung**[^19a-1]
+
+<sup>1</sup> Mitglieder von Behörden, Organen, Kommissionen
+
+und Arbeitsgruppen sind über Angelegenheiten, die sie in ihrer amtlichen oder dienstlichen Stellung wahrgenommen haben, zur Verschwiegenheit verpflichtet, wenn an der Geheimhaltung ein überwiegendes kirchliches, öffentliches oder privates Interesse gemäss dem Gesetz über die Information und den Datenschutz besteht oder wenn eine besondere Vorschrift dies vorsieht.
+
+<sup>2</sup> Diese Verpflichtung bleibt nach Beendigung des Amts- und Dienstverhältnisses bestehen.
+
+<sup>3</sup> Der Synodalrat ist für die Entbindung vom Amtsgeheimnis für die Personen gemäss Abs. 1 zuständig.
+
+[^19b-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 c
+
+**Unvereinbarkeit a. wegen Organfunktion**[^19b-1]
+
+**Die Mitglieder der Synode, des Synodalrates und der**
+
+Rekurskommission dürfen nicht gleichzeitig ein anderes Amt in der Körperschaft ausüben.
+
+[^19c-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 d
+
+**b. wegen Anstellungs- oder Aufsichtsverhältnis**[^19c-1]
+
+<sup>1</sup> Ämter und Anstellungen, die in einem unmittelbaren
+
+Anstellungs- oder Aufsichtsverhältnis zueinanderstehen, sind unvereinbar.
+
+<sup>2</sup> Die Anstellung bei einem Organ gemäss Art. 3 Ziff. 2–4 schliesst die Anstellung oder Mitgliedschaft in einem anderen dieser Organe aus.
+
+<sup>3</sup> Die Anstellung beim Generalvikariat schliesst die Anstellung und Mitgliedschaft im Synodalrat, in der Aufsichtskommission über Kirchgemeinden und Zweckverbände sowie in der Rekurskommission aus.
+
+<sup>4</sup> Die Mehrheit der Mitglieder der Synode und des Synodalrates dürfen nicht in einem Anstellungsverhältnis nach der Anstellungsordnung der Körperschaft stehen.
+
+<sup>5</sup> Ist die Zahl der in die Synode gewählten Angestellten zu hoch, entscheidet das Los, wer auszuscheiden hat. Das Los ist durch die Präsidentin oder den Präsidenten des Synodalrates zu ziehen.
+
+<sup>6</sup> Ist die Zahl der in den Synodalrat gewählten Angestellten zu hoch, fallen diejenigen angestellten Personen mit der geringsten Stimmenzahl aus der Wahl.
+
+[^19d-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 e
+
+**c. wegen Verwandtschaft**[^19d-1]
+
+<sup>1</sup> Dem Synodalrat und der Rekurskommission dürfen
+
+nicht angehören:
+
+- a. Ehegattinnen und Ehegatten und eingetragene Partnerinnen und Partner,
+
+- b. Eltern, Kinder und ihre Ehegattinnen und Ehegatten oder ihre eingetragenen Partnerinnen und Partner,
+
+- c. Geschwister und ihre Ehegattinnen und Ehegatten oder ihre eingetragenen Partnerinnen und Partner.
+
+<sup>2</sup> Personen in faktischer Lebensgemeinschaft sind den Ehegattinnen und Ehegatten bzw. den eingetragenen Partnerinnen und Partnern gleichgestellt.
+
+[^19e-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 f
+
+**Ausstand**[^19e-1]
+
+<sup>1</sup> Personen, die eine Anordnung zu treffen, dabei mitzu-
+
+wirken oder sie vorzubereiten haben, treten in den Ausstand, wenn sie in der Sache persönlich befangen erscheinen, insbesondere:
+
+- a. in der Sache ein persönliches Interesse haben,
+
+- b. mit einer Partei in gerader Linie oder in der Seitenlinie bis zum dritten Grad verwandt oder verschwägert oder durch Ehe, Verlobung, eingetragene Partnerschaft, faktische Lebensgemeinschaft oder Kindesannahme verbunden sind,
+
+- c. aus anderen Gründen, insbesondere wegen Freundschaft oder Feindschaft mit einer Partei oder ihrer Vertreterin bzw. ihrem Vertreter, befangen sein könnten.
+
+<sup>2</sup> Ist der Ausstand streitig, entscheidet darüber die Aufsichtsbehörde oder, wenn es sich um den Ausstand eines Mitglieds einer Kollegialbehörde handelt, diese Behörde unter Ausschluss des betreffenden Mitglieds.
+
+[^19f-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 g
+
+**Amtszwang**[^19f-1]
+
+**Für die Mitglieder von Behörden und Organen der Kör-**
+
+perschaft besteht kein Amtszwang.
+
+**7**
+
+- 1\. 1. 24 - 123
+
+[^19g-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 h
+
+**Vorzeitige Entlassung**[^19g-1]
+
+**Wer die Wählbarkeit verliert, ersucht bei der Synode**
+
+schriftlich um vorzeitige Entlassung aus dem Amt.
+
+[^19h-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 19 i
+
+**Beendigung der Amtsdauer**[^19h-1]
+
+**Gibt ein Mitglied des Synodalrates oder der Rekurs-**
+
+kommission den erforderlichen Wohnsitz auf, kann die Synode auf Gesuch hin die Beendigung der Amtsdauer bewilligen, sofern das betroffene Organ dem zustimmt und die Aufgabenerfüllung sichergestellt ist.
+
+[^19i-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+### B. Synode
+
+[^19i-1]
 
 #### Art. 20
 
@@ -268,43 +439,28 @@ dem Synodalrat zur Vorprüfung einzureichen.
 
 Die Synode ist neben der Gesamtheit der Stimmberechtigten die Legislative der Körperschaft.
 
-#### Art. 21
-
 **Wahl**
 
-<sup>1</sup> Die Synodenmitglieder werden durch die Kirchgemein-
+Art. 21[^20-1] <sup>1</sup> Die Synodenmitglieder werden durch die Kirchgemeinden aus dem Kreis ihrer stimm- und wahlberechtigten Mitglieder gewählt. Die Wahl erfolgt an der Urne. Die Kirchgemeindeordnung kann vorsehen, dass die Wahl an der Kirchgemeindeversammlung oder durch das Kirchgemeindeparlament erfolgt.
 
-den an der Urne aus dem Kreis ihrer stimm- und wahlberechtigten Mitglieder gewählt.
+<sup>2</sup> Jede Kirchgemeinde wählt mindestens ein Synodenmitglied. Kirchgemeinden mit mehr als 5000 Mitgliedern steht pro 5000 Mitglieder sowie für den verbleibenden Rest je ein Mitglied zu.
 
-<sup>2</sup> Die Wahl erfolgt für eine Amtsdauer von vier Jahren, bei Ersatzwahlen für den Rest der Amtsdauer. Wiederwahl ist zweimal möglich. Angebrochene Amtsdauern werden nicht mitgezählt.
+<sup>3</sup> Die Wahlen finden nach dem Majorzverfahren statt.
 
-<sup>3</sup> Jede Kirchgemeinde wählt mindestens ein Synodenmitglied. Kirchgemeinden mit mehr als 6000 Mitgliedern steht für 6000 Mitglieder und den verbleibenden Restwert je ein Mitglied zu.
-
-<sup>4</sup> Die Wahlen finden nach dem Majorzverfahren statt.
-
-**5**
-
-- 1\. 4. 23 - 120
-
-#### Art. 22
+<sup>4</sup> Gibt ein Mitglied der Synode während der laufenden Amtsdauer den für die Ausübung des Amtes erforderlichen Wohnsitz in der Kirchgemeinde auf oder verliert es diesen infolge eines Zusammenschlusses von Kirchgemeinden, kann die Synode auf Gesuch des Mitglieds der Synode und nach vorgängiger Rücksprache mit der Kirchgemeinde die Beendigung der Amtsdauer bewilligen, sofern die Aufgabenerfüllung sichergestellt ist.
 
 **Wahlverfahren**
 
-Für das Wahlverfahren gelten die Bestimmungen des kantonalen Gesetzes über die politischen Rechte sinngemäss als subsidiäres Recht gemäss Art. 6. Das Vorverfahren mit der Möglichkeit der stillen Wahl findet bei Erneuerungs- und Ersatzwahlen statt. Sind die Voraussetzungen für die stille Wahl nicht erfüllt, werden gedruckte Wahlvorschläge verwendet.
+Art. 22[^20-1] <sup>1</sup> Für das Wahlverfahren an der Urne gelten die Bestimmungen des kantonalen Gesetzes über die politischen Rechte[^20-2] sinngemäss als subsidiäres Recht gemäss Art. 6. Sind die Voraussetzungen für die stille Wahl nicht erfüllt, werden gedruckte Wahlvorschläge verwendet.
 
-#### Art. 23
+<sup>2</sup> Findet die Wahl an der Kirchgemeindeversammlung oder durch das Kirchgemeindeparlament statt, sind für das Wahlverfahren die Bestimmungen des Kirchgemeindereglements anwendbar.
 
-**Unvereinbarkeit**
+**Besondere Unvereinbarkeit**
 
-<sup>1</sup> Die Mehrheit der Synodenmitglieder darf nicht in einem
+Art. 23[^20-1] Zusätzlich zu den Unvereinbarkeiten gemäss Art. 19 c und 19 d dürfen die Mitglieder der Synode nicht gleichzeitig Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände sein.
 
-Anstellungsverhältnis nach der Anstellungsordnung der Körperschaft stehen.
-
-<sup>2</sup> Ist die Zahl der gewählten Angestellten nach Abs. 1 zu hoch, entscheidet das Los, wer auszuscheiden hat.
-
-<sup>3</sup> Das Los ist durch die Präsidentin oder den Präsidenten des Synodalrates zu ziehen.
-
-<sup>4</sup> Die Mitgliedschaft in der Synode ist unvereinbar mit einem Anstellungsverhältnis beim Sekretariat des Synodalrates und beim Generalvikariat.
+[^20-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^20-2]: LS 161.
 
 #### Art. 24
 
@@ -324,7 +480,9 @@ eine Geschäftsordnung.
 
 - d. vier Stimmenzählerinnen oder Stimmenzählern.
 
-<sup>3</sup> Ihre Aufgaben und Kompetenzen werden in der Geschäftsordnung geregelt.
+<sup>3</sup> Aufgaben und Kompetenzen werden in der Geschäftsordnung der Synode geregelt.[^24-1]
+
+[^24-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 25
 
@@ -346,11 +504,9 @@ für den Kanton Zürich nehmen an den Sitzungen der Synode teil. Sie haben berat
 
 <sup>2</sup> Das ressortverantwortliche Mitglied des Synodalrates hat das Recht, dessen Anträge in den vorberatenden Kommissionen zu vertreten.
 
-#### Art. 27
-
 **Aufgaben**
 
-Die Synode ist zuständig für:
+Art. 27[^26-1] Die Synode ist zuständig für:
 
 <sup>1</sup> Folgende Wahlen:
 
@@ -358,11 +514,15 @@ Die Synode ist zuständig für:
 
 - b. Wahl des Synodalrates und seiner Präsidentin oder seines Präsidenten auf die Amtsdauer der Synode,
 
-- c. Wahl der Präsidentin oder des Präsidenten und der Mitglieder und Ersatzmitglieder der Rekurskommission,
+- c. Wahl der Präsidentin oder des Präsidenten und der Mitglieder der Rekurskommission,
 
 - d. Wahl der Ombudspersonen der Personalombudsstelle,
 
-- e. Wahl ihrer Vertretung in Organisationen, f.[^27-1] Wahl der Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände.
+- e. Wahl ihrer Vertretung in Organisationen, f.[^26-2] Wahl der Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände.
+
+**9**
+
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Folgende Rechtserlasse:
 
@@ -370,7 +530,7 @@ Die Synode ist zuständig für:
 
 - b. Geschäftsordnung der Synode,
 
-- c. Reglement über die Rekurskommission, d.[^27-2] Finanzordnung[^27-3],
+- c. Reglement über die Rekurskommission, d.[^26-3] Finanzordnung[^26-4],
 
 - e. Reglement über Baukostenbeiträge an die Kirchgemeinden,
 
@@ -378,25 +538,23 @@ Die Synode ist zuständig für:
 
 - g. Anstellungsordnung für die Angestellten der Kirchgemeinden und der Körperschaft,
 
-- h. Reglement über die Neuwahl der Pfarrer und die Wahl der Gemeindeleitungen,
+- h. Reglement über die Wahl der Pfarrer und Pfarreibeauftragten[^26-5],
 
-- i. weitere Reglemente von grundlegender Bedeutung.
+- i. Kirchgemeindereglement[^26-6] und Finanzreglement der Kirchgemeinden[^26-7],
+
+- j. weitere Reglemente von grundlegender Bedeutung.
 
 <sup>3</sup> Folgende allgemeine Verwaltungshandlungen:
 
-a.[^27-4] Zusammenstellung, Bekanntmachung und Erwahrung von Wahl und Abstimmungsergebnissen in der Körperschaft sowie Behandlung von Rekursen hinsichtlich der Wahlergebnisse der Mitglieder der Synode,
+- a. Zusammenstellung, Bekanntmachung und Erwahrung von Wahl- und Abstimmungsergebnissen in der Körperschaft sowie Behandlung von Rekursen hinsichtlich der Wahlergebnisse der Mitglieder der Synode auf Antrag des Synodalrates,
 
 - b. Aufsicht über den Synodalrat,
 
-- c. Genehmigung des Voranschlages und Abnahme von Jahresrechnung und Jahresbericht,
+- c. Genehmigung des Budgets und Abnahme von Jahresrechnung und Jahresbericht,
 
-- d. Festsetzung der Beitragssätze für die finanziellen Leistungen der Kirchgemeinden an die Zentralkasse,
+- d. Festsetzung der Beitragssätze für die finanziellen Leistungen der Kirchgemeinden an die Körperschaft,
 
-- e. Beschlussfassung über Neubildung, Namensänderung, Zusammenschluss und Auflösung von Kirchgemeinden,
-
-**7**
-
-- 1\. 4. 23 - 120
+- e. Beschlussfassung über Neubildung, Zusammenschluss und Auflösung von Kirchgemeinden,
 
 - f. Schaffung und Aufhebung von Dienststellen, welche von der Körperschaft finanziert werden,
 
@@ -406,42 +564,45 @@ a.[^27-4] Zusammenstellung, Bekanntmachung und Erwahrung von Wahl und Abstimmung
 
 - i. Beitritt der Körperschaft zu Organisationen und Verbänden, wenn damit finanzielle Verpflichtungen verbunden sind, welche die Finanzkompetenz des Synodalrates übersteigen.
 
-[^27-1]: Eingefügt durch B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-[^27-2]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
-[^27-3]: LS 182.25.
-[^27-4]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-
-#### Art. 28
-
 **Finanzkompetenzen**
 
-Die Synode beschliesst über die Finanzen der Körperschaft, insbesondere über Voranschlag und Abnahme der Jahresrechnung. Sie ist unter Vorbehalt der Kompetenzen des Synodalrates und des fakultativen Referendums allein befugt, Ausgaben zu bewilligen.
+Art. 28[^26-1] <sup>1</sup> Die Synode beschliesst über die Finanzen der Körperschaft, insbesondere über Budget und Abnahme der Jahresrechnung.
+
+<sup>2</sup> Sie ist unter Vorbehalt des fakultativen Referendums für die Bewilligung von neuen einmaligen Ausgaben über Fr. 500 000 für einen bestimmten Zweck oder über Fr. 1 000 000 bei Bauvorhaben und von neuen wiederkehrenden Ausgaben von jährlich über Fr. 150 000 für einen bestimmten Zweck zuständig.
+
+[^26-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^26-2]: Eingefügt durch B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^26-3]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
+[^26-4]: LS 182.25.
+[^26-5]: LS 182.22.
+[^26-6]: LS 182.60.
+[^26-7]: LS 182.63.
 
 #### Art. 29
 
 **Parlamentarische Instrumente**
 
-<sup>1</sup> Der Synode stehen die folgenden parlamentarischen
+<sup>1</sup> Der Synode stehen die folgenden parlamentarischen In-
 
-Instrumente zur Verfügung:
+strumente zur Verfügung:[^29-1] a. Motion,
 
-- a. Motion
+- b. Postulat,
 
-- b. Postulat
+- c. parlamentarische Initiative,
 
-- c. Parlamentarische Initiative
+- d. Interpellation,
 
-- d. Interpellation
+- e. schriftliche Anfrage,
 
-- e. Schriftliche Anfrage
+- f. Fragestunde,
 
-- f. Fragestunde
-
-- g. Resolution
+- g. Resolution.
 
 <sup>2</sup> Die Ausgestaltung der Instrumente wird in der Geschäftsordnung der Synode geregelt.
 
 <sup>3</sup> In der Fragestunde können neben Fragen an den Synodalrat auch dem Generalvikar für den Kanton Zürich Fragen und Anregungen zum kirchlichen Leben unterbreitet werden.
+
+[^29-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 30
 
@@ -463,17 +624,19 @@ Die Präsidentin oder der Präsident lädt die Synode jährlich zu mindestens zw
 
 glieder. Sie prüft die Jahresberichte des Synodalrates und der Rekurskommission sowie den Vollzug der von der Synode dem Synodalrat überwiesenen Geschäfte. Die Synode kann ihr weitere Geschäfte zur Prüfung und Berichterstattung übertragen.
 
-<sup>2</sup> Ihre weiteren Aufgaben und Kompetenzen werden in der Geschäftsordnung geregelt.
-
-#### Art. 32
+<sup>2</sup> Ihre weiteren Aufgaben und Kompetenzen werden in der Geschäftsordnung der Synode geregelt.[^31-1]
 
 **Finanzkommission**
 
-<sup>1</sup> Die Finanzkommission umfasst sieben Mitglieder. Sie
+Art. 32[^31-1] <sup>1</sup> Die Finanzkommission umfasst sieben Mitglieder. Sie prüft das Budget und die Jahresrechnung der Körperschaft.
 
-prüft den Voranschlag und die Jahresrechnung der Körperschaft.
+<sup>2</sup> Ihre weiteren Aufgaben und Kompetenzen werden in der Geschäftsordnung der Synode geregelt.
 
-<sup>2</sup> Ihre weiteren Aufgaben und Kompetenzen werden in der Geschäftsordnung geregelt.
+**11**
+
+- 1\. 1. 24 - 123
+
+[^31-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 33
 
@@ -481,7 +644,9 @@ prüft den Voranschlag und die Jahresrechnung der Körperschaft.
 
 <sup>1</sup> Die Synode kann weitere ständige Kommissionen bilden.
 
-<sup>2</sup> Die Bezeichnung und Aufgaben dieser Kommissionen sowie die Zahl ihrer Mitglieder werden in der Geschäftsordnung geregelt.
+<sup>2</sup> Die Bezeichnung und Aufgaben dieser Kommissionen sowie die Zahl ihrer Mitglieder werden in der Geschäftsordnung der Synode geregelt.[^33-1]
+
+[^33-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 34
 
@@ -491,7 +656,9 @@ prüft den Voranschlag und die Jahresrechnung der Körperschaft.
 
 zusammenschliessen.
 
-<sup>2</sup> Das Nähere regelt die Geschäftsordnung.
+<sup>2</sup> Einzelheiten regelt die Geschäftsordnung der Synode.[^34-1]
+
+[^34-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 35
 
@@ -503,7 +670,11 @@ zusammenschliessen.
 
 <sup>3</sup> Die Synode sorgt für eine angemessene Bekanntmachung ihrer Verhandlungen und Beschlüsse.
 
-### IV. Der Synodalrat
+[^35-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+### C. Synodalrat
+
+[^35-1]
 
 #### Art. 36
 
@@ -513,40 +684,21 @@ zusammenschliessen.
 
 <sup>2</sup> Er setzt sich zusammen aus der Präsidentin oder dem Präsidenten und acht weiteren Mitgliedern.
 
-#### Art. 37
-
 **Wahl**
 
-<sup>1</sup> Die Mitglieder und die Präsidentin oder der Präsident
+Art. 37[^36-1] <sup>1</sup> Die Mitglieder und die Präsidentin oder der Präsident werden von der Synode aus dem Kreis der stimm- und wahlberechtigten Mitglieder der Körperschaft gewählt.
 
-werden von der Synode aus dem Kreis der stimm- und wahlberechtigten Mitglieder der Körperschaft gewählt.
+<sup>2</sup> Mindestens ein Mitglied des Synodalrates muss über eine missio canonica verfügen und dem Seelsorgekapitel des Kantons Zürich angehören. Den im Kanton Zürich tätigen Mitgliedern des Seelsorgekapitels steht ein Vorschlagsrecht zuhanden der Synode zu.
 
-<sup>2</sup> Die Wahl erfolgt für eine Amtsdauer von vier Jahren, bei Ersatzwahlen für den Rest der Amtsdauer. Wiederwahl ist zweimal möglich. Angebrochene Amtsdauern werden nicht mitgezählt.
+**Besondere Unvereinbarkeit**
 
-<sup>3</sup> Mindestens ein Mitglied des Synodalrates muss dem geistlichen Stand angehören und in der Regel Priester sein. Den im Kanton Zürich tätigen Mitgliedern des Seelsorgekapitels steht ein Vorschlagsrecht zuhanden der Synode zu.
+Art. 38[^36-1] <sup>1</sup> Für die Mitglieder des Synodalrates gelten zusätzlich zu Art. 19 c–19 e die nachfolgenden Unvereinbarkeiten. Sie dürfen nicht gleichzeitig a. ein Amt in einer Kirchgemeinde oder im Vorstand eines Zweckverbandes von Kirchgemeinden ausüben,
 
-#### Art. 38
+- b. Mitglieder in der Aufsichtskommission über Kirchgemeinden und Zweckverbände sein.
 
-**Unvereinbarkeit**
+<sup>2</sup> Abs. 1 gilt auch für die Generalsekretärin oder den Generalsekretär des Synodalrates.
 
-<sup>1</sup> Die Mitgliedschaft im Synodalrat ist unvereinbar mit
-
-der Mitgliedschaft in der Synode, in einer Kirchenpflege oder im Vorstand eines Zweckverbandes von Kirchgemeinden.
-
-**9**
-
-- 1\. 4. 23 - 120
-
-<sup>2</sup> Kein Mitglied des Synodalrates darf gleichzeitig der Aufsichtskommission über Kirchgemeinden und Zweckverbände angehören.[^38-1]
-
-<sup>3</sup> Für die Unvereinbarkeit wegen Verwandtschaft gilt § 28 des kantonalen Gesetzes über die politischen Rechte[^38-2] als subsidiäres Recht gemäss Art. 6.
-
-<sup>4</sup> Die Mehrheit der Mitglieder des Synodalrates darf nicht in einem Anstellungsverhältnis nach der Anstellungsordnung der Körperschaft stehen.
-
-<sup>5</sup> Die Mitgliedschaft im Synodalrat ist unvereinbar mit einem Anstellungsverhältnis beim Sekretariat des Synodalrates und beim Generalvikariat.
-
-[^38-1]: Eingefügt durch B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-[^38-2]: LS 161.
+[^36-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 39
 
@@ -564,11 +716,9 @@ die von der Synode gewählte Präsidentin oder der Präsident.
 
 Der Generalvikar für den Kanton Zürich und die Generalsekretärin oder der Generalsekretär nehmen an den Sitzungen des Synodalrates mit beratender Stimme teil.
 
-#### Art. 41
-
 **Aufgaben**
 
-Dem Synodalrat kommen zu:
+Art. 41[^40-1] Dem Synodalrat kommen zu:
 
 - a. Antragstellung an die Synode,
 
@@ -576,7 +726,7 @@ Dem Synodalrat kommen zu:
 
 - c. Erlass von Ausführungsbestimmungen zu Beschlüssen der Synode,
 
-- d. Erarbeitung des Voranschlages zuhanden der Synode,
+- d. Erarbeitung des Budgets zuhanden der Synode,
 
 - e. Erstattung von Jahresbericht und Jahresrechnung,
 
@@ -590,7 +740,7 @@ Dem Synodalrat kommen zu:
 
 - j. Wahl von Kommissionen, die nicht von der Synode gewählt werden,
 
-- k. Aufsicht über die Dienststellen der Körperschaft und Erlass einer Dienststellenordnung, l.[^41-1] Vollzug des Finanzausgleichs gemäss Finanzordnung[^41-2],
+- k. Aufsicht über die Dienststellen der Körperschaft und Erlass einer Dienststellenordnung, l.[^40-2] Vollzug des Finanzausgleichs gemäss Finanzordnung[^40-3],
 
 - m. Entscheide über Streitigkeiten zwischen Kirchgemeinden, Kirchgemeinden und Zweckverbänden oder Letzteren,
 
@@ -600,96 +750,90 @@ Dem Synodalrat kommen zu:
 
 - p. Information der Synode und der Öffentlichkeit über seine Tätigkeiten von allgemeinem Interesse,
 
-- q. Erfüllung aller weiteren Aufgaben der Körperschaft, welche die Kirchenordnung nicht einer anderen Behörde überträgt, r.[^41-3] Entscheide über Rekurse gegen aufsichtsrechtliche Anordnungen der Aufsichtskommission über Kirchgemeinden und Zweckverbände.
+- q. Erfüllung aller weiteren Aufgaben der Körperschaft, welche die Kirchenordnung nicht einer anderen Behörde überträgt,
 
-[^41-1]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
-[^41-2]: LS 182.25.
-[^41-3]: Eingefügt durch B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+- r. Entscheide über Rekurse gegen Anordnungen der Aufsichtskommission über Kirchgemeinden und Zweckverbände,
 
-#### Art. 42
+- s. Abschluss von Vereinbarungen über die Zusammenarbeit zwischen der Körperschaft und dem Generalvikariat,
+
+- t. Wahlleitung bei körperschaftlichen Wahlen und Abstimmungen an der Urne, sofern diese nicht den staatlichen Organen übertragen wird.
+
+**13**
+
+- 1\. 1. 24 - 123 Art. 42[^40-1] Der Synodalrat beschliesst über:
 
 **Finanzkompetenzen**
 
-<sup>1</sup> Der Synodalrat beschliesst Ausgaben im Rahmen des
+- a. gebundene Ausgaben,
 
-Voranschlages und der besonderen Ausgabenbeschlüsse der Synode.
+- b. im Budget enthaltene neue einmalige Ausgaben bis Fr. 500 000 für einen bestimmten Zweck oder bis Fr. 1 000 000 bei Bauvorhaben, über neue jährlich wiederkehrende Ausgaben bis Fr. 150 000 für einen bestimmten Zweck sowie über den Verzicht auf Einnahmen in dieser Höhe,
 
-<sup>2</sup> In eigener Kompetenz beschliesst er über:
+- c. im Budget nicht enthaltene neue einmalige Ausgaben bis Fr. 100 000 für einen bestimmten Zweck, insgesamt aber nicht mehr als Fr. 400 000 im Jahr, und über neue jährlich wiederkehrende Ausgaben bis Fr. 20 000 für einen bestimmten Zweck, insgesamt aber nicht mehr als Fr. 60 000 im Jahr,
 
-- a. Ausgaben, die zwingende Folgen von gesetzlichen Vorschriften oder Beschlüssen der Synode sind,
+- d. Zusatzkredite für die Erhöhung von einmaligen Ausgaben und jährlich wiederkehrenden Ausgaben für einen bestimmten Zweck bis zum Betrag gemäss lit. c, sofern der Gesamtbetrag nicht in die Zuständigkeit der Synode fällt.
 
-- b. Ausgaben, die im Voranschlag nicht enthalten sind, und über die Erhöhung bereits bewilligter Ausgaben in folgendem Umfang:
-
-- 1\. einmalige Ausgaben im Einzelfall bis zu Fr. 75 000, insgesamt aber nicht mehr als Fr. 300 000 im Jahr,
-
-- 2\. jährlich wiederkehrende Ausgaben im Einzelfall bis zu Fr.15 000, insgesamt aber nicht mehr als Fr. 45 000 im Jahr.
-
-<sup>3</sup> Erreicht die Teuerung gemäss Zürcher Städteindex der Konsumentenpreise seit der letzten Anpassung 5%, stellt der Synodalrat der Synode Antrag auf Anpassung der Ansätze.
-
-[^42-1]: Eingefügt durch B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^40-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^40-2]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
+[^40-3]: LS 182.25.
 
 #### Art. 42 a
 
-**Aufsicht über die Kirchgemeinden und Zweckverbände**[^42-1]
+**Aufgabenübertragung, Kommissionen und Sachverständige**[^40-1]
 
-<sup>1</sup> Die allgemeine Aufsicht über die Kirchgemeinden
+<sup>1</sup> Der Synodalrat kann einzelnen oder mehreren seiner
 
-und Zweckverbände obliegt einer eigenständigen und weisungsunabhängigen Kommission des Synodalrates. Sie führt Visitationen durch und ordnet die im Kirchgemeindereglement vorgesehenen aufsichtsrechtlichen Massnahmen an.
+Mitglieder und Angestellten der Verwaltung Aufgaben zur selbstständigen Erledigung übertragen. Die Aufgaben und die Entscheidungsbefugnisse werden in der Geschäftsordnung des Synodalrates festgelegt.
+
+<sup>2</sup> Er kann für einzelne Geschäftsbereiche Kommissionen und zur Bearbeitung einzelner Geschäfte Arbeitsgruppen bestellen oder Sachverständige beiziehen. Er legt deren Aufträge und Befugnisse in der Geschäftsordnung des Synodalrates oder in separaten Beschlüssen fest.
+
+[^42a-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+#### Art. 42 b
+
+**Aufsicht über die Kirchgemeinden und Zweckverbände**[^42a-1]
+
+<sup>1</sup> Die allgemeine Aufsicht über die Kirchgemeinden und
+
+Zweckverbände obliegt einer eigenständigen Kommission des Synodalrates. Sie führt Visitationen durch und ordnet die im Kirchgemeindereglement[^42b-1] vorgesehenen aufsichtsrechtlichen Massnahmen an.
 
 <sup>2</sup> Die Aufsichtskommission über Kirchgemeinden und Zweckverbände besteht aus einer Präsidentin oder einem Präsidenten und vier weiteren Mitgliedern. Sie konstituiert sich selbst.
 
-<sup>3</sup> Die Wahl der fünf Mitglieder erfolgt durch die Synode auf Vorschlag des Synodalrates. Die Wahl erfolgt für eine Amtsdauer von vier Jahren, bei Ersatzwahlen für den Rest der laufenden Amtsdauer. Die Wahl findet in der Mitte der Amtsdauer der Synode statt.
+<sup>3</sup> Die Mitgliedschaft in der Aufsichtskommission über Kirchgemeinden und Zweckverbände ist unvereinbar mit der Mitgliedschaft in Behörden von Kirchgemeinden.
 
-### V. Die Rekurskommission
+<sup>4</sup> Die Wahl der fünf Mitglieder erfolgt durch die Synode auf Vorschlag des Synodalrates. Die Wahl erfolgt für eine Amtsdauer von vier Jahren, bei Ersatzwahlen für den Rest der laufenden Amtsdauer. Die Wahl findet in der Mitte der Amtsdauer der Synode statt.
+
+[^42b-1]: LS 182.60.
+[^42b-2]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+
+### D. Rekurskommission
+
+[^42b-2]
 
 **Bestand**
 
-Art. 43[^hVDieRekurskommiss-1] <sup>1</sup> Die Rekurskommission ist die Judikative der Körperschaft. Sie ist unabhängig und nur dem Recht verpflichtet.
-
-**11**
-
-- 1\. 4. 23 - 120
+Art. 43[^hDRekurskommission-1] <sup>1</sup> Die Rekurskommission ist die Judikative der Körperschaft. Sie ist unabhängig und nur dem Recht verpflichtet.
 
 <sup>2</sup> Sie setzt sich aus der Präsidentin oder dem Präsidenten und vier Mitgliedern zusammen.
 
-[^hVDieRekurskommiss-1]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-
-#### Art. 44
-
 **Wahl**
 
-<sup>1</sup> Die Präsidentin oder der Präsident sowie die Mitglieder
+Art. 44[^hDRekurskommission-2] Die Präsidentin oder der Präsident sowie die Mitglieder werden von der Synode aus dem Kreis der stimmberechtigten Mitglieder der Körperschaft gewählt.
 
-und Ersatzmitglieder werden von der Synode aus dem Kreis der stimmberechtigten Mitglieder der Körperschaft gewählt.
+**Besondere Unvereinbarkeit**
 
-<sup>2</sup> Die Wahl erfolgt für eine Amtsdauer von vier Jahren, bei Ersatzwahlen für den Rest der laufenden Amtsdauer. Wiederwahl ist möglich.
+Art. 45[^hDRekurskommission-2] Für die Mitglieder der Rekurskommission gelten zusätzlich zu Art. 19 c–19 e die nachfolgenden Unvereinbarkeiten. Sie dürfen nicht gleichzeitig a. in einer Kirchgemeinde oder einem Zweckverband von Kirchgemeinden angestellt sein,
 
-#### Art. 45
+- b. ein Amt in einer Kirchgemeinde oder im Vorstand eines Zweckverbandes von Kirchgemeinden ausüben,
 
-**Unvereinbarkeit**
-
-<sup>1</sup> Die Mitgliedschaft in der Rekurskommission ist unver-
-
-einbar mit der Mitgliedschaft in der Synode, im Synodalrat, in der Aufsichtskommission über Kirchgemeinden und Zweckverbände, in einer Kirchenpflege oder im Vorstand eines Zweckverbands von Kirchgemeinden.[^45-1]
-
-<sup>2</sup> Für die Unvereinbarkeit wegen Aufsichtsverhältnis und Verwandtschaft werden die §§ 26 und 28 GPR[^45-2] als subsidiäres Recht gemäss Art. 6 angewendet.
-
-[^45-1]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-[^45-2]: LS 161.
-
-#### Art. 46
+- c. der Aufsichtskommission über Kirchgemeinden und Zweckverbände angehören.
 
 **Aufgaben**
 
-<sup>1</sup> Die Rekurskommission beurteilt Rekurse in Dreier-
-
-besetzung. Vorbehalten ist die Zuständigkeit staatlicher Organe nach § 18 Abs. 1 des Kirchengesetzes[^46-1] bei Anordnungen, welche sich allein unmittelbar auf kantonales Recht stützen.
-
-<sup>2</sup> . . .[^46-2]
+Art. 46[^hDRekurskommission-2] Die Rekurskommission beurteilt Rekurse in Dreierbesetzung. Vorbehalten ist die Zuständigkeit staatlicher Organe gemäss dem Kirchengesetz[^hDRekurskommission-3] bei Akten, die sich allein unmittelbar auf kantonales Recht stützen.
 
 **Rekurse**
 
-Art. 47[^46-3] Mit Rekurs können angefochten werden:
+Art. 47[^hDRekurskommission-2] Mit Rekurs können angefochten werden:
 
 - a. Anordnungen und Erlasse des Synodalrates, insbesondere:
 
@@ -697,48 +841,47 @@ Art. 47[^46-3] Mit Rekurs können angefochten werden:
 
 - 2\. Aufsichtsrechtliche Entscheide und Anordnungen des Synodalrates gegenüber Kirchgemeinden und Zweckverbänden,
 
-- 3\. Entscheide des Synodalrates über Rekurse zu personalrechtlichen Anordnungen der Kirchgemeinden und Zweckverbände,
+- 3\. Entscheide des Synodalrates über finanzielle Leistungen der Körperschaft oder über Finanzausgleichsbeiträge an die Kirchgemeinden oder von Kirchgemeinden an die Körperschaft oder den Finanzausgleich,
 
-- 4\. Personalrechtliche Anordnungen des Synodalrates,
+- 4\. Entscheide des Synodalrates über Rekurse zu personalrechtlichen Anordnungen der Kirchgemeinden und Zweckverbände,
+
+- 5\. personalrechtliche Anordnungen des Synodalrates,
 
 - b. Anordnungen und Erlasse der Kirchgemeinden und Zweckverbände sowie ihrer Organe,
+
+**15**
+
+- 1\. 1. 24 - 123
 
 - c. Unrechtmässiges Verweigern oder Verzögern einer anfechtbaren Anordnung durch den Synodalrat, eine Kirchgemeinde, einen Zweckverband oder ihre Organe,
 
 - d. Handlungen und Unterlassungen der Organe der Körperschaft und der Kirchgemeinden, die das Initiativ-, das Referendums- oder das Stimm- und Wahlrecht der Mitglieder der Körperschaft oder der Kirchgemeinden verletzen,
 
-- e. Reglemente, Beschlüsse und andere nicht referendumspflichtige Rechtsakte der Synode, die nicht unter lit. d fallen, wenn geltend gemacht wird, dass sie gegen die Kirchenordnung oder staatliches Recht verstossen. Ausgenommen sind die Erwahrung von Wahl- und Abstimmungsergebnissen, die Genehmigung des Voranschlages und die Abnahme der Jahresrechnung und des Jahresberichts sowie die Festsetzung der Beitragssätze zur Ermittlung der Zentralkassenbeiträge der Kirchgemeinden,
+- e. Reglemente, Beschlüsse und andere nicht referendumspflichtige Rechtsakte der Synode, die nicht unter lit. d fallen, wenn geltend gemacht wird, dass sie gegen die Kirchenordnung oder staatliches Recht verstossen. Ausgenommen sind die Erwahrung von Wahl- und Abstimmungsergebnissen, die Genehmigung des Budgets und die Abnahme der Jahresrechnung und des Jahresberichts sowie die Festsetzung der Beitragssätze für die finanziellen Leistungen der Kirchgemeinden an die Körperschaft,
 
 - f. Einspracheentscheide der Kirchenpflegen in Steuersachen, wenn die Zugehörigkeit zur Kirche bestritten wird.
 
-[^46-1]: LS 180.1.
-[^46-2]: Aufgehoben durch B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-[^46-3]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-
-#### Art. 48
-
 **Rekursverfahren**
 
-<sup>1</sup> Für das Rekursverfahren finden die für das Verwaltungs-
+Art. 48[^hDRekurskommission-2] <sup>1</sup> Für das Rekursverfahren finden die für das Verwaltungsgericht geltenden Bestimmungen des kantonalen Verwaltungsrechtspflegegesetzes[^hDRekurskommission-4] als subsidiäres Recht gemäss Art. 6 Anwendung.[^hDRekurskommission-1]
 
-gericht geltenden Bestimmungen des kantonalen Verwaltungsrechtspflegegesetzes[^48-1] als subsidiäres Recht gemäss Art. 6 Anwendung.[^48-2]
+<sup>2</sup> Die Rekurskommission kann bei Rekursen in Stimmrechtssachen die Vernehmlassungsfrist auf längstens 30 Tage ansetzen.
 
-<sup>2</sup> Für die Revision von erstinstanzlichen Anordnungen und von Entscheiden der Rekurskommission gilt in gleicher Weise der vierte Abschnitt des kantonalen Verwaltungsrechtspflegegesetzes[^48-1].
-
-[^48-1]: LS 175.2.
-[^48-2]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-
-#### Art. 49
+<sup>3</sup> Für die Revision von erstinstanzlichen Anordnungen und von Entscheiden der Rekurskommission gilt der vierte Abschnitt des Verwaltungsrechtspflegegesetze[^hDRekurskommission-4].
 
 **Besondere Ausstandsbestimmung**
 
-Ein Mitglied der Rekurskommission hat in Angelegenheiten der eigenen Kirchgemeinde oder des eigenen Zweckverbandes in den Ausstand zu treten.
+Art. 49[^hDRekurskommission-2] Ein Mitglied der Rekurskommission hat in Angelegenheiten der eigenen Kirchgemeinde in den Ausstand zu treten.
 
-[^49-1]: Aufgehoben durch B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^hDRekurskommission-1]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^hDRekurskommission-2]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^hDRekurskommission-3]: LS 180.1.
+[^hDRekurskommission-4]: LS 175.2.
+[^hDRekurskommission-5]: Aufgehoben durch B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
 
 #### Art. 50
 
-[^49-1]
+[^hDRekurskommission-5]
 
 #### Art. 51
 
@@ -746,65 +889,55 @@ Ein Mitglied der Rekurskommission hat in Angelegenheiten der eigenen Kirchgemein
 
 Die Rekurskommission erstattet der Synode jährlich Bericht über ihre Tätigkeit.
 
-#### Art. 52
-
 **Geschäftsordnung und Sekretariat**
 
-Die Rekurskommission gibt sich eine Geschäftsordnung und bestellt ihr Sekretariat.
+Art. 52[^51-1] Die Rekurskommission gibt sich eine Geschäftsordnung und kann ihr Sekretariat bestellen.
 
-### VI. Die Kirchgemeinden
+[^51-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
-#### Art. 53
+### IV. Kirchgemeinden
+
+[^51-1]
 
 **Bestand**
 
-<sup>1</sup> Die Körperschaft ist in Kirchgemeinden eingeteilt. Die
-
-bestehenden Kirchgemeinden sind in einem Verzeichnis im Anhang aufgeführt.
+Art. 53[^hIVKirchgemeinden-1] <sup>1</sup> Die Körperschaft ist in Kirchgemeinden eingeteilt. Die bestehenden Kirchgemeinden sind in einem Verzeichnis zur Kirchenordnung aufgeführt.
 
 <sup>2</sup> Sie umfassen die auf ihrem Gebiet wohnhaften Mitglieder der Körperschaft.
 
-**13**
+<sup>3</sup> Für die Neubildung, den Zusammenschluss und die Auflösung von Kirchgemeinden ist auf Gesuch der betreffenden Kirchgemeinden an den Synodalrat oder auf Antrag des Synodalrates die Synode zuständig.
 
-- 1\. 4. 23 - 120
-
-<sup>3</sup> Für die Neubildung, die Namensänderung, den Zusammenschluss und die Auflösung von Kirchgemeinden ist die Synode zuständig. Gebietsveränderungen bedürfen der Genehmigung des Synodalrates.
-
-#### Art. 54
+<sup>4</sup> Namens- und Gebietsveränderungen von Kirchgemeinden bedürfen der Genehmigung des Synodalrates.
 
 **Autonomie; Stimm- und Wahlrecht; subsidiäres Recht**
 
-<sup>1</sup> Die Kirchgemeinden sind selbstständige Körperschaften
-
-des öffentlichen Rechts gemäss Art. 130 Abs. 1 lit. b der Verfassung des Kantons Zürich[^54-1].
+Art. 54[^hIVKirchgemeinden-1] <sup>1</sup> Die Kirchgemeinden sind selbstständige Körperschaften des öffentlichen Rechts gemäss Art. 130 Abs. 1 lit. b der Verfassung des Kantons Zürich[^hIVKirchgemeinden-2].
 
 <sup>2</sup> Sie regeln ihre Angelegenheiten im Rahmen der Kirchenordnung autonom.
 
-<sup>3</sup> Stimm- und wahlberechtigt sind die Mitglieder der Kirchgemeinde, welche das 18. Altersjahr zurückgelegt haben und im Besitze des Schweizer Bürgerrechtes oder der Niederlassungs- oder Aufenthaltsbewilligung sind.
+<sup>3</sup> Stimm- und wahlberechtigt sind die Mitglieder der Kirchgemeinde, welche die Voraussetzungen gemäss Art. 10 erfüllen. Das Kirchgemeindereglement kann für die Wählbarkeit der Behördenmitglieder Ausnahmen von der Wohnsitzpflicht vorsehen.
 
-<sup>4</sup> Wo die Kirchgemeindeordnung und das Kirchgemeindereglement[^54-2] keine eigenen Bestimmungen enthalten, wird das staatliche Recht sinngemäss als eigenes Recht angewendet.[^54-3]
+<sup>4</sup> Die Kirchgemeinden führen ein Register der stimm- und wahlberechtigten Personen.
 
-[^54-1]: LS 101.
-[^54-2]: LS 182.60.
-[^54-3]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-
-#### Art. 55
+<sup>5</sup> Wo das körperschaftliche Recht keine eigenen Bestimmungen enthält, wird auf die Kirchgemeinden das staatliche Recht sinngemäss als eigenes Recht angewendet.
 
 **Organisation**
 
-<sup>1</sup> Die Kirchgemeinden regeln ihre Organisation sowie Zu-
+Art. 55[^hIVKirchgemeinden-1] <sup>1</sup> Die Kirchgemeinden regeln ihre Organisation sowie Zuständigkeit und Aufgaben ihrer Organe im Rahmen des Kirchengesetzes[^hIVKirchgemeinden-3], der Kirchenordnung, des Kirchgemeindereglements[^hIVKirchgemeinden-4] und des Finanzreglements der Kirchgemeinden[^hIVKirchgemeinden-5] in einer Kirchgemeindeordnung.
 
-ständigkeit und Aufgaben ihrer Organe im Rahmen des Kirchengesetzes[^55-1], der Kirchenordnung und des Kirchgemeindereglements[^55-2] in einer Kirchgemeindeordnung.[^55-3]
+<sup>2</sup> Die Kirchgemeinden können anstelle der Kirchgemeindeversammlung ein Kirchgemeindeparlament einführen. Das Kirchgemeindereglement regelt die Einzelheiten.
 
-<sup>2</sup> Die Kirchenpflege besteht aus mindestens fünf Mitgliedern.
+<sup>3</sup> Die Kirchenpflege besteht aus mindestens fünf Mitgliedern.
 
-<sup>3</sup> Der Pfarrer sowie der Diakon, die Pastoralassistentin oder der Pastoralassistent mit Gemeindeleitungsfunktion können nicht Mitglieder der Kirchenpflege sein. Sie nehmen an den Sitzungen mit beratender Stimme teil. Die Kirchgemeindeordnung kann die Teilnahme von weiteren Mitarbeitenden der Kirchgemeinde vorsehen.
+<sup>4</sup> Der Pfarrer und die oder der Pfarreibeauftragte können nicht Mitglieder der Kirchenpflege sein. Sie nehmen an deren Sitzungen mit beratender Stimme teil.
 
-<sup>4</sup> Die Kirchgemeindeordnung bedarf der Genehmigung durch den Synodalrat.
+<sup>5</sup> Die Kirchgemeindeordnung bedarf der Genehmigung durch den Synodalrat.
 
-[^55-1]: LS 180.1.
-[^55-2]: LS 182.60.
-[^55-3]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^hIVKirchgemeinden-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^hIVKirchgemeinden-2]: LS 101.
+[^hIVKirchgemeinden-3]: LS 180.1.
+[^hIVKirchgemeinden-4]: LS 182.60.
+[^hIVKirchgemeinden-5]: LS 182.63.
 
 #### Art. 56
 
@@ -812,9 +945,15 @@ ständigkeit und Aufgaben ihrer Organe im Rahmen des Kirchengesetzes[^55-1], der
 
 <sup>1</sup> Die Kirchgemeinden schaffen auf ihrem Gebiet Voraus-
 
-setzungen für die Entfaltung des kirchlichen Lebens.
+setzungen für die Entfaltung des kirchlichen Lebens im Sinne von Art. 4 Abs. 1.[^56-1]
+
+**17**
+
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Sie beachten bei der Aufgabenerfüllung die von Synode und Synodalrat erlassenen Richtlinien.
+
+[^56-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 57
 
@@ -828,37 +967,33 @@ Gemeinden geltenden Bestimmungen des unmittelbar anwendbaren kantonalen Steuerge
 
 <sup>3</sup> Wird die Zugehörigkeit zur Kirche bestritten, kann bei der Kirchenpflege Einsprache erhoben werden. Der Einspracheentscheid ist bei der Rekurskommission der Körperschaft anfechtbar. Für die Verfahren gilt das kantonale Recht als subsidiäres Recht gemäss Art. 6.
 
-#### Art. 58
-
 **Wahl der Pfarrer**
 
-<sup>1</sup> Die Kirchgemeinden wählen nach den Bestimmungen
+Art. 58[^57-1] <sup>1</sup> Die Kirchgemeinden wählen die Pfarrer auf eine Amtsdauer von sechs Jahren.
 
-der §§ 113–118 GPR[^58-1] die Pfarrer auf eine Amtsdauer von sechs Jahren.
+<sup>2</sup> Die Neuwahl der Pfarrer erfolgt an der Kirchgemeindeversammlung. Verfügt die Kirchgemeinde über ein Kirchgemeindeparlament, findet die Neuwahl an der Urne statt.
 
-<sup>2</sup> Pfarradministratoren mit Gemeindeleitungsfunktion müssen sich nach spätestens zwei Jahren der Wahl nach Abs. 1 unterziehen.
+<sup>3</sup> Die Bestätigungswahl erfolgt an der Urne, sofern keine stille Wahl zustande kommt. In Kirchgemeinden ohne Kirchgemeindeparlament kann die Kirchgemeindeordnung festlegen, dass die Bestätigungswahl an der Kirchgemeindeversammlung erfolgt.
 
-<sup>3</sup> Wählbar sind Personen, welche die Voraussetzungen für die Amtsausübung nach der kirchlichen Ordnung erfüllen.
+<sup>4</sup> Pfarradministratoren mit Gemeindeleitungsfunktion müssen sich nach spätestens zwei Jahren der Wahl unterziehen.
 
-<sup>4</sup> Für das Wahlverfahren gelten das GPR[^58-1] sowie das Reglement über die Neuwahl der Pfarrer und die Wahl der Gemeindeleitungen. Die Kirchgemeindeordnungen bestimmen, ob die Neuwahl der Pfarrer an der Kirchgemeindeversammlung oder an der Urne erfolgt.
+<sup>5</sup> Die Wahlverfahren werden im Reglement über die Wahl der Pfarrer und Pfarreibeauftragten[^57-2] geregelt.
 
-<sup>5</sup> Die vorzeitige Entlassung nach § 115 GPR[^58-1] regelt die Synode im Reglement.
+**Wahl der Pfarreibeauftragten**
 
-[^58-1]: LS 161.
+Art. 59[^57-1] Kann kein Priester als Pfarrer gewählt werden, wählt die Kirchgemeinde in der Kirchgemeindeversammlung die Pfarreibeauftragte oder den Pfarreibeauftragten auf eine Amtsdauer von sechs Jahren nach dem Reglement über die Wahl der Pfarrer und Pfarreibeauftragten[^57-2].
 
-#### Art. 59
+[^57-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^57-2]: LS 182.22.
+[^57-3]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
-**Wahl der Gemeindeleitung**
+#### Art. 59 a
 
-<sup>1</sup> Kann kein Priester als Pfarrer gewählt werden, wählt die
+**Vorzeitige Entlassung der Pfarrer und Pfarreibeauftragten**[^57-3]
 
-Kirchgemeinde den Diakon, die Pastoralassistentin oder den Pastoralassistenten mit Gemeindeleitungsfunktion auf eine Amtsdauer von drei Jahren.
+**Die vorzeitige Entlassung gewählter Pfarrer und der**
 
-<sup>2</sup> Wählbar sind Personen, welche die Voraussetzungen für die Amtsausübung nach der kirchlichen Ordnung erfüllen.
-
-<sup>3</sup> Für das Wahlverfahren gilt das Reglement über die Neuwahl der Pfarrer und die Wahl der Gemeindeleitungen. Die Wahl erfolgt an der Kirchgemeindeversammlung.
-
-<sup>4</sup> Beabsichtigt der Bischof, die Beauftragung nicht zu erneuern, wird rechtzeitig ein Einigungsverfahren zwischen dem Bischof und der Kirchgemeinde durchgeführt, um die Einvernehmlichkeit herzustellen.
+Pfarreibeauftragten ist im Reglement über die Wahl der Pfarrer und Pfarreibeauftragten geregelt.
 
 #### Art. 60
 
@@ -880,41 +1015,67 @@ zusammenschliessen.[^61-1]
 
 <sup>2</sup> Sie können auch vertraglich eine Zusammenarbeit vereinbaren, namentlich für die Organisation von Seelsorgeräumen und für die Seelsorge Anderssprachiger.
 
-**15**
+[^61-1]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^61-2]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
-- 1\. 4. 23 - 120 Art. 62[^61-1] Die Kirchgemeinden und ihre Verbindungen unterstehen der Aufsicht der Aufsichtskommission über Kirchgemeinden und Zweckverbände sowie der Oberaufsicht des Synodalrates.
+#### Art. 61 a
+
+**Datenübermittlung an den Synodalrat**[^61-2]
+
+<sup>1</sup> Die Kirchgemeinden übermitteln die Daten, die der
+
+Synodalrat zur Erfüllung von körperschaftlichen Aufgaben von den Kirchgemeinden benötigt, elektronisch.
+
+<sup>2</sup> Der Synodalrat kann den Kirchgemeinden die Verwendung von Softwareprogrammen vorschreiben, wenn diese für die Erfüllung seiner Aufgaben gemäss Abs. 1 notwendig sind.
 
 **Aufsicht**
 
-[^61-1]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+Art. 62[^61a-1] Die Kirchgemeinden und ihre Verbindungen unterstehen der Aufsicht der Aufsichtskommission über Kirchgemeinden und Zweckverbände sowie der Oberaufsicht des Synodalrates.
 
-### VII. Finanzen
+[^61a-1]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 454; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^61a-2]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
-#### Art. 63
+### V. Finanzen der Körperschaft
 
-**Zentralkasse**
+[^61a-2]
 
-<sup>1</sup> Die Körperschaft führt eine Zentralkasse.
+**Finanzierung**
 
-<sup>2</sup> Mit der Zentralkasse finanziert sie ihre Aufgaben sowie Baukostenbeiträge und allfällige weitere Leistungen an die Kirchgemeinden.
+Art. 63[^hVFinanzenderKörp-1] Die Körperschaft finanziert sich insbesondere durch:
 
-<sup>3</sup> Die Zentralkasse wird durch Beiträge der Kirchgemeinden, Kostenbeiträge des Staates sowie Zuwendungen gespeist.
+- a. Beiträge der Kirchgemeinden,
+
+- b. Beiträge des Kantons,
+
+- c. Zuwendungen,
+
+- d. Erträge des Finanzvermögens.
+
+[^hVFinanzenderKörp-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 64
 
 **Beiträge der Kirchgemeinden**
 
-<sup>1</sup> Die Kirchgemeinden entrichten jährlich die festgesetz-
+<sup>1</sup> Die Kirchgemeinden entrichten jährlich die festgesetzten
 
-ten Beiträge an die Zentralkasse.
+Beiträge an die Körperschaft.[^64-1]
 
 <sup>2</sup> Die Beitragsberechnung erfolgt aufgrund der von der Synode festgesetzten Beitragssätze und der eingegangenen Kirchensteuern.
 
-**Beiträge des Staates**
+**19**
 
-Art. 65[^64-1] Die Verwendung von Kostenbeiträgen des Staates an die Körperschaft richtet sich nach den gesetzlichen Bestimmungen und der Finanzordnung[^64-2].
+- 1\. 1. 24 - 123 Art. 65[^64-1] <sup>1</sup> Die Körperschaft verwendet ihre Mittel für:
 
-[^64-1]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
+**Mittelverwendung**
+
+- a. die Finanzierung ihrer Aufgaben,
+
+- b. Baukostenbeiträge und allfällige weitere Leistungen an die Kirchgemeinden.
+
+<sup>2</sup> Die Verwendung von Beiträgen des Kantons an die Körperschaft richtet sich nach den gesetzlichen Bestimmungen und der Finanzordnung[^64-2].
+
+[^64-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 [^64-2]: LS 182.25.
 
 #### Art. 66
@@ -929,18 +1090,14 @@ den Kirchgemeinden sicher.
 
 <sup>3</sup> Der Finanzausgleich wird durch Kirchgemeinden mit überdurchschnittlicher Steuerkraft finanziert.
 
-#### Art. 67
-
 **Finanzdaten der Kirchgemeinden**
 
-<sup>1</sup> Zur Ermittlung der Zentralkassenbeiträge und Finanz-
+Art. 67[^66-1] <sup>1</sup> Zur Ermittlung der Beiträge der Kirchgemeinden an die Körperschaft und der Finanzausgleichsleistungen stellen die Kirchgemeinden der Körperschaft die erforderlichen Finanzdaten elektronisch zur Verfügung.
 
-ausgleichsleistungen stellen die Kirchgemeinden der Körperschaft die erforderlichen Finanzdaten zur Verfügung.
+<sup>2</sup> Erfolgt die Datenübermittlung nicht innert der in der Finanzordnung[^66-2] festgelegten Frist, setzt der Synodalrat den Beitrag fest.
 
-<sup>2</sup> Erfolgt die Datenübergabe nicht innert der in der Finanzordnung[^67-1] festgelegten Frist, setzt der Synodalrat den Beitrag fest.[^67-2]
-
-[^67-1]: LS 182.25.
-[^67-2]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
+[^66-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^66-2]: LS 182.25.
 
 #### Art. 68
 
@@ -950,7 +1107,10 @@ ausgleichsleistungen stellen die Kirchgemeinden der Körperschaft die erforderli
 
 nötig sind, werden den Kirchgemeinden Beiträge ausgerichtet.
 
-<sup>2</sup> Das Reglement über Baukostenbeiträge regelt die Ausgestaltung der Beiträge und das Verfahren.
+<sup>2</sup> Das Reglement über Baukostenbeiträge[^68-1] regelt die Ausgestaltung der Beiträge, die sich insbesondere an den Kriterien der Nachhaltigkeit und der Ökologie orientieren, und das Verfahren.[^68-2]
+
+[^68-1]: LS 182.26.
+[^68-2]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 69
 
@@ -968,12 +1128,11 @@ Art. 70[^69-2] Der Synodalrat kann Beiträge der Kirchgemeinden aus dem Finanzau
 
 [^69-1]: LS 182.25.
 [^69-2]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
+[^69-3]: Aufgehoben durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 23
 
 #### Art. 71
 
-**Rekurs**
-
-Entscheide des Synodalrates über finanzielle Leistungen der Körperschaft oder über Finanzausgleichsbeiträge an die Kirchgemeinden oder von Kirchgemeinden an die Körperschaft oder an den Finanzausgleich sind mit Rekurs bei der Rekurskommission anfechtbar.
+[^69-3]
 
 #### Art. 72
 
@@ -981,27 +1140,25 @@ Entscheide des Synodalrates über finanzielle Leistungen der Körperschaft oder 
 
 Auf Zweckverbände von Kirchgemeinden mit einheitlichem Steuerfuss und zentralem Steuerbezug (Steuer-Zweckverbände) sind bezüglich des Finanzwesens die Bestimmungen über die Kirchgemeinden sinngemäss anwendbar.
 
-[^72-1]: Eingefügt durch B vom 4. Dezember 2014 (OS 70, 261). In Kraft seit 1. November 2015.
+[^72-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 72 a
 
-**Prüfung der Zentralkasse**[^72-1]
+**Revision**[^72-1]
 
-<sup>1</sup> Die Finanzkontrolle des Kantons Zürich prüft die
+<sup>1</sup> Die Revisionsstelle prüft den Finanzhaushalt der Kör-
 
-Zentralkasse und erstattet darüber dem Synodalrat und der Synode schriftlich Bericht.
+perschaft.
 
-<sup>2</sup> Die Synode wählt eine andere Revisionsstelle, wenn die Finanzkontrolle diese Aufgabe nicht übernimmt.
+<sup>2</sup> Die Revisionsstelle wird auf Antrag des Synodalrates durch die Synode bestimmt. Sie erstattet dem Synodalrat, der Synode und dem Kantonsrat schriftlich über das Ergebnis der Prüfung Bericht.
 
 **Finanzordnung**
 
-Art. 73[^72a-1] <sup>1</sup> Die Finanzordnung[^72a-2] regelt für die Römisch-katholische Körperschaft des Kantons Zürich (Körperschaft) a. den Finanzhaushalt und die Rechnungslegung,
+Art. 73[^72a-1] <sup>1</sup> Die Finanzordnung regelt für die Körperschaft a. den Finanzhaushalt und die Rechnungslegung,
 
-- b. die Führung der Zentralkasse,
+- b. das Ausgabenrecht.
 
-- c. das Ausgabenrecht.
-
-<sup>2</sup> Ausserdem regelt die Finanzordnung für die Körperschaft und die Kirchgemeinden a. die Beiträge der Kirchgemeinden an die Zentralkasse und deren Verwendung,
+<sup>2</sup> Ausserdem regelt sie für die Körperschaft und die Kirchgemeinden a. die Beiträge der Kirchgemeinden an die Körperschaft und deren Verwendung,
 
 - b. die Ausgestaltung des Programms über die Tätigkeiten von gesamtgesellschaftlicher Bedeutung,
 
@@ -1009,14 +1166,11 @@ Art. 73[^72a-1] <sup>1</sup> Die Finanzordnung[^72a-2] regelt für die Römisch-
 
 - d. den Finanzausgleich zwischen den Kirchgemeinden.
 
-**17**
+[^72a-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
-- 1\. 4. 23 - 120
+### VI. Übergangs- und Schlussbestimmungen
 
-[^72a-1]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
-[^72a-2]: LS 182.25.
-
-### VIII. Übergangs- und Schlussbestimmungen
+[^72a-1]
 
 #### Art. 74
 
@@ -1028,19 +1182,21 @@ Stimmberechtigten und Genehmigung durch den Regierungsrat[^74-1] zusammen mit de
 
 <sup>2</sup> Sie ersetzt die Kirchenordnung vom 28. November 1982 mit seitherigen Änderungen.
 
+**Übergangsbestimmung**
+
+Art. 75[^74-4] Mitglieder von Behörden und Organen bleiben bis zum Ablauf der Amtsdauer nach bisherigem Recht im Amt.
+
+**21**
+
+**Übergangsbestimmung zur Änderung vom 1. Dezember 2022**
+
+- 1\. 1. 24 - 123 Art. 76[^74-5] Erhöht sich aufgrund der Änderung von Art. 21 Abs. 2 die Zahl der auf eine Kirchgemeinde entfallenden Mitglieder der Synode, sind Ergänzungswahlen durchzuführen. Die Wahl der neuen Mitglieder erfolgt für den Rest der Amtsdauer 2023–2027. Stichtag für die Zahl der Mitglieder in der Synode pro Kirchgemeinde ist der 31. Dezember 2021.
+
 [^74-1]: Vom Regierungsrat genehmigt am 25. November 2009.
 [^74-2]: LS 180.1.
 [^74-3]: Inkrafttreten: 1. Januar 2010 (OS 63, 152).
-
-#### Art. 75
-
-**Übergangsbestimmung**
-
-<sup>1</sup> Die gewählten Organe bleiben bis zum Ablauf der Amts-
-
-dauer nach bisherigem Recht im Amt.
-
-<sup>2</sup> Die Rekurskommission wird vor dem Inkrafttreten der neuen Kirchenordnung gewählt. Sie tritt ihr Amt mit deren Inkrafttreten an.
+[^74-4]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^74-5]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 ### Anhang:
 
@@ -1050,7 +1206,7 @@ Kirchgemeinden: umfassend das Gebiet folgender
 
 ### Gemeinden oder Gemeindeteile:
 
-Adliswil Adliswil Affoltern a. A. Aeugst a. A., Affoltern a. A., Hedingen, Obfelden, Ottenbach Andelfingen-Feuerthalen[^hGemeindenoderGemei-1],[^hGemeindenoderGemei-2], <sup>30</sup> Andelfingen, Benken, Dachsen, Feuerthalen, Flurlingen, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Stammheim, Trüllikon,
+Adliswil Adliswil Affoltern a. A. Aeugst a. A., Affoltern a. A., Hedingen, Obfelden, Ottenbach Andelfingen-Feuerthalen[^hGemeindenoderGemei-1],[^hGemeindenoderGemei-2], <sup>34</sup> Andelfingen, Benken, Dachsen, Feuerthalen, Flurlingen, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Stammheim, Trüllikon,
 
 Truttikon
 
@@ -1058,7 +1214,7 @@ Bauma[^hGemeindenoderGemei-3] Bäretswil, Bauma, Fischenthal Birmensdorf Aesch, 
 
 Rifferswil
 
-Herrliberg Herrliberg Hinwil Hinwil Hombrechtikon[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Wolfhausen), Grüningen, Hombrechtikon Horgen[^hGemeindenoderGemei-7], <sup>28</sup> Horgen Illnau-Effretikon[^hGemeindenoderGemei-8] Brütten, Illnau-Effretikon (ohne Gemeindeteil Kyburg), Lindau Kilchberg Kilchberg Kloten Bassersdorf, Kloten, Nürensdorf Küsnacht-Erlenbach Erlenbach, Küsnacht Langnau a. A. Langnau a. A.
+Herrliberg Herrliberg Hinwil Hinwil Hombrechtikon[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Wolfhausen), Grüningen, Hombrechtikon Horgen[^hGemeindenoderGemei-7], <sup>32</sup> Horgen Illnau-Effretikon[^hGemeindenoderGemei-8] Brütten, Illnau-Effretikon (ohne Gemeindeteil Kyburg), Lindau Kilchberg Kilchberg Kloten Bassersdorf, Kloten, Nürensdorf Küsnacht-Erlenbach Erlenbach, Küsnacht Langnau a. A. Langnau a. A.
 
 Männedorf-Uetikon a. S. Männedorf, Uetikon a. S.
 
@@ -1068,7 +1224,7 @@ dangen
 
 Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), Dürnten, Rüti Schlieren Schlieren St. Petrus Embrachertal[^hGemeindenoderGemei-10] Embrach, Freienstein-Teufen, Lufingen, Oberembrach, Rorbas St. Pirminius Pfungen[^hGemeindenoderGemei-11] Berg a. I., Buch a. I., Dättlikon, Dorf, Flaach, Henggart, Neftenbach, Pfungen, Volken Stäfa Stäfa Thalwil-Rüschlikon Rüschlikon, Thalwil Turbenthal Turbenthal, Wila, Wildberg
 
-**21**
+**25**
 
 **Urdorf Greifensee, Uster, Volketswil Wädenswil Wald Dietlikon, Wallisellen,**
 
@@ -1094,11 +1250,11 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), 
 
 **Zürich (Friesenbergquartier)**
 
-**23**
+**27**
 
-- 1\. 4. 23 - 120 Urdorf Uster Wädenswil[^hGemeindenoderGemei-12],[^hGemeindenoderGemei-13] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-8] Kyburg), Schlatt, Weisslingen, Zell Zollikon-Zumikon[^hGemeindenoderGemei-14] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
+- 1\. 1. 24 - 123 Urdorf Uster Wädenswil[^hGemeindenoderGemei-12],[^hGemeindenoderGemei-13] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-8] Kyburg), Schlatt, Weisslingen, Zell Zollikon-Zumikon[^hGemeindenoderGemei-14] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 [^hGemeindenoderGemei-1]: Fassung gemäss B vom 7. April 2011 (OS 67, 396). In Kraft seit 1. Oktober 2012.
 [^hGemeindenoderGemei-2]: Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
@@ -1117,4 +1273,5 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), 
 
 ## Weitere Fussnoten
 
-- [30] Fassung gemäss B vom 28. November 2022 (ABl 2022-12-09). In Kraft seit 1. Januar 2023. 1. 4. 23 - 120 19
+- [20] Eingefügt durch B vom 4. Dezember 2014 (OS 70, 261). In Kraft seit 1. November 2015.
+- [34] Fassung gemäss B vom 28. November 2022 (ABl 2022-12-09). In Kraft seit 1. Januar 2023.
