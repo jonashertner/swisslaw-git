@@ -4,13 +4,13 @@ number: "710.11"
 title: "Règlement d'exécution de la loi sur l'aménagement du territoire et les constructions"
 short: ReLATeC
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-20
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-12-12
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7694/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7904/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aménagement du territoire et constructions – R
 
 (ReLATeC)
 
-du 01.12.2009 (version entrée en vigueur le 01.01.2023)
+du 01.12.2009 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -378,6 +378,16 @@ Arrête:
 
 <sup>2</sup> Dans le cadre de l'examen final, le SeCA requiert également des autorités compétentes les autorisations nécessaires en vertu de la législation spéciale.
 
+#### Art. 30a
+
+**Dispense d'examen préalable (art. 77a al. 2 LATeC)**
+
+<sup>1</sup> Le secteur bénéficiant d'une rocade dans la zone à bâtir doit:
+
+- a) se situer en continuité de la zone à bâtir légalisée existante;
+- b) se situer dans un secteur présentant une qualité de desserte en transports publics au minimum de niveau D, et
+- c) disposer d'un indice brut d'utilisation du sol (art. 130 al. 1 LATeC et ch. 8.2 annexe AIHC) fixé au minimum à 1,0 dans le règlement communal d'urbanisme ou de dispositions réglementaires permettant d'atteindre une densité équivalente.
+
 #### Art. 31
 
 **Procédure de consultation du dossier directeur (art. 78 al. 3 LATeC)**
@@ -599,13 +609,33 @@ Arrête:
 
 <sup>3</sup> Ces nominations sont soumises à la ratification de la Direction.
 
-### 2.5 Fonds cantonal de la plus-value
+### 2.5 Taxe sur la plus-value (art. 113a ss LATeC)
+
+#### Art. 51bis
+
+**Mention (art. 113a<sup>bis</sup> al. 3 LATeC)**
+
+<sup>1</sup> La mention est radiée sur requête du Service cantonal des contributions (ci-après: le SCC), avec l'accord de la Direction:
+
+- a) au paiement complet de la taxe sur la plus-value;
+- b) si le traitement du dossier de taxation permet de conclure qu'aucune taxe n'est due.
+
+#### Art. 51ter
+
+**Estimation de la plus-value (art. 113b al. 2b LATeC)**
+
+<sup>1</sup> Sont considérés comme impenses nécessaires à la mise en valeur du terrain selon l'article 113b al. 2b LATeC:
+
+- a) les frais d'étude pour l'élaboration d'un plan d'aménagement de détail obligatoire;
+- b) les frais d'équipement de détail;
+- c) les frais nécessaires afin de pouvoir respecter les exigences de l'article 3 de l'ordonnance fédérale du 26 août 1998 sur l'assainissement des sites pollués (OSites), hormis les frais susceptibles d'être indemnisés pour l'investigation, la surveillance et l'assainissement de sites pollués selon l'ordonnance fédérale relative à la taxe pour l'assainissement des sites contaminés (OTAS);
+- d) les frais découlant d'un remaniement de terrains à bâtir ou d'une régularisation de limites au sens des articles 105 ss LATeC.
 
 #### Art. 51a
 
-**Ordre de priorité**
+**Ordre de priorité du Fonds cantonal (art. 113c LATeC)**
 
-<sup>1</sup> Le Fonds cantonal de la plus-value (ci-après: le Fonds) est destiné en premier lieu à couvrir le financement de l'intégralité des indemnités dues pour expropriation matérielle au sens de l'article 113c al. 2 let. a LATeC, à concurrence des montants disponibles.
+<sup>1</sup> Le Fonds cantonal de la plus-value est destiné en premier lieu à couvrir le financement de l'intégralité des indemnités dues pour expropriation matérielle au sens de l'article 113c al. 2 let. a LATeC, à concurrence des montants disponibles.
 
 <sup>2</sup> Les objets mentionnés à l'article 113c al. 2 let. b à d LATeC ne peuvent faire l'objet d'une aide financière qu'à partir du moment où les montants cumulés ayant été alloués au Fonds auront dépassé les 20 millions de francs.
 
@@ -618,7 +648,7 @@ Arrête:
 
 #### Art. 51b
 
-**Ressources**
+**Ressources du Fonds cantonal**
 
 <sup>1</sup> Le Fonds est alimenté par:
 
@@ -626,9 +656,19 @@ Arrête:
 - b) les restitutions et remboursements des aides financières attribuées en application de l'article 51h;
 - c) le produit de la fortune du Fonds.
 
+#### Art. 51bbis
+
+**Charges de fonctionnement**
+
+<sup>1</sup> Dans les charges de fonctionnement selon l'article 113c al. 2 LATeC sont notamment compris:
+
+- a) les charges de personnel;
+- b) les charges liées à l'informatique;
+- c) les mandats pour l'estimation de la valeur vénale à déterminer pour calculer le montant de la taxe selon l'article 113d al. 1b LATeC.
+
 #### Art. 51c
 
-**Gestion administrative et contrôle du Fonds**
+**Gestion administrative et contrôle du Fonds cantonal**
 
 <sup>1</sup> La Direction prend toutes les décisions en application des dispositions de la présente section.
 
@@ -642,7 +682,7 @@ Arrête:
 - f) procède à des contrôles quant à la correcte utilisation des montants versés par le Fonds, conformément à l'affectation prévue;
 - g) tient un contrôle permanent des engagements pris et adresse chaque année à la Direction et à l'Administration des finances un état de ces engagements financiers.
 
-<sup>3</sup> Le Service cantonal des contributions pourvoit au versement des montants dus au Fonds des améliorations foncières et au Fonds de la plus-value, conformément à l'article 113c al. 1 et 2 LATeC.
+<sup>3</sup> Le SCC pourvoit au versement des montants dus au Fonds des améliorations foncières, au Fonds cantonal de la plus-value ainsi qu'aux communes.
 
 <sup>4</sup> Le Fonds est intégré au bilan de l'Etat.
 
@@ -652,9 +692,9 @@ Arrête:
 
 #### Art. 51d
 
-**Indemnité pour expropriation matérielle (art. 113c al. 2 let. a LATeC)**
+**Financement de l'indemnité pour expropriation matérielle par le Fonds cantonal (art. 113c al. 2 let. a LATeC)**
 
-<sup>1</sup> Les dépenses imposées aux communes dans le cadre des procédures d'expropriation matérielle ne peuvent être financées par le Fonds que si les montants qui doivent être versés résultent d'une décision définitive.
+<sup>1</sup> Les dépenses imposées aux communes dans le cadre des procédures d'expropriation matérielle ne peuvent être financées par le Fonds cantonal que si les montants qui doivent être versés résultent d'une décision entrée en force de la Commission d'expropriation. L'exception figurant à l'article 113c al. 2 let. a LATeC est toutefois réservée.
 
 <sup>2</sup> La commune adresse la demande de financement au SeCA, par écrit, dès qu'elle a connaissance de la demande d'indemnité pour expropriation matérielle.
 
@@ -668,7 +708,7 @@ Arrête:
 
 **Mesures d'aménagement (art. 113c al. 2 let. b à d LATeC) – Principes**
 
-<sup>1</sup> Peuvent être financés par le Fonds:
+<sup>1</sup> Peuvent être financés par le Fonds cantonal:
 
 - a) les objets mentionnés à l'article 113c al. 2 let. b LATeC, jusqu'à 30 % des frais engagés mais à concurrence de 300'000 francs pour les projets d'agglomération, de 150'000 francs pour les plans directeurs régionaux ou leur révision et de 50'000 francs pour les autres études régionales et communales;
 - b) les infrastructures mentionnées à l'article 113c al. 2 let. c LATeC, jusqu'à 10 % des frais engagés mais à concurrence de 100'000 francs;
@@ -703,6 +743,42 @@ Arrête:
 <sup>1</sup> Si le montant versé pour l'indemnité ou le financement des mesures d'aménagement au sens de l'article 51e n'est pas utilisé conformément à sa destination ou si les conditions dont il était assorti ne sont pas respectées, la Direction peut en exiger le remboursement, en vertu d'une application par analogie des articles 37 et 38 de la loi du 17 novembre 1999 sur les subventions.
 
 <sup>2</sup> L'article 41 de la loi du 17 novembre 1999 sur les subventions est applicable par analogie pour ce qui concerne les demandes de financement des mesures d'aménagement au sens de l'article 51e.
+
+#### Art. 51i
+
+**Règlement concernant l'affectation de la taxe communale (art. 113c al. 5 LATeC)**
+
+<sup>1</sup> Le règlement communal contient au moins les éléments suivants:
+
+- a) le taux;
+- b) l'affectation de la taxe.
+
+#### Art. 51j
+
+**Communication des données (art. 113d<sup>bis</sup> al. 2, 113e, 113e<sup>bis</sup> LATeC)**
+
+<sup>1</sup> Les registres fonciers informent la Direction et le SCC des modifications parcellaires entraînant un report de la mention d'assujettissement à la taxe.
+
+<sup>2</sup> Le SeCA annonce au SCC les cas tombant sous le coup des articles 113e al. 1 let. a et 113e<sup>bis</sup> al. 2 let. a et b LATeC.
+
+#### Art. 51k
+
+**Exigibilité différée (art. 113e<sup>bis</sup> al. 2 LATeC)**
+
+<sup>1</sup> Dans le cas prévu par l'article 113e<sup>bis</sup> al. 2 let. a LATeC, le paiement de la taxe est reporté pour l'ensemble du montant dû si:
+
+- a) les surfaces supplémentaires obtenues par le biais des permis de construire qui ont été octroyés après la mise à l'enquête publique de la mesure d'aménagement ne dépassent pas le 20 % des surfaces utiles principales (SUP) déjà légalisées sur le bien-fonds considéré;
+- b) les travaux portent sur l'assainissement et/ou l'amélioration énergétique du bâtiment.
+
+<sup>2</sup> Le report de l'exigibilité prévu par l'article 113e<sup>bis</sup> al. 2 let. c LATeC ne s'applique pas en cas d'aliénation simultanée ou successive de parts de propriété par étage, équivalant à l'aliénation de l'immeuble tout entier.
+
+#### Art. 51l
+
+**Hypothèque légale (art. 113g LATeC)**
+
+<sup>1</sup> En cas de modification parcellaire (par exemple une division de biens-fonds), sur requête du SCC, le registre foncier procède à la division de l'hypothèque et aux dégrèvements nécessaires.
+
+<sup>2</sup> En cas d'aliénation d'une part de propriété collective et de paiement partiel de la taxe, le SCC requiert auprès du registre foncier la réduction du capital de l'hypothèque.
 
 ## 3 Constructions
 
@@ -1056,17 +1132,17 @@ Arrête:
 <sup>1</sup> Sont soumis à l'obligation d'un permis de construire selon la procédure ordinaire:
 
 - a) la construction de nouveaux bâtiments, les démolitions (sous réserve de l'art. 150 al. 1 LATeC), les reconstructions, les agrandissements et les surélévations;
-- b) les réparations et transformations modifiant la structure du bâtiment, ses éléments dignes de protection ou l'affectation des locaux;
-- c) les changements d'affectation de locaux et les modifications d'installations susceptibles de porter atteinte à l'environnement, notamment les nouvelles installations au sens de l'article 2 al. 4 let. a de l'ordonnance fédérale du 16 décembre 1985 sur la protection de l'air (OPair), les installations notablement modifiées au sens de l'article 8 al. 2 et 3 de l'ordonnance fédérale du 15 décembre 1986 sur la protection contre le bruit (OPB), les installations modifiées au sens de l'article 9 de l'ordonnance fédérale du 23 décembre 1999 sur la protection contre le rayonnement non ionisant (ORNI), les installations soumises à l'étude d'impact sur l'environnement au sens de l'article 10a de la loi fédérale du 7 octobre 1983 sur la protection de l'environnement (LPE) ainsi que les installations susceptibles de porter atteinte aux eaux;
-- d) les installations de chauffage et/ou d'eau chaude sanitaire et les équipements qui leur sont liés, sous réserve de l'article 85 al. 1 let. d;
+- b) les transformations susceptibles de porter atteinte à la stabilité de la structure porteuse d'un bâtiment ou à ses éléments dignes de protection;
+- c) les changements d'affectation de locaux et les modifications d'installations susceptibles de porter atteinte à l'environnement, notamment les nouvelles installations au sens de l'article 2 al. 4 let. a de l'ordonnance fédérale du 16 décembre 1985 sur la protection de l'air (OPair), les installations notablement modifiées au sens de l'article 8 al. 2 et 3 de l'ordonnance fédérale du 15 décembre 1986 sur la protection contre le bruit (OPB), les installations modifiées au sens de l'article 9 de l'ordonnance fédérale du 23 décembre 1999 sur la protection contre le rayonnement non ionisant (ORNI), les installations soumises à l'étude d'impact sur l'environnement au sens de l'article 10a de la loi fédérale du 7 octobre 1983 sur la protection de l'environnement (LPE) ainsi que les installations susceptibles de porter atteinte aux eaux, sous réserve l'article 85 al. 1 let. d;
+- d) …
 - e) …
-- f) les ouvrages de génie civil tels que remblais, déblais, murs de soutènement d'une hauteur de plus de 1,20 m par rapport au terrain naturel, murs et parois paraphones, conduites, canalisations, captages d'eau, aménagements de cours d'eau, ainsi que les accès à une route publique;
+- f) les ouvrages de génie civil tels que remblais, déblais, parois paraphones, conduites, canalisations, captages d'eau, aménagements de cours d'eau, ainsi que les accès à une route publique;
 - g) l'exploitation de gravières, de décharges et de carrières ainsi que toutes les installations liées à ces exploitations;
 - g<sup>bis</sup>) l'extraction de matériaux du domaine public des eaux soumise à notice d'impact (art. 58 RCEaux);
 - h) les aménagements et installations destinés aux sports ou aux loisirs tels que places de sport, patinoires, ports, piscines publiques et plages, stands et installations de tir, pistes de motocross, karting, pistes de modèles réduits, installations de fabrication de neige artificielle, aménagements de camping-caravaning;
-- i) toute installation et tous travaux de nature à modifier de façon sensible la configuration du sol ou l'aspect d'un paysage, d'un lieu ou d'un quartier, sous réserve de l'article 85 al. 1 let. a;
+- i) toute installation et tous travaux de nature à modifier de façon sensible la configuration du sol ou l'aspect d'un paysage, d'un lieu ou d'un quartier;
 - j) les travaux d'assainissement qui impliquent une intervention sur le sol;
-- k) les stations-service et les distributeurs de carburants, les silos et les réservoirs de tout genre;
+- k) les stations-service et les distributeurs de carburants, les silos et les réservoirs de tout genre, sous réserve des articles 85 al. 1 let. j et 87 al. 1 let. e2 ch. 1;
 - l) les stations émettrices soumises à l'ORNI;
 - m) les serres et les tunnels d'exploitation agricole, maraîchère ou horticole à caractère permanent.
 
@@ -1076,18 +1152,21 @@ Arrête:
 
 <sup>1</sup> Sont soumis à l'obligation d'un permis de construire selon la procédure simplifiée:
 
-- a) les murs de soutènement d'une hauteur maximale de 1,20 m par rapport au terrain naturel et les murs de clôture;
-- b) les travaux d'entretien, de réparation, de rénovation de façades et de toitures qui modifient sensiblement l'aspect de l'ouvrage;
+- a) les murs de soutènement, y compris les mouvements de terre qui sont liés à leur réalisation, les murs de clôture ainsi que les clôtures sous réserve de l'article 87 al. 1 let. e2 ch. 3;
+- b) les travaux de rénovation de façades et de toitures qui modifient sensiblement l'aspect de l'ouvrage;
+- b1) les transformations intérieures qui ne sont pas susceptibles de porter atteinte à la stabilité de la structure porteuse d'un bâtiment;
 - c) les changements d'affectation de locaux et les modifications d'installations qui ne nécessitent pas de travaux ni ne sont susceptibles de porter atteinte à l'environnement ou aux eaux;
 - c<sup>bis</sup>) les changements d'affectation en résidences secondaires de logements utilisés comme résidences principales ainsi que les modifications prévues par la législation fédérale sur les résidences secondaires (art. 13 LRS), dans la mesure où cela ne nécessite pas de travaux ni n'est susceptible de porter atteinte à l'environnement ou aux eaux;
-- d) les renouvellements de système de chauffage et/ou d'eau chaude sanitaire, y compris les travaux nécessaires qui y sont liés;
-- e) les installations sanitaires;
+- d) les installations de ventilation, de climatisation et de chauffage, y compris le renouvellement de système de chauffage et/ou d'eau chaude sanitaire, ainsi que les travaux qui y sont liés;
+- d1) les infrastructures souterraines servant au raccordement des bâtiments au réseau de distribution principal;
+- e) …
 - f) les installations solaires, dans la mesure où elles ne sont pas dispensées de permis en vertu du droit fédéral; sont notamment soumises à l'obligation de permis les installations solaires prévues sur des bâtiments situés dans une zone de protection au sens de l'article 59 LATeC ou dans un périmètre de protection au sens de l'article 72 al. 1 LATeC;
+- f1) les bornes de recharge pour véhicules électriques sous réserve de l'article 87 al.1 let. b1;
 - g) les déblais et remblais d'une hauteur maximale de 1,20 m par rapport au terrain naturel et dont la surface n'excède pas 500 m²;
 - h) les panneaux et autres supports destinés aux réclames, sous réserve de l'article 84 let. i;
 - i) les distributeurs automatiques;
 - i<sup>bis</sup>) les emplacements destinés au stationnement de cuisines ambulantes;
-- j) les autres constructions et installations de peu d'importance qui ne sont pas utilisées ni utilisables pour l'habitation et le travail, telles qu'antennes de radio, abris pour petits animaux (poulaillers, clapiers…), garages, couverts à voitures ou places de stationnement, cabanes de jardin, couverts, jardins d'hiver non chauffés, biotopes, piscines privées.
+- j) les autres constructions et installations de peu d'importance qui ne sont pas utilisées ni utilisables pour l'habitation et le travail, telles qu'antennes de radio, abris pour petits animaux (poulaillers, clapiers...), garages, couverts à voitures ou places de stationnement, cabanes de jardin, bûchers, pergolas, couverts, jardins d'hiver non chauffés, biotopes, réservoirs de récupération d'eau de pluie, piscines et serres privées, sous réserve de l'article 87 al. 1 let. b et e2 ch. 1 et 2.
 
 <sup>2</sup> En cas de doute, le conseil communal prend préalablement l'avis du préfet.
 
@@ -1110,16 +1189,32 @@ Arrête:
 
 <sup>1</sup> Ne sont pas soumis à permis de construire:
 
-- a) les travaux d'entretien et de réparation qui ne modifient pas sensiblement l'aspect de l'ouvrage;
-- b) les petites installations annexes telles qu'antennes paraboliques, terrasses de jardin non couvertes, cheminées de jardin privées, installations privées de jeux pour enfants, piscines (démontables ou gonflables) sans circuit de traitement d'eau non couvertes et non chauffées;
+- a) les travaux d'entretien et de réparation ainsi que les travaux de rénovation de façades et de toitures qui ne modifient pas sensiblement l'aspect de l'ouvrage;
+- b) les petites installations annexes telles qu'antennes paraboliques, terrasses de jardin non couvertes, cheminées de jardin privées, installations privées de jeux pour enfants, ainsi que les piscines à caractère saisonnier, démontées en fin de saison;
+- b1) les bornes de recharge pour véhicules électriques en relation avec une habitation individuelle au sens des articles 55 et 56;
 - c) les installations et aménagements des espaces extérieurs ou de jardins tels qu'escaliers, fontaines, sculptures;
-- d) les clôtures;
+- c1) les croix sommitales d'une hauteur maximale de 2 mètres;
+- d) …
 - e) les serres et tunnels d'exploitation maraîchère ou horticole à caractère saisonnier démontés à la fin de la saison;
+- e1) les constructions et les installations mises en place de manière temporaire à des fins touristiques ou de loisir pour une durée maximale de trois mois;
+- e2) à l'intérieur de la zone à bâtir:
+  - 1\. les bûchers, cabanons de jardin, réservoirs de récupération d'eau de pluie et serres privées d'une emprise au sol maximale de 6 m² et d'une hauteur totale maximale de 2,50 m, pour autant qu'ils soient implantés à une distance du fonds voisin correspondant au minimum à la moitié de leur hauteur;
+  - 2\. les pergolas végétalisées de 12 m² au maximum et d'une hauteur totale maximale de 2,50 m, pour autant qu'elles soient implantées à une distance du fonds voisin correspondant au minimum à la moitié de leur hauteur;
+  - 3\. les clôtures en treillis;
 - f) les caravanes et mobil-homes implantés dans des zones affectées et aménagées à cet effet par le plan d'aménagement local.
+- g) les installations solaires aménagées sur des bâtiments situés dans les zones d'activités et qui sont soumises à la procédure d'annonce conformément à l'alinéa 3.
 
-<sup>2</sup> La procédure simplifiée doit toutefois être suivie lorsque les constructions et installations énumérées aux lettres a à d se situent dans un secteur faisant l'objet d'une mesure de protection et lorsqu'elles sont en relation avec un bâtiment protégé.
+<sup>2</sup> La procédure simplifiée doit toutefois être suivie lorsque les constructions et installations énumérées aux lettres b à e2 sont situées:
 
-<sup>3</sup> Les installations solaires dispensées de permis au sens du droit fédéral doivent être annoncées à la commune trente jours avant le début des travaux. Les plans et documents qui doivent être joints à l'annonce sont définis dans les directives édictées par la Direction (art. 89 al. 2).
+- a) à moins de 20 mètres ou de toute autre distance légalisée, d'une zone riveraine (lac et cours d'eau), de la forêt, d'une réserve naturelle, d'un objet naturel protégé;
+- b) à une distance inférieure à celle qui est applicable par rapport à une route publique en vertu de la loi du 5 novembre 2021 sur la mobilité;
+- c) dans l'espace réservé aux eaux;
+- d) dans un secteur faisant l'objet d'une mesure de protection;
+- e) dans un périmètre archéologique;
+- f) dans un corridor à faune;
+- g) à proximité d'un bâtiment protégé.
+
+<sup>3</sup> Les installations solaires dispensées de permis au sens du droit fédéral ainsi que celles aménagées sur des bâtiments situés dans les zones d'activités doivent être annoncées à la commune trente jours avant le début des travaux. Les plans et documents qui doivent être joints à l'annonce sont définis dans les directives édictées par la Direction (art. 89 al. 2).
 
 <sup>4</sup> Les changements d'utilisation au sens de la législation fédérale sur les résidences secondaires (art. 7 ORSec) doivent être annoncés au préfet, par écrit, dans un délai de trente jours dès l'emménagement. Le préfet avise d'office le Registre foncier des changements d'utilisation afin que celui-ci procède à l'adaptation nécessaire des mentions.
 
@@ -1161,7 +1256,7 @@ Arrête:
 
 <sup>3</sup> La demande doit également être déposée sous forme papier.
 
-<sup>4</sup> La demande doit contenir toutes les indications et tous les documents nécessaires à son examen, conformément aux directives édictées par la Direction. Ces directives précisent également le nombre et le contenu des dossiers sur papier.
+<sup>4</sup> La demande doit contenir toutes les indications et tous les documents nécessaires à son examen, conformément aux directives édictées par la Direction. Celle-ci veille à ce que les exigences formelles requises pour la procédure simplifiée se limitent aux informations indispensables au traitement de la demande. Les directives précisent également le nombre d'exemplaires des dossiers sur papier.
 
 #### Art. 89a
 
@@ -1431,6 +1526,14 @@ Arrête:
 **Inscription au REG**
 
 <sup>1</sup> Les personnes qui ne sont pas encore inscrites dans un registre A ou B du REG et qui sont habilitées à déposer des dossiers d'aménagement ou des demandes de permis en vertu de la loi du 9 mai 1983 sur l'aménagement du territoire et les constructions disposent d'un délai de deux ans pour s'inscrire au REG afin que leur qualification puisse être reconnue conformément aux articles 5 et 6.
+
+#### Art. 113a
+
+**Droit transitoire – Modification du 12 décembre 2023 – Taxe communale**
+
+<sup>1</sup> Pour les mesures d'aménagement approuvées dès le 1<sup>er</sup> octobre 2023, le canton verse à la commune la part de la taxe sur la plus-value qui lui est dévolue si le règlement communal sur la plus-value entre en vigueur avant le 1<sup>er</sup> janvier 2026.
+
+<sup>2</sup> Dès le 1<sup>er</sup> janvier 2026, la taxe communale sur la plus-value ne peut être prélevée que sur les mesures d'aménagement approuvées après l'entrée en vigueur du règlement communal.
 
 #### Art. 114
 

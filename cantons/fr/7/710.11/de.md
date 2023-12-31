@@ -4,13 +4,13 @@ number: "710.11"
 title: Ausführungsreglement zum Raumplanungs- und Baugesetz
 short: RPBR
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-20
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-12-12
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7694/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7904/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Raumplanungs- und Baugesetz – R
 
 (RPBR)
 
-vom 01.12.2009 (Fassung in Kraft getreten am 01.01.2023)
+vom 01.12.2009 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -378,6 +378,16 @@ beschliesst:
 
 <sup>2</sup> Im Rahmen der Schlussprüfung holt das BRPA ebenfalls die nötigen Bewilligungen der zuständigen Behörden gemäss Spezialgesetzgebung ein.
 
+#### Art. 30a
+
+**Befreiung von der Vorprüfung (Art. 77 Abs. 2 RPBG)**
+
+<sup>1</sup> Der Sektor, dem der Abtausch in der Bauzone zugutekommt, muss:
+
+- a) in Fortsetzung der bestehenden rechtmässigen Bauzone liegen;
+- b) in einem Sektor liegen, der eine Erschliessungsqualität mit dem öffentlichen Verkehr von mindestens Niveau D aufweist, und
+- c) über eine Geschossflächenziffer (Art. 130 Abs. 1 RPBG und Ziff. 8.2 Anhang IVHB), die im Gemeindebaureglement auf mindestens 1,0 festgelegt ist, oder über reglementarische Bestimmungen verfügen, die eine gleichwertige Dichte ermöglichen.
+
 #### Art. 31
 
 **Vernehmlassungsverfahren Richtplandossier (Art. 78 Abs. 3 RPBG)**
@@ -599,13 +609,33 @@ beschliesst:
 
 <sup>3</sup> Diese Ernennungen werden der Direktion zur Genehmigung unterbreitet.
 
-### 2.5 Kantonaler Mehrwertfonds
+### 2.5 Mehrwertabgabe (Art. 113a ff. RPBG)
+
+#### Art. 51bis
+
+**Anmerkung (Art. 113a<sup>bis</sup> Abs. 3 RPBG)**
+
+<sup>1</sup> Die Anmerkung wird auf Antrag der Kantonalen Steuerverwaltung (KSTV), mit Einverständnis der Direktion, in folgenden Fällen gelöscht:
+
+- a) nach vollständiger Bezahlung der Mehrwertabgabe;
+- b) wenn die Bearbeitung des Dossiers zu dem Schluss führt, dass keine Abgabe geschuldet wird.
+
+#### Art. 51ter
+
+**Schätzung des Mehrwertes (Art. 113b Abs. 2b RPBG)**
+
+<sup>1</sup> Als notwendige Ausgaben für die Aufwertung des Grundstücks gemäss Artikel 113b Abs. 2b RPBG gelten:
+
+- a) die Kosten für die Studie zur Erstellung eines obligatorischen Detailbebauungsplans;
+- b) die Kosten für die Feinerschliessung;
+- c) die Kosten, die notwendig sind, um die Anforderungen von Artikel 3 der Verordnung über die Sanierung von belasteten Standorten (AltlV) erfüllen zu können, mit Ausnahme der Kosten, die für die Überwachung und die Sanierung von belasteten Standorten gemäss der Verordnung über die Abgabe zur Sanierung von Altlasten (VASA) entschädigt werden können;
+- d) die Kosten für eine Baulandumlegung und Grenzbereinigung im Sinne von Artikel 105 ff. RPBG.
 
 #### Art. 51a
 
-**Prioritätenordnung**
+**Prioritätenordnung des kantonalen Mehrwertfonds (Art. 113c RPBG)**
 
-<sup>1</sup> Der kantonale Mehrwertfonds (der Fonds) dient in erster Linie dazu, die Finanzierung aller geschuldeten Entschädigungen wegen materieller Enteignung gemäss Artikel 113c Abs. 2 Bst. a RPBG höchstens bis zu den verfügbaren Beträgen zu decken.
+<sup>1</sup> Der kantonale Mehrwertfonds dient in erster Linie dazu, die Finanzierung aller geschuldeten Entschädigungen wegen materieller Enteignung gemäss Artikel 113c Abs. 2 Bst. a RPBG höchstens bis zu den verfügbaren Beträgen zu decken.
 
 <sup>2</sup> Objekte nach Artikel 113c Abs. 2 Bst. b–d RPBG können erst finanziell unterstützt werden, wenn die im Fonds kumulierten Beträge 20 Millionen Franken überstiegen haben.
 
@@ -618,7 +648,7 @@ beschliesst:
 
 #### Art. 51b
 
-**Einnahmen**
+**Einnahmen des kantonalen Mehrwertfonds**
 
 <sup>1</sup> Der Fonds wird gespiesen durch:
 
@@ -626,9 +656,19 @@ beschliesst:
 - b) die Rückerstattungen und ‑zahlungen der zugewiesenen finanziellen Unterstützungen gemäss Artikel 51h;
 - c) den Ertrag des Fondsvermögens.
 
+#### Art. 51bbis
+
+**Betriebsaufwand**
+
+<sup>1</sup> Im Betriebsaufwand nach Artikel 113c Abs. 2 RPBG sind insbesondere enthalten:
+
+- a) die Personalkosten;
+- b) die Kosten für die Informatik;
+- c) Mandate für die Schätzung des Verkehrswerts, der für die Berechnung des Beitrags nach Artikel 113d Abs. 1b RPBG zu bestimmen ist.
+
 #### Art. 51c
 
-**Administrative Verwaltung und Kontrolle des Fonds**
+**Administrative Verwaltung und Kontrolle des kantonalen Mehrwertfonds**
 
 <sup>1</sup> Die Direktion trifft alle Entscheide gemäss den Bestimmungen dieses Abschnitts.
 
@@ -642,7 +682,7 @@ beschliesst:
 - f) kontrolliert es, ob die vom Fonds ausbezahlten Beträge entsprechend der vorgesehenen Zuweisung verwendet werden;
 - g) kontrolliert es laufend die getroffenen finanziellen Verpflichtungen und übermittelt der Direktion und der Finanzverwaltung jedes Jahr einen Lagebericht über diese finanziellen Verpflichtungen.
 
-<sup>3</sup> Die kantonale Steuerverwaltung sorgt für die Einzahlung der geschuldeten Beträge in den Bodenverbesserungsfonds und in den Mehrwertfonds gemäss Artikel 113c Abs. 1 und 2 RPBG.
+<sup>3</sup> Die KSTV sorgt für die Einzahlung der geschuldeten Beträge in den Bodenverbesserungsfonds, in den kantonalen Mehrwertfonds und an die Gemeinden.
 
 <sup>4</sup> Der Fonds wird in die Bilanz des Staates aufgenommen.
 
@@ -652,9 +692,9 @@ beschliesst:
 
 #### Art. 51d
 
-**Entschädigung wegen materieller Enteignung (Art. 113c Abs. 2 Bst. a RPBG)**
+**Entschädigung wegen materieller Enteignung durch den kantonalen Mehrwertfonds (Art. 113c Abs. 2 Bst. a RPBG)**
 
-<sup>1</sup> Die den Gemeinden auferlegten Ausgaben im Rahmen der Verfahren für materielle Enteignung können nur vom Fonds finanziert werden, wenn den zu leistenden Beträgen ein rechtskräftiger definitiver Entscheid zugrunde liegt.
+<sup>1</sup> Die den Gemeinden auferlegten Ausgaben im Rahmen der Verfahren für materielle Enteignung können nur vom kantonalen Mehrwertfonds finanziert werden, wenn den zu leistenden Beträgen ein rechtskräftiger Entscheid der Enteignungskommission zugrunde liegt. Die Anwendung von Artikel 113c Abs. 2 Bst. a RPBG bleibt vorbehalten.
 
 <sup>2</sup> Die Gemeinde richtet das Finanzierungsgesuch schriftlich an das BRPA, sobald sie Kenntnis vom Gesuch um Entschädigung wegen materieller Enteignung hat.
 
@@ -668,7 +708,7 @@ beschliesst:
 
 **Raumplanungsmassnahmen (Art. 113c Abs. 2 Bst. b–d RPBG) – Grundsätze**
 
-<sup>1</sup> Durch den Fonds können finanziert werden:
+<sup>1</sup> Durch den kantonalen Mehrwertfonds können finanziert werden:
 
 - a) Objekte nach Artikel 113c Abs. 2 Bst. b RPBG, bis zu 30 % der eingesetzten Kosten, aber höchstens 300'000 Franken für die Agglomerationsprogramme, 150'000 Franken für die regionalen Richtpläne oder deren Revision und 50'000 Franken für die anderen regionalen und kommunalen Studien;
 - b) Infrastrukturen nach Artikel 113c Abs. 2 Bst. c RPBG, bis zu 10 % der eingesetzten Kosten, aber höchstens 100'000 Franken;
@@ -703,6 +743,42 @@ beschliesst:
 <sup>1</sup> Wenn der Betrag für die Entschädigung oder Finanzierung von Raumplanungsmassnahmen gemäss Artikel 51e nicht bestimmungsgemäss genutzt wird oder falls die damit verbundenen Bedingungen nicht eingehalten werden, kann die Direktion aufgrund einer sinngemässen Anwendung der Artikel 37 und 38 des Subventionsgesetzes vom 17. November 1999 die Rückerstattung des Betrags fordern.
 
 <sup>2</sup> Artikel 41 des Subventionsgesetzes vom 17. November 1999 gilt für Gesuche um Finanzierung von Raumplanungsmassnahmen nach Artikel 51e sinngemäss.
+
+#### Art. 51i
+
+**Reglement über die Verwendung der Gemeindeabgabe (Art. 113c Abs. 5 RPBG)**
+
+<sup>1</sup> Das Gemeindereglement enthält mindestens die folgenden Elemente:
+
+- a) den Satz;
+- b) die Verwendung der Abgabe.
+
+#### Art. 51j
+
+**Kommunikation der Daten (Art.113d<sup>bis</sup> Abs. 2, 113e, 113e<sup>bis</sup> RPBG)**
+
+<sup>1</sup> Die Grundbuchämter informieren die Direktion und die KSTV über Änderungen der Parzellen, die eine Übertragung der Anmerkung über die Unterstellung unter die Mehrwertabgabe zur Folge haben.
+
+<sup>2</sup> Das BRPA meldet der KSTV Fälle, die unter die Artikel 113e Abs. 1 Bst. a und 113e<sup>bis</sup> Abs. 2 Bst. a und b RPBG fallen.
+
+#### Art. 51k
+
+**Aufgeschobene Fälligkeit (Art. 113e<sup>bis</sup> Abs. 2 RPBG)**
+
+<sup>1</sup> Im Fall nach Artikel 113e<sup>bis</sup> Abs. 2 Bst. a RPBG wird die Zahlung der Abgabe für den gesamten geschuldeten Betrag aufgeschoben, wenn:
+
+- a) die zusätzlichen Flächen, die durch die erteilten Baubewilligungen nach der öffentlichen Auflage der Planungsmassnahme gewonnen werden, nicht mehr als 20 % der bereits legalisierten Hauptnutzflächen (HNF) auf dem betreffenden Grundstück betragen;
+- b) die Arbeiten die Sanierung und/oder energetische Verbesserung des Gebäudes betreffen.
+
+<sup>2</sup> Der Aufschub der Fällgikeit nach Artikel 113e<sup>bis</sup> Abs. 2 Bst. c RPBG ist nicht anwendbar bei gleichzeitiger oder aufeinanderfolgender Veräusserung von Stockwerkeigentumsanteilen, die der Veräusserung des gesamten Grundstücks gleichkommt.
+
+#### Art. 51l
+
+**Gesetzliches Pfandrecht (Art. 113g RPBG)**
+
+<sup>1</sup> Bei einer Änderung der Parzelle (z. B. Teilung von Grundstücken) nimmt das Grundbuchamt auf Antrag der KSTV die Teilung der Hypothek und die notwendigen Entlastungen vor.
+
+<sup>2</sup> Bei Veräusserung eines gemeinschaftlichen Eigentums und bei teilweiser Bezahlung der Abgabe beantragt die KSTV beim Grundbuchamt die Herabsetzung des Hypothekarkapitals.
 
 ## 3 Bauten
 
@@ -1056,17 +1132,17 @@ beschliesst:
 <sup>1</sup> Nach dem ordentlichen Verfahren sind baubewilligungspflichtig:
 
 - a) der Bau neuer Gebäude, der Abbruch (unter Vorbehalt von Artikel 150 Abs. 1 RPBG), der Wiederaufbau, die Vergrösserung und Aufstockung;
-- b) Ausbesserungen und Umbauten, welche die Gebäudestruktur, die schützenswerten Elemente oder die Zweckbestimmung der Räume verändern;
-- c) Nutzungsänderungen von Räumen und die Änderungen von Anlagen, die die Umwelt beeinträchtigen könnten, insbesondere neue Anlagen im Sinne von Artikel 2 Abs. 4 Bst. a der Luftreinhalte-Verordnung (LRV), wesentlich geänderte Anlagen im Sinne von Artikel 8 Abs. 2 und 3 der Lärmschutz-Verordnung (LSV), geänderte Anlagen im Sinne von Artikel 9 der Verordnung über den Schutz vor nichtionisierender Strahlung (NISV), Anlagen, die der Umweltverträglichkeitsprüfung im Sinne von Artikel 10a des Umweltschutzgesetzes vom 7. Oktober 1983 (USG) unterstehen, und wassergefährdende Anlagen;
-- d) Heiz- und/oder Warmwasseranlagen und damit verbundene technische Anlagen unter Vorbehalt von Artikel 85 Abs. 1 Bst. d;
+- b) Umbauten, welche die Festigkeit der tragenden Struktur eines Gebäudes oder seine schützenswerten Elemente beeinträchtigen könnten;
+- c) Nutzungsänderungen von Räumen und die Änderungen von Anlagen, welche die Umwelt beeinträchtigen könnten, insbesondere neue Anlagen im Sinne von Artikel 2 Abs. 4 Bst. a der Luftreinhalte-Verordnung (LRV), wesentlich geänderte Anlagen im Sinne von Artikel 8 Abs. 2 und 3 der Lärmschutz-Verordnung (LSV), geänderte Anlagen im Sinne von Artikel 9 der Verordnung über den Schutz vor nichtionisierender Strahlung (NISV), Anlagen, die der Umweltverträglichkeitsprüfung im Sinne von Artikel 10a des Umweltschutzgesetzes vom 7. Oktober 1983 (USG) unterstehen, und wassergefährdende Anlagen. Vorbehalten bleibt Artikel 85 Abs. 1 Bst. d;
+- d) …
 - e) …
-- f) Tiefbauwerke, wie Aufschüttungen, Abgrabungen, Stützmauern, die höher sind als 1,20 m ab gewachsenem Boden, Lärmschutzmauern und –wände, Leitungen, Kanalisationen, Wasserfassungen, der Ausbau von Wasserläufen sowie die Zugänge zu einer öffentlichen Strasse;
+- f) Tiefbauwerke, wie Aufschüttungen, Abgrabungen, Lärmschutzwände, Leitungen, Kanalisationen, Wasserfassungen, der Ausbau von Wasserläufen und die Zugänge zu einer öffentlichen Strasse;
 - g) der Kiesabbau, die Deponien und die Steinbrüche sowie alle Anlagen, die mit diesen Installationen zusammenhängen;
 - g<sup>bis</sup>) Materialentnahmen aus öffentlichen Gewässern, für die ein Kurzbericht zur Umweltverträglichkeit verfasst werden muss (Art. 58 GewR);
 - h) Sport- und Freizeiteinrichtungen, wie Sportplätze, Eisbahnen, Häfen, öffentliche Schwimmbäder und Badestrände, Schiessstände und -anlagen, Motocrosspisten, Kartbahnen, Modellbahnen, Kunstschneeanlagen, Camping- und Wohnwagenplätze;
-- i) alle Anlagen und Arbeiten, welche die Bodenform oder das Bild einer Landschaft, eines Ortes oder eines Quartiers merklich verändern. Vorbehalten bleibt Artikel 85 Abs. 1 Bst. a;
+- i) alle Anlagen und Arbeiten, welche die Bodenform oder das Bild einer Landschaft, eines Ortes oder eines Quartiers merklich verändern;
 - j) Sanierungsarbeiten, die mit einer Bodenveränderung verbunden sind;
-- k) Tankstellen, Silos und Behälter jeder Art;
+- k) Tankstellen, Silos und Behälter jeder Art. Vorbehalten bleiben die Artikel 85 Abs. 1 Bst. j und 87 Abs. 1 Bst. e2 Ziff. 1;
 - l) Sendeanlagen, die der NISV unterstehen;
 - m) Treibhäuser und Tunnels für die Landwirtschaft, den Gemüse- und Gartenbau, die für den ganzjährigen Betrieb bestimmt sind.
 
@@ -1076,18 +1152,21 @@ beschliesst:
 
 <sup>1</sup> Nach dem vereinfachten Verfahren sind baubewilligungspflichtig:
 
-- a) Stützmauern bis zu einer Höhe von 1,20 m ab gewachsenem Boden und die Einfriedungsmauern;
-- b) Unterhalts-, Ausbesserungs- und Renovationsarbeiten an Dach und Fassade, die das Aussehen des Bauwerkes wesentlich verändern;
+- a) Stützmauern, einschliesslich der mit ihrer Errichtung verbundenen Erdverschiebungen, Einfriedungsmauern sowie Zäune, unter Vorbehalt von Artikel 87 Abs. 1 Bst. e2 Ziff. 3;
+- b) Renovationsarbeiten an Dach und Fassade, die das Aussehen des Bauwerkes wesentlich verändern;
+- b1) Umbauten im Innern, welche die Festigkeit der tragenden Struktur eines Gebäudes nicht beeinträchtigen können;
 - c) Nutzungsänderungen und Anlageänderungen, die weder Arbeiten erfordern noch die Umwelt oder Gewässer beeinträchtigen;
 - c<sup>bis</sup>) Umnutzungen zu Zweitwohnzwecken von bisher zu Erstwohnzwecken genutzten Wohnungen sowie Änderungen nach der Bundesgesetzgebung über Zweitwohnungen (Art. 13 ZWG), soweit diese weder Arbeiten erfordern noch die Umwelt oder die Gewässer beeinträchtigen;
-- d) der Ersatz von Heiz- und Warmwassersystemen, einschliesslich der damit verbundenen Arbeiten;
-- e) Sanitäranlagen;
+- d) Lüftungs-, Klima- und Heizungsanlagen, einschliesslich der Ersatz von Heizungs- und/oder Warmwassersystemen, sowie die damit verbundenen Arbeiten;
+- d1) unterirdische Leitungen, die dem Anschluss von Gebäuden an das Hauptverteilungsnetz dienen;
+- e) …
 - f) Solaranlagen, sofern sie nicht gemäss dem Bundesrecht bewilligungsfrei sind; insbesondere sind Solaranlagen auf Bauten, die sich in der Schutzzone gemäss Artikel 59 RPBG oder in einem Schutzperimeter gemäss Artikel 72 Abs. 1 RPBG befinden, der Baubewilligungspflicht unterstellt;
+- f1) Ladestationen für Elektrofahrzeuge unter Vorbehalt von Artikel 87 Abs. 1 Bst. b1;
 - g) Abgrabungen und Aufschüttungen bis zu einer maximalen Höhe von 1,20 m ab gewachsenem Boden und deren Fläche 500 m² nicht überschreitet;
 - h) Tafeln und andere Reklameträger unter Vorbehalt von Artikel 84 Bst. i;
 - i) Automaten;
 - i<sup>bis</sup>) die Standorte für das Aufstellen mobiler Küchen;
-- j) die übrigen geringfügigen Bauten und Anlagen, die nicht zu Wohn- und Arbeitszwecken genutzt werden und auch nicht als solche nutzbar sind, wie Radioantennen, Hütten für Kleintiere (Hühnerställe, Kaninchenställe…), Garagen, Autounterstände oder Parkplätze, Gartenhäuser, unbeheizte Wintergärten, Biotope, private Schwimmbäder.
+- j) die übrigen geringfügigen Bauten und Anlagen, die nicht zu Wohn- und Arbeitszwecken genutzt werden und auch nicht als solche nutzbar sind, wie Radioantennen, Hütten für Kleintiere (Hühnerställe, Kaninchenställe …), Garagen, Autounterstände oder Parkplätze, Gartenhäuser, Holzschuppen, Pergolen, Unterstände, unbeheizte Wintergärten, Biotope, Behälter für die Sammlung von Regenwasser, private Schwimmbäder und Gewächshäuser. Vorbehalten bleibt Artikel 87 Abs. 1 Bst. b und e2 Ziff. 1 und 2.
 
 <sup>2</sup> Im Zweifelsfalle holt der Gemeinderat vorher das Gutachten der Oberamtsperson ein.
 
@@ -1110,16 +1189,32 @@ beschliesst:
 
 <sup>1</sup> Keine Baubewilligung ist nötig für:
 
-- a) Unterhalts- und Ausbesserungsarbeiten, die weder das Aussehen und die Struktur des Bauwerkes noch die Zweckbestimmung der Räume wesentlich verändern;
-- b) kleinere Nebenanlagen wie Parabolantennen, nicht überdachte Gartenterrassen, private Gartenkamine, private Kinderspielplätze, Schwimmbäder (zerlegbar oder aufblasbar) ohne Wasseraufbereitungssystem, die nicht überdeckt und nicht beheizt sind;
+- a) Unterhalts- und Ausbesserungsarbeiten sowie Renovationsarbeiten an Dach und Fassade, die das Aussehen des Bauwerkes nicht wesentlich verändern;
+- b) kleinere Nebenanlagen wie Parabolantennen, nicht überdachte Gartenterrassen, private Gartenkamine, private Kinderspielplätze und Schwimmbäder mit saisonalem Charakter, die bei Saisonende wieder abgebaut werden;
+- b1) Ladestationen für Elektrofahrzeuge in Zusammenhang mit einem Einzelwohnhaus gemäss Artikel 55 und 56;
 - c) Garten- und Aussenraumgestaltungen oder Anlagen wie Treppen, Brunnen, Skulpturen;
-- d) Einfriedungen;
+- c1) Gipfelkreuze mit einer maximalen Höhe von 2 Meter;
+- d) …
 - e) Treibhäuser und Tunnels für den Gemüse- und Gartenbau mit saisonalem Charakter und die am Ende der Saison wieder abgebaut werden;
+- e1) Bauten und Anlagen, die vorübergehend für einen Zeitraum von höchstens drei Monaten zu touristischen oder Freizeitzwecken errichtet werden;
+- e2) innerhalb der Bauzone:
+  - 1\. Holzschuppen, Gartenhäuser, Behälter für die Sammlung von Regenwasser und private Gewächshäuser mit einer maximalen Grundfläche von 6 m² und einer maximalen Gesamthöhe von 2,50 m, sofern sie in einem Abstand zum Nachbargrundstück errichtet werden, der mindestens der Hälfte ihrer Höhe entspricht;
+  - 2\. begrünte Pergolen von 12 m² und einer maximalen Gesamthöhe von 2,50 m, sofern sie in einem Abstand zum Nachbargrundstück errichtet werden, der mindestens der Hälfte ihrer Höhe entspricht;
+  - 3\. Flecht- und Gitterzäune;
 - f) Wohnwagen und Mobilheime in den von der Ortsplanung dafür vorgesehenen Zonen.
+- g) Solaranlagen auf Gebäuden in Arbeitszonen, die gemäss Absatz 3 dem Meldeverfahren unterliegen.
 
-<sup>2</sup> Das vereinfachte Verfahren ist indessen anwendbar, wenn sich die in den Buchstaben a bis d aufgezählten Bauten und Anlagen in einer Schutzzone befinden oder in Verbindung stehen zu einem geschützten Gebäude.
+<sup>2</sup> Das vereinfachte Verfahren ist indessen anwendbar, wenn sich die in den Buchstaben b–e2 aufgezählten Bauten und Anlagen an folgender Lage befinden:
 
-<sup>3</sup> Bewilligungsfreie Solaranlagen nach dem Bundesrecht müssen dreissig Tage vor Baubeginn der Gemeinde gemeldet werden. Welche Pläne und Unterlagen der Meldung beigelegt werden müssen, wird in den Richtlinien der Direktion (Art. 89 Abs. 2) festgelegt.
+- a) in einer Entfernung von weniger als 20 Meter oder jeder anderen rechtmässigen Distanz von einer Uferzone (See und Wasserläufe), vom Wald, von einem Naturschutzgebiet, von einem geschützten Naturobjekt;
+- b) in einem geringeren Abstand gegenüber einer öffentlichen Strasse als jenem, der gemäss dem Mobilitätsgesetz vom 5. November 2021 anwendbar ist;
+- c) im Gewässerraum;
+- d) in einem Gebiet, das Gegenstand einer Schutzmassnahme bildet;
+- e) in einem archäologischen Perimeter;
+- f) in einem Wildtierkorridor;
+- g) in der Nähe eines geschützten Gebäudes.
+
+<sup>3</sup> Bewilligungsfreie Solaranlagen nach dem Bundesrecht und solche auf Gebäuden in Arbeitszonen müssen dreissig Tage vor Baubeginn der Gemeinde gemeldet werden. Welche Pläne und Unterlagen der Meldung beigelegt werden müssen, wird in den Richtlinien der Direktion (Art. 89 Abs. 2) festgelegt.
 
 <sup>4</sup> Umnutzungen nach der Bundesgesetzgebung über Zweitwohnungen (Art. 7 ZWV) müssen innerhalb von 30 Tagen ab Wohnungsbezug der Oberamtsperson schriftlich gemeldet werden. Die Oberamtsperson informiert das Grundbuchamt von Amtes wegen über die Umnutzung, damit dieses die Anmerkung ändern kann.
 
@@ -1161,7 +1256,7 @@ beschliesst:
 
 <sup>3</sup> Das Gesuch muss ebenfalls in Papierform eingereicht werden.
 
-<sup>4</sup> Im Gesuch müssen sämtliche zur Prüfung erforderlichen Angaben und Dokumente gemäss den Richtlinien der Direktion enthalten sein. In diesen Richtlinien wird die Anzahl der in Papierform einzureichenden Dossiers festgelegt.
+<sup>4</sup> Im Gesuch müssen sämtliche zur Prüfung erforderlichen Angaben und Dokumente gemäss den Richtlinien der Direktion enthalten sein. Diese stellt sicher, dass sich die Formerfordernisse für das vereinfachte Verfahren auf die Angaben beschränken, die für die Bearbeitung des Gesuchs erforderlich sind. In diesen Richtlinien wird auch die Anzahl der in Papierform einzureichenden Dossiers festgelegt.
 
 #### Art. 89a
 
@@ -1431,6 +1526,14 @@ beschliesst:
 **Eintragung im REG**
 
 <sup>1</sup> Personen, die noch nicht in den Registern A oder B des REG eingetragen und kraft des Raumplanungs- und Baugesetzes vom 9. Mai 1983 befähigt sind, Planungsdossiers oder Baubewilligungsgesuche einzureichen, haben sich innert einer Frist von zwei Jahren einzutragen, damit ihre Befähigung gemäss den Artikeln 5 und 6 anerkannt werden kann.
+
+#### Art. 113a
+
+**Übergangsrecht – Änderung vom 12. Dezember 2023 – Gemeindeabgabe**
+
+<sup>1</sup> Für Planungsmassnahmen, die ab dem 1. Oktober 2023 genehmigt werden, überweist der Kanton der Gemeinde den Anteil der Mehrwertabgabe, der ihr zusteht, wenn das Gemeindereglement vor dem 1. Januar 2026 in Kraft tritt.
+
+<sup>2</sup> Ab dem 1. Januar 2026 kann die Gemeindeabgabe nur auf Planungsmassnahmen erhoben werden, die nach dem Inkrafttreten des Gemeindereglements genehmigt werden.
 
 #### Art. 114
 
