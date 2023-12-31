@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-23
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-31
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2423/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2446/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2423/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.07.2023)
+Vom 21.03.2006 (Stand 01.01.2024)
 
 Der Regierungsrat,
 
@@ -292,10 +292,10 @@ verordnet:
 
 <sup>4</sup> Ausgabenbelege müssen von mindestens zwei Personen visiert werden. Folgende Visen sind dabei zwingend erforderlich:
 
-- a. bei Beträgen bis 1000 Franken: des Leiters oder der Leiterin der Fachstelle;
-- b. bei Beträgen zwischen 1001 und 5000 Franken: des Leiters oder der Leiterin der Abteilung;
-- c. bei Beträgen zwischen 5001 und 10'000 Franken: des Leiters oder der Leiterin der Hauptabteilung;
-- d. bei Beträgen über 10'000 Franken: des Departementsvorstehers oder der Departementsvorsteherin bzw. des Ratsschreibers oder der Ratsschreiberin.
+- a. bei Beträgen bis 2000 Franken: des Leiters oder der Leiterin der Fachstelle;
+- b. bei Beträgen zwischen 2001 und 10 000 Franken: des Leiters oder der Leiterin der Abteilung;
+- c. bei Beträgen zwischen 10 001 und 50 000 Franken: des Leiters oder der Leiterin der Hauptabteilung;
+- d. bei Beträgen über 50 000 Franken: des Departementsvorstehers oder der Departementsvorsteherin bzw. des Ratsschreibers oder der Ratsschreiberin.
 
 #### Art. 27
 
