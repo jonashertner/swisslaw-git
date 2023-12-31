@@ -3,24 +3,24 @@ canton: SO
 number: "614.159.11"
 title: "Steuerverordnung Nr. 11: Zahlungserleichterungen, Erlass und Abschreibungen"
 language: de
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-09-28
+version: 2024-01-01
+valid_until: 2026-03-31
+version_adopted: 2023-05-08
 adopted: 1986-05-13
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.11"
-pdf: "https://bgs.so.ch/api/de/versions/3413/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 11: Zahlungserleichterungen, Erlass und Abschreibungen
 
-Vom 13.05.1986 (Stand 01.01.2011)
+Vom 13.05.1986 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
-gestützt auf §§ 118 Absatz 2, 181, 182, 216 Absatz 2, 245 und 264 Absatz 2 des Gesetzes über die Staats- und Gemeindesteuern vom 1. Dezember 1985[^ingress-1]
+gestützt auf §§ 118 Absatz 2, 181, 182, 216 Absatz 2, 245, 256<sup>bis</sup> Absatz 2 und 264 Absatz 2 des Gesetzes über die Staats- und Gemeindesteuern vom 1. Dezember 1985[^ingress-1]
 
 beschliesst:
 
@@ -67,6 +67,8 @@ beschliesst:
 **1. Zuständigkeit**
 
 <sup>1</sup> Erlass von rechtskräftigen direkten Staatssteuern sowie Nebensteuern, Zinsen und Bussen gewährt das Finanzdepartement (§§ 7-14).
+
+<sup>1<sup>bis</sup></sup> Im Rahmen des Einheitsbezugs gewährt das Finanzdepartement Erlass von rechtskräftigen Gemeindesteuern und der Feuerwehrersatzabgabe.
 
 <sup>2</sup> Die Veranlagungsbehörden für natürliche Personen entscheiden mit Zustimmung der Einwohnergemeinde im Veranlagungsverfahren über den vollständigen Erlass der direkten Staatssteuer mit Verbindlichkeit für die Gemeindesteuern (§§ 14<sup>bis</sup> und 14<sup>ter</sup>).
 
