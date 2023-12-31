@@ -4,13 +4,12 @@ number: "162.12"
 title: Règlement de surveillance de la Cour suprême
 short: RSurv CS
 language: fr
-version: 2013-06-01
-valid_until: 2023-12-31
-version_adopted: 2013-04-12
+version: 2024-01-01
+version_adopted: 2023-11-17
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/795/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2928/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/795/pdf_file"
 
 (RSurv CS)
 
-du 12.11.2010 (état au 01.06.2013)
+du 12.11.2010 (état au 01.01.2024)
 
 La Cour suprême du canton de Berne,
 
@@ -33,7 +32,7 @@ arrête:
 
 **But de la surveillance**
 
-<sup>1</sup> La surveillance des juridictions civile et pénale et de la juridiction des mineurs constitue un élément de l’indépendance institutionnelle.
+<sup>1</sup> La surveillance des juridictions civile et pénale constitue un élément de l’indépendance institutionnelle.
 
 <sup>2</sup> Elle garantit une gestion des affaires économique et conforme à la loi.
 
@@ -65,7 +64,7 @@ arrête:
 
 <sup>1</sup> Le directoire est responsable de la surveillance de la Cour suprême, ainsi que de la surveillance des tribunaux des mesures de contrainte, du Tribunal pénal économique, du Tribunal des mineurs, des tribunaux régionaux et des autorités régionales de conciliation.
 
-<sup>2</sup> La haute surveillance exercée par le Grand Conseil, la surveillance du Contrôle des finances du canton, ainsi que la compétence de la Direction de la magistrature pour le controlling du personnel et des finances sont réservées.
+<sup>2</sup> La haute surveillance exercée par le Grand Conseil, la surveillance du Contrôle des finances du canton, ainsi que la compétence de la Direction administrative de la magistrature pour le controlling du personnel et des finances sont réservées.
 
 #### Art. 4
 
@@ -91,9 +90,9 @@ arrête:
 
 **Inspecteur ou inspectrice des tribunaux**
 
-<sup>1</sup> L’inspecteur ou l’inspectrice des tribunaux est directement subordonné au président ou à la présidente. Il ou elle assume notamment les tâches suivantes:
+<sup>1</sup> L’inspecteur ou l’inspectrice des tribunaux est directement subordonnée au président ou à la présidente. Il ou elle assume notamment les tâches suivantes:
 
-- a analyse périodique et évaluation de la gestion des juridictions civile et pénale et de la juridiction des mineurs,
+- a analyse périodique et évaluation de la gestion des juridictions civile et pénale,
 - b analyses des risques,
 - c mesures d’assurance qualité,
 - d coordination des moyens de surveillance,
@@ -106,13 +105,13 @@ arrête:
 
 **Droits et obligations**
 
-<sup>1</sup> Les membres du directoire ainsi que l’inspecteur ou l’inspectrice des tribunaux ont, dans le cadre de leur activité de surveillance, un droit de regard sur les contrôles des affaires, les dossiers judiciaires, les données personnelles, les données financières et les rapports.
+<sup>1</sup> Les membres du directoire et l’inspecteur ou l’inspectrice des tribunaux ainsi que leurs suppléants ou suppléantes respectifs ont, dans le cadre de leur activité de surveillance, un droit de regard sur les contrôles des affaires, les dossiers judiciaires, les données personnelles, les données financières et les rapports.
 
-<sup>2</sup> Les membres du directoire, l’inspecteur ou l’inspectrice des tribunaux ainsi que leurs collaborateurs et collaboratrices sont tenus de garder l’activité de surveillance confidentielle. Leurs devoirs légaux d’information sont réservés.
+<sup>2</sup> Les membres du directoire et l’inspecteur ou l’inspectrice des tribunaux ainsi que leurs suppléants ou suppléantes respectifs et les collaborateurs et collaboratrices sont tenus de garder l’activité de surveillance confidentielle. Leurs devoirs légaux d’information sont réservés.
 
 <sup>3</sup> Les organes directeurs des tribunaux faisant l’objet de la surveillance et les membres de la Cour suprême donnent au directoire de la Cour suprême des informations concernant les faits relevant de la surveillance.
 
-<sup>4</sup> Les juges ainsi que les agents et agentes des juridictions civile et pénale et de la juridiction des mineurs ont un devoir de renseignement et de coopération envers les membres du directoire de la Cour suprême et l’inspecteur ou l’inspectrice des tribunaux de la Cour suprême.
+<sup>4</sup> Les juges ainsi que les agents et agentes des juridictions civile et pénale ont un devoir de renseignement et de coopération envers les membres du directoire de la Cour suprême ainsi qu’envers leurs suppléants ou suppléantes respectifs.
 
 #### Art. 7
 

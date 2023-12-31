@@ -4,13 +4,12 @@ number: "162.12"
 title: Aufsichtsreglement des Obergerichts
 short: AufsR OG
 language: de
-version: 2013-06-01
-valid_until: 2023-12-31
-version_adopted: 2013-04-12
+version: 2024-01-01
+version_adopted: 2023-11-17
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.12"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/795/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2928/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/795/pdf_file"
 
 (AufsR OG)
 
-vom 12.11.2010 (Stand 01.06.2013)
+vom 12.11.2010 (Stand 01.01.2024)
 
 Das Obergericht des Kantons Bern,
 
-in Ausführung von Artikel 38 Absatz 2 Buchstabeb des Gesetzes vom 11. Juni 2009 über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft (GSOG[^ingress-1]),
+in Ausführung von Artikel 38 Absatz 2 Buchstabe b des Gesetzes vom 11. Juni 2009 über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft (GSOG[^ingress-1]),
 
 beschliesst:
 
@@ -33,7 +32,7 @@ beschliesst:
 
 **Zweck der Aufsicht**
 
-<sup>1</sup> Die Aufsicht über die Zivil-, Straf- und Jugendgerichtsbarkeit ist Element der institutionellen Unabhängigkeit.
+<sup>1</sup> Die Aufsicht über die Zivil- und Strafgerichtsbarkeit ist Element der institutionellen Unabhängigkeit.
 
 <sup>2</sup> Sie gewährleistet die gesetzmässige und wirtschaftliche Geschäftsführung.
 
@@ -65,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Der Geschäftsleitung obliegt die Aufsicht über das Obergericht sowie die Aufsicht über die Zwangsmassnahmengerichte, das Wirtschaftsstrafgericht, das Jugendgericht, die Regionalgerichte und die regionalen Schlichtungsbehörden.
 
-<sup>2</sup> Vorbehalten sind die Oberaufsicht durch den Grossen Rat, die Aufsicht der kantonalen Finanzkontrolle sowie die Zuständigkeit der Justizleitung für das Personal- und Finanzcontrolling.
+<sup>2</sup> Vorbehalten sind die Oberaufsicht durch den Grossen Rat, die Aufsicht der kantonalen Finanzkontrolle sowie die Zuständigkeit der Justizverwaltungsleitung für das Personal- und Finanzcontrolling.
 
 #### Art. 4
 
@@ -93,7 +92,7 @@ beschliesst:
 
 <sup>1</sup> Die Gerichtsinspektorin oder der Gerichtsinspektor ist der Präsidentin oder dem Präsidenten direkt unterstellt. Ihr oder ihm obliegen insbesondere folgende Aufgaben:
 
-- a periodische Analyse und Evaluation der Geschäftsführung der Zivil-, Straf- und Jugendgerichtsbarkeit,
+- a periodische Analyse und Evaluation der Geschäftsführung der Zivil- und Strafgerichtsbarkeit,
 - b Risikoanalysen,
 - c Massnahmen der Qualitätssicherung,
 - d inhaltliche Abstimmung der Aufsichtsinstrumente,
@@ -106,13 +105,13 @@ beschliesst:
 
 **Rechte und Pflichten**
 
-<sup>1</sup> Die Mitglieder der Geschäftsleitung sowie die Gerichtsinspektorin oder der Gerichtsinspektor haben im Rahmen der Aufsichtstätigkeit das Einsichtsrecht in Geschäftskontrollen, Gerichtsakten, Personaldaten, Finanzdaten und Reportings.
+<sup>1</sup> Die Mitglieder der Geschäftsleitung und die Gerichtsinspektorin oder der Gerichtsinspektor sowie die jeweiligen Stellvertreterinnen und Stellvertreter haben im Rahmen der Aufsichtstätigkeit das Einsichtsrecht in Geschäftskontrollen, Gerichtsakten, Personaldaten, Finanzdaten und Reportings.
 
-<sup>2</sup> Die Mitglieder der Geschäftsleitung, die Gerichtsinspektorin oder der Gerichtsinspektor sowie ihre Mitarbeiterinnen und Mitarbeiter bewahren Stillschweigen über die Aufsichtstätigkeit. Ihre gesetzlichen Informationspflichten sind vorbehalten.
+<sup>2</sup> Die Mitglieder der Geschäftsleitung und die Gerichtsinspektorin oder der Gerichtsinspektor sowie die jeweiligen Stellvertreterinnen und Stellvertreter und Mitarbeiterinnen und Mitarbeiter bewahren Stillschweigen über die Aufsichtstätigkeit. Ihre gesetzlichen Informationspflichten sind vorbehalten.
 
 <sup>3</sup> Die Leitungsorgane der beaufsichtigten Gerichte und die Mitglieder des Obergerichts informieren die Geschäftsleitung des Obergerichts über aufsichtsrelevante Sachverhalte.
 
-<sup>4</sup> Die Richterinnen und Richter sowie die Mitarbeiterinnen und Mitarbeiter der Zivil-, Straf- und Jugendgerichtsbarkeit sind gegenüber den Mitgliedern der Geschäftsleitung des Obergerichts und der Gerichtsinspektorin oder dem Gerichtsinspektor des Obergerichts zur Auskunft und Mitwirkung verpflichtet.
+<sup>4</sup> Die Richterinnen und Richter sowie die Mitarbeiterinnen und Mitarbeiter der Zivil- und Strafgerichtsbarkeit sind gegenüber den Mitgliedern der Geschäftsleitung des Obergerichts sowie der jeweiligen Stellvertreterinnen und Stellvertretern zur Auskunft und Mitwirkung verpflichtet.
 
 #### Art. 7
 
