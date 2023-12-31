@@ -4,11 +4,11 @@ title: "Ordinanza del 23 novembre 1994 sull'infrastruttura aeronautica (OSIA)"
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: it
-version: 2023-06-01
+version: 2024-01-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20230601/it/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20230601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/it"
 
 (OSIA)
 
-del 23 novembre 1994 (Stato 1° giugno 2023)
+del 23 novembre 1994 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -550,6 +550,16 @@ Progetti di costruzione o modifiche edili previsti possono essere sottoposti all
 **Modinatura**
 
 Si deve rinunciare alla modinatura del progetto di costruzione sul terreno dell’aerodromo se i profili rischierebbero di pregiudicare l’esercizio dello stesso.
+
+#### Art. 27b<sup>bis</sup>
+
+**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^27bbis-1]
+
+<sup>1</sup> L’UFAC informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura d’approvazione dei piani.
+
+<sup>2</sup> L’esercente dell’aerodromo è tenuto a informare tale servizio entro un termine di 20 giorni in merito alle modifiche di sue costruzioni e suoi impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+
+[^27bbis-1]: Introdotto dall’all. n. 16 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 27c
 

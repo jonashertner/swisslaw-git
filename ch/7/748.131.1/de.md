@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 1994 über die Infrastruktur der Luftfahrt (V
 short: VIL
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: de
-version: 2023-06-01
+version: 2024-01-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20230601/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20230601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/de"
 
 (VIL)
 
-vom 23. November 1994 (Stand am 1. Juni 2023)
+vom 23. November 1994 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -552,6 +552,16 @@ Geplante Bauvorhaben oder bauliche Änderungen können dem BAZL vorab zur Vorpr�
 **Aussteckung**
 
 Von der Aussteckung von Bauvorhaben auf dem Flugplatz ist abzusehen, wenn durch die Profile der Betrieb beeinträchtigt werden könnte.
+
+#### Art. 27b<sup>bis</sup>
+
+**Meldungen an die kantonale Vermessungsaufsicht**[^27bbis-1]
+
+<sup>1</sup> Das BAZL informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+
+<sup>2</sup> Der Flugplatzhalter muss diese Stelle innert 20 Tagen über Änderungen seiner Bauten und Anlagen informieren, die eine Nachführung der amtlichen Vermessung notwendig machen.
+
+[^27bbis-1]: Eingefügt durch Anhang Ziff. 16 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 27c
 

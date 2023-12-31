@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 1994 sur l'infrastructure aéronautique (OSIA)
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: fr
-version: 2023-06-01
+version: 2024-01-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20230601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/fr"
 
 (OSIA)
 
-du 23 novembre 1994 (État le 1<sup>er</sup> juin 2023)
+du 23 novembre 1994 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -553,6 +553,16 @@ Les projets de construction ou de modification de constructions peuvent être so
 
 L’autorité peut renoncer à faire marquer le projet sur le terrain de l’aérodrome si les gabarits entravent l’exploitation.
 
+#### Art. 27b<sup>bis</sup>
+
+**Annonces au service cantonal du cadastre**[^27bbis-1]
+
+<sup>1</sup> L’OFAC informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+
+<sup>2</sup> L’exploitant de l’aérodrome doit informer ce service dans un délai de 20 jours de toute modification de ses constructions et installations rendant nécessaire une mise à jour de la mensuration officielle.
+
+[^27bbis-1]: Introduit par l’annexe ch. 16 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
 #### Art. 27c
 
 **Coordination de l’exploitation et de la construction**
@@ -936,7 +946,7 @@ Les atterrissages de vols commerciaux sur les aéroports nationaux de Genève et
 
 <sup>3</sup> Les avions qui ont un retard sur l’horaire sont autorisés à décoller ou à atterrir jusqu’à 0 heure 30 au plus tard.
 
-[^39a-1]: Introduit par le ch. 2 de l’appendice à l’O du 12 avr. 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^39a-1]: Introduit par l’appendice ch. 2 de l’O du 12 avr. 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
 #### Art. 39b
 
@@ -951,7 +961,7 @@ Les décollages et les atterrissages de vols commerciaux sur les autres aéropor
 
 <sup>2</sup> Les décollages et les atterrissages de vols commerciaux sur les champs d’aviation sont interdits entre 22 heures et 6 heures.
 
-[^39b-1]: Introduit par le ch. 2 de l’appendice à l’O du 12 avr. 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^39b-1]: Introduit par l’appendice ch. 2 de l’O du 12 avr. 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
 #### Art. 39c
 
@@ -959,7 +969,7 @@ Les décollages et les atterrissages de vols commerciaux sur les autres aéropor
 
 L’indice de bruit déterminant est la moyenne arithmétique des deux valeurs de certification acoustique d’un type d’avion, mesurées latéralement et au survol, calculée selon la norme de l’Organisation de l’aviation civile internationale, annexe 16, volume 1, chapitre 3[^39c-2].
 
-[^39c-1]: Introduit par le ch. 2 de l’appendice à l’O du 12 avr. 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^39c-1]: Introduit par l’appendice ch. 2 de l’O du 12 avr. 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 [^39c-2]: Ce document peut être obtenu auprès de l’Office fédéral de l’aviation civile, 3003 Berne
 
 #### Art. 39d
@@ -999,7 +1009,7 @@ L’OFAC peut autoriser temporairement des décollages et des atterrissages d’
 
 [^4047-1]
 
-[^4047-1]: Abrogée par le ch. 2 de l’appendice à l’O du 12 avr. 2000, avec effet au 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^4047-1]: Abrogée par l’appendice ch. 2 de l’O du 12 avr. 2000, avec effet au 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
 ## Titre 3 ...
 
