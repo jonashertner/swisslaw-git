@@ -4,13 +4,13 @@ number: VI A/2/1
 title: Gesetz über den Finanzausgleich zwischen dem Kanton und den Gemeinden
 short: "Finanzausgleichsgesetz, FAG"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-05
+version: 2024-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-05-07
 adopted: 2010-05-02
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-A.2.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2359/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2434/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2359/pdf_file"
 
 (Finanzausgleichsgesetz, FAG)
 
-Vom 02.05.2010 (Stand 01.01.2023)
+Vom 02.05.2010 (Stand 01.01.2024)
 
 Die Landsgemeinde,
 
@@ -61,7 +61,7 @@ erlässt:
 
 <sup>1</sup> Der Ressourcenausgleich mildert die Unterschiede in der Steuerkraft und in der Steuerbelastung unter den Gemeinden.
 
-<sup>2</sup> Der Ressourcenausgleich wird aufgrund des Ressourcenpotenzials der Gemeinden bemessen. Er beträgt maximal 500 000 Franken.
+<sup>2</sup> Der Ressourcenausgleich wird aufgrund des Ressourcenpotenzials der Gemeinden bemessen.
 
 <sup>3</sup> Liegt das Ressourcenpotenzial pro Einwohner einer Gemeinde über dem kantonalen Durchschnitt, so ist sie ausgleichspflichtig. Liegt das Ressourcenpotenzial pro Einwohner einer Gemeinde unter dem kantonalen Durchschnitt, so ist sie ausgleichsberechtigt.
 
@@ -83,11 +83,11 @@ erlässt:
 
 **Berechnung des Ressourcenausgleichs**
 
-<sup>1</sup> Der Ressourcenausgleich reduziert die Differenz des Ressourcenpotenzials pro Einwohner einer Gemeinde zum kantonalen Durchschnitt um 20 Prozent, jedoch höchstens um 500 000 Franken.
+<sup>1</sup> Der Ressourcenausgleich reduziert die Differenz des Ressourcenpotenzials pro Einwohner einer Gemeinde zum kantonalen Durchschnitt um 30 Prozent.
 
 <sup>2</sup> Der Ausgleichsbeitrag berechnet sich wie folgt: Der Ressourcenindex einer Gemeinde (Art. 4 Abs. 3) wird von 100 abgezählt; das Ergebnis wird multipliziert mit dem Disparitätenabbau in Prozent (Abs. 1), dem Ressourcenpotenzial pro Einwohner des Kantons, der Einwohnerzahl der Gemeinde und dem durchschnittlichen, gewichteten Gemeindesteuerfuss. Dieses Ergebnis wird durch 100 geteilt.
 
-<sup>3</sup> Liegt der Ausgleichsbeitrag über 500 000 Franken, wird er auf diesen Beitrag gekürzt. Die Kürzung der einzelnen Ausgleichsbeiträge erfolgt im Verhältnis der gemäss Absatz 2 berechneten Ausgleichsbeiträge.
+<sup>3</sup> …
 
 #### Art. 7
 
@@ -117,7 +117,7 @@ erlässt:
 
 **Dotation, Anpassung und Finanzierung des Lastenausgleichs**
 
-<sup>1</sup> Der Lastenausgleich wird mit 1 Million Franken pro Jahr ausgestattet.
+<sup>1</sup> Der Lastenausgleich wird mit 3 Millionen Franken pro Jahr ausgestattet.
 
 <sup>2</sup> Die Lastenausgleichsgefässe werden wie folgt dotiert: Bevölkerungsdichte 60 Prozent, Wald und Alpen je 20 Prozent der zur Verfügung stehenden Summe.
 
@@ -184,6 +184,17 @@ erlässt:
 <sup>2</sup> In den Jahren 2020–2023 gilt die Begrenzung des Ressourcenausgleichs gemäss Artikel 3 Absatz 2 Satz 2 und Artikel 6 Absätze 1 und 3 nicht. Er reduziert die Differenz des Ressourcenpotenzials pro Einwohner einer Gemeinde zum kantonalen Durchschnitt in Abweichung zu Artikel 6 Absatz 1 um 40 Prozent.
 
 <sup>3</sup> Der Regierungsrat erstattet dem Landrat bis spätestens Dezember 2022 Bericht über die Auswirkungen der Umsetzung des Bundesgesetzes über die Steuerreform und die AHV-Finanzierung (STAF) im Kanton Glarus. Er beantragt allenfalls unbefristete Ausgleichsmassnahmen.
+
+#### Art. 13b
+
+**Übergangsbestimmung zur Änderung vom 7. Mai 2023**
+
+<sup>1</sup> Der Kanton gewährt den Gemeinden Glarus Nord und Glarus Süd in Zusammenhang mit der kantonalen Umsetzung des Bundesgesetzes über die Steuerreform und die AHV-Finanzierung (STAF) in den Jahren 2024–2027 einen jährlichen Ausgleichsbeitrag von 1,5 Millionen Franken.
+
+<sup>2</sup> Der Ausgleichsbeitrag wird wie folgt aufgeteilt:
+
+- a. zugunsten der Gemeinde Glarus Nord: — 1 000 000 Fr.;
+- b. zugunsten der Gemeinde Glarus Süd: — 500 000 Fr.
 
 #### Art. 14
 
