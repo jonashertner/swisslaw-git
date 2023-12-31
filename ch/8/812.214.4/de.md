@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über das Informationssystem Antibiotika 
 short: ISABV-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/de"
 
 (ISABV-V)
 
-vom 31. Oktober 2018 (Stand am 1. September 2023)
+vom 31. Oktober 2018 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -269,11 +269,12 @@ Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. 
 
 #### Art. 15
 
-**Informatiksicherheit**
+**Informationssicherheit**[^15-1]
 
-Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach den vom Bundesrat gestützt auf Artikel 14 Buchstabe e der Bundesinformatikverordnung vom 9. Dezember 2011[^15-1] erlassenen Weisungen.
+Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach der Informationssicherheitsverordnung vom 8. November 2023[^15-2].
 
-[^15-1]: [[AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)Ziff. III 2; [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Anhang 3 Ziff. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)Anhang Ziff. 1]. Siehe heute: die V vom 25. Nov. 2020 über die Koordination der digitalen Transformation und die IKT-Lenkung in der Bundesverwaltung ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^15-1]: Fassung gemäss Anhang 2 Ziff. II 38 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 16
 

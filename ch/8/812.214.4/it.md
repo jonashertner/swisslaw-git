@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2018 concernente il sistema d'informazione sugl
 short: O-SIAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/it"
 
 (O-SIAMV)
 
-del 31 ottobre 2018 (Stato 1° settembre 2023)
+del 31 ottobre 2018 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -270,11 +270,12 @@ L’USAV provvede affinché siano rispettate le disposizioni in materia di prote
 
 #### Art. 15
 
-**Sicurezza informatica**
+**Sicurezza delle informazioni**[^15-1]
 
-Le misure atte a garantire la sicurezza informatica sono rette dalle direttive emanate dal Consiglio federale in virtù dell’articolo 14 lettera e dell’ordinanza del 9 dicembre 2011[^15-1] sull’informatica nell’Amministrazione federale.
+Le misure atte a garantire la sicurezza delle informazioni sono rette dall’ordinanza dell’8 novembre 2023[^15-2] sulla sicurezza delle informazioni.
 
-[^15-1]: [[RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)n. III 2; [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 n. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)all. n. 1. [RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)art. 35 cpv. 1]. Vedi ora l’O del 25 nov. 2020 sulla trasformazione digitale e l'informatica ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988))
+[^15-1]: Nuovo testo giusta l’all. 2 n. II 38 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 16
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2018 concernant le système d'information sur l
 short: O-SI ABV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20230901/fr"
 
 (O-SI ABV)
 
-du 31 octobre 2018 (État le 1<sup>er</sup> septembre 2023)
+du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -269,11 +269,12 @@ L’OSAV veille au respect des dispositions sur la protection des données. Il f
 
 #### Art. 15
 
-**Sécurité informatique**
+**Sécurité de l’information**[^15-1]
 
-Les mesures pour garantir la sécurité informatique sont définies dans les directives édictées par le Conseil fédéral sur la base de l’art. 14, let. e, de l’ordonnance du 9 décembre 2011 sur l’informatique de l’administration fédérale[^15-1].
+Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^15-2].
 
-[^15-1]: [[RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)ch. III 2; 2**016** 1783, 3445; [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)annexe 3 ch. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)annexe ch. 1. [RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)art. 35 al. 1]. Voir actuellement l’O du 25 nov. 2020 sur la transformation numérique et l’informatique ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^15-1]: Nouvelle teneur selon l’annexe 2 ch. II 38 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 16
 
