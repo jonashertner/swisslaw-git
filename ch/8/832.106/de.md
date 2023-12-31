@@ -3,18 +3,18 @@ sr: "832.106"
 title: Verordnung des EDI vom 15. März 2022 über die Prämienregionen
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/184"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2022-03-15
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-184-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-184-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Prämienregionen
 
-vom 15. März 2022 (Stand am 1. Januar 2023)
+vom 15. März 2022 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -34,7 +34,7 @@ Die maximal zulässigen Unterschiede zwischen den Prämien der ordentlichen Vers
 
 #### Art. 3
 
-Nach einer Fusion von Gemeinden bleibt die Prämienregion, in die jede der früheren Gemeinden nach Anhang 1 eingeteilt ist, auf ihrem jeweiligen Gebiet solange unverändert, bis die aus der Fusion entstandene Gemeinde in Anhang 1 in eine Prämienregion eingeteilt wird.
+Nach einer Fusion von Gemeinden bleibt die Prämienregion, in die jede der früheren Gemeinden nach Anhang 1 eingeteilt ist, auf ihrem jeweiligen Gebiet so lange unverändert, bis die aus der Fusion entstandene Gemeinde in Anhang 1 in eine Prämienregion eingeteilt wird.
 
 #### Art. 4
 
@@ -52,7 +52,7 @@ Anhang 1[^t-1]
 
 ## Prämienregionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 26. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 481](https://fedlex.data.admin.ch/eli/oc/2022/481)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 25. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 494](https://fedlex.data.admin.ch/eli/oc/2023/494)).
 
 ### A. Kantone mit einer Prämienregion
 
@@ -63,7 +63,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Basel-Landschaft
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>2761</td><td>Aesch (BL)</td><td>1</td></tr>
 <tr><td>2762</td><td>Allschwil</td><td>1</td></tr>
 <tr><td>2841</td><td>Anwil</td><td>2</td></tr>
@@ -159,7 +159,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Freiburg
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>2321</td><td>Attalens</td><td>2</td></tr>
 <tr><td>2061</td><td>Auboranges</td><td>2</td></tr>
 <tr><td>2173</td><td>Autigny</td><td>1</td></tr>
@@ -284,7 +284,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>2117</td><td>Villaz</td><td>2</td></tr>
 <tr><td>2114</td><td>Villorsonnens</td><td>2</td></tr>
 <tr><td>2160</td><td>Vuadens</td><td>2</td></tr>
-<tr><td>2113</td><td>Vuisternens- devant-Romont</td><td>2</td></tr>
+<tr><td>2113</td><td>Vuisternens-devant-Romont</td><td>2</td></tr>
 <tr><td>2309</td><td>Wünnewil-Flamatt</td><td>2</td></tr>
 </table>
 
@@ -295,7 +295,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Schaffhausen
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>2931</td><td>Bargen (SH)</td><td>2</td></tr>
 <tr><td>2951</td><td>Beggingen</td><td>2</td></tr>
 <tr><td>2932</td><td>Beringen</td><td>2</td></tr>
@@ -331,7 +331,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Tessin
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>5048</td><td>Acquarossa</td><td>2</td></tr>
 <tr><td>5141</td><td>Agno</td><td>1</td></tr>
 <tr><td>5061</td><td>Airolo</td><td>2</td></tr>
@@ -447,7 +447,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Waadt
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>5621</td><td>Aclens</td><td>1</td></tr>
 <tr><td>5742</td><td>Agiez</td><td>2</td></tr>
 <tr><td>5401</td><td>Aigle</td><td>2</td></tr>
@@ -484,7 +484,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5472</td><td>Bournens</td><td>2</td></tr>
 <tr><td>5473</td><td>Boussens</td><td>2</td></tr>
 <tr><td>5622</td><td>Bremblens</td><td>1</td></tr>
-<tr><td>5515</td><td>Bretigny-sur- Morrens</td><td>2</td></tr>
+<tr><td>5515</td><td>Bretigny-sur-Morrens</td><td>2</td></tr>
 <tr><td>5748</td><td>Bretonnières</td><td>2</td></tr>
 <tr><td>5623</td><td>Buchillon</td><td>1</td></tr>
 <tr><td>5552</td><td>Bullet</td><td>2</td></tr>
@@ -499,12 +499,12 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5905</td><td>Champvent</td><td>2</td></tr>
 <tr><td>5882</td><td>Chardonne</td><td>1</td></tr>
 <tr><td>5841</td><td>Château-d’Oex</td><td>2</td></tr>
-<tr><td>5707</td><td>Chavannes- de-Bogis</td><td>1</td></tr>
-<tr><td>5708</td><td>Chavannes- des-Bois</td><td>1</td></tr>
-<tr><td>5907</td><td>Chavannes- le-Chêne</td><td>2</td></tr>
-<tr><td>5475</td><td>Chavannes- le-Veyron</td><td>2</td></tr>
-<tr><td>5627</td><td>Chavannes- près-Renens</td><td>1</td></tr>
-<tr><td>5665</td><td>Chavannes- sur-Moudon</td><td>2</td></tr>
+<tr><td>5707</td><td>Chavannes-de-Bogis</td><td>1</td></tr>
+<tr><td>5708</td><td>Chavannes-des-Bois</td><td>1</td></tr>
+<tr><td>5907</td><td>Chavannes-le-Chêne</td><td>2</td></tr>
+<tr><td>5475</td><td>Chavannes-le-Veyron</td><td>2</td></tr>
+<tr><td>5627</td><td>Chavannes-près-Renens</td><td>1</td></tr>
+<tr><td>5665</td><td>Chavannes-sur-Moudon</td><td>2</td></tr>
 <tr><td>5749</td><td>Chavornay</td><td>2</td></tr>
 <tr><td>5908</td><td>Chêne-Pâquier</td><td>2</td></tr>
 <tr><td>5909</td><td>Cheseaux-Noréaz</td><td>2</td></tr>
@@ -553,7 +553,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5635</td><td>Écublens (VD)</td><td>1</td></tr>
 <tr><td>5584</td><td>Épalinges</td><td>1</td></tr>
 <tr><td>5914</td><td>Épendes (VD)</td><td>2</td></tr>
-<tr><td>5856</td><td>Essertines- sur-Rolle</td><td>1</td></tr>
+<tr><td>5856</td><td>Essertines-sur-Rolle</td><td>1</td></tr>
 <tr><td>5520</td><td>Essertines-sur-Yverdon</td><td>2</td></tr>
 <tr><td>5521</td><td>Étagnières</td><td>2</td></tr>
 <tr><td>5636</td><td>Étoy</td><td>1</td></tr>
@@ -680,9 +680,9 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5609</td><td>Rivaz</td><td>1</td></tr>
 <tr><td>5413</td><td>Roche (VD)</td><td>2</td></tr>
 <tr><td>5861</td><td>Rolle</td><td>1</td></tr>
-<tr><td>5761</td><td>Romainmôtier- Envy</td><td>2</td></tr>
+<tr><td>5761</td><td>Romainmôtier-Envy</td><td>2</td></tr>
 <tr><td>5592</td><td>Romanel-sur-Lausanne</td><td>1</td></tr>
-<tr><td>5645</td><td>Romanel-sur- Morges</td><td>1</td></tr>
+<tr><td>5645</td><td>Romanel-sur-Morges</td><td>1</td></tr>
 <tr><td>5798</td><td>Ropraz</td><td>2</td></tr>
 <tr><td>5684</td><td>Rossenges</td><td>2</td></tr>
 <tr><td>5842</td><td>Rossinière</td><td>2</td></tr>
@@ -720,7 +720,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5831</td><td>Valbroye</td><td>2</td></tr>
 <tr><td>5933</td><td>Valeyres-sous-Montagny</td><td>2</td></tr>
 <tr><td>5763</td><td>Valeyres-sous-Rances</td><td>2</td></tr>
-<tr><td>5934</td><td>Valeyres-sous- Ursins</td><td>2</td></tr>
+<tr><td>5934</td><td>Valeyres-sous-Ursins</td><td>2</td></tr>
 <tr><td>5764</td><td>Vallorbe</td><td>2</td></tr>
 <tr><td>5765</td><td>Vaulion</td><td>2</td></tr>
 <tr><td>5650</td><td>Vaux-sur-Morges</td><td>1</td></tr>
@@ -757,7 +757,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Wallis
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>6101</td><td>Agarn</td><td>2</td></tr>
 <tr><td>6102</td><td>Albinen</td><td>2</td></tr>
 <tr><td>6252</td><td>Anniviers</td><td>2</td></tr>
@@ -862,7 +862,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>6296</td><td>Törbel</td><td>2</td></tr>
 <tr><td>6142</td><td>Trient</td><td>1</td></tr>
 <tr><td>6156</td><td>Troistorrents</td><td>1</td></tr>
-<tr><td>6119</td><td>Turtmann- Unterems</td><td>2</td></tr>
+<tr><td>6119</td><td>Turtmann-Unterems</td><td>2</td></tr>
 <tr><td>6201</td><td>Unterbäch</td><td>2</td></tr>
 <tr><td>6037</td><td>Val de Bagnes</td><td>1</td></tr>
 <tr><td>6157</td><td>Val-d’Illiez</td><td>1</td></tr>
@@ -891,7 +891,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Bern
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>301</td><td>Aarberg</td><td>2</td></tr>
 <tr><td>321</td><td>Aarwangen</td><td>3</td></tr>
 <tr><td>561</td><td>Adelboden</td><td>3</td></tr>
@@ -949,7 +949,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>575</td><td>Därligen</td><td>3</td></tr>
 <tr><td>761</td><td>Därstetten</td><td>3</td></tr>
 <tr><td>535</td><td>Deisswil bei Münchenbuchsee</td><td>2</td></tr>
-<tr><td>536</td><td>Diemerswil</td><td>2</td></tr>
 <tr><td>762</td><td>Diemtigen</td><td>3</td></tr>
 <tr><td>385</td><td>Diessbach bei Büren</td><td>2</td></tr>
 <tr><td>386</td><td>Dotzigen</td><td>2</td></tr>
@@ -1006,7 +1005,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>410</td><td>Höchstetten</td><td>2</td></tr>
 <tr><td>580</td><td>Hofstetten bei Brienz</td><td>3</td></tr>
 <tr><td>931</td><td>Homberg</td><td>2</td></tr>
-<tr><td>932</td><td>Horrenbach- Buchen</td><td>2</td></tr>
+<tr><td>932</td><td>Horrenbach-Buchen</td><td>2</td></tr>
 <tr><td>954</td><td>Huttwil</td><td>3</td></tr>
 <tr><td>541</td><td>Iffwil</td><td>2</td></tr>
 <tr><td>980</td><td>Inkwil</td><td>3</td></tr>
@@ -1128,7 +1127,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>904</td><td>Röthenbach im Emmental</td><td>3</td></tr>
 <tr><td>623</td><td>Rubigen</td><td>2</td></tr>
 <tr><td>905</td><td>Rüderswil</td><td>3</td></tr>
-<tr><td>420</td><td>Rüdtligen- Alchenflüh</td><td>2</td></tr>
+<tr><td>420</td><td>Rüdtligen-Alchenflüh</td><td>2</td></tr>
 <tr><td>880</td><td>Rüeggisberg</td><td>2</td></tr>
 <tr><td>956</td><td>Rüegsau</td><td>3</td></tr>
 <tr><td>421</td><td>Rumendingen</td><td>2</td></tr>
@@ -1160,7 +1159,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>907</td><td>Signau</td><td>3</td></tr>
 <tr><td>938</td><td>Sigriswil</td><td>2</td></tr>
 <tr><td>499</td><td>Siselen</td><td>2</td></tr>
-<tr><td>444</td><td>Sonceboz- Sombeval</td><td>2</td></tr>
+<tr><td>444</td><td>Sonceboz-Sombeval</td><td>2</td></tr>
 <tr><td>445</td><td>Sonvilier</td><td>2</td></tr>
 <tr><td>711</td><td>Sorvilier</td><td>2</td></tr>
 <tr><td>768</td><td>Spiez</td><td>3</td></tr>
@@ -1239,7 +1238,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Graubünden
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>3542</td><td>Albula/Alvra</td><td>3</td></tr>
 <tr><td>3701</td><td>Andeer</td><td>3</td></tr>
 <tr><td>3921</td><td>Arosa</td><td>1</td></tr>
@@ -1255,7 +1254,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>3831</td><td>Cama</td><td>1</td></tr>
 <tr><td>3805</td><td>Castaneda</td><td>1</td></tr>
 <tr><td>3661</td><td>Cazis</td><td>3</td></tr>
-<tr><td>3782</td><td>Celerina/ Schlarigna</td><td>2</td></tr>
+<tr><td>3782</td><td>Celerina/Schlarigna</td><td>2</td></tr>
 <tr><td>3901</td><td>Chur</td><td>1</td></tr>
 <tr><td>3911</td><td>Churwalden</td><td>1</td></tr>
 <tr><td>3881</td><td>Conters im Prättigau</td><td>2</td></tr>
@@ -1329,7 +1328,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>3734</td><td>Trin</td><td>2</td></tr>
 <tr><td>3987</td><td>Trun</td><td>3</td></tr>
 <tr><td>3669</td><td>Tschappina</td><td>3</td></tr>
-<tr><td>3932</td><td>Tschiertschen- Praden</td><td>1</td></tr>
+<tr><td>3932</td><td>Tschiertschen-Praden</td><td>1</td></tr>
 <tr><td>3986</td><td>Tujetsch</td><td>3</td></tr>
 <tr><td>3946</td><td>Untervaz</td><td>2</td></tr>
 <tr><td>3670</td><td>Urmein</td><td>3</td></tr>
@@ -1350,7 +1349,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Luzern
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>1051</td><td>Adligenswil</td><td>2</td></tr>
 <tr><td>1021</td><td>Aesch (LU)</td><td>3</td></tr>
 <tr><td>1121</td><td>Alberswil</td><td>3</td></tr>
@@ -1440,7 +1439,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Sankt Gallen
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>3251</td><td>Altstätten</td><td>3</td></tr>
 <tr><td>3311</td><td>Amden</td><td>2</td></tr>
 <tr><td>3441</td><td>Andwil (SG)</td><td>2</td></tr>
@@ -1518,6 +1517,8 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>3426</td><td>Zuzwil (SG)</td><td>1</td></tr>
 </table>
 
+- [tab]
+
 <table>
 <tr><td><sup>1</sup> Gemeindenummer des amtlichen Gemeindeverzeichnisses der Schweiz des Bundesamts für Statistik (BFS)</td></tr>
 </table>
@@ -1525,14 +1526,13 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 ### Zürich
 
 <table>
-<tr><th>Gemeindenummer (BFS-Nr)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
-<tr><td>21</td><td>Adlikon</td><td>3</td></tr>
+<tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>131</td><td>Adliswil</td><td>2</td></tr>
 <tr><td>241</td><td>Aesch (ZH)</td><td>3</td></tr>
 <tr><td>1</td><td>Aeugst am Albis</td><td>3</td></tr>
 <tr><td>2</td><td>Affoltern am Albis</td><td>3</td></tr>
 <tr><td>211</td><td>Altikon</td><td>3</td></tr>
-<tr><td>30</td><td>Andelfingen</td><td>3</td></tr>
+<tr><td>291</td><td>Andelfingen</td><td>3</td></tr>
 <tr><td>51</td><td>Bachenbülach</td><td>3</td></tr>
 <tr><td>81</td><td>Bachs</td><td>3</td></tr>
 <tr><td>111</td><td>Bäretswil</td><td>3</td></tr>
@@ -1590,7 +1590,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>59</td><td>Hochfelden</td><td>3</td></tr>
 <tr><td>153</td><td>Hombrechtikon</td><td>2</td></tr>
 <tr><td>295</td><td>Horgen</td><td>2</td></tr>
-<tr><td>32</td><td>Humlikon</td><td>3</td></tr>
 <tr><td>60</td><td>Höri</td><td>3</td></tr>
 <tr><td>61</td><td>Hüntwangen</td><td>3</td></tr>
 <tr><td>87</td><td>Hüttikon</td><td>3</td></tr>
@@ -1671,7 +1670,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>293</td><td>Wädenswil</td><td>2</td></tr>
 <tr><td>120</td><td>Wald (ZH)</td><td>3</td></tr>
 <tr><td>69</td><td>Wallisellen</td><td>2</td></tr>
-<tr><td>200</td><td>Wangen- Brüttisellen</td><td>2</td></tr>
+<tr><td>200</td><td>Wangen-Brüttisellen</td><td>2</td></tr>
 <tr><td>70</td><td>Wasterkingen</td><td>3</td></tr>
 <tr><td>102</td><td>Weiach</td><td>3</td></tr>
 <tr><td>251</td><td>Weiningen (ZH)</td><td>3</td></tr>

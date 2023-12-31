@@ -3,18 +3,18 @@ sr: "832.106"
 title: Ordonnance du DFI du 15 mars 2022 sur les régions de primes
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/184"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2022-03-15
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-184-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-184-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les régions de primes
 
-du 15 mars 2022 (État le 1<sup>er</sup> janvier 2023) janvier 2023)
+du 15 mars 2022 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -52,7 +52,7 @@ Annexe 1[^t-1]
 
 ## Régions de primes
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 26 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 481](https://fedlex.data.admin.ch/eli/oc/2022/481)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 494](https://fedlex.data.admin.ch/eli/oc/2023/494)).
 
 ### A. Cantons à région unique de primes
 
@@ -150,6 +150,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>2834</td><td>Ziefen</td><td>2</td></tr>
 <tr><td>2869</td><td>Zunzgen</td><td>2</td></tr>
 <tr><td>2793</td><td>Zwingen</td><td>2</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
 </table>
 
 ### Fribourg
@@ -280,8 +284,12 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>2117</td><td>Villaz</td><td>2</td></tr>
 <tr><td>2114</td><td>Villorsonnens</td><td>2</td></tr>
 <tr><td>2160</td><td>Vuadens</td><td>2</td></tr>
-<tr><td>2113</td><td>Vuisternens- devant-Romont</td><td>2</td></tr>
+<tr><td>2113</td><td>Vuisternens-devant-Romont</td><td>2</td></tr>
 <tr><td>2309</td><td>Wünnewil-Flamatt</td><td>2</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
 </table>
 
 ### Schaffhouse
@@ -314,6 +322,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>2920</td><td>Thayngen</td><td>2</td></tr>
 <tr><td>2973</td><td>Trasadingen</td><td>2</td></tr>
 <tr><td>2974</td><td>Wilchingen</td><td>2</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
 </table>
 
 ### Tessin
@@ -428,6 +440,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5233</td><td>Vico Morcote</td><td>1</td></tr>
 </table>
 
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
+</table>
+
 ### Vaud
 
 <table>
@@ -468,7 +484,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5472</td><td>Bournens</td><td>2</td></tr>
 <tr><td>5473</td><td>Boussens</td><td>2</td></tr>
 <tr><td>5622</td><td>Bremblens</td><td>1</td></tr>
-<tr><td>5515</td><td>Bretigny-sur- Morrens</td><td>2</td></tr>
+<tr><td>5515</td><td>Bretigny-sur-Morrens</td><td>2</td></tr>
 <tr><td>5748</td><td>Bretonnières</td><td>2</td></tr>
 <tr><td>5623</td><td>Buchillon</td><td>1</td></tr>
 <tr><td>5552</td><td>Bullet</td><td>2</td></tr>
@@ -483,11 +499,11 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5905</td><td>Champvent</td><td>2</td></tr>
 <tr><td>5882</td><td>Chardonne</td><td>1</td></tr>
 <tr><td>5841</td><td>Château-d’Oex</td><td>2</td></tr>
-<tr><td>5707</td><td>Chavannes- de-Bogis</td><td>1</td></tr>
-<tr><td>5708</td><td>Chavannes- des-Bois</td><td>1</td></tr>
-<tr><td>5907</td><td>Chavannes- le-Chêne</td><td>2</td></tr>
-<tr><td>5475</td><td>Chavannes- le-Veyron</td><td>2</td></tr>
-<tr><td>5627</td><td>Chavannes- près-Renens</td><td>1</td></tr>
+<tr><td>5707</td><td>Chavannes-de-Bogis</td><td>1</td></tr>
+<tr><td>5708</td><td>Chavannes-des-Bois</td><td>1</td></tr>
+<tr><td>5907</td><td>Chavannes-le-Chêne</td><td>2</td></tr>
+<tr><td>5475</td><td>Chavannes-le-Veyron</td><td>2</td></tr>
+<tr><td>5627</td><td>Chavannes-près-Renens</td><td>1</td></tr>
 <tr><td>5665</td><td>Chavannes-sur-Moudon</td><td>2</td></tr>
 <tr><td>5749</td><td>Chavornay</td><td>2</td></tr>
 <tr><td>5908</td><td>Chêne-Pâquier</td><td>2</td></tr>
@@ -537,7 +553,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5635</td><td>Écublens (VD)</td><td>1</td></tr>
 <tr><td>5584</td><td>Épalinges</td><td>1</td></tr>
 <tr><td>5914</td><td>Épendes (VD)</td><td>2</td></tr>
-<tr><td>5856</td><td>Essertines- sur-Rolle</td><td>1</td></tr>
+<tr><td>5856</td><td>Essertines-sur-Rolle</td><td>1</td></tr>
 <tr><td>5520</td><td>Essertines-sur-Yverdon</td><td>2</td></tr>
 <tr><td>5521</td><td>Étagnières</td><td>2</td></tr>
 <tr><td>5636</td><td>Étoy</td><td>1</td></tr>
@@ -664,9 +680,9 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5609</td><td>Rivaz</td><td>1</td></tr>
 <tr><td>5413</td><td>Roche (VD)</td><td>2</td></tr>
 <tr><td>5861</td><td>Rolle</td><td>1</td></tr>
-<tr><td>5761</td><td>Romainmôtier- Envy</td><td>2</td></tr>
+<tr><td>5761</td><td>Romainmôtier-Envy</td><td>2</td></tr>
 <tr><td>5592</td><td>Romanel-sur-Lausanne</td><td>1</td></tr>
-<tr><td>5645</td><td>Romanel-sur- Morges</td><td>1</td></tr>
+<tr><td>5645</td><td>Romanel-sur-Morges</td><td>1</td></tr>
 <tr><td>5798</td><td>Ropraz</td><td>2</td></tr>
 <tr><td>5684</td><td>Rossenges</td><td>2</td></tr>
 <tr><td>5842</td><td>Rossinière</td><td>2</td></tr>
@@ -704,7 +720,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5831</td><td>Valbroye</td><td>2</td></tr>
 <tr><td>5933</td><td>Valeyres-sous-Montagny</td><td>2</td></tr>
 <tr><td>5763</td><td>Valeyres-sous-Rances</td><td>2</td></tr>
-<tr><td>5934</td><td>Valeyres-sous- Ursins</td><td>2</td></tr>
+<tr><td>5934</td><td>Valeyres-sous-Ursins</td><td>2</td></tr>
 <tr><td>5764</td><td>Vallorbe</td><td>2</td></tr>
 <tr><td>5765</td><td>Vaulion</td><td>2</td></tr>
 <tr><td>5650</td><td>Vaux-sur-Morges</td><td>1</td></tr>
@@ -714,7 +730,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5935</td><td>Villars-Épeney</td><td>2</td></tr>
 <tr><td>5690</td><td>Villars-le-Comte</td><td>2</td></tr>
 <tr><td>5537</td><td>Villars-le-Terroir</td><td>2</td></tr>
-<tr><td>5651</td><td>Villars-Sainte- Croix</td><td>1</td></tr>
+<tr><td>5651</td><td>Villars-Sainte-Croix</td><td>1</td></tr>
 <tr><td>5652</td><td>Villars-sous-Yens</td><td>1</td></tr>
 <tr><td>5830</td><td>Villarzel</td><td>2</td></tr>
 <tr><td>5414</td><td>Villeneuve (VD)</td><td>2</td></tr>
@@ -722,8 +738,8 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5539</td><td>Vuarrens</td><td>2</td></tr>
 <tr><td>5692</td><td>Vucherens</td><td>2</td></tr>
 <tr><td>5503</td><td>Vufflens-la-Ville</td><td>2</td></tr>
-<tr><td>5653</td><td>Vufflens- le-Château</td><td>1</td></tr>
-<tr><td>5937</td><td>Vugelles- La Mothe</td><td>2</td></tr>
+<tr><td>5653</td><td>Vufflens-le-Château</td><td>1</td></tr>
+<tr><td>5937</td><td>Vugelles-La Mothe</td><td>2</td></tr>
 <tr><td>5766</td><td>Vuiteboeuf</td><td>2</td></tr>
 <tr><td>5803</td><td>Vulliens</td><td>2</td></tr>
 <tr><td>5654</td><td>Vullierens</td><td>1</td></tr>
@@ -732,6 +748,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5938</td><td>Yverdon-les-Bains</td><td>2</td></tr>
 <tr><td>5939</td><td>Yvonand</td><td>2</td></tr>
 <tr><td>5415</td><td>Yvorne</td><td>2</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
 </table>
 
 ### Valais
@@ -842,7 +862,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>6296</td><td>Törbel</td><td>2</td></tr>
 <tr><td>6142</td><td>Trient</td><td>1</td></tr>
 <tr><td>6156</td><td>Troistorrents</td><td>1</td></tr>
-<tr><td>6119</td><td>Turtmann- Unterems</td><td>2</td></tr>
+<tr><td>6119</td><td>Turtmann-Unterems</td><td>2</td></tr>
 <tr><td>6201</td><td>Unterbäch</td><td>2</td></tr>
 <tr><td>6037</td><td>Val de Bagnes</td><td>1</td></tr>
 <tr><td>6157</td><td>Val-d’Illiez</td><td>1</td></tr>
@@ -860,6 +880,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>6299</td><td>Zeneggen</td><td>2</td></tr>
 <tr><td>6300</td><td>Zermatt</td><td>2</td></tr>
 <tr><td>6011</td><td>Zwischbergen</td><td>2</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
 </table>
 
 ### C. Cantons à trois régions de primes
@@ -925,7 +949,6 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>575</td><td>Därligen</td><td>3</td></tr>
 <tr><td>761</td><td>Därstetten</td><td>3</td></tr>
 <tr><td>535</td><td>Deisswil bei Münchenbuchsee</td><td>2</td></tr>
-<tr><td>536</td><td>Diemerswil</td><td>2</td></tr>
 <tr><td>762</td><td>Diemtigen</td><td>3</td></tr>
 <tr><td>385</td><td>Diessbach bei Büren</td><td>2</td></tr>
 <tr><td>386</td><td>Dotzigen</td><td>2</td></tr>
@@ -982,7 +1005,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>410</td><td>Höchstetten</td><td>2</td></tr>
 <tr><td>580</td><td>Hofstetten bei Brienz</td><td>3</td></tr>
 <tr><td>931</td><td>Homberg</td><td>2</td></tr>
-<tr><td>932</td><td>Horrenbach- Buchen</td><td>2</td></tr>
+<tr><td>932</td><td>Horrenbach-Buchen</td><td>2</td></tr>
 <tr><td>954</td><td>Huttwil</td><td>3</td></tr>
 <tr><td>541</td><td>Iffwil</td><td>2</td></tr>
 <tr><td>980</td><td>Inkwil</td><td>3</td></tr>
@@ -1104,7 +1127,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>904</td><td>Röthenbach im Emmental</td><td>3</td></tr>
 <tr><td>623</td><td>Rubigen</td><td>2</td></tr>
 <tr><td>905</td><td>Rüderswil</td><td>3</td></tr>
-<tr><td>420</td><td>Rüdtligen- Alchenflüh</td><td>2</td></tr>
+<tr><td>420</td><td>Rüdtligen-Alchenflüh</td><td>2</td></tr>
 <tr><td>880</td><td>Rüeggisberg</td><td>2</td></tr>
 <tr><td>956</td><td>Rüegsau</td><td>3</td></tr>
 <tr><td>421</td><td>Rumendingen</td><td>2</td></tr>
@@ -1136,7 +1159,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>907</td><td>Signau</td><td>3</td></tr>
 <tr><td>938</td><td>Sigriswil</td><td>2</td></tr>
 <tr><td>499</td><td>Siselen</td><td>2</td></tr>
-<tr><td>444</td><td>Sonceboz- Sombeval</td><td>2</td></tr>
+<tr><td>444</td><td>Sonceboz-Sombeval</td><td>2</td></tr>
 <tr><td>445</td><td>Sonvilier</td><td>2</td></tr>
 <tr><td>711</td><td>Sorvilier</td><td>2</td></tr>
 <tr><td>768</td><td>Spiez</td><td>3</td></tr>
@@ -1208,6 +1231,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>947</td><td>Zwieselberg</td><td>2</td></tr>
 </table>
 
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
+</table>
+
 ### Grisons
 
 <table>
@@ -1227,7 +1254,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>3831</td><td>Cama</td><td>1</td></tr>
 <tr><td>3805</td><td>Castaneda</td><td>1</td></tr>
 <tr><td>3661</td><td>Cazis</td><td>3</td></tr>
-<tr><td>3782</td><td>Celerina/ Schlarigna</td><td>2</td></tr>
+<tr><td>3782</td><td>Celerina/Schlarigna</td><td>2</td></tr>
 <tr><td>3901</td><td>Chur</td><td>1</td></tr>
 <tr><td>3911</td><td>Churwalden</td><td>1</td></tr>
 <tr><td>3881</td><td>Conters im Prättigau</td><td>2</td></tr>
@@ -1301,7 +1328,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>3734</td><td>Trin</td><td>2</td></tr>
 <tr><td>3987</td><td>Trun</td><td>3</td></tr>
 <tr><td>3669</td><td>Tschappina</td><td>3</td></tr>
-<tr><td>3932</td><td>Tschiertschen- Praden</td><td>1</td></tr>
+<tr><td>3932</td><td>Tschiertschen-Praden</td><td>1</td></tr>
 <tr><td>3986</td><td>Tujetsch</td><td>3</td></tr>
 <tr><td>3946</td><td>Untervaz</td><td>2</td></tr>
 <tr><td>3670</td><td>Urmein</td><td>3</td></tr>
@@ -1313,6 +1340,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>3712</td><td>Zillis-Reischen</td><td>3</td></tr>
 <tr><td>3947</td><td>Zizers</td><td>2</td></tr>
 <tr><td>3791</td><td>Zuoz</td><td>2</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
 </table>
 
 ### Lucerne
@@ -1401,6 +1432,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>1150</td><td>Zell (LU)</td><td>3</td></tr>
 </table>
 
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
+</table>
+
 ### Saint-Gall
 
 <table>
@@ -1482,17 +1517,20 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>3426</td><td>Zuzwil (SG)</td><td>1</td></tr>
 </table>
 
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
+</table>
+
 ### Zurich
 
 <table>
 <tr><th>Numéro de commune (n<sup>o</sup> OFS)<sup>1</sup></th><th>Commune</th><th>Région de primes</th></tr>
-<tr><td>21</td><td>Adlikon</td><td>3</td></tr>
 <tr><td>131</td><td>Adliswil</td><td>2</td></tr>
 <tr><td>241</td><td>Aesch (ZH)</td><td>3</td></tr>
 <tr><td>1</td><td>Aeugst am Albis</td><td>3</td></tr>
 <tr><td>2</td><td>Affoltern am Albis</td><td>3</td></tr>
 <tr><td>211</td><td>Altikon</td><td>3</td></tr>
-<tr><td>30</td><td>Andelfingen</td><td>3</td></tr>
+<tr><td>291</td><td>Andelfingen</td><td>3</td></tr>
 <tr><td>51</td><td>Bachenbülach</td><td>3</td></tr>
 <tr><td>81</td><td>Bachs</td><td>3</td></tr>
 <tr><td>111</td><td>Bäretswil</td><td>3</td></tr>
@@ -1551,7 +1589,6 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>153</td><td>Hombrechtikon</td><td>2</td></tr>
 <tr><td>295</td><td>Horgen</td><td>2</td></tr>
 <tr><td>60</td><td>Höri</td><td>3</td></tr>
-<tr><td>32</td><td>Humlikon</td><td>3</td></tr>
 <tr><td>61</td><td>Hüntwangen</td><td>3</td></tr>
 <tr><td>87</td><td>Hüttikon</td><td>3</td></tr>
 <tr><td>296</td><td>Illnau-Effretikon</td><td>3</td></tr>
@@ -1631,7 +1668,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>293</td><td>Wädenswil</td><td>2</td></tr>
 <tr><td>120</td><td>Wald (ZH)</td><td>3</td></tr>
 <tr><td>69</td><td>Wallisellen</td><td>2</td></tr>
-<tr><td>200</td><td>Wangen- Brüttisellen</td><td>2</td></tr>
+<tr><td>200</td><td>Wangen-Brüttisellen</td><td>2</td></tr>
 <tr><td>70</td><td>Wasterkingen</td><td>3</td></tr>
 <tr><td>102</td><td>Weiach</td><td>3</td></tr>
 <tr><td>251</td><td>Weiningen (ZH)</td><td>3</td></tr>
@@ -1648,6 +1685,10 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>161</td><td>Zollikon</td><td>2</td></tr>
 <tr><td>160</td><td>Zumikon</td><td>2</td></tr>
 <tr><td>261</td><td>Zürich</td><td>1</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup> Numéro attribué à la commune dans le répertoire officiel des communes de Suisse établi par l’Office fédéral de la statistique (OFS)</td></tr>
 </table>
 
 Annexe 2

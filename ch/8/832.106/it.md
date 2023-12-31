@@ -3,18 +3,18 @@ sr: "832.106"
 title: Ordinanza del DFI del 15 marzo 2022 sulle regioni di premio
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/184"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2022-03-15
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-184-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-184-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulle regioni di premio
 
-del 15 marzo 2022 (Stato 1° gennaio 2023)
+del 15 marzo 2022 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale dell’interno (DFI)
 
@@ -52,7 +52,7 @@ Allegato 1[^t-1]
 
 ## Regioni di premio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 26 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 481](https://fedlex.data.admin.ch/eli/oc/2022/481)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 25 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 494](https://fedlex.data.admin.ch/eli/oc/2023/494)).
 
 ### A. Cantoni con un’unica regione di premio
 
@@ -63,7 +63,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Basilea Campagna
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2761</td><td>Aesch (BL)</td><td>1</td></tr>
 <tr><td>2762</td><td>Allschwil</td><td>1</td></tr>
 <tr><td>2841</td><td>Anwil</td><td>2</td></tr>
@@ -153,13 +153,13 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### Friburgo
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2321</td><td>Attalens</td><td>2</td></tr>
 <tr><td>2061</td><td>Auboranges</td><td>2</td></tr>
 <tr><td>2173</td><td>Autigny</td><td>1</td></tr>
@@ -177,7 +177,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>2125</td><td>Bulle</td><td>2</td></tr>
 <tr><td>2066</td><td>Chapelle (Glâne)</td><td>2</td></tr>
 <tr><td>2325</td><td>Châtel-Saint-Denis</td><td>2</td></tr>
-<tr><td>2128</td><td>Châtel-sur-Montsalvens</td><td>2</td></tr>
+<tr><td>2128</td><td>Châtel-sur- Montsalvens</td><td>2</td></tr>
 <tr><td>2008</td><td>Châtillon (FR)</td><td>2</td></tr>
 <tr><td>2068</td><td>Châtonnaye</td><td>2</td></tr>
 <tr><td>2177</td><td>Chénens</td><td>1</td></tr>
@@ -284,18 +284,18 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>2117</td><td>Villaz</td><td>2</td></tr>
 <tr><td>2114</td><td>Villorsonnens</td><td>2</td></tr>
 <tr><td>2160</td><td>Vuadens</td><td>2</td></tr>
-<tr><td>2113</td><td>Vuisternens- devant-Romont</td><td>2</td></tr>
-<tr><td>2309</td><td>Wünnewil-Flamatt</td><td>2</td></tr>
+<tr><td>2113</td><td>Vuisternens-devant-Romont</td><td>2</td></tr>
+<tr><td>2309</td><td>Wünnewil- Flamatt</td><td>2</td></tr>
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### Sciaffusa
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2931</td><td>Bargen (SH)</td><td>2</td></tr>
 <tr><td>2951</td><td>Beggingen</td><td>2</td></tr>
 <tr><td>2932</td><td>Beringen</td><td>2</td></tr>
@@ -325,13 +325,13 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### Ticino
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>5048</td><td>Acquarossa</td><td>2</td></tr>
 <tr><td>5141</td><td>Agno</td><td>1</td></tr>
 <tr><td>5061</td><td>Airolo</td><td>2</td></tr>
@@ -441,13 +441,13 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### Vaud
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>5621</td><td>Aclens</td><td>1</td></tr>
 <tr><td>5742</td><td>Agiez</td><td>2</td></tr>
 <tr><td>5401</td><td>Aigle</td><td>2</td></tr>
@@ -464,15 +464,15 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5745</td><td>Baulmes</td><td>2</td></tr>
 <tr><td>5746</td><td>Bavois</td><td>2</td></tr>
 <tr><td>5704</td><td>Begnins</td><td>1</td></tr>
-<tr><td>5581</td><td>Belmont-sur-Lausanne</td><td>1</td></tr>
-<tr><td>5902</td><td>Belmont-sur-Yverdon</td><td>2</td></tr>
+<tr><td>5581</td><td>Belmont-sur- Lausanne</td><td>1</td></tr>
+<tr><td>5902</td><td>Belmont-sur- Yverdon</td><td>2</td></tr>
 <tr><td>5512</td><td>Bercher</td><td>2</td></tr>
 <tr><td>5424</td><td>Berolle</td><td>1</td></tr>
 <tr><td>5471</td><td>Bettens</td><td>2</td></tr>
 <tr><td>5402</td><td>Bex</td><td>2</td></tr>
 <tr><td>5425</td><td>Bière</td><td>1</td></tr>
 <tr><td>5903</td><td>Bioley-Magnoux</td><td>2</td></tr>
-<tr><td>5892</td><td>Blonay - Saint-Légier</td><td>1</td></tr>
+<tr><td>5892</td><td>Blonay - Saint- Légier</td><td>1</td></tr>
 <tr><td>5747</td><td>Bofflens</td><td>2</td></tr>
 <tr><td>5705</td><td>Bogis-Bossey</td><td>1</td></tr>
 <tr><td>5551</td><td>Bonvillars</td><td>2</td></tr>
@@ -499,12 +499,12 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5905</td><td>Champvent</td><td>2</td></tr>
 <tr><td>5882</td><td>Chardonne</td><td>1</td></tr>
 <tr><td>5841</td><td>Château-d’Oex</td><td>2</td></tr>
-<tr><td>5707</td><td>Chavannes- de-Bogis</td><td>1</td></tr>
-<tr><td>5708</td><td>Chavannes- des-Bois</td><td>1</td></tr>
-<tr><td>5907</td><td>Chavannes- le-Chêne</td><td>2</td></tr>
-<tr><td>5475</td><td>Chavannes- le-Veyron</td><td>2</td></tr>
-<tr><td>5627</td><td>Chavannes- près-Renens</td><td>1</td></tr>
-<tr><td>5665</td><td>Chavannes- sur-Moudon</td><td>2</td></tr>
+<tr><td>5707</td><td>Chavannes-de-Bogis</td><td>1</td></tr>
+<tr><td>5708</td><td>Chavannes-des-Bois</td><td>1</td></tr>
+<tr><td>5907</td><td>Chavannes-le-Chêne</td><td>2</td></tr>
+<tr><td>5475</td><td>Chavannes-le- Veyron</td><td>2</td></tr>
+<tr><td>5627</td><td>Chavannes-près- Renens</td><td>1</td></tr>
+<tr><td>5665</td><td>Chavannes-sur- Moudon</td><td>2</td></tr>
 <tr><td>5749</td><td>Chavornay</td><td>2</td></tr>
 <tr><td>5908</td><td>Chêne-Pâquier</td><td>2</td></tr>
 <tr><td>5909</td><td>Cheseaux-Noréaz</td><td>2</td></tr>
@@ -522,7 +522,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5712</td><td>Coppet</td><td>1</td></tr>
 <tr><td>5404</td><td>Corbeyrier</td><td>2</td></tr>
 <tr><td>5785</td><td>Corcelles-le-Jorat</td><td>2</td></tr>
-<tr><td>5555</td><td>Corcelles-près-Concise</td><td>2</td></tr>
+<tr><td>5555</td><td>Corcelles-près- Concise</td><td>2</td></tr>
 <tr><td>5816</td><td>Corcelles-près-Payerne</td><td>2</td></tr>
 <tr><td>5883</td><td>Corseaux</td><td>1</td></tr>
 <tr><td>5884</td><td>Corsier-sur-Vevey</td><td>1</td></tr>
@@ -553,8 +553,8 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5635</td><td>Écublens (VD)</td><td>1</td></tr>
 <tr><td>5584</td><td>Épalinges</td><td>1</td></tr>
 <tr><td>5914</td><td>Épendes (VD)</td><td>2</td></tr>
-<tr><td>5856</td><td>Essertines- sur-Rolle</td><td>1</td></tr>
-<tr><td>5520</td><td>Essertines-sur-Yverdon</td><td>2</td></tr>
+<tr><td>5856</td><td>Essertines-sur-Rolle</td><td>1</td></tr>
+<tr><td>5520</td><td>Essertines-sur- Yverdon</td><td>2</td></tr>
 <tr><td>5521</td><td>Étagnières</td><td>2</td></tr>
 <tr><td>5636</td><td>Étoy</td><td>1</td></tr>
 <tr><td>5716</td><td>Eysins</td><td>1</td></tr>
@@ -563,7 +563,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5483</td><td>Ferreyres</td><td>2</td></tr>
 <tr><td>5522</td><td>Fey</td><td>2</td></tr>
 <tr><td>5556</td><td>Fiez</td><td>2</td></tr>
-<tr><td>5557</td><td>Fontaines-sur-Grandson</td><td>2</td></tr>
+<tr><td>5557</td><td>Fontaines-sur- Grandson</td><td>2</td></tr>
 <tr><td>5604</td><td>Forel (Lavaux)</td><td>1</td></tr>
 <tr><td>5717</td><td>Founex</td><td>1</td></tr>
 <tr><td>5523</td><td>Froideville</td><td>2</td></tr>
@@ -602,7 +602,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5637</td><td>Lavigny</td><td>1</td></tr>
 <tr><td>5872</td><td>Le Chenit</td><td>2</td></tr>
 <tr><td>5873</td><td>Le Lieu</td><td>2</td></tr>
-<tr><td>5587</td><td>Le Mont-sur-Lausanne</td><td>1</td></tr>
+<tr><td>5587</td><td>Le Mont-sur- Lausanne</td><td>1</td></tr>
 <tr><td>5731</td><td>Le Vaud</td><td>1</td></tr>
 <tr><td>5750</td><td>Les Clées</td><td>2</td></tr>
 <tr><td>5407</td><td>Leysin</td><td>2</td></tr>
@@ -628,7 +628,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5490</td><td>Moiry</td><td>2</td></tr>
 <tr><td>5431</td><td>Mollens (VD)</td><td>1</td></tr>
 <tr><td>5921</td><td>Molondin</td><td>2</td></tr>
-<tr><td>5922</td><td>Montagny-près-Yverdon</td><td>2</td></tr>
+<tr><td>5922</td><td>Montagny-près- Yverdon</td><td>2</td></tr>
 <tr><td>5693</td><td>Montanaire</td><td>2</td></tr>
 <tr><td>5756</td><td>Montcherand</td><td>2</td></tr>
 <tr><td>5540</td><td>Montilliez</td><td>2</td></tr>
@@ -655,7 +655,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5493</td><td>Orny</td><td>2</td></tr>
 <tr><td>5805</td><td>Oron</td><td>2</td></tr>
 <tr><td>5925</td><td>Orzens</td><td>2</td></tr>
-<tr><td>5529</td><td>Oulens-sous-Echallens</td><td>2</td></tr>
+<tr><td>5529</td><td>Oulens-sous- Echallens</td><td>2</td></tr>
 <tr><td>5530</td><td>Pailly</td><td>2</td></tr>
 <tr><td>5588</td><td>Paudex</td><td>1</td></tr>
 <tr><td>5822</td><td>Payerne</td><td>2</td></tr>
@@ -680,9 +680,9 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5609</td><td>Rivaz</td><td>1</td></tr>
 <tr><td>5413</td><td>Roche (VD)</td><td>2</td></tr>
 <tr><td>5861</td><td>Rolle</td><td>1</td></tr>
-<tr><td>5761</td><td>Romainmôtier- Envy</td><td>2</td></tr>
-<tr><td>5592</td><td>Romanel-sur-Lausanne</td><td>1</td></tr>
-<tr><td>5645</td><td>Romanel-sur- Morges</td><td>1</td></tr>
+<tr><td>5761</td><td>Romainmôtier-Envy</td><td>2</td></tr>
+<tr><td>5592</td><td>Romanel-sur- Lausanne</td><td>1</td></tr>
+<tr><td>5645</td><td>Romanel-sur-Morges</td><td>1</td></tr>
 <tr><td>5798</td><td>Ropraz</td><td>2</td></tr>
 <tr><td>5684</td><td>Rossenges</td><td>2</td></tr>
 <tr><td>5842</td><td>Rossinière</td><td>2</td></tr>
@@ -718,8 +718,8 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5828</td><td>Treytorrens (Payerne)</td><td>2</td></tr>
 <tr><td>5932</td><td>Ursins</td><td>2</td></tr>
 <tr><td>5831</td><td>Valbroye</td><td>2</td></tr>
-<tr><td>5933</td><td>Valeyres-sous-Montagny</td><td>2</td></tr>
-<tr><td>5763</td><td>Valeyres-sous-Rances</td><td>2</td></tr>
+<tr><td>5933</td><td>Valeyres-sous- Montagny</td><td>2</td></tr>
+<tr><td>5763</td><td>Valeyres-sous- Rances</td><td>2</td></tr>
 <tr><td>5934</td><td>Valeyres-sous- Ursins</td><td>2</td></tr>
 <tr><td>5764</td><td>Vallorbe</td><td>2</td></tr>
 <tr><td>5765</td><td>Vaulion</td><td>2</td></tr>
@@ -751,13 +751,13 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### Vallese
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>6101</td><td>Agarn</td><td>2</td></tr>
 <tr><td>6102</td><td>Albinen</td><td>2</td></tr>
 <tr><td>6252</td><td>Anniviers</td><td>2</td></tr>
@@ -862,7 +862,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>6296</td><td>Törbel</td><td>2</td></tr>
 <tr><td>6142</td><td>Trient</td><td>1</td></tr>
 <tr><td>6156</td><td>Troistorrents</td><td>1</td></tr>
-<tr><td>6119</td><td>Turtmann- Unterems</td><td>2</td></tr>
+<tr><td>6119</td><td>Turtmann-Unterems</td><td>2</td></tr>
 <tr><td>6201</td><td>Unterbäch</td><td>2</td></tr>
 <tr><td>6037</td><td>Val de Bagnes</td><td>1</td></tr>
 <tr><td>6157</td><td>Val-d’Illiez</td><td>1</td></tr>
@@ -883,7 +883,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### C. Cantoni con tre regioni di premio
@@ -891,355 +891,354 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Berna
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
-<tr><td>301</td><td>Aarberg</td><td>2</td></tr>
-<tr><td>321</td><td>Aarwangen</td><td>3</td></tr>
-<tr><td>561</td><td>Adelboden</td><td>3</td></tr>
-<tr><td>401</td><td>Aefligen</td><td>2</td></tr>
-<tr><td>731</td><td>Aegerten</td><td>2</td></tr>
-<tr><td>562</td><td>Aeschi bei Spiez</td><td>3</td></tr>
-<tr><td>951</td><td>Affoltern im Emmental</td><td>3</td></tr>
-<tr><td>402</td><td>Alchenstorf</td><td>2</td></tr>
-<tr><td>630</td><td>Allmendingen</td><td>2</td></tr>
-<tr><td>921</td><td>Amsoldingen</td><td>2</td></tr>
-<tr><td>381</td><td>Arch</td><td>2</td></tr>
-<tr><td>602</td><td>Arni (BE)</td><td>2</td></tr>
-<tr><td>971</td><td>Attiswil</td><td>3</td></tr>
-<tr><td>322</td><td>Auswil</td><td>3</td></tr>
-<tr><td>323</td><td>Bannwil</td><td>3</td></tr>
-<tr><td>302</td><td>Bargen (BE)</td><td>2</td></tr>
-<tr><td>403</td><td>Bäriswil</td><td>2</td></tr>
-<tr><td>533</td><td>Bätterkinden</td><td>2</td></tr>
-<tr><td>571</td><td>Beatenberg</td><td>3</td></tr>
-<tr><td>732</td><td>Bellmund</td><td>2</td></tr>
-<tr><td>861</td><td>Belp</td><td>2</td></tr>
-<tr><td>681</td><td>Belprahon</td><td>2</td></tr>
-<tr><td>972</td><td>Berken</td><td>3</td></tr>
-<tr><td>351</td><td>Bern</td><td>1</td></tr>
-<tr><td>973</td><td>Bettenhausen</td><td>3</td></tr>
-<tr><td>371</td><td>Biel/Bienne</td><td>1</td></tr>
-<tr><td>603</td><td>Biglen</td><td>2</td></tr>
-<tr><td>324</td><td>Bleienbach</td><td>3</td></tr>
-<tr><td>922</td><td>Blumenstein</td><td>2</td></tr>
-<tr><td>352</td><td>Bolligen</td><td>1</td></tr>
-<tr><td>791</td><td>Boltigen</td><td>3</td></tr>
-<tr><td>572</td><td>Bönigen</td><td>3</td></tr>
-<tr><td>605</td><td>Bowil</td><td>2</td></tr>
-<tr><td>353</td><td>Bremgarten bei Bern</td><td>1</td></tr>
-<tr><td>606</td><td>Brenzikofen</td><td>2</td></tr>
-<tr><td>573</td><td>Brienz (BE)</td><td>3</td></tr>
-<tr><td>574</td><td>Brienzwiler</td><td>3</td></tr>
-<tr><td>733</td><td>Brügg</td><td>2</td></tr>
-<tr><td>491</td><td>Brüttelen</td><td>2</td></tr>
-<tr><td>923</td><td>Buchholterberg</td><td>2</td></tr>
-<tr><td>382</td><td>Büetigen</td><td>2</td></tr>
-<tr><td>734</td><td>Bühl</td><td>2</td></tr>
-<tr><td>383</td><td>Büren an der Aare</td><td>2</td></tr>
-<tr><td>404</td><td>Burgdorf</td><td>2</td></tr>
-<tr><td>863</td><td>Burgistein</td><td>2</td></tr>
-<tr><td>325</td><td>Busswil bei Melchnau</td><td>3</td></tr>
-<tr><td>683</td><td>Champoz</td><td>2</td></tr>
-<tr><td>687</td><td>Corcelles (BE)</td><td>2</td></tr>
-<tr><td>431</td><td>Corgémont</td><td>2</td></tr>
-<tr><td>432</td><td>Cormoret</td><td>2</td></tr>
-<tr><td>433</td><td>Cortébert</td><td>2</td></tr>
-<tr><td>690</td><td>Court</td><td>2</td></tr>
-<tr><td>434</td><td>Courtelary</td><td>2</td></tr>
-<tr><td>691</td><td>Crémines</td><td>2</td></tr>
-<tr><td>575</td><td>Därligen</td><td>3</td></tr>
-<tr><td>761</td><td>Därstetten</td><td>3</td></tr>
-<tr><td>535</td><td>Deisswil bei Münchenbuchsee</td><td>2</td></tr>
-<tr><td>536</td><td>Diemerswil</td><td>2</td></tr>
-<tr><td>762</td><td>Diemtigen</td><td>3</td></tr>
-<tr><td>385</td><td>Diessbach bei Büren</td><td>2</td></tr>
-<tr><td>386</td><td>Dotzigen</td><td>2</td></tr>
-<tr><td>952</td><td>Dürrenroth</td><td>3</td></tr>
-<tr><td>901</td><td>Eggiwil</td><td>3</td></tr>
-<tr><td>735</td><td>Epsach</td><td>2</td></tr>
-<tr><td>953</td><td>Eriswil</td><td>3</td></tr>
-<tr><td>924</td><td>Eriz</td><td>2</td></tr>
-<tr><td>492</td><td>Erlach</td><td>2</td></tr>
-<tr><td>763</td><td>Erlenbach im Simmental</td><td>3</td></tr>
-<tr><td>405</td><td>Ersigen</td><td>2</td></tr>
-<tr><td>692</td><td>Eschert</td><td>2</td></tr>
-<tr><td>372</td><td>Évilard</td><td>1</td></tr>
-<tr><td>925</td><td>Fahrni</td><td>2</td></tr>
-<tr><td>975</td><td>Farnern</td><td>3</td></tr>
-<tr><td>662</td><td>Ferenbalm</td><td>2</td></tr>
-<tr><td>493</td><td>Finsterhennen</td><td>2</td></tr>
-<tr><td>948</td><td>Forst-Längenbühl</td><td>2</td></tr>
-<tr><td>538</td><td>Fraubrunnen</td><td>2</td></tr>
-<tr><td>663</td><td>Frauenkappelen</td><td>2</td></tr>
-<tr><td>607</td><td>Freimettigen</td><td>2</td></tr>
-<tr><td>563</td><td>Frutigen</td><td>3</td></tr>
-<tr><td>494</td><td>Gals</td><td>2</td></tr>
-<tr><td>495</td><td>Gampelen</td><td>2</td></tr>
-<tr><td>866</td><td>Gerzensee</td><td>2</td></tr>
-<tr><td>326</td><td>Gondiswil</td><td>3</td></tr>
-<tr><td>976</td><td>Graben</td><td>3</td></tr>
-<tr><td>694</td><td>Grandval</td><td>2</td></tr>
-<tr><td>576</td><td>Grindelwald</td><td>3</td></tr>
-<tr><td>303</td><td>Grossaffoltern</td><td>2</td></tr>
-<tr><td>608</td><td>Grosshöchstetten</td><td>2</td></tr>
-<tr><td>841</td><td>Gsteig</td><td>3</td></tr>
-<tr><td>577</td><td>Gsteigwiler</td><td>3</td></tr>
-<tr><td>852</td><td>Guggisberg</td><td>2</td></tr>
-<tr><td>578</td><td>Gündlischwand</td><td>3</td></tr>
-<tr><td>665</td><td>Gurbrü</td><td>2</td></tr>
-<tr><td>867</td><td>Gurzelen</td><td>2</td></tr>
-<tr><td>782</td><td>Guttannen</td><td>3</td></tr>
-<tr><td>579</td><td>Habkern</td><td>3</td></tr>
-<tr><td>736</td><td>Hagneck</td><td>2</td></tr>
-<tr><td>406</td><td>Hasle bei Burgdorf</td><td>2</td></tr>
-<tr><td>783</td><td>Hasliberg</td><td>3</td></tr>
-<tr><td>609</td><td>Häutligen</td><td>2</td></tr>
-<tr><td>927</td><td>Heiligenschwendi</td><td>2</td></tr>
-<tr><td>928</td><td>Heimberg</td><td>2</td></tr>
-<tr><td>977</td><td>Heimenhausen</td><td>3</td></tr>
-<tr><td>407</td><td>Heimiswil</td><td>2</td></tr>
-<tr><td>408</td><td>Hellsau</td><td>2</td></tr>
-<tr><td>610</td><td>Herbligen</td><td>2</td></tr>
-<tr><td>737</td><td>Hermrigen</td><td>2</td></tr>
-<tr><td>979</td><td>Herzogenbuchsee</td><td>3</td></tr>
-<tr><td>929</td><td>Hilterfingen</td><td>2</td></tr>
-<tr><td>409</td><td>Hindelbank</td><td>2</td></tr>
-<tr><td>410</td><td>Höchstetten</td><td>2</td></tr>
-<tr><td>580</td><td>Hofstetten bei Brienz</td><td>3</td></tr>
-<tr><td>931</td><td>Homberg</td><td>2</td></tr>
-<tr><td>932</td><td>Horrenbach- Buchen</td><td>2</td></tr>
-<tr><td>954</td><td>Huttwil</td><td>3</td></tr>
-<tr><td>541</td><td>Iffwil</td><td>2</td></tr>
-<tr><td>980</td><td>Inkwil</td><td>3</td></tr>
-<tr><td>784</td><td>Innertkirchen</td><td>3</td></tr>
-<tr><td>496</td><td>Ins</td><td>2</td></tr>
-<tr><td>581</td><td>Interlaken</td><td>3</td></tr>
-<tr><td>739</td><td>Ipsach</td><td>2</td></tr>
-<tr><td>582</td><td>Iseltwald</td><td>3</td></tr>
-<tr><td>362</td><td>Ittigen</td><td>1</td></tr>
-<tr><td>868</td><td>Jaberg</td><td>2</td></tr>
-<tr><td>540</td><td>Jegenstorf</td><td>2</td></tr>
-<tr><td>738</td><td>Jens</td><td>2</td></tr>
-<tr><td>304</td><td>Kallnach</td><td>2</td></tr>
-<tr><td>564</td><td>Kandergrund</td><td>3</td></tr>
-<tr><td>565</td><td>Kandersteg</td><td>3</td></tr>
-<tr><td>305</td><td>Kappelen</td><td>2</td></tr>
-<tr><td>869</td><td>Kaufdorf</td><td>2</td></tr>
-<tr><td>870</td><td>Kehrsatz</td><td>2</td></tr>
-<tr><td>411</td><td>Kernenried</td><td>2</td></tr>
-<tr><td>611</td><td>Kiesen</td><td>2</td></tr>
-<tr><td>412</td><td>Kirchberg (BE)</td><td>2</td></tr>
-<tr><td>872</td><td>Kirchdorf (BE)</td><td>2</td></tr>
-<tr><td>354</td><td>Kirchlindach</td><td>1</td></tr>
-<tr><td>355</td><td>Köniz</td><td>1</td></tr>
-<tr><td>612</td><td>Konolfingen</td><td>2</td></tr>
-<tr><td>413</td><td>Koppigen</td><td>2</td></tr>
-<tr><td>566</td><td>Krattigen</td><td>3</td></tr>
-<tr><td>414</td><td>Krauchthal</td><td>2</td></tr>
-<tr><td>666</td><td>Kriechenwil</td><td>2</td></tr>
-<tr><td>435</td><td>La Ferrière</td><td>2</td></tr>
-<tr><td>723</td><td>La Neuveville</td><td>2</td></tr>
-<tr><td>613</td><td>Landiswil</td><td>2</td></tr>
-<tr><td>329</td><td>Langenthal</td><td>3</td></tr>
-<tr><td>902</td><td>Langnau im Emmental</td><td>3</td></tr>
-<tr><td>842</td><td>Lauenen</td><td>3</td></tr>
-<tr><td>667</td><td>Laupen</td><td>2</td></tr>
-<tr><td>903</td><td>Lauperswil</td><td>3</td></tr>
-<tr><td>584</td><td>Lauterbrunnen</td><td>3</td></tr>
-<tr><td>585</td><td>Leissigen</td><td>3</td></tr>
-<tr><td>387</td><td>Lengnau (BE)</td><td>2</td></tr>
-<tr><td>792</td><td>Lenk</td><td>3</td></tr>
-<tr><td>388</td><td>Leuzigen</td><td>2</td></tr>
-<tr><td>740</td><td>Ligerz</td><td>2</td></tr>
-<tr><td>614</td><td>Linden</td><td>2</td></tr>
-<tr><td>331</td><td>Lotzwil</td><td>3</td></tr>
-<tr><td>696</td><td>Loveresse</td><td>2</td></tr>
-<tr><td>497</td><td>Lüscherz</td><td>2</td></tr>
-<tr><td>586</td><td>Lütschental</td><td>3</td></tr>
-<tr><td>955</td><td>Lützelflüh</td><td>3</td></tr>
-<tr><td>306</td><td>Lyss</td><td>2</td></tr>
-<tr><td>415</td><td>Lyssach</td><td>2</td></tr>
-<tr><td>332</td><td>Madiswil</td><td>3</td></tr>
-<tr><td>587</td><td>Matten bei Interlaken</td><td>3</td></tr>
-<tr><td>543</td><td>Mattstetten</td><td>2</td></tr>
-<tr><td>389</td><td>Meienried</td><td>2</td></tr>
-<tr><td>307</td><td>Meikirch</td><td>2</td></tr>
-<tr><td>390</td><td>Meinisberg</td><td>2</td></tr>
-<tr><td>785</td><td>Meiringen</td><td>3</td></tr>
-<tr><td>333</td><td>Melchnau</td><td>3</td></tr>
-<tr><td>741</td><td>Merzligen</td><td>2</td></tr>
-<tr><td>615</td><td>Mirchel</td><td>2</td></tr>
-<tr><td>437</td><td>Mont-Tramelan</td><td>2</td></tr>
-<tr><td>544</td><td>Moosseedorf</td><td>2</td></tr>
-<tr><td>742</td><td>Mörigen</td><td>2</td></tr>
-<tr><td>700</td><td>Moutier</td><td>2</td></tr>
-<tr><td>668</td><td>Mühleberg</td><td>2</td></tr>
-<tr><td>546</td><td>Münchenbuchsee</td><td>2</td></tr>
-<tr><td>669</td><td>Münchenwiler</td><td>2</td></tr>
-<tr><td>616</td><td>Münsingen</td><td>2</td></tr>
-<tr><td>498</td><td>Müntschemier</td><td>2</td></tr>
-<tr><td>356</td><td>Muri bei Bern</td><td>1</td></tr>
-<tr><td>670</td><td>Neuenegg</td><td>2</td></tr>
-<tr><td>743</td><td>Nidau</td><td>2</td></tr>
-<tr><td>981</td><td>Niederbipp</td><td>3</td></tr>
-<tr><td>617</td><td>Niederhünigen</td><td>2</td></tr>
-<tr><td>877</td><td>Niedermuhlern</td><td>2</td></tr>
-<tr><td>982</td><td>Niederönz</td><td>3</td></tr>
-<tr><td>588</td><td>Niederried bei Interlaken</td><td>3</td></tr>
-<tr><td>724</td><td>Nods</td><td>2</td></tr>
-<tr><td>357</td><td>Oberbalm</td><td>1</td></tr>
-<tr><td>983</td><td>Oberbipp</td><td>3</td></tr>
-<tr><td>418</td><td>Oberburg</td><td>2</td></tr>
-<tr><td>619</td><td>Oberdiessbach</td><td>2</td></tr>
-<tr><td>934</td><td>Oberhofen am Thunersee</td><td>2</td></tr>
-<tr><td>629</td><td>Oberhünigen</td><td>2</td></tr>
-<tr><td>935</td><td>Oberlangenegg</td><td>2</td></tr>
-<tr><td>589</td><td>Oberried am Brienzersee</td><td>3</td></tr>
-<tr><td>620</td><td>Oberthal</td><td>2</td></tr>
-<tr><td>391</td><td>Oberwil bei Büren</td><td>2</td></tr>
-<tr><td>766</td><td>Oberwil im Simmental</td><td>3</td></tr>
-<tr><td>985</td><td>Ochlenberg</td><td>3</td></tr>
-<tr><td>335</td><td>Oeschenbach</td><td>3</td></tr>
-<tr><td>622</td><td>Oppligen</td><td>2</td></tr>
-<tr><td>744</td><td>Orpund</td><td>2</td></tr>
-<tr><td>438</td><td>Orvin</td><td>2</td></tr>
-<tr><td>363</td><td>Ostermundigen</td><td>1</td></tr>
-<tr><td>701</td><td>Perrefitte</td><td>2</td></tr>
-<tr><td>450</td><td>Péry-La Heutte</td><td>2</td></tr>
-<tr><td>716</td><td>Petit-Val</td><td>2</td></tr>
-<tr><td>392</td><td>Pieterlen</td><td>2</td></tr>
-<tr><td>726</td><td>Plateau de Diesse</td><td>2</td></tr>
-<tr><td>936</td><td>Pohlern</td><td>2</td></tr>
-<tr><td>745</td><td>Port</td><td>2</td></tr>
-<tr><td>309</td><td>Radelfingen</td><td>2</td></tr>
-<tr><td>310</td><td>Rapperswil (BE)</td><td>2</td></tr>
-<tr><td>715</td><td>Rebévelier</td><td>2</td></tr>
-<tr><td>703</td><td>Reconvilier</td><td>2</td></tr>
-<tr><td>567</td><td>Reichenbach im Kandertal</td><td>3</td></tr>
-<tr><td>336</td><td>Reisiswil</td><td>3</td></tr>
-<tr><td>441</td><td>Renan (BE)</td><td>2</td></tr>
-<tr><td>767</td><td>Reutigen</td><td>3</td></tr>
-<tr><td>879</td><td>Riggisberg</td><td>2</td></tr>
-<tr><td>590</td><td>Ringgenberg (BE)</td><td>3</td></tr>
-<tr><td>704</td><td>Roches (BE)</td><td>2</td></tr>
-<tr><td>337</td><td>Roggwil (BE)</td><td>3</td></tr>
-<tr><td>338</td><td>Rohrbach</td><td>3</td></tr>
-<tr><td>339</td><td>Rohrbachgraben</td><td>3</td></tr>
-<tr><td>442</td><td>Romont (BE)</td><td>2</td></tr>
-<tr><td>904</td><td>Röthenbach im Emmental</td><td>3</td></tr>
-<tr><td>623</td><td>Rubigen</td><td>2</td></tr>
-<tr><td>905</td><td>Rüderswil</td><td>3</td></tr>
-<tr><td>420</td><td>Rüdtligen- Alchenflüh</td><td>2</td></tr>
-<tr><td>880</td><td>Rüeggisberg</td><td>2</td></tr>
-<tr><td>956</td><td>Rüegsau</td><td>3</td></tr>
-<tr><td>421</td><td>Rumendingen</td><td>2</td></tr>
-<tr><td>987</td><td>Rumisberg</td><td>3</td></tr>
-<tr><td>853</td><td>Rüschegg</td><td>2</td></tr>
-<tr><td>393</td><td>Rüti bei Büren</td><td>2</td></tr>
-<tr><td>422</td><td>Rüti bei Lyssach</td><td>2</td></tr>
-<tr><td>340</td><td>Rütschelen</td><td>3</td></tr>
-<tr><td>843</td><td>Saanen</td><td>3</td></tr>
-<tr><td>746</td><td>Safnern</td><td>2</td></tr>
-<tr><td>706</td><td>Saicourt</td><td>2</td></tr>
-<tr><td>443</td><td>Saint-Imier</td><td>2</td></tr>
-<tr><td>449</td><td>Sauge</td><td>2</td></tr>
-<tr><td>707</td><td>Saules (BE)</td><td>2</td></tr>
-<tr><td>591</td><td>Saxeten</td><td>3</td></tr>
-<tr><td>906</td><td>Schangnau</td><td>3</td></tr>
-<tr><td>786</td><td>Schattenhalb</td><td>3</td></tr>
-<tr><td>708</td><td>Schelten</td><td>2</td></tr>
-<tr><td>747</td><td>Scheuren</td><td>2</td></tr>
-<tr><td>311</td><td>Schüpfen</td><td>2</td></tr>
-<tr><td>748</td><td>Schwadernau</td><td>2</td></tr>
-<tr><td>592</td><td>Schwanden bei Brienz</td><td>3</td></tr>
-<tr><td>855</td><td>Schwarzenburg</td><td>2</td></tr>
-<tr><td>341</td><td>Schwarzhäusern</td><td>3</td></tr>
-<tr><td>988</td><td>Seeberg</td><td>3</td></tr>
-<tr><td>312</td><td>Seedorf (BE)</td><td>2</td></tr>
-<tr><td>709</td><td>Seehof</td><td>2</td></tr>
-<tr><td>883</td><td>Seftigen</td><td>2</td></tr>
-<tr><td>907</td><td>Signau</td><td>3</td></tr>
-<tr><td>938</td><td>Sigriswil</td><td>2</td></tr>
-<tr><td>499</td><td>Siselen</td><td>2</td></tr>
-<tr><td>444</td><td>Sonceboz- Sombeval</td><td>2</td></tr>
-<tr><td>445</td><td>Sonvilier</td><td>2</td></tr>
-<tr><td>711</td><td>Sorvilier</td><td>2</td></tr>
-<tr><td>768</td><td>Spiez</td><td>3</td></tr>
-<tr><td>793</td><td>St. Stephan</td><td>3</td></tr>
-<tr><td>939</td><td>Steffisburg</td><td>2</td></tr>
-<tr><td>358</td><td>Stettlen</td><td>1</td></tr>
-<tr><td>770</td><td>Stocken-Höfen</td><td>3</td></tr>
-<tr><td>749</td><td>Studen (BE)</td><td>2</td></tr>
-<tr><td>957</td><td>Sumiswald</td><td>3</td></tr>
-<tr><td>750</td><td>Sutz-Lattrigen</td><td>2</td></tr>
-<tr><td>751</td><td>Täuffelen</td><td>2</td></tr>
-<tr><td>713</td><td>Tavannes</td><td>2</td></tr>
-<tr><td>940</td><td>Teuffenthal (BE)</td><td>2</td></tr>
-<tr><td>941</td><td>Thierachern</td><td>2</td></tr>
-<tr><td>989</td><td>Thörigen</td><td>3</td></tr>
-<tr><td>942</td><td>Thun</td><td>2</td></tr>
-<tr><td>342</td><td>Thunstetten</td><td>3</td></tr>
-<tr><td>889</td><td>Thurnen</td><td>2</td></tr>
-<tr><td>884</td><td>Toffen</td><td>2</td></tr>
-<tr><td>958</td><td>Trachselwald</td><td>3</td></tr>
-<tr><td>446</td><td>Tramelan</td><td>2</td></tr>
-<tr><td>500</td><td>Treiten</td><td>2</td></tr>
-<tr><td>908</td><td>Trub</td><td>3</td></tr>
-<tr><td>909</td><td>Trubschachen</td><td>3</td></tr>
-<tr><td>501</td><td>Tschugg</td><td>2</td></tr>
-<tr><td>756</td><td>Twann-Tüscherz</td><td>2</td></tr>
-<tr><td>943</td><td>Uebeschi</td><td>2</td></tr>
-<tr><td>944</td><td>Uetendorf</td><td>2</td></tr>
-<tr><td>945</td><td>Unterlangenegg</td><td>2</td></tr>
-<tr><td>593</td><td>Unterseen</td><td>3</td></tr>
-<tr><td>344</td><td>Ursenbach</td><td>3</td></tr>
-<tr><td>551</td><td>Urtenen-Schönbühl</td><td>2</td></tr>
-<tr><td>885</td><td>Uttigen</td><td>2</td></tr>
-<tr><td>552</td><td>Utzenstorf</td><td>2</td></tr>
-<tr><td>717</td><td>Valbirse</td><td>2</td></tr>
-<tr><td>359</td><td>Vechigen</td><td>1</td></tr>
-<tr><td>448</td><td>Villeret</td><td>2</td></tr>
-<tr><td>502</td><td>Vinelz</td><td>2</td></tr>
-<tr><td>946</td><td>Wachseldorn</td><td>2</td></tr>
-<tr><td>888</td><td>Wald (BE)</td><td>2</td></tr>
-<tr><td>626</td><td>Walkringen</td><td>2</td></tr>
-<tr><td>990</td><td>Walliswil bei Niederbipp</td><td>3</td></tr>
-<tr><td>991</td><td>Walliswil bei Wangen</td><td>3</td></tr>
-<tr><td>754</td><td>Walperswil</td><td>2</td></tr>
-<tr><td>959</td><td>Walterswil (BE)</td><td>3</td></tr>
-<tr><td>992</td><td>Wangen an der Aare</td><td>3</td></tr>
-<tr><td>993</td><td>Wangenried</td><td>3</td></tr>
-<tr><td>886</td><td>Wattenwil</td><td>2</td></tr>
-<tr><td>394</td><td>Wengi</td><td>2</td></tr>
-<tr><td>632</td><td>Wichtrach</td><td>2</td></tr>
-<tr><td>995</td><td>Wiedlisbach</td><td>3</td></tr>
-<tr><td>553</td><td>Wiggiswil</td><td>2</td></tr>
-<tr><td>594</td><td>Wilderswil</td><td>3</td></tr>
-<tr><td>554</td><td>Wiler bei Utzenstorf</td><td>2</td></tr>
-<tr><td>671</td><td>Wileroltigen</td><td>2</td></tr>
-<tr><td>423</td><td>Willadingen</td><td>2</td></tr>
-<tr><td>769</td><td>Wimmis</td><td>3</td></tr>
-<tr><td>360</td><td>Wohlen bei Bern</td><td>1</td></tr>
-<tr><td>627</td><td>Worb</td><td>2</td></tr>
-<tr><td>755</td><td>Worben</td><td>2</td></tr>
-<tr><td>345</td><td>Wynau</td><td>3</td></tr>
-<tr><td>424</td><td>Wynigen</td><td>2</td></tr>
-<tr><td>960</td><td>Wyssachen</td><td>3</td></tr>
-<tr><td>628</td><td>Zäziwil</td><td>2</td></tr>
-<tr><td>556</td><td>Zielebach</td><td>2</td></tr>
-<tr><td>361</td><td>Zollikofen</td><td>1</td></tr>
-<tr><td>557</td><td>Zuzwil (BE)</td><td>2</td></tr>
-<tr><td>794</td><td>Zweisimmen</td><td>3</td></tr>
-<tr><td>947</td><td>Zwieselberg</td><td>2</td></tr>
+<tr><th colspan="2">Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><td>301</td><td colspan="2">Aarberg</td><td>2</td></tr>
+<tr><td>321</td><td colspan="2">Aarwangen</td><td>3</td></tr>
+<tr><td>561</td><td colspan="2">Adelboden</td><td>3</td></tr>
+<tr><td>401</td><td colspan="2">Aefligen</td><td>2</td></tr>
+<tr><td>731</td><td colspan="2">Aegerten</td><td>2</td></tr>
+<tr><td>562</td><td colspan="2">Aeschi bei Spiez</td><td>3</td></tr>
+<tr><td>951</td><td colspan="2">Affoltern im Emmental</td><td>3</td></tr>
+<tr><td>402</td><td colspan="2">Alchenstorf</td><td>2</td></tr>
+<tr><td>630</td><td colspan="2">Allmendingen</td><td>2</td></tr>
+<tr><td>921</td><td colspan="2">Amsoldingen</td><td>2</td></tr>
+<tr><td>381</td><td colspan="2">Arch</td><td>2</td></tr>
+<tr><td>602</td><td colspan="2">Arni (BE)</td><td>2</td></tr>
+<tr><td>971</td><td colspan="2">Attiswil</td><td>3</td></tr>
+<tr><td>322</td><td colspan="2">Auswil</td><td>3</td></tr>
+<tr><td>323</td><td colspan="2">Bannwil</td><td>3</td></tr>
+<tr><td>302</td><td colspan="2">Bargen (BE)</td><td>2</td></tr>
+<tr><td>403</td><td colspan="2">Bäriswil</td><td>2</td></tr>
+<tr><td>533</td><td colspan="2">Bätterkinden</td><td>2</td></tr>
+<tr><td>571</td><td colspan="2">Beatenberg</td><td>3</td></tr>
+<tr><td>732</td><td colspan="2">Bellmund</td><td>2</td></tr>
+<tr><td>861</td><td colspan="2">Belp</td><td>2</td></tr>
+<tr><td>681</td><td colspan="2">Belprahon</td><td>2</td></tr>
+<tr><td>972</td><td colspan="2">Berken</td><td>3</td></tr>
+<tr><td>351</td><td colspan="2">Bern</td><td>1</td></tr>
+<tr><td>973</td><td colspan="2">Bettenhausen</td><td>3</td></tr>
+<tr><td>371</td><td colspan="2">Biel/Bienne</td><td>1</td></tr>
+<tr><td>603</td><td colspan="2">Biglen</td><td>2</td></tr>
+<tr><td>324</td><td colspan="2">Bleienbach</td><td>3</td></tr>
+<tr><td>922</td><td colspan="2">Blumenstein</td><td>2</td></tr>
+<tr><td>352</td><td colspan="2">Bolligen</td><td>1</td></tr>
+<tr><td>791</td><td colspan="2">Boltigen</td><td>3</td></tr>
+<tr><td>572</td><td colspan="2">Bönigen</td><td>3</td></tr>
+<tr><td>605</td><td colspan="2">Bowil</td><td>2</td></tr>
+<tr><td>353</td><td colspan="2">Bremgarten bei Bern</td><td>1</td></tr>
+<tr><td>606</td><td colspan="2">Brenzikofen</td><td>2</td></tr>
+<tr><td>573</td><td colspan="2">Brienz (BE)</td><td>3</td></tr>
+<tr><td>574</td><td colspan="2">Brienzwiler</td><td>3</td></tr>
+<tr><td>733</td><td colspan="2">Brügg</td><td>2</td></tr>
+<tr><td>491</td><td colspan="2">Brüttelen</td><td>2</td></tr>
+<tr><td>923</td><td colspan="2">Buchholterberg</td><td>2</td></tr>
+<tr><td>382</td><td colspan="2">Büetigen</td><td>2</td></tr>
+<tr><td>734</td><td colspan="2">Bühl</td><td>2</td></tr>
+<tr><td>383</td><td colspan="2">Büren an der Aare</td><td>2</td></tr>
+<tr><td>404</td><td colspan="2">Burgdorf</td><td>2</td></tr>
+<tr><td>863</td><td colspan="2">Burgistein</td><td>2</td></tr>
+<tr><td>325</td><td colspan="2">Busswil bei Melchnau</td><td>3</td></tr>
+<tr><td>683</td><td colspan="2">Champoz</td><td>2</td></tr>
+<tr><td>687</td><td colspan="2">Corcelles (BE)</td><td>2</td></tr>
+<tr><td>431</td><td colspan="2">Corgémont</td><td>2</td></tr>
+<tr><td>432</td><td colspan="2">Cormoret</td><td>2</td></tr>
+<tr><td>433</td><td colspan="2">Cortébert</td><td>2</td></tr>
+<tr><td>690</td><td colspan="2">Court</td><td>2</td></tr>
+<tr><td>434</td><td colspan="2">Courtelary</td><td>2</td></tr>
+<tr><td>691</td><td colspan="2">Crémines</td><td>2</td></tr>
+<tr><td>575</td><td colspan="2">Därligen</td><td>3</td></tr>
+<tr><td>761</td><td colspan="2">Därstetten</td><td>3</td></tr>
+<tr><td>535</td><td colspan="2">Deisswil bei Münchenbuchsee</td><td>2</td></tr>
+<tr><td>762</td><td colspan="2">Diemtigen</td><td>3</td></tr>
+<tr><td>385</td><td colspan="2">Diessbach bei Büren</td><td>2</td></tr>
+<tr><td>386</td><td colspan="2">Dotzigen</td><td>2</td></tr>
+<tr><td>952</td><td colspan="2">Dürrenroth</td><td>3</td></tr>
+<tr><td>901</td><td colspan="2">Eggiwil</td><td>3</td></tr>
+<tr><td>735</td><td colspan="2">Epsach</td><td>2</td></tr>
+<tr><td>953</td><td colspan="2">Eriswil</td><td>3</td></tr>
+<tr><td>924</td><td colspan="2">Eriz</td><td>2</td></tr>
+<tr><td>492</td><td colspan="2">Erlach</td><td>2</td></tr>
+<tr><td>763</td><td colspan="2">Erlenbach im Simmental</td><td>3</td></tr>
+<tr><td>405</td><td colspan="2">Ersigen</td><td>2</td></tr>
+<tr><td>692</td><td colspan="2">Eschert</td><td>2</td></tr>
+<tr><td>372</td><td colspan="2">Évilard</td><td>1</td></tr>
+<tr><td>925</td><td colspan="2">Fahrni</td><td>2</td></tr>
+<tr><td>975</td><td colspan="2">Farnern</td><td>3</td></tr>
+<tr><td>662</td><td colspan="2">Ferenbalm</td><td>2</td></tr>
+<tr><td>493</td><td colspan="2">Finsterhennen</td><td>2</td></tr>
+<tr><td>948</td><td colspan="2">Forst-Längenbühl</td><td>2</td></tr>
+<tr><td>538</td><td colspan="2">Fraubrunnen</td><td>2</td></tr>
+<tr><td>663</td><td colspan="2">Frauenkappelen</td><td>2</td></tr>
+<tr><td>607</td><td colspan="2">Freimettigen</td><td>2</td></tr>
+<tr><td>563</td><td colspan="2">Frutigen</td><td>3</td></tr>
+<tr><td>494</td><td colspan="2">Gals</td><td>2</td></tr>
+<tr><td>495</td><td colspan="2">Gampelen</td><td>2</td></tr>
+<tr><td>866</td><td colspan="2">Gerzensee</td><td>2</td></tr>
+<tr><td>326</td><td colspan="2">Gondiswil</td><td>3</td></tr>
+<tr><td>976</td><td colspan="2">Graben</td><td>3</td></tr>
+<tr><td>694</td><td colspan="2">Grandval</td><td>2</td></tr>
+<tr><td>576</td><td colspan="2">Grindelwald</td><td>3</td></tr>
+<tr><td>303</td><td colspan="2">Grossaffoltern</td><td>2</td></tr>
+<tr><td>608</td><td colspan="2">Grosshöchstetten</td><td>2</td></tr>
+<tr><td>841</td><td colspan="2">Gsteig</td><td>3</td></tr>
+<tr><td>577</td><td colspan="2">Gsteigwiler</td><td>3</td></tr>
+<tr><td>852</td><td colspan="2">Guggisberg</td><td>2</td></tr>
+<tr><td>578</td><td colspan="2">Gündlischwand</td><td>3</td></tr>
+<tr><td>665</td><td colspan="2">Gurbrü</td><td>2</td></tr>
+<tr><td>867</td><td colspan="2">Gurzelen</td><td>2</td></tr>
+<tr><td>782</td><td colspan="2">Guttannen</td><td>3</td></tr>
+<tr><td>579</td><td colspan="2">Habkern</td><td>3</td></tr>
+<tr><td>736</td><td colspan="2">Hagneck</td><td>2</td></tr>
+<tr><td>406</td><td colspan="2">Hasle bei Burgdorf</td><td>2</td></tr>
+<tr><td>783</td><td colspan="2">Hasliberg</td><td>3</td></tr>
+<tr><td>609</td><td colspan="2">Häutligen</td><td>2</td></tr>
+<tr><td>927</td><td colspan="2">Heiligenschwendi</td><td>2</td></tr>
+<tr><td>928</td><td colspan="2">Heimberg</td><td>2</td></tr>
+<tr><td>977</td><td colspan="2">Heimenhausen</td><td>3</td></tr>
+<tr><td>407</td><td colspan="2">Heimiswil</td><td>2</td></tr>
+<tr><td>408</td><td colspan="2">Hellsau</td><td>2</td></tr>
+<tr><td>610</td><td colspan="2">Herbligen</td><td>2</td></tr>
+<tr><td>737</td><td colspan="2">Hermrigen</td><td>2</td></tr>
+<tr><td>979</td><td colspan="2">Herzogenbuchsee</td><td>3</td></tr>
+<tr><td>929</td><td colspan="2">Hilterfingen</td><td>2</td></tr>
+<tr><td>409</td><td colspan="2">Hindelbank</td><td>2</td></tr>
+<tr><td>410</td><td colspan="2">Höchstetten</td><td>2</td></tr>
+<tr><td>580</td><td colspan="2">Hofstetten bei Brienz</td><td>3</td></tr>
+<tr><td>931</td><td colspan="2">Homberg</td><td>2</td></tr>
+<tr><td>932</td><td colspan="2">Horrenbach-Buchen</td><td>2</td></tr>
+<tr><td>954</td><td colspan="2">Huttwil</td><td>3</td></tr>
+<tr><td>541</td><td colspan="2">Iffwil</td><td>2</td></tr>
+<tr><td>980</td><td colspan="2">Inkwil</td><td>3</td></tr>
+<tr><td>784</td><td colspan="2">Innertkirchen</td><td>3</td></tr>
+<tr><td>496</td><td colspan="2">Ins</td><td>2</td></tr>
+<tr><td>581</td><td colspan="2">Interlaken</td><td>3</td></tr>
+<tr><td>739</td><td colspan="2">Ipsach</td><td>2</td></tr>
+<tr><td>582</td><td colspan="2">Iseltwald</td><td>3</td></tr>
+<tr><td>362</td><td colspan="2">Ittigen</td><td>1</td></tr>
+<tr><td>868</td><td colspan="2">Jaberg</td><td>2</td></tr>
+<tr><td>540</td><td colspan="2">Jegenstorf</td><td>2</td></tr>
+<tr><td>738</td><td colspan="2">Jens</td><td>2</td></tr>
+<tr><td>304</td><td colspan="2">Kallnach</td><td>2</td></tr>
+<tr><td>564</td><td colspan="2">Kandergrund</td><td>3</td></tr>
+<tr><td>565</td><td colspan="2">Kandersteg</td><td>3</td></tr>
+<tr><td>305</td><td colspan="2">Kappelen</td><td>2</td></tr>
+<tr><td>869</td><td colspan="2">Kaufdorf</td><td>2</td></tr>
+<tr><td>870</td><td colspan="2">Kehrsatz</td><td>2</td></tr>
+<tr><td>411</td><td colspan="2">Kernenried</td><td>2</td></tr>
+<tr><td>611</td><td colspan="2">Kiesen</td><td>2</td></tr>
+<tr><td>412</td><td colspan="2">Kirchberg (BE)</td><td>2</td></tr>
+<tr><td>872</td><td colspan="2">Kirchdorf (BE)</td><td>2</td></tr>
+<tr><td>354</td><td colspan="2">Kirchlindach</td><td>1</td></tr>
+<tr><td>355</td><td colspan="2">Köniz</td><td>1</td></tr>
+<tr><td>612</td><td colspan="2">Konolfingen</td><td>2</td></tr>
+<tr><td>413</td><td colspan="2">Koppigen</td><td>2</td></tr>
+<tr><td>566</td><td colspan="2">Krattigen</td><td>3</td></tr>
+<tr><td>414</td><td colspan="2">Krauchthal</td><td>2</td></tr>
+<tr><td>666</td><td colspan="2">Kriechenwil</td><td>2</td></tr>
+<tr><td>435</td><td colspan="2">La Ferrière</td><td>2</td></tr>
+<tr><td>723</td><td colspan="2">La Neuveville</td><td>2</td></tr>
+<tr><td>613</td><td colspan="2">Landiswil</td><td>2</td></tr>
+<tr><td>329</td><td colspan="2">Langenthal</td><td>3</td></tr>
+<tr><td>902</td><td colspan="2">Langnau im Emmental</td><td>3</td></tr>
+<tr><td>842</td><td colspan="2">Lauenen</td><td>3</td></tr>
+<tr><td>667</td><td colspan="2">Laupen</td><td>2</td></tr>
+<tr><td>903</td><td colspan="2">Lauperswil</td><td>3</td></tr>
+<tr><td>584</td><td colspan="2">Lauterbrunnen</td><td>3</td></tr>
+<tr><td>585</td><td colspan="2">Leissigen</td><td>3</td></tr>
+<tr><td>387</td><td colspan="2">Lengnau (BE)</td><td>2</td></tr>
+<tr><td>792</td><td colspan="2">Lenk</td><td>3</td></tr>
+<tr><td>388</td><td colspan="2">Leuzigen</td><td>2</td></tr>
+<tr><td>740</td><td colspan="2">Ligerz</td><td>2</td></tr>
+<tr><td>614</td><td colspan="2">Linden</td><td>2</td></tr>
+<tr><td>331</td><td colspan="2">Lotzwil</td><td>3</td></tr>
+<tr><td>696</td><td colspan="2">Loveresse</td><td>2</td></tr>
+<tr><td>497</td><td colspan="2">Lüscherz</td><td>2</td></tr>
+<tr><td>586</td><td colspan="2">Lütschental</td><td>3</td></tr>
+<tr><td>955</td><td colspan="2">Lützelflüh</td><td>3</td></tr>
+<tr><td>306</td><td colspan="2">Lyss</td><td>2</td></tr>
+<tr><td>415</td><td colspan="2">Lyssach</td><td>2</td></tr>
+<tr><td>332</td><td colspan="2">Madiswil</td><td>3</td></tr>
+<tr><td>587</td><td colspan="2">Matten bei Interlaken</td><td>3</td></tr>
+<tr><td>543</td><td colspan="2">Mattstetten</td><td>2</td></tr>
+<tr><td>389</td><td colspan="2">Meienried</td><td>2</td></tr>
+<tr><td>307</td><td colspan="2">Meikirch</td><td>2</td></tr>
+<tr><td>390</td><td colspan="2">Meinisberg</td><td>2</td></tr>
+<tr><td>785</td><td colspan="2">Meiringen</td><td>3</td></tr>
+<tr><td>333</td><td colspan="2">Melchnau</td><td>3</td></tr>
+<tr><td>741</td><td colspan="2">Merzligen</td><td>2</td></tr>
+<tr><td>615</td><td colspan="2">Mirchel</td><td>2</td></tr>
+<tr><td>437</td><td colspan="2">Mont-Tramelan</td><td>2</td></tr>
+<tr><td>544</td><td colspan="2">Moosseedorf</td><td>2</td></tr>
+<tr><td>742</td><td colspan="2">Mörigen</td><td>2</td></tr>
+<tr><td>700</td><td colspan="2">Moutier</td><td>2</td></tr>
+<tr><td>668</td><td colspan="2">Mühleberg</td><td>2</td></tr>
+<tr><td>546</td><td colspan="2">Münchenbuchsee</td><td>2</td></tr>
+<tr><td>669</td><td colspan="2">Münchenwiler</td><td>2</td></tr>
+<tr><td>616</td><td colspan="2">Münsingen</td><td>2</td></tr>
+<tr><td>498</td><td colspan="2">Müntschemier</td><td>2</td></tr>
+<tr><td>356</td><td colspan="2">Muri bei Bern</td><td>1</td></tr>
+<tr><td>670</td><td colspan="2">Neuenegg</td><td>2</td></tr>
+<tr><td>743</td><td colspan="2">Nidau</td><td>2</td></tr>
+<tr><td>981</td><td colspan="2">Niederbipp</td><td>3</td></tr>
+<tr><td>617</td><td colspan="2">Niederhünigen</td><td>2</td></tr>
+<tr><td>877</td><td colspan="2">Niedermuhlern</td><td>2</td></tr>
+<tr><td>982</td><td colspan="2">Niederönz</td><td>3</td></tr>
+<tr><td>588</td><td colspan="2">Niederried bei Interlaken</td><td>3</td></tr>
+<tr><td>724</td><td colspan="2">Nods</td><td>2</td></tr>
+<tr><td>357</td><td colspan="2">Oberbalm</td><td>1</td></tr>
+<tr><td>983</td><td colspan="2">Oberbipp</td><td>3</td></tr>
+<tr><td>418</td><td colspan="2">Oberburg</td><td>2</td></tr>
+<tr><td>619</td><td colspan="2">Oberdiessbach</td><td>2</td></tr>
+<tr><td>934</td><td colspan="2">Oberhofen am Thunersee</td><td>2</td></tr>
+<tr><td>629</td><td colspan="2">Oberhünigen</td><td>2</td></tr>
+<tr><td>935</td><td colspan="2">Oberlangenegg</td><td>2</td></tr>
+<tr><td>589</td><td colspan="2">Oberried am Brienzersee</td><td>3</td></tr>
+<tr><td>620</td><td colspan="2">Oberthal</td><td>2</td></tr>
+<tr><td>391</td><td colspan="2">Oberwil bei Büren</td><td>2</td></tr>
+<tr><td>766</td><td colspan="2">Oberwil im Simmental</td><td>3</td></tr>
+<tr><td>985</td><td colspan="2">Ochlenberg</td><td>3</td></tr>
+<tr><td>335</td><td colspan="2">Oeschenbach</td><td>3</td></tr>
+<tr><td>622</td><td colspan="2">Oppligen</td><td>2</td></tr>
+<tr><td>744</td><td colspan="2">Orpund</td><td>2</td></tr>
+<tr><td>438</td><td colspan="2">Orvin</td><td>2</td></tr>
+<tr><td>363</td><td colspan="2">Ostermundigen</td><td>1</td></tr>
+<tr><td>701</td><td colspan="2">Perrefitte</td><td>2</td></tr>
+<tr><td>450</td><td colspan="2">Péry-La Heutte</td><td>2</td></tr>
+<tr><td>716</td><td colspan="2">Petit-Val</td><td>2</td></tr>
+<tr><td>392</td><td colspan="2">Pieterlen</td><td>2</td></tr>
+<tr><td>726</td><td colspan="2">Plateau de Diesse</td><td>2</td></tr>
+<tr><td>936</td><td colspan="2">Pohlern</td><td>2</td></tr>
+<tr><td>745</td><td colspan="2">Port</td><td>2</td></tr>
+<tr><td>309</td><td colspan="2">Radelfingen</td><td>2</td></tr>
+<tr><td>310</td><td colspan="2">Rapperswil (BE)</td><td>2</td></tr>
+<tr><td>715</td><td colspan="2">Rebévelier</td><td>2</td></tr>
+<tr><td>703</td><td colspan="2">Reconvilier</td><td>2</td></tr>
+<tr><td>567</td><td colspan="2">Reichenbach im Kandertal</td><td>3</td></tr>
+<tr><td>336</td><td colspan="2">Reisiswil</td><td>3</td></tr>
+<tr><td>441</td><td colspan="2">Renan (BE)</td><td>2</td></tr>
+<tr><td>767</td><td colspan="2">Reutigen</td><td>3</td></tr>
+<tr><td>879</td><td colspan="2">Riggisberg</td><td>2</td></tr>
+<tr><td>590</td><td colspan="2">Ringgenberg (BE)</td><td>3</td></tr>
+<tr><td>704</td><td colspan="2">Roches (BE)</td><td>2</td></tr>
+<tr><td>337</td><td colspan="2">Roggwil (BE)</td><td>3</td></tr>
+<tr><td>338</td><td colspan="2">Rohrbach</td><td>3</td></tr>
+<tr><td>339</td><td colspan="2">Rohrbachgraben</td><td>3</td></tr>
+<tr><td>442</td><td colspan="2">Romont (BE)</td><td>2</td></tr>
+<tr><td>904</td><td colspan="2">Röthenbach im Emmental</td><td>3</td></tr>
+<tr><td>623</td><td colspan="2">Rubigen</td><td>2</td></tr>
+<tr><td>905</td><td colspan="2">Rüderswil</td><td>3</td></tr>
+<tr><td>420</td><td colspan="2">Rüdtligen- Alchenflüh</td><td>2</td></tr>
+<tr><td>880</td><td colspan="2">Rüeggisberg</td><td>2</td></tr>
+<tr><td>956</td><td colspan="2">Rüegsau</td><td>3</td></tr>
+<tr><td>421</td><td colspan="2">Rumendingen</td><td>2</td></tr>
+<tr><td>987</td><td colspan="2">Rumisberg</td><td>3</td></tr>
+<tr><td>853</td><td colspan="2">Rüschegg</td><td>2</td></tr>
+<tr><td>393</td><td colspan="2">Rüti bei Büren</td><td>2</td></tr>
+<tr><td>422</td><td colspan="2">Rüti bei Lyssach</td><td>2</td></tr>
+<tr><td>340</td><td colspan="2">Rütschelen</td><td>3</td></tr>
+<tr><td>843</td><td colspan="2">Saanen</td><td>3</td></tr>
+<tr><td>746</td><td colspan="2">Safnern</td><td>2</td></tr>
+<tr><td>706</td><td colspan="2">Saicourt</td><td>2</td></tr>
+<tr><td>443</td><td colspan="2">Saint-Imier</td><td>2</td></tr>
+<tr><td>449</td><td colspan="2">Sauge</td><td>2</td></tr>
+<tr><td>707</td><td colspan="2">Saules (BE)</td><td>2</td></tr>
+<tr><td>591</td><td colspan="2">Saxeten</td><td>3</td></tr>
+<tr><td>906</td><td colspan="2">Schangnau</td><td>3</td></tr>
+<tr><td>786</td><td colspan="2">Schattenhalb</td><td>3</td></tr>
+<tr><td>708</td><td colspan="2">Schelten</td><td>2</td></tr>
+<tr><td>747</td><td colspan="2">Scheuren</td><td>2</td></tr>
+<tr><td>311</td><td colspan="2">Schüpfen</td><td>2</td></tr>
+<tr><td>748</td><td colspan="2">Schwadernau</td><td>2</td></tr>
+<tr><td>592</td><td colspan="2">Schwanden bei Brienz</td><td>3</td></tr>
+<tr><td>855</td><td colspan="2">Schwarzenburg</td><td>2</td></tr>
+<tr><td>341</td><td colspan="2">Schwarzhäusern</td><td>3</td></tr>
+<tr><td>988</td><td colspan="2">Seeberg</td><td>3</td></tr>
+<tr><td>312</td><td colspan="2">Seedorf (BE)</td><td>2</td></tr>
+<tr><td>709</td><td colspan="2">Seehof</td><td>2</td></tr>
+<tr><td>883</td><td colspan="2">Seftigen</td><td>2</td></tr>
+<tr><td>907</td><td colspan="2">Signau</td><td>3</td></tr>
+<tr><td>938</td><td colspan="2">Sigriswil</td><td>2</td></tr>
+<tr><td>499</td><td colspan="2">Siselen</td><td>2</td></tr>
+<tr><td>444</td><td colspan="2">Sonceboz-Sombeval</td><td>2</td></tr>
+<tr><td>445</td><td colspan="2">Sonvilier</td><td>2</td></tr>
+<tr><td>711</td><td colspan="2">Sorvilier</td><td>2</td></tr>
+<tr><td>768</td><td colspan="2">Spiez</td><td>3</td></tr>
+<tr><td>793</td><td colspan="2">St. Stephan</td><td>3</td></tr>
+<tr><td>939</td><td colspan="2">Steffisburg</td><td>2</td></tr>
+<tr><td>358</td><td colspan="2">Stettlen</td><td>1</td></tr>
+<tr><td>770</td><td colspan="2">Stocken-Höfen</td><td>3</td></tr>
+<tr><td>749</td><td colspan="2">Studen (BE)</td><td>2</td></tr>
+<tr><td>957</td><td colspan="2">Sumiswald</td><td>3</td></tr>
+<tr><td>750</td><td colspan="2">Sutz-Lattrigen</td><td>2</td></tr>
+<tr><td>751</td><td colspan="2">Täuffelen</td><td>2</td></tr>
+<tr><td>713</td><td colspan="2">Tavannes</td><td>2</td></tr>
+<tr><td>940</td><td colspan="2">Teuffenthal (BE)</td><td>2</td></tr>
+<tr><td>941</td><td colspan="2">Thierachern</td><td>2</td></tr>
+<tr><td>989</td><td colspan="2">Thörigen</td><td>3</td></tr>
+<tr><td>942</td><td colspan="2">Thun</td><td>2</td></tr>
+<tr><td>342</td><td colspan="2">Thunstetten</td><td>3</td></tr>
+<tr><td>889</td><td colspan="2">Thurnen</td><td>2</td></tr>
+<tr><td>884</td><td colspan="2">Toffen</td><td>2</td></tr>
+<tr><td>958</td><td colspan="2">Trachselwald</td><td>3</td></tr>
+<tr><td>446</td><td colspan="2">Tramelan</td><td>2</td></tr>
+<tr><td>500</td><td colspan="2">Treiten</td><td>2</td></tr>
+<tr><td>908</td><td colspan="2">Trub</td><td>3</td></tr>
+<tr><td>909</td><td colspan="2">Trubschachen</td><td>3</td></tr>
+<tr><td>501</td><td colspan="2">Tschugg</td><td>2</td></tr>
+<tr><td>756</td><td colspan="2">Twann-Tüscherz</td><td>2</td></tr>
+<tr><td>943</td><td colspan="2">Uebeschi</td><td>2</td></tr>
+<tr><td>944</td><td colspan="2">Uetendorf</td><td>2</td></tr>
+<tr><td>945</td><td colspan="2">Unterlangenegg</td><td>2</td></tr>
+<tr><td>593</td><td colspan="2">Unterseen</td><td>3</td></tr>
+<tr><td>344</td><td colspan="2">Ursenbach</td><td>3</td></tr>
+<tr><td>551</td><td colspan="2">Urtenen-Schönbühl</td><td>2</td></tr>
+<tr><td>885</td><td colspan="2">Uttigen</td><td>2</td></tr>
+<tr><td>552</td><td colspan="2">Utzenstorf</td><td>2</td></tr>
+<tr><td>717</td><td colspan="2">Valbirse</td><td>2</td></tr>
+<tr><td>359</td><td colspan="2">Vechigen</td><td>1</td></tr>
+<tr><td>448</td><td colspan="2">Villeret</td><td>2</td></tr>
+<tr><td>502</td><td colspan="2">Vinelz</td><td>2</td></tr>
+<tr><td>946</td><td colspan="2">Wachseldorn</td><td>2</td></tr>
+<tr><td>888</td><td colspan="2">Wald (BE)</td><td>2</td></tr>
+<tr><td>626</td><td colspan="2">Walkringen</td><td>2</td></tr>
+<tr><td>990</td><td colspan="2">Walliswil bei Niederbipp</td><td>3</td></tr>
+<tr><td>991</td><td colspan="2">Walliswil bei Wangen</td><td>3</td></tr>
+<tr><td>754</td><td colspan="2">Walperswil</td><td>2</td></tr>
+<tr><td>959</td><td colspan="2">Walterswil (BE)</td><td>3</td></tr>
+<tr><td>992</td><td colspan="2">Wangen an der Aare</td><td>3</td></tr>
+<tr><td>993</td><td colspan="2">Wangenried</td><td>3</td></tr>
+<tr><td>886</td><td colspan="2">Wattenwil</td><td>2</td></tr>
+<tr><td>394</td><td colspan="2">Wengi</td><td>2</td></tr>
+<tr><td>632</td><td colspan="2">Wichtrach</td><td>2</td></tr>
+<tr><td>995</td><td colspan="2">Wiedlisbach</td><td>3</td></tr>
+<tr><td>553</td><td colspan="2">Wiggiswil</td><td>2</td></tr>
+<tr><td>594</td><td colspan="2">Wilderswil</td><td>3</td></tr>
+<tr><td>554</td><td colspan="2">Wiler bei Utzenstorf</td><td>2</td></tr>
+<tr><td>671</td><td colspan="2">Wileroltigen</td><td>2</td></tr>
+<tr><td>423</td><td colspan="2">Willadingen</td><td>2</td></tr>
+<tr><td>769</td><td colspan="2">Wimmis</td><td>3</td></tr>
+<tr><td>360</td><td colspan="2">Wohlen bei Bern</td><td>1</td></tr>
+<tr><td>627</td><td colspan="2">Worb</td><td>2</td></tr>
+<tr><td>755</td><td colspan="2">Worben</td><td>2</td></tr>
+<tr><td>345</td><td colspan="2">Wynau</td><td>3</td></tr>
+<tr><td>424</td><td colspan="2">Wynigen</td><td>2</td></tr>
+<tr><td>960</td><td colspan="2">Wyssachen</td><td>3</td></tr>
+<tr><td>628</td><td colspan="2">Zäziwil</td><td>2</td></tr>
+<tr><td>556</td><td colspan="2">Zielebach</td><td>2</td></tr>
+<tr><td>361</td><td colspan="2">Zollikofen</td><td>1</td></tr>
+<tr><td>557</td><td colspan="2">Zuzwil (BE)</td><td>2</td></tr>
+<tr><td>794</td><td colspan="2">Zweisimmen</td><td>3</td></tr>
+<tr><td>947</td><td colspan="2">Zwieselberg</td><td>2</td></tr>
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### Grigioni
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>3542</td><td>Albula/Alvra</td><td>3</td></tr>
 <tr><td>3701</td><td>Andeer</td><td>3</td></tr>
 <tr><td>3921</td><td>Arosa</td><td>1</td></tr>
@@ -1316,7 +1315,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>3762</td><td>Scuol</td><td>2</td></tr>
 <tr><td>3972</td><td>Seewis im Prättigau</td><td>2</td></tr>
 <tr><td>3640</td><td>Sils im Domleschg</td><td>3</td></tr>
-<tr><td>3789</td><td>Sils im Engadin/Segl</td><td>2</td></tr>
+<tr><td>3789</td><td>Sils im Engadin/ Segl</td><td>2</td></tr>
 <tr><td>3790</td><td>Silvaplana</td><td>2</td></tr>
 <tr><td>3823</td><td>Soazza</td><td>1</td></tr>
 <tr><td>3787</td><td>St. Moritz</td><td>2</td></tr>
@@ -1344,13 +1343,13 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### Lucerna
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>1051</td><td>Adligenswil</td><td>2</td></tr>
 <tr><td>1021</td><td>Aesch (LU)</td><td>3</td></tr>
 <tr><td>1121</td><td>Alberswil</td><td>3</td></tr>
@@ -1371,7 +1370,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>1002</td><td>Entlebuch</td><td>3</td></tr>
 <tr><td>1025</td><td>Ermensee</td><td>3</td></tr>
 <tr><td>1026</td><td>Eschenbach (LU)</td><td>3</td></tr>
-<tr><td>1010</td><td>Escholzmatt-Marbach</td><td>3</td></tr>
+<tr><td>1010</td><td>Escholzmatt- Marbach</td><td>3</td></tr>
 <tr><td>1128</td><td>Ettiswil</td><td>3</td></tr>
 <tr><td>1129</td><td>Fischbach</td><td>3</td></tr>
 <tr><td>1004</td><td>Flühli</td><td>3</td></tr>
@@ -1434,13 +1433,13 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### San Gallo
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>3251</td><td>Altstätten</td><td>3</td></tr>
 <tr><td>3311</td><td>Amden</td><td>2</td></tr>
 <tr><td>3441</td><td>Andwil (SG)</td><td>2</td></tr>
@@ -1451,7 +1450,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>3211</td><td>Berg (SG)</td><td>2</td></tr>
 <tr><td>3233</td><td>Berneck</td><td>3</td></tr>
 <tr><td>3271</td><td>Buchs (SG)</td><td>2</td></tr>
-<tr><td>3395</td><td>Bütschwil-Ganterschwil</td><td>3</td></tr>
+<tr><td>3395</td><td>Bütschwil- Ganterschwil</td><td>3</td></tr>
 <tr><td>3401</td><td>Degersheim</td><td>3</td></tr>
 <tr><td>3234</td><td>Diepoldsau</td><td>3</td></tr>
 <tr><td>3352</td><td>Ebnat-Kappel</td><td>3</td></tr>
@@ -1519,179 +1518,177 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 ### Zurigo
 
 <table>
-<tr><th>Numero del Comune (n° UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
-<tr><td>21</td><td>Adlikon</td><td>3</td></tr>
-<tr><td>131</td><td>Adliswil</td><td>2</td></tr>
-<tr><td>241</td><td>Aesch (ZH)</td><td>3</td></tr>
-<tr><td>1</td><td>Aeugst am Albis</td><td>3</td></tr>
-<tr><td>2</td><td>Affoltern am Albis</td><td>3</td></tr>
-<tr><td>211</td><td>Altikon</td><td>3</td></tr>
-<tr><td>30</td><td>Andelfingen</td><td>3</td></tr>
-<tr><td>51</td><td>Bachenbülach</td><td>3</td></tr>
-<tr><td>81</td><td>Bachs</td><td>3</td></tr>
-<tr><td>111</td><td>Bäretswil</td><td>3</td></tr>
-<tr><td>52</td><td>Bassersdorf</td><td>3</td></tr>
-<tr><td>297</td><td>Bauma</td><td>3</td></tr>
-<tr><td>22</td><td>Benken (ZH)</td><td>3</td></tr>
-<tr><td>23</td><td>Berg am Irchel</td><td>3</td></tr>
-<tr><td>242</td><td>Birmensdorf (ZH)</td><td>3</td></tr>
-<tr><td>3</td><td>Bonstetten</td><td>3</td></tr>
-<tr><td>82</td><td>Boppelsen</td><td>3</td></tr>
-<tr><td>213</td><td>Brütten</td><td>3</td></tr>
-<tr><td>112</td><td>Bubikon</td><td>3</td></tr>
-<tr><td>24</td><td>Buch am Irchel</td><td>3</td></tr>
-<tr><td>83</td><td>Buchs (ZH)</td><td>3</td></tr>
-<tr><td>53</td><td>Bülach</td><td>3</td></tr>
-<tr><td>25</td><td>Dachsen</td><td>3</td></tr>
-<tr><td>214</td><td>Dägerlen</td><td>3</td></tr>
-<tr><td>84</td><td>Dällikon</td><td>3</td></tr>
-<tr><td>85</td><td>Dänikon</td><td>3</td></tr>
-<tr><td>215</td><td>Dättlikon</td><td>3</td></tr>
-<tr><td>86</td><td>Dielsdorf</td><td>3</td></tr>
-<tr><td>243</td><td>Dietikon</td><td>2</td></tr>
-<tr><td>54</td><td>Dietlikon</td><td>2</td></tr>
-<tr><td>216</td><td>Dinhard</td><td>3</td></tr>
-<tr><td>26</td><td>Dorf</td><td>3</td></tr>
-<tr><td>191</td><td>Dübendorf</td><td>2</td></tr>
-<tr><td>113</td><td>Dürnten</td><td>3</td></tr>
-<tr><td>192</td><td>Egg</td><td>2</td></tr>
-<tr><td>55</td><td>Eglisau</td><td>3</td></tr>
-<tr><td>294</td><td>Elgg</td><td>3</td></tr>
-<tr><td>218</td><td>Ellikon an der Thur</td><td>3</td></tr>
-<tr><td>219</td><td>Elsau</td><td>3</td></tr>
-<tr><td>56</td><td>Embrach</td><td>3</td></tr>
-<tr><td>151</td><td>Erlenbach (ZH)</td><td>2</td></tr>
-<tr><td>193</td><td>Fällanden</td><td>2</td></tr>
-<tr><td>172</td><td>Fehraltorf</td><td>3</td></tr>
-<tr><td>27</td><td>Feuerthalen</td><td>3</td></tr>
-<tr><td>114</td><td>Fischenthal</td><td>3</td></tr>
-<tr><td>28</td><td>Flaach</td><td>3</td></tr>
-<tr><td>29</td><td>Flurlingen</td><td>3</td></tr>
-<tr><td>57</td><td>Freienstein-Teufen</td><td>3</td></tr>
-<tr><td>244</td><td>Geroldswil</td><td>3</td></tr>
-<tr><td>58</td><td>Glattfelden</td><td>3</td></tr>
-<tr><td>115</td><td>Gossau (ZH)</td><td>3</td></tr>
-<tr><td>194</td><td>Greifensee</td><td>2</td></tr>
-<tr><td>116</td><td>Grüningen</td><td>3</td></tr>
-<tr><td>220</td><td>Hagenbuch</td><td>3</td></tr>
-<tr><td>4</td><td>Hausen am Albis</td><td>3</td></tr>
-<tr><td>5</td><td>Hedingen</td><td>3</td></tr>
-<tr><td>31</td><td>Henggart</td><td>3</td></tr>
-<tr><td>152</td><td>Herrliberg</td><td>2</td></tr>
-<tr><td>221</td><td>Hettlingen</td><td>3</td></tr>
-<tr><td>117</td><td>Hinwil</td><td>3</td></tr>
-<tr><td>173</td><td>Hittnau</td><td>3</td></tr>
-<tr><td>59</td><td>Hochfelden</td><td>3</td></tr>
-<tr><td>153</td><td>Hombrechtikon</td><td>2</td></tr>
-<tr><td>295</td><td>Horgen</td><td>2</td></tr>
-<tr><td>60</td><td>Höri</td><td>3</td></tr>
-<tr><td>32</td><td>Humlikon</td><td>3</td></tr>
-<tr><td>61</td><td>Hüntwangen</td><td>3</td></tr>
-<tr><td>87</td><td>Hüttikon</td><td>3</td></tr>
-<tr><td>296</td><td>Illnau-Effretikon</td><td>3</td></tr>
-<tr><td>6</td><td>Kappel am Albis</td><td>3</td></tr>
-<tr><td>135</td><td>Kilchberg (ZH)</td><td>2</td></tr>
-<tr><td>33</td><td>Kleinandelfingen</td><td>3</td></tr>
-<tr><td>62</td><td>Kloten</td><td>2</td></tr>
-<tr><td>7</td><td>Knonau</td><td>3</td></tr>
-<tr><td>154</td><td>Küsnacht (ZH)</td><td>2</td></tr>
-<tr><td>136</td><td>Langnau am Albis</td><td>3</td></tr>
-<tr><td>34</td><td>Laufen-Uhwiesen</td><td>3</td></tr>
-<tr><td>176</td><td>Lindau</td><td>3</td></tr>
-<tr><td>63</td><td>Lufingen</td><td>3</td></tr>
-<tr><td>155</td><td>Männedorf</td><td>2</td></tr>
-<tr><td>35</td><td>Marthalen</td><td>3</td></tr>
-<tr><td>8</td><td>Maschwanden</td><td>3</td></tr>
-<tr><td>195</td><td>Maur</td><td>2</td></tr>
-<tr><td>156</td><td>Meilen</td><td>2</td></tr>
-<tr><td>9</td><td>Mettmenstetten</td><td>3</td></tr>
-<tr><td>196</td><td>Mönchaltorf</td><td>2</td></tr>
-<tr><td>88</td><td>Neerach</td><td>3</td></tr>
-<tr><td>223</td><td>Neftenbach</td><td>3</td></tr>
-<tr><td>89</td><td>Niederglatt</td><td>3</td></tr>
-<tr><td>90</td><td>Niederhasli</td><td>3</td></tr>
-<tr><td>91</td><td>Niederweningen</td><td>3</td></tr>
-<tr><td>64</td><td>Nürensdorf</td><td>3</td></tr>
-<tr><td>65</td><td>Oberembrach</td><td>3</td></tr>
-<tr><td>245</td><td>Oberengstringen</td><td>3</td></tr>
-<tr><td>92</td><td>Oberglatt</td><td>3</td></tr>
-<tr><td>137</td><td>Oberrieden</td><td>3</td></tr>
-<tr><td>93</td><td>Oberweningen</td><td>3</td></tr>
-<tr><td>10</td><td>Obfelden</td><td>3</td></tr>
-<tr><td>157</td><td>Oetwil am See</td><td>2</td></tr>
-<tr><td>246</td><td>Oetwil an der Limmat</td><td>3</td></tr>
-<tr><td>66</td><td>Opfikon</td><td>2</td></tr>
-<tr><td>37</td><td>Ossingen</td><td>3</td></tr>
-<tr><td>94</td><td>Otelfingen</td><td>3</td></tr>
-<tr><td>11</td><td>Ottenbach</td><td>3</td></tr>
-<tr><td>177</td><td>Pfäffikon</td><td>3</td></tr>
-<tr><td>224</td><td>Pfungen</td><td>3</td></tr>
-<tr><td>67</td><td>Rafz</td><td>3</td></tr>
-<tr><td>95</td><td>Regensberg</td><td>3</td></tr>
-<tr><td>96</td><td>Regensdorf</td><td>2</td></tr>
-<tr><td>38</td><td>Rheinau</td><td>3</td></tr>
-<tr><td>138</td><td>Richterswil</td><td>2</td></tr>
-<tr><td>225</td><td>Rickenbach (ZH)</td><td>3</td></tr>
-<tr><td>12</td><td>Rifferswil</td><td>3</td></tr>
-<tr><td>68</td><td>Rorbas</td><td>3</td></tr>
-<tr><td>97</td><td>Rümlang</td><td>2</td></tr>
-<tr><td>139</td><td>Rüschlikon</td><td>3</td></tr>
-<tr><td>178</td><td>Russikon</td><td>3</td></tr>
-<tr><td>118</td><td>Rüti (ZH)</td><td>3</td></tr>
-<tr><td>226</td><td>Schlatt (ZH)</td><td>3</td></tr>
-<tr><td>98</td><td>Schleinikon</td><td>3</td></tr>
-<tr><td>247</td><td>Schlieren</td><td>2</td></tr>
-<tr><td>99</td><td>Schöfflisdorf</td><td>3</td></tr>
-<tr><td>197</td><td>Schwerzenbach</td><td>2</td></tr>
-<tr><td>119</td><td>Seegräben</td><td>3</td></tr>
-<tr><td>227</td><td>Seuzach</td><td>3</td></tr>
-<tr><td>100</td><td>Stadel</td><td>3</td></tr>
-<tr><td>158</td><td>Stäfa</td><td>2</td></tr>
-<tr><td>13</td><td>Stallikon</td><td>3</td></tr>
-<tr><td>292</td><td>Stammheim</td><td>3</td></tr>
-<tr><td>101</td><td>Steinmaur</td><td>3</td></tr>
-<tr><td>39</td><td>Thalheim an der Thur</td><td>3</td></tr>
-<tr><td>141</td><td>Thalwil</td><td>2</td></tr>
-<tr><td>40</td><td>Trüllikon</td><td>3</td></tr>
-<tr><td>41</td><td>Truttikon</td><td>3</td></tr>
-<tr><td>228</td><td>Turbenthal</td><td>3</td></tr>
-<tr><td>159</td><td>Uetikon am See</td><td>2</td></tr>
-<tr><td>248</td><td>Uitikon</td><td>3</td></tr>
-<tr><td>249</td><td>Unterengstringen</td><td>3</td></tr>
-<tr><td>250</td><td>Urdorf</td><td>2</td></tr>
-<tr><td>198</td><td>Uster</td><td>2</td></tr>
-<tr><td>43</td><td>Volken</td><td>3</td></tr>
-<tr><td>199</td><td>Volketswil</td><td>2</td></tr>
-<tr><td>293</td><td>Wädenswil</td><td>2</td></tr>
-<tr><td>120</td><td>Wald (ZH)</td><td>3</td></tr>
-<tr><td>69</td><td>Wallisellen</td><td>2</td></tr>
-<tr><td>200</td><td>Wangen- Brüttisellen</td><td>2</td></tr>
-<tr><td>70</td><td>Wasterkingen</td><td>3</td></tr>
-<tr><td>102</td><td>Weiach</td><td>3</td></tr>
-<tr><td>251</td><td>Weiningen (ZH)</td><td>3</td></tr>
-<tr><td>180</td><td>Weisslingen</td><td>3</td></tr>
-<tr><td>14</td><td>Wettswil am Albis</td><td>3</td></tr>
-<tr><td>121</td><td>Wetzikon (ZH)</td><td>3</td></tr>
-<tr><td>298</td><td>Wiesendangen</td><td>3</td></tr>
-<tr><td>71</td><td>Wil (ZH)</td><td>3</td></tr>
-<tr><td>181</td><td>Wila</td><td>3</td></tr>
-<tr><td>182</td><td>Wildberg</td><td>3</td></tr>
-<tr><td>72</td><td>Winkel</td><td>3</td></tr>
-<tr><td>230</td><td>Winterthur</td><td>2</td></tr>
-<tr><td>231</td><td>Zell (ZH)</td><td>3</td></tr>
-<tr><td>161</td><td>Zollikon</td><td>2</td></tr>
-<tr><td>160</td><td>Zumikon</td><td>2</td></tr>
-<tr><td>261</td><td>Zürich</td><td>1</td></tr>
+<tr><th colspan="2">Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><td>131</td><td colspan="2">Adliswil</td><td>2</td></tr>
+<tr><td>241</td><td colspan="2">Aesch (ZH)</td><td>3</td></tr>
+<tr><td>1</td><td colspan="2">Aeugst am Albis</td><td>3</td></tr>
+<tr><td>2</td><td colspan="2">Affoltern am Albis</td><td>3</td></tr>
+<tr><td>211</td><td colspan="2">Altikon</td><td>3</td></tr>
+<tr><td>291</td><td colspan="2">Andelfingen</td><td>3</td></tr>
+<tr><td>51</td><td colspan="2">Bachenbülach</td><td>3</td></tr>
+<tr><td>81</td><td colspan="2">Bachs</td><td>3</td></tr>
+<tr><td>111</td><td colspan="2">Bäretswil</td><td>3</td></tr>
+<tr><td>52</td><td colspan="2">Bassersdorf</td><td>3</td></tr>
+<tr><td>297</td><td colspan="2">Bauma</td><td>3</td></tr>
+<tr><td>22</td><td colspan="2">Benken (ZH)</td><td>3</td></tr>
+<tr><td>23</td><td colspan="2">Berg am Irchel</td><td>3</td></tr>
+<tr><td>242</td><td colspan="2">Birmensdorf (ZH)</td><td>3</td></tr>
+<tr><td>3</td><td colspan="2">Bonstetten</td><td>3</td></tr>
+<tr><td>82</td><td colspan="2">Boppelsen</td><td>3</td></tr>
+<tr><td>213</td><td colspan="2">Brütten</td><td>3</td></tr>
+<tr><td>112</td><td colspan="2">Bubikon</td><td>3</td></tr>
+<tr><td>24</td><td colspan="2">Buch am Irchel</td><td>3</td></tr>
+<tr><td>83</td><td colspan="2">Buchs (ZH)</td><td>3</td></tr>
+<tr><td>53</td><td colspan="2">Bülach</td><td>3</td></tr>
+<tr><td>25</td><td colspan="2">Dachsen</td><td>3</td></tr>
+<tr><td>214</td><td colspan="2">Dägerlen</td><td>3</td></tr>
+<tr><td>84</td><td colspan="2">Dällikon</td><td>3</td></tr>
+<tr><td>85</td><td colspan="2">Dänikon</td><td>3</td></tr>
+<tr><td>215</td><td colspan="2">Dättlikon</td><td>3</td></tr>
+<tr><td>86</td><td colspan="2">Dielsdorf</td><td>3</td></tr>
+<tr><td>243</td><td colspan="2">Dietikon</td><td>2</td></tr>
+<tr><td>54</td><td colspan="2">Dietlikon</td><td>2</td></tr>
+<tr><td>216</td><td colspan="2">Dinhard</td><td>3</td></tr>
+<tr><td>26</td><td colspan="2">Dorf</td><td>3</td></tr>
+<tr><td>191</td><td colspan="2">Dübendorf</td><td>2</td></tr>
+<tr><td>113</td><td colspan="2">Dürnten</td><td>3</td></tr>
+<tr><td>192</td><td colspan="2">Egg</td><td>2</td></tr>
+<tr><td>55</td><td colspan="2">Eglisau</td><td>3</td></tr>
+<tr><td>294</td><td colspan="2">Elgg</td><td>3</td></tr>
+<tr><td>218</td><td colspan="2">Ellikon an der Thur</td><td>3</td></tr>
+<tr><td>219</td><td colspan="2">Elsau</td><td>3</td></tr>
+<tr><td>56</td><td colspan="2">Embrach</td><td>3</td></tr>
+<tr><td>151</td><td colspan="2">Erlenbach (ZH)</td><td>2</td></tr>
+<tr><td>193</td><td colspan="2">Fällanden</td><td>2</td></tr>
+<tr><td>172</td><td colspan="2">Fehraltorf</td><td>3</td></tr>
+<tr><td>27</td><td colspan="2">Feuerthalen</td><td>3</td></tr>
+<tr><td>114</td><td colspan="2">Fischenthal</td><td>3</td></tr>
+<tr><td>28</td><td colspan="2">Flaach</td><td>3</td></tr>
+<tr><td>29</td><td colspan="2">Flurlingen</td><td>3</td></tr>
+<tr><td>57</td><td colspan="2">Freienstein-Teufen</td><td>3</td></tr>
+<tr><td>244</td><td colspan="2">Geroldswil</td><td>3</td></tr>
+<tr><td>58</td><td colspan="2">Glattfelden</td><td>3</td></tr>
+<tr><td>115</td><td colspan="2">Gossau (ZH)</td><td>3</td></tr>
+<tr><td>194</td><td colspan="2">Greifensee</td><td>2</td></tr>
+<tr><td>116</td><td colspan="2">Grüningen</td><td>3</td></tr>
+<tr><td>220</td><td colspan="2">Hagenbuch</td><td>3</td></tr>
+<tr><td>4</td><td colspan="2">Hausen am Albis</td><td>3</td></tr>
+<tr><td>5</td><td colspan="2">Hedingen</td><td>3</td></tr>
+<tr><td>31</td><td colspan="2">Henggart</td><td>3</td></tr>
+<tr><td>152</td><td colspan="2">Herrliberg</td><td>2</td></tr>
+<tr><td>221</td><td colspan="2">Hettlingen</td><td>3</td></tr>
+<tr><td>117</td><td colspan="2">Hinwil</td><td>3</td></tr>
+<tr><td>173</td><td colspan="2">Hittnau</td><td>3</td></tr>
+<tr><td>59</td><td colspan="2">Hochfelden</td><td>3</td></tr>
+<tr><td>153</td><td colspan="2">Hombrechtikon</td><td>2</td></tr>
+<tr><td>295</td><td colspan="2">Horgen</td><td>2</td></tr>
+<tr><td>60</td><td colspan="2">Höri</td><td>3</td></tr>
+<tr><td>61</td><td colspan="2">Hüntwangen</td><td>3</td></tr>
+<tr><td>87</td><td colspan="2">Hüttikon</td><td>3</td></tr>
+<tr><td>296</td><td colspan="2">Illnau-Effretikon</td><td>3</td></tr>
+<tr><td>6</td><td colspan="2">Kappel am Albis</td><td>3</td></tr>
+<tr><td>135</td><td colspan="2">Kilchberg (ZH)</td><td>2</td></tr>
+<tr><td>33</td><td colspan="2">Kleinandelfingen</td><td>3</td></tr>
+<tr><td>62</td><td colspan="2">Kloten</td><td>2</td></tr>
+<tr><td>7</td><td colspan="2">Knonau</td><td>3</td></tr>
+<tr><td>154</td><td colspan="2">Küsnacht (ZH)</td><td>2</td></tr>
+<tr><td>136</td><td colspan="2">Langnau am Albis</td><td>3</td></tr>
+<tr><td>34</td><td colspan="2">Laufen-Uhwiesen</td><td>3</td></tr>
+<tr><td>176</td><td colspan="2">Lindau</td><td>3</td></tr>
+<tr><td>63</td><td colspan="2">Lufingen</td><td>3</td></tr>
+<tr><td>155</td><td colspan="2">Männedorf</td><td>2</td></tr>
+<tr><td>35</td><td colspan="2">Marthalen</td><td>3</td></tr>
+<tr><td>8</td><td colspan="2">Maschwanden</td><td>3</td></tr>
+<tr><td>195</td><td colspan="2">Maur</td><td>2</td></tr>
+<tr><td>156</td><td colspan="2">Meilen</td><td>2</td></tr>
+<tr><td>9</td><td colspan="2">Mettmenstetten</td><td>3</td></tr>
+<tr><td>196</td><td colspan="2">Mönchaltorf</td><td>2</td></tr>
+<tr><td>88</td><td colspan="2">Neerach</td><td>3</td></tr>
+<tr><td>223</td><td colspan="2">Neftenbach</td><td>3</td></tr>
+<tr><td>89</td><td colspan="2">Niederglatt</td><td>3</td></tr>
+<tr><td>90</td><td colspan="2">Niederhasli</td><td>3</td></tr>
+<tr><td>91</td><td colspan="2">Niederweningen</td><td>3</td></tr>
+<tr><td>64</td><td colspan="2">Nürensdorf</td><td>3</td></tr>
+<tr><td>65</td><td colspan="2">Oberembrach</td><td>3</td></tr>
+<tr><td>245</td><td colspan="2">Oberengstringen</td><td>3</td></tr>
+<tr><td>92</td><td colspan="2">Oberglatt</td><td>3</td></tr>
+<tr><td>137</td><td colspan="2">Oberrieden</td><td>3</td></tr>
+<tr><td>93</td><td colspan="2">Oberweningen</td><td>3</td></tr>
+<tr><td>10</td><td colspan="2">Obfelden</td><td>3</td></tr>
+<tr><td>157</td><td colspan="2">Oetwil am See</td><td>2</td></tr>
+<tr><td>246</td><td colspan="2">Oetwil an der Limmat</td><td>3</td></tr>
+<tr><td>66</td><td colspan="2">Opfikon</td><td>2</td></tr>
+<tr><td>37</td><td colspan="2">Ossingen</td><td>3</td></tr>
+<tr><td>94</td><td colspan="2">Otelfingen</td><td>3</td></tr>
+<tr><td>11</td><td colspan="2">Ottenbach</td><td>3</td></tr>
+<tr><td>177</td><td colspan="2">Pfäffikon</td><td>3</td></tr>
+<tr><td>224</td><td colspan="2">Pfungen</td><td>3</td></tr>
+<tr><td>67</td><td colspan="2">Rafz</td><td>3</td></tr>
+<tr><td>95</td><td colspan="2">Regensberg</td><td>3</td></tr>
+<tr><td>96</td><td colspan="2">Regensdorf</td><td>2</td></tr>
+<tr><td>38</td><td colspan="2">Rheinau</td><td>3</td></tr>
+<tr><td>138</td><td colspan="2">Richterswil</td><td>2</td></tr>
+<tr><td>225</td><td colspan="2">Rickenbach (ZH)</td><td>3</td></tr>
+<tr><td>12</td><td colspan="2">Rifferswil</td><td>3</td></tr>
+<tr><td>68</td><td colspan="2">Rorbas</td><td>3</td></tr>
+<tr><td>97</td><td colspan="2">Rümlang</td><td>2</td></tr>
+<tr><td>139</td><td colspan="2">Rüschlikon</td><td>3</td></tr>
+<tr><td>178</td><td colspan="2">Russikon</td><td>3</td></tr>
+<tr><td>118</td><td colspan="2">Rüti (ZH)</td><td>3</td></tr>
+<tr><td>226</td><td colspan="2">Schlatt (ZH)</td><td>3</td></tr>
+<tr><td>98</td><td colspan="2">Schleinikon</td><td>3</td></tr>
+<tr><td>247</td><td colspan="2">Schlieren</td><td>2</td></tr>
+<tr><td>99</td><td colspan="2">Schöfflisdorf</td><td>3</td></tr>
+<tr><td>197</td><td colspan="2">Schwerzenbach</td><td>2</td></tr>
+<tr><td>119</td><td colspan="2">Seegräben</td><td>3</td></tr>
+<tr><td>227</td><td colspan="2">Seuzach</td><td>3</td></tr>
+<tr><td>100</td><td colspan="2">Stadel</td><td>3</td></tr>
+<tr><td>158</td><td colspan="2">Stäfa</td><td>2</td></tr>
+<tr><td>13</td><td colspan="2">Stallikon</td><td>3</td></tr>
+<tr><td>292</td><td colspan="2">Stammheim</td><td>3</td></tr>
+<tr><td>101</td><td colspan="2">Steinmaur</td><td>3</td></tr>
+<tr><td>39</td><td colspan="2">Thalheim an der Thur</td><td>3</td></tr>
+<tr><td>141</td><td colspan="2">Thalwil</td><td>2</td></tr>
+<tr><td>40</td><td colspan="2">Trüllikon</td><td>3</td></tr>
+<tr><td>41</td><td colspan="2">Truttikon</td><td>3</td></tr>
+<tr><td>228</td><td colspan="2">Turbenthal</td><td>3</td></tr>
+<tr><td>159</td><td colspan="2">Uetikon am See</td><td>2</td></tr>
+<tr><td>248</td><td colspan="2">Uitikon</td><td>3</td></tr>
+<tr><td>249</td><td colspan="2">Unterengstringen</td><td>3</td></tr>
+<tr><td>250</td><td colspan="2">Urdorf</td><td>2</td></tr>
+<tr><td>198</td><td colspan="2">Uster</td><td>2</td></tr>
+<tr><td>43</td><td colspan="2">Volken</td><td>3</td></tr>
+<tr><td>199</td><td colspan="2">Volketswil</td><td>2</td></tr>
+<tr><td>293</td><td colspan="2">Wädenswil</td><td>2</td></tr>
+<tr><td>120</td><td colspan="2">Wald (ZH)</td><td>3</td></tr>
+<tr><td>69</td><td colspan="2">Wallisellen</td><td>2</td></tr>
+<tr><td>200</td><td colspan="2">Wangen- Brüttisellen</td><td>2</td></tr>
+<tr><td>70</td><td colspan="2">Wasterkingen</td><td>3</td></tr>
+<tr><td>102</td><td colspan="2">Weiach</td><td>3</td></tr>
+<tr><td>251</td><td colspan="2">Weiningen (ZH)</td><td>3</td></tr>
+<tr><td>180</td><td colspan="2">Weisslingen</td><td>3</td></tr>
+<tr><td>14</td><td colspan="2">Wettswil am Albis</td><td>3</td></tr>
+<tr><td>121</td><td colspan="2">Wetzikon (ZH)</td><td>3</td></tr>
+<tr><td>298</td><td colspan="2">Wiesendangen</td><td>3</td></tr>
+<tr><td>71</td><td colspan="2">Wil (ZH)</td><td>3</td></tr>
+<tr><td>181</td><td colspan="2">Wila</td><td>3</td></tr>
+<tr><td>182</td><td colspan="2">Wildberg</td><td>3</td></tr>
+<tr><td>72</td><td colspan="2">Winkel</td><td>3</td></tr>
+<tr><td>230</td><td colspan="2">Winterthur</td><td>2</td></tr>
+<tr><td>231</td><td colspan="2">Zell (ZH)</td><td>3</td></tr>
+<tr><td>161</td><td colspan="2">Zollikon</td><td>2</td></tr>
+<tr><td>160</td><td colspan="2">Zumikon</td><td>2</td></tr>
+<tr><td>261</td><td colspan="2">Zürich</td><td>1</td></tr>
 </table>
 
 <table>
-<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UFS)</td></tr>
+<tr><td><sup>1</sup> Numero attribuito al Comune nell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica (UST)</td></tr>
 </table>
 
 Allegato 2
