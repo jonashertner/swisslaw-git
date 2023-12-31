@@ -5,12 +5,12 @@ title: "Loi sur l'organisation de la Justice"
 short: LOJ
 language: fr
 version: 2024-01-01
-corrected: 2023-10-17
+corrected: 2023-12-19
 version_adopted: 2023-09-07
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3134/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3239/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -269,7 +269,7 @@ ordonne:
 
 <sup>4</sup> Un greffier peut suppléer un juge de district, un juge des mineurs, un juge des mesures de contrainte et un juge de l'application des peines et mesures. Il ne peut toutefois siéger au tribunal d'arrondissement avec le juge dont il est le greffier.
 
-<sup>5</sup> Les obligations des greffiers sont définies par la présente loi et ses dispositions d'exécution, dans les lois de procédure ainsi que dans les autres dispositions du droit judiciaire. Toutefois, et sous réserve du droit fédéral, la tenue du procès-verbal des séances d'instruction doit, en règle générale, être assumée par le personnel administratif sous la responsabilité du président du tribunal. Exceptionnellement, il peut être fait usage de moyens techniques d'enregistrement et de reproduction, selon règlement à édicter par le Tribunal cantonal.
+<sup>5</sup> Les obligations des greffiers sont définies par la présente loi et ses dispositions d'exécution, dans les lois de procédure ainsi que dans les autres dispositions du droit judiciaire. Toutefois, et sous réserve du droit fédéral, la tenue du procès-verbal des séances d'instruction doit, en règle générale, être assumée par le personnel administratif sous la responsabilité du président du tribunal. Il peut être fait usage de moyens techniques d'enregistrement et de reproduction, selon règlement à édicter par le Tribunal cantonal.
 
 #### Art. 18
 
@@ -535,7 +535,7 @@ ordonne:
 
 <sup>3</sup> Demeurent réservés:
 
-- a) l'article 59 du code de procédure pénale suisse lorsque la récusation est dirigée contre une autorité pénale;
+- a) …
 - b) l'article 21 alinéas 2 et 3 de la présente loi lorsque la récusation est dirigée contre tous les membres du Tribunal cantonal;
 - c) l'article 22 de la présente loi lorsque le recours est dirigé contre la décision de récusation concernant un juge cantonal, le président ou le vice-président du Tribunal cantonal.
 

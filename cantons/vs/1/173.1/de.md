@@ -5,12 +5,12 @@ title: Gesetz über die Rechtspflege
 short: RPflG
 language: de
 version: 2024-01-01
-corrected: 2023-10-17
+corrected: 2023-12-19
 version_adopted: 2023-09-07
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/de/versions/3134/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3239/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -269,7 +269,7 @@ verordnet:
 
 <sup>4</sup> Ein Gerichtsschreiber kann einen Bezirksrichter, einen Jugendrichter, einen Zwangsmassnahmenrichter und einen Straf- und Massnahmenvollzugsrichter vertreten. Er kann jedoch nicht mit dem Richter, dessen Schreiber er ist, im Kreisgericht Einsitz nehmen.
 
-<sup>5</sup> Die Pflichten der Gerichtsschreiber werden im vorliegenden Gesetz und in seinen Ausführungsbestimmungen, in den Prozessordnungen sowie in den anderen Bestimmungen über die Rechtspflege umschrieben. Unter Vorbehalt des Bundesrechts ist die Führung des Protokolls von Instruktionssitzungen in der Regel durch das administrative Personal unter der Verantwortung des Gerichtspräsidenten wahrzunehmen. Ausnahmsweise können Aufnahme- und Wiedergabegeräte gemäss einem vom Kantonsgericht zu erlassenden Reglement verwendet werden.
+<sup>5</sup> Die Pflichten der Gerichtsschreiber werden im vorliegenden Gesetz und in seinen Ausführungsbestimmungen, in den Prozessordnungen sowie in den anderen Bestimmungen über die Rechtspflege umschrieben. Unter Vorbehalt des Bundesrechts ist die Führung des Protokolls von Instruktionssitzungen in der Regel durch das administrative Personal unter der Verantwortung des Gerichtspräsidenten wahrzunehmen. Es können Aufnahme- und Wiedergabegeräte gemäss einem vom Kantonsgericht zu erlassenden Reglement verwendet werden.
 
 #### Art. 18
 
@@ -535,7 +535,7 @@ verordnet:
 
 <sup>3</sup> Vorbehalten bleiben:
 
-- a) Artikel 59 der Schweizerischen Strafprozessordnung, wenn der Ausstand gegen eine Strafbehörde gerichtet ist;
+- a) …
 - b) Artikel 21 Absätze 2 und 3 des vorliegenden Gesetzes, wenn der Ausstand von sämtlichen Mitgliedern des Kantonsgerichts verlangt wird;
 - c) Artikel 22 des vorliegenden Gesetzes, wenn Beschwerde gegen den Ausstandsentscheid betreffend einen Kantonsrichter, den Präsidenten oder den Vizepräsidenten des Kantonsgerichts geführt wird.
 
