@@ -4,13 +4,12 @@ number: "152.053.6"
 title: Reglement über die Berechtigungen der Gerichtsbehörden und der Staatsanwaltschaft für die zentralen Personendatensammlungen
 short: PDS R JUS
 language: de
-version: 2023-01-23
-valid_until: 2023-12-31
-version_adopted: 2022-11-10
+version: 2024-01-01
+version_adopted: 2023-11-09
 adopted: 2022-02-24
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.053.6"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2773/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2910/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2773/pdf_file"
 
 (PDS R JUS)
 
-vom 24.02.2022 (Stand 23.01.2023)
+vom 24.02.2022 (Stand 01.01.2024)
 
 Die Justizleitung des Kantons Bern,
 
