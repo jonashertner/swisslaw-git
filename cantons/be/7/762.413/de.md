@@ -4,13 +4,13 @@ number: "762.413"
 title: Verordnung über die regionalen Verkehrskonferenzen
 short: RVKV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-08
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/762.413"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2763/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2899/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2763/pdf_file"
 
 (RVKV)
 
-vom 24.10.2007 (Stand 01.01.2023)
+vom 24.10.2007 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -138,7 +138,7 @@ Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Belprahon, Biel/Bienne, Brügg, 
 
 <sup>1</sup> Gemeinden der RVK 2 / Regionalkonferenz Oberaargau:
 
-Aarwangen, Attiswil, Auswil, Bannwil, Berken, Bettenhausen, Bleienbach, Busswil bei Melchnau, Dürrenroth (bis spätestens 31.12.2009), Eriswil, Farnern, Gondiswil, Graben, Heimenhausen, Herzogenbuchsee, Huttwil, Inkwill, Langenthal, Lotzwil, Madiswil, Melchnau, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Oeschenbach, Reisiswil, Roggwil (BE), Rohrbach, Rohrbachgraben, Rumisberg, Rütschelen, Schwarzhäusern, Seeberg, Thörigen, Thunstetten, Ursenbach, Walliswil bei Niederbipp, Walliswil bei Wangen, Walterswil (BE), Wangen an der Aare, Wangenried, Wiedlisbach, Wynau, Wyssachen.
+Aarwangen, Attiswil, Auswil, Bannwil, Berken, Bettenhausen, Bleienbach, Busswil bei Melchnau, Dürrenroth (bis spätestens 31.12.2009), Eriswil, Farnern, Gondiswil, Graben, Heimenhausen, Herzogenbuchsee, Huttwil, Inkwill, Langenthal, Lotzwil, Madiswil, Melchnau, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Oeschenbach, Reisiswil, Roggwil (BE), Rohrbach, Rohrbachgraben, Rumisberg, Rütschelen, Schwarzhäusern, Seeberg, Thörigen, Thunstetten, Ursenbach, Walliswil bei Niederbipp, Walliswil bei Wangen, Walterswil (BE), Wangen an der Aare, Wiedlisbach, Wynau, Wyssachen.
 
 #### Art. A1-3
 
@@ -187,7 +187,7 @@ Allmendingen, Arni (BE) (spätestens ab 1.1.2010)[^A14-1], Bangerten (bis späte
 
 <sup>1</sup> Gemeinden der RVK 5 / Regionalkonferenz Thun- Oberland West:
 
-Adelboden, Aeschi bei Spiez, Amsoldingen, Blumenstein, Boltigen, Buchholterberg, Burgistein, Därstetten, Diemtigen, Eriz, Erlenbach im Simmental, Fahrni, Forst-Längenbühl, Frutigen, Gsteig, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Kandergrund, Kandersteg, Krattigen, Lauenen, Lenk, Oberhofen am Thunersee, Oberlangenegg, Oberwil im Simmental, Pohlern, Reichenbach im Kandertal, Reutigen, Saanen, Seftigen, Sigriswil, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil, Wimmis, Zweisimmen, Zwieselberg.
+Adelboden, Aeschi bei Spiez, Amsoldingen, Blumenstein, Boltigen, Buchholterberg, Burgistein, Därstetten, Diemtigen, Eriz, Erlenbach im Simmental, Fahrni, Forst-Längenbühl, Frutigen, Gsteig, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Kandergrund, Kandersteg, Krattigen, Lauenen, Lenk, Oberhofen am Thunersee, Oberlangenegg, Oberwil im Simmental, Pohlern, Reichenbach im Kandertal, Reutigen, Saanen, Seftigen, Sigriswil, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil, Wimmis, Zweisimmen.
 
 #### Art. A1-6
 

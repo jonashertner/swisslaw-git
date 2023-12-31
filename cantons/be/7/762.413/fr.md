@@ -4,13 +4,13 @@ number: "762.413"
 title: Ordonnance sur les conférences régionales des transports
 short: OCRT
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-08
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/762.413"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2763/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2899/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2763/pdf_file"
 
 (OCRT)
 
-du 24.10.2007 (état au 01.01.2023)
+du 24.10.2007 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -138,7 +138,7 @@ Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Belprahon, Biel/Bienne, Brügg, 
 
 <sup>1</sup> Communes de la CRT 2 / Conférence régionale de la Haute-Argovie:
 
-Aarwangen, Attiswil, Auswil, Bannwil, Berken, Bettenhausen, Bleienbach, Busswil bei Melchnau, Dürrenroth (au plus tard jusqu'au 31.12.2009), Eriswil, Farnern, Gondiswil, Graben, Heimenhausen, Herzogenbuchsee, Huttwil, Inkwill, Langenthal, Lotzwil, Madiswil, Melchnau, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Oeschenbach, Reisiswil, Roggwil (BE), Rohrbach, Rohrbachgraben, Rumisberg, Rütschelen, Schwarzhäusern, Seeberg, Thörigen, Thunstetten, Ursenbach, Walliswil bei Niederbipp, Walliswil bei Wangen, Walterswil (BE), Wangen an der Aare, Wangenried, Wiedlisbach, Wynau, Wyssachen.
+Aarwangen, Attiswil, Auswil, Bannwil, Berken, Bettenhausen, Bleienbach, Busswil bei Melchnau, Dürrenroth (au plus tard jusqu'au 31.12.2009), Eriswil, Farnern, Gondiswil, Graben, Heimenhausen, Herzogenbuchsee, Huttwil, Inkwill, Langenthal, Lotzwil, Madiswil, Melchnau, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Oeschenbach, Reisiswil, Roggwil (BE), Rohrbach, Rohrbachgraben, Rumisberg, Rütschelen, Schwarzhäusern, Seeberg, Thörigen, Thunstetten, Ursenbach, Walliswil bei Niederbipp, Walliswil bei Wangen, Walterswil (BE), Wangen an der Aare, Wiedlisbach, Wynau, Wyssachen.
 
 #### Art. A1-3
 
@@ -186,7 +186,7 @@ Allmendingen, Arni (BE) (au plus tard dès le 1.1.2010)[^A14-1], Bangerten (au p
 
 <sup>1</sup> Communes de la CRT 5 / Conférence régionale de Thoune-Oberland occidental:
 
-Adelboden, Aeschi bei Spiez, Amsoldingen, Blumenstein, Boltigen, Buchholterberg, Burgistein, Därstetten, Diemtigen, Eriz, Erlenbach im Simmental, Fahrni, Forst-Längenbühl, Frutigen, Gsteig, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Kandergrund, Kandersteg, Krattigen, Lauenen, Lenk, Oberhofen am Thunersee, Oberlangenegg, Oberwil im Simmental, Pohlern, Reichenbach im Kandertal, Reutigen, Saanen, Seftigen, Sigriswil, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thoune, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil, Wimmis, Zweisimmen, Zwieselberg.
+Adelboden, Aeschi bei Spiez, Amsoldingen, Blumenstein, Boltigen, Buchholterberg, Burgistein, Därstetten, Diemtigen, Eriz, Erlenbach im Simmental, Fahrni, Forst-Längenbühl, Frutigen, Gsteig, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Kandergrund, Kandersteg, Krattigen, Lauenen, Lenk, Oberhofen am Thunersee, Oberlangenegg, Oberwil im Simmental, Pohlern, Reichenbach im Kandertal, Reutigen, Saanen, Seftigen, Sigriswil, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thoune, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil, Wimmis, Zweisimmen.
 
 #### Art. A1-6
 
