@@ -3,26 +3,20 @@ sr: "510.518.1"
 title: Ordonnance du 2 mai 1990 concernant la protection des ouvrages militaires (Ordonnance sur la protection des ouvrages)
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/854_854_854"
 language: fr
-version: 2005-07-01
+version: 2024-01-01
 adopted: 1990-05-02
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20050701/fr/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20050701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20050701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la protection des ouvrages militaires
 
-[^t-1]¶ (Etat le 21 juin 2005)
-
-510.518.1
-
 (Ordonnance sur la protection des ouvrages)
 
-du 2 mai 1990 (Etat le 21 juin 2005)
-
-[^t-1]: [RO 1990 854](https://fedlex.data.admin.ch/eli/oc/1990/854_854_854)
+du 2 mai 1990 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -62,7 +56,7 @@ Sont considérés comme ouvrages militaires au sens de la loi:
 
 <sup>3</sup> Les ouvrages en cours de planification ou en construction sont assimilés aux ouvrages existants.
 
-[^2-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Il a été tenu compte de cette modification dans tout le présent texte.
+[^2-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Il a été tenu compte de cette mod.dans tout le texte.
 
 #### Art. 3
 
@@ -122,8 +116,8 @@ Il y a lieu de distinguer les zones protégées ci-après ainsi que les mesures 
 <sup>6</sup> Les autorisations d’accès aux ouvrages que le Conseil fédéral a soumis à la loi, selon l’art. 2, al. 2, sont délivrées par la chancelière ou le chancelier [^4-3] de la Confédération.
 
 [^4-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
-[^4-3]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil.2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^4-3]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
 #### Art. 5
 
@@ -152,10 +146,10 @@ La surveillance ou la garde des ouvrages peuvent être assurées par les organes
 
 <sup>4</sup> Les organes de la garde doivent, sur demande, justifier de leur qualité.
 
-<sup>5</sup> Les personnes suspectes doivent être appréhendées et remises sans retard à la police civile. Il y a lieu d’en informer immédiatement le Service de la protection des informations et des objets, Etat-major du chef de l’Armée,[^6-2] 3003 Berne, ainsi que le supérieur.
+<sup>5</sup> Les personnes suspectes doivent être appréhendées et remises sans retard à la police civile. Il y a lieu d’en informer immédiatement le Service de la protection des informations et des objets, État-major du chef de l’Armée,[^6-2] 3003 Berne, ainsi que le supérieur.
 
-[^6-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Il a été tenu compte de cette modification dans tout le présent texte.
-[^6-2]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^6-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-2]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
 #### Art. 7
 
@@ -172,13 +166,15 @@ Le recours aux armes se fonde sur l’ordonnance du 26 octobre 1994 concernant l
 
 **Mensurations officielles des ouvrages**
 
-<sup>1</sup> Les mensurations cadastrales officielles (nouvelles mensurations et conservations) se rapportent aux limites des terrains de la Confédération, ainsi qu’aux ouvrages militaires normalement visibles qui s’y trouvent. Il y a lieu de mentionner la Confédération suisse en sa qualité de propriétaire foncier et de détenteur du droit de superficie. Les ouvrages ou les parties d’ouvrages qui ne sont pas visibles ne doivent pas figurer dans les documents de mensuration. Cette interdiction s’applique également à l’enregistrement électronique des données.
+<sup>1</sup> La mensuration officielle saisit les ouvrages ou les parties d’ouvrages militaires normalement visibles. Il y a lieu de mentionner la Confédération suisse en sa qualité de propriétaire foncier ou de détenteur du droit de superficie. Les ouvrages ou les parties d’ouvrages qui ne sont pas visibles ne doivent ni être saisis ni être représentés dans les éléments de la mensuration officielle.[^8-1]
 
 <sup>2</sup> Aucune indication sur l’affectation des ouvrages militaires ne doit être enregistrée ni transmise à des tiers.
 
 <sup>3</sup> Des indications destinées à des plans spéciaux tels que le cadastre des conduites, et concernant des fonds sur lesquels se trouvent des ouvrages militaires ne sont autorisées que sur ordre écrit de l’office fédéral chargé de la gestion.
 
 <sup>4</sup> Le DDPS émet des directives concernant les mensurations, ainsi que les levés et l’établissement de cartes par l’Office fédéral de topographie.
+
+[^8-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 9
 
@@ -200,9 +196,9 @@ Les cantons et les communes annoncent à armasuisse du DDPS[^9-3] toutes les tra
 - c. les chemins de fer;
 - d. les aéroports.
 
-[^9-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^9-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 [^9-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^9-3]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^9-3]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
 ## Section 4 Mesures à prendre en matière de circulation
 
@@ -214,7 +210,7 @@ Les offices fédéraux du DDPS chargés de la gestion des ouvrages militaires or
 
 #### Art. 11
 
-**Etat des ouvrages militaires**
+**État des ouvrages militaires**
 
 Le chef de l’Armée désigne les différents ouvrages militaires selon l’art. 2 et tient un état de ceux-ci.
 
@@ -224,13 +220,13 @@ Le chef de l’Armée désigne les différents ouvrages militaires selon l’art
 
 Le chef de l’Armée émet des directives pour la protection des ouvrages militaires et en surveille l’exécution. Il désigne un service compétent[^12-1] pour les questions de sécurité.
 
-[^12-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Il a été tenu compte de cette modification dans tout le présent texte.
+[^12-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 13
 
 **Exécution**
 
-<sup>1</sup> A moins que d’autres offices ne soient expressément désignés, le DDPS est chargé de l’exécution de la présente ordonnance.
+<sup>1</sup> À moins que d’autres offices ne soient expressément désignés, le DDPS est chargé de l’exécution de la présente ordonnance.
 
 <sup>2</sup> Le chef de l’Armée ou le service compétent pour les questions de sécurité qu’il a désigné émet les prescriptions techniques de sécurité.
 
@@ -242,4 +238,4 @@ Le chef de l’Armée émet des directives pour la protection des ouvrages milit
 
 <sup>2</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1991.
 
-[^14-1]: [[RO 1950 1523](https://fedlex.data.admin.ch/eli/oc/1950/1477_1523_1488), [1962 930](https://fedlex.data.admin.ch/eli/oc/1962/889_930_931)]
+[^14-1]: [[RO 1950 1523](https://fedlex.data.admin.ch/eli/oc/1950/1477_1523_1488); [1962 930](https://fedlex.data.admin.ch/eli/oc/1962/889_930_931)]

@@ -3,11 +3,11 @@ sr: "510.518.1"
 title: Verordnung vom 2. Mai 1990 über den Schutz militärischer Anlagen (Anlageschutzverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/854_854_854"
 language: de
-version: 2005-07-01
+version: 2024-01-01
 adopted: 1990-05-02
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20050701/de/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20050701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20050701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20050701/de"
 
 (Anlageschutzverordnung)
 
-vom 2. Mai 1990 (Stand am 1. Juli 2005)
+vom 2. Mai 1990 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -166,13 +166,15 @@ Der Waffengebrauch richtet sich nach der Verordnung vom 26. Oktober 1994[^7-2] �
 
 **Amtliche Vermessung von Anlagen**
 
-<sup>1</sup> Die amtlichen Grundbuchvermessungen (Neuvermessungen und Nachführungen) erfassen die Eigentumsgrenzen der Grundstücke des Bundes, sowie die sich darauf befindenden allgemein wahrnehmbaren militärischen Anlagen. Als Grundeigentümerin/Baurechtsnehmerin ist die Schweizerische Eidgenossenschaft aufzuführen. Nicht wahrnehmbare Anlagen oder Teile davon dürfen in den Vermessungsakten nicht dargestellt werden. Dieses Verbot gilt auch für die Bearbeitung mittels elektronischer Datenverarbeitung.
+<sup>1</sup> Die amtliche Vermessung erfasst die allgemein wahrnehmbaren militärischen Anlagen oder Anlagenteile. Als Grundeigentümerin oder Baurechtsnehmerin ist die Schweizerische Eidgenossenschaft aufzuführen. Nicht wahrnehmbare Anlagen oder Anlagenteile dürfen in den Bestandteilen der amtlichen Vermessung weder erfasst noch dargestellt werden.[^8-1]
 
 <sup>2</sup> Angaben über den Zweck militärischer Anlagen dürfen weder erfasst noch weitergegeben werden.
 
 <sup>3</sup> Angaben über Grundstücke mit militärischen Anlagen für besondere Pläne wie Leitungskataster dürfen nur auf schriftliche Anordnung des verwaltenden Bundesamtes gemacht werden.
 
 <sup>4</sup> Das VBS erlässt Vorschriften über Vermessen, sowie das Aufnehmen und Erstellen von Karten durch das Bundesamt für Landestopographie.
+
+[^8-1]: Fassung gemäss Anhang Ziff. 5 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 9
 

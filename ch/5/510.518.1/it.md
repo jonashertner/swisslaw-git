@@ -3,18 +3,18 @@ sr: "510.518.1"
 title: Ordinanza del 2 maggio 1990 concernente la protezione delle opere militari
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/854_854_854"
 language: it
-version: 2005-07-01
+version: 2024-01-01
 adopted: 1990-05-02
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20050701/it/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20050701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20050701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la protezione delle opere militari
 
-del 2 maggio 1990 (Stato 1° luglio 2005)
+del 2 maggio 1990 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -163,13 +163,15 @@ L’uso delle armi si fonda sull’ordinanza del 26 ottobre 1994[^7-2] concernen
 
 **Misurazione ufficiale delle opere**
 
-<sup>1</sup> Le misurazioni catastali ufficiali (nuove misurazioni e aggiornamenti) comprendono, oltre ai rilievi dei termini dei fondi della Confederazione, anche quelli delle opere militari generalmente visibili che vi si trovano. La Confederazione Svizzera va indicata come proprietaria fondiaria o titolare del diritto di superficie. Le opere o le parti d’opera non visibili non possono figurare nei documenti di misurazione. Tale divieto è parimenti applicabile all’elaborazione elettronica dei dati.
+<sup>1</sup> La misurazione ufficiale comprende le opere militari o le parti d’opera generalmente visibili. La Confederazione Svizzera va indicata come proprietaria fondiaria o titolare del diritto di superficie. Le opere o le parti d’opera non visibili non possono né essere registrate né figurare nelle componenti della misurazione ufficiale.[^8-1]
 
 <sup>2</sup> Informazioni sullo scopo militare delle opere non possono essere né registrate né trasmesse a terzi.
 
 <sup>3</sup> Indicazioni su fondi con opere militari destinate a piani speciali, come il catasto delle condotte, sono autorizzate soltanto su ordine scritto dell’ufficio federale incaricato dell’amministrazione.
 
 <sup>4</sup> Il DDPS emana le prescrizioni concernenti le misurazioni, il rilievo e l’allestimento di carte da parte dell’Ufficio federale di topografia.
+
+[^8-1]: Nuovo testo giusta il n. 5 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 9
 
