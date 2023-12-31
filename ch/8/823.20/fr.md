@@ -4,11 +4,11 @@ title: "Loi fédérale du 8 octobre 1999 sur les mesures d'accompagnement applic
 short: LDét
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/231"
 language: fr
-version: 2020-04-01
+version: 2024-01-01
 adopted: 1999-10-08
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/231/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-231-20200401-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/231/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-231-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20200401/fr"
 
 (Loi sur les travailleurs détachés, LDét)[^t-1]
 
-du 8 octobre 1999 (État le 1<sup>er</sup> avril 2020)
+du 8 octobre 1999 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I 2 de la LF du 15 juin 2012 portant mod. des mesures d’accompagnement à la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6703](https://fedlex.data.admin.ch/eli/oc/2012/811); [FF 2012 3161](https://fedlex.data.admin.ch/eli/fga/2012/446)).
 
@@ -251,14 +251,29 @@ Le contrôle du respect des conditions fixées dans la présente loi incombe:
 
 <sup>1</sup> Les organes de contrôle visés à l’art. 7 coordonnent leurs activités et collaborent entre eux, en tant que cela est nécessaire à l’accomplissement de leurs tâches.
 
-<sup>2</sup> Ils se transmettent les documents et renseignements nécessaires.
+<sup>2</sup> Ils se transmettent les documents et renseignements nécessaires. Ils peuvent utiliser à cet effet la plateforme de communication électronique prévue à l’art. 8*a*.[^8-1]
 
 <sup>3</sup> Les autorités compétentes peuvent coopérer avec les autorités d’autres États afin d’échanger des informations sur l’occupation transfrontalière de travailleurs si elles permettent d’éviter des infractions à la présente loi.
 
-<sup>4</sup> Les caisses de chômage informent les commissions tripartites cantonales instituées en vertu de l’art. 360*b* CO[^8-1] et les organes paritaires chargés de l’application d’une convention collective de travail étendue lorsque, dans le cadre de leurs activités, elles relèvent des indices qui laissent présumer que les salaires et les conditions de travail ne sont pas conformes aux usages professionnels et locaux. [^8-2]
+<sup>4</sup> Les caisses de chômage informent les commissions tripartites cantonales instituées en vertu de l’art. 360*b* CO[^8-2] et les organes paritaires chargés de l’application d’une convention collective de travail étendue lorsque, dans le cadre de leurs activités, elles relèvent des indices qui laissent présumer que les salaires et les conditions de travail ne sont pas conformes aux usages professionnels et locaux.[^8-3]
 
-[^8-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-2]: Introduit par le ch. II 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^8-1]: Phrase introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [FF 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
+[^8-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8-3]: Introduit par le ch. II 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+
+#### Art. 8a
+
+**Plateforme de communication électronique**[^8a-1]
+
+<sup>1</sup> Le Secrétariat d’État à l’économie (SECO) met une plateforme de communication électronique à la disposition des organes de contrôle visés à l’art. 7, al. 1, pour la communication des informations visées à l’art. 8, al. 2.
+
+<sup>2</sup> Il peut conserver les données de personnes physiques ou morales communiquées au moyen de cette plateforme, y compris les données relatives à des poursuites ou à des sanctions pénales ou administratives. Il peut en outre réaliser les travaux nécessaires à la maintenance de la plateforme.
+
+<sup>3</sup> La plateforme comporte une interface permettant de la relier à des applications spécialisées. Les informations sont communiquées de manière chiffrée.
+
+<sup>4</sup> Le Conseil fédéral édicte les dispositions d’exécution concernant la sécurité des données; il définit notamment les exigences techniques applicables à la plateforme et à l’interface. Il réglemente également l’accès des organes de contrôle visés à l’art. 7, al. 1, et la durée de conservation des données sur la plateforme.
+
+[^8a-1]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [FF 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
 
 #### Art. 9
 
@@ -290,12 +305,13 @@ L’autorité cantonale visée à l’art. 7, al. 1, let. d, peut prendre les me
 - f. en cas d’infraction aux dispositions relatives au salaire minimal d’un contrat-type de travail au sens de l’art. 360*a* CO[^9-2] par l’employeur qui engage des travailleurs en Suisse, prononcer une sanction administrative prévoyant le paiement d’un montant de 30 000 francs au plus;
 - g. mettre tout ou partie des frais du contrôle à la charge de l’entreprise fautive.[^9-3]
 
-<sup>3</sup> L’autorité qui prononce une sanction communique une copie de sa décision au Secrétariat d’État à l’économie (SECO) ainsi qu’à l’organe paritaire qui est compétent en vertu de l’art. 7, al. 1, let. a. Le SECO établit une liste des entreprises ayant fait l’objet d’une sanction entrée en force. Cette liste est publique.[^9-4]
+<sup>3</sup> L’autorité qui prononce une sanction communique une copie de sa décision au SECO ainsi qu’à l’organe paritaire qui est compétent en vertu de l’art. 7, al. 1, let. a.[^9-4] Le SECO établit une liste des entreprises ayant fait l’objet d’une sanction entrée en force. Cette liste est publique.[^9-5]
 
 [^9-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [FF 2015 5359](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
 [^9-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^9-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [FF 2015 5359](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
-[^9-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [FF 2015 5359](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
+[^9-4]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [FF 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
+[^9-5]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [FF 2015 5359](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
 
 #### Art. 10
 

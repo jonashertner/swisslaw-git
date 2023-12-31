@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 8. Oktober 1999 über die flankierenden Massnahmen bei 
 short: EntsG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/231"
 language: de
-version: 2020-04-01
+version: 2024-01-01
 adopted: 1999-10-08
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/231/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2003-231-20200401-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/231/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-231-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20200401/de"
 
 (Entsendegesetz, EntsG)[^t-1]
 
-vom 8. Oktober 1999 (Stand am 1. April 2020)
+vom 8. Oktober 1999 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I 2 des BG vom 15. Juni 2012 über die Anpassung der flankierenden Massnahmen zur Personenfreizügigkeit, in Kraft seit 1. Jan. 2013 ([AS 2012 6703](https://fedlex.data.admin.ch/eli/oc/2012/811); [BBl 2012 3397](https://fedlex.data.admin.ch/eli/fga/2012/446)).
 
@@ -251,14 +251,29 @@ Die Einhaltung der Anforderungen nach diesem Gesetz wird kontrolliert:
 
 <sup>1</sup> Die Kontrollorgane nach Artikel 7 koordinieren ihre Tätigkeiten und arbeiten zusammen, soweit dies zur Erfüllung ihrer Aufgabe notwendig ist.
 
-<sup>2</sup> Sie tauschen untereinander die erforderlichen Auskünfte und Unterlagen aus.
+<sup>2</sup> Sie tauschen untereinander die erforderlichen Auskünfte und Unterlagen aus. Sie können zu diesem Zweck die Plattform für die elektronische Kommunikation nach Artikel 8*a* verwenden.[^8-1]
 
 <sup>3</sup> Die zuständigen Behörden können mit den Behörden anderer Länder zusammenarbeiten, um über die grenzüberschreitende Beschäftigung von Arbeitnehmerinnen und Arbeitnehmern Informationen auszutauschen, die Verstösse gegen dieses Gesetz verhindern.
 
-<sup>4</sup> Die Arbeitslosenkassen informieren die kantonalen tripartiten Kommissionen nach Artikel 360*b* OR[^8-1] sowie die mit der Durchsetzung eines allgemeinverbindlich erklärten Gesamtarbeitsvertrags betrauten paritätischen Organe über Feststellungen, die sie im Rahmen ihrer Tätigkeit machen und die Anhaltspunkte für eine Verletzung der orts- und berufsüblichen Lohn- und Arbeitsbedingungen sind.[^8-2]
+<sup>4</sup> Die Arbeitslosenkassen informieren die kantonalen tripartiten Kommissionen nach Artikel 360*b* OR[^8-2] sowie die mit der Durchsetzung eines allgemeinverbindlich erklärten Gesamtarbeitsvertrags betrauten paritätischen Organe über Feststellungen, die sie im Rahmen ihrer Tätigkeit machen und die Anhaltspunkte für eine Verletzung der orts- und berufsüblichen Lohn- und Arbeitsbedingungen sind.[^8-3]
 
-[^8-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-2]: Eingefügt durch Ziff. II 2 des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^8-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [BBl 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
+[^8-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8-3]: Eingefügt durch Ziff. II 2 des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+
+#### Art. 8a
+
+**Plattform für die elektronische Kommunikation**[^8a-1]
+
+<sup>1</sup> Das Staatssekretariat für Wirtschaft (SECO) stellt eine Plattform für die elektronische Kommunikation zur Verfügung, über die die Kontrollorgane nach Artikel 7 Absatz 1 Informationen nach Artikel 8 Absatz 2 bekannt geben können.
+
+<sup>2</sup> Es kann die über die Plattform bekannt gegebenen Daten von natürlichen und juristischen Personen, einschliesslich Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen, aufbewahren. Es kann zudem die für die Wartung der Plattform notwendigen Arbeiten ausführen.
+
+<sup>3</sup> Die Plattform stellt eine Schnittstelle für die Anbindung von Fachanwendungen an die Plattform zur Verfügung. Die Bekanntgabe der Informationen erfolgt in verschlüsselter Form.
+
+<sup>4</sup> Der Bundesrat erlässt die Ausführungsbestimmungen zur Datensicherheit; insbesondere legt er die technischen Anforderungen an die Plattform und an die Schnittstelle fest. Er regelt zudem den Zugriff der Kontrollorgane nach Artikel 7 Absatz 1 sowie die Dauer, während der die Daten auf der Plattform aufbewahrt werden können.
+
+[^8a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [BBl 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
 
 #### Art. 9
 
@@ -290,12 +305,13 @@ Die zuständige kantonale Behörde nach Artikel 7 Absatz 1 Buchstabe d kann:
 - f. gegen Arbeitgeber, die Arbeitnehmerinnen und Arbeitnehmer in der Schweiz anstellen und die gegen die Bestimmungen über den Mindestlohn in einem Normalarbeitsvertrag nach Artikel 360*a* OR[^9-2] verstossen, eine Verwaltungssanktion aussprechen, die eine Belastung durch einen Betrag bis 30 000 Franken vorsieht;
 - g. den fehlbaren Unternehmen die Kontrollkosten ganz oder teilweise auferlegen.[^9-3]
 
-<sup>3</sup> Die Behörde, die eine Sanktion ausspricht, stellt dem Staatssekretariat für Wirtschaft (SECO) und dem zuständigen paritätischen Kontrollorgan nach Artikel 7 Absatz 1 Buchstabe a eine Kopie ihres Entscheids zu. Das SECO führt eine Liste der Unternehmen, gegen die in einem rechtskräftigen Entscheid eine Sanktion verhängt worden ist. Diese Liste ist öffentlich.[^9-4]
+<sup>3</sup> Die Behörde, die eine Sanktion ausspricht, stellt dem SECO und dem zuständigen paritätischen Kontrollorgan nach Artikel 7 Absatz 1 Buchstabe a eine Kopie ihres Entscheids zu.[^9-4] Das SECO führt eine Liste der Unternehmen, gegen die in einem rechtskräftigen Entscheid eine Sanktion verhängt worden ist. Diese Liste ist öffentlich.[^9-5]
 
 [^9-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. April 2017 ([AS 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [BBl 2015 5845](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
 [^9-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^9-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. April 2017 ([AS 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [BBl 2015 5845](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
-[^9-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. April 2017 ([AS 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [BBl 2015 5845](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
+[^9-4]: Fassung durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [BBl 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
+[^9-5]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. April 2017 ([AS 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [BBl 2015 5845](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
 
 #### Art. 10
 

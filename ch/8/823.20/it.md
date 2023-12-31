@@ -4,11 +4,11 @@ title: "Legge federale dell' 8 ottobre 1999 concernente le misure collaterali pe
 short: LDist
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/231"
 language: it
-version: 2020-04-01
+version: 2024-01-01
 adopted: 1999-10-08
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/231/20200401/it/xml/fedlex-data-admin-ch-eli-cc-2003-231-20200401-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/231/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-231-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/231/20200401/it"
 
 (Legge sui lavoratori distaccati, LDist)[^t-1]
 
-dell’8 ottobre 1999 (Stato 1° aprile 2020)
+dell’8 ottobre 1999 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I 2 della LF del 15 giu. 2012 (misure collaterali alla libera circolazione delle persone), in vigore dal 1° gen. 2013 ([RU 2012 6703](https://fedlex.data.admin.ch/eli/oc/2012/811); [FF 2012 3017](https://fedlex.data.admin.ch/eli/fga/2012/446)).
 
@@ -251,14 +251,29 @@ Il rispetto dei requisiti secondo la presente legge è controllato:
 
 <sup>1</sup> Gli organi di controllo di cui all’articolo 7 coordinano le loro attività e collaborano, in quanto necessario allo svolgimento del loro compito.
 
-<sup>2</sup> Essi si scambiano le informazioni e i documenti necessari.
+<sup>2</sup> Essi si scambiano le informazioni e i documenti necessari. A tale scopo possono utilizzare la piattaforma per la comunicazione elettronica di cui all’articolo 8*a*.[^8-1]
 
 <sup>3</sup> Le autorità competenti possono cooperare con le autorità degli altri Stati scambiando informazioni sull’occupazione transfrontaliera di lavoratori destinate a evitare infrazioni alla presente legge
 
-<sup>4</sup> Le casse di disoccupazione pubbliche e private informano le Commissioni tripartite cantonali di cui all’articolo 360*b* CO[^8-1] e gli organi paritetici incaricati dell’esecuzione di un contratto collettivo di lavoro di obbligatorietà generale se, nell’ambito della loro attività, rilevano indizi di una violazione delle condizioni salariali e lavorative usuali nel luogo e nella professione.[^8-2]
+<sup>4</sup> Le casse di disoccupazione pubbliche e private informano le Commissioni tripartite cantonali di cui all’articolo 360*b* CO[^8-2] e gli organi paritetici incaricati dell’esecuzione di un contratto collettivo di lavoro di obbligatorietà generale se, nell’ambito della loro attività, rilevano indizi di una violazione delle condizioni salariali e lavorative usuali nel luogo e nella professione.[^8-3]
 
-[^8-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-2]: Introdotto dal n. II 2 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^8-1]: Per. introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [FF 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
+[^8-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8-3]: Introdotto dal n. II 2 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+
+#### Art. 8a
+
+**Piattaforma per la comunicazione elettronica**[^8a-1]
+
+<sup>1</sup> La Segreteria di Stato dell’economia (SECO) mette a disposizione una piattaforma per la comunicazione elettronica mediante la quale gli organi di controllo di cui all’articolo 7 capoverso 1 possono comunicare informazioni secondo l’articolo 8 capoverso 2.
+
+<sup>2</sup> La SECO può conservare i dati di persone fisiche e giuridiche comunicati mediante la piattaforma, compresi i dati concernenti procedimenti o sanzioni amministrativi e penali. Inoltre, può eseguire i lavori necessari per la manutenzione della piattaforma.
+
+<sup>3</sup> La piattaforma fornisce un’interfaccia per il collegamento di applicazioni specifiche. La comunicazione delle informazioni avviene in forma criptata.
+
+<sup>4</sup> Il Consiglio federale emana le disposizioni d’esecuzione relative alla sicurezza dei dati; in particolare, stabilisce i requisiti tecnici per la piattaforma e l’interfaccia. Disciplina inoltre l’accesso ai dati da parte degli organi di controllo di cui all’articolo 7 capoverso 1, nonché la durata di conservazione dei dati sulla piattaforma.
+
+[^8a-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [FF 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
 
 #### Art. 9
 
@@ -290,12 +305,13 @@ L’autorità cantonale competente ai sensi dell’articolo 7 capoverso 1 letter
 - f. per infrazioni alle disposizioni sui salari minimi prescritte in un contratto normale di lavoro ai sensi dell’articolo 360*a* CO[^9-2] commesse da datori di lavoro che impiegano lavoratori in Svizzera, pronunciare una sanzione amministrativa che preveda il pagamento di un importo sino a 30 000 franchi;
 - g. addossare totalmente o parzialmente alle imprese inadempienti le spese di controllo.[^9-3]
 
-<sup>3</sup> L’autorità che pronuncia una sanzione notifica una copia della sua decisione alla Segreteria di Stato dell’economia (SECO) e all’organo di controllo paritetico competente ai sensi dell’articolo 7 capoverso 1 lettera a. La SECO tiene un elenco delle imprese a cui è stata inflitta una sanzione mediante decisione passata in giudicato. L’elenco è pubblico.[^9-4]
+<sup>3</sup> L’autorità che pronuncia una sanzione notifica una copia della sua decisione alla SECO e all’organo di controllo paritetico competente ai sensi dell’articolo 7 capoverso 1 lettera a.[^9-4] La SECO tiene un elenco delle imprese a cui è stata inflitta una sanzione mediante decisione passata in giudicato. L’elenco è pubblico.[^9-5]
 
 [^9-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° apr. 2017 ([RU 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [FF 2015 4809](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
 [^9-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^9-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° apr. 2017 ([RU 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [FF 2015 4809](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
-[^9-4]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° apr. 2017 ([RU 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [FF 2015 4809](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
+[^9-4]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 641](https://fedlex.data.admin.ch/eli/oc/2023/641); [FF 2022 3190](https://fedlex.data.admin.ch/eli/fga/2022/3190)).
+[^9-5]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° apr. 2017 ([RU 2017 2077](https://fedlex.data.admin.ch/eli/oc/2017/184); [FF 2015 4809](https://fedlex.data.admin.ch/eli/fga/2015/1362)).
 
 #### Art. 10
 
