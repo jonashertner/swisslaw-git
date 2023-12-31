@@ -4,13 +4,13 @@ number: "612.300"
 title: Gesetz über die wirkungsorientierte Steuerung von Aufgaben und Finanzen
 short: GAF
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-06-30
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-03-14
 adopted: 2012-06-05
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2911/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2911/pdf_file"
 
 (GAF)
 
-Vom 05.06.2012 (Stand 01.01.2021)
+Vom 05.06.2012 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -201,23 +201,27 @@ beschliesst:
 
 <sup>2</sup> Die Planjahre gelten für den nächsten Aufgaben- und Finanzplan als Richtlinie.
 
+<sup>3</sup> Lehnt der Grosse Rat die Genehmigung der Planjahre in der Schlussabstimmung ab, ist das Geschäft erledigt. Der Richtliniencharakter der Planjahre entfällt.
+
 #### § 13
 
 **Budget**
 
 <sup>1</sup> Der Grosse Rat beschliesst das Budget, das aus den aufgabenseitigen und den finanziellen Steuergrössen im Budgetjahr besteht. Bei den finanziellen Steuergrössen beschliesst er jeweils den Saldo. Nicht geplanter Ertrag darf nur zur Finanzierung des dafür notwendigen Aufwands verwendet werden.
 
-<sup>2</sup> Der Grosse Rat beschliesst die durchschnittliche prozentuale Veränderung der Löhne, die Höhe des Steuerfusses und die Aufnahme fremder Gelder.
+<sup>2</sup> Der Grosse Rat beschliesst die durchschnittliche prozentuale Veränderung der Löhne (inklusive Anteil für Systempflege), die Höhe des Steuerfusses und die Aufnahme fremder Gelder.
 
 <sup>3</sup> Mit dem Budgetbeschluss ermächtigt der Grosse Rat die zuständigen Instanzen, die Erfolgs- beziehungsweise Investitionsrechnung bis zum beschlossenen Betrag zu belasten, oder er verpflichtet sie, einen Ertragsüberschuss zu erzielen.
 
-<sup>4</sup> Solange der Grosse Rat das Budget nicht beschlossen hat, können der Regierungsrat, das Büro des Grossen Rats, die Justizleitung, die Finanzkontrolle und die beauftragte Person für Öffentlichkeit und Datenschutz unter Vorbehalt von § 33 Abs. 3 den für die Leistungserbringung unerlässlichen Aufwand tätigen.
+<sup>4</sup> Solange der Grosse Rat das Budget in der Schlussabstimmung nicht beschlossen hat, können der Regierungsrat, das Büro des Grossen Rats, die Justizleitung, die Finanzkontrolle und die beauftragte Person für Öffentlichkeit und Datenschutz den für die Leistungserbringung unerlässlichen Aufwand tätigen. Bis zum Vorliegen des Beschlusses über das Budget ist der beschlossene Steuerfuss des Vorjahrs für den Steuerbezug massgebend.
 
 #### § 14
 
 **Kompensation und Verschiebung**
 
-<sup>1</sup> Zur Erfüllung der Aufgaben kann das beschlossene Budget pro einzelne finanzielle Steuergrösse innerhalb eines Aufgabenbereichs kompensiert werden. Davon ausgenommen ist die Kompensation von Verpflichtungskrediten im Globalbudget und umgekehrt.
+<sup>1</sup> Zur Erfüllung der Aufgaben kann das beschlossene Budget pro einzelne finanzielle Steuergrösse innerhalb eines Aufgabenbereichs kompensiert werden. Innerhalb des Globalbudgets ist die sachgemässe Kompensation mit Budgetmitteln von Verpflichtungskrediten und umgekehrt im Anhang der Jahresrechnung auszuweisen.
+
+<sup>1<sup>bis</sup></sup> Als sachgemäss gelten Kompensationen nicht benötigter Budgetmittel aus dem Globalbudget zur Finanzierung nicht oder zu tief budgetierter Verpflichtungskredite innerhalb des Globalbudgets. Kompensationen mit Mitteln des Globalbudgets für Verpflichtungskredite in den nicht durch Verpflichtungskredite gebundenen Teil des Globalbudgets sind nur bei gleichem Verwendungszweck sachgemäss.
 
 <sup>2</sup> Im beschlossenen Budget kann der Regierungsrat aufwandseitige Globalbudgets und Investitionen von gesamthaft Fr. 10 Mio. und je Aufgabenbereich maximal Fr. 5 Mio. zwischen den ihm zugewiesenen Aufgabenbereichen verschieben. Verschiebungen zwischen den Steuergrössen sind nicht zulässig.
 
@@ -618,9 +622,19 @@ beschliesst:
 
 **Erprobung neuer Formen**
 
-<sup>1</sup> Zur Erprobung neuer Formen der staatlichen Leistungserbringung oder ihrer Steuerung können Pilotvorhaben durchgeführt werden.
+<sup>1</sup> Zur Erprobung neuer Formen der staatlichen Leistungserbringung oder ihrer Steuerung können auf maximal fünf Jahre befristete Pilotvorhaben durchgeführt werden.
 
-<sup>2</sup> Soweit die Kompetenzen des Regierungsrats dafür nicht ausreichen, legt der Grosse Rat durch befristete Gesetze oder Dekrete die inhaltlichen Ziele, die Rahmenbedingungen, die Dauer und seine Mitwirkung fest.
+<sup>2</sup> Soweit die Kompetenzen des Regierungsrats dafür nicht ausreichen, legt der Grosse Rat mit absoluter Mehrheit seiner Mitglieder die inhaltlichen Ziele, die Rahmenbedingungen, die Dauer des Vorhabens und die hierfür erforderlichen Abweichungen von kantonalen Bestimmungen auf Gesetzes- und Dekretsstufe durch befristetes Dekret fest.
+
+<sup>3</sup> Wenn es das Pilotvorhaben erfordert, können auch besonders schützenswerte Personendaten bearbeitet und zur Evaluation an Dritte weitergegeben werden. Vor Beginn des Pilotvorhabens ist eine Datenschutz-Folgenabschätzung gemäss § 17a Abs. 2 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006[^47-1] durchzuführen.
+
+<sup>4</sup> Der Regierungsrat informiert den Grossen Rat über die Ergebnisse der Pilotvorhaben.
+
+<sup>5</sup> Das Pilotvorhaben endet spätestens mit dem Ablauf der Maximaldauer gemäss Absatz 1.
+
+<sup>6</sup> Legt der Regierungsrat dem Grossen Rat vor Ablauf der Maximaldauer ein Geschäft mit den rechtlichen Anpassungen zur definitiven Einführung der neuen Formen der staatlichen Leistungserbringung vor, verlängert sich die Dauer des Pilotvorhabens bis zum Inkrafttreten der Bestimmungen oder bis zu deren Ablehnung durch den Grossen Rat.
+
+[^47-1]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
 
 #### § 47a
 
@@ -640,23 +654,15 @@ beschliesst:
 
 #### § 48
 
-**Neubewertung**
-
-<sup>1</sup> Die Neubewertungen zum Zeitpunkt des Inkrafttretens dieses Gesetzes werden durch Dekret geregelt.
+**…**
 
 #### § 49
 
-**Kredite**
-
-<sup>1</sup> Altrechtliche Verpflichtungs- und Globalkredite werden den zuständigen Instanzen als Sammelvorlage zur Kenntnis gebracht und in neurechtliche Verpflichtungskredite überführt.
+**…**
 
 #### § 50
 
-**Jahresbericht und Jahresrechnung**
-
-<sup>1</sup> Der Regierungsrat, das Büro des Grossen Rats, die Justizleitung, die Finanzkontrolle sowie die beauftragte Person für Öffentlichkeit und Datenschutz erstellen den Jahresbericht und die Jahresrechnung in jenem Jahr, in dem dieses Gesetz in Kraft tritt, nach bisherigem Recht.
-
-<sup>2</sup> Dem Grossen Rat wird zusammen mit dem letzten nach bisherigem Recht erstellten Jahresbericht mit Jahresrechnung ein Bilanzanpassungsbericht vorgelegt.
+**…**
 
 #### § 51
 
@@ -672,21 +678,15 @@ beschliesst:
 
 #### § 52
 
-**Stand der Finanzierungsrechnungen der Spezialfinanzierungen**
-
-<sup>1</sup> Zum Zeitpunkt des Inkrafttretens dieses Gesetzes entspricht der Stand der Spezialfinanzierungen der Höhe der Verpflichtungen der Spezialfinanzierungen zugunsten der ordentlichen Rechnung respektive der Verpflichtungen der ordentlichen Rechnung zugunsten der Spezialfinanzierungen gemäss bisheriger Rechnungslegung.
+**…**
 
 #### § 53
 
-**Anfangsbestand der Ausgleichsreserve**
-
-<sup>1</sup> Zum Zeitpunkt des Inkrafttretens dieses Gesetzes entspricht die Ausgleichsreserve der Höhe der Bilanzausgleichsreserve gemäss bisheriger Rechnungslegung.
+**…**
 
 #### § 54
 
-**Abtragung von Bilanzfehlbeträgen gemäss bisherigem Recht**
-
-<sup>1</sup> Besteht zum Zeitpunkt des Inkrafttretens dieses Gesetzes ein Abschreibungsbedarf von Bilanzfehlbeträgen gemäss § 27 des Gesetzes über die wirkungsorientierte Steuerung von Aufgaben und Finanzen vom 11. Januar 2005, wird der entsprechende Betrag in den bisherigen Fehlbeträgen der Finanzierungsrechnung gemäss § 51 Abs. 1 nicht berücksichtigt und ab Inkrafttreten dieses Gesetzes gemäss § 20 Abs. 2 abgetragen.
+**…**
 
 #### § 55
 
