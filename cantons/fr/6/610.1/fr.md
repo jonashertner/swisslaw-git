@@ -4,13 +4,12 @@ number: "610.1"
 title: "Loi sur les finances de l'Etat"
 short: LFE
 language: fr
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-10-18
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 1994-11-25
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/610.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6411/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8632/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Finances de l'Etat – L
 
 (LFE)
 
-du 25.11.1994 (version entrée en vigueur le 01.01.2020)
+du 25.11.1994 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -49,7 +48,9 @@ Décrète:
 
 <sup>2</sup> Elle est aussi applicable aux établissements érigés en personne morale dont la gestion financière et la comptabilité ne sont pas régies par des lois spéciales. Le Conseil d'Etat peut toutefois prévoir des exceptions aux règles relatives aux crédits budgétaires (art. 34 à 37).
 
-<sup>3</sup> Les institutions publiques ou privées bénéficiaires d'une aide financière de l'Etat peuvent être soumises à certaines dispositions de la présente loi. Le règlement d'exécution fixe les domaines visés.
+<sup>3</sup> Les institutions publiques ou privées bénéficiaires d'une aide financière de l'Etat peuvent être soumises à certaines dispositions de la présente loi. Le règlement d'exécution[^2-1] fixe les domaines visés.
+
+[^2-1]: RSF [610.11](https://bdlf.fr.ch/data/610.11/fr)
 
 ## 2 Principes de la politique et de la gestion financière
 
@@ -122,7 +123,9 @@ Décrète:
 
 <sup>1</sup> La comptabilité doit donner une image claire, complète et véridique de la situation financière, du patrimoine et des dettes. La planification financière, le budget, les comptes de l'Etat, le contrôle des crédits d'engagement et la statistique financière sont établis dans ce but.
 
-<sup>2</sup> Le règlement d'exécution fixe les principes généraux de la comptabilité.
+<sup>2</sup> Le règlement d'exécution[^11-1] fixe les principes généraux de la comptabilité.
+
+[^11-1]: RSF [610.11](https://bdlf.fr.ch/data/610.11/fr)
 
 #### Art. 12
 
@@ -423,9 +426,11 @@ Décrète:
 
 <sup>2<sup>bis</sup></sup> Si la compensation n'est pas possible selon l'alinéa 2, celle-ci peut aussi se faire par une augmentation de revenus si le crédit supplémentaire porte sur des charges liées découlant de la législation fédérale ou de concordats intercantonaux.
 
-<sup>2<sup>ter</sup></sup> Le règlement d'exécution fixe les rubriques du plan comptable qui correspondent à ces charges liées.
+<sup>2<sup>ter</sup></sup> Le règlement d'exécution[^35-1] fixe les rubriques du plan comptable qui correspondent à ces charges liées.
 
 <sup>3</sup> Les crédits supplémentaires sont soumis périodiquement au Grand Conseil.
+
+[^35-1]: RSF [610.11](https://bdlf.fr.ch/data/610.11/fr)
 
 #### Art. 36
 
@@ -501,7 +506,9 @@ Décrète:
 
 <sup>3</sup> Le Conseil d'Etat détermine, lors de la fixation des objectifs budgétaires annuels, la mesure dans laquelle une situation conjoncturelle difficile peut être prise en considération.
 
-<sup>4</sup> Le règlement d'exécution fixe les indicateurs permettant d'évaluer la situation conjoncturelle et les limites à partir desquelles il est possible de s'écarter de la règle de l'équilibre.
+<sup>4</sup> Le règlement d'exécution[^40b-1] fixe les indicateurs permettant d'évaluer la situation conjoncturelle et les limites à partir desquelles il est possible de s'écarter de la règle de l'équilibre.
+
+[^40b-1]: RSF [610.11](https://bdlf.fr.ch/data/610.11/fr)
 
 #### Art. 40c
 
@@ -522,7 +529,9 @@ Décrète:
 
 <sup>2</sup> Si le déficit du compte de résultats est causé par un besoin financier exceptionnel, le Grand Conseil peut prolonger le délai de deux ans au plus.
 
-<sup>3</sup> Le règlement d'exécution définit la nature des recettes extraordinaires au sens de l'alinéa 1.
+<sup>3</sup> Le règlement d'exécution[^40d-1] définit la nature des recettes extraordinaires au sens de l'alinéa 1.
+
+[^40d-1]: RSF [610.11](https://bdlf.fr.ch/data/610.11/fr)
 
 #### Art. 41
 
@@ -752,6 +761,50 @@ Décrète:
 - e) ils mettent en place un contrôle interne.
 
 <sup>2</sup> Ils ne peuvent engager des dépenses prévues au budget ou ordonner des paiements que dans les limites des crédits disponibles et des compétences qui leur sont déléguées.
+
+## 6a Système de gestion intégré des finances
+
+#### Art. 47a
+
+**But et contenu du système de gestion intégré des finances**
+
+<sup>1</sup> L'Administration des finances exploite un système de gestion intégré des finances pour l'accomplissement des tâches et attributions découlant de la présente loi (ci-après: le système de gestion intégré), notamment en lien avec:
+
+- a) la gestion financière et opérationnelle;
+- b) la planification financière et le suivi budgétaire.
+
+<sup>2</sup> Le système de gestion intégré contient les données financières ainsi que les données personnelles nécessaires à l'accomplissement des tâches et attributions visées par le précédent alinéa. Les catégories de données personnelles suivantes peuvent notamment être traitées:
+
+- a) identités et adresses des personnes physiques et des personnes morales qui ont des relations financières avec l'Etat;
+- b) informations sur les coordonnées financières des personnes visées par la lettre a et sur leurs transactions financières avec l'Etat.
+
+<sup>3</sup> Le système de gestion intégré peut contenir des données personnelles sensibles, pour autant que l'accomplissement des tâches mentionnées à l'alinéa 1 en dépende.
+
+#### Art. 47b
+
+**Accès au système de gestion intégré des finances**
+
+<sup>1</sup> Le système de gestion intégré est mis à la disposition des établissements et services pour leur permettre d'effectuer les opérations financières et comptables relevant de leurs domaines de compétence. Les communes y ont également accès pour consulter leur propre compte courant.
+
+<sup>2</sup> Les établissements et services utilisateurs du système de gestion intégré peuvent y saisir les données, y compris des données personnelles sensibles, qu'ils traitent en lien avec la gestion et la planification financières.
+
+<sup>3</sup> L'Administration des finances dispose d'un accès direct et permanent à la totalité des données introduites dans le système de gestion intégré par les établissements et services utilisateurs.
+
+<sup>4</sup> Si l'accomplissement des tâches et attributions découlant de la présente loi le requiert, le système de gestion intégré peut être interfacé avec d'autres systèmes d'information de l'Etat. Une autorisation préalable est requise et les droits d'accès doivent être strictement délimités.
+
+<sup>5</sup> Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel au sens de la loi cantonale sur la protection des données[^47b-1].
+
+<sup>6</sup> Les données personnelles contenues dans le système de gestion intégré peuvent, sur demande, être communiquées à d'autres autorités ou à des tiers lorsque cette communication est nécessaire à l'accomplissement des tâches et attributions découlant de la présente loi.
+
+[^47b-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
+
+#### Art. 47c
+
+**Mesures de sécurité et responsabilité**
+
+<sup>1</sup> Le Conseil d'Etat précise les mesures de sécurité de l'information à appliquer ainsi que la répartition des responsabilités entre les diverses entités concernées.
+
+<sup>2</sup> Le détail des mesures de sécurité à mettre en œuvre ainsi que celui de la répartition des responsabilités peut être fixé dans des conventions passées entre l'Administration des finances et les établissements et services utilisateurs du système de gestion intégré. Les conventions sont transmises pour information à l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 ## 7 Contrôle des finances
 

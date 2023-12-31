@@ -4,13 +4,12 @@ number: "610.1"
 title: Gesetz über den Finanzhaushalt des Staates
 short: FHG
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-10-18
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 1994-11-25
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/610.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6411/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8632/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Finanzhaushalt des Staates – G
 
 (FHG)
 
-vom 25.11.1994 (Fassung in Kraft getreten am 01.01.2020)
+vom 25.11.1994 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -49,7 +48,9 @@ beschliesst:
 
 <sup>2</sup> Es gilt auch für die Anstalten mit eigener Rechtspersönlichkeit, deren Haushalts- und Rechnungsführung nicht in Spezialgesetzen geregelt sind. Der Staatsrat kann jedoch Ausnahmen von den Vorschriften über die Voranschlagskredite vorsehen (Art. 34–37).
 
-<sup>3</sup> Öffentliche oder private Institutionen, denen der Staat eine Finanzhilfe gewährt, können gewissen Bestimmungen dieses Gesetzes unterstellt werden. Das Ausführungsreglement legt fest, für welche Bereiche dies gilt.
+<sup>3</sup> Öffentliche oder private Institutionen, denen der Staat eine Finanzhilfe gewährt, können gewissen Bestimmungen dieses Gesetzes unterstellt werden. Das Ausführungsreglement[^2-1] legt fest, für welche Bereiche dies gilt.
+
+[^2-1]: SGF [610.11](https://bdlf.fr.ch/data/610.11/de)
 
 ## 2 Grundsätze der Finanzpolitik und der Haushaltsführung
 
@@ -122,7 +123,9 @@ beschliesst:
 
 <sup>1</sup> Die Rechnungsführung vermittelt eine klare, vollständige und wahrheitsgetreue Übersicht über die Finanzlage, das Vermögen und die Schulden. Zu diesem Zweck werden die Finanzplanung, der Voranschlag, die Staatsrechnung, die Verpflichtungskreditkontrolle und die Finanzstatistik erstellt.
 
-<sup>2</sup> Das Ausführungsreglement nennt die für die Rechnungsführung geltenden allgemeinen Grundsätze.
+<sup>2</sup> Das Ausführungsreglement[^11-1] nennt die für die Rechnungsführung geltenden allgemeinen Grundsätze.
+
+[^11-1]: SGF [610.11](https://bdlf.fr.ch/data/610.11/de)
 
 #### Art. 12
 
@@ -423,9 +426,11 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Kann der Nachtragskredit nicht nach Absatz 2 kompensiert werden, so kann er auch durch eine Einnahmenerhöhung kompensiert werden, wenn er gebundene Ausgaben betrifft, die sich aus der Bundesgesetzgebung oder aus interkantonalen Konkordaten ergeben.
 
-<sup>2<sup>ter</sup></sup> Die diesen gebundenen Ausgaben entsprechenden Rubriken des Kontenplans werden im Ausführungsreglement festgelegt.
+<sup>2<sup>ter</sup></sup> Die diesen gebundenen Ausgaben entsprechenden Rubriken des Kontenplans werden im Ausführungsreglement[^35-1] festgelegt.
 
 <sup>3</sup> Die Nachtragskredite sind periodisch dem Grossen Rat zu unterbreiten.
+
+[^35-1]: SGF [610.11](https://bdlf.fr.ch/data/610.11/de)
 
 #### Art. 36
 
@@ -501,7 +506,9 @@ beschliesst:
 
 <sup>3</sup> Der Staatsrat bestimmt bei der Festlegung der jährlichen Budgetziele, inwiefern eine schwierige konjunkturelle Lage berücksichtigt werden kann.
 
-<sup>4</sup> Im Ausführungsreglement werden die Eckdaten festgelegt, die dazu dienen, die konjunkturelle Lage zu beurteilen und zu bestimmen, wann von der Regel des ausgeglichenen Haushalts abgewichen werden kann.
+<sup>4</sup> Im Ausführungsreglement[^40b-1] werden die Eckdaten festgelegt, die dazu dienen, die konjunkturelle Lage zu beurteilen und zu bestimmen, wann von der Regel des ausgeglichenen Haushalts abgewichen werden kann.
+
+[^40b-1]: SGF [610.11](https://bdlf.fr.ch/data/610.11/de)
 
 #### Art. 40c
 
@@ -522,7 +529,9 @@ beschliesst:
 
 <sup>2</sup> Ist das Defizit der Erfolgsrechnung auf ein ausserordentliches Finanzbedürfnis zurückzuführen, so kann der Grosse Rat die Frist für den Ausgleich um höchstens zwei Jahre verlängern.
 
-<sup>3</sup> Die ausserordentlichen Einnahmen nach Absatz 1 werden im Ausführungsreglement umschrieben.
+<sup>3</sup> Die ausserordentlichen Einnahmen nach Absatz 1 werden im Ausführungsreglement[^40d-1] umschrieben.
+
+[^40d-1]: SGF [610.11](https://bdlf.fr.ch/data/610.11/de)
 
 #### Art. 41
 
@@ -752,6 +761,50 @@ beschliesst:
 - e) Sie führen eine interne Kontrolle ein.
 
 <sup>2</sup> Sie können nur im Rahmen der verfügbaren Kredite und der ihnen übertragenen Befugnisse Verpflichtungen für im Voranschlag vorgesehene Ausgaben eingehen oder Zahlungen anordnen.
+
+## 6a Integriertes Finanzmanagementsystem
+
+#### Art. 47a
+
+**Zweck und Inhalt des integrierten Finanzmanagementsystems**
+
+<sup>1</sup> Die Finanzverwaltung betreibt ein integriertes Finanzmanagementsystem zur Wahrnehmung der Aufgaben und Befugnisse, die sich aus diesem Gesetz ergeben, namentlich in Zusammenhang mit:
+
+- a) der Haushaltsführung und der operativen Führung;
+- b) der Finanzplanung und der Budgetkontrolle.
+
+<sup>2</sup> Das integrierte Finanzmanagementsystem enthält die zur Wahrnehmung der Aufgaben und Befugnisse nach Absatz 1 erforderlichen Finanz- und Personendaten. Es können namentlich folgende Kategorien von Personendaten bearbeitet werden:
+
+- a) Identität und Adresse der natürlichen und juristischen Personen, die finanzielle Beziehungen zum Staat unterhalten;
+- b) Informationen über die Finanzdaten der natürlichen und juristischen Personen nach Buchstabe a und über ihre Finanztransaktionen mit dem Staat.
+
+<sup>3</sup> Das integrierte Finanzmanagementsystem kann besonders schützenswerte Personendaten enthalten, sofern sie für die Erfüllung der Aufgaben nach Absatz 1 erforderlich sind.
+
+#### Art. 47b
+
+**Zugriff auf das integrierte Finanzmanagementsystem**
+
+<sup>1</sup> Das integrierte Finanzmanagementsystem wird den Dienststellen und Anstalten des Staates zur Verfügung gestellt, damit sie die in ihren Zuständigkeitsbereich fallenden finanziellen und buchhalterischen Geschäfte durchführen können. Die Gemeinden haben ebenfalls Zugriff darauf, um ihr eigenes Kontokorrent einzusehen.
+
+<sup>2</sup> Die Anstalten und Dienststellen, die das integrierte Finanzmanagementsystem nutzen, können die Daten, einschliesslich besonders schützenswerter Personendaten, die sie im Zusammenhang mit der Haushaltsführung und der Finanzplanung bearbeiten, in das integrierte Finanzmanagementsystem eingeben.
+
+<sup>3</sup> Die Finanzverwaltung kann direkt und ständig auf sämtliche von den Anstalten und Dienststellen im integrierten Finanzmanagementsystem erfassten Daten zugreifen.
+
+<sup>4</sup> Wenn es nötig ist, um die Aufgaben und Befugnisse, die sich aus diesem Gesetz ergeben, wahrzunehmen, können die Daten des integrierten Finanzmanagementsystems mit den Daten anderer Informationssysteme des Staates verknüpft werden. Dazu ist eine vorgängige Bewilligung erforderlich, und die Zugriffsrechte müssen streng begrenzt sein.
+
+<sup>5</sup> Die Personendaten können über ein Abrufverfahren im Sinne des kantonalen Gesetzes über den Datenschutz[^47b-1] zugänglich gemacht werden.
+
+<sup>6</sup> Die im integrierten Finanzmanagementsystem enthaltenen Personendaten können auf Antrag an andere Behörden oder an Dritte bekanntgegeben werden, wenn diese Bekanntgabe nötig ist, um Aufgaben und Befugnisse, die sich aus diesem Gesetz ergeben, wahrzunehmen.
+
+[^47b-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
+
+#### Art. 47c
+
+**Sicherheitsmassnahmen und Verantwortlichkeit**
+
+<sup>1</sup> Der Staatsrat legt fest, welche Informationssicherheitsmassnahmen getroffen werden müssen und wie die Verantwortlichkeiten unter den verschiedenen betroffenen Stellen aufgeteilt werden.
+
+<sup>2</sup> Die Einzelheiten der Sicherheitsmassnahmen, die ergriffen werden müssen, und die Aufteilung der Verantwortlichkeiten können in Vereinbarungen zwischen der Finanzverwaltung und den Dienststellen und Anstalten, die das integrierte Finanzmanagementsystem nutzen, festgelegt werden. Die Vereinbarungen werden der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation zur Kenntnisnahme übermittelt.
 
 ## 7 Finanzkontrolle
 
