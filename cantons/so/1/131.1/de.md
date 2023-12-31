@@ -4,13 +4,13 @@ number: "131.1"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2023-05-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-12
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-09-07
 adopted: 1992-02-16
 in_force: 1992-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.1"
-pdf: "https://bgs.so.ch/api/de/versions/5317/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5318/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5317/pdf_file"
 
 (GG)
 
-Vom 16.02.1992 (Stand 01.05.2023)
+Vom 16.02.1992 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -59,21 +59,23 @@ beschliesst:
 
 **I. Einwohnerkontrolle 1. Melde- und Hinterlegungspflicht**
 
-<sup>1</sup> Wer in einer Einwohnergemeinde Wohnsitz oder Aufenthalt begründet, hat sich innert 14 Tagen anzumelden und seine Ausweispapiere zu hinterlegen.
+<sup>1</sup> Wer in einer Einwohnergemeinde Niederlassung (Hauptwohnsitz) oder Aufenthalt (Nebenwohnsitz) begründet, hat sich innert 14 Tagen anzumelden und die erforderlichen Dokumente zu hinterlegen.
 
-<sup>2</sup> Wer seinen Wohnsitz oder Aufenthalt aufgibt, hat sich innert 14 Tagen abzumelden.
+<sup>2</sup> Wer seine Niederlassung oder seinen Aufenthalt aufgibt, hat sich innert 14 Tagen abzumelden.
+
+<sup>3</sup> Die Meldepflicht besteht auch bei Umzügen innerhalb der Gemeinde oder eines Gebäudes.
 
 #### § 4
 
 **II. Strafbestimmung**
 
-<sup>1</sup> Wer vorsätzlich oder fahrlässig die Meldepflichten verletzt, wer die Ausweispapiere nicht hinterlegt oder bei der An- oder Abmeldung die Auskunft verweigert oder unwahre Angaben macht, wird vom Friedensrichter mit Busse bestraft.
+<sup>1</sup> Wer vorsätzlich oder fahrlässig die Meldepflichten verletzt, wer die erforderlichen Dokumente nicht hinterlegt oder bei der An-, Um- oder Abmeldung die Auskunft verweigert oder unwahre Angaben macht, wird vom Friedensrichter mit Busse bestraft.
 
 #### § 5
 
-**III. Wohnsitz und Aufenthalt, besondere Domizile**
+**III. Niederlassung und Aufenthalt, besondere Domizile**
 
-<sup>1</sup> Wohnsitz und Aufenthalt einer Person richten sich nach dem Zivilrecht.
+<sup>1</sup> Niederlassung und Aufenthalt einer Person richten sich nach der Registerharmonisierungsgesetzgebung.
 
 <sup>2</sup> Vorbehalten sind gesetzliche Bestimmungen über das politische Domizil, das Steuerdomizil und andere besondere Domizilarten.
 
