@@ -3,18 +3,18 @@ sr: "824.095"
 title: Verordnung vom 20. August 2014 über das Informationssystem des Zivildienstes
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-482-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2014-482-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Informationssystem des Zivildienstes
 
-vom 20. August 2014 (Stand am 1. September 2023)
+vom 20. August 2014 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -187,7 +187,7 @@ Das ZIVI übt die Aufsicht aus über:
 Die Datensicherheit richtet sich nach:
 
 - a.[^11-1] den Artikeln 1–6 der Datenschutzverordnung vom 31. August 2022[^11-2];
-- b.[^11-3] der Cyberrisikenverordnung vom 27. Mai 2020[^11-4];
+- b.[^11-3] der Informationssicherheitsverordnung vom 8. November 2023[^11-4];
 - c.[^11-5] …[^11-6]
 
 <sup>2</sup> Die nach Artikel 7 berechtigten Behörden und privaten Personen und Institutionen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, damit ihre Personendaten vor Verlust, vor Entwendung und gegen unbefugte Bearbeitung oder Kenntnisnahme geschützt sind.
@@ -198,8 +198,8 @@ Die Datensicherheit richtet sich nach:
 
 [^11-1]: Fassung gemäss Anhang 2 Ziff. II 115 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^11-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-3]: Fassung gemäss Anhang Ziff. 31 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^11-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-3]: Fassung gemäss Anhang 2 Ziff. II 39 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^11-5]: Aufgehoben durch Anhang Ziff. 31 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^11-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
 [^11-7]: Fassung gemäss Anhang 2 Ziff. II 115 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).

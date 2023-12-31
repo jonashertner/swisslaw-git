@@ -3,18 +3,18 @@ sr: "824.095"
 title: "Ordonnance du 20 août 2014 sur le système d'information du service civil"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-482-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-482-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le système d’information du service civil
 
-du 20 août 2014 (État le 1<sup>er</sup> septembre 2023)
+du 20 août 2014 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -186,7 +186,7 @@ Le CIVI exerce la surveillance:
 La sécurité des données est régie par les dispositions suivantes:
 
 - a.[^11-1] les art. 1 à 6 de l’ordonnance du 31 août 2022 sur la protection des données[^11-2];
-- b.[^11-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-4];
+- b.[^11-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^11-4];
 - c.[^11-5] …[^11-6]
 
 <sup>2</sup> Les autorités, les particuliers et les institutions privées autorisées en vertu de l’art. 7 prennent les mesures organisationnelles et techniques requises, conformément au droit de la protection des données, afin de protéger les données personnelles contre toute perte ou tout vol et contre tout traitement ou consultation non autorisés.
@@ -197,8 +197,8 @@ La sécurité des données est régie par les dispositions suivantes:
 
 [^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 115 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^11-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-3]: Nouvelle teneur selon l’annexe ch. 31 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^11-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-3]: Nouvelle teneur selon l’annexe 2 ch. II 39 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^11-5]: Abrogée par l’annexe ch. 31 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^11-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
 [^11-7]: Nouvelle teneur selon l’annexe 2 ch. II 115 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
@@ -247,7 +247,7 @@ Le CIVI communique à l’Office fédéral de la statistique les données dont c
 
 L’ordonnance du 30 juin 2004 sur le système d’information du service civil[^16-1] est abrogée.
 
-[^16-1]: [[RO 2004 3633](https://fedlex.data.admin.ch/eli/oc/2004/495), [2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637), [2009 1119](https://fedlex.data.admin.ch/eli/oc/2009/178)]
+[^16-1]: [[RO 2004 3633](https://fedlex.data.admin.ch/eli/oc/2004/495); [2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637); [2009 1119](https://fedlex.data.admin.ch/eli/oc/2009/178)]
 
 #### Art. 17
 
@@ -265,7 +265,7 @@ L’ordonnance du 30 juin 2004 sur le système d’information du service civil[
 
 Si, après l’entrée en vigueur de la présente ordonnance, le système d’information ZIVI+ doit être maintenu ou remis en fonction en vue de surmonter de graves perturbations techniques ou organisationnelles, l’ordonnance du 30 juin 2004 sur le système d’information du service civil[^18-1] demeure applicable pendant neuf mois au plus à compter de l’entrée en vigueur de la présente ordonnance.
 
-[^18-1]: [[RO 2004 3633](https://fedlex.data.admin.ch/eli/oc/2004/495), [2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637), [2009 1119](https://fedlex.data.admin.ch/eli/oc/2009/178)]
+[^18-1]: [[RO 2004 3633](https://fedlex.data.admin.ch/eli/oc/2004/495); [2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637); [2009 1119](https://fedlex.data.admin.ch/eli/oc/2009/178)]
 
 #### Art. 19
 
