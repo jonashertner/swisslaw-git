@@ -3,18 +3,18 @@ sr: "412.101.222.35"
 title: Ordonnance du SEFRI du 14 mai 2021 sur la formation professionnelle initiale d’informaticienne d’entreprise / informaticien d’entreprise avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/302"
 language: fr
-version: 2021-07-01
+version: 2024-01-01
 adopted: 2021-05-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/302/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-302-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/302/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/302/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-302-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/302/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’informaticienne d’entreprise / informaticien d’entreprise avec certificat fédéral de capacité (CFC)
 
-du 14 mai 2021 (Etat le 1<sup>er</sup> juillet 2021)
+du 14 mai 2021 (État le 1<sup>er</sup> janvier 2024)
 
 <table>
 <tr><td>88614</td><td>Informaticienne d’entreprise CFC / Informaticien d’entreprise CFC Betriebsinformatikerin EFZ / Betriebsinformatiker EFZ Informatica aziendale AFC / Informatico aziendale AFC</td></tr>
@@ -80,7 +80,7 @@ Les compétences opérationnelles comprennent des compétences professionnelles,
 
 <sup>4</sup> Tous les lieux de formation collaborent à l’acquisition des compétences opérationnelles par les personnes en formation. Ils coordonnent les contenus de la formation et des procédures de qualification.
 
-[^3-1]: www.ict-formationprofessionnelle.ch &gt; Formation professionnelle &gt; ICT Competence Framework.
+[^3-1]: [www.ict-formationprofessionnelle.ch](http://www.ict-formationprofessionnelle.ch) &gt; Formation professionnelle &gt; ICT Competence Framework.
 
 #### Art. 4
 
@@ -474,3 +474,13 @@ Elle est notamment chargée des tâches suivantes:
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2021, sous réserve de l’al. 2.
 
 <sup>2</sup> Les art. 16 à 21 entrent en vigueur le 1<sup>er</sup> janvier 2025.
+
+## Dispositions transitoires relatives à l’abrogation du 22 novembre 2023
+
+[^u1-1]
+
+[^u1-1]: [RO 2023 741](https://fedlex.data.admin.ch/eli/oc/2023/741)
+
+<sup>1</sup> Les personnes qui ont commencé leur formation d’informaticien d’entreprise CFC avant le 1<sup>er</sup> janvier 2024 l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2029.
+
+<sup>2</sup> Les candidats qui répètent la procédure de qualification avec examen final d’informaticien d’entreprise CFC jusqu’au 31 décembre 2029 voient leurs prestations appréciées selon l’ancien droit.

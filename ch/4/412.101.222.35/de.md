@@ -3,18 +3,18 @@ sr: "412.101.222.35"
 title: Verordnung des SBFI vom 14. Mai 2021 über die berufliche Grundbildung Betriebsinformatikerin/Betriebsinformatiker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/302"
 language: de
-version: 2021-07-01
+version: 2024-01-01
 adopted: 2021-05-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/302/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2021-302-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/302/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/302/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-302-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/302/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Betriebsinformatikerin/Betriebsinformatiker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 14. Mai 2021 (Stand am 1. Juli 2021)
+vom 14. Mai 2021 (Stand am 1. Januar 2024)
 
 <table>
 <tr><td>88614</td><td>Betriebsinformatikerin EFZ / Betriebsinformatiker EFZ Informaticienne d’entreprise CFC / Informaticien d’entreprise CFC Informatica aziendale AFC / Informatico aziendale AFC</td></tr>
@@ -474,3 +474,13 @@ Sie hat insbesondere folgende Aufgaben:
 <sup>1</sup> Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Juli 2021 in Kraft.
 
 <sup>2</sup> Die Artikel 16–21 treten am 1. Januar 2025 in Kraft.
+
+## Übergangsbestimmungen zur Aufhebung vom 22. November 2023
+
+[^u1-1]
+
+[^u1-1]: [AS 2023 741](https://fedlex.data.admin.ch/eli/oc/2023/741)
+
+<sup>1</sup> Lernende, die ihre Ausbildung als Betriebsinformatikerin oder Betriebsinformatiker EFZ vor dem 1. Januar 2024 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2029 erfolgt.
+
+<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Betriebsinformatikerin oder Betriebsinformatiker EFZ bis zum 31. Dezember 2029 wiederholen, werden nach bisherigem Recht beurteilt.

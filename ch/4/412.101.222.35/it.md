@@ -3,18 +3,18 @@ sr: "412.101.222.35"
 title: Ordinanza della SEFRI del 14 maggio 2021 sulla formazione professionale di base Informatica aziendale / Informatico aziendale con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/302"
 language: it
-version: 2021-07-01
+version: 2024-01-01
 adopted: 2021-05-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/302/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2021-302-20210701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/302/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/302/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-302-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/302/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Informatica aziendale/Informatico aziendale con attestato federale di capacità (AFC)
 
-del 14 maggio 2021 (Stato 1° luglio 2021)
+del 14 maggio 2021 (Stato 1° gennaio 2024)
 
 <table>
 <tr><td>88614</td><td>Informatica aziendale AFC / Informatico aziendale AFC Informaticienne d’entreprise CFC / Informaticien d’entreprise CFC Betriebsinformatikerin EFZ / Betriebsinformatiker EFZ</td></tr>
@@ -22,7 +22,7 @@ del 14 maggio 2021 (Stato 1° luglio 2021)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 nove (Stato 1° gennaio 2024)mbre 2003[^ingress-2] sulla formazione professionale (OFPr),
 
 ordina:
 
@@ -226,7 +226,8 @@ Il piano di formazione:
 
 - b. precisa i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente;
 - c. determina quali competenze operative sono trasmesse e apprese in ciascun luogo di formazione.
-- [tab] <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
+
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
 [^9-1]: Il piano è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch/bvz/index.html?lang=it &gt; Professioni A–Z.
 
@@ -473,3 +474,13 @@ Essa svolge in particolare i compiti seguenti:
 <sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° luglio 2021.
 
 <sup>2</sup> Gli articoli da 16 a 21 entrano in vigore il 1° gennaio 2025.
+
+## Disposizioni transitorie dell’abrogazione del 22 novembre 2023
+
+[^u1-1]
+
+[^u1-1]: [RU 2023 741](https://fedlex.data.admin.ch/eli/oc/2023/741)
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di informatico aziendale AFC prima del 1° gennaio 2024 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2029.
+
+<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per informatico aziendale AFC entro il 31 dicembre 2029 sono valutati in base al diritto anteriore.
