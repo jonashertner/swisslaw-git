@@ -4,13 +4,13 @@ number: "152.051"
 title: Verordnung über die Gemeinderegistersysteme-Plattform
 short: GERES V
 language: de
-version: 2021-03-01
-valid_until: 2023-12-31
-version_adopted: 2021-01-20
+version: 2024-01-01
+valid_until: 2024-01-31
+version_adopted: 2023-10-25
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.051"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2142/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2890/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2142/pdf_file"
 
 (GERES V)
 
-vom 20.01.2021 (Stand 01.03.2021)
+vom 20.01.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -243,7 +243,7 @@ beschliesst:
 
 **Form und Geltungsbereich**
 
-<sup>1</sup> Die Direktionen und die Staatskanzlei regeln die Antrags- und Zugriffsrechte sowie den Zugriff via Systeme durch Direktionsverordnungen, die Justizleitung durch ein Reglement.
+<sup>1</sup> Die Direktionen und die Staatskanzlei regeln die Antrags- und Zugriffsrechte sowie den Zugriff via Systeme durch Direktionsverordnungen, die Justizverwaltungsleitung durch ein Reglement.
 
 <sup>2</sup> Die Berechtigungsregeln gelten für die folgenden Einheiten der erlassenden Behörde:
 

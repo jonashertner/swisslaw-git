@@ -4,13 +4,13 @@ number: "152.051"
 title: Ordonnance sur la plate-forme des systèmes des registres communaux
 short: O GERES
 language: fr
-version: 2021-03-01
-valid_until: 2023-12-31
-version_adopted: 2021-01-20
+version: 2024-01-01
+valid_until: 2024-01-31
+version_adopted: 2023-10-25
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.051"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2142/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2890/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2142/pdf_file"
 
 (O GERES)
 
-du 20.01.2021 (état au 01.03.2021)
+du 20.01.2021 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -243,7 +243,7 @@ arrête:
 
 **Forme et champ d'application**
 
-<sup>1</sup> Les Directions et la Chancellerie d'Etat règlent, par voie d'ordonnance de Direction, les droits à demander l’accès et les droits d’accès, ainsi que l'accès via des systèmes. La Direction de la magistrature les arrête par voie de règlement.
+<sup>1</sup> Les Directions et la Chancellerie d'Etat règlent, par voie d'ordonnance de Direction, les droits à demander l’accès et les droits d’accès, ainsi que l'accès via des systèmes. La Direction administrative de la magistrature les arrête par voie de règlement.
 
 <sup>2</sup> La réglementation des droits d'accès s'applique aux unités suivantes de l'autorité qui les édicte:
 
