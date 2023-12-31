@@ -4,7 +4,7 @@ number: "810.01.3"
 title: "RÈGLEMENT du 08.10.2008 précisant les conditions à remplir par les établissements sanitaires privés pour être reconnus d'intérêt public au sens de la loi du 5 décembre 1978 sur la planification et le financement des établissements sanitaires d'intérêt public (RCLPFES)"
 short: RCLPFES
 language: fr
-version: 2018-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01.3?id=dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c"
 ---
 
@@ -262,13 +262,21 @@ arrête
 
 [^chapterChapitreVI-1]: Modif. 1 du 11.11.2009: Modification Al. 2; entrée en vigueur au 01.01.2010
 
+#### Art. 16a
+
+**Dispositions transitoires de la modification du règlement du 6 mars 2024 [^16-1]**
+
+<sup>1</sup> Le maximum de la nouvelle catégorie (D4) du barème de rémunération des directeurs d'hôpitaux reconnus d'intérêt public ne peut être atteint au plus tôt que trois ans après son introduction. Au cas où une telle augmentation est accordée, elle est répartie progressivement et de manière égale chaque année.
+
+[^16-1]: Modif. 6 du 06.03.2024: Introduction Art. 16a; entrée en vigueur au 01.01.2024
+
 #### Art. 17
 
-**b) distribution du bénéfice [^16-1]**
+**b) distribution du bénéfice [^16a-1]**
 
 <sup>1</sup> Les règles sur la distribution du bénéfice réalisé mentionnées à l'article 11 sont applicables dès l'exercice 2010. Toute convention ou tout contrat de société contraire aux dispositions prévues par cet article doit être mis en conformité par les établissements au plus tard le 1er juillet 2010.
 
-[^16-1]: Modif. 1 du 11.11.2009: Modification Art. 17; entrée en vigueur au 01.01.2010
+[^16a-1]: Modif. 1 du 11.11.2009: Modification Art. 17; entrée en vigueur au 01.01.2010
 
 #### Art. 18
 
@@ -280,19 +288,19 @@ Annexes [^18-1]
 
 1
 
-[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/1?dmev=01.01.2018)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/1?dmev=01.01.2024)
 
 2
 
-[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/2?dmev=01.01.2018)
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/2?dmev=01.01.2024)
 
 3
 
-[Annexe III Révision réglement\_v2](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/3?dmev=01.01.2018)
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/3?dmev=01.01.2024)
 
 4
 
-[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/4?dmev=01.01.2018)
+[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/dc3c3a00-9f3b-4145-a1f0-a032e63c3b3c/annexes/4?dmev=01.01.2024)
 
 [^17-1]: Modif. 1 du 11.11.2009: Modification Art. 18; entrée en vigueur au 01.01.2010
-[^18-1]: Modif. 2 du 06.03.2013: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2013 · Modif. 3 du 08.07.2015: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2016 · Modif. 6 du 06.03.2024: Introduction Art. 16a; entrée en vigueur au 01.01.2024; Modification Annexes, Ann. 1-3; entrée en vigueur au 01.01.2024 · Modif. 7 du 15.09.2025: Modification Annexes, Ann. 1,3; entrée en vigueur au 01.01.2025
+[^18-1]: Modif. 2 du 06.03.2013: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2013 · Modif. 3 du 08.07.2015: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2016 · Modif. 6 du 06.03.2024: Modification Annexes, Ann. 1-3; entrée en vigueur au 01.01.2024 · Modif. 7 du 15.09.2025: Modification Annexes, Ann. 1,3; entrée en vigueur au 01.01.2025
