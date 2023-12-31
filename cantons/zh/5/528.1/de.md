@@ -4,11 +4,11 @@ number: "528.1"
 title: Verordnung über den ABC-Schutz (ABCV)
 short: ABCV
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2025-06-01
 adopted: 2025-02-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-528_1-2007_02_28-2007_04_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-528_1-2007_02_28-2007_04_01-123.html"
 text: pdf
 ---
 
@@ -58,7 +58,7 @@ b.[^2-1] A-Ereignis Ereignis mit tatsächlicher oder vermeintlicher Freisetzung 
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 24 - 123
 
 - c. B-Ereignis Ereignis mit tatsächlicher oder vermeintlicher Freisetzung von gentechnisch veränderten oder pathogenen Organismen, dessen Auswirkungen durch die direkt Betroffenen nicht bewältigt werden können;
 
@@ -133,7 +133,7 @@ d.[^2-1] C-Ereignis Ereignis mit tatsächlicher oder vermeintlicher Freisetzung 
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 24 - 123
 
 <sup>6</sup> Die Partnerorganisationen können mit Privaten Verträge über die Bereitstellung von Mannschaften, Maschinen, Transportfahrzeugen und Material für den jederzeitigen Einsatz bei A-, B- oder C-Ereignissen abschliessen.
 
@@ -227,7 +227,7 @@ Die GVZ kann mit Privaten, gemischtwirtschaftlichen Unternehmen sowie öffentlic
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 24 - 123
 
 ### B. A-Schutz
 
@@ -326,7 +326,7 @@ Die Stützpunkt-, Berufs- und Betriebsfeuerwehren a. bereiten Einsätze für die
 
 **7**
 
-- 1\. 1. 22 - 115 § 26. Das AWEL
+- 1\. 1. 24 - 123 § 26. Das AWEL
 
 **Aufgaben des AWEL**
 
@@ -346,10 +346,11 @@ Die Stützpunkt-, Berufs- und Betriebsfeuerwehren a. bereiten Einsätze für die
 
 - i. stellt bei Gefährdung durch Organismen die Überwachung (Monitoring) sicher,
 
-- j. arbeitet zum Schutz der Einsatzkräfte vor Gefährdung durch Mikroorganismen mit dem Amt für Wirtschaft und Arbeit zusammen.
+- j. arbeitet zum Schutz der Einsatzkräfte vor Gefährdung durch Mikroorganismen mit dem Amt für Wirtschaft[^25-3] zusammen.
 
 [^25-1]: Fassung gemäss Berichtigung vom 28. März 2007 (OS 62, 95).
 [^25-2]: SR 814.912.
+[^25-3]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 548; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
 
 #### § 27
 
@@ -429,7 +430,7 @@ Die Einsatzkräfte für die Bewältigung von C-Ereignissen werden gebildet aus:
 
 **9**
 
-- 1\. 1. 22 - 115 § 34. Die Stützpunkt-, Berufs- und Betriebsfeuerwehren bereiten Einsätze für die Bewältigung von C-Ereignissen vor und bewältigen C-Ereignisse in dem ihnen von der GVZ zugewiesenen Einsatzgebiet.
+- 1\. 1. 24 - 123 § 34. Die Stützpunkt-, Berufs- und Betriebsfeuerwehren bereiten Einsätze für die Bewältigung von C-Ereignissen vor und bewältigen C-Ereignisse in dem ihnen von der GVZ zugewiesenen Einsatzgebiet.
 
 #### § 35
 
@@ -516,7 +517,7 @@ Die Vorbereitung von Einsätzen bei C-Ereignissen und die Bewältigung von C-Ere
 
 **11**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 24 - 123
 
 [^41-1]: SR 814.012.
 
