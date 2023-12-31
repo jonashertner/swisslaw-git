@@ -4,11 +4,11 @@ title: "Ordinanza del 29 novembre 1995 sul rimborso dei contributi pagati da str
 short: OR-AVS
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/688_688_688"
 language: it
-version: 2003-01-01
+version: 2024-01-01
 adopted: 1995-11-29
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/688_688_688/20030101/it/xml/fedlex-data-admin-ch-eli-cc-1996-688_688_688-20030101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20030101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/688_688_688/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1996-688_688_688-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20030101/it"
 
 (OR-AVS)[^t-1]
 
-del 29 novembre 1995 (Stato 1° gennaio 2003)
+del 29 novembre 1995 (Stato 1° gennaio 2024)
 
 [^t-1]: [RU 1996 1532](https://fedlex.data.admin.ch/eli/oc/1996/1532_1532_1532)
 
@@ -29,7 +29,7 @@ ordina:
 
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^ingress-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572))
+[^ingress-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
 
 #### Art. 1
 
@@ -63,21 +63,22 @@ In caso di decesso il diritto al rimborso spetta alla vedova o al vedovo. Qualor
 
 <sup>2</sup> Nei casi di cui all’articolo 29<sup>quinquies</sup> capoverso 3 lettera c LAVS, la domanda di rimborso dà luogo a una ripartizione dei redditi. Determinanti per la fissazione dell’importo rimborsabile sono i contributi conteggiati in base alla ripartizione dei redditi.[^4-2]
 
-<sup>3</sup> I contributi versati dagli stranieri dopo il compimento dell’età ordinaria di pensionamento non vengono rimborsati. Le rendite già percepite sono dedotte dall’ammontare del rimborso.
+<sup>3</sup> I contributi versati dagli stranieri dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS che avrebbero comportato un aumento della rendita di vecchiaia vengono rimborsati. Le rendite già percepite sono dedotte dall’ammontare del rimborso.[^4-3]
 
 <sup>4</sup> Il rimborso può essere rifiutato qualora superi il valore attuale delle prestazioni future dell’AVS che potrebbero spettare ad una persona che ha diritto a una rendita e si trova nella stessa situazione.
 
-<sup>5</sup> I contributi versati dall’ente pubblico agli stranieri non sono rimborsati. Essi saranno restituiti su richiesta all’ente pubblico.[^4-3]
+<sup>5</sup> I contributi versati dall’ente pubblico agli stranieri non sono rimborsati. Essi saranno restituiti su richiesta all’ente pubblico.[^4-4]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 20 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3344](https://fedlex.data.admin.ch/eli/oc/2002/503)).
-[^4-3]: Introdotto dal n. I dell’O del 16 set. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2764](https://fedlex.data.admin.ch/eli/oc/1996/2764_2764_2764))
+[^4-3]: Nuovo testo giusta l’all. n. 3 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^4-4]: Introdotto dal n. I dell’O del 16 set. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2764](https://fedlex.data.admin.ch/eli/oc/1996/2764_2764_2764)).
 
 #### Art. 5
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I dell’O del 20 set. 2002 ([RU 2002 3344](https://fedlex.data.admin.ch/eli/oc/2002/503)).
+[^5-1]: Abrogato dal n. I dell’O del 20 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3344](https://fedlex.data.admin.ch/eli/oc/2002/503)).
 
 #### Art. 6
 
@@ -116,7 +117,7 @@ Il diritto al rimborso si estingue con la morte dell’avente diritto. Si prescr
 
 L’ordinanza del 14 marzo 1952[^9-1] sul rimborso dei contributi pagati da stranieri all’assicurazione per la vecchiaia e i superstiti è abrogata.
 
-[^9-1]: [[RU 1952 289](https://fedlex.data.admin.ch/eli/oc/1952/281_285_289); [1957 431](https://fedlex.data.admin.ch/eli/oc/1957/414_415_431); [1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)n. IV; [1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)n. II 5; [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. p.]
+[^9-1]: [[RU 1952 289](https://fedlex.data.admin.ch/eli/oc/1952/281_285_289), [1957 431](https://fedlex.data.admin.ch/eli/oc/1957/414_415_431), [1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)n. IV, [1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)n. II 5, [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. p.]
 
 #### Art. 10
 

@@ -4,11 +4,11 @@ title: Verordnung vom 29. November 1995 über die Rückvergütung der von Auslä
 short: RV-AHV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/688_688_688"
 language: de
-version: 2003-01-01
+version: 2024-01-01
 adopted: 1995-11-29
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/688_688_688/20030101/de/xml/fedlex-data-admin-ch-eli-cc-1996-688_688_688-20030101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20030101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/688_688_688/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1996-688_688_688-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20030101/de"
 
 (RV-AHV)[^t-1]
 
-vom 29. November 1995 (Stand am 1. Januar 2003)
+vom 29. November 1995 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
 
@@ -65,21 +65,22 @@ Der Anspruch auf die Rückvergütung im Todesfall steht der Witwe oder dem Witwe
 
 <sup>2</sup> Der Antrag auf Rückvergütung löst in den Fällen von Artikel 29<sup>quinquies</sup> Absatz 3 Buchstabe c AHVG eine Einkommensteilung aus. Für die Festsetzung des Rückvergütungsbetrages sind die aufgrund der Einkommensteilung angerechneten Beiträge massgeblich.[^4-2]
 
-<sup>3</sup> Nicht rückvergütet werden die von den Ausländern nach Vollendung des ordentlichen AHV-Rentenalters entrichteten Beiträge. Bereits bezogene Renten sind vom Rückvergütungsbetrag abzuziehen.
+<sup>3</sup> Von Ausländern nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG entrichtete Beiträge, die zu einer Erhöhung der Altersrente geführt hätten, werden rückvergütet. Bereits bezogene Renten sind vom Rückvergütungsbetrag abzuziehen.[^4-3]
 
 <sup>4</sup> Die Rückvergütung kann verweigert werden, soweit sie den Barwert der zukünftigen AHV-Leistungen übersteigt, die einem Rentenberechtigten in gleichen Verhältnissen zukäme.
 
-<sup>5</sup> Beiträge, die vom Gemeinwesen für den Ausländer bezahlt wurden, werden nicht rückvergütet. Sie werden auf Antrag dem Gemeinwesen zurückerstattet.[^4-3]
+<sup>5</sup> Beiträge, die vom Gemeinwesen für den Ausländer bezahlt wurden, werden nicht rückvergütet. Sie werden auf Antrag dem Gemeinwesen zurückerstattet.[^4-4]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 20. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3344](https://fedlex.data.admin.ch/eli/oc/2002/503)).
-[^4-3]: Eingefügt durch Ziff. I der V vom 16. Sept. **1996**, in Kraft seit 1. Jan. 1997 ([AS 1996 2764](https://fedlex.data.admin.ch/eli/oc/1996/2764_2764_2764)).
+[^4-3]: Fassung gemäss Anhang Ziff. 3 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 16. Sept. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2764](https://fedlex.data.admin.ch/eli/oc/1996/2764_2764_2764)).
 
 #### Art. 5
 
 [^5-1]
 
-[^5-1]: Aufgehoben durch Ziff. I der V vom 20. Sept. 2002 ([AS 2002 3344](https://fedlex.data.admin.ch/eli/oc/2002/503)).
+[^5-1]: Aufgehoben durch Ziff. I der V vom 20. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3344](https://fedlex.data.admin.ch/eli/oc/2002/503)).
 
 #### Art. 6
 

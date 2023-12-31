@@ -4,30 +4,30 @@ title: "Ordonnance du 29 novembre 1995 sur le remboursement aux étrangers des c
 short: OR-AVS
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/688_688_688"
 language: fr
-version: 2003-01-01
+version: 2024-01-01
 adopted: 1995-11-29
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/688_688_688/20030101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-688_688_688-20030101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20030101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/688_688_688/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-688_688_688-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/688_688_688/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur le remboursement aux étrangers des cotisations versées à l’assurance‑vieillesse et survivants
+# Ordonnance sur le remboursement aux étrangers des cotisations versées à l’assurance-vieillesse et survivants
 
 (OR–AVS)
 
-du 29 novembre 1995 (État le 1<sup>er</sup> janvier 2003)
+du 29 novembre 1995 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^ingress-1], vu l’art. 154, al. 2, de la loi fédérale du 20 décembre 1946 sur l’assurance‑vieillesse et survivants[^ingress-2] (LAVS),[^ingress-3]
+vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^ingress-1], vu l’art. 154, al. 2, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^ingress-2] (LAVS),[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^ingress-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l'O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
 
 #### Art. 1
 
@@ -61,15 +61,16 @@ Le droit au remboursement en cas de décès appartient à la veuve ou au veuf. S
 
 <sup>2</sup> La demande de remboursement déclenche la procédure de partage des revenus dans les cas prévus à l’art. 29<sup>quinquies</sup>, al. 3, let. c, LAVS. Les cotisations portées en compte suite au partage des revenus sont déterminantes pour la fixation du montant remboursable.[^4-2]
 
-<sup>3</sup> Les cotisations versées par les étrangers après l’accomplissement de l’âge ordinaire de la retraite ne sont pas remboursées. Les rentes qui ont déjà été perçues sont déduites du montant remboursable.
+<sup>3</sup> Les cotisations versées par les étrangers après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS et qui auraient conduit à une augmentation de la rente de vieillesse sont remboursées. Les rentes déjà perçues sont déduites du montant remboursable.[^4-3]
 
 <sup>4</sup> Le remboursement peut être refusé dans la mesure où il dépasse la valeur actuelle des futures prestations de l’AVS qui reviendraient à une personne ayant droit à une rente, placée dans les mêmes circonstances.
 
-<sup>5</sup> Les cotisations versées par la collectivité publique en faveur des étrangers ne sont pas remboursées. Elles sont restituées à la collectivité publique sur présentation d’une demande.[^4-3]
+<sup>5</sup> Les cotisations versées par la collectivité publique en faveur des étrangers ne sont pas remboursées. Elles sont restituées à la collectivité publique sur présentation d’une demande.[^4-4]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3717](https://fedlex.data.admin.ch/eli/oc/2002/572)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3344](https://fedlex.data.admin.ch/eli/oc/2002/503)).
-[^4-3]: Introduit par le ch. I de l’O du 16 sept. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2764](https://fedlex.data.admin.ch/eli/oc/1996/2764_2764_2764)).
+[^4-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^4-4]: Introduit par le ch. I de l’O du 16 sept. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2764](https://fedlex.data.admin.ch/eli/oc/1996/2764_2764_2764)).
 
 #### Art. 5
 
