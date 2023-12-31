@@ -4,13 +4,12 @@ number: "600"
 title: Gesetz über die Steuerung der Finanzen und Leistungen
 short: FLG
 language: de
-version: 2023-09-01
-valid_until: 2023-12-31
-version_adopted: 2023-06-19
+version: 2024-01-01
+version_adopted: 2020-10-26
 adopted: 2010-09-13
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/600"
-pdf: "https://srl.lu.ch/api/de/versions/4160/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4807/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4160/pdf_file"
 
 (FLG)
 
-vom 13.09.2010 (Stand 01.09.2023)
+vom 13.09.2010 (Stand 01.01.2024)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -206,7 +205,7 @@ beschliesst:
 - a. einen politischen Leistungsauftrag und
 - b. je einen Voranschlagskredit in der Erfolgsrechnung und in der Investitionsrechnung.
 
-<sup>2</sup> DieVoranschlagskredite der Erfolgsrechnung werden als Saldo des Aufwandes und des Ertrags festgesetzt (Globalbudget). Aufwand und Ertrag werden separat ausgewiesen.
+<sup>2</sup> Die Voranschlagskredite der Erfolgsrechnung werden als Saldo des Aufwandes und des Ertrags festgesetzt (Globalbudget). Aufwand und Ertrag werden separat ausgewiesen.
 
 <sup>3</sup> Die Voranschlagskredite der Investitionsrechnung werden als Saldo der Investitionsausgaben und der Investitionseinnahmen festgesetzt (Globalbudget). Die Investitionsausgaben und die Investitionseinnahmen werden separat ausgewiesen.
 
@@ -652,7 +651,8 @@ Genehmigung zu unterbreiten.
 - c. die Luzerner Kantonsspital Gruppe,
 - d. die Luzerner Psychiatrie AG,
 - e. den Verkehrsverbund Luzern,
-- f. die Pädagogische Hochschule Luzern.
+- f. die Pädagogische Hochschule Luzern,
+- g. die Immobilien Campus Luzern-Horw AG.
 
 <sup>2</sup> Auf die Konsolidierung einer Organisation kann verzichtet werden, wenn durch deren Besonderheiten die Transparenz, Übersichtlichkeit oder Aussagekraft der konsolidierten Rechnung beeinträchtigt würde.
 
