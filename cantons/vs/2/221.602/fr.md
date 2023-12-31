@@ -3,20 +3,20 @@ canton: VS
 number: "221.602"
 title: "Arrêté édictant un contrat-type de travail pour le personnel au service de l'économie domestique"
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-08
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-06
 adopted: 2021-04-14
 in_force: 2021-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/221.602"
-pdf: "https://lex.vs.ch/api/fr/versions/3193/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3298/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté édictant un contrat-type de travail pour le personnel au service de l'économie domestique
 
-du 14.04.2021 (état 01.01.2023)
+du 14.04.2021 (état 01.01.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -212,10 +212,10 @@ arrête:
 
 <sup>4</sup> Les salaires horaires minimum bruts, sans suppléments, sont fixés comme suit:
 
-- a) employé non qualifié — Fr. 19.50
-- b) employé non qualifié avec au moins 4 années d'expérience professionnelle dans l'économie domestique — Fr. 21.40
-- c) employé qualifié avec AFP — Fr. 21.40
-- d) employé qualifié avec CFC — Fr. 23.55
+- a) employé non qualifié — Fr. 19.95
+- b) employé non qualifié avec au moins 4 années d'expérience professionnelle dans l'économie domestique — Fr. 21.85
+- c) employé qualifié avec AFP — Fr. 21.85
+- d) employé qualifié avec CFC — Fr. 24.05
 
 <sup>5</sup> Sont considérés comme employés qualifiés les travailleurs:
 
