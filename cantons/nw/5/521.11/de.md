@@ -1,29 +1,29 @@
 ---
 canton: NW
 number: "521.11"
-title: Vollzugsverordnung zum Gesetz über die Steuern des Kantons und der Gemeinden
+title: Verordnung zum Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuerverordnung, StV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-13
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-14
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1085/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1292/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Gesetz über die Steuern des Kantons und der Gemeinden
+# Verordnung zum Gesetz über die Steuern des Kantons und der Gemeinden
 
 (Steuerverordnung, StV)
 
-vom 19.12.2000 (Stand 01.01.2023)
+vom 19.12.2000 (Stand 01.01.2024)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 281 des Gesetzes vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (Steuergesetz)[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 281 des Gesetzes vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (Steuergesetz, StG)[^ingress-1],
 
 beschliesst:
 
@@ -728,7 +728,7 @@ beschliesst:
 
 **…**
 
-### 3.4 Vereinfachtes Abrechnungsverfahren gemäss Art. 42a des Steuergesetzes,
+### 3.4 Vereinfachtes Abrechnungsverfahren gemäss Art. 42a des Steuergesetzes
 
 [^6667-1]
 
@@ -1291,11 +1291,11 @@ beschliesst:
 
 **Zinssätze**
 
-<sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4 Prozent.
+<sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4.75 Prozent.
 
-<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 0.1 Prozent.
+<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 1.00 Prozent.
 
-<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 0.1 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
+<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 1.00 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
 
 ### A1.9 Quellensteuern
 
