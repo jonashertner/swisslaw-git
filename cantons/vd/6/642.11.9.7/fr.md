@@ -4,7 +4,7 @@ number: "642.11.9.7"
 title: "RÈGLEMENT du 14.12.2016 sur le dépôt de la déclaration d'impôt des personnes physiques et des personnes morales, en particulier par voie électronique (RDVE)"
 short: RDVE
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11.9.7?id=bbeb7413-0c92-4516-8691-1f181cb11a4d"
 ---
 
@@ -82,7 +82,7 @@ arrête
 
 <sup>2</sup> A défaut d'utiliser les moyens électroniques, l'employeur peut remplir la formule officielle de manière manuscrite.
 
-<sup>3</sup> L'employeur envoie au contribuable un unique exemplaire du certificat de salaire par courrier.
+<sup>3</sup> L'employeur met à disposition du contribuable un unique exemplaire du certificat de salaire.
 
 <sup>4</sup> Il fait parvenir une copie du certificat de salaire à l'autorité fiscale, par transfert de fichier électronique selon les formats fixés par l'ACI ou sous forme d'une copie papier.
 
