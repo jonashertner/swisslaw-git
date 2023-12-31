@@ -4,11 +4,11 @@ title: "Ordonnance du 13 décembre 1999 concernant la procédure d'approbation d
 short: OAPCM
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/15"
 language: fr
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1999-12-13
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-15-20210101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-15-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20210101/fr"
 
 (Ordonnance concernant l’approbation des plans de constructions militaires, OAPCM)
 
-du 13 décembre 1999 (Etat le 1<sup>er</sup> janvier 2021)
+du 13 décembre 1999 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -307,13 +307,13 @@ L’autorité d’approbation soumet au requérant les prises de position, les o
 
 <sup>2</sup> Les adaptations majeures de projets durant la procédure d’approbation doivent être soumises aux personnes concernées avant la prise de décision portant sur l’approbation des plans.
 
-## Chapitre 4**** Procédure d’expropriation
+## Chapitre 4 Procédure d’expropriation
 
 [^chap4-1]
 
 [^chap4-1]: Nouvelle teneur selon le ch. I 2 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
-## Section 1 Procédure combinée d’expropriation
+### Section 1 Procédure combinée d’expropriation
 
 #### Art. 23
 
@@ -412,12 +412,13 @@ Les adaptations ultérieures du projet doivent être soumises à l’autorité d
 
 #### Art. 32a
 
-**Mise à jour de la mensuration officielle[^32a-2]**[^32a-1]
+**Annonces au service cantonal du cadastre**[^32a-1]
 
-Le service compétent du DDPS informe dans un délai de 30 jours après la fin des travaux de construction le service cantonal chargé de la surveillance de la mensuration officielle de toute modification rendant nécessaire une mise à jour de la mensuration officielle.
+<sup>1</sup> L’autorité d’approbation informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
 
-[^32a-1]: Introduit par l’annexe ch. 2 de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^32a-2]: Nouvelle teneur selon le ch. I 2 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+<sup>2</sup> Le maître d’ouvrage informe le service cantonal du cadastre, dans un délai de 20 jours après la fin des travaux de construction, de toute modification de ses constructions et installations rendant nécessaire une mise à jour de la mensuration officielle.
+
+[^32a-1]: Introduit par l’annexe ch. 2 de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Chapitre 6 Dispositions finales
 

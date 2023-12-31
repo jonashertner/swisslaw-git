@@ -4,11 +4,11 @@ title: "Ordinanza del 13 dicembre 1999 concernente la procedura di approvazione 
 short: OAPCM
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/15"
 language: it
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1999-12-13
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2000-15-20210101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2000-15-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20210101/it"
 
 (Ordinanza concernente l’approvazione dei piani di costruzioni militari, OAPCM)
 
-del 13 dicembre 1999 (Stato 1° gennaio 2021)
+del 13 dicembre 1999 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -51,7 +51,7 @@ Si tratta segnatamente di costruzioni e di impianti che:
 
 La Segreteria generale del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) è competente per lo svolgimento della procedura di approvazione dei piani militari.
 
-[^2-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 (RU **202****0** 3995).
+[^2-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 3
 
@@ -307,7 +307,7 @@ L’autorità competente per l’approvazione dei piani sottopone al richiedente
 
 <sup>2</sup> Gli adattamenti importanti del progetto durante la procedura di approvazione dei piani devono essere annunciati agli interessati prima della decisione di approvazione dei piani.
 
-## Capitolo 4:**** Procedura di espropriazione
+## Capitolo 4: Procedura di espropriazione
 
 [^chap4-1]
 
@@ -412,12 +412,13 @@ Gli adattamenti ulteriori del progetto devono essere sottoposti all’autorità 
 
 #### Art. 32a
 
-**Aggiornamento della misurazione ufficiale[^32a-2]**[^32a-1]
+**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^32a-1]
 
-L’organo competente del DDPS informa entro 30 giorni dalla conclusione dei lavori il servizio cantonale competente per la vigilanza sulla misurazione ufficiale in merito a modifiche che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+<sup>1</sup> L’autorità competente per l’approvazione dei piani informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura di approvazione dei piani.
 
-[^32a-1]: Introdotto dal n. 2 dell’all. all’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^32a-2]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+<sup>2</sup> Il committente informa entro 20 giorni dalla conclusione dei lavori il servizio cantonale di vigilanza sulle misurazioni in merito a modifiche delle proprie costruzioni e dei propri impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+
+[^32a-1]: Introdotto dall’all. n. 2 all’O del 21 mag. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nuovo testo giusta l’all. n. 4 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Capitolo 6: Disposizioni finali
 
@@ -431,11 +432,17 @@ L’ordinanza del 25 settembre 1995[^33-1] concernente la procedura d’autorizz
 
 #### Art. 34
 
-**Disposizione transitoria della modifica del 19 agosto 2020**[^34-1]
+**Disposizione transitoria**
+
+Alle fasi delle procedure in sospeso al momento dell’entrata in vigore della presente ordinanza è applicabile il nuovo diritto, se esse sono necessarie secondo il vecchio diritto, ma non hanno ancora avuto inizio.
+
+#### Art. 34a
+
+**Disposizione transitoria della modifica del 19 agosto 2020**[^34a-1]
 
 Le procedure di espropriazione avviate prima dell’entrata in vigore della presente modifica e ancora pendenti sono concluse conformemente al diritto previgente.
 
-[^34-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^34a-1]: Introdotto dal n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 35
 

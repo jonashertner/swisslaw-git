@@ -4,11 +4,11 @@ title: "Verordnung vom 13. Dezember 1999 über das Plangenehmigungsverfahren fü
 short: MPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/15"
 language: de
-version: 2021-01-01
+version: 2024-01-01
 adopted: 1999-12-13
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2000-15-20210101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2000-15-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20210101/de"
 
 (Militärische Plangenehmigungsverordnung, MPV)
 
-vom 13. Dezember 1999 (Stand am 1. Januar 2021)
+vom 13. Dezember 1999 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -307,7 +307,7 @@ Die Genehmigungsbehörde unterbreitet dem Gesuchsteller die Stellungnahmen und E
 
 <sup>2</sup> Wesentliche Projektanpassungen während des Genehmigungsverfahrens sind den Betroffenen vor dem Plangenehmigungsentscheid anzuzeigen.
 
-## 4. Kapitel:**** Enteignungsverfahren
+## 4. Kapitel: Enteignungsverfahren
 
 [^chap4-1]
 
@@ -412,12 +412,13 @@ Nachträgliche Projektanpassungen sind der Genehmigungsbehörde anzuzeigen. Bei 
 
 #### Art. 32a
 
-**Nachführung der amtlichen Vermessung[^32a-2]**[^32a-1]
+**Meldungen an die kantonale Vermessungsaufsicht**[^32a-1]
 
-Die zuständige Stelle des VBS orientiert die für die Aufsicht über die amtliche Vermessung zuständige kantonale Stelle innert 30 Tagen nach Abschluss der Bauarbeiten über Veränderungen, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>1</sup> Die Genehmigungsbehörde informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
 
-[^32a-1]: Eingefügt gemäss Anhang Ziff. 2 der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^32a-2]: Fassung gemäss Ziff. I 2 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+<sup>2</sup> Die Bauherrschaft informiert die kantonale Vermessungsaufsicht innert 20 Tagen nach Abschluss der Bauarbeiten über Änderungen ihrer Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung notwendig machen.
+
+[^32a-1]: Eingefügt gemäss Anhang Ziff. 2 der V vom 21. Mai 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Fassung gemäss Anhang Ziff. 4 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## 6. Kapitel: Schlussbestimmungen
 
