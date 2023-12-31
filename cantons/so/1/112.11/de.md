@@ -4,13 +4,12 @@ number: "112.11"
 title: Gesetz über das Kantons- und Gemeindebürgerrecht
 short: Bürgerrechtsgesetz
 language: de
-version: 2018-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-05-10
+version: 2024-01-01
+version_adopted: 2022-09-07
 adopted: 1993-06-06
 in_force: 1994-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/112.11"
-pdf: "https://bgs.so.ch/api/de/versions/4758/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5311/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4758/pdf_file"
 
 (Bürgerrechtsgesetz)
 
-Vom 06.06.1993 (Stand 01.01.2018)
+Vom 06.06.1993 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -55,7 +54,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Erwerb und Verlust des Kantons- und des Gemeindebürgerrechtes von Gesetzes wegen richten sich nach dem eidgenössischen Bürgerrechtsgesetz vom 20. Juni 2014 (BüG)[^3-1], nach dem Schweizerischen Zivilgesetzbuch[^3-2] und nach diesem Gesetz.
+<sup>1</sup> Erwerb und Verlust des Kantons- und des Gemeindebürgerrechtes von Gesetzes wegen richten sich nach dem Bundesgesetz über das Schweizer Bürgerrecht vom 20. Juni 2014 (BüG)[^3-1], nach dem Schweizerischen Zivilgesetzbuch[^3-2] und nach diesem Gesetz.
 
 [^3-1]: SR [141.0](https://db.clex.ch/link/Bund/141.0/de).
 [^3-2]: SR [210](https://db.clex.ch/link/Bund/210/de).
@@ -122,9 +121,9 @@ beschliesst:
 
 #### § 11
 
-**Aufnahmevoraussetzungen a) Wohnsitzerfordernis**
+**Aufnahmevoraussetzungen a) Niederlassungserfordernis**
 
-<sup>1</sup> Schweizer Bürger und Bürgerinnen können ein Gesuch um Aufnahme in das Kantonsbürgerrecht stellen, wenn sie zwei Jahre im Kanton Wohnsitz hatten.
+<sup>1</sup> Schweizer Bürger und Bürgerinnen können ein Gesuch um Aufnahme in das Kantonsbürgerrecht stellen, wenn sie zwei Jahre im Kanton Niederlassung hatten.
 
 #### § 12
 
@@ -146,20 +145,20 @@ beschliesst:
 
 #### § 14
 
-**Aufnahmevoraussetzungen a) Wohnsitzerfordernis**
+**Aufnahmevoraussetzungen a) Niederlassungserfordernis**
 
-<sup>1</sup> Ausländische Staatsangehörige können ein Gesuch um Aufnahme in das Kantonsbürgerrecht stellen, wenn sie mindestens vier Jahre im Kanton Wohnsitz hatten, wovon zwei Jahre unmittelbar vor der Gesuchstellung.
+<sup>1</sup> Ausländische Staatsangehörige können ein Gesuch um Aufnahme in das Kantonsbürgerrecht stellen, wenn sie mindestens vier Jahre im Kanton Niederlassung (Hauptwohnsitz) hatten, wovon zwei Jahre unmittelbar vor der Gesuchstellung.
 
 <sup>2</sup> Für die Frist von vier Jahren wird die Zeit, während welcher der Bewerber oder die Bewerberin zwischen dem vollendeten 8. und 18. Altersjahr im Kanton gelebt hat, doppelt gerechnet.
 
 <sup>3</sup> Ist der Bewerber oder die Bewerberin eine eingetragene Partnerschaft mit einem Schweizer Bürger oder einer Schweizer Bürgerin eingegangen, so muss sie oder er bei der Gesuchstellung nachweisen, dass er oder sie:
 
-- a) insgesamt während zwei Jahren im Kanton Solothurn Wohnsitz hatte, wovon mindestens ein Jahr vor der Gesuchstellung; und
+- a) insgesamt während zwei Jahren im Kanton Solothurn Niederlassung hatte, wovon mindestens ein Jahr vor der Gesuchstellung; und
 - b) seit drei Jahren mit dieser Person in eingetragener Partnerschaft lebt.
 
 <sup>3<sup>bis</sup></sup> Die kürzere Frist nach Absatz 3 Buchstabe a gilt auch für den Fall, dass einer der beiden Partner oder eine der beiden Partnerinnen das Schweizer Bürgerrecht nach der Eintragung der Partnerschaft durch eine Wiedereinbürgerung oder durch eine erleichterte Einbürgerung aufgrund der Abstammung von einem schweizerischen Elternteil erwirbt.
 
-<sup>4</sup> Der Wohnsitz in der Schweiz gilt bei der Abreise ins Ausland als aufgegeben, wenn der Ausländer oder die Ausländerin sich bei der zuständigen Behörde abmeldet oder während mehr als sechs Monaten tatsächlich im Ausland lebt. Der Aufenthalt im Ausland oder in einem anderen Kanton für höchstens ein Jahr im Auftrag des Arbeitgebers oder zu Aus- oder Weiterbildungszwecken mit der Absicht auf Rückkehr unterbricht den Wohnsitz jedoch nicht.
+<sup>4</sup> Die Niederlassung in der Schweiz gilt bei der Abreise ins Ausland als aufgegeben, wenn der Ausländer oder die Ausländerin sich bei der zuständigen Behörde abmeldet oder während mehr als sechs Monaten tatsächlich im Ausland lebt. Der Aufenthalt im Ausland oder in einem anderen Kanton für höchstens ein Jahr im Auftrag des Arbeitgebers oder zu Aus- oder Weiterbildungszwecken mit der Absicht auf Rückkehr unterbricht die Niederlassung jedoch nicht.
 
 #### § 15
 
@@ -212,9 +211,9 @@ beschliesst:
 
 #### § 18
 
-**Wohnsitzerfordernis**
+**Niederlassungserfordernis**
 
-<sup>1</sup> Wer zwei Jahre in der Gemeinde Wohnsitz hat, kann ein Gesuch um Einbürgerung stellen, sofern die eidgenössischen und kantonalen Einbürgerungsvoraussetzungen erfüllt sind.
+<sup>1</sup> Wer zwei Jahre in der Gemeinde Niederlassung hat, kann ein Gesuch um Einbürgerung stellen, sofern die eidgenössischen und kantonalen Einbürgerungsvoraussetzungen erfüllt sind.
 
 #### § 19
 
@@ -310,7 +309,7 @@ beschliesst:
 <sup>2</sup> Den Stimmberechtigten sind die folgenden Daten bekannt zu geben:
 
 - a) Staatsangehörigkeit;
-- b) Wohnsitzdauer;
+- b) Dauer der Niederlassung;
 - c) Angaben, die zur Beurteilung der Einbürgerungsvoraussetzungen, insbesondere der Integration in die schweizerischen Verhältnisse erforderlich sind.
 
 <sup>3</sup> Der Regierungsrat kann die Einzelheiten in der Verordnung regeln.
