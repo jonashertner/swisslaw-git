@@ -4,24 +4,23 @@ number: "164.410"
 title: Verordnung betreffend Zulagen gemäss § 15a Lohngesetz
 short: Zulagenverordnung
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+version_adopted: 2024-02-06
 adopted: 2013-12-03
 in_force: 2014-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5797/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6141/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend Zulagen gemäss § 15a Lohngesetz
 
-Zulagenverordnung | Staatspersonal: Lohn und Entschädigungen
+Lohn und Entschädigungen
 
 (Zulagenverordnung)
 
-Vom 3. Dezember 2013 (Stand 1. Januar 2023)
+Vom 3. Dezember 2013 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -142,17 +141,21 @@ beschliesst:
 
 #### § 12
 
-**Vereinszulage**
+**Zulagen für Vereinsdienst**
 
-<sup>1</sup> Mitarbeitende, die Hauswartsfunktionen inne haben, werden für die ausserhalb des ordentlichen Schulbetriebs geleistete Arbeit (insbesondere Schliessdienst, Kontrollgänge und Reinigung), die durch die Benutzung der Anlagen durch Vereine oder sonstige Dritte entsteht (Semesterbelegungen), mit einer Zulage entschädigt.
+<sup>1</sup> Mitarbeitende, die Hauswartsfunktionen inne haben, werden für die ausserhalb des ordentlichen Schulbetriebs geleistete Vereinshauswartung (insbesondere Schliessdienst, Kontrollgänge und Reinigung), die durch die Benutzung der Anlagen durch Vereine oder sonstige Dritte entsteht, mit einer Zulage entschädigt.
 
-<sup>2</sup> Basierend auf Grösse und Nutzungsintensität werden die Schulhausanlagen in die Kategorien A–D eingeteilt, wobei mehrere Schulhausanlagen zu einer Anlage zusammengefasst werden können.
+<sup>1<sup>bis</sup></sup> Sie werden für die Übernahme der Aufgabe Koordination der Vereinshauswartung (insbesondere für die Organisation der Nutzung der Anlagen, Dienstplanung und Führung der Mitarbeitenden) mit einer Zulage entschädigt.
+
+<sup>2</sup> …
 
 <sup>3</sup> In der Zulage enthalten ist eine Entschädigung für allfällige Einsätze in der Nacht und an schulfreien Tagen.
 
-<sup>4</sup> Das Erziehungsdepartement führt eine Liste, welcher die Einteilung der Schulhausanlagen in die einzelnen Kategorien entnommen werden kann. Diese Einteilung wird vom Erziehungsdepartement jährlich überprüft.
+<sup>4</sup> …
 
-<sup>5</sup> Das Erziehungsdepartement bestimmt die Schulhausanlagen, bei denen die Semesterbelegungen nicht mittels einer Zulage entschädigt, sondern von Dritten übernommen werden. Die Liste der Schulhausanlagen, welche nicht zulagenberechtigt sind, wird vom Erziehungsdepartement periodisch überprüft.
+<sup>5</sup> …
+
+<sup>6</sup> Die maximale Stundenanzahl für Vereinsdienste gemäss Abs. 1 und 1<sup>bis</sup> beträgt 170 Stunden im Jahr.
 
 #### § 13
 
