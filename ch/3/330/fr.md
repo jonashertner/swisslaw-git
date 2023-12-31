@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur le casier judiciaire informatique VOS
 short: LCJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/fr"
 
 (Loi sur le casier judiciaire, LCJ)[^t-1]
 
-du 17 juin 2016 (État le 1<sup>er</sup> septembre 2023)
+du 17 juin 2016 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -913,17 +913,17 @@ Les autorités raccordées suivantes peuvent consulter en ligne toutes les donn�
 <table>
 <tr><td>c. les autorités visées à l’art. 9 LRens qui collaborent avec le SRC:[^46-15]</td><td></td><td>pour détecter à temps et prévenir des menaces pour la sécurité intérieure ou extérieure au sens de l’art. 6, al. 1, LRens, en particulier pour:[^46-16] – confirmer ou infirmer un soupçon initial en relation avec une menace potentielle – éviter des enquêtes parallèles – vérifier la crédibilité d’une personne interrogée – examiner la réputation d’un informateur,</td></tr>
 <tr><td>d. les polices cantonales:</td><td></td><td>1. pour déceler ou prévenir des infractions, en particulier pour: – confirmer ou infirmer un soupçon initial en relation avec une menace potentielle – éviter des enquêtes parallèles – vérifier la crédibilité d’une personne interrogée – examiner la réputation d’un informateur – protéger un agent infiltré ou affecté à une recherche secrète en contrôlant le contexte de la menace, 2. pour interpréter les données des banques de données policières, 3.[^46-17] pour déterminer le risque pour la sécurité dans le cadre de la vérification des antécédents visée à l’art. 108*b* de la loi fédérale du 21 décembre 1948 sur l’aviation[^46-18];</td></tr>
-<tr><td>e.[^46-19] les autorités fédérales qui mènent les contrôles de sécurité relatifs à des personnes au sens de l’art. 2, al. 2, let. a, LMSI[^46-20]:</td><td></td><td>pour effectuer des contrôles de sécurité civils et militaires en vertu de la LMSI;</td></tr>
-<tr><td>f. le Secrétariat d’État aux migrations:</td><td></td><td>1. pour mener les procédures de naturalisation et d’annulation de naturalisation au niveau fédéral, 2. pour prendre les décisions relevant de la LEI pour lesquelles des données pénales sont nécessaires, 3. pour prendre les décisions relevant de la loi du 26 juin 1998 sur l’asile (LAsi)[^46-21] pour lesquelles des données pénales sont nécessaires;</td></tr>
+<tr><td>e.[^46-19] les services spécialisés qui mènent les contrôles de sécurité relatifs aux personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^46-20]:</td><td></td><td>1. pour évaluer le risque dans le cadre de contrôles de sécurité relatifs aux personnes au sens de la LSI, 2. pour évaluer le potentiel d’abus ou de dangerosité au sens de la loi du 3 février 1995 sur l’armée[^46-21], 3. pour évaluer le risque dans le cadre d’autres contrôles prévus dans la législation spéciale;</td></tr>
+<tr><td>f. le Secrétariat d’État aux migrations:</td><td></td><td>1. pour mener les procédures de naturalisation et d’annulation de naturalisation au niveau fédéral, 2. pour prendre les décisions relevant de la LEI pour lesquelles des données pénales sont nécessaires, 3. pour prendre les décisions relevant de la loi du 26 juin 1998 sur l’asile (LAsi)[^46-22] pour lesquelles des données pénales sont nécessaires;</td></tr>
 <tr><td>g. les autorités cantonales chargées de l’octroi du droit de cité cantonal:</td><td></td><td>pour mener les procédures d’octroi du droit de cité et d’annulation de naturalisations au niveau cantonal;</td></tr>
 <tr><td>h. les services cantonaux des migrations:</td><td></td><td>pour prendre les décisions relevant de la LEI pour lesquelles des données pénales sont nécessaires;</td></tr>
-<tr><td>i. le Groupement Défense:[^46-22]</td><td></td><td>1. pour prendre les décisions de non-recrutement, d’admission au recrutement, d’exclusion de l’armée ou de réintégration dans l’armée, de dégradation, et pour examiner l’aptitude à une promotion ou à une nomination, en application de la loi du 3 février 1995 sur l’armée (LAAM)[^46-23], 2. pour examiner les motifs empêchant la remise de l’arme personnelle en application de la LAAM;</td></tr>
+<tr><td>i. le Groupement Défense:[^46-23]</td><td></td><td>1. pour prendre les décisions de non-recrutement, d’admission au recrutement, d’exclusion de l’armée ou de réintégration dans l’armée, de dégradation, et pour examiner l’aptitude à une promotion ou à une nomination, en application de la loi du 3 février 1995 sur l’armée (LAAM)[^46-24], 2. pour examiner les motifs empêchant la remise de l’arme personnelle en application de la LAAM;</td></tr>
 <tr><td>j. les commandements de police chargés des contrôles de sécurité relatifs aux policiers et aux candidats à des postes de policier en vertu du droit cantonal:</td><td></td><td>pour contrôler les policiers et les candidats à des postes de policier en vue d’un recrutement, d’une nomination, d’une promotion, d’une rétrogradation, d’une exclusion ou d’une réintégration;</td></tr>
 <tr><td>k. les services cantonaux chargés d’autoriser des prestations de sécurité privées:</td><td></td><td>pour octroyer les autorisations nécessaires aux personnes qui fournissent des prestations de sécurité privées, pour retirer ces autorisations, et pour autoriser l’exercice de l’activité d’entreprise de sécurité;</td></tr>
-<tr><td>l. l’autorité fédérale chargée de l’exécution de la loi fédérale du 27 septembre 2013 sur les prestations de sécurité privées fournies à l’étranger (LPSP)[^46-24]:</td><td></td><td>pour contrôler les personnes responsables d’une entreprise au sens de l’art. 2 LPSP ou les personnes qui fournissent des prestations de sécurité privées à l’étranger;</td></tr>
-<tr><td>m. l’Office fédéral de la statistique:</td><td></td><td>pour traiter des données conformément à la loi du 9 octobre 1992 sur la statistique fédérale (LSF)[^46-25], en particulier pour: – compléter les données concernant une personne – assurer la qualité en cas de communication à double de jugements;</td></tr>
+<tr><td>l. l’autorité fédérale chargée de l’exécution de la loi fédérale du 27 septembre 2013 sur les prestations de sécurité privées fournies à l’étranger (LPSP)[^46-25]:</td><td></td><td>pour contrôler les personnes responsables d’une entreprise au sens de l’art. 2 LPSP ou les personnes qui fournissent des prestations de sécurité privées à l’étranger;</td></tr>
+<tr><td>m. l’Office fédéral de la statistique:</td><td></td><td>pour traiter des données conformément à la loi du 9 octobre 1992 sur la statistique fédérale (LSF)[^46-26], en particulier pour: – compléter les données concernant une personne – assurer la qualité en cas de communication à double de jugements;</td></tr>
 <tr><td>n. les services centraux des cantons chargés des communications en vue de l’effacement des profils d’ADN et autres données signalétiques:</td><td></td><td>pour examiner si les conditions sont réunies pour l’effacement des profils d’ADN au sens des art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN et des données signalétiques au sens de l’art. 354 CP;</td></tr>
-<tr><td>o. l’Organe d’exécution du service civil:</td><td></td><td>1. pour prononcer l’exclusion du service civil ou l’interdiction d’accomplir des périodes de service en vertu de la loi fédérale du 6 octobre 1995 sur le service civil (LSC)[^46-26], 2. pour examiner la réputation pour certaines affectations en vertu de la LSC.</td></tr>
+<tr><td>o. l’Organe d’exécution du service civil:</td><td></td><td>1. pour prononcer l’exclusion du service civil ou l’interdiction d’accomplir des périodes de service en vertu de la loi fédérale du 6 octobre 1995 sur le service civil (LSC)[^46-27], 2. pour examiner la réputation pour certaines affectations en vertu de la LSC.</td></tr>
 </table>
 
 [^46-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
@@ -938,20 +938,21 @@ Les autorités raccordées suivantes peuvent consulter en ligne toutes les donn�
 [^46-10]: Introduit par l’annexe ch. 6 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 23 janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352), [443](https://fedlex.data.admin.ch/eli/oc/2022/443), [684](https://fedlex.data.admin.ch/eli/oc/2022/684); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^46-11]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 [^46-12]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-13]: Teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-14]: Teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-15]: Teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-16]: Teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-13]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-14]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-15]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-16]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-17]: Introduit par le ch. I 12 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 23 janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 321](https://fedlex.data.admin.ch/eli/oc/2022/321), [681](https://fedlex.data.admin.ch/eli/oc/2022/681); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^46-18]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^46-19]: Teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-20]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^46-21]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^46-22]: Teneur selon l’annexe 2 ch. 3, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-23]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^46-24]: [RS 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
-[^46-25]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^46-26]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^46-19]: Nouvelle teneur selon l’annexe 1 ch. 16 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^46-20]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^46-21]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^46-22]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^46-23]: Nouvelle teneur selon l’annexe 2 ch. 3, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-24]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^46-25]: [RS 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
+[^46-26]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^46-27]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
 
 #### Art. 47
 
@@ -1017,17 +1018,16 @@ Les autorités suivantes, non raccordées, peuvent consulter sur demande écrite
 <tr><td>c. les autorités cantonales qui octroient les autorisations et exercent la surveillance dans le domaine du placement d’enfants au sens de l’art. 316, al. 2, CC:</td><td></td><td>pour examiner la réputation des personnes et des institutions s’occupant d’enfants qui doivent obtenir une autorisation et qui sont soumises à une surveillance en vertu du droit fédéral ou du droit cantonal;</td></tr>
 <tr><td>d. les autorités cantonales compétentes en matière d’adoption au sens de l’art 316, al. 1<sup>bis</sup>, CC:</td><td></td><td>pour examiner l’aptitude des futurs parents adoptifs;</td></tr>
 <tr><td>e. l’autorité centrale fédérale en matière d’adoption internationale de l’Office fédéral de la justice:</td><td></td><td>pour recueillir et échanger des informations sur les futurs parents adoptifs dans les procédures d’adoption internationale;</td></tr>
-<tr><td>f.[^51-2] les autorités cantonales qui mènent des contrôles de sécurité relatifs à des personnes au sens de l’art. 2, al. 2, let. a, LMSI[^51-3]:</td><td></td><td>pour effectuer des contrôles de sécurité civils et militaires au sens de la LMSI;</td></tr>
+<tr><td>f.[^51-2] ...</td><td></td><td></td></tr>
 <tr><td>g. les tribunaux civils:</td><td></td><td>pour administrer les preuves, notamment lorsqu’ils ordonnent ou lèvent les mesures de protection de l’enfant;</td></tr>
-<tr><td>h. l’Office fédéral du sport:</td><td></td><td>pour procéder aux examens de réputation en vue de l’attribution, de la suspension ou du retrait d’un certificat de cadre «Jeunesse et sport» en vertu de l’art. 10 de la loi du 17 juin 2011 sur l’encouragement du sport[^51-4];</td></tr>
+<tr><td>h. l’Office fédéral du sport:</td><td></td><td>pour procéder aux examens de réputation en vue de l’attribution, de la suspension ou du retrait d’un certificat de cadre «Jeunesse et sport» en vertu de l’art. 10 de la loi du 17 juin 2011 sur l’encouragement du sport[^51-3];</td></tr>
 <tr><td>i. les autorités fédérales et cantonales compétentes en matière de grâce:</td><td></td><td>pour conduire des procédures d’octroi des grâces;</td></tr>
 <tr><td>j. les services chargés des décisions en matière de personnel des établissements d’exécution des peines et mesures, de détention provisoire et de détention pour des motifs de sûreté:</td><td></td><td>pour procéder aux contrôles de sécurité relatifs aux agents de détention et aux tiers associés aux tâches d’exécution.</td></tr>
 </table>
 
 [^51-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^51-2]: Teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^51-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^51-4]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^51-2]: Abrogée par l’annexe 1 ch. 16 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^51-3]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 52
 
@@ -1118,7 +1118,7 @@ Les données journalisées (art. 25) ne lui sont pas communiquées lorsqu’elle
 <sup>5</sup> Si le requérant constate que les données le concernant sont inexactes, il peut faire valoir les droits visés à l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données[^57-4].[^57-5]
 
 [^57-1]: [RS 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
-[^57-2]: Teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^57-2]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^57-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^57-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^57-5]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 25 septembre 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -1157,7 +1157,7 @@ Le Groupement défense peut utiliser les données communiquées:
 
 <sup>3</sup> La communication a lieu par une interface électronique entre le système d’information sur le personnel de l’armée et de la protection civile (SIPA) et VOSTRA. Les données visées à l’al. 1 sont sélectionnées et transmises de manière automatisée sur la base du numéro AVS de la personne concernée.
 
-[^59-1]: Teneur selon l’annexe 2 ch. 3, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^59-1]: Nouvelle teneur selon l’annexe 2 ch. 3, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^59-2]: Introduite par l’annexe ch. 3 de la LF du 18 mars 2022, en vigueur depuis le 23 janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^59-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^59-4]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
@@ -1166,12 +1166,13 @@ Le Groupement défense peut utiliser les données communiquées:
 
 **Communication aux autorités compétentes en matière de circulation routière**
 
-<sup>1</sup> Le Service du casier judiciaire communique à l’autorité du canton de domicile ou de jugement compétente en matière de circulation routière, en vue de leur enregistrement dans le registre des autorisations de conduire (FABER), les jugements suisses saisis dans VOSTRA dans lesquels est prononcée une interdiction de conduire au sens de l’art. 67*e* CP[^60-1] ou de l’art. 50*e* CPM[^60-2].
+<sup>1</sup> Le Service du casier judiciaire communique à l’autorité du canton de domicile ou de jugement compétente en matière de circulation routière, en vue de leur enregistrement dans le système d’information relatif à l’admission à la circulation (SIAC)[^60-1], les jugements suisses saisis dans VOSTRA dans lesquels est prononcée une interdiction de conduire au sens de l’art. 67*e* CP[^60-2] ou de l’art. 50*e* CPM[^60-3].
 
 <sup>2</sup> La communication peut avoir lieu par une interface électronique.
 
-[^60-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^60-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^60-1]: La désignation du système d’information a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670))
+[^60-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^60-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 #### Art. 61
 
@@ -1212,7 +1213,7 @@ Lorsqu’elles concernent un étranger, le Service du casier judiciaire communiq
 [^62-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^62-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^62-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^62-6]: Teneur selon l’annexe 2 ch. 2, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^62-6]: Nouvelle teneur selon l’annexe 2 ch. 2, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 
 #### Art. 63
 

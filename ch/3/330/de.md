@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über das Strafregister-Informationssyste
 short: StReG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/de"
 
 (Strafregistergesetz, StReG)
 
-vom 17. Juni 2016 (Stand am 1. September 2023)
+vom 17. Juni 2016 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -907,17 +907,17 @@ Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Be
 <tr><td>b. der Nachrichtendienst des Bundes (NDB):</td><td></td><td>1. für das frühzeitige Erkennen und Verhindern von Bedrohungen der inneren und äusseren Sicherheit nach Art. 6 Abs. 1 des Nachrichtendienstgesetzes vom 25. September 2015[^46-12] (NDG), insbesondere für:[^46-13] – die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen – die Verhinderung von Parallelermittlungen – die Glaubwürdigkeitsprüfung bei Befragungen – die Überprüfung des Leumunds von Informantinnen und Informanten, 2. für die Informationsvermittlung an Europol im Sinne von Art. 355*a* StGB, sofern diese Daten im Ausland für die Verhütung von Straftaten benötigt werden, 3. für die Prüfung von Fernhaltemassnahmen gegenüber Ausländerinnen und Ausländern nach dem AIG sowie für die Vorbereitung von Ausweisungsentscheiden nach Art. 121 Abs. 2 BV, 4.[^46-14] für die Beschaffung und Weitergabe von Informationen an ausländische Sicherheitsbehörden im Rahmen von Anfragen nach Art. 12 Abs. 1 Bst. d NDG; Daten, deren Weitergabe nicht im Interesse der betroffenen Person ist, können nur mit deren ausdrücklichen Zustimmung weitergegeben werden;</td></tr>
 <tr><td>c. die Behörden nach Art. 9 NDG, die mit dem NDB zusammenarbeiten:[^46-15]</td><td></td><td>für das frühzeitige Erkennen und Verhindern von Bedrohungen der inneren und äusseren Sicherheit nach Art. 6 Abs. 1 NDG, insbesondere für:[^46-16] – die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen – die Verhinderung von Parallelermittlungen – die Glaubwürdigkeitsprüfung bei Befragungen – die Überprüfung des Leumunds von Informantinnen und Informanten;</td></tr>
 <tr><td>d. die kantonalen Polizeistellen:</td><td></td><td>1. für die Erkennung oder Verhütung von Straftaten, insbesondere für: – die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen – die Verhinderung von Parallelermittlungen – die Glaubwürdigkeitsprüfung bei Befragungen – die Überprüfung des Leumunds von Informantinnen und Informanten, – den Schutz verdeckter Ermittlerinnen und Ermittler oder verdeckter Fahnderinnen und Fahnder mittels Überprüfung des Gefahrenumfeldes, 2. für die Interpretation von Daten aus Polizeidatenbanken, 3.[^46-17] für die Abklärung des Sicherheitsrisikos im Rahmen der Zuverlässigkeitsüberprüfungen nach Artikel 108*b* des Luftfahrtgesetzes vom 21. Dezember 1948[^46-18];</td></tr>
-<tr><td>e.[^46-19] die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Art. 2 Abs. 2 Bst. a BWIS[^46-20]:</td><td></td><td>für zivile und militärische Sicherheitsprüfungen nach BWIS;</td></tr>
-<tr><td>f. das Staatssekretariat für Migration:</td><td></td><td>1. für die Durchführung von Einbürgerungsverfahren auf Stufe Bund einschliesslich der Nichtigerklärung von Einbürgerungen, 2. für Entscheide gemäss AIG, die anhand von Strafdaten getroffen werden müssen, 3. für Entscheide nach dem Asylgesetz vom 26. Juni 1998[^46-21] (AsylG), die anhand von Strafdaten getroffen werden müssen;</td></tr>
+<tr><td>e.[^46-19] die Fachstellen für Personensicherheitsprüfungen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^46-20] (ISG):[^46-21]:</td><td></td><td>1. für die Beurteilung des Risikos im Rahmen von Personensicherheitsprüfungen nach dem ISG, 2. für Beurteilungen des Gefährdungs-und Missbrauchspotenzials nach dem Militärgesetz vom 3. Februar 1995[^46-22], 3. für weitere Beurteilungen des Risikos im Rahmen der in der Spezialgesetzgebung vorgesehenen Prüfungen;</td></tr>
+<tr><td>f. das Staatssekretariat für Migration:</td><td></td><td>1. für die Durchführung von Einbürgerungsverfahren auf Stufe Bund einschliesslich der Nichtigerklärung von Einbürgerungen, 2. für Entscheide gemäss AIG, die anhand von Strafdaten getroffen werden müssen, 3. für Entscheide nach dem Asylgesetz vom 26. Juni 1998[^46-23] (AsylG), die anhand von Strafdaten getroffen werden müssen;</td></tr>
 <tr><td>g. die für die Einbürgerung auf Stufe Kanton zuständigen kantonalen Behörden:</td><td></td><td>für die Durchführung von Einbürgerungsverfahren auf Stufe Kanton einschliesslich der Nichtigerklärung von Einbürgerungen;</td></tr>
 <tr><td>h. die kantonalen Migrationsbehörden (Fremdenpolizei):</td><td></td><td>für Entscheide gemäss AIG, die anhand von Strafdaten getroffen werden müssen;</td></tr>
-<tr><td>i. die Gruppe Verteidigung:[^46-22]</td><td></td><td>1. für die Prüfung einer Nichtrekrutierung, einer Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee, einer Wiederzulassung zur Armee, einer Degradation oder der Eignung für eine Beförderung oder Ernennung nach dem Militärgesetz vom 3. Februar 1995[^46-23] (MG), 2. für die Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG;</td></tr>
+<tr><td>i. die Gruppe Verteidigung:[^46-24]</td><td></td><td>1. für die Prüfung einer Nichtrekrutierung, einer Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee, einer Wiederzulassung zur Armee, einer Degradation oder der Eignung für eine Beförderung oder Ernennung nach dem Militärgesetz vom 3. Februar 1995[^46-25] (MG), 2. für die Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG;</td></tr>
 <tr><td>j. die gemäss kantonaler Gesetzgebung für die Sicherheitsprüfung von Polizistinnen, Polizisten sowie Polizeianwärterinnen und -anwärtern zuständigen Polizeikommandos:</td><td></td><td>für die Prüfung der Voraussetzungen für die Rekrutierung, die Ernennung, die Beförderung, die Degradation, den Ausschluss und die Wiederzulassung von Polizistinnen und Polizisten sowie Polizeianwärterinnen und -anwärtern;</td></tr>
 <tr><td>k. die für die Bewilligung von privaten Sicherheitsdienstleistungen zuständige kantonale Stelle:</td><td></td><td>für die Erteilung und den Entzug von Bewilligungen für Personen, die private Sicherheitsdienstleistungen erbringen, sowie für die Marktzulassung von Sicherheitsunternehmen;</td></tr>
-<tr><td>l. die für den Vollzug des Bundesgesetzes vom 27. September 2013[^46-24] über die im Ausland erbrachten privaten Sicherheitsdienstleistungen (BPS) zuständige Bundesbehörde:</td><td></td><td>für die Überprüfung von Personen, die für ein Sicherheitsunternehmen nach Art. 2 BPS verantwortlich sind oder die private Sicherheitsdienstleistungen im Ausland erbringen;</td></tr>
-<tr><td>m. das Bundesamt für Statistik:</td><td></td><td>für die Bearbeitung der Daten nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^46-25] (BStatG), insbesondere für: – die Ergänzung der fehlenden Daten zur Person – die Qualitätssicherung bei Mehrfachlieferungen von Urteilen;</td></tr>
+<tr><td>l. die für den Vollzug des Bundesgesetzes vom 27. September 2013[^46-26] über die im Ausland erbrachten privaten Sicherheitsdienstleistungen (BPS) zuständige Bundesbehörde:</td><td></td><td>für die Überprüfung von Personen, die für ein Sicherheitsunternehmen nach Art. 2 BPS verantwortlich sind oder die private Sicherheitsdienstleistungen im Ausland erbringen;</td></tr>
+<tr><td>m. das Bundesamt für Statistik:</td><td></td><td>für die Bearbeitung der Daten nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^46-27] (BStatG), insbesondere für: – die Ergänzung der fehlenden Daten zur Person – die Qualitätssicherung bei Mehrfachlieferungen von Urteilen;</td></tr>
 <tr><td>n. die für die Meldungen zur Löschung von DNA-Profilen und weiteren erkennungsdienstlichen Daten zuständigen zentralen Stellen der Kantone:</td><td>[tab]</td><td>für die Abklärung der Voraussetzungen für die Löschung von Profilen nach den Art. 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003 sowie von erkennungsdienstlichen Daten nach Art. 354 StGB;</td></tr>
-<tr><td>o. die Vollzugsstelle für den Zivildienst:</td><td>[tab]</td><td>1. für den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung nach dem Zivildienstgesetz vom 6. Oktober 1995[^46-26] (ZDG), 2. für die Prüfung des Leumundes für bestimmte Einsätze nach dem ZDG.</td></tr>
+<tr><td>o. die Vollzugsstelle für den Zivildienst:</td><td>[tab]</td><td>1. für den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung nach dem Zivildienstgesetz vom 6. Oktober 1995[^46-28] (ZDG), 2. für die Prüfung des Leumundes für bestimmte Einsätze nach dem ZDG.</td></tr>
 </table>
 
 [^46-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
@@ -938,14 +938,16 @@ Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Be
 [^46-16]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-17]: Eingefügt durch Ziff. I 12 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 23. Jan. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 321](https://fedlex.data.admin.ch/eli/oc/2022/321), [681](https://fedlex.data.admin.ch/eli/oc/2022/681); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^46-18]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^46-19]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-20]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^46-21]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^46-22]: Fassung gemäss Anhang 2 Ziff. 3, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-23]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^46-24]: [SR 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
-[^46-25]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^46-26]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^46-19]: Fassung gemäss Anhang 1 Ziff. 16 des Informationssicherheitsgesetz vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^46-20]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^46-21]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^46-22]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^46-23]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^46-24]: Fassung gemäss Anhang 2 Ziff. 3, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-25]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^46-26]: [SR 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
+[^46-27]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^46-28]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
 
 #### Art. 47
 
@@ -1011,17 +1013,16 @@ Folgende nicht angeschlossene Behörden können auf schriftliches Gesuch hin in 
 <tr><td>c. die für die Bewilligung und Aufsicht im Bereich der Pflegekinderaufsicht nach Art. 316 Abs. 2 ZGB zuständigen kantonalen Behörden:</td><td></td><td>für die Leumundsprüfung von Einrichtungen und Betreuungspersonen, die einer Bewilligungspflicht und einer Beaufsichtigung nach Bundesrecht oder kantonalem Recht unterstehen;</td></tr>
 <tr><td>d. die kantonalen Adoptionsbehörden nach Art. 316 Abs. 1<sup>bis</sup> ZGB:</td><td></td><td>für die Prüfung der Adoptionseignung künftiger Adoptiveltern;</td></tr>
 <tr><td>e. die Zentralstelle Internationale Adoptionen des Bundesamtes für Justiz:</td><td></td><td>für die Erhebung und den Austausch von Informationen über künftige Adoptiveltern im Rahmen von internationalen Adoptionsverfahren;</td></tr>
-<tr><td>f.[^51-2] die für die Durchführung von Personensicherheitsprüfungen im Sinne von Art. 2 Abs. 2 Bst. a BWIS[^51-3] zuständigen kantonalen Behörden:</td><td></td><td>für zivile und militärische Sicherheitsprüfungen nach BWIS;</td></tr>
+<tr><td>f.[^51-2] ...</td><td></td><td></td></tr>
 <tr><td>g. die Zivilgerichte:</td><td></td><td>für die Beweiserhebung, insbesondere bei der Anordnung und Aufhebung von Kindesschutzmassnahmen;</td></tr>
-<tr><td>h. das Bundesamt für Sport:</td><td></td><td>für die Leumundsprüfung im Hinblick auf die Erteilung, Sistierung oder den Entzug einer Anerkennung als «Jugend und Sport»-Kader nach Art. 10 des Sportförderungsgesetzes vom 17. Juni 2011[^51-4];</td></tr>
+<tr><td>h. das Bundesamt für Sport:</td><td></td><td>für die Leumundsprüfung im Hinblick auf die Erteilung, Sistierung oder den Entzug einer Anerkennung als «Jugend und Sport»-Kader nach Art. 10 des Sportförderungsgesetzes vom 17. Juni 2011[^51-3];</td></tr>
 <tr><td>i. die für die Begnadigung zuständigen Behörden des Bundes und der Kantone:</td><td></td><td>für die Durchführung von Begnadigungsverfahren;</td></tr>
 <tr><td>j. die in Anstalten des Straf- und Massnahmenvollzugs sowie für Untersuchungs- und Sicherheitshaft über personelle Angelegenheiten entscheidende Stelle:</td><td></td><td>für die Sicherheitsprüfung von Vollzugsmitarbeiterinnen und -mitarbeitern und von zum Vollzug beigezogenen Fachpersonen.</td></tr>
 </table>
 
 [^51-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^51-2]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^51-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^51-4]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^51-2]: Aufgehoben durch Anhang 1 Ziff. 16 des Informationssicherheitsgesetz vom 18. Dez. 2020, mit Wirkung seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^51-3]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 52
 
@@ -1160,12 +1161,13 @@ Die Gruppe Verteidigung darf die gemeldeten Daten für folgende Zwecke verwenden
 
 **Meldungen an die zuständigen Strassenverkehrsbehörden**
 
-<sup>1</sup> Die registerführende Stelle meldet der zuständigen Strassenverkehrsbehörde des Wohnsitz- oder Urteilskantons die neu in VOSTRA eingetragenen schweizerischen Grundurteile, die ein Fahrverbot im Sinne von Artikel 67*e* StGB[^60-1] oder Artikel 50*e* MStG[^60-2] enthalten, zur Eintragung in das Fahrberechtigungsregister (FABER).
+<sup>1</sup> Die registerführende Stelle meldet der zuständigen Strassenverkehrsbehörde des Wohnsitz- oder Urteilskantons die neu in VOSTRA eingetragenen schweizerischen Grundurteile, die ein Fahrverbot im Sinne von Artikel 67*e* StGB[^60-1] oder Artikel 50*e* MStG[^60-2] enthalten, zur Eintragung in das Informationssystem Verkehrszulassung (IVZ)[^60-3].
 
 <sup>2</sup> Die Meldung kann über eine elektronische Schnittstelle erfolgen.
 
 [^60-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^60-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^60-3]: Die Bezeichnung des Informationssystems wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Januar 2019 angepasst.
 
 #### Art. 61
 

@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sul casellario giudiziale informatizza
 short: LCaGi
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-600-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/it"
 
 (Legge sul casellario giudiziale, LCaGi)
 
-del 17 giugno 2016 (Stato 1° settembre 2023)
+del 17 giugno 2016 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -907,17 +907,17 @@ Le seguenti autorità collegate possono consultare mediante procedura di richiam
 <tr><td>b. il Servizio delle attività informative della Confederazione (SIC):</td><td></td><td>1. per individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’art. 6 cpv. 1 della legge federale del 25 settembre 2015[^46-12] sulle attività informative (LAIn), in particolare per:[^46-13] – corroborare o infirmare sospetti iniziali inerenti a possibili pericoli – evitare indagini parallele – esaminare l’attendibilità di persone interrogate – esaminare la reputazione di informatori, 2. per trasmettere a Europol informazioni ai sensi dell’art. 355*a* CP, se tali dati sono necessari all’estero per prevenire reati, 3. per esaminare misure di respingimento nei confronti di stranieri secondo la LStrI e per preparare decisioni di espulsione secondo l’art. 121 cpv. 2 Cost., 4.[^46-14] per acquisire e trasmettere informazioni ad autorità di sicurezza estere nell’ambito di richieste secondo l’art. 12 cpv. 1 lett. d LAIn; i dati la cui trasmissione non è nell’interesse della persona in questione possono essere trasmessi soltanto con il suo consenso esplicito;</td></tr>
 <tr><td>c. le autorità di cui all’art. 9 LAIn che collaborano con il SIC:[^46-15]</td><td></td><td>per individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’art. 6 cpv. 1 LAIn, in particolare per:[^46-16] – corroborare o infirmare sospetti iniziali inerenti a possibili pericoli – evitare indagini parallele – esaminare l’attendibilità di persone interrogate – esaminare la reputazione di informatori;</td></tr>
 <tr><td>d. i servizi cantonali di polizia:</td><td></td><td>1. per individuare o prevenire reati, in particolare per: – corroborare o infirmare sospetti iniziali inerenti a possibili pericoli – evitare indagini parallele – esaminare l’attendibilità di persone interrogate – esaminare la reputazione di informatori – proteggere gli agenti infiltrati e gli agenti in incognito controllando l’ambiente di rischio, 2. per interpretare i dati delle banche dati di polizia, 3.[^46-17] per accertare il rischio per la sicurezza nell’ambito di un controllo dei precedenti personali secondo l’articolo 108*b* della legge federale del 21 dicembre 1948[^46-18] sulla navigazione aerea;</td></tr>
-<tr><td>e.[^46-19] le autorità federali cui competono i controlli di sicurezza relativi alle persone ai sensi dell’art. 2 cpv. 2 lett. a LMSI[^46-20]:</td><td></td><td>per effettuare i controlli di sicurezza civili e militari secondo la LMSI;</td></tr>
-<tr><td>f. la Segreteria di Stato della migrazione:</td><td></td><td>1. per svolgere le procedure di naturalizzazione a livello federale, compreso l’annullamento di naturalizzazioni, 2. per prendere le decisioni secondo la LStrI per le quali sono necessari dati penali, 3. per prendere le decisioni secondo la legge del 26 giugno 1998[^46-21] sull’asilo (LAsi) per le quali sono necessari dati penali;</td></tr>
+<tr><td>e.[^46-19] i servizi specializzati competenti per l’esecuzione dei controlli di sicurezza relativi alle persone secondo l’articolo 31 capoverso 2 della legge del 18 dicembre 2020[^46-20] sulla sicurezza delle informazioni (LSIn):</td><td></td><td>1. per valutare il rischio nell’ambito dei controlli di sicurezza relativi alle persone secondo la LSIn, 2. per valutare il potenziale di pericolo o di abuso secondo la legge militare del 3 febbraio 1995[^46-21], 3. per valutare il rischio nell’ambito di altri controlli previsti nella legislazione speciale;</td></tr>
+<tr><td>f. la Segreteria di Stato della migrazione:</td><td></td><td>1. per svolgere le procedure di naturalizzazione a livello federale, compreso l’annullamento di naturalizzazioni, 2. per prendere le decisioni secondo la LStrI per le quali sono necessari dati penali, 3. per prendere le decisioni secondo la legge del 26 giugno 1998[^46-22] sull’asilo (LAsi) per le quali sono necessari dati penali;</td></tr>
 <tr><td>g. le autorità cantonali competenti per il conferimento della cittadinanza cantonale:</td><td></td><td>per svolgere le procedure di naturalizzazione a livello cantonale, compreso l’annullamento di naturalizzazioni;</td></tr>
 <tr><td>h. le autorità cantonali competenti in materia di migrazione (polizia degli stranieri):</td><td></td><td>per prendere le decisioni secondo la LStrI per le quali sono necessari dati penali;</td></tr>
-<tr><td>i. l’Aggruppamento Difesa:[^46-22]</td><td></td><td>1. per esaminare una decisione di non reclutamento, un’ammissione al reclutamento, un’esclusione dall’esercito, una riammissione nell’esercito, una degradazione o l’idoneità a una promozione o a una nomina secondo la legge militare del 3 febbraio 1995[^46-23] (LM), 2. per esaminare i motivi d’impedimento per la cessione dell’arma personale secondo la LM;</td></tr>
+<tr><td>i. l’Aggruppamento Difesa:[^46-23]</td><td></td><td>1. per esaminare una decisione di non reclutamento, un’ammissione al reclutamento, un’esclusione dall’esercito, una riammissione nell’esercito, una degradazione o l’idoneità a una promozione o a una nomina secondo la legge militare del 3 febbraio 1995[^46-24] (LM), 2. per esaminare i motivi d’impedimento per la cessione dell’arma personale secondo la LM;</td></tr>
 <tr><td>j. i comandi di polizia competenti in virtù della legislazione cantonale per i controlli di sicurezza relativi agli agenti di polizia e agli aspiranti agenti di polizia:</td><td></td><td>per esaminare le condizioni per il reclutamento, la nomina, la promozione, la degradazione, l’esclusione e la riammissione di agenti di polizia e aspiranti agenti di polizia;</td></tr>
 <tr><td>k. i servizi cantonali competenti per autorizzare prestazioni di sicurezza private:</td><td></td><td>per rilasciare e revocare le autorizzazioni alle persone che forniscono prestazioni di sicurezza private e per autorizzare l’esercizio dell’attività di impresa di sicurezza;</td></tr>
-<tr><td>l. l’autorità federale competente per l’esecuzione della legge federale del 27 settembre 2013[^46-24] sulle prestazioni di sicurezza private fornite all’estero (LPSP):</td><td></td><td>per effettuare controlli riguardo alle persone responsabili di un’impresa ai sensi dell’art. 2 LPSP o alle persone che forniscono prestazioni di sicurezza private all’estero;</td></tr>
-<tr><td>m. l’Ufficio federale di statistica:</td><td></td><td>per trattare i dati conformemente alla legge del 9 ottobre 1992[^46-25] sulla statistica federale (LStat), in particolare per: – completare i dati concernenti una persona – garantire la qualità qualora sentenze siano comunicate più volte;</td></tr>
+<tr><td>l. l’autorità federale competente per l’esecuzione della legge federale del 27 settembre 2013[^46-25] sulle prestazioni di sicurezza private fornite all’estero (LPSP):</td><td></td><td>per effettuare controlli riguardo alle persone responsabili di un’impresa ai sensi dell’art. 2 LPSP o alle persone che forniscono prestazioni di sicurezza private all’estero;</td></tr>
+<tr><td>m. l’Ufficio federale di statistica:</td><td></td><td>per trattare i dati conformemente alla legge del 9 ottobre 1992[^46-26] sulla statistica federale (LStat), in particolare per: – completare i dati concernenti una persona – garantire la qualità qualora sentenze siano comunicate più volte;</td></tr>
 <tr><td>n. i servizi centrali cantonali cui competono le comunicazioni per la cancellazione dei profili del DNA e di altri dati segnaletici:</td><td></td><td>per esaminare se sono adempiute le condizioni per la cancellazione di profili del DNA secondo gli art. 16–19 della legge del 20 giugno 2003 sui profili del DNA e di dati segnaletici secondo l’art. 354 CP;</td></tr>
-<tr><td>o. l’organo d’esecuzione del servizio civile:</td><td></td><td>1. per pronunciare l’esclusione dal servizio civile o da prestazioni di servizio civile secondo la legge del 6 ottobre 1995[^46-26] sul servizio civile (LSC), 2. per verificare la reputazione di una persona in vista di determinati impieghi secondo la LSC.</td></tr>
+<tr><td>o. l’organo d’esecuzione del servizio civile:</td><td></td><td>1. per pronunciare l’esclusione dal servizio civile o da prestazioni di servizio civile secondo la legge del 6 ottobre 1995[^46-27] sul servizio civile (LSC), 2. per verificare la reputazione di una persona in vista di determinati impieghi secondo la LSC.</td></tr>
 </table>
 
 [^46-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
@@ -938,14 +938,15 @@ Le seguenti autorità collegate possono consultare mediante procedura di richiam
 [^46-16]: Testo giusta l’all. 2 n. 1, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-17]: Introdotto dal n. I 12 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 23 gen. 2023 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 321](https://fedlex.data.admin.ch/eli/oc/2022/321), [681](https://fedlex.data.admin.ch/eli/oc/2022/681); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^46-18]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^46-19]: Testo giusta l’all. 2 n. 1, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-20]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^46-21]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^46-22]: Testo giusta l’all. 2 n. 3, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-23]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^46-24]: [RS 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
-[^46-25]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^46-26]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^46-19]: Nuovo testo giusta l’all. 1 n. 16 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^46-20]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^46-21]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^46-22]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^46-23]: Testo giusta l’all. 2 n. 3, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-24]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^46-25]: [RS 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
+[^46-26]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^46-27]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
 
 #### Art. 47
 
@@ -1011,17 +1012,16 @@ Le seguenti autorità non collegate possono consultare su richiesta scritta tutt
 <tr><td>c. le autorità cantonali cui competono il rilascio delle autorizzazioni e l’esercizio della vigilanza nell’ambito della vigilanza sugli affiliati ai sensi dell’art. 316 cpv. 2 CC:</td><td></td><td>per esaminare la reputazione degli istituti e persone che si occupano di minori e soggiacciono a un obbligo di autorizzazione e a una vigilanza in virtù del diritto federale o del diritto cantonale;</td></tr>
 <tr><td>d. le autorità cantonali competenti in materia di adozione ai sensi dell’art. 316 cpv. 1<sup>bis</sup> CC:</td><td></td><td>per esaminare l’idoneità all’adozione dei futuri genitori adottivi;</td></tr>
 <tr><td>e. l’Autorità centrale federale in materia di adozione internazionale dell’Ufficio federale di giustizia:</td><td></td><td>per raccogliere e scambiare informazioni sui futuri genitori adottivi nelle procedure di adozione internazionale;</td></tr>
-<tr><td>f.[^51-2] le autorità cantonali cui competono i controlli di sicurezza relativi alle persone ai sensi dell’art. 2 cpv. 2 lett. a LMSI[^51-3]:</td><td></td><td>per effettuare i controlli di sicurezza civili e militari secondo la LMSI;</td></tr>
+<tr><td>f.[^51-2] ...</td><td></td><td></td></tr>
 <tr><td>g. i giudici civili:</td><td></td><td>per assumere prove, in particolare al fine di ordinare o revocare misure di protezione dei minori;</td></tr>
-<tr><td>h. l’Ufficio federale dello sport:</td><td></td><td>per verificare la reputazione di una persona in vista del rilascio, della sospensione o della revoca di un riconoscimento di quadro Gioventù e Sport secondo l’art. 10 della legge del 17 giugno 2011[^51-4] sulla promozione dello sport;</td></tr>
+<tr><td>h. l’Ufficio federale dello sport:</td><td></td><td>per verificare la reputazione di una persona in vista del rilascio, della sospensione o della revoca di un riconoscimento di quadro Gioventù e Sport secondo l’art. 10 della legge del 17 giugno 2011[^51-3] sulla promozione dello sport;</td></tr>
 <tr><td>i. le autorità federali e cantonali competenti in materia di grazia:</td><td></td><td>per svolgere procedure di grazia;</td></tr>
 <tr><td>j. i servizi incaricati delle decisioni in materia di personale negli istituti di esecuzione delle pene e delle misure, di carcerazione preventiva e di carcerazione di sicurezza:</td><td></td><td>per procedere ai controlli di sicurezza relativi agli agenti di custodia e ai terzi cui si fa capo per l’esecuzione.</td></tr>
 </table>
 
 [^51-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^51-2]: Testo giusta l’all. 2 n. 1, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^51-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^51-4]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^51-2]: Abrogata dall’all. 1 n. 16 della L del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^51-3]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 52
 
@@ -1160,12 +1160,13 @@ L’Aggruppamento Difesa può utilizzare i dati comunicati per esaminare:
 
 **Comunicazioni alle autorità competenti in materia di circolazione stradale**
 
-<sup>1</sup> Il Servizio del casellario giudiziale comunica all’autorità competente in materia di circolazione stradale del Cantone di domicilio o del Cantone in cui sono state pronunciate, per iscrizione nel registro delle autorizzazioni a condurre (FABER), le nuove sentenze originarie svizzere iscritte in VOSTRA che prevedono un divieto di condurre ai sensi dell’articolo 67*e* CP[^60-1] o dell’articolo 50*e* CPM[^60-2].
+<sup>1</sup> Il Servizio del casellario giudiziale comunica all’autorità competente in materia di circolazione stradale del Cantone di domicilio o del Cantone in cui sono state pronunciate, per iscrizione nel sistema d’informazione sull’ammissione alla circolazione (SIAC)[^60-1], le nuove sentenze originarie svizzere iscritte in VOSTRA che prevedono un divieto di condurre ai sensi dell’articolo 67*e* CP[^60-2] o dell’articolo 50*e* CPM[^60-3].
 
 <sup>2</sup> La comunicazione può essere effettuata mediante un’interfaccia elettronica.
 
-[^60-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^60-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^60-1]: La designazione del sistema d’informazione è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019.
+[^60-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^60-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 #### Art. 61
 
