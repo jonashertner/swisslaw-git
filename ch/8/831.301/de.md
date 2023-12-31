@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Januar 1971 über die Ergänzungsleistungen zur Alter
 short: ELV
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/de"
 
 (ELV)[^t-1]
 
-vom 15. Januar 1971 (Stand am 1. Januar 2023)
+vom 15. Januar 1971 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. V der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmungen wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -62,7 +62,7 @@ verordnet:
 <sup>4</sup> Die Tage der Ein- und Ausreise gelten nicht als Auslandaufenthalt.
 
 [^1-1]: Eingefügt durch Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^1-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 607).
+[^1-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 1a
 
@@ -244,10 +244,11 @@ Hält sich einer der Ehegatten oder ein anderes Familienglied längere Zeit im A
 
 **Prüfen des Anspruchs auf Ergänzungsleistungen von Personen, die Überbrückungsleistungen beziehen**[^10a-1]
 
-Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Überbrückungsleistungen nach dem Bundesgesetz vom 19. Juni 2020[^10a-2] über Überbrückungsleistungen für ältere Arbeitslose bezieht, auf den Zeitpunkt des ordentlichen Rentenalters hin ein Anspruch auf Ergänzungsleistungen absehbar ist.
+Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Überbrückungsleistungen nach dem Bundesgesetz vom 19. Juni 2020[^10a-2] über Überbrückungsleistungen für ältere Arbeitslose bezieht, auf den Zeitpunkt des Erreichens des Referenzalters nach Artikel 21 Absatz 1 AHVG[^10a-3] hin ein Anspruch auf Ergänzungsleistungen absehbar ist.
 
-[^10a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 11. Juni 2021 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^10a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 11. Juni 2021 über Überbrückungsleistungen für ältere Arbeitslose ([AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)). Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^10a-2]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^10a-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### II*a*. Anrechenbare Einnahmen, anerkannte Ausgaben und Vermögen
 
@@ -355,11 +356,11 @@ Nichtinvaliden Witwen ohne minderjährige Kinder ist als Erwerbseinkommen mindes
 
 #### Art. 15a
 
-**Rentenvorbezug**[^15a-1]
+**Vorbezug der Altersrente**[^15a-1]
 
-Bei einem Rentenvorbezug nach Artikel 40 AHVG[^15a-2] wird für die Berechnung der jährlichen Ergänzungsleistung die gekürzte Rente als Einnahme angerechnet.
+Bei einem Vorbezug der Altersrente nach Artikel 40 Absatz 1 AHVG[^15a-2] wird für die Berechnung der jährlichen Ergänzungsleistung die ganze aufgrund des Vorbezugs gekürzte Rente als Einnahme angerechnet.
 
-[^15a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995 ([AS 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^15a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995 ([AS 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^15a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 15b
@@ -738,12 +739,12 @@ Tritt die Bezügerin oder der Bezüger den Betrag der jährlichen Ergänzungslei
 
 <sup>2</sup> Bei Versicherten, deren anrechenbare Einnahmen und deren Vermögen im Sinne des ELG aufgrund einer Steuerveranlagung ermittelt werden kann, sind die kantonalen Durchführungsstellen befugt, als Berechnungsperiode die der letzten Steuerveranlagung zugrunde liegende Berechnungsperiode zu wählen, falls inzwischen keine Änderung der wirtschaftlichen Verhältnisse der versicherten Person eingetreten ist.
 
-<sup>3</sup> Bei der Bemessung der jährlichen Ergänzungsleistung sind die laufenden Renten, Pensionen und anderen wiederkehrenden Leistungen (Art. 11 Abs. 1 Bst. d ELG) anzurechnen.[^23-2]
+<sup>3</sup> Bei der Bemessung der jährlichen Ergänzungsleistung sind die laufenden Renten, Pensionen und anderen wiederkehrenden Leistungen (Art. 11 Abs. 1 Bst. d und d<sup>bis</sup> ELG) anzurechnen.[^23-2]
 
 <sup>4</sup> Kann die Person, die eine jährliche Ergänzungsleistung beansprucht, mit der Anmeldung glaubhaft machen, dass sie während des Zeitraumes, für welchen sie die jährliche Ergänzungsleistung begehrt, wesentlich kleinere anrechenbare Einnahmen erzielen werde als während der Berechnungsperiode nach Absatz 1 oder 2, so ist auf die mutmasslichen, auf ein Jahr umgerechneten anrechenbaren Einnahmen und auf das Vermögen im Zeitpunkt des Anspruchsbeginns abzustellen.
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^23-2]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^23-2]: Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
 
@@ -1250,13 +1251,19 @@ Der Bundesbeitrag an die Verwaltungskosten kann in den Fällen nach Artikel 24 A
 
 Leistungen im Sinne von Artikel 18 ELG gewährt:[^45-1]
 
-- a.[^45-2] die Stiftung Pro Senectute den über 65-jährigen Männern und den über 64-jährigen Frauen;
+- a.[^45-2] die Stiftung Pro Senectute den Personen, die das Referenzalter nach Artikel 21 Absatz 1 AHVG[^45-3] erreicht haben, sowie den Personen, die ihre ganze Altersrente vorbeziehen;
 - b. die Vereinigung Pro Infirmis den Invaliden, sofern sie nicht zu dem unter Buchstabe a umschriebenen Personenkreis gehören;
-- c.[^45-3] die Stiftung Pro Juventute den Witwen unter 64 Jahren und den Waisen, sofern sie nicht invalid sind.
+- c.[^45-4]
+
+  die Stiftung Pro Juventute:
+
+  - 1\. den Witwern mit minderjährigen Kindern und den Witwen, sofern sie nicht zu dem unter Buchstabe a oder b umschriebenen Personenkreis gehören,
+  - 2\. den Waisen.
 
 [^45-1]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^45-2]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^45-3]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^45-2]: Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^45-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^45-4]: Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
 
@@ -1510,3 +1517,14 @@ b. …[^u3-2]
 [^u5-1]: [AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)
 
 Die Versicherer sind erst ab dem 1. November 2020 zur Datenmeldung nach Artikel 54*a* Absatz 5<sup>bis</sup> verpflichtet.
+
+## Schlussbestimmung der Änderung vom 30. August 2023
+
+[^u6-1]
+
+[^u6-1]: [AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+Leistungen im Sinne von Artikel 18 ELG gewährt die Stiftung Pro Senectute den Frauen, die das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^u6-2] des AHVG[^u6-3] festgelegte Referenzalter erreicht haben.
+
+[^u6-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^u6-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)

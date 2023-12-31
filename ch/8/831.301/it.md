@@ -4,11 +4,11 @@ title: "Ordinanza del 15 gennaio 1971 sulle prestazioni complementari all'assicu
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/it"
 
 (OPC-AVS/AI)[^t-1] [^t-2]
 
-del 15 gennaio 1971 (Stato 1° gennaio 2023)
+del 15 gennaio 1971 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo del tit. abbreviato giusta il n. I dell’O del 13 set. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4385](https://fedlex.data.admin.ch/eli/oc/1995/4385_4385_4385)).
 [^t-2]: Nuovo tit. giusta il n. V dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i titoli marginali sono stati accentrati.
@@ -117,9 +117,11 @@ Se durante il termine d’attesa una persona soggiorna all’estero per uno dei 
 
 <sup>3</sup> …[^3-5]
 
-<sup>4</sup> I coniugi sono considerati come viventi separati secondo i capoversi 1 e 2[^3-6]
+<sup>4</sup>
 
-- a. se la separazione è stata pronunciata con una decisione giudiziaria o
+I coniugi sono considerati come viventi separati secondo i capoversi 1 e 2:[^3-6]
+
+- a. se la separazione è stata pronunciata con una decisione giudiziaria, o
 - b. se è in corso un’istanza di divorzio o di separazione, o
 - c. se la separazione di fatto dura ininterrottamente da almeno un anno, o
 - d. se è reso credibile che la separazione di fatto durerà relativamente a lungo.
@@ -244,10 +246,11 @@ Per il calcolo della prestazione complementare, non si tiene conto del coniuge o
 
 **Verifica del diritto a prestazioni complementari per le persone che ricevono prestazioni transitorie**[^10a-1]
 
-Gli organi esecutivi verificano d’ufficio se nel caso di una persona che riceve prestazioni transitorie in virtù della legge federale del 19 giugno 2020[^10a-2] sulle prestazioni transitorie per i disoccupati anziani sia prevedibile un diritto a prestazioni complementari al momento dell’età ordinaria di pensionamento.
+Gli organi esecutivi verificano d’ufficio se nel caso di una persona che riceve prestazioni transitorie in virtù della legge federale del 19 giugno 2020[^10a-2] sulle prestazioni transitorie per i disoccupati anziani sia prevedibile un diritto a prestazioni complementari al momento del raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^10a-3].
 
-[^10a-1]: Introdotto dall’all. n. 3 dell’O dell’11 giu. 2021 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^10a-1]: Introdotto dall’all. n. 3 dell’O dell’11 giu. 2021 sulle prestazioni transitorie per i disoccupati anziani ([RU 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)). Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^10a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### **IIa.** **Redditi computabili, spese riconosciute e sostanza**
 
@@ -355,11 +358,11 @@ Per le vedove non invalide senza figli minorenni il reddito dell’attività luc
 
 #### Art. 15a
 
-**Rendita anticipata**[^15a-1]
+**Anticipazione della rendita di vecchiaia**[^15a-1]
 
-In caso di rendita anticipata secondo l’articolo 40 LAVS[^15a-2], per il calcolo della prestazione complementare annua la rendita ridotta è computata come reddito.
+In caso di riscossione anticipata della rendita di vecchiaia secondo l’articolo 40 capoverso 1 LAVS[^15a-2], per il calcolo della prestazione complementare annua è computato come reddito l’importo della rendita intera, ridotta a causa dell’anticipazione.
 
-[^15a-1]: Introdotto dal n. I dell’O del 29 nov. 1995 [RU 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Nuovo testo giusta il n. I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^15a-1]: Introdotto dal n. I dell’O del 29 nov. 1995 [RU 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^15a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 15b
@@ -740,12 +743,12 @@ Se il beneficiario cede al fornitore di prestazioni l’importo della prestazion
 
 <sup>2</sup> Per gli assicurati la cui sostanza e i cui redditi da considerare ai sensi della LPC possono essere stabiliti servendosi di una tassazione fiscale, gli organi esecutivi cantonali sono autorizzati a ritenere, come periodo di calcolo, quello su cui si basa l’ultima tassazione fiscale, se nel frattempo non è subentrata nessuna modifica della situazione economica dell’assicurato.
 
-<sup>3</sup> Il calcolo della prestazione complementare annua deve essere effettuato tenendo conto delle rendite, pensioni e altre prestazioni periodiche correnti (art. 11 cpv. 1 lett. d LPC).[^23-2]
+<sup>3</sup> Il calcolo della prestazione complementare annua deve essere effettuato tenendo conto delle rendite, delle pensioni e delle altre prestazioni periodiche correnti (art. 11 cpv. 1 lett. d e d<sup>bis</sup> LPC).[^23-2]
 
 <sup>4</sup> Se la persona che pretende una prestazione complementare annua può rendere credibile nella domanda che durante il periodo per cui essa chiede la prestazione i suoi redditi determinanti saranno notevolmente inferiori a quelli da lei ottenuti nel corso del periodo di calcolo conformemente ai capoversi 1 o 2, occorre fondarsi sui redditi probabili determinanti, convertiti in redditi annui, e sulla sostanza esistente al momento in cui sorge il diritto alla prestazione.
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^23-2]: Nuovo testo giusta il n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^23-2]: Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
 
@@ -1252,13 +1255,19 @@ Nei casi di cui all’articolo 24 capoverso 2 LPC i sussidi federali per le spes
 
 Accordano prestazioni ai sensi dell’articolo 18 LPC:[^45-1]
 
-- a.[^45-2] la Fondazione Pro Senectute agli uomini di più di 65 anni e alle donne di più di 64 anni;
+- a.[^45-2] la Fondazione Pro Senectute alle persone che hanno raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^45-3] e a quelle che riscuotono anticipatamente la totalità della rendita di vecchiaia;
 - b. dall’Associazione Pro Infirmis agli invalidi che non rientrano nella categoria di persone definita nella lettera a;
-- c.[^45-3] la Fondazione Pro Juventute alle vedove di età inferiore ai 64 anni e agli orfani, per quanto queste persone non siano invalide.
+- c.[^45-4]
+
+  la Fondazione Pro Juventute:
+
+  - 1\. ai vedovi con figli minorenni e alle vedove che non rientrano nelle categorie di persone di cui alla lettera a o b,
+  - 2\. agli orfani.
 
 [^45-1]: Nuovo testo giusta il n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^45-2]: Nuovo testo giusta il n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^45-3]: Nuovo testo giusta il n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^45-2]: Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^45-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^45-4]: Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
 
@@ -1513,3 +1522,14 @@ b. ...[^u3-2]
 [^u5-1]: [RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)
 
 Gli assicuratori sono tenuti a notificare i dati secondo l’articolo 54*a* capoverso 5<sup>bis</sup> soltanto dal 1° novembre 2020.
+
+## Disposizione finale della modifica del 30 agosto 2023
+
+[^u6-1]
+
+[^u6-1]: [RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+La Fondazione Pro Senectute accorda prestazioni ai sensi dell’articolo 18 LPC alle donne che hanno raggiunto l’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021[^u6-2] della LAVS[^u6-3].
+
+[^u6-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^u6-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)

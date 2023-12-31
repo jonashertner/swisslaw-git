@@ -4,11 +4,11 @@ title: "Ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/fr"
 
 (OPC-AVS/AI)[^t-1] [^t-2]
 
-du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2023)
+du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. V de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 [^t-2]: Nouvelle abréviation selon le ch. I de l’O du 24 nov. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 2085](https://fedlex.data.admin.ch/eli/oc/1982/2085_2085_2085)).
@@ -241,10 +241,11 @@ Il n’est pas tenu compte, pour calculer la prestation complémentaire, du conj
 
 **Examen du droit des bénéficiaires de prestations transitoires à des prestations complémentaires**[^10a-1]
 
-Les organes d’exécution examinent d’office s’il est prévisible qu’un bénéficiaire de prestations transitoires en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^10a-2] aura droit à des prestations complémentaires à l’âge ordinaire de la retraite.
+Les organes d’exécution examinent d’office s’il est prévisible qu’un bénéficiaire de prestations transitoires en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^10a-2] aura droit à des prestations complémentaires à l’âge de référence fixé à l’art. 21, al. 1, LAVS[^10a-3].
 
-[^10a-1]: Introduit par l’annexe ch. 3 de l’O du 11 juin 2021 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^10a-1]: Introduit par l’annexe ch. 3 de l’O du 11 juin 2021 sur les prestations transitoires pour les chômeurs âgés ([RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)). Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^10a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### IIa. Revenus déterminants, dépenses reconnues et fortune
 
@@ -354,9 +355,9 @@ Pour les veuves non invalides qui n’ont pas d’enfants mineurs, le revenu de 
 
 **Anticipation de la rente**[^15a-1]
 
-En cas d’anticipation de la rente au sens de l’art. 40 LAVS[^15a-2], le montant de la rente réduite est pris en compte comme revenu dans le calcul de la prestation complémentaire annuelle.
+En cas de perception anticipée de la rente en vertu de l’art. 40, al. 1, LAVS[^15a-2], le montant de la rente entière réduite en raison de l’anticipation est pris en compte en tant que revenu dans le calcul de la prestation complémentaire annuelle.
 
-[^15a-1]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^15a-1]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^15a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 15b
@@ -736,12 +737,12 @@ Si le bénéficiaire cède au fournisseur de prestations le montant de la presta
 
 <sup>2</sup> Pour les assurés dont la fortune et les revenus déterminants à prendre en compte au sens de la LPC peuvent être établis à l’aide d’une taxation fiscale, les organes cantonaux d’exécution sont autorisés à retenir, comme période de calcul, celle sur laquelle se fonde la dernière taxation fiscale, si aucune modification de la situation économique de l’assuré n’est intervenue entre-temps.
 
-<sup>3</sup> La prestation complémentaire annuelle doit toujours être calculée compte tenu des rentes, pensions et autres prestations périodiques en cours (art. 11, al. 1, let. d, LPC).[^23-2]
+<sup>3</sup> La prestation complémentaire annuelle doit toujours être calculée compte tenu des rentes, pensions et autres prestations périodiques en cours (art. 11, al. 1, let. d et d<sup>bis</sup>, LPC).[^23-2]
 
 <sup>4</sup> Si la personne qui sollicite l’octroi d’une prestation complémentaire annuelle peut rendre vraisemblable que, durant la période pour laquelle elle demande la prestation, ses revenus déterminants seront notablement inférieurs à ceux qu’elle avait obtenus au cours de la période servant de base de calcul conformément à l’al. 1 ou au 2, ce sont les revenus déterminants probables, convertis en revenu annuel, et la fortune existant à la date à laquelle le droit à la prestation complémentaire annuelle prend naissance, qui sont déterminants.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^23-2]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^23-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
 
@@ -1250,15 +1251,21 @@ Dans les cas prévus à l’art. 24, al. 2, LPC, la participation de la Conféd�
 
 **Champ d’activité des institutions**
 
-Les prestations, au sens de l’art. 18 LPC, sont accordées:[^45-1]
+Les prestations visées à l’art. 18 LPC sont accordées:[^45-1]
 
-- a.[^45-2] par la fondation Pro Senectute aux hommes de plus de 65 ans et aux femmes de plus de 64 ans;
+- a.[^45-2] par la fondation Pro Senectute aux personnes qui ont atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^45-3] et aux personnes qui perçoivent la totalité de leur rente de vieillesse de manière anticipée;
 - b. par l’association Pro Infirmis aux invalides qui ne font pas partie de la catégorie de personnes définie sous let. a;
-- c.[^45-3] par la fondation Pro Juventute aux veuves âgées de moins de 64 ans et aux orphelins, si ces personnes ne sont pas invalides.
+- c.[^45-4]
 
-[^45-1]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^45-2]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^45-3]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+  par la fondation Pro Juventute:
+
+  - 1\. aux veufs ayant des enfants mineurs et aux veuves, s’ils ne font pas partie de la catégorie de personnes visée aux let. a ou b,
+  - 2\. aux orphelins.
+
+[^45-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^45-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^45-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^45-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
 
@@ -1512,3 +1519,14 @@ a. Modification de l’art. 1a OPC
 [^u5-1]: [RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)
 
 Les assureurs ne sont obligés de communiquer les données visées à l’art. 54*a*, al. 5<sup>bis</sup>, qu’à partir du 1<sup>er</sup> novembre 2020.
+
+## Disposition finale de la modification du 30 août 2023
+
+[^u6-1]
+
+[^u6-1]: [RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+Les prestations visées à l’art. 18 LPC sont accordées par la fondation Pro Senectute aux femmes qui ont atteint l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^u6-2] de la LAVS[^u6-3].
+
+[^u6-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^u6-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
