@@ -4,11 +4,11 @@ title: Procédure pénale militaire du 23 mars 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230901-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/fr"
 
 (PPM)
 
-du 23 mars 1979 (État le 1<sup>er</sup> septembre 2023)
+du 23 mars 1979 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -930,12 +930,12 @@ Le juge d’instruction peut ordonner la surveillance de la correspondance par p
 - b. cette mesure se justifie au regard de la gravité de l’infraction;
 - c. les mesures prises jusqu’alors dans le cadre de l’instruction sont restées sans succès ou les recherches n’auraient aucune chance d’aboutir ou seraient excessivement difficiles en l’absence de surveillance.
 
-<sup>2</sup> Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées aux articles du CPM[^70-1] énumérés ci-après: art. 86, 86*a*, 103, ch. 1, 106, al. 1 et 2, 108 à 114*a*, 115, 116, 121, 130 à 132, 134, al. 3, 135, al. 1 et 4, 137*a*, 137*b*, 141, 142, 151*a* à 151*d*, 155, 156, 160, al. 1 et 2, 161, ch. 1, 162, 164 à 169, 169*a*, ch. 1, 171*b*, 172, ch. 1, et 177.[^70-2]
+<sup>2</sup> Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées aux articles du CPM[^70-1] énumérés ci-après: art. 62, al. 1 et 3, 63, ch. 1, par. 1 et 3, et ch. 2, 64, ch. 1, par. 1, et ch. 2, 74, 86, 86*a*, 87, 89, al. 1, 91, 93, ch. 2, 102, 104, al. 2, 105, 106, al. 1 et 2, 108 à 114*a*, 115 à 117, 121, 130, ch. 1 et 2, 131, ch. 1 à 4, 132, 134, al. 3, 135, al. 1 et 4, 137*a*, 137*b*, ch. 1, par. 1, et ch. 2, 139, 141, 142, 144, al. 2, 149, al. 1, 150, al. 1, 151*a* à 151*d*, 153 à 155, 156, 160, al. 1 et 2, 161, ch. 1, 162, al. 1 et 3, 164, 165, ch. 1, par. 1 et 3, 166, ch. 1, par. 1 à 4, 167, 168, ch. 1, 169, al. 1, 169*a*, ch. 1, par. 1, et ch. 2, 171*a*, al. 1, 171*b*, 171*c*, al. 1, 172, ch. 1, 176, al. 1 et 1<sup>bis</sup>, 177 et 178, ch. 1.[^70-2]
 
 <sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction civile est délégué à une juridiction militaire, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 269, al. 2, du code de procédure pénale du 5 octobre 2007 (CPP)[^70-3].
 
 [^70-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^70-2]: Nouvelle teneur selon l’annexe 2 ch. 3/1 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^70-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1466,16 +1466,20 @@ L’autorité qui a ordonné les recherches secrètes y met fin immédiatement d
 
 <sup>1</sup>
 
-Afin d’élucider un crime ou un délit, le prélèvement d’un échantillon et l’établissement d’un profil d’ADN peuvent être ordonnés sur:
+Afin d’élucider un crime ou un délit sur lequel porte la procédure, le prélèvement d’un échantillon et l’établissement d’un profil d’ADN peuvent être ordonnés sur:[^73s-1]
 
 - a. le prévenu;
 - b. d’autres personnes, notamment les victimes et les personnes habilitées à se rendre sur les lieux de l’infraction si cela est nécessaire pour distinguer leur matériel biologique de celui du prévenu;
 - c. des personnes décédées;
 - d. le matériel biologique ayant un rapport avec l’infraction.
 
-<sup>2</sup> Si seul le profil d’ADN du chromosome Y peut être établi à partir du matériel biologique ayant un rapport avec l’infraction, le juge d’instruction peut, afin d’élucider un crime, ordonner la comparaison de ce profil dans le système d’information visé à l’art. 10 de la loi du 20 juin 2003 sur les profils d’ADN[^73s-1].
+<sup>1bis</sup> Le prélèvement d’un échantillon et l’établissement d’un profil d’ADN peuvent aussi être ordonnés sur le prévenu si des indices concrets laissent présumer qu’il pourrait avoir commis d’autres crimes ou délits.[^73s-2]
 
-[^73s-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+<sup>2</sup> Si seul le profil d’ADN du chromosome Y peut être établi à partir du matériel biologique ayant un rapport avec l’infraction, le juge d’instruction peut, afin d’élucider un crime, ordonner la comparaison de ce profil dans le système d’information visé à l’art. 10 de la loi du 20 juin 2003 sur les profils d’ADN[^73s-3].
+
+[^73s-1]: Nouvelle teneur selon l’annexe 1 ch. 10 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73s-2]: Introduit par l’annexe 1 ch. 10 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73s-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 73t
 
@@ -1487,13 +1491,11 @@ Afin d’élucider un crime ou un délit, le prélèvement d’un échantillon e
 
 #### Art. 73u
 
-**Profil d’ADN de personnes condamnées**
+**Profil d’ADN de personnes condamnées**[^73u-1]
 
-Dans le jugement qu’il rend, le tribunal peut ordonner, en vue de l’établissement d’un profil d’ADN, qu’un échantillon soit prélevé sur les personnes:
+Dans le jugement qu’il rend, le tribunal peut ordonner le prélèvement d’un échantillon et l’établissement d’un profil d’ADN sur une personne condamnée pour un crime ou un délit si des indices concrets laissent présumer qu’elle pourrait commettre d’autres crimes ou délits.
 
-- a. qui ont été condamnées pour la commission intentionnelle d’un crime à une peine privative de liberté de plus d’un an;
-- b. qui ont été condamnées pour un crime ou un délit commis intentionnellement contre la vie, l’intégrité physique ou l’intégrité sexuelle;
-- c. contre lesquelles une mesure thérapeutique ou l’internement a été prononcé.
+[^73u-1]: Nouvelle teneur selon l’annexe 1 ch. 10 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 73v
 

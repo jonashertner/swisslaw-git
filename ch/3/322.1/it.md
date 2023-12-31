@@ -4,11 +4,11 @@ title: Procedura penale militare del 23 marzo 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230901-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/it"
 
 (PPM)
 
-del 23 marzo 1979 (Stato 1° settembre 2023)
+del 23 marzo 1979 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -931,12 +931,12 @@ Il giudice istruttore può disporre la sorveglianza della corrispondenza postale
 - b. la gravità del reato giustifica la sorveglianza; e
 - c. le operazioni d’inchiesta già svolte non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
 
-<sup>2</sup> La sorveglianza può essere disposta per perseguire i reati di cui alle disposizioni seguenti del CPM[^70-1]: articoli 86, 86*a*, 103 numero 1, 106 capoversi 1 e 2, 108–114*a*, 115, 116, 121, 130–132, 134 capoverso 3, 135 capoversi 1 e 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 155, 156, 160 capoversi 1 e 2, 161 numero 1, 162, 164–169, 169*a* numero 1, 171*b*, 172 numero 1 e 177.[^70-2]
+<sup>2</sup> La sorveglianza può essere disposta per perseguire i reati di cui alle seguenti disposizioni del CPM[^70-1]: articoli 62 capoversi 1 e 3, 63 numero 1 primo e terzo comma e numero 2, 64 numero 1 primo comma e numero 2, 74, 86, 86*a*, 87, 89 capoverso 1, 91, 93 numero 2, 102, 104 capoverso 2, 105, 106 capoversi 1 e 2, 108–114*a*, 115–117, 121, 130 numeri 1 e 2, 131 numeri 1–4, 132, 134 capoverso 3, 135 capoversi 1 e 4, 137*a*, 137*b* numero 1 primo comma e numero 2, 139, 141, 142, 144 capoverso 2, 149 capoverso 1, 150 capoverso 1, 151*a*–151*d*, 153–155, 156, 160 capoversi 1 e 2, 161 numero 1, 162 capoversi 1 e 3, 164, 165 numero 1 primo e terzo comma, 166 numero 1 dal primo al quarto comma, 167, 168 numero 1, 169 capoverso 1, 169*a* numero 1 primo comma e numero 2, 171*a* capoverso 1, 171*b*, 171*c* capoverso 1, 172 numero 1, 176 capoversi 1 e 1<sup>bis</sup>, 177 e 178 numero 1.[^70-2]
 
 <sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione ordinaria è deferito alla giurisdizione militare, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 269 capoverso 2 del Codice di procedura penale del 5 ottobre 2007[^70-3] (CPP).
 
 [^70-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Nuovo testo giusta il n. I 14 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^70-2]: Nuovo testo giusta l’all. 2 n. 3 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^70-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1466,16 +1466,20 @@ La polizia o il giudice istruttore che le ha ordinate pone fine senza indugio al
 
 <sup>1</sup>
 
-Per far luce su un crimine o su un delitto è possibile prelevare un campione e allestire un profilo del DNA da:
+Per far luce su un crimine o su un delitto oggetto del procedimento è possibile prelevare un campione e allestire un profilo del DNA da:[^73s-1]
 
 - a. l’imputato;
 - b. altre persone, in particolare vittime o persone autorizzate ad accedere al luogo del reato, se il prelievo è necessario per distinguere il materiale biologico proveniente da loro da quello dell’imputato;
 - c. persone decedute;
 - d. materiale biologico pertinente al reato.
 
-<sup>2</sup> Se il materiale biologico pertinente al reato permette di allestire soltanto il profilo del DNA del cromosoma Y, per far luce su un crimine il giudice istruttore può disporre il confronto di tale profilo nel sistema d’informazione di cui all’articolo 10 della legge del 20 giugno 2003[^73s-1] sui profili del DNA.
+<sup>1bis</sup> È inoltre possibile prelevare un campione e allestire un profilo del DNA dell’imputato se in base a indizi concreti si può ritenere che possa aver commesso ulteriori crimini o delitti.[^73s-2]
 
-[^73s-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+<sup>2</sup> Se il materiale biologico pertinente al reato permette di allestire soltanto il profilo del DNA del cromosoma Y, per far luce su un crimine il giudice istruttore può disporre il confronto di tale profilo nel sistema d’informazione di cui all’articolo 10 della legge del 20 giugno 2003[^73s-3] sui profili del DNA.
+
+[^73s-1]: Nuovo testo giusta l’all. 1 n. 10 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73s-2]: Introdotto dall’all. 1 n. 10 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73s-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 73t
 
@@ -1487,13 +1491,11 @@ Per far luce su un crimine o su un delitto è possibile prelevare un campione e 
 
 #### Art. 73u
 
-**Profilo del DNA di condannati**
+**Profilo del DNA di condannati**[^73u-1]
 
-Nella sentenza il giudice può disporre il prelievo di un campione e l’allestimento di un profilo del DNA su persone:
+Nella sentenza il giudice può disporre il prelievo di un campione e l’allestimento di un profilo del DNA di una persona condannata per un crimine o un delitto, se in base a indizi concreti si può ritenere che il condannato possa compiere ulteriori crimini e delitti.
 
-- a. che sono state condannate a una pena detentiva superiore a un anno per aver commesso intenzionalmente un crimine;
-- b. che sono state condannate per un crimine o delitto intenzionale contro la vita o l’integrità della persona oppure contro l’integrità sessuale;
-- c. nei cui confronti è stata ordinata una misura terapeutica o l’internamento.
+[^73u-1]: Nuovo testo giusta l’all. 1 n. 10 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 73v
 

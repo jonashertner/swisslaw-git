@@ -4,11 +4,11 @@ title: Militärstrafprozess vom 23. März 1979 (MStP)
 short: MStP
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230901-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230901/de"
 
 (MStP)
 
-vom 23. März 1979 (Stand am 1. September 2023)
+vom 23. März 1979 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -931,12 +931,12 @@ Der Untersuchungsrichter kann den Post- und den Fernmeldeverkehr überwachen las
 - b. die Schwere der Straftat die Überwachung rechtfertigt; und
 - c. die bisherigen Untersuchungshandlungen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
 
-<sup>2</sup> Die Überwachung kann zur Verfolgung der in den folgenden Artikeln des MStG[^70-1] aufgeführten Straftaten angeordnet werden: Artikel 86, 86*a*, 103 Ziffer 1, 106 Absätze 1 und 2, 108–114*a*, 115, 116, 121, 130–132, 134 Absatz 3, 135 Absätze 1 und 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 155, 156, 160 Absätze 1 und 2, 161 Ziffer 1, 162, 164–169, 169*a* Ziffer 1, 171*b*, 172 Ziffer 1 und 177.[^70-2]
+<sup>2</sup> Die Überwachung kann zur Verfolgung der in den folgenden Artikeln des MStG[^70-1] aufgeführten Straftaten angeordnet werden: Artikel 62 Absätze 1 und 3, 63 Ziffer 1 Absätze 1 und 3 und Ziffer 2, 64 Ziffer 1 Absatz 1 und Ziffer 2, 74, 86, 86*a*, 87, 89 Absatz 1, 91, 93 Ziffer 2, 102, 104 Absatz 2, 105, 106 Absätze 1 und 2, 108–114*a*, 115–117, 121, 130 Ziffern 1 und 2, 131 Ziffern 1–4, 132, 134 Absatz 3, 135 Absätze 1 und 4, 137*a*, 137*b* Ziffer 1 Absatz 1 und Ziffer 2, 139, 141, 142, 144 Absatz 2, 149 Absatz 1, 150 Absatz 1, 151*a*–151*d*, 153–155, 156, 160 Absätze 1 und 2, 161 Ziffer 1, 162 Absätze 1 und 3, 164, 165 Ziffer 1 Absätze 1 und 3, 166 Ziffer 1 Absätze 1–4, 167, 168 Ziffer 1, 169 Absatz 1, 169*a* Ziffer 1 Absatz 1 und Ziffer 2, 171*a* Absatz 1, 171*b*, 171*c* Absatz 1, 172 Ziffer 1, 176 Absätze 1 und 1<sup>bis</sup>, 177 und 178 Ziffer 1.[^70-2]
 
 <sup>3</sup> Wird die Beurteilung einer der zivilen Gerichtsbarkeit unterstehenden Straftat der militärischen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch zur Verfolgung der in Artikel 269 Absatz 2 der Strafprozessordnung vom 5. Oktober 2007[^70-3] (StPO) aufgeführten Straftaten angeordnet werden.
 
 [^70-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Fassung gemäss Ziff. I 14 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^70-2]: Fassung gemäss Anhang 2 Ziff. 3/1 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^70-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1467,16 +1467,20 @@ Die anordnende Polizei oder der Untersuchungsrichter beendet die verdeckte Fahnd
 
 <sup>1</sup>
 
-Zur Aufklärung eines Verbrechens oder eines Vergehens kann eine Probe genommen und ein DNA-Profil erstellt werden von:
+Zur Aufklärung eines Verbrechens oder eines Vergehens, das Gegenstand des Verfahrens bildet, kann eine Probe genommen und ein DNA‑Profil erstellt werden von:[^73s-1]
 
 - a. der beschuldigten Person;
 - b. anderen Personen, insbesondere Opfern oder Tatortberechtigten, soweit es notwendig ist, um von ihnen stammendes biologisches Material von jenem der beschuldigten Person zu unterscheiden;
 - c. toten Personen;
 - d. tatrelevantem biologischem Material.
 
-<sup>2</sup> Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann der Untersuchungsrichter zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003[^73s-1] anordnen.
+<sup>1bis</sup> Von der beschuldigten Person kann auch eine Probe genommen und ein DNA‑Profil erstellt werden, wenn aufgrund konkreter Anhaltspunkte anzunehmen ist, sie könnte weitere Verbrechen oder Vergehen begangen haben.[^73s-2]
 
-[^73s-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+<sup>2</sup> Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann der Untersuchungsrichter zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003[^73s-3] anordnen.
+
+[^73s-1]: Fassung gemäss Anhang 1 Ziff. 10 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73s-2]: Eingefügt durch Anhang 1 Ziff. 10 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73s-3]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 73t
 
@@ -1488,13 +1492,11 @@ Zur Aufklärung eines Verbrechens oder eines Vergehens kann eine Probe genommen 
 
 #### Art. 73u
 
-**DNA-Profil von verurteilten Personen**
+**DNA-Profil von verurteilten Personen**[^73u-1]
 
-Das Gericht kann in seinem Urteil anordnen, dass eine Probe genommen und ein DNA-Profil erstellt wird von Personen:
+Das Gericht kann in seinem Urteil anordnen, dass von einer wegen eines Verbrechens oder Vergehens verurteilten Person eine Probe genommen und ein DNA‑Profil erstellt werden, wenn aufgrund konkreter Anhaltspunkte anzunehmen ist, die verurteilte Person könnte weitere Verbrechen oder Vergehen begehen.
 
-- a. die wegen eines vorsätzlich begangenen Verbrechens zu einer Freiheitsstrafe von mehr als einem Jahr verurteilt worden sind;
-- b. die wegen eines vorsätzlich begangenen Verbrechens oder Vergehens gegen Leib und Leben oder gegen die sexuelle Integrität verurteilt worden sind;
-- c. gegenüber denen eine therapeutische Massnahme oder die Verwahrung angeordnet worden ist.
+[^73u-1]: Fassung gemäss Anhang 1 Ziff. 10 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 73v
 
