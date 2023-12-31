@@ -5,11 +5,12 @@ title: Gesetz über die Rechtspflege
 short: RPflG
 language: de
 version: 2024-01-01
+corrected: 2023-10-17
 version_adopted: 2023-09-07
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/de/versions/3260/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3134/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -268,7 +269,7 @@ verordnet:
 
 <sup>4</sup> Ein Gerichtsschreiber kann einen Bezirksrichter, einen Jugendrichter, einen Zwangsmassnahmenrichter und einen Straf- und Massnahmenvollzugsrichter vertreten. Er kann jedoch nicht mit dem Richter, dessen Schreiber er ist, im Kreisgericht Einsitz nehmen.
 
-<sup>5</sup> Die Pflichten der Gerichtsschreiber werden im vorliegenden Gesetz und in seinen Ausführungsbestimmungen, in den Prozessordnungen sowie in den anderen Bestimmungen über die Rechtspflege umschrieben. Unter Vorbehalt des Bundesrechts ist die Führung des Protokolls von Instruktionssitzungen in der Regel durch das administrative Personal unter der Verantwortung des Gerichtspräsidenten wahrzunehmen. Es können Aufnahme- und Wiedergabegeräte gemäss einem vom Kantonsgericht zu erlassenden Reglement verwendet werden.
+<sup>5</sup> Die Pflichten der Gerichtsschreiber werden im vorliegenden Gesetz und in seinen Ausführungsbestimmungen, in den Prozessordnungen sowie in den anderen Bestimmungen über die Rechtspflege umschrieben. Unter Vorbehalt des Bundesrechts ist die Führung des Protokolls von Instruktionssitzungen in der Regel durch das administrative Personal unter der Verantwortung des Gerichtspräsidenten wahrzunehmen. Ausnahmsweise können Aufnahme- und Wiedergabegeräte gemäss einem vom Kantonsgericht zu erlassenden Reglement verwendet werden.
 
 #### Art. 18
 
@@ -321,12 +322,6 @@ verordnet:
 - a) die Beschwerde ist beim Staatsrat einzureichen. Das Verfahren richtet sich entsprechend dem Rechtsgebiet nach den Bestimmungen der Zivil- oder Strafprozessordnung oder denjenigen des Verwaltungsverfahrens;
 - b) der Staatsrat bezeichnet in analoger Anwendung von Absatz 2 ein zweites ausserordentliches Gericht.
 
-#### Art. 21a
-
-**Aufhebung des Amtsgeheimnisses**
-
-<sup>1</sup> Der Präsident des Kantonsgerichts entbindet Gemeinderichter, Richter und Ersatzrichter erster Instanz vom Amtsgeheimnis und erlaubt ihnen, vor Gericht auszusagen.
-
 #### Art. 22
 
 **Das Obergericht - Sonderfälle**
@@ -342,17 +337,13 @@ verordnet:
 
 **Unabhängige, hierarchische und dezentrale Staatsanwaltschaft**
 
-<sup>1</sup> Für den gesamten Kanton wird eine in der Rechtsanwendung unabhängige Staatsanwaltschaft geschaffen, die aus einem zentralen Amt mit Sitz in Sitten und einem regionalen Amt pro Kreisgericht mit Sitz in Brig-Glis, Sitten bzw. St-Maurice besteht.
+<sup>1</sup> Für den gesamten Kanton wird eine in der Rechtsanwendung unabhängige Staatsanwaltschaft geschaffen.
 
-<sup>2</sup> Vorbehaltlich der Zuständigkeiten des Büros der Staatsanwaltschaft leitet der Generalstaatsanwalt die Tätigkeit der Staatsanwaltschaft und wacht über den guten Gang der Ämter.
+<sup>2</sup> Die kantonale Staatsanwaltschaft besteht aus einem zentralen Amt mit Sitz in Sitten und drei regionalen Ämtern mit Sitz in Brig-Glis, Sitten und St-Maurice.
 
-<sup>2<sup>bis</sup></sup> Im Verhinderungsfall wird der Generalstaatsanwalt in seinen Funktionen und Zuständigkeiten durch den Generalstaatsanwalt-Stellvertreter vertreten oder, falls dieser ebenfalls verhindert ist, durch einen Oberstaatsanwalt in der Reihenfolge des Amtsalters und subsidiär des Alters.
+<sup>3</sup> Das zentrale Amt wird vom Generalstaatsanwalt, unterstützt von einem Generalstaatsanwalt-Stellvertreter, geleitet. Jedes regionale Amt wird, unter Vorbehalt der Zuständigkeiten des Generalstaatsanwaltes, von einem Oberstaatsanwalt geleitet.
 
-<sup>3</sup> Unter Vorbehalt der Zuständigkeiten des Generalstaatsanwalts werden das zentrale Amt vom Generalstaatsanwalt-Stellvertreter und jedes regionale Amt von einem Oberstaatsanwalt geleitet.
-
-<sup>3<sup>bis</sup></sup> Der Generalstaatsanwalt-Stellvertreter und die Oberstaatsanwälte bezeichnen jeweils unter den Staatsanwälten ihres Amtes einen Vertreter, der sie im Verhinderungsfall vertritt.
-
-<sup>4</sup> Der Generalstaatsanwalt, der Generalstaatsanwalt-Stellvertreter und die Oberstaatsanwälte bilden das Büro der Staatsanwaltschaft.
+<sup>4</sup> Der Grosse Rat wählt und vereidigt den Generalstaatsanwalt, den Generalstaatsanwalt-Stellvertreter und die Oberstaatsanwälte, welche das Büro der Staatsanwaltschaft bilden.
 
 <sup>5</sup> …
 
@@ -383,8 +374,7 @@ verordnet:
 - c) die Zahl und die Art der abgeschlossenen und der hängigen Fälle sowie die Arbeitslast der einzelnen Einheiten;
 - d) die Bearbeitungsdauer der Fälle;
 - e) den Einsatz von Personal sowie von Finanzmitteln und bestehender Infrastruktur;
-- f) die Anzahl und den Ausgang der eingereichten Beschwerden gegen Verfügungen und Verfahrenshandlungen der Staatsanwaltschaft;
-- g) die Kriminalpolitik der Staatsanwaltschaft.
+- f) die Anzahl und den Ausgang der eingereichten Beschwerden gegen Verfügungen und Verfahrenshandlungen der Staatsanwaltschaft.
 
 <sup>2</sup> …
 
@@ -394,16 +384,13 @@ verordnet:
 
 **Interne Organisation**
 
-<sup>1</sup> Auf Vorschlag des Generalstaatsanwalts und Bericht des Staatsrates legt der Grosse Rat auf dem Beschlussweg eine Höchstzahl von juristischen Einheiten fest, indem er die Zahl der Staatsanwälte, der Substituten und der Gerichtsschreiber für die gesamte Staatsanwaltschaft festlegt.
+<sup>1</sup> Auf Vorschlag des Generalstaatsanwalts und Bericht des Staatsrates legt der Grosse Rat auf dem Beschlussweg die Anzahl Staatsanwälte und Substituten fest.
 
 <sup>2</sup> Das Büro der Staatsanwaltschaft:
 
-- a) ernennt und vereidigt die Staatsanwälte, die Substituten und die Gerichtsschreiber;
+- a) ernennt und vereidigt die Staatsanwälte und die Substituten;
 - b) ernennt das administrative Personal;
-- c) entscheidet über die Zuteilung der Staatsanwälte, der Substituten, der Gerichtsschreiber und des administrativen Personals zu den Ämtern;
-- d) entbindet Staatsanwälte und Substituten vom Amtsgeheimnis und erlaubt ihnen, vor Gericht auszusagen.
-
-<sup>2<sup>bis</sup></sup> Innerhalb der Höchstzahl der juristischen Einheiten und im Rahmen des Budgets kann das Büro der Staatsanwaltschaft die Anzahl der Gerichtsschreiber reduzieren und im Verhältnis dazu die Anzahl der Staatsanwälte und Substituten erhöhen. Anschliessend entscheidet es über die Zuteilung gemäss Absatz 2 Buchstabe c.
+- c) entscheidet über die Zuteilung der Staatsanwälte, der Substituten und des administrativen Personals zu den Ämtern.
 
 <sup>3</sup> Die Entscheide des Büros der Staatsanwaltschaft hinsichtlich der Organisation werden im kantonalen Amtsblatt veröffentlicht.
 
@@ -443,9 +430,9 @@ verordnet:
 
 #### Art. 28a
 
-**Ernennung und Vereidigung der Staatsanwälte, der Substituten und der Gerichtsschreiber**
+**Ernennung und Vereidigung der Staatsanwälte und der Substituten**
 
-<sup>1</sup> Das Ernennungsverfahren und die Vereidigung der Staatsanwälte, der Substituten, der Gerichtsschreiber und des ausserordentlichen Staatsanwalts wird durch das Reglement der Staatsanwaltschaft des Kantons Wallis festgelegt.
+<sup>1</sup> Das Ernennungsverfahren und die Vereidigung der Staatsanwälte, der Substituten und des ausserordentlichen Staatsanwalts wird durch das Reglement der Staatsanwaltschaft des Kantons Wallis festgelegt.
 
 #### Art. 29
 
@@ -459,7 +446,7 @@ verordnet:
 
 **Vereidigung - Feierliches Versprechen**
 
-<sup>1</sup> Die Mitglieder der Gerichtsbehörden und der Staatsanwaltschaft sowie die Gerichtsschreiber müssen schwören oder feierlich versprechen, ihr Amt nach bestem Gewissen auszuüben.
+<sup>1</sup> Die zu vereidigenden Mitglieder der Gerichtsbehörden, die Mitglieder der Staatsanwaltschaft sowie die Gerichtsschreiber müssen schwören oder feierlich versprechen, ihr Amt nach bestem Gewissen auszuüben.
 
 <sup>2</sup> Wenn sie vereidigt werden wollen, leisten sie folgenden Eid: ''Ich schwöre, die mir übertragenen Ämter nach bestem Gewissen auszuüben. Ich schwöre es beim Namen Gottes, so wie ich wünsche, dass er mir in meinem letzten Augenblick beistehe.''
 
@@ -475,7 +462,7 @@ verordnet:
 
 **Allgemeine Pflichten der Richter und Staatsanwälte**
 
-<sup>1</sup> Die Richter, Beisitzer, Staatsanwälte und Substituten:
+<sup>1</sup> Die Richter, Beisitzer und Staatsanwälte:
 
 - a) sind unabhängig und unparteiisch;
 - b) üben ihre Aufgabe mit Gewissenhaftigkeit, Sorgfalt und Strenge aus;
@@ -483,15 +470,13 @@ verordnet:
 - d) sind an die Verschwiegenheitspflicht gebunden;
 - e) halten ihre Rechtskenntnisse auf dem neuesten Stand und vertiefen sie.
 
-<sup>2</sup> Der Justizrat entbindet Kantonsrichter, Ersatzrichter, Beisitzer und Mitglieder des Büros der Staatsanwaltschaft vom Amtsgeheimnis und erlaubt ihnen, vor Gericht auszusagen.
-
 #### Art. 32
 
 **Aufsicht**
 
 <sup>1</sup> Das Kantonsgericht übt die Aufsicht über die Gerichtsschreiber und das administrative Personal aus. Gemäss dem Organisationsreglement über die Walliser Gerichte ist es zuständig, disziplinarische Massnahmen in erster Instanz und als Beschwerdeinstanz auszusprechen.
 
-<sup>2</sup> Das Büro der Staatsanwaltschaft übt die gleiche Aufsicht über die Gerichtsschreiber und das administrative Personal aus. Das Kantonsgericht ist Beschwerdeinstanz für die gegen sie getroffenen Disziplinarentscheide.
+<sup>2</sup> Das Büro der Staatsanwaltschaft übt die gleiche Aufsicht über das administrative Personal aus. Das Kantonsgericht ist Beschwerdeinstanz für die gegen das administrative Personal getroffenen Disziplinarentscheide.
 
 <sup>3</sup> Vorbehalten bleibt die interne Kontrolle über die Gerichte und die Ämter der Staatsanwaltschaft im Sinne von Artikel 19 Absatz 4 des Gesetzes über den Justizrat.
 
@@ -527,11 +512,11 @@ verordnet:
 
 #### Art. 34a
 
-**Interessenbindungen und Parteizugehörigkeit**
+**Interessenbindungen**
 
-<sup>1</sup> Bei Amtsantritt und bei jeder Änderung gibt jeder Magistrat der Gerichtsbarkeit und der Staatsanwaltschaft gemäss den reglementarisch festgelegten Kriterien seine Interessenbindungen und die Parteizugehörigkeit an.
+<sup>1</sup> Bei Amtsantritt und bei jeder Änderung zeigt jeder Magistrat der Gerichtsbehörden und der Staatsanwaltschaft gemäss den reglementarisch festgelegten Kriterien seine Interessenbindungen an.
 
-<sup>2</sup> Der Generalsekretär der Walliser Gerichte erstellt ein öffentliches Register mit den Angaben, die von den Magistraten der Gerichtsbarkeit gemacht werden. Der Generalsekretär der Staatsanwaltschaft macht dasselbe mit den Angaben der Magistraten der Staatsanwaltschaft. Diese Register werden auf den offiziellen Websites der Judikative und der Staatsanwaltschaft veröffentlicht.
+<sup>2</sup> Der Generalsekretär der Walliser Gerichte erstellt ein öffentliches Register mit den Angaben der Magistraten der Gerichtsbehörden. Der Generalstaatsanwalt macht dasselbe mit den Angaben der Magistraten der Staatsanwaltschaft. Diese Register werden auf den offiziellen Websites der Justiz und der Staatsanwaltschaft veröffentlicht.
 
 #### Art. 35
 
@@ -550,7 +535,7 @@ verordnet:
 
 <sup>3</sup> Vorbehalten bleiben:
 
-- a) …
+- a) Artikel 59 der Schweizerischen Strafprozessordnung, wenn der Ausstand gegen eine Strafbehörde gerichtet ist;
 - b) Artikel 21 Absätze 2 und 3 des vorliegenden Gesetzes, wenn der Ausstand von sämtlichen Mitgliedern des Kantonsgerichts verlangt wird;
 - c) Artikel 22 des vorliegenden Gesetzes, wenn Beschwerde gegen den Ausstandsentscheid betreffend einen Kantonsrichter, den Präsidenten oder den Vizepräsidenten des Kantonsgerichts geführt wird.
 
@@ -562,11 +547,11 @@ verordnet:
 
 **Sekretariat**
 
-<sup>1</sup> Das Kantonsgericht und die Staatsanwaltschaft verfügen über ein Generalsekretariat, das sie bei der allgemeinen Verwaltung, insbesondere in den Bereichen Personal, Räumlichkeiten, Ausrüstung, Informatik, Buchführung und Vorbereitung des Budgets unterstützt.
+<sup>1</sup> Das Kantonsgericht verfügt über ein Generalsekretariat, welches es in der allgemeinen Verwaltung, insbesondere in den Bereichen Personal, Räumlichkeiten, Ausrüstung, Informatik, Buchführung und Vorbereitung des Budgets unterstützt.
 
-<sup>2</sup> Das Kantonsgericht und der Generalstaatsanwalt legen die Organisation des Generalsekretariates und dessen Zuständigkeiten in einem Reglement fest.
+<sup>2</sup> Das Kantonsgericht legt die Organisation des Generalsekretariates und seine Kompetenzen in einem Reglement fest.
 
-<sup>3</sup> …
+<sup>3</sup> Die Staatsanwaltschaft verfügt über ihr eigenes Sekretariat.
 
 #### Art. 37
 
@@ -605,7 +590,7 @@ verordnet:
 
 <sup>3</sup> Das Kantonsgericht legt in einem Reglement die Beziehungen zwischen den Gerichten und den Medien sowie die Umsetzung dieses Artikels fest.
 
-<sup>4</sup> Der Generalstaatsanwalt bestimmt in einem Reglement die Beziehungen der Staatsanwaltschaft zu den Medien.
+<sup>4</sup> Die Staatsanwaltschaft bestimmt in einem Reglement die Beziehungen mit den Medien.
 
 #### Art. 39
 
@@ -625,19 +610,19 @@ verordnet:
 
 **Administratives Personal**
 
-<sup>1</sup> Das administrative Personal der Gerichte wird durch das Kantonsgericht ernannt, dasjenige der Staatsanwaltschaft durch ihr Büro. Das administrative Personal ist der Gesetzgebung über das Personal des Staates unterstellt. Die Bezirksrichter, die Jugendrichter, die Richter des Zwangsmassnahmengerichts und des Straf- und Massnahmenvollzugsgerichts, der Generalstaatsanwalt-Stellvertreter sowie die Oberstaatsanwälte schlagen das für ihren Sitz zu ernennende Personal vor.
+<sup>1</sup> Das administrative Personal der Gerichte wird durch das Kantonsgericht ernannt, dasjenige der Staatsanwaltschaft durch ihr Büro. Das administrative Personal wird der Gesetzgebung über das Personal des Staates unterworfen. Die Bezirksrichter, die Jugendrichter, die Richter des Zwangsmassnahmengerichts und des Straf- und Massnahmenvollzugsgerichts sowie die Oberstaatsanwälte schlagen das für ihren Sitz zu ernennende Personal vor.
 
-<sup>2</sup> Im Rahmen des Budgets kann das Kantonsgericht eine gemäss Organigramm dem administrativen Personal zugeteilte Stelle in eine Stelle als Gerichtsschreiber oder erstinstanzlicher Richter umwandeln. In gleicher Weise kann das Büro der Staatsanwaltschaft eine gemäss Organigramm dem administrativen Personal zugeteilte Stelle in eine Stelle als Staatsanwalt, Substitut oder Gerichtsschreiber umwandeln.
+<sup>2</sup> Im Rahmen des Budgets kann das Kantonsgericht eine gemäss Organigramm dem administrativen Personal zugeteilte Stelle in eine Stelle als Gerichtsschreiber oder erstinstanzlicher Richter umwandeln. In gleicher Weise kann das Büro der Staatsanwaltschaft eine gemäss Organigramm dem administrativen Personal zugeteilte Stelle in eine Stelle als Staatsanwalt oder Substitut umwandeln.
 
 #### Art. 42
 
 **Weibel**
 
-<sup>1</sup> Das Kantonsgericht, die Staatsanwaltschaft, die Kreisgerichte und die erstinstanzlichen Richter können von einem oder mehreren Weibeln unterstützt werden, die von diesen Behörden für die Legislaturperiode ernannt werden.
+<sup>1</sup> Das Kantonsgericht, die Staatsanwaltschaft, die Kreisgerichte und die erstinstanzlichen Richter können von einem oder mehreren Weibeln unterstützt werden, die von diesen Behörden für die Legislaturperiode ernannt und vereidigt werden.
 
-<sup>2</sup> …
+<sup>2</sup> Die Ernennung und Vereidigung sind im Protokoll zu vermerken.
 
-<sup>3</sup> …
+<sup>3</sup> Die Ernennung der Weibel wird im Amtsblatt veröffentlicht.
 
 <sup>4</sup> Ohne gegenteilige Bestimmung ist die Gesetzgebung über das Personal des Staates analog anwendbar.
 
@@ -653,15 +638,13 @@ verordnet:
 
 <sup>1</sup> Das Kantonsgericht legt durch ein Reglement die Organisation und Führung der Gerichtsarchive fest.
 
-<sup>2</sup> Der Generalstaatsanwalt legt durch ein Reglement die Organisation und Führung des Archivs der Staatsanwaltschaft fest.
+<sup>2</sup> Die Staatsanwaltschaft legt durch ein Reglement die Organisation und Führung ihres Archivs fest.
 
 #### Art. 45
 
-**Reglemente des Kantonsgerichtes, der Staatsanwaltschaft und des Büros der Staatsanwaltschaft**
+**Reglemente des Kantonsgerichtes und des Büros der Staatsanwaltschaft**
 
 <sup>1</sup> Das Kantonsgericht beschliesst in einem Reglement die Bestimmungen über seine interne Organisation, jene der Bezirksgerichte, des Jugendgerichts, des Zwangsmassnahmengerichts und des Straf- und Massnahmenvollzugsgerichts.
-
-<sup>1<sup>bis</sup></sup> Der Generalstaatsanwalt beschliesst in einem Reglement und nach Anhörung des Büros die Bestimmungen über die interne Organisation der Staatsanwaltschaft.
 
 <sup>2</sup> Das Büro der Staatsanwaltschaft beschliesst in einem Reglement die Bestimmungen über seine interne Organisation.
 
