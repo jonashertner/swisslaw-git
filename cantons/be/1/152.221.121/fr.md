@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Ordonnance sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration"
 short: "Ordonnance d’organisation DSSI, OO DSSI"
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-15
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2749/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2945/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2749/pdf_file"
 
 (Ordonnance d’organisation DSSI, OO DSSI)
 
-du 30.06.2021 (état au 01.01.2023)
+du 30.06.2021 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -153,7 +153,7 @@ arrête:
 <sup>1</sup> Le Secrétariat général
 
 - a conseille le directeur ou la directrice, les offices de la Direction ainsi que la CCER Berne sur les questions juridiques et veille à l’application uniforme du droit au sein de la Direction;
-- b instruit les procédures selon la législation sur l’information concernant la consultation des dossiers de la Direction;
+- b instruit les procédures selon la législation sur l’information concernant l'accès aux informations de la Direction;
 - c pourvoit, par le biais de sa coordination et de son assistance, à la planification, à l'exécution, au controlling et au compte rendu dans tout ce qui touche aux tâches (objectifs et mesures) et aux ressources de la Direction;
 - d veille, dans les limites de la présente ordonnance, à ce que la Direction se dote d'une bonne organisation structurelle et fonctionnelle;
 - e gère les finances et la comptabilité de la Direction;

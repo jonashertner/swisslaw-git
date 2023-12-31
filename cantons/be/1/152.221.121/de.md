@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Verordnung über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion"
 short: "Organisationsverordnung GSI, OrV GSI"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-15
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2749/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2945/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2749/pdf_file"
 
 (Organisationsverordnung GSI, OrV GSI)
 
-vom 30.06.2021 (Stand 01.01.2023)
+vom 30.06.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -153,7 +153,7 @@ beschliesst:
 <sup>1</sup> Das Generalsekretariat ist zuständig für
 
 - a die Beratung der Direktorin oder des Direktors, der Ämter und der KEK Bern in Rechtsfragen sowie die Sicherstellung einer einheitlichen Rechtsanwendung innerhalb der Direktion,
-- b die Instruktion von Verfahren gemäss der Informationsgesetzgebung um Einsicht in Akten der Direktion,
+- b die Instruktion von Verfahren gemäss der Informationsgesetzgebung um Zugang zu Informationen der Direktion,
 - c die Koordination und methodische Unterstützung der Planung, des Vollzugs, des Controllings und der Berichterstattung im Bereich der Aufgaben (Ziele und Massnahmen) und Ressourcen der Direktion,
 - d eine zweckmässige Aufbau- und Ablauforganisation im Rahmen dieser Verordnung,
 - e das Finanz- und Rechnungswesen der Direktion,
