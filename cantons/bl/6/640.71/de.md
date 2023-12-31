@@ -4,13 +4,13 @@ number: "640.71"
 title: "Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung"
 short: "Verordnung Sonderpädagogik, Vo SoPä"
 language: de
-version: 2022-08-01
-valid_until: 2023-12-31
-version_adopted: 2022-01-25
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-12-05
 adopted: 2021-06-22
 in_force: 2021-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.71"
-pdf: "https://bl.clex.ch/api/de/versions/3233/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3833/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3233/pdf_file"
 
 (Verordnung Sonderpädagogik, Vo SoPä)
 
-Vom 22.06.2021 (Stand 01.08.2022)
+Vom 22.06.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -36,7 +36,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug der Interkantonalen Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik vom 25. Oktober 2007[^1-1] sowie des Bildungsgesetzes vom 6. Juni 2002[^1-2] im Bereich der Speziellen Förderung an der Volksschule, der Sonderschulung und der heilpädagogischen Früherziehung. Sie enthält überdies Bestimmungen für die Logopädie auf der Sekundarstufe II.
+<sup>1</sup> Diese Verordnung regelt den Vollzug der Interkantonalen Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik vom 25. Oktober 2007[^1-1] sowie des Bildungsgesetzes vom 6. Juni 2002[^1-2] im Bereich der Speziellen Förderung an der Volksschule, der Sonderschulung und der heilpädagogischen Früherziehung. Sie enthält überdies Bestimmungen für die Logopädie und individuelle Unterstützungsmassnahmen auf der Sekundarstufe II.
 
 <sup>2</sup> Soweit diese Verordnung keine speziellen Bestimmungen enthält, gelten für die Spezielle Förderung und die Sonderschulung sinngemäss die weiteren Bestimmungen der Bildungsgesetzgebung für die öffentlichen Volksschulen.
 
@@ -90,6 +90,10 @@ beschliesst:
 <sup>5</sup> Bei musischer Hochbegabung bestimmt das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, nach erfolgter Abklärung des SPD im Einzelfall eine Fachperson oder eine Fachstelle mit speziellen Kenntnissen und beauftragt sie mit der fachlichen Abklärung.
 
 <sup>6</sup> Die Kommission Leistungssportförderung ist für die Aufnahme in die Angebote der Leistungssportförderung zuständig.
+
+<sup>7</sup> Die Aufnahmekommission der Lehrbetriebe beider Basel ist für die Belegung der Ausbildungsplätze der integrierten betrieblichen Grundbildung zuständig.
+
+<sup>8</sup> Die Hauptabteilung Berufsbildung ist zuständig für die Abklärung bezüglich Berufsbildung und beruflicher Integration bei stationären Unterbringungen und die Empfehlung an das Amt für Kind, Jugend und Behindertenangebote.
 
 ## 2 Spezielle Förderung
 
@@ -209,6 +213,22 @@ beschliesst:
 
 [^13-1]: [SGS 640.51](https://bl.clex.ch/data/640.51/de)
 
+#### § 13a
+
+**Individuelle Unterstützungsangebote auf der Sekundarstufe II**
+
+<sup>1</sup> Schülerinnen, Schüler und Lernende der Sekundarstufe II mit von der Invalidenversicherung nicht anerkannten Behinderungen oder ausgeprägten Beeinträchtigungen in der Sozialkompetenz bzw. schweren Verhaltensauffälligkeiten können mit individuellen Unterstützungsangeboten unterstützt werden.
+
+<sup>2</sup> Individuelle Unterstützungsangebote sind insbesondere:
+
+- a. Lerncoaching bzw. Supervision;
+- b. Sozialpädagogik bzw. Assistenz;
+- c. integrierte betriebliche Grundbildung;
+- d. stationäre Berufsbildung und Berufsintegration in Kombination mit einer stationären Unterbringung;
+- e. Beschulung an einer dem besonderen Bildungsbedarf entsprechend qualifizierten Privatschule.
+
+<sup>3</sup> Individuelle Unterstützungsangebote vermitteln keinen Anspruch auf einen bestimmten Bildungsabschluss auf der Sekundarstufe II oder die Erhöhung der Qualifikationsstufe.
+
 ### 2.3 Ressourcen
 
 #### § 14
@@ -296,6 +316,14 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, überprüft die Lektionen-Pools alle 5 Jahre. Die Bildungs-, Kultur- und Sportdirektion beantragt dem Regierungsrat bei Bedarf deren Anpassung.
 
+#### § 18a
+
+**Ressourcen für individuelle Unterstützungsangebote auf der Sekundarstufe II**
+
+<sup>1</sup> Ressourcen für individuelle Unterstützungsangebote auf der Sekundarstufe II stehen entsprechend dem indizierten Bedarf subsidiär zu den Massnahmen der Invalidenversicherung und den Angeboten der speziellen Förderung auf der Sekundarstufe II gemäss § 46a Abs. 1 Bildungsgesetz[^18a-1] zur Verfügung.
+
+[^18a-1]: [SGS 640](https://bl.clex.ch/data/640/de/art46a)
+
 ### 2.4 Inanspruchnahme
 
 #### § 19
@@ -325,6 +353,8 @@ beschliesst:
 <sup>4</sup> Die abklärende Fachstelle überweist die Empfehlungen zur Umsetzung von schulischen bzw. logopädischen Massnahmen den Erziehungsberechtigten und der zuständigen Schulleitung und bei Empfehlungen für eine Privatschule oder ein Spezialangebot dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik.
 
 <sup>5</sup> Für die Förderung von Schülerinnen und Schülern mit einer besonderen sportlichen Leistungsfähigkeit kommen die Bestimmungen der Verordnung über die spezielle Förderung von sportbegabten Jugendlichen vom 31. August 2004[^20-1] zur Anwendung.
+
+<sup>6</sup> Abklärungen für individuelle Unterstützungsmassnahmen auf der Sekundarstufe II gemäss § 13a Abs. 2 Bst. a, b und e richten sich sinngemäss nach den §§ 36 bzw. 38. An der Abklärung beteiligt sind die Dienststelle Berufs-, Mittel- und Hochschulen bzw. bei stationären Unterbringungen das Amt für Kind, Jugend und Behindertenangebote sowie in der beruflichen Grundbildung die Lehraufsicht.
 
 [^20-1]: [SGS 640.51](https://bl.clex.ch/data/640.51/de)
 
@@ -361,6 +391,8 @@ beschliesst:
 <sup>7</sup> Die zugewiesenen Massnahmen werden von der zuweisenden Stelle jährlich überprüft.
 
 <sup>8</sup> Massnahmen für Logopädie werden für höchstens 2 Jahre verfügt. Sie können auf Antrag des Logopädischen Dienstes, im Einverständnis mit den Erziehungsberechtigten um maximal 1 Jahr verlängert werden. Bei Schülerinnen und Schülern der Sekundarstufen I und II und der Integrativen Sonderschulung meldet die zuweisende Schulleitung dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, die Zuweisungsentscheide.
+
+<sup>9</sup> Die Zuweisung zu individuellen Unterstützungsmassnahmen auf der Sekundarstufe II erfolgt entsprechend dem Zuständigkeitsbereich durch die Dienststelle Berufs-, Mittel- und Hochschulen bzw. bei stationären Unterbringungen durch das Amt für Kind, Jugend und Behindertenangebote. Im Übrigen richtet sich die Zuweisung sinngemäss nach den §§ 39 und 40.
 
 ## 3 Sonderschulung
 
