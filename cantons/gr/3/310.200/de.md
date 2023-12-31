@@ -4,13 +4,12 @@ number: "310.200"
 title: Anwaltsverordnung
 short: AnwV
 language: de
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2023-04-04
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2023-04-04
 in_force: 2023-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/310.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3310/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3310/pdf_file"
 
 (AnwV)
 
-Vom 04.04.2023 (Stand 01.04.2023)
+Vom 04.04.2023 (Stand 01.01.2024)
 
 Gestützt auf Art. 18 und Art. 19 des Anwaltsgesetzes[^ingress-1] sowie Art. 45 Abs. 1 der Kantonsverfassung[^ingress-2]
 
@@ -85,7 +84,7 @@ von der Regierung erlassen am 4. April 2023
 
 <sup>1</sup> Gesuchstellende haben folgende Gebühren zu entrichten:
 
-- a) für die Eintragung ins kantonale Anwaltsregister: — Fr. 200.–
+- a) für die Eintragung ins kantonale Anwaltsregister und in die öffentliche Liste: — Fr. 200.–
 - b) für eine Praktikumsbewilligung und deren Verlängerung: — Fr. 100.–
 - c) für eine Disziplinarbescheinigung: — Fr. 50.–
 

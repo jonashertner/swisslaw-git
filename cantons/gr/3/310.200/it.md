@@ -4,13 +4,12 @@ number: "310.200"
 title: Ordinanza sugli avvocati
 short: OAvv
 language: it
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2023-04-04
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2023-04-04
 in_force: 2023-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/310.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3310/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3349/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3310/pdf_file"
 
 (OAvv)
 
-del 04.04.2023 (stato 01.04.2023)
+del 04.04.2023 (stato 01.01.2024)
 
 emanata dal Governo il 4 aprile 2023
 
@@ -85,7 +84,7 @@ visti l'art. 18 e l'art. 19 della legge sugli avvocati[^ingress-1] nonché l'art
 
 <sup>1</sup> I richiedenti devono versare le seguenti tasse:
 
-- a) per l'iscrizione nel registro cantonale degli avvocati: — fr. 200.–
+- a) per l'iscrizione nel registro cantonale degli avvocati e nell'elenco pubblico: — fr. 200.–
 - b) per il conferimento di un'autorizzazione al praticantato e la relativa proroga: — fr. 100.–
 - c) per un'attestazione disciplinare: — fr. 50.–
 

@@ -4,13 +4,12 @@ number: "310.200"
 title: Ordinaziun davart las advocatas ed ils advocats
 short: OAdv
 language: rm
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2023-04-04
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2023-04-04
 in_force: 2023-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/310.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3310/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3310/pdf_file"
 
 (OAdv)
 
-dals 04-04-2023 (versiun dals 01-04-2023)
+dals 04-04-2023 (versiun dals 01-01-2024)
 
 Sa basond sin l'art. 18 e l'art. 19 da la Lescha davart las advocatas ed ils advocats[^ingress-1] sco er sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-2]
 
@@ -85,7 +84,7 @@ relaschada da la Regenza ils 4 d'avrigl 2023
 
 <sup>1</sup> Las petentas ed ils petents ston pajar las suandantas taxas:
 
-- a) per l'inscripziun en il register chantunal da las advocatas e dals advocats: — 200 francs
+- a) per l'inscripziun en il register chantunal da las advocatas e dals advocats e sin la glista publica: — 200 francs
 - b) per ina permissiun da far in praticum e per la prolungaziun da tala: — 100 francs
 - c) per in attest disciplinar: — 50 francs
 
