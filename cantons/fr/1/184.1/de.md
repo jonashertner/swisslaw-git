@@ -4,13 +4,12 @@ number: "184.1"
 title: E-Government-Gesetz
 short: E-GovG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-07
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2020-12-18
 in_force: 2021-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7472/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8623/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ E-Government-Gesetz
 
 (E-GovG)
 
-vom 18.12.2020 (Fassung in Kraft getreten am 01.01.2022)
+vom 18.12.2020 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -65,9 +64,9 @@ beschliesst:
 - b) «Benützerin» oder «Benützer» die natürliche oder juristische Person und die Gemeinwesen, die einen Vertrag zur Nutzung des virtuellen Schalters abgeschlossen haben;
 - c) «Transaktion» eine elektronische Übertragung von Daten zwischen einer Benützerin oder einem Benützer und einer Verwaltungsbehörde oder zwischen Verwaltungsbehörden;
 - d) «Leistung» eine Tätigkeit oder ein Ergebnis, die oder das von einer Verwaltungsbehörde nach einem durch eine Transaktion ausgelösten Verfahren erbracht wird;
-- e) «virtueller Schalter» die gesicherte Infrastruktur, die sich auf Informations- und Kommunikationstechnologie stützt und mit der die Benützerinnen und Benützer Informationen oder Leistungen der Verwaltung erhalten.
+- e) «virtueller Schalter» die gesicherte Infrastruktur, die sich auf Informations- und Kommunikationstechnologie stützt und mit der die Benützerinnen und Benützer Informationen oder Leistungen der Verwaltung erhalten;
 - f) «E-Government» die Nutzung von Informations- und Kommunikationstechnologien sowohl beim Betrieb und bei der Organisation der Gemeinwesen als auch in ihren Beziehungen zu Dritten;
-- g) «Auslagerung» eine Form der Bearbeitung durch Auftragsbearbeiter, die zur Folge hat, dass das Bearbeiten von Daten oder die Verwaltung von Informatiktools auf die Infrastrukturen des Auftragsbearbeiters übertragen werden;
+- g) «Auslagerung» eine qualifizierte Form der Bearbeitung durch Auftragsbearbeiter, bei der IT-Ressourcen genutzt werden, auf die über ein Kommunikationsnetz aus der Ferne zugegriffen wird, um Daten zu speichern, zu bearbeiten und auszutauschen;
 - h) «Auftragsbearbeiter» eine Privatperson oder ein zu einem anderen Gemeinwesen gehörendes öffentliches Organ, die oder das für eine Verwaltungsbehörde Daten bearbeitet oder Informatiktools verwaltet.
 
 ## 2 Virtueller Schalter
@@ -346,11 +345,11 @@ beschliesst:
 - a) ergreift sie die Vorsichtsmassnahmen, die bei der Wahl des Auftragsbearbeiters, den Weisungen an ihn und der Aufsicht über ihn aufgrund der Umstände geboten sind;
 - b) gewährleistet sie die Datensicherheit und die Sicherheit ihrer eigenen Informationssysteme mit dem Abschluss eines Vertrags, in dem mindestens der Gegenstand, die Art, der Zweck und die Dauer der Auslagerung, die betroffenen Kategorien von Daten sowie die Pflichten und Rechte jeder Partei festgehalten werden;
 - c) überträgt sie dem Auftragsbearbeiter kein Bearbeiten, das sie nicht selber ausführen darf;
-- d) sorgt sie dafür, dass sie die von einer Auslagerung betroffenen Daten und In-formatiktools jederzeit zurückbekommen kann, namentlich damit sie den Auftragsbearbeiter wechseln, die Daten wieder bei sich bearbeiten oder sie dem historischen Archiv abliefern kann.
+- d) sorgt sie dafür, dass sie die von einer Auslagerung betroffenen Daten und Informatiktools jederzeit zurückbekommen kann, namentlich damit sie den Auftragsbearbeiter wechseln, die Daten wieder bei sich bearbeiten oder sie dem historischen Archiv abliefern kann.
 
-<sup>2</sup> Wenn die Auslagerung mehrere verschiedene Behörden desselben Gemeinwesens betrifft, wird eine hauptverantwortliche Behörde bezeichnet.
+<sup>2</sup> Innerhalb der Kantonsverwaltung tragen die Verwaltungsbehörde und das für die Informatik zuständige Amt[^30-1] gemeinsam die Verantwortung für die Umsetzung und die Überwachung der Regeln dieses Abschnitts. Vorbehalten bleiben die Fälle, in denen die Verwaltungsbehörde alle oder einen Teil ihrer Informatiksysteme autonom verwaltet.
 
-<sup>3</sup> Bei der Kantonsverwaltung übernehmen die Verwaltungsbehörde und das Amt, das für die Informatik zuständig ist[^30-1], gemeinsam die Verantwortung für die Umsetzung und die Kontrolle der Vorschriften dieses Abschnitts. Fälle, in denen die Verwaltungsbehörde ihre Informatiksysteme autonom verwaltet, bleiben vorbehalten.
+<sup>3</sup> Wenn die Auslagerung mehrere verschiedene Behörden innerhalb eines Gemeinwesens betrifft, wird eine hauptsächlich verantwortliche Behörde bezeichnet. Im Übrigen gilt Absatz 2.
 
 [^30-1]: Heute: Amt für Informatik und Telekommunikation.
 
@@ -401,9 +400,39 @@ beschliesst:
 
 #### Art. 35
 
-**Abweichung beim Datenschutz**
+**Pilotprojekte – Grundsätze**
 
-<sup>1</sup> Die automatisierte Verarbeitung besonders schützenswerter Personendaten in Pilotprojekten oder während der Phase der Verabschiedung oder Anpassung von Rechtsgrundlagen wird im Gesetz über den Datenschutz geregelt.
+<sup>1</sup> Mit dem Ziel, die Integration neuer elektronischer Geschäftsprozesse und/oder neuer Technologien in die Arbeitsweise und Organisation der Verwaltung zu erproben, wird der Staatsrat mit einer Pilotverordnung ermächtigt, vorübergehend und in begrenztem Umfang von einer Rechtsnorm abzuweichen, die mit der Fortsetzung des Versuchs in Konflikt geraten würde.
+
+<sup>2</sup> Für die Durchführung eines Pilotprojekts müssen folgende Bedingungen erfüllt sein:
+
+- a) das Projekt dient der Erfüllung einer Aufgabe, die in einem Gesetz im formellen Sinn umschrieben wird, mit ihm wird ein erwiesenes öffentliches Interesse verfolgt und/oder es gehört zu einem strategischen Projekt, das zusammen mit den Organen des Bundes, des Kantons und von Gemeinden durchgeführt wird;
+- b) es werden ausreichende Massnahmen getroffen, um dem Risiko einer Verletzung der Grundrechte der betroffenen Personen vorzubeugen;
+- c) eine Versuchsphase vor dem Inkrafttreten des Gesetzes im formellen Sinn ist insbesondere aus organisatorischen und/oder technischen Gründen unerlässlich;
+- d) für das Pilotprojekt wird ein vollständiges Dossier erstellt, in dem der Zweck, der Umfang, der Evaluierungsbedarf, die Vorschriften, von denen es abweicht, die Massnahmen zur Abwendung möglicher Risiken einer Verletzung der Grundrechte der betroffenen Personen, das verantwortliche Organ, die Planung und die voraussichtlichen finanziellen Auswirkungen beschrieben werden.
+
+<sup>3</sup> Die automatisierte Bearbeitung von Personendaten in Pilotprojekten wird zudem im Gesetz über den Datenschutz, insbesondere dessen Artikel 22, geregelt.
+
+#### Art. 35a
+
+**Pilotprojekte – Testphase**
+
+<sup>1</sup> Eine Testphase kann als unerlässlich angesehen werden, wenn:
+
+- a) die Erfüllung einer Aufgabe technische Innovationen erfordert, deren Auswirkungen zunächst bewertet werden müssen, oder
+- b) die Erfüllung einer Aufgabe bedeutende organisatorische oder technische Massnahmen erfordert, deren Wirksamkeit zuerst evaluiert werden muss, insbesondere im Rahmen der Zusammenarbeit zwischen öffentlichen Organen.
+
+<sup>2</sup> Das verantwortliche Organ übermittelt dem Staatsrat spätestens zwei Jahre nach der Durchführung der Testphase einen Evaluationsbericht. In diesem Bericht schlägt es ihm die Fortsetzung oder den Abbruch des Versuchs vor.
+
+<sup>3</sup> Genehmigt der Staatsrat die Fortsetzung des Versuchs, leitet er unverzüglich das Gesetzgebungsverfahren zur Verabschiedung der erforderlichen formellen gesetzlichen Grundlagen ein. Er übermittelt dem Grossen Rat grundsätzlich innerhalb von fünf Jahren nach Beginn des Pilotprojekts einen Gesetzesentwurf.
+
+#### Art. 35b
+
+**Pilotprojekte – Verschiedene Bestimmungen**
+
+<sup>1</sup> Soweit nötig gilt Artikel 35 während der gesamten Dauer des Projekts als gesetzliche Grundlage im Sinne von Artikel 54 der Kantonsverfassung über die Aufgabenerfüllung durch Dritte.
+
+<sup>2</sup> Auch die Gemeinden können unter denselben Voraussetzungen Pilotversuche durchführen. Die Durchführung eines Pilotversuchs muss in einem allgemeinverbindlichen Reglement vorgesehen werden.
 
 ## 6 Übergangsrecht
 

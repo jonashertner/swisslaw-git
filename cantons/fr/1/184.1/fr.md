@@ -4,13 +4,12 @@ number: "184.1"
 title: Loi sur la cyberadministration
 short: LCyb
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-07
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2020-12-18
 in_force: 2021-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7472/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8623/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Cyberadministration – L
 
 (LCyb)
 
-du 18.12.2020 (version entrée en vigueur le 01.01.2022)
+du 18.12.2020 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -65,9 +64,9 @@ Décrète:
 - b) «usager» ou «usagère» désigne la personne physique ou morale ainsi que les collectivités qui ont passé un contrat d'utilisation du guichet virtuel;
 - c) «transaction» désigne une transmission électronique de données entre un usager ou une usagère et une autorité administrative, ou entre autorités administratives;
 - d) «prestation» désigne une activité ou un résultat fourni par une autorité administrative à la suite d'un processus déclenché par une transaction;
-- e) «guichet virtuel» désigne l'infrastructure sécurisée s'appuyant sur les technologies de l'information et de la communication par laquelle les usagers et usagères obtiennent des informations ou des prestations de l'administration.
+- e) «guichet virtuel» désigne l'infrastructure sécurisée s'appuyant sur les technologies de l'information et de la communication par laquelle les usagers et usagères obtiennent des informations ou des prestations de l'administration;
 - f) «cyberadministration» désigne l'utilisation des technologies de l'information et de la communication aussi bien dans le fonctionnement et l'organisation des collectivités publiques que dans leurs relations avec les tiers;
-- g) «externalisation» désigne une forme de sous-traitance impliquant la délocalisation du traitement de données ou de la gestion d'outils informatiques sur les infrastructures du sous-traitant;
+- g) «externalisation» désigne une forme qualifiée de sous-traitance impliquant l'utilisation de ressources informatiques accessibles à distance, via un réseau de communication, pour stocker, traiter et partager des données;
 - h) «sous-traitant» désigne une personne privée ou un organe public relevant d'une autre collectivité qui traite des données ou gère des outils informatiques pour le compte d'une autorité administrative.
 
 ## 2 Guichet virtuel
@@ -348,9 +347,9 @@ Décrète:
 - c) elle ne confie pas au sous-traitant des traitements qu'elle ne serait pas en droit d'effectuer elle-même;
 - d) elle veille à ce que les données et les outils informatiques concernés par une externalisation puissent être récupérés en tout temps, notamment dans le but de changer de sous-traitant, de procéder à leur réinternalisation ou de les verser aux archives historiques.
 
-<sup>2</sup> Lorsque l'externalisation concerne plusieurs autorités différentes au sein d'une même collectivité publique, une autorité principalement responsable est désignée.
+<sup>2</sup> Au sein de l'administration cantonale, la responsabilité de la mise en œuvre et du suivi des règles de la présente section est assumée conjointement par l'autorité administrative et par le service en charge de l'informatique[^30-1]. Sont réservés les cas dans lesquels l'autorité administrative gère de manière autonome tout ou partie de ses systèmes informatiques.
 
-<sup>3</sup> Au sein de l'administration cantonale, la responsabilité de la mise en œuvre et du suivi des règles de la présente section est assumée conjointement par l'autorité administrative et par le service en charge de l'informatique[^30-1]. Sont réservés les cas dans lesquels l'autorité administrative gère de manière autonome ses systèmes informatiques.
+<sup>3</sup> Lorsque l'externalisation concerne plusieurs autorités différentes au sein d'une même collectivité publique, une autorité principalement responsable est désignée. L'alinéa 2 s'applique pour le surplus.
 
 [^30-1]: Actuellement: Service de l'informatique et des télécommunications.
 
@@ -401,9 +400,39 @@ Décrète:
 
 #### Art. 35
 
-**Dérogation en matière de protection des données**
+**Projets pilotes – Principes**
 
-<sup>1</sup> Le traitement automatisé de données personnelles sensibles dans des projets pilotes ou pendant la phase d'adoption ou d'adaptation des bases légales est régi par la loi sur la protection des données.
+<sup>1</sup> Dans le but d'expérimenter l'intégration de nouveaux processus électroniques et/ou de nouvelles technologies dans le fonctionnement et l'organisation de l'administration, le Conseil d'Etat est autorisé par le biais d'une ordonnance pilote à déroger temporairement et de manière limitée à une règle de droit qui entrerait en conflit avec la poursuite de l'expérimentation.
+
+<sup>2</sup> La réalisation d'un projet pilote est soumise aux conditions suivantes:
+
+- a) le projet sert à l'accomplissement d'une tâche décrite dans une loi au sens formel, poursuit un intérêt public avéré et/ou fait partie d'un projet stratégique mené conjointement entre les organes de la Confédération, des cantons et/ou des communes;
+- b) des mesures appropriées sont prises aux fins de prévenir les risques d'atteinte aux droits fondamentaux des personnes concernées;
+- c) une phase d'essai s'avère indispensable avant l'entrée en vigueur de la loi au sens formel, en particulier pour des raisons organisationnelles et/ou techniques;
+- d) le projet pilote fait l'objet d'un dossier complet qui décrit son but, son périmètre, le besoin d'évaluation, les normes auxquelles il déroge, les mesures prises pour prévenir les éventuels risques d'atteinte aux droits fondamentaux des personnes concernées, l'organe responsable, la planification et les conséquences financières envisagées.
+
+<sup>3</sup> Le traitement automatisé de données personnelles dans des projets pilotes est en outre régi par la loi sur la protection des données, en particulier son article 22.
+
+#### Art. 35a
+
+**Projets pilotes – Phase d'essai**
+
+<sup>1</sup> Une phase d'essai peut être considérée comme indispensable lorsque:
+
+- a) l'accomplissement d'une tâche nécessite des innovations techniques dont les effets doivent d'abord être évalués, ou
+- b) l'accomplissement d'une tâche requiert des mesures organisationnelles ou techniques importantes dont l'efficacité doit d'abord être évaluée, notamment dans le cadre de la collaboration entre organes publics.
+
+<sup>2</sup> L'organe responsable transmet, au plus tard deux ans après la mise en œuvre de la phase d'essai, un rapport d'évaluation au Conseil d'Etat. Dans ce rapport, il lui propose la poursuite ou l'interruption de l'expérimentation.
+
+<sup>3</sup> Si le Conseil d'Etat autorise la poursuite de l'expérimentation, il engage immédiatement la procédure législative visant à adopter les bases légales formelles nécessaires. Il transmet au Grand Conseil un projet de loi, en principe, dans un délai de cinq ans suivant le début du projet pilote.
+
+#### Art. 35b
+
+**Projets pilotes – Dispositions diverses**
+
+<sup>1</sup> Dans la mesure où elle est exigée, l'article 35 vaut base légale au sens de l'article 54 de la Constitution cantonale sur l'accomplissement de tâches par des tiers pour toute la durée du projet.
+
+<sup>2</sup> Des essais pilotes peuvent également être menés par les communes aux mêmes conditions. La réalisation d'un essai pilote doit être prévue dans un règlement de portée générale.
 
 ## 6 Disposition transitoire
 
