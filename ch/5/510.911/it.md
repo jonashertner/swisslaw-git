@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 2009 sui sistemi d'informazione militari e su 
 short: OSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230901/it"
 
 (OSIM)[^t-1]
 
-del 16 dicembre 2009 (Stato 1° settembre 2023)
+del 16 dicembre 2009 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 186 capoversi 1 e 2 della legge federale del 3 ottobre 2008[^ingress-1] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS (LSIM); visti gli articoli 100 capoverso 4 lettere b e c nonché 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2] (LM); vista la legge federale del 20 dicembre 2019[^ingress-3] sulla protezione della popolazione e sulla protezione civile (LPPC); visto l’articolo 27 capoverso 5 della legge del 24 marzo 2000[^ingress-4] sul personale federale (LPers),[^ingress-5]
+visto l’articolo 186 capoversi 1 e 2 della legge federale del 3 ottobre 2008[^ingress-1] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS (LSIM); visti gli articoli 100 capoverso 4 lettere b e c nonché 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2] (LM); vista la legge federale del 20 dicembre 2019[^ingress-3] sulla protezione della popolazione e sulla protezione civile (LPPC); visto l’articolo 27 capoverso 5 della legge del 24 marzo 2000[^ingress-4] sul personale federale (LPers); visto l’articolo 35 della legge federale del 25 settembre 2020[^ingress-5] sulla protezione dei dati (LPD),[^ingress-6]
 
 ordina:
 
@@ -31,7 +31,8 @@ ordina:
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^ingress-3]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 [^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^ingress-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-6]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -1029,33 +1030,15 @@ I dati contenuti nel sistema d’informazione Formazione alla condotta (SIFC) so
 
 #### Art. 67
 
-**Sistema d’informazione per i controlli di sicurezza relativi alle persone**
+[^67-1]
 
-### (art. 146 LSIM)
-
-<sup>1</sup> I dati contenuti nel sistema d’informazione per i controlli di sicurezza relativi alle persone (Sistema informatizzato per i controlli di sicurezza relativi alle persone, SIBAD) sono indicati nell’allegato 30.
-
-<sup>2</sup>
-
-I dati del sistema SIBAD indicati nel seguito sono comunicati ai sistemi d’informazione seguenti:
-
-- a.[^67-1] ...
-- b. al sistema MIL PLATTFORM: i dati secondo l’allegato 33*d* numero 2.[^67-2]
-
-[^67-1]: Abrogata dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^67-2]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^67-1]: Abrogato dall’all. 8 n. II 5 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, con effetto dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 #### Art. 68
 
-**Sistema d’informazione per il controllo della sicurezza industriale**[^68-1]
+[^68-1]
 
-### (art. 152 LSIM)
-
-<sup>1</sup> I dati contenuti nel Sistema d’informazione per il controllo della sicurezza industriale (ISKO) e raccolti dal sistema SIBAD sono indicati nell’allegato 31 numeri 1–16; i dati aziendali contenuti nell’ISKO sono indicati nell’allegato 31 numeri 17–50.
-
-<sup>2</sup> Unitamente al livello di sicurezza e alla decisione concernente il controllo, possono essere comunicati all’incaricato della tutela del segreto del datore di lavoro i dati necessari per l’identificazione della persona interessata secondo l’allegato 31 numeri 1–10.
-
-[^68-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^68-1]: Abrogato dall’all. 2 n. II 3 dell’O dell’8 nov. 2023 sulla procedura di sicurezza relativa alle aziende, con effetto dal 1° gen. 2024 ([RU 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)).
 
 #### Art. 69
 
@@ -1244,9 +1227,11 @@ I dati del sistema MIL PLATTFORM sono raccolti:
 - b. presso i comandi militari;
 - c. presso le unità amministrative competenti della Confederazione;
 - d.[^70s-1] dal sistema PEGASUS: i dati secondo l’allegato 33*d* numero 1;
-- e. dal sistema SIBAD: i dati secondo l’allegato 33*d* numero 2.
+- e.[^70s-2] dal sistema d’informazione per i controlli di sicurezza relativi alle persone secondo l’articolo 45 capoverso 1 della legge del 18 dicembre 2020[^70s-3] sulla sicurezza delle informazioni (LSIn): i dati secondo l’allegato 33*d* numero 2.
 
 [^70s-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^70s-2]: Nuovo testo giusta l’all. 8 n. II 5 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^70s-3]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 70t
 
@@ -1334,29 +1319,97 @@ I dati contenuti nel sistema d’informazione Master Data Management (MDM) sono 
 
 [^72quater-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Sezione 2: ...
+### Sezione 2: Sistema d’informazione Fit on Duty
 
-#### Art. 72aa 72e
+[^chap6-sec2-1]
 
-[^72a72e-1]
+[^chap6-sec2-1]: Introdotto dal n. I dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2028 ([RU 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798); art. 78 cpv. 3).
 
-[^72a72e-1]: Introdotti dal n. I dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogati dal n. I dell’O del 20 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+#### Art. 72a
+
+**Organo responsabile**
+
+L’Aggruppamento Difesa gestisce il sistema d’informazione Fit on Duty (sistema FoD) nell’ambito di un sistema pilota ai sensi dell’articolo 35 LPD.
+
+#### Art. 72b
+
+**Scopo**
+
+Il sistema FoD serve a raccogliere, valutare, monitorare e comunicare i dati concernenti le condizioni fisiche e psichiche nonché le prestazioni dei militari e del personale militare allo scopo:
+
+- a. di mantenere e migliorare la forma fisica, la capacità di prestazione e di resistenza nonché la salute;
+- b. di individuare precocemente gli stati di salute critici;
+- c. di prevenire incidenti, lesioni e danni alla salute;
+- d. di ricercare nuovi modelli di prevenzione nell’ambito della salute.
+
+#### Art. 72c
+
+**Principi applicabili al trattamento dei dati**
+
+<sup>1</sup> L’Aggruppamento Difesa può utilizzare i dati di cui all’articolo 72*d* per effettuare una profilazione, compresa una profilazione a rischio elevato, al fine di valutare lo stato di salute, le capacità fisiche, il potenziale di incidenti, di lesioni o di malattie delle persone di cui all’articolo 72*b*.
+
+<sup>2</sup> La partecipazione di queste persone al sistema FoD è facoltativa e richiede il loro consenso scritto.
+
+#### Art. 72d
+
+**Dati**
+
+I dati contenuti nel sistema FoD sono indicati nell’allegato 35*a*.
+
+#### Art. 72e
+
+**Raccolta dei dati**
+
+<sup>1</sup>
+
+L’Aggruppamento Difesa raccoglie i dati:
+
+- a. presso le persone interessate o i loro rappresentanti legali;
+- b.
+
+  dai sistemi d’informazione seguenti:
+
+  - 1\. PISA,
+  - 2\. MEDISA.
+
+<sup>2</sup> La raccolta di dati dal sistema MEDISA richiede l’approvazione del medico in capo dell’esercito.
+
+#### Art. 72f
+
+**Comunicazione dei dati**
+
+Mediante un accesso in linea e servendosi di un’interfaccia automatizzata, l’Aggruppamento Difesa comunica alle seguenti autorità i dati di cui hanno bisogno per svolgere i loro compiti nel quadro del progetto pilota:
+
+- a. l’Ufficio federale dello sport (UFSPO), principalmente per le finalità di cui all’articolo 72*b* lettere a–c;
+- b. Armasuisse S+T, principalmente per la finalità di cui all’articolo 72*b* lettera d.
+
+#### Art. 72g
+
+**Conservazione dei dati**
+
+<sup>1</sup> I dati contenuti nel FoD sono conservati per al massimo 5 anni a partire dalla loro raccolta.
+
+<sup>2</sup> Ogni partecipante al sistema FoD può richiedere in qualsiasi momento che i dati nel sistema FoD che lo riguardano siano distrutti. I dati devono essere distrutti entro 30 giorni.
+
+<sup>3</sup> I dati di cui al capoverso 1 possono essere conservati in forma anonima.
+
+<sup>4</sup> I dati considerati di valore archivistico devono essere trasmessi all’Archivio federale.
 
 ### Sezione 3: ...
 
-#### Art. 72f a 72f
+#### Art. 72f<sup>bis</sup>
 
-**<sup>quinquies</sup> [^72f72f-1]**
+***a* **72***f*<sup>quinquies</sup> [^72fbis-1]**
 
-[^72f72f-1]: Introdotti dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^72fbis-1]: Introdotti dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 ### Sezione 4: ...
 
-#### Art. 72g a 72g
+#### Art. 72g<sup>bis</sup>
 
-**<sup>sexies</sup> [^72g72g-1]**
+***a* **72***g*<sup>sexies</sup> [^72gbis-1]**
 
-[^72g72g-1]: Introdotti dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^72gbis-1]: Introdotti dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 ### Sezione 4*a*: ...
 
@@ -1370,7 +1423,7 @@ I dati contenuti nel sistema d’informazione Master Data Management (MDM) sono 
 
 [^chap6-sec5-1][^chap6-sec5-2]
 
-[^chap6-sec5-1]: Introdotta dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^chap6-sec5-1]: Introdotta dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467))..
 [^chap6-sec5-2]: Nuovo testo giusta l’all. 2 n. II 63 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h
@@ -1383,9 +1436,11 @@ Per la gestione di indirizzi, corsi di formazione e risorse le unità amministra
 
 #### Art. 72h<sup>bis</sup>
 
-**Dati**
+**Dati**[^72hbis-1]
 
 Nelle banche dati ausiliarie possono essere trattati esclusivamente i dati necessari all’adempimento del rispettivo compito secondo l’allegato 35*d*.
+
+[^72hbis-1]: Nuovo testo giusta l’all. 2 n. II 63 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 72h<sup>ter</sup>
 
@@ -1651,13 +1706,17 @@ Fino al 31 agosto 2026 la verbalizzazione secondo l’articolo 2*c* deve essere 
 
 <sup>2</sup> L’articolo 53 capoverso 1 lettera b ha effetto sino al 30 giugno 2011 al più tardi.
 
+<sup>3</sup> Gli articoli 72*a*–72*g* hanno effetto fino al 31 dicembre 2028.[^78-1]
+
+[^78-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
+
 Allegato 1[^t-2]
 
 (art. 2*a*)
 
 ## Organo titolare della protezione dei dati presso i sistemi d’informazione dell’Aggruppamento Difesa
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. III cpv. 2 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. III cpv. 2 dell’O del 3 mar. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Aggiornato dal n. II dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
 
 <table>
 <tr><th colspan="2">Sistema d’informazione</th><th></th><th>Disposizioni LSIM/OSIM</th><th>Organo titolare della protezione dei dati</th></tr>
@@ -1699,6 +1758,7 @@ Allegato 1[^t-2]
 <tr><td>PSN</td><td colspan="2">Sistema d’informazione per la gestione integrata delle risorse</td><td>Art. 179*a*–179*f* LSIM, art. 72<sup>bis</sup> OSIM, allegato 35<sup>bis</sup> OSIM</td><td>SM Es</td></tr>
 <tr><td>TFS</td><td colspan="2">Sistema d’informazione per il tiro fuori del servizio</td><td>Art. 179*g*–179*l* LSIM, art. 72<sup>ter</sup> OSIM, allegato 35<sup>ter</sup> OSIM</td><td>Cdo Istr</td></tr>
 <tr><td>PAV</td><td colspan="2">Sistema d’informazione Pianificazione e appoggio alle attività di volo</td><td>Art. 72*k*–72*k*<sup>quinquies</sup> OSIM, allegato 35*g* OSIM</td><td>Cdo Op</td></tr>
+<tr><td>Sistema FoD</td><td colspan="2">Sistema d’informazione Fit on Duty</td><td>Art. 72*a*–72*g* OSIM, allegato 35*a* OSIM</td><td>Comando Istruzione (Cdo Istr)</td></tr>
 </table>
 
 Allegato 1a[^t-3]
@@ -3088,7 +3148,7 @@ Allegato 23a[^t-25]
 
 ## Dati del PEGASUS
 
-[^t-25]: Introdotto dal n. II cpv. 1 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^t-25]: Introdotto dal n. II cpv. 1 dell’O del 20 mag. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)). Aggiornato dall’all. 8 n. II 5 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -3125,10 +3185,11 @@ Allegato 23a[^t-25]
 - 33\. Password
 - 34\. Autorizzazioni d’accesso
 - 35\. Opzioni di telefonia (autorizzazioni di selezione)
-- 36\. Livello di controllo conformemente all’articolo 9 capoverso 1 dell’ordinanza del 4 marzo 2011[^annex23a-lvlu1-1] sui controlli di sicurezza relativi alle persone (OCSP) e data del passaggio in giudicato della dichiarazione di sicurezza notificata conformemente all’articolo 22 capoverso 1 lettera a OCSP alla persona autorizzata ad accedere; termine della successiva ripetizione del controllo di sicurezza relativo alle persone conformemente all’articolo 18 capoverso 1 OCSP
+- 36\. Livello di controllo secondo l’articolo 30 LSIn[^annex23a-lvlu1-1], data del passaggio in giudicato della decisione secondo l’articolo 41 capoverso 2 LSIn nonché termine della successiva ripetizione ordinaria del controllo di sicurezza relativo alle persone secondo l’articolo 26 dell’ordinanza dell’8 novembre 2023[^annex23a-lvlu1-2] sui controlli di sicurezza relativi alle persone (OCSP)
 - 37\. I seguenti dati biometrici (template) della persona: impronta delle vene, scansione dell’iride, impronte digitali
 
-[^annex23a-lvlu1-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^annex23a-lvlu1-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^annex23a-lvlu1-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 Allegato 23b[^t-26]
 
@@ -3378,112 +3439,11 @@ Allegato 29b[^t-35]
 
 Allegato 30[^t-36]
 
-(art. 67)
-
-## Dati del sistema SIBAD
-
-[^t-36]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-
-- 1\. Cognome
-- 2\. Nome
-- 3\. Indirizzo
-- 4\. Numero AVS
-- 5\. Nazionalità
-- 6\. Luogo d’origine
-- 7\. Datore di lavoro e indirizzo del datore di lavoro
-- 8\. Stato civile
-- 9\. Luogo di nascita
-- 10\. Data di nascita
-- 11\. Data della naturalizzazione
-- 12\. Data di inizio del soggiorno in Svizzera
-- 13\. Cognome e nome del coniuge o del partner
-- 14\. Funzione
-- 15\. Dati rilevati per i controlli di sicurezza relativi alle persone ai sensi dell’articolo 20 della legge federale del 21 marzo 1997[^annex30-lvlu1-1] sulle misure per la salvaguardia della sicurezza interna
-- 16\. Analisi dei rischi
-- 17\. Risultato del controllo (compresi il livello del controllo, la data del rilascio e la data di scadenza)
-- 18\. Controllo della pratica
-- 19\. Mandante e indirizzo del mandante
-- 20\. Progetto
-
-[^annex30-lvlu1-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^t-36]: Abrogato dall’all. 8 n. II 5 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, con effetto dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 Allegato 31[^t-37]
 
-(art. 68)
-
-## Dati dell’ISKO
-
-[^t-37]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-
-### Dati delle persone fisiche (acquisiti a partire dal sistema SIBAD)
-
-- 1\. Cognome
-- 2\. Nome
-- 3\. Indirizzo
-- 4\. Numero AVS
-- 5\. Nazionalità
-- 6\. Luogo d’origine
-- 7\. Datore di lavoro e indirizzo del datore di lavoro
-- 8\. Stato civile
-- 9\. Luogo di nascita
-- 10\. Data di nascita
-- 11\. Data della naturalizzazione
-- 12\. Data di inizio del soggiorno in Svizzera
-- 13\. Cognome e nome del coniuge o del partner
-- 14\. Funzione
-- 15\. Mandante e indirizzo del mandante
-- 16\. Progetto
-
-### Dati concernenti l’azienda
-
-### Azienda
-
-- 17\. Numero di dossier
-- 18\. Denominazione
-- 19\. Indirizzo
-- 20\. Numero telefonico
-- 21\. Fax
-- 22\. Indirizzo e-mail
-- 23\. Indirizzo Internet
-
-### Incaricato della tutela del segreto
-
-- 24\. Appellativo/titolo
-- 25\. Cognome
-- 26\. Nome
-- 27\. Sesso
-- 28\. Indirizzo e-mail
-
-### Dati concernenti i controlli
-
-- 29\. Data dell’accertamento preliminare
-- 30\. Codice del ramo d’attività economica dell’azienda (codice NOGA)
-- 31\. Visita (data, ordine cronologico e osservazioni)
-- 32\. Controllo (data, ordine cronologico e osservazioni)
-- 33\. Dichiarazione di sicurezza aziendale (data, rilascio, revoca, restituzione)
-- 34\. Verbale di sicurezza (data, ordine cronologico)
-
-### Atti
-
-- 35\. Numero di esemplare
-- 36\. Mittente
-- 37\. Data dell’atto
-- 38\. Data di spedizione
-- 39\. Data del controllo
-- 40\. Data di restituzione
-- 41\. Denominazione
-
-### Mandati
-
-- 42\. Denominazione (mandato principale)
-- 43\. Mandante
-- 44\. Denominazione (mandati)
-- 45\. Classificazione
-- 46\. Data di notifica
-- 47\. Data d’inizio della validità
-- 48\. Data di scadenza della validità
-- 49\. Denominazione abbreviata (ramo)
-- 50\. Codice del ramo d’attività economica dell’azienda (codice NOGA)
+[^t-37]: Abrogato dall’all. 2 n. II 3 dell’O dell’8 nov. 2023 sulla procedura di sicurezza relativa alle aziende, con effetto dal 1° gen. 2024 ([RU 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)).
 
 Allegato 32
 
@@ -3723,18 +3683,16 @@ Allegato 33d[^t-44]
 
 ## Dati del sistema MIL PLATTFORM
 
-[^t-44]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)) e dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-44]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)) e dall’all. 8 n. II 5 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 - 1\. Cognome, nomi, iniziali, numero personale, datore di lavoro, indirizzo aziendale, indirizzo privato, e-mail aziendale, numero telefonico aziendale e numero AVS della persona autorizzata ad accedere
-- 2\. Livello di controllo, data di rilascio e data di scadenza della dichiarazione di sicurezza rilasciata conformemente all’articolo 22 capoverso 1 lettera a OCSP[^annex33d-lvlu1-1] alla persona autorizzata ad accedere
+- 2\. Livello di controllo secondo gli articoli 10–14 OCSP[^annex33d-lvlu1-1], data del passaggio in giudicato della decisione secondo l’articolo 24 OCSP nonché termine della successiva ripetizione ordinaria del controllo di sicurezza relativo alle persone secondo l’articolo 26 OCSP riguardante una persona autorizzata ad accedere
 - 3\. Dati biometrici della persona rilevati mediante scansione delle vene della mano (scansione delle vene) al momento dell’accesso al sistema MIL PLATTFORM
 - 4\. Template della scansione delle vene della persona autorizzata ad accedere al sistema MIL PLATTFORM
 - 5\. Ora e luogo dell’avvenuto o tentato accesso della persona al sistema MIL PLATTFORM e scansione delle vene rilevata (dati di log)
 - 6\. Dati e autorizzazioni d’accesso
-- [tab]
-- [tab]
 
-[^annex33d-lvlu1-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^annex33d-lvlu1-1]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 Allegato 34[^t-45]
 
@@ -4119,7 +4077,43 @@ Allegato 35<sup>quater</sup> [^t-49]
 
 Allegato 35a[^t-50]
 
-[^t-50]: Introdotto dal n. II cpv. 3 dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogato dal n. II cpv. 3 dell’O del 20 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+(art. 72*d*)
+
+## Dati del FoD
+
+[^t-50]: Introdotto dal n. II cpv. 3 dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Nuovo testo giusta il n. III dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
+
+- 1\. Cognome
+- 2\. Nome
+- 3\. Sesso
+- 4\. Data di nascita, età
+- 5\. Luogo d’origine
+- 6\. Indirizzo
+- 7\. Comune di domicilio
+- 8\. Numero di telefono
+- 9\. Indirizzo e-mail
+- 10\. Numero AVS
+- 11\. Numero d’identificazione personale
+- 12\. Lingua
+- 13\. Dati relativi al reclutamento (luogo, ciclo, data, numero di partecipanti, dati relativi all’idoneità)
+- 14\. Incorporazione, unità, formazione
+- 15\. Servizio presso
+- 16\. Date del servizio
+- 17\. Grado
+- 18\. Funzione
+- 19\. Dati relativi alla forma fisica e mentale, alle prestazioni, alla resistenza e alla salute, incluse le relative modifiche
+- 20\. Stato di salute generale
+- 21\. Anamnesi, con il risultato (stato, misure del corpo comprese [altezza, peso, indice di massa corporea, circonferenza addominale])
+- 22\. Parametri della frequenza cardiaca
+- 23\. Diverse temperature corporee
+- 24\. Parametri di accelerazione dell’attività fisica
+- 25\. Qualità e quantità del sonno
+- 26\. Percezione dello stato fisico e psichico
+- 27\. Saturazione di ossigeno (solo per scopi di ricerca secondo l’art. 39 LPD)
+- 28\. Eloquio (solo per scopi di ricerca secondo l’art. 39 LPD)
+- 29\. Dati di geolocalizzazione (solo per scopi di ricerca secondo l’art. 39 LPD)
+- 30\. Dati antropometrici
+- 31\. Dati relativi alle prestazioni sportive
 
 Allegato 35b e 35c [^t-51]
 

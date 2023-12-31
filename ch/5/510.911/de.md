@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2009 über militärische und andere Informati
 short: MIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230901/de"
 
 (MIV)[^t-1]
 
-vom 16. Dezember 2009 (Stand am 1. September 2023)
+vom 16. Dezember 2009 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 186 Absätze 1 und 2 des Bundesgesetzes vom 3. Oktober 2008[^ingress-1] über militärische und andere Informationssysteme im VBS (MIG), auf die Artikel 100 Absatz 4 Buchstaben b und c sowie 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2] (MG), auf das Bevölkerungs- und Zivilschutzgesetz vom 20. Dezember 2019[^ingress-3] (BZG) und auf Artikel 27 Absatz 5 des Bundespersonalgesetzes vom 24. März 2000[^ingress-4] (BPG),[^ingress-5]
+gestützt auf Artikel 186 Absatz 1 und 2 des Bundesgesetzes vom 3. Oktober 2008[^ingress-1] über militärische und andere Informationssysteme im VBS (MIG), auf die Artikel 100 Absatz 4 Buchstaben b und c sowie 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2] (MG), auf das Bevölkerungs- und Zivilschutzgesetz vom 20. Dezember 2019[^ingress-3] (BZG), auf Artikel 27 Absatz 5 des Bundespersonalgesetzes vom 24. März 2000[^ingress-4] (BPG), und auf Artikel 35 des Datenschutzgesetzes vom 25. September 2020[^ingress-5] (DSG),[^ingress-6]
 
 verordnet:
 
@@ -31,7 +31,8 @@ verordnet:
 [^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^ingress-3]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 [^ingress-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-5]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^ingress-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-6]: Fassung gemässs Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -1048,34 +1049,15 @@ Die im Informationssystem Führungsausbildung (ISFA) enthaltenen Daten sind im A
 
 #### Art. 67
 
-**Informationssystem Personensicherheitsprüfung**
+[^67-1]
 
-### (Art. 146 MIG)
-
-<sup>1</sup> Die im Informationssystem Personensicherheitsprüfung (SIBAD) enthaltenen Daten sind im Anhang 30 aufgeführt.
-
-<sup>2</sup>
-
-Folgenden Informationssystemen werden die nachstehenden Daten des SIBAD bekannt gegeben:
-
-- a.[^67-1] …
-- b. dem MIL PLATTFORM: die Daten nach Anhang 33*d* Ziffer 2.[^67-2]
-
-[^67-1]: Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^67-2]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^67-1]: Aufgehoben durch Anhang 8 Ziff. II 5 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, mit Wirkung seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 #### Art. 68
 
-**Informationssystem Industriesicherheitskontrolle**[^68-1]
+[^68-1]
 
-### (Art. 152 MIG)
-
-<sup>1</sup> Die im Informationssystem Industriesicherheitskontrolle (ISKO) enthaltenen, aus dem SIBAD bezogenen Daten sind in Anhang 31 Ziffern 1–16, die enthaltenen Firmendaten in Anhang 31 Ziffern 17–50 aufgeführt.
-
-<sup>2</sup> Mit dem Prüfungsentscheid und der Sicherheitsstufe dürfen der oder dem Geheimschutzbeauftragten der Arbeitgeberin oder des Arbeitgebers die für die Identifikation der betreffenden Person notwendigen Daten gemäss Anhang 31 Ziffern 1–10 bekannt gegeben werden.[^68-2]
-
-[^68-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^68-2]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^68-1]: Aufgehoben durch Anhang 2 Ziff. II 3 der V vom 8. Nov. 2023 über das Betriebssicherheitsverfahren, mit Wirkung seit 1. Jan. 2024 ([AS 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)).
 
 #### Art. 69
 
@@ -1264,9 +1246,11 @@ Die Daten des MIL PLATTFORM werden beschafft:
 - b. bei den militärischen Kommandos;
 - c. bei den zuständigen Verwaltungseinheiten des Bundes;
 - d.[^70s-1] aus dem PEGASUS: die Daten nach Anhang 33*d* Ziffer 1;
-- e. aus dem SIBAD: die Daten nach Anhang 33*d* Ziffer 2.
+- e.[^70s-2] aus dem Informationssystem zur Personensicherheitsprüfung nach Artikel 45 Absatz 1 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^70s-3] (ISG): die Daten nach Anhang 33*d* Ziffer 2.
 
 [^70s-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^70s-2]: Fassung gemäss Anhang 8 Ziff. II 5 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^70s-3]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 70t
 
@@ -1356,37 +1340,105 @@ Die im Informationssystem Master Data Management (MDM) enthaltenen Daten sind in
 
 [^72quater-1]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### 2. Abschnitt: …
+### 2. Abschnitt: Informationssystem Fit on Duty
 
-#### Art. 72a–72e
+[^chap6-sec2-1]
 
-[^72a72e-1]
+[^chap6-sec2-1]: Eingefügt durch Ziff. I der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Fassung gemässs Ziff. I der V vom 29. Nov. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2028 ([AS 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798); Art. 78 Abs. 3).
 
-[^72a72e-1]: Eingefügt durch Ziff. I der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+#### Art. 72a
 
-### 3. Abschnitt: …
+**Verantwortliches Organ**
 
-#### Art. 72f–72f
+Die Gruppe Verteidigung betreibt das Informationssystem Fit on duty (System FoD) im Rahmen eines Pilotversuchs im Sinne von Artikel 35 DSG.
 
-**<sup>quinquies</sup> [^72f72f-1]**
+#### Art. 72b
 
-[^72f72f-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+**Zweck**
 
-### 4. Abschnitt: …
+Das System FoD dient der Beschaffung, Auswertung, Überwachung und Bekanntgabe von Daten über die physische und psychische Verfassung sowie die Leistungen von Angehörigen der Armee und militärischem Personal mit folgenden Zwecken:
 
-#### Art. 72g–72g
+- a. die physische Verfassung, die Leistungs- und Widerstandsfähigkeit sowie die Gesundheit zu erhalten und zu verbessern;
+- b. einen kritischen Gesundheitszustand frühzeitig zu erkennen;
+- c. Unfälle, Verletzungen und Schädigungen der Gesundheit zu verhüten;
+- d. neue Modelle der Gesundheitsvorsorge zu erforschen.
 
-**<sup>sexies</sup> [^72g72g-1]**
+#### Art. 72c
 
-[^72g72g-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+**Grundsätze der Datenbearbeitung**
 
-### 4*a*. Abschnitt: …
+<sup>1</sup> Die Gruppe Verteidigung darf die Daten nach Artikel 72*d* für Profiling, inklusive Profiling mit hohem Risiko, nutzen, um den Gesundheitszustand, die körperliche Leistungsfähigkeit, sowie das Unfall-, Verletzungs- oder Krankheitspotenzial der Personen nach Artikel 72*b* zu beurteilen.
+
+<sup>2</sup> Die Teilnahme dieser Personen am System FoD ist freiwillig und erfordert deren schriftliche Einwilligung.
+
+#### Art. 72d
+
+**Daten**
+
+Die Liste der im System FoD enthaltenen Daten findet sich im Anhang 35*a*.
+
+#### Art. 72e
+
+**Datenbeschaffung**
+
+<sup>1</sup>
+
+Die Gruppe Verteidigung beschafft die Daten:
+
+- a. bei den betroffenen Personen oder ihren gesetzlichen Vertretern;
+- b.
+
+  aus den folgenden Informationssystemen:
+
+  - 1\. PISA,
+  - 2\. MEDISA.
+
+<sup>2</sup> Die Beschaffung von Daten aus dem System MEDISA erfordert die Genehmigung des Oberfeldarztes der Armee.
+
+#### Art. 72f
+
+**Datenbekanntgabe**
+
+Die Gruppe Verteidigung gibt den folgenden Behörden über einen Online-Zugang unter Verwendung einer automatisierten Schnittstelle die zur Erfüllung ihrer Aufgaben im Rahmen des Pilotprojekts notwendigen Daten bekannt:
+
+- a. dem Bundesamt für Sport (BASPO), hauptsächlich zu den Zwecken nach Artikel 72*b* Buchstaben a–c;
+- b. armasuisse W+T, hauptsächlich zum Zweck nach Artikel 72*b* Buchstabe d.
 
 #### Art. 72g
 
-**<sup>septies</sup>–**72***g*<sup>undecies</sup> [^72g-1]**
+**Datenaufbewahrung**
 
-[^72g-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+<sup>1</sup> Die im System FoD enthaltenen Daten werden während maximal 5 Jahren ab ihrer Erhebung aufbewahrt.
+
+<sup>2</sup> Jede am System FoD teilnehmende Person kann jederzeit die Vernichtung der sie betreffenden Daten im System FoD verlangen. Die Daten müssen innerhalb von 30 Tagen vernichtet werden.
+
+<sup>3</sup> Die Daten nach Absatz 1 dürfen in anonymisierter Form aufbewahrt werden.
+
+<sup>4</sup> Die als archivwürdig bezeichneten Daten müssen dem Bundesarchiv übermittelt werden.
+
+### 3. Abschnitt: …
+
+#### Art. 72f
+
+**<sup>bis</sup>–**72***f*<sup>quinquies</sup> [^72f-1]**
+
+[^72f-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+
+### 4. Abschnitt: …
+
+### **72***g* <sup>bis</sup>–**72***g*<sup>sexies</sup>
+
+[^chap6-sec4-lvl72g-1]
+
+[^chap6-sec4-lvl72g-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+
+### 4*a*. Abschnitt: …
+
+### **72***g* <sup>septies</sup>–**72***g*<sup>undecies</sup>
+
+[^chap6-sec4a-lvl72g-1]
+
+[^chap6-sec4a-lvl72g-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### 5. Abschnitt: Hilfsdatenbanken
 
@@ -1439,7 +1491,7 @@ Die Daten in Hilfsdatenbanken dürfen nach Abschluss der Schule, des Kurses oder
 
 [^72hquinquies-1]: Fassung gemäss Anhang 2 Ziff. II 63 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
-### 6. Abschnitt: ...
+### 6. Abschnitt: …
 
 #### Art. 72i–72i
 
@@ -1688,13 +1740,17 @@ Bis zum 31. August 2026 muss die Protokollierung nach Artikel 2*c* nur erfolgen,
 
 <sup>2</sup> Artikel 53 Absatz 1 Buchstabe b gilt längstens bis am 30. Juni 2011.
 
+<sup>3</sup> Die Artikel 72*a*–72*g* gelten bis zum 31. Dezember 2028.[^78-1]
+
+[^78-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
+
 Anhang 1[^t-2]
 
 (Art. 2*a*)
 
 ## Für den Datenschutz verantwortliche Organe bei den Informationssystemen der Gruppe Verteidigung
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Fassung gemäss Ziff. III Abs. 2 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Fassung gemäss Ziff. III Abs. 2 der V vom 3. März 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Bereinigt gemäss Ziff. II der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
 
 <table>
 <tr><th colspan="2">Informationssystem</th><th></th><th>Bestimmungen MIG/MIV</th><th>Für den Datenschutz verantwortliches Organ</th></tr>
@@ -1736,6 +1792,7 @@ Anhang 1[^t-2]
 <tr><td>PSN</td><td colspan="2">Informationssystem integrierte Ressourcenbewirtschaftung</td><td>Art. 179*a*–179*f* MIG, Art. 72<sup>bis</sup> MIV, Anhang 35<sup>bis</sup> MIV</td><td>A Stab</td></tr>
 <tr><td>SaD</td><td colspan="2">Informationssystem Schiesswesen ausser Dienst</td><td>Art. 179*g*–179*l* MIG, Art. 72<sup>ter</sup> MIV, Anhang 35<sup>ter</sup> MIV</td><td>Kdo Ausb</td></tr>
 <tr><td>FPU</td><td colspan="2">Informationssystem Flugplanung und Flugunterstützung</td><td>Art. 72*k*–72*k*<sup>quinquies</sup> MIV, Anhang 35*g* MIV</td><td>Kdo Op</td></tr>
+<tr><td>System FoD</td><td colspan="2">Informationssystem Fit on Duty</td><td>Art. 72*a*– 72*g* MIV, Anhang 35*a* MIV</td><td>Kommando Ausbildung (Kdo Ausb)</td></tr>
 </table>
 
 Anhang 1a[^t-3]
@@ -3128,7 +3185,7 @@ Anhang 23a[^t-28]
 
 ## Daten des PEGASUS
 
-[^t-28]: Eingefügt durch Ziff. II Abs. 1 der V vom 20. Mai 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)). Bereinigt gemäss Ziff. III Abs. 3 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-28]: Eingefügt durch Ziff. II Abs. 1 der V vom 20. Mai 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)). Bereinigt gemäss Ziff. III Abs. 3 der V vom 3. März 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)) und Anhang 8 Ziff. II 5 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 - 1\. Name
 - 2\. Vorname
@@ -3165,10 +3222,11 @@ Anhang 23a[^t-28]
 - 33\. Passwort
 - 34\. Zutritts- und Zugangsberechtigungen
 - 35\. Telefonie-Optionen (Wahlberechtigungen)
-- 36\. Prüfstufe nach Artikel 9 Absatz 1 der Verordnung vom 4. März 2011[^annex23a-lvlu1-1] über die Personensicherheitsprüfungen (PSPV) und Datum der Rechtskraft der einer zugangsberechtigten Person eröffneten Sicherheitserklärung nach Artikel 22 Absatz 1 Buchstabe a PSPV; Zeitpunkt der nächsten Wiederholung der Personensicherheitsprüfung nach Artikel 18 Absatz 1 PSPV
+- 36\. Prüfstufe nach Artikel 30 ISG[^annex23a-lvlu1-1], Datum der Rechtskraft des Entscheids nach Artikel 41 Absatz 2 ISG sowie Zeitpunkt der nächsten ordentlichen Wiederholung der Personensicherheitsprüfung nach Artikel 26 der Verordnung vom 8. November 2023[^annex23a-lvlu1-2] über die Personensicherheitsprüfungen
 - 37\. Folgende biometrische Daten (Templates) einer Person: Handvenenmuster, Irisbild, Fingerabdruck
 
-[^annex23a-lvlu1-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^annex23a-lvlu1-1]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^annex23a-lvlu1-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 Anhang 23b[^t-29]
 
@@ -3379,7 +3437,7 @@ Anhang 29[^t-36]
 
 ## Daten des ISFA
 
-[^t-36]: Bereinigt gemäss Ziff. II Abs. 4 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) und gemäss Ziff. III Abs. 3 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-36]: Bereinigt gemäss Ziff. II Abs. 4 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) und Ziff. III Abs. 3 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Militäradresse
 - 1a. Dienstleistungen in der Armee
@@ -3417,112 +3475,15 @@ Anhang 29b[^t-38]
 
 Anhang 30[^t-39]
 
-(Art. 67)
+- [tab]
 
-## Daten des SIBAD
-
-[^t-39]: Bereinigt gemäss Ziff. II Abs. 4 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) und Ziff. III Abs. 3 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-
-- 1\. Name
-- 2\. Vorname
-- 3\. Adresse
-- 4\. AHV-Nummer
-- 5\. Nationalität
-- 6\. Heimatort
-- 7\. Arbeitgeberin oder Arbeitgeber mit Adresse
-- 8\. Zivilstand
-- 9\. Geburtsort
-- 10\. Geburtsdatum
-- 11\. Datum der Einbürgerung
-- 12\. Aufenthalt in der Schweiz seit
-- 13\. Name und Vorname der Ehefrau oder des Ehemanns bzw. der Lebenspartnerin oder des Lebenspartners
-- 14\. Funktion
-- 15\. die für die Personensicherheitsprüfung erhobenen Daten nach Artikel 20 des Bundesgesetzes vom 21. März 1997[^annex30-lvlu1-1] über Massnahmen zur Wahrung der inneren Sicherheit
-- 16\. die Risikoanalyse
-- 17\. Prüfergebnis (inklusive Prüfstufe und Erteilungs-/Verfalldatum)
-- 18\. Geschäftskontrolle
-- 19\. Auftraggeberin oder Auftraggeber und deren oder dessen Adresse
-- 20\. Projekt
-
-[^annex30-lvlu1-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^t-39]: Aufgehoben durch Anhang 8 Ziff. II 5 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, mit Wirkung seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 Anhang 31[^t-40]
 
-(Art. 68)
+- [tab]
 
-## Daten des ISKO
-
-[^t-40]: Fassung gemäss Ziff. II Abs. 3 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Bereinigt gemäss Ziff. III Abs. 3 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-
-### Daten natürlicher Personen (bezogen aus SIBAD)
-
-- 1\. Name
-- 2\. Vorname
-- 3\. Adresse
-- 4\. AHV-Nummer
-- 5\. Nationalität
-- 6\. Heimatort
-- 7\. Arbeitgeberin oder Arbeitgeber mit Adresse
-- 8\. Zivilstand
-- 9\. Geburtsort
-- 10\. Geburtsdatum
-- 11\. Datum der Einbürgerung
-- 12\. Aufenthalt in der Schweiz seit
-- 13\. Name und Vorname der Ehefrau oder des Ehemanns bzw. der Lebenspartnerin oder des Lebenspartners
-- 14\. Funktion
-- 15\. Auftraggeberin oder Auftraggeber und deren oder dessen Adresse
-- 16\. Projekt
-
-### Firmendaten
-
-### Firma
-
-- 17\. Dossiernummer
-- 18\. Name
-- 19\. Adresse
-- 20\. Telefon
-- 21\. Fax
-- 22\. E-Mail-Adresse
-- 23\. Internetadresse
-
-### Geheimschutzbeauftragter
-
-- 24\. Anrede
-- 25\. Name
-- 26\. Vorname
-- 27\. Geschlecht
-- 28\. E-Mail-Adresse
-
-### Prüfungsdaten
-
-- 29\. Datum der Vorabklärung
-- 30\. Branchencode zur wirtschaftlichen Tätigkeit der Firma (NOGA-Code)
-- 31\. Besuch (Datum, chronologisch mit Textvermerk)
-- 32\. Kontrolle (Datum, chronologisch mit Textvermerk)
-- 33\. Betriebssicherheitserklärung (Datum, Ausstellung, Widerruf, Rückgabe)
-- 34\. Sicherheitsprotokoll (Datum chronologisch)
-
-### Akten
-
-- 35\. Exemplarnummer
-- 36\. Absenderin oder Absender
-- 37\. Aktendatum
-- 38\. Versanddatum
-- 39\. Kontrolldatum
-- 40\. Rückgabedatum
-- 41\. Bezeichnung
-
-### Aufträge
-
-- 42\. Bezeichnung (Hauptauftrag)
-- 43\. Auftraggeberin oder Auftraggeber
-- 44\. Bezeichnung (Aufträge)
-- 45\. Klassifikation
-- 46\. Meldungsdatum
-- 47\. Gültigkeitsbeginn
-- 48\. Gültigkeitsende
-- 49\. Kurzbezeichnung (Branche)
-- 50\. Branchencode zur wirtschaftlichen Tätigkeit der Firma (NOGA-Code)
+[^t-40]: Aufgehoben durch Anhang 2 Ziff. II 3 der V vom 8. Nov. 2023 über das Betriebssicherheitsverfahren, mit Wirkung seit 1. Jan. 2024 ([AS 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)).
 
 Anhang 32[^t-41]
 
@@ -3761,16 +3722,16 @@ Anhang 33d[^t-48]
 
 ## Daten des MIL PLATTFORM
 
-[^t-48]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 20. Mai 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)) und Ziff. III Abs. 3 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-48]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Bereinigt gemäss Ziff. III Abs. 3 der V vom 3. März 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)) und Anhang 8 Ziff. II 5 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 - 1\. Name, Vornamen, Initialen, Personalnummer, Arbeitgeberin oder Arbeitgeber, Geschäftsadresse, Privatadresse, Geschäfts-E-Mail, Geschäftstelefonnummer und AHV-Nummer der zugangsberechtigten Person
-- 2\. Prüfstufe, Erteilungs- und Verfalldatum einer der zugangsberechtigten Person erteilten Sicherheitserklärung nach Artikel 22 Absatz 1 Buchstabe a PSPV[^annex33d-lvlu1-1]
+- 2\. Prüfstufe nach den Artikeln 10–14 VPSP[^annex33d-lvlu1-1], Datum der Rechtskraft des Entscheids nach Artikel 24 VPSP sowie Zeitpunkt der nächsten ordentlichen Wiederholung der Personensicherheitsprüfung nach Artikel 26 VPSP betreffend einer zugangsberechtigten Person
 - 3\. über einen Handvenenscanner beim Zugang auf das MIL PLATTFORM erfasste biometrische Daten (Handvenenscan) der Person
 - 4\. Template des Handvenenscans der zum MIL PLATTFORM zugangsberechtigten Person
 - 5\. Zeitpunkt und Ort des erfolgten oder versuchten Zugangs einer Person zum MIL PLATTFORM sowie der dabei erfasste Handvenenscan (Logdaten)
 - 6\. Zugangsdaten und -berechtigungen
 
-[^annex33d-lvlu1-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^annex33d-lvlu1-1]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 Anhang 34[^t-49]
 
@@ -4207,9 +4168,43 @@ Anhang 35<sup>quater</sup> [^t-53]
 
 Anhang 35a[^t-54]
 
-- [tab]
+(Art. 72*d*)
 
-[^t-54]: Eingefügt durch Ziff. II Abs. 3 der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Aufgehoben durch Ziff. II Abs. 3 der V vom 20. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+## Daten des FoD
+
+[^t-54]: Eingefügt durch Ziff. II Abs. 3 der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Fassung gemäss Ziff. III der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
+
+- 1\. Name
+- 2\. Vorname
+- 3\. Geschlecht
+- 4\. Geburtsdatum, Alter
+- 5\. Heimatort
+- 6\. Adresse
+- 7\. Wohnsitzgemeinde
+- 8\. Telefonnummer
+- 9\. E-Mail-Adresse
+- 10\. AHV-Nummer
+- 11\. Persönliche Identifikationsnummer
+- 12\. Sprache
+- 13\. Rekrutierungsdaten (Ort, Zyklus, Datum, Anzahl Teilnehmende, Angaben zur Tauglichkeit)
+- 14\. Einteilung, Einheit, Formation
+- 15\. Dienst bei
+- 16\. Dienstleistungsdaten
+- 17\. Grad
+- 18\. Funktion
+- 19\. Daten zur körperlichen und mentalen Fitness, zu den Leistungen, zur Widerstandsfähigkeit und zur Gesundheit, inklusive ihrer Veränderungen
+- 20\. Allgemeiner Gesundheitszustand
+- 21\. Ergebnisse der Anamnese (Status, insbesondere Körpermasse [Grösse, Gewicht, Body-Mass-Index {BMI}, Bauchumfang])
+- 22\. Herzfrequenz-Parameter
+- 23\. Die unterschiedlichen Körpertemperaturen
+- 24\. Die Beschleunigungsdaten der körperlichen Aktivität
+- 25\. Die Schlafmenge und -qualität
+- 26\. Das Empfinden der physischen und psychischen Verfassung
+- 27\. Sauerstoffsättigung (ausschliesslich zu Forschungszwecken gemäss Artikel 39 DSG)
+- 28\. Sprechmuster (ausschliesslich zu Forschungszwecken gemäss Artikel 39 DSG)
+- 29\. Geolokalisierungsdaten (ausschliesslich zu Forschungszwecken gemäss Artikel 39 DSG)
+- 30\. Anthropometrische Daten
+- 31\. Daten zu sportlichen Leistungen
 
 Anhang 35b und 35c[^t-55]
 
