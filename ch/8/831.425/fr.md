@@ -4,11 +4,11 @@ title: "Ordonnance du 3 octobre 1994 sur le libre passage dans la prévoyance pr
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr"
 
 (Ordonnance sur le libre passage, OLP)
 
-du 3 octobre 1994 (État le 1<sup>er</sup> janvier 2022)
+du 3 octobre 1994 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -90,12 +90,13 @@ Le taux d’intérêt visé à l’art. 17, al. 1 et 4, LFLP correspond au taux 
 
 <sup>3</sup> La part des prestations d’entrée apportées qui a servi au financement des prestations selon l’art. 17, al. 2, let. a à c, LFLP, ne doit pas être prise en considération pour calculer la prestation minimale.
 
-<sup>4</sup> Les cotisations destinées à financer les rentes transitoires de l’AVS peuvent être déduites en vertu de l’art. 17, al. 1, let. c, LFLP lorsque l’octroi des rentes en question débute au plus tôt cinq ans avant que les personnes assurées n’atteignent l’âge ordinaire de la retraite au sens de l’AVS. Si des motifs suffisants le justifient, ce délai peut être porté à dix ans au maximum.
+<sup>4</sup> Les cotisations destinées à financer les rentes transitoires de l’AVS peuvent être déduites en vertu de l’art. 17, al. 2, let. c, LFLP lorsque l’octroi des rentes en question débute au plus tôt cinq ans avant que les assurés n’atteignent l’âge de référence fixé à l’art. 13, al. 1, LPP. Si des motifs suffisants le justifient, ce délai peut être porté à dix ans au maximum.[^6-3]
 
 <sup>5</sup> La majoration prévue à l’art. 17, al. 1, LFLP, est, à 21 ans, de 4 pour cent et elle augmente de 4 pour cent par an.
 
 [^6-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^6-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^6-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 6a
 
@@ -196,7 +197,7 @@ Les art. 14 LFLP et 331*c* du code des obligations (CO)[^11-1] sont applicables 
 
 <sup>4</sup> Pour la police de libre passage, le montant du capital de prévoyance correspond à la réserve mathématique. [^13-3]
 
-<sup>5</sup> Pour un compte de libre passage sous forme d’épargne pure, le montant du capital de prévoyance correspond à la prestation de sortie apportée, majorée des intérêts, et, pour un compte de libre passage sous forme d’épargne liée à des placements (épargne-titres), à la valeur actuelle de ces derniers. Les frais administratifs et le coût des assurances complémentaires au sens de l’art. 10, al. 3, 2<sup>e</sup> phrase, peuvent être déduits si cela a été convenu par écrit.[^13-4]
+<sup>5</sup> Pour un compte de libre passage sous forme d’épargne pure, le montant du capital de prévoyance correspond à la prestation de sortie apportée, majorée des intérêts, et, pour un compte de libre passage sous forme d’épargne liée à des placements (épargne-titres), à la valeur actuelle de ces derniers. Les frais administratifs et le coût des assurances complémentaires au sens de l’art. 10, al. 3, 2<sup>e</sup> phrase, peuvent être déduits si cela a été convenu par écrit. [^13-4]
 
 [^13-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^13-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -248,16 +249,15 @@ Les personnes suivantes ont qualité de bénéficiaires s’agissant du maintien
 
 **Paiement des prestations de vieillesse**[^16-1]
 
-<sup>1</sup> Les prestations de vieillesse dues en vertu des polices et des comptes de libre passage peuvent être versées au plus tôt cinq ans avant que l’assuré n’atteigne l’âge ordinaire de la retraite visé à l’art. 13, al. 1, LPP[^16-2] et au plus tard cinq ans après.[^16-3]
+<sup>1</sup> Les prestations de vieillesse dues en vertu des polices et des comptes de libre passage peuvent être versées au plus tôt cinq ans avant que l’assuré atteigne l’âge de référence. Elles sont échues dès que l’assuré atteint cet âge. Si l’assuré prouve qu’il continue à exercer une activité lucrative, il peut ajourner la perception de ces prestations jusqu’à cinq ans au plus après l’âge de référence.[^16-2]
 
 <sup>2</sup> Si l’assuré perçoit une rente entière d’invalidité de l’assurance fédérale et si le risque d’invalidité n’est pas assuré à titre complémentaire au sens de l’art. 10, al. 2 et 3, deuxième phrase, la prestation de vieillesse lui est versée plus tôt, sur sa demande.
 
-<sup>3</sup> Lorsque l’assuré est marié ou lié par un partenariat enregistré, le versement de la prestation de vieillesse en capital n’est autorisé que si le conjoint ou le partenaire enregistré donne son consentement écrit. S’il n’est pas possible de recueillir ce consentement ou s’il est refusé, l’assuré peut en appeler au tribunal civil.[^16-4]
+<sup>3</sup> Lorsque l’assuré est marié ou lié par un partenariat enregistré, le versement de la prestation de vieillesse en capital n’est autorisé que si le conjoint ou le partenaire enregistré donne son consentement écrit. S’il n’est pas possible de recueillir ce consentement ou s’il est refusé, l’assuré peut en appeler au tribunal civil.[^16-3]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3450](https://fedlex.data.admin.ch/eli/oc/1996/3450_3450_3450)).
-[^16-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^16-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^16-4]: Introduit par l’annexe ch. 1 de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
+[^16-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^16-3]: Introduit par l’annexe ch. 1 de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 #### Art. 17
 
@@ -360,14 +360,14 @@ Le registre peut être consulté par:
 
 **Avoirs de prévoyance oubliés et avoirs de prévoyance pour lesquels le contact a été rompu**[^19c-1]
 
-<sup>1</sup> Les avoirs de prévoyance oubliés au sens de l’art. 24*d*, al. 2, LFLP sont les avoirs des personnes qui ont atteint l’âge de la retraite au sens de l’art. 13, al. 1, LPP[^19c-2] et n’ont pas encore fait valoir leur droit aux prestations de vieillesse.
+<sup>1</sup> Les avoirs de prévoyance oubliés au sens de l’art. 24*d*, al. 2, LFLP sont les avoirs des personnes qui ont atteint l’âge de référence et n’ont pas encore fait valoir leur droit aux prestations de vieillesse ni apporté la preuve qu’elles continuent à exercer une activité lucrative.[^19c-2]
 
 <sup>2</sup> Les avoirs de prévoyance pour lesquels le contact a été rompu sont les avoirs des personnes que l’institution de prévoyance ou de libre passage n’est plus en mesure de contacter.
 
 <sup>3</sup> Lors de l’annonce visée à l’art. 24*a* LFLP, l’institution de prévoyance ou de libre passage indique à la Centrale du 2<sup>e</sup> pilier les personnes dont elle gère un avoir de prévoyance pour lequel le contact a été rompu.
 
 [^19c-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^19c-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^19c-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19d
 
@@ -410,7 +410,9 @@ Le fonds de garantie fait état, dans son rapport annuel, des activités de la C
 
 <sup>1</sup> Si le conjoint débiteur atteint l’âge de la retraite pendant la procédure de divorce, l’institution de prévoyance peut réduire la prestation de sortie à partager au sens de l’art. 123 CC ainsi que la rente de vieillesse. La réduction correspond au maximum au montant dont auraient été amputées les prestations jusqu’à l’entrée en force du jugement de divorce si leur calcul s’était basé sur l’avoir diminué de la part transférée de la prestation de sortie. Le montant équivalent à la réduction est partagé par moitié entre les deux conjoints.
 
-<sup>2</sup> Si le conjoint débiteur perçoit une rente d’invalidité et qu’il atteint l’âge réglementaire de la retraite pendant la procédure de divorce, l’institution de prévoyance peut réduire la prestation de sortie au sens de l’art. 124, al. 1, CC ainsi que la rente de vieillesse. La réduction correspond au maximum au montant dont auraient été amputées les prestations entre le moment où l’âge réglementaire de la retraite a été atteint et l’entrée en force du jugement de divorce si leur calcul s’était basé sur l’avoir diminué de la part transférée de la prestation de sortie. Le montant équivalent à la réduction est partagé par moitié entre les deux conjoints.
+<sup>2</sup> Si le conjoint débiteur perçoit une rente d’invalidité et qu’il atteint l’âge de référence réglementaire pendant la procédure de divorce, l’institution de prévoyance peut réduire la prestation de sortie au sens de l’art. 124, al. 1, CC ainsi que la rente de vieillesse. La réduction correspond au maximum au montant dont auraient été amputées les prestations entre le moment où l’âge de référence réglementaire a été atteint et l’entrée en force du jugement de divorce si leur calcul s’était basé sur l’avoir diminué de la part transférée de la prestation de sortie. Le montant équivalent à la réduction est partagé par moitié entre les deux conjoints.[^19g-1]
+
+[^19g-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19h
 
@@ -422,15 +424,17 @@ Le fonds de garantie fait état, dans son rapport annuel, des activités de la C
 
 <sup>2</sup> La date déterminante pour la conversion est celle de l’entrée en force du jugement de divorce.
 
-[^19h-1]: L’outil électronique de conversion sera disponible à partir du 1<sup>er</sup> janvier 2017 sur le site www.bsv.admin.ch/olp19h-conversion.
+[^19h-1]: L’outil électronique de conversion sera disponible à partir du 1<sup>er</sup> janvier 2017 sur le site [www.bsv.admin.ch/olp19h-conversion](http://www.bsv.admin.ch/olp19h-conversion).
 
 #### Art. 19i
 
-**Partage de la prévoyance en cas d’ajournement de la rente de vieillesse**
+**Partage de la prévoyance en cas d’ajournement de la rente de vieillesse**[^19i-1]
 
 ### (art. 124*a*, al. 3, ch. 2, CC)
 
-Lorsqu’un conjoint a atteint l’âge réglementaire de la retraite au moment de l’introduction de la procédure de divorce et qu’il a ajourné la perception de sa prestation de vieillesse, la prestation de sortie à partager correspond à son avoir de prévoyance à ce moment-là.
+Lorsqu’un conjoint a atteint l’âge de référence réglementaire au moment de l’introduction de la procédure de divorce et qu’il a ajourné la perception de sa prestation de vieillesse, la prestation de sortie à partager correspond à son avoir de prévoyance à ce moment-là.
+
+[^19i-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19j
 
@@ -543,6 +547,14 @@ En 2017, les institutions de prévoyance et les institutions qui gèrent des com
 
 Pour la conversion de la part de rente en une rente viagère selon l’art. 19*h*, le taux d’intérêt technique est de 2 % jusqu’au 31 décembre 2020.
 
+## Disposition transitoire de la modification du 30 août 2023
+
+[^u5-1]
+
+[^u5-1]: [RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+Les personnes qui devraient percevoir leurs prestations de vieillesse au sens de l’art. 16, al. 1, pendant les années 2024 à 2029 parce qu’elles ont atteint ou dépassé l’âge de référence et qui n’exercent plus d’activité lucrative peuvent ajourner le versement de ces prestations jusqu’au 31 décembre 2029, mais au plus tard cinq ans après avoir atteint l’âge de référence.
+
 Annexe[^t-1]
 
 (art. 19*h*)
@@ -553,15 +565,15 @@ Annexe[^t-1]
 
 \1. La part de rente attribuée au conjoint créancier est convertie en rente viagère selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image1.png)
 
 \2. où:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
 
 \3. Les valeurs actuelles et expectatives de rentes sont calculées d’après les bases techniques LPP pertinentes au moment déterminant pour le calcul. Les tables de génération sans renforcement pour l’année civile considérée et la moyenne pondérée des taux d’intérêt techniques moyens indiquées dans le dernier rapport sur la situation financière des institutions de prévoyance publié par la Commission de haute surveillance de la prévoyance professionnelle[^annexu1-lvlu1-1] sont appliquées.
 
-[^annexu1-lvlu1-1]: Consultable sous: www.oak-bv.admin.ch &gt; Thèmes &gt; Recensement situation financière.
+[^annexu1-lvlu1-1]: Consultable sous: [www.oak-bv.admin.ch](http://www.oak-bv.admin.ch) &gt; Thèmes &gt; Recensement situation financière

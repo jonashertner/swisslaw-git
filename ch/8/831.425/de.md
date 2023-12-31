@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflich
 short: FZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de"
 
 (Freizügigkeitsverordnung, FZV)
 
-vom 3. Oktober 1994 (Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
+vom 3. Oktober 1994 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -90,12 +90,13 @@ Der Zinssatz nach Artikel 17 Absätze 1 und 4 FZG entspricht dem Mindestzinssatz
 
 <sup>3</sup> Teile von eingebrachten Eintrittsleistungen, welche für Aufwendungen nach Artikel 17 Absatz 2 Buchstaben a–c FZG verwendet wurden, müssen bei der Ermittlung der Mindestleistung nicht berücksichtigt werden.
 
-<sup>4</sup> Beiträge für die Finanzierung von AHV-Überbrückungsrenten können nach Artikel 17 Absatz 2 Buchstabe c FZG abgezogen werden, wenn diese Renten frühestens fünf Jahre vor Erreichen des ordentlichen AHV-Rentenalters zu laufen beginnen. Bei hinreichender Begründung kann diese Frist höchstens zehn Jahre betragen.
+<sup>4</sup> Beiträge für die Finanzierung von AHV-Überbrückungsrenten können nach Artikel 17 Absatz 2 Buchstabe c FZG abgezogen werden, wenn diese Renten frühestens fünf Jahre vor Erreichen des Referenzalters nach Artikel 13 Absatz 1 BVG zu laufen beginnen. Bei hinreichender Begründung kann diese Frist höchstens zehn Jahre betragen.[^6-3]
 
 <sup>5</sup> Der Zuschlag nach Artikel 17 Absatz 1 FZG beträgt im Alter 21 4 Prozent und erhöht sich jährlich um 4 Prozent.
 
 [^6-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^6-2]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^6-3]: Fassung gemäss Anhang Ziff. 6 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 6a
 
@@ -248,14 +249,14 @@ Für die Erhaltung des Vorsorgeschutzes gelten als Begünstigte:
 
 **Auszahlung der Altersleistungen**[^16-1]
 
-<sup>1</sup> Altersleistungen von Freizügigkeitspolicen und Freizügigkeitskonten dürfen frühestens fünf Jahre vor und spätestens fünf Jahre nach Erreichen des Rentenalters nach Artikel 13 Absatz 1 BVG[^16-2] ausbezahlt werden.
+<sup>1</sup> Altersleistungen von Freizügigkeitspolicen und Freizügigkeitskonten dürfen frühestens fünf Jahre vor Erreichen des Referenzalters ausbezahlt werden. Sie werden bei Erreichen des Referenzalters fällig. Weist die versicherte Person nach, dass sie weiterhin erwerbstätig ist, so kann sie den Leistungsbezug höchstens fünf Jahre über das Erreichen des Referenzalters hinaus aufschieben.[^16-2]
 
 <sup>2</sup> Beziehen die Versicherten eine volle Invalidenrente der Eidgenössischen Invalidenversicherung und wird das Invaliditätsrisiko nach Artikel 10 Absätze 2 und 3 zweiter Satz nicht zusätzlich versichert, so wird die Altersleistung auf Begehren der Versicherten vorzeitig ausbezahlt.
 
 <sup>3</sup> Ist die versicherte Person verheiratet oder lebt sie in eingetragener Partnerschaft, so ist die Auszahlung der Altersleistung in Kapitalform nur zulässig, wenn der Ehegatte, der eingetragene Partner oder die eingetragene Partnerin schriftlich zustimmt. Kann die versicherte Person die Zustimmung nicht einholen oder wird sie ihr verweigert, so kann sie das Zivilgericht anrufen.[^16-3]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3450](https://fedlex.data.admin.ch/eli/oc/1996/3450_3450_3450)).
-[^16-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^16-2]: Fassung gemäss Anhang Ziff. 6 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^16-3]: Eingefügt durch Anhang Ziff. 1 der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 #### Art. 17
@@ -361,14 +362,14 @@ Das Register kann eingesehen werden durch:
 
 **Vergessene und kontaktlose Vorsorgeguthaben**[^19c-1]
 
-<sup>1</sup> Als Vorsorgeguthaben, die nach Artikel 24*d* Absatz 2 FZG als vergessene Guthaben zu melden sind, gelten Guthaben von Personen, die das Rentenalter nach Artikel 13 Absatz 1 BVG[^19c-2] erreicht haben und ihren Anspruch auf Auszahlung der Altersleistungen noch nicht geltend gemacht haben.
+<sup>1</sup> Als Vorsorgeguthaben, die nach Artikel 24*d* Absatz 2 FZG als vergessene Guthaben zu melden sind, gelten Guthaben von Personen, die das Referenzalter erreicht haben und weder ihren Anspruch auf Auszahlung der Altersleistungen geltend gemacht noch den Nachweis erbracht haben, dass sie weiterhin erwerbstätig sind.[^19c-2]
 
 <sup>2</sup> Als kontaktlose Vorsorgeguthaben gelten Guthaben von Personen, mit denen die Vorsorge- oder Freizügigkeitseinrichtung keinen Kontakt mehr herstellen kann.
 
 <sup>3</sup> Die Vorsorge- oder Freizügigkeitseinrichtungen teilen der Zentralstelle 2. Säule bei der Meldung nach Artikel 24*a* FZG mit, für welche der gemeldeten Personen sie ein kontaktloses Vorsorgeguthaben führen.
 
 [^19c-1]: Fassung gemäss Anhang Ziff. 1 der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^19c-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^19c-2]: Fassung gemäss Anhang Ziff. 6 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19d
 
@@ -411,7 +412,9 @@ Der Sicherheitsfonds berichtet in seinem Jahresbericht über die Tätigkeit der 
 
 <sup>1</sup> Tritt beim verpflichteten Ehegatten während des Scheidungsverfahrens der Vorsorgefall Alter ein, so kann die Vorsorgeeinrichtung den nach Artikel 123 ZGB zu übertragenden Teil der Austrittsleistung und die Altersrente kürzen. Die Kürzung entspricht höchstens der Summe, um die die Rentenzahlungen bis zur Rechtskraft des Scheidungsurteils tiefer ausgefallen wären, wenn ihrer Berechnung ein um den übertragenen Teil der Austrittsleistung vermindertes Guthaben zugrunde gelegt worden wäre. Die Kürzung wird je hälftig auf die beiden Ehegatten verteilt.
 
-<sup>2</sup> Bezieht der verpflichtete Ehegatte eine Invalidenrente und erreicht er während des Scheidungsverfahrens das reglementarische Rentenalter, so kann die Vorsorgeeinrichtung die Austrittsleistung nach Artikel 124 Absatz 1 ZGB und die Rente kürzen. Die Kürzung entspricht höchstens der Summe, um die die Rentenzahlungen zwischen dem Erreichen des reglementarischen Rentenalters und der Rechtskraft des Scheidungsurteils tiefer ausgefallen wären, wenn ihrer Berechnung ein um den übertragenen Teil der Austrittsleistung vermindertes Guthaben zugrunde gelegt worden wäre. Die Kürzung wird je hälftig auf die beiden Ehegatten verteilt.
+<sup>2</sup> Bezieht der verpflichtete Ehegatte eine Invalidenrente und erreicht er während des Scheidungsverfahrens das reglementarische Referenzalter, so kann die Vorsorgeeinrichtung die Austrittsleistung nach Artikel 124 Absatz 1 ZGB und die Rente kürzen. Die Kürzung entspricht höchstens der Summe, um die die Rentenzahlungen zwischen dem Erreichen des reglementarischen Referenzalters und der Rechtskraft des Scheidungsurteils tiefer ausgefallen wären, wenn ihrer Berechnung ein um den übertragenen Teil der Austrittsleistung vermindertes Guthaben zugrunde gelegt worden wäre. Die Kürzung wird je hälftig auf die beiden Ehegatten verteilt.[^19g-1]
+
+[^19g-1]: Fassung gemäss Anhang Ziff. 6 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19h
 
@@ -423,15 +426,17 @@ Der Sicherheitsfonds berichtet in seinem Jahresbericht über die Tätigkeit der 
 
 <sup>2</sup> Für die Umrechnung massgebend ist der Zeitpunkt, in dem die Scheidung rechtskräftig wird.
 
-[^19h-1]: Das elektronische Umrechnungsprogramm ist ab dem 1. Januar 2017 unter www.bsv.admin.ch/fzv19h-umrechnung zugänglich.
+[^19h-1]: Das elektronische Umrechnungsprogramm ist ab dem 1. Januar 2017 unter [www.bsv.admin.ch/fzv19h-umrechnung](https://www.bsv.admin.ch/fzv19h-umrechnung) zugänglich.
 
 #### Art. 19i
 
-**Ausgleich bei Aufschub der Altersrente**
+**Ausgleich bei Aufschub der Altersrente**[^19i-1]
 
 ### (Art. 124*a* Abs. 3 Ziff. 2 ZGB)
 
-Hat ein Ehegatte im Zeitpunkt der Einleitung des Scheidungsverfahrens das ordentliche reglementarische Rentenalter erreicht und den Bezug der Altersleistung aufgeschoben, so ist sein in diesem Zeitpunkt vorhandenes Vorsorgeguthaben wie eine Austrittsleistung zu teilen.
+Hat ein Ehegatte im Zeitpunkt der Einleitung des Scheidungsverfahrens das reglementarische Referenzalter erreicht und den Bezug der Altersleistung aufgeschoben, so ist sein in diesem Zeitpunkt vorhandenes Vorsorgeguthaben wie eine Austrittsleistung zu teilen.
+
+[^19i-1]: Fassung gemäss Anhang Ziff. 6 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19j
 
@@ -544,6 +549,14 @@ Im Jahr 2017 müssen die Vorsorgeeinrichtungen und die Einrichtungen, welche Fre
 
 Für die Umrechnung des Rentenanteils in eine lebenslange Rente nach Artikel 19*h* beträgt der technische Zinssatz bis zum 31. Dezember 2020 2 Prozent.
 
+## Übergangsbestimmung zur Änderung vom 30. August 2023
+
+[^u5-1]
+
+[^u5-1]: [AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+Personen, die ihre Altersleistungen nach Artikel 16 Absatz 1 in den Jahren 2024–2029 beziehen müssten, weil sie das Referenzalter erreichen oder bereits überschritten haben, und die nicht mehr erwerbstätig sind, können die Auszahlung dieser Leistungen bis zum 31. Dezember 2029, höchstens aber fünf Jahre über das Erreichen des Referenzalters hinaus, aufschieben.
+
 Anhang[^t-1]
 
 (Art. 19*h*)
@@ -554,15 +567,15 @@ Anhang[^t-1]
 
 \1. Der dem berechtigten Ehegatten zugesprochene Rentenanteil wird wie folgt in eine lebenslange Rente umgerechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image1.png)
 
 \2. Dabei bezeichnet:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
 
 \3. Die Barwerte und Anwartschaften werden auf der Basis der technischen Grundlagen BVG berechnet, die im für die Umrechnung massgebenden Zeitpunkt bestehen. Dabei werden die im Kalenderjahr der Berechnung geltenden unverstärkten Generationentafeln und der gewichtete Durchschnitt der technischen Durchschnittszinssätze gemäss dem zuletzt veröffentlichten Bericht der Oberaufsichtskommission Berufliche Vorsorge[^annexu1-lvlu1-1] zur finanziellen Lage der Vorsorgeeinrichtungen verwendet.
 
-[^annexu1-lvlu1-1]: Einsehbar unter: www.oak-bv.admin.ch &gt; Themen &gt; Erhebung finanzielle Lage.
+[^annexu1-lvlu1-1]: Einsehbar unter: [www.oak-bv.admin.ch](https://www.oak-bv.admin.ch) &gt; Themen &gt; Erhebung finanzielle Lage.

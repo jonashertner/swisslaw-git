@@ -4,11 +4,11 @@ title: "Ordinanza del 3 ottobre 1994 sul libero passaggio nella previdenza profe
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it"
 
 (Ordinanza sul libero passaggio, OLP)
 
-del 3 ottobre 1994 (Stato 1° gennaio 2022)
+del 3 ottobre 1994 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -88,14 +88,15 @@ Il tasso d’interesse giusta l’articolo 17 capoversi 1 e 4 LFLP equivale al t
 - a. nel caso dei fondi di risparmio: al tasso d’interesse applicato all’avere a risparmio;
 - b. nel caso degli istituti d’assicurazione gestiti secondo il primato dei contributi e degli istituti di previdenza gestiti secondo il primato delle prestazioni: ad un tasso inferiore di 0.5 punti percentuali rispetto al tasso d’interesse minimo stabilito nella LPP.[^6-2]
 
-<sup>3</sup> Le quote delle prestazioni d’entrata apportate, impiegate per finanziamenti di cui all’articolo 17 capoverso 2 lettere a–c LFLP, non devono essere considerate nel calcolo della prestazione minima.
+<sup>3</sup> Le quote delle prestazioni d’entrata apportate, impiegate per finanziamenti di cui all’articolo 17 capoverso 2 lettere a-c LFLP, non devono essere considerate nel calcolo della prestazione minima.
 
-<sup>4</sup> I contributi destinati al finanziamento delle rendite transitorie AVS possono essere dedotti giusta l’articolo 17 capoverso 2 lettera c LFLP, se tali rendite iniziano a decorrere il più presto cinque anni prima del raggiungimento dell’ordinaria età AVS. Se sufficienti motivi lo giustificano, questo termine può essere prolungato al massimo a dieci anni.
+<sup>4</sup> I contributi destinati al finanziamento delle rendite transitorie AVS possono essere dedotti giusta l’articolo 17 capoverso 2 lettera c LFLP, se tali rendite iniziano a decorrere al più presto cinque anni prima del raggiungimento dell’età di riferimento secondo l’articolo 13 capoverso 1 LPP. Se sufficienti motivi lo giustificano, questo termine può essere esteso al massimo a dieci anni.[^6-3]
 
 <sup>5</sup> L’aumento di cui all’articolo 17 capoverso 1 LFLP raggiunge il 4 per cento nel 21° anno di età ed in seguito aumenta annualmente del 4 per cento.
 
 [^6-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^6-2]: Nuovo testo giusta l’all. n. 3 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^6-3]: Nuovo testo giusta l’all. n. 6 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 6a
 
@@ -248,14 +249,14 @@ Sono considerati beneficiari per il mantenimento della previdenza:
 
 **Pagamento delle prestazioni di vecchiaia**[^16-1]
 
-<sup>1</sup> Le prestazioni di vecchiaia per polizze e conti di libero passaggio possono essere versate il più presto cinque anni prima e il più tardi cinque anni dopo il raggiungimento dell’età dell’AVS secondo l’articolo 13 capoverso 1 LPP[^16-2].
+<sup>1</sup> Le prestazioni di vecchiaia per polizze e conti di libero passaggio possono essere versate al più presto cinque anni prima del raggiungimento dell’età di riferimento. Esse diventano esigibili al raggiungimento dell’età di riferimento. Se l’assicurato dimostra che continua a esercitare un’attività lucrativa, la riscossione delle prestazioni può essere rinviata al massimo fino a cinque anni dopo il raggiungimento dell’età di riferimento.[^16-2]
 
 <sup>2</sup> Se gli assicurati percepiscono una rendita completa d’invalidità dell’assicurazione federale invalidità e il rischio d’invalidità non è coperto a titolo complementare secondo l’articolo 10 capoversi 2 e 3 secondo periodo, la prestazione di vecchiaia è versata anticipatamente su domanda dell’assicurato.
 
 <sup>3</sup> Se l’assicurato è coniugato o vive in unione domestica registrata, il versamento della prestazione di vecchiaia sotto forma di capitale è ammesso soltanto con il consenso scritto del coniuge o del partner registrato. Se l’assicurato non può procurarsi il consenso o quest’ultimo gli è negato, egli può rivolgersi al giudice civile.[^16-3]
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3450](https://fedlex.data.admin.ch/eli/oc/1996/3450_3450_3450)).
-[^16-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^16-2]: Nuovo testo giusta l’all. n. 6 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^16-3]: Introdotto dall’all. n. 1 dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 #### Art. 17
@@ -359,14 +360,14 @@ Il registro può essere consultato:
 
 **Averi di previdenza dimenticati e averi di previdenza di persone irreperibili**[^19c-1]
 
-<sup>1</sup> Sono considerati averi di previdenza da annunciare quali averi dimenticati conformemente all’articolo 24*d* capoverso 2 LFLP gli averi di persone che hanno raggiunto l’età conferente il diritto alla rendita secondo l’articolo 13 capoverso 1 LPP[^19c-2] e non hanno ancora fatto valere il loro diritto al pagamento delle prestazioni di vecchiaia.
+<sup>1</sup> Sono considerati averi di previdenza da annunciare quali averi dimenticati conformemente all’articolo 24*d* capoverso 2 LFLP gli averi di persone che hanno raggiunto l’età di riferimento e non hanno ancora fatto valere il loro diritto al pagamento delle prestazioni di vecchiaia né hanno dimostrato di continuare a esercitare un’attività lucrativa.[^19c-2]
 
 <sup>2</sup> Sono considerati averi di previdenza di persone irreperibili gli averi di persone con cui l’istituto di previdenza o di libero passaggio non è più in grado di stabilire un contatto.
 
 <sup>3</sup> Quando effettuano l’annuncio di cui all’articolo 24*a* LFLP, gli istituti di previdenza o di libero passaggio comunicano all’Ufficio centrale del 2° pilastro per quali persone fra quelle annunciate essi gestiscono un avere di previdenza di persone irreperibili.
 
 [^19c-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^19c-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^19c-2]: Nuovo testo giusta l’all. n. 6 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19d
 
@@ -409,7 +410,9 @@ Nel suo rapporto annuale il Fondo di garanzia riferisce in merito all’attivit�
 
 <sup>1</sup> Se durante la procedura di divorzio si verifica per il coniuge debitore il caso di previdenza vecchiaia, l’istituto di previdenza può ridurre la parte della prestazione d’uscita da trasferire secondo l’articolo 123 CC e la rendita di vecchiaia. La riduzione corrisponde al massimo all’importo di cui sarebbero ridotti i pagamenti delle rendite fino al passaggio in giudicato della sentenza di divorzio, se fossero stati calcolati sulla base di un avere diminuito della parte della prestazione d’uscita trasferita. La riduzione è divisa a metà tra i coniugi.
 
-<sup><sup>2</sup></sup> Se il coniuge debitore percepisce una rendita d’invalidità e raggiunge l’età di pensionamento stabilita dal regolamento durante la procedura di divorzio, l’istituto di previdenza può ridurre la prestazione d’uscita di cui all’articolo 124 capoverso 1 CC e la rendita. La riduzione corrisponde al massimo all’importo di cui sarebbero ridotti i pagamenti delle rendite tra il raggiungimento dell’età di pensionamento stabilita dal regolamento e il passaggio in giudicato della sentenza di divorzio, se fossero stati calcolati sulla base di un avere diminuito della parte della prestazione d’uscita trasferita. La riduzione è divisa a metà tra i coniugi.
+<sup>2</sup> Se il coniuge debitore percepisce una rendita d’invalidità e raggiunge l’età di riferimento regolamentare durante la procedura di divorzio, l’istituto di previdenza può ridurre la prestazione d’uscita di cui all’articolo 124 capoverso 1 CC e la rendita. La riduzione corrisponde al massimo all’importo di cui sarebbero ridotti i pagamenti delle rendite tra il raggiungimento dell’età di riferimento regolamentare e il passaggio in giudicato della sentenza di divorzio, se fossero stati calcolati sulla base di un avere diminuito della parte della prestazione d’uscita trasferita. La riduzione è divisa a metà tra i coniugi.[^19g-1]
+
+[^19g-1]: Nuovo testo giusta l’all. n. 6 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19h
 
@@ -425,11 +428,13 @@ Nel suo rapporto annuale il Fondo di garanzia riferisce in merito all’attivit�
 
 #### Art. 19i
 
-**Conguaglio in caso di differimento della rendita di vecchiaia**
+**Conguaglio in caso di differimento della rendita di vecchiaia**[^19i-1]
 
 ### (art. 124*a* cpv. 3 n. 2 CC)
 
-Se al momento del promovimento della procedura di divorzio un coniuge ha raggiunto l’età ordinaria di pensionamento stabilita dal regolamento e ha differito la riscossione della prestazione di vecchiaia, l’avere di previdenza disponibile in quel momento va diviso analogamente a una prestazione d’uscita.
+Se al momento del promovimento della procedura di divorzio un coniuge ha raggiunto l’età di riferimento regolamentare e ha differito la riscossione della prestazione di vecchiaia, l’avere di previdenza disponibile in quel momento va diviso analogamente a una prestazione d’uscita.
+
+[^19i-1]: Nuovo testo giusta l’all. n. 6 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 19j
 
@@ -542,6 +547,14 @@ Nell’anno 2017 gli istituti di previdenza e gli istituti che gestiscono conti 
 
 Per la conversione della parte di rendita in una rendita vitalizia secondo l’articolo 19*h*, il tasso d’interesse tecnico applicabile è del 2 per cento fino al 31 dicembre 2020.
 
+## Disposizione transitoria della modifica del 30 agosto 2023
+
+[^u5-1]
+
+[^u5-1]: [RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)
+
+Le persone che dovrebbero percepire le proprie prestazioni di vecchiaia secondo l’articolo 16 capoverso 1 nel periodo 2024–2029, in quanto raggiungono o hanno già raggiunto l’età di riferimento e non esercitano più alcuna attività lucrativa, possono differire la riscossione di queste prestazioni fino al 31 dicembre 2029, ma al massimo fino a cinque anni dopo il raggiungimento dell’età di riferimento.
+
 Allegato[^t-1]
 
 (art. 19*h*)
@@ -553,18 +566,18 @@ Allegato[^t-1]
 \1. La parte di rendita assegnata al coniuge creditore è convertita in una rendita vitalizia applicando la formula seguente:
 
 <table>
-<tr><td>rendita vitalizia = parte di rendita</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image1.png)</td></tr>
+<tr><td>rendita vitalizia = parte di rendita</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image1.png)</td></tr>
 </table>
 
 \2. Ove:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image2.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge debitore (in funzione del suo sesso e della sua età);
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image2.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge debitore (in funzione del suo sesso e della sua età);
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image3.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge creditore (in funzione del suo sesso e della sua età);
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image3.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge creditore (in funzione del suo sesso e della sua età);
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image4.png) designa l’aspettativa del coniuge debitore (in funzione del suo sesso e della sua età) a una rendita vedovile vitalizia pagabile in rate mensili, calcolata secondo il metodo collettivo;
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image4.png) designa l’aspettativa del coniuge debitore (in funzione del suo sesso e della sua età) a una rendita vedovile vitalizia pagabile in rate mensili, calcolata secondo il metodo collettivo;
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image5.png) il rapporto tra l’importo della rendita vedovile stabilita dal regolamento e quello della rendita corrente del coniuge debitore.
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image5.png) il rapporto tra l’importo della rendita vedovile stabilita dal regolamento e quello della rendita corrente del coniuge debitore.
 
 \3. I valori attuali e le aspettative sono calcolati utilizzando le basi tecniche LPP pertinenti al momento determinante per il calcolo. Sono impiegate le tavole generazionali non consolidate applicabili nell’anno civile del calcolo e la media ponderata dei tassi d’interesse tecnici medi figuranti nell’ultimo rapporto sulla situazione finanziaria degli istituti di previdenza pubblicato dalla Commissione di alta vigilanza della previdenza professionale[^annexu1-lvlu1-1].
 
