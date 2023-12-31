@@ -4,13 +4,12 @@ number: "161.16"
 title: Règlement sur le personnel des autorités judiciaires et du Ministère public
 short: RPersJ
 language: fr
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-12-22
+version: 2024-01-01
+version_adopted: 2023-11-09
 adopted: 2010-12-22
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.16"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/109/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2912/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,16 +18,16 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/109/pdf_file"
 
 (RPersJ)
 
-du 22.12.2010 (état au 01.01.2011)
+du 22.12.2010 (état au 01.01.2024)
 
 La Direction de la magistrature du canton de Berne,
 
-vu l’article 18, alinéa 1, lettre i de la loi du 11 juin 2009 sur l’organisation des autorités judiciaires et du Ministère public (LOJM)[^ingress-1] et les articles 2, alinéa 3, lettre b et 167 de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^ingress-2],
+vu l’article 18, alinéa 1, lettre k de la loi du 11 juin 2009 sur l’organisation des autorités judiciaires et du Ministère public (LOJM)[^ingress-1] et les articles 2, alinéa 3, lettre b et 167 de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^ingress-2],
 
 arrête:
 
-[^ingress-1]: RSB 161.1
-[^ingress-2]: RSB 153.011.1
+[^ingress-1]: RSB [161.1](https://www.belex.sites.be.ch/data/161.1/fr)
+[^ingress-2]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
 
 ## 1 Objet et personnel
 
@@ -36,7 +35,7 @@ arrête:
 
 **Objet**
 
-<sup>1</sup> Le présent règlement définit les principes de la politique du personnel des autorités judiciaires et du Ministère public, règle les compétences en matière de personnel de la Direction de la magistrature et désigne les compétences relevant du droit du personnel des tribunaux suprêmes et du Parquet général.
+<sup>1</sup> Le présent règlement définit les principes de la politique du personnel des autorités judiciaires et du Ministère public, règle les compétences en matière de personnel de la Direction administrative de la magistrature et désigne les compétences relevant du droit du personnel des tribunaux suprêmes et du Parquet général.
 
 <sup>2</sup> Il définit les fonctions dirigeantes ressortissant aux autorités judiciaires et au Ministère public selon les compétences en droit du personnel ancrées dans la législation sur le personnel.
 
@@ -58,7 +57,9 @@ arrête:
 <sup>3</sup> Les employés et employées sont les collaborateurs et collaboratrices qui ont été engagés, pour une durée déterminée ou indéterminée, par contrat de droit public:
 
 - a les procureurs et les procureures,
+- a1 les procureurs-assistants et procureures-assistantes
 - b les procureurs et les procureures des mineurs,
+- b1 les procureurs-assistants et procureures-assistantes des mineurs
 - c les greffiers et les greffières,
 - d les secrétaires juridiques et les secrétaires non juridiques ainsi que les assistants et les assistantes,
 - e les secrétaires de tribunal et leurs suppléants et leurs suppléantes,
@@ -79,7 +80,7 @@ arrête:
 
 <sup>1</sup> Les autorités judiciaires et le Ministère public peuvent instituer des commissions des divisions administratives pour traiter des questions internes de personnel, selon l’article 10 de la loi du 16 septembre 2004 sur le personnel (LPers)[^4-1].
 
-<sup>2</sup> La Direction de la magistrature peut édicter un modèle de règlement, concernant notamment l’élection et la composition de la commission des divisions administratives.
+<sup>2</sup> La Direction administrative de la magistrature peut édicter un modèle de règlement, concernant notamment l’élection et la composition de la commission des divisions administratives.
 
 [^4-1]: RSB 153.01
 
@@ -91,7 +92,7 @@ arrête:
 
 <sup>2</sup> Les tribunaux suprêmes et le Parquet général exécutent la politique du personnel du Conseil-exécutif dans leur domaine de compétences. Les lignes directrices sont notamment l’engagement approprié des ressources en personnel ainsi que le perfectionnement de celui-ci.
 
-<sup>3</sup> La Direction de la magistrature, compte tenu de l’indépendance des autorités judiciaires et du Ministère public en droit du personnel,
+<sup>3</sup> La Direction administrative de la magistrature, compte tenu de l’indépendance des autorités judiciaires et du Ministère public en droit du personnel,
 
 - a encourage, si cela est souhaitable d’un point de vue professionnel, la mobilité du personnel entre les autorités judiciaires et le Ministère public;
 - b soutient à tous les niveaux la planification de la carrière des collaborateurs et des collaboratrices;
@@ -110,7 +111,7 @@ arrête:
 
 **Répartition des compétences**
 
-<sup>1</sup> Les tribunaux suprêmes et le Parquet général exercent toutes les compétences en matière de personnel qui ne sont pas déléguées à la Direction de la magistrature ou à un autre organe. IIs assument notamment les compétences que l’ordonnance sur le personnel attribue aux Directions et à la Chancellerie (art. 2, al. 3, lit. a OPers).
+<sup>1</sup> Les tribunaux suprêmes et le Parquet général exercent toutes les compétences en matière de personnel qui ne sont pas déléguées à la Direction administrative de la magistrature ou à un autre organe. IIs assument notamment les compétences que l’ordonnance sur le personnel attribue aux Directions et à la Chancellerie (art. 2, al. 3, lit. a OPers).
 
 <sup>2</sup> Ils délèguent à leurs organes dirigeants les compétences qui, selon l’ordonnance sur le personnel, ressortissent aux chefs et cheffes d’office de l’administration centrale (art. 2, al. 3, lit. b OPers).
 
@@ -133,36 +134,36 @@ arrête:
 
 **Compétence d’édicter des instructions**
 
-<sup>1</sup> Pour la mise en œuvre de ses directives stratégiques applicables au personnel, la Direction de la magistrature est compétente pour édicter des instructions destinées aux autorités judiciaires et au Ministère public.
+<sup>1</sup> Pour la mise en œuvre de ses directives stratégiques applicables au personnel, la Direction administrative de la magistrature est compétente pour édicter des instructions destinées aux autorités judiciaires et au Ministère public.
 
 <sup>2</sup> Le chef ou la cheffe de l’état-major des ressources peut donner des instructions techniques dans le domaine du personnel aux responsables du personnel des autorités judiciaires et du Ministère public.
 
-### 3.2 Direction de la magistrature
+### 3.2 Direction administrative de la magistrature
 
 #### Art. 8
 
 **Autorité d’engagement**
 
-<sup>1</sup> La Direction de la magistrature est l’autorité d’engagement du chef ou de la cheffe de l’état-major des ressources et de ses employés. Dans le cadre de cette fonction, elle accomplit les actes nécessaires à la création, à la modification et à la résiliation des rapports de travail.
+<sup>1</sup> La Direction administrative de la magistrature est l’autorité d’engagement du chef ou de la cheffe de l’état-major des ressources et de ses employés. Dans le cadre de cette fonction, elle accomplit les actes nécessaires à la création, à la modification et à la résiliation des rapports de travail.
 
 #### Art. 9
 
 **Compétences de décision et d’approbation ainsi que droits de proposition**
 
-<sup>1</sup> La Direction de la magistrature
+<sup>1</sup> La Direction administrative de la magistrature
 
-- a statue sur la création de nouveaux postes de durée indéterminée dans les autorités judiciaires et le Ministère public, pour autant que cela ne concerne pas de nouveaux postes de juges, de procureurs et procureures ou de procureurs et procureures des mineurs;
+- a statue sur la création de nouveaux postes de durée indéterminée dans les autorités judiciaires et le Ministère public, pour autant que cela ne concerne pas de nouveaux postes de juges, de procureurs et procureures, de procureurs-assistants et procureures-assistantes, de procureurs et procureures des mineurs ou de procureurs-assistants et procureures-assistantes des mineurs;
 - b statue, sur la base du budget approuvé et compte tenu des conventions sur la gestion des ressources, sur l’état des postes des autorités de justice bernoises;
 - c établit des directives concernant l’aménagement et la gestion de l’état des postes des autorités judiciaires et du Ministère public;
 - d fixe le traitement de départ pour les membres d’autorité et les employés et employées mentionnés à l’article 38, alinéa 2 OPers;
 - e répartit les fonds définis par le Conseil-exécutif pour la progression individuelle du traitement entre les autorités judiciaires et le Ministère public;
-- f décide de relever ou d’abaisser le solde annuel des heures de travail selon l’article 129 OPers ou délègue cette compétence aux autorités judiciaires et au Ministère public;
+- f …
 - g approuve les contrats sur l’indemnisation annuelle conclus entre le Tribunal administratif et les membres d’autorité mentionnés à l’article 12, alinéa 1 du décret du 9 juin 2010 sur l’indemnisation des juges à titre accessoire (DInJ)[^9-1];
 - h approuve les contrats sur l’indemnisation annuelle conclus entre le Tribunal administratif et les greffiers et greffières à titre accessoire.
 
 <sup>2</sup> Elle propose,
 
-- a dans le cadre du budget, la création de nouveaux postes de juges, de procureurs et procureures ou de procureurs et procureures des mineurs;
+- a dans le cadre du budget, la création de nouveaux postes de juges, de procureurs et procureures, de procureurs-assistants et procureures-assistantes, de procureurs et procureures des mineurs ou de procureurs-assistants et procureures-assistantes des mineurs;
 - b à la Commission de la justice du Grand Conseil, d’autoriser l’exercice d’activités annexes et de charges publiques pour les juges de la Cour suprême, du Tribunal administratif ainsi que pour le procureur général ou la procureure générale et ses suppléants ou suppléantes.
 
 [^9-1]: RSB 166.1
@@ -171,9 +172,9 @@ arrête:
 
 **Directives stratégiques, pilotage et coordination**
 
-<sup>1</sup> La Direction de la magistrature assume sa responsabilité quant aux directives stratégiques applicables au personnel en se fondant sur la politique du personnel du Conseil-exécutif, et prend en considération les principes de l’autoadministration et de la collaboration des autorités judiciaires et du Ministère public.
+<sup>1</sup> La Direction administrative de la magistrature assume sa responsabilité quant aux directives stratégiques applicables au personnel en se fondant sur la politique du personnel du Conseil-exécutif, et prend en considération les principes de l’autoadministration et de la collaboration des autorités judiciaires et du Ministère public.
 
-<sup>2</sup> Pour mettre en œuvre la stratégie du personnel, la Direction de la magistrature accomplit des tâches de pilotage et de coordination, notamment
+<sup>2</sup> Pour mettre en œuvre la stratégie du personnel, la Direction administrative de la magistrature accomplit des tâches de pilotage et de coordination, notamment
 
 - a en recommandant ou en prenant des mesures de recrutement, d’intégration et de maintien des collaborateurs et des collaboratrices;
 - b en mettant à disposition les ressources nécessaires pour la formation et l’encadrement des personnes en formation et des stagiaires;
@@ -187,25 +188,24 @@ arrête:
 
 **Tâches transversales et de prestations de service, controlling du personnel**
 
-<sup>1</sup> L’état-major des ressources coordonne le domaine du personnel des autorités judiciaires et du Ministère public. Il conseille et soutient la Direction de la magistrature ainsi que les responsables du personnel des autorités judiciaires et du Ministère public dans l’accomplissement de leurs tâches et veille au controlling du personnel.
+<sup>1</sup> L’état-major des ressources coordonne le domaine du personnel des autorités judiciaires et du Ministère public. Il conseille et soutient la Direction administrative de la magistrature ainsi que les responsables du personnel des autorités judiciaires et du Ministère public dans l’accomplissement de leurs tâches et veille au controlling du personnel.
 
 #### Art. 12
 
 **Autres tâches**
 
-<sup>1</sup> La Direction de la magistrature a notamment pour autres tâches
+<sup>1</sup> La Direction administrative de la magistrature a notamment pour autres tâches
 
 - a de collaborer avec l’Office du personnel, dans la mesure où celui-ci édicte ou actualise les descriptions des fonctions-types;
 - b de déléguer une représentation de ses membres à la Commission d’évaluation mise sur pied par le Conseil-exécutif;
 - c de modifier la classe de traitement au sens des articles 42 et 43 OPers;
 - d de transmettre à la commission d’évaluation les demandes de reclassement de collaborateurs et de collaboratrices des autorités judiciaires et du Ministère public au sens de l’article 197 OPers;
-- e d’accomplir les tâches qui lui sont attribuées par l’ordonnance du 20 avril 2005 sur le placement du personnel (OPlac)[^12-1] et l’ordonnance du 13 septembre 2006 concernant le traitement de départ et la progression du traitement après une formation professionnelle de base (ordonnance sur les échelons de départ, OED)[^12-2];
+- e d’accomplir les tâches qui lui sont attribuées par l’ordonnance du 16 septembre 2020 sur le placement du personnel (OPlac)[^12-1];
 - f d’édicter des instructions et des directives complémentaires dans le domaine du personnel et pour garantir une exécution uniforme du DInJ.
 
-<sup>2</sup> Pour son domaine propre, la Direction de la magistrature exerce les compétences que l’ordonnance sur le personnel attribue aux Directions et à la Chancellerie d’Etat ainsi qu’aux chefs et cheffes d’office (art. 2, al. 3, lit. a et b OPers).
+<sup>2</sup> Pour son domaine propre, la Direction administrative de la magistrature exerce les compétences que l’ordonnance sur le personnel attribue aux Directions et à la Chancellerie d’Etat ainsi qu’aux chefs et cheffes d’office (art. 2, al. 3, lit. a et b OPers).
 
-[^12-1]: RSB 153.011.2
-[^12-2]: RSB 153.011.3
+[^12-1]: RSB [153.011.2](https://www.belex.sites.be.ch/data/153.011.2/fr)
 
 ### 3.3 Cour suprême
 
@@ -251,7 +251,7 @@ arrête:
 
 **Autorité d’engagement et de surveillance**
 
-<sup>1</sup> Le Parquet général est l’autorité compétente pour engager la totalité du personnel, les procureurs et procureures ainsi que les procureurs et procureures des mineurs. Il accomplit dans le cadre de cette fonction les actes nécessaires à la création, à la modification et à la résiliation des rapports de travail.
+<sup>1</sup> Le Parquet général est l’autorité compétente pour engager la totalité du personnel, les procureurs et procureures, les procureurs-assistants et procureures-assistantes, les procureurs et procureures des mineurs ainsi que les procureurs-assistants et procureures-assistantes des mineurs. Il accomplit dans le cadre de cette fonction les actes nécessaires à la création, à la modification et à la résiliation des rapports de travail.
 
 <sup>2</sup> Il est l’autorité de surveillance en droit du personnel pour ses employés et employées.
 
