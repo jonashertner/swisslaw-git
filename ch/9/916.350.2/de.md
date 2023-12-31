@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Juni 2008 über die Zulagen und die Datenerfassung im
 short: MSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-521-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-521-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/de"
 
 (Milchpreisstützungsverordnung, MSV)
 
-vom 25. Juni 2008 (Stand am 1. Januar 2022)
+vom 25. Juni 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -28,7 +28,7 @@ verordnet:
 [^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
-## 1. Abschnitt:**** Begriffe
+## 1. Abschnitt: Begriffe
 
 [^sec1-1]
 
@@ -59,7 +59,7 @@ Als Verkehrsmilch gilt Milch, die:
 - a. zum Frischkonsum oder zur Verarbeitung vom Betrieb oder vom Sömmerungsbetrieb weggeführt wird;
 - b. im eigenen Betrieb oder Sömmerungsbetrieb zu Produkten verarbeitet wird, die nicht der Selbstversorgung dienen.
 
-## 1*a*. Abschnitt: Zulagen****
+## 1*a*. Abschnitt: Zulagen
 
 [^sec1a-1]
 
@@ -69,17 +69,17 @@ Als Verkehrsmilch gilt Milch, die:
 
 **Zulage für verkäste Milch**[^1c-1]
 
-<sup>1</sup> Die Zulage für verkäste Kuh-, Schaf- und Ziegenmilch beträgt 15 Rappen pro Kilogramm Milch abzüglich des Betrags der Zulage für Verkehrsmilch nach Artikel 2*a*.[^1c-2]
+<sup>1</sup> …[^1c-2]
 
 <sup>2</sup>
 
-Sie wird den Milchproduzenten und Milchproduzentinnen ausgerichtet, wenn die Milch verarbeitet wird zu:
+Für Kuh-, Schaf- und Ziegenmilch wird den Milchproduzenten und Milchproduzentinnen die Zulage für verkäste Milch ausgerichtet, wenn die Milch verarbeitet wird zu:[^1c-3]
 
 - a.
 
   Käse, der:
 
-  - 1\. die Anforderungen an Käse erfüllt, die das Eidgenössische Departement des Innern (EDI) gestützt auf die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1c-3] (LGV) in den Ausführungsbestimmungen im Bereich der Lebensmittel tierischer Herkunft erlässt, und
+  - 1\. die Anforderungen an Käse erfüllt, die das Eidgenössische Departement des Innern (EDI) gestützt auf die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1c-4] (LGV) in den Ausführungsbestimmungen im Bereich der Lebensmittel tierischer Herkunft erlässt, und
   - 2\. einen Fettgehalt in der Trockenmasse von mindestens 150 g/kg aufweist;
 
 - b. Rohziger als Rohstoff für Glarner Schabziger; oder
@@ -90,8 +90,9 @@ Sie wird den Milchproduzenten und Milchproduzentinnen ausgerichtet, wenn die Mil
 <sup>4</sup> Wird in einem Verarbeitungsbetrieb sämtliche Milch vor der Verkäsung mittels Zentrifugieren auf einen bestimmten Fettgehalt eingestellt, so wird die Zulage entsprechend dem Fettgehalt mit dem Faktor nach dem Anhang multipliziert.
 
 [^1c-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^1c-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 902](https://fedlex.data.admin.ch/eli/oc/2021/902)).
-[^1c-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1c-2]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^1c-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^1c-4]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -99,7 +100,7 @@ Sie wird den Milchproduzenten und Milchproduzentinnen ausgerichtet, wenn die Mil
 
 <sup>1</sup>
 
-Für Milch, die von Kühen, Schafen und Ziegen ohne Silagefütterung stammt, richtet der Bund den Milchproduzenten und Milchproduzentinnen zusätzlich eine Zulage von 3 Rappen je Kilogramm verkäster Milch aus, wenn:[^2-1]
+Für Kuh-, Schaf- und Ziegenmilch, die zu Käse verarbeitet wird und aus einer Produktion ohne Silagefütterung stammt, wird den Milchproduzenten und Milchproduzentinnen die Zulage für Fütterung ohne Silage ausgerichtet, wenn:[^2-1]
 
 - a.
 
@@ -116,7 +117,7 @@ Für Milch, die von Kühen, Schafen und Ziegen ohne Silagefütterung stammt, ric
 
 <sup>3</sup> Die Zulage wird nur für Milch ausgerichtet, die ohne Zusatzstoffe gemäss Lebensmittelgesetzgebung mit Ausnahme von Kulturen, Lab und Salz und ohne Behandlungsmethoden wie Pasteurisation, Baktofugation oder andere Verfahren mit gleicher Wirkung verarbeitet wurde.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 [^2-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^2-3]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 [^2-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
@@ -125,12 +126,15 @@ Für Milch, die von Kühen, Schafen und Ziegen ohne Silagefütterung stammt, ric
 
 **Zulage für Verkehrsmilch**[^2a-1]
 
-<sup>1</sup> Für Verkehrsmilch, die von Kühen stammt, richtet das BLW den Milchproduzenten und Milchproduzentinnen eine Zulage von 5 Rappen je Kilogramm aus.[^2a-2]
+<sup>1</sup> Für Kuhmilch wird den Milchproduzenten und Milchproduzentinnen die Zulage für Verkehrsmilch in der Höhe von 5 Rappen pro Kilogramm ausgerichtet, sofern es sich um Verkehrsmilch handelt, welche die Anforderungen gemäss den Bestimmungen erfüllt, die das EDI gestützt auf die LGV[^2a-2], die Verordnung vom 23. November 2005[^2a-3] über die Primärproduktion und die Milchprüfungsverordnung vom 20. Oktober 2010[^2a-4] im Bereich der Lebensmittel tierischer Herkunft erlässt.[^2a-5]
 
 <sup>2</sup> Es kann die Höhe der Zulage unter Berücksichtigung der Mengenentwicklung und im Rahmen der bewilligten Mittel anpassen.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^2a-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 790](https://fedlex.data.admin.ch/eli/oc/2021/790)).
+[^2a-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^2a-3]: [SR 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^2a-4]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^2a-5]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 ## 2. Abschnitt: Verfahren
 
@@ -211,14 +215,14 @@ Die Milchverwerter und Milchverwerterinnen sind verpflichtet, die Zulagen nach d
 
 **Aufzeichnung und Meldung der Produktionsdaten**
 
-<sup>1</sup> Die Milchverwerter und Milchverwerterinnen müssen die Milchmengen, die ihnen die Produzenten und Produzentinnen liefern, täglich aufzeichnen, getrennt nach Betrieb und Sömmerungsbetrieb.[^8-1]
+<sup>1</sup> Die Milchverwerter und Milchverwerterinnen müssen die Mengen an Kuh-, Schaf- und Ziegenmilch, die ihnen die Produzenten und Produzentinnen liefern, täglich aufzeichnen, getrennt nach Betrieb und Sömmerungsbetrieb.[^8-1]
 
-<sup>2</sup> Sie müssen der Administrationsstelle bis zum 10. Tag des folgenden Monats die pro Monat je Produzentin und Produzent gelieferte Menge, getrennt nach Betrieb und Sömmerungsbetrieb, melden.[^8-2]
+<sup>2</sup> Sie müssen der Administrationsstelle bis zum 10. Tag des folgenden Monats die pro Monat je Produzent und Produzentin gelieferte Menge, getrennt nach Betrieb und Sömmerungsbetrieb, melden. Die Meldung muss sich nach den Vorgaben der Administrationsstelle richten.[^8-2]
 
 <sup>3</sup> Die Produktionsdaten von Sömmerungsbetrieben müssen der Administrationsstelle nach Ablauf der Sömmerungsperiode, spätestens aber bis zum 15. Dezember, gemeldet werden.
 
-[^8-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2011, in Kraft seit 1. Jan. 2011 ([AS 2011 497](https://fedlex.data.admin.ch/eli/oc/2011/70)).
-[^8-2]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5883](https://fedlex.data.admin.ch/eli/oc/2010/842)).
+[^8-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 #### Art. 9
 
@@ -226,7 +230,7 @@ Die Milchverwerter und Milchverwerterinnen sind verpflichtet, die Zulagen nach d
 
 <sup>1</sup>
 
-Die Milchverwerter und Milchverwerterinnen haben eine tägliche Verwertungskontrolle zu führen und diese den Inspektionsorganen des BLW auf Verlangen vorzuweisen. Aus der Verwertungskontrolle muss ersichtlich sein, welche Rohstoffmengen:
+Die Milchverwerter und Milchverwerterinnen haben eine tägliche Verwertungskontrolle zu führen und diese den Inspektionsorganen des BLW auf Verlangen vorzuweisen. Aus der Verwertungskontrolle muss ersichtlich sein, welche Mengen an Kuh-, Schaf- und Ziegenmilchrohstoff:[^9-1]
 
 - a. zugekauft wurden;
 - b unverarbeitet verkauft wurden;
@@ -240,32 +244,42 @@ Für die im Betrieb verarbeitete Rohstoffmenge sind anzugeben:
 - b. die Art der hergestellten Produkte;
 - c. die Menge der hergestellten Produkte.
 
-<sup>3</sup> Die Milchverwerter und Milchverwerterinnen müssen der Administrationsstelle monatlich bis zum 10. Tag des folgenden Monats melden, wie sie die Rohstoffe verwertet haben. Die Meldung muss sich nach der vorgegebenen Struktur der Administrationsstelle richten.[^9-1]
+<sup>3</sup>
+
+Die Milchverwerter und Milchverwerterinnen müssen der Administrationsstelle melden:
+
+- a. monatlich bis zum 10. Tag des folgenden Monats: wie sie die Rohstoffe verwertet haben, getrennt nach Betrieb und Sömmerungsbetrieb;
+- b. ….[^9-2]
+
+<sup>3bis</sup> Die Meldungen nach Absatz 3 müssen sich nach den Vorgaben der Administrationsstelle richten.[^9-3]
 
 <sup>4</sup> Die Verwertungsdaten von Sömmerungsbetrieben müssen der Administrationsstelle nach Ablauf der Sömmerungsperiode, spätestens aber bis zum 15. Dezember, gemeldet werden.
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5883](https://fedlex.data.admin.ch/eli/oc/2010/842)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)). Bst. b tritt am 1. Jan. 2025 in Kraft.
+[^9-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 #### Art. 10
 
 **Aufzeichnung und Meldung der Direktvermarktung**
 
-<sup>1</sup> Die Direktvermarkter und Direktvermarkterinnen müssen die Milchmenge, die sie für die Direktvermarktung verwenden, täglich in Kilogramm aufzeichnen und die Menge pro Monat und deren Verwertung bis zum 10. Tag des folgenden Monats der Administrationsstelle melden.
+<sup>1</sup> Die Direktvermarkter und Direktvermarkterinnen müssen die Mengen an Kuh-, Schaf- und Ziegenmilch, die sie für die Direktvermarktung verwenden, täglich in Kilogramm aufzeichnen und die Menge pro Monat und deren Verwertung bis zum 10. Tag des folgenden Monats der Administrationsstelle melden.[^10-1]
 
-<sup>2</sup> Sie können die Milchmenge und deren Verwertung halbjährlich, jeweils bis zum 10. Mai und bis zum 10. November, melden, wenn während eines Monats weniger als 600 kg vermarktet werden.[^10-1]
+<sup>2</sup> Sie können die Milchmenge und deren Verwertung halbjährlich, jeweils bis zum 10. Mai und bis zum 10. November, melden, wenn während eines Monats weniger als 600 kg vermarktet werden.[^10-2]
 
-<sup>3</sup> Sömmerungsbetriebe mit Direktvermarktung müssen die Verwertungsdaten nach Artikel 9 sowie die als Vollmilch direkt verkaufte Milch melden.[^10-2]
+<sup>3</sup> Sömmerungsbetriebe mit Direktvermarktung müssen die Verwertungsdaten nach Artikel 9 sowie die als Vollmilch direkt verkaufte Milch melden.[^10-3]
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^10-2]: Eingefügt durch Ziff. I der V vom 6. Mai 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^10-3]: Eingefügt durch Ziff. I der V vom 6. Mai 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
 
 #### Art. 11
 
 **Aufbewahrung der Daten**[^11-1]
 
-Die Milchverwerter und Milchverwerterinnen, die Direktvermarkter und Direktvermarkterinnen sowie die Milchproduzenten und Milchproduzentinnen müssen die zur Inspektion nötigen Aufzeichnungen, Rapporte und Belege betreffend verkäste Milchmenge und Verkehrsmilchmenge mindestens fünf Jahre aufbewahren.
+Die Milchverwerter und Milchverwerterinnen, die Direktvermarkter und Direktvermarkterinnen sowie die Milchproduzenten und Milchproduzentinnen müssen die zur Inspektion nötigen Aufzeichnungen, Rapporte und Belege betreffend die Menge an verkäster Kuh-, Schaf- und Ziegenmilch und die Menge an Verkehrsmilch, welche von Kühen stammt, mindestens fünf Jahre aufbewahren.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 ## 4. Abschnitt: Administrationsstelle
 
@@ -338,7 +352,7 @@ Die folgenden Verordnungen werden aufgehoben:
 
 <sup>2</sup> Die Artikel 7, 8 und 10 treten am 1. Mai 2009 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1*c* Abs. 4 und 2 Abs. 2)
 

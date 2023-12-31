@@ -4,11 +4,11 @@ title: "Ordinanza del 25 giugno 2008 concernente i supplementi e la registrazion
 short: OSL
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-521-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-521-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/it"
 
 (Ordinanza sul sostegno del prezzo del latte, OSL)
 
-del 25 giugno 2008 (Stato 1° gennaio 2022)
+del 25 giugno 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
-## Sezione 1:**** Definizioni
+## Sezione 1: Definizioni
 
 [^sec1-1]
 
@@ -57,7 +57,7 @@ Per latte commerciale s’intende il latte che:
 - a. lascia l’azienda o l’azienda d’estivazione per il consumo immediato o per la trasformazione;
 - b. viene trasformato nella propria azienda o nell’azienda d’estivazione in prodotti che non sono destinati al consumo proprio del produttore.
 
-## Sezione 1*a*: Supplementi****
+## Sezione 1*a*: Supplementi
 
 [^sec1a-1]
 
@@ -67,17 +67,17 @@ Per latte commerciale s’intende il latte che:
 
 **Supplemento per il latte trasformato in formaggio**[^1c-1]
 
-<sup>1</sup> Il supplemento per il latte vaccino, di pecora e di capra trasformato in formaggio è di 15 centesimi per ogni chilogrammo di latte meno l’importo del supplemento per il latte commerciale secondo l’articolo 2*a*.[^1c-2]
+<sup>1</sup> ...[^1c-2]
 
 <sup>2</sup>
 
-È versato ai produttori se il latte è trasformato in:
+Per il latte vaccino, di pecora e di capra ai produttori è versato il supplemento per il latte trasformato in formaggio se il latte è trasformato in:[^1c-3]
 
 - a.
 
   formaggio che:
 
-  - 1\. adempie i requisiti del formaggio stabiliti dal Dipartimento federale dell’interno (DFI) nelle disposizioni d’esecuzione nel settore delle derrate alimentari di origine animale in virtù dell’ordinanza del 16 dicembre 2016[^1c-3] sulle derrate alimentari e gli oggetti d’uso (ODerr), e
+  - 1\. adempie i requisiti del formaggio stabiliti dal Dipartimento federale dell’interno (DFI) nelle disposizioni d’esecuzione nel settore delle derrate alimentari di origine animale in virtù dell’ordinanza del 16 dicembre 2016[^1c-4] sulle derrate alimentari e gli oggetti d’uso (ODerr), e
   - 2\. presenta un tenore in grasso nella sostanza secca di almeno 150 g/kg;
 
 - b. formaggio bianco quale materia prima per Glarner Schabziger; o
@@ -88,8 +88,9 @@ Per latte commerciale s’intende il latte che:
 <sup>4</sup> Se in un’azienda di trasformazione il tenore in grasso dell’intera quantità di latte è corretto a un determinato valore mediante centrifugazione prima della caseificazione, il supplemento è moltiplicato in funzione del tenore in grasso per il coefficiente che figura nell’allegato.
 
 [^1c-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^1c-2]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 902](https://fedlex.data.admin.ch/eli/oc/2021/902)).
-[^1c-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1c-2]: Abrogato dal n. I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^1c-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^1c-4]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -97,37 +98,41 @@ Per latte commerciale s’intende il latte che:
 
 <sup>1</sup>
 
-Per il latte proveniente da vacche, pecore e capre nutrite senza insilati la Confederazione versa ai produttori un ulteriore supplemento di 3 centesimi per ogni chilogrammo di latte trasformato in formaggio qualora:
+Per il latte che viene trasformato in formaggio proveniente da vacche, pecore e capre nutrite senza insilati ai produttori è versato il supplemento per il foraggiamento senza insilati qualora:[^2-1]
 
 - a.
 
-  sia trasformato in formaggio di uno dei seguenti gradi di consistenza secondo le disposizioni emanate dal DFI nel settore delle derrate alimentari di origine animale in virtù dell’ODerr[^2-1]:[^2-2]
+  sia trasformato in formaggio di uno dei seguenti gradi di consistenza secondo le disposizioni emanate dal DFI nel settore delle derrate alimentari di origine animale in virtù dell’ODerr[^2-2]:[^2-3]
 
   - 1\. pasta extradura,
   - 2\. pasta dura,
   - 3\. pasta semidura,
   - 4\. pasta molle, se il formaggio è registrato dall’Ufficio federale dell’agricoltura (UFAG) come denominazione di origine protetta (DOP) e l’elenco degli obblighi prescrive un foraggiamento del bestiame da latte senza insilati; e
 
-- b. il formaggio presenti un tenore in grasso nella sostanza secca di almeno 150 g/kg.[^2-3]
+- b. il formaggio presenti un tenore in grasso nella sostanza secca di almeno 150 g/kg.[^2-4]
 
 <sup>2</sup> Se in un’azienda di trasformazione il tenore in grasso dell’intera quantità di latte è corretto a un determinato valore mediante centrifugazione prima della caseificazione, il supplemento è moltiplicato in funzione del tenore in grasso per il rispettivo coefficiente che figura nell’allegato.
 
 <sup>3</sup> Il supplemento è versato unicamente per il latte trasformato in formaggio senza additivi conformemente alla legislazione sulle derrate alimentari ad eccezione di colture, presame e sale e senza metodi di trattamento come la pastorizzazione, la bactofugazione o altre procedure aventi l’effetto equivalente.
 
-[^2-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^2-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^2-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^2-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^2-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
 
 #### Art. 2a
 
 **Supplemento per il latte commerciale**[^2a-1]
 
-<sup>1</sup> Per il latte commerciale vaccino l’UFAG versa ai produttori un supplemento di 5 centesimi il chilogrammo.[^2a-2]
+<sup>1</sup> Per il latte vaccino ai produttori è versato il supplemento per il latte commerciale di 5 centesimi il chilogrammo purché si tratti di latte commerciale che soddisfa le esigenze che il DFI stabilisce in virtù dell’ODerr[^2a-2], dell’ordinanza del 23 novembre 2005[^2a-3] concernente la produzione primaria e dell’ordinanza del 20 ottobre 2010[^2a-4] sul controllo del latte nelle disposizioni d’esecuzione nel settore delle derrate alimentari di origine animale.[^2a-5]
 
 <sup>2</sup> L’UFAG può adeguare l’importo del supplemento tenendo conto dell’evoluzione della quantità e nel quadro dei fondi approvati.
 
 [^2a-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^2a-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 790](https://fedlex.data.admin.ch/eli/oc/2021/790)).
+[^2a-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^2a-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^2a-4]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^2a-5]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 ## Sezione 2: Procedura
 
@@ -208,14 +213,14 @@ Il valorizzatore è tenuto in virtù degli articoli 1*c* e 2:
 
 **Registrazione e notifica dei dati relativi alla produzione**
 
-<sup>1</sup> Il valorizzatore deve registrare giornalmente le quantità di latte fornitegli dai produttori, facendo la distinzione tra quanto è fornito dall’azienda e quanto è fornito dall’azienda d’estivazione.[^8-1]
+<sup>1</sup> Il valorizzatore deve registrare giornalmente le quantità di latte vaccino, di pecora e di capra fornitegli dai produttori, facendo la distinzione tra quanto è fornito dall’azienda e quanto è fornito dall’azienda d’estivazione.[^8-1]
 
-<sup>2</sup> Deve notificare al servizio d’amministrazione entro il 10° giorno del mese successivo la quantità mensile fornita da ogni produttore, separatamente per ogni azienda e azienda d’estivazione.[^8-2]
+<sup>2</sup> Deve notificare al servizio d’amministrazione entro il 10° giorno del mese successivo la quantità mensile fornita da ogni produttore, separatamente per ogni azienda e azienda d’estivazione. La notifica deve essere conforme alle prescrizioni del servizio d’amministrazione.[^8-2]
 
 <sup>3</sup> I dati relativi alla produzione forniti dalle aziende d’estivazione devono essere notificati al servizio d’amministrazione al termine del periodo di estivazione, ma al più tardi il 15 dicembre.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2011, in vigore dal 1° gen. 2011 ([RU 2011 497](https://fedlex.data.admin.ch/eli/oc/2011/70)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5883](https://fedlex.data.admin.ch/eli/oc/2010/842)).
+[^8-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 #### Art. 9
 
@@ -223,7 +228,7 @@ Il valorizzatore è tenuto in virtù degli articoli 1*c* e 2:
 
 <sup>1</sup>
 
-Il valorizzatore deve svolgere quotidianamente un controllo di valorizzazione e presentarlo, su richiesta, agli organi di ispezione dell’UFAG. Da tale controllo devono risultare chiaramente le quantità di materie prime:
+Il valorizzatore deve svolgere quotidianamente un controllo di valorizzazione e presentarlo, su richiesta, agli organi di ispezione dell’UFAG. Da tale controllo devono risultare chiaramente le quantità di materie prime del latte vaccino, di pecora e di capra:[^9-1]
 
 - a. acquistate;
 - b. vendute senza essere state trasformate;
@@ -237,32 +242,42 @@ Per la quantità di materie prime trasformate nell’azienda occorre indicare:
 - b. il genere di prodotti fabbricati;
 - c. la quantità di prodotti fabbricati.
 
-<sup>3</sup> Il valorizzatore deve notificare mensilmente al servizio d’amministrazione entro il 10° giorno del mese successivo in quale modo ha valorizzato le materie prime. La notifica deve essere conforme alla struttura prescritta dal servizio d’amministrazione.[^9-1]
+<sup>3</sup>
+
+Il valorizzatore deve notificare al servizio d’amministrazione:
+
+- a. mensilmente entro il 10° giorno del mese successivo: in quale modo ha valorizzato le materie prime, separatamente per ogni azienda e azienda d’estivazione;
+- b. ... .[^9-2]
+
+<sup>3bis</sup> Le notifiche di cui al capoverso 3 devono essere conformi alle prescrizioni del servizio d’amministrazione.[^9-3]
 
 <sup>4</sup> I dati relativi alla valorizzazione forniti dalle aziende d’estivazione devono essere notificati al servizio d’amministrazione al termine del periodo di estivazione, ma al più tardi il 15 dicembre.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5883](https://fedlex.data.admin.ch/eli/oc/2010/842)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024, la lett. b dal 1° gen. 2025 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-3]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 #### Art. 10
 
 **Registrazione e notifica della commercializzazione diretta**
 
-<sup>1</sup> Il commerciante diretto deve registrare giornalmente in chilogrammi la quantità di latte che impiega per la commercializzazione diretta e notificare al servizio d’amministrazione entro il 10° giorno del mese successivo la quantità mensile e la relativa valorizzazione.
+<sup>1</sup> Il commerciante diretto deve registrare giornalmente in chilogrammi la quantità di latte vaccino, di pecora e di capra che impiega per la commercializzazione diretta e notificare al servizio d’amministrazione entro il 10° giorno del mese successivo la quantità mensile e la relativa valorizzazione.[^10-1]
 
-<sup>2</sup> Può notificare la quantità di latte e la relativa valorizzazione semestralmente, entro il 10 maggio ed entro il 10 novembre, se ha commercializzato meno di 600 kg di latte al mese.[^10-1]
+<sup>2</sup> Può notificare la quantità di latte e la relativa valorizzazione semestralmente, entro il 10 maggio ed entro il 10 novembre, se ha commercializzato meno di 600 kg di latte al mese.[^10-2]
 
-<sup>3</sup> Le aziende di estivazione che praticano la commercializzazione diretta devono notificare i dati relativi alla valorizzazione menzionati all’articolo 9 e il latte venduto direttamente come latte intero.[^10-2]
+<sup>3</sup> Le aziende di estivazione che praticano la commercializzazione diretta devono notificare i dati relativi alla valorizzazione menzionati all’articolo 9 e il latte venduto direttamente come latte intero.[^10-3]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^10-2]: Introdotto dal n. I dell’O del 6 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^10-3]: Introdotto dal n. I dell’O del 6 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
 
 #### Art. 11
 
 **Conservazione dei dati**[^11-1]
 
-I valorizzatori, i venditori diretti e i produttori devono conservare per almeno cinque anni le registrazioni, i rapporti e i giustificativi inerenti alla quantità di latte trasformato in formaggio e alla quantità di latte commerciale che sono necessari all’ispezione.
+I valorizzatori, i venditori diretti e i produttori devono conservare per almeno cinque anni le registrazioni, i rapporti e i giustificativi inerenti alla quantità di latte vaccino, di pecora e di capra trasformato in formaggio e alla quantità di latte commerciale vaccino che sono necessari all’ispezione.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 ## Sezione 4: Servizio d’amministrazione
 
@@ -335,7 +350,7 @@ Le seguenti ordinanze sono abrogate:
 
 <sup>2</sup> Gli articoli 7, 8 e 10 entrano in vigore il 1° maggio 2009.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1*c* cpv. 4 e 2 cpv. 2)
 

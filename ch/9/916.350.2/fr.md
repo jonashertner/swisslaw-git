@@ -4,11 +4,11 @@ title: "Ordonnance du 25 juin 2008 concernant les suppléments et l'enregistreme
 short: OSL
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-521-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-521-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/fr"
 
 (Ordonnance sur le soutien du prix du lait, OSL)
 
-du 25 juin 2008 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 juin 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 
-## Section 1**** Définitions
+## Section 1 Définitions
 
 [^sec1-1]
 
@@ -57,7 +57,7 @@ Par lait commercialisé, on entend le lait qui:
 - a. quitte l’exploitation ou l’exploitation d’estivage pour être consommé à l’état frais ou pour être transformé;
 - b. est transformé dans l’exploitation ou dans l’exploitation d’estivage en produits qui ne sont pas destinés à la consommation propre du producteur.
 
-## Section 1*a* Suppléments****
+## Section 1*a* Suppléments
 
 [^sec1a-1]
 
@@ -67,17 +67,17 @@ Par lait commercialisé, on entend le lait qui:
 
 **Supplément versé pour le lait transformé en fromage**[^1c-1]
 
-<sup>1</sup> Le supplément pour le lait de vache, de brebis et de chèvre transformé en fromage est de 15 centimes par kilogramme de lait, déduction faite du montant du supplément versé pour le lait commercialisé selon l’art. 2*a*.[^1c-2]
+<sup>1</sup> ...[^1c-2]
 
 <sup>2</sup>
 
-Il est versé aux producteurs de lait lorsque le lait est transformé:
+Le supplément pour le lait transformé en fromage est versé aux producteurs de lait pour le lait de vache, de brebis et de chèvre lorsqu’il est transformé:[^1c-3]
 
 - a.
 
   en fromage qui:
 
-  - 1\. satisfait aux exigences relatives au fromage que le Département fédéral de l’intérieur (DFI) édicte dans les dispositions d’exécution dans le domaine des denrées alimentaires d’origine animale en vertu de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^1c-3], et
+  - 1\. satisfait aux exigences relatives au fromage que le Département fédéral de l’intérieur (DFI) édicte dans les dispositions d’exécution dans le domaine des denrées alimentaires d’origine animale en vertu de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^1c-4], et
   - 2\. présente une teneur en matière grasse dans la matière sèche de 150 g/kg au moins;
 
 - b. en sérac brut comme matière première destinée à la production de Schabziger glaronais, ou
@@ -88,8 +88,9 @@ Il est versé aux producteurs de lait lorsque le lait est transformé:
 <sup>4</sup> Lorsque dans une entreprise de transformation, la totalité du lait est ajustée par centrifugation à une teneur en matière grasse déterminée, avant la transformation en fromage, le supplément est multiplié par le coefficient figurant à l’annexe, en fonction de la teneur en matière grasse.
 
 [^1c-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^1c-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 902](https://fedlex.data.admin.ch/eli/oc/2021/902)).
-[^1c-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1c-2]: Abrogé par le ch. I de l’O du 1<sup>er</sup> nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^1c-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^1c-4]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -97,7 +98,7 @@ Il est versé aux producteurs de lait lorsque le lait est transformé:
 
 <sup>1</sup>
 
-La Confédération verse en plus aux producteurs un supplément de 3 centimes par kilogramme de lait de vaches, de brebis et de chèvres nourries sans ensilage, si ce lait:[^2-1]
+Le supplément de non-ensilage est versé aux producteurs de lait pour le lait de vache, de brebis et de chèvre transformé en fromage et provenant d’une production sans ensilage, si ce lait:[^2-1]
 
 - a.
 
@@ -114,7 +115,7 @@ La Confédération verse en plus aux producteurs un supplément de 3 centimes pa
 
 <sup>3</sup> Le supplément n’est versé que pour le lait qui a été transformé sans les additifs visés par la législation relative aux denrées alimentaires, à l’exception des cultures, de la présure et du sel, et qui n’a pas été pasteurisé, bactofugé ni traité par un autre procédé équivalent.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 [^2-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
 [^2-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)).
@@ -123,12 +124,15 @@ La Confédération verse en plus aux producteurs un supplément de 3 centimes pa
 
 **Supplément versé pour le lait commercialisé**[^2a-1]
 
-<sup>1</sup> L’OFAG verse aux producteurs un supplément de 5 centimes par kilogramme pour le lait commercialisé provenant de vaches.[^2a-2]
+<sup>1</sup> Le supplément de 5 centimes par kilogramme est versé aux producteurs pour le lait de vache commercialisé qui satisfait aux exigences des dispositions que le DFI édicte dans le domaine des denrées alimentaires d’origine animale en vertu de l’ODAlOUs[^2a-2], de l’ordonnance du 23 novembre 2005 sur la production primaire[^2a-3] et de l’ordonnance du 20 octobre 2010 sur le contrôle du lait[^2a-4].[^2a-5]
 
 <sup>2</sup> Il peut adapter le montant du supplément en fonction de l’évolution des quantités et dans le cadre des moyens autorisés.
 
 [^2a-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^2a-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 790](https://fedlex.data.admin.ch/eli/oc/2021/790)).
+[^2a-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^2a-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^2a-4]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^2a-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 ## Section 2 Procédure
 
@@ -209,14 +213,14 @@ Les utilisateurs de lait sont tenus:
 
 **Enregistrement et communication des données relatives à la production**
 
-<sup>1</sup> Les utilisateurs de lait enregistrent chaque jour les quantités de lait livrées par les producteurs, en distinguant entre ce qui provient de l’exploitation et ce qui provient de l’exploitation d’estivage.[^8-1]
+<sup>1</sup> Les utilisateurs de lait enregistrent chaque jour les quantités de lait de vache, de brebis et de chèvre livrées par les producteurs, en faisant la distinction entre exploitation et exploitation d’estivage.[^8-1]
 
-<sup>2</sup> Ils communiquent tous les mois au service administratif les quantités livrées par producteur, le 10 du mois suivant au plus tard, séparément selon l’exploitation et l’exploitation d’estivage. [^8-2]
+<sup>2</sup> Ils communiquent tous les mois au service administratif les quantités livrées par producteur, au plus tard le 10 du mois suivant, en faisant la distinction entre exploitation et exploitation d’estivage. Les données sont communiquées conformément aux prescriptions du service administratif.[^8-2]
 
 <sup>3</sup> Les données relatives à la production provenant d’exploitations d’estivage sont communiquées au service administratif au terme de la période d’estivage, au plus tard cependant le 15 décembre.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 497](https://fedlex.data.admin.ch/eli/oc/2011/70)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5883](https://fedlex.data.admin.ch/eli/oc/2010/842)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 #### Art. 9
 
@@ -224,7 +228,7 @@ Les utilisateurs de lait sont tenus:
 
 <sup>1</sup>
 
-Les utilisateurs de lait effectuent un contrôle quotidien de l’utilisation et en présentent sur demande les résultats aux organes de contrôle de l’OFAG. Il doit ressortir du contrôle d’utilisation quelles quantités de matière première ont été:
+Les utilisateurs de lait effectuent un contrôle quotidien de l’utilisation et en présentent sur demande les résultats aux organes de contrôle de l’OFAG. Il doit ressortir du contrôle d’utilisation quelles quantités de lait de vache, de brebis et de chèvre ont été:[^9-1]
 
 - a. achetées;
 - b. vendues non transformées;
@@ -238,32 +242,42 @@ Pour la matière première transformée dans l’entreprise, il faut indiquer:
 - b. le type de produits fabriqués;
 - c. la quantité de produits fabriqués.
 
-<sup>3</sup> Les utilisateurs de lait communiquent au service administratif chaque mois, le 10 du mois suivant au plus tard, comment ils ont mis en valeur les matières premières. Les données sont communiquées conformément à la structure de saisie prédéfinie par le service administratif. [^9-1]
+<sup>3</sup>
+
+Les utilisateurs de lait communiquent au service administratif:
+
+- a. chaque mois, au plus tard le 10 du mois suivant: comment ils ont mis en valeur les matières premières, en faisant la distinction entre exploitation et exploitation d’estivage;
+- b. ...[^9-2]
+
+<sup>3bis</sup> Les données visées à l’al. 3 sont communiquées conformément aux prescriptions du service administratif.[^9-3]
 
 <sup>4</sup> Les données relatives à la mise en valeur du lait dans les exploitations d’estivage sont communiquées au service administratif au terme de la période d’estivage, au plus tard le 15 décembre.
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5883](https://fedlex.data.admin.ch/eli/oc/2010/842)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024, let. b en vigueur le 1<sup>er</sup> janv. 2025 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^9-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 #### Art. 10
 
 **Enregistrement et communication de la vente directe**
 
-<sup>1</sup> Les vendeurs sans intermédiaire enregistrent chaque jour, en kilogrammes, la quantité de lait écoulée par la vente directe et en communiquent tous les mois la quantité et l’utilisation au service administratif, le 10 du mois suivant au plus tard.
+<sup>1</sup> Les vendeurs sans intermédiaire enregistrent chaque jour, en kilogrammes, la quantité de lait de vache, de brebis et de chèvre écoulée par la vente directe et en communiquent tous les mois la quantité et l’utilisation au service administratif, au plus tard le 10 du mois suivant.[^10-1]
 
-<sup>2</sup> Ils peuvent communiquer la quantité mensuelle de lait et sa mise en valeur tous les six mois, respectivement le 10 mai et le 10 novembre au plus tard, lorsque moins de 600 kg de lait sont commercialisés par mois.[^10-1]
+<sup>2</sup> Ils peuvent communiquer la quantité mensuelle de lait et sa mise en valeur tous les six mois, respectivement le 10 mai et le 10 novembre au plus tard, lorsque moins de 600 kg de lait sont commercialisés par mois.[^10-2]
 
-<sup>3</sup> Les exploitations d’estivage pratiquant la vente directe doivent communiquer les données relatives à la mise en valeur visées à l’art. 9 et le lait vendu directement en tant que lait entier.[^10-2]
+<sup>3</sup> Les exploitations d’estivage pratiquant la vente directe doivent communiquer les données relatives à la mise en valeur visées à l’art. 9 et le lait vendu directement en tant que lait entier.[^10-3]
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^10-2]: Introduit par le ch. I de l’O du 6 mai 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^10-3]: Introduit par le ch. I de l’O du 6 mai 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2603](https://fedlex.data.admin.ch/eli/oc/2009/346)).
 
 #### Art. 11
 
 **Conservation des données**[^11-1]
 
-Les utilisateurs de lait, les vendeurs sans intermédiaire et les producteurs de lait conservent pendant au moins cinq ans les enregistrements, rapports et justificatifs nécessaires aux contrôles et concernant les quantités de lait transformé en fromage et de lait commercialisé.
+Les utilisateurs de lait, les vendeurs sans intermédiaire et les producteurs de lait conservent pendant au moins cinq ans les enregistrements, rapports et justificatifs nécessaires aux contrôles et concernant les quantités de lait de vache, de brebis et de chèvre transformé en fromage et les quantités de lait de vache commercialisé.
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 705](https://fedlex.data.admin.ch/eli/oc/2023/705)).
 
 ## Section 4 Service administratif
 
@@ -336,7 +350,7 @@ Sont abrogées:
 
 <sup>2</sup> Les art. 7, 8 et 10 entrent en vigueur le 1<sup>er</sup> mai 2009.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1*c*, al. 4, et 2, al. 2)
 
