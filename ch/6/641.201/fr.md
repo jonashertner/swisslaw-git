@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (État le 1<sup>er</sup> septembre 2023)
+du 27 novembre 2009 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -604,7 +604,7 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 - m. les diététiciens;
 - n. les pédicures-podologues;
 - o.[^35-3] les personnes qui sont habilitées à réaliser des analyses pour le SARS-CoV-2 conformément à l’ordonnance 3 COVID-19 du 19 juin 20201[^35-4], pour la réalisation de ces analyses;
-- p.[^35-5] les pharmaciens pour la réalisation des vaccinations contre le COVID-19.
+- p.[^35-5] …
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introduite par le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
@@ -743,23 +743,24 @@ Sont exonérés de l’impôt les transports de personnes par car sur des trajet
 
 Sont exonérées de l’impôt les opérations portant sur:
 
-- a. les monnaies d’or émises par des États, des numéros 7118.9010 et 9705.0000 du tarif douanier[^44-1];
+- a. les monnaies d’or émises par des États, des numéros 7118.9000[^44-1] et 9705.0000 du tarif douanier[^44-2];
 - b.
 
   l’or d’investissement au titre minimal de 995 millièmes sous forme:
 
   - 1\. de lingots coulés portant l’indication du titre et le poinçon d’un essayeur-fondeur reconnu, ou
-  - 2\. de plaquettes estampées portant l’indication du titre et le poinçon d’un essayeur-fondeur reconnu ou un poinçon de maître enregistré en Suisse;[^44-2]
+  - 2\. de plaquettes estampées portant l’indication du titre et le poinçon d’un essayeur-fondeur reconnu ou un poinçon de maître enregistré en Suisse;[^44-3]
 
-- c.[^44-3] l’or sous forme de grenaille d’une teneur d’au moins 995 millièmes emballée et scellée par un essayeur-fondeur reconnu;
+- c.[^44-4] l’or sous forme de grenaille d’une teneur d’au moins 995 millièmes emballée et scellée par un essayeur-fondeur reconnu;
 - d. l’or sous forme brute ou mi-ouvrée destiné à l’affinage ou à la récupération;
 - e. l’or sous forme de déchets ou de rebuts.
 
 <sup>2</sup> Sont également réputés être de l’or au sens de l’al. 1, let. d et e, les alliages qui contiennent en poids 2 % ou plus d’or ou qui, comprenant du platine, contiennent plus d’or que de platine.
 
-[^44-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe. Actuellement: 7118.9010, 9705.3100 et 9705.3900
-[^44-2]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-1]: Nouveau numéro selon l’annexe 2 ch. II 9 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^44-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe. Actuellement: 9705.3100 et 9705.3900
 [^44-3]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-4]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
 ### Chapitre 3 Calcul de l’impôt et taux de l’impôt
 
@@ -2000,28 +2001,42 @@ Les art. 118 à 120 sont applicables par analogie à l’autorisation prévue à
 
 Les entreprises qui fournissent exclusivement des prestations exclues du champ de l’impôt sur le territoire suisse peuvent renoncer à s’inscrire au registre des assujettis de l’AFC. Pour les entreprises qui n’ont ni siège, ni domicile, ni établissement stable sur le territoire suisse, cela s’applique également si elles fournissent en outre des prestations visées à l’art. 10, al. 2, let. b, LTVA, pour lesquelles elles sont libérées de l’assujettissement.
 
-### Section 1*a* Pièces justificatives électroniques
-
-### (art. 70, al. 4, LTVA)
+### Section 1*a* Pièces justificatives électroniques, procédures électroniques
 
 [^tit5-chap1-sec1a-1]
 
+[^tit5-chap1-sec1a-1]: Introduite par le ch. I de l’O du 18 oct. 2017 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
 #### Art. 122
 
-[^122-1]
+**Pièces justificatives électroniques**[^122-1]
 
-Les art. 957 à 958*f* du code des obligations[^122-2] et l’ordonnance du 24 avril 2002 concernant la tenue et la conservation des livres de compte[^122-3] s’appliquent à la transmission et à la conservation des pièces justificatives électroniques.
+### (art. 70, al. 4, LTVA)
 
-[^tit5-chap1-sec1a-1]: Introduite par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^122-2]
+
+Les art. 957 à 958*f* du code des obligations[^122-3] et l’ordonnance du 24 avril 2002 concernant la tenue et la conservation des livres de compte[^122-4] s’appliquent à la transmission et à la conservation des pièces justificatives électroniques.
+
 [^122-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^122-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^122-3]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^122-2]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^122-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^122-4]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
 
-#### Art. 123 à 125
+#### Art. 123
 
-[^123125-1]
+**Procédures électroniques**[^123-1]
 
-[^123125-1]: Abrogés par le ch. I de l’O du 18 oct. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+### (art. 65*a* LTVA)
+
+L’annonce en tant qu’assujetti (art. 66, al. 1, LTVA), la remise du décompte (art. 71 LTVA) et la correction ultérieure d’erreurs dans le décompte (art. 72 LTVA) doivent être effectuées par voie électronique par l’intermédiaire du portail prévu à cet effet.
+
+[^123-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312))
+
+#### Art. 124 à 125
+
+[^124125-1]
+
+[^124125-1]: Abrogés par le ch. I de l’O du 18 oct. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### Section 2 Décompte
 
@@ -2700,6 +2715,18 @@ Pour les entreprises étrangères ne possédant pas d’établissement stable su
 En cas de livraison sur le territoire suisse de biens en provenance de l’étranger en franchise d’impôt sur les importations en raison du montant minime de l’impôt, l’assujettissement du fournisseur de la prestation est donné au moment de l’entrée en vigueur de la modification du 15 août 2018, lorsque celui-ci a réalisé, durant les douze mois précédents, un chiffre d’affaires d’au moins 100 000 francs sur des livraisons de ce genre et que l’on peut présumer qu’il effectuera également de telles livraisons durant les douze mois suivant l’entrée en vigueur.
 
 [^166b-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+
+#### Art. 166c
+
+**Dispositions transitoires relatives à la modification du 16 juin 2023**[^166c-1]
+
+### (art. 65*a* LTVA et 123 de la présente ordonnance)
+
+<sup>1</sup> Les assujettis qui déposaient leurs décomptes sur papier avant l’entrée en vigueur de la modification du 16 juin 2023 peuvent continuer à déposer leurs décomptes sur papier jusqu’au 31 décembre 2024.
+
+<sup>2</sup> Les corrections de décomptes déposés sur papier doivent également être déposées sur papier.
+
+[^166c-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
 
 ### Chapitre 3 Entrée en vigueur
 

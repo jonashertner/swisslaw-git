@@ -4,11 +4,11 @@ title: "Ordinance of 27 November 2009 on Value Added Tax (Value Added Tax Ordina
 short: VAT Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Ordinance, VAT Ordinance)
 
-of 27 November 2009 (Status as of 1 September 2023)
+of 27 November 2009 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -589,10 +589,10 @@ Members of human medical and nursing professions within the meaning of Article 2
 - m. dietary advisers;
 - n. podologists;
 - o.[^35-2] persons authorised to conduct analyses for Sars-CoV-2 pursuant to the COVID-19 Ordinance 3 of 19 June 2020[^35-3], for the conduct of these analyses;
-- p.[^35-4] Pharmacists for administering COVID-19 vaccinations.
+- p.[^35-4] …
 
 [^35-1]: Inserted by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 till 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
+[^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 until 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^35-4]: Inserted by No II of the O of 27 Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Amended by No II of the O of 3 Dec. 2021, in force from 1 Jan. 2022 until 31 Dec. 2022, extended to 31 Dec. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)No II).
 
@@ -727,23 +727,24 @@ Exempt from the tax with credit is the transport of persons by bus or coach on s
 
 Exempt from the tax with credit are turnovers in:
 
-- a. state minted gold coins with customs tariff numbers 7118.9010 and 9705.0000[^44-1];
-- b.[^44-2]
+- a. state minted gold coins with customs tariff numbers 7118.9000[^44-1] and 9705.0000[^44-2];
+- b.[^44-3]
 
   gold for investment purposes with a minimum fineness of 995 per mille, in the form of:
 
   - 1\. cast bars bearing a fineness mark and the stamp of a recognised assayer-melter, or
   - 2\. pressed bars bearing a fineness mark and the stamp of a recognised assayer-melter or a responsibility mark registered on Swiss territory;
 
-- c.[^44-3] gold in the form of granules with a minimum fineness of 995 per mille, which have been packed and sealed by an accredited assayer-melter;
+- c.[^44-4] gold in the form of granules with a minimum fineness of 995 per mille, which have been packed and sealed by an accredited assayer-melter;
 - d. unprocessed or semi-finished gold that is destined for refining or recovery;
 - e. gold in the form of clippings and scrap.
 
 <sup>2</sup> Alloys with two or more per cent by weight gold or, if platinum is contained therein, with more gold than platinum also constitute gold within the meaning of paragraph 1 letters d and e.
 
-[^44-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex. Now: 7118.9010, 9705.3100 and 9705.3900.
-[^44-2]: Amended by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-1]: Amended by Annex 2 No II 9 of the O of 15 Feb. 2023 on the Amendment of the Customs Tariff, in force since 1 Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^44-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex. Now: 7118.9010, 9705.3100 and 9705.3900.
 [^44-3]: Amended by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-4]: Amended by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
 ### Chapter 3 Assessment Basis and Tax Rates
 
@@ -1381,7 +1382,7 @@ On the date of removal from the VAT Register, the tax must be reported on the fa
 - a. the good was purchased, constructed or converted by the taxable person when it used the effective method and it has claimed the input tax deduction;
 - b.[^82-2] the good was purchased by the taxable person under the notification procedure from a taxable person reporting using the effective method.
 
-<sup>3</sup> In determining the fair value of immovable goods, for every year expired one twentieth is reduced on a straight line basis.
+<sup>3</sup> In determining the fair value of immovable goods, for every year expired one twentieth is reduced on a straight-line basis.
 
 [^82-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^82-2]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
@@ -1984,28 +1985,42 @@ Articles 118–120 apply by analogy for authorisation under Article 63 paragraph
 
 Businesses that exclusively provide supplies on Swiss territory that are exempt from tax without credit may opt not to register with the FTA as a taxable person. The foregoing also applies to businesses without a place of business, domicile or permanent establishment on Swiss territory if they also make supplies for which they are exempt from tax under Article 10 paragraph 2 letter b VAT Act.
 
-### Section1*a*Paperless Receipts
-
-### (Art. 70 para. 4 VAT Act)
+### Section1*a*Paperless Receipts, Electronic Procedures
 
 [^tit5-chap1-sec1a-1]
 
+[^tit5-chap1-sec1a-1]: Inserted by No I of the O of 18 Oct. 2017 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Amended by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
 #### Art. 122
 
-[^122-1]
+**Paperless receipts**[^122-1]
 
-For the transmission and retention of paperless receipts, Articles 957–958*f* of the Code of Obligations[^122-2] and the Accounts Ordinance of 24 April 2002[^122-3] apply.
+### (Art. 70 para. 4 VAT Act)
 
-[^tit5-chap1-sec1a-1]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^122-2]
+
+Articles 957–958*f* of the Code of Obligations[^122-3] and the Accounts Ordinance of 24 April 2002[^122-4] apply to the transmission and retention of paperless receipts.
+
 [^122-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^122-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^122-3]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^122-2]: Inserted by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^122-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^122-4]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
 
-#### Art. 123–125
+#### Art. 123
 
-[^123125-1]
+**Electronic procedures**[^123-1]
 
-[^123125-1]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+### (Art. 65*a* VAT Act)
+
+Registration as a taxable person (Art. 66 para. 1 VAT Act), filing returns (Art. 71 VAT Act) and the correction of errors in returns (Art. 72 VAT Act) must be carried out electronically using the portal provided.
+
+[^123-1]: Amended by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
+#### Art. 124
+
+**und **125**[^124-1]**
+
+[^124-1]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### Section 2 Reporting
 
@@ -2686,6 +2701,18 @@ In the case of foreign businesses without a permanent establishment on Swiss ter
 Where goods supplied from abroad onto Swiss territory are exempt from import tax because of the negligible amount of tax, the supplier becomes liable for tax when the Amendment of 15 August 2018 comes into force if it achieved a turnover of 100 000 francs or more from supplying such goods in the previous twelve months and it must be assumed that it will continue to make such supplies in the twelve months following the amendment coming into force.
 
 [^166b-1]: Inserted by No I of the O of 15 Aug. 2018, in force since 1 Jan. 2019 ([AS 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+
+#### Art. 166c
+
+**Transitional provision to the Amendment of 16 June 2023**[^166c-1]
+
+### (Art. 65*a* VAT Act and Art. 123 of this Ordinance)
+
+<sup>1</sup> Taxable persons that have filed their returns in paper form before the Amendment of 16 June 2023 comes into force may continue to file their returns in paper form until 31 December 2024.
+
+<sup>2</sup> Corrections of returns that have been filed in paper form must also be filed in paper form.
+
+[^166c-1]: Inserted by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
 
 ### Chapter 3 Commencement Date
 

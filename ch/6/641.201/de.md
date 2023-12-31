@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 1. September 2023)
+vom 27. November 2009 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -587,7 +587,7 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - m. Ernährungsberater und Ernährungsberaterinnen;
 - n. Podologen und Podologinnen;
 - o.[^35-2] Personen, die nach der Covid-19-Verordnung 3 vom 19. Juni 2020[^35-3] zur Durchführung von Analysen auf Sars-CoV-2 berechtigt sind, für die Durchführung dieser Analysen;
-- p.[^35-4] Apotheker und Apothekerinnen für die Durchführung von Covid-19-Impfungen.
+- p.[^35-4] …
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
@@ -725,23 +725,24 @@ Von der Steuer befreit sind die Beförderungen von Personen mit Autobussen auf S
 
 Von der Steuer sind befreit die Umsätze von:
 
-- a. staatlich geprägten Goldmünzen der Zolltarifnummern 7118.9010 und 9705.0000[^44-1];
-- b.[^44-2]
+- a. staatlich geprägten Goldmünzen der Zolltarifnummern 7118.9000[^44-1] und 9705.0000[^44-2];
+- b.[^44-3]
 
   Gold zu Anlagezwecken im Mindestfeingehalt von 995 Tausendsteln, in Form von:
 
   - 1\. gegossenen Barren, versehen mit der Angabe des Feingehalts und dem Stempelzeichen eines anerkannten Prüfer-Schmelzers, oder
   - 2\. gestanzten Plättchen, versehen mit der Angabe des Feingehalts und dem Stempelzeichen eines anerkannten Prüfer-Schmelzers oder einer in der Schweiz registrierten Verantwortlichkeitsmarke;
 
-- c.[^44-3] Gold in Form von Granalien im Mindestfeingehalt von 995 Tausendsteln, die von einem anerkannten Prüfer-Schmelzer verpackt und versiegelt wurden;
+- c.[^44-4] Gold in Form von Granalien im Mindestfeingehalt von 995 Tausendsteln, die von einem anerkannten Prüfer-Schmelzer verpackt und versiegelt wurden;
 - d. Gold in Rohform oder in Form von Halbzeug, das zur Raffination oder Wiedergewinnung bestimmt ist;
 - e. Gold in Form von Abfällen und Schrott.
 
 <sup>2</sup> Als Gold im Sinn von Absatz 1 Buchstaben d und e gelten auch Legierungen, die zwei oder mehr Gewichtsprozent Gold oder, wenn Platin enthalten ist, mehr Gold als Platin aufweisen.
 
-[^44-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang. Heute: 7118.9010, 9705.3100 und 9705.3900.
-[^44-2]: Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-1]: Fassung gemäss Anhang 2 Ziff. II 9 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^44-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang. Heute: 9705.3100 und 9705.3900.
 [^44-3]: Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-4]: Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
 ### 3. Kapitel: Bemessungsgrundlage und Steuersätze
 
@@ -1985,28 +1986,42 @@ Für die Bewilligung nach Artikel 63 Absatz 2 MWSTG gelten die Artikel 118–120
 
 Unternehmen, die im Inland ausschliesslich von der Steuer ausgenommene Leistungen erbringen, können auf die Anmeldung bei der ESTV als steuerpflichtige Person verzichten. Bei Unternehmen ohne Sitz, Wohnsitz oder Betriebsstätte im Inland gilt dies auch, wenn sie zudem Leistungen erbringen, für die sie nach Artikel 10 Absatz 2 Buchstabe b MWSTG von der Steuerpflicht befreit sind.
 
-### 1*a*. Abschnitt: Papierlose Belege
-
-### (Art. 70 Abs. 4 MWSTG)
+### 1*a*. Abschnitt: Papierlose Belege, elektronische Verfahren
 
 [^tit5-chap1-sec1a-1]
 
+[^tit5-chap1-sec1a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
 #### Art. 122
 
-[^122-1]
+**Papierlose Belege**[^122-1]
 
-Für die Übermittlung und Aufbewahrung papierloser Belege gelten die Artikel 957–958*f* des Obligationenrechts[^122-2] und die Geschäftsbücherverordnung vom 24. April 2002[^122-3].
+### (Art. 70 Abs. 4 MWSTG)
 
-[^tit5-chap1-sec1a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^122-2]
+
+Für die Übermittlung und Aufbewahrung papierloser Belege gelten die Artikel 957–958*f* des Obligationenrechts[^122-3] und die Geschäftsbücherverordnung vom 24. April 2002[^122-4].
+
 [^122-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^122-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^122-3]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^122-2]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^122-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^122-4]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
 
-#### Art. 123–125
+#### Art. 123
 
-[^123125-1]
+**Elektronische Verfahren**[^123-1]
 
-[^123125-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+### (Art. 65*a* MWSTG)
+
+Die Anmeldung als steuerpflichtige Person (Art. 66 Abs. 1 MWSTG), die Einreichung der Abrechnung (Art. 71 MWSTG) und die nachträglichen Korrekturen der Abrechnung (Art. 72 MWSTG) müssen elektronisch über das hierfür vorgesehene Portal erfolgen.
+
+[^123-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
+#### Art. 124 und 125
+
+[^124125-1]
+
+[^124125-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### 2. Abschnitt: Abrechnung
 
@@ -2685,6 +2700,18 @@ Für ausländische Unternehmen ohne Betriebsstätte im Inland, die in den zwölf
 Werden Gegenstände aus dem Ausland ins Inland geliefert, die aufgrund des geringfügigen Steuerbetrags von der Einfuhrsteuer befreit sind, so beginnt die Steuerpflicht des Leistungserbringers oder der Leistungserbringerin mit Inkrafttreten der Änderung vom 15. August 2018, wenn er oder sie in den vorangegangenen zwölf Monaten mit der Lieferung solcher Gegenstände einen Umsatz von mindestens 100 000 Franken erzielt hat und anzunehmen ist, dass er oder sie auch in den zwölf Monaten ab Inkrafttreten solche Lieferungen ausführen wird.
 
 [^166b-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+
+#### Art. 166c
+
+**Übergangsbestimmungen zur Änderung vom 16. Juni 2023**[^166c-1]
+
+### (Art. 65*a* MWSTG und Art. 123 der vorliegenden Verordnung)
+
+<sup>1</sup> Steuerpflichtige Personen, die die Abrechnungen vor dem Inkrafttreten der Änderung vom 16. Juni 2023 in Papierform eingereicht haben, können die Abrechnungen bis zum 31. Dezember 2024 weiterhin in Papierform einreichen.
+
+<sup>2</sup> Korrekturen von Abrechnungen, die in Papierform eingereicht wurden, sind ebenfalls in Papierform einzureichen.
+
+[^166c-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
 
 ### 3. Kapitel: Inkrafttreten
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 1° settembre 2023)
+del 27 novembre 2009 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -596,7 +596,7 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 - m. dietisti;
 - n. podologi;
 - o.[^35-3] persone autorizzate a eseguire analisi per il SARS-CoV-2 secondo l’ordinanza 3 COVID-19 del 19 giugno 2020[^35-4] per l’esecuzione di tali analisi;
-- p.[^35-5] farmacisti che effettuano vaccinazioni anti-COVID-19.
+- p.[^35-5] ...
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introdotta dal n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
@@ -735,23 +735,24 @@ Fatto salvo il capoverso 2, i trasporti ferroviari transfrontalieri sono esenti 
 
 Sono esenti dall’imposta le operazioni con:
 
-- a. monete d’oro coniate dagli Stati designate nelle voci di tariffa doganale[^44-1] 7118.9010 e 9705.0000;
-- b.[^44-2]
+- a. monete d’oro coniate dagli Stati designate nelle voci di tariffa doganale[^44-1] 7118.9000[^44-2] e 9705.0000;
+- b.[^44-3]
 
   oro a scopi di investimento con il titolo minimo di 995 millesimi, sotto forma di:
 
   - 1\. lingotti fusi, con menzione del titolo e del marchio proveniente da un saggiatore-fonditore riconosciuto, oppure
   - 2\. lamelle ritagliate, con menzione del titolo e del marchio proveniente da un saggiatore-fonditore riconosciuto, oppure di un marchio d’artefice registrato in Svizzera;
 
-- c.[^44-3] oro in forma di granuli d’un tenore d’oro fino di almeno 995 millesimi, imballati e sigillati da un fonditore-saggiatore riconosciuto;
+- c.[^44-4] oro in forma di granuli d’un tenore d’oro fino di almeno 995 millesimi, imballati e sigillati da un fonditore-saggiatore riconosciuto;
 - d. oro greggio o semilavorato destinato alla raffinazione o al recupero;
 - e. oro in forma di cascami e rottami.
 
 <sup>2</sup> È considerata oro ai sensi del capoverso 1 lettere d ed e anche qualsiasi lega contenente, in peso, 2 per cento o più di oro o, in presenza di platino, contenente più oro che platino.
 
-[^44-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato. Ora: 7118.9010, 9705.3100 e 9705.3900.
-[^44-2]: Nuovo testo giusta il n. I dell’O del 30 ott. 2014, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato. Ora: 9705.3100 e 9705.3900.
+[^44-2]: Nuovo numero giusta l’all. 2 n. II 9 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 [^44-3]: Nuovo testo giusta il n. I dell’O del 30 ott. 2014, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-4]: Nuovo testo giusta il n. I dell’O del 30 ott. 2014, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
 ### Capitolo 3: Base di calcolo e aliquote d’imposta
 
@@ -1002,7 +1003,7 @@ Sono considerate terzi che sostengono l’editore:
 
 <sup>2</sup> Per servizio s’intende segnatamente il fatto di servire i prodotti commestibili nei piatti, preparare buffet freddi e caldi, versare le bevande nei bicchieri, apparecchiare e sparecchiare i tavoli, servire gli ospiti, nonché la direzione e la sorveglianza del personale di servizio, la gestione e il rifornimento dei buffet a libero servizio.
 
-[^53-1]: Nuova espr. giusta l’all. n. 1 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^53-1]: Nuova espressione giusta l’all. n. 1 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 54
 
@@ -1998,28 +1999,42 @@ All’autorizzazione di cui all’articolo 63 capoverso 2 LIVA si applicano per 
 
 Le imprese che sul territorio svizzero eseguono esclusivamente prestazioni escluse dall’imposta possono rinunciare ad annunciarsi come contribuenti presso l’AFC. Nel caso delle imprese che non hanno sede, domicilio o stabilimento d’impresa sul territorio svizzero la rinuncia è possibile anche se, oltre alle suddette, eseguono prestazioni per le quali sono esentate dall’assoggettamento secondo l’articolo 10 capoverso 2 lettera b LIVA.
 
-### Sezione 1*a*: Giustificativi in forma non cartacea
-
-### (art. 70 cpv. 4 LIVA)
+### Sezione 1*a*: Giustificativi in forma non cartacea, procedure elettroniche
 
 [^tit5-chap1-sec1a-1]
 
+[^tit5-chap1-sec1a-1]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
 #### Art. 122
 
-[^122-1]
+**Giustificativi in forma non cartacea**[^122-1]
 
-La trasmissione e la conservazione dei giustificativi in forma non cartacea sono rette dagli articoli 957–958*f* del Codice delle obbligazioni[^122-2] e dall’ordinanza del 24 aprile 2002[^122-3] sui libri di commercio.
+### (art. 70 cpv. 4 LIVA)
 
-[^tit5-chap1-sec1a-1]: Introdotta dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^122-2]
+
+La trasmissione e la conservazione dei giustificativi in forma non cartacea sono rette dagli articoli 957–958*f* del Codice delle obbligazioni[^122-3] e dall’ordinanza del 24 aprile 2002[^122-4] sui libri di commercio.
+
 [^122-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^122-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^122-3]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^122-2]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^122-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^122-4]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
 
-#### Art. 123 a 125
+#### Art. 123
 
-[^123125-1]
+**Procedure elettroniche**[^123-1]
 
-[^123125-1]: Abrogati dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+### (art. 65*a* LIVA)
+
+L’annuncio di inizio dell’assoggettamento (art. 66 cpv. 1 LIVA), la presentazione del rendiconto (art. 71 LIVA) e le correzioni successive del rendiconto (art. 72 LIVA) devono avvenire per via elettronica attraverso l’apposito portale.
+
+[^123-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
+#### Art. 124 e 125
+
+[^124125-1]
+
+[^124125-1]: Abrogati dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### Sezione 2: Rendiconto
 
@@ -2702,6 +2717,18 @@ Per le imprese estere che non hanno uno stabilimento d’impresa in territorio s
 Se vengono forniti dall’estero in territorio svizzero beni che in ragione dell’ammontare d’imposta irrilevante sono esenti dall’imposta sull’importazione, l’assoggettamento del fornitore della prestazione inizia con l’entrata in vigore della modifica del 15 agosto 2018, se nel corso dei 12 mesi precedenti con tali forniture ha raggiunto il limite della cifra d’affari di 100 000 franchi e se è presumibile che anche nei 12 mesi successivi all’entrata in vigore della modifica eseguirà prestazioni simili.
 
 [^166b-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+
+#### Art. 166c
+
+**Disposizioni transitorie della modifica del 16 giugno 2023**[^166c-1]
+
+### (art. 65*a* LIVA e art. 123 OIVA)
+
+<sup>1</sup> I contribuenti che hanno presentato i rendiconti in forma cartacea prima dell’entrata in vigore della modifica del 16 giugno 2023 possono continuare a presentarli in forma cartacea fino al 31 dicembre 2024.
+
+<sup>2</sup> Le correzioni dei rendiconti presentati in forma cartacea devono pure essere presentate in forma cartacea.
+
+[^166c-1]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
 
 ### Capitolo 3: Entrata in vigore
 
