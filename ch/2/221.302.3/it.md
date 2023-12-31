@@ -4,11 +4,11 @@ title: "Ordinanza del 22 agosto 2007 sull'abilitazione e la sorveglianza dei rev
 short: OSRev
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-534-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-534-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/it"
 
 (Ordinanza sui revisori, OSRev)[^t-1]
 
-del 22 agosto 2007 (Stato 1° gennaio 2023)
+del 22 agosto 2007 (Stato 1° gennaio 2024)
 
 [^t-1]: [RU 2007 4419](https://fedlex.data.admin.ch/eli/oc/2007/612)
 
@@ -32,7 +32,17 @@ ordina:
 [^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-4]: Nuovo testo giusta il n. II 1 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
-## Sezione 1: Abilitazione per la prestazione di servizi di revisione
+## Capitolo 1: Abilitazione per la prestazione di servizi di revisione
+
+[^chap1-1]
+
+[^chap1-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### Sezione 1: Disposizioni generali
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 1
 
@@ -45,13 +55,18 @@ Devono presentare una domanda di abilitazione all’autorità di sorveglianza:
 - a. le persone fisiche che desiderano fornire servizi di revisione in qualità di revisore o di perito revisore;
 - b. le imprese di revisione che desiderano fornire servizi di revisione in qualità di revisore, di perito revisore o di impresa di revisione sotto sorveglianza statale;
 - c.[^1-1] le persone fisiche che desiderano eseguire verifiche quali auditor responsabili conformemente alle leggi sui mercati finanziari di cui all’articolo 1 capoverso 1 della legge del 22 giugno 2007[^1-2] sulla vigilanza dei mercati finanziari (leggi sui mercati finanziari), sulla base di un’abilitazione ai sensi della lettera a (art. 9*a* cpv. 2 LSR);
-- d.[^1-3] le imprese di revisione che desiderano eseguire verifiche quali società di audit conformemente alle leggi sui mercati finanziari, sulla base di un’abilitazione ai sensi della lettera b (art. 9*a* cpv. 1 LSR).
+- d.[^1-3] le imprese di revisione che desiderano eseguire verifiche quali società di audit conformemente alle leggi sui mercati finanziari, sulla base di un’abilitazione ai sensi della lettera b (art. 9*a* cpv. 1 LSR);
+- e.[^1-4] le persone fisiche che desiderano eseguire verifiche quali auditor responsabili conformemente agli articoli 68 e 68*a* della legge federale del 20 dicembre 1946[^1-5] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), sulla base di un’abilitazione ai sensi della lettera a;
+- f.[^1-6] le imprese di revisione che desiderano eseguire verifiche quali società di audit conformemente agli articoli 68 e 68*a* LAVS, sulla base di un’abilitazione ai sensi della lettera b.
 
 <sup>2</sup> Il richiedente deve allegare alla domanda la prova del pagamento dell’emolumento di cui all’articolo 38.
 
 [^1-1]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^1-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^1-3]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^1-4]: Introdotta dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^1-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-6]: Introdotta dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 2
 
@@ -191,13 +206,7 @@ Le imprese di revisione con sede all’estero sono abilitate quali imprese di re
 
 #### Art. 10a
 
-[^10a-1]
-
-[^10a-1]: Introdotto dal n. 1 dell’O del 1° lug. 2015 ([RU 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Abrogato dal n. I dell’O del 23 ago. 2017, con effetto dal 1° ott. 2017 ([RU 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
-
-#### Art. 11
-
-**Sufficiente assicurazione contro i rischi di responsabilità**
+**Sufficiente assicurazione contro i rischi di responsabilità**[^10a-1]
 
 <sup>1</sup> Un’impresa di revisione sotto sorveglianza statale è sufficientemente assicurata contro i rischi di responsabilità se, a titolo di responsabilità civile per il controllo di società di interesse pubblico, ha stipulato un’assicurazione per danni patrimoniali o garanzie finanziarie equivalenti.
 
@@ -219,34 +228,81 @@ La copertura assicurativa annua in caso di danni patrimoniali deve essere pari a
 
 <sup>7</sup> L’impresa di revisione sotto sorveglianza statale deve comunicare immediatamente all’autorità di sorveglianza ogni modifica del contratto di assicurazione. L’obbligo di comunicazione vale per analogia anche per le garanzie finanziarie equivalenti.
 
+[^10a-1]: Originario art. 11.
+
+#### Art. 10b
+
+**Effetti della decisione di abilitazione**[^10b-1]
+
+<sup>1</sup> Il richiedente può fornire servizi di revisione previsti dalla legge soltanto dopo che l’autorità di sorveglianza ha emanato una decisione di abilitazione.
+
+<sup>2</sup> L’abilitazione a esercitare la funzione di impresa di revisione sotto sorveglianza statale e di perito revisore comprende anche l’abilitazione a fornire servizi di revisione per i quali il diritto federale prevede requisiti specialistici meno severi.
+
+<sup>2bis</sup> L’abilitazione di un’impresa di revisione o di un auditor responsabile rilasciata per un determinato ambito di vigilanza non autorizza allo svolgimento di una verifica ai sensi dell’articolo 24 capoverso 1 lettera a della legge del 22 giugno 2007[^10b-2] sulla vigilanza dei mercati finanziari in un altro ambito di vigilanza.[^10b-3]
+
+<sup>2ter</sup> L’abilitazione rilasciata per eseguire verifiche in uno degli ambiti di vigilanza ai sensi dell’articolo 11*a* capoverso 1 lettere a–c autorizza anche a eseguire verifiche dell’osservanza delle disposizioni della legge del 10 ottobre 1997[^10b-4] sul riciclaggio di denaro (LRD) e della legge del 15 giugno 2018[^10b-5] sui servizi finanziari nell’ambito di vigilanza interessato.[^10b-6]
+
+<sup>3</sup> Prima della decisione di abilitazione non è permesso utilizzare denominazioni quali «revisore abilitato», «perito revisore abilitato», «auditor responsabile abilitato», «impresa di revisione abilitata», «impresa di revisione sotto sorveglianza statale» o «società di audit abilitata».[^10b-7]
+
+[^10b-1]: Originario art. 12.
+[^10b-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^10b-3]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^10b-4]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10b-5]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^10b-6]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)). Nuovo testo giusta l’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari , in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^10b-7]: Nuovo testo giusta l’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+
+#### Art. 10c
+
+**Obbligo di cooperazione**[^10c-1]
+
+L’autorità di sorveglianza può esigere dalle persone e dalle imprese che, sulla base dell’iscrizione nel registro di commercio e dell’attività esercitata o pubblicizzata, potrebbero sottostare alla LSR, ogni documento e chiarimento necessari a valutare se l’attività soggiace a un’abilitazione.
+
+[^10c-1]: Originario art. 14.
+
+#### Art. 11
+
+**Comunicazione in caso di revoca dell’abilitazione**[^11-1]
+
+Se l’autorità di sorveglianza revoca a tempo determinato o indeterminato l’abilitazione a una persona fisica o a un’impresa di revisione, ne informa gli uffici competenti del registro di commercio e, se del caso, la borsa e le autorità di sorveglianza che, secondo l’iscrizione nel registro di commercio, hanno concesso un’abilitazione fondata su una legge speciale.
+
+[^11-1]: Originario art. 15.
+
+### Sezione 2: Abilitazione ad eseguire verifiche conformemente alle leggi sui mercati finanziari
+
+[^chap1-sec2-1]
+
+[^chap1-sec2-1]: Introdotta dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 #### Art. 11a
 
-**Abilitazione ad eseguire verifiche conformemente alle leggi sui mercati finanziari**[^11a-1]
+**Abilitazione[^11a-2]**[^11a-1]
 
 <sup>1</sup>
 
 L’autorità di sorveglianza rilascia l’abilitazione a imprese di revisione sotto sorveglianza statale nonché ad auditor responsabili per eseguire verifiche conformemente alle leggi sui mercati finanziari negli ambiti di vigilanza seguenti:
 
-- a.[^11a-2] banche secondo la legge dell’8 novembre 1934[^11a-3] sulle banche (LBCR), infrastrutture del mercato finanziario, gruppi finanziari e offerte pubbliche di acquisto secondo la legge del 19 giugno 2015[^11a-4] sull’infrastruttura finanziaria, società di intermediazione mobiliare secondo la legge del 15 giugno 2018[^11a-5] sugli istituti finanziari (LIsFi) e centrali d’emissione di obbligazioni fondiarie secondo la legge del 25 giugno 1930[^11a-6] sulle obbligazioni fondiarie;
-- a<sup>bis</sup>.[^11a-7] persone di cui all’articolo 1*b* LBCR;
-- b. imprese di assicurazione secondo la legge del 17 dicembre 2004[^11a-8] sulla sorveglianza degli assicuratori;
-- c.[^11a-9] direzioni dei fondi e gestori di patrimoni collettivi secondo la LIsFi, fondi di investimento, SICAV, società in accomandita per investimenti collettivi di capitale, SICAF, banche depositarie nonché rappresentanti di investimenti collettivi di capitale esteri secondo la legge del 23 giugno 2006[^11a-10] sugli investimenti collettivi;
-- d.[^11a-11] ...
+- a.[^11a-3] banche secondo la legge dell’8 novembre 1934[^11a-4] sulle banche (LBCR), infrastrutture del mercato finanziario, gruppi finanziari e offerte pubbliche di acquisto secondo la legge del 19 giugno 2015[^11a-5] sull’infrastruttura finanziaria, società di intermediazione mobiliare secondo la legge del 15 giugno 2018[^11a-6] sugli istituti finanziari (LIsFi) e centrali d’emissione di obbligazioni fondiarie secondo la legge del 25 giugno 1930[^11a-7] sulle obbligazioni fondiarie;
+- a<sup>bis</sup>.[^11a-8] persone di cui all’articolo 1*b* LBCR;
+- b. imprese di assicurazione secondo la legge del 17 dicembre 2004[^11a-9] sulla sorveglianza degli assicuratori;
+- c.[^11a-10] direzioni dei fondi e gestori di patrimoni collettivi secondo la LIsFi, fondi di investimento, SICAV, società in accomandita per investimenti collettivi di capitale, SICAF, banche depositarie nonché rappresentanti di investimenti collettivi di capitale esteri secondo la legge del 23 giugno 2006[^11a-11] sugli investimenti collettivi;
+- d.[^11a-12] ...
 
-<sup>2</sup> ...[^11a-12]
+<sup>2</sup> ...[^11a-13]
 
 [^11a-1]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^11a-2]: Nuovo testo giusta il n. I 2 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^11a-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^11a-4]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^11a-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^11a-6]: RS **221.423.4**
-[^11a-7]: Introdotta dal n. II 1 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^11a-8]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^11a-9]: Nuovo testo giusta l’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^11a-10]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^11a-11]: Abrogata dall’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^11a-12]: Abrogato dall’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-2]: Nuovo testo giusta l’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^11a-3]: Nuovo testo giusta il n. I 2 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^11a-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^11a-5]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^11a-6]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^11a-7]: RS **221.423.4**
+[^11a-8]: Introdotta dal n. II 1 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^11a-9]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^11a-10]: Nuovo testo giusta l’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-11]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^11a-12]: Abrogata dall’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-13]: Abrogato dall’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 11b
 
@@ -395,7 +451,8 @@ I corsi di perfezionamento ai sensi degli articoli 11*d*–11*f*, compresi i cor
 
 - a. il perfezionamento comprende gli ambiti di verifica definiti per ogni ambito di vigilanza ai sensi dell’articolo 3 dell’ordinanza del 5 novembre 2014[^11h-3] sugli audit dei mercati finanziari;
 - b. i corsi esterni e interni di perfezionamento durano almeno un’ora;
-- c. ai corsi interni di perfezionamento partecipano almeno tre persone.
+- c. ai corsi interni di perfezionamento partecipano almeno tre persone;
+- d.[^11h-4] per i corsi svolti in forma virtuale asincrona è effettuato un controllo dell’apprendimento.
 
 <sup>2</sup> È computata l’effettiva durata del corso di perfezionamento. Le relazioni e lezioni specialistiche sono considerate computando il doppio della durata della relazione o della lezione.
 
@@ -404,6 +461,7 @@ I corsi di perfezionamento ai sensi degli articoli 11*d*–11*f*, compresi i cor
 [^11h-1]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^11h-2]: Nuovo testo giusta l’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^11h-3]: [RS 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
+[^11h-4]: Introdotta dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 11i a 11k
 
@@ -419,26 +477,82 @@ Le prescrizioni riguardanti il principio di indipendenza (art. 11 LSR e 728 CO) 
 
 [^11l-1]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
+### Sezione 3: Abilitazione ad eseguire verifiche conformemente alla legge federale sull’assicurazione per la vecchiaia e per i superstiti
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 11m
+
+**Abilitazione**[^11m-1]
+
+L’autorità di sorveglianza rilascia l’abilitazione a imprese di revisione nonché ad auditor responsabili per eseguire le verifiche conformemente agli articoli 68 e 68*a* LAVS [^11m-2], se questi adempiono i requisiti di cui agli articoli 11*n*–11*p*.
+
+[^11m-1]: Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^11m-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 11n
+
+**Organizzazione sufficiente**[^11n-1]
+
+Un’impresa di revisione è organizzata in modo sufficiente per eseguire verifiche conformemente alla LAVS[^11n-2] se:
+
+- a. dispone di almeno due auditor responsabili abilitati secondo l’articolo 11*m*;
+- b. al più tardi tre anni dopo il rilascio dell’abilitazione dispone di almeno due mandati di verifica di casse di compensazione o agenzie secondo l’articolo 161 capoversi 1 e 2 dell’ordinanza del 31 ottobre 1947[^11n-3] sull’assicurazione per la vecchiaia e per i superstiti;
+- c. a prescindere dalla sua forma giuridica, rispetta le disposizioni riguardanti la documentazione e la conservazione dei documenti secondo l’articolo 730*c* CO.
+
+[^11n-1]: Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^11n-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11n-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 11o
+
+**Conoscenze specialistiche ed esperienza professionale**[^11o-1]
+
+<sup>1</sup>
+
+L’auditor responsabile dispone delle conoscenze specialistiche e dell’esperienza professionale necessarie per essere abilitato a eseguire verifiche di casse di compensazione AVS e agenzie se può dimostrare di soddisfare i seguenti requisiti:
+
+- a. 250 ore di revisione nel quadro di revisioni principali nei sei anni precedenti l’inoltro della domanda di abilitazione;
+- b. 200 ore di revisione nel quadro di revisioni di chiusura nei sei anni precedenti l’inoltro della domanda di abilitazione;
+- c. 12 ore di perfezionamento nell’ambito di attività dell’articolo 68*a* capoverso 2 lettere a, b ed e LAVS[^11o-2] nei tre anni precedenti l’inoltro della domanda di abilitazione.
+
+<sup>2</sup>
+
+Dopo l’abilitazione, l’auditor responsabile continua a disporre delle conoscenze specialistiche e dell’esperienza professionale necessarie per eseguire verifiche se per gli ultimi tre anni può dimostrare di soddisfare i requisiti seguenti:
+
+- a. in media 40 ore di revisione nell’ambito di revisioni principali e 30 ore di revisione nel quadro di revisioni di chiusura; e
+- b. 12 ore complessive di perfezionamento nell’ambito di attività dell’articolo 68*a* capoverso 2 lettere a, b ed e LAVS.
+
+[^11o-1]: Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^11o-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 11p
+
+**Perfezionamento**[^11p-1]
+
+Per il perfezionamento per i compiti di cui all’articolo 68*a* capoverso 2 lettere a, b ed e LAVS si applica l’articolo 11*h* capoversi 1 lettere b–d, 2 e 3.
+
+[^11p-1]: Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 11q
+
+**Revoca dell’abilitazione**[^11q-1]
+
+<sup>1</sup> L’autorità di sorveglianza può revocare l’abilitazione a tempo determinato o indeterminato a una persona fisica abilitata o a un’impresa di revisione abilitata che non adempie più le condizioni per l’abilitazione di cui agli articoli 11*n*–11*p*.
+
+<sup>2</sup> Se le condizioni per l’abilitazione possono essere ristabilite, la revoca è dapprima comminata.
+
+<sup>3</sup> Se la revoca dell’abilitazione è sproporzionata, l’autorità di sorveglianza la ammonisce per scritto.
+
+[^11q-1]: Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 #### Art. 12
 
-**Effetti della decisione di abilitazione**
+[^12-1]
 
-<sup>1</sup> Il richiedente può fornire servizi di revisione previsti dalla legge soltanto dopo che l’autorità di sorveglianza ha emanato una decisione di abilitazione.
-
-<sup>2</sup> L’abilitazione a esercitare la funzione di impresa di revisione sotto sorveglianza statale e di perito revisore comprende anche l’abilitazione a fornire servizi di revisione per i quali il diritto federale prevede requisiti specialistici meno severi.
-
-<sup>2bis</sup> L’abilitazione di un’impresa di revisione o di un auditor responsabile rilasciata per un determinato ambito di vigilanza non autorizza allo svolgimento di una verifica ai sensi dell’articolo 24 capoverso 1 lettera a della legge del 22 giugno 2007[^12-1] sulla vigilanza dei mercati finanziari in un altro ambito di vigilanza.[^12-2]
-
-<sup>2ter</sup> L’abilitazione rilasciata per eseguire verifiche in uno degli ambiti di vigilanza ai sensi dell’articolo 11*a* capoverso 1 lettere a–c autorizza anche a eseguire verifiche dell’osservanza delle disposizioni della legge del 10 ottobre 1997[^12-3] sul riciclaggio di denaro (LRD) e della legge del 15 giugno 2018[^12-4] sui servizi finanziari nell’ambito di vigilanza interessato.[^12-5]
-
-<sup>3</sup> Prima della decisione di abilitazione non è permesso utilizzare denominazioni quali «revisore abilitato», «perito revisore abilitato», «auditor responsabile abilitato», «impresa di revisione abilitata», «impresa di revisione sotto sorveglianza statale» o «società di audit abilitata».[^12-6]
-
-[^12-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^12-2]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^12-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^12-4]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^12-5]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)). Nuovo testo giusta l’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari , in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^12-6]: Nuovo testo giusta l’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^12-1]: Abrogato dall’all. n. 1 dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 13
 
@@ -449,19 +563,17 @@ Le prescrizioni riguardanti il principio di indipendenza (art. 11 LSR e 728 CO) 
 [^13-1]: Abrogato dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^13-2]: Abrogato dal n. I dell’O del 1° lug. 2015, con effetto dal 1° ott. 2015 ([RU 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
 
-#### Art. 14
+#### Art. 14 e 15
 
-**Obbligo di cooperazione**
+[^1415-1]
 
-L’autorità di sorveglianza può esigere dalle persone e dalle imprese che, sulla base dell’iscrizione nel registro di commercio e dell’attività esercitata o pubblicizzata, potrebbero sottostare alla LSR, ogni documento e chiarimento necessari a valutare se l’attività soggiace a un’abilitazione.
+[^1415-1]: Abrogati dall’all. n. 1 dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
-#### Art. 15
+## Capitolo 2: Registro dei revisori
 
-**Comunicazione in caso di revoca dell’abilitazione**
+[^chap2-1]
 
-Se l’autorità di sorveglianza revoca a tempo determinato o indeterminato l’abilitazione a una persona fisica o a un’impresa di revisione, ne informa gli uffici competenti del registro di commercio e, se del caso, la borsa e le autorità di sorveglianza che, secondo l’iscrizione nel registro di commercio, hanno concesso un’abilitazione fondata su una legge speciale.
-
-## Sezione 2: Registro dei revisori
+[^chap2-1]: Nuova espressione giusta l’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -673,7 +785,7 @@ L’autorità di sorveglianza può rifiutarsi di trasmettere gli atti se:
 
 Al fine di applicare le disposizioni del CO, della LSR e delle rispettive norme di esecuzione, l’autorità di sorveglianza può collaborare e scambiare dati con le autorità del registro di commercio.
 
-## Sezione 3: Controllo delle imprese di revisione sotto sorveglianza statale
+## Capitolo 3: Controllo delle imprese di revisione sotto sorveglianza statale
 
 #### Art. 28
 
@@ -731,7 +843,7 @@ L’impresa di revisione sotto sorveglianza statale deve presentare i documenti 
 
 [^33-1]: Nuovo testo giusta l’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
-## Sezione 4: Autorità di sorveglianza
+## Capitolo 4: Autorità di sorveglianza
 
 #### Art. 34
 
@@ -770,7 +882,7 @@ L’autorità di sorveglianza riconosce un regolamento d’esame se:
 
 <sup>3</sup> Le indennità versate ai membri dell’organo paritetico sono fissate dalla commissione della cassa di PUBLICA.
 
-## Sezione 5: Emolumenti e tassa di sorveglianza
+## Capitolo 5: Emolumenti e tassa di sorveglianza
 
 #### Art. 37
 
@@ -882,7 +994,7 @@ La tassa di sorveglianza è dovuta per la durata dell’abilitazione.
 
 <sup>4</sup> In caso di litigio l’impresa di revisione può esigere che venga emanata una decisione impugnabile.
 
-## Sezione 6: Contravvenzioni
+## Capitolo 6: Contravvenzioni
 
 #### Art. 45
 
@@ -901,7 +1013,7 @@ La tassa di sorveglianza è dovuta per la durata dell’abilitazione.
 [^45-3]: Nuovo testo giusta l’all. 2 n. II 1 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^45-4]: Introdotto dal n. I dell’O del 14 nov. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
 
-## Sezione 7: Disposizioni transitorie e finali
+## Capitolo 7: Disposizioni transitorie e finali
 
 #### Art. 46
 
@@ -1008,6 +1120,16 @@ Nei due anni successivi all’entrata in vigore della presente ordinanza gli aud
 <sup>2</sup> I requisiti di cui all’articolo 7 capoversi 3 e 4 lettera b devono essere adempiuti al più tardi un anno dopo l’entrata in vigore della modifica del 23 novembre 2022.
 
 [^51d-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2022 ([RU 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
+
+#### Art. 51e
+
+**Disposizioni transitorie della modifica del 22 novembre 2023**[^51e-1]
+
+<sup>1</sup> Le abilitazioni per la verifica secondo la LAVS rilasciate dall’Ufficio federale delle assicurazioni sociali secondo il diritto anteriore restano valide. Dopo due anni vengono automaticamente soppresse, se non è rilasciata un’abilitazione secondo il nuovo diritto in base alle condizioni di cui agli articoli 11*n*–11*p*.
+
+<sup>2</sup> Le domande di abilitazione di imprese di revisione e di auditor responsabili in merito alle quali l’Ufficio federale delle assicurazioni sociali non ha preso una decisione all’entrata in vigore della modifica del 22 novembre 2023 sono valutate dall’autorità di sorveglianza secondo il nuovo diritto.
+
+[^51e-1]: Introdotto dall’all. n. 1 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 52
 

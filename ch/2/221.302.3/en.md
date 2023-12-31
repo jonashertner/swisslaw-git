@@ -4,35 +4,45 @@ title: "Ordinance of 22 August 2007 on the Licensing and Oversight of Auditors (
 short: AOO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: en
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2007-534-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2007-534-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
 # Ordinance on the Licensing and Oversight of Auditors
 
-English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
 (Auditor Oversight Ordinance, AOO)
 
-of 22 August 2007 (Status as of 1 January 2023)
+of 22 August 2007 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
-based on Articles 9*a* paragraph 4<sup>bis</sup>, 15 paragraph 2, 21 paragraph 3, 39 paragraph 1 letter d and 41 of the Auditor Oversight Act of 16 December 2005[^t-1] (AOA), on Article 936 of the Code of Obligations[^t-2] (CO) and on Article 46*a* of the Government and Administration Organisation Act of 21 March 1997[^t-3] (GAOA),[^t-4]
+based on Articles 9*a* paragraph 4<sup>bis</sup>, 15 paragraph 2, 21 paragraph 3, 39 paragraph 1 letter d and 41 of the Auditor Oversight Act of 16 December 2005[^ingress-1] (AOA), on Article 936 of the Code of Obligations[^ingress-2] (CO) and on Article 46*a* of the Government and Administration Organisation Act of 21 March 1997[^ingress-3] (GAOA),[^ingress-4]
 
 ordains:
 
-[^t-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^t-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). This article has a new version. Now: Art 943 CO.
-[^t-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^t-4]: Amended by No II 1 of the O of 30 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^ingress-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^ingress-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). This article has a new version. Now: Art 943 CO.
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-4]: Amended by No II 1 of the O of 30 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
-## Section 1 Licence to Provide Audit Services
+## Chapter 1 Licence to Provide Audit Services
+
+[^chap1-1]
+
+[^chap1-1]: Amended by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### Section 1 General Provisions
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Inserted by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 1
 
@@ -45,13 +55,18 @@ A licence application must be submitted to the Oversight Authority by:
 - a. any individual who wishes to provide audit services as an auditor or audit expert;
 - b. any audit firm that wishes to provide audit services as an auditor, audit expert or audit firm under state oversight;
 - c.[^1-1] any individual who based on a licence in accordance with letter a wishes to perform audits under the financial market acts as a lead auditor in accordance with Article 1 paragraph 1 of the Financial Market Supervision Act of 22 June 2007[^1-2] (financial market acts) (Art. 9*a* para. 2 AOA);
-- d.[^1-3] any audit firm which based on the licence in accordance with letter b wishes to perform audits under the financial market acts as an audit company (Art. 9*a* para. 1 AOA).
+- d.[^1-3] any audit firm which based on the licence in accordance with letter b wishes to perform audits under the financial market acts as an audit company (Art. 9*a* para. 1 AOA);
+- e.[^1-4] any individual who, based on a licence in accordance with letter a, wishes to perform audits in accordance with Articles 68 and 68*a* of the Federal Act of 20 December 1946[^1-5] on Old-Age and Survivors’ Insurance (OASIA) as a lead auditor;
+- f.[^1-6] any audit firm which, based on the licence in accordance with letter b, wishes to perform audits in accordance with Articles 68 and 68*a* OASIA as an audit company.
 
 <sup>2</sup> The applicant must submit evidence of payment of the fee in accordance with Article 38 with the application.
 
 [^1-1]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^1-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^1-3]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^1-4]: Inserted by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-6]: Inserted by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 2
 
@@ -153,7 +168,7 @@ An audit firm has a management structure that is sufficient to supervise the ind
 
 <sup>2</sup> *...*[^9-1]
 
-[^9-1]: Repealed by No I of the O of 23 Aug. 2017, with effect since 1 Oct. 2017 (AS **2017** 4863). No I der V vom 23. Aug. 2017, mit Wirkung seit 1. Okt. 2017
+[^9-1]: Repealed by No I of the O of 23 Aug. 2017, with effect since 1 Oct. 2017 ([AS 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
 
 #### Art. 9a
 
@@ -190,13 +205,7 @@ Audit firms domiciled abroad shall be licensed as audit firms under state oversi
 
 #### Art. 10a
 
-[^10a-1]
-
-[^10a-1]: Inserted by No I of the O of 1 July 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Repealed by No I of the O of 23 Aug. 2017, with effect since 1 Oct. 2017 ([AS 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
-
-#### Art. 11
-
-**Sufficient insurance against liability risks**
+**Sufficient insurance against liability risks**[^10a-1]
 
 <sup>1</sup> An audit firm under state oversight shall be sufficiently insured against liability risks if it has taken out insurance against economic loss or has equivalent financial security to cover its liability arising from the auditing of public companies.
 
@@ -218,34 +227,81 @@ The insured sum that is available to cover all claims made within a year must am
 
 <sup>7</sup> The audit firm under state oversight must inform the Oversight Authority without delay of any change to the insurance contract. This shall also apply by analogy to equivalent forms of financial security.
 
+[^10a-1]: Originally Art. 11.
+
+#### Art. 10b
+
+**Effect of decision to grant licence**[^10b-1]
+
+<sup>1</sup> The applicant may only provide audit services once the Oversight Authority has taken the decision to grant the licence.
+
+<sup>2</sup> The licence to operate as an audit firm under state oversight and as an audit expert shall at the same time cover the licence to provide audit services, for which federal law prescribes less stringent professional requirements.
+
+<sup>2bis</sup> The licence of an audit firm or a lead auditor for regulatory audit which has been granted for a specific oversight area does not cover auditing under Article 24 paragraph 1 letter a of the Financial Market Auditing Act of 22 June 2007[^10b-2] in another oversight area.[^10b-3]
+
+<sup>2ter</sup> The licence granted for auditing in an oversight area in accordance with Article 11*a* paragraph 1 letters a–c also covers auditing compliance with the provisions of the Anti-Money Laundering Act of 10 October 1997[^10b-4] and the Federal Act on Financial Services of 15 June 2018[^10b-5] in the oversight area concerned.[^10b-6]
+
+<sup>3</sup> Before the decision to grant the licence is taken, titles such as «licensed auditor», «licensed audit expert», «licensed lead auditor for regulatory audits», «licensed audit firm», «audit firm under state oversight» or «licensed audit company for regulatory audits» may not be used.[^10b-7]
+
+[^10b-1]: Originally Art. 12.
+[^10b-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^10b-3]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^10b-4]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10b-5]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^10b-6]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)). Amended by Annex 1 No II 1 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^10b-7]: Amended by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+
+#### Art. 10c
+
+**Duty to assist**[^10c-1]
+
+Individuals and firms who may be subject to the AOA on the basis of their commercial register entry, business activity or business advertising may be asked by the Oversight Authority to supply all the documents and information that the latter needs to assess whether they are undertaking an activity that requires a licence.
+
+[^10c-1]: Originally Art. 14.
+
+#### Art. 11
+
+**Notification of withdrawal of licence**[^11-1]
+
+If the Oversight Authority withdraws the licence from an individual or an audit firm for a limited or unlimited period, it shall inform the competent commercial register offices, the stock exchange (if applicable) and the oversight authorities that, according to the entry in the register of auditors, have granted a licence in accordance with specific legislation.
+
+[^11-1]: Originally Art. 15.
+
+### Section 2 Licensing for Audits under the Financial Markets Acts
+
+[^chap1-sec2-1]
+
+[^chap1-sec2-1]: Inserted by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 #### Art. 11a
 
-**Licence for the audit by the financial market acts**[^11a-1]
+**Licensing[^11a-2]**[^11a-1]
 
 <sup>1</sup>
 
 The Oversight Authority shall grant licences to audit firms under state oversight and to lead auditors for audits under the financial market acts for the following oversight areas:
 
-- a.[^11a-2] banks in accordance with the Banking Act of 8 November 1934[^11a-3] (BankA), financial market infrastructures, financial groups and public takeover offers in accordance with the Financial Market Infrastructure Act of 19 June 2015[^11a-4], securities firms in accordance with the Financial Institutions Act of 15 June 2018[^11a-5] (FinIA) and mortgage bond clearing houses in accordance with the Mortgage Bond Act of 25 June 1930[^11a-6];
-- a.<sup>bis</sup> [^11a-7] persons in accordance with Article 1*b* BankA;
-- b. insurance companies in accordance with the Insurance Supervision Act of 17 December 2004[^11a-8];
-- c.[^11a-9] fund management companies and managers of collective assets in accordance with FinIA, investment funds, investment companies with variable capital (SICAV), limited liability companies for collective capital investments, investment companies with fixed capital (SICAF), depository banks and representatives of foreign collective capital investments in accordance with the Collective Investment Schemes Act of 23 June 2006[^11a-10];
-- d.[^11a-11] ...
+- a.[^11a-3] banks in accordance with the Banking Act of 8 November 1934[^11a-4] (BankA), financial market infrastructures, financial groups and public takeover offers in accordance with the Financial Market Infrastructure Act of 19 June 2015[^11a-5], securities firms in accordance with the Financial Institutions Act of 15 June 2018[^11a-6] (FinIA) and mortgage bond clearing houses in accordance with the Mortgage Bond Act of 25 June 1930[^11a-7];
+- a.<sup>bis</sup> [^11a-8] persons in accordance with Article 1*b* BankA;
+- b. insurance companies in accordance with the Insurance Supervision Act of 17 December 2004[^11a-9];
+- c.[^11a-10] fund management companies and managers of collective assets in accordance with FinIA, investment funds, investment companies with variable capital (SICAV), limited liability companies for collective capital investments, investment companies with fixed capital (SICAF), depository banks and representatives of foreign collective capital investments in accordance with the Collective Investment Schemes Act of 23 June 2006[^11a-11];
+- d.[^11a-12] ...
 
-<sup>2</sup> ...[^11a-12]
+<sup>2</sup> ...[^11a-13]
 
 [^11a-1]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^11a-2]: Amended by No I 2 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^11a-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^11a-4]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^11a-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^11a-6]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^11a-7]: Inserted by No II 1 of the O of 30 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^11a-8]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^11a-9]: Amended by Annex 1 No II 1 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^11a-10]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^11a-11]: Repealed by Annex 1 No II 1 of the Financial Institutions Ordinance of 6 Nov. 2019, with effect from 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-2]: Amended by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^11a-3]: Amended by No I 2 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^11a-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^11a-5]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^11a-6]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^11a-7]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^11a-8]: Inserted by No II 1 of the O of 30 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^11a-9]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^11a-10]: Amended by Annex 1 No II 1 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-11]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^11a-12]: Repealed by Annex 1 No II 1 of the Financial Institutions Ordinance of 6 Nov. 2019, with effect from 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-13]: Repealed by Annex 1 No II 1 of the Financial Institutions Ordinance of 6 Nov. 2019, with effect from 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 11b
 
@@ -394,6 +450,7 @@ Continuing education and training courses in accordance with Articles 11*d*-11*f
 - a. The continuing education and training include the audit fields for each oversight area defined by Article 3 of the Financial Market Auditing Ordinance of 5 November 2014[^11h-3] (FMAO-FINMA).
 - b. External and internal continuing education and training events last at least one hour.
 - c. At least three persons must participate in internal continuing education and training events.
+- d.[^11h-4] A learning assessment is carried out in the case of asynchronous virtual events.
 
 <sup>2</sup> The actual duration of the continuing education and training event shall be credited. Specialised lectures and specialised training shall be credited as double the lecture or class duration.
 
@@ -402,6 +459,7 @@ Continuing education and training courses in accordance with Articles 11*d*-11*f
 [^11h-1]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^11h-2]: Amended by Annex 1 No II 1 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^11h-3]: [SR 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
+[^11h-4]: Inserted by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 11i–11k
 
@@ -417,26 +475,75 @@ The regulations on independence (Art. 11 AOA and Art. 728 CO) shall be applied t
 
 [^11l-1]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
+### Section 3 Licensing for Audits under the Federal Act on Old-Age and Survivors’ Insurance
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Inserted by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 11m
+
+**Licensing**
+
+The Oversight Authority shall grant licences to audit firms and to lead auditors for the audits under Articles 68 and 68*a* OASIA[^11m-1] provided they meet the requirements of Articles 11*n*–11*p*.
+
+[^11m-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 11n
+
+**Sufficient organisation**
+
+An audit firm is sufficiently organised for the audits under OASIA[^11n-1] if it:
+
+- a. it has at least two lead auditors who hold a licence under Article 11*m*;
+- b. after three years at the latest from when the licence is granted, it has at least two audit mandates from OASI offices or branch offices in terms of Article 161 paragraphs 1 and 2 of the Ordinance of 31 October 1947[^11n-2] on Old-Age and Survivors’ Insurance;
+- c. it complies with the provisions regarding documentation and safekeeping of documents in accordance with Article 730*c* CO regardless of its legal form.
+
+[^11n-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11n-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 11o
+
+**Expertise and practical experience**
+
+<sup>1</sup>
+
+The lead auditor is deemed to have the necessary expertise and practical experience for the licence for auditing OASI offices and branch office if he or she can provide evidence of the following:
+
+- a. 250 auditing hours in principal audits within the six years prior to submitting the licence application;
+- b. 200 auditing hours in financial statement audits within the six years prior to submitting the licence application; and
+- c. 12 hours of continuing education and training in the field of activity of Article 68*a* paragraph 2 letters a, b and e OASIA[^11o-1] within the three years prior to submitting the licence application.
+
+<sup>2</sup>
+
+After being granted the licence, the lead auditor shall be deemed to continue to have the required expertise and practical experience in auditing if he or she provides evidence of the following for the last three years:
+
+- a. an average of 40 auditing hours in principal audits and 30 auditing hours in financial statement audits; and
+- b. a total of 12 hours of continuing education and training in the field of activity of Article 68*a* paragraph 2 letters a, b and e OASIA.
+
+[^11o-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 11p
+
+**Continuing education and training**
+
+Article 11*h* paragraphs 1 letters b–d and 2 and 3 apply to continuing education and training relating to the tasks in accordance with Article 68*a* paragraph 2 letters a, b and e OASIA.
+
+#### Art. 11q
+
+**Withdrawal of the licence**
+
+<sup>1</sup> If a licensed individual or a licensed audit firm no longer meets the licensing requirements in accordance with Articles 11*n*–11*p*, the Oversight Authority may withdraw the licence for a limited or unlimited period.
+
+<sup>2</sup> Provided the licensing requirements can be met again, advance warning shall be given of withdrawal.
+
+<sup>3</sup> The Oversight Authority issues a written reprimand if withdrawal of the licence would be disproportionate.
+
 #### Art. 12
 
-**Effect of decision to grant licence**
+[^12-1]
 
-<sup>1</sup> The applicant may only provide audit services once the Oversight Authority has taken the decision to grant the licence.
-
-<sup>2</sup> The licence to operate as an audit firm under state oversight and as an audit expert shall at the same time cover the licence to provide audit services, for which federal law prescribes less stringent professional requirements.
-
-<sup>2bis</sup> The licence of an audit firm or a lead auditor for regulatory audit which has been granted for a specific oversight area does not cover auditing under Article 24 paragraph 1 letter a of the Financial Market Auditing Act of 22 June 2007[^12-1] in another oversight area.[^12-2]
-
-<sup>2ter</sup> The licence granted for auditing in an oversight area in accordance with Article 11*a* paragraph 1 letters a–c also covers auditing compliance with the provisions of the Anti-Money Laundering Act of 10 October 1997[^12-3] and the Federal Act on Financial Services of 15 June 2018[^12-4] in the oversight area concerned.[^12-5]
-
-<sup>3</sup> Before the decision to grant the licence is taken, titles such as «licensed auditor», «licensed audit expert», «licensed lead auditor for regulatory audits», «licensed audit firm», «audit firm under state oversight» or «licensed audit company for regulatory audits» may not be used.[^12-6]
-
-[^12-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^12-2]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^12-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^12-4]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^12-5]: Inserted by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)). Amended by Annex 1 No II 1 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^12-6]: Amended by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^12-1]: Repealed by Annex No 1 of the O of 22 Nov. 2023, with effect from 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 13
 
@@ -447,19 +554,17 @@ The regulations on independence (Art. 11 AOA and Art. 728 CO) shall be applied t
 [^13-1]: Repealed by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, with effect from 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^13-2]: Repealed by No 1 of the O of 1 July 2015, with effect since 1 Oct. 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
 
-#### Art. 14
+#### Art. 14 and 15
 
-**Duty to assist**
+[^1415-1]
 
-Individuals and firms who may be subject to the AOA on the basis of their commercial register entry, business activity or business advertising may be asked by the Oversight Authority to supply all the documents and information that the latter needs to assess whether they are undertaking an activity that requires a licence.
+[^1415-1]: Repealed by Annex No 1 of the O of 22 Nov. 2023, with effect from 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
-#### Art. 15
+## Chapter 2 Register of Auditors
 
-**Notification of withdrawal of licence**
+[^chap2-1]
 
-If the Oversight Authority withdraws the licence from an individual or an audit firm for a limited or unlimited period, it shall inform the competent commercial register offices, the stock exchange (if applicable) and the oversight authorities that, according to the entry in the register of auditors, have granted a licence in accordance with specific legislation.
-
-## Section 2 Register of Auditors
+[^chap2-1]: Term in accordance with Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). This amendment has been made throughout the text.
 
 #### Art. 16
 
@@ -666,7 +771,7 @@ The Oversight Authority may refuse to hand over records if:
 
 In order to enforce the provisions of the CO, the AOA and the relevant implementing provisions, the Oversight Authority may work and exchange data with the commercial register authorities.
 
-## Section 3 Inspection of Audit Firms under State Oversight
+## Chapter 3 Inspection of Audit Firms under State Oversight
 
 #### Art. 28
 
@@ -724,7 +829,7 @@ The audit firm under state oversight must submit the updated licensing documents
 
 [^33-1]: Amended by Annex No 1 of the Financial Market Auditing Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
-## Section 4 Oversight Authority
+## Chapter 4 Oversight Authority
 
 #### Art. 34
 
@@ -764,7 +869,7 @@ The Oversight Authority shall recognise examination regulations if:
 
 <sup>3</sup> PUBLICA’s Fund Commission shall decide on the remuneration to be paid to members of the joint body.
 
-## Section 5 Fees and Oversight Levy
+## Chapter 5 Fees and Oversight Levy
 
 #### Art. 37
 
@@ -876,7 +981,7 @@ The oversight levy shall be paid for the duration of the licence.
 
 <sup>4</sup> If the oversight levy is disputed, the audit firm may demand an appealable decision.
 
-## Section 6 Contraventions
+## Chapter 6 Contraventions
 
 #### Art. 45
 
@@ -895,7 +1000,7 @@ Any person who wilfully:
 [^45-3]: Amended by No I of the O of 14 Nov. 2012, in force since 1 Dec. 2012 ([AS 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
 [^45-4]: Inserted by No I of the O of 14 Nov. 2012, in force since 1 Dec. 2012 ([AS 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
 
-## Section 7 Final Provisions
+## Chapter 7 Final Provisions
 
 #### Art. 46
 
@@ -998,9 +1103,19 @@ In the first two years after this Ordinance comes into force, lead auditors who 
 
 <sup>1</sup> Individuals with qualifications in accordance with Article 4 paragraph 2 letter b AOA must fulfil the requirements of Article 7 paragraph 2 within three years at the latest of the amendment of 23 November 2022 coming into force and individuals with qualifications in accordance with Article 4 paragraph 2 letter c AOA must fulfil the requirements within five years at the latest of the amendment of 23 November 2022 coming into force.
 
-<sup>2</sup> The requirements of Article 7 paragraphs 3 and 4 letter b must be fulfilled within one year at the latest of the amendment of 23 November 2022 coming into force .
+<sup>2</sup> The requirements of Article 7 paragraphs 3 and 4 letter b must be fulfilled within one year at the latest of the amendment of 23 November 2022 coming into force.
 
 [^51d-1]: Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
+
+#### Art. 51e
+
+**Transitional provisions to the Amendment of 22 November 2023**[^51e-1]
+
+<sup>1</sup> The licences for auditing under the OASIA granted by the Federal Social Insurance Office under the previous law remain valid. After two years, they shall be automatically terminated unless a new licence has been granted under the new law in accordance with the requirements of Articles 11*n*–11*p*.
+
+<sup>2</sup> Applications for licences from audit firms and from lead auditors that have not been decided on by Federal Social Insurance Office when this amendment comes into force shall be assessed by the Oversight Authority under the new law.
+
+[^51e-1]: Inserted by Annex No 1 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 52
 
@@ -1029,15 +1144,15 @@ Repeal and amendment of current legislation
 
 I
 
-- [tab] The Ordinance of 15 June 1992[^t-5] on the Professional Requirements for Specially Qualified Auditors is repealed.
+- [tab] The Ordinance of 15 June 1992[^t-1] on the Professional Requirements for Specially Qualified Auditors is repealed.
 
 II
 
 The Ordinances listed below are amended as follows:
 
-…[^t-6]
+…[^t-2]
 
-*Annex 2*[^t-7]
+*Annex 2*[^t-3]
 
 (Art. 10 para. 2)
 
@@ -1095,6 +1210,6 @@ List of recognised foreign audit oversight authorities
 <tr><td>USA</td><td>Public Company Accounting Oversight Board (PCAOB)</td></tr>
 </table>
 
-[^t-5]: [[AS 1992 1210](https://fedlex.data.admin.ch/eli/oc/1992/1210_1210_1210)]
-[^t-6]: The amendments may be consulted under [AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534).
-[^t-7]: Inserted by No II of the O of 1 July 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Amended by No II of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
+[^t-1]: [[AS 1992 1210](https://fedlex.data.admin.ch/eli/oc/1992/1210_1210_1210)]
+[^t-2]: The amendments may be consulted under [AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534).
+[^t-3]: Inserted by No II of the O of 1 July 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Amended by No II of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).

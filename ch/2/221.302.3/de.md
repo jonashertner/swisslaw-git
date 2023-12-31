@@ -4,11 +4,11 @@ title: "Verordnung vom 22. August 2007 über die Zulassung und Beaufsichtigung d
 short: RAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-534-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-534-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/de"
 
 (Revisionsaufsichtsverordnung, RAV)
 
-vom 22. August 2007 (Stand am 1. Januar 2023)
+vom 22. August 2007 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -30,7 +30,17 @@ verordnet:
 [^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-4]: Fassung gemäss Ziff. II 1 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
-## 1. Abschnitt: Zulassung zur Erbringung von Revisionsdienstleistungen
+## 1. Kapitel: Zulassung zur Erbringung von Revisionsdienstleistungen
+
+[^chap1-1]
+
+[^chap1-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Eingefügt durch Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 1
 
@@ -43,13 +53,18 @@ Ein Gesuch um Zulassung bei der Aufsichtsbehörde muss einreichen:
 - a. jede natürliche Person, die als Revisorin oder Revisor oder als Revisionsexpertin oder Revisionsexperte Revisionsdienstleistungen erbringen will;
 - b. jedes Revisionsunternehmen, das als Revisor, als Revisionsexperte oder als staatlich beaufsichtigtes Revisionsunternehmen Revisionsdienstleistungen erbringen will;
 - c.[^1-1] jede natürliche Person, die basierend auf einer Zulassung gemäss Buchstabe a als leitende Prüferin oder leitender Prüfer Prüfungen nach den Finanzmarktgesetzen nach Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^1-2] (Finanzmarktgesetze) durchführen will (Art. 9*a* Abs. 2 RAG);
-- d.[^1-3] jedes Revisionsunternehmen, das basierend auf der Zulassung gemäss Buchstabe b als Prüfgesellschaft Prüfungen nach den Finanzmarktgesetzen durchführen will (Art. 9*a* Abs. 1 RAG).
+- d.[^1-3] jedes Revisionsunternehmen, das basierend auf der Zulassung gemäss Buchstabe b als Prüfgesellschaft Prüfungen nach den Finanzmarktgesetzen durchführen will (Art. 9*a* Abs. 1 RAG);
+- e.[^1-4] jede natürliche Person, die basierend auf einer Zulassung gemäss Buchstabe a als leitende Prüferin oder leitender Prüfer Prüfungen nach den Artikeln 68 und 68*a* des Bundesgesetzes vom 20. Dezember 1946[^1-5] über die Alters- und Hinterlassenenversicherung (AHVG) durchführen will;
+- f.[^1-6] jedes Revisionsunternehmen, das basierend auf der Zulassung gemäss Buchstabe b als Prüfgesellschaft Prüfungen nach den Artikeln 68 und 68*a* AHVG durchführen will.
 
 <sup>2</sup> Die Gesuchstellerin oder der Gesuchsteller muss zusammen mit dem Gesuch den Nachweis über die Einzahlung der Gebühr nach Artikel 38 einreichen.
 
 [^1-1]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^1-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^1-3]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^1-4]: Eingefügt durch Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-6]: Eingefügt durch Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 2
 
@@ -189,13 +204,7 @@ Revisionsunternehmen mit Sitz im Ausland werden als staatlich beaufsichtigte Rev
 
 #### Art. 10a
 
-[^10a-1]
-
-[^10a-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Aufgehoben durch Ziff. I der V vom 23. Aug. 2017, mit Wirkung seit 1. Okt. 2017 ([AS 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
-
-#### Art. 11
-
-**Ausreichende Versicherung der Haftungsrisiken**
+**Ausreichende Versicherung der Haftungsrisiken**[^10a-1]
 
 <sup>1</sup> Ein staatlich beaufsichtigtes Revisionsunternehmen ist für die Haftungsrisiken ausreichend versichert, wenn es zur Deckung seiner Haftpflicht aus der Prüfung von Gesellschaften des öffentlichen Interesses über eine Versicherung für Vermögensschäden oder über eine gleichwertige finanzielle Sicherheit verfügt.
 
@@ -217,34 +226,81 @@ Die Deckungssumme, die für alle Schadenfälle eines Jahres zur Verfügung steht
 
 <sup>7</sup> Das staatlich beaufsichtigte Revisionsunternehmen muss der Aufsichtsbehörde unverzüglich jede Änderung des Versicherungsvertrages mitteilen. Dies gilt sinngemäss auch für gleichwertige finanzielle Sicherheiten.
 
+[^10a-1]: Ursprünglich: Art. 11.
+
+#### Art. 10b
+
+**Wirkung der Zulassungsverfügung**[^10b-1]
+
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller darf Revisionsdienstleistungen erst erbringen, nachdem die Aufsichtsbehörde die Zulassung verfügt hat.
+
+<sup>2</sup> Die Zulassung als staatlich beaufsichtigtes Revisionsunternehmen und als Revisionsexpertin oder Revisionsexperte umfasst gleichzeitig die Zulassung für die Erbringung von Revisionsdienstleistungen, für die das Bundesrecht geringere fachliche Anforderungen vorschreibt.
+
+<sup>2bis</sup> Die Zulassung eines Revisionsunternehmens, einer leitenden Prüferin oder eines leitenden Prüfers, die in einem bestimmten Aufsichtsbereich erteilt wurde, ermächtigt nicht zur Durchführung einer Prüfung gemäss Artikel 24 Absatz 1 Buchstabe a des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^10b-2] in einem anderen Aufsichtsbereich.[^10b-3]
+
+<sup>2ter</sup> Die für die Prüfung in einem Aufsichtsbereich nach Artikel 11*a* Absatz 1 Buchstaben a–c erteilte Zulassung ermächtigt auch zur Prüfung der Einhaltung der Bestimmungen des Geldwäschereigesetzes vom 10. Oktober 1997[^10b-4] und des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^10b-5] im betroffenen Aufsichtsbereich.[^10b-6]
+
+<sup>3</sup> Bevor die Zulassung verfügt wird, dürfen Bezeichnungen wie «zugelassene Revisorin», «zugelassener Revisor», «zugelassene Revisionsexpertin», «zugelassener Revisionsexperte», «zugelassene leitende Prüferin», «zugelassener leitender Prüfer», «zugelassenes Revisionsunternehmen», «staatlich beaufsichtigtes Revisionsunternehmen» oder «zugelassene Prüfgesellschaft» nicht verwendet werden.[^10b-7]
+
+[^10b-1]: Ursprünglich: Art. 12.
+[^10b-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^10b-3]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^10b-4]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10b-5]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^10b-6]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)). Fassung gemäss Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^10b-7]: Fassung gemäss Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+
+#### Art. 10c
+
+**Mitwirkungspflicht**[^10c-1]
+
+Die Aufsichtsbehörde kann von Personen und Unternehmen, die nach Handelsregistereintragung, Geschäftstätigkeit oder Geschäftswerbung dem RAG unterstehen könnten, alle Unterlagen und Aufschlüsse verlangen, die sie benötigt, um zu beurteilen, ob eine zulassungspflichtige Tätigkeit vorliegt.
+
+[^10c-1]: Ursprünglich: Art. 14.
+
+#### Art. 11
+
+**Mitteilung des Entzugs der Zulassung**[^11-1]
+
+Entzieht die Aufsichtsbehörde einer natürlichen Person oder einem Revisionsunternehmen die Zulassung befristet oder unbefristet, so informiert sie die zuständigen Handelsregisterämter, gegebenenfalls die Börse sowie diejenigen Aufsichtsbehörden, die gemäss Eintragung im Revisorenregister eine spezialgesetzliche Zulassung erteilt haben.
+
+[^11-1]: Ursprünglich: Art. 15.
+
+### 2. Abschnitt: Zulassung zur Prüfung nach den Finanzmarktgesetzen
+
+[^chap1-sec2-1]
+
+[^chap1-sec2-1]: Eingefügt durch Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 #### Art. 11a
 
-**Zulassung zur Prüfung nach den Finanzmarktgesetzen**[^11a-1]
+**Zulassung[^11a-2]**[^11a-1]
 
 <sup>1</sup>
 
 Die Aufsichtsbehörde erteilt Zulassungen an staatlich beaufsichtigte Revisionsunternehmen sowie an leitende Prüferinnen und leitende Prüfer für die Prüfung nach den Finanzmarktgesetzen für folgende Aufsichtsbereiche:
 
-- a.[^11a-2] Banken gemäss Bankengesetz vom 8. November 1934[^11a-3] (BankG), Finanzmarktinfrastrukturen, Finanzgruppen und öffentliche Kaufangebote gemäss Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^11a-4], Wertpapierhäuser gemäss Finanzinstitutsgesetz vom 15. Juni 2018[^11a-5] (FINIG) und Pfandbriefzentralen gemäss Pfandbriefgesetz vom 25. Juni 1930[^11a-6];
-- a<sup>bis</sup>.[^11a-7] Personen nach Artikel 1*b* BankG;
-- b. Versicherungsunternehmen gemäss Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^11a-8];
-- c.[^11a-9] Fondsleitungen und Verwalter von Kollektivvermögen gemäss FINIG, Anlagefonds, SICAV, Kommanditgesellschaften für kollektive Kapitalanlagen, SICAF, Depotbanken sowie Vertreterinnen und Vertreter ausländischer kollektiver Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^11a-10];
-- d.[^11a-11] …
+- a.[^11a-3] Banken gemäss Bankengesetz vom 8. November 1934[^11a-4] (BankG), Finanzmarktinfrastrukturen, Finanzgruppen und öffentliche Kaufangebote gemäss Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^11a-5], Wertpapierhäuser gemäss Finanzinstitutsgesetz vom 15. Juni 2018[^11a-6] (FINIG) und Pfandbriefzentralen gemäss Pfandbriefgesetz vom 25. Juni 1930[^11a-7];
+- a<sup>bis</sup>.[^11a-8] Personen nach Artikel 1*b* BankG;
+- b. Versicherungsunternehmen gemäss Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^11a-9];
+- c.[^11a-10] Fondsleitungen und Verwalter von Kollektivvermögen gemäss FINIG, Anlagefonds, SICAV, Kommanditgesellschaften für kollektive Kapitalanlagen, SICAF, Depotbanken sowie Vertreterinnen und Vertreter ausländischer kollektiver Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^11a-11];
+- d.[^11a-12] …
 
-<sup>2</sup> …[^11a-12]
+<sup>2</sup> …[^11a-13]
 
 [^11a-1]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^11a-2]: Fassung gemäss Ziff. I 2 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^11a-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^11a-4]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^11a-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^11a-6]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^11a-7]: Eingefügt durch Ziff. II 1 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^11a-8]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^11a-9]: Fassung gemäss Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^11a-10]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^11a-11]: Aufgehoben durch Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-2]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^11a-3]: Fassung gemäss Ziff. I 2 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^11a-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^11a-5]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^11a-6]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^11a-7]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^11a-8]: Eingefügt durch Ziff. II 1 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^11a-9]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^11a-10]: Fassung gemäss Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-11]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^11a-12]: Aufgehoben durch Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-13]: Aufgehoben durch Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 11b
 
@@ -394,6 +450,7 @@ Weiterbildungen nach den Artikeln 11*d*–11*f*, einschliesslich solcher unter N
 - a. Die Weiterbildung umfasst die nach Artikel 3 der Finanzmarktprüfverordnung vom 5. November 2014[^11h-3] (FINMA-PV) pro Aufsichtsbereich definierten Prüfgebiete.
 - b. Externe und interne Weiterbildungsveranstaltungen dauern mindestens eine Stunde.
 - c. An internen Weiterbildungsveranstaltungen nehmen mindestens drei Personen teil.
+- d.[^11h-4] Bei asynchronen virtuell durchgeführten Veranstaltungen wird eine Lernkontrolle durchgeführt.
 
 <sup>2</sup> Es wird die effektive Dauer der Weiterbildungsveranstaltung angerechnet. Fachreferate und Fachunterricht werden mit der doppelten Referats- oder Unterrichtsdauer angerechnet.
 
@@ -402,6 +459,7 @@ Weiterbildungen nach den Artikeln 11*d*–11*f*, einschliesslich solcher unter N
 [^11h-1]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^11h-2]: Fassung gemäss Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^11h-3]: [SR 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
+[^11h-4]: Eingefügt durch Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 11i–11k
 
@@ -417,26 +475,75 @@ Die Vorschriften zur Unabhängigkeit (Art. 11 RAG und 728 OR) sind bei der Prüf
 
 [^11l-1]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
+### 3. Abschnitt: Zulassung zur Prüfung nach dem Bundesgesetz über die Alters- und Hinterlassenenversicherung
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Eingefügt durch Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 11m
+
+**Zulassung**
+
+Die Aufsichtsbehörde erteilt Zulassungen an Revisionsunternehmen sowie an leitende Prüferinnen und leitende Prüfer für die Prüfung nach den Artikeln 68 und 68*a* AHVG[^11m-1], sofern diese die Voraussetzungen nach den Artikeln 11*n*–11*p* erfüllen.
+
+[^11m-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 11n
+
+**Ausreichende Organisation**
+
+Ein Revisionsunternehmen ist zur Prüfung nach dem AHVG[^11n-1] ausreichend organisiert, wenn es:
+
+- a. über mindestens zwei zugelassene leitende Prüferinnen oder leitende Prüfer mit einer Zulassung nach Artikel 11*m* verfügt;
+- b. spätestens drei Jahre nach Zulassungserteilung über mindestens zwei Prüfmandate von Ausgleichskassen oder Zweigstellen im Sinne von Artikel 161 Absätze 1 und 2 der Verordnung vom 31. Oktober 1947[^11n-2] über die Alters- und Hinterlassenenversicherung verfügt;
+- c. die Vorschriften zur Dokumentation und Aufbewahrung der Unterlagen nach Artikel 730*c* OR unabhängig von seiner Rechtsform einhält.
+
+[^11n-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11n-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 11o
+
+**Fachwissen und Praxiserfahrung**
+
+<sup>1</sup>
+
+Die leitende Prüferin oder der leitende Prüfer verfügt über das nötige Fachwissen und die nötige Praxiserfahrung für die Zulassung zur Prüfung von AHV‑Ausgleichskassen und Zweigstellen, wenn sie oder er folgende Nachweise erbringt:
+
+- a. 250 Prüfstunden im Rahmen von Hauptrevisionen innerhalb der letzten sechs Jahre vor der Einreichung des Zulassungsgesuchs;
+- b. 200 Prüfstunden im Rahmen von Abschlussrevisionen innerhalb der letzten sechs Jahre vor der Einreichung des Zulassungsgesuchs; und
+- c. 12 Stunden Weiterbildung im Aufgabenbereich von Artikel 68*a* Absatz 2 Buchstaben a, b und e AHVG[^11o-1] innerhalb der letzten drei Jahre vor der Einreichung des Zulassungsgesuchs.
+
+<sup>2</sup>
+
+Die leitende Prüferin oder der leitende Prüfer verfügt nach der Zulassung weiterhin über das nötige Fachwissen und die nötige Praxiserfahrung zur Prüfung, wenn sie oder er für die jeweils letzten drei Jahre folgende Nachweise erbringt:
+
+- a. durchschnittlich 40 Prüfstunden im Rahmen von Hauptrevisionen und 30 Prüfstunden im Rahmen von Abschlussrevisionen; und
+- b. insgesamt 12 Stunden Weiterbildung im Aufgabenbereich von Artikel 68*a* Absatz 2 Buchstaben a, b und e AHVG.
+
+[^11o-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 11p
+
+**Weiterbildung**
+
+Für die Weiterbildung betreffend die Aufgaben gemäss Artikel 68*a* Absatz 2 Buchstaben a, b und e AHVG gilt Artikel 11*h* Absätze 1 Buchstaben b–d sowie 2 und 3.
+
+#### Art. 11q
+
+**Entzug der Zulassung**
+
+<sup>1</sup> Erfüllt eine zugelassene natürliche Person oder ein zugelassenes Revisionsunternehmen die Zulassungsvoraussetzungen nach den Artikeln 11*n*–11*p* nicht mehr, so kann die Aufsichtsbehörde die Zulassung befristet oder unbefristet entziehen.
+
+<sup>2</sup> Sofern die Zulassungsvoraussetzungen wiederhergestellt werden können, ist der Entzug vorher anzudrohen.
+
+<sup>3</sup> Die Aufsichtsbehörde erteilt einen schriftlichen Verweis, wenn der Entzug der Zulassung unverhältnismässig wäre.
+
 #### Art. 12
 
-**Wirkung der Zulassungsverfügung**
+[^12-1]
 
-<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller darf Revisionsdienstleistungen erst erbringen, nachdem die Aufsichtsbehörde die Zulassung verfügt hat.
-
-<sup>2</sup> Die Zulassung als staatlich beaufsichtigtes Revisionsunternehmen und als Revisionsexpertin oder Revisionsexperte umfasst gleichzeitig die Zulassung für die Erbringung von Revisionsdienstleistungen, für die das Bundesrecht geringere fachliche Anforderungen vorschreibt.
-
-<sup>2bis</sup> Die Zulassung eines Revisionsunternehmens, einer leitenden Prüferin oder eines leitenden Prüfers, die in einem bestimmten Aufsichtsbereich erteilt wurde, ermächtigt nicht zur Durchführung einer Prüfung gemäss Artikel 24 Absatz 1 Buchstabe a des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^12-1] in einem anderen Aufsichtsbereich.[^12-2]
-
-<sup>2ter</sup> Die für die Prüfung in einem Aufsichtsbereich nach Artikel 11*a* Absatz 1 Buchstaben a–c erteilte Zulassung ermächtigt auch zur Prüfung der Einhaltung der Bestimmungen des Geldwäschereigesetzes vom 10. Oktober 1997[^12-3] und des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^12-4] im betroffenen Aufsichtsbereich.[^12-5]
-
-<sup>3</sup> Bevor die Zulassung verfügt wird, dürfen Bezeichnungen wie «zugelassene Revisorin», «zugelassener Revisor», «zugelassene Revisionsexpertin», «zugelassener Revisionsexperte», «zugelassene leitende Prüferin», «zugelassener leitender Prüfer», «zugelassenes Revisionsunternehmen», «staatlich beaufsichtigtes Revisionsunternehmen» oder «zugelassene Prüfgesellschaft» nicht verwendet werden.[^12-6]
-
-[^12-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^12-2]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^12-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^12-4]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^12-5]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)). Fassung gemäss Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^12-6]: Fassung gemäss Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^12-1]: Aufgehoben durch Anhang Ziff. 1 der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 13
 
@@ -447,19 +554,15 @@ Die Vorschriften zur Unabhängigkeit (Art. 11 RAG und 728 OR) sind bei der Prüf
 [^13-1]: Aufgehoben durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^13-2]: Aufgehoben durch Ziff. I der V vom 1. Juli 2015, mit Wirkung seit 1. Okt. 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
 
-#### Art. 14
+#### Art. 14 und 15
 
-**Mitwirkungspflicht**
+[^1415-1]
 
-Die Aufsichtsbehörde kann von Personen und Unternehmen, die nach Handelsregistereintragung, Geschäftstätigkeit oder Geschäftswerbung dem RAG unterstehen könnten, alle Unterlagen und Aufschlüsse verlangen, die sie benötigt, um zu beurteilen, ob eine zulassungspflichtige Tätigkeit vorliegt.
+[^1415-1]: Aufgehoben durch Anhang Ziff. 1 der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
-#### Art. 15
+## 2. Kapitel[^chap2-1]: Revisorenregister
 
-**Mitteilung des Entzugs der Zulassung**
-
-Entzieht die Aufsichtsbehörde einer natürlichen Person oder einem Revisionsunternehmen die Zulassung befristet oder unbefristet, so informiert sie die zuständigen Handelsregisterämter, gegebenenfalls die Börse sowie diejenigen Aufsichtsbehörden, die gemäss Eintragung im Revisorenregister eine spezialgesetzliche Zulassung erteilt haben.
-
-## 2. Abschnitt: Revisorenregister
+[^chap2-1]: Ausdruck gemäss Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 16
 
@@ -671,7 +774,7 @@ Die Aufsichtsbehörde kann die Herausgabe von Akten verweigern, wenn:
 
 Die Aufsichtsbehörde kann zur Durchsetzung der Vorschriften des OR, des RAG und der jeweiligen Ausführungsbestimmungen mit den Handelsregisterbehörden zusammenarbeiten und mit diesen Daten austauschen.
 
-## 3. Abschnitt: Überprüfung staatlich beaufsichtigter Revisionsunternehmen
+## 3. Kapitel: Überprüfung staatlich beaufsichtigter Revisionsunternehmen
 
 #### Art. 28
 
@@ -729,7 +832,7 @@ Das staatlich beaufsichtigte Revisionsunternehmen muss die aktualisierten Zulass
 
 [^33-1]: Fassung gemäss Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
-## 4. Abschnitt: Aufsichtsbehörde
+## 4. Kapitel: Aufsichtsbehörde
 
 #### Art. 34
 
@@ -769,7 +872,7 @@ Die Aufsichtsbehörde anerkennt ein Prüfungsreglement, wenn:
 
 <sup>3</sup> Die Entschädigungen an die Mitglieder des paritätischen Organs werden von der Kassenkommission von PUBLICA festgelegt.
 
-## 5. Abschnitt: Gebühren und Aufsichtsabgabe
+## 5. Kapitel: Gebühren und Aufsichtsabgabe
 
 #### Art. 37
 
@@ -881,7 +984,7 @@ Die Aufsichtsabgabe ist während der Dauer der Zulassung zu entrichten.
 
 <sup>4</sup> Ist die Aufsichtsabgabe strittig, so kann das Revisionsunternehmen eine beschwerdefähige Verfügung verlangen.
 
-## 6. Abschnitt: Übertretungen
+## 6. Kapitel: Übertretungen
 
 #### Art. 45
 
@@ -900,7 +1003,7 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:[^45-1]
 [^45-3]: Fassung gemäss Anhang 2 Ziff. II 1 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^45-4]: Eingefügt durch Ziff. I der V vom 14. Nov. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
 
-## 7. Abschnitt: Schlussbestimmungen
+## 7. Kapitel: Schlussbestimmungen
 
 #### Art. 46
 
@@ -1006,6 +1109,16 @@ In den ersten beiden Jahren nach Inkrafttreten dieser Verordnung können sich le
 <sup>2</sup> Die Anforderungen nach Artikel 7 Absätze 3 und 4 Buchstabe b müssen spätestens ein Jahr nach Inkrafttreten der Änderung vom 23. November 2022 erfüllt werden.
 
 [^51d-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
+
+#### Art. 51e
+
+**Übergangsbestimmungen zur Änderung vom 22. November 2023**[^51e-1]
+
+<sup>1</sup> Die durch das Bundesamt für Sozialversicherungen nach altem Recht erteilten Zulassungen zur Prüfung nach dem AHVG bleiben gültig. Nach Ablauf von zwei Jahren werden sie automatisch aufgehoben, sofern nicht eine Zulassung nach neuem Recht gemäss den Anforderungen nach den Artikeln 11*n*–11*p* erteilt wird.
+
+<sup>2</sup> Zulassungsgesuche von Revisionsunternehmen sowie von leitenden Prüferinnen und Prüfern, die beim Inkrafttreten dieser Änderung vom Bundesamt für Sozialversicherungen nicht entschieden sind, werden von der Aufsichtsbehörde nach neuem Recht beurteilt.
+
+[^51e-1]: Eingefügt durch Anhang Ziff. 1 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 52
 

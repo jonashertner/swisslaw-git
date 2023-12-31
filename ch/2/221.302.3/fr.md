@@ -4,11 +4,11 @@ title: "Ordonnance du 22 août 2007 sur l'agrément et la surveillance des révi
 short: OSRev
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-534-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-534-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/fr"
 
 (Ordonnance sur la surveillance de la révision, OSRev)
 
-du 22 août 2007 (État le 1<sup>er</sup> janvier 2023)
+du 22 août 2007 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral,
 
@@ -30,7 +30,17 @@ arrête:
 [^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-4]: Nouvelle teneur selon le ch. II 1 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
-## Section 1 Agrément pour la fourniture de prestations en matière de révision
+## Chapitre 1 Agrément pour la fourniture de prestations en matière de révision
+
+[^chap1-1]
+
+[^chap1-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### Section 1 Dispositions générales
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Introduit par l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 1
 
@@ -43,13 +53,18 @@ Doit présenter une demande d’agrément à l’autorité de surveillance:
 - a. toute personne physique qui désire fournir des prestations en matière de révision en tant que réviseur ou expert-réviseur;
 - b. toute entreprise de révision qui désire fournir des prestations en matière de révision en tant que réviseur, expert-réviseur ou entreprise de révision soumise à la surveillance de l’État;
 - c.[^1-1] toute personne physique qui, sur la base de l’agrément selon la let. a, désire être agréée en qualité d’auditeur responsable pour l’audit selon les lois sur les marchés financiers au sens de l’art. 1, al. 1, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^1-2] (art. 9*a*, al. 2, LSR);
-- d.[^1-3] toute entreprise de révision qui, sur la base de l’agrément selon la let. b, désire être agréée en qualité de société d’audit selon les lois sur les marchés financiers (art. 9*a*, al. 1, LSR).
+- d.[^1-3] toute entreprise de révision qui, sur la base de l’agrément selon la let. b, désire être agréée en qualité de société d’audit selon les lois sur les marchés financiers (art. 9*a*, al. 1, LSR);
+- e.[^1-4] toute personne physique qui, sur la base de l’agrément selon la let. a, souhaite être agréée en qualité d’auditeur responsable pour l’audit en vertu des art. 68 et 68*a* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^1-5];
+- f.[^1-6] toute entreprise de révision qui, sur la base de l’agrément selon la let. b, souhaite être agréée en qualité de société d’audit en vertu des art. 68 et 68*a* LAVS.
 
 <sup>2</sup> Le requérant doit joindre à la demande la preuve du paiement de l’émolument dû pour l’agrément selon l’art. 38.
 
 [^1-1]: Introduite par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^1-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^1-3]: Introduite par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^1-4]: Introduite par l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^1-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-6]: Introduite par l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 2
 
@@ -190,13 +205,7 @@ Les entreprises de révision ayant leur siège à l’étranger sont agréées e
 
 #### Art. 10a
 
-[^10a-1]
-
-[^10a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Abrogé par le ch. I de l’O du 23 août 2017, avec effet au 1<sup>er</sup> oct. 2017 ([RO 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
-
-#### Art. 11
-
-**Couverture d’assurance suffisante contre les risques en matière de responsabilité civile**
+**Couverture d’assurance suffisante contre les risques en matière de responsabilité civile**[^10a-1]
 
 <sup>1</sup> Une entreprise de révision soumise à la surveillance de l’État est considérée comme ayant une couverture d’assurance suffisante contre les risques en matière de responsabilité civile si elle possède une assurance contre les dommages pécuniaires couvrant les risques en matière de responsabilité civile afférents à la révision de sociétés d’intérêt public ou si elle dispose de sûretés financières équivalentes.
 
@@ -218,34 +227,81 @@ La somme assurée doit se monter au minimum, pour l’ensemble des sinistres sur
 
 <sup>7</sup> L’entreprise de révision soumise à la surveillance de l’État est tenue de communiquer sans attendre à l’autorité de surveillance toute modification du contrat d’assurance. Cette disposition s’applique par analogie aux sûretés financières équivalentes.
 
+[^10a-1]: Anciennement art. 11.
+
+#### Art. 10b
+
+**Effet de la décision d’agrément**[^10b-1]
+
+<sup>1</sup> Le requérant ne peut fournir de prestations en matière de révision qu’après agrément sur décision de l’autorité de surveillance.
+
+<sup>2</sup> L’agrément d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur inclut l’autorisation de fournir des prestations en matière de révision pour lesquelles le droit fédéral prévoit des exigences professionnelles moins strictes.
+
+<sup>2bis</sup> L’agrément d’une entreprise de révision ou d’un auditeur responsable délivré dans un domaine de surveillance donné n’inclut pas l’autorisation d’effectuer un audit selon l’art. 24, al. 1, let. a, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^10b-2] dans un autre domaine de surveillance.[^10b-3]
+
+<sup>2ter</sup> Tout agrément délivré dans un domaine de surveillance prévu à l’art. 11*a*, let. a à c, autorise également à vérifier, dans le domaine de surveillance concerné, le respect des dispositions de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10b-4] et de la loi fédérale du 15 juin 2018 sur les services financiers[^10b-5].[^10b-6]
+
+<sup>3</sup> Avant la décision d’agrément, les appellations telles que «réviseur agréé», «expert-réviseur agréé», «auditeur responsable agréé», «entreprise de révision agréée» «entreprise de révision soumise à la surveillance de l’État» ou «société d’audit agréée» ne peuvent pas être utilisées.[^10b-7]
+
+[^10b-1]: Anciennement art. 12.
+[^10b-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^10b-3]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^10b-4]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10b-5]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^10b-6]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)). Nouvelle teneur selon l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^10b-7]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+
+#### Art. 10c
+
+**Devoir de coopération**[^10c-1]
+
+Les personnes physiques et les entreprises qui, d’après leur inscription au registre du commerce, leur activité ou leur publicité, pourraient être soumises à la LSR sont tenues de fournir sur demande à l’autorité de surveillance tous les documents et renseignements dont elle a besoin pour examiner si leur activité requiert un agrément.
+
+[^10c-1]: Anciennement art. 14.
+
+#### Art. 11
+
+**Communication du retrait de l’agrément**[^11-1]
+
+Lorsque l’autorité de surveillance retire l’agrément à une personne physique ou à une entreprise pour une durée déterminée ou indéterminée, elle en informe les offices compétents du registre du commerce, le cas échéant la bourse et les autorités de surveillance qui, aux termes de l’inscription au registre des réviseurs, l’ont agréée en vertu d’une loi spéciale.
+
+[^11-1]: Anciennement art. 15.
+
+### Section 2 Agrément pour l’audit selon les lois sur les marchés financiers
+
+[^chap1-sec2-1]
+
+[^chap1-sec2-1]: Introduit par l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 #### Art. 11a
 
-**Agrément pour l’audit selon les lois sur les marchés financiers**[^11a-1]
+**Agrément[^11a-2]**[^11a-1]
 
 <sup>1</sup>
 
 L’autorité de surveillance octroie des agréments aux entreprises de révision soumises à la surveillance de l’État ainsi qu’aux auditeurs responsables en vue de l’audit selon les lois sur les marchés financiers:
 
-- a.[^11a-2] des banques au sens de la loi du 8 novembre 1934 sur les banques (LB)[^11a-3], des infrastructures des marchés financiers, des groupes financiers et des offres publiques d’acquisition au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^11a-4]<sup>,</sup> des maisons de titres au sens de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^11a-5] et des centrales d’émission de lettres de gage au sens de la loi du 25 juin 1930 sur l’émission de lettres de gage[^11a-6]<sup>;</sup>
-- a<sup>bis</sup>.[^11a-7] des personnes visées à l’art. 1*b* LB;
-- b. des entreprises d’assurance selon la loi du 17 décembre 2004 sur la surveillance des assurances[^11a-8];
-- c.[^11a-9] des directions de fonds et des gestionnaires de fortune collective au sens de la LEFin, des fonds de placement, des SICAV, des sociétés en commandite de placements collectifs, des SICAF, des banques dépositaires et des représentants de placements collectifs étrangers au sens de la loi du 23 juin 2006 sur les placements collectifs[^11a-10];
-- d.[^11a-11] …
+- a.[^11a-3] des banques au sens de la loi du 8 novembre 1934 sur les banques (LB)[^11a-4], des infrastructures des marchés financiers, des groupes financiers et des offres publiques d’acquisition au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^11a-5]<sup>,</sup> des maisons de titres au sens de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^11a-6] et des centrales d’émission de lettres de gage au sens de la loi du 25 juin 1930 sur l’émission de lettres de gage[^11a-7]<sup>;</sup>
+- a<sup>bis</sup>.[^11a-8] des personnes visées à l’art. 1*b* LB;
+- b. des entreprises d’assurance selon la loi du 17 décembre 2004 sur la surveillance des assurances[^11a-9];
+- c.[^11a-10] des directions de fonds et des gestionnaires de fortune collective au sens de la LEFin, des fonds de placement, des SICAV, des sociétés en commandite de placements collectifs, des SICAF, des banques dépositaires et des représentants de placements collectifs étrangers au sens de la loi du 23 juin 2006 sur les placements collectifs[^11a-11];
+- d.[^11a-12] …
 
-<sup>2</sup> …[^11a-12]
+<sup>2</sup> …[^11a-13]
 
 [^11a-1]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^11a-2]: Nouvelle teneur selon le ch. I 2 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^11a-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^11a-4]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^11a-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^11a-6]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^11a-7]: Introduite par le ch. II 1 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^11a-8]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^11a-9]: Nouvelle teneur selon l’annexe 1 ch. II 1 de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^11a-10]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^11a-11]: Abrogée par l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^11a-12]: Abrogé par l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^11a-3]: Nouvelle teneur selon le ch. I 2 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^11a-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^11a-5]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^11a-6]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^11a-7]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^11a-8]: Introduite par le ch. II 1 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^11a-9]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^11a-10]: Nouvelle teneur selon l’annexe 1 ch. II 1 de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-11]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^11a-12]: Abrogée par l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-13]: Abrogé par l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 11b
 
@@ -392,7 +448,8 @@ La formation continue prévue aux art. 11*d* à 11*f*, y compris celle basée su
 
 - a. la formation continue comprend les domaines d’audit définis à l’art. 3 de l’ordonnance du 5 novembre 2014 sur les audits des marchés financiers (OA-FINMA)[^11h-3];
 - b. les séminaires externes et internes durent au moins une heure;
-- c. les séminaires internes comprennent au minimum trois participants.
+- c. les séminaires internes comprennent au minimum trois participants;
+- d.[^11h-4] les séminaires asynchrones organisés en ligne font l’objet d’un contrôle des connaissances.
 
 <sup>2</sup> Il est tenu compte de la durée effective des séminaires de formation continue. L’activité de conférencier lors de séminaires ainsi que l’enseignement professionnel dispensé comptent double par séminaire ou enseignement.
 
@@ -401,6 +458,7 @@ La formation continue prévue aux art. 11*d* à 11*f*, y compris celle basée su
 [^11h-1]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^11h-2]: Nouvelle teneur selon l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^11h-3]: [RS 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
+[^11h-4]: Introduite par l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 11i à 11k
 
@@ -416,26 +474,75 @@ Les dispositions relatives à l’indépendance (art. 11 LSR et 728 CO) s’appl
 
 [^11l-1]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
+### Section 3 Agrément pour l’audit selon la loi fédérale sur l’assurance-vieillesse et survivants
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Introduite par l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 11m
+
+**Agrément**
+
+L’autorité de surveillance octroie des agréments aux entreprises de révision et aux auditeurs responsables en vue de l’audit selon les art. 68 et 68*a* LAVS[^11m-1] si ceux-ci remplissent les conditions prévues aux art. 11*n* à 11*p*.
+
+[^11m-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 11n
+
+**Organisation suffisante**
+
+Une entreprise de révision est suffisamment organisée pour effectuer un audit selon la LAVS[^11n-1] lorsqu’elle:
+
+- a. dispose d’au moins deux auditeurs responsables au bénéfice d’un agrément visé à l’art. 11*m*;
+- b. dispose, au plus tard dans les trois ans qui suivent l’octroi de l’agrément, d’au moins deux mandats de révision de caisses de compensation ou d’agences au sens de l’art. 161, al. 1 et 2, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^11n-2];
+- c. respecte les dispositions relatives à la documentation et à la conservation des pièces selon l’art. 730*c* CO indépendamment de sa forme juridique.
+
+[^11n-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11n-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 11o
+
+**Connaissances techniques et expérience**
+
+<sup>1</sup>
+
+Un auditeur responsable dispose des connaissances techniques requises et de l’expérience nécessaire pour effectuer un audit de caisses de compensation AVS ou d’agences s’il peut justifier:
+
+- a. de 250 heures d’audit dans le cadre de révisions principales au cours des six années précédant le dépôt de la demande d’agrément;
+- b. de 200 heures d’audit dans le cadre de révisions de clôture au cours des six années précédant le dépôt de la demande d’agrément, et
+- c. de 12 heures de formation continue dans le domaine visé à l’art. 68*a*, al. 2, let. a, b et e, LAVS[^11o-1] au cours des trois années précédant le dépôt de la demande d’agrément.
+
+<sup>2</sup>
+
+Un auditeur responsable continue de disposer des connaissances techniques requises et de l’expérience nécessaire pour effectuer un audit s’il peut justifier, à chaque fois pour les trois dernières années:
+
+- a. de 40 heures d’audit en moyenne dans le cadre de révisions principales et de 30 heures d’audit en moyenne dans le cadre de révisions de clôture, et
+- b. de 12 heures de formation continue au total dans le domaine visé à l’art. 68*a*, al. 2, let. a, b et e, LAVS.
+
+[^11o-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 11p
+
+**Formation continue**
+
+L’art. 11*h*, al. 1, let. b à d, 2 et 3, s’applique à la formation continue concernant les tâches visées à l’art. 68*a*, al. 2, let. a, b et e, LAVS.
+
+#### Art. 11q
+
+**Retrait de l’agrément**
+
+<sup>1</sup> Lorsqu’une personne physique agréée ou une entreprise de révision agréée ne remplit plus les conditions d’agrément prévues aux art. 11*n* à 11*p*, l’autorité de surveillance peut lui retirer l’agrément pour une durée déterminée ou indéterminée.
+
+<sup>2</sup> Lorsque la personne ou l’entreprise concernée est en mesure de régulariser sa situation, l’autorité de surveillance lui adresse préalablement une commination de retrait.
+
+<sup>3</sup> L’autorité de surveillance lui adresse un avertissement écrit si le retrait de l’agrément serait disproportionné.
+
 #### Art. 12
 
-**Effet de la décision d’agrément**
+[^12-1]
 
-<sup>1</sup> Le requérant ne peut fournir de prestations en matière de révision qu’après agrément sur décision de l’autorité de surveillance.
-
-<sup>2</sup> L’agrément d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur inclut l’autorisation de fournir des prestations en matière de révision pour lesquelles le droit fédéral prévoit des exigences professionnelles moins strictes.
-
-<sup>2bis</sup> L’agrément d’une entreprise de révision ou d’un auditeur responsable délivré dans un domaine de surveillance donné n’inclut pas l’autorisation d’effectuer un audit selon l’art. 24, al. 1, let. a, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^12-1] dans un autre domaine de surveillance.[^12-2]
-
-<sup>2ter</sup> Tout agrément délivré dans un domaine de surveillance prévu à l’art. 11*a*, let. a à c, autorise également à vérifier, dans le domaine de surveillance concerné, le respect des dispositions de la loi du 10 octobre 1997 sur le blanchiment d’argent[^12-3] et de la loi fédérale du 15 juin 2018 sur les services financiers[^12-4].[^12-5]
-
-<sup>3</sup> Avant la décision d’agrément, les appellations telles que «réviseur agréé», «expert-réviseur agréé», «auditeur responsable agréé», «entreprise de révision agréée» «entreprise de révision soumise à la surveillance de l’État» ou «société d’audit agréée» ne peuvent pas être utilisées.[^12-6]
-
-[^12-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^12-2]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^12-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^12-4]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^12-5]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)). Nouvelle teneur selon l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^12-6]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^12-1]: Abrogé par l’annexe ch. 1 de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 13
 
@@ -446,19 +553,17 @@ Les dispositions relatives à l’indépendance (art. 11 LSR et 728 CO) s’appl
 [^13-1]: Abrogé par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^13-2]: Abrogé par le ch. I de l’O du 1<sup>er</sup> juil. 2015, avec effet au 1<sup>er</sup> oct. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
 
-#### Art. 14
+#### Art. 14 et 15
 
-**Devoir de coopération**
+[^1415-1]
 
-Les personnes physiques et les entreprises qui, d’après leur inscription au registre du commerce, leur activité ou leur publicité, pourraient être soumises à la LSR sont tenues de fournir sur demande à l’autorité de surveillance tous les documents et renseignements dont elle a besoin pour examiner si leur activité requiert un agrément.
+[^1415-1]: Abrogés par l’annexe ch. 1 de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
-#### Art. 15
+## Chapitre 2 Registre des réviseurs
 
-**Communication du retrait de l’agrément**
+[^chap2-1]
 
-Lorsque l’autorité de surveillance retire l’agrément à une personne physique ou à une entreprise pour une durée déterminée ou indéterminée, elle en informe les offices compétents du registre du commerce, le cas échéant la bourse et les autorités de surveillance qui, aux termes de l’inscription au registre des réviseurs, l’ont agréée en vertu d’une loi spéciale.
-
-## Section 2 Registre des réviseurs
+[^chap2-1]: Nouvelle expression selon l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 16
 
@@ -670,7 +775,7 @@ L’autorité de surveillance peut refuser la remise de pièces si:
 
 L’autorité de surveillance peut collaborer et échanger des données avec les autorités du registre du commerce en vue de l’application des dispositions du CO et de la LSR et de leurs dispositions d’exécution.
 
-## Section 3 Contrôle des entreprises de révision soumises à la surveillance de l’État
+## Chapitre 3 Contrôle des entreprises de révision soumises à la surveillance de l’État
 
 #### Art. 28
 
@@ -728,7 +833,7 @@ L’entreprise de révision soumise à la surveillance de l’État remet à l�
 
 [^33-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
-## Section 4 Autorité de surveillance
+## Chapitre 4 Autorité de surveillance
 
 #### Art. 34
 
@@ -768,7 +873,7 @@ L’autorité de surveillance reconnaît un règlement d’examen lorsque celui-
 
 <sup>3</sup> Les indemnités versées aux membres de l’organe paritaire sont fixées par la Commission de la caisse PUBLICA.
 
-## Section 5 Émoluments et redevance de surveillance
+## Chapitre 5 Émoluments et redevance de surveillance
 
 #### Art. 37
 
@@ -880,7 +985,7 @@ La redevance de surveillance est due pendant toute la durée de l’agrément.
 
 <sup>4</sup> En cas de litige, l’entreprise de révision peut exiger une décision susceptible de recours.
 
-## Section 6 Contraventions
+## Chapitre 6 Contraventions
 
 #### Art. 45
 
@@ -899,7 +1004,7 @@ Est puni d’une amende de 100 000 francs au plus quiconque intentionnellement:[
 [^45-3]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^45-4]: Introduit par le ch. I de l’O du 14 nov. 2012, avec effet au 1<sup>er</sup> déc. 2012 ([RO 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
 
-## Section 7 Dispositions finales
+## Chapitre 7 Dispositions finales
 
 #### Art. 46
 
@@ -1005,6 +1110,16 @@ Au cours des deux premières années suivant l’entrée en vigueur de la prése
 <sup>2</sup> Les exigences visées à l’art. 7, al. 3 et 4, let. b, doivent être remplies au plus tard une année après l’entrée en vigueur de la modification du 23 novembre 2022.
 
 [^51d-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
+
+#### Art. 51e
+
+**Dispositions transitoires de la modification du 22 novembre 2023**[^51e-1]
+
+<sup>1</sup> Les agréments octroyés par l’Office fédéral des assurances sociales pour effectuer les audits selon la LAVS en vertu de l’ancien droit restent valables. À l’expiration d’un délai de deux ans, ils sont automatiquement annulés, à moins qu’un agrément selon le nouveau droit ne soit octroyé conformément aux exigences prévues aux art. 11*n* à 11*p*.
+
+<sup>2</sup> Les demandes d’agrément des entreprises de révision et des auditeurs responsables qui n’ont pas encore fait l’objet d’une décision de l’Office fédéral des assurances sociales lors de l’entrée en vigueur de la présente modification sont traitées par l’autorité de surveillance en application du nouveau droit.
+
+[^51e-1]: Introduit par l’annexe ch. 1 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 52
 
