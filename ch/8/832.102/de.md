@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230901/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. September 2023)
+vom 27. Juni 1995 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -532,6 +532,19 @@ Die Versicherer müssen dem BAG zur Erfüllung der Aufgaben nach Artikel 21 Absa
   - 9\. bei stationären Leistungen: Beitrag an die Kosten des Spitalaufenthalts und Aufenthaltsdauer,
   - 10\. bei ambulanten Leistungen: Anzahl Konsultationen.
 
+<sup>1bis</sup>
+
+Im Zusammenhang mit einer Vergütung nach den Artikeln 71*a*–71*c* müssen sie dem BAG jährlich pro versicherte Person weitergeben:
+
+- a. das Eingangsdatum des Gesuchs um Kostengutsprache;
+- b. die Indikation des Arzneimittels;
+- c. den Namen des Arzneimittels;
+- d. den Namen der Zulassungsinhaberin;
+- e. die Nutzenkategorie;
+- f. den Leistungsentscheid;
+- g. das Datum des Leistungsentscheids;
+- h. bei positivem Leistungsentscheid die Höhe der Vergütung.[^28-3]
+
 <sup>2</sup> Sie müssen dem BAG alle Daten, die sie aggregiert oder pro versicherte Person weitergeben müssen, elektronisch zur Verfügung stellen. Das BAG kann sie bei Erhebungsanpassungen auf Gesuch hin davon für eine befristete Zeit befreien, wenn ihnen die Lieferung aufgrund fehlender technischer Voraussetzungen nicht möglich ist.
 
 <sup>3</sup> Die Versicherer müssen dem BAG die Daten nach Absatz 2 korrekt, vollständig, fristgerecht und auf eigene Kosten liefern.
@@ -546,10 +559,12 @@ Die Versicherer müssen dem BAG zur Erfüllung der Aufgaben nach Artikel 21 Absa
 
 <sup>8</sup> Die Datenverwendung im Sinne von Artikel 21 Absatz 3 KVG umfasst jede Form der Datenbearbeitung im Sinne des Datenschutzrechts des Bundes, einschliesslich der Datenbekanntgabe.
 
-<sup>9</sup> Das BAG stellt die Resultate der mit den Daten nach Absatz 2 durchgeführten Erhebungen den am Vollzug des KVG beteiligten Stellen zur Verfügung. Es stellt sicher, dass die Anonymität der Versicherten gewährleistet bleibt.
+<sup>9</sup> Das BAG stellt die Resultate der mit den Daten nach Absatz 2 durchgeführten Erhebungen den am Vollzug des KVG beteiligten Stellen zur Verfügung; davon ausgenommen sind die Resultate der mit den Daten nach Absatz 1<sup>bis</sup> durchgeführten Erhebungen. Es stellt sicher, dass die Anonymität der Versicherten gewährleistet bleibt.[^28-4]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 [^28-2]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^28-3]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2026 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^28-4]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2026 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 28a
 
@@ -604,7 +619,7 @@ Das BAG veröffentlicht je Versicherer namentlich folgende Kennzahlen der sozial
 <sup>6</sup> Es kann für die Bearbeitung des Gesuches eine Gebühr erheben. Diese wird nach Zeitaufwand bemessen, darf aber 10 000 Franken nicht überschreiten. Der Stundenansatz beträgt je nach erforderlicher Sachkenntnis und Funktionsstufe des ausführenden Personals 90–200 Franken. Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^28c-2].
 
 [^28c-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28c-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^28c-2]: SR **172.041.1**
 
 #### Art. 29
 
@@ -970,7 +985,7 @@ Sie besteht aus 18 Mitgliedern; davon vertreten:[^37d-3]
 
 **Eidgenössische Arzneimittelkommission**
 
-<sup>1</sup> Die Eidgenössische Arzneimittelkommission berät das BAG bei der Erstellung der Spezialitätenliste nach Artikel 34. Sie berät das EDI, in ihrem Bereich, bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 75, 77*k* und 104*a* Absatz 4. Sie berät das EDI zudem bei der Zuordnung von Wirkstoffen und Arzneimitteln zu einer pharmazeutischen Kostengruppe (PCG) der Liste nach Artikel 4 der Verordnung vom 19. Oktober 2016[^37e-1] über den Risikoausgleich in der Krankenversicherung sowie bei der Festlegung der standardisierten Tagesdosen, wenn Arzneimittel neu oder für eine zusätzliche Indikation in die Spezialitätenliste aufgenommen werden.[^37e-2]
+<sup>1</sup> Die Eidgenössische Arzneimittelkommission berät das BAG bei der Erstellung der Spezialitätenliste nach Artikel 34. Sie berät das EDI, in ihrem Bereich, bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 75, 77*k* und 104*a* Absatz 4. Sie berät das EDI zudem bei der Zuordnung von Arzneimitteln zu einer pharmazeutischen Kostengruppe der Liste nach Artikel 4 der Verordnung vom 19. Oktober 2016[^37e-1] über den Risikoausgleich in der Krankenversicherung sowie bei der Festlegung der standardisierten Tagesdosen, wenn Arzneimittel neu oder für eine zusätzliche Indikation in die Spezialitätenliste aufgenommen werden.[^37e-2]
 
 <sup>2</sup>
 
@@ -983,14 +998,15 @@ Sie besteht aus 16 Mitgliedern; davon vertreten:[^37e-3]
 - e. zwei Personen die Krankenversicherer;
 - f. zwei Personen die Versicherten;
 - g. zwei Personen die Pharmaindustrie;
-- h. eine Person das Schweizerische Heilmittelinstitut;
-- i.[^37e-4] eine Person die Kantone.[^37e-5]
+- h.[^37e-4] eine Person das Schweizerische Heilmittelinstitut (Swissmedic);
+- i.[^37e-5] eine Person die Kantone.[^37e-6]
 
 [^37e-1]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^37e-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^37e-2]: Fassung gemäss Ziff. II der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 [^37e-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
-[^37e-4]: Eingefügt durch Ziff. I der V vom 18. Jan. 2012, in Kraft seit 1. Febr. 2012 ([AS 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
-[^37e-5]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37e-4]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^37e-5]: Eingefügt durch Ziff. I der V vom 18. Jan. 2012, in Kraft seit 1. Febr. 2012 ([AS 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
+[^37e-6]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37f
 
@@ -1511,13 +1527,13 @@ Als Laboratorien werden Einrichtungen zugelassen, die:
 - b. nach kantonalem Recht zugelassen sind;
 - c.[^53-1] …
 - d. den übrigen von der Gesetzgebung des Bundes oder des Kantons festgesetzten Anforderungen an Laboratorien entsprechen;
-- e.[^53-2] über eine entsprechende Bewilligung des Schweizerischen Heilmittelinstituts Swissmedic (Institut) verfügen, wenn sie Untersuchungen zur Erkennung übertragbarer Krankheiten durchführen;
+- e.[^53-2] über eine entsprechende Bewilligung der Swissmedic verfügen, wenn sie Untersuchungen zur Erkennung übertragbarer Krankheiten durchführen;
 - [tab] e<sup>bis</sup>.[^53-3] über eine entsprechende Bewilligung des BAG verfügen, wenn sie zyto- oder molekulargenetische Untersuchungen durchführen;
 - f. über zweckentsprechende Einrichtungen und das erforderliche Fachpersonal verfügen;
 - g. die Zulassungsbedingungen nach Artikel 54 erfüllen.
 
 [^53-1]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^53-2]: Fassung gemäss Art. 27 Ziff. 1 der V vom 29. April 2015 über mikrobiologische Laboratorien, in Kraft seit 1. Jan. 2016 ([AS 2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)).
+[^53-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^53-3]: Eingefügt durch Art. 37 Ziff. 2 der V vom 14. Febr. 2007 über genetische Untersuchungen beim Menschen, in Kraft seit 1. April 2007 ([AS 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
 #### Art. 54
@@ -2077,19 +2093,30 @@ Das EDI bezeichnet diejenigen Analysen, die:
 
 **Begriffe**[^64a-1]
 
-<sup>1</sup> Als Originalpräparat gilt ein vom Schweizerischen Heilmittelinstitut Swissmedic (Institut) als erstes mit einem bestimmten Wirkstoff zugelassenes Arzneimittel, einschliesslich aller zum gleichen Zeitpunkt oder später zugelassenen Darreichungsformen.
+<sup>1</sup> Als Originalpräparat gilt ein von der Swissmedic als erstes mit einem bestimmten Wirkstoff zugelassenes Arzneimittel, einschliesslich aller zum gleichen Zeitpunkt oder später zugelassenen Darreichungsformen.[^64a-2]
 
-<sup>2</sup> Als Generikum gilt ein vom Institut zugelassenes Arzneimittel, das im wesentlichen gleich ist wie ein Originalpräparat und das mit diesem aufgrund identischer Wirkstoffe sowie seiner Darreichungsform und Dosierung austauschbar ist.
+<sup>2</sup> Als Generikum gilt ein von der Swissmedic[^64a-3] zugelassenes Arzneimittel, das im wesentlichen gleich ist wie ein Originalpräparat und das mit diesem aufgrund identischer Wirkstoffe sowie seiner Darreichungsform und Dosierung austauschbar ist.
 
-<sup>3</sup> Als Co-Marketing-Arzneimittel gilt ein vom Institut zugelassenes Arzneimittel, das sich von einem anderen vom Institut zugelassenen Arzneimittel (Basispräparat) mit Ausnahme der Bezeichnung und der Packung nicht unterscheidet.
+<sup>3</sup> Als Co-Marketing-Arzneimittel gilt ein von der Swissmedic zugelassenes Arzneimittel, das sich von einem anderen von der Swissmedic zugelassenen Arzneimittel (Basispräparat) mit Ausnahme der Bezeichnung und der Packung nicht unterscheidet.
+
+<sup>4</sup> Als Präparat mit bekanntem Wirkstoff gilt ein im vereinfachten Zulassungsverfahren von der Swissmedic zugelassenes Arzneimittel, dessen Wirkstoff in einem Arzneimittel enthalten ist, das von der Swissmedic zugelassen ist oder war.[^64a-4]
+
+<sup>5</sup> Als Biosimilar gilt ein von der Swissmedic zugelassenes biologisches Arzneimittel, das eine genügende Ähnlichkeit mit einem anderen von der Swissmedic zugelassenen biologischen Arzneimittel (Referenzpräparat) aufweist und das auf die Dokumentation des Referenzpräparates Bezug nimmt.[^64a-5]
+
+<sup>6</sup> Als für den Parallelimport zugelassenes Arzneimittel gilt ein Arzneimittel, das direkt aus einem Land mit gleichwertigem Zulassungssystem eingeführt wird, das über eine Zulassung der Swissmedic verfügt und zu dem ein wirkstoffgleiches Arzneimittel in der Spezialitätenliste aufgeführt ist.[^64a-6]
 
 [^64a-1]: Eingefügt durch Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^64a-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-3]: Ausdruck gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^64a-4]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-5]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-6]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65
 
 **Aufnahmebedingungen[^65-2]**[^65-1]
 
-<sup>1</sup> Ein Arzneimittel kann in die Spezialitätenliste aufgenommen werden, wenn es über eine gültige Zulassung des Instituts verfügt.
+<sup>1</sup> Ein Arzneimittel kann in die Spezialitätenliste aufgenommen werden, wenn es über eine gültige Zulassung der Swissmedic verfügt.
 
 <sup>1bis</sup> Erfüllt ein Arzneimittel die Voraussetzungen für eine Aufnahme in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> der Verordnung vom 17. Januar 1961[^65-3] über die Invalidenversicherung (IVV), so wird es nicht in die Spezialitätenliste aufgenommen.[^65-4]
 
@@ -2124,40 +2151,65 @@ Die Beurteilung der Wirksamkeit von allopathischen Arzneimitteln muss sich auf k
 
 #### Art. 65b
 
-**Beurteilung der Wirtschaftlichkeit[^65b-2]**[^65b-1]
+**Beurteilung der Wirtschaftlichkeit: Grundsatz**[^65b-1]
 
 <sup>1</sup> Ein Arzneimittel gilt als wirtschaftlich, wenn es die indizierte Heilwirkung mit möglichst geringem finanziellem Aufwand gewährleistet.
 
 <sup>2</sup>
 
-Die Wirtschaftlichkeit wird aufgrund folgender Vergleiche beurteilt:
+Die Wirtschaftlichkeit eines Arzneimittels wird wie folgt beurteilt:
 
-- a. Vergleich mit dem Preis in Referenzländern (Auslandpreisvergleich);
-- b.[^65b-3] Vergleich mit anderen Arzneimitteln (therapeutischer Quervergleich).
+- a. anhand eines Vergleichs mit dem durchschnittlichen Preis anderer Arzneimittel zur Behandlung derselben Krankheit (therapeutischer Quervergleich);
+- b. anhand eines Vergleichs mit dem Durchschnitt der Preise desselben Arzneimittels in den Referenzländern (Auslandpreisvergleich).
 
-<sup>3</sup> Beim Auslandpreisvergleich wird mit dem Fabrikabgabepreis verglichen. Bestehen keine öffentlich zugänglichen Fabrikabgabepreise, so wird der Apothekeneinstandspreis oder, falls dieser auch nicht öffentlich zugänglich ist, der Grosshandelspreis berücksichtigt; vom Apothekeneinstandspreis oder vom Grosshandelspreis werden Grosshandelsmargen abgezogen. Das EDI legt die Höhe des Abzugs aufgrund der durchschnittlich gewährten Grosshandelsmargen fest. Es kann vorsehen, dass die effektiven anstatt der durchschnittlich gewährten Grosshandelsmargen abgezogen werden.
+<sup>3</sup> Zur Ermittlung des Preises, der als wirtschaftlich gilt, werden die nach Absatz 2 Buchstaben a und b ermittelten Preise je hälftig gewichtet.
 
-<sup>4</sup> Von den Fabrikabgabepreisen der Referenzländer werden in einem Referenzland verbindliche Herstellerrabatte abgezogen. Das EDI legt fest, welche verbindlichen Herstellerrabatte für den Abzug zu berücksichtigen sind. Es kann vorsehen, dass anstatt dieser Herstellerrabatte die effektiven Herstellerrabatte abgezogen werden.
+[^65b-1]: Eingefügt durch Ziff. I der V vom 26. April 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
-<sup>4bis</sup>
+#### Art. 65b<sup>bis</sup>
 
-Beim therapeutischen Quervergleich wird Folgendes überprüft:
+**Beurteilung der Wirtschaftlichkeit: therapeutischer Quervergleich**[^65bbis-1]
 
-- a. die Wirksamkeit im Verhältnis zu anderen Arzneimitteln, die zur Behandlung derselben Krankheit eingesetzt werden;
-- b. die Kosten des Arzneimittels pro Tag oder Kur im Verhältnis zu den Kosten von Arzneimitteln, die zur Behandlung derselben Krankheit eingesetzt werden.[^65b-4]
+<sup>1</sup>
 
-<sup>5</sup> Nach der Ermittlung des durchschnittlichen Preises der Referenzländer im Auslandpreisvergleich und des durchschnittlichen Preises anderer Arzneimittel im therapeutischen Quervergleich werden beide Preise je hälftig gewichtet.[^65b-5]
+Beim therapeutischen Quervergleich werden überprüft:
 
-<sup>6</sup> Bei der Beurteilung der Wirtschaftlichkeit eines Originalpräparates werden zudem die Kosten für Forschung und Entwicklung berücksichtigt, es sei denn es handelt sich beim Originalpräparat um ein Nachfolgepräparat, das gegenüber dem bisher in der Spezialitätenliste aufgeführten Originalpräparat keinen therapeutischen Fortschritt bringt.
+- a. die Wirksamkeit des Arzneimittels im Verhältnis zu anderen Arzneimitteln, die zur Behandlung derselben Krankheit eingesetzt werden;
+- b. die Kosten des Arzneimittels pro Tag oder Kur im Verhältnis zu den Kosten von Arzneimitteln, die zur Behandlung derselben Krankheit eingesetzt werden.
 
-<sup>7</sup> Bringt das Arzneimittel einen bedeutenden therapeutischen Fortschritt, so wird im Rahmen des therapeutischen Quervergleichs während höchstens 15 Jahren ein Innovationszuschlag berücksichtigt. [^65b-6]
+<sup>2</sup>
 
-[^65b-1]: Eingefügt durch Ziff. I der V vom 26. April 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^65b-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65b-3]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65b-4]: Eingefügt durch Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65b-5]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65b-6]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+Nach Patentablauf werden das Originalpräparat und das Nachfolgepräparat, sofern dieses gegenüber dem bisher in der Spezialitätenliste aufgeführten Originalpräparat keinen therapeutischen Fortschritt bringt, im therapeutischen Quervergleich verglichen mit:
+
+- a. anderen patentabgelaufenen Originalpräparaten;
+- b. Präparaten mit bekanntem Wirkstoff, die nicht als Generika in der Spezialitätenliste aufgeführt sind.
+
+[^65bbis-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65b<sup>ter</sup>
+
+**Beurteilung der Wirtschaftlichkeit: Innovationszuschlag beim therapeutischen Quervergleich**[^65bter-1]
+
+<sup>1</sup>
+
+Beim therapeutischen Quervergleich kann auf Antrag hin ein Innovationszuschlag gewährt werden, wenn anhand kontrollierter klinischer Studien aufgezeigt wurde, dass mit dem Arzneimittel ein bedeutender therapeutischer Fortschritt erzielt wird. Der Innovationszuschlag beträgt je nach Kategorie, in die das Arzneimittel entsprechend aufgrund der Bedeutung des therapeutischen Fortschritts eingeteilt ist:
+
+- a. für Arzneimittel, mit denen ein sehr grosser therapeutischer Fortschritt erzielt wird: höchstens 20 Prozent;
+- b. für Arzneimittel, mit denen ein grosser therapeutischer Fortschritt erzielt wird: höchstens 10 Prozent.
+
+<sup>2</sup> Der Innovationszuschlag wird während höchstens 15 Jahren berücksichtigt.
+
+[^65bter-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65b<sup>quater</sup>
+
+**Beurteilung der Wirtschaftlichkeit: Auslandpreisvergleich**[^65bquater-1]
+
+<sup>1</sup> Beim Auslandpreisvergleich wird der Preis eines Arzneimittels mit dem Fabrikabgabepreis desselben Arzneimittels im Ausland verglichen. Bestehen keine öffentlich zugänglichen Fabrikabgabepreise, so wird der Apothekeneinstandspreis oder, falls auch dieser nicht öffentlich zugänglich ist, der Publikumspreis berücksichtigt. Für diese Fälle legt das EDI zur Ermittlung des Fabrikabgabepreises die Höhe des durchschnittlichen Abzugs vom Apothekeneinstandspreis und vom Publikumspreis fest. Es kann vorsehen, dass statt des von ihm festgelegten Abzugs der effektive Abzug oder ein bestimmter Mindestabzug vorgenommen wird.
+
+<sup>2</sup> Von den Fabrikabgabepreisen der Referenzländer werden in einem Referenzland verbindliche Herstellerrabatte abgezogen. Das EDI legt fest, welche Herstellerrabatte abgezogen werden. Es kann vorsehen, dass statt der von ihm festgelegten Herstellerrabatte die effektiven Herstellerrabatte abgezogen werden.
+
+[^65bquater-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65c
 
@@ -2170,39 +2222,146 @@ Beim therapeutischen Quervergleich wird Folgendes überprüft:
 Ein Generikum gilt bei der Aufnahme in die Spezialitätenliste als wirtschaftlich, wenn sein Fabrikabgabepreis gegenüber dem mit ihm austauschbaren Originalpräparat:
 
 - a. mindestens 20 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr 4 Millionen Franken nicht übersteigt;
-- b. mindestens 30 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 4 Millionen und 8 Millionen Franken liegt;
+- b.[^65c-2] mindestens 40 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 4 Millionen und 8 Millionen Franken liegt;
 - c. mindestens 50 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 8 Millionen und 16 Millionen Franken liegt;
 - d. mindestens 60 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 16 Millionen und 25 Millionen Franken liegt;
-- e. mindestens 70 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr 25 Millionen Franken übersteigt.[^65c-2]
+- e. mindestens 70 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr 25 Millionen Franken übersteigt.[^65c-3]
 
-<sup>3</sup> Massgebend für die Berechnung des Fabrikabgabepreises des Generikums ist der nach Artikel 65*e* ermittelte Fabrikabgabepreis des Originalpräparates.[^65c-3]
+<sup>3</sup> Massgebend für die Berechnung des wirtschaftlichen Fabrikabgabepreises des Generikums ist der nach Artikel 65*e* ermittelte Fabrikabgabepreis des Originalpräparates.[^65c-4]
 
-<sup>4</sup> Das Schweizer Marktvolumen pro Jahr bemisst sich auf der Basis des Fabrikabgabepreises des Originalpräparates und von dessen Co-Marketing-Arzneimittel und wird je Handelsform desselben Wirkstoffes bestimmt. Das BAG kann bei einem Gesuch um Aufnahme eines Generikums in die Spezialitätenliste von der Zulassungsinhaberin die Meldung des Schweizer Marktvolumens verlangen. Das Marktvolumen muss gestützt auf Umsatzerhebungen eines unabhängigen Instituts erfasst werden.[^65c-4]
+<sup>4</sup> Das Schweizer Marktvolumen pro Jahr bemisst sich auf der Basis des Fabrikabgabepreises des Originalpräparates und von dessen Co-Marketing-Arzneimittel und wird je Handelsform desselben Wirkstoffes bestimmt. Das BAG kann bei einem Gesuch um Aufnahme eines Generikums in die Spezialitätenliste von der Zulassungsinhaberin die Meldung des Schweizer Marktvolumens verlangen. Das Marktvolumen muss gestützt auf Umsatzerhebungen eines unabhängigen Instituts erfasst werden.[^65c-5]
 
 <sup>5</sup> Generika, die vor der Preisüberprüfung des Originalpräparates nach Artikel 65*e* in die Spezialitätenliste aufgenommen werden, werden nach der Preisüberprüfung zur Wahrung des Abstands preislich angepasst.
 
 [^65c-1]: Eingefügt durch Ziff. I der V vom 26. April 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^65c-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65c-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^65c-3]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65c-4]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65c-4]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65c-5]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+
+#### Art. 65c<sup>bis</sup>
+
+**Beurteilung der Wirtschaftlichkeit bei Biosimilars**[^65cbis-1]
+
+<sup>1</sup> Bei Biosimilars werden für die Beurteilung der Wirtschaftlichkeit die geringeren Kosten für die Entwicklung im Vergleich zum Referenzpräparat berücksichtigt.
+
+<sup>2</sup>
+
+Ein Biosimilar gilt bei der Aufnahme in die Spezialitätenliste als wirtschaftlich, wenn sein Fabrikabgabepreis gegenüber dem Referenzpräparat:
+
+- a. mindestens 20 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Referenzpräparates während drei Jahren vor Patentablauf im Durchschnitt pro Jahr 8 Millionen Franken nicht übersteigt;
+- b. mindestens 25 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Referenzpräparates während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 8 Millionen und 16 Millionen Franken liegt;
+- c. mindestens 30 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Referenzpräparates während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 16 Millionen und 25 Millionen Franken liegt;
+- d. mindestens 35 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Referenzpräparates während drei Jahren vor Patentablauf im Durchschnitt pro Jahr 25 Millionen übersteigt.
+
+<sup>3</sup> Massgebend für die Berechnung des wirtschaftlichen Fabrikabgabepreises des Biosimilars ist der nach Artikel 65*e* ermittelte Fabrikabgabepreis des Referenzpräparates.
+
+<sup>4</sup> Das Schweizer Marktvolumen pro Jahr bemisst sich auf der Basis des Fabrikabgabepreises des Referenzpräparates und wird je Handelsform desselben Wirkstoffes bestimmt. Das BAG kann bei einem Gesuch um Aufnahme eines Biosimilars in die Spezialitätenliste von der Zulassungsinhaberin die Meldung des Schweizer Marktvolumens verlangen. Das Marktvolumen muss gestützt auf Umsatzerhebungen eines unabhängigen Instituts erfasst werden.
+
+<sup>5</sup> Biosimilars, die vor der Preisüberprüfung des Referenzpräparates nach Artikel 65*e* in die Spezialitätenliste aufgenommen werden, werden nach der Preisüberprüfung zur Wahrung des Abstands preislich angepasst.
+
+[^65cbis-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 65c<sup>ter</sup>
+
+**Beurteilung der Wirtschaftlichkeit bei Präparaten mit bekanntem Wirkstoff, die nicht als Generika in der Spezialitätenliste aufgeführt sind**[^65cter-1]
+
+<sup>1</sup> Bei der Beurteilung der Wirtschaftlichkeit eines Präparats mit bekanntem Wirkstoff, das nicht als Generikum in der Spezialitätenliste aufgeführt ist, werden die Kosten für Forschung und Entwicklung nicht berücksichtigt.
+
+<sup>2</sup>
+
+Der therapeutische Quervergleich erfolgt mit:
+
+- a. patentabgelaufenen Originalpräparaten;
+- b. anderen Präparaten mit bekanntem Wirkstoff, die nicht als Generika in der Spezialitätenliste aufgeführt sind.
+
+<sup>3</sup> Ist mindestens ein Generikum mit gleicher Wirkstoffzusammensetzung in der Spezialitätenliste aufgeführt und stellt das Präparat mit bekanntem Wirkstoff keinen therapeutischen Fortschritt dar, so wird die Wirtschaftlichkeit des Präparats mit bekanntem Wirkstoff ausschliesslich anhand eines Vergleichs mit diesem Generikum beurteilt, ohne dass ein Auslandpreisvergleich oder ein therapeutischer Quervergleich mit anderen Arzneimitteln als diesem Generikum durchgeführt wird. Sind mehrere Generika in der Spezialitätenliste aufgeführt, so erfolgt der Vergleich anhand des durchschnittlichen Preises dieser Generika.
+
+[^65cter-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65c<sup>quater</sup>
+
+**Beurteilung der Wirtschaftlichkeit bei für den Parallelimport zugelassenen Arzneimitteln**[^65cquater-1]
+
+<sup>1</sup> Ein für den Parallelimport zugelassenes Originalpräparat gilt als wirtschaftlich, wenn sein Fabrikabgabepreis mindestens 15 Prozent tiefer ist als der Preis des Originalpräparates in der Schweiz.
+
+<sup>2</sup> Wurde der Preis des Originalpräparats in der Schweiz bereits auf Generika-Preisniveau gesenkt, so hat das für den Parallelimport zugelassene Originalpräparat das Generika-Preisniveau einzuhalten.
+
+[^65cquater-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65d
 
-**Überprüfung der Aufnahmebedingungen alle drei Jahre**[^65d-1]
+**Überprüfung der Aufnahmebedingungen alle drei Jahre: Allgemeines[^65d-2]**[^65d-1]
 
 <sup>1</sup> Das BAG überprüft sämtliche Arzneimittel, die in der Spezialitätenliste aufgeführt sind, alle drei Jahre daraufhin, ob sie die Aufnahmebedingungen noch erfüllen. Die Arzneimittel werden aufgrund ihrer Zugehörigkeit zu einer therapeutischen Gruppe der Spezialitätenliste in drei Einheiten aufgeteilt. Jede Einheit wird alle drei Jahre überprüft.
 
 <sup>2</sup> Der Auslandpreisvergleich wird auf der Basis der umsatzstärksten Packung durchgeführt.
 
-<sup>3</sup> Der therapeutische Quervergleich wird auf der Basis der kleinsten Packung und Dosierung durchgeführt, es sei denn die kleinste Packung und Dosierung erlaubt insbesondere aufgrund unterschiedlicher Dosierungen bei Therapiebeginn oder unterschiedlicher Packungsgrössen keinen adäquaten Vergleich.
+<sup>3</sup> Der therapeutische Quervergleich wird auf der Basis der kleinsten Packung der tiefsten Dosisstärke durchgeführt, es sei denn, die kleinste Packung der tiefsten Dosisstärke erlaubt insbesondere aufgrund unterschiedlicher Dosierungen bei Therapiebeginn, unterschiedlicher Packungsgrössen oder des gleichen Preises der verschiedenen Dosisstärken eines Arzneimittels keinen adäquaten Vergleich.[^65d-3]
 
-<sup>4</sup> Ergibt die Überprüfung, dass der geltende Höchstpreis zu hoch ist, so verfügt das BAG auf den 1. Dezember des Überprüfungsjahres eine Preissenkung auf den nach Artikel 65*b* Absatz 5 und Artikel 67 Absatz 1<sup>quater</sup> ermittelten Höchstpreis. Liegt der dem geltenden Höchstpreis zugrunde liegende Fabrikabgabepreis unter dem nach Artikel 65*b* Absatz 5 ermittelten Fabrikabgabepreis, so rechtfertigt dies keine Preiserhöhung.
+<sup>4</sup> Ergibt die Überprüfung, dass der geltende Höchstpreis zu hoch ist, so verfügt das BAG auf den 1. Dezember des Überprüfungsjahres eine Preissenkung auf den nach Artikel 65*b* Absatz 3 ermittelten Preis. Liegt der dem geltenden Höchstpreis zugrunde liegende Fabrikabgabepreis unter dem nach Artikel 65*b* Absatz 3 ermittelten Preis, so rechtfertigt dies keine Preiserhöhung.[^65d-4]
 
 <sup>5</sup> Die Zulassungsinhaberin hat dem BAG alle notwendigen Informationen bekannt zu geben.
 
 <sup>6</sup> Das BAG teilt der Inhaberin der Zulassung für ein Generikum den ab 1. Dezember vorgesehenen Preis des Originalpräparates mit.
 
 [^65d-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65d-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65d-3]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^65d-4]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 65d<sup>bis</sup>
+
+**Überprüfung der Aufnahmebedingungen alle drei Jahre: Überprüfung der Wirtschaftlichkeit von Generika**[^65dbis-1]
+
+<sup>1</sup>
+
+Ein Generikum gilt bei der Überprüfung nach Artikel 65*d* Absatz 1 als wirtschaftlich, wenn sein Fabrikabgabepreis mindestens um einen der folgenden Prozentsätze tiefer ist als der am 1. Dezember des Überprüfungsjahres geltende Fabrikabgabepreis des entsprechenden Originalpräparates:
+
+- a. 15 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr 4 Millionen Franken nicht übersteigt;
+- b. 25 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr zwischen 4 Millionen und 8 Millionen Franken liegt;
+- c. 30 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr zwischen 8 Millionen und 16 Millionen Franken liegt;
+- d. 35 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr zwischen 16 Millionen und 25 Millionen Franken liegt;
+- e. 40 Prozent, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel und Generika je Handelsform während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr 25 Millionen Franken übersteigt.
+
+<sup>2</sup> Ist kein entsprechendes Originalpräparat in der Spezialitätenliste aufgeführt, so wird bei der Überprüfung nach Artikel 65*d* Absatz 1 ausschliesslich ein therapeutischer Quervergleich vorgenommen. Dieser Vergleich findet ausschliesslich mit Generika mit anderer Wirkstoffzusammensetzung statt, die ihrerseits wirtschaftlich sind.
+
+[^65dbis-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65d<sup>ter</sup>
+
+**Überprüfung der Aufnahmebedingungen alle drei Jahre: Überprüfung der Wirtschaftlichkeit von Biosimilars**[^65dter-1]
+
+Ein Biosimilar gilt bei der Überprüfung nach Artikel 65*d* Absatz 1 als wirtschaftlich, wenn sein Fabrikabgabepreis mindestens um einen der folgenden Prozentsätze tiefer ist als der am 1. Dezember des Überprüfungsjahres geltende Fabrikabgabepreis des entsprechenden Referenzpräparats:
+
+- a. 10 Prozent, sofern das Schweizer Marktvolumen des Referenzpräparates und von dessen Biosimilars während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr 8 Millionen Franken nicht übersteigt;
+- b. 15 Prozent, sofern das Schweizer Marktvolumen des Referenzpräparates und von dessen Biosimilars während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr zwischen 8 Millionen und 25 Millionen Franken liegt;
+- c. 20 Prozent, sofern das Schweizer Marktvolumen des Referenzpräparates und von dessen Biosimilars während drei Jahren vor dem Überprüfungsjahr im Durchschnitt pro Jahr 25 Millionen Franken übersteigt.
+
+[^65dter-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023 [AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
+
+#### Art. 65d<sup>quater</sup>
+
+**Überprüfung der Aufnahmebedingungen alle drei Jahre: Überprüfung der Wirtschaftlichkeit von Präparaten mit bekanntem Wirkstoff, die nicht als Generika in der Spezialitätenliste aufgeführt sind**[^65dquater-1]
+
+<sup>1</sup> Die Überprüfung nach Artikel 65*d* Absatz 1 eines Präparats mit bekanntem Wirkstoff, das nicht als Generikum in der Spezialitätenliste aufgeführt ist, richtet sich nach den Bestimmungen zur Beurteilung der Wirtschaftlichkeit nach Artikel 65*c*<sup>ter</sup>.
+
+<sup>2</sup>
+
+Ein Präparat mit bekanntem Wirkstoff nach Artikel 65*c*<sup>ter</sup> Absatz 3 gilt als wirtschaftlich, wenn sein Fabrikabgabepreis:
+
+- a. den am 1. Dezember des Überprüfungsjahres geltenden Fabrikabgabepreis des Generikums nicht übersteigt; oder
+- b. die am 1. Dezember des Überprüfungsjahres geltenden durchschnittlichen Fabrikabgabepreise der Generika mit gleicher Wirkstoffzusammensetzung nicht übersteigt.
+
+[^65dquater-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65d<sup>quinquies</sup>
+
+**Überprüfung der Aufnahmebedingungen alle drei Jahre: Überprüfung der Wirtschaftlichkeit von für den Parallelimport zugelassenen Arzneimitteln**[^65dquinquies-1]
+
+Die Überprüfung nach Artikel 65*d* Absatz 1 eines für den Parallelimport zugelassenen Arzneimittels richtet sich nach den Bestimmungen zur Beurteilung der Wirtschaftlichkeit nach Artikel 65*c*<sup>quater</sup>.
+
+[^65dquinquies-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65e
 
@@ -2210,42 +2369,56 @@ Ein Generikum gilt bei der Aufnahme in die Spezialitätenliste als wirtschaftlic
 
 <sup>1</sup> Das BAG überprüft Originalpräparate unmittelbar nach Ablauf des Patentschutzes daraufhin, ob sie die Aufnahmebedingungen noch erfüllen.
 
-<sup>2</sup> Im Rahmen des therapeutischen Quervergleichs wird der Vergleich nach Artikel 65*b* Absatz 4<sup>bis</sup> Buchstabe b ausschliesslich mit patentabgelaufenen Originalpräparaten durchgeführt. Ein allfälliger Innovationszuschlag wird nicht mehr berücksichtigt.
+<sup>2</sup> Im Rahmen des therapeutischen Quervergleichs wird der Vergleich nach Artikel 65*b*<sup>bis</sup> Absatz 1 mit patentabgelaufenen Originalpräparaten durchgeführt. Für den Vergleich werden, sofern vorhanden, auch Präparate mit bekanntem Wirkstoff, die nicht als Generika in der Spezialitätenliste aufgeführt sind, sowie Nachfolgepräparate ohne therapeutischen Fortschritt berücksichtigt. Ein allfälliger Innovationszuschlag wird nicht mehr berücksichtigt.[^65e-2]
 
 <sup>3</sup> Bei der Überprüfung der Wirtschaftlichkeit werden die Kosten für Forschung und Entwicklung nicht mehr berücksichtigt.
 
-<sup>4</sup> Ergibt die Beurteilung der Wirtschaftlichkeit, dass der geltende Höchstpreis zu hoch ist, so verfügt das BAG eine Preissenkung auf den nach Artikel 65*b* Absatz 5 und Artikel 67 Absatz 1<sup>quater</sup> ermittelten Höchstpreis.
+<sup>4</sup> Ergibt die Beurteilung der Wirtschaftlichkeit, dass der geltende Höchstpreis zu hoch ist, so verfügt das BAG eine Preissenkung auf den nach Artikel 65*b* Absatz 3 und Artikel 67 Absatz 4 ermittelten Höchstpreis.[^65e-3]
 
 [^65e-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65e-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65e-3]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65f
 
 **Indikationserweiterung und Limitierungsänderung**[^65f-1]
 
-<sup>1</sup> Lässt das Institut für ein Originalpräparat eine neue Indikation zu oder stellt die Zulassungsinhaberin ein Gesuch um Änderung oder Aufhebung einer Limitierung aufgrund einer Indikationserweiterung, so überprüft das BAG das Originalpräparat erneut daraufhin, ob die Aufnahmebedingungen erfüllt sind.
+<sup>1</sup> Lässt die Swissmedic für ein Originalpräparat eine neue Indikation zu oder stellt die Zulassungsinhaberin ein Gesuch um Änderung oder Aufhebung einer Limitierung aufgrund einer Indikationserweiterung, so überprüft das BAG das Originalpräparat erneut daraufhin, ob die Aufnahmebedingungen erfüllt sind.
 
-<sup>2</sup> Das Originalpräparat gilt bis zur Überprüfung der Aufnahmebedingungen nach Artikel 65*d* als wirtschaftlich, wenn die Zulassungsinhaberin beantragt, auf 35 Prozent des voraussichtlichen Mehrumsatzes zu verzichten; der Verzicht wird über eine Senkung des Fabrikabgabepreises umgesetzt. Ausgenommen sind Originalpräparate, deren voraussichtliche Mengenausweitung an Anzahl Packungen mehr als hundert Mal höher ist als vor der Aufnahme der neuen Indikation oder deren voraussichtlicher Mehrumsatz aufgrund fehlender Angaben nicht bestimmbar ist.
+<sup>2</sup>
 
-<sup>3</sup> Nach Ablauf von zwei Jahren prüft das BAG, ob der voraussichtliche Gesamtumsatz, einschliesslich Mehrumsatz, nach Absatz 2 mit dem tatsächlichen Gesamtumsatz, einschliesslich Mehrumsatz, übereinstimmt. Ergibt die Überprüfung, dass der voraussichtliche Gesamtumsatz, einschliesslich Mehrumsatz, überschritten wurde, so verfügt das BAG eine angemessene Preissenkung.[^65f-2]
+Das Originalpräparat gilt bis zur Überprüfung der Aufnahmebedingungen nach Artikel 65*d* als wirtschaftlich, wenn die Zulassungsinhaberin beantragt, auf 35 Prozent des voraussichtlichen Mehrumsatzes zu verzichten; der Verzicht wird über eine Senkung des Fabrikabgabepreises umgesetzt. Ausgenommen sind Originalpräparate:
+
+- a. deren Marktvolumen aufgrund der Mengenausweitung voraussichtlich mehr als 20 Prozent höher sein wird als das Marktvolumen vor der Zulassung der neuen Indikation; oder
+- b.
+
+  bei denen die voraussichtliche Erhöhung des Marktvolumens nicht bestimmbar ist, namentlich wenn:
+
+  - 1\. das Originalpräparat oder die neue Indikation befristet aufgenommen wurde und die Frist innerhalb der folgenden zwei Jahre abläuft,
+  - 2\. für dasselbe Originalpräparat mehrere neue Indikationen innert kurzer Zeit aufgenommen werden,
+  - 3\. in den bisher vergüteten Indikationen ein Umsatzwachstum von über 10 Prozent erwartet wird.[^65f-2]
+
+<sup>3</sup> Nach Ablauf von zwei Jahren prüft das BAG, ob der voraussichtliche Gesamtumsatz, einschliesslich Mehrumsatz, nach Absatz 2 mit dem tatsächlichen Gesamtumsatz, einschliesslich Mehrumsatz, übereinstimmt. Ergibt die Überprüfung, dass der voraussichtliche Gesamtumsatz, einschliesslich Mehrumsatz, überschritten wurde, so verfügt das BAG eine angemessene Preissenkung.[^65f-3]
 
 <sup>4</sup> Verzichtet die Zulassungsinhaberin auf einen Antrag nach Absatz 2 erster Satz oder liegt eine Ausnahme nach Absatz 2 zweiter Satz vor, so erfolgt eine Beurteilung der Wirtschaftlichkeit nach Artikel 65*b*.
 
-<sup>5</sup> Erteilt das Institut die Zulassung für eine neue Indikation eines Originalpräparates, so hat die Zulassungsinhaberin diese Erweiterung dem BAG innert 90 Tagen zu melden. Das BAG kann eine angemessene Nachfrist setzen und die Einreichung der vom EDI für die Überprüfung der Aufnahmebedingungen festgelegten Unterlagen verlangen.
+<sup>5</sup> Erteilt die Swissmedic die Zulassung für eine neue Indikation eines Originalpräparates, so hat die Zulassungsinhaberin diese Erweiterung dem BAG innert 90 Tagen zu melden. Das BAG kann eine angemessene Nachfrist setzen und die Einreichung der vom EDI für die Überprüfung der Aufnahmebedingungen festgelegten Unterlagen verlangen.
 
 <sup>6</sup> Sind die Aufnahmebedingungen für die neue Indikation nicht erfüllt, so kann das BAG das Originalpräparat auf die bisherige Indikation limitieren.
 
 [^65f-1]: Eingefügt durch Ziff. I der V vom 8. Mai 2013 ([AS 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Siehe auch die UeB Änd. 8.5.2013 am Schluss des Textes.
-[^65f-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65f-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65f-3]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 65g
 
 **Indikationseinschränkung**[^65g-1]
 
-<sup>1</sup> Schränkt das Institut für ein Originalpräparat die Indikation ein, so passt das BAG die Limitierung in der Spezialitätenliste unverzüglich an. Es kann das Originalpräparat danach erneut daraufhin überprüfen, ob die Aufnahmebedingungen erfüllt sind, und von der Zulassungsinhaberin die dafür notwendigen Unterlagen einfordern.
+<sup>1</sup> Schränkt die Swissmedic für ein Originalpräparat die Indikation ein, so passt das BAG die Limitierung in der Spezialitätenliste unverzüglich an. Es kann das Originalpräparat danach erneut daraufhin überprüfen, ob die Aufnahmebedingungen erfüllt sind, und von der Zulassungsinhaberin die dafür notwendigen Unterlagen einfordern.
 
 <sup>2</sup> Überprüft das BAG das Originalpräparat nicht nach Absatz 1 daraufhin, ob die Aufnahmebedingungen erfüllt sind, so gelten das Originalpräparat und dessen Generika oder Co-Marketing-Arzneimittel bis zur Überprüfung der Aufnahmebedingungen nach Artikel 65*d* als wirtschaftlich. Der Preis darf wegen einer Indikationseinschränkung nicht erhöht werden.
 
-<sup>3</sup> Die Zulassungsinhaberin hat dem BAG innert 30 Tagen jede Einschränkung der Indikation durch das Institut zu melden und ihm die vom EDI festgelegten Unterlagen innert 90 Tagen nachzureichen.
+<sup>3</sup> Die Zulassungsinhaberin hat dem BAG innert 30 Tagen jede Einschränkung der Indikation durch die Swissmedic zu melden und ihm die vom EDI festgelegten Unterlagen innert 90 Tagen nachzureichen.
 
 [^65g-1]: Eingefügt durch Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
@@ -2279,66 +2452,53 @@ Das BAG kann nach der Aufnahme eines Arzneimittels in die Spezialitätenliste je
 
 **Preise**[^67-1]
 
-<sup>1</sup> Die Spezialitätenliste enthält die bei Abgabe durch Apothekerinnen und Apotheker, Ärztinnen und Ärzte sowie Spitäler und Pflegeheime massgebenden Höchstpreise.[^67-2]
+<sup>1</sup> Die Spezialitätenliste enthält die bei Abgabe durch Apothekerinnen und Apotheker, Ärztinnen und Ärzte sowie Spitäler und Pflegeheime verbindlichen Publikumspreise als Höchstpreise.
 
-<sup>1bis</sup> Der Höchstpreis besteht aus dem Fabrikabgabepreis und dem Vertriebsanteil.[^67-3]
+<sup>2</sup> Der Publikumspreis besteht aus dem Fabrikabgabepreis, dem Vertriebsanteil und der Mehrwertsteuer.
 
-<sup>1ter</sup> Der Fabrikabgabepreis gilt die Leistungen, Abgaben inbegriffen, der Herstellungs- und der Vertriebsfirma bis zur Ausgabe ab Lager in der Schweiz ab.[^67-4]
+<sup>3</sup> Der Fabrikabgabepreis gilt die Leistungen der Herstellungs- und der Vertriebsfirma bis zur Ausgabe ab Lager in der Schweiz ab. Er wird förmlich verfügt.
 
-<sup>1quater</sup>
+<sup>4</sup>
 
 Der Vertriebsanteil gilt die logistischen Leistungen ab. Er setzt sich wie folgt zusammen:
 
 - a.
 
-  für Arzneimittel, die aufgrund der Einteilung des Instituts verschreibungspflichtig sind, aus:
+  für Arzneimittel, die aufgrund der Einteilung der Swissmedic verschreibungspflichtig sind, aus:
 
   - 1\. einem im Verhältnis zur Höhe des Fabrikabgabepreises bemessenen Zuschlag (preisbezogener Zuschlag), namentlich für Kapitalkosten, Lagerhaltung und ausstehende Guthaben,
   - 2\. einem Zuschlag je Packung, namentlich für Transport-, Infrastruktur- und Personalkosten;
 
-- b. für Arzneimittel, die aufgrund der Einteilung des Instituts nicht verschreibungspflichtig sind, aus einem preisbezogenen Zuschlag.[^67-5]
+- b. für Arzneimittel, die aufgrund der Einteilung der Swissmedic nicht verschreibungspflichtig sind, aus einem preisbezogenen Zuschlag.
 
-<sup>2</sup>
+<sup>5</sup>
 
 Für die Erhöhung der in der Spezialitätenliste festgesetzten Preise bedarf es einer Bewilligung des BAG. Die Bewilligung wird nur erteilt, wenn:
 
 - a. das Arzneimittel die Aufnahmebedingungen noch erfüllt; und
-- b. seit der Aufnahme oder der letzten Preiserhöhung mindestens zwei Jahre verstrichen sind.[^67-6]
+- b. seit der Aufnahme oder der letzten Preiserhöhung mindestens zwei Jahre verstrichen sind.
 
-<sup>2bis</sup> …[^67-7]
-
-<sup>2ter</sup> …[^67-8]
-
-<sup>3</sup> …[^67-9]
-
-<sup>4</sup> …[^67-10]
-
-[^67-1]: Siehe die SchlB der Änd. vom 2. Okt. 2000 am Ende dieser Verordnung.
-[^67-2]: Fassung gemäss Ziff. I der V vom 2. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
-[^67-3]: Eingefügt durch Ziff. I der V vom 2. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
-[^67-4]: Eingefügt durch Ziff. I der V vom 2. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
-[^67-5]: Eingefügt durch Ziff. I der V vom 2. Okt. 2000 ([AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)). Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
-[^67-6]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^67-7]: Eingefügt durch Ziff. I der V vom 26. Juni 2002 ([AS 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Aufgehoben durch Ziff. I der V vom 1. Juli 2009, mit Wirkung seit 1. Okt. 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^67-8]: Eingefügt durch Ziff. I der V vom 26. Juni 2002 ([AS 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Aufgehoben durch Ziff. I der V vom 29. April 2015, mit Wirkung seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^67-9]: Aufgehoben durch Ziff. I der V vom 1. Juli 2009, mit Wirkung seit 1. Okt. 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^67-10]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Aufgehoben durch Ziff. I der V vom 2. Okt. 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
+[^67-1]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 67a
 
 **Rückerstattung von Mehreinnahmen**[^67a-1]
 
-<sup>1</sup> Übersteigt der bei der Aufnahme eines Arzneimittels in die Spezialitätenliste dem verfügten Höchstpreis zugrunde gelegte Fabrikabgabepreis den bei der Überprüfung der Wirtschaftlichkeit ermittelten Fabrikabgabepreis um mehr als 3 Prozent und betragen die dadurch erzielten Mehreinnahmen mindestens 20 000 Franken, so ist die Zulassungsinhaberin verpflichtet, die seit der Aufnahme erzielten Mehreinnahmen an die gemeinsame Einrichtung nach Artikel 18 KVG zurückzuerstatten.
+<sup>1</sup> Übersteigt der bei der Aufnahme eines Arzneimittels in die Spezialitätenliste dem publizierten Höchstpreis zugrunde gelegte verfügte Fabrikabgabepreis den bei der Überprüfung der Wirtschaftlichkeit ermittelten Fabrikabgabepreis um mehr als 3 Prozent und betragen die dadurch erzielten Mehreinnahmen mindestens 20 000 Franken, so ist die Zulassungsinhaberin verpflichtet, die seit der Aufnahme erzielten Mehreinnahmen an die gemeinsame Einrichtung nach Artikel 18 KVG zurückzuerstatten.[^67a-2]
 
 <sup>2</sup>
 
 Die Zulassungsinhaberin ist zudem verpflichtet, der gemeinsamen Einrichtung die Mehreinnahmen zurückzuerstatten, die sie erzielt hat:
 
-- a.[^67a-2] während der Dauer eines Beschwerdeverfahrens, sofern zwischen dem während des Beschwerdeverfahrens geltenden Preis und dem nach Abschluss des Beschwerdeverfahrens rechtskräftigen neuen Preis eine Differenz besteht und die Zulassungsinhaberin durch diese Preisdifferenz Mehreinnahmen erzielt hat;
+- a.[^67a-3] während der Dauer eines Beschwerdeverfahrens, sofern zwischen dem während des Beschwerdeverfahrens geltenden Preis und dem nach Abschluss des Beschwerdeverfahrens rechtskräftigen neuen Preis eine Differenz besteht und die Zulassungsinhaberin durch diese Preisdifferenz Mehreinnahmen erzielt hat;
 - b. während zwei Jahren nach der Senkung des Fabrikabgabepreises gemäss Artikel 65*f* Absatz 2 erster Satz, sofern der effektive Mehrumsatz höher war als der bei der Senkung angegebene voraussichtliche Mehrumsatz.
 
+<sup>3</sup> Ist ein von Absatz 2 Buchstabe a betroffenes Arzneimittel Originalpräparat für ein Generikum, Basispräparat für ein Co-Marketing-Arzneimittel oder Referenzpräparat für ein Biosimilar, so ist die Zulassungsinhaberin des Generikums, des Co-Marketingarzneimittels oder des Biosimilars verpflichtet, der gemeinsamen Einrichtung die Mehreinnahmen zurückzuerstatten, die sie während der Dauer des Beschwerdeverfahrens im Zusammenhang mit dem Originalpräparat, dem Basispräparat oder dem Referenzpräparat erzielt hat.[^67a-4]
+
 [^67a-1]: Eingefügt durch Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^67a-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^67a-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^67a-3]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^67a-4]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 68
 
@@ -2356,14 +2516,32 @@ Ein in der Spezialitätenliste aufgeführtes Arzneimittel wird gestrichen, wenn:
 - f.[^68-4] die Zulassungsinhaberin sich weigert, die für die Überprüfungen nach den Artikeln 65*d*–65*g* notwendigen Unterlagen einzureichen;
 - g.[^68-5] die Zulassungsinhaberin sich weigert, erzielte Mehreinnahmen nach Artikel 67*a* zurückzuerstatten.
 
-<sup>2</sup> Streichungen werden drei Monate nach ihrer Veröffentlichung im Bulletin des BAG (Art. 72 Bst. a) wirksam. Beim Vorliegen besonderer Gründe werden sie mit der Veröffentlichung wirksam.[^68-6]
+<sup>2</sup> …[^68-6]
 
 [^68-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 [^68-2]: Eingefügt durch Ziff. I der V vom 26. Juni 2002 ([AS 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 [^68-3]: Eingefügt durch Ziff. I der V vom 26. Juni 2002 ([AS 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 [^68-4]: Eingefügt durch Ziff. I der V vom 8. Mai 2013 ([AS 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 [^68-5]: Eingefügt durch Ziff. I der V vom 8. Mai 2013 ([AS 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^68-6]: Fassung gemäss Ziff. I der V vom 15. Juni 1998, in Kraft seit 1. Aug. 1998 ([AS 1998 1818](https://fedlex.data.admin.ch/eli/oc/1998/1818_1818_1818)).
+[^68-6]: Aufgehoben durch Ziff. I der V vom 22. Sept. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 68a
+
+**Ende der Vergütungspflicht**[^68a-1]
+
+<sup>1</sup>
+
+Folgende Änderungen der Spezialitätenliste werden drei Monate nach ihrer Veröffentlichung wirksam:
+
+- a. Streichungen von Arzneimitteln der Spezialitätenliste (Art. 68) und von einzelnen Packungen eines Arzneimittels;
+- b. Indikationseinschränkungen (Art. 65*g*);
+- c. Streichungen einzelner Indikationen (Art. 65*f*).
+
+<sup>2</sup> Beim Vorliegen besonderer Gründe, namentlich aufgrund der Streichung einer Indikation aus Sicherheitsgründen oder aufgrund fehlender Wirksamkeit durch die Swissmedic, werden die Änderungen nach Absatz 1 mit der Veröffentlichung wirksam.
+
+<sup>3</sup> Befristungen im Rahmen von Neuaufnahmen, Indikationserweiterungen und Limitierungsänderungen laufen drei Monate nach Ablauf der Befristung gemäss Spezialitätenliste aus.
+
+[^68a-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 69
 
@@ -2371,11 +2549,11 @@ Ein in der Spezialitätenliste aufgeführtes Arzneimittel wird gestrichen, wenn:
 
 <sup>1</sup> Das Gesuch um Aufnahme eines verwendungsfertigen Arzneimittels in die Spezialitätenliste ist beim BAG einzureichen.
 
-<sup>2</sup> Für jede Änderung eines in die Spezialitätenliste aufgenommenen Arzneimittels oder seines Preises ist ein neues Gesuch einzureichen. Bei Änderung in der Zusammensetzung der Wirkstoffe ist dem Gesuch die geänderte Zulassung des Instituts beizulegen.[^69-2]
+<sup>2</sup> Für jede Änderung eines in die Spezialitätenliste aufgenommenen Arzneimittels oder seines Preises ist ein neues Gesuch einzureichen. Bei Änderung in der Zusammensetzung der Wirkstoffe ist dem Gesuch die geänderte Zulassung der Swissmedic beizulegen.[^69-2]
 
 <sup>3</sup> Aus den Unterlagen, die dem Gesuch beigelegt sind, muss hervorgehen, dass die Aufnahmebedingungen erfüllt sind.
 
-<sup>4</sup> Das Gesuch um Aufnahme in die Spezialitätenliste oder um Änderung der Spezialitätenliste kann eingereicht werden, wenn die vom Institut im Rahmen des Vorbescheids nach Artikel 8 der Arzneimittelverordnung vom 21. September 2018[^69-3] bestätigten Angaben zur Indikation und zur Dosierung vorliegen. Das BAG tritt auf das Gesuch ein, sobald ihm die dazu gehörende Dokumentation vollständig vorliegt. Das EDI kann für einzelne Gesuche vorsehen, dass sie erst mit der Zulassung durch das Institut eingereicht werden können.[^69-4]
+<sup>4</sup> Das Gesuch um Aufnahme in die Spezialitätenliste oder um Änderung der Spezialitätenliste kann eingereicht werden, wenn die von der Swissmedic im Rahmen des Vorbescheids nach Artikel 8 der Arzneimittelverordnung vom 21. September 2018[^69-3] bestätigten Angaben zur Indikation und zur Dosierung vorliegen. Das BAG tritt auf das Gesuch ein, sobald ihm die dazu gehörende Dokumentation vollständig vorliegt. Das EDI kann für einzelne Gesuche vorsehen, dass sie erst mit der Zulassung durch die Swissmedic eingereicht werden können.[^69-4]
 
 [^69-1]: Fassung gemäss Ziff. I der V vom 26. Juni 2002, in Kraft seit 1. Juli 2002 ([AS 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
 [^69-2]: Fassung gemäss Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
@@ -2384,15 +2562,43 @@ Ein in der Spezialitätenliste aufgeführtes Arzneimittel wird gestrichen, wenn:
 
 #### Art. 69a
 
-[^69a-1]
+**Vorabklärung und vorzeitige Gesuchseinreichung**[^69a-1]
 
-[^69a-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2002 ([AS 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Aufgehoben durch Ziff. I der V vom 27. Juni 2007, mit Wirkung seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+<sup>1</sup> Für komplexe Gesuche kann vor der Gesuchseinreichung beim BAG eine Vorabklärung beantragt werden. Die Vorabklärung dient der Klärung grundsätzlicher Fragen und führt zu einer unverbindlichen Einschätzung des BAG zum beabsichtigten Gesuch.
+
+<sup>2</sup> Nach einer weiteren Vorabklärung unter Beizug der Swissmedic kann das Gesuch bereits vor dem Vorbescheid der Swissmedic beim BAG eingereicht werden (vorzeitige Gesuchseinreichung).
+
+<sup>3</sup>
+
+Das EDI legt fest:
+
+- a. für welche Gesuche eine Vorabklärung beantragt werden kann;
+- b. unter welchen Voraussetzungen das Gespräch im Rahmen der Vorabklärung stattfindet;
+- c. unter welchen Voraussetzungen eine vorzeitige Gesuchseinreichung möglich ist.
+
+[^69a-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2002 ([AS 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 69b
+
+**Vorübergehend nicht verfügbare Arzneimittel der Spezialitätenliste**[^69b-1]
+
+<sup>1</sup>
+
+Ist ein in der Spezialitätenliste aufgeführtes Arzneimittel vorübergehend nicht verfügbar, so übernimmt die obligatorische Krankenpflegeversicherung die Kosten eines in der Schweiz von der Swissmedic nicht zugelassenen verwendungsfertigen importierten Arzneimittels, sofern:
+
+- a. das Arzneimittel nach dem HMG eingeführt werden darf;
+- b. wegen fehlender therapeutischer Alternativen keine andere wirksame und zugelassene Behandlungsmethode verfügbar ist; und
+- c. die beiden Arzneimittel wirkstoffgleich sind, die gleiche Indikation haben und eine vergleichbare Darreichungsform und Packungsgrösse aufweisen.
+
+<sup>2</sup> Der Versicherer vergütet die effektiven Kosten. Der Leistungserbringer achtet bei der Auswahl des Landes, aus dem er das Arzneimittel importiert, auf die Kosten.
+
+[^69b-1]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 70
 
 **Aufnahme ohne Gesuch**[^70-1]
 
-Das BAG kann ein vom Institut zugelassenes Arzneimittel oder eine vom Institut zugelassene Indikation eines Arzneimittels auch ohne Gesuch der Zulassungsinhaberin oder gegen deren Antrag in die Spezialitätenliste aufnehmen oder darin belassen, sofern das Arzneimittel oder die Indikation für die medizinische Versorgung von grosser Bedeutung ist. Es legt den Preis fest.
+Das BAG kann ein von der Swissmedic zugelassenes Arzneimittel oder eine von der Swissmedic zugelassene Indikation eines Arzneimittels auch ohne Gesuch der Zulassungsinhaberin oder gegen deren Antrag in die Spezialitätenliste aufnehmen oder darin belassen, sofern das Arzneimittel oder die Indikation für die medizinische Versorgung von grosser Bedeutung ist. Es legt den Preis fest.
 
 [^70-1]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
@@ -2415,37 +2621,82 @@ Das EDI erlässt nähere Vorschriften:
 
 **Gebühren**[^70b-1]
 
-<sup>1</sup> Für Verfügungen über Gesuche um Eintragung in die Spezialitätenliste und für die einzelnen Einträge werden Gebühren erhoben. Die Ansätze für die Gebühren sind im Anhang 1 festgelegt.
+<sup>1</sup>
+
+Es werden Gebühren erhoben für:
+
+- a. Gesuche um Eintragung in die Spezialitätenliste;
+- b. die Vorabklärung beim BAG und die weitere Vorabklärung im Hinblick auf die vorzeitige Gesuchseinreichung unter Beizug von Swissmedic;
+- c. die Überprüfung der Aufnahmebedingungen alle drei Jahre;
+- d. die einzelnen Einträge in die Spezialitätenliste.[^70b-2]
+
+<sup>1bis</sup> Die Ansätze für die Gebühren sind in Anhang 1 festgelegt.[^70b-3]
 
 <sup>2</sup> Ausserordentliche Auslagen, namentlich Auslagen für externe medizinische oder ökonomische Expertisen, können zusätzlich in Rechnung gestellt werden. Der Stundenansatz beträgt 200 Franken.
 
-<sup>3</sup> Für ausserordentliche Aufwendungen kann das BAG nach Massgabe des Zeitaufwandes Gebühren erheben. Der Stundenansatz beträgt je nach erforderlicher Sachkenntnis 100 – 250 Franken.
+<sup>3</sup> Für ausserordentliche Aufwendungen kann das BAG nach Massgabe des Zeitaufwandes Gebühren erheben. Der Stundenansatz beträgt je nach erforderlicher Sachkenntnis 100–250 Franken.
 
-<sup>4</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^70b-2].
+<sup>4</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^70b-4].
 
 [^70b-1]: Ursprünglich Art. 71. Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)).
-[^70b-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^70b-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^70b-3]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^70b-4]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 71
 
 **Veröffentlichungen**[^71-1]
 
-<sup>1</sup> Das BAG veröffentlicht die Spezialitätenliste (Art. 52 Abs. 1 Bst. b KVG).
+<sup>1</sup>
 
-<sup>2</sup> Bei der Aufnahme eines Arzneimittels in die Spezialitätenliste und bei Indikationserweiterungen oder Limitierungsänderungen nach Artikel 65*f* veröffentlicht es die Grundlagen zur Beurteilung der Wirksamkeit und der Zweckmässigkeit des Arzneimittels, des therapeutischen Quervergleichs (Art. 65*b* Abs. 2 Bst. b) und des Innovationszuschlags (Art. 65*b* Abs. 7) sowie den durchschnittlichen Fabrikabgabepreis der Referenzländer (Art. 65*b* Abs. 2 Bst. a).[^71-2]
+Das BAG veröffentlicht:
 
-<sup>3</sup> Bei einer befristeten Aufnahme in die Spezialitätenliste nach Artikel 65 Absatz 5 Buchstabe a veröffentlicht es die Dauer der Aufnahme.
+- a. die Spezialitätenliste (Art. 52 Abs. 1 Bst. b KVG);
+- b.
 
-<sup>4</sup> Wird ein Entscheid des BAG mittels Beschwerde angefochten, so kann das BAG den Namen des von der Beschwerde betroffenen Arzneimittels veröffentlichen.
+  die Grundlagen zur Beurteilung der Wirksamkeit und der Zweckmässigkeit des Originalpräparats, zum therapeutischen Quervergleich (Art. 65*b* Abs. 2 Bst. a) und zum Innovationszuschlag (Art. 65*b*<sup>ter</sup>), mit Ausnahme der Grundlagen zur Berechnung von vertraulichen Rückerstattungen der Zulassungsinhaberin, sowie den Preis aus dem Durchschnitt der Preise der Referenzländer beim Auslandpreisvergleich (Art. 65*b* Abs. 2 Bst. b) bezüglich folgender Gesuche, sofern die Eidgenössische Arzneimittelkommission konsultiert wird:
 
-<sup>5</sup> Nach der Überprüfung der Aufnahmebedingungen nach Patentablauf veröffentlicht es die Fabrikabgabepreise des Originalpräparates.[^71-3]
+  - 1\. Gesuch um Aufnahme eines Originalpräparates in die Spezialitätenliste,
+  - 2\. Gesuch um Indikationserweiterung (Art. 65*f*),
+  - 3\. Gesuch um Limitierungsänderung (Art. 65*f*),
+  - 4\. Gesuch um Preiserhöhung (Art. 67 Abs. 5);
 
-<sup>6</sup> Die Veröffentlichungen nach den Absätzen 1–5 erfolgen über eine öffentlich zugängliche Online-Plattform.[^71-4]
+- c. bei einer Ablehnung der Aufnahme eines Originalpräparates in die Spezialitätenliste: die Gründe für die Ablehnung;
+- d. bei einer befristeten Aufnahme in die Spezialitätenliste nach Artikel 65 Absatz 5 Buchstabe a: die Dauer der Aufnahme;
+- e. bei Streichungen eines Arzneimittels aus der Spezialitätenliste (Art. 68): die Gründe für die Streichung;
+- f.
 
-[^71-1]: Eingefügt durch Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Siehe auch die UeB dieserÄnd. am Schluss des Textes.
-[^71-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^71-3]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^71-4]: Die Dokumente können abgerufen werden unter: www.bag.admin.ch &gt; Themen &gt; Krankenversicherung &gt; Tarife und Preise &gt; Spezialitätenliste
+  nach Eingang eines Gesuchs um Neuaufnahme, Indikationserweiterung oder Limitierungsänderung eines Originalpräparates:
+
+  - 1\. den Namen des Arzneimittels,
+  - 2\. die Krankheit, für die die Vergütung einer Therapie beantragt wird,
+  - 3\. den Namen der Zulassungsinhaberin,
+  - 4\. die Gesuchsart,
+  - 5\. das Eingangsdatum des Gesuchs,
+  - 6\. den Status der Zulassung bei der Swissmedic zum Zeitpunkt des Gesuchseingangs;
+
+- g.
+
+  im Rahmen der Überprüfung der Aufnahmebedingungen alle drei Jahre:
+
+  - 1\. die Grundlagen zur Beurteilung der Wirksamkeit und der Zweckmässigkeit des Originalpräparates, soweit diese zu einer Änderung der Spezialitätenliste führen,
+  - 2\. den Preis aus dem Durchschnitt der Preise der Referenzländer beim Auslandpreisvergleich,
+  - 3\. die Grundlagen zum therapeutischen Quervergleich, insbesondere eine tabellarische Übersicht der Vergleichsarzneimittel und deren Kosten.
+
+- h. bei Preissenkungen: den Grund der Anpassung;
+
+<sup>2</sup>
+
+Bei hängigen Gesuchen zu Originalpräparaten kann es auf Anfrage von Dritten über den Stand des Verfahrens summarisch Auskunft geben. Es kann angeben, welche Aufnahmebedingungen (Art. 65 Abs. 3) sich noch in Abklärung befinden, ohne dies inhaltlich näher zu begründen. Die Auskunft erfolgt:
+
+- a. bei Gesuchen, die bereits mit Vorbescheid der Swissmedic beim BAG eingereicht wurden, frühestens 60 Tage nach der Zulassung durch die Swissmedic;
+- b. bei Gesuchen, die erst nach der Zulassung durch die Swissmedic beim BAG eingereicht wurden: frühestens 180 Tage nach der Gesuchseinreichung beim BAG.
+
+<sup>3</sup> Wird ein Entscheid des BAG mittels Beschwerde angefochten, so kann das BAG den Namen des von der Beschwerde betroffenen Arzneimittels und die Verfahrensart des angefochtenen Entscheides veröffentlichen.
+
+<sup>4</sup> Die Veröffentlichungen erfolgen über eine öffentlich zugängliche Online-Plattform.
+
+[^71-1]: Eingefügt durch Ziff. I der V vom 29. April 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 ### 4*a*. Abschnitt: Vergütung von Arzneimitteln im Einzelfall
 
@@ -2459,38 +2710,64 @@ Das EDI erlässt nähere Vorschriften:
 
 <sup>1</sup>
 
-Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines in die Spezialitätenliste aufgenommenen Arzneimittels für eine Anwendung ausserhalb der vom Institut genehmigten Fachinformation oder ausserhalb der in der Spezialitätenliste festgelegten Limitierung nach Artikel 73, wenn:
+Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines in die Spezialitätenliste aufgenommenen Arzneimittels für eine Anwendung ausserhalb der von der Swissmedic genehmigten Fachinformation oder ausserhalb der in der Spezialitätenliste festgelegten Limitierung nach Artikel 73, wenn:
 
-- a. der Einsatz des Arzneimittels eine unerlässliche Voraussetzung für die Durchführung einer anderen von der obligatorischen Krankenpflegeversicherung übernommenen Leistung bildet und diese eindeutig im Vordergrund steht; oder
-- b. vom Einsatz des Arzneimittels ein grosser therapeutischer Nutzen gegen eine Krankheit erwartet wird, die für die versicherte Person tödlich verlaufen oder schwere und chronische gesundheitliche Beeinträchtigungen nach sich ziehen kann, und wegen fehlender therapeutischer Alternativen keine andere wirksame und zugelassene Behandlungsmethode verfügbar ist.
+- a. der Einsatz des Arzneimittels eine unerlässliche Voraussetzung für die Durchführung einer anderen von der obligatorischen Krankenpflegeversicherung übernommenen Leistung bildet und diese eindeutig im Vordergrund steht;
+- b. mit dem Einsatz des Arzneimittels von einem grossen therapeutischen Nutzen gegen eine Krankheit ausgegangen wird, die für die versicherte Person tödlich verlaufen oder schwere und chronische gesundheitliche Beeinträchtigungen nach sich ziehen kann, und wegen fehlender therapeutischer Alternativen keine andere wirksame und zugelassene Behandlungsmethode verfügbar ist; oder
+- c. der Einsatz des Arzneimittels einer Präventionsmassnahme nach Artikel 33 Buchstabe d im Rahmen einer Postexpositionsprophylaxe dient und ein allfälliger Ausbruch der Krankheit für die versicherte Person tödlich verlaufen oder schwere und chronische gesundheitliche Beeinträchtigungen nach sich ziehen kann.
 
-<sup>2</sup> Der Versicherer bestimmt nach Absprache mit der Zulassungsinhaberin die Höhe der Vergütung. Der zu vergütende Preis muss unter dem Höchstpreis der Spezialitätenliste liegen.[^71a-2]
+<sup>2</sup> Das EDI legt die Kategorien für die Bewertung des therapeutischen Nutzens nach Absatz 1 Buchstabe b fest.
 
-<sup>3</sup> …[^71a-3]
+<sup>3</sup>
 
-[^71a-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2011, in Kraft seit 1. März 2011 ([AS 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)).
-[^71a-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^71a-3]: Aufgehoben durch Ziff. I der V vom 1. Febr. 2017, mit Wirkung seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+Der Versicherer bestimmt nach Absprache mit der Zulassungsinhaberin ausgehend vom Fabrikabgabepreis die Höhe der Vergütung. Er muss gewährleisten, dass:
+
+- a. in Fällen nach Absatz 1 Buchstaben a und c ein Preisabschlag vom entsprechenden Fabrikabgabepreis der Spezialitätenliste vorgenommen wird; das EDI legt den Preisabschlag fest; dieser beträgt höchstens 30 Prozent;
+- b. in Fällen nach Absatz 1 Buchstabe b die übernommenen Kosten in einem angemessenen Verhältnis zum therapeutischen Nutzen stehen; das EDI legt einen Preisabschlag gegenüber dem entsprechenden Fabrikabgabepreis der Spezialitätenliste gemäss den Kategorien für die Bewertung des therapeutischen Nutzens fest; der Preisabschlag beträgt höchstens 50 Prozent.
+
+<sup>4</sup>
+
+Der Versicherer darf einen höheren Preisabschlag, als in Absatz 3 festgelegt ist, vornehmen, wenn:
+
+- a. der Fabrikabgabepreis auf das durchschnittliche Generika- oder Biosimilar-Preisniveau zu senken ist; oder
+- b. Bedingungen und Auflagen, welche die Höhe der Vergütung betreffen, festgelegt wurden.
+
+<sup>5</sup> Bei sehr tiefen Jahres- oder Tagestherapiekosten kann der Versicherer von einem Preisabschlag absehen. Das EDI legt fest, welche Jahres- oder Tagestherapiekosten als sehr tief gelten.
+
+[^71a-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2011 ([AS 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 71b
 
-**Übernahme der Kosten eines vom Institut zugelassenen nicht in die Spezialitätenliste aufgenommenen Arzneimittels**[^71b-1]
+**Übernahme der Kosten eines von der Swissmedic zugelassenen nicht in die Spezialitätenliste aufgenommenen Arzneimittels**[^71b-1]
 
-<sup>1</sup> Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines vom Institut zugelassenen verwendungsfertigen Arzneimittels, das nicht in die Spezialitätenliste aufgenommen ist, für eine Anwendung innerhalb oder ausserhalb der Fachinformation, wenn die Voraussetzungen nach Artikel 71*a* Absatz 1 Buchstabe a oder b erfüllt sind.
+<sup>1</sup> Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines von der Swissmedic zugelassenen verwendungsfertigen Arzneimittels, das nicht in die Spezialitätenliste aufgenommen ist, für eine Anwendung innerhalb oder ausserhalb der Fachinformation, wenn mindestens eine der Voraussetzungen nach Artikel 71*a* Absatz 1 erfüllt ist.
 
-<sup>2</sup> Der Versicherer bestimmt nach Absprache mit der Zulassungsinhaberin die Höhe der Vergütung.
+<sup>2</sup>
 
-[^71b-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2011 ([AS 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+Der Versicherer bestimmt nach Absprache mit der Zulassungsinhaberin die Höhe der Vergütung. Er muss gewährleisten, dass:
+
+- a. in Fällen nach Artikel 71*a* Absatz 1 Buchstaben a und c ein Preisabschlag vom mittels Auslandpreisvergleich nach Artikel 65*b*<sup>quater</sup> ermittelten Fabrikabgabepreis vorgenommen wird; das EDI legt den Preisabschlag fest; dieser beträgt höchstens 30 Prozent;
+- b. in Fällen nach Artikel 71*a* Absatz 1 Buchstabe b die übernommenen Kosten in einem angemessenen Verhältnis zum therapeutischen Nutzen stehen; das EDI legt einen Preisabschlag gegenüber dem mittels Auslandpreisvergleich nach Artikel 65*b*<sup>quater</sup> ermittelten Fabrikabgabepreis gemäss den Kategorien für die Bewertung des therapeutischen Nutzens fest; der Preisabschlag beträgt höchstens 50 Prozent.
+
+<sup>3</sup> Bei sehr tiefen Jahres- oder Tagestherapiekosten kann der Versicherer von einem Preisabschlag absehen. Das EDI legt fest, welche Jahres- oder Tagestherapiekosten als sehr tief gelten.
+
+[^71b-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2011 ([AS 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 71c
 
-**Übernahme der Kosten eines vom Institut nicht zugelassenen importierten Arzneimittels**[^71c-1]
+**Übernahme der Kosten eines von der Swissmedic nicht zugelassenen importierten Arzneimittels**[^71c-1]
 
-<sup>1</sup> Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines vom Institut nicht zugelassenen verwendungsfertigen Arzneimittels, das nach dem Heilmittelgesetz eingeführt werden darf, sofern die Voraussetzungen nach Artikel 71*a* Absatz 1 Buchstabe a oder b erfüllt sind und das Arzneimittel von einem Land mit einem vom Institut als gleichwertig anerkannten Zulassungssystem für die entsprechende Indikation zugelassen ist.
+<sup>1</sup>
 
-<sup>2</sup> Der Versicherer vergütet die Kosten, zu denen das Arzneimittel aus dem Ausland importiert wird. Der Leistungserbringer achtet bei der Auswahl des Landes, aus dem er das Arzneimittel importiert, auf die Kosten.
+Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines von der Swissmedic nicht zugelassenen verwendungsfertigen importierten Arzneimittels, wenn:
 
-[^71c-1]: Eingefügt durch Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+- a. mindestens eine der Voraussetzungen nach Artikel 71*a* Absatz 1 erfüllt ist;
+- b. das Arzneimittel nach dem HMG eingeführt werden darf; und
+- c. das Arzneimittel in einem Land mit einem von der Swissmedic als gleichwertig anerkannten Zulassungssystem für die entsprechende Indikation zugelassen ist.
+
+<sup>2</sup> Der Versicherer bestimmt nach Absprache mit der Zulassungsinhaberin die Höhe der Vergütung. Der Versicherer kann vom Leistungserbringer verlangen, dass dieser das Arzneimittel aus dem Land importiert, bei dem die tiefsten Kosten für die Vergütung entstehen.
+
+[^71c-1]: Eingefügt durch Ziff. I der V vom 1. Febr. 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)). Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 71d
 
@@ -2498,13 +2775,21 @@ Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines in die 
 
 <sup>1</sup> Die obligatorische Krankenpflegeversicherung übernimmt die Kosten des Arzneimittels nur auf besondere Gutsprache des Versicherers nach vorgängiger Konsultation des Vertrauensarztes oder der Vertrauensärztin.
 
-<sup>2</sup> Der Versicherer überprüft, ob die von der obligatorischen Krankenpflegeversicherung übernommenen Kosten in einem angemessenen Verhältnis zum therapeutischen Nutzen stehen.
+<sup>2</sup> …[^71d-2]
 
 <sup>3</sup> Ist das Gesuch um Kostengutsprache vollständig, so entscheidet der Versicherer innert zwei Wochen darüber.
 
-<sup>4</sup> Der Leistungserbringer stellt dem Versicherer die effektiven Kosten in Rechnung. Bei Arzneimitteln nach Artikel 71*a* wird der Höchstpreis der Spezialitätenliste in Rechnung gestellt, bei Arzneimitteln nach den Artikeln 71*b* und 71*c* der Preis, zu dem das Arzneimittel vom Leistungserbringer bezogen wurde, zuzüglich des Vertriebsanteils nach Artikel 67 Absatz 1<sup>quater</sup> und der Mehrwertsteuer.
+<sup>4</sup> Der Leistungserbringer stellt dem Versicherer die effektiven Kosten in Rechnung. Bei Arzneimitteln nach Artikel 71*a* wird der Höchstpreis der Spezialitätenliste in Rechnung gestellt, bei Arzneimitteln nach den Artikeln 71*b* und 71*c* der Preis, zu dem das Arzneimittel vom Leistungserbringer bezogen wurde, zuzüglich des Vertriebsanteils nach Artikel 67 Absatz 4 und der Mehrwertsteuer.[^71d-3]
+
+<sup>5</sup> Ist absehbar, dass ein Gesuch um Vergütung eines wichtigen Arzneimittels für seltene Krankheiten nach Artikel 4 Absatz 1 Buchstabe a<sup>decies</sup> Ziffer 1 HMG aufgrund Bewertung des therapeutischen Nutzens abgelehnt werden wird, und liegen keine klinischen Studien vor, so hört der Vertrauensarzt oder die Vertrauensärztin mindestens einen klinischen Fachexperten oder eine klinische Fachexpertin an. Dieser oder diese gibt eine Empfehlung ab.[^71d-4]
+
+<sup>6</sup> Bei der Ablehnung eines Gesuchs um Vergütung eines Arzneimittels begründet der Versicherer den Entscheid gegenüber dem behandelnden Arzt oder der behandelnden Ärztin und dem Patienten oder der Patientin. Erfolgt die Ablehnung aufgrund der Bewertung des therapeutischen Nutzens, so ist diese beizufügen.[^71d-5]
 
 [^71d-1]: Eingefügt durch Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^71d-2]: Aufgehoben durch Ziff. I der V vom 22. Sept. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^71d-3]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^71d-4]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^71d-5]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 71e
 
@@ -2513,16 +2798,14 @@ Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines in die 
 Die Artikel 71*a*–71*d* finden für die Übernahme der Kosten in folgenden Fällen keine Anwendung:
 
 - a. Arzneimittel, die zur Behandlung von Covid-19 eingesetzt werden und Wirkstoffe enthalten, die in Anhang 5 der Covid-19-Verordnung 3 vom 19. Juni 2020[^71e-2] aufgeführt sind;
-- b. Arzneimittel, die über eine gültige Zulassung des Instituts mit einer Indikation für die Behandlung von Covid-19 verfügen.
+- b. Arzneimittel, die über eine gültige Zulassung der Swissmedic mit einer Indikation für die Behandlung von Covid-19 verfügen.
 
-[^71e-1]: Eingefügt durch Ziff. III der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)Ziff. IV).
+[^71e-1]: Eingefügt durch Ziff. III der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 31. Jan. 2024 ([AS 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)Ziff. II 2).
 [^71e-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 71f
 
-**Übernahme der Kosten von Arzneimitteln zur ambulanten oder stationären Behandlung von Affenpocken**[^71f-1]
-
-Die Artikel 71*a*–71*d* finden keine Anwendung für die Übernahme der Kosten von Arzneimitteln, die zur ambulanten oder stationären Behandlung von Affenpocken eingesetzt werden.
+[^71f-1]
 
 [^71f-1]: Eingefügt durch Ziff. III der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
@@ -2535,21 +2818,9 @@ Die Artikel 71*a*–71*d* finden keine Anwendung für die Übernahme der Kosten 
 
 #### Art. 72
 
-**Veröffentlichungen im Bulletin des BAG[^72-1]**
+[^72-1]
 
-Im Bulletin des BAG werden veröffentlicht:[^72-2]
-
-- a. Streichungen aus der Spezialitätenliste;
-- b.[^72-3] andere Änderungen der Spezialitätenliste;
-- c. Änderungen der Arzneimittelliste mit Tarif, die keine Neuauflage dieser Liste erfordern;
-- d.[^72-4] Änderungen der Analysenliste, die ausserhalb der jährlichen Publikationen wirksam werden;
-- e.[^72-5] Änderungen der Mittel- und Gegenständeliste (Art. 33 Bst. e), die ausserhalb der jährlichen Publikationen wirksam werden.
-
-[^72-1]: Fassung gemäss Ziff. I der V vom 15. Juni 1998, in Kraft seit 1. Aug. 1998 ([AS 1998 1818](https://fedlex.data.admin.ch/eli/oc/1998/1818_1818_1818)).
-[^72-2]: Fassung gemäss Ziff. I der V vom 15. Juni 1998, in Kraft seit 1. Aug. 1998 ([AS 1998 1818](https://fedlex.data.admin.ch/eli/oc/1998/1818_1818_1818)).
-[^72-3]: Fassung gemäss Ziff. I der V vom 2. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
-[^72-4]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^72-5]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^72-1]: Aufgehoben durch Ziff. I der V vom 22. Sept. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 73
 
@@ -3395,9 +3666,10 @@ Der Satz für den Verzugszins auf fälligen Prämien nach Artikel 26 Absatz 1 AT
 
 <sup>1</sup> Der Versicherer muss die Zahlungsaufforderung bei Nichtbezahlung von Prämien und Kostenbeteiligungen spätestens drei Monate ab deren Fälligkeit zustellen. Er muss sie getrennt von allfälligen anderen Zahlungsausständen zustellen.
 
-<sup>2</sup> Verschuldet die versicherte Person Aufwendungen, die bei rechtzeitiger Zahlung nicht entstanden wären, so kann der Versicherer angemessene Bearbeitungsgebühren erheben, sofern er in seinen allgemeinen Bestimmungen über die Rechte und Pflichten der Versicherten eine entsprechende Regelung vorsieht.
+<sup>2</sup> Verschuldet die versicherte Person Aufwendungen, die bei rechtzeitiger Zahlung nicht entstanden wären, so kann der Versicherer angemessene Bearbeitungsgebühren erheben, sofern er in seinen allgemeinen Bestimmungen über die Rechte und Pflichten der Versicherten eine entsprechende Regelung vorsieht. Das EDI legt die Höchstbeträge dieser Gebühren fest.[^105b-2]
 
 [^105b-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105c
 
@@ -3440,6 +3712,16 @@ Der Kanton meldet dem Versicherer die zuständige kantonale Behörde.
 [^105f-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^105f-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
+#### Art. 105f<sup>bis</sup>
+
+**Zusätzliche Übernahme der gemeldeten Forderungen**[^105fbis-1]
+
+<sup>1</sup> Die zuständige kantonale Behörde informiert die Versicherer vor dem 1. Dezember, wenn sie nach Artikel 64*a* Absatz 5 KVG beschliesst, zusätzlich 5 Prozent aller Forderungen zu übernehmen, die im Folgejahr Gegenstand einer Meldung nach Artikel 64*a* Absätze 3 und 3<sup>bis</sup> KVG sein werden. Der Beschluss gilt für ein Kalenderjahr.
+
+<sup>2</sup> Die zuständige kantonale Behörde kann zwischen einer jährlichen und einer vierteljährlichen Übernahme der vom Versicherer gemeldeten Forderungen wählen. Sie gibt ihre Wahl innerhalb der Frist nach Absatz 1 bekannt.
+
+[^105fbis-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+
 #### Art. 105g
 
 **Personendaten**[^105g-1]
@@ -3458,9 +3740,9 @@ Bei der Bekanntgabe nach Artikel 64*a* Absatz 3 des Gesetzes muss der Versichere
 
 **Datenaustausch**[^105h-1]
 
-Das EDI kann die technischen und organisatorischen Vorgaben für den Datenaustausch zwischen Kantonen und Versicherern festlegen.
+Das EDI kann nach Anhörung der Kantone und der Versicherer technische und organisatorische Vorgaben für den Datenaustausch und das Datenformat festlegen.
 
-[^105h-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105h-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105i
 
@@ -3520,9 +3802,12 @@ Sie überprüft die Richtigkeit und die Vollständigkeit der Angaben des Versich
 
 <sup>2</sup> Kündigt eine säumige versicherte Person ihr Versicherungsverhältnis, so muss der Versicherer sie informieren, dass die Kündigung keine Wirkung entfaltet, wenn die bis einen Monat vor Ablauf der Kündigungsfrist gemahnten Prämien, Kostenbeteiligungen und Verzugszinse sowie die bis zu diesem Zeitpunkt aufgelaufenen Betreibungskosten bis zum Ablauf der Kündigungsfrist nicht vollständig bezahlt sind.
 
+<sup>2bis</sup> Der Versicherer informiert Versicherte, die das 18. Altersjahr vollenden, dass sie bei vor Erreichen der Volljährigkeit geschuldeten Beträgen nicht als säumig gelten.[^105l-2]
+
 <sup>3</sup> Sind die ausstehenden Beträge nach Absatz 2 beim Versicherer nicht rechtzeitig eingetroffen, so muss dieser die betroffene Person informieren, dass sie weiterhin bei ihm versichert ist und frühestens auf den nächstmöglichen Termin nach Artikel 7 Absätze 1 und 2 des Gesetzes den Versicherer wechseln kann. Der Versicherer muss zudem den neuen Versicherer innerhalb von 60 Tagen darüber informieren, dass die versicherte Person weiterhin bei ihm versichert ist.
 
 [^105l-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105l-2]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105m
 
@@ -3621,14 +3906,18 @@ Er meldet dem Versicherer:
 
 <sup>5</sup>
 
-Er bezahlt der versicherten Person die Differenz innerhalb von 60 Tagen aus, wenn seine restlichen Prämienforderungen für das laufende Kalenderjahr und seine anderen fälligen Forderungen aus der obligatorischen Krankenpflegeversicherung, für die kein Verlustschein vorliegt, kleiner sind als:
+Er darf seine restlichen Prämienforderungen für das laufende Kalenderjahr und seine anderen fälligen Forderungen aus der obligatorischen Krankenpflegeversicherung unter Vorbehalt von Artikel 105*k* Absatz 5 mit folgenden Beiträgen verrechnen:
 
-- a. die vom Kanton gewährte Prämienverbilligung; vorbehalten bleiben kantonale Regelungen, wonach die Prämie höchstens bis zu ihrem vollen Umfang verbilligt werden kann und wonach kleine Beträge nicht ausgerichtet werden;
-- b. der vom Kanton gewährte Pauschalbeitrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^106c-1] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung.
+- a. der vom Kanton gewährten Prämienverbilligung;
+- b. dem vom Kanton gewährten Pauschalbeitrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^106c-1] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung.[^106c-2]
+
+<sup>5bis</sup> Er bezahlt der versicherten Person den Differenzbetrag innerhalb von 60 Tagen nach der Meldung der Prämienverbilligung durch den Kanton aus. Kantonale Regelungen, wonach die Prämie höchstens bis zu ihrem vollen Umfang verbilligt werden kann und wonach kleine Beträge nicht ausgerichtet werden, bleiben vorbehalten.[^106c-3]
 
 <sup>6</sup> Der Kanton kann vorsehen, dass der Versicherer ihm die Personendaten nach Artikel 105*g* und weitere Daten für seine Versicherten im betreffenden Kanton mitteilt.
 
 [^106c-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^106c-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 106d
 
@@ -3924,9 +4213,7 @@ Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 [^u3-1]
 
-[^u3-1]: [AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)
-
-Das BAG kann für bestimmte Arzneimittelgruppen während höchstens fünf Jahren auf die Anpassung der Preise an die in Artikel 67 vorgesehene Preisstruktur verzichten oder eine gestaffelte Anpassung vorsehen.
+[^u3-1]: [AS 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481). Gegenstandslos durch die Änd. vom 22. Sept. 2023 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 ## Schlussbestimmungen der Änderung vom 22. Mai 2002
 
@@ -4265,25 +4552,62 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 [^u31-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 
+## Übergangsbestimmungen zur Änderung vom 22. September 2023
+
+[^u32-1]
+
+[^u32-1]: [AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)
+
+<sup>1</sup> Die Änderung vom 22. September 2023 gilt auch für Verfahren, die beim Inkrafttreten dieser Änderung beim BAG hängig sind.
+
+<sup>2</sup> Für Verfahren der Überprüfung der Aufnahmebedingungen alle drei Jahre nach Artikel 65*d*, die beim Inkrafttreten der Änderung vom 22. September 2023 beim BAG hängig sind, gilt das bisherige Recht.
+
+<sup>3</sup> Bei vor dem Inkrafttreten der Änderung vom 22. September 2023 entschiedenen Kostengutsprachegesuchen nach den Artikeln 71*a*–71*d* gilt noch während drei Monaten nach Inkrafttreten dieser Änderung das bisherige Recht.
+
+<sup>4</sup> Bei der ersten Überprüfung der Aufnahmebedingungen alle drei Jahre nach dem Inkrafttreten der Änderung vom 22. September 2023 wird die Wirtschaftlichkeit von Biosimilars, die vor dem Inkrafttreten dieser Änderung in die Spezialitätenliste aufgenommen wurden, anhand der Preisabstände der Aufnahme (Art. 65*c*<sup>bis</sup>) beurteilt.
+
+## Übergangsbestimmungen zur Änderung vom 22. November 2023
+
+[^u33-1]
+
+[^u33-1]: [AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)
+
+<sup>1</sup> Der Kanton informiert den Versicherer innerhalb von zwei Wochen nach Ablauf jedes Quartals über die Übernahme von zusätzlich 3 Prozent einer Forderung, von der er vor dem Inkrafttreten der Änderung vom 18. März 2022[^u33-2] des KVG bereits einen Anteil von 85 Prozent übernommen hatte.
+
+<sup>2</sup> Der Versicherer bestätigt die Forderung innerhalb von 30 Tagen nach der Information durch den Kanton oder informiert den Kanton über jede eingegangene Bezahlung seit der Zahlung des Anteils von 85 Prozent durch den Kanton. Hat der Kanton zusätzlich 3 Prozent der Forderung übernommen, so tritt der Versicherer ihm diese Forderung innerhalb von drei Monaten nach der Zahlung durch den Kanton ab, sofern es sich um Prämien, Kostenbeteiligungen, Verzugszinsen oder Betreibungskosten handelt.
+
+<sup>3</sup> Die versicherte Person, deren Kanton zusätzlich 3 Prozent einer gemeldeten Forderung übernommen hat, gilt ab der Zahlung durch den Kanton nicht mehr als säumig.
+
+[^u33-2]: [AS 2022 701](https://fedlex.data.admin.ch/eli/oc/2022/701)
+
 Anhang 1[^t-1]
 
-(Art. 70*b*)
+(Art. 70*b* Abs. 1<sup>bis</sup>)
 
 ## Gebühren für Eintragungen in der Spezialitätenliste
 
-[^t-1]: Eingefügt durch Ziff. II der V vom 8. Mai 2013 ([AS 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Fassung gemäss Ziff. III der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^t-1]: Eingefügt durch Ziff. II der V vom 8. Mai 2013 ([AS 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Fassung gemäss Ziff. II der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).).
 
 <table>
-<tr><td></td><td>Fr.</td></tr>
-<tr><td>1. Gebühren pro galenische Form für Verfügungen über Gesuche um:</td><td></td></tr>
-<tr><td>a. Aufnahme von Arzneimitteln oder Limitierungsänderungen, die der Eidgenössischen Arzneimittelkommission vorgelegt werden</td><td>7 500</td></tr>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>1. Gebühren pro Gesuch bei Gesuchen um:</td><td></td></tr>
+<tr><td>a. Aufnahme von Arzneimitteln, Limitierungsänderungen oder Indikationserweiterungen, die der Eidgenössischen Arzneimittelkommission vorgelegt werden (Gebühr je zur Vergütung beantragte Indikation)</td><td>8 000</td></tr>
 <tr><td>b. Aufnahme von Arzneimitteln, die der Eidgenössischen Arzneimittelkommission nicht vorgelegt werden</td><td>2 500</td></tr>
-<tr><td>c. Aufnahme von Arzneimitteln oder Limitierungsänderungen, die im beschleunigten Verfahren behandelt werden</td><td>9 000</td></tr>
-<tr><td>d. Preiserhöhung</td><td>2 500</td></tr>
-<tr><td>e. Änderung der Packungsgrössen</td><td>2 500</td></tr>
-<tr><td>f. Änderung der Dosisstärke</td><td>2 500</td></tr>
-<tr><td>g. Wiedererwägung</td><td>2 500</td></tr>
+<tr><td>c. Aufnahme von Arzneimitteln, Limitierungsänderungen oder Indikationserweiterungen, die im beschleunigten Aufnahmeverfahren behandelt werden (Gebühr je zur Vergütung beantragte Indikation)</td><td>10 000</td></tr>
+<tr><td>d. Aufnahme von Arzneimitteln, Limitierungsänderungen oder Indikationserweiterungen im Rahmen einer vorzeitigen Gesuchseinreichung (Gebühr je zur Vergütung beantragte Indikation)</td><td>10 000</td></tr>
+<tr><td>e. Preiserhöhung</td><td>5 000</td></tr>
+<tr><td>f. Änderung der Packungsgrössen</td><td>2 500</td></tr>
+<tr><td>g. Änderung der Dosisstärke</td><td>2 500</td></tr>
+<tr><td>h. Wiedererwägung</td><td>2 500</td></tr>
 <tr><td>2. Jahresgebühr pro aufgenommenes Arzneimittel und aufgeführte Packung</td><td>40</td></tr>
+<tr><td>3. Gebühren zur Überprüfung der Aufnahmebedingungen alle drei Jahre folgender Arzneimittel, sofern die Überprüfung nicht zu einer Streichung des Arzneimittels führt:</td><td></td></tr>
+<tr><td>a. Originalpräparate</td><td>500</td></tr>
+<tr><td>b. andere Arzneimittel</td><td>200</td></tr>
+<tr><td>4. Weitere Gebühren:</td><td></td></tr>
+<tr><td>a. jede weitere Beratung durch die Eidgenössische Arzneimittelkommission nach der ersten Beratung für Gesuche nach Ziffer 1 Buchstaben a, c und d</td><td>5 000</td></tr>
+<tr><td>b. jede weitere Mitteilung nach der ersten Mitteilung für Gesuche nach Ziffer 1</td><td>1 000</td></tr>
+<tr><td>c. Vorabklärung</td><td>2 500</td></tr>
+<tr><td>d. Weitere Vorabklärung im Hinblick auf die vorzeitige Gesuchseinreichung</td><td>2 500</td></tr>
 </table>
 
 Anhang 2[^t-2]

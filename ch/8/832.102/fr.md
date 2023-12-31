@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230901/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> septembre 2023)
+du 27 juin 1995 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -535,6 +535,19 @@ Les assureurs transmettent régulièrement à l’OFSP, conformément à l’art
   - 9\. dans le cas de prestations hospitalières: contribution aux frais de séjour hospitalier et durée du séjour,
   - 10\. dans le cas de prestations ambulatoires, nombre de consultations.
 
+<sup>1bis</sup>
+
+En vue de la prise en charge visée aux art. 71*a* à 71*c*, ils transmettent chaque année à l’OFSP les informations suivantes pour chaque assuré:
+
+- a. la date de réception de la demande de prise en charge;
+- b. l’indication du médicament;
+- c. le nom du médicament;
+- d. le nom du titulaire de l’autorisation;
+- e. la catégorie de bénéfices;
+- f. la décision relative aux prestations;
+- g. la date de la décision relative aux prestations;
+- h. le montant de la prise en charge en cas de décision positive.[^28-3]
+
 <sup>2</sup> Ils fournissent à l’OFSP toutes les données par voie électronique, qu’il s’agisse de données agrégées ou par assuré. En cas d’adaptation des relevés, ils peuvent en être dispensés par l’OFSP, à leur demande et pour une période limitée, s’ils ne disposent pas des moyens techniques nécessaires.
 
 <sup>3</sup> Les assureurs fournissent à l’OFSP les données visées à l’al. 2 à leurs frais, de manière exacte et complète et dans les délais impartis.
@@ -549,10 +562,12 @@ Les assureurs transmettent régulièrement à l’OFSP, conformément à l’art
 
 <sup>8</sup> L’exploitation des données au sens de l’art. 21, al. 3, LAMal comprend toute forme de traitement au sens du droit fédéral de la protection des données, y compris la communication de données.
 
-<sup>9</sup> L’OFSP met les résultats issus des données récoltées conformément à l’al. 2 à la disposition des organes participant à l’application de la LAMal. Il s’assure que l’anonymat des assurés soit garanti.
+<sup>9</sup> L’OFSP met les résultats issus des données visées à l’al. 2 à la disposition des organes participant à l’exécution de la LAMal, à l’exception des résultats issus des données visées à l’al. 1<sup>bis</sup>. Il veille à garantir l’anonymat des assurés.[^28-4]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 [^28-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^28-3]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur du 1<sup>er</sup> janv. 2024 au 31 déc. 2026 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^28-4]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur du 1<sup>er</sup> janv. 2024 au 31 déc. 2026 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 28a
 
@@ -973,7 +988,7 @@ Elle se compose de 18 membres, à savoir:
 
 **Commission fédérale des médicaments**
 
-<sup>1</sup> La Commission fédérale des médicaments conseille l’OFSP pour l’établissement de la liste des spécialités prévue par l’art. 34. Elle conseille le DFI dans l’élaboration des dispositions relevant de son domaine qui doivent être édictées en application des art. 36, al. 1, 75, 77*k* et 104*a*, al. 4. Elle le conseille aussi pour l’attribution de principes actifs et de médicaments à un groupe de coûts pharmaceutique (PCG) de la liste prévue par l’art. 4 de l’ordonnance du 19 octobre 2016 sur la compensation des risques dans l’assurance-maladie[^37e-1] et pour la détermination des doses quotidiennes standard lorsque des médicaments sont admis dans la liste des spécialités pour la première fois ou pour une indication supplémentaire.[^37e-2]
+<sup>1</sup> La Commission fédérale des médicaments conseille l’OFSP pour l’établissement de la liste des spécialités prévue par l’art. 34. Elle conseille le DFI dans l’élaboration des dispositions relevant de son domaine qui doivent être édictées en application des art. 36, al. 1, 75, 77k et 104a, al. 4. Elle le conseille aussi pour l’attribution de médicaments à un groupe de coûts pharmaceutique (PCG) de la liste prévue par l’art. 4 de l’ordonnance du 19 octobre 2016 sur la compensation des risques dans l’assurance-maladie[^37e-1] et pour la détermination des doses quotidiennes standard lorsque des médicaments sont admis dans la liste des spécialités pour la première fois ou pour une indication supplémentaire.[^37e-2]
 
 <sup>2</sup>
 
@@ -986,14 +1001,15 @@ Elle se compose de 16 membres, à savoir:[^37e-3]
 - e. deux représentants des assureurs-maladie;
 - f. deux représentants des assurés;
 - g. deux représentants de l’industrie pharmaceutique;
-- h. un représentant de l’Institut suisse des produits thérapeutiques;
-- i.[^37e-4] un représentant des cantons.[^37e-5]
+- h.[^37e-4] un représentant de l’Institut suisse des produits thérapeutiques (Swissmedic);
+- i.[^37e-5] un représentant des cantons.[^37e-6]
 
 [^37e-1]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^37e-2]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^37e-2]: Nouvelle teneur selon le ch. II de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 [^37e-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
-[^37e-4]: Introduite par le ch. I de l’O du 18 janv. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2012 ([RO 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61))
-[^37e-5]: Nouvelle teneur selon le ch. I 2.10 de l’O du 9 nov. 2011 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37e-4]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^37e-5]: Introduite par le ch. I de l’O du 18 janv. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2012 ([RO 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61))
+[^37e-6]: Nouvelle teneur selon le ch. I 2.10 de l’O du 9 nov. 2011 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37f
 
@@ -1241,7 +1257,7 @@ Les physiothérapeutes sont admis s’ils remplissent les conditions suivantes:
 
 **Ergothérapeutes**[^48-1]
 
-Les ergothérapeutes sont admis s’ils remplissent les conditions suivantes :
+Les ergothérapeutes sont admis s’ils remplissent les conditions suivantes:
 
 - a. disposer d’une autorisation cantonale d’exercer la profession d’ergothérapeute octroyée conformément à l’art. 11 LPSan[^48-2] ou reconnue conformément à l’art. 34, al. 1, LPSan;
 - b.
@@ -1307,7 +1323,7 @@ Les logopédistes-orthophonistes sont admis s’ils remplissent les conditions s
 
 **Diététiciens**[^50a-1]
 
-Les diététiciens sont admis s’ils remplissent les conditions suivantes :
+Les diététiciens sont admis s’ils remplissent les conditions suivantes:
 
 - a. disposer d’une autorisation cantonale d’exercer la profession de diététicien octroyée conformément à l’art. 11 LPSan[^50a-2] ou reconnue conformément à l’art. 34, al. 1, LPSan;
 - b.
@@ -1513,13 +1529,13 @@ Sont admis comme laboratoires les établissements qui:
 - b. sont admis en vertu du droit cantonal;
 - c.[^53-1] …
 - d. répondent aux autres exigences posées aux laboratoires par la législation fédérale ou cantonale;
-- e.[^53-2] sont autorisés par l’Institut suisse des produits thérapeutiques Swissmedic (institut), lorsqu’ils effectuent des analyses visant à dépister les maladies transmissibles;
+- e.[^53-2] sont autorisés par Swissmedic, lorsqu’ils effectuent des analyses visant à dépister les maladies transmissibles;
 - [tab] e<sup>bis</sup>.[^53-3] sont autorisés par l’OFSP, lorsqu’ils effectuent des analyses cytogénétiques ou moléculaires humaines;
 - f. disposent d’installations adéquates et du personnel spécialisé nécessaire;
 - g. remplissent les conditions d’admission fixées à l’art. 54.
 
 [^53-1]: Abrogée par le ch. I de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^53-2]: Nouvelle teneur selon l’art. 27 ch. 1 de l’O du 29 avr. 2015 sur les laboratoires de microbiologie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)).
+[^53-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^53-3]: Introduite par l’art. 37 ch. 2 de l’O du 14 fév. 2007 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
 #### Art. 54
@@ -2081,19 +2097,30 @@ Le DFI désigne les analyses qui:
 
 **Définitions**[^64a-1]
 
-<sup>1</sup> Est réputé préparation originale tout médicament dont la substance active a été autorisée en premier par Swissmedic, l’Institut suisse des produits thérapeutiques (institut), y compris toute forme galénique autorisée au même moment ou ultérieurement.
+<sup>1</sup> Est réputé préparation originale tout médicament dont la substance active a été autorisée en premier par Swissmedic, y compris toute forme galénique autorisée au même moment ou ultérieurement.[^64a-2]
 
-<sup>2</sup> Est réputé générique tout médicament autorisé par l’institut, qui pour l’essentiel est semblable à une préparation originale et qui est interchangeable avec celle-ci parce qu’il possède une substance active, une forme galénique et un dosage identiques.
+<sup>2</sup> Est réputé générique tout médicament autorisé par Swissmedic[^64a-3], qui pour l’essentiel est semblable à une préparation originale et qui est interchangeable avec celle-ci parce qu’il possède une substance active, une forme galénique et un dosage identiques.
 
-<sup>3</sup> Est réputé médicament en co-marketing tout médicament autorisé par l’institut qui ne se différencie pas d’un autre médicament autorisé par l’institut (préparation de base) sauf par la dénomination et par l’emballage.
+<sup>3</sup> Est réputé médicament en co-marketing tout médicament autorisé par Swissmedic qui ne se différencie pas d’un autre médicament autorisé par Swissmedic (préparation de base) sauf par la dénomination et par l’emballage.
+
+<sup>4</sup> Est réputé préparation contenant une substance active connue tout médicament autorisé par Swissmedic en procédure simplifiée d’autorisation et dont la substance active est présente dans un médicament qui est ou a été autorisé par Swissmedic.[^64a-4]
+
+<sup>5</sup> Est réputé biosimilaire tout médicament biologique autorisé par Swissmedic qui présente une similarité suffisante avec un autre médicament biologique autorisé par Swissmedic (préparation de référence) et qui se réfère à la documentation établie pour cette préparation.[^64a-5]
+
+<sup>6</sup> Est réputé médicament dont l’importation parallèle est autorisée tout médicament directement importé d’un pays ayant institué un système équivalent d’autorisation de mise sur le marché, pour autant qu’il soit autorisé par Swissmedic et qu’un médicament contenant la même substance active figure dans la liste des spécialités.[^64a-6]
 
 [^64a-1]: Introduit par le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^64a-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-3]: Nouvelle expression selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Il a été tenu compte de cette mod. dans tout le texte.
+[^64a-4]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-5]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-6]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65
 
 **Conditions d’admission[^65-2]**[^65-1]
 
-<sup>1</sup> Un médicament peut être admis dans la liste des spécialités s’il dispose d’une autorisation valable de l’institut.
+<sup>1</sup> Un médicament peut être admis dans la liste des spécialités s’il dispose d’une autorisation valable de Swissmedic.
 
 <sup>1bis</sup> Si un médicament remplit les conditions fixées à l’art. 3<sup>sexies</sup> du règlement du 17 janvier 1961 sur l’assurance-invalidité (RAI)[^65-3] pour l’admission dans la liste des spécialités en matière d’infirmités congénitales, il n’est pas admis dans la liste des spécialités.[^65-4]
 
@@ -2128,39 +2155,65 @@ L’évaluation de l’efficacité des médicaments allopathiques doit être fon
 
 #### Art. 65b
 
-**Évaluation du caractère économique[^65b-2]**[^65b-1]
+**Évaluation du caractère économique: principe**[^65b-1]
 
 <sup>1</sup> Un médicament est réputé économique lorsqu’il produit l’effet thérapeutique recherché à un coût aussi réduit que possible.
 
-<sup>2</sup> Le caractère économique est évalué sur la base des comparaisons suivantes:
+<sup>2</sup>
 
-a. comparaison avec les prix pratiqués dans des pays de référence (comparaison avec les prix pratiqués à l’étranger);
+Le caractère économique d’un médicament est évalué de la manière suivante:
 
-b.[^65b-3] comparaison avec d’autres médicaments (comparaison thérapeutique).
+- a. à l’aide d’une comparaison avec le prix moyen d’autres médicaments utilisés pour le traitement de la même maladie (comparaison thérapeutique);
+- b. à l’aide d’une comparaison avec la moyenne des prix du même médicament pratiqués dans les pays de référence (comparaison avec les prix pratiqués à l’étranger).
 
-<sup>3</sup> La comparaison avec les prix pratiqués à l’étranger porte sur le prix de fabrique. Si le prix de fabrique n’est pas public, on utilise le prix de revient pour les pharmacies ou, si celui-ci n’est pas non plus public, le prix de gros, en déduisant les marges des grossistes. Le DFI détermine le montant de la déduction en se fondant sur les marges moyennes des grossistes. Il peut prévoir que les marges effectives sont déduites en lieu et place.
+<sup>3</sup> Pour déterminer le prix réputé économique, les prix déterminés conformément à l’al. 2, let. a et b, comptent chacun pour moitié.
 
-<sup>4</sup> Les rabais imposés aux fabricants dans les pays de référence sont déduits du prix de fabrique. Le DFI détermine le montant de la déduction. Il peut prévoir que le rabais effectif est déduit en lieu et place.
+[^65b-1]: Introduit par le ch. I de l’O du 26 avr. 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
-<sup>4bis</sup>
+#### Art. 65b<sup>bis</sup>
 
-La comparaison thérapeutique examine:
+**Évaluation du caractère économique: comparaison thérapeutique**[^65bbis-1]
 
-- a. l’efficacité par rapport à d’autres médicaments qui sont utilisés pour traiter la même maladie;
-- b. le coût du médicament par jour ou par traitement par rapport au coût de médicaments qui sont utilisés pour traiter la même maladie.[^65b-4]
+<sup>1</sup>
 
-<sup>5</sup> Après détermination du prix moyen pratiqué dans les pays de référence par la comparaison avec les prix pratiqués à l’étranger et du prix moyen d’autres médicaments par la comparaison thérapeutique, ces deux prix comptent chacun pour moitié.[^65b-5]
+La comparaison thérapeutique consiste à examiner:
 
-<sup>6</sup> Lors de l’évaluation du caractère économique d’une préparation originale, les coûts de recherche et de développement sont également pris en compte, sauf lorsque la préparation concernée succède à une préparation originale figurant dans la liste des spécialités sans apporter de progrès thérapeutique.
+- a. l’efficacité du médicament par rapport à d’autres médicaments qui sont utilisés pour traiter la même maladie;
+- b. le coût du médicament par jour ou par traitement par rapport au coût de médicaments qui sont utilisés pour traiter la même maladie.
 
-<sup>7</sup> Si le médicament apporte un progrès thérapeutique important, une prime à l’innovation est prise en compte pendant quinze ans au plus dans le cadre de la comparaison thérapeutique.[^65b-6]
+<sup>2</sup>
 
-[^65b-1]: Introduit par le ch. I de l’O du 26 avr. 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^65b-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65b-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65b-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65b-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65b-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+Après l’expiration du brevet, la préparation originale et la préparation qui lui succède, sous réserve que cette dernière n’apporte pas de progrès thérapeutique par rapport à la préparation originale figurant dans la liste des spécialités, font l’objet d’une comparaison thérapeutique:
+
+- a. avec d’autres préparations originales dont le brevet a expiré;
+- b. avec des préparations contenant une substance active connue qui ne sont pas inscrites comme génériques dans la liste des spécialités.
+
+[^65bbis-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65b<sup>ter</sup>
+
+**Évaluation du caractère économique: prime à l’innovation lors de la comparaison thérapeutique**[^65bter-1]
+
+<sup>1</sup>
+
+Une prime à l’innovation peut être accordée sur demande lors de la comparaison thérapeutique si des études cliniques contrôlées ont démontré que le médicament apporte un progrès thérapeutique important. Elle s’élève aux proportions suivantes selon la catégorie dans laquelle le médicament a été classé en fonction de l’ampleur du progrès thérapeutique:
+
+- a. pour les médicaments apportant un très grand progrès thérapeutique, à 20 % au maximum;
+- b. pour les médicaments apportant un grand progrès thérapeutique, à 10 % au maximum.
+
+<sup>2</sup> La prime à l’innovation est accordée pendant 15 ans au plus.
+
+[^65bter-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65b<sup>quater</sup>
+
+**Évaluation du caractère économique: comparaison avec les prix pratiqués à l’étranger**[^65bquater-1]
+
+<sup>1</sup> Lors de la comparaison avec les prix pratiqués à l’étranger, le prix d’un médicament est comparé avec le prix de fabrique du même médicament à l’étranger. Si le prix de fabrique n’est pas public, on utilise le prix de revient pour les pharmacies ou, si celui-ci n’est pas non plus public, le prix public. Dans de tels cas, le DFI détermine pour le calcul du prix de fabrique le montant de la déduction moyenne sur le prix de revient pour les pharmacies ou sur le prix public. Il peut prévoir l’application de la déduction effective ou d’une déduction minimale en lieu et place de la déduction qu’il a déterminée.
+
+<sup>2</sup> Les rabais imposés aux fabricants dans les pays de référence sont déduits du prix de fabrique. Le DFI détermine le montant de la déduction. Il peut prévoir que le rabais effectif est déduit en lieu et place du rabais imposé aux fabricants.
+
+[^65bquater-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65c
 
@@ -2170,42 +2223,150 @@ La comparaison thérapeutique examine:
 
 <sup>2</sup>
 
-Lors de son admission dans la liste des spécialités, un générique est réputé économique si son prix de fabrique est inférieur dans les proportions suivantes à la préparation originale avec lequel il est interchangeable:
+Lors de son admission dans la liste des spécialités, un générique est réputé économique si son prix de fabrique est inférieur dans les proportions suivantes à celui de la préparation originale avec laquelle il est interchangeable:[^65c-2]
 
 - a. d’au moins 20 %, lorsque le volume de marché en Suisse de la préparation originale et de son médicament en co-marketing ne dépasse pas 4 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet;
-- b. d’au moins 30 %, lorsque le volume de marché en Suisse de la préparation originale et de son médicament en co-marketing se situe entre 4 et 8 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet;
+- b.[^65c-3] d’au moins 40 %, lorsque le volume de marché en Suisse de la préparation originale et de son médicament en co-marketing se situe entre 4 et 8 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet;
 - c. d’au moins 50 %, lorsque le volume de marché en Suisse de la préparation originale et de son médicament en co-marketing se situe entre 8 et 16 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet;
 - d. d’au moins 60 %, lorsque le volume de marché en Suisse de la préparation originale et de son médicament en co-marketing se situe entre 16 et 25 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet;
-- e. d’au moins 70 %, lorsque le volume de marché en Suisse de la préparation originale et de son médicament en co-marketing dépasse 25 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet.[^65c-2]
+- e. d’au moins 70 %, lorsque le volume de marché en Suisse de la préparation originale et de son médicament en co-marketing dépasse 25 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet.[^65c-4]
 
-<sup>3</sup> Le prix de fabrique de la préparation originale calculé conformément à l’art. 65*e* est déterminant pour le calcul du prix de fabrique des génériques.[^65c-3]
+<sup>3</sup> Le prix de fabrique de la préparation originale calculé conformément à l’art. 65*e* est déterminant pour calculer le prix de fabrique économique du générique.[^65c-5]
 
-<sup>4</sup> Le volume de marché en Suisse par année est calculé sur la base du prix de fabrique de la préparation originale et de son médicament en co-marketing; il est déterminé pour chaque forme commerciale d’une même substance active. Lorsqu’il répond à la demande d’admission d’un générique dans la liste des spécialités, l’OFSP peut exiger du titulaire de l’autorisation qu’il lui indique le volume de marché en Suisse. Celui-ci doit se fonder sur des relevés établis par un institut indépendant.[^65c-4]
+<sup>4</sup> Le volume de marché en Suisse par année est calculé sur la base du prix de fabrique de la préparation originale et de son médicament en co-marketing; il est déterminé pour chaque forme commerciale d’une même substance active. Lorsqu’il répond à la demande d’admission d’un générique dans la liste des spécialités, l’OFSP peut exiger du titulaire de l’autorisation qu’il lui indique le volume de marché en Suisse. Celui-ci doit se fonder sur des relevés établis par un institut indépendant.[^65c-6]
 
 <sup>5</sup> Les prix des génériques admis dans la liste des spécialités avant le réexamen du prix de la préparation originale conformément à l’art. 65*e*, sont adaptés après le réexamen du prix de manière à maintenir cet écart.
 
 [^65c-1]: Introduit par le ch. I de l’O du 26 avr. 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^65c-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65c-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65c-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65c-3]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^65c-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65c-5]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65c-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+
+#### Art. 65c<sup>bis</sup>
+
+**Évaluation du caractère économique de biosimilaires**[^65cbis-1]
+
+<sup>1</sup> Lors de l’évaluation du caractère économique de biosimilaires, il est tenu compte du fait que les coûts de développement sont moins élevés que pour les préparations de référence.
+
+<sup>2</sup>
+
+Lors de son admission dans la liste des spécialités, un biosimilaire est réputé économique si son prix de fabrique est inférieur dans les proportions suivantes à celui de la préparation de référence:
+
+- a. d’au moins 20 %, lorsque le volume de marché en Suisse de la préparation de référence ne dépasse pas 8 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet;
+- b. d’au moins 25 %, lorsque le volume de marché en Suisse de la préparation de référence se situe entre 8 et 16 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet;
+- c. d’au moins 30 %, lorsque le volume de marché en Suisse de la préparation de référence se situe entre 16 et 25 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet;
+- d. d’au moins 35 %, lorsque le volume de marché en Suisse de la préparation de référence dépasse 25 millions de francs par an en moyenne durant les trois années précédant l’échéance du brevet.
+
+<sup>3</sup> Le prix de fabrique de la préparation de référence calculé conformément à l’art. 65*e* est déterminant pour calculer le prix de fabrique économique du biosimilaire.
+
+<sup>4</sup> Le volume de marché en Suisse par année est calculé sur la base du prix de fabrique de la préparation de référence; il est déterminé pour chaque forme commerciale d’une même substance active. Lorsqu’il répond à la demande d’admission d’un biosimilaire dans la liste des spécialités, l’OFSP peut exiger du titulaire de l’autorisation qu’il lui indique le volume de marché en Suisse. Celui-ci doit se fonder sur des relevés établis par un institut indépendant.
+
+<sup>5</sup> Les prix des biosimilaires admis dans la liste des spécialités avant le réexamen du prix de la préparation de référence conformément à l’art. 65*e* sont adaptés après le réexamen du prix de manière à maintenir cet écart.
+
+[^65cbis-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 65c<sup>ter</sup>
+
+**Évaluation du caractère économique de préparations contenant une substance active connue qui ne sont pas inscrites comme génériques dans la liste des spécialités**[^65cter-1]
+
+<sup>1</sup> Lors de l’évaluation du caractère économique dʼune préparation contenant une substance active connue qui nʼest pas inscrite comme générique dans la liste des spécialités, les coûts de recherche et de développement ne sont pas pris en compte.
+
+<sup>2</sup>
+
+La comparaison thérapeutique est effectuée sur la base:
+
+- a. de préparations originales dont le brevet a expiré;
+- b. d’autres préparations contenant une substance active connue qui ne sont pas inscrites comme génériques dans la liste des spécialités.
+
+<sup>3</sup> Si au moins un générique composé de la même substance active figure dans la liste des spécialités et que la préparation composée de la substance active connue n’apporte pas de progrès thérapeutique, le caractère économique de la préparation avec la substance active connue est évalué exclusivement sur la base d’une comparaison avec ce générique, sans comparaison avec les prix pratiqués à l’étranger et sans comparaison thérapeutique avec d’autres médicaments que ce générique. Si plusieurs génériques figurent dans la liste des spécialités, la comparaison est effectuée sur la base du prix moyen de ces génériques.
+
+[^65cter-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65c<sup>quater</sup>
+
+**Évaluation du caractère économique de médicaments dont l’importation parallèle est autorisée**[^65cquater-1]
+
+<sup>1</sup> Une préparation originale dont l’importation parallèle est autorisée est réputée économique si son prix de fabrique est inférieur d’au moins 15 % au prix de la préparation originale en Suisse.
+
+<sup>2</sup> Si, en Suisse, le prix de la préparation originale a déjà été abaissé au niveau du prix du générique, ce niveau doit aussi être respecté pour la préparation originale dont l’importation parallèle est autorisée.
+
+[^65cquater-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65d
 
-**Réexamen des conditions d’admission tous les trois ans**[^65d-1]
+**Réexamen des conditions d*’*admission tous les trois ans: généralités[^65d-2]**[^65d-1]
 
 <sup>1</sup> L’OFSP examine tous les trois ans si les médicaments figurant dans la liste des spécialités remplissent encore les conditions d’admission. Les médicaments sont répartis en trois blocs sur la base de leur appartenance à un groupe thérapeutique de la liste des spécialités. Chaque bloc fait l’objet d’un réexamen tous les trois ans.
 
 <sup>2</sup> La comparaison avec les prix pratiqués à l’étranger se fonde sur l’emballage générant le chiffre d’affaires le plus élevé.
 
-<sup>3</sup> La comparaison thérapeutique se fonde sur le plus petit emballage et le plus petit dosage, à moins que le plus petit emballage et le plus petit dosage ne permettent pas de comparaison adéquate, notamment lorsque le dosage est différent au début de la thérapie ou que la taille des emballages est différente.
+<sup>3</sup> La comparaison thérapeutique se fonde sur le plus petit emballage du plus petit dosage, à moins que cet emballage ne permette pas de comparaison adéquate, notamment lorsque le dosage est différent au début de la thérapie, que la taille des emballages est différente ou que le prix des différents dosages d’un médicament est identique.[^65d-3]
 
-<sup>4</sup> Si le réexamen montre que le prix maximum en vigueur est trop élevé, l’OFSP ordonne que le prix soit abaissé au niveau maximum calculé conformément aux art. 65*b*, al. 5, et 67, al. 1<sup>quater</sup>; cette baisse prend effet le 1<sup>er</sup> décembre de l’année du réexamen. Un prix de fabrique fondant le prix maximum en vigueur inférieur au prix de fabrique calculé conformément à l’art. 65*b*, al. 5, ne justifie pas une augmentation de prix.
+<sup>4</sup> Si le réexamen montre que le prix maximum en vigueur est trop élevé, l’OFSP ordonne que le prix soit abaissé au prix calculé conformément à l’art. 65*b*, al. 3; cette baisse prend effet le 1<sup>er</sup> décembre de l’année du réexamen. Un prix de fabrique sur lequel se fonde le prix maximum en vigueur inférieur au prix calculé conformément à l’art. 65*b*, al. 3, ne justifie pas une augmentation de prix.[^65d-4]
 
 <sup>5</sup> Le titulaire de l’autorisation communique toutes les informations nécessaires à l’OFSP.
 
 <sup>6</sup> L’OFSP informe le titulaire de l’autorisation d’un générique du prix prévu pour la préparation originale à compter du 1<sup>er</sup> décembre.
 
 [^65d-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^65d-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65d-3]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^65d-4]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 65d<sup>bis</sup>
+
+**Réexamen des conditions d’admission tous les trois ans: évaluation du caractère économique de génériques**[^65dbis-1]
+
+<sup>1</sup>
+
+Un générique est réputé économique lors du réexamen visé à l’art. 65*d*, al. 1, si son prix de fabrique est inférieur dans une des proportions suivantes au prix de fabrique de la préparation originale correspondante en vigueur au 1<sup>er</sup> décembre de l’année du réexamen:
+
+- a. d’au moins 15 %, lorsque le volume de marché en Suisse de la préparation originale, de son médicament en co-marketing et des génériques ne dépasse pas 4 millions de francs par an en moyenne pour chaque forme commerciale durant les trois années précédant l’année du réexamen;
+- b. d’au moins 25 %, lorsque le volume de marché en Suisse de la préparation originale, de son médicament en co-marketing et des génériques se situe entre 4 et 8 millions de francs par an en moyenne pour chaque forme commerciale durant les trois années précédant l’année du réexamen;
+- c. d’au moins 30 %, lorsque le volume de marché en Suisse de la préparation originale, de son médicament en co-marketing et des génériques se situe entre 8 et 16 millions de francs par an en moyenne pour chaque forme commerciale durant les trois années précédant l’année du réexamen;
+- d. d’au moins 35 %, lorsque le volume de marché en Suisse de la préparation originale, de son médicament en co-marketing et des génériques se situe entre 16 et 25 millions de francs par an en moyenne pour chaque forme commerciale durant les trois années précédant l’année du réexamen;
+- e. d’au moins 40 %, lorsque le volume de marché en Suisse de la préparation originale, de son médicament en co-marketing et des génériques dépasse 25 millions de francs par an en moyenne pour chaque forme commerciale durant les trois années précédant l’année du réexamen.
+
+<sup>2</sup> Si aucune préparation originale correspondante ne figure dans la liste des spécialités, seule une comparaison thérapeutique est effectuée lors du réexamen visé à l’art. 65*d*, al. 1. Cette comparaison est réalisée uniquement avec des génériques qui sont composés de substances actives différentes et qui sont économiques.
+
+[^65dbis-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65d<sup>ter</sup>
+
+**Réexamen des conditions d’admission tous les trois ans: évaluation du caractère économique de biosimilaires**[^65dter-1]
+
+Un biosimilaire est réputé économique lors du réexamen visé à l’art. 65*d*, al. 1, si son prix de fabrique est inférieur dans une des proportions suivantes au prix de fabrique de la préparation de référence correspondante en vigueur au 1<sup>er</sup> décembre de l’année du réexamen:
+
+- a. d’au moins 10 %, lorsque le volume de marché en Suisse de la préparation de référence et de ses biosimilaires ne dépasse pas 8 millions de francs par an en moyenne durant les trois années précédant l’année du réexamen;
+- b. d’au moins 15 %, lorsque le volume de marché en Suisse de la préparation de référence et de ses biosimilaires se situe entre 8 et 25 millions de francs par an en moyenne durant les trois années précédant l’année du réexamen;
+- c. d’au moins 20 %, lorsque le volume de marché en Suisse de la préparation de référence et de ses biosimilaires dépasse 25 millions de francs par an en moyenne durant les trois années précédant l’année du réexamen.
+
+[^65dter-1]: Introduit par le ch. I de l’O du 22 sept. 2023 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
+
+#### Art. 65d<sup>quater</sup>
+
+**Réexamen des conditions d’admission tous les trois ans: réexamen du caractère économique de préparations contenant une substance active connue qui ne sont pas inscrites comme génériques dans la liste des spécialités**[^65dquater-1]
+
+<sup>1</sup> Le réexamen visé à l’art. 65*d*, al. 1, d’une préparation contenant une substance active connue qui n’est pas inscrite comme générique dans la liste des spécialités se fonde sur les dispositions de l’art. 65*c*<sup>ter</sup>.
+
+<sup>2</sup>
+
+Une préparation contenant une substance active connue au sens de l’art. 65*c*<sup>ter</sup>, al. 3, est réputée économique si son prix de fabrique correspond:
+
+- a. au maximum au prix de fabrique du générique en vigueur au 1<sup>er</sup> décembre de l’année du réexamen, ou
+- b. aux prix de fabrique moyens des génériques composés de la même substance en vigueur au 1<sup>er</sup> décembre de l’année du réexamen.
+
+[^65dquater-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 65d<sup>quinquies</sup>
+
+**Réexamen des conditions d’admission tous les trois ans: réexamen du caractère économique de médicaments dont l’importation parallèle est autorisée**[^65dquinquies-1]
+
+Le réexamen visé à l’art. 65*d*, al. 1, d’un médicament dont l’importation parallèle est autorisée se fonde sur les dispositions de l’art. 65*c*<sup>quater</sup> pour l’évaluation du caractère économique.
+
+[^65dquinquies-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65e
 
@@ -2213,42 +2374,56 @@ Lors de son admission dans la liste des spécialités, un générique est réput
 
 <sup>1</sup> Dès que la protection du brevet est arrivée à échéance, l’OFSP réexamine si les préparations originales remplissent encore les conditions d’admission.
 
-<sup>2</sup> Dans le cadre de la comparaison thérapeutique, la comparaison des coûts visée à l’art. 65*b*, al. 4<sup>bis</sup>, let. b, se fonde exclusivement sur des préparations originales dont le brevet est échu. Une éventuelle prime à l’innovation n’est plus prise en compte.
+<sup>2</sup> Lors de la comparaison thérapeutique, la comparaison visée à l’art. 65*b*<sup>bis</sup>, al. 1, se fonde sur des préparations originales dont le brevet est échu. Si elles sont disponibles, les préparations contenant une substance active connue mais ne figurant pas comme générique dans la liste des spécialités ou les préparations succédant à une préparation originale n’ayant pas démontré de progrès thérapeutique sont également prises en compte. Une éventuelle prime à l’innovation n’est plus prise en compte.[^65e-2]
 
 <sup>3</sup> Les coûts de recherche et de développement ne sont plus pris en compte lors du réexamen du caractère économique.
 
-<sup>4</sup> Si l’évaluation du caractère économique montre que le prix maximum en vigueur est trop élevé, l’OFSP ordonne que le prix soit abaissé au niveau maximum calculé conformément aux art. 65*b*, al. 5, et 67, al. 1<sup>quater</sup>.
+<sup>4</sup> Si l’évaluation du caractère économique montre que le prix maximum en vigueur est trop élevé, l’OFSP ordonne que le prix soit abaissé au niveau maximum calculé conformément aux art. 65*b*, al. 3, et 67, al. 4.[^65e-3]
 
 [^65e-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65e-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
+[^65e-3]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65f
 
 **Extension des indications ou modification de la limitation**[^65f-1]
 
-<sup>1</sup> Lorsque l’institut autorise une nouvelle indication pour une préparation originale ou que le titulaire de l’autorisation demande la modification ou la suppression d’une limitation fixée pour une préparation originale en raison d’une extension des indications, l’OFSP examine une nouvelle fois si cette préparation remplit les conditions d’admission dans la liste des spécialités.
+<sup>1</sup> Lorsque Swissmedic autorise une nouvelle indication pour une préparation originale ou que le titulaire de l’autorisation demande la modification ou la suppression d’une limitation fixée pour une préparation originale en raison d’une extension des indications, l’OFSP examine une nouvelle fois si cette préparation remplit les conditions d’admission dans la liste des spécialités.
 
-<sup>2</sup> La préparation originale est réputée économique jusqu’au réexamen des conditions d’admission prévu à l’art. 65*d* si le titulaire de l’autorisation propose de renoncer à 35 % du montant estimé du chiffre d’affaires supplémentaire; le montant auquel il renonce est converti sous la forme d’une baisse du prix de fabrique de la préparation. Cette règle ne s’applique pas aux préparations originales pour lesquelles la quantité d’emballages supplémentaires estimée est plus de 100 fois supérieure à la quantité d’emballages vendus avant l’admission de la nouvelle indication dans la liste des spécialités ou lorsqu’il n’est pas possible d’estimer le chiffre d’affaires supplémentaire faute de données suffisantes.
+<sup>2</sup>
 
-<sup>3</sup> Deux ans après l’estimation du chiffre d’affaires total au sens de l’al. 2, chiffre d’affaires supplémentaire compris, l’OFSP vérifie que cette estimation correspond à la réalité. S’il s’avère que le montant estimé a été dépassé, l’OFSP ordonne une baisse de prix appropriée.[^65f-2]
+La préparation originale est réputée économique jusqu’au réexamen des conditions d’admission prévu à l’art. 65*d* si le titulaire de l’autorisation propose de renoncer à 35 % du montant estimé du chiffre d’affaires supplémentaire; le montant auquel il renonce est converti sous la forme d’une baisse du prix de fabrique de la préparation. Cette règle ne s’applique pas aux préparations originales:
+
+- a. dont la quantité supplémentaire devrait entraîner une hausse du volume du marché de plus de 20 % par rapport au volume de marché avant l’autorisation de la nouvelle indication, ou
+- b.
+
+  dont il n’est pas possible d’estimer la hausse du volume de marché, notamment dans les cas suivants:
+
+  - 1\. la préparation originale ou la nouvelle indication ont été admises pour une durée limitée et cette durée prend fin au cours des deux années qui suivent,
+  - 2\. plusieurs nouvelles indications ont été admises en peu de temps pour la même préparation originale,
+  - 3\. une croissance du chiffre d’affaires de plus de 10 % est attendue pour les indications remboursées jusqu’ici.[^65f-2]
+
+<sup>3</sup> Deux ans après l’estimation du chiffre d’affaires total au sens de l’al. 2, chiffre d’affaires supplémentaire compris, l’OFSP vérifie que cette estimation correspond à la réalité. S’il s’avère que le montant estimé a été dépassé, l’OFSP ordonne une baisse de prix appropriée.[^65f-3]
 
 <sup>4</sup> Si le titulaire de l’autorisation ne fait pas de proposition au sens de l’al. 2, 1<sup>re</sup> phrase, ou si les conditions de l’al. 2, 2<sup>e</sup> phrase sont remplies, l’OFSP procède à une évaluation du caractère économique de la préparation au sens de l’art. 65*b*.
 
-<sup>5</sup> Lorsque l’institut autorise une nouvelle indication pour une préparation originale, le titulaire de l’autorisation doit communiquer cette extension à l’OFSP dans les 90 jours. L’OFSP peut fixer un délai supplémentaire approprié et exiger la remise des documents définis par le DFI pour le réexamen des conditions d’admission.
+<sup>5</sup> Lorsque Swissmedic autorise une nouvelle indication pour une préparation originale, le titulaire de l’autorisation doit communiquer cette extension à l’OFSP dans les 90 jours. L’OFSP peut fixer un délai supplémentaire approprié et exiger la remise des documents définis par le DFI pour le réexamen des conditions d’admission.
 
 <sup>6</sup> Si les conditions d’admission pour la nouvelle indication ne sont pas remplies, l’OFSP peut limiter la préparation originale à l’indication admise.
 
 [^65f-1]: Introduit par le ch. I de l’O du 8 mai 2013 ([RO 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Voir aussi la disp. trans. de la mod. du 8 mai 2013 à la fin du texte.
-[^65f-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65f-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65f-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 65g
 
 **Restriction de l’indication**[^65g-1]
 
-<sup>1</sup> Si l’institut restreint l’indication d’une préparation originale, l’OFSP adapte immédiatement la limitation dans la liste des spécialités. Il peut ensuite réexaminer une nouvelle fois que les conditions d’admission sont remplies et exiger du titulaire de l’autorisation les documents nécessaires à cet effet.
+<sup>1</sup> Si Swissmedic restreint l’indication d’une préparation originale, l’OFSP adapte immédiatement la limitation dans la liste des spécialités. Il peut ensuite réexaminer une nouvelle fois que les conditions d’admission sont remplies et exiger du titulaire de l’autorisation les documents nécessaires à cet effet.
 
 <sup>2</sup> Si l’OFSP ne procède pas au réexamen visé à l’al. 1, la préparation originale ainsi que ses génériques et médicaments en co-marketing sont réputés économiques jusqu’au réexamen des conditions d’admission au sens de l’art. 65*d*. La restriction de l’indication ne peut entraîner une augmentation du prix de la préparation.
 
-<sup>3</sup> Le titulaire de l’autorisation signale à l’OFSP toute restriction de l’indication par l’institut dans les 30 jours et lui fournit dans les 90 jours les documents définis par le DFI.
+<sup>3</sup> Le titulaire de l’autorisation signale à l’OFSP toute restriction de l’indication par Swissmedic dans les 30 jours et lui fournit dans les 90 jours les documents définis par le DFI.
 
 [^65g-1]: Introduit par le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
@@ -2282,66 +2457,53 @@ L’OFSP peut vérifier à tout moment après l’admission d’un médicament d
 
 **Prix**[^67-1]
 
-<sup>1</sup> La liste des spécialités contient les prix maximums déterminants pour la remise des médicaments par les pharmaciens, les médecins, les hôpitaux et les établissements médico-sociaux.[^67-2]
+<sup>1</sup> La liste des spécialités contient les prix publics contraignants (prix maximums) pour la remise des médicaments par les pharmaciens, les médecins, les hôpitaux et les établissements médico-sociaux.
 
-<sup>1</sup> <sup>bis</sup> Le prix maximum se compose du prix de fabrique et de la part relative à la distribution.[^67-3]
+<sup>2</sup> Le prix public se compose du prix de fabrique, de la part relative à la distribution et de la TVA.
 
-<sup>1</sup> <sup>ter</sup> Le prix de fabrique rémunère les prestations, redevances comprises, du fabricant et du distributeur jusqu’à la sortie de l’entrepôt, en Suisse.[^67-4]
+<sup>3</sup> Le prix de fabrique rémunère les prestations du fabricant et du distributeur jusqu’à la sortie de l’entrepôt, en Suisse. Il fait l’objet d’une décision formelle.
 
-<sup>1</sup>
+<sup>4</sup>
 
-<sup>quater</sup> La part relative à la distribution rémunère les prestations logistiques. Elle se compose:
+La part relative à la distribution rémunère les prestations logistiques. Elle se compose:
 
 - a.
 
-  pour les médicaments qui, selon la classification de l’institut, ne sont remis que sur prescription:
+  pour les médicaments qui, selon la classification de Swissmedic, ne sont remis que sur prescription:
 
-  - 1\. d’une prime fixée en fonction du prix de fabrique (prime relative au prix) qui prend notamment en compte les coûts en capitaux résultant de la gestion des stocks et des avoirs non recouvrés,
+  - 1\. d’une prime fixée en fonction du prix de fabrique (prime relative au prix) qui prend notamment en compte les coûts en capitaux, la gestion des stocks et les avoirs non recouvrés,
   - 2\. d’une prime par emballage qui prend notamment en compte les frais de transport, d’infrastructure et de personnel;
 
-- b. pour les médicaments qui, selon la classification de l’institut, sont remis sans prescription: d’une prime fixée en fonction du prix de fabrique.[^67-5]
+- b. pour les médicaments qui, selon la classification de Swissmedic, sont remis sans prescription, d’une prime fixée en fonction du prix de fabrique.
 
-<sup>2</sup>
+<sup>5</sup>
 
 Les prix fixés dans la liste des spécialités ne peuvent être augmentés que sur autorisation de l’OFSP. L’autorisation n’est accordée que si les conditions suivantes sont réunies:
 
 - a. le médicament remplit encore les conditions d’admission;
-- b. deux années au moins se sont écoulées depuis l’admission du médicament dans la liste des spécialités ou depuis la dernière augmentation du prix.[^67-6]
+- b. deux années au moins se sont écoulées depuis l’admission du médicament dans la liste des spécialités ou depuis la dernière augmentation du prix.
 
-<sup>2bis</sup> …[^67-7]
-
-<sup>2ter</sup> …[^67-8]
-
-<sup>3</sup> …[^67-9]
-
-<sup>4</sup> …[^67-10]
-
-[^67-1]: Voir la disp. fin. mod. 2 oct. 2000, à la fin du texte.
-[^67-2]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
-[^67-3]: Introduit par le ch. I de l’O du 2 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
-[^67-4]: Introduit par le ch. I de l’O du 2 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
-[^67-5]: Introduit par le ch. I de l’O du 2 oct. 2000 ([RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^67-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^67-7]: Introduit par le ch. I de l’O du 26 juin 2002 ([RO 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Abrogé par le ch. I de l’O du 1<sup>er</sup> juil. 2009, avec effet au 1<sup>er</sup> oct. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^67-8]: Introduit par le ch. I de l’O du 26 juin 2002 ([RO 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Abrogé par le ch. I de l’O du 29 avr. 2015, avec effet au 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^67-9]: Abrogé par le ch. I de l’O du 1<sup>er</sup> juil. 2009, avec effet au 1<sup>er</sup> oct. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^67-10]: Introduit par le ch. I de l’O du 25 nov. 1996 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Abrogé par le ch. I de l’O du 2 oct. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
+[^67-1]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 67a
 
 **Remboursement de l’excédent de recettes**[^67a-1]
 
-<sup>1</sup> Si le prix de fabrique sur lequel se fonde le prix maximum fixé lors de l’admission d’un médicament dans la liste des spécialités est supérieur de plus de 3 % au prix de fabrique calculé lors du réexamen du caractère économique et que l’excédent de recettes ainsi réalisé atteint au moins 20 000 francs, le titulaire de l’autorisation de mise sur le marché est tenu de rembourser l’excédent de recettes perçu depuis l’admission à l’institution commune prévue à l’art. 18 LAMal.
+<sup>1</sup> Si le prix de fabrique décidé sur lequel se fonde le prix maximum publié lors de l’admission d’un médicament dans la liste des spécialités est supérieur de plus de 3 % au prix de fabrique calculé lors du réexamen du caractère économique et que l’excédent de recettes ainsi réalisé atteint au moins 20 000 francs, le titulaire de l’autorisation de mise sur le marché est tenu de rembourser l’excédent de recettes perçu depuis l’admission à l’institution commune prévue à l’art. 18 LAMal.[^67a-2]
 
 <sup>2</sup>
 
 Le titulaire de l’autorisation est tenu au surplus de rembourser à l’institution commune l’excédent de recettes qu’il a réalisé:
 
-- a.[^67a-2] pendant la durée d’une procédure de recours, s’il existe une différence entre le prix en vigueur pendant la procédure de recours et le nouveau prix ayant force de chose jugée au terme de cette procédure et que le titulaire de l’autorisation a tiré des recettes supplémentaires de cette différence de prix;
+- a.[^67a-3] pendant la durée d’une procédure de recours, s’il existe une différence entre le prix en vigueur pendant la procédure de recours et le nouveau prix ayant force de chose jugée au terme de cette procédure et que le titulaire de l’autorisation a tiré des recettes supplémentaires de cette différence de prix;
 - b. pendant les deux années qui ont suivi la baisse du prix de fabrique visée à l’art. 65*f*, al. 2, 1<sup>re</sup> phrase, pour autant que le chiffre d’affaires effectif ait été plus élevé que le chiffre d’affaires prévu lors de la baisse de prix.
 
+<sup>3</sup> Si un médicament concerné par l’al. 2, let. a, est la préparation originale pour un générique, une préparation de base d’un médicament en co-marketing ou une préparation de référence d’un biosimilaire, le titulaire de l’autorisation du générique, du médicament en co-marketing ou du biosimilaire est tenu de rembourser à l’institution commune l’excédent de recettes qu’il a réalisé pendant la durée de la procédure de recours relative à la préparation originale, à la préparation de base ou à la préparation de référence.[^67a-4]
+
 [^67a-1]: Introduit par le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^67a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^67a-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^67a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^67a-4]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 68
 
@@ -2359,7 +2521,7 @@ Un médicament de la liste des spécialités en est radié:[^68-1]
 - f.[^68-5] si le titulaire de l’autorisation refuse de fournir les documents nécessaires pour les réexamens visés aux art. 65*d* à 65*g*;
 - g.[^68-6] si le titulaire de l’autorisation refuse de rembourser l’excédent de recettes au sens de l’art. 67*a*.
 
-<sup>2</sup> La radiation prend effet trois mois après avoir été publiée dans le bulletin de l’OFSP (art. 72, let. a). Si des motifs particuliers le justifient, elle prend effet en même temps que la publication.
+<sup>2</sup> …[^68-7]
 
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^68-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
@@ -2367,6 +2529,25 @@ Un médicament de la liste des spécialités en est radié:[^68-1]
 [^68-4]: Introduite par le ch. I de l’O du 26 juin 2002 ([RO 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 [^68-5]: Introduite par le ch. I de l’O du 8 mai 2013 ([RO 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 [^68-6]: Introduite par le ch. I de l’O du 8 mai 2013 ([RO 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^68-7]: Abrogé par le ch. I de l’O du 22 sept. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 68a
+
+**Fin de l’obligation de remboursement**[^68a-1]
+
+<sup>1</sup>
+
+Les modifications suivantes de la liste des spécialités prennent effet trois mois après avoir été publiées:
+
+- a. les radiations de la liste des spécialités (art. 68) de médicaments et de différents emballages d’un médicament;
+- b. les restrictions d’indications (art. 65*g*);
+- c. les radiations d’indications (art. 65*f*).
+
+<sup>2</sup> Si des motifs particuliers le justifient, notamment la radiation d’une indication par Swissmedic pour des raisons de sécurité ou à cause d’un manque d’efficacité, les modifications visées à l’al. 1 prennent effet en même temps que la publication.
+
+<sup>3</sup> Les durées limitées définies lors de nouvelles admissions, lors d’extensions des indications ou lors de modifications de la limitation expirent trois mois après la fin de la durée fixée dans la liste des spécialités.
+
+[^68a-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 69
 
@@ -2374,28 +2555,56 @@ Un médicament de la liste des spécialités en est radié:[^68-1]
 
 <sup>1</sup> Les demandes d’admission d’un médicament prêt à l’emploi dans la liste des spécialités doivent être déposées auprès de l’OFSP.
 
-<sup>2</sup> Une nouvelle demande doit être déposée pour toute modification d’un médicament inscrit dans la liste des spécialités ou de son prix. Lorsque la composition des substances actives a été modifiée, l’acte d’autorisation modifié de l’institut doit être joint à la demande.[^69-2]
+<sup>2</sup> Une nouvelle demande doit être déposée pour toute modification d’un médicament inscrit dans la liste des spécialités ou de son prix. Lorsque la composition des substances actives a été modifiée, l’acte d’autorisation modifié de Swissmedic doit être joint à la demande.[^69-2]
 
 <sup>3</sup> La documentation jointe à la demande doit faire apparaître que les conditions d’admission sont remplies.
 
-<sup>4</sup> La demande d’admission dans la liste des spécialités ou de modification de la liste des spécialités peut être déposée lorsque les données en matière d’indications et de dosages confirmées par l’institut dans le cadre du préavis visé à l’art. 8 de l’ordonnance du 21 septembre 2018 sur les médicaments[^69-3] sont disponibles. L’OFSP examine la demande dès que la documentation complète est en sa possession. Le DFI peut prévoir dans des cas particuliers que la demande ne peut être déposée qu’après que l’institut a donné son autorisation.[^69-4]
+<sup>4</sup> La demande d’admission dans la liste des spécialités ou de modification de la liste des spécialités peut être déposée lorsque les données en matière d’indications et de dosages confirmées par Swissmedic dans le cadre du préavis visé à l’art. 8 de l’ordonnance du 21 septembre 2018 sur les médicaments[^69-3] sont disponibles. L’OFSP examine la demande dès que la documentation complète est en sa possession. Le DFI peut prévoir dans des cas particuliers que la demande ne peut être déposée qu’après que Swissmedic a donné son autorisation.[^69-4]
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
 [^69-2]: Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^69-3]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^69-3]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 [^69-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 69a
 
-[^69a-1]
+**Examen préalable et dépôt anticipé de la demande**[^69a-1]
 
-[^69a-1]: Introduit par le ch. I de l’O du 26 juin 2002 ([RO 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Abrogé par le ch. I de l’O du 27 juin 2007, avec effet au 1<sup>er</sup> août. 2007 ([RO 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+<sup>1</sup> Un examen préalable peut être demandé à l’OFSP pour les cas complexes avant le dépôt de la demande. Cet examen vise à clarifier des questions fondamentales et donne lieu à un avis non contraignant de l’OFSP concernant la demande envisagée.
+
+<sup>2</sup> La demande peut être déposée auprès de l’OFSP avant le préavis de Swissmedic (dépôt anticipé de la demande) pour autant qu’un examen préalable complémentaire ait été réalisé avec le concours de Swissmedic.
+
+<sup>3</sup>
+
+Le DFI détermine:
+
+- a. pour quelles demandes un examen préalable peut être demandé;
+- b. à quelles conditions l’examen préalable donne lieu à un entretien;
+- c. à quelles conditions une demande peut être déposée de manière anticipée.
+
+[^69a-1]: Introduit par le ch. I de l’O du 26 juin 2002 ([RO 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+
+#### Art. 69b
+
+**Indisponibilité temporaire de médicaments inscrits dans la liste des spécialités**[^69b-1]
+
+<sup>1</sup>
+
+En cas d’indisponibilité temporaire d’un médicament figurant dans la liste des spécialités, l’assurance obligatoire des soins prend en charge les coûts d’un médicament importé prêt à l’emploi qui n’a pas été autorisé en Suisse par Swissmedic si les conditions suivantes sont réunies:
+
+- a. le médicament peut être importé en vertu de la LPTh;
+- b. faute d’alternative thérapeutique, aucun autre traitement efficace autorisé n’est disponible;
+- c. le médicament importé est composé des mêmes substances actives, remis pour les mêmes indications et présenté sous une forme galénique et dans des emballages comparables.
+
+<sup>2</sup> L’assureur prend en charge les coûts effectifs. Le fournisseur de prestations tient compte des coûts dans le choix du pays d’importation.
+
+[^69b-1]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 70
 
 **Admission non demandée**[^70-1]
 
-L’OFSP peut admettre ou maintenir dans la liste des spécialités un médicament ou une indication d’un médicament qui ont été autorisés par l’institut, même lorsque le titulaire de l’autorisation n’a pas demandé leur admission ou qu’il a demandé leur radiation, si le médicament ou l’indication sont d’une grande importance pour garantir les soins médicaux. Il en détermine le prix.
+L’OFSP peut admettre ou maintenir dans la liste des spécialités un médicament ou une indication d’un médicament qui ont été autorisés par Swissmedic, même lorsque le titulaire de l’autorisation n’a pas demandé leur admission ou qu’il a demandé leur radiation, si le médicament ou l’indication sont d’une grande importance pour garantir les soins médicaux. Il en détermine le prix.
 
 [^70-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
@@ -2418,37 +2627,82 @@ Le DFI édicte des prescriptions réglant:
 
 **Émoluments**[^70b-1]
 
-<sup>1</sup> Des émoluments sont perçus pour les décisions concernant l’inscription dans la liste des spécialités et pour l’inscription proprement dite. Les montants des émoluments sont fixés dans l’annexe 1.
+<sup>1</sup>
+
+Des émoluments sont perçus:
+
+- a. pour les demandes d’inscription dans la liste des spécialités;
+- b. pour la réalisation d’un examen préalable par l’OFSP et d’un examen préalable complémentaire avec le concours de Swissmedic en vue d’un dépôt anticipé de la demande;
+- c. pour le réexamen des conditions d’admission tous les trois ans;
+- d. pour chaque inscription dans la liste des spécialités.[^70b-2]
+
+<sup>1bis</sup> Les montants des émoluments sont fixés dans l’annexe 1.[^70b-3]
 
 <sup>2</sup> Les débours extraordinaires, notamment lorsqu’ils sont imputables à des expertises externes portant sur des questions médicales ou économiques, peuvent être facturés en plus. Le tarif horaire s’élève à 200 francs.
 
 <sup>3</sup> Pour ce qui concerne les frais extraordinaires, l’OFSP peut percevoir des émoluments en fonction du temps investi. Le tarif horaire varie de 100 à 250 francs en fonction des connaissances requises.
 
-<sup>4</sup> Au surplus, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^70b-2] sont applicables.
+<sup>4</sup> Au surplus, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^70b-4] sont applicables.
 
 [^70b-1]: Anciennement art. 71. Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)).
-[^70b-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^70b-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^70b-3]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^70b-4]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 71
 
 **Publications**[^71-1]
 
-<sup>1</sup> L’OFSP publie la liste des spécialités (art. 52, al. 1, let. b, LAMal).
+<sup>1</sup>
 
-<sup>2</sup> Lorsqu’il procède à l’admission d’un médicament dans la liste des spécialités, à une extension des indications ou à une modification de la limitation au sens de l’art. 65*f*, il publie les éléments sur lesquels reposent l’évaluation de l’efficacité et de l’adéquation du médicament, la comparaison thérapeutique (art. 65*b*, al. 2, let. b) et la prime à l’innovation (art. 65*b*, al. 7), ainsi que le prix de fabrique moyen dans les pays de référence (art. 65*b*, al. 2, let. a).[^71-2]
+L’OFSP publie:
 
-<sup>3</sup> Lorsqu’il procède à une admission pour une durée limitée au sens de l’art. 65, al. 5, let. a, il publie la durée de l’admission.
+- a. la liste des spécialités (art. 52, al. 1, let. b, LAMal);
+- b.
 
-<sup>4</sup> Si un recours est formé contre une décision de l’OFSP, celui-ci peut publier le nom du médicament concerné.
+  les éléments sur lesquels reposent l’évaluation de l’efficacité et de l’adéquation de la préparation originale, la comparaison thérapeutique (art. 65*b*, al. 2, let. a) et la prime à l’innovation (art. 65*b*<sup>ter</sup>), à l’exception des bases de calcul des remboursements confidentiels au titulaire de l’autorisation, ainsi que le prix obtenu à partir de la moyenne des prix dans les pays de référence lors de la comparaison avec les prix pratiqués à l’étranger (art. 65*b*, al. 2, let. b) concernant les demandes suivantes, dès lors que la Commission fédérale des médicaments est consultée:
 
-<sup>5</sup> Une fois qu’il a réexaminé les conditions d’admission à l’expiration du brevet, il publie le prix de fabrique de la préparation originale.[^71-3]
+  - 1\. demande d’admission d’une préparation originale dans la liste des spécialités,
+  - 2\. demande d’extension des indications (art. 65*f*),
+  - 3\. demande de modification de la limitation (art. 65*f*),
+  - 4\. demande d’augmentation de prix (art. 67, al. 5);
 
-<sup>6</sup> Les publications visées aux al. 1 à 5 sont effectuées sur une plate-forme en ligne publique[^71-4].
+- c. en cas de refus d’admission d’une préparation originale dans la liste des spécialités, les motifs du refus;
+- d. en cas d’admission dans la liste des spécialités pour une durée limitée au sens de l’art. 65, al. 5, let. a, la durée de l’admission;
+- e. en cas de radiation de la liste des spécialités (art. 68), les raisons de la radiation;
+- f.
 
-[^71-1]: Introduit par le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^71-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^71-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^71-4]: Les documents sont disponibles sur le site www.ofsp.admin.ch &gt; Thèmes &gt; Assurance-maladie &gt; Tarifs et prix &gt; Liste des spécialités
+  après réception d’une demande de nouvelle admission, d’extension des indications ou de modification de la limitation d’une préparation originale:
+
+  - 1\. le nom du médicament,
+  - 2\. la maladie pour laquelle le remboursement du traitement est demandé,
+  - 3\. le nom du titulaire de l’autorisation,
+  - 4\. le type de demande,
+  - 5\. la date de réception de la demande,
+  - 6\. le statut de l’autorisation auprès de Swissmedic au moment de la réception de la demande;
+
+- g.
+
+  lors du réexamen des conditions d’admission tous les trois ans:
+
+  - 1\. les éléments sur lesquels repose l’évaluation de l’efficacité et de l’adéquation de la préparation originale, dans la mesure où elle conduit à une modification de la liste des spécialités,
+  - 2\. le prix obtenu à partir de la moyenne des prix pratiqués dans les pays de référence lors de la comparaison avec les prix pratiqués à l’étranger,
+  - 3\. les éléments sur lesquels repose la comparaison thérapeutique, notamment un aperçu sous forme de tableau des médicaments de comparaison et de leurs coûts;
+
+- h. en cas de baisse de prix, le motif de l’adaptation.
+
+<sup>2</sup>
+
+Pour les demandes en suspens concernant des préparations originales, il peut, sur demande de tiers, fournir des renseignements sommaires sur l’état de la procédure. Il peut indiquer quelles conditions d’admission sont encore en cours d’évaluation (art. 65, al. 3), sans le justifier davantage. Les renseignements peuvent être obtenus dans les délais suivants:
+
+- a. pour les demandes ayant déjà été soumises à l’OFSP avec un préavis de Swissmedic, au plus tôt 60 jours après l’autorisation de Swissmedic;
+- b. pour les demandes qui n’ont été soumises à l’OFSP qu’après l’autorisation de Swissmedic, au plus tôt 180 jours après le dépôt de la demande auprès de l’OFSP.
+
+<sup>3</sup> Si un recours est formé contre une décision de l’OFSP, celui-ci peut publier le nom du médicament concerné et le type de procédure de la décision attaquée.
+
+<sup>4</sup> Les publications visées au présent article sont effectuées sur une plateforme en ligne accessible au public.
+
+[^71-1]: Introduit par le ch. I de l’O du 29 avr. 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 ### Section 4*a* Prise en charge de médicaments dans des cas particuliers
 
@@ -2462,38 +2716,64 @@ Le DFI édicte des prescriptions réglant:
 
 <sup>1</sup>
 
-L’assurance obligatoire des soins prend en charge les coûts d’un médicament admis dans la liste des spécialités et utilisé pour une autre indication que celle autorisée par l’institut ou prévue par la limitation fixée dans la liste des spécialités, au sens de l’art. 73, si:
+L’assurance obligatoire des soins prend en charge les coûts d’un médicament admis dans la liste des spécialités et utilisé pour une autre indication que celle autorisée par Swissmedic ou prévue par la limitation fixée dans la liste des spécialités, au sens de l’art. 73, dans les cas suivants:
 
-- a. l’usage du médicament constitue un préalable indispensable à la réalisation d’une autre prestation prise en charge par l’assurance obligatoire des soins et que celle-ci est largement prédominante, ou
-- b. l’usage du médicament permet d’escompter un bénéfice élevé contre une maladie susceptible d’être mortelle pour l’assuré ou de lui causer des problèmes de santé graves et chroniques et que, faute d’alternative thérapeutique, il n’existe pas d’autre traitement efficace autorisé.
+- a. l’usage du médicament constitue un préalable indispensable à la réalisation d’une autre prestation prise en charge par l’assurance obligatoire des soins et celle-ci est largement prédominante;
+- b. l’usage du médicament permet d’escompter un grand bénéfice thérapeutique contre une maladie susceptible d’être mortelle pour l’assuré ou de lui causer des problèmes de santé graves et chroniques et, faute d’alternative thérapeutique, aucun autre traitement efficace autorisé n’est disponible;
+- c. l’usage du médicament sert à une mesure de prévention visée à l’art. 33, let. d, dans le cadre d’une prophylaxie post-exposition et l’apparition éventuelle de la maladie est susceptible d’être mortelle pour l’assuré ou de lui causer des problèmes de santé graves et chroniques.
 
-<sup>2</sup> L’assureur détermine le montant de la prise en charge après avoir consulté le titulaire de l’autorisation. Ce montant doit être inférieur au prix maximum figurant dans la liste des spécialités.[^71a-2]
+<sup>2</sup> Le DFI détermine les catégories servant à évaluer le bénéfice thérapeutique au sens de l’al. 1, let. b.
 
-<sup>3</sup> …[^71a-3]
+<sup>3</sup>
 
-[^71a-1]: Introduit par le ch. I de l’O du 2 fév. 2011, en vigueur depuis le 1<sup>er</sup> mars 2011 ([RO 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)).
-[^71a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^71a-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> fév. 2017, avec effet au 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+L’assureur détermine le montant de la prise en charge sur la base du prix de fabrique, après avoir consulté le titulaire de l’autorisation. Il doit garantir:
+
+- a. dans les cas prévus à l’al. 1, let. a et c, l’application d’un abattement du prix de fabrique correspondant inscrit dans la liste des spécialités; le DFI fixe le montant de l’abattement; celui-ci s’élève au maximum à 30 %;
+- b. dans les cas prévus à l’al. 1, let. b, une prise en charge des coûts qui soit raisonnablement proportionnée au bénéfice thérapeutique; le DFI fixe un abattement par rapport au prix de fabrique correspondant inscrit dans la liste des spécialités en fonction des catégories définies pour l’évaluation du bénéfice thérapeutique; l’abattement s’élève au maximum à 50 %.
+
+<sup>4</sup>
+
+L’assureur peut procéder à des abattements de prix supérieurs aux abattements maximaux prévus à l’al. 3, dans les cas suivants:
+
+- a. le prix de fabrique doit être abaissé au niveau moyen des prix des génériques ou des biosimilaires;
+- b. des conditions ou des charges ont été fixées pour le montant de la prise en charge.
+
+<sup>5</sup> Si les coûts annuels ou journaliers d’une thérapie sont très bas, l’assureur peut renoncer à un abattement de prix. Le DFI définit quels coûts annuels ou journaliers d’une thérapie peuvent être qualifiés de très bas.
+
+[^71a-1]: Introduit par le ch. I de l’O du 2 fév. 2011 ([RO 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 71b
 
-**Prise en charge des coûts d’un médicament autorisé par l’institut mais ne figurant pas dans la liste des spécialités**[^71b-1]
+**Prise en charge des coûts d’un médicament autorisé par Swissmedic mais ne figurant pas dans la liste des spécialités**[^71b-1]
 
-<sup>1</sup> L’assurance obligatoire des soins prend en charge les coûts d’un médicament prêt à l’emploi autorisé par l’institut qui ne figure pas sur la liste des spécialités, qu’il soit utilisé pour les indications mentionnées sur la notice ou en dehors de celles-ci, si les conditions mentionnées à l’art. 71*a*, al. 1, let. a ou b, sont remplies.
+<sup>1</sup> L’assurance obligatoire des soins prend en charge les coûts d’un médicament prêt à l’emploi autorisé par Swissmedic qui ne figure pas sur la liste des spécialités, qu’il soit utilisé pour les indications mentionnées sur l’information professionnelle ou en dehors de celles-ci, si au moins une des conditions mentionnées à l’art. 71*a*, al. 1, est remplie.
 
-<sup>2</sup> L’assureur détermine le montant de la prise en charge après avoir consulté le titulaire de l’autorisation.
+<sup>2</sup>
 
-[^71b-1]: Introduit par le ch. I de l’O du 2 fév. 2011 ([RO 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+L’assureur détermine le montant de la prise en charge après avoir consulté le titulaire de l’autorisation. Il doit garantir:
+
+- a. dans les cas prévus à l’art. 71*a*, al. 1, l’application d’un abattement du prix de fabrique déterminé lors de la comparaison avec les prix pratiqués à l’étranger visée à l’art. 65*b*<sup>quater</sup>; le DFI fixe le montant de l’abattement; celui-ci s’élève au maximum à 30 %;
+- b. dans les cas prévus à l’art. 71*a*, al. 1, let. b, une prise en charge des coûts qui soit raisonnablement proportionnée au bénéfice thérapeutique; le DFI fixe un abattement par rapport au prix déterminé lors de la comparaison avec les prix pratiqués à l’étranger visée à l’art. 65*b*<sup>quater</sup> en fonction des catégories définies pour l’évaluation du bénéfice thérapeutique; l’abattement s’élève au maximum à 50 %.
+
+<sup>3</sup> Si les coûts annuels ou journaliers d’une thérapie sont très bas, l’assureur peut renoncer à un abattement de prix. Le DFI définit quels coûts annuels ou journaliers d’une thérapie peuvent être qualifiés de très bas.
+
+[^71b-1]: Introduit par le ch. I de l’O du 2 fév. 2011 ([RO 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 71c
 
-**Prise en charge des coûts d’un médicament importé non autorisé par l’institut**[^71c-1]
+**Prise en charge des coûts d’un médicament importé non autorisé par Swissmedic**[^71c-1]
 
-<sup>1</sup> L’assurance obligatoire des soins prend en charge les coûts d’un médicament prêt à l’emploi non autorisé par l’institut si le médicament peut être importé en vertu de la loi sur les produits thérapeutiques, que les conditions mentionnées à l’art. 71*a*, al. 1, let. a ou b, sont remplies et que le médicament est autorisé pour l’indication correspondante par un État ayant institué un système équivalent d’autorisation de mise sur le marché reconnu par l’institut.
+<sup>1</sup>
 
-<sup>2</sup> L’assureur prend en charge les coûts auxquels le médicament est importé. Le fournisseur de prestations veille aux coûts lors du choix du pays d’importation.
+L’assurance obligatoire des soins prend en charge les coûts d’un médicament importé prêt à l’emploi non autorisé par Swissmedic si les conditions suivantes sont réunies:
 
-[^71c-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+- a. au moins une des conditions visées à l’art. 71*a*, al. 1, est remplie;
+- b. le médicament peut être importé en vertu de la LPTh;
+- c. le médicament est autorisé pour l’indication correspondante par un État ayant institué un système d’autorisation de mise sur le marché reconnu comme équivalent par Swissmedic.
+
+<sup>2</sup> L’assureur fixe le montant de la prise en charge après avoir consulté le titulaire de l’autorisation. Il peut demander au fournisseur de prestations d’importer le médicament du pays dont résulteront les coûts de prise en charge les moins élevés.
+
+[^71c-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)). Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 71d
 
@@ -2501,13 +2781,21 @@ L’assurance obligatoire des soins prend en charge les coûts d’un médicamen
 
 <sup>1</sup> L’assurance obligatoire des soins ne prend en charge les coûts du médicament que si l’assureur a donné une garantie spéciale après avoir consulté le médecin-conseil.
 
-<sup>2</sup> L’assureur examine si le rapport entre les coûts pris en charge par l’assurance obligatoire des soins et le bénéfice thérapeutique est approprié.
+<sup>2</sup> …[^71d-2]
 
 <sup>3</sup> Si la demande de prise en charge des coûts est complète, l’assureur rend sa décision dans les deux semaines.
 
-<sup>4</sup> Le fournisseur de prestations facture les coûts effectifs à l’assureur. Pour les médicaments visés à l’art. 71*a*, le prix facturé est le prix maximum figurant dans la liste des spécialités; pour les médicaments visés aux art. 71*b* et 71*c*, le prix facturé est le prix que le fournisseur de prestations a payé pour ce médicament, majoré de la part relative à la distribution au sens de l’art. 67, 1<sup>quater</sup>, et de la TVA.
+<sup>4</sup> Le fournisseur de prestations facture les coûts effectifs à l’assureur. Pour les médicaments visés à l’art. 71*a*, le prix facturé est le prix maximum figurant dans la liste des spécialités; pour les médicaments visés aux art. 71*b* et 71*c*, le prix facturé est le prix que le fournisseur de prestations a payé pour ce médicament, majoré de la part relative à la distribution au sens de l’art. 67, al. 4, et de la TVA.[^71d-3]
+
+<sup>5</sup> S’il est prévisible qu’une demande de prise en charge d’un médicament important contre des malades rares au sens de l’art. 4, al. 1, let. a<sup>decies</sup>, ch. 1, LPTh sera rejetée sur la base de l’évaluation du bénéfice thérapeutique et s’il n’existe pas d’études cliniques, le médecin-conseil consulte au moins un spécialiste clinique. Ce dernier formule une recommandation.[^71d-4]
+
+<sup>6</sup> En cas de rejet d’une demande de prise en charge d’un médicament, l’assureur informe le médecin traitant et le patient des motifs de sa décision. Si ce rejet se fonde sur l’évaluation du bénéfice thérapeutique, il joint cette évaluation à sa décision.[^71d-5]
 
 [^71d-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^71d-2]: Abrogé par le ch. I de l’O du 22 sept. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^71d-3]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^71d-4]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^71d-5]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 71e
 
@@ -2516,16 +2804,14 @@ L’assurance obligatoire des soins prend en charge les coûts d’un médicamen
 Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts dans les cas suivants:
 
 - a. médicaments qui sont utilisés pour traiter des patients atteints du COVID-19 et qui contiennent des substances actives énumérées à l’annexe 5 de l’ordonnance 3 COVID-19 du 19 juin 2020[^71e-2];
-- b. médicaments qui disposent d’une autorisation valable de l’institut avec une indication pour le traitement du COVID-19.
+- b. médicaments qui disposent d’une autorisation valable de Swissmedic avec une indication pour le traitement du COVID-19.
 
-[^71e-1]: Introduit par le ch. III de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 30 juin 2024 ([RO 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)ch. IV).
+[^71e-1]: Introduit par le ch. III de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 31 janv. 2024 ([RO 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)ch. II 2).
 [^71e-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 71f
 
-**Prise en charge des coûts de remise des médicaments pour le traitement ambulatoire ou stationnaire de la variole du singe**[^71f-1]
-
-Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts des médicaments qui sont utilisés pour le traitement ambulatoire ou stationnaire de la variole du singe.
+[^71f-1]
 
 [^71f-1]: Introduit par le ch. III de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
@@ -2537,19 +2823,9 @@ Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts d
 
 #### Art. 72
 
-**Publications dans le bulletin de l’OFSP**
+[^72-1]
 
-Sont publiées dans le bulletin de l’OFSP:
-
-- a. les radiations de la liste des spécialités;
-- b.[^72-1] les autres modifications de la liste des spécialités;
-- c. les modifications de la liste des médicaments avec tarif qui ne nécessitent pas une nouvelle parution de celle-ci;
-- d.[^72-2] les modifications de la liste des analyses qui prennent effet en dehors des parutions annuelles;
-- e.[^72-3] les modifications de la liste des moyens et appareils (art. 33, let. e) qui prennent effet en dehors des parutions annuelles.
-
-[^72-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)).
-[^72-2]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^72-3]: Introduite par le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août. 2007 ([RO 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^72-1]: Abrogé par le ch. I de l’O du 22 sept. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 73
 
@@ -3394,9 +3670,10 @@ Le taux des intérêts moratoires pour les primes échues selon l’art. 26, al.
 
 <sup>1</sup> L’assureur envoie la sommation en cas de non-paiement des primes et des participations aux coûts dans les trois mois qui suivent leur exigibilité. Il l’adresse séparément de toute sommation portant sur d’autres retards de paiement éventuels.
 
-<sup>2</sup> Lorsque l’assuré a causé par sa faute des dépenses qui auraient pu être évitées par un paiement effectué à temps, l’assureur peut percevoir des frais administratifs d’un montant approprié, si une telle mesure est prévue par les conditions générales sur les droits et les obligations de l’assuré.
+<sup>2</sup> Lorsque l’assuré a causé par sa faute des dépenses qui auraient pu être évitées par un paiement effectué à temps, l’assureur peut percevoir des frais administratifs d’un montant approprié, pour autant qu’une telle mesure soit prévue par les conditions générales sur les droits et les obligations de l’assuré. Le DFI en détermine les montants maximaux*.*[^105b-2]
 
 [^105b-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105c
 
@@ -3439,6 +3716,16 @@ Le canton communique l’autorité cantonale compétente à l’assureur.
 [^105f-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^105f-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
+#### Art. 105f<sup>bis</sup>
+
+**Reprise supplémentaire des créances annoncées**[^105fbis-1]
+
+<sup>1</sup> L’autorité cantonale compétente informe les assureurs avant le 1<sup>er</sup> décembre si elle décide, conformément à l’art. 64*a*, al. 5, LAMal, de prendre en charge 5 % supplémentaires de l’ensemble des créances qui feront l’objet d’une annonce au sens de l’art. 64*a*, al. 3 et 3<sup>bis</sup>, LAMal, au cours de l’année suivante. Sa décision vaut pour une année civile.
+
+<sup>2</sup> L’autorité cantonale compétente peut choisir entre une reprise annuelle et une reprise trimestrielle des créances que l’assureur lui a annoncées. Elle annonce son choix dans le délai prévu à l’al. 1.
+
+[^105fbis-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+
 #### Art. 105g
 
 **Données personnelles**[^105g-1]
@@ -3457,9 +3744,9 @@ Lors de l’annonce selon l’art. 64*a*, al. 3, de la loi, l’assureur fournit
 
 **Échange de données**[^105h-1]
 
-Le DFI peut fixer les modalités techniques et organisationnelles en matière d’échange de données entre les cantons et les assureurs.
+Le DFI peut édicter des prescriptions techniques et organisationnelles pour l’échange et le format des données après avoir entendu les cantons et les assureurs.
 
-[^105h-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105h-1]: Introduit par le ch. I de l’O du 22 juin 2011 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105i
 
@@ -3519,9 +3806,12 @@ Il vérifie l’exactitude et l’exhaustivité des informations des assureurs c
 
 <sup>2</sup> Si l’assuré en retard de paiement demande à changer d’assureur, l’assureur doit l’informer après réception de la demande que celle-ci ne déploiera aucun effet si les primes, les participations aux coûts et les intérêts moratoires ayant fait l’objet d’un rappel jusqu’au mois précédant l’expiration du délai de changement ou si les frais de poursuite en cours jusqu’à ce moment ne sont pas intégralement payés avant l’expiration de ce délai.
 
+<sup>2bis</sup> L’assureur informe les assurés qui atteignent l’âge de 18 ans qu’ils ne sont pas considérés comme étant en retard de paiement pour les montants dus avant leur majorité.[^105l-2]
+
 <sup>3</sup> Si le paiement n’est pas parvenu à temps à l’assureur conformément à l’al. 2, celui-ci doit informer l’assuré qu’il continue à être assuré auprès de lui et qu’il ne pourra changer d’assureur qu’au prochain terme prévu à l’art. 7, al. 1 et 2, de la loi. L’assureur doit également informer le nouvel assureur, dans les 60 jours suivants, que l’assuré continue à être assuré auprès de lui.
 
 [^105l-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105l-2]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105m
 
@@ -3620,14 +3910,18 @@ Il annonce à l’assureur:
 
 <sup>5</sup>
 
-Il verse à la personne assurée la différence dans un délai de 60 jours, si ses créances de primes restantes pour l’année civile en cours et ses autres créances échues ressortissant à l’assurance obligatoire des soins, pour lesquelles il n’existe pas d’acte de défaut de biens, sont inférieures:
+Il peut compenser ses créances de primes restantes pour l’année civile et ses autres créances échues ressortissant à l’assurance obligatoire des soins, sous réserve de l’art. 105*k*, al. 5, avec:
 
-- a. à la réduction des primes octroyée par le canton; demeurent réservées les réglementations cantonales qui prévoient que la réduction équivaut au maximum au montant total de la prime et que les petits montants ne sont pas versés;
-- b. au montant forfaitaire octroyé par le canton pour l’assurance obligatoire des soins selon l’art. 10, al. 3, let. d, de la loi du 6 octobre 2006 sur les prestations complémentaires[^106c-1].
+- a. la réduction des primes octroyée par le canton;
+- b. le montant forfaitaire octroyé par le canton pour l’assurance obligatoire des soins conformément à l’art. 10, al. 3, let. d, de la loi du 6 octobre 2006 sur les prestations complémentaires[^106c-1].[^106c-2]
+
+<sup>5bis</sup> Il verse le solde à l’assuré dans un délai de 60 jours à compter de l’annonce de cette réduction par le canton. Les réglementations cantonales qui prévoient que la réduction équivaut au maximum au montant total de la prime et que les petits montants ne sont pas versés sont réservées.[^106c-3]
 
 <sup>6</sup> Le canton peut prévoir que l’assureur lui communique les données personnelles selon l’art. 105*g* et d’autres données relatives à ses assurés dans le canton concerné.
 
 [^106c-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^106c-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-3]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 106d
 
@@ -3925,9 +4219,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1996.
 
 [^u3-1]
 
-[^u3-1]: [RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481)
-
-L’OFSP peut, durant cinq ans au plus, renoncer à adapter les prix de certains groupes de médicaments à la structure des prix prévue à l’art. 67 ou prévoir une adaptation échelonnée.
+[^u3-1]: [RO 2000 2835](https://fedlex.data.admin.ch/eli/oc/2000/481). Devenue sans objet avec la mod. du 22 sept. 2023 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 ## Dispositions finales de la modification du 22 mai 2002
 
@@ -4266,25 +4558,48 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 [^u31-2]: [RS 832.201](https://fedlex.data.admin.ch/eli/cc/1982/1724_1724_1724)
 
+## Dispositions transitoires de la modification du 22 septembre 2023
+
+[^u32-1]
+
+[^u32-1]: [RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)
+
+<sup>1</sup> La modification du 22 septembre 2023 s’applique également aux procédures qui sont en cours auprès de l’OFSP à son entrée en vigueur.
+
+<sup>2</sup> L’ancien droit continue de régir les procédures de réexamen des conditions d’admission tous les trois ans au sens de l’art. 65*d* qui sont en cours auprès de l’OFSP à l’entrée en vigueur de la modification du 22 septembre 2023.
+
+<sup>3</sup> L’ancien droit continue de régir pendant trois mois à compter de l’entrée en vigueur de la modification du 22 septembre 2023 les demandes de garantie de prise en charge des coûts au sens des art. 71*a* à 71*d* qui ont fait l’objet d’une décision avant l’entrée en vigueur de ladite modification.
+
+<sup>4</sup> Lors du premier réexamen des conditions d’admission tous les trois ans après l’entrée en vigueur de la modification du 22 septembre 2023, le caractère économique des biosimilaires qui ont été admis dans la liste des spécialités avant l’entrée en vigueur de ladite modification est évalué sur la base des écarts de prix constatés lors de l’admission (art. 65*c*<sup>bis</sup>).
+
 Annexe 1[^t-1]
 
-(art. 70*b*)
+(art. 70*b,* al. 1<sup>bis</sup>)
 
 ## Émoluments perçus pour les inscriptions dans la liste des spécialités
 
-[^t-1]: Introduite par le ch. II de l’O du 8 mai 2013 ([RO 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nouvelle teneur selon le ch. III de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^t-1]: Introduite par le ch. II de l’O du 8 mai 2013 ([RO 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nouvelle teneur selon le ch. II de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 <table>
-<tr><td></td><td>en francs</td></tr>
-<tr><td>1. Émoluments perçus par forme galénique pour les décisions concernant les demandes suivantes:</td><td></td></tr>
-<tr><td>a. admission d’un médicament dans la liste des spécialités ou modification de la limitation inscrite dans la liste des spécialités, si la demande est soumise à la Commission fédérale des médicaments</td><td>7500</td></tr>
-<tr><td>b. admission d’un médicament dans la liste des spécialités, si la demande n’est pas soumise à la Commission fédérale des médicaments</td><td>2500</td></tr>
-<tr><td>c. admission d’un médicament dans la liste des spécialités ou modification de la limitation inscrite dans la liste des spécialités, si la demande est traitée en procédure rapide par l’OFSP</td><td>9000</td></tr>
-<tr><td>d. augmentation de prix</td><td>2500</td></tr>
-<tr><td>e. modification de la taille de l’emballage</td><td>2500</td></tr>
-<tr><td>f. modification du dosage</td><td>2500</td></tr>
-<tr><td>g. réexamen</td><td>2500</td></tr>
+<tr><th></th><th>en francs</th></tr>
+<tr><td>1. Émoluments perçus par demande portant sur les sujets suivants:</td><td></td></tr>
+<tr><td>a. admission d’un médicament dans la liste des spécialités, modification de la limitation ou extension des indications inscrites dans la liste des spécialités, si la demande est soumise à la Commission fédérale des médicaments (CFM; émolument pour chaque indication pour laquelle une demande de remboursement est déposée)</td><td>8 000</td></tr>
+<tr><td>b. admission d’un médicament dans la liste des spécialités, si la demande n’est pas soumise à la CFM</td><td>2 500</td></tr>
+<tr><td>c. admission d’un médicament dans la liste des spécialités, modification de la limitation ou extension des indications inscrites dans la liste des spécialités, si la demande est traitée en procédure rapide par l’OFSP (émolument pour chaque indication pour laquelle une demande de remboursement est déposée)</td><td>10 000</td></tr>
+<tr><td>d. admission d’un médicament dans la liste des spécialités, modification de la limitation ou extension des indications dans le cadre du dépôt anticipé d’une demande (émolument pour chaque indication pour laquelle une demande de remboursement est déposée)</td><td>10 000</td></tr>
+<tr><td>e. augmentation de prix</td><td>5 000</td></tr>
+<tr><td>f. modification de la taille de l’emballage</td><td>2 500</td></tr>
+<tr><td>g. modification du dosage</td><td>2 500</td></tr>
+<tr><td>h. réexamen</td><td>2 500</td></tr>
 <tr><td>2. Émolument annuel pour tout médicament et pour tout emballage figurant dans la liste des spécialités</td><td>40</td></tr>
+<tr><td>3. Émoluments pour le réexamen des conditions d’admission tous les trois ans des médicaments suivants, pour autant que ledit réexamen n’entraîne pas la radiation du médicament concerné:</td><td></td></tr>
+<tr><td>a. préparations originales</td><td>500</td></tr>
+<tr><td>b. autres médicaments</td><td>200</td></tr>
+<tr><td>4. Autres émoluments:</td><td></td></tr>
+<tr><td>a. chaque nouvelle consultation de la CFM après une première consultation pour les demandes visées au ch. 1, let. a, c et d</td><td>5 000</td></tr>
+<tr><td>b. chaque nouvelle communication après une première communication pour les demandes visées au ch. 1</td><td>1 000</td></tr>
+<tr><td>c. examen préalable</td><td>2 500</td></tr>
+<tr><td>d. examen préalable complémentaire en vue du dépôt anticipé de la demande</td><td>2 500</td></tr>
 </table>
 
 Annexe 2[^t-2]
