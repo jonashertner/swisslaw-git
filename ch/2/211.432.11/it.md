@@ -4,11 +4,11 @@ title: Ordinanza tecnica del DFGP e del DDPS del 28 dicembre 2012 sul registro f
 short: OTRF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/3"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-12-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-3-20230101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2013-3-20240101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20230101/it"
 
 (OTRF)
 
-del 28 dicembre 2012 (Stato 1° gennaio 2023)
+del 28 dicembre 2012 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale di giustizia e polizia (DFGP) e il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
-visti gli articoli 949*a* capoverso 3 e 949*c* del Codice civile[^ingress-1]; visti gli articoli 19 capoverso 4, 23*e*, 34*b* capoverso 7, 34*c* capoverso 5, 40 capoverso 2 e 41 capoverso 1 dell’ordinanza del 23 settembre 2011[^ingress-2] sul registro fondiario (ORF); visto l’articolo 6*a* capoverso 2 dell’ordinanza del 18 novembre 1992[^ingress-3] concernente la misurazione ufficiale (OMU)*,*[^ingress-4]
+visti gli articoli 949*a* capoverso 3 e 949*c* del Codice civile (CC)[^ingress-1]; visti gli articoli 19 capoverso 4, 23*e*, 34*b* capoverso 7, 34*c* capoverso 5, 40 capoverso 2 e 41 capoverso 1 dell’ordinanza del 23 settembre 2011[^ingress-2] sul registro fondiario (ORF); visti gli articoli 7 capoverso 5 e 46 capoverso 1 dell’ordinanza del 18 novembre 1992[^ingress-3] concernente la misurazione ufficiale (OMU),[^ingress-4]
 
 ordinano:
 
-[^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^ingress-2]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^ingress-3]: [RS 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^ingress-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^ingress-2]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
+[^ingress-3]: [RS 211.432.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5789)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 29 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
 
 ## Sezione 1: Oggetto
 
@@ -112,11 +112,13 @@ Per lo scambio di dati tra la misurazione ufficiale e il registro fondiario, il 
 
 #### Art. 5
 
-**UFRF e Direzione federale delle misurazioni catastali**
+**UFRF e servizio specializzato Direzione federale delle misurazioni catastali**[^5-1]
 
-<sup>1</sup> L’UFRF e la Direzione federale delle misurazioni catastali (D+M) sono incaricati di diffondere il MDMURF e l’IMURF nonché la relativa documentazione.
+<sup>1</sup> L’UFRF e il servizio specializzato Direzione federale delle misurazioni catastali sono incaricati di diffondere il MDMURF e l’IMURF nonché la relativa documentazione.
 
 <sup>2</sup> Garantiscono lo sviluppo del MDMURF, con la collaborazione dei Cantoni e dei produttori del sistema.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 29 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
 
 #### Art. 6
 
@@ -143,7 +145,95 @@ Per lo scambio di dati tra la misurazione ufficiale e il registro fondiario, il 
 
 <sup>2</sup> L’IEDRF è descritto in XML.
 
-[^7-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^7-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+
+## Sezione 3*a*: Piano per il registro fondiario
+
+[^sec3a-1]
+
+[^sec3a-1]: Introdotta dal n. I dell’O del DFGP e del DDPS del 29 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
+
+#### Art. 7a
+
+**Contenuto**
+
+Il piano per il registro fondiario secondo l’articolo 7 OMU contiene i seguenti dati della misurazione ufficiale:
+
+- a. i punti e le linee di confine dei beni immobili, dei diritti per sé stanti e permanenti costituiti sui fondi e differenziati secondo la superficie nonché le miniere;
+- b. i territori interessati da spostamenti di terreno permanenti (art. 660*a* CC);
+- c. i punti fissi;
+- d. gli edifici esistenti secondo gli articoli 2 lettera b e 7 capoverso 1 lettera b dell’ordinanza del 9 giugno 2017[^7a-1] sul Registro federale degli edifici e delle abitazioni (OREA) nonché gli altri impianti e costruzioni esistenti;
+- e. le caratteristiche della superficie terrestre;
+- f. i confini giurisdizionali;
+- g. gli indirizzi degli edifici secondo gli articoli 26*b* e 26*c* dell’ordinanza del 21 maggio 2008[^7a-2] sui nomi geografici (ONGeo);
+- h. altri oggetti, nella misura in cui sono rilevanti per lo sfruttamento del fondo;
+- i. i nomi geografici.
+
+[^7a-1]: [RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)
+[^7a-2]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
+
+#### Art. 7b
+
+**Precisione e attendibilità**
+
+L’UFRF e il servizio specializzato Direzione federale delle misurazioni catastali stabiliscono in istruzioni comuni i requisiti di precisione e attendibilità del piano per il registro fondiario per i confini di:
+
+- a. beni immobili;
+- b. diritti per sé stanti e permanenti costituiti sui fondi e differenziati secondo la superficie;
+- c. miniere;
+- d. territori interessati da spostamenti di terreno permanenti.
+
+## Sezione 3*b*: Documenti della misurazione ufficiale per la tenuta del registro fondiario
+
+[^sec3b-1]
+
+[^sec3b-1]: Introdotta dal n. I dell’O del DFGP e del DDPS del 29 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
+
+#### Art. 7c
+
+**Descrizione del fondo**
+
+<sup>1</sup>
+
+La descrizione del fondo comprende:
+
+- a. il nome del Comune;
+- b. la superficie in metri quadrati, il numero e l’E‑GRID del fondo o del diritto per sé stante e permanente;
+- c. un’informazione adeguata sull’ubicazione degli oggetti interessati, come il nome locale o il nome della via;
+- d. gli indirizzi degli edifici secondo gli articoli 26*b* e 26*c* ONGeo[^7c-1];
+- e. una lista degli edifici esistenti secondo gli articoli 2 lettera b e 7 capoverso 1 lettera b OREA[^7c-2] nonché degli altri impianti e costruzioni esistenti;
+- f. indicazioni sulle caratteristiche della superficie terrestre.
+
+<sup>2</sup> La descrizione del fondo deve essere datata.
+
+[^7c-1]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
+[^7c-2]: [RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)
+
+#### Art. 7d
+
+**Documenti di mutazione**
+
+<sup>1</sup> I documenti di mutazione sono costituiti dal piano di mutazione e dalla tabella di mutazione. Forniscono informazioni sulle modifiche intervenute nell’andamento dei confini dei beni immobili e dei diritti per sé stanti e permanenti costituiti sui fondi nonché sulle modifiche spaziali delle miniere.
+
+<sup>2</sup>
+
+Il piano di mutazione contiene segnatamente:
+
+- a. il nome del Comune e il numero della mutazione;
+- b. il vecchio e il nuovo stato delle linee di confine con la messa in evidenza grafica delle modifiche previste;
+- c. il vecchio e il nuovo numero del fondo;
+- d. un’informazione adeguata sulla localizzazione, per esempio il nome locale o il nome della strada;
+- e. la direzione del nord, la scala del piano;
+- f. la data d’esecuzione e la firma dell’ingegnere geometra.
+
+<sup>3</sup>
+
+La tabella di mutazione contiene segnatamente:
+
+- a. il nome del Comune e il numero di mutazione;
+- b. le indicazioni sulla superficie aggiunta o tolta ai beni immobili o ai diritti per sé stanti e permanenti, in metri quadrati;
+- c. le eventuali differenze di arrotondamento;
+- d. la data d’esecuzione e la firma dell’ingegnere geometra.
 
 ## Sezione 4: Il modello di dati per il registro fondiario
 
@@ -273,7 +363,7 @@ Il sistema cantonale trasmette mediante l’interfaccia all’indice di ricerca 
 
 L’IMURF è definita mediante il MDMURF e il formato di trasferimento risultante dal MDMURF e dalla SN 612031, edizione 2006‑05[^11-1].
 
-[^11-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^11-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch)
 
 #### Art. 12
 
@@ -347,9 +437,9 @@ I formati di dati ammessi per le richieste destinate all’ufficio del registro 
 - d. per le domande di rilascio di un estratto del registro fondiario o di un’attestazione dell’iscrizione: PDF provvisto di firma elettronica qualificata ai sensi dell’articolo 14 capoverso 2<sup>bis</sup> CO; sono fatte salve le domande di partecipanti autentificati nell’ambito di procedure alternative di trasmissione e di sistemi cantonali d’informazione del registro fondiario.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^18-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^18-3]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^18-4]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^18-4]: [RS 211.435.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5812)
 
 #### Art. 19
 
@@ -362,9 +452,9 @@ I formati per le notifiche dell’ufficio del registro fondiario alle parti sono
 - c.[^19-2] per gli estratti pubblici in forma elettronica: i formati secondo l’OAPuE‑DFGP[^19-3];
 - d.[^19-4] per le copie e gli estratti non autenticati: PDF o XML; all’estratto del registro fondiario possono inoltre essere allegati dati in formato XML.
 
-[^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^19-2]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^19-3]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^19-3]: [RS 211.435.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5812)
 [^19-4]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 #### Art. 20
@@ -375,7 +465,7 @@ I formati per le notifiche dell’ufficio del registro fondiario alle parti sono
 
 <sup>2</sup> I formati PDF e XML possono essere utilizzati in tutte le versioni in uso.
 
-[^20-1]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^20-1]: [RS 211.435.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5812)
 [^20-2]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## Sezione 11: Procedure di trasmissione alternative
@@ -392,8 +482,8 @@ Una piattaforma alternativa per la comunicazione elettronica con l’ufficio del
 - d. è in grado di comunicare conformemente alle regole riconosciute in materia di trasmissione sicura; tiene conto dello stato della tecnica come espresso in particolare negli standard eCH[^21-2];
 - e. possiede risorse o garanzie finanziarie sufficienti.
 
-[^21-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. n. I]. Vedi ora la L del 18 mar. 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
-[^21-2]: www.eCH.ch
+[^21-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. n. I]. Vedi ora la L del 18 mar. 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
+[^21-2]: [www.eCH.ch](http://www.eCH.ch)
 
 #### Art. 22
 
@@ -422,7 +512,7 @@ Alla domanda vanno allegati:
 
 <sup>6</sup> L’emolumento per la decisione è calcolato in base al dispendio di tempo; la tariffa oraria ammonta a 250 franchi. Per il rimanente, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^22-1] sugli emolumenti.
 
-[^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Sezione 11*a*: Requisiti tecnici dell’interfaccia per le interrogazioni mediante il servizio di ricerca di fondi e autorizzazione all’uso dell’interfaccia
 
@@ -454,7 +544,7 @@ La domanda di autorizzazione dell’uso dell’interfaccia per le interrogazioni
 
 <sup>4</sup> Per ciascuna unità del loro territorio, i Cantoni designano e notificano all’UFG una persona incaricata della salvaguardia a lungo termine dei dati, che trasmette alla Confederazione il file da essa firmato e conferma, con la sua firma, che si tratta dell’insieme di dati del sistema del registro fondiario da salvaguardare.
 
-[^23-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. n. I]. Vedi ora la L del 18 mar. 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^23-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. n. I]. Vedi ora la L del 18 mar. 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 ## Sezione 13: Requisiti minimi per la sicurezza d’esercizio dei sistemi del registro fondiario
 
@@ -499,6 +589,17 @@ I Cantoni devono rendere disponibili nei loro sistemi informatici entro il 1° g
 
 [^26a-1]: Introdotto dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
+#### Art. 26b
+
+**Disposizioni transitorie per la modifica del 29 agosto 2023**[^26b-1]
+
+<sup>1</sup> L’UFRF e il servizio specializzato Direzione federale delle misurazioni catastali prescrivono, per il momento dell’entrata in vigore della modifica del 29 agosto 2023 nell’ambito del nuovo modello di geodati della misurazione ufficiale, un modello di geodati del piano per il registro fondiario che sostituisce il modello di dati della misurazione ufficiale di cui all’articolo 7 e all’allegato A dell’ordinanza tecnica del DDPS del 10 giugno 1994[^26b-2] sulla misurazione ufficiale.
+
+<sup>2</sup> Il passaggio al nuovo modello di geodati deve essere completato entro il 31 dicembre 2027. La data del cambio di modello corrisponde al momento stabilito dal Cantone per il passaggio al nuovo modello di geodati della misurazione ufficiale. Il Cantone adegua le sue basi legali in tale data. Fino al momento del cambio di modello, continuano a valere le disposizioni relative al modello di dati precedente.
+
+[^26b-1]: Introdotto dal n. I dell’O del DFGP e del DDPS del 29 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
+[^26b-2]: [RU 1994 1864](https://fedlex.data.admin.ch/eli/oc/1994/1864_1864_1864); [2003 514](https://fedlex.data.admin.ch/eli/oc/2003/112); [2008 2759](https://fedlex.data.admin.ch/eli/oc/2008/386)
+
 #### Art. 27
 
 **Entrata in vigore**
@@ -514,7 +615,7 @@ Allegato 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Aggiornato dal n. II cpv. 2 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^annex1-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex1-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economia &gt; Registro fondiario e registro del naviglio &gt; Basi legali.
 
 **Versione eGRISDM21**
 
@@ -526,7 +627,7 @@ Allegato 2
 
 [^annex2-lvlu1-1]
 
-[^annex2-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex2-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economia &gt; Registro fondiario e registro del naviglio &gt; Basi legali.
 
 **Versione MDMURF05**
 
@@ -539,7 +640,7 @@ Allegato 3[^t-2]
 [^annex3-lvlu1-1]
 
 [^t-2]: Aggiornato dal n. II cpv. 2 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^annex3-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex3-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economia &gt; Registro fondiario e registro del naviglio &gt; Basi legali.
 
 **Versione IEDRF 2.1**
 
@@ -551,7 +652,7 @@ Allegato 4
 
 [^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex4-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economia &gt; Registro fondiario e registro del naviglio &gt; Basi legali.
 
 Allegato 5[^t-3]
 
@@ -568,7 +669,7 @@ Allegato 5[^t-3]
 <tr><td>«Annuncio di mutazioni UPI a terzi»</td><td>eCH-0212</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: La specificazione può essere consultata e ottenuta presso l’Ufficio centrale di compensazione (UCC), Av. Edmond-Vaucher 18, casella postale 3000, 1211 Ginevra 2, www.zas.admin.ch &gt; Partner e Istituzioni &gt; Unique Person Identification (UPI) &gt; Interfaccia UPIServices e presso l’associazione eCH, Mainaustrasse 30, 8008 Zurigo, www.ech.ch.
+[^annex5-lvlu1-1]: La specificazione può essere consultata e ottenuta presso l’Ufficio centrale di compensazione (UCC), Av. Edmond-Vaucher 18, casella postale 3000, 1211 Ginevra 2, [www.zas.admin.ch](http://www.zas.admin.ch) &gt; Partner e Istituzioni &gt; Unique Person Identification (UPI) &gt; Interfaccia UPIServices e presso l’associazione eCH, Mainaustrasse 30, 8008 Zurigo, [www.ech.ch](http://www.ech.ch).
 
 Allegato 6[^t-4]
 
@@ -579,7 +680,7 @@ Allegato 6[^t-4]
 [^annex6-lvlu1-1]
 
 [^t-4]: Introdotto dal n. II cpv. 1 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^annex6-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex6-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economia &gt; Registro fondiario e registro del naviglio &gt; Basi legali.
 
 **Versione 1.2**
 
@@ -592,6 +693,6 @@ Allegato 7[^t-5]
 [^annex7-lvlu1-1]
 
 [^t-5]: Introdotto dal n. II cpv. 1 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economia &gt; Registro fondiario e registro del naviglio &gt; Basi legali.
 
 **Versione 1.0.0**

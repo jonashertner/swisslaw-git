@@ -4,11 +4,11 @@ title: Ordonnance technique du DFJP et du DDPS du 28 décembre 2012 concernant l
 short: OTRF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/3"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-12-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-3-20230101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-3-20240101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20230101/fr"
 
 (OTRF)
 
-du 28 décembre 2012 (Etat le 1<sup>er</sup> janvier 2023)
+du 28 décembre 2012 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral de justice et police (DFJP) et le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
-vu les art. 949*a*, al. 3, et 949*c* du code civil[^ingress-1], vu les art. 19, al. 4, 23*e*, 34*b*, al. 7, 34*c*, al. 5, 40, al. 2, et 41, al. 1, de l’ordonnance du 23 septembre 2011 sur le registre foncier (ORF)[^ingress-2], vu l’art. 6*a*, al. 2, de l’ordonnance du 18 novembre 1992 sur la mensuration officielle (OMO)[^ingress-3],[^ingress-4]
+vu les art. 949*a*, al. 3, et 949*c* du code civil (CC)[^ingress-1], vu les art. 19, al. 4, 23*e*, 34*b*, al. 7, 34*c*, al. 5, 40, al. 2, et 41, al. 1, de l’ordonnance du 23 septembre 2011 sur le registre foncier (ORF)[^ingress-2], vu les art. 7, al. 5, et 46, al. 1, de l’ordonnance du 18 novembre 1992 sur la mensuration officielle (OMO)[^ingress-3],[^ingress-4]
 
 arrêtent:
 
-[^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^ingress-2]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^ingress-3]: [RS 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^ingress-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^ingress-2]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
+[^ingress-3]: [RS 211.432.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5789)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 29 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
 
 ## Section 1 Objet
 
@@ -112,11 +112,13 @@ Le DFJP et le DDPS définissent pour l’échange des données entre la mensurat
 
 #### Art. 5
 
-**OFRF et Direction fédérale des mensurations cadastrales**
+**OFRF et service spécialisé Direction fédérale des mensurations cadastrales**[^5-1]
 
-<sup>1</sup> L’OFRF et la Direction fédérale des mensurations cadastrales (D+M) veillent à la diffusion du MD-IMO-RF et de l’IMO-RF, ainsi qu’à celle de la documentation correspondante.
+<sup>1</sup> L’OFRF et le service spécialisé Direction fédérale des mensurations cadastrales veillent à la diffusion du MD-IMO-RF et de l’IMO-RF, ainsi qu’à celle de la documentation correspondante.
 
 <sup>2</sup> Ils assurent, avec la participation des cantons et des fabricants de systèmes, le développement continu du MD-IMO-RF.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 29 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
 
 #### Art. 6
 
@@ -143,7 +145,95 @@ Le DFJP et le DDPS définissent pour l’échange des données entre la mensurat
 
 <sup>2</sup> L’IPD-RF est décrit en XML.
 
-[^7-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^7-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+
+## Section 3*a* Plan du registre foncier
+
+[^sec3a-1]
+
+[^sec3a-1]: Introduite par le ch. I de l’O du DFJP et du DDPS du 29 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
+
+#### Art. 7a
+
+**Contenu**
+
+Le plan du registre foncier prévu par l’art. 7 OMO contient les données de la mensuration officielle suivantes:
+
+- a. les points limites et les limites des biens-fonds et des droits distincts et permanents sur des immeubles différenciés par la surface ainsi que les mines;
+- b. les zones de territoires en mouvement permanent (art. 660*a* CC);
+- c. les points fixes;
+- d. les bâtiments existants selon les art. 2, let. b, et 7, al. 1, let. b, de l’ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements (ORegBL)[^7a-1] de même que les autres constructions et installations existantes;
+- e. la nature de la surface du sol;
+- f. les limites territoriales;
+- g. les adresses de bâtiments selon les art. 26*b* et 26*c* de l’ordonnance du 21 mai 2008 sur les noms géographiques (ONGéo)[^7a-2];
+- h. d’autres objets, à condition qu’ils revêtent de l’importance pour l’utilisation de l’immeuble;
+- i. les noms géographiques.
+
+[^7a-1]: [RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)
+[^7a-2]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
+
+#### Art. 7b
+
+**Précision et fiabilité**
+
+L’OFRF et le service spécialisé Direction fédérale des mensurations cadastrales définissent dans une directive commune les exigences en matière de précision et de fiabilité applicables au plan du registre foncier pour les limites:
+
+- a. des biens-fonds;
+- b. des droits distincts et permanents sur des immeubles différenciés par la surface;
+- c. des mines;
+- d. des zones de territoires en mouvement permanent.
+
+## Section 3*b* Documents de la mensuration officielle pour la tenue du registre foncier
+
+[^sec3b-1]
+
+[^sec3b-1]: Introduite par le ch. I de l’O du DFJP et du DDPS du 29 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
+
+#### Art. 7c
+
+**État descriptif de l’immeuble**
+
+<sup>1</sup>
+
+L’état descriptif de l’immeuble comprend:
+
+- a. le nom de la commune;
+- b. la surface en mètres carrés, le numéro et l’E-GRID de l’immeuble ou du droit distinct et permanent;
+- c. une information adéquate sur la localisation des objets concernés, par exemple le nom local ou le nom de rue;
+- d. les adresses de bâtiments selon les art. 26*b* et 26*c* ONGéo[^7c-1];
+- e. une liste des bâtiments existants selon les art. 2, let. b, et 7, al. 1, let. b, ORegBL[^7c-2] de même que des autres constructions et installations existantes;
+- f. des informations sur la nature de la surface du sol.
+
+<sup>2</sup> L’état descriptif de l’immeuble doit être daté.
+
+[^7c-1]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
+[^7c-2]: [RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)
+
+#### Art. 7d
+
+**Documents de mutation**
+
+<sup>1</sup> Les documents de mutation se composent du plan et du tableau de mutation. Ils renseignent sur les modifications du tracé des limites des biens-fonds et des droits distincts et permanents sur des immeubles ainsi que sur les modifications dans l’espace des mines.
+
+<sup>2</sup>
+
+Le plan de mutation contient notamment:
+
+- a. le nom de la commune et le numéro de mutation;
+- b. l’ancien et le nouvel état des limites concernées avec mise en évidence graphique des modifications envisagées;
+- c. l’ancien et le nouveau numéro de chaque immeuble;
+- d. une information adéquate sur la localisation, par exemple le nom local ou le nom de rue;
+- e. la direction du nord et l’échelle du plan;
+- f. la date d’exécution et la signature de l’ingénieur géomètre.
+
+<sup>3</sup>
+
+Le tableau de mutation contient notamment:
+
+- a. le nom de la commune et le numéro de mutation;
+- b. les surfaces ajoutées ou retranchées aux biens-fonds et aux droits distincts et permanents concernés en mètres carrés;
+- c. les éventuelles différences d’arrondis;
+- d. la date d’exécution et la signature de l’ingénieur géomètre.
 
 ## Section 4 Le modèle de données du registre foncier
 
@@ -273,7 +363,7 @@ Le système cantonal transmet via l’interface à l’index de recherche du ser
 
 L’IMO-RF est défini par le MD-IMO-RF et par le format de transfert résultant du MD-IMO-RF et de la SN 612031, édition 2006-05[^11-1].
 
-[^11-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^11-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 
 #### Art. 12
 
@@ -347,9 +437,9 @@ Les formats de données autorisés pour les requêtes à l’office du registre 
 - d. pour les demandes de délivrance d’un extrait du registre foncier ou d’un certificat d’inscription: PDF munies de la signature électronique qualifiée conformément à l’art. 14, al. 2<sup>bis</sup>, CO; demeurent réservées les requêtes émanant de participants authentifiés dans le cadre de procédures de transmission alternatives et de systèmes cantonaux d’informations du registre foncier.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^18-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^18-3]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^18-4]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^18-4]: [RS 211.435.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5812)
 
 #### Art. 19
 
@@ -362,9 +452,9 @@ Les formats pour les notifications aux parties par l’office du registre foncie
 - c.[^19-2] pour les extraits électroniques officiels: les formats prévus par l’OAAE-DFJP[^19-3];
 - d.[^19-4] pour les copies et extraits non légalisés: PDF ou XML; des données en format XML peuvent être ajoutées à l’extrait du registre foncier.
 
-[^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^19-3]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^19-3]: [RS 211.435.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5812)
 [^19-4]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 #### Art. 20
@@ -375,7 +465,7 @@ Les formats pour les notifications aux parties par l’office du registre foncie
 
 <sup>2</sup> Les formats PDF et XML peuvent être utilisés dans n’importe laquelle de leurs versions courantes.
 
-[^20-1]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^20-1]: [RS 211.435.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5812)
 [^20-2]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## Section 11 Procédures de transmission alternatives
@@ -392,8 +482,8 @@ Le DFJP reconnaît une plateforme de messagerie alternative pour les communicati
 - d. est en mesure de communiquer conformément aux règles reconnues en matière de transmission sûre; dans ce cadre, l’état de la technique tel qu’il ressort en particulier des Standards eCH[^21-2] est pris en compte;
 - e dispose de moyens ou de garantie financiers suffisants.
 
-[^21-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
-[^21-2]: www.eCH.ch
+[^21-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
+[^21-2]: [www.eCH.ch](http://www.eCH.ch)
 
 #### Art. 22
 
@@ -422,7 +512,7 @@ La demande doit être accompagnée:
 
 <sup>6</sup> L’émolument pour la décision est calculé en fonction du temps consacré; le tarif horaire est de 250 francs. Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^22-1] sont applicables pour le surplus.
 
-[^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Section 11*a* Exigences techniques applicables à l’interface d’interrogation par l’intermédiaire du service de recherche d’immeubles et autorisation d’utiliser l’interface
 
@@ -454,7 +544,7 @@ La demande d’autorisation d’utiliser l’interface d’interrogation par l�
 
 <sup>4</sup> Pour chacune des unités de son territoire, chaque canton désigne et annonce à l’OFJ une personne chargée de la sauvegarde à long terme des données, qui transmet à la Confédération le fichier qu’elle a signé et qui, par sa signature, confirme qu’il s’agit du lot de données du système du registre foncier à sauvegarder.
 
-[^23-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^23-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 ## Section 13 Exigences minimales relatives à la sécurité d’exploitation des systèmes du registre foncier
 
@@ -499,6 +589,17 @@ Les cantons mettent à disposition dans leurs systèmes informatiques au plus ta
 
 [^26a-1]: Introduit par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
+#### Art. 26b
+
+**Dispositions transitoires relatives à la modification du 29 août 2023**[^26b-1]
+
+<sup>1</sup> L’OFRF et le service spécialisé Direction fédérale des mensurations cadastrales prescrivent un modèle de géodonnées du plan du registre foncier, applicable dès l’entrée en vigueur de la modification du 29 août 2023. Il s’inscrit dans le cadre du nouveau modèle de géodonnées de la mensuration officielle qui remplace le modèle de données selon l’art. 7 et l’annexe A de l’ordonnance technique du DDPS du 10 juin 1994 sur la mensuration officielle[^26b-2].
+
+<sup>2</sup> Le passage au nouveau modèle de géodonnées doit intervenir le 31 décembre 2027 au plus tard. Le changement de modèle a lieu à la date fixée par le canton pour passer au nouveau modèle de géodonnées de la mensuration officielle. Les bases légales adaptées en conséquence par le canton doivent prendre effet à cette même date. Les dispositions régissant l’ancien modèle de données s’appliquent jusqu’à cette échéance.
+
+[^26b-1]: Introduit par le ch. I de l’O du DFJP et du DDPS du 29 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 528](https://fedlex.data.admin.ch/eli/oc/2023/528)).
+[^26b-2]: [RO 1994 1864](https://fedlex.data.admin.ch/eli/oc/1994/1864_1864_1864); [2003 514](https://fedlex.data.admin.ch/eli/oc/2003/112); [2008 2759](https://fedlex.data.admin.ch/eli/oc/2008/386)
+
 #### Art. 27
 
 **Entrée en vigueur**
@@ -514,7 +615,7 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Mise à jour par le ch. II al. 2 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^annex1-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier et registre des bateaux.
+[^annex1-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economie &gt; Registre foncier et registre des bateaux &gt; Bases légales.
 
 **Version eGRISDM21**
 
@@ -526,7 +627,7 @@ Annexe 2
 
 [^annex2-lvlu1-1]
 
-[^annex2-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Consultation: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier & registre des bateaux.
+[^annex2-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Consultation: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economie &gt; Registre foncier et registre des bateaux &gt; Bases légales.
 
 **Version MD-IMO-RF05**
 
@@ -539,7 +640,7 @@ Annexe 3[^t-2]
 [^annex3-lvlu1-1]
 
 [^t-2]: Mise à jour par le ch. II al. 2 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^annex3-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier et registre des bateaux.
+[^annex3-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economie &gt; Registre foncier et registre des bateaux &gt; Bases légales.
 
 **GBDBS 2.1**
 
@@ -551,7 +652,7 @@ Annexe 4
 
 [^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Consultation: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier & registre des bateaux.
+[^annex4-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Consultation: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economie &gt; Registre foncier et registre des bateaux &gt; Bases légales.
 
 Annexe 5[^t-3]
 
@@ -568,7 +669,7 @@ Annexe 5[^t-3]
 <tr><td>«Annonces de mutations UPI à des tiers»</td><td>eCH-0212</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: Les spécifications peuvent être consultées et obtenues auprès de la Centrale de compensation CdC, Av. Edmond-Vaucher 18, case postale 3000, 1211 Genève 2, www.zas.admin.ch &gt; Partenaires et institutions &gt; Unique Person Identification (UPI) &gt; Interface UPIServices, et auprès de l’association eCH, Mainaustrasse 30, 8008 Zurich, www.ech.ch.
+[^annex5-lvlu1-1]: Les spécifications peuvent être consultées et obtenues auprès de la Centrale de compensation CdC, Av. Edmond-Vaucher 18, case postale 3000, 1211 Genève 2, [www.zas.admin.ch](http://www.zas.admin.ch/) &gt; Partenaires et institutions &gt; Unique Person Identification (UPI) &gt; Interface UPIServices, et auprès de l’association eCH, Mainaustrasse 30, 8008 Zurich, [www.ech.ch](http://www.ech.ch).
 
 Annexe 6[^t-4]
 
@@ -579,7 +680,7 @@ Annexe 6[^t-4]
 [^annex6-lvlu1-1]
 
 [^t-4]: Introduite par le ch. II al. 1 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^annex6-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier et registre des bateaux.
+[^annex6-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economie &gt; Registre foncier et registre des bateaux &gt; Bases légales.
 
 **Version 1.2**
 
@@ -592,6 +693,6 @@ Annexe 7[^t-5]
 [^annex7-lvlu1-1]
 
 [^t-5]: Introduite par le ch. II al. 1 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
-[^annex7-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier et registre des bateaux.
+[^annex7-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economie &gt; Registre foncier et registre des bateaux &gt; Bases légales.
 
 **Version 1.0.0**
