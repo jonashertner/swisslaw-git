@@ -4,13 +4,13 @@ number: "405"
 title: Verordnung zum Gesetz über die Volksschulbildung
 short: "Volksschulbildungsverordnung, VBV"
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-09
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-06-27
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/405"
-pdf: "https://srl.lu.ch/api/de/versions/4095/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4147/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4095/pdf_file"
 
 (Volksschulbildungsverordnung, VBV)
 
-vom 16.12.2008 (Stand 01.08.2023)
+vom 16.12.2008 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -457,23 +457,28 @@ beschliesst:
 
 **Berechnungsgrundlagen der Kantonsbeiträge**
 
-<sup>1</sup> Die Kantonsbeiträge werden gestützt auf die gesamten Betriebskosten des vorletzten Jahres von der Dienststelle Volksschulbildung jährlich neu berechnet.
+<sup>1</sup> Die Kantonsbeiträge für die Lernenden des Kindergartens oder der Basisstufe, der Primarschule und der Sekundarschule werden auf der Grundlage von Standardkosten pro Klasse und Schulstufe berechnet.
 
-<sup>1<sup>bis</sup></sup> Die Gemeinden ermitteln ihre Betriebskosten nach den folgenden Vorgaben:
+<sup>1<sup>bis</sup></sup> Für die Ermittlung der Standardkosten werden berücksichtigt:
 
-- a. Bei den Besoldungen der Lehrpersonen dürfen nur die Kosten berücksichtigt werden, die für kantonal vorgegebene Aufgaben anfallen.
-- b. Für Bereiche mit kantonalen Vorgaben, namentlich die Schulleitungspensen, dürfen nur die Kosten für Aufwände im vorgegebenen Umfang berücksichtigt werden.
-- c. Für Bereiche mit kantonalen Mindestvorgaben, namentlich die Integrative Förderung, dürfen nur die Kosten für Aufwände bis maximal fünf Prozent über der Mindestvorgabe berücksichtigt werden.
-- d. Bei den Kosten für Schulbauten ist ein pauschaler Abzug von zehn Prozent für nichtschulische Zwecke vorzunehmen, sofern die Gemeinde keine direkte Umlage auf andere Aufgabenbereiche ausweist.
-- e. Von den Kosten der allgemeinen Verwaltung, die Leistungen für die Schule erbringt, dürfen fünf Prozent eingerechnet werden, sofern die Gemeinde keine entsprechende Zeit- und Leistungserfassung führt.
+- a. die Besoldung der Lehrpersonen pro Klasse aufgrund der Lektionenzahl gemäss den Wochenstundentafeln,
+- b. die Besoldung der Lehrpersonen für die Integrative Förderung,
+- c. die Besoldung der Fachpersonen der Schuldienste,
+- d. die Kosten der Lektionen des Schulpools,
+- e. die Raumkosten und die Kosten für den Betriebsunterhalt und
+- f. die übrigen Kosten wie die Besoldung der Schulleitung sowie die Aufwendungen für die Schuladministration und -verwaltung, für Transporte sowie für Lehrmittel und Unterrichtsmaterialien.
 
-<sup>2</sup> Für die Berechnung der Kantonsbeiträge ist die Anzahl Lernender am 1. September des Vorjahres massgebend.
+<sup>2</sup> Für die Berechnung des Pro-Kopf-Beitrages ist die durchschnittliche Anzahl Lernender pro Klasse und Schulstufe massgebend.
+
+<sup>3</sup> Der aus den Standardkosten errechnete Pro-Kopf-Beitrag wird von der Dienststelle Volksschulbildung jährlich an die Besoldungsentwicklung der Lehrpersonen und der Fachpersonen der schulischen Dienste sowie an die geänderten kantonalen Vorgaben angepasst.
+
+<sup>4</sup> Spätestens alle vier Jahre oder wenn sonstige Änderungen eine Anpassung erfordern, berechnet die Dienststelle Volksschulbildung die Standardkosten in Zusammenarbeit mit der Volksschuldelegation neu.
 
 #### § 27
 
 **Kantonsbeiträge**
 
-<sup>1</sup> Die Kantonsbeiträge werden an die Wohnortsgemeinden der Lernenden, welche eine öffentliche Schule besuchen, ausgerichtet.
+<sup>1</sup> Die Kantonsbeiträge werden an die Wohnortsgemeinden der Lernenden, welche eine öffentliche Schule besuchen, ausgerichtet. Massgebend ist die Anzahl Lernender am 1. September des Vorjahres.
 
 <sup>2</sup> Für Lernende, die auf das zweite Semester des Schuljahres in den Kindergarten oder die Basisstufe eintreten, wird den Wohnortsgemeinden die Hälfte des jährlichen Kantonsbeitrages ausgerichtet.
 
@@ -483,16 +488,16 @@ beschliesst:
 
 **Beiträge an schul- und familienergänzende Tagesstrukturen**
 
-<sup>1</sup> Der Kanton leistet gestützt auf die Anzahl belegter Plätze (Stichtage 1. September und 1. März) Beiträge an schul- und familienergänzende Tagesstrukturen, sofern die Vorgaben des Gesetzes über die Volksschulbildung und dieser Verordnung und die von der Dienststelle Volksschulbildung erlassenen Richtlinien eingehalten werden.
+<sup>1</sup> Der Kanton leistet Beiträge an schul- und familienergänzende Tagesstrukturen, sofern die Vorgaben des Gesetzes über die Volksschulbildung und dieser Verordnung und die von der Dienststelle Volksschulbildung erlassenen Richtlinien eingehalten werden.
 
-<sup>2</sup> Die Beiträge werden als Pauschalen geleistet. Die Pauschale für alle vier Betreuungselemente der schul- und familienergänzenden Tagesstrukturen umfasst 20 Anteile und wird wie folgt auf die einzelnen Elemente aufgeteilt:
+<sup>2</sup> Der Kantonsbeitrag deckt nach Abzug der Elternbeiträge und allfälliger weiterer Einnahmen die Hälfte der anerkannten Nettobetriebskosten. Die Dienststelle Volksschulbildung legt die anerkannten Nettobetriebskosten fest.
 
-- a. Betreuungselement I: — 1 Anteil
-- b. Betreuungselement II: — 8 Anteile
-- c. Betreuungselement III: — 5 Anteile
-- d. Betreuungselement IV: — 6 Anteile
+- a. …
+- b. …
+- c. …
+- d. …
 
-<sup>2<sup>bis</sup></sup> Für Lernende, die auf das zweite Semester des Schuljahres in die schul- und familienergänzenden Tagesstrukturen eintreten, wird der Wohnortsgemeinde die Hälfte des jährlichen Kantonsbeitrages ausgerichtet.
+<sup>2<sup>bis</sup></sup> Die Beiträge werden im Folgejahr gestützt auf die Abrechnung der Gemeinden ausgerichtet.
 
 <sup>3</sup> Sofern Gemeinden schul- und familienergänzende Tagesstrukturen zusammen mit anderen Gemeinden anbieten, haben die Wohnortsgemeinden die Schulgeldkosten zu übernehmen.
 
@@ -504,17 +509,21 @@ beschliesst:
 
 <sup>2</sup> Die Beiträge werden in Form von Pauschalen pro Halbtag geleistet, an dem ein Kind ein Angebot der frühen Sprachförderung gemäss Absatz 1 besucht. Stichtag ist der 1. September.
 
-<sup>3</sup> Die Pauschalen orientieren sich an den Durchschnittskosten entsprechender Angebote und sollen durchschnittlich einen Viertel der Kosten decken.
+<sup>3</sup> Die Pauschalen werden von der Dienststelle Volksschulbildung festgelegt. Sie orientieren sich an den Durchschnittskosten entsprechender Angebote und decken durchschnittlich die Hälfte der nach Abzug der Elternbeiträge verbleibenden Kosten.
 
 #### § 28b
 
-**Beiträge an Schulen mit einem hohen Anteil fremdsprachiger Lernender**
+**Beiträge für Lernende fremder Sprache**
 
-<sup>1</sup> Der Kanton leistet Schulen mit einem Anteil von mehr als 35 Prozent fremdsprachigen Lernenden pro Schuljahr (Stichtag 1. September) folgende Zusatzbeiträge:
+<sup>1</sup> Der Kanton richtet Schulen mit einem Anteil von mehr als 35 Prozent fremdsprachigen Lernenden pro Schuljahr folgende Zusatzbeiträge aus:
 
 - a. Schulen mit weniger als 100 Lernenden: 40 000 Franken,
 - b. Schulen mit 100 bis 250 Lernenden: 70 000 Franken,
 - c. Schulen mit mehr als 250 Lernenden: 100 000 Franken.
+
+<sup>2</sup> Der Kanton leistet einen Pro-Kopf-Beitrag für Lernende fremder Sprache. Dieser berechnet sich aus den Kosten für die Angebote in «Deutsch als Zweitsprache» (DaZ) und für den Beizug von Übersetzerinnen und Übersetzern. Er wird von der Dienststelle Volksschulbildung pro Schulstufe festgelegt.
+
+<sup>3</sup> Als fremdsprachige Lernende gelten jene Lernenden, welche Lektionen in «Deutsch als Zweitsprache» (DaZ) besuchen. Stichtag ist der 1. September des Vorjahres.
 
 #### § 29
 
@@ -532,15 +541,7 @@ beschliesst:
 
 #### § 29b
 
-**Ausgleichzahlungen der Gemeinden**
-
-<sup>1</sup> Die Gemeinden leisten dem Kanton pro Klasse, welche die Vorgaben der Klassengrössen gemäss § 7 unterschreitet, folgende Ausgleichszahlung:
-
-- a. Kindergarten und Basisstufe: 3750 Franken pro Semester,
-- b. Primarschule: 10 000 Franken pro Schuljahr,
-- c. Sekundarschule: 12 500 Franken pro Schuljahr.
-
-<sup>2</sup> Für die Berechnung der Zahlung ist die Anzahl Lernender am 1. September des Schuljahres massgebend. Werden die Mindestvorgaben im Kindergarten und in der Basisstufe im zweiten Semester erfüllt, ist für dieses Semester keine Zahlung zu leisten.
+**…**
 
 #### § 30
 
