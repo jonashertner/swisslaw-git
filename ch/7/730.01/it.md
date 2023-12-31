@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° settembre 2023)
+del 1° novembre 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -64,14 +64,14 @@ Da questi obblighi sono esclusi i produttori i cui impianti:[^2-2]
 - a. sono in funzione al massimo per 50 ore all’anno;
 - b. non sono collegati né direttamente né indirettamente alla rete elettrica (impianti a isola);
 - c.[^2-3] dispongono di una potenza nominale in corrente alternata di 30 kVA al massimo;
-- d.[^2-4] sono classificati secondo l’ordinanza del 4 luglio 2007[^2-5] sulla protezione delle informazioni; o
+- d.[^2-4] sono classificati secondo l’ordinanza dell’8 novembre 2023[^2-5] sulla sicurezza delle informazioni; o
 - e.[^2-6] sono protetti secondo gli articoli 1 e 2 dell’ordinanza del 2 maggio 1990[^2-7] concernente la protezione delle opere militari.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-3]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
-[^2-5]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^2-4]: Nuovo testo giusta l’all. 2 n. II 36 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^2-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^2-6]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-7]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
@@ -349,7 +349,10 @@ I produttori di energia secondo l’articolo 15 LEne e i gestori di rete stabili
 
 <sup>3</sup> Se il capoverso 2 è soddisfatto, i gestori di rete sono tenuti a raccordare gli impianti al punto di raccordo alla rete più conveniente dal punto di vista tecnico ed economico e in modo tale da assicurare l’immissione e il prelievo di energia. Il produttore sostiene i costi per la costruzione delle necessarie linee di raccordo fino al punto di raccordo alla rete nonché i costi di trasformazione eventualmente necessari. Per il rimborso delle spese relative al necessario potenziamento della rete si applica l’articolo 22 capoverso 3 OAEl[^10-1].
 
+<sup>4</sup> Rispettando un termine di preavviso di un mese rispetto alla fine del trimestre, i produttori possono comunicare al gestore di rete se intendono far valere o meno il loro diritto di ritiro e di rimunerazione dell’energia che producono.[^10-2]
+
 [^10-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^10-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 (RU **202****3** 762).
 
 #### Art. 11
 
@@ -374,6 +377,12 @@ Il gestore di rete deve ritirare e rimunerare:
 <sup>1</sup> Se il produttore e il gestore di rete non trovano un accordo, la rimunerazione è stabilita in funzione dei costi che il gestore di rete sostiene per l’acquisto di elettricità equivalente presso terzi e dei costi di produzione dei propri impianti; i costi per le garanzie di origine non sono considerati. Il termine «equivalente» si riferisce alle caratteristiche tecniche dell’elettricità, in particolare alla quantità di energia e al profilo della potenza nonché alla possibilità di pilotare e prevedere la produzione.
 
 <sup>2</sup> Nella rimunerazione dell’elettricità da impianti di cogenerazione alimentati interamente o parzialmente con vettori energetici fossili il prezzo di mercato risulta dai prezzi orari sul mercato spot (day-ahead) per l’area di mercato Svizzera.
+
+<sup>3</sup> Per gli impianti di produzione di elettricità la cui installazione non è soggetta all’obbligo di autorizzazione di cui all’articolo 6 dell’ordinanza del 7 novembre 2001[^12-1] sugli impianti a bassa tensione e che non sono dotati di un sistema di misurazione intelligente di cui all’articolo 8*a* OAEl[^12-2], il gestore di rete può prevedere, in deroga all’articolo 11 e ai capoversi 1 e 2, un adeguato importo forfettario annuale per la rimunerazione dell’elettricità immessa.[^12-3]
+
+[^12-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^12-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^12-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
 

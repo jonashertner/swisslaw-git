@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. September 2023)
+vom 1. November 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -64,14 +64,14 @@ Von diesen Pflichten ausgenommen sind Produzentinnen und Produzenten, deren Anla
 - a. während höchstens 50 Stunden pro Jahr betrieben werden;
 - b. weder direkt noch indirekt an das Elektrizitätsnetz angeschlossen sind (Inselanlagen);
 - c.[^2-3] über eine wechselstromseitige Nennleistung von höchstens 30 kVA verfügen;
-- d.[^2-4] gemäss der Informationsschutzverordnung vom 4. Juli 2007[^2-5] klassifiziert sind; oder
+- d.[^2-4] gemäss der Informationssicherheitsverordnung vom 8. November 2023[^2-5] klassifiziert sind; oder
 - e.[^2-6] gemäss den Artikeln 1 und 2 der Anlageschutzverordnung vom 2. Mai 1990[^2-7] geschützt sind.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-3]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^2-4]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
-[^2-5]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^2-4]: Fassung gemäss Anhang 2 Ziff. II 36 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^2-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^2-6]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-7]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
@@ -345,7 +345,10 @@ Die Produzentinnen und Produzenten von Energie nach Artikel 15 EnG und die Netzb
 
 <sup>3</sup> Ist Absatz 2 erfüllt, so sind die Netzbetreiber verpflichtet, die Energieerzeugungsanlage mit dem technisch und wirtschaftlich günstigsten Netzanschlusspunkt so zu verbinden, dass die Einspeisung und der Bezug von Energie sichergestellt sind. Die Produzentin oder der Produzent trägt die Kosten für die Erstellung der dazu notwendigen Erschliessungsleitungen bis zum Netzanschlusspunkt sowie allfällig notwendige Transformationskosten. Die Vergütung der Kosten für notwendige Netzverstärkungen richtet sich nach Artikel 22 Absatz 3 StromVV[^10-1].
 
+<sup>4</sup> Die Produzentinnen und Produzenten können dem Netzbetreiber unter Einhaltung einer Frist von einem Monat auf ein Quartalsende hin melden, ob sie ihren Anspruch auf die Abnahme und Vergütung der von ihnen produzierten Energie geltend machen wollen oder nicht.[^10-2]
+
 [^10-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^10-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 11
 
@@ -370,6 +373,12 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 <sup>1</sup> Können sich Produzentin oder Produzent und Netzbetreiber nicht einigen, so richtet sich die Vergütung nach den Kosten des Netzbetreibers für den Bezug gleichwertiger Elektrizität bei Dritten sowie den Gestehungskosten der eigenen Produktionsanlagen; die Kosten für allfällige Herkunftsnachweise werden nicht berücksichtigt. Die Gleichwertigkeit bezieht sich auf die technischen Eigenschaften der Elektrizität, insbesondere auf die Energiemenge und das Leistungsprofil sowie auf die Steuer- und Prognostizierbarkeit.
 
 <sup>2</sup> Bei der Vergütung für Elektrizität aus fossil und teilweise fossil befeuerten Wärme-Kraft-Kopplungsanlagen ergibt sich der Marktpreis aus den Stundenpreisen am Spotmarkt im Day-ahead-Handel für das Marktgebiet Schweiz.
+
+<sup>3</sup> Für Elektrizitätserzeugungsanlagen, deren Installation nicht der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^12-1] unterliegen und die nicht mit einem intelligenten Messsystem nach Artikel 8*a* StromVV[^12-2] ausgestattet sind, kann der Netzbetreiber abweichend von Artikel 11 und den Absätzen 1 und 2 eine angemessene jährliche Pauschale für die Vergütung der eingespeisten Elektrizität vorsehen.[^12-3]
+
+[^12-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^12-2]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^12-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> septembre 2023)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -64,14 +64,14 @@ Ne sont pas soumis à ces obligations les producteurs d’électricité dont les
 - a. sont exploitées pendant 50 heures par an au plus;
 - b. ne sont raccordées ni directement ni indirectement au réseau d’électricité (installations isolées);
 - c.[^2-3] ont une puissance nominale côté courant alternatif de 30 kVA au plus;
-- d.[^2-4] sont classifiées conformément à l’ordonnance du 4 juillet 2007 concernant la protection des informations[^2-5], ou
+- d.[^2-4] sont classifiées conformément à l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^2-5], ou
 - e.[^2-6] sont protégées en vertu des art. 1 et 2 de l’ordonnance du 2 mai 1990 sur la protection des ouvrages[^2-7].
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^2-4]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
-[^2-5]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^2-4]: Nouvelle teneur selon l’annexe 2 ch. II 36 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^2-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^2-6]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-7]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
@@ -345,7 +345,10 @@ Les producteurs d’énergie visés à l’art. 15 LEne et les gestionnaires de 
 
 <sup>3</sup> Si l’al. 2 est respecté, les gestionnaires du réseau sont tenus de relier l’installation de production d’énergie au point de raccordement au réseau le plus avantageux techniquement et économiquement, de manière à garantir l’injection et le prélèvement d’énergie. Les coûts de mise en place des lignes de desserte nécessaires jusqu’au point de raccordement au réseau et les éventuels coûts de transformation requis sont à la charge du producteur. La compensation des coûts du renforcement nécessaire du réseau est régie par l’art. 22, al. 3, OApEl[^10-1].
 
+<sup>4</sup> Moyennant un préavis d’un mois pour la fin d’un trimestre, les producteurs peuvent annoncer au gestionnaire de réseau s’ils entendent faire valoir ou pas leur droit de reprise et de rétribution pour l’énergie qu’ils produisent.[^10-2]
+
 [^10-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^10-2]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 11
 
@@ -370,6 +373,12 @@ Les gestionnaires de réseau sont tenus de reprendre et de rétribuer:
 <sup>1</sup> Si le producteur et le gestionnaire du réseau ne peuvent pas s’entendre, la rétribution sera basée sur les coûts du gestionnaire de réseau pour l’achat d’électricité équivalente auprès de tiers et sur les coûts de revient des propres installations de production; les coûts d’éventuelles garanties d’origine ne sont pas pris en compte. L’équivalence se réfère aux caractéristiques techniques de l’électricité, en particulier à la quantité d’énergie et au profil de puissance, ainsi qu’à la possibilité de régler et de prévoir la production.
 
 <sup>2</sup> Dans le cas de la rétribution de l’électricité issue d’installations de couplage chaleur-force à combustibles fossiles et en partie fossiles, le prix du marché résulte des tarifs horaires sur le marché spot pour le commerce du jour d’avant (day-ahead) concernant le marché suisse.
+
+<sup>3</sup> Pour une installation produisant de l’électricité et dont les travaux d’installation ne sont pas soumis au régime de l’autorisation visé à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^12-1] et qui n’est pas équipée d’un système de mesure intelligent au sens de l’art. 8*a* OApEl[^12-2], le gestionnaire de réseau peut prévoir, en dérogation à l’art. 11 et aux al. 1 et 2, un forfait annuel approprié pour rétribuer l’électricité injectée.[^12-3]
+
+[^12-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^12-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^12-3]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
 
