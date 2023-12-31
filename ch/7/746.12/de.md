@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Juni 2021 über Sicherheitsvorschriften für Rohrleitu
 short: RLSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2021-348-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-348-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/de"
 
 (Rohrleitungssicherheitsverordnung, RLSV)
 
-vom 4. Juni 2021 (Stand am 1. Juli 2023)
+vom 4. Juni 2021 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -36,7 +36,9 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung gilt für die Projektierung, den Bau, den Betrieb und den Unterhalt der dem RLG unterstehenden Rohrleitungsanlagen.
 
-<sup>2</sup> Für Gasleitungen, die für einen maximalen Betriebsdruck bis 5 bar erstellt werden, gelten nur die Artikel 2 und 3 Absätze 1 und 2 sowie Anhang 1.
+<sup>2</sup> Für Gasleitungen, die für einen maximalen Betriebsdruck bis 5 bar erstellt werden, gelten nur die Artikel 2, 3 Absätze 1 und 2, 39*a* sowie Anhang 1.[^1-1]
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
 
 #### Art. 2
 
@@ -394,7 +396,11 @@ Absperrorgane sind in folgenden Fällen vorzusehen und wie folgt zu platzieren:
 
 <sup>2</sup> Bei Bedarf können Belüftungsstutzen eingebaut werden. Sie dürfen nur für die Spülung und die Inertisierung einer drucklosen Leitung verwendet werden.
 
-## 7. Abschnitt: Überwachung
+## 7. Abschnitt: Überwachung und Schutz vor Cyberbedrohungen
+
+[^sec7-1]
+
+[^sec7-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
 
 #### Art. 35
 
@@ -442,6 +448,18 @@ Absperrorgane sind in folgenden Fällen vorzusehen und wie folgt zu platzieren:
 
 <sup>3</sup> Sie sind gegen störende äussere Beeinflussung so abzuschirmen, dass die Sicherheit und die Steuerbarkeit der Rohrleitungsanlage nicht beeinträchtigt werden.
 
+#### Art. 39a
+
+**Schutz vor Cyberbedrohungen**[^39a-1]
+
+<sup>1</sup> Die Betreiber treffen Massnahmen für einen angemessenen Schutz ihrer Rohrleitungsanlagen vor Cyberbedrohungen.
+
+<sup>2</sup> Sie erarbeiten gemeinsam Richtlinien über die Cybersicherheit. Dabei konsultieren sie das BFE, die Kantone und die interessierten Kreise.
+
+<sup>3</sup> Sie veröffentlichen die Richtlinien über eine frei zugängliche Adresse im Internet. Die Richtlinien sind kostenlos abrufbar.
+
+[^39a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
+
 ## 8. Abschnitt: Bau
 
 #### Art. 40
@@ -484,9 +502,19 @@ Absperrorgane sind in folgenden Fällen vorzusehen und wie folgt zu platzieren:
 
 #### Art. 43
 
-**Einmessen der Rohrleitungsanlage**
+**Einmessen der Rohrleitungsanlage**[^43-1]
 
-Die Rohrleitungsanlage ist durch Vermessungsfachleute in Landeskoordinaten einzumessen sowie im Grundbuch und in den Daten der amtlichen Vermessung einzutragen.
+Die Rohrleitungsanlage ist vor der Betriebsaufnahme durch qualifizierte Vermessungsfachleute einzumessen. Das BFE gibt das Datenmodell vor.
+
+[^43-1]: Fassung gemäss Anhang Ziff. 15 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+#### Art. 43a
+
+**Anmerkung im Grundbuch**[^43a-1]
+
+Rohrleitungsanlagen sind im Grundbuch anzumerken.
+
+[^43a-1]: Eingefügt durch Anhang Ziff. 15 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 44
 
@@ -501,6 +529,10 @@ Die Schutzbereiche von Rohrleitungen und Nebenanlagen gemäss Artikel 16 sind im
 <sup>1</sup> Die Betriebsinhaber dokumentieren ihre Rohrleitungsanlagen in Form von Geodaten und stellen diese dem BFE zu.
 
 <sup>2</sup> Das BFE erstellt eine Gesamtsicht; diese ist öffentlich zugänglich.
+
+<sup>3</sup> Vorbehalten bleibt die Aufnahme der Daten einzelner Bestandteile von Rohrleitungsanlagen in die amtliche Vermessung.[^45-1]
+
+[^45-1]: Eingefügt durch Anhang Ziff. 15 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 46
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 4 juin 2021 concernant les prescriptions de sécurité pou
 short: OSITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-348-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-348-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/fr"
 
 (Ordonnance sur la sécurité des installations de transport par conduites, OSITC)
 
-du 4 juin 2021 (État le 1<sup>er</sup> juillet 2023)
+du 4 juin 2021 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -36,7 +36,9 @@ arrête:
 
 <sup>1</sup> La présente ordonnance s’applique à l’élaboration des projets touchant les installations de transport par conduites soumises à la LITC ainsi qu’à la construction, à l’exploitation et à l’entretien de celles-ci.
 
-<sup>2</sup> Pour les gazoducs dont la pression de service maximale ne dépasse pas 5 bars, seuls s’appliquent les art. 2 et 3, al. 1 et 2, et l’annexe 1.
+<sup>2</sup> Pour les gazoducs dont la pression de service maximale ne dépasse pas 5 bar, seuls s’appliquent les art. 2, 3, al. 1 et 2, et 39*a* ainsi que l’annexe 1.[^1-1]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
 
 #### Art. 2
 
@@ -102,7 +104,7 @@ L’exploitant d’une installation de transport par conduites (exploitant) est 
 
 <sup>1</sup> Les conduites ne doivent pas traverser de zones à bâtir.
 
-<sup>2</sup> Font exception les conduites destinées à approvisionner ces zones; la pression de service maximale admissible ne doit pas excéder 25 bars.
+<sup>2</sup> Font exception les conduites destinées à approvisionner ces zones; la pression de service maximale admissible ne doit pas excéder 25 bar.
 
 #### Art. 8
 
@@ -147,13 +149,13 @@ Une distance d’au moins 2 m doit séparer l’installation de transport par co
 
 <sup>1</sup>
 
-Pour les gazoducs dont la pression de service est supérieure à 25 bars et les oléoducs, les distances de sécurité à respecter sont les suivantes:
+Pour les gazoducs dont la pression de service est supérieure à 25 bar et les oléoducs, les distances de sécurité à respecter sont les suivantes:
 
 - a. par rapport aux bâtiments non occupés par des personnes: 2 m;
 - b. par rapport aux bâtiments occupés par des personnes: 10 m;
 - c. par rapport aux lieux très fréquentés: 10 m.
 
-<sup>2</sup> Pour les gazoducs dont la pression de service ne dépasse pas 25 bars, la distance de sécurité à respecter par rapport aux bâtiments occupés par des personnes doit être de 5 m au moins.
+<sup>2</sup> Pour les gazoducs dont la pression de service ne dépasse pas 25 bar, la distance de sécurité à respecter par rapport aux bâtiments occupés par des personnes doit être de 5 m au moins.
 
 #### Art. 13
 
@@ -394,7 +396,11 @@ Dans les cas suivants, des vannes doivent être prévues et placées comme suit:
 
 <sup>2</sup> Si nécessaire, des tuyauteries de ventilation peuvent être installées. Elles doivent être utilisées uniquement pour le rinçage et l’inertisation d’une conduite hors pression.
 
-## Section 7 Surveillance
+## Section 7 Surveillance et protection contre les cybermenaces
+
+[^sec7-1]
+
+[^sec7-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
 
 #### Art. 35
 
@@ -442,6 +448,18 @@ Dans les cas suivants, des vannes doivent être prévues et placées comme suit:
 
 <sup>3</sup> Ils sont protégés des influences perturbatrices extérieures de telle sorte que la sécurité d’exploitation et la commande des installations ne soient pas entravées.
 
+#### Art. 39a
+
+**Protection contre les cybermenaces**[^39a-1]
+
+<sup>1</sup> Les exploitants prennent des mesures pour protéger de manière adéquate leurs installations de transport par conduites contre les cybermenaces.
+
+<sup>2</sup> Ils élaborent conjointement des directives en matière de cybersécurité. À cet effet, ils consultent l’OFEN, les cantons et les milieux intéressés.
+
+<sup>3</sup> Ils publient les directives sur un site Internet librement accessible. Les directives peuvent être consultées gratuitement.
+
+[^39a-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
+
 ## Section 8 Construction
 
 #### Art. 40
@@ -484,9 +502,19 @@ Dans les cas suivants, des vannes doivent être prévues et placées comme suit:
 
 #### Art. 43
 
-**Mesure de l’installation de transport par conduites**
+**Mesure de l’installation de transport par conduites**[^43-1]
 
-La position de l’installation de transport par conduites doit être mesurée en coordonnées nationales par des spécialistes en mensuration, inscrite au registre foncier et enregistrée au sein des données de la mensuration officielle.
+La position de l’installation de transport par conduites doit être mesurée par des spécialistes en mensuration qualifiés avant la mise en service. L’OFEN prescrit le modèle de données.
+
+[^43-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+#### Art. 43a
+
+**Mention au registre foncier**[^43a-1]
+
+Les installations de transport par conduites doivent faire l’objet d’une mention au registre foncier.
+
+[^43a-1]: Introduit par l’annexe ch. 15 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 44
 
@@ -501,6 +529,10 @@ Les périmètres de protection des conduites et des installations annexes visés
 <sup>1</sup> Les exploitants documentent leurs installations de transport par conduites sous forme de géodonnées, qu’ils transmettent à l’OFEN.
 
 <sup>2</sup> L’OFEN établit une vue d’ensemble; celle-ci est accessible au public.
+
+<sup>3</sup> L’enregistrement dans la mensuration officielle des données de certains éléments d’installations de transport par conduites reste réservé.[^45-1]
+
+[^45-1]: Introduit par l’annexe ch. 15 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 46
 
@@ -538,7 +570,7 @@ Les périmètres de protection des conduites et des installations annexes visés
 
 **Contrôle du tracé et des installations annexes**
 
-<sup>1</sup> Le tracé et les environs des installations annexes,(accès inclus, les mesures de protection architectoniques et les balises sont contrôlés au moins toutes les deux semaines de manière appropriée.
+<sup>1</sup> Le tracé et les environs des installations annexes, accès inclus, les mesures de protection architectoniques et les balises sont contrôlés au moins toutes les deux semaines de manière appropriée.
 
 <sup>2</sup> Les éléments mécaniques et électriques des installations annexes sont contrôlés au moins tous les mois.
 
@@ -626,7 +658,7 @@ Les périmètres de protection des conduites et des installations annexes visés
 
 **Réaffectation**
 
-Les installations de transport par conduites de combustibles ou de carburants gazeux dont la construction ou l’exploitation ne respecte pas en tout ou partie les dispositions concernant les installations dont la pression de service dépasse 5 bars ne peuvent pas être réaffectées, c’est-à-dire exploitées à une pression excédant 5 bars.
+Les installations de transport par conduites de combustibles ou de carburants gazeux dont la construction ou l’exploitation ne respecte pas en tout ou partie les dispositions concernant les installations dont la pression de service dépasse 5 bar ne peuvent pas être réaffectées, c’est-à-dire exploitées à une pression excédant 5 bar.
 
 #### Art. 59
 
@@ -758,9 +790,9 @@ Sont notamment considérées comme des règles techniques:
 
 - 1\.
 
-  pour les oléoducs et les gazoducs dont la pression de service maximale admissible est supérieure à 5 bars:
+  pour les oléoducs et les gazoducs dont la pression de service maximale admissible est supérieure à 5 bar:
 
-  - 1\.1 la directive de l’IFP pour la planification, la construction et l’exploitation d’installations de transport par conduites dont la pression est supérieure à 5 bars, révision 3.0 du 1<sup>er</sup> octobre 2022[^annex1-lvlu1-1];
+  - 1\.1 la directive de l’IFP pour la planification, la construction et l’exploitation d’installations de transport par conduites dont la pression est supérieure à 5 bar, révision 3.0 du 1<sup>er</sup> octobre 2022[^annex1-lvlu1-1];
 
 - 2\.
 
@@ -779,7 +811,7 @@ Sont notamment considérées comme des règles techniques:
 
 - 3\.
 
-  pour les gazoducs dont la pression de service maximale admissible est inférieure ou égale à 5 bars:
+  pour les gazoducs dont la pression de service maximale admissible est inférieure ou égale à 5 bar:
 
   - 3\.1 les directives suivantes de la Société suisse de l’industrie du gaz et des eaux (SSIGE)[^annex1-lvlu1-4];
     - 3\.1.1. G2: Directive sur les conduites, juin 2019,

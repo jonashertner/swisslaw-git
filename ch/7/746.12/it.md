@@ -4,11 +4,11 @@ title: "Ordinanza del 4 giugno 2021 sulle prescrizioni di sicurezza per gli impi
 short: OSITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2021-348-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-348-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/it"
 
 (Ordinanza sulla sicurezza degli impianti di trasporto in condotta, OSITC)
 
-del 4 giugno 2021 (Stato 1° luglio 2023)
+del 4 giugno 2021 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -36,7 +36,9 @@ ordina:
 
 <sup>1</sup> La presente ordinanza si applica alla progettazione, alla costruzione, all’esercizio e alla manutenzione degli impianti di trasporto in condotta soggetti alla LITC.
 
-<sup>2</sup> Ai gasdotti costruiti per una pressione d’esercizio massima fino a 5 bar si applicano soltanto gli articoli 2 e 3 capoversi 1 e 2 nonché l’allegato 1.
+<sup>2</sup> Ai gasdotti costruiti per una pressione d’esercizio massima fino a 5 bar si applicano soltanto gli articoli 2, 3 capoversi 1 e 2, 39*a* nonché l’allegato 1.[^1-1]
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
 
 #### Art. 2
 
@@ -394,7 +396,11 @@ Gli organi di ritegno devono essere installati nei seguenti casi e posizionati c
 
 <sup>2</sup> Se necessario possono essere installati manicotti di aerazione. Questi sono utilizzabili unicamente per il lavaggio e l’inertizzazione di una condotta priva di pressione.
 
-## Sezione 7: Sorveglianza
+## Sezione 7: Sorveglianza e protezione dalle ciberminacce
+
+[^sec7-1]
+
+[^sec7-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
 
 #### Art. 35
 
@@ -442,6 +448,18 @@ Gli organi di ritegno devono essere installati nei seguenti casi e posizionati c
 
 <sup>3</sup> Essi devono essere schermati contro le interferenze esterne in modo da non compromettere la sicurezza ed il controllo dell’impianto di trasporto in condotta.
 
+#### Art. 39a
+
+**Protezione dalle ciberminacce**[^39a-1]
+
+<sup>1</sup> Gli esercenti adottano misure volte a proteggere adeguatamente dalle ciberminacce i loro impianti di trasporto in condotta.
+
+<sup>2</sup> Elaborano congiuntamente direttive sulla cibersicurezza. A tal fine consultano l’UFE, i Cantoni e le cerchie interessate.
+
+<sup>3</sup> Pubblicano le direttive su un sito Internet liberamente accessibile. Tali direttive possono essere consultate gratuitamente.
+
+[^39a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
+
 ## Sezione 8: Costruzione
 
 #### Art. 40
@@ -484,9 +502,19 @@ Gli organi di ritegno devono essere installati nei seguenti casi e posizionati c
 
 #### Art. 43
 
-**Rilevamento dell’impianto di trasporto in condotta**
+**Rilevamento dell’impianto di trasporto in condotta**[^43-1]
 
-La posizione dell’impianto di trasporto in condotta dev’essere definita con coordinate nazionali da agrimensori qualificati e iscritta nel registro fondiario e nei dati della misurazione ufficiale.
+La posizione dell’impianto di trasporto in condotta deve essere definita da agrimensori qualificati prima della messa in servizio. L’UFE prescrive il modello di dati.
+
+[^43-1]: Nuovo testo giusta l’all. n. 15 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+#### Art. 43a
+
+**Annotazione nel registro fondiario**[^43a-1]
+
+Gli impianti di trasporto in condotta devono essere annotati nel registro fondiario.
+
+[^43a-1]: Introdotto dall’all. n. 15 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 44
 
@@ -501,6 +529,10 @@ I perimetri di protezione delle condotte e degli impianti accessori secondo l’
 <sup>1</sup> Gli esercenti documentano i propri impianti di trasporto in condotta sotto forma di geodati e li trasmettono all’UFE.
 
 <sup>2</sup> L’UFE allestisce una panoramica generale, accessibile al pubblico.
+
+<sup>3</sup> Resta riservato l’inserimento dei dati di singole componenti di impianti di trasporto in condotta nella misurazione ufficiale.[^45-1]
+
+[^45-1]: Introdotto dall’all. n. 15 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 46
 
