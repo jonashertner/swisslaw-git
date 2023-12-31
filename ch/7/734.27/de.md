@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2001 über elektrische Niederspannungsinstall
 short: NIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/de"
 
 (Niederspannungs-Installationsverordnung, NIV)
 
-vom 7. November 2001 (Stand am 1. Januar 2023)
+vom 7. November 2001 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -572,7 +572,7 @@ Netzbetreiberinnen dürfen die Aufgaben eines unabhängigen Kontrollorganes oder
 
 Die Kontrollbewilligung wird einer Person erteilt, die in eigener Verantwortung Installationskontrollen durchführt, wenn:
 
-- a. sie fachkundig ist (Art. 8) oder die Berufsprüfung als Elektroprojektleiter Installation und Sicherheit bestanden hat;
+- a.[^27-2] sie fachkundig ist (Art. 8) oder diejenigen Prüfungsteile der Berufsprüfung als Elektroprojektleiter Installation und Sicherheit bestanden hat, in denen die sicherheitsrelevanten Kompetenzen geprüft werden;
 - b. ihr Ausbildungsstand dem neuesten Stand der Technik entspricht und ihre Weiterbildung gewährleistet ist;
 - c. die internen Arbeitsanweisungen zur Kontrolltätigkeit auf dem neuesten Stand sind;
 - d. sie über geeignete und kalibrierte Mess- und Kontrollgeräte verfügt.
@@ -591,6 +591,7 @@ Die Kontrollbewilligung wird einem Betrieb erteilt, wenn:
 <sup>4</sup> In der Bewilligung sind die zur Ausführung der Installationskontrolle berechtigten Personen aufgeführt.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
 
 #### Art. 28
 
@@ -688,7 +689,7 @@ Sie führen ein Verzeichnis der von ihnen versorgten elektrischen Installationen
 
 **Aufgaben des Inspektorates**
 
-<sup>1</sup> Das Inspektorat beaufsichtigt die übrigen Kontrollorgane, die Inhaber einer allgemeinen Installationsbewilligung sowie einer Ersatzbewilligung. Es unterstützt die übrigen Kontrollorgane in der Durchführung der Überwachung der Installationskontrolle und kann die dafür notwendigen Massnahmen anordnen.[^34-1]
+<sup>1</sup> Das Inspektorat beaufsichtigt die übrigen Kontrollorgane sowie die Inhaber einer allgemeinen Installationsbewilligung oder einer Ersatzbewilligung. Es unterstützt die übrigen Kontrollorgane in der Durchführung der Überwachung der Installationskontrolle und kann die dafür notwendigen Massnahmen anordnen.[^34-1]
 
 <sup>2</sup> Es kontrolliert die elektrischen Installationen, die weder von einem unabhängigen Kontrollorgan noch von einer akkreditierten Inspektionsstelle kontrolliert werden.[^34-2]
 
@@ -698,7 +699,7 @@ Sie führen ein Verzeichnis der von ihnen versorgten elektrischen Installationen
 
 <sup>4</sup> Das Inspektorat entscheidet in Streitfällen, ob eine elektrische Installation den Vorschriften dieser Verordnung entspricht.
 
-[^34-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^34-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
 [^34-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^34-3]: Eingefügt durch Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 

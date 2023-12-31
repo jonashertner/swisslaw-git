@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2001 concernente gli impianti elettrici a bassa
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/it"
 
 (Ordinanza sugli impianti a bassa tensione, OIBT)
 
-del 7 novembre 2001 (Stato 1° gennaio 2023)
+del 7 novembre 2001 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -56,7 +56,7 @@ La presente ordinanza non si applica:
 - c. all’illuminazione di strade e piazze pubbliche.[^1-5]
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^1-2]: Nuova espr. giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-2]: Nuova espressione giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^1-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
 [^1-4]: [RS 743.011](https://fedlex.data.admin.ch/eli/cc/2007/14)
 [^1-5]: Nuovo testo giusta il n. II 3 dell’annesso 2 all’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
@@ -108,7 +108,7 @@ Sono considerati impianti elettrici:
 [^3-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^3-2]: International Elettronical Commission (Commissione elettrotecnica internazionale).
 [^3-3]: Comité Européen de Normalisation ELECtrotechnique (Comitato europeo di normalizzazione elettrotecnica).
-[^3-4]: Il testo di tali norme può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3-4]: Il testo di tali norme può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 #### Art. 4
 
@@ -571,7 +571,7 @@ I gestori di rete possono assumere i compiti di un organo di controllo indipende
 
 L’autorizzazione di controllo è accordata a una persona che effettua sotto la propria responsabilità controlli di impianti se:
 
-- a. è del mestiere (art. 8) o ha superato l’esame professionale quale elettricista capo progetto in installazione e sicurezza;
+- a.[^27-2] è del mestiere (art. 8) o ha superato le parti dell’esame professionale quale elettricista capo progetto in installazione e sicurezza nelle quali sono verificate le competenze relative alla sicurezza;
 - b. il suo livello di formazione corrisponde allo stato della tecnica più recente ed è assicurata la sua formazione continua;
 - c. le direttive di lavoro interne relative alle attività di controllo sono aggiornate;
 - d. dispone di apparecchi di misurazione e di controllo adeguati e calibrati.
@@ -590,6 +590,7 @@ L’autorizzazione di controllo è accordata a un’impresa se:
 <sup>4</sup> Nell’autorizzazione sono menzionate le persone autorizzate a eseguire il controllo degli impianti.
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^27-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
 
 #### Art. 28
 
@@ -687,7 +688,7 @@ Tengono un registro degli impianti elettrici che alimentano; questo registro ind
 
 **Compiti dell’Ispettorato**
 
-<sup>1</sup> L’Ispettorato vigila sugli altri organi di controllo e sui titolari di un’autorizzazione generale d’installazione nonché di un’autorizzazione sostitutiva. Assiste gli altri organi di controllo nell’esecuzione della sorveglianza sul controllo degli impianti e può ordinare i provvedimenti necessari al riguardo.[^34-1]
+<sup>1</sup> L’Ispettorato vigila sugli altri organi di controllo come anche sui titolari di un’autorizzazione generale d’installazione o di un’autorizzazione sostitutiva. Assiste gli altri organi di controllo nell’esecuzione della sorveglianza sul controllo degli impianti e può ordinare i provvedimenti necessari al riguardo.[^34-1]
 
 <sup>2</sup> Controlla gli impianti elettrici che non sono controllati né da un organo di controllo indipendente né da un servizio d’ispezione accreditato.[^34-2]
 
@@ -697,7 +698,7 @@ Tengono un registro degli impianti elettrici che alimentano; questo registro ind
 
 <sup>4</sup> Nei casi controversi, l’Ispettorato decide se un impianto soddisfa le prescrizioni della presente ordinanza.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^34-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
 [^34-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^34-3]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 

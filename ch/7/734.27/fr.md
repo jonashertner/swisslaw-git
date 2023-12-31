@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2001 sur les installations électriques à bass
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/fr"
 
 (Ordonnance sur les installations à basse tension, OIBT)
 
-du 7 novembre 2001 (État le 1<sup>er</sup> janvier 2023)
+du 7 novembre 2001 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -105,7 +105,7 @@ Par installations électriques, on entend:
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^3-2]: *International Electrotechnical Commission*
 [^3-3]: Comité Européen de Normalisation Electrotechnique
-[^3-4]: La liste des normes ainsi que leurs textes peuvent être consultés gratuitement ou obtenus contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^3-4]: La liste des normes ainsi que leurs textes peuvent être consultés gratuitement ou obtenus contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 #### Art. 4
 
@@ -567,7 +567,7 @@ Les exploitants de réseaux peuvent assumer les tâches des organes de contrôle
 
 L’autorisation de contrôler est accordée à une personne effectuant des contrôles d’installations sous sa propre responsabilité si les conditions suivantes sont réunies:
 
-- a. la personne est du métier (art. 8) ou a réussi l’examen professionnel d’électricien chef de projet en installation et sécurité;
+- a.[^27-2] la personne est du métier (art. 8) ou a réussi les épreuves de l’examen professionnel d’électricien chef de projet en installation et sécurité dans lesquelles les compétences en matière de sécurité sont vérifiées;
 - b. son niveau de formation correspond à l’état le plus récent de la technique et sa formation continue est assurée;
 - c. les directives internes concernant les contrôles sont à jour;
 - d. la personne dispose d’appareils de mesure et de contrôle appropriés et calibrés.
@@ -586,6 +586,7 @@ L’autorisation de contrôler est accordée à une entreprise si les conditions
 <sup>4</sup> Les personnes habilitées à effectuer les contrôles d’installations doivent être mentionnées dans l’autorisation.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
 
 #### Art. 28
 
@@ -683,7 +684,7 @@ Ils tiennent un registre des installations électriques qu’ils alimentent; ce 
 
 **Tâches de l’Inspection**
 
-<sup>1</sup> L’Inspection supervise les autres organes de contrôle, les titulaires d’une autorisation d’installer générale ou temporaire. Elle assiste les autres organes de contrôle dans la surveillance du contrôle des installations et peut ordonner des mesures nécessaires à cet effet.[^34-1]
+<sup>1</sup> L’Inspection supervise les autres organes de contrôle ainsi que les titulaires d’une autorisation d’installer générale ou temporaire. Elle assiste les autres organes de contrôle dans la surveillance du contrôle des installations et peut ordonner des mesures nécessaires à cet effet.[^34-1]
 
 <sup>2</sup> Elle contrôle les installations électriques qui ne sont contrôlées ni par un organe de contrôle indépendant ni par un organisme d’inspection accrédité.[^34-2]
 
@@ -693,7 +694,7 @@ Ils tiennent un registre des installations électriques qu’ils alimentent; ce 
 
 <sup>4</sup> En cas de litige, l’Inspection décide si une installation est conforme aux prescriptions de la présente ordonnance.
 
-[^34-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^34-3]: Introduit par le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
