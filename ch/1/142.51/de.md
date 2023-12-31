@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausl
 short: BGIAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: de
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20231015-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20231015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20231015/de"
 
 (BGIAA)
 
-vom 20. Juni 2003 (Stand am 15. Oktober 2023)
+vom 20. Juni 2003 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -147,7 +147,7 @@ Zu Kontrollzwecken und für die Erstellung von Statistiken über die gegenüber 
 Das Informationssystem enthält:
 
 - a. Daten zur Identität der registrierten Personen;
-- [tab] a<sup>bis</sup>.[^4-1] Gesichtsbild, Fingerabdrücke und Unterschrift (biometrische Daten);
+- a<sup>bis</sup>.[^4-1] Gesichtsbild, Fingerabdrücke und Unterschrift (biometrische Daten);
 - b. Daten zu den spezifischen Aufgaben des SEM nach Artikel 3 Absätze 2 und 3;
 - c.[^4-2] …
 - d.[^4-3] ein Subsystem mit den Dossiers der Verfahren im Ausländer- und Asylbereich in elektronischer Form;
@@ -157,10 +157,10 @@ Das Informationssystem enthält:
 
 <sup>2</sup> Im Informationssystem können besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^4-7] (DSG) bearbeitet werden, sofern dies zur Erfüllung der Aufgaben nach Artikel 3 dieses Gesetzes unerlässlich ist.[^4-8]
 
-[^4-1]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis) ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
+[^4-1]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis) ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^4-2]: Aufgehoben durch Art. 2 Ziff. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), mit Wirkung seit 20. Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^4-3]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^4-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); Bl **2018** 1673).
+[^4-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^4-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^4-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^4-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
@@ -239,7 +239,7 @@ Folgende Behörden oder Stellen können zur Erfüllung ihrer gesetzlichen Aufgab
 
 <sup>4</sup> Die Behörden übermitteln den mit der Ausfertigung der Ausweise oder Reisedokumente betrauten Stellen die zur Erfüllung ihres Auftrags erforderlichen Daten.
 
-[^7a-1]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis) ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
+[^7a-1]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis) ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); BBl **2018** 1673).
 
 #### Art. 8
 
@@ -275,8 +275,8 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 
 - a.[^9-2] den kantonalen und kommunalen Ausländerbehörden, den kantonalen und kommunalen Polizeibehörden, den kantonalen Sozialhilfe-, Arbeitsmarkt- und Bürgerrechtsbehörden für ihre Aufgaben im Ausländerbereich sowie den kantonalen und kommunalen Polizeibehörden zur Personenidentifikation;
 - a<sup>bis</sup>.[^9-3] den für den Vollzug der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^9-4] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^9-5] (MStG) zuständigen Behörden;
-- b.[^9-6] den von den Kantonen eingesetzten Behörden zur Kontrolle der Einhaltung der Stellenmeldepflicht nach Artikel 21*a* Absätze 3 und 4 AIG[^9-7];
-- c.[^9-8]
+- b.[^9-6] …
+- c.[^9-7]
 
   den Bundesbehörden im Bereich der inneren Sicherheit ausschliesslich zur Personenidentifikation bei:
 
@@ -291,7 +291,7 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
   - 6<sup>bis</sup>. der Bekämpfung des Missbrauchs von Vorläuferstoffen für explosionsfähige Stoffe;
   - 7\. der Kontrolle von Ausweisschriften,
   - 8\. Nachforschungen nach vermissten Personen,
-  - 9\. der Kontrolle der Eingaben im automatisierten Polizeifahndungssystem nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008[^9-9] über die polizeilichen Informationssysteme des Bundes (BPI);
+  - 9\. der Kontrolle der Eingaben im automatisierten Polizeifahndungssystem nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008[^9-8] über die polizeilichen Informationssysteme des Bundes (BPI);
 
 - d. den Beschwerdeinstanzen des Bundes für die Instruktion der bei ihnen eingegangenen Beschwerden;
 - e. den Grenzposten der kantonalen Polizeibehörden und dem Grenzwachtskorps zur Durchführung der Personenkontrolle und zur Erteilung von Ausnahmevisa;
@@ -299,32 +299,32 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 - g. dem Staatssekretariat und der Politischen Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten (Departement) zur Prüfung und zum Entscheid über Visumgesuche im Zuständigkeitsbereich des Departements;
 - h. der zentralen Ausgleichsstelle zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Nummer;
 - i. den kantonalen Steuerbehörden für ihre Aufgaben bei der Erhebung der Quellensteuer;
-- j.[^9-10] den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches[^9-11] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^9-12];
-- k.[^9-13] der Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011[^9-14] über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
-- l.[^9-15]
+- j.[^9-9] den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches[^9-10] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^9-11];
+- k.[^9-12] der Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011[^9-13] über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
+- l.[^9-14]
 
   dem Nachrichtendienst des Bundes:
 
-  - 1\. zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^9-16] (NDG),
-  - 2\. zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach Artikel 14 Buchstabe d BüG[^9-17], nach dem AIG[^9-18] und dem AsylG[^9-19],
+  - 1\. zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^9-15] (NDG),
+  - 2\. zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach Artikel 14 Buchstabe d BüG[^9-16], nach dem AIG[^9-17] und dem AsylG[^9-18],
   - 3\. zur Prüfung von Fernhalte- und Entfernungsmassnahmen nach dem AIG;
 
-- m.[^9-20] der mit der Ausfertigung der Reisedokumente beauftragten Stelle;
-- n.[^9-21] den von den Kantonen bezeichneten Behörden oder Stellen, zur Entgegennahme von Gesuchen um Ausstellung von Reisedokumenten;
-- o.[^9-22] den von den Kantonen bezeichneten Behörden oder Stellen, zur Erfassung des Gesichtsbilds und der Fingerabdrücke im Zusammenhang mit der Ausstellung von Reisedokumenten.
-- p.[^9-23] dem Bundesamt für Polizei zur Prüfung von Fernhalte- und Entfernungsmassnahmen nach dem AIG.
+- m.[^9-19] der mit der Ausfertigung der Reisedokumente beauftragten Stelle;
+- n.[^9-20] den von den Kantonen bezeichneten Behörden oder Stellen, zur Entgegennahme von Gesuchen um Ausstellung von Reisedokumenten;
+- o.[^9-21] den von den Kantonen bezeichneten Behörden oder Stellen, zur Erfassung des Gesichtsbilds und der Fingerabdrücke im Zusammenhang mit der Ausstellung von Reisedokumenten.
+- p.[^9-22] dem Bundesamt für Polizei zur Prüfung von Fernhalte- und Entfernungsmassnahmen nach dem AIG.
 
 <sup>2</sup>
 
-Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeiteten Daten des Asylbereichs folgenden Behörden oder Stellen durch ein Abrufverfahren zugänglich machen:[^9-24]
+Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeiteten Daten des Asylbereichs folgenden Behörden oder Stellen durch ein Abrufverfahren zugänglich machen:[^9-23]
 
-- a.[^9-25] den kantonalen und kommunalen Ausländerbehörden, den kantonalen und kommunalen Polizeibehörden, den kantonalen Sozialhilfe- und Arbeitsmarktbehörden für ihre Aufgaben im Asylbereich sowie den kantonalen und kommunalen Polizeibehörden zur Personenidentifikation;
-- b.[^9-26] den für den Vollzug der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG zuständigen Behörden;
-- c.[^9-27]
+- a.[^9-24] den kantonalen und kommunalen Ausländerbehörden, den kantonalen und kommunalen Polizeibehörden, den kantonalen Sozialhilfe- und Arbeitsmarktbehörden für ihre Aufgaben im Asylbereich sowie den kantonalen und kommunalen Polizeibehörden zur Personenidentifikation;
+- b.[^9-25] den für den Vollzug der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG zuständigen Behörden;
+- c.[^9-26]
 
-  den Bundesbehörden im Bereich der inneren Sicherheit:[^9-28]
+  den Bundesbehörden im Bereich der inneren Sicherheit:[^9-27]
 
-  - 1\.[^9-29] ausschliesslich zur Personenidentifikation in den Bereichen des polizeilichen Nachrichtenaustausches, der sicherheits- und gerichtspolizeilichen Ermittlungen, bei Auslieferungsverfahren, bei Rechts- und Amtshilfe, bei der stellvertretenden Strafverfolgung und Strafvollstreckung, bei der Bekämpfung der Geldwäscherei, des Drogenhandels und des organisierten Verbrechens, bei der Bekämpfung des Missbrauchs von Vorläuferstoffen für explosionsfähige Stoffe, bei der Kontrolle von Ausweisschriften, bei Nachforschungen nach vermissten Personen, bei der Kontrolle der Eingaben im automatisierten Polizeifahndungssystem nach Artikel 15 BPI sowie der Begutachtung der Asylunwürdigkeit nach Artikel 53 AsylG,
+  - 1\.[^9-28] ausschliesslich zur Personenidentifikation in den Bereichen des polizeilichen Nachrichtenaustausches, der sicherheits- und gerichtspolizeilichen Ermittlungen, bei Auslieferungsverfahren, bei Rechts- und Amtshilfe, bei der stellvertretenden Strafverfolgung und Strafvollstreckung, bei der Bekämpfung der Geldwäscherei, des Drogenhandels und des organisierten Verbrechens, bei der Bekämpfung des Missbrauchs von Vorläuferstoffen für explosionsfähige Stoffe, bei der Kontrolle von Ausweisschriften, bei Nachforschungen nach vermissten Personen, bei der Kontrolle der Eingaben im automatisierten Polizeifahndungssystem nach Artikel 15 BPI sowie der Begutachtung der Asylunwürdigkeit nach Artikel 53 AsylG,
   - 2\. zur Erfüllung ihrer Aufgaben nach Artikel 99 AsylG;
 
 - d. den Beschwerdeinstanzen des Bundes für die Instruktion der Beschwerden nach dem AsylG;
@@ -332,56 +332,55 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 - f. der Eidgenössischen Finanzkontrolle zur Wahrung der Finanzaufsicht;
 - g. der zentralen Ausgleichsstelle zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Nummer;
 - h. den kantonalen Steuerbehörden für ihre Aufgaben bei der Erhebung der Quellensteuer;
-- i.[^9-30] den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004;
-- j.[^9-31] der Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011 über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
-- k.[^9-32] den Visumbehörden zur Überprüfung, ob eine Visumgesuchstellerin oder ein Visumgesuchsteller ein Asylverfahren durchläuft oder durchlaufen hat;
-- l.[^9-33] dem Nachrichtendienst des Bundes ausschliesslich zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a NDG sowie zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach Artikel 14 Buchstabe d BüG, nach dem AIG und dem AsylG.
-- m.[^9-34] der mit der Ausfertigung der Reisedokumente beauftragten Stelle;
-- n.[^9-35] den von den Kantonen bezeichneten Behörden oder Stellen, zur Entgegennahme von Gesuchen um Ausstellung von Reisedokumenten;
-- o.[^9-36] den von den Kantonen bezeichneten Behörden oder Stellen, zur Erfassung des Gesichtsbilds und der Fingerabdrücke im Zusammenhang mit der Ausstellung von Reisedokumenten.
+- i.[^9-29] den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004;
+- j.[^9-30] der Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011 über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
+- k.[^9-31] den Visumbehörden zur Überprüfung, ob eine Visumgesuchstellerin oder ein Visumgesuchsteller ein Asylverfahren durchläuft oder durchlaufen hat;
+- l.[^9-32] dem Nachrichtendienst des Bundes ausschliesslich zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a NDG sowie zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach Artikel 14 Buchstabe d BüG, nach dem AIG und dem AsylG.
+- m.[^9-33] der mit der Ausfertigung der Reisedokumente beauftragten Stelle;
+- n.[^9-34] den von den Kantonen bezeichneten Behörden oder Stellen, zur Entgegennahme von Gesuchen um Ausstellung von Reisedokumenten;
+- o.[^9-35] den von den Kantonen bezeichneten Behörden oder Stellen, zur Erfassung des Gesichtsbilds und der Fingerabdrücke im Zusammenhang mit der Ausstellung von Reisedokumenten.
 
 [^9-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^9-2]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^9-3]: Eingefügt durch Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^9-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^9-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^9-6]: Fassung gemäss Art. 4 Ziff. 1 des BG vom 27. Sept. 2019 über die Beiträge an die Kosten der Kantone für die Kontrolle der Einhaltung der Stellenmeldepflicht, in Kraft vom 1. Jan. 2020 bis zum 31. Dez. 2023 ([AS 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [BBl 2019 2711](https://fedlex.data.admin.ch/eli/fga/2019/785)).
-[^9-7]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-8]: Fassung gemäss Anhang Ziff. 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-9]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^9-10]: Eingefügt durch Ziff. II 1 des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-[^9-11]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-12]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^9-13]: Eingefügt durch Anhang Ziff. 2 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^9-14]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^9-15]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-16]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-17]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-18]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-19]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-6]: Fassung gemäss Art. 4 Ziff. 1 des BG vom 27. Sept. 2019 über die Beiträge an die Kosten der Kantone für die Kontrolle der Einhaltung der Stellenmeldepflicht, in Kraft vom 1. Jan. 2020 bis zum 31. Dez. 2023 (AS **2022**; [BBl 2019 2711](https://fedlex.data.admin.ch/eli/fga/2019/785)).
+[^9-7]: Fassung gemäss Anhang Ziff. 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-8]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^9-9]: Eingefügt durch Ziff. II 1 des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^9-10]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^9-11]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-12]: Eingefügt durch Anhang Ziff. 2 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
+[^9-13]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^9-14]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^9-16]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^9-17]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^9-18]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-19]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^9-20]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^9-21]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^9-22]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^9-23]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-24]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^9-25]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^9-26]: Fassung gemäss Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^9-27]: Fassung gemäss Anhang Ziff. II 2 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^9-28]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-29]: Fassung gemäss Anhang Ziff. 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-30]: Eingefügt durch Ziff. II 1 des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-[^9-31]: Eingefügt durch Anhang Ziff. 2 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^9-32]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^9-33]: Eingefügt durch Anhang Ziff. II 2 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^9-22]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-23]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
+[^9-24]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^9-25]: Fassung gemäss Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^9-26]: Fassung gemäss Anhang Ziff. II 2 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^9-27]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-28]: Fassung gemäss Anhang Ziff. 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-29]: Eingefügt durch Ziff. II 1 des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^9-30]: Eingefügt durch Anhang Ziff. 2 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
+[^9-31]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^9-32]: Eingefügt durch Anhang Ziff. II 2 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^9-33]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^9-34]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^9-35]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^9-36]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 
 #### Art. 10
 
 **Gewährung des Zugriffes**
 
-<sup>1</sup> Der Entscheid über die Gewährung des Zugriffs zum Informationssystem an die in Artikel 9 aufgeführten Behörden obliegt dem SEM.[^10-1] Für den Zugriff der Behörden nach Artikel 9 Absatz 1 Buchstabe b ist kein Entscheid des SEM notwendig.[^10-2]
+<sup>1</sup> Der Entscheid über die Gewährung des Zugriffs zum Informationssystem an die in Artikel 9 aufgeführten Behörden obliegt dem SEM.[^10-1] …[^10-2]
 
 <sup>2</sup> Die Mitarbeitenden der zugriffsberechtigten Behörden erhalten auf Antrag hin ausschliesslich auf diejenigen Daten Zugriff, die sie zur Erfüllung ihrer Aufgabe nach Artikel 9 benötigen.
 

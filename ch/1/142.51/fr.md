@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 sur le système d'information commun aux 
 short: LDEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: fr
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20231015-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20231015/fr"
 
 (LDEA)
 
-du 20 juin 2003 (État le 15 octobre 2023)
+du 20 juin 2003 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -275,8 +275,8 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 
 - a.[^9-2] les autorités cantonales et communales chargées des questions relatives aux étrangers ainsi que les autorités cantonales et communales de police, les autorités cantonales d’aide sociale et les autorités cantonales compétentes en matière d’emploi et de nationalité, pour qu’elles puissent accomplir les tâches qui leur incombent dans le domaine des étrangers; les autorités cantonales et communales de police, pour qu’elles puissent procéder à l’identification de personnes;
 - a<sup>bis</sup>.[^9-3] les autorités chargées de l’exécution d’une expulsion prononcée conformément aux art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^9-4] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^9-5];
-- b.[^9-6] les autorités chargées par les cantons de contrôler le respect de l’obligation d’annoncer les postes vacants prévue à l’art. 21*a*, al. 3 et 4, LEI[^9-7];
-- <sup>c.</sup> [^9-8]
+- b.[^9-6] …
+- <sup>c.</sup> [^9-7]
 
   les autorités fédérales compétentes dans le domaine de la sûreté intérieure, exclusivement pour qu’elles puissent procéder à l’identification de personnes dans le cadre:
 
@@ -291,7 +291,7 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
   - 6<sup>bis</sup>. de la lutte contre l’usage abusif de précurseurs de substances explosibles,
   - 7\. du contrôle des pièces de légitimation,
   - 8\. des recherches de personnes disparues,
-  - 9\. du contrôle des entrées dans le système de recherches informatisées de police visé à l’art. 15 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération (LSIP)[^9-9];
+  - 9\. du contrôle des entrées dans le système de recherches informatisées de police visé à l’art. 15 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération (LSIP)[^9-8];
 
 - d. les instances fédérales de recours compétentes, pour qu’elles puissent instruire les recours qui leur parviennent;
 - e. le Corps des gardes-frontière et les postes frontière des polices cantonales, pour qu’ils puissent procéder aux contrôles d’identité et à l’établissement de visas exceptionnels;
@@ -299,32 +299,32 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 - g. le Secrétariat d’État et la Direction politique du Département fédéral des affaires étrangères, pour qu’ils puissent procéder à l’examen des demandes de visa relevant de la compétence du département fédéral des affaires étrangères;
 - h. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros AVS;
 - i. les autorités fiscales cantonales, pour qu’elles puissent accomplir les tâches liées au prélèvement de l’impôt à la source;
-- j.[^9-10] les offices de l’état civil et leurs autorités de surveillance, à des fins d’identification des personnes en relation avec des événements d’état civil, en vue de la célébration d’un mariage ou de l’enregistrement d’un partenariat ainsi que pour empêcher le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil[^9-11] et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat[^9-12];
-- k.[^9-13] le Service de protection des témoins, en vertu de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^9-14], pour l’exécution de ses tâches;
-- l.[^9-15]
+- j.[^9-9] les offices de l’état civil et leurs autorités de surveillance, à des fins d’identification des personnes en relation avec des événements d’état civil, en vue de la célébration d’un mariage ou de l’enregistrement d’un partenariat ainsi que pour empêcher le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil[^9-10] et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat[^9-11];
+- k.[^9-12] le Service de protection des témoins, en vertu de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^9-13], pour l’exécution de ses tâches;
+- l.[^9-14]
 
   le Service de renseignement de la Confédération:
 
-  - 1\. pour qu’il puisse identifier des personnes en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^9-16],
-  - 2\. pour qu’il puisse accomplir ses tâches d’appréciation de la menace pour la sûreté intérieure ou extérieure au sens de l’art. 14, let. d, LN[^9-17], de la LEI[^9-18] et de la LAsi[^9-19],
+  - 1\. pour qu’il puisse identifier des personnes en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^9-15],
+  - 2\. pour qu’il puisse accomplir ses tâches d’appréciation de la menace pour la sûreté intérieure ou extérieure au sens de l’art. 14, let. d, LN[^9-16], de la LEI[^9-17] et de la LAsi[^9-18],
   - 3\. pour qu’il puisse procéder à l’examen des mesures d’éloignement visées par la LEI;
 
-- m.[^9-20] le centre chargé de produire les documents de voyage;
-- n.[^9-21] les autorités ou services désignés par les cantons, afin de réceptionner les demandes d’établissement de documents de voyage;
-- o.[^9-22] les autorités ou services désignés par les cantons, afin de prendre une photographie et de relever les empreintes digitales des étrangers en rapport avec l’établissement de documents de voyage;
-- p.[^9-23] l’Office fédéral de la police, pour qu’il puisse examiner les mesures d’éloignement prises en vertu de la LEI.
+- m.[^9-19] le centre chargé de produire les documents de voyage;
+- n.[^9-20] les autorités ou services désignés par les cantons, afin de réceptionner les demandes d’établissement de documents de voyage;
+- o.[^9-21] les autorités ou services désignés par les cantons, afin de prendre une photographie et de relever les empreintes digitales des étrangers en rapport avec l’établissement de documents de voyage;
+- p.[^9-22] l’Office fédéral de la police, pour qu’il puisse examiner les mesures d’éloignement prises en vertu de la LEI.
 
 <sup>2</sup>
 
-Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne aux données relevant du domaine de l’asile qu’il a traitées ou fait traiter dans le système d’information:[^9-24]
+Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne aux données relevant du domaine de l’asile qu’il a traitées ou fait traiter dans le système d’information:[^9-23]
 
-- a.[^9-25] les autorités cantonales et communales chargées des questions relatives aux étrangers ainsi que les autorités cantonales et communales de police, les autorités cantonales d’aide sociale et les autorités cantonales compétentes en matière d’emploi, pour qu’elles puissent accomplir les tâches qui leur incombent dans le domaine de l’asile; les autorités cantonales et communales de police, pour qu’elles puissent procéder à l’identification de personnes;
-- b.[^9-26] les autorités chargées de l’exécution d’une expulsion prononcée conformément aux art. 66*a* ou 66*a*<sup>bis</sup> CP ou 49*a* ou 49*a*<sup>bis</sup> CPM;
-- c.[^9-27]
+- a.[^9-24] les autorités cantonales et communales chargées des questions relatives aux étrangers ainsi que les autorités cantonales et communales de police, les autorités cantonales d’aide sociale et les autorités cantonales compétentes en matière d’emploi, pour qu’elles puissent accomplir les tâches qui leur incombent dans le domaine de l’asile; les autorités cantonales et communales de police, pour qu’elles puissent procéder à l’identification de personnes;
+- b.[^9-25] les autorités chargées de l’exécution d’une expulsion prononcée conformément aux art. 66*a* ou 66*a*<sup>bis</sup> CP ou 49*a* ou 49*a*<sup>bis</sup> CPM;
+- c.[^9-26]
 
-  les autorités fédérales compétentes dans le domaine de la sûreté intérieure:[^9-28]
+  les autorités fédérales compétentes dans le domaine de la sûreté intérieure:[^9-27]
 
-  - 1\.[^9-29] exclusivement pour qu’elles puissent procéder à l’identification de personnes dans le cadre de l’échange d’informations de police, des enquêtes de la police de sûreté ou de la police judiciaire, des procédures d’extradition, de l’entraide judiciaire et de l’assistance administrative, de la délégation de la poursuite et de la répression d’une infraction, de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé, de la lutte contre l’usage abusif de précurseurs de substances explosibles, du contrôle des pièces de légitimation, des recherches de personnes disparues, du contrôle des entrées dans le système de recherches informatisées de police visé à l’art. 15 LSIP et de l’examen de l’indignité au sens de l’art. 53 LAsi,
+  - 1\.[^9-28] exclusivement pour qu’elles puissent procéder à l’identification de personnes dans le cadre de l’échange d’informations de police, des enquêtes de la police de sûreté ou de la police judiciaire, des procédures d’extradition, de l’entraide judiciaire et de l’assistance administrative, de la délégation de la poursuite et de la répression d’une infraction, de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé, de la lutte contre l’usage abusif de précurseurs de substances explosibles, du contrôle des pièces de légitimation, des recherches de personnes disparues, du contrôle des entrées dans le système de recherches informatisées de police visé à l’art. 15 LSIP et de l’examen de l’indignité au sens de l’art. 53 LAsi,
   - 2\. pour qu’elles puissent accomplir les tâches qui leur incombent en vertu de l’art. 99 LAsi;
 
 - d. les instances fédérales de recours compétentes, pour qu’elles puissent instruire les recours qui leur parviennent en application de la LAsi;
@@ -332,13 +332,13 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 - f. le Contrôle fédéral des finances, pour qu’il puisse garantir la surveillance financière;
 - g. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros AVS;
 - h. les autorités fiscales cantonales, pour qu’elles puissent accomplir les tâches liées au prélèvement de l’impôt à la source;
-- i.[^9-30] les offices de l’état civil et leurs autorités de surveillance, à des fins d’identification des personnes en relation avec des événements d’état civil, en vue de la célébration d’un mariage ou de l’enregistrement d’un partenariat ainsi que pour empêcher le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat;
-- j.[^9-31] le Service de protection des témoins, en vertu de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins, pour l’exécution de ses tâches;
-- k.[^9-32] les autorités compétentes en matière de visas, pour qu’elles puissent connaître l’existence d’une procédure d’asile concernant un demandeur de visa dans le cadre de l’examen de sa demande;
-- l.[^9-33] le Service de renseignement de la Confédération, exclusivement pour qu’il puisse identifier des personnes en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, LRens et accomplir ses tâches d’appréciation de la menace pour la sûreté intérieure ou extérieure au sens de l’art. 14, let. d, LN, de la LEI et de la LAsi;
-- m.[^9-34] le centre chargé de produire les documents de voyage;
-- n.[^9-35] les autorités ou les services désignés par les cantons, afin de réceptionner les demandes d’établissement de documents de voyage;
-- o.[^9-36] les autorités ou les services désignés par les cantons, afin de prendre une photographie et de relever les empreintes digitales des étrangers en rapport avec l’établissement de documents de voyage.
+- i.[^9-29] les offices de l’état civil et leurs autorités de surveillance, à des fins d’identification des personnes en relation avec des événements d’état civil, en vue de la célébration d’un mariage ou de l’enregistrement d’un partenariat ainsi que pour empêcher le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat;
+- j.[^9-30] le Service de protection des témoins, en vertu de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins, pour l’exécution de ses tâches;
+- k.[^9-31] les autorités compétentes en matière de visas, pour qu’elles puissent connaître l’existence d’une procédure d’asile concernant un demandeur de visa dans le cadre de l’examen de sa demande;
+- l.[^9-32] le Service de renseignement de la Confédération, exclusivement pour qu’il puisse identifier des personnes en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, LRens et accomplir ses tâches d’appréciation de la menace pour la sûreté intérieure ou extérieure au sens de l’art. 14, let. d, LN, de la LEI et de la LAsi;
+- m.[^9-33] le centre chargé de produire les documents de voyage;
+- n.[^9-34] les autorités ou les services désignés par les cantons, afin de réceptionner les demandes d’établissement de documents de voyage;
+- o.[^9-35] les autorités ou les services désignés par les cantons, afin de prendre une photographie et de relever les empreintes digitales des étrangers en rapport avec l’établissement de documents de voyage.
 
 [^9-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-2]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant sur l’adaptation de disp. relatives à la saisie de données dans le domaine migratoire, en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
@@ -346,42 +346,41 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 [^9-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^9-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^9-6]: Nouvelle teneur selon l’art. 4 ch. 1 de la LF du 27 sept. 2019 sur la participation aux frais des cantons pour les contrôles relatifs à l’obligation d’annoncer les postes vacants, en vigueur du 1<sup>er</sup> janv. 2020 au 31 déc. 2023 ([RO 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2671](https://fedlex.data.admin.ch/eli/fga/2019/785)).
-[^9-7]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-8]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-9]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^9-10]: Introduite par le ch. II 1 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-[^9-11]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-12]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^9-13]: Introduite par l’annexe ch. 2 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^9-14]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^9-15]: Introduite par l’annexe ch. 2 de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information) ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)). Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-16]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-17]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-18]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-19]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-7]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-8]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^9-9]: Introduite par le ch. II 1 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^9-10]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^9-11]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-12]: Introduite par l’annexe ch. 2 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
+[^9-13]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^9-14]: Introduite par l’annexe ch. 2 de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information) ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)). Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^9-16]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^9-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^9-18]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-19]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-20]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-21]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-22]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-23]: Introduite par le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-24]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-25]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant sur l’adaptation de disp. relatives à la saisie de données dans le domaine migratoire, en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^9-26]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^9-27]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^9-28]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-29]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-30]: Introduite par le ch. II 1 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-[^9-31]: Introduite par l’annexe ch. 2 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^9-32]: Introduite par l’annexe ch. 2 de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^9-33]: Introduite par l’annexe ch. II 2 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1er sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^9-22]: Introduite par le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-23]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^9-24]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant sur l’adaptation de disp. relatives à la saisie de données dans le domaine migratoire, en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^9-25]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^9-26]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^9-27]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-28]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-29]: Introduite par le ch. II 1 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^9-30]: Introduite par l’annexe ch. 2 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
+[^9-31]: Introduite par l’annexe ch. 2 de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^9-32]: Introduite par l’annexe ch. II 2 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1er sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^9-33]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-34]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-35]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-36]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 #### Art. 10
 
 **Octroi de l’accès aux autorités**
 
-<sup>1</sup> La décision d’autoriser les autorités mentionnées à l’art. 9 à accéder au système d’information appartient au SEM.[^10-1] L’accès des autorités visées à l’art. 9, al. 1, let. b, ne nécessite pas d’autorisation du SEM.[^10-2]
+<sup>1</sup> La décision d’autoriser les autorités mentionnées à l’art. 9 à accéder au système d’information appartient au SEM.[^10-1]…[^10-2]
 
 <sup>2</sup> Les agents d’une autorité autorisée à accéder au système d’information obtiennent, sur demande, l’accès aux seules données dont ils ont besoin pour accomplir les tâches visées à l’art. 9.
 
