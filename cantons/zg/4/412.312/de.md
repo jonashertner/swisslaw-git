@@ -4,13 +4,13 @@ number: "412.312"
 title: Verordnung betreffend Pauschalbeiträge an die Besoldungen des gemeindlichen Lehrpersonals
 short: Schulsubventions-Verordnung
 language: de
-version: 2018-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-03-27
+version: 2024-01-01
+valid_until: 2026-07-31
+version_adopted: 2024-01-15
 adopted: 2008-11-25
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.312"
-pdf: "https://bgs.zg.ch/api/de/versions/1806/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2523/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1806/pdf_file"
 
 (Schulsubventions-Verordnung)
 
-Vom 25. November 2008 (Stand 1. Januar 2018)
+Vom 25. November 2008 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -35,8 +35,8 @@ beschliesst:
 
 <sup>1</sup> Die Normpauschalen an die Aufwendungen der Gemeinden für die Besoldungen der Schulleitungen sowie der Lehrpersonen der Kindergarten-, Primar- und Sekundarstufe I (exkl. Lehrpersonen der Musikschulen) werden wie folgt festgelegt:
 
-- a) Fr. 5200.– pro Schülerin bzw. Schüler der Kindergarten- und der Primarstufe;
-- b) Fr. 9054.– pro Schülerin bzw. Schüler der Sekundarstufe I.
+- a) Fr. 5462.– pro Schülerin bzw. Schüler der Kindergarten- und der Primarstufe;
+- b) Fr. 9367.– pro Schülerin bzw. Schüler der Sekundarstufe I.
 
 <sup>2</sup> …
 
@@ -76,7 +76,7 @@ beschliesst:
 
 **Jahreswochenstunden-Pauschale**
 
-<sup>1</sup> Die Jahreswochenstunden-Pauschale an die Aufwendungen der Gemeinden für die Besoldungen der Musikschullehrpersonen wird auf Fr. 2489.– festgelegt.
+<sup>1</sup> Die Jahreswochenstunden-Pauschale an die Aufwendungen der Gemeinden für die Besoldungen der Musikschullehrpersonen wird auf Fr. 2641.– festgelegt.
 
 <sup>2</sup> Grundlage für die Berechnung dieser Pauschale sind 50 % folgender subventionsberechtigter Aufwendungen aller Gemeinden des Kalenderjahres 2007:
 
