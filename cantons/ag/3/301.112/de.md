@@ -4,13 +4,13 @@ number: "301.112"
 title: Verordnung über die Durchführung von Pilotprojekten in der Gesundheitsversorgung
 short: VDPG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-05-05
+version: 2024-01-01
+valid_until: 2025-04-30
+version_adopted: 2023-07-05
 adopted: 2021-05-05
 in_force: 2022-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2990/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3631/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2990/pdf_file"
 
 (VDPG)
 
-Vom 05.05.2021 (Stand 01.01.2022)
+Vom 05.05.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
