@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 1998 sur la terminologie agricole et la reconn
 short: OTerm
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-13-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-13-20240101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20230101/fr"
 
 (Ordonnance sur la terminologie agricole, OTerm)
 
-du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2023)
+du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -339,7 +339,7 @@ Ne sont pas reconnues comme surfaces agricoles utiles:
 - c. les surfaces situées dans une zone à bâtir, légalisée après le 31 décembre 2013;
 - d. les terrains à bâtir équipés, légalisés avant le 31 décembre 2013;
 - e. les surfaces comprises dans les terrains de golf et de camping, les aérodromes et les terrains d’entraînement militaire ou les surfaces délimitées des bas-côtés des lignes ferroviaires et des routes publiques;
-- f. les surfaces comportant des installations photovoltaïques.[^16-1]
+- f.[^16-1] les surfaces comportant des installations solaires.[^16-2]
 
 <sup>2</sup>
 
@@ -351,22 +351,37 @@ L’affectation principale d’une surface n’est pas l’exploitation agricole
 
 <sup>3</sup>
 
-Les surfaces au sens de l’al. 1, let. d et e, sont considérées comme surfaces agricoles utiles si l’exploitant prouve:[^16-2]
+Les surfaces au sens de l’al. 1, let. d et e, sont considérées comme surfaces agricoles utiles si l’exploitant prouve:[^16-3]
 
 - a. que les surfaces sont situées en dehors du périmètre à usage non agricole et que leur affectation principale est l’exploitation agricole;
 - b. qu’il s’agit de surfaces au sens de l’art. 14, al. 1, let. a, b, d ou e, dont il est propriétaire ou pour lesquelles il a conclu un bail à ferme par écrit;
-- c.[^16-3] que le bail à ferme pour les surfaces visées à l’al. 1, let. e, a été conclu par écrit conformément aux dispositions y relatives de la LBFA[^16-4], et
-- d. que la surface utilisée d’un seul tenant par l’exploitant a une superficie de 25 ares au moins.[^16-5]
+- c.[^16-4] que le bail à ferme pour les surfaces visées à l’al. 1, let. e, a été conclu par écrit conformément aux dispositions y relatives de la LBFA[^16-5], et
+- d. que la surface utilisée d’un seul tenant par l’exploitant a une superficie de 25 ares au moins.[^16-6]
 
-<sup>4</sup> Les surfaces ou parties de surfaces fortement envahies par le souchet comestible sont comptabilisées dans la surface agricole utile, en dérogation à l’al. 1, let. b, si le service cantonal compétent octroie une autorisation d’assainissement de la surface au moyen d’une jachère nue. La surface doit être exploitée conformément à la feuille d’information du 24 janvier 2022 de la Conférence des services phytosanitaires cantonaux «La jachère noire en tant qu’instrument de lutte contre le souchet comestible»[^16-6].[^16-7]
+<sup>4</sup> Les surfaces ou parties de surfaces fortement envahies par le souchet comestible sont comptabilisées dans la surface agricole utile, en dérogation à l’al. 1, let. b, si le service cantonal compétent octroie une autorisation d’assainissement de la surface au moyen d’une jachère nue. La surface doit être exploitée conformément à la feuille d’information du 24 janvier 2022 de la Conférence des services phytosanitaires cantonaux «La jachère noire en tant qu’instrument de lutte contre le souchet comestible»[^16-7].[^16-8]
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+<sup>5</sup>
+
+Les surfaces comportant des installations solaires sont considérées comme surfaces agricoles utiles si les conditions suivantes sont réunies:
+
+- a. les installations solaires remplissent l’une des conditions de l’art. 32*c*, al. 1, let. a ou c, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^16-9];
+- b.
+
+  l’exploitant prouve:
+
+  - 1\. qu’il s’agit de surfaces au sens de l’art. 14, al. 1, let. a, d ou e, dont il est propriétaire ou pour lesquelles il a conclu un bail à ferme par écrit, et
+  - 2\. que des permis de construire exécutoires ont été délivrés pour les installations solaires.[^16-10]
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^16-4]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
-[^16-5]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
-[^16-6]: La feuille d’information peut être consultée à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Conditions/Termes &gt; Documentation.
-[^16-7]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^16-5]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^16-6]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
+[^16-7]: La feuille d’information peut être consultée à l’adresse suivante: [www.blw.admin.ch/fr/paiements-directs-apercu](https://www.blw.admin.ch/fr/paiements-directs-apercu)
+[^16-8]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
+[^16-9]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^16-10]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 17
 
@@ -384,10 +399,11 @@ Les surfaces exploitées à l’étranger sont comptées dans la surface agricol
 
 <sup>3</sup> Lorsqu’une surface cultivée à l’étranger par tradition est cédée, elle peut être remplacée par une surface d’étendue égale, même si celle-ci n’y est pas cultivée par tradition, à condition que la première ne soit pas reprise par un producteur gérant une exploitation dans la zone frontière suisse.
 
-<sup>4</sup> Les cantons tiennent un registre des surfaces exploitées par tradition à l’étranger.
+<sup>4</sup> Les cantons tiennent un registre des surfaces exploitées par tradition à l’étranger et des autres surfaces situées à l’étranger qui sont gérées par une exploitation en Suisse.[^17-3]
 
 [^17-1]: Nouvelle teneur selon l’annexe 4 ch. 50 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^17-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 18
 
@@ -395,12 +411,12 @@ Les surfaces exploitées à l’étranger sont comptées dans la surface agricol
 
 <sup>1</sup> Par terres assolées, on entend les terres soumises à la rotation culturale (assolement). Elles se composent des terres ouvertes et des prairies temporaires[^18-1].
 
-<sup>2</sup> Par terres ouvertes, on entend les surfaces affectées à des cultures annuelles des champs, à la culture de légumes et de baies annuels ou à celle de plantes aromatiques et médicinales annuelles. Les jachères florales, les jachères tournantes et les ourlets sur terres assolées font partie des terres ouvertes.[^18-2]
+<sup>2</sup> Par terres ouvertes, on entend les surfaces affectées à des cultures annuelles des champs, à la culture de légumes et de baies annuels ainsi qu’aux plantes aromatiques et médicinales annuelles. Les jachères florales, les jachères tournantes, les ourlets sur terres assolées et les bandes semées pour organismes utiles aménagées sur des terres ouvertes font partie des terres ouvertes.[^18-2]
 
 <sup>3</sup> Par prairies temporaires, on entend les prairies ensemencées qui sont exploitées pendant un cycle de végétation au moins dans le cadre de l’assolement.
 
 [^18-1]: Nouvelle expression selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)). Il a été tenu compte de cette mod. dans tout le texte.
-[^18-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 18a
 
@@ -408,10 +424,25 @@ Les surfaces exploitées à l’étranger sont comptées dans la surface agricol
 
 <sup>1</sup> La culture principale est la culture qui occupe le plus longtemps le sol pendant la période de végétation et qui est mise en place au plus tard le 1<sup>er</sup> juin.
 
-<sup>2</sup> Si la culture principale ne peut être récoltée en raison de dégâts dus à un cas de force majeure au sens de l’art. 106, al. 2, let. f et g, et 3, OPD[^18a-2] et qu’elle est labourée après le 1<sup>er</sup> juin, la culture plantée ultérieurement, au plus tard à la fin du mois de juin, est considérée comme la culture principale, à condition que celle-ci puisse être récoltée de manière usuelle.
+<sup>2</sup>
+
+Si la culture principale ne peut être récoltée en raison de dégâts dus à un cas de force majeure au sens de l’art. 106, al. 2, let. f et g, et 3, OPD[^18a-2] et qu’elle est labourée après le 1<sup>er</sup> juin, la culture plantée ultérieurement est considérée comme la culture principale, si les conditions suivantes sont réunies:
+
+- a. elle est plantée au plus tard à la fin du mois de juin;
+- b. elle peut être récoltée de manière usuelle.[^18a-3]
+
+<sup>3</sup>
+
+Une culture plantée après le 1<sup>er</sup> juin ne peut être considérée comme la culture principale que si les conditions suivantes sont réunies:
+
+- a. il s’agit de la première culture depuis la récolte de la culture principale l’année précédente;
+- b. elle est plantée au plus tard à la fin du mois de juin;
+- c. elle peut être récoltée de manière usuelle.[^18a-4]
 
 [^18a-1]: Introduit par l’annexe ch. 3 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^18a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^18a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
+[^18a-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 19
 
@@ -713,7 +744,7 @@ Annexe[^t-1]
 
 ## Coefficients de conversion des animaux en unités de gros bétail
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2013 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)). Mise à jour selon le ch. I de l’O du 20 mai 2015 ([RO 2015 1753](https://fedlex.data.admin.ch/eli/oc/2015/342)) et le ch. II de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2013 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)). Mise à jour selon le ch. I de l’O du 20 mai 2015 ([RO 2015 1753](https://fedlex.data.admin.ch/eli/oc/2015/342)), le ch. II de l’O du 16 sept. 2016 ([RO 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)) et le ch. IV de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 <table>
 <tr><th></th><th>Coefficient par animal</th></tr>
@@ -731,20 +762,20 @@ Annexe[^t-1]
 <tr><td>2.1.1 de plus de 900 jours</td><td>0,70</td></tr>
 <tr><td>2.1.2 de plus de 180 à 900 jours</td><td>0,50</td></tr>
 <tr><td>2.1.3 jusqu’à 180 jours</td><td>0,30</td></tr>
-<tr><td>**2.2** **Hauteur au garrot jusqu’à 148 cm**</td><td></td></tr>
+<tr><td>**2.2** **Hauteur au garrot jusqu’à** **148** **cm**</td><td></td></tr>
 <tr><td>2.2.1 de plus de 900 jours</td><td>0,35</td></tr>
 <tr><td>2.2.2 de plus de 180 à 900 jours</td><td>0,25</td></tr>
 <tr><td>2.2.3 jusqu’à 180 jours</td><td>0,15</td></tr>
 <tr><td>3. Moutons</td><td></td></tr>
-<tr><td>3.1 Brebis traites</td><td>0,25</td></tr>
-<tr><td>3.2 Autres moutons de plus d’un an</td><td>0,17</td></tr>
-<tr><td>3.3 Agneaux de moins d’un an (compris dans le coefficient des brebis)</td><td>0,00</td></tr>
-<tr><td>3.4 Agneaux de pâturage (engraissement) de moins de six mois, non imputables aux mères (engraissement à l’année d’agneaux sur pâturage)</td><td>0,03</td></tr>
+<tr><td>3.1 Brebis laitières</td><td>0,25</td></tr>
+<tr><td>3.2 Autres moutons de plus de 365 jours</td><td>0,17</td></tr>
+<tr><td>3.3 Jeunes moutons de 180 à 365 jours</td><td>0,06</td></tr>
+<tr><td>3.4 Agneaux jusqu’à 180 jours</td><td>0,03</td></tr>
 <tr><td>4. Chèvres</td><td></td></tr>
-<tr><td>4.1 Chèvres traites</td><td>0,20</td></tr>
-<tr><td>4.2 Autres chèvres de plus d’un an</td><td>0,17</td></tr>
-<tr><td>4.3 Chevreaux de moins d’un an (compris dans le coefficient des chèvres)</td><td>0,00</td></tr>
-<tr><td>4.4 Chèvres naines de plus d’un an: garde d’animaux de rente (effectifs importants, à des fins lucratives)</td><td>0,085</td></tr>
+<tr><td>4.1 Chèvres laitières</td><td>0,20</td></tr>
+<tr><td>4.2 Autres chèvres de plus de 365 jours</td><td>0,17</td></tr>
+<tr><td>4.3 Chevreaux de 180 à 365 jours</td><td>0,06</td></tr>
+<tr><td>4.4 Cabris jusqu’à 180 jours</td><td>0,03</td></tr>
 <tr><td>5. Autres animaux consommant des fourrages grossiers</td><td></td></tr>
 <tr><td>5.1 Bisons de plus de 900 jours (adultes destinés à l’élevage)</td><td>1,00</td></tr>
 <tr><td>5.2 Bisons jusqu’à 900 jours (élevage et engraissement)</td><td>0,40</td></tr>

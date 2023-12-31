@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 1998 über landwirtschaftliche Begriffe und d
 short: LBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1999-13-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-13-20240101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20230101/de"
 
 (Landwirtschaftliche Begriffsverordnung, LBV)
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2023) (Stand am 1. Januar 2023)
+vom 7. Dezember 1998 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -338,7 +338,7 @@ Nicht als landwirtschaftliche Nutzfläche gelten:
 - c. Flächen, die in Bauzonen liegen, die nach dem 31. Dezember 2013 rechtskräftig ausgeschieden wurden;
 - d. erschlossenes Bauland, das bis zum 31. Dezember 2013 rechtskräftig ausgeschieden wurde;
 - e. Flächen innerhalb von Golf-, Camping-, Flug- und militärischen Übungsplätzen sowie im ausgemarchten Bereich von Eisenbahnen und öffentlichen Strassen;
-- f. Flächen mit Photovoltaik-Anlagen.[^16-1]
+- f.[^16-1] Flächen mit Solaranlagen.[^16-2]
 
 <sup>2</sup>
 
@@ -350,22 +350,37 @@ Hauptzweckbestimmung ist nicht die landwirtschaftliche Nutzung, wenn:
 
 <sup>3</sup>
 
-Flächen nach Absatz 1 Buchstaben d und e zählen zur landwirtschaftlichen Nutzfläche, wenn der Bewirtschafter oder die Bewirtschafterin nachweist, dass:[^16-2]
+Flächen nach Absatz 1 Buchstaben d und e zählen zur landwirtschaftlichen Nutzfläche, wenn der Bewirtschafter oder die Bewirtschafterin nachweist, dass:[^16-3]
 
 - a. die Flächen ausserhalb des Bereichs der nichtlandwirtschaftlichen Nutzung liegen und die Hauptzweckbestimmung die landwirtschaftliche Nutzung ist;
 - b. es sich um eigene oder mit schriftlichem Vertrag gepachtete Flächen nach Artikel 14 Absatz 1 Buchstabe a, b, d oder e handelt;
-- c.[^16-3] für die Flächen nach Absatz 1 Buchstabe e der Pachtvertrag gemäss den massgebenden Bestimmungen des LPG[^16-4] schriftlich abgeschlossen ist; und
-- d. die vom Bewirtschafter oder von der Bewirtschafterin zusammenhängend bewirtschaftete Fläche mindestens 25 Aren misst.[^16-5]
+- c.[^16-4] für die Flächen nach Absatz 1 Buchstabe e der Pachtvertrag gemäss den massgebenden Bestimmungen des LPG[^16-5] schriftlich abgeschlossen ist; und
+- d. die vom Bewirtschafter oder von der Bewirtschafterin zusammenhängend bewirtschaftete Fläche mindestens 25 Aren misst.[^16-6]
 
-<sup>4</sup> Flächen oder Teilflächen mit einem hohen Besatz an Erdmandelgras zählen in Abweichung von Absatz 1 Buchstabe b zur landwirtschaftlichen Nutzfläche, wenn die zuständige kantonale Stelle eine Bewilligung zur Sanierung der Fläche mittels Schwarzbrache erteilt. Die Fläche ist gemäss dem Merkblatt der Konferenz der kantonalen Pflanzenschutzdienste vom 24. Januar 2022[^16-6] «Die Schwarzbrache als Instrument zur Erdmandelgrasbekämpfung» zu bewirtschaften.[^16-7]
+<sup>4</sup> Flächen oder Teilflächen mit einem hohen Besatz an Erdmandelgras zählen in Abweichung von Absatz 1 Buchstabe b zur landwirtschaftlichen Nutzfläche, wenn die zuständige kantonale Stelle eine Bewilligung zur Sanierung der Fläche mittels Schwarzbrache erteilt. Die Fläche ist gemäss dem Merkblatt der Konferenz der kantonalen Pflanzenschutzdienste vom 24. Januar 2022[^16-7] «Die Schwarzbrache als Instrument zur Erdmandelgrasbekämpfung» zu bewirtschaften.[^16-8]
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+<sup>5</sup>
+
+Flächen mit Solaranlagen zählen zur landwirtschaftlichen Nutzfläche, wenn:
+
+- a. die Solaranlagen eine der Voraussetzungen nach Artikel 32*c* Absatz 1 Buchstabe a oder c der Raumplanungsverordnung vom 28. Juni 2000[^16-9] (RPV) erfüllen; und
+- b.
+
+  der Bewirtschafter oder die Bewirtschafterin nachweist, dass:
+
+  - 1\. es sich um eigene oder mit schriftlichem Vertrag gepachtete Flächen nach Artikel 14 Absatz 1 Buchstabe a, d oder e handelt, und
+  - 2\. für die Solaranlagen rechtskräftige Baubewilligungen vorliegen.[^16-10]
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^16-4]: [SR 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
-[^16-5]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
-[^16-6]: Das Merkblatt ist abrufbar unter: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instrumente &gt; Direktzahlungen &gt; Voraussetzungen/Begriffe &gt; Dokumentation.
-[^16-7]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
+[^16-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^16-5]: [SR 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^16-6]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
+[^16-7]: Das Merkblatt ist abrufbar unter: [www.blw.admin.ch/de/direktzahlungen-uebersicht](http://www.blw.admin.ch/de/direktzahlungen-uebersicht).
+[^16-8]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
+[^16-9]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^16-10]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 17
 
@@ -383,10 +398,11 @@ Im Ausland gelegene Flächen gelten als landwirtschaftliche Nutzfläche eines Be
 
 <sup>3</sup> Bei Abtretung einer angestammten Fläche kann diese durch eine gleich grosse, bisher nicht angestammt gewesene Fläche ersetzt werden, sofern die abgetretene Fläche nicht an einen Produzenten übergeht, der einen Betrieb in der schweizerischen Grenzzone bewirtschaftet.
 
-<sup>4</sup> Die Kantone führen ein Verzeichnis der angestammten Flächen im Ausland.
+<sup>4</sup> Die Kantone führen ein Verzeichnis der angestammten und der übrigen Flächen im Ausland, die von einem Betrieb in der Schweiz bewirtschaftet werden.[^17-3]
 
 [^17-1]: Fassung gemäss Anhang 4 Ziff. 50 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^17-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 18
 
@@ -394,11 +410,11 @@ Im Ausland gelegene Flächen gelten als landwirtschaftliche Nutzfläche eines Be
 
 <sup>1</sup> Als Ackerfläche gilt die Fläche, welche in eine Fruchtfolge einbezogen ist. Sie setzt sich aus der offenen Ackerfläche und den Kunstwiesen zusammen.
 
-<sup>2</sup> Als offene Ackerfläche gilt die Fläche, auf der einjährige Acker-, Gemüse- und Beerenkulturen sowie einjährige Gewürz- und Medizinalpflanzen angebaut werden. Buntbrache, Rotationsbrache und Säume auf Ackerland zählen zur offenen Ackerfläche.[^18-1]
+<sup>2</sup> Als offene Ackerfläche gilt die Fläche, auf der einjährige Acker-, Gemüse- und Beerenkulturen sowie einjährige Gewürz- und Medizinalpflanzen angebaut werden. Buntbrache, Rotationsbrache, Säume auf Ackerland sowie auf offener Ackerfläche angelegte Nützlingsstreifen zählen zur offenen Ackerfläche.[^18-1]
 
 <sup>3</sup> Als Kunstwiese gilt die als Wiese angesäte Fläche, die innerhalb einer Fruchtfolge während mindestens einer Vegetationsperiode bewirtschaftet wird.
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 18a
 
@@ -406,10 +422,25 @@ Im Ausland gelegene Flächen gelten als landwirtschaftliche Nutzfläche eines Be
 
 <sup>1</sup> Die Hauptkultur ist die Kultur, die den Boden während der Vegetationsperiode am längsten beansprucht und spätestens am 1. Juni angelegt ist.
 
-<sup>2</sup> Kann die angebaute Hauptkultur aufgrund von Schäden durch höhere Gewalt nach Artikel 106 Absätze 2 Buchstaben f und g sowie 3 DZV[^18a-2] nicht geerntet werden und wird sie nach dem 1. Juni umgebrochen, so gilt die anschliessend bis spätestens Ende Juni angelegte Kultur als Hauptkultur, sofern diese ordentlich geerntet werden kann.
+<sup>2</sup>
+
+Kann die Hauptkultur aufgrund von Schäden durch höhere Gewalt nach Artikel 106 Absätze 2 Buchstaben f und g sowie 3 DZV[^18a-2] nicht geerntet werden und wird sie nach dem 1. Juni umgebrochen, so gilt die anschliessend angelegte Kultur als Hauptkultur, wenn sie:
+
+- a. bis spätestens Ende Juni angelegt wird; und
+- b. ordentlich geerntet werden kann.[^18a-3]
+
+<sup>3</sup>
+
+Eine nach dem 1. Juni angelegte Kultur gilt nur dann als Hauptkultur, wenn sie:
+
+- a. die erste Kultur seit der Ernte der Hauptkultur im Vorjahr ist;
+- b. bis spätestens Ende Juni angelegt wird; und
+- c. ordentlich geerntet werden kann.[^18a-4]
 
 [^18a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^18a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^18a-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
+[^18a-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 19
 
@@ -717,64 +748,64 @@ Anhang[^t-1]
 
 ## Faktoren für die Umrechnung des Tierbestandes in Grossvieheinheiten
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 23. Okt. 2013 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)). Bereinigt gemäss Ziff. I der V vom 20. Mai 2015 ([AS 2015 1753](https://fedlex.data.admin.ch/eli/oc/2015/342)) und Ziff. II der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 23. Okt. 2013 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)). Bereinigt gemäss Ziff. I der V vom 20. Mai 2015 ([AS 2015 1753](https://fedlex.data.admin.ch/eli/oc/2015/342)), Ziff. II der V vom 16. Sept. 2016 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)) und Ziff. IV der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2024 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 <table>
-<tr><th></th><th>Faktor je Tier</th></tr>
-<tr><td>1. Tiere der Rindergattung (Gattung *Bos*) und Wasserbüffel (*Bubalus arnee*)</td><td></td></tr>
-<tr><td>1.1 Kühe</td><td></td></tr>
-<tr><td>1.1.1 Milchkühe</td><td>[tab] 1,00</td></tr>
-<tr><td>1.1.2 andere Kühe</td><td>1,00</td></tr>
-<tr><td>1.2 andere Tiere der Rindergattung</td><td></td></tr>
-<tr><td>1.2.1 über 730 Tage alt</td><td>0,60</td></tr>
-<tr><td>1.2.2 über 365−730 Tage alt</td><td>0,40</td></tr>
-<tr><td>1.2.3 über 160−365 Tage alt</td><td>0,33</td></tr>
-<tr><td>1.2.4 bis 160 Tage alt</td><td>0,13</td></tr>
-<tr><td>2. Tiere der Pferdegattung</td><td></td></tr>
-<tr><td>**2.1** **Widerristhöhe 148 cm und höher**</td><td></td></tr>
-<tr><td>2.1.1 über 900 Tage alt</td><td>0,70</td></tr>
-<tr><td>2.1.2 über 180 Tage bis 900 Tage alt</td><td>0,50</td></tr>
-<tr><td>2.1.3 bis 180 Tage alt</td><td>0,30</td></tr>
-<tr><td>**2.2** **Widerristhöhe bis 148 cm**</td><td>[tab]</td></tr>
-<tr><td>2.2.1 über 900 Tage alt</td><td>0,35</td></tr>
-<tr><td>2.2.2 über 180 Tage bis 900 Tage alt</td><td>0,25</td></tr>
-<tr><td>2.2.3 bis 180 Tage alt</td><td>0,15</td></tr>
+<tr><th></th><th colspan="2">Faktor je Tier</th></tr>
+<tr><td>1. Tiere der Rindergattung (Gattung *Bos*) und Wasserbüffel (*Bubalus arnee*)</td><td colspan="2"></td></tr>
+<tr><td>1.1 Kühe</td><td colspan="2"></td></tr>
+<tr><td>1.1.1 Milchkühe</td><td colspan="2">[tab] 1,00</td></tr>
+<tr><td>1.1.2 andere Kühe</td><td colspan="2">1,00</td></tr>
+<tr><td>1.2 andere Tiere der Rindergattung</td><td colspan="2"></td></tr>
+<tr><td>1.2.1 über 730 Tage alt</td><td colspan="2">0,60</td></tr>
+<tr><td>1.2.2 über 365−730 Tage alt</td><td colspan="2">0,40</td></tr>
+<tr><td>1.2.3 über 160−365 Tage alt</td><td colspan="2">0,33</td></tr>
+<tr><td>1.2.4 bis 160 Tage alt</td><td colspan="2">0,13</td></tr>
+<tr><td>2. Tiere der Pferdegattung</td><td colspan="2"></td></tr>
+<tr><td>**2.1** **Widerristhöhe 148 cm und höher**</td><td colspan="2"></td></tr>
+<tr><td>2.1.1 über 900 Tage alt</td><td colspan="2">0,70</td></tr>
+<tr><td>2.1.2 über 180 Tage bis 900 Tage alt</td><td colspan="2">0,50</td></tr>
+<tr><td>2.1.3 bis 180 Tage alt</td><td colspan="2">0,30</td></tr>
+<tr><td>**2.2** **Widerristhöhe bis 148 cm**</td><td colspan="2">[tab]</td></tr>
+<tr><td>2.2.1 über 900 Tage alt</td><td colspan="2">0,35</td></tr>
+<tr><td>2.2.2 über 180 Tage bis 900 Tage alt</td><td colspan="2">0,25</td></tr>
+<tr><td>2.2.3 bis 180 Tage alt</td><td colspan="2">0,15</td></tr>
 <tr><td>3. Schafe</td><td></td></tr>
-<tr><td>3.1 Schafe gemolken</td><td>0,25</td></tr>
-<tr><td>3.2 Andere Schafe über 1-jährig</td><td>0,17</td></tr>
-<tr><td>3.3 Jungschafe unter 1-jährig (in den Faktoren der weiblichen Tiere eingerechnet)</td><td>0,00</td></tr>
-<tr><td>3.4 Weidelämmer (Mast) unter 1/2-jährig, welche nicht den Muttertieren anzurechnen sind (ganzjährige Weidelämmermast)</td><td>0,03</td></tr>
+<tr><td>3.1 Milchschafe</td><td>0,25</td></tr>
+<tr><td>3.2 Andere Schafe über 365 Tage alt</td><td>0,17</td></tr>
+<tr><td>3.3 Jungschafe über 180 bis 365 Tage alt</td><td>0,06</td></tr>
+<tr><td>3.4 Lämmer bis 180 Tage alt</td><td>0,03</td></tr>
 <tr><td>4. Ziegen</td><td></td></tr>
-<tr><td>4.1 Ziegen gemolken</td><td>0,20</td></tr>
-<tr><td>4.2 Andere Ziegen über 1-jährig</td><td>0,17</td></tr>
-<tr><td>4.3 Jungziegen unter 1-jährig (im Faktor des weiblichen Tieres eingerechnet)</td><td>[tab] 0,00</td></tr>
-<tr><td>4.4 Zwergziegen über 1-jährig: Nutztierhaltung (grössere Bestände zu Erwerbszwecken)</td><td>0,085</td></tr>
-<tr><td>5. Andere Raufutter verzehrende Nutztiere</td><td></td></tr>
-<tr><td>5.1 Bisons über 900 Tage alt (erwachsene Zuchttiere)</td><td>1,00</td></tr>
-<tr><td>5.2 Bisons bis 900 Tage alt (Aufzucht und Mast)</td><td>0,40</td></tr>
-<tr><td>5.3 Damhirsche jeden Alters</td><td>0,10</td></tr>
-<tr><td>5.4 Rothirsche jeden Alters</td><td>0,20</td></tr>
-<tr><td>5.5 Lamas über 2-jährig</td><td>0,17</td></tr>
-<tr><td>5.6 Lamas unter 2-jährig</td><td>0,11</td></tr>
-<tr><td>5.7 Alpakas über 2-jährig</td><td>0,11</td></tr>
-<tr><td>5.8 Alpakas unter 2-jährig</td><td>0,07</td></tr>
-<tr><td>6. Kaninchen</td><td></td></tr>
-<tr><td>6.1 Produzierende Zibben (= Zibben mit mind. 4 Würfen pro Jahr) ab 1. Wurf, inkl. Jungtiere bis zum Beginn der Mast bzw. Aufzucht (Alter: ca. 35 Tage)</td><td>0,034</td></tr>
-<tr><td>6.2 Jungtiere (Mast bzw. Aufzucht), Alter: ca. 35 bis 100 Tage (5 Umtriebe pro Platz und Jahr)</td><td>0,011</td></tr>
-<tr><td>7. Schweine</td><td></td></tr>
-<tr><td>7.1 Säugende Zuchtsauen (4 bis 8 Wochen Säugedauer; 5,7 bis 10,4 Umtriebe pro Platz)</td><td>0,55</td></tr>
-<tr><td>7.2 Saugferkel (im Faktor der Mutter eingerechnet)</td><td>0,00</td></tr>
-<tr><td>7.3 Nicht säugende Zuchtsauen über 6 Monate alt (ca. 3 Umtriebe pro Platz)</td><td>0,26</td></tr>
-<tr><td>7.4 Zuchteber</td><td>0,25</td></tr>
-<tr><td>7.5 Abgesetzte Ferkel (ausgestallt mit ca. 25 kg, 8 bis 12 Umtriebe pro Platz oder ausgestallt mit ca. 35 kg, 6 bis 8 Umtriebe pro Platz)</td><td>0,06</td></tr>
-<tr><td>7.6 Remonten und Mastschweine (ca. 3 Umtriebe pro Platz)</td><td>0,17</td></tr>
-<tr><td>8. Nutzgeflügel</td><td></td></tr>
-<tr><td>8.1 Zuchthennen, Zuchthähne und Legehennen</td><td>0,01</td></tr>
-<tr><td>8.2 Junghennen, Junghähne und Küken (ohne Mastpoulets)</td><td>0,004</td></tr>
-<tr><td>8.3 Mastpoulets jeden Alters (Mastdauer ca. 40 Tage; 6,5 bis 7,5 Umtriebe pro Platz)</td><td>0,004</td></tr>
-<tr><td>8.4 Truten jeden Alters (ca. 3 Umtriebe pro Platz)</td><td>0,015</td></tr>
-<tr><td>8.5 Trutenvormast (ca. 6 Umtriebe pro Jahr)</td><td>0,005</td></tr>
-<tr><td>8.6 Trutenausmast</td><td>0,028</td></tr>
-<tr><td>8.7 Strausse bis 13 Monate</td><td>0,14</td></tr>
-<tr><td>8.8 Strausse älter als 13 Monate</td><td>0,26</td></tr>
+<tr><td>4.1 Milchziegen</td><td>0,20</td></tr>
+<tr><td>4.2 Andere Ziegen über 365 Tage alt</td><td>0,17</td></tr>
+<tr><td>4.3 Jungziegen über 180 Tage bis 365 Tage alt</td><td>0,06</td></tr>
+<tr><td>4.4 Zicklein bis 180 Tage alt</td><td>0,03</td></tr>
+<tr><td>5. Andere Raufutter verzehrende Nutztiere</td><td colspan="2"></td></tr>
+<tr><td>5.1 Bisons über 900 Tage alt (erwachsene Zuchttiere)</td><td colspan="2">1,00</td></tr>
+<tr><td>5.2 Bisons bis 900 Tage alt (Aufzucht und Mast)</td><td colspan="2">0,40</td></tr>
+<tr><td>5.3 Damhirsche jeden Alters</td><td colspan="2">0,10</td></tr>
+<tr><td>5.4 Rothirsche jeden Alters</td><td colspan="2">0,20</td></tr>
+<tr><td>5.5 Lamas über 2-jährig</td><td colspan="2">0,17</td></tr>
+<tr><td>5.6 Lamas unter 2-jährig</td><td colspan="2">0,11</td></tr>
+<tr><td>5.7 Alpakas über 2-jährig</td><td colspan="2">0,11</td></tr>
+<tr><td>5.8 Alpakas unter 2-jährig</td><td colspan="2">0,07</td></tr>
+<tr><td>6. Kaninchen</td><td colspan="2"></td></tr>
+<tr><td>6.1 Produzierende Zibben (= Zibben mit mind. 4 Würfen pro Jahr) ab 1. Wurf, inkl. Jungtiere bis zum Beginn der Mast bzw. Aufzucht (Alter: ca. 35 Tage)</td><td colspan="2">0,034</td></tr>
+<tr><td>6.2 Jungtiere (Mast bzw. Aufzucht), Alter: ca. 35 bis 100 Tage (5 Umtriebe pro Platz und Jahr)</td><td colspan="2">0,011</td></tr>
+<tr><td>7. Schweine</td><td colspan="2"></td></tr>
+<tr><td>7.1 Säugende Zuchtsauen (4 bis 8 Wochen Säugedauer; 5,7 bis 10,4 Umtriebe pro Platz)</td><td colspan="2">0,55</td></tr>
+<tr><td>7.2 Saugferkel (im Faktor der Mutter eingerechnet)</td><td colspan="2">0,00</td></tr>
+<tr><td>7.3 Nicht säugende Zuchtsauen über 6 Monate alt (ca. 3 Umtriebe pro Platz)</td><td colspan="2">0,26</td></tr>
+<tr><td>7.4 Zuchteber</td><td colspan="2">0,25</td></tr>
+<tr><td>7.5 Abgesetzte Ferkel (ausgestallt mit ca. 25 kg, 8 bis 12 Umtriebe pro Platz oder ausgestallt mit ca. 35 kg, 6 bis 8 Umtriebe pro Platz)</td><td colspan="2">0,06</td></tr>
+<tr><td>7.6 Remonten und Mastschweine (ca. 3 Umtriebe pro Platz)</td><td colspan="2">0,17</td></tr>
+<tr><td>8. Nutzgeflügel</td><td colspan="2"></td></tr>
+<tr><td>8.1 Zuchthennen, Zuchthähne und Legehennen</td><td colspan="2">0,01</td></tr>
+<tr><td>8.2 Junghennen, Junghähne und Küken (ohne Mastpoulets)</td><td colspan="2">0,004</td></tr>
+<tr><td>8.3 Mastpoulets jeden Alters (Mastdauer ca. 40 Tage; 6,5 bis 7,5 Umtriebe pro Platz)</td><td colspan="2">0,004</td></tr>
+<tr><td>8.4 Truten jeden Alters (ca. 3 Umtriebe pro Platz)</td><td colspan="2">0,015</td></tr>
+<tr><td>8.5 Trutenvormast (ca. 6 Umtriebe pro Jahr)</td><td colspan="2">0,005</td></tr>
+<tr><td>8.6 Trutenausmast</td><td colspan="2">0,028</td></tr>
+<tr><td>8.7 Strausse bis 13 Monate</td><td colspan="2">0,14</td></tr>
+<tr><td>8.8 Strausse älter als 13 Monate</td><td colspan="2">0,26</td></tr>
 </table>
