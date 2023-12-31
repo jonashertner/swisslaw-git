@@ -1,170 +1,173 @@
 ---
 canton: VS
 number: "660.1"
-title: Ausführungsgesetz zum Bundesgesetz über den Wehrpflichtersatz
+title: "Ausführungsgesetz zum Bundesgesetz über die Wehrpflichtersatzabgabe *"
 short: AGWPEG
 language: de
-version: 2004-01-01
-corrected: 2017-09-18
-version_adopted: 2003-12-04
+version: 2024-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-03-11
 adopted: 1998-02-11
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/660.1"
-pdf: "https://lex.vs.ch/api/de/versions/332/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3159/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsgesetz zum Bundesgesetz über den Wehrpflichtersatz (AGWPEG)
+# Ausführungsgesetz zum Bundesgesetz über die Wehrpflichtersatzabgabe
 
-vom 11. Februar 1998
+(AGWPEG)
+
+vom 11.02.1998 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen den Artikel 22, Absatz 4 des Bundesgesetzes vom 12. Juni 1959 über den Wehrpflichtersatz (WPEG);
+eingesehen Artikel 22 Absatz 4 des Bundesgesetzes über die Wehrpflichtersatzabgabe vom 12. Juni 1959 (WPEG);
 
-eingesehen die Artikel 31, Absatz 3, Ziffer 1 und 42, Absatz 2 der Kantonsverfassung;
+eingesehen die Artikel 31 Absatz 3 Buchstabe a und 42 Absatz 2 der Kantonsverfassung;
 
-eingesehen den Artikel 40 des Gesetzes vom 28. März 1996 über die Organisation der Räte und die Beziehungen zwischen den Gewalten (GORBG);
+eingesehen Artikel 40 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996 (GORBG);
 
-auf Vorschlag des Staatsrates,
+auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Abschnitt: Zweck und zuständige Behörden
+## 1 Zweck und zuständige Behörden
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Schweizer Bürger, die ihre Wehrpflicht nicht oder nur teilweise durch persönliche Dienstleistung (Militär- oder Zivildienst) erfüllen, haben einen Ersatz in Geld zu leisten.
+<sup>1</sup> …
 
-<sup>2</sup> Das vorliegende Ausführungsgesetz regelt die Organisation und die Amtsführung der mit der Erhebung des Wehrpflichtersatzes betrauten kantonalen Behörden.
+<sup>2</sup> Das vorliegende Ausführungsgesetz regelt die Organisation und die Amtsführung der mit der Erhebung der Wehrpflichtersatzabgabe (nachfolgend: Ersatzabgabe) betrauten kantonalen Behörden.
 
 #### Art. 2
 
 **Kantonale Behörden**
 
-<sup>1</sup> Das mit dem Militärwesen betraute Departement übt die Oberaufsicht über die Tätigkeit der Dienststelle für Militärwesen aus, unter Vorbehalt der Aufsicht des Bundes.
+<sup>1</sup> Das mit dem Militärwesen betraute Departement übt die Oberaufsicht über die Tätigkeit der für das Militärwesen zuständigen Dienststelle (nachfolgend: die Dienststelle) aus, unter Vorbehalt der Aufsicht des Bundes.
 
-<sup>2</sup> Der kantonalen Dienststelle für Militärwesen obliegt die allgemeine Leitung betreffend die Anwendung der Bestimmungen über den Wehrpflichtersatz.
+<sup>2</sup> Die allgemeine Leitung betreffend die Anwendung der Bestimmungen über die Wehrpflichtersatzabgabe im Kanton obliegt der Dienststelle.
 
-<sup>3</sup> Das Amt für Wehrpflichtersatz (nachfolgend: Amt) erfüllt alle Aufgaben, welche ihm durch die Bundesbestimmungen übertragen werden, namentlich betreffend die Veranlagung, den Bezug, die Eintreibung, die Rückerstattung, die Stundung und den Erlass der Wehrpflichtersatzabgabe.
+<sup>3</sup> Die Sektion für Wehrpflichtersatzabgabe (nachfolgend: die Sektion) erfüllt alle Aufgaben, welche ihr durch die Bundesbestimmungen übertragen werden, namentlich betreffend die Befreiung, die Veranlagung, den Bezug, die Eintreibung, die Rückerstattung, die Stundung und den Erlass der Ersatzabgabe.
 
 #### Art. 3
 
-**Sektionschef**
+**Kreiskommandant**
 
-Der Sektionschef ist zuständig für:
+<sup>1</sup> Der Kreiskommandant ist zuständig für:
 
-- a) die Meldung vom Zuzug und Wegzug des Ersatzpflichtigen;
+- a) die Meldung an die Sektion aller notwendigen Auskünfte für den Vollzug der Bundesgesetzgebung über die Wehrpflichtersatzabgabe;
+- b) …
+- c) das automatisierte Polizeifahndungssystem (RIPOL).
 
-- b) die Mitarbeit bei der Untersuchung der Gesuche um Erlass des Wehrpflichtersatzes.
+#### Art. 3a
+
+**Amtshilfe**
+
+<sup>1</sup> Alle betroffenen Behörden übermitteln der Sektion die zweckdienlichen Informationen für den Vollzug des Bundesgesetzes über die Wehrpflichtersatzabgabe.
 
 #### Art. 4
 
 **Kantonale Rekurskommission**
 
-<sup>1</sup> Die kantonale Steuerrekurskommission (nachfolgend: die Kommission) ist im Bereich des Wehrpflichtersatzes als kantonale Rekursbehörde tätig.
+<sup>1</sup> Die steuerrechtliche Abteilung des Kantonsgerichts ist im Bereich der Ersatzabgabe als kantonale Rekursbehörde tätig.
 
-<sup>2</sup> Die Organisation und die Führung der Kommission sind innerhalb der Schranken des Bundesrechts durch das Steuergesetz geregelt.
+<sup>2</sup> …
 
-<sup>3</sup> Der Betrag der Verfahrenskosten und der Entschädigungen wird durch das Steuergesetz festgelegt.
+<sup>3</sup> …
 
-### 2. Abschnitt: Veranlagung und Rechtsmittel
+## 2 Veranlagung, Eintreibung und Rechtsmittel
 
 #### Art. 5
 
-<sup>1</sup> Vorbereitung der Veranlagung
+**Amtshilfe der kantonalen Steuerverwaltung**
 
-<sup>1</sup> Die kantonale Steuerverwaltung erteilt dem Amt Auskünfte betreffend:
+<sup>1</sup> Die kantonale Steuerverwaltung erteilt der Sektion Sammelauskünfte betreffend:
 
-**massgebenden**
+- a) die für den Veranlagungsentscheid massgebenden Einkommensbestandteile aufgrund der Einschätzung zur direkten Bundessteuer oder, wenn keine solche vorliegt, zur Kantonssteuer;
+- b) das Ergebnis von Revisionen für die direkte Bundes- oder die Kantonssteuer;
+- c) die Eröffnung und das Ergebnis vom Nachsteuerverfahren für die direkte Bundessteuer oder die Kantonssteuer;
+- d) jede besteuerbare Kapitalleistung.
 
-- a) die für den Veranlagungsentscheid Einkommensbestandteile aufgrund der Einschätzung zur direkten Bundessteuer oder, wenn keine solche vorliegt, zur Kantonssteuer;
+<sup>2</sup> Die kantonale Steuerverwaltung gewährt der Sektion Einsicht in die Akten der direkten Bundessteuer und der Kantonssteuer von Ersatzpflichtigen und ermöglicht den Zugriff auf alle für die Veranlagung und den Bezug der Ersatzabgabe erforderlichen Daten.
 
-- b) das Ergebnis von Revisionen für die direkte Bundes- oder Kantonssteuer;
+#### Art. 5a
 
-- c) die Eröffnung und das Ergebnis vom Nachsteuerverfahren für die direkte Bundessteuer oder Kantonssteuer.
+**Gebühren**
 
-<sup>2</sup> Die kantonale Steuerverwaltung gewährt dem Amt Einsicht in die Akten der direkten Bundessteuer und der Kantonssteuer von Ersatzpflichtigen und ermöglicht den Zugriff auf alle für die Veranlagung und den Bezug des Wehrpflichtersatzes erforderlichen Daten.
-
-#### Art. 5bis
-
-<sup>1</sup> Gebühren
-
-Für die zweite Mahnung sowie für das Betreibungsbegehren wird eine Gebühr erhoben.
+<sup>1</sup> Für die Betreibung wird eine Gebühr erhoben gemäss Beschluss des Staatrates betreffend den Gebührentarif der kantonalen Steuerverwaltung.
 
 #### Art. 6
 
 **Veranlagungsverfahren**
 
-<sup>1</sup> Das Verfahren für die Entscheide des Amtes und der Kommission wird durch das Bundesrecht geregelt.
+<sup>1</sup> Das Verfahren für die Entscheide der Sektion wird durch das Bundesgesetz geregelt. Das Steuergesetz ist ergänzend anwendbar.
 
-<sup>2</sup> Das Steuergesetz ist ergänzend anwendbar.
+<sup>2</sup> Das Verfahren für die Entscheide der steuerrechtlichen Abteilung des Kantonsgerichts wird durch das kantonale Recht im Rahmen des Bundesgesetzes geregelt.
+
+#### Art. 6a
+
+**Gesuch um Erlass**
+
+<sup>1</sup> Die Sektion tritt auf ein Gesuch um Erlass nicht ein:
+
+- a) wenn es nach dem Betreibungsbegehren gestellt wird;
+- b) wenn es sich um eine amtliche Einschätzung handelt;
+- c) wenn die Ersatzabgabe schon bezahlt wurde.
 
 #### Art. 7
 
 **Rechtsmittel**
 
-<sup>1</sup> Die Veranlagungsentscheide sowie die Entscheide über die Ersatzabgabebefreiung oder deren Ermässigung können innert 30 Tagen nach der Eröffnung durch schriftliche Einsprache beim Amt angefochten werden.
+<sup>1</sup> Die Veranlagungsentscheide und die Entscheide über die Ersatzabgabebefreiung können innert 30 Tagen nach der Eröffnung durch schriftliche Einsprache bei der Sektion angefochten werden.
 
-<sup>2</sup> Die Einspracheentscheide können innert 30 Tagen nach der Eröffnung durch Beschwerde bei der Kommission angefochten werden.
+<sup>2</sup> Die Einspracheentscheide und die Entscheide über den Erlass der Ersatzabgabe können innert 30 Tagen nach der Eröffnung durch Beschwerde bei der steuerrechtlichen Abteilung des Kantonsgerichts angefochten werden.
 
-<sup>3</sup> Die Entscheide der Kommission können innert 30 Tagen nach der Eröffnung mit Verwaltungsgerichtsbeschwerde beim Bundesgericht angefochten werden.
+<sup>3</sup> Die Entscheide der steuerrechtlichen Abteilung des Kantonsgerichts können innert 30 Tagen nach der Eröffnung beim Bundesgericht angefochten werden.
 
 <sup>4</sup> Die Revision eines rechtskräftigen Entscheides wird durch das Bundesrecht geregelt.
 
-### 3. Abschnitt: Strafbestimmungen
+## 3 Strafbestimmungen
 
 #### Art. 8
 
 **Strafbehörden**
 
-<sup>1</sup> Das Amt ist zuständig für das Ausfällen einer Busse als Folge einer Gesetzeswiderhandlung, wenn die Voraussetzungen der Verhängung einer Freiheitsstrafe nicht erfüllt sind (Art. 44 Abs. 2 WPEG).
+<sup>1</sup> Die Sektion ist zuständig für das Ausfällen einer Busse als Folge einer Gesetzeswiderhandlung, wenn die Voraussetzungen der Verhängung einer Freiheitsstrafe nicht erfüllt sind (Art. 44 Abs. 2 WPEG).
 
-<sup>2</sup> Der zuständige Strafuntersuchungsrichter beurteilt mittels Strafbefehl alle Widerhandlungen, welche eine Freiheitsstrafe von maximal sechs Monaten nach sich ziehen können.
+<sup>2</sup> Die Staatsanwaltschaft beurteilt mittels Strafbefehl alle Widerhandlungen, welche eine Freiheitsstrafe von maximal 6 Monaten nach sich ziehen können.
 
 <sup>3</sup> Der zuständige Bezirksrichter beurteilt Widerhandlungen im Falle einer Einsprache gegen den administrativen Strafentscheid oder den Strafbefehl.
 
-<sup>4</sup> Im übrigen sind die Bestimmungen der Strafprozessordnung über die materielle Zuständigkeit anwendbar.
+<sup>4</sup> …
 
 #### Art. 9
 
-**Verfahren**
+**…**
 
-<sup>1</sup> Das Verfahren wird durch das Bundesrecht geregelt.
-
-<sup>2</sup> Die kantonale Strafprozessordnung ist ergänzend anwendbar.
-
-### 4. Abschnitt: Aufhebungs- und Schlussbestimmungen
+## 4 Aufhebungs- und Schlussbestimmungen
 
 #### Art. 10
 
 **Aufhebung**
 
-Das Gesetz vom 12. Mai 1982 über die Vollziehung des Bundesgesetzes vom 12. Juni 1959 betreffend den Militärpflichtersatz, abgeändert am 22. Juni 1979 (Abänderung des Gesetzes vom 3. Juli 1961), wird mit dem Inkrafttreten des vorliegenden Gesetzes aufgehoben.
+<sup>1</sup> Das Gesetz vom 12. Mai 1982 über die Vollziehung des Bundesgesetzes vom 12. Juni 1959 betreffend den Militärpflichtersatz, abgeändert am 22. Juni 1979 (Abänderung des Gesetzes vom 3. Juli 1961), wird mit dem Inkrafttreten des vorliegenden Gesetzes aufgehoben.
 
 #### Art. 11
 
 **Inkrafttreten**
 
-<sup>1</sup> Das vorliegende Ausführungsgesetz, welches für die Anwendung übergeordneten Rechts absolut notwendig ist, unterliegt nicht dem Referendum.
+<sup>1</sup> …
 
 <sup>2</sup> Der Staatsrat bestimmt das Datum des Inkrafttretens des vorliegenden Gesetzes und sorgt für dessen Publikation im Amtsblatt.
 
-So angenommen in zweiter Lesung im Grossen Rat zu Sitten, den 11. Februar 1998.
+## T1 Übergangsbestimmung der Änderung vom 09.05.2019
 
-Der Präsident des Grossen Rates: Daniel Perruchoud Die Sekretäre: Hans-Peter Constantin, Grégoire Dayer
+#### Art. T1-1
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>1</sup> Für Verfahren, die bei Inkrafttreten dieses Gesetzes rechtshängig sind, gilt das bisherige Recht.
 
-**1.1.1999**
-
-AG zum BG über den Wehrpflichtersatz GS/VS 1998, 187 vom 11. Februar 1998
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 4. Dezember 2003: n.: Art. Abl. Nr. 52/2003 1.1.2004
-- [5] bis; n.W.: Art. 5 a.: aufgehoben; n.: neu; n.W.: neuer Wortlaut
+CSW RO/AGS 1998 f 174 | d 187
