@@ -3,11 +3,11 @@ sr: "172.211.21"
 title: Verordnung vom 18. November 2015 über das Informationssystem VIP-Service (IVIPS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/797"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-797-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-797-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20230901/de"
 
 (IVIPS-Verordnung)
 
-vom 18. November 2015 (Stand am 1. September 2023)
+vom 18. November 2015 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -136,7 +136,11 @@ Die folgenden Stellen können für die nachstehenden Zwecke alle Daten im IVIPS 
 
 <sup>3</sup> Die oder der Anwendungsverantwortliche bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern. Sie oder er ist beim Protokoll EDA angestellt.
 
-## 3. Abschnitt: Datenschutz und Informatiksicherheit
+## 3. Abschnitt: Datenschutz und Informationssicherheit
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Anhang 2 Ziff. II 10 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 10
 
@@ -152,17 +156,19 @@ Die folgenden Stellen können für die nachstehenden Zwecke alle Daten im IVIPS 
 
 <sup>1</sup>
 
-Die Daten- und die Informatiksicherheit richten sich nach:
+Die Daten- und die Informationssicherheit richten sich nach:[^11-1]
 
-- a.[^11-1] der Datenschutzverordnung vom 31. August 2022[^11-2];
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^11-3].[^11-4]
+- a.[^11-2] der Datenschutzverordnung vom 31. August 2022[^11-3];
+- b.[^11-4] der Informationssicherheitsverordnung vom 8. November 2023[^11-5].[^11-6]
 
 <sup>2</sup> Das Protokoll EDA erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
-[^11-1]: Fassung gemäss Anhang 2 Ziff. II 23 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^11-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-4]: Fassung gemäss Anhang Ziff. 7 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-1]: Fassung gemäss Anhang 2 Ziff. II 10 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-2]: Fassung gemäss Anhang 2 Ziff. II 23 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-4]: Fassung gemäss Anhang 2 Ziff. II 10 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^11-6]: Fassung gemäss Anhang Ziff. 7 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 4. Abschnitt: Aufbewahrung, Archivierung und Vernichtung von Daten
 

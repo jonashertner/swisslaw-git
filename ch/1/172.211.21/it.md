@@ -3,11 +3,11 @@ sr: "172.211.21"
 title: "Ordinanza del 18 novembre 2015 sul sistema d'informazione concernente il servizio VIP (Ordinanza SSVIP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/797"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-797-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-797-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20230901/it"
 
 (Ordinanza SSVIP)
 
-del 18 novembre 2015 (Stato 1° settembre 2023)
+del 18 novembre 2015 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -136,7 +136,11 @@ I seguenti servizi possono consultare tutti i dati nel SSVIP per gli scopi indic
 
 <sup>3</sup> Il responsabile dell’applicazione funge da interfaccia tra l’amministratore di sistema e gli utenti. È impiegato presso il Protocollo del DFAE.
 
-## Sezione 3: Protezione dei dati e sicurezza informatica
+## Sezione 3: Protezione dei dati e sicurezza delle informazioni
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta l’all. 2 n. II 10 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 10
 
@@ -152,17 +156,19 @@ I seguenti servizi possono consultare tutti i dati nel SSVIP per gli scopi indic
 
 <sup>1</sup>
 
-La sicurezza dei dati e la sicurezza informatica sono rette:
+La sicurezza dei dati e la sicurezza delle informazioni sono rette:[^11-1]
 
-- a.[^11-1] dall’ordinanza del 31 agosto 2022[^11-2] sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^11-3] sui ciber-rischi.[^11-4]
+- a.[^11-2] dall’ordinanza del 31 agosto 2022[^11-3] sulla protezione dei dati;
+- b.[^11-4] dall’ordinanza dell’8 novembre 2023[^11-5] sulla sicurezza delle informazioni.[^11-6]
 
 <sup>2</sup> Il Protocollo del DFAE emana un regolamento sul trattamento dei dati. Il regolamento disciplina le misure tecniche e organizzative volte ad assicurare la sicurezza dei dati e il controllo del trattamento dei dati.
 
-[^11-1]: Nuovo testo giusta l’all. 2 n. II 23 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^11-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-4]: Nuovo testo giusta l’all. n. 7 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-1]: Nuovo testo giusta l’all. 2 n. II 10 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-2]: Nuovo testo giusta l’all. 2 n. II 23 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-4]: Nuovo testo giusta l’all. 2 n. II 10 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^11-6]: Nuovo testo giusta l’all. n. 7 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 4: Conservazione, archiviazione e distruzione dei dati
 
