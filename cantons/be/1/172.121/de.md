@@ -3,20 +3,20 @@ canton: BE
 number: "172.121"
 title: Beschluss des Regierungsrates betreffend die amtliche Schreibweise der Gemeindenamen
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-08
 adopted: 1956-02-07
 in_force: 1956-02-07
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/172.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2761/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2897/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss des Regierungsrates betreffend die amtliche Schreibweise der Gemeindenamen
 
-vom 07.02.1956 (Stand 01.01.2023)
+vom 07.02.1956 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -72,9 +72,9 @@ beschliesst:
 - w Amtsbezirk Schwarzenburg: Guggisberg, Rüschegg, Schwarzenburg.
 - x Amtsbezirk Seftigen: Belp, Burgistein, Gerzensee, Gurzelen, Jaberg, Kaufdorf, Kehrsatz, Kirchdorf (BE), Niedermuhlern, Riggisberg, Rüeggisberg, Seftigen, Thurnen, Toffen, Uttigen, Wald (BE), Wattenwil.
 - y Amtsbezirk Signau: Eggiwil, Langnau im Emmental, Lauperswil, Röthenbach im Emmental, Rüderswil, Schangnau, Signau, Trub, Trubschachen.
-- z Amtsbezirk Thun: Amsoldingen, Blumenstein, Buchholterberg, Eriz, Fahrni [Fahrni bei Thun], Forst-Längenbühl, Heiligenschwendi, Heimberg, Hilterfingen, Homberg [Homberg bei Thun], Horrenbach-Buchen, Oberhofen am Thunersee, Oberlangenegg, Pohlern, Sigriswil, Steffisburg, Stocken-Höfen, Teuffenthal (BE) [Teuffenthal bei Thun], Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Wachseldorn, Zwieselberg.
+- z Amtsbezirk Thun: Amsoldingen, Blumenstein, Buchholterberg, Eriz, Fahrni [Fahrni bei Thun], Forst-Längenbühl, Heiligenschwendi, Heimberg, Hilterfingen, Homberg [Homberg bei Thun], Horrenbach-Buchen, Oberhofen am Thunersee, Oberlangenegg, Pohlern, Sigriswil, Steffisburg, Stocken-Höfen, Teuffenthal (BE) [Teuffenthal bei Thun], Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Wachseldorn.
 - aa Amtsbezirk Trachselwald: Affoltern im Emmental, Dürrenroth, Eriswil, Huttwil, Lützelflüh, Rüegsau, Sumiswald, Trachselwald, Walterswil (BE), Wyssachen.
-- ab Amtsbezirk Wangen: Attiswil, Berken, Bettenhausen, Farnern, Graben, Heimenhausen, Herzogenbuchsee, Inkwil, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Rumisberg, Seeberg, Thörigen, Walliswil bei Niederbipp, Walliswil bei Wangen, Wangen an der Aare, Wangenried, Wiedlisbach.
+- ab Amtsbezirk Wangen: Attiswil, Berken, Bettenhausen, Farnern, Graben, Heimenhausen, Herzogenbuchsee, Inkwil, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Rumisberg, Seeberg, Thörigen, Walliswil bei Niederbipp, Walliswil bei Wangen, Wangen an der Aare, Wiedlisbach.
 
 #### Art. 6
 

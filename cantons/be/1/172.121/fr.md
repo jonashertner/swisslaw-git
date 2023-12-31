@@ -3,20 +3,20 @@ canton: BE
 number: "172.121"
 title: "Arrêté du Conseil-exécutif concernant l'orthographe officielle des noms des communes"
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-08
 adopted: 1956-02-07
 in_force: 1956-02-07
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/172.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2761/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2897/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Conseil-exécutif concernant l'orthographe officielle des noms des communes
 
-du 07.02.1956 (état au 01.01.2023)
+du 07.02.1956 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -74,9 +74,9 @@ arrête:
 - w District de Schwarzenbourg: Guggisberg, Rüschegg, Schwarzenburg.
 - x District de Seftigen: Belp, Burgistein, Gerzensee, Gurzelen, Jaberg, Kaufdorf, Kehrsatz, Kirchdorf (BE), Niedermuhlern, Riggisberg, Rüeggisberg, Seftigen, Thurnen, Toffen, Uttigen, Wald (BE), Wattenwil.
 - y District de Signau: Eggiwil, Langnau im Emmental, Lauperswil, Röthenbach im Emmental, Rüderswil, Schangnau, Signau, Trub, Trubschachen.
-- z District de Thoune: Amsoldingen, Blumenstein, Buchholterberg, Eriz, Fahrni [Fahrni bei Thun], Forst-Längenbühl, Heiligenschwendi, Heimberg, Hilterfingen, Homberg [Homberg bei Thun], Horrenbach-Buchen, Oberhofen am Thunersee, Oberlangenegg, Pohlern, Sigriswil, Steffisburg, Stocken-Höfen, Teuffenthal (BE) [Teuffenthal bei Thun], Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Wachseldorn, Zwieselberg.
+- z District de Thoune: Amsoldingen, Blumenstein, Buchholterberg, Eriz, Fahrni [Fahrni bei Thun], Forst-Längenbühl, Heiligenschwendi, Heimberg, Hilterfingen, Homberg [Homberg bei Thun], Horrenbach-Buchen, Oberhofen am Thunersee, Oberlangenegg, Pohlern, Sigriswil, Steffisburg, Stocken-Höfen, Teuffenthal (BE) [Teuffenthal bei Thun], Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Wachseldorn.
 - aa District de Trachselwald: Affoltern im Emmental, Dürrenroth, Eriswil, Huttwil, Lützelflüh, Rüegsau, Sumiswald, Trachselwald, Walterswil (BE), Wyssachen.
-- ab District de Wangen: Attiswil, Berken, Bettenhausen, Farnern, Graben, Heimenhausen, Herzogenbuchsee, Inkwil, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Rumisberg, Seeberg, Thörigen, Walliswil bei Niederbipp, Walliswil bei Wangen, Wangen an der Aare, Wangenried, Wiedlisbach.
+- ab District de Wangen: Attiswil, Berken, Bettenhausen, Farnern, Graben, Heimenhausen, Herzogenbuchsee, Inkwil, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Rumisberg, Seeberg, Thörigen, Walliswil bei Niederbipp, Walliswil bei Wangen, Wangen an der Aare, Wiedlisbach.
 
 #### Art. 6
 
