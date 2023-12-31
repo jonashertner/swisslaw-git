@@ -4,13 +4,13 @@ number: "150"
 title: Gesetz über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons
 short: Personalgesetz
 language: de
-version: 2022-07-01
-valid_until: 2023-12-31
-version_adopted: 2019-06-27
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-01-26
 adopted: 1997-09-25
 in_force: 1998-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150"
-pdf: "https://bl.clex.ch/api/de/versions/3353/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3800/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3353/pdf_file"
 
 (Personalgesetz)
 
-Vom 25.09.1997 (Stand 01.07.2022)
+Vom 25.09.1997 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -116,7 +116,7 @@ beschliesst:[^ingress-2]
 - g. die Vereinbarkeit der beruflichen Tätigkeit mit Familienpflichten und ausserberuflichen Aktivitäten zum Wohl der Gesellschaft unterstützen;
 - h. die Chancengleichheit für alle gewährleisten;
 - i. das Angebot an Ausbildungsplätzen in den Arbeitsfeldern des Kantons und die aktive Zusammenarbeit mit Ausbildungsinstitutionen fördern;
-- j. die Beschäftigung und Eingliederung von Erwerbslosen und Menschen mit einer Leistungsbeeinträchtigung ermöglichen.
+- j. die Beschäftigung und Eingliederung von Erwerbslosen und Menschen mit Behinderungen ermöglichen und fördern.
 
 <sup>2</sup> Der Regierungsrat und das Kantonsgericht wirken auf eine einheitliche Personalpolitik hin und unterstützen sich dabei gegenseitig.
 
@@ -143,6 +143,19 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Die Mitarbeitenden sowie die Vorgesetzten fordern und fördern sich gegenseitig und setzen dabei auf Eigenverantwortung.
 
 <sup>3</sup> Die Vorgesetzten streben die Delegation von Aufgaben, Kompetenzen und Verantwortung an. Sie informieren die Mitarbeitenden frühzeitig und vollständig über Tatsachen und Vorhaben, die für deren Tätigkeit von Bedeutung sind.
+
+#### § 9a
+
+**Massnahmen zur Gleichstellung von Menschen mit einer Behinderung**
+
+<sup>1</sup> Der Kanton ergreift angemessene Massnahmen zur Gleichstellung von Menschen mit Behinderungen und sorgt insbesondere dafür:
+
+- a. den Anteil der Mitarbeitenden mit Behinderungen an der Gesamtzahl der Mitarbeitenden in der kantonalen Verwaltung zu erhöhen;
+- b. die Beschäftigung von Menschen mit Behinderungen in der kantonalen Verwaltung durch geeignete Strategien und Massnahmen zu fördern;
+- c. die notwendigen Anpassungen der Arbeitsplätze vorzunehmen;
+- d. geeignete Personalentwicklungsmassnahmen anzubieten.
+
+<sup>2</sup> Der Regierungsrat legt periodisch Zielvorgaben zur Gleichstellung von Menschen mit Behinderungen fest, deren Einhaltung durch die Anlaufstelle für die Rechte von Menschen mit Behinderungen geprüft wird.
 
 ### 1.4 Datenschutz
 
@@ -385,6 +398,15 @@ beschliesst:[^ingress-2]
 **Gesundheitsschutz**
 
 <sup>1</sup> Der Kanton trifft zum Schutze der Gesundheit seiner Mitarbeiterinnen und Mitarbeiter und zur Verhütung von Berufsunfällen und -krankheiten alle Massnahmen, die nach der Erfahrung notwendig, nach dem Stand der Technik möglich und den betrieblichen Verhältnissen angemessen sind.
+
+<sup>2</sup> Er bietet Mitarbeiterinnen und Mitarbeitern, die ihre Arbeit aufgrund einer Behinderung nicht weiter ausüben können, eine ihren Fähigkeiten entsprechende Beschäftigung bei der gleichen Direktion an, soweit dies mit verhältnismässigen Massnahmen möglich ist.
+
+<sup>3</sup> Die Begründung eines neuen Arbeitsverhältnisses gemäss Abs. 2 gilt als unverhältnismässig, wenn die Interessen an der Neuanstellung der Mitarbeiterinnen und Mitarbeiter mit Behinderungen in einem Missverhältnis stehen, insbesondere:
+
+- a. zum wirtschaftlichen Aufwand für die Direktion;
+- b. zum Aufwand für zusätzliche betriebliche Abläufe.
+
+<sup>4</sup> Das Nähere regelt die Verordnung.
 
 #### § 29
 
