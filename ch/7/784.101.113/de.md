@@ -3,18 +3,18 @@ sr: "784.101.113"
 title: Verordnung des BAKOM vom 9. Dezember 1997 über Fernmeldedienste und Adressierungselemente
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BAKOM über Fernmeldedienste und Adressierungselemente
 
-vom 9. Dezember 1997 (Stand am 1. Juli 2023)[^t-1]
+vom 9. Dezember 1997 (Stand am 1. Januar 2024)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 25. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
@@ -50,18 +50,18 @@ Anhang 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des BAKOM vom 10. Febr. 2009 ([AS 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), vom 18. Nov. 2020 ([AS 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), vom 23. Nov. 2022 ([AS 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)) und vom 19. Jan. 2023, in Kraft seit 1. Juli 2023 ([AS 2023 39](https://fedlex.data.admin.ch/eli/oc/2023/39)).
-[^annex1-lvlu1-1]: Der Inhalt der technischen und administrativen Vorschriften der Ziff. 1, 2, 4, 6, 7 und 9–11 wird in der AS nicht publiziert. Er kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen oder im Internet unter www.bakom.admin.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Telekommunikation abgerufen werden. Der Inhalt der technischen und administrativen Vorschriften der Ziff. 8, 12 und 13 wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/740](https://fedlex.data.admin.ch/eli/oc/2022/740) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Der Inhalt der technischen und administrativen Vorschriften der Ziff. 3 kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/39](https://fedlex.data.admin.ch/eli/oc/2023/39) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Bereinigt gemäss Ziff. I der V des BAKOM vom 10. Febr. 2009 ([AS 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), vom 18. Nov. 2020 ([AS 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), vom 23. Nov. 2022 ([AS 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), vom 19. Jan. 2023 ([AS 2023 39](https://fedlex.data.admin.ch/eli/oc/2023/39)) vom 15. März 2023 ([AS 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)) und vom 13 Juli 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)).
+[^annex1-lvlu1-1]: Der Inhalt der technischen und administrativen Vorschriften der Ziff. 1, 4, 7 und 10–11 wird in der AS nicht publiziert. Er kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen oder im Internet unter www.bakom.admin.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Telekommunikation abgerufen werden. Der Inhalt der technischen und administrativen Vorschriften der Ziff. 8, 12 und 13 wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/740](https://fedlex.data.admin.ch/eli/oc/2022/740) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Der Inhalt der technischen und administrativen Vorschriften der Ziff. 3 kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/39](https://fedlex.data.admin.ch/eli/oc/2023/39) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Der Inhalt der technischen und administrativen Vorschriften der Ziff. 2 und 6 kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/163](https://fedlex.data.admin.ch/eli/oc/2023/163) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Der Inhalt der technischen und administrativen Vorschriften der Ziff. 9 wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/385](https://fedlex.data.admin.ch/eli/oc/2023/385) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 - 1\. Technische und administrative Vorschriften betreffend die Verwaltung und Bereitstellung von Verzeichnisdaten der Anbieterinnen des öffentlichen Telefondienstes (Ausgabe 7)
-- 2\. Technische und administrative Vorschriften betreffend die Dienstqualität der Grundversorgung (Ausgabe 9)
+- 2\. Technische und administrative Vorschriften betreffend die Dienstqualität der Grundversorgung (Ausgabe 10)
 - 3\. Technische und administrative Vorschriften betreffend die Leitweglenkung und die Standortidentifikation der Notrufe (Ausgabe 17)
 - 4\. Technische und administrative Vorschriften betreffend Schnittstellen von Fernmeldenetzen und -diensten (Ausgabe 7)
 - 5\. …
-- 6\. Technische und administrative Vorschriften betreffend die Eigenschaften von Schnittstellen der Grundversorgung (Ausgabe 7)
+- 6\. Technische und administrative Vorschriften betreffend die Eigenschaften von Schnittstellen der Grundversorgung (Ausgabe 8)
 - 7\. Technische und administrative Vorschriften betreffend die Identifikation des anrufenden Anschlusses (Ausgabe 3)
 - 8\. Technische und administrative Vorschriften betreffend die Meldung von Netzstörungen (Ausgabe 2)
-- 9\. Technische und administrative Vorschriften betreffend die Veröffentlichung von Informationen über die Qualität von Fernmeldediensten (Ausgabe 1)
+- 9\. Technische und administrative Vorschriften betreffend die Veröffentlichung von Informationen über die Qualität von Fernmeldediensten (Ausgabe 2)
 - 10\. Technische und administrative Vorschriften betreffend Nummernportabilität zwischen Fernmeldedienstanbieterinnen (Ausgabe 1)
 - 11\. Technische und administrative Vorschriften betreffend die freie Wahl der Anbieterin für nationale und internationale Verbindungen (Ausgabe 1)
 - 12\. Technische und administrative Vorschriften betreffend unbefugte Manipulation von Fernmeldeanlagen durch fernmeldetechnische Übertragungen (Ausgabe 1)
