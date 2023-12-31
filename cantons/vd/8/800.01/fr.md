@@ -4,7 +4,7 @@ number: "800.01"
 title: LOI du 29.05.1985 sur la santé publique (LSP)
 short: LSP
 language: fr
-version: 2023-08-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762"
 ---
 
@@ -666,6 +666,8 @@ décrète
 <sup>2</sup> Dans la mesure où le droit fédéral n'est pas applicable, les dispositions du Code civil relatives aux mesures limitant la liberté de mouvement (art.383 ss CC [^23d-1] ) s'appliquent par analogie à toute mesure de contrainte à l'égard des patients et résidents, ainsi que des personnes qui se trouvent dans un établissement pénitentiaire à condition que celui-ci dispose de locaux adaptés et qu'une surveillance médicale soit assurée.
 
 <sup>3</sup> …
+
+<sup>4</sup> Sont réservés les articles 6g à 6i de la loi du 10 février 2004 sur les mesures d'aide et d'intégration pour les personnes handicapées.
 
 [^23c-1]: Modif. 13 du 19.03.2002: Introduction Art. 23d; entrée en vigueur au 01.01.2003 · Modif. 30 du 29.05.2012: Modification Al. 1-2; entrée en vigueur au 01.01.2013; Abrogation Al. 3; entrée en vigueur au 01.01.2013 · Modif. 37 du 21.11.2023: Introduction Al. 4; entrée en vigueur au 01.01.2024
 [^23d-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
