@@ -4,11 +4,11 @@ title: "Legge federale del 17 dicembre 2004 sulla sorveglianza delle imprese di 
 short: LSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/734"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2004-12-17
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-734-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-734-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20230101/it"
 
 (Legge sulla sorveglianza degli assicuratori, LSA)
 
-del 17 dicembre 2004 (Stato 1° gennaio 2023)
+del 17 dicembre 2004 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -30,13 +30,21 @@ decreta:
 
 ## Capitolo 1: Oggetto, scopo e campo d’applicazione
 
+### Sezione 1: Disposizioni generali
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
 #### Art. 1
 
 **Oggetto e scopo**
 
 <sup>1</sup> La presente legge disciplina la sorveglianza esercitata dalla Confederazione sulle imprese di assicurazione e sugli intermediari assicurativi.
 
-<sup>2</sup> La presente legge ha in particolare lo scopo di proteggere gli assicurati dai rischi d’insolvenza delle imprese di assicurazione e dagli abusi.
+<sup>2</sup> Ha in particolare lo scopo di proteggere gli assicurati, in funzione delle loro esigenze di protezione, dai rischi di insolvenza delle imprese di assicurazione e dagli abusi.[^1-1]
+
+[^1-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 2
 
@@ -46,10 +54,11 @@ decreta:
 
 Sottostanno alla sorveglianza secondo la presente legge:
 
-- a. le imprese di assicurazione svizzere che esercitano l’attività assicurativa diretta o riassicurativa;
+- a.[^2-1] le imprese di assicurazione con sede in Svizzera;
 - b. le imprese di assicurazione con sede all’estero per la loro attività assicurativa esercitata in Svizzera o a partire dalla Svizzera, fatte salve le disposizioni derogatorie contenute in trattati internazionali;
 - c. gli intermediari assicurativi;
-- d. i gruppi assicurativi e i conglomerati assicurativi.
+- d. i gruppi assicurativi e i conglomerati assicurativi;
+- e.[^2-2] le società veicolo di assicurazione con sede in Svizzera..
 
 <sup>2</sup>
 
@@ -57,8 +66,9 @@ Non sottostanno alla sorveglianza secondo la presente legge:
 
 - a. le imprese di assicurazione con sede all’estero che praticano in Svizzera soltanto la riassicurazione;
 - b. le imprese di assicurazione sottostanti a una sorveglianza speciale in virtù del diritto federale, entro i limiti di tale sorveglianza; sono considerati tali in particolare gli istituti di previdenza iscritti nel registro della previdenza professionale;
-- c. gli intermediari assicurativi che hanno un rapporto di dipendenza con uno stipulante, per quanto curino unicamente gli interessi di quest’ultimo e delle società da questo dominate;
-- d. [^2-1]
+- b<sup>bis</sup>.[^2-3] le imprese statali o garantite dallo Stato di assicurazione contro i rischi delle esportazioni estere;
+- . gli intermediari assicurativi che hanno un rapporto di dipendenza con uno stipulante, per quanto curino unicamente gli interessi di quest’ultimo e delle società da questo dominate;
+- d. [^2-4]
 
   le società cooperative di assicurazione esistenti il 1° gennaio 1993:
 
@@ -67,14 +77,89 @@ Non sottostanno alla sorveglianza secondo la presente legge:
   - 3\. che dal 1° gennaio 1993 non hanno mai registrato un volume annuo lordo dei premi superiore a 3 milioni di franchi,
   - 4\. la cui attività esercitata dal 1° gennaio 1993 è limitata al territorio svizzero,
   - 5\. che assicurano soltanto membri dell’associazione o della federazione a cui sono strettamente legate, e
-  - 6\. i cui assicurati sono i membri della società cooperativa di assicurazione con diritto di voto e, in virtù della loro qualità di membro, possono stabilire i premi e le prestazioni assicurativi
+  - 6\. i cui assicurati sono i membri della società cooperativa di assicurazione con diritto di voto e, in virtù della loro qualità di membro, possono stabilire i premi e le prestazioni assicurativi;
 
-<sup>3</sup> Se circostanze particolari lo giustificano, l’Autorità federale di vigilanza sui mercati finanziari (FINMA) può esonerare dalla sorveglianza le imprese di assicurazione la cui attività assicurativa è di esigua importanza economica o concerne solo una cerchia ristretta di assicurati.[^2-2]
+- e.[^2-5]
 
-<sup>4</sup> Il Consiglio federale definisce che cosa debba intendersi per esercizio di un’attività assicurativa in Svizzera.
+  le associazioni, le federazioni, le società cooperative e le fondazioni che stipulano con i propri membri, soci e destinatari contratti su operazioni aventi carattere di garanzia, in particolare attraverso fideiussioni o garanzie, se:
 
-[^2-1]: Introdotta dal n. I della LF del 12 dic. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1539](https://fedlex.data.admin.ch/eli/oc/2015/305); [FF 2014 5375](https://fedlex.data.admin.ch/eli/fga/2014/1364)[5397](https://fedlex.data.admin.ch/eli/fga/2014/1413)).
-[^2-2]: Nuovo testo giusta l’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+  - 1\. la loro attività è limitata al territorio svizzero, e
+  - 2\. l’utile realizzato è attribuito ai relativi partner contrattuali;
+
+- f.[^2-6] gli intermediari assicurativi, nella misura in cui offrono assicurazioni di esigua importanza e quali complemento di un prodotto o di un servizio.
+
+<sup>3</sup> ...[^2-7]
+
+<sup>4</sup>
+
+Il Consiglio federale disciplina:
+
+- a. che cosa debba intendersi per esercizio di un’attività assicurativa in Svizzera;
+- b. l’estensione della sorveglianza delle imprese di assicurazione con sede all’estero per l’attività assicurativa che esercitano a partire dalla Svizzera;
+- c. i criteri applicabili all’eccezione di cui al capoverso 2 lettera f.[^2-8]
+
+<sup>5</sup>
+
+Esso può:
+
+- a. assoggettare alla sorveglianza le succursali di imprese di assicurazione estere che esercitano in Svizzera o a partire dalla Svizzera soltanto l’attività riassicurativa, per quanto ciò sia necessario all’adempimento delle norme internazionali riconosciute; se l’impresa di riassicurazione estera è assoggettata a una sorveglianza adeguata all’estero, alla succursale in Svizzera è applicata una sorveglianza allentata;
+- b.
+
+  prevedere di esonerare totalmente o parzialmente dalla sorveglianza le imprese di assicurazione, in particolar modo per salvaguardare la capacità della piazza finanziaria svizzera di affrontare il futuro, e subordinare l’esonero a condizioni concernenti soprattutto la sede dell’impresa, le garanzie e gli obblighi d’informare, tenuto conto segnatamente:
+
+  - 1\. del modello aziendale,
+  - 2\. della limitata importanza economica e dei rischi esigui del prodotto assicurato per gli stipulanti interessati,
+  - 3\. del volume d’affari,
+  - 4\. della cerchia degli assicurati.[^2-9]
+
+[^2-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^2-2]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^2-3]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^2-4]: Introdotta dal n. I della LF del 12 dic. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1539](https://fedlex.data.admin.ch/eli/oc/2015/305); [FF 2014 5375](https://fedlex.data.admin.ch/eli/fga/2014/1364)[5397](https://fedlex.data.admin.ch/eli/fga/2014/1413)).
+[^2-5]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^2-6]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^2-7]: Abrogato dal n. I della LF del 18 mar. 2022, con effetto dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^2-8]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^2-9]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 2a
+
+**Società madri e società importanti del gruppo e del conglomerato**[^2a-1]
+
+<sup>1</sup>
+
+Sempre che nel quadro della vigilanza sul singolo istituto non soggiacciano alla competenza dell’Autorità federale di vigilanza sui mercati finanziari (FINMA) in materia di misure di protezione, misure in caso di pericolo di insolvenza e misure in caso di fallimento dell’impresa di assicurazione, sottostanno agli articoli 51–54*j* della presente legge:
+
+- a. le società madri di un gruppo o di un conglomerato domiciliate in Svizzera;
+- b. indipendentemente dall’esistenza di una sorveglianza di gruppi o di conglomerati, le società del gruppo o del conglomerato con sede in Svizzera che svolgono funzioni importanti per le attività soggette ad autorizzazione (società importanti del gruppo e del conglomerato).
+
+<sup>2</sup> Il Consiglio federale stabilisce i criteri per valutare l’importanza.
+
+<sup>3</sup> La FINMA designa le società importanti del gruppo e del conglomerato e ne stila un elenco. Quest’ultimo è accessibile al pubblico.
+
+[^2a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 2b
+
+**Rischi trasversali**[^2b-1]
+
+In adempimento alle norme internazionali, la FINMA può rilevare dati presso imprese di assicurazione nonché gruppi e conglomerati assicurativi, valutare tali dati e utilizzarli a fini di sorveglianza, in modo da identificare, nel quadro dell’analisi della stabilità finanziaria, i rischi che possono avere conseguenze materiali sul mercato finanziario.
+
+[^2b-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+### Sezione 2: Obblighi di imprese e persone esonerate dalla sorveglianza
+
+[^chap1-sec2-1]
+
+[^chap1-sec2-1]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 2c
+
+<sup>1</sup> Prima di stipulare un contratto d’assicurazione, le imprese di cui all’articolo 2 capoversi 2 lettera d e 5 informano lo stipulante riguardo al loro esonero dalla sorveglianza.
+
+<sup>2</sup> Prima di stipulare contratti su operazioni aventi carattere di garanzia, le persone di cui all’articolo 2 capoverso 2 lettera e informano i propri membri, soci e destinatari riguardo al loro esonero dalla sorveglianza.
+
+<sup>3</sup> Un’impresa di assicurazione sottoposta a sorveglianza che soddisfa le condizioni di esonero può essere esonerata dalla sorveglianza soltanto se ha concesso a tutti gli stipulanti il diritto di recedere dal contratto d’assicurazione. I premi già pagati per il periodo successivo al recesso devono essere rimborsati integralmente.
 
 ## Capitolo 2: Avvio dell’attività assicurativa
 
@@ -88,7 +173,7 @@ Non sottostanno alla sorveglianza secondo la presente legge:
 
 <sup>2</sup> L’autorizzazione è necessaria anche in caso di fusioni, scissioni e trasformazioni di imprese di assicurazione.
 
-[^3-1]: Nuova espr. giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-1]: Nuova espressione giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -110,7 +195,14 @@ Il piano d’esercizio deve contenere le indicazioni e i documenti seguenti:
 - h. il nominativo dell’attuario responsabile;
 - i.[^4-1] …
 - j. i contratti e altri accordi mediante i quali si intendono delegare a terzi funzioni essenziali dell’impresa di assicurazione;
-- k. i rami assicurativi previsti e il genere dei rischi da assicurare;
+- k.[^4-2]
+
+  i rami assicurativi previsti, il genere di rischi da assicurare e, se un’impresa di assicurazione intende usufruire delle agevolazioni previste in materia di sorveglianza, per ogni ramo assicurativo, se un’operazione deve essere conclusa:
+
+  - 1\. con stipulanti professionisti secondo l’articolo 30*a* capoverso 2,
+  - 2\. nell’ambito di un’assicurazione diretta o di una riassicurazione all’interno del gruppo secondo l’articolo 30*d* capoverso 2, o
+  - 3\. con stipulanti non professionisti;
+
 - l. se del caso, la dichiarazione concernente l’adesione all’Ufficio nazionale di assicurazione e al Fondo nazionale di garanzia;
 - m. indicazioni sui mezzi destinati ad adempiere prestazioni di assistenza, se si chiede un’autorizzazione per il ramo assicurativo «prestazioni di assistenza»;
 - n. il piano di riassicurazione e, per la riassicurazione attiva, il piano di retrocessione;
@@ -124,6 +216,7 @@ Il piano d’esercizio deve contenere le indicazioni e i documenti seguenti:
 <sup>4</sup> La FINMA può chiedere ulteriori indicazioni e documenti se necessari per decidere in merito alla domanda d’autorizzazione.
 
 [^4-1]: Abrogata dall’all. n. 9 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), con effetto dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^4-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 5
 
@@ -155,7 +248,9 @@ Il piano d’esercizio deve contenere le indicazioni e i documenti seguenti:
 
 **Forma giuridica**
 
-Le imprese di assicurazione sono costituite in società anonime o cooperative.
+Le imprese di assicurazione sono costituite in società anonime o cooperative. È fatta salva la corporazione di assicuratori denominata Lloyd’s di cui all’articolo 15*a*.[^7-1]
+
+[^7-1]: Per. introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 8
 
@@ -169,13 +264,53 @@ Le imprese di assicurazione sono costituite in società anonime o cooperative.
 
 #### Art. 9
 
-**Fondi propri**
+**Solvibilità**[^9-1]
 
-<sup>1</sup> L’impresa di assicurazione deve disporre di sufficienti fondi propri liberi e non gravati in riferimento all’insieme delle sue attività (margine di solvibilità).
+<sup>1</sup> Un’impresa di assicurazione deve disporre di sufficiente solvibilità.
 
-<sup>2</sup> Nel determinare il margine di solvibilità si tiene conto dei rischi ai quali è esposta l’impresa di assicurazione, dei rami assicurativi, del volume d’affari, del campo d’attività geografico e dei principi riconosciuti a livello internazionale.
+<sup>2</sup> La solvibilità è sufficiente se il capitale sopportante i rischi equivale almeno al capitale previsto.
 
-<sup>3</sup> Il Consiglio federale emana prescrizioni concernenti i fondi propri computabili. La FINMA emana prescrizioni concernenti il calcolo e l’ammontare necessario del margine di solvibilità.
+[^9-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 9a
+
+**Capitale sopportante i rischi e capitale previsto**[^9a-1]
+
+<sup>1</sup> Il capitale sopportante i rischi e il capitale previsto sono determinati sulla base di un bilancio globale che considera tutte le posizioni rilevanti e che è stabilito su una base conforme al mercato.
+
+<sup>2</sup> Il capitale sopportante i rischi corrisponde ai fondi in grado di assorbire le perdite.
+
+<sup>3</sup> Per la determinazione del capitale previsto vengono quantificati i rischi ai quali è esposta l’impresa di assicurazione. Sono determinanti i rischi assicurativi, di mercato e di credito.
+
+<sup>4</sup> Nel determinare il capitale previsto le variazioni di valore degli attivi e del capitale di terzi vanno considerate nella loro totalità.
+
+[^9a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 9b
+
+**Altre prescrizioni concernenti la solvibilità**[^9b-1]
+
+<sup>1</sup>
+
+Il Consiglio federale emana prescrizioni concernenti la solvibilità. Tenendo conto dei principi internazionalmente riconosciuti, disciplina in particolare:
+
+- a. il livello di protezione dai rischi d’insolvenza che l’impresa di assicurazione deve garantire ai propri assicurati attraverso la sua solvibilità;
+- b. il capitale sopportante i rischi, il capitale previsto e la loro determinazione, compresi i requisiti relativi ai modelli applicabili;
+- c. i valori soglia, al di sotto dei quali la FINMA può adottare le misure di cui all’articolo 51.
+
+<sup>2</sup> Il Consiglio federale può dichiarare rilevanti altre categorie di rischio oltre a quelle di cui all’articolo 9*a* capoverso 3. La FINMA può inoltre disporre, nel singolo caso, che un’impresa di assicurazione includa altre categorie di rischio.
+
+<sup>3</sup> Il Consiglio federale può delegare alla FINMA il disciplinamento dei dettagli di natura tecnica.
+
+[^9b-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 9c
+
+**Norme internazionali complementari sul capitale assicurativo**[^9c-1]
+
+In adempimento alle norme internazionali sul capitale, il Consiglio federale può, a complemento delle prescrizioni sulla solvibilità di cui agli articoli 9–9*b* o in alternativa a esse, imporre ulteriori sistemi relativi ai requisiti di capitalizzazione, segnatamente per i gruppi e i conglomerati assicurativi attivi a livello internazionale.
+
+[^9c-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 10
 
@@ -189,11 +324,18 @@ Le imprese di assicurazione sono costituite in società anonime o cooperative.
 
 #### Art. 11
 
-**Scopo dell’impresa**
+**Attività accessorie all’attività assicurativa**[^11-1]
 
-<sup>1</sup> Un’impresa di assicurazione può esercitare, oltre agli affari assicurativi, soltanto attività che vi sono direttamente connesse.
+<sup>1</sup>
 
-<sup>2</sup> La FINMA può autorizzare l’esercizio di altre attività, purché non siano pregiudizievoli per gli interessi degli assicurati.
+Oltre all’attività assicurativa, le imprese di assicurazione possono:
+
+- a. esercitare attività connesse con l’attività assicurativa;
+- b. con l’autorizzazione della FINMA, esercitare attività non connesse con l’attività assicurativa.
+
+<sup>2</sup> Il Consiglio federale disciplina i dettagli tenendo conto segnatamente dei rischi inerenti all’attività per l’impresa di assicurazione e per gli stipulanti.
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 12
 
@@ -211,39 +353,74 @@ L’impresa che intende esercitare l’attività nel ramo assicurativo della res
 
 #### Art. 14
 
-**Garanzia di un’attività irreprensibile**
+**Garanzia di un’attività irreprensibile**[^14-1]
 
 <sup>1</sup>
 
-Le imprese di assicurazione e le seguenti persone devono offrire la garanzia di un’attività irreprensibile:[^14-1]
+Le imprese di assicurazione e le seguenti persone devono offrire la garanzia di un’attività irreprensibile:
 
-- a. le persone incaricate della direzione generale, della sorveglianza e del controllo, nonché le persone responsabili della gestione;
+- a. le persone incaricate della direzione generale, della sorveglianza e del controllo, nonché le persone incaricate della gestione;
 - b. per le imprese di assicurazione estere, il mandatario generale.
 
-<sup>1bis</sup> Le persone di cui al capoverso 1 devono inoltre godere di buona reputazione.[^14-2]
+<sup>2</sup> Le persone di cui al capoverso 1 devono inoltre godere di buona reputazione.
 
-<sup>2</sup> Il Consiglio federale stabilisce le qualifiche professionali che devono avere le persone di cui al capoverso 1.
+<sup>3</sup> Le persone che detengono una partecipazione qualificata in un’impresa di assicurazione secondo l’articolo 4 capoverso 2 lettera f devono parimenti godere di buona reputazione e garantire che l’influenza da loro esercitata non pregiudichi una gestione sana e prudente.
 
-<sup>3</sup> In caso di delega di funzioni essenziali dell’impresa di assicurazione ad altre persone, il capoverso 1 si applica per analogia.
+<sup>4</sup> Il Consiglio federale stabilisce le qualifiche professionali che devono avere le persone di cui al capoverso 1.
 
-[^14-1]: Nuovo testo giusta l’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-2]: Introdotto dall’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+<sup>5</sup> In caso di delega di funzioni essenziali dell’impresa di assicurazione ad altre persone, i capoversi 1 e 2 si applicano per analogia.
+
+[^14-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 14a
+
+**Prevenzione di conflitti di interessi**[^14a-1]
+
+<sup>1</sup> Le imprese di assicurazione adottano provvedimenti organizzativi adeguati per evitare conflitti di interessi che possono risultare dalla fornitura di servizi assicurativi o per escludere che tali conflitti arrechino pregiudizio agli stipulanti.
+
+<sup>2</sup> Se non può essere escluso un pregiudizio nei confronti degli stipulanti, l’impresa di assicurazione glielo comunica prima della conclusione del contratto d’assicurazione.
+
+<sup>3</sup> Il Consiglio federale può disciplinare i dettagli; in particolare può designare i comportamenti inammissibili in ogni caso a causa di conflitti di interessi.
+
+[^14a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Sezione 3: Condizioni complementari per le imprese di assicurazione estere
 
 #### Art. 15
 
+**In generale**[^15-1]
+
 <sup>1</sup>
 
-Un’impresa di assicurazione estera che intende esercitare un’attività assicurativa in Svizzera deve:
+Un’impresa di assicurazione estera che intende esercitare un’attività assicurativa in Svizzera, oltre alle condizioni di cui agli articoli 7–14*a*, deve adempiere le condizioni seguenti:
 
 - a. essere autorizzata a esercitare l’attività assicurativa nel suo Stato di sede;
-- b. istituire una succursale in Svizzera e nominare un mandatario generale quale direttore;
-- c. disporre, presso la sua sede principale, di un capitale secondo l’articolo 8 e di un margine di solvibilità secondo l’articolo 9, comprendente anche l’attività in Svizzera;
+- b. istituire una succursale in Svizzera, farla iscrivere nel registro di commercio e nominare un mandatario generale quale direttore;
+- c. disporre, presso la sua sede principale, di un capitale secondo l’articolo 8 e presentare una solvibilità sufficiente ai sensi degli articoli 9–9*c*, comprendente anche l’attività in Svizzera;
 - d. disporre, in Svizzera, di un fondo d’organizzazione secondo l’articolo 10 e dei corrispondenti elementi patrimoniali;
-- e. depositare in Svizzera una cauzione corrispondente a una determinata frazione del margine di solvibilità relativo agli affari svizzeri. La FINMA stabilisce tale frazione e determina il calcolo, il luogo di custodia e gli elementi patrimoniali computabili.
+- e. depositare in Svizzera una cauzione corrispondente a una determinata frazione del volume d’affari svizzero.
 
-<sup>2</sup> Sono fatte salve le disposizioni contrarie contenute in trattati internazionali.
+<sup>2</sup> La FINMA stabilisce la frazione del volume d’affari svizzero ai sensi del capoverso 1 lettera e e determina il calcolo della cauzione, il relativo luogo di custodia e gli elementi patrimoniali computabili.
+
+<sup>3</sup> Sono fatte salve le disposizioni derogatorie contenute nei trattati internazionali.
+
+[^15-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 15a
+
+**Corporazione di assicuratori denominata Lloyd’s**[^15a-1]
+
+<sup>1</sup> Le pretese e i crediti derivanti da contratti d’assicurazione del portafoglio svizzero degli assicuratori Lloyd’s partecipanti al contratto sono fatti valere per il tramite o nei confronti del mandatario generale di Lloyd’s per la Svizzera.
+
+<sup>2</sup> Il mandatario generale di Lloyd’s per la Svizzera ha qualità di parte, al posto degli assicuratori Lloyd’s partecipanti al contratto, in tutti i procedimenti di diritto civile e di diritto dell’esecuzione forzata relativi a pretese e crediti derivanti da contratti d’assicurazione.
+
+<sup>3</sup> Le decisioni emanate in un procedimento relativo a pretese e crediti derivanti da contratti d’assicurazione producono effetti in favore o nei confronti di tutti gli assicuratori Lloyd’s partecipanti al contratto d’assicurazione.
+
+<sup>4</sup> L’esecuzione di una decisione emanata nei confronti del mandatario generale di Lloyd’s per la Svizzera può anche essere estesa agli elementi patrimoniali localizzati in Svizzera di tutti gli assicuratori raggruppati in Lloyd’s.
+
+<sup>5</sup> Il mandatario generale di Lloyd’s per la Svizzera ha qualità di parte, al posto degli assicuratori Lloyd’s partecipanti al contratto, in tutti i procedimenti di diritto amministrativo. Salvo decisione contraria della FINMA, gli atti, le comunicazioni e le decisioni della FINMA destinati alla succursale svizzera di Lloyd’s hanno effetti nei confronti della succursale e dei relativi assicuratori.
+
+[^15a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ## Capitolo 3: Esercizio dell’attività assicurativa
 
@@ -263,7 +440,9 @@ Un’impresa di assicurazione estera che intende esercitare un’attività assic
 
 <sup>1</sup> L’impresa di assicurazione deve costituire un patrimonio vincolato destinato a garantire le pretese derivanti dai contratti d’assicurazione.
 
-<sup>2</sup> L’impresa di assicurazione non è tenuta a garantire secondo il capoverso 1 i suoi portafogli esteri per i quali deve costituire garanzie equivalenti all’estero.
+<sup>2</sup> Per i portafogli delle succursali estere di imprese di assicurazione con sede in Svizzera non può essere costituito un patrimonio vincolato. Il patrimonio vincolato costituito secondo il capoverso 1 non può essere utilizzato per la garanzia di tali portafogli.[^17-1]
+
+[^17-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 18
 
@@ -281,9 +460,11 @@ L’importo legale del patrimonio vincolato corrisponde alle riserve tecniche di
 
 #### Art. 20
 
-**Prescrizioni concernenti il patrimonio vincolato**
+**Prescrizioni concernenti il patrimonio vincolato**[^20-1]
 
-Il Consiglio federale emana prescrizioni concernenti la costituzione, la localizzazione, la copertura, i cambiamenti e il controllo del patrimonio vincolato. Esso può delegare alla FINMA il disciplinamento dei particolari tecnici.
+Il Consiglio federale emana prescrizioni concernenti in particolare la costituzione, la localizzazione, la copertura, i cambiamenti e il controllo del patrimonio vincolato. A tal fine tiene conto del principio di prudenza. Può autorizzare la FINMA a disciplinare i dettagli di natura tecnica.
+
+[^20-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 21
 
@@ -293,9 +474,11 @@ Il Consiglio federale emana prescrizioni concernenti la costituzione, la localiz
 
 <sup>2</sup> Chiunque intende partecipare direttamente o indirettamente a un’impresa di assicurazione con sede in Svizzera deve notificarlo alla FINMA se la partecipazione raggiunge o supera il 10, 20, 33 o 50 per cento del capitale o dei diritti di voto dell’impresa di assicurazione.
 
-<sup>3</sup> Chiunque intende ridurre la propria partecipazione a un’impresa di assicurazione con sede in Svizzera sotto le soglie del 10, 20, 33 o 50 per cento del capitale o dei diritti di voto oppure intende modificare la partecipazione in modo tale che l’impresa di assicurazione cessi di essere sua filiale, deve notificarlo alla FINMA.
+<sup>3</sup> Chiunque intende ridurre la propria partecipazione diretta o indiretta a un’impresa di assicurazione con sede in Svizzera sotto le soglie del 10, 20, 33 o 50 per cento del capitale o dei diritti di voto oppure intende modificare la partecipazione in modo tale che l’impresa di assicurazione cessi di essere sua filiale, deve notificarlo alla FINMA.[^21-1]
 
 <sup>4</sup> La FINMA può proibire o subordinare a condizioni una partecipazione suscettibile di pregiudicare, per il suo genere e la sua entità, l’impresa di assicurazione o gli interessi degli assicurati.
+
+[^21-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Sezione 2: Gestione dei rischi
 
@@ -309,6 +492,16 @@ Il Consiglio federale emana prescrizioni concernenti la costituzione, la localiz
 
 [^22-1]: Nuovo testo giusta l’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^22-2]: Introdotto dall’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+#### Art. 22a
+
+**Piani di stabilizzazione**[^22a-1]
+
+<sup>1</sup> La FINMA può esigere che un’impresa di assicurazione secondo l’articolo 2 capoverso 1 lettera a avente importanza economica elabori un piano di stabilizzazione. L’impresa di assicurazione vi indica le misure con cui intende assicurare durevolmente la propria stabilità in caso di crisi così da poter proseguire l’attività in modo indipendente o attraverso un finanziamento privato da parte di terzi.
+
+<sup>2</sup> Il Consiglio federale stabilisce i criteri secondo cui un’impresa di assicurazione è considerata di importanza economica secondo il capoverso 1 e quelli in base ai quali la FINMA decide se può esigere che un’impresa di assicurazione elabori un piano di stabilizzazione.
+
+[^22a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Sezione 3: Attuario responsabile
 
@@ -328,17 +521,29 @@ Il Consiglio federale emana prescrizioni concernenti la costituzione, la localiz
 
 <sup>1</sup>
 
-L’attuario responsabile assicura che:
+L’attuario responsabile assicura:
 
-- a. il margine di solvibilità sia calcolato correttamente e il patrimonio vincolato sia conforme alle prescrizioni del diritto di sorveglianza;
-- b. le basi attuariali utilizzate siano appropriate; e
-- c. siano costituite riserve tecniche sufficienti.
+- a.
+
+  in base a calcoli attuariali appropriati, il calcolo e la determinazione:
+
+  - 1\. degli impegni di bilancio a valori di mercato o a valori conformi al mercato,
+  - 2\. dei rischi assicurativi nel quadro della solvibilità ai sensi degli articoli 9–9*c*,
+  - 3\. delle riserve tecniche di cui all’articolo 16;
+
+- b. la verifica affinché l’importo legale del patrimonio vincolato sia conforme alle prescrizioni del diritto in materia di sorveglianza.[^24-1]
 
 <sup>2</sup> Se constata insufficienze, l’attuario responsabile ne informa senza indugio la direzione dell’impresa di assicurazione.
 
 <sup>3</sup> L’attuario responsabile allestisce inoltre periodicamente un rapporto a destinazione della direzione o, nel caso delle imprese di assicurazione estere, del mandatario generale. Per quanto riguarda le insufficienze constatate, vi indica i provvedimenti proposti e quelli effettivamente adottati.
 
-<sup>4</sup> La FINMA emana prescrizioni di dettaglio concernenti i compiti dell’attuario responsabile e il contenuto del rapporto.
+<sup>3bis</sup> L’attuario responsabile può rivolgersi direttamente al consiglio di amministrazione.[^24-2]
+
+<sup>4</sup> La FINMA emana prescrizioni di dettaglio concernenti i compiti dell’attuario responsabile e il contenuto del rapporto di cui al capoverso 3.[^24-3]
+
+[^24-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^24-2]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^24-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Sezione 4: Rapporti
 
@@ -350,15 +555,24 @@ L’attuario responsabile assicura che:
 
 <sup>2</sup> Le imprese di assicurazione allestiscono inoltre un rapporto di sorveglianza annuo. La FINMA stabilisce le esigenze che deve adempiere tale rapporto e determina le informazioni e i documenti da allegarvi.
 
-<sup>3</sup> Le imprese di assicurazione presentano alla FINMA il rapporto di gestione e il rapporto di sorveglianza sull’esercizio trascorso, al più tardi il 30 aprile successivo. Le imprese di assicurazione che esercitano esclusivamente l’attività riassicurativa li presentano al più tardi il 30 giugno.
+<sup>3</sup> Le imprese di assicurazione presentano alla FINMA il rapporto di gestione e il rapporto di sorveglianza sull’esercizio trascorso, al più tardi il 30 aprile successivo.[^25-2]
 
 <sup>4</sup> Per le loro attività in Svizzera, le imprese di assicurazione estere presentano un rapporto di gestione distinto e un rapporto di sorveglianza distinto sull’esercizio trascorso.
 
-<sup>5</sup> Il conto annuale è pubblicato nel rapporto della FINMA (art. 48).
+<sup>5</sup>
 
-<sup>6</sup> La FINMA può ordinare che i rapporti siano presentati a scadenze inferiori a un anno. Essa può inoltre definire requisiti particolari per il rapporto di gestione.
+La FINMA può:
+
+- a. ordinare che i rapporti siano presentati a scadenze inferiori a un anno;
+- b. definire requisiti particolari per il rapporto di gestione;
+- c. pubblicare dati relativi al rapporto annuale, al mercato assicurativo e alla trasparenza.[^25-3]
+
+<sup>6</sup> Nella pubblicazione dei dati di cui al capoverso 5 lettera c la FINMA tiene conto di quanto reso pubblico dalle imprese di assicurazione e della necessità d’informazione degli assicurati e dell’opinione pubblica.[^25-4]
 
 [^25-1]: Nuovo testo giusta l’all. n. 9 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^25-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^25-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^25-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 26
 
@@ -368,7 +582,7 @@ L’attuario responsabile assicura che:
 
 <sup>2</sup> Le spese di costituzione, aumento del capitale e organizzazione sono addebitate al fondo d’organizzazione per l’esercizio durante il quale si producono.
 
-<sup>3</sup> Il Consiglio federale può derogare alle disposizioni del Codice delle obbligazioni[^26-2] concernenti la contabilità commerciale e la presentazione dei conti se le particolarità dell’attività assicurativa o la protezione degli assicurati lo giustificano e la situazione economica è esposta in modo equivalente.
+<sup>3</sup> Il Consiglio federale può derogare alle disposizioni del Codice delle obbligazioni (CO)[^26-2] concernenti la contabilità commerciale e la presentazione dei conti se le particolarità dell’attività assicurativa o la protezione degli assicurati lo giustificano e la situazione economica è esposta in modo equivalente.[^26-3]
 
 <sup>4</sup> Il Consiglio federale può autorizzare l’autorità di sorveglianza a emanare disposizioni di esecuzione negli ambiti di portata ridotta, segnatamente negli ambiti prevalentemente tecnici.
 
@@ -376,6 +590,7 @@ L’attuario responsabile assicura che:
 
 [^26-1]: Nuovo testo giusta l’all. n. 9 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 [^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^26-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Sezione 5: Verifica *(audit)*
 
@@ -385,16 +600,11 @@ L’attuario responsabile assicura che:
 
 #### Art. 27
 
-**Vigilanza interna sugli affari**
+**Vigilanza interna sulle attività**[^27-1]
 
-<sup>1</sup> L’impresa di assicurazione istituisce un sistema efficace di controllo interno che ingloba tutti gli affari. Essa nomina inoltre un ufficio di revisione interno indipendente dalla gestione (ispettorato).[^27-1]
+L’impresa di assicurazione istituisce un sistema efficace di controllo interno che ingloba tutte le attività. Essa nomina inoltre un organo di revisione interno indipendente dalla gestione.
 
-<sup>2</sup> In singoli casi giustificati, la FINMA può esonerare un’impresa di assicurazione dall’obbligo di istituire un ispettorato.
-
-<sup>3</sup> …[^27-2]
-
-[^27-1]: Nuovo testo del per. giusta l’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^27-2]: Abrogato dall’all. n. 9 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), con effetto dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^27-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 28
 
@@ -402,12 +612,13 @@ L’attuario responsabile assicura che:
 
 <sup>1</sup> L’impresa di assicurazione incarica una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori conformemente all’articolo 9*a* capoverso 1 della legge del 16 dicembre 2005[^28-2] sui revisori di effettuare una verifica conformemente all’articolo 24 della legge del 22 giugno 2007[^28-3] sulla vigilanza dei mercati finanziari.
 
-<sup>2</sup> L’impresa di assicurazione deve sottoporre il suo conto annuale ed eventualmente il suo conto di gruppo alla revisione di un’impresa di revisione sotto sorveglianza statale secondo i principi della revisione ordinaria del Codice delle obbligazioni[^28-4].
+<sup>2</sup> L’impresa di assicurazione deve sottoporre il suo conto annuale ed eventualmente il suo conto di gruppo alla revisione di un’impresa di revisione sotto sorveglianza statale secondo i principi della revisione ordinaria del CO[^28-4].[^28-5]
 
 [^28-1]: Nuovo testo giusta l’all. n. 9 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^28-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^28-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^28-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^28-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 29
 
@@ -425,6 +636,115 @@ La società di audit notifica senza indugio alla FINMA le seguenti constatazioni
 - b. gravi irregolarità;
 - c. violazione dei principi di un’attività irreprensibile;
 - d. fatti suscettibili di compromettere la solvibilità dell’impresa di assicurazione o gli interessi degli assicurati.
+
+### Sezione 5*a*: Imprese di assicurazione che assicurano stipulanti professionisti, nonché assicurazione diretta e riassicurazione all’interno del gruppo
+
+[^chap3-sec5a-1]
+
+[^chap3-sec5a-1]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 30a
+
+**Imprese di assicurazione che assicurano stipulanti professionisti: agevolazioni**
+
+<sup>1</sup> Se un’impresa di assicurazione che assicura esclusivamente stipulanti professionisti ne fa richiesta, la FINMA la esonera dal rispetto degli articoli 10, 17–20, 52*e* capoverso 2 e 54*a*<sup>bis</sup>.
+
+<sup>2</sup> Sono stipulanti professionisti le persone di cui all’articolo 98*a* capoverso 2 lettere b–g della legge del 2 aprile 1908[^30a-1] sul contratto d’assicurazione (LCA).
+
+<sup>3</sup> Se un’impresa di assicurazione assicura sia stipulanti professionisti che stipulanti non professionisti, il capoverso 1 si applica soltanto all’attività esercitata con stipulanti professionisti.
+
+<sup>4</sup> Le disposizioni di cui al capoverso 1 rimangono in ogni caso applicabili, se dall’attività con stipulanti professionisti potrebbero sorgere pretese derivanti da assicurazioni obbligatorie in favore di stipulanti non professionisti. Se assicura rischi in materia di previdenza professionale, l’impresa di assicurazione è inoltre tenuta a costituire in ogni caso un patrimonio vincolato.
+
+[^30a-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 30b
+
+**Imprese di assicurazione che assicurano stipulanti professionisti: obbligo di chiarimento e di documentazione**
+
+L’impresa di assicurazione che usufruisce delle agevolazioni di cui all’articolo 30*a* chiarisce e documenta lo status degli stipulanti professionisti prima della conclusione del contratto.
+
+#### Art. 30c
+
+**Imprese di assicurazione che assicurano stipulanti professionisti: obbligo d’informare**
+
+<sup>1</sup> L’impresa di assicurazione che assicura stipulanti professionisti li informa che sono considerati stipulanti professionisti e delle conseguenze giuridiche che ne derivano, segnatamente se le loro pretese non sono garantite da un patrimonio vincolato.
+
+<sup>2</sup> Tali informazioni sono fornite agli stipulanti professionisti in modo tale che questi possano venirne a conoscenza quando accettano il contratto d’assicurazione.
+
+<sup>3</sup> In caso di violazione di questo obbligo d’informare, l’articolo 3*a* LCA[^30c-1] si applica per analogia.
+
+[^30c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 30d
+
+**Assicurazione diretta e riassicurazione all’interno del gruppo**
+
+<sup>1</sup> Gli articoli 10, 13, 15 capoverso 1 lettera d, 17–20, 32–34, 36–39, 52*e* capoverso 2, 54*a*<sup>bis</sup>, 57–59 e 62 non sono applicabili alle imprese di assicurazione che esercitano l’assicurazione diretta e la riassicurazione all’interno del gruppo (imprese «captive»).
+
+<sup>2</sup>
+
+Sono considerate imprese di assicurazione di cui al capoverso 1 le imprese di assicurazione che:
+
+- a. fanno parte di un’impresa, di un gruppo di imprese o di un conglomerato che altrimenti non esercita l’attività assicurativa; e
+- b. assicurano o riassicurano i rischi di tale impresa, di tale gruppo o di tale conglomerato.
+
+<sup>3</sup> Se, oltre all’assicurazione diretta e alla riassicurazione all’interno del gruppo, una tale impresa di assicurazione esercita attività con terzi, il capoverso 1 si applica soltanto all’assicurazione diretta e alla riassicurazione all’interno del gruppo.
+
+<sup>4</sup> Le disposizioni di cui al capoverso 1 rimangono in ogni caso applicabili se dai contratti d’assicurazione conclusi dalle imprese di assicurazione di cui a tale capoverso potrebbero sorgere pretese derivanti da assicurazioni obbligatorie in favore di stipulanti non professionisti.
+
+### Sezione 5*b*: Società veicolo di assicurazione
+
+[^chap3-sec5b-1]
+
+[^chap3-sec5b-1]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 30e
+
+**Definizione**
+
+<sup>1</sup>
+
+È considerata società veicolo di assicurazione un’impresa che:
+
+- a. non è un’impresa di assicurazione;
+- b. assume i rischi di un’impresa di assicurazione; e
+- c. garantisce interamente i rischi attraverso l’emissione di strumenti finanziari le cui pretese di rimborso o di versamento del detentore o del creditore sono subordinate agli impegni assunti dalla società veicolo di assicurazione per assumere i rischi.
+
+<sup>2</sup> Alle società veicolo di assicurazione si applicano per analogia le disposizioni della presente legge.
+
+<sup>3</sup>
+
+Le società veicolo di assicurazione devono in particolare:
+
+- a. definire esattamente il loro campo d’attività e prevedere un’organizzazione adeguata;
+- b. disporre di una gestione dei rischi strutturata in modo adeguato e di un controllo interno efficace, che garantiscano segnatamente il rispetto delle disposizioni di legge e di quelle interne all’impresa (conformità alle norme);
+- c. disporre di mezzi finanziari adeguati;
+- d. assicurare che le persone incaricate dell’amministrazione e della gestione godano di buona reputazione e offrano la garanzia di un’attività irreprensibile.
+
+#### Art. 30f
+
+**Gruppi di rischio**
+
+<sup>1</sup> Il patrimonio complessivo delle società veicolo di assicurazione comprende il patrimonio sociale e il patrimonio di rischio. Il patrimonio di rischio costituisce un gruppo di rischio o si articola in più gruppi di rischio. Ogni gruppo di rischio è gestito in modo indipendente sotto il profilo contabile ed economico e costituisce un segmento patrimoniale giuridicamente indipendente. Un gruppo di rischio fa riferimento a un rischio specifico che la società veicolo di assicurazione assume per una determinata impresa di assicurazione e che garantisce interamente attraverso l’emissione di appositi strumenti finanziari.
+
+<sup>2</sup> La responsabilità della società veicolo di assicurazione per gli impegni di un gruppo di rischio è limitata al segmento patrimoniale di tale gruppo di rischio. Ogni gruppo di rischio risponde soltanto dei propri impegni.
+
+<sup>3</sup>
+
+In caso di fallimento di una società veicolo di assicurazione, i beni e i diritti appartenenti a un gruppo di rischio sono scorporati. È fatto salvo il diritto della società veicolo di assicurazione:
+
+- a. alle rimunerazioni previste contrattualmente;
+- b. alla liberazione dagli impegni assunti nell’esecuzione regolare dei suoi compiti per un gruppo di rischio;
+- c. al rimborso degli oneri sostenuti per adempiere tali impegni.
+
+<sup>4</sup> Il ricavato della realizzazione del segmento patrimoniale di un gruppo di rischio serve in primo luogo a coprire i crediti derivanti dagli impegni assunti per assicurare i rischi di tale gruppo. L’eccedenza viene ripartita proporzionalmente tra detentori o creditori di strumenti finanziari di tale gruppo di rischio secondo l’articolo 30*e* capoverso 1 lettera c.
+
+<sup>5</sup>
+
+Il Consiglio federale emana disposizioni:
+
+- a. sulla costituzione, l’organizzazione e la dissoluzione di gruppi di rischio;
+- b. sugli investimenti, la contabilità, la presentazione dei conti e la revisione in relazione ai gruppi di rischio.
 
 ### Sezione 6: Disposizioni particolari per singoli rami assicurativi
 
@@ -494,11 +814,17 @@ Le imprese di assicurazione che esercitano l’assicurazione di responsabilità 
 
 #### Art. 35
 
-**Riassicurazione**
+**Riassicurazione**[^35-1]
 
-<sup>1</sup> Gli articoli 15, 17–20, 32–34, 36, 37, 55–59 e 62 non sono applicabili alle imprese di assicurazione che esercitano esclusivamente la riassicurazione.
+<sup>1</sup> Gli articoli 10, 13, 15, 17–20, 32–34, 36–39, 52*e* capoverso 2, 54*a*<sup>bis</sup>, 57–59 e 62 non sono applicabili alle imprese di assicurazione che esercitano esclusivamente la riassicurazione.
 
-<sup>2</sup> Le altre disposizioni si applicano per analogia.
+<sup>2</sup> Se un’impresa di assicurazione esercita sia l’assicurazione diretta che la riassicurazione, l’inapplicabilità delle disposizioni di cui al capoverso 1 concerne soltanto l’attività di riassicurazione.
+
+<sup>3</sup> Le altre disposizioni si applicano per analogia. Vanno prese in considerazione le minori esigenze di protezione della riassicurazione e le specificità del suo modello aziendale. Il Consiglio federale disciplina i particolari.
+
+<sup>4</sup> Le imprese di riassicurazione più piccole e meno complesse sono sottoposte a una sorveglianza allentata. Il Consiglio federale disciplina i particolari.
+
+[^35-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 36
 
@@ -506,7 +832,7 @@ Le imprese di assicurazione che esercitano l’assicurazione di responsabilità 
 
 <sup>1</sup> Per le imprese di assicurazione che esercitano l’assicurazione diretta individuale o collettiva sulla vita e devono adempiere contratti d’assicurazione sulla vita con un interesse garantito, il Consiglio federale emana prescrizioni concernenti la determinazione del tasso d’interesse tecnico massimo.
 
-<sup>2</sup> Le imprese di assicurazione che esercitano l’assicurazione diretta individuale o collettiva sulla vita e devono adempiere contratti d’assicurazione sulla vita con partecipazione alle eccedenze consegnano annualmente agli assicurati un conteggio verificabile sulla partecipazione alle eccedenze. Dal conteggio deve essere desumibile in particolare su quali basi siano state calcolate le eccedenze e in virtù di quali principi siano state distribuite.
+<sup>2</sup> Le imprese di assicurazione che esercitano l’assicurazione diretta individuale o collettiva sulla vita e devono adempiere contratti d’assicurazione sulla vita con partecipazione alle eccedenze consegnano annualmente agli assicurati un conteggio verificabile sulla partecipazione alle eccedenze. Dal conteggio deve essere desumibile in particolare su quali basi siano state calcolate le eccedenze e in virtù di quali principi siano state distribuite, inclusa la parte del premio complessivo rappresentata dalla componente di risparmio.[^36-1]
 
 <sup>3</sup>
 
@@ -515,6 +841,8 @@ Per le imprese di assicurazione secondo il capoverso 2, il Consiglio federale pu
 - a. le modalità di presentazione delle informazioni che devono essere desumibili dal conteggio;
 - b. le basi per il calcolo delle eccedenze;
 - c. le basi e l’entità della distribuzione delle eccedenze.
+
+[^36-1]: Nuovo testo del per. giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 37
 
@@ -527,7 +855,7 @@ Per le imprese di assicurazione secondo il capoverso 2, il Consiglio federale pu
 Esse tengono un conto d’esercizio annuale separato per la previdenza professionale. Vi figurano in particolare:
 
 - a. gli eventuali prelievi dall’accantonamento per la futura partecipazione alle eccedenze;
-- b. i premi, suddivisi in funzione del risparmio, dei rischi e delle spese;
+- b.[^37-1] i premi, suddivisi in funzione del risparmio, dei rischi, della garanzia di conversione in rendita e delle spese;
 - c. le prestazioni;
 - d. le eventuali quote di eccedenze assegnate obbligatoriamente agli stipulanti l’anno precedente e distribuite nell’esercizio in corso;
 - e. i redditi di capitali nonché gli utili non realizzati e le perdite sugli investimenti di capitale;
@@ -549,6 +877,8 @@ Il Consiglio federale emana prescrizioni concernenti:
 
 <sup>5</sup> Se il conto d’esercizio presenta una perdita, per l’esercizio corrispondente non è versata alcuna partecipazione alle eccedenze. La perdita attestata è riportata all’esercizio successivo e va quindi presa in considerazione per determinare la nuova partecipazione alle eccedenze.
 
+[^37-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
 #### Art. 38
 
 **Esame delle tariffe soggette ad approvazione**
@@ -561,50 +891,211 @@ Nella procedura d’approvazione la FINMA esamina in base ai calcoli tariffali p
 
 Le imprese di assicurazione cui è stata trasferita la proprietà dei beni degli istituti di previdenza da esse istituiti e dipendenti da esse sotto il profilo economico o organizzativo devono fornire almeno le prestazioni previste dalla previdenza professionale obbligatoria.
 
+### Sezione 7: Assicurazioni sulla vita qualificate
+
+[^chap3-sec7-1]
+
+[^chap3-sec7-1]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 39a
+
+**Definizione**
+
+Sono assicurazioni sulla vita qualificate le assicurazioni sulla vita nelle quali lo stipulante sopporta un rischio di perdita nel processo di risparmio, nonché le operazioni di capitalizzazione e le operazioni tontinarie.
+
+#### Art. 39b
+
+**Foglio informativo di base per assicurazioni sulla vita qualificate**
+
+<sup>1</sup> L’impresa di assicurazione che offre un’assicurazione sulla vita qualificata redige previamente un foglio informativo di base per tale assicurazione.
+
+<sup>2</sup> Se equivalenti al foglio informativo di base, i documenti redatti in virtù di una normativa estera possono essere utilizzati in sua vece.
+
+<sup>3</sup> Il Consiglio federale può prevedere la possibilità di delegare la redazione del foglio informativo di base a terzi qualificati. L’impresa di assicurazione rimane responsabile della completezza e correttezza delle indicazioni contenute nel foglio informativo di base nonché del rispetto degli obblighi che le incombono secondo la presente sezione.
+
+<sup>4</sup> Se offre assicurazioni sulla vita qualificate sulla base di indicazioni orientative, l’impresa di assicurazione deve redigere quantomeno una versione provvisoria del foglio informativo di base con le indicazioni orientative corrispondenti.
+
+#### Art. 39c
+
+**Contenuto del foglio informativo di base**
+
+<sup>1</sup> Il foglio informativo di base delle assicurazioni sulla vita qualificate contiene le indicazioni essenziali che consentono allo stipulante di raffrontare tra loro assicurazioni analoghe.
+
+<sup>2</sup>
+
+Le indicazioni comprendono in particolare:
+
+- a. il nome dell’assicurazione e l’identità dell’impresa di assicurazione che la offre;
+- b. il genere e le caratteristiche dell’assicurazione;
+- c. il profilo di rischio e di rendimento dell’assicurazione, con l’indicazione della perdita massima che gli stipulanti rischiano sul capitale investito;
+- d. i costi dell’assicurazione;
+- e. le informazioni riguardanti le autorizzazioni e le approvazioni connesse all’assicurazione.
+
+<sup>3</sup> Se un’assicurazione sulla vita qualificata comprende uno strumento finanziario ai sensi dell’articolo 3 lettera a della legge del 15 giugno 2018[^39c-1] sui servizi finanziari (LSerFi), nel foglio informativo di base per l’assicurazione sulla vita qualificata devono essere fornite le indicazioni essenziali riguardanti il relativo strumento finanziario. Se il foglio informativo di base per lo strumento finanziario è a disposizione dello stipulante, è consentito rinviarvi. È parimenti lecito rinviare ai documenti redatti in virtù di una normativa estera, se sono equivalenti al foglio informativo di base secondo l’articolo 59 capoverso 2 LSerFi.
+
+[^39c-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+#### Art. 39d
+
+**Requisiti**
+
+<sup>1</sup> Il foglio informativo di base deve essere facilmente comprensibile.
+
+<sup>2</sup> È un documento a sé stante, distinto chiaramente dal materiale pubblicitario.
+
+#### Art. 39e
+
+**Adeguamenti**
+
+<sup>1</sup> L’impresa di assicurazione che offre un’assicurazione sulla vita qualificata verifica periodicamente le indicazioni contenute nel foglio informativo di base e le rielabora in caso di modifiche sostanziali.
+
+<sup>2</sup> La verifica e la rielaborazione delle indicazioni contenute nel foglio informativo di base possono essere delegate a terzi qualificati. L’impresa di assicurazione rimane responsabile della completezza e correttezza delle indicazioni contenute nel foglio informativo di base e del rispetto degli obblighi che le incombono secondo la presente sezione.
+
+#### Art. 39f
+
+**Disposizioni completive**
+
+Il Consiglio federale emana disposizioni completive relative al foglio informativo di base. Disciplina segnatamente:
+
+- a. il suo contenuto;
+- b. la sua estensione, la lingua in cui è redatto e la sua configurazione;
+- c. le modalità della sua messa a disposizione;
+- d. l’equivalenza tra i documenti esteri e il foglio informativo di base.
+
+#### Art. 39g
+
+**Responsabilità**
+
+Chiunque nel foglio informativo di base fornisce indicazioni inesatte, suscettibili d’indurre in errore o non conformi ai requisiti legali senza adoperare la necessaria diligenza è responsabile verso gli stipulanti del danno loro cagionato.
+
+#### Art. 39h
+
+**Obblighi d’informare in caso di raccomandazione di assicurazioni sulla vita qualificate**
+
+<sup>1</sup> Se raccomandano assicurazioni sulla vita qualificate, le imprese di assicurazione e gli intermediari assicurativi mettono gratuitamente il foglio informativo di base a disposizione degli stipulanti prima della conclusione del contratto.
+
+<sup>2</sup> Le imprese di assicurazione informano inoltre gli stipulanti sulle indennità accettate da terzi in relazione ad assicurazioni sulla vita qualificate.
+
+#### Art. 39i
+
+**Pubblicità**
+
+<sup>1</sup> La pubblicità relativa alle assicurazioni sulla vita qualificate deve essere chiaramente riconoscibile come tale.
+
+<sup>2</sup> Nella pubblicità si rinvia al foglio informativo di base relativo all’assicurazione sulla vita qualificata e si indica come lo si può ottenere.
+
+<sup>3</sup> La pubblicità e le altre informazioni sulle assicurazioni sulla vita qualificate destinate agli stipulanti devono corrispondere alle indicazioni contenute nel foglio informativo di base.
+
+#### Art. 39j
+
+**Verifica dell’appropriatezza per assicurazioni sulla vita qualificate**
+
+<sup>1</sup> Prima di raccomandare un’assicurazione sulla vita qualificata, l’impresa di assicurazione o l’intermediario assicurativo si informa sulle conoscenze e sull’esperienza dello stipulante e verifica se l’assicurazione sulla vita in questione è appropriata per quest’ultimo.
+
+<sup>2</sup> Se ritiene che un’assicurazione sulla vita qualificata non sia appropriata per lo stipulante, l’impresa di assicurazione o l’intermediario assicurativo gli sconsiglia di concludere un contratto.
+
+<sup>3</sup> Se non riceve informazioni sufficienti per valutare l’appropriatezza, l’impresa di assicurazione o l’intermediario assicurativo comunica allo stipulante di non poter effettuare alcuna valutazione dell’appropriatezza.
+
+<sup>4</sup> Non è necessario effettuare verifiche dell’appropriatezza se l’assicurazione sulla vita qualificata è conclusa su richiesta dello stipulante e senza una consulenza personalizzata.
+
+<sup>5</sup> Conoscenze o esperienza carenti possono essere compensati con spiegazioni fornite allo stipulante.
+
+#### Art. 39k
+
+**Documentazione e rendiconto per le assicurazioni sulla vita qualificate**
+
+<sup>1</sup>
+
+Le imprese di assicurazione e gli intermediari assicurativi tengono una documentazione adeguata:
+
+- a. dell’assicurazione sulla vita qualificata che è stata stipulata;
+- b. delle conoscenze e dell’esperienza dello stipulante constatate secondo l’articolo 39*j* capoverso 1;
+- c. della mancata verifica dell’appropriatezza dell’assicurazione ai sensi dell’articolo 39*j* capoverso 3 o 4;
+- d. del fatto che allo stipulante è stata sconsigliata la conclusione di un contratto.
+
+<sup>2</sup> Le imprese di assicurazione e gli intermediari assicurativi consegnano agli stipulanti, su richiesta, una copia della documentazione di cui al capoverso 1 o la rendono accessibile in un altro modo appropriato.
+
+<sup>3</sup> Su richiesta degli stipulanti, essi rendono inoltre conto della valutazione e dell’evoluzione degli strumenti finanziari compresi nelle assicurazioni sulla vita qualificate e degli eventuali costi connessi.
+
 ## Capitolo 4: Intermediari assicurativi
+
+[^chap4-1]
+
+[^chap4-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 40
 
 **Definizione**
 
-Gli intermediari assicurativi sono, indipendentemente dalla loro designazione, persone che offrono o stipulano contratti d’assicurazione nell’interesse di imprese di assicurazione o di altre persone.
+<sup>1</sup> Gli intermediari assicurativi sono, indipendentemente dalla loro designazione, persone che offrono o stipulano contratti d’assicurazione nell’interesse di imprese di assicurazione o di altre persone.
+
+<sup>2</sup> Gli intermediari assicurativi non vincolati intrattengono un rapporto di fiducia con gli stipulanti e agiscono nell’interesse di questi ultimi.
+
+<sup>3</sup> Tutti gli altri intermediari assicurativi sono considerati vincolati.
 
 #### Art. 41
 
-**Attività d’intermediazione proibite**
+**Obbligo e condizioni di registrazione**
 
-Agli intermediari assicurativi è proibito esercitare un’attività a favore di imprese di assicurazione soggette alla presente legge ma non autorizzate a esercitare attività assicurative.
+<sup>1</sup> Gli intermediari assicurativi non vincolati possono esercitare la loro attività soltanto se iscritti nel registro di cui all’articolo 42.
 
-#### Art. 42
+<sup>2</sup>
+
+Sono iscritti nel registro se forniscono la prova che:
+
+- a. hanno la loro sede, il loro domicilio o una succursale in Svizzera;
+- b. godono di buona reputazione e garantiscono l’adempimento degli obblighi derivanti dalla presente legge;
+- c. dispongono delle capacità e delle conoscenze necessarie di cui all’articolo 43 o, se si tratta di datori di lavoro, che un numero sufficiente di dipendenti soddisfa questo requisito;
+- d. hanno stipulato un’assicurazione di responsabilità civile professionale o forniscono garanzie finanziarie equivalenti.
+
+<sup>3</sup>
+
+Non sono iscritti nel registro gli intermediari assicurativi non vincolati:
+
+- a. nei confronti dei quali è stata emessa una condanna penale per un reato intenzionale secondo gli articoli 86 e 87 della presente legge o che sono iscritti nel casellario giudiziale per reati contro il patrimonio secondo gli articoli 137–172<sup>ter</sup> del Codice penale[^41-1]; o
+- b. nei confronti dei quali è stato ordinato un divieto di esercizio della professione o di esercizio dell’attività secondo, rispettivamente, gli articoli 33 e 33*a* della legge del 22 giugno 2007[^41-2] sulla vigilanza dei mercati finanziari (LFINMA).
+
+<sup>4</sup> Il Consiglio federale definisce i requisiti per l’assicurazione di responsabilità civile professionale e fissa l’ammontare minimo delle garanzie finanziarie. Può delegare alla FINMA il disciplinamento dei dettagli di natura tecnica.
+
+<sup>5</sup> In casi motivati, la FINMA può prevedere deroghe alla condizione di cui al capoverso 2 lettera a.
+
+[^41-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art 42
 
 **Registro**
 
-<sup>1</sup> La FINMA tiene un registro degli intermediari assicurativi (registro).
+<sup>1</sup> La FINMA tiene un registro degli intermediari assicurativi non vincolati (registro). Per la tenuta del registro in ambito amministrativo può avvalersi di terzi.
 
 <sup>2</sup> Il registro è pubblico*.*
 
-<sup>3</sup> Il Consiglio federale disciplina i particolari.
+<sup>3</sup> La FINMA può trasmettere a terzi i dati contenuti nel registro o renderli accessibili con procedura di richiamo.
+
+<sup>4</sup> La FINMA può integrare nel registro gli intermediari assicurativi non sottoposti all’obbligo di registrazione che forniscono la prova di voler avviare un’attività all’estero per la quale lo Stato interessato esige un’iscrizione nel registro in Svizzera.
 
 #### Art. 43
 
-**Iscrizione a registro**
+**Formazione e formazione continua**
 
-<sup>1</sup> Gli intermediari assicurativi non vincolati giuridicamente, economicamente o in altro modo a un’impresa di assicurazione devono farsi iscrivere nel registro.
+<sup>1</sup> Gli intermediari assicurativi devono disporre delle capacità e delle conoscenze necessarie per la loro attività.
 
-<sup>2</sup> Gli altri intermediari assicurativi hanno il diritto di farsi iscrivere nel registro.
+<sup>2</sup> Le imprese di assicurazione e gli intermediari assicurativi definiscono gli standard minimi specifici al settore per la formazione e la formazione continua.
+
+<sup>3</sup> Il Consiglio federale stabilisce i requisiti in materia di formazione e formazione continua degli intermediari assicurativi per i quali non esistono standard minimi adeguati*.*
 
 #### Art. 44
 
-**Condizioni per l’iscrizione a registro**
+**Attività illecite**
 
 <sup>1</sup>
 
-Nel registro è iscritto soltanto chi:
+Gli intermediari assicurativi non possono:
 
-- a. dimostra di avere qualifiche professionali sufficienti o, se si tratta di una persona giuridica, dimostra di disporre di un numero sufficiente di collaboratori in possesso di tali qualifiche; e
-- b. ha stipulato un’assicurazione di responsabilità civile professionale o ha fornito garanzie finanziarie equivalenti.
+- a. esercitare un’attività a favore di imprese di assicurazione che non dispongono dell’autorizzazione necessaria ai sensi della presente legge;
+- b. operare simultaneamente come intermediari assicurativi vincolati e non vincolati.
 
-<sup>2</sup> Il Consiglio federale definisce le qualifiche professionali necessarie e fissa l’ammontare minimo delle garanzie finanziarie. Esso può delegare alla FINMA il disciplinamento dei particolari tecnici.
+<sup>2</sup> Le imprese di assicurazione non possono collaborare con gli intermediari assicurativi che non dispongono della registrazione necessaria ai sensi della presente legge.
 
 #### Art. 45
 
@@ -612,17 +1103,44 @@ Nel registro è iscritto soltanto chi:
 
 <sup>1</sup>
 
-In occasione del primo contatto, gli intermediari assicurativi devono fornire all’assicurato almeno le seguenti informazioni:
+Gli intermediari assicurativi indicano agli stipulanti:
 
-- a. la loro identità e il loro indirizzo;
-- b. se le coperture assicurative da essi offerte in un determinato ramo assicurativo provengono da una sola o da più imprese di assicurazione e quali sono tali imprese;
-- c. i loro legami contrattuali con le imprese di assicurazione per le quali opera e i nomi di tali imprese;
+- a. il proprio nome e indirizzo;
+- b. se l’intermediazione è vincolata o non vincolata e, se è vincolata, il nome e l’indirizzo dell’impresa di assicurazione per conto della quale operano;
+- c. come informarsi in merito alla formazione e alla formazione continua dell’intermediario assicurativo in questione;
 - d. la persona che può essere resa responsabile di negligenze, errori o informazioni errate in relazione alla loro attività d’intermediazione;
-- e. il trattamento dei dati personali, in particolare lo scopo, l’estensione e i destinatari dei dati nonché la loro conservazione.
+- e. il trattamento dei dati personali, in particolare lo scopo e l’estensione del trattamento nonché i destinatari dei dati e la loro conservazione.
 
-<sup>2</sup> Le informazioni di cui al capoverso 1 devono essere fornite su un supporto durevole e accessibile per l’assicurato.
+<sup>2</sup> Le informazioni di cui al capoverso 1 devono essere formulate in modo comprensibile. Possono essere messe a disposizione degli stipulanti in forma standardizzata, in versione cartacea o elettronica.
 
-<sup>3</sup> Il Consiglio federale disciplina i particolari.
+<sup>3</sup> Le informazioni sono fornite agli stipulanti in modo che questi possano venirne a conoscenza quando richiedono o accettano il contratto d’assicurazione.
+
+#### Art. 45a
+
+**Prevenzione di conflitti di interessi**
+
+<sup>1</sup> Gli intermediari assicurativi adottano provvedimenti organizzativi adeguati per evitare conflitti di interessi che possono risultare dall’intermediazione di servizi assicurativi o per escludere che tali conflitti arrechino pregiudizio agli stipulanti.
+
+<sup>2</sup> Se non può escludere un pregiudizio nei confronti degli stipulanti, l’intermediario assicurativo glielo comunica prima della conclusione del contratto d’assicurazione.
+
+<sup>3</sup> Il Consiglio federale può disciplinare i dettagli; in particolare può designare i comportamenti inammissibili in ogni caso a causa di conflitti di interessi.
+
+#### Art. 45b
+
+**Pubblicazione delle indennità**
+
+<sup>1</sup> Gli intermediari assicurativi non vincolati possono ricevere indennità da imprese di assicurazione e da altri terzi se hanno informato esplicitamente gli stipulanti al riguardo.
+
+<sup>2</sup>
+
+Se ricevono un compenso dagli stipulanti, gli intermediari assicurativi non vincolati possono accettare indennità da imprese di assicurazione o da altri terzi soltanto se:
+
+- a. hanno informato esplicitamente gli stipulanti al riguardo e questi ultimi rinunciano esplicitamente a farsi trasferire l’indennità; o
+- b. trasferiscono integralmente l’indennità agli stipulanti.
+
+<sup>3</sup> L’informazione di cui ai capoversi 1 e 2 deve indicare la natura e l’entità delle indennità ed è comunicata prima della fornitura del servizio o prima della conclusione del contratto. Se l’importo non può essere determinato in anticipo, gli stipulanti devono essere informati sui parametri di calcolo e sui previsti valori di massima. Su richiesta, gli intermediari assicurativi rendono pubblici gli importi effettivamente ricevuti.
+
+<sup>4</sup> Sono considerate indennità le prestazioni che gli intermediari assicurativi non vincolati ricevono da terzi in relazione alla fornitura di un servizio, in particolare i diritti di mediazione, le altre commissioni, le provvigioni, le riduzioni o altri vantaggi patrimoniali.
 
 ## Capitolo 5: Sorveglianza
 
@@ -637,19 +1155,20 @@ In occasione del primo contatto, gli intermediari assicurativi devono fornire al
 La FINMA:
 
 - a. vigila sul rispetto della legislazione in materia di assicurazione e di sorveglianza;
-- b. controlla che le imprese di assicurazione offrano garanzia di un’attività irreprensibile;
+- b.[^46-1] controlla che le imprese di assicurazione e gli intermediari assicurativi godano di buona reputazione e garantiscano l’esecuzione degli obblighi derivanti dalla presente legge;
 - c. vigila sul rispetto del piano d’esercizio;
 - d. vigila affinché le imprese di assicurazione siano solvibili, costituiscano le riserve tecniche nel rispetto delle prescrizioni e amministrino e investano gli elementi patrimoniali in modo regolare;
-- e. vigila sull’esecuzione regolare della liquidazione dei sinistri disciplinata nelle disposizioni della legge del 19 dicembre 1958[^46-1] sulla circolazione stradale concernenti l’assicurazione di responsabilità civile per i veicoli a motore;
+- e. vigila sull’esecuzione regolare della liquidazione dei sinistri disciplinata nelle disposizioni della legge del 19 dicembre 1958[^46-2] sulla circolazione stradale concernenti l’assicurazione di responsabilità civile per i veicoli a motore;
 - f. protegge gli assicurati contro gli abusi compiuti da imprese di assicurazione e da intermediari assicurativi;
 - g. interviene in caso di irregolarità che mettono in pericolo gli interessi degli assicurati.
 
-<sup>2</sup> …[^46-2]
+<sup>2</sup> …[^46-3]
 
 <sup>3</sup> Il Consiglio federale emana disposizioni esecutive concernenti i singoli compiti.
 
-[^46-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^46-2]: Abrogato dall’all. n. 9 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), con effetto dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^46-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^46-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^46-3]: Abrogato dall’all. n. 9 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), con effetto dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 47
 
@@ -682,17 +1201,17 @@ La FINMA:
 
 [^50-1]: Abrogato dall’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-### Sezione 2: Provvedimenti conservativi, liquidazione e fallimento
+### Sezione 2: Misure di protezione, misure in caso di pericolo di insolvenza e liquidazione
 
 [^chap5-sec2-1]
 
-[^chap5-sec2-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^chap5-sec2-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 51
 
-**Provvedimenti conservativi[^51-1]**
+**Misure di protezione [^51-1]**
 
-<sup>1</sup> Se un’impresa di assicurazione o un intermediario non rispetta le prescrizioni della presente legge o di un’ordinanza o gli ordini della FINMA oppure se gli interessi degli assicurati paiono altrimenti messi in pericolo, la FINMA adotta i provvedimenti conservativi che ritiene necessari per tutelare gli interessi degli assicurati.
+<sup>1</sup> Se un’impresa di assicurazione, una società importante del gruppo o del conglomerato o un intermediario assicurativo non rispetta le prescrizioni della presente legge, di un’ordinanza o gli ordini della FINMA oppure se gli interessi degli assicurati paiono altrimenti messi in pericolo, la FINMA adotta le misure di protezione che ritiene necessarie per tutelare gli interessi degli assicurati.[^51-2]
 
 <sup>2</sup>
 
@@ -705,15 +1224,70 @@ La FINMA può in particolare:
 - e. ordinare la realizzazione del patrimonio vincolato;
 - f. esigere la revoca delle persone incaricate della direzione generale, della sorveglianza, del controllo o della gestione oppure del mandatario generale nonché dell’attuario responsabile e vietare loro, per cinque anni al massimo, l’esercizio di qualsiasi attività assicurativa ulteriore;
 - g. stralciare un intermediario assicurativo dal registro di cui all’articolo 42;
-- h.[^51-2] assegnare elementi patrimoniali dell’impresa di assicurazione al patrimonio vincolato fino a concorrenza dell’importo legale ai sensi dell’articolo 18;
-- i.[^51-3] ordinare la moratoria e la proroga delle scadenze in caso di pericolo di insolvenza.
+- h.[^51-3] assegnare elementi patrimoniali dell’impresa di assicurazione al patrimonio vincolato fino a concorrenza dell’importo legale ai sensi dell’articolo 18;
+- i.[^51-4] ordinare la moratoria e la proroga delle scadenze.
 
-<sup>3</sup> Essa provvede a una pubblicazione adeguata dei provvedimenti se è necessario per attuarli o per proteggere terzi.[^51-4]
+<sup>3</sup> La FINMA provvede a una pubblicazione adeguata delle misure se è necessario per attuarle o per proteggere terzi. Essa può rinunciare alla loro pubblicazione qualora ciò pregiudicasse lo scopo delle misure ordinate.[^51-5]
 
-[^51-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^51-2]: Introdotta dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+<sup>4</sup> Se la FINMA non decide altrimenti circa il decorso degli interessi, una moratoria ha gli effetti previsti nell’articolo 297 della legge federale dell’11 aprile 1889[^51-6] sulla esecuzione e sul fallimento (LEF).[^51-7]
+
+[^51-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^51-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 [^51-3]: Introdotta dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^51-4]: Introdotto dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^51-4]: Introdotta dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi)([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^51-5]: Introdotto dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi)([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^51-6]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^51-7]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 51a
+
+**Misure in caso di pericolo d’insolvenza**[^51a-1]
+
+<sup>1</sup>
+
+Se vi sono fondati timori che un’impresa di assicurazione presenti un’eccedenza di debiti o abbia seri problemi di liquidità, la FINMA può ordinare:
+
+- a. misure di protezione conformemente all’articolo 51;
+- b. il risanamento conformemente alla sezione 2*a* del presente capitolo;
+- c. il fallimento dell’assicurazione conformemente alla sezione 2*b* del presente capitolo.
+
+<sup>2</sup> Prima di ordinare misure previste nelle sezioni 2*a* e 2*b* del presente capitolo la FINMA assegna elementi patrimoniali dell’impresa di assicurazione al patrimonio vincolato fino a concorrenza dell’importo legale ai sensi dell’articolo 18.
+
+<sup>3</sup> Le misure di protezione possono essere ordinate indipendentemente o in relazione a un risanamento o a un fallimento dell’assicurazione.
+
+<sup>4</sup>
+
+Gli strumenti di capitale di terzi approvati dalla FINMA come strumenti di capitale assorbenti il rischio imputabili al capitale sopportante i rischi secondo l’articolo 9*a* o che possono essere presi in considerazione nel capitale previsto secondo l’articolo 9*a* non sono presi in considerazione nella determinazione dell’eccedenza di debiti se il contratto stabilisce in modo irrevocabile che:
+
+- a. in caso di liquidazione, fallimento o risanamento, il credito capitale e il pagamento degli interessi sono di grado posteriore rispetto ai crediti non postergati e a quelli postergati non imputabili al capitale sopportante i rischi secondo l’articolo 9*a* o che non possono essere presi in considerazione nel capitale previsto secondo l’articolo 9*a*;
+- b. il credito capitale e il pagamento degli interessi possono essere rimborsati soltanto se tutti i crediti di rango anteriore sono stati soddisfatti, anche in caso di liquidazione, fallimento o risanamento; e
+- c. non sono effettuati pagamenti in relazione al credito capitale né pagamenti di interessi, se ciò può comportare gravi problemi di liquidità.
+
+<sup>5</sup> L’esistenza e gli effetti di questi strumenti di capitale di terzi sono attestati in modo trasparente nel quadro della presentazione dei conti.
+
+<sup>6</sup> Le disposizioni relative alla procedura concordataria (art. 293–336 LEF[^51a-2]) e all’avviso al giudice (art. 716*a* cpv. 1 n. 7, 725*a* cpv. 3, 725*b* cpv. 3 e 728*c* cpv. 3 CO[^51a-3]) non sono applicabili alle imprese di assicurazione.
+
+<sup>7</sup> Gli ordini della FINMA riguardano tutti gli elementi patrimoniali dell’impresa di assicurazione con attivi e passivi e le relazioni contrattuali, in Svizzera o all’estero.
+
+[^51a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^51a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^51a-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 51b
+
+**Prevalenza degli accordi di compensazione, di valorizzazione e di trasferimento**[^51b-1]
+
+<sup>1</sup>
+
+Rimangono impregiudicati da tutti gli ordini di cui alle sezioni 2–2*c* del presente capitolo gli accordi conclusi in precedenza e riguardanti:
+
+- a. la compensazione di crediti, compresi il metodo concordato e la determinazione del valore;
+- b. la realizzazione mediante trattative private di garanzie sotto forma di valori mobiliari o di altri strumenti finanziari il cui valore è oggettivamente determinabile;
+- c. il trasferimento di crediti e obbligazioni, nonché di garanzie sotto forma di valori mobiliari o di altri strumenti finanziari il cui valore è oggettivamente determinabile.
+
+<sup>2</sup> È fatto salvo l’articolo 52*g*.
+
+[^51b-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 52
 
@@ -723,20 +1297,235 @@ La revoca, da parte della FINMA, dell’autorizzazione d’esercizio a un’impr
 
 [^52-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
+### Sezione 2*a*: Risanamento
+
+[^chap5-sec2a-1]
+
+[^chap5-sec2a-1]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 52a
+
+**Procedura**
+
+<sup>1</sup> Se vi sono buone prospettive di risanare l’impresa di assicurazione o di continuare a offrire singoli servizi assicurativi, la FINMA può avviare una procedura di risanamento.
+
+<sup>2</sup> Essa pronuncia le decisioni necessarie all’esecuzione della procedura di risanamento.
+
+<sup>3</sup> Può incaricare una persona (incaricato del risanamento) di elaborare e attuare un piano di risanamento.
+
+<sup>4</sup> Può disciplinare i particolari della procedura.
+
+#### Art. 52b
+
+**Piano di risanamento**
+
+<sup>1</sup>
+
+Il piano di risanamento indica come eliminare il pericolo d’insolvenza dell’impresa di assicurazione e quali misure ordinare a tale scopo. In particolare, può prevedere:
+
+- a. il trasferimento del portafoglio o di parti di esso come pure di altre parti dell’impresa di assicurazione, con attivi e passivi, ad altri soggetti giuridici;
+- b. la riduzione del capitale proprio esistente e la costituzione di nuovo capitale proprio, la conversione di capitale di terzi in capitale proprio e la riduzione dei crediti;
+- c. l’adeguamento materiale dei contratti d’assicurazione, segnatamente la limitazione dei diritti degli assicurati derivanti dal contratto d’assicurazione o l’esclusione di tali diritti.
+
+<sup>2</sup> Il piano di risanamento deve garantire che, eseguito il risanamento, l’impresa di assicurazione adempia le condizioni di autorizzazione e le altre prescrizioni legali.
+
+<sup>3</sup> Il piano di risanamento può derogare alle disposizioni del capoverso 2 se il risanamento si limita alla liquidazione ordinata del portafoglio esistente, escludendo la stipulazione di nuovi contratti.
+
+#### Art. 52c
+
+**Trasferimento del portafoglio o di parti di esso nonché di altre parti dell’impresa di assicurazione**
+
+<sup>1</sup> In caso di trasferimento secondo l’articolo 52*b* capoverso 1 lettera a, l’assuntore subentra al posto dell’impresa di assicurazione dopo l’omologazione del piano di risanamento. La legge del 3 ottobre 2003[^52c-1] sulla fusione non è applicabile.
+
+<sup>2</sup> In casi fondati la FINMA può accordare all’assuntore per un periodo di tempo limitato un allentamento dei requisiti prudenziali previsti in relazione al portafoglio trasferito, se gli interessi degli assicurati rimangono tutelati.
+
+<sup>3</sup> Se gli attivi, i passivi e le relazioni contrattuali sono trasferiti soltanto in parte a un altro soggetto giuridico, la FINMA disciplina la compensazione fra i soggetti giuridici interessati.
+
+<sup>4</sup> In caso di trasferimento secondo l’articolo 52*b* capoverso 1 lettera a, la riscossione di tasse di mutazione cantonali e comunali è esclusa. È fatta salva la riscossione di emolumenti a copertura dei costi.
+
+[^52c-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+
+#### Art. 52d
+
+**Riduzione del capitale proprio esistente e costituzione di nuovo capitale proprio nonché conversione di capitale di terzi in capitale proprio e riduzione dei crediti**
+
+<sup>1</sup> Nella costituzione di nuovo capitale proprio può essere revocato il diritto di opzione dei proprietari esistenti se il suo esercizio dovesse mettere a rischio il risanamento.
+
+<sup>2</sup>
+
+Sono esclusi dalla conversione e dalla riduzione dei crediti:
+
+- a. i crediti compensabili e quelli garantiti;
+- b. i crediti derivanti da impegni che l’impresa di assicurazione ha legittimamente assunto, con l’approvazione della FINMA o di un incaricato dell’inchiesta o del risanamento da essa designato, per la durata delle misure di cui all’articolo 51 capoverso 2 lettere a, b, d, e ed i o durante una procedura di risanamento;
+- c. i crediti derivanti da contratti d’assicurazione per i quali è prescritto un patrimonio vincolato secondo l’articolo 17, se quest’ultimo è sufficiente a garantire le pretese.
+
+<sup>3</sup>
+
+La conversione di capitale di terzi in capitale proprio e la riduzione dei crediti sono ammesse soltanto se:
+
+- a. il capitale sociale è stato integralmente ridotto;
+- b. gli strumenti di capitale assorbenti il rischio che prevedono una conversione in capitale proprio o una riduzione dei crediti in caso di eventi definiti contrattualmente sono stati integralmente ridotti o convertiti in capitale proprio.
+
+<sup>4</sup>
+
+La conversione di capitale di terzi in capitale proprio e la riduzione dei crediti devono avvenire nell’ordine seguente:
+
+- a. il credito capitale e il pagamento degli interessi di strumenti di capitale di terzi approvati dalla FINMA come strumenti di capitale assorbenti il rischio imputabili al capitale sopportante i rischi secondo l’articolo 9*a* o che possono essere presi in considerazione nel capitale previsto secondo l’articolo 9*a*;
+- b. gli altri crediti postergati;
+- c. i crediti della terza classe ai sensi dell’articolo 219 capoverso 4 LEF[^52d-1];
+- d. i crediti derivanti da contratti d’assicurazione per i quali non è prescritto un patrimonio vincolato secondo l’articolo 17;
+- e. i crediti derivanti da contratti d’assicurazione per i quali è prescritto un patrimonio vincolato secondo l’articolo 17, nella misura in cui non sono coperti;
+- f. i crediti della seconda classe ai sensi dell’articolo 219 capoverso 4 LEF;
+- g. i crediti della prima classe ai sensi dell’articolo 219 capoverso 4 LEF.
+
+<sup>5</sup> Se dopo la conversione sussiste una partecipazione qualificata ai sensi dell’articolo 21 capoverso 2, la FINMA sospende il diritto di voto per la quota che supera il 10 per cento fino alla valutazione della partecipazione qualificata.
+
+[^52d-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 52e
+
+**Adeguamento dei contratti d’assicurazione**
+
+<sup>1</sup> Per l’adeguamento dei contratti d’assicurazione vigono le stesse condizioni e lo stesso ordine di quelli indicati per la conversione di capitale di terzi in capitale proprio e la riduzione dei crediti (art. 52*d*).
+
+<sup>2</sup> Se il piano di risanamento lo prevede e ciò corrisponde all’interesse generale degli assicurati, le diverse categorie dei contratti d’assicurazione possono essere adeguate in modo differenziato.
+
+<sup>3</sup>
+
+L’interesse generale degli assicurati è dato quando l’adeguamento differenziato:
+
+- a. consente un risanamento globale dell’impresa di assicurazione o di parti di essa; o
+- b. fornisce un contributo al risanamento maggiore rispetto alla parità di trattamento degli assicurati.
+
+#### Art. 52f
+
+**Diritti degli assicurati in caso di conversione di capitale di terzi in capitale proprio, di riduzione dei crediti e di adeguamento dei contratti d’assicurazione**
+
+<sup>1</sup> L’impresa di assicurazione informa individualmente gli stipulanti, entro 30 giorni dal passaggio in giudicato del piano di risanamento, in merito all’ingerenza nei diritti degli assicurati e al diritto di disdetta.
+
+<sup>2</sup> Gli stipulanti hanno il diritto di recedere dal contratto d’assicurazione con effetto immediato entro tre mesi dalla ricezione dell’informazione.
+
+<sup>3</sup> Se l’ingerenza nei diritti degli assicurati avviene nel quadro di un trasferimento a un altro soggetto giuridico secondo l’articolo 52*b* capoverso 1 lettera a, gli assicurati possono far valere nei confronti dell’impresa di assicurazione da risanare un risarcimento di pari grado equivalente alla perdita finanziaria subita.
+
+#### Art. 52g
+
+**Differimento della disdetta di contratti**
+
+<sup>1</sup>
+
+Con la disposizione o l’approvazione di misure conformemente agli articoli 51*a*–52*m* la FINMA può differire:
+
+- a. la disdetta dei contratti e l’esercizio dei diritti di disdetta;
+- b. l’esercizio dei diritti di compensazione, valorizzazione e trasferimento secondo l’articolo 51*b*.
+
+<sup>2</sup> La FINMA può disporre il differimento soltanto se la disdetta o l’esercizio dei diritti di cui al capoverso 1 sono motivati dalle misure.
+
+<sup>3</sup> La FINMA può disporre il differimento per due giorni lavorativi al massimo. Essa ne stabilisce l’inizio e la fine.
+
+<sup>4</sup> Il differimento della disdetta di contratti secondo il presente articolo non si applica agli obblighi di pagamento e di consegna correnti, in particolare quelli derivanti da operazioni con derivati, prestiti di valori mobiliari e operazioni di pensionamento di titoli nei confronti di controparti di un’infrastruttura dei mercati finanziari.
+
+<sup>5</sup>
+
+Il differimento è escluso o decade se la disdetta o l’esercizio di un diritto di cui al capoverso 1:
+
+- a. non sono correlati alle misure; e
+- b. sono riconducibili al comportamento dell’impresa di assicurazione che si trova in una procedura di insolvenza o del soggetto giuridico che riprende integralmente o parzialmente i contratti.
+
+<sup>6</sup> Se, alla fine del differimento, le condizioni di autorizzazione e le altre disposizioni legali sono rispettate, il contratto rimane in vigore e i diritti di cui al capoverso 1 correlati alle misure non possono più essere esercitati.
+
+#### Art. 52h
+
+**Differimento della disdetta di contratti di riassicurazione**
+
+<sup>1</sup> Con la disposizione o l’approvazione di misure conformemente agli articoli 52*a*–52*m* nei confronti di un’impresa di assicurazione diretta, la FINMA può differire la disdetta dei contratti di riassicurazione o l’esercizio dei diritti di disdetta.
+
+<sup>2</sup> La FINMA può disporre il differimento soltanto se la disdetta o l’esercizio dei diritti di cui al capoverso 1 sono motivati dalle misure.
+
+<sup>3</sup> La FINMA può disporre il differimento per quattro mesi al massimo. Essa ne stabilisce l’inizio e la fine. Se la FINMA ha omologato un piano di risanamento di cui all’articolo 52*b*, il differimento termina al più tardi due mesi dopo tale omologazione.
+
+<sup>4</sup> Per tutelare gli interessi delle imprese di riassicurazione interessate, durante il differimento la FINMA può conferire a queste ultime diritti di consultazione in merito all’impresa di assicurazione diretta.
+
+#### Art. 52i
+
+**Effetto del risanamento di un’impresa di assicurazione diretta sul contratto di riassicurazione**
+
+<sup>1</sup> I crediti derivanti da contratti di riassicurazione nei confronti di imprese di riassicurazione sono calcolati in base alle prestazioni assicurative che l’impresa di assicurazione diretta avrebbe dovuto fornire agli assicurati senza riduzione ai sensi degli articoli 52*d* e 52*e*.
+
+<sup>2</sup>
+
+La FINMA può:
+
+- a. consultare la liquidazione dei sinistri coperti dalle prestazioni ridotte dell’assicurazione diretta e ordinare misure organizzative appropriate, affinché alla liquidazione dei sinistri coperti dalle prestazioni ridotte dell’assicurazione diretta sia durevolmente accordata la dovuta diligenza; o
+- b. conferire diritti di consultazione supplementari alle imprese di riassicurazione interessate.
+
+#### Art. 52j
+
+**Omologazione del piano di risanamento**
+
+<sup>1</sup>
+
+La FINMA omologa il piano di risanamento segnatamente se esso:
+
+- a. adempie le disposizioni di cui all’articolo 52*b*;
+- b. si fonda su una valutazione degli attivi e dei passivi dell’impresa di assicurazione e su una stima prudente della necessità di risanamento, conformemente ai principi della presentazione regolare dei conti;
+- c. non pone presumibilmente i creditori in una posizione economica peggiore rispetto alla dichiarazione immediata del fallimento;
+- d. tiene conto della priorità degli interessi dei creditori rispetto a quelli dei proprietari, nonché del grado dei creditori;
+- e. tiene adeguatamente conto dei legami giuridici o economici tra gli attivi, i passivi e le relazioni contrattuali.
+
+<sup>2</sup> L’accordo dei proprietari dell’impresa di assicurazione non è necessario.
+
+<sup>3</sup> La FINMA rende noti i principi del piano di risanamento. Allo stesso tempo fornisce informazioni sulle modalità con cui i creditori e i proprietari interessati possono consultare il piano.
+
+#### Art. 52k
+
+**Rifiuto del piano di risanamento**
+
+<sup>1</sup> Se il piano di risanamento prevede un’ingerenza nei diritti dei creditori, la FINMA impartisce ai creditori, al più tardi all’atto della sua omologazione, un termine entro il quale essi possono rifiutarlo.
+
+<sup>2</sup> Se almeno la metà dei creditori conosciuti rifiuta il piano di risanamento, la FINMA ordina il fallimento.
+
+#### Art. 52l
+
+**Effetto giuridico del piano di risanamento**
+
+<sup>1</sup> Se il termine concesso per il rifiuto del piano di risanamento scade infruttuosamente, hanno effetto le disposizioni del piano di risanamento previste all’articolo 52*k* capoverso 1.
+
+<sup>2</sup> Le iscrizioni nel registro fondiario, nel registro di commercio o in altri registri hanno soltanto un effetto dichiarativo. Devono essere effettuate il più presto possibile.
+
+#### Art. 52m
+
+**Esercizio di pretese**
+
+<sup>1</sup> Non appena la FINMA ha omologato il piano di risanamento, l’impresa di assicurazione ha il diritto di domandare la revocazione di negozi giuridici secondo gli articoli 285–292 LEF[^52m-1].
+
+<sup>2</sup> Se il piano di risanamento esclude per l’impresa di assicurazione il diritto di domandare la revocazione di negozi giuridici, tale revocazione può essere chiesta da ogni creditore nella misura in cui il piano di risanamento attenti ai suoi diritti.
+
+<sup>3</sup> La revocazione secondo gli articoli 285–292 LEF è esclusa nei confronti di atti giuridici effettuati in esecuzione di un piano di risanamento omologato dalla FINMA.
+
+<sup>4</sup> Per il calcolo dei termini secondo gli articoli 286–288 LEF è determinante, invece del momento della dichiarazione di fallimento, il momento dell’omologazione del piano di risanamento. Se la FINMA ha precedentemente deciso una misura di protezione secondo l’articolo 51 capoverso 2 lettera a, b, d, e o i, fa stato il momento della pronuncia di questa decisione.
+
+<sup>5</sup> Il diritto di domandare la revocazione si prescrive in tre anni dall’omologazione del piano di risanamento.
+
+<sup>6</sup> Per l’esercizio di pretese fondate sulla responsabilità conformemente agli articoli 752–760 CO[^52m-2], i capoversi 1–3 si applicano per analogia.
+
+[^52m-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^52m-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### Sezione 2*b*: Fallimento dell’assicurazione
+
+[^chap5-sec2b-1]
+
+[^chap5-sec2b-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
 #### Art. 53
 
 **Dichiarazione di fallimento**[^53-1]
 
-<sup>1</sup> Ove vi sia un timore fondato che un’impresa di assicurazione sia eccessivamente indebitata o abbia seri problemi di liquidità e se non vi è alcuna prospettiva di risanamento o il risanamento è fallito, la FINMA le revoca l’autorizzazione, dichiara il fallimento e lo rende pubblico.
+<sup>1</sup> Se la condizione di cui all’articolo 51*a* capoverso 1 è soddisfatta e non vi è alcuna prospettiva di risanamento o il risanamento è fallito, la FINMA revoca l’autorizzazione all’impresa di assicurazione, dichiara il fallimento e lo rende pubblico.
 
-<sup>2</sup> Le disposizioni relative alla procedura concordataria (art. 293–336 della legge federale dell’11 aprile 1889[^53-2] sulla esecuzione e sul fallimento, LEF) e all’avviso al giudice (art. 716*a* cpv. 1 n. 8, 725*a* cpv. 3, 725*b* cpv. 3 e 728*c* cpv. 3 del Codice delle obbligazioni[^53-3]) non si applicano alle imprese d’assicurazione.[^53-4]
+<sup>2</sup> La FINMA nomina uno o più liquidatori del fallimento. Questi sottostanno alla sua vigilanza e su richiesta le fanno rapporto.
 
-<sup>3</sup> La FINMA nomina uno o più liquidatori del fallimento. Essi sottostanno alla sua vigilanza e su richiesta le fanno rapporto.
-
-[^53-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^53-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^53-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^53-4]: Nuovo testo giusta l’all. n. 13 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^53-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 54
 
@@ -744,22 +1533,50 @@ La revoca, da parte della FINMA, dell’autorizzazione d’esercizio a un’impr
 
 <sup>1</sup> Il decreto di fallimento ha gli effetti di una dichiarazione di fallimento secondo gli articoli 197–220 LEF[^54-2].
 
-<sup>2</sup> Fatte salve le disposizioni seguenti, il fallimento deve essere liquidato conformemente agli articoli 221–270 LEF.
+<sup>2</sup> Il fallimento deve essere liquidato conformemente agli articoli 221–270 LEF. A tal fine la FINMA può, fatte salve le disposizioni della presente sezione, emanare decisioni derogatorie. [^54-3]
 
-<sup>3</sup> La FINMA può prendere decisioni e disposizioni derogatorie.
+<sup>3</sup> Può disciplinare i particolari della procedura.[^54-4]
 
 [^54-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^54-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^54-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^54-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 54a
 
-**Crediti derivanti da contratti di assicurazione**[^54a-1]
+**Crediti degli assicurati derivanti da contratti d’assicurazione**[^54a-1]
 
-<sup>1</sup> I crediti di assicurati che possono essere constatati mediante i libri dell’impresa di assicurazione sono considerati insinuati.
+<sup>1</sup> I crediti degli assicurati derivanti da contratti d’assicurazione sono assegnati alla seconda classe secondo l’articolo 219 capoverso 4 LEF[^54a-2], ma vengono soddisfatti dalla massa fallimentare solo dopo tutti gli altri crediti della seconda classe. Tra i crediti non coperti derivanti da contratti d’assicurazione vengono soddisfatti prima i crediti per i quali è prescritto un patrimonio vincolato secondo l’articolo 17 della presente legge e in seguito quelli per i quali non è prescritto un patrimonio vincolato.
 
-<sup>2</sup> Il ricavato della realizzazione del patrimonio vincolato serve in primo luogo a coprire i crediti derivanti dai contratti d’assicurazione garantiti in virtù dell’articolo 17. L’eccedenza è versata alla massa fallimentare.
+<sup>2</sup> I crediti di cui al capoverso 1 che possono essere constatati mediante i libri dell’impresa di assicurazione sono considerati insinuati.
 
-[^54a-1]: Introdotto dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^54a-1]: Introdotto dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi)([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^54a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 54a<sup>bis</sup>
+
+**Patrimonio vincolato**[^54abis-1]
+
+<sup>1</sup> Il ricavato della realizzazione del patrimonio vincolato serve in primo luogo a coprire i crediti degli assicurati garantiti in virtù dell’articolo 17. L’eccedenza viene ripartita proporzionalmente tra eventuali altri patrimoni vincolati dell’impresa di assicurazione. Un eventuale residuo è versato alla massa fallimentare.
+
+<sup>2</sup>
+
+Prima del passaggio in giudicato della graduatoria, il liquidatore del fallimento può soddisfare integralmente o parzialmente i crediti garantiti da un patrimonio vincolato relativi a elementi patrimoniali sempre che:
+
+- a. ciò non pregiudichi la parità di trattamento degli assicurati; e
+- b. un esame provvisorio dei crediti interessati giustifichi l’inserimento dell’importo da versare per questi crediti nella graduatoria.
+
+<sup>3</sup> Il liquidatore del fallimento deve chiedere la restituzione dei pagamenti effettuati indebitamente. Se la restituzione non ha luogo, egli risponde soltanto se, all’atto di soddisfare i crediti di cui al capoverso 2, ha agito intenzionalmente o per negligenza grave.
+
+[^54abis-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 54a<sup>ter</sup>
+
+**Strumenti di capitale di terzi assimilabili a capitale proprio**[^54ater-1]
+
+In caso di fallimento, il credito capitale e il pagamento degli interessi di strumenti di capitale assorbenti il rischio approvati dalla FINMA come strumenti di capitale imputabili al capitale sopportante i rischi secondo l’articolo 9*a* o che possono essere presi in considerazione nel capitale previsto secondo l’articolo 9*a* sono soddisfatti dopo i crediti non postergati e quelli postergati non imputabili al capitale sopportante i rischi secondo l’articolo 9*a* o che non possono essere presi in considerazione nel capitale previsto secondo l’articolo 9*a*.
+
+[^54ater-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 54b
 
@@ -776,78 +1593,146 @@ Il liquidatore del fallimento può proporre alla FINMA:
 
 [^54b-1]: Introdotto dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
+#### Art. 54b<sup>bis</sup>
+
+**Impegni assunti con le misure di protezione o nella procedura di risanamento**[^54bbis-1]
+
+Gli impegni che l’impresa di assicurazione ha legittimamente assunto, con l’approvazione della FINMA o di un incaricato dell’inchiesta o del risanamento da essa designato, per la durata delle misure di cui all’articolo 51 capoverso 2 lettere a, b, d, e ed i o durante una procedura di risanamento sono soddisfatti, in caso di fallimento, prima di tutti gli altri.
+
+[^54bbis-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
 #### Art. 54c
 
 **Ripartizione e chiusura della procedura**[^54c-1]
 
 <sup>1</sup> Se tutti gli attivi sono stati realizzati e tutti i processi inerenti alla determinazione dell’attivo e del passivo della massa sono stati liquidati, il liquidatore del fallimento compila lo stato di ripartizione definitivo e il conto finale e li sottopone per approvazione alla FINMA. I processi derivanti dalla cessione dei diritti ai sensi dell’articolo 260 LEF[^54c-2] non sono considerati.[^54c-3]
 
-<sup>2</sup> La decisione di approvazione, lo stato di ripartizione e il conto finale sono depositati per 30 giorni per consultazione. L’avviso del deposito è pubblicato nel Foglio ufficiale svizzero di commercio e nel sito Internet della FINMA; il deposito è notificato previamente a ciascun creditore con indicazione del suo riparto e ai proprietari.[^54c-4]
+<sup>2</sup> Prima di essere approvati, lo stato di ripartizione e il conto finale sono depositati per dieci giorni per consultazione. L’avviso del deposito e l’approvazione sono pubblicati nel Foglio ufficiale svizzero di commercio e nel sito Internet della FINMA.[^54c-4]
 
 <sup>3</sup> La FINMA prende le disposizioni necessarie per chiudere la procedura. Rende pubblica la chiusura.
 
 [^54c-1]: Introdotto dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^54c-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^54c-3]: Nuovo testo giusta l’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^54c-4]: Nuovo testo giusta l’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^54c-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+### Sezione 2*c*: Procedura
+
+[^chap5-sec2c-1]
+
+[^chap5-sec2c-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 54d
 
-**Procedura estera di insolvenza**[^54d-1]
+**Ricorsi contro l’omologazione del piano di risanamento**[^54d-1]
 
-Gli articoli 37*f* e 37*g* della legge dell’8 novembre 1934[^54d-2] sulle banche si applicano per analogia al riconoscimento dei decreti esteri di fallimento e delle misure estere di insolvenza, nonché al coordinamento con la procedura estera di insolvenza.
+<sup>1</sup> Se accoglie il ricorso contro l’omologazione del piano di risanamento, il giudice può unicamente accordare un’indennità.
 
-[^54d-1]: Introdotto dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^54d-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+<sup>2</sup> L’indennità è generalmente accordata sotto forma di azioni, altri diritti di partecipazione, opzioni o buoni di recupero.
+
+[^54d-1]: Introdotto dall’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi)([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 54e
 
-**Ricorso**[^54e-1]
+**Ricorsi di creditori e proprietari in caso di misure di insolvenza**[^54e-1]
 
-<sup>1</sup> Nella procedura di fallimento i creditori e i proprietari di un’assicurazione o di una società importante del gruppo o del conglomerato possono interporre ricorso soltanto contro gli atti di realizzazione e contro l’approvazione dello stato di ripartizione e del conto finale. È escluso il ricorso secondo l’articolo 17 LEF[^54e-2].
+<sup>1</sup>
 
-<sup>2</sup> Il termine per interporre ricorso contro l’approvazione dello stato di ripartizione e del conto finale decorre dal giorno successivo al loro deposito.
+Nelle procedure di cui all’articolo 51*a* capoverso 1, i creditori e i proprietari di un’impresa di assicurazione o di una società importante del gruppo o del conglomerato possono interporre ricorso soltanto contro:
 
-<sup>3</sup> I ricorsi nella procedura di fallimento non hanno effetto sospensivo. Su domanda, il giudice dell’istruzione può accordare l’effetto sospensivo.
+- a. l’omologazione del piano di risanamento;
+- b. gli atti di realizzazione;
+- c. l’approvazione dello stato di ripartizione e del conto finale.
 
-[^54e-1]: Introdotto dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta l’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^54e-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+<sup>2</sup> Gli atti di realizzazione del liquidatore del fallimento sono considerati atti materiali. Chiunque ha un interesse degno di protezione può esigere al riguardo dalla FINMA una decisione ai sensi dell’articolo 25*a* della legge federale del 20 dicembre 1968[^54e-2] sulla procedura amministrativa (PA).
 
-### Sezione 3: Disposizioni complementari in caso di fallimento di assicurazioni sulla vita
+<sup>3</sup> Il ricorso secondo l’articolo 17 LEF[^54e-3] è escluso in queste procedure.
 
-[^chap5-sec3-1]
+[^54e-1]: Introdotto dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^54e-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^54e-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-[^chap5-sec3-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+#### Art. 54f
 
-#### Art. 55
+**Termini**[^54f-1]
 
-**Fallimento dell’impresa di assicurazione**
+<sup>1</sup> Il termine per interporre ricorso contro l’omologazione del piano di risanamento e contro gli atti di realizzazione è di dieci giorni. L’articolo 22*a* PA[^54f-2] non è applicabile.
 
-<sup>1</sup> In deroga all’articolo 37 capoverso 1 della legge federale del 2 aprile 1908[^55-1] sul contratto d’assicurazione, la dichiarazione di fallimento non estingue le assicurazioni sulla vita garantite dal patrimonio vincolato.
+<sup>2</sup> Il termine per interporre ricorso contro l’omologazione del piano di risanamento decorre dal giorno successivo a quello in cui sono resi noti pubblicamente i principi del piano di risanamento. Il termine per interporre ricorso contro l’approvazione dello stato di ripartizione e del conto finale decorre dal giorno successivo a quello in cui è stata resa nota pubblicamente l’approvazione.
+
+[^54f-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^54f-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 54g
+
+**Effetto sospensivo**[^54g-1]
+
+I ricorsi interposti nelle procedure di cui all’articolo 51*a* capoverso 1 non hanno effetto sospensivo. Su domanda, il giudice dell’istruzione può accordare l’effetto sospensivo. La concessione dell’effetto sospensivo è esclusa per ricorsi interposti contro:
+
+- a. l’ordine di misure di protezione;
+- b. l’ordine di una procedura di risanamento;
+- c. l’omologazione del piano di risanamento;
+- d. l’ordine di fallimento.
+
+[^54g-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 54h
+
+**Fondo nazionale di garanzia**[^54h-1]
+
+Se, in seguito all’insolvenza di un’impresa di assicurazione, al Fondo nazionale di garanzia è conferito un compito di cui all’articolo 76 capoverso 4 lettera b della legge federale del 19 dicembre 1958[^54h-2] sulla circolazione stradale, nella procedura di cui all’articolo 51*a* capoverso 1 della presente legge lo stesso Fondo assume la posizione di creditore per tutelare i propri interessi.
+
+[^54h-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^54h-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+#### Art. 54i
+
+**Riconoscimento di decreti di fallimento e di misure esteri**[^54i-1]
+
+<sup>1</sup> La FINMA decide in merito al riconoscimento di decreti di fallimento e di misure di insolvenza pronunciati all’estero nei confronti di imprese di assicurazione.
 
 <sup>2</sup>
 
-Per quanto concerne le assicurazioni di cui al capoverso 1, la FINMA può:
+La FINMA può, senza che sia eseguita una procedura in Svizzera, mettere a disposizione della massa di insolvenza estera il patrimonio situato in Svizzera, se nella procedura estera di insolvenza:
 
-- a. vietare il riscatto e la costituzione in pegno nonché anticipazioni su polizza e, nel caso previsto nell’articolo 36 della legge federale del 2 aprile 1908 sul contratto d’assicurazione, il pagamento della riserva matematica;
-- b. concedere una moratoria sia all’impresa di assicurazione per adempiere i suoi impegni sia agli stipulanti per pagare i loro premi.
+- a. i crediti garantiti da pegno e i crediti privilegiati ai sensi dell’articolo 219 LEF[^54i-2] di creditori domiciliati in Svizzera nonché i crediti derivanti da contratti d’assicurazione per i quali è prestata una garanzia ai sensi dell’articolo 17 della presente legge sono trattati in maniera equivalente; e
+- b. gli altri crediti di creditori domiciliati in Svizzera sono presi adeguatamente in considerazione.
 
-<sup>3</sup> Durante la moratoria per il pagamento dei premi, il contratto d’assicurazione può essere annullato o trasformato in un’assicurazione liberata soltanto se lo stipulante ne fa richiesta scritta.
+<sup>3</sup> Essa può riconoscere anche decreti di fallimento e misure pronunciati nello Stato in cui l’impresa di assicurazione ha la sua sede effettiva.
 
-[^55-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+<sup>4</sup> Se per il patrimonio situato in Svizzera viene eseguita una procedura in Svizzera, nella graduatoria possono essere menzionati anche creditori della terza classe secondo l’articolo 219 capoverso 4 LEF e creditori domiciliati all’estero.
 
-#### Art. 56
+<sup>5</sup> Se l’impresa di assicurazione ha una succursale in Svizzera, la procedura prevista dall’articolo 50 capoverso 1 LEF è ammessa finché la graduatoria secondo l’articolo 172 della legge federale del 18 dicembre 1987[^54i-3] sul diritto internazionale privato (LDIP) passa in giudicato.
 
-**Liquidazione fallimentare del patrimonio vincolato**[^56-1]
+<sup>6</sup> Per il rimanente si applicano gli articoli 166–175 LDIP.
 
-<sup>1</sup> Se non adotta provvedimenti particolari, segnatamente se non è possibile trasferire il portafoglio secondo l’articolo 51 capoverso 2 lettera d, la FINMA ordina la realizzazione del patrimonio vincolato.
+[^54i-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^54i-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^54i-3]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 
-<sup>2</sup> L’ordine di realizzazione estingue i contratti d’assicurazione. Gli stipulanti e gli aventi diritto possono quindi far valere le pretese derivanti dall’articolo 36 capoverso 3 della legge sul contratto d’assicurazione del 2 aprile 1908[^56-2], nonché le pretese sulle assicurazioni scadute e sulle quote di partecipazione agli utili accreditate.
+#### Art. 54j
 
-[^56-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^56-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+**Coordinamento con le procedure estere**[^54j-1]
 
-### Sezione 4: Provvedimenti conservativi supplementari applicabili alle imprese di assicurazione estere
+<sup>1</sup> Se l’impresa di assicurazione è oggetto di una procedura di esecuzione forzata anche all’estero, la FINMA coordina, per quanto possibile, la procedura di insolvenza con i competenti organi esteri.
+
+<sup>2</sup> Se un creditore è già stato parzialmente tacitato in una procedura estera connessa alla procedura di insolvenza, l’importo che ha ottenuto è imputato, dedotte le spese a suo carico, alla procedura di insolvenza svizzera.
+
+[^54j-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+### Sezione 3: ...
+
+#### Art. 55 e 56
+
+[^5556-1]
+
+[^5556-1]: Abrogati dal n. I della LF del 18 mar. 2022, con effetto dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+### Sezione 4: Misure di protezione supplementari applicabili alle imprese di assicurazione estere
+
+[^chap5-sec4-1]
+
+[^chap5-sec4-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 57
 
@@ -963,11 +1848,21 @@ La sorveglianza di gruppi secondo la presente sezione è esercitata a titolo com
 
 #### Art. 67
 
-**Garanzia di un’attività irreprensibile**[^67-1]
+**Strumenti della sorveglianza dei gruppi**[^67-1]
 
-Gli articoli 14 e 22 si applicano per analogia al gruppo assicurativo e alle persone incaricate della direzione generale, della sorveglianza, del controllo e della gestione del gruppo assicurativo nonché alla gestione dei rischi del gruppo assicurativo.
+<sup>1</sup> Il gruppo assicurativo e le persone incaricate della gestione, da un lato, e quelle incaricate della direzione generale, della sorveglianza e del controllo del gruppo assicurativo, dall’altro, devono offrire la garanzia di un’attività irreprensibile.
 
-[^67-1]: Nuovo testo giusta l’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+<sup>2</sup> Le persone di cui al capoverso 1 devono inoltre godere di buona reputazione.
+
+<sup>3</sup> Il gruppo assicurativo deve essere organizzato in modo tale da essere in grado, in particolare, di individuare, limitare e controllare tutti i rischi essenziali.
+
+<sup>4</sup> I gruppi assicurativi sono tenuti a elaborare piani di stabilizzazione secondo l’articolo 22*a*. Con l’elaborazione di un piano di stabilizzazione completo decade l’obbligo delle imprese di assicurazione del gruppo di elaborare ulteriori piani.
+
+<sup>5</sup> La FINMA può elaborare piani di liquidazione («resolution plans») per gruppi assicurativi. Indica le modalità per realizzare il risanamento o la liquidazione del gruppo assicurativo da essa ordinati. Il gruppo assicurativo deve fornire alla FINMA le informazioni necessarie. Se la FINMA elabora un piano di liquidazione completo per il gruppo assicurativo, le imprese di assicurazione del gruppo non sono tenute a elaborare ulteriori piani.
+
+<sup>6</sup> Il Consiglio federale può emanare disposizioni volte ad attuare principi internazionalmente riconosciuti applicabili alla sorveglianza dei gruppi assicurativi attivi a livello internazionale.
+
+[^67-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 68
 
@@ -977,11 +1872,13 @@ La FINMA può emanare prescrizioni concernenti la vigilanza su processi interni 
 
 #### Art. 69
 
-**Fondi propri**
+**Solvibilità**[^69-1]
 
-<sup>1</sup> Il Consiglio federale determina i fondi propri computabili a livello di gruppo.
+<sup>1</sup> Il gruppo assicurativo deve disporre di sufficiente solvibilità.
 
-<sup>2</sup> La FINMA stabilisce i fondi propri necessari. Nel farlo, si fonda sui principi riconosciuti nel settore assicurativo a livello internazionale e tiene conto dell’importanza degli altri campi d’attività e dei relativi rischi.
+<sup>2</sup> Gli articoli 9–9*c* si applicano per analogia.
+
+[^69-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 70
 
@@ -995,22 +1892,22 @@ I gruppi assicurativi incaricano una società di audit abilitata dall’Autorit�
 
 #### Art. 71
 
-**Obbligo d’informare**
+**Obbligo d’informazione e di notifica**[^71-1]
 
-L’obbligo d’informare secondo l’articolo 47 incombe a tutte le imprese del gruppo assicurativo.
+Le imprese di assicurazione facenti parte di un gruppo assicurativo rispettano l’obbligo d’informazione e di notifica di cui all’articolo 29 LFINMA[^71-2].
+
+[^71-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^71-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 #### Art. 71<sup>bis</sup>
 
-**Fallimento**[^71bis-1]
+**Piano d’esercizio**[^71bis-1]
 
-<sup>1</sup> Gli articoli 53–54*e* della presente legge si applicano per analogia a una società del gruppo con sede in Svizzera che svolge funzioni importanti per l’attività soggetta ad autorizzazione e che non sottostà nel quadro della vigilanza sul singolo istituto alla competenza della FINMA in materia di fallimento (società del gruppo importante) ai sensi delle leggi sui mercati finanziari secondo l’articolo 1 della legge del 22 giugno 2007[^71bis-2] sulla vigilanza dei mercati finanziari (leggi sui mercati finanziari).
+<sup>1</sup> Le modifiche della società madre del gruppo che riguardano gli elementi del piano d’esercizio di cui all’articolo 4 capoverso 2 lettera g devono essere sottoposte per approvazione alla FINMA.
 
-<sup>2</sup> Il Consiglio federale disciplina i criteri di valutazione dell’importanza.
+<sup>2</sup> Per le altre società importanti del gruppo di cui all’articolo 2*a* la FINMA può ordinare un obbligo di approvazione ai sensi del capoverso 1.
 
-<sup>3</sup> La FINMA designa le società del gruppo importanti e ne allestisce un elenco. Quest’ultimo è accessibile al pubblico.
-
-[^71bis-1]: Introdotto dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^71bis-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^71bis-1]: Introdotto dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Sezione 2: Conglomerati assicurativi
 
@@ -1050,11 +1947,21 @@ La sorveglianza di conglomerati secondo la presente sezione è esercitata a tito
 
 #### Art. 75
 
-**Garanzia di un’attività irreprensibile**[^75-1]
+**Strumenti della sorveglianza di conglomerati assicurativi**[^75-1]
 
-Gli articoli 14 e 22 si applicano per analogia al conglomerato assicurativo e alle persone incaricate della direzione generale, della sorveglianza, del controllo e della gestione del conglomerato assicurativo nonché alla gestione dei rischi del conglomerato assicurativo.
+<sup>1</sup> Il conglomerato assicurativo e le persone incaricate della gestione, da un lato, e quelle incaricate della direzione generale, della sorveglianza e del controllo del conglomerato assicurativo, dall’altro, devono offrire la garanzia di un’attività irreprensibile.
 
-[^75-1]: Nuovo testo giusta l’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+<sup>2</sup> Le persone di cui al capoverso 1 devono inoltre godere di buona reputazione.
+
+<sup>3</sup> Il conglomerato assicurativo deve essere organizzato in modo da essere in grado, in particolare, di individuare, limitare e controllare tutti i rischi essenziali.
+
+<sup>4</sup> I conglomerati assicurativi sono tenuti a elaborare piani di stabilizzazione secondo l’articolo 22*a*. Con l’elaborazione di un piano di stabilizzazione completo decade l’obbligo delle imprese di assicurazione del conglomerato di elaborare ulteriori piani.
+
+<sup>5</sup> La FINMA può elaborare piani di liquidazione («resolution plans») per conglomerati assicurativi. Indica le modalità per realizzare il risanamento o la liquidazione del conglomerato assicurativo da essa ordinati. Il conglomerato assicurativo deve fornire alla FINMA le informazioni necessarie. Se la FINMA elabora un piano di liquidazione completo per il conglomerato assicurativo, le imprese di assicurazione del conglomerato non sono tenute a elaborare ulteriori piani.
+
+<sup>6</sup> Il Consiglio federale può emanare disposizioni volte ad attuare principi internazionalmente riconosciuti applicabili alla sorveglianza dei conglomerati assicurativi attivi a livello internazionale.
+
+[^75-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 76
 
@@ -1064,11 +1971,13 @@ La FINMA può emanare prescrizioni concernenti la vigilanza su processi interni 
 
 #### Art. 77
 
-**Fondi propri**
+**Solvibilità**[^77-1]
 
-<sup>1</sup> Il Consiglio federale determina i fondi propri computabili a livello di conglomerato.
+<sup>1</sup> Il conglomerato assicurativo deve disporre di sufficiente solvibilità.
 
-<sup>2</sup> La FINMA stabilisce i fondi propri necessari. Nel farlo, si fonda sui principi riconosciuti nel settore assicurativo e finanziario a livello internazionale e tiene conto dell’importanza di questi campi d’attività e dei relativi rischi.
+<sup>2</sup> Gli articoli 9–9*c* si applicano per analogia.
+
+[^77-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 78
 
@@ -1088,41 +1997,66 @@ L’obbligo d’informare di cui all’articolo 47 incombe a tutte le imprese de
 
 #### Art. 79<sup>bis</sup>
 
-**Fallimento**[^79bis-1]
+**Piano d’esercizio**[^79bis-1]
 
-<sup>1</sup> Gli articoli 53–54*e* si applicano per analogia alla società di un conglomerato con sede in Svizzera che svolge funzioni importanti per l’attività soggetta ad autorizzazione e che non sottostà alla competenza della FINMA in materia di fallimento (società del conglomerato importante) ai sensi delle leggi sui mercati finanziari.
+<sup>1</sup> La società madre del conglomerato sottopone per approvazione alla FINMA le modifiche che riguardano gli elementi del piano d’esercizio di cui all’articolo 4 capoverso 2 lettera g.
 
-<sup>2</sup> Il Consiglio federale disciplina i criteri di valutazione dell’importanza.
+<sup>2</sup> Per le altre società importanti del conglomerato di cui all’articolo 2*a* la FINMA può prevedere un obbligo di approvazione secondo il capoverso 1.
 
-<sup>3</sup> La FINMA designa le società del conglomerato importanti e ne stila un elenco. Quest’ultimo è accessibile al pubblico.
+[^79bis-1]: Introdotto dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
-[^79bis-1]: Introdotto dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+## Capitolo 7: Consegna di documenti agli stipulanti e all’assicurato
 
-## Capitolo 7: Cooperazione e procedura
+[^chap7-1]
+
+[^chap7-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 80
 
-[^80-1]
+**Diritto**[^80-1]
 
-[^80-1]: Abrogato dall’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+<sup>1</sup> Gli stipulanti e l’assicurato hanno in ogni momento diritto alla consegna di una copia del proprio dossier e di tutti gli altri documenti che li riguardano elaborati dall’impresa di assicurazione o dall’intermediario assicurativo nell’ambito della relazione d’affari.
 
-#### Art. 81a 83
+<sup>2</sup> Con il consenso dello stipulante e dell’assicurato, la consegna può avvenire in forma elettronica.
 
-[^8183-1]
+[^80-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
-[^8183-1]: Abrogati dall’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+#### Art. 81
+
+**Procedura**[^81-1]
+
+<sup>1</sup> Chi intende far valere il diritto alla consegna di documenti, presenta una richiesta in forma scritta o in un’altra forma che ne consenta la prova per testo.
+
+<sup>2</sup> L’impresa di assicurazione o l’intermediario assicurativo fa pervenire gratuitamente allo stipulante e all’assicurato una copia dei documenti entro 30 giorni dalla ricezione della richiesta.
+
+<sup>3</sup> In una lite successiva, il giudice può tenere conto, nella decisione sulle spese giudiziarie, del rifiuto della consegna dei documenti.
+
+[^81-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+
+#### Art. 82 e 83
+
+[^8283-1]
+
+[^8283-1]: Abrogati dall’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+## Capitolo 7*a*: Decisioni tariffali e contenzioso giudiziario
+
+[^chap7a-1]
+
+[^chap7a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 84
 
-**Procedura**
+**Decisioni tariffali[^84-1]**
 
-<sup>1</sup> Nel Foglio federale sono comunicate le decisioni prese sui tariffali concernenti contratti d’assicurazioni in corso. La comunicazione descrive sommariamente l’oggetto e il contenuto della decisione e, per gli assicurati, equivale a notificazione della decisione secondo l’articolo 36 della legge federale del 20 dicembre 1968[^84-1] sulla procedura amministrativa.
+<sup>1</sup> Nel Foglio federale sono comunicate le decisioni prese sui tariffali concernenti contratti d’assicurazioni in corso. La comunicazione descrive sommariamente l’oggetto e il contenuto della decisione e, per gli assicurati, equivale a notificazione della decisione secondo l’articolo 36 della legge federale del 20 dicembre 1968[^84-2] sulla procedura amministrativa.
 
 <sup>2</sup> I ricorsi devono essere presentati entro 30 giorni dalla comunicazione della decisione.
 
 <sup>3</sup> I ricorsi contro decisioni sulle tariffe non hanno effetto sospensivo.
 
-[^84-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^84-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^84-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 85
 
@@ -1142,22 +2076,15 @@ L’obbligo d’informare di cui all’articolo 47 incombe a tutte le imprese de
 
 <sup>1</sup>
 
-È punito con la multa sino a 500 000 franchi chiunque, intenzionalmente:
+È punito con la multa sino a 100 000 franchi chiunque, intenzionalmente:
 
-- a. viola un obbligo secondo l’articolo 13;
-- b. viola gli obblighi di notificazione secondo l’articolo 21;
-- c. non presenta entro il termine legale il rapporto di gestione e il rapporto di sorveglianza di cui all’articolo 25;
-- d. non costituisce le riserve tecniche prescritte dal diritto di sorveglianza o approvate nel singolo caso;
-- e. viola uno degli obblighi di informare secondo l’articolo 45;
-- f. viola le disposizioni dell’articolo 79*c* capoverso 1 della legge federale del 19 dicembre 1958[^86-2] sulla circolazione stradale relative alla liquidazione dei sinistri nel settore dell’assicurazione di responsabilità civile per i veicoli a motore.
+- a. viola uno degli obblighi d’informare di cui all’articolo 2*c* capoversi 1 e 2;
+- b. viola uno degli obblighi di notificazione di cui all’articolo 21;
+- c. viola uno degli obblighi di comunicazione o d’informazione di cui agli articoli 14*a* capoverso 2, 45, 45*a* capoverso 2 e 45*b*.
 
-<sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 150 000 franchi.
+<sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 50 000 franchi.
 
-<sup>3</sup> …[^86-3]
-
-[^86-1]: Nuovo testo giusta l’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^86-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^86-3]: Abrogato dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^86-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 87
 
@@ -1167,17 +2094,14 @@ L’obbligo d’informare di cui all’articolo 47 incombe a tutte le imprese de
 
 È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, intenzionalmente:
 
-- a. conclude contratti d’assicurazione per conto di un’impresa di assicurazione non autorizzata a esercitare in Svizzera oppure agisce in veste d’intermediario per la conclusione di tali contratti;
-- b. non sottopone per approvazione modifiche del piano d’esercizio secondo l’articolo 5 capoverso 1 o non notifica alla FINMA modifiche del piano d’esercizio secondo l’articolo 5 capoverso 2;
+- a. conclude contratti d’assicurazione per conto di un’impresa di assicurazione che non dispone dell’autorizzazione necessaria ai sensi della presente legge o agisce in veste d’intermediario per la conclusione di tali contratti;
+- b. distribuisce contratti d’assicurazione per il tramite di un intermediario assicurativo che non dispone della registrazione necessaria ai sensi della presente legge;
 - c. ritira o grava beni del patrimonio vincolato di entità tale che l’importo legale non risulta più coperto;
-- d. compie qualsiasi altro atto che diminuisca la sicurezza degli elementi del patrimonio vincolato.
+- d. compie qualsiasi altro atto che diminuisca la garanzia degli elementi del patrimonio vincolato.
 
 <sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 250 000 franchi.
 
-<sup>3</sup> …[^87-2]
-
-[^87-1]: Nuovo testo giusta l’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^87-2]: Abrogato dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^87-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ## Capitolo 9: Disposizioni finali
 
@@ -1218,6 +2142,20 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 <sup>7</sup> I gruppi assicurativi o i conglomerati assicurativi già esistenti devono conformarsi alle nuove prescrizioni entro due anni dall’entrata in vigore della presente legge.
 
 <sup>8</sup> Su domanda motivata, la FINMA può prorogare i termini di cui ai capoversi 5, 6, 7.
+
+#### Art. 90a
+
+**Disposizioni transitorie della modifica del 18 marzo 2022**[^90a-1]
+
+<sup>1</sup> Le imprese di assicurazione che intendono usufruire degli allentamenti previsti in materia di sorveglianza dichiarano alla FINMA, entro sei mesi dall’entrata in vigore della modifica del 18 marzo 2022, quali delle operazioni di cui all’articolo 4 capoverso 2 lettera k vogliono concludere.
+
+<sup>2</sup> Le imprese di assicurazione con sede in Svizzera che hanno costituito un patrimonio vincolato per portafogli di succursali estere devono adempiere i requisiti di cui all’articolo 17 capoverso 2 entro sei mesi dall’entrata in vigore della modifica del 18 marzo 2022 e informarne gli assicurati interessati.
+
+<sup>3</sup> Gli obblighi relativi alle assicurazioni sulla vita qualificate (art. 39*a*–39*k*) devono essere osservati entro un anno dall’entrata in vigore della modifica del 18 marzo 2022.
+
+<sup>4</sup> I requisiti di cui all’articolo 43 devono essere adempiuti entro due anni dall’entrata in vigore della modifica del 18 marzo 2022.
+
+[^90a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 91
 
