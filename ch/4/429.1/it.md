@@ -4,11 +4,11 @@ title: Legge federale del 18 giugno 1999 sulla meteorologia e la climatologia (L
 short: LMet
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/113"
 language: it
-version: 2007-01-01
+version: 2024-01-01
 adopted: 1999-06-18
 in_force: 2000-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/113/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2000-113-20070101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/113/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2000-113-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20070101/it"
 
 (LMet)
 
-del 18 giugno 1999 (Stato 1° gennaio 2007)
+del 18 giugno 1999 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 24<sup>bis</sup> capoverso 2, 24<sup>quinquies</sup> capovers
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1957 1065](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065), [1971 905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905), [1973 1049](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049), [1976 715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)]. Vedi ora gli art. 64, 74, 76, 87, 118 e 173 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [CS **1** 3; [RU 1957 1065](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065); [1971 905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905); [1973 1049](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049); [1976 715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)]. Vedi ora gli art. 64, 74, 76, 87, 118 e 173 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^ingress-2]: FF **1998** 3243
 
 #### Art. 1
@@ -59,7 +59,29 @@ Nei settori della meteorologia e della climatologia la Confederazione adempie i 
 
 <sup>2</sup> L’Ufficio federale provvede a stabilire l’offerta di base, mette a disposizione di terzi i dati e le informazioni raccolti nell’ambito dei compiti della Confederazione e fornisce informazioni e consulenza.
 
-<sup>3</sup> L’Ufficio federale riscuote emolumenti per queste prestazioni. Gli emolumenti possono essere graduati in funzione del genere di utilizzazione. Nel calcolo degli emolumenti si devono tenere adeguatamente in considerazione l’utilità generale delle informazioni meteorologiche e climatologiche nonché i bisogni dei Cantoni e della scienza.
+<sup>3</sup>
+
+Nell’ambito dell’offerta di base l’Ufficio federale fornisce le seguenti prestazioni gratuitamente:
+
+- a. appronta i dati di cui all’articolo 10 capoverso 1 della legge federale del 17 marzo 2023[^3-1] concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità (LMeCA);
+- b. diffonde informazioni meteorologiche e climatologiche di interesse per la collettività nel quadro dei compiti di cui all’articolo 1 lettere c, e ed h, in particolare la messa in guardia contro pericoli meteorologici, le previsioni meteorologiche e i dati sull’evoluzione climatica.[^3-2]
+
+<sup>4</sup>
+
+L’Ufficio federale può riscuotere emolumenti per l’approntamento di:
+
+- a. dati che sono utilizzati soltanto da un numero limitato di utenti e la cui preparazione o messa a disposizione richiede considerevoli risorse materiali o di personale supplementari (art. 10 cpv. 2 lett. c LMeCA); il Consiglio federale stabilisce quali sono questi dati e ne disciplina la verifica periodica; a tal fine, tiene conto del progresso tecnico e degli standard internazionali rilevanti;
+- b. dati e prestazioni dell’offerta di base generati sulla base di mandati previsti in leggi speciali o su richiesta.[^3-3]
+
+<sup>5</sup> Il Consiglio federale disciplina la riscossione degli emolumenti. A tal fine, tiene conto dei principi dell’equivalenza e della copertura dei costi.[^3-4]
+
+<sup>6</sup> La riscossione degli emolumenti per il trattamento e l’approntamento di dati e prestazioni secondo l’articolo 1 lettera d è retta dalle disposizioni di leggi speciali.[^3-5]
+
+[^3-1]: [RS 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)
+[^3-2]: Nuovo testo giusta l’all. n. 1 della LF del 17 mar. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-3]: Introdotto dall’all. n. 1 della LF del 17 mar. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-4]: Introdotto dall’all. n. 1 della LF del 17 mar. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-5]: Introdotto dall’all. n. 1 della LF del 17 mar. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
 
 #### Art. 4
 
@@ -89,7 +111,7 @@ Nei settori della meteorologia e della climatologia la Confederazione adempie i 
 
 <sup>3</sup> In merito alle prestazioni, il Consiglio federale può stipulare con terzi appositi accordi; vi stabilisce il genere della partecipazione e l’entità delle prestazioni.
 
-[^5a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4881](https://fedlex.data.admin.ch/eli/oc/2006/759)4882, [FF 2005 4837](https://fedlex.data.admin.ch/eli/fga/2005/853)).
+[^5a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4881](https://fedlex.data.admin.ch/eli/oc/2006/759), 4882; [FF 2005 4837](https://fedlex.data.admin.ch/eli/fga/2005/853)).
 
 #### Art. 6
 

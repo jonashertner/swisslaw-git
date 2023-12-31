@@ -4,11 +4,11 @@ title: Loi fédérale du 18 juin 1999 sur la météorologie et la climatologie (
 short: LMét
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/113"
 language: fr
-version: 2007-01-01
+version: 2024-01-01
 adopted: 1999-06-18
 in_force: 2000-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/113/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-113-20070101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/113/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-113-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20070101/fr"
 
 (LMét)
 
-du 18 juin 1999 (Etat le 1er janvier 2007)
+du 18 juin 1999 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -59,7 +59,29 @@ La Confédération assume les tâches suivantes en matière de météorologie et
 
 <sup>2</sup> L’office veille à ce que les prestations de base soient offertes, met à la disposition du public les données et informations recueillies dans le cadre des tâches de la Confédération et fournit des renseignements et des conseils.
 
-<sup>3</sup> Il perçoit des émoluments pour ces prestations. Le tarif des émoluments peut être échelonné en fonction du genre d’utilisation auquel ces dernières sont destinées. Lors du calcul des émoluments, il doit être dûment tenu compte de l’utilité publique des informations météorologiques et climatologiques ainsi que des besoins des cantons et des milieux scientifiques.
+<sup>3</sup>
+
+Dans le cadre des prestations de base, l’office assure gratuitement les prestations suivantes:
+
+- a. il fournit les données visées à l’art. 10, al. 1, de la loi fédérale du 17 mars 2023 sur l’utilisation des moyens électroniques pour l’exécution des tâches des autorités (LMETA)[^3-1];
+- b. il diffuse les informations météorologiques et climatologiques d’intérêt public dans le cadre des tâches qui lui sont dévolues à l’art. 1, let. c, e et h, en particulier les avis d’intempéries, les prévisions météorologiques et les données relatives à l’évolution du climat.[^3-2]
+
+<sup>4</sup>
+
+L’office peut percevoir des émoluments pour la fourniture:
+
+- a. de données qui ne sont utilisées que par un nombre limité de personnes et dont le traitement ou la mise à disposition requièrent d’importantes ressources matérielles ou humaines supplémentaires (art. 10, al. 2, let. c, LMETA); le Conseil fédéral détermine les données concernées, ainsi que les modalités de leur réexamen périodique; il tient compte des progrès techniques et des normes internationales pertinentes;
+- b. de données et prestations de base générées en vertu d’une loi spéciale ou sur demande.[^3-3]
+
+<sup>5</sup> Le Conseil fédéral arrête les modalités de la perception des émoluments. Il tient compte des principes de l’équivalence et de la couverture des coûts.[^3-4]
+
+<sup>6</sup> La perception d’émoluments pour le traitement et la fourniture de données ou prestations au sens de l’art. 1, let. d, est régie par la législation spéciale.[^3-5]
+
+[^3-1]: [RS 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)
+[^3-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 mars 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-3]: Introduit par l’annexe ch. 1 de la LF du 17 mars 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-4]: Introduit par l’annexe ch. 1 de la LF du 17 mars 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-5]: Introduit par l’annexe ch. 1 de la LF du 17 mars 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
 
 #### Art. 4
 
@@ -89,7 +111,7 @@ La Confédération assume les tâches suivantes en matière de météorologie et
 
 <sup>3</sup> Il peut conclure avec des tiers des contrats de prestations dans lesquels il définit la participation de la Suisse et les prestations fournies par les tiers.
 
-[^5a-1]: Introduit par le ch. I de la LF du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4881](https://fedlex.data.admin.ch/eli/oc/2006/759)4882; [FF 2005 5095](https://fedlex.data.admin.ch/eli/fga/2005/851))
+[^5a-1]: Introduit par le ch. I de la LF du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4881](https://fedlex.data.admin.ch/eli/oc/2006/759)4882; [FF 2005 5095](https://fedlex.data.admin.ch/eli/fga/2005/851)).
 
 #### Art. 6
 
@@ -125,4 +147,4 @@ Sont abrogés:
 
 Date de l’entrée en vigueur: 1<sup>er</sup> avril 2000[^9-1]
 
-[^9-1]: ACF du 23 fév. 2000 (RO **2000** 666).
+[^9-1]: ACF du 23 fév. 2000.

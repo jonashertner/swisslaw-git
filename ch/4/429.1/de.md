@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Juni 1999 über die Meteorologie und Klimatologie (M
 short: MetG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/113"
 language: de
-version: 2007-01-01
+version: 2024-01-01
 adopted: 1999-06-18
 in_force: 2000-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/113/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2000-113-20070101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/113/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2000-113-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20070101/de"
 
 (MetG)
 
-vom 18. Juni 1999 (Stand am 1. Januar 2007)
+vom 18. Juni 1999 (Stand am 1. Januar 2024) (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -61,7 +61,29 @@ Der Bund erfüllt im Bereich der Meteorologie und Klimatologie folgende Aufgaben
 
 <sup>2</sup> Das Bundesamt sorgt für die Bereitstellung des Grundangebots, stellt die im Rahmen der Bundesaufgaben erhobenen Daten und Informationen Dritten zur Verfügung und betreibt Auskunfts- und Beratungsdienste.
 
-<sup>3</sup> Es erhebt für diese Dienstleistungen Gebühren. Sie können nach der Art der Nutzung abgestuft werden. Bei der Bemessung der Gebühren ist dem Allgemeinnutzen der meteorologischen und klimatologischen Informationen sowie den Bedürfnissen der Kantone und der Wissenschaft angemessen Rechnung zu tragen.
+<sup>3</sup>
+
+Im Rahmen des Grundangebots erbringt es folgende Leistungen, ohne dafür ein Entgelt zu verlangen:
+
+- a. Es stellt die Daten nach Artikel 10 Absatz 1 des Bundesgesetzes vom 17. März 2023[^3-1] über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben (EMBAG) bereit.
+- b. Es verbreitet Wetter- und Klimainformationen im Interesse der Allgemeinheit im Rahmen der Aufgaben nach Artikel 1 Buchstaben c, e und h, insbesondere Warnungen vor Gefahren des Wetters, Wettervorhersagen und Grundlagen zur Klimaentwicklung.[^3-2]
+
+<sup>4</sup>
+
+Es kann Gebühren erheben für die Bereitstellung von:
+
+- a. Daten, die nur von einem eingeschränkten Nutzerkreis verwendet werden und deren Aufbereitung oder Zurverfügungstellung bedeutende zusätzliche sachliche oder personelle Mittel erfordert (Art. 10 Abs. 2 Bst. c EMBAG); der Bundesrat regelt, um welche Daten es sich dabei handelt sowie deren periodische Überprüfung; er orientiert sich dabei am technischen Fortschritt und an relevanten internationalen Standards.
+- b. Daten und Dienstleistungen des Grundangebots, die aufgrund von spezialgesetzlichen Aufträgen oder auf Anfrage generiert werden.[^3-3]
+
+<sup>5</sup> Der Bundesrat regelt die Erhebung der Gebühren. Er berücksichtigt dabei das Äquivalenz- und das Kostendeckungsprinzip.[^3-4]
+
+<sup>6</sup> Die Erhebung der Gebühren für die Bearbeitung und Bereitstellung von Daten und Dienstleistungen nach Artikel 1 Buchstabe d richtet sich nach den spezialgesetzlichen Bestimmungen.[^3-5]
+
+[^3-1]: [SR 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)
+[^3-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. März 2023 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [BBl 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [BBl 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [BBl 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^3-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [BBl 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
 
 #### Art. 4
 
@@ -127,4 +149,4 @@ Es werden aufgehoben:
 
 Datum des Inkrafttretens: 1. April 2000[^9-1]
 
-[^9-1]: BRB vom 23. Febr. 2000 (AS **2000** 666)
+[^9-1]: BRB vom 23. Febr. 2000
