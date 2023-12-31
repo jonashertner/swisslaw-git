@@ -4,13 +4,13 @@ number: "860.1"
 title: Gesetz über die öffentliche Sozialhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-09
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-13
 adopted: 2001-06-11
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2481/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2481/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-vom 11.06.2001 (Stand 01.01.2022)
+vom 11.06.2001 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -65,7 +65,7 @@ beschliesst:
 
 <sup>1</sup> Zum Erreichen des Zwecks und der Wirkungsziele der Sozialhilfe werden die in diesem Gesetz vorgesehenen Massnahmen getroffen.
 
-<sup>2</sup> Zu den Massnahmen gehören insbesondere das Bereitstellen der Leistungsangebote der individuellen Sozialhilfe, der Leistungsangebote für erwachsene Menschen mit Behinderungen sowie das Gewähren von Leistungen.
+<sup>2</sup> Zu den Massnahmen gehören insbesondere das Bereitstellen der Leistungsangebote der individuellen Sozialhilfe sowie das Gewähren von Leistungen.
 
 #### Art. 5
 
@@ -146,11 +146,7 @@ beschliesst:
 <sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion
 
 - a konkretisiert die Ziele der Sozialhilfe und sorgt für deren Umsetzung,
-- b erhebt und analysiert regelmässig den Bedarf an Leistungsangeboten,
-- c plant und koordiniert bedarfsgerechte Leistungsangebote,
-- d stellt die erforderlichen Leistungsangebote für erwachsene Menschen mit Behinderungen bereit,
-- e überprüft regelmässig die Wirkung und die Qualität der Leistungsangebote,
-- f …
+- b–f …
 - g berät die Gemeinden in Vollzugsfragen,
 - h erlässt in Zusammenarbeit mit den Gemeinden Vorschriften für das Controlling der Gemeinden,
 - i vollzieht die interkantonale und internationale Sozialhilfe,
@@ -162,7 +158,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden stellen nach den kantonalen Vorgaben die individuellen Leistungsangebote bereit. Sie vollziehen die individuelle Sozialhilfe und überprüfen regelmässig die Wirkung der Leistungsangebote.
 
-<sup>2</sup> Sie unterstützen die Gesundheits-, Sozial- und Integrationsdirektion beim Bereitstellen von Leistungsangeboten für erwachsene Menschen mit Behinderungen.
+<sup>2</sup> …
 
 <sup>3</sup> Sie können auf eigene Kosten Leistungsangebote bereitstellen, die über die kantonalen Vorgaben hinausgehen.
 
@@ -201,7 +197,7 @@ beschliesst:
 
 <sup>4</sup> Sie nimmt Controlling- und Planungsaufgaben wahr, indem sie den Bedarf an Leistungsangeboten in der Gemeinde erhebt und der Gesundheits-, Sozial- und Integrationsdirektion über ihre Arbeit und diejenige des Sozialdienstes Bericht erstattet.
 
-<sup>5</sup> Die Gemeinden können der Sozialbehörde Aufgaben im Bereich der sozialen Leistungsangebote übertragen.
+<sup>5</sup> …
 
 <sup>6</sup> Die Sozialbehörde orientiert regelmässig die Gemeinden, für die sie zuständig ist, über alle wesentlichen Entwicklungen in ihrem Zuständigkeitsbereich.
 
@@ -994,21 +990,11 @@ beschliesst:
 
 <sup>3</sup> Er legt insbesondere fest, wann ein ausserordentlicher Fall vorliegt und kann die Anzahl der Leistungserbringer, die eine Kostengutsprache nach Absatz 1 einholen können, beschränken.
 
-## 4 Leistungsangebote für erwachsene Menschen mit Behinderungen
+## 4
 
-### 4.1 Allgemeines
+### 4.1
 
-#### Art. 58
-
-**Leistungsangebote**
-
-<sup>1</sup> Für die Leistungsangebote für erwachsene Menschen mit Behinderungen gelten die Bestimmungen des SLG.
-
-<sup>2</sup> Die Bereitstellung und Finanzierung der Leistungsangebote richtet sich nach diesem Gesetz.
-
-<sup>3</sup> …
-
-#### Art. 59–64
+#### Art. 58–64
 
 **…**
 
@@ -1018,78 +1004,15 @@ beschliesst:
 
 **…**
 
-### 4.3 Leistungsangebote im Einzelnen
+### 4.3
 
-#### Art. 67
-
-**Behinderungsbedingter Pflege- und Betreuungsbedarf bei Erwachsenen**
-
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt die erforderlichen Angebote für erwachsene Menschen mit einem behinderungsbedingten Pflege- und Betreuungsbedarf bereit.
-
-<sup>2</sup> Zu den Angeboten gehören insbesondere die Leistungen von
-
-- a Beratungs- und Informationsstellen,
-- b Wohn- und Pflegeheimen,
-- c …
-- d geschützten Werkstätten,
-- e Beschäftigungs- und Tagesstätten,
-- f Assistenzdiensten,
-- g Transportdiensten.
-
-<sup>3</sup> …
-
-#### Art. 68–73
+#### Art. 67–73
 
 **…**
 
-### 4.4 Finanzierung
+### 4.4
 
-#### Art. 74
-
-**Abgeltung von Leistungen**
-
-<sup>1</sup> Die Abgeltung von Leistungen der Leistungserbringer erfolgt durch Beiträge des Kantons an die Leistungserbringer oder an die Leistungsempfängerinnen und Leistungsempfänger.
-
-<sup>2</sup> Die Beiträge werden durch Vertrag oder durch Verfügung gewährt.
-
-<sup>3–4</sup> …
-
-#### Art. 74a
-
-**Beiträge an Leistungserbringer**
-
-<sup>1</sup> Beiträge an Leistungserbringer können als Betriebs- oder Investitionsbeiträge gewährt werden. Der Regierungsrat kann Vorschriften über die für die Beitragsgewährung anrechenbaren Kosten erlassen.
-
-<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann Leistungserbringern Beiträge an die Kosten der Liquidation von Leistungsangeboten sowie zur sozialverträglichen Ausgestaltung eines Stellenabbaus ausrichten.
-
-#### Art. 74b
-
-**Beiträge an Leistungsempfängerinnen und Leistungsempfänger**
-
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann Beiträge an Personen gewähren für die Inanspruchnahme von Leistungsangeboten, soweit diese nicht mit Eigenleistungen der Leistungsempfängerinnen und Leistungsempfänger, mit Leistungen Dritter oder mit Betriebsbeiträgen der Gesundheits-, Sozial- und Integrationsdirektion finanziert werden können.
-
-<sup>2</sup> Sie gewährt die Beiträge aufgrund einer individuellen Bedarfsabklärung durch Verfügung.
-
-<sup>3</sup> Der Regierungsrat kann Vorschriften erlassen über
-
-- a das Verfahren für die Bedarfsabklärung und
-- b die für die Beitragsgewährung anrechenbaren Kosten.
-
-#### Art. 74c–75a
-
-**…**
-
-#### Art. 76
-
-**Beiträge des Kantons**
-
-<sup>1</sup> Der Kanton gewährt Beiträge an die Leistungserbringer, die im Auftrag der Gesundheits-, Sozial- und Integrationsdirektion Leistungen anbieten und erbringen.
-
-<sup>2</sup> Die entsprechenden Ausgaben werden abschliessend vom Regierungsrat bewilligt.
-
-<sup>3</sup> Der Regierungsrat kann diese Befugnis ganz oder teilweise der Gesundheits-, Sozial- und Integrationsdirektion übertragen.
-
-#### Art. 77
+#### Art. 74–77
 
 **…**
 

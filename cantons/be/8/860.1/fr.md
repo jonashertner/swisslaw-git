@@ -4,13 +4,13 @@ number: "860.1"
 title: "Loi sur l'aide sociale"
 short: LASoc
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-09
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-13
 adopted: 2001-06-11
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2481/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2970/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2481/pdf_file"
 
 (LASoc)
 
-du 11.06.2001 (état au 01.01.2022)
+du 11.06.2001 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -65,7 +65,7 @@ arrête:
 
 <sup>1</sup> La réalisation du but et des objectifs de l'aide sociale requiert de prendre les mesures prévues par la présente loi.
 
-<sup>2</sup> Ces mesures consistent en particulier à mettre en place des prestations d’aide sociale individuelle et de soutien aux adultes en situation de handicap et à en assurer l’octroi.
+<sup>2</sup> Ces mesures consistent en particulier à mettre en place des prestations d’aide sociale individuelle et à en assurer l’octroi.
 
 #### Art. 5
 
@@ -146,11 +146,7 @@ arrête:
 <sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration
 
 - a concrétise les objectifs de l'aide sociale et veille à leur mise en œuvre;
-- b inventorie et analyse régulièrement les besoins en prestations;
-- c planifie et coordonne les prestations en fonction des besoins;
-- d met en place les prestations de soutien aux adultes en situation de handicap;
-- e contrôle régulièrement l'efficacité et la qualité des prestations offertes;
-- f …
+- b–f …
 - g conseille les communes dans leurs tâches d'exécution;
 - h édicte des prescriptions pour le controlling des communes en collaboration avec ces dernières;
 - i exécute l'aide sociale intercantonale et internationale;
@@ -162,7 +158,7 @@ arrête:
 
 <sup>1</sup> Les communes assurent et exécutent les prestations de l'aide sociale individuelle conformément aux objectifs cantonaux et en contrôlent régulièrement l'efficacité.
 
-<sup>2</sup> Elles aident la Direction de la santé, des affaires sociales et de l’intégration à mettre en place des prestations de soutien aux adultes en situation de handicap.
+<sup>2</sup> …
 
 <sup>3</sup> Elles peuvent mettre en place à leurs frais des prestations dépassant le cadre des prescriptions cantonales.
 
@@ -198,9 +194,9 @@ arrête:
 
 <sup>4</sup> Elle assume des tâches de controlling et de planification en inventoriant les besoins en prestations dans la commune et en rendant compte à la Direction de la santé, des affaires sociales et de l’intégration de ses activités et du travail du service social.
 
-<sup>5</sup> Les communes peuvent déléguer à l’autorité sociale des tâches relevant des programmes d’action sociale.
+<sup>5</sup> …
 
-<sup>6</sup> Elles sont régulièrement informées par leur autorité sociale compétente de tous les événements importants touchant le domaine dont elle assume la responsabilité.
+<sup>6</sup> Les communes sont régulièrement informées par leur autorité sociale compétente de tous les événements importants touchant le domaine dont elle assume la responsabilité.
 
 #### Art. 17a
 
@@ -993,21 +989,11 @@ arrête:
 
 <sup>3</sup> Il définit en particulier les éléments constitutifs d’un cas extraordinaire et peut limiter le nombre de fournisseurs de prestations qui peuvent solliciter une garantie de participation au sens de l’alinéa 1.
 
-## 4 Soutien aux adultes en situation de handicap
+## 4
 
-### 4.1 Dispositions générales
+### 4.1
 
-#### Art. 58
-
-**Prestations**
-
-<sup>1</sup> Le soutien aux adultes en situation de handicap est régi par la LPASoc.
-
-<sup>2</sup> Les prestations sont mises en place et financées en vertu de la présente loi.
-
-<sup>3</sup> …
-
-#### Art. 59–64
+#### Art. 58–64
 
 **…**
 
@@ -1017,78 +1003,15 @@ arrête:
 
 **…**
 
-### 4.3 Détail des prestations
+### 4.3
 
-#### Art. 67
-
-**Besoin de soins et de prise en charge des adultes en situation de handicap**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration met en place les prestations requises par les adultes ayant besoin de soins et d’une prise en charge en raison d’un handicap.
-
-<sup>2</sup> Il s’agit notamment des prestations fournies par
-
-- a les centres de consultation et d’information,
-- b les institutions médico-sociales,
-- c …
-- d les ateliers protégés,
-- e les ateliers d’occupation et les établissements d’occupation à la journée,
-- f les services d’assistance,
-- g les services de transport.
-
-<sup>3</sup> …
-
-#### Art. 68–73
+#### Art. 67–73
 
 **…**
 
-### 4.4 Financement
+### 4.4
 
-#### Art. 74
-
-**Rétribution des prestations**
-
-<sup>1</sup> Les prestations sont rétribuées par le canton sous forme de contributions allouées à leurs fournisseurs ou à leurs bénéficiaires.
-
-<sup>2</sup> Les contributions sont octroyées par contrat ou par décision.
-
-<sup>3–4</sup> …
-
-#### Art. 74a
-
-**Contributions aux fournisseurs de prestations**
-
-<sup>1</sup> Les contributions peuvent être allouées aux fournisseurs de prestations sous forme de subventions d’exploitation ou d’investissement. Le Conseil-exécutif peut édicter des prescriptions concernant les coûts pris en compte pour l’octroi des contributions.
-
-<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration peut verser aux fournisseurs de prestations des contributions aux coûts de liquidation d’offres de prestations ou d’un plan social en cas de suppression de postes.
-
-#### Art. 74b
-
-**Contributions aux bénéficiaires de prestations**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut octroyer des contributions à des particuliers pour leur permettre de recourir aux prestations, pour autant que celles-ci ne puissent pas être financées par des contributions personnelles des bénéficiaires, des contributions de tiers ou des subventions d’exploitation de la Direction de la santé, des affaires sociales et de l’intégration.
-
-<sup>2</sup> Elle octroie les contributions par voie de décision après évaluation des besoins des personnes concernées.
-
-<sup>3</sup> Le Conseil-exécutif peut édicter des prescriptions sur
-
-- a la procédure d’évaluation des besoins et
-- b les coûts pris en compte pour l’octroi des contributions.
-
-#### Art. 74c–75a
-
-**…**
-
-#### Art. 76
-
-**Contributions cantonales**
-
-<sup>1</sup> Le canton verse des contributions aux fournisseurs que la Direction de la santé, des affaires sociales et de l’intégration a mandatés pour fournir des prestations.
-
-<sup>2</sup> Le Conseil-exécutif est seul compétent pour arrêter les dépenses correspondantes.
-
-<sup>3</sup> Le Conseil-exécutif peut déléguer tout ou partie de cette compétence à la Direction de la santé, des affaires sociales et de l’intégration.
-
-#### Art. 77
+#### Art. 74–77
 
 **…**
 
