@@ -5,12 +5,12 @@ title: Verordnung über die Besoldung des Personals der obligatorischen Schulzei
 short: VBOS
 language: de
 version: 2023-01-01
-valid_until: 2024-08-31
+corrected: 2024-01-02
 version_adopted: 2022-11-30
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/de/versions/3273/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3171/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -219,13 +219,13 @@ verordnet:[^ingress-1]
 
 <sup>4</sup> Beträgt die Tätigkeit gemäss Lehrermeldung und die Anzahl Lektionen am Tag, an dem das Recht beansprucht wird, zwischen drei und fünf Lektionen:
 
-- a) am Arbeitsort: die Lehrerin hat Anspruch auf eine Lektion zum Stillen ihres Kindes; diese Lektion gilt als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
-- b) abseits des Arbeitsortes: die Lehrerin kann sich für eine Lektion von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
+- a) am Arbeitsort: — Die Lehrerin hat Anspruch auf eine Lektion zum Stillen ihres Kindes; diese Lektion gilt als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
+- b) abseits des Arbeitsortes: — Die Lehrerin kann sich für eine Lektion von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
 
 <sup>5</sup> Beträgt die Tätigkeit gemäss Lehrermeldung und die Anzahl Lektionen am Tag, an dem das Recht beansprucht wird, mindestens sechs Lektionen:
 
-- a) am Arbeitsort: die Lehrerin kann bis zu zwei Lektionen zum Stillen ihres Kindes nehmen; diese Lektionen gelten als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
-- b) abseits des Arbeitsortes: die Lehrerin kann sich für bis zu zwei Lektionen von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
+- a) am Arbeitsort: — Die Lehrerin kann bis zu zwei Lektionen zum Stillen ihres Kindes nehmen; diese Lektionen gelten als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
+- b) abseits des Arbeitsortes: — Die Lehrerin kann sich für bis zu zwei Lektionen von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
 
 <sup>6</sup> Wenn die Lehrerin vor Ende des ersten Lebensjahres des Kindes das Stillen einstellt, nimmt sie ihre Tätigkeit gemäss ihrer Lehrermeldung wieder auf.
 

@@ -5,12 +5,12 @@ title: "Ordonnance concernant le traitement du personnel de la scolarité obliga
 short: OTSO
 language: fr
 version: 2023-01-01
-valid_until: 2024-08-31
+corrected: 2024-01-02
 version_adopted: 2022-11-30
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/fr/versions/3273/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3171/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -219,13 +219,13 @@ ordonne:[^ingress-1]
 
 <sup>4</sup> Si l'activité selon l'état nominatif et le nombre de périodes du jour où le droit s'exerce se situe entre trois et cinq périodes:
 
-- a) sur le lieu de travail: l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
-- b) hors du lieu de travail: l'enseignante peut s'absenter pendant une période de son lieu de travail; seule la moitié de la période est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
+- a) sur le lieu de travail: — l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
+- b) hors du lieu de travail: — l'enseignante peut s'absenter pendant une période de son lieu de travail; seule la moitié de la période est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
 
 <sup>5</sup> Si l'activité selon l'état nominatif et le nombre de périodes du jour où le droit s'exerce atteint au moins six périodes:
 
-- a) sur le lieu de travail: l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
-- b) hors du lieu de travail: l'enseignante peut s'absenter jusqu'à deux périodes de son lieu de travail; seule la moitié de ce temps est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
+- a) sur le lieu de travail: — l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
+- b) hors du lieu de travail: — l'enseignante peut s'absenter jusqu'à deux périodes de son lieu de travail; seule la moitié de ce temps est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
 
 <sup>6</sup> Si l'enseignante cesse l'allaitement de son enfant avant la fin de la première année de ce dernier, elle reprend son activité telle que définie dans son état nominatif.
 
