@@ -3,11 +3,11 @@ sr: "0.232.04"
 title: "Convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle, révisée à Stockholm le 14 juillet 1967"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/620_620_620"
 language: fr
-version: 2021-10-05
+version: 2024-01-09
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/620_620_620/20211005/fr/xml/fedlex-data-admin-ch-eli-cc-1970-620_620_620-20211005-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20211005/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/620_620_620/20240109/fr/xml/fedlex-data-admin-ch-eli-cc-1970-620_620_620-20240109-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20240109/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1970** 620; FF **1968** II 917
 
 Texte original[^t-1]
 
-Conclue à Stockholm le 14 juillet 1967
+Conclue à Stockholm le 14 juillet 1967 Approuvée par l’Assemblée fédérale le 2 décembre 1969[^t-2] Instrument de ratification déposé par la Suisse le 26 janvier 1970 Entrée en vigueur pour la Suisse le 26 avril 1970
 
-Approuvée par l’Assemblée fédérale le 2 décembre 1969[^t-2]
-
-Instrument de ratification déposé par la Suisse le 26 janvier 1970
-
-Entrée en vigueur pour la Suisse le 26 avril 1970
-
-(État le 5 octobre 2021)
+(État le 9 janvier 2024)
 
 [^t-1]: Des titres ont été ajoutés aux articles de la Conv. afin d’en faciliter la lecture; le texte original ne contient pas de titres.
 [^t-2]: Art. 1 ch. 2 de l’AF du 2 déc. 1969 ([RO 1970 601](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601)).
@@ -513,9 +507,11 @@ Le nom commercial sera protégé dans tous les pays de l’union sans obligation
 - iii) le produit de la vente des publications du Bureau international concernant l’Union et les droits afférents à ces publications;
 - iv) les dons, legs et subventions;
 - v) les loyers, intérêts et autres revenus divers.
+- 4) a)
 
-- 4) a) Pour déterminer sa part contributive dans le budget, chaque pays de l’Union est rangé dans une classe et paie ses contributions annuelles sur la base d’un nombre d’unités fixé comme suit:
-- Classe I 25
+  Pour déterminer sa part contributive dans le budget, chaque pays de l’Union est rangé dans une classe et paie ses contributions annuelles sur la base d’un nombre d’unités fixé comme suit:
+
+  - Classe I 25
   - Classe II 20
   - Classe III 15
   - Classe IV 10
@@ -532,7 +528,8 @@ Le nom commercial sera protégé dans tous les pays de l’union sans obligation
 - 6) a) L’Union possède un fonds de roulement constitué par un versement unique effectué par chaque pays de l’Union. Si le fonds devient insuffisant l’Assemblée décide de son augmentation.
 - b) Le montant du versement initial de chaque pays au fonds précité ou de sa participation à l’augmentation de celui-ci est proportionnel à la contribution de ce pays pour l’année au cours de. Laquelle le fonds est constitué ou l’augmentation décidée.
 - c) La proportion et les modalités de versement sont arrêtées par l’Assemblée sur proposition du Directeur général et après avis du Comité de coordination de l’Organisation.
-- 7) a) L’Accord de siège conclu avec le pays sur le territoire duquel l’Organisation a son siège prévoit que, si le fonds de roulement est insuffisant, ce pays accorde des avances. Le montant de ces avances et les conditions dans lesquelles elles sont accordées font l’objet, dans chaque cas, d’accords séparés entre le pays en cause et l’organisation. Aussi longtemps qu’il est tenu d’accorder des avances, ce pays dispose ex officio d’un siège au Comité exécutif. b) Le pays visé au sous-alinéa a) et l’Organisation ont chacun le droit de dénoncer l’engagement d’accorder des avances moyennant notification par écrit. La dénonciation prend effet trois ans après la fin de l’année au cours de laquelle elle a été notifiée.
+- 7) a) L’Accord de siège conclu avec le pays sur le territoire duquel l’Organisation a son siège prévoit que, si le fonds de roulement est insuffisant, ce pays accorde des avances. Le montant de ces avances et les conditions dans lesquelles elles sont accordées font l’objet, dans chaque cas, d’accords séparés entre le pays en cause et l’organisation. Aussi longtemps qu’il est tenu d’accorder des avances, ce pays dispose ex officio d’un siège au Comité exécutif.
+- b) Le pays visé au sous-alinéa a) et l’Organisation ont chacun le droit de dénoncer l’engagement d’accorder des avances moyennant notification par écrit. La dénonciation prend effet trois ans après la fin de l’année au cours de laquelle elle a été notifiée.
 
 #### Art. 17
 
@@ -567,9 +564,9 @@ Il est entendu que les pays de l’Union se réservent le droit de prendre sépa
 \3) À l’égard de chaque pays de l’Union qui dépose un instrument de ratification ou d’adhésion, les art. 18 à 30 entrent en vigueur à la première date à laquelle l’un quelconque des groupes d’articles visés à l’al. 1)b) entre en vigueur à l’égard de ce pays conformément à l’al. 2)a), b), ou c).
 
 - 1) a) Chacun des pays de l’Union qui a signé le présent Acte peut le ratifier et, s’il ne l’a pas signé, peut y adhérer. Les instruments de ratification et d’adhésion sont déposés auprès du Directeur général.
-- [tab]
+- b)
 
-  b) Chacun des pays de l’Union peut déclarer, dans son instrument de ratification ou d’adhésion, que sa ratification ou son adhésion n’est pas applicable:
+  Chacun des pays de l’Union peut déclarer, dans son instrument de ratification ou d’adhésion, que sa ratification ou son adhésion n’est pas applicable:
 
   - i) aux art. 1 à 12 ou
   - ii) aux art. 13 à 17.
@@ -585,8 +582,6 @@ Il est entendu que les pays de l’Union se réservent le droit de prendre sépa
 
 \1) Tout pays étranger à l’Union peut adhérer au présent Acte et devenir, de ce fait, membre de l’Union. Les instruments d’adhésion sont déposés auprès du Directeur général.
 
-Si les pays indiquent une date postérieure dans son instrument d’adhésion, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
-
 \3) À l’égard de tout pays étranger à l’Union qui a déposé son instrument d’adhésion après la date d’entrée en vigueur du présent Acte dans sa totalité, ou moins d’un mois avant cette date, le présent Acte entre en vigueur trois mois après la date à laquelle son adhésion a été notifiée par le Directeur général, à moins qu’une date postérieure n’ait été indiquée dans l’instrument d’adhésion. Dans ce dernier cas, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
 
 - 2) a)
@@ -596,6 +591,7 @@ Si les pays indiquent une date postérieure dans son instrument d’adhésion, l
   - i) si les art. 1 à 12 ne sont pas entrés en vigueur à cette date, un tel pays sera lié, durant la période intérimaire avant l’entrée en vigueur de ces dispositions, et en remplacement de celles-ci, par les art. 1 à 12 de l’Acte de Lisbonne[^21-1],
   - ii) si les art. 13 à 17 ne sont pas entrée en vigueur à cette date, un tel pays sera lié, durant la période intérimaire avant l’entrée en vigueur de ces dispositions, et en remplacement de celles-ci, par les art. 13 et 14, 3), 4) et 5) de l’Acte de Lisbonne.
 
+- Si les pays indiquent une date postérieure dans son instrument d’adhésion, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
 - b) À l’égard de tout pays étranger à l’Union qui a déposé son instrument d’adhésion à une date postérieure à l’entrée en vigueur d’un seul groupe d’articles du présent Acte ou à une date qui la précède de moins d’un mois, le présent Acte entre en vigueur, sous réserve de ce qui est prévu au sous-alinéa a), trois mois après la date à laquelle son adhésion a été notifiée par le Directeur général, à moins qu’une date postérieure n 1 ait été indiquée dans l’instrument d’adhésion. Dans ce dernier cas, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
 
 [^21-1]: [RS 0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127)
@@ -707,7 +703,7 @@ Lesdits pays admettent que le pays de l’Union considéré applique dans ses re
 
 *En foi de quoi,* les sous signés, dûment autorisés à cet effet, ont signé le présent Acte. Fait à Stockholm, le 14 juillet 1967. (Suivent les signatures)
 
-Champ d’application le 5 octobre 2021[^t-3]
+Champ d’application le 9 janvier 2024[^t-3]
 
 <table>
 <tr><th>États parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -748,6 +744,7 @@ Champ d’application le 5 octobre 2021[^t-3]
 <tr><td>Cameroun</td><td colspan="2">17 janvier</td><td>1975</td><td>20 avril</td><td>1975</td></tr>
 <tr><td>Canada</td><td colspan="2">26 mars</td><td>1970 A</td><td>7 juillet</td><td>1970<sup>a</sup></td></tr>
 <tr><td></td><td colspan="2">26 février</td><td>1996</td><td>26 mai</td><td>1996<sup>b</sup></td></tr>
+<tr><td>Cap-Vert</td><td colspan="2">6 avril</td><td>2022 A</td><td>6 juillet</td><td>2022</td></tr>
 <tr><td>Chili</td><td colspan="2">13 mars</td><td>1991 A</td><td>14 juin</td><td>1991</td></tr>
 <tr><td>Chine\*</td><td colspan="2">19 décembre</td><td>1984 A</td><td>19 mars</td><td>1985</td></tr>
 <tr><td>Hong Kong <sup>d</sup></td><td colspan="2">6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
@@ -776,6 +773,7 @@ Champ d’application le 5 octobre 2021[^t-3]
 <tr><td>Eswatini</td><td colspan="2">12 février</td><td>1991 A</td><td>12 mai</td><td>1991</td></tr>
 <tr><td>États-Unis\*</td><td colspan="2">25 mai</td><td>1970</td><td>5 septembre</td><td>1970<sup>a</sup></td></tr>
 <tr><td></td><td colspan="2">22 mai</td><td>1973</td><td>25 août</td><td>1974<sup>b</sup></td></tr>
+<tr><td>Fidji\*</td><td colspan="2">19 octobre</td><td>2023 A</td><td>19 janvier</td><td>2024</td></tr>
 <tr><td>Finlande\*</td><td colspan="2">8 juin</td><td>1970</td><td>15 septembre</td><td>1970<sup>a</sup></td></tr>
 <tr><td></td><td colspan="2">17 juillet</td><td>1975</td><td>21 octobre</td><td>1975<sup>b</sup></td></tr>
 <tr><td>France</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
@@ -819,6 +817,7 @@ Champ d’application le 5 octobre 2021[^t-3]
 <tr><td>Kazakhstan\*</td><td colspan="2">16 février</td><td>1993 S</td><td>25 décembre</td><td>1991</td></tr>
 <tr><td>Kenya</td><td colspan="2">5 juillet</td><td>1971</td><td>26 octobre</td><td>1971</td></tr>
 <tr><td>Kirghizistan\*</td><td colspan="2">14 février</td><td>1994 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Kiribati</td><td colspan="2">5 novembre</td><td>2021 A</td><td>5 février</td><td>2022</td></tr>
 <tr><td>Koweït</td><td colspan="2">2 septembre</td><td>2014 A</td><td>2 décembre</td><td>2014</td></tr>
 <tr><td>Laos\*</td><td colspan="2">8 juillet</td><td>1998 A</td><td>8 octobre</td><td>1998</td></tr>
 <tr><td>Lesotho\*</td><td colspan="2">27 juin</td><td>1989 A</td><td>28 septembre</td><td>1989</td></tr>
@@ -919,7 +918,7 @@ Champ d’application le 5 octobre 2021[^t-3]
 <tr><td>Yémen\*</td><td colspan="2">15 novembre</td><td>2006 A</td><td>15 février</td><td>2007</td></tr>
 <tr><td>Zambie <sup>a</sup></td><td colspan="2">14 février</td><td>1977 A</td><td>14 mai</td><td>1977</td></tr>
 <tr><td>Zimbabwe</td><td colspan="2">29 septembre</td><td>1981 A</td><td>30 décembre</td><td>1981</td></tr>
-<tr><td colspan="6">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Ratification des art. 13 à 30. <sup>b</sup> Ratification des art. 1 à 12. <sup>c</sup> En application de l’art. 20.2)a) de la convention, les art. 1 à 12 sont entrés en vigueur pour cet État, soit le 26 avril 1970 (trois mois après le dépôt du dixième instrument de ratification ou d’adhésion, soit le 19 mai 1970 (trois mois après le dépôt du onzième instrument de ratification ou d’adhésion), selon qu’il admet ou non la validité de l’adhésion de la République démocratique allemande qu’il avait contestée à l’époque. Les art. 1 à 13 de la convention sont entrés en vigueur pour cet Etat le 26 avril 1970. <sup>d</sup> Du 16 nov. 1977 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>e</sup> En vertu d’une déclaration de la République populaire de Chine du 30 nov. 1999, la Convention est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999. <sup>f</sup> Déclaration d’application.</td></tr>
+<tr><td colspan="6">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Ratification des art. 13 à 30. <sup>b</sup> Ratification des art. 1 à 12. <sup>c</sup> En application de l’art. 20.2)a) de la convention, les art. 1 à 12 sont entrés en vigueur pour cet État, soit le 26 avril 1970 (trois mois après le dépôt du dixième instrument de ratification ou d’adhésion, soit le 19 mai 1970 (trois mois après le dépôt du onzième instrument de ratification ou d’adhésion), selon qu’il admet ou non la validité de l’adhésion de la République démocratique allemande qu’il avait contestée à l’époque. Les art. 1 à 13 de la convention sont entrés en vigueur pour cet Etat le 26 avril 1970. <sup>d</sup> Du 16 nov. 1977 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>e</sup> En vertu d’une déclaration de la République populaire de Chine du 30 nov. 1999, la Convention est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999. <sup>f</sup> Déclaration d’application.</td></tr>
 </table>
 
-[^t-3]: [RO 2003 2418](https://fedlex.data.admin.ch/eli/oc/2003/349); [2006 759](https://fedlex.data.admin.ch/eli/oc/2006/107); [2009 2535](https://fedlex.data.admin.ch/eli/oc/2009/321); [2014 887](https://fedlex.data.admin.ch/eli/oc/2014/191); [2017 3727](https://fedlex.data.admin.ch/eli/oc/2017/432); [2021 608](https://fedlex.data.admin.ch/eli/oc/2021/608). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
+[^t-3]: [RO 2003 2418](https://fedlex.data.admin.ch/eli/oc/2003/349); [2006 759](https://fedlex.data.admin.ch/eli/oc/2006/107); [2009 2535](https://fedlex.data.admin.ch/eli/oc/2009/321); [2014 887](https://fedlex.data.admin.ch/eli/oc/2014/191); [2017 3727](https://fedlex.data.admin.ch/eli/oc/2017/432); [2021 608](https://fedlex.data.admin.ch/eli/oc/2021/608); [2024 14](https://fedlex.data.admin.ch/eli/oc/2024/14). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

@@ -3,11 +3,11 @@ sr: "0.232.04"
 title: "Pariser Übereinkunft vom 20. März 1883 zum Schutz des gewerblichen Eigentums, revidiert in Stockholm am 14. Juli 1967"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/620_620_620"
 language: de
-version: 2021-10-05
+version: 2024-01-09
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/620_620_620/20211005/de/xml/fedlex-data-admin-ch-eli-cc-1970-620_620_620-20211005-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20211005/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/620_620_620/20240109/de/xml/fedlex-data-admin-ch-eli-cc-1970-620_620_620-20240109-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20240109/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Amtlicher deutscher Text[^t-1] gemäss Artikel 29 Absatz 1) Buchstabe b)
 
 Abgeschlossen in Stockholm am 14. Juli 1967 Von der Bundesversammlung genehmigt am 2. Dezember 1969[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 26. Januar 1970 In Kraft getreten für die Schweiz am 26. April 1970
 
-(Stand am 5. Oktober 2021)
+(Stand am 9. Januar 2024)
 
 [^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung. Die Artikel der Übereinkunft sind mit Überschriften versehen worden, um die Benützung des Textes zu erleichtern; der Originaltext enthält keine Artikelüberschriften.
 [^t-2]: Art. 1 Ziff. 2 des BB vom 2. Dez. 1969 ([AS 1970 600](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601))
@@ -95,7 +95,7 @@ Hinsichtlich der Merkmale, die in der oder den Anmeldungen, deren Priorität in 
 
 G. – 1) Ergibt die Prüfung, dass eine Patentanmeldung nicht einheitlich ist, so kann der Anmelder die Anmeldung in eine Anzahl von Teilanmeldungen teilen, wobei ihm für jede Teilanmeldung als Anmeldezeitpunkt der Zeitpunkt der ursprünglichen Anmeldung und gegebenenfalls das Prioritätsvorrecht erhalten bleiben.
 
-<sup>(2)</sup> Der Anmelder kann auch von sich aus die Patentanmeldung teilen, wobei ihm für jede Teilanmeldung als Anmeldezeitpunkt der Zeitpunkt der ursprünglichen Anmeldung und gegebenenfalls das Prioritätsvorrecht erhalten bleiben. Jedem Verbandsland steht es frei, die Bedingungen festzulegen, unter denen diese Teilung zugelassen wird.
+\2) Der Anmelder kann auch von sich aus die Patentanmeldung teilen, wobei ihm für jede Teilanmeldung als Anmeldezeitpunkt der Zeitpunkt der ursprünglichen Anmeldung und gegebenenfalls das Prioritätsvorrecht erhalten bleiben. Jedem Verbandsland steht es frei, die Bedingungen festzulegen, unter denen diese Teilung zugelassen wird.
 
 H. – Die Priorität kann nicht deshalb verweigert werden, weil bestimmte Merkmale der Erfindung, für welche die Priorität beansprucht wird, nicht in den in der Patentanmeldung des Ursprungslandes aufgestellten Patentansprüchen enthalten sind, sofern nur die Gesamtheit der Anmeldungsunterlagen diese Merkmale deutlich offenbart.
 
@@ -226,7 +226,8 @@ Die gewerblichen Muster und Modelle werden in allen Verbandsländern geschützt.
 - b) Die Bestimmungen unter Buchstabe a) sind ebenso auf die Wappen, Flaggen und anderen Kennzeichen, Sigel oder Bezeichnungen der internationalen zwischenstaatlichen Organisationen anzuwenden, denen ein oder mehrere Verbandsländer angehören; ausgenommen sind die Wappen, Flaggen und anderen Kennzeichen, Sigel oder Bezeichnungen, die bereits Gegenstand von in Kraft befindlichen internationalen Abkommen sind, die ihren Schutz gewährleisten.
 - c) Kein Verbandsland ist gehalten, die Bestimmungen unter Buchstabe b) zum Nachteil der Inhaber von Rechten anzuwenden, die gutgläubig vor dem Inkrafttreten dieser Übereinkunft in diesem Land erworben worden sind. Die Verbandsländer sind nicht gehalten, diese Bestimmungen anzuwenden, falls die Benutzung oder Eintragung gemäss Buchstabe a) nicht geeignet ist, beim Publikum den Eindruck einer Verbindung zwischen der betreffenden Organisation und den Wappen, Flaggen, Kennzeichen, Sigeln oder Bezeichnungen hervorzurufen, oder falls die Benutzung oder Eintragung offenbar nicht geeignet ist, das Publikum über das Bestehen einer Verbindung zwischen dem Benutzer und der Organisation irrezuführen.
 
-- 3) a) Für die Anwendung dieser Bestimmungen kommen die Verbandsländer überein, durch Vermittlung des Internationalen Büros ein Verzeichnis der staatlichen Hoheitszeichen und amtlichen Prüf‑ und Gewährzeichen und ‑stempel auszutauschen, die sie jetzt oder in Zukunft unumschränkt oder in gewissen Grenzen unter den Schutz dieses Artikels zu stellen wünschen; dies gilt auch für alle späteren Änderungen dieses Verzeichnisses. Jedes Verbandsland soll die notifizierten Verzeichnisse rechtzeitig öffentlich zugänglich machen. Diese Notifikation ist jedoch für Staatsflaggen nicht erforderlich.
+- 3) a) Für die Anwendung dieser Bestimmungen kommen die Verbandsländer überein, durch Vermittlung des Internationalen Büros ein Verzeichnis der staatlichen Hoheitszeichen und amtlichen Prüf‑ und Gewährzeichen und ‑stempel auszutauschen, die sie jetzt oder in Zukunft unumschränkt oder in gewissen Grenzen unter den Schutz dieses Artikels zu stellen wünschen; dies gilt auch für alle späteren Änderungen dieses Verzeichnisses. Jedes Verbandsland soll die notifizierten Verzeichnisse rechtzeitig öffentlich zugänglich machen.
+- Diese Notifikation ist jedoch für Staatsflaggen nicht erforderlich.
 - b) Die Bestimmungen des Absatzes 1) Buchstabe b) sind nur auf die Wappen, Flaggen und anderen Kennzeichen, Sigel und Bezeichnungen der internationalen zwischenstaatlichen Organisationen anwendbar, die diese durch Vermittlung des Internationalen Büros den Verbandsländern mitgeteilt haben.
 
 #### Art. 6<sup>quater</sup>
@@ -438,7 +439,7 @@ Der Handelsname wird in allen Verbandsländern, ohne Verpflichtung zur Hinterleg
 - 6) a) Der Exekutivausschuss
   - i) bereitet den Entwurf der Tagesordnung der Versammlung vor;
   - ii) unterbreitet der Versammlung Vorschläge zu den vom Generaldirektor vorbereiteten Entwürfen des Programms und des Zweijahres-Haushaltsplans[^14-1] des Verbandes;
-  - iii)[^14-2] ...
+  - iii)[^14-2] …
   - iv) unterbreitet der Versammlung mit entsprechenden Bemerkungen die periodischen Berichte des Generaldirektors und die jährlichen Berichte über die Rechnungsprüfung;
   - v) trifft alle zweckdienlichen Massnahmen zur Durchführung des Programms des Verbandes durch den Generaldirektor in Übereinstimmung mit den Beschlüssen der Versammlung und unter Berücksichtigung der zwischen zwei ordentlichen Tagungen der Versammlung eintretenden Umstände;
   - vi) nimmt alle anderen Aufgaben wahr, die ihm im Rahmen dieser Übereinkunft übertragen werden.
@@ -492,8 +493,7 @@ Der Handelsname wird in allen Verbandsländern, ohne Verpflichtung zur Hinterleg
 \8) Die Rechnungsprüfung wird nach Massgabe der Finanzvorschriften von einem oder mehreren Verbandsländern oder von aussenstehenden Rechnungsprüfern vorgenommen, die mit ihrer Zustimmung von der Versammlung bestimmt werden.
 
 - 1) a) Der Verband hat einen Haushaltsplan.
-- b) Der Haushaltsplan des Verbandes umfasst die eigenen Einnahmen und Ausgaben des Verbandes, dessen Beitrag zum Haushaltsplan der gemeinsamen
-- Ausgaben der Verbände sowie gegebenenfalls den dem Haushaltsplan der Konferenz der Organisation zur Verfügung gestellten Betrag.
+- b) Der Haushaltsplan des Verbandes umfasst die eigenen Einnahmen und Ausgaben des Verbandes, dessen Beitrag zum Haushaltsplan der gemeinsamen Ausgaben der Verbände sowie gegebenenfalls den dem Haushaltsplan der Konferenz der Organisation zur Verfügung gestellten Betrag.
 - c) Als gemeinsame Ausgaben der Verbände gelten die Ausgaben, die nicht ausschliesslich dem Verband, sondern auch einem oder mehreren anderen von der Organisation verwalteten Verbände zuzurechnen sind. Der Anteil des Verbandes an diesen gemeinsamen Ausgaben entspricht dem Interesse, das der Verband an ihnen hat.
 
 \3) Der Haushaltsplan des Verbandes umfasst folgende Einnahmen:
@@ -641,7 +641,7 @@ Nach dem Inkrafttreten dieser Fassung der Übereinkunft in ihrer Gesamtheit kann
 - b) Ebenso bleibt für die Länder, auf die weder diese Fassung der Übereinkunft noch Teile von ihr, noch die Lissaboner Fassung anwendbar sind, die Londoner Fassung vom 2. Juni 1934[^27-4] in ihrer Gesamtheit oder in dem Umfang in Kraft, in dem sie nicht gemäss Absatz 1) durch diese Fassung der Übereinkunft ersetzt wird.
 - c) Ebenso bleibt für die Länder, auf die weder diese Fassung der Übereinkunft noch Teile von ihr, noch die Lissaboner Fassung, noch die Londoner Fassung anwendbar sind, die Haager Fassung vom 6. November 1925[^27-5] in ihrer Gesamtheit oder in dem Umfang in Kraft, in dem sie nicht gemäss Absatz 1) durch diese Fassung der Übereinkunft ersetzt wird.
 
-[^27-1]: [AS **7** 517, **16** 358, **19** 212; BS **11** 965]
+[^27-1]: [AS **7** 517; **16** 358; **19** 212; BS **11** 965]
 [^27-2]: SR **0.232.0****l/.03**
 [^27-3]: [SR 0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127)
 [^27-4]: [SR 0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265)
@@ -691,7 +691,7 @@ Nach dem Inkrafttreten dieser Fassung der Übereinkunft in ihrer Gesamtheit kann
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten diese Fassung der Übereinkunft unterschrieben. Geschehen zu Stockholm am 14. Juli 1967. (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Oktober 2021[^t-3]
+Geltungsbereich am 9. Januar 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -741,6 +741,7 @@ Geltungsbereich am 5. Oktober 2021[^t-3]
 <tr><td>El Salvador</td><td>18. November</td><td>1993 B</td><td>19. Februar</td><td colspan="2">1994</td></tr>
 <tr><td>Estland</td><td>24. Mai</td><td>1994 B</td><td>24. August</td><td colspan="2">1994</td></tr>
 <tr><td>Eswatini</td><td>12. Februar</td><td>1991 B</td><td>12. Mai</td><td colspan="2">1991</td></tr>
+<tr><td>Fidschi\*</td><td>19. Oktober</td><td>2023 B</td><td>19. Januar</td><td colspan="2">2024</td></tr>
 <tr><td>Finnland</td><td>8. Juni</td><td>1970</td><td>15. September</td><td colspan="2">1970<sup>a</sup></td></tr>
 <tr><td></td><td>17. Juli</td><td>1975</td><td>21. Oktober</td><td colspan="2">1975<sup>b</sup></td></tr>
 <tr><td>Frankreich</td><td>2. Mai</td><td>1975</td><td>12. August</td><td colspan="2">1975</td></tr>
@@ -785,10 +786,12 @@ Geltungsbereich am 5. Oktober 2021[^t-3]
 <tr><td>Kamerun</td><td>17. Januar</td><td>1975</td><td>20. April</td><td colspan="2">1975</td></tr>
 <tr><td>Kanada</td><td>26. März</td><td>1970 B</td><td>7. Juli</td><td colspan="2">1970<sup>a</sup></td></tr>
 <tr><td></td><td>26. Februar</td><td>1996</td><td>26. Mai</td><td colspan="2">1996<sup>b</sup></td></tr>
+<tr><td>Kap Verde</td><td>6. April</td><td>2022 B</td><td>6. Juli</td><td colspan="2">2022</td></tr>
 <tr><td>Kasachstan\*</td><td>16. Februar</td><td>1993 N</td><td>25. Dezember</td><td colspan="2">1991</td></tr>
 <tr><td>Katar</td><td>5. April</td><td>2000 B</td><td>5. Juli</td><td colspan="2">2000</td></tr>
 <tr><td>Kenia</td><td>5. Juli</td><td>1971</td><td>26. Oktober</td><td colspan="2">1971</td></tr>
 <tr><td>Kirgisistan\*</td><td>14. Februar</td><td>1994 N</td><td>25. Dezember</td><td colspan="2">1991</td></tr>
+<tr><td>Kiribati</td><td>5. November</td><td>2021 B</td><td>5. Februar</td><td colspan="2">2022</td></tr>
 <tr><td>Kolumbien</td><td>3. Juni</td><td>1996 B</td><td>3. September</td><td colspan="2">1996</td></tr>
 <tr><td>Komoren</td><td>3. Januar</td><td>2005 B</td><td>5. April</td><td colspan="2">2005</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>2. September</td><td>1975 B</td><td>5. Dezember</td><td colspan="2">1975</td></tr>
@@ -903,7 +906,7 @@ Geltungsbereich am 5. Oktober 2021[^t-3]
 <tr><td>Vietnam\* <sup>f</sup></td><td>7. April</td><td>1981</td><td>2. Juli</td><td colspan="2">1976</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>23. Mai</td><td>1978</td><td>5. September</td><td colspan="2">1978</td></tr>
 <tr><td>Zypern</td><td>21. Dezember</td><td>1983 B</td><td>3. April</td><td colspan="2">1984</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Ratifikation der Art. 13–30. <sup>b</sup> Ratifikation der Art. 1–12. <sup>c</sup> In Anwendung von Art. 20.2)a) der Übereinkunft sind die Art. 1–12 für diesen Staat entweder am 26. April 1970 (drei Monate nach der Hinterlegung der zehnten Ratifikations- oder Beitrittsurkunde) oder aber am 19. Mai 1970 (drei Monate nach der Hinterlegung der elften Ratifikations- oder Beitrittsurkunde) in Kraft getreten, je nachdem er die seinerzeit von ihm bestrittene Gültigkeit des Beitrittes der Deutschen Demokratischen Republik anerkennt oder nicht. Die Art. 13–30 der Übereinkunft sind für diesen Staat am 26. April 1970 in Kraft getreten. <sup>d</sup> Vom 16. Nov. 1977 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>e</sup> Auf Grund einer Erklärung der Volksrepublik China vom 30. Nov. 1999 ist das Übereink. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar. <sup>f</sup> Anwendungserklärung.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int](http://www.wipo.int/treaties/fr/ip/paris/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI &gt; Convention de Paris eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Ratifikation der Art. 13–30. <sup>b</sup> Ratifikation der Art. 1–12. <sup>c</sup> In Anwendung von Art. 20.2)a) der Übereinkunft sind die Art. 1–12 für diesen Staat entweder am 26. April 1970 (drei Monate nach der Hinterlegung der zehnten Ratifikations- oder Beitrittsurkunde) oder aber am 19. Mai 1970 (drei Monate nach der Hinterlegung der elften Ratifikations- oder Beitrittsurkunde) in Kraft getreten, je nachdem er die seinerzeit von ihm bestrittene Gültigkeit des Beitrittes der Deutschen Demokratischen Republik anerkennt oder nicht. Die Art. 13–30 der Übereinkunft sind für diesen Staat am 26. April 1970 in Kraft getreten. <sup>d</sup> Vom 16. Nov. 1977 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>e</sup> Auf Grund einer Erklärung der Volksrepublik China vom 30. Nov. 1999 ist das Übereink. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar. <sup>f</sup> Anwendungserklärung.</td></tr>
 </table>
 
-[^t-3]: [AS 2003 2418](https://fedlex.data.admin.ch/eli/oc/2003/349); [2006 759](https://fedlex.data.admin.ch/eli/oc/2006/107); [2009 2535](https://fedlex.data.admin.ch/eli/oc/2009/321); [2014 887](https://fedlex.data.admin.ch/eli/oc/2014/191); [2017 3727](https://fedlex.data.admin.ch/eli/oc/2017/432); [2021 608](https://fedlex.data.admin.ch/eli/oc/2021/608). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-3]: [AS 2003 2418](https://fedlex.data.admin.ch/eli/oc/2003/349); [2006 759](https://fedlex.data.admin.ch/eli/oc/2006/107); [2009 2535](https://fedlex.data.admin.ch/eli/oc/2009/321); [2014 887](https://fedlex.data.admin.ch/eli/oc/2014/191); [2017 3727](https://fedlex.data.admin.ch/eli/oc/2017/432); [2021 608](https://fedlex.data.admin.ch/eli/oc/2021/608); [2024 14](https://fedlex.data.admin.ch/eli/oc/2024/14). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
