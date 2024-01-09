@@ -4,11 +4,11 @@ title: Organisationsverordnung für den Bundesrat vom 29. November 2013 (OV-BR)
 short: OV-BR
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: de
-version: 2017-07-01
+version: 2024-01-10
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20170701/de/xml/fedlex-data-admin-ch-eli-cc-2013-812-20170701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20170701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20240110/de/xml/fedlex-data-admin-ch-eli-cc-2013-812-20240110-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20170701/de"
 
 (OV-BR)
 
-vom 29. November 2013 (Stand am 1. Juli 2017)
+vom 29. November 2013 (Stand am 10. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -130,9 +130,17 @@ Die Beilagen umfassen:
 
 **Dokumente**
 
-<sup>1</sup> Dokumente, die im Namen des Bundesrates verfasst werden, werden von der Bundespräsidentin oder dem Bundespräsidenten und von der Bundeskanzlerin oder dem Bundeskanzler gemeinsam unterzeichnet.
+<sup>1</sup>
+
+Dokumente, die im Namen des Bundesrates verfasst werden, werden auf eine der folgenden Arten unterzeichnet:
+
+- a. von der Bundespräsidentin oder dem Bundespräsidenten und von der Bundeskanzlerin oder dem Bundeskanzler je handschriftlich oder mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe e des Bundesgesetzes vom 18. März 2016[^7-1] über die elektronische Signatur (ZertES);
+- b. von der Bundeskanzlei mit einem auf den Bundesrat lautenden geregelten elektronischen Siegel nach Artikel 2 Buchstabe d ZertES.[^7-2]
 
 <sup>2</sup> Die Bundeskanzlerin oder der Bundeskanzler unterzeichnet vom Bundesrat bestimmte Schreiben im Auftrag des Bundesrates.
+
+[^7-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^7-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 10. Jan. 2024 ([AS 2023 810](https://fedlex.data.admin.ch/eli/oc/2023/810)).
 
 #### Art. 8
 

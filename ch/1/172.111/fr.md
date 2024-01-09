@@ -4,11 +4,11 @@ title: "Ordonnance sur l'organisation du Conseil fédéral du 29 novembre 2013 (
 short: Org CF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: fr
-version: 2017-07-01
+version: 2024-01-10
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20170701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-812-20170701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20170701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20240110/fr/xml/fedlex-data-admin-ch-eli-cc-2013-812-20240110-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20170701/fr"
 
 (Org CF)
 
-du 29 novembre 2013 (État le 1<sup>er</sup> juillet 2017)
+du 29 novembre 2013 (État le 10 janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -130,9 +130,17 @@ Les annexes comprennent:
 
 **Documents**
 
-<sup>1</sup> Les documents rédigés au nom du Conseil fédéral sont signés à la fois par le président de la Confédération et par le chancelier de la Confédération.
+<sup>1</sup>
+
+Les documents rédigés au nom du Conseil fédéral sont signés de l’une des manières suivantes:
+
+- a. par le président de la Confédération et par le chancelier de la Confédération à la main ou au moyen d’une signature électronique qualifiée au sens de l’art. 2, let. e, de la loi du 18 mars 2016 sur la signature électronique (SCSE)[^7-1];
+- b. par la Chancellerie fédérale au moyen d’un cachet électronique réglementé au sens de l’art. 2, let. d, SCSE qui soit au nom du Conseil fédéral.[^7-2]
 
 <sup>2</sup> Le chancelier de la Confédération signe les documents désignés par le Conseil fédéral à la demande de ce dernier.
+
+[^7-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 10 janv. 2024 ([RO 2023 810](https://fedlex.data.admin.ch/eli/oc/2023/810)).
 
 #### Art. 8
 

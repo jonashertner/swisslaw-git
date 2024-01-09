@@ -4,11 +4,11 @@ title: "Ordinanza sull'organizzazione del Consiglio federale del 29 novembre 201
 short: OOrg-CF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: it
-version: 2017-07-01
+version: 2024-01-10
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20170701/it/xml/fedlex-data-admin-ch-eli-cc-2013-812-20170701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20170701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20240110/it/xml/fedlex-data-admin-ch-eli-cc-2013-812-20240110-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20170701/it"
 
 (OOrg-CF)
 
-del 29 novembre 2013 (Stato 1° luglio 2017)
+del 29 novembre 2013 (Stato 10 gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -132,9 +132,16 @@ Gli allegati comprendono:
 
 **Documenti**
 
-<sup>1</sup> I documenti redatti in nome del Consiglio federale sono firmati dal presidente della Confederazione e dal cancelliere della Confederazione.
+<sup>1</sup>
+
+I documenti redatti in nome del Consiglio federale sono firmati in uno dei seguenti modi:
+
+- a. dal presidente della Confederazione e dal cancelliere della Confederazione a mano o con una firma elettronica qualificata secondo l’articolo 2 lettera e della legge del 18 marzo 2016 sulla firma elettronica (FiEle)<sup>2</sup>;
+- b. dalla Cancelleria federale con un sigillo elettronico regolamentato secondo l’articolo 2 lettera d FiEle, intestato al Consiglio federale.[^7-1]
 
 <sup>2</sup> Su mandato del Consiglio federale il cancelliere della Confederazione firma documenti designati dal Consiglio federale.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 10 gen. 2024 (RU **20****23** 810).
 
 #### Art. 8
 
