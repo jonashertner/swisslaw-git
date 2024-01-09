@@ -5,11 +5,12 @@ title: Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöB
 language: de
 version: 2024-01-01
+corrected: 2024-01-10
 version_adopted: 2019-11-15
 adopted: 2019-11-15
 in_force: 2024-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/726.1-1"
-pdf: "https://lex.vs.ch/api/de/versions/3663/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3249/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -36,7 +37,7 @@ Gemäss Beschluss des Interkantonalen Organs für das öffentliche Beschaffungsw
 
 <sup>1</sup> Diese Vereinbarung bezweckt:
 
-- a) den wirtschaftlichen und den volkswirtschaftlich, ökologisch und sozial nachhaltigen Einsatz der öffentlichen Mittel;
+- a) den wirtschaftlichen und den volkswirtschaftlich, ökologisch und sozial nachhaltigen Ein-satz der öffentlichen Mittel;
 - b) die Transparenz des Vergabeverfahrens;
 - c) die Gleichbehandlung und Nichtdiskriminierung der Anbieter;
 - d) die Förderung des wirksamen, fairen Wettbewerbs unter den Anbietern, insbesondere durch Massnahmen gegen unzulässige Wettbewerbsabreden und Korruption.
@@ -48,7 +49,7 @@ Gemäss Beschluss des Interkantonalen Organs für das öffentliche Beschaffungsw
 <sup>1</sup> In dieser Vereinbarung bedeuten:
 
 - a) Anbieter[^3-1]: natürliche oder juristische Person des privaten oder öffentlichen Rechts oder Gruppe solcher Personen, die Leistungen anbieten, sich um die Teilnahme an einer öffentlichen Ausschreibung, die Übertragung einer öffentlichen Aufgabe oder die Erteilung einer Konzession bewerben;
-- b) öffentliches Unternehmen: Unternehmen, auf das staatliche Behörden aufgrund von Eigentum, finanzieller Beteiligung oder der für das Unternehmen einschlägigen Vorschriften unmittelbar oder mittelbar einen beherrschenden Einfluss ausüben können; ein beherrschender Einfluss wird vermutet, wenn das Unternehmen mehrheitlich durch den Staat oder durch andere öffentliche Unternehmen finanziert wird, wenn es hinsichtlich seiner Leitung der Aufsicht durch den Staat oder durch andere öffentliche Unternehmen unterliegt oder wenn dessen Verwaltungs-, Leitungs- oder Aufsichtsorgan mehrheitlich aus Mitgliedern besteht, die vom Staat oder von anderen öffentlichen Unternehmen ernannt worden sind;
+- b) öffentliches Unternehmen: Unternehmen, auf das staatliche Behörden aufgrund von Eigentum, finanzieller Beteiligung oder der für das Unternehmen einschlägigen Vorschrif-ten unmittelbar oder mittelbar einen beherrschenden Einfluss ausüben können; ein be-herrschender Einfluss wird vermutet, wenn das Unternehmen mehrheitlich durch den Staat oder durch andere öffentliche Unternehmen finanziert wird, wenn es hinsichtlich seiner Leitung der Aufsicht durch den Staat oder durch andere öffentliche Unternehmen unterliegt oder wenn dessen Verwaltungs-, Leitungs- oder Aufsichtsorgan mehrheitlich aus Mitgliedern besteht, die vom Staat oder von anderen öffentlichen Unternehmen ernannt worden sind;
 - c) Staatsvertragsbereich: Geltungsbereich der internationalen Verpflichtungen der Schweiz über das öffentliche Beschaffungswesen;
 - d) Arbeitsbedingungen: zwingende Vorschriften des Obligationenrechts vom 30. März 1911 über den Arbeitsvertrag, normative Bestimmungen der Gesamtarbeitsverträge und der Normalarbeitsverträge oder, wo diese fehlen, die orts- und branchenüblichen Arbeitsbedingungen;
 - e) Arbeitsschutzbestimmungen: Vorschriften des öffentlichen Arbeitsrechts, einschliesslich der Bestimmungen des Arbeitsgesetzes vom 13. März 1964 und des zugehörigen Ausführungsrechts sowie der Bestimmungen zur Unfallverhütung;
@@ -154,10 +155,10 @@ Gemäss Beschluss des Interkantonalen Organs für das öffentliche Beschaffungsw
 
 <sup>1</sup> Diese Vereinbarung findet keine Anwendung auf:
 
-- a) die Beschaffung von Leistungen im Hinblick auf den gewerblichen Verkauf oder Wiederverkauf oder im Hinblick auf die Verwendung in der Produktion oder im Angebot von Leistungen für einen gewerblichen Verkauf oder Wiederverkauf;
+- a) die Beschaffung von Leistungen im Hinblick auf den gewerblichen Verkauf oder Wieder-verkauf oder im Hinblick auf die Verwendung in der Produktion oder im Angebot von Leistungen für einen gewerblichen Verkauf oder Wiederverkauf;
 - b) den Erwerb, die Miete oder die Pacht von Grundstücken, Bauten und Anlagen sowie der entsprechenden Rechte daran;
 - c) die Ausrichtung von Finanzhilfen;
-- d) Verträge über Finanzdienstleistungen im Zusammenhang mit Ausgabe, Ankauf, Verkauf, Übertragung oder Verwaltung von Wertpapieren oder anderen Finanzinstrumenten sowie Dienstleistungen der Zentralbanken;
+- d) Verträge über Finanzdienstleistungen im Zusammenhang mit Ausgabe, Ankauf, Verkauf, Übertragung oder Verwaltung von Wertpapieren oder anderen Finanzinstrumenten so-wie Dienstleistungen der Zentralbanken;
 - e) Aufträge an Behinderteninstitutionen, Organisationen der Arbeitsintegration, Wohltätigkeitseinrichtungen und Strafanstalten;
 - f) die Verträge des Personalrechts;
 - g) die öffentlich-rechtlichen Vorsorgeeinrichtungen der Kantone und Gemeinden.
@@ -648,7 +649,7 @@ Gemäss Beschluss des Interkantonalen Organs für das öffentliche Beschaffungsw
 - c) sie reichen ein ungewöhnlich niedriges Angebot ein, ohne auf Aufforderung hin nachzuweisen, dass die Teilnahmebedingungen eingehalten werden, und bieten keine Gewähr für die vertragskonforme Erbringung der ausgeschriebenen Leistungen;
 - d) sie haben gegen anerkannte Berufsregeln verstossen oder Handlungen oder Unterlassungen begangen, die ihre berufliche Ehre oder Integrität beeinträchtigen;
 - e) sie sind insolvent;
-- f) sie missachten die Arbeitsschutzbestimmungen, die Arbeitsbedingungen, die Bestimmungen über die Gleichbehandlung von Frau und Mann in Bezug auf die Lohngleichheit oder die Bestimmungen über die Vertraulichkeit, die Bestimmungen des schweizerischen Umweltrechts oder die vom Bundesrat bezeichneten internationalen Übereinkommen zum Schutz der Umwelt;
+- f) sie missachten die Arbeitsschutzbestimmungen, die Arbeitsbedingungen, die Bestimmungen über die Gleichbehandlung von Frau und Mann in Bezug auf die Lohngleichheit oder die Bestimmungen über die Vertraulichkeit, die Bestimmungen des schweizerischen Umweltrechts oder die vom Bundesrat bezeichneten internationalen Überein-kommen zum Schutz der Umwelt;
 - g) sie haben Melde- oder Bewilligungspflichten nach dem BGSA verletzt;
 - h) sie verstossen gegen das Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb.
 

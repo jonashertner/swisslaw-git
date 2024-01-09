@@ -5,11 +5,12 @@ title: Accord intercantonal sur les marchés publics
 short: AIMP
 language: fr
 version: 2024-01-01
+corrected: 2024-01-10
 version_adopted: 2019-11-15
 adopted: 2019-11-15
 in_force: 2024-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/726.1-1"
-pdf: "https://lex.vs.ch/api/fr/versions/3663/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3249/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -36,7 +37,7 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 
 <sup>1</sup> Le présent accord vise les buts suivants:
 
-- a) une utilisation des deniers publics qui soit économique et qui ait des effets économiques, écologiques et sociaux durables;
+- a) une utilisation des deniers publics qui soit économique et qui ait des effets écono-miques, écologiques et sociaux durables;
 - b) la transparence des procédures d’adjudication;
 - c) l’égalité de traitement et la non-discrimination des soumissionnaires;
 - d) une concurrence efficace et équitable entre les soumissionnaires, en particulier par des mesures contre les accords illicites affectant la concurrence et contre la corruption.
@@ -48,7 +49,7 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 <sup>1</sup> Au sens du présent accord, on entend par:
 
 - a) soumissionnaire: une personne physique ou morale, de droit privé ou de droit public, ou un groupe de telles personnes qui offre des prestations ou qui demande à participer à un appel d’offres public ou à se voir déléguer une tâche publique ou octroyer une concession;
-- b) entreprise publique: une entreprise sur laquelle les pouvoirs publics peuvent exercer directement ou indirectement une influence dominante du fait de la propriété, de la participation financière ou des règles qui la régissent; l’influence dominante est présumée lorsqu’une entreprise est financée en majeure partie par l’État ou par d’autres entreprises publiques, que sa gestion est soumise au contrôle de l’État ou d’autres entreprises publiques ou que son organe d’administration, de direction ou de surveillance est composé de membres dont la majorité a été désignée par l’État ou par d’autres entreprises publiques;
+- b) entreprise publique: une entreprise sur laquelle les pouvoirs publics peuvent exercer directe-ment ou indirectement une influence dominante du fait de la propriété, de la participation financière ou des règles qui la régissent; l’influence dominante est présumée lorsqu’une entreprise est financée en majeure partie par l’État ou par d’autres entreprises publiques, que sa gestion est soumise au contrôle de l’État ou d’autres entreprises publiques ou que son organe d’administration, de direction ou de surveillance est composé de membres dont la majorité a été désignée par l’État ou par d’autres entreprises publiques;
 - c) accords internationaux: les accords dont découlent les engagements internationaux de la Suisse en matière de marchés publics;
 - d) conditions de travail: les dispositions impératives du code des obligations concernant le contrat de travail, les dispositions normatives contenues dans les conventions collectives et les contrats-types de travail ou, à défaut, les conditions de travail usuelles dans la région et dans la branche;
 - e) dispositions relatives à la protection des travailleurs: les dispositions du droit public du travail, y compris les dispositions de la loi du 13 mars 1964 sur le travail, les dispositions d’exécution y afférentes et les dispositions relatives à la prévention des accidents;
@@ -156,14 +157,14 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 - b) à l’acquisition, à la location ou à l’affermage d’immeubles, de constructions ou d’installations ni aux droits y afférents;
 - c) au versement d’aides financières;
 - d) aux marchés portant sur des services financiers relatifs à l’émission, à l’achat, à la vente, au transfert ou à la gestion de titres ou d’autres instruments financiers ou sur des services fournis par des banques centrales;
-- e) aux marchés passés avec des institutions pour handicapés, des organismes d'insertion socioprofessionnelle, des œuvres de bienfaisance ou des établissements pénitentiaires;
+- e) aux marchés passés avec des institutions pour handicapés, des organismes d'insertion socioprofessionnelle, des œuvres de bienfaisance ou des établisse-ments pénitentiaires;
 - f) aux contrats régis par le droit du personnel;
 - g) aux institutions de prévoyance de droit public des cantons et des communes.
 
 <sup>2</sup> Le présent accord ne s’applique pas non plus à l’acquisition de prestations:
 
-- a) de soumissionnaires qui bénéficient d’un droit exclusif pour fournir ces prestations;
-- b) d’autres adjudicateurs juridiquement indépendants et soumis au droit des marchés publics qui ne sont pas en concurrence avec des soumissionnaires privés pour la fourniture de ces prestations;
+- a) de soumissionnaires qui bénéficient d’un droit exclusif pour fournir ces presta-tions;
+- b) d’autres adjudicateurs juridiquement indépendants et soumis au droit des mar-chés publics qui ne sont pas en concurrence avec des soumissionnaires privés pour la fourniture de ces prestations;
 - c) d’unités organisationnelles qui dépendent de l’adjudicateur;
 - d) de soumissionnaires sur lesquels l’adjudicateur exerce un contrôle identique à celui qu’il exerce sur ses propres services et qui fournissent l’essentiel de leurs prestations à l’adjudicateur.
 
@@ -509,16 +510,16 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 - c) la description des prestations, y compris la nature et la quantité ou, dans les cas où la quantité n’est pas connue, la quantité estimée, ainsi que les éventuelles options;
 - d) le lieu et le délai d’exécution de la prestation;
 - e) le cas échéant, la division en lots, la limitation du nombre de lots et la possibilité de présenter des offres partielles;
-- f) le cas échéant, la limitation ou l’exclusion de la participation des communautés de soumissionnaires et du recours à des sous-traitants;
+- f) le cas échéant, la limitation ou l’exclusion de la participation des communautés de sou-missionnaires et du recours à des sous-traitants;
 - g) le cas échéant, la limitation ou l’exclusion des variantes;
 - h) pour les prestations nécessaires périodiquement, si possible le délai de publication du prochain appel d’offres et, le cas échéant, l’indication concernant la réduction du délai de remise des offres;
 - i) le cas échéant, l’indication selon laquelle il y aura une enchère électronique;
 - j) le cas échéant, l’intention de mener un dialogue;
 - k) le délai de remise des offres ou des demandes de participation;
-- l) les exigences de forme applicables à la remise des offres ou des demandes de participation, le cas échéant l'indication selon laquelle la prestation et le prix doivent être propo-sés dans deux enveloppes distinctes;
+- l) les exigences de forme applicables à la remise des offres ou des demandes de participa-tion, le cas échéant l'indication selon laquelle la prestation et le prix doivent être propo-sés dans deux enveloppes distinctes;
 - m) la ou les langues de la procédure et des offres;
 - n) les critères d’aptitude et les preuves requises;
-- o) le cas échéant, le nombre maximal de soumissionnaires qui, dans le cadre d’une procédure sélective, seront invités à présenter une offre;
+- o) le cas échéant, le nombre maximal de soumissionnaires qui, dans le cadre d’une procé-dure sélective, seront invités à présenter une offre;
 - p) les critères d’adjudication et leur pondération, lorsque ces indications ne figurent pas dans les documents d’appel d’offres;
 - q) le cas échéant, le droit réservé d’adjuger des prestations partielles;
 - r) la durée de validité des offres;
@@ -543,7 +544,7 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 - e) lorsque l’adjudicateur passe le marché par voie électronique, les éventuelles exigences relatives à l’authentification et au cryptage des renseignements communiqués par voie électronique;
 - f) lorsque l’adjudicateur prévoit une enchère électronique, les règles applicables à cette dernière, y compris les éléments de l’offre qui pourront être modifiés et qui seront évalués sur la base des critères d’adjudication;
 - g) la date, l’heure et le lieu d’ouverture des offres, en cas d’ouverture publique des offres;
-- h) toutes les autres modalités et conditions nécessaires à l’établissement des offres, en particulier la monnaie dans laquelle celles-ci doivent être présentées (en règle générale le franc suisse);
+- h) toutes les autres modalités et conditions nécessaires à l’établissement des offres, en par-ticulier la monnaie dans laquelle celles-ci doivent être présentées (en règle générale le franc suisse);
 - i) les délais d’exécution des prestations.
 
 #### Art. 37
@@ -647,7 +648,7 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 - d) a enfreint les règles professionnelles reconnues ou porté atteinte à son honneur ou à son intégrité professionnels par ses agissements ou omissions;
 - e) est insolvable;
 - f) ne respecte pas les dispositions relatives à la protection des travailleurs, les conditions de travail, les dispositions relatives à l’égalité de traitement salarial entre femmes et hommes, les dispositions relatives à la confidentialité, les dispositions du droit suisse en matière d'environnement ou les conventions internationales relatives à la protection de l'environnement déterminées par le Conseil fédéral;
-- g) a violé les obligations en matière d’annonce et d’autorisation mentionnées dans la LTN;
+- g) a violé les obligations en matière d’annonce et d’autorisation mentionnées dans la LTN
 - h) viole la loi fédérale du 19 décembre 1986 contre la concurrence déloyale.
 
 #### Art. 45
@@ -764,7 +765,7 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 
 - a) Les statistiques contiennent au minimum les indications suivantes:
 - b) le nombre et la valeur totale des marchés publics adjugés de gré à gré;
-- c) des estimations pour les données requises aux lettres a et b, accompagnées d’une explication de la méthode utilisée pour établir les estimations, dans les cas où il n’est pas possible de fournir les données.
+- c) des estimations pour les données requises aux let. a et b, accompagnées d’une explication de la méthode utilisée pour établir les estimations, dans les cas où il n’est pas possible de fournir les données.
 
 <sup>3</sup> La valeur totale indiquée doit comprendre la taxe sur la valeur ajoutée.
 
@@ -813,7 +814,7 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 - b) la décision concernant le choix des participants à la procédure sélective;
 - c) la décision d’inscrire un soumissionnaire sur une liste ou de l’en radier;
 - d) la décision concernant les demandes de récusation;
-- e) l’adjudication;
+- e) la décision concernant les demandes de récusation;
 - f) la révocation de l’adjudication;
 - g) l’interruption de la procédure;
 - h) l’exclusion de la procédure;
