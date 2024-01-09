@@ -5,12 +5,12 @@ title: Vollzugsverordnung zum kantonalen Geoinformationsgesetz
 short: "Kantonale Geoinformationsverordnung, kGeoIV"
 language: de
 version: 2024-01-01
-valid_until: 2026-08-31
+corrected: 2024-01-10
 version_adopted: 2023-09-26
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/214.21"
-pdf: "https://gesetze.nw.ch/api/de/versions/1251/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1239/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -215,10 +215,10 @@ beschliesst:
 <tr><td>160</td><td>Waldreservate</td><td>831.1, Art. 35</td><td>AWN</td><td>X</td><td>A</td><td>Ja</td></tr>
 <tr><td>161</td><td>Forstliche Planung (Standortverhältnisse, Waldfunktionen)</td><td>831.1, Art. 25 f.; 831.11, §§ 13 ff.</td><td>AWN</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>166</td><td>Gefahrenkarten</td><td>831.1, Art. 22 f.; 831.11, §§ 10 ff.</td><td>AWN</td><td></td><td>A</td><td></td></tr>
-<tr><td>167</td><td>Gefahrenkataster (Ereigniskataster)</td><td>831.1 Art. 22 f.; 831.11, §§ 10 ff.</td><td>AWN</td><td></td><td>A</td><td></td></tr>
+<tr><td>167</td><td>Gefahrenkataster (Erlebniskataster)</td><td>831.1 Art. 22 f.; 831.11, §§ 10 ff.</td><td>AWN</td><td></td><td>A</td><td></td></tr>
 <tr><td>168</td><td>Jagdbanngebiete kantonal</td><td>841.1, Art. 26 f.; 841.11, § 43; 841.15, § 2</td><td>Amt für Justiz (AFJ)</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>172</td><td>Vogelreservate kantonal</td><td>841.1, Art. 27</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
-<tr><td>174</td><td>Fischschongebiete</td><td>842.1 Art. 43</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>174</td><td>Fischschongebiete</td><td>842.311 Art. 1-2</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>182</td><td>Radondatenbank</td><td>717.3, Art. 2</td><td>Laboratorium der Urkantone</td><td></td><td>B</td><td></td></tr>
 <tr><td>183</td><td>Stromversorgungssicherheit: Netzgebiete</td><td>641.2, Art. 4 ff.</td><td>AUE</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>184</td><td>Kantonale Ausnahmetransportrouten</td><td>622.1</td><td>AMO</td><td></td><td>A</td><td>Ja</td></tr>
@@ -323,7 +323,7 @@ Ja = generell
 <tr><td>90-NW</td><td>Forstliche Betriebspläne</td><td>831.1, Art. 27; 831.11, §§ 16 ff.</td><td>AWN</td><td></td><td>B</td><td></td></tr>
 <tr><td>91-NW</td><td>Forstkreise und Forstreviere</td><td>831.1, Art. 47; 831.11, § 21</td><td>AWN</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>92-NW</td><td>Wildtierkorridore</td><td>841.1, Art. 25</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
-<tr><td>94-NW</td><td>Patent- und Pachtkreise (Fischerei)</td><td>842.1 Art. 6, 11, 23</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>94-NW</td><td>Patent- und Pachtkreise (Fischerei)</td><td>842.1 Art. 6, 842.11 § 7</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>95-NW</td><td>Fischschongebiete</td><td>842.1, Art. 43</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>96-NW</td><td>Erdbebenmikrozonierung</td><td>867.1</td><td>NSV</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>102-NW</td><td>Baugesuche</td><td>611.1, Art. 143; 611.11, §§ 42 ff.</td><td>Gemeinde [ARE]</td><td></td><td>B</td><td></td></tr>
