@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification partielle de la loi sur les forêts – Recommandations de prix également pour le bois de forêts suisses
 document: Projet mis en consultation
 language: fr

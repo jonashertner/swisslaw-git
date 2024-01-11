@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision Waldgesetz – Preisempfehlungen auch für Holz aus Schweizer Wäldern
 document: Vernehmlassungsvorlage
 language: de

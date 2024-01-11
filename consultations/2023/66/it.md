@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge forestale – Raccomandazioni di prezzo anche per il legname proveniente dalle foreste svizzere
 document: Progetto posto in consultazione
 language: it
