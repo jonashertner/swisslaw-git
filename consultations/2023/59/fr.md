@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur l’agriculture (mise en œuvre de la motion 19.3445 du groupe BD «Indemniser équitablement le conjoint ou le partenaire enregistré d’un exploitant agricole en cas de divorce»)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sull’agricoltura (attuazione della mozione 19.3445 Gruppo BD «Indennizzo adeguato per i coniugi e i partner in unione domestica registrata di agricoltori in caso di divorzio»)
 document: Progetto posto in consultazione
 language: it

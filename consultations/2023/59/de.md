@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Landwirtschaftsgesetzes (Umsetzung Motion 19.3445 Fraktion BD «Angemessene Entschädigung von Ehegattinnen und Ehegatten und eingetragenen Partnerinnen und Partnern von Landwirtinnen und Landwirten im Scheidungsfall»)
 document: Vernehmlassungsvorlage
 language: de
