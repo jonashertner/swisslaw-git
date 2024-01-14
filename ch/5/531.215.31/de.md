@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Verordnung vom 10. Mai 2017 über die Pflichtlagerhaltung von Arzneimitteln
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: de
-version: 2022-01-01
+version: 2024-01-15
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-312-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20240115/de/xml/fedlex-data-admin-ch-eli-cc-2017-312-20240115-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20240115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Pflichtlagerhaltung von Arzneimitteln
 
-vom 10. Mai 2017 (Stand am 1. Januar 2022)
+vom 10. Mai 2017 (Stand am 15. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -115,13 +115,13 @@ Die Verordnung vom 6. Juli 1983[^9-1] über die Pflichtlagerhaltung von Arzneimi
 
 Diese Verordnung tritt am 1. Juni 2017 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1)
 
 ## Arzneimittel, die der Pflichtlagerhaltung unterstellt sind
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. Dez. 2019, in Kraft seit 15. Jan. 2020 ([AS 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. Dez. 2019 ([AS 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)) und vom 24. Nov. 2023, in Kraft seit 15. Jan. 2024 ([AS 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)).
 
 ### 1 Antiinfektiva
 
@@ -157,25 +157,24 @@ Anhang*[^t-1]*
 <tr><td>J05AH</td><td>Neuraminidase-Hemmer</td></tr>
 </table>
 
-### 3 Starke Analgetika und Opiate
+### 3 Analgetika
 
 <table>
-<tr><th>ATC-Code</th><th>Warenbezeichnung</th></tr>
-<tr><td>N02AA01</td><td>Morphin</td></tr>
-<tr><td>N02AA03</td><td>Hydromorphon</td></tr>
-<tr><td>N02AA04</td><td>Nicomorphin</td></tr>
-<tr><td>N02AA05</td><td>Oxycodon</td></tr>
-<tr><td>N02AA51</td><td>Morphin, Kombinationen</td></tr>
-<tr><td>N02AA55</td><td>Oxycodon, Kombinationen</td></tr>
-<tr><td>N02AB02</td><td>Pethidin</td></tr>
-<tr><td>N02AB03</td><td>Fentanyl</td></tr>
-<tr><td>N02AB52</td><td>Pethidin, Kombinationen, exkl. Psycholeptika</td></tr>
-<tr><td>N02AB72</td><td>Pethidin, Kombinationen mit Psycholeptika</td></tr>
-<tr><td>N02AC52</td><td>Methadon, Kombinationen, exkl. Psycholeptika</td></tr>
-<tr><td>N02AG01</td><td>Morphin und Spasmolytika</td></tr>
-<tr><td>N02AG03</td><td>Pethidin und Spasmolytika</td></tr>
-<tr><td>N02AG04</td><td>Hydromorphon und Spasmolytika</td></tr>
-<tr><td>N07BC02</td><td>Methadon</td></tr>
+<tr><th>ATC-Code</th><th>Warenbezeichnung</th><th>Bemerkung</th></tr>
+<tr><td>N01AH06</td><td>Remifentanil</td><td></td></tr>
+<tr><td>N02AA01</td><td>Morphin</td><td></td></tr>
+<tr><td>N02AA03</td><td>Hydromorphon</td><td></td></tr>
+<tr><td>N02AA05</td><td>Oxycodon</td><td></td></tr>
+<tr><td>N02AA51</td><td>Morphin, Kombinationen</td><td></td></tr>
+<tr><td>N02AA55</td><td>Oxycodon und Naloxon</td><td></td></tr>
+<tr><td>N02AB03</td><td>Fentanyl</td><td></td></tr>
+<tr><td>N02AC52</td><td>Methadon, Kombinationen</td><td>exkl. Psycholeptika</td></tr>
+<tr><td>N02AE01</td><td>Buprenorphin</td><td></td></tr>
+<tr><td>N02AG01</td><td>Morphin und Spasmolytika</td><td></td></tr>
+<tr><td>N02AG04</td><td>Hydromorphon und Spasmolytika</td><td></td></tr>
+<tr><td>N02BA01</td><td>Acetylsalicylsäure, inkl. Lysinacetylsalicylat</td><td>parenterale Formen</td></tr>
+<tr><td>N07BC02</td><td>Methadon</td><td></td></tr>
+<tr><td>N07BC05</td><td>Levomethadon</td><td></td></tr>
 </table>
 
 ### 4 Impfstoffe
@@ -198,12 +197,37 @@ Anhang*[^t-1]*
 <tr><td>J07CA</td><td>Bakterielle und virale Impfstoffe, kombiniert</td></tr>
 </table>
 
-### 5 Andere
+### 5 Onkologika
 
 <table>
-<tr><td>ATC-Code</td><td>Warenbezeichnung</td><td>Bemerkung</td></tr>
-<tr><td>C01CA24</td><td>Adrenalin</td><td>Fertigspritzen</td></tr>
+<tr><th>ATC-Code</th><th>Warenbezeichnung</th><th>Bemerkung</th></tr>
+<tr><td>L01AA03</td><td>Melphalan</td><td></td></tr>
+<tr><td>L01BA01</td><td>Methotrexat</td><td>parenterale Formen</td></tr>
+<tr><td>L01BB03</td><td>Tioguanin</td><td></td></tr>
+<tr><td>L01BC01</td><td>Cytarabin</td><td></td></tr>
+<tr><td>L01BC05</td><td>Gemcitabin</td><td></td></tr>
+<tr><td>L01CB01</td><td>Etoposid</td><td></td></tr>
+<tr><td>L01CE02</td><td>Irinotecan</td><td>alter ATC-Code L01XX19</td></tr>
+<tr><td>L01DB01</td><td>Doxorubicin</td><td>nicht liposomal</td></tr>
+<tr><td>L01XA01</td><td>Cisplatin</td><td></td></tr>
+<tr><td>L01XA02</td><td>Carboplatin</td><td></td></tr>
+<tr><td>L01XA03</td><td>Oxaliplatin</td><td></td></tr>
+<tr><td>L02BA01</td><td>Tamoxifen</td><td></td></tr>
+<tr><td>L03AX03</td><td>BCG Impfstoff</td><td></td></tr>
+</table>
+
+### 6 Andere Arzneimittel
+
+<table>
+<tr><th>ATC-Code</th><th>Warenbezeichnung</th><th>Bemerkung</th></tr>
+<tr><td>B01AD02</td><td>Alteplase</td><td>Dosierung &gt; 2 mg</td></tr>
+<tr><td>C01CA03</td><td>Noradrenalin</td><td></td></tr>
+<tr><td>C01CA07</td><td>Dobutamin</td><td></td></tr>
+<tr><td>C01CA24</td><td>Adrenalin</td><td>Autoinjektoren</td></tr>
+<tr><td>C03CA01</td><td>Furosemid</td><td>parenterale Formen</td></tr>
 <tr><td>H01BB02</td><td>Oxytocin</td><td>parenterale Formen</td></tr>
+<tr><td>M03AC09</td><td>Rocuronium</td><td></td></tr>
+<tr><td>N01AX10</td><td>Propofol</td><td></td></tr>
 <tr><td>V08BA</td><td>Bariumhaltige Röntgenkontrastmittel</td><td></td></tr>
 <tr><td>V08DA</td><td>Ultraschallkontrastmittel</td><td></td></tr>
 </table>

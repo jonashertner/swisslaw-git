@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Ordonnance du 10 mai 2017 sur le stockage obligatoire de médicaments
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: fr
-version: 2022-01-01
+version: 2024-01-15
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-312-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20240115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-312-20240115-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20240115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le stockage obligatoire de médicaments
 
-du 10 mai 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 mai 2017 (État le 15 janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -107,7 +107,7 @@ Dans les cas litigieux, l’OFAE établit par voie de décision, en s’appuyant
 
 L’ordonnance du 6 juillet 1983 sur la constitution de réserves obligatoires de médicaments[^9-1] est abrogée.
 
-[^9-1]: [[RO 1983 1004](https://fedlex.data.admin.ch/eli/oc/1983/1004_1004_1004), [2004 1361](https://fedlex.data.admin.ch/eli/oc/2004/162), [2013 1633](https://fedlex.data.admin.ch/eli/oc/2013/380), [2014 2305](https://fedlex.data.admin.ch/eli/oc/2014/388), [2016 1671](https://fedlex.data.admin.ch/eli/oc/2016/306)]
+[^9-1]: [[RO 1983 1004](https://fedlex.data.admin.ch/eli/oc/1983/1004_1004_1004); [2004 1361](https://fedlex.data.admin.ch/eli/oc/2004/162); [2013 1633](https://fedlex.data.admin.ch/eli/oc/2013/380); [2014 2305](https://fedlex.data.admin.ch/eli/oc/2014/388); [2016 1671](https://fedlex.data.admin.ch/eli/oc/2016/306)]
 
 #### Art. 10
 
@@ -115,13 +115,13 @@ L’ordonnance du 6 juillet 1983 sur la constitution de réserves obligatoires d
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 2017.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1)
 
 ## Médicaments soumis au stockage obligatoire
 
-[^t-1]: Mise à jour par le ch. I de l’O du DEFR du 4 déc. 2019, en vigueur depuis le 15 janv. 2020 ([RO 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)).
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 4 déc. 2019 ([RO 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)) et du 24 nov. 2023, en vigueur depuis le 15 janv. 2024 ([RO 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)).
 
 ### 1 Anti-infectieux
 
@@ -147,8 +147,8 @@ Annexe*[^t-1]*
 <tr><td>QP51</td><td>antiprotozoaires</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: Les codes ATC (*Anatomical Therapeutic Chemical Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: www.whocc.no &gt; ATC/DDD Index.
-[^annexu1-lvlu1-lvl1-2]: Les codes ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: www.whocc.no/ATCvet &gt; ATCvet Index.
+[^annexu1-lvlu1-lvl1-1]: Les codes ATC (*Anatomical Therapeutic Chemical Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
+[^annexu1-lvlu1-lvl1-2]: Les codes ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no/ATCvet](http://www.whocc.no/ATCvet) &gt; ATCvet Index.
 
 ### 2 Virostatiques
 
@@ -157,25 +157,24 @@ Annexe*[^t-1]*
 <tr><td>J05AH</td><td>inhibiteurs de neuraminidase</td></tr>
 </table>
 
-### 3 Analgésiques et opiacés puissants
+### 3 Analgésiques
 
 <table>
-<tr><th>Code ATC</th><th>Désignation de la marchandise</th></tr>
-<tr><td>N02AA01</td><td>morphine</td></tr>
-<tr><td>N02AA03</td><td>hydromorphone</td></tr>
-<tr><td>N02AA04</td><td>nicomorphine</td></tr>
-<tr><td>N02AA05</td><td>oxycodone</td></tr>
-<tr><td>N02AA51</td><td>morphine, associations</td></tr>
-<tr><td>N02AA55</td><td>oxycodone, associations</td></tr>
-<tr><td>N02AB02</td><td>péthidine</td></tr>
-<tr><td>N02AB03</td><td>fentanyl</td></tr>
-<tr><td>N02AB52</td><td>péthidine, associations sans psycholeptiques</td></tr>
-<tr><td>N02AB72</td><td>péthidine, associations avec psycholeptiques</td></tr>
-<tr><td>N02AC52</td><td>méthadone, associations sans psycholeptiques</td></tr>
-<tr><td>N02AG01</td><td>morphine et antispasmodiques</td></tr>
-<tr><td>N02AG03</td><td>péthidine et antispasmodiques</td></tr>
-<tr><td>N02AG04</td><td>hydromorphone et antispasmodiques</td></tr>
-<tr><td>N07BC02</td><td>méthadone</td></tr>
+<tr><th>Code ATC</th><th>Désignation de la marchandise</th><th>Remarque</th></tr>
+<tr><td>N01AH06</td><td>rémifentanil</td><td></td></tr>
+<tr><td>N02AA01</td><td>morphine</td><td></td></tr>
+<tr><td>N02AA03</td><td>hydromorphone</td><td></td></tr>
+<tr><td>N02AA05</td><td>oxycodone</td><td></td></tr>
+<tr><td>N02AA51</td><td>morphine, associations</td><td></td></tr>
+<tr><td>N02AA55</td><td>oxycodone avec naloxone</td><td></td></tr>
+<tr><td>N02AB03</td><td>fentanyl</td><td></td></tr>
+<tr><td>N02AC52</td><td>méthadone, associations</td><td>sauf psycholeptiques</td></tr>
+<tr><td>N02AE01</td><td>buprénorphine</td><td></td></tr>
+<tr><td>N02AG01</td><td>morphine et antispasmodiques</td><td></td></tr>
+<tr><td>N02AG04</td><td>hydromorphone et antispasmodiques</td><td></td></tr>
+<tr><td>N02BA01</td><td>acide acétylsalicylique, y c. acétylsalicylate de lysine</td><td>formes parentérales</td></tr>
+<tr><td>N07BC02</td><td>méthadone</td><td></td></tr>
+<tr><td>N07BC05</td><td>lévométhadone</td><td></td></tr>
 </table>
 
 ### 4 Vaccins
@@ -198,12 +197,37 @@ Annexe*[^t-1]*
 <tr><td>J07CA</td><td>vaccins bactériens et viraux combinés</td></tr>
 </table>
 
-### 5 Autres
+### 5 Médicaments oncologiques
 
 <table>
-<tr><td>Code ATC</td><td>Désignation de la marchandise</td><td>Remarque</td></tr>
-<tr><td>C01CA24</td><td>adrénaline</td><td>seringues préremplies</td></tr>
+<tr><th>Code ATC</th><th>Désignation de la marchandise</th><th>Remarque</th></tr>
+<tr><td>L01AA03</td><td>melphalan</td><td></td></tr>
+<tr><td>L01BA01</td><td>méthotrexate</td><td>formes parentérales</td></tr>
+<tr><td>L01BB03</td><td>tioguanine</td><td></td></tr>
+<tr><td>L01BC01</td><td>cytarabine</td><td></td></tr>
+<tr><td>L01BC05</td><td>gemcitabine</td><td></td></tr>
+<tr><td>L01CB01</td><td>étoposide</td><td></td></tr>
+<tr><td>L01CE02</td><td>irinotécan</td><td>ancien code ATC L01XX19</td></tr>
+<tr><td>L01DB01</td><td>doxorubicine</td><td>non liposomale</td></tr>
+<tr><td>L01XA01</td><td>cisplatine</td><td></td></tr>
+<tr><td>L01XA02</td><td>carboplatine</td><td></td></tr>
+<tr><td>L01XA03</td><td>oxaliplatine</td><td></td></tr>
+<tr><td>L02BA01</td><td>tamoxifène</td><td></td></tr>
+<tr><td>L03AX03</td><td>vaccin BCG</td><td></td></tr>
+</table>
+
+### 6 Autres médicaments
+
+<table>
+<tr><th>Code ATC</th><th>Désignation de la marchandise</th><th>Remarque</th></tr>
+<tr><td>B01AD02</td><td>altéplase</td><td>dosage &gt; 2 mg</td></tr>
+<tr><td>C01CA03</td><td>noradrénaline</td><td></td></tr>
+<tr><td>C01CA07</td><td>dobutamine</td><td></td></tr>
+<tr><td>C01CA24</td><td>adrénaline</td><td>auto-injecteurs</td></tr>
+<tr><td>C03CA01</td><td>furosémide</td><td>formes parentérales</td></tr>
 <tr><td>H01BB02</td><td>ocytocine</td><td>formes parentérales</td></tr>
-<tr><td>V08BA</td><td>produits de contraste au baryum pour radiographie</td><td></td></tr>
+<tr><td>M03AC09</td><td>rocuronium</td><td></td></tr>
+<tr><td>N01AX10</td><td>propofol</td><td></td></tr>
+<tr><td>V08BA</td><td>produits de contraste barytés</td><td></td></tr>
 <tr><td>V08DA</td><td>produits de contraste pour échographie</td><td></td></tr>
 </table>

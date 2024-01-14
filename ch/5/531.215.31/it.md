@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Ordinanza del 10 maggio 2017 concernente la costituzione di scorte obbligatorie di medicamenti
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: it
-version: 2022-01-01
+version: 2024-01-15
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-312-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20240115/it/xml/fedlex-data-admin-ch-eli-cc-2017-312-20240115-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20240115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la costituzione di scorte obbligatorie di medicamenti
 
-del 10 maggio 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 10 maggio 2017 (Stato 15 gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -115,13 +115,13 @@ L’ordinanza del 6 luglio 1983[^9-1] concernente la costituzione di scorte obbl
 
 La presente ordinanza entra in vigore il 1° giugno 2017.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1)
 
 ## Medicamenti che sottostanno all’obbligo di costituire scorte:
 
-[^t-1]: Aggiornato dal n. I dell’O del DFE del 4 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)).
+[^t-1]: Aggiornato dal n. I delle O del DEFR del 4 dic. 2019 ([RU 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)) e del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)).
 
 ### 1 Antinfettivi
 
@@ -147,8 +147,8 @@ Allegato*[^t-1]*
 <tr><td>QP51</td><td>antiprotozoari</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: <sup>2</sup> Il codice ATC (*Anatomical Therapeutic Chemical Classification System*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*), all’indirizzo: www.whocc.no &gt; ATC/DDD Index.
-[^annexu1-lvlu1-lvl1-2]: <sup>3</sup> Il codice ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*), all’indirizzo: www.whocc.no/ATCvet &gt; ATCvet Index.
+[^annexu1-lvlu1-lvl1-1]: <sup>2</sup> Il codice ATC (*Anatomical Therapeutic Chemical Classification System*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*), all’indirizzo: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
+[^annexu1-lvlu1-lvl1-2]: <sup>3</sup> Il codice ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*), all’indirizzo: [www.whocc.no/ATCvet](http://www.whocc.no/ATCvet) &gt; ATCvet Index.
 
 ### 2 Virostatici
 
@@ -157,25 +157,24 @@ Allegato*[^t-1]*
 <tr><td>J05AH</td><td>inibitori della neuramidasi</td></tr>
 </table>
 
-### 3 Analgesici e oppiacei potenti
+### 3 Analgesici
 
 <table>
-<tr><th>Codice ATC</th><th>Designazione della merce</th></tr>
-<tr><td>N02AA01</td><td>morfina</td></tr>
-<tr><td>N02AA03</td><td>idromorfone</td></tr>
-<tr><td>N02AA04</td><td>nicomorfina</td></tr>
-<tr><td>N02AA05</td><td>ossicodone</td></tr>
-<tr><td>N02AA51</td><td>morfina, combinazioni</td></tr>
-<tr><td>N02AA55</td><td>ossicodone, combinazioni</td></tr>
-<tr><td>N02AB02</td><td>petidina</td></tr>
-<tr><td>N02AB03</td><td>fentanile</td></tr>
-<tr><td>N02AB52</td><td>petidina, combinazioni senza psicofarmaci</td></tr>
-<tr><td>N02AB72</td><td>petidina, combinazioni con psicofarmaci</td></tr>
-<tr><td>N02AC52</td><td>metadone, combinazioni senza psicofarmaci</td></tr>
-<tr><td>N02AG01</td><td>morfina e spasmolitici</td></tr>
-<tr><td>N02AG03</td><td>petidina e spasmolitici</td></tr>
-<tr><td>N02AG04</td><td>idromorfone e spasmolitici</td></tr>
-<tr><td>N07BC02</td><td>metadone</td></tr>
+<tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
+<tr><td>N01AH06</td><td>remifentanile</td><td></td></tr>
+<tr><td>N02AA01</td><td>morfina</td><td></td></tr>
+<tr><td>N02AA03</td><td>idromorfone</td><td></td></tr>
+<tr><td>N02AA05</td><td>ossicodone</td><td></td></tr>
+<tr><td>N02AA51</td><td>morfina, combinazioni</td><td></td></tr>
+<tr><td>N02AA55</td><td>ossicodone e naloxone</td><td></td></tr>
+<tr><td>N02AB03</td><td>fentanile</td><td></td></tr>
+<tr><td>N02AC52</td><td>metadone, combinazioni</td><td>senza psicofarmaci</td></tr>
+<tr><td>N02AE01</td><td>buprenorfina</td><td></td></tr>
+<tr><td>N02AG01</td><td>morfina e spasmolitici</td><td></td></tr>
+<tr><td>N02AG04</td><td>idromorfone e spasmolitici</td><td></td></tr>
+<tr><td>N02BA01</td><td>acido acetilsalicilico, incl. acetilsalicilato di lisina</td><td>forme parenterali</td></tr>
+<tr><td>N07BC02</td><td>metadone</td><td></td></tr>
+<tr><td>N07BC05</td><td>levometadone</td><td></td></tr>
 </table>
 
 ### 4 Vaccini
@@ -198,12 +197,37 @@ Allegato*[^t-1]*
 <tr><td>J07CA</td><td>vaccini virali e batterici combinati</td></tr>
 </table>
 
-### 5 Altri medicamenti della medicina umana
+### 5 Medicamenti oncologici
 
 <table>
-<tr><td>Codice ATC</td><td>Designazione della merce</td><td>Osservazione</td></tr>
+<tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
+<tr><td>L01AA03</td><td>melfalan</td><td></td></tr>
+<tr><td>L01BA01</td><td>metotrexato</td><td>forme parenterali</td></tr>
+<tr><td>L01BB03</td><td>tioguanina</td><td></td></tr>
+<tr><td>L01BC01</td><td>citarabina</td><td></td></tr>
+<tr><td>L01BC05</td><td>gemcitabina</td><td></td></tr>
+<tr><td>L01CB01</td><td>etoposide</td><td></td></tr>
+<tr><td>L01CE02</td><td>irinotecano</td><td>vecchio codice ATC L01XX19</td></tr>
+<tr><td>L01DB01</td><td>doxorubicina</td><td>non liposomiale</td></tr>
+<tr><td>L01XA01</td><td>cisplatino</td><td></td></tr>
+<tr><td>L01XA02</td><td>carboplatino</td><td></td></tr>
+<tr><td>L01XA03</td><td>oxaliplatino</td><td></td></tr>
+<tr><td>L02BA01</td><td>tamoxifene</td><td></td></tr>
+<tr><td>L03AX03</td><td>vaccino BCG</td><td></td></tr>
+</table>
+
+### 6 Altri medicamenti
+
+<table>
+<tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
+<tr><td>B01AD02</td><td>alteplasi</td><td>dosaggio &gt; 2 mg</td></tr>
+<tr><td>C01CA03</td><td>noradrenalina</td><td></td></tr>
+<tr><td>C01CA07</td><td>dobutamina</td><td></td></tr>
 <tr><td>C01CA24</td><td>adrenalina</td><td>siringhe pronte all’uso</td></tr>
+<tr><td>C03CA01</td><td>furosemide</td><td>forme parenterali</td></tr>
 <tr><td>H01BB02</td><td>ossitocina</td><td>forme parenterali</td></tr>
+<tr><td>M03AC09</td><td>rocuronio</td><td></td></tr>
+<tr><td>N01AX10</td><td>propofol</td><td></td></tr>
 <tr><td>V08BA</td><td>mezzi di contrasto radiologici contenenti solfato di bario</td><td></td></tr>
 <tr><td>V08DA</td><td>mezzi di contrasto per ultrasonologia</td><td></td></tr>
 </table>
