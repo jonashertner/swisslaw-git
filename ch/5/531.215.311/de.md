@@ -3,18 +3,18 @@ sr: "531.215.311"
 title: Verordnung des WBF vom 20. Mai 2019 über die Pflichtlagerhaltung von Arzneimitteln
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/351"
 language: de
-version: 2020-01-15
+version: 2024-01-15
 adopted: 2019-05-20
 in_force: 2019-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20200115/de/xml/fedlex-data-admin-ch-eli-cc-2019-351-20200115-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20200115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20240115/de/xml/fedlex-data-admin-ch-eli-cc-2019-351-20240115-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20240115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die Pflichtlagerhaltung von Arzneimitteln
 
-vom 20. Mai 2019 (Stand am 15. Januar 2020)
+vom 20. Mai 2019 (Stand am 15. Januar 2024)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -75,33 +75,31 @@ Die Gesamtmenge der einzulagernden Neuraminidasehemmer nach Anhang 1 Ziffer 3 be
 
 #### Art. 6
 
-**Pflichtlagermenge an starken Analgetika, Opiaten und Impfstoffen der Humanmedizin**
+**Pflichtlagermenge an Analgetika, Impfstoffen und Onkologika der Humanmedizin[^6-1]**
 
 <sup>1</sup>
 
-Die Gesamtmenge der folgenden eingelagerten Waren nach Anhang 1 Ziffern 4 und 5 muss den durchschnittlichen Bedarf der Schweizer Bevölkerung für die nachstehend aufgeführte Dauer decken:
+Die Gesamtmenge der folgenden eingelagerten Waren nach Anhang 1 Ziffern 4–5*a* muss den durchschnittlichen Bedarf der Schweizer Bevölkerung für die nachstehend aufgeführte Dauer decken:
 
-- a. starke Analgetika und Opiate: 3 Monate;
-- b. Impfstoffe: 4 Monate.
+- a. Analgetika: 3 Monate;
+- b. Impfstoffe: 4 Monate;
+- c. Onkologika: 3 Monate.[^6-2]
 
 <sup>2</sup> Die Waren sind in dosierten Handelsformen zu lagern. Der Anteil der galenischen Formen und Dosierungen hat dem Anteil der in Verkehr gebrachten Mengen zu entsprechen.
+
+[^6-1]: Fassung gemäss Ziff. I der V des WBF vom 24. Nov. 2023, in Kraft seit 15. Jan. 2024 ([AS 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^6-2]: Fassung gemäss Ziff. I der V des WBF vom 24. Nov. 2023, in Kraft seit 15. Jan. 2024 ([AS 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 #### Art. 6a
 
 **Pflichtlagermenge an anderen Arzneimitteln der Humanmedizin**[^6a-1]
 
-<sup>1</sup>
-
-Die Gesamtmenge der folgenden eingelagerten Waren nach Anhang 1 Ziffer 5*a* muss den durchschnittlichen Bedarf der Schweizer Bevölkerung für die nachstehend aufgeführte Dauer decken:
-
-- a. Adrenalin: 3 Monate;
-- b. Oxytocin: 3 Monate;
-- c. bariumhaltige Röntgenkontrastmittel: 3 Monate;
-- d. Ultraschallkontrastmittel: 3 Monate.
+<sup>1</sup> Die Gesamtmenge der eingelagerten Waren nach Anhang 1 Ziffer 5*b* muss den durchschnittlichen Bedarf der Schweizer Bevölkerung während 3 Monaten decken.[^6a-2]
 
 <sup>2</sup> Die Waren sind in dosierten Handelsformen zu lagern. Der Anteil der galenischen Formen und Dosierungen hat dem Anteil der in Verkehr gebrachten Mengen zu entsprechen.
 
 [^6a-1]: Eingefügt durch Ziff. I der V des WBF vom 4. Dez. 2019, in Kraft seit 15. Jan. 2020 ([AS 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)).
+[^6a-2]: Fassung gemäss Ziff. I der V des WBF vom 24. Nov. 2023, in Kraft seit 15. Jan. 2024 ([AS 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 #### Art. 7
 
@@ -163,13 +161,13 @@ Die Gesamtmenge der folgenden eingelagerten Waren nach Anhang 1 Ziffer 5*a* muss
 
 Diese Verordnung tritt am 1. Juli 2019 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1)
 
 ## Waren nach Artikel 1
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des WBF vom 4. Dez. 2019, in Kraft seit 15. Jan. 2020 ([AS 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des WBF vom 4. Dez. 2019 ([AS 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)) und vom 24. Nov. 2023, in Kraft seit 15. Jan. 2024 ([AS 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 ### 1 Antiinfektiva der Humanmedizin in dosierten Handelsformen
 
@@ -211,25 +209,24 @@ Anhang 1*[^t-1]*
 <tr><td>J05AH02</td><td>Oseltamivir (Wirkstoff)</td></tr>
 </table>
 
-### 4 Starke Analgetika und Opiate der Humanmedizin
+### 4 Analgetika der Humanmedizin
 
 <table>
-<tr><th>ATC-Code</th><th>Warenbezeichnung</th></tr>
-<tr><td>N02AA01</td><td>Morphin</td></tr>
-<tr><td>N02AA03</td><td>Hydromorphon</td></tr>
-<tr><td>N02AA04</td><td>Nicomorphin</td></tr>
-<tr><td>N02AA05</td><td>Oxycodon</td></tr>
-<tr><td>N02AA51</td><td>Morphin, Kombinationen</td></tr>
-<tr><td>N02AA55</td><td>Oxycodon, Kombinationen</td></tr>
-<tr><td>N02AB02</td><td>Pethidin</td></tr>
-<tr><td>N02AB03</td><td>Fentanyl</td></tr>
-<tr><td>N02AB52</td><td>Pethidin, Kombinationen, exkl. Psycholeptika</td></tr>
-<tr><td>N02AB72</td><td>Pethidin, Kombinationen mit Psycholeptika</td></tr>
-<tr><td>N02AC52</td><td>Methadon, Kombinationen, exkl. Psycholeptika</td></tr>
-<tr><td>N02AG01</td><td>Morphin und Spasmolytika</td></tr>
-<tr><td>N02AG03</td><td>Pethidin und Spasmolytika</td></tr>
-<tr><td>N02AG04</td><td>Hydromorphon und Spasmolytika</td></tr>
-<tr><td>N07BC02</td><td>Methadon</td></tr>
+<tr><th>ATC-Code</th><th>Warenbezeichnung</th><th>Bemerkung</th></tr>
+<tr><th>N01AH06</th><th>Remifentanil</th><th></th></tr>
+<tr><td>N02AA01</td><td>Morphin</td><td></td></tr>
+<tr><td>N02AA03</td><td>Hydromorphon</td><td></td></tr>
+<tr><td>N02AA05</td><td>Oxycodon</td><td></td></tr>
+<tr><td>N02AA51</td><td>Morphin, Kombinationen</td><td></td></tr>
+<tr><td>N02AA55</td><td>Oxycodon und Naloxon</td><td></td></tr>
+<tr><td>N02AB03</td><td>Fentanyl</td><td></td></tr>
+<tr><td>N02AC52</td><td>Methadon, Kombinationen</td><td>exkl. Psycholeptika</td></tr>
+<tr><td>N02AE01</td><td>Buprenorphin</td><td></td></tr>
+<tr><td>N02AG01</td><td>Morphin und Spasmolytika</td><td></td></tr>
+<tr><td>N02AG04</td><td>Hydromorphon und Spasmolytika</td><td></td></tr>
+<tr><td>N02BA01</td><td>Acetylsalicylsäure, inkl. Lysinacetylsalicylat</td><td>parenterale Formen</td></tr>
+<tr><td>N07BC02</td><td>Methadon</td><td></td></tr>
+<tr><td>N07BC05</td><td>Levomethadon</td><td></td></tr>
 </table>
 
 ### 5 Impfstoffe der Humanmedizin
@@ -252,12 +249,37 @@ Anhang 1*[^t-1]*
 <tr><td>J07CA</td><td>Bakterielle und virale Impfstoffe, kombiniert</td></tr>
 </table>
 
-### 5*a* Andere Arzneimittel der Humanmedizin
+### 5*a* Onkologika der Humanmedizin
 
 <table>
-<tr><td>ATC-Code</td><td>Warenbezeichnung</td><td>Bemerkung</td></tr>
-<tr><td>C01CA24</td><td>Adrenalin</td><td>Fertigspritzen</td></tr>
+<tr><th>ATC-Code</th><th>Warenbezeichnung</th><th>Bemerkung</th></tr>
+<tr><td>L01AA03</td><td>Melphalan</td><td></td></tr>
+<tr><td>L01BA01</td><td>Methotrexat</td><td>parenterale Formen</td></tr>
+<tr><td>L01BB03</td><td>Tioguanin</td><td></td></tr>
+<tr><td>L01BC01</td><td>Cytarabin</td><td></td></tr>
+<tr><td>L01BC05</td><td>Gemcitabin</td><td></td></tr>
+<tr><td>L01CB01</td><td>Etoposid</td><td></td></tr>
+<tr><td>L01CE02</td><td>Irinotecan</td><td>alter ATC-Code: L01XX19</td></tr>
+<tr><td>L01DB01</td><td>Doxorubicin</td><td>nicht liposomal</td></tr>
+<tr><td>L01XA01</td><td>Cisplatin</td><td></td></tr>
+<tr><td>L01XA02</td><td>Carboplatin</td><td></td></tr>
+<tr><td>L01XA03</td><td>Oxaliplatin</td><td></td></tr>
+<tr><td>L02BA01</td><td>Tamoxifen</td><td></td></tr>
+<tr><td>L03AX03</td><td>BCG Impfstoff</td><td></td></tr>
+</table>
+
+### 5*b* Andere Arzneimittel der Humanmedizin
+
+<table>
+<tr><th>ATC-Code</th><th>Warenbezeichnung</th><th>Bemerkung</th></tr>
+<tr><td>B01AD02</td><td>Alteplase</td><td>Dosierung &gt; 2 mg</td></tr>
+<tr><td>C01CA03</td><td>Noradrenalin</td><td></td></tr>
+<tr><td>C01CA07</td><td>Dobutamin</td><td></td></tr>
+<tr><td>C01CA24</td><td>Adrenalin</td><td>Autoinjektoren</td></tr>
+<tr><td>C03CA01</td><td>Furosemid</td><td>parenterale Formen</td></tr>
 <tr><td>H01BB02</td><td>Oxytocin</td><td>parenterale Formen</td></tr>
+<tr><td>M03AC09</td><td>Rocuronium</td><td></td></tr>
+<tr><td>N01AX10</td><td>Propofol</td><td></td></tr>
 <tr><td>V08BA</td><td>Bariumhaltige Röntgenkontrastmittel</td><td></td></tr>
 <tr><td>V08DA</td><td>Ultraschallkontrastmittel</td><td></td></tr>
 </table>
@@ -265,12 +287,12 @@ Anhang 1*[^t-1]*
 ### 6 Antiinfektiva der Veterinärmedizin
 
 <table>
-<tr><th>ATCvet-Code[^annex1-lvlu1-lvl6-1]</th><th></th><th>Warenbezeichnung</th></tr>
+<tr><th>ATCvet-Code\*</th><th></th><th>Warenbezeichnung</th></tr>
 <tr><td>QA07A</td><td>QA07AA01</td><td>Neomycin</td></tr>
 <tr><td></td><td>QA07AA10</td><td>Colistin</td></tr>
-<tr><td></td><td>QA07AA51</td><td>Neomycin, Komb.</td></tr>
+<tr><td></td><td>QA07AA51</td><td>Neomycin, Kombinationen</td></tr>
 <tr><td></td><td>QA07AB03</td><td>Sulfaguanidin</td></tr>
-<tr><td></td><td>QA07AB20</td><td>Sulfonamide, Komb.</td></tr>
+<tr><td></td><td>QA07AB20</td><td>Sulfonamide, Kombinationen</td></tr>
 <tr><td>QG51A</td><td>QG51AA01</td><td>Oxytetracyclin</td></tr>
 <tr><td></td><td>QG51AA02</td><td>Tetracyclin</td></tr>
 <tr><td></td><td>QG51AA04</td><td>Gentamicin</td></tr>
@@ -283,21 +305,22 @@ Anhang 1*[^t-1]*
 <tr><td>QJ01F</td><td></td><td>Makrolide und Linkosamide</td></tr>
 <tr><td>QJ01G</td><td></td><td>Aminoglykoside</td></tr>
 <tr><td>QJ01M</td><td></td><td>Chinolone</td></tr>
-<tr><td>QJ01R</td><td></td><td>Kombinationen von Antibiotika und/oder Chemo-therapeutika</td></tr>
+<tr><td>QJ01R</td><td></td><td>Kombinationen von Antibiotika und/oder Chemotherapeutika</td></tr>
 <tr><td>QJ01X</td><td>QJ01XQ01</td><td>Tiamulin</td></tr>
 <tr><td></td><td>QJ01XQ02</td><td>Valnemulin</td></tr>
 <tr><td>QJ51C</td><td></td><td>Betalactam-Antibiotika, Penicilline zur intramammären Anwendung</td></tr>
 <tr><td>QJ51D</td><td></td><td>Andere Betalactam-Antibiotika zur intramammären Anwendung</td></tr>
 <tr><td>QJ51R</td><td></td><td>Kombinationen von Antibiotika zur intramammären Anwendung</td></tr>
+<tr><td colspan="3">\* Der ATCvet-Code (*Anatomical Therapeutic Chemical Classification system for* *veterinary* *medicinal products*) kann auf Englisch (offizielle Fassung) auf der Webseite des WHO *Collaborating* *Centre for Drug Statistics Methodology* unter folgender Adresse abgerufen werden: [www.whocc.no/ATCvet](https://www.whocc.no/atcvet/atcvet_index/) &gt; ATCvet Index.</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl6-1]: Der ATCvet-Code (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) kann auf Englisch (offizielle Fassung) auf der Webseite des WHO *Collaborating Centre for Drug Statistics Methodology* unter folgender Adresse abgerufen werden: www.whocc.no/ATCvet &gt; ATCvet Index
-
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 2)
 
 ## Befreiung von der Pflicht zum Abschluss eines Pflichtlagervertrags
+
+[^t-2]: Bereinigt gemäss Ziff. II der V des WBF vom 24. Nov. 2023, in Kraft seit 15. Jan. 2024 ([AS 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 ### 1 Arzneimittel der Humanmedizin in dosierten Handelsformen
 

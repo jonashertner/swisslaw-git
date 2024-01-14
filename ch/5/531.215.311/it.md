@@ -3,18 +3,18 @@ sr: "531.215.311"
 title: Ordinanza del DEFR del 20 maggio 2019 concernente la costituzione di scorte obbligatorie di medicamenti
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/351"
 language: it
-version: 2020-01-15
+version: 2024-01-15
 adopted: 2019-05-20
 in_force: 2019-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20200115/it/xml/fedlex-data-admin-ch-eli-cc-2019-351-20200115-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20200115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20240115/it/xml/fedlex-data-admin-ch-eli-cc-2019-351-20240115-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20240115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR concernente la costituzione di scorte obbligatorie di medicamenti
 
-del 20 maggio 2019 (Stato 15 gennaio 2020)
+del 20 maggio 2019 (Stato 15 gennaio 2024)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -75,33 +75,31 @@ Il quantitativo totale degli inibitori della neuraminidasi di cui all’allegato
 
 #### Art. 6
 
-**Volume delle scorte obbligatorie di analgesici e oppiacei potenti e vaccini della medicina umana**
+**Volume delle scorte obbligatorie di analgesici, vaccini e medicamenti oncologici della medicina umana[^6-1]**
 
 <sup>1</sup>
 
-Il quantitativo totale dei seguenti prodotti di cui all’allegato 1 numeri 4 e 5 copre il fabbisogno medio della popolazione svizzera per la durata indicata:
+Il quantitativo totale dei seguenti prodotti di cui all’allegato 1 numeri 4–5*a* copre il fabbisogno medio della popolazione svizzera per la durata indicata:
 
-- a. analgesici e oppiacei potenti: 3 mesi;
-- b. vaccini: 4 mesi.
+- a. analgesici: 3 mesi;
+- b. vaccini: 4 mesi;
+- c. medicamenti oncologici: 3 mesi.[^6-2]
 
 <sup>2</sup> Le merci sono depositate pronte all’uso. La quota delle forme galeniche e dei dosaggi corrisponde a quella dei quantitativi immessi in commercio.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 #### Art. 6a
 
 **Volume delle scorte obbligatorie di altri medicamenti per la medicina umana**[^6a-1]
 
-<sup>1</sup>
-
-Il quantitativo totale dei seguenti prodotti di cui all’allegato 1 numero 5*a* copre il fabbisogno medio della popolazione svizzera per la durata indicata:
-
-- a. adrenalina: 3 mesi;
-- b. ossitocina: 3 mesi;
-- c. mezzi di contrasto radiologici contenenti solfato di bario: 3 mesi;
-- d. mezzi di contrasto per ultrasonologia: 3 mesi.
+<sup>1</sup> Il quantitativo totale delle merci depositate di cui all’allegato 1 numero 5*b* copre il fabbisogno medio della popolazione svizzera per tre mesi.[^6a-2]
 
 <sup>2</sup> Le merci sono depositate pronte all’uso. La quota delle forme galeniche e dei dosaggi corrisponde a quella dei quantitativi immessi in commercio.
 
 [^6a-1]: Introdotto dal n. I dell’O del DEFR del 4 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)).
+[^6a-2]: Nuovo testo giusta il n. I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 #### Art. 7
 
@@ -163,13 +161,13 @@ Il quantitativo totale dei seguenti prodotti di cui all’allegato 1 numero 5*a*
 
 La presente ordinanza entra in vigore il 1° luglio 2019.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1)
 
 ## Merci secondo l’articolo 1
 
-[^t-1]: Aggiornato dal n. II dell’O del DEFR del 4 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)).
+[^t-1]: Aggiornato dal n. II delle O del DEFR del 4 dic. 2019 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)) e del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 ### 1 Antinfettivi della medicina umana pronti all’uso
 
@@ -193,7 +191,7 @@ Allegato 1*[^t-1]*
 <tr><td>J06BB05</td><td>immunoglobulina antirabica</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: Il codice ATC (*Anatomical Therapeutic Chemical Classification System*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*), all’indirizzo: www.whocc.no &gt; ATC/DDD Index.
+[^annex1-lvlu1-lvl1-1]: Il codice ATC (*Anatomical Therapeutic Chemical Classification System*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*), all’indirizzo: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
 
 ### 2. Principi attivi antinfettivi della medicina umana
 
@@ -211,25 +209,24 @@ Allegato 1*[^t-1]*
 <tr><td>J05AH02</td><td>oseltamivir (principio attivo)</td></tr>
 </table>
 
-### 4. Analgesici e oppiacei potenti della medicina umana
+### 4 Analgesici della medicina umana
 
 <table>
-<tr><th>Codice ATC</th><th>Designazione della merce</th></tr>
-<tr><td>N02AA01</td><td>morfina</td></tr>
-<tr><td>N02AA03</td><td>idromorfone</td></tr>
-<tr><td>N02AA04</td><td>nicomorfina</td></tr>
-<tr><td>N02AA05</td><td>ossicodone</td></tr>
-<tr><td>N02AA51</td><td>morfina, combinazioni</td></tr>
-<tr><td>N02AA55</td><td>ossicodone, combinazioni</td></tr>
-<tr><td>N02AB02</td><td>petidina</td></tr>
-<tr><td>N02AB03</td><td>fentanile</td></tr>
-<tr><td>N02AB52</td><td>petidina, combinazioni senza psicofarmaci</td></tr>
-<tr><td>N02AB72</td><td>petidina, combinazioni con psicofarmaci</td></tr>
-<tr><td>N02AC52</td><td>metadone, combinazioni senza psicofarmaci</td></tr>
-<tr><td>N02AG01</td><td>morfina e spasmolitici</td></tr>
-<tr><td>N02AG03</td><td>petidina e spasmolitici</td></tr>
-<tr><td>N02AG04</td><td>idromorfone e spasmolitici</td></tr>
-<tr><td>N07BC02</td><td>metadone</td></tr>
+<tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
+<tr><th>N01AH06</th><th>remifentanil</th><th></th></tr>
+<tr><td>N02AA01</td><td>morfina</td><td></td></tr>
+<tr><td>N02AA03</td><td>idromorfone</td><td></td></tr>
+<tr><td>N02AA05</td><td>ossicodone</td><td></td></tr>
+<tr><td>N02AA51</td><td>morfina, combinazioni</td><td></td></tr>
+<tr><td>N02AA55</td><td>ossicodone e naloxone</td><td></td></tr>
+<tr><td>N02AB03</td><td>fentanile</td><td></td></tr>
+<tr><td>N02AC52</td><td>metadone, combinazioni</td><td>senza psicofarmaci</td></tr>
+<tr><td>N02AE01</td><td>buprenorfina</td><td></td></tr>
+<tr><td>N02AG01</td><td>morfina e spasmolitici</td><td></td></tr>
+<tr><td>N02AG04</td><td>idromorfone e spasmolitici</td><td></td></tr>
+<tr><td>N02BA01</td><td>acido acetilsalicilico, incl. acetilsalicilato di lisina</td><td>forme parenterali</td></tr>
+<tr><td>N07BC02</td><td>metadone</td><td></td></tr>
+<tr><td>N07BC05</td><td>levometadone</td><td></td></tr>
 </table>
 
 ### 5 Vaccini della medicina umana
@@ -252,65 +249,91 @@ Allegato 1*[^t-1]*
 <tr><td>J07CA</td><td>vaccini virali e batterici combinati</td></tr>
 </table>
 
-### 5*a* Altri medicamenti della medicina umana
+### 5*a* Medicamenti oncologici della medicina umana
 
 <table>
-<tr><td>Codice ATC</td><td>Designazione della merce</td><td>Osservazione</td></tr>
-<tr><td>C01CA24</td><td>adrenalina</td><td>siringhe pronte all’uso</td></tr>
+<tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
+<tr><td>L01AA03</td><td>melfalan</td><td></td></tr>
+<tr><td>L01BA01</td><td>metotrexato</td><td>forme parenterali</td></tr>
+<tr><td>L01BB03</td><td>tioguanina</td><td></td></tr>
+<tr><td>L01BC01</td><td>citarabina</td><td></td></tr>
+<tr><td>L01BC05</td><td>gemcitabina</td><td></td></tr>
+<tr><td>L01CB01</td><td>etoposide</td><td></td></tr>
+<tr><td>L01CE02</td><td>irinotecano</td><td>vecchio codice ATC: L01XX19</td></tr>
+<tr><td>L01DB01</td><td>doxorubicina</td><td>non liposomiale</td></tr>
+<tr><td>L01XA01</td><td>cisplatino</td><td></td></tr>
+<tr><td>L01XA02</td><td>carboplatino</td><td></td></tr>
+<tr><td>L01XA03</td><td>oxaliplatino</td><td></td></tr>
+<tr><td>L02BA01</td><td>tamoxifene</td><td></td></tr>
+<tr><td>L03AX03</td><td>vaccino BCG</td><td></td></tr>
+</table>
+
+### 5*b* Altri medicamenti della medicina umana
+
+<table>
+<tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
+<tr><td>B01AD02</td><td>alteplasi</td><td>dosaggio &gt; 2 mg</td></tr>
+<tr><td>C01CA03</td><td>noradrenalina</td><td></td></tr>
+<tr><td>C01CA07</td><td>dobutamina</td><td></td></tr>
+<tr><td>C01CA24</td><td>adrenalina</td><td>autoiniettori</td></tr>
+<tr><td>C03CA01</td><td>furosemide</td><td>forme parenterali</td></tr>
 <tr><td>H01BB02</td><td>ossitocina</td><td>forme parenterali</td></tr>
-<tr><td>V08BA</td><td>mezzi di contrasto radiologici contenenti [solfato di bario](https://it.wikipedia.org/wiki/Solfato_di_bario)</td><td></td></tr>
+<tr><td>M03AC09</td><td>rocuronio</td><td></td></tr>
+<tr><td>N01AX10</td><td>propofol</td><td></td></tr>
+<tr><td>V08BA</td><td>mezzi di contrasto radiologici contenenti solfato di bario</td><td></td></tr>
 <tr><td>V08DA</td><td>mezzi di contrasto per ultrasonologia</td><td></td></tr>
 </table>
 
-### 6. Antinfettivi della medicina veterinaria
+### 6 Antinfettivi della medicina veterinaria
 
 <table>
-<tr><th>Codice ATCvet[^annex1-lvlu1-lvl6-1]</th><th colspan="2"></th><th colspan="2">Designazione della merce</th></tr>
-<tr><td>QA07A</td><td colspan="2">QA07AA01</td><td colspan="2">neomicina</td></tr>
-<tr><td></td><td colspan="2">QA07AA10</td><td colspan="2">colistina</td></tr>
-<tr><td></td><td colspan="2">QA07AA51</td><td colspan="2">neomicina, comb.</td></tr>
-<tr><td></td><td colspan="2">QA07AB03</td><td colspan="2">sulfaguanidina</td></tr>
-<tr><td></td><td colspan="2">QA07AB20</td><td colspan="2">sulfonamide, comb.</td></tr>
-<tr><td>QG51A</td><td colspan="2">QG51AA01</td><td colspan="2">oxitetraciclina</td></tr>
-<tr><td></td><td colspan="2">QG51AA02</td><td colspan="2">tetraciclina</td></tr>
-<tr><td></td><td colspan="2">QG51AA04</td><td colspan="2">gentamicina</td></tr>
-<tr><td></td><td colspan="2">QG51AA05</td><td colspan="2">cefapirina</td></tr>
-<tr><td>QJ01A</td><td colspan="2"></td><td colspan="2">tetraciclina</td></tr>
-<tr><td>QJ01B</td><td colspan="2"></td><td colspan="2">amfenicoli</td></tr>
-<tr><td>QJ01C</td><td colspan="2"></td><td colspan="2">antibiotici beta-lattamici, penicillina</td></tr>
-<tr><td>QJ01D</td><td colspan="2"></td><td colspan="2">altri antibiotici beta-lattamici</td></tr>
-<tr><td>QJ01E</td><td colspan="2"></td><td colspan="2">sulfonamidi e trimetoprim</td></tr>
-<tr><td>QJ01F</td><td colspan="2"></td><td colspan="2">macrolidi e lincosamidi</td></tr>
-<tr><td>QJ01G</td><td colspan="2"></td><td colspan="2">aminoglicosidi</td></tr>
-<tr><td>QJ01M</td><td colspan="2"></td><td colspan="2">chinoloni</td></tr>
-<tr><td>QJ01R</td><td colspan="2"></td><td colspan="2">combinazioni di antibiotici e/o chemioterapici</td></tr>
-<tr><td>QJ01X</td><td colspan="2">QJ01XQ01</td><td colspan="2">tiamulina</td></tr>
-<tr><td></td><td colspan="2">QJ01XQ02</td><td colspan="2">valnemulina</td></tr>
-<tr><td>QJ51C</td><td colspan="2"></td><td colspan="2">antibiotici beta-lattamici, penicillina per uso intramammario</td></tr>
-<tr><td>QJ51D</td><td colspan="2"></td><td colspan="2">altri antibiotici beta-lattamici per uso intramammario</td></tr>
-<tr><td>QJ51R</td><td colspan="2"></td><td colspan="2">combinazioni di antibiotici per uso intramammario</td></tr>
+<tr><th>Codice ATCve\*t</th><th></th><th>Designazione della merce</th></tr>
+<tr><td>QA07A</td><td>QA07AA01</td><td>neomicina</td></tr>
+<tr><td></td><td>QA07AA10</td><td>colistina</td></tr>
+<tr><td></td><td>QA07AA51</td><td>neomicina, combinazioni</td></tr>
+<tr><td></td><td>QA07AB03</td><td>sulfaguanidina</td></tr>
+<tr><td></td><td>QA07AB20</td><td>sulfonamide, combinazioni</td></tr>
+<tr><td>QG51A</td><td>QG51AA01</td><td>ossitetraciclina</td></tr>
+<tr><td></td><td>QG51AA02</td><td>tetraciclina</td></tr>
+<tr><td></td><td>QG51AA04</td><td>gentamicina</td></tr>
+<tr><td></td><td>QG51AA05</td><td>cefapirina</td></tr>
+<tr><td>QJ01A</td><td></td><td>tetraciclina</td></tr>
+<tr><td>QJ01B</td><td></td><td>amfenicoli</td></tr>
+<tr><td>QJ01C</td><td></td><td>antibiotici beta-lattamici, penicillina</td></tr>
+<tr><td>QJ01D</td><td></td><td>altri antibiotici beta-lattamici</td></tr>
+<tr><td>QJ01E</td><td></td><td>sulfonamidi e trimetoprima</td></tr>
+<tr><td>QJ01F</td><td></td><td>macrolidi e lincosamidi</td></tr>
+<tr><td>QJ01G</td><td></td><td>aminoglicosidi</td></tr>
+<tr><td>QJ01M</td><td></td><td>chinoloni</td></tr>
+<tr><td>QJ01R</td><td></td><td>combinazioni di antibiotici e/o chemioterapici</td></tr>
+<tr><td>QJ01X</td><td>QJ01XQ01</td><td>tiamulina</td></tr>
+<tr><td></td><td>QJ01XQ02</td><td>valnemulina</td></tr>
+<tr><td>QJ51C</td><td></td><td>antibiotici beta-lattamici, penicillina per uso intramammario</td></tr>
+<tr><td>QJ51D</td><td></td><td>altri antibiotici beta-lattamici per uso intramammario</td></tr>
+<tr><td>QJ51R</td><td></td><td>combinazioni di antibiotici per uso intramammario</td></tr>
+<tr><td colspan="3">\* Il codice ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (WHO *Collaborating Centre for Drug Statistics Methodology*) all’indirizzo seguente: [www.whocc.no/ATCvet](https://www.whocc.no/atcvet/atcvet_index/) &gt; ATCvet Index.</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl6-1]: Il codice ATCvet (Anatomical Therapeutic Chemical Classification system for veterinary medicinal products) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (WHO Collaborating Centre for Drug Statistics Methodology) all’indirizzo www.whocc.no/ATCvet &gt; ATCvet Index.
-
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 2)
 
 ## Esonero dall’obbligo di concludere un contratto per la costituzione di scorte obbligatorie
 
+[^t-2]: Aggiornato dal n. II dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+
 ### 1. Medicamenti per la medicina umana pronti all’uso
 
 Può essere esonerato dall’obbligo di concludere un contratto per la costituzione di scorte obbligatorie chi, per anno civile, immette in commercio quantitativi inferiori a 5000 dosi giornaliere[^annex2-lvlu1-lvl1-1] di un prodotto (totale di tutti i dosaggi e di tutte le forme galeniche).
 
-[^annex2-lvlu1-lvl1-1]: La dose definita giornaliera è la *defined daily dose (DDD)* pubblicata dall’OMS. Può essere consultata sul sito dell’OMS (WHO Collaborating Centre for Drug Statistics Methodology) all’indirizzo www.whocc.no &gt; ATC/DDD Index.
+[^annex2-lvlu1-lvl1-1]: La dose definita giornaliera è la *defined daily dose (DDD)* pubblicata dall’OMS. Può essere consultata sul sito dell’OMS (WHO Collaborating Centre for Drug Statistics Methodology) all’indirizzo [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
 
-### 2. Antinfettivi della medicina veterinaria
+### 2 Antinfettivi della medicina veterinaria
 
 Può essere esonerato dall’obbligo di concludere un contratto per la costituzione di scorte obbligatorie chi, per anno civile, immette in commercio quantitativi di principi attivi inferiori ai limiti sotto indicati:
 
 <table>
-<tr><td>Forma Gruppo di principi attivi</td><td>Trattamento di singoli animali chilogrammi</td><td>Trattamento di allevamenti (premiscela di medicamenti) chilogrammi</td></tr>
+<tr><th>Forma Gruppo di principi attivi</th><th>Trattamento di singoli animali chilogrammi</th><th>Trattamento di allevamento (premiscela di medicamenti) chilogrammi</th></tr>
 <tr><td>1000/2000 – beta-lattamici</td><td>50</td><td>200</td></tr>
 <tr><td>3000 – cloramfenicolo</td><td>20</td><td>–</td></tr>
 <tr><td>4000 – tetraciclina</td><td>20</td><td>200</td></tr>
@@ -318,5 +341,5 @@ Può essere esonerato dall’obbligo di concludere un contratto per la costituzi
 <tr><td>9XXX – altri antibiotici</td><td>10</td><td>25</td></tr>
 <tr><td>9500 – aminoglicosidi</td><td>5</td><td>25</td></tr>
 <tr><td>9900 – chinolone</td><td>50</td><td>25</td></tr>
-<tr><td>11000 – sulfonamidi / trimetoprim</td><td>10</td><td>25</td></tr>
+<tr><td>11000 – sulfonamidi / trimetoprima</td><td>10</td><td>25</td></tr>
 </table>
