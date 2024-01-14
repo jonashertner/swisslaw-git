@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sugli impianti di telecomunicazione (OIT)
 short: OIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: it
-version: 2024-01-01
+version: 2024-01-15
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240115-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240101/it"
 
 (OIT)
 
-del 25 novembre 2015 (Stato 1° gennaio 2024)
+del 25 novembre 2015 (Stato 15 gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -108,7 +108,7 @@ Un importatore o un distributore è equiparato a un fabbricante:
 
 <sup>2</sup> Esso stabilisce l’ubicazione delle interfacce tenendo conto della prassi internazionale.
 
-[^3-1]: Queste prescrizioni possono essere consultate o ottenute dietro pagamento presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne o al seguente indirizzo Internet: www.ufcom.ch.
+[^3-1]: Queste prescrizioni possono essere consultate o ottenute dietro pagamento presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne o al seguente indirizzo Internet: www.ufcom.ch
 
 #### Art. 4
 
@@ -128,7 +128,7 @@ Un importatore o un distributore è equiparato a un fabbricante:
 
 <sup>2</sup> Una classe comprende categorie d’impianti di radiocomunicazione considerati simili e le interfacce radio alle quali gli impianti sono adibiti. Un impianto può appartenere a più classi d’impianti.
 
-[^5-1]: Questo elenco può essere consultato o ottenuto dietro pagamento presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne o al seguente indirizzo Internet: www.ufcom.ch.
+[^5-1]: Questo elenco può essere consultato o ottenuto dietro pagamento presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne o al seguente indirizzo Internet: www.ufcom.ch
 
 ## Capitolo 2: Messa a disposizione sul mercato di impianti di radiocomunicazione nuovi
 
@@ -826,10 +826,10 @@ Possono ancora essere immessi in commercio fino al 12 giugno 2017 gli impianti d
 
 Gli impianti di radiocomunicazione che non soddisfano i requisiti di cui agli articoli 7 capoverso 2<sup>bis</sup>, 19 capoverso 2 lettera d e 3 nonché 24*a*, possono essere messi a disposizione sul mercato fino alle seguenti date:
 
-- a. laptop: fino al 26 aprile 2026;
-- b. altri impianti di radiocomunicazione: fino al 28 dicembre 2024
+- a. laptop: fino al 27 aprile 2026;
+- b. altri impianti di radiocomunicazione: fino al 27 dicembre 2024.
 
-[^44a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^44a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)). Correzione del 15 gen. 2024 ([RU 2024 22](https://fedlex.data.admin.ch/eli/oc/2024/22)).
 
 #### Art. 45
 
@@ -849,14 +849,14 @@ Allegato 1
 - 1\.1 Il marchio di conformità svizzero è composto di due lettere latine maiuscole susseguenti, «C» e «H»: «CH». Le lettere devono essere applicate in una forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 In caso di riduzione o di ingrandimento del marchio di conformità, devono essere mantenute le sue proporzioni.
 - **2.** **Marchio di conformità estero**
 - 2\.1 È ammesso il marchio di conformità definito nell’allegato II del regolamento (CE) n. 765/2008[^annex1-lvlu1-1]. L’illustrazione ha carattere informativo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/it/xml/image/image2.png)
 
 - 2\.2 L’apposizione di questo marchio di conformità deve rispettare i principi generali definiti all’articolo 30 del regolamento (CE) n. 765/2008.
 - **3.** Le dimensioni minime del marchio di conformità possono essere ridotte nel caso di impianti di radiocomunicazione di piccole dimensioni, purché il marchio di conformità resti visibile e leggibile.

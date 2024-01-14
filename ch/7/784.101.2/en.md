@@ -4,11 +4,11 @@ title: Ordinance of 25 November 2015 on Telecommunications Installations (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: en
-version: 2024-01-01
+version: 2024-01-15
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240115-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240115/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (TIO)
 
-of 25 November 2015 (Status as of 1 January 2024)
+of 25 November 2015 (Status as of 15 January 2024)
 
 The Swiss Federal Council,
 
@@ -833,10 +833,10 @@ Until 12 June 2017, radio equipment that does not comply with this Ordinance may
 
 Radio equipment that does not meet the requirements of Articles 7 paragraph 2<sup>bis</sup>, 19 paragraphs 2 letter d and 3 and 24*a* may be made available on the market until the following dates:
 
-- a. laptops: until 26 April 2026;
-- b. other radio equipment: until 28 December 2024.
+- a. laptops: until 27 April 2026;
+- b. other radio equipment: until 27 December 2024.
 
-[^44a-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^44a-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)). Correction of 15 Jan. 2024 ([AS 2024 22](https://fedlex.data.admin.ch/eli/oc/2024/22)).
 
 #### Art. 45
 
@@ -858,14 +858,14 @@ Annex 1[^t-1]
 - 1\.1 The Swiss conformity marking comprises the two Latin capital letters «C» and «H» together as «CH». The letters must be appear within an elliptical shape; the main axis of the ellipse is horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
 </table>
 
 - 1\.2 In the case of any reduction in size or enlargement of the conformity marking, these proportions must be retained.
 - **2.** **Foreign conformity marking**
 - 2\.1 The use of the conformity marking set out in Annex II to Regulation (EC) No 765/2008[^annex1-lvlu1-1] is permitted. The illustration below is for information purposes only.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/en/xml/image/image2.png)
 
 - 2\.2 When affixing this conformity marking, the general principles set out in Article 30 of Regulation (EC) No 765/2008 must be respected.
 - **3.** The minimum dimensions of the conformity marking may be reduced because of the small size of the radio equipment provided it remains visible and legible.
