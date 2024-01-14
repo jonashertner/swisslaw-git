@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 26 mai 2016 sur les installations de télécomm
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: fr
-version: 2024-01-01
+version: 2024-01-15
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20240115-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240101/fr"
 
 (OOIT)
 
-du 26 mai 2016 (État le 1<sup>er</sup> janvier 2024)
+du 26 mai 2016 (État le 15 janvier 2024)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -187,9 +187,9 @@ Les installations de radiocommunication soumises aux exigences essentielles addi
 
 **Disposition transitoire relative à la modification du 1<sup>er</sup> janvier 2024**[^10c-1]
 
-Les installations de radiocommunication soumises aux spécifications techniques définies à l’art. 7, al. 2<sup>bis</sup>, en relation avec l’annexe 7, ch. 1.1 à 1.12, mais qui ne les remplissent pas, peuvent être mises à disposition sur le marché jusqu’au 28 décembre 2024, les installations de radiocommunication visées au ch. 1.13 peuvent l’être jusqu’au 28 avril 2026.
+Les installations de radiocommunication soumises aux spécifications techniques définies à l’art. 7, al. 2<sup>bis</sup>, en relation avec l’annexe 7, ch. 1.1 à 1.12, mais qui ne les remplissent pas, peuvent être mises à disposition sur le marché jusqu’au 27 décembre 2024, les installations de radiocommunication visées au ch. 1.13 peuvent l’être jusqu’au 27 avril 2026.
 
-[^10c-1]: Introduit par le ch. I de l’O de l’OFCOM du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
+[^10c-1]: Introduit par le ch. I de l’O de l’OFCOM du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)). Erratum du 15 janv. 2024 ([RO 2024 23](https://fedlex.data.admin.ch/eli/oc/2024/23)).
 
 #### Art. 11
 
@@ -410,7 +410,7 @@ Annexe 6[^t-5]
 
 <sup>2</sup> Il contient le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/fr/xml/image/image1.png)
 
 <sup>3</sup> Pour une installation de radiocommunication portant la marque suisse de con-formité selon l’annexe 1, ch. 1, OIT, il mentionne, en dessous ou à côté du symbole figurant à l’al. 2, l’abréviation de la Suisse (CH).
 
@@ -428,13 +428,13 @@ Annexe 6[^t-5]
 <sup>7</sup> Exemple, à caractère informatif:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/fr/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Règlement d’exécution (UE) 2017/1354 de la Commission du 20 juillet 2017 précisant comment présenter les informations prévues à l’art. 10, par. 10, de la directive 2014/53/UE du Parlement européen et du Conseil, version du JO L 190 du 21.7.2017, p. 7.
@@ -488,11 +488,11 @@ Annexe 7[^t-6]
 
 - a. pour les installations de radiocommunication vendues avec un dispositif de charge:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/fr/xml/image/image2.png)
 
 - b. pour les installations de radiocommunication vendues sans dispositif de charge:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/fr/xml/image/image3.png)
 
 \2. Pour autant que le pictogramme reste visible et lisible, des variations, notamment au regard de sa couleur, de son aspect plein ou creux ou de l’épaisseur du trait, sont autorisées. En cas de réduction ou d’agrandissement, les proportions indiquées dans les graphismes figurant au ch. 1 doivent être maintenues. La dimension «a» doit être supérieure ou égale à 7 mm, quelle que soit la variation.
 
@@ -500,7 +500,7 @@ Annexe 7[^t-6]
 
 \1. L’étiquetage se présente dans le format suivant et avec le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/fr/xml/image/image4.png)
 
 \2. Les lettres XX sont remplacées par le chiffre correspondant à la puissance minimale requise par l’installation de radiocommunication à charger, qui définit la puissance minimale qu’un dispositif de charge doit fournir pour charger l’installation de radiocommunication. Les lettres YY sont remplacées par le chiffre correspondant à la puissance maximale requise par l’installation de radiocommunication pour atteindre la vitesse de charge maximale, qui détermine la puissance qu’un dispositif de charge doit fournir au minimum pour atteindre cette vitesse de chargement maximale. L’abréviation USB PD (USB Power Delivery) est affichée si l’installation est compatible avec ce protocole de communication pour la charge rapide.
 

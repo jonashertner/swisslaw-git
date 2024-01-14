@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 26. Mai 2016 über Fernmeldeanlagen (VFAV)
 short: VFAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: de
-version: 2024-01-01
+version: 2024-01-15
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20240115-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240101/de"
 
 (VFAV)
 
-vom 26. Mai 2016 (Stand am 1. Januar 2024)
+vom 26. Mai 2016 (Stand am 15. Januar 2024)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -177,7 +177,7 @@ Handmobiltelefone mit fortgeschrittenen Rechenfähigkeiten, die der zusätzliche
 
 #### Art. 10b
 
-**[Übergangsbestimmung zur Änderung vom 21. Juli 2022](https://www.fedlex.admin.ch/eli/cc/2016/307/de)**[^10b-1]
+**Übergangsbestimmung zur Änderung vom 21. Juli 2022**[^10b-1]
 
 Funkanlagen, die den zusätzlichen grundlegenden Anforderungen nach Artikel 7 Absatz 3 Buchstaben d–f FAV in Verbindung mit Anhang 1 Ziffern 7–9 unterliegen, diese aber nicht erfüllen, dürfen bis zum 31. Juli 2025 in Verkehr gebracht werden.
 
@@ -187,9 +187,9 @@ Funkanlagen, die den zusätzlichen grundlegenden Anforderungen nach Artikel 7 Ab
 
 **Übergangsbestimmung zur Änderung vom 1. Januar 2024**[^10c-1]
 
-Funkanlagen, die den technischen Spezifikationen nach Artikel 7 Absatz 2<sup>bis</sup> in Verbindung mit Anhang 7 Ziffern 1.1–1.12 unterliegen, diese aber nicht erfüllen, dürfen bis zum 28. Dezember 2024 auf dem Markt bereitgestellt werden, Funkanlagen nach Ziffer 1.13 bis zum 28. April 2026.
+Funkanlagen, die den technischen Spezifikationen nach Artikel 7 Absatz 2<sup>bis</sup> in Verbindung mit Anhang 7 Ziffern 1.1–1.12 unterliegen, diese aber nicht erfüllen, dürfen bis zum 27. Dezember 2024 auf dem Markt bereitgestellt werden, Funkanlagen nach Ziffer 1.13 bis zum 27. April 2026.
 
-[^10c-1]: Eingefügt durch Ziff. I der V des BAKOM vom 23. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
+[^10c-1]: Eingefügt durch Ziff. I der V des BAKOM vom 23. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)). Berichtigung vom 15. Jan. 2024 ([AS 2024 23](https://fedlex.data.admin.ch/eli/oc/2024/23)).
 
 #### Art. 11
 
@@ -407,7 +407,7 @@ Anhang 6[^t-5]
 
 <sup>2</sup> Es enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/de/xml/image/image1.png)
 
 <sup>3</sup> Für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 FAV trägt, enthält es neben oder unter dem Symbol gemäss Absatz 2 die Abkürzung der Schweiz (CH).
 
@@ -425,13 +425,13 @@ Anhang 6[^t-5]
 <sup>7</sup> Beispiel mit informativem Charakter:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/de/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Durchführungsverordnung (EU) 2017/1354 der Kommission vom 20. Juli 2017 zur Festlegung der Aufmachung von Informationen gemäss Artikel 10 Absatz 10 der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 190 vom 21.7.2017, S. 7.
@@ -485,11 +485,11 @@ Anhang 7[^t-6]
 
 - a. für Funkanlagen, die in Kombination mit einem Ladenetzteil angeboten werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/de/xml/image/image2.png)
 
 - b. für Funkanlagen, die ohne Ladenetzteil angeboten werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/de/xml/image/image3.png)
 
 \2. Sofern das Piktogramm erkennbar und verständlich bleibt, sind z. B. in Bezug auf Farbe, ausgefüllte Darstellung, Umriss und Linienstärke Varianten zulässig. Wird das Piktogramm kleiner oder grösser dargestellt, müssen die Grössenverhältnisse der Darstellung unter Ziffer 1 gewahrt werden. Die Abmessung «a» muss auch bei Varianten mindestens 7 mm betragen.
 
@@ -497,7 +497,7 @@ Anhang 7[^t-6]
 
 \1. Das Etikett hat folgendes Format und enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/de/xml/image/image4.png)
 
 \2. Anstelle der Buchstaben XX ist der Zahlenwert der zum Aufladen der Funkanlage benötigten Mindestleistung anzugeben, die ein Ladenetzteil zum Laden der Funkanlage liefern muss. Anstelle der Buchstaben YY ist der Zahlenwert der von der Funkanlage zum Erreichen der maximalen Ladegeschwindigkeit benötigten Höchstleistung anzugeben, die ein Ladenetzeil mindestens liefern muss, damit diese maximale Ladegeschwindigkeit erreicht wird. Die Abkürzung USB PD (USB Power Delivery) ist anzugeben, wenn die Funkanlage dieses Schnellladeprotokoll unterstützt.
 
