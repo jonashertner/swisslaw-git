@@ -4,24 +4,24 @@ number: "410.700"
 title: Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 short: "Schullaufbahnverordnung, SLV"
 language: de
-version: 2023-08-14
-valid_until: 2024-01-17
-version_adopted: 2023-06-06
+version: 2024-01-18
+valid_until: 2024-06-28
+version_adopted: 2024-01-09
 adopted: 2012-09-11
 in_force: 2013-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5939/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6161/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 
-Schullaufbahnverordnung | Schulen
+Schulen
 
 (Schullaufbahnverordnung, SLV)
 
-Vom 11. September 2012 (Stand 14. August 2023)
+Vom 11. September 2012 (Stand 18. Januar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -83,7 +83,7 @@ beschliesst:
 
 **Aufnahme in eine Schule der Volksschule**
 
-<sup>1</sup> Für die Aufnahme nach den §§ 58 und 62 des Schulgesetzes sind die Leistungen der Schülerinnen und Schüler durch Zeugnisse und/oder, falls notwendig, andere Dokumente nachzuweisen. Für die Berechtigung für die Aufnahme in einen Leistungszug der Sekundarschule gelten die §§ 56–58.
+<sup>1</sup> Für die Aufnahme nach den §§ 58 und 62 des Schulgesetzes sind die Leistungen der Schülerinnen und Schüler durch Zeugnisse und/oder, falls notwendig, andere Dokumente nachzuweisen. Für die Berechtigung für die Aufnahme in einen Leistungszug der Sekundarschule gelten die §§ 56 – 58.
 
 <sup>2</sup> Die vorzeitige Aufnahme in den Kindergarten und das Hinausschieben der Aufnahme in den Kindergarten richten sich nach § 56 des Schulgesetzes.
 
@@ -200,7 +200,7 @@ beschliesst:
 
 <sup>2</sup> In eine 1. Klasse der Ausbildung nach der beruflichen Grundbildung (BM 2) werden Schülerinnen und Schüler aufgenommen, die über ein eidgenössisches Fähigkeitszeugnis EFZ verfügen und eine der folgenden Zusatzqualifikationen erfüllen:
 
-- a) der Notenausweis belegt eine Gesamtnote von mindestens 5,3, für Absolventinnen und Absolventen des EFZ Kauffrau/Kaufmann E-Profil von mindestens 5,0;
+- a) der Notenausweis belegt eine Gesamtnote von mindestens 5,0, für Absolventinnen und Absolventen des EFZ Kauffrau/Kaufmann E-Profil von mindestens 4,7;
 - b) es liegt eine Berechtigung nach den §§ 69 und 70 vor;
 - c) …
 - d) die Schülerinnen und Schüler haben die freiwillige Aufnahmeprüfung bestanden.
@@ -327,7 +327,7 @@ beschliesst:
 
 <sup>1</sup> Ab dem 2. Schuljahr erhalten die Schülerinnen und Schüler am Ende jedes Schuljahres ein Zeugnis.
 
-<sup>2</sup> Zusätzlich zum Zeugnis am Schuljahresende erhalten die Schülerinnen und Schüler am Ende des ersten Semesters des 8. bis 11. Schuljahres sowie in der FMS, WMS, IMS und BM ein Zeugnis.
+<sup>2</sup> Zusätzlich zum Zeugnis am Schuljahresende erhalten die Schülerinnen und Schüler am Ende des ersten Semesters des 8. – 11. Schuljahres sowie in der FMS, WMS, IMS und BM ein Zeugnis.
 
 - a) …
 - b) …
@@ -352,11 +352,11 @@ beschliesst:
 
 <sup>2</sup> In der BM wird die Sachkompetenz für alle unterrichteten Fächer im Zeugnis beurteilt.
 
-<sup>3</sup> Im 3.–6. Schuljahr werden die Leistungen in den Fachbereichen oder Fächern mit einem Prädikat beurteilt.
+<sup>3</sup> Im 3. – 6. Schuljahr werden die Leistungen in den Fachbereichen oder Fächern mit einem Prädikat beurteilt.
 
-<sup>4</sup> Im 7.–11. Schuljahr werden die Leistungen in den Fachbereichen oder Fächern mit Noten beurteilt.
+<sup>4</sup> Im 7. – 11. Schuljahr werden die Leistungen in den Fachbereichen oder Fächern mit Noten beurteilt.
 
-<sup>5</sup> Im 12.–15. Schuljahr werden die Leistungen in den Fächern mit Noten beurteilt.
+<sup>5</sup> Im 12. – 15. Schuljahr werden die Leistungen in den Fächern mit Noten beurteilt.
 
 <sup>6</sup> In den Brückenangeboten werden die Leistungen in den Schwerpunktfächern Bildung und Praxis sowie den Wahlpflichtfächern mit Noten beurteilt oder es wird eine Teilnahmebestätigung ausgestellt.
 
@@ -386,7 +386,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Lehrperson beurteilt die Sachkompetenz in den Fachbereichen oder Fächern auf der Grundlage der während der massgeblichen Beurteilungsperiode erstellten Beurteilungsbelege (§ 21).
 
-<sup>2</sup> Das Gewicht eines einzelnen Beurteilungsbelegs muss kleiner sein als 50%.
+<sup>2</sup> Das Gewicht eines einzelnen Beurteilungsbelegs muss kleiner sein als 50 %.
 
 <sup>3</sup> Erfolgt die Beurteilung der Sachkompetenz durch eine Kombination von verschiedenen Beurteilungsformen, hat die zuständige Lehrperson eine Gesamtbeurteilung vorzunehmen.
 
@@ -420,9 +420,9 @@ beschliesst:
 
 **Lernbericht**
 
-<sup>1</sup> Vom 1.–14. Schuljahr erhalten die Schülerinnen und Schüler in den Volksschulen, den Gymnasien und den Brückenangeboten einen Lernbericht.
+<sup>1</sup> Vom 1. – 14. Schuljahr erhalten die Schülerinnen und Schüler in den Volksschulen, den Gymnasien und den Brückenangeboten einen Lernbericht.
 
-<sup>2</sup> Im 1. Schuljahr wird der Lernbericht am Ende des Schuljahres, vom 2.–14. Schuljahr am Ende des ersten Semesters ausgestellt.
+<sup>2</sup> Im 1. Schuljahr wird der Lernbericht am Ende des Schuljahres, vom 2. – 14. Schuljahr am Ende des ersten Semesters ausgestellt.
 
 <sup>3</sup> Der Lernbericht dient der Förderung des eigenverantwortlichen Lernverhaltens sowie der Orientierung der Schülerinnen und Schüler und deren Erziehungsberechtigten.
 
@@ -430,19 +430,19 @@ beschliesst:
 
 **Inhalt des Lernberichts**
 
-<sup>1</sup> Vom 1.–7. Schuljahr enthält der Lernbericht:
+<sup>1</sup> Vom 1. – 7. Schuljahr enthält der Lernbericht:
 
 - a) den Zwischenstand zur Sachkompetenz in den Fachbereichen oder Fächern und die Einschätzung der Leistungen in den Kompetenzbereichen und Handlungsaspekten der Fächer Deutsch und Mathematik;
 - b) die Einschätzung der Selbst- und Sozialkompetenz;
 - c) die Festlegung von einem oder zwei Förderzielen.
 
-<sup>2</sup> Vom 8.–11. Schuljahr enthält der Lernbericht:
+<sup>2</sup> Vom 8. – 11. Schuljahr enthält der Lernbericht:
 
 - a) die Einschätzung der Leistungen in den Kompetenzbereichen und Handlungsaspekten der Fächer Deutsch und Mathematik;
 - b) die Einschätzung der Selbst- und Sozialkompetenz;
 - c) die Festlegung von einem oder zwei Förderzielen.
 
-<sup>3</sup> Vom 12.–14. Schuljahr enthält der Lernbericht mindestens:
+<sup>3</sup> Vom 12. – 14. Schuljahr enthält der Lernbericht mindestens:
 
 - a) die Rückmeldung der Schülerinnen und Schüler zu Lernen und Unterricht;
 - b) den Zwischenstand zur Sachkompetenz in den Fachbereichen oder Fächern.
@@ -459,9 +459,9 @@ beschliesst:
 
 **Standortgespräch**
 
-<sup>1</sup> Vom 1.–14. Schuljahr findet ein Standortgespräch statt zum Leistungs- und Entwicklungsstand der Schülerinnen und Schüler sowie über die Stärken und Schwächen in der Sach-, Selbst- und Sozialkompetenz. In der BM legt die Zeugnisklassenkonferenz fest, mit welchen Schülerinnen und Schülern ein Standortgespräch stattfindet.
+<sup>1</sup> Vom 1. – 14. Schuljahr findet ein Standortgespräch statt zum Leistungs- und Entwicklungsstand der Schülerinnen und Schüler sowie über die Stärken und Schwächen in der Sach-, Selbst- und Sozialkompetenz. In der BM legt die Zeugnisklassenkonferenz fest, mit welchen Schülerinnen und Schülern ein Standortgespräch stattfindet.
 
-<sup>2</sup> Im 1. Schuljahr findet das Standortgespräch am Ende des Schuljahres, vom 2.– 14. Schuljahr nach dem ersten Semester statt.
+<sup>2</sup> Im 1. Schuljahr findet das Standortgespräch am Ende des Schuljahres, vom 2. – 14. Schuljahr nach dem ersten Semester statt.
 
 <sup>3</sup> Grundlagen für das Standortgespräch sind:
 
@@ -472,7 +472,7 @@ beschliesst:
 <sup>4</sup> Am Standortgespräch nehmen teil:
 
 - a) die zuständige Lehrperson;
-- b) die Schülerinnen und Schüler: vom 1. bis 4. Schuljahr auf Wunsch, ab dem 5. Schuljahr obligatorisch;
+- b) die Schülerinnen und Schüler: vom 1. – 4. Schuljahr auf Wunsch, ab dem 5. Schuljahr obligatorisch;
 - c) die Erziehungsberechtigten: bis zum 12. Schuljahr immer, ab dem 13. Schuljahr auf Wunsch der Schülerinnen und Schüler oder des Lehrpersonenteams;
 - d) in der BM für die lehrbegleitende Ausbildung (BM 1) die Berufsbildnerinnen und -bildner.
 
@@ -607,11 +607,11 @@ beschliesst:
   - ac) es sind nicht mehr als drei Noten unter 4,0, davon nicht mehr als zwei Noten in den unterrichteten Berufsmaturitätsfächern.
 - b) …
 
-<sup>1<sup>ter</sup></sup> Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung absolvieren (BM 2), müssen zusätzlich bis zu dem von der Schulleitung festgelegten Stichtag pro Unterrichtsfach mindestens 80% der Unterrichtslektionen des Semesters besucht haben.
+<sup>1<sup>ter</sup></sup> Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung absolvieren (BM 2), müssen zusätzlich bis zu dem von der Schulleitung festgelegten Stichtag pro Unterrichtsfach mindestens 80 % der Unterrichtslektionen des Semesters besucht haben.
 
 <sup>1<sup>quater</sup></sup> Schülerinnen und Schüler der FMS werden in das 14. Schuljahr befördert, wenn sie das berufsfeldbezogene Praktikum des 13. Schuljahres erfolgreich absolviert haben.
 
-<sup>2</sup> Schülerinnen und Schüler, welche die Voraussetzungen nach den Abs. 1-1<sup>bis</sup> nicht erfüllen, werden provisorisch in das nächste Semester befördert. Davon ausgenommen sind Schülerinnen und Schüler, die provisorisch in die FMS übergetreten sind (§ 48) und Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung in einem Jahr absolvieren (BM 2 Vollzeit) (§ 50).
+<sup>2</sup> Schülerinnen und Schüler, welche die Voraussetzungen nach den Abs. 1 – 1<sup>bis</sup> nicht erfüllen, werden provisorisch in das nächste Semester befördert. Davon ausgenommen sind Schülerinnen und Schüler, die provisorisch in die FMS übergetreten sind (§ 48) und Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung in einem Jahr absolvieren (BM 2 Vollzeit) (§ 50).
 
 <sup>3</sup> Im Zeugnis wird «befördert» oder «provisorisch befördert» eingetragen.
 
@@ -702,7 +702,7 @@ beschliesst:
 
 **Verfahren für den Übertritt in einen der drei Leistungszüge**
 
-<sup>1</sup> Schülerinnen und Schüler können in denjenigen Leistungszug übertreten, für den sie in den beiden Zeugnissen des 8. Schuljahres die Berechtigung nach den §§ 56–58 erreicht haben.
+<sup>1</sup> Schülerinnen und Schüler können in denjenigen Leistungszug übertreten, für den sie in den beiden Zeugnissen des 8. Schuljahres die Berechtigung nach den §§ 56 – 58 erreicht haben.
 
 <sup>2</sup> Weicht die mit dem zweiten Zeugnis des 8. Schuljahres erreichte Berechtigung von derjenigen des ersten Zeugnisses ab, ist für den Übertritt die Berechtigung für den Leistungszug mit den tieferen Anforderungen massgebend.
 
@@ -724,7 +724,7 @@ beschliesst:
 
 Die Summe der dreifach gezählten Zeugnisnoten in den Fächern Deutsch, Mathematik und Natur/Mensch/Gesellschaft und der eineinhalbfach gezählten Zeugnisnoten in den Fächern Französisch und Englisch und der einfach gezählten Zeugnisnoten in den Fächern Gestalten, Musik und Bewegung/Sport ergibt mindestens den Wert 67,5
 
-(3\*D+3\*M+3\*NMG+1,5\*F+1,5\*E+G+Mu+B/Sp≥67,5).
+(3 · D + 3 · M + 3 · NMG + 1,5 · F + 1,5 · E + G + Mu + B / Sp ≥ 67,5).
 
 <sup>2</sup> In das Zeugnis wird «Berechtigung für den Übertritt in den E-Zug und den A-Zug» eingetragen.
 
@@ -736,7 +736,7 @@ Die Summe der dreifach gezählten Zeugnisnoten in den Fächern Deutsch, Mathemat
 
 Die Summe der dreifach gezählten Zeugnisnoten in den Fächern Deutsch, Mathematik und Natur/Mensch/Gesellschaft und der eineinhalbfach gezählten Zeugnisnoten in den Fächern Französisch und Englisch und der einfach gezählten Zeugnisnoten in den Fächern Gestalten, Musik und Bewegung/Sport ergibt mindestens den Wert 78,75
 
-(3\*D+3\*M+3\*NMG+1,5\*F+1,5\*E+G+Mu+B/Sp≥78,75).
+(3 · D + 3 · M + 3 · NMG + 1,5 · F + 1,5 · E + G + Mu + B/Sp ≥ 78,75).
 
 <sup>2</sup> In das Zeugnis wird «Berechtigung für den Übertritt in den P-, den E- und den A-Zug» eingetragen.
 
@@ -835,8 +835,8 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
   - aa) für Schülerinnen und Schüler des P-Zugs mindestens 4,0;
   - ab) für Schülerinnen und Schüler des E-Zugs mindestens 5,0; und
 - b) die Summe der doppelt gezählten Zeugnisnoten in den Fächern Deutsch und Mathematik und der einfach gezählten Zeugnisnoten in den Fächern Natur/Technik, Räume/Zeiten/Gesellschaften, Französisch und Englisch ergibt:
-  - ba) für Schülerinnen und Schüler des P-Zugs mindestens den Wert 34 (2\*D+2\*M+NT+RZG+F+E≥34);
-  - bb) für Schülerinnen und Schüler des E-Zugs mindestens den Wert 40 (2\*D+2\*M+NT+RZG+F+E≥40).
+  - ba) für Schülerinnen und Schüler des P-Zugs mindestens den Wert 34 (2 · D + 2 · M + NT + RZG + F + E ≥ 34);
+  - bb) für Schülerinnen und Schüler des E-Zugs mindestens den Wert 40 (2 · D + 2 · M + NT + RZG + F + E ≥ 40).
 
 <sup>2</sup> In das Zeugnis wird «Berechtigung für den Übertritt in das Gymnasium, die FMS, IMS, WMS und BM» eingetragen.
 
@@ -851,9 +851,9 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
   - ab) für Schülerinnen und Schüler des E-Zugs mindestens 4,5;
   - ac) für Schülerinnen und Schüler des A-Zugs mindestens 5,5; und
 - b) die Summe der doppelt gezählten Zeugnisnoten in den Fächern Deutsch und Mathematik und der einfach gezählten Zeugnisnoten in den Fächern Natur/Technik, Räume/Zeiten/Gesellschaften, Französisch und Englisch ergibt:
-  - ba) für Schülerinnen und Schüler des P-Zugs mindestens den Wert 32 (2\*D+2\*M+NT+RZG+F+E≥32);
-  - bb) für Schülerinnen und Schüler des E-Zugs mindestens den Wert 36 (2\*D+2\*M+NT+RZG+F+E≥36);
-  - bc) für Schülerinnen und Schüler des A-Zugs mindestens den Wert 42 (2\*D+2\*M+NT+RZG+F+E≥42).
+  - ba) für Schülerinnen und Schüler des P-Zugs mindestens den Wert 32 (2 · D + 2 · M + NT + RZG + F + E ≥ 32)
+  - bb) für Schülerinnen und Schüler des E-Zugs mindestens den Wert 36 (2 · D + 2 · M + NT + RZG + F + E ≥ 36);
+  - bc) für Schülerinnen und Schüler des A-Zugs mindestens den Wert 42 (2 · D + 2 · M + NT + RZG + F + E ≥ 42).
 
 <sup>2</sup> In das Zeugnis wird «Berechtigung für den Übertritt in die FMS, IMS, WMS und BM» eingetragen.
 
@@ -909,7 +909,7 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 
 <sup>1</sup> Die Zeugnismappe Sekundarschule enthält:
 
-- a) die Zeugnisse des 9.–11. Schuljahres;
+- a) die Zeugnisse des 9. – 11. Schuljahres;
 - b) die Berechtigung für den Übertritt an die weiterführenden Schulen, enthalten im Zeugnis am Ende des 11. Schuljahres;
 - c) das Abschlusszertifikat.
 
@@ -984,7 +984,7 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 
 #### § 83
 
-**Beschlussfassung für das 3.–6. Schuljahr**
+**Beschlussfassung für das 3. – 6. Schuljahr**
 
 <sup>1</sup> Die Lehrpersonen tragen bis zu dem von der Schulleitung festgesetzten Datum die Prädikate in die Zeugnistabellen ein.
 
@@ -1010,7 +1010,7 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 <sup>3</sup> Anschliessend an die Besprechungen der Zeugnisklassenkonferenz:
 
 - a) setzen die Fachlehrpersonen die Zeugnisfachnoten für die Beurteilung nach § 30 und bei einer Einschätzung die Zeugnisprädikate nach § 31 fest;
-- b) beschliesst die Zeugnisklassenkonferenz über die Beförderung nach den §§ 40, 43 und 46, die Nichtbeförderungen nach den §§ 44–45 und 48–50, die Berechtigungen für den Übertritt in einen Leistungszug der Sekundarschule nach den §§ 56–58, den Wechsel eines Leistungszugs nach den § 60 und § 63 oder die Berechtigung für den Übertritt in eine weiterführende Schule nach den §§ 69–70 sowie die Empfehlungen für eine ausserordentliche Wiederholung eines Schuljahres nach § 41, einen ausserordentlichen Übertritt in die Sekundarschule, einen ausserordentlichen Wechsel oder Verbleib in der Sekundarschule nach § 41a, eine ausserordentliche Wiederholung eines Unterrichtsjahres oder eine ausserordentliche Beförderung nach § 52, für das Überspringen eines Schuljahres nach § 53, im Gymnasium für den Übertritt in die FMS, IMS und WMS nach § 44 oder in der FMS oder WMS für den Übertritt in das Gymnasium nach § 11.
+- b) beschliesst die Zeugnisklassenkonferenz über die Beförderung nach den §§ 40, 43 und 46, die Nichtbeförderungen nach den §§ 44 – 45 und 48 – 50, die Berechtigungen für den Übertritt in einen Leistungszug der Sekundarschule nach den §§ 56 – 58, den Wechsel eines Leistungszugs nach den § 60 und § 63 oder die Berechtigung für den Übertritt in eine weiterführende Schule nach den §§ 69 – 70 sowie die Empfehlungen für eine ausserordentliche Wiederholung eines Schuljahres nach § 41, einen ausserordentlichen Übertritt in die Sekundarschule, einen ausserordentlichen Wechsel oder Verbleib in der Sekundarschule nach § 41a, eine ausserordentliche Wiederholung eines Unterrichtsjahres oder eine ausserordentliche Beförderung nach § 52, für das Überspringen eines Schuljahres nach § 53, im Gymnasium für den Übertritt in die FMS, IMS und WMS nach § 44 oder in der FMS oder WMS für den Übertritt in das Gymnasium nach § 11.
 
 <sup>4</sup> Die Zeugnisklassenkonferenz beschliesst mit Mehrheitsbeschluss. Jede an der Zeugnisklassenkonferenz anwesende Lehrperson hat eine Stimme. Bei Stimmengleichheit hat die Schulleitung den Stichentscheid.
 
@@ -1024,7 +1024,7 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 
 <sup>1</sup> Die Zeugnisse und Zwischenzeugnisse werden aufgrund der Angaben der zuständigen Lehrperson ausgefertigt und von der Klassenlehrperson unterzeichnet.
 
-<sup>2</sup> Die Zeugnisse und Zwischenzeugnisse werden an dem von der Schulleitung festgesetzten Datum den Schülerinnen und Schülern persönlich übergeben. Zeugnisse und Zwischenzeugnisse, die nicht übergeben werden können oder Zeugnisse, die eine Nichtbeförderung nach den §§ 44–45 oder 48–50, einen Wechsel in einen Leistungszug mit tieferen Anforderungen nach § 63 oder eine provisorische Berechtigung für den Übertritt nach § 67 beinhalten, werden den Erziehungsberechtigten zugestellt.
+<sup>2</sup> Die Zeugnisse und Zwischenzeugnisse werden an dem von der Schulleitung festgesetzten Datum den Schülerinnen und Schülern persönlich übergeben. Zeugnisse und Zwischenzeugnisse, die nicht übergeben werden können oder Zeugnisse, die eine Nichtbeförderung nach den §§ 44 – 45 oder 48 – 50, einen Wechsel in einen Leistungszug mit tieferen Anforderungen nach § 63 oder eine provisorische Berechtigung für den Übertritt nach § 67 beinhalten, werden den Erziehungsberechtigten zugestellt.
 
 <sup>3</sup> Die Zeugnisse der BM für die lehrbegleitende Ausbildung (BM 1) werden zusätzlich den Lehrbetrieben zugestellt.
 
@@ -1062,8 +1062,8 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 
 - a) die zu verwendenden Formulare für die Zeugnisse und Zwischenzeugnisse;
 - b) die zu verwendenden Formulare für die Zeugnismappe Volksschule;
-- c) die vom 1.–11. Schuljahr zu verwendenden Formulare für die Lernberichte;
-- d) für das 12.–14. Schuljahr: die Mindestvorgaben für die Gestaltung der Lernberichte.
+- c) die vom 1. – 11. Schuljahr zu verwendenden Formulare für die Lernberichte;
+- d) für das 12. – 14. Schuljahr: die Mindestvorgaben für die Gestaltung der Lernberichte.
 
 ### 19. Aufnahmeprüfungen und Leistungstests
 
