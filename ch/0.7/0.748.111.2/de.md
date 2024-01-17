@@ -3,11 +3,11 @@ sr: "0.748.111.2"
 title: Vereinbarung vom 7. Dezember 1944 über den Transit internationaler Luftverkehrslinien
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1408_1408_1412"
 language: de
-version: 2019-11-14
+version: 2024-01-18
 adopted: 1944-12-07
 in_force: 1945-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1408_1408_1412/20191114/de/xml/fedlex-data-admin-ch-eli-cc-63-1408_1408_1412-20191114-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1408_1408_1412/20191114/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1408_1408_1412/20240118/de/xml/fedlex-data-admin-ch-eli-cc-63-1408_1408_1412-20240118-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1408_1408_1412/20240118/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ BS **13** 649
 
 Abgeschlossen in Chicago am 7. Dezember 1944 Unterzeichnet und angenommen von der Schweiz am 6. Juli 1945 In Kraft getreten für die Schweiz am 6. Juli 1945
 
-(Stand am 14. November 2019)
+(Stand am 18. Januar 2024)
 
 Die Staaten, welche als Mitglieder der Internationalen Zivilluftfahrtsorganisation diese Vereinbarung über den Transit internationaler Luftverkehrslinien unterzeichnen und annehmen, erklären:
 
@@ -94,7 +94,7 @@ Diese Vereinbarung soll zwischen den Vertragsstaaten mit ihrer Annahme durch jed
 
 [^t-1]: Solche in gleicher Weise gültige Übersetzungen wurden nie aufgelegt.
 
-Geltungsbereich am 14. November 2019**[^t-2]**
+Geltungsbereich am 18. Januar 2024[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th colspan="2">Inkrafttreten</th><th colspan="3"></th></tr>
@@ -116,6 +116,7 @@ Geltungsbereich am 14. November 2019**[^t-2]**
 <tr><td colspan="2">Benin</td><td colspan="2">23. April</td><td colspan="2">1963</td><td colspan="2">23. April</td><td colspan="3">1963</td></tr>
 <tr><td colspan="2">Bolivien</td><td colspan="2">4. April</td><td colspan="2">1947</td><td colspan="2">4. April</td><td colspan="3">1947</td></tr>
 <tr><td colspan="2">Bosnien und Herzegowina</td><td colspan="2">3. März</td><td colspan="2">1995 N</td><td colspan="2">6. März</td><td colspan="3">1992</td></tr>
+<tr><td colspan="2">Brasilien</td><td colspan="2">20. Juli</td><td colspan="2">2022</td><td colspan="2">20. Juli</td><td colspan="3">2022</td></tr>
 <tr><td colspan="2">Brunei</td><td colspan="2">4. Dezember</td><td colspan="2">1984 N</td><td colspan="2">1. Januar</td><td colspan="3">1984</td></tr>
 <tr><td colspan="2">Bulgarien</td><td colspan="2">21. September</td><td colspan="2">1970</td><td colspan="2">21. September</td><td colspan="3">1970</td></tr>
 <tr><td colspan="2">Burkina Faso</td><td colspan="2">25. September</td><td colspan="2">1992 B</td><td colspan="2">25. September</td><td colspan="3">1992</td></tr>
@@ -124,7 +125,6 @@ Geltungsbereich am 14. November 2019**[^t-2]**
 <tr><td colspan="2">China\*</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td colspan="2">Hongkong <sup>a</sup></td><td colspan="2">3. Juni</td><td colspan="2">1997</td><td colspan="2">1. Juli</td><td colspan="3">1997</td></tr>
 <tr><td colspan="2">Macau <sup>b</sup></td><td colspan="2">6. Oktober</td><td colspan="2">1999</td><td colspan="2">20. Dezember</td><td colspan="3">1999</td></tr>
-<tr><td colspan="2">Cook-Inseln</td><td colspan="2">18. April</td><td colspan="2">2005 B</td><td colspan="2">18. April</td><td colspan="3">2005</td></tr>
 <tr><td colspan="2">Costa Rica</td><td colspan="2">1. Mai</td><td colspan="2">1958</td><td colspan="2">1. Mai</td><td colspan="3">1958</td></tr>
 <tr><td colspan="2">Côte d’Ivoire</td><td colspan="2">20. März</td><td colspan="2">1961</td><td colspan="2">20. März</td><td colspan="3">1961</td></tr>
 <tr><td colspan="2">Dänemark</td><td colspan="2">1. Dezember</td><td colspan="2">1948</td><td colspan="2">1. Dezember</td><td colspan="3">1948</td></tr>
@@ -184,6 +184,7 @@ Geltungsbereich am 14. November 2019**[^t-2]**
 <tr><td colspan="2">Nauru</td><td colspan="2">25. August</td><td colspan="2">1975 B</td><td colspan="2">24. September</td><td colspan="3">1975</td></tr>
 <tr><td colspan="2">Nepal</td><td colspan="2">23. November</td><td colspan="2">1965</td><td colspan="2">23. November</td><td colspan="3">1965</td></tr>
 <tr><td colspan="2">Neuseeland</td><td colspan="2">19. April</td><td colspan="2">1945</td><td colspan="2">19. April</td><td colspan="3">1945</td></tr>
+<tr><td colspan="2">Cook-Inseln</td><td colspan="2">18. April</td><td colspan="2">2005 B</td><td colspan="2">18. April</td><td colspan="3">2005</td></tr>
 <tr><td colspan="2">Nicaragua</td><td colspan="2">28. Dezember</td><td colspan="2">1945</td><td colspan="2">28. Dezember</td><td colspan="3">1945</td></tr>
 <tr><td colspan="2">Niederlande</td><td colspan="2">12. Januar</td><td colspan="2">1945</td><td colspan="2">12. Januar</td><td colspan="3">1945</td></tr>
 <tr><td colspan="2">Aruba</td><td colspan="2">9. Juni</td><td colspan="2">1996</td><td colspan="2">1. Januar</td><td colspan="3">1986</td></tr>
@@ -202,6 +203,7 @@ Geltungsbereich am 14. November 2019**[^t-2]**
 <tr><td colspan="2">Polen</td><td colspan="2">6. April</td><td colspan="2">1945</td><td colspan="2">6. April</td><td colspan="3">1945</td></tr>
 <tr><td colspan="2">Portugal</td><td colspan="2">1. September</td><td colspan="2">1959</td><td colspan="2">1. September</td><td colspan="3">1959</td></tr>
 <tr><td colspan="2">Ruanda</td><td colspan="2">6. Juli</td><td colspan="2">1964</td><td colspan="2">6. Juli</td><td colspan="3">1964</td></tr>
+<tr><td colspan="2">Rumänien</td><td colspan="2">14. Juli</td><td colspan="2">2021</td><td colspan="2">14. Juli</td><td colspan="3">2021</td></tr>
 <tr><td colspan="2">Sambia</td><td colspan="2">13. Oktober</td><td colspan="2">1965</td><td colspan="2">13. Oktober</td><td colspan="3">1965</td></tr>
 <tr><td colspan="2">San Marino</td><td colspan="2">29. Juni</td><td colspan="2">2007</td><td colspan="2">29. Juni</td><td colspan="2">2007</td></tr>
 <tr><td colspan="2">Schweden</td><td colspan="2">19. November</td><td colspan="2">1945</td><td colspan="2">19. November</td><td colspan="3">1945</td></tr>
@@ -234,7 +236,7 @@ Geltungsbereich am 14. November 2019**[^t-2]**
 <tr><td colspan="2">Vereinigte Staaten\*</td><td colspan="2">8. Februar</td><td colspan="2">1945</td><td colspan="2">8. Februar</td><td colspan="3">1945</td></tr>
 <tr><td colspan="2">Vereinigtes Königreich\*</td><td colspan="2">31. März</td><td colspan="2">1945</td><td colspan="2">31. März</td><td colspan="3">1945</td></tr>
 <tr><td colspan="2">Zypern</td><td colspan="2">12. Oktober</td><td colspan="2">1961</td><td colspan="2">12. Oktober</td><td colspan="3">1961</td></tr>
-<tr><td colspan="10">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Vereinigten Staaten von Amerika, Depositar für dieses Übereink.: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 31. Mai 1945 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 1. Sept. 1959 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Okt. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
+<tr><td colspan="10">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: [www.state.gov](https://www.state.gov) &gt; Policy Issues &gt; Treaties and International Agreements &gt; Office of Treaty Affairs &gt; Depositary Information eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Vom 31. Mai 1945 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 1. Sept. 1959 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Okt. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1972 862](https://fedlex.data.admin.ch/eli/oc/1972/862_874_793), [1976 660](https://fedlex.data.admin.ch/eli/oc/1976/660_660_660), [1981 1576](https://fedlex.data.admin.ch/eli/oc/1981/1576_1576_1576), [1985 695](https://fedlex.data.admin.ch/eli/oc/1985/695_695_695), [1988 124](https://fedlex.data.admin.ch/eli/oc/1988/124_124_124)[783](https://fedlex.data.admin.ch/eli/oc/1988/783_783_783), [1990 1568](https://fedlex.data.admin.ch/eli/oc/1990/1568_1568_1568), [2005 1319](https://fedlex.data.admin.ch/eli/oc/2005/202), [2008 103](https://fedlex.data.admin.ch/eli/oc/2008/40), [2013 2719](https://fedlex.data.admin.ch/eli/oc/2013/558), [2016 737](https://fedlex.data.admin.ch/eli/oc/2016/141)und [2019 3787](https://fedlex.data.admin.ch/eli/oc/2019/687). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege
+[^t-2]: [AS 1972 862](https://fedlex.data.admin.ch/eli/oc/1972/862_874_793), [1976 660](https://fedlex.data.admin.ch/eli/oc/1976/660_660_660), [1981 1576](https://fedlex.data.admin.ch/eli/oc/1981/1576_1576_1576), [1985 695](https://fedlex.data.admin.ch/eli/oc/1985/695_695_695), [1988 124](https://fedlex.data.admin.ch/eli/oc/1988/124_124_124)[783](https://fedlex.data.admin.ch/eli/oc/1988/783_783_783), [1990 1568](https://fedlex.data.admin.ch/eli/oc/1990/1568_1568_1568), [2005 1319](https://fedlex.data.admin.ch/eli/oc/2005/202), [2008 103](https://fedlex.data.admin.ch/eli/oc/2008/40), [2013 2719](https://fedlex.data.admin.ch/eli/oc/2013/558), [2016 737](https://fedlex.data.admin.ch/eli/oc/2016/141), [2019 3787](https://fedlex.data.admin.ch/eli/oc/2019/687), [2024 34](https://fedlex.data.admin.ch/eli/oc/2024/34). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

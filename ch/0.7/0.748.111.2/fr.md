@@ -3,11 +3,11 @@ sr: "0.748.111.2"
 title: Accord du 7 décembre 1944 relatif au transit des services aériens internationaux
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1408_1408_1412"
 language: fr
-version: 2019-11-14
+version: 2024-01-18
 adopted: 1944-12-07
 in_force: 1945-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1408_1408_1412/20191114/fr/xml/fedlex-data-admin-ch-eli-cc-63-1408_1408_1412-20191114-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1408_1408_1412/20191114/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1408_1408_1412/20240118/fr/xml/fedlex-data-admin-ch-eli-cc-63-1408_1408_1412-20240118-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1408_1408_1412/20240118/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Signé et accepté par la Suisse le 6 juillet 1945
 
 Entré en vigueur pour la Suisse le 6 juillet 1945
 
-(Etat le 14 novembre 2019)
+(État le 18 janvier 2024)
 
 Les États qui, étant membres de l’Organisation Internationale de l’Aviation Civile, signent et acceptent le présent Accord sur le Transit des Services Aériens Internationaux
 
@@ -102,7 +102,7 @@ Le présent Accord entrera en vigueur, entre les États Contractants, à la date
 
 [^t-1]: De telles traductions faisant également foi n’ont jamais été ouvertes à la signature.
 
-Champ d’application le 14 novembre 2019**[^t-2]**
+Champ d’application le 18 janvier 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
@@ -125,6 +125,7 @@ Champ d’application le 14 novembre 2019**[^t-2]**
 <tr><td>Bénin</td><td>23 avril</td><td>1963</td><td>23 avril</td><td colspan="2">1963</td></tr>
 <tr><td>Bolivie</td><td>4 avril</td><td>1947</td><td>4 avril</td><td colspan="2">1947</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>3 mars</td><td>1995 S</td><td>6 mars</td><td colspan="2">1992</td></tr>
+<tr><td>Brésil</td><td>20 juillet</td><td>2022</td><td>20 juillet</td><td colspan="2">2022</td></tr>
 <tr><td>Brunéi</td><td>4 décembre</td><td>1984 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1984</td></tr>
 <tr><td>Bulgarie</td><td>21 septembre</td><td>1970</td><td>21 septembre</td><td colspan="2">1970</td></tr>
 <tr><td>Burkina Faso</td><td>25 septembre</td><td>1992 A</td><td>25 septembre</td><td colspan="2">1992</td></tr>
@@ -163,7 +164,6 @@ Champ d’application le 14 novembre 2019**[^t-2]**
 <tr><td>Guyana\*</td><td>28 avril</td><td>1986</td><td>28 avril</td><td colspan="2">1986</td></tr>
 <tr><td>Honduras</td><td>13 novembre</td><td>1945</td><td>13 novembre</td><td colspan="2">1945</td></tr>
 <tr><td>Hongrie</td><td>15 janvier</td><td>1973 A</td><td>15 janvier</td><td colspan="2">1973</td></tr>
-<tr><td>Îles Cook</td><td>18 avril</td><td>2005 A</td><td>18 avril</td><td colspan="2">2005</td></tr>
 <tr><td>Inde</td><td>2 mai</td><td>1945</td><td>2 mai</td><td colspan="2">1945</td></tr>
 <tr><td>Iran</td><td>19 avril</td><td>1950</td><td>19 avril</td><td colspan="2">1950</td></tr>
 <tr><td>Iraq</td><td>15 juin</td><td>1945</td><td>15 juin</td><td colspan="2">1945</td></tr>
@@ -203,6 +203,7 @@ Champ d’application le 14 novembre 2019**[^t-2]**
 <tr><td>Nigéria</td><td>25 janvier</td><td>1961</td><td>25 janvier</td><td colspan="2">1961</td></tr>
 <tr><td>Norvège</td><td>30 janvier</td><td>1945</td><td>30 janvier</td><td colspan="2">1945</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>19 avril</td><td>1945</td><td>19 avril</td><td colspan="2">1945</td></tr>
+<tr><td>Îles Cook</td><td>18 avril</td><td>2005 A</td><td>18 avril</td><td colspan="2">2005</td></tr>
 <tr><td>Oman</td><td>23 février</td><td>1973 A</td><td>23 février</td><td colspan="2">1973</td></tr>
 <tr><td>Ouzbékistan</td><td>17 février</td><td>1997 A</td><td>17 février</td><td colspan="2">1997</td></tr>
 <tr><td>Pakistan</td><td>24 mars</td><td>1948 S</td><td>15 août</td><td colspan="2">1947</td></tr>
@@ -217,6 +218,7 @@ Champ d’application le 14 novembre 2019**[^t-2]**
 <tr><td>Portugal</td><td>1<sup>er</sup> septembre</td><td>1959</td><td>1<sup>er</sup> septembre</td><td colspan="2">1959</td></tr>
 <tr><td>Qatar</td><td>25 juin</td><td>2008</td><td>25 juin</td><td colspan="2">2008</td></tr>
 <tr><td>République tchèque</td><td>13 décembre</td><td>1994 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
+<tr><td>Roumanie</td><td>14 juillet</td><td>2021</td><td>14 juillet</td><td colspan="2">2021</td></tr>
 <tr><td>Royaume-Uni\*</td><td>31 mai</td><td>1945</td><td>31 mai</td><td colspan="2">1945</td></tr>
 <tr><td>Rwanda</td><td>6 juillet</td><td>1964</td><td>6 juillet</td><td colspan="2">1964</td></tr>
 <tr><td>Saint-Marin</td><td>29 juin</td><td>2007</td><td>29 juin</td><td colspan="2">2007</td></tr>
@@ -242,7 +244,7 @@ Champ d’application le 14 novembre 2019**[^t-2]**
 <tr><td>Venezuela</td><td>28 mars</td><td>1946</td><td>28 mars</td><td colspan="2">1946</td></tr>
 <tr><td>Zambie</td><td>13 octobre</td><td>1965</td><td>13 octobre</td><td colspan="2">1965</td></tr>
 <tr><td>Zimbabwe</td><td>29 février</td><td>2008 A</td><td>29 février</td><td colspan="2">2008</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 3 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 oct. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique: [www.state.gov](http://www.state.gov) &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Depositary &gt; Status Lists &gt; Status Lists for Treaties for Which the United States is Depositary &gt; Transportation ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 3 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 oct. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-2]: [RO 1972 874](https://fedlex.data.admin.ch/eli/oc/1972/862_874_793), [1976 660](https://fedlex.data.admin.ch/eli/oc/1976/660_660_660),[1981 1576](https://fedlex.data.admin.ch/eli/oc/1981/1576_1576_1576), [1985 695](https://fedlex.data.admin.ch/eli/oc/1985/695_695_695), [1988 124](https://fedlex.data.admin.ch/eli/oc/1988/124_124_124)[783](https://fedlex.data.admin.ch/eli/oc/1988/783_783_783), [1990 1568](https://fedlex.data.admin.ch/eli/oc/1990/1568_1568_1568), [2005 1319](https://fedlex.data.admin.ch/eli/oc/2005/202), [2008 103](https://fedlex.data.admin.ch/eli/oc/2008/40), [2013 2719](https://fedlex.data.admin.ch/eli/oc/2013/558), [2016 737](https://fedlex.data.admin.ch/eli/oc/2016/141), [2019 3787](https://fedlex.data.admin.ch/eli/oc/2019/687). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites)*.*
+[^t-2]: [RO 1972 874](https://fedlex.data.admin.ch/eli/oc/1972/862_874_793); [1976 660](https://fedlex.data.admin.ch/eli/oc/1976/660_660_660); [1981 1576](https://fedlex.data.admin.ch/eli/oc/1981/1576_1576_1576); [1985 695](https://fedlex.data.admin.ch/eli/oc/1985/695_695_695); [1988 124](https://fedlex.data.admin.ch/eli/oc/1988/124_124_124), [783](https://fedlex.data.admin.ch/eli/oc/1988/783_783_783); [1990 1568](https://fedlex.data.admin.ch/eli/oc/1990/1568_1568_1568); [2005 1319](https://fedlex.data.admin.ch/eli/oc/2005/202); [2008 103](https://fedlex.data.admin.ch/eli/oc/2008/40); [2013 2719](https://fedlex.data.admin.ch/eli/oc/2013/558); [2016 737](https://fedlex.data.admin.ch/eli/oc/2016/141); [2019 3787](https://fedlex.data.admin.ch/eli/oc/2019/687); [2024 34](https://fedlex.data.admin.ch/eli/oc/2024/34). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

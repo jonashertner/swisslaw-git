@@ -3,26 +3,24 @@ sr: "0.748.111.2"
 title: Accordo del 7 dicembre 1944 concernente il transito dei servizi aerei internazionali
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1408_1408_1412"
 language: it
-version: 2019-11-14
+version: 2024-01-18
 adopted: 1944-12-07
 in_force: 1945-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1408_1408_1412/20191114/it/xml/fedlex-data-admin-ch-eli-cc-63-1408_1408_1412-20191114-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1408_1408_1412/20191114/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1408_1408_1412/20240118/it/xml/fedlex-data-admin-ch-eli-cc-63-1408_1408_1412-20240118-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1408_1408_1412/20240118/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo concernente il transito dei servizi aerei internazionali
 
-[^t-1]AS AS
+RS **13** 651
 
 Traduzione
 
 Conchiuso a Chicago il 7 dicembre 1944 Firmato e accettato dalla Svizzera il 6 luglio 1945 Entrato in vigore per la Svizzera il 6 luglio 1945
 
-(Stato 14 novembre 2019)
-
-[^t-1]: CS **13** 601
+(Stato 18 gennaio 2024)
 
 Gli Stati che, in quanto membri dell’Organizzazione internazionale dell’aviazione civile, firmano ed accettano il presente Accordo sul transito dei servizi aerei internazionali,
 
@@ -92,11 +90,11 @@ Ogni Stato membro dell’Organizzazione della navigazione aerea civile internazi
 
 Il presente Accordo entrerà in vigore, tra gli Stati contraenti, alla data dell’accettazione da parte di ciascuno di essi. In seguito, esso sarà valevole per ogni altro Stato che notificherà la sua accettazione al Governo degli Stati Uniti, a contare dalla data del ricevimento di detta accettazione da parte di quest’ultimo Governo. Il Governo degli Stati Uniti parteciperà a tutti gli Stati che avranno firmato o accettato il presente Accordo, la data di ogni altra accettazione e la data alla quale l’Accordo entrerà in vigore per ciascuno degli Stati che lo accetteranno.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, firmano il presente Accordo in nome dei loro Governi rispettivi, alla data che figura a lato delle loro rispettive firme. Fatto a Chicago, il sette dicembre millenovecentoquarantaquattro, in lingua inglese. Un testo redatto nelle lingue inglese, francese e spagnuola, ciascuna facendo parimente fede, sarà aperto alle firme a Washington, D. C.[^t-2] due testi saranno depositati negli archivi del Governo degli Stati Uniti d’America, il quale ne trasmetterà copie certificate conformi ai Governi di tutti gli Stati che firmeranno o accetteranno il presente Accordo. *(Seguono le firme)*
+*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, firmano il presente Accordo in nome dei loro Governi rispettivi, alla data che figura a lato delle loro rispettive firme. Fatto a Chicago, il sette dicembre millenovecentoquarantaquattro, in lingua inglese. Un testo redatto nelle lingue inglese, francese e spagnuola, ciascuna facendo parimente fede, sarà aperto alle firme a Washington, D. C.[^t-1] due testi saranno depositati negli archivi del Governo degli Stati Uniti d’America, il quale ne trasmetterà copie certificate conformi ai Governi di tutti gli Stati che firmeranno o accetteranno il presente Accordo. *(Seguono le firme)*
 
-[^t-2]: Tali traduzioni, che fanno parimente fede, non sono mai state aperte alle firme.
+[^t-1]: Tali traduzioni, che fanno parimente fede, non sono mai state aperte alle firme.
 
-Campo d’applicazione il 14 novembre 2019**[^t-3]**
+Campo d’applicazione il 18 gennaio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -117,6 +115,7 @@ Campo d’applicazione il 14 novembre 2019**[^t-3]**
 <tr><td>Benin</td><td>23 aprile</td><td>1963</td><td>23 aprile</td><td>1963</td></tr>
 <tr><td>Bolivia</td><td>4 aprile</td><td>1947</td><td>4 aprile</td><td>1947</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>3 marzo</td><td>1995 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Brasile</td><td>20 luglio</td><td>2022</td><td>20 luglio</td><td>2022</td></tr>
 <tr><td>Brunei</td><td>4 dicembre</td><td>1984 S</td><td>1° gennaio</td><td>1984</td></tr>
 <tr><td>Bulgaria</td><td>21 settembre</td><td>1970</td><td>21 settembre</td><td>1970</td></tr>
 <tr><td>Burkina Faso</td><td>25 settembre</td><td>1992 A</td><td>25 settembre</td><td>1992</td></tr>
@@ -163,7 +162,6 @@ Campo d’applicazione il 14 novembre 2019**[^t-3]**
 <tr><td>Iraq</td><td>15 giugno</td><td>1945</td><td>15 giugno</td><td>1945</td></tr>
 <tr><td>Irlanda</td><td>15 novembre</td><td>1957</td><td>15 novembre</td><td>1957</td></tr>
 <tr><td>Islanda</td><td>21 marzo</td><td>1947</td><td>21 marzo</td><td>1947</td></tr>
-<tr><td>Isole Cook</td><td>18 aprile</td><td>2005 A</td><td>18 aprile</td><td>2005</td></tr>
 <tr><td>Israele</td><td>16 giugno</td><td>1954</td><td>16 giugno</td><td>1954</td></tr>
 <tr><td>Italia</td><td>27 giugno</td><td>1984 A</td><td>27 giugno</td><td>1984</td></tr>
 <tr><td>Kazakstan</td><td>9 luglio</td><td>2007 A</td><td>9 luglio</td><td>2007</td></tr>
@@ -195,6 +193,7 @@ Campo d’applicazione il 14 novembre 2019**[^t-3]**
 <tr><td>Nigeria</td><td>25 gennaio</td><td>1961</td><td>25 gennaio</td><td>1961</td></tr>
 <tr><td>Norvegia</td><td>30 gennaio</td><td>1945</td><td>30 gennaio</td><td>1945</td></tr>
 <tr><td>Nuova Zelanda</td><td>19 aprile</td><td>1945</td><td>19 aprile</td><td>1945</td></tr>
+<tr><td>Isole Cook</td><td>18 aprile</td><td>2005 A</td><td>18 aprile</td><td>2005</td></tr>
 <tr><td>Oman</td><td>23 febbraio</td><td>1973 A</td><td>23 febbraio</td><td>1973</td></tr>
 <tr><td>Paesi Bassi</td><td>12 gennaio</td><td>1945</td><td>12 gennaio</td><td>1945</td></tr>
 <tr><td>Aruba</td><td>9 giugno</td><td>1996</td><td>1° gennaio</td><td>1986</td></tr>
@@ -207,6 +206,7 @@ Campo d’applicazione il 14 novembre 2019**[^t-3]**
 <tr><td>Portogallo</td><td>1° settembre</td><td>1959</td><td>1° settembre</td><td>1959</td></tr>
 <tr><td>Qatar</td><td>25 giugno</td><td>2008</td><td>25 giugno</td><td>2008</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>31 maggio</td><td>1945</td><td>31 maggio</td><td>1945</td></tr>
+<tr><td>Romania</td><td>14 luglio</td><td>2021</td><td>14 luglio</td><td>2021</td></tr>
 <tr><td>Ruanda</td><td>6 luglio</td><td>1964</td><td>6 luglio</td><td>1964</td></tr>
 <tr><td>San Marino</td><td>29 giugno</td><td>2007</td><td>29 giugno</td><td>2007</td></tr>
 <tr><td>Seicelle</td><td>16 ottobre</td><td>1979</td><td>16 ottobre</td><td>1979</td></tr>
@@ -236,9 +236,9 @@ Campo d’applicazione il 14 novembre 2019**[^t-3]**
 <tr><td>Venezuela</td><td>28 marzo</td><td>1946</td><td>28 marzo</td><td>1946</td></tr>
 <tr><td>Zambia</td><td>13 ottobre</td><td>1965</td><td>13 ottobre</td><td>1965</td></tr>
 <tr><td>Zimbabwe</td><td>29 febbraio</td><td>2008 A</td><td>29 febbraio</td><td>2008</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet del Governo degli Stati Uniti: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet del Governo degli Stati Uniti: [www.state.gov](http://www.state.gov/) &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Depositary &gt; Status Lists &gt; Status Lists for Treaties for Which the United States is Depositary &gt; Transportation, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5">a Dal 31 mag. 1945 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 3 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
 <tr><td colspan="5">b Dal 1° set. 1959 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 ott. 1999 la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao.</td></tr>
 </table>
 
-[^t-3]: [RU 1972 793](https://fedlex.data.admin.ch/eli/oc/1972/862_874_793), [1976 660](https://fedlex.data.admin.ch/eli/oc/1976/660_660_660), [1981 1576](https://fedlex.data.admin.ch/eli/oc/1981/1576_1576_1576), [1985 695](https://fedlex.data.admin.ch/eli/oc/1985/695_695_695), [1988 124](https://fedlex.data.admin.ch/eli/oc/1988/124_124_124)[783](https://fedlex.data.admin.ch/eli/oc/1988/783_783_783), [1990 1568](https://fedlex.data.admin.ch/eli/oc/1990/1568_1568_1568), [2005 1319](https://fedlex.data.admin.ch/eli/oc/2005/202), [2008 103](https://fedlex.data.admin.ch/eli/oc/2008/40), [2013 2719](https://fedlex.data.admin.ch/eli/oc/2013/558), [2016 737](https://fedlex.data.admin.ch/eli/oc/2016/141), [2019 3787](https://fedlex.data.admin.ch/eli/oc/2019/687). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1972 793](https://fedlex.data.admin.ch/eli/oc/1972/862_874_793); [1976 660](https://fedlex.data.admin.ch/eli/oc/1976/660_660_660); [1981 1576](https://fedlex.data.admin.ch/eli/oc/1981/1576_1576_1576); [1985 695](https://fedlex.data.admin.ch/eli/oc/1985/695_695_695); [1988 124](https://fedlex.data.admin.ch/eli/oc/1988/124_124_124), [783](https://fedlex.data.admin.ch/eli/oc/1988/783_783_783); [1990 1568](https://fedlex.data.admin.ch/eli/oc/1990/1568_1568_1568); [2005 1319](https://fedlex.data.admin.ch/eli/oc/2005/202); [2008 103](https://fedlex.data.admin.ch/eli/oc/2008/40); [2013 2719](https://fedlex.data.admin.ch/eli/oc/2013/558); [2016 737](https://fedlex.data.admin.ch/eli/oc/2016/141); [2019 3787](https://fedlex.data.admin.ch/eli/oc/2019/687); [2024 34](https://fedlex.data.admin.ch/eli/oc/2024/34). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
