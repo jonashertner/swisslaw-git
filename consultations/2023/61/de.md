@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über Massnahmen zur Senkung des Verbrauchs von elektrischer Energie im Personenverkehr sowie im Güterverkehr auf der Schiene
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur les mesures visant à réduire la consommation d’énergie électrique dans le transport de voyageurs et le fret ferroviaire
 document: Projet mis en consultation
 language: fr
