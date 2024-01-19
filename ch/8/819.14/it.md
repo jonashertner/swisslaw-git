@@ -4,11 +4,11 @@ title: "Ordinanza del 2 aprile 2008 concernente la sicurezza delle macchine (Ord
 short: OMacch
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/263"
 language: it
-version: 2021-07-16
+version: 2024-01-20
 adopted: 2008-04-02
 in_force: 2009-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20210716/it/xml/fedlex-data-admin-ch-eli-cc-2008-263-20210716-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20210716/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20240120/it/xml/fedlex-data-admin-ch-eli-cc-2008-263-20240120-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20240120/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20210716/it"
 
 (Ordinanza sulle macchine, OMacch)
 
-del 2 aprile 2008 (Stato 16 luglio 2021) (Stato 16 luglio 2021)
+del 2 aprile 2008 (Stato 20 gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -58,13 +58,15 @@ ordina:
 
 **Condizioni per l’immissione sul mercato[^2-1]**
 
-<sup>1</sup> equivale all’immissione sul mercato se quest’ultima non è avvenuta in precedenza.
+<sup>1</sup>
 
 È lecito mettere in circolazione macchine soltanto se:
 
 - a. quando sono installate e mantenute in modo corretto nonché utilizzate conformemente ai loro scopi e in condizioni ragionevolmente prevedibili, non mettono in pericolo né la sicurezza né la salute delle persone e di eventuali animali domestici, né l’integrità dei beni né l’ambiente, purché la direttiva UE relativa alle macchine[^2-2] contempli per tali macchine prescrizioni specifiche in materia ambientale;
 - b. soddisfano le esigenze fissate nelle seguenti disposizioni della direttiva UE relativa alle macchine: articolo 5 paragrafo 1 lettere a–e, nonché paragrafi 2 e 3, e articoli 12 e 13; e
 - c. un operatore economico secondo l’articolo 4 paragrafo 2 del regolamento UE sulla vigilanza del mercato[^2-3] adempie gli obblighi di cui all’articolo 4*a*.[^2-4]
+
+<sup>2</sup> La messa in servizio di macchine equivale alla messa in circolazione se quest’ultima non è avvenuta in precedenza.
 
 <sup>3</sup> Per la presentazione di macchine in occasione di fiere, esposizioni o manifestazioni simili si applica l’articolo 6 paragrafo 3 della direttiva UE relativa alle macchine.
 
@@ -94,9 +96,13 @@ Gli organismi di valutazione della conformità devono, ciascuno per il campo di 
 - b. essere riconosciuti dalla Svizzera nel quadro di un accordo internazionale; oppure
 - c. essere altrimenti abilitati dal diritto federale.
 
+<sup>1bis</sup> Gli organismi di valutazione della conformità che effettuano valutazioni della conformità secondo il regolamento (UE) 2023/1230[^4-2] (regolamento UE relativo alle macchine) devono essere accreditati ai sensi dell’ordinanza sull’accreditamento e sulla designazione nonché soddisfare le condizioni di cui all’articolo 30 del regolamento UE relativo alle macchine.[^4-3]
+
 <sup>2</sup> Gli organismi di valutazione della conformità informano l’autorità federale competente del relativo campo specifico se l’attestato d’esame del tipo o l’ammissione del sistema di garanzia della qualità sono sospesi, revocati o sottoposti a limitazioni, oppure se è necessario l’intervento dell’autorità competente.
 
 [^4-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^4-2]: Regolamento (UE) 2023/1230 del Parlamento europeo e del Consiglio, del 14 giugno 2023, relativo alle macchine e che abroga la direttiva 2006/42/CE del Parlamento europeo e del Consiglio e la direttiva 73/361/CEE del Consiglio, versione della GU L 165 del 29.6.2023, pag. 1.
+[^4-3]: Introdotto dal n. I dell’O dell’8 nov. 2023, in vigore dal 20 gen. 2024 ([RU 2023 663](https://fedlex.data.admin.ch/eli/oc/2023/663)).
 
 #### Art. 4a
 
@@ -116,12 +122,12 @@ Gli obblighi spettanti ai seguenti operatori economici derivano dalle disposizio
 
 **Sorveglianza del mercato[^5-1]**
 
-<sup>1</sup> La sorveglianza del mercato è disciplinata negli articoli 20–28 OSPro[^5-2].[^5-3]
+<sup>1</sup> La sorveglianza del mercato è disciplinata negli articoli 19–29 OSPro[^5-2].[^5-3]
 
 <sup>2</sup> I competenti organi di controllo attuano in Svizzera i provvedimenti decisi dalla Commissione europea in base agli articoli 8 e 9 della direttiva UE relativa alle macchine[^5-4].[^5-5] I divieti o le limitazioni di immissione sul mercato o le revoche di macchine sono pubblicati nel Foglio federale.
 
 [^5-1]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
-[^5-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^5-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2010.
 [^5-3]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 [^5-4]: Si veda la nota a piè di pagina all’art. 1 cpv. 1.
 [^5-5]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021, in vigore dal 16 lug. 2021 ([RU 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
@@ -144,7 +150,7 @@ Apparecchi portatili di fissazione con carica esplosiva e altri apparecchi da sp
 
 La presente ordinanza entra in vigore il 29 dicembre 2009.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 2<sup>bis</sup> e 3)
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 2 avril 2008 sur la sécurité des machines (Ordonnance su
 short: OMach
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/263"
 language: fr
-version: 2021-07-16
+version: 2024-01-20
 adopted: 2008-04-02
 in_force: 2009-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20210716/fr/xml/fedlex-data-admin-ch-eli-cc-2008-263-20210716-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20210716/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20240120/fr/xml/fedlex-data-admin-ch-eli-cc-2008-263-20240120-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20240120/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20210716/fr"
 
 (Ordonnance sur les machines, OMach)
 
-du 2 avril 2008 (Etat le 16 juillet 2021)
+du 2 avril 2008 (État le 20 janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -97,9 +97,13 @@ Les organismes d’évaluation de la conformité doivent, chacun dans leur domai
 - b. être reconnus par la Suisse dans le cadre d’un accord international, ou
 - c. être habilités à un autre titre par le droit fédéral.
 
+<sup>1bis</sup> Les organismes d’évaluation de la conformité qui procèdent à des évaluations de la conformité selon le règlement (UE) 2023/1230[^4-2] (règlement UE sur les machines), doivent être accrédités selon l’ordonnance sur l’accréditation et la désignation et remplir les exigences fixées à l’art. 30 du règlement de l’UE sur les machines.[^4-3]
+
 <sup>2</sup> Si le certificat d’examen de type ou l’approbation d’un système d’assurance de la qualité est suspendu ou annulé ou soumis à des restrictions, ou encore si une intervention de l’autorité compétente peut se révéler nécessaire, l’organisme d’évaluation de la conformité en informe l’autorité fédérale compétente dans le domaine concerné.
 
 [^4-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^4-2]: Règlement (UE) 2023/1230 du Parlement européen et du Conseil du 14 juin 2023 sur les machines, abrogeant la directive 2006/42/CE du Parlement européen et du Conseil et la directive 73/361/CEE du Conseil, version du JO L 165 du 29.6.2023, p. 1.
+[^4-3]: Introduit par le ch. I de l’O du 8 nov. 2023, en vigueur depuis le 20 janv. 2024 ([RO 2023 663](https://fedlex.data.admin.ch/eli/oc/2023/663)).
 
 #### Art. 4a
 
@@ -119,12 +123,12 @@ Les obligations incombant aux opérateurs économiques ci-dessous sont fixées d
 
 **Surveillance du marché[^5-1]**
 
-<sup>1</sup> La surveillance du marché est régi par les art. 20 à 28 OSPro[^5-2].[^5-3]
+<sup>1</sup> La surveillance du marché est régi par les art. 19 à 29 OSPro[^5-2].[^5-3]
 
 <sup>2</sup> Les organes de contrôle compétents mettent en œuvre en Suisse les mesures prises par la Commission européenne sur la base de l’art. 8 ou de l’art. 9 de la directive UE relative aux machines[^5-4].[^5-5] Les interdictions de mise sur le marché de machines, ses limitations et les retraits de machines sont publiés dans la Feuille fédérale.
 
 [^5-1]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 19 mai 2010 sur la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
-[^5-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^5-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348). Le renvoi a été adapté au 1<sup>er</sup> juil. 2010 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^5-3]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 19 mai 2010 sur la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 [^5-4]: Cf. note de bas de page relative à l’art. 1, al. 1.
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021, en vigueur depuis le 16 juil. 2021 ([RO 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
@@ -147,7 +151,7 @@ Les appareils portatifs de fixation à charge explosive et les autres machines �
 
 La présente ordonnance entre en vigueur le 29 décembre 2009.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 2<sup>bis</sup> et 3)
 

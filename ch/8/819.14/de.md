@@ -4,11 +4,11 @@ title: "Verordnung vom 2. April 2008 über die Sicherheit von Maschinen (Maschin
 short: MaschV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/263"
 language: de
-version: 2021-07-16
+version: 2024-01-20
 adopted: 2008-04-02
 in_force: 2009-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20210716/de/xml/fedlex-data-admin-ch-eli-cc-2008-263-20210716-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20210716/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20240120/de/xml/fedlex-data-admin-ch-eli-cc-2008-263-20240120-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20240120/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20210716/de"
 
 (Maschinenverordnung, MaschV)
 
-vom 2. April 2008 (Stand am 16. Juli 2021)
+vom 2. April 2008 (Stand am 20. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -94,9 +94,13 @@ Die Konformitätsbewertungsstellen müssen für den betreffenden Fachbereich:
 - b. von der Schweiz im Rahmen eines internationalen Abkommens anerkannt sein; oder
 - c. durch das Bundesrecht anderweitig ermächtigt sein.
 
+<sup>1bis</sup> Konformitätsbewertungsstellen, die Konformitätsbewertungen nach der Verordnung (EU) 2023/1230[^4-2] (EU-Maschinenverordnung) durchführen, müssen nach der Akkreditierungs- und Bezeichnungsverordnung akkreditiert sein und die Voraussetzungen nach Artikel 30 der EU-Maschinenverordnung erfüllen.[^4-3]
+
 <sup>2</sup> Die Konformitätsbewertungsstellen unterrichten die im betreffenden Sachbereich zuständigen Bundesbehörden, wenn die Baumusterprüfbescheinigung oder die Zulassung des Qualitätssicherungssystems ausgesetzt, widerrufen oder mit Einschränkungen versehen wird oder sich ein Eingreifen der zuständigen Behörde als erforderlich erweisen könnte.
 
 [^4-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^4-2]: Verordnung (EU) 2023/1230 des Europäischen Parlaments und des Rates vom 14. Juni 2023 über Maschinen und zur Aufhebung der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates und der Richtlinie 73/361/EWG des Rates, Fassung gemäss ABl. L 165 vom 29.6.2023, S. 1.
+[^4-3]: Eingefügt durch Ziff. I der V vom 8. Nov. 2023, in Kraft seit 20. Jan. 2024 ([AS 2023 663](https://fedlex.data.admin.ch/eli/oc/2023/663)).
 
 #### Art. 4a
 
@@ -116,12 +120,12 @@ Die Pflichten folgender Wirtschaftsakteure ergeben sich unbeschadet der Bestimmu
 
 **Marktüberwachung[^5-1]**
 
-<sup>1</sup> Die Marktüberwachung richtet sich nach den Artikeln 20–28 der PrSV[^5-2].[^5-3]
+<sup>1</sup> Die Marktüberwachung richtet sich nach den Artikeln 19–29 der PrSV[^5-2].[^5-3]
 
 <sup>2</sup> Hat die Europäische Kommission eine Massnahme nach Artikel 8 oder 9 der EU-Maschinenrichtlinie[^5-4] ergriffen, so setzen die zuständigen Kontrollorgane die Massnahme für die Schweiz um. Allfällige Verbote oder Einschränkungen des Inverkehrbringens oder Rückrufe von Maschinen werden im Bundesblatt veröffentlicht.
 
 [^5-1]: Fassung gemäss Anhang 4 Ziff. II 8 der V vom 19. Mai 2010 über die Produktesicherheit, in Kraft seit 1. Juli 2010 ([AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
-[^5-2]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^5-2]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2010 angepasst.
 [^5-3]: Fassung gemäss Anhang 4 Ziff. II 8 der V vom 19. Mai 2010 über die Produktesicherheit, in Kraft seit 1. Juli 2010 ([AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 [^5-4]: Siehe Fussnote zu Art. 1 Abs. 1.
 
@@ -143,7 +147,7 @@ Tragbare Befestigungsgeräte mit Treibladungen und andere als Werkzeug konzipier
 
 Diese Verordnung tritt am 29. Dezember 2009 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 2<sup>bis</sup> und 3)
 
@@ -228,6 +232,6 @@ Anhang 2
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)konsultiert werden.
