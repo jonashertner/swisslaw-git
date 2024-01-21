@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: de
-version: 2023-10-30
+version: 2024-01-22
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20231030/de/xml/fedlex-data-admin-ch-eli-cc-2006-596-20231030-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20231030/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20240122/de/xml/fedlex-data-admin-ch-eli-cc-2006-596-20240122-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20240122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,9 @@ AS **2006** 3961[^t-1]
 
 Übersetzung
 
-vom 4. November 1998 (Stand am 30. Oktober 2023)
+vom 4. November 1998 (Stand am 22. Januar 2024)
 
-[^t-1]: Neue Fassung unter Berücksichtigung der in der Fussnote zu Art. 117 aufgeführten Änd. ([AS 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716)). Die Anlagen werden in der AS nicht veröffentlicht. Ihre französischen Texte können auf der Internetseite des Gerichtshofs: www.echr.coe.int eingesehen werden.
+[^t-1]: Neue Fassung unter Berücksichtigung der in der Fussnote zu Art. 117 aufgeführten Änd. ([AS 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716); [2024 99](https://fedlex.data.admin.ch/eli/oc/2024/99)). Die Anlagen werden in der AS nicht veröffentlicht. Ihre französischen Texte können auf der Internetseite des Gerichtshofs: www.echr.coe.int eingesehen werden.
 
 Der Europäische Gerichtshof für Menschenrechte,
 
@@ -426,9 +426,9 @@ Als Einzelrichter tagen ebenfalls:
 
 #### Art. 28
 
-**Verhinderung, Ablehnung, Freistellung**
+**Verhinderung und Ausstand**
 
-<sup>(1)</sup> Jeder Richter, der verhindert ist, an Sitzungen teilzunehmen, zu denen er einberufen wurde, hat dies umgehend dem Kammerpräsidenten mitzuteilen.
+<sup>(1)</sup> Jeder Richter hat an allen ihm zugeteilten Rechtssachen mitzuwirken, es sei denn, er kann aus einem der in Absatz 2 genannten Gründe nicht an der Prüfung der Rechtssache teilnehmen.
 
 <sup>(2)</sup>
 
@@ -440,11 +440,11 @@ Ein Richter darf an der Prüfung einer Rechtssache nicht teilnehmen:
 - d) wenn er über die Medien, schriftlich, durch öffentliches Handeln oder in anderer Weise in der Öffentlichkeit Ansichten geäussert hat, die objektiv geeignet sind, seine Unparteilichkeit zu beeinträchtigen;
 - e) wenn aus einem anderen Grund berechtigte Zweifel an seiner Unabhängigkeit oder Unparteilichkeit bestehen.
 
-<sup>(3)</sup> Ist ein Richter aus einem der genannten Gründe befangen, so teilt er dies dem Kammerpräsidenten mit; dieser stellt ihn von der Teilnahme an der Rechtssache frei.
+<sup>(3)</sup> Jeder Richter, der aus einem der in Absatz 2 genannten Gründe verhindert ist, an einer bestimmten Rechtssache mitzuwirken, für die er einberufen war, hat dies, wenn diese Rechtssache einem Komitee oder einer Kammer zugewiesen wurde, umgehend dem Sektionspräsidenten mitzuteilen; dieser entscheidet darüber, ob der Richter von der Teilnahme an der Rechtssache freigestellt werden soll. Hat der betroffene Richter oder der Präsident Zweifel, ob einer der in Absatz 2 genannten Ablehnungsgründe vorliegt, so entscheidet die Kammer. Nach Anhörung des betroffenen Richters berät die Kammer und stimmt ab; dabei ist der betroffene Richter nicht anwesend. Für die Zwecke der Beratungen und der Abstimmung der Kammer über diese Frage wird er durch den ersten Ersatzrichter der Kammer vertreten. Dasselbe gilt, wenn der Richter der Kammer für eine Vertragspartei nach den Artikeln 29 und 30 angehört.
 
-<sup>(4)</sup> Hat der betroffene Richter oder der Kammerpräsident Zweifel, ob einer der in Absatz 2 genannten Ablehnungsgründe vorliegt, so entscheidet die Kammer. Nach Anhörung des betroffenen Richters berät die Kammer und stimmt ab; dabei ist der betroffene Richter nicht anwesend. Für die Zwecke der Beratungen und der Abstimmung der Kammer über diese Frage wird er durch den ersten Ersatzrichter der Kammer vertreten. Dasselbe gilt, wenn der Richter der Kammer für eine betroffene Vertragspartei nach den Artikeln 29 und 30 angehört.
+<sup>(4)</sup> Nur die Verfahrensparteien können aus einem der in Absatz 2 genannten Gründe den Ausstand eines in der betreffenden Rechtssache mitwirkenden Richters verlangen. Ein solcher Antrag ist zu begründen und muss umgehend gestellt werden, sobald ein Vorliegen dieser Gründe bekannt ist. Die Kammer entscheidet über den Antrag nach dem Verfahren in Absatz 3. Die Parteien werden über die Annahme oder Ablehnung des Antrags informiert.
 
-<sup>(5)</sup> Die Absätze 1 bis 4 gelten auch für die Mitwirkung eines Richters in einer Kammer oder in einem Komitee; in diesem Fall ist die nach Absatz 1 oder 3 vorgeschriebene Mitteilung an den Sektionspräsidenten zu richten.
+<sup>(5)</sup> Auf die Rechtssachen, die vor der Grossen Kammer verhandelt werden, sowie auf die Richter, die unter Aufsicht des Präsidenten des Gerichtshofs als Einzelrichter nach Artikel 27 der Konvention oder als Dienst habende Richter nach Artikel 39 dieser Verfahrensordnung mitwirken, sind die vorstehenden Bestimmungen entsprechend anzuwenden.
 
 #### Art. 29
 
@@ -759,13 +759,12 @@ Beschwerden nach Artikel 34 der Konvention sind unter Verwendung des von der Kan
 
 - a) den Namen, das Geburtsdatum, die Staatsangehörigkeit und die Adresse des Beschwerdeführers und, sofern es sich beim Beschwerdeführer um eine juristische Person handelt, den vollständigen Namen, das Datum der Errichtung oder der Eintragung im Register, die amtliche Registernummer (sofern vorhanden) und ihre offizielle Adresse;
 - b) gegebenenfalls den Namen, die Adresse, die Telefon- und Telefaxnummern und die E-Mail-Adresse seines Vertreters;
-- c) wenn der Beschwerdeführer einen Vertreter hat, das Datum und die Originalunterschrift des Beschwerdeführers im Feld des Beschwerdeformulars zur Vollmacht; die Originalunterschrift des Vertreters, mit der er seine Bereitschaft bestätigt, im Namen des Beschwerdeführers zu handeln, ist ebenfalls in diesem Feld anzubringen;
+- c) wenn der Beschwerdeführer einen Vertreter hat, das Datum und die Originalunterschrift des Beschwerdeführers im Feld des Beschwerdeformulars zur Vollmacht; die Originalunterschrift des Vertreters, mit der er seine Bereitschaft bestätigt, im Namen des Beschwerdeführers zu handeln, ist ebenfalls in diesem Feld anzubringen; der Gerichtshof kann eine Kopie der Unterschriften oder anderer in der innerstaatlichen Rechtsordnung der Vertragsparteien gültiger Vollmachten annehmen, wenn zwingende Gründe für die Nichteinhaltung dieser Verpflichtungen vorgebracht und das vom Gerichtshof zur Verfügung gestellte Formular mit den Originalunterschriften innerhalb einer angemessenen Frist dem Gerichtshof übermittelt werden;
 - d) die Vertragspartei oder Vertragsparteien, gegen die sich die Beschwerde richtet;
 - e) eine gedrängte und verständliche Darstellung des Sachverhalts;
 - f) eine gedrängte und verständliche Darstellung der behaupteten Verletzungen der Konvention mit Begründung; und
 - g) eine gedrängte und verständliche Darstellung, in der die Erfüllung der Zulässigkeitskriterien nach Artikel 35 Absatz 1 der Konvention durch den Beschwerdeführer bestätigt wird.
 - (2) a) Alle in Absatz 1 Buchstaben e–g bezeichneten Informationen sind im einschlägigen Abschnitt des Beschwerdeformulars derart ausreichend aufzuführen, dass der Gerichtshof die Art und den Gegenstand der Beschwerde bestimmen kann, ohne Einsicht in weitere Unterlagen zu nehmen.
-
 - b) Der Beschwerdeführer kann diese Informationen jedoch ergänzen, indem er dem Beschwerdeformular ein Schriftstück von höchstens zwanzig Seiten beifügt und zusätzliche Angaben zum Sachverhalt und zu den geltend gemachten Verletzungen der Konvention mit Begründung macht.
 
 (3.1) Das Beschwerdeformular ist vom Beschwerdeführer oder seinem Vertreter zu unterzeichnen; beizufügen sind:
@@ -775,7 +774,7 @@ Beschwerden nach Artikel 34 der Konvention sind unter Verwendung des von der Kan
 - c) gegebenenfalls Kopien der Unterlagen in Bezug auf andere internationale Untersuchungs- oder Schlichtungsverfahren;
 - d) sofern es sich beim Beschwerdeführer wie nach Absatz 1 Buchstabe a vorgesehen um eine juristische Person handelt, ein oder mehrere Dokumente, die belegen, dass die Person, die die Beschwerde einreicht, zur Vertretung des Beschwerdeführers befugt ist oder eine entsprechende Vollmacht innehat.
 
-<sup>(4)</sup> Ein Beschwerdeführer, der nicht wünscht, dass seine Identität offen gelegt wird, hat dies mitzuteilen und die Gründe darzulegen, die eine Abweichung von der gewöhnlichen Regel rechtfertigen, nach der das Verfahren vor dem Gerichtshof öffentlich ist. Der Kammerpräsident kann dem Beschwerdeführer erlauben, anonym zu bleiben, oder von Amts wegen Anonymität gewähren.
+<sup>(4)</sup> Ein Beschwerdeführer, der nicht wünscht, dass seine Identität offen gelegt wird, hat dies mitzuteilen und die Gründe darzulegen, die eine Abweichung von der gewöhnlichen Regel rechtfertigen, nach der das Verfahren vor dem Gerichtshof öffentlich ist. Letzterer kann dem Beschwerdeführer erlauben, anonym zu bleiben, oder von Amts wegen Anonymität gewähren.
 
 (5.2) Der Gerichtshof kann einen Beschwerdeführer jederzeit ersuchen, innerhalb einer bestimmten Frist zweckdienliche Informationen oder Unterlagen in einer für angemessen erachteten Form und Weise beizubringen.
 
@@ -785,7 +784,7 @@ Beschwerden nach Artikel 34 der Konvention sind unter Verwendung des von der Kan
 - b) die Beschwerde betrifft einen Antrag, eine vorläufige Massnahme zu ergreifen;
 - c) der Gerichtshof entscheidet von Amts wegen oder auf Antrag eines Beschwerdeführers anders.
 
-- (6) a) Für die Zwecke des Artikels 35 Absatz 1 der Konvention ist als Datum der Beschwerdeerhebung in der Regel das Datum anzusehen, zu dem ein Beschwerdeformular beim Gerichtshof eingereicht worden ist, das den Erfordernissen nach diesem Artikel entspricht; als Absendetag gilt das Datum des Poststempels.
+- (6) a) Für die Zwecke des Artikels 35 Absatz 1 der Konvention ist als Datum der Beschwerdeerhebung das Datum anzusehen, zu dem ein Beschwerdeformular beim Gerichtshof eingereicht worden ist, das den Erfordernissen nach diesem Artikel entspricht; als Absendetag gilt das Datum des Poststempels.
 - b) Der Gerichtshof kann jedoch entscheiden, dass ein anderes Datum gilt, wenn er dies für gerechtfertigt hält.
 
 <sup>(7)</sup> Der Beschwerdeführer hat den Gerichtshof über jede Änderung seiner Adresse und jeden für die Prüfung seiner Beschwerde erheblichen Umstand zu informieren.
@@ -1544,4 +1543,4 @@ Die Anwendung von Bestimmungen, welche die interne Arbeitsweise des Gerichtshofs
 
 Diese Verfahrensordnung tritt am 1. November 1998 in Kraft.
 
-[^117-1]: Die am 8. Dez. 2000 angenommenen Änd. sind sofort in Kraft getreten. Die am 17. Juni und 8. Juli 2002 angenommenen Änd. sind am 1. Okt. 2002 in Kraft getreten. Die am 7. Juli 2003 angenommenen Änd. sind am 1. Nov. 2003 in Kraft getreten. Die am 13. Dez. 2004 angenommenen Änd. sind am 1. März 2005 in Kraft getreten. Die am 4. Juli 2005 angenommenen Änd. sind am 3. Okt. 2005 in Kraft getreten. Die am 7. Nov. 2005 angenommenen Änd. sind am 1. Dez. 2005 in Kraft getreten. Die am 29. Mai 2006 angenommenen Änd. sind am 1. Juli 2006 in Kraft getreten. Die am 14. Mai 2007 angenommenen Änd. sind am 1. Juli 2007 in Kraft getreten. Die am 11. Dez. 2007, 22. Sept. und 1. Dez. 2008 angenommenen Änd. sind am 1. Jan. 2009 in Kraft getreten. Die am 29. Juni 2009 angenommenen Änd. sind am 1. Juli 2009 in Kraft getreten. Die am 16. Nov. 2009 angenommenen Änd. sind am 1. Dez. 2009 in Kraft getreten. Die am 13. Nov. 2006 und 14. Mai 2007 angenommenen Änd. betreffend das Protokoll Nr. 14 zur Konvention sind am 1. Juni 2010 in Kraft getreten. Die am 21. Feb. 2011 angenommenen Änd. sind am 1. April 2011 in Kraft getreten. Die am 16. Jan. 2012 angenommenen Änd. sind am 1. Feb. 2012 in Kraft getreten. Die am 20. Feb. 2012 angenommenen Änd. sind am 1. Mai 2012 in Kraft getreten. Die am 2. April 2012 angenommenen Änd. sind am 1. Sept. 2012 in Kraft getreten. Die am 14. Jan. und 6. Feb. 2013 angenommenen Änd. sind am 1. Mai 2013 in Kraft getreten. Die am 6. Mai 2013 angenommenen Änd. sind am 1. Juli 2013 und 1. Jan. 2014 in Kraft getreten. Die am 14. April und 23. Juni 2014 angenommenen Änd. sind am 1. Juli 2014 in Kraft getreten. Einige der am 1. Juni 2015 angenommenen Änd. sind sofort in Kraft getreten. Die am 1. Juni und 5. Okt. 2015 angenommenen Änd. an Art. 47 sind am 1. Jan. 2016 in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 14. Nov. 2016 angenommenen Änd. sind am selben Datum in Kraft getreten. Die am 16. April 2018 angenommenen Änd. an Art. 29 sind am selben Datum in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. sind am 1. Aug. 2018 in Kraft getreten. Die am 3. Juni 2019 angenommene Änd. an Art. 29 Abs. 1 ist am selben Datum in Kraft getreten. Die am 9. Sept. 2019 angenommenen Änd. an Art. 27*a* und 52*a* sind am selben Datum in Kraft getreten. Die am 4. Nov. 2019 angenommenen Änd. sind am 1. Jan. 2020 in Kraft getreten. Die am 2. Juni 2021 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 11. Oktober 2021 angenommenen Änd. an Art. 24, 93, 94 und 101 sind am 18. Oktober 2021 in Kraft getreten. Die am 7. Feb. 2022 angenommenen Änd. an Art. 36 und 44*d* sind am selben Datum in Kraft getreten. Die am 30. Mai 2022 angenommene Änd. an Art. 8 Abs. 5 ist am selben Datum in Kraft getreten. Die am 3. Juni 2022 angenommene Änd. an Art. 44 Abs. 4 ist am selben Datum in Kraft getreten. Die am 3. März 2023 angenommene Änd. an Art. 44 Abs. 2 und 3 Bst. b ist am selben Datum in Kraft getreten. Die am 23. Juni 2023 angenommenen Änd. von Art. 7 und 7*a* sind am selben Datum in Kraft getreten. Die am 25. Sept. 2023 angenommenen Änd. von Art. 33 Abs. 1 und 44*f* sind am 30. Okt. 2023 in Kraft getreten.
+[^117-1]: Die am 8. Dez. 2000 angenommenen Änd. sind sofort in Kraft getreten. Die am 17. Juni und 8. Juli 2002 angenommenen Änd. sind am 1. Okt. 2002 in Kraft getreten. Die am 7. Juli 2003 angenommenen Änd. sind am 1. Nov. 2003 in Kraft getreten. Die am 13. Dez. 2004 angenommenen Änd. sind am 1. März 2005 in Kraft getreten. Die am 4. Juli 2005 angenommenen Änd. sind am 3. Okt. 2005 in Kraft getreten. Die am 7. Nov. 2005 angenommenen Änd. sind am 1. Dez. 2005 in Kraft getreten. Die am 29. Mai 2006 angenommenen Änd. sind am 1. Juli 2006 in Kraft getreten. Die am 14. Mai 2007 angenommenen Änd. sind am 1. Juli 2007 in Kraft getreten. Die am 11. Dez. 2007, 22. Sept. und 1. Dez. 2008 angenommenen Änd. sind am 1. Jan. 2009 in Kraft getreten. Die am 29. Juni 2009 angenommenen Änd. sind am 1. Juli 2009 in Kraft getreten. Die am 16. Nov. 2009 angenommenen Änd. sind am 1. Dez. 2009 in Kraft getreten. Die am 13. Nov. 2006 und 14. Mai 2007 angenommenen Änd. betreffend das Protokoll Nr. 14 zur Konvention sind am 1. Juni 2010 in Kraft getreten. Die am 21. Feb. 2011 angenommenen Änd. sind am 1. April 2011 in Kraft getreten. Die am 16. Jan. 2012 angenommenen Änd. sind am 1. Feb. 2012 in Kraft getreten. Die am 20. Feb. 2012 angenommenen Änd. sind am 1. Mai 2012 in Kraft getreten. Die am 2. April 2012 angenommenen Änd. sind am 1. Sept. 2012 in Kraft getreten. Die am 14. Jan. und 6. Feb. 2013 angenommenen Änd. sind am 1. Mai 2013 in Kraft getreten. Die am 6. Mai 2013 angenommenen Änd. sind am 1. Juli 2013 und 1. Jan. 2014 in Kraft getreten. Die am 14. April und 23. Juni 2014 angenommenen Änd. sind am 1. Juli 2014 in Kraft getreten. Einige der am 1. Juni 2015 angenommenen Änd. sind sofort in Kraft getreten. Die am 1. Juni und 5. Okt. 2015 angenommenen Änd. an Art. 47 sind am 1. Jan. 2016 in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 14. Nov. 2016 angenommenen Änd. sind am selben Datum in Kraft getreten. Die am 16. April 2018 angenommenen Änd. an Art. 29 sind am selben Datum in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. sind am 1. Aug. 2018 in Kraft getreten. Die am 3. Juni 2019 angenommene Änd. an Art. 29 Abs. 1 ist am selben Datum in Kraft getreten. Die am 9. Sept. 2019 angenommenen Änd. an Art. 27*a* und 52*a* sind am selben Datum in Kraft getreten. Die am 4. Nov. 2019 angenommenen Änd. sind am 1. Jan. 2020 in Kraft getreten. Die am 2. Juni 2021 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 11. Oktober 2021 angenommenen Änd. an Art. 24, 93, 94 und 101 sind am 18. Oktober 2021 in Kraft getreten. Die am 7. Feb. 2022 angenommenen Änd. an Art. 36 und 44*d* sind am selben Datum in Kraft getreten. Die am 30. Mai 2022 angenommene Änd. an Art. 8 Abs. 5 ist am selben Datum in Kraft getreten. Die am 3. Juni 2022 angenommene Änd. an Art. 44 Abs. 4 ist am selben Datum in Kraft getreten. Die am 3. März 2023 angenommene Änd. an Art. 44 Abs. 2 und 3 Bst. b ist am selben Datum in Kraft getreten. Die am 23. Juni 2023 angenommenen Änd. von Art. 7 und 7*a* sind am selben Datum in Kraft getreten. Die am 25. Sept. 2023 angenommenen Änd. von Art. 33 Abs. 1 und 44*f* sind am 30. Okt. 2023 in Kraft getreten. Die am 15. Dez. 2023 angenommenen Änd. an Art. 28 und die am 18. Jan. 2024 angenommenen Änd. an Art. 47 sind am 22. Jan. 2024 in Kraft getreten.

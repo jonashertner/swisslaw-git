@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: "Règlement de la Cour européenne des droits de l'homme du 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: fr
-version: 2023-10-30
+version: 2024-01-22
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20231030/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20231030-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20231030/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20240122/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20240122-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20240122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,9 +18,9 @@ RO **2006** 3961[^t-1]
 
 Texte original
 
-du 4 novembre 1998 (État le 30 octobre 2023)
+du 4 novembre 1998 (État le 22 janvier 2024)
 
-[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: [www.echr.coe.int](http://www.echr.coe.int).
+[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716); [2024 99](https://fedlex.data.admin.ch/eli/oc/2024/99)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: [www.echr.coe.int](http://www.echr.coe.int).
 
 La Cour européenne des droits de l’homme,
 
@@ -422,9 +422,9 @@ Siègent également comme juges uniques:
 
 #### Art. 28
 
-**Empêchement, déport ou dispense**
+**Empêchement et récusation**
 
-<sup>1.</sup> Tout juge empêché de participer aux séances pour lesquelles il est convoqué en fait part, dans le plus bref délai, au président de la chambre.
+<sup>1.</sup> Tout juge est tenu de siéger dans toutes les affaires qui lui sont attribuées sauf si, pour l’une des raisons exposées au par. 2 du présent article, il ne peut participer à l’examen de l’affaire.
 
 <sup>2.</sup>
 
@@ -436,11 +436,11 @@ Aucun juge ne peut participer à l’examen d’une affaire:
 - d) s’il a exprimé en public, par le truchement des médias, par écrit, par des actions publiques ou par tout autre moyen, des opinions qui sont objectivement de nature à nuire à son impartialité;
 - e) si, pour quelque autre raison que ce soit, son indépendance ou son impartialité peuvent légitimement être mises en doute.
 
-<sup>3.</sup> Si un juge se déporte pour l’une desdites raisons, il en informe le président de la chambre, qui le dispense de siéger.
+<sup>3.</sup> Tout juge qui, pour l’une des raisons exposées au par. 2 du présent article, s’estimerait empêché de siéger dans une affaire particulière à laquelle il a été appelé à participer doit, dans le plus bref délai, s’il s’agit d’une affaire attribuée à une formation de comité ou de chambre, en aviser le président de la section, qui décidera si ce juge doit être dispensé de siéger. En cas de doute du juge concerné ou du président sur l’existence ou non de l’une des causes de déport énumérées au par. 2 du présent article, la chambre décide. Elle entend le juge concerné, puis délibère et vote hors sa présence. Aux fins des délibérations et du vote en question, l’intéressé est remplacé par le premier juge suppléant de la chambre. Il en va de même s’il siège au titre de toute Partie contractante en vertu des art. 29 et 30 du présent règlement.
 
-<sup>4.</sup> Si le juge concerné ou le président de la chambre hésitent sur l’existence ou non de l’une des causes de déport énumérées au par. 2 du présent article, la chambre décide. Elle entend le juge concerné, puis délibère et vote hors sa présence. Aux fins des délibérations et vote en question, l’intéressé est remplacé par le premier juge suppléant de la chambre. Il en va de même s’il siège au titre d’une Partie contractante concernée conformément aux art. 29 et 30 du présent règlement.
+<sup>4.</sup> Seules les parties à la procédure peuvent, pour l’une des raisons exposées au par. 2 du présent article, demander la récusation d’un des juges appelés à siéger dans l’affaire en cause. Toute demande de ce type doit être dûment motivée et présentée dans le plus bref délai une fois que son auteur aura pris connaissance de l’existence de ces raisons. La chambre statue sur cette demande conformément à la procédure prévue au par. 3 du présent article. Les parties sont informées de l’acceptation ou du rejet de celle-ci.
 
-<sup>5.</sup> Les dispositions ci-dessus s’appliquent également aux juges appelés à siéger dans une chambre ou dans un comité, étant entendu que la notification visée aux par. 1 et 3 est adressée au président de la section.
+<sup>5.</sup> Les dispositions ci-dessus s’appliquent, *mutatis mutandis*, aux affaires portées devant la Grande Chambre, et – sous l’autorité du président de la Cour – aux juges appelés à siéger comme juges uniques en vertu de l’art. 27 de la Convention ou comme juge de permanence en vertu l’art. 39 du présent règlement.
 
 #### Art. 29
 
@@ -751,9 +751,9 @@ La ou les Parties contractantes qui désirent introduire une requête devant la 
 
 Toute requête déposée en vertu de l’art. 34 de la Convention est présentée sur le formulaire fourni par le greffe, sauf si la Cour en décide autrement. Elle doit contenir tous les renseignements demandés dans les parties pertinentes du formulaire de requête et indiquer:
 
-- a) les nom, date de naissance, nationalité et adresse du requérant et et, lorsque le requérant est une personne morale, les nom complet, date de constitution ou d’enregistrement, numéro officiel d’enregistrement (le cas échéant) et adresse officielle de celle-ci;
+- a) les nom, date de naissance, nationalité et adresse du requérant et, lorsque le requérant est une personne morale, les nom complet, date de constitution ou d’enregistrement, numéro officiel d’enregistrement (le cas échéant) et adresse officielle de celle-ci;
 - b) s’il y a lieu, les nom, adresse, numéros de téléphone et de télécopie et adresse électronique de son représentant;
-- c) si le requérant a un représentant, la date et la signature originale du requérant dans l’encadré du formulaire de requête réservé au pouvoir; la signature originale du représentant montrant qu’il a accepté d’agir au nom du requérant doit aussi figurer dans cet encadré;
+- c) si le requérant a un représentant, la date et la signature originale du requérant dans l’encadré du formulaire de requête réservé au pouvoir; la signature originale du représentant montrant qu’il a accepté d’agir au nom du requérant doit aussi figurer dans cet encadré; la Cour peut accepter une copie des signatures ou d’autres attestations de pouvoir valides dans le droit interne des Parties contractantes si des motifs impérieux pour le non-respect de ces obligations sont présentés et si le formulaire de pouvoir fourni par la Cour, avec les signatures originales, est communiqué à la Cour dans un délai raisonnable;
 - d) la ou les Parties contractantes contre lesquelles la requête est dirigée;
 - e) un exposé concis et lisibledes faits;
 - f) un exposé concis et lisible de la ou des violations alléguées de la Convention et des arguments pertinents; et
@@ -768,7 +768,7 @@ Toute requête déposée en vertu de l’art. 34 de la Convention est présenté
 - c) le cas échéant, des copies des documents relatifs à toute autre procédure internationale d’enquête ou de règlement;
 - d) si le requérant est une personne morale, comme le par. 1 a) du présent article le prévoit, du (des) document(s) montrant que l’individu qui introduit la requête a qualité pour représenter le requérant ou détient un pouvoir à cet effet.
 
-<sup>4.</sup> Le requérant qui ne désire pas que son identité soit révélée doit le préciser et fournir un exposé des raisons justifiant une dérogation à la règle normale de publicité de la procédure devant la Cour. Le président de la chambre peut autoriser l’anonymat ou décider de l’accorder d’office.
+<sup>4.</sup> Le requérant qui ne désire pas que son identité soit révélée doit le préciser et fournir un exposé des raisons justifiant une dérogation à la règle normale de publicité de la procédure devant la Cour. Cette dernière peut autoriser l’anonymat ou décider de l’accorder d’office.
 
 5.2. La Cour pourra toujours demander à un requérant de soumettre dans un délai déterminé toute information ou tout document utiles sous la forme ou de la manière jugées appropriées.
 
@@ -778,7 +778,7 @@ Toute requête déposée en vertu de l’art. 34 de la Convention est présenté
 - b) la requête concerne une demande de mesure provisoire;
 - c) la Cour en décide autrement, d’office ou à la demande d’un requérant.
 
-- 6\. a) Aux fins de l’art. 35 par. 1 de la Convention, la requête est en règle générale réputée introduite à la date laquelle un formulaire de requête satisfaisant aux exigences posées par le présent article est envoyé à la Cour, le cachet de la poste faisant foi.
+- 6\. a) Aux fins de l’art. 35 par. 1 de la Convention la requête est réputée introduite à la date laquelle un formulaire de requête satisfaisant aux exigences posées par le présent article est envoyé à la Cour, le cachet de la poste faisant foi.
 - b) Si elle l’estime justifié, la Cour peut toutefois décider de retenir une autre date.
 
 <sup>7.</sup> Le requérant doit informer la Cour de tout changement d’adresse et de tout fait pertinent pour l’examen de sa requête.
@@ -1529,4 +1529,4 @@ L’application de toute disposition concernant le fonctionnement interne de la 
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> novembre 1998.
 
-[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021. Les Am. aux articles 36 et 44*d* qui ont été adoptés le 7 février 2022 sont entrés en vigueur à la même date. L’Am. à l’article 8 § 5 adopté le 30 mai 2022 est entré en vigueur à la même date. L’Am. à l’article 44 § 4 adopté le 3 juin 2022 est entré en vigueur à la même date. L’Am. à l’article 44 §§ 2 et 3 b) adopté le 3 mars 2023 est entré en vigueur à la même date. Les Am. concernant les art. 7 et 7*a* adoptés le 23 juin 2023 sont entrés en vigueur à la même date. Les Am. concernant les art. 33 § 1 et 44*f* adoptés le 25 sept. 2023 sont entrés en vigueur le 30 oct. 2023.
+[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021. Les Am. aux articles 36 et 44*d* qui ont été adoptés le 7 février 2022 sont entrés en vigueur à la même date. L’Am. à l’article 8 § 5 adopté le 30 mai 2022 est entré en vigueur à la même date. L’Am. à l’article 44 § 4 adopté le 3 juin 2022 est entré en vigueur à la même date. L’Am. à l’article 44 §§ 2 et 3 b) adopté le 3 mars 2023 est entré en vigueur à la même date. Les Am. concernant les art. 7 et 7*a* adoptés le 23 juin 2023 sont entrés en vigueur à la même date. Les Am. concernant les art. 33 § 1 et 44*f* adoptés le 25 sept. 2023 sont entrés en vigueur le 30 oct. 2023. Les Am. concernant l’art. 28 adoptés le 15 déc. 2023 et l’art. 47 adoptés le 18 janv. 2024, sont entrés en vigueur le 22 janv. 2024.
