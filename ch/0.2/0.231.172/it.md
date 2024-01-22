@@ -3,11 +3,11 @@ sr: "0.231.172"
 title: Convenzione del 29 ottobre 1971 per la protezione dei produttori di fonogrammi contro la riproduzione non autorizzata dei loro fonogrammi
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718"
 language: it
-version: 2020-05-06
+version: 2024-01-23
 adopted: 1971-10-29
 in_force: 1993-09-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718/20200506/it/xml/fedlex-data-admin-ch-eli-cc-1993-2718_2718_2718-20200506-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2718_2718_2718/20200506/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718/20240123/it/xml/fedlex-data-admin-ch-eli-cc-1993-2718_2718_2718-20240123-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2718_2718_2718/20240123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,17 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2718_2718_2718/20200506/it"
 
 RU **1993** 2718; FF **1989** III 413
 
-Testo ufficiale italiano
+Testo ufficiale italiano giusta articolo 13 capoverso 2
 
-Conclusa a Ginevra il 29 ottobre 1971
+Conclusa a Ginevra il 29 ottobre 1971 Approvata dall’Assemblea federale il 4 giugno 1992[^t-1] Ratificata dalla Svizzera con strumento depositato il 24 giugno 1993 Entrata in vigore per la Svizzera il 30 settembre 1993
 
-Approvata dall’Assemblea federale il 4 giugno 1992[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 24 giugno 1993
-
-Entrata in vigore per la Svizzera il 30 settembre 1993
-
-(Stato 6 maggio 2020)
+(Stato 23 gennaio 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. c del DF del 4 giu. 1992 ([RU 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
 
@@ -147,11 +141,12 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite notifica al Dir
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo hanno firmato la presente Convenzione. Fatto a Ginevra il 29 ottobre 197 l. (Seguono le firme)
 
-Campo d’applicazione il 6 maggio 2020**[^t-2]**
+Campo d’applicazione il 23 gennaio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>26 marzo</td><td>2001</td><td>26 giugno</td><td>2001</td></tr>
+<tr><td>Arabia Saudita</td><td>4 aprile</td><td>2023 A</td><td>4 luglio</td><td>2023</td></tr>
 <tr><td>Argentina</td><td>19 marzo</td><td>1973 A</td><td>30 giugno</td><td>1973</td></tr>
 <tr><td>Armenia</td><td>31 ottobre</td><td>2002 A</td><td>31 gennaio</td><td>2003</td></tr>
 <tr><td>Australia</td><td>12 marzo</td><td>1974 A</td><td>22 giugno</td><td>1974</td></tr>
@@ -238,7 +233,7 @@ Campo d’applicazione il 6 maggio 2020**[^t-2]**
 <tr><td>Uzbekistan</td><td>25 gennaio</td><td>2019 A</td><td>25 aprile</td><td>2019</td></tr>
 <tr><td>Venezuela</td><td>30 luglio</td><td>1982 A</td><td>18 novembre</td><td>1982</td></tr>
 <tr><td>Vietnam</td><td>6 aprile</td><td>2005 A</td><td>6 luglio</td><td>2005</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve, dichiarazioni, non sono pubblicate nella RU Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> Dal 4 mar. 1975 al 30 giu. 1997 la Conv. è stata applicata a Hong Kong sulla base di una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è divenuta una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 17 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve, dichiarazioni, non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [www.wipo.int](http://www.wipo.int) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 4 mar. 1975 al 30 giu. 1997 la Conv. è stata applicata a Hong Kong sulla base di una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è divenuta una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 17 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1993 2718](https://fedlex.data.admin.ch/eli/oc/1993/2718_2718_2718), [2003 2505](https://fedlex.data.admin.ch/eli/oc/2003/380), [2006 4203](https://fedlex.data.admin.ch/eli/oc/2006/629), [2009 2505](https://fedlex.data.admin.ch/eli/oc/2009/314), [2016 2619](https://fedlex.data.admin.ch/eli/oc/2016/412)e [2020 1793](https://fedlex.data.admin.ch/eli/oc/2020/357). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1993 2718](https://fedlex.data.admin.ch/eli/oc/1993/2718_2718_2718); [2003 2505](https://fedlex.data.admin.ch/eli/oc/2003/380); [2006 4203](https://fedlex.data.admin.ch/eli/oc/2006/629); [2009 2505](https://fedlex.data.admin.ch/eli/oc/2009/314); [2016 2619](https://fedlex.data.admin.ch/eli/oc/2016/412); [2020 1793](https://fedlex.data.admin.ch/eli/oc/2020/357); [2024 44](https://fedlex.data.admin.ch/eli/oc/2024/44). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

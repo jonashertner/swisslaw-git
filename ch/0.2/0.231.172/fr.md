@@ -3,11 +3,11 @@ sr: "0.231.172"
 title: Convention du 29 octobre 1971 pour la protection des producteurs de phonogrammes contre la reproduction non autorisée de leurs phonogrammes
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718"
 language: fr
-version: 2020-05-06
+version: 2024-01-23
 adopted: 1971-10-29
 in_force: 1993-09-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718/20200506/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2718_2718_2718-20200506-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2718_2718_2718/20200506/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718/20240123/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2718_2718_2718-20240123-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2718_2718_2718/20240123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1993** 2718; FF **1989** III 465
 
 Texte original
 
-Conclue à Genève le 29 octobre 1971
+Conclue à Genève le 29 octobre 1971 Approuvée par l’Assemblée fédérale le 4 juin 1992[^t-1] Instrument de ratification déposé par la Suisse le 24 juin 1993 Entrée en vigueur pour la Suisse le 30 septembre 1993
 
-Approuvée par l’Assemblée fédérale le 4 juin 1992[^t-1]
-
-Instrument de ratification déposé par la Suisse le 24 juin 1993
-
-Entrée en vigueur pour la Suisse le 30 septembre 1993
-
-(Etat le 6 mai 2020)
+(État le 23 janvier 2024)
 
 [^t-1]: Art. 1 al. 1 let. c de l’AF du 4 juin 1992 ([RO 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
 
@@ -145,12 +139,13 @@ Aucune réserve n’est admise à la présente Convention.
 
 *En* *foi* *de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Genève, ce vingt-neuf octobre 1971. (Suivent les signatures)
 
-Champ d’application le 6 mai 2020**[^t-2]**
+Champ d’application le 23 janvier 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>26 mars</td><td>2001</td><td>26 juin</td><td>2001</td></tr>
 <tr><td>Allemagne</td><td>7 février</td><td>1974</td><td>18 mai</td><td>1974</td></tr>
+<tr><td>Arabie saoudite</td><td>4 avril</td><td>2023 A</td><td>4 juillet</td><td>2023</td></tr>
 <tr><td>Argentine</td><td>19 mars</td><td>1973 A</td><td>30 juin</td><td>1973</td></tr>
 <tr><td>Arménie</td><td>31 octobre</td><td>2002 A</td><td>31 janvier</td><td>2003</td></tr>
 <tr><td>Australie</td><td>12 mars</td><td>1974 A</td><td>22 juin</td><td>1974</td></tr>
@@ -164,7 +159,7 @@ Champ d’application le 6 mai 2020**[^t-2]**
 <tr><td>Burkina Faso</td><td>14 octobre</td><td>1987 A</td><td>30 janvier</td><td>1988</td></tr>
 <tr><td>Chili</td><td>15 décembre</td><td>1976 A</td><td>24 mars</td><td>1977</td></tr>
 <tr><td>Chine</td><td>5 janvier</td><td>1993 A</td><td>30 avril</td><td>1993</td></tr>
-<tr><td>[tab] Hong Kong <sup>a</sup></td><td>17 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>17 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Chypre</td><td>25 juin</td><td>1993 A</td><td>30 septembre</td><td>1993</td></tr>
 <tr><td>Colombie</td><td>14 février</td><td>1994</td><td>16 mai</td><td>1994</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>25 juillet</td><td>1977 A</td><td>29 novembre</td><td>1977</td></tr>
@@ -215,12 +210,12 @@ Champ d’application le 6 mai 2020**[^t-2]**
 <tr><td>République tchèque</td><td>30 septembre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>1<sup>er</sup> juillet</td><td>1998 A</td><td>1<sup>er</sup> octobre</td><td>1998</td></tr>
 <tr><td>Royaume-Uni</td><td>5 décembre</td><td>1972</td><td>18 avril</td><td>1973</td></tr>
-<tr><td>[tab] Bermudes</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
-<tr><td>[tab] Gibraltar</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
-<tr><td>[tab] Île de Man</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
-<tr><td>[tab] Îles Cayman</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
-<tr><td>[tab] Îles Vierges britanniques</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
-<tr><td>[tab] Montserrat</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
+<tr><td>Bermudes</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
+<tr><td>Gibraltar</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
+<tr><td>Île de Man</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
+<tr><td>Îles Cayman</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
+<tr><td>Montserrat</td><td>4 décembre</td><td>1974</td><td>4 mars</td><td>1975</td></tr>
 <tr><td>Russie</td><td>9 décembre</td><td>1994 A</td><td>13 mars</td><td>1995</td></tr>
 <tr><td>Sainte-Lucie</td><td>2 janvier</td><td>2001 A</td><td>2 avril</td><td>2001</td></tr>
 <tr><td>Saint-Siège</td><td>4 avril</td><td>1977</td><td>18 juillet</td><td>1977</td></tr>
@@ -236,7 +231,7 @@ Champ d’application le 6 mai 2020**[^t-2]**
 <tr><td>Uruguay</td><td>6 octobre</td><td>1982</td><td>18 janvier</td><td>1983</td></tr>
 <tr><td>Venezuela</td><td>30 juillet</td><td>1982 A</td><td>18 novembre</td><td>1982</td></tr>
 <tr><td>Vietnam</td><td>6 avril</td><td>2005 A</td><td>6 juillet</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 4 mars 1975 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1er juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 17 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1er juillet 1997. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 4 mars 1975 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1er juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 17 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1er juillet 1997. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1993 2718](https://fedlex.data.admin.ch/eli/oc/1993/2718_2718_2718), [2003 2505](https://fedlex.data.admin.ch/eli/oc/2003/380), [2006 4203](https://fedlex.data.admin.ch/eli/oc/2006/629), [2009 2505](https://fedlex.data.admin.ch/eli/oc/2009/314), [2016 2619](https://fedlex.data.admin.ch/eli/oc/2016/412), [2020 1793](https://fedlex.data.admin.ch/eli/oc/2020/357). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1993 2718](https://fedlex.data.admin.ch/eli/oc/1993/2718_2718_2718); [2003 2505](https://fedlex.data.admin.ch/eli/oc/2003/380); [2006 4203](https://fedlex.data.admin.ch/eli/oc/2006/629); [2009 2505](https://fedlex.data.admin.ch/eli/oc/2009/314); [2016 2619](https://fedlex.data.admin.ch/eli/oc/2016/412); [2020 1793](https://fedlex.data.admin.ch/eli/oc/2020/357); [2024 44](https://fedlex.data.admin.ch/eli/oc/2024/44). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

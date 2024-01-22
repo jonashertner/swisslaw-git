@@ -3,11 +3,11 @@ sr: "0.231.172"
 title: Übereinkommen vom 29. Oktober 1971 zum Schutz der Hersteller von Tonträgern gegen die unerlaubte Vervielfältigung ihrer Tonträger
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718"
 language: de
-version: 2020-05-06
+version: 2024-01-23
 adopted: 1971-10-29
 in_force: 1993-09-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718/20200506/de/xml/fedlex-data-admin-ch-eli-cc-1993-2718_2718_2718-20200506-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2718_2718_2718/20200506/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2718_2718_2718/20240123/de/xml/fedlex-data-admin-ch-eli-cc-1993-2718_2718_2718-20240123-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2718_2718_2718/20240123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 24. Juni 1993
 
 In Kraft getreten für die Schweiz am 30. September 1993
 
-(Stand am 6. Mai 2020)
+(Stand am 23. Januar 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. c des BB vom 4. Juni 1992 ([AS 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
 
@@ -42,7 +42,7 @@ in dem Bestreben, bereits in Kraft befindliche internationale Verträge in keine
 
 #### Art. 1
 
-Für die Zwecke dieses Übereinkommens versteht man unter
+Für die Zwecke dieses Übereinkommens versteht man unter:
 
 - a) «Tonträger» jede ausschliesslich auf den Ton beschränkte Festlegung der Töne einer Darbietung oder anderer Töne;
 - b) «Hersteller von Tonträgern» die natürliche oder juristische Person, die zum ersten Mal die Töne einer Darbietung oder andere Töne festlegt;
@@ -129,7 +129,9 @@ Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 
 <sup>(2)</sup> Amtliche Texte werden vom Generaldirektor der Weltorganisation für geistiges Eigentum nach Konsultierung der beteiligten Regierungen in arabischer, deutscher, italienischer, niederländischer und portugiesischer Sprache hergestellt.
 
-<sup>(3)</sup> Der Generalsekretär der Vereinten Nationen notifiziert dem Generaldirektor der Weltorganisation für geistiges Eigentum, dem Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur sowie dem Generaldirektor des Internationalen Arbeitsamts
+<sup>(3)</sup>
+
+Der Generalsekretär der Vereinten Nationen notifiziert dem Generaldirektor der Weltorganisation für geistiges Eigentum, dem Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur sowie dem Generaldirektor des Internationalen Arbeitsamts:
 
 - a) die Unterzeichnungen dieses Übereinkommens;
 - b) die Hinterlegung von Ratifikations‑, Annahme‑ oder Beitrittsurkunden;
@@ -143,7 +145,7 @@ Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Genf am 29. Oktober 1971. (Es folgen die Unterschriften)
 
-Geltungsbereich am 6. Mai 2020**[^t-2]**
+Geltungsbereich am 23. Januar 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -208,6 +210,7 @@ Geltungsbereich am 6. Mai 2020**[^t-2]**
 <tr><td>Peru</td><td>7. Mai</td><td>1985 B</td><td>24. August</td><td>1985</td></tr>
 <tr><td>Rumänien</td><td>1. Juli</td><td>1998 B</td><td>1. Oktober</td><td>1998</td></tr>
 <tr><td>Russland</td><td>9. Dezember</td><td>1994 B</td><td>13. März</td><td>1995</td></tr>
+<tr><td>Saudi-Arabien</td><td>4. April</td><td>2023 B</td><td>4. Juli</td><td>2023</td></tr>
 <tr><td>Schweden</td><td>18. Januar</td><td>1973</td><td>18. April</td><td>1973</td></tr>
 <tr><td>Schweiz</td><td>24. Juni</td><td>1993</td><td>30. September</td><td>1993</td></tr>
 <tr><td>Serbien</td><td>10. März</td><td>2003</td><td>10. Juni</td><td>2003</td></tr>
@@ -234,7 +237,7 @@ Geltungsbereich am 6. Mai 2020**[^t-2]**
 <tr><td>Montserrat</td><td>4. Dezember</td><td>1974</td><td>4. März</td><td>1975</td></tr>
 <tr><td>Vietnam</td><td>6. April</td><td>2005 B</td><td>6. Juli</td><td>2005</td></tr>
 <tr><td>Zypern</td><td>25. Juni</td><td>1993 B</td><td>30. September</td><td>1993</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 4. März 1975 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 17. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: [www.wipo.int/treaties/fr](http://www.wipo.int/treaties/fr) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Vom 4. März 1975 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 17. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1993 2718](https://fedlex.data.admin.ch/eli/oc/1993/2718_2718_2718), [2003 2505](https://fedlex.data.admin.ch/eli/oc/2003/380), [2006 4203](https://fedlex.data.admin.ch/eli/oc/2006/629), [2009 2505](https://fedlex.data.admin.ch/eli/oc/2009/314), [2016 2619](https://fedlex.data.admin.ch/eli/oc/2016/412), [2020 1793](https://fedlex.data.admin.ch/eli/oc/2020/357). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1993 2718](https://fedlex.data.admin.ch/eli/oc/1993/2718_2718_2718); [2003 2505](https://fedlex.data.admin.ch/eli/oc/2003/380); [2006 4203](https://fedlex.data.admin.ch/eli/oc/2006/629); [2009 2505](https://fedlex.data.admin.ch/eli/oc/2009/314); [2016 2619](https://fedlex.data.admin.ch/eli/oc/2016/412); [2020 1793](https://fedlex.data.admin.ch/eli/oc/2020/357); [2024 44](https://fedlex.data.admin.ch/eli/oc/2024/44). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
