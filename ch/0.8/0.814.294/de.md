@@ -3,11 +3,11 @@ sr: "0.814.294"
 title: Internationales Übereinkommen von 2001 vom 23. März 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/888"
 language: de
-version: 2021-11-24
+version: 2024-01-23
 adopted: 2001-03-23
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2013-888-20211124-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20211124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20240123/de/xml/fedlex-data-admin-ch-eli-cc-2013-888-20240123-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20240123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2013** 5527; BBl **2012** 8639
 
 Abgeschlossen in London am 23. März 2001 Von der Bundesversammlung genehmigt am 22. März 2013[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013 Für die Schweiz in Kraft getreten am 24. Dezember 2013
 
-(Stand am 24. November 2021)
+(Stand am 23. Januar 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 22. März 2013 ([AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -394,7 +394,7 @@ Erläuterungen
 
 \5. Die Eintragung «Anschrift» des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) hat die Anschrift des Hauptgeschäftssitzes des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) zu enthalten. Gegebenenfalls ist der Geschäftssitz anzugeben, an dem die Versicherung oder sonstige Sicherheit abgeschlossen wurde.
 
-Geltungsbereich am 24. November 2021**[^t-2]**
+Geltungsbereich am 23. Januar 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -406,14 +406,13 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Australien</td><td>16. März</td><td>2009</td><td>16. Juni</td><td>2009</td></tr>
 <tr><td>Bahamas<sup>\*</sup></td><td>30. Januar</td><td>2008 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Barbados</td><td>15. Oktober</td><td>2009 B</td><td>15. Januar</td><td>2010</td></tr>
-<tr><td>Belarus</td><td>5. September</td><td>2019 B</td><td>5. September</td><td>2019</td></tr>
-<tr><td>Belgien<sup>\*</sup></td><td>11. September</td><td>2009 B</td><td>11. November</td><td>2009</td></tr>
+<tr><td>Belarus</td><td>5. September</td><td>2019 B</td><td>5. Dezember</td><td>2019</td></tr>
+<tr><td>Belgien\*</td><td>11. August</td><td>2009 B</td><td>11. November</td><td>2009</td></tr>
 <tr><td>Belize</td><td>22. August</td><td>2011 B</td><td>22. November</td><td>2011</td></tr>
 <tr><td>Bulgarien<sup>\*</sup></td><td>6. Juli</td><td>2007 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>China<sup>\*</sup></td><td>9. Dezember</td><td>2008 B</td><td>9. März</td><td>2009</td></tr>
 <tr><td>Hongkong</td><td>22. Januar</td><td>2010</td><td>22. Januar</td><td>2010</td></tr>
 <tr><td>Macau</td><td>9. März</td><td>2009</td><td>9. März</td><td>2009</td></tr>
-<tr><td>Cook-Inseln</td><td>21. August</td><td>2008 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Côte d’Ivoire</td><td>8. Juli</td><td>2013 B</td><td>8. Oktober</td><td>2013</td></tr>
 <tr><td>Deutschland</td><td>24. April</td><td>2007</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Dänemark</td><td>23. Juli</td><td>2008</td><td>21. November</td><td>2008</td></tr>
@@ -425,10 +424,13 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Frankreich</td><td>19. Oktober</td><td>2010 B</td><td>19. Januar</td><td>2011</td></tr>
 <tr><td>Gabun</td><td>17. April</td><td>2019 B</td><td>17. Juli</td><td>2019</td></tr>
 <tr><td>Georgien</td><td>13. September</td><td>2018 B</td><td>13. Dezember</td><td>2018</td></tr>
-<tr><td>Grenada</td><td>26. Juli</td><td>2018</td><td>26. Oktober</td><td>2018</td></tr>
+<tr><td>Grenada</td><td>26. Juli</td><td>2018 B</td><td>26. Oktober</td><td>2018</td></tr>
 <tr><td>Griechenland</td><td>22. Dezember</td><td>2005 B</td><td>21. November</td><td>2008</td></tr>
+<tr><td>Guinea-Bissau</td><td>12. Mai</td><td>2022 B</td><td>12. August</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20. Februar</td><td>2019 B</td><td>20. Mai</td><td>2019</td></tr>
+<tr><td>Honduras</td><td>15. Februar</td><td>2022 B</td><td>15. Mai</td><td>2022</td></tr>
 <tr><td>Indonesien</td><td>11. September</td><td>2014 B</td><td>11. Dezember</td><td>2014</td></tr>
+<tr><td>Irak</td><td>8. August</td><td>2023 B</td><td>8. November</td><td>2023</td></tr>
 <tr><td>Iran</td><td>21. November</td><td>2011 B</td><td>21. Februar</td><td>2012</td></tr>
 <tr><td>Irland<sup>\*</sup></td><td>23. Dezember</td><td>2008 B</td><td>23. März</td><td>2009</td></tr>
 <tr><td>Italien</td><td>18. November</td><td>2010</td><td>18. Februar</td><td>2011</td></tr>
@@ -460,11 +462,12 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Namibia</td><td>15. Juli</td><td>2020 B</td><td>15. Oktober</td><td>2020</td></tr>
 <tr><td>Nauru</td><td>23. März</td><td>2020 B</td><td>23. Juni</td><td>2020</td></tr>
 <tr><td>Neuseeland <sup>a</sup></td><td>4. April</td><td>2014 B</td><td>4. Juli</td><td>2014</td></tr>
+<tr><td>Cook-Inseln</td><td>21. August</td><td>2008 B</td><td>21. November</td><td>2008</td></tr>
+<tr><td>Niue</td><td>18. Mai</td><td>2012 B</td><td>18. August</td><td>2012</td></tr>
 <tr><td>Nicaragua</td><td>4. April</td><td>2014 B</td><td>4. Juli</td><td>2014</td></tr>
 <tr><td>Niederlande</td><td>23. Dezember</td><td>2010 B</td><td>23. März</td><td>2011</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>01. Oktober</td><td>2021</td><td>01. Oktober</td><td>2021</td></tr>
 <tr><td>Nigeria</td><td>1. Oktober</td><td>2010 B</td><td>1. Januar</td><td>2011</td></tr>
-<tr><td>Niue</td><td>18. Mai</td><td>2012 B</td><td>18. August</td><td>2012</td></tr>
 <tr><td>Norwegen<sup>\*</sup></td><td>25. März</td><td>2008</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Oman</td><td>30. April</td><td>2020 B</td><td>30. Juli</td><td>2020</td></tr>
 <tr><td>Österreich</td><td>30. Januar</td><td>2013 B</td><td>30. April</td><td>2013</td></tr>
@@ -477,6 +480,7 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Salomoninseln</td><td>15. Oktober</td><td>2020 B</td><td>15. Januar</td><td>2021</td></tr>
 <tr><td>Samoa</td><td>18. Mai</td><td>2004 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>San Marino</td><td>19. April</td><td>2021 B</td><td>19. Juli</td><td>2021</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>15. August</td><td>2022 B</td><td>15. November</td><td>2022</td></tr>
 <tr><td>Saudi-Arabien</td><td>29. Oktober</td><td>2018 B</td><td>29. Januar</td><td>2019</td></tr>
 <tr><td>Schweden<sup>\*</sup></td><td>3. Juni</td><td>2013</td><td>3. September</td><td>2013</td></tr>
 <tr><td>Schweiz</td><td>24. September</td><td>2013 B</td><td>24. Dezember</td><td>2013</td></tr>
@@ -507,10 +511,10 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Insel Man</td><td>21. November</td><td>2008</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Kaimaninseln</td><td>12. Januar</td><td>2011</td><td>12. Januar</td><td>2011</td></tr>
 <tr><td>Vietnam</td><td>18. Juni</td><td>2010 B</td><td>18. September</td><td>2010</td></tr>
-<tr><td>Zypern</td><td>10. Januar</td><td>2005</td><td>21. November</td><td>2008</td></tr>
+<tr><td>Zypern</td><td>10. Januar</td><td>2005 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](https://www.imo.org/en/publications/Pages/English.aspx) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/Treaty.
+[^t-2]: [AS 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773); [2024 47](https://fedlex.data.admin.ch/eli/oc/2024/47). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

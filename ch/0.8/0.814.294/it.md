@@ -3,11 +3,11 @@ sr: "0.814.294"
 title: "Convenzione internazionale del 2001 del 23 marzo 2001 sulla responsabilità civile per i danni derivanti dall'inquinamento determinato dal carburante delle navi (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/888"
 language: it
-version: 2021-11-24
+version: 2024-01-23
 adopted: 2001-03-23
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20211124/it/xml/fedlex-data-admin-ch-eli-cc-2013-888-20211124-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20211124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20240123/it/xml/fedlex-data-admin-ch-eli-cc-2013-888-20240123-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20240123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2013** 5527; FF **2012** 7595
 
 Traduzione
 
-Conclusa a Londra il 23 marzo 2001
+Conclusa a Londra il 23 marzo 2001 Approvata dall’Assemblea federale il 22 marzo 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 24 settembre 2013 Entrata in vigore per la Svizzera il 24 dicembre 2013
 
-Approvata dall’Assemblea federale il 22 marzo 2013[^t-1]
-
-Strumento di adesione depositato dalla Svizzera il 24 settembre 2013
-
-Entrata in vigore per la Svizzera il 24 dicembre 2013
-
-(Stato 24 novembre 2021)
+(Stato 23 gennaio 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 22 mar. 2013 ([RU 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -400,7 +394,7 @@ Note esplicative
 
 \5. La voce «nome e indirizzo dell’assicuratore (o degli assicuratori) e/o del garante (o dei garanti)» deve contenere l’indirizzo della sede principale dell’assicuratore (o degli assicuratori) e/o del garante (o dei garanti). Se necessario, andrà indicato il luogo della sede presso cui l’assicurazione o la garanzia sono state sottoscritte.
 
-Campo d’applicazione il 24 novembre 2021**[^t-2]**
+Campo d’applicazione il 23 gennaio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -412,19 +406,18 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Azerbaigian</td><td>22 giugno</td><td>2010 A</td><td>22 settembre</td><td>2010</td></tr>
 <tr><td>Bahama<sup>\*</sup></td><td>30 gennaio</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Barbados</td><td>15 ottobre</td><td>2009 A</td><td>15 gennaio</td><td>2010</td></tr>
-<tr><td>Belarus</td><td>5 settembre</td><td>2019 A</td><td>5 settembre</td><td>2019</td></tr>
-<tr><td>Belgio<sup>\*</sup></td><td>11 settembre</td><td>2009 A</td><td>11 novembre</td><td>2009</td></tr>
+<tr><td>Belgio<sup>\*</sup></td><td>11 agosto</td><td>2009 A</td><td>11 novembre</td><td>2009</td></tr>
 <tr><td>Belize</td><td>22 agosto</td><td>2011 A</td><td>22 novembre</td><td>2011</td></tr>
+<tr><td>Bielorussia</td><td>5 settembre</td><td>2019 A</td><td>5 dicembre</td><td>2019</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>6 luglio</td><td>2007 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Canada</td><td>2 ottobre</td><td>2009 A</td><td>2 gennaio</td><td>2010</td></tr>
 <tr><td>Ceca, Repubblica</td><td>20 dicembre</td><td>2012 A</td><td>20 marzo</td><td>2013</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>9 dicembre</td><td>2008 A</td><td>9 marzo</td><td>2009</td></tr>
 <tr><td>Hong Kong</td><td>22 gennaio</td><td>2010</td><td>22 gennaio</td><td>2010</td></tr>
 <tr><td>Macao</td><td>9 marzo</td><td>2009</td><td>9 marzo</td><td>2009</td></tr>
-<tr><td>Cipro</td><td>10 gennaio</td><td>2005</td><td>21 novembre</td><td>2008</td></tr>
+<tr><td>Cipro</td><td>10 gennaio</td><td>2005 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Comore</td><td>1° febbraio</td><td>2018 A</td><td>1° maggio</td><td>2018</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>19 maggio</td><td>2014 A</td><td>19 agosto</td><td>2014</td></tr>
-<tr><td>Cook, Isole</td><td>21 agosto</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Corea del Nord</td><td>17 luglio</td><td>2009 A</td><td>17 ottobre</td><td>2009</td></tr>
 <tr><td>Corea del Sud</td><td>28 agosto</td><td>2009 A</td><td>28 novembre</td><td>2009</td></tr>
 <tr><td>Costa d’Avorio</td><td>8 luglio</td><td>2013 A</td><td>8 ottobre</td><td>2013</td></tr>
@@ -446,10 +439,13 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Gibuti</td><td>12 ottobre</td><td>2015 A</td><td>12 gennaio</td><td>2016</td></tr>
 <tr><td>Giordania</td><td>24 marzo</td><td>2010 A</td><td>24 giugno</td><td>2010</td></tr>
 <tr><td>Grecia</td><td>22 dicembre</td><td>2005 A</td><td>21 novembre</td><td>2008</td></tr>
-<tr><td>Grenada</td><td>26 luglio</td><td>2018</td><td>26 ottobre</td><td>2018</td></tr>
+<tr><td>Grenada</td><td>26 luglio</td><td>2018 A</td><td>26 ottobre</td><td>2018</td></tr>
+<tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>20 maggio</td><td>2019</td></tr>
+<tr><td>Honduras</td><td>15 febbraio</td><td>2022 A</td><td>15 maggio</td><td>2022</td></tr>
 <tr><td>Indonesia</td><td>11 settembre</td><td>2014 A</td><td>11 dicembre</td><td>2014</td></tr>
 <tr><td>Iran</td><td>21 novembre</td><td>2011 A</td><td>21 febbraio</td><td>2012</td></tr>
+<tr><td>Iraq</td><td>8 agosto</td><td>2023 A</td><td>8 novembre</td><td>2023</td></tr>
 <tr><td>Irlanda<sup>\*</sup></td><td>23 dicembre</td><td>2008 A</td><td>23 marzo</td><td>2009</td></tr>
 <tr><td>Isole Salomone</td><td>15 ottobre</td><td>2020 A</td><td>15 gennaio</td><td>2021</td></tr>
 <tr><td>Italia</td><td>18 novembre</td><td>2010</td><td>18 febbraio</td><td>2011</td></tr>
@@ -473,9 +469,10 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Nauru</td><td>23 marzo</td><td>2020 A</td><td>23 giugno</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>4 aprile</td><td>2014 A</td><td>4 luglio</td><td>2014</td></tr>
 <tr><td>Nigeria</td><td>1° ottobre</td><td>2010 A</td><td>1° gennaio</td><td>2011</td></tr>
-<tr><td>Niue</td><td>18 maggio</td><td>2012 A</td><td>18 agosto</td><td>2012</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>25 marzo</td><td>2008</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Nuova Zelanda <sup>a</sup></td><td>4 aprile</td><td>2014 A</td><td>4 luglio</td><td>2014</td></tr>
+<tr><td>Cook, Isole</td><td>21 agosto</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
+<tr><td>Niue</td><td>18 maggio</td><td>2012 A</td><td>18 agosto</td><td>2012</td></tr>
 <tr><td>Oman</td><td>30 aprile</td><td>2020 A</td><td>30 luglio</td><td>2020</td></tr>
 <tr><td>Paesi Bassi</td><td>23 dicembre</td><td>2010 A</td><td>23 marzo</td><td>2011</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>1° ottobre</td><td>2021</td><td>1° ottobre</td><td>2021</td></tr>
@@ -496,6 +493,7 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Samoa</td><td>18 maggio</td><td>2004 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>San Marino</td><td>19 aprile</td><td>2021 A</td><td>19 luglio</td><td>2021</td></tr>
 <tr><td>Santa Lucia</td><td>26 maggio</td><td>2016 A</td><td>26 agosto</td><td>2016</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>15 agosto</td><td>2022 A</td><td>15 novembre</td><td>2022</td></tr>
 <tr><td>Seicelle</td><td>23 agosto</td><td>2019 A</td><td>23 novembre</td><td>2019</td></tr>
 <tr><td>Serbia</td><td>8 luglio</td><td>2010 A</td><td>8 ottobre</td><td>2010</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>21 novembre</td><td>2008</td></tr>
@@ -514,8 +512,8 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Ungheria</td><td>30 gennaio</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Vanuatu</td><td>20 agosto</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Vietnam</td><td>18 giugno</td><td>2010 A</td><td>18 settembre</td><td>2010</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO):www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org &gt; Publications &gt; Catalogue et listes de code](http://www.imo.org/), oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www://fedlex.admin.ch/it/Treaty.
+[^t-2]: [RU 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773); [2024 47](https://fedlex.data.admin.ch/eli/oc/2024/47). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
