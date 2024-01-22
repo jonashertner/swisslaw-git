@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Parlamentarische Initiative. Flugtransporte bei Lebensmitteln deklarieren
 document: Vernehmlassungsvorlage
 language: de

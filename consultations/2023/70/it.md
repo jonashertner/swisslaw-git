@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iniziativa Parlamentare. Dichiarare il trasporto aereo di generi alimentari
 document: Progetto posto in consultazione
 language: it

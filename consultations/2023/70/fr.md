@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Initiative parlementaire. Etiquetage des denrées alimentaires. Indiquer si le transport a été effectué par avion
 document: Projet mis en consultation
 language: fr
