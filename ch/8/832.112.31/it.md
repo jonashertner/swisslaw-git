@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2024-01-01
+version: 2024-01-24
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240124/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240124-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240101/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 1° gennaio 2024)
+del 29 settembre 1995 (Stato 24 gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -563,7 +563,7 @@ La procedura di controllo serve a verificare la valutazione dei bisogni e a cont
 I dietisti autorizzati ai sensi dell’articolo 50*a* OAMal e le organizzazioni di dietetica autorizzate ai sensi dell’articolo 52*c* OAMal prestano consulenza, previa prescrizione medica o su mandato medico, ai pazienti affetti dalle malattie seguenti:[^9b-2]
 
 - a.[^9b-3] turbe del metabolismo;
-- b.[^9b-4] obesità (indice di massa corporea ≥ 30 kg/m<sup>2</sup>) e sovrappeso (indice di massa corporea ≥ 25 kg/m<sup>2</sup>), con malattia conseguente che può essere favorevolmente influenzata dalla riduzione del peso;
+- b.[^9b-4] obesità (indice di massa corporea ≥ 30 kg/m<sup>2</sup>) e sovrappeso (indice di massa corporea ≥ 25 kg/m<sup>2</sup>) associato ad una malattia secondaria che la perdita di peso può influenzare favorevolmente;
 - b<sup>bis</sup>.[^9b-5] obesità e sovrappeso nel quadro di una «terapia individuale multiprofessionale ambulatoriale strutturata per bambini e adolescenti affetti da sovrappeso o obesità » di cui all’allegato 1 numero 4;
 - c. malattie cardiovascolari;
 - d. malattie del sistema digestivo;
@@ -578,7 +578,7 @@ I dietisti autorizzati ai sensi dell’articolo 50*a* OAMal e le organizzazioni 
 [^9b-1]: Originario art. 9*a*.
 [^9b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^9b-3]: Nuovo testo giusta il n. I dellʼO del DFI del 18 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
-[^9b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^9b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Correzione del 24. gen. 2024 ([RU 2024 36](https://fedlex.data.admin.ch/eli/oc/2024/36)).
 [^9b-5]: Introdotta dal n. I dellʼO del DFI del 6 dic. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
 
 ### Sezione 3*b*: Consulenza ai diabetici
@@ -2314,9 +2314,7 @@ L’articolo 34*b* capoverso 2 lettera a si applica anche alle procedure che al 
 
 <sup>1</sup> Le disposizioni della modifica del 22 settembre 2023 si applicano anche alle procedure pendenti presso l’UFSP al momento dell’entrata in vigore della presente modifica.
 
-<sup>2</sup> Alle procedure di riesame delle condizioni di ammissione ogni tre anni secondo [^u16-2]fica del 22 settembre 2023 si applica il diritto anteriore.
-
-[^u16-2]: [RU 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)
+<sup>2</sup> Alle procedure di riesame delle condizioni di ammissione ogni tre anni secondo modifica del 22 settembre 2023 si applica il diritto anteriore.
 
 ## Disposizione transitoria della modifica del 29 novembre 2023
 

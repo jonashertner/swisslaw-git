@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2024-01-01
+version: 2024-01-24
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240124/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240124-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).

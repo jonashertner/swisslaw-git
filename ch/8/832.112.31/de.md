@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2024-01-01
+version: 2024-01-24
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240124/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240124-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240101/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Januar 2024)
+vom 29. September 1995 (Stand am 24. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -580,7 +580,7 @@ Die nach Artikel 50*a* zugelassenen Ernährungsberater und Ernährungsberaterinn
 [^9b-1]: Ursprünglich Art. 9*a*.
 [^9b-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^9b-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
-[^9b-4]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^9b-4]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Die Berichtigung vom 24. Jan. 2024 betrifft nur den französischen und italienischen Text ([AS 2024 36](https://fedlex.data.admin.ch/eli/oc/2024/36)).
 [^9b-5]: Eingefügt durch Ziff. I der V des EDI vom 6. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
 [^9b-6]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
 [^9b-7]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
@@ -1195,7 +1195,7 @@ Geburtsgebrechen im Sinne von Absatz 1 sind:
 - 38\. Kongenitale Paralysen und Paresen;
 - 39\. *Ptosis palpebrae congenita*;
 - 40\. Aplasie der Tränenwege;
-- 41\. *Anophtalmus*;
+- 41\. *Anophthalmus*;
 - 42\. Angeborene Tumoren der Augenhöhle;
 - 43\. *Atresia auris congenita* inklusive Anotie und Microtie;
 - 44\. Angeborene Missbildungen des Ohrmuschelskelettes;
@@ -1646,14 +1646,14 @@ Die IT-Gruppen werden in folgende Einheiten nach Artikel 65*d* Absatz 1 KVV eing
   - 2\. Lunge und Atmung (03),
   - 3\. Infektionskrankheiten (08),
   - 4\. Gynaecologika (09),
-  - 5\. Ophtalmologika (11),
+  - 5\. Ophthalmologika (11),
   - 6\. Oto-Rhinolaryngologika (12),
   - 6*a*.[^34d-4] Weitere Arzneimittel Komplementärmedizin (20),
   - 7\. Herz und Kreislauf Komplementärmedizin (52),
   - 8\. Lunge und Atmung Komplementärmedizin (53),
   - 9\. Infektionskrankheiten Komplementärmedizin (58),
   - 10\. Gynaecologika Komplementärmedizin (59),
-  - 11\. Ophtalmologika Komplementärmedizin (61),
+  - 11\. Ophthalmologika Komplementärmedizin (61),
   - 12\. Oto-Rhinolaryngologika Komplementärmedizin (62).[^34d-5]
 
 <sup>2</sup>
