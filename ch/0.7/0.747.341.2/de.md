@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Internationales Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten, vom 7. Juli 1978 (mit Anlage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: de
-version: 2023-01-01
+version: 2024-01-24
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20230101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20240124/de/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20240124-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20240124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Dezember 1987
 
 In Kraft getreten für die Schweiz am 15. März 1988
 
-(Stand am 1. Januar 2023)
+(Stand am 24. Januar 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 9. März 1987 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -268,9 +268,9 @@ Das Übereinkommen ist in einer Urschrift in chinesischer, englischer, französi
 
 Anlage[^t-2]
 
-[^t-2]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden.
+[^t-2]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden
 
-Geltungsbereich am 18. August 2020[^t-3]
+Geltungsbereich am 24. Januar 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -307,7 +307,7 @@ Geltungsbereich am 18. August 2020[^t-3]
 <tr><td>Deutschland</td><td>28. Mai</td><td>1982</td><td>28. April</td><td>1984</td></tr>
 <tr><td>Dominica</td><td>21. Juni</td><td>2000 B</td><td>21. September</td><td>2000</td></tr>
 <tr><td>Dominikanische Republik</td><td>9. Juni</td><td>2016 B</td><td>9. September</td><td>2016</td></tr>
-<tr><td>Dschibuti</td><td>12. Oktober</td><td>2015</td><td>12. Januar</td><td>2016</td></tr>
+<tr><td>Dschibuti</td><td>12. Oktober</td><td>2015 B</td><td>12. Januar</td><td>2016</td></tr>
 <tr><td>Ecuador</td><td>17. Mai</td><td>1988 B</td><td>17. August</td><td>1988</td></tr>
 <tr><td>El Salvador</td><td>29. November</td><td>2012 B</td><td>1. März</td><td>2013</td></tr>
 <tr><td>Eritrea</td><td>22. April</td><td>1996 B</td><td>22. Juli</td><td>1996</td></tr>
@@ -319,12 +319,12 @@ Geltungsbereich am 18. August 2020[^t-3]
 <tr><td>Gambia</td><td>1. November</td><td>1991 B</td><td>1. Februar</td><td>1992</td></tr>
 <tr><td>Georgien</td><td>19. April</td><td>1994 B</td><td>19. Juli</td><td>1994</td></tr>
 <tr><td>Ghana</td><td>26. Januar</td><td>1989 B</td><td>26. April</td><td>1989</td></tr>
-<tr><td>Grenada</td><td>28. Juni</td><td>2004 B</td><td>28. Juni</td><td>2004</td></tr>
+<tr><td>Grenada</td><td>28. Juni</td><td>2004 B</td><td>28. September</td><td>2004</td></tr>
 <tr><td>Griechenland</td><td>22. März</td><td>1983</td><td>28. April</td><td>1984</td></tr>
 <tr><td>Guatemala</td><td>17. September</td><td>2002 B</td><td>17. Dezember</td><td>2002</td></tr>
 <tr><td>Guinea</td><td>5. August</td><td>1994 B</td><td>5. November</td><td>1994</td></tr>
 <tr><td>Guinea-Bissau</td><td>24. Oktober</td><td>2016 B</td><td>24. Januar</td><td>2017</td></tr>
-<tr><td>Guyana</td><td>26. November</td><td>1997</td><td>26. Februar</td><td>1998</td></tr>
+<tr><td>Guyana</td><td>26. November</td><td>1997 B</td><td>26. Februar</td><td>1998</td></tr>
 <tr><td>Haiti</td><td>6. April</td><td>1989 B</td><td>6. Juli</td><td>1989</td></tr>
 <tr><td>Honduras</td><td>24. September</td><td>1985 B</td><td>24. Dezember</td><td>1985</td></tr>
 <tr><td>Indien</td><td>16. November</td><td>1984 B</td><td>16. Februar</td><td>1985</td></tr>
@@ -381,7 +381,6 @@ Geltungsbereich am 18. August 2020[^t-3]
 <tr><td>Namibia</td><td>24. Januar</td><td>2005 B</td><td>24. April</td><td>2005</td></tr>
 <tr><td>Nauru</td><td>18. Juni</td><td>2018 B</td><td>18. September</td><td>2018</td></tr>
 <tr><td>Neuseeland <sup>c</sup></td><td>30. Juli</td><td>1986 B</td><td>30. Oktober</td><td>1986</td></tr>
-<tr><td>Cook-Inseln</td><td>30. Juli</td><td>1986</td><td>30. Oktober</td><td>1986</td></tr>
 <tr><td>Nicaragua</td><td>9. März</td><td>2009 B</td><td>9. Juni</td><td>2009</td></tr>
 <tr><td>Niederlande</td><td>26. Juli</td><td>1985 B</td><td>26. Oktober</td><td>1985</td></tr>
 <tr><td>Aruba</td><td>24. Dezember</td><td>1985</td><td>1. Januar</td><td>1986</td></tr>
@@ -405,6 +404,7 @@ Geltungsbereich am 18. August 2020[^t-3]
 <tr><td>Russland</td><td>9. Oktober</td><td>1979 U</td><td>28. April</td><td>1984</td></tr>
 <tr><td>Salomoninseln</td><td>1. Juni</td><td>1994 B</td><td>1. September</td><td>1994</td></tr>
 <tr><td>Samoa</td><td>24. Mai</td><td>1993 B</td><td>24. August</td><td>1993</td></tr>
+<tr><td>San Marino</td><td>19. April</td><td>2021 B</td><td>19. Juli</td><td>2021</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>29. Oktober</td><td>1998 B</td><td>29. Januar</td><td>1999</td></tr>
 <tr><td>Saudi-Arabien</td><td>29. November</td><td>1990 B</td><td>1. März</td><td>1991</td></tr>
 <tr><td>Schweden</td><td>8. Januar</td><td>1981</td><td>28. April</td><td>1984</td></tr>
@@ -419,7 +419,7 @@ Geltungsbereich am 18. August 2020[^t-3]
 <tr><td>Spanien</td><td>21. Oktober</td><td>1980 B</td><td>28. April</td><td>1984</td></tr>
 <tr><td>Sri Lanka</td><td>22. Januar</td><td>1987 B</td><td>22. April</td><td>1987</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>11. Juni</td><td>2004 B</td><td>11. Juni</td><td>2004</td></tr>
-<tr><td>St. Lucia</td><td>20. Mai</td><td>2004 B</td><td>20. April</td><td>2004</td></tr>
+<tr><td>St. Lucia</td><td>20. Mai</td><td>2004 B</td><td>20. August</td><td>2004</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>28. Juni</td><td>1995 B</td><td>28. September</td><td>1995</td></tr>
 <tr><td>Südafrika</td><td>27. Juli</td><td>1983 B</td><td>28. April</td><td>1984</td></tr>
 <tr><td>Sudan</td><td>26. Februar</td><td>1997 B</td><td>26. Mai</td><td>1997</td></tr>
@@ -427,6 +427,7 @@ Geltungsbereich am 18. August 2020[^t-3]
 <tr><td>Syrien</td><td>20. Juli</td><td>2001 B</td><td>20. Oktober</td><td>2001</td></tr>
 <tr><td>Tansania</td><td>27. Oktober</td><td>1982 B</td><td>28. April</td><td>1984</td></tr>
 <tr><td>Thailand</td><td>19. Juni</td><td>1997 B</td><td>19. September</td><td>1997</td></tr>
+<tr><td>Timor-Leste</td><td>12. Oktober</td><td>2022 B</td><td>12. Januar</td><td>2023</td></tr>
 <tr><td>Togo</td><td>19. Juli</td><td>1989 B</td><td>19. Oktober</td><td>1989</td></tr>
 <tr><td>Tonga</td><td>7. Februar</td><td>1995 B</td><td>7. Mai</td><td>1995</td></tr>
 <tr><td>Trinidad und Tobago</td><td>3. Februar</td><td>1989 B</td><td>3. Mai</td><td>1989</td></tr>
@@ -458,4 +459,4 @@ Geltungsbereich am 18. August 2020[^t-3]
 <tr><td colspan="5"><sup>c</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-3]: [AS 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639); [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837); [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772); [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273); [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401); [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639); [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837); [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772); [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273); [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401); [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658); [2024 45](https://fedlex.data.admin.ch/eli/oc/2024/45). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

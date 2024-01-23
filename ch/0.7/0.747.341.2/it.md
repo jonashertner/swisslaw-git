@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Convenzione internazionale del 1978 sugli standard di addestramento, abilitazione e tenuta della guardia per i marittimi, del 7 luglio 1978 (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: it
-version: 2023-01-01
+version: 2024-01-24
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20230101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20240124/it/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20240124-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20240124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,9 +26,9 @@ Ratificata dalla Svizzera con strumento depositato il 15 dicembre 1987
 
 Entrata in vigore per la Svizzera il 15 marzo 1988
 
-(Stato 1° gennaio 2023)
+(Stato 24 gennaio 2024)
 
-[^t-1]: Art. 1 cpv. 1 lett. b del DF del 9 marzo 1987 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240))
+[^t-1]: Art. 1 cpv. 1 lett. b del DF del 9 mar. 1987 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
 I Contraenti di questa Convenzione,
 
@@ -62,7 +62,7 @@ Ai fini della Convenzione, salvo altrimenti espressamente stabilito:
 - h) per «Peschereccio» si intende una nave impiegata per prendere pesce, balene, foche, trichechi o altre risorse viventi del mare;
 - i) per «Regolamento Radio» si intende il Regolamento Radio allegato, o considerato come se fosse allegato, alla più recente Convenzione Internazionale sulle Telecomunicazioni che sia in vigore in qualsiasi momento.
 
-[^II-1]: Dopo il 22 maggio 1982, l’Organizzazione porta il nome d’«Organizzazione Marittima Internazionale».
+[^II-1]: Dopo il 22 mag. 1982, l’Organizzazione porta il nome d’«Organizzazione Marittima Internazionale».
 
 #### Art. III
 
@@ -281,7 +281,7 @@ Allegato[^t-2]
 
 [^t-2]: Il presente All. ed i suoi emendamenti, non sono pubblicati nella RU ([RU 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
 
-Campo d’applicazione il 18 agosto 2020[^t-3]
+Campo d’applicazione il 24 gennaio 2024[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -291,7 +291,7 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 <tr><td>Antigua e Barbuda</td><td>5 febbraio</td><td>1997 A</td><td>5 maggio</td><td>1997</td></tr>
 <tr><td>Arabia Saudita</td><td>29 novembre</td><td>1990 A</td><td>1° marzo</td><td>1991</td></tr>
 <tr><td>Argentina</td><td>6 ottobre</td><td>1982 A</td><td>28 aprile</td><td>1984</td></tr>
-<tr><td>Australia<sup>\*</sup></td><td>7 novembre</td><td>1983</td><td>28 aprile</td><td>1984</td></tr>
+<tr><td>Australia\*</td><td>7 novembre</td><td>1983</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>Austria</td><td>29 gennaio</td><td>1997 A</td><td>29 aprile</td><td>1997</td></tr>
 <tr><td>Azerbaigian</td><td>1° luglio</td><td>1997 A</td><td>1° ottobre</td><td>1997</td></tr>
 <tr><td>Bahamas</td><td>7 giugno</td><td>1983 A</td><td>28 aprile</td><td>1984</td></tr>
@@ -307,11 +307,11 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 <tr><td>Bulgaria</td><td>31 marzo</td><td>1982 A</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>Cambogia</td><td>8 giugno</td><td>2001 A</td><td>8 settembre</td><td>2001</td></tr>
 <tr><td>Camerun</td><td>6 giugno</td><td>1989 A</td><td>6 settembre</td><td>1989</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>6 novembre</td><td>1987 A</td><td>6 febbraio</td><td>1988</td></tr>
+<tr><td>Canada\*</td><td>6 novembre</td><td>1987 A</td><td>6 febbraio</td><td>1988</td></tr>
 <tr><td>Capo Verde</td><td>18 settembre</td><td>1989 A</td><td>18 dicembre</td><td>1989</td></tr>
 <tr><td>Ceca, Repubblica</td><td>19 ottobre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td>Cile<sup>\*</sup></td><td>9 giugno</td><td>1987 A</td><td>9 settembre</td><td>1987</td></tr>
-<tr><td>Cina<sup>\*</sup></td><td>8 giugno</td><td>1981</td><td>28 aprile</td><td>1984</td></tr>
+<tr><td>Cile\*</td><td>9 giugno</td><td>1987 A</td><td>9 settembre</td><td>1987</td></tr>
+<tr><td>Cina\*</td><td>8 giugno</td><td>1981</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>Hong Kong <sup>a</sup></td><td>5 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Macao</td><td>18 maggio</td><td>2005</td><td>18 maggio</td><td>2005</td></tr>
 <tr><td>Cipro</td><td>28 marzo</td><td>1985 A</td><td>28 giugno</td><td>1985</td></tr>
@@ -326,7 +326,7 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 <tr><td>Costa Rica</td><td>6 giugno</td><td>2018 A</td><td>6 settembre</td><td>2018</td></tr>
 <tr><td>Croazia</td><td>27 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>5 dicembre</td><td>1989 A</td><td>5 marzo</td><td>1990</td></tr>
-<tr><td>Danimarca<sup>\*</sup> <sup>b</sup></td><td>20 gennaio</td><td>1981</td><td>28 aprile</td><td>1984</td></tr>
+<tr><td>Danimarca\* <sup>b</sup></td><td>20 gennaio</td><td>1981</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>[tab] Faeröer, Isole</td><td>20 gennaio</td><td>1981</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>Dominica</td><td>21 giugno</td><td>2000 A</td><td>21 settembre</td><td>2000</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>9 giugno</td><td>2016 A</td><td>9 settembre</td><td>2016</td></tr>
@@ -348,15 +348,15 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 <tr><td>Ghana</td><td>26 gennaio</td><td>1989 A</td><td>26 aprile</td><td>1989</td></tr>
 <tr><td>Giamaica</td><td>19 febbraio</td><td>1987 A</td><td>19 maggio</td><td>1987</td></tr>
 <tr><td>Giappone</td><td>27 maggio</td><td>1982 A</td><td>28 aprile</td><td>1984</td></tr>
-<tr><td>Gibuti</td><td>12 ottobre</td><td>2015</td><td>12 gennaio</td><td>2016</td></tr>
+<tr><td>Gibuti</td><td>12 ottobre</td><td>2015 A</td><td>12 gennaio</td><td>2016</td></tr>
 <tr><td>Giordania</td><td>17 maggio</td><td>2000 A</td><td>17 agosto</td><td>2000</td></tr>
 <tr><td>Grecia</td><td>22 marzo</td><td>1983</td><td>28 aprile</td><td>1984</td></tr>
-<tr><td>Grenada</td><td>28 giugno</td><td>2004 A</td><td>28 giugno</td><td>2004</td></tr>
+<tr><td>Grenada</td><td>28 giugno</td><td>2004 A</td><td>28 settembre</td><td>2004</td></tr>
 <tr><td>Guatemala</td><td>17 settembre</td><td>2002 A</td><td>17 dicembre</td><td>2002</td></tr>
 <tr><td>Guinea</td><td>5 agosto</td><td>1994 A</td><td>5 novembre</td><td>1994</td></tr>
 <tr><td>Guinea equatoriale</td><td>24 aprile</td><td>1996 A</td><td>24 luglio</td><td>1996</td></tr>
 <tr><td>Guinea-Bissau</td><td>24 ottobre</td><td>2016 A</td><td>24 gennaio</td><td>2017</td></tr>
-<tr><td>Guyana</td><td>26 novembre</td><td>1997</td><td>26 febbraio</td><td>1998</td></tr>
+<tr><td>Guyana</td><td>26 novembre</td><td>1997 A</td><td>26 febbraio</td><td>1998</td></tr>
 <tr><td>Haiti</td><td>6 aprile</td><td>1989 A</td><td>6 luglio</td><td>1989</td></tr>
 <tr><td>Honduras</td><td>24 settembre</td><td>1985 A</td><td>24 dicembre</td><td>1985</td></tr>
 <tr><td>India</td><td>16 novembre</td><td>1984 A</td><td>16 febbraio</td><td>1985</td></tr>
@@ -400,9 +400,8 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 <tr><td>Niue</td><td>18 maggio</td><td>2012 A</td><td>18 agosto</td><td>2012</td></tr>
 <tr><td>Norvegia</td><td>18 gennaio</td><td>1982</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>Nuova Zelanda <sup>c</sup></td><td>30 luglio</td><td>1986 A</td><td>30 ottobre</td><td>1986</td></tr>
-<tr><td>[tab] Cook, Isole</td><td>30 luglio</td><td>1986</td><td>30 ottobre</td><td>1986</td></tr>
 <tr><td>Oman</td><td>24 settembre</td><td>1990 A</td><td>24 dicembre</td><td>1990</td></tr>
-<tr><td>Paesi Bassi<sup>\*</sup></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Paesi Bassi\*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Aruba</td><td>24 dicembre</td><td>1985</td><td>1° gennaio</td><td>1986</td></tr>
 <tr><td>Curaçao</td><td>26 luglio</td><td>1985</td><td>26 ottobre</td><td>1985</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>26 luglio</td><td>1985</td><td>26 ottobre</td><td>1985</td></tr>
@@ -424,10 +423,11 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 <tr><td>Romania</td><td>11 gennaio</td><td>1993 A</td><td>11 aprile</td><td>1993</td></tr>
 <tr><td>Russia</td><td>9 ottobre</td><td>1979 F</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>11 giugno</td><td>2004 A</td><td>11 giugno</td><td>2004</td></tr>
-<tr><td>Saint Lucia</td><td>20 maggio</td><td>2004 A</td><td>20 aprile</td><td>2004</td></tr>
+<tr><td>Saint Lucia</td><td>20 maggio</td><td>2004 A</td><td>20 agosto</td><td>2004</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>28 giugno</td><td>1995 A</td><td>28 settembre</td><td>1995</td></tr>
 <tr><td>Salomone, Isole</td><td>1° giugno</td><td>1994 A</td><td>1° settembre</td><td>1994</td></tr>
 <tr><td>Samoa</td><td>24 maggio</td><td>1993 A</td><td>24 agosto</td><td>1993</td></tr>
+<tr><td>San Marino</td><td>19 aprile</td><td>2021 A</td><td>19 luglio</td><td>2021</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>29 ottobre</td><td>1998 A</td><td>29 gennaio</td><td>1999</td></tr>
 <tr><td>Seicelle</td><td>22 agosto</td><td>1988 A</td><td>22 novembre</td><td>1988</td></tr>
 <tr><td>Senegal</td><td>16 gennaio</td><td>1997 A</td><td>16 aprile</td><td>1997</td></tr>
@@ -447,6 +447,7 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 <tr><td>Svizzera</td><td>15 dicembre</td><td>1987</td><td>15 marzo</td><td>1988</td></tr>
 <tr><td>Tanzania</td><td>27 ottobre</td><td>1982 A</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>Thailandia</td><td>19 giugno</td><td>1997 A</td><td>19 settembre</td><td>1997</td></tr>
+<tr><td>Timor Est</td><td>12 ottobre</td><td>2022 A</td><td>12 gennaio</td><td>2023</td></tr>
 <tr><td>Togo</td><td>19 luglio</td><td>1989 A</td><td>19 ottobre</td><td>1989</td></tr>
 <tr><td>Tonga</td><td>7 febbraio</td><td>1995 A</td><td>7 maggio</td><td>1995</td></tr>
 <tr><td>Trinidad e Tobago</td><td>3 febbraio</td><td>1989 A</td><td>3 maggio</td><td>1989</td></tr>
@@ -462,7 +463,7 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 <tr><td>Venezuela</td><td>13 ottobre</td><td>1987 A</td><td>13 gennaio</td><td>1988</td></tr>
 <tr><td>Vietnam</td><td>18 dicembre</td><td>1990 A</td><td>18 marzo</td><td>1991</td></tr>
 <tr><td>Yemen</td><td>14 febbraio</td><td>2005 A</td><td>14 maggio</td><td>2005</td></tr>
-<tr><td colspan="5">\* Riserve e dicharazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dicharazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 3 nov. 1984 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale della Cina. In virtù della dichiarazione cinese del 5 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
 <tr><td colspan="5"><sup>b</sup> La Conv. non vale per Groenlandia.</td></tr>
 <tr><td colspan="5"><sup>c</sup> La Conv. non vale per Tokelau.</td></tr>
@@ -470,4 +471,4 @@ Campo d’applicazione il 18 agosto 2020[^t-3]
 
 - [tab]
 
-[^t-3]: [RU 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639), [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837), [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772), [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273), [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57), [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401), [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-3]: [RU 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639); [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837); [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772); [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273); [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401); [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658); [2024 45](https://fedlex.data.admin.ch/eli/oc/2024/45). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
