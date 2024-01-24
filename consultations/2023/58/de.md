@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesbeschluss über die finanziellen Mittel für die Landwirtschaft in den Jahren 2026-2029
 document: Vernehmlassungsvorlage
 language: de

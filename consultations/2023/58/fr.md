@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Arrêté fédéral sur les moyens financiers destinés à l’agriculture pour les années 2026 à 2029
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Decreto federale che stanzia mezzi finanziari a favore dell’agricoltura per gli anni 2026-2029
 document: Progetto posto in consultazione
 language: it
