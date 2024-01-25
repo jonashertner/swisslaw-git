@@ -3,11 +3,11 @@ sr: "0.973.269.12"
 title: Rahmenabkommen vom 28. August 2023 zwischen dem Schweizerischen Bundesrat und der Republik von Slowenien über die Umsetzung des zweiten Schweizer Beitrags an ausgewählte Mitgliedstaaten der Europäischen Union zur Verringerung der wirtschaftlichen und sozialen Ungleichheiten in der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/797"
 language: de
-version: 2023-08-28
+version: 2024-01-26
 adopted: 2023-08-28
 in_force: 2023-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/797/20230828/de/xml/fedlex-data-admin-ch-eli-cc-2023-797-20230828-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/797/20230828/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/797/20240126/de/xml/fedlex-data-admin-ch-eli-cc-2023-797-20240126-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/797/20240126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,11 @@ AS **2023** 797
 
 Übersetzung
 
-Abgeschlossen am 28. August 2023 Vorläufig angewendet ab dem 28. August 2023
+Abgeschlossen am 28. August 2023 Vorläufig angewendet ab dem 28. August 2023 In Kraft getreten durch Notenaustausch am 26. Januar 2024[^t-1]
 
-(Stand am 28. August 2023)
+(Stand am 26. Januar 2024)
+
+[^t-1]: [AS 2024 50](https://fedlex.data.admin.ch/eli/oc/2024/50)
 
 Der Schweizerische Bundesrat (nachfolgend als «Schweiz» bezeichnet) und die Regierung der Republik Slowenien (nachfolgend als «Slowenien» bezeichnet) nachfolgend gemeinsam als «Parteien» und einzeln als «Partei» bezeichnet,
 

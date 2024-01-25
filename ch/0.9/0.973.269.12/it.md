@@ -3,11 +3,11 @@ sr: "0.973.269.12"
 title: Accordo quadro del 28 agosto 2023 tra il Consiglio federale svizzero e il Governo della Repubblica di Slovenia concernente l’attuazione del secondo contributo svizzero ad alcuni Stati membri dell’Unione europea per la riduzione delle disparità economiche e sociali nell’Unione europea
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/797"
 language: it
-version: 2023-08-28
+version: 2024-01-26
 adopted: 2023-08-28
 in_force: 2023-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/797/20230828/it/xml/fedlex-data-admin-ch-eli-cc-2023-797-20230828-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/797/20230828/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/797/20240126/it/xml/fedlex-data-admin-ch-eli-cc-2023-797-20240126-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/797/20240126/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,9 +18,11 @@ RU **2023** 797
 
 Traduzione
 
-Concluso il 28 agosto 2023 Applicato provvisoriamente dal 28 agosto 2023
+Concluso il 28 agosto 2023 Applicato provvisoriamente dal 28 agosto 2023 Entrato in vigore con scambio di note il 26 gennaio 2024[^t-1]
 
-(Stato 28 agosto 2023)
+(Stato 26 gennaio 2024)
+
+[^t-1]: [RU 2024 50](https://fedlex.data.admin.ch/eli/oc/2024/50)
 
 Il Consiglio federale svizzero (in seguito denominato «Svizzera») e il Governo della Repubblica di Slovenia (in seguito denominato «Slovenia»), in seguito congiuntamente denominati «Parti» e individualmente «Parte»,
 

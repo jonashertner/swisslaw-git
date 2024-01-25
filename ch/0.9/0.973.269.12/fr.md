@@ -3,11 +3,11 @@ sr: "0.973.269.12"
 title: Accord-cadre du 28 août 2023 entre le Conseil fédéral suisse et le Gouvernement de la République de Slovénie sur la mise en œuvre de la deuxième contribution de la Suisse en faveur de certains États membres de l’Union européenne visant à réduire les disparités économiques et sociales au sein de l’Union européenne
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/797"
 language: fr
-version: 2023-08-28
+version: 2024-01-26
 adopted: 2023-08-28
 in_force: 2023-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/797/20230828/fr/xml/fedlex-data-admin-ch-eli-cc-2023-797-20230828-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/797/20230828/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/797/20240126/fr/xml/fedlex-data-admin-ch-eli-cc-2023-797-20240126-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/797/20240126/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,11 @@ Traduction
 
 Conclu le 28 août 2023 Appliqué provisoirement dès le 28 août 2023
 
-(État le 28 août 2023)
+Entrée en vigueur par échange de notes le 26 janvier 2024[^t-1]
+
+(État le 26 janvier 2024)
+
+[^t-1]: [RO 2024 50](https://fedlex.data.admin.ch/eli/oc/2024/50)
 
 Le Conseil fédéral suisse (ci-après dénommé «la Suisse») et le Gouvernement de la République de Slovénie
 
