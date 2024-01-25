@@ -4,11 +4,12 @@ number: "450.110"
 title: Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen
 language: de
 version: 2013-03-01
+corrected: 2024-01-26
 version_adopted: 2010-04-20
 adopted: 2010-04-20
 in_force: 2013-03-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/450.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3355/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2858/pdf_file"
 text: pdf
 ---
 

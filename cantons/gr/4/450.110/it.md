@@ -1,20 +1,21 @@
 ---
 canton: GR
 number: "450.110"
-title: "Accordo intercantonale sull'armonizzazione dei criteri per la concessione delle borse di studio"
+title: "Accordo intercantonale sull'armonizzazione dei criteri per la concessione delle borse di studi"
 language: it
 version: 2013-03-01
+corrected: 2024-01-26
 version_adopted: 2010-04-20
 adopted: 2010-04-20
 in_force: 2013-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/450.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3355/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2858/pdf_file"
 text: pdf
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
 
-# Accordo intercantonale sull'armonizzazione dei criteri per la concessione delle borse di studio
+# Accordo intercantonale sull'armonizzazione dei criteri per la concessione delle borse di studi
 
 del 18 giugno 2009
 
