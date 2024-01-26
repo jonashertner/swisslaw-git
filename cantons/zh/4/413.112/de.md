@@ -4,11 +4,11 @@ number: "413.112"
 title: Mittel- und Berufsschullehrpersonenvollzugsverordnung (MBVVO)
 short: MBVVO
 language: de
-version: "2022-10-01"
-nachtrag: "119"
-valid_until: 2024-01-26
+version: "2024-01-01"
+nachtrag: "124"
+valid_until: 2026-08-01
 adopted: 1999-05-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-124.html"
 text: pdf
 ---
 
@@ -35,7 +35,7 @@ Der Regierungsrat beschliesst:
 
 § 3.[^hIAllgemeineBestim-5]
 
-[^hIAllgemeineBestim-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^hIAllgemeineBestim-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 [^hIAllgemeineBestim-2]: LS 177.10.
 [^hIAllgemeineBestim-3]: LS 413.111; heute: Mittelschul- und Berufsschullehrerverordnung (MBVO).
 [^hIAllgemeineBestim-4]: LS 177.111.
@@ -55,7 +55,7 @@ Die Bildungsdirektion setzt für jede Schule einen Stellenplan für die Schullei
 
 - b. Gewährung der Zulagen gemäss §§ 13 und 14 MBVO[^4-2].
 
-[^4-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^4-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 [^4-2]: LS 413.111; heute: Mittelschul- und Berufsschullehrerverordnung (MBVO).
 
 #### § 6
@@ -85,7 +85,7 @@ Der Altersrücktritt erfolgt auf Ende eines Semesters.
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 24 - 124
 
 ### III. Lohn
 
@@ -103,7 +103,7 @@ Der Altersrücktritt erfolgt auf Ende eines Semesters.
 
 Praktika an den Schulen zur Erlangung des Diploms für das Höhere Lehramt werden nicht vergütet.
 
-[^10-1]: Fassung gemäss RRB vom 26. Oktober 2016 (OS 71, 479; ABl 2016-11-04). In Kraft seit 1. Januar 2017. 1. 1. 23 - 119 7
+[^10-1]: Fassung gemäss RRB vom 26. Oktober 2016 (OS 71, 479; ABl 2016-11-04). In Kraft seit 1. Januar 2017.
 
 #### § 11
 
@@ -127,7 +127,7 @@ Praktika an den Schulen zur Erlangung des Diploms für das Höhere Lehramt werde
 
 § 13 a.[^11-4] Das Mittelschul- und Berufsbildungsamt ist zuständig für die Bewilligung der Lohnfortzahlung gemäss § 99 Abs. 4 VVO[^11-5].
 
-[^11-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^11-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 [^11-2]: Aufgehoben durch RRB vom 5. Mai 2010 (OS 65, 890; ABl 2010, 2623). In Kraft seit 1. Januar 2011.
 [^11-3]: Fassung gemäss RRB vom 16. März 2022 (OS 77, 402; ABl 2022-03-25). In Kraft seit 1. Oktober 2022.
 [^11-4]: Eingefügt durch RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
@@ -171,14 +171,14 @@ Normal- Kurzlektion lektion a.[^14-1] an Mittelschulen:
 
 **3**
 
-- 1\. 1. 23 - 119 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
+- 1\. 4. 24 - 124 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
 
 **Unterricht und Ferien**
 
 <sup>2</sup> Den Lehrpersonen der Lehrwerkstätten steht im Kalenderjahr ein Ferienanspruch von sieben Wochen zu.
 
 [^14-1]: Fassung gemäss RRB vom 7. Juni 2016 (OS 72, 386; ABl 2016-06-24). In Kraft seit 1. August 2018.
-[^14-2]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^14-2]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 [^14-3]: LS 177.111.
 [^14-4]: Fassung gemäss RRB vom 29. Januar 2003 (OS 58, 19). In Kraft seit Beginn des Schuljahres 2003/2004.
 
@@ -199,7 +199,7 @@ Normal- Kurzlektion lektion a.[^14-1] an Mittelschulen:
 § 18. Die Schulleitung kann einer unbefristet angestellten Lehrperson mit einem Teilpensum mit deren Einwilligung jeweils auf Semesterbeginn Zusatzlektionen bis zum vollen Pensum des betreffenden Faches zuteilen.
 
 [^17-1]: Eingefügt durch RRB vom 7. Juni 2016 (OS 72, 386; ABl 2016-06-24). In Kraft seit 1. August 2017.
-[^17-2]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^17-2]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 
 #### § 19
 
@@ -223,7 +223,7 @@ Für Stellvertretung kann jede unbefristet angestellte Lehrperson in Anspruch ge
 
 <sup>5</sup> Urlaube gemäss Abs. 3 und 4 werden längstens bis zum Erreichen des 58. Altersjahres gewährt.
 
-[^20-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^20-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 
 #### § 21
 
@@ -233,7 +233,7 @@ Für Stellvertretung kann jede unbefristet angestellte Lehrperson in Anspruch ge
 
 <sup>2</sup> Die Lohnkürzung erfolgt nach Massgabe der tatsächlichen Ausfallwochen gemäss § 9 Abs. 1 der MBVO[^21-1],[^21-2]. Diese entfällt bei entsprechender Belastung der Stundenbuchhaltung.
 
-[^21-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^21-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 [^21-2]: LS 413.111; heute: Mittelschul- und Berufsschullehrerverordnung (MBVO).
 [^21-3]: LS 177.111.
 
@@ -243,17 +243,17 @@ Für Stellvertretung kann jede unbefristet angestellte Lehrperson in Anspruch ge
 
 Die gemäss §§ 85–90 der VVO[^21-1],[^21-3] vorgesehenen Urlaube können nicht kompensiert werden, falls sie nicht in die Unterrichtszeit fallen.
 
-**Urlaub des anderen Elternteils**
+**Urlaub des anderen Elternteils und verlängerter Mutterschaftsurlaub**
 
-§ 22 a.[^22-1] Lehrpersonen müssen den bezahlten Urlaub gemäss § 96 a VVO[^22-2] wochenweise beziehen.
+§ 22 a.[^22-1] Lehrpersonen müssen die bezahlten Urlaube gemäss §§ 96 Abs. 5 und 96 a VVO[^22-2] wochenweise beziehen.
 
 **Tätigkeit an andern Schulen und Institutionen**
 
 § 23.[^22-3] Das Mittelschul- und Berufsbildungsamt kann für Tätigkeiten von Lehrpersonen an anderen öffentlichen Schulen sowie kantonalen oder eidgenössischen Institutionen und Konferenzen Entlastungen bewilligen.
 
-[^22-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 467; ABl 2022-09-09). In Kraft seit 1. Juli 2022.
+[^22-1]: Fassung gemäss RRB vom 10. Januar 2024 (OS 79, 14; ABl 2024-01-19). In Kraft seit 1. Januar 2024.
 [^22-2]: LS 177.111.
-[^22-3]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^22-3]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 
 #### § 24
 
@@ -273,18 +273,14 @@ Zur Erteilung einer Bewilligung sind zuständig:
 
 § 25 a.[^24-2] Bietet eine Schule keine Verpflegungsmöglichkeit an, erhalten die dort tätigen Lehrpersonen, Vikarinnen und Vikare monatlich einen Beitrag an die Mittagsverpflegung. Dieser bemisst sich nach dem Umfang ihres Pensums und beträgt bei einem Vollpensum Fr. 100.
 
-[^24-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
-[^24-2]: Eingefügt durch RRB vom 7. Dezember 2011 (OS 66, 1015; ABl 2011, 3626). In Kraft seit 1. Januar 2012.
+**5**
 
-#### § 26
+- 1\. 4. 24 - 124 § 26. Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausland.
 
 **Auslandreisen**
 
-Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausland.
-
-**5**
-
-- 1\. 1. 23 - 119
+[^24-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^24-2]: Eingefügt durch RRB vom 7. Dezember 2011 (OS 66, 1015; ABl 2011, 3626). In Kraft seit 1. Januar 2012.
 
 ### VI. Schulleitungen
 
@@ -342,7 +338,7 @@ Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausla
 
 Die Bildungsdirektion regelt für die Schuljahre 1999/2000 bis 2001/2002 das Verfahren für die Mitarbeiterbeurteilung.
 
-[^31-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^31-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
 [^31-2]: LS 413.111; heute: Mittelschul- und Berufsschullehrerverordnung (MBVO).
 [^31-3]: Genehmigt am 7. Juni 1999.
 
@@ -362,3 +358,4 @@ Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, blei
 
 - [3] LS 177.11.
 - [19] Eingefügt durch RRB vom 31. März 2021 (OS 76, 168; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
+- [21] Fassung gemäss RRB vom 31. August 2022 (OS 77, 467; ABl 2022-09-09). In Kraft seit 1. Juli 2022.
