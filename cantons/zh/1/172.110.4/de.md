@@ -4,11 +4,10 @@ number: "172.110.4"
 title: Organisationsverordnung der Volkswirtschaftsdirektion (OV VD)
 short: OV VD
 language: de
-version: "2021-10-01"
-nachtrag: "115"
-valid_until: 2024-01-26
+version: "2024-01-01"
+nachtrag: "124"
 adopted: 2010-04-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_4-2010_04_15-2010_05_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_4-2010_04_15-2010_05_01-124.html"
 text: pdf
 ---
 
@@ -38,15 +37,19 @@ verfügt:
 
 **Gliederung der Direktion**
 
-<sup>1</sup> Die Direktion gliedert sich in folgende Verwaltungseinheiten:
+<sup>1</sup> Die Direktion gliedert sich in folgende Verwaltungseinheiten:<sup>15</sup> a. Generalsekretariat (GS) b. Ämter:
 
-- a. Generalsekretariat, b.<sup>12</sup> Ämter: Amt für Mobilität (AFM) und Amt für Wirtschaft und Arbeit (AWA).
+- Amt für Arbeit (AFA)
+
+- Amt für Mobilität (AFM)
+
+- Amt für Wirtschaft (AWI)
 
 <sup>2</sup> Die Direktion des Zürcher Verkehrsverbundes (ZVV) ist administrativ angegliedert.
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 24 - 124
 
 ### 2. Teil: Organisation
 
@@ -70,13 +73,11 @@ verfügt:
 
 - g. führt die direkt Unterstellten und legt die Führungsinstrumente der Direktion fest.
 
-<sup>2</sup> Sie oder er wird in administrativen Belangen einschliesslich Terminplanung durch das Vorzimmer unterstützt.
-
-#### § 4
+<sup>2</sup> Sie oder er wird in administrativen Belangen einschliesslich Terminplanung durch die Direktionsassistenz unterstützt.<sup>15</sup>
 
 **Unterstellungen**
 
-Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterstellte die Generalsekretärin oder den Generalsekretär, die Leiterinnen und Leiter der Verwaltungseinheiten, sowie das Vorzimmer. Die Direktorin oder der Direktor des ZVV ist nach Massgabe von § 2 Abs. 2 unterstellt.
+§ 4.<sup>15</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterstellte die Generalsekretärin oder den Generalsekretär, die Leiterinnen und Leiter der Verwaltungseinheiten sowie die Direktionsassistenz. Die Direktorin oder der Direktor des ZVV ist nach Massgabe von § 2 Abs. 2 unterstellt.
 
 ### B. Generalsekretariat
 
@@ -130,15 +131,13 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterste
 
 <sup>4</sup> Sie oder er kann ihrer oder seiner Stellvertretung im Einvernehmen mit der Direktionsvorsteherin oder dem Direktionsvorsteher eigene Aufgaben zur selbstständigen Erledigung übertragen.
 
-**3**
-
-- 1\. 1. 22 - 115
-
 <sup>5</sup> Sie oder er führt als Direktunterstellte die stellvertretende Generalsekretärin oder den stellvertretenden Generalsekretär sowie die übrigen Mitglieder der Geschäftsleitung des Generalsekretariats.
 
-**Stellvertretende Generalsekretärin oder stellvertretender Generalsekretär**
+**3**
 
-§ 7.<sup>12</sup> Die stellvertretende Generalsekretärin oder der stellvertretende Generalsekretär leitet den Fach- und Rechtsdienst sowie das Sekretariat des Generalsekretariats, übernimmt von der Generalsekretärin oder dem Generalsekretär nach Absprache feste Stellvertretungsaufgaben und vertritt die Generalsekretärin oder den Generalsekretär bei deren bzw. dessen Verhinderung oder Abwesenheit.
+- 1\. 4. 24 - 124 § 7.<sup>12</sup> Die stellvertretende Generalsekretärin oder der stellvertretende Generalsekretär leitet den Fach- und Rechtsdienst sowie das Sekretariat des Generalsekretariats, übernimmt von der Generalsekretärin oder dem Generalsekretär nach Absprache feste Stellvertretungsaufgaben und vertritt die Generalsekretärin oder den Generalsekretär bei deren bzw. dessen Verhinderung oder Abwesenheit.
+
+**Stellvertretende Generalsekretärin oder stellvertretender Generalsekretär**
 
 § 8.<sup>13</sup>
 
@@ -198,55 +197,61 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterste
 
 <sup>2</sup> Die Leiterin oder der Leiter ist Kommunikationsbeauftragte bzw. Kommunikationsbeauftragter der Direktion. Zur Erfüllung der Aufgaben für die Direktion kann sie oder er den Ämtern Aufträge mit Erledigungsvorgaben erteilen.
 
-**Personal (PER)**
+**Human Resources (HR)**
 
-§ 12.<sup>12</sup> <sup>1</sup> Die Abteilung Personal nimmt insbesondere folgende Aufgaben wahr:
+§ 12.<sup>15</sup> <sup>1</sup> Die Abteilung HR erfüllt insbesondere folgende Aufgaben:
 
-- a. Beratung und fachliche Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers und der Verwaltungseinheiten in personalrechtlichen und personalpolitischen Belangen,
+- a. Beratung und Begleitung der Vorgesetzten und Mitarbeitenden in allen HR-Prozessen,
+
+- b. HR-Administration, operatives HR-Management sowie HR-Controlling,
+
+- c. Personalentwicklungsmassnahmen und Aus- und Weiterbildungen,
+
+- d. Entwicklung und Umsetzung der HR-Strategie in der Direktion,
 
 **5**
 
-- 1\. 1. 22 - 115
-
-- b. Entwicklung und Führungsunterstützung bei der Umsetzung der Personalmanagementstrategie der Direktion,
-
-- c. Entwicklung und Führungsunterstützung bei der Umsetzung von einheitlichen Personalmanagementstandards, Personalentwicklungsmassnahmen und Weiterbildungen,
-
-- d. Personalcontrolling und Überwachung der Stellenpläne,
+- 1\. 4. 24 - 124
 
 - e. Case Management,
 
-- f. Begleitung personalrechtlicher Konflikte einschliesslich Rechtsmittelverfahren,
+- f. Unterstützung der Verwaltungseinheiten bei personalrechtlichen Konflikten,
 
-- g. Support für die Personaldienste in der Direktion,
+- g. Unterstützung bei der Kultur- und Organisationsentwicklung,
 
-- h. Personaladministration und operatives Personalmanagement für das Generalsekretariat,
+- h. Vertretung der Direktion bei Personalrechtsstreitigkeiten,
 
-- i. Unterstützung und Beratung von Vorgesetzten,
+- i. Einsitznahme in bzw. Leitung von direktionsübergreifenden und direktionsinternen Projekten und Arbeitsgruppen, projektbezogene Unterstützung für die Verwaltungseinheiten der Direktion.
 
-- j. Einsitznahme in bzw. Leitung von direktionsübergreifenden und direktionsinternen Projekten und Arbeitsgruppen,
+<sup>2</sup> Die Verwaltungseinheiten fällen personalrechtliche Entscheide mit Einbezug des HR.
 
-- k. Sicherstellung eines einheitlichen Vollzugs der personalrechtlichen Bestimmungen.
+<sup>3</sup> Bei wichtigen Personalgeschäften betreffend Angestellte in Schlüsselpositionen informiert die Leiterin oder der Leiter der betreffenden Verwaltungseinheit vorgängig die Direktionsvorsteherin oder den Direktionsvorsteher.
 
-<sup>2</sup> Die Leiterin oder der Leiter ist Personalbeauftragte bzw. Personalbeauftragter der Direktion. Sie oder er regelt Zuständigkeiten und Kompetenzen im Personalbereich in Absprache mit der Direktionsvorsteherin oder dem Direktionsvorsteher schriftlich.
+<sup>4</sup> Die Leiterin oder der Leiter HR vertritt die Volkswirtschaftsdirektion in der Konferenz der Leiterinnen und Leiter Human Resources (HRK).
 
-<sup>3</sup> . . .<sup>13</sup>
+<sup>5</sup> Die Zuständigkeiten und Kompetenzen im HR-Bereich werden in einer Direktionsverfügung geregelt.
 
-<sup>4</sup> Die Zuständigkeiten bei Personalgeschäften werden in einer Direktionsverfügung geregelt.
+**Digitale Transformation und Organisation (DTO)**
 
-**Digitalisierung Informatik und Logistik (DIL)**
+§ 13.<sup>15</sup> <sup>1</sup> Die Abteilung DTO erfüllt insbesondere folgende Aufgaben:
 
-§ 13.<sup>12</sup> <sup>1</sup> Die Abteilung Digitalisierung Informatik und Logistik erfüllt insbesondere folgende Aufgaben:
+- a. Gesamtsteuerung der Digitalen Transformation der Direktion,
 
-- a. Gesamtsteuerung der Digitalisierung der Direktion (wie Entwicklung und Pflege der Digitalisierungsstrategie sowie Organisation, Information und Kommunikation zur Digitalisierung, Wahrnehmen von Vertretungsaufgaben im Zusammenhang mit der Digitalisierung),
+- b. Begleitung und Beratung bei Projekten,
 
-- b. Gesamtsteuerung der Informatik der Direktion (wie Entwicklung und Pflege der Informatikstrategie, Organisation der Informatikfunktionen und Informatiksicherheit, Controlling der Leistungsvereinbarung mit dem Amt für Informatik),
+- c. Unterstützung bei Beschaffungen und Verträgen für Fachapplikationen, Infrastruktur und Mobilien,
 
-- c. Koordination der Logistik der Direktion insbesondere bezüglich Raum, Immobilienwesen, Sicherheit und Beschaffung,
+- d. Unterstützung im gesamten Lebenszyklus von Applikationen,
 
-- d. Einsitznahme in bzw. Leitung von direktionsübergreifenden und direktionsinternen Projekten und Arbeitsgruppen, projektbezogene Unterstützung für die Organisationseinheiten der Direktion.
+- e. Unterstützung bei der Optimierung von Prozessen,
 
-<sup>2</sup> Die Leiterin oder der Leiter der Abteilung Digitalisierung Informatik und Logistik kann für die Aufgabenerfüllung den Ämtern Aufträge mit Erledigungsvorgaben erteilen.
+- f. Beratung und Unterstützung insbesondere bei der Informationssicherheit, dem Datenmanagement, der Arbeitssicherheit oder dem technischen Datenschutz,
+
+- g. Pflege der Kundenbeziehungen zum Amt für Informatik,
+
+- h. Einsitznahme in bzw. Leitung von direktionsübergreifenden und direktionsinternen Projekten und Arbeitsgruppen, projektbezogene Unterstützung für die Organisationseinheiten der Direktion.
+
+<sup>2</sup> Die Leiterin oder der Leiter der Abteilung DTO kann für die Aufgabenerfüllung den Verwaltungseinheiten Aufträge mit Erledigungsvorgaben erteilen.
 
 ### C. Ämter
 
@@ -296,11 +301,23 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterste
 
 **7**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 24 - 124
 
 ### 3. Teil: Führung und Zusammenarbeit
 
 ### A. Führungsinstrumente der Direktion
+
+**Geschäftsleitung**
+
+§ 15 a.<sup>14</sup> <sup>1</sup> Die Geschäftsleitung der Direktion setzt sich aus der Direktionsvorsteherin oder dem Direktionsvorsteher, der Generalsekretärin oder dem Generalsekretär, ihrer oder seiner Stellvertretung, der oder dem Kommunikationsbeauftragten der Direktion sowie den Leiterinnen und Leitern der Ämter und des ZVV zusammen. Themenbezogen werden weitere Personen beigezogen.
+
+<sup>2</sup> Sie erfüllt insbesondere folgende Aufgaben:
+
+- a. Unterstützung und Beratung der Direktionsvorsteherin oder des Direktionsvorstehers bei der strategischen Führung und Aufgabenerfüllung der Direktion,
+
+- b. Erarbeitung von Vorgaben für die Querschnittbereiche der Direktion (Human Resources, Digitale Transformation, Finanzen und Controlling, Kommunikation und Geschäftsverwaltung),
+
+- c. Informationsaustausch zu Geschäften und Koordination von Projekten, die für alle Verwaltungseinheiten von Bedeutung sind.
 
 **Amtsrapporte und Direktionsgespräch ZVV**
 
@@ -336,13 +353,11 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterste
 
 <sup>5</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher leitet die Sitzung, im Verhinderungsfall die Generalsekretärin oder der Generalsekretär.
 
-<sup>6</sup> Die Rapporttermine werden frühzeitig für das ganze Jahr durch das Vorzimmer festgelegt. Nach Bedarf können zusätzliche Sitzungen vereinbart werden.
-
-#### § 17
+<sup>6</sup> Die Rapporttermine werden frühzeitig für das ganze Jahr durch die Direktionsassistenz festgelegt. Nach Bedarf können zusätzliche Sitzungen vereinbart werden.<sup>15</sup>
 
 **Chef-Gespräche**
 
-<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt mit den Leiterinnen oder Leitern der Verwaltungseinheiten sowie mit der Direktorin oder dem Direktor des ZVV periodische Chef-Gespräche durch.
+§ 17. <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt mit den Leiterinnen oder Leitern der Verwaltungseinheiten sowie mit der Direktorin oder dem Direktor des ZVV periodische Chef-Gespräche durch.
 
 <sup>2</sup> Die Termine werden für das ganze Jahr frühzeitig festgelegt. Nach Bedarf können zusätzliche Besprechungen vereinbart werden.
 
@@ -355,6 +370,10 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterste
 <sup>2</sup> Bei besonderer Dringlichkeit ist die Direktübermittlung an die Letztadressatin oder den Letztadressaten zulässig. Die übersprungenen Stufen werden umgehend informiert und mit Kopien bedient.
 
 <sup>3</sup> Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder finanziellen Auswirkungen, werden nach dem Mehr-Augen-Prinzip vorbereitet.
+
+**9**
+
+- 1\. 4. 24 - 124
 
 ### B. Zuständigkeiten
 
@@ -369,10 +388,6 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterste
 - c. Verkehr mit den anderen Mitgliedern des Regierungsrates,
 
 - d. Verkehr mit dem Staatsschreiber oder der Staatsschreiberin,
-
-**9**
-
-- 1\. 1. 22 - 115
 
 - e. Verkehr mit Verbänden und anderen politisch wichtigen Gremien und Organisationen aus dem In- und Ausland,
 
@@ -402,41 +417,17 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt als Direktunterste
 
 ### C. Ausgaben
 
-#### § 21
-
 **Ausgabenkompetenzen**
 
-<sup>1</sup> Die Ausgabenkompetenzen werden wie folgt geregelt (vgl. auch Anhang 3):
+§ 21.<sup>15</sup> <sup>1</sup> Die Ausgabenkompetenzen der Direktionsvorsteherin oder des Direktionsvorstehers sowie der Leitungen der Verwaltungseinheiten richten sich nach Anhang 3.
 
-- a. neue oder gebundene einmalige Ausgaben:
+<sup>2</sup> Vorbehalten bleiben Ausgabenkompetenzen der Verwaltungseinheiten gemäss Spezialbestimmungen.
 
-bis Fr. 250 000: Verwaltungseinheiten darüber bis 1 Mio. Franken: Direktionsvorsteherin oder Direktionsvorsteher b. neue oder gebundene wiederkehrende Ausgaben:
+<sup>3</sup> Im Abwesenheitsfall wird die Direktionsvorsteherin oder der Direktionsvorsteher durch die Generalsekretärin oder den Generalsekretär vertreten.
 
-bis jährlich Fr. 50 000: Verwaltungseinheiten darüber bis jährlich Fr. 200 000: Direktionsvorsteherin oder Direktionsvorsteher c. gebundene wiederkehrende Ausgaben, sofern sie zulasten eines der in Anhang 1 FCV<sup>5</sup> aufgeführten Konten des kantonalen Kontenplans zu verbuchen sind: bis jährlich Fr. 50 000: Verwaltungseinheiten über jährlich Fr. 50 000: Direktionsvorsteherin oder Direktionsvorsteher d. gebundene einmalige Ausgaben, sofern sie aufgrund einer der in Anhang 2 zur FCV<sup>5</sup> aufgeführten Bestimmungen bewilligt werden:
+**Regelung der Ausgabenkompetenzen**
 
-bis 1,5 Mio. Franken: Verwaltungseinheiten über 1,5 Mio. Franken: Direktionsvorsteherin oder Direktionsvorsteher e. gebundene wiederkehrende Ausgaben, die gestützt auf eine in Anhang 2 FCV<sup>5</sup> aufgeführte Bestimmung bewilligt werden:
-
-bis jährlich Fr. 100 000: Verwaltungseinheiten über jährlich Fr. 100 000: Direktionsvorsteherin oder Direktionsvorsteher f. Abschluss von Verträgen zur Umsetzung von Ausgabenbewilligungen, insbesondere für die Vergabe von Aufträgen an Dritte, im Zusammenhang mit Bauten des Kantons:
-
-bis 1,5 Mio. Franken: Verwaltungseinheiten darüber bis 3 Mio. Franken: Direktionsvorsteherin oder Direktionsvorsteher g.<sup>12</sup> Entscheid über die Führung eines Prozesses oder über den Abschluss eines Vergleichs bei einem Streitwert bzw. einer Verpflichtung des Kantons:
-
-bis Fr. 250 000: Verwaltungseinheiten darüber bis 1 Mio. Franken: Direktionsvorsteherin oder Direktionsvorsteher h.<sup>8</sup> Für die Zustimmung zu Erwerb und Veräusserung von Grundstücken des Strassenfonds bis 1 Mio. Franken ist das Amt für Verkehr zuständig. Es stellt sicher, dass die Zustimmung ab Fr. 500 000 durch die Leiterin oder den Leiter des Amtes erfolgt.
-
-**11**
-
-- 1\. 1. 22 - 115
-
-<sup>2</sup> In die ausschliessliche Zuständigkeit der Direktionsvorsteherin oder des Direktionsvorstehers fallen Beteiligungen an Gesellschaften bis zu 1 Mio. Franken sowie Übertragungen ins Finanzvermögen oder Veräusserungen von nicht mehr benötigten Vermögenswerten des Verwaltungsvermögens im Wert von bis zu 1 Mio. Franken.
-
-<sup>3</sup> Vorbehalten bleiben Ausgabenkompetenzen der Verwaltungseinheiten gemäss Spezialbestimmungen.
-
-<sup>4</sup> Im Abwesenheitsfall wird die Direktionsvorsteherin oder der Direktionsvorsteher durch die Generalsekretärin oder den Generalsekretär vertreten.
-
-#### § 22
-
-**Regelung der Ausgabenkompetenzen in den Verwaltungseinheiten**
-
-Die Verwaltungseinheiten regeln die internen Ausgabenkompetenzen in Absprache mit der Direktionsvorsteherin oder dem Direktionsvorsteher schriftlich. Die Regelungen sind Finanzen und Controlling im Generalsekretariat mitzuteilen. Diese leitet sie an die Finanzkontrolle weiter.
+§ 22.<sup>15</sup> Die Verwaltungseinheiten regeln die internen Ausgabenkompetenzen in Absprache mit der Abteilung Finanzen und Controlling im Generalsekretariat. Diese leitet sie an die Finanzkontrolle weiter.
 
 #### § 23
 
@@ -450,11 +441,23 @@ Die Zuständigkeit für den Abschluss von Verträgen zur Umsetzung von Ausgabenb
 
 Finanzielle Verpflichtungen in Form von Verträgen oder Verfügungen sind mit Doppelunterschrift zu unterzeichnen. Die linienvorgesetzte Person unterzeichnet links, die sachverantwortliche Person rechts.
 
-#### § 25
-
 **Form der Ausgabenbewilligung**
 
-Ausgaben werden durch Verfügung der zuständigen Stelle oder durch Freigabe des Rechnungsbelegs durch die berechtigte Person bewilligt. Die Verwaltungseinheiten legen in Absprache mit der Direktionsvorsteherin oder dem Direktionsvorsteher schriftlich fest, wann welche Form zur Anwendung kommt. Die Regelungen sind Finanzen und Controlling im Generalsekretariat mitzuteilen. Diese leitet sie an die Finanzkontrolle weiter.
+§ 25.<sup>15</sup> <sup>1</sup> Ausgaben werden durch Verfügung der zuständigen Stelle oder durch Unterzeichnung des Rechnungsbelegs durch die berechtigte Person bewilligt.
+
+**11**
+
+- 1\. 4. 24 - 124
+
+<sup>2</sup> Die Unterzeichnung des Rechnungsbelegs gilt in den folgenden Fällen als Ausgabenbewilligung:
+
+- a. Ausgaben bis Fr. 10 000,
+
+- b. Zahlungen aufgrund von Urteilen und Beschlüssen von Rechtsmittelinstanzen,
+
+- c. gesetzlich vorgeschriebene Abgaben und Gebühren,
+
+- d. interne Verrechnungen.
 
 ### 4. Teil: Kommunikation und Öffentlichkeitsprinzip
 
@@ -486,11 +489,11 @@ Ausgaben werden durch Verfügung der zuständigen Stelle oder durch Freigabe des
 
 <sup>2</sup> Medienkonferenzen zu Themen der Volkswirtschaftsdirektion werden durch die Kommunikationsbeauftragte oder den Kommunikationsbeauftragten organisiert. Medienkonferenzen zu anderen Themen sind mit der oder dem Kommunikationsbeauftragten vorgängig abzusprechen. Über Inhalte und Teilnehmende entscheidet die Direktionsvorsteherin oder der Direktionsvorsteher. Unterlagen für die Medienkonferenzen sind vorgängig der oder dem Kommunikationsbeauftragten zuzustellen. Die Einladung erfolgt durch die Staatskanzlei.
 
-**13**
-
-- 1\. 1. 22 - 115 § 28. <sup>1</sup> Logo, Bezeichnung der Verwaltungseinheit, Briefkopf und Schriftbild sind einheitlich. Ausgenommen sind die Logos der Regionalen Arbeitsvermittlungszentren (RAV).
+#### § 28
 
 **Erscheinungsbild**
+
+<sup>1</sup> Logo, Bezeichnung der Verwaltungseinheit, Briefkopf und Schriftbild sind einheitlich. Ausgenommen sind die Logos der Regionalen Arbeitsvermittlungszentren (RAV).
 
 <sup>2</sup> Bei der Gestaltung von Internet- und Intranetauftritten sind die Vorgaben des Regierungsrates zu beachten.
 
@@ -510,9 +513,11 @@ Die Direktion des ZVV ist in den Bereichen gemäss §§ 26, 27 und 28 selbststä
 
 Die Verwaltungseinheiten sind dafür verantwortlich, dass die Vorgaben des Öffentlichkeitsprinzips in ihrem Zuständigkeitsbereich erfüllt sind. Betrifft ein Gesuch Belange der gesamten Direktion oder den Aufgabenbereich mehrerer Verwaltungseinheiten der Direktion, ist es dem Generalsekretariat zu überweisen. Das Generalsekretariat sorgt für eine einheitliche Umsetzung des Öffentlichkeitsprinzips in der Direktion.
 
-**Verwendung von Informationen, die unter das Amtsgeheimnis fallen**
+**13**
 
-§ 30 a.<sup>9</sup> Den Mitarbeitenden ist es untersagt, Informationen, die unter das Amtsgeheimnis fallen, zu verwenden, um einen persönlichen Vorteil für sich oder andere zu erlangen. Sie geben gestützt auf diese Informationen keine Empfehlungen oder Hinweise ab. Dies gilt insbesondere dann, wenn das Bekanntwerden nicht öffentlich bekannter Informationen den Wert von Effekten und Devisen in unvorhersehbarer Weise beeinflussen könnte.
+- 1\. 4. 24 - 124 § 30 a.<sup>9</sup> Den Mitarbeitenden ist es untersagt, Informationen, die unter das Amtsgeheimnis fallen, zu verwenden, um einen persönlichen Vorteil für sich oder andere zu erlangen. Sie geben gestützt auf diese Informationen keine Empfehlungen oder Hinweise ab. Dies gilt insbesondere dann, wenn das Bekanntwerden nicht öffentlich bekannter Informationen den Wert von Effekten und Devisen in unvorhersehbarer Weise beeinflussen könnte.
+
+**Verwendung von Informationen, die unter das Amtsgeheimnis fallen**
 
 ### 5. Teil: Schlussbestimmungen
 
@@ -552,35 +557,47 @@ Diese Verordnung tritt am 1. Mai 2010 in Kraft. Sie ersetzt alle Weisungen, die 
 
 <sup>13</sup> Aufgehoben durch Vfg. vom 23. September 2021 (OS 76, 456; ABl 2021-10- 01). In Kraft seit 1. Oktober 2021.
 
-**15**
+<sup>14</sup> Eingefügt durch Vfg. vom 14. Dezember 2023 (OS 79, 15; ABl 2023-12-22). In Kraft seit 1. Januar 2024.
 
-- 1\. 1. 22 - 115
+<sup>15</sup> Fassung gemäss Vfg. vom 14. Dezember 2023 (OS 79, 15; ABl 2023-12-22). In Kraft seit 1. Januar 2024.
 
-### Anhang 1: Gliederung der Ämter<sup>12</sup>
+### Anhang 1: Gliederung der Ämter<sup>15</sup>
 
-§ 14 OV VD
+#### § 14
 
 ### Amt Zuständigkeitsbereich
 
-Amt für Mobilität (AFM) – Amtsleitung – Stab – Personal und Dienste – Kommunikation – Mobilitätsentwicklung- und -steuerung – Gesamtmobilität – Verkehrsplanung – Flughafen und Luftverkehr
+Amt für Mobilität (AFM) – Amtsleitung – Stab – Kommunikation – Digitale Transformation und Administration – Mobilitätsentwicklung und -steuerung – Gesamtmobilität – Verkehrsplanung – Flughafen und Luftverkehr
 
-Amt für Wirtschaft und Arbeit (AWA) – Amtsleitung – Stab – Personal und Organisation – Kommunikation – Standortförderung – Arbeitsbedingungen – Arbeitsmarkt – Arbeitslosenversicherung und Arbeitslosenkasse
+Amt für Wirtschaft (AWI) – Amtsleitung – Stab – Standortförderung – Arbeitsbewilligungen – Arbeitsbedingungen – Volkswirtschaft
 
-### Anhang 2: Unselbstständige Entscheidkompetenzen
+Amt für Arbeit (AFA) – Amtsleitung – Beratung und Vermittlung – Qualifizierung für Stellensuchende (LAM) – Arbeitslosenversicherung – Arbeitslosenkasse – Kompetenzzentrum Arbeit
 
-§ 20 OV VD
+**15**
 
-<sup>1</sup> Das Amt für Mobilität (AFM) entscheidet über Baulinien in folgenden Fällen im Namen der Direktion (§ 38 Abs. 4 OG RR<sup>2</sup>):<sup>12</sup> a. Genehmigung von kommunalen Bau- und Niveaulinien (Aufhebung und Neuvorlagen),
+- 1\. 4. 24 - 124
 
-- b. ersatzlose Aufhebung von Bau- und Niveaulinien an bestehenden Staatsstrassen,
+### Anhang 2: Entscheidkompetenzen im Namen der Direktion<sup>15</sup>
 
-- c. ersatzlose Aufhebung von Bau- und Niveaulinien infolge Löschung des Staatsstrassenvorhabens aus dem Richtplan.
+**§ 20**
 
-<sup>2</sup> In allen anderen Fällen entscheidet die Direktionsvorsteherin oder der Direktionsvorsteher.
+**Amt Amt für Mobilität (AFM)**
 
-### Anhang 3: Übersicht Ausgabenkompetenzen<sup>12</sup>
+### Aufgabenbereich
 
-§§ 21ff. OV VD
+Bau- und Niveaulinien:
+
+- Genehmigung von kommunalen Bau- und Niveaulinien (Aufhebung und Neuvorlagen)
+
+- ersatzlose Aufhebung von Bau- und Niveaulinien an bestehenden Staatsstrassen
+
+- ersatzlose Aufhebung von Bau- und Niveaulinien infolge Löschung des Staatsstrassenvorhabens aus dem Richtplan Grundstücke Strassenfonds:
+
+- Zustimmung zum Erwerb und zur Veräusserung von Grundstücken des Strassenfonds bis 1 Mio. Franken. Die Zustimmung ab Fr. 500 000 erfolgt durch die Leiterin oder den Leiter des Amtes.
+
+### Anhang 3: Übersicht Ausgabenkompetenzen<sup>15</sup>
+
+§§ 21ff.
 
 **Direktionsvorsteherin oder Direktionsvorsteher**
 
@@ -588,7 +605,7 @@ Leitungen der Ämter
 
 und des Generalsekretariats
 
-Ausgabenkompetenz bis Fr. Ausgabenkompetenz bis Fr. Ausgabenbereich einmalig wiederkehrend einmalig wiederkehrend Neue oder (cid:2) 250 000 (cid:2) 50 000 gebundene Ausgaben Gebundene wiederkehrende Ausgaben zulasten eines – (cid:2) 50 000 der in Anhang 1 FCV<sup>5</sup> aufgeführten Konten Gebundene einmalige und gebundene wiederkehrende Ausgaben, sofern sie aufgrund einer der in Anhang 2 FCV<sup>5</sup> aufgeführten (cid:2) 1,5 Mio. (cid:2) 100 000 &gt; 1,5 Mio. &gt; 100 000 Bestimmungen bewilligt werden Abschluss von Verträgen zur Umsetzung von Ausgabenbewilligungen für die Vergabe von Aufträgen an Dritte, im Zusammenhang mit Bauten des Kantons (cid:2) 1,5 Mio.
+Ausgabenkompetenz bis Fr. Ausgabenkompetenz bis Fr. Ausgabenbereich einmalig wiederkehrend einmalig wiederkehrend Neue oder (cid:2) 250 000 (cid:2) 50 000 gebundene Ausgaben Gebundene wiederkehrende Ausgaben zulasten eines – (cid:2) 50 000 der in Anhang 1 FCV aufgeführten Konten Gebundene einmalige und gebundene wiederkehrende Ausgaben, sofern sie aufgrund einer der in Anhang 2 FCV aufgeführten (cid:2) 1,5 Mio. (cid:2) 100 000 &gt; 1,5 Mio. &gt; 100 000 Bestimmungen bewilligt werden Abschluss von Verträgen zur Umsetzung von Ausgabenbewilligungen für die Vergabe von Aufträgen an Dritte, im Zusammenhang mit Bauten des Kantons (cid:2) 1,5 Mio.
 
 **&gt; 250 000 &gt; 50 000 (cid:2) 1 Mio. (cid:2) 200 000**
 
@@ -602,9 +619,7 @@ Ausgabenkompetenz bis Fr. Ausgabenkompetenz bis Fr. Ausgabenbereich einmalig wie
 
 **&gt; 250 000 (cid:2) 1 Mio.**
 
-Prozesse führen und Vergleiche abschliessen (cid:2) 250 000 bis zum Streitwert von Beteiligungen an Gesellschaften (z. B. Aktiengesellschaften) – Übertragung ins Finanzvermögen oder Veräusserung von nicht mehr benötigten Vermögenswerten des Verwaltungsvermögens – Zustimmung zum Erwerb und zur Veräusserung von Grundstücken des Strassenfonds (cid:2) 250 000
-
-**(cid:2) 1 Mio.**
+Prozesse führen und Vergleiche abschliessen (cid:2) 250 000 bis zum Streitwert von Beteiligungen an Gesellschaften (z. B. Aktiengesellschaften) – Übertragung ins Finanzvermögen oder Veräusserung von nicht mehr benötigten Vermögenswerten des Verwaltungsvermögens –
 
 **(cid:2) 1 Mio.**
 
@@ -612,4 +627,4 @@ Prozesse führen und Vergleiche abschliessen (cid:2) 250 000 bis zum Streitwert 
 
 **17**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 24 - 124
