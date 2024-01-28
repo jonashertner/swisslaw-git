@@ -3,11 +3,11 @@ sr: "0.747.363.321"
 title: Convention du 20 octobre 1972 sur le règlement international de 1972 pour prévenir les abordages en mer (avec règlement et annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084"
 language: fr
-version: 2023-05-30
+version: 2024-01-29
 adopted: 1972-10-20
 in_force: 1977-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20230530/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20230530-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20230530/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20240129/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20240129-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20240129/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 20 octobre 1972 Approuvée par l’Assemblée fédérale le 24 septembre 1975[^t-1] Instrument de ratification déposé par la Suisse le 30 décembre 1975 Entrée en vigueur pour la Suisse le 15 juillet 1977
 
-(État le 30 mai 2023)
+(État le 29 janvier 2024)
 
 [^t-1]: Art. 1 let. a de l’AF du 24 sept. 1975 ([RO 1977 1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074))
 
@@ -1262,7 +1262,7 @@ Annexe IV[^t-5]
 - a) morceau de toile de couleur orange soit avec un carré et un cercle de couleur noire soit avec un autre symbole approprié (pour repérage aérien);
 - b) colorant.
 
-Champ d’application le 18 août 2020[^t-6]
+Champ d’application le 29 janvier 2024[^t-6]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1286,6 +1286,7 @@ Champ d’application le 18 août 2020[^t-6]
 <tr><td>Belize</td><td>9 avril</td><td>1991 A</td><td>9 avril</td><td>1991</td></tr>
 <tr><td>Bénin</td><td>1<sup>er</sup> novembre</td><td>1985 A</td><td>1<sup>er</sup> novembre</td><td>1985</td></tr>
 <tr><td>Bolivie</td><td>4 juin</td><td>1999 A</td><td>4 juin</td><td>1999</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>22 septembre</td><td>2020 A</td><td>22 septembre</td><td>2020</td></tr>
 <tr><td>Brésil</td><td>26 novembre</td><td>1974</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Brunéi</td><td>5 février</td><td>1987 A</td><td>5 février</td><td>1987</td></tr>
 <tr><td>Bulgarie</td><td>29 avril</td><td>1975</td><td>15 juillet</td><td>1977</td></tr>
@@ -1340,6 +1341,7 @@ Champ d’application le 18 août 2020[^t-6]
 <tr><td>Grenade</td><td>28 juin</td><td>2004 A</td><td>20 juin</td><td>2004</td></tr>
 <tr><td>Guatemala</td><td>15 décembre</td><td>1993 A</td><td>15 décembre</td><td>1993</td></tr>
 <tr><td>Guinée</td><td>19 janvier</td><td>1981 A</td><td>19 janvier</td><td>1981</td></tr>
+<tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 mai</td><td>2022</td></tr>
 <tr><td>Guinée équatoriale</td><td>24 avril</td><td>1996 A</td><td>24 avril</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>10 décembre</td><td>1997 A</td><td>10 décembre</td><td>1997</td></tr>
 <tr><td>Honduras</td><td>24 septembre</td><td>1985 A</td><td>24 septembre</td><td>1985</td></tr>
@@ -1422,6 +1424,7 @@ Champ d’application le 18 août 2020[^t-6]
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>8 août</td><td>1977 A</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Russie</td><td>9 novembre</td><td>1973 A</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>11 juin</td><td>2004 A</td><td>11 juin</td><td>2004</td></tr>
+<tr><td>Saint-Marin</td><td>19 avril</td><td>2021 A</td><td>19 avril</td><td>2021</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>28 octobre</td><td>1983 A</td><td>28 octobre</td><td>1983</td></tr>
 <tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004</td><td>20 mai</td><td>2004</td></tr>
 <tr><td>Samoa</td><td>23 octobre</td><td>1979 A</td><td>23 octobre</td><td>1979</td></tr>
@@ -1429,17 +1432,18 @@ Champ d’application le 18 août 2020[^t-6]
 <tr><td>Sénégal</td><td>27 octobre</td><td>1978 A</td><td>27 octobre</td><td>1978</td></tr>
 <tr><td>Serbie-et-Monténégro</td><td>23 mars</td><td>1976 A</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Seychelles</td><td>22 août</td><td>1988 A</td><td>22 août</td><td>1988</td></tr>
-<tr><td>Sierra Leone</td><td>26 juillet</td><td>2001 A</td><td>26 juillet</td><td>2001</td></tr>
+<tr><td>Sierra Leone</td><td>20 juillet</td><td>2001 A</td><td>20 juillet</td><td>2001</td></tr>
 <tr><td>Singapour</td><td>29 avril</td><td>1977 A</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Slovaquie</td><td>30 janvier</td><td>1995 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>12 novembre</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td>Soudan</td><td>11 mars</td><td>2003</td><td>11 mars</td><td>2003</td></tr>
+<tr><td>Soudan</td><td>11 mars</td><td>2003 A</td><td>11 mars</td><td>2003</td></tr>
 <tr><td>Sri Lanka</td><td>4 janvier</td><td>1978 A</td><td>4 janvier</td><td>1978</td></tr>
 <tr><td>Suède</td><td>28 avril</td><td>1975</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Suisse</td><td>30 décembre</td><td>1975</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Syrie</td><td>16 février</td><td>1976 A</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Tanzanie</td><td>16 mai</td><td>2006 A</td><td>16 mai</td><td>2006</td></tr>
 <tr><td>Thaïlande</td><td>6 août</td><td>1979 A</td><td>6 août</td><td>1979</td></tr>
+<tr><td>Timor-Leste</td><td>12 octobre</td><td>2022 A</td><td>12 octobre</td><td>2022</td></tr>
 <tr><td>Togo</td><td>19 juillet</td><td>1989 A</td><td>19 juillet</td><td>1989</td></tr>
 <tr><td>Tonga</td><td>12 avril</td><td>1977 A</td><td>15 juillet</td><td>1977</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>15 février</td><td>1979 A</td><td>15 février</td><td>1979</td></tr>
@@ -1456,4 +1460,4 @@ Champ d’application le 18 août 2020[^t-6]
 <tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 15 juillet 1977 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 22 mars 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 11 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> Le procédé de rétrocession par étapes de la Zone du Canal du Panama convenu en 1977 entre les États-Unis d’Amérique et le Panama s’est achevé le 31 déc. 1999. À partir de cette date, le Panama exerce la pleine souveraineté sur la Zone du Canal et le Canal lui-même. <sup>d</sup> Extension territoriale selon l’art. III de la convention.</td></tr>
 </table>
 
-[^t-6]: [RO 1977 1084](https://fedlex.data.admin.ch/eli/oc/1977/1084_1084_1084), [1887](https://fedlex.data.admin.ch/eli/oc/1977/1888_1887_1887); [1979 1526](https://fedlex.data.admin.ch/eli/oc/1979/1526_1526_1526); [1981 952](https://fedlex.data.admin.ch/eli/oc/1981/952_952_952); [1982 1555](https://fedlex.data.admin.ch/eli/oc/1982/1555_1555_1555); [1984 275](https://fedlex.data.admin.ch/eli/oc/1984/275_275_275); [1985 230](https://fedlex.data.admin.ch/eli/oc/1985/230_230_230); [1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835); [1987 1156](https://fedlex.data.admin.ch/eli/oc/1987/1156_1156_1156); [1989 840](https://fedlex.data.admin.ch/eli/oc/1989/840_840_840); [1990 1836](https://fedlex.data.admin.ch/eli/oc/1990/1836_1836_1836); [1991 2274](https://fedlex.data.admin.ch/eli/oc/1991/2274_2274_2274); [2005 1311](https://fedlex.data.admin.ch/eli/oc/2005/198); [2008 3977](https://fedlex.data.admin.ch/eli/oc/2008/540); [2010 941](https://fedlex.data.admin.ch/eli/oc/2010/148); [2014 761](https://fedlex.data.admin.ch/eli/oc/2014/165); [2020 3639](https://fedlex.data.admin.ch/eli/oc/2020/659). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-6]: [RO 1977 1084](https://fedlex.data.admin.ch/eli/oc/1977/1084_1084_1084), [1887](https://fedlex.data.admin.ch/eli/oc/1977/1888_1887_1887); [1979 1526](https://fedlex.data.admin.ch/eli/oc/1979/1526_1526_1526); [1981 952](https://fedlex.data.admin.ch/eli/oc/1981/952_952_952); [1982 1555](https://fedlex.data.admin.ch/eli/oc/1982/1555_1555_1555); [1984 275](https://fedlex.data.admin.ch/eli/oc/1984/275_275_275); [1985 230](https://fedlex.data.admin.ch/eli/oc/1985/230_230_230); [1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835); [1987 1156](https://fedlex.data.admin.ch/eli/oc/1987/1156_1156_1156); [1989 840](https://fedlex.data.admin.ch/eli/oc/1989/840_840_840); [1990 1836](https://fedlex.data.admin.ch/eli/oc/1990/1836_1836_1836); [1991 2274](https://fedlex.data.admin.ch/eli/oc/1991/2274_2274_2274); [2005 1311](https://fedlex.data.admin.ch/eli/oc/2005/198); [2008 3977](https://fedlex.data.admin.ch/eli/oc/2008/540); [2010 941](https://fedlex.data.admin.ch/eli/oc/2010/148); [2014 761](https://fedlex.data.admin.ch/eli/oc/2014/165); [2020 3639](https://fedlex.data.admin.ch/eli/oc/2020/659); [2024 52](https://fedlex.data.admin.ch/eli/oc/2024/52). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

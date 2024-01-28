@@ -3,11 +3,11 @@ sr: "0.747.363.321"
 title: Übereinkommen vom 20. Oktober 1972 über die internationalen Regeln zur Verhütung von Zusammenstössen auf See von 1972 (mit Seestrassenordnung und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084"
 language: de
-version: 2023-05-30
+version: 2024-01-29
 adopted: 1972-10-20
 in_force: 1977-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20230530/de/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20230530-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20230530/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20240129/de/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20240129-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20240129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1977** 1084; BBl **1975** I 929
 
 Abgeschlossen in London am 20. Oktober 1972 Von der Bundesversammlung genehmigt am 24. September 1975[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 30. Dezember 1975 In Kraft getreten für die Schweiz am 15. Juli 1977
 
-(Stand am 30. Mai 2023)
+(Stand am 29. Januar 2024)
 
 [^t-1]: Art. 1 Bst. A des BB vom 24. Sept. 1975 (**AS 1977** 1074)
 
@@ -1177,7 +1177,7 @@ Anhang IV[^t-5]
 - a) ein Stück orangefarbenes Segeltuch mit einem schwarzen Quadrat oder Kreis oder mit einem anderen entsprechenden Zeichen (zur Erkennung aus der Luft);
 - b) ein Seewasserfärber.
 
-Geltungsbereich am 18. August 2020[^t-6]
+Geltungsbereich am 29. Januar 2024[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -1200,6 +1200,7 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>Belize</td><td>9. April</td><td>1991 B</td><td>9. April</td><td colspan="2">1991</td></tr>
 <tr><td>Benin</td><td>1. November</td><td>1985 B</td><td>1. November</td><td colspan="2">1985</td></tr>
 <tr><td>Bolivien</td><td>4. Juni</td><td>1999 B</td><td>4. Juni</td><td colspan="2">1999</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>22. September</td><td>2020 B</td><td>22. September</td><td colspan="2">2020</td></tr>
 <tr><td>Brasilien</td><td>26. November</td><td>1974</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Brunei</td><td>5. Februar</td><td>1987 B</td><td>5. Februar</td><td colspan="2">1987</td></tr>
 <tr><td>Bulgarien</td><td>29. April</td><td>1975</td><td>15. Juli</td><td colspan="2">1977</td></tr>
@@ -1207,7 +1208,6 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>China\*</td><td>7. Januar</td><td>1980 B</td><td>7. Januar</td><td colspan="2">1980</td></tr>
 <tr><td>Hongkong <sup>a</sup></td><td>5. Juni</td><td>1997</td><td>1. Juli</td><td colspan="2">1997</td></tr>
 <tr><td>Macau <sup>b</sup></td><td>11. Dezember</td><td>1999</td><td>20. Dezember</td><td colspan="2">1999</td></tr>
-<tr><td>Cook-Inseln</td><td>21. Dezember</td><td>2001 B</td><td>21. Dezember</td><td colspan="2">2001</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5. Oktober</td><td>1987 B</td><td>5. Oktober</td><td colspan="2">1987</td></tr>
 <tr><td>Dänemark</td><td>24. Januar</td><td>1974</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Deutschland\*</td><td>14. Juli</td><td>1976</td><td>15. Juli</td><td colspan="2">1977</td></tr>
@@ -1229,6 +1229,7 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>Griechenland</td><td>17. Dezember</td><td>1974</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Guatemala</td><td>15. Dezember</td><td>1993 B</td><td>15. Dezember</td><td colspan="2">1993</td></tr>
 <tr><td>Guinea</td><td>19. Januar</td><td>1981 B</td><td>19. Januar</td><td colspan="2">1981</td></tr>
+<tr><td>Guinea-Bissau</td><td>12. Mai</td><td>2022 B</td><td>12. Mai</td><td colspan="2">2022</td></tr>
 <tr><td>Guyana</td><td>10. Dezember</td><td>1997 B</td><td>10. Dezember</td><td colspan="2">1997</td></tr>
 <tr><td>Honduras</td><td>24. September</td><td>1985 B</td><td>24. September</td><td colspan="2">1985</td></tr>
 <tr><td>Indien</td><td>30. Mai</td><td>1973 U</td><td>15. Juli</td><td colspan="2">1977</td></tr>
@@ -1284,6 +1285,8 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>Namibia</td><td>27. November</td><td>2000 B</td><td>27. November</td><td colspan="2">2000</td></tr>
 <tr><td>Nauru</td><td>18. Juni</td><td>2018 B</td><td>18. Juni</td><td colspan="2">2018</td></tr>
 <tr><td>Neuseeland</td><td>26. November</td><td>1976</td><td>15. Juli</td><td colspan="2">1977</td></tr>
+<tr><td>Cook-Inseln</td><td>21. Dezember</td><td>2001 B</td><td>21. Dezember</td><td colspan="2">2001</td></tr>
+<tr><td>Niue</td><td>18. Mai</td><td>2012 B</td><td>18. Mai</td><td colspan="2">2012</td></tr>
 <tr><td>Nicaragua</td><td>2. Dezember</td><td>1999 B</td><td>2. Dezember</td><td colspan="2">1999</td></tr>
 <tr><td>Niederlande</td><td>4. Februar</td><td>1976 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Aruba</td><td>24. Dezember</td><td>1995</td><td>1. Januar</td><td colspan="2">1986</td></tr>
@@ -1291,7 +1294,6 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>24. Mai</td><td>1984 B</td><td>1. Juli</td><td colspan="2">1984</td></tr>
 <tr><td>Sint Maarten</td><td>24. Mai</td><td>1984 B</td><td>1. Juli</td><td colspan="2">1984</td></tr>
 <tr><td>Nigeria</td><td>17. Januar</td><td>1974 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
-<tr><td>Niue</td><td>18. Mai</td><td>2012 B</td><td>18. Mai</td><td colspan="2">2012</td></tr>
 <tr><td>Norwegen</td><td>13. August</td><td>1974</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Oman</td><td>25. April</td><td>1985 B</td><td>25. April</td><td colspan="2">1985</td></tr>
 <tr><td>Österreich</td><td>8. Juni</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
@@ -1307,6 +1309,7 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>Russland</td><td>9. November</td><td>1973 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Salomoninseln</td><td>12. März</td><td>1982 N</td><td>7. Juli</td><td colspan="2">1978</td></tr>
 <tr><td>Samoa</td><td>23. Oktober</td><td>1979 B</td><td>23. Oktober</td><td colspan="2">1979</td></tr>
+<tr><td>San Marino</td><td>19. April</td><td>2021 B</td><td>19. April</td><td colspan="2">2021</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>29. Oktober</td><td>1998 B</td><td>29. Oktober</td><td colspan="2">1998</td></tr>
 <tr><td>Saudi-Arabien</td><td>3. Juli</td><td>1978 B</td><td>3. Juli</td><td colspan="2">1978</td></tr>
 <tr><td>Schweden</td><td>28. April</td><td>1975</td><td>15. Juli</td><td colspan="2">1977</td></tr>
@@ -1314,7 +1317,7 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>Senegal</td><td>27. Oktober</td><td>1978 B</td><td>27. Oktober</td><td colspan="2">1978</td></tr>
 <tr><td>Serbien</td><td>23. März</td><td>1976 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Seychellen</td><td>22. August</td><td>1988 B</td><td>22. August</td><td colspan="2">1988</td></tr>
-<tr><td>Sierra Leone</td><td>26. Juli</td><td>2001 B</td><td>26. Juli</td><td colspan="2">2001</td></tr>
+<tr><td>Sierra Leone</td><td>20. Juli</td><td>2001 B</td><td>20. Juli</td><td colspan="2">2001</td></tr>
 <tr><td>Singapur</td><td>29. April</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Slowakei</td><td>30. Januar</td><td>1995 N</td><td>1. Januar</td><td colspan="2">1993</td></tr>
 <tr><td>Slowenien</td><td>12. November</td><td>1992 N</td><td>25. Juni</td><td colspan="2">1991</td></tr>
@@ -1324,10 +1327,11 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>St. Lucia</td><td>20. Mai</td><td>2004 B</td><td>20. Mai</td><td colspan="2">2004</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>28. Oktober</td><td>1983 B</td><td>28. Oktober</td><td colspan="2">1983</td></tr>
 <tr><td>Südafrika</td><td>20. Dezember</td><td>1976 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
-<tr><td>Sudan</td><td>11. März</td><td>2003</td><td>11. März</td><td colspan="2">2003</td></tr>
+<tr><td>Sudan</td><td>11. März</td><td>2003 B</td><td>11. März</td><td colspan="2">2003</td></tr>
 <tr><td>Syrien</td><td>16. Februar</td><td>1976 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Tansania</td><td>16. Mai</td><td>2006 B</td><td>16. Mai</td><td colspan="2">2006</td></tr>
 <tr><td>Thailand</td><td>6. August</td><td>1979 B</td><td>6. August</td><td colspan="2">1979</td></tr>
+<tr><td>Timor-Leste</td><td>12. Oktober</td><td>2022 B</td><td>12. Oktober</td><td colspan="2">2022</td></tr>
 <tr><td>Togo</td><td>19. Juli</td><td>1989 B</td><td>19. Juli</td><td colspan="2">1989</td></tr>
 <tr><td>Tonga</td><td>12. April</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Trinidad und Tobago</td><td>15. Februar</td><td>1979 B</td><td>15. Februar</td><td colspan="2">1979</td></tr>
@@ -1352,7 +1356,7 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>Palmyra</td><td>1. April</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Pazifik-Inseln unter ameri- kanischer Verwaltung</td><td>1. April</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Puerto Rico</td><td>1. April</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
-<tr><td>Wake, Midway, Johnston- Inseln</td><td>1. April</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
+<tr><td>Wake, Midway, Johnston-Inseln</td><td>1. April</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Vereinigtes Königreich\* \*\* <sup>d</sup></td><td>28. Juni</td><td>1974</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Bermudas</td><td>8. August</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Britische Jungferninseln</td><td>8. August</td><td>1977 B</td><td>15. Juli</td><td colspan="2">1977</td></tr>
@@ -1377,4 +1381,4 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td colspan="6"><sup>d</sup> Ausdehnung des Geltungsbereiches gemäss Art. III des Übereink.</td></tr>
 </table>
 
-[^t-6]: [AS 1977 1084](https://fedlex.data.admin.ch/eli/oc/1977/1084_1084_1084), [1888](https://fedlex.data.admin.ch/eli/oc/1977/1888_1887_1887); [1979 1526](https://fedlex.data.admin.ch/eli/oc/1979/1526_1526_1526); [1981 952](https://fedlex.data.admin.ch/eli/oc/1981/952_952_952); [1982 1555](https://fedlex.data.admin.ch/eli/oc/1982/1555_1555_1555); [1984 275](https://fedlex.data.admin.ch/eli/oc/1984/275_275_275); [1985 230](https://fedlex.data.admin.ch/eli/oc/1985/230_230_230); [1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835); [1987 1156](https://fedlex.data.admin.ch/eli/oc/1987/1156_1156_1156); [1989 840](https://fedlex.data.admin.ch/eli/oc/1989/840_840_840); [1990 1836](https://fedlex.data.admin.ch/eli/oc/1990/1836_1836_1836); [1991 2274](https://fedlex.data.admin.ch/eli/oc/1991/2274_2274_2274); [2005 1311](https://fedlex.data.admin.ch/eli/oc/2005/198); [2008 3977](https://fedlex.data.admin.ch/eli/oc/2008/540); [2010 941](https://fedlex.data.admin.ch/eli/oc/2010/148); [2014 761](https://fedlex.data.admin.ch/eli/oc/2014/165); [2020 3639](https://fedlex.data.admin.ch/eli/oc/2020/659). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-6]: [AS 1977 1084](https://fedlex.data.admin.ch/eli/oc/1977/1084_1084_1084), [1888](https://fedlex.data.admin.ch/eli/oc/1977/1888_1887_1887); [1979 1526](https://fedlex.data.admin.ch/eli/oc/1979/1526_1526_1526); [1981 952](https://fedlex.data.admin.ch/eli/oc/1981/952_952_952); [1982 1555](https://fedlex.data.admin.ch/eli/oc/1982/1555_1555_1555); [1984 275](https://fedlex.data.admin.ch/eli/oc/1984/275_275_275); [1985 230](https://fedlex.data.admin.ch/eli/oc/1985/230_230_230); [1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835); [1987 1156](https://fedlex.data.admin.ch/eli/oc/1987/1156_1156_1156); [1989 840](https://fedlex.data.admin.ch/eli/oc/1989/840_840_840); [1990 1836](https://fedlex.data.admin.ch/eli/oc/1990/1836_1836_1836); [1991 2274](https://fedlex.data.admin.ch/eli/oc/1991/2274_2274_2274); [2005 1311](https://fedlex.data.admin.ch/eli/oc/2005/198); [2008 3977](https://fedlex.data.admin.ch/eli/oc/2008/540); [2010 941](https://fedlex.data.admin.ch/eli/oc/2010/148); [2014 761](https://fedlex.data.admin.ch/eli/oc/2014/165); [2020 3639](https://fedlex.data.admin.ch/eli/oc/2020/659); [2024 52](https://fedlex.data.admin.ch/eli/oc/2024/52). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
