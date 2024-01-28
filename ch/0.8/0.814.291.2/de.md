@@ -3,11 +3,11 @@ sr: "0.814.291.2"
 title: Protokoll von 1992 vom 27. November 1992 zur Änderung des Internationalen Übereinkommens von 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1031_1031_1031"
 language: de
-version: 2020-06-09
+version: 2024-01-29
 adopted: 1992-11-27
 in_force: 1997-07-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1031_1031_1031/20200609/de/xml/fedlex-data-admin-ch-eli-cc-1998-1031_1031_1031-20200609-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1031_1031_1031/20200609/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1031_1031_1031/20240129/de/xml/fedlex-data-admin-ch-eli-cc-1998-1031_1031_1031-20240129-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1031_1031_1031/20240129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1998** 1031
 
 Abgeschlossen in London am 27. November 1992 Von der Bundesversammlung genehmigt am 11. Dezember 1995[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 4. Juli 1996 In Kraft getreten für die Schweiz am 4. Juli 1997
 
-(Stand am 9. Juni 2020)
+(Stand am 29. Januar 2024)
 
 [^t-1]: Art. 1 Abs 1 Bst. c des BB vom 11. Dez. 1995 ([AS 1998 1015](https://fedlex.data.admin.ch/eli/oc/1998/1015_1015_1015))
 
@@ -335,7 +335,7 @@ Geschehen zu London am 27. November 1992.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 9. Juni 2020[^t-2]
+Geltungsbereich am 29. Januar 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="4"></th><th>Inkrafttreten</th><th></th></tr>
@@ -353,14 +353,13 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td>Belgien</td><td colspan="2">6. Oktober</td><td colspan="4">1998 B</td><td>6. Oktober</td><td>1999</td></tr>
 <tr><td>Belize</td><td colspan="2">27. November</td><td colspan="4">1998 B</td><td>27. November</td><td>1999</td></tr>
 <tr><td>Benin</td><td colspan="2">5. Februar</td><td colspan="4">2010 B</td><td>5. Februar</td><td>2011</td></tr>
-<tr><td>Brasilien</td><td colspan="2">18. Januar</td><td colspan="4">2008</td><td>17. April</td><td>2008</td></tr>
 <tr><td>Brunei</td><td colspan="2">3. Januar</td><td colspan="4">2002 B</td><td>3. Januar</td><td>2003</td></tr>
 <tr><td>Bulgarien</td><td colspan="2">28. November</td><td colspan="4">2003 B</td><td>28. November</td><td>2004</td></tr>
 <tr><td>Chile</td><td colspan="2">29. Mai</td><td colspan="4">2002 B</td><td>29. Mai</td><td>2003</td></tr>
 <tr><td>China</td><td colspan="2">5. Januar</td><td colspan="4">1999 B</td><td>5. Januar</td><td>2000</td></tr>
 <tr><td>Hongkong</td><td colspan="2">5. Januar</td><td colspan="4">1999</td><td>5. Januar</td><td>2000</td></tr>
 <tr><td>Macau</td><td colspan="2">24. Juni</td><td colspan="4">2005</td><td>24. Juni</td><td>2005</td></tr>
-<tr><td>Cook-Inseln</td><td colspan="2">12. März</td><td colspan="4">2007 B</td><td>12. März</td><td>2008</td></tr>
+<tr><td>Costa Rica</td><td colspan="2">19. Mai</td><td colspan="4">2021 B</td><td>19. Mai</td><td>2022</td></tr>
 <tr><td>Côte d’Ivoire</td><td colspan="2">8. Juli</td><td colspan="4">2013 B</td><td>8. Juli</td><td>2014</td></tr>
 <tr><td>Dänemark</td><td colspan="2">30. Mai</td><td colspan="4">1995</td><td>30. Mai</td><td>1996</td></tr>
 <tr><td>Deutschland\*</td><td colspan="2">29. September</td><td colspan="4">1994</td><td>30. Mai</td><td>1996</td></tr>
@@ -369,7 +368,7 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td>Dschibuti</td><td colspan="2">8. Januar</td><td colspan="4">2001 B</td><td>8. Januar</td><td>2002</td></tr>
 <tr><td>Ecuador</td><td colspan="2">11. Dezember</td><td colspan="4">2007 B</td><td>11. Dezember</td><td>2008</td></tr>
 <tr><td>El Salvador</td><td colspan="2">2. Januar</td><td colspan="4">2002 B</td><td>2. Januar</td><td>2003</td></tr>
-<tr><td>Estland</td><td colspan="2">8. August</td><td colspan="4">2004 B</td><td>8. August</td><td>2005</td></tr>
+<tr><td>Estland</td><td colspan="2">6. August</td><td colspan="4">2004 B</td><td>6. August</td><td>2005</td></tr>
 <tr><td>Fidschi</td><td colspan="2">30. November</td><td colspan="4">1999 B</td><td>30. November</td><td>2000</td></tr>
 <tr><td>Finnland</td><td colspan="2">24. November</td><td colspan="4">1995</td><td>24. November</td><td>1996</td></tr>
 <tr><td>Frankreich</td><td colspan="2">29. September</td><td colspan="4">1994</td><td>30. Mai</td><td>1996</td></tr>
@@ -381,10 +380,12 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td>Griechenland\*\*</td><td colspan="2">9. Oktober</td><td colspan="4">1995</td><td>9. Oktober</td><td>1996</td></tr>
 <tr><td>Guatemala</td><td colspan="2">2. August</td><td colspan="4">2016 B</td><td>2. August</td><td>2017</td></tr>
 <tr><td>Guinea</td><td colspan="2">2. Oktober</td><td colspan="4">2002 B</td><td>2. Oktober</td><td>2003</td></tr>
+<tr><td>Guinea-Bissau</td><td colspan="2">12. Mai</td><td colspan="4">2022 B</td><td>12. Mai</td><td>2023</td></tr>
 <tr><td>Guyana</td><td colspan="2">20. Februar</td><td colspan="4">2019 B</td><td>20. Februar</td><td>2020</td></tr>
 <tr><td>Honduras</td><td colspan="2">26. Juni</td><td colspan="4">2019 B</td><td>26. Juni</td><td>2020</td></tr>
 <tr><td>Indien</td><td colspan="2">15. November</td><td colspan="4">1999 B</td><td>15. November</td><td>2000</td></tr>
 <tr><td>Indonesien</td><td colspan="2">6. Juli</td><td colspan="4">1999 B</td><td>6. Juli</td><td>2000</td></tr>
+<tr><td>Irak</td><td colspan="2">30. September</td><td colspan="4">2021 B</td><td>30. September</td><td>2022</td></tr>
 <tr><td>Iran</td><td colspan="2">24. Oktober</td><td colspan="4">2007 B</td><td>24. Oktober</td><td>2008</td></tr>
 <tr><td>Irland\*</td><td colspan="2">15. Mai</td><td colspan="4">1997 B</td><td>16. Mai</td><td>1998</td></tr>
 <tr><td>Island</td><td colspan="2">13. November</td><td colspan="4">1998 B</td><td>13. November</td><td>1999</td></tr>
@@ -404,6 +405,7 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td>Kolumbien</td><td colspan="2">19. November</td><td colspan="4">2001 B</td><td>19. November</td><td>2002</td></tr>
 <tr><td>Komoren</td><td colspan="2">15. Januar</td><td colspan="4">2000 B</td><td>15. Januar</td><td>2001</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td colspan="2">7. August</td><td colspan="4">2002 B</td><td>7. August</td><td>2003</td></tr>
+<tr><td>Korea (Nord-)</td><td colspan="2">13. Juli</td><td colspan="4">2021 B</td><td>13. Juli</td><td>2022</td></tr>
 <tr><td>Korea (Süd-)\*</td><td colspan="2">7. März</td><td colspan="4">1997 B</td><td>16. Mai</td><td>1998</td></tr>
 <tr><td>Kroatien</td><td colspan="2">12. Januar</td><td colspan="4">1998 B</td><td>12. Januar</td><td>1999</td></tr>
 <tr><td>Kuwait</td><td colspan="2">16. April</td><td colspan="4">2004 B</td><td>16. April</td><td>2005</td></tr>
@@ -418,7 +420,7 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td>Malta</td><td colspan="2">6. Januar</td><td colspan="4">2000 B</td><td>6. Januar</td><td>2001</td></tr>
 <tr><td>Marokko</td><td colspan="2">22. August</td><td colspan="4">2000</td><td>22. August</td><td>2001</td></tr>
 <tr><td>Marshallinseln</td><td colspan="2">16. Oktober</td><td colspan="4">1995 B</td><td>16. Oktober</td><td>1996</td></tr>
-<tr><td>Mauretanien</td><td colspan="2">4. Mai</td><td colspan="4">2012 B</td><td>4. Mai</td><td>2012</td></tr>
+<tr><td>Mauretanien</td><td colspan="2">4. Mai</td><td colspan="4">2012 B</td><td>4. Mai</td><td>2013</td></tr>
 <tr><td>Mauritius\*\*</td><td colspan="2">6. Dezember</td><td colspan="4">1999 B</td><td>6. Dezember</td><td>2000</td></tr>
 <tr><td>Mexiko</td><td colspan="2">13. Mai</td><td colspan="4">1994 B</td><td>30. Mai</td><td>1996</td></tr>
 <tr><td>Moldau</td><td colspan="2">11. Oktober</td><td colspan="4">2005 B</td><td>11. Oktober</td><td>2006</td></tr>
@@ -428,8 +430,10 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td>Mosambik</td><td colspan="2">26. April</td><td colspan="3">2002 B</td><td colspan="2">26. April</td><td>2003</td></tr>
 <tr><td>Myanmar</td><td colspan="2">12. Juli</td><td colspan="3">2016 B</td><td colspan="2">12. Juli</td><td>2017</td></tr>
 <tr><td>Namibia</td><td colspan="2">18. Dezember</td><td colspan="3">2002 B</td><td colspan="2">18. Dezember</td><td>2003</td></tr>
-<tr><td>Nauru</td><td colspan="2">30. März</td><td colspan="3">2020 B</td><td colspan="2">23. März</td><td>2021</td></tr>
+<tr><td>Nauru</td><td colspan="2">23. März</td><td colspan="3">2020 B</td><td colspan="2">23. März</td><td>2021</td></tr>
 <tr><td>Neuseeland\* <sup>a</sup></td><td colspan="2">25. Juni</td><td colspan="3">1998 B</td><td colspan="2">25. Juni</td><td>1999</td></tr>
+<tr><td>Cook-Inseln</td><td colspan="2">12. März</td><td colspan="4">2007 B</td><td>12. März</td><td>2008</td></tr>
+<tr><td>Niue</td><td colspan="2">27. Juni</td><td colspan="4">2012 B</td><td>27. Juni</td><td>2013</td></tr>
 <tr><td>Nicaragua</td><td colspan="2">4. April</td><td colspan="3">2014 B</td><td colspan="2">4. April</td><td>2015</td></tr>
 <tr><td colspan="2">Niederlande</td><td colspan="2">15. November</td><td colspan="3">1996 B</td><td>15. November</td><td>1997</td></tr>
 <tr><td colspan="2">Aruba</td><td colspan="2">12. April</td><td colspan="3">2006</td><td>12. April</td><td>2006</td></tr>
@@ -437,10 +441,9 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td colspan="2">10. Oktober</td><td colspan="3">2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td colspan="2">Sint Maarten</td><td colspan="2">10. Oktober</td><td colspan="3">2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td>Nigeria</td><td colspan="2">24. Mai</td><td colspan="3">2002 B</td><td colspan="2">24. Mai</td><td>2003</td></tr>
-<tr><td>Niue</td><td colspan="2">27. Juni</td><td colspan="4">2012 B</td><td>27. Juni</td><td>2013</td></tr>
 <tr><td>Norwegen</td><td colspan="2">3. April</td><td colspan="4">1995</td><td>30. Mai</td><td>1996</td></tr>
 <tr><td>Oman</td><td colspan="2">8. Juli</td><td colspan="4">1994 B</td><td>30. Mai</td><td>1996</td></tr>
-<tr><td>Pakistan</td><td colspan="2">2. März</td><td colspan="4">2005</td><td>2. März</td><td>2006</td></tr>
+<tr><td>Pakistan</td><td colspan="2">2. März</td><td colspan="4">2005 B</td><td>2. März</td><td>2006</td></tr>
 <tr><td>Palau</td><td colspan="2">29. September</td><td colspan="4">2011 B</td><td>29. September</td><td>2012</td></tr>
 <tr><td>Panama</td><td colspan="2">18. März</td><td colspan="4">1999 B</td><td>18. März</td><td>2000</td></tr>
 <tr><td>Papua-Neuguinea</td><td colspan="2">23. Januar</td><td colspan="4">2001 B</td><td>23. Januar</td><td>2002</td></tr>
@@ -452,10 +455,11 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td>Russland\*</td><td colspan="2">20. März</td><td colspan="4">2000 B</td><td>20. März</td><td>2001</td></tr>
 <tr><td>Salomoninseln</td><td colspan="2">30. Juni</td><td colspan="4">2004 B</td><td>30. Juni</td><td>2005</td></tr>
 <tr><td>Samoa</td><td colspan="2">1. Februar</td><td colspan="4">2002 B</td><td>1. Februar</td><td>2003</td></tr>
+<tr><td>San Marino</td><td colspan="2">19. April</td><td colspan="4">2021 B</td><td>19. April</td><td>2022</td></tr>
 <tr><td>Saudi-Arabien</td><td colspan="2">23. Mai</td><td colspan="4">2005 B</td><td>23. Mai</td><td>2006</td></tr>
 <tr><td>Schweden</td><td colspan="2">25. Mai</td><td colspan="4">1995</td><td>30. Mai</td><td>1996</td></tr>
 <tr><td>Schweiz</td><td colspan="2">4. Juli</td><td colspan="4">1996 B</td><td>4. Juli</td><td>1997</td></tr>
-<tr><td>Senegal</td><td colspan="2">2. August</td><td colspan="4">2011</td><td>2. August</td><td>2012</td></tr>
+<tr><td>Senegal</td><td colspan="2">2. August</td><td colspan="4">2011 B</td><td>2. August</td><td>2012</td></tr>
 <tr><td>Serbien</td><td colspan="2">25. Mai</td><td colspan="4">2011 B</td><td>25. Dezember</td><td>2012</td></tr>
 <tr><td>Seychellen</td><td colspan="2">23. Juli</td><td colspan="4">1999 B</td><td>23. Juli</td><td>2000</td></tr>
 <tr><td>Sierra Leone</td><td colspan="2">4. Juni</td><td colspan="4">2001 B</td><td>4. Juni</td><td>2002</td></tr>
@@ -503,7 +507,7 @@ Geltungsbereich am 9. Juni 2020[^t-2]
 <tr><td>Turks- und Caicosinseln</td><td colspan="2">20. Februar</td><td colspan="4">1998</td><td>20. Februar</td><td>1998</td></tr>
 <tr><td>Vietnam</td><td colspan="2">17. Juni</td><td colspan="4">2003 B</td><td>17. Juni</td><td>2004</td></tr>
 <tr><td>Zypern</td><td colspan="2">12. Mai</td><td colspan="4">1997 B</td><td>12. Mai</td><td>1998</td></tr>
-<tr><td colspan="9">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="9">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](https://www.imo.org/en/publications/Pages/English.aspx) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1998 1031](https://fedlex.data.admin.ch/eli/oc/1998/1031_1031_1031), [2005 1673](https://fedlex.data.admin.ch/eli/oc/2005/269)[5011](https://fedlex.data.admin.ch/eli/oc/2005/691), [2008 27](https://fedlex.data.admin.ch/eli/oc/2008/11)[753](https://fedlex.data.admin.ch/eli/oc/2008/185), [2011 1607](https://fedlex.data.admin.ch/eli/oc/2011/240), [2014 555](https://fedlex.data.admin.ch/eli/oc/2014/114), [2017 3835](https://fedlex.data.admin.ch/eli/oc/2017/458), [2020 2823](https://fedlex.data.admin.ch/eli/oc/2020/511). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-2]: [AS 1998 1031](https://fedlex.data.admin.ch/eli/oc/1998/1031_1031_1031); [2005 1673](https://fedlex.data.admin.ch/eli/oc/2005/269), [5011](https://fedlex.data.admin.ch/eli/oc/2005/691); [2008 27](https://fedlex.data.admin.ch/eli/oc/2008/11), [753](https://fedlex.data.admin.ch/eli/oc/2008/185); [2011 1607](https://fedlex.data.admin.ch/eli/oc/2011/240); [2014 555](https://fedlex.data.admin.ch/eli/oc/2014/114); [2017 3835](https://fedlex.data.admin.ch/eli/oc/2017/458); [2020 2823](https://fedlex.data.admin.ch/eli/oc/2020/511); [2024 49](https://fedlex.data.admin.ch/eli/oc/2024/49). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

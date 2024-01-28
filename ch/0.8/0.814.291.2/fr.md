@@ -3,11 +3,11 @@ sr: "0.814.291.2"
 title: Protocole de 1992 du 27 novembre 1992 modifiant la Convention internationale de 1969 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1031_1031_1031"
 language: fr
-version: 2020-06-09
+version: 2024-01-29
 adopted: 1992-11-27
 in_force: 1997-07-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1031_1031_1031/20200609/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1031_1031_1031-20200609-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1031_1031_1031/20200609/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1031_1031_1031/20240129/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1031_1031_1031-20240129-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1031_1031_1031/20240129/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument d’adhésion déposé par la Suisse le 4 juillet 1996
 
 Entré en vigueur pour la Suisse le 4 juillet 1997
 
-(État le 9 juin 2020)
+(État le 29 janvier 2024)
 
 [^t-1]: RO **1998** 1031; FF **1995** IV 233 Art. 1 al. 1 let. c de l’AF du 11 déc. 1995 (RO **1998** 1015).
 
@@ -349,7 +349,7 @@ Le présent Protocole est établi en un seul exemplaire original en langues angl
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont signé le présent Protocole. Fait à Londres, ce vingt-sept novembre mil neuf cent quatre-vingt-douze. (Suivent les signatures)
 
-Champ d’application le 9 juin 2020[^t-2]
+Champ d’application le 29 janvier 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -369,7 +369,6 @@ Champ d’application le 9 juin 2020[^t-2]
 <tr><td>Belgique</td><td>6 octobre</td><td>1998 A</td><td>6 octobre</td><td>1999</td></tr>
 <tr><td>Belize</td><td>27 novembre</td><td>1998 A</td><td>27 novembre</td><td>1999</td></tr>
 <tr><td>Bénin</td><td>5 février</td><td>2010 A</td><td>5 février</td><td>2011</td></tr>
-<tr><td>Brésil</td><td>18 janvier</td><td>2008</td><td>17 avril</td><td>2008</td></tr>
 <tr><td>Brunéi</td><td>3 janvier</td><td>2002 A</td><td>3 janvier</td><td>2003</td></tr>
 <tr><td>Bulgarie</td><td>28 novembre</td><td>2003 A</td><td>28 novembre</td><td>2004</td></tr>
 <tr><td>Cambodge</td><td>8 juin</td><td>2001 A</td><td>8 juin</td><td>2002</td></tr>
@@ -378,13 +377,15 @@ Champ d’application le 9 juin 2020[^t-2]
 <tr><td>Cap-Vert</td><td>4 juillet</td><td>2003 A</td><td>4 juillet</td><td>2004</td></tr>
 <tr><td>Chili</td><td>29 mai</td><td>2002 A</td><td>29 mai</td><td>2003</td></tr>
 <tr><td>Chine</td><td>5 janvier</td><td>1999 A</td><td>5 janvier</td><td>2000</td></tr>
-<tr><td>[tab] Hong Kong</td><td>5 janvier</td><td>1999</td><td>5 janvier</td><td>2000</td></tr>
+<tr><td>Hong Kong</td><td>5 janvier</td><td>1999</td><td>5 janvier</td><td>2000</td></tr>
 <tr><td>Macao</td><td>24 juin</td><td>2005</td><td>24 juin</td><td>2005</td></tr>
 <tr><td>Chypre</td><td>12 mai</td><td>1997 A</td><td>12 mai</td><td>1998</td></tr>
 <tr><td>Colombie</td><td>19 novembre</td><td>2001 A</td><td>19 novembre</td><td>2002</td></tr>
 <tr><td>Comores</td><td>15 janvier</td><td>2000 A</td><td>15 janvier</td><td>2001</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>7 août</td><td>2002 A</td><td>7 août</td><td>2003</td></tr>
+<tr><td>Corée (Nord)</td><td>13 juillet</td><td>2021 A</td><td>13 juillet</td><td>2022</td></tr>
 <tr><td>Corée (Sud)\*</td><td>7 mars</td><td>1997 A</td><td>16 mai</td><td>1998</td></tr>
+<tr><td>Costa Rica</td><td>19 mai</td><td>2021 A</td><td>19 mai</td><td>2022</td></tr>
 <tr><td>Côte d’Ivoire</td><td>8 juillet</td><td>2013 A</td><td>8 juillet</td><td>2014</td></tr>
 <tr><td>Croatie</td><td>12 janvier</td><td>1998 A</td><td>12 janvier</td><td>1999</td></tr>
 <tr><td>Danemark</td><td>30 mai</td><td>1995</td><td>30 mai</td><td>1996</td></tr>
@@ -395,7 +396,7 @@ Champ d’application le 9 juin 2020[^t-2]
 <tr><td>Émirats arabes unis</td><td>19 novembre</td><td>1997 A</td><td>19 novembre</td><td>1998</td></tr>
 <tr><td>Équateur</td><td>11 décembre</td><td>2007 A</td><td>11 décembre</td><td>2008</td></tr>
 <tr><td>Espagne</td><td>6 juillet</td><td>1995 A</td><td>6 juillet</td><td>1996</td></tr>
-<tr><td>Estonie</td><td>8 août</td><td>2004 A</td><td>8 août</td><td>2005</td></tr>
+<tr><td>Estonie</td><td>6 août</td><td>2004 A</td><td>6 août</td><td>2005</td></tr>
 <tr><td>Fidji</td><td>30 novembre</td><td>1999 A</td><td>30 novembre</td><td>2000</td></tr>
 <tr><td>Finlande</td><td>24 novembre</td><td>1995</td><td>24 novembre</td><td>1996</td></tr>
 <tr><td>France</td><td>29 septembre</td><td>1994</td><td>30 mai</td><td>1996</td></tr>
@@ -407,15 +408,16 @@ Champ d’application le 9 juin 2020[^t-2]
 <tr><td>Grenade</td><td>7 janvier</td><td>1998 A</td><td>7 janvier</td><td>1999</td></tr>
 <tr><td>Guatemala</td><td>2 août</td><td>2016 A</td><td>2 août</td><td>2017</td></tr>
 <tr><td>Guinée</td><td>2 octobre</td><td>2002 A</td><td>2 octobre</td><td>2003</td></tr>
+<tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 mai</td><td>2023</td></tr>
 <tr><td>Guyana</td><td>20 février</td><td>2019 A</td><td>20 février</td><td>2020</td></tr>
 <tr><td>Honduras</td><td>26 juin</td><td>2019 A</td><td>26 juin</td><td>2020</td></tr>
 <tr><td>Hongrie</td><td>30 mars</td><td>2007 A</td><td>30 mars</td><td>2008</td></tr>
-<tr><td>Îles Cook</td><td>12 mars</td><td>2007 A</td><td>12 mars</td><td>2008</td></tr>
 <tr><td>Îles Marshall</td><td>16 octobre</td><td>1995 A</td><td>16 octobre</td><td>1996</td></tr>
 <tr><td>Îles Salomon</td><td>30 juin</td><td>2004 A</td><td>30 juin</td><td>2005</td></tr>
 <tr><td>Inde</td><td>15 novembre</td><td>1999 A</td><td>15 novembre</td><td>2000</td></tr>
 <tr><td>Indonésie</td><td>6 juillet</td><td>1999 A</td><td>6 juillet</td><td>2000</td></tr>
 <tr><td>Iran</td><td>24 octobre</td><td>2007 A</td><td>24 octobre</td><td>2008</td></tr>
+<tr><td>Iraq</td><td>30 septembre</td><td>2021 A</td><td>30 septembre</td><td>2022</td></tr>
 <tr><td>Irlande\*</td><td>15 mai</td><td>1997 A</td><td>16 mai</td><td>1998</td></tr>
 <tr><td>Islande</td><td>13 novembre</td><td>1998 A</td><td>13 novembre</td><td>1999</td></tr>
 <tr><td>Israël</td><td>21 octobre</td><td>2004 A</td><td>21 octobre</td><td>2005</td></tr>
@@ -437,7 +439,7 @@ Champ d’application le 9 juin 2020[^t-2]
 <tr><td>Malte</td><td>6 janvier</td><td>2000 A</td><td>6 janvier</td><td>2001</td></tr>
 <tr><td>Maroc</td><td>22 août</td><td>2000</td><td>22 août</td><td>2001</td></tr>
 <tr><td>Maurice\*\*</td><td>6 décembre</td><td>1999 A</td><td>6 décembre</td><td>2000</td></tr>
-<tr><td>Mauritanie</td><td>4 mai</td><td>2012 A</td><td>4 mai</td><td>2012</td></tr>
+<tr><td>Mauritanie</td><td>4 mai</td><td>2012 A</td><td>4 mai</td><td>2013</td></tr>
 <tr><td>Mexique</td><td>13 mai</td><td>1994 A</td><td>30 mai</td><td>1996</td></tr>
 <tr><td>Moldova</td><td>11 octobre</td><td>2005 A</td><td>11 octobre</td><td>2006</td></tr>
 <tr><td>Monaco</td><td>8 novembre</td><td>1996</td><td>8 novembre</td><td>1997</td></tr>
@@ -446,14 +448,15 @@ Champ d’application le 9 juin 2020[^t-2]
 <tr><td>Mozambique</td><td>26 avril</td><td>2002 A</td><td>26 avril</td><td>2003</td></tr>
 <tr><td>Myanmar</td><td>12 juillet</td><td>2016 A</td><td>12 juillet</td><td>2017</td></tr>
 <tr><td>Namibie</td><td>18 décembre</td><td>2002 A</td><td>18 décembre</td><td>2003</td></tr>
-<tr><td>Nauru</td><td>30 mars</td><td>2020 A</td><td>23 mars</td><td>2021</td></tr>
+<tr><td>Nauru</td><td>23 mars</td><td>2020 A</td><td>23 mars</td><td>2021</td></tr>
 <tr><td>Nicaragua</td><td>4 avril</td><td>2014 A</td><td>4 avril</td><td>2015</td></tr>
 <tr><td>Nigéria</td><td>24 mai</td><td>2002 A</td><td>24 mai</td><td>2003</td></tr>
-<tr><td>Nioué</td><td>27 juin</td><td>2012 A</td><td>27 juin</td><td>2013</td></tr>
 <tr><td>Norvège</td><td>3 avril</td><td>1995</td><td>30 mai</td><td>1996</td></tr>
 <tr><td>Nouvelle-Zélande <sup>a</sup></td><td>25 juin</td><td>1998 A</td><td>25 juin</td><td>1999</td></tr>
+<tr><td>Îles Cook</td><td>12 mars</td><td>2007 A</td><td>12 mars</td><td>2008</td></tr>
+<tr><td>Nioué</td><td>27 juin</td><td>2012 A</td><td>27 juin</td><td>2013</td></tr>
 <tr><td>Oman</td><td>8 juillet</td><td>1994 A</td><td>30 mai</td><td>1996</td></tr>
-<tr><td>Pakistan</td><td>2 mars</td><td>2005</td><td>2 mars</td><td>2006</td></tr>
+<tr><td>Pakistan</td><td>2 mars</td><td>2005 A</td><td>2 mars</td><td>2006</td></tr>
 <tr><td>Palaos</td><td>29 septembre</td><td>2011 A</td><td>29 septembre</td><td>2012</td></tr>
 <tr><td>Panama</td><td>18 mars</td><td>1999 A</td><td>18 mars</td><td>2000</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>23 janvier</td><td>2001 A</td><td>23 janvier</td><td>2002</td></tr>
@@ -488,10 +491,11 @@ Champ d’application le 9 juin 2020[^t-2]
 <tr><td>Territoire britannique de l’Océan Indien</td><td>20 février</td><td>1998</td><td>20 février</td><td>1998</td></tr>
 <tr><td>Russie\*</td><td>20 mars</td><td>2000 A</td><td>20 mars</td><td>2001</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 octobre</td><td>2004 A</td><td>7 octobre</td><td>2005</td></tr>
+<tr><td>Saint-Marin</td><td>19 avril</td><td>2021 A</td><td>19 avril</td><td>2022</td></tr>
 <tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>20 mai</td><td>2005</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>9 octobre</td><td>2001 A</td><td>9 octobre</td><td>2002</td></tr>
 <tr><td>Samoa</td><td>1<sup>er</sup> février</td><td>2002 A</td><td>1<sup>er</sup> février</td><td>2003</td></tr>
-<tr><td>Sénégal</td><td>2 août</td><td>2011</td><td>2 août</td><td>2012</td></tr>
+<tr><td>Sénégal</td><td>2 août</td><td>2011 A</td><td>2 août</td><td>2012</td></tr>
 <tr><td>Serbie</td><td>25 mai</td><td>2011 A</td><td>25 décembre</td><td>2012</td></tr>
 <tr><td>Seychelles</td><td>23 juillet</td><td>1999 A</td><td>23 juillet</td><td>2000</td></tr>
 <tr><td>Sierra Leone</td><td>4 juin</td><td>2001 A</td><td>4 juin</td><td>2002</td></tr>
@@ -517,7 +521,7 @@ Champ d’application le 9 juin 2020[^t-2]
 <tr><td>Venezuela</td><td>22 juillet</td><td>1998 A</td><td>22 juillet</td><td>1999</td></tr>
 <tr><td>Vietnam</td><td>17 juin</td><td>2003 A</td><td>17 juin</td><td>2004</td></tr>
 <tr><td>Yémen</td><td>20 septembre</td><td>2006 A</td><td>20 septembre</td><td>2007</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas au Tokélau.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas au Tokélau.</td></tr>
 </table>
 
-[^t-2]: RO **1998** 1043, [2005 1673](https://fedlex.data.admin.ch/eli/oc/2005/269)[5011](https://fedlex.data.admin.ch/eli/oc/2005/691), [2008 27](https://fedlex.data.admin.ch/eli/oc/2008/11)[753](https://fedlex.data.admin.ch/eli/oc/2008/185), [2011 1607](https://fedlex.data.admin.ch/eli/oc/2011/240), [2014 555](https://fedlex.data.admin.ch/eli/oc/2014/114), [2017 3835](https://fedlex.data.admin.ch/eli/oc/2017/458), [2020 2823](https://fedlex.data.admin.ch/eli/oc/2020/511). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)
+[^t-2]: [RO 1998 1031](https://fedlex.data.admin.ch/eli/oc/1998/1031_1031_1031); [2005 1673](https://fedlex.data.admin.ch/eli/oc/2005/269), [5011](https://fedlex.data.admin.ch/eli/oc/2005/691); [2008 27](https://fedlex.data.admin.ch/eli/oc/2008/11), [753](https://fedlex.data.admin.ch/eli/oc/2008/185); [2011 1607](https://fedlex.data.admin.ch/eli/oc/2011/240); [2014 555](https://fedlex.data.admin.ch/eli/oc/2014/114); [2017 3835](https://fedlex.data.admin.ch/eli/oc/2017/458); [2020 2823](https://fedlex.data.admin.ch/eli/oc/2020/511); [2024 49](https://fedlex.data.admin.ch/eli/oc/2024/49). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
