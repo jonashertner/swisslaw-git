@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 concernant l'information sur les 
 short: OIDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: fr
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-158-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-158-20240201-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20230701/fr"
 
 (OIDAl)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2023)
+du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -65,12 +65,12 @@ Lors de leur remise au consommateur, les denrées alimentaires doivent être mun
 - g. le nom ou la raison sociale et l’adresse de la personne qui fabrique, importe, conditionne, emballe, embouteille ou remet des denrées alimentaires;
 - h. le pays de production des denrées alimentaires (art. 15);
 - i. l’origine des principaux ingrédients de la denrée alimentaire (art. 16);
-- j. les mentions spécifiques pour les viandes bovine, porcine, ovine, caprine et la volaille ainsi que le poisson (art. 17);
+- j.[^3-1] les mentions spécifiques pour les viandes bovine, porcine, ovine, caprine et la volaille (art. 17);
 - k. le mode d’emploi, si son omission ne permet pas d’utiliser la denrée alimentaire conformément à l’usage prévu;
 - l. la teneur en alcool pour les boissons alcooliques titrant plus de 1,2 % vol. (art. 18);
 - m. le lot (art. 19 et 20);
 - n. la déclaration nutritionnelle (art. 21 à 28);
-- o.[^3-1] la mention requise dans le cas des denrées alimentaires qui sont des organismes génétiquement modifiés (OGM), qui contiennent de tels organismes ou qui en sont issus (art. 8 de l’ordonnance du DFI du 27 mai 2020 sur les denrées alimentaires génétiquement modifiées[^3-2]);
+- o.[^3-2] la mention requise dans le cas des denrées alimentaires qui sont des organismes génétiquement modifiés (OGM), qui contiennent de tels organismes ou qui en sont issus (art. 8 de l’ordonnance du DFI du 27 mai 2020 sur les denrées alimentaires génétiquement modifiées[^3-3]);
 - p. le cas échéant, la marque d’identification (art. 36 à 38);
 - q. d’autres mentions selon l’annexe 2.
 
@@ -92,8 +92,9 @@ Si le produit se présente en emballage multiple (emballage permettant de groupe
 - a. figurent sur les emballages unitaires compris dans l’emballage multiple, et qu’elles
 - b. sont lisibles à travers l’emballage multiple ou affichées d’une autre manière au point de vente.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^3-2]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^3-3]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
 
 #### Art. 4
 
@@ -151,7 +152,7 @@ S’il s’agit de denrées alimentaires mises sur le marché en vrac, les menti
   - 1\. s’il est mentionné par écrit et de manière bien visible que les informations peuvent être demandées oralement,
   - 2\. si le personnel dispose de ces informations par écrit ou si une personne formée peut les fournir immédiatement;
 
-- e.[^5-7] en dérogation à l’art. 22, al. 3, let. b, l’indication de la déclaration nutritionnelle n’est pas obligatoire pour les denrées alimentaires munies d’une indication concernant leur teneur en gluten ou en lactose conforme aux art. 41 et 42;
+- e.[^5-7] en dérogation à l’art. 21, al. 2, let. b, l’indication de la déclaration nutritionnelle n’est pas obligatoire pour les denrées alimentaires munies d’une indication concernant leur teneur en gluten ou en lactose conforme aux art. 41 et 42;
 - f.[^5-8] les mélanges involontaires visés à l’art. 11, al. 5 ne doivent pas être mentionnés.
 
 <sup>2</sup> Les mentions à apposer par écrit doivent être fournies sous une forme appropriée. Les établissements de la restauration collective peuvent les faire figurer sur la carte des menus ou sur un écriteau.
@@ -164,7 +165,7 @@ S’il s’agit de denrées alimentaires mises sur le marché en vrac, les menti
 [^5-4]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^5-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^5-7]: Introduite par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^5-7]: Introduite par le ch. I de l’O du DFI du 27 mai 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)). Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^5-8]: Introduite par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### Section 2 Dénomination spécifique
@@ -211,13 +212,15 @@ Les exceptions définies par le DFI conformément à l’art. 14, al. 2, let. b,
 
 <sup>1</sup> La liste des ingrédients doit être assortie d’un intitulé ou précédée d’une mention appropriée contenant le terme «ingrédients».
 
-<sup>2</sup> Tous les ingrédients doivent être indiqués dans l’ordre décroissant de leur importance pondérale. Le pourcentage en masse des ingrédients au moment de la transformation de la denrée alimentaire est déterminant.
+<sup>2</sup> Tous les ingrédients doivent être indiqués par leur dénomination spécifique dans l’ordre décroissant de leur importance pondérale. Le pourcentage en masse des ingrédients au moment de la transformation de la denrée alimentaire est déterminant.[^8-1]
 
 <sup>3</sup> Si les ingrédients se présentent sous forme de nanomatériaux manufacturés, le mot «nano» doit être ajouté entre crochets.
 
 <sup>4</sup> Si une denrée alimentaire est assortie d’une allégation de santé signalant l’ajout de microorganismes, ledit ajout doit être indiqué dans la liste des ingrédients en employant la nomenclature scientifique spécifique.
 
 <sup>5</sup> Les modalités concernant l’indication et la dénomination des ingrédients sont réglées à l’annexe 5.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 9
 
@@ -275,7 +278,7 @@ Les ingrédients pouvant provoquer des allergies ou d’autres réactions indés
 
 **Étiquetage**
 
-<sup>1</sup> Les ingrédients mentionnés à l’annexe 6 ou obtenus à partir de ceux-ci et qui subsistent dans le produit fini, même sous forme modifiée, doivent être mentionnés clairement dans la liste des ingrédients, comme «malt d’orge», «émulsifiant (lécithine de soja)», «arôme naturel d’arachide». Cette indication doit se démarquer au moyen de la police d’écriture, du style de caractère, de la couleur du fond ou par tout autre moyen approprié;
+<sup>1</sup> Les ingrédients mentionnés à l’annexe 6 ou obtenus à partir de ceux-ci et qui subsistent dans le produit fini, même sous forme modifiée, doivent être mentionnés clairement dans la liste des ingrédients, comme «malt d’orge», «émulsifiant (lécithine de soja)», «arôme naturel d’arachide». Cette indication doit se démarquer au moyen de la police d’écriture, du style de caractère, de la couleur du fond ou par tout autre moyen approprié.
 
 <sup>2</sup> En l’absence de liste d’ingrédients, ils doivent être mentionnés par le terme «contient», suivi du nom de l’ingrédient ou du produit concerné selon l’annexe 6.
 
@@ -295,15 +298,25 @@ Les ingrédients visés aux al. 1 et 2 doivent également être mentionnés lors
 - d. dans le cas du lactose: dépasse ou puisse dépasser 1 g par kilogramme ou par litre de denrée alimentaire prête à consommer;
 - e. dans les autres cas: dépasse ou puisse dépasser 1 g par kilogramme ou par litre de denrée alimentaire prête à consommer.
 
-<sup>6</sup> La personne responsable doit pouvoir démontrer que toutes les mesures requises dans le cadre des bonnes pratiques de fabrication (BPF) ont été prises pour éviter ou pour réduire autant que possible les mélanges involontaires au sens de l’al. 5.
+<sup>6</sup> La personne responsable doit pouvoir démontrer que toutes les mesures requises dans le cadre des bonnes pratiques de fabrication (BPF) ont été prises pour éviter ou pour réduire autant que possible les mélanges ou contaminations involontaires au sens de l’al. 5.[^11-2]
 
-<sup>7</sup> La déclaration des mélanges visés à l’al. 5 et dont la teneur est inférieure aux valeurs limites fixées à cet alinéa est facultative.
+<sup>7</sup> La déclaration des mélanges ou contaminations involontaires visés à l’al. 5 et dont la teneur est inférieure aux valeurs limites fixées à cet alinéa est facultative.[^11-3]
+
+<sup>7bis</sup>
+
+Les déclarations fondées sur l’al. 7 peuvent être désignées sous la forme d’un terme générique:
+
+- a. pour les ingrédients visés à l’annexe 6, ch. 1: par le terme générique «céréales contenant du gluten»;
+- b. pour les ingrédients visés à l’annexe 6, ch. 8: par le terme générique «fruits à coque dure».[^11-4]
 
 <sup>8</sup> Les déclarations fondées sur l’al. 5 (par ex. «peut contenir de l’arachide») doivent figurer immédiatement à la suite de la liste des ingrédients.
 
 <sup>9</sup> Si l’on peut démontrer qu’un ingrédient obtenu à partir d’ingrédients énumérés à l’annexe 6 ne déclenche aucune allergie ni autre réaction indésirable, on peut renoncer à sa mention selon les al. 1, 3 et 5.
 
 [^11-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-4]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Section 5 Indication quantitative des ingrédients
 
@@ -378,16 +391,21 @@ Sont considérés comme étant entièrement obtenus dans un pays:
 
 <sup>3</sup> Est considérée comme ayant fait l’objet d’une opération ou d’une transformation suffisante dans un pays toute denrée alimentaire qui y a ainsi obtenu ses propriétés caractéristiques ou une nouvelle dénomination spécifique.
 
+<sup>3bis</sup> Sont considérés comme n’ayant pas fait l’objet d’une opération ou d’une transformation suffisante dans un pays le pain et les produits de boulangerie fine qui ont obtenu leurs propriétés caractéristiques ou la nouvelle dénomination spécifique uniquement par la cuisson au four de pâtons prêts à l’emploi.[^15-1]
+
 <sup>4</sup> En lieu et place du pays de production, il est possible d’indiquer un espace géographique plus large pour les denrées alimentaires transformées (par ex. «UE» ou «Amérique du Sud»). Concernant l’indication du pays de production, les produits mélangés tranchés et les mélanges de miel sont considérés comme des denrées alimentaires transformées.
 
-<sup>5</sup> S’il s’agit de produits de la pêche capturés en mer, il faut mentionner la zone de pêche selon l’annexe 4 en lieu et place du pays de production.
+<sup>5</sup> S’il s’agit de produits de la pêche capturés en mer visés à l’annexe I, let. a à c, du règlement (UE) n<sup>o</sup> 1379/2013[^15-2], il faut mentionner la zone de pêche visée à l’annexe 4 en lieu et place du pays de production.[^15-3]
 
 <sup>6</sup> On peut renoncer à l’indication du pays de production si celui-ci est identifiable par la dénomination spécifique ou par l’adresse visée à l’art. 3, al. 1, let. g. Les précisions minimales pour cette adresse sont l’indication du pays, du NPA et de la localité.
 
-<sup>7</sup> Le pays de production peut être abrégé sous forme d’un code ISO 2 si ce dernier est utilisé dans le tarif d’usage pour l’établissement de la statistique du commerce extérieur, dans la version du 1<sup>er</sup> janvier 2019[^15-1]. Les abréviations peuvent uniquement être utilisées pour les pays reconnus par la Suisse.[^15-2]
+<sup>7</sup> Le pays de production peut être abrégé sous forme d’un code ISO 2 si ce dernier est utilisé dans le tarif d’usage pour l’établissement de la statistique du commerce extérieur, dans la version du 1<sup>er</sup> janvier 2019[^15-4]. Les abréviations peuvent uniquement être utilisées pour les pays reconnus par la Suisse.[^15-5]
 
-[^15-1]: Le tarif d’usage peut être consulté et obtenu gratuitement à la Direction générale des douanes, Monbijoustrasse 40, 3003 Berne.
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^15-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^15-2]: Règlement (UE) n<sup>o</sup> 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n<sup>o</sup> 1184/2006 et (CE) n<sup>o</sup> 1224/2009 du Conseil et abrogeant le règlement (CE) n<sup>o</sup> 104/2000 du Conseil, JO L 354 du 28.12.2013, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2020/560, JO L 130 du 20.4.2020, p. 11.
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^15-4]: Le tarif d’usage peut être consulté et obtenu gratuitement à la Direction générale des douanes, Monbijoustrasse 40, 3003 Berne.
+[^15-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 #### Art. 16
 
@@ -402,67 +420,108 @@ La provenance du produit de base, au sens de l’art. 15, al. 2, qui sert d’in
 
 <sup>2</sup> Si un ingrédient à déclarer en vertu de l’al. 1 provient de différents pays, il faut indiquer les différents pays de provenance.
 
-<sup>3</sup> Par dérogation à l’al. 1, let. a, la provenance de l’animal dont sont issus les ingrédients d’origine animale mentionnés à l’art. 1 ODAlAn[^16-1] doit déjà être déclarée si la part de ceux-ci dans le produit fini est de 20 % ou plus de sa masse.[^16-2]
+<sup>2bis</sup> Lorsque l’indication de la provenance des ingrédients est facultative, il est possible, en lieu et place du pays de provenance, d’indiquer un espace géographique plus large, comme «UE» ou «Amérique du Sud».[^16-1]
+
+<sup>3</sup> Par dérogation à l’al. 1, let. a, la provenance de l’animal dont sont issus les ingrédients d’origine animale mentionnés à l’art. 1 ODAlAn[^16-2] doit déjà être déclarée si la part de ceux-ci dans le produit fini est de 20 % ou plus de sa masse.[^16-3]
 
 <sup>4</sup> La provenance des ingrédients doit être indiquée dans la liste des ingrédients ou dans le même champ visuel que cette liste.
 
-[^16-1]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
-[^16-2]: Erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
+[^16-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^16-2]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^16-3]: Erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
 
 #### Art. 17
 
-**Indications spécifiques pour la viande[^17-1]**
+**Indications spécifiques pour la viande fraîche**[^17-1]
 
 <sup>1</sup>
 
-Pour la viande bovine en morceaux, il faut indiquer les numéros d’autorisation de l’abattoir et de l’établissement de découpe et le pays dans lequel:[^17-2]
+Pour la viande bovine fraîche en morceaux, il faut indiquer:
 
-- a.[^17-3] l’animal est né, et
-- b. l’animal a passé la majeur partie de son existence, ou dans lequel
-- c. l’engraissement a eu lieu principalement.
+- a. les numéros d’autorisation de l’abattoir et de l’établissement de découpe;
+- b. le pays dans lequel l’animal est né;
+- c.
+
+  le pays dans lequel:
+
+  - 1\. l’animal a passé la majeure partie de son existence, ou
+  - 2\. l’engraissement a eu lieu principalement.
 
 <sup>2</sup>
 
-Par dérogation à l’al. 1, l’origine de la viande bovine peut être indiquée comme suit: «originaire d’un pays autre que ceux de l’UE/EEE» ou «Provenance: originaire d’un pays autre que la Suisse» associé à «abattu en: (nom du pays)», si:
+Par dérogation à l’al. 1, l’origine de la viande bovine fraîche peut être indiquée comme suit: «originaire d’un pays autre que ceux de l’UE/EEE» ou «Provenance: originaire d’un pays autre que la Suisse» associé à «abattu en: (nom du pays)», si:
 
-- a. la viande a été produite hors de l’UE et importée en Suisse à la seule fin de la mettre sur le marché, et que
+- a. la viande a été produite hors de l’UE ou de l’EEE et importée en Suisse pour être mise sur le marché, et que
 - b. les informations prévues par l’al. 1 ne sont pas disponibles.
 
 <sup>3</sup>
 
-Pour la viande de porc, de mouton, de chèvre ou de volaille en morceaux, il faut mentionner le pays dans lequel l’animal a été abattu et celui dans lequel:[^17-4]
+Pour la viande fraîche de porc, de mouton, de chèvre ou de volaille en morceaux, il faut indiquer:
 
-- a. l’engraissement a eu lieu principalement, ou dans lequel
-- b. l’animal a passé la majeure partie de son existence.
+- a. le pays dans lequel l’animal a été abattu;
+- b.
+
+  le pays dans lequel:
+
+  - 1\. l’animal a passé la majeure partie de son existence, ou
+  - 2\. l’engraissement a eu lieu principalement.
 
 <sup>4</sup>
 
-Par dérogation à l’al. 3, s’il s’agit de viande porcine, ovine, caprine ou de volaille fraîche, réfrigérée ou congelée, on peut indiquer «Animal élevé hors de l’UE/EEE» ou «Animal élevé hors de Suisse» associé à «abattu en: (nom du pays dans lequel l’animal a été abattu)», si:
+Par dérogation à l’al. 3, s’il s’agit de viande fraîche de porc, de mouton, de chèvre ou de volaille, on peut indiquer «Animal élevé hors de l’UE/EEE» ou «Animal élevé hors de Suisse» associé à «abattu en: (nom du pays)», si:
 
-- a. la viande a été produite hors de l’UE et importée en Suisse à la seule fin de la mettre sur le marché;
+- a. la viande a été produite hors de l’UE ou de l’EEE et importée en Suisse pour être mise sur le marché, et que
 - b. les informations prévues à l’al. 3 ne sont pas disponibles.
 
-<sup>5</sup> Si les animaux sont nés et ont été élevés et abattus dans le même pays, il peut être indiqué «Provenance: pays xy».
+<sup>5</sup> Si les animaux sont nés et ont été élevés et abattus dans le même pays, il peut être indiqué «Provenance: pays xy», en dérogation aux al. 1, let. b et c, et 3.
 
 <sup>6</sup> En ce qui concerne la viande hachée remise comme telle, il faut indiquer le pays de production. Le pays de provenance de la viande n’est indiqué que s’il diffère du pays de production.
 
-<sup>7</sup> ...[^17-5]
-
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^17-2]: Erratum du 7 juin 2017 ([RO 2017 3339](https://fedlex.data.admin.ch/eli/oc/2017/359)).
-[^17-3]: Erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
-[^17-4]: Erratum du 7 juin 2017 ([RO 2017 3339](https://fedlex.data.admin.ch/eli/oc/2017/359)).
-[^17-5]: Abrogé par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Section 9 Teneur en alcool
 
 #### Art. 18
 
-<sup>1</sup> La teneur en alcool des boissons alcooliques titrant plus de 1,2 % vol. doit être indiquée sur l’étiquette en «% vol.». La teneur effective ne peut s’écarter de plus ou de moins de 0,5 % vol. de la teneur indiquée.
+[^18-1]
 
-<sup>2</sup> La détermination de la teneur en alcool est régie par l’ordonnance du 15 février 2006 sur les instruments de mesure[^18-1] et par les dispositions édictées par le Département fédéral de justice et police sur la base de ladite ordonnance.
+<sup>1</sup> La teneur en alcool des boissons alcooliques titrant plus de 1,2 % vol. doit être indiquée sur l’étiquette en «% vol.».
 
-[^18-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+<sup>2</sup>
+
+La teneur effective ne peut être ni supérieure ni inférieure à la teneur indiquée de plus de:
+
+- a.
+
+  0,8 % vol. pour:
+
+  - 1\. les produits de la vigne bénéficiant d’une appellation d’origine protégée ou d’une indication géographique protégée stockés en bouteille pendant plus de trois ans,
+  - 2\. les vins mousseux,
+  - 3\. les vins mousseux de qualité,
+  - 4\. les vins mousseux gazéifiés,
+  - 5\. les vins pétillants,
+  - 6\. les vins pétillants gazéifiés,
+  - 7\. les vins de liqueur,
+  - 8\. les vins issus de raisins surmûris;
+
+- b.
+
+  1,0 % vol. pour:
+
+  - 1\. la bière titrant plus de 5,5 % vol.,
+  - 2\. les boissons mousseuses obtenues à partir de raisin,
+  - 3\. le cidre,
+  - 4\. le poiré,
+  - 5\. les vins de fruits et les autres boissons fermentées similaires obtenues à partir de fruits autres que le raisin, éventuellement pétillantes ou mousseuses,
+  - 6\. l’hydromel;
+
+- c. 1,5 % vol. pour les boissons contenant des fruits ou parties de plantes en macération;
+- d. 0,5 % vol. pour toutes les autres boissons titrant plus de 1,2 % vol.
+
+<sup>3</sup> La détermination de la teneur en alcool est régie par l’ordonnance du 15 février 2006 sur les instruments de mesure[^18-2] et par les dispositions du Département fédéral de justice et police fondées sur cette ordonnance.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^18-2]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 
 ### Section 10 Lot
 
@@ -502,36 +561,32 @@ L’indication du lot n’est pas requise:
 
 #### Art. 21
 
-**Principes**
+**Principes**[^21-1]
 
-<sup>1</sup> La déclaration nutritionnelle est obligatoire, sauf pour les denrées alimentaires énumérées à l’annexe 9.
+<sup>1</sup> La déclaration nutritionnelle est obligatoire pour toutes les denrées alimentaires, à l’exception de celles qui sont visées à l’annexe 9.
 
-<sup>2</sup> Elle peut être fournie à titre facultative pour les denrées alimentaires mentionnées à l’annexe 9.
+<sup>2</sup>
+
+Elle est obligatoire pour les denrées alimentaires mentionnées à l’annexe 9, lorsque celles‑ci:
+
+- a. sont accompagnées d’une allégation nutritionnelle ou d’une allégation de santé;
+- b. sont munies d’une indication concernant leur teneur en gluten ou en lactose conforme aux art. 41 et 42;
+- c. sont spécifiées dans l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers[^21-2];
+- d. ont été enrichies en vitamines, en sels minéraux ou en autres substances;
+- e. sont accompagnées d’une information quant à l’osmolarité, conformément à l’art. 42*b*.
 
 <sup>3</sup> Les dispositions de la présente section ne s’appliquent pas aux compléments alimentaires, ni à l’eau minérale et à l’eau de source.
 
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^21-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+
 #### Art. 22
 
-**Indications obligatoires**
+**Indications obligatoires**[^22-1]
 
-<sup>1</sup> La déclaration nutritionnelle doit comporter les indications suivantes: la valeur énergétique et la teneur en matières grasses, en acides gras saturés, en glucides, en sucres, en protéines et en sel.[^22-1]
+La déclaration nutritionnelle doit comporter les indications suivantes: la valeur énergétique et la teneur en matières grasses, en acides gras saturés, en glucides, en sucres, en protéines et en sel.
 
-<sup>2</sup> Il est admis de mentionner uniquement la valeur énergétique et la teneur en matières grasses, en glucides, en protéines et en sel.
-
-<sup>3</sup>
-
-La déclaration nutritionnelle doit être indiquée conformément à l’al. 1 si la denrée alimentaire:
-
-- a. est accompagnée d’une allégation nutritionnelle ou d’une allégation de santé;
-- b.[^22-2] est munie d’une indication concernant sa teneur en gluten ou en lactose conforme aux art. 41 et 42;
-- c. est spécifiée dans l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers (OBNP)[^22-3];
-- d. a été enrichie en vitamines, en sels minéraux ou en autres substances.
-
-<sup>4</sup> L’al. 3 s’applique aussi aux denrées alimentaires mentionnées à l’annexe 9.
-
-[^22-1]: Erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^22-3]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 23
 
@@ -539,7 +594,7 @@ La déclaration nutritionnelle doit être indiquée conformément à l’al. 1 s
 
 <sup>1</sup>
 
-Outre les indications requises par l’art. 22, al. 1, mentionnées sur l’étiquette, la déclaration nutritionnelle peut inclure les nutriments suivants:
+Outre les indications obligatoires, la déclaration nutritionnelle peut inclure les éléments suivants:[^23-1]
 
 - a. acides gras monoinsaturés;
 - b. acides gras polyinsaturés;
@@ -548,14 +603,18 @@ Outre les indications requises par l’art. 22, al. 1, mentionnées sur l’éti
 - e. fibres alimentaires;
 - f. vitamines et sels minéraux, sous réserve qu’ils soient présents en quantités significatives selon l’annexe 10.
 
-<sup>2</sup> Lorsqu’une teneur particulière en éléments visés à l’al. 1, let. a à f est mentionnée, il y a lieu de l’indiquer dans la déclaration nutritionnelle visée à l’art. 22, al. 1.
+<sup>2</sup> Lorsqu’une teneur particulière en éléments visés à l’al. 1, let. a à f, est mentionnée, il y a lieu de l’indiquer dans la déclaration nutritionnelle.[^23-2]
 
 <sup>3</sup>
 
-Lorsque l’étiquetage d’une denrée alimentaire préemballée comporte la déclaration nutritionnelle visée à l’art. 22, al. 1, les informations suivantes peuvent y être répétées:
+Lorsque l’étiquetage d’une denrée alimentaire préemballée comporte une déclaration nutritionnelle, les informations suivantes peuvent y être répétées:[^23-3]
 
 - a. la valeur énergétique, ou
 - b. la valeur énergétique et la teneur en matières grasses, en acides gras saturés, en sucre et en sel.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 24
 
@@ -563,13 +622,13 @@ Lorsque l’étiquetage d’une denrée alimentaire préemballée comporte la d�
 
 <sup>1</sup> Si une substance qui fait l’objet d’une allégation nutritionnelle ou de santé n’est pas mentionnée dans la déclaration nutritionnelle, la quantité considérée doit être indiquée à proximité immédiate de la déclaration nutritionnelle et dans le même champ visuel que cette dernière.
 
-<sup>2</sup> Lorsque la valeur énergétique ou la teneur en nutriments d’un produit est négligeable, l’information concernant ces éléments peut être remplacée par une mention telle que mention «Contient des quantités négligeables de ...», placée à proximité immédiate de la déclaration nutritionnelle, si une telle déclaration est fournie.[^24-1]
+<sup>2</sup> Lorsque la valeur énergétique ou la teneur en nutriments d’un produit est négligeable, l’information concernant ces éléments peut être remplacée par une mention telle que «Contient des quantités négligeables de …», placée à proximité immédiate de la déclaration nutritionnelle, si une telle déclaration est fournie.[^24-1]
 
 <sup>3</sup> S’il y a lieu, une déclaration indiquant que la teneur en sel est due exclusivement à la présence de sodium présent naturellement dans le produit peut figurer à proximité immédiate de la déclaration nutritionnelle.
 
 <sup>4</sup> Si la déclaration nutritionnelle est fournie à titre facultatif parce qu’il s’agit d’une denrée alimentaire vendue en vrac ou d’une boisson présentant un titre alcoométrique supérieur à 1,2 % vol., elle peut se limiter à la mention de la valeur énergétique.
 
-[^24-1]: Erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 25
 
@@ -776,9 +835,11 @@ Les allégations nutritionnelles et de santé relatives à l’absence ou à la 
 
 <sup>4</sup> Les marques de fabrique, les noms commerciaux ou les dénominations de fantaisie qui apparaissent dans l’étiquetage ou la présentation d’une denrée alimentaire ou la publicité faite à son sujet et qui peuvent être considérés comme des allégations nutritionnelles ou de santé ne sont autorisés que s’ils sont accompagnés d’une allégation nutritionnelle ou de santé conforme aux dispositions de la présente section.
 
-<sup>5</sup> Par dérogation à l’al. 4, l’OSAV peut, pour les dénominations génériques qui sont habituellement utilisées pour indiquer une propriété d’une catégorie de denrées alimentaires ou de boissons susceptible d’avoir un effet sur la santé humaine, accorder une dérogation sous réserve que la protection de la santé soit garantie et que le consommateur ne soit pas trompé. La procédure d’autorisation est régie par les art. 3 à 7 ODAlOUs.
+<sup>5</sup> En dérogation à l’al. 4, l’OSAV peut, pour les dénominations génériques qui sont habituellement utilisées pour indiquer une propriété d’une catégorie de denrées alimentaires ou de boissons susceptible d’avoir un effet sur la santé humaine, prévoir des exceptions dans l’annexe 14*a*, sous réserve que la protection de la santé soit garantie et que le consommateur ne soit pas trompé.[^35-1]
 
 <sup>6</sup> Les dispositions de la présente section ne sont pas applicables à l’eau minérale ni à l’eau de source.
+
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Section 13 Marque d’identification
 
@@ -924,6 +985,17 @@ L’information doit satisfaire aux exigences suivantes:
 
 [^42a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
+#### Art. 42b
+
+**Information quant à l’osmolarité des boissons**[^42b-1]
+
+<sup>1</sup> Les boissons peuvent être qualifiées d’isotoniques lorsque leur osmolarité est comprise entre 260 et 300 mosmol/l, tandis qu’elles peuvent être qualifiées d’hypotoniques si leur osmolarité est inférieure à 260 mosmol/l.
+
+<sup>2</sup> Cette information n’est pas admise pour les boissons contenant de la caféine au sens de l’art. 37 de l’ordonnance du DFI du 16 décembre 2016 sur les boissons[^42b-2] ni sur les boissons alcooliques au sens de l’art. 61, al. 1, de ladite ordonnance.
+
+[^42b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^42b-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+
 ## Chapitre 4 Actualisation des annexes
 
 #### Art. 43
@@ -959,6 +1031,14 @@ Les produits portant déjà une marque de fabrique ou un nom commercial existant
 Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuvent encore être importées et étiquetées selon l’ancien droit jusqu’au 30 juin 2021 et remises au consommateur jusqu’à épuisement des stocks.
 
 [^45a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+
+#### Art. 45b
+
+**Disposition transitoire de la modification du 8 décembre 2023**[^45b-1]
+
+Les denrées alimentaires non conformes à la modification du 8 décembre 2023 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^45b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 46
 
@@ -1073,7 +1153,7 @@ Annexe 2[^t-2]
 <tr><td>6.1 Viandes congelées, préparations de viandes congelées et produits de la pêche non transformés congelés</td><td>Date de congélation ou date de première congélation si le produit a été congelé à plusieurs reprises, conformément à l’annexe 8, ch. 3.</td></tr>
 </table>
 
-[^annex2-lvlu1-partB-1]: Règlement (CE) n<sup>o</sup> 1333/2008 du Parlement européen et du Conseil du 16 décembre 2008 sur les additifs alimentaires, JO L 354 du 31.12.2008, p. 16 ; modifié en dernier lieu par le règlement (UE) 2019/1676, JO L 257 du 8.10.2019, p. 11
+[^annex2-lvlu1-partB-1]: Règlement (CE) n<sup>o</sup> 1333/2008 du Parlement européen et du Conseil du 16 décembre 2008 sur les additifs alimentaires, JO L 354 du 31.12.2008, p. 16; modifié en dernier lieu par le règlement (UE) 2019/1676, JO L 257 du 8.10.2019, p. 11
 
 Annexe 3
 
@@ -1081,7 +1161,7 @@ Annexe 3
 
 ## Définition de la hauteur d’x
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/fr/xml/image/image1.png)
 
 Légende
 
@@ -1135,7 +1215,7 @@ Annexe 5[^t-4]
 
 ## Énumération et désignation des ingrédients
 
-[^t-4]: Mise à jour par l’erratum du 19 nov. 2019 ([RO 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)).
+[^t-4]: Mise à jour par l’erratum du 19 nov. 2019 ([RO 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Partie A Dispositions particulières relatives à l’énumération des ingrédients dans l’ordre décroissant de leur importance pondérale
 
@@ -1147,14 +1227,14 @@ Annexe 5[^t-4]
 <tr><td>4. Fruits, légumes ou champignons, dont aucun ne prédomine en poids de manière significative et qui sont utilisés en proportions susceptibles de varier, utilisés en mélange comme ingrédients dans une denrée alimentaire</td><td>Peuvent être regroupés dans la liste des ingrédients sous la désignation «fruits», «légumes» ou «champignons» suivie de la mention «en proportion variable», immédiatement suivie de l’énumération des fruits, légumes ou champignons présents. Dans ce cas, le mélange est indiqué dans la liste des ingrédients, conformément à l’art. 8, al. 2, en fonction du poids de l’ensemble des fruits, légumes ou champignons présents.</td></tr>
 <tr><td>5. Mélanges d’épices ou de plantes aromatiques, dont aucune ne prédomine en poids de manière significative</td><td>Peuvent être énumérés dans un ordre différent à condition que la liste desdits ingrédients soit accompagnée d’une mention telle que «en proportion variable».</td></tr>
 <tr><td>6. Ingrédients représentant moins de 2 % du produit fini</td><td>Peuvent être énumérés dans un ordre différent à la suite des autres ingrédients.</td></tr>
-<tr><td>7. Ingrédients similaires et substituables entre eux, susceptibles d’être utilisés dans la fabrication ou la préparation d’une denrée alimentaire sans en altérer la composition, la nature ou la valeur perçue, et pour autant qu’ils représentent moins de 2 % du produit fini</td><td>Peuvent être désignés dans la liste des ingrédients à l’aide de l’affirmation «contient ... et/ou ...», dans le cas où l’un au moins, parmi deux ingrédients au plus, est présent dans le produit fini. Cette disposition ne s’applique pas aux additifs alimentaires ni aux ingrédients énumérés dans la partie C ni aux substances ou produits répertoriés à l’annexe 6 provoquant des allergies ou intolérances.</td></tr>
+<tr><td>7. Ingrédients similaires et substituables entre eux, susceptibles d’être utilisés dans la fabrication ou la préparation d’une denrée alimentaire sans en altérer la composition, la nature ou la valeur perçue, et pour autant qu’ils représentent moins de 2 % du produit fini</td><td>Peuvent être désignés dans la liste des ingrédients à l’aide de l’affirmation «contient … et/ou …», dans le cas où l’un au moins, parmi deux ingrédients au plus, est présent dans le produit fini. Cette disposition ne s’applique pas aux additifs alimentaires ni aux ingrédients énumérés dans la partie C ni aux substances ou produits répertoriés à l’annexe 6 provoquant des allergies ou intolérances.</td></tr>
 <tr><td>8. Huiles raffinées d’origine végétale</td><td>Peuvent être regroupées dans la liste des ingrédients sous la désignation «huiles végétales», immédiatement suivie de l’énumération des origines végétales spécifiques et éventuellement suivie de la mention «en proportion variable». En cas de regroupement, les huiles végétales sont indiquées dans la liste des ingrédients, en fonction du poids de l’ensemble des huiles végétales présentes. L’expression «totalement hydrogénée» ou «partiellement hydrogénée», selon le cas, doit accompagner la mention d’une huile hydrogénée.</td></tr>
 <tr><td>9. Graisses raffinées d’origine végétale</td><td>Peuvent être regroupées dans la liste des ingrédients sous la désignation «graisses végétales», immédiatement suivie de l’énumération des origines végétales spécifiques et éventuellement suivie de la mention «en proportion variable». En cas de regroupement, les graisses végétales sont indiquées dans la liste des ingrédients en fonction du poids de l’ensemble des graisses végétales présentes. L’expression «totalement hydrogénée» ou «partiellement hydrogénée», selon le cas, doit accompagner la mention d’une graisse hydrogénée.</td></tr>
 </table>
 
 ### Partie B Ingrédients pouvant être désignés par le nom d’une catégorie plutôt que par un nom spécifique
 
-Les ingrédients appartenant à l’une des catégories de denrées alimentaires énumérées ci-dessous et qui entrent dans la composition d’une autre denrée alimentaire peuvent être désignés par le nom de cette catégorie au lieu de leur nom spécifique. L’art. 10 est réservé.
+Les ingrédients appartenant à l’une des catégories de denrées alimentaires énumérées ci-dessous et qui entrent dans la composition d’une autre denrée alimentaire peuvent être désignés par le nom de cette catégorie au lieu de leur nom spécifique. L’art. 11 est réservé.
 
 <table>
 <tr><th>Définition de la catégorie</th><th>Désignation</th></tr>
@@ -1178,7 +1258,7 @@ Les ingrédients appartenant à l’une des catégories de denrées alimentaires
 
 ### Partie C Ingrédients désignés par le nom de leur catégorie fonctionnelle suivi de leur nom spécifique ou de leur numéro E
 
-- 1\. Les additifs alimentaires et enzymes alimentaires autres que ceux précisés à l’art. 9, al. 2, let. b, appartenant à l’une des catégories fonctionnelles énumérées dans la présente partie, sont obligatoirement désignés par le nom de cette catégorie, suivi de leur nom spécifique ou, le cas échéant, de leur numéro E. Dans le cas d’un ingrédient appartenant à plusieurs catégories fonctionnelles, est indiquée celle correspondant à sa fonction principale dans le cas de la denrée alimentaire concernée. L’art. 10 est réservé.
+- 1\. Les additifs alimentaires et enzymes alimentaires autres que ceux précisés à l’art. 9, al. 2, let. b, appartenant à l’une des catégories fonctionnelles énumérées dans la présente partie, sont obligatoirement désignés par le nom de cette catégorie, suivi de leur nom spécifique ou, le cas échéant, de leur numéro E. Dans le cas d’un ingrédient appartenant à plusieurs catégories fonctionnelles, est indiquée celle correspondant à sa fonction principale dans le cas de la denrée alimentaire concernée. L’art. 11 est réservé.
   - [tab] Acidifiant
   - [tab] Affermissant
   - [tab] Agent de charge
@@ -1211,7 +1291,7 @@ Les ingrédients appartenant à l’une des catégories de denrées alimentaires
 
 - 1\. Les arômes sont désignés:
 - 1\.1 soit sous le terme «arôme(s)», soit sous une dénomination ou une description plus spécifique de l’arôme si l’agent aromatisant contient des arômes tels que définis à l’art. 2, al. 1, let. b à h, de l’ordonnance du DFI du 16 décembre 2016 sur les arômes[^annex5-lvlu1-partD-1];
-- 1\.2 soit sous le terme «arôme(s) de fumée», ou «arôme(s) de fumée produit(s) à partir de denrée(s) ou catégorie de denrées ou de matériau(x) source» (par exemple, «arôme de fumée produit à partir de hêtre»), si l’agent aromatisant contient des arômes tels que définis à l’art. 2, al. 1, let. e, de l’ordonnance du DFI du ... sur les arômes et confère un arôme de fumée aux denrées alimentaires.
+- 1\.2 soit sous le terme «arôme(s) de fumée», ou «arôme(s) de fumée produit(s) à partir de denrée(s) ou catégorie de denrées ou de matériau(x) source» (par exemple, «arôme de fumée produit à partir de hêtre»), si l’agent aromatisant contient des arômes tels que définis à l’art. 2, al. 1, let. e, de l’ordonnance du DFI du … sur les arômes et confère un arôme de fumée aux denrées alimentaires.
 - 2\. Le qualificatif «naturel» est utilisé pour désigner un arôme conformément à l’art. 10 de l’ordonnance du DFI sur les arômes.
 - 3\. La quinine ou la caféine qui sont utilisées en tant qu’arôme dans la fabrication ou la préparation d’une denrée alimentaire sont désignées dans la liste des ingrédients sous leur dénomination spécifique, immédiatement après le terme «arôme(s)».
 
@@ -1219,10 +1299,10 @@ Les ingrédients appartenant à l’une des catégories de denrées alimentaires
 
 ### Partie E Désignation des ingrédients composés
 
-- 1\. Un ingrédient composé peut figurer dans la liste des ingrédients sous sa dénomination spécifique en fonction de son importance pondérale, à condition que sa composition figure immédiatement après ladite dénomination. Seuls doivent être déclarés les additifs qui remplissent encore une fonction technologique dans le produit fini. L’art. 10 est réservé.
+- 1\. Un ingrédient composé peut figurer dans la liste des ingrédients sous sa dénomination spécifique en fonction de son importance pondérale, à condition que sa composition figure immédiatement après ladite dénomination. Seuls doivent être déclarés les additifs qui remplissent encore une fonction technologique dans le produit fini. L’art. 11 est réservé.
 - 2\. La liste des ingrédients prévue pour les ingrédients composés n’est pas obligatoire:
-- 2\.1 lorsque la composition de l’ingrédient composé est définie dans une ordonnance, et pour autant que l’ingrédient composé intervienne pour moins de 2 % dans le produit fini, les art. 9, al. 2, let. a à d, pour les additifs et 10 demeurant réservés;
-- 2\.2 pour les ingrédients composés consistant en mélanges d’épices ou de plantes aromatiques qui interviennent pour moins de 2 % dans le produit fini, les art. 9, al. 2, let. a à d, pour les additifs et 10 demeurant réservés;
+- 2\.1 lorsque la composition de l’ingrédient composé est définie dans une ordonnance, et pour autant que l’ingrédient composé intervienne pour moins de 2 % dans le produit fini, les art. 9, al. 2, let. a à d, pour les additifs et 11 demeurant réservés;
+- 2\.2 pour les ingrédients composés consistant en mélanges d’épices ou de plantes aromatiques qui interviennent pour moins de 2 % dans le produit fini, les art. 9, al. 2, let. a à d, pour les additifs et 11 demeurant réservés;
 - 2\.3 lorsque l’ingrédient composé est une denrée alimentaire pour laquelle la liste des ingrédients n’est pas exigée.
 
 Annexe 5a[^t-5]
@@ -1238,15 +1318,17 @@ Annexe 5a[^t-5]
 <tr><td>Fleischkäse</td><td>fromage d’Italie</td><td>fleischkäse</td></tr>
 </table>
 
-Annexe 6
+Annexe 6[^t-6]
 
-(art. 10 et 11, al. 1 à 3 et 9)
+(art. 10 et 11, al. 1 à 3, 7<sup>bis</sup> et 9)
 
 ## Ingrédients pouvant provoquer des allergies ou d’autres réactions indésirables
 
+[^t-6]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+
 Les ingrédients ci-après et les produits dont ils sont dérivés peuvent provoquer des allergies ou d’autres réactions indésirables et doivent donc toujours être indiqués dans l’étiquetage; l’art. 11, al. 9, est réservé:
 
-- 1\. céréales contenant du gluten, à savoir le blé, comme l’épeautre et le blé de Khorasan, le seigle, l’orge, l’avoine, ou leurs souches hybridées et produits à base de ces céréales, à l’exception:
+- 1\. céréales contenant du gluten, à savoir le blé, l’épeautre, le blé de Khorasan, le seigle, l’orge, l’avoine, ou leurs souches hybridées, et produits à base de ces céréales, à l’exception:
 - 1\.1 des sirops de glucose à base de blé, y compris le dextrose et produits à base ceux-ci, sous réserve que le procédé qu’ils ont subi n’élève pas le niveau d’allergénicité,
 - 1\.2 des maltodextrines à base de blé et produits à base celles-ci, sous réserve que le procédé qu’elles ont subi n’élève pas le niveau d’allergénicité,
 - 1\.3 des sirops de glucose à base d’orge,
@@ -1311,8 +1393,8 @@ Annexe 8
 
   elle est précédée des termes:
 
-  - a. «à consommer de préférence avant le ...» lorsque la date comporte l’indication du jour,
-  - b. «à consommer de préférence avant fin ...» dans les autres cas;
+  - a. «à consommer de préférence avant le …» lorsque la date comporte l’indication du jour,
+  - b. «à consommer de préférence avant fin …» dans les autres cas;
 
 - 1\.2
 
@@ -1345,7 +1427,7 @@ Annexe 8
 
 - 1\.5 les mentions selon le ch. 1.1 doivent être complétées si nécessaire par une description des conditions de conservation dont le respect permet d’assurer la durée de conservation indiquée.
 - 2\. La date limite de consommation est indiquée comme suit:
-- 2\.1 elle est précédée des termes «à consommer jusqu’au ...»;
+- 2\.1 elle est précédée des termes «à consommer jusqu’au …»;
 - 2\.2
 
   les termes prévus au ch. 2.1 sont suivis:
@@ -1357,7 +1439,7 @@ Annexe 8
 - 2\.4 la date limite de consommation est indiquée sur chaque portion individuelle préemballée;
 - 2\.5 les mentions selon le ch. 2.1 doivent être suivies d’une description des conditions de conservation à respecter.
 - 3\. La date de congélation ou la date de première congélation, visée à l’annexe 2, partie B, ch. 6, est mentionnée comme suit:
-- 3\.1 elle est précédée des termes «produit congelé le ...»;
+- 3\.1 elle est précédée des termes «produit congelé le …»;
 - 3\.2
 
   les termes prévus au ch. 3.1 sont suivis:
@@ -1395,13 +1477,13 @@ Annexe 9
 - 20\. Les boissons alcooliques titrant plus de 1,2 % vol.
 - 21\. Les denrées alimentaires vendues en vrac
 
-Annexe 10[^t-6]
+Annexe 10[^t-7]
 
 (art. 23, al. 1, let. f, 27, al. 2 et 3, 28, al. 2, et 29, al. 1, let. b, ch. 1)
 
 ## Apports de référence
 
-[^t-6]: Mise à jour par l’erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
+[^t-7]: Mise à jour par l’erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
 
 ### Partie A Apports quotidiens de référence en vitamines et en sels minéraux (adultes)
 
@@ -1443,13 +1525,13 @@ Annexe 10[^t-6]
 <tr><td>Sel</td><td>6 g</td></tr>
 </table>
 
-Annexe 11[^t-7]
+Annexe 11[^t-8]
 
 (art. 25, al. 1, let. b, et 26, al. 2)
 
 ## Présentation de la déclaration nutritionnelle
 
-[^t-7]: Mise à jour par l’erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
+[^t-8]: Mise à jour par l’erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
 
 Les unités de mesure à utiliser dans la déclaration nutritionnelle pour les valeurs énergétiques «kilojoules» (kJ) ou «kilocalories» (kcal) et pour la masse «grammes» (g), «milligrammes» (mg) ou «microgrammes» (µg) et l’ordre de présentation des informations sont les suivants:
 
@@ -1471,13 +1553,13 @@ Les unités de mesure à utiliser dans la déclaration nutritionnelle pour les v
 <tr><td>Vitamines et sels minéraux</td><td>les unités de mesure figurant à l’annexe 10, partie A, ch. 1</td></tr>
 </table>
 
-Annexe 12[^t-8]
+Annexe 12[^t-9]
 
 (art. 26, al. 1)
 
 ## Coefficients de conversion pour le calcul de l’énergie
 
-[^t-8]: Mise à jour par l’erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
+[^t-9]: Mise à jour par l’erratum du 12 juin 2018 ([RO 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
 
 La valeur énergétique à déclarer se calcule à l’aide des coefficients de conversion suivants:
 
@@ -1493,13 +1575,13 @@ La valeur énergétique à déclarer se calcule à l’aide des coefficients de 
 <tr><td>Érythritol</td><td>0 kJ/g = 0 kcal/g</td></tr>
 </table>
 
-Annexe 13[^t-9]
+Annexe 13[^t-10]
 
 (art. 29, al. 3)
 
 ## Allégations nutritionnelles et conditions de leur utilisation
 
-[^t-9]: Mise à jour par l’erratum du 20 août 2019 ([RO 2019 2627](https://fedlex.data.admin.ch/eli/oc/2019/488)).
+[^t-10]: Mise à jour par l’erratum du 20 août 2019 ([RO 2019 2627](https://fedlex.data.admin.ch/eli/oc/2019/488)).
 
 ### 1 Faible valeur énergétique
 
@@ -1699,25 +1781,25 @@ Si une denrée alimentaire remplit naturellement les conditions visées dans la 
 
 [^annex13-lvlu1-lvl35-1]: [RS 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
 
-Annexe 14[^t-10]
+Annexe 14[^t-11]
 
 (art. 31, al. 2 et 3, 32, al. 1, 33 et 34, al. 2, let. b)
 
 ## Allégations de santé admises pour les denrées alimentaires, les ingrédients et composants alimentaires, les catégories de denrées alimentaires, conditions d’utilisation
 
-[^t-10]: Mise à jour par l’erratum du 19 nov. 2019 ([RO 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)) et le ch. I de l’O de l’OSAV du 31 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)).
+[^t-11]: Mise à jour par l’erratum du 19 nov. 2019 ([RO 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), le ch. I de l’O de l’OSAV du 31 mai 2023 ([RO 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 <table>
 <tr><th>Denrées alimentaires, ingrédients, composants alimentaires, catégories de denrées alimentaires</th><th>Allégation</th><th>Conditions d’utilisation</th><th>Restrictions/avertissements</th></tr>
 <tr><td>α-cyclodextrine</td><td>La consommation de α cyclodextrine lors d’un repas composé de féculents contribue à atténuer la hausse de la glycémie après ce repas.</td><td>L’allégation peut être utilisée pour une denrée alimentaire contenant au moins 5 g d’α-cyclodextrine pour 50 g d’amidon par portion quantifiée du repas. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation d’α‑cyclodextrine à l’occasion du repas.</td><td></td></tr>
 <tr><td>Acide docosahexaénoïque (DHA)</td><td>Le DHA contribue au fonctionnement normal du cerveau.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire contenant au moins 40 mg de DHA pour 100 g et 100 kcal. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 250 mg de DHA.</td><td></td></tr>
-<tr><td>Acide docosahexaénoïque (DHA)</td><td>Le DHA contribue au maintien d’un taux de triglycérides sanguin normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 2 g de DHA et qui contient du DHA en association avec de l’acide eicosapentaénoïque (EPA). L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 2 g de DHA. Lorsque l’allégation porte sur des compléments alimentaires et/ou des aliments enrichis, le consommateur doit également être informé que la consommation journalière complémentaire d’EPA et de DHA combinés ne doit pas dépasser 5 g.</td><td>L’allégation ne peut être utilisée pour des denrées alimentaires destinées aux enfants.</td></tr>
+<tr><td>Acide docosahexaénoïque (DHA)</td><td>Le DHA contribue au maintien d’une concentration normale de triglycérides dans le sang.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 2 g de DHA et qui contient du DHA en association avec de l’acide eicosapentaénoïque (EPA). L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 2 g de DHA. Lorsque l’allégation porte sur des compléments alimentaires, des aliments enrichis ou des denrées alimentaires destinées aux sportifs, le consommateur doit également être informé que la consommation journalière complémentaire d’EPA et de DHA combinés ne doit pas dépasser 5 g.</td><td>L’allégation ne peut être utilisée pour des denrées alimentaires destinées aux enfants.</td></tr>
 <tr><td>Acide docosahexaénoïque (DHA)</td><td>La consommation de DHA par la mère contribue au développement normal des yeux du fœtus et de l’enfant allaité.</td><td>Les femmes enceintes et allaitantes doivent être informées que l’effet bénéfique est obtenu par la consommation journalière de 200 mg de DHA, en plus de la consommation journalière d’acides gras oméga-3 recommandée pour les adultes, soit 250 mg de DHA et d’EPA. L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière d’au moins 200 mg de DHA</td><td></td></tr>
 <tr><td>Acide docosahexaénoïque (DHA)</td><td>Le DHA contribue au maintien d’une vision normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire contenant au moins 40 mg de DHA pour 100 g et 100 kcal. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 250 mg de DHA.</td><td></td></tr>
 <tr><td>Acide docosahexaénoïque (DHA)</td><td>La consommation de DHA par la mère contribue au développement normal du cerveau du fœtus et de l’enfant allaité</td><td>Les femmes enceintes et allaitantes doivent être informées que l’effet bénéfique est obtenu par la consommation journalière de 200 mg de DHA, en plus de la consommation journalière d’acides gras oméga-3 recommandée pour les adultes, soit 250 mg de DHA et d’acide eicosapentaénoïque (EPA).</td><td></td></tr>
 <tr><td>Acide docosahexaénoïque (DHA)</td><td>La consommation d’acide docosahexaénoïque (DHA) contribue au développement normal de la vue des nourrissons jusqu’à 12 mois.</td><td>Le consommateur doit être informé que l’effet bénéfique est obtenu par la consommation journalière de 100 mg de DHA. Lorsque l’allégation est utilisée sur une préparation de suite, la denrée alimentaire doit contenir au minimum 0,3 % du total des acides gras sous forme de DHA</td><td></td></tr>
-<tr><td>Acide docosahexaénoïque (DHA) et acide eicosapentaénoïque (EPA)</td><td>Le DHA et l’EPA contribuent au maintien d’un niveau de triglycérides sanguin normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière combinée de 2 g de DHA et EPA. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 2 g de DHA et d’EPA. Lorsque l’allégation porte sur des compléments alimentaires et/ou des aliments enrichis, le consommateur doit également être informé que la consommation journalière complémentaire d’EPA et de DHA combinés ne doit pas dépasser 5 g.</td><td>L’allégation ne peut être utilisée pour des denrées alimentaires destinées aux enfants.</td></tr>
-<tr><td>Acide docosahexaénoïque et acide eicosapentaénoïque (DHA/EPA)</td><td>Le DHA et l’EPA contribuent au maintien d’une pression sanguine normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 3 g de DHA et d’EPA et qui contient du DHA en association avec de l’EPA. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière combinée de 3 g de DHA et d’EPA. Lorsque l’allégation porte sur des compléments alimentaires et/ou des aliments enrichis, le consommateur doit également être informé que la consommation journalière complémentaire d’EPA et de DHA combinés ne doit pas dépasser 5 g.</td><td>L’allégation ne peut être utilisée pour des denrées alimentaires destinées aux enfants.</td></tr>
+<tr><td>Acide docosahexaénoïque et acide eicosapentaénoïque (DHA/EPA)</td><td>Le DHA et l’EPA contribuent au maintien d’une pression sanguine normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 3 g de DHA et d’EPA. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 3 g de DHA et d’EPA. Lorsque l’allégation porte sur des compléments alimentaires, des aliments enrichis ou des denrées alimentaires destinées aux sportifs, le consommateur doit également être informé que la consommation journalière complémentaire d’EPA et de DHA combinés ne doit pas dépasser 5 g.</td><td>L’allégation ne peut être utilisée pour des denrées alimentaires destinées aux enfants.</td></tr>
+<tr><td>Acide docosahexaénoïque (DHA) et acide eicosapentaénoïque (EPA)</td><td>Le DHA et l’EPA contribuent au maintien d’une concentration normale de triglycérides dans le sang.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 2 g de DHA et d’EPA. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 2 g de DHA et d’EPA. Lorsque l’allégation porte sur des compléments alimentaires, des aliments enrichis ou des denrées alimentaires destinées aux sportifs, le consommateur doit également être informé que la consommation journalière complémentaire d’EPA et de DHA combinés ne doit pas dépasser 5 g.</td><td>L’allégation ne peut être utilisée pour des denrées alimentaires destinées aux enfants.</td></tr>
 <tr><td>Acide eicosapentaénoïque (EPA) et acide docosahexaénoïque (DHA)</td><td>L’EPA et le DHA contribuent à un fonctionnement normal du cœur.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’acides gras oméga-3 (source d’EPA et de DHA) selon l’annexe 13, ch. 6. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation conjointe d’EPA et de DHA de 250 mg/jour.</td><td></td></tr>
 <tr><td>Acide linoléique</td><td>L’acide linoléique contribue au maintien d’une cholestérolémie normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire fournissant au moins 1,5 g d’acide linoléique pour 100 g et 100 kcal. Le consommateur doit être informé que l’effet bénéfique est obtenu par la consommation journalière de 10 g d’acide linoléique.</td><td></td></tr>
 <tr><td>Acide oléique</td><td>Le remplacement de graisses saturées par des graisses insaturées dans le régime alimentaire contribue au maintien d’une cholestérolémie normale. L’acide oléique est une graisse insaturée.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est riche en acides gras insaturés selon l’annexe 13, ch. 10.</td><td></td></tr>
@@ -1742,7 +1824,7 @@ Annexe 14[^t-10]
 <tr><td>Biotine</td><td>La biotine contribue au maintien d’une chevelure normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de biotine selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Biotine</td><td>La biotine contribue au maintien de muqueuses normales.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de biotine selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Biotine</td><td>La biotine contribue au maintien d’une peau normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de biotine selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Boisson acide non alcoolisée reformulée ayant – moins de 1 g de glucides fermentescibles par 100 ml (sucres et autres glucides à l’exception des polyols) ; – de 0,3 à 0,8 mol de calcium par mol d’acidifiant ; – un pH compris entre 3,7 et 4,0..</td><td>Le remplacement de boissons acides contenant du sucre, telles que les boissons rafraîchissantes sans alcool (contenant habituellement de 8 à 12 g de sucre par 100 ml), par des boissons reformulées contribue au maintien de la minéralisation des dents.</td><td>Pour porter l’allégation, les boissons acides reformulées doivent correspondre à la description de la denrée alimentaire faisant l’objet de l’allégation.</td><td></td></tr>
+<tr><td>Boisson acide non alcoolisée reformulée ayant – moins de 1 g de glucides fermentescibles par 100 ml (sucres et autres glucides à l’exception des polyols); – de 0,3 à 0,8 mol de calcium par mol d’acidifiant; – un pH compris entre 3,7 et 4,0..</td><td>Le remplacement de boissons acides contenant du sucre, telles que les boissons rafraîchissantes sans alcool (contenant habituellement de 8 à 12 g de sucre par 100 ml), par des boissons reformulées contribue au maintien de la minéralisation des dents.</td><td>Pour porter l’allégation, les boissons acides reformulées doivent correspondre à la description de la denrée alimentaire faisant l’objet de l’allégation.</td><td></td></tr>
 <tr><td>Caféine</td><td>La caféine contribue à améliorer la concentration, les performances, l’état d’éveil et l’attention.</td><td>Cette allégation peut être formulée si chaque portion contient au moins 75 mg de caféine.</td><td>Contient de la caféine. La mention «déconseillé aux enfants et aux femmes enceintes» doit figurer dans le même champ visuel que la dénomination spécifique.</td></tr>
 <tr><td>Caféine</td><td>La caféine favorise à court terme les performances physiques.</td><td>Cette allégation peut être formulée si chaque portion contient au moins 75 mg de caféine.</td><td>Contient de la caféine. La mention «déconseillé aux enfants et aux femmes enceintes» doit figurer dans le même champ visuel que la dénomination spécifique.</td></tr>
 <tr><td>Calcium</td><td>Le calcium est nécessaire à une croissance et à un développement osseux normaux des enfants</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de calcium selon l’annexe 13, ch. 28.</td><td></td></tr>
@@ -1757,7 +1839,7 @@ Annexe 14[^t-10]
 <tr><td>Calcium</td><td>Le calcium contribue à réduire la perte de densité minérale osseuse chez les femmes ménopausées. Une faible densité minérale osseuse constitue un facteur de risque des fractures ostéoporotiques.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire contenant au moins 400 mg de calcium par portion quantifiée. L’allégation peut être utilisée si le consommateur est informé que l’allégation concerne spécifiquement les femmes de 50 ans et plus et que l’effet bénéfique est obtenu moyennant une consommation journalière d’au moins 1200 mg de calcium, toutes sources confondues.</td><td>Pour les denrées alimentaires enrichies en calcium, l’allégation ne peut être utilisée que pour celles destinées aux femmes de 50 ans et plus.</td></tr>
 <tr><td>Calcium et vitamine D</td><td>Le calcium et la vitamine D contribuent à réduire la perte de densité minérale osseuse chez les femmes ménopausées. Une faible densité minérale osseuse constitue un facteur de risque des fractures ostéoporotiques.</td><td>L’allégation ne peut être utilisée que pour les compléments alimentaires contenant au moins 400 mg de calcium et 15 µg de vitamine D par portion quantifiée. L’allégation peut être utilisée si le consommateur est informé que l’allégation concerne spécifiquement les femmes de 50 ans et plus et que l’effet bénéfique est obtenu moyennant une consommation journalière d’au moins 1200 mg de calcium et 20 µg de vitamine D, toutes sources confondues.</td><td>Pour les compléments alimentaires enrichis en calcium et en vitamine D, l’allégation ne peut être utilisée que pour ceux destinés aux femmes de 50 ans et plus.</td></tr>
 <tr><td>Calcium et vitamine D</td><td>Le calcium et la vitamine D sont nécessaires à une croissance et à un développement osseux normaux des enfants</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de calcium et de vitamine D selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Chitosane</td><td>Le chitosane contribue au maintien d’une cholestérolémie normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire – sauf les compléments alimentaires – qui garantit une consommation journalière de 3 g de chitosane. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 3 g de chitosane.</td><td></td></tr>
+<tr><td>Chitosane</td><td>Le chitosane contribue au maintien d’une cholestérolémie normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 3 g de chitosane. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 3 g de chitosane.</td><td></td></tr>
 <tr><td>Chlore</td><td>Le chlorure contribue à une digestion normale grâce à la production d’acide chlorhydrique dans l’estomac.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de chlorure selon l’annexe 13, ch. 28.</td><td>L’allégation ne peut être utilisée pour du chlorure dont la source est du chlorure de sodium.</td></tr>
 <tr><td>Choline</td><td>La choline contribue au métabolisme normal de l’homocystéine.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire contenant au moins 82,5 mg de choline pour 100 g ou 100 ml ou par portion de la denrée alimentaire.</td><td></td></tr>
 <tr><td>Choline</td><td>La choline contribue à un métabolisme lipidique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire contenant au moins 82,5 mg de choline pour 100 g ou 100 ml ou par portion de la denrée alimentaire.</td><td></td></tr>
@@ -1766,7 +1848,7 @@ Annexe 14[^t-10]
 <tr><td>Chrome</td><td>Le chrome contribue au maintien d’une glycémie normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de chrome trivalent selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Concentré de tomates hydrosoluble (WSTC I et II)</td><td>Le concentré de tomates hydrosoluble (WSTC I et II) aide à maintenir une agrégation plaquettaire normale, contribuant ainsi à une bonne circulation sanguine</td><td>Information du consommateur: les effets bénéfiquessont obtenus avec une consommation journalière de 3 g de WSTC I ou de 150 mg de WSTC II dilués dans un maximum de 250 ml de jus de fruits, de boissons aromatisées ou de boissons au yaourt (sauf si ultra-pasteurisées), ou avec une consommation journalière de 3 g de WSTC I ou de 150 mg de WSTC II dans des compléments alimentaires lorsqu’ils sont ingérés avec un verre d’eau ou d’un autre liquide</td><td></td></tr>
 <tr><td>Créatine</td><td>La créatine améliore les capacités physiques en cas de séries successives d’exercices très intenses de courte durée.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 3 g de créatine. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 3 g de créatine.</td><td>L’allégation ne peut être utilisée que pour des denrées alimentaires réservées aux adultes effectuant des exercices physiques très intenses.</td></tr>
-<tr><td>Créatine</td><td>La consommation quotidienne de créatine peut renforcer l’effet de la pratique de la musculation sur la force musculaire chez les adultes âgées de plus de 55 ans.</td><td>Le consommateur doit être informé que : – l’allégation vise les adultes de plus de 55 ans pratiquant régulièrement de la musculation ; – l’effet bénéfique est obtenu par la consommation journalière de 3 g de créatine en liaison avec la pratique de la musculation, qui permet d’augmenter progressivement la charge de travail et devrait avoir lieu au moins trois fois par semaine pendant plusieurs semaines, avec une intensité équivalant à au moins 65 % – 75 % d’une charge maximale de répétition[^annex14-lvlu1-1].</td><td>L’allégation ne peut être utilisée que pour des denrées alimentaires réservées aux adultes de plus de 55 ans pratiquant régulièrement de la musculation.</td></tr>
+<tr><td>Créatine</td><td>La consommation quotidienne de créatine peut renforcer l’effet de la pratique de la musculation sur la force musculaire chez les adultes âgées de plus de 55 ans.</td><td>Le consommateur doit être informé que: – l’allégation vise les adultes de plus de 55 ans pratiquant régulièrement de la musculation; – l’effet bénéfique est obtenu par la consommation journalière de 3 g de créatine en liaison avec la pratique de la musculation, qui permet d’augmenter progressivement la charge de travail et devrait avoir lieu au moins trois fois par semaine pendant plusieurs semaines, avec une intensité équivalant à au moins 65 % – 75 % d’une charge maximale de répétition[^annex14-lvlu1-1].</td><td>L’allégation ne peut être utilisée que pour des denrées alimentaires réservées aux adultes de plus de 55 ans pratiquant régulièrement de la musculation.</td></tr>
 <tr><td>Cuivre</td><td>Le cuivre contribue au maintien de tissus conjonctifs normaux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de cuivre selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Cuivre</td><td>Le cuivre contribue à un métabolisme énergétique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de cuivre selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Cuivre</td><td>Le cuivre contribue au fonctionnement normal du système nerveux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de cuivre selon l’annexe 13, ch. 28.</td><td></td></tr>
@@ -1806,7 +1888,7 @@ Annexe 14[^t-10]
 <tr><td>Folates</td><td>Les folates contribuent à réduire la fatigue.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de folates selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Folates</td><td>Les folates jouent un rôle dans le processus de division cellulaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de folates selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Folates</td><td>La supplémentation en folates augmente le statut maternel en folates. Un faible statut en folates chez la mère augmente les risques d’apparition d’anomalies du tube neural chez le fœtus en développement.</td><td>L’allégation ne peut être utilisée que pour des compléments alimentaires contenant au moins 400 µg de folates par dose journalière. L’allégation peut être utilisée si le consommateur est informé du fait que la population visée est les femmes en âge de procréer et que l’effet bénéfique est obtenu par la consommation journalière de 400 µg de folates, au moins un mois avant la conception et jusqu’à trois mois après la conception.</td><td></td></tr>
-<tr><td>Fructose</td><td>La consommation de denrées alimentaires contenant du fructose entraîne une hausse de la gycémie inférieure à celle qu’entraîne la consommation de denrées alimentaires contenant du saccharose ou du glucose.</td><td>L’allégation peut être utilisée si le glucose et le saccharose de la boisson ou de l’aliment sucrés sont remplacés par du fructose, de sorte que la réduction de la teneur en glucose et saccharose soit d’au moins 30%.</td><td></td></tr>
+<tr><td>Fructose</td><td>La consommation de denrées alimentaires contenant du fructose entraîne une hausse de la glycémie inférieure à celle qu’entraîne la consommation de denrées alimentaires contenant du saccharose ou du glucose.</td><td>L’allégation peut être utilisée si le glucose et le saccharose de la boisson ou de l’aliment sucrés sont remplacés par du fructose, de sorte que la réduction de la teneur en glucose et saccharose soit d’au moins 30%.</td><td></td></tr>
 <tr><td>Glucides</td><td>Les glucides contribuent à la récupération d’une fonction musculaire normale (contraction) après un effort physique très intense et prolongé occasionnant une fatigue musculaire et une diminution des réserves de glycogène dans les muscles squelettiques.</td><td>L’allégation ne peut être utilisée que pour des denrées alimentaires qui fournissent des glucides métabolisés par l’être humain (à l’exclusion des polyols). Le consommateur doit être informé que l’effet bénéfique est obtenu moyennant la consommation de glucides, toutes sources confondues, à une dose totale de 4 g par kg de poids corporel, par prises fractionnées débutant dans les quatre premières heures suivant un effort physique très intense et prolongé qui occasionne une fatigue musculaire et une diminution des réserves de glycogène dans les muscles squelettiques, et pas plus tard que 6 heures après cet effort.</td><td>L’allégation ne peut être utilisée que pour des denrées alimentaires destinées aux adultes qui ont fourni un effort physique très intense et prolongé occasionnant une fatigue musculaire et la diminution des réserves de glycogène dans les muscles squelettiques.</td></tr>
 <tr><td>Glucides non digestibles</td><td>La consommation de denrées alimentaires/boissons contenant &lt;nom de tous les glucides non digestibles utilisés&gt; à la place de sucres entraîne une hausse de la glycémie inférieure à celle qu’entraîne la consommation de denrées alimentaires/boissons contenant des sucres.</td><td>L’allégation peut être utilisée si les sucres sont remplacés dans les denrées alimentaires ou les boissons par des glucides non digestibles, qui sont des glucides qui ne sont ni digérés ni absorbés dans l’intestin grêle, de telle sorte que les denrées alimentaires ou les boissons aient une teneur en sucres réduite d’au moins la proportion définie dans l’allégation «réduit en» selon l’annexe 13, ch. 32.</td><td></td></tr>
 <tr><td>Glucides non fermentescibles</td><td>La consommation de denrées alimentaires/ boissons contenant «nom de tous les glucidesnon fermentescibles utilisés» à la place de glucides fermentescibles contribue au maintien de la minéralisation des dents.</td><td>L’allégation peut être utilisée si les glucides fermentescibles1 contenus dans les denrées alimentaires/boissons ont été remplacés par des glucides non fermentescibles2, dans des proportions telles que la consommation de la denrée alimentaire ou de la boisson n’abaisse pas le pH de la plaque dentaire au-dessous de 5,7 durant sa consommation et jusqu’à 20 minutes après celle-ci. 1 Par glucides fermentescibles, on entend les glucides et mélanges de glucides présents dans les denrées alimentaires ou les boissons et qui abaissent, par fermentation bactérienne, le pH de la plaque dentaire, mesuré in vivo ou in situ par un test de télémétrie, au-dessous de 5,7 durant la consommation et jusqu’à 30 minutes après celle-ci. 2 Par glucides non fermentescibles, on entend les glucides et mélanges de glucides présents dans les denrées alimentaires ou les boissons et qui n’abaissent pas, par fermentation bactérienne, le pH de la plaque dentaire, mesuré in vivo ou in situ par un test de télémétrie, au-dessous d’une valeur conservatoire de 5,7 durant la consommation et jusqu’à 30 minutes après celle-ci.</td><td></td></tr>
@@ -1822,14 +1904,14 @@ Annexe 14[^t-10]
 <tr><td>Gommes à mâcher sans sucres et contenant de la carbamide</td><td>Les gommes à mâcher sans sucres et contenant de la carbamide neutralisent les acides de la plaque dentaire plus efficacement que les gommes à mâcher sans sucres sans carbamide.</td><td>L’allégation ne peut être utilisée que pour des gommes à mâcher conformes aux conditions d’utilisation dont est assortie l’allégation nutritionnelle sans sucres selon l’annexe 13, ch. 18. Pour porter l’allégation, chaque gomme à mâcher sans sucres doit contenir au moins 20 mg de carbamide. Le consommateur doit être informé que l’effet bénéfique est obtenu par la mastication de la gomme à mâcher pendant au moins 20 minutes après avoir mangé ou bu.</td><td></td></tr>
 <tr><td>Hydroxypropylméthylcellulose (HPMC)</td><td>La consommation d’hydroxypropyl méthylcellulose à l’occasion d’un repas contribue à atténuer la hausse de la glycémie après ce repas.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire contenant au moins 4 g de HPMC par portion quantifiée du repas. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation de 4 g de HPMC au cours du repas.</td><td>Avertissement quant au risque de suffocation en cas de difficultés de déglutition ou en cas d’ingestion avec un fluide inadéquat. Consommation avec beaucoup d’eau conseillée pour garantir l’ingestion de la substance jusqu’à l’estomac.</td></tr>
 <tr><td>Hydroxypropylméthylcellulose (HPMC)</td><td>L’hydroxypropyl méthylcellulose contribue au maintien d’une cholestérolémie normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 5 g d’HPMC. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 5 g de HPMC.</td><td>Avertissement quant au risque de suffocation en cas de difficultés de déglutition ou en cas d’ingestion avec un fluide inadéquat. Consommation avec beaucoup d’eau conseillée pour garantir l’ingestion de la substance jusqu’à l’estomac.</td></tr>
-<tr><td>Inuline naturelle de chicorée</td><td>L’inuline naturelle de chicorée contribue à une fonction intestinale normale en accroissant la fréquence des selles.</td><td>L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 12 g d’inuline naturelle. L’allégation peut uniquement être utilisée pour des denrées alimentaires permettant la consommation journalière d’au moins 12 g d’inuline naturelle de chicorée, un mélange non fractionné de monosaccharides (&lt; 10 %), de disaccharides, de fructanes de type inuline et d’inuline extraite de la chicorée, au degré de polymérisation moyen supérieur ou égal à 9. Cette allégation de santé est protégée par le règlement (UE) 2015/2314[^annex14-lvlu1-3].</td><td></td></tr>
+<tr><td>Inuline naturelle de chicorée</td><td>L’inuline naturelle de chicorée contribue à une fonction intestinale normale en accroissant la fréquence des selles.</td><td>L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 12 g d’inuline naturelle de chicorée. L’allégation peut uniquement être utilisée pour des denrées alimentaires permettant la consommation journalière d’au moins 12 g d’inuline naturelle de chicorée, un mélange non fractionné de monosaccharides (&lt; 10 %), de disaccharides, de fructanes de type inuline et d’inuline extraite de la chicorée, au degré de polymérisation moyen supérieur ou égal à 9.</td><td></td></tr>
 <tr><td>Iode</td><td>L’iode contribue à une fonction cognitive normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’iode selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Iode</td><td>L’iode contribue à un métabolisme énergétique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’iode selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Iode</td><td>L’iode contribue au fonctionnement normal du système nerveux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’iode selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Iode</td><td>L’iode contribue au maintien d’une peau normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’iode selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Iode</td><td>L’iode contribue à la production normale d’hormones thyroïdiennes et à une fonctionthyroïdienne normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’iode selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Iode</td><td>L’iode contribue à la production normale d’hormones thyroïdiennes et à une fonction thyroïdienne normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’iode selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Iode</td><td>L’iode contribue à la croissance normale des enfants</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’iode selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Lactase</td><td>La lactase améliore la digestion du lactose chez les individus ayant des difficultés à le digérer.</td><td>L’allégation ne peut être utilisée que pour des compléments alimentaires, à une dose minimale de 4500 unités de FCC[^annex14-lvlu1-4] , la population cible devant être invitée à en consommer avec chaque produit contenant du lactose.</td><td>Le groupe cible doit également être informé que des différences existent en matière de tolérance au lactose et que les personnes concernées devraient prendre conseil auprès d’un spécialiste concernant le rôle de cette substance dans leur alimentation.</td></tr>
+<tr><td>Lactase</td><td>La lactase améliore la digestion du lactose chez les individus ayant des difficultés à le digérer.</td><td>L’allégation ne peut être utilisée que pour des compléments alimentaires, à une dose minimale de 4500 unités de FCC[^annex14-lvlu1-3] , la population cible devant être invitée à en consommer avec chaque produit contenant du lactose.</td><td>Le groupe cible doit également être informé que des différences existent en matière de tolérance au lactose et que les personnes concernées devraient prendre conseil auprès d’un spécialiste concernant le rôle de cette substance dans leur alimentation.</td></tr>
 <tr><td>Lactitol</td><td>Le lactitol contribue à une fonction intestinale normale en accroissant la fréquence des selles.</td><td>L’allégation ne peut être utilisée que pour les compléments alimentaires qui contiennent 10 g de lactitol à consommer en une seule portion quantifiée par jour. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation de 10 g de lactitol en une dose journalière.</td><td>L’allégation ne peut être utilisée pour des denrées alimentaires destinées aux enfants.</td></tr>
 <tr><td>Lactulose</td><td>Le lactulose contribue à accélérer le transit intestinal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire contenant 10 g de lactulose à consommer en une seule portion quantifiée. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation de 10 g de lactulose en une seule dose par jour.</td><td></td></tr>
 <tr><td>Magnésium</td><td>Le magnésium contribue à réduire la fatigue.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de magnésium selon l’annexe 13, ch. 28.</td><td></td></tr>
@@ -1883,16 +1965,17 @@ Annexe 14[^t-10]
 <tr><td>Sélénium</td><td>Le sélénium contribue à une spermatogénèse normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de sélénium selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Sélénium</td><td>Le sélénium contribue au maintien de cheveux normaux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de sélénium selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Sélénium</td><td>Le sélénium contribue au maintien d’ongles normaux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de sélénium selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Sélénium</td><td>Le sélénimum contribue au fonctionnement normal du système immunitaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de sélénium selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Sélénium</td><td>Le sélénium contribue au fonctionnement normal du système immunitaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de sélénium selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Sélénium</td><td>Le sélénium contribue à une fonction thyroïdienne normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de sélénium selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Sélénium</td><td>Le sélénium contribue à protéger les cellules contre le stress oxydatif.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de sélénium selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Solutions de glucides</td><td>Les solutions de glucides contribuent à l’amélioration de la performance physique lors d’un exercice physique de forte intensité et de longue durée chez les adultes entraînés.</td><td>L’allégation ne peut être utilisée que pour les solutions de glucides qui, selon le mode d’emploi, apportent entre 30 g et 90 g de glucides par heure, lorsque les glucides en question sont du glucose, du saccharose, du fructose ou des maltodextrines et que les conditions suivantes sont remplies: a) le fructose (issu de fructose ou de saccharose) ne doit pas représenter plus de 1/3 des glucides totaux; b) le glucose (issu de glucose, de saccharose ou de maltodextrines) ne doit pas dépasser 60 g/h. Le consommateur doit être informé que l’effet bénéfique n’est obtenu que par des adultes entraînés effectuant des exercices physiques de forte intensité (au moins 65 % de la VO<sub>2max</sub>) et de longue durée (au moins 60 minutes).</td><td>L’allégation ne peut être utilisée que pour des denrées alimentaires destinées aux sportifs et réservées à des adultes entraînés effectuant des exercices physiques de forte intensité et de longue durée.</td></tr>
 <tr><td>Solutions de glucides et d’électrolytes</td><td>Les solutions de glucides et d’électrolytes contribuent à maintenir la performance au cours d’un exercice d’endurance prolongé.</td><td>Pour porter l’allégation, les solutions de glucides et d’électrolytes doivent contenir 80 à 350 Kcal/l provenant de glucides, et au moins 75 % de l’énergie doit provenir de glucides entraînant une réponse glycémique élevée, tels que le glucose, les polymères du glucose et le saccharose. De plus, ces boissons doivent contenir entre 20 mmol/l (460 mg/l) et 50 mmol/l (1 150 mg/l) de sodium et avoir une osmolalité située entre 200 et 330 mosm/kg d’eau.</td><td></td></tr>
 <tr><td>Solutions de glucides et d’électrolytes</td><td>Les solutions de glucides et d’électrolytes accroissent l’absorption d’eau durant un exercice physique.</td><td>Pour porter l’allégation, les solutions de glucides et d’électrolytes doivent contenir 80 à 350 Kcal/l provenant de glucides, et au moins 75 % de l’énergie doit provenir de glucides entraînant une réponse glycémique élevée, tels que le glucose, les polymères du glucose et le saccharose. De plus, ces boissons doivent contenir entre 20 mmol/l (460 mg/l) et 50 mmol/l (1 150 mg/l) de sodium et avoir une osmolalité située entre 200 et 330 mosm/kg d’eau.</td><td></td></tr>
 <tr><td>Stérols végétaux: stérols qui sont extraits de végétaux et se présentent sous la forme de stérols libres ou estérifiés avec des acides gras de qualité alimentaire</td><td>Il a été démontré que les stérols végétaux abaissent/réduisent le taux de cholestérol sanguin. Une cholestérolémie élevée constitue un facteur de risque de développement d’une maladie cardiaque coronarienne</td><td>Le consommateur doit être informé que l’effet bénéfique est obtenu par la consommation journalière de 1,5 à 3 g de stérols végétaux. Il ne peut être fait référence à l’ampleur de l’effet que pour les denrées alimentaires appartenant aux catégories suivantes: matières grasses à tartiner, produits laitiers, mayonnaises et sauces pour salades. Lorsqu’il est fait référence à l’ampleur de l’effet, la fourchette «de 7 à 10 %», pour les denrées alimentaires garantissant une consommation journalière de 1,5 à 2,4 g de stérols végétaux, ou la fourchette «de 10 à 12,5 %», pour celles garantissant une consommation journalière de 2,5 à 3 g, ainsi que la durée nécessaire pour obtenir l’effet, à savoir «en 2 à 3 semaines», doivent être communiquées au consommateur.</td><td></td></tr>
-<tr><td>Substitut de repas pour contrôle du poids</td><td>Le remplacement d’un des repas principaux constituant la ration journalière d’un régime hypocalorique par un substitut de repas contribue au maintien du poids après la perte de poids.</td><td>L’allégation peut être utilisée si la denrée alimentaire satisfait aux exigences des art. 3 et 35d OBNP[^annex14-lvlu1-5].</td><td>L’allégation peut être utilisée si le consommateur est informé qu’il est important de maintenir un apport quotidien en liquide suffisant et que le produit a l’effet souhaité uniquement dans le cadre d’un régime hypocalorique et que, dans ce cadre, il doit être complété par d’autres aliments. Pour que l’effet allégué soit obtenu, l’un des repas principaux de la journée doit être remplacé par un substitut de repas.</td></tr>
+<tr><td>Substitut de repas pour contrôle du poids</td><td>Le remplacement d’un des repas principaux constituant la ration journalière d’un régime hypocalorique par un substitut de repas contribue au maintien du poids après la perte de poids.</td><td>L’allégation peut être utilisée si la denrée alimentaire satisfait aux exigences des art. 3 et 35d OBNP[^annex14-lvlu1-4].</td><td>L’allégation peut être utilisée si le consommateur est informé qu’il est important de maintenir un apport quotidien en liquide suffisant et que le produit a l’effet souhaité uniquement dans le cadre d’un régime hypocalorique et que, dans ce cadre, il doit être complété par d’autres aliments. Pour que l’effet allégué soit obtenu, l’un des repas principaux de la journée doit être remplacé par un substitut de repas.</td></tr>
 <tr><td>Substitut de repas pour contrôle du poids</td><td>Le remplacement de deux des repas principaux constituant la ration journalière d’un régime hypocalorique par des substituts de repas contribue à la perte de poids.</td><td>L’allégation peut être utilisée si la denrée alimentaire satisfait aux exigences des art. 3 et 35d OBNP.</td><td>L’allégation peut être utilisée si le consommateur est informé qu’il est important de maintenir un apport quotidien en liquide suffisant et que le produit a l’effet souhaité uniquement dans le cadre d’un régime hypocalorique et que, dans ce cadre, il doit être complété par d’autres aliments. Pour que l’effet allégué soit obtenu, deux des repas principaux de la journée doivent être remplacés par des substituts de repas.</td></tr>
-<tr><td>Succédanés du sucre, à savoir édulcorants intenses; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, érythritol, sucralose etpolydextrose ou D‑tagatose et isomaltulose</td><td>La consommation de denrées alimentaires/boissons contenant du x (nom du succédané du sucre)[^annex14-lvlu1-6] ou les sucres D-tagatose ou isomaltulose à la place de sucre entraîne une hausse de la glycémie inférieure à celle qu’entraîne la consommation de denrées alimentaires/boissons contenant du sucre.</td><td>Pour que l’allégation puisse être utilisée, les sucres dans les denrées alimentaires ou les boissons doivent être remplacés par des succédanés du sucre, à savoir des édulcorants intenses, du xylitol, du sorbitol, du mannitol, du maltitol, du lactitol, de l’isomalt, de l’érythritol, du sucralose ou du polydextrose, ou une combinaison de plusieurs d’entre eux, de telle sorte que les denrées alimentaires ou les boissons aient une teneur en sucre réduite d’au moins la proportion selon l’annexe 13, ch. 32 . Dans le cas du D-tagatose et de l’isomaltulose, ils doivent remplacer des teneurs équivalentes d’autres sucres dans la même proportion que celle indiquée dans l’allégation «réduit en» selon l’annexe 13, ch. 32 .</td><td></td></tr>
-<tr><td>Succédanés du sucre, à savoir édulcorants intenses; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, érythritol, sucralose etpolydextrose ou D‑tagatose et isomaltulose</td><td>La consommation de denrées alimentaires/ boissons contenant x (nom du succédané du sucre)[^annex14-lvlu1-7] ou d’autres sucres D-tagatose et isomaltulose à la place de sucre contribue au maintien de la minéralisation des dents.</td><td>L’allégation peut être utilisée si les sucres dans les denrées alimentaires ou les boissons (qui abaissent le pH de la plaque dentaire sous 5,7) sont remplacés par des succédanés du sucre, à savoir des édulcorants intenses, du xylitol, du sorbitol, du mannitol, du maltitol, du lactitol, de l’isomalt, de l’érythritol, du sucralose ou du polydextrose, ou une combinaison de plusieurs d’entre eux, dans une proportion telle que la consommation des denrées alimentaires ou boissons n’abaisse pas le pH de la plaque dentaire sous 5,7 dans les 30 minutes après la consommation de celles-ci.</td><td></td></tr>
+<tr><td>Succédanés du sucre, à savoir édulcorants intenses; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, érythritol, sucralose et polydextrose ou D‑tagatose et isomaltulose</td><td>La consommation de denrées alimentaires/boissons contenant du X (nom du succédané du sucre ou des autres sucres D-tagatose ou isomaltulose) à la place de sucre[^annex14-lvlu1-5] entraîne une hausse de la glycémie inférieure à celle qu’entraîne la consommation de denrées alimentaires/boissons contenant du sucre.</td><td>Pour que l’allégation puisse être utilisée, les sucres dans les denrées alimentaires ou les boissons doivent être remplacés par des succédanés du sucre, à savoir des édulcorants intenses, du xylitol, du sorbitol, du mannitol, du maltitol, du lactitol, de l’isomalt, de l’érythritol, du sucralose ou du polydextrose, ou une combinaison de plusieurs d’entre eux, de telle sorte que les denrées alimentaires ou les boissons aient une teneur en sucre réduite d’au moins la proportion selon l’annexe 13, ch. 32. Dans le cas du D-tagatose et de l’isomaltulose, ils doivent remplacer des teneurs équivalentes d’autres sucres dans la même proportion que celle indiquée dans l’allégation «réduit en» selon l’annexe 13, ch. 32.</td><td></td></tr>
+<tr><td>Succédanés du sucre, à savoir édulcorants intenses; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, érythritol, sucralose et polydextrose ou D‑tagatose et isomaltulose</td><td>La consommation de denrées alimentaires/boissons contenant du X (nom du succédané du sucre ou des autres sucres D-tagatose ou isomaltulose) à la place de sucre[^annex14-lvlu1-6] contribue au maintien de la minéralisation des dents.</td><td>L’allégation peut être utilisée si les sucres dans les denrées alimentaires ou les boissons (qui abaissent le pH de la plaque dentaire sous 5,7) sont remplacés par des succédanés du sucre, à savoir des édulcorants intenses, du xylitol, du sorbitol, du mannitol, du maltitol, du lactitol, de l’isomalt, de l’érythritol, du sucralose ou du polydextrose, ou une combinaison de plusieurs d’entre eux, dans une proportion telle que la consommation des denrées alimentaires ou boissons n’abaisse pas le pH de la plaque dentaire sous 5,7 dans les 30 minutes après la consommation de celles‑ci.</td><td></td></tr>
 <tr><td>Thiamine</td><td>La thiamine contribue à un métabolisme énergétique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de thiamine selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Thiamine</td><td>La thiamine contribue au fonctionnement normal du système nerveux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de thiamine selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Thiamine</td><td>La thiamine contribue à des fonctions psychologiques normales.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de thiamine selon l’annexe 13, ch. 28.</td><td></td></tr>
@@ -1904,10 +1987,18 @@ Annexe 14[^t-10]
 <tr><td>Vitamine A</td><td>La vitamine A contribue au maintien d’une vision normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine A selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine A</td><td>La vitamine A contribue au fonctionnement normal du système immunitaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine A selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine A</td><td>La vitamine A joue un rôle dans le processus de spécialisation cellulaire</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine A selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B12</td><td>La vitamine B12 contribue à un métabolisme énergétique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B12</td><td>La vitamine B12 contribue au fonctionnement normal du système nerveux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B12</td><td>La vitamine B12 contribue au métabolisme normal de l’homocystéine.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B12</td><td>La vitamine B12 contribue à des fonctions psychologiques normales.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B12</td><td>La vitamine B12 contribue à la formation normale de globules rouges.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B12</td><td>La vitamine B12 contribue au fonctionnement normal du système immunitaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B12</td><td>La vitamine B12 contribue à réduire la fatigue.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B12</td><td>La vitamine B12 joue un rôle dans le processus de division cellulaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine B6</td><td>La vitamine B6 contribue à la synthèse normale de la cystéine.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B6 selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine B6</td><td>La vitamine B6 contribue à un métabolisme énergétique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B6 selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine B6</td><td>La vitamine B6 contribue au fonctionnement normal du système nerveux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B6 selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B6</td><td>La vitamine B6 contribue ai métabolisme normal de l’homocystéine.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B6 selon l’annexe 13, ch. 28.</td><td></td></tr>
+<tr><td>Vitamine B6</td><td>La vitamine B6 contribue au métabolisme normal de l’homocystéine.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B6 selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine B6</td><td>La vitamine B6 contribue au métabolisme normal des protéines et du glycogène.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B6 selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine B6</td><td>La vitamine B6 contribue à des fonctions psychologiques normales.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B6 selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine B6</td><td>La vitamine B6 contribue à la formation normale de globules rouges</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B6 selon l’annexe 13, ch. 28.</td><td></td></tr>
@@ -1933,14 +2024,6 @@ Annexe 14[^t-10]
 <tr><td>Vitamine E</td><td>La vitamine E contribue à protéger les cellules contre le stress oxydatif.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine E selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine K</td><td>La vitamine K contribue à une coagulation sanguine normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine K selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine K</td><td>La vitamine K contribue au maintien d’une ossature normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine K selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B12</td><td>La vitamine B12 contribue à un métabolisme énergétique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B12</td><td>La vitamine B12 contribue au fonctionnement normal du système nerveux.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B12</td><td>La vitamine B12 contribue au métabolisme normal de l’homocystéine.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B12</td><td>La vitamine B12 contribue à des fonctions psychologiques normales.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B12</td><td>La vitamine B12 contribue à la formation normale de globules rouges.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B12</td><td>La vitamine B12 contribue au fonctionnement normal du système immunitaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B12</td><td>La vitamine B12 contribue à réduire la fatigue.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
-<tr><td>Vitamine B12</td><td>La vitamine B12 joue un rôle dans le processus de division cellulaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine B12 selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine D</td><td>La vitamine D est nécessaire à une croissance et à un développement osseux normaux des enfants</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine D selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine D</td><td>La vitamine D contribue à l’absorption et à l’utilisation normales du calcium et du phosphore.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine D selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Vitamine D</td><td>La vitamine D contribue à une calcémie normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine D selon l’annexe 13, ch. 28.</td><td></td></tr>
@@ -1970,15 +2053,24 @@ Annexe 14[^t-10]
 <tr><td>Zinc</td><td>Le zinc joue un rôle dans le processus de division cellulaire.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de zinc selon l’annexe 13, ch. 28.</td><td></td></tr>
 </table>
 
-- [tab]
-
 [^annex14-lvlu1-1]: 1-La charge maximale de répétition est le poids maximal qu’un individu peut soulever ou la force maximale qu’il peut exercer lors d’un seul exercice.
 [^annex14-lvlu1-2]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
-[^annex14-lvlu1-3]: Règlement (UE) 2015/2314 de la Commission du 7 décembre 2015 autorisant une allégation de santé portant sur les denrées alimentaires, autre qu’une allégation faisant référence à la réduction d’un risque de maladie ainsi qu’au développement et à la santé des enfants, et modifiant le règlement (UE) n<sup>o</sup> 432/2012, JO L 328 du 12.12.2015, p. 46.
-[^annex14-lvlu1-4]: FCC = *Food Chemicals Codex*
-[^annex14-lvlu1-5]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
-[^annex14-lvlu1-6]: Dans le cas du D-tagatose et de l’isomaltulose, il faut indiquer ici «autres sucres»
-[^annex14-lvlu1-7]: Voir note de bas de page relative au D-tagatose et à l’isomaltulose
+[^annex14-lvlu1-3]: FCC = *Food Chemicals Codex*
+[^annex14-lvlu1-4]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^annex14-lvlu1-5]: Dans le cas du D-tagatose et de l’isomaltulose, remplacer «sucre» par «autres sucres».
+[^annex14-lvlu1-6]: Dans le cas du D-tagatose et de l’isomaltulose, remplacer «sucre» par «autres sucres».
+
+Annexe 14a[^t-12]
+
+(art. 35, al. 5)
+
+## Exceptions définies par l’OSAV pour les dénominations génériques qui sont habituellement utilisées pour indiquer une propriété d’une catégorie de denrées alimentaires ou de boissons susceptible d’avoir un effet sur la santé humaine
+
+[^t-12]: Introduite par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+
+Aucune entrée à ce jour
+
+- [tab]
 
 Annexe 15
 

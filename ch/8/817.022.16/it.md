@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente le informazioni sulle 
 short: OID
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: it
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-158-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-158-20240201-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20230701/it"
 
 (OID)
 
-del 16 dicembre 2016 (Stato 1° luglio 2023)
+del 16 dicembre 2016 (Stato 1° febbraio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -65,12 +65,12 @@ Al momento della consegna ai consumatori, le derrate alimentari devono essere ca
 - g. il nome o l’azienda come anche l’indirizzo della persona che le ha fabbricate, messe in circolazione, imballate, confezionate, imbottigliate o consegnate;
 - h. il Paese di produzione delle derrate alimentari (art. 15);
 - i. la provenienza degli ingredienti quantitativamente più importanti della derrata alimentare (art. 16);
-- j. indicazioni specifiche per la carne di bovino, suino, ovino, caprino e pollame nonché per il pesce (art. 17);
+- j.[^3-1] indicazioni specifiche per la carne di bovino, suino, ovino, caprino e pollame (art. 17);
 - k. le istruzioni per l’uso, qualora la loro omissione renda difficile utilizzare la derrata alimentare conformemente alla sua destinazione;
 - l. il tenore alcolico per bevande con un tenore alcolico superiore all’1,2 per cento in volume (art. 18);
 - m. la partita (art. 19–20);
 - n. la dichiarazione del valore nutritivo (art. 21–28);
-- o.[^3-1] una menzione per le derrate alimentari che sono organismi geneticamente modificati (OGM), contengono OGM o sono state ricavate da OGM (art. 8 dell’ordinanza del DFI del 27 maggio 2020[^3-2] concernente le derrate alimentari geneticamente modificate);
+- o.[^3-2] una menzione per le derrate alimentari che sono organismi geneticamente modificati (OGM), contengono OGM o sono state ricavate da OGM (art. 8 dell’ordinanza del DFI del 27 maggio 2020[^3-3] concernente le derrate alimentari geneticamente modificate);
 - p. se necessario, il marchio di identificazione (art. 36–38);
 - q. ulteriori indicazioni di cui all’allegato 2.
 
@@ -92,8 +92,9 @@ Nel caso di imballaggi multipli (ossia di più prodotti uguali o diversi riuniti
 - a. figurano sui singoli imballaggi contenuti all’interno; e
 - b. sono leggibili dall’esterno per i consumatori oppure nel punto di vendita si provvede a informare in altro modo.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^3-2]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
+[^3-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^3-3]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
 
 #### Art. 4
 
@@ -151,7 +152,7 @@ Per le derrate alimentari immesse sfuse sul mercato si applicano per le informaz
   - 1\.[^5-5] figura per iscritto in modo ben visibile che le informazioni possono essere richieste oralmente,
   - 2\. le informazioni sono a disposizione del personale per scritto oppure possono essere fornite direttamente da una persona competente in materia;
 
-- e.[^5-6] per le derrate alimentari con unʼindicazione sul contenuto di glutine o lattosio ai sensi degli articoli 41 e 42, in deroga allʼarticolo 22 capoverso 3 lettera b, si può rinunciare alla dichiarazione del valore nutritivo;
+- e.[^5-6] per le derrate alimentari con un’indicazione sul contenuto di glutine o lattosio ai sensi degli articoli 41 e 42, in deroga all’articolo 21 capoverso 2 lettera b, si può rinunciare alla dichiarazione del valore nutritivo;
 - f.[^5-7] le miscele involontarie ai sensi dellʼarticolo 11 capoverso 5 non devono essere indicate.
 
 <sup>2</sup> Le indicazioni da riportare per scritto devono essere fornite in forma appropriata. Nelle aziende di ristorazione collettiva possono figurare nella carta delle vivande o su un cartello.
@@ -163,7 +164,7 @@ Per le derrate alimentari immesse sfuse sul mercato si applicano per le informaz
 [^5-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^5-4]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^5-5]: Correzione del 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)).
-[^5-6]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^5-6]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)). Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^5-7]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### Sezione 2: Denominazione specifica
@@ -294,15 +295,25 @@ Gli ingredienti secondo i capoversi 1 e 2 devono essere indicati anche quando no
 - d. per il lattosio: 1 g per chilogrammo o litro di derrata alimentare pronta al consumo;
 - e. per tutti gli altri casi: 1 g per chilogrammo o litro di derrata alimentare pronta al consumo.
 
-<sup>6</sup> Il responsabile deve essere in grado di provare che sono state applicate tutte le misure previste nell’ambito della buona prassi procedurale allo scopo di impedire o ridurre il più possibile le miscele involontarie secondo il capoverso 5.
+<sup>6</sup> Il responsabile deve essere in grado di provare che sono state applicate tutte le misure previste nell’ambito della buona prassi procedurale allo scopo di impedire o ridurre il più possibile le miscele o le contaminazioni involontarie secondo il capoverso 5. [^11-2]
 
-<sup>7</sup> Le miscele secondo il capoverso 5, che si situano al di sotto dei limiti massimi stabiliti nel capoverso stesso, possono essere indicate.
+<sup>7</sup> Le miscele o le contaminazioni involontarie secondo il capoverso 5, che si situano al di sotto dei limiti massimi stabiliti nel capoverso stesso, possono essere indicate.[^11-3]
+
+<sup>7bis</sup>
+
+Le diciture secondo il capoverso 7 possono essere indicate con una denominazione di gruppo:
+
+- a. per gli ingredienti di cui all’allegato 6 numero 1: con la denominazione di gruppo «cereali contenenti glutine»;
+- b. per gli ingredienti di cui all’allegato 6 numero 8: con la denominazione di gruppo «frutta a guscio», «frutta oleaginosa» o «noci».[^11-4]
 
 <sup>8</sup> Le diciture secondo il capoverso 5, quale «può contenere arachidi», devono essere apposte immediatamente dopo l’elenco degli ingredienti.
 
 <sup>9</sup> Se è possibile fornire la prova che singoli ingredienti, fabbricati con ingredienti di cui all’allegato 6, non provocano allergie o altre reazioni indesiderate, è consentito rinunciare alla loro indicazione secondo i capoversi 1, 3 e 5.
 
 [^11-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-4]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Sezione 5: Indicazione quantitativa degli ingredienti
 
@@ -377,16 +388,21 @@ Sono considerati interamente fabbricati in un Paese:
 
 <sup>3</sup> Una derrata alimentare è considerata sufficientemente elaborata o trasformata in un determinato Paese se ha ottenuto le sue proprietà caratteristiche o una nuova denominazione specifica in tale Paese.
 
+<sup>3bis</sup> Il pane e i prodotti di panetteria fine non sono considerati sufficientemente elaborati o trasformati in un determinato Paese se ottengono le loro proprietà caratteristiche o la nuova denominazione specifica solo attraverso la cottura al forno di impasti già formati.[^15-1]
+
 <sup>4</sup> Per le derrate alimentari trasformate, in alternativa al Paese di produzione può essere indicata una regione geografica più ampia, quale «UE» o «Sudamerica». Per quanto riguarda l’indicazione del Paese di produzione, le miscele di prodotti tagliati e le miscele di miele sono considerate derrate alimentari trasformate.
 
-<sup>5</sup> Per i prodotti della pesca catturati in mare, al posto del Paese di produzione deve essere indicata la zona di pesca secondo l’allegato 4.
+<sup>5</sup> Per i prodotti della pesca catturati in mare secondo l’allegato 1 lettere a–c del regolamento (UE) n. 1379/2013[^15-2] al posto del Paese di produzione deve essere indicata la zona di pesca secondo l’allegato 4.[^15-3]
 
 <sup>6</sup> È consentito rinunciare all’indicazione del Paese di produzione, se questo risulta dalla denominazione specifica o dall’indirizzo secondo l’articolo 3 capoverso 1 lettera g. Nell’indirizzo devono figurare almeno il Paese, il numero postale d’avviamento e la località.
 
-<sup>7</sup> Lʼindicazione del Paese di produzione può essere abbreviata qualora sia utilizzata unʼabbreviazione conforme al codice ISO-2 secondo lʼelenco dei Paesi per la statistica del commercio estero nella tariffa dʼuso nella versione del 1° gennaio 2019[^15-1]. Sono ammesse abbreviazioni solo per i Paesi riconosciuti dalla Svizzera.[^15-2]
+<sup>7</sup> Lʼindicazione del Paese di produzione può essere abbreviata qualora sia utilizzata unʼabbreviazione conforme al codice ISO-2 secondo lʼelenco dei Paesi per la statistica del commercio estero nella tariffa dʼuso nella versione del 1° gennaio 2019[^15-4]. Sono ammesse abbreviazioni solo per i Paesi riconosciuti dalla Svizzera.[^15-5]
 
-[^15-1]: La tariffa d’uso è consultabile o ottenibile gratuitamente presso la Direzione generale delle dogane, Monbijoustrasse 40, 3003 Berna.
-[^15-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^15-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^15-2]: Regolamento (UE) n. 1379/2013 del Parlamento europeo e del Consiglio, dell’11 dicembre 2013, relativo all’organizzazione comune dei mercati nel settore dei prodotti della pesca e dell’acquacoltura, recante modifica ai regolamenti (CE) n. 1184/2006 e (CE) n. 1224/2009 del Consiglio e che abroga il regolamento (CE) n. 104/2000 del Consiglio, GU L 354 del 28.12.2013, pag. 1; modificato da ultimo dal regolamento (UE) 2020/560, GU L 130 del 20.4.2020, pag. 11.
+[^15-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^15-4]: La tariffa d’uso è consultabile o ottenibile gratuitamente presso la Direzione generale delle dogane, Monbijoustrasse 40, 3003 Berna.
+[^15-5]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 #### Art. 16
 
@@ -401,65 +417,107 @@ L’origine di una materia prima secondo l’articolo 15 capoverso 2 che è util
 
 <sup>2</sup> Qualora un ingrediente da dichiarare secondo il capoverso 1 provenga da diversi Paesi, devono essere indicati tutti i Paesi.
 
-3 In deroga al capoverso 1 lettera a, per gli ingredienti di origine animale di cui all’articolo 1 ODOA[^16-1] la provenienza dell’animale deve essere indicata se è contenuto nel prodotto finito in quantità pari o superiore al 20 per cento in massa.
+<sup>2bis</sup> Per l’indicazione volontaria dell’origine degli ingredienti, in alternativa al Paese di origine, può essere indicata una regione geografica più ampia, quale «UE» o «Sudamerica».[^16-1]
+
+<sup>3</sup> In deroga al capoverso 1 lettera a, per gli ingredienti di origine animale di cui all’articolo 1 ODOA[^16-2] la provenienza dell’animale deve essere indicata se è contenuto nel prodotto finito in quantità pari o superiore al 20 per cento in massa.
 
 <sup>4</sup> L’indicazione della provenienza di un ingrediente deve figurare nell’elenco degli ingredienti o nello stesso campo visivo.
 
-[^16-1]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^16-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^16-2]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
 
-#### Art. 17
+#### Art 17
 
-**Indicazioni specifiche per la carne[^17-2]**[^17-1]
+**Indicazioni specifiche per la carne fresca**[^17-1]
 
 <sup>1</sup>
 
-Per singoli pezzi di carne di bovino devono essere indicati i numeri di autorizzazione del macello e del laboratorio di sezionamento nonché il Paese in cui l’animale:
+I singoli pezzi di carne fresca di bovino devono essere accompagnati dalle seguenti indicazioni:
 
-- a.[^17-3] è nato; e
-- b. ha trascorso la maggior parte della sua esistenza; o
-- c. è ingrassato in maggiore misura.
+- a. i numeri di autorizzazione del macello e del laboratorio di sezionamento;
+- b. il Paese in cui l’animale è nato;
+- c.
+
+  il Paese in cui l’animale:
+
+  - 1\. ha trascorso la maggior parte della sua esistenza, o
+  - 2\. è ingrassato in maggiore misura.
 
 <sup>2</sup>
 
-In deroga al capoverso 1, la carne di bovino può recare l’indicazione «origine: non UE/SEE» oppure «origine: non Svizzera» insieme all’indicazione «macellato in: (nome del Paese)» se:
+In deroga al capoverso 1, la carne fresca di bovino può recare l’indicazione «origine: non UE/SEE» oppure «origine: non Svizzera» insieme all’indicazione «macellato in: (nome del Paese)» se:
 
-- a. la carne è stata prodotta al di fuori dell’UE ed è importata in Svizzera per l’immissione sul mercato;
+- a. la carne è stata prodotta al di fuori dell’UE o dello SEE ed è importata in Svizzera per l’immissione sul mercato; e
 - b. le informazioni di cui al capoverso 1 non sono disponibili.
 
 <sup>3</sup>
 
-Per singoli pezzi di carne di suino, ovino, caprino e pollame devono essere indicati il Paese in cui la carne è stata macellata e il Paese in cui l’animale:
+I singoli pezzi di carne fresca di suino, ovino, caprino e pollame devono essere accompagnati dalle seguenti indicazioni:
 
-- a. è ingrassato in maggiore misura; oppure
-- b. ha trascorso la maggior parte della sua esistenza.
+- a. il Paese in cui l’animale è stato macellato;
+- b.
+
+  il Paese in cui l’animale:
+
+  - 1\. ha trascorso la maggior parte della sua esistenza, oppure
+  - 2\. è ingrassato in maggiore misura.
 
 <sup>4</sup>
 
-In deroga al capoverso 3, la carne di suino, ovino, caprino e pollame fresca, refrigerata o congelata può recare l’indicazione «allevato al di fuori dell’UE/SEE» o «allevato al di fuori della Svizzera» insieme all’indicazione «macellato in: (nome del Paese di macellazione dell’animale)» se:
+In deroga al capoverso 3, la carne fresca di suino, ovino, caprino e pollame può recare l’indicazione «allevato al di fuori dell’UE/SEE» o «allevato al di fuori della Svizzera» insieme all’indicazione «macellato in: (nome del Paese)» se:
 
-- a. la carne è stata prodotta al di fuori dell’UE ed è importata in Svizzera per l’immissione sul mercato;
+- a. la carne è stata prodotta al di fuori dell’UE o dello SEE ed è importata in Svizzera per l’immissione sul mercato; e
 - b. le informazioni di cui al capoverso 3 non sono disponibili.
 
-<sup>5</sup> Se gli animali sono nati, allevati e macellati nello stesso Paese, può essere riportata l’indicazione «Paese di origine X».
+<sup>5</sup> Se gli animali sono nati, allevati e macellati nello stesso Paese, in deroga ai capoversi 1 lettere b e c e 3 può essere riportata l’indicazione «Paese di origine X».
 
 <sup>6</sup> Per la carne macinata venduta come tale è necessario indicare il Paese di produzione della carne macinata. Il Paese di origine della carne deve essere indicato solo se non coincide con quello di produzione della carne macinata.
 
-<sup>7</sup> ...[^17-4]
-
-[^17-1]: La correzione del 7 giu. 2017 concerne soltanto il testo francese ([RU 2017 3339](https://fedlex.data.admin.ch/eli/oc/2017/359)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^17-3]: Correzione del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
-[^17-4]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^17-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Sezione 9: Tenore alcolico
 
 #### Art. 18
 
-<sup>1</sup> Se il tenore alcolico delle bevande è superiore allʼ1,2 per cento in volume deve essere indicato in «% vol.». Il margine di tolleranza è di più o meno 0,5 per cento in volume.
+[^18-1]
 
-<sup>2</sup> La determinazione del tenore alcolico è disciplinata nell’ordinanza del 15 febbraio 2006[^18-1] sugli strumenti di misurazione e dalle disposizioni su di essa basate, emanate dal Dipartimento federale di giustizia e polizia.
+<sup>1</sup> Se il tenore alcolico delle bevande è superiore all’1,2 per cento in volume deve essere indicato in «% vol.».
 
-[^18-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+<sup>2</sup>
+
+Il tenore alcolico effettivo può avere un margine di tolleranza massimo e minimo dei seguenti valori:
+
+- a.
+
+  0,8 per cento in volume per:
+
+  - 1\. i prodotti vitivinicoli a denominazione di origine protetta o indicazione geografica protetta immagazzinati in bottiglie per oltre tre anni,
+  - 2\. i vini spumanti,
+  - 3\. i vini spumanti di qualità,
+  - 4\. i vini spumanti gassificati,
+  - 5\. i vini frizzanti,
+  - 6\. i vini frizzanti gassificati,
+  - 7\. i vini liquorosi;
+  - 8\. i vini di uve stramature;
+
+- b.
+
+  1,0 per cento in volume per:
+
+  - 1\. la birra con un tenore alcolico di oltre il 5,5 per cento in volume,
+  - 2\. per le bevande frizzanti ottenute dall’uva,
+  - 3\. il sidro,
+  - 4\. il sidro di pere,
+  - 5\. i vini di frutta e altri prodotti fermentati simili derivati da frutta diversa dall’uva, eventualmente frizzanti o spumanti,
+  - 6\. l’idromele;
+
+- c. 1,5 per cento in volume per le bevande contenenti frutta o parte di piante in macerazione;
+- d. 0,5 per cento in volume per tutte le altre bevande alcoliche con un tenore alcolico di oltre lʼ1,2 per cento in volume.
+
+<sup>3</sup> La determinazione del tenore alcolico è disciplinata nell’ordinanza del 15 febbraio 2006[^18-2] sugli strumenti di misurazione e dalle disposizioni su di essa basate, emanate dal Dipartimento federale di giustizia e polizia.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^18-2]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 
 ### Sezione 10: Partita
 
@@ -499,35 +557,32 @@ Non è necessario indicare la partita:
 
 #### Art. 21
 
-**Principi**
+**Principi**[^21-1]
 
-<sup>1</sup> La dichiarazione del valore nutritivo è obbligatoria. Fanno eccezione le derrate alimentari di cui all’allegato 9.
+<sup>1</sup> La dichiarazione del valore nutritivo è obbligatoria per tutte le derrate alimentari, eccetto per le derrate alimentari di cui all’allegato 9.
 
-<sup>2</sup> Per le derrate alimentari di cui all’allegato 9 la dichiarazione del valore nutritivo può essere fornita su base volontaria.
+<sup>2</sup>
+
+Per le derrate alimentari di cui all’allegato 9 la dichiarazione del valore nutritivo è obbligatoria, se:
+
+- a. recano un’indicazione nutrizionale o sulla salute;
+- b. recano una dicitura concernente il contenuto di glutine o lattosio secondo gli articoli 41 e 42;
+- c. sono definite nell’ordinanza del DFI del 16 dicembre 2016[^21-2] sulle derrate alimentari destinate alle persone con particolari esigenze nutrizionali;
+- d. sono state arricchite con vitamine, sali minerali e altre sostanze;
+- e. recano un’informazione sull’osmolarità secondo l’articolo 42*b*.
 
 <sup>3</sup> Le disposizioni della presente sezione non si applicano agli integratori alimentari e alle acque minerali e di sorgente.
 
+[^21-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^21-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+
 #### Art. 22
 
-**Indicazioni necessarie**
+**Indicazioni necessarie**[^22-1]
 
-<sup>1</sup> La dichiarazione del valore nutritivo deve contenere le seguenti indicazioni: valore energetico e tenore di grassi, acidi grassi saturi, carboidrati, zuccheri, proteine e sale.
+La dichiarazione del valore nutritivo deve contenere le seguenti indicazioni: valore energetico e tenore di grassi, acidi grassi saturi, carboidrati, zuccheri, proteine e sale.
 
-<sup>2</sup> È autorizzata anche soltanto l’indicazione del valore energetico e del tenore di grassi, carboidrati, proteine e sale.
-
-<sup>3</sup>
-
-Una dichiarazione del valore nutritivo deve essere fornita secondo il capoverso 1 se una derrata alimentare:
-
-- a. reca un’indicazione nutrizionale o sulla salute;
-- b.[^22-1] reca una dicitura concernente il contenuto di glutine o lattosio secondo gli articoli 41 e 42;
-- c. è definita nell’ordinanza del DFI del 16 dicembre 2016[^22-2] sulle derrate alimentari destinate alle persone con particolari esigenze nutrizionali (ODPPE);
-- d. è stata arricchita con vitamine, sali minerali e altre sostanze.
-
-<sup>4</sup> Il capoverso 3 si applica anche alle derrate alimentari di cui all’allegato 9.
-
-[^22-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^22-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^22-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 23
 
@@ -535,7 +590,7 @@ Una dichiarazione del valore nutritivo deve essere fornita secondo il capoverso 
 
 <sup>1</sup>
 
-Oltre alle indicazioni fornite sull’etichetta secondo l’articolo 22 capoverso 1, la dichiarazione del valore nutritivo può includere le seguenti sostanze nutritive:
+Oltre alle indicazioni necessarie, la dichiarazione del valore nutritivo può includere le seguenti sostanze:[^23-1]
 
 - a. acidi grassi monoinsaturi;
 - b. acidi grassi polinsaturi;
@@ -544,14 +599,18 @@ Oltre alle indicazioni fornite sull’etichetta secondo l’articolo 22 capovers
 - e. fibre;
 - f. vitamine e sali minerali, qualora siano presenti in quantità significative secondo l’allegato 10.
 
-<sup>2</sup> Se è menzionato il contenuto particolare di sostanze di cui al capoverso 1 lettere a–f, il loro tenore deve essere riportato nella dichiarazione del valore nutritivo di cui all’articolo 22 capoverso 1.
+<sup>2</sup> Se è menzionato il contenuto particolare di sostanze di cui al capoverso 1 lettere a–f, il loro tenore deve essere riportato nella dichiarazione del valore nutritivo.[^23-2]
 
 <sup>3</sup>
 
-Se la caratterizzazione di una derrata alimentare preimballata contiene la dichiarazione del valore nutritivo di cui all’articolo 22 capoverso 1, possono essere ripetute le seguenti indicazioni:
+Se la caratterizzazione di una derrata alimentare preimballata contiene una dichiarazione del valore nutritivo, possono essere ripetute le seguenti indicazioni:[^23-3]
 
 - a. il valore energetico; oppure
 - b. il valore energetico insieme al tenore di grassi, acidi grassi saturi, zuccheri e sale.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 24
 
@@ -770,9 +829,11 @@ Le indicazioni nutrizionali e sulla salute concernenti la mancanza o il ridotto 
 
 <sup>4</sup> Marchi commerciali, nomi di produttori o denominazioni di fantasia che figurano nella caratterizzazione, nella presentazione o nella pubblicità di una derrata alimentare e che possono essere interpretati come un’indicazione nutrizionale o sulla salute, possono essere utilizzati soltanto se accompagnati da un’indicazione nutrizionale o sulla salute che adempie alle disposizioni della presente sezione.
 
-<sup>5</sup> Diversamente da quanto stabilito nel capoverso 4, l’USAV può concedere una deroga per denominazioni generiche tradizionalmente utilizzate per indicare la peculiarità di una categoria di derrate alimentari o bevande che potrebbe avere un effetto sulla salute umana, purché sia garantita la protezione della salute e i consumatori non siano indotti in inganno. La procedura di autorizzazione si basa sugli articoli 3–7 ODerr.
+<sup>5</sup> Diversamente da quanto stabilito nel capoverso 4, l’USAV può stabilire eccezioni nell’allegato 14*a* per denominazioni generiche tradizionalmente utilizzate per indicare la peculiarità di una categoria di derrate alimentari o bevande che potrebbe avere un effetto sulla salute umana, purché sia garantita la protezione della salute e i consumatori non siano indotti in inganno*.**[^35-1]*
 
 <sup>6</sup> Le disposizioni della presente sezione non si applicano alle acque minerali e di sorgente.
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Sezione 13: Marchio d’identificazione
 
@@ -918,6 +979,17 @@ L’informazione deve soddisfare i seguenti requisiti:
 
 [^42a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
+#### Art. 42b
+
+**Informazione sull’osmolarità delle bevande**[^42b-1]
+
+<sup>1</sup> Le bevande con un’osmolarità compresa fra 260 e 300 mOsm per litro possono essere definite isotoniche, mentre le bevande con un’osmolarità inferiore a 260 mOsm per litro possono essere definite ipotoniche.
+
+<sup>2</sup> L’informazione non è ammessa sulle bevande contenenti caffeina ai sensi dell’articolo 37 dell’ordinanza del DFI del 16 dicembre 2016[^42b-2] sulle bevande e sulle bevande alcoliche ai sensi dell’articolo 61 capoverso 1 dell’ordinanza del DFI sulle bevande.
+
+[^42b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^42b-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+
 ## Capitolo 4: Adeguamento degli allegati
 
 #### Art. 43
@@ -953,6 +1025,14 @@ I prodotti con marchi commerciali o nomi di produttori esistenti prima del 1° g
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2021 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
 [^45a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+
+#### Art. 45b
+
+**Disposizione transitoria relativa alla modifica dell’8 dicembre 2023**[^45b-1]
+
+Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^45b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 46
 
@@ -1014,7 +1094,7 @@ Allegato 2[^t-1]
 
 ## Derrate alimentari la cui caratterizzazione deve contenere una o più indicazioni supplementari
 
-[^t-1]: Aggiornata dalla correzione del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)) e dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^t-1]: Aggiornato dalla correzione del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)) e dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### Parte A Particolari indicazioni obbligatorie nella caratterizzazione delle derrate alimentari
 
@@ -1073,7 +1153,7 @@ Allegato 3
 
 ## Definizione di altezza della X
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/it/xml/image/image1.png)
 
 Legenda
 
@@ -1127,7 +1207,7 @@ Allegato 5[^t-3]
 
 ## Indicazione e denominazione degli ingredienti
 
-[^t-3]: Aggiornata dalle correzioni del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)) e dal 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)).
+[^t-3]: Aggiornato dalle correzioni del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)), dal 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Parte A Disposizioni particolari relative all’indicazione degli ingredienti in ordine decrescente di peso
 
@@ -1146,7 +1226,7 @@ Allegato 5[^t-3]
 
 ### Parte B Ingredienti designati con la denominazione di una categoria piuttosto che con una denominazione specifica
 
-Gli ingredienti che appartengono a una delle categorie di derrate alimentari sottoelencate e che sono componenti di un’altra derrata alimentare possono essere designati con la denominazione di tale categoria invece che con la denominazione specifica. È fatto salvo l’articolo 10.
+Gli ingredienti che appartengono a una delle categorie di derrate alimentari sottoelencate e che sono componenti di un’altra derrata alimentare possono essere designati con la denominazione di tale categoria invece che con la denominazione specifica. È fatto salvo l’articolo 11.
 
 <table>
 <tr><th>Denominazione della categoria</th><th>Designazione</th></tr>
@@ -1170,7 +1250,7 @@ Gli ingredienti che appartengono a una delle categorie di derrate alimentari sot
 
 ### Parte C Ingredienti designati con la categoria funzionale seguita dalla denominazione singola o dal numero E
 
-- 1\. Gli additivi e gli enzimi alimentari diversi da quelli precisati nell’articolo 9 capoverso 2 lettera b, che appartengono a una delle categorie funzionali elencate nella presente parte, devono essere designati mediante la denominazione della categoria funzionale seguita dalla denominazione singola o eventualmente dal numero E. Se un ingrediente appartiene a più categorie funzionali, deve essere indicata quella corrispondente alla sua funzione principale per la derrata alimentare in questione. È fatto salvo l’articolo 10.
+- 1\. Gli additivi e gli enzimi alimentari diversi da quelli precisati nell’articolo 9 capoverso 2 lettera b, che appartengono a una delle categorie funzionali elencate nella presente parte, devono essere designati mediante la denominazione della categoria funzionale seguita dalla denominazione singola o eventualmente dal numero E. Se un ingrediente appartiene a più categorie funzionali, deve essere indicata quella corrispondente alla sua funzione principale per la derrata alimentare in questione. È fatto salvo l’articolo 11.
   - [tab] Antiossidanti
   - [tab] Addensanti
   - [tab] Agenti antiagglomeranti
@@ -1211,10 +1291,10 @@ Gli ingredienti che appartengono a una delle categorie di derrate alimentari sot
 
 ### Parte E Designazione degli ingredienti composti
 
-- 1\. Un ingrediente composto può figurare nell’elenco degli ingredienti sotto la sua denominazione specifica in rapporto al suo peso, purché quest’ultima sia immediatamente seguita dalla composizione di tale ingrediente. Per quanto concerne gli additivi devono essere indicati solo quelli che hanno ancora tecnologicamente effetto sul prodotto finale. È fatto salvo l’articolo 10.
+- 1\. Un ingrediente composto può figurare nell’elenco degli ingredienti sotto la sua denominazione specifica in rapporto al suo peso, purché quest’ultima sia immediatamente seguita dalla composizione di tale ingrediente. Per quanto concerne gli additivi devono essere indicati solo quelli che hanno ancora tecnologicamente effetto sul prodotto finale. È fatto salvo l’articolo 11.
 - 2\. L’elenco degli ingredienti previsto per gli ingredienti composti non è obbligatorio quando:
-- 2\.1 la composizione dell’ingrediente composto è definita in un’ordinanza, purché l’ingrediente composto costituisca meno del 2 per cento del prodotto finito; sono fatti salvi l’articolo 9 capoverso 2 lettere a–d per gli additivi e l’articolo 10;
-- 2\.2 gli ingredienti composti consistono in miscele di spezie e/o di piante aromatiche che costituiscono meno del 2 per cento del prodotto finito; sono fatti salvi l’articolo 9 capoverso 2 lettere a–d per gli additivi e l’articolo 10;
+- 2\.1 la composizione dell’ingrediente composto è definita in un’ordinanza, purché l’ingrediente composto costituisca meno del 2 per cento del prodotto finito; sono fatti salvi l’articolo 9 capoverso 2 lettere a–d per gli additivi e l’articolo 11;
+- 2\.2 gli ingredienti composti consistono in miscele di spezie e/o di piante aromatiche che costituiscono meno del 2 per cento del prodotto finito; sono fatti salvi l’articolo 9 capoverso 2 lettere a–d per gli additivi e l’articolo 11;
 - 2\.3 l’ingrediente composto è una derrata alimentare per la quale non è necessario un elenco degli ingredienti.
 
 Allegato 5a[^t-4]
@@ -1230,15 +1310,17 @@ Allegato 5a[^t-4]
 <tr><td>Fleischkäse</td><td>fromage d’Italie</td><td>fleischkäse</td></tr>
 </table>
 
-Allegato 6
+Allegato 6[^t-5]
 
-(art. 10 e 11 cpv. 1–3 e 9)
+(art. 10 e 11 cpv. 1–3, 7<sup>bis</sup> e 9)
 
 ## Sostanze che potrebbero provocare allergie o altre reazioni indesiderate
 
+[^t-5]: Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+
 I seguenti ingredienti e i prodotti da essi ottenuti potrebbero provocare allergie o altre reazioni indesiderate e devono pertanto essere sempre menzionati nella caratterizzazione; è fatto salvo l’articolo 11 capoverso 9:
 
-- 1\. cereali contenenti glutine segnatamente grano come farro e frumento Khorasan, segale, orzo, avena o loro ceppi ibridati e prodotti derivati, tranne:
+- 1 cereali contenenti glutine segnatamente grano, farro, frumento Khorasan, segale, orzo, avena o loro ceppi ibridati e prodotti derivati, tranne:
 - 1\.1 sciroppi di glucosio a base di grano, incluso il destrosio e i loro prodotti derivati, purché il processo subito non aumenti il livello di allergenicità,
 - 1\.2 maltodestrine a base di grano e i loro prodotti derivati, purché il processo subito non aumenti il livello di allergenicità,
 - 1\.3 sciroppi di glucosio a base di orzo,
@@ -1489,13 +1571,13 @@ Fibre 8 kJ/g = 2 kcal/g
 
 Eritritolo 0 kJ/g = 0 kcal/g
 
-Allegato 13[^t-5]
+Allegato 13[^t-6]
 
 (art. 29 cpv. 3)
 
 ## Indicazioni nutrizionali e condizioni per la loro applicazione
 
-[^t-5]: Aggiornato dalla correzione del 20 ago. 2019 ([RU 2019 2627](https://fedlex.data.admin.ch/eli/oc/2019/488)).
+[^t-6]: Aggiornato dalla correzione del 20 ago. 2019 ([RU 2019 2627](https://fedlex.data.admin.ch/eli/oc/2019/488)).
 
 ### 1 A basso contenuto calorico
 
@@ -1694,13 +1776,13 @@ Se una derrata alimentare soddisfa in natura le condizioni stabilite dal present
 
 [^annex13-lvlu1-lvl35-1]: [RS 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
 
-Allegato 14[^t-6]
+Allegato 14[^t-7]
 
 (art. 31 cpv. 2 e 3, 32 cpv. 1, 33 nonché 34 cpv. 2 lett. b)
 
 ## Indicazioni sulla salute ammesse per gli alimenti, i componenti, i costituenti e le categorie di derrate alimentari, nonché condizioni per il loro impiego
 
-[^t-6]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)) e dal n. I dell’O del DFI del 31 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)).
+[^t-7]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), dal n. I dell’O del DFI del 31 mag. 2023 ([RU 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 <table>
 <tr><th>Derrate alimentari, componenti, costituenti, categorie di derrate alimentari</th><th colspan="3">Indicazione</th><th colspan="3">Condizioni per lʼimpiego</th><th>Restrizioni/avvertenze</th></tr>
@@ -1709,12 +1791,12 @@ Allegato 14[^t-6]
 <tr><td>Acido α-linolenico (ALA) e acido linoleico (LA)</td><td colspan="3">Gli acidi grassi sono necessari per la normale crescita e lo sviluppo corretto dei bambini</td><td colspan="3">Il consumatore deve essere informato che lʼeffetto benefico si ottiene con lʼassunzione quotidiana di 2 g di acido α-linolenico (ALA) e con lʼassunzione quotidiana di 10 g di acido linoleico (LA).</td><td></td></tr>
 <tr><td>Acido docosaesaenoico (DHA)</td><td colspan="3">Lʼassunzione di acido docosaesaenoico (DHA) contribuisce al normale sviluppo delle capacità visive dei lattanti fino a 12 mesi.</td><td colspan="3">Il consumatore va informato del fatto che lʼeffetto benefico si ottiene con lʼassunzione quotidiana di 100 mg di DHA. Se lʼindicazione è usata per alimenti di proseguimento, lʼalimento deve contenere almeno lo 0,3 % degli acidi grassi totali sotto forma di DHA.</td><td></td></tr>
 <tr><td>Acido docosaesaenoico (DHA)</td><td colspan="3">L’acido docosaesaenoico (DHA) contribuisce al mantenimento della normale funzione cerebrale.</td><td colspan="3">L’indicazione può unicamente essere utilizzata per le derrate alimentari che contengono almeno 40 mg di DHA ogni 100 g e rispettivamente 100 kcal. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione giornaliera di 250 mg di HPMC.</td><td></td></tr>
-<tr><td>Acido docosaesaenoico (DHA)</td><td colspan="3">Il DHA contribuisce al mantenimento di livelli normali di trigliceridi nel sangue.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare che fornisce un apporto giornaliero di 2 g di DHA e di EPA e che contiene DHA in combinazione con acido eicosapentaenoico (EPA). L’indicazione deve essere accompagnata dall’informazione al consumatore che l’effetto benefico si ottiene con l’assunzione giornaliera di 2 g di DHA. Il consumatore deve essere inoltre informato di non superare il livello di assunzione giornaliera supplementare di 5 g di EPA e di DHA combinati allorché l’indicazione è utilizzata per integratori alimentari e/o derrate alimentari arricchiti.</td><td>L’indicazione non va utilizzata per derrate alimentari destinate ai bambini.</td></tr>
+<tr><td>Acido docosaesaenoico (DHA)</td><td colspan="3">Il DHA contribuisce al mantenimento di livelli normali di trigliceridi nel sangue.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare che fornisce un apporto giornaliero di 2 g di DHA e che contiene DHA in combinazione con l’acido eicosapentaenoico (EPA). L’indicazione deve essere accompagnata dall’informazione al consumatore che l’effetto benefico si ottiene con l’assunzione giornaliera di 2 g di DHA. Il consumatore deve essere inoltre informato di non superare il livello di assunzione giornaliera supplementare di 5 g di EPA e di DHA combinati allorché l’indicazione è utilizzata per integratori alimentari, derrate alimentari o alimenti arricchiti per sportivi.</td><td>L’indicazione non va utilizzata per derrate alimentari destinate ai bambini.</td></tr>
 <tr><td>Acido docosaesaenoico (DHA)</td><td colspan="3">Lʼassunzione di acido docosaesaenoico (DHA) da parte della madre contribuisce al normale sviluppo degli occhi nel feto e nei lattanti allattati al seno</td><td colspan="3">Le donne in gravidanza e in allattamento devono essere informate del fatto che lʼeffetto benefico è ottenuto con unʼassunzione giornaliera di 200 mg di DHA in aggiunta alla dose giornaliera raccomandata di acidi grassi omega-3 nellʼadulto, che è pari a 250 mg di DHA e di EPA. Lʼindicazione può essere usata solo per derrate alimentari che danno un apporto giornaliero di almeno 200 mg di DHA.</td><td></td></tr>
 <tr><td>Acido docosaesaenoico (DHA)</td><td colspan="3">L’acido docosaesaenoico (DHA) contribuisce al mantenimento della facoltà visiva normale.</td><td colspan="3">L’indicazione può unicamente essere utilizzata per le derrate alimentari che contengono almeno 40 mg di DHA ogni 100 g e rispettivamente 100 kcal. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione giornaliera di 250 mg di HPMC.</td><td></td></tr>
 <tr><td>Acido docosaesaenoico (DHA)</td><td colspan="3">Lʼassunzione di acido docosaesaenoico (DHA) da parte della madre contribuisce al normale sviluppo del cervello nel feto e nei lattanti allattati al seno.</td><td colspan="3">Le donne in gravidanza e in allattamento devono essere informate del fatto che lʼeffetto benefico è ottenuto con unʼassunzione giornaliera di 200 mg di DHA in aggiunta alla dose giornaliera raccomandata di acidi grassi omega-3 nellʼadulto, che è pari a 250 mg di DHA e di EPA combinati.</td><td></td></tr>
 <tr><td>Acido docosaesaenoico (DHA) e acido eicosapentaenoico (EPA)</td><td colspan="3">Il DHA e lʼEPA contribuiscono al mantenimento di livelli normali di trigliceridi nel sangue.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare che fornisce un apporto giornaliero di 2 g di DHA e di EPA combinati. L’indicazione deve essere accompagnata dall’informazione al consumatore che l’effetto benefico si ottiene con l’assunzione giornaliera di 2 g di DHA e di EPA. Il consumatore deve essere inoltre informato di non superare il livello di assunzione giornaliera supplementare di 5 g di combinazioni di EPA e di DHA combinati allorché l’indicazione è utilizzata per integratori alimentari e/o derrate alimentari arricchiti.</td><td>L’indicazione non va utilizzata per alimenti destinati ai bambini.</td></tr>
-<tr><td>Acido docosaesaenoico e acido eicosapentaenoico (DHA/EPA)</td><td colspan="3">Il DHA e lʼEPA contribuiscono al mantenimento di una normale pressione sanguigna.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare che fornisce un apporto giornaliero di 3 g di DHA e di EPA e che contiene DHA in combinazione con EPA. L’indicazione deve essere accompagnata dall’informazione al consumatore che l’effetto benefico si ottiene con l’assunzione giornaliera di 3 g di DHA e di EPA combinati. Il consumatore deve essere inoltre informato di non superare il livello di assunzione giornaliera supplementare di 5 g di EPA e di DHA combinati allorché l’indicazione è utilizzata per integratori alimentari e/o derrate alimentari arricchiti.</td><td>L’indicazione non va utilizzata per derrate alimentari destinati ai bambini.</td></tr>
+<tr><td>Acido docosaesaenoico e acido eicosapentaenoico (DHA/EPA)</td><td colspan="3">Il DHA e lʼEPA contribuiscono al mantenimento di una normale pressione sanguigna.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare che fornisce un apporto giornaliero di 3 g di DHA e di EPA. L’indicazione deve essere accompagnata dall’informazione al consumatore che l’effetto benefico si ottiene con l’assunzione giornaliera di 3 g di DHA e di EPA. Il consumatore deve essere inoltre informato di non superare il livello di assunzione giornaliera supplementare di 5 g di EPA e di DHA combinati allorché l’indicazione è utilizzata per integratori alimentari, derrate alimentari o alimenti arricchiti per sportivi.</td><td>L’indicazione non va utilizzata per derrate alimentari destinate ai bambini.</td></tr>
 <tr><td>Acido eicosapentaenoico (EPA) e acido docosaesaenoico (DHA)</td><td colspan="3">LʼEPA e il DHA contribuiscono alla normale funzione cardiaca.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di acidi grassi omega-3 (EPA o di DHA) secondo l’allegato 13 numero 6 della presente ordinanza. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione giornaliera combinata di 250 mg di EPA e di DHA.</td><td></td></tr>
 <tr><td>Acido linoleico</td><td colspan="3">Lʼacido linoleico contribuisce al mantenimento di livelli normali di colesterolo nel sangue.</td><td colspan="3">Questa indicazione può essere impiegata solo per un alimento che apporti almeno 1,5 g di acido linoleico (AL) per 100 g e per 100 kcal. Il consumatore va informato che lʼeffetto benefico si ottiene con lʼassunzione giornaliera di 10 g di AL.</td><td></td></tr>
 <tr><td>Acido oleico</td><td colspan="3">La sostituzione nella dieta dei grassi saturi con grassi insaturi contribuisce al mantenimento di livelli normali di colesterolo nel sangue. Lʼacido oleico è un grasso insaturo.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare con un alto contenuto di acidi grassi insaturi secondo l’allegato 13 numero 10 della presente ordinanza.</td><td></td></tr>
@@ -1759,7 +1841,7 @@ Allegato 14[^t-6]
 <tr><td>Carboidrati non digeribili</td><td colspan="3">L’assunzione di derrate alimentari/bevande contenenti &lt;nome di tutti i carboidrati non digeribili utilizzati&gt; anziché zuccheri induce un minore aumento del glucosio ematico, dopo la loro assunzione, rispetto alle derrate alimentari/bevande contenenti zucchero.</td><td colspan="3">L’indicazione è consentita solo se gli zuccheri sono sostituiti nelle derrate alimentari o nelle bevande con carboidrati non digeribili, che sono carboidrati che non vengono né digeriti né assorbiti nell’intestino tenue, in modo tale che il contenuto di zuccheri in tali derrate alimentari o bevande sia ridotto almeno nella misura specificata nell’indicazione «a tasso ridotto di [nome della sostanza nutritiva]» di cui all’allegato 13 numero 32 della presente ordinanza.</td><td></td></tr>
 <tr><td>Carboidrati non fermentabili</td><td colspan="3">L’assunzione di derrate alimentari/bevande contenenti «nome di tutti i carboidrati non fermentabili utilizzati» anziché carboidrati fermentabili contribuisce al mantenimento della mineralizzazione dei denti.</td><td colspan="3">L’indicazione è consentita solo se i carboidrati fermentabili1 sono sostituiti nelle derrate alimentari o nelle bevande con carboidrati non fermentabili2 in quantità tali che il consumo di tali derrate alimentari o bevande non riduca il pH della placca a un valore inferiore a 5,7 nel corso dell’assunzione e fino a 30 minuti dopo tale assunzione. 1 Si definiscono carboidrati fermentabili tutti quei carboidrati o miscele di carboidrati consumati nelle derrate alimentari o nelle bevande che riducono il pH della placca a un valore inferiore a 5,7, così come determinato in vivo o in situ da test telemetrici del pH della placca, a causa di fermentazione batterica nel corso dell’assunzione e fino a 30 minuti dopo tale assunzione. 2 Si definiscono carboidrati non fermentabili tutti quei carboidrati o miscele di carboidrati consumati nelle derrate alimentari o nelle bevande che non riducono il pH della placca a un valore conservativo inferiore a 5,7, così come determinato in vivo o in situ da test telemetrici del pH della placca, a causa di fermentazione batterica nel corso dell’assunzione e fino a 30 minuti dopo tale assunzione.</td><td></td></tr>
 <tr><td>Carne e pesce</td><td colspan="3">Se consumati con altre derrate alimentari contenenti ferro, la carne e il pesce contribuiscono al miglioramento dellʼassorbimento del ferro.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare che contiene almeno 50 g di carne o di pesce in una singola porzione quantificata. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione di 50 g di carne o di pesce con uno o più derrate alimentari contenenti ferro non emico.</td><td></td></tr>
-<tr><td>Chitosano</td><td colspan="3">Il chitosano contribuisce al mantenimento di livelli normali di colesterolo nel sangue.</td><td colspan="3">Questa indicazione può essere impiegata solo per derrate alimentari, eccetto gli integratori alimentari, che forniscono un apporto giornaliero di 3 g di chitosano. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione giornaliera di 3 g di chitosano.</td><td></td></tr>
+<tr><td>Chitosano</td><td colspan="3">Il chitosano contribuisce al mantenimento di livelli normali di colesterolo nel sangue.</td><td colspan="3">Questa indicazione può essere impiegata solo per derrate alimentari che forniscono un apporto giornaliero di 3 g di chitosano. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione giornaliera di 3 g di chitosano.</td><td></td></tr>
 <tr><td>Cloruro</td><td colspan="3">Il cloruro contribuisce alla normale digestione mediante la produzione di acido cloridrico nello stomaco.</td><td colspan="3">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di cloruro secondo l’allegato 13 numero 28 della presente ordinanza.</td><td>Lʼindicazione non può essere impiegata per il cloruro ottenuto a partire da cloruro di sodio.</td></tr>
 <tr><td>Colina</td><td colspan="3">La colina contribuisce al normale metabolismo dellʼomocisteina.</td><td colspan="3">L’indicazione può unicamente essere utilizzata per le derrate alimentari che contengono almeno 82,5 mg di colina ogni 100 g o 100 ml o singola porzione.</td><td></td></tr>
 <tr><td>Colina</td><td colspan="3">La colina contribuisce al normale metabolismo dei lipidi.</td><td colspan="3">L’indicazione può unicamente essere utilizzata per le derrate alimentari che contengono almeno 82,5 mg di colina ogni 100 g o 100 ml o singola porzione.</td><td></td></tr>
@@ -1816,14 +1898,14 @@ Allegato 14[^t-6]
 <tr><td>Gomma di guar</td><td colspan="3">La gomma di guar contribuisce al mantenimento di livelli normali di colesterolo nel sangue.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che fornisce un apporto giornaliero di 10 g di gomma di guar. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione giornaliera di 10 g di gomma di guar.</td><td colspan="2">Deve essere segnalato un possibile pericolo di soffocamento per le persone con difficoltà di deglutizione o in caso di ingestione senza unʼadeguata assunzione di liquidi. Deve essere inoltre riportata lʼavvertenza che, affinché possa raggiungere lo stomaco, la sostanza deve sempre essere assunta con abbondante acqua.</td></tr>
 <tr><td>Idrossipropilmetilcellulosa (HPMC)</td><td colspan="3">Lʼassunzione di cellulosa metilica propilica idrossilata durante il pasto contribuisce alla riduzione dellʼaumento del glucosio ematico post-prandiale.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che contiene 4 g di HPMC per porzione quantificata nellʼambito di un pasto. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione di 4 g di HPMC nellʼambito di un pasto.</td><td colspan="2">Deve essere segnalato un possibile pericolo di soffocamento per le persone con difficoltà di deglutizione o in caso di ingestione senza unʼadeguata assunzione di liquidi. Deve essere inoltre riportata lʼavvertenza che, affinché possa raggiungere lo stomaco, la sostanza deve sempre essere assunta con abbondante acqua.</td></tr>
 <tr><td>Idrossipropilmetilcellulosa (HPMC)</td><td colspan="3">La cellulosa metilica propilica idrossilata contribuisce al mantenimento di livelli normali di colesterolo nel sangue.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che fornisce un apporto giornaliero di 5 g di pectine. Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione giornaliera di 5 g di HPMC.</td><td colspan="2">Deve essere segnalato un possibile pericolo di soffocamento per le persone con difficoltà di deglutizione o in caso di ingestione senza unʼadeguata assunzione di liquidi. Deve essere inoltre riportata lʼavvertenza che, affinché possa raggiungere lo stomaco, la sostanza deve sempre essere assunta con abbondante acqua.</td></tr>
-<tr><td>Inulina estratta da cicoria</td><td colspan="3">L’inulina estratta da cicoria contribuisce alle normali funzioni intestinali grazie a un aumento della frequenza di evacuazione.</td><td colspan="2">Il consumatore deve essere informato che l’effetto benefico si ottiene con l’assunzione quotidiana di 12 g di inulina da cicoria. L’indicazione può essere usata solo per derrate alimentari che forniscono un apporto giornaliero di almeno 12 g di inulina estratta da cicoria, una miscela non frazionata di monosaccaridi (&lt; 10 %), disaccaridi, fruttani di tipo inulinico e inulina estratta dalla cicoria con un grado di polimerizzazione medio ≥ 9. La presente indicazione sulla salute è protetta ai sensi del regolamento (UE) 2015/2314[^annex14-lvlu1-4]<sup>.</sup></td><td colspan="2"></td></tr>
+<tr><td>Inulina estratta da cicoria</td><td colspan="3">L’inulina estratta da cicoria contribuisce alle normali funzioni intestinali grazie a un aumento della frequenza di evacuazione.</td><td colspan="2">Il consumatore deve essere informato che l’effetto benefico si ottiene con l’assunzione quotidiana di 12 g di inulina da cicoria. L’indicazione può essere usata solo per derrate alimentari che forniscono un apporto giornaliero di almeno 12 g di inulina estratta da cicoria, una miscela non frazionata di monosaccaridi (&lt; 10 %), disaccaridi, fruttani di tipo inulinico e inulina estratta da cicoria con un grado di polimerizzazione medio ≥ 9.</td><td colspan="2"></td></tr>
 <tr><td>Iodio</td><td colspan="3">Lo iodio contribuisce alla normale funzione cognitiva.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di iodio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Iodio</td><td colspan="3">Lo iodio contribuisce al normale metabolismo energetico.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di iodio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Iodio</td><td colspan="3">Lo iodio contribuisce al normale funzionamento del sistema nervoso.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di iodio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Iodio</td><td colspan="3">Lo iodio contribuisce al mantenimento di una pelle normale.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di iodio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Iodio</td><td colspan="3">Lo iodio contribuisce alla normale produzione di ormoni della tiroide e alla normale funzione tiroidea.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di iodio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Iodio</td><td colspan="3">Lo iodio contribuisce alla crescita normale dei bambini</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di iodio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
-<tr><td>Lattasi</td><td colspan="3">La lattasi migliora la digestione del lattosio nei soggetti che maldigeriscono il lattosio.</td><td colspan="2">Questa indicazione può essere impiegata solo per gli integratori alimentari con una dose minima di 4500 unità di FCC[^annex14-lvlu1-5], con lʼavvertenza per il consumatore della necessità dellʼassunzione a ogni pasto contenente lattosio.</td><td colspan="2">I consumatori devono essere inoltre avvertiti che la tolleranza al lattosio è variabile e che è opportuno chiedere consiglio circa il ruolo di tale sostanza nella propria dieta.</td></tr>
+<tr><td>Lattasi</td><td colspan="3">La lattasi migliora la digestione del lattosio nei soggetti che maldigeriscono il lattosio.</td><td colspan="2">Questa indicazione può essere impiegata solo per gli integratori alimentari con una dose minima di 4500 unità di FCC[^annex14-lvlu1-4], con lʼavvertenza per il consumatore della necessità dellʼassunzione a ogni pasto contenente lattosio.</td><td colspan="2">I consumatori devono essere inoltre avvertiti che la tolleranza al lattosio è variabile e che è opportuno chiedere consiglio circa il ruolo di tale sostanza nella propria dieta.</td></tr>
 <tr><td>Lattitolo</td><td colspan="3">Il lattitolo contribuisce alle normali funzioni intestinali grazie a un aumento della frequenza di evacuazione.</td><td colspan="2">Questa indicazione può essere impiegata solo per integratori alimentari che contengono 10 g di lattitolo in una singola porzione giornaliera quantificata. L’indicazione va accompagnata dall’informazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione di 10 g di lattitolo in un’unica dose giornaliera.</td><td colspan="2">L’indicazione non va utilizzata per alimenti destinati a bambini.</td></tr>
 <tr><td>Lattulosio</td><td colspan="3">Il lattulosio contribuisce allʼaccelerazione del transito intestinale.</td><td colspan="2">Questa indicazione può essere impiegata solo per un alimento che contiene 10 g di lattulosio in una singola porzione quantificata. L’indicazione va accompagnata dall’informazione al consumatore che l’effetto benefico si ottiene con una dose di 10 g di lattulosio al giorno.</td><td colspan="2"></td></tr>
 <tr><td>Magnesio</td><td colspan="3">Il magnesio contribuisce alla riduzione della stanchezza e dellʼaffaticamento.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di magnesio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
@@ -1882,11 +1964,12 @@ Allegato 14[^t-6]
 <tr><td>Selenio</td><td colspan="3">Il selenio contribuisce alla normale funzione del sistema immunitario.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di selenio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Selenio</td><td colspan="3">Il selenio contribuisce alla normale funzione tiroidea.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di selenio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Selenio</td><td colspan="3">Il selenio contribuisce alla protezione delle cellule dallo stress ossidativo.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di selenio secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
+<tr><td>Soluzioni di carboidrati</td><td colspan="3">Le soluzioni di carboidrati contribuiscono al miglioramento delle prestazioni fisiche durante un esercizio fisico intenso e prolungato negli adulti allenati.</td><td colspan="2">L’indicazione può essere impiegata solo per le soluzioni di carboidrati che, secondo le istruzioni per l’uso, forniscono tra 30 g e 90 g di carboidrati all’ora, quando i carboidrati in questione sono glucosio, saccarosio, fruttosio o maltodestrine e sono soddisfatte le seguenti condizioni: a) il fruttosio (derivato da fruttosio o da saccarosio) non può rappresentare più di un terzo dei carboidrati totali; b) il glucosio (derivato da glucosio, da saccarosio o da maltodestrine) non può superare 60 g/h. Il consumatore va informato del fatto che solo gli adulti allenati che svolgono un esercizio fisico intenso (almeno il 65 % del VO<sub>2max</sub>) e prolungato (almeno 60 minuti) ottengono l’effetto benefico.</td><td colspan="2">L’indicazione può essere impiegata solo per gli alimenti per sportivi destinati ad adulti allenati che svolgono un esercizio fisico intenso e prolungato**.**</td></tr>
 <tr><td>Soluzioni di carboidrati-elettroliti</td><td colspan="3">Le soluzioni di carboidrati-elettroliti aumentano lʼassorbimento di acqua durante lʼesercizio fisico.</td><td colspan="2">Per poter recare lʼindicazione, le soluzioni di carboidrati-elettroliti devono contenere 80–350 kcal/L da carboidrati e almeno il 75 per cento dellʼenergia deve essere fornito da carboidrati capaci di indurre unʼelevata risposta glicemica, quali glucosio, polimeri di glucosio e saccarosio. Inoltre le bevande devono contenere tra 20 mmol/l/L (460 mg/L) e 50 mmol/l/L (1150 mg/L) di sodio e devono avere unʼosmolarità compresa tra 200 e 330 mOsm/kg di acqua.</td><td colspan="2"></td></tr>
 <tr><td>Soluzioni dicarboidrati-elettroliti</td><td colspan="3">Le soluzioni di carboidrati-elettroliti contribuiscono al mantenimento di prestazioni di resistenza durante lʼesercizio fisico prolungato.</td><td colspan="2">Per poter recare lʼindicazione, le soluzioni di carboidrati-elettroliti devono contenere 80–350 kcal/L da carboidrati e almeno il 75 per cento dellʼenergia deve essere fornito da carboidrati capaci di indurre unʼelevata risposta glicemica, quali glucosio, polimeri di glucosio e saccarosio. Inoltre le bevande devono contenere tra 20 mmol/l/L (460 mg/L) e 50 mmol/l/L (1150 mg/L) di sodio e devono avere unʼosmolarità compresa tra 200 e 330 mOsm/kg di acqua.</td><td colspan="2"></td></tr>
-<tr><td>Sostituti dello zucchero, ossia edulcoranti intensi; xilitolo, sorbitolo, mannitolo, maltitolo, lactitolo, isomalto, eritritolo, sucralosio e polidestrosio oppure D-tagatosio e isomaltulosio</td><td colspan="3">Lʼassunzione di derrate alimentari o bevande che anziché zucchero contengono il prodotto sostitutivo dello zucchero X (nome del sostituto dello zucchero)[^annex14-lvlu1-6] oppure le altre sorte di zucchero «D-tagatosio» o isomaltulosio induce un minore aumento del glucosio ematico, dopo la loro assunzione, rispetto alle derrate alimentari o alle bevande contenenti zucchero.</td><td colspan="2">Lʼindicazione è consentita solo se gli zuccheri sono sostituiti nelle derrate alimentari o nelle bevande con sostituti dello zucchero, ossia edulcoranti intensi, xilitolo, sorbitolo, mannitolo, maltitolo, lactitolo, isomalto, eritritolo, sucralosio o polidestrosio, o una loro combinazione, in modo tale che il contenuto di zuccheri in tali derrate alimentari o bevande sia ridotto almeno nella misura specificata nellʼallegato 13 numero 32 della presente ordinanza. Nel caso del D‑tagatosio e dellʼisomaltulosio, essi devono sostituire quantità equivalenti di altri zuccheri nella stessa proporzione specificata nellʼallegato 13 numero 32 della presente ordinanza.</td><td colspan="2"></td></tr>
-<tr><td>Sostituti dello zucchero, ossia edulcoranti intensi; xilitolo, sorbitolo, mannitolo, maltitolo, lactitolo, isomalto, eritritolo, sucralosio e polidestrosio; D-tagatosio e isomaltulosio</td><td colspan="3">Lʼassunzione di derrate alimentari o bevande che anziché zucchero contengono il prodotto sostitutivo dello zucchero X (nome del sostituto dello zucchero)[^annex14-lvlu1-7] oppure le altre sorte di zucchero «D-tagatosio» o isomaltulosio contribuisce al mantenimento della mineralizzazione dei denti.</td><td colspan="2">Lʼindicazione è consentita solo se gli zuccheri sono sostituiti nelle derrate alimentari o nelle bevande che riducono il pH della placca a un valore inferiore a 5,7 con sostituti dello zucchero, ossia edulcoranti intensi, xilitolo, sorbitolo, mannitolo, maltitolo, lactitolo, isomalto, eritritolo, D-tagatosio, isomaltulosio, sucralosio o polidestrosio, o una loro combinazione, in quantità tali che il consumo di tali derrate alimentari o bevande non riduca il pH della placca a un valore inferiore a 5,7 nel corso dellʼassunzione e fino a 30 minuti dopo tale assunzione.</td><td colspan="2"></td></tr>
-<tr><td>Sostituto di un pasto per il controllo del peso</td><td colspan="3">La sostituzione di un pasto giornaliero principale di una dieta ipocalorica con un sostituto di un pasto contribuisce al mantenimento del peso dopo la perdita di peso.</td><td colspan="2">Questa indicazione può essere impiegata solo se la derrata alimentare soddisfa i requisiti di cui agli articoli 3 e 35*d* ODPPE[^annex14-lvlu1-8].</td><td colspan="2">Per poter utilizzare l’indicazione sulla salute è indispensabile informare i consumatori sull’importanza di mantenere giornalmente un adeguato apporto di liquidi e sul fatto che i prodotti sono utili per l’uso previsto soltanto nell’ambito di una dieta ipocalorica che deve necessariamente comprendere altri alimenti. Per poter ottenere l’effetto indicato, è necessario sostituire ogni giorno un pasto principale con un sostituto di un pasto.</td></tr>
+<tr><td>Sostituti dello zucchero, ossia edulcoranti intensi; xilitolo, sorbitolo, mannitolo, maltitolo, lactitolo, isomalto, eritritolo, sucralosio e polidestrosio oppure D‑tagatosio e isomaltulosio</td><td colspan="3">L’assunzione di alimenti/bevande contenenti X (nome del sostituto dello zucchero oppure di altre sorte di zucchero D‑tagatosio o isomaltulosio) anziché zucchero[^annex14-lvlu1-5] induce un minore aumento del glucosio ematico dopo la loro assunzione rispetto agli alimenti/bevande contenenti zucchero.</td><td colspan="2">Lʼindicazione è consentita solo se gli zuccheri sono sostituiti nelle derrate alimentari o nelle bevande con sostituti dello zucchero, ossia edulcoranti intensi, xilitolo, sorbitolo, mannitolo, maltitolo, lactitolo, isomalto, eritritolo, sucralosio o polidestrosio, o una loro combinazione, in modo tale che il contenuto di zuccheri in tali derrate alimentari o bevande sia ridotto almeno nella misura specificata nellʼallegato 13 numero 32 della presente ordinanza. Nel caso del D-tagatosio e dellʼisomaltulosio, essi devono sostituire quantità equivalenti di altri zuccheri nella stessa proporzione specificata nellʼallegato 13 numero 32 della presente ordinanza.</td><td colspan="2"></td></tr>
+<tr><td>Sostituti dello zucchero, ossia edulcoranti intensi; xilitolo, sorbitolo, mannitolo, maltitolo, lactitolo, isomalto, eritritolo, sucralosio e polidestrosio; D-tagatosio e isomaltulosio</td><td colspan="3">Lʼassunzione di alimenti/bevande contenenti X (nome del sostituto dello zucchero oppure di altre sorte di zucchero D-tagatosio o isomaltulosio) anziché zucchero[^annex14-lvlu1-6] contribuisce al mantenimento della mineralizzazione dei denti.</td><td colspan="2">Lʼindicazione è consentita solo se gli zuccheri sono sostituiti nelle derrate alimentari o nelle bevande che riducono il pH della placca a un valore inferiore a 5,7 con sostituti dello zucchero, ossia edulcoranti intensi, xilitolo, sorbitolo, mannitolo, maltitolo, lactitolo, isomalto, eritritolo, D-tagatosio, isomaltulosio, sucralosio o polidestrosio, o una loro combinazione, in quantità tali che il consumo di tali derrate alimentari o bevande non riduca il pH della placca a un valore inferiore a 5,7 nel corso dellʼassunzione e fino a 30 minuti dopo tale assunzione.</td><td colspan="2"></td></tr>
+<tr><td>Sostituto di un pasto per il controllo del peso</td><td colspan="3">La sostituzione di un pasto giornaliero principale di una dieta ipocalorica con un sostituto di un pasto contribuisce al mantenimento del peso dopo la perdita di peso.</td><td colspan="2">Questa indicazione può essere impiegata solo se la derrata alimentare soddisfa i requisiti di cui agli articoli 3 e 35*d* ODPPE[^annex14-lvlu1-7].</td><td colspan="2">Per poter utilizzare l’indicazione sulla salute è indispensabile informare i consumatori sull’importanza di mantenere giornalmente un adeguato apporto di liquidi e sul fatto che i prodotti sono utili per l’uso previsto soltanto nell’ambito di una dieta ipocalorica che deve necessariamente comprendere altri alimenti. Per poter ottenere l’effetto indicato, è necessario sostituire ogni giorno un pasto principale con un sostituto di un pasto.</td></tr>
 <tr><td>Sostituto di un pasto per il controllo del peso</td><td colspan="3">La sostituzione di due pasti giornalieri principali di una dieta ipocalorica con sostituti di un pasto contribuisce alla perdita di peso.</td><td colspan="2">Questa indicazione può essere impiegata solo se la derrata alimentare soddisfa i requisiti di cui agli articoli 3 e 35*d* ODPPE.</td><td colspan="2">Per poter utilizzare l’indicazione sulla salute è indispensabile informare i consumatori sull’importanza di mantenere giornalmente un adeguato apporto di liquidi e sul fatto che i prodotti sono utili per l’uso previsto soltanto nell’ambito di una dieta ipocalorica che deve necessariamente comprendere altri alimenti. Per poter ottenere l’effetto indicato, è necessario sostituire ogni giorno due pasti principali con sostituti di un pasto.</td></tr>
 <tr><td>Steroli e stanoli vegetali</td><td colspan="3">Gli steroli e gli stanoli vegetali contribuiscono al mantenimento di livelli normali di colesterolo nel sangue.</td><td colspan="2">Lʼindicazione deve essere accompagnata dallʼinformazione al consumatore che lʼeffetto benefico si ottiene con lʼassunzione giornaliera di almeno 0,8 g di steroli o stanoli vegetali.</td><td colspan="2"></td></tr>
 <tr><td>Steroli vegetali: steroli estratti da piante, liberi o esterificati con acidi grassi alimentari.</td><td colspan="3">È stato dimostrato che gli steroli vegetali abbassano/riducono il colesterolo nel sangue. Lʼipercolesterolemia costituisce un fattore di rischio per lo sviluppo di cardiopatie coronariche</td><td colspan="2">Il consumatore deve essere informato che lʼeffetto benefico si ottiene con lʼassunzione quotidiana di almeno 1,5–3 g di steroli vegetali. È possibile fare riferimento allʼentità dellʼeffetto solo per derrate alimentari delle categorie seguenti: grassi da spalmare, prodotti di tipo latte, maionese e salse per insalata. Quando si fa riferimento allʼentità dellʼeffetto, al consumatore devono essere comunicati lʼintero intervallo «da 7 a 10 %» per derrate alimentari che assicurano unʼassunzione giornaliera di 1,5–2,4 g di steroli vegetali oppure lʼintero intervallo «da 10 a 12,5 %» per derrate alimentari che assicurano unʼassunzione giornaliera di 2,5–3 g di steroli vegetali, e il tempo necessario a ottenere lʼeffetto «in 2–3 settimane».</td><td colspan="2"></td></tr>
@@ -1969,11 +2052,20 @@ Allegato 14[^t-6]
 [^annex14-lvlu1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
 [^annex14-lvlu1-2]: Il carico massimale di ripetizione è il peso massimo o la forza massima che un individuo può esercitare in un singolo sollevamento.
 [^annex14-lvlu1-3]: Il carico massimale di ripetizione è il peso massimo o la forza massima che un individuo può esercitare in un singolo sollevamento.
-[^annex14-lvlu1-4]: Regolamento (UE) 2015/2314 della Commissione del 7 dicembre 2015 che autorizza un’indicazione sulla salute fornita sui prodotti alimentari, diversa da quelle facenti riferimento alla riduzione dei rischi di malattia e allo sviluppo e alla salute dei bambini, e che modifica il regolamento (UE) n. 432/2012, versione della GU L 328 del 12.12.2015, pag. 46.
-[^annex14-lvlu1-5]: FCC = Food Chemicals Codex
-[^annex14-lvlu1-6]: Nel caso del D-tagatosio e dell’isomaltulosio si legga qui «altre sorte di zuccheri».
-[^annex14-lvlu1-7]: Vedi nota a piè di pagina relativa al D-tagatosio e all’isomaltulosio.
-[^annex14-lvlu1-8]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^annex14-lvlu1-4]: FCC = Food Chemicals Codex
+[^annex14-lvlu1-5]: Nel caso del D-tagatosio e dell’isomaltulosio si legga qui «altre sorte di zuccheri» anziché «zucchero».
+[^annex14-lvlu1-6]: Nel caso del D-tagatosio e dell’isomaltulosio si legga qui «altre sorte di zuccheri» anziché «zucchero».
+[^annex14-lvlu1-7]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+
+Allegato 14a[^t-8]
+
+(art. 35 cpv. 5)
+
+## Eccezioni definite dall’USAV per le denominazioni generiche tradizionalmente utilizzate per indicare la peculiarità di una categoria di derrate alimentari o bevande e che potrebbero avere un effetto sulla salute umana
+
+[^t-8]: Introdotto dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+
+Attualmente non vi è ancora nessuna voce.
 
 Allegato 15
 
@@ -2009,4 +2101,4 @@ con il seguente mezzo di trasporto:
 
 nome e indirizzo del mittente:
 
-- [tab] nome e indirizzo del destinatario:
+nome e indirizzo del destinatario:

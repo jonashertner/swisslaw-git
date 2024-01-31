@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 betreffend die Information über
 short: LIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: de
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-158-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-158-20240201-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20230701/de"
 
 (LIV)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2023)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -65,12 +65,12 @@ Lebensmittel müssen zum Zeitpunkt der Abgabe an die Konsumentinnen und Konsumen
 - g. Name oder Firma sowie Adresse der Person, die das Lebensmittel herstellt, einführt, abpackt, umhüllt, abfüllt oder abgibt;
 - h. Produktionsland von Lebensmitteln (Art. 15);
 - i. Herkunft mengenmässig wichtiger Zutaten von Lebensmitteln (Art. 16);
-- j. spezifische Angaben für Fleisch von Rind, Schwein, Schaf, Ziege und Geflügel sowie für Fisch (Art. 17);
+- j.[^3-1] spezifische Angaben für Fleisch von Rind, Schwein, Schaf, Ziege und Geflügel (Art. 17);
 - k. Gebrauchsanleitung, sofern es schwierig wäre, das Lebensmittel ohne diese Angabe bestimmungsgemäss zu verwenden;
 - l. Alkoholgehalt bei alkoholischen Getränken mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent (Art. 18);
 - m. Warenlos (Art. 19 und 20);
 - n. Nährwertdeklaration (Art. 21–28);
-- o.[^3-1] Hinweis bei Lebensmitteln, die gentechnisch veränderte Organismen (GVO) sind, GVO enthalten oder aus GVO gewonnen wurden (Art. 8 der Verordnung des EDI vom 27. Mai 2020[^3-2] über gentechnisch veränderte Lebensmittel);
+- o.[^3-2] Hinweis bei Lebensmitteln, die gentechnisch veränderte Organismen (GVO) sind, GVO enthalten oder aus GVO gewonnen wurden (Art. 8 der Verordnung des EDI vom 27. Mai 2020[^3-3] über gentechnisch veränderte Lebensmittel);
 - p. gegebenenfalls das Identitätskennzeichen (Art. 36–38);
 - q. weitere Angaben nach Anhang 2.
 
@@ -92,8 +92,9 @@ Bei Mehrfachpackungen (mehrere gleiche oder verschiedene Produkte, die in einer 
 - a. auf den darin enthaltenen Einzelpackungen angebracht sind; und
 - b. von aussen für die Konsumentinnen und Konsumenten lesbar sind oder über sie am Verkaufspunkt auf andere Weise informiert wird.
 
-[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^3-2]: [SR 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
+[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^3-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^3-3]: [SR 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
 
 #### Art. 4
 
@@ -151,7 +152,7 @@ Bei offen in den Verkehr gebrachten Lebensmitteln gelten für die Angaben nach A
   - 1\. schriftlich gut sichtbar darauf hingewiesen wird, dass die Informationen mündlich eingeholt werden können,
   - 2\. die Informationen dem Personal schriftlich vorliegen oder eine fachkundige Person sie unmittelbar erteilen kann;
 
-- e.[^5-5] Bei Lebensmitteln mit einem Hinweis auf den Gluten- oder Laktosegehalt nach den Artikeln 41 und 42 kann abweichend von Artikel 22 Absatz 3 Buchstabe b auf die Angabe einer Nährwertdeklaration verzichtet werden.
+- e.[^5-5] Bei Lebensmitteln mit einem Hinweis auf den Gluten- oder Laktosegehalt nach den Artikeln 41 und 42 kann abweichend von Artikel 21 Absatz 2 Buchstabe b auf die Angabe einer Nährwertdeklaration verzichtet werden.
 - f.[^5-6] Auf unbeabsichtigte Vermischungen nach Artikel 11 Absatz 5 muss nicht hingewiesen werden.
 
 <sup>2</sup> Schriftlich anzubringende Angaben haben in geeigneter Form zu erfolgen. Anbieter der Gemeinschaftsverpflegung können sie in der Speisekarte oder auf einem Plakat anbringen.
@@ -162,7 +163,7 @@ Bei offen in den Verkehr gebrachten Lebensmitteln gelten für die Angaben nach A
 [^5-2]: [SR 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
 [^5-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^5-4]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^5-5]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^5-5]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)). Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^5-6]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### 2. Abschnitt: Sachbezeichnung
@@ -293,15 +294,25 @@ Auf Zutaten nach den Absätzen 1 und 2 muss auch dann hingewiesen werden, wenn s
 - d. bei Laktose: 1 g pro Kilogramm oder Liter genussfertiges Lebensmittel;
 - e. in den übrigen Fällen: 1 g pro Kilogramm oder Liter genussfertiges Lebensmittel.
 
-<sup>6</sup> Die verantwortliche Person muss belegen können, dass alle im Rahmen der guten Verfahrenspraxis gebotenen Massnahmen ergriffen wurden, um die unbeabsichtigten Vermischungen nach Absatz 5 zu vermeiden oder möglichst gering zu halten.
+<sup>6</sup> Die verantwortliche Person muss belegen können, dass alle im Rahmen der guten Verfahrenspraxis gebotenen Massnahmen ergriffen wurden, um die unbeabsichtigten Vermischungen oder Kontaminationen nach Absatz 5 zu vermeiden oder möglichst gering zu halten.[^11-2]
 
-<sup>7</sup> Auf Vermischungen nach Absatz 5, die unter den in diesem Absatz festgelegten Höchstwerten liegen, darf hingewiesen werden.
+<sup>7</sup> Auf unbeabsichtigte Vermischungen oder Kontaminationen nach Absatz 5, die unter den in diesem Absatz festgelegten Höchstwerten liegen, darf hingewiesen werden.[^11-3]
+
+<sup>7bis</sup>
+
+Hinweise nach Absatz 7 dürfen mit einer Gruppenbezeichnung angegeben werden:
+
+- a. für Zutaten nach Anhang 6 Ziffer 1: mit der Gruppenbezeichnung «Glutenhaltiges Getreide»;
+- b. für Zutaten nach Anhang 6 Ziffer 8: mit der Gruppenbezeichnung «Hartschalenobst», «Schalenfrüchte» oder «Nüsse».[^11-4]
 
 <sup>8</sup> Hinweise nach Absatz 5, wie «kann Erdnüsse enthalten», sind unmittelbar nach dem Verzeichnis der Zutaten anzubringen.
 
 <sup>9</sup> Kann der Beweis erbracht werden, dass einzelne Zutaten, die aus Zutaten nach Anhang 6 hergestellt worden sind, keine Allergien oder andere unerwünschte Reaktionen auslösen können, so kann auf deren Angabe nach den Absätzen 1, 3 und 5 verzichtet werden.
 
 [^11-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^11-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-4]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### 5. Abschnitt: Mengenmässige Angabe von Zutaten
 
@@ -376,16 +387,21 @@ Als vollständig in einem Land erzeugt gelten:
 
 <sup>3</sup> Als in diesem Land genügend bearbeitet oder verarbeitet gilt ein Lebensmittel, wenn es in diesem Land in einer Weise bearbeitet worden ist, dass es dadurch seine charakteristischen Eigenschaften oder eine neue Sachbezeichnung erhalten hat.
 
+<sup>3bis</sup> Nicht als in diesem Land genügend bearbeitet oder verarbeitet gelten Brot und Feinbackwaren, wenn sie ihre charakteristischen Eigenschaften oder die neue Sachbezeichnung nur durch das Backen aus fertig geformten Teiglingen erlangen.[^15-1]
+
 <sup>4</sup> Anstelle eines Produktionslandes kann bei verarbeiteten Lebensmitteln ein übergeordneter geografischer Raum angegeben werden, wie «EU» oder «Südamerika». Bezüglich der Angabe des Produktionslandes gelten geschnittene Mischprodukte und Honigmischungen als verarbeitete Lebensmittel.
 
-<sup>5</sup> Bei auf See gefangenen Fischereierzeugnissen ist anstelle des Produktionslandes das Fanggebiet nach Anhang 4 anzugeben.
+<sup>5</sup> Bei auf See gefangenen Fischereierzeugnissen nach Anhang I Buchstaben a–c der Verordnung (EU) Nr. 1379/2013[^15-2] ist anstelle des Produktionslandes das Fanggebiet nach Anhang 4 anzugeben.[^15-3]
 
 <sup>6</sup> Auf die Angabe des Produktionslandes kann verzichtet werden, wenn dieses aus der Sachbezeichnung oder aus der Adresse nach Artikel 3 Absatz 1 Buchstabe g ersichtlich ist. Als Mindestanforderung an diese Adresse gilt die Angabe von Land, Postleitzahl und Ort.
 
-<sup>7</sup> Die Angabe des Produktionslandes kann abgekürzt werden, wenn eine Abkürzung nach dem ISO 2-Code nach dem Länderverzeichnis für die Aussenhandelsstatistik im Gebrauchstarif in der Fassung vom 1. Januar 2019[^15-1] verwendet wird. Abkürzungen dürfen nur für von der Schweiz anerkannte Länder verwendet werden.[^15-2]
+<sup>7</sup> Die Angabe des Produktionslandes kann abgekürzt werden, wenn eine Abkürzung nach dem ISO 2-Code nach dem Länderverzeichnis für die Aussenhandelsstatistik im Gebrauchstarif in der Fassung vom 1. Januar 2019[^15-4] verwendet wird. Abkürzungen dürfen nur für von der Schweiz anerkannte Länder verwendet werden.[^15-5]
 
-[^15-1]: Der Gebrauchstarif kann bei der Oberzolldirektion, Monbijoustrasse 40, 3003 Bern, kostenlos eingesehen und bezogen werden.
-[^15-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^15-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^15-2]: Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates, ABl. L 354 vom 28.12.2013, S. 1; zuletzt geändert durch Verordnung (EU) 2020/560, ABl. L 130 vom 20.4.2020, S. 11.
+[^15-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^15-4]: Der Gebrauchstarif kann bei der Oberzolldirektion, Monbijoustrasse 40, 3003 Bern, kostenlos eingesehen und bezogen werden.
+[^15-5]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 #### Art. 16
 
@@ -400,65 +416,107 @@ Die Herkunft eines Ausgangsproduktes nach Artikel 15 Absatz 2, das als Zutat zur
 
 <sup>2</sup> Stammt eine nach Absatz 1 zu deklarierende Zutat aus unterschiedlichen Ländern, sind alle Herkunftsländer anzugeben.
 
-<sup>3</sup> In Abweichung von Absatz 1 Buchstabe a ist bei in Artikel 1 VLtH[^16-1] aufgeführten Zutaten tierischer Herkunft die Herkunft des Tieres bereits dann anzugeben, wenn ihr Anteil am Enderzeugnis 20 Massenprozent oder mehr beträgt.
+<sup>2bis</sup> Anstelle des Herkunftslandes kann bei der freiwilligen Angabe der Herkunft von Zutaten ein übergeordneter geografischer Raum angegeben werden, wie «EU» oder «Südamerika».[^16-1]
+
+<sup>3</sup> In Abweichung von Absatz 1 Buchstabe a ist bei in Artikel 1 VLtH[^16-2] aufgeführten Zutaten tierischer Herkunft die Herkunft des Tieres bereits dann anzugeben, wenn ihr Anteil am Enderzeugnis 20 Massenprozent oder mehr beträgt.
 
 <sup>4</sup> Die Angabe der Herkunft einer Zutat erfolgt im Verzeichnis der Zutaten oder im gleichen Sichtfeld wie dieses.
 
-[^16-1]: [SR 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^16-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^16-2]: [SR 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
 
 #### Art. 17
 
-**Spezifische Angaben für Fleisch[^17-2]**[^17-1]
+**Spezifische Angaben für frisches Fleisch**[^17-1]
 
 <sup>1</sup>
 
-Für einzelne Stücke Rindfleisch müssen die Bewilligungsnummern des Schlachthofes und des Zerlegebetriebes angegeben werden sowie das Land, in dem das Tier:
+Einzelne Stücke von frischem Rindfleisch müssen mit folgenden Angaben versehen werden:
 
-- a.[^17-3] geboren wurde; und
-- b. den überwiegenden Teil seines Lebens verbracht hat; oder
-- c. den überwiegenden Gewichtszuwachs erfahren hat.
+- a. den Bewilligungsnummern des Schlachtbetriebs und des Zerlegebetriebs;
+- b. dem Land, in dem das Tier geboren wurde;
+- c.
+
+  dem Land, in dem das Tier:
+
+  - 1\. den überwiegenden Teil seines Lebens verbracht hat, oder
+  - 2\. den überwiegenden Gewichtszuwachs erfahren hat.
 
 <sup>2</sup>
 
-In Abweichung von Absatz 1 kann bei Rindfleisch die Angabe «Herkunft: Nicht EU/EWR» oder «Herkunft: Nicht Schweiz» in Verbindung mit «geschlachtet in: (Name des Landes)» aufgeführt werden, wenn:
+In Abweichung von Absatz 1 kann bei frischem Rindfleisch die Angabe «Herkunft: Nicht EU/EWR» oder «Herkunft: Nicht Schweiz» in Verbindung mit «geschlachtet in: (Name des Landes)» aufgeführt werden, wenn:
 
-- a. das Fleisch ausserhalb der EU produziert wurde und zum Zwecke des Inverkehrbringens in der Schweiz eingeführt wird;
+- a. das Fleisch ausserhalb der EU oder des EWR produziert wurde und für das Inverkehrbringen in der Schweiz eingeführt wird; und
 - b. die in Absatz 1 vorgesehenen Informationen nicht verfügbar sind.
 
 <sup>3</sup>
 
-Für einzelne Stücke von Fleisch von Schweinen, Schafen, Ziegen und Geflügel ist das Land, in dem es geschlachtet wurde, anzugeben und das Land:
+Einzelne Stücke von frischem Fleisch von Schweinen, Schafen, Ziegen und Geflügel müssen mit folgenden Angaben versehen werden:
 
-- a. in dem das Tier den überwiegenden Gewichtszuwachs erfahren; oder
-- b. in dem es den überwiegenden Teil seines Lebens verbracht hat.
+- a. dem Land, in dem das Tier geschlachtet wurde;
+- b.
+
+  dem Land, in dem das Tier:
+
+  - 1\. den überwiegenden Teil seines Lebens verbracht hat, oder
+  - 2\. den überwiegenden Gewichtszuwachs erfahren hat.
 
 <sup>4</sup>
 
-In Abweichung von Absatz 3 kann bei frischem, gekühltem oder gefrorenem Schweine-, Schaf-, Ziegen- und Geflügelfleisch die Angabe «Aufgezogen ausserhalb der EU/EWR» oder «Aufgezogen ausserhalb der Schweiz» in Verbindung mit «geschlachtet in: (Name des Landes, in dem das Tier geschlachtet wurde)» aufgeführt werden, wenn:
+In Abweichung von Absatz 3 kann bei frischem Schweine-, Schaf-, Ziegen- und Geflügelfleisch die Angabe «Aufgezogen ausserhalb der EU/EWR» oder «Aufgezogen ausserhalb der Schweiz» in Verbindung mit «geschlachtet in: (Name des Landes)» aufgeführt werden, wenn:
 
-- a. das Fleisch ausserhalb der EU produziert wurde und zum Zwecke des Inverkehrbringens in der Schweiz eingeführt wird;
+- a. das Fleisch ausserhalb der EU oder des EWR produziert wurde und für das Inverkehrbringen in der Schweiz eingeführt wird; und
 - b. die in Absatz 3 vorgesehenen Informationen nicht verfügbar sind.
 
-<sup>5</sup> Wurden die Tiere im selben Land geboren, aufgezogen und geschlachtet, so kann «Herkunft Land X» angegeben werden.
+<sup>5</sup> Wurden die Tiere im selben Land geboren, aufgezogen und geschlachtet, so kann in Abweichung von den Absätzen 1 Buchstaben b und c und 3 die Angabe «Herkunft Land X» aufgeführt werden.
 
-<sup>6</sup> Für Hackfleisch, das als solches abgegeben wird, ist das Produktionsland des Hackfleischs anzugeben. Das Herkunftsland des Fleisches ist nur anzugeben, wenn das Land nicht mit dem Produktionsland des Hackfleischs übereinstimmt.
+<sup>6</sup> Für Hackfleisch, das als solches abgegeben wird, ist das Produktionsland des Hackfleischs anzugeben. Das Herkunftsland des Fleischs ist nur anzugeben, wenn das Land nicht mit dem Produktionsland des Hackfleischs übereinstimmt.
 
-<sup>7</sup> …[^17-4]
-
-[^17-1]: Die Berichtigung vom 7. Juni 2017 betrifft nur den französischen Text ([AS 2017 3339](https://fedlex.data.admin.ch/eli/oc/2017/359)).
-[^17-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^17-3]: Berichtigung vom 12. Juni 2018 ([AS 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)).
-[^17-4]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^17-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### 9. Abschnitt: Alkoholgehalt
 
 #### Art. 18
 
-<sup>1</sup> Bei Getränken mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent muss der Alkoholgehalt in «% vol.» angegeben werden. Der tatsächliche Gehalt darf vom angegebenen Gehalt um höchstens 0,5 Volumenprozent nach oben oder nach unten abweichen.
+[^18-1]
 
-<sup>2</sup> Die Bestimmung des Alkoholgehalts richtet sich nach der Messmittel-Verordnung vom 15. Februar 2006[^18-1] und den gestützt darauf vom Eidgenössischen Justiz- und Polizeidepartement erlassenen Bestimmungen.
+<sup>1</sup> Bei Getränken mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent muss der Alkoholgehalt in «% vol.» angegeben werden.
 
-[^18-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+<sup>2</sup>
+
+Der tatsächliche Alkoholgehalt darf vom angegebenen Alkoholgehalt höchstens um die nachstehenden Werte nach oben oder nach unten abweichen:
+
+- a.
+
+  0,8 Volumenprozent bei:
+
+  - 1\. Weinbauerzeugnissen mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe, die über drei Jahre in Flaschen gelagert wurden,
+  - 2\. Schaumweinen,
+  - 3\. Qualitätsschaumweinen,
+  - 4\. Schaumweinen mit zugesetzter Kohlensäure,
+  - 5\. Perlweinen,
+  - 6\. Perlweinen mit zugesetzter Kohlensäure,
+  - 7\. Likörweinen,
+  - 8\. Weinen aus überreifen Trauben;
+
+- b.
+
+  1,0 Volumenprozent bei:
+
+  - 1\. Bier mit einem Alkoholgehalt von mehr als 5,5 Volumenprozent,
+  - 2\. schäumenden Getränken, die aus Weintrauben gewonnen werden,
+  - 3\. Apfelwein,
+  - 4\. Birnenwein,
+  - 5\. Fruchtwein und ähnlichen gegorenen Getränken, die aus anderen Früchten als Weintrauben gewonnen werden, auch perlend oder schäumend,
+  - 6\. Honigwein oder Met;
+
+- c. 1,5 Volumenprozent bei Getränken mit eingelegten Früchten oder Pflanzenteilen;
+- d. 0,5 Volumenprozent bei allen anderen Getränken mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent.
+
+<sup>3</sup> Die Bestimmung des Alkoholgehalts richtet sich nach der Messmittelverordnung vom 15. Februar 2006[^18-2] und den gestützt darauf vom Eidgenössischen Justiz- und Polizeidepartement erlassenen Bestimmungen.
+
+[^18-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^18-2]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 
 ### 10. Abschnitt: Warenlos
 
@@ -498,35 +556,32 @@ Die Angabe des Warenloses ist nicht erforderlich:
 
 #### Art. 21
 
-**Grundsätze**
+**Grundsätze**[^21-1]
 
-<sup>1</sup> Die Nährwertdeklaration ist obligatorisch. Ausgenommen sind Lebensmittel nach Anhang 9.
+<sup>1</sup> Die Nährwertdeklaration ist für alle Lebensmittel obligatorisch, ausgenommen für Lebensmittel nach Anhang 9.
 
-<sup>2</sup> Bei Lebensmitteln nach Anhang 9 kann die Nährwertdeklaration freiwillig erfolgen.
+<sup>2</sup>
+
+Für Lebensmittel nach Anhang 9 ist die Nährwertdeklaration obligatorisch, wenn sie:
+
+- a. mit einer nährwert- oder gesundheitsbezogenen Angabe versehen werden;
+- b. mit einem Hinweis auf den Gluten- oder Laktosegehalt nach den Artikeln 41 und 42 ausgezeichnet werden;
+- c. in der Verordnung des EDI vom 16. Dezember 2016[^21-2] über Lebensmittel für Personen mit besonderem Ernährungsbedarf umschrieben sind;
+- d. mit Vitaminen, Mineralstoffen und sonstigen Stoffen angereichert worden sind;
+- e. mit einer Information über die Osmolarität nach Artikel 42*b* versehen werden.
 
 <sup>3</sup> Die Bestimmungen dieses Abschnitts gelten nicht für Nahrungsergänzungsmittel sowie für Mineral- und Quellwasser.
 
+[^21-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^21-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+
 #### Art. 22
 
-**Erforderliche Angaben**
+**Erforderliche Angaben**[^22-1]
 
-<sup>1</sup> Die Nährwertdeklaration muss folgende Angaben enthalten: Energiewert und Gehalt an Fett, gesättigten Fettsäuren, Kohlenhydraten, Zucker, Eiweiss und Salz.
+Die Nährwertdeklaration muss folgende Angaben enthalten: Energiewert und Gehalt an Fett, gesättigten Fettsäuren, Kohlenhydraten, Zucker, Eiweiss und Salz.
 
-<sup>2</sup> Zulässig ist auch die Angabe nur des Energiewerts und des Gehaltes an Fett, Kohlenhydraten, Eiweiss und Salz.
-
-<sup>3</sup>
-
-Eine Nährwertdeklaration muss nach Absatz 1 erfolgen, wenn ein Lebensmittel:
-
-- a. mit einer nährwert- oder gesundheitsbezogenen Angabe versehen wird;
-- b.[^22-1] mit einem Hinweis auf den Gluten- oder Laktosegehalt nach den Artikeln 41 und 42 ausgezeichnet wird;
-- c. in der Verordnung des EDI vom 16. Dezember 2016[^22-2] über Lebensmittel für Personen mit besonderem Ernährungsbedarf (VLBE) umschrieben ist;
-- d. mit Vitaminen, Mineralstoffen und sonstigen Stoffen angereichert worden ist.
-
-<sup>4</sup> Absatz 3 gilt auch für Lebensmittel nach Anhang 9.
-
-[^22-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^22-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^22-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 23
 
@@ -534,7 +589,7 @@ Eine Nährwertdeklaration muss nach Absatz 1 erfolgen, wenn ein Lebensmittel:
 
 <sup>1</sup>
 
-Zusätzlich zu den auf dem Etikett aufgeführten Angaben nach Artikel 22 Absatz 1 kann die Nährwertdeklaration folgende Nährstoffe umfassen:
+Zusätzlich zu den erforderlichen Angaben kann die Nährwertdeklaration folgende Stoffe umfassen:[^23-1]
 
 - a. einfach ungesättigte Fettsäuren;
 - b. mehrfach ungesättigte Fettsäuren;
@@ -543,14 +598,18 @@ Zusätzlich zu den auf dem Etikett aufgeführten Angaben nach Artikel 22 Absatz 
 - e. Ballaststoffe;
 - f. Vitamine und Mineralstoffe, sofern sie in signifikanten Mengen nach Anhang 10 vorhanden sind.
 
-<sup>2</sup> Wird auf den besonderen Gehalt an Stoffen nach Absatz 1 Buchstaben a–f hingewiesen, so muss deren Gehalt in der Nährwertdeklaration nach Artikel 22 Absatz 1 aufgeführt werden.
+<sup>2</sup> Wird auf den besonderen Gehalt an Stoffen nach Absatz 1 Buchstaben a–f hingewiesen, so muss deren Gehalt in der Nährwertdeklaration aufgeführt werden.[^23-2]
 
 <sup>3</sup>
 
-Enthält die Kennzeichnung eines vorverpackten Lebensmittels die Nährwertdeklaration nach Artikel 22 Absatz 1, so können die folgenden Angaben wiederholt werden:
+Enthält die Kennzeichnung eines vorverpackten Lebensmittels eine Nährwertdeklaration, so können die folgenden Angaben wiederholt werden:[^23-3]
 
 - a. Energiewert; oder
 - b. Energiewert zusammen mit den Gehalten an Fett, gesättigten Fettsäuren, Zucker und Salz.
+
+[^23-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 24
 
@@ -769,9 +828,11 @@ Nährwert- und gesundheitsbezogene Angaben über das Fehlen oder den reduzierten
 
 <sup>4</sup> Handelsmarken, Markennamen oder Fantasiebezeichnungen, die in der Kennzeichnung, der Aufmachung oder der Werbung für ein Lebensmittel erscheinen und als nährwert- oder gesundheitsbezogene Angabe aufgefasst werden können, dürfen nur verwendet werden, wenn eine nährwert- oder gesundheitsbezogene Angabe beigefügt ist, die den Bestimmungen dieses Abschnitts entspricht.
 
-<sup>5</sup> In Abweichung von Absatz 4 kann das BLV für allgemeine Bezeichnungen, die traditionell zur Angabe einer Eigenschaft einer Kategorie von Lebensmitteln oder Getränken verwendet werden und die auf Auswirkungen auf die menschliche Gesundheit hindeuten können, eine Ausnahme bewilligen, sofern der Schutz der Gesundheit gewährleistet ist und die Konsumentinnen und Konsumenten dadurch nicht getäuscht werden. Das Bewilligungsverfahren richtet sich nach den Artikeln 3–7 LGV.
+<sup>5</sup> In Abweichung von Absatz 4 kann das BLV für allgemeine Bezeichnungen, die traditionell zur Angabe einer Eigenschaft einer Kategorie von Lebensmitteln oder Getränken verwendet werden und die auf Auswirkungen auf die menschliche Gesundheit hindeuten können, in Anhang 14*a* Ausnahmen festlegen, sofern der Schutz der Gesundheit gewährleistet ist und die Konsumentinnen und Konsumenten dadurch nicht getäuscht werden.[^35-1]
 
 <sup>6</sup> Die Bestimmungen dieses Abschnitts gelten nicht für Mineral- und Quellwasser.
+
+[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### 13. Abschnitt: Identitätskennzeichen
 
@@ -917,6 +978,17 @@ Die Information muss die folgenden Anforderungen erfüllen:
 
 [^42a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
+#### Art. 42b
+
+**Information über die Osmolarität von Getränken**[^42b-1]
+
+<sup>1</sup> Getränke mit einer Osmolarität von 260–300 mosmol pro Liter dürfen als isoton, Getränke mit einer Osmolarität von weniger als 260 mosmol pro Liter als hypoton bezeichnet werden.
+
+<sup>2</sup> Die Information ist nicht zulässig auf coffeinhaltigen Getränken nach Artikel 37 der Verordnung des EDI vom 16. Dezember 2016[^42b-2] über Getränke und auf alkoholischen Getränken nach Artikel 61 Absatz 1 der Verordnung des EDI über Getränke.
+
+[^42b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^42b-2]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+
 ## 4. Kapitel: Nachführen der Anhänge
 
 #### Art. 43
@@ -937,7 +1009,7 @@ Die Information muss die folgenden Anforderungen erfüllen:
 
 Die Verordnung des EDI vom 23. November 2005[^44-1] über die Kennzeichnung und Anpreisung von Lebensmitteln wird aufgehoben.
 
-[^44-1]: [[AS 2005 6159](https://fedlex.data.admin.ch/eli/oc/2005/805), [2006 733](https://fedlex.data.admin.ch/eli/oc/2006/97)[4981](https://fedlex.data.admin.ch/eli/oc/2006/775), [2008 1029](https://fedlex.data.admin.ch/eli/oc/2008/204)[6045](https://fedlex.data.admin.ch/eli/oc/2008/839), [2009 2025](https://fedlex.data.admin.ch/eli/oc/2009/285), [2010 975](https://fedlex.data.admin.ch/eli/oc/2010/158)[4649](https://fedlex.data.admin.ch/eli/oc/2010/674), [2011 6255](https://fedlex.data.admin.ch/eli/oc/2011/878), [2012 6811](https://fedlex.data.admin.ch/eli/oc/2012/825), [2013 5031](https://fedlex.data.admin.ch/eli/oc/2013/841)]
+[^44-1]: [[AS 2005 6159](https://fedlex.data.admin.ch/eli/oc/2005/805); [2006 733](https://fedlex.data.admin.ch/eli/oc/2006/97), [4981](https://fedlex.data.admin.ch/eli/oc/2006/775); [2008 1029](https://fedlex.data.admin.ch/eli/oc/2008/204), [6045](https://fedlex.data.admin.ch/eli/oc/2008/839); [2009 2025](https://fedlex.data.admin.ch/eli/oc/2009/285); [2010 975](https://fedlex.data.admin.ch/eli/oc/2010/158), [4649](https://fedlex.data.admin.ch/eli/oc/2010/674); [2011 6255](https://fedlex.data.admin.ch/eli/oc/2011/878); [2012 6811](https://fedlex.data.admin.ch/eli/oc/2012/825); [2013 5031](https://fedlex.data.admin.ch/eli/oc/2013/841)]
 
 #### Art. 45
 
@@ -952,6 +1024,14 @@ Produkte mit bereits vor dem 1. Januar 2005 bestehenden Handelsmarken oder Marke
 Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch bis zum 30. Juni 2021 nach bisherigem Recht eingeführt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
 [^45a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+
+#### Art. 45b
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^45b-1]
+
+Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^45b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 46
 
@@ -1072,7 +1152,7 @@ Anhang 3
 
 ## Definition der x-Höhe
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/de/xml/image/image1.png)
 
 Legende
 
@@ -1126,7 +1206,7 @@ Anhang 5[^t-3]
 
 ## Angabe und Bezeichnung der Zutaten
 
-[^t-3]: Bereinigt duch Berichtigung vom 19. Nov. 2019 ([AS 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)).
+[^t-3]: Bereinigt duch Berichtigung vom 19. Nov. 2019 ([AS 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Teil A Spezielle Vorschriften für die Angabe von Zutaten in absteigender Reihenfolge ihres Gewichtsanteils
 
@@ -1145,7 +1225,7 @@ Anhang 5[^t-3]
 
 ### Teil B Bezeichnung bestimmter Zutaten, bei denen die spezielle Bezeichnung durch die Bezeichnung einer Klasse ersetzt werden kann
 
-Zutaten, die zu einer der im Folgenden aufgeführten Lebensmittelklasse gehören und die Bestandteile eines anderen Lebensmittels sind, können statt mit ihrer speziellen Bezeichnung mit der Bezeichnung der betreffenden Klasse benannt werden. Vorbehalten bleibt Artikel 10.
+Zutaten, die zu einer der im Folgenden aufgeführten Lebensmittelklasse gehören und die Bestandteile eines anderen Lebensmittels sind, können statt mit ihrer speziellen Bezeichnung mit der Bezeichnung der betreffenden Klasse benannt werden. Vorbehalten bleibt Artikel 11.
 
 <table>
 <tr><th>Definition der Klasse</th><th>Bezeichnung</th></tr>
@@ -1169,7 +1249,7 @@ Zutaten, die zu einer der im Folgenden aufgeführten Lebensmittelklasse gehören
 
 ### Teil C Nennung bestimmter Zutaten mit der Funktionsklasse, gefolgt von ihrer Einzelbezeichnung oder der E-Nummer
 
-- 1 Lebensmittelzusatzstoffe und Lebensmittelenzyme, die nicht in Artikel 9 Absatz 2 Buchstabe b aufgeführt sind und zu einer der in diesem Teil aufgeführten Funktionsklassen gehören, sind mit der Bezeichnung der Funktionsklasse zu benennen, gefolgt von ihrer Einzelbezeichnung, oder gegebenenfalls der E-Nummer. Gehört eine Zutat zu mehreren Funktionsklassen, so ist diejenige Klasse anzugeben, der die Zutat aufgrund ihrer hauptsächlichen Wirkung für das betreffende Lebensmittel zuzuordnen ist. Vorbehalten bleibt Artikel 10.
+- 1 Lebensmittelzusatzstoffe und Lebensmittelenzyme, die nicht in Artikel 9 Absatz 2 Buchstabe b aufgeführt sind und zu einer der in diesem Teil aufgeführten Funktionsklassen gehören, sind mit der Bezeichnung der Funktionsklasse zu benennen, gefolgt von ihrer Einzelbezeichnung, oder gegebenenfalls der E-Nummer. Gehört eine Zutat zu mehreren Funktionsklassen, so ist diejenige Klasse anzugeben, der die Zutat aufgrund ihrer hauptsächlichen Wirkung für das betreffende Lebensmittel zuzuordnen ist. Vorbehalten bleibt Artikel 11.
   - [tab] Antioxidationsmittel
   - [tab] Backtriebmittel
   - [tab] Emulgator
@@ -1201,7 +1281,7 @@ Zutaten, die zu einer der im Folgenden aufgeführten Lebensmittelklasse gehören
 ### Teil D Bezeichnung von Aromen im Verzeichnis der Zutaten
 
 - 1\. Aromen sind mit folgenden Begriffen zu bezeichnen:
-- 1\.1 «Aroma/Aromen», einer genaueren Bezeichnung oder einer Beschreibung des Aromas, wenn der Aromabestandteil Aromen im Sinne von Artikel 2 Absatz 1 Buchstaben b–h der Aromenverordnung des EDI vom 16. Dezember 2016[^annex5-lvlu1-partD-1] enthält;
+- 1\.1 «Aroma/Aromen» oder einer genaueren Bezeichnung beziehungsweise einer Beschreibung des Aromas, wenn der Aromabestandteil Aromen im Sinne von Artikel 2 Absatz 1 Buchstaben b–h der Aromenverordnung des EDI vom 16. Dezember 2016[^annex5-lvlu1-partD-1] enthält;
 - 1\.2 «Raucharoma/Raucharomen», «Raucharoma/Raucharomen aus einem Lebensmittel/Lebensmitteln, einer Lebensmittelklasse oder einem Ausgangsstoff/Ausgangsstoffen», wie «Raucharoma aus Buchenholz», wenn der Aromabestandteil Aromen im Sinne von Artikel 2 Absatz 1 Buchstabe e der Aromenverordnung des EDI enthält und den Lebensmitteln einen Räuchergeschmack verleiht.
 - 2 Der Begriff «natürlich» wird zur Bezeichnung von Aromen im Sinne von Artikel 10 der Aromenverordnung verwendet.
 - 3 Chinin oder Koffein, die als Aromen bei der Herstellung oder der Zubereitung von Lebensmitteln Verwendung finden, sind im Verzeichnis der Zutaten unmittelbar nach dem Begriff «Aroma/Aromen» unter ihrer Bezeichnung aufzuführen.
@@ -1210,10 +1290,10 @@ Zutaten, die zu einer der im Folgenden aufgeführten Lebensmittelklasse gehören
 
 ### Teil E Bezeichnung von zusammengesetzten Zutaten
 
-- 1 Eine zusammengesetzte Zutat kann im Verzeichnis der Zutaten entsprechend ihrem Gewichtsanteil unter ihrer Sachbezeichnung angegeben werden, wenn unmittelbar danach die Zusammensetzung der Zutat angegeben wird. Von den Zusatzstoffen müssen dabei nur diejenigen angegeben werden, die im Endprodukt noch technologisch wirksam sind. Artikel 10 bleibt vorbehalten.
+- 1 Eine zusammengesetzte Zutat kann im Verzeichnis der Zutaten entsprechend ihrem Gewichtsanteil unter ihrer Sachbezeichnung angegeben werden, wenn unmittelbar danach die Zusammensetzung der Zutat angegeben wird. Von den Zusatzstoffen müssen dabei nur diejenigen angegeben werden, die im Endprodukt noch technologisch wirksam sind. Artikel 11 bleibt vorbehalten.
 - 2 Das Verzeichnis der Zutaten bei zusammengesetzten Zutaten muss nicht angegeben werden, wenn:
-- 2\.1 die Zusammensetzung der zusammengesetzten Zutat in einer Verordnung festgelegt ist, sofern die zusammengesetzte Zutat weniger als 2 Prozent des Enderzeugnisses ausmacht; vorbehalten bleiben Artikel 9 Absatz 2 Buchstaben a–d für Zusatzstoffe und Artikel 10;
-- 2\.2 die zusammengesetzten Zutaten aus Gewürz- oder Kräutermischungen bestehen und sie weniger als 2 Prozent des Enderzeugnisses ausmachen, vorbehalten bleiben Artikel 9 Absatz 2 Buchstaben a–d für Zusatzstoffe und Artikel 10;
+- 2\.1 die Zusammensetzung der zusammengesetzten Zutat in einer Verordnung festgelegt ist, sofern die zusammengesetzte Zutat weniger als 2 Prozent des Enderzeugnisses ausmacht; vorbehalten bleiben Artikel 9 Absatz 2 Buchstaben a–d für Zusatzstoffe und Artikel 11;
+- 2\.2 die zusammengesetzten Zutaten aus Gewürz- oder Kräutermischungen bestehen und sie weniger als 2 Prozent des Enderzeugnisses ausmachen, vorbehalten bleiben Artikel 9 Absatz 2 Buchstaben a–d für Zusatzstoffe und Artikel 11;
 - 2\.3 die zusammengesetzte Zutat ein Lebensmittel ist, für das kein Verzeichnis der Zutaten erforderlich ist.
 
 Anhang 5a[^t-4]
@@ -1229,15 +1309,17 @@ Anhang 5a[^t-4]
 <tr><td>Fleischkäse</td><td>fromage d’Italie</td><td>fleischkäse</td></tr>
 </table>
 
-Anhang 6
+Anhang 6[^t-5]
 
-(Art. 10 und 11 Abs. 1–3 und 9)
+(Art. 10 und 11 Abs. 1–3, 7<sup>bis</sup> und 9)
 
 ## Zutaten, die Allergien oder andere unerwünschte Reaktionen auslösen können
 
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+
 Die folgenden Zutaten und die daraus hergestellten Erzeugnisse können Allergien oder andere unerwünschte Reaktionen auslösen und sind deshalb bei der Kennzeichnung immer anzugeben; vorbehalten bleibt Artikel 11 Absatz 9:
 
-- 1 Glutenhaltiges Getreide, namentlich Weizen, wie Dinkel und Khorasan-Weizen, Roggen, Gerste, Hafer oder Hybridstämme davon sowie daraus gewonnene Erzeugnisse, ausser:
+- 1 Glutenhaltiges Getreide, namentlich Weizen, Dinkel, Khorasan-Weizen, Roggen, Gerste, Hafer oder Hybridstämme davon sowie daraus gewonnene Erzeugnisse, ausser:
 - 1\.1 Glukosesirupe auf Weizenbasis, einschliesslich Dextrose und daraus gewonnene Erzeugnisse, soweit das Verfahren, das sie durchlaufen haben, die Allergenität nicht erhöht,
 - 1\.2 Maltodextrine auf Weizenbasis und daraus gewonnene Erzeugnisse, soweit das Verfahren, das sie durchlaufen haben, die Allergenität nicht erhöht,
 - 1\.3 Glukosesirupe auf Gerstenbasis,
@@ -1256,7 +1338,7 @@ Die folgenden Zutaten und die daraus hergestellten Erzeugnisse können Allergien
 - 7 Milch und daraus gewonnene Erzeugnisse, einschliesslich Laktose, ausser:
 - 7\.1 Molke zur Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke,
 - 7\.2 Lactit;
-- 8 Hartschalenobst oder Nüsse: Mandeln (*Amygdalus communis* L.), Haselnüsse (*Corylus avellana*), Walnüsse (*Juglans regia*), Cashewnüsse (*Anacardium occidentale*), Pecannüsse (*Carya illinoiesis* [Wangenh.] K. Koch), Paranüsse (*Bertholletia excelsa*), Pistazien (*Pistacia vera*), Macadamianüsse oder Queenslandnüsse (*Macadamia ternifolia*) und daraus gewonnene Erzeugnisse, ausser Hartschalenobst für die Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke;
+- 8 Hartschalenobst, Schalenfrüchte oder Nüsse: Mandeln (*Amygdalus communis* L.), Haselnüsse (*Corylus avellana*), Walnüsse (*Juglans regia*), Cashewnüsse (*Anacardium occidentale*), Pecannüsse (*Carya illinoiesis* [Wangenh.] K. Koch), Paranüsse (*Bertholletia excelsa*), Pistazien (*Pistacia vera*), Macadamianüsse oder Queenslandnüsse (*Macadamia ternifolia*) und daraus gewonnene Erzeugnisse, ausser Hartschalenobst für die Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke;
 - 9 Sellerie und daraus gewonnene Erzeugnisse;
 - 10 Senf und daraus gewonnene Erzeugnisse;
 - 11 Sesamsamen und daraus gewonnene Erzeugnisse;
@@ -1487,13 +1569,13 @@ Ballaststoffe 8 kJ/g = 2 kcal/g
 
 Erythritol 0 kJ/g = 0 kcal/g
 
-Anhang 13[^t-5]
+Anhang 13[^t-6]
 
 (Art. 29 Abs. 3)
 
 ## Nährwertbezogene Angaben und Voraussetzungen für ihre Verwendung
 
-[^t-5]: Die Berichtigung vom 20. Aug. 2019 betrifft nur den französischen und italienischen Text ([AS 2019 2627](https://fedlex.data.admin.ch/eli/oc/2019/488)).
+[^t-6]: Die Berichtigung vom 20. Aug. 2019 betrifft nur den französischen und italienischen Text ([AS 2019 2627](https://fedlex.data.admin.ch/eli/oc/2019/488)).
 
 ### 1 Energiearm
 
@@ -1692,13 +1774,13 @@ Erfüllt ein Lebensmittel von Natur aus die in diesem Anhang aufgeführten Vorau
 
 [^annex13-lvlu1-lvl35-1]: [SR 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
 
-Anhang 14[^t-6]
+Anhang 14[^t-7]
 
 (Art. 31 Abs. 2 und 3, 32 Abs. 1, 33 sowie 34 Abs. 2 Bst. b)
 
 ## Zulässige gesundheitsbezogene Angaben für Lebensmittel, Lebensmittelbestandteile, Lebensmittelinhaltsstoffe und Lebensmittelkategorien sowie die Voraussetzungen für ihre Verwendung
 
-[^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)) und Ziff. I der V des BLV vom 31. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), Ziff. I der V des BLV vom 31. Mai 2023 ([AS 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 <table>
 <tr><th>Lebensmittel, Lebensmittelbestandteile, Lebensmittelinhaltsstoffe, Lebensmittelkategorien</th><th>Angabe</th><th>Verwendungsbedingungen</th><th>Einschränkungen/Warnhinweise</th></tr>
@@ -1729,7 +1811,7 @@ Anhang 14[^t-6]
 <tr><td>Calcium</td><td>Calcium trägt dazu bei, den Verlust an Knochenmineralstoffen bei postmenopausalen Frauen zu verringern. Eine geringe Knochenmineraldichte ist ein Risikofaktor für durch Osteoporose bedingte Knochenbrüche.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 400 mg Calcium je angegebene Portion enthalten. Damit die Angabe zulässig ist, ist darüber zu informieren, dass sich die Angabe insbesondere an Frauen ab 50 Jahren richtet und dass sich die positive Wirkung bei einer täglichen Einnahme von mindestens 1200 mg Calcium aus allen Quellen einstellt.</td><td>Bei Lebensmitteln mit Calciumzusatz darf die Angabe nur für solche verwendet werden, die für Frauen ab 50 Jahren bestimmt sind.</td></tr>
 <tr><td>Calcium und Vitamin D</td><td>Calcium und Vitamin D tragen dazu bei, den Verlust an Knochenmineralstoffen bei postmenopausalen Frauen zu verringern. Eine geringe Knochenmineraldichte ist ein Risikofaktor für durch Osteoporose bedingte Knochenbrüche.</td><td>Die Angabe darf nur für Nahrungsergänzungsmittel verwendet werden, die mindestens 400 mg Calcium und 15 µg Vitamin D je angegebene Portion enthalten. Damit die Angabe zulässig ist, ist darüber zu informieren, dass sich die Angabe insbesondere an Frauen ab 50 Jahren richtet und dass sich die positive Wirkung bei einer täglichen Einnahme von mindestens 1200 mg Calcium und 20 µg Vitamin D aus allen Quellen einstellt.</td><td>Bei Nahrungsergänzungsmitteln mit Calcium und Vitamin D darf die Angabe nur für solche verwendet werden, die für Frauen ab 50 Jahren bestimmt sind.</td></tr>
 <tr><td>Calcium und Vitamin D</td><td>Calcium und Vitamin D werden für ein gesundes Wachstum und eine gesunde Entwicklung der Knochen bei Kindern benötigt.</td><td>Diese Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calcium- und Vitamin-D-Quelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
-<tr><td>Chitosan</td><td>Chitosan trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei.</td><td>Die Angabe darf nur für Lebensmittel, ausser Nahrungsergänzungsmittel, verwendet werden, deren Verzehr eine tägliche Aufnahme von 3 g Chitosan gewährleistet. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Chitosan einstellt.</td><td></td></tr>
+<tr><td>Chitosan</td><td>Chitosan trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 3 g Chitosan gewährleistet. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Chitosan einstellt.</td><td></td></tr>
 <tr><td>Chlorid</td><td>Chlorid trägt durch die Bildung von Magensäure zu einer normalen Verdauung bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Chloridquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td>Die Angabe darf nicht für Chlorid verwendet werden, das aus Natriumchlorid gewonnen wird.</td></tr>
 <tr><td>Cholin</td><td>Cholin trägt zu einem normalen Homocystein-Stoffwechsel bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 82,5 mg Cholin je 100 g oder 100 ml bzw. je Portion Lebensmittel enthalten.</td><td></td></tr>
 <tr><td>Cholin</td><td>Cholin trägt zu einem normalen Fettstoffwechsel bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 82,5 mg Cholin je 100 g oder 100 ml bzw. je Portion Lebensmittel enthalten.</td><td></td></tr>
@@ -1739,13 +1821,13 @@ Anhang 14[^t-6]
 <tr><td>Coffein</td><td>Coffein leistet einen Beitrag zur Verbesserung der Konzentrationsfähigkeit, der Leistungsfähigkeit, der Wachheit und Aufmerksamkeit.</td><td>Diese Angabe darf gemacht werden, wenn pro Portion mindestens 75 mg Coffein eingenommen wird.</td><td>Enthält Coffein. Der Hinweis «Für Kinder und schwangere Frauen nicht empfohlen» ist im gleichen Sichtfeld wie die Sachbezeichnung anzubringen.</td></tr>
 <tr><td>Coffein</td><td>Coffein dient der kurzfristigen körperlichen Leistungsfähigkeit.</td><td>Diese Angabe darf gemacht werden, wenn pro Portion mindestens 75 mg Coffein eingenommen wird.</td><td>Enthält Coffein. Der Hinweis «Für Kinder und schwangere Frauen nicht empfohlen» ist im gleichen Sichtfeld wie die Sachbezeichnung anzubringen.</td></tr>
 <tr><td>Docosahexaensäure (DHA)</td><td>DHA trägt zur Erhaltung einer normalen Gehirnfunktion bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 40 mg DHA je 100 g und je 100 kcal enthalten. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 250 mg DHA einstellt.</td><td></td></tr>
-<tr><td>Docosahexaensäure (DHA)</td><td>DHA trägt zur Aufrechterhaltung eines normalen Triglyceridspiegels im Blut bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, deren Konsum eine tägliche Aufnahme von 2 g DHA gewährleistet und die DHA in Kombination von Eicosapentaensäure (EPA) enthalten. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu informieren, dass sich die positive Wirkung bei einer täglichen Aufnahme von 2 g DHA einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln oder angereicherten Lebensmitteln verwendet, so sind die Konsumentinnen und Konsumenten darüber zu informieren, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.</td><td>Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind.</td></tr>
+<tr><td>Docosahexaensäure (DHA)</td><td>DHA trägt zur Aufrechterhaltung eines normalen Triglyceridspiegels im Blut bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, deren Konsum eine tägliche Aufnahme von 2 g DHA gewährleistet und die DHA in Kombination von Eicosapentaensäure (EPA) enthalten. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu informieren, dass sich die positive Wirkung bei einer täglichen Aufnahme von 2 g DHA einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln, angereicherten Lebensmitteln oder Lebensmitteln für Sportlerinnen und Sportler verwendet, so sind die Konsumentinnen und Konsumenten darüber zu informieren, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.</td><td>Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind.</td></tr>
 <tr><td>Docosahexaensäure (DHA)</td><td>Die Aufnahme von Docosahexaensäure (DHA) durch die Mutter trägt zur normalen Entwicklung der Augen beim Fötus und beim gestillten Säugling bei.</td><td>Hinweis für Schwangere und stillende Frauen, dass sich die positive Wirkung einstellt, wenn zusätzlich zu der für Erwachsene empfohlenen Tagesdosis an Omega-3-Fettsäuren (d. h. 250 mg DHA und EPA) täglich 200 mg DHA eingenommen werden. Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von mindestens 200 mg DHA gewährleistet.</td><td></td></tr>
 <tr><td>Docosahexaensäure (DHA)</td><td>Die Aufnahme von Docosahexaensäure (DHA) trägt zur normalen Entwicklung der Sehkraft bei Säuglingen bis zum Alter von 12 Monaten bei.</td><td>Information der Konsumentinnen und Konsumenten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 100 mg DHA einstellt. Die Angabe kann für Folgenahrung verwendet werden, deren DHA-Gehalt bezogen auf die Fettsäuren insgesamt mindestens 0.3 % beträgt.</td><td></td></tr>
 <tr><td>Docosahexaensäure (DHA)</td><td>DHA trägt zur Erhaltung einer normalen Sehkraft bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 40 mg DHA je 100 g und je 100 kcal enthalten. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 250 mg DHA einstellt.</td><td></td></tr>
 <tr><td>Docosahexaensäure (DHA)</td><td>Die Aufnahme von Docosahexaensäure (DHA) durch die Mutter trägt zur normalen Entwicklung des Gehirns beim Fötus und beim gestillten Säugling bei.</td><td>Hinweis für Schwangere und stillende Frauen, dass sich die positive Wirkung einstellt, wenn zusätzlich zu der für Erwachsene empfohlenen Tagesdosis an Omega-3-Fettsäuren (d. h. 250 mg DHA und EPA) täglich 200 mg DHA eingenommen werden.</td><td></td></tr>
-<tr><td>Docosahexaensäure und Eicosapentaensäure (DHA/EPA)</td><td>DHA und EPA tragen zur Aufrechterhaltung eines normalen Blutdrucks bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, deren Konsum eine tägliche Aufnahme von 3 g DHA und EPA gewährleistet und die DHA in Kombination von EPA enthalten. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu informieren, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g DHA und EPA kombiniert einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln oder angereicherten Lebensmitteln verwendet, so sind die Konsumentinnen und Konsumenten darüber zu informieren, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.</td><td>Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind.</td></tr>
-<tr><td>Docosahexaensäure (DHA) und Eicosapentaensäure (EPA)</td><td>DHA und EPA tragen zur Aufrechterhaltung eines normalen Triglyceridspiegels im Blut bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, deren Konsum eine tägliche Aufnahme von 2 g DHA und EPA gewährleistet kombiniert. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu informieren, dass sich die positive Wirkung bei einer täglichen Aufnahme von 2 g DHA und EPA einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln oder angereicherten Lebensmitteln verwendet, so sind die Konsumentinnen und Konsumenten darüber zu informieren, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.</td><td>Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind.</td></tr>
+<tr><td>Docosahexaensäure und Eicosapentaensäure (DHA/EPA)</td><td>DHA und EPA tragen zur Aufrechterhaltung eines normalen Blutdrucks bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, deren Konsum eine tägliche Aufnahme von 3 g DHA und EPA gewährleistet. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu informieren, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g DHA und EPA einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln, angereicherten Lebensmitteln oder Lebensmitteln für Sportlerinnen und Sportler verwendet, so sind die Konsumentinnen und Konsumenten darüber zu informieren, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.</td><td>Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind.</td></tr>
+<tr><td>Docosahexaensäure (DHA) und Eicosapentaensäure (EPA)</td><td>DHA und EPA tragen zur Aufrechterhaltung eines normalen Triglyceridspiegels im Blut bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, deren Konsum eine tägliche Aufnahme von 2 g DHA und EPA gewährleistet. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu informieren, dass sich die positive Wirkung bei einer täglichen Aufnahme von 2 g DHA und EPA einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln, angereicherten Lebensmitteln oder Lebensmitteln für Sportlerinnen und Sportler verwendet, so sind die Konsumentinnen und Konsumenten darüber zu informieren, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.</td><td>Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind.</td></tr>
 <tr><td>Eicosapentaensäure (EPA) und Docosahexaensäure (DHA)</td><td>EPA und DHA tragen zu einer normalen Herzfunktion bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Quelle von Omega-3-Fettsäuren (EPA- oder DHA-Quelle) nach Anhang 13 Ziffer 6 dieser Verordnung erfüllen. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 250 mg EPA und DHA kombiniert einstellt.</td><td></td></tr>
 <tr><td>Eisen</td><td>Eisen trägt zu einer normalen kognitiven Funktion bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Eisen</td><td>Eisen trägt zu einem normalen Energiestoffwechsel bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
@@ -1781,7 +1863,7 @@ Anhang 14[^t-6]
 <tr><td>Jod</td><td>Jod trägt zu einer normalen Funktion des Nervensystems bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Jod</td><td>Jod trägt zur Erhaltung normaler Haut bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Jod</td><td>Jod trägt zu einer normalen Produktion von Schilddrüsenhormonen und zu einer normalen Schilddrüsenfunktion bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
-<tr><td>Jod</td><td>Jod trägt zum normalen Wachstum von Kindern bei</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
+<tr><td>Jod</td><td>Jod trägt zum normalen Wachstum von Kindern bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Kakaoflavanole</td><td>Kakaoflavanole fördern die Elastizität der Blutgefässe, was zum normalen Blutfluss beiträgt.</td><td>Die Konsumentinnen und Konsumenten sind darüber zu unterrichten, dass die positive Wirkung bei einer täglichen Aufnahme von 200 mg Kakaoflavanolen erzielt wird. Die Angabe darf nur bei Kakaogetränken (mit Kakaopulver) oder bei dunkler Schokolade verwendet werden, die mindestens eine tägliche Aufnahme von 200 mg Kakaoflavanolen mit einem Polymerisationsgrad von 1–10 liefern. Die Angabe darf nur für Kapseln oder Tabletten mit Kakaoextrakt mit einem hohen Anteil an Flavanolen verwendet werden, die mindestens eine tägliche Aufnahme von 200 mg Kakaoflavanolen mit einem Polymerisationsgrad von 1–10 liefern.</td><td></td><td></td></tr>
 <tr><td>Kalium</td><td>Kalium trägt zu einer normalen Funktion des Nervensystems bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kaliumquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Kalium</td><td>Kalium trägt zu einer normalen Muskelfunktion bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kaliumquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
@@ -1790,6 +1872,7 @@ Anhang 14[^t-6]
 <tr><td>Kohlenhydrate</td><td>Kohlenhydrate tragen nach einer intensiven und sehr langen körperlichen Betätigung, die zur Erschöpfung der Muskulatur und der Glycogenvorräte in der Skelettmuskulatur führt, zur Wiederherstellung der normalen Muskelfunktion (Kontraktion) bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die vom Menschen verstoffwechselbare Kohlenhydrate, ausser Polyole, bereitstellen. Die Konsumentinnen und Konsumenten sind darüber zu unterrichten, dass die positive Wirkung durch den Verzehr von insgesamt 4 g Kohlenhydraten pro kg Körpergewicht aus allen Quellen in einzelnen Dosen in den ersten 4 Stunden und spätestens 6 Stunden nach Beendigung der sehr intensiven und sehr langen körperlichen Betätigung, die zur Erschöpfung der Muskulatur und der Glykogenvorräte in der Skelettmuskulatur führt, erreicht wird.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die für erwachsene Menschen bestimmt sind, die sich sehr intensiv und sehr lange körperlich betätigen und damit ihre Muskulatur und Glykogenvorräte in der Skelettmuskulatur erschöpft haben.</td></tr>
 <tr><td>Kohlenhydrat-Elektrolyt-Lösungen</td><td>Kohlenhydrat-Elektrolyt-Lösungen tragen zur Aufrechterhaltung der Ausdauerleistung bei längerem Ausdauertraining bei.</td><td>Damit die Angabe zulässig ist, sollten Kohlenhydrat-Elektrolyt-Lösungen 80–350 kcal/l aus Kohlenhydraten enthalten, und mindestens 75 % der Energie sollten aus Kohlenhydraten gewonnen werden, die eine deutliche blutzuckersteigernde Wirkung haben, wie Glukose, Glukosepolymere und Saccharose. Die Getränke sollten ferner zwischen 20 mmol/l (460 mg/l) und 50 mmol/l (1150 mg/l) Natrium enthalten und eine Osmolalität von 200–330 mOsm/kg Wasser aufweisen.</td><td></td></tr>
 <tr><td>Kohlenhydrat-Elektrolyt-Lösungen</td><td>Kohlenhydrat-Elektrolyt-Lösungen verbessern die Aufnahme von Wasser während der körperlichen Betätigung.</td><td>Damit die Angabe zulässig ist, sollten Kohlenhydrat-Elektrolyt-Lösungen 80–350 kcal/l aus Kohlenhydraten enthalten und mindestens 75 % der Energie sollten aus Kohlenhydraten gewonnen werden, die eine deutliche blutzuckersteigernde Wirkung haben, wie Glukose, Glukosepolymere und Saccharose. Die Getränke sollten ferner zwischen 20 mmol/l (460 mg/l) und 50 mmol/l (1150 mg/l) Natrium enthalten und eine Osmolalität von 200–330 mOsm/kg Wasser aufweisen.</td><td></td></tr>
+<tr><td>Kohlenhydratlösungen</td><td>Kohlenhydratlösungen tragen zur Verbesserung der körperlichen Leistungsfähigkeit während einer intensiven und lang anhaltenden körperlichen Betätigung bei trainierten Erwachsenen bei.</td><td>Die Angabe darf nur für Kohlenhydratlösungen verwendet werden, die nach der Gebrauchsanweisung zwischen 30 g und 90 g Kohlenhydrate pro Stunde liefern, sofern es sich bei den betreffenden Kohlenhydraten um Glucose, Saccharose, Fructose oder Maltodextrine handelt, und folgende Bedingungen erfüllt sind: a) Fructose (aus Fructose oder Saccharose) darf nicht mehr als ein Drittel der Gesamtkohlenhydrate ausmachen. b) Glucose (aus Glucose, Saccharose oder Maltodextrinen) darf 60 g/h nicht überschreiten. Die Konsumentinnen und Konsumenten müssen darüber in Kenntnis gesetzt werden, dass die vorteilhafte Wirkung nur bei trainierten Erwachsenen eintritt, die eine intensive (mindestens 65 % der VO<sub>2max</sub>) und lang anhaltende (mindestens 60 Minuten) körperliche Betätigung absolvieren.</td><td>Die Angabe darf nur für Lebensmittel für Sportlerinnen und Sportler verwendet werden, die für trainierte Erwachsene bestimmt sind, die sich intensiv und lang anhaltend körperlich betätigen.</td></tr>
 <tr><td>Kreatin</td><td>Die tägliche Einnahme von Kreatin kann die Wirkung von Krafttraining auf die Muskelkraft von Erwachsenen über 55 Jahre steigern.</td><td>Die Konsumentinnen und Konsumenten sind darüber zu unterrichten, dass -die Angabe für Erwachsene über 55 Jahre gilt, die regelmässig Krafttraining betreiben; -sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Kreatin in Verbindung mit Krafttraining einstellt, bei dem die Belastung im Laufe der Zeit gesteigert werden kann und das mindestens dreimal wöchentlich über mehrere Wochen mit einer Intensität von mindestens 65 % bis 75 % des 1-Repetition-Maximums[^annex14-lvlu1-1] betrieben werden sollte.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die für Erwachsene über 55 Jahre bestimmt sind, die regelmässig Krafttraining betreiben.</td></tr>
 <tr><td>Kreatin</td><td>Kreatin erhöht die körperliche Leistung bei Schnellkrafttraining im Rahmen kurzzeitiger intensiver körperlicher Betätigung.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 3 g Kreatin gewährleistet. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Kreatin einstellt.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die für Erwachsene bestimmt sind, die einer intensiven körperlichen Betätigung nachgehen.</td></tr>
 <tr><td>Kupfer</td><td>Kupfer trägt zur Erhaltung von normalem Bindegewebe bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
@@ -1825,7 +1908,7 @@ Anhang 14[^t-6]
 <tr><td>Mangan</td><td>Mangan trägt zu einer normalen Bindegewebsbildung bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Mangan</td><td>Mangan trägt dazu bei, die Zellen vor oxidativem Stress zu schützen.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Molybdän</td><td>Molybdän trägt zu einer normalen Verstoffwechslung schwefelhaltiger Aminosäuren bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Molybdänquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
-<tr><td>Natives Zichorieninulin</td><td>Natives Zichorieninulin trägt durch Erhöhung der Stuhlfrequenz zu einer normalen Darmfunktion bei</td><td>Die Konsumentinnen und Konsumenten sind darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 12 g Zichorieninulin einstellt. Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von mindestens 12 g nativem Zichorieninulin liefert, einer nicht fraktionierten Mischung von Monosacchariden (&lt; 10 %), Disacchariden, inulinartigen Fructanen und aus Zichorienwurzeln gewonnenem Inulin mit einem mittleren Polymerisationsgrad von ≥ 9. Diese gesundheitsbezogene Angabe ist nach der Verordnung (EU) 2015/2314[^annex14-lvlu1-4] geschützt.</td><td></td></tr>
+<tr><td>Natives Zichorieninulin</td><td>Natives Zichorieninulin trägt durch die Erhöhung der Stuhlfrequenz zu einer normalen Darmfunktion bei.</td><td>Die Konsumentinnen und Konsumenten sind darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 12 g Zichorieninulin einstellt. Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von mindestens 12 g nativem Zichorieninulin liefert, einer nicht fraktionierten Mischung von Monosacchariden (&lt; 10 %), Disacchariden, inulinartigen Fructanen und aus Zichorienwurzeln gewonnenem Inulin mit einem mittleren Polymerisationsgrad von ≥ 9.</td><td></td></tr>
 <tr><td>Neuformuliertes alkoholfreies säuerliches Getränk mit – weniger als 1 g gärfähigem Kohlenhydrat pro 100 ml (Zucker und sonstige Kohlenhydrate, mit Ausnahme von mehrwertigen Alkoholen); – einem Calciumgehalt zwischen 0,3 und 0,8 mol pro mol Säuerungsmittel; – Anzeige eines pH-Werts zwischen 3,7 und 4,0.</td><td>Wer zuckerhaltige säuerliche Getränke wie Soft Drinks, die typischerweise 8–12 g Zucker/100 ml enthalten, durch neuformulierte Getränke ersetzt, trägt zur Erhaltung der Mineralisierung der Zähne bei.</td><td>Neuformulierte säuerliche Getränke dürfen nur dann mit der Angabe versehen werden, wenn sie der Beschreibung des Lebensmittels entsprechen, zu dem die Angabe gemacht wird.</td><td></td></tr>
 <tr><td>Niacin</td><td>Niacin trägt zu einem normalen Energiestoffwechsel bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Niacinquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Niacin</td><td>Niacin trägt zu einer normalen Funktion des Nervensystems bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Niacinquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
@@ -1930,7 +2013,7 @@ Anhang 14[^t-6]
 <tr><td>Vitamin K</td><td>Vitamin K trägt zu einer normalen Blutgerinnung bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-K-Quelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Vitamin K</td><td>Vitamin K trägt zur Erhaltung normaler Knochen bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-K-Quelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Walnüsse</td><td>Walnüsse tragen dazu bei, die Elastizität der Blutgefässe zu verbessern.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die eine tägliche Verzehrsmenge von 30 g Walnüssen gewährleisten. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei einem täglichen Verzehr von 30 g Walnüssen einstellt.</td><td></td></tr>
-<tr><td>Wasser</td><td>Wasser trägt zur Erhaltung normaler körperlicher und kognitiver Funktionen bei.</td><td>Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass täglich mindestens 2,0 l Wasser aus allen Quellenverzehrt werden sollten, um die angegebene Wirkung zu erzielen.</td><td>Die Angabe darf nur für Wasser verwendet werden, das den Anforderungen der Verordnung des EDI vom 16. Dezember 2016[^annex14-lvlu1-5] über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen entspricht.</td></tr>
+<tr><td>Wasser</td><td>Wasser trägt zur Erhaltung normaler körperlicher und kognitiver Funktionen bei.</td><td>Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass täglich mindestens 2,0 l Wasser aus allen Quellenverzehrt werden sollten, um die angegebene Wirkung zu erzielen.</td><td>Die Angabe darf nur für Wasser verwendet werden, das den Anforderungen der Verordnung des EDI vom 16. Dezember 2016[^annex14-lvlu1-4] über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen entspricht.</td></tr>
 <tr><td>Wasser</td><td>Wasser trägt zur Erhaltung einer normalen Regulierung der Körpertemperatur bei.</td><td>Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass täglich mindestens 2,0 l Wasser aus allen Quellenverzehrt werden sollten, um die angegebene Wirkung zu erzielen.</td><td>Die Angabe darf nur für Wasser verwendet werden, das den Anforderungen der Verordnung des EDI über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen entspricht.</td></tr>
 <tr><td>Weizenkleie</td><td>Weizenkleie trägt zur Beschleunigung der Darmpassage bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an diesem Ballaststoff nach Anhang 13 Ziffer 25 haben. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von mindestens 10 g Weizenkleie einstellt</td><td></td></tr>
 <tr><td>Weizenkleie</td><td>Weizenkleie trägt zur Erhöhung des Stuhlvolumens bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an diesem Ballaststoff nach Anhang 13 Ziffer 25 haben</td><td></td></tr>
@@ -1952,8 +2035,8 @@ Anhang 14[^t-6]
 <tr><td>Zink</td><td>Zink trägt zu einer normalen Funktion des Immunsystems bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Zink</td><td>Zink trägt dazu bei, die Zellen vor oxidativem Stress zu schützen.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Zink</td><td>Zink hat eine Funktion bei der Zellteilung.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
-<tr><td>Zuckerersatzstoffe, d. h. stark süssende Verbindungen; Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose und Polydextrose oder D‑Tagatose und Isomaltulose</td><td>Der Verzehr von Lebensmitteln oder Getränken, die anstelle von Zucker den Zuckerersatzstoff X [Name des Zuckersatzstoffs])[^annex14-lvlu1-6] oder die anderen Zuckerarten D-Tagatose oder Isomaltulose enthalten, bewirkt, dass der Blutzuckerspiegel nach ihrem Verzehr weniger stark ansteigt als beim Verzehr von zuckerhaltigen Lebensmitteln oder Getränken.</td><td>Damit die Angabe zulässig ist, sollten Zuckerarten in Lebensmitteln oder Getränken durch Zuckerersatzstoffe, d. h. stark süssende Verbindungen wie Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose oder Polydextrose, oder durch eine Kombination dieser Stoffe ersetzt werden, sodass der Zuckergehalt des Lebensmittels oder des Getränks mindestens um den geforderten Anteil reduziert ist, der nach Anhang 13 Ziffer 32 dieser Verordnung für einen reduzierten Anteil an einem Nährstoff gilt. Mit D-Tagatose und Isomaltulose sollten vergleichbare Anteile anderer Zuckerarten im gleichen Verhältnis ersetzt werden, sodass der Zuckergehalt um mindestens den Anteil reduziert ist, der nach Anhang 13 Ziffer 32 dieser Verordnung für einen reduzierten Anteil an einem Nährstoff gefordert wird.</td><td></td></tr>
-<tr><td>Zuckerersatzstoffe, d. h. stark süssende Verbindungen; Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose und Polydextrose; D‑Tagatose und Isomaltulose</td><td>Der Verzehr von Lebensmitteln oder Getränken, die anstelle von Zucker den Zuckerersatzstoff X (Name des Zuckerersatzstoffs)[^annex14-lvlu1-7] bzw. die anderen Zuckerarten D-Tagatose oder Isomaltulose enthalten, trägt zur Erhaltung der Zahnmineralisierung bei.</td><td>Damit die Angabe zulässig ist, sollten Zuckerarten in Lebensmitteln oder Getränken, die den pH-Wert des Zahnbelags unter 5,7 absenken, durch Zuckerersatzstoffe, d. h. stark süssende Verbindungen, Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, D-Tagatose, Isomaltulose, Sucralose oder Polydextrose oder durch eine Kombination aus diesen Stoffen ersetzt werden, und zwar in solchen Anteilen, dass der Verzehr dieser Lebensmittel oder Getränke den pH-Wert des Zahnbelags während des Verzehrs und bis 30 Minuten nach dem Verzehr nicht unter 5,7 absenkt.</td><td></td></tr>
+<tr><td>Zuckerersatzstoffe, d. h. stark süssende Verbindungen; Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose und Polydextrose oder D‑Tagatose und Isomaltulose</td><td>Der Verzehr von Lebensmitteln/Getränken, die anstelle von Zucker[^annex14-lvlu1-5] X (Name des Zuckersatzstoffs oder der anderen Zuckerarten D‑Tagatose oder Isomaltulose) enthalten, bewirkt, dass der Blutzuckerspiegel nach ihrem Verzehr weniger stark ansteigt als beim Verzehr von zuckerhaltigen Lebensmitteln/Getränken.</td><td>Damit die Angabe zulässig ist, müssen Zuckerarten in Lebensmitteln oder Getränken durch Zuckerersatzstoffe, d. h. stark süssende Verbindungen wie Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose oder Polydextrose, oder durch eine Kombination dieser Stoffe ersetzt werden, sodass der Zuckergehalt des Lebensmittels oder des Getränks mindestens um den geforderten Anteil reduziert ist, der nach Anhang 13 Ziffer 32 dieser Verordnung für einen reduzierten Anteil an einem Nährstoff gilt. Mit D-Tagatose und Isomaltulose müssen vergleichbare Anteile anderer Zuckerarten im gleichen Verhältnis ersetzt werden, sodass der Zuckergehalt um mindestens den Anteil reduziert ist, der nach Anhang 13 Ziffer 32 dieser Verordnung für einen reduzierten Anteil an einem Nährstoff gefordert wird.</td><td></td></tr>
+<tr><td>Zuckerersatzstoffe, d. h. stark süssende Verbindungen; Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose und Polydextrose; D‑Tagatose und Isomaltulose</td><td>Der Verzehr von Lebensmitteln/Getränken, die anstelle von Zucker[^annex14-lvlu1-6] X (Name des Zuckerersatzstoffs oder der anderen Zuckerarten D‑Tagatose oder Isomaltulose) enthalten, trägt zur Erhaltung der Zahnmineralisierung bei.</td><td>Damit die Angabe zulässig ist, müssen Zuckerarten in Lebensmitteln oder Getränken, die den pH‑Wert des Zahnbelags unter 5,7 absenken, durch Zuckerersatzstoffe, d. h. stark süssende Verbindungen, Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, D‑Tagatose, Isomaltulose, Sucralose oder Polydextrose oder durch eine Kombination aus diesen Stoffen ersetzt werden, und zwar in solchen Anteilen, dass der Verzehr dieser Lebensmittel oder Getränke den pH‑Wert des Zahnbelags während des Verzehrs und bis 30 Minuten nach dem Verzehr nicht unter 5,7 absenkt.</td><td></td></tr>
 <tr><td>Zuckerfreier Kaugummi</td><td>Zuckerfreier Kaugummi trägt zur Erhaltung der Zahnmineralisierung bei.</td><td>Die Angabe darf nur für Kaugummi verwendet werden, der den Anforderungen für zuckerfrei nach Anhang 13 Ziffer 18 dieser Verordnung entspricht. Information an die Konsumentinnen und Konsumenten, dass sich die positive Wirkung bei mindestens 20-minütigem Kauen nach dem Essen oder Trinken einstellt.</td><td></td></tr>
 <tr><td>Zuckerfreier Kaugummi</td><td>Zuckerfreier Kaugummi trägt zur Neutralisierung der Säuren des Zahnbelags bei.</td><td>Die Angabe darf nur für Kaugummi verwendet werden, der den Anforderungen für zuckerfrei nach Anhang 13 Ziffer 18 dieser Verordnung entspricht. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung bei mindestens 20-minütigem Kauen nach dem Essen oder Trinken einstellt.</td><td></td></tr>
 <tr><td>Zuckerfreier Kaugummi</td><td>Zuckerfreier Kaugummi trägt zur Verringerung von Mundtrockenheit bei.</td><td>Die Angabe darf nur für Kaugummi verwendet werden, der den Anforderungen an zuckerfrei nach Anhang 13 Ziffer 18 dieser Verordnung entspricht. Damit die Angabe zulässig ist, sind die Konsumentinnen und Konsumenten darüber zu unterrichten, dass sich die positive Wirkung jeweils einstellt, wenn der Kaugummi bei Trockenheitsgefühl im Mund verwendet wird.</td><td></td></tr>
@@ -1966,10 +2049,19 @@ Anhang 14[^t-6]
 [^annex14-lvlu1-1]: 1-Repetition-Maximum bezeichnet das Maximalgewicht, das eine Person bei einer Übungsausführung heben kann, bzw. die Maximalkraftleistung.
 [^annex14-lvlu1-2]: FCC = Food Chemicals Codex
 [^annex14-lvlu1-3]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
-[^annex14-lvlu1-4]: Verordnung (EU) 2015/2314 der Kommission vom 7. Dezember 2015 zur Zulassung einer anderen gesundheitsbezogenen Angabe über Lebensmittel als Angaben über die Reduzierung eines Krankheitsrisikos sowie die Entwicklung und die Gesundheit von Kindern und zur Änderung der Verordnung (EU) Nr. 432/2012, Fassung gemäss ABl. L 328 vom 12.12.2015, S. 46.
-[^annex14-lvlu1-5]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
-[^annex14-lvlu1-6]: Im Fall von D-Tagatose und Isomaltulose muss es hier «andere Zuckerarten» heissen
-[^annex14-lvlu1-7]: Siehe Fussnote zu D-Tagatose und Isomaltulose
+[^annex14-lvlu1-4]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^annex14-lvlu1-5]: Im Fall von D-Tagatose und Isomaltulose muss es hier «andere Zuckerarten» anstatt «Zucker» heissen.
+[^annex14-lvlu1-6]: Im Fall von D-Tagatose und Isomaltulose muss es hier «andere Zuckerarten» anstatt «Zucker» heissen.
+
+Anhang 14a[^t-8]
+
+(Art. 35 Abs. 5)
+
+## Vom BLV bezeichnete Ausnahmen für allgemeine Bezeichnungen, die traditionell zur Angabe einer Eigenschaft einer Kategorie von Lebensmitteln oder Getränken verwendet werden und die auf Auswirkungen auf die menschliche Gesundheit hindeuten können
+
+[^t-8]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+
+Gegenwärtig ist noch kein Eintrag vorhanden.
 
 Anhang 15
 
