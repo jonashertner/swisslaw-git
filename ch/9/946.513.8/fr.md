@@ -4,11 +4,11 @@ title: "Ordonnance du 19 mai 2010 réglant la mise sur le marché de produits fa
 short: OPPEtr
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: fr
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/fr"
 
 (Ordonnance sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, OPPEtr)
 
-du 19 mai 2010 (État le 1<sup>er</sup> juillet 2023)
+du 19 mai 2010 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -113,7 +113,8 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
   - 7\.[^2-34] …
   - 8\.[^2-35] Les fourrures et les produits de la pelleterie soumis aux dispositions de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des produits de la pelleterie[^2-36] qui ne respectent pas les art. 2*a* à 7 de ladite ordonnance,
   - 9\.[^2-37] les compteurs d’électricité autres que les compteurs d’énergie active, pour lesquels le Département fédéral de justice et police a édicté des prescriptions selon l’art. 33 de l’ordonnance du 15 février 2006 sur les instruments de mesure[^2-38], notamment les compteurs pour la mesure de l’énergie réactive, la mesure de la puissance ou l’établissement de la courbe de charge,
-  - 10\.[^2-39] les granulés et les briquettes de bois à l’état naturel dans la mesure où ils ne remplissent pas les exigences au sens de l’annexe 5, ch. 32 OPair.
+  - 10\.[^2-39] les granulés et les briquettes de bois à l’état naturel dans la mesure où ils ne remplissent pas les exigences au sens de l’annexe 5, ch. 32 OPair,
+  - 11\.[^2-40] les cosmétiques qui ne remplissent pas les exigences définies à l’art. 6, al. 1, de l’ordonnance du DFI du 16 décembre 2016 sur les cosmétiques[^2-41].
 
 [^2-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Abrogé par le ch. II 2 de l’O du 17 avr. 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -141,7 +142,7 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
 [^2-24]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
 [^2-25]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
 [^2-26]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^2-27]: [[RO 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024), [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)annexe ch. 5 [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)annexe 5, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)annexe ch. 6, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 ch. 1 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. II 5, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. 6. [RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)annexe 2 ch. I]
+[^2-27]: [[RO 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)annexe ch. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)annexe 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)annexe ch. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 ch. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. 6. [RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)annexe 2 ch. I]
 [^2-28]: Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-29]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 [^2-30]: Nouvelle teneur selon le ch. III de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
@@ -154,6 +155,8 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
 [^2-37]: Introduit par le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
 [^2-38]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 [^2-39]: Introduit par le ch. III de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-40]: Introduit par le ch. II de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^2-41]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
 
 #### Art. 3
 
@@ -422,6 +425,8 @@ La modification du droit en vigueur est réglée en annexe.
 
 <sup>3</sup> Après l’entrée en vigueur de l’art. 6*a*, les denrées alimentaires qui ont été étiquetées selon le droit en vigueur peuvent encore être distribuées au consommateur jusqu’à l’épuisement des stocks.[^19-7]
 
+<sup>4</sup> Les cosmétiques qui ne respectent pas les exigences de l’art. 6, al. 1, de l’ordonnance du DFI du 16 décembre 2016 sur les cosmétiques[^19-8] peuvent encore être importés, fabriqués et étiquetés selon l’ancien droit jusqu’au 31 décembre 2025 et remis au consommateur jusqu’à épuisement des stocks.[^19-9]
+
 [^19-1]: Introduit par le ch. III de l’O du 13 oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2010 ([RO 2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668)).
 [^19-2]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
 [^19-3]: Introduit par le ch. II de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6809](https://fedlex.data.admin.ch/eli/oc/2012/824)).
@@ -429,6 +434,8 @@ La modification du droit en vigueur est réglée en annexe.
 [^19-5]: Introduit par le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
 [^19-6]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^19-7]: Introduit par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4421](https://fedlex.data.admin.ch/eli/oc/2016/727)).
+[^19-8]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^19-9]: Introduit par le ch. II de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 20
 
@@ -443,6 +450,8 @@ Annexe
 (art. 18)
 
 ## Modification du droit en vigueur
+
+Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 …[^annexu1-lvlu1-1]
 

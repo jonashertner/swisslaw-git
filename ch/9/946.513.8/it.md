@@ -4,11 +4,11 @@ title: "Ordinanza del 19 maggio 2010 concernente l'immissione in commercio di pr
 short: OIPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: it
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/it"
 
 (Ordinanza sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, OIPPE)
 
-del 19 maggio 2010 (Stato 1° luglio 2023)
+del 19 maggio 2010 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -113,7 +113,8 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
   - 7\.[^2-34] ...
   - 8\.[^2-35] pellicce e prodotti di pellicceria soggetti all’ordinanza del 7 dicembre 2012[^2-36] sulla dichiarazione delle pellicce, non conformi alle prescrizioni di cui agli articoli 2*a*–7 dell’ordinanza suddetta, relative alla dichiarazione,
   - 9\.[^2-37] i contatori d’elettricità diversi dai contatori di energia attiva per i quali il Dipartimento federale di giustizia e polizia ha emanato disposizioni in virtù dell’articolo 33 dell’ordinanza del 15 febbraio 2006[^2-38] sugli strumenti di misurazione, segnatamente i contatori d’elettricità per la misurazione dell’energia reattiva, la misurazione della potenza e la creazione del profilo di carico,
-  - 10\.[^2-39] pellet e mattonelle in legno allo stato naturale, nella misura in cui non soddisfano le esigenze di cui all’allegato 5 cifra 32 OIAt.
+  - 10\.[^2-39] pellet e mattonelle in legno allo stato naturale, nella misura in cui non soddisfano le esigenze di cui all’allegato 5 cifra 32 OIAt,
+  - 11\.[^2-40] cosmetici che non soddisfano i requisiti di cui all’articolo 6 capoverso 1 dell’ordinanza del DFI del 16 dicembre 2016[^2-41] sui cosmetici.
 
 [^2-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Abrogato dal n. II 2 dell’O del 17 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -154,6 +155,8 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
 [^2-37]: Introdotto dal n. I dell’O del 26 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
 [^2-38]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 [^2-39]: Introdotto dal n. III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-40]: Introdotto dal n. II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^2-41]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
 
 #### Art. 3
 
@@ -422,6 +425,8 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 <sup>3</sup> Dopo l’entrata in vigore dell’articolo 6*a*, le derrate alimentari caratterizzate secondo il diritto anteriore, possono ancora essere distribuite alle consumatrici e ai consumatori fino a esaurimento delle scorte.[^19-7]
 
+<sup>4</sup> I cosmetici che non soddisfano i requisiti di cui all’articolo 6 capoverso 1 dell’ordinanza del DFI del 16 dicembre 2016[^19-8] sui cosmetici possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore sino al 31 dicembre 2025 ed essere consegnati ai consumatori fino a esaurimento delle scorte.[^19-9]
+
 [^19-1]: Introdotto n. III dell’O del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668)).
 [^19-2]: Introdotto dal n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
 [^19-3]: Introdotto dal n. II dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6809](https://fedlex.data.admin.ch/eli/oc/2012/824)).
@@ -429,6 +434,8 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 [^19-5]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° gen. 2016 ([RU 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
 [^19-6]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^19-7]: Introdotto dal n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4421](https://fedlex.data.admin.ch/eli/oc/2016/727)).
+[^19-8]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^19-9]: Introdotto dal n. II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 20
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Mai 2010 über das Inverkehrbringen von nach ausländ
 short: VIPaV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: de
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/de"
 
 (Verordnung über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, VIPaV)
 
-vom 19. Mai 2010 (Stand am 1. Juli 2023)
+vom 19. Mai 2010 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -113,7 +113,8 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
   - 7\.[^2-34] …
   - 8\.[^2-35] der Pelzdeklarationsverordnung vom 7. Dezember 2012[^2-36] unterstellte Pelze und Pelzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2*a*–7 der genannten Verordnung nicht erfüllen,
   - 9\.[^2-37] andere Elektrizitätszähler als Wirkenergiezähler, für die das Eidgenössische Justiz- und Polizeidepartement gestützt auf Artikel 33 der Messmittelverordnung vom 15. Februar 2006[^2-38] Bestimmungen erlassen hat, insbesondere Elektrizitätszähler für die Blindenergiemessung, die Leistungsmessung oder die Lastgangbildung,
-  - 10\.[^2-39] naturbelassene Holzpellets und -briketts, sofern sie die Anforderungen nach Anhang 5 Ziffer 32 LRV nicht erfüllen.
+  - 10\.[^2-39] naturbelassene Holzpellets und -briketts, sofern sie die Anforderungen nach Anhang 5 Ziffer 32 LRV nicht erfüllen,
+  - 11\.[^2-40] kosmetische Mittel, welche die Anforderungen nach Artikel 6 Absatz 1 der Verordnung des EDI vom 16. Dezember 2016[^2-41] über kosmetische Mittel nicht erfüllen.
 
 [^2-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Aufgehoben durch Ziff. II 2 der V vom 17. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -154,6 +155,8 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
 [^2-37]: Eingefügt durch Ziff. I der V vom 26. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2014 3121](https://fedlex.data.admin.ch/eli/oc/2014/525)).
 [^2-38]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 [^2-39]: Eingefügt durch Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-40]: Eingefügt durch Ziff. II der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^2-41]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
 
 #### Art. 3
 
@@ -422,6 +425,8 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 <sup>3</sup> Nach dem Inkrafttreten von Artikel 6*a* dürfen Lebensmittel, die nach bisherigem Recht gekennzeichnet sind, noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.[^19-7]
 
+<sup>4</sup> Kosmetische Mittel, welche die Anforderungen nach Artikel 6 Absatz 1 der Verordnung des EDI vom 16. Dezember 2016[^19-8] über kosmetische Mittel nicht erfüllen, dürfen noch bis zum 31. Dezember 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.[^19-9]
+
 [^19-1]: Eingefügt durch Ziff. III der V vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668)).
 [^19-2]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
 [^19-3]: Eingefügt durch Ziff. II der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6809](https://fedlex.data.admin.ch/eli/oc/2012/824)).
@@ -429,6 +434,8 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 [^19-5]: Eingefügt durch Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Jan. 2016 ([AS 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
 [^19-6]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^19-7]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4421](https://fedlex.data.admin.ch/eli/oc/2016/727)).
+[^19-8]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^19-9]: Eingefügt durch Ziff. II der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 20
 
