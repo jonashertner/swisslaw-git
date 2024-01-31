@@ -4,11 +4,11 @@ title: "Ordinanza dell’USAV dell'8 novembre 2021 concernente la protezione deg
 short: OPAnMac
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: it
-version: 2022-02-07
+version: 2024-02-01
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/it/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220207-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2021-694-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/it"
 
 (OPAnMac)
 
-dell’8 novembre 2021 (Stato 7 febbraio 2022)
+dell’8 novembre 2021 (Stato 1° febbraio 2024)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -40,11 +40,12 @@ Si applica all’interno e all’esterno dei macelli per la macellazione di:
 - a. bestiame da macello di cui all’articolo 3 lettera b dell’ordinanza del 16 dicembre 2016[^1-1] concernente la macellazione e il controllo delle carni (OMCC);
 - b. volatili da cortile di cui all’articolo 3 lettera c OMCC;
 - c. conigli domestici;
-- d. ratiti;
+- d.[^1-2] ratiti di cui all’articolo 3 lettera d OMCC;
 - e. selvaggina d’allevamento di cui all’articolo 3 lettera e OMCC;
 - f. pesci e decapodi in aziende d’acquacoltura, aziende commerciali e di ristorazione.
 
 [^1-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^1-2]: Nuovo testo giusta il n. I dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 824](https://fedlex.data.admin.ch/eli/oc/2023/824)).
 
 ## Sezione 2: Requisiti relativi allo stordimento
 
@@ -183,9 +184,9 @@ Non è necessario dissanguare i pesci se:
 
 ## Sezione 4: Disposizioni particolari per la macellazione di bestiame da macello, volatili da cortile, conigli domestici, ratiti e selvaggina d’allevamento nei macelli
 
-#### [Art. 15](https://www.fedlex.admin.ch/eli/cc/2010/615/it)
+#### Art. 15
 
-**[Scarico](https://www.fedlex.admin.ch/eli/cc/2010/615/it)**
+**Scarico**
 
 <sup>1</sup> I macelli devono disporre di installazioni adeguate per lo scarico degli animali dai mezzi di trasporto.
 
@@ -650,7 +651,7 @@ Allegato 4
 - 2\.3 Gli elettrodi devono essere applicati nella zona situata alla base delle orecchie, possibilmente da dietro, in modo che la corrente possa attraversare efficacemente il cervello (applicazione di corrente alla testa).
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/it/xml/image/image33.png)</td><td>[tab]</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/it/xml/image/image33.png)</td><td>[tab]</td></tr>
 </table>
 
 Applicazione della pinza alla testa, esempio: suino
@@ -889,10 +890,14 @@ Allegato 6
   - c. destinazione d’uso dell’impianto, determinando se lo stesso serve soltanto per lo stordimento oppure anche per l’uccisione degli animali; e
   - d. requisiti minimi per la qualità dell’acqua, il livello dell’acqua nelle vasche di stordimento, la frequenza del cambio d’acqua e l’aggiunta di sale.
 
-- 2\.2 Al momento dell’impostazione devono essere presenti:
-- a. il responsabile dell’azienda;
-- b. un esperto o un rappresentante del fabbricante dell’impianto di stordimento; e
-- c. un rappresentante dell’autorità cantonale di esecuzione.
+- 2\.2
+
+  Al momento dell’impostazione devono essere presenti:
+
+  - a. il responsabile dell’azienda;
+  - b. un esperto o un rappresentante del fabbricante dell’impianto di stordimento; e
+  - c. un rappresentante dell’autorità cantonale di esecuzione.
+
 - 2\.3 I risultati dei test devono essere documentati e conservati per tre anni.
 
 ### 3 Sintomi principali per verificare l’efficacia dell’elettronarcosi
@@ -958,9 +963,13 @@ Allegato 7[^t-1]
 
 ### 2 Apparecchi di misura e registrazioni
 
-- 2\.1 La cella in cui i suini sono esposti al CO<sub>2</sub> deve essere munita di sensori che permettano di misurare la concentrazione e la temperatura del gas nei seguenti punti chiaramente segnalati:
-- a. nel punto in cui la testa dell’animale viene immersa nel CO<sub>2</sub> con una concentrazione almeno dell’84 per cento sul volume;
-- b. nel punto in cui la testa dell’animale esce dal CO<sub>2</sub> con una concentrazione almeno dell’84 per cento sul volume.
+- 2\.1
+
+  La cella in cui i suini sono esposti al CO<sub>2</sub> deve essere munita di sensori che permettano di misurare la concentrazione e la temperatura del gas nei seguenti punti chiaramente segnalati:
+
+  - a. nel punto in cui la testa dell’animale viene immersa nel CO<sub>2</sub> con una concentrazione almeno dell’84 per cento sul volume;
+  - b. nel punto in cui la testa dell’animale esce dal CO<sub>2</sub> con una concentrazione almeno dell’84 per cento sul volume.
+
 - 2\.2 L’impianto di stordimento deve disporre di un dispositivo che permetta di registrare il tempo di esposizione degli animali al CO<sub>2</sub> nella concentrazione minima prevista.
 - 2\.3 La concentrazione di CO<sub>2</sub>, la durata di esposizione degli animali in almeno l’84 per cento sul volume di CO<sub>2</sub> e la temperatura del gas devono essere registrate continuamente; nel caso di divergenze è necessario documentare le misure per porvi rimedio.
 - 2\.4 Gli apparecchi di misura menzionati ai numeri 2.1–2.3 devono poter essere consultati in qualsiasi momento ed emettere un segnale d’avvertimento ottico e acustico se la durata minima di esposizione o la concentrazione minima di CO<sub>2</sub> scende al di sotto dei valori fissati oppure le prescrizioni relative alla temperatura non vengono rispettate. Il segnale di avvertimento che indica la diminuzione della concentrazione minima al di sotto dei valori previsti deve scattare se la concentrazione minima di gas diminuisce per più di 60 secondi del 2 per cento o più rispetto ai valori fissati.

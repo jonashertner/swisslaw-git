@@ -4,11 +4,11 @@ title: Ordonnance de l’OSAV du 8 novembre 2021 sur la protection des animaux l
 short: OPAnAb
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: fr
-version: 2022-02-07
+version: 2024-02-01
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/fr/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220207-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-694-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/fr"
 
 (OPAnAb)
 
-du 8 novembre 2021 (Etat le 7 février 2022)
+du 8 novembre 2021 (État le 1<sup>er</sup> février 2024)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -40,11 +40,12 @@ Elle s’applique, dans les abattoirs et en dehors de ceux-ci, à l’abattage:
 - a. du bétail de boucherie au sens de l’art. 3, let. b, de l’ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV)[^1-1];
 - b. de la volaille domestique au sens de l’art. 3, let. c, OAbCV;
 - c. des lapins domestiques;
-- d. des oiseaux coureurs;
+- d.[^1-2] des oiseaux coureurs visés à l’art. 3, let. d, OAbCV;
 - e. du gibier d’élevage au sens de l’art. 3, let. e, OAbCV;
 - f. des poissons et des décapodes marcheurs dans les exploitations aquacoles, les entreprises commerciales et les établissements de restauration.
 
 [^1-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^1-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 824](https://fedlex.data.admin.ch/eli/oc/2023/824)).
 
 ## Section 2 Prescriptions relatives à l’étourdissement
 
@@ -925,7 +926,7 @@ Annexe 6
   - c. pas de réaction oculaire lors du tapotement de la carapace, et
   - d. pas de réaction au toucher des pièces masticatoires.
 
-Annexe 7*[^t-1]*
+Annexe 7[^t-1]
 
 (art. 4, 6, al. 2, et 9)
 

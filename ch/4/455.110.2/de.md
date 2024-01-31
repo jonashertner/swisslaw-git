@@ -4,11 +4,11 @@ title: Verordnung des BLV vom 8. November 2021 über den Tierschutz beim Schlach
 short: VTSchS
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: de
-version: 2022-02-07
+version: 2024-02-01
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/de/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220207-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2021-694-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/de"
 
 (VTSchS)
 
-vom 8. November 2021 (Stand am 7. Februar 2022)
+vom 8. November 2021 (Stand am 1. Februar 2024)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -40,11 +40,12 @@ Sie gilt in und ausserhalb von Schlachtbetrieben für die Schlachtung von:
 - a. Schlachtvieh nach Artikel 3 Buchstabe b der Verordnung vom 16. Dezember 2016[^1-1] über das Schlachten und die Fleischkontrolle (VSFK);
 - b. Hausgeflügel nach Artikel 3 Buchstabe c VSFK;
 - c. Hauskaninchen;
-- d. Laufvögeln;
+- d.[^1-2] Laufvögeln nach Artikel 3 Buchstabe d VSFK;
 - e. Gehegewild nach Artikel 3 Buchstabe e VSFK;
 - f. Fischen und Panzerkrebsen in Aquakultur-, Handels- und Gastronomiebetrieben.
 
 [^1-1]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^1-2]: Fassung gemäss Ziff. I der V des BLV vom 8. Dez 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 824](https://fedlex.data.admin.ch/eli/oc/2023/824)).
 
 ## 2. Abschnitt: Anforderungen an die Betäubung
 
@@ -650,7 +651,7 @@ Anhang 4
 - 2\.3 Die Elektroden sind im Bereich der Ohrbasis, nach Möglichkeit von hinten, so anzusetzen, dass eine erfolgreiche Durchströmung des Gehirns gewährleistet ist (Kopfdurchströmung).
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/de/xml/image/image33.png)</td><td>[tab]</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/de/xml/image/image33.png)</td><td>[tab]</td></tr>
 </table>
 
 Zangenansatz Kopf am Beispiel Schwein
