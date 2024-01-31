@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordinanza del DFI del 16 dicembre 2016 sui materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari (Ordinanza sui materiali e gli oggetti)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: it
-version: 2022-10-15
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20221015-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20221015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20240201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20221015/it"
 
 (Ordinanza sui materiali e gli oggetti)
 
-del 16 dicembre 2016 (Stato 15 ottobre 2022)
+del 16 dicembre 2016 (Stato 1° febbraio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -35,6 +35,11 @@ ordina:
 <sup>1</sup> La presente ordinanza definisce i materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari e ne stabilisce i requisiti.
 
 <sup>2</sup> Non sono considerati materiali e oggetti le sostanze di ricopertura per derrate alimentari, come formaggi, preparazioni di carne e salumi o frutta, che formano un tutto unico con le derrate alimentari e possono essere consumate assieme a esse.
+
+<sup>3</sup> Per i materiali a contatto con l’acqua potabile si applicano i requisiti dell’ordinanza del DFI del 16 dicembre 2016[^1-1] sull’acqua potabile e sull’acqua per piscine e docce accessibili al pubblico.[^1-2]
+
+[^1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^1-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 2
 
@@ -73,7 +78,7 @@ Si intende per:
 - o. *sostanza in nanoforma (nanoparticella)*: ogni sostanza libera, sotto forma di aggregato o agglomerato, in cui una o più dimensioni esterne siano comprese fra 1 e 100 nanometri od ogni sostanza che presenta un rapporto superficie specifica-volume superiore a 60 m<sup>2</sup>/cm<sup>3</sup>; questa sostanza è considerata nanoparticella soltanto quando è fabbricata specificatamente per poterne sfruttare le proprietà risultanti dalle dette dimensioni esterne della particella contenuta o dal rapporto superficie specifica-volume della sostanza;
 - p. *sostanza presente non intenzionalmente*: impurità nelle sostanze utilizzate, intermedio di reazione formatosi nel corso del processo di fabbricazione o prodotto di decomposizione o di reazione.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 ## Sezione 2: Etichettatura
 
@@ -131,12 +136,11 @@ La persona responsabile deve istituire e attuare un sistema di garanzia della qu
 
 <sup>1</sup> I materiali e gli oggetti di metallo o lega metallica, compresi quelli coperti da un rivestimento, possono contenere piombo, cadmio o arsenico in tenore non superiore allo 0,05 per cento in massa di piombo, allo 0,01 per cento in massa di cadmio e allo 0,03 per cento in massa di arsenico.
 
-<sup>1bis</sup> In deroga al capoverso 1, i materiali e gli oggetti di metallo o lega metallica destinati a entrare in contatto con l’acqua potabile che presentano un tenore di piombo, cadmio o arsenico non conforme ai valori indicati possono essere utilizzati se le migrazioni di questi elementi nell’acqua rispettano i valori di cui all’allegato 2 dell’ordinanza del DFI del 16 dicembre 2016[^8-1] sull’acqua potabile e sull’acqua per piscine e docce accessibili al pubblico.[^8-2]
+<sup>1bis</sup> ...[^8-1]
 
 <sup>2</sup> Quando i materiali e oggetti sono ricoperti da uno strato di stagno, nichelio, cromo, argento, oro o qualsiasi altro metallo, il rivestimento deve sempre essere in buono stato.
 
-[^8-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
-[^8-2]: Introdotto dal n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^8-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 9
 
@@ -187,7 +191,7 @@ In deroga al capoverso 1, le sostanze qui appresso che non sono contenute nellʼ
 - a. sostanze ausiliarie della polimerizzazione;
 - b. coloranti;
 - c. solventi;
-- d.[^11-1] tutti i sali di alluminio, ammonio, bario, calcio, cobalto, ferro, litio, magnesio, manganese, potassio, rame, sodio e zinco degli acidi, dei fenoli o degli alcoli ammessi;
+- d.[^11-1] tutti i sali delle sostanze per le quali è indicato «sì» nell’allegato 2, tabella 4, colonna 2, da acidi, fenoli o alcoli ammessi, fatte salve le limitazioni della tabella 4, colonne 3 e 4;
 - e. le miscele ottenute miscelando sostanze ammesse senza una reazione chimica dei componenti;
 - f. qualora utilizzate come additivi, le sostanze polimeriche naturali o sintetiche del peso molecolare minimo di 1000 Da, eccetto le macromolecole ottenute per fermentazione microbica, conformi ai requisiti della presente sezione, se capaci di funzionare come principale componente strutturale di materiali e oggetti finiti;
 - g. qualora utilizzati come monomeri o altre sostanze di partenza, i prepolimeri e le sostanze macromolecolari naturali o sintetiche così come le loro miscele, eccetto le macromolecole ottenute per fermentazione microbica, se i monomeri o le sostanze di partenza necessarie alla loro sintesi figurano negli elenchi dell’allegato 2;
@@ -197,7 +201,7 @@ In deroga al capoverso 1, le sostanze qui appresso che non sono contenute nellʼ
 
 <sup>4</sup> Le sostanze prodotte intenzionalmente in nanoforma possono essere utilizzate solo se sono autorizzate secondo l’allegato 2.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 12
 
@@ -224,7 +228,7 @@ In deroga al capoverso 1, gli additivi che sono anche ammessi come additivi alim
 
 [^13-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^13-2]: [RS 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
-[^13-3]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^13-3]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 #### Art. 14
 
@@ -252,11 +256,14 @@ Le sostanze secondo il capoverso 1 lettera b non devono appartenere alle seguent
 
 **Dichiarazione di conformità**
 
-<sup>1</sup> Una dichiarazione scritta deve accompagnare i materiali e gli oggetti di plastica, i prodotti in una fase intermedia della fabbricazione nonché le sostanze destinate alla fabbricazione di detti materiali e oggetti. Tale dichiarazione non è necessaria per la consegna al consumatore finale.
+<sup>1</sup> Per i materiali e gli oggetti in plastica, per i prodotti provenienti da fasi intermedie della loro fabbricazione nonché per le sostanze destinate alla fabbricazione di tali materiali e oggetti deve essere disponibile una dichiarazione scritta che confermi la conformità (dichiarazione di conformità). Tale dichiarazione non è necessaria per la consegna ai consumatori.[^15-1]
 
-<sup>2</sup> La dichiarazione scritta di cui al capoverso 1 è redatta dalla persona responsabile. Deve contenere le informazioni previste nell’allegato 3. Si presume che i materiali e oggetti valutati in conformità con le regole sancite nell’allegato 4 soddisfino i requisiti di valutazione della conformità ai limiti di migrazione.
+<sup>2</sup> La dichiarazione di conformità[^15-2] di cui al capoverso 1 è redatta dalla persona responsabile. Deve contenere le informazioni previste nell’allegato 3. Si presume che i materiali e oggetti valutati in conformità con le regole sancite nell’allegato 4 soddisfino i requisiti di valutazione della conformità ai limiti di migrazione.
 
-<sup>3</sup> La dichiarazione scritta deve consentire di individuare facilmente i materiali, gli oggetti, i prodotti in una fase intermedia della fabbricazione o le sostanze per cui è rilasciata. Deve inoltre essere rinnovata quando modifiche significative della composizione o della fabbricazione determinano cambiamenti della migrazione dai materiali o dagli oggetti oppure quando sono disponibili nuovi dati scientifici.
+<sup>3</sup> La dichiarazione di conformità deve consentire di individuare facilmente i materiali, gli oggetti, i prodotti in una fase intermedia della fabbricazione o le sostanze per cui è rilasciata. Deve inoltre essere rinnovata quando modifiche significative della composizione o della fabbricazione determinano cambiamenti della migrazione dai materiali o dagli oggetti oppure quando sono disponibili nuovi dati scientifici.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^15-2]: Nuova espressione giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -264,7 +271,15 @@ Le sostanze secondo il capoverso 1 lettera b non devono appartenere alle seguent
 
 <sup>1</sup> La persona responsabile mette a disposizione delle autorità competenti, su richiesta, la documentazione atta a dimostrare che i materiali e gli oggetti, i prodotti della fase intermedia della fabbricazione e le sostanze destinate alla fabbricazione dei materiali e oggetti sono conformi ai requisiti della presente sezione.
 
-<sup>2</sup> La documentazione deve contenere tra l’altro le condizioni e i risultati delle prove, dei calcoli, compresa la modellizzazione, delle altre analisi, e comprende le prove della sicurezza o le argomentazioni a dimostrazione della conformità.
+<sup>2</sup>
+
+La documentazione deve contenere in particolare:
+
+- a. una descrizione delle condizioni e dei risultati delle prove;
+- b. i calcoli, compresa la modellizzazione, e altre analisi;
+- c. le prove della sicurezza o un’argomentazione a dimostrazione della conformità.[^16-1]
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## Sezione 6: Materiali e oggetti di plastica riciclata
 
@@ -317,21 +332,22 @@ La decisione riguardante lʼautorizzazione include i dati seguenti:
 
 #### Art. 20
 
-**Dichiarazione di conformità e conservazione della documentazione**
+**Dichiarazione di conformità e conservazione della documentazione**[^20-1]
 
-Oltre alle prescrizioni di cui all’articolo 15, la dichiarazione deve contenere:
+Oltre alle prescrizioni di cui all’articolo 15, la dichiarazione di conformità deve contenere:
 
 - a.
 
-  per la plastica riciclata:
+  per la plastica riciclata, una dichiarazione attestante:
 
-  - 1\. all’occorrenza, una dichiarazione attestante che il processo di riciclo è stato autorizzato dall’Ufficio federale della sicurezza alimentare e di veterinaria (USAV), con indicazione del numero dell’autorizzazione, o dalla Commissione europea, con indicazione del numero di *registro comunitario dei processi di riciclo autorizzati* ai sensi dell’articolo 9 paragrafo 1 del regolamento (CE) n. 282/2008[^20-1],
-  - 2\. all’occorrenza, una dichiarazione attestante che l’input di materia plastica, il processo di riciclo e la plastica riciclata siano conformi alla caratterizzazione per la quale è stata concessa l’autorizzazione,
-  - 3\. una dichiarazione che certifichi l’esistenza di un sistema di garanzia della qualità conforme alla sezione 3 e alle regole dettagliate definite nell’allegato 5;
+  - 1\. che il processo di riciclo è stato autorizzato dall’Ufficio federale della sicurezza alimentare e di veterinaria (USAV), con indicazione del numero di autorizzazione, o che la plastica può essere immessa sul mercato ai sensi del regolamento (UE) 2022/1616[^20-2],
+  - 2\. che l’input di materia plastica, il processo di riciclo e la plastica riciclata sono conformi alla caratterizzazione per la quale è stata concessa l’autorizzazione,
+  - 3\. che è stato predisposto un sistema di garanzia della qualità conforme alla sezione 3 e alle regole dettagliate definite nell’allegato 5;
 
-- b. per i materiali e oggetti di plastica riciclata, all’occorrenza una dichiarazione attestante che il processo di riciclo è stato autorizzato dall’USAV, con indicazione del numero dell’autorizzazione, o dalla Commissione europea, con indicazione del numero di *registro comunitario dei processi di riciclo autorizzati* ai sensi dell’articolo 9 paragrafo 1 del regolamento (CE) n. 282/2008.
+- b. per i materiali e gli oggetti in plastica riciclata: una dichiarazione attestante che il processo di riciclo è stato autorizzato dall’USAV, con indicazione del numero di autorizzazione, o che i materiali e gli oggetti possono essere immessi sul mercato ai sensi del regolamento (UE) 2022/1616.
 
-[^20-1]: Regolamento (CE) n. 282/2008 della Commissione del 27 marzo 2008 relativo ai materiali e agli oggetti di plastica riciclata destinati al contatto con gli alimenti e che modifica il regolamento (CE) n. 2023/2006, GU L 86 del 28.3.2008, pag. 9; modificato da ultimo dal regolamento (CE) n. 2015/1906, GU L 278 del 23.10.2015, pag. 11.
+[^20-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^20-2]: Regolamento (CE) 2022/1616 della Commissione, del 15 settembre 2022, relativo ai materiali e agli oggetti di materia plastica riciclata destinati a venire a contatto con i prodotti alimentari e che abroga il regolamento (CE) n. 282/2008, versione della GU L 243 del 20.9.2022, pag. 3.
 
 ## Sezione 7: Materiali e oggetti in pellicola di cellulosa rigenerata
 
@@ -377,7 +393,7 @@ La superficie stampata della pellicola di cellulosa rigenerata non deve entrare 
 
 **Dichiarazione di conformità**
 
-<sup>1</sup> Nelle fasi della commercializzazione diverse della vendita al dettaglio i materiali e gli oggetti in pellicola di cellulosa rigenerata devono essere accompagnati da una dichiarazione scritta che ne attesti la conformità alle norme ad essi applicabili.
+<sup>1</sup> Nelle fasi della commercializzazione diverse della vendita al dettaglio i materiali e gli oggetti in pellicola di cellulosa rigenerata devono essere accompagnati da una dichiarazione di conformità che ne attesti la conformità alle norme ad essi applicabili.
 
 <sup>2</sup> Il capoverso 1 non si applica ai materiali e agli oggetti in pellicola di cellulosa rigenerata che, per la loro stessa natura, sono chiaramente destinati a entrare in contatto con derrate alimentari.
 
@@ -389,9 +405,15 @@ La superficie stampata della pellicola di cellulosa rigenerata non deve entrare 
 
 <sup>1</sup> Le parti di materiali e oggetti di ceramica, vetro, smalto e materiali simili che vengono a contatto con derrate alimentari possono rilasciare a queste ultime al massimo i quantitativi di piombo e cadmio fissati nell’allegato 8.
 
-<sup>2</sup> Nelle fasi della commercializzazione diverse dalla vendita al dettaglio, i materiali e oggetti di ceramica che non sono ancora entrati in contatto con derrate alimentari devono essere accompagnati da una dichiarazione scritta che ne attesti la conformità alle norme applicabili.[^26-1]
+<sup>2</sup> I materiali e gli oggetti in ceramica che non sono ancora entrati in contatto con derrate alimentari devono essere accompagnati, a tutti i livelli di commercializzazione, da una dichiarazione di conformità che ne attesti la conformità alle regole applicabili.[^26-1]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+<sup>2bis</sup> La dichiarazione di conformità deve essere emessa dalla persona responsabile e contenere le informazioni di cui all’allegato 8*a*. I materiali e gli oggetti in ceramica di cui è stata verificata l’ottemperanza alle regole dell’allegato 8 sono considerati conformi ai requisiti relativi ai valori limite di piombo e di cadmio.[^26-2]
+
+<sup>3</sup> La persona responsabile mette a disposizione delle autorità d’esecuzione, su richiesta, la documentazione atta a dimostrare i risultati delle analisi eseguite, le condizioni di test nonché il nome e l’indirizzo del laboratorio che ha eseguito le analisi.[^26-3]
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^26-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^26-3]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## Sezione 9: Materiali e oggetti di carta e cartone
 
@@ -405,7 +427,7 @@ La carta e il cartone riciclati possono essere utilizzati unicamente:
 - b. per applicazioni specifiche, se è dimostrato che la migrazione di componenti nelle derrate alimentari soddisfa i requisiti di cui all’articolo 49 ODerr; oppure
 - c. se, mediante misure adeguate (ad esempio una barriera funzionale o elementi assorbenti), la migrazione di componenti nelle derrate alimentari soddisfa i requisiti di cui all’articolo 49 ODerr.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 ## Sezione 10: Paraffina, cere e coloranti
 
@@ -418,7 +440,7 @@ Le paraffine e le cere destinate alla fabbricazione di contenitori a diretto con
 - a.[^28-1] soddisfare i requisiti della *Pharmacopoea Helvetica*[^28-2];
 - b. essere prive di sostanze cancerogene.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 [^28-2]: La pubblicazione può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica, Vendita delle pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch.
 
 #### Art. 29
@@ -458,9 +480,9 @@ I siliconi (polisilossani) sono polimeri macromolecolari caratterizzati da legam
 
 <sup>1</sup> I materiali e gli oggetti di silicone possono essere fabbricati unicamente a partire dalle sostanze menzionate negli elenchi degli allegati 2 e 9 e nelle condizioni ivi previste.
 
-<sup>2</sup> Sono ammessi anche tutti i sali di alluminio, ammonio, bario, calcio, cobalto, ferro, litio, magnesio, manganese, potassio, rame, sodio e zinco degli acidi, dei fenoli o degli alcoli ammessi.[^32-1]
+<sup>2</sup> Sono ammessi anche tutti i sali delle sostanze per le quali è indicato «sì» nell’allegato 9, tabella 2, colonna 2, da acidi, fenoli o alcoli ammessi, fatte salve le limitazioni della tabella 2, colonne 3 e 4.[^32-1]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^32-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## Sezione 12: Inchiostri per imballaggi
 
@@ -490,13 +512,44 @@ Non sono applicabili se:
 
 #### Art. 35
 
-**Sostanze ammesse**
+**Sostanze ammesse**[^35-1]
 
-<sup>1</sup> Gli inchiostri per imballaggi possono essere fabbricati soltanto con le sostanze menzionate negli allegati 2 e 10 e rispettando le condizioni ivi stabilite.
+Gli inchiostri per imballaggi possono essere fabbricati soltanto con:
 
-<sup>2</sup> Sono ammessi anche tutti i sali di alluminio, ammonio, bario, calcio, cobalto, ferro, litio, magnesio, manganese, potassio, rame, sodio e zinco degli acidi, dei fenoli o degli alcoli ammessi.[^35-1]
+- a. tutte le sostanze menzionate negli allegati 2 e 10 alle condizioni ivi stabilite;
+- b. tutti i sali delle sostanze per le quali è indicato «sì» nell’allegato 10, tabella 3, colonna 2, da acidi, fenoli o alcoli ammessi, fatte salve le limitazioni della tabella 3, colonne 3 e 4;
+- c. altre sostanze la cui migrazione non è rilevabile in una derrata alimentare o nel simulante alimentare e che non sono classificate come «mutagene», «cancerogene» o «tossiche per la riproduzione» (sostanze CMR) delle categorie 1A, 1B o 2 secondo l’allegato 2 numero 1 OPChim[^35-2] sui prodotti chimici; se non sono stabiliti limiti di rilevazione specifici per determinate sostanze o gruppi di sostanze, si applica un limite di rilevazione di 0,01 mg/kg.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^35-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^35-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
+#### Art. 35a
+
+**Dichiarazione di conformità**[^35a-1]
+
+<sup>1</sup> Nelle fasi di commercializzazione diverse dalla vendita al dettaglio, una dichiarazione di conformità deve accompagnare gli strati di inchiostro per imballaggi come componenti di materiali e oggetti, gli inchiostri per imballaggi e le sostanze destinate alla fabbricazione di inchiostri per imballaggi.
+
+<sup>2</sup> La dichiarazione di conformità è emessa dalla persona responsabile e contiene le informazioni secondo l’allegato 15.
+
+<sup>3</sup> La dichiarazione di conformità deve consentire di individuare facilmente gli strati di inchiostro per imballaggi come componenti di materiali e oggetti, gli inchiostri per imballaggi e le sostanze destinate alla fabbricazione di inchiostri per imballaggi a cui si riferisce. Deve essere rinnovata quando modifiche significative della composizione o della produzione determinano cambiamenti della migrazione dai materiali o dagli oggetti oppure quando sono disponibili nuovi dati scientifici.
+
+[^35a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+
+#### Art. 35b
+
+**Documentazione per il rilascio della dichiarazione di conformità**[^35b-1]
+
+<sup>1</sup> La persona responsabile mette a disposizione delle autorità d’esecuzione, su richiesta, la documentazione atta a dimostrare che gli strati di inchiostro per imballaggi come componenti di materiali e oggetti, gli inchiostri per imballaggi e le sostanze destinate alla fabbricazione degli inchiostri per imballaggi sono conformi ai requisiti della presente sezione.
+
+<sup>2</sup>
+
+La documentazione deve contenere in particolare:
+
+- a. una descrizione delle condizioni e dei risultati delle prove;
+- b. i calcoli, compresa la modellizzazione, e altre analisi;
+- c. le prove della sicurezza o un’argomentazione a dimostrazione della conformità.
+
+[^35b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## Sezione 13: Materiali e oggetti attivi e intelligenti
 
@@ -526,14 +579,15 @@ Nei componenti di materiali e oggetti attivi e intelligenti possono essere utili
 
   le sostanze utilizzate in componenti che non sono a contatto diretto con le derrate alimentari o con l’ambiente delle derrate alimentari e sono separate da queste derrate da una barriera funzionale, purché la loro migrazione non sia rilevabile e non appartengano a nessuna delle seguenti categorie:
 
-  - 1\. sostanze classificate come «mutagene», «cancerogene» o «tossiche per la riproduzione» (sostanze CMR) di categoria 1A, 1B o 2 ai sensi dell’allegato 2 numero 1 OPChim[^37-1],
+  - 1\.[^37-1] 1. sostanze classificate come «mutagene», «cancerogene» o «tossiche per la riproduzione» (sostanze CMR) delle categorie 1A, 1B o 2 secondo l’allegato 2 numero 1 OPChim[^37-2],
   - 2\. sostanze prodotte intenzionalmente in nanoforma.
 
 <sup>2</sup> I materiali e gli oggetti attivi possono modificare la composizione o le caratteristiche organolettiche delle derrate alimentari solo in maniera tale che, anche dopo la modifica, le derrate alimentari siano ancora conformi alla legislazione applicabile alle derrate alimentari.
 
 <sup>3</sup> La quantità di sostanza attiva rilasciata non è computata nel valore della migrazione globale misurata ove, nell’ambito di una sezione specifica, è fissato un limite di migrazione globale per il materiale o lʼoggetto destinato a entrare in contatto con le derrate alimentari nel quale il componente è incorporato.
 
-[^37-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^37-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^37-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 38
 
@@ -558,9 +612,9 @@ Qualora diano l’impressione di essere commestibili, i materiali e gli oggetti 
 
 **Dichiarazione di conformità**
 
-<sup>1</sup> Nelle fasi di commercializzazione diverse dalla vendita al dettaglio, una dichiarazione scritta deve accompagnare i materiali e gli oggetti attivi e intelligenti, a prescindere dal fatto che siano o meno a contatto con derrate alimentari, i componenti destinati alla fabbricazione di tali materiali e oggetti e le sostanze destinate alla fabbricazione dei componenti.
+<sup>1</sup> Nelle fasi di commercializzazione diverse dalla vendita al dettaglio, una dichiarazione di conformità deve accompagnare i materiali e gli oggetti attivi e intelligenti, a prescindere dal fatto che siano o meno a contatto con derrate alimentari, i componenti destinati alla fabbricazione di tali materiali e oggetti e le sostanze destinate alla fabbricazione dei componenti.
 
-<sup>2</sup> La dichiarazione scritta di cui al capoverso 1 è emessa dalla persona responsabile e contiene le informazioni previste nell’allegato 12.
+<sup>2</sup> La dichiarazione di conformità di cui al capoverso 1 è emessa dalla persona responsabile e contiene le informazioni previste nell’allegato 12.
 
 #### Art. 40
 
@@ -574,7 +628,7 @@ Qualora diano l’impressione di essere commestibili, i materiali e gli oggetti 
 
 [^sec13a-1]
 
-[^sec13a-1]: Introdotta dal n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^sec13a-1]: Introdotta dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 #### Art. 40a
 
@@ -588,7 +642,7 @@ Le vernici e i rivestimenti sono materiali finiti, preparati essenzialmente a pa
 
 <sup>1</sup> Le vernici e i rivestimenti sono soggetti ai requisiti dell’allegato 13. Sono valutati secondo le regole di cui all’allegato 4.
 
-<sup>2</sup> Nelle fasi della commercializzazione diverse dalla vendita al dettaglio, i materiali e gli oggetti verniciati o rivestiti devono essere accompagnati da una dichiarazione scritta di conformità contenente le informazioni di cui all’allegato 14.
+<sup>2</sup> Nelle fasi della commercializzazione diverse dalla vendita al dettaglio, i materiali e gli oggetti verniciati o rivestiti devono essere accompagnati da una dichiarazione di conformità contenente le informazioni di cui all’allegato 14.
 
 <sup>3</sup> Si redige una nuova versione della dichiarazione di conformità per rispecchiare qualsiasi cambiamento dei livelli di migrazione dalla vernice o dal rivestimento applicati ai materiali e agli oggetti.
 
@@ -650,7 +704,17 @@ Le autorizzazioni di cui all’articolo 10 dell’ordinanza del DFI del 23 novem
 
 <sup>2</sup> Gli materiali e oggetti non conformi agli altri requisiti della modifica del 23 ottobre 2019 possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 30 novembre 2020. Possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^43a-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^43a-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+
+#### Art. 43b
+
+**Disposizione transitoria della modifica dell’8 dicembre 2023**[^43b-1]
+
+<sup>1</sup> I materiali e gli oggetti non conformi ai requisiti degli articoli 35–35*b* e dell’allegato 15 della modifica dell’8 dicembre 2023 possono essere importati, fabbricati, caratterizzati e consegnati ai consumatori secondo il diritto anteriore fino al 31 gennaio 2026.
+
+<sup>2</sup> I materiali e gli oggetti non conformi agli altri requisiti della modifica del 8 dicembre 2023 possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 31 gennaio 2025. Essi possono essere consegnati ai consumatori fino a esaurimento delle scorte.
+
+[^43b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 44
 
@@ -664,18 +728,18 @@ Allegato 1
 
 ## Simbolo riportato sui materiali e sugli oggetti, indicante l’uso al quale sono destinati
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/it/xml/image/image1.png)
 
 Allegato 2[^t-1]
 
-(art. 11 cpv. 1, 2 lett. g, e 4, 13 cpv. 1, 14 cpv. 1 lett. b, 24 cpv. 3, 32 cpv. 1, 35 cpv. 1 e 43 cpv. 3)
+(art. 11 cpv. 1, 2 lett. d e g nonché 4, 13 cpv. 1 e 2 lett. a e b, 14 cpv. 1 lett. b, 24 cpv. 3, 32 cpv. 1, 35 lett. a e 43 cpv. 3)
 
 ## Elenco delle sostanze ammesse per la produzione di strati di plastica di materiali e oggetti di plastica, requisiti in merito
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O del USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -683,16 +747,22 @@ Allegato 3[^t-2]
 
 ## Dichiarazione di conformità dei materiali e degli oggetti di plastica
 
-[^t-2]: Aggiornato dal n. II cpv. 3 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-2]: Aggiornato dal n. II cpv. 3 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
-La dichiarazione scritta di cui all’articolo 15 capoverso 2 deve contenere le seguenti informazioni:
+La dichiarazione di conformità di cui all’articolo 15 capoverso 2 deve contenere le seguenti informazioni:
 
 - a. l’identità e l’indirizzo della persona responsabile che rilascia la dichiarazione di conformità;
 - b. l’identità e l’indirizzo della persona responsabile che fabbrica o importa i materiali e gli oggetti di plastica, i prodotti in una fase intermedia della fabbricazione o le sostanze destinate alla fabbricazione di detti materiali e oggetti;
 - c. l’identità dei materiali e degli oggetti, dei prodotti in una fase intermedia della fabbricazione o delle sostanze destinate alla fabbricazione di detti materiali e oggetti;
 - d. la data della dichiarazione;
 - e. la conferma che i materiali e gli oggetti di plastica, i prodotti in una fase intermedia della fabbricazione o le sostanze sopraccitate soddisfano le prescrizioni legali pertinenti;
-- f. informazioni adeguate circa le sostanze impiegate o i prodotti di degradazione per i quali l’allegato 2 stabilisce restrizioni o specifiche, così da consentire alle persone responsabili a valle di rispettare tali restrizioni;
+- f.
+
+  informazioni adeguate circa le sostanze impiegate o i prodotti di degradazione per i quali l’allegato 2 stabilisce restrizioni e/o specifiche, così da consentire alle persone responsabili a valle di rispettare l’ordinanza; nella fase intermedia della fabbricazione queste informazioni comprendono il nome e la quantità delle sostanze contenute nella sostanza intermedia:
+
+  - 1\. per le quali si applicano le restrizioni di cui all’allegato 2, o
+  - 2\. la cui genotossicità non è stata esclusa e che derivano dall’uso previsto in una fase della fabbricazione di tale materiale intermedio e potrebbero essere presenti in una quantità tale da far prevedere una migrazione dal materiale finito superiore allo 0,00015 mg/kg della derrata alimentare o del simulante alimentare;
+
 - g. informazioni adeguate circa le sostanze soggette a restrizioni nelle derrate alimentari, ottenute da dati sperimentali o da calcoli teorici sui rispettivi livelli di migrazione specifica e, allʼoccorrenza, criteri di purezza secondo l’OAdd[^annex3-lvlu1-1], così da consentire agli utilizzatori di detti materiali od oggetti di rispettare le disposizioni pertinenti applicabili alle derrate alimentari;
 - h.
 
@@ -708,11 +778,11 @@ La dichiarazione scritta di cui all’articolo 15 capoverso 2 deve contenere le 
 
 Allegato 4[^t-3]
 
-(art. 15 cpv. 2)
+(art. 15 cpv. 2 e 40*b* cpv. 1)
 
 ## Regole per la valutazione della conformità ai limiti di migrazione dei materiali e degli oggetti in plastica
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 2 dell’O del USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 2 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ### 1 Simulanti alimentari
 
@@ -967,41 +1037,42 @@ Le prove di migrazione globale sono effettuate alle condizioni standardizzate de
 
 ### 2.3.1 Condizioni di prova standardizzate
 
-La prova di migrazione globale per i materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari alle condizioni descritte nella tabella 4 colonna 3 è effettuata per la durata e la temperatura specificate nella colonna 2. La prova OM5 può essere effettuata per 2 ore a 100 °C (simulante D2) o a una temperatura di riflusso (simulanti A, B, C, D1) o per 1 ora a 121 °C. Il simulante alimentare è scelto conformemente al numero 1.
+La prova di migrazione globale per i materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari alle condizioni descritte nella tabella 4, colonna 3 è effettuata per la durata e la temperatura specificate nella colonna 2. La prova OM5 (Overall Migration – Migrazione globale) può essere effettuata per 2 ore a 100 °C (simulante D2) o a una temperatura di riflusso (simulanti A, B, C, D1) o per 1 ora a 121 °C. Il simulante alimentare è scelto conformemente al numero 1.
 
 Qualora si osservi che effettuando le prove nelle condizioni di contatto specificate nella tabella 3 i campioni subiscono cambiamenti fisici o di altra natura che non si verificano nelle peggiori condizioni d’uso prevedibili del materiale o dell’oggetto in esame, è opportuno effettuare le prove di migrazione nelle peggiori condizioni d’uso prevedibili in cui detti cambiamenti fisici o di altra natura non si verificano.
 
-La prova OM7 comprende anche le condizioni di contatto con derrate alimentari descritte per le prove OM1, OM2, OM3, OM4, OM5. Essa corrisponde alle condizioni peggiori per il simulante D2 a contatto con materiali non poliolefinici. In caso sia tecnicamente impossibile svolgere la prova OM7 con il simulante alimentare D2, la prova può essere sostituita come descritto al numero 2.3.2.
+La prova OM7 comprende anche le condizioni di contatto con derrate alimentari descritte per le prove OM0, OM1, OM2, OM3, OM4 e OM5. Corrisponde alle condizioni peggiori per i simulanti grassi a contatto con materiali non poliolefinici. Se è tecnicamente impossibile effettuare la prova OM7 con il simulante D2, essa può essere sostituita con la prova di cui al numero 2.3.2.
 
-La prova OM6 comprende anche le condizioni di contatto con derrate alimentari descritte per le prove OM1, OM2, OM3, OM4 e OM5. Corrisponde alle condizioni peggiori per i simulanti A, B e C a contatto con materiali non poliolefinici.
+La prova OM6 comprende anche le condizioni di contatto con derrate alimentari descritte per le prove OM0, OM1, OM2, OM3, OM4 e OM5. Corrisponde alle condizioni peggiori per i simulanti A, B e C a contatto con materiali non poliolefinici.
 
-La prova OM5 comprende anche le condizioni di contatto con derrate alimentari descritte per le prove OM1, OM2, OM3, OM4. Essa corrisponde alle condizioni peggiori per tutti i simulanti alimentari a contatto con materiali poliolefinici.
+La prova OM5 comprende anche le condizioni di contatto con derrate alimentari descritte per le prove OM0, OM1, OM2, OM3 e OM4. Corrisponde alle condizioni peggiori per tutti i simulanti alimentari a contatto con materiali poliolefinici.
 
 La prova OM2 comprende anche le condizioni di contatto con derrate alimentari descritte per le prove OM1 e OM3.
 
 Tabella 4 Condizioni di prova standardizzate per la migrazione globale
 
 <table>
-<tr><th>N. prova</th><th>Tempo di contatto in giorni [gg] o ore [h] alla temperatura di contatto in [°C]</th><th>Condizioni di contatto previste con le derrate alimentari</th></tr>
-<tr><td>OM1</td><td>10 gg a 20 °C</td><td>Qualunque contatto con la derrata alimentare in condizioni di congelamento e refrigeramento</td></tr>
-<tr><td>OM2</td><td>10 gg a 40 °C</td><td>Qualunque conservazione prolungata a temperatura ambiente o inferiore, compreso quando imballata in condizioni di riempimento a caldo e/o riscaldamento fino a una temperatura T, laddove 70 °C ≤ T ≤ 100 °C per una durata massima t = 120/2^[(T-70)/ 10] minuti.</td></tr>
-<tr><td>OM3</td><td>2 h a 70 °C</td><td>Qualunque condizione di contatto che comprenda il riempimento a caldo e/o il riscaldamento a una temperatura T, laddove 70 °C ≤ T ≤ 100 °C per una durata massima t = 120/2^[(T-70)/10] minuti, cui non segue una conservazione prolungata a temperatura ambiente o allo stato refrigerato.</td></tr>
-<tr><td>OM4</td><td>1 h a 100 °C</td><td>Applicazioni ad alta temperatura per tutti i simulanti alimentari a una temperatura fino a 100 °C.</td></tr>
-<tr><td>OM5</td><td>2 h a 100 °C o alla temperatura di riflusso oppure, in alternativa, 1 h a 121 °C</td><td>Applicazioni ad alta temperatura fino a 121 °C.</td></tr>
+<tr><th>N. prova</th><th>Tempo di contatto in giorni [gg] o ore [h] o minuti [min] alla temperatura di contatto in [°C]</th><th>Condizioni di contatto previste con le derrate alimentari</th></tr>
+<tr><td>OM0</td><td>30 min a 40 °C</td><td>Qualunque contatto con la derrata alimentare a temperatura fredda o ambiente per una breve durata (≤ 30 minuti).</td></tr>
+<tr><td>OM1</td><td>10 gg a 20 °C</td><td>Qualunque contatto con la derrata alimentare in condizioni di congelamento e refrigeramento.</td></tr>
+<tr><td>OM2</td><td>10 gg a 40 °C</td><td>Qualunque conservazione prolungata al massimo alla temperatura ambiente, compreso quando imballata in condizioni di riempimento a caldo e/o riscaldamento fino a una temperatura T, laddove 70 °C ≤ T ≤ 100 °C per una durata massima t = 120/2^[(T–70)/10] minuti.</td></tr>
+<tr><td>OM3</td><td>2 h a 70 °C</td><td>Qualunque condizione di contatto che comprenda il riempimento a caldo e/o il riscaldamento a una temperatura T, laddove 70 °C ≤ T ≤ 100 °C per una durata massima t = 120/2^[(T–70)/10] minuti, cui non segue una conservazione prolungata a temperatura ambiente o allo stato refrigerato.</td></tr>
+<tr><td>OM4</td><td>1 h a 100 °C o alla temperatura di riflusso</td><td>Applicazioni ad alta temperatura per tutti i tipi di derrate alimentari a una temperatura fino a 100 °C.</td></tr>
+<tr><td>OM5</td><td>2 h a 100 °C o alla temperatura di riflusso o in alternativa 1 h a 121 °C</td><td>Applicazioni ad alta temperatura fino a 121 °C.</td></tr>
 <tr><td>OM6</td><td>4 h a 100 °C o alla temperatura di riflusso</td><td>Qualunque condizione di contatto a una temperatura superiore a 40 °C e con derrate alimentari per le quali il numero 1.3 prevede i simulanti A, B, C o D1.</td></tr>
 <tr><td>OM7</td><td>2 h a 175 °C</td><td>Applicazioni ad alta temperatura con derrate alimentari grasse che superano le condizioni di OM5.</td></tr>
 </table>
 
 ### 2.3.2 Prove sostitutive per la prova OM7 con il simulante D2
 
-In caso sia tecnicamente impossibile effettuare una o più prove da OM1 a OM6 con il simulante alimentare D2, le prove di migrazione sono effettuate utilizzando etanolo al 95 % e isottano. È inoltre effettuata una prova supplementare con il simulante alimentare E nel caso in cui le peggiori condizioni d’uso prevedibili superino i 100 °C. La prova avente come risultato la migrazione specifica più elevata è utilizzata per stabilire la conformità alla legislazione.
+Se è tecnicamente impossibile effettuare una o più prove da OM0 a OM6 con il simulante alimentare D2, le prove di migrazione sono effettuate utilizzando etanolo al 95 per cento e isottano. È inoltre effettuata una prova supplementare con il simulante alimentare E nel caso in cui le peggiori condizioni d’uso prevedibili superino i 100 °C. La prova avente come risultato la migrazione più elevata è utilizzata per stabilire la conformità alla legislazione.
 
-In caso sia tecnicamente impossibile effettuare la prova OM7 con il simulante D2, essa può essere sostituita dalle prove OM8 o OM9 in funzione dell’uso previsto o prevedibile. Entrambe le prove comportano condizioni diverse e per ognuna di esse è utilizzato un nuovo campione. Le condizioni di prova che comportano la migrazione globale più elevata sono utilizzate per stabilire la conformità alla legislazione.
+Se è tecnicamente impossibile effettuare la prova OM7 con il simulante D2, può essere scelta come prova sostitutiva la più adatta tra le prove OM8 o OM9 in funzione dell’uso previsto o prevedibile. Infine viene effettuata una prova di migrazione a ciascuna delle due condizioni di prova indicate nella prova selezionata e per ciascuna condizione di prova è usato un nuovo campione. Le condizioni di prova che comportano la migrazione globale più elevata sono utilizzate per stabilire la conformità all’ordinanza.
 
 Tabella 5 Prove sostitutive per la prova OM7 con il simulante D2
 
 <table>
-<tr><td>N. prova</td><td>Condizioni di prova</td><td>Condizioni di contatto previste con le derrate alimentari</td><td>Comprende le condizioni di contatto previste con le derrate alimentari descritte in</td></tr>
+<tr><th>N. prova</th><th>Condizioni di prova</th><th>Condizioni di contatto previste con le derrate alimentari</th><th>Comprende le condizioni di contatto previste con le derrate alimentari descritte in</th></tr>
 <tr><td>OM8</td><td>Simulante E per 2 h a 175 °C e simulante D2 per 2 h a 100 °C</td><td>Solo applicazioni ad alta temperatura</td><td>OM1, OM3, OM4, OM5 e OM6</td></tr>
 <tr><td>OM9</td><td>Simulante E per 2 h a 175 °C e simulante D2 per 10 gg a 40 °C</td><td>Applicazioni ad alta temperatura con conservazione prolungata a temperatura ambiente</td><td>OM1, OM2, OM3, OM4, OM5 e OM6</td></tr>
 </table>
@@ -1010,17 +1081,19 @@ Tabella 5 Prove sostitutive per la prova OM7 con il simulante D2
 
 ### 2.3.3.1 Materiali e oggetti monouso
 
-Al termine del tempo di contatto prescritto, per verificare la conformità è analizzata la migrazione globale nel simulante alimentare secondo un metodo analitico conforme alle prescrizioni di cui all’articolo 11 del regolamento (CE) n. 882/2004[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2331-1].
+Al termine del tempo di contatto prescritto, per verificare la conformità è analizzata la migrazione globale nel simulante alimentare secondo un metodo analitico conforme alle prescrizioni all’articolo 34 del regolamento (UE) 2017/625[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2331-1].
 
-[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2331-1]: Regolamento (CE) n. 882/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo ai controlli ufficiali intesi a verificare la conformità alla normativa in materia di mangimi e di alimenti e alle norme sulla salute e sul benessere degli animali, GU L 165 del 30.4.2004, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) n. 2018/1587, GU L 264 del 23.10.2018, pag. 20.
+[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2331-1]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/249 e (UE) 2016/3031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2021/1756, GU L 357 dell’8.10.2021, pag. 27.
 
 ### 2.3.3.2 Materiali e oggetti a uso ripetuto
 
-La prova di migrazione globale applicabile è effettuata tre volte su un unico campione, utilizzando ogni volta un’altra porzione del simulante alimentare. La migrazione va determinata secondo un metodo analitico conforme alle prescrizioni di cui all’articolo 11 del regolamento (CE) n. 882/2004. La migrazione globale nella seconda prova deve essere inferiore rispetto alla prima prova e la migrazione globale nella terza prova deve essere inferiore rispetto alla seconda prova. La conformità al limite di migrazione globale viene verificata in base al livello della migrazione globale riscontrato nella terza prova.
+La prova di migrazione globale applicabile è effettuata tre volte su un unico campione, utilizzando ogni volta un’altra porzione del simulante alimentare. La migrazione va determinata secondo un metodo analitico conforme alle prescrizioni di cui all’articolo 34 del regolamento (CE) 2017/625[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2332-1]. La migrazione globale nella seconda prova deve essere inferiore rispetto alla prima prova e la migrazione globale nella terza prova deve essere inferiore rispetto alla seconda prova. La conformità al limite di migrazione globale viene verificata in base al livello della migrazione globale riscontrato nella terza prova.
 
-Se è tecnicamente impossibile sottoporre a prova lo stesso campione per tre volte, ad esempio in caso di prove in olio, la prova di migrazione globale può essere effettuata utilizzando campioni diversi per tre diversi periodi di durata corrispondenti a uno, due e tre volte il tempo di contatto applicabile. La differenza tra i risultati della terza e della seconda prova sono considerati rappresentativi della migrazione globale. La conformità è verificata in base a tale differenza, che non deve superare il limite di migrazione globale. Inoltre essa non deve essere superiore al primo risultato e alla differenza tra i risultati della seconda e della prima prova.
+Se è tecnicamente impossibile sottoporre a prova lo stesso campione per tre volte, ad esempio in caso di prove in olio vegetale, la prova di migrazione globale può essere effettuata utilizzando campioni diversi per tre diversi periodi di durata corrispondenti a uno, due e tre volte il tempo di contatto applicabile. La differenza tra i risultati della terza e della seconda prova sono considerati rappresentativi della migrazione globale. La conformità è verificata in base a tale differenza, che non deve superare il limite di migrazione globale. Inoltre la differenza tra i risultati della seconda e della terza prova deve essere inferiore al primo risultato e la differenza tra i risultati della terza e della seconda prova deve essere inferiore alla differenza tra i risultati della seconda e della prima prova.
 
-In deroga al primo paragrafo, se è stabilito, in base a dati scientifici, che per il materiale o l’oggetto sottoposto a prova la migrazione globale non aumenta nella seconda e nella terza prova, e se il limite di migrazione globale non è superato nella prima prova, quest’ultima è sufficiente.
+In deroga al capoverso 1, se è stabilito, in base a dati scientifici, che per il materiale o l’oggetto sottoposto a prova la migrazione globale diminuisce nella seconda e nella terza prova, e se il limite di migrazione globale non è superato nella prima prova, quest’ultima è sufficiente.
+
+[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2332-1]: Vedi nota a piè di pagina all’allegato 4 numero 2.3.3.1.
 
 ### 2.3.4 Metodi di screening
 
@@ -1085,25 +1158,37 @@ In deroga alle condizioni di cui alle tabelle 6 e 7 si applicano le seguenti dis
 - a. qualora si osservi che effettuando le prove nelle condizioni di contatto specificate nelle tabelle 6 e 7 i campioni subiscono cambiamenti fisici o di altra natura che non si verificano nelle peggiori condizioni d’uso prevedibili del materiale o dell’oggetto in esame, si devono effettuare le prove di migrazione nelle peggiori condizioni d’uso prevedibili in cui detti cambiamenti fisici o di altra natura non si verificano;
 - b. se durante l’uso previsto il materiale o l’oggetto è sottoposto solo a condizioni di durata e temperatura controllate con precisione nelle apparecchiature di trasformazione delle derrate alimentari, come componente dell’imballaggio o dell’apparecchiatura stessa, la prova può essere effettuata nelle peggiori condizioni d’uso prevedibili durante la trasformazione della derrata alimentare in tale apparecchiatura;
 - c. se il materiale o l’oggetto è destinato a essere utilizzato solamente in condizioni di riempimento a caldo, è effettuata solo una prova di due ore a 70 °C. Se tuttavia il materiale o l’oggetto è destinato a essere utilizzato anche per la conservazione a temperatura ambiente o inferiore, si applicano, in funzione della durata della conservazione, le condizioni di prova di cui alle tabelle 6 e 7 o di cui al numero 2.4.2.1.4.
+- d.
+
+  se il materiale o l’oggetto di materia plastica destinato a venire a contatto con le derrate alimentari e la cui conformità deve essere verificata diventa, nella sua applicazione finale, parte di un’apparecchiatura o di un macchinario di trasformazione di derrate alimentari, o di una parte di essi, le prove di migrazione possono essere effettuate determinando la migrazione specifica nella derrata o nel simulante alimentare prodotto o trasformato mediante l’intera apparecchiatura o l’intero macchinario, o mediante una parte di essi, a seconda dei casi, alle seguenti condizioni:
+
+  - 1\. durante la prova, la derrata alimentare o il simulante è trasformato mediante l’apparecchiatura, o mediante parte di essa, nelle peggiori condizioni prevedibili che possono verificarsi se l’apparecchiatura, o parte di essa, è utilizzata seguendo le pertinenti istruzioni d’uso,
+  - 2\. la migrazione da parti utilizzate per la conservazione quali serbatoi, contenitori, capsule o cialde, che fanno parte dell’apparecchiatura durante la trasformazione del prodotto alimentare, è determinata in condizioni rappresentative per l’uso di tali parti, salvo qualora le condizioni di prova applicate all’intera apparecchiatura o all’intero macchinario sottoposti a prova siano ugualmente rappresentative per l’uso di tali parti.
+
+- Se le prove di migrazione sono effettuate nelle condizioni di cui sopra e la cessione dei costituenti dall’intera apparecchiatura o dall’intero macchinario non supera i limiti di migrazione, le parti o i materiali di materia plastica presenti nell’apparecchiatura o nel macchinario sono considerati conformi all’articolo 13 capoverso 1.
+- Le prove sulle parti utilizzate per la conservazione o l’erogazione, quali serbatoi, contenitori, capsule o cialde, devono essere effettuate in condizioni rappresentative per l’uso di tali parti e devono tenere conto delle condizioni di conservazione prevedibili della derrata alimentare in tali parti.
+- La documentazione di supporto secondo l’articolo 16 deve attestare con chiarezza se le prove sono state effettuate sull’intera apparecchiatura o sull’intero macchinario di trasformazione e/o produzione di derrate alimentari, o su parti di essi. Inoltre, tale documentazione deve dimostrare che le prove erano rappresentative per il loro uso prevedibile, indicare per quali sostanze sono state effettuate le prove di migrazione e fornire tutti i risultati pertinenti. Il fabbricante delle singole parti di materia plastica deve garantire che non si verificherà alcuna migrazione per le sostanze per le quali il limite di migrazione specifica è fissato come non riscontrabile nell’allegato 2 tabella 1, colonna 8 o nella tabella 2, colonna 4 e per le sostanze non presenti nell’elenco che vengono utilizzate dietro una barriera funzionale in plastica secondo l’articolo 14 capoversi 1 e 2 e non dovrebbero migrare in quantità rilevabili.
+- La documentazione di conformità fornita a norma del presente regolamento al produttore dell’apparecchiatura o del macchinario finito, o di parte di essi, deve elencare tutte le sostanze soggette a limiti di migrazione che potrebbero essere superati nelle condizioni d’uso prevedibili della parte o del materiale forniti.
+- Se il risultato non è conforme alla presente ordinanza occorre determinare, sulla base di prove documentali o di prove analitiche, se la fonte della non conformità sia una parte di materia plastica disciplinata dalla presente ordinanza o una parte di un altro materiale non disciplinata dalla presente ordinanza. Fatti salvi i requisiti generali di sicurezza dei materiali e oggetti in cui all’articolo 49 ODerr sulle derrate alimentari e gli oggetti d’uso, la non conformità al presente regolamento è stabilita unicamente se la migrazione proviene da una parte di materia plastica.
 
 Qualora le condizioni di prova rappresentative per le peggiori condizioni d’uso prevedibili per il materiale o l’oggetto non siano tecnicamente possibili nel simulante alimentare D2, le prove di migrazione vengono effettuate utilizzando etanolo al 95 % e isottano. Inoltre, se nelle peggiori condizioni d’uso prevedibili la temperatura supera i 100 °C, è effettuata una prova di migrazione utilizzando il simulante alimentare E. La prova avente come risultato la migrazione specifica più elevata è utilizzata per stabilire la conformità con la presente ordinanza.
 
 Tabella 6 Selezione della durata della prova
 
 <table>
-<tr><td>Tempo di contatto nelle peggiori condizioni d’uso prevedibili</td><td>Durata da selezionare per la prova</td></tr>
+<tr><th>Tempo di contatto nelle peggiori condizioni d’uso prevedibili</th><th>Durata da selezionare per la prova</th></tr>
 <tr><td>t ≤ 5 min</td><td>5 min</td></tr>
 <tr><td>5 min &lt; t ≤ 0,5 h</td><td>0,5 h</td></tr>
 <tr><td>0,5 h &lt; t ≤ 1 h</td><td>1 h</td></tr>
 <tr><td>1 h &lt; t ≤ 2 h</td><td>2 h</td></tr>
 <tr><td>2 h &lt; t ≤ 6 h</td><td>6 h</td></tr>
 <tr><td>6 h &lt; t ≤ 24 h</td><td>24 h</td></tr>
-<tr><td>1 g &lt; t ≤ 3 gg</td><td>3 gg</td></tr>
+<tr><td>1 gg &lt; t ≤ 3 gg</td><td>3 gg</td></tr>
 <tr><td>3 gg &lt; t ≤ 30 gg</td><td>10 gg</td></tr>
 <tr><td>&gt; 30 gg</td><td>Vedere condizioni specifiche</td></tr>
 </table>
 
-Tabella 7 Selezione della temperatura di contatto
+Tabella 7 Selezione della temperatura di prova
 
 <table>
 <tr><th>Peggior temperatura di contatto prevedibile</th><th>Temperatura di contatto da selezionare per la prova</th></tr>
@@ -1117,7 +1202,8 @@ Tabella 7 Selezione della temperatura di contatto
 <tr><td>130 °C &lt; T ≤ 150 °C</td><td>150 °C (\*)</td></tr>
 <tr><td>150 °C &lt; T ≤ 175 °C</td><td>175 °C (\*)</td></tr>
 <tr><td>175 °C &lt; T ≤ 200 °C</td><td>200 °C (\*)</td></tr>
-<tr><td colspan="2">(\*) Questa temperatura è utilizzata solo per i simulanti D2 e E. Per applicazioni riscaldate sotto pressione può essere effettuata una prova di migrazione sotto pressione alla temperatura adeguata. Per i simulanti A, B, C o D1 la prova può essere sostituita da una prova a 100 °C o alla temperatura di riflusso per una durata corrispondente a quattro volte la durata selezionata secondo le condizioni indicate nella tabella 6.</td></tr>
+<tr><td>T &gt; 200 °C</td><td>225 °C (\*)</td></tr>
+<tr><td colspan="2">(\*) Questa temperatura è utilizzata solo per i simulanti D2 ed E. Per applicazioni riscaldate sotto pressione può essere effettuata una prova di migrazione sotto pressione alla temperatura adeguata. Per i simulanti A, B, C e D1 la prova può essere sostituita da una prova a 100 °C o alla temperatura di riflusso per una durata corrispondente a quattro volte la durata selezionata secondo le condizioni indicate nella tabella 6.</td></tr>
 </table>
 
 ### 2.4.2.1.4Condizioni specifiche per tempi di contatto superiori a 30 giorni a temperatura ambiente o a una temperatura inferiore
@@ -1147,11 +1233,13 @@ Se il materiale o l’oggetto è destinato a un’applicazione a contatto con un
 
 ### 2.4.2.1.6Oggetti ad uso ripetuto
 
-Se il materiale o l’oggetto è destinato a entrare ripetutamente in contatto con le derrate alimentari, la prova (le prove) di migrazione è (sono) effettuata(e) tre volte su un campione singolo utilizzando ogni volta una nuova porzione di simulante alimentare. La verifica di conformità è effettuata sulla base del livello di migrazione riscontrato nella terza prova.
+Se il materiale o l’oggetto è destinato a entrare ripetutamente in contatto con le derrate alimentari, le prove di migrazione sono effettuate tre volte sullo stesso campione singolo utilizzando ogni volta una nuova porzione di simulante alimentare. La migrazione specifica nella seconda prova non deve superare il livello osservato nella prima. La migrazione specifica nella terza prova non deve superare il livello osservato nella seconda.
 
-Tuttavia, in presenza di una prova inconfutabile che il livello di migrazione non aumenta nella seconda e nella terza prova e se nella prima prova non si superano i limiti di migrazione, non sono necessarie altre prove.
+La conformità del materiale o dell’oggetto deve essere verificata in base al livello di migrazione riscontrato nella terza prova e alla stabilità del materiale o dell’oggetto tra la prima prova di migrazione e la terza. La stabilità del materiale deve essere considerata insufficiente se in una qualsiasi delle tre prove di migrazione viene osservata una migrazione superiore al livello di rilevamento e se tale migrazione aumenta tra la prima prova di migrazione e la terza. In caso di stabilità insufficiente, la conformità del materiale non può essere stabilita, nemmeno qualora il limite di migrazione specifica non sia superato in nessuna delle tre prove.
 
-Il materiale o l’oggetto deve rispettare il limite di migrazione specifica già nella prima prova per le sostanze il cui limite di migrazione specifica è indicato come «non rilevabile» nell’allegato 2 tabella 1 colonna 8 o tabella 2 colonna 4 e per le sostanze non comprese negli elenchi utilizzate dietro una barriera funzionale di plastica disciplinate dalle disposizioni di cui all’articolo 14 capoversi 1 e 2, che non dovrebbero migrare in quantità rilevabili.
+Tuttavia, in presenza di una prova scientifica irrefutabile che il livello di migrazione diminuisce nella seconda e nella terza prova e se nella prima prova non vengono superati i limiti di migrazione, non sono necessarie altre prove.
+
+In deroga alle disposizioni di cui sopra, un materiale o un oggetto non può in nessun caso essere considerato conforme alla presente ordinanza se nella prima prova viene rilevata una sostanza per il quale il limite di migrazione specifica è fissato come non riscontrabile nell’allegato 2 tabella 1, colonna 8 o nella tabella 2, colonna 4 oppure che non è elencata nella tabella 1 e viene utilizzata dietro una barriera funzionale in plastica secondo l’articolo 14 capoversi 1 e 2 e non dovrebbe migrare in quantità rilevabili.
 
 ### 2.4.2.1.7Analisi delle sostanze che migrano
 
@@ -1380,11 +1468,13 @@ Spiegazioni relative agli elenchi
 <tr><td>– Toluene</td><td></td><td>Inferiore o uguale a 0,06 mg per dm<sup>2</sup> di vernice sul lato a contatto con le derrate alimentari.</td></tr>
 </table>
 
-Allegato 8
+Allegato 8[^t-4]
 
-(art. 26 cpv. 1)
+(art. 26 cpv. 1 e 2<sup>bis</sup>)
 
 ## Valori limite di rilascio di piombo e di cadmio per i materiali e gli oggetti di ceramica, vetro, smalto e simili
+
+[^t-4]: Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 - 1\. Le parti di materiali e oggetti di ceramica, vetro, smalto e simili che vengono a contatto con derrate alimentari possono rilasciare ad acido acetico al quattro per cento del volume, a una temperatura di 22 °C per una durata di 24 ore, al massimo i seguenti quantitativi (valori limite):
 
@@ -1396,28 +1486,48 @@ Allegato 8
 </table>
 
 - 2\. Se un oggetto si compone di recipiente e coperchio, entrambi sono esaminati alle stesse condizioni. La somma dei due valori di rilascio per il piombo e per il cadmio si riferisce alla superficie (cpv. 1 lett. a) o al volume (cpv. 1 lett. b e c) del solo recipiente. Per la valutazione si applicano i valori limite in mg/dm<sup>2</sup> o in mg/l fissati al capoverso 1 per il recipiente corrispondente.
+- 3\. La misurazione della cessione di piombo e di cadmio e i metodi di analisi da utilizzare si basano sugli allegati I e II della direttiva 84/500/CEE[^annex8-lvlu1-1].
 
-Allegato 9[^t-4]
+[^annex8-lvlu1-1]: Direttiva 84/500CEE del Consiglio, del 15 ottobre 1984, relativa al ravvicinamento delle legislazioni degli Stati membri per quanto riguarda gli oggetti di ceramica destinati ad entrare in contatto con i prodotti alimentari, GU. L 277 del 20.10.1984, pag. 12; modificata da ultimo dalla direttiva 2005/31/CE, GU L 110 del 30.4.2005, pag. 36.
 
-(art. 32 cpv. 1)
+Allegato 8a[^t-5]
+
+(art. 26 cpv. 2<sup>bis</sup>)
+
+## Dichiarazione di conformità dei materiali e degli oggetti di ceramica
+
+[^t-5]: Introdotto dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+
+La dichiarazione di conformità di cui all’articolo 26 capoverso 2<sup>bis</sup> deve contenere le seguenti informazioni:
+
+- a. l’identità e indirizzo dell’impresa che fabbrica l’oggetto di ceramica finito e dell’importatore che lo importa;
+- b. l’identità dell’oggetto di ceramica;
+- c. la data della dichiarazione;
+- d. la conferma che l’oggetto di ceramica soddisfa le prescrizioni legali pertinenti.
+
+La dichiarazione di conformità deve consentire di identificare facilmente i prodotti ai quali si riferisce. Dovrà essere rinnovata ove modifiche significative nella produzione comportino variazioni nella cessione di piombo e di cadmio.
+
+Allegato 9[^t-6]
+
+(art. 32 cpv. 1 e 2)
 
 ## Elenco delle sostanze ammesse nella fabbricazione di materiali e oggetti di silicone e requisiti in merito
 
 [^annex9-lvlu1-1]
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O del USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
-[^annex9-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-6]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^annex9-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 10[^t-5]
+Allegato 10[^t-7]
 
-(art. 35 cpv. 1)
+(art. 35 lett. a e b)
 
-## Elenco delle sostanze ammesse per la fabbricazione degli inchiostri per imballaggi e requisiti in merito
+## Elenco delle sostanze autorizzate per la fabbricazione degli inchiostri per imballaggi e requisiti in merito
 
 [^annex10-lvlu1-1]
 
-[^t-5]: Nuovo testo giusta il n. I cpv. 3 dell’O del USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
-[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-7]: Nuovo testo giusta il n. I cpv. 3 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^annex10-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11
 
@@ -1425,7 +1535,7 @@ Allegato 11
 
 ## Simbolo «Non mangiare»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/it/xml/image/image2.png)
 
 Allegato 12
 
@@ -1433,7 +1543,7 @@ Allegato 12
 
 ## Dichiarazione di conformità per i materiali e oggetti attivi e intelligenti
 
-La dichiarazione scritta di cui all’articolo 39 capoverso 2 deve contenere le seguenti informazioni:
+La dichiarazione di conformità di cui all’articolo 39 capoverso 2 deve contenere le seguenti informazioni:
 
 - a. l’identità e l’indirizzo della persona responsabile che emette la dichiarazione di conformità;
 - b. l’identità e l’indirizzo della persona responsabile che fabbrica o importa i materiali e oggetti attivi e intelligenti, i componenti destinati alla fabbricazione di tali materiali e oggetti o le sostanze destinate alla fabbricazione dei componenti;
@@ -1459,15 +1569,15 @@ La dichiarazione scritta di cui all’articolo 39 capoverso 2 deve contenere le 
 
 - j. in caso di utilizzazione di una barriera funzionale, la conferma che il materiale o l’oggetto attivo o intelligente è conforme all’articolo 37 capoverso 1 lettera c; la migrazione della sostanza nella derrata o nel simulante alimentare non deve essere rilevabile quando è misurata con certezza statistica mediante un metodo di analisi avente un limite di rilevazione di 0,01 mg/kg; questo limite va sempre espresso come concentrazione nelle derrate alimentari o nei simulanti alimentari; si applica a un gruppo di composti, se strutturalmente e tossicologicamente correlati, in particolare isomeri o composti con lo stesso gruppo funzionale, e comprende gli eventuali trasferimenti indesiderati.
 
-La dichiarazione scritta deve consentire di individuare facilmente i materiali e oggetti attivi e intelligenti, i componenti usati per fabbricarli o le sostanze usate per la fabbricazione dei componenti e deve essere rinnovata quando modifiche significative della produzione comportano cambiamenti della migrazione o quando sono disponibili nuovi dati scientifici.
+La dichiarazione di conformità deve consentire di individuare facilmente i materiali e oggetti attivi e intelligenti, i componenti usati per fabbricarli o le sostanze usate per la fabbricazione dei componenti e deve essere rinnovata quando modifiche significative della produzione comportano cambiamenti della migrazione o quando sono disponibili nuovi dati scientifici.
 
-Allegato 13[^t-6]
+Allegato 13[^t-8]
 
 (art. 40*b* cpv. 1)
 
 ## Requisiti particolari per le vernici e i rivestimenti
 
-[^t-6]: Introdotto dal n. II cpv. 1 dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-8]: Introdotto dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ### 1. BADGE, BFDGE e NOGE
 
@@ -1513,17 +1623,13 @@ Allegato 13[^t-6]
 
 [^annex13-lvlu1-lvl2-1]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
-### 3. Vernici e rivestimenti destinati a entrare in contatto con l’acqua potabile
-
-- In deroga ai numeri 1 e 2, le vernici e i rivestimenti destinati a entrare in contatto con l’acqua potabile non devono cedere i loro costituenti in quantità superiori ai valori figuranti nel presente allegato divisi per 20 (LMS<sub>acqua</sub> = LMS<sub>derrate alimentari</sub>/20).
-
-Allegato 14[^t-7]
+Allegato 14[^t-9]
 
 (art. 40*b* cpv. 2)
 
 ## Dichiarazione di conformità per le vernici e i rivestimenti
 
-[^t-7]: Introdotto dal n. II cpv. 1 dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-9]: Introdotto dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 La dichiarazione di conformità di cui all’articolo 40*b* capoverso 2 deve contenere le seguenti informazioni:
 
@@ -1539,3 +1645,30 @@ La dichiarazione di conformità di cui all’articolo 40*b* capoverso 2 deve con
   - 1\. i tipi di derrate alimentari destinate a essere messe a contatto con il materiale o l’oggetto,
   - 2\. la durata e la temperatura di trattamento e conservazione a contatto con le derrate alimentari,
   - 3\. il massimo rapporto tra superficie a contatto con la derrata alimentare e il volume, per il quale è stata accertata la conformità in base ai requisiti legali.
+
+Allegato 15[^t-10]
+
+(art. 35*a* cpv. 2)
+
+## Dichiarazione di conformità per inchiostri per imballaggi
+
+[^t-10]: Introdotto dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+
+La dichiarazione di conformità secondo l’articolo 35*a* capoverso 2 deve contenere le informazioni rilevanti per ogni fase di fabbricazione contenute nel seguente elenco:
+
+- 1\. l’identità e l’indirizzo della persona responsabile che rilascia la dichiarazione di conformità;
+- 2\. l’identità e l’indirizzo della persona responsabile che fabbrica o importa gli strati di inchiostro per imballaggi come componenti di materiali e oggetti, gli inchiostri per imballaggi e le sostanze destinate alla fabbricazione degli inchiostri per imballaggi;
+- 3\. l’identità degli strati di inchiostri per imballaggi come componente di materiali e oggetti, degli inchiostri per imballaggi e delle sostanze destinate alla fabbricazione degli inchiostri per imballaggi;
+- 4\. la data della dichiarazione;
+- 5\. la conferma che gli strati di inchiostro per imballaggi come componente di materiali e oggetti, gli inchiostri per imballaggi e le sostanze destinate alla fabbricazione degli inchiostri per imballaggi soddisfano le prescrizioni legali pertinenti della sezione 12 della presente ordinanza e dell’ODerr;
+- 6\. informazioni adeguate circa le sostanze impiegate o i prodotti di degradazione e di reazione e le impurità, così da consentire alle persone responsabili a valle di rispettare l’ordinanza; queste informazioni includono in particolare la denominazione e la quantità delle sostanze nel materiale della relativa fase intermedia di fabbricazione che possono essere presenti in quantità tali da provocare una migrazione dal materiale finito alla derrata alimentare o al simulante alimentare;
+- 7\. informazioni adeguate circa le sostanze il cui uso nelle derrate alimentari è soggetto a restrizioni specifiche, ottenute da dati sperimentali o da calcoli teorici sui rispettivi livelli di migrazione specifica e, all’occorrenza, speciali criteri di purezza secondo l’OAdd[^annex15-lvlu1-1], così da consentire alle persone che utilizzano l’oggetto d’uso di rispettare le prescrizioni pertinenti per le derrate alimentari;
+- 8\. le specifiche relative all’utilizzazione degli inchiostri per imballaggi, quali:
+- 8\.1. i gruppi di materiali e oggetti sui quali l’inchiostro per imballaggi può essere utilizzato,
+- 8\.2. le derrate alimentari che entrano a contatto con il materiale o l’oggetto stampato:
+- 8\.2.1 i tipi di derrate alimentari con cui può entrare in contatto
+- 8\.2.2 la durata e la temperatura di trattamento e immagazzinamento a contatto con la derrata alimentare
+- 8\.2.3 il rapporto massimo tra il volume e la superficie a contatto con la derrata alimentare, in base al quale è stata verificata la conformità, oppure informazioni equivalenti,
+- 8\.3 le condizioni di utilizzo che devono essere rispettate per il raggiungimento della funzione.
+
+[^annex15-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)

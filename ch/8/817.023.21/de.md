@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: "Verordnung des EDI vom 16. Dezember 2016 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (Bedarfsgegenständeverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: de
-version: 2022-10-15
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20221015-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20221015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20240201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20221015/de"
 
 (Bedarfsgegenständeverordnung)
 
-vom 16. Dezember 2016 (Stand am 15. Oktober 2022)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -35,6 +35,11 @@ verordnet:
 <sup>1</sup> Diese Verordnung umschreibt die Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (Bedarfsgegenstände), und legt die Anforderungen an sie fest.
 
 <sup>2</sup> Nicht als Bedarfsgegenstände gelten Überzugsstoffe für Lebensmittel wie Käse, Fleisch- und Wurstwaren oder Obst, die mit den Lebensmitteln ein Ganzes bilden und mitverzehrt werden können.
+
+<sup>3</sup> Für Trinkwasserkontaktmaterialien gelten die Anforderungen gemäss der Verordnung des EDI vom 16. Dezember 2016[^1-1] über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen.[^1-2]
+
+[^1-1]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^1-2]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 2
 
@@ -131,12 +136,11 @@ Es obliegt der verantwortlichen Person, ein wirksames und dokumentiertes Qualit�
 
 <sup>1</sup> Bedarfsgegenstände aus Metall oder Metalllegierungen einschliesslich derjenigen, die mit Überzügen versehen sind, dürfen höchstens 0,05 Massenprozent Blei, 0,01 Massenprozent Cadmium und 0,03 Massenprozent Arsen aufweisen.
 
-<sup>1bis</sup> Abweichend von Absatz 1 ist die Verwendung von Bedarfsgegenständen aus Metall oder Metalllegierungen, die zum Kontakt mit Trinkwasser bestimmt sind und deren Gehalt an Blei, Cadmium und Arsen nicht mit dem vorgesehenen Grenzwert übereinstimmt, zulässig, wenn bei der Migration dieser Elemente ins Wasser die Werte gemäss Anhang 2 der Verordnung des EDI vom 16. Dezember 2016[^8-1] über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen eingehalten werden.[^8-2]
+<sup>1bis</sup> …[^8-1]
 
 <sup>2</sup> Bei verzinnten, vernickelten, verchromten, versilberten, vergoldeten oder mit andern Metallen überzogenen Bedarfsgegenständen muss der Überzug stets in gutem Zustand sein.
 
-[^8-1]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
-[^8-2]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^8-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 9
 
@@ -182,12 +186,12 @@ Es gelten folgende Begriffsbestimmungen:
 
 <sup>2</sup>
 
-In Abweichung von Absatz 1 dürfen die nachstehenden, in Anhang 2 nicht aufgeführten Stoffe zur Herstellung von Bedarfsgegenständen aus Kunststoff verwendet werden, wenn diese Verwendung die Gesundheit der Konsumentinnen und Konsumenten nicht gefährdet:
+In Abweichung von Absatz 1 dürfen die nachstehenden, in Anhang 2 nicht aufgeführten Stoffe zur Herstellung von Bedarfsgegenständen aus Kunststoff verwendet werden, wenn diese die Gesundheit der Konsumentinnen und Konsumenten nicht gefährden:[^11-1]
 
 - a. Polymerisationshilfsmittel;
 - b. Farbstoffe;
 - c. Lösungsmittel;
-- d.[^11-1] zugelassene Salze des Aluminiums, Ammoniums, Bariums, Eisens, Kalium, Kalziums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und Zinks der zulässigen Säuren, Phenole oder Alkohole;
+- d.[^11-2] alle Salze der Stoffe, für die in Anhang 2 Tabelle 4 Spalte 2 «ja» angegeben ist, aus zulässigen Säuren, Phenolen oder Alkoholen, vorbehältlich der Beschränkungen in Tabelle 4 Spalten 3 und 4;
 - e. Mischungen, die durch Mischung zugelassener Stoffe ohne chemische Reaktion der Bestandteile gewonnen wurden;
 - f. bei Verwendung als Additive: natürliche oder synthetische polymere Stoffe mit einem Molekulargewicht von mindestens 1000 Da (ausgenommen durch mikrobielle Fermentation gewonnene Makromoleküle), die den Anforderungen dieses Abschnitts entsprechen, sofern sie den Hauptstrukturbestandteil von fertigen Bedarfsgegenständen bilden können;
 - g. bei Verwendung als Monomer oder anderer Ausgangsstoff: Vorpolymerisate und natürliche oder synthetische makromolekulare Stoffe sowie deren Mischungen (ausgenommen durch mikrobielle Fermentation gewonnene Makromoleküle), sofern die Monomere oder Ausgangsstoffe, die zu ihrer Synthese erforderlich sind, in den Listen in Anhang 2 aufgeführt sind;
@@ -197,7 +201,8 @@ In Abweichung von Absatz 1 dürfen die nachstehenden, in Anhang 2 nicht aufgefü
 
 <sup>4</sup> Bewusst in Nanoform hergestellte Stoffe dürfen nur verwendet werden, wenn sie gemäss Anhang 2 zugelassen sind.
 
-[^11-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^11-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^11-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 12
 
@@ -252,11 +257,14 @@ Die in Absatz 1 Buchstabe b genannten Stoffe dürfen nicht zu einer der folgende
 
 **Konformitätserklärung**
 
-<sup>1</sup> Für Bedarfsgegenstände aus Kunststoff, für die Produkte aus Zwischenstufen ihrer Herstellung sowie für die zur Herstellung dieser Bedarfsgegenstände bestimmten Stoffe ist eine schriftliche Erklärung zur Verfügung zu stellen. Eine solche Erklärung ist nicht erforderlich für die Abgabe an die Konsumentinnen und Konsumenten.
+<sup>1</sup> Für Bedarfsgegenstände aus Kunststoff, für die Produkte aus Zwischenstufen ihrer Herstellung sowie für die zur Herstellung dieser Bedarfsgegenstände bestimmten Stoffe ist eine schriftliche Erklärung zur Bestätigung der Konformität (Konformitätserklärung) zur Verfügung zu stellen. Eine Konformitätserklärung ist nicht erforderlich für die Abgabe an die Konsumentinnen und Konsumenten.[^15-1]
 
-<sup>2</sup> Die in Absatz 1 genannte schriftliche Erklärung muss von der verantwortlichen Person ausgestellt werden. Sie enthält die Angaben nach Anhang 3. Bei den gemäss den Vorschriften von Anhang 4 auf ihre Konformität geprüften Bedarfsgegenständen wird davon ausgegangen, dass sie den Konformitätsanforderungen in Bezug auf die Migrationsgrenzen entsprechen.
+<sup>2</sup> Die in Absatz 1 genannte Konformitätserklärung[^15-2] muss von der verantwortlichen Person ausgestellt werden. Sie enthält die Angaben nach Anhang 3. Bei den gemäss den Vorschriften von Anhang 4 auf ihre Konformität geprüften Bedarfsgegenständen wird davon ausgegangen, dass sie den Konformitätsanforderungen in Bezug auf die Migrationsgrenzen entsprechen.
 
-<sup>3</sup> Die schriftliche Erklärung muss die leichte Identifizierung der Bedarfsgegenstände, der Produkte aus Zwischenstufen der Herstellung oder der Stoffe ermöglichen, für die sie ausgestellt ist. Sie muss erneuert werden, wenn wesentliche Änderungen in der Zusammensetzung oder der Produktion vorgenommen werden, die zu Veränderungen bei der Migration aus den Bedarfsgegenständen führen, oder wenn neue wissenschaftliche Erkenntnisse vorliegen.
+<sup>3</sup> Die Konformitätserklärung muss die leichte Identifizierung der Bedarfsgegenstände, der Produkte aus Zwischenstufen der Herstellung oder der Stoffe ermöglichen, für die sie ausgestellt ist. Sie muss erneuert werden, wenn wesentliche Änderungen in der Zusammensetzung oder der Produktion vorgenommen werden, die zu Veränderungen bei der Migration aus den Bedarfsgegenständen führen, oder wenn neue wissenschaftliche Erkenntnisse vorliegen.
+
+[^15-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^15-2]: Ausdruck eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 16
 
@@ -264,7 +272,15 @@ Die in Absatz 1 Buchstabe b genannten Stoffe dürfen nicht zu einer der folgende
 
 <sup>1</sup> Die verantwortliche Person stellt den zuständigen Behörden auf Nachfrage geeignete Unterlagen zur Verfügung, mit deren Hilfe sie nachweist, dass die Bedarfsgegenstände, die Produkte aus Zwischenstufen ihrer Herstellung sowie die für die Herstellung dieser Bedarfsgegenstände bestimmten Stoffe den Anforderungen dieses Abschnitts entsprechen.
 
-<sup>2</sup> Diese Unterlagen umfassen u. a. eine Beschreibung der Bedingungen und der Ergebnisse von Prüfungen, Berechnungen, einschliesslich Modellberechnungen, und sonstiger Analysen sowie Unbedenklichkeitsnachweise oder eine die Konformität belegende Begründung.
+<sup>2</sup>
+
+Diese Unterlagen umfassen insbesondere:
+
+- a. eine Beschreibung der Bedingungen und der Ergebnisse von Prüfungen;
+- b. Berechnungen, einschliesslich Modellberechnungen, und sonstiger Analysen;
+- c. Unbedenklichkeitsnachweise oder eine die Konformität belegende Begründung.[^16-1]
+
+[^16-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## 6. Abschnitt: Bedarfsgegenstände aus recyceltem Kunststoff
 
@@ -317,21 +333,22 @@ Die Entscheidung über die Zulassung umfasst folgende Angaben:
 
 #### Art. 20
 
-**Konformitätserklärung und Dokumentation**
+**Konformitätserklärung und Dokumentation**[^20-1]
 
 Neben den in Artikel 15 geforderten Angaben enthält die Konformitätserklärung folgende Angaben:
 
 - a.
 
-  für recycelten Kunststoff:
+  für recycelten Kunststoff: eine Erklärung, dass:
 
-  - 1\. gegebenenfalls eine Erklärung, dass das Recyclingverfahren zugelassen wurde, sei es vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), mit Angabe der Bewilligungsnummer, oder von der Europäischen Kommission, mit Angabe der Nummer im *Gemeinschaftsregister der zugelassenen Recyclingverfahren* im Sinne von Artikel 9 Absatz 1 der Verordnung (EG) Nr. 282/2008[^20-1],
-  - 2\. gegebenenfalls eine Erklärung, dass das Kunststoff-Ausgangsmaterial, das Recyclingverfahren und der recycelte Kunststoff den Spezifikationen entsprechen, für die die Zulassung erteilt wurde,
-  - 3\. eine Erklärung, dass ein Qualitätssicherungssystem gemäss dem 3. Abschnitt und den detaillierten Vorschriften in Anhang 5 eingerichtet wurde;
+  - 1\. das Recyclingverfahren vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) mit Angabe der Bewilligungsnummer zugelassen wurde oder der Kunststoff nach der Verordnung (EU) 2022/1616[^20-2] in Verkehr gebracht werden kann,
+  - 2\. das Kunststoff-Ausgangsmaterial, das Recyclingverfahren und der recycelte Kunststoff den Spezifikationen entsprechen, für die die Zulassung erteilt wurde,
+  - 3\. ein Qualitätssicherungssystem gemäss dem 3. Abschnitt und den detaillierten Vorschriften in Anhang 5 eingerichtet wurde;
 
-- b. für Bedarfsgegenstände aus recyceltem Kunststoff: gegebenenfalls eine Erklärung, dass das Recyclingverfahren zugelassen wurde, sei es vom BLV, mit Angabe der Bewilligungsnummer, oder von der Europäischen Kommission, mit Angabe der Nummer im *Gemeinschaftsregister der zugelassenen Recyclingverfahren* im Sinne von Artikel 9 Absatz 1 der Verordnung (EG) Nr. 282/2008.
+- b. für Bedarfsgegenstände aus recyceltem Kunststoff: eine Erklärung, dass das Recyclingverfahren vom BLV mit Angabe der Bewilligungsnummer zugelassen wurde oder die Bedarfsgegenstände nach der Verordnung (EU) 2022/1616 in Verkehr gebracht werden können.
 
-[^20-1]: Verordnung (EG) Nr. 282/2008 der Kommission vom 27. März 2008 über Materialien und Gegenstände aus recyceltem Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung (EG) Nr. 2023/2006, ABl. L 86 vom 28.03.2008, S. 9; zuletzt geändert durch die Verordnung (EG) Nr. 2016/1906, ABl. L 278 vom 23.10.2015, S. 11.
+[^20-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^20-2]: Verordnung (EU) 2022/1616 der Kommission vom 15. September 2022 über Materialien und Gegenstände aus recyceltem Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Aufhebung der Verordnung (EG) Nr. 282/2008, Fassung gemäss ABl. L 243 vom 20.9.2022, S. 3.
 
 ## 7. Abschnitt: Bedarfsgegenstände aus Zellglasfolien
 
@@ -377,7 +394,7 @@ Die bedruckte Seite der Zellglasfolie darf nicht mit Lebensmitteln in Berührung
 
 **Konformitätserklärung**
 
-<sup>1</sup> Bedarfsgegenständen aus Zellglasfolie muss auf allen Vermarktungsstufen, ausser im Einzelhandel, eine schriftliche Erklärung beigefügt sein, wonach sie den für sie geltenden Vorschriften entsprechen.
+<sup>1</sup> Bedarfsgegenständen aus Zellglasfolie muss auf allen Vermarktungsstufen, ausser im Einzelhandel, eine Konformitätserklärung beigefügt sein, wonach sie den für sie geltenden Vorschriften entsprechen.
 
 <sup>2</sup> Absatz 1 gilt nicht für Bedarfsgegenstände aus Zellglasfolie, die aufgrund ihrer Beschaffenheit eindeutig dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen.
 
@@ -389,9 +406,15 @@ Die bedruckte Seite der Zellglasfolie darf nicht mit Lebensmitteln in Berührung
 
 <sup>1</sup> Die Teile von Bedarfsgegenständen aus Keramik, Glas, Email und ähnlichen Materialien, die mit Lebensmitteln in Berührung kommen, dürfen Blei und Cadmium höchstens in den in Anhang 8 festgelegten Mengen an Lebensmittel abgeben.
 
-<sup>2</sup> Bedarfsgegenständen aus Keramik, die noch nicht mit Lebensmitteln in Berührung gekommen sind, muss auf allen Vermarktungsstufen, ausser im Einzelhandel, eine schriftliche Erklärung beigefügt sein, dass sie den geltenden Vorschriften entsprechen.[^26-1]
+<sup>2</sup> Bedarfsgegenständen aus Keramik, die noch nicht mit Lebensmitteln in Berührung gekommen sind, muss auf allen Vermarktungsstufen eine Konformitätserklärung beigefügt sein, dass sie den geltenden Vorschriften entsprechen.[^26-1]
 
-[^26-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+<sup>2bis</sup> Die Konformitätserklärung muss von der verantwortlichen Person ausgestellt werden und die Angaben nach Anhang 8*a* enthalten. Bei den gemäss den Vorschriften von Anhang 8 auf ihre Konformität geprüften Bedarfsgegenständen aus Keramik wird davon ausgegangen, dass sie den Konformitätsanforderungen in Bezug auf die Grenzwerte für Blei und Cadmium entsprechen.[^26-2]
+
+<sup>3</sup> Die verantwortliche Person stellt den Vollzugsbehörden auf Nachfrage geeignete Unterlagen zur Verfügung, aus denen die Ergebnisse der durchgeführten Analyse, die Testbedingungen sowie Name und Anschrift des Laboratoriums, das die Analyse durchgeführt hat, ersichtlich sind.[^26-3]
+
+[^26-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^26-2]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^26-3]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## 9. Abschnitt: Bedarfsgegenstände aus Papier und Karton
 
@@ -458,9 +481,9 @@ Silikone (Polysiloxane) sind makromolekulare Polymere, die durch Si-O- und Si-C-
 
 <sup>1</sup> Bedarfsgegenstände aus Silikon dürfen nur aus den in den Anhängen 2 und 9 aufgeführten Stoffen und unter Einhaltung der dort genannten Voraussetzungen hergestellt werden.
 
-<sup>2</sup> Ebenfalls zulässig sind die Salze des Aluminiums, Ammoniums, Bariums, Eisens, Kaliums, Kalziums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und Zinks der zulässigen Säuren, Phenole oder Alkohole.[^32-1]
+<sup>2</sup> Ebenfalls zulässig sind alle Salze der Stoffe, für die in Anhang 9 Tabelle 2 Spalte 2 «ja» angegeben ist, aus zulässigen Säuren, Phenolen oder Alkoholen, vorbehältlich der Beschränkungen in Tabelle 2 Spalten 3 und 4.[^32-1]
 
-[^32-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^32-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## 12. Abschnitt: Druckfarben
 
@@ -490,13 +513,44 @@ Sie gelten nicht, wenn:
 
 #### Art. 35
 
-**Zulässige Stoffe**
+**Zulässige Stoffe**[^35-1]
 
-<sup>1</sup> Druckfarben dürfen nur aus den in den Anhängen 2 und 10 aufgeführten Stoffen unter Einhaltung der dort genannten Voraussetzungen hergestellt werden.
+Für die Herstellung von Druckfarben dürfen ausschliesslich verwendet werden:
 
-<sup>2</sup> Ebenfalls zulässig sind die Salze des Aluminiums, Ammoniums, Bariums, Eisens, Kaliums, Kalziums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und Zinks der zulässigen Säuren, Phenole oder Alkohole.[^35-1]
+- a. alle in den Anhängen 2 und 10 aufgeführten Stoffe unter Einhaltung der dort genannten Voraussetzungen;
+- b. alle Salze der Stoffe, für die in Anhang 10 Tabelle 3 Spalte 2 «ja» angegeben ist, aus zulässigen Säuren, Phenolen oder Alkoholen, vorbehältlich der Beschränkungen in den Spalten 3 und 4 von Tabelle 3;
+- c. sonstige Stoffe, deren Migration in ein Lebensmittel oder ein Lebensmittelsimulanz nicht nachweisbar ist und die gemäss Anhang 2 Ziffer 1 ChemV[^35-2] nicht als «erbgutverändernd», «krebserregend» oder «fortpflanzungsgefährdend» (CMR-Stoffe) der Kategorien 1A, 1B oder 2 eingestuft werden; sofern nicht spezifische Nachweisgrenzen für bestimmte Stoffe oder Stoffgruppen festgelegt sind, gilt eine Nachweisgrenze von 0,01 mg/kg.
 
-[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^35-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
+#### Art. 35a
+
+**Konformitätserklärung**[^35a-1]
+
+<sup>1</sup> Auf allen Vermarktungsstufen, ausser im Detailhandel, ist für Druckfarbenschichten als Bestandteil eines Bedarfsgegenstandes, für Druckfarben und der für die Herstellung der Druckfarben bestimmten Stoffe eine Konformitätserklärung beizufügen.
+
+<sup>2</sup> Die Konformitätserklärung muss von der verantwortlichen Person ausgestellt werden und die in Anhang 15 festgelegten Angaben enthalten.
+
+<sup>3</sup> Sie muss eine einfache Identifizierung der Druckfarbenschichten als Bestandteil eines Bedarfsgegenstandes, der Druckfarben sowie der für die Herstellung der Druckfarben bestimmten Stoffe ermöglichen, auf die sie sich bezieht. Sie muss erneuert werden, wenn wesentliche Änderungen in der Zusammensetzung oder der Produktion vorgenommen werden, die zu Veränderungen bei der Migration aus den Bedarfsgegenständen führen, oder wenn neue wissenschaftliche Erkenntnisse vorliegen.
+
+[^35a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+
+#### Art. 35b
+
+**Unterlagen für das Ausstellen der Konformitätserklärung**[^35b-1]
+
+<sup>1</sup> Die verantwortliche Person stellt den Vollzugsbehörden auf Nachfrage geeignete Unterlagen zur Verfügung, aus denen ersichtlich ist, dass die Druckfarbenschichten als Bestandteil eines Bedarfsgegenstandes, die Druckfarben sowie die für die Herstellung der Druckfarben bestimmten Stoffe den Anforderungen dieses Abschnitts entsprechen.
+
+<sup>2</sup>
+
+Diese Unterlagen umfassen insbesondere:
+
+- a. eine Beschreibung der Bedingungen und der Ergebnisse von Prüfungen;
+- b. Berechnungen, einschliesslich Modellberechnungen und sonstiger Analysen;
+- c. Unbedenklichkeitsnachweise oder eine die Konformität belegende Begründung.
+
+[^35b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## 13. Abschnitt: Aktive und intelligente Bedarfsgegenstände
 
@@ -526,14 +580,15 @@ Nur die folgenden Stoffe dürfen in Bestandteilen aktiver und intelligenter Mate
 
   Stoffe, die in Bestandteilen verwendet werden, die nicht unmittelbar mit Lebensmitteln oder mit der das Lebensmittel umgebenden Umwelt in Berührung kommen und die von dem Lebensmittel durch eine funktionelle Barriere getrennt sind, sofern ihre Migration nicht nachweisbar ist und sie nicht zu einer der folgenden Kategorien gehören:
 
-  - 1\. Stoffe, die gemäss Anhang 2 Ziffer 1 ChemV[^37-1] als «erbgutverändernd», «krebserregend» oder «fortpflanzungsgefährdend» (CMR-Stoffe) der Kategorien 1A, 1B oder 2 eingestuft werden,
+  - 1\.[^37-1] Stoffe, die gemäss Anhang 2 Ziffer 1 ChemV[^37-2] als «erbgutverändernd», «krebserregend» oder «fortpflanzungsgefährdend» (CMR-Stoffe) der Kategorien 1A, 1B oder 2 eingestuft werden,
   - 2\. bewusst in Nanoform hergestellte Stoffe.
 
 <sup>2</sup> Aktive Bedarfsgegenstände dürfen die Zusammensetzung oder die organoleptischen Eigenschaften der Lebensmittel nur so verändern, dass das Lebensmittel weiterhin der Lebensmittelgesetzgebung entspricht.
 
 <sup>3</sup> In den Fällen, für die in einem bestimmten Abschnitt ein Gesamtmigrationsgrenzwert für das Lebensmittelkontaktmaterial vorgesehen ist, in das der Bestandteil integriert wurde, wird die Menge eines freigesetzten aktiven Stoffes nicht in den Wert der gemessenen Gesamtmigration eingerechnet.
 
-[^37-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^37-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^37-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 38
 
@@ -558,9 +613,9 @@ Damit die Konsumentinnen und Konsumenten nicht essbare Teile erkennen können, s
 
 **Konformitätserklärung**
 
-<sup>1</sup> Auf allen Vermarktungsstufen ausser im Detailhandel ist den aktiven und intelligenten Bedarfsgegenständen unabhängig davon, ob sie mit Lebensmitteln in Berührung kommen, den für die Herstellung dieser Bedarfsgegenstände bestimmten Bestandteilen oder den für die Herstellung dieser Bestandteile bestimmten Stoffen eine schriftliche Erklärung beizufügen.
+<sup>1</sup> Auf allen Vermarktungsstufen ausser im Detailhandel ist den aktiven und intelligenten Bedarfsgegenständen unabhängig davon, ob sie mit Lebensmitteln in Berührung kommen, den für die Herstellung dieser Bedarfsgegenstände bestimmten Bestandteilen oder den für die Herstellung dieser Bestandteile bestimmten Stoffen eine Konformitätserklärung beizufügen.
 
-<sup>2</sup> Die in Absatz 1 genannte Erklärung muss von der verantwortlichen Person ausgestellt werden und die in Anhang 12 festgelegten Angaben enthalten.
+<sup>2</sup> Die in Absatz 1 genannte Konformitätserklärung muss von der verantwortlichen Person ausgestellt werden und die in Anhang 12 festgelegten Angaben enthalten.
 
 #### Art. 40
 
@@ -588,7 +643,7 @@ Lacke und Beschichtungen sind hauptsächlich aus organischem Material hergestell
 
 <sup>1</sup> Für Lacke und Beschichtungen gelten die Anforderungen nach Anhang 13. Sie werden nach den Bestimmungen von Anhang 4 bewertet.
 
-<sup>2</sup> Lackierten oder beschichteten Bedarfsgegenständen muss auf allen Vermarktungsstufen, ausser im Einzelhandel, eine schriftliche Erklärung beigefügt sein, welche die Angaben nach Anhang 14 umfasst.
+<sup>2</sup> Lackierten oder beschichteten Bedarfsgegenständen muss auf allen Vermarktungsstufen, ausser im Einzelhandel, eine Konformitätserklärung beigefügt sein, welche die Angaben nach Anhang 14 umfasst.
 
 <sup>3</sup> Die Konformitätserklärung muss erneuert werden, wenn sich am Umfang der Migration aus dem Lack oder der Beschichtung, der bzw. die auf die Bedarfsgegenstände aufgetragen wurde, etwas ändert.
 
@@ -623,7 +678,7 @@ Meldungen von neuen Stoffen ist ein Dossier beizulegen, das insbesondere folgend
 
 Die Verordnung des EDI vom 23. November 2005[^42-1] über Bedarfsgegenstände wird aufgehoben.
 
-[^42-1]: [[AS 2005 6363](https://fedlex.data.admin.ch/eli/oc/2005/809), [2006 4989](https://fedlex.data.admin.ch/eli/oc/2006/777), [2008 1061](https://fedlex.data.admin.ch/eli/oc/2008/207)[6047](https://fedlex.data.admin.ch/eli/oc/2008/840), [2010 977](https://fedlex.data.admin.ch/eli/oc/2010/159), [2013 899](https://fedlex.data.admin.ch/eli/oc/2013/181)]
+[^42-1]: [[AS 2005 6363](https://fedlex.data.admin.ch/eli/oc/2005/809); [2006 4989](https://fedlex.data.admin.ch/eli/oc/2006/777); [2008 1061](https://fedlex.data.admin.ch/eli/oc/2008/207), [6047](https://fedlex.data.admin.ch/eli/oc/2008/840);[2010 977](https://fedlex.data.admin.ch/eli/oc/2010/159); [2013 899](https://fedlex.data.admin.ch/eli/oc/2013/181)]
 
 #### Art. 43
 
@@ -652,6 +707,16 @@ Folgende Bewilligungen gemäss Artikel 10 der Verordnung des EDI vom 23. Novembe
 
 [^43a-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
+#### Art. 43b
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^43b-1]
+
+<sup>1</sup> Bedarfsgegenstände, die den Anforderungen von Artikel 35–35*b* und Anhang 15 der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2026 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und an die Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>2</sup> Bedarfsgegenstände, die den übrigen Anforderungen der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen nach bisherigem Recht noch bis zum zum 31. Januar 2025 eingeführt, hergestellt und gekennzeichnet werden. Sie dürfen noch bis zum Abbau der Bestände an die Konsumentinnen und Konsumenten abgegeben werden.
+
+[^43b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+
 #### Art. 44
 
 **Inkrafttreten**
@@ -664,18 +729,18 @@ Anhang 1
 
 ## Symbol zur Bezeichnung des Verwendungszwecks entsprechend gekennzeichneter Bedarfsgegenstände
 
-## ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/de/xml/image/image1.png)
+## ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/de/xml/image/image1.png)
 
 Anhang 2[^t-1]
 
-(Art. 11 Abs. 1, 2 Bst. g und 4, 13 Abs. 1, 14 Abs. 1 Bst. b, 24 Abs. 3, 32 Abs. 1, 35 Abs. 1 und 43 Abs. 3)
+(Art. 11 Abs. 1, 2 Bst. d und g sowie 4, 13 Abs. 1 sowie 2 Bst. a und b, 14 Abs. 1 Bst. b, 24 Abs. 3, 32 Abs. 1, 35 Bst. a und 43 Abs. 3)
 
 ## Liste der zulässigen Stoffe für die Herstellung von Kunststoffschichten für Bedarfsgegenstände aus Kunststoff und Anforderungen an diese Stoffe
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 3 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)) und Ziff. I Abs. 1 der V des BVL vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
-[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 
@@ -683,16 +748,22 @@ Anhang 3[^t-2]
 
 ## Konformitätserklärung für Bedarfsgegenstände aus Kunststoff
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 3 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 3 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
-Die in Artikel 15 Absatz 2 genannte schriftliche Erklärung enthält folgende Angaben:
+Die in Artikel 15 Absatz 2 genannte Konformitätserklärung enthält folgende Angaben:
 
 - a. Identität und Adresse der verantwortlichen Person, die die Konformitätserklärung ausstellt;
 - b. Identität und Adresse der verantwortlichen Person, die die Bedarfsgegenstände aus Kunststoff, die Produkte aus Zwischenstufen ihrer Herstellung oder die Stoffe, die zur Herstellung dieser Bedarfsgegenstände bestimmt sind, herstellt oder einführt;
 - c. Identität der Bedarfsgegenstände, der Produkte aus Zwischenstufen der Herstellung oder der Stoffe, die zur Herstellung dieser Bedarfsgegenstände bestimmt sind;
 - d. Datum der Erklärung;
 - e. Bestätigung, dass die Bedarfsgegenstände aus Kunststoff, die Produkte aus Zwischenstufen der Herstellung oder die Stoffe den einschlägigen Gesetzesvorschriften entsprechen;
-- f. ausreichende Informationen zu den verwendeten Stoffen oder deren Abbauprodukten, für die Anhang 2 Beschränkungen oder Spezifikationen enthält, damit auch die nachgelagerten verantwortlichen Personen die Einhaltung dieser Beschränkungen sicherstellen können;
+- f.
+
+  ausreichende Informationen zu den verwendeten Stoffen oder deren Abbauprodukten, für die Anhang 2 Beschränkungen und/oder Spezifikationen enthält, damit auch die nachgelagerten Unternehmerinnen oder Unternehmer die Einhaltung der Verordnung sicherstellen; auf der Ebene von Zwischenstufen der Herstellung umfassen diese Angaben die Benennung und die Menge der Stoffe im Zwischenmaterial:
+
+  - 1\. für welche die Beschränkungen gemäss Anhang 2 gelten, oder
+  - 2\. deren Genotoxizität nicht ausgeschlossen worden ist und die aus der beabsichtigten Verwendung auf einer Herstellungsstufe dieses Zwischenmaterials herrühren und die in einer Menge vorhanden sein könnten, bei der eine Migration aus dem fertigen Material von mehr als 0,00015 mg/kg Lebensmittel oder Lebensmittelsimulanz zu erwarten ist;
+
 - g. ausreichende Informationen über die Stoffe, deren Verwendung in Lebensmitteln einer Einschränkung unterliegt, gewonnen aus Versuchsdaten oder theoretischen Berechnungen über deren spezifische Migrationswerte, sowie gegebenenfalls über Reinheitskriterien gemäss der ZuV[^annex3-lvlu1-1], damit der Anwender oder die Anwenderin dieser Bedarfsgegenstände die einschlägigen Vorschriften für Lebensmittel einhalten kann;
 - h.
 
@@ -708,11 +779,11 @@ Die in Artikel 15 Absatz 2 genannte schriftliche Erklärung enthält folgende An
 
 Anhang 4[^t-3]
 
-(Art. 15 Abs. 2)
+(Art. 15 Abs. 2 und 40*b* Abs. 1)
 
 ## Bestimmungen über die Bewertung der Einhaltung der Migrationsgrenzwerte bei Bedarfsgegenständen aus Kunststoff
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 2 der V des BVL vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 2 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ### 1 Lebensmittelsimulanzien
 
@@ -968,60 +1039,63 @@ Die Prüfung auf Gesamtmigration ist unter den in diesem Kapitel festgelegten St
 
 ### 2.3.1 Standardprüfungsbedingungen
 
-Die Prüfung auf Gesamtmigration von Bedarfsgegenständen, die für die in Tabelle 4 Spalte 3 beschriebenen Lebensmittelkontaktbedingungen vorgesehen sind, wird für die Dauer und bei der Temperatur durchgeführt, die in Spalte 2 festgelegt sind. Die Prüfung OM 5 kann entweder 2 Stunden lang bei 100 °C (Lebensmittelsimulans D2) oder bei Rückfluss (Lebensmittelsimulanzien A, B, C, D1) oder 1 Stunde lang bei 121 °C durchgeführt werden. Das Lebensmittelsimulans ist gemäss Ziffer 1 auszuwählen.
+Die Prüfung auf Gesamtmigration von Bedarfsgegenständen, die für die in Tabelle 4 Spalte 3 beschriebenen Lebensmittelkontaktbedingungen vorgesehen sind, wird für die Dauer und bei der Temperatur durchgeführt, die in Spalte 2 festgelegt sind. Die Prüfung OM 5 (Overall Migration – Gesamtmigration) kann entweder 2 Stunden lang bei 100 °C (Lebensmittelsimulanz D2) oder bei Rückfluss (Lebensmittelsimulanzien A, B, C, D1) oder 1 Stunde lang bei 121 °C durchgeführt werden. Das Lebensmittelsimulanz ist gemäss Ziffer 1 auszuwählen.
 
 Wird festgestellt, dass die Durchführung der Prüfungen unter den Kontaktbedingungen in Tabelle 3 physikalische oder sonstige Veränderungen im Probeexemplar verursacht, die unter den ungünstigsten vorhersehbaren Bedingungen für die Verwendung des zu prüfenden Bedarfsgegenstands nicht auftreten, so sind die Migrationsprüfungen unter den ungünstigsten vorhersehbaren Verwendungsbedingungen durchzuführen, unter denen diese physikalischen oder sonstigen Veränderungen nicht auftreten.
 
-Unter die Prüfung OM 7 fallen auch die für OM 1, OM 2, OM 3, OM 4 und OM 5 beschriebenen Lebensmittelkontaktbedingungen. Sie stellt die ungünstigsten Bedingungen für das Lebensmittelsimulans D2 in Berührung mit Nichtpolyolefinen dar. Ist es technisch nicht möglich, OM 7 mit dem Lebensmittelsimulans D2 durchzuführen, so kann die Prüfung gemäss Ziffer 2.3.2 ersetzt werden.
+Unter die Prüfung OM 7 fallen auch die für OM 0, OM 1, OM 2, OM 3, OM 4 und OM 5 beschriebenen Lebensmittelkontaktbedingungen. Sie stellt die ungünstigsten Bedingungen für fetthaltige Lebensmittelsimulanzien im Kontakt mit Nichtpolyolefinen dar. Ist die Durchführung von OM 7 mit dem Lebensmittelsimulanz D2 technisch nicht möglich, so kann die Prüfung gemäss Ziffer 2.3.2 ersetzt werden.
 
-Unter die Prüfung OM 6 fallen auch die für OM 1, OM 2, OM 3, OM 4 und OM 5 beschriebenen Lebensmittelkontaktbedingungen. Sie stellt die ungünstigsten Bedingungen für die Lebensmittelsimulanzien A, B und C in Berührung mit Nichtpolyolefinen dar.
+Unter die Prüfung OM 6 fallen auch die für OM 0, OM 1, OM 2, OM 3, OM 4 und OM 5 beschriebenen Lebensmittelkontaktbedingungen. Sie stellt die ungünstigsten Bedingungen für die Lebensmittelsimulanzien A, B und C im Kontakt mit Nichtpolyolefinen dar.
 
-Unter die Prüfung OM 5 fallen auch die für OM 1, OM 2, OM 3 und OM 4 beschriebenen Lebensmittelkontaktbedingungen. Sie stellt die ungünstigsten Bedingungen für alle Lebensmittelsimulanzien in Berührung mit Polyolefinen dar.
+Unter die Prüfung OM 5 fallen auch die für OM 0, OM 1, OM 2, OM 3 und OM 4 beschriebenen Lebensmittelkontaktbedingungen. Sie stellt die ungünstigsten Bedingungen für alle Lebensmittelsimulanzien im Kontakt mit Polyolefinen dar.
 
 Unter die Prüfung OM 2 fallen auch die für OM 1 und OM 3 beschriebenen Lebensmittelkontaktbedingungen.
 
 Tabelle 4 Standardbedingungen für die Prüfung der Gesamtmigration
 
 <table>
-<tr><td>Prüfung Nr.</td><td>Kontaktdauer in Tagen [d] oder Stunden [h] bei Kontakttemperatur in [°C]</td><td>Vorgesehene Lebensmittelkontaktbedingungen</td></tr>
-<tr><td>OM 1</td><td>10 Tage bei 20 °C</td><td>Jeglicher Lebensmittelkontakt unter Tiefkühlungs- und Kühlungsbedingungen.</td></tr>
-<tr><td>OM 2</td><td>10 Tage bei 40 °C</td><td>Jegliche Langzeitlagerung bei Raumtemperatur oder darunter, einschliesslich Verpackung mittels Heissabfüllung und/oder Erhitzen auf eine Temperatur T, wobei 70 °C ≤ T ≤ 100 °C, während einer Dauer von höchstens t = 120/2^[(T–70)/10] Minuten.</td></tr>
+<tr><th>Prüfung Nr.</th><th>Kontaktdauer in Tagen [d], Stunden [h] oder Minuten [min] bei Kontakttemperatur in [°C]</th><th>Vorgesehene Lebensmittelkontaktbedingungen</th></tr>
+<tr><td>OM 0</td><td>30 min bei 40 °C</td><td>Jeglicher Lebensmittelkontakt bei kalter oder bei Umgebungstemperatur während einer kurzen Dauer (≤ 30 Minuten).</td></tr>
+<tr><td>OM 1</td><td>10 d bei 20 °C</td><td>Jeglicher Lebensmittelkontakt unter Tiefkühlungs- und Kühlungsbedingungen.</td></tr>
+<tr><td>OM 2</td><td>10 d bei 40 °C</td><td>Jegliche Langzeitlagerung bei höchstens Raumtemperatur, einschliesslich Verpackung mittels Heissabfüllung und/oder Erhitzen auf eine Temperatur T, wobei 70 °C ≤ T ≤ 100 °C, während einer Dauer von höchstens t = 120/2^[(T–70)/10] Minuten.</td></tr>
 <tr><td>OM 3</td><td>2 h bei 70 °C</td><td>Jegliche Lebensmittelkontaktbedingungen, die Heissabfüllung und/oder Erhitzen auf eine Temperatur T umfassen, wobei 70 °C ≤ T ≤ 100 °C während einer Dauer von höchstens t = 120/2^[(T–70)/10] Minuten, woran sich keine Langzeitlagerung bei Raumtemperatur oder unter Kühlung anschliesst.</td></tr>
-<tr><td>OM 4</td><td>1 h bei 100 °C</td><td>Hochtemperaturanwendungen für alle Lebensmittelsimulanzien bei einer Temperatur von bis zu 100 °C.</td></tr>
+<tr><td>OM 4</td><td>1 h bei 100 °C oder bei Rückfluss</td><td>Hochtemperaturanwendungen für alle Arten von Lebensmitteln bei einer Temperatur von bis zu 100 °C.</td></tr>
 <tr><td>OM 5</td><td>2 h bei 100 °C oder bei Rückfluss oder alternativ 1 h bei 121 °C</td><td>Hochtemperaturanwendungen bis zu 121 °C.</td></tr>
-<tr><td>OM 6</td><td>4 h bei 100 °C oder bei Rückfluss</td><td>Jegliche Lebensmittelkontaktbedingungen mit einer Temperatur über 40 °C und mit Lebensmitteln, für die laut Ziffer 1.3 Lebensmittelsimulanzien A, B, C oder D1 vorgesehen sind.</td></tr>
+<tr><td>OM 6</td><td>4 h bei 100 °C oder bei Rückfluss</td><td>Jegliche Lebensmittelkontaktbedingungen mit einer Temperatur über 40 °C und mit Lebensmitteln, für die laut Ziffer 1.3 die Lebensmittelsimulanzien A, B, C oder D1 vorgesehen sind.</td></tr>
 <tr><td>OM 7</td><td>2 h bei 175 °C</td><td>Hochtemperaturanwendungen mit fetthaltigen Lebensmitteln, bei denen die Bedingungen von OM 5 überschritten werden.</td></tr>
 </table>
 
-### 2.3.2 Ersatzprüfung für OM 7 mit Lebensmittelsimulans D2
+### 2.3.2 Ersatzprüfung für OM 7 mit Lebensmittelsimulanz D2
 
-Ist es technisch nicht möglich, eine oder mehrere der Prüfungen OM 1 bis OM 6 mit dem Lebensmittelsimulans D2 durchzuführen, so werden die Migrationsprüfungen mit 95 %igem Ethanol und Isooctan durchgeführt. Werden unter den ungünstigsten vorhersehbaren Verwendungsbedingungen 100 °C überschritten, so ist zusätzlich eine Prüfung mit dem Lebensmittelsimulans E durchzuführen. Die Einhaltung der gesetzlichen Bestimmungen wird anhand der Ergebnisse derjenigen Prüfung festgestellt, bei der die höchste spezifische Migration auftritt.
+Ist es technisch nicht möglich, eine oder mehrere der Prüfungen OM 0–OM 6 mit dem Lebensmittelsimulanz D2 durchzuführen, so werden die Migrationsprüfungen mit 95‑prozentigem Ethanol und Isooctan durchgeführt. Werden unter den ungünstigsten vorhersehbaren Verwendungsbedingungen 100 °C überschritten, so ist zusätzlich eine Prüfung mit Lebensmittelsimulanz E durchzuführen. Die Einhaltung der Bestimmungen wird anhand der Ergebnisse derjenigen Prüfung festgestellt, bei der die höchste Gesamtmigration auftritt.
 
-ist es technisch nicht möglich, die Prüfung OM 7 mit dem Lebensmittelsimulans D2 durchzuführen, so kann die Prüfung je nach vorgesehener oder vorhersehbarer Verwendung entweder durch die Prüfung OM 8 oder durch die Prüfung OM 9 ersetzt werden. Beide Prüfungen umfassen zwei Einzelprüfungen mit unterschiedlichen Bedingungen, wobei für jede Prüfung jeweils eine neue Probe zu verwenden ist. Die Einhaltung der gesetzlichen Bestimmungen wird anhand der Ergebnisse derjenigen Prüfung festgestellt, bei der die höchste Gesamtmigration auftritt.
+Ist es technisch nicht möglich, OM 7 mit dem Lebensmittelsimulanz D2 durchzuführen, so ist als Ersatzprüfung hinsichtlich der vorgesehenen und der vorhersehbaren Verwendung des Bedarfsgegenstands die am besten geeignete der beiden Prüfungen OM 8 und OM 9 auszuwählen. Anschliessend wird unter jeder der beiden für die ausgewählte Prüfung benannten Prüfungsbedingungen eine Migrationsprüfung durchgeführt, wobei für jede Prüfungsbedingung eine neue Probe verwendet wird. Die Einhaltung der Bestimmungen der Verordnung wird anhand der Ergebnisse derjenigen Prüfungsbedingung festgestellt, bei der die höhere Gesamtmigration auftritt.
 
-Tabelle 5 Ersatzprüfung für OM 7 mit Lebensmittelsimulans D2
+Tabelle 5 Ersatzprüfung für OM 7 mit Lebensmittelsimulanz D2
 
 <table>
-<tr><td>Prüfung Nr.</td><td>Prüfungsbedingungen</td><td>Vorgesehene Lebensmittelkontaktbedingungen</td><td>Umfasst die vorgesehenen Lebensmittelkontaktbedingungen beschrieben unter</td></tr>
-<tr><td>OM 8</td><td>Lebensmittelsimulans E 2 Stunden lang bei 175 °C und Lebensmittelsimulans D2 2 Stunden lang bei 100 °C</td><td>Nur Hochtemperaturanwendungen</td><td>OM 1, OM 3, OM 4, OM 5 und OM 6</td></tr>
-<tr><td>OM 9</td><td>Lebensmittelsimulans E 2 Stunden lang bei 175 °C und Lebensmittelsimulans D2 10 Tage lang bei 40 °C</td><td>Hochtemperaturanwendungen einschliesslich Langzeitlagerung bei Raumtemperatur</td><td>OM 1, OM 2, OM 3, OM 4, OM 5 und OM 6</td></tr>
+<tr><th>Prüfung Nr.</th><th>Prüfungsbedingungen</th><th>Vorgesehene Lebensmittelkontaktbedingungen</th><th>Umfasst die vorgesehenen Lebensmittelkontaktbedingungen beschrieben unter</th></tr>
+<tr><td>OM 8</td><td>Lebensmittelsimulanz E 2 Stunden lang bei 175 °C und Lebensmittelsimulanz D2 2 Stunden lang bei 100 °C</td><td>Nur Hochtemperaturanwendungen</td><td>OM 1, OM 3, OM 4, OM 5 und OM 6</td></tr>
+<tr><td>OM 9</td><td>Lebensmittelsimulanz E 2 Stunden lang bei 175 °C und Lebensmittelsimulanz D2 10 Tage lang bei 40 °C</td><td>Hochtemperaturanwendungen einschliesslich Langzeitlagerung bei Raumtemperatur</td><td>OM 1, OM 2, OM 3, OM 4, OM 5 und OM 6</td></tr>
 </table>
 
 ### 2.3.3 Konformitätsprüfung
 
 ### 2.3.3.1 Einwegbedarfsgegenstände
 
-Am Ende der vorgeschriebenen Kontaktdauer wird zur Prüfung der Konformität die Gesamtmigration im Lebensmittelsimulans unter Verwendung einer Analysemethode gemäss den Anforderungen in Artikel 11 der Verordnung (EG) Nr. 882/2004[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2331-1] untersucht.
+Am Ende der vorgeschriebenen Kontaktdauer wird zur Prüfung der Konformität die Gesamtmigration im Lebensmittelsimulanz unter Verwendung einer Analysemethode gemäss den Anforderungen in Artikel 34 der Verordnung (EU) 2017/625[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2331-1] untersucht.
 
-[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2331-1]: Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz; ABl. L 165 vom 30.4.2004, S. 1, zuletzt geändert durch die Durchführungsverordnung (EU) Nr. 2018/1587; ABl. L 264 vom 23.10.2018, S. 20.
+[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2331-1]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch delegierte Verordnung (EU) 2021/1756, ABl. L 357 vom 8.10.2021, S. 27.
 
 ### 2.3.3.2 Mehrwegbedarfsgegenstände
 
-Die betreffende Prüfung der Gesamtmigration wird dreimal an ein und derselben Probe unter Verwendung einer jeweils anderen Portion des Lebensmittelsimulans durchgeführt. Die Migration wird unter Verwendung einer Analysemethode gemäss den Anforderungen in Artikel 11 der Verordnung (EG) Nr. 882/2004 bestimmt. Die Gesamtmigration muss in der zweiten Prüfung niedriger sein als in der ersten Prüfung, und in der dritten Prüfung muss die Gesamtmigration niedriger sein als in der zweiten Prüfung. Die Konformität mit dem Gesamtmigrationsgrenzwert wird auf der Grundlage der in der dritten Prüfung ermittelten Gesamtmigration festgestellt.
+Die betreffende Prüfung der Gesamtmigration wird dreimal an ein und derselben Probe unter Verwendung einer jeweils anderen Portion des Lebensmittelsimulanz durchgeführt. Die Migration wird unter Verwendung einer Analysemethode gemäss den Anforderungen in Artikel 34 der Verordnung (EU) 2017/625[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2332-1] bestimmt. Die Gesamtmigration muss bei der zweiten Prüfung niedriger sein als bei der ersten Prüfung, und bei der dritten Prüfung muss die Gesamtmigration niedriger sein als bei der zweiten Prüfung. Die Konformität mit dem Gesamtmigrationsgrenzwert wird auf der Grundlage der bei der dritten Prüfung ermittelten Gesamtmigration festgestellt.
 
-Wenn es technisch nicht möglich ist, dieselbe Probe dreimal zu prüfen, etwa wenn die Prüfung in Öl erfolgt, können zur Prüfung der Gesamtmigration unterschiedliche Proben während drei verschiedener Zeiträume, die dem Ein-, Zwei- und Dreifachen der für die Prüfung vorgesehenen Kontaktdauer entsprechen, geprüft werden. Als Gesamtmigration gilt die Differenz zwischen dem dritten und dem zweiten Prüfungsergebnis. Die Konformität wird anhand dieser Differenz festgestellt, die den Gesamtmigrationsgrenzwert nicht überschreiten darf. Darüber hinaus darf diese Differenz nicht grösser sein als das erste Prüfungsergebnis und als die Differenz zwischen dem zweiten und dem ersten Prüfungsergebnis.
+Ist es technisch nicht möglich, dieselbe Probe dreimal zu prüfen, etwa wenn die Prüfung in Pflanzenöl erfolgt, können zur Prüfung der Gesamtmigration unterschiedliche Proben während drei verschiedener Zeiträume, die dem Ein-, Zwei- und Dreifachen der für die Prüfung vorgesehenen Kontaktdauer entsprechen, geprüft werden. Als Gesamtmigration gilt die Differenz zwischen dem dritten und dem zweiten Prüfungsergebnis. Die Konformität wird anhand dieser Differenz festgestellt, die den Gesamtmigrationsgrenzwert nicht überschreiten darf. Ausserdem muss die Differenz zwischen dem zweiten und dem dritten Prüfungsergebnis niedriger sein als das Ergebnis der ersten Prüfung, und die Differenz zwischen dem dritten und dem zweiten Prüfungsergebnis muss niedriger sein als die Differenz zwischen dem zweiten und dem ersten Prüfungsergebnis.
 
-Belegen wissenschaftliche Erkenntnisse, dass beim zu prüfenden Bedarfsgegenstand die Gesamtmigration in der zweiten und der dritten Prüfung nicht ansteigt, und wird der Gesamtmigrationsgrenzwert in der ersten Prüfung nicht überschritten, so ist abweichend von Paragraf 1 die erste Prüfung allein ausreichend.
+Belegen wissenschaftliche Erkenntnisse, dass beim zu prüfenden Bedarfsgegenstand die Gesamtmigration bei der zweiten und der dritten Prüfung sinkt, und wird der Gesamtmigrationsgrenzwert bei der ersten Prüfung nicht überschritten, so ist abweichend von den Bestimmungen in Absatz 1 die erste Prüfung allein ausreichend.
+
+[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2332-1]: Siehe Fussnote zu Anhang 4 Ziffer 2.3.3.1.
 
 ### 2.3.4 Screeningverfahren
 
@@ -1086,22 +1160,34 @@ Abweichend von den in den Tabellen 6 und 7 festgelegten Bedingungen gelten folge
 - a. Wird festgestellt, dass die Durchführung der Prüfungen unter den kombinierten Kontaktbedingungen der Tabellen 6 und 7 physikalische oder sonstige Veränderungen im Probeexemplar verursacht, die unter den ungünstigsten vorhersehbaren Bedingungen für die Verwendung des zu prüfenden Bedarfsgegenstands nicht auftreten, so sind die Migrationsprüfungen unter den ungünstigsten vorhersehbaren Verwendungsbedingungen durchzuführen, unter denen diese physikalischen oder sonstigen Veränderungen nicht auftreten.
 - b. Wird der Bedarfsgegenstand während seiner vorgesehenen Verwendung ausschliesslich unter genau gesteuerten Zeit- und Temperaturbedingungen in Anlagen für die Lebensmittelverarbeitung eingesetzt, und zwar entweder als Teil der Lebensmittelverpackung oder als Teil der Anlage selbst, so kann die Prüfung unter den ungünstigsten vorhersehbaren Kontaktbedingungen durchgeführt werden, die während der Verarbeitung des Lebensmittels in dieser Anlage auftreten können.
 - c. Ist der Bedarfsgegenstand ausschliesslich für den Einsatz bei Heissabfüllung vorgesehen, so ist nur eine zweistündige Prüfung bei 70 °C durchzuführen. Ist der Bedarfsgegenstand jedoch auch zur Lagerung bei Raumtemperatur oder darunter vorgesehen, so gelten abhängig von der Lagerungszeit die in den Tabellen 6 und 7 sowie die unter Ziffer 2.4.2.1.4 festgelegten Prüfungsbedingungen.
+- d.
+
+  Wird der Bedarfsgegenstand aus Kunststoff, der dazu bestimmt ist, mit Lebensmitteln in Berührung zu kommen, und dessen Konformität geprüft werden muss, in seiner endgültigen Anwendung Bestandteil einer Anlage oder eines Geräts für die Verarbeitung von Lebensmitteln oder eines Teils davon, so können die Migrationsprüfungen auf die Weise durchgeführt werden, dass die spezifische Migration in das Lebensmittel oder das Lebensmittelsimulanz, das mit der gesamten Anlage oder dem gesamten Gerät hergestellt oder verarbeitet wird, ermittelt wird, wobei folgende Bedingungen zu erfüllen sind:
+
+  - 1\. Das Lebensmittel oder das Lebensmittelsimulanz wird während der Prüfung mithilfe der Anlage oder eines Teils derselben unter den ungünstigsten vorhersehbaren Bedingungen verarbeitet, die vorliegen können, wenn die Anlage oder ihr Teil gemäss der Bedienungsanleitung betrieben wird.
+  - 2\. Die während der Verarbeitung der Lebensmittel stattfindende Migration aus Teilen, die zur Lagerung verwendet werden, wie Tanks, Behältern, Kapseln oder Pads, und die Bestandteil der Anlage sind, wird anhand von Bedingungen bestimmt, die für ihre Verwendung repräsentativ sind, es sei denn, die auf die gesamte geprüfte Anlage oder das gesamte geprüfte Gerät angewandten Prüfbedingungen sind ebenfalls repräsentativ für ihre Verwendung.
+
+- Wird die Migrationsprüfung unter den vorgenannten Bedingungen durchgeführt und überschreitet der Übergang von Bestandteilen aus der Anlage oder dem Gerät als Ganzes die Migrationsgrenzwerte nicht, so gelten die Kunststoffteile oder -materialien in der Anlage oder in dem Gerät als mit Artikel 13 Absatz 1 konform.
+- Die Prüfung der zur Lagerung oder zur Ausgabe verwendeten Teile, wie Tanks, Behälter, Kapseln oder Pads, erfolgt unter Bedingungen, die für ihre Verwendung repräsentativ sind, und umfasst die vorhersehbaren Bedingungen der Lagerung des Lebensmittels in diesen Teilen.
+- In den Unterlagen gemäss Artikel 16 wird deutlich dokumentiert, dass die Prüfung anhand der gesamten Anlage oder des gesamten Geräts für die Verarbeitung und die Herstellung von Lebensmitteln oder von Teilen davon erfolgt ist. Es wird darin belegt, dass die Prüfung repräsentativ für ihre vorhersehbare Verwendung war. Weiter wird angegeben, für welche Stoffe die Migrationsprüfung durchgeführt wurde, und es werden alle Ergebnisse der Prüfung angegeben. Die Herstellerin einzelner Kunststoffteile gewährleistet bei den Stoffen, für die der spezifische Migrationsgrenzwert in Anhang 2 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 4 als nicht nachweisbar festgelegt ist, und bei nicht in der Liste aufgeführten Stoffen, die hinter einer funktionellen Barriere aus Kunststoff gemäss Artikel 14 Absätze 1 und 2 verwendet werden und nicht in nachweisbaren Mengen migrieren sollten, dass keine Migration stattfindet.
+- In den Unterlagen zum Nachweis der Konformität, die dem Hersteller der fertigen Anlage oder des fertigen Geräts im Einklang mit der Verordnung vorgelegt werden, werden alle Stoffe geführt, für die Migrationsgrenzwerte gelten, die bei der vorhersehbaren Verwendung des gelieferten Teils oder Materials überschritten werden könnten.
+- Steht das Ergebnis nicht mit der Verordnung in Einklang, so wird anhand der Nachweise oder analytischer Prüfungen festgestellt, ob die Quelle der Nichtkonformität ein Kunststoffteil ist, für das die Verordnung gilt, oder ein Teil, das aus einem anderen Material hergestellt wurde, für das die Verordnung nicht gilt. Unbeschadet der allgemeinen Sicherheitsanforderungen an Bedarfsgegenstände gemäss Artikel 49 LGV wird die Nichtkonformität mit der Verordnung nur dann festgestellt, wenn die Migration aus einem Kunststoffteil herrührt.
 
 Ist es im Falle von Lebensmittelsimulans D2 technisch nicht möglich, Bedingungen herzustellen, die für die ungünstigsten vorhersehbaren Verwendungsbedingungen des Bedarfsgegenstands repräsentativ sind, so sind Migrationsprüfungen unter Verwendung von 95 %igem Ethanol und Isooctan durchzuführen. Übersteigt die Temperatur unter den ungünstigsten vorhersehbaren Verwendungsbedingungen 100 °C, so ist zusätzlich eine Migrationsprüfung mit Lebensmittelsimulans E durchzuführen. Die Prüfung, die zur stärksten spezifischen Migration führt, wird verwendet, um die Konformität mit der vorliegenden Verordnung herzustellen.
 
 Tabelle 6 Wahl der Prüfungsdauer
 
 <table>
-<tr><td>Kontaktdauer bei ungünstigster vorhersehbarer Verwendung</td><td>Für die Prüfung zu wählende Dauer</td></tr>
+<tr><th>Kontaktdauer bei ungünstigster vorhersehbarer Verwendung</th><th>Für die Prüfung zu wählende Dauer</th></tr>
 <tr><td>t ≤ 5 min</td><td>5 min</td></tr>
 <tr><td>5 min &lt; t ≤ 0,5 h</td><td>0,5 h</td></tr>
 <tr><td>0,5 h &lt; t ≤ 1 h</td><td>1 h</td></tr>
 <tr><td>1 h &lt; t ≤ 2 h</td><td>2 h</td></tr>
 <tr><td>2 h &lt; t ≤ 6 h</td><td>6 h</td></tr>
 <tr><td>6 h &lt; t ≤ 24 h</td><td>24 h</td></tr>
-<tr><td>1 Tag &lt; t ≤ 3 Tage</td><td>3 Tage</td></tr>
-<tr><td>3 Tage &lt; t ≤ 30 Tage</td><td>10 Tage</td></tr>
-<tr><td>&gt; 30 Tage</td><td>Siehe besondere Bedingungen</td></tr>
+<tr><td>1 d &lt; t ≤ 3 d</td><td>3 d</td></tr>
+<tr><td>3 d &lt; t ≤ 30 d</td><td>10 d</td></tr>
+<tr><td>&gt; 30 d</td><td>Siehe besondere Bedingungen</td></tr>
 </table>
 
 Tabelle 7 Wahl der Prüftemperatur
@@ -1118,7 +1204,8 @@ Tabelle 7 Wahl der Prüftemperatur
 <tr><td>130 °C &lt; T ≤ 150 °C</td><td>150 °C (\*)</td></tr>
 <tr><td>150 °C &lt; T ≤ 175 °C</td><td>175 °C (\*)</td></tr>
 <tr><td>175 °C &lt; T ≤ 200 °C</td><td>200 °C (\*)</td></tr>
-<tr><td colspan="2">(\*) Diese Temperatur ist nur bei Lebensmittelsimulanzien D2 und E zu verwenden. Bei unter Druck erhitzten Anwendungen kann die Migrationsprüfung unter Druck bei der entsprechenden Temperatur durchgeführt werden. Bei den Lebensmittelsimulanzien A, B, C oder D1 kann die Prüfung durch eine Prüfung bei 100 °C oder bei Rückflusstemperatur und einer viermal so langen Dauer wie entsprechend den Bedingungen in Tabelle 6 ausgewählt ersetzt werden.</td></tr>
+<tr><td>T &gt; 200 °C</td><td>225 °C (\*)</td></tr>
+<tr><td colspan="2">(\*) Diese Temperatur ist nur bei Lebensmittelsimulanzien D2 und E zu verwenden. Bei unter Druck erhitzten Anwendungen kann die Migrationsprüfung unter Druck bei der entsprechenden Temperatur durchgeführt werden. Bei den Lebensmittelsimulanzien A, B, C und D1 kann die Prüfung durch eine Prüfung bei 100 °C oder bei Rückflusstemperatur und einer viermal so langen Dauer wie entsprechend den Bedingungen in Tabelle 6 ausgewählt ersetzt werden.</td></tr>
 </table>
 
 ### 2.4.2.1.4Besondere Bedingungen für eine Kontaktdauer von mehr als 30 Tagen bei Raumtemperatur oder darunter
@@ -1148,11 +1235,13 @@ Ist der Bedarfsgegenstand für eine Lebensmittelkontaktanwendung bestimmt, bei d
 
 ### 2.4.2.1.6Mehrweggegenstände
 
-Ist der Bedarfsgegenstand dazu bestimmt, wiederholt mit Lebensmitteln in Berührung zu kommen, so wird jede Migrationsprüfung dreimal an ein und derselben Probe unter Verwendung einer jeweils anderen Portion des Lebensmittelsimulans durchgeführt. Seine Konformität wird anhand des bei der dritten Prüfung festgestellten Migrationswertes geprüft.
+Ist der Bedarfsgegenstand dazu bestimmt, wiederholt mit Lebensmitteln in Berührung zu kommen, so werden die Migrationsprüfungen dreimal an ein und derselben Probe unter Verwendung einer jeweils anderen Portion des Lebensmittelsimulanz durchgeführt. Die spezifische Migration darf bei der zweiten Prüfung den Wert nicht überschreiten, der bei der ersten Prüfung ermittelt wurde. Bei der dritten Prüfung darf die spezifische Migration den Wert nicht überschreiten, der bei der zweiten Prüfung ermittelt wurde.
 
-Liegt ein schlüssiger Nachweis dafür vor, dass der Migrationswert in der zweiten und dritten Prüfung nicht steigt, und werden die Migrationsgrenzwerte bei der ersten Prüfung nicht überschritten, so ist keine weitere Prüfung erforderlich.
+Die Konformität des Bedarfsgegenstands wird anhand der Migration geprüft, die bei der dritten Prüfung ermittelt wurde, sowie anhand der Stabilität des Bedarfsgegenstands von der ersten bis zur dritten Migrationsprüfung. Die Stabilität des Materials gilt als unzureichend, wenn bei einer der drei Migrationsprüfungen eine Migration oberhalb der Nachweisgrenze festgestellt wird und wenn sie von der ersten bis zur dritten Migrationsprüfung ansteigt. Im Fall der unzureichenden Stabilität wird die Konformität des Materials selbst dann nicht festgestellt, wenn der spezifische Migrationsgrenzwert bei keiner der drei Prüfungen überschritten wird.
 
-Bei Stoffen, für die der spezifische Migrationsgrenzwert in Anhang 2 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 4 als nicht nachweisbar festgelegt ist, und bei nicht in der Liste aufgeführten Stoffen, die hinter einer funktionellen Barriere aus Kunststoff gemäss Artikel 14 Absätze 1 und 2 verwendet werden und nicht in nachweisbaren Mengen migrieren sollten, muss der Bedarfsgegenstand bereits in der ersten Prüfung den spezifischen Migrationsgrenzwert einhalten.
+Liegt ein schlüssiger wissenschaftlicher Nachweis dafür vor, dass der Migrationswert bei der zweiten und der dritten Prüfung sinkt, und werden die Migrationsgrenzwerte bei der ersten Prüfung nicht überschritten, so ist keine weitere Prüfung erforderlich.
+
+In Abweichung von den obigen Bestimmungen ist ein Bedarfsgegenstand in keinem Fall als konform einzustufen, wenn bei der ersten Prüfung ein Stoff nachgewiesen wird, für den der spezifische Migrationsgrenzwert in Anhang 2 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 4 als nicht nachweisbar festgelegt ist, oder der nicht in Tabelle 1 aufgeführt ist und hinter einer funktionellen Barriere aus Kunststoff gemäss Artikel 14 Absätze 1 und 2 verwendet wird und nicht in nachweisbaren Mengen migrieren sollte.
 
 ### 2.4.2.1.7Analyse der migrierenden Stoffe
 
@@ -1381,11 +1470,13 @@ Erläuterungen zu den Listen
 <tr><td>– Toluol</td><td>Nicht mehr als 0,06 mg/dm<sup>2</sup> des Lacks auf der Berührungsfläche mit den Lebensmitteln</td></tr>
 </table>
 
-Anhang 8
+Anhang 8[^t-4]
 
-(Art. 26 Abs. 1)
+(Art. 26 Abs. 1 und 2<sup>bis</sup>)
 
 ## Grenzwerte für die Abgabe von Blei und Cadmium aus Bedarfsgegenständen aus Keramik, Glas, Email und ähnlichen Materialien
+
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 - 1\. Die Teile von Bedarfsgegenständen aus Keramik, Glas, Email und ähnlichen Materialien, die mit Lebensmitteln in Kontakt kommen, dürfen während 24 Stunden bei 22 °C an 4-volumenprozentige Essigsäure höchstens folgende Mengen (Grenzwert) abgeben:
 
@@ -1397,28 +1488,48 @@ Anhang 8
 </table>
 
 - 2\. Besteht ein Gegenstand aus einem Behälter und einem Deckel, so werden diese unter den gleichen Bedingungen geprüft. Die Summe der beiden Blei- und Cadmiumlässigkeitswerte wird auf die Fläche (Abs. 1 Bst. a) oder das Volumen (Abs. 1 Bst. b und c) des Behälters allein bezogen. Für die Beurteilung gelten die Grenzwerte in mg/dm2 oder mg/l, wie sie in Absatz 1 für den entsprechenden Behälter festgelegt sind.
+- 3\. Die Messung der Blei- und Cadmiumlässigkeit und die anzuwendenden Analysemethoden richten sich nach den Anhängen I und II der Richtlinie 84/500/EWG[^annex8-lvlu1-1].
 
-Anhang 9[^t-4]
+[^annex8-lvlu1-1]: Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, ABl. L 277 vom 20.10.1984, S. 12; zuletzt geändert durch Richtlinie 2005/31/EG, ABl. L 110 vom 30.4.2005, S. 36.
 
-(Art. 32 Abs. 1)
+Anhang 8a[^t-5]
+
+(Art. 26 Abs. 2<sup>bis</sup>)
+
+## Konformitätserklärung für Bedarfsgegenstände aus Keramik
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+
+Die in Artikel 26 Absatz 2<sup>bis</sup> genannte Konformitätserklärung muss folgende Angaben enthalten:
+
+- a. Identität und Anschrift des Unternehmens, die das keramische Fertigprodukt herstellt sowie des Importeurs, der dieses einführt;
+- b. Identität des Keramikgegenstands;
+- c. Datum der Erklärung;
+- d. Bestätigung, dass der Keramikgegenstand den einschlägigen Gesetzesvorschriften entspricht.
+
+Die Konformitätserklärung muss eine leichte Identifizierung der Waren ermöglichen, für die sie ausgestellt ist. Sie wird erneuert, wenn wesentliche Veränderungen bei der Herstellung zu Veränderungen der Blei- und Kadmiumlässigkeit führen.
+
+Anhang 9[^t-6]
+
+(Art. 32 Abs. 1 und 2)
 
 ## Liste der zulässigen Stoffe für die Herstellung von Bedarfsgegenständen aus Silikon und Anforderungen an diese Stoffe
 
 [^annex9-lvlu1-1]
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BVL vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
-[^annex9-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^annex9-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 10[^t-5]
+Anhang 10[^t-7]
 
-(Art. 35 Abs. 1)
+(Art. 35 Bst. a und b)
 
-## Liste der zulässigen Stoffe für die Herstellung von Verpackungstinten und Anforderungen an diese Stoffe
+## Liste der zulässigen Stoffe für die Herstellung von Druckfarben und Anforderungen an diese Stoffe
 
 [^annex10-lvlu1-1]
 
-[^t-5]: Fassung gemäss Ziff. I Abs. 3 der V des BVL vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
-[^annex10-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-7]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 11
 
@@ -1426,7 +1537,7 @@ Anhang 11
 
 ## Symbol «NICHT ESSBAR»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/de/xml/image/image2.png)
 
 Anhang 12
 
@@ -1434,7 +1545,7 @@ Anhang 12
 
 ## Konformitätserklärung für aktive und intelligente Bedarfsgegenstände
 
-Die in Artikel 39 Absatz 2 genannte schriftliche Erklärung enthält folgende Angaben:
+Die in Artikel 39 Absatz 2 genannte Konformitätserklärung enthält folgende Angaben:
 
 - a. Identität und Adresse der verantwortlichen Person, die die Konformitätserklärung ausstellt;
 - b. Identität und Adresse der verantwortlichen Person, die die aktiven oder intelligenten Bedarfsgegenstände, die für deren Herstellung bestimmten Bestandteile oder die für die Herstellung der Bestandteile bestimmten Stoffe herstellt oder importiert;
@@ -1460,15 +1571,15 @@ Die in Artikel 39 Absatz 2 genannte schriftliche Erklärung enthält folgende An
 
 - j. bei Verwendung einer funktionellen Barriere: Bestätigung, dass die aktiven oder intelligenten Bedarfsgegenstände Artikel 37 Absatz 1 Buchstabe c genügen; die Migration des Stoffes in Lebensmittel oder Lebensmittelsimulanzien darf mit statistischer Gewissheit durch eine Analysemethode bei einer Nachweisgrenze von 0,01 mg/kg nicht nachweisbar sein; der genannte Grenzwert ist stets als Konzentration in Lebensmitteln oder Lebensmittelsimulanzien auszudrücken; er gilt für eine Gruppe von Verbindungen, sofern sie strukturell und toxikologisch verwandt sind, insbesondere Isomere oder Verbindungen derselben einschlägigen Funktionsgruppe, und berücksichtigt eine etwaige unerwünschte Übertragung.
 
-Die schriftliche Erklärung muss eine einfache Identifizierung der aktiven oder intelligenten Bedarfsgegenstände, der für deren Herstellung bestimmten Bestandteile oder der für die Herstellung der Bestandteile bestimmten Stoffe ermöglichen, auf die sie sich bezieht, und ist erneut abzugeben, wenn wesentliche Änderungen in der Produktion Veränderungen bei der Migration bewirken oder wenn neue wissenschaftliche Erkenntnisse vorliegen.
+Die Konformitätserklärung muss eine einfache Identifizierung der aktiven oder intelligenten Bedarfsgegenstände, der für deren Herstellung bestimmten Bestandteile oder der für die Herstellung der Bestandteile bestimmten Stoffe ermöglichen, auf die sie sich bezieht, und ist erneut abzugeben, wenn wesentliche Änderungen in der Produktion Veränderungen bei der Migration bewirken oder wenn neue wissenschaftliche Erkenntnisse vorliegen.
 
-Anhang 13[^t-6]
+Anhang 13[^t-8]
 
 (Art. 40*b* Abs. 1)
 
 ## Besondere Anforderungen für Lacke und Beschichtungen
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-8]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ### 1. BADGE, BFDGE und NOGE
 
@@ -1515,17 +1626,13 @@ Anhang 13[^t-6]
 
 [^annex13-lvlu1-lvl2-1]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
-### 3. Für den Kontakt mit Trinkwasser bestimmte Lacke und Beschichtungen
-
-- Abweichend von den Ziffern 1 und 2 dürfen Lacke und Beschichtungen, die für den Kontakt mit Trinkwasser bestimmt sind, ihre Bestandteile nicht in Mengen übertragen, die die Werte gemäss diesem Anhang geteilt durch 20 (SML<sub>Wasser</sub> = SML<sub>Lebensmittel</sub>/20) übersteigen.
-
-Anhang 14[^t-7]
+Anhang 14[^t-9]
 
 (Art. 40*b* Abs. 2)
 
 ## Konformitätserklärung für Lacke und Beschichtungen
 
-[^t-7]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-9]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 Die in Artikel 40*b* Absatz 2 genannte Konformitätserklärung enthält folgende Angaben:
 
@@ -1541,3 +1648,31 @@ Die in Artikel 40*b* Absatz 2 genannte Konformitätserklärung enthält folgende
   - 1\. Art oder Arten von Lebensmitteln, die damit in Berührung kommen sollen,
   - 2\. Dauer und Temperatur der Behandlung und der Lagerung bei Berührung mit Lebensmitteln,
   - 3\. das höchste Verhältnis der mit Lebensmitteln in Berührung kommenden Fläche zum Volumen, anhand dessen die Konformität mit den gesetzlichen Anforderungen festgestellt wurde.
+  - [tab]
+
+Anhang 15[^t-10]
+
+(Art. 35*a* Abs. 2)
+
+## Konformitätserklärung für Druckfarben
+
+[^t-10]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+
+Die Konformitätserklärung gemäss Artikel 35*a* Absatz 2 muss die für jede Herstellungsstufe relevanten Angaben aus der folgenden Auflistung enthalten:
+
+- 1 Identität und Adresse der verantwortlichen Person, die die Konformitätserklärung ausstellt;
+- 2 Identität und Adresse der verantwortlichen Person, die die Druckfarbenschichten als Bestandteil eines Bedarfsgegenstandes, Druckfarben sowie die für die Herstellung der Druckfarben bestimmten Stoffe herstellt oder importiert;
+- 3 Identität der Druckfarbenschichten als Bestandteil eines Bedarfsgegenstandes, der Druckfarben sowie der für die Herstellung der Druckfarben bestimmten Stoffe;
+- 4 Datum der Erklärung;
+- 5 Bestätigung, dass die Druckfarbenschichten als Bestandteil eines Bedarfsgegenstandes, die Druckfarben sowie die für die Herstellung der Druckfarben bestimmten Stoffe den einschlägigen Vorschriften des 12. Abschnitts sowie der LGV entsprechen;
+- 6 ausreichende Informationen zu den verwendeten Stoffen oder deren Abbau- und Reaktionsprodukten und Verunreinigungen, damit auch die nachgelagerten Unternehmerinnen oder Unternehmer die Einhaltung der Verordnung sicherstellen können; diese Informationen umfassen insbesondere die Benennung und die Menge der Stoffe im Material der jeweiligen Zwischenstufe der Herstellung die in einer Menge vorhanden sein könnten, bei der eine Migration aus dem fertigen Material in Lebensmittel oder Lebensmittelsimulanz zu erwarten ist;
+- 7 ausreichende Informationen über die Stoffe, deren Verwendung in Lebensmitteln einer Einschränkung unterliegt, gewonnen aus Versuchsdaten oder theoretischen Berechnungen über deren spezifische Migrationswerte, sowie gegebenenfalls über Reinheitskriterien gemäss der ZuV[^annex15-lvlu1-1], damit der Anwender oder die Anwenderin dieser Bedarfsgegenstände die einschlägigen Vorschriften für Lebensmittel einhalten kann;
+- 8 Spezifikationen zur Verwendung der Druckfarben, etwa zu:
+- 8\.1 den Gruppen von Bedarfsgegenständen, auf denen die Druckfarbe verwendet werden darf,
+- 8\.2 den Lebensmitteln, die mit dem bedruckten Bedarfsgenstand in Berührung kommen:
+- 8\.2.1 Arten von Lebensmitteln, die damit in Kontakt kommen dürfen
+- 8\.2.2 Dauer und Temperatur der Behandlung und Lagerung bei Kontakt mit dem Lebensmittel
+- 8\.2.3 das höchste Verhältnis der mit Lebensmitteln in Berührung kommenden Fläche zum Volumen, anhand dessen die Konformität des Bedarfsgegenstands festgestellt wurde, oder gleichwerte Informationen,
+- 8\.3 den Verwendungsbedingungen, die zur Erreichung der gewünschten Funktion eingehalten werden müssen.
+
+[^annex15-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
