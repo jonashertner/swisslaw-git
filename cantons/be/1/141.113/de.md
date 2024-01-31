@@ -3,20 +3,19 @@ canton: BE
 number: "141.113"
 title: Verordnung über das Stimmregister
 language: de
-version: 2021-03-01
-valid_until: 2024-01-31
-version_adopted: 2021-01-20
+version: 2024-02-01
+version_adopted: 2023-12-06
 adopted: 1980-12-10
 in_force: 1981-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.113"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2144/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3003/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Stimmregister
 
-vom 10.12.1980 (Stand 01.03.2021)
+vom 10.12.1980 (Stand 01.02.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -133,7 +132,7 @@ beschliesst:
 
 <sup>1</sup> Der politische Wohnsitz befindet sich in der Gemeinde, in welcher der Stimmberechtigte wohnt und angemeldet ist.
 
-<sup>2</sup> Wer in einer Gemeinde statt des Heimatscheines einen andern Ausweis (Heimatausweis, Interimsschein usw.) hinterlegt, erwirbt hier politischen Wohnsitz nur, wenn er schriftlich nachweist, dass er am Ort, wo der Heimatschein liegt, nicht im Stimmregister eingetragen ist.
+<sup>2</sup> Wer sich in einer Gemeinde zum Aufenthalt anmeldet, erwirbt hier politischen Wohnsitz nur, wenn er schriftlich nachweist, dass er am Ort seiner Niederlassung nicht im Stimmregister eingetragen ist.
 
 <sup>3</sup> …
 
@@ -163,7 +162,7 @@ beschliesst:
 - h die umfassende Beistandschaft, die Einsetzung der oder des Vorsorgebeauftragten und das Datum derer Anordnung;
 - i bei Streichungen das Datum und der Grund der Streichung, bei Anmerkungen auch deren Dauer.[^14-2]
 
-<sup>2</sup> Der Gemeinderat kann ausserdem die Angabe des Berufes vorschreiben.
+<sup>2</sup> …
 
 [^14-1]: Fassung vom 23. 10. 2002
 [^14-2]: Entspricht dem bisherigen Buchstaben h
@@ -212,7 +211,7 @@ beschliesst:
 
 <sup>4</sup> Neue Amtsunfähigkeiten sind anzumerken, abgelaufene zu löschen.
 
-<sup>5</sup> Die stimmregisterführende Stelle hält die genaue Zahl der Stimmberechtigten in einem Schriftstück fest. Diese Schriftstücke sind fortlaufend abzulegen.
+<sup>5</sup> Die stimmregisterführende Stelle hält die genaue Zahl der Stimmberechtigten in einem Dokument fest. Das Dokument ist zusammen mit dem jeweiligen Abstimmungs- oder Wahlmaterial aufzubewahren.
 
 #### Art. 19
 
@@ -230,19 +229,17 @@ beschliesst:
 
 **Beschwerderecht**
 
-<sup>1</sup> Wird durch eine Eintragung in das Stimmregister oder durch Unterlassung, Ablehnung oder Streichung eines Eintrages im Stimmregister
+<sup>1</sup> Wird durch eine Eintragung in das Stimmregister oder durch Unterlassung, Ablehnung oder Streichung eines Eintrags im Stimmregister
 
-- a das Stimmrecht in eidgenössischen oder kantonalen Angelegenheiten verletzt, so kann gemäss Artikel 86 ff. des GPR[^21-1] Stimmrechtsbeschwerde geführt werden;
-- b nur das Stimmrecht in Gemeindeangelegenheiten verletzt, so kann Beschwerde gemäss Artikel 60 ff. des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^21-2]) geführt werden;
-- c gleichzeitig sowohl das Stimmrecht in eidgenössischen oder kantonalen Angelegenheiten und das Stimmrecht in Gemeindeangelegenheiten verletzt, so kann gemäss Artikel 86 ff. des GPR[^21-3] Stimmrechtsbeschwerde geführt werden.
+- a das Stimmrecht in eidgenössischen oder kantonalen Angelegenheiten verletzt, so richtet sich die Rechtspflege nach den Artikeln 161 ff. PRG.
+- b nur das Stimmrecht in Gemeindeangelegenheiten verletzt, so kann Beschwerde gemäss den Artikeln 60 ff. des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^21-1] geführt werden,
+- c gleichzeitig sowohl das Stimmrecht in eidgenössischen oder kantonalen Angelegenheiten und das Stimmrecht in Gemeindeangelegenheiten verletzt, so richtet sich die Rechtspflege nach den Artikeln 161 ff. PRG.
 
 <sup>2</sup> Der Entscheid soll nach Möglichkeit so rasch ergehen, dass er für die Abstimmung oder Wahl noch wirksam werden kann.
 
 <sup>3</sup> Die zuständige Behörde trifft die nötigen Anordnungen zur Behebung von Mängeln, die das Verfahren ergeben hat.
 
-[^21-1]: Aufgehoben durch G vom 5. 6. 2012 über die politischen Rechte, BSG 141.1
-[^21-2]: BSG 155.21
-[^21-3]: Aufgehoben durch G vom 5. 6. 2012 über die politischen Rechte, BSG 141.1
+[^21-1]: BSG 155.21
 
 #### Art. 22
 
