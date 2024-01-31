@@ -4,13 +4,13 @@ number: "152.053.3"
 title: Direktionsverordnung über die Berechtigungen der Sicherheitsdirektion für die zentralen Personendatensammlungen
 short: PDS DV SID
 language: de
-version: 2023-01-01
-valid_until: 2024-01-31
-version_adopted: 2022-11-22
+version: 2024-02-01
+valid_until: 2024-09-30
+version_adopted: 2023-12-18
 adopted: 2022-02-07
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.053.3"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2766/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2989/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2766/pdf_file"
 
 (PDS DV SID)
 
-vom 07.02.2022 (Stand 01.01.2023)
+vom 07.02.2022 (Stand 01.02.2024)
 
 Die Sicherheitsdirektion des Kantons Bern,
 
