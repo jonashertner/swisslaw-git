@@ -4,13 +4,13 @@ number: "152.051"
 title: Verordnung über die Gemeinderegistersysteme-Plattform
 short: GERES V
 language: de
-version: 2024-01-01
-valid_until: 2024-01-31
-version_adopted: 2023-10-25
+version: 2024-02-01
+valid_until: 2026-08-31
+version_adopted: 2023-12-06
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.051"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2890/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3004/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2890/pdf_file"
 
 (GERES V)
 
-vom 20.01.2021 (Stand 01.01.2024)
+vom 20.01.2021 (Stand 01.02.2024)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf die Artikel 7, 8, 10, 12, 13 Absatz 2, 16, 17 bis 22 des Gesetzes vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^ingress-1], Artikel 8 Absatz 3 des Gesetzes vom 12. September 1985 über Niederlassung und Aufenthalt der Schweizer (GNA)[^ingress-2] und Artikel 18a des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB)[^ingress-3],
+gestützt auf die Artikel 7, 8, 10, 12, 13 Absatz 2, 16, 17 bis 22 des Gesetzes vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^ingress-1], Artikel 8 Absatz 3 des Gesetzes vom 12. September 1985 über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer (NAG)[^ingress-2] und Artikel 18a des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB)[^ingress-3],
 
 auf Antrag der Finanzdirektion,
 
@@ -108,7 +108,7 @@ beschliesst:
 
 **Personen und deren Merkmale**
 
-<sup>1</sup> In der GERES-Plattform werden die Niedergelassenen und Aufenthalter im Sinne der Artikel 3 und 4 GNA sowie Artikel 12 AIG geführt.
+<sup>1</sup> In der GERES-Plattform werden die Niedergelassenen sowie die Aufenthalterinnen und Aufenthalter im Sinne der Artikel 3 und 4 NAG sowie des Artikels 12 AIG geführt.
 
 <sup>2</sup> Die GERES-Plattform beinhaltet zu den in Absatz 1 genannten Personen die folgenden Merkmale:
 
@@ -118,7 +118,7 @@ beschliesst:
 - d Adress- und Auskunftssperre nach Artikel 13 KDSG,
 - e Einschränkung der Datenbekanntgabe nach Artikel 14 KDSG,
 - f Ausweis- und Schriftensperre nach Artikel 237 Absatz 2 Buchstabe b der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO)[^7-3],
-- g Merkmale nach Artikel 2 der Verordnung vom 18. Juni 1986 über Niederlassung und Aufenthalt der Schweizer (VNA)[^7-4].
+- g Merkmale nach Artikel 2 Absatz 1 der Verordnung vom 18. Juni 1986 über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer (NAV)[^7-4].
 
 [^7-1]: SR [211.112.2](https://db.clex.ch/link/Bund/211.112.2/de)
 [^7-2]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
@@ -442,12 +442,12 @@ beschliesst:
 
 #### Art. 33
 
-<sup>1</sup> Das KAIO erlässt die für die Harmonisierung der kantonalen Register notwendigen fachtechnischen Weisungen und legt die Anforderungen für die Bearbeitung von Personendaten in der GERES-Plattform fest.
+<sup>1</sup> Das KAIO erlässt die für die Harmonisierung der kantonalen Register notwendigen fachtechnischen Weisungen und legt die Anforderungen für die Datenübermittlung an die GERES-Plattform, zwischen den Gemeinden sowie für die digitale Umzugsmeldung fest.
 
 <sup>2</sup> Das KAIO
 
-- a definiert die Schnittstellenspezifikation für die GERES-Plattform,
-- b bestimmt die Versionen der Spezifikation, die für die Datenübermittlung in die GERES-Plattform zugelassen sind,
+- a definiert die Schnittstellenspezifikation,
+- b bestimmt die Spezifikationen, die für die Datenübermittlung zugelassen sind,
 - c orientiert sich dabei an den Vorgaben des Bundes, am Stand der Technik und an etablierten Standards.
 
 <sup>3</sup> Es macht die Weisungen öffentlich zugänglich.
@@ -458,11 +458,11 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das KAIO prüft und zertifiziert auf schriftlichen Antrag hin Einwohnerregister-Schnittstellensoftware für die Übermittlung von Personendaten an die GERES-Plattform.
+<sup>1</sup> Das KAIO prüft und zertifiziert auf schriftlichen Antrag hin Einwohnerregister-Schnittstellensoftware.
 
 <sup>2</sup> Die Antragstellerinnen und Antragsteller sind zur Mitwirkung an der Prüfung verpflichtet.
 
-<sup>3</sup> Die Zertifizierung bestätigt, dass die geprüfte Version der Schnittstellensoftware für die Datenübermittlung an die GERES-Plattform tauglich und zugelassen ist.
+<sup>3</sup> Die Zertifizierung bestätigt, dass die geprüfte Version der Schnittstellensoftware für die Datenübermittlung tauglich und zugelassen ist.
 
 #### Art. 35
 
@@ -470,14 +470,16 @@ beschliesst:
 
 <sup>1</sup> Antragsberechtigt ist, wer nachweisen kann, dass sie oder er
 
-- a eine Schnittstellensoftware zwischen der GERES-Plattform und einer Einwohnerregister-Software entwickeln will, die im Kanton vertrieben wird oder in absehbarer Zeit vertrieben werden soll, und
+- a eine Schnittstellensoftware entwickeln will, die im Kanton vertrieben wird oder in absehbarer Zeit vertrieben werden soll, und
 - b zur Vervielfältigung und Veränderung der Schnittstellensoftware und der dazu gehörenden Einwohnerregister-Software in dem Umfang, wie dies für die Umsetzung der Anforderungen an die Schnittstellen und für die Zertifizierung notwendig ist, in der Lage und berechtigt ist (Rechteinhaberin oder Rechteinhaber).
 
 #### Art. 36
 
 **Zugelassene Schnittstellensoftware**
 
-<sup>1</sup> Für die Datenübermittlung an die GERES-Plattform ist nur eine Schnittstellensoftware zugelassen, welche die folgenden aktuell geltenden Normen des Vereins eCH richtig und vollständig umsetzt:
+<sup>1</sup> Für die Datenübermittlung ist nur eine Schnittstellensoftware zugelassen, welche die aktuell geltenden Normen des Vereins eCH richtig und vollständig umsetzt.
+
+<sup>1a</sup> Für die Datenübermittlung an die GERES-Plattform gelten die folgenden Normen:
 
 - a eCH-0006 - Datenstandard Ausländerkategorien,
 - b eCH-0007 - Datenstandard Gemeinden,
@@ -491,7 +493,13 @@ beschliesst:
 - k eCH-0058 - Schnittstellenstandard Meldungsrahmen,
 - l eCH-0135 - Datenstandard Heimatort.
 
-<sup>2</sup> Für die Datenübermittlung gelten die Vorschriften zu Sedex nach den Artikeln 11 ff. RHV.
+<sup>1b</sup> Für die Datenübermittlung zwischen den Gemeinden sowie für die digitale Umzugsmeldung gelten die folgenden Normen:
+
+- a eCH-0093 - Prozess Wegzug Zuzug,
+- b eCH-0194 - Schnittstellenstandard eUmzug V2.0,
+- c eCH-0221 - Referenzmodell eUmzug CH.
+
+<sup>2</sup> Für die Datenübermittlung gelten zudem die Vorschriften zu Sedex nach den Artikeln 11 ff. RHV.
 
 #### Art. 37
 
@@ -513,7 +521,7 @@ beschliesst:
 - a bei einer Änderung der tatsächlichen, rechtlichen oder technischen Grundlagen der Zertifizierung,
 - b bei einer Verletzung der Zertifizierungsauflagen.
 
-<sup>2</sup> Die Zertifizierung erlischt ohne weiteres, wenn die Version der Schnittstellensoftware, die durch die geprüfte Version der Schnittstelle umgesetzt wird, nicht mehr für die Datenübermittlung auf die GERES-Plattform zugelassen ist.
+<sup>2</sup> Die Zertifizierung erlischt ohne weiteres, wenn die Version der Schnittstellensoftware, die durch die geprüfte Version der Schnittstelle umgesetzt wird, nicht mehr für die Datenübermittlung zugelassen ist.
 
 ## 6 Kosten
 

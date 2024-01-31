@@ -4,13 +4,13 @@ number: "152.051"
 title: Ordonnance sur la plate-forme des systèmes des registres communaux
 short: O GERES
 language: fr
-version: 2024-01-01
-valid_until: 2024-01-31
-version_adopted: 2023-10-25
+version: 2024-02-01
+valid_until: 2026-08-31
+version_adopted: 2023-12-06
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.051"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2890/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3004/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2890/pdf_file"
 
 (O GERES)
 
-du 20.01.2021 (état au 01.01.2024)
+du 20.01.2021 (état au 01.02.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 7, 8, 10, 13, alinéa 2, 16 et 17 à 22 de la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^ingress-1], l'article 8, alinéa 3 de la loi du 12 septembre 1985 sur l'établissement et le séjour des Suisses (LES)[^ingress-2] et l'article 18a de la loi du 28 mai 1911 sur l'introduction du Code civil suisse (LiCCS)[^ingress-3],
+vu les articles 7, 8, 10, 12, 13, alinéa 2, 16 et 17 à 22 de la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^ingress-1], l'article 8, alinéa 3 de la loi du 12 septembre 1985 sur l'établissement et le séjour des Suissesses et des Suisses (LES)[^ingress-2] et l'article 18a de la loi du 28 mai 1911 sur l'introduction du Code civil suisse (LiCCS)[^ingress-3],
 
 sur proposition de la Direction des finances,
 
@@ -118,7 +118,7 @@ arrête:
 - d le blocage d'adresses et de renseignements selon l'article 13 LCPD,
 - e la communication limitée de données selon l'article 14 LCPD,
 - f la saisie des documents d'identité et autres documents officiels selon l'article 237, alinéa 2, lettre b du Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure pénale, CPP)[^7-3],
-- g les caractères énoncés à l'article 2 de l'ordonnance du 18 juin 1986 sur l'établissement et le séjour des Suisses (OES)[^7-4].
+- g les caractères énoncés à l'article 2, alinéa 1 de l'ordonnance du 18 juin 1986 sur l'établissement et le séjour des Suissesses et des Suisses (OES)[^7-4].
 
 [^7-1]: RS [211.112.2](https://db.clex.ch/link/Bund/211.112.2/fr)
 [^7-2]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
@@ -442,27 +442,27 @@ arrête:
 
 #### Art. 33
 
-<sup>1</sup> L'OIO édicte les instructions techniques d'harmonisation des registres cantonaux et définit les normes de traitement des données personnelles sur la plate-forme GERES.
+<sup>1</sup> L'OIO édicte les instructions techniques d'harmonisation des registres cantonaux et définit les normes de transmission de données à la plate-forme GERES, entre communes ainsi qu’en matière d’annonce électronique des déménagements.
 
 <sup>2</sup> L'OIO
 
-- a définit les spécifications d'interface avec la plate-forme GERES;
-- b détermine quelles versions de ces spécifications sont autorisées pour la transmission de données à la plate-forme GERES;
-- c tient compte des consignes de la Confédération, l'état de la technique et des normes établies en la matière.
+- a définit les spécifications d'interface;
+- b détermine quelles spécifications sont autorisées pour la transmission de données;
+- c tient compte des consignes de la Confédération, de l'état de la technique et des normes établies en la matière.
 
 <sup>3</sup> Il veille à ce que ses instructions soient accessibles au public.
 
-### 5.2 Certification des logiciels d'interface des registres des habitants
+### 5.2 Certification des logiciels d'interface des registres des habitantes et des habitants
 
 #### Art. 34
 
 **Principe**
 
-<sup>1</sup> Sur demande écrite, l'OIO contrôle et certifie les logiciels d'interface servant à transmettre des données personnelles des registres des habitants à la plate-forme GERES.
+<sup>1</sup> Sur demande écrite, l'OIO contrôle et certifie les logiciels d'interface des registres des habitantes et des habitants.
 
-<sup>2</sup> Les demandeurs et demandeuses sont tenus de collaborer au contrôle.
+<sup>2</sup> Les demandeuses et les demandeurs sont tenus de collaborer au contrôle.
 
-<sup>3</sup> La certification atteste que la version du logiciel d'interface ayant été contrôlée est appropriée à la transmission de données à la plate-forme GERES et qu'elle est agréée.
+<sup>3</sup> La certification atteste que la version du logiciel d'interface ayant été contrôlée est appropriée à la transmission de données et qu'elle est agréée.
 
 #### Art. 35
 
@@ -470,37 +470,45 @@ arrête:
 
 <sup>1</sup> Est habilité à déposer une demande quiconque établit les deux preuves suivantes:
 
-- a Il ou elle veut développer un logiciel d'interface entre la plate-forme GERES et un logiciel d'exploitation d'un registre des habitants, qui est utilisé ou qu'il est prévu d'utiliser dans un proche avenir dans le canton.
-- b Il ou elle détient les droits de reproduction et de modification du logiciel d'interface et du logiciel d'exploitation du registre des habitants concerné dont il faut disposer pour mettre en œuvre les spécifications d'interface et les exigences pour la certification et il ou elle est en capacité d'y pourvoir.
+- a Elle ou il veut développer un logiciel d'interface qui est utilisé ou qu'il est prévu d'utiliser dans un proche avenir dans le canton.
+- b Elle ou il détient les droits de reproduction et de modification du logiciel d'interface et du logiciel d'exploitation du registre des habitantes et des habitants concerné dont il faut disposer pour mettre en œuvre les spécifications d'interface et les exigences pour la certification et elle ou il est en capacité d'y pourvoir.
 
 #### Art. 36
 
-**Logiciels d'Interface autorisés**
+**Logiciels d'interface autorisés**
 
-<sup>1</sup> Seul un logiciel d'interface qui répond exactement à toutes les normes actuellement en vigueur de l'association eCH est autorisé pour transmettre des données à la plate-forme GERES. Ces normes sont les suivantes:
+<sup>1</sup> Seul un logiciel d'interface qui répond exactement à toutes les normes actuellement en vigueur de l'association eCH est autorisé.
+
+<sup>1a</sup> Les normes applicables à la transmission de données à la plate-forme GERES sont les suivantes:
 
 - a eCH-0006 - Normes concernant les données: catégories d’étrangers,
 - b eCH-0007 - Norme concernant les données: communes,
-- c eCH-0008 - Norme concernant les données: Etats et territoires,
+- c eCH-0008 - Norme concernant les données: États et territoires,
 - d eCH-0010 - Norme concernant les données: adresses postales des personnes physiques, raisons sociales, organisations et autorités,
 - e eCH-0011 - Norme concernant les données: données concernant les personnes,
 - f eCH-0020 - Norme d'interface - Motifs d’annonce Registre des personnes,
 - g eCH-0021 - Norme concernant les données: données complémentaires relatives aux personnes,
 - h eCH-0044 - Norme concernant les données: échange d’identifications de personnes,
-- i eCH-0045 - Norme d'interface Registre électoral,
-- k eCH-0058 - Norme d’interface Cadre d’annonce,
+- i eCH-0045 - Norme concernant les données: registre électoral,
+- k eCH-0058 - Norme d’interface - Cadre d’annonce,
 - l eCH-0135 - Norme concernant les données: lieu d'origine.
 
-<sup>2</sup> Les normes de transmission de données sont celles de Sedex selon les articles 11 et suivants OHR.
+<sup>1b</sup> Les normes applicables à la transmission de données entre communes et en matière d’annonce électronique des déménagements sont les suivantes:
+
+- a eCH-0093 - Processus: départ / arrivée
+- b eCH-0194 - Norme d'interface - eDéménagement V2.0
+- c eCH-0221 - Modèle de référence - eDéménagement
+
+<sup>2</sup> Les normes de sedex selon les articles 11 et suivants OHR s'appliquent en outre à la transmission de données.
 
 #### Art. 37
 
 **Charges**
 
-<sup>1</sup> La certification est délivrée à charge, pour les détenteurs ou détentrices du droit de propriété, de communiquer sans délai à l'OIO, et en lui indiquant le numéro de la version, si et dans quelle mesure
+<sup>1</sup> La certification est délivrée à charge, pour les détentrices ou détenteurs du droit de propriété, de communiquer sans délai à l'OIO, et en lui indiquant le numéro de la version, si et dans quelle mesure
 
-- a une modification fonctionnelle est apportée au logiciel d'interface ou au logiciel d'exploitation du registre des habitants concerné, dont il ne peut pas être exclu qu'elle n'a aucune incidence sur la fonction du logiciel d'interface contrôlé dans le cadre de la procédure de certification;
-- b les droits de propriété du logiciel d'interface ou du logiciel d'exploitation du registre des habitants concerné sont cédés à un tiers.
+- a une modification fonctionnelle est apportée au logiciel d'interface ou au logiciel d'exploitation du registre des habitantes et des habitants concerné, dont il ne peut être exclu qu'elle ait une incidence sur la fonction du logiciel d'interface contrôlé dans le cadre de la procédure de certification;
+- b les droits de propriété du logiciel d'interface ou du logiciel d'exploitation du registre des habitantes et des habitants concerné sont cédés à un tiers.
 
 <sup>2</sup> L'OIO peut assortir la certification d'autres charges.
 
@@ -513,7 +521,7 @@ arrête:
 - a en cas de modification des fondements effectifs, juridiques ou techniques de la certification;
 - b en cas de manquement aux charges attachées à la certification.
 
-<sup>2</sup> La certification expire d'elle-même lorsque la version du logiciel d'interface mis en œuvre dans la version contrôlée n’est plus admise pour la transmission de données à la plate-forme GERES.
+<sup>2</sup> La certification expire d'elle-même lorsque la version du logiciel d'interface mis en œuvre dans la version contrôlée n’est plus admise pour la transmission de données.
 
 ## 6 Coûts
 
