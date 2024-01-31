@@ -4,13 +4,12 @@ number: "912.5"
 title: Einführungsgesetz zur Bundesgesetzgebung über das Kindes- und Erwachsenenschutzrecht
 short: EG-KES
 language: de
-version: 2019-01-01
-valid_until: 2024-01-31
-version_adopted: 2018-11-20
+version: 2024-02-01
+version_adopted: 2024-01-23
 adopted: 2012-04-24
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/912.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2498/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3587/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2498/pdf_file"
 
 (EG-KES)
 
-vom 24.04.2012 (Stand 01.01.2019)
+vom 24.04.2012 (Stand 01.02.2024)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -306,7 +305,11 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Die Verfahrenskosten werden in der Verfügung über die Hauptsache festgelegt.
 
-<sup>3</sup> Die Kosten für die Verfahrensvertretung des Kindes nach Art. 314a<sup>bis</sup> ZGB gelten als Verfahrenskosten.
+<sup>3</sup> Die Verfahrenskosten, insbesondere die Kosten für Gutachten oder Verfahrensvertretungen nach Art. 314a<sup>bis</sup> und 449a ZGB, werden der betroffenen Person auferlegt, es sei denn, besondere Umstände rechtfertigen eine andere Verlegung oder den Verzicht auf die Erhebung von Verfahrenskosten.
+
+<sup>4</sup> In Kindesschutzverfahren und insbesondere in Verfahren betreffend den persönlichen Verkehr, die elterliche Sorge oder den Unterhalt werden die Verfahrenskosten in der Regel von den Eltern getragen.
+
+<sup>5</sup> Keine Verfahrenskosten werden erhoben, wenn das zuständige Departement ein Gesuch um unentgeltliche Rechtspflege bewilligt. Nicht gedeckte Verfahrenskosten trägt die Trägerschaft der Kindes- und Erwachsenenschutzbehörde.
 
 #### Art. 26
 
@@ -540,6 +543,12 @@ als Gesetz:[^ingress-2]
 **[^55-1]**
 
 [^55-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
+
+#### Art. 55a
+
+**Übergangsbestimmung des III. Nachtrags vom 23. Januar 2024**
+
+<sup>1</sup> Für die im Zeitpunkt des Vollzugsbeginns des III. Nachtrags zu diesem Erlass bei einer Kindes- und Erwachsenenschutzbehörde hängigen Verfahren gilt das neue Recht.
 
 #### Art. 56
 
