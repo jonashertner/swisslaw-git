@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari destinate
 short: ODPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: it
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20240201-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20230701/it"
 
 (ODPPE)
 
-del 16 dicembre 2016 (Stato 1° luglio 2023)
+del 16 dicembre 2016 (Stato 1° febbraio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -121,16 +121,17 @@ Agli alimenti per lattanti sono applicabili i seguenti requisiti:
   - 1\. le fonti proteiche definite nell’allegato 2 numero 2, e
   - 2\. altri ingredienti, la cui idoneità alla particolare alimentazione dei lattanti sin dalla nascita è dimostrata da dati scientifici generalmente riconosciuti;
 
-- b. la composizione deve soddisfare i requisiti di cui all’allegato 2;
+- b.[^6-1] la composizione deve soddisfare i requisiti di cui agli allegati 2 e 3*a*;
 - c. gli alimenti per lattanti devono essere pronti al consumo con l’aggiunta di acqua potabile;
 - d.
 
   per la fabbricazione possono essere aggiunti esclusivamente le sostanze e i composti di cui all’allegato 1. A essi si applicano i seguenti criteri:
 
-  - 1\. se possono essere utilizzati anche come additivi, i criteri di purezza di cui all’allegato 4 dell’ordinanza del 25 novembre 2013[^6-1] sugli additivi (OAdd),
+  - 1\. se possono essere utilizzati anche come additivi, i criteri di purezza di cui all’allegato 4 dell’ordinanza del 25 novembre 2013[^6-2] sugli additivi (OAdd),
   - 2\. se non possono essere utilizzati come additivi oppure se i criteri di purezza di cui all’allegato 4 OAdd non sono applicabili, i criteri di purezza riconosciuti da organismi internazionali.
 
-[^6-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^6-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^6-2]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 7
 
@@ -255,16 +256,17 @@ Agli alimenti di proseguimento si applicano i seguenti requisiti:
   - 1\. le fonti proteiche definite nell’allegato 3 numero 2, e
   - 2\. altri ingredienti, la cui idoneità alla particolare alimentazione dei lattanti di età superiore a sei mesi e dei bambini nella prima infanzia è dimostrata da dati scientifici riconosciuti;
 
-- b. la composizione deve soddisfare i requisiti di cui all’allegato 3;
+- b.[^13-1] la composizione deve soddisfare i requisiti di cui agli allegati 3 e 3*a*;
 - c. devono essere pronti al consumo con l’aggiunta di acqua potabile;
 - d.
 
   devono essere aggiunte esclusivamente sostanze e composti di cui all’allegato 1. A tali sostanze e composti si applicano i seguenti criteri:
 
-  - 1\. se possono essere utilizzati anche come additivi: i criteri di purezza di cui all’allegato 4 OAdd[^13-1],
+  - 1\. se possono essere utilizzati anche come additivi: i criteri di purezza di cui all’allegato 4 OAdd[^13-2],
   - 2\. se non possono essere utilizzati come additivi oppure se i criteri di purezza di cui all’allegato 4 OAdd non sono applicabili: i criteri di purezza riconosciuti da organismi internazionali.
 
-[^13-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^13-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^13-2]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 14
 
@@ -454,11 +456,13 @@ Oltre alle indicazioni di cui all’articolo 4, l’etichetta deve recare le seg
 
 [^chap2-sec5-1]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
-**Art. 22**a
+#### Art. 22a
 
 <sup>1</sup> Il materiale informativo di fabbricanti o distributori riprende le raccomandazioni dell’USAV per quanto riguarda l’alimentazione di lattanti e bambini nella prima infanzia.
 
-<sup>2</sup> Questo materiale informativo, in forma scritta o audiovisiva, sull’alimentazione dei lattanti destinato alle donne incinte e alle madri di lattanti e di bambini nella prima infanzia fornisce chiare informazioni su tutti i punti seguenti:
+<sup>2</sup>
+
+Questo materiale informativo, in forma scritta o audiovisiva, sull’alimentazione dei lattanti destinato alle donne incinte e alle madri di lattanti e di bambini nella prima infanzia fornisce chiare informazioni su tutti i punti seguenti:
 
 - a. i benefici e la superiorità dell’allattamento al seno;
 - b. l’alimentazione materna, la preparazione all’allattamento al seno e le modalità per assicurarne il mantenimento;
@@ -602,33 +606,30 @@ Oltre agli articoli 28 e 29, agli alimenti a fini medici speciali sviluppati per
 
 ## Capitolo 4: Alimenti per il controllo del peso
 
-[^chap4-1]
+[^chap4-1][^chap4-2]
 
-[^chap4-1]: Nuovo testo giusta il n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^chap4-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^chap4-2]: Nuovo testo giusta il n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
-## Sezione 1: Sostituti dell’intera razione alimentare giornaliera per il controllo del peso
+### Sezione 1: Sostituti dell’intera razione alimentare giornaliera per il controllo del peso
 
-[^chap5-1]
+[^chap4-sec1-1]
 
-[^chap5-1]: Introdotto dal n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^chap4-sec1-1]: Introdotto dal n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 #### Art. 32
 
-**Definizione**[^32-1]
+**Definizione**
 
 I sostituti dell’intera razione alimentare giornaliera per il controllo del peso sono alimenti di composizione particolare che, se utilizzati secondo le istruzioni del fabbricante, sostituiscono interamente il fabbisogno alimentare quotidiano.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
-
 #### Art. 33
 
-[^33-1]
-
-[^33-1]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+*Abrogato*
 
 #### Art. 34
 
-**Requisiti**[^34-1]
+**Requisiti**
 
 <sup>1</sup> I sostituti dell’intera razione alimentare giornaliera per il controllo del peso sono conformi ai requisiti relativi alla composizione di cui all’allegato 10.
 
@@ -636,17 +637,15 @@ I sostituti dell’intera razione alimentare giornaliera per il controllo del pe
 
 <sup>3</sup> I sostituti dell’intera razione alimentare giornaliera per il controllo del peso possono contenere ingredienti diversi dalle sostanze elencate all’allegato 10 solo se la loro idoneità è stata stabilita mediante dati scientifici generalmente accettati.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
-
 #### Art. 35
 
-**Caratterizzazione: disposizioni generali**[^35-1]
+**Caratterizzazione: disposizioni generali**
 
 <sup>1</sup> La denominazione specifica è «sostituto dell’intera razione alimentare giornaliera per il controllo del peso».
 
 <sup>2</sup>
 
-Le informazioni obbligatorie di cui all’articolo 3 capoverso 1 OID[^35-2] sono integrate da:
+Le informazioni obbligatorie di cui all’articolo 3 capoverso 1 OID[^35-1] sono integrate da:
 
 - a. una dicitura indicante che il prodotto è destinato solo ad adulti obesi o in sovrappeso sani che intendono conseguire una riduzione del peso;
 - b. una dicitura indicante che il prodotto non dovrebbe essere utilizzato, senza il parere di un professionista della sanità, da donne in gravidanza o in allattamento, da adolescenti o da persone che soffrono di una determinata patologia;
@@ -659,14 +658,13 @@ Le informazioni obbligatorie di cui all’articolo 3 capoverso 1 OID[^35-2] sono
 
 <sup>3</sup> La caratterizzazione, la presentazione e la pubblicità dei sostituti dell’intera razione alimentare giornaliera per il controllo del peso non fa alcun riferimento al ritmo o all’entità della perdita di peso conseguibili dal loro impiego.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
-[^35-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^35-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art 35a
 
-**Caratterizzazione: dichiarazione del valore nutritivo**[^35a-1]
+**Caratterizzazione: dichiarazione del valore nutritivo**
 
-<sup>1</sup> Oltre alle informazioni di cui all’articolo 22 capoverso 1 OID[^35a-2], la dichiarazione obbligatoria del valore nutritivo per i sostituti dell’intera razione giornaliera per il controllo del peso indica la quantità di ogni sostanza minerale e delle vitamine elencate nell’allegato 10 presenti nel prodotto.
+<sup>1</sup> Oltre alle informazioni di cui all’articolo 22 capoverso 1 OID[^35a-1], la dichiarazione obbligatoria del valore nutritivo per i sostituti dell’intera razione giornaliera per il controllo del peso indica la quantità di ogni sostanza minerale e delle vitamine elencate nell’allegato 10 presenti nel prodotto.
 
 <sup>2</sup> La dichiarazione obbligatoria del valore nutritivo per i sostituti dell’intera razione alimentare giornaliera per il controllo del peso comprende inoltre la quantità di colina presente e, se aggiunte, di fibre alimentari.
 
@@ -698,24 +696,21 @@ Oltre alle informazioni di cui all’articolo 23 capoverso 1 OID, il contenuto d
 
 <sup>13</sup> La dicitura «dieta a basso contenuto calorico» può essere utilizzata per i sostituti dell’intera razione alimentare giornaliera per il controllo del peso, purché il valore energetico del prodotto sia compreso tra 3360 kJ/giorno (800 kcal/giorno) e 5040 kJ/giorno (1200 kcal/giorno).
 
-[^35a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
-[^35a-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^35a-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 35b
 
-**Indicazioni nutrizionali e sulla salute**[^35b-1]
+**Indicazioni nutrizionali e sulla salute**
 
 <sup>1</sup> I sostituti dell’intera razione giornaliera per il controllo del peso non recano indicazioni nutrizionali e sulla salute.
 
 <sup>2</sup> In deroga al capoverso 1, l’indicazione nutrizionale «fibre aggiunte» può essere utilizzata per i sostituti dell’intera razione alimentare giornaliera per il controllo del peso, a condizione che il contenuto di fibre alimentari del prodotto non sia inferiore a 10 g.
 
-[^35b-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
-
 ### Sezione 2: Sostituto di un pasto per il controllo del peso
 
-[^chap5-sec2-1]
+[^chap4-sec2-1]
 
-[^chap5-sec2-1]: Introdotta dal n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^chap4-sec2-1]: Introdotta dal n. I dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 #### Art. 35c
 
@@ -805,11 +800,28 @@ L’aggiunta di colture batteriche vive deve essere indicata nell’elenco degli
 
 <sup>4</sup> La caratterizzazione deve fare riferimento al tenore di vitamine, sali minerali o altre sostanze al momento della consegna ai consumatori.
 
-<sup>5</sup> Le bevande con un’osmolarità compresa fra 260 e 300 mOsm/litro possono essere definite isotoniche mentre le bevande con un’osmolarità inferiore a 260 mOsm/litro possono essere definite ipotoniche.[^40-3]
+<sup>5</sup>
+
+Per la categoria b di alimenti per sportivi di cui all’articolo 37, le indicazioni obbligatorie elencate nell’articolo 3 capoverso 1 OID devono essere completate dalle informazioni seguenti:
+
+- a. la dose giornaliera raccomandata espressa in porzioni del prodotto;
+- b. l’avvertenza di non superare la dose giornaliera raccomandata;
+- c. l’indicazione che il prodotto deve essere tenuto fuori dalla portata dei bambini.[^40-3]
+
+<sup>6</sup> In deroga all’articolo 21 capoverso 1 OID, la dichiarazione del valore nutritivo non è obbligatoria per le derrate alimentari di cui all’articolo 37 lettera b.[^40-4]
+
+<sup>7</sup>
+
+Per le derrate alimentari di cui all’articolo 37 lettera b, nel caso si faccia riferimento a una vitamina, a un sale minerale o a un’altra sostanza, nella dose giornaliera raccomandata deve essere compreso:
+
+- a. per le vitamine e i sali minerali: almeno il 15 per cento della quantità di riferimento di cui all’allegato 10, parte A OID;
+- b. per le altre sostanze: almeno il 15 per cento della quantità massima secondo l’allegato 11; questa percentuale può essere eccezionalmente inferiore se si può dimostrare, sulla base di dati e informazioni scientifici generalmente riconosciuti, che la sostanza è presente in una quantità tale da produrre un effetto nutritivo o fisiologico.[^40-5]
 
 [^40-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^40-2]: www.the-icsp.org
-[^40-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^40-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-4]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-5]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ## Capitolo 6: Adeguamento degli allegati
 
@@ -837,6 +849,14 @@ L’ordinanza del DFI del 23 novembre 2005[^42-1] sugli alimenti speciali è abr
 
 <sup>2</sup> L’indicazione di cui all’articolo 8 capoverso 4 lettera d può essere utilizzata esclusivamente per alimenti per lattanti immessi sul mercato prima del 22 febbraio 2025.
 
+#### Art. 43a
+
+**Disposizione transitoria della modifica dell’8 dicembre 2023**[^43a-1]
+
+Le derrate alimentari destinate alle persone con particolari esigenze nutrizionali che non risultano conformi alla modifica dell’8 dicembre 2023 della presente ordinanza possono essere ancora fabbricate, importate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025. Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino a esaurimento delle scorte.
+
+[^43a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+
 #### Art. 44
 
 **Entrata in vigore**
@@ -857,7 +877,7 @@ Allegato 1[^t-1]
 
 ## Sostanze e composti
 
-[^t-1]: Nuovo testo giusta il n. II 1 dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-1]: Nuovo testo giusta il n. II 1 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 <table>
 <tr><th>Sostanze</th><th>Composti</th><th colspan="5">Categorie alimentari</th><th></th><th></th><th></th><th></th></tr>
@@ -868,9 +888,9 @@ Allegato 1[^t-1]
 <tr><td></td><td>D-pantotenato di sodio</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Biotina</td><td>D-Biotina</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Folato</td><td>Acido folico o acido pteroil-monoglutammico</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
-<tr><td></td><td>L-metilfolato di calcio</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
+<tr><td></td><td>L-metilfolato di calcio</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Niacina</td><td>Acido nicotinico</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
-<tr><td></td><td>Nicotinamide</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
+<tr><td></td><td>Nicotinamide riboside cloruro</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Riboflavina</td><td>Riboflavina</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Riboflavina-5’-fosfato di sodio</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Tiamina</td><td>Tiamina cloridrato</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
@@ -1053,7 +1073,7 @@ Allegato 1[^t-1]
 </table>
 
 [^annex1-lvlu1-1]: Menachinone principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
-[^annex1-lvlu1-2]: Lieviti arricchiti in selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 % e l’85 % del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non supera il 10 % del tenore complessivo di selenio estratto. I livelli di selenio inorganico non possono superare normalmente l’1 % del tenore complessivo di selenio estratto.
+[^annex1-lvlu1-2]: Lieviti arricchiti in selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 per cento e l’85 per cento del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non supera il 10 per cento del tenore complessivo di selenio estratto. I livelli di selenio inorganico non possono superare normalmente l’1 per cento del tenore complessivo di selenio estratto.
 [^annex1-lvlu1-3]: Per gli aminoacidi aggiunti agli alimenti per lattanti, agli alimenti di proseguimento, agli alimenti a base di cereali e alle altre pappe di complemento possono essere utilizzati esclusivamente i cloridrati indicati espressamente. Per gli aminoacidi aggiunti agli alimenti a fini medici speciali e ai sostituti dell’intera razione alimentare giornaliera per il controllo del peso possono essere utilizzati eventualmente anche i sali di sodio, potassio, calcio e magnesio, come pure i loro cloridrati.
 [^annex1-lvlu1-4]: In caso di utilizzo negli alimenti per lattanti, negli alimenti di proseguimento, negli alimenti a base di cereali e negli altri alimenti per la prima infanzia, la cistina può essere utilizzata solo nella forma L-cistina.
 
@@ -1063,7 +1083,7 @@ Allegato 2[^t-2]
 
 ## Requisiti della composizione di alimenti per lattanti
 
-[^t-2]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). La correzione del 31 mag. 2021 concerne soltanto il testo tedesco ([RU 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
+[^t-2]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Osservazione:* i valori indicati si riferiscono al prodotto pronto al consumo immesso sul mercato come tale o preparato secondo le istruzioni del fabbricante.
 
@@ -1087,28 +1107,9 @@ Allegato 2[^t-2]
 <tr><td>(1,8 g/100 kcal)</td><td>(2,5 g/100 kcal)</td></tr>
 </table>
 
-- A parità di valore energetico, gli alimenti per lattanti a base di proteine di latte vaccino o caprino devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo il n. 26). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilanina e di tirosina, se il rapporto della tirosina con la fenilanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2 a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da studi adeguati, eseguiti in base alle raccomandazioni riconosciute emanate da cerchie specializzate relative alla pianificazione e all’esecuzione di questo genere di studi.
+- A parità di valore energetico, gli alimenti per lattanti a base di proteine del latte vaccino o caprino devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 3*a*, lett. A). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilalanina e di tirosina, se il rapporto della tirosina con la fenilalanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2, a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da un esame sistematico dei dati scientifici generalmente riconosciuti e disponibili relativi ai benefici previsti e alle considerazioni in materia di sicurezza nonché, se necessario, mediante studi adeguati, eseguiti in base agli orientamenti generalmente accettati di esperti sull’elaborazione e sullo svolgimento di tali studi.
 - Il tenore di L-carnitina deve essere di almeno 0,3 mg/100 kJ (1,2 mg/100 kcal).
-- 2\.3 Alimenti per lattanti a base di idrolizzati di proteine
-
-<table>
-<tr><td>Almeno</td><td>Al massimo</td></tr>
-<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
-<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
-</table>
-
-- Gli idrolizzati di proteine provengono dalle seguenti fonti:
--
-
-  proteine di siero di latte dolce demineralizzato ottenute dal latte in seguito a precipitazione enzimatica delle caseine mediante impiego di chimosina e costituite dal:
-
-  - a) 63 per cento di isolato di proteine di siero di latte privo di glicomacropeptidi da caseina con un tenore proteico minimo pari al 95 per cento di materia secca, una denaturazione delle proteine inferiore al 70 per cento e un tenore massimo di ceneri del 3 per cento; e
-  - b) 37 per cento di concentrato proteico di siero di latte dolce con un tenore proteico minimo pari all’87 per cento di materia secca, una denaturazione delle proteine inferiore al 70 per cento e un tenore massimo di ceneri del 3,5 per cento.
-
-- Le fonti proteiche devono essere trasformate nel modo seguente: processo di idrolisi in due fasi mediante impiego di un preparato di tripsina con una fase di trattamento termico (da 3 a 10 minuti tra 80 e 100 °C) tra le due fasi di idrolisi.
-- A parità di valore energetico, gli alimenti per lattanti a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo il n. 2.6). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilanina e di tirosina, se il rapporto della tirosina con la fenilanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2 a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da studi adeguati, eseguiti in base alle raccomandazioni riconosciute emanate da cerchie specializzate relative alla pianificazione e all’esecuzione di questo genere di studi.
-- Il tenore di L-carnitina deve essere di almeno 0,3 mg/100 kJ (1,2 mg/100 kcal).
-- 2\.4 Alimenti per lattanti a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino
+- 2\.3 Alimenti per lattanti a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino
 
 <table>
 <tr><td>Almeno</td><td>Al massimo</td></tr>
@@ -1117,25 +1118,71 @@ Allegato 2[^t-2]
 </table>
 
 - Per la fabbricazione di questi alimenti per lattanti devono essere utilizzati soltanto isolati di proteine di soia.
-- A parità di valore energetico, gli alimenti per lattanti a base di isolati di proteine di soia soli o associati a proteine del latte vaccino o caprino devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo il n. 2.6). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilanina e di tirosina, se il rapporto della tirosina con la fenilanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2 a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da studi adeguati, eseguiti in base alle raccomandazioni riconosciute emanate da cerchie specializzate relative alla pianificazione e all’esecuzione di questo genere di studi.
+- A parità di valore energetico, gli alimenti per lattanti a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino, devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 3*a*, lett. A). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilalanina e di tirosina, se il rapporto della tirosina con la fenilalanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2, a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da un esame sistematico dei dati scientifici generalmente riconosciuti e disponibili relativi ai benefici previsti e alle considerazioni in materia di sicurezza nonché, se necessario, mediante studi adeguati, eseguiti in base agli orientamenti generalmente accettati di esperti sull’elaborazione e sullo svolgimento di tali studi.
 - Il tenore di L-Carnitina deve ammontare almeno a 0,3 mg/100 kJ (1,2 mg/100 kcal).
-- 2\.5 In tutti i casi si possono aggiungere aminoacidi esclusivamente allo scopo di migliorare il valore nutritivo delle proteine e unicamente nella proporzione necessaria a tale fine.
-- 2\.6 I tenori in aminoacidi essenziali e semiessenziali delle proteine di latte materno sono i seguenti:
+- 2\.4 Alimenti per lattanti a base di idrolizzati di proteine
+- Gli alimenti per lattanti a base di idrolizzati di proteine devono soddisfare i requisiti relativi alle proteine di cui al numero 2.4.1, 2.4.2 o 2.4.3.
+- 2\.4.1 Requisiti relativi alle proteine, gruppo A
+- 2\.4.1.1 Tenore di proteine
 
 <table>
-<tr><td>Aminoacidi</td><td>Alimenti per lattanti mg/100 kJ</td><td>ai sensi dei n. 2.2.+2.4 mg/100 kcal</td><td>Alimenti per lattanti mg/100 kJ</td><td>ai sensi del numero 2.3 mg/100 kcal</td></tr>
-<tr><td>Arginina Cisteina</td><td>– 9</td><td>– 38</td><td>16 6</td><td>69 24</td></tr>
-<tr><td>Fenilalanina</td><td>20</td><td>83</td><td>15</td><td>62</td></tr>
-<tr><td>Isoleucina</td><td>22</td><td>90</td><td>17</td><td>72</td></tr>
-<tr><td>Istidina</td><td>10</td><td>40</td><td>11</td><td>45</td></tr>
-<tr><td>Leucina</td><td>40</td><td>166</td><td>37</td><td>156</td></tr>
-<tr><td>Lisina</td><td>27</td><td>113</td><td>29</td><td>122</td></tr>
-<tr><td>Metionina</td><td>5</td><td>23</td><td>7</td><td>29</td></tr>
-<tr><td>Tirosina</td><td>18</td><td>76</td><td>14</td><td>59</td></tr>
-<tr><td>Treonina</td><td>18</td><td>77</td><td>19</td><td>80</td></tr>
-<tr><td>Triptofano</td><td>8</td><td>32</td><td>7</td><td>30</td></tr>
-<tr><td>Valina</td><td>21</td><td>88</td><td>19</td><td>80</td></tr>
+<tr><td>Almeno</td><td>Al massimo</td></tr>
+<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
 </table>
+
+- 2\.4.1.2 Fonte proteica
+-
+
+  Proteine di siero di latte dolce demineralizzato ottenute dal latte vaccino in seguito a precipitazione enzimatica delle caseine mediante impiego di chimosina e costituite dal:
+
+  - a. 63 per cento di isolato di proteine di siero di latte privo di glicomacropeptidi da caseina con un tenore proteico minimo pari al 95 per cento di materia secca, una denaturazione delle proteine inferiore al 70 per cento e un tenore massimo di ceneri del 3 per cento; e
+  - b. 37 per cento di concentrato proteico di siero di latte dolce con un tenore proteico minimo pari all’87 per cento di materia secca, una denaturazione delle proteine inferiore al 70 per cento e un tenore massimo di ceneri del 3,5 per cento.
+
+- 2\.4.1.3 Trasformazione delle proteine
+- Processo di idrolisi in due fasi mediante impiego di un preparato di tripsina con una fase di trattamento termico (da 3 a 10 minuti a 80–100 °C) tra le due fasi di idrolisi.
+- 2\.4.1.4 Aminoacidi essenziali e semiessenziali e L-carnitina
+- A parità di valore energetico, gli alimenti per lattanti a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera B. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilalanina e di tirosina, se il rapporto della tirosina con la fenilalanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2, a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da un esame sistematico dei dati scientifici generalmente riconosciuti e disponibili relativi ai benefici previsti e alle considerazioni in materia di sicurezza nonché, se necessario, mediante studi adeguati, eseguiti in base agli orientamenti generalmente accettati di esperti sull’elaborazione e sullo svolgimento di tali studi.
+- Il tenore di L-carnitina deve essere di almeno 0,3 mg/100 kJ (1,2 mg/100 kcal).
+- 2\.4.2 Requisiti relativi alle proteine, gruppo B
+- 2\.4.2.1 Tenore di proteine
+
+<table>
+<tr><td>Almeno</td><td>Al massimo</td></tr>
+<tr><td>0,55 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,3 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.2.2 Fonte proteica
+-
+
+  Proteine di siero di latte derivate dal latte vaccino, costituite dal:
+
+  - a. 77 per cento di siero di latte acido proveniente da un concentrato proteico di siero di latte con un tenore proteico compreso tra il 35 e l’80 per cento;
+  - b. 23 per cento di siero di latte dolce proveniente da siero di latte dolce demineralizzato con un tenore proteico del 12,5 per cento.
+
+- 2\.4.2.3 Trasformazione delle proteine
+- Il materiale di base è idratato e riscaldato. Dopo la fase di trattamento termico, l’idrolisi è effettuata a un pH compreso tra 7,5 e 8,5 e a una temperatura compresa tra i 55 e i 70 °C mediante l’impiego di una miscela enzimatica di serina endopeptidasi e di un complesso di proteasi/peptidasi. Gli enzimi alimentari sono inattivati in una fase di trattamento termico (da 2 a 10 secondi a 120–150 °C) durante il processo di produzione.
+- 2\.4.2.4 Aminoacidi essenziali e semiessenziali e L-carnitina
+- A parità di valore energetico, gli alimenti per lattanti a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera A. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilalanina e di tirosina, se il rapporto della tirosina con la fenilalanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2, a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da un esame sistematico dei dati scientifici generalmente riconosciuti e disponibili relativi ai benefici previsti e alle considerazioni in materia di sicurezza nonché, se necessario, mediante studi adeguati, eseguiti in base agli orientamenti generalmente accettati di esperti sull’elaborazione e sullo svolgimento di tali studi.
+- Il tenore di L-carnitina deve essere di almeno 0,3 mg/100 kJ (1,2 mg/100 kcal).
+- 2\.4.3 Requisiti relativi alle proteine, gruppo C
+- 2\.4.3.1 Tenore di proteine
+
+<table>
+<tr><td>Almeno</td><td>Al massimo</td></tr>
+<tr><td>0,45 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,9 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.3.2 Fonte proteica
+- Proteine di siero di latte ottenute dal latte vaccino, costituite dal 100 per cento di concentrato proteico di siero di latte dolce con un tenore proteico minimo pari all’80 per cento.
+- 2\.4.3.3 Trasformazione delle proteine
+- Il materiale di base è idratato e riscaldato. Prima dell’idrolisi, il pH è regolato a un valore compreso tra 6,5 e 7,5 e a una temperatura compresa tra i 50 e i 65 °C. L’idrolisi è effettuata mediante l’impiego di una miscela enzimatica di serina endopeptidasi e di metalloproteasi. Gli enzimi alimentari sono inattivati in una fase di trattamento termico (da 2 a 10 secondi a 110–140 °C) durante il processo di produzione.
+- 2\.4.3.4 Aminoacidi essenziali e semiessenziali e L-carnitina
+- A parità di valore energetico, gli alimenti per lattanti a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera A. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina, se il rapporto della metionina con la cisteina non è maggiore di 2. È possibile sommare i tenori di fenilalanina e di tirosina, se il rapporto della tirosina con la fenilalanina non è maggiore di 2. Il rapporto tra metionina e cisteina e tra tirosina e fenilalanina può essere maggiore di 2, a condizione che l’idoneità del prodotto per le particolari esigenze nutrizionali dei lattanti sia stata dimostrata da un esame sistematico dei dati scientifici generalmente riconosciuti e disponibili relativi ai benefici previsti e alle considerazioni in materia di sicurezza nonché, se necessario, mediante studi adeguati, eseguiti in base agli orientamenti generalmente accettati di esperti sull’elaborazione e sullo svolgimento di tali studi.
+- Il tenore di L-carnitina deve essere di almeno 0,3 mg/100 kJ (1,2 mg/100 kcal).
+- 2\.5 In tutti i casi si possono aggiungere aminoacidi esclusivamente allo scopo di migliorare il valore nutritivo delle proteine e unicamente nella proporzione necessaria a tale fine.
 
 ### 3 Taurina
 
@@ -1192,12 +1239,12 @@ Se all’alimento per lattanti è aggiunta taurina, il suo tenore non deve super
 
   È permessa l’aggiunta di altri acidi grassi polinsaturi a lunga catena (atomi di carbonio 20 e 22). In questi casi, la loro parte rispetto al tenore di grassi totale non deve superare:
 
-  - 551 per acidi grassi polinsaturi a lunga catena: 2 %
-  - 552 per gli acidi arachidonici (20:4 n-6): 1 %
+  - 551 per acidi grassi polinsaturi a lunga catena: 2 per cento
+  - 552 per gli acidi arachidonici (20:4 n-6): 1 per cento
 
 - Il tenore di acido eicosapentaenico (20:5 n-3) non può essere superiore a quello dell’acido docosaesaenoico (22:6 n-3).
-- 5\.6 Il tenore di acidi grassi trans non deve essere superiore al 3 % del tenore di grassi totale.
-- 5\.7 Il tenore di acido erucico non deve essere superiore allo 0,4 % del tenore di grassi totali.
+- 5\.6 Il tenore di acidi grassi trans non deve essere superiore al 3 per cento del tenore di grassi totale.
+- 5\.7 Il tenore di acido erucico non deve essere superiore allo 0,4 per cento del tenore di grassi totali.
 
 ### 6 Fosfolipidi
 
@@ -1354,7 +1401,7 @@ Allegato 3[^t-3]
 
 ## Requisiti della composizione degli alimenti di proseguimento
 
-[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Osservazione:* i valori si riferiscono al prodotto pronto al consumo commercializzato come tale o preparato secondo le istruzioni del fabbricante.
 
@@ -1368,8 +1415,9 @@ Allegato 3[^t-3]
 
 ### 2 Proteine
 
+- 2\.1 Definizioni
 - Tenore di proteine = Tenore di azoto × 6,25.
-- 2\.1 Alimenti di proseguimento a base di proteine del latte vaccino o caprino
+- 2\.2 Alimenti di proseguimento a base di proteine del latte vaccino o caprino
 
 <table>
 <tr><td>Almeno</td><td>Al massimo</td></tr>
@@ -1377,26 +1425,8 @@ Allegato 3[^t-3]
 <tr><td>(1,6 g/100 kcal)</td><td>(2,5 g/100 kcal)</td></tr>
 </table>
 
-- A parità di valore energetico, gli alimenti di proseguimento a base di proteine di latte vaccino o caprino devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 2 n. 2,6). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
-- 2\.2 Alimenti di proseguimento a base di idrolizzati di proteine
-
-<table>
-<tr><td>Almeno</td><td>Al massimo</td></tr>
-<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
-<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
-</table>
-
-- [tab] Gli idrolizzati di proteine provengono dalle seguenti fonti:
-- [tab]
-
-  proteine di siero di latte dolce demineralizzato ottenute dal latte in seguito a precipitazione enzimatica delle caseine mediante impiego di chimosina e costituite dal:
-
-  - a) 63 per cento di isolato di proteine di siero di latte privo di glicomacropeptidi da caseina con un tenore proteico minimo pari al 95 per cento di materia secca, una denaturazione delle proteine inferiore al 70 per cento e un tenore massimo di ceneri del 3 per cento; e
-  - b) 37 per cento di concentrato proteico di siero di latte dolce con un tenore proteico minimo pari all’87 per cento di materia secca, una denaturazione delle proteine inferiore al 70 per cento e un tenore massimo di ceneri del 3,5 per cento.
-
-- Le fonti proteiche devono essere trasformate nel modo seguente: processo di idrolisi in due fasi mediante impiego di un preparato di tripsina con una fase di trattamento termico (da 3 a 10 minuti tra 80 e 100 °C) tra le due fasi di idrolisi.
-- A parità di valore energetico, gli alimenti di proseguimento a base di idrolizzati proteici devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 2 n. 2,6). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
-- 2\.3 Alimenti di proseguimento a base di isolati di proteine di soia, soli o mescolati a proteine del latte vaccino o caprino
+- A parità di valore energetico, gli alimenti di proseguimento a base di proteine del latte vaccino o caprino devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 3*a*, lett. A). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
+- 2\.3 Alimenti di proseguimento a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino
 
 <table>
 <tr><td>Almeno</td><td>Al massimo</td></tr>
@@ -1405,8 +1435,68 @@ Allegato 3[^t-3]
 </table>
 
 - Per la fabbricazione di questi alimenti di proseguimento devono essere utilizzati soltanto isolati di proteine di soia.
-- A parità di valore energetico, gli alimenti di proseguimento a base di isolati di proteine di soia soli o associati a proteine del latte vaccino o caprino devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 2 n. 2,6). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
-- 2\.4 In tutti i casi si possono aggiungere aminoacidi esclusivamente allo scopo di migliorare il valore nutritivo delle proteine e unicamente nella proporzione necessaria a tale fine.
+- A parità di valore energetico, gli alimenti di proseguimento a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino, devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento (latte materno secondo l’allegato 3*a*, lett. A). In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
+- 2\.4 Alimenti di proseguimento a base di idrolizzati di proteine
+- Gli alimenti di proseguimento a base di idrolizzati di proteine devono soddisfare i requisiti relativi alle proteine di cui al numero 2.4.1, 2.4.2 o 2.4.3.
+- 2\.4.1 Requisiti relativi alle proteine, gruppo A
+- 2\.4.1.1 Tenore di proteine
+
+<table>
+<tr><td>Almeno</td><td>Al massimo</td></tr>
+<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.1.2 Fonte proteica
+-
+
+  Proteine di siero di latte dolce demineralizzato ottenute dal latte in seguito a precipitazione enzimatica delle caseine mediante impiego di chimosina e costituite dal:
+
+  - a. 63 per cento di isolato di proteine di siero di latte privo di glicomacropeptidi da caseina con un tenore proteico minimo pari al 95 per cento di materia secca, una denaturazione delle proteine inferiore al 70 per cento e un tenore massimo di ceneri del 3 per cento; e
+  - b. 37 per cento di concentrato proteico di siero di latte dolce con un tenore proteico minimo pari all’87 per cento di materia secca, una denaturazione delle proteine inferiore al 70 per cento e un tenore massimo di ceneri del 3,5 per cento.
+
+- 2\.4.1.3 Trasformazione delle proteine
+- Processo di idrolisi in due fasi mediante impiego di un preparato di tripsina con una fase di trattamento termico (da 3 a 10 minuti a 80–100 °C) tra le due fasi di idrolisi.
+- 2\.4.1.4 Aminoacidi essenziali e semiessenziali e L-carnitina
+- A parità di valore energetico, gli alimenti di proseguimento a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera B. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
+- 2\.4.2 Requisiti relativi alle proteine, gruppo B
+- 2\.4.2.1 Tenore di proteine
+
+<table>
+<tr><td>Almeno</td><td>Al massimo</td></tr>
+<tr><td>0,55 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,3 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.2.2 Fonte proteica
+-
+
+  Proteine di siero di latte derivate dal latte vaccino, costituite dal:
+
+  - a. 77 per cento di siero di latte acido proveniente da un concentrato proteico di siero di latte con un tenore proteico compreso tra il 35 e l’80 per cento;
+  - b. 23 per cento di siero di latte dolce proveniente da siero di latte dolce demineralizzato con un tenore proteico del 12,5 per cento.
+
+- 2\.4.2.3 Trasformazione delle proteine
+- Il materiale di base è idratato e riscaldato. Dopo la fase di trattamento termico, l’idrolisi è effettuata a un pH compreso tra 7,5 e 8,5 e a una temperatura compresa tra i 55 e i 70 °C mediante l’impiego di una miscela enzimatica di serina endopeptidasi e di un complesso di proteasi/peptidasi. Gli enzimi alimentari sono inattivati in una fase di trattamento termico (da 2 a 10 secondi a 120–150 °C) durante il processo di produzione.
+- 2\.4.2.4 Aminoacidi essenziali e semiessenziali
+- A parità di valore energetico, gli alimenti di proseguimento a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera A. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
+- Il tenore di L-carnitina deve essere di almeno 0,3 mg/100 kJ (1,2 mg/100 kcal).
+- 2\.4.3 Requisiti relativi alle proteine, gruppo C
+- 2\.4.3.1 Tenore di proteine
+
+<table>
+<tr><td>Almeno</td><td>Al massimo</td></tr>
+<tr><td>0,45 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,9 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.3.2 Fonte proteica
+- Proteine di siero di latte ottenute dal latte vaccino, costituite da 100 per cento di concentrato proteico di siero di latte dolce con un tenore proteico minimo pari all’80 per cento.
+- 2\.4.3.3 Trasformazione delle proteine
+- Il materiale di base è idratato e riscaldato. Prima dell’idrolisi, il pH è regolato a un valore compreso tra 6,5 e 7,5 e a una temperatura compresa tra i 50 e i 65 °C. L’idrolisi è effettuata mediante l’impiego di una miscela enzimatica di serina endopeptidasi e di metalloproteasi. Gli enzimi alimentari sono inattivati in una fase di trattamento termico (da 2 a 10 secondi a 110–140 °C) durante il processo di produzione.
+- 2\.4.3.4 Aminoacidi essenziali e semiessenziali
+- A parità di valore energetico, gli alimenti di proseguimento a base di idrolizzati di proteine devono contenere tutti gli aminoacidi essenziali e semiessenziali in quantità almeno pari a quelle della proteina di riferimento di cui all’allegato 3*a*, lettera A. In questo calcolo è tuttavia possibile sommare i tenori di metionina e cisteina e i tenori di fenilalanina e tirosina.
+- 2\.5 In tutti i casi si possono aggiungere aminoacidi esclusivamente allo scopo di migliorare il valore nutritivo delle proteine e unicamente nella proporzione necessaria a tale fine.
 
 ### 3 Taurina
 
@@ -1435,8 +1525,8 @@ Allegato 3[^t-3]
 <tr><td>(500 mg/100 kcal)</td><td>(1200 mg/100 kcal)</td></tr>
 </table>
 
-- 4\.3 Il tenore di acidi grassi trans non deve essere superiore al 3 % del tenore di grassi totale.
-- 4\.4 Il tenore di acido erucico non deve essere superiore allo 0,4 % del tenore di grassi totali.
+- 4\.3 Il tenore di acidi grassi trans non deve essere superiore al 3 per cento del tenore di grassi totale.
+- 4\.4 Il tenore di acido erucico non deve essere superiore allo 0,4 per cento del tenore di grassi totali.
 - 4\.5 Acido α-linolenico
 
 <table>
@@ -1506,7 +1596,7 @@ Allegato 3[^t-3]
 
 ### 7 Fruttoligosaccaridi e galattoligosaccaridi
 
-- I fruttoligosaccaridi e i galattoligosaccaridi possono essere aggiunti agli alimenti di proseguimento. In questo caso, il loro tenore non deve superare 0,8 g/100 ml nella combinazione di 90 % di oligogalattosil-lattosio e 10 % di oligofruttosil-saccarosio a elevato peso molecolare.
+- I fruttoligosaccaridi e i galattoligosaccaridi possono essere aggiunti agli alimenti di proseguimento. In questo caso, il loro tenore non deve superare 0,8 g/100 ml nella combinazione di 90 per cento di oligogalattosil-lattosio e 10 per cento di oligofruttosil-saccarosio a elevato peso molecolare.
 - Possono essere utilizzate altre combinazioni e impiegati i tenori massimi di fruttoligosaccaridi e galattoligosaccaridi conformemente all’articolo 13 lettera a numero 2.
 
 ### 8 Sali minerali
@@ -1591,13 +1681,66 @@ Allegato 3[^t-3]
 [^annex3-lvlu1-lvl10-1]: La concentrazione totale di nucleotidi non deve superare 1,2 mg/100 kJ.
 [^annex3-lvlu1-lvl10-2]: La concentrazione totale di nucleotidi non deve superare 5 mg/100 kcal.
 
-Allegato 4[^t-4]
+Allegato 3a[^t-4]
+
+(art. 6 lett. b e 13 lett. b)
+
+## Aminoacidi essenziali e semiessenziali nel latte materno
+
+[^t-4]: Introdotto dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+
+Ai fini dell’allegato 2 numero 2 e dell’allegato 3 numero 2, il latte materno serve da proteina di riferimento alle condizioni indicate rispettivamente nelle lettere A e B del presente allegato.
+
+- A. Alimenti per lattanti e alimenti di proseguimento a base di proteine del latte vaccino o caprino o a base di isolati di proteine di soia, soli o associati a proteine del latte vaccino o caprino, nonché alimenti per lattanti e alimenti di proseguimento a base di idrolizzati di proteine.
+- Ai fini dell’allegato 2 numeri 2.2, 2.3, 2.4.2 e 2.4.3 e dell’allegato 3 numeri 2.2, 2.3, 2.4.2 e 2.4.3, gli aminoacidi essenziali e semiessenziali nel latte materno, espressi in milligrammi per 100 kJ o 100 kcal, sono i seguenti:
+
+<table>
+<tr><th>Aminoacidi</th><th colspan="2">Alimenti per lattanti e alimenti di proseguimento</th></tr>
+<tr><th></th><th>mg/100 kJ[^annex3a-lvlu1-1]</th><th>mg/100 kcal</th></tr>
+<tr><td>Arginina</td><td>–</td><td>–</td></tr>
+<tr><td>Cisteina</td><td>9</td><td>38</td></tr>
+<tr><td>Fenilalanina</td><td>20</td><td>83</td></tr>
+<tr><td>Isoleucina</td><td>22</td><td>90</td></tr>
+<tr><td>Istidina</td><td>10</td><td>40</td></tr>
+<tr><td>Leucina</td><td>40</td><td>166</td></tr>
+<tr><td>Lisina</td><td>27</td><td>113</td></tr>
+<tr><td>Metionina</td><td>5</td><td>23</td></tr>
+<tr><td>Tirosina</td><td>18</td><td>76</td></tr>
+<tr><td>Treonina</td><td>18</td><td>77</td></tr>
+<tr><td>Triptofano</td><td>8</td><td>32</td></tr>
+<tr><td>Valina</td><td>21</td><td>88</td></tr>
+</table>
+
+- B. Alimenti per lattanti e alimenti di proseguimento a base di idrolizzati di proteine
+- Ai fini dell’allegato 2 numero 2.4.1 e dell’allegato 3 numero 2.4.1, gli aminoacidi essenziali e semiessenziali nel latte materno, espressi in milligrammi per 100 kJ o 100 kcal, sono i seguenti:
+
+<table>
+<tr><th>Aminoacidi</th><th colspan="2">Alimenti per lattanti e alimenti di proseguimento</th></tr>
+<tr><th></th><th>mg/100 kJ[^annex3a-lvlu1-2]</th><th>mg/100 kcal</th></tr>
+<tr><td>Arginina</td><td>16</td><td>69</td></tr>
+<tr><td>Cisteina</td><td>6</td><td>24</td></tr>
+<tr><td>Fenilalanina</td><td>15</td><td>62</td></tr>
+<tr><td>Isoleucina</td><td>17</td><td>72</td></tr>
+<tr><td>Istidina</td><td>11</td><td>45</td></tr>
+<tr><td>Leucina</td><td>37</td><td>156</td></tr>
+<tr><td>Lisina</td><td>29</td><td>122</td></tr>
+<tr><td>Metionina</td><td>7</td><td>29</td></tr>
+<tr><td>Tirosina</td><td>14</td><td>59</td></tr>
+<tr><td>Treonina</td><td>19</td><td>80</td></tr>
+<tr><td>Triptofano</td><td>7</td><td>30</td></tr>
+<tr><td>Valina</td><td>19</td><td>80</td></tr>
+</table>
+
+[^annex3a-lvlu1-1]: 1 kJ = 0,239 kcal.
+[^annex3a-lvlu1-2]: 1 kJ = 0,239 kcal.
+
+Allegato 4[^t-5]
 
 (art. 15 cpv. 1 lett. c e 21 cpv. 2)
 
 ## Quantità di riferimento per la caratterizzazione del valore nutritivo di derrate alimentari destinate a lattanti e bambini nella prima infanzia
 
-[^t-4]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-5]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 <table>
 <tr><td>Vitamine e sali minerali</td><td colspan="3">Quantità di riferimento</td></tr>
@@ -1633,13 +1776,13 @@ Allegato 4[^t-4]
 [^annex4-lvlu1-2]: Vitamina A preformata; ER = equivalente retinolo, tutti trans.
 [^annex4-lvlu1-3]: α-ET = equivalente d-α-tocoferolo
 
-Allegato 5[^t-5]
+Allegato 5[^t-6]
 
 (art. 19 cpv. 3 lett. a e 20 lett. c)
 
 ## Requisiti della composizione degli alimenti a base di cereali per lattanti e bambini nella prima infanzia
 
-[^t-5]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-6]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 *Osservazione:* i requisiti fisiologico-nutrizionali si riferiscono al prodotto consegnato ai consumatori pronto al consumo oppure al prodotto pronto al consumo preparato secondo le istruzioni del fabbricante.
 
@@ -1779,9 +1922,12 @@ Allegato 6
 
 ### 5 Vitamine
 
-- 5\.1 Vitamina C Nel succo di frutta, nel nettare di frutta e nel succo di verdura il tenore di vitamina C del prodotto finito non deve essere inferiore a 6 mg/100 kJ (25 mg/100 kcal) oppure a 25 mg/100 g.
-- 5\.2 Vitamina A Nel succo di verdura il tenore di vitamina A del prodotto finito non deve essere inferiore a 25 µg ER/100 kJ (100 µg ER/100 kcal)[^annex6-lvlu1-lvl5-1]. La vitamina A non può essere aggiunta ad altre pappe di complemento.
-- 5\.3 Vitamina D La vitamina D non può essere aggiunta a pappe di complemento.
+- 5\.1 Vitamina C
+- Nel succo di frutta, nel nettare di frutta e nel succo di verdura il tenore di vitamina C del prodotto finito non deve essere inferiore a 6 mg/100 kJ (25 mg/100 kcal) oppure a 25 mg/100 g.
+- 5\.2 Vitamina A
+- Nel succo di verdura il tenore di vitamina A del prodotto finito non deve essere inferiore a 25 µg ER/100 kJ (100 µg ER/100 kcal)[^annex6-lvlu1-lvl5-1]. La vitamina A non può essere aggiunta ad altre pappe di complemento.
+- 5\.3 Vitamina D
+- La vitamina D non può essere aggiunta a pappe di complemento.
 
 [^annex6-lvlu1-lvl5-1]: ER = equivalente retinolo, tutti trans
 
@@ -1825,46 +1971,43 @@ Allegato 7
 [^annex7-lvlu1-6]: Valore massimo applicabile alle pietanze a base di frutta, succhi e nettari di frutta e succhi di verdura.
 [^annex7-lvlu1-7]: In conformità con le disposizioni di cui agli allegati 5 e 6.
 
-Allegato 8
+Allegato 8[^t-7]
 
-(art. 22 cpv. 1–3 e 26)
+(art. 22 cpv. 1–3)
 
-## Osservazioni concernenti i prodotti fitosanitari in alimenti per lattanti, alimenti di proseguimento, alimenti a base di cereali e altre pappe di complemento per lattanti e bambini nella prima infanzia e alimenti destinati a particolari fini nutrizionali sviluppati per soddisfare le esigenze nutrizionali di lattanti e bambini nella prima infanzia
+## Disposizioni concernenti i prodotti fitosanitari in alimenti per lattanti, alimenti di proseguimento, alimenti a base di cereali e altre pappe di complemento per lattanti e bambini nella prima infanzia e alimenti destinati a particolari fini nutrizionali sviluppati per soddisfare le esigenze nutrizionali di lattanti e bambini nella prima infanzia
+
+[^t-7]: Nuovo testo giusta il n. II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ### Elenco A: Prodotti fitosanitari vietati
 
-- – Disulfoton (somma di disulfoton, solfosside di disulfoton e solfone di disulfoton, espressa in disulfoton)
-- – Fensulfothion (somma di fensulfothion, del suo analogo d’ossigeno e dei loro solfoni, espressa in fensulfothion)
-- – Fentin, espresso in cationi di trifenilstagno
-- – Alossifop (somma di alossifop, dei suoi sali ed esteri compresi i composti, espressa in alossifop)
-- – Eptacloro e *trans*-eptacloro eposside, espressi in eptacloro
-- – Esaclorobenzene
-- – Nitrofen
-- – Ometoato
-- – Terbufos (somma di terbufos, del suo solfosside e solfone, espressa in terbufos)
-- – Aldrin e dieldrin, espressi in dieldrin
-- – Endrin
-
-### Elenco B[^annex8-lvlu1-lvlu2-1]: Tenori massimi
-
-[^annex8-lvlu1-lvlu2-1]: I valori riportati nell’elenco B si riferiscono ai prodotti pronti al consumo o ricostituiti in base alle istruzioni del fabbricante.
-
 <table>
-<tr><th>Denominazione chimica</th><th>Tenori massimi di residui (mg/kg)</th></tr>
-<tr><td>Cadusafos</td><td>0,006</td></tr>
-<tr><td>Demeton-S-metile/demeton-S-metile-solfone/oxidemeton-metile (isolatamente o insieme, espressi in demeton-S-metile)</td><td>0,006</td></tr>
-<tr><td>Etoprofos</td><td>0,008</td></tr>
-<tr><td>Fipronil (somma di fipronil e fipronil-desulfinyl, espressa in fipronil)</td><td>0,004</td></tr>
-<tr><td>Propineb/propilentiourea (somma di propineb e propilentiourea)</td><td>0,006</td></tr>
+<tr><th>Denominazione chimica del composto originario della sostanza[^annex8-lvlu1-lvlu1-1]</th></tr>
+<tr><td>– Aldrin – Dieldrin – Disulfoton – Endrin – Fensulfothion – Fentin – Alossifop – Eptacloro – Esaclorobenzene – Nitrofen – Ometoato – Terbufos</td></tr>
 </table>
 
-Allegato 9[^t-6]
+[^annex8-lvlu1-lvlu1-1]: Si applica la definizione dei residui (indicata tra parentesi dopo il composto originario della sostanza) così come figura nell’allegato II, III, IV o V del regolamento (CE) n. 396/2005 del Parlamento europeo e del Consiglio, del 23 febbraio 2005, concernente i livelli massimi di residui di antiparassitari nei o sui prodotti alimentari e mangimi di origine vegetale e animale e che modifica la direttiva 91/414/CEE del Consiglio, GU L 70 del 16.3.2005, pag. 1; modificato da ultimo dal regolamento (UE) 2021/590, GU L 125 del 13.4.2021, pag. 15.
+
+### Elenco B: Livello massimo di residui
+
+<table>
+<tr><th>Denominazione chimica del composto originario della sostanza[^annex8-lvlu1-lvlu2-1]</th><th>Livello massimo di residui (mg/kg)</th></tr>
+<tr><td>Cadusafos</td><td>0,006</td></tr>
+<tr><td>Demeton-S-metile Demeton-S-metile-solfone Oxidemeton-metile</td><td>0,006</td></tr>
+<tr><td>Etoprofos</td><td>0,008</td></tr>
+<tr><td>Fipronil</td><td>0,004</td></tr>
+<tr><td>Propineb</td><td>0,006</td></tr>
+</table>
+
+[^annex8-lvlu1-lvlu2-1]: Si applica la definizione dei residui (indicata tra parentesi dopo il composto originario della sostanza) così come figura nell’allegato II, III, IV o V del regolamento (CE) n. 396/2005 del Parlamento europeo e del Consiglio, del 23 febbraio 2005, concernente i livelli massimi di residui di antiparassitari nei o sui prodotti alimentari e mangimi di origine vegetale e animale e che modifica la direttiva 91/414/CEE del Consiglio, GU L 70 del 16.3.2005, pag. 1; modificato da ultimo dal regolamento (UE) 2021/590, GU L 125 del 13.4.2021, pag. 15.
+
+Allegato 9[^t-8]
 
 (art. 25 cpv. 3 lett. c e 29 cpv. 1 lett. a)
 
 ## Requisiti degli alimenti a fini medici speciali
 
-[^t-6]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-8]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1 Precisazioni
 
@@ -1991,13 +2134,13 @@ Le specificazioni riguardano i prodotti pronti per il consumo, commercializzati 
 [^annex9-lvlu1-lvl3-lvl32-3]: Per i prodotti destinati ai bambini da 1 a 10 anni.
 [^annex9-lvlu1-lvl3-lvl32-4]: Per i prodotti destinati ai bambini da 1 a 10 anni.
 
-Allegato 10[^t-7]
+Allegato 10[^t-9]
 
-(art. 34 nonché 35*a* cpv. 1)
+(art. 34 e 35*a* cpv. 1)
 
 ## Requisiti della composizione dei sostituti dell’intera razione alimentare giornaliera per il controllo del peso
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dal n. II 2 dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-9]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dal n. II cpv. 2 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) e dal n. II cpv. 1 dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Osservazione:* i requisiti in materia di composizione si applicano alle derrate alimentari pronte per lʼuso, commercializzate come tali o dopo una preparazione conforme alle indicazioni del fabbricante.
 
@@ -2025,7 +2168,7 @@ Il valore energetico dei prodotti sostitutivi dell’intera razione alimentare g
 
 - 2\.3 L’aggiunta di aminoacidi è permessa soltanto allo scopo di migliorare il valore nutrizionale delle proteine contenute nei sostituti dell’intera razione giornaliera per il controllo del peso e unicamente nelle proporzioni a tal fine necessarie.
 
-[^annex10-lvlu1-lvl2-1]: Joint FAO/WHO/UNU Expert Consultation on Protein and Amino Acid Requirements in Human Nutrition (‎2002: Geneva, Switzerland)‎, Food and Agriculture Organization of the United Nations, World Health Organization & United Nations University. (‎2007)‎. Protein and amino acid requirements in human nutrition: report of a joint FAO/WHO/UNU expert consultation. Geneva: World Health Organization. (WHO Technical Report Series, 935, 284 p), il documento può essere consultato in inglese al seguente indirizzo: https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&.
+[^annex10-lvlu1-lvl2-1]: Joint FAO/WHO/UNU Expert Consultation on Protein and Amino Acid Requirements in Human Nutrition (‎2002: Geneva, Switzerland)‎, Food and Agriculture Organization of the United Nations, World Health Organization & United Nations University. (‎2007)‎. Protein and amino acid requirements in human nutrition: report of a joint FAO/WHO/UNU expert consultation. Geneva: World Health Organization. (WHO Technical Report Series, 935, 284 p), il documento può essere consultato in inglese al seguente indirizzo: [https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&](https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&)
 
 ### 3 Colina
 
@@ -2033,10 +2176,9 @@ La colina contenuta nei sostituti dellʼintera razione alimentare giornaliera pe
 
 ### 4 Grassi
 
-- 4\.1 **Acido linoleico**
-- [tab] L’acido linoleico contenuto nei sostituti dellʼintera razione alimentare giornaliera per il controllo del peso non deve essere inferiore a 11 g per lʼintera razione giornaliera.
-- 4\.2 **Acido alfa-linolenico**
-- [tab] Lʼacido alfa-linolenico contenuto nei sostituti dellʼintera razione alimentare giornaliera per il controllo del peso non deve essere inferiore a 1,4 g per lʼintera razione giornaliera.
+- 4\.1 ...
+- 4\.2 **Acido α-linoleico**
+- L’acido α-linoleico contenuto nei sostituti dell’intera razione alimentare giornaliera per il controllo del peso non deve essere inferiore a 0,8 g per l’intera razione giornaliera.
 
 ### 5 Carboidrati
 
@@ -2044,9 +2186,9 @@ I carboidrati contenuti nei sostituti dellʼintera razione alimentare giornalier
 
 ### 6 Vitamine e sali minerali
 
-I sostituti dellʼintera razione alimentare giornaliera per il controllo del peso devono fornire almeno le quantità di vitamine e di minerali specificate nella tabella sottostante per lʼintera razione giornaliera.
+I sostituti dell’intera razione alimentare giornaliera per il controllo del peso devono fornire almeno le quantità di vitamine e di sali minerali specificate nella tabella sottostante per l’intera razione giornaliera.
 
-I sostituti dell’intera razione alimentare giornaliera per il controllo del peso non devono contenere più di 250 mg di magnesio per l’intera razione giornaliera.
+I sostituti dell’intera razione alimentare giornaliera per il controllo del peso non devono contenere più di 350 mg di magnesio per l’intera razione giornaliera.
 
 <table>
 <tr><th>Sostanza</th><th>Unità</th><th>Quantità</th></tr>
@@ -2083,13 +2225,13 @@ I sostituti dell’intera razione alimentare giornaliera per il controllo del pe
 [^annex10-lvlu1-lvl6-3]: Retinolo equivalenti.
 [^annex10-lvlu1-lvl6-4]: Attività della vitamina E per il RRR-α-tocoferolo.
 
-Allegato 10a[^t-8]
+Allegato 10a[^t-10]
 
 (art. 35*d*)
 
 ## Requisiti della composizione dei sostituti di un pasto per il controllo del peso
 
-[^t-8]: Introdotto dal n. II cpv. 3 dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-10]: Introdotto dal n. II cpv. 3 dell’O del DFI del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 ### 1 Valore energetico
 
@@ -2130,13 +2272,13 @@ I sostituti di un pasto per il controllo del peso devono contenere, per ogni pas
 
 [^annex10a-lvlu1-lvl4-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
-Allegato 11[^t-9]
+Allegato 11[^t-11]
 
 (art. 38 cpv. 1 lett. a, 39 lett. a e b nonché 40 cpv. 2)
 
 ## Vitamine, sali minerali e altre sostanze nelle quantità massime ammesse per gli adulti
 
-[^t-9]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). La correzione del 31 mag. 2021 concerne soltanto il testo tedesco ([RU 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
+[^t-11]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’allegato 4 dell’OAdd[^annex11-lvlu1-1]. Alle sostanze per le quali non sono stati stabiliti requisiti di purezza si applicano i criteri di purezza generalmente riconosciuti, raccomandati da organismi internazionali, quali l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura (FAO) e l’Organizzazione mondiale della sanità (OMS), o farmacopee internazionali.
 
@@ -2187,8 +2329,8 @@ Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’al
 <tr><td>L-acido glutammico</td><td>10 g</td><td></td></tr>
 <tr><td>Glicina</td><td>5 g</td><td></td></tr>
 <tr><td>L-istidina</td><td>600 mg</td><td></td></tr>
-<tr><td>L-isoleucina</td><td>1200 mg</td><td></td></tr>
-<tr><td>L-leucina</td><td>2400 mg</td><td></td></tr>
+<tr><td>L-isoleucina</td><td>2200 mg</td><td></td></tr>
+<tr><td>L-leucina</td><td>4000 mg</td><td></td></tr>
 <tr><td>L-lisina</td><td>1800 mg</td><td></td></tr>
 <tr><td>L-metionina + L-cisteina (come somma)</td><td>900 mg</td><td></td></tr>
 <tr><td>L-ornitina</td><td>2000 mg</td><td></td></tr>
@@ -2198,7 +2340,7 @@ Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’al
 <tr><td>L-triptofano</td><td>240 mg</td><td></td></tr>
 <tr><td>L-tirosina</td><td>1200 mg</td><td></td></tr>
 <tr><td>L-serina</td><td>40 mg</td><td></td></tr>
-<tr><td>L-valina</td><td>1600 mg</td><td></td></tr>
+<tr><td>L-valina</td><td>2000 mg</td><td></td></tr>
 <tr><td colspan="3">2.2 Altre sostanze, senza amminoacidi</td></tr>
 <tr><td>Acido α-linolenico (n-3)</td><td>2000 mg</td><td></td></tr>
 <tr><td>Acido docosaesaenoico (DHA)</td><td>1000 mg</td><td>A partire da una dose giornaliera di &gt;450 mg: *«Non adatto alle donne in gravidanza e in allattamento.»*</td></tr>
@@ -2214,7 +2356,7 @@ Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’al
 <tr><td>L-carnosina</td><td>55 mg</td><td></td></tr>
 <tr><td>Carotenoide luteina</td><td>20 mg</td><td></td></tr>
 <tr><td>Carotenoide zeaxantina</td><td>2 mg</td><td></td></tr>
-<tr><td>Catechina, epigallocatechinagallato (EGCG)</td><td>90 mg (calcolato come EGCG)</td><td>*«Non ingerire a stomaco vuoto, durante una dieta ipocalorica rigorosa e non assumere neppure in concomitanza con altri prodotti a base di tè verde.»*</td></tr>
+<tr><td>Catechina, epigallocatechinagallato (EGCG)</td><td>300 mg (calcolati come EGCG)</td><td>*«Non assumere se lo stesso giorno si consumano altri prodotti contenenti tè verde».* *«Non può essere assunto dalle donne in gravidanza e in allattamento e dai* *minori* *di 18 anni».* *«Non assumere a stomaco vuoto».*</td></tr>
 <tr><td>Coenzima NADH (nicotinammide adenina dinucleotide)</td><td>20 mg</td><td></td></tr>
 <tr><td>Coenzima Q 10</td><td>200 mg</td><td></td></tr>
 <tr><td>Colina</td><td>550 mg</td><td></td></tr>
@@ -2235,13 +2377,13 @@ Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’al
 [^annex11-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^annex11-lvlu1-2]: Equivalente retinolo, fattore di conversione: β-carotene = 6 × equivalente retinolo
 
-Allegato 12[^t-10]
+Allegato 12[^t-12]
 
 (art. 38 cpv. 1 lett. a, 39 lett. c e 40 cpv. 2)
 
 ## Sostanze e composti ammessi negli alimenti per sportivi
 
-[^t-10]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-12]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1. Categoria 1: Vitamine
 
@@ -2259,19 +2401,19 @@ Vitamina D<sub>3</sub> o colecalciferolo
 
 DL-α-tocoferilacetato
 
-DL-α-tocoferolo (%)
+DL-α-tocoferolo (per cento)
 
 D-α-tocoferil succinato
 
 D-α-tocoferilacetato
 
-D-α-tocoferolo (%)
+D-α-tocoferolo (per cento)
 
 Tocoferoli misti[^annex12-lvlu1-lvl1-lvl13-1]
 
 Tocotrienolo tocoferolo[^annex12-lvlu1-lvl1-lvl13-2]
 
-[^annex12-lvlu1-lvl1-lvl13-1]: α-tocoferolo &lt;20 %, β-tocoferolo &lt; 10 %, γ-tocoferolo 50–70 %, e δ-tocoferolo 10–30 %
+[^annex12-lvlu1-lvl1-lvl13-1]: α-tocoferolo &lt;20 per cento, β-tocoferolo &lt; 10 per cento, γ-tocoferolo 50–70 per cento, e δ-tocoferolo 10–30 per cento
 [^annex12-lvlu1-lvl1-lvl13-2]: Livelli tipici dei singoli tocoferoli e tocotrienoli sono: – 115 mg/g α-tocoferolo (minimo 101 mg/g); – 5 mg/g β-tocoferolo (minimo &lt; 1 mg/g); – 45 mg/g γ-tocoferolo (minimo 25 mg/g); – 12 mg/g δ-tocoferolo (minimo 3 mg/g); – 67 mg/g α-tocotrienolo (minimo 30 mg/g); – &lt; 1 mg/g β-tocotrienolo (minimo &lt; 1 mg/g); – 82 mg/g γ-tocotrienolo (minimo 45 mg/g); – 5 mg/g δ-tocotrienolo (minimo 1 mg/g).
 
 ### 1.4 Vitamina K
@@ -2352,7 +2494,7 @@ D-Biotina
 
 Acido L-ascorbico
 
-L-ascorbato di calcio (può contenere fino al 2 % di treonato)
+L-ascorbato di calcio (può contenere fino al 2 per cento di treonato)
 
 L-ascorbato di magnesio
 
@@ -2640,7 +2782,7 @@ Selenato di sodio
 
 Selenito di sodio
 
-[^annex12-lvlu1-lvl2-lvl211-1]: Lieviti arricchiti in selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 % e l’85 % del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non supera il 10 % del tenore complessivo di selenio estratto. I livelli di selenio inorganico non superano normalmente l’1 % del tenore complessivo di selenio estratto.
+[^annex12-lvlu1-lvl2-lvl211-1]: Lieviti arricchiti in selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 per cento e l’85 per cento del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non supera il 10 per cento del tenore complessivo di selenio estratto. I livelli di selenio inorganico non superano normalmente l’1 per cento del tenore complessivo di selenio estratto.
 
 ### 2.12 Cromo
 
@@ -2851,7 +2993,7 @@ Allegato 14
 
 <table>
 <tr><td>a. Carboidrati</td><td>Vari tipi di zucchero o prodotti di degradazione dell’amido diversamente riassorbibili</td></tr>
-<tr><td>b. Fonte di energia</td><td>Almeno l’80 % da carboidrati</td></tr>
+<tr><td>b. Fonte di energia</td><td>Almeno l’80 per cento da carboidrati</td></tr>
 <tr><td>c. Tenore energetico</td><td>Almeno 300 kJ (70 kcal) per 100 ml o 1400 kJ (335 kcal) per 100 g di sostanza secca (riferita al prodotto pronto al consumo)</td></tr>
 </table>
 
@@ -2859,14 +3001,14 @@ Allegato 14
 
 <table>
 <tr><td>a. Tenore energetico</td><td>Almeno 1400 kJ (335 kcal) per 100 g di sostanza secca</td></tr>
-<tr><td>b. Fonte di energia</td><td>Almeno il 50 % da carboidrati e al massimo il 30 % da grassi</td></tr>
+<tr><td>b. Fonte di energia</td><td>Almeno il 50 per cento da carboidrati e al massimo il 30 per cento da grassi</td></tr>
 </table>
 
 ### 1.3 Bevande sportive
 
 <table>
 <tr><td>a. Tenore energetico</td><td>Almeno 100 kJ (25 kcal) per 100 ml</td></tr>
-<tr><td>b. Fonte di energia</td><td>Almeno il 90 % da carboidrati, al massimo l’1 % da grassi e al massimo il 5 % da proteine</td></tr>
+<tr><td>b. Fonte di energia</td><td>Almeno il 90 per cento da carboidrati, al massimo l’1 per cento da grassi e al massimo il 5 per cento da proteine</td></tr>
 </table>
 
 ### 1.4 Bevande di recupero
@@ -2879,6 +3021,6 @@ Allegato 14
 ### 2 Requisiti dei preparati contenenti proteine e aminoacidi
 
 <table>
-<tr><td>a. Proteine di collagene</td><td>Possono ammontare al massimo al 20 % della parte proteica.</td></tr>
+<tr><td>a. Proteine di collagene</td><td>Possono ammontare al massimo al 20 per cento della parte proteica.</td></tr>
 <tr><td>b. Apporto proteico</td><td>Al massimo 2 g per kg di peso corporeo al giorno, comprese le proteine assunte con la normale alimentazione.</td></tr>
 </table>

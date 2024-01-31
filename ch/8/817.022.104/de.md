@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel für Personen
 short: VLBE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: de
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20240201-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20230701/de"
 
 (VLBE)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2023)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -120,16 +120,17 @@ Für Säuglingsanfangsnahrung gelten folgende Anforderungen:
   - 1\. Proteinquellen nach Anhang 2 Ziffer 2; und
   - 2\. anderen Zutaten, deren Eignung für die besondere Ernährung von Säuglingen von der Geburt an durch anerkannte wissenschaftliche Erkenntnisse nachgewiesen ist.
 
-- b. Die Zusammensetzung muss die Anforderungen nach Anhang 2 erfüllen.
+- b.[^6-1] Die Zusammensetzung muss die Anforderungen nach den Anhängen 2 und 3*a* erfüllen.
 - c. Säuglingsanfangsnahrung muss nach Zugabe von Trinkwasser genussfertig sein.
 - d.
 
   Bei der Herstellung dürfen nur die Stoffe und Verbindungen nach Anhang 1 zugesetzt werden. Für diese gelten:
 
-  - 1\. falls sie auch als Zusatzstoffe verwendet werden können: die Reinheitskriterien nach Anhang 4 der Zusatzstoffverordnung vom 25. November 2013[^6-1] (ZuV);
+  - 1\. falls sie auch als Zusatzstoffe verwendet werden können: die Reinheitskriterien nach Anhang 4 der Zusatzstoffverordnung vom 25. November 2013[^6-2] (ZuV);
   - 2\. falls sie nicht auch als Zusatzstoffe verwendet werden oder die Reinheitskriterien nach Anhang 4 ZuV nicht anwendbar sind: die anerkannten Reinheitskriterien von internationalen Stellen.
 
-[^6-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^6-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^6-2]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 7
 
@@ -254,16 +255,17 @@ Für Folgenahrung gelten folgende Anforderungen:
   - 1\. den Proteinquellen nach Anhang 3 Ziffer 2; und
   - 2\. anderen Zutaten, deren Eignung für die besondere Ernährung von über sechs Monate alten Säuglingen und Kleinkindern durch anerkannte wissenschaftliche Erkenntnisse nachgewiesen ist.
 
-- b. Die Zusammensetzung muss die Anforderungen nach Anhang 3 erfüllen.
+- b.[^13-1] Die Zusammensetzung muss die Anforderungen nach den Anhängen 3 und 3*a* erfüllen.
 - c. Sie muss nach Zugabe von Trinkwasser genussfertig sein.
 - d.
 
   Der Folgenahrung dürfen nur Stoffe und Verbindungen nach Anhang 1 zugegeben werden. Für diese gelten:
 
-  - 1\. falls sie auch als Zusatzstoffe verwendet werden können: die Reinheitskriterien nach Anhang 4 ZuV[^13-1];
+  - 1\. falls sie auch als Zusatzstoffe verwendet werden können: die Reinheitskriterien nach Anhang 4 ZuV[^13-2];
   - 2\. falls sie nicht auch als Zusatzstoffe verwendet werden oder die Reinheitskriterien nach Anhang 4 ZuV nicht anwendbar sind: die anerkannten Reinheitskriterien von internationalen Stellen.
 
-[^13-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^13-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^13-2]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 14
 
@@ -795,11 +797,28 @@ Auf den Zusatz lebender Bakterienkulturen muss im Verzeichnis der Zutaten und in
 
 <sup>4</sup> Die Kennzeichnung muss sich auf den Gehalt an Vitaminen, Mineralstoffen und sonstigen Stoffen zum Zeitpunkt der Abgabe an die Konsumentinnen und Konsumenten beziehen.
 
-<sup>5</sup> Getränke mit einer Osmolarität von 260–300 mosmol pro Liter können als isoton, Getränke mit einer Osmolarität von 260 mosmol pro Liter oder weniger als hypoton bezeichnet werden.[^40-3]
+<sup>5</sup>
+
+Für die Kategorie b der Lebensmittel für Sportlerinnen und Sportler nach Artikel 37 ist zusätzlich zu den obligatorischen Angaben nach Artikel 3 Absatz 1 LIV anzugeben:
+
+- a. die empfohlene tägliche Verzehrsmenge in Portionen des Erzeugnisses;
+- b. ein Warnhinweis, die angegebene empfohlene Tagesdosis nicht zu überschreiten;
+- c. ein Hinweis, dass die Produkte ausserhalb der Reichweite von kleinen Kindern zu lagern sind.[^40-3]
+
+<sup>6</sup> Abweichend von Artikel 21 Absatz 1 LIV ist die Nährwertdeklaration für Lebensmittel nach Artikel 37 Buchstabe b nicht obligatorisch.[^40-4]
+
+<sup>7</sup>
+
+Erfolgt für Lebensmittel gemäss Artikel 37 Buchstabe b ein Hinweis auf ein Vitamin, einen Mineralstoff oder einen sonstigen Stoff, so müssen pro empfohlener täglicher Verzehrsmenge enthalten sein:
+
+- a. bei Vitaminen und Mineralstoffen: mindestens 15 Prozent der Referenzmenge für die Zufuhr nach Anhang 10 Teil A LIV;
+- b. bei sonstigen Stoffen: mindestens 15 Prozent der Höchstmenge nach Anhang 11; in Ausnahmefällen kann dieser Prozentsatz niedriger sein, wenn auf der Grundlage allgemein anerkannter wissenschaftlicher Daten und Informationen nachgewiesen werden kann, dass der Stoff in einer Menge vorhanden ist, mit der eine ernährungsbezogene oder physiologische Wirkung erzielt werden kann.[^40-5]
 
 [^40-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^40-2]: www.the-icsp.org
-[^40-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^40-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-4]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-5]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ## 6. Kapitel: Nachführen der Anhänge
 
@@ -827,6 +846,14 @@ Die Verordnung des EDI vom 23. November 2005[^42-1] über Speziallebensmittel wi
 
 <sup>2</sup> Der Hinweis nach Artikel 8 Absatz 4 Buchstabe d darf nur für Säuglingsanfangsnahrung verwendet werden, die vor dem 22. Februar 2025 in Verkehr gebracht wird.
 
+#### Art. 43a
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^43a-1]
+
+Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung vom 8. Dezember 2023 dieser Verordnung nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht hergestellt, eingeführt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^43a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+
 #### Art. 44
 
 **Inkrafttreten**
@@ -847,7 +874,7 @@ Anhang 1[^t-1]
 
 ## Stoffe und Verbindungen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 9. Juni 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 <table>
 <tr><th>Stoffe</th><th>Verbindungen</th><th colspan="4">Lebensmittelkategorien</th><th></th><th></th><th></th><th></th></tr>
@@ -855,8 +882,10 @@ Anhang 1[^t-1]
 <tr><td>Vitamine</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
 <tr><td>Biotin</td><td>D-Biotin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Folat</td><td>Calcium-L-methylfolat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
-<tr><td></td><td>Folsäure oder Pteroylmonoglutaminsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Folsäure</td><td>Folsäure oder Pteroylmonoglutaminsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calcium-L-methylfolat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Niacin</td><td>Nicotinamid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Nicotinamid-Ribosidchlorid</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Nicotinsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Pantothensäure</td><td>Calcium-D-pantothenat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Dexpanthenol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1043,7 +1072,7 @@ Anhang 1[^t-1]
 </table>
 
 [^annex1-lvlu1-1]: Menachinon kommt in erster Linie als Menachinon-7 und in geringerem Masse als Menachinon-6 vor.
-[^annex1-lvlu1-2]: In Gegenwart von Natriumselenit als Selenquelle in Kultur gewonnene Selen-Hefen, die in handelsüblicher getrockneter Form nicht mehr als 2,5 mg Se/g enthalten. Die in der Hefe vorherrschende organische Selenart ist Selenmethionin (zwischen 60 und 85 % des insgesamt im Produkt enthaltenen Selenextrakts). Der Gehalt an anderen organischen Selenverbindungen einschliesslich Selenocystein darf 10 % des gesamten Selenextrakts nicht überschreiten. Der Gehalt an anorganischem Selen darf üblicherweise 1 % des gesamten Selenextrakts nicht überschreiten.
+[^annex1-lvlu1-2]: In Gegenwart von Natriumselenit als Selenquelle in Kultur gewonnene Selen-Hefen, die in handelsüblicher getrockneter Form nicht mehr als 2,5 mg Se/g enthalten. Die in der Hefe vorherrschende organische Selenart ist Selenmethionin (zwischen 60 und 85 Prozent des insgesamt im Produkt enthaltenen Selenextrakts). Der Gehalt an anderen organischen Selenverbindungen einschliesslich Selenocystein darf 10 Prozent des gesamten Selenextrakts nicht überschreiten. Der Gehalt an anorganischem Selen darf üblicherweise 1 Prozent des gesamten Selenextrakts nicht überschreiten.
 [^annex1-lvlu1-3]: Für Aminosäuren, die Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost zugesetzt werden, dürfen nur die ausdrücklich genannten Hydrochloride verwendet werden. Für Aminosäuren, die Lebensmitteln für besondere medizinische Zwecke und für Tagesrationen für gewichtskontrollierende Ernährung zugesetzt werden, dürfen gegebenenfalls auch die Natrium-, Kalium-, Calcium- und Magnesiumsalze sowie ihre Hydrochloride verwendet werden.
 [^annex1-lvlu1-4]: Im Falle der Verwendung in Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost darf Cystin nur in Form von L-Cystin zugesetzt werden.
 
@@ -1053,7 +1082,7 @@ Anhang 2[^t-2]
 
 ## Anforderungen an die Zusammensetzung von Säuglingsanfangsnahrung
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)) und der Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)), der Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Anmerkung:* Die angegebenen Werte beziehen sich auf das genussfertige Erzeugnis, das entweder so in Verkehr gebracht oder nach den Anweisungen der Herstellerin oder des Herstellers zubereitet worden ist.
 
@@ -1077,28 +1106,9 @@ Anhang 2[^t-2]
 <tr><td>(1,8 g/100 kcal)</td><td>(2,5 g/100 kcal)</td></tr>
 </table>
 
-- Bei gleichem Energiewert muss Säuglingsanfangsnahrung auf der Basis von Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein (Muttermilch nach Ziff. 26). Bei dieser Berechnung können jedoch der Methionin- und Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist. Der Phenylalanin- und Tyrosingehalt können zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch geeignete Studien nachgewiesen, welche auf der Grundlage der anerkannten Empfehlungen von Fachkreisen zur Planung und Durchführung solcher Studien durchgeführt wurden.
+- Bei gleichem Energiewert muss Säuglingsanfangsnahrung auf der Basis von Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein (Muttermilch nach Anhang 3*a* Buchstabe A). Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist. Der Tyrosin- und der Phenylalaningehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Pheylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für die Konzeption und die Durchführung solcher Studien durchgeführt wurden.
 - Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
-- 2\.3 Anfangsnahrung auf der Basis von Proteinhydrolysaten
-
-<table>
-<tr><td>Mindestens</td><td>Höchstens</td></tr>
-<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
-<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
-</table>
-
-- Die Proteinhydrolysate bestehen aus folgenden Quellen:
--
-
-  Entmineralisiertem Süssmolkenprotein aus Milch nach enzymatischer Ausfällung von Kasein unter Verwendung von Chymosin, bestehend aus:
-
-  - a) 63% Kasein-Glykomakropeptid-freiem Molkenprotein-Isolat mit einem Protein-Mindestgehalt von 95 Prozent der Trockenmasse und einer Protein-Denaturierung von weniger als 70 Prozent sowie einem Asche-Höchstgehalt von 3 Prozent; und
-  - b) 37% Süssmolkenproteinkonzentrat mit einem Protein-Mindestgehalt von 87 Prozent der Trockenmasse und Protein-Denaturierung von weniger als 70 Prozent sowie einem Asche-Höchstgehalt von 3,5 Prozent.
-
-- [tab] Die Proteinquellen müssen folgendermassen verarbeitet werden: Zweistufiges Hydrolyseverfahren unter Verwendung einer Trypsin-Zubereitung mit einem Wärmebehandlungsschritt (3 bis 10 Minuten bei 80 bis 100 °C) zwischen den beiden Hydrolyseschritten.
-- Bei gleichem Energiewert muss Säuglingsanfangsnahrung auf der Basis von Proteinhydrolysaten jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein (Muttermilch nach Ziff. 2.6). Bei dieser Berechnung können jedoch der Methionin- und Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist. Der Phenylalanin- und Tyrosingehalt können zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und Tyrosin zu Phenylalanin darf grösser als 2 sein vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch geeignete Studien nachgewiesen, die auf der Grundlage der anerkannten Empfehlungen von Fachkreisen zur Planung und zur Durchführung solcher Studien durchgeführt wurden.
-- Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
-- 2\.4 Anfangsnahrungen aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen
+- 2\.3 Anfangsnahrungen aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen
 
 <table>
 <tr><td>Mindestens</td><td>Höchstens</td></tr>
@@ -1107,25 +1117,71 @@ Anhang 2[^t-2]
 </table>
 
 - Bei der Herstellung dieser Anfangsnahrung sind nur Proteinisolate aus Soja zu verwenden.
-- Bei gleichem Energiewert muss Säuglingsanfangsnahrung aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Ziff. 2.6). Bei dieser Berechnung können jedoch der Methionin- und Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist. Der Phenylalanin- und Tyrosingehalt können zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch geeignete Studien nachgewiesen, die auf der Grundlage der anerkannten Empfehlungen von Fachkreisen zur Planung und Durchführung solcher Studien durchgeführt wurden.
-- Der L-Carnitin-Gehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
-- 2\.5 In allen Fällen ist der Zusatz von Aminosäuren nur zur Verbesserung des Nährwertes der Proteine in den hierfür notwendigen Mengen gestattet.
-- 2\.6 Für die essenziellen und halbessenziellen Aminosäuren in Muttermilch gelten folgende Werte:
+- Bei gleichem Energiewert muss Säuglingsanfangsnahrung aus Sojaprotein-isolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Anhang 3*a* Buchstabe A). Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist. Der Tyrosin- und der Phenylalaningehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
+- Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
+- 2\.4 Anfangsnahrung auf der Basis von Proteinhydrolysaten
+- Anfangsnahrung auf der Basis von Proteinhydrolysaten muss die Proteinanforderungen nach Ziffer 2.4.1, 2.4.2 oder 2.4.3 erfüllen.
+- 2\.4.1 Proteinanforderungen Gruppe A
+- 2\.4.1.1 Proteingehalt
 
 <table>
-<tr><td>Aminosäuren</td><td>Anfangsnahrungen mg/100 kJ</td><td>nach den Ziffern 2.2+2.4 mg/100 kcal</td><td>Anfangsnahrungen mg/100 kJ</td><td>nach der Ziffer 2.3 mg/100 kcal</td></tr>
-<tr><td>Arginin Cystein</td><td>– 9</td><td>– 38</td><td>16 6</td><td>69 24</td></tr>
-<tr><td>Histidin</td><td>10</td><td>40</td><td>11</td><td>45</td></tr>
-<tr><td>Isoleucin</td><td>22</td><td>90</td><td>17</td><td>72</td></tr>
-<tr><td>Leucin</td><td>40</td><td>166</td><td>37</td><td>156</td></tr>
-<tr><td>Lysin</td><td>27</td><td>113</td><td>29</td><td>122</td></tr>
-<tr><td>Methionin</td><td>5</td><td>23</td><td>7</td><td>29</td></tr>
-<tr><td>Phenylalanin</td><td>20</td><td>83</td><td>15</td><td>62</td></tr>
-<tr><td>Threonin</td><td>18</td><td>77</td><td>19</td><td>80</td></tr>
-<tr><td>Tryptophan</td><td>8</td><td>32</td><td>7</td><td>30</td></tr>
-<tr><td>Tyrosin</td><td>18</td><td>76</td><td>14</td><td>59</td></tr>
-<tr><td>Valin</td><td>21</td><td>88</td><td>19</td><td>80</td></tr>
+<tr><td>Mindestens</td><td>Höchstens</td></tr>
+<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
 </table>
+
+- 2\.4.1.2 Proteinquelle
+-
+
+  Entmineralisiertes Süssmolkenprotein aus Kuhmilch nach enzymatischer Ausfällung von Kasein unter Verwendung von Chymosin, bestehend aus:
+
+  - a. 63 Prozent Kasein-Glykomakropeptid-freiem Molkenprotein-Isolat mit einem Protein-Mindestgehalt von 95 Prozent Trockenmasse und einer Protein-Denaturierung von weniger als 70 Prozent sowie einem Asche-Höchstgehalt von 3 Prozent; und
+  - b. 37 Prozent Süssmolkenproteinkonzentrat mit einem Protein-Mindestgehalt von 87 Prozent Trockenmasse und Protein-Denaturierung von weniger als 70 Prozent sowie einem Asche-Höchstgehalt von 3,5 Prozent.
+
+- 2\.4.1.3 Proteinverarbeitung
+- Zweistufiges Hydrolyseverfahren unter Verwendung einer Trypsin-Zubereitung mit einem Wärmebehandlungsschritt (3–10 Minuten bei 80–100 °C) zwischen den beiden Hydrolyseschritten.
+- 2\.4.1.4 Essenzielle und halbessenzielle Aminosäuren und L-Carnitin
+- Bei gleichem Brennwert muss Anfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verwertbaren Menge enthalten wie das Referenzprotein nach Anhang 3*a* Buchstabe B. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
+- Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
+- 2\.4.2 Proteinanforderungen Gruppe B
+- 2\.4.2.1 Proteingehalt
+
+<table>
+<tr><td>Mindestens</td><td>Höchstens</td></tr>
+<tr><td>0,55 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,3 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.2.2 Proteinquelle
+-
+
+  Molkenprotein aus Kuhmilch, bestehend aus:
+
+  - a. 77 Prozent Sauermolke aus Molkenproteinkonzentrat mit einem Proteingehalt von 35 bis 80 Prozent;
+  - b. 23 Prozent Süssmolke aus entmineralisierter Süssmolke mit einem Proteingehalt von mindestens 12,5 Prozent.
+
+- 2\.4.2.3 Proteinverarbeitung
+- Das Ausgangsmaterial wird hydriert und erhitzt. Nach dem Wärmebehandlungsschritt wird die Hydrolyse bei einem pH-Wert von 7,5 bis 8,5 und einer Temperatur von 55 bis 70 °C unter Verwendung einer Enzymmischung aus Serinendopeptidase und einem Protease/Peptidase-Komplex durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses in einem Wärmebehandlungsschritt (2–10 Sekunden bei 120–150 °C) inaktiviert.
+- 2\.4.2.4 Essenzielle und halbessenzielle Aminosäuren und L-Carnitin
+- Bei gleichem Energiewert muss Anfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein nach Anhang 3*a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können ebenso zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage von in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
+- Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
+- 2\.4.3 Proteinanforderungen Gruppe C
+- 2\.4.3.1 Proteingehalt
+
+<table>
+<tr><td>Mindestens</td><td>Höchstens</td></tr>
+<tr><td>0,45 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,9 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.3.2 Proteinquelle
+- Molkenprotein aus Kuhmilch, bestehend aus 100 Prozent Süssmolkenproteinkonzentrat mit einem Protein-Mindestgehalt von 80 Prozent.
+- 2\.4.3.3 Proteinverarbeitung
+- Das Ausgangsmaterial wird hydriert und erhitzt. Vor der Hydrolyse wird der pH-Wert bei einer Temperatur von 50 bis 65 °C auf 6,57,5 eingestellt. Die Hydrolyse wird mit einer Enzymmischung aus einer Serinendopeptidase und einer Metalloprotease durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses in einem Wärmebehandlungsschritt (2–10 Sekunden bei 120–140 °C) inaktiviert.
+- 2\.4.3.4 Essenzielle und halbessenzielle Aminosäuren und L-Carnitine
+- Bei gleichem Energiewert muss Anfangsnahrung, die aus Proteinhydrolysaten hergestellt wird, jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein gemäss Anhang 3*a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt zusammengerechnet werden, sofern das Verhältnis von Methionin zu Cystein nicht grösser als 2 ist; der Phenylalanin- und der Tyrosingehalt können zusammengerechnet werden, sofern das Verhältnis von Tyrosin zu Phenylalanin nicht grösser als 2 ist. Das Verhältnis von Methionin zu Cystein und von Tyrosin zu Phenylalanin darf grösser als 2 sein, vorausgesetzt, die Eignung des Erzeugnisses für die besonderen Ernährungsbedürfnisse von Säuglingen wurde durch eine systematische Auswertung der verfügbaren allgemein anerkannten wissenschaftlichen Daten in Bezug auf die erwarteten Vorteile und die Sicherheitserwägungen sowie erforderlichenfalls durch entsprechende Studien nachgewiesen, die auf der Grundlage on in Fachkreisen allgemein anerkannten Empfehlungen für Konzeption und Durchführung solcher Studien durchgeführt wurden.
+- Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
+- 2\.5 In allen Fällen ist der Zusatz von Aminosäuren nur zur Verbesserung des Nährwertes der Proteine in den hierfür notwendigen Mengen gestattet.
 
 ### 3 Taurin
 
@@ -1182,8 +1238,8 @@ Wird der Anfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/
 
   Weitere langkettige (20 und 22 Kohlenstoffatome) mehrfach ungesättigte Fettsäuren können hinzugefügt werden. In diesem Fall darf ihr Anteil am gesamten Fettgehalt höchstens betragen:
 
-  - 561 bei langkettigen, mehrfach ungesättigten Fettsäuren: 2 %
-  - 562 bei Arachidonsäure (20:4 n-6): 1 %
+  - 561 bei langkettigen, mehrfach ungesättigten Fettsäuren: 2 Prozent
+  - 562 bei Arachidonsäure (20:4 n-6): 1 Prozent
 
 - Der Gehalt an Eicosapentaensäure (20:5 n-3) darf nicht höher als der Gehalt an Docosahexaensäure (22:6 n-3) sein.
 - 5\.6 Der Gehalt an Trans-Fettsäuren darf nicht über 3 Prozent des gesamten Fettgehalts liegen.
@@ -1253,7 +1309,7 @@ Wird der Anfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/
 
 ### 9 Frukto-Oligosaccharide und Galakto-Oligosaccharide
 
-- Frukto-Oligosaccharide und Galakto-Oligosaccharide dürfen Säuglingsanfangsnahrung zugesetzt werden. In diesem Fall darf ihr Anteil 0,8 g/100 ml in einer Kombination aus 90 % Oligogalactosyl-Laktose und 10 % Oligofructosyl-Saccharose mit hohem Molekulargewicht nicht übersteigen.
+- Frukto-Oligosaccharide und Galakto-Oligosaccharide dürfen Säuglingsanfangsnahrung zugesetzt werden. In diesem Fall darf ihr Anteil 0,8 g/100 ml in einer Kombination aus 90 Prozent Oligogalactosyl-Laktose und 10 Prozent Oligofructosyl-Saccharose mit hohem Molekulargewicht nicht übersteigen.
 - Andere Kombinationen und Höchstgehalte von Frukto-Oligosacchariden und Galakto-Oligosacchariden können nach Artikel 6 Buchstabe a Ziffer 2 verwendet werden.
 
 ### 10 Mineralstoffe
@@ -1290,7 +1346,7 @@ Wird der Anfangsnahrung Taurin zugesetzt, so darf der Gehalt nicht über 2,9 mg/
 <tr><td>Phosphor (mg)[^annex2-lvlu1-lvl10-2] Zink (mg)</td><td>7,2 0,18</td><td>24 0,3</td><td>30 0,75</td><td>100 1,25</td></tr>
 </table>
 
-Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt mindestens 1,0 und höchstens 2,0. Die Menge des verwertbaren Phosphors in Anfangsnahrungen aus Sojaproteinhydrolysaten beträgt 70 Prozent des Gesamtphosphorgehaltes.
+- Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt mindestens 1,0 und höchstens 2,0. Die Menge des verwertbaren Phosphors in Anfangsnahrungen aus Sojaproteinhydrolysaten beträgt 70 Prozent des Gesamtphosphorgehaltes.
 
 [^annex2-lvlu1-lvl10-1]: Gesamtphosphorgehalt
 [^annex2-lvlu1-lvl10-2]: Gesamtphosphorgehalt
@@ -1344,7 +1400,7 @@ Anhang 3[^t-3]
 
 ## Anforderungen an die Zusammensetzung von Folgenahrung
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Anmerkung:* Die Werte beziehen sich auf das genussfertige Erzeugnis, das entweder so in Verkehr gebracht oder nach den Anweisungen der Herstellerin oder des Herstellers zubereitet worden ist.
 
@@ -1358,8 +1414,9 @@ Anhang 3[^t-3]
 
 ### 2 Proteine
 
+- 2\.1 Definitionen
 - Proteingehalt = Stickstoffgehalt × 6,25.
-- 2\.1 Folgenahrung aus Kuhmilch- oder Ziegenmilchproteinen
+- 2\.2 Folgenahrung aus Kuh- oder Ziegenmilchproteinen
 
 <table>
 <tr><td>Mindestens</td><td>Höchstens</td></tr>
@@ -1367,26 +1424,8 @@ Anhang 3[^t-3]
 <tr><td>(1,6 g/100 kcal)</td><td>(2,5 g/100 kcal)</td></tr>
 </table>
 
-- Bei gleichem Energiewert muss die Folgenahrung aus Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Anhang 2 Ziff. 2.6). Bei dieser Berechnung können jedoch der Methionin- und Cysteingehalt sowie der Phenylalanin- und Tyrosingehalt zusammengerechnet werden.
-- 2\.2 Folgenahrung auf der Basis von Proteinhydrolysaten
-
-<table>
-<tr><td>Mindestens</td><td>Höchstens</td></tr>
-<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
-<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
-</table>
-
-- Die Proteinhydrolysate bestehen aus folgenden Quellen:
--
-
-  Entmineralisiertem Süssmolkenprotein aus Milch nach enzymatischer Ausfällung von Kasein unter Verwendung von Chymosin, bestehend aus:
-
-  - a) 63 % Kasein-Glykomakropeptid-freiem Molkenprotein-Isolat mit einem Protein-Mindestgehalt von 95 Prozent der Trockenmasse und einer Protein-Denaturierung von weniger als 70 Prozent sowie einem Asche-Höchstgehalt von 3 Prozent und
-  - b) 37 % Süssmolkenproteinkonzentrat mit einem Protein-Mindestgehalt von 87 Prozent der Trockenmasse und Protein-Denaturierung von weniger als 70 Prozent sowie einem Asche-Höchstgehalt von 3,5 Prozent.
-
-- Die Proteinquellen müssen folgendermassen verarbeitet werden: Zweistufiges Hydrolyseverfahren unter Verwendung einer Trypsin-Zubereitung mit einem Wärmebehandlungsschritt (3 bis 10 Minuten bei 80 bis 100 °C) zwischen den beiden Hydrolyseschritten.
-- Bei gleichem Energiewert muss Folgenahrung auf der Basis von Proteinhydrolysaten jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Anhang 2 Ziffer 2.6). Bei dieser Berechnung können jedoch der Methionin- und Cysteingehalt sowie der Phenylalanin- und Tyrosingehalt zusammengerechnet werden.
-- 2\.3 Folgenahrungen aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen
+- Bei gleichem Energiewert muss die Folgenahrung aus Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Anhang 3*a* Buchstabe A). Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt sowie der Phenylalanin- und der Tyrosingehalt zusammengerechnet werden.
+- 2\.3 Folgenahrung aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen
 
 <table>
 <tr><td>Mindestens</td><td>Höchstens</td></tr>
@@ -1394,9 +1433,69 @@ Anhang 3[^t-3]
 <tr><td>(2,25 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
 </table>
 
-- Bei der Herstellung dieser Folgenahrung sind nur Proteinisolate aus Soja zu verwenden.
-- Bei gleichem Energiewert muss Folgenahrung aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Anhang 2 Ziffer 2.6). Bei dieser Berechnung können jedoch der Methionin- und Cysteingehalt sowie der Phenylalanin- und Tyrosingehalt zusammengerechnet werden.
-- 2\.4 In allen Fällen ist der Zusatz von Aminosäuren nur zur Verbesserung des Nährwertes der Proteine in den hierfür notwendigen Mengen gestattet.
+- Bei der Herstellung dieser Folgenahrung sind nur Sojaproteinisolate zu verwenden.
+- Bei gleichem Energiewert muss Folgenahrung aus Sojaproteinisolaten pur oder in einer Mischung mit Kuhmilch- oder Ziegenmilchproteinen jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge wie das Referenzprotein enthalten (Muttermilch nach Anhang 3*a* Buchstabe A). Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt sowie der Phenylalanin- und der Tyrosingehalt zusammengerechnet werden.
+- 2\.4 Folgenahrung auf der Basis von Proteinhydrolysaten
+- Folgenahrung auf der Basis von Proteinhydrolysaten muss die Proteinanforderungen nach Ziffer 2.4.1, 2.4.2 oder 2.4.3 erfüllen.
+- 2\.4.1 Proteinanforderungen Gruppe A
+- 2\.4.1.1 Proteingehalt
+
+<table>
+<tr><td>Mindestens</td><td>Höchstens</td></tr>
+<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.1.2 Proteinquelle
+-
+
+  Entmineralisierts Süssmolkenprotein aus Kuhmilch nach enzymatischer Ausfällung von Kasein unter Verwendung von Chymosin, bestehend aus:
+
+  - a. 63 Prozent Kasein-Glykomakropeptid-freiem Molkenprotein-Isolat mit einem Protein-Mindestgehalt von 95 Prozent Trockenmasse und einer Protein-Denaturierung von weniger als 70 Prozent sowie einem Asche-Höchstgehalt von 3 Prozent; und
+  - b. 37 Prozent Süssmolkenproteinkonzentrat mit einem Protein-Mindestgehalt von 87 Prozent Trockenmasse und Protein-Denaturierung von weniger als 70 Prozent sowie einem Asche-Höchstgehalt von 3,5 Prozent.
+
+- 2\.4.1.3 Proteinverarbeitung
+- Zweistufiges Hydrolyseverfahren unter Verwendung einer Trypsin-Zubereitung mit einem Wärmebehandlungsschritt (3–10 Minuten bei 80–100 °C) zwischen den beiden Hydrolyseschritten.
+- 2\.4.1.4 Essenzielle und halbessenzielle Aminosäuren und L-Carnitin
+- Bei gleichem Energiewert muss Folgenahrung auf der Basis von Proteinhydrolysaten jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein nach Anhang *3a* Buchstabe B. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt sowie der Phenylalanin- und der Tyrosingehalt zusammengerechnet werden.
+- 2\.4.2 Proteinanforderungen Gruppe B
+- 2\.4.2.1 Proteingehalt
+
+<table>
+<tr><td>Mindestens</td><td>Höchstens</td></tr>
+<tr><td>0,55 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,3 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.2.2 Proteinquelle
+-
+
+  Molkenprotein aus Kuhmilch, bestehend aus:
+
+  - a. 77 Prozent Sauermolke aus Molkenproteinkonzentrat mit einem Proteingehalt von 35 bis 80 Prozent;
+  - b. 23 Prozent Süssmolke aus entmineralisierter Süssmolke mit einem Proteingehalt von mindestens 12,5 Prozent.
+
+- 2\.4.2.3 Proteinverarbeitung
+- Das Ausgangsmaterial wird hydriert und erhitzt. Nach dem Wärmebehandlungsschritt wird die Hydrolyse bei einem pH-Wert von 7,5 bis 8,5 und einer Temperatur von 55 bis 70 °C unter Verwendung einer Enzymmischung aus Serinendopeptidase und einem Protease/Peptidase-Komplex durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses in einem Wärmebehandlungsschritt (2–10 Sekunden bei 120–150 °C) inaktiviert.
+- 2\.4.2.4 Essenzielle und halbessenzielle Aminosäuren
+- Bei gleichem Energiewert muss Folgenahrung auf der Basis von Proteinhydrolysaten jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein nach Anhang *3a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt sowie der Phenylalanin- und der Tyrosingehalt zusammengerechnet werden.
+- Der L-Carnitingehalt muss mindestens 0,3 mg/100 kJ (1,2 mg/100 kcal) betragen.
+- 2\.4.3 Proteinanforderungen Gruppe C
+- 2\.4.3.1 Proteingehalt
+
+<table>
+<tr><td>Mindestens</td><td>Höchstens</td></tr>
+<tr><td>0,45 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,9 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.3.2 Proteinquelle
+- Molkenprotein aus Kuhmilch, bestehend aus 100 Prozent Süssmolkenproteinkonzentrat mit einem Protein-Mindestgehalt von 80 Prozent.
+- 2\.4.3.3 Proteinverarbeitung
+- Das Ausgangsmaterial wird hydriert und erhitzt. Vor der Hydrolyse wird der pH-Wert bei einer Temperatur von 50 bis 65 °C auf 6,5–7,5 eingestellt. Die Hydrolyse wird mit einer Enzymmischung aus einer Serinendopeptidase und einer Metalloprotease durchgeführt. Die Lebensmittelenzyme werden während des Herstellungsprozesses in einem Wärmebehandlungsschritt (2–10 Sekunden bei 110–140 °C) inaktiviert.
+- 2\.4.3.4 Essenzielle und halbessenzielle Aminosäuren
+- Bei gleichem Energiewert muss Folgenahrung auf der Basis von Proteinhydrolysaten jede essenzielle und halbessenzielle Aminosäure mindestens in der gleichen verfügbaren Menge enthalten wie das Referenzprotein nach Anhang *3a* Buchstabe A. Bei dieser Berechnung können jedoch der Methionin- und der Cysteingehalt sowie der Phenylalanin- und der Tyrosingehalt zusammengerechnet werden.
+- 2\.5 In allen Fällen ist der Zusatz von Aminosäuren nur zur Verbesserung des Nährwertes der Proteine in den hierfür notwendigen Mengen gestattet.
 
 ### 3 Taurin
 
@@ -1447,8 +1546,8 @@ Anhang 3[^t-3]
 
   Weitere langkettige (20 und 22 Kohlenstoffatome) mehrfach ungesättigte Fettsäuren können zugesetzt werden. In diesem Fall darf ihr Anteil an dem gesamten Fettgehalt höchstens betragen:
 
-  - 481 bei langkettigen, mehrfach ungesättigten Fettsäuren: 2 %
-  - 482 bei Arachidonsäure (20:4 n-6): 1 %
+  - 481 bei langkettigen, mehrfach ungesättigten Fettsäuren: 2 Prozent
+  - 482 bei Arachidonsäure (20:4 n-6): 1 Prozent
 
 - Der Gehalt an Eicosapentaensäure (20:5 n-3) darf nicht höher als der Gehalt an Docosahexaensäure (22:6 n-3) sein.
 
@@ -1581,13 +1680,66 @@ Anhang 3[^t-3]
 [^annex3-lvlu1-lvl10-1]: Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ nicht überschreiten.
 [^annex3-lvlu1-lvl10-2]: Die Gesamtkonzentration an Nukleotiden darf 5 mg/100 kcal nicht überschreiten.
 
-Anhang 4[^t-4]
+Anhang 3a[^t-4]
+
+(Art. 6 Bst. b und 13 Bst. b)
+
+## Essenzielle und halbessenzielle Aminosäuren in der Muttermilch
+
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+
+Für die Anhänge 2 Ziffer 2 und 3 Ziffer 2 dient Muttermilch unter den in den Buchstaben A und B dieses Anhangs festgelegten Bedingungen als Referenzprotein.
+
+- A. Säuglingsanfangsnahrung und Folgenahrung auf der Basis von Kuhmilch- oder Ziegenmilchproteinen oder auf der Basis von Sojaproteinisolaten, allein oder gemischt mit Kuhmilch- oder Ziegenmilchproteinen, sowie Säuglingsanfangsnahrung und Folgenahrung auf der Basis von Proteinhydrolysaten
+- Für die Anhänge 2 Ziffern 2.2, 2.3, 2.4.2 und 2.4.3 und 3 Ziffern 2.2, 2.3, 2.4.2 und 2.4.3 gelten für die essenziellen und halbessenziellen Aminosäuren in der Muttermilch, in Milligramm pro 100 kJ oder 100 kcal, die folgenden Werte:
+
+<table>
+<tr><th>Aminosäuren</th><th colspan="2">Säuglingsanfangsnahrung und Folgenahrung</th></tr>
+<tr><th></th><th>mg/100 kJ[^annex3a-lvlu1-1]</th><th>mg/100 kcal</th></tr>
+<tr><td>Arginin</td><td>–</td><td>–</td></tr>
+<tr><td>Cystein</td><td>9</td><td>38</td></tr>
+<tr><td>Histidin</td><td>10</td><td>40</td></tr>
+<tr><td>Isoleucin</td><td>22</td><td>90</td></tr>
+<tr><td>Leucin</td><td>40</td><td>166</td></tr>
+<tr><td>Lysin</td><td>27</td><td>113</td></tr>
+<tr><td>Methionin</td><td>5</td><td>23</td></tr>
+<tr><td>Phenylalanin</td><td>20</td><td>83</td></tr>
+<tr><td>Threonin</td><td>18</td><td>77</td></tr>
+<tr><td>Tryptophan</td><td>8</td><td>32</td></tr>
+<tr><td>Tyrosin</td><td>18</td><td>76</td></tr>
+<tr><td>Valin</td><td>21</td><td>88</td></tr>
+</table>
+
+- B. Säuglingsanfangsnahrung und Folgenahrung auf der Basis von Proteinhydrolysaten
+- Für die Anhänge 2 Ziffer 2.4.1 und 3 Ziffer 2.4.1 gelten für die essenziellen und halbessenziellen Aminosäuren in der Muttermilch, in Milligramm pro 100 kJ oder 100 kcal, die folgenden Werte:
+
+<table>
+<tr><th>Aminosäuren</th><th colspan="2">Säuglingsanfangsnahrung und Folgenahrung</th></tr>
+<tr><th></th><th>mg/100 kJ[^annex3a-lvlu1-2]</th><th>mg/100 kcal</th></tr>
+<tr><td>Arginin</td><td>16</td><td>69</td></tr>
+<tr><td>Cystein</td><td>6</td><td>24</td></tr>
+<tr><td>Histidin</td><td>11</td><td>45</td></tr>
+<tr><td>Isoleucin</td><td>17</td><td>72</td></tr>
+<tr><td>Leucin</td><td>37</td><td>156</td></tr>
+<tr><td>Lysin</td><td>29</td><td>122</td></tr>
+<tr><td>Methionin</td><td>7</td><td>29</td></tr>
+<tr><td>Phenylalanin</td><td>15</td><td>62</td></tr>
+<tr><td>Threonin</td><td>19</td><td>80</td></tr>
+<tr><td>Tryptophan</td><td>7</td><td>30</td></tr>
+<tr><td>Tyrosin</td><td>14</td><td>59</td></tr>
+<tr><td>Valin</td><td>19</td><td>80</td></tr>
+</table>
+
+[^annex3a-lvlu1-1]: 1 kJ = 0,239 kcal.
+[^annex3a-lvlu1-2]: 1 kJ = 0,239 kcal.
+
+Anhang 4[^t-5]
 
 (Art. 15 Abs. 1 Bst. c und 21 Abs. 2)
 
 ## Referenzmengen für die Nährwertkennzeichnung von Lebensmitteln, die für Säuglinge und Kleinkinder bestimmt sind
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 <table>
 <tr><td>Vitamine und Mineralstoffe</td><td colspan="3">Referenzmengen</td></tr>
@@ -1623,13 +1775,13 @@ Anhang 4[^t-4]
 [^annex4-lvlu1-2]: Vorgebildetes Vitamin A; RE = Retinoläquivalent, all-trans.
 [^annex4-lvlu1-3]: α-TE = d-α-Tocopheroläquivalent.
 
-Anhang 5[^t-5]
+Anhang 5[^t-6]
 
 (Art. 19 Abs. 3 Bst. a und 20 Bst. c)
 
 ## Anforderungen an die Zusammensetzung von Getreidebeikost für Säuglinge und Kleinkinder
 
-[^t-5]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-6]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 *Anmerkung:* Die ernährungsphysiologischen Anforderungen beziehen sich auf das Erzeugnis, das genussfertig an die Konsumentinnen und Konsumenten abgegeben wird, oder auf das Erzeugnis, das nach den Anweisungen der Herstellerin oder des Herstellers genussfertig zubereitet worden ist.
 
@@ -1818,46 +1970,43 @@ Anhang 7
 [^annex7-lvlu1-6]: Dieser Höchstwert gilt für Gerichte auf Fruchtbasis, Fruchtsäfte, Fruchtnektare und Gemüsesäfte.
 [^annex7-lvlu1-7]: Im Einklang mit den Bestimmungen der Anhänge 5 und 6.
 
-Anhang 8
+Anhang 8[^t-7]
 
-(Art. 22 Abs. 1–3 und 26)
+(Art. 22 Abs. 1–3)
 
-## Ausführungen bezüglich Pflanzenschutzmittel in Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost, anderer Beikost für Säuglinge und Kleinkinder und Lebensmittel für besondere Ernährungszwecke, die für die Ernährungsanforderungen von Säuglingen und Kleinkindern entwickelt wurden
+## Bestimmungen bezüglich Pflanzenschutzmittel in Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost, anderer Beikost für Säuglinge und Kleinkinder und Lebensmittel für besondere Ernährungszwecke, die für die Ernährungsanforderungen von Säuglingen und Kleinkindern entwickelt wurden
+
+[^t-7]: Fassung gemäss Ziff. II Abs. 3 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ### Liste A: Verbotene Pflanzenschutzmittel
 
-- – Disulfoton (Summe von Disulfoton, Disulfoton-Sulfoxid und Disulfon, ausgedrückt in Disulfoton)
-- – Fensulfothion (Summe von Fensulfothion, dessen Sauerstoff Analogon und deren Sulfonen, ausgedrückt als Fensulfothion)
-- – Fentin, ausgedrückt als Triphenylzinn-Kation
-- – Haloxyfop (Summe von Haloxyfop, dessen Salzen und Estern einschliesslich Konjugaten, ausgedrückt als Haloxyfop)
-- – Heptachlor und *trans*-Heptachlorepoxid, ausgedrückt als Heptachlor
-- – Hexachlorbenzen
-- – Nitrofen
-- – Omethoat
-- – Terbufos (Summe von Terbufos, dessen Sulfoxid und dessen Sulfon, ausgedrückt als Terbufos)
-- – Aldrin und Dieldrin, ausgedrückt als Dieldrin
-- – Endrin
-
-### Liste B[^annex8-lvlu1-lvlu2-1]: Höchstgehalte
-
-[^annex8-lvlu1-lvlu2-1]: Die in der Liste B genannten Werte gelten für verbrauchsfertig angebotene oder nach den Anweisungen der Herstellerin oder des Herstellers rekonstituierte Erzeugnisse.
-
 <table>
-<tr><th>Chemische Bezeichnung</th><th>Rückstandshöchstgehalt (mg/kg)</th></tr>
-<tr><td>Cadusafos</td><td>0,006</td></tr>
-<tr><td>Demeton-S-methyl/Demeton-S-methylsulfon/Oxydemeton-methyl (einzeln oder kombiniert, ausgedrückt als Demeton-S-methyl)</td><td>0,006</td></tr>
-<tr><td>Ethoprophos</td><td>0,008</td></tr>
-<tr><td>Fipronil (Summe von Fipronil und Fipronil-desulfinyl, ausgedrückt als Fipronil)</td><td>0,004</td></tr>
-<tr><td>Propineb/Propylen-thioharnstoff (Summe von Propineb und Propylen-thioharnstoff)</td><td>0,006</td></tr>
+<tr><th>Chemische Bezeichnung der Ausgangsverbindung des Stoffes[^annex8-lvlu1-lvlu1-1]</th></tr>
+<tr><td>– Aldrin – Dieldrin – Disulfoton – Endrin – Fensulfothion – Fentin – Haloxyfop – Heptachlor – Hexachlorbenzen – Nitrofen – Omethoat – Terbufos</td></tr>
 </table>
 
-Anhang 9[^t-6]
+[^annex8-lvlu1-lvlu1-1]: Die Rückstandsdefinition (in Klammern nach der Ausgangsverbindung des Stoffes angegeben) gilt gemäss der Definition in den relevanten Anhängen II, III, IV oder V der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates, ABl. L 70 vom 16.3.2005, S. 1; zuletzt geändert durch Verordnung (EU) 2021/590, ABl. L 125 vom 13.4.2021, S. 15.
+
+### Liste B: Rückstandshöchstgehalte
+
+<table>
+<tr><th>Chemische Bezeichnung der Ausgangsverbindung des Stoffes[^annex8-lvlu1-lvlu2-1]</th><th>Rückstandshöchstgehalt (mg/kg)</th></tr>
+<tr><td>Cadusafos</td><td>0,006</td></tr>
+<tr><td>Demeton-S-methyl Demeton-S-methylsulfon Oxydemethon-methyl</td><td>0,006</td></tr>
+<tr><td>Ethoprophos</td><td>0,008</td></tr>
+<tr><td>Fipronil</td><td>0,004</td></tr>
+<tr><td>Propineb</td><td>0,006</td></tr>
+</table>
+
+[^annex8-lvlu1-lvlu2-1]: Die Rückstandsdefinition (in Klammern nach der Ausgangsverbindung des Stoffes angegeben) gilt gemäss der Definition in den relevanten Anhängen II, III, IV oder V der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates, ABl. L 70 vom 16.3.2005, S. 1; zuletzt geändert durch Verordnung (EU) 2021/590, ABl. L 125 vom 13.4.2021, S. 15.
+
+Anhang 9[^t-8]
 
 (Art. 25 Abs. 3 Bst. c und 29 Abs. 1 Bst. a)
 
 ## Anforderungen an Lebensmittel für besondere medizinische Zwecke
 
-[^t-6]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-8]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1 Erläuterungen
 
@@ -1984,13 +2133,13 @@ Die Spezifikationen beziehen sich auf das gebrauchsfertige Erzeugnis, sei es als
 [^annex9-lvlu1-lvl3-lvl32-3]: Für Erzeugnisse, die für Kinder von 1 bis 10 Jahren bestimmt sind
 [^annex9-lvlu1-lvl3-lvl32-4]: Für Erzeugnisse, die für Kinder von 1 bis 10 Jahren bestimmt sind
 
-Anhang 10[^t-7]
+Anhang 10[^t-9]
 
 (Art. 34 und 35*a* Abs. 1)
 
 ## Anforderungen an die Zusammensetzung von Tagesrationen für gewichtskontrollierende Ernährung
 
-[^t-7]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 9. Juni 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Anmerkung:* Die festgelegten Zusammensetzungsanforderungen gelten für gebrauchsfertige Lebensmittel, die als solche oder nach Zubereitung gemäss den Anweisungen des Herstellers vermarktet werden.
 
@@ -2018,7 +2167,7 @@ Der Energiewert einer Tagesration für gewichtskontrollierende Ernährung darf p
 
 - 2\.3 Der Zusatz von Aminosäuren ist nur zur Verbesserung des Nährwerts der in Tagesrationen für gewichtskontrollierende Ernährung enthaltenen Proteine und nur in den hierfür erforderlichen Mengen gestattet.
 
-[^annex10-lvlu1-lvl2-1]: Joint FAO/WHO/UNU Expert Consultation on Protein and Amino Acid Requirements in Human Nutrition (‎2002: Geneva, Switzerland)‎, Food and Agriculture Organization of the United Nations, World Health Organization & United Nations University. (‎2007)‎. Protein and amino acid requirements in human nutrition: report of a joint FAO/WHO/UNU expert consultation. Geneva: World Health Organization. (WHO Technical Report Series, 935, 284 pp); das Dokument ist in Englisch unter folgender Adresse verfügbar: https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&.
+[^annex10-lvlu1-lvl2-1]: Joint FAO/WHO/UNU Expert Consultation on Protein and Amino Acid Requirements in Human Nutrition (‎2002: Geneva, Switzerland)‎, Food and Agriculture Organization of the United Nations, World Health Organization & United Nations University. (‎2007)‎. Protein and amino acid requirements in human nutrition: report of a joint FAO/WHO/UNU expert consultation. Geneva: World Health Organization. (WHO Technical Report Series, 935, 284 pp); das Dokument ist in Englisch unter folgender Adresse verfügbar: [https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&](https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&).
 
 ### 3 Cholin
 
@@ -2026,10 +2175,9 @@ Das in Tagesrationen für gewichtskontrollierende Ernährung enthaltene Cholin d
 
 ### 4 Fette
 
-- 4\.1 **Linolsäure**
-- [tab] Die in Tagesrationen für gewichtskontrollierende Ernährung enthaltene Linolsäure darf pro Tagesration nicht weniger als 11 g betragen.
-- 4\.2 **Alpha-Linolensäure**
-- [tab] Die in Tagesrationen für gewichtskontrollierende Ernährung enthaltene Alpha-Linolensäure darf pro Tagesration nicht weniger als 1,4 g betragen.
+- 4\.1 …
+- 4\.2 **α-Linolensäure**
+- Die in Tagesrationen für gewichtskontrollierende Ernährung enthaltene Alpha-Linolensäure darf pro Tagesration nicht weniger als 0,8 g betragen.
 
 ### 5 Kohlenhydrate
 
@@ -2037,9 +2185,9 @@ Die in Tagesrationen für gewichtskontrollierende Ernährung enthaltenen Kohlenh
 
 ### 6 Vitamine und Mineralstoffe
 
-Tagesrationen für gewichtskontrollierende Ernährung müssen pro Tagesration mindestens die in der Tabelle unten aufgeführten Mengen an Vitaminen und Mineralstoffen liefern.
+Tagesrationen für die gewichtskontrollierende Ernährung müssen pro Tagesration mindestens die in der Tabelle unten aufgeführten Mengen an Vitaminen und spezifischen Mineralstoffen liefern.
 
-Tagesrationen für gewichtskontrollierende Ernährung dürfen pro Tagesration nicht mehr als 250 mg Magnesium enthalten.
+Tagesrationen für gewichtskontrollierende Ernährung dürfen pro Tagesration nicht mehr als 350 mg Magnesium enthalten.
 
 <table>
 <tr><th>Stoff</th><th colspan="2">Einheit</th><th>Menge</th></tr>
@@ -2076,13 +2224,13 @@ Tagesrationen für gewichtskontrollierende Ernährung dürfen pro Tagesration ni
 [^annex10-lvlu1-lvl6-3]: Retinol-Äquivalente.
 [^annex10-lvlu1-lvl6-4]: Vitamin-E-Aktivität von RRR-α-Tocopherol.
 
-Anhang 10a[^t-8]
+Anhang 10a[^t-10]
 
 (Art. 35*d*)
 
 ## Anforderungen an die Zusammensetzung von Mahlzeitersatz für gewichtskontrollierende Ernährung
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 3 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-10]: Eingefügt durch Ziff. II Abs. 3 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 ### 1 Energiewert
 
@@ -2123,13 +2271,13 @@ Ein Mahlzeitersatz für gewichtskontrollierende Ernährung muss je Mahlzeit mind
 
 [^annex10a-lvlu1-lvl4-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
-Anhang 11[^t-9]
+Anhang 11[^t-11]
 
 (Art. 38 Abs. 1 Bst. a, 39 Bst. a und b sowie 40 Abs. 2)
 
 ## Vitamine, Mineralstoffe und sonstige Stoffe in den für Erwachsene zulässigen Höchstmengen
 
-[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
+[^t-11]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-lvlu1-1] für Zusatzstoffe festgelegt sind. Für Stoffe, für die keine Reinheitskriterien festgelegt wurden, gelten die allgemein anerkannten Reinheitskriterien, die von internationalen Gremien, wie der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO), der Weltgesundheitsorganisation (WHO) oder internationalen Pharmakopöen empfohlen werden.
 
@@ -2179,8 +2327,8 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>L-Glutaminsäure</td><td>10 g</td><td></td></tr>
 <tr><td>Glycin</td><td>5 g</td><td></td></tr>
 <tr><td>L-Histidin</td><td>600 mg</td><td></td></tr>
-<tr><td>L-Isoleucin</td><td>1200 mg</td><td></td></tr>
-<tr><td>L-Leucin</td><td>2400 mg</td><td></td></tr>
+<tr><td>L-Isoleucin</td><td>2200 mg</td><td></td></tr>
+<tr><td>L-Leucin</td><td>4000 mg</td><td></td></tr>
 <tr><td>L-Lysin</td><td>1800 mg</td><td></td></tr>
 <tr><td>L-Methionin + L-Cystein (Summe)</td><td>900 mg</td><td></td></tr>
 <tr><td>L-Ornithin</td><td>2000 mg</td><td></td></tr>
@@ -2190,7 +2338,7 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>L-Tryptophan</td><td>240 mg</td><td></td></tr>
 <tr><td>L-Tyrosin</td><td>1200 mg</td><td></td></tr>
 <tr><td>L-Serin</td><td>40 mg</td><td></td></tr>
-<tr><td>L-Valin</td><td>1600 mg</td><td></td></tr>
+<tr><td>L-Valin</td><td>2000 mg</td><td></td></tr>
 <tr><td colspan="3">2.2 Sonstige Stoffe, ohne Aminosäuren</td></tr>
 <tr><td>β-Alanin</td><td>3,2 g</td><td>*«Nicht länger als 8–10 Wochen einnehmen»* – Abgabe nur als Tabletten, die mit geeigneten Mitteln (Zusatzstoffen) als «slow-release»-Tabletten formuliert werden. – Einnahme muss mindestens auf 2 Dosen pro Tag verteilt werden, vorzugsweise zu einer Mahlzeit</td></tr>
 <tr><td>Betain</td><td>1500 mg</td><td></td></tr>
@@ -2211,7 +2359,7 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>Hesperidin</td><td>430 mg</td><td>*«Personen, die Medikamente einnehmen, sollten vor der Einnahme ihre Ärztin oder ihren Arzt konsultieren.»*</td></tr>
 <tr><td>Inositol</td><td>1000 mg</td><td></td></tr>
 <tr><td>Isoflavone</td><td>50 mg (bezogen auf das Aglycon)</td><td></td></tr>
-<tr><td>Katechine, Epigallocatechingallat (EGCG)</td><td>90 mg (berechnet als EGCG)</td><td>*«Nicht auf nüchternen Magen, nicht bei strikter, kalorienarmer Ernährung und nicht gleichzeitig mit anderen Produkten auf Basis von Grüntee einnehmen.»*</td></tr>
+<tr><td>Katechine, Epigallocatechingallat (EGCG)</td><td>300 mg (berechnet als EGCG)</td><td>*«Darf nicht eingenommen werden, wenn Sie am selben Tag andere Produkte einnehmen, die Grüntee enthalten».* *«Darf nicht von schwangeren oder stillenden Frauen und von Kindern unter 18 Jahren verzehrt werden».* *«Darf nicht auf nüchternen Magen eingenommen werden».*</td></tr>
 <tr><td>konjugierte Linolsäure (CLA)</td><td>3 g</td><td>*«Für Diabetikerinnen und Diabetiker, Jugendliche, schwangere und stillende Frauen nicht geeignet.»*</td></tr>
 <tr><td>Kreatin</td><td>3 g</td><td></td></tr>
 <tr><td>Lactulose</td><td>10 g</td><td></td></tr>
@@ -2227,13 +2375,13 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 [^annex11-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^annex11-lvlu1-2]: Retinol-Äquivalente, Umrechnungsfaktor: β-Carotin = 6 × Retinol-Äquivalente
 
-Anhang 12[^t-10]
+Anhang 12[^t-12]
 
 (Art. 38 Abs. 1 Bst. a, 39 Bst. c und 40 Abs. 2)
 
 ## Zulässige Stoffe und Verbindungen für Lebensmittel für Sportlerinnen und Sportler
 
-[^t-10]: Bereinigt gemäss Ziff. I Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-12]: Bereinigt gemäss Ziff. I Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1. Kategorie 1: Vitamine
 
@@ -2263,7 +2411,7 @@ Gemischte Tocopherole[^annex12-lvlu1-lvl1-lvl13-1]
 
 Tocotrienol-Tocopherol[^annex12-lvlu1-lvl1-lvl13-2]
 
-[^annex12-lvlu1-lvl1-lvl13-1]: α-Tocopherol &lt; 20 %, β-Tocopherol &lt; 10 %, γ-Tocopherol 50–70 %, und δ-Tocopherol 10–30 %.
+[^annex12-lvlu1-lvl1-lvl13-1]: α-Tocopherol &lt; 20 Prozent, β-Tocopherol &lt; 10 Prozent, γ-Tocopherol 50–70 Prozent, und δ-Tocopherol 10–30 Prozent.
 [^annex12-lvlu1-lvl1-lvl13-2]: Typische Mengen einzelner Tocopherole und Tocotrienole sind: – 115 mg/g α-Tocopherol (101 mg/g Mindestgehalt); – 5 mg/g β-Tocopherol (&lt; 1 mg/g Mindestgehalt); – 45 mg/g γ-Tocopherol (25 mg/g Mindestgehalt); – 12 mg/g δ-Tocopherol (3 mg/g Mindestgehalt); – 67 mg/g α-Tocotrienol (30 mg/g Mindestgehalt); – &lt; 1 mg/g β-Tocotrienol (&lt; 1 mg/g Mindestgehalt); – 82 mg/g γ-Tocotrienol (45 mg/g Mindestgehalt); – 5 mg/g δ-Tocotrienol (1 mg/g Mindestgehalt).
 
 ### 1.4 Vitamin K
@@ -2340,7 +2488,7 @@ D-Biotin
 
 ### 1.13 Vitamin C
 
-Calcium-L-ascorbat (kann bis zu 2 % Threonat enthalten)
+Calcium-L-ascorbat (kann bis zu 2 Prozent Threonat enthalten)
 
 Kalium-L-ascorbat
 
@@ -2632,7 +2780,7 @@ Selenhefe[^annex12-lvlu1-lvl2-lvl211-1]
 
 Selenige Säure
 
-[^annex12-lvlu1-lvl2-lvl211-1]: In Gegenwart von Natriumselenit als Selenquelle in Kultur gewonnene Arten Selenhefe, die in handelsüblicher getrockneter Form nicht mehr als 2,5 mg Se/g enthalten. Die in der Hefe vorherrschende organische Selenart ist Selenmethionin (zwischen 60 und 85 % des im Produkt enthaltenen Selens). Der Gehalt an anderen organischen Selenverbindungen einschliesslich Selenocystein darf 10 % des gesamten Selenextraktes nicht überschreiten. Der Gehalt an anorganischem Selen darf üblicherweise 1 % des gesamten Selenextraktes nicht überschreiten.
+[^annex12-lvlu1-lvl2-lvl211-1]: In Gegenwart von Natriumselenit als Selenquelle in Kultur gewonnene Arten Selenhefe, die in handelsüblicher getrockneter Form nicht mehr als 2,5 mg Se/g enthalten. Die in der Hefe vorherrschende organische Selenart ist Selenmethionin (zwischen 60 und 85 Prozent des im Produkt enthaltenen Selens). Der Gehalt an anderen organischen Selenverbindungen einschliesslich Selenocystein darf 10 Prozent des gesamten Selenextraktes nicht überschreiten. Der Gehalt an anorganischem Selen darf üblicherweise 1 Prozent des gesamten Selenextraktes nicht überschreiten.
 
 ### 2.12 Chrom
 
@@ -2845,7 +2993,7 @@ Anhang 14
 
 <table>
 <tr><td>a. Kohlenhydrate</td><td>mehrere unterschiedlich resorbierbare Zuckerarten oder Stärkeabbauprodukte</td></tr>
-<tr><td>b. Energiequelle</td><td>mindestens 80 % von Kohlenhydraten</td></tr>
+<tr><td>b. Energiequelle</td><td>mindestens 80 Prozent von Kohlenhydraten</td></tr>
 <tr><td>c. Energiegehalt</td><td>mindestens 300 kJ (70 kcal) pro 100 ml oder 1400 kJ (335 kcal) pro 100 g Trockenmasse (bezogen auf genussfertiges Produkt)</td></tr>
 </table>
 
@@ -2853,14 +3001,14 @@ Anhang 14
 
 <table>
 <tr><td>a. Energiegehalt</td><td>mindestens 1400 kJ (335 kcal) pro 100 g Trockenmasse</td></tr>
-<tr><td>b. Energiequelle</td><td>mindestens 50 % aus Kohlenhydraten, und höchstens 30 % aus Fett</td></tr>
+<tr><td>b. Energiequelle</td><td>mindestens 50 Prozent aus Kohlenhydraten, und höchstens 30 Prozent aus Fett</td></tr>
 </table>
 
 ### 1.3 Sportgetränke
 
 <table>
 <tr><td>a. Energiegehalt</td><td>mindestens 100 kJ (25 kcal) pro 100 ml</td></tr>
-<tr><td>b. Energiequelle</td><td>mindestens 90 % aus Kohlenhydraten, höchstens 1 % aus Fett und höchstens 5 % aus Protein</td></tr>
+<tr><td>b. Energiequelle</td><td>mindestens 90 Prozent aus Kohlenhydraten, höchstens 1 Prozent aus Fett und höchstens 5 Prozent aus Protein</td></tr>
 </table>
 
 ### 1.4 Recovery-Getränke
@@ -2873,6 +3021,6 @@ Anhang 14
 ### 2 Anforderungen an Protein- und Aminosäurepräparate
 
 <table>
-<tr><td>a. Kollagenes Eiweiss</td><td>Darf höchstens 20 % des Proteinanteiles betragen.</td></tr>
+<tr><td>a. Kollagenes Eiweiss</td><td>Darf höchstens 20 Prozent des Proteinanteiles betragen.</td></tr>
 <tr><td>b. Proteinzufuhr</td><td>Darf einschliesslich des mit der üblichen Ernährung aufgenommenen Eiweisses 2 g/kg Körpergewicht pro Tag nicht überschreiten.</td></tr>
 </table>

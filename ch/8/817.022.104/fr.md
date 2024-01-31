@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires dest
 short: OBNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: fr
-version: 2023-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-180-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-180-20240201-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20230701/fr"
 
 (OBNP)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2023)
+du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -120,16 +120,17 @@ Les préparations pour nourrissons doivent satisfaire aux exigences suivantes:
   - 1\. à partir des sources protéiques répertoriées à l’annexe 2, ch. 2, et
   - 2\. à partir d’autres ingrédients dont il est démontré par des connaissances scientifiques reconnues qu’ils conviennent à l’alimentation particulière des nourrissons dès leur naissance;
 
-- b. leur composition doit être conforme aux exigences prescrites à l’annexe 2;
+- b.[^6-1] leur composition doit être conforme aux exigences prescrites aux annexes 2 et 3*a*;
 - c. elles doivent être prêtes à consommer après adjonction d’eau potable;
 - d.
 
   seuls les composés et substances répertoriés à l’annexe 1 sont admis dans la fabrication des préparations pour nourrissons; les critères suivants s’appliquent aux composés et substances:
 
-  - 1\. s’ils peuvent également être utilisés comme additifs: les critères de pureté énumérés à l’annexe 4 de l’ordonnance du 25 novembre 2013 sur les additifs (OAdd)[^6-1],
+  - 1\. s’ils peuvent également être utilisés comme additifs: les critères de pureté énumérés à l’annexe 4 de l’ordonnance du 25 novembre 2013 sur les additifs (OAdd)[^6-2],
   - 2\. s’ils ne peuvent pas être également utilisés comme additifs, ou si les critères de pureté énumérés à l’annexe 4 OAdd ne sont pas applicables: les critères de pureté reconnus par les organismes internationaux.
 
-[^6-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^6-2]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 7
 
@@ -254,16 +255,17 @@ Les préparations de suite doivent satisfaire aux exigences suivantes:
   - 1\. à partir des sources protéiques répertoriées à l’annexe 3, ch. 2, et
   - 2\. à partir d’autres ingrédients dont il est démontré par des connaissances scientifiques reconnues qu’ils conviennent à l’alimentation particulière des nourrissons de plus de 6 mois et à celle des enfants en bas âge;
 
-- b. leur composition doit être conforme aux exigences prescrites à l’annexe 3;
+- b.[^13-1] leur composition doit être conforme aux exigences prescrites aux annexes 3 et 3*a*;
 - c. elles doivent être prêtes à consommer après adjonction d’eau potable;
 - d.
 
   seuls les substances et composés répertoriés à l’annexe 1 sont admis dans les préparations de suite; les critères suivants s’appliquent à ces préparations:
 
-  - 1\. s’ils peuvent également être utilisés comme additifs: les critères de pureté énumérés à l’annexe 4 OAdd[^13-1],
+  - 1\. s’ils peuvent également être utilisés comme additifs: les critères de pureté énumérés à l’annexe 4 OAdd[^13-2],
   - 2\. s’ils ne peuvent pas être également utilisés comme additifs ou si les critères de pureté énumérés à l’annexe 4 OAdd ne sont pas applicables: les critères de pureté reconnus par les organismes internationaux.
 
-[^13-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^13-2]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 14
 
@@ -540,7 +542,7 @@ En plus des informations visées à l’art. 4, les indications suivantes doiven
 
 - a. une mention indiquant que le produit doit être utilisé sous contrôle médical;
 - b. une mention indiquant si le produit peut être utilisé comme seule source d’alimentation;
-- c. la mention «Pour les besoins nutritionnels en cas de...» où les points de suspension sont remplacés par la pathologie, le trouble ou la maladie pour lesquels le produit est prévu;
+- c. la mention «Pour les besoins nutritionnels en cas de…» où les points de suspension sont remplacés par la pathologie, le trouble ou la maladie pour lesquels le produit est prévu;
 - d. une description des propriétés et des caractéristiques auxquelles le produit doit son utilité eu égard à la pathologie, au trouble ou à la maladie, pour le traitement nutritionnel de laquelle il est prévu, le cas échéant, eu égard à la transformation et à la composition particulières, avec mention de ces nutriments qui ont été augmentés, diminués, éliminés ou qui ont subi d’autres modifications;
 - e. une justification de l’utilisation du produit.
 
@@ -786,19 +788,40 @@ Sur demande motivée, l’OSAV peut:
 
 <sup>1</sup> La dénomination spécifique est fixée à l’art. 6 OIDAl[^40-1].
 
-<sup>2</sup> Pour l’étiquetage, la mention des substances dont l’adjonction est admise est régie par l’annexe 12; les désignations des vitamines, des sels minéraux et des autres substances sont régies par l’annexe 13.
+<sup>2</sup> Pour l’étiquetage, la mention des substances dont l’adjonction est admise est régie par l’annexe 11; les désignations des vitamines, des sels minéraux et des autres substances sont régies par l’annexe 12.[^40-2]
 
-- [tab] <sup>3</sup> L’adjonction de cultures de bactéries vivantes doit figurer dans la liste des ingrédients et dans la dénomination spécifique sous l’une des formes suivantes:
-- a. sous la nomenclature scientifique spécifique conforme aux prescriptions de l’*International Committee on Systematics of Prokaryotes*[^40-2];
+<sup>3</sup>
+
+L’adjonction de cultures de bactéries vivantes doit figurer dans la liste des ingrédients et dans la dénomination spécifique sous l’une des formes suivantes:
+
+- a. sous la nomenclature scientifique spécifique conforme aux prescriptions de l’*International Committee on Systematics of Prokaryotes*[^40-3];
 - b. avec la mention «contient des ferments lactiques».
 
 <sup>4</sup> L’étiquetage doit s’appuyer sur la teneur en vitamines, sels minéraux et autres substances au moment de la remise au consommateur.
 
-<sup>5</sup> Les boissons peuvent être qualifiées d’isotoniques lorsque leur osmolarité est comprise entre 260 et 300 mosmol/l, tandis qu’elles peuvent être qualifiées d’hypotoniques si leur osmolarité est inférieure à 260 mosmol/l.[^40-3]
+<sup>5</sup>
+
+Pour la catégorie b des denrées alimentaires destinées aux sportifs visées à l’art. 37, les mentions obligatoires énumérées à l’art. 3, al. 1, OIDAl doivent être complétées par les informations suivantes:
+
+- a. la dose journalière recommandée exprimée en portions du produit;
+- b. un avertissement que la dose journalière recommandée ne doit pas être dépassée;
+- c. une mention indiquant que les produits doivent être tenus hors de la portée des jeunes enfants.[^40-4]
+
+<sup>6</sup> Par dérogation à l’art. 21, al. 1, OIDAl, la déclaration nutritionnelle n’est pas obligatoire pour les denrées alimentaires visées à l’art. 37, let. b.[^40-5]
+
+<sup>7</sup>
+
+S’agissant des denrées alimentaires visées à l’art. 37, let. b, en cas de mention relative à une vitamine, à un sel minéral ou à une autre substance, doivent être compris par dose journalière recommandée:
+
+- a. pour les vitamines et les sels minéraux: au moins 15 % de l’apport de référence fixé à l’annexe 10, partie A, OIDAl;
+- b. pour les autres substances: au moins 15 % de la quantité maximale fixée à l’annexe 11; à titre exceptionnel, ce pourcentage peut être inférieur si, sur la base de données et d’informations scientifiques généralement reconnues, il peut être prouvé que la substance est présente en une quantité permettant d’obtenir un effet nutritionnel ou physiologique.[^40-6]
 
 [^40-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
-[^40-2]: www.the-icsp.org
-[^40-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-3]: [www.the-icsp.org](https://www.the-icsp.org)
+[^40-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-5]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^40-6]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ## Chapitre 6 Actualisation des annexes
 
@@ -826,6 +849,14 @@ L’ordonnance du DFI du 23 novembre 2005 sur les aliments spéciaux[^42-1] est 
 
 <sup>2</sup> La mention visée à l’art. 8, al. 4, let. d, ne peut être utilisée que pour les préparations pour nourrissons mises sur le marché avant le 22 février 2025.
 
+#### Art. 43a
+
+**Disposition transitoire de la modification du 8 décembre 2023**[^43a-1]
+
+Les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers qui ne sont pas conformes à la modification du 8 décembre 2023 de la présente ordonnance peuvent encore être fabriquées, importées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025. Elles peuvent encore être remises au consommateur selon l’ancien droit jusqu’à épuisement des stocks.
+
+[^43a-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+
 #### Art. 44
 
 **Entrée en vigueur**
@@ -846,7 +877,7 @@ Annexe 1[^t-1]
 
 ## Substances et composés
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 9 juin 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 <table>
 <tr><th>Substances</th><th>Composés</th><th colspan="4">Catégories de denrées alimentaires</th><th></th><th></th><th></th><th></th></tr>
@@ -857,8 +888,9 @@ Annexe 1[^t-1]
 <tr><td></td><td>D-pantothénate de sodium</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4"></td></tr>
 <tr><td>Biotine</td><td>D-biotine</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Folates</td><td>Acide folique ou acide ptéroylmonoglutamique</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
-<tr><td></td><td>L-méthylfolate de calcium</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-méthylfolate de calcium</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Niacine</td><td>Acide nicotinique</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Chlorure de nicotinamide riboside</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Nicotinamide</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Riboflavine</td><td>Riboflavine</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Riboflavine-5’-phosphate de sodium</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1052,7 +1084,7 @@ Annexe 2[^t-2]
 
 ## Exigences applicables à la composition des préparations pour nourrissons
 
-[^t-2]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Erratum du 31 mai 2021, ne concerne que le texte allemand ([RO 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
+[^t-2]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Remarque:* les valeurs indiquées se rapportent aux produits prêts à la consommation commercialisés tels quels ou après reconstitution selon les instructions du fabricant.
 
@@ -1066,8 +1098,8 @@ Annexe 2[^t-2]
 
 ### 2 Protéines
 
-- 2\.1 Définitions
-- Teneur en protéines = teneur en azote 6,25.
+- 2\.1 Définition
+- Teneur en protéines = teneur en azote × 6,25.
 - 2\.2 Préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre
 
 <table>
@@ -1076,28 +1108,9 @@ Annexe 2[^t-2]
 <tr><td>(1,8 g/100 kcal)</td><td>(2,5 g/100 kcal)</td></tr>
 </table>
 
-- À valeur énergétique égale, les préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon ch. 26). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine peuvent être comptées ensemble, pour autant que le rapport méthionine/cystéine ne soit pas supérieur à 2. De même, les concentrations de tyrosine et de phénylalanine peuvent être comptées ensemble, pour autant que le rapport tyrosine/phénylalanine ne soit pas supérieur à 2. Le rapport méthionine/cystéine et tyrosine/phénylalanine peut être supérieur à 2, à condition que l’adéquation du produit aux besoins nutritionnels particuliers des nourrissons ait été démontrée par des études réalisées sur la base de recommandations reconnues, émises par des spécialistes en vue de la planification et de la conduite de telles études.
+- À valeur énergétique égale, les préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon l’annexe 3*a*, let. A). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine peuvent être comptées ensemble, pour autant que le rapport méthionine/cystéine ne soit pas supérieur à 2. De même, les concentrations de tyrosine et de phénylalanine peuvent être comptées ensemble, pour autant que le rapport tyrosine/phénylalanine ne soit pas supérieur à 2. Le rapport méthionine/cystéine et tyrosine/phénylalanine peut être supérieur à 2, à condition que l’adéquation du produit aux besoins nutritionnels particuliers des nourrissons ait été démontrée par un examen systématique des données scientifiques généralement reconnues disponibles sur les avantages escomptés et les considérations de sécurité, ainsi que, si nécessaire, par des études appropriées effectuées conformément aux orientations d’experts généralement admises traitant de la conception et de la réalisation de ces études.
 - La concentration de L-carnitine ne peut être inférieure à 0,3 mg/100 kJ (1,2 mg/100 kcal).
-- 2\.3 Préparations pour nourrissons à base d’hydrolysats de protéines
-
-<table>
-<tr><td>Minimum</td><td>Maximum</td></tr>
-<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
-<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
-</table>
-
-- Les hydrolysats de protéines sont obtenus à partir des sources suivantes:
--
-
-  Protéines de lactosérum doux déminéralisé, dérivées de lait après précipitation enzymatique des caséines au moyen de la chymosine, composées de:
-
-  - a) 63 % d’isolat de protéines de lactosérum sans caséinoglycomacropeptide ayant une teneur minimale en protéines de 95 % de la matière sèche et une dénaturation des protéines inférieure à 70 %, ainsi qu’une teneur en cendres maximale de 3 %, et de
-  - b) 37 % de concentré de protéines de lactosérum doux ayant une teneur minimale en protéines de 87 % de la matière sèche et une dénaturation des protéines inférieure à 70 %, ainsi qu’une teneur en cendres maximale de 3,5 %.
-
-- Les sources de protéines doivent être transformées comme suit: procédé d’hydrolyse à deux étapes utilisant une préparation de trypsine et comprenant un traitement thermique (durant 3 à 10 minutes à une température de 80 à 100 °C) entre les deux étapes d’hydrolyse.
-- À valeur énergétique égale, les préparations pour nourrissons à base d’hydrolysats de protéines doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon ch. 2,6). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine peuvent être comptées ensemble, pour autant que le rapport méthionine/cystéine ne soit pas supérieur à 2. De même, les concentrations de tyrosine et de phénylalanine peuvent être comptées ensemble, pour autant que le rapport tyrosine/phénylalanine ne soit pas supérieur à 2. Le rapport méthionine/cystéine et tyrosine/phénylalanine peut être supérieur à 2, à condition que l’adéquation du produit aux besoins nutritionnels particuliers des nourrissons ait été démontrée par des études réalisées sur la base de recommandations reconnues, émises par des spécialistes en vue de la planification et de la conduite de telles études.
-- La concentration de L-carnitine ne peut être inférieure à 0,3 mg/100 kJ (1,2 mg/100 kcal).
-- 2\.4 Préparations pour nourrissons à base d’isolats de protéines de soja, seuls ou mélangés avec des protéines de lait de vache ou de lait de chèvre
+- 2\.3 Préparations pour nourrissons à base d’isolats de protéines de soja, seuls ou mélangés avec des protéines de lait de vache ou de lait de chèvre
 
 <table>
 <tr><td>Minimum</td><td>Maximum</td></tr>
@@ -1106,26 +1119,71 @@ Annexe 2[^t-2]
 </table>
 
 - Seuls les isolats de protéines de soja sont admis dans la fabrication de ces préparations pour nourrissons.
-- À valeur énergétique égale, les préparations pour nourrissons à base d’isolats de protéines de soja, seuls ou mélangés avec des protéines de lait de vache ou de lait de chèvre, doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon ch. 2,6). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine peuvent être comptées ensemble, pour autant que le rapport méthionine/cystéine ne soit pas supérieur à 2. De même, les concentrations de tyrosine et de phénylalanine peuvent être comptées ensemble, pour autant que le rapport tyrosine/phénylalanine ne soit pas supérieur à 2. Le rapport méthionine/cystéine et tyrosine/phénylalanine peut être supérieur à 2, à condition que l’adéquation du produit aux besoins nutritionnels particuliers des nourrissons ait été démontrée par des études réalisées sur la base de recommandations reconnues, émises par des spécialistes en vue de la planification et de la conduite de telles études.
+- À valeur énergétique égale, les préparations pour nourrissons à base d’isolats de protéines de soja, seuls ou mélangés avec des protéines de lait de vache ou de lait de chèvre, doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon l’annexe 3*a*, let. A). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine peuvent être comptées ensemble, pour autant que le rapport méthionine/cystéine ne soit pas supérieur à 2. De même, les concentrations de tyrosine et de phénylalanine peuvent être comptées ensemble, pour autant que le rapport tyrosine/phénylalanine ne soit pas supérieur à 2. Le rapport méthionine/cystéine et tyrosine/phénylalanine peut être supérieur à 2, à condition que l’adéquation du produit aux besoins nutritionnels particuliers des nourrissons ait été démontrée par un examen systématique des données scientifiques généralement reconnues disponibles sur les avantages escomptés et les considérations de sécurité, ainsi que, si nécessaire, par des études appropriées effectuées conformément aux orientations d’experts généralement admises traitant de la conception et de la réalisation de ces études.
 - La concentration de L-carnitine ne peut être à inférieure à 0,3 mg/100 kJ (1,2 mg/100 kcal).
-- 2\.5 Dans tous les cas, des acides aminés ne peuvent être ajoutés que dans le but d’améliorer la valeur nutritive des protéines et uniquement dans les proportions nécessaires.
-- 2\.6 Les teneurs en acides aminés essentiels et semi-essentiels du lait maternel sont les suivantes:
+- 2\.4 Préparations pour nourrissons à base d’hydrolysats de protéines
+- Les préparations pour nourrissons à base d’hydrolysats de protéines doivent satisfaire aux exigences relatives aux protéines prévues au ch. 2.4.1, 2.4.2 ou 2.4.3.
+- 2\.4.1 Exigences relatives aux protéines, groupe A
+- 2\.4.1.1 Teneur en protéines
 
 <table>
-<tr><td>Acides aminés</td><td>Préparations pour nourrissons mg/100 kJ</td><td>selon ch. 2.2+2.4 mg/100 kcal</td><td>Préparations pour nourrissons mg/100 kJ</td><td>selon ch. 2.3 mg/100 kcal</td></tr>
-<tr><td>Arginine</td><td>–</td><td>–</td><td>16</td><td>69</td></tr>
-<tr><td>Cystéine</td><td>9</td><td>38</td><td>6</td><td>24</td></tr>
-<tr><td>Histidine</td><td>10</td><td>40</td><td>11</td><td>45</td></tr>
-<tr><td>Isoleucine</td><td>22</td><td>90</td><td>17</td><td>72</td></tr>
-<tr><td>Leucine</td><td>40</td><td>166</td><td>37</td><td>156</td></tr>
-<tr><td>Lysine</td><td>27</td><td>113</td><td>29</td><td>122</td></tr>
-<tr><td>Méthionine</td><td>5</td><td>23</td><td>7</td><td>29</td></tr>
-<tr><td>Phénylalanine</td><td>20</td><td>83</td><td>15</td><td>62</td></tr>
-<tr><td>Thréonine</td><td>18</td><td>77</td><td>19</td><td>80</td></tr>
-<tr><td>Tryptophane</td><td>8</td><td>32</td><td>7</td><td>30</td></tr>
-<tr><td>Tyrosine</td><td>18</td><td>76</td><td>14</td><td>59</td></tr>
-<tr><td>Valine</td><td>21</td><td>88</td><td>19</td><td>80</td></tr>
+<tr><td>Minimum</td><td>Maximum</td></tr>
+<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
 </table>
+
+- 2\.4.1.2 Source protéique
+-
+
+  Protéines de lactosérum doux déminéralisé, dérivées de lait de vache après précipitation enzymatique des caséines au moyen de chymosine, constituées de:
+
+  - a. 63 % d’isolat de protéines de lactosérum sans caséinoglycomacropeptide ayant une teneur minimale en protéines de 95 % de la matière sèche, une dénaturation des protéines inférieure à 70 % et une teneur en cendres maximale de 3 %, et
+  - b. 37 % de concentré de protéines de lactosérum doux ayant une teneur minimale en protéines de 87 % de la matière sèche, une dénaturation des protéines inférieure à 70 % et une teneur en cendres maximale de 3,5 %.
+
+- 2\.4.1.3 Transformation des protéines
+- Procédé d’hydrolyse à deux étapes utilisant une préparation de trypsine et comprenant un traitement thermique (durant 3 à 10 minutes à une température de 80 à 100 °C) entre les deux étapes d’hydrolyse.
+- 2\.4.1.4 Acides aminés essentiels et semi-essentiels et L-carnitine
+- À valeur énergétique égale, une préparation pour nourrissons à base d’hydrolysats de protéines doit contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence figurant à l’annexe 3*a*, let. B. Toutefois, pour les calculs, les concentrations de méthionine et de cystéine peuvent être comptées ensemble si le rapport méthionine/cystéine n’est pas supérieur à 2, et les concentrations de phénylalanine et de tyrosine peuvent être comptées ensemble si le rapport tyrosine/phénylalanine n’est pas supérieur à 2. Le rapport méthionine/cystéine et tyrosine/phénylalanine peut être supérieur à 2, à condition que l’adéquation du produit aux besoins nutritionnels particuliers des nourrissons ait été démontrée par un examen systématique des données scientifiques généralement reconnues disponibles sur les avantages escomptés et les considérations de sécurité, ainsi que, si nécessaire, par des études appropriées effectuées conformément aux orientations d’experts généralement admises traitant de la conception et de la réalisation de ces études.
+- La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100 kcal).
+- 2\.4.2 Exigences relatives aux protéines, groupe B
+- 2\.4.2.1 Teneur en protéines
+
+<table>
+<tr><td>Minimum</td><td>Maximum</td></tr>
+<tr><td>0,55 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,3 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.2.2 Source protéique
+-
+
+  Protéines de lactosérum dérivées de lait de vache, constituées de:
+
+  - a. 77 % de lactosérum acide provenant d’un concentré protéique de lactosérum d’une teneur en protéines de 35 à 80 %;
+  - b. 23 % de lactosérum doux, provenant de lactosérum doux déminéralisé ayant une teneur minimale en protéines de 12,5 %.
+
+- 2\.4.2.3 Transformation des protéines
+- Le matériel de base est hydraté et chauffé. À l’issue de la phase de traitement thermique, l’hydrolyse est effectuée à un pH de 7,5 à 8,5 et à une température de 55 à 70 °C à l’aide d’un mélange enzymatique composé d’un complexe d’endopeptidase de sérine et de protéase/peptidase. Les enzymes alimentaires sont inactivées lors de la phase de traitement thermique (de 2 à 10 secondes à une température de 120 °C à 150 °C) au cours du processus de production.
+- 2\.4.2.4 Acides aminés essentiels et semi-essentiels et L-carnitine
+- À valeur énergétique égale, une préparation pour nourrissons à base d’hydrolysats de protéines doit contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence figurant à l’annexe 3*a*, let. A. Toutefois, pour les calculs, les concentrations de méthionine et de cystéine peuvent être comptées ensemble si le rapport méthionine/ cystéine n’est pas supérieur à 2, et les concentrations de phénylalanine et de tyrosine peuvent être comptées ensemble si le rapport tyrosine/phénylalanine n’est pas supérieur à 2. Le rapport méthionine/cystéine et tyrosine/phénylalanine peut être supérieur à 2, à condition que l’adéquation du produit aux besoins nutritionnels particuliers des nourrissons ait été démontrée par un examen systématique des données scientifiques généralement reconnues disponibles sur les avantages escomptés et les considérations de sécurité, ainsi que, si nécessaire, par des études appropriées effectuées conformément aux orientations d’experts généralement admises traitant de la conception et de la réalisation de ces études.
+- La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100 kcal)».
+- 2\.4.3 Exigences relatives aux protéines, groupe C
+- 2\.4.3.1 Teneur en protéines
+
+<table>
+<tr><td>Minimum</td><td>Maximum</td></tr>
+<tr><td>0,45 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,9 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.3.2 Source protéique
+- Protéines de lactosérum dérivées de lait de vache, constituées de 100 % de concentré de protéines de lactosérum doux ayant une teneur minimale en protéines de 80 %.
+- 2\.4.3.3 Transformation des protéines
+- Le matériel de base est hydraté et chauffé. Avant l’hydrolyse, le pH est ajusté à une valeur comprise entre 6,5 et 7,5 à une température de 50 à 65 °C. L’hydrolyse est effectuée à l’aide d’un mélange enzymatique d’une endopeptidase de sérine et d’une métalloprotéase. Les enzymes alimentaires sont inactivées lors de la phase de traitement thermique (de 2 à 10 secondes à une température de 110 °C à 140 °C) au cours du processus de production.
+- 2\.4.3.4 Acides aminés essentiels et semi-essentiels et L-carnitine
+- À valeur énergétique égale, une préparation pour nourrissons à base d’hydrolysats de protéines doit contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence figurant à l’annexe 3*a*, let. A. Toutefois, pour les calculs, les concentrations de méthionine et de cystéine peuvent être comptées ensemble si le rapport méthionine/cystéine n’est pas supérieur à 2, et les concentrations de phénylalanine et de tyrosine peuvent être comptées ensemble si le rapport tyrosine/phénylalanine n’est pas supérieur à 2. Le rapport méthionine/cystéine et tyrosine/ phénylalanine peut être supérieur à 2, à condition que l’adéquation du produit aux besoins nutritionnels particuliers des nourrissons ait été démontrée par un examen systématique des données scientifiques généralement reconnues disponibles sur les avantages escomptés et les considérations de sécurité, ainsi que, si nécessaire, par des études appropriées effectuées conformément aux orientations d’experts généralement admises traitant de la conception et de la réalisation de ces études.
+- La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100 kcal).».
+- 2\.5 Dans tous les cas, des acides aminés ne peuvent être ajoutés que dans le but d’améliorer la valeur nutritive des protéines et uniquement dans les proportions nécessaires.
 
 ### 3 Taurine
 
@@ -1345,7 +1403,7 @@ Annexe 3[^t-3]
 
 ## Exigences applicables à la composition des préparations de suite
 
-[^t-3]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-3]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Remarque:* les valeurs se rapportent aux produits prêts à la consommation commercialisés tels quels ou après reconstitution selon les instructions du fabricant.
 
@@ -1359,8 +1417,9 @@ Annexe 3[^t-3]
 
 ### 2 Protéines
 
-- Teneur en protéines = teneur en azote 6,25.
-- 2\.1 Préparations de suite à base de protéines de lait de vache ou de lait de chèvre
+- 2\.1 Définition
+- Teneur en protéines = teneur en azote × 6,25.
+- 2\.2 Préparations de suite à base de protéines de lait de vache ou de lait de chèvre
 
 <table>
 <tr><td>Minimum</td><td>Maximum</td></tr>
@@ -1368,25 +1427,7 @@ Annexe 3[^t-3]
 <tr><td>(1,6 g/100 kcal)</td><td>(2,5 g/100 kcal)</td></tr>
 </table>
 
-- À valeur énergétique égale, les préparations de suite à base de protéines de lait de vache ou de lait de chèvre doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon l’annexe 2, ch. 2.6). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine, ainsi que les concentrations de phénylalanine et de tyrosine, peuvent être comptées ensemble.
-- 2\.2 Préparations de suite à base d’hydrolysats de protéines
-
-<table>
-<tr><td>Minimum</td><td>Maximum</td></tr>
-<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
-<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
-</table>
-
-- Les hydrolysats de protéines sont obtenus à partir des sources suivantes:
--
-
-  Protéines de lactosérum doux déminéralisé, dérivées de lait après précipitation enzymatique des caséines au moyen de la chymosine, composées de:
-
-  - a) 63 % d’isolat de protéines de lactosérum sans caséinoglycomacropeptide ayant une teneur minimale en protéines de 95 % de la matière sèche et une dénaturation des protéines inférieure à 70 %, ainsi qu’une teneur en cendres maximale de 3 %, et de
-  - b) 37 % de concentré de protéines de lactosérum doux ayant une teneur minimale en protéines de 87 % de la matière sèche et une dénaturation des protéines inférieure à 70 %, ainsi qu’une teneur en cendres maximale de 3,5 %.
-
-- Les sources de protéines doivent être transformées comme suit: procédé d’hydrolyse à deux étapes utilisant une préparation de trypsine et comprenant un traitement thermique (durant 3 à 10 minutes à une température de 80 à 100 °C) entre les deux étapes d’hydrolyse.
-- À valeur énergétique égale, les préparations de suite à base d’hydrolysats de protéines doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon l’annexe 2, ch. 2.6). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine, ainsi que les concentrations de phénylalanine et de tyrosine, peuvent être comptées ensemble.
+- À valeur énergétique égale, les préparations de suite à base de protéines de lait de vache ou de lait de chèvre doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon l’annexe 3*a*, let. A). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine, ainsi que les concentrations de phénylalanine et de tyrosine, peuvent être comptées ensemble.
 - 2\.3 Préparations de suite à base d’isolats de protéines de soja, seuls ou mélangés avec des protéines de lait de vache ou de lait de chèvre
 
 <table>
@@ -1396,8 +1437,68 @@ Annexe 3[^t-3]
 </table>
 
 - Seuls les isolats de protéines de soja sont admis dans la fabrication de ces préparations de suite.
-- À valeur énergétique égale, les préparations de suite à base d’isolats de protéines de soja, seuls ou mélangés avec des protéines de lait de vache ou de lait de chèvre, doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon ch. 2.6). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine, ainsi que les concentrations de phénylalanine et de tyrosine, peuvent être comptées ensemble.
-- 2\.4 Dans tous les cas, des acides aminés ne peuvent être ajoutés que dans le but d’améliorer la valeur nutritive des protéines et uniquement dans les proportions nécessaires.
+- À valeur énergétique égale, les préparations de suite à base d’isolats de protéines de soja, seuls ou mélangés avec des protéines de lait de vache ou de lait de chèvre, doivent contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence (lait maternel selon l’annexe 3*a*, let. A). Toutefois, pour les calculs, les concentrations de méthionine et de cystéine, ainsi que les concentrations de phénylalanine et de tyrosine, peuvent être comptées ensemble.
+- 2\.4 Préparations de suite à base d’hydrolysats de protéines
+- Les préparations de suite à base d’hydrolysats de protéines doivent satisfaire aux exigences relatives aux protéines prévues au ch. 2.4.1, 2.4.2 ou 2.4.3.
+- 2\.4.1 Exigences relatives aux protéines, groupe A
+- 2\.4.1.1 Teneur en protéines
+
+<table>
+<tr><td>Minimum</td><td>Maximum</td></tr>
+<tr><td>0,44 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,86 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.1.2 Source protéique
+-
+
+  Protéines de lactosérum doux déminéralisé, dérivées de lait de vache après précipitation enzymatique des caséines au moyen de chymosine, constituées de:
+
+  - a) 63 % d’isolat de protéines de lactosérum sans caséinoglycomacropeptide ayant une teneur minimale en protéines de 95 % de la matière sèche, une dénaturation des protéines inférieure à 70 % et une teneur en cendres maximale de 3 %, et
+  - b) 37 % de concentré de protéines de lactosérum doux ayant une teneur minimale en protéines de 87 % de la matière sèche, une dénaturation des protéines inférieure à 70 % et une teneur en cendres maximale de 3,5 %.
+
+- 2\.4.1.3 Transformation des protéines
+- Procédé d’hydrolyse à deux étapes utilisant une préparation de trypsine et comprenant un traitement thermique (durant 3 à 10 minutes à une température de 80 à 100 °C) entre les deux étapes d’hydrolyse.
+- 2\.4.1.4 Acides aminés essentiels et semi-essentiels et L-carnitine
+- À valeur énergétique égale, une préparation de suite à base d’hydrolysats de protéines doit contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence figurant à l’annexe 3*a*, let. B. Toutefois, pour les calculs, les concentrations de méthionine et de cystéine, ainsi que les concentrations de phénylalanine et de tyrosine, peuvent être comptées ensemble.
+- 2\.4.2 Exigences relatives aux protéines, groupe B
+- 2\.4.2.1 Teneur en protéines
+
+<table>
+<tr><td>Minimum</td><td>Maximum</td></tr>
+<tr><td>0,55 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(2,3 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.2.2 Source protéique
+-
+
+  Protéines de lactosérum dérivées de lait de vache, constituées de:
+
+  - a) 77 % de lactosérum acide provenant d’un concentré protéique de lactosérum d’une teneur en protéines de 35 à 80 %;
+  - b) 23 % de lactosérum doux, provenant de lactosérum doux déminéralisé ayant une teneur minimale en protéines de 12,5 %.
+
+- 2\.4.2.3 Transformation des protéines
+- Le matériel de base est hydraté et chauffé. À l’issue de la phase de traitement thermique, l’hydrolyse est effectuée à un pH de 7,5 à 8,5 et à une température de 55 à 70 °C à l’aide d’un mélange enzymatique composé d’un complexe d’endopeptidase de sérine et de protéase/peptidase. Les enzymes alimentaires sont inactivées lors de la phase de traitement thermique (de 2 à 10 secondes à une température de 120 °C à 150 °C) au cours du processus de production.
+- 2\.4.2.4 Acides aminés essentiels et semi-essentiels
+- À valeur énergétique égale, une préparation de suite à base d’hydrolysats de protéines doit contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence figurant à l’annexe 3*a*, let. A. Toutefois, pour les calculs, les concentrations de méthionine et de cystéine, ainsi que les concentrations de phénylalanine et de tyrosine, peuvent être comptées ensemble.
+- La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100 kcal).
+- 2\.4.3 Exigences relatives aux protéines, groupe C
+- 2\.4.3.1 Teneur en protéines
+
+<table>
+<tr><td>Minimum</td><td>Maximum</td></tr>
+<tr><td>0,45 g/100 kJ</td><td>0,67 g/100 kJ</td></tr>
+<tr><td>(1,9 g/100 kcal)</td><td>(2,8 g/100 kcal)</td></tr>
+</table>
+
+- 2\.4.3.2 Source protéique
+- Protéines de lactosérum dérivées de lait de vache, constituées de 100 % de concentré de protéines de lactosérum doux ayant une teneur minimale en protéines de 80 %.
+- 2\.4.3.3 Transformation des protéines
+- Le matériel de base est hydraté et chauffé. Avant l’hydrolyse, le pH est ajusté à une valeur comprise entre 6,5 et 7,5 à une température de 50 à 65 °C. L’hydrolyse est effectuée à l’aide d’un mélange enzymatique d’une endopeptidase de sérine et d’une métalloprotéase. Les enzymes alimentaires sont inactivées lors de la phase de traitement thermique (de 2 à 10 secondes à une température de 110 °C à 140 °C) au cours du processus de production.
+- 2\.4.3.4 Acides aminés essentiels et semi-essentiels
+- À valeur énergétique égale, une préparation de suite à base d’hydrolysats de protéines doit contenir une quantité disponible de chacun des acides aminés essentiels et semi-essentiels au moins égale à celle contenue dans la protéine de référence figurant à l’annexe 3*a*, let. A. Toutefois, pour les calculs, les concentrations de méthionine et de cystéine, ainsi que les concentrations de phénylalanine et de tyrosine, peuvent être comptées ensemble.
+- 2\.5 Dans tous les cas, des acides aminés ne peuvent être ajoutés que dans le but d’améliorer la valeur nutritive des protéines et uniquement dans les proportions nécessaires.
 
 ### 3 Taurine
 
@@ -1583,13 +1684,66 @@ Annexe 3[^t-3]
 [^annex3-lvlu1-lvl10-1]: La concentration totale en nucléotides ne peut pas dépasser 1,2 mg/100 kJ.
 [^annex3-lvlu1-lvl10-2]: La concentration totale en nucléotides ne peut pas dépasser 5 mg/100 kcal.
 
-Annexe 4[^t-4]
+Annexe 3a[^t-4]
+
+(art. 6, let. b, et 13, let. b)
+
+## Acides aminés essentiels et semi-essentiels dans le lait maternel
+
+[^t-4]: Introduite par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+
+Aux fins des annexes 2, ch. 2, et 3, ch. 2, le lait maternel sert de protéine de référence dans les conditions énoncées, respectivement, aux let. A et B de la présente annexe.
+
+- A. Préparations pour nourrissons et préparations de suite à base de protéines de lait de vache ou de lait de chèvre ou à base d’isolats de protéines de soja seuls ou mélangés avec des protéines de lait de vache ou de lait de chèvre, ainsi que préparations pour nourrissons et préparations de suite à base d’hydrolysats de protéines
+- Aux fins des annexes 2, ch. 2.2, 2.3, 2.4.2 et 2.4.3 et 3, ch. 2.2, 2.3, 2.4.2 et 2.4.3, les acides aminés essentiels et semi-essentiels dans le lait maternel, exprimés en milligrammes pour 100 kJ ou 100 kcal, sont les suivants:
+
+<table>
+<tr><th>Acides aminés</th><th colspan="2">Préparations pour nourrissons et préparations de suite</th></tr>
+<tr><th></th><th>mg/100 kJ[^annex3a-lvlu1-1]</th><th>mg/100 kcal</th></tr>
+<tr><td>Arginine</td><td>–</td><td>–</td></tr>
+<tr><td>Cystéine</td><td>9</td><td>38</td></tr>
+<tr><td>Histidine</td><td>10</td><td>40</td></tr>
+<tr><td>Isoleucine</td><td>22</td><td>90</td></tr>
+<tr><td>Leucine</td><td>40</td><td>166</td></tr>
+<tr><td>Lysine</td><td>27</td><td>113</td></tr>
+<tr><td>Méthionine</td><td>5</td><td>23</td></tr>
+<tr><td>Phénylalanine</td><td>20</td><td>83</td></tr>
+<tr><td>Thréonine</td><td>18</td><td>77</td></tr>
+<tr><td>Tryptophane</td><td>8</td><td>32</td></tr>
+<tr><td>Tyrosine</td><td>18</td><td>76</td></tr>
+<tr><td>Valine</td><td>21</td><td>88</td></tr>
+</table>
+
+- B. Préparations pour nourrissons et préparations de suite à base d’hydrolysats de protéines
+- Aux fins des annexes 2, ch. 2.4.1, et 3, ch. 2.4.1, les acides aminés essentiels et semi-essentiels dans le lait maternel, exprimés en milligrammes pour 100 kJ ou 100 kcal, sont les suivants:
+
+<table>
+<tr><th>Acides aminés</th><th colspan="2">Préparations pour nourrissons et préparations de suite</th></tr>
+<tr><th></th><th>mg/100 kJ[^annex3a-lvlu1-2]</th><th>mg/100 kcal</th></tr>
+<tr><td>Arginine</td><td>16</td><td>69</td></tr>
+<tr><td>Cystéine</td><td>6</td><td>24</td></tr>
+<tr><td>Histidine</td><td>11</td><td>45</td></tr>
+<tr><td>Isoleucine</td><td>17</td><td>72</td></tr>
+<tr><td>Leucine</td><td>37</td><td>156</td></tr>
+<tr><td>Lysine</td><td>29</td><td>122</td></tr>
+<tr><td>Méthionine</td><td>7</td><td>29</td></tr>
+<tr><td>Phénylalanine</td><td>15</td><td>62</td></tr>
+<tr><td>Thréonine</td><td>19</td><td>80</td></tr>
+<tr><td>Tryptophane</td><td>7</td><td>30</td></tr>
+<tr><td>Tyrosine</td><td>14</td><td>59</td></tr>
+<tr><td>Valine</td><td>19</td><td>80</td></tr>
+</table>
+
+[^annex3a-lvlu1-1]: 1 kJ = 0,239 kcal
+[^annex3a-lvlu1-2]: 1 kJ = 0,239 kcal
+
+Annexe 4[^t-5]
 
 (art. 15, al. 1, let. c, et 21, al. 2)
 
 ## Valeurs de référence pour l’étiquetage nutritionnel des denrées alimentaires destinées aux nourrissons et aux enfants en bas âge
 
-[^t-4]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-5]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 <table>
 <tr><td>Vitamines et minéraux</td><td colspan="3">Apports de référence</td></tr>
@@ -1625,13 +1779,13 @@ Annexe 4[^t-4]
 [^annex4-lvlu1-2]: Vitamine A préformée; ER = équivalent rétinol tout-trans.
 [^annex4-lvlu1-3]: α–ET= d–α–équivalent tocophérol.
 
-Annexe 5[^t-5]
+Annexe 5[^t-6]
 
 (art. 19, al. 3, let. a, et 20, let. c)
 
 ## Exigences applicables à la composition des préparations à base de céréales pour nourrissons et enfants en bas âge
 
-[^t-5]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-6]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 *Remarque:* les exigences relatives aux nutriments se rapportent aux produits prêts à la consommation, commercialisés comme tels ou à reconstituer selon les instructions du fabricant.
 
@@ -1820,46 +1974,43 @@ Annexe 7
 [^annex7-lvlu1-6]: Teneur maximale applicable aux préparations à base de fruits, aux jus de fruits, aux nectars de fruits et aux jus de légumes.
 [^annex7-lvlu1-7]: Conformément aux dispositions des annexes 5 et 6.
 
-Annexe 8
+Annexe 8[^t-7]
 
-(art. 22, al. 1 à 3, et 26)
+(art. 22, al. 1 à 3)
 
-## Réglementation relative aux produits phytosanitaires dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés destinées à des nourrissons et des enfants en bas âgeet aux denrées alimentaires destinées à une alimentation particulière élaborées pour répondre aux besoins nutritionnels des nourrissons et des enfants en bas âge
+## Dispositions relatives aux produits phytosanitaires dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés destinées à des nourrissons et des enfants en bas âge et aux denrées alimentaires destinées à une alimentation particulière élaborées pour répondre aux besoins nutritionnels des nourrissons et des enfants en bas âge
+
+[^t-7]: Nouvelle teneur selon le ch. II al. 3 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 ### Liste A: Produits phytosanitaires interdits
 
-- – Disulfoton (somme du disulfoton, disulfoton sulfoxyde et disulfotonsulfone, exprimée en disulfoton)
-- – Fensulfothion (somme de fensulfothion, son analogue oxygéné et leurs sulfones, exprimée en fensulfothion)
-- – Fentin, exprimé en cation de triphénylétain
-- – Haloxyfop (somme de haloxyfop, ses sels et esters, y compris leurs conjugués, exprimée en haloxyfop)
-- – Heptachlore et trans-heptachlore époxyde, exprimés en heptachlore
-- – Hexachlorobenzène
-- – Nitrofène
-- – Ométhoate
-- – Terbufos (somme de terbufos, son sulfoxyde et son sulfone, exprimée en terbufos)
-- – Aldrine et dieldrine, exprimées en dieldrine
-- – Endrine
-
-### Liste B[^annex8-lvlu1-lvlu2-1]: Teneurs maximales
-
-[^annex8-lvlu1-lvlu2-1]: Les teneurs visées dans la liste B s’appliquent aux produits à consommer tels quels ou tels que reconstitués selon les instructions des fabricants.
-
 <table>
-<tr><th>Dénomination chimique de la substance</th><th>Teneur maximale (mg/kg)</th></tr>
-<tr><td>Cadusafos</td><td>0,006</td></tr>
-<tr><td>Déméton-S-méhyl/déméton-S-méthylsulfone/oxydéméton-méthyl (séparément ou combinés, exprimés en déméton-S-méthyl)</td><td>0,006</td></tr>
-<tr><td>Éthoprophos</td><td>0,008</td></tr>
-<tr><td>Fipronil (somme de fipronil et de fipronil-désulfinyl, exprimés en fipronil)</td><td>0,004</td></tr>
-<tr><td>Propinèbe/propylènethiourée (somme de propinèbe et de propylènethiourée)</td><td>0,006</td></tr>
+<tr><th>Dénomination chimique du composé parent de la substance[^annex8-lvlu1-lvlu1-1]</th></tr>
+<tr><td>– Aldrine – Dieldrine – Disulfoton – Endrine – Fensulfothion – Fentine – Haloxyfop – Heptachlore – Hexachlorbenzène – Nitrofène – Ométhoate – Terbufos</td></tr>
 </table>
 
-Annexe 9[^t-6]
+[^annex8-lvlu1-lvlu1-1]: La définition des résidus (mentionnée entre parenthèses après le composé parent de la substance) s’applique telle qu’elle figure à l’annexe II, III, IV ou V du règlement (CE) n<sup>o</sup> 396/2005 du Parlement européen et du Conseil du 23 février 2005 concernant les limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d’origine végétale et animale et modifiant la directive 91/414/CEE du Conseil, JO L 70 du 16.3.2005, p. 1; modifié en dernier lieu par le règlement (UE) 2021/590, JO L 125 du 13.4.2021, p. 15.
+
+### Liste B: Limites maximales de résidus
+
+<table>
+<tr><th>Dénomination chimique du composé parent de la substance[^annex8-lvlu1-lvlu2-1]</th><th>Limite maximale de résidus (mg/kg)</th></tr>
+<tr><td>Cadusafos</td><td>0,006</td></tr>
+<tr><td>Déméton-S-méthyle Déméton-S-méthylsulfone Oxydéméton-méthyle</td><td>0,006</td></tr>
+<tr><td>Éthoprophos</td><td>0,008</td></tr>
+<tr><td>Fipronil</td><td>0,004</td></tr>
+<tr><td>Propinèbe</td><td>0,006</td></tr>
+</table>
+
+[^annex8-lvlu1-lvlu2-1]: La définition des résidus (mentionnée entre parenthèses après le composé parent de la substance) s’applique telle qu’elle figure à l’annexe II, III, IV ou V du règlement (CE) n<sup>o</sup> 396/2005 du Parlement européen et du Conseil du 23 février 2005 concernant les limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d’origine végétale et animale et modifiant la directive 91/414/CEE du Conseil, JO L 70 du 16.3.2005, p. 1; modifié en dernier lieu par le règlement (UE) 2021/590, JO L 125 du 13.4.2021, p. 15.
+
+Annexe 9[^t-8]
 
 (art. 25, al. 3, let. c, et 29, al. 1, let. a)
 
 ## Denrées alimentaires destinées à des fins médicales spéciales
 
-[^t-6]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-8]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1 Commentaires
 
@@ -1986,13 +2137,13 @@ Les spécifications portent sur les produits prêts à l’emploi qui sont comme
 [^annex9-lvlu1-lvl3-lvl32-3]: Pour les produits destinés aux enfants de 1 à 10 ans
 [^annex9-lvlu1-lvl3-lvl32-4]: Pour les produits destinés aux enfants de 1 à 10 ans
 
-Annexe 10[^t-7]
+Annexe 10[^t-9]
 
 (art. 34 et 35*a*, al. 1)
 
 ## Exigences applicables à la composition des substituts de la ration journalière totale pour contrôle du poids
 
-[^t-7]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Mise à jour par le ch. II al. 2 de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-9]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Mise à jour par le ch. II al. 2 de l’O du DFI du 9 juin 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 *Remarque:* les exigences portant sur la composition s’appliquent aux denrées alimentaires prêtes à l’emploi, commercialisées telles quelles ou après avoir été préparées suivant les instructions du fabricant.
 
@@ -2024,7 +2175,7 @@ L’apport énergétique des substituts de la ration journalière totale pour co
 
 - 2\.3 L’adjonction d’acides aminés n’est admise que dans le but d’améliorer la valeur nutritive des protéines contenues dans les substituts de la ration journalière totale pour contrôle du poids, et uniquement dans les proportions nécessaires pour atteindre cet objectif.
 
-[^annex10-lvlu1-lvl2-1]: Joint FAO/WHO/UNU Expert Consultation on Protein and Amino Acid Requirements in Human Nutrition (‎2002: Geneva, Switzerland)‎, Food and Agriculture Organization of the United Nations, World Health Organization & United Nations University. (‎2007)‎. Protein and amino acid requirements in human nutrition: report of a joint FAO/WHO/UNU expert consultation. Geneva: World Health Organization. (WHO Technical Report Series, 935, 284 p); le document peut être consulté en anglais à l’adresse suivante: https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&.
+[^annex10-lvlu1-lvl2-1]: Joint FAO/WHO/UNU Expert Consultation on Protein and Amino Acid Requirements in Human Nutrition (‎2002: Geneva, Switzerland)‎, Food and Agriculture Organization of the United Nations, World Health Organization & United Nations University. (‎2007)‎. Protein and amino acid requirements in human nutrition: report of a joint FAO/WHO/UNU expert consultation. Geneva: World Health Organization. (WHO Technical Report Series, 935, 284 p); le document peut être consulté en anglais à l’adresse suivante: [https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&](https://apps.who.int/iris/handle/10665/43411?locale-attribute=fr&).
 
 ### 3 Choline
 
@@ -2032,10 +2183,9 @@ L’apport en choline des substituts de la ration journalière totale pour contr
 
 ### 4 Lipides
 
-- 4\.1 **Acide linoléique**
-- [tab] L’apport en acide linoléique des substituts de la ration journalière totale pour contrôle du poids n’est pas inférieur à 11 g pour la ration journalière totale.
-- 4\.2 **Acide alpha-linolénique**
-- [tab] L’apport en acide alpha-linoléique des substituts de la ration journalière totale pour contrôle du poids n’est pas inférieur à 1,4 g pour la ration journalière totale.
+- 4\.1 …
+- 4\.2 **Acide α-linolénique**
+- L’apport en acide α-linolénique des substituts de la ration journalière totale pour contrôle du poids n’est pas inférieur à 0,8 g pour la ration journalière totale.
 
 ### 5 Glucides
 
@@ -2045,7 +2195,7 @@ L’apport en glucides des substituts de la ration journalière totale pour cont
 
 Les substituts de la ration journalière totale pour contrôle du poids fournissent au moins les quantités de vitamines et de sels minéraux spécifiées dans le tableau ci-dessous pour la ration journalière totale.
 
-L’apport en magnésium des substituts de la ration journalière totale pour contrôle du poids n’est pas supérieur à 250 mg pour la ration journalière totale.
+L’apport en magnésium des substituts de la ration journalière totale pour contrôle du poids n’est pas supérieur à 350 mg pour la ration journalière totale.
 
 <table>
 <tr><th>Substances</th><th>Unité</th><th>Quantité</th></tr>
@@ -2082,13 +2232,13 @@ L’apport en magnésium des substituts de la ration journalière totale pour co
 [^annex10-lvlu1-lvl6-3]: Équivalents rétinol
 [^annex10-lvlu1-lvl6-4]: Activité de la vitamine E pour le RRR-α-tocophérol
 
-Annexe 10a[^t-8]
+Annexe 10a[^t-10]
 
 (art. 35*d*)
 
 ## Exigences applicables à la composition des substituts de repas pour contrôle du poids
 
-[^t-8]: Introduite par le ch. II al. 3 de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+[^t-10]: Introduite par le ch. II al. 3 de l’O du DFI du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 ### 1 Valeur énergétique
 
@@ -2129,13 +2279,13 @@ Les substituts de repas pour contrôle du poids doivent contenir, par repas, au 
 
 [^annex10a-lvlu1-lvl4-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
-Annexe 11[^t-9]
+Annexe 11[^t-11]
 
 (art. 38, al. 1, let. a, 39, let. a et b, et 40, al. 2)
 
 ## Vitamines, sels minéraux et autres substances: quantités maximales admises pour les adultes
 
-[^t-9]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). ). Erratum du 31 mai 2021, ne concerne que le texte allemand ([RO 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
+[^t-11]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
 
 Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] s’appliquent. Pour les substances pour lesquelles aucun critère de pureté n’a été défini, les critères de pureté généralement reconnus et recommandés par des organismes internationaux comme l’Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO), l’Organisation mondiale de la Santé (OMS) ou des pharmacopées internationales s’appliquent.
 
@@ -2185,8 +2335,8 @@ Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] 
 <tr><td>L-acide glutamique</td><td>10 g</td><td></td></tr>
 <tr><td>Glycine</td><td>5 g</td><td></td></tr>
 <tr><td>L-histidine</td><td>600 mg</td><td></td></tr>
-<tr><td>L-isoleucine</td><td>1200 mg</td><td></td></tr>
-<tr><td>L-leucine</td><td>2400 mg</td><td></td></tr>
+<tr><td>L-isoleucine</td><td>2200 mg</td><td></td></tr>
+<tr><td>L-leucine</td><td>4000 mg</td><td></td></tr>
 <tr><td>L-lysine</td><td>1800 mg</td><td></td></tr>
 <tr><td>L-méthionine + L-cystéine (total)</td><td>900 mg</td><td></td></tr>
 <tr><td>L-ornithine</td><td>2000 mg</td><td></td></tr>
@@ -2196,7 +2346,7 @@ Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] 
 <tr><td>L-tryptophane</td><td>240 mg</td><td></td></tr>
 <tr><td>L-tyrosine</td><td>1200 mg</td><td></td></tr>
 <tr><td>L-sérine</td><td>40 mg</td><td></td></tr>
-<tr><td>L-valine</td><td>1600 mg</td><td></td></tr>
+<tr><td>L-valine</td><td>2000 mg</td><td></td></tr>
 <tr><td colspan="3">2.2 Autres substances, sans acides aminés</td></tr>
 <tr><td>Acide docosahexaénoïque (DHA)</td><td>1000 mg</td><td>À partir d’une dose journalière de &gt; 450 mg: *«Ne convient pas aux femmes enceintes ou qui allaitent.»*</td></tr>
 <tr><td>Acide eicosapentaénoïque (EPA) + Acide docosahexaénoïque (DHA) (total) (longue chaîne n-3)</td><td>5000 mg</td><td>*«Ne convient pas aux femmes enceintes ou qui allaitent.»*</td></tr>
@@ -2212,7 +2362,7 @@ Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] 
 <tr><td>L-carnosine</td><td>55 mg</td><td></td></tr>
 <tr><td>Caroténoïde lutéine</td><td>20 mg</td><td></td></tr>
 <tr><td>Caroténoïde zéaxanthine</td><td>2 mg</td><td></td></tr>
-<tr><td>Catéchines, épigallocatéchine gallate (EGCG)</td><td>90 mg (calculé comme EGCG)</td><td>*«Ne pas prendre à jeun, en cas de régime hypocalorique strict ou en même temps que d’autres produits à base de thé vert.»*</td></tr>
+<tr><td>Catéchines, épigallocatéchine gallate (EGCG)</td><td>300 mg (calculé comme EGCG)</td><td>*«Ne doit pas être consommé si vous prenez le même jour d’autres produits contenant du thé vert.»* *«Ne doit pas être consommé par les femmes enceintes ou allaitantes et par les enfants de moins de 18 ans.»* *«Ne doit pas être consommé à jeun.»*</td></tr>
 <tr><td>Choline</td><td>550 mg</td><td></td></tr>
 <tr><td>Sulfate de chondroïtine</td><td>500 mg</td><td>*«Ne convient pas aux femmes enceintes ou qui allaitent, aux enfants, aux adolescents et aux personnes sous traitement anticoagulant.»*</td></tr>
 <tr><td>Coenzyme NADH (nicotinamide adénine dinucléotide)</td><td>20 mg</td><td></td></tr>
@@ -2233,13 +2383,13 @@ Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] 
 [^annex11-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^annex11-lvlu1-2]: Équivalents rétinol, facteur de conversion: β-carotène = 6 x équivalents rétinol
 
-Annexe 12[^t-10]
+Annexe 12[^t-12]
 
 (art. 38, al. 1, let. a, 39, let. c, et 40, al. 2)
 
 ## Substances et composés admis dans les aliments pour sportifs
 
-[^t-10]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-12]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1. Catégorie 1: vitamines
 
