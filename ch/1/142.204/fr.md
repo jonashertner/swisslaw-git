@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240101/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 1<sup>er</sup> janvier 2024)
+du 15 août 2018 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -47,15 +47,15 @@ L’ordonnance régit également la compétence de conclure des traités interna
 - b. règlement (UE) n<sup>o</sup> 515/2014[^1-3];
 - b<sup>bis</sup>.[^1-4] règlement (UE) 2017/2226[^1-5];
 - b<sup>ter</sup>.[^1-6] règlement (UE) 2018/1240[^1-7];
-- c. règlement (CE) n<sup>o</sup> 810/2009 (code des visas)[^1-8];
-- d.[^1-9] règlement (UE) 2019/817[^1-10];
-- e.[^1-11] règlement (UE) 2019/818[^1-12];
-- f.[^1-13] règlement (CE) n° 1683/95[^1-14];
-- g.[^1-15] règlement (CE) n° 1030/2002[^1-16];
-- [tab] h.[^1-17] règlement (CE) n<sup>o</sup> 767/2008[^1-18];
-- i.[^1-19] règlement (UE) 2021/1148[^1-20];
-- j.[^1-21] règlement (UE) 2021/1060[^1-22];
-- k.[^1-23] décision n<sup>o</sup> 1105/2011/UE[^1-24].[^1-25]
+- c.[^1-8] règlement (CE) n<sup>o</sup> 810/2009 (code des visas)[^1-9];
+- d.[^1-10] règlement (UE) 2019/817[^1-11];
+- e.[^1-12] règlement (UE) 2019/818[^1-13];
+- f.[^1-14] règlement (CE) n<sup>o</sup> 1683/95[^1-15];
+- g.[^1-16] règlement (CE) n° 1030/2002[^1-17];
+- h.[^1-18] règlement (CE) n<sup>o</sup> 767/2008[^1-19];
+- i.[^1-20] règlement (UE) 2021/1148[^1-21];
+- j.[^1-22] règlement (UE) 2021/1060[^1-23];
+- k.[^1-24] décision n<sup>o</sup> 1105/2011/UE[^1-25].[^1-26]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Règlement (UE) n<sup>o</sup> 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au Fonds «Asile, migration et intégration» et à l’instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu’à la gestion des crises, version du JO L 150 du 20.5.2014, p. 112.
@@ -64,24 +64,25 @@ L’ordonnance régit également la compétence de conclure des traités interna
 [^1-5]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée/de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n<sup>o</sup> 767/2008 et (UE) n<sup>o</sup> 1077/2011, JO L 327 du 9.12.2017, p. 20; modifié en dernier lieu par le règlement (UE) 2021/1134, JO L 248 du 13.7.2021, p. 11.
 [^1-6]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-7]: Règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226, version du JO L 236 du 19.9.2018, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
-[^1-8]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1155, JO L 188 du 12.7.2019, p. 25.
-[^1-9]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-10]: Règlement (UE) 2019/817 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine des frontières et des visas et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/240, (UE) 2018/1726 et (UE) 2018/1861 du Parlement européen et du Conseil et les décisions 2004/512/CE et 2008/633/JAI du Conseil, JO L 135 du 22.5.2019, p. 27; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
-[^1-11]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-12]: Règlement (UE) 2019/818 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine de la coopération policière et judiciaire, de l’asile et de l’immigration et modifiant les règlements (UE) 2018/1726, (UE) 2018/1862 et (UE) 2019/816, JO L 135 du 22.5.2019, p. 85; modifié en dernier lieu par le règlement (UE) 2021/1150, JO L 249 du 14.7.2021, p. 1.
-[^1-13]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-14]: Règlement (CE) n° 1683/95 du Conseil du 29 mai 1995 établissant un modèle type de visa, JO L 164 du 14.7.1995, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1370, JO L 198 du 28.7.2017, p. 24.
-[^1-15]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-16]: Règlement (CE) n° 1030/2002 du Conseil du 13 juin 2002 établissant un modèle uniforme de titre de séjour pour les ressortissants de pays tiers, JO L 157 du 15.6.2002, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1954, JO L 286 du 1.11.2017, p. 9.
-[^1-17]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-18]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2021/1134, JO L 248 du 13.7.2021, p. 11.
-[^1-19]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-20]: Règlement (UE) 2021/1148 du Parlement européen et du Conseil du 7 juillet 2021 établissant, dans le cadre du Fonds pour la gestion intégrée des frontières, l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 251, du 15.7.2021, p. 48.
-[^1-21]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-22]: Règlement (UE) 2021/1060 du Parlement européen et du Conseil du 24 juin 2021 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires maritimes, la pêche et l’aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds «Asile, migration et intégration», au Fonds pour la sécurité intérieure et à l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 231 du 30.6.2021, p. 159.
-[^1-23]: Introduite par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^1-24]: Décision n<sup>o</sup> 1105/2011/UE du Parlement européen et du Conseil du 25 octobre 2011 relative à la liste des documents de voyage permettant à leur titulaire le franchissement des frontières extérieures et susceptibles d’être revêtus d’un visa, et relative à l’instauration d’un dispositif pour établir cette liste, version du JO L 287 du 4.11.2011, p. 9.
-[^1-25]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-8]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^1-9]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2023/2667, JO L, 2023/2667, 7.12.2023.
+[^1-10]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-11]: Règlement (UE) 2019/817 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine des frontières et des visas et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/240, (UE) 2018/1726 et (UE) 2018/1861 du Parlement européen et du Conseil et les décisions 2004/512/CE et 2008/633/JAI du Conseil, JO L 135 du 22.5.2019, p. 27; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^1-12]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-13]: Règlement (UE) 2019/818 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine de la coopération policière et judiciaire, de l’asile et de l’immigration et modifiant les règlements (UE) 2018/1726, (UE) 2018/1862 et (UE) 2019/816, JO L 135 du 22.5.2019, p. 85; modifié en dernier lieu par le règlement (UE) 2021/1150, JO L 249 du 14.7.2021, p. 1.
+[^1-14]: Introduite par le ch. I de l’O du 13 mai 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^1-15]: Règlement (CE) n<sup>o</sup> 1683/95 du Conseil du 29 mai 1995, établissant un modèle type de visa, JO L 164 du 14.7.1995, p. 1; modifié en dernier lieu par le règlement (UE) 2023/2685, JO L, 2023/2685, 7.12.2023.
+[^1-16]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-17]: Règlement (CE) n° 1030/2002 du Conseil du 13 juin 2002 établissant un modèle uniforme de titre de séjour pour les ressortissants de pays tiers, JO L 157 du 15.6.2002, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1954, JO L 286 du 1.11.2017, p. 9.
+[^1-18]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-19]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2021/1134, JO L 248 du 13.7.2021, p. 11.
+[^1-20]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-21]: Règlement (UE) 2021/1148 du Parlement européen et du Conseil du 7 juillet 2021 établissant, dans le cadre du Fonds pour la gestion intégrée des frontières, l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 251, du 15.7.2021, p. 48.
+[^1-22]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-23]: Règlement (UE) 2021/1060 du Parlement européen et du Conseil du 24 juin 2021 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires maritimes, la pêche et l’aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds «Asile, migration et intégration», au Fonds pour la sécurité intérieure et à l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 231 du 30.6.2021, p. 159.
+[^1-24]: Introduite par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-25]: Décision n<sup>o</sup> 1105/2011/UE du Parlement européen et du Conseil du 25 octobre 2011 relative à la liste des documents de voyage permettant à leur titulaire le franchissement des frontières extérieures et susceptibles d’être revêtus d’un visa, et relative à l’instauration d’un dispositif pour établir cette liste, version du JO L 287 du 4.11.2011, p. 9.
+[^1-26]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -94,23 +95,26 @@ On entend par:
 - c. *transit aéroportuaire:* un passage par la zone internationale de transit des aéroports des États liés par l’un des AAS[^2-1] (États Schengen);
 - d.
 
-  *visa de court séjour (visa Schengen, type C):* un document sous forme de vignette établi par un État Schengen attestant que son titulaire remplit les conditions pour un court séjour; le visa de court séjour peut être:
+  *visa de court séjour (visa Schengen, type C):* un document sous forme de vignette ou au format électronique établi par un État Schengen attestant que son titulaire remplit les conditions pour un court séjour; le visa de court séjour peut être:[^2-2]
 
   - 1\. *uniforme:* valable pour l’ensemble du territoire des États Schengen,
   - 2\. *à validité territoriale limitée:* valable uniquement pour le territoire d’un ou de plusieurs États Schengen;
 
 - e.
 
-  *visa de transit aéroportuaire (visa Schengen, type A):* un document sous forme de vignette établi par un État Schengen attestant que son titulaire remplit les conditions pour un transit aéroportuaire; le visa de transit aéroportuaire peut être:
+  *visa de transit aéroportuaire (visa Schengen, type A):* un document sous forme de vignette ou au format électronique établi par un État Schengen attestant que son titulaire remplit les conditions pour un transit aéroportuaire; le visa de transit aéroportuaire peut être:[^2-3]
 
   - 1\. *uniforme:* valable pour passer par la zone internationale de transit des aéroports de tous les États Schengen,
   - 2\. *à validité territoriale limitée:* valable uniquement pour passer par la zone internationale de transit des aéroports d’un ou plusieurs États Schengen;
 
-- f. *visa de long séjour (visa national, type D):* un document sous forme de vignette établi par un État Schengen attestant que son titulaire remplit les conditions pour un long séjour;
-- g.[^2-2] r*essortissant d’un État tiers:* un citoyen d’un État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre-échange (AELE).
+- f.[^2-4] *visa de long séjour (visa national, type D):* un document sous forme de vignette ou au format électronique établi par un État Schengen attestant que son titulaire remplit les conditions pour un long séjour;
+- g.[^2-5] r*essortissant d’un État tiers:* un citoyen d’un État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre-échange (AELE).
 
 [^2-1]: Les accords d’association à Schengen sont mentionnés à l’annexe 1.
-[^2-2]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-5]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 ## Section 2 Dispositions régissant l’entrée en Suisse et le transit aéroportuaire
 
@@ -758,7 +762,7 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 - a. l’adoption d’une liste harmonisée des documents justificatifs à utiliser dans chaque arrondissement consulaire (art. 14, par. 5<sup>bis</sup>);
 - b. les conditions applicables à la délivrance des visas à entrées multiples dans chaque arrondissement consulaire concerné (art. 24, par. 2<sup>quinquies</sup>);
-- c. les règles applicables pour remplir la vignette-visa (art. 27, par. 1);
+- c.[^34b-4] les règles applicables pour remplir les cases du visa électronique (art. 27, par. 1);
 - d. les modalités d’apposition de la vignette-visa (art. 29, par. 1<sup>bis</sup>);
 - e. les instructions opérationnelles relatives à la délivrance aux marins de visas aux frontières extérieures de Schengen (art. 36, par. 2<sup>bis</sup>);
 - f. les instructions relatives à l’application pratique du code des visas (art. 51).
@@ -766,6 +770,7 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 [^34b-1]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
 [^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34b-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 
 #### Art. 34c
 

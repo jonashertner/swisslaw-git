@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240101/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° gennaio 2024)
+del 15 agosto 2018 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -48,41 +48,42 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 - b. regolamento (UE) n. 515/2014[^1-3];
 - b<sup>bis</sup>.[^1-4] regolamento (UE) 2017/2226[^1-5];
 - b<sup>ter</sup>.[^1-6] regolamento (UE) 2018/1240[^1-7];
-- c. regolamento (CE) n. 810/2009[^1-8] (codice dei visti);
-- d.[^1-9] regolamento (UE) 2019/817[^1-10];
-- e.[^1-11] regolamento (UE) 2019/818[^1-12];
-- f.[^1-13] regolamento (CE) n. 1683/95[^1-14];
-- g.[^1-15] regolamento (CE) n. 1030/2002[^1-16];
-- h.[^1-17] regolamento (CE) n. 767/2008[^1-18];
-- i.[^1-19] regolamento (UE) 2021/1148[^1-20];
-- j.[^1-21] regolamento (UE) 2021/1060[^1-22];
-- k.[^1-23] decisione n. 1105/2011/UE[^1-24].[^1-25]
+- c.[^1-8] regolamento (CE) n. 810/2009[^1-9] (codice dei visti);
+- d.[^1-10] regolamento (UE) 2019/817[^1-11];
+- e.[^1-12] regolamento (UE) 2019/818[^1-13];
+- f.[^1-14] regolamento (CE) n. 1683/95[^1-15];
+- g.[^1-16] regolamento (CE) n. 1030/2002[^1-17];
+- h.[^1-18] regolamento (CE) n. 767/2008[^1-19];
+- i.[^1-20] regolamento (UE) 2021/1148[^1-21];
+- j.[^1-22] regolamento (UE) 2021/1060[^1-23];
+- k.[^1-24] decisione n. 1105/2011/UE[^1-25].[^1-26]
 
-[^1-1]: Nuovot esto giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Regolamento (UE) n. 514/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, recante disposizioni generali sul Fondo asilo, migrazione e integrazione e sullo strumento di sostegno finanziario per la cooperazione di polizia, la prevenzione e la lotta alla criminalità e la gestione delle crisi, versione della GU L 150 del 20.5.2014, pag. 112.
 [^1-3]: Regolamento (UE) n. 515/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, che istituisce, nell’ambito del Fondo sicurezza interna, lo strumento di sostegno finanziario per le frontiere esterne e i visti e che abroga la decisione n. 574/2007/CE, versione della GU L 150 del 20.5.2014, pag. 143.
 [^1-4]: Introdotta dal n. I dell’O dell’11 ago. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^1-5]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
 [^1-6]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-7]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, GU L 236 del 19.9.2018, pag. 1; modificato da ultimo dal regolamento (EU) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
-[^1-8]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 lug. 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 188 del 12.7.2019, pag. 25.
-[^1-9]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-10]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
-[^1-11]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-12]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, GU L 135 del 22.5.2019, pag. 85; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
-[^1-13]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-14]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2017/1370, GU L 198 del 28.7.2017, pag. 24.
-[^1-15]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-16]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
-[^1-17]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-18]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio del 9 lug. 2008 concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal Regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
-[^1-19]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-20]: Regolamento (UE) 2021/1148 del Parlamento europeo e del Consiglio del 7 lug. 2021 che istituisce, nell’ambito del Fondo per la gestione integrata delle frontiere, lo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 251, del 15.7.2021, pag. 48.
-[^1-21]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-22]: Regolamento (UE) 2021/1060 del Parlamento europeo e del Consiglio del 24 giu. 2021 recante le disposizioni comuni applicabili al Fondo europeo di sviluppo regionale, al Fondo sociale europeo Plus, al Fondo di coesione, al Fondo per una transizione giusta, al Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura, e le regole finanziarie applicabili a tali fondi e al Fondo Asilo, migrazione e integrazione, al Fondo Sicurezza interna e allo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 231 del 30.6.2021, pag. 159.
-[^1-23]: Introdotta dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^1-24]: Decisione n. 1105/2011/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2011, relativa all’elenco dei documenti di viaggio che consentono di attraversare le frontiere esterne e sui quali può essere apposto un visto e relativa alla creazione di un meccanismo per stabilire tale elenco, versione della GU L 287 del 4.11.2011, pag. 9.
-[^1-25]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-8]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^1-9]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2667, GU L, 2023/2667, 7.12.2023.
+[^1-10]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-11]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-12]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-13]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, GU L 135 del 22.5.2019, pag. 85; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
+[^1-14]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^1-15]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2685, GU L, 2023/2685, 7.12.2023.
+[^1-16]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-17]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
+[^1-18]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-19]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio del 9 lug. 2008 concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal Regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
+[^1-20]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-21]: Regolamento (UE) 2021/1148 del Parlamento europeo e del Consiglio del 7 lug. 2021 che istituisce, nell’ambito del Fondo per la gestione integrata delle frontiere, lo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 251, del 15.7.2021, pag. 48.
+[^1-22]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-23]: Regolamento (UE) 2021/1060 del Parlamento europeo e del Consiglio del 24 giu. 2021 recante le disposizioni comuni applicabili al Fondo europeo di sviluppo regionale, al Fondo sociale europeo Plus, al Fondo di coesione, al Fondo per una transizione giusta, al Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura, e le regole finanziarie applicabili a tali fondi e al Fondo Asilo, migrazione e integrazione, al Fondo Sicurezza interna e allo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 231 del 30.6.2021, pag. 159.
+[^1-24]: Introdotta dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-25]: Decisione n. 1105/2011/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2011, relativa all’elenco dei documenti di viaggio che consentono di attraversare le frontiere esterne e sui quali può essere apposto un visto e relativa alla creazione di un meccanismo per stabilire tale elenco, versione della GU L 287 del 4.11.2011, pag. 9.
+[^1-26]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -95,23 +96,26 @@ Ai sensi della presente ordinanza s’intende per:
 - c. *transito aeroportuale:* transito nelle zone di transito internazionali degli aeroporti degli Stati vincolati da uno degli AAS[^2-1];
 - d.
 
-  *visto per soggiorni di breve durata (visto Schengen, tipo C):* documento sotto forma di vignetta rilasciato da uno Stato Schengen che attesti che il suo titolare soddisfa le condizioni per un soggiorno di breve durata; il visto per soggiorni di breve durata può essere:
+  *visto per soggiorni di breve durata (visto Schengen, tipo C):* documento sotto forma di vignetta o in formato elettronico, emesso da uno Stato Schengen, che attesti che il suo titolare soddisfa le condizioni per un soggiorno di breve durata; il visto per soggiorni di breve durata può essere:[^2-2]
 
   - 1\. *uniforme*: valido per il territorio di tutti gli Stati Schengen,
   - 2\. *con validità territoriale limitata*: valido unicamente per il territorio di uno o più Stati Schengen;
 
 - e.
 
-  *visto di transito aeroportuale (visto Schengen, tipo A):* documento sotto forma di vignetta rilasciato da uno Stato Schengen che attesti che il suo titolare soddisfa le condizioni per un transito aeroportuale; il visto di transito aeroportuale può essere:
+  *visto di transito aeroportuale (visto Schengen, tipo A):* documento sotto forma di vignetta o in formato elettronico, emesso da uno Stato Schengen, che attesti che il suo titolare soddisfa le condizioni per un transito aeroportuale; il visto di transito aeroportuale può essere:[^2-3]
 
   - 1\. *uniforme:* valido per il transito nelle zone di transito internazionali degli aeroporti di tutti gli Stati Schengen,
   - 2\. *con validità territoriale limitata:* valido unicamente per il transito nelle zone di transito internazionali degli aeroporti di uno o più Stati Schengen;
 
-- f. *visto per soggiorni di lunga durata (visto nazionale, tipo D):* documento sotto forma di vignetta rilasciato da uno Stato Schengen che attesti che il suo titolare soddisfa le condizioni per un soggiorno di lunga durata;
-- g.[^2-2] *cittadino di un Paese terzo*: cittadino di uno Stato che non è membro né dell’Unione europea (UE) né dell’Associazione europea di libero scambio (AELS).
+- f.[^2-4] *visto per soggiorni di lunga durata (visto nazionale, tipo D):* documento sotto forma di vignetta o in formato elettronico, emesso da uno Stato Schengen, che attesti che il suo titolare soddisfa le condizioni per un soggiorno di lunga durata;
+- g.[^2-5] *cittadino di un Paese terzo*: cittadino di uno Stato che non è membro né dell’Unione europea (UE) né dell’Associazione europea di libero scambio (AELS).
 
 [^2-1]: Gli Acc. di associazione a Schengen sono menzionati nell’all. 1.
-[^2-2]: Introdotta dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^2-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-5]: Introdotta dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 ## Sezione 2: Disposizioni concernenti l’entrata e il transito aeroportuale
 
@@ -759,7 +763,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 - a. l’adozione di un elenco armonizzato di documenti giustificativi da usare in ciascuna giurisdizione (art. 14 par. 5<sup>bis</sup>);
 - b. le condizioni per il rilascio dei visti per ingressi multipli da applicare in ciascuna giurisdizione (art. 24 par. 2<sup>quinquies</sup>);
-- c. la compilazione del visto adesivo (art. 27 par. 1);
+- c.[^34b-4] la compilazione dei campi dati del visto in formato elettronico (art. 27 par. 1);
 - d. l’apposizione del visto adesivo sul documento di viaggio (art. 29 par. 1<sup>bis</sup>);
 - e. le istruzioni operative per il rilascio di visti ai marittimi alla frontiera esterna Schengen (art. 36 par. 2<sup>bis</sup>);
 - f. le istruzioni operative relative all’applicazione pratica del codice dei visti (art. 51).
@@ -767,6 +771,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 [^34b-1]: Introdotto dal n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
 [^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34b-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 
 #### Art. 34c
 
