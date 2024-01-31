@@ -3,18 +3,18 @@ sr: "531.83"
 title: Ordonnance du 27 juillet 2022 sur la restriction d’utilisation de l’altéplase
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/430"
 language: fr
-version: 2022-07-29
+version: 2024-02-01
 adopted: 2022-07-27
 in_force: 2022-07-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/430/20220729/fr/xml/fedlex-data-admin-ch-eli-cc-2022-430-20220729-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/430/20220729/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/430/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-430-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/430/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la restriction d’utilisation de l’altéplase
 
-du 27 juillet 2022 (Etat le 29 juillet 2022)
+du 27 juillet 2022 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -35,7 +35,7 @@ La présente ordonnance s’applique au principe actif suivant:
 <tr><td>B01AD02</td><td>Altéplase d’un dosage supérieur à 2 mg</td></tr>
 </table>
 
-[^1-1]: Les codes ATC (*Anatomical Therapeutic Chemical Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: www.whocc.no &gt; ATC/DDD Index.
+[^1-1]: Les codes ATC (*Anatomical Therapeutic Chemical Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
 
 #### Art. 2
 
@@ -60,3 +60,7 @@ Le principe actif visé à l’art. 1 peut être utilisé uniquement dans le cad
 <sup>1</sup> La présente ordonnance entre en vigueur le 29 juillet 2022.
 
 <sup>2</sup> Elle a effet jusqu’au 31 janvier 2024.
+
+<sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 janvier 2025.[^3-1]
+
+[^3-1]: Introduit par le ch. I de l’O du 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 3](https://fedlex.data.admin.ch/eli/oc/2024/3)).

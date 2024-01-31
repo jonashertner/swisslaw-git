@@ -3,18 +3,18 @@ sr: "531.83"
 title: Ordinanza del 27 luglio 2022 concernente la restrizione d’uso di alteplase
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/430"
 language: it
-version: 2022-07-29
+version: 2024-02-01
 adopted: 2022-07-27
 in_force: 2022-07-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/430/20220729/it/xml/fedlex-data-admin-ch-eli-cc-2022-430-20220729-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/430/20220729/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/430/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2022-430-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/430/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la restrizione d’uso di alteplase
 
-del 27 luglio 2022 (Stato 29 luglio 2022)
+del 27 luglio 2022 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -60,3 +60,7 @@ Il principio attivo di cui all’articolo 1 può essere utilizzato unicamente ne
 <sup>1</sup> La presente ordinanza entra in vigore il 29 luglio 2022.
 
 <sup>2</sup> Ha effetto fino al 31 gennaio 2024.
+
+<sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 31 gennaio 2025.[^3-1]
+
+[^3-1]: Introdotto dal n. I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 3](https://fedlex.data.admin.ch/eli/oc/2024/3)).
