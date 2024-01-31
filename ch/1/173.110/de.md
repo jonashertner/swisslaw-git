@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsge
 short: BGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: de
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/de"
 
 (Bundesgerichtsgesetz, BGG)
 
-vom 17. Juni 2005 (Stand am 1. Januar 2024)
+vom 17. Juni 2005 (Stand am 1. Februar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1158,7 +1158,8 @@ Die Beschwerde ist unzulässig gegen:
 - v.[^83-21] Entscheide des Bundesverwaltungsgerichts über Meinungsverschiedenheiten zwischen Behörden in der innerstaatlichen Amts- und Rechtshilfe;
 - w.[^83-22] Entscheide auf dem Gebiet des Elektrizitätsrechts betreffend die Plangenehmigung von Starkstromanlagen und Schwachstromanlagen und die Entscheide auf diesem Gebiet betreffend Enteignung der für den Bau oder Betrieb solcher Anlagen notwendigen Rechte, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
 - x.[^83-23] Entscheide betreffend die Gewährung von Solidaritätsbeiträgen nach dem Bundesgesetz vom 30. September 2016[^83-24] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, ausser wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt;
-- y.[^83-25] Entscheide des Bundesverwaltungsgerichts in Verständigungsverfahren zur Vermeidung einer den anwendbaren internationalen Abkommen im Steuerbereich nicht entsprechenden Besteuerung.
+- y.[^83-25] Entscheide des Bundesverwaltungsgerichts in Verständigungsverfahren zur Vermeidung einer den anwendbaren internationalen Abkommen im Steuerbereich nicht entsprechenden Besteuerung;
+- z.[^83-26] Entscheide betreffend die in Artikel 71*c* Absatz 1 Buchstabe b des Energiegesetzes vom 30. September 2016[^83-27] genannten Baubewilligungen und notwendigerweise damit zusammenhängenden in der Kompetenz der Kantone liegenden Bewilligungen für Windenergieanlagen von nationalem Interesse, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt.
 
 [^83-1]: Fassung gemäss Ziff. I 1 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
 [^83-2]: Eingefügt durch Ziff. I 1 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
@@ -1185,6 +1186,8 @@ Die Beschwerde ist unzulässig gegen:
 [^83-23]: Eingefügt durch Art. 21 Abs. 2 des BG vom 30. Sept. 2016 über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, in Kraft seit 1. April 2017 ([AS 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [BBl 2016 101](https://fedlex.data.admin.ch/eli/fga/2016/40)).
 [^83-24]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
 [^83-25]: Eingefügt durch Art. 36 Abs. 2 des BG vom 18. Juni 2021 über die Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [BBl 2020 9219](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
+[^83-26]: Eingefügt durch Ziff. I 2 des BG vom 16. Juni 2023 über die Beschleunigung der Bewilligungsverfahren für Windenergieanlagen, in Kraft seit 1. Febr. 2024 ([AS 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [BBl 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^83-27]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 84
 

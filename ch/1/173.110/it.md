@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale federale (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: it
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/it"
 
 (LTF)
 
-del 17 giugno 2005 (Stato 1° gennaio 2024)
+del 17 giugno 2005 (Stato 1° febbraio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1157,7 +1157,8 @@ Il ricorso è inammissibile contro:
 - v.[^83-22] le decisioni del Tribunale amministrativo federale concernenti divergenze d’opinione tra autorità in materia di assistenza amministrativa o giudiziaria a livello nazionale;
 - w.[^83-23] le decisioni in materia di diritto dell’elettricità concernenti l’approvazione dei piani di impianti elettrici a corrente forte e di impianti elettrici a corrente debole e l’espropriazione dei diritti necessari per la costruzione o l’esercizio di siffatti impianti, se non si pone alcuna questione di diritto d’importanza fondamentale;
 - x.[^83-24] le decisioni concernenti la concessione di contributi di solidarietà ai sensi della legge federale del 30 settembre 2016[^83-25] sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981, tranne se si pone una questione di diritto di importanza fondamentale o si tratta di un caso particolarmente importante per altri motivi;
-- y.[^83-26] le decisioni pronunciate dal Tribunale amministrativo federale nelle procedure amichevoli per evitare un’imposizione non conforme alla convenzione internazionale applicabile in ambito fiscale.
+- y.[^83-26] le decisioni pronunciate dal Tribunale amministrativo federale nelle procedure amichevoli per evitare un’imposizione non conforme alla convenzione internazionale applicabile in ambito fiscale;
+- z.[^83-27] le decisioni concernenti le autorizzazioni edilizie di impianti eolici d’interesse nazionale secondo l’articolo 71*c* capoverso 1 lettera b della legge federale del 30 settembre 2016[^83-28] sull’energia e le autorizzazioni di competenza cantonale a esse necessariamente connesse, se non si pone alcuna questione di diritto d’importanza fondamentale.
 
 [^83-1]: Nuovo testo giusta il n. I 1 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^83-2]: Introdotta dal n. I 1 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
@@ -1185,6 +1186,8 @@ Il ricorso è inammissibile contro:
 [^83-24]: Introdotta dall’art. 21 cpv. 2 della LF del 30 set. 2016 sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del1981, in vigore dal 1° apr. 2017 ([RU 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [FF 2016 73](https://fedlex.data.admin.ch/eli/fga/2016/40)).
 [^83-25]: [RS 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
 [^83-26]: Introdotta dall’art 36 cpv. 2 della LF del 18 giu. 2021 concernente l’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [FF 2020 8063](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
+[^83-27]: Introdotta dal n. I 2 della LF del 16 giu. 2023 concernente l’accelerazione della procedura di autorizzazione degli impianti eolici, in vigore dal 1° feb. 2024 ([RU 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [FF 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^83-28]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 84
 

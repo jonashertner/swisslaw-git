@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2005 davart il Tribunal federal (Le
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: rm
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240201/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240201-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il tribunal federal, LTF)
 
-dals 17 da zercladur 2005 (versiun dal 1. da schaner 2024)
+dals 17 da zercladur 2005 (versiun dal 1. da favrer 2024)
 
 [^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
 
@@ -1162,7 +1162,8 @@ Il recurs è inadmissibel cunter:
 - v.[^83-21] decisiuns dal Tribunal administrativ federal davart divergenzas d’opiniun tranter las autoritads en il sectur da l’agid uffizial e da l’assistenza giudiziala sin plaun naziunal;
 - w.[^83-22] decisiuns en il sectur dal dretg d’electricitad concernent l’approvaziun dals plans d’implants electrics da current ferm e da current lev e concernent l’expropriaziun dals dretgs necessaris per construir e per manar tals implants, sch’i na sa tschentan naginas dumondas giuridicas d’impurtanza fundamentala;
 - x.[^83-23] decisiuns concernent la concessiun da contribuziuns da solidaritad tenor la Lescha federala dals 30 da settember 2016[^83-24] davart las mesiras repressivas preventivas ed ils plazzaments extrafamigliars avant 1981, nun ch’i sa tractia d’ina dumonda giuridica d’impurtanza fundamentala u ch’i saja avant maun per auters motivs in cas spezialmain impurtant;
-- y.[^83-25] decisiuns dal Tribunal administrativ federal en proceduras da mediaziun per evitar ina imposiziun da taglia che na correspunda betg a las cunvegnas internaziunalas applitgablas en il sectur fiscal.
+- y.[^83-25] decisiuns dal Tribunal administrativ federal en proceduras da mediaziun per evitar ina imposiziun da taglia che na correspunda betg a las cunvegnas internaziunalas applitgablas en il sectur fiscal;
+- z.[^83-26] decisiuns concernent las permissiuns da construcziun numnadas en l’artitgel 71*c* alinea 1 litera b da la Lescha d’energia dals 30 da settember 2016[^83-27] e concernent las permissiuns ch’èn en la cumpetenza dals chantuns e che stattan necessariamain en connex cun las permissiuns da construcziun per implants d’energia da vent d’interess naziunal, sch’i na resultan naginas dumondas giuridicas d’impurtanza fundamentala.
 
 [^83-1]: Versiun tenor la cifra I 1 da l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LF davart il TF e da la LF davart il TAF, en vigur dapi il 1. da schan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
 [^83-2]: Integrà tras la cifra I 1 l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LF davart il TF e da la LF davart il TAF, en vigur dapi il 1. da schan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
@@ -1189,6 +1190,8 @@ Il recurs è inadmissibel cunter:
 [^83-23]: Integrà tras l’art. 21 al. 2 da la LF dals 30 da sett. 2016 davart las mesiras repressivas preventivas ed ils plazzaments extrafamigliars avant 1981, en vigur dapi il 1. d’avr. 2017 ([AS 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [BBl 2016 101](https://fedlex.data.admin.ch/eli/fga/2016/40)).
 [^83-24]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
 [^83-25]: Integrà tras l’art. 36 al. 2 da la LF dals 18 da zer. 2021 davart l’execuziun da las cunvegnas internaziunalas en il sectur fiscal, en vigur dapi il 1. da schan. 2022 ([AS 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [BBl 2020 9219](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
+[^83-26]: Integrà tras la cifra I 2 da la LF dals 16 da zer. 2023 davart l’acceleraziun da las proceduras da permissiun per implants d’energia da vent, en vigur dapi il 1. da favr. 2024 ([AS 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [BBl 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^83-27]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 84
 

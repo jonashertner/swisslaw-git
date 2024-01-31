@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal fédéral (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: fr
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240101/fr"
 
 (LTF)[^t-1]
 
-du 17 juin 2005 (État le 1<sup>er</sup> janvier 2024)
+du 17 juin 2005 (État le 1<sup>er</sup> février 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -1159,7 +1159,8 @@ Le recours est irrecevable contre:
 - v.[^83-23] les décisions du Tribunal administratif fédéral en cas de divergences d’opinion entre des autorités en matière d’entraide judiciaire ou d’assistance administrative au niveau national;
 - w.[^83-24] les décisions en matière de droit de l’électricité qui concernent l’approbation des plans des installations électriques à courant fort et à courant faible et l’expropriation de droits nécessaires à la construction ou à l’exploitation de telles installations, si elles ne soulèvent pas de question juridique de principe.
 - x.[^83-25] les décisions en matière d’octroi de contributions de solidarité au sens de la loi fédérale du 30 septembre 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981[^83-26], sauf si la contestation soulève une question juridique de principe ou qu’il s’agit d’un cas particulièrement important pour d’autres motifs;
-- y.[^83-27] les décisions prises par le Tribunal administratif fédéral dans des procédures amiables visant à éviter une imposition non conforme à une convention internationale applicable dans le domaine fiscal.
+- y.[^83-27] les décisions prises par le Tribunal administratif fédéral dans des procédures amiables visant à éviter une imposition non conforme à une convention internationale applicable dans le domaine fiscal;
+- z.[^83-28] les décisions citées à l’art. 71*c*, al. 1, let. b, de la loi du 30 septembre 2016 sur l’énergie[^83-29] concernant les autorisations de construire et les autorisations relevant de la compétence des cantons destinées aux installations éoliennes d’intérêt national qui y sont nécessairement liées, sauf si la contestation soulève une question juridique de principe.
 
 [^83-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^83-2]: Nouvelle teneur selon le ch. I 1 de l’O de l’Ass. féd. du 20 déc. 2006 concernant l’adaptation d’actes législatifs aux disp. de la loi sur le TF et de la loi sur TAF, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7351](https://fedlex.data.admin.ch/eli/fga/2006/974)).
@@ -1188,6 +1189,8 @@ Le recours est irrecevable contre:
 [^83-25]: Introduite par l’art. 21 al. 2 de la LF du 30 sept. 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [FF 2016 87](https://fedlex.data.admin.ch/eli/fga/2016/40)).
 [^83-26]: [RS 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
 [^83-27]: Introduit par l’art. 36, al. 2 de la LF du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [FF 2020 8913](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
+[^83-28]: Introduite par le ch. I 2 de la LF du 16 juin 2023 sur l’accélération des procédures d’autorisation pour les installations éoliennes, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [FF 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^83-29]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 84
 
