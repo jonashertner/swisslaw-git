@@ -4,11 +4,11 @@ title: Ordinanza del 20 ottobre 2010 sul controllo del latte (OCL)
 short: OCL
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: it
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2010-713-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2010-713-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/it"
 
 (OCL)
 
-del 20 ottobre 2010 (Stato 1° giugno 2022)
+del 20 ottobre 2010 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 15 capoverso 3 e 37 capoverso 1 della legge del 9 ottobre 1992[^ingress-1] sulle derrate alimentari; visti gli articoli 10 e 177 capoverso 1 della legge del 29 aprile 1998[^ingress-2] sull’agricoltura,
+visti gli articoli 10 capoverso 3 lettera a e 44 della legge del 20 giugno 2014[^ingress-1] sulle derrate alimentari; visti gli articoli 10 e 177 capoverso 1 della legge del 29 aprile 1998[^ingress-2] sull’agricoltura,[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6, [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -43,7 +44,7 @@ La presente ordinanza disciplina:
 
 **Prescrizioni tecniche**
 
-<sup>1</sup> Il Dipartimento federale dell'interno (DFI)[^2-1] emana prescrizioni tecniche riguardanti l’igiene nella produzione lattiera, in particolare il foraggiamento, la detenzione e la salute degli animali, le esigenze concernenti il latte, la produzione, il trattamento e l’immagazzinamento del latte, la pulizia e la disinfezione nonché gli edifici, gli impianti e le attrezzature.
+<sup>1</sup> Il Dipartimento federale dell’interno (DFI)[^2-1] emana prescrizioni tecniche riguardanti l’igiene nella produzione lattiera, in particolare il foraggiamento, la detenzione e la salute degli animali, le esigenze concernenti il latte, la produzione, il trattamento e l’immagazzinamento del latte, la pulizia e la disinfezione nonché gli edifici, gli impianti e le attrezzature.
 
 <sup>2</sup> Il DFI tiene conto a tal fine delle direttive e delle norme riconosciute internazionalmente nonché delle esigenze da soddisfare per preservare la capacità d’esportazione del latte e dei latticini.
 
@@ -75,7 +76,7 @@ La presente ordinanza disciplina:
 
 <sup>2</sup> I laboratori di prova designano, d’intesa con l’Ufficio federale della sicurezza alimentare e di veterinaria (USAV), i produttori il cui latte è esentato dal controllo.[^5-1]
 
-3 Il latte è esentato dal controllo se il veterinario cantonale ordina l’abolizione del controllo del latte di cui all’articolo 102 capoverso 1ter lettera d dell’ordinanza del 27 giugno 1995 sulle epizoozie.[^5-2]
+<sup>3</sup> Il latte è esentato dal controllo se il veterinario cantonale ordina l’abolizione del controllo del latte di cui all’articolo 102 capoverso 1ter lettera d dell’ordinanza del 27 giugno 1995 sulle epizoozie.[^5-2]
 
 [^5-1]: Nuovo testo giusta il n. I 12 dellʼO del 4 set. 2013 (riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^5-2]: Introdotto dal n. II 2 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
@@ -84,33 +85,30 @@ La presente ordinanza disciplina:
 
 **Comunicazione dei risultati del controllo del latte**
 
-<sup>1</sup> Al termine delle analisi, i laboratori di prova devono notificare senza indugio i risultati ai produttori. A tale scopo, trasmettono i risultati al servizio designato dalle organizzazioni dei produttori e dei valorizzatori (servizio di amministrazione).
+<sup>1</sup> Al termine delle analisi, i laboratori di prova devono notificare senza indugio i risultati al servizio designato dalle organizzazioni dei produttori e dei valorizzatori (servizio di amministrazione). Quest’ultimo mette i risultati a disposizione dei produttori e dei valorizzatori che acquistano il latte direttamente dai produttori (primi acquirenti di latte).[^6-1]
 
-<sup>2</sup> Essi devono notificare i risultati alle competenti autorità d’esecuzione quando le condizioni per una sospensione della fornitura di latte di cui all’articolo 15 sono soddisfatte.
+<sup>2</sup> I laboratori di prova devono notificare i risultati alle competenti autorità d’esecuzione quando le condizioni per una sospensione della fornitura di latte di cui all’articolo 15 sono soddisfatte.[^6-2]
 
 <sup>3</sup>
 
-Essi registrano regolarmente nel sistema d’informazione per i risultati dei controlli e delle analisi di cui all’ordinanza del 27 aprile 2022[^6-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare i seguenti dati:[^6-2]
+Essi registrano regolarmente nel sistema d’informazione per i risultati dei controlli e delle analisi di cui all’ordinanza del 27 aprile 2022[^6-3] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare i seguenti dati:[^6-4]
 
 - a. la provenienza dei campioni analizzati per la rilevazione delle epizoozie soggette all’obbligo di notifica e delle resistenze agli antibiotici;
 - b. i risultati di queste analisi;
 - c. i numeri di identificazione delle aziende detentrici di animali e degli animali da cui provengono i campioni oppure, se nessuno di questi numeri è disponibile, il nome e lʼindirizzo del detentore degli animali;
-- d. i risultati delle analisi effettuate nellʼambito della presente ordinanza e delle disposizioni emanate dal DFI in virtù dellʼarticolo 2 della presente ordinanza concernenti lʼigiene nella produzione lattiera.[^6-3]
+- d. i risultati delle analisi effettuate nellʼambito della presente ordinanza e delle disposizioni emanate dal DFI in virtù dellʼarticolo 2 della presente ordinanza concernenti lʼigiene nella produzione lattiera.[^6-5]
 
-[^6-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^6-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^6-3]: Introdotto dal n. I dell’O del 30 nov. 2012 ([RU 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Nuovo testo giusta l’all. 3 n. II 7 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^6-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^6-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^6-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^6-4]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^6-5]: Introdotto dal n. I dell’O del 30 nov. 2012 ([RU 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Nuovo testo giusta l’all. 3 n. II 7 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 
 #### Art. 7
 
-**Accesso ai dati relativi al controllo del latte**
+[^7-1]
 
-<sup>1</sup> I diritti di trattamento e di consultazione dell’USAV, dell’UFAG e delle autorità cantonali di esecuzione relativi ai dati di controllo sono retti dall’ordinanza del 27 aprile 2022[^7-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^7-2]
-
-<sup>2</sup> I valorizzatori che acquistano il latte direttamente presso i produttori (primi acquirenti di latte) hanno accesso ai dati relativi al controllo del latte per loro rilevanti.
-
-[^7-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^7-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^7-1]: Abrogato dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 #### Art. 8
 
@@ -159,32 +157,33 @@ I laboratori di prova devono essere gestiti e valutati secondo la norma europea 
 <sup>4</sup> L’USAV emana direttive sugli standard tecnici minimi per i laboratori di prova.
 
 [^11-1]: Nuova espr. giusta il n. I 12 dellʼO del 4 set. 2013 (riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^11-2]: Il testo di questa norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^11-2]: Il testo di questa norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch)
 [^11-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 12
 
-**Vigilanza**
+**Rendiconto**[^12-1]
 
-I laboratori di prova devono presentare ogni anno all’USAV un rapporto sulla propria attività, in particolare sull’utilizzo dei fondi federali.
+Le organizzazioni dei produttori e dei valorizzatori devono presentare ogni anno all’USAV un rapporto sull’esecuzione del controllo del latte e sull’utilizzo dei fondi federali.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 #### Art. 13
 
-**Laboratorio nazionale di riferimento**
+**Compiti di Agroscope**[^13-1]
 
-<sup>1</sup> La Confederazione gestisce un laboratorio nazionale di riferimento presso la Stazione federale di ricerche Agroscope.
+<sup>1</sup>
 
-<sup>2</sup>
+In relazione ai laboratori di prova, la Stazione federale di ricerca agronomica Agroscope ha i seguenti compiti:
 
-Il laboratorio nazionale di riferimento ha i seguenti compiti:
+- a. propone all’USAV i metodi di controllo;
+- b. svolge i test di idoneità per i laboratori di prova di cui all’articolo 11 capoverso 1;
+- c. assicura il coordinamento tra i laboratori interessati.
 
-- a. propone all’USAV i metodi di controllo ufficiali;
-- b. svolge i test di idoneità per i laboratori di prova di cui all’articolo 11;
-- c. assicura il coordinamento tra i laboratori di prova e il laboratorio di riferimento dell'Unione europea.
+<sup>2</sup> Per lo svolgimento dei test di idoneità, Agroscope è accreditato dal Servizio di accreditamento svizzero conformemente all’ordinanza del 17 giugno 1996[^13-2] sull’accreditamento e sulla designazione.
 
-<sup>3</sup> Per lo svolgimento dei test di idoneità, il laboratorio nazionale di riferimento è accreditato dal Servizio di accreditamento svizzero, conformemente all’ordinanza del 17 giugno 1996[^13-1] sull’accreditamento e sulla designazione.
-
-[^13-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^13-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^13-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 ## Sezione 4: Controllo delle aziende detentrici di animali e degli animali
 
@@ -201,16 +200,16 @@ Il bestiame da latte deve essere controllato per verificare se:
 
 <sup>3</sup> Se vi è il sospetto che un animale non soddisfi le condizioni sanitarie o le esigenze riguardanti i medicamenti, esso deve essere sottoposto ad una visita veterinaria.
 
-<sup>4</sup> ...[^14-1]
+<sup>4</sup> …[^14-1]
 
 <sup>5</sup> I controlli si basano sull’ordinanza del 27 maggio 2020[^14-2] sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso.[^14-3]
 
-<sup>6</sup> ...[^14-4]
+<sup>6</sup> …[^14-4]
 
 [^14-1]: Abrogato dall’all. 4 n. 7 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^14-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
 [^14-3]: Nuovo testo giusta l’all. 4 n. 7 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^14-4]: Introdotto dal n. 4 dell’all. 3 all’O del 23 ott. 2013 sul coordinamento dei controlli delle aziende agricole ([RU 2013 3867](https://fedlex.data.admin.ch/eli/oc/2013/712)).Abrogato dall’all. 4 n. 7 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^14-4]: Introdotto dall’all. 3 n. 4 dell’O del 23 ott. 2013 sul coordinamento dei controlli delle aziende agricole ([RU 2013 3867](https://fedlex.data.admin.ch/eli/oc/2013/712)).Abrogato dall’all. 4 n. 7 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
 ## Sezione 5: Provvedimenti amministrativi
 

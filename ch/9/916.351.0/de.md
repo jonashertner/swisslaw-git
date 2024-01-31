@@ -4,11 +4,11 @@ title: Milchprüfungsverordnung vom 20. Oktober 2010 (MiPV)
 short: MiPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: de
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2010-713-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2010-713-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/de"
 
 (MiPV)
 
-vom 20. Oktober 2010 (Stand am 1. Juni 2022)
+vom 20. Oktober 2010 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 15 Absatz 3 und 37 Absatz 1 des Lebensmittelgesetzes vom 9. Oktober 1992[^ingress-1] und die Artikel 10 und 177 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-2],
+gestützt auf die Artikel 10 Absatz 3 Buchstabe a und 44 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-1] und auf die Artikel 10 und 177 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-2],[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^ingress-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -85,33 +86,30 @@ Diese Verordnung regelt:
 
 **Mitteilung der Ergebnisse der Milchprüfung**
 
-<sup>1</sup> Die Prüflaboratorien müssen unmittelbar nach Abschluss der Untersuchungen die Ergebnisse den Produzentinnen und Produzenten mitteilen. Dazu übermitteln sie die Ergebnisse an die von den Produzenten- und Verwerterorganisationen bezeichnete Stelle (Administrationsstelle).
+<sup>1</sup> Die Prüflaboratorien müssen die Ergebnisse unmittelbar nach Abschluss der Untersuchungen an die von den Produzenten- und Verwerterorganisationen bezeichnete Stelle (Administrationsstelle) übermitteln. Diese stellt die Ergebnisse den Produzentinnen und Produzenten sowie den Verwerterinnen und Verwertern, die die Milch direkt von den Produzentinnen und Produzenten beziehen (Erstmilchkäuferinnen und Erstmilchkäufer), zur Verfügung.[^6-1]
 
-<sup>2</sup> Sie müssen die Ergebnisse den zuständigen Vollzugsstellen melden, wenn die Voraussetzungen für eine Milchliefersperre nach Artikel 15 erfüllt sind.
+<sup>2</sup> Die Prüflaboratorien müssen die Ergebnisse den zuständigen Vollzugsstellen melden, wenn die Voraussetzungen für eine Milchliefersperre nach Artikel 15 erfüllt sind.[^6-2]
 
 <sup>3</sup>
 
-Sie geben regelmässig die folgenden Daten ins Informationssystem für Resultate von Kontrollen und Untersuchungen nach der Verordnung vom 27. April 2022[^6-1] über Informationssysteme des BLV für die Lebensmittelkette ein:[^6-2]
+Sie geben regelmässig die folgenden Daten ins Informationssystem für Resultate von Kontrollen und Untersuchungen nach der Verordnung vom 27. April 2022[^6-3] über Informationssysteme des BLV für die Lebensmittelkette ein:[^6-4]
 
 - a. Herkunft der Proben, die auf meldepflichtige Seuchen und auf Antibiotikaresistenzen untersucht worden sind;
 - b. Ergebnisse dieser Untersuchungen;
 - c. Identifikationsnummern der Tierhaltungen und Tiere, von denen die Proben stammen, oder, wenn keine solche Nummer vorhanden ist, Name und Adresse der Tierhalterin oder des Tierhalters;
-- d. Ergebnisse der Untersuchungen, die im Rahmen dieser Verordnung und der vom EDI gestützt auf Artikel 2 dieser Verordnung erlassenen Bestimmungen über die Hygiene bei der Milchproduktion durchgeführt worden sind.[^6-3]
+- d. Ergebnisse der Untersuchungen, die im Rahmen dieser Verordnung und der vom EDI gestützt auf Artikel 2 dieser Verordnung erlassenen Bestimmungen über die Hygiene bei der Milchproduktion durchgeführt worden sind.[^6-5]
 
-[^6-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^6-2]: Fassung gemäss Anhang 4 Ziff. II 7 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^6-3]: Eingefügt durch Ziff. I der V vom 30. Nov. 2012 ([AS 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Fassung gemäss Anhang 3 Ziff. II 7 der V vom 6. Juni 2014 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Juli 2014 ([AS 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^6-3]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^6-4]: Fassung gemäss Anhang 4 Ziff. II 7 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^6-5]: Eingefügt durch Ziff. I der V vom 30. Nov. 2012 ([AS 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Fassung gemäss Anhang 3 Ziff. II 7 der V vom 6. Juni 2014 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Juli 2014 ([AS 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 
 #### Art. 7
 
-**Zugriff auf die Prüfungsdaten**
+[^7-1]
 
-<sup>1</sup> Die Bearbeitungs- und Einsichtsrechte des BLV, des BLW und der kantonalen Vollzugsbehörden in Bezug auf die Prüfungsdaten richten sich nach der Verordnung vom 27. April 2022[^7-1] über Informationssysteme des BLV für die Lebensmittelkette.[^7-2]
-
-<sup>2</sup> Die Verwerterinnen und Verwerter, die die Milch direkt von den Produzentinnen und Produzenten beziehen (Erstmilchkäuferinnen und Erstmilchkäufer), haben Zugriff auf die für sie relevanten Prüfungsdaten.
-
-[^7-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^7-2]: Fassung gemäss Anhang 4 Ziff. II 7 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^7-1]: Aufgehoben durch Ziff. I der V vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 #### Art. 8
 
@@ -165,27 +163,28 @@ Die Prüflaboratorien müssen nach der europäischen Norm EN ISO/IEC 17025 über
 
 #### Art. 12
 
-**Aufsicht**
+**Berichterstattung**[^12-1]
 
-Die Prüflaboratorien müssen dem BLV jährlich Bericht erstatten über ihre Tätigkeit, namentlich über die Verwendung der Bundesmittel.
+Die Produzenten- und Verwerterorganisationen müssen dem BLV jährlich über die Durchführung der Milchprüfung und die Verwendung der Bundesmittel Bericht erstatten.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 #### Art. 13
 
-**Nationales Referenzlaboratorium**
+**Aufgaben der Agroscope**[^13-1]
 
-<sup>1</sup> Der Bund unterhält ein nationales Referenzlaboratorium an der Forschungsanstalt Agroscope.
+<sup>1</sup>
 
-<sup>2</sup>
+Die landwirtschaftliche Forschungsanstalt Agroscope hat im Zusammenhang mit den Prüflaboratorien folgende Aufgaben:
 
-Das nationale Referenzlaboratorium hat folgende Aufgaben:
+- a. Sie schlägt dem BLV die Prüfverfahren vor.
+- b. Sie führt die Eignungsprüfungen für die Prüflaboratorien nach Artikel 11 Absatz 1 durch.
+- c. Sie sorgt für die Koordination zwischen den beteiligten Laboratorien.
 
-- a. Es schlägt dem BLV die offiziellen Prüfverfahren vor.
-- b. Es führt die Eignungsprüfungen für die Prüflaboratorien nach Artikel 11 durch.
-- c. Es sorgt für die Koordination zwischen den Prüflaboratorien und dem Referenzlaboratorium der Europäischen Union.
+<sup>2</sup> Für die Durchführung der Eignungsprüfungen wird Agroscope durch die Schweizerische Akkreditierungsstelle nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^13-2] akkreditiert.
 
-<sup>3</sup> Für die Durchführung der Eignungsprüfungen wird das Referenzlaboratorium durch die Schweizerische Akkreditierungsstelle nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^13-1] akkreditiert.
-
-[^13-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^13-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^13-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 ## 4. Abschnitt: Kontrolle der Tierhaltungen und der Tiere
 

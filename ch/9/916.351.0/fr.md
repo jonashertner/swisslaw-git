@@ -4,11 +4,11 @@ title: Ordonnance du 20 octobre 2010 sur le contrôle du lait (OCL)
 short: OCL
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: fr
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2010-713-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-713-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/fr"
 
 (OCL)
 
-du 20 octobre 2010 (Etat le 1<sup>er</sup> juin 2022)
+du 20 octobre 2010 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 15, al. 3, et 37, al. 1 de la loi du 9 octobre 1992 sur les denrées alimentaires[^ingress-1], vu les art. 10 et 177, al. 1 de la loi du 29 avril 1998 sur l’agriculture[^ingress-2],
+vu les art. 10, al. 3, let. a, et 44 de la loi du 20 juin 2014 sur les denrées alimentaires[^ingress-1], vu les art. 10 et 177, al. 1, de la loi du 29 avril 1998 sur l’agriculture[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 ## Section 1 Dispositions générales
 
@@ -85,33 +86,30 @@ La présente ordonnance règle:
 
 **Communication des résultats du contrôle du lait**
 
-<sup>1</sup> Les laboratoires d’essais communiquent les résultats du contrôle du lait aux producteurs aussitôt les analyses terminées. Ils transmettent les résultats au service désigné par les organisations de producteurs et d’utilisateurs (service administratif).
+<sup>1</sup> Aussitôt les analyses terminées, les laboratoires d’essais doivent transmettre les résultats du contrôle du lait au service désigné par les organisations de producteurs et d’utilisateurs (service administratif). Ce dernier les met à la disposition des producteurs et des utilisateurs qui achètent le lait directement aux producteurs (premiers acheteurs de lait).[^6-1]
 
-<sup>2</sup> Ils doivent communiquer les résultats aux autorités d’exécution compétentes si les conditions d’une interdiction de livrer le lait visées à l’art. 15 sont réunies.
+<sup>2</sup> Les laboratoires d’essais doivent communiquer les résultats aux autorités d’exécution compétentes si les conditions d’une interdiction de livrer le lait visées à l’art. 15 sont réunies.[^6-2]
 
 <sup>3</sup>
 
-Ils saisissent régulièrement les données ci-dessous dans le système d’information pour les résultats de contrôles et d’analyses visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^6-1]:[^6-2]
+Ils saisissent régulièrement les données ci-dessous dans le système d’information pour les résultats de contrôles et d’analyses visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^6-3]:[^6-4]
 
 - a. la provenance des échantillons analysés pour le diagnostic des épizooties soumises à l’annonce obligatoire et la détection des résistances aux antibiotiques;
 - b. les résultats de ces analyses;
 - c. le numéro d’identification des unités d’élevage et des animaux dont proviennent les échantillons ou, en l’absence d’un tel numéro, le nom et l’adresse du détenteur d’animaux;
-- d. les résultats de toutes les analyses effectuées en application de la présente ordonnance et des dispositions régissant l’hygiène de la production laitière édictées par le DFI en vertu de l’art. 2 de la présente ordonnance.[^6-3]
+- d. les résultats de toutes les analyses effectuées en application de la présente ordonnance et des dispositions régissant l’hygiène de la production laitière édictées par le DFI en vertu de l’art. 2 de la présente ordonnance.[^6-5]
 
-[^6-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^6-2]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^6-3]: Introduit par le ch. I de l’O du 30 nov. 2012 ([RO 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Nouvelle teneur selon l’annexe 3 ch. II 7 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^6-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^6-4]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^6-5]: Introduit par le ch. I de l’O du 30 nov. 2012 ([RO 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Nouvelle teneur selon l’annexe 3 ch. II 7 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 
 #### Art. 7
 
-**Accès aux données relatives au contrôle du lait**
+[^7-1]
 
-<sup>1</sup> Les droits de traitement et de consultation de l’OSAV, de l’OFAG et des autorités d’exécution cantonales portant sur les données relatives au contrôle du lait sont régis par l’ordonnance du 27 avril 2022 sur les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^7-1].[^7-2]
-
-<sup>2</sup> Les utilisateurs qui achètent le lait directement aux producteurs (premiers acheteurs de lait) ont accès aux données relatives au contrôle du lait qui les concernent.
-
-[^7-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^7-2]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^7-1]: Abrogé par le ch. I de l’O du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 #### Art. 8
 
@@ -165,27 +163,28 @@ Les laboratoires d’essais doivent être exploités et évalués conformément 
 
 #### Art. 12
 
-**Surveillance**
+**Rapports**[^12-1]
 
-Les laboratoires d’essais doivent rendre compte de leur activité à l’OSAV en lui remettant un rapport annuel qui renseigne notamment sur l’utilisation des fonds de la Confédération.
+Les organisations de producteurs et d’utilisateurs doivent rendre compte chaque année à l’OSAV de l’exécution du contrôle du lait et de l’utilisation des fonds de la Confédération.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
 
 #### Art. 13
 
-**Laboratoire national de référence**
+**Tâches d’Agroscope**[^13-1]
 
-<sup>1</sup> La Confédération exploite un laboratoire national de référence à la Station de recherche Agroscope.
+<sup>1</sup>
 
-<sup>2</sup>
+La station de recherches agronomiques Agroscope collabore avec les laboratoires d’essais pour accomplir les tâches suivantes:
 
-Le laboratoire national de référence accomplit les tâches suivantes:
+- a. elle propose à l’OSAV les méthodes d’analyse officielles;
+- b. elle effectue les tests de compétence des laboratoires d’essais visés à l’art. 11, al. 1;
+- c. elle veille à la coordination entre les laboratoires impliqués.
 
-- a. il propose les méthodes d’analyse officielles à l’OSAV;
-- b. il effectue les tests de compétence des laboratoires d’essais en application de l’art. 11;
-- c. il veille à la coordination entre les laboratoires d’essais et le laboratoire de référence de l’Union européenne.
+<sup>2</sup> Elle est accréditée par le Service d’accréditation suisse, conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^13-2], pour effectuer les tests de compétence des laboratoires d’essais.
 
-<sup>3</sup> Il est accrédité par le Service d’accréditation suisse, conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^13-1], pour effectuer les tests de compétence des laboratoires d’essais.
-
-[^13-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^13-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 ## Section 4 Contrôle des unités d’élevage et des animaux
 
