@@ -4,11 +4,10 @@ number: "414.262.1"
 title: Rahmenordnung für Bachelor- und Masterstudiengänge der Zürcher Hochschule der Künste (RO)
 short: RO
 language: de
-version: "2023-02-01"
-nachtrag: "119"
-valid_until: 2024-02-01
+version: "2024-02-01"
+nachtrag: "124"
 adopted: 2021-11-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_262_1-2021_11_02-2023_02_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_262_1-2021_11_02-2023_02_01-124.html"
 text: pdf
 ---
 
@@ -58,7 +57,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 24 - 124
 
 <sup>3</sup> Die Hochschulleitung beschliesst die Minorliste mit den Minorbeschreibungen.
 
@@ -84,9 +83,7 @@ beschliesst:
 
 - Bachelor of Arts in Musik und Bewegung.
 
-<sup>2</sup> Sie bietet folgende Masterstudiengänge an:
-
-- Master of Arts in Design,
+<sup>2</sup> Sie bietet folgende Masterstudiengänge an:[^4-1] – Master of Arts in Design,
 
 - Master of Arts in Dance,
 
@@ -98,6 +95,8 @@ beschliesst:
 
 - Master of Arts in Art Education,
 
+- Master of Arts in Cultural Critique,
+
 - Master of Arts in Transdisziplinarität in den Künsten,
 
 - Master of Arts in Music Performance,
@@ -107,6 +106,8 @@ beschliesst:
 - Master of Arts in Music Pedagogy,
 
 - Master of Arts in Composition and Theory.
+
+[^4-1]: Fassung gemäss B vom 7. November 2023 (OS 79, 26; ABl 2023-12-01). In Kraft seit 1. Februar 2024. 1. 4. 24 - 124 15
 
 ### II. Abschnitt: Studium
 
@@ -164,15 +165,19 @@ Jedes Major-Studienprogramm ist einem Studiengang zugeordnet und richtet sich na
 
 <sup>2</sup> Haben sich für ein Minor-Studienprogramm weniger Studierende angemeldet als in der Minorbeschreibung vorgegeben, kann auf die Durchführung verzichtet werden. In diesem Fall können sich die betroffenen Studierenden nachträglich für ein anderes Minor-Studienprogramm mit freien Studienplätzen anmelden.
 
-<sup>3</sup> Die Hochschulleitung legt die Anmeldebedingungen und das Verfahren der Zuteilung in die Minor-Studienprogramme fest.
-
 **3**
 
-- 1\. 1. 23 - 119 § 10. Minor-Studienprogramme können an anderen Hochschulen absolviert werden, sofern die Studienleitung vorgängig die Belegung und die Anrechnung dieser Minor-Studienprogramme genehmigt hat.
+- 1\. 4. 24 - 124
 
-#### § 11
+<sup>3</sup> Die Hochschulleitung legt die Anmeldebedingungen und das Verfahren der Zuteilung in die Minor-Studienprogramme fest.
+
+#### § 10
 
 **Minor-Studienprogramme an anderen Hochschulen**
+
+Minor-Studienprogramme können an anderen Hochschulen absolviert werden, sofern die Studienleitung vorgängig die Belegung und die Anrechnung dieser Minor-Studienprogramme genehmigt hat.
+
+#### § 11
 
 **Individueller Studienbereich**
 
@@ -262,7 +267,7 @@ Jedes Major-Studienprogramm ist einem Studiengang zugeordnet und richtet sich na
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 24 - 124
 
 <sup>2</sup> Für Studiengänge mit integriertem Lehrdiplom für Maturitätsschulen, Fachrichtung Musik oder Bildnerisches Gestalten werden zudem vorgängig erbrachte Studienleistungen nach den Grundsätzen des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen der Schweizerischen Konferenz der kantonalen Erziehungsdirektionen (EDK) vom 28. März 2019 angerechnet.
 
@@ -334,7 +339,7 @@ Die Zulassung zum Studiengang gilt unter der Bedingung, dass das Major-Studienpr
 
 **7**
 
-- 1\. 1. 23 - 119 § 24. Wer zum Studium aufgenommen ist, wird nach Bezahlung der Studiengebühren an der ZHdK immatrikuliert.
+- 1\. 4. 24 - 124 § 24. Wer zum Studium aufgenommen ist, wird nach Bezahlung der Studiengebühren an der ZHdK immatrikuliert.
 
 **Immatrikulation**
 
@@ -417,7 +422,7 @@ Die Notenskala entspricht wie folgt:
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 24 - 124
 
 <sup>3</sup> Wer Leistungsnachweise von Wahlplicht- und Wahlmodulen begründet versäumt, kann diese nachholen, wenn diese zu einem späteren Zeitpunkt noch einmal angeboten werden. Andernfalls werden Studierende nachträglich vom Modul abgemeldet. Die Gründe und das Vorgehen richten sich nach Abs. 2.
 
@@ -503,7 +508,7 @@ Die Notenskala entspricht wie folgt:
 
 **11**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 24 - 124
 
 <sup>2</sup> Die Minor-Verantwortlichen des neu gewählten Minor-Studienprogramms sind für die Anrechnung bescheinigter Credits und nachgewiesener Studienleistungen zuständig.
 
@@ -593,7 +598,7 @@ Die Notenskala entspricht wie folgt:
 
 **13**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 24 - 124
 
 <sup>2</sup> Sie verleiht für einen erfolgreich abgeschlossenen Masterstudiengang den Titel «Master of Arts ZHdK in [Bezeichnung Studiengang] mit Major in [Bezeichnung] und Minor(s) [Bezeichnung] oder individuellem Studienbereich».
 
@@ -666,4 +671,4 @@ Das Rechtsmittelverfahren richtet sich nach dem FaHG[^hBRechtsschutz-1] und dem 
 
 <sup>2</sup> Studierende, die ihr Studium unterbrechen, werden unter das neue Recht gestellt. Die Bedingungen des Wiedereintritts sowie der Anrechnung von früheren Studienleistungen richten sich nach § 34.
 
-[^hVIIIAbschnittÜbe-1]: Fassung gemäss B vom 15. Februar 2022 (OS 77, 145; ABl 2022-02-25). In Kraft seit 1. Februar 2023. 1. 1. 23 - 119 15
+[^hVIIIAbschnittÜbe-1]: Fassung gemäss B vom 15. Februar 2022 (OS 77, 145; ABl 2022-02-25). In Kraft seit 1. Februar 2023.
