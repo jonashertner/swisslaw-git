@@ -4,11 +4,11 @@ title: Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: fr
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20220601-fr-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20240201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220601/fr"
 
 (OPAn)
 
-du 23 avril 2008 (État le 1<sup>er</sup> juin 2022)
+du 23 avril 2008 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -85,7 +85,7 @@ Au sens de la présente ordonnance, on entend par:
   - 3\. *d’autres animaux:* l’emploi d’un produit animal, l’exploitation d’un trait de comportement de l’animal, à titre professionnel;
 
 - p.[^2-3] *équidés:* les animaux domestiqués de l’espèce chevaline, à savoir les chevaux, les poneys, les ânes, les mulets et les bardots;
-- q.[^2-4] *...*
+- q.[^2-4] *…*
 - r. *bovins:* les animaux domestiqués de l’espèce bovine, y compris les yacks et les buffles;
 - s. *pension ou refuge pour animaux:* l’établissement qui accueille des animaux en pension ou qui recueille et soigne des animaux sans maître ou dont le détenteur a dû se séparer;
 - t.[^2-5] *système informatique animex-ch:* le système informatique visé par l’ordonnance animex-ch du 1<sup>er</sup> septembre 2010[^2-6];
@@ -314,7 +314,7 @@ Il est en outre interdit de pratiquer les interventions suivantes sur les bovins
 - i.[^17-5] leur implanter des corps étrangers en vue de leur présentation;
 - j.[^17-6] poser un bandage serré sur les jarrets et aspirer du liquide organique des jarrets en vue de la présentation des animaux;
 - k.[^17-7] leur administrer des substances ou des produits dans la panse avec une sonde en vue de leur présentation;
-- [tab] k<sup>bis</sup>.[^17-8] utiliser des appareils électrisants pour calmer momentanément un animal;
+- k<sup>bis</sup>.[^17-8] utiliser des appareils électrisants pour calmer momentanément un animal;
 - l.[^17-9] attacher les taureaux par la boucle nasale;
 - m.[^17-10] effectuer des interventions sur le pénis des taureaux détecteurs d’oestrus;
 - n.[^17-11] écorner les buffles et les yacks.
@@ -1350,24 +1350,27 @@ Doivent être autorisés les équipements d’étable suivants:
 
 <sup>3</sup> Le requérant doit mettre gratuitement à la disposition de l’OSAV les systèmes de stabulation et les équipements d’étable à examiner.
 
-<sup>4</sup> L’OSAV délivre l’autorisation. Il peut limiter sa durée de validité et l’assortir de conditions et de charges.
+<sup>3bis</sup>
+
+L’OSAV peut faire appel à des experts, tels que des spécialistes des autorités cantonales, des scientifiques et des spécialistes en matière de protection et de détention des animaux et de construction d’étables pour:
+
+- a. toutes les questions en rapport avec l’autorisation de systèmes de stabulation et d’équipements d’étables;
+- b. l’évaluation des demandes et des résultats des examens pratiques.[^82-1]
+
+<sup>4</sup> Il délivre l’autorisation. Il peut limiter sa durée de validité et l’assortir de conditions et de charges.[^82-2]
 
 <sup>5</sup> L’autorisation peut prévoir des dérogations aux exigences minimales fixées à l’annexe 1, si le système de stabulation ou les équipements d’étable remplissent les exigences d’une détention conforme aux besoins des animaux.
 
 <sup>6</sup> Une autorisation peut être retirée si à la lumière de nouvelles connaissances les critères de conformité aux besoins des animaux ne sont plus remplis ou si des défauts rédhibitoires apparaissent dans la pratique.
 
+[^82-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+[^82-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+
 #### Art. 83
 
-**Commission des équipements d’étable**
+[^83-1]
 
-<sup>1</sup> Le Conseil fédéral nomme une commission consultative. Celle-ci se compose de 15 membres au maximum et comprend notamment des représentants de la Confédération et des cantons, des scientifiques et des spécialistes en matière de protection et de détention des animaux et de construction d’étables.[^83-1]
-
-<sup>2</sup> Le Conseil fédéral désigne le président. Au surplus, la commission se constitue elle-même. Elle établit un règlement interne. L’OSAV assure le secrétariat.[^83-2]
-
-<sup>3</sup> L’OSAV peut faire appel à la commission pour toutes les questions en rapport avec les systèmes de stabulation et les équipements d’étable. La commission se prononce sur les demandes et les résultats des examens pratiques que lui soumet l’OSAV.
-
-[^83-1]: Nouvelle teneur selon le ch. I 6.4 de l’O du 9 nov. 2011 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^83-2]: Nouvelle teneur selon le ch. I 6.4 de l’O du 9 nov. 2011 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^83-1]: Abrogé par le ch. I de l’O du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
 
 #### Art. 84
 
@@ -1520,7 +1523,8 @@ Le registre des animaux doit comporter les informations suivantes, classées par
 
 - a. les augmentations d’effectif (date, naissance ou provenance, nombre d’animaux);
 - b.[^93-2] les diminutions d’effectif (date, nom et adresse de l’acquéreur ou mort des animaux, cause de leur mort si elle est connue, mode de mise à mort et nombre d’animaux).
-- [tab] <sup>3</sup> Le registre des exploitations aquacoles doit être tenu conformément à l’art. 22, al. 1 et 2, OFE[^93-3].[^93-4]
+
+<sup>3</sup> Le registre des exploitations aquacoles doit être tenu conformément à l’art. 22, al. 1 et 2, OFE[^93-3].[^93-4]
 
 [^93-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^93-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
@@ -1537,7 +1541,7 @@ Le registre des animaux doit comporter les informations suivantes, classées par
 
 <sup>2</sup> Elle doit être adressée à l’autorité du canton où il est prévu de détenir les animaux.
 
-- [tab] <sup>3</sup> Pour les cirques et les ménageries itinérantes, le canton compétent est celui dans lequel se trouvent les quartiers d’hiver ou les installations fixes pour les animaux. Si tous deux sont situés à l’étranger, le canton où le cirque ou l’exposition d’animaux itinérante entend donner sa première représentation délivre l’autorisation en tenant compte du permis d’importation octroyé par l’OSAV.
+<sup>3</sup> Pour les cirques et les ménageries itinérantes, le canton compétent est celui dans lequel se trouvent les quartiers d’hiver ou les installations fixes pour les animaux. Si tous deux sont situés à l’étranger, le canton où le cirque ou l’exposition d’animaux itinérante entend donner sa première représentation délivre l’autorisation en tenant compte du permis d’importation octroyé par l’OSAV.
 
 [^94-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
@@ -1663,7 +1667,7 @@ Doit être titulaire d’une autorisation cantonale quiconque:[^101-1]
   - 6\. 100 reptiles,
   - 7\. la descendance de plus de 25 couples d’oiseaux d’une taille inférieure ou égale à celle des perruches callopsittes, la descendance de plus de 10 couples d’oiseaux d’une taille supérieure à celle de la perruche callopsitte ou de plus de 5 couples d’aras ou de cacatoès;
 
-- d.[^101-2] ...
+- d.[^101-2] …
 - e.[^101-3] se charge à titre professionnel des soins des onglons de bovins ou des sabots d’équidés, sans avoir suivi une formation au sens de l’art. 192, al. 1, let. a.
 
 [^101-1]: Erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
@@ -1725,7 +1729,7 @@ Dans les cas suivants, il suffit que la personne responsable de la prise en char
 
 - a. dans les pensions et refuges pour animaux d’une capacité maximale de 19 places;
 - b.[^102-2] dans les autres établissements où sont pris en charge au maximum 19 animaux à titre professionnel;
-- [tab] c. et d.[^102-3] …
+- c. et d.[^102-3] …
 
 <sup>3</sup> Dans les pensions et refuges pour animaux d’une capacité maximale de 5 places ou dans les autres établissements de prise en charge professionnelle d’animaux d’une capacité maximale de 5 places, il suffit que la personne responsable de la prise en charge des animaux dispose de la formation requise pour la détention de l’espèce animale prise en charge.
 
@@ -2245,7 +2249,8 @@ Le requérant doit établir que le but de l’expérience:
 - a. a un rapport avec la sauvegarde et la protection de la vie ou de la santé humaines ou animales;
 - b. est présumé apporter des connaissances nouvelles sur des phénomènes vitaux essentiels, ou
 - c. est utile à la protection de l’environnement naturel.
-- [tab] <sup>2</sup> Il doit en outre prouver que le but de l’expérience ne peut pas être atteint par des méthodes qui ne nécessitent pas d’expériences sur animaux et qui sont fiables en l’état actuel des connaissances.
+
+<sup>2</sup> Il doit en outre prouver que le but de l’expérience ne peut pas être atteint par des méthodes qui ne nécessitent pas d’expériences sur animaux et qui sont fiables en l’état actuel des connaissances.
 
 <sup>3</sup> La méthode doit permettre, compte tenu des connaissances les plus récentes, d’atteindre le but de l’expérience.
 
@@ -3327,7 +3332,7 @@ Les personnes qui ont acquis leurs qualifications professionnelles à l’étran
 [^200a-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^200a-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^200a-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^200a-4]: La liste des autorités compétentes peut être consultée sous: www.sbfi.admin.ch &gt; Formation &gt; Reconnaissance de diplômes étrangers.
+[^200a-4]: La liste des autorités compétentes peut être consultée sous: [www.sbfi.admin.ch](http://www.sbfi.admin.ch)&gt; Formation &gt; Reconnaissance de diplômes étrangers.
 [^200a-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^200a-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^200a-7]: [RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
@@ -3395,7 +3400,7 @@ Les formations visées à l’art. 203 peuvent être dispensées par:
 <sup>2</sup> La certification visée à l’al. 1, let. c, doit avoir été octroyée par un organe de certification des systèmes de management accrédité selon l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^205-4].
 
 [^205-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^205-2]: La norme citée peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^205-2]: La norme citée peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 [^205-3]: La norme citée peut être consultée et obtenue auprès du secrétariat eduQua, Oerlikonerstrasse 38, 8057 Zurich.
 [^205-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
@@ -3423,7 +3428,7 @@ Est punie conformément à l’art. 28, al. 3, LPA et pour autant que l’art. 2
 - b. contrevient aux dispositions concernant la formation des chiens au travail de défense (art. 74);
 - c. contrevient aux dispositions concernant la formation des chiens de chasse, des chiens de protection des troupeaux et des chiens de conduite des troupeaux (art. 75);
 - d. utilise sans autorisation des appareils qui donnent des décharges électriques ou qui émettent des signaux sonores très désagréables pour le chien à des fins thérapeutiques ou ne respecte pas les exigences en matière de documentation sur ce point (art. 76, al. 3 et 4);
-- [tab] d<sup>bis</sup>.[^206a-1] ne respecte pas son devoir d’information au sens de l’art. 76*a*, al. 1;
+- d<sup>bis</sup>.[^206a-1] ne respecte pas son devoir d’information au sens de l’art. 76*a*, al. 1;
 - e. contrevient à l’obligation d’annoncer les accidents causés par des chiens (art. 78);
 - f. met dans le commerce sans autorisation des systèmes de stabulation et des équipements d’étables fabriqués en série destinés à des animaux de rente (art. 81);
 - g. exerce une des activités visées à l’art. 101, let. b, c ou e, et ne dispose pas d’autorisation ou ne remplit pas les conditions de l’art. 102;
@@ -3560,7 +3565,7 @@ Les autorités cantonales communiquent à l’OSAV tous les jugements pénaux et
 
 <sup>3</sup> Chaque année, le service cantonal spécialisé établit un rapport selon le modèle de l’OSAV où il présente ses activités de contrôle et les décisions qu’il a prises.
 
-<sup>4</sup> et <sup>5</sup> ...[^213-4]
+<sup>4</sup> et <sup>5</sup> …[^213-4]
 
 [^213-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 26 oct. 2011 sur la coordination des contrôles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^213-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
@@ -3744,7 +3749,7 @@ Annexe 1[^t-1]
 
 ## Exigences minimales pour la détention d’animaux domestiques
 
-[^t-1]: Mise à jour selon le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) et le ch. II de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-1]: Mise à jour par le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) et le ch. II de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 Remarque préliminaire
 
@@ -3760,7 +3765,7 @@ Tableau 1
 <tr><td>1 Stabulation entravée<sup>2</sup></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
 <tr><td>11 Largeur de la couche par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>100<sup>3</sup></td><td>110<sup>3</sup></td><td colspan="3">120<sup>3</sup></td></tr>
 <tr><td>12 Longueur de la couche</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>121 Couche courte<sup>4</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>120</td><td>130</td><td>145</td><td>155</td><td>165<sup>3</sup></td><td>185<sup>3,</sup> <sup>5</sup></td><td colspan="3">195<sup>3</sup></td></tr>
+<tr><td>121 Couche courte<sup>4</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>120</td><td>130</td><td>145</td><td>155</td><td>165<sup>3</sup></td><td>185<sup>3, 5</sup></td><td colspan="3">195<sup>3</sup></td></tr>
 <tr><td>122 Couche moyenne</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>180<sup>3</sup></td><td>200<sup>3</sup></td><td colspan="3">240<sup>3</sup></td></tr>
 <tr><td>2 Détention en box</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
 <tr><td>21 Largeur</td><td>cm</td><td>85</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
@@ -4136,7 +4141,7 @@ Annexe 2[^t-2]
 
 ## Exigences minimales concernant la détention d’animaux sauvages (avec ou sans autorisation)
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Mise à jour selon l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) et le ch. II de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Mise à jour par l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) et le ch. II de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 Remarques préliminaires
 
@@ -4858,7 +4863,7 @@ Annexe 3[^t-3]
 
 ## Exigences minimales pour la détention d’animaux d’expérience
 
-[^t-3]: Mise à jour selon le ch. II de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-3]: Mise à jour par le ch. II de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 Remarques préliminaires
 
@@ -4988,7 +4993,7 @@ Annexe 4[^t-4]
 
 ## Espace minimal requis pour le transport d’animaux de rente
 
-[^t-4]: Mise à jour selon le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)) et le ch. II al. 1 de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^t-4]: Mise à jour par le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)) et le ch. II al. 1 de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 Remarques préliminaires
 
@@ -5057,7 +5062,7 @@ Annexe 5[^t-5]
 
 ## Dispositions transitoires
 
-[^t-5]: Mise à jour selon le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) et l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+[^t-5]: Mise à jour par le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) et l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
 
 Remarque préliminaire
 

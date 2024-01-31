@@ -4,11 +4,11 @@ title: Ordinanza del 23 aprile 2008 sulla protezione degli animali (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: it
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20220601-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20240201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220601/it"
 
 (OPAn)
 
-del 23 aprile 2008 (Stato 1° giugno 2022)
+del 23 aprile 2008 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -83,7 +83,7 @@ Ai sensi della presente ordinanza, si intendono per:
   - 3\. *di altri animali*: l’impiego a titolo professionale di un prodotto o di una caratteristica comportamentale dell’animale;
 
 - p.[^2-2] *equidi*: gli animali addomesticati della specie equina, ovvero cavalli, pony asini, muli e bardotti;
-- q.[^2-3] *...*
+- q.[^2-3] *…*
 - r. *bovini:* gli animali addomesticati della specie bovina, inclusi yak e bufali;
 - s. *pensione o rifugio per animali**:* centro di detenzione che prende a pensione o accoglie e accudisce animali a cui il proprietario ha rinunciato o che sono stati abbandonati;
 - t.[^2-4] *sistema d’informazione animex-ch*: sistema d’informazione ai sensi dell’ordinanza animex-ch del 1° settembre 2010[^2-5];
@@ -1137,7 +1137,8 @@ I provvedimenti per correggere il comportamento dei cani devono essere adeguati 
   - 1\. collari a strozzo senza arresto,
   - 2\. collari con aculei interni,
   - 3\. altri strumenti ausiliari di conduzione muniti di elementi sporgenti verso l’interno;
-  - c. trattare i cani con eccessivo rigore, ad esempio colpirli con oggetti duri.[^73-1]
+
+- c. trattare i cani con eccessivo rigore, ad esempio colpirli con oggetti duri.[^73-1]
 
 <sup>3</sup> Per il traino possono essere utilizzati soltanto cani idonei al riguardo. Non sono idonei, in particolare, gli animali malati, quelli in gestazione avanzata o in lattazione. I cani devono essere bardati adeguatamente.
 
@@ -1286,7 +1287,7 @@ I veterinari, i medici, i responsabili di pensioni o rifugi per animali, gli add
 
 <sup>1</sup> Una volta ricevuta la notifica, il servizio cantonale competente procede alla verifica dei fatti. A tal fine può avvalersi di esperti.
 
-<sup>2</sup> ...[^79-1]
+<sup>2</sup> …[^79-1]
 
 <sup>3</sup> Se dalla verifica dei fatti emerge un disturbo comportamentale del cane, in particolare un comportamento oltremodo aggressivo, il servizio cantonale competente dispone le misure necessarie.[^79-2]
 
@@ -1349,24 +1350,27 @@ Soggiacciono all’obbligo di autorizzazione gli impianti di stabulazione seguen
 
 <sup>3</sup> Il richiedente deve mettere a disposizione a titolo gratuito i sistemi e gli impianti di stabulazione destinati alla verifica.
 
-<sup>4</sup> L’USAV rilascia l’autorizzazione. Può limitarne la durata e vincolarla a condizioni e oneri.
+<sup>3bis</sup>
+
+L’USAV può avvalersi di esperti, come specialisti delle autorità cantonali, scienziati e specialisti in questioni concernenti la protezione e la detenzione degli animali nonché la costruzione di stalle per:
+
+- a. tutte le questioni relative all’autorizzazione di sistemi e impianti di stabulazione;
+- b. la valutazione delle domande e dei risultati delle verifiche funzionali.[^82-1]
+
+<sup>4</sup> Esso rilascia l’autorizzazione. Può limitarne la durata e vincolarla a condizioni e oneri.[^82-2]
 
 <sup>5</sup> L’autorizzazione può prevedere deroghe ai requisiti minimi di cui nell’allegato 1, purché i sistemi e gli impianti di stabulazione siano conformi a una detenzione adeguata dell’animale.
 
 <sup>6</sup> L’autorizzazione può essere revocata se la detenzione non risulta più rispettosa degli animali in seguito all’acquisizione di nuove conoscenze oppure se nella pratica emergono gravi carenze.
 
+[^82-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+[^82-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+
 #### Art. 83
 
-**Commissione per gli impianti di stabulazione**
+[^83-1]
 
-<sup>1</sup> Il Consiglio federale nomina una Commissione consultiva. Essa è composta di 15 membri al massimo e consta segnatamente di rappresentanti della Confederazione e dei Cantoni, come pure di scienziati e di specialisti in questioni concernenti la protezione e la detenzione degli animali nonché la costruzione di stalle.[^83-1]
-
-<sup>2</sup> Il Consiglio federale ne designa il presidente. Per il resto la Commissione si costituisce da sé e redige il suo regolamento interno. L’USAV ne gestisce la segreteria.[^83-2]
-
-<sup>3</sup> L’USAV può far capo alla Commissione per tutte le questioni relative all’autorizzazione di sistemi e di impianti di stabulazione. La Commissione si pronuncia sulle domande e sui risultati delle verifiche funzionali che l’USAV le sottopone.
-
-[^83-1]: Nuovo testo giusta il n. I 6.4 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^83-2]: Nuovo testo giusta il n. I 6.4 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^83-1]: Abrogato dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
 
 #### Art. 84
 
@@ -1717,7 +1721,7 @@ Nei seguenti casi è sufficiente che la persona responsabile dell’accudimento 
 
 - a. nelle pensioni o nei rifugi con al massimo 19 posti;
 - b.[^102-2] nelle altre forme di accudimento professionale di al massimo 19 animali;
-- [tab] c. e d.[^102-3]
+- c. e d.[^102-3] …
 
 <sup>3</sup> Nelle pensioni o nei rifugi con al massimo 5 posti o nelle altre forme di accudimento professionale di al massimo 5 animali è sufficiente che la persona responsabile dell’accudimento abbia conseguito la formazione richiesta per la detenzione delle specie animali di cui si occupa.
 
@@ -3192,7 +3196,11 @@ Ai sensi della presente ordinanza si intende per formazione agricola:
 - b. una formazione professionale superiore nelle professioni di cui alla lettera a;
 - c. una formazione presso una scuola universitaria professionale o un’università nelle professioni di cui alla lettera a;
 - d. una formazione equivalente per una professione specifica nel settore agricolo.
-- [tab] <sup>2</sup> Alla formazione professionale di base di cui al capoverso 1 lettera a è equiparata qualsiasi altra formazione professionale di base con un certificato federale di formazione pratica o un attestato federale di capacità, integrati da:
+
+<sup>2</sup>
+
+Alla formazione professionale di base di cui al capoverso 1 lettera a è equiparata qualsiasi altra formazione professionale di base con un certificato federale di formazione pratica o un attestato federale di capacità, integrati da:
+
 - a. un corso di formazione in ambito agricolo concluso, disciplinato in modo unitario dai Cantoni in collaborazione con l’organizzazione del mondo del lavoro determinante; o
 - b. un’attività pratica comprovata di gestore, cogestore o impiegato in un’azienda agricola per almeno tre anni.
 
@@ -3308,7 +3316,7 @@ Le persone che dispongono di una qualifica professionale estera prima di esercit
 [^200a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^200a-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^200a-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^200a-4]: L’elenco delle autorità competenti è disponibile su: www.sbfi.admin.ch &gt; Formazione &gt; Riconoscimento dei diplomi esteri.
+[^200a-4]: L’elenco delle autorità competenti è disponibile su: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Formazione &gt; Riconoscimento dei diplomi esteri.
 [^200a-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^200a-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^200a-7]: [RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
@@ -3378,7 +3386,7 @@ Le formazioni di cui all’articolo 203 possono essere offerte da:
 <sup>2</sup> La certificazione di cui al capoverso 1 lettera c deve essere stata rilasciata da un organismo di certificazione per i sistemi di gestione accreditato secondo l’ordinanza del 17 giugno 1996[^205-4] sull’accreditamento e sulla designazione.
 
 [^205-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^205-2]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^205-2]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 [^205-3]: La norma menzionata può essere consultata e ottenuta presso la segreteria eduQua, Oerlikonerstrasse 38, 8057 Zurigo.
 [^205-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
@@ -3406,7 +3414,7 @@ Secondo l’articolo 28 capoverso 3 LPAn e se non è applicabile l’articolo 26
 - b. viola le prescrizioni sull’addestramento di cani per i servizi di difesa (art. 74);
 - c. viola le prescrizioni sull’addestramento di cani da caccia, di cani da protezione del bestiame e di cani da conduzione del bestiame (art. 75);
 - d. impiega senza autorizzazione, a scopi terapeutici, apparecchi a scarica elettrica o che emettono segnali acustici molto sgradevoli per il cane oppure non rispetta i relativi obblighi di documentazione (art. 76 cpv. 3 e 4);
-- [tab] d<sup>bis</sup>.[^206a-1]non adempie gli obblighi di informazione di cui all’articolo 76*a* capoverso 1;
+- d<sup>bis</sup>.[^206a-1] non adempie gli obblighi di informazione di cui all’articolo 76*a* capoverso 1;
 - e. viola l’obbligo di notifica di incidenti con cani (art. 78);
 - f. mette in commercio senza autorizzazione sistemi e impianti di stabulazione fabbricati in serie destinati ad animali da reddito (art. 81);
 - g. esercita le attività di cui all’articolo 101 lettere b, c o e senza disporre dell’autorizzazione o senza soddisfare i requisiti in materia di personale di cui all’articolo 102;
@@ -4538,8 +4546,6 @@ Requisiti particolari
 <tr><td>2) Profondità variabile con bassofondo.</td></tr>
 </table>
 
-Tabella 5
-
 ## Rettili
 
 Osservazioni preliminari
@@ -4549,6 +4555,8 @@ Osservazioni preliminari
 - C. I parchi per i rettili in grado di difendersi (come le tartarughe azzannatrici e le tartarughe alligatore), per i rettili velenosi (come gli elodermi e i serpenti velenosi), i boidi e i sauri di grossa taglia devono essere allestiti e gestiti tenendo in debita considerazione gli aspetti legati alla sicurezza. I parchi devono essere dotati di chiusure di sicurezza (lucchetti, catenacci ecc.). Le detenzioni di animali aperte al pubblico devono essere munite di vetri di sicurezza e di rifugi o strutture in cui rinchiudere gli animali.
 - D. Gli animali possono essere tenuti temporaneamente in parchi più piccoli in caso di quarantena, per il trattamento di una malattia o di un infortunio, per l’adattamento, per la riproduzione e l’allevamento, per il letargo dovuto all’inverno o al freddo nonché per l’estivazione.
 - E. È indicata la profondità dell’acqua nel punto più basso del bacino. Per alcune specie devono inoltre essere disponibili settori meno profondi.
+
+Tabella 5
 
 ## Rettili
 
@@ -4619,14 +4627,14 @@ Osservazioni preliminari
 <tr><td>35 Eloderma orrido (*Heloderma horridum*)</td><td>a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="6">3</td><td>2×2</td><td colspan="2">–</td><td>3) 4) 5) 7) 9) 12) 26)</td></tr>
 <tr><td>35a Mostro di Gila (*Heloderma suspectum*)</td><td>a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 7) 9) 12) 26)</td></tr>
 <tr><td>Varani (*Varanidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>36 Varani terricoli di grossa taglia provenienti dalle zone aride[^annexu1-lvlu2-1]</td><td>a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 9) 12) 26) determinate specie 4) 6) 7) 8)</td></tr>
+<tr><td>36 Varani terricoli di grossa taglia provenienti dalle zone aride[^annexu1-lvlu1-2]</td><td>a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 9) 12) 26) determinate specie 4) 6) 7) 8)</td></tr>
 <tr><td>37 Varani terricoli di grossa taglia provenienti da zone semiaride e umide (*Varanus bengalensis, V. komodoensis, V. nebulosus*)</td><td>a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="2">–</td><td>2) 3) 5) 6) determinate specie 7) 8) 9) 12) 26)</td></tr>
-<tr><td>38 Varani arboricoli di grossa taglia provenienti da zone umide[^annexu1-lvlu2-2]</td><td>a)</td><td>2</td><td>5×2</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="2">–</td><td>2) 3) 5) 6) 8) 9) 12) 26)</td></tr>
-<tr><td>39 Varani semiacquatici di grossa taglia[^annexu1-lvlu2-3]</td><td>a)</td><td>2</td><td>5×3</td><td>2×2</td><td colspan="2">0,5</td><td colspan="6">2</td><td>2×2</td><td colspan="2">1×1</td><td>2) 3) 5) 6) 8) 9) 12) 18) 26)</td></tr>
+<tr><td>38 Varani arboricoli di grossa taglia provenienti da zone umide[^annexu1-lvlu1-3]</td><td>a)</td><td>2</td><td>5×2</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="2">–</td><td>2) 3) 5) 6) 8) 9) 12) 26)</td></tr>
+<tr><td>39 Varani semiacquatici di grossa taglia[^annexu1-lvlu1-4]</td><td>a)</td><td>2</td><td>5×3</td><td>2×2</td><td colspan="2">0,5</td><td colspan="6">2</td><td>2×2</td><td colspan="2">1×1</td><td>2) 3) 5) 6) 8) 9) 12) 18) 26)</td></tr>
 <tr><td>40 Varano acquatico (*Varanus mertensi*)</td><td>a)</td><td>2</td><td>2×2</td><td>3×2</td><td colspan="2">0,5</td><td colspan="6">2</td><td>1×1</td><td colspan="2">1×1</td><td>2) 3) 5) 8) 9) 12) 18) 26)</td></tr>
 <tr><td>41 Varani erbivori di grossa taglia (*Varanus mabitang, V. olivaceus*)</td><td>a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="2">–</td><td>2) 3) 5) 6) 8) 9) 12) 25) 26)</td></tr>
 <tr><td>Pitonidi (*Pythonidae*) e boidi (*Boidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>42 Boidi di grossa taglia[^annexu1-lvlu2-4]</td><td>a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,75</td><td>0,2×0,2</td><td colspan="2">–</td><td>2) 3) 5) 10) 12) determinate specie 4)</td></tr>
+<tr><td>42 Boidi di grossa taglia[^annexu1-lvlu1-5]</td><td>a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,75</td><td>0,2×0,2</td><td colspan="2">–</td><td>2) 3) 5) 10) 12) determinate specie 4)</td></tr>
 <tr><td>43 Anaconda (*Eunectes* spp.)</td><td>a)</td><td>2</td><td>1×0,5</td><td>1×0,5</td><td colspan="2">0,2</td><td colspan="6">0,75</td><td>0,2×0,2</td><td colspan="2">0,1×0,1</td><td>2) 3) 5) 12) 17) 18)</td></tr>
 <tr><td>43a Pitoni e boa di piccola e media taglia (p. es. *Boa constrictor, Epicrates cenchria,* *Morelia spilota,* *Python curtus, P. regius*)</td><td></td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,75</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 9) determinate specie 2) 8)</td></tr>
 <tr><td>43b Pitone verde e Corallus (*Morelia viridis, Corallus* spp.)</td><td></td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,75</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 8)</td></tr>
@@ -4645,11 +4653,11 @@ Osservazioni preliminari
 <tr><td>Viperidi (*Viperidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td>54 Vipere terrestri (*Atractaspididae* spp., *Homoroselaps* spp.)</td><td>a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>5) 7) 9) 12) 23)</td></tr>
 <tr><td>55 Vipere e crotali terricoli, escluse specie sidewinder</td><td>a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 11) 12) 23) determinate specie 4) 13) 26)</td></tr>
-<tr><td>56 Sidewinder e crotali[^annexu1-lvlu2-5]</td><td>a)</td><td>2</td><td>1,5×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 11) 12) 23) 24) determinate specie 4)</td></tr>
+<tr><td>56 Sidewinder e crotali[^annexu1-lvlu1-6]</td><td>a)</td><td>2</td><td>1,5×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 11) 12) 23) 24) determinate specie 4)</td></tr>
 <tr><td>57 Vipere e crotali arboricoli</td><td>a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,7</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 8) 12) 23) determinate specie 13)</td></tr>
 <tr><td>58 Mocassino acquatico (*Agkistrodon piscivorus*)</td><td>a)</td><td>2</td><td>0,5×0,5</td><td>0,5×0,5</td><td colspan="2">0,1</td><td colspan="6">0,5</td><td>0,5×0,1</td><td colspan="2">0,5×0,1</td><td>3) 4) 5) 11) 12) 23)</td></tr>
 <tr><td>Coccodrilli (*Crocodylia*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>59 Coccodrilli[^annexu1-lvlu2-6]</td><td>a)</td><td>1</td><td>4×2</td><td>4×2</td><td colspan="2">0,5</td><td colspan="6">0,5</td><td>2×2</td><td colspan="2">2×2</td><td>2) 3) 5) 6) 12) 18) 26) tutti gli animali giovani e gli animali adulti di determinate specie 11)</td></tr>
+<tr><td>59 Coccodrilli[^annexu1-lvlu1-7]</td><td>a)</td><td>1</td><td>4×2</td><td>4×2</td><td colspan="2">0,5</td><td colspan="6">0,5</td><td>2×2</td><td colspan="2">2×2</td><td>2) 3) 5) 6) 12) 18) 26) tutti gli animali giovani e gli animali adulti di determinate specie 11)</td></tr>
 <tr><td>Rinocefali (*Rhynchocephalia*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td>60 Tuatara (*Sphenodon* spp.)</td><td>a)</td><td>2</td><td>4×3</td><td>2×1</td><td colspan="2">0,4</td><td colspan="6">0,5</td><td>4×3</td><td colspan="2">–</td><td>3) 5) 7) 9) 16)</td></tr>
 </table>
@@ -4692,12 +4700,12 @@ Requisiti particolari
 <tr><td>26) Per determinate specie attive di giorno occorre utilizzare lampade chiare (p. es. HQL, HQI o lampade comparabili) per illuminare i luoghi di riscaldamento, tranne nel caso in cui gli animali siano tenuti all’aperto o in parchi con irraggiamento solare diretto. Non è consentito utilizzare esclusivamente il riscaldamento a terra o lampade a raggi infrarossi.</td></tr>
 </table>
 
-[^annexu1-lvlu2-1]: *Varanus albigularis, V. exanthematicus, V. giganteus, V. gouldii, V. griseus, V. nesterovi, V. panoptes, V. rosenbergi, V. spenceri, V. varius, V. yemenensis*.
-[^annexu1-lvlu2-2]: *Varanus caerulivirens, V. cerambonensis, V. doreanus, V. dumerilii, V. finschi, V. indicus, V. jobiensis, V. juxtindicus, V. macraei, V. melinus, V. obor,* *V. rudicollis**, V. salvadorii, V. spinulosus, V. yuwonoi.*
-[^annexu1-lvlu2-3]: *Varanus bangonorum*, *V. cumingi*, *V. dalubhasa*, *V. marmoratus*, *V. niloticus*, *V. nuchalis*, *V. ornatus*, *V. palawanensis*, *V. rasmusseni*, *V.* *salvator*, *V. togianus*.
-[^annexu1-lvlu2-4]: *Epicrates angulifer, Liasis olivaceus, L. oenpelliensis, L. papuanus, Morelia amethistina, M. boeleni, Python molurus, P. natalensis, P. reticulatus, P**.* *sebae.*
-[^annexu1-lvlu2-5]: *Bitis peringueyi, B. schneideri, Cerastes* spp.*, Crotalus cerastes, Eristicophis macmahoni, Pseudocerastes persicus.*
-[^annexu1-lvlu2-6]: *Alligator* spp., *Caiman* spp., *Crocodylus* spp., *Gavialis* spp., *Mecistops* spp., *Melanosuchus* spp., *Osteolaemus* spp., *Paleosuchus* spp., *Tomistoma* spp.
+[^annexu1-lvlu1-2]: *Varanus albigularis, V. exanthematicus, V. giganteus, V. gouldii, V. griseus, V. nesterovi, V. panoptes, V. rosenbergi, V. spenceri, V. varius, V. yemenensis*.
+[^annexu1-lvlu1-3]: *Varanus caerulivirens, V. cerambonensis, V. doreanus, V. dumerilii, V. finschi, V. indicus, V. jobiensis, V. juxtindicus, V. macraei, V. melinus, V. obor,* *V. rudicollis**, V. salvadorii, V. spinulosus, V. yuwonoi.*
+[^annexu1-lvlu1-4]: *Varanus bangonorum*, *V. cumingi*, *V. dalubhasa*, *V. marmoratus*, *V. niloticus*, *V. nuchalis*, *V. ornatus*, *V. palawanensis*, *V. rasmusseni*, *V.* *salvator*, *V. togianus*.
+[^annexu1-lvlu1-5]: *Epicrates angulifer, Liasis olivaceus, L. oenpelliensis, L. papuanus, Morelia amethistina, M. boeleni, Python molurus, P. natalensis, P. reticulatus, P**.* *sebae.*
+[^annexu1-lvlu1-6]: *Bitis peringueyi, B. schneideri, Cerastes* spp.*, Crotalus cerastes, Eristicophis macmahoni, Pseudocerastes persicus.*
+[^annexu1-lvlu1-7]: *Alligator* spp., *Caiman* spp., *Crocodylus* spp., *Gavialis* spp., *Mecistops* spp., *Melanosuchus* spp., *Osteolaemus* spp., *Paleosuchus* spp., *Tomistoma* spp.
 
 Tabella 6
 

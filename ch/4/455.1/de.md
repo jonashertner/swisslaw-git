@@ -4,11 +4,11 @@ title: Tierschutzverordnung vom 23. April 2008 (TSchV)
 short: TSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: de
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20220601-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20240201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220601/de"
 
 (TSchV)
 
-vom 23. April 2008 (Stand am 1. Juni 2022)
+vom 23. April 2008 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1343,24 +1343,27 @@ Bewilligt werden müssen folgende Stalleinrichtungen:
 
 <sup>3</sup> Die Gesuchstellerin oder der Gesuchsteller hat die Aufstallungssysteme und Stalleinrichtungen für die Prüfung unentgeltlich zur Verfügung zu stellen.
 
-<sup>4</sup> Das BLV erteilt die Bewilligung. Es kann sie befristen und mit Bedingungen und Auflagen verbinden.
+<sup>3bis</sup>
+
+Das BLV kann Expertinnen und Experten, wie Fachpersonen kantonaler Behörden, Wissenschaftlerinnen und Wissenschaftler sowie Fachpersonen für Tierschutzfragen, Tierhaltung und Stallbau, beiziehen für:
+
+- a. alle mit der Bewilligung von Aufstallungssystemen und Stalleinrichtungen zusammenhängenden Fragen;
+- b. die Beurteilung von Gesuchen und Ergebnissen der praktischen Prüfungen.[^82-1]
+
+<sup>4</sup> Es erteilt die Bewilligung. Es kann sie befristen und mit Bedingungen und Auflagen verbinden.[^82-2]
 
 <sup>5</sup> Die Bewilligung kann Abweichungen von den in Anhang 1 aufgeführten Mindestanforderungen vorsehen, sofern die Aufstallungssysteme und Stalleinrichtungen den Anforderungen an eine tiergerechte Haltung entsprechen.
 
 <sup>6</sup> Eine Bewilligung kann entzogen werden, wenn aufgrund neuer Erkenntnisse die Tiergerechtheit verneint werden muss oder wenn sich in der Praxis wesentliche Mängel zeigen.
 
+[^82-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+[^82-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+
 #### Art. 83
 
-**Kommission für Stalleinrichtungen**
+[^83-1]
 
-<sup>1</sup> Der Bundesrat wählt eine beratende Kommission. Diese zählt höchstens 15 Mitglieder und setzt sich namentlich aus Vertreterinnen und Vertretern des Bundes und der Kantone sowie aus Wissenschaftlerinnen und Wissenschaftlern und Fachleuten für Tierschutzfragen, Tierhaltung und Stallbau zusammen.[^83-1]
-
-<sup>2</sup> Der Bundesrat bestimmt die Präsidentin oder den Präsidenten. Im Übrigen konstituiert sich die Kommission selbst. Sie erstellt eine Geschäftsordnung. Das BLV führt das Sekretariat.[^83-2]
-
-<sup>3</sup> Das BLV kann die Kommission in allen mit der Bewilligung von Aufstallungssystemen und Stalleinrichtungen zusammenhängenden Fragen beiziehen. Die Kommission nimmt Stellung zu den Gesuchen und den Ergebnissen der praktischen Prüfungen, die das BLV ihr vorlegt.
-
-[^83-1]: Fassung gemäss Ziff. I 6.4 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^83-2]: Fassung gemäss Ziff. I 6.4 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^83-1]: Aufgehoben durch Ziff. I der V vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
 
 #### Art. 84
 
