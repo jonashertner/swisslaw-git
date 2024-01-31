@@ -4,13 +4,12 @@ number: "122.201"
 title: Einführungsverordnung zum Ausländer- und Integrationsgesetz sowie zum Asylgesetz
 short: EV AIG und AsylG
 language: de
-version: 2022-11-01
-valid_until: 2024-01-31
-version_adopted: 2022-08-24
+version: 2024-02-01
+version_adopted: 2023-12-06
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.201"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2663/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3001/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2663/pdf_file"
 
 (EV AIG und AsylG)
 
-vom 20.05.2020 (Stand 01.11.2022)
+vom 20.05.2020 (Stand 01.02.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -95,6 +94,12 @@ beschliesst:
 - a Ausschaffungen,
 - b ausländerrechtliche Zwangsmassnahmen,
 - c den Vollzug von strafrechtlichen Landesverweisungen.
+
+### 1.2a Digitale Umzugsmeldung
+
+#### Art. 4a
+
+<sup>1</sup> Ausländische Personen mit Wohnsitz in der Schweiz können sich sinngemäss nach den Bestimmungen der Gesetzgebung über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer sowie unter den Voraussetzungen gemäss Anhang 1 digital an- und abmelden.
 
 ### 1.3 Kostenvorschuss im Beschwerdeverfahren
 
@@ -223,6 +228,31 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Juli 2020 in Kraft.
+
+## A1 Anhang 1 zu Artikel 4a
+
+#### Art. A1-1
+
+**Digitale Umzugsmeldung ausländischer Personen**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Aufenthaltsstatus</th><th>EU/EFTA, AUG</th><th>Digitale Umzugsmeldung, im Kanton</th><th>Digitale Umzugsmeldung, interkantonaler Zuzug</th><th>Digitale Umzugsmeldung, interkantonaler Wegzug</th></tr>
+<tr><td>Ausweis B</td><td>EU/EFTA</td><td>ja</td><td>ja</td><td>ja</td></tr>
+<tr><td>Ausweis C</td><td>EU/EFTA</td><td>ja</td><td>ja</td><td>ja</td></tr>
+<tr><td>Ausweis Ci</td><td>EU/EFTA</td><td>ja</td><td>nein</td><td>ja</td></tr>
+<tr><td>Ausweis G</td><td>EU/EFTA</td><td>nein</td><td>nein</td><td>nein</td></tr>
+<tr><td>Ausweis L</td><td>EU/EFTA</td><td>ja</td><td>ja</td><td>ja</td></tr>
+<tr><td>Ausweis B</td><td>AUG</td><td>ja</td><td>nein</td><td>ja</td></tr>
+<tr><td>Ausweis C</td><td>AUG</td><td>ja</td><td>nein</td><td>ja</td></tr>
+<tr><td>Ausweis Ci</td><td>AUG</td><td>ja</td><td>nein</td><td>ja</td></tr>
+<tr><td>Ausweis F</td><td>AUG</td><td>ja</td><td>nein</td><td>nein</td></tr>
+<tr><td>Ausweis G</td><td>AUG</td><td>nein</td><td>nein</td><td>nein</td></tr>
+<tr><td>Ausweis L</td><td>AUG</td><td>ja</td><td>nein</td><td>ja</td></tr>
+<tr><td>Ausweis N</td><td>AUG</td><td>nein</td><td>nein</td><td>nein</td></tr>
+<tr><td>Ausweis S</td><td>AUG</td><td>nein</td><td>nein</td><td>nein</td></tr>
+</table>
 
 Bern, 20. Mai 2020
 

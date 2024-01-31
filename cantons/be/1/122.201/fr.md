@@ -4,13 +4,12 @@ number: "122.201"
 title: "Ordonnance portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration"
 short: Oi LFAE
 language: fr
-version: 2022-11-01
-valid_until: 2024-01-31
-version_adopted: 2022-08-24
+version: 2024-02-01
+version_adopted: 2023-12-06
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.201"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2663/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3001/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2663/pdf_file"
 
 (Oi LFAE)
 
-du 20.05.2020 (état au 01.11.2022)
+du 20.05.2020 (état au 01.02.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -95,6 +94,12 @@ arrête:
 - a des renvois ou des expulsions,
 - b des mesures de contrainte relevant du droit des étrangers,
 - c l'exécution d'expulsions judiciaires.
+
+### 1.2a Annonce électronique des déménagements
+
+#### Art. 4a
+
+<sup>1</sup> Les personnes étrangères domiciliées en Suisse peuvent, aux conditions énoncées à l'annexe 1, annoncer leur arrivée ou leur départ en application par analogie des dispositions de la législation sur l'établissement et le séjour des Suissesses et des Suisses.
 
 ### 1.3 Avance de frais dans la procédure de recours
 
@@ -223,6 +228,31 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2020.
+
+## A1 Annexe 1 à l'article 4a
+
+#### Art. A1-1
+
+**Annonce électronique des déménagements des personnes étrangères**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Statut de séjour</th><th>UE/AELE, LEtr</th><th>Annonce électronique du déménagement, à l’intérieur du canton</th><th>Annonce électronique du déménagement, arrivée d’un autre canton</th><th>Annonce électronique du déménagement, départ vers un autre canton</th></tr>
+<tr><td>Permis B</td><td>UE/AELE</td><td>Oui</td><td>Oui</td><td>Oui</td></tr>
+<tr><td>Permis C</td><td>UE/AELE</td><td>Oui</td><td>Oui</td><td>Oui</td></tr>
+<tr><td>Permis Ci</td><td>UE/AELE</td><td>Oui</td><td>Non</td><td>Oui</td></tr>
+<tr><td>Permis G</td><td>UE/AELE</td><td>Non</td><td>Non</td><td>Non</td></tr>
+<tr><td>Permis L</td><td>UE/AELE</td><td>Oui</td><td>Oui</td><td>Oui</td></tr>
+<tr><td>Permis B</td><td>LEtr</td><td>Oui</td><td>Non</td><td>Oui</td></tr>
+<tr><td>Permis C</td><td>LEtr</td><td>Oui</td><td>Non</td><td>Oui</td></tr>
+<tr><td>Permis Ci</td><td>LEtr</td><td>Oui</td><td>Non</td><td>Oui</td></tr>
+<tr><td>Permis F</td><td>LEtr</td><td>Oui</td><td>Non</td><td>Non</td></tr>
+<tr><td>Permis G</td><td>LEtr</td><td>Non</td><td>Non</td><td>Non</td></tr>
+<tr><td>Permis L</td><td>LEtr</td><td>Oui</td><td>Non</td><td>Oui</td></tr>
+<tr><td>Permis N</td><td>LEtr</td><td>Non</td><td>Non</td><td>Non</td></tr>
+<tr><td>Permis S</td><td>LEtr</td><td>Non</td><td>Non</td><td>Non</td></tr>
+</table>
 
 Berne, le 20 mai 2020
 
