@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über die Hygiene beim Umgang m
 short: HyV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/183"
 language: de
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/183/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-183-20200701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/183/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-183-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20200701/de"
 
 (Hygieneverordnung EDI, HyV)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -230,6 +230,11 @@ Insbesondere müssen erforderlichenfalls folgende Anforderungen erfüllt sein:
 
 <sup>7</sup> Transportbehälter, die zur Beförderung von Lebensmitteln verwendet werden, die auf einer bestimmten Temperatur gehalten werden müssen, müssen so beschaffen sein, dass die Lebensmittel auf der geeigneten Temperatur gehalten werden können und dass eine Überwachung der Transporttemperatur möglich ist.
 
+<sup>8</sup> Ausrüstungen und Transportbehälter, die zur Beförderung oder Lagerung eines der in Anhang 6 der Verordnung des EDI vom 16. Dezember 2016[^12-1] betreffend die Information über Lebensmittel (LIV) genannten Stoffe oder Erzeugnisse, die Allergien oder andere unerwünschte Reaktionen auslösen, verwendet werden, dürfen nicht für die Beförderung oder Lagerung von Lebensmitteln verwendet werden, die diesen Stoff oder dieses Erzeugnis nicht enthalten, es sei denn, die Ausrüstungen und Transportbehälter wurden gereinigt und es wurde zumindest überprüft, dass sie keine sichtbaren Reste dieses Stoffes oder Erzeugnisses enthalten.[^12-2]
+
+[^12-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^12-2]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
 #### Art. 13
 
 **Ausrüstungen**
@@ -387,7 +392,12 @@ Die verantwortliche Person regelt den Zutritt betriebsfremder Personen, namentli
 
 <sup>3</sup> Tiefgefrorene Lebensmittel müssen bei –18 °C oder kälter gehalten werden. Die Kühlkette darf nicht unterbrochen werden. Die Lagertemperatur darf während des Transportes und beim Abtauen der Tiefkühlgeräte im Detailhandel kurzfristig erhöht werden. Die Produkttemperatur darf in den Randschichten –15 °C jedoch nicht übersteigen.
 
-<sup>4</sup> Tiefgefrorene Lebensmittel müssen vorverpackt sein. Ausgenommen sind Roh- oder Zwischenprodukte, die zur industriellen oder gewerblichen Verarbeitung bestimmt sind.
+<sup>4</sup>
+
+Tiefgefrorene Lebensmittel müssen vorverpackt sein. Ausgenommen sind:
+
+- a. Roh- oder Zwischenprodukte, die zur industriellen oder gewerblichen Verarbeitung bestimmt sind;
+- b. tiefgefrorene Lebensmittel im Einzelhandel zur direkten Abgabe an die Konsumentinnen und Konsumenten.[^25-1]
 
 <sup>5</sup> Tiefgefrorene Lebensmittel sind so aufzutauen, dass das Risiko der Entwicklung pathogener Mikroorganismen oder die Bildung von Toxinen in den Lebensmitteln auf ein Mindestmass beschränkt wird. Sie müssen bei einer Temperatur auftauen, die kein Gesundheitsrisiko birgt. Sofern Tauflüssigkeit ein Gesundheitsrisiko darstellt, muss diese abfliessen können. Aufgetaute Lebensmittel müssen so bearbeitet werden, dass das Risiko der Entwicklung pathogener Mikroorganismen oder der Bildung von Toxinen auf ein Mindestmass beschränkt wird.
 
@@ -400,6 +410,8 @@ In unmittelbaren Kontakt mit tiefgefrorenen Lebensmitteln dürfen nur folgende G
 - c. Kohlendioxid.
 
 <sup>7</sup> Die Vorgaben zur Überwachung der Temperaturen von tiefgefrorenen Lebensmitteln in Beförderungsmitteln sowie in Einlagerungs- und Lagereinrichtungen sind in Anhang 2 festgelegt.
+
+[^25-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 26
 
@@ -435,6 +447,36 @@ Für alle Lebensmittel, die in hermetisch verschlossenen Behältnissen an Konsum
 <sup>2</sup> Das Warmhalten von Speisen muss bei Temperaturen erfolgen, die die Vermehrung schädlicher Mikroorganismen verhindert.
 
 <sup>3</sup> Das Kühl- und das Warmhalten von Lebensmitteln und Speisen müssen mit geeigneten Temperaturmessgeräten sowie Kühl-, Tiefgefrier- oder Warmhalteeinrichtungen jederzeit gesichert sein und im Rahmen der Selbstkontrolle kontrolliert werden.
+
+## 4*a*. Kapitel: Umverteilung von Lebensmitteln
+
+[^chap4a-1]
+
+[^chap4a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
+#### Art. 27a
+
+<sup>1</sup>
+
+Lebensmittelbetriebe, die Lebensmittel umverteilen, müssen routinemässig überprüfen, ob die unter ihre Verantwortung fallenden Lebensmittel nicht gesundheitsschädlich und ob sie nach Artikel 7 Absatz 2 des Lebensmittelgesetzes vom 20. Juni 2014[^27a-1] für den Verzehr durch den Menschen geeignet sind. Fällt die Überprüfung zufriedenstellend aus, so können die Lebensmittelbetriebe die Lebensmittel im Einklang mit Absatz 2 umverteilen:
+
+- a. im Fall von Lebensmitteln, für die gemäss Artikel 13 Absatz 2 LIV[^27a-2] ein Verbrauchsdatum gilt, vor Ablauf dieses Datums;
+- b. im Fall von Lebensmitteln, für die gemäss Artikel 13 Absatz 1 LIV ein Mindesthaltbarkeitsdatum gilt, bis zu und nach diesem Datum; oder
+- c. im Fall von Lebensmitteln, für die gemäss Anhang 8 Ziffer 1.4 LIV kein Mindesthaltbarkeitsdatum vorgeschrieben ist, zu jedem beliebigen Zeitpunkt.
+
+<sup>2</sup>
+
+Lebensmittelbetriebe, die mit den unter Absatz 1 genannten Lebensmittel umgehen, bewerten, ob die Lebensmittel nicht gesundheitsschädlich und für den Verzehr durch den Menschen geeignet sind, wobei sie mindestens folgende Punkte berücksichtigen:
+
+- a. das Mindesthaltbarkeitsdatum oder das Verbrauchsdatum, wobei gewährleistet sein muss, dass die verbleibende Haltbarkeitsdauer ausreicht, um eine sichere Umverteilung und Verwendung durch die Endverbraucherin oder den Endverbraucher zu ermöglichen;
+- b. gegebenenfalls die Unversehrtheit der Verpackung;
+- c. die ordnungsgemässen Lager- und Beförderungsbedingungen, einschliesslich der geltenden Temperaturanforderungen;
+- d. gegebenenfalls das Datum des Einfrierens nach Anhang 8 Ziffer 3 LIV;
+- e. die organoleptischen Eigenschaften;
+- f. die Gewährleistung der Rückverfolgbarkeit.
+
+[^27a-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^27a-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 ## 5. Kapitel: Besondere Bestimmungen für Lebensmittel tierischer Herkunft
 
@@ -687,21 +729,9 @@ Verarbeitungsbetriebe müssen über Folgendes verfügen:
 
 <sup>1</sup> Rohstoffe für die Herstellung von ausgeschmolzenen tierischen Fetten und Grieben müssen hygienisch einwandfrei bei einer Kerntemperatur von nicht mehr als 7 °C transportiert und bis zum Ausschmelzen gelagert werden. Sie können jedoch ohne Kühlung gelagert und transportiert werden, wenn sie innerhalb von 12 Stunden nach dem Tag, an dem sie gewonnen wurden, ausgeschmolzen werden.
 
-<sup>2</sup>
+<sup>2–4</sup> …[^38-1]
 
-Grieben, die bei nicht mehr als 70 °C gewonnen werden, müssen wie folgt gelagert werden:
-
-- a. bei nicht mehr als 7 °C für höchstens 24 Stunden; oder
-- b. tiefgefroren.
-
-<sup>3</sup>
-
-Grieben, die bei über 70 °C gewonnen werden und einen Feuchtigkeitsgehalt von mindestens 10 Prozent (m/m) aufweisen, müssen wie folgt gelagert werden:
-
-- a. bei nicht mehr als 7 °C für maximal 48 Stunden oder einer anderen Zeit‑/Temperaturkombination, die dieselbe Wirkung hat; oder
-- b. tiefgefroren.
-
-<sup>4</sup> Für Grieben, die bei über 70 °C gewonnen werden und einen Feuchtigkeitsgehalt von unter 10 Prozent (m/m) aufweisen, gelten keine besonderen Lagervorschriften.
+[^38-1]: Aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 ### 5. Abschnitt: Lebende Muscheln
 
@@ -741,11 +771,13 @@ Während des Verkaufs oder der Lagerung von Fischereierzeugnissen dürfen:
 
 <sup>4</sup> Bei Arbeitsgängen wie Filetieren und Zerteilen ist darauf zu achten, dass die Filets und die Stücke nicht verunreinigt werden. Die Filets und die Stücke dürfen nur während der für ihre Herstellung erforderlichen Zeit auf den Arbeitstischen verbleiben. Fertige Filets und Stücke müssen umhüllt und erforderlichenfalls verpackt und unverzüglich nach ihrer Herstellung gekühlt werden.
 
-<sup>5</sup> Behältnisse für den Transport, den Versand oder die Lagerung von frischen Fischereierzeugnissen müssen wasserfest und so beschaffen sein, dass die Erzeugnisse nicht mit dem Schmelzwasser in Berührung bleiben.
+<sup>5</sup> Behältnisse für den Transport, den Versand oder die Lagerung von unverpackten zubereiteten frischen Fischereierzeugnissen, die in Eis gelagert werden, müssen so beschaffen sein, dass das Schmelzwasser entleert wird und die Fischereierzeugnisse nicht damit in Berührung kommen.[^41-1]
 
 <sup>6</sup> Sind Fischereierzeugnisse zum Tiefgefrieren bestimmt, so müssen sie so rasch als möglich tiefgefroren und so gehalten werden. Die Lagerräume müssen mit Temperaturschreibern ausgestattet sein, deren Temperaturfühler im wärmsten Bereich des Raumes angebracht sind.
 
 <sup>7</sup> Die verantwortliche Person muss die Fischereierzeugnisse einer organoleptischen Untersuchung unterziehen. Bei dieser Untersuchung muss insbesondere sichergestellt werden, dass die Fischereierzeugnisse die Frischekriterien erfüllen.
+
+[^41-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 42
 
@@ -943,7 +975,9 @@ Milch gilt nur dann als genussfertig, wenn sie einer ausreichenden Behandlung un
 
 <sup>2</sup> Sie müssen bei der Temperatur aufbewahrt und transportiert werden, die die hygienische Beschaffenheit des Erzeugnisses am besten gewährleistet. Die Temperatur sollte möglichst konstant sein.
 
-<sup>3</sup> Sie dürfen längstens während 21 Tagen nach dem Legedatum an Konsumentinnen und Konsumenten abgegeben werden.
+<sup>3</sup> …[^54-1]
+
+[^54-1]: Aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 55
 
@@ -996,9 +1030,12 @@ Werden Ausgangsprodukte tierischer Herkunft zur Herstellung eines Lebensmittels 
 
 #### Art. 59
 
-**Grundsatz**
+**Grundsatz**[^59-1]
 
-Für Sömmerungsbetriebe, in denen Milch verarbeitet wird, gehen die Bestimmungen dieses Kapitels den Artikeln 7, 9, 13, 14, 20 und 48 vor.
+Für Sömmerungsbetriebe, in denen Milch verarbeitet wird, gehen die Bestimmungen dieses Kapitels den Artikeln 7, 9, 13, 14, 20 und 48 sowie Artikel 14 Absatz 7 der Verordnung des EDI vom 23. November 2005[^59-2] über die Hygiene bei der Milchproduktion vor.
+
+[^59-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+[^59-2]: [SR 916.351.021.1](https://fedlex.data.admin.ch/eli/cc/2005/824)
 
 #### Art. 60
 
@@ -1075,7 +1112,9 @@ Sie müssen insbesondere folgende Anforderungen erfüllen:
 
 <sup>2</sup> Wird die Rohmilch nicht unmittelbar nach dem Melken verarbeitet, so ist sie innerhalb von zwei Stunden auf eine Temperatur von 8 °C oder tiefer abzukühlen und bis zur Verarbeitung bei dieser Temperatur zu halten.
 
-<sup>3</sup> Für die Herstellung von Käse darf die Rohmilch auf einer höheren Temperatur gehalten werden. Die Lagertemperatur darf jedoch höchstens 18 °C betragen. Liegt die Lagertemperatur über 8° C, so muss die Verarbeitung spätestens 24 Stunden nach der Gewinnung des ältesten Gemelkes erfolgen. Die Lebensmittelsicherheit ist jederzeit zu gewährleisten.
+<sup>3</sup> Für die Herstellung von Käse darf die Rohmilch auf einer höheren Temperatur gehalten werden, sofern dies aus technologischen Gründen notwendig und die Lebensmittelsicherheit jederzeit gewährleistet ist.[^65-1]
+
+[^65-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 ## 7. Kapitel: Besondere Bestimmungen für die mikrobiologische Untersuchung und die Probenahme
 
@@ -1145,10 +1184,11 @@ Diese Häufigkeit kann verringert werden:
 
 <sup>2</sup> Lebensmittelbetriebe, die genussfertige Lebensmittel herstellen, die ein durch *Listeria monocytogenes* verursachtes Risiko für die menschliche Gesundheit bergen könnten, haben im Rahmen ihres Probenahmeplans Proben aus den Verarbeitungsbereichen und den verwendeten Ausrüstungen auf *Listeria monocytogenes* zu untersuchen.
 
-<sup>3</sup> Lebensmittelbetriebe, die getrocknete Säuglingsanfangsnahrung oder getrocknete Lebensmittel für besondere medizinische Zwecke herstellen, die für Säuglinge unter sechs Monaten bestimmt sind und ein durch *Cronobacter* spp*. (Enterobacter sakazakii)* verursachtes Risiko bergen können, haben im Rahmen ihres Probenahmeplans die Verarbeitungsbereiche und die verwendeten Ausrüstungen auf *Enterobacteriaceae* zu untersuchen.
+<sup>3</sup> Lebensmittelbetriebe, die getrocknete Säuglingsanfangsnahrung oder getrocknete Lebensmittel für besondere medizinische Zwecke herstellen, die für Säuglinge unter sechs Monaten bestimmt sind und ein durch *Cronobacter* spp. verursachtes Risiko bergen können, haben im Rahmen ihres Probenahmeplans die Verarbeitungsbereiche und die verwendeten Ausrüstungen auf *Enterobacteriaceae* zu untersuchen.[^69-3]
 
 [^69-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 [^69-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
+[^69-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 70
 
@@ -1194,7 +1234,7 @@ Es werden aufgehoben:
 - a. Hygieneverordnung des EDI vom 23. November 2005[^73-1].
 - b. Verordnung des EDI vom 11. Mai 2009[^73-2] über die hygienische Milchverarbeitung in Sömmerungsbetrieben;
 
-[^73-1]: [[AS 2005 6521](https://fedlex.data.admin.ch/eli/oc/2005/813), [2006 5129](https://fedlex.data.admin.ch/eli/oc/2006/781), [2008 1167](https://fedlex.data.admin.ch/eli/oc/2008/210)[6125](https://fedlex.data.admin.ch/eli/oc/2008/842), [2009 2393](https://fedlex.data.admin.ch/eli/oc/2009/290), [2010 4773](https://fedlex.data.admin.ch/eli/oc/2010/679), [2013 5307](https://fedlex.data.admin.ch/eli/oc/2013/846)]
+[^73-1]: [[AS 2005 6521](https://fedlex.data.admin.ch/eli/oc/2005/813); [2006 5129](https://fedlex.data.admin.ch/eli/oc/2006/781); [2008 1167](https://fedlex.data.admin.ch/eli/oc/2008/210), [6125](https://fedlex.data.admin.ch/eli/oc/2008/842); [2009 2393](https://fedlex.data.admin.ch/eli/oc/2009/290); [2010 4773](https://fedlex.data.admin.ch/eli/oc/2010/679); [2013 5307](https://fedlex.data.admin.ch/eli/oc/2013/846)]
 [^73-2]: [[AS 2009 2395](https://fedlex.data.admin.ch/eli/oc/2009/291)]
 
 #### Art. 74
@@ -1211,6 +1251,14 @@ Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch
 
 [^74a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
 
+#### Art. 74b
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^74b-1]
+
+Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^74b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
 #### Art. 75
 
 **Inkrafttreten**
@@ -1223,7 +1271,7 @@ Anhang 1[^t-1]
 
 ## Mikrobiologische Kriterien für Lebensmittel
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 12. März 2018 ([AS 2018 1339](https://fedlex.data.admin.ch/eli/oc/2018/216)), der Berichtigung vom 30. Okt. 2018 ([AS 2018 3795](https://fedlex.data.admin.ch/eli/oc/2018/600)) und Ziff. II der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 12. März 2018 ([AS 2018 1339](https://fedlex.data.admin.ch/eli/oc/2018/216)), der Berichtigung vom 30. Okt. 2018 ([AS 2018 3795](https://fedlex.data.admin.ch/eli/oc/2018/600)), Ziff. II der V des EDI vom 27. Mai 2020 ([AS 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)) und vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 - Teil 1 Lebensmittelsicherheitskriterien
 - Teil 2 Prozesshygienekriterien
@@ -1252,39 +1300,39 @@ c = Anzahl der Probeeinheiten, deren Werte zwischen m und M liegen
 </table>
 
 <table>
-<tr><th>Lebensmittelkategorie</th><th>Mikroorganismen/deren Toxine, Metaboliten</th><th colspan="2">Probenahmeplan</th><th></th><th colspan="3">Grenzwert</th><th></th><th colspan="2">Analytische Referenzmethode</th><th colspan="2">Stufe, für die das Kriterium gilt</th></tr>
-<tr><th></th><th></th><th>n</th><th colspan="2">c</th><th>m</th><th colspan="2">M</th><th colspan="2"></th><th colspan="2"></th></tr>
-<tr><td>1.2 Andere als für Säuglinge oder für besondere medizinische Zwecke bestimmte, genussfertige Lebensmittel, die die Vermehrung von *L. monocytogenes* begünstigen können</td><td>Listeria monocytogenes</td><td>5</td><td colspan="2">0</td><td colspan="2">100 KBE/g[^annex1-lvlu1-part1-lvlu1-4]</td><td></td><td colspan="2">SN EN ISO 11290-[^annex1-lvlu1-part1-lvlu1-5]</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td></td><td></td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar[^annex1-lvlu1-part1-lvlu1-6]</td><td></td><td colspan="2">SN EN ISO 11290-1</td><td colspan="2">Bevor das Lebensmittel die unmittelbare Kontrolle der verantwortlichen Person des Herstellerbetriebs verlassen hat</td></tr>
-<tr><td>1.3 Andere als für Säuglinge oder für besondere medizinische Zwecke bestimmte, genussfertige Lebensmittel, die die Vermehrung von *L. monocytogenes* nicht begünstigen können[^annex1-lvlu1-part1-lvlu1-7] [^annex1-lvlu1-part1-lvlu1-8]</td><td>Listeria monocytogenes</td><td>5</td><td colspan="2">0</td><td colspan="2">100 KBE/g</td><td></td><td colspan="2">SN EN ISO 11290-[^annex1-lvlu1-part1-lvlu1-9]</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.4 Hackfleisch und Fleischzubereitungen, die zum Rohverzehr bestimmt sind</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.5 Hackfleisch und Fleischzubereitungen aus Geflügelfleisch, die zum Verzehr in durcherhitztem Zustand bestimmt sind</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.6 Hackfleisch und Fleischzubereitungen, die aus anderen Fleischarten als Geflügel hergestellt wurden und zum Verzehr in durcherhitztem Zustand bestimmt sind</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.7 Separatorenfleisch</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.8 Fleischerzeugnisse, die zum Verzehr in rohem Zustand bestimmt sind, ausser Erzeugnissen, bei denen das Salmonellenrisiko durch das Herstellungsverfahren oder die Zusammensetzung des Erzeugnisses ausgeschlossen ist</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.9 Fleischerzeugnisse aus Geflügelfleisch, die zum Verzehr in durcherhitztem Zustand bestimmt sind</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.10 Gelatine und Kollagen</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.11 Käse, Butter und Rahm aus Rohmilch oder aus Milch, die einer Wärmebehandlung unterhalb der Pasteurisierungstemperatur unterzogen wurden[^annex1-lvlu1-part1-lvlu1-10]</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.12 Milch- und Molkepulver</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.13 Speiseeis[^annex1-lvlu1-part1-lvlu1-11], ausser Erzeugnissen, bei denen das Salmonellenrisiko durch das Herstellungsverfahren oder die Zusammensetzung des Erzeugnisses ausgeschlossen ist</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.14 Eiprodukte, ausser Erzeugnissen, bei denen das Salmonellenrisiko durch das Herstellungsverfahren oder die Zusammensetzung des Erzeugnisses ausgeschlossen ist</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.15 Genussfertige Lebensmittel, die rohes Ei enthalten, ausser Erzeugnissen, bei denen das Salmonellenrisiko durch das Herstellungsverfahren oder die Zusammensetzung des Erzeugnisses ausgeschlossen ist</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.16 Gekochte Krebs- und Weichtiere</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.17 Lebende Muscheln, Stachelhäuter, Manteltiere und Schnecken</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.18 Genussfertige Keimlinge[^annex1-lvlu1-part1-lvlu1-12]</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.19 Vorzerkleinertes, genussfertiges Obst und Gemüse</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.20 Nicht pasteurisierte[^annex1-lvlu1-part1-lvlu1-13] genussfertige Obst- und Gemüsesäfte</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.21 Käse, Milch- und Molkepulver nach den Kriterien für koagulasepositive Staphylokokken in Teil 2.2 dieses Anhangs</td><td>Staphylokokken-Enterotoxine</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 19020</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.22 Getrocknete Säuglingsanfangsnahrung und getrocknete diätetische Lebensmittel für besondere medizinische Zwecke, die für Säuglinge unter 6 Monaten bestimmt sind</td><td>Salmonella</td><td>30</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.23 Getrocknete Folgenahrung</td><td>Salmonella</td><td>30</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.24 Getrocknete Säuglingsanfangsnahrung und getrocknete diätetische Lebensmittel für besondere medizinische Zwecke, die für Säuglinge unter 6 Monaten bestimmt sind[^annex1-lvlu1-part1-lvlu1-14]</td><td>Cronobacter spp.</td><td>30</td><td colspan="2">0</td><td colspan="2">In 10 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 22964</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.25 Lebende Muscheln, Stachelhäuter, Manteltiere und Schnecken</td><td>E. coli[^annex1-lvlu1-part1-lvlu1-15]</td><td>5[^annex1-lvlu1-part1-lvlu1-16]</td><td colspan="2">1</td><td>230 MPN/ 100 g Fleisch und Schalenflüssigkeit</td><td colspan="2">700 MPN/ 100 g Fleisch und Schalenflüssigkeit</td><td colspan="2">SN EN ISO 16649-3</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.26 Fischereierzeugnisse von Fischarten, bei denen ein hoher Gehalt an Histidin auftritt[^annex1-lvlu1-part1-lvlu1-17]</td><td>Histamin</td><td>9[^annex1-lvlu1-part1-lvlu1-18]</td><td colspan="2">2</td><td>100 mg/kg</td><td colspan="2">200 mg/kg</td><td colspan="2">SN EN ISO 19343</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.27 Fischereierzeugnisse, ausser Erzeugnissen der Lebensmittelkategorie 1.27a, die einem enzymatischen Reifungsprozess in Salzlösung unterzogen und aus Fischarten hergestellt werden, bei denen ein hoher Gehalt an Histidin auftritt[^annex1-lvlu1-part1-lvlu1-19]</td><td>Histamin</td><td>9[^annex1-lvlu1-part1-lvlu1-20]</td><td colspan="2">2</td><td>200 mg/kg</td><td colspan="2">400 mg/kg</td><td colspan="2">SN EN ISO 19343</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.27a Durch Fermentierung von Fischereierzeugnissen hergestellte Fischsauce</td><td>Histamin</td><td>1</td><td colspan="2">0</td><td colspan="2">500 mg/kg[^annex1-lvlu1-part1-lvlu1-21]</td><td></td><td colspan="2">SN EN ISO 19343</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.28 Frisches Geflügelfleisch[^annex1-lvlu1-part1-lvlu1-22]</td><td>Salmonella Typhimurium[^annex1-lvlu1-part1-lvlu1-23] Salmonella Enteritidis</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1 (für den Nachweis), White-Kaufmann-LeMinor-Schema (für die Serotypisierung)</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.29 Sprossen[^annex1-lvlu1-part1-lvlu1-24] [^annex1-lvlu1-part1-lvlu1-25] [^annex1-lvlu1-part1-lvlu1-26]</td><td>*Shiga-Toxin bildende E. coli (STEC) O157, O26, O111, O103, O145 und O104:H4*</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">CEN/ISO TS 13136</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
-<tr><td>1.30 Reptilienfleisch[^annex1-lvlu1-part1-lvlu1-27]</td><td>*Salmonella*</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td colspan="2">In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><th>Lebensmittelkategorie</th><th>Mikroorganismen/deren Toxine, Metaboliten</th><th colspan="2">Probenahmeplan</th><th></th><th colspan="3">Grenzwert</th><th></th><th>Analytische Referenzmethode</th><th>Stufe, für die das Kriterium gilt</th></tr>
+<tr><th></th><th></th><th>n</th><th colspan="2">c</th><th>m</th><th colspan="2">M</th><th colspan="2"></th><th></th></tr>
+<tr><td>1.2 Andere als für Säuglinge oder für besondere medizinische Zwecke bestimmte, genussfertige Lebensmittel, die die Vermehrung von *L. monocytogenes* begünstigen können</td><td>Listeria monocytogenes</td><td>5</td><td colspan="2">0</td><td colspan="2">100 KBE/g[^annex1-lvlu1-part1-lvlu1-4]</td><td></td><td colspan="2">SN EN ISO 11290-[^annex1-lvlu1-part1-lvlu1-5]</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td></td><td></td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar[^annex1-lvlu1-part1-lvlu1-6]</td><td></td><td colspan="2">SN EN ISO 11290-1</td><td>Bevor das Lebensmittel die unmittelbare Kontrolle der verantwortlichen Person des Herstellerbetriebs verlassen hat</td></tr>
+<tr><td>1.3 Andere als für Säuglinge oder für besondere medizinische Zwecke bestimmte, genussfertige Lebensmittel, die die Vermehrung von *L. monocytogenes* nicht begünstigen können[^annex1-lvlu1-part1-lvlu1-7] [^annex1-lvlu1-part1-lvlu1-8]</td><td>Listeria monocytogenes</td><td>5</td><td colspan="2">0</td><td colspan="2">100 KBE/g</td><td></td><td colspan="2">SN EN ISO 11290-[^annex1-lvlu1-part1-lvlu1-9]</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.4 Hackfleisch und Fleischzubereitungen, die zum Rohverzehr bestimmt sind</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.5 Hackfleisch und Fleischzubereitungen aus Geflügelfleisch, die zum Verzehr in durcherhitztem Zustand bestimmt sind</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.6 Hackfleisch und Fleischzubereitungen, die aus anderen Fleischarten als Geflügel hergestellt wurden und zum Verzehr in durcherhitztem Zustand bestimmt sind</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.7 Separatorenfleisch</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.8 Fleischerzeugnisse, die zum Verzehr in rohem Zustand bestimmt sind, ausser Erzeugnissen, bei denen das Salmonellenrisiko durch das Herstellungsverfahren oder die Zusammensetzung des Erzeugnisses ausgeschlossen ist</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.9 Fleischerzeugnisse aus Geflügelfleisch, die zum Verzehr in durcherhitztem Zustand bestimmt sind</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.10 Gelatine und Kollagen</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.11 Käse, Butter und Rahm aus Rohmilch oder aus Milch, die einer Wärmebehandlung unterhalb der Pasteurisierungstemperatur unterzogen wurden[^annex1-lvlu1-part1-lvlu1-10]</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.12 Milch- und Molkepulver</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.13 Speiseeis[^annex1-lvlu1-part1-lvlu1-11], ausser Erzeugnissen, bei denen das Salmonellenrisiko durch das Herstellungsverfahren oder die Zusammensetzung des Erzeugnisses ausgeschlossen ist</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.14 Eiprodukte, ausser Erzeugnissen, bei denen das Salmonellenrisiko durch das Herstellungsverfahren oder die Zusammensetzung des Erzeugnisses ausgeschlossen ist</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.15 Genussfertige Lebensmittel, die rohes Ei enthalten, ausser Erzeugnissen, bei denen das Salmonellenrisiko durch das Herstellungsverfahren oder die Zusammensetzung des Erzeugnisses ausgeschlossen ist</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.16 Gekochte Krebs- und Weichtiere</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.17 Lebende Muscheln, Stachelhäuter, Manteltiere und Schnecken</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.18 Genussfertige Keimlinge[^annex1-lvlu1-part1-lvlu1-12]</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.19 Vorzerkleinertes, genussfertiges Obst und Gemüse</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.20 Nicht pasteurisierte[^annex1-lvlu1-part1-lvlu1-13] genussfertige Obst- und Gemüsesäfte</td><td>Salmonella</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.21 Käse, Milch- und Molkepulver nach den Kriterien für koagulasepositive Staphylokokken in Teil 2.2 dieses Anhangs</td><td>Staphylokokken-Enterotoxine</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 19020</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.22 Getrocknete Säuglingsanfangsnahrung und getrocknete diätetische Lebensmittel für besondere medizinische Zwecke, die für Säuglinge unter 6 Monaten bestimmt sind</td><td>Salmonella</td><td>30</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.23 Getrocknete Folgenahrung</td><td>Salmonella</td><td>30</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.24 Getrocknete Säuglingsanfangsnahrung und getrocknete diätetische Lebensmittel für besondere medizinische Zwecke, die für Säuglinge unter 6 Monaten bestimmt sind[^annex1-lvlu1-part1-lvlu1-14]</td><td>Cronobacter spp.</td><td>30</td><td colspan="2">0</td><td colspan="2">In 10 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 22964</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.25 Lebende Muscheln, Stachelhäuter, Manteltiere und Schnecken</td><td>E. coli[^annex1-lvlu1-part1-lvlu1-15]</td><td>5[^annex1-lvlu1-part1-lvlu1-16]</td><td colspan="2">1</td><td>230 MPN/ 100 g Fleisch und Schalenflüssigkeit</td><td colspan="2">700 MPN/ 100 g Fleisch und Schalenflüssigkeit</td><td colspan="2">SN EN ISO 16649-3</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.26 Fischereierzeugnisse von Fischarten, bei denen ein hoher Gehalt an Histidin auftritt[^annex1-lvlu1-part1-lvlu1-17]</td><td>Histamin</td><td>9[^annex1-lvlu1-part1-lvlu1-18]</td><td colspan="2">2</td><td>100 mg/kg</td><td colspan="2">200 mg/kg</td><td colspan="2">SN EN ISO 19343</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.27 Fischereierzeugnisse, ausser Erzeugnissen der Lebensmittelkategorie 1.27a, die einem enzymatischen Reifungsprozess in Salzlösung unterzogen und aus Fischarten hergestellt werden, bei denen ein hoher Gehalt an Histidin auftritt[^annex1-lvlu1-part1-lvlu1-19]</td><td>Histamin</td><td>9[^annex1-lvlu1-part1-lvlu1-20]</td><td colspan="2">2</td><td>200 mg/kg</td><td colspan="2">400 mg/kg</td><td colspan="2">SN EN ISO 19343</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.27a Durch Fermentierung von Fischereierzeugnissen hergestellte Fischsauce</td><td>Histamin</td><td>1</td><td colspan="2">0</td><td colspan="2">500 mg/kg[^annex1-lvlu1-part1-lvlu1-21]</td><td></td><td colspan="2">SN EN ISO 19343</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.28 Frisches Geflügelfleisch[^annex1-lvlu1-part1-lvlu1-22]</td><td>Salmonella Typhimurium[^annex1-lvlu1-part1-lvlu1-23] Salmonella Enteritidis</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1 (für den Nachweis), White-Kaufmann-LeMinor-Schema (für die Serotypisierung)</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.29 Sprossen[^annex1-lvlu1-part1-lvlu1-24] [^annex1-lvlu1-part1-lvlu1-25] [^annex1-lvlu1-part1-lvlu1-26]</td><td>*Shiga-Toxin bildende E. coli (STEC) O157, O26, O111, O103, O145 und O104:H4*</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25 g nicht nachweisbar</td><td></td><td colspan="2">CEN/ISO TS 13136</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
+<tr><td>1.30 Reptilienfleisch[^annex1-lvlu1-part1-lvlu1-27]</td><td>*Salmonella*</td><td>5</td><td colspan="2">0</td><td colspan="2">In 25g nicht nachweisbar</td><td></td><td colspan="2">SN EN ISO 6579-1</td><td>In Verkehr gebrachte Erzeugnisse während der Haltbarkeitsdauer</td></tr>
 </table>
 
 Interpretation der Untersuchungsergebnisse zu den Lebensmittelkategorien
@@ -1363,7 +1411,7 @@ Histamin in Fischereierzeugnissen:
 [^annex1-lvlu1-part1-lvlu1-11]: Nur Speiseeis, das Milchbestandteile enthält.
 [^annex1-lvlu1-part1-lvlu1-12]: Ausgenommen Sprossen, die einem zur Abtötung von *Salmonella* spp. und STEC wirksamen Behandlungsverfahren unterzogen wurden.
 [^annex1-lvlu1-part1-lvlu1-13]: «Nicht pasteurisiert» bedeutet, dass der Saft keiner Pasteurisierung durch Zeit-/Temperaturkombination und keinen anderen validierten Verfahren unterzogen wurde, mit denen eine der Pasteurisierung im Hinblick auf ihre Wirkung auf Salmonellen gleichwertige bakterizide Wirkung erzielt wird
-[^annex1-lvlu1-part1-lvlu1-14]: Eine Paralleluntersuchung auf *Enterobacteriaceae* und *Cronobacter* spp. ist durchzuführen, sofern nicht eine Korrelation zwischen diesen Mikroorganismen auf Ebene der einzelnen Betriebe festgestellt wurde. Werden in einem Betrieb in einer Probeneinheit *Enterobacteriaceae* nachgewiesen, ist die Partie auf *Cronobacter* spp*. (Enterobacter sakazakii)* zu untersuchen. Die verantwortliche Person muss zur Zufriedenheit der zuständigen Vollzugsbehörde nachweisen, ob zwischen *Enterobacteriaceae* und *Cronobacter* spp*. (Enterobacter sakazakii)* eine derartige Korrelation besteht.
+[^annex1-lvlu1-part1-lvlu1-14]: Eine Paralleluntersuchung auf *Enterobacteriaceae* und *Cronobacter* spp. ist durchzuführen, sofern nicht eine Korrelation zwischen diesen Mikroorganismen auf Ebene der einzelnen Betriebe festgestellt wurde. Werden in einem Betrieb in einer Probeneinheit *Enterobacteriaceae* nachgewiesen, so ist die Partie auf *Cronobacter* spp. zu untersuchen. Die verantwortliche Person muss zur Zufriedenheit der zuständigen Vollzugsbehörde nachweisen, ob zwischen *Enterobacteriaceae* und *Cronobacter* spp. eine derartige Korrelation besteht.
 [^annex1-lvlu1-part1-lvlu1-15]: *E. coli* wird hier als Indikator für fäkale Kontamination verwendet.
 [^annex1-lvlu1-part1-lvlu1-16]: Jede Probenahmeeinheit umfasst eine Mindestanzahl an einzelnen Tieren gemäss EN ISO 6887-3.
 [^annex1-lvlu1-part1-lvlu1-17]: Vor allem Fischarten der Familien: *Scombridae*, *Clupeidae*, *Engraulidae*, *Coryfenidae*, *Pomatomidae* und *Scombraesosidae*.

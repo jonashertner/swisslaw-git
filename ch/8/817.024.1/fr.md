@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur l'hygiène dans les activité
 short: OHyg
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/183"
 language: fr
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/183/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-183-20200701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/183/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-183-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20200701/fr"
 
 (Ordonnance du DFI sur l’hygiène, OHyg)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -230,6 +230,11 @@ Il y a lieu de satisfaire en particulier si nécessaire aux exigences suivantes:
 
 <sup>7</sup> Les conteneurs destinés au transport de denrées alimentaires qui doivent être maintenues à température contrôlée doivent être conçus de manière que les denrées alimentaires puissent être maintenues à la température adaptée et qu’un contrôle de la température de transport soit possible.
 
+<sup>8</sup> Les équipements et les conteneurs destinés au transport ou à l’entreposage de l’une des substances ou de l’un des produits provoquant des allergies ou d’autres réactions indésirables visés à l’annexe 6 de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^12-1] ne peuvent pas être utilisés pour le transport ou l’entreposage de denrées alimentaires qui ne contiennent pas la substance ou le produit en question, à moins que les équipements et les conteneurs servant au transport aient été nettoyés et contrôlés au moins pour vérifier l’absence de résidus visibles de cette substance ou de ce produit.[^12-2]
+
+[^12-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^12-2]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
 #### Art. 13
 
 **Équipements**
@@ -387,7 +392,12 @@ La personne responsable règle l’accès des personnes étrangères à l’éta
 
 <sup>3</sup> Les produits surgelés doivent être conservés à une température égale ou inférieure à –18 °C. La chaîne du froid ne doit pas être interrompue. La température d’entreposage peut être moins basse pendant une courte durée durant le transport ou lors du dégivrage des appareils frigorifiques dans le commerce de détail. La température des produits doit toutefois rester inférieure ou égale à –15 °C dans les couches superficielles.
 
-<sup>4</sup> Les denrées alimentaires surgelées doivent être préemballées. Font exception à cette règle les matières premières et les produits intermédiaires destinés à la transformation industrielle ou artisanale.
+<sup>4</sup>
+
+Les denrées alimentaires congelées doivent être préemballées. Font exception à cette règle:
+
+- a. les matières premières et les produits intermédiaires destinés à la transformation industrielle ou artisanale;
+- b. les denrées alimentaires congelées du commerce de détail, qui sont remises directement au consommateur.[^25-1]
 
 <sup>5</sup> La décongélation de denrées alimentaires surgelées doit être effectuée de manière à réduire autant que possible le risque de prolifération de microorganismes pathogènes ou la formation de toxines dans les denrées alimentaires. Pendant la décongélation, les denrées alimentaires doivent être soumises à des températures qui n’entraînent pas de risque pour la santé. Tout liquide de décongélation présentant un risque pour la santé doit pouvoir s’écouler de manière appropriée. Après leur décongélation, les denrées alimentaires doivent être traitées de manière à réduire autant que possible le risque de prolifération de microorganismes pathogènes ou la formation de toxines.
 
@@ -400,6 +410,8 @@ Seuls sont admis en contact direct avec des denrées alimentaires surgelées les
 - c. le dioxyde de carbone.
 
 <sup>7</sup> Les directives pour le contrôle des températures dans les moyens de transport et dans les locaux d’entreposage et de stockage de denrées alimentaires surgelées sont fixées à l’annexe 2.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 26
 
@@ -435,6 +447,36 @@ Les denrées alimentaires remises aux consommateurs dans des récipients fermés
 <sup>2</sup> Les mets servis chauds au consommateur doivent être maintenus à des températures empêchant la prolifération des microorganismes nuisibles.
 
 <sup>3</sup> Le maintien au froid et le maintien au chaud de denrées alimentaires et de mets doivent être assurés en permanence à l’aide de dispositifs thermométriques adéquats et d’installations adaptées à la réfrigération, à la surgélation ou au maintien au chaud et surveillés dans le cadre de l’autocontrôle.
+
+## Chapitre 4*a* Redistribution des denrées alimentaires
+
+[^chap4a-1]
+
+[^chap4a-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
+#### Art. 27a
+
+<sup>1</sup>
+
+Les établissements du secteur alimentaire qui redistribuent des denrées alimentaires vérifient régulièrement que les denrées alimentaires relevant de leur responsabilité ne sont pas préjudiciables à la santé et, conformément à l’art. 7, al. 2, de la loi du 20 juin 2014 sur les denrées alimentaires[^27a-1], qu’elles sont propres à la consommation humaine. Si le résultat de la vérification est satisfaisant, les établissements peuvent redistribuer les denrées alimentaires en se conformant aux dispositions de l’al. 2:
+
+- a. avant l’expiration de la date limite de consommation, lorsque celle-ci est indiquée sur les denrées concernées, conformément à l’art. 13, al. 2 OIDAl[^27a-2];
+- b. jusqu’à la date de durabilité minimale et après cette date, lorsque les denrées concernées portent une date de durabilité minimale, conformément à l’art. 13, al. 1, OIDAl;
+- c. en tout temps, dans le cas de denrées alimentaires pour lesquelles l’indication de la date de durabilité minimale n’est pas requise, conformément à l’annexe 8, ch. 1.4, OIDAl.
+
+<sup>2</sup>
+
+Les établissements du secteur alimentaire qui sont en contact avec les denrées alimentaires visées à l’al. 1 vérifient que les denrées alimentaires ne sont pas préjudiciables à la santé et qu’elles sont propres à la consommation humaine, en tenant compte au moins des éléments suivants:
+
+- a. la date de durabilité minimale ou la date limite de consommation; il s’agit de garantir que la durée de conservation restante est suffisante pour permettre une redistribution sûre et une utilisation par le consommateur final qui soit sans danger pour la santé;
+- b. le cas échéant, l’intégrité de l’emballage;
+- c. les conditions correctes d’entreposage et de transport, y compris les exigences en vigueur en matière de température;
+- d. le cas échéant, la date de congélation, conformément à l’annexe 8, ch. 3, OIDAl;
+- e. les propriétés organoleptiques;
+- f. la garantie de la traçabilité.
+
+[^27a-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^27a-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 ## Chapitre 5 Dispositions spécifiques s’appliquant aux denrées alimentaires d’origine animale
 
@@ -686,21 +728,9 @@ Chaque établissement de transformation doit comporter:
 
 <sup>1</sup> Les matières premières servant à la fabrication de graisses animales fondues et de cretons doivent être transportées et entreposées dans de bonnes conditions d’hygiène et à une température à cœur ne dépassant pas 7 °C avant d’être fondues. Elles peuvent toutefois être entreposées et transportées sans réfrigération active pour autant qu’elles soient fondues dans les 12 heures suivant le jour de leur obtention.
 
-<sup>2</sup>
+<sup>2</sup> à <sup>4</sup> ...[^38-1]
 
-Les cretons qui sont obtenus à une température inférieure ou égale à 70 °C doivent être entreposés:
-
-- a. à une température ne dépassant pas 7 °C pendant une période de 24 heures au maximum, ou
-- b. à l’état surgelé.
-
-<sup>3</sup>
-
-Les cretons qui sont obtenus à une température supérieure à 70 °C et qui ont un taux d’humidité supérieur ou égal à 10 % (m/m) doivent être entreposés:
-
-- a. à une température ne dépassant pas 7 °C pendant une période de 48 heures au maximum ou à toute combinaison de durée et de température ayant le même effet, ou
-- b. à l’état surgelé.
-
-<sup>4</sup> Les cretons qui sont obtenus à une température supérieure à 70 °C et qui ont un taux d’humidité inférieur à 10 % (m/m) ne font l’objet d’aucune prescription d’entreposage particulière.
+[^38-1]: Abrogés par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 ### Section 5 Coquillages vivants
 
@@ -740,11 +770,13 @@ Pendant la vente ou l’entreposage des produits de la pêche:
 
 <sup>4</sup> Les opérations telles que le filetage et le tranchage doivent être réalisées de telle sorte que la contamination ou la souillure des filets et des tranches soit évitée. Les filets et les tranches ne doivent pas séjourner sur les tables de travail au-delà de la durée nécessaire à leur préparation. Les filets et les tranches doivent être conditionnés et, s’il y a lieu, emballés et réfrigérés le plus vite possible après leur préparation.
 
-<sup>5</sup> Les conteneurs utilisés pour le transport, l’expédition ou l’entreposage des produits frais de la pêche doivent être résistants à l’eau et permettre à l’eau de fonte de s’écouler sans rester en contact avec les produits.
+<sup>5</sup> Les conteneurs utilisés pour le transport, l’expédition ou l’entreposage des produits de la pêche frais préparés, non emballés et conservés sous glace, doivent permettre à l’eau de fonte de s’écouler, de sorte qu’elle n’entre pas en contact avec les produits.[^41-1]
 
 <sup>6</sup> Si les produits de la pêche sont destinés à la surgélation, ils doivent être surgelés le plus rapidement possible et conservés à l’état surgelé. Les locaux d’entreposage doivent être munis d’un système de monitorage de la température, dont la sonde thermique doit être située dans la zone la plus chaude.
 
 <sup>7</sup> La personne responsable doit procéder à un examen organoleptique des produits de la pêche. En particulier, cet examen doit permettre de vérifier que les produits de la pêche sont conformes aux critères de fraîcheur.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 42
 
@@ -864,7 +896,7 @@ Les établissements qui fabriquent des produits laitiers doivent mettre en œuvr
 
 <sup>4</sup> Les valeurs énumérées à l’al. 3 doivent être vérifiées selon les méthodes de référence de la norme SN EN ISO 4833-1:2013 «Microbiologie de la chaîne alimentaire – Méthode horizontale pour le dénombrement des micro-organismes – Partie 1: Comptage des colonies à 30 degrés C par la technique d’ensemencement en profondeur»[^48-1].[^48-2]
 
-[^48-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^48-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^48-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
 
 #### Art. 49
@@ -896,7 +928,7 @@ Le lait est considéré prêt à la consommation uniquement après avoir subi un
 <sup>5</sup> La crème est considérée prête à la consommation uniquement après avoir subi un traitement par la chaleur selon l’art. 26, al. 2. D’autres traitements sont autorisés pour autant qu’ils permettent d’obtenir une conservabilité et une hygiénisation équivalentes ou supérieures à celles obtenues sur la base d’un traitement par la chaleur en vertu de l’art. 26, al. 2, let. a.
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
-[^49-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^49-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 50
 
@@ -942,7 +974,9 @@ Le lait est considéré prêt à la consommation uniquement après avoir subi un
 
 <sup>2</sup> Ils doivent être entreposés et transportés à une température propre à préserver de façon optimale leurs qualités hygiéniques. La température doit si possible être constante.
 
-<sup>3</sup> Ils doivent être remis aux consommateurs dans un délai n’excédant pas 21 jours après la date de ponte.
+<sup>3</sup> ...[^54-1]
+
+[^54-1]: Abrogé par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 55
 
@@ -995,9 +1029,12 @@ Si des matières premières d’origine animale sont utilisées pour fabriquer u
 
 #### Art. 59
 
-**Principe**
+**Principe**[^59-1]
 
-Pour les exploitations d’estivage dans lesquelles le lait est transformé, les dispositions du présent chapitre priment les art. 7, 9, 13, 14, 20 et 48.
+Pour les exploitations d’estivage dans lesquelles le lait est transformé, les dispositions du présent chapitre priment les art. 7, 9, 13, 14, 20 et 48, ainsi que l’art. 14, al. 7, de l’ordonnance du DFI du 23 novembre 2005 réglant l’hygiène dans la production laitière (OHyPL)[^59-2].
+
+[^59-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+[^59-2]: [RS 916.351.021.1](https://fedlex.data.admin.ch/eli/cc/2005/824)
 
 #### Art. 60
 
@@ -1074,7 +1111,9 @@ Ils doivent en particulier satisfaire aux exigences suivantes:
 
 <sup>2</sup> Si le lait cru n’est pas transformé immédiatement après la traite, il doit être refroidi à une température de 8 °C ou moins en l’espace de deux heures et être conservé à cette température jusqu’à sa transformation.
 
-<sup>3</sup> Le lait cru peut être conservé à une température supérieure s’il est destiné à la fabrication de fromage. La température d’entreposage ne doit toutefois pas dépasser 18 °C. Si la température d’entreposage dépasse 8 °C, la transformation doit avoir lieu au plus tard 24 heures après la traite la plus ancienne. La sécurité des denrées alimentaires doit être garantie en tout temps.
+<sup>3</sup> Le lait cru peut être conservé à une température supérieure s’il est destiné à la fabrication de fromage, pour autant que des raisons technologiques l’imposent et que la sécurité des denrées alimentaires reste garantie en tout temps.[^65-1]
+
+[^65-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 ## Chapitre 7 Dispositions spécifiques concernant l’analyse et l’échantillonnage microbiologiques
 
@@ -1144,10 +1183,11 @@ La fréquence d’échantillonnage peut être réduite à:
 
 <sup>2</sup> Les établissements du secteur alimentaire qui fabriquent des denrées alimentaires prêtes à la consommation susceptibles de présenter un risque pour la santé humaine lié à *Listeria monocytogenes,* doivent prélever des échantillons, sur les lieux de transformation et sur les équipements utilisés, en vue de détecter la présence de *Listeria monocytogenes* dans le cadre de leur plan d’échantillonnage.
 
-<sup>3</sup> Les établissements du secteur alimentaire qui fabriquent des préparations déshydratées pour nourrissons ou des denrées alimentaires déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois, présentant un risque lié à *Cronobacter* spp. *(Enterobacter sakazakii)*, surveillent les lieux de transformation et les équipements utilisés en vue de détecter la présence d’*Enterobacteriaceae* dans le cadre de leur plan d’échantillonnage.
+<sup>3</sup> Les établissements du secteur alimentaire qui fabriquent des préparations déshydratées pour nourrissons ou des denrées alimentaires déshydratées destinées à des fins médicales spéciales pour nourrissons de moins de six mois, présentant un risque lié à Cronobacter spp., surveillent les lieux de transformation et les équipements utilisés en vue de détecter la présence d’Enterobacteriaceae dans le cadre de leur plan d’échantillonnage.[^69-3]
 
-[^69-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^69-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^69-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
+[^69-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 70
 
@@ -1210,6 +1250,14 @@ Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuven
 
 [^74a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
 
+#### Art. 74b
+
+**Disposition transitoire de la modification du 8 décembre 2023**[^74b-1]
+
+Les denrées alimentaires non conformes à la modification du 8 décembre 2023 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^74b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
 #### Art. 75
 
 **Entrée en vigueur**
@@ -1222,7 +1270,7 @@ Annexe 1[^t-1]
 
 ## Critères microbiologiques applicables aux denrées alimentaires
 
-[^t-1]: Mise à jour selon le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1339](https://fedlex.data.admin.ch/eli/oc/2018/216)), l’Erratum du 30 oct. 2018 ([RO 2018 3795](https://fedlex.data.admin.ch/eli/oc/2018/600)) et le ch. II de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
+[^t-1]: Mise à jour par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1339](https://fedlex.data.admin.ch/eli/oc/2018/216)), l’erratum du 30 oct. 2018 ([RO 2018 3795](https://fedlex.data.admin.ch/eli/oc/2018/600)) et le ch. II des O du DFI du 27 mai 2020 ([RO 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)) et du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 - Partie 1 Critères de sécurité des denrées alimentaires
 - Partie 2 Critères d’hygiène des procédés
@@ -1296,7 +1344,7 @@ Nombre d’*E. coli* et de colonies aérobies mésophiles dans la viande hachée
 ### 2.2 Lait et produits laitiers
 
 [^annex1-lvlu1-lvl21-1]: Pour les numéros 2.1.3 à 2.1.6: m = M
-[^annex1-lvlu1-lvl21-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex1-lvlu1-lvl21-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^annex1-lvlu1-lvl21-3]: Ces limites (m et M) ne s’appliquent qu’aux échantillons prélevés par la méthode destructive. La valeur log moyenne quotidienne est calculée en prenant tout d’abord une valeur log de chacun des différents résultats d’analyse et en calculant ensuite la moyenne de ces valeurs logs.
 [^annex1-lvlu1-lvl21-4]: Ces limites (m et M) ne s’appliquent qu’aux échantillons prélevés par la méthode destructive. La valeur log moyenne quotidienne est calculée en prenant tout d’abord une valeur log de chacun des différents résultats d’analyse et en calculant ensuite la moyenne de ces valeurs logs.
 [^annex1-lvlu1-lvl21-5]: Nombre d’échantillons dans lesquels la présence de salmonelles est détectée. La valeur c doit être réexaminée afin de prendre en compte les progrès réalisés en matière de réduction de la prévalence des salmonelles.
@@ -1355,7 +1403,7 @@ Présomption de *Bacillus cereus* dans les préparations déshydratées pour nou
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
 [^annex1-lvlu1-lvl21-lvl22-1]: Pour les numéros 2.2.1, 2.2.8, 2.2.10 et 2.2.11: m = M
-[^annex1-lvlu1-lvl21-lvl22-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex1-lvlu1-lvl21-lvl22-2]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^annex1-lvlu1-lvl21-lvl22-3]: Ce critère ne s’applique pas aux produits destinés à être encore transformés dans le secteur alimentaire.
 [^annex1-lvlu1-lvl21-lvl22-4]: *E. coli* est utilisée ici comme indicateur du niveau d’hygiène.
 [^annex1-lvlu1-lvl21-lvl22-5]: Normalement, ce moment est atteint pour les fromages à pâte molle et à pâte mi-dure à l’étape «caillé prélevé avant le saumurage», pour les fromages à pâte dure et extra-dure à l’étape de démarrage du chauffage (prélèvement du grain de caillé uniquement).
@@ -1388,7 +1436,7 @@ Les résultats des analyses révèlent la qualité microbiologique du procédé 
 - – qualité acceptable lorsqu’un maximum de c/n valeurs se situe entre m et M, et que le reste des valeurs observées est ≤ m,
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
-[^annex1-lvlu1-lvl21-lvl23-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex1-lvlu1-lvl21-lvl23-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 2.4 Produits de la pêche
 
@@ -1417,7 +1465,7 @@ Staphylocoques à coagulase positive dans les produits décortiqués et décoqui
 - – qualité acceptable lorsqu’un maximum de c/n valeurs se situe entre m et M, et que le reste des valeurs observées est ≤ m,
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
-[^annex1-lvlu1-lvl21-lvl24-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex1-lvlu1-lvl21-lvl24-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 2.5 Légumes, fruits et produits à base de légumes et de fruits
 
@@ -1440,7 +1488,7 @@ Les résultats des analyses révèlent la qualité microbiologique du procédé 
 - – qualité acceptable lorsqu’un maximum de c/n valeurs se situe entre m et M, et que le reste des valeurs observées est ≤ m,
 - – qualité insatisfaisante lorsqu’une ou plusieurs valeurs observées sont &gt; M ou lorsque plus de c/n valeurs se situent entre m et M.
 
-[^annex1-lvlu1-lvl21-lvl25-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex1-lvlu1-lvl21-lvl25-1]: La version la plus récente de la norme doit être utilisée. Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^annex1-lvlu1-lvl21-lvl25-2]: Le terme « non pasteurisé » signifie que le jus n’a pas fait l’objet d’une pasteurisation obtenue par une combinaison de temps et de température ou d’autres procédés validés pour atteindre un effet bactéricide équivalent à la pasteurisation en ce qui concerne son effet sur E. Coli
 
 Annexe 2[^t-2]
@@ -1466,7 +1514,7 @@ Annexe 2[^t-2]
 
 - 2\.3 Dans les établissements de commerce de détail possédant des installations frigorifiques de moins de 25 m<sup>3</sup>, l’autorité d’exécution compétente peut autoriser que la température de l’air soit mesurée également au moyen d’un thermomètre aisément visible.
 
-[^annex2-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex2-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 Annexe 3
 

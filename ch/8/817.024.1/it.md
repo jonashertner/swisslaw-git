@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sui requisiti igienici per il tra
 short: ORI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/183"
 language: it
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/183/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-183-20200701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/183/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-183-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/183/20200701/it"
 
 (Ordinanza del DFI sui requisiti igienici, ORI)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 1° febbraio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -230,6 +230,11 @@ In particolare, ove necessario, devono essere adempiuti i requisiti seguenti:
 
 <sup>7</sup> I contenitori utilizzati per il trasporto di derrate alimentari che devono essere mantenute a una determinata temperatura devono essere concepiti in modo da consentire la conservazione delle derrate alimentari a una temperatura adeguata e il controllo delle temperatura durante il trasporto.
 
+<sup>8</sup> Le attrezzature e i contenitori adibiti al trasporto utilizzati per il trasporto o il deposito di una delle sostanze o dei prodotti menzionati nell’allegato 6 dell’ordinanza del DFI del 16 dicembre 2016[^12-1] concernente le informazioni sulle derrate alimentari (OID) che provocano allergie o altre reazioni indesiderate non possono essere utilizzati per il trasporto o il deposito di derrate alimentari che non contengono questa sostanza o questo prodotto, a meno che tali attrezzature e i contenitori adibiti al trasporto non siano stati puliti e controllati almeno per verificare l’assenza di eventuali residui visibili di tali sostanze o prodotti.[^12-2]
+
+[^12-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^12-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
 #### Art. 13
 
 **Attrezzature**
@@ -387,7 +392,12 @@ Il responsabile disciplina l’accesso di persone estranee all’azienda, soprat
 
 <sup>3</sup> I prodotti surgelati devono essere conservati a una temperatura di –18 °C o inferiore. La catena del freddo non deve essere interrotta. La temperatura di conservazione può essere aumentata per breve tempo durante il trasporto e lo sbrinamento dei congelatori nel commercio al dettaglio. La temperatura dei prodotti non deve tuttavia superare i –15 °C negli strati marginali.
 
-<sup>4</sup> I prodotti surgelati devono essere preimballati. I prodotti greggi o intermedi, destinati alla trasformazione industriale o artigianale, costituiscono un’eccezione.
+<sup>4</sup>
+
+I prodotti surgelati devono essere preimballati. Costituiscono un’eccezione:
+
+- a. i prodotti greggi o intermedi, destinati alla trasformazione industriale o artigianale;
+- b. i prodotti surgelati nella vendita al dettaglio destinati alla consegna diretta ai consumatori. [^25-1]
 
 <sup>5</sup> Lo scongelamento dei prodotti surgelati deve avvenire in modo da ridurre al minimo il rischio di proliferazione di microrganismi patogeni o la formazione di tossine nelle derrate alimentari. Lo scongelamento deve avvenire a una temperatura che non comporti rischi per la salute. Qualora possa costituire un rischio per la salute, il liquido proveniente dal processo di scongelamento deve essere eliminato. Dopo lo scongelamento, le derrate alimentari devono essere trattate in modo da ridurre al minimo il rischio di proliferazione di microrganismi patogeni o la formazione di tossine.
 
@@ -400,6 +410,8 @@ Possono entrare a contatto diretto con le derrate alimentari surgelate soltanto 
 - c. diossido di carbonio.
 
 <sup>7</sup> Le prescrizioni sul controllo delle temperature delle derrate alimentari surgelate nei mezzi di trasporto e nei locali di immagazzinamento e di conservazione sono stabilite nell’allegato 2.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 26
 
@@ -435,6 +447,36 @@ Per tutte le derrate alimentari consegnate ai consumatori in contenitori ermetic
 <sup>2</sup> La conservazione a caldo dei cibi deve avvenire a una temperatura che impedisca la proliferazione di microrganismi nocivi.
 
 <sup>3</sup> La conservazione a freddo e a caldo delle derrate alimentari e dei cibi deve essere garantita in ogni momento mediante termometri adeguati e impianti di raffreddamento, surgelazione o riscaldamento ed essere oggetto di un controllo autonomo.
+
+## Capitolo 4*a*: Ridistribuzione di derrate alimentari
+
+[^chap4a-1]
+
+[^chap4a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
+#### Art. 27a
+
+<sup>1</sup>
+
+Le aziende alimentari che ridistribuiscono derrate alimentari devono verificare regolarmente che le derrate alimentari sotto la loro responsabilità non siano dannose per la salute e siano adatte al consumo secondo l’articolo 7 capoverso 2 della legge del 20 giugno 2014[^27a-1] sulle derrate alimentari. Se l’esito della verifica è soddisfacente, le aziende alimentari possono ridistribuire le derrate alimentari in accordo con il capoverso 2:
+
+- a. per le derrate alimentari alle quali si applica una data di scadenza conformemente all’articolo 13 capoverso 2 OID[^27a-2], prima della scadenza di tale data;
+- b. per le derrate alimentari alle quali si applica un termine minimo di conservazione conformemente all’articolo 13 capoverso 1 OID, fino a tale data e successivamente;
+- c. per le derrate alimentari per le quali non è richiesto un termine minimo di conservazione conformemente all’allegato 8 numero 1.4 OID, in qualsiasi momento.
+
+<sup>2</sup>
+
+Le aziende alimentari che trattano le derrate alimentari di cui al capoverso 1 valutano che le derrate alimentari non siano dannose per la salute e siano adatte al consumo, tenendo conto a tal proposito almeno dei seguenti aspetti:
+
+- a. il termine minimo di conservazione o la data di scadenza, assicurandosi che il periodo di conservabilità residuo sia sufficiente per consentire la sicurezza della ridistribuzione e dell’uso da parte del consumatore finale;
+- b. se del caso, l’integrità dell’imballaggio;
+- c. le corrette condizioni di deposito e trasporto, compresi i requisiti applicabili in materia di temperatura;
+- d. se del caso, la data di congelamento conformemente all’allegato 8 numero 3 OID;
+- e. le caratteristiche organolettiche;
+- f. garantire la rintracciabilità.
+
+[^27a-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^27a-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 ## Capitolo 5: Disposizioni particolari sulle derrate alimentari di origine animale
 
@@ -509,7 +551,7 @@ Le prescrizioni sulla temperatura non sono applicabili a:
 
 - a. prodotti sterilizzati;
 - b. insaccati crudi maturati e insaccati salmistrati crudi;
-- c. altri prodotti a base di carne con un’attività dell’acqua (valore a<sub>w</sub>) inferiore a 0,93.
+- c. altri prodotti a base di carne con un’attività dell’acqua (valore a<sub>w</sub>) inferiore
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
 [^29-2]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
@@ -686,21 +728,9 @@ Ogni azienda di trasformazione deve disporre di:
 
 <sup>1</sup> Le materie prime utilizzate per la fabbricazione di grassi fusi di origine animale e ciccioli devono essere trasportate e immagazzinate fino al momento della loro fusione in condizioni igieniche ineccepibili e a una temperatura interna non superiore a 7 °C. Le materie prime possono essere immagazzinate e trasportate senza refrigerazione, purché siano sottoposte a fusione entro 12 ore dal giorno in cui sono state prodotte.
 
-<sup>2</sup>
+<sup>2</sup> a <sup>4</sup> ... [^38-1]
 
-I ciccioli ottenuti a una temperatura non superiore a 70 °C devono essere conservati:
-
-- a. a una temperatura non superiore a 7 °C per al massimo 24 ore; oppure
-- b. surgelati.
-
-<sup>3</sup>
-
-I ciccioli ottenuti a una temperatura superiore a 70 °C e con un tenore di umidità pari o superiore al 10 per cento (m/m) devono essere conservati:
-
-- a. a una temperatura non superiore a 7 °C per un periodo non superiore a 48 ore o a qualsiasi rapporto tempo/temperatura che dia una garanzia equivalente; oppure
-- b. surgelati.
-
-<sup>4</sup> I ciccioli ottenuti a una temperatura superiore a 70 °C e con un tenore di umidità inferiore al 10 per cento (m/m) non soggiacciono a particolari prescrizioni di conservazione.
+[^38-1]: Abrogati dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 ### Sezione 5: Molluschi bivalvi vivi
 
@@ -740,11 +770,13 @@ Durante la vendita o il deposito di prodotti della pesca:
 
 <sup>4</sup> Le fasi di lavorazione quali la sfilettatura e l’affettatura devono essere eseguite in modo da evitare la contaminazione o l’insudiciamento dei filetti e dei tranci. I filetti e i tranci non devono restare sui tavoli di lavoro più del tempo richiesto per la loro fabbricazione. Devono essere confezionati e, se necessario, imballati, e refrigerati al più presto una volta prodotti.
 
-<sup>5</sup> I contenitori utilizzati per il trasporto, la spedizione o la conservazione di prodotti freschi della pesca devono essere stagni e concepiti in modo da assicurare che l’acqua di fusione del ghiaccio non sia a contatto con i prodotti.
+<sup>5</sup> I contenitori utilizzati per il trasporto, la spedizione o la conservazione di prodotti freschi della pesca non imballati e conservati sotto ghiaccio devono essere concepiti in modo da assicurare che l’acqua di fusione del ghiaccio venga scaricata e non venga a contatto con i prodotti della pesca.[^41-1]
 
 <sup>6</sup> I prodotti della pesca destinati alla surgelazione devono essere surgelati il più presto possibile e conservati in tale stato. I depositi devono essere muniti di un termografo, il cui sensore deve essere situato nella zona del locale dove la temperatura è più elevata.
 
 <sup>7</sup> Il responsabile è tenuto a effettuare un’analisi organolettica dei prodotti della pesca. L’analisi deve garantire in particolare che i prodotti della pesca soddisfino i criteri di freschezza.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 42
 
@@ -942,7 +974,9 @@ Il latte è considerato pronto al consumo soltanto se è stato sottoposto a un t
 
 <sup>2</sup> Le uova devono essere immagazzinate e trasportate a una temperatura che garantisca al meglio una conservazione ottimale delle loro caratteristiche igieniche. La temperatura deve essere mantenuta, nella misura del possibile, costante.
 
-<sup>3</sup> Le uova devono essere consegnate al consumatore entro 21 giorni dalla data di deposizione.
+<sup>3</sup> ... [^54-1]
+
+[^54-1]: Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 55
 
@@ -995,9 +1029,12 @@ Se per la fabbricazione di una derrata alimentare sono utilizzati prodotti di ba
 
 #### Art. 59
 
-**Principio**
+**Principio**[^59-1]
 
-Per le aziende di estivazione nelle quali viene trasformato latte, le disposizioni del presente capitolo prevalgono sugli articoli 7, 9, 13, 14, 20 e 48.
+Per le aziende di estivazione nelle quali viene trasformato latte, le disposizioni del presente capitolo prevalgono sugli articoli 7, 9, 13, 14, 20 e 48 e sull’articolo 14 capoverso 7 dell’ordinanza del DFI del 23 novembre 2005[^59-2] concernente l’igiene nella produzione lattiera (OIgPL).
+
+[^59-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+[^59-2]: [RS 916.351.021.1](https://fedlex.data.admin.ch/eli/cc/2005/824)
 
 #### Art. 60
 
@@ -1074,7 +1111,9 @@ Devono in particolare adempiere i requisiti seguenti:
 
 <sup>2</sup> Se non è trasformato immediatamente dopo la mungitura, il latte crudo deve essere raffreddato entro due ore a una temperatura di 8 °C o inferiore e in seguito conservato a questa temperatura fino alla trasformazione.
 
-<sup>3</sup> Il latte crudo destinato alla fabbricazione di formaggio può essere conservato a una temperatura più elevata. La temperatura di deposito non deve tuttavia essere superiore a 18 °C. Se la temperatura di deposito è superiore a 8 °C, la lavorazione deve avvenire entro 24 ore dalla mungitura più vecchia. La sicurezza delle derrate alimentari deve essere garantita in ogni momento.
+<sup>3</sup> Il latte crudo destinato alla fabbricazione di formaggio può essere conservato a una temperatura più elevata se ciò è necessario per ragioni tecnologiche e la sicurezza delle derrate alimentari è garantita in ogni momento.[^65-1]
+
+[^65-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 ## Capitolo 7: Disposizioni particolari per l’analisi e la campionatura microbiologiche
 
@@ -1144,10 +1183,11 @@ La frequenza della campionatura può essere ridotta:
 
 <sup>2</sup> Le aziende alimentari che fabbricano derrate alimentari pronte al consumo, che possono comportare un rischio per la salute umana dovuto a *Listeria monocytogenes*, sono tenute ad analizzare, nell’ambito del loro piano di campionatura, campioni prelevati nei settori di lavorazione e dalle attrezzature utilizzate per individuare la presenza di *Listeria monocytogenes*.
 
-<sup>3</sup> Le aziende alimentari che fabbricano alimenti in polvere per lattanti o derrate alimentari in polvere a fini medici speciali destinate a bambini di età inferiore ai sei mesi che possono comportare un rischio dovuto a *Cronobacter* spp. *(Enterobacter sakazakii)* sono tenute ad analizzare, nell’ambito del loro piano di campionatura, i settori di lavorazione e le attrezzature utilizzate per individuare la presenza di *Enterobacteriaceae*.
+<sup>3</sup> Le aziende alimentari che fabbricano alimenti in polvere per lattanti o alimenti in polvere a fini medici speciali destinati a bambini di età inferiore ai sei mesi che possono comportare un rischio dovuto a *Cronobacter* spp. sono tenute ad analizzare, nell’ambito del loro piano di campionatura, i settori di trasformazione e le attrezzature utilizzate per individuare la presenza di *Enterobacteriaceae*.[^69-3]
 
 [^69-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 [^69-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
+[^69-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 #### Art. 70
 
@@ -1210,6 +1250,14 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 [^74a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
 
+#### Art. 74b
+
+**Disposizione transitoria della modifica dell’8 dicembre 2023**[^74b-1]
+
+Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 e consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^74b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
+
 #### Art. 75
 
 **Entrata in vigore**
@@ -1222,7 +1270,7 @@ Allegato 1[^t-1]
 
 ## Criteri microbiologici applicabili alle derrate alimentari
 
-[^t-1]: Aggiornato dal n. II dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)).
+[^t-1]: Aggiornato dal n. I dellʼO dellʼUSAV del 12 mar. 2018 ([RU 2018 1339](https://fedlex.data.admin.ch/eli/oc/2018/216)), dalla correzione del 30 ott. 2018 ([RU 2018 3795](https://fedlex.data.admin.ch/eli/oc/2018/600)), dal n. II dell’O del DFI del 27 mag. 2020 ([RU 2020 2429](https://fedlex.data.admin.ch/eli/oc/2020/458)) e dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 829](https://fedlex.data.admin.ch/eli/oc/2023/829)).
 
 - Parte 1 Criteri di sicurezza alimentare
 - Parte 2 Criteri di igiene del processo
@@ -1279,7 +1327,7 @@ c = numero di unità campionarie i cui valori si situano tra m e M
 <tr><td>1.21 Formaggi, latte in polvere e siero di latte in polvere, come indicati nei criteri relativi agli stafilococchi coagulasi-positivi nella parte 2.2 del presente allegato</td><td>Enterotossine stafilococciche</td><td>5</td><td colspan="2">0</td><td colspan="2">Assente in 25 g</td><td></td><td>SN EN ISO 19020</td><td>Prodotti immessi sul mercato durante il loro periodo di conservabilità</td></tr>
 <tr><td>1.22 Alimenti in polvere per lattanti e alimenti dietetici in polvere a fini medici speciali destinati ai bambini di età inferiore ai 6 mesi</td><td>Salmonella</td><td>30</td><td colspan="2">0</td><td colspan="2">Assente in 25 g</td><td></td><td>SN EN ISO 6579-1</td><td>Prodotti immessi sul mercato durante il loro periodo di conservabilità</td></tr>
 <tr><td>1.23 Alimenti di proseguimento in polvere</td><td>Salmonella</td><td>30</td><td colspan="2">0</td><td colspan="2">Assente in 25 g</td><td></td><td>SN EN ISO 6579-1</td><td>Prodotti immessi sul mercato durante il loro periodo di conservabilità</td></tr>
-<tr><td>1.24 Alimenti in polvere per lattanti e alimenti dietetici in polvere a fini medici speciali destinati ai bambini di età inferiore ai 6 mesi[^annex1-lvlu1-part1-lvl1-14]</td><td>Cronobacter spp.</td><td>30</td><td colspan="2">0</td><td colspan="2">Assente in 10 g</td><td></td><td>SN EN ISO 22964</td><td>Prodotti immessi sul mercato durante il loro periodo di conservabilità</td></tr>
+<tr><td>1.24 Alimenti in polvere per lattanti e alimenti dietetici in polvere a fini medici speciali destinati ai bambini di età inferiore ai sei mesi[^annex1-lvlu1-part1-lvl1-14]</td><td>Cronobacter spp.</td><td>30</td><td colspan="2">0</td><td colspan="2">Non rilevabile in 10 g</td><td></td><td>SN EN ISO 22964</td><td>Prodotti immessi sul mercato durante il loro periodo di conservabilità</td></tr>
 <tr><td>1.25 Molluschi bivalvi vivi ed echinodermi, tunicati e gasteropodi vivi</td><td>E. coli[^annex1-lvlu1-part1-lvl1-15]</td><td>5[^annex1-lvlu1-part1-lvl1-16]</td><td colspan="2">1</td><td>230 MPN/ 100 g di carne e liquido intravalvare</td><td colspan="2">700 MPN/ 100 g di carne e liquido intravalvare [gh8]</td><td>SN EN ISO 16649-3</td><td>Prodotti immessi sul mercato durante il loro periodo di conservabilità</td></tr>
 <tr><td>1.26 Prodotti della pesca ottenuti da specie ittiche associate con un elevato tenore di istidina[^annex1-lvlu1-part1-lvl1-17]</td><td>Istamina</td><td>9[^annex1-lvlu1-part1-lvl1-18]</td><td colspan="2">2</td><td>100 mg/kg</td><td colspan="2">200 mg/kg</td><td>SN EN ISO 19343</td><td>Prodotti immessi sul mercato durante il loro periodo di conservabilità</td></tr>
 <tr><td>1.27 Prodotti della pesca, eccetto i prodotti della categoria alimentare 1.27a, sottoposti a un trattamento di maturazione enzimatica in salamoia e ottenuti da specie ittiche associate con un elevato tenore di istidina[^annex1-lvlu1-part1-lvl1-19]</td><td>Istamina</td><td>9[^annex1-lvlu1-part1-lvl1-20]</td><td colspan="2">2</td><td>200 mg/kg</td><td colspan="2">400 mg/kg</td><td>SN EN ISO 19343</td><td>Prodotti immessi sul mercato durante il loro periodo di conservabilità</td></tr>
@@ -1370,7 +1418,7 @@ Istamina in prodotti della pesca:
 [^annex1-lvlu1-part1-lvl1-11]: Soltanto i gelati contenenti ingredienti a base di latte.
 [^annex1-lvlu1-part1-lvl1-12]: Sono esclusi i germogli sottoposti a trattamenti efficaci per eliminare la *Salmonella* spp. e gli STEC.
 [^annex1-lvlu1-part1-lvl1-13]: Il termine «non pastorizzati» indica che il succo non è stato sottoposto a pastorizzazione ottenuta mediante combinazioni di tempo-temperatura o ad altri processi validati per conseguire un effetto battericida equivalente a quello della pastorizzazione su Salmonella
-[^annex1-lvlu1-part1-lvl1-14]: Deve essere eseguita unʼanalisi parallela per *Enterobatteriaceae* e *Cronobacter* spp., a meno che non sia stata riscontrata una correlazione tra questi microrganismi a livello delle singole aziende. Se in unʼunità campionaria di unʼazienda sono rilevate *Enterobatteriaceae*, la partita deve essere sottoposta anche allʼanalisi per *Cronobacter* spp. Il responsabile deve dimostrare, con soddisfazione dellʼautorità dʼesecuzione competente, che cʼè una tale relazione tra *Enterobatteriaceae* e *Cronobacter* spp.
+[^annex1-lvlu1-part1-lvl1-14]: Deve essere eseguita un’analisi parallela per *Enterobatteriaceae* e *Cronobacter* spp., a meno che non sia stata riscontrata una correlazione tra questi microrganismi a livello delle singole aziende. Se in un’unità campionaria di un’azienda sono rilevate *Enterobatteriaceae*, la partita deve essere sottoposta anche all’analisi per *Cronobacter* spp. La persona responsabile deve accertare, con soddisfazione dell’autorità esecutiva competente, se tra *Enterobatteriaceae* e *Cronobacter* spp. esiste una tale relazione.
 [^annex1-lvlu1-part1-lvl1-15]: *E. coli* è qui utilizzato come indicatore di contaminazione fecale.
 [^annex1-lvlu1-part1-lvl1-16]: Ogni unità di campionamento comprende un numero minimo di singoli animali secondo la norma EN ISO 6887-3.
 [^annex1-lvlu1-part1-lvl1-17]: Soprattutto specie ittiche delle famiglie: *Scombridae*, *Clupeidae*, *Engraulidae*, *Coryfenidae*, *Pomatomidae* e *Scombraesosidae*.
