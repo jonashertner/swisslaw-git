@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel pflanzlicher
 short: VLpH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/181"
 language: de
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/181/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-181-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/181/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-181-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20200701/de"
 
 (VLpH)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -105,13 +105,11 @@ Diese Verordnung umschreibt folgende Lebensmittel, legt die Anforderungen an sie
 
 #### Art. 3
 
-**Pflanzen, die nicht als Lebensmittel verwendet werden dürfen**
+**Pflanzen, die nicht zur Herstellung von Lebensmitteln verwendet werden dürfen**[^3-1]
 
-<sup>1</sup> Pflanzen, Pflanzenteile oder daraus hergestellte Zubereitungen nach Anhang 1 dürfen nicht als Lebensmittel verwendet und dürfen Lebensmitteln nicht zugesetzt werden.
+Pflanzen und Pflanzenteile sowie daraus hergestellte Zubereitungen und Stoffe nach Anhang 1 dürfen weder als Lebensmittel verwendet noch Lebensmitteln zugesetzt werden.
 
-<sup>2</sup> Die Verwendung von Aromen von Pflanzen, Pflanzenteilen oder Zubereitungen nach Absatz 1 richtet sich nach der Aromenverordnung des EDI vom 16. Dezember 2016[^3-1].
-
-[^3-1]: [SR 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
+[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 ## 2. Kapitel: Ölsaaten
 
@@ -254,7 +252,7 @@ An Konsumentinnen und Konsumenten dürfen nur abgegeben werden:
 
 **Übrige Kennzeichnung**
 
-- [tab] <sup>1</sup> Die folgenden Öle müssen zusätzlich zur Sachbezeichnung deutlich erkennbar, jedoch nicht in unmittelbarer Nähe, die folgenden Angaben tragen:
+<sup>1</sup> Die folgenden Öle müssen zusätzlich zur Sachbezeichnung deutlich erkennbar, jedoch nicht in unmittelbarer Nähe, die folgenden Angaben tragen:
 
 <table>
 <tr><td>a. natives Olivenöl extra:</td><td>«erste Güteklasse, direkt aus Oliven ausschliesslich mit mechanischen Verfahren gewonnen»;</td></tr>
@@ -269,9 +267,9 @@ An Konsumentinnen und Konsumenten dürfen nur abgegeben werden:
 
 <sup>4</sup> Natives Olivenöl extra und natives Olivenöl können mit einem Erntejahr gekennzeichnet werden. Diese Angabe ist nur zulässig, wenn 100 Prozent des Inhalts der Verpackung aus dem betreffenden Erntejahr stammt.
 
-<sup>5</sup> Auf organoleptische Eigenschaften betreffend Geschmack oder Geruch darf nur bei nativem Olivenöl extra und nativem Olivenöl hingewiesen werden. Die Begriffe nach Anhang XII Ziffer 3.3 der Verordnung (EWG) Nr. 2568/91[^12-3] dürfen nur zur Kennzeichnung verwendet werden, wenn sie auf den Ergebnissen einer in Anhang XII der Verordnung (EWG) Nr. 2568/91 vorgesehenen organoleptischen Prüfung basieren.
+<sup>5</sup> Auf organoleptische Eigenschaften betreffend den Geschmack oder den Geruch darf nur bei nativem Olivenöl extra und nativem Olivenöl hingewiesen werden. Die Begriffe nach Anhang II der delegierten Verordnung (EU) Nr. 2022/2104[^12-3] dürfen nur zur Kennzeichnung verwendet werden, wenn sie auf den Ergebnissen einer in Anhang I der Durchführungsverordnung (EU) Nr. 2022/2105[^12-4] vorgesehenen organoleptischen Prüfung oder einem äquivalenten, validierten Verfahren, das zur vorgegebenen Prüfung identische Resultate liefert, basieren.[^12-5]
 
-<sup>6</sup> Die Angabe des Säuregehalts oder des Säurehöchstgehalts bei Olivenöl, nativem Olivenöl, nativem Olivenöl extra und Oliventresteröl ist nur zulässig, wenn zusätzlich die Werte der Peroxidzahl, des Wachsgehalts und der Absorption im Ultraviolettbereich, die nach der Verordnung (EWG) Nr. 2568/91 bestimmt wurden, in gleicher Schriftgrösse und im gleichen Sichtfeld angeführt werden.
+<sup>6</sup> Die Angabe des Säuregehalts oder des Säurehöchstgehalts bei Olivenöl, nativem Olivenöl, nativem Olivenöl extra und Oliventresteröl ist nur zulässig, wenn zusätzlich die Werte der Peroxidzahl, des Wachsgehalts und der Absorption im Ultraviolettbereich, die nach Anhang I der Durchführungsverordnung (EU) Nr. 2022/2105 oder einem äquivalenten, validierten Verfahren, das zu den vorgegebenen Methoden identische Resultate liefert, bestimmt wurden, in gleicher Schriftgrösse und im gleichen Sichtfeld angeführt werden.[^12-6]
 
 <sup>7</sup> Bei Mischungen nach Artikel 11 Absatz 2 darf durch Bilder oder grafische Darstellungen in der Etikettierung auf den Olivenölgehalt nur dann hingewiesen werden, wenn dieser mehr als 50 Prozent beträgt.
 
@@ -279,7 +277,10 @@ An Konsumentinnen und Konsumenten dürfen nur abgegeben werden:
 
 [^12-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 [^12-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
-[^12-3]: Siehe Fussnote zu Art. 10 Abs. 2.
+[^12-3]: Delegierte Verordnung (EU) 2022/2104 der Kommission vom 29. Juli 2022 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Vermarktungsnormen für Olivenöl und zur Aufhebung der Verordnung (EWG) Nr. 2568/91 der Kommission und der Durchführungsverordnung (EU) Nr. 29/2012 der Kommission; Fassung gemäss ABl. L 284 vom 4.11.2022, S. 1.
+[^12-4]: Durchführungsverordnung (EU) 2022/2105 der Kommission vom 29. Juli 2022 mit Vorschriften für die Konformitätskontrolle der Vermarktungsnormen für Olivenöl und Methoden zur Analyse der Merkmale von Olivenöl; Fassung gemäss ABl. L 284 vom 4.11.2022, S. 23
+[^12-5]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^12-6]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 ### 3. Abschnitt: Streichfette
 
@@ -484,7 +485,7 @@ Obst- und Gemüsekonserven sind Konserven aus Obst oder Gemüse, deren Haltbarke
 Als Lebensmittel geeignete einzellige Mikroalgen sind:
 
 - a. die Chlorella-Algenarten *Chlorella vulgaris* und *Chlorella pyrenoidosa* einschliesslich der Algenarten mit synonymen Bezeichnungen;
-- b. die Spirulina-Algenarten (Arthospira) *Spirulina platensis* oder *Spirulina pacifica* und *Sp**i**rulina maxima*;
+- b. die Spirulina-Algenarten (Arthospira) *Spirulina platensis* oder *Spirulina pacifica* und *Spirulina maxima*;
 - c. die Alge *Aphanizomenon flos-aquae*.
 
 <sup>2</sup> Die Alge *Aphanizomenon flos-aquae* darf höchstens 2 Mikrogramm Microcystine pro Tagesration für Erwachsene enthalten, berechnet als Microcystin-LR (µg/l) in der Trockenmasse.
@@ -598,7 +599,7 @@ Für den gewerbsmässigen Handel mit Speisepilzen gelten die Fehlertoleranzen na
 
 <sup>1</sup> Auf Gebinden und Packungen von Speisepilzen ist die Pilzart anzugeben. Gibt es keine amtssprachliche Bezeichnung für die Pilzart oder ist sie nicht eindeutig, so muss die lateinische Bezeichnung angegeben werden.
 
-<sup>2</sup> Als «Steinpilz» dürfen die fünf Arten *Boletus aereus*, *Boletus aestivalis* (*Boletus reticul**a**tus*), *Boletus edulis, Boletus mamorensis* und *Boletus pinophilus* bezeichnet werden. Wird als Sachbezeichnung eine dieser Arten angegeben, so darf nur diese Art vorhanden sein.
+<sup>2</sup> Als «Steinpilz» dürfen die fünf Arten *Boletus aereus*, *Boletus aestivalis* (*Boletus reticulatus*), *Boletus edulis, Boletus mamorensis* und *Boletus pinophilus* bezeichnet werden. Wird als Sachbezeichnung eine dieser Arten angegeben, so darf nur diese Art vorhanden sein.
 
 <sup>3</sup> Bei vorverpackten Speisepilzen, die als ganze Hüte allein abgegeben werden, lautet die Sachbezeichnung «X-Hüte» (X = Pilzart).
 
@@ -623,7 +624,7 @@ Getrüffelte Lebensmittel sind wie folgt zu kennzeichnen:
 - a. «getrüffelt», «truffé» oder «mit Trüffeln», wenn der Anteil an Trüffeln mindestens 3 Massenprozent, bezogen auf das Endprodukt, beträgt;
 - b.[^37-3] «getrüffelt zu X %», «truffé à X %» oder «mit X % Trüffeln», wenn der Anteil an Trüffeln weniger als 3 Massenprozent, bezogen auf das Endprodukt, beträgt.
 
-<sup>3</sup> ...[^37-4]
+<sup>3</sup> …[^37-4]
 
 [^37-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 [^37-2]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
@@ -1120,11 +1121,13 @@ Brot mit Spezialmehl muss entsprechend bezeichnet werden, wie Roggenbrot, Dinkel
   Wird es nach einer Getreideart benannt, so muss deren Anteil an der Gesamtgetreidemenge betragen:
 
   - 1\. bei Weizen-, Dinkel- und Roggenmehl: mehr als 50 Massenprozent;
-  - 2\. bei Mais, Reis, Gerste, Hafer, Sorghum, Hirse und Triticale: mehr als 25 Massenprozent.
+  - 2\.[^75-1] bei Mais, Reis, Gerste, Hafer, Sorghum, Hirse, Buchweizen und Triticale: mehr als 25 Massenprozent.
 
 - b. Wird es als «Milchbrot» bezeichnet, so muss zu dessen Herstellung mindestens so viel Milch wie Wasser oder die entsprechende Menge Vollmilchpulver verwendet worden sein.
 - c. Wird es als «Magermilchbrot» bezeichnet, so muss zu dessen Herstellung mindestens so viel Magermilch wie Wasser oder die entsprechende Menge Magermilchpulver verwendet worden sein.
 - d. Weisst das Erzeugnis in der Trockenmasse einen Butterfettgehalt von mindestens 70 g/kg auf, so darf in der Sachbezeichnung auf einen Buttergehalt hingewiesen werden wie «Butterzopf». Die Zugabe von Speisefetten, Speiseölen, Margarinen und Minarinen ist in diesem Fall nicht erlaubt.
+
+[^75-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 #### Art. 76
 
@@ -1396,7 +1399,7 @@ Gärungsessigarten sind:
 - c. Alkoholessig oder Essig aus reinem Alkohol: Gärungsessig aus Alkohol, der aus pflanzlichem Material gewonnen wird;
 - d. Molkenessig: Gärungsessig aus Molke;
 - e. Milchserumessig: Gärungsessig aus Milchserum oder Ultrafiltrat (Permeat);
-- f. weitere Arten von Gärungsessig, wie Malz-, Bier- oder Honigessig: Gärungsessig, der aus kohlenhydrathaltigen Lebensmitteln durch alkoholische Gärung und Essigsäuregärung hergestellt wird.
+- f.[^104-1] weitere Arten von Gärungsessig, wie Reiswein-, Malz-, Bier- oder Honigessig: Gärungsessig, der aus kohlenhydrathaltigen Lebensmitteln durch alkoholische Gärung und Essigsäuregärung hergestellt wird.
 
 <sup>3</sup>
 
@@ -1409,6 +1412,8 @@ Gärungsessigmischungen sind:
 - e. Gärungsessig, dem ein oder mehrere Frucht- oder Beerensäfte zugegeben werden.
 
 <sup>4</sup> «Aceto Balsamico» ist eine nach einem traditionellen Verfahren hergestellte Essigspezialität auf Basis von vergorenem Traubenmost.
+
+[^104-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 #### Art. 105
 
@@ -1649,167 +1654,331 @@ Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch
 
 [^124a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 
+#### Art. 124b
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^124b-1]
+
+Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^124b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+
 #### Art. 125
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3)
 
-## Liste der Pflanzen, Pflanzenteile und daraus hergestellter Zubereitungen, deren Verwendung in Lebensmitteln nicht zulässig ist
+## Pflanzen und Pflanzenteile sowie daraus hergestellte Zubereitungen und Stoffe, deren Verwendung in Lebensmitteln nicht zulässig ist
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des EDI vom 28. März 2018 ([AS 2018 1247](https://fedlex.data.admin.ch/eli/oc/2018/201)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+
+### Teil A: Pflanzen, Pflanzenteile und daraus hergestellte Zubereitungen, deren Verwendung in Lebensmitteln nicht zulässig ist
 
 <table>
 <tr><th>Wissenschaftliche, botanische Bezeichnung</th><th>Deutsche Bezeichnung</th><th>Pflanzenteile</th><th>Bemerkungen</th></tr>
-<tr><td>Aconitum napellus L.</td><td>Eisenhut, blauer</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Abrus precatorius L.</td><td>Paternoster-Erbse</td><td>Blatt, Samen</td><td></td></tr>
+<tr><td>Aconitum napellus L.</td><td>Blauer Eisenhut</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Acorus calamus L.</td><td>Kalmus</td><td>Wurzelstock</td><td>Tetraploide Form</td></tr>
-<tr><td>Adonis vernalis L.</td><td>Adonisröschen</td><td>Kraut</td><td></td></tr>
-<tr><td>Alkanna tuberculata (FORSSK.) MEIKLE</td><td>Färberkraut</td><td>Wurzel</td><td></td></tr>
-<tr><td>Aloe barbadensis MILL.</td><td>Aloe vera</td><td>Blattsaft (Exsudat)</td><td>Ausgenommen Gel aus Blattparenchym</td></tr>
-<tr><td>Aloe ferox MILL.</td><td>Kap-Aloe</td><td>Blattsaft (Exsudat)</td><td>Ausgenommen Gel aus Blattparenchym</td></tr>
+<tr><td>Actaea spicata L.</td><td>Schwarzfrüchtiges Christophskraut</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Adenium spp</td><td></td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Adonis vernalis L.</td><td>Frühlings-Adonisröschen</td><td>Kraut</td><td></td></tr>
+<tr><td>Aethusa cynapium L.</td><td>Hundspetersilie</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Agapanthus spp.</td><td>Blaulilien, Liebesblumen, Schmucklilien diverse Arten</td><td>Wurzelstock, Zwiebeln</td><td></td></tr>
+<tr><td>Agrostemma githago L.</td><td>Korn-Rade</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Aleurites spp.</td><td></td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Alkanna tinctoria (L.) Tausch</td><td>Schminkwurz-Alkanna, Schminkwurz</td><td>Wurzel</td><td></td></tr>
+<tr><td>Amaryllis spp.</td><td>Amaryllis</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Anacyclus pyrethrum (L.) Lag.</td><td>Deutscher Bertram, Ringblume, Kreisblume, Zwergmargerite</td><td>Wurzel</td><td></td></tr>
+<tr><td>Anadenanthera spp.</td><td></td><td>Samen</td><td></td></tr>
+<tr><td>Anagallis arvensis L.</td><td>Gauchheil</td><td>Kraut</td><td></td></tr>
+<tr><td>Anamirta cocculus (L.) Wight & Arn.</td><td>Indische Scheinmyrte</td><td>Frucht</td><td></td></tr>
+<tr><td>Anchusa spp.</td><td>Ochsenzunge</td><td>Kraut</td><td></td></tr>
+<tr><td>Andromeda spp.</td><td>Gränke, Rosmarinheide</td><td>Blatt, Blüte</td><td></td></tr>
 <tr><td>Anemone spp.</td><td>Windröschen-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Aquilegia vulgaris L.</td><td>Akelei, gemeine</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Arctostaphylos uva-ursi (L.) SPRENGEL</td><td>Bärentraube</td><td>Blatt</td><td></td></tr>
-<tr><td>Areca catechu L.</td><td>Betel</td><td>Frucht</td><td></td></tr>
-<tr><td>Argyreia nervosa (BURM. f.) BOJ.</td><td>Holzrose, hawaiianische</td><td>Samen</td><td></td></tr>
-<tr><td>Aristolochia spp.</td><td>Aristolochia-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Angostura trifoliata (Willd.) T.S.Elias</td><td>Angosturabaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Antiaris toxicaria Lesch.</td><td>Upasbaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Aquilegia vulgaris L.</td><td>Gewöhnliche Akelei</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Arctostaphylos uva-ursi (L.) Spreng.</td><td>Bärentraube</td><td>Blatt</td><td></td></tr>
+<tr><td>Areca catechu L.</td><td>Betel-Palme</td><td>Frucht</td><td></td></tr>
+<tr><td>Argyreia nervosa (Burm. f.) Bojer</td><td>Hawaiianische Holzrose</td><td>Samen</td><td></td></tr>
+<tr><td>Arisaema spp.</td><td>Feuerkolben</td><td>Wurzelstock</td><td></td></tr>
+<tr><td>Aristolochia spp.</td><td>Osterluzei, Pfeifenwinde verschiedene Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Arnica chamissonis Less.</td><td>Chamisso-Arnika</td><td>Blüte</td><td></td></tr>
 <tr><td>Arnica montana L.</td><td>Arnika</td><td>Blüte</td><td></td></tr>
-<tr><td>Artemisia cina O.C. BERG</td><td>Wurmsamen</td><td>Blüte, Samen</td><td></td></tr>
+<tr><td>Artemisia cina Berg ex Poljakov</td><td>Wurmsamen</td><td>Blüte, Frucht</td><td></td></tr>
+<tr><td>Artemisia maritima L.</td><td>Strand-Beifuss</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Arum spp.</td><td>Aronstab-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Asarum canadense L.</td><td>Kanadische Haselwurz</td><td>Wurzelstock</td><td></td></tr>
 <tr><td>Asarum europaeum L.</td><td>Haselwurz</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Aspidosperma quebrachoblanco SCHLECHT.</td><td>Quebrachobaum</td><td>Rinde, Holz</td><td></td></tr>
+<tr><td>Aspidosperma quebracho-blanco Schltdl.</td><td>Quebrachobaum</td><td>Rinde, Holz</td><td></td></tr>
+<tr><td>Atractylis gummifera (L.) Less.</td><td>Mastixdistel</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Atropa belladonna L.</td><td>Tollkirsche</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Azadirachta indica A.Juss.</td><td>Niembaum</td><td>Blätter, Samen</td><td></td></tr>
-<tr><td>Banisteriopsis caapi (SPRUCE ex GRISEB.) MORTON</td><td>Banisteriopsis caapi</td><td>Rinde, Holz</td><td></td></tr>
+<tr><td>Aucuba japonica Thunb.</td><td>Japanische Aucube, Fleckenlorbeer</td><td>Frucht</td><td></td></tr>
+<tr><td>Azadirachta indica A.Juss.</td><td>Niembaum</td><td>Blatt, Samen</td><td></td></tr>
+<tr><td>Baccharis coridifolia DC.</td><td></td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Banisteriopsis caapi (Spruce ex Griseb.) Morton</td><td>Caapi</td><td>Rinde, Holz</td><td></td></tr>
+<tr><td>Baptisia spp.</td><td>Färberhülse</td><td>Wurzel</td><td></td></tr>
+<tr><td>Berberis vulgaris L.</td><td>Gewöhnliche Berberitze, Sauerdorn</td><td>Rinde</td><td></td></tr>
+<tr><td>Berberis vulgaris L.</td><td>Gewöhnliche Berberitze, Sauerdorn</td><td>Wurzel, Wurzelrinde</td><td></td></tr>
+<tr><td>Brachyglottis spp.</td><td></td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Brugmansia spp.</td><td>Engelstrompete-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Brunfelsia spp.</td><td>Brunfelsie</td><td>Frucht, Wurzel</td><td></td></tr>
 <tr><td>Bryonia spp.</td><td>Zaunrübe</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Buxus sempervirens L.</td><td>Buchsbaum, immergrüner</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Cassia senna L.</td><td>Senna</td><td>Blatt, Frucht</td><td></td></tr>
-<tr><td>Catharanthus roseus (L.) G. DON</td><td>Madagaskar-Immergrün</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Caulophyllum thalictroides (L.) MICHX.</td><td>Hahnenfuss, blau</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Cephaelis ipecacuanha (BROT.) A. RICH.</td><td>Brechwurzel</td><td>Wurzel</td><td></td></tr>
+<tr><td>Buxus sempervirens L.</td><td>Buchsbaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Caladium bicolor (Ait.) Vent.</td><td>Kaladie, Elefantenohr, Engelsflügel</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Calea ternifolia Kunth</td><td>Traumkraut</td><td>Oberirdische Teile</td><td></td></tr>
+<tr><td>Calla palustris L.</td><td>Sumpf-Schlangenwurz, Schweinsohr, Sumpfkalla</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Caltha palustris L.</td><td>Sumpf-Dotterblume</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Caragana arborescens Lam.</td><td>Gewöhnlicher Erbsenstrauch</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Carapichea ipecacuanha (Brot.) L.Andersson</td><td>Brechwurzel</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Caryota spp.</td><td>Fischschwanzpalme</td><td>Saft</td><td></td></tr>
+<tr><td>Cascabela thevetia (L.) Lippold</td><td>Schellenbaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Catharanthus roseus (L.) G. Don</td><td>Madagaskar-Immergrün</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Caulophyllum thalictroides (L.) Michx.</td><td>Wiesenrautenähnliche Indianer-Blaubeere</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Cestrum spp.</td><td>Hammerstrauch</td><td>Blatt, Frucht</td><td></td></tr>
+<tr><td>Chamaedaphne calyculata (L.) Moench</td><td>Torfgränke</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Chamaelirium luteum (L.) A. Gray</td><td>Falsche Einkornwurzel</td><td>Wurzel</td><td></td></tr>
 <tr><td>Chelidonium majus L.</td><td>Schöllkraut</td><td>Kraut</td><td></td></tr>
-<tr><td>Chenopodium ambrosioides L. var. Anthelminticum A. GRAY</td><td>Epazote</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Chondodendron tomentosum RUIZ et PAV.</td><td>Knorpelbaum, behaarter</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Cicuta virosa L.</td><td>Wasserschierling</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Cimicifuga racemosa (L.) NUTT.</td><td>Traubensilberkerze</td><td>Wurzelstock</td><td></td></tr>
-<tr><td>Citrullus colocynthis (L.) SCHRAD.</td><td>Koloquinte</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Chondrodendron tomentosum Ruiz & Pav.</td><td>Behaarter Knorpelbaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Cicuta virosa L.</td><td>Gift-Wasserschierling</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Cimicifuga racemosa (L.) Nutt.</td><td>Traubensilberkerze</td><td>Wurzelstock</td><td></td></tr>
+<tr><td>Citrullus colocynthis (L.) Schrad.</td><td>Koloquinte</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Clivia miniata (Lindl.) Bosse</td><td>Zimmer-Clivie</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Clusia rosea Jacq.</td><td>Rosafarbener Balsamapfel</td><td>Klebriger Saft, Frucht</td><td></td></tr>
 <tr><td>Colchicum autumnale L.</td><td>Herbstzeitlose</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Colutea arborescens L.</td><td>Blasenstrauch, gelber</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Colutea arborescens L.</td><td>Gewöhnlicher Blasenstrauch</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Conium spp.</td><td>Schierling</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Convallaria majalis L.</td><td>Maiglöckchen</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Convolvulus scammonia L.</td><td>Skammonium</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Convolvulus arvensis L.</td><td>Acker-Winde</td><td>Kraut, Wurzel</td><td></td></tr>
+<tr><td>Convolvulus pseudoscammonia C. Koch</td><td>Skammonium</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Coriaria myrtifolia L.</td><td>Europäischer Gerberstrauch</td><td>Frucht, Spross, Wurzel</td><td></td></tr>
+<tr><td>Coriaria ruscifolia subsp. microphylla (Poir.) J.E.Skog</td><td>Tutupflanze</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Corydalis spp.</td><td>Lerchensporne</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Cotoneaster Medik. spp.</td><td>Zwergmispel</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Crinum spp.</td><td>Hakenlilie</td><td>Zwiebel</td><td></td></tr>
+<tr><td>Crotalaria spp.</td><td>Klapperhülse</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Croton spp.</td><td>Kroton-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Cryptostegia spp.</td><td>Indischer Gummiwein</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Cycas spp.</td><td>Palmfarn</td><td>Samen, Blatt, Stängel</td><td></td></tr>
 <tr><td>Cyclamen spp.</td><td>Alpenveilchen-Arten</td><td>Wurzelknolle</td><td></td></tr>
-<tr><td>Cynoglossum officinale L.</td><td>Hundszunge</td><td>Kraut</td><td></td></tr>
-<tr><td>Cytisus scoparius (L.) LINK</td><td>Besenginster</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Cynoglossum officinale L.</td><td>Echte Hundszunge</td><td>Kraut</td><td></td></tr>
+<tr><td>Cypripedium calceolus L.</td><td>Frauenschuh</td><td>Wurzel</td><td></td></tr>
+<tr><td>Cytisus scoparius (L.) Link</td><td>Gewöhnlicher Besenginster</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Dalechampia scandens L.</td><td>Eselswolfsmilch</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Daphne spp.</td><td>Seidelbast-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Datura spp.</td><td>Stechapfel</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Delphinium elatum L.</td><td>Rittersporn, hoher</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Delphinium elatum L.</td><td>Hoher Rittersporn</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Delphinium staphisagria L.</td><td>Stephanskraut</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Derris spp.</td><td></td><td>Wurzel</td><td></td></tr>
+<tr><td>Dictamnus albus L.</td><td>Gewöhnlicher Diptam</td><td>Oberirdische Teile, Wurzel</td><td></td></tr>
+<tr><td>Dieffenbachia spp.</td><td>Dieffenbachia</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Digitalis spp.</td><td>Fingerhut-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Dryopteris filix-mas (L.) SCHOTT</td><td>Wurmfarn</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Ecballium elaterium (L.) A. RICH</td><td>Spritzgurke</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Echinopsis peruviana (BRITTON et ROSE) H.FRIEDRICH et G.D.ROWLEY</td><td>Stangenkaktus, peruanischer</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Dioscorea communis (L.) Caddick & Wilkin</td><td>Gemeine Schmerwurz</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Dirca palustris L.</td><td>Sumpf-Lederholz</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Drimia maritima (L.) Stearn</td><td>Meerzwiebel</td><td>Zwiebel</td><td></td></tr>
+<tr><td>Dryopteris filix-mas (L.) Schott</td><td>Gewöhnlicher Wurmfarn</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Duboisia spp.</td><td></td><td>Blatt</td><td></td></tr>
+<tr><td>Dysphania ambrosioides (L.) Mosyakin & Clemants</td><td>Duft-Drüsengänsefuss, Mexikanischer Tee</td><td>Samen</td><td></td></tr>
+<tr><td>Dysphania chilensis (Schrad.) Mosyakin & Clemants</td><td>Epazote</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Ecballium elaterium (L.) A. Rich.</td><td>Spritzgurke</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Echinopsis peruviana (Britton & Rose) Friedrich & G.D.Rowley</td><td>Peruanischer Stangenkaktus</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Echium spp.</td><td>Natternkopf</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Ephedra spp.</td><td>Meerträubel, Ephedra</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Erysimum cheiri (L.) CRANTZ</td><td>Goldlack</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Euphorbia spp.</td><td>Euphorbia-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Eranthis hyemalis (L.) Salisb.</td><td>Winterling</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Erysimum cheiri (L.) Crantz</td><td>Goldlack</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Erythrina spp.</td><td>Korallenbaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Euonymus atropurpureus Jacq.</td><td>Pfaffenhütchen</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Euonymus europaeus L.</td><td>Europäisches Pfaffenhütchen</td><td>Rinde, Wurzel</td><td></td></tr>
+<tr><td>Euphorbia spp.</td><td>Wolfsmilch-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Excoecaria agallocha L.</td><td>Adlerholz</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Ficaria verna Huds.</td><td>Scharbockskraut</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Fritillaria imperialis L.</td><td>Kaiserkrone</td><td>Zwiebel</td><td></td></tr>
+<tr><td>Frangula alnus Mill.</td><td>Echter Faulbaum</td><td>Frucht, Rinde</td><td></td></tr>
+<tr><td>Frangula purshiana Cooper</td><td>Cascararinde</td><td>Rinde</td><td></td></tr>
 <tr><td>Galanthus spp.</td><td>Schneeglöckchen</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Galega officinalis L</td><td>Geissraute</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Gelsemium sempervirens (L.) JAUME ST.-HIL.</td><td>Gelsemium</td><td>Wurzelstock</td><td></td></tr>
+<tr><td>Galega officinalis L</td><td>Echte Geissraute</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Garcinia hanburyi Hook. f.</td><td>Gummigutti</td><td>Harz</td><td></td></tr>
+<tr><td>Geissospermum spp.</td><td></td><td>Rinde</td><td></td></tr>
+<tr><td>Gelsemium sempervirens (L.) J.St.-Hil.</td><td>Gelsemium</td><td>Wurzelstock</td><td></td></tr>
 <tr><td>Genista tinctoria L.</td><td>Färberginster</td><td>Blüte</td><td></td></tr>
-<tr><td>Gloriosa superba L. und Gloriosa rothschildiana O’BRIEN. und Gloriosa simplex L.</td><td>Hakenlilie</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Globularia alypum L.</td><td>Kugelblume</td><td>Blatt</td><td></td></tr>
+<tr><td>Gloriosa superba L.</td><td>Hakenlilie</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Gratiola officinalis L.</td><td>Gottesgnadenkraut</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Griffonia simplicifolia Baill.</td><td>Griffonia</td><td>Samen</td><td></td></tr>
-<tr><td>Gymnema silvestre (WILLD.) R. BR.</td><td>Gymnema</td><td>Blatt</td><td></td></tr>
+<tr><td>Gymnema silvestre (Retz.) R.Br. ex Sm.</td><td>Gymnema</td><td>Blatt</td><td></td></tr>
+<tr><td>Hagenia abyssinica (Bruce) J.F.Gmel.</td><td>Kosobaum, Kussobaum</td><td>Blüte</td><td></td></tr>
+<tr><td>Hedera helix L.</td><td>Gewöhnlicher Efeu</td><td>Blatt</td><td></td></tr>
+<tr><td>Heimia spp.</td><td>Heimien</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Heliotropium arborescens L.</td><td>Garten-Heliotrop, Strauchige Sonnenwende</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Helleborus spp.</td><td>Nieswurz-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Hepatica nobilis Mill.</td><td>Leberblümchen</td><td>Kraut</td><td></td></tr>
 <tr><td>Heracleum mantegazzianum Sommier et Levier</td><td>Riesen-Bärenklau</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Hoodia goordonii (MASS.) SWEET</td><td>Hoodia</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Hippomane mancinella L.</td><td>Manchinellbaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Hoodia goordonii (Masson) Sweet ex Decne.</td><td>Hoodia</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Homalomena spp.</td><td></td><td>Oberirdische Teile</td><td></td></tr>
+<tr><td>Hura crepitans L.</td><td>Sandbüchsenbaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Hyacinthus orientalis L.</td><td>Garten-Hyazinthe</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Hydrastis canadensis L.</td><td>Kanadische Orangenwurzel</td><td>Wurzelstock</td><td></td></tr>
 <tr><td>Hyoscyamus spp.</td><td>Bilsenkraut-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Hypericum perforatum L.</td><td>Johanniskraut</td><td>Kraut, Blüte</td><td>Nur als Aroma in alkoholischen Getränken</td></tr>
-<tr><td>Ilex aquifolium L.</td><td>Stechpalme</td><td>Frucht, Blatt</td><td></td></tr>
-<tr><td>Ipomoea purga (WENDER.) HAYNE</td><td>Jalape, echte</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Ipomoea violacea L.</td><td>Prunkwinde, himmelblaue</td><td>Samen</td><td></td></tr>
+<tr><td>Iberis amara L.</td><td>Bittere Schleifenblume</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Ilex aquifolium L.</td><td>Europäische Stechpalme</td><td>Frucht, Blatt</td><td></td></tr>
+<tr><td>Illicium anisatum L.</td><td>Japanischer Sternanis</td><td>Frucht, Samen</td><td></td></tr>
+<tr><td>Ipomoea purga (Wender.) Hayne</td><td>Echte Jalape</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Ipomoea violacea L.</td><td>Himmelblaue Prunkwinde</td><td>Samen</td><td></td></tr>
+<tr><td>Jatropha curcas L.</td><td>Purgiernuss</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Juglans nigra L.</td><td>Schwarze Walnuss</td><td>Blatt, Rinde</td><td></td></tr>
 <tr><td>Juniperus sabina L.</td><td>Sadebaum</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Laburnum anagyroides MEDICUS</td><td>Goldregen, gemeiner</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Lactuca virosa L.</td><td>Giftlattich</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Ledum palustre L.</td><td>Porst</td><td>Kraut</td><td></td></tr>
-<tr><td>Leucojum vernum L.</td><td>Märzenbecher</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Ligustrum vulgare L.</td><td>Liguster</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Kalmia latifolia L.</td><td>Berglorbeer, Breitblättrige Lorbeerrose</td><td>Blatt, Nektar</td><td></td></tr>
+<tr><td>Laburnum anagyroides Medik.</td><td>Gewöhnlicher Goldregen</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Lactuca virosa Habl.</td><td>Giftlattich</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Lamprocapnos spectabilis (L.) Fukuhara</td><td>Zweifarbige Herzblume, Tränendes Herz</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Larrea tridentata (Sessé & Moc. ex DC.) Coville</td><td>Kreosotbusch</td><td>Oberirdische Teile</td><td></td></tr>
+<tr><td>Ledum palustre L.</td><td>Sumpf-Porst</td><td>Kraut</td><td></td></tr>
+<tr><td>Leucojum vernum L.</td><td>Märzbecher</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Ligustrum vulgare L.</td><td>Gewöhnlicher Liguster</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Lithospermum spp.</td><td>Steinsamen</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Lobelia spp.</td><td>Lobelie-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Lycopodium clavatum L.</td><td>Bärlapp</td><td>Kraut</td><td></td></tr>
-<tr><td>Lycopus europaeus L. und Lycopus virginicus L.</td><td>Wolfstrapp</td><td>Kraut</td><td></td></tr>
+<tr><td>Lonchocarpus spp.</td><td>Timboholz</td><td>Rinde, Samen</td><td></td></tr>
+<tr><td>Lonicera caprifolium L.</td><td>Echtes Geissblatt</td><td>Blüte, Frucht</td><td></td></tr>
+<tr><td>Lycopodium clavatum L.</td><td>Keulen-Bärlapp</td><td>Kraut</td><td></td></tr>
+<tr><td>Lycopus europaeus L.</td><td>Ufer-Wolfstrapp</td><td>Kraut</td><td></td></tr>
+<tr><td>Lycopus virginicus L.</td><td>Virginischer Wolfstrapp</td><td>Kraut</td><td></td></tr>
+<tr><td>Lycoris spp.</td><td>Spinnenlilien</td><td>Zwiebel</td><td></td></tr>
+<tr><td>Maianthemum bifolium (L.) F.W. Schmidt</td><td>Zweiblättrige Schattenblume</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Mallotus philippensis (Lam.) Müll. Arg.</td><td>Kamala</td><td>Frucht</td><td></td></tr>
 <tr><td>Mandragora officinarum L.</td><td>Alraune</td><td>Wurzel</td><td></td></tr>
-<tr><td>Mitragyna speciosa Korth.</td><td>Kratombaum</td><td>Blatt</td><td></td></tr>
+<tr><td>Menispermum canadense L.</td><td>Kanadischer Mondsame</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Mercurialis annua L.</td><td>Einjähriges Bingelkraut</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Mercurialis perennis L.</td><td>Ausdauerndes Bingelkraut, Wald-Bingelkraut</td><td>Kraut</td><td></td></tr>
+<tr><td>Mesembryanthemum spp.</td><td>Mittagsblume</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Mimosa spp.</td><td>Mimose</td><td>Rinde</td><td></td></tr>
+<tr><td>Mitragyna speciosa (Korth.) Havil.</td><td>Kratombaum</td><td>Blatt</td><td></td></tr>
 <tr><td>Mucuna pruriens (L.) DC.</td><td>Juckbohne</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Narcissus spp.</td><td>Osterglocke, Narzisse</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Nerium oleander L.</td><td>Oleander</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Myoporum laetum G. Forst.</td><td>Ngaio-Baum</td><td>Blatt, Frucht</td><td></td></tr>
+<tr><td>Narcissus spp.</td><td>Narzisse</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Nerium oleander L.</td><td>Gewöhnlicher Oleander</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Nymphaea alba L.</td><td>Weisse Seerose</td><td>Wurzel</td><td></td></tr>
+<tr><td>Nymphaea odorata Aiton</td><td>Wohlriechende Seerose</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Ochrosia spp.</td><td></td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Ornithogalum spp.</td><td>Milchstern</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Papaver somniferum L.</td><td>Schlafmohn</td><td>Alle Pflanzenteile</td><td>Ausgenommen Samen</td></tr>
-<tr><td>Pausinystalia yohimbe (K.SCHUM.) PIERRE ex BEILLE</td><td>Yohimbe</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Paris quadrifolia L.</td><td>Einbeere</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Parthenocissus quinquefolia (L.) Planch.</td><td>Selbstkletternde Jungfernrebe</td><td>Frucht</td><td></td></tr>
+<tr><td>Pausinystalia johimbe (K.Schum.) Pierre ex Beille</td><td>Yohimbe</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Peganum harmala L.</td><td>Steppenraute</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Petasites spp.</td><td>Pestwurz-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Physostigma venenosum BALFOUR</td><td>Calabarbohne</td><td>Samen</td><td></td></tr>
-<tr><td>Phytolacca americana L.</td><td>Kermesbeere, amerikanische</td><td>Frucht</td><td></td></tr>
-<tr><td>Pilocarpus jaborandi HOLMES</td><td>Jaborandi</td><td>Blatt</td><td></td></tr>
-<tr><td>Piper methysticum G. FORST.</td><td>Kava-Kava</td><td>Wurzelstock</td><td></td></tr>
-<tr><td>Podophyllum peltatum L.</td><td>Maiapfel</td><td>Wurzel, Harz</td><td></td></tr>
-<tr><td>Polygonatum multiflorum (L.) ALL.</td><td>Weisswurz, vielblütiger, Salomonssiegel</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Psychotria viridis RUIZ et PAV.</td><td>Psychotria viridis</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Pteridium aquilinum (L.) KUHN</td><td>Adlerfarn, gemeiner</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Pulsatilla pratensis (L.) MILL.</td><td>Küchenschelle, nickende</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Pulsatilla vulgaris MILL.</td><td>Küchenschelle, gemeine</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Rauvolfia serpentina (L.) BENTH. ex KURZ</td><td>Schlangenwurzel</td><td>Wurzel</td><td></td></tr>
-<tr><td>Rhamnus catharticus L.</td><td>Kreuzdorn, echter</td><td>Frucht, Rinde</td><td></td></tr>
-<tr><td>Rhamnus frangula L.</td><td>Faulbaum</td><td>Frucht, Rinde</td><td></td></tr>
-<tr><td>Rhamnus purshiana DC.</td><td>Cascararinde</td><td>Rinde</td><td></td></tr>
-<tr><td>Rheum officinale BAILLON und Rheum palmatum L.</td><td>Rhabarber</td><td>Wurzel</td><td>Nur als Aroma in alkoholischen Getränken</td></tr>
-<tr><td>Rhus toxicodendron L.</td><td>Giftsumach</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Peumus boldus Molina</td><td>Boldo</td><td>Blatt</td><td></td></tr>
+<tr><td>Philodendron spp.</td><td>Philodendron</td><td>Oberirdische Teile</td><td></td></tr>
+<tr><td>Physostigma venenosum Balf.</td><td>Calabarbohne</td><td>Samen</td><td></td></tr>
+<tr><td>Phytolacca americana L.</td><td>Amerikanische Kermesbeere</td><td>Frucht</td><td></td></tr>
+<tr><td>Pieris japonica (Thunb.) D. Don ex G. Don</td><td>Japanische Lavendelheide</td><td>Blatt, Blüte, Holz, Nektar</td><td></td></tr>
+<tr><td>Pilocarpus jaborandi Holmes</td><td>Jaborandi</td><td>Blatt</td><td></td></tr>
+<tr><td>Pinellia ternata (Thunb.) Makino ex Breitenbach</td><td>Dreizählige Pinellie</td><td>Wurzel</td><td></td></tr>
+<tr><td>Piper methysticum G.Forst.</td><td>Kava-Kava</td><td>Wurzelstock</td><td></td></tr>
+<tr><td>Piscidia piscipula (L.) Sarg.</td><td>Piscidia</td><td>Wurzelrinde</td><td></td></tr>
+<tr><td>Podophyllum peltatum L.</td><td>Nordamerikanischer Maiapfel, Gewöhnlicher Maiapfel, Entenfuss</td><td>Wurzel, Harz</td><td></td></tr>
+<tr><td>Polygonatum multiflorum (L.) All.</td><td>Vielblütiger Weisswurz</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Psoralea spp.</td><td>Drüsenklee, Harzklee</td><td>Samen</td><td></td></tr>
+<tr><td>Psychotria viridis Ruiz et Pav.</td><td>Psychotria viridis</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Pteridium aquilinum (L.) Kuhn</td><td>Adlerfarn</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Pulsatilla pratensis (L.) Mill.</td><td>Wiesen-Küchenschelle, Wiesen‑Kuhschelle</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Pulsatilla vulgaris Mill.</td><td>Gewöhnliche Küchenschelle, Gewöhnliche Kuhschelle</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Ranunculus spp.</td><td>Hahnenfuss, Wasserhahnenfuss</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Rauvolfia serpentina (L.) Benth. ex Kurz</td><td>Schlangenwurzel</td><td>Wurzel</td><td></td></tr>
+<tr><td>Rhamnus cathartica L.</td><td>Purgier-Kreuzdorn</td><td>Frucht, Rinde</td><td></td></tr>
+<tr><td>Rheum officinale Baill.</td><td>Medizinal-Rhabarber</td><td>Wurzel</td><td>Nur als Aroma in alkoholischen Getränken</td></tr>
+<tr><td>Rheum palmatum L.</td><td>Zier-Rhabarber</td><td>Wurzel</td><td>Nur als Aroma in alkoholischen Getränken</td></tr>
+<tr><td>Rhodomyrtus spp.</td><td>Rosenmyrte</td><td>Oberirdische Teile</td><td></td></tr>
+<tr><td>Rhynchosia spp.</td><td></td><td>Samen</td><td></td></tr>
 <tr><td>Ricinus communis L.</td><td>Rizinus</td><td>Samen</td><td></td></tr>
 <tr><td>Rubia tinctorum L.</td><td>Krapp</td><td>Wurzel</td><td></td></tr>
+<tr><td>Sanguinaria canadensis L.</td><td>Kanadische Blutwurzel</td><td>Blatt, Wurzel</td><td></td></tr>
+<tr><td>Sansevieria spp.</td><td>Bogenhanf</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Sassafras spp.</td><td>Sassafras</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Schoenocaulon officinale (SCHLECHTEND. et CHAM.) A. GRAY</td><td>Sabadill</td><td>Samen</td><td></td></tr>
+<tr><td>Schefflera spp.</td><td>Schefflera, Strahlenaralie, Lackblatt</td><td>Blatt, Saft</td><td></td></tr>
+<tr><td>Schoenocaulon officinale (Schlechtend. et Cham.) A. Gray</td><td>Sabadill</td><td>Samen</td><td></td></tr>
+<tr><td>Scindapsus spp.</td><td>Efeutute</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Scopolia spp.</td><td>Tollkraut-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Scrophularia spp.</td><td>Braunwurz</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Securigera varia (L.) Lassen</td><td>Bunte Beilwicke</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Senecio spp.</td><td>Kreuzkraut-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Senna alexandrina Mill.</td><td>Senna</td><td>Blatt, Hülse</td><td></td></tr>
+<tr><td>Sesbania spp.</td><td>Sesbanie</td><td>Oberirdische Teile</td><td></td></tr>
 <tr><td>Sida cordifolia L.</td><td>Sandmalve</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Solanum dulcamara L.</td><td>Nachtschatten, bittersüsser</td><td>Stängel</td><td></td></tr>
-<tr><td>Solanum nigrum L. emend. MILL.</td><td>Nachtschatten, schwarzer</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Simarouba amara Aubl.</td><td>Bitterholzbaum, Quassiaholzbaum</td><td>Rinde</td><td></td></tr>
+<tr><td>Solandra spp.</td><td>Goldkelch</td><td>Oberirdische Teile</td><td></td></tr>
+<tr><td>Solanum dulcamara L.</td><td>Bittersüsser Nachtschatten</td><td>Stängel</td><td></td></tr>
+<tr><td>Solanum nigrum L.</td><td>Schwarzer Nachtschatten</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Solenostemma argel (Delile) Hayne</td><td></td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Spartium junceum L.</td><td>Binsenginster, Pfriemenginster</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Spathiphyllum spp.</td><td>Blattfahne, Scheidenblatt</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Spigelia anthelmia L.</td><td>Wurmkraut</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Spigelia marilandica L.</td><td>Amerikanischer Nelkenwurz</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Sprekelia spp.</td><td>Jakobslilien</td><td>Zwiebel</td><td></td></tr>
+<tr><td>Stephanotis spp.</td><td>Kranzschlinge</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Sternbergia spp.</td><td>Sternbergie, Goldkrokus, Gewitterblume</td><td>Zwiebel</td><td></td></tr>
 <tr><td>Strophantus spp.</td><td>Strophantus-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Strychnos ignatii BERG.</td><td>Ignatiusbohne</td><td>Samen</td><td></td></tr>
+<tr><td>Strychnos ignatii P.J. Bergius</td><td>Ignatiusbohne</td><td>Samen</td><td></td></tr>
 <tr><td>Strychnos nux vomica L.</td><td>Brechnuss</td><td>Samen</td><td></td></tr>
-<tr><td>Tabernanthe iboga BAILL.</td><td>Iboga</td><td>Wurzel</td><td></td></tr>
-<tr><td>Tamus communis L.</td><td>Schmerwurz</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Symphoricarpos albus (L.) S.F.Blake</td><td>Weisse Schneebeere, Knallerbse</td><td>Frucht</td><td></td></tr>
+<tr><td>Tabernanthe iboga Baill.</td><td>Iboga</td><td>Wurzel</td><td></td></tr>
+<tr><td>Tanacetum cinerariifolium (Trevir.) Sch. Bip</td><td>Weisses Pyrethrum, Damatiner Insektenblume</td><td>Blüte</td><td></td></tr>
 <tr><td>Tanacetum vulgare L.</td><td>Rainfarn</td><td>Blüte, Kraut</td><td></td></tr>
-<tr><td>Taxus spp.</td><td>Eibe</td><td>Alle Pflanzenteile</td><td>Ausgenommen Samenmantel</td></tr>
-<tr><td>Teucrium chamaedrys L.</td><td>Edelgamander</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Thevetia peruviana (PERS.) K. SCHUM.</td><td>Schellenbaum</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Taxus spp.</td><td>Eibe</td><td>Alle Pflanzenteile</td><td>Ausgenommen Samenmantel (roter Arillus der Frucht)</td></tr>
+<tr><td>Tephrosia spp.</td><td>Aschenwicke, Giftbaum</td><td>Blatt</td><td></td></tr>
+<tr><td>Tetraclinis articulata (Vahl.) Mast.</td><td>Sandarakbaum</td><td>Harz</td><td></td></tr>
+<tr><td>Teucrium chamaedrys L.</td><td>Edelgamander</td><td>Alle Pflanzenteile</td><td>Nur als Aroma in alkoholischen Getränken</td></tr>
+<tr><td>Teucrium polium L.</td><td>Polei-Gamander, Marienkraut</td><td>Kraut</td><td></td></tr>
 <tr><td>Thuja spp.</td><td>Thuja-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Urginea maritima (L.) BAKER</td><td>Meerzwiebel</td><td>Zwiebel</td><td></td></tr>
-<tr><td>Veratrum album L.</td><td>Germer, weisser</td><td>Wurzelstock</td><td></td></tr>
-<tr><td>Viburnum lantana L.</td><td>Schneeball, wolliger</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Viburnum opulus L.</td><td>Schneeball, gemeiner</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Vinca minor L.</td><td>Immergrün, kleines</td><td>Kraut</td><td></td></tr>
+<tr><td>Toxicodendron pubescens Mill.</td><td>Giftsumach</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Trichodesma incanum (Bunge) A. DC.</td><td></td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Trollius europaeus L.</td><td>Trollblume, Kugelranunkel</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Tulipa spp.</td><td>Tulpe</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Turbina corymbosa (L.) Raf.</td><td>Schlangenpflanze</td><td>Samen, Blatt, Wurzel</td><td></td></tr>
+<tr><td>Tylophora asthmatica (L. f.) Wight & Arn.</td><td></td><td>Blatt</td><td></td></tr>
+<tr><td>Valeriana edulis subsp. procera (Kunth) F.G. Mey.</td><td>Mexikanischer Baldrian</td><td>Wurzel</td><td></td></tr>
+<tr><td>Veratrum album L.</td><td>Weisser Germer</td><td>Wurzelstock</td><td></td></tr>
+<tr><td>Viburnum lantana L.</td><td>Wolliger Schneeball</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Viburnum opulus L.</td><td>Gewöhnlicher Schneeball</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Viburnum prunifolium L.</td><td>Amerikanischer Schneeballbaum</td><td>Rinde</td><td></td></tr>
+<tr><td>Vinca minor L.</td><td>Kleines Immergrün</td><td>Kraut</td><td></td></tr>
+<tr><td>Vincetoxicum hirundinaria Medik.</td><td>Weisse Schwalbenwurz</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Viscum album L.</td><td>Mistel</td><td>Frucht, Kraut</td><td></td></tr>
-<tr><td>Voacanga africana STAPF. und Voacanga thuarsii Roem-Schu</td><td>Voacanga</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Voacanga africana Stapf. ex Scott-Elliot</td><td>Voacanga</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Voacanga thuarsii Roem-Schu</td><td>Voacanga</td><td>Alle Pflanzenteile</td><td></td></tr>
+<tr><td>Wikstroemia spp.</td><td>Seidelbastgewächse</td><td>Alle Pflanzenteile</td><td></td></tr>
 <tr><td>Wisteria spp.</td><td>Blauregen-Arten</td><td>Alle Pflanzenteile</td><td></td></tr>
-<tr><td>Xysmalobium undulatum (L.) R. BR.</td><td>Uzara</td><td>Wurzel</td><td></td></tr>
+<tr><td>Xysmalobium undulatum (L.) W.T.Aiton</td><td>Uzara</td><td>Wurzel</td><td></td></tr>
+<tr><td>Zigadenus spp.</td><td>Jochlilie</td><td>Zwiebel</td><td></td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+### Teil B: Pflanzliche Stoffe und Zubereitungen mit diesen Stoffen, deren Verwendung in Lebensmitteln nicht zulässig ist
+
+Aloe-Emodin und alle Zubereitungen, in denen dieser Stoff enthalten ist.
+
+Danthron und alle Zubereitungen, in denen dieser Stoff enthalten ist.
+
+Emodin und alle Zubereitungen, in denen dieser Stoff enthalten ist.
+
+Zubereitungen aus Blättern von Aloe-Arten, die Hydroxyanthracen-Derivate enthalten.
+
+Anhang 2[^t-2]
 
 (Art. 9 Bst. d und 10 Abs. 2)
 
 ## Anforderungen an Olivenöle und Oliventresteröle
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
-Für Olivenöl und Oliventresteröl gelten die Anforderungen nach Anhang I der Verordnung (EWG) Nr. 2568/91[^annex2-lvlu1-1]. Es gelten die Probenahme- und Analysemethoden nach den Anhängen I*a* und II–XX derselben Verordnung.
+Für Olivenöl und Oliventresteröl gelten die Anforderungen nach Anhang I der delegierten Verordnung (EU) Nr. 2022/2104[^annex2-lvlu1-1]. Es gelten die Probenahme- und Analysemethoden nach den Anhängen I, II und IV der Durchführungsverordnung (EU) Nr. 2022/2105[^annex2-lvlu1-2] oder äquivalenten, validierten Verfahren, die zu den vorgegebenen Methoden identische Resultate liefern.
 
-[^annex2-lvlu1-1]: Verordnung (EWG) Nr. 2568/91 der Kommission vom 11. Juli 1991 über die Merkmale von Olivenölen und Oliventresterölen sowie die Verfahren zu ihrer Bestimmung, ABl. L 248 vom 5.9.1991, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1604, ABl. L 250 vom 30.9.2019, S. 14.
+[^annex2-lvlu1-1]: Siehe Fussnote zu Art. 12 Abs. 5
+[^annex2-lvlu1-2]: Siehe Fussnote zu Art. 12 Abs. 5
 
 Anhang 3
 
@@ -1875,13 +2044,13 @@ Glace ist Speiseeis, das folgende Anforderungen erfüllt:
 
 Softeis oder Soft Ice ist halbgefrorenes Speiseeis, das zum unmittelbaren Genuss bestimmt ist.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 31 und 37 Abs. 1 Bst. c)
 
 ## Speisepilze, die nur unter spezifischen Anforderungen in Verkehr gebracht werden dürfen, und die entsprechenden Anforderungen
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 <table>
 <tr><th>Pilzname lateinisch</th><th>Synonyme Pilznamen lateinisch</th><th>Pilzname deutsch</th><th>Anforderungen</th></tr>
@@ -1901,7 +2070,7 @@ Anhang 4*[^t-3]*
 <tr><td>Boletus</td><td>[tab]</td><td></td><td></td></tr>
 <tr><td>*Boletus erythropus* Pers.</td><td>*Neoboletus erythropus (Pers.) C. Hahn*</td><td>[tab] Flockenstieliger Hexenröhrling</td><td>Mindestens 20 Minuten kochen.</td></tr>
 <tr><td>Chlorophyllum</td><td>[tab]</td><td>[tab]</td><td></td></tr>
-<tr><td>*Chlorophyllum rhacodes (Vittad.) Vellinga*</td><td>*Macrolepiota rachodes (Vittad.) Singer* *Macrolepiota rhacodes (Vittad.) Singer*</td><td>[tab] Safran-Riesenschirmling</td><td>Mindestens 20 Minuten kochen/braten. Nur den Hut zubereiten, nicht den Stiel.</td></tr>
+<tr><td>*Chlorophyllum* *olivieri* *(Barla) Vellinga*</td><td>*Chlorophyllum rhacodes (Vittad.) Vellinga* *Macrolepiota rachodes (Vittad.) Singer* *Macrolepiota rhacodes (Vittad.) Singer*</td><td>[tab] Safran-Riesenschirmling</td><td>Mindestens 20 Minuten kochen/braten. Nur den Hut zubereiten, nicht den Stiel.</td></tr>
 <tr><td>Kuehneromyces</td><td>[tab]</td><td>[tab]</td><td></td></tr>
 <tr><td>*Kuehneromyces mutabilis (Schaeff.) Singer & A.H. Sm.*</td><td>*Pholiota mutabilis (Schaeff.) P. Kumm.*</td><td>[tab] Gemeines Stockschwämmchen</td><td>Nur aus Zucht (Verwechslungsgefahr mit *Galerina marginata*).</td></tr>
 <tr><td>Lentinula</td><td>[tab]</td><td></td><td></td></tr>
@@ -1948,15 +2117,17 @@ Anmerkung: Alle Angaben gelten als Höchstwerte in Massenprozent im Prüflos.
 <tr><td colspan="6"><sup>a)</sup> Verunreinigungen pflanzlicher Herkunft <sup>b)</sup> inkl. anhaftender Kompost <sup>c)</sup> Gattung *Boletus* (Steinpilze) <sup>d)</sup> Differenz zu 15 Prozent Gesamtfehler</td></tr>
 </table>
 
-Anhang 6
+Anhang 6[^t-4]
 
-(Art. 50, 51 Abs. 1–4, 52 Abs. 1, 53 Abs. 1 ,3 und 4, 54 Abs. 1 Bst. a und 2 Bst. a–c sowie 4)
+(Art. 50, 51 Abs. 1–4, 52 Abs. 1, 53 Abs. 1, 3 und 4, 54 Abs. 1 Bst. a und 2 Bst. a–c sowie 4)
 
 ## Kakaobohnen und -kerne, Schokolade und Erzeugnisse daraus
 
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+
 ### 1. Kakaobohnen
 
-Kakaobohnen sind fermentierte und getrocknete Samen des Kakaobaumes (*Th**e**obroma cacao L*.)
+Kakaobohnen sind fermentierte und getrocknete Samen des Kakaobaumes (*Theobroma cacao L*.)
 
 ### 2. Kakaokerne
 
@@ -2056,6 +2227,15 @@ Wird die Bezeichnung Schokolade mit dem Ausdruck «-kuvertüre» oder «‑couve
 - a. Milch und/oder aus verdampfter Milch stammende Milchtrockenmasse in einem solchen Verhältnis, dass das Enderzeugnis nicht mehr als 5 % Milchtrockenmasse enthält;
 - b. Mandeln, Haselnüsse und andere Nüsse, ganz oder in Stücken, wenn das Gewicht dieser Zusätze, einschliesslich der gemahlenen Haselnüsse, 60 % des Gesamtgewichts des Erzeugnisses nicht übersteigt.
 
+### 6.5 Schokolade mit Qualitätsmerkmal
+
+Wird die Sachbezeichnung Schokolade mit einem Qualitätsmerkmal ergänzt, so muss das Erzeugnis folgende Merkmale aufweisen:
+
+<table>
+<tr><td>a. Gesamtkakaotrockenmasse</td><td>mindestens 43 Massenprozent (bezogen auf den Schokoladeanteil)</td></tr>
+<tr><td>b. davon Kakaobutter</td><td>mindestens 26 Massenprozent (bezogen auf den Schokoladeanteil)</td></tr>
+</table>
+
 ### 7. Erzeugnisse auf der Basis von Milchschokolade
 
 ### 7.1 Milchschokolade
@@ -2118,6 +2298,16 @@ Milchfett mindestens 10 Massenprozent
 Wird in der Bezeichnung «Milchschokolade» das Wort «Milch-» durch das Wort «Magermilch» ersetzt, so muss das Erzeugnis aus Milchschokolade folgende Merkmale aufweisen (Berechnung nach Art. 52):
 
 Milchfett höchstens 1 Massenprozent
+
+### 7.8 Milchschokolade mit Qualitätsmerkmal
+
+Wird die Sachbezeichnung «Milchschokolade» mit einem Qualitätsmerkmal ergänzt, so muss das Erzeugnis folgende Merkmale aufweisen:
+
+<table>
+<tr><td>a. Gesamtkakaotrockenmasse</td><td>mindestens 30 Massenprozent</td></tr>
+<tr><td>b. Milchtrockenmasse</td><td>mindestens 18 Massenprozent aus teilweise oder vollständig getrockneter Vollmilch, teil- oder vollentrahmter Milch, Rahm, teilweise oder vollständig getrocknetem Rahm, Butter oder Milchfett</td></tr>
+<tr><td>c. davon Milchfett</td><td>mindestens 4,5 Massenprozent</td></tr>
+</table>
 
 ### 8. Haushaltsmilchschokolade
 
