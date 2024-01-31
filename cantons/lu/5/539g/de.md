@@ -3,20 +3,19 @@ canton: LU
 number: 539g
 title: Reglement über die wissenschaftlichen Assistentinnen und Assistenten an der Universität Luzern
 language: de
-version: 2013-08-01
-valid_until: 2024-01-31
-version_adopted: 2013-02-22
+version: 2024-02-01
+version_adopted: 2023-12-13
 adopted: 2013-02-22
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539g"
-pdf: "https://srl.lu.ch/api/de/versions/2321/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4190/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die wissenschaftlichen Assistentinnen und Assistenten an der Universität Luzern
 
-vom 22.02.2013 (Stand 01.08.2013)
+vom 22.02.2013 (Stand 01.02.2024)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,7 +33,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement gilt für die wissenschaftlichen Assistentinnen und Assistenten der Universität Luzern gemäss § 30 Absätze 2 und 3 des Statuts der Universität Luzern vom 12. Dezember 2001[^1-1]. Werden durch die Regelungen auch drittmittelfinanzierte Forschungsmitarbeiterinnen und -mitarbeiter betroffen, sind die entsprechenden Bestimmungen analog anwendbar.
+<sup>1</sup> Dieses Reglement gilt für die wissenschaftlichen Assistentinnen und Assistenten der Universität Luzern gemäss § 43 Abs. 1 und 2 des Statuts der Universität Luzern vom 13. Dezember 2023[^1-1].
 
 <sup>2</sup> Es regelt das Anstellungsverhältnis und konkretisiert die Rechte und Pflichten, wie sie sich aus dem kantonalen Personalrecht ergeben.
 
@@ -46,11 +45,9 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das Reglement orientiert sich im Grundsatz am Anspruch des Leitbildes der Universität Luzern[^2-1], die akademischen Nachwuchskräfte zu fördern durch hohe Anforderungen, die Schaffung von Freiräumen, die Ermöglichung der Mitwirkung an Lehre und Forschung, die Übertragung von Verantwortung und die Erleichterung von Mobilität.
+<sup>1</sup> Das Reglement orientiert sich am Grundsatz, die akademischen Nachwuchskräfte zu fördern durch hohe Anforderungen, die Schaffung von Freiräumen, die Ermöglichung der Mitwirkung an Lehre und Forschung, die Übertragung von Verantwortung und die Erleichterung von Mobilität.
 
 <sup>2</sup> Der Realisierung der Chancengleichheit der Geschlechter ist durch geeignete Massnahmen besonders Rechnung zu tragen.
-
-[^2-1]: Das Leitbild der Universität Luzern wurde am 27. Juni 2001 auf Antrag des Senats durch den Universitätsrat genehmigt.
 
 ## 2 Anstellungsverhältnis
 
@@ -58,27 +55,29 @@ beschliesst:
 
 **Anstellung**
 
-<sup>1</sup> Die Anstellung erfolgt durch die Rektorin oder den Rektor auf Vorschlag der Fakultät.
+<sup>1</sup> Die Anstellung erfolgt durch die Prorektorin oder den Prorektor Personal und Professuren auf Antrag der Fakultät.
 
 #### § 4
 
 **Dauer**
 
-<sup>1</sup> Die Anstellungsdauer von wissenschaftlichen Assistentinnen und Assistenten beträgt drei bis fünf Jahre. In begründeten Ausnahmefällen kann mit der Zustimmung der Dekanin oder des Dekans eine kürzere oder längere Anstellungsdauer vereinbart werden.
+<sup>1</sup> Wissenschaftliche Assistentinnen und Assistenten sowie Oberassistentinnen und Oberassistenten werden in der Regel für die Dauer von fünf Jahren befristet angestellt. In begründeten Fällen kann mit der Zustimmung der Dekanin oder des Dekans eine kürzere Anstellungsdauer vereinbart werden, insbesondere wenn davon ausgegangen werden kann, dass der Abschluss der Qualifikationsarbeit innerhalb der Anstellungsdauer realistisch ist. Die Begründung für eine kürzere Anstellungsdauer wird im Personaldossier abgelegt.
 
-<sup>2</sup> Die Anstellungsdauer von wissenschaftlichen Oberassistentinnen und Oberassistenten beträgt drei bis fünf Jahre. Eine Verlängerung ist gemäss § 5 Absatz 2 möglich. In begründeten Ausnahmefällen kann mit der Zustimmung der Dekanin oder des Dekans eine kürzere oder längere Anstellungsdauer vereinbart werden.
+<sup>2</sup> Konnte die Qualifikationsarbeit wegen längerer Abwesenheiten, insbesondere infolge von Urlaub oder Krankheit, nicht innerhalb der ursprünglichen Anstellungsdauer abgeschlossen werden, kann das befristete Anstellungsverhältnis um höchstens zwei Jahre verlängert werden, wenn mit dem Abschluss der Qualifikationsarbeit innerhalb der verlängerten Anstellungsdauer gerechnet werden kann.
 
-<sup>3</sup> Bei Forschungsmitarbeitenden gilt die vereinbarte Projektdauer.
+<sup>2<sup>bis</sup></sup> Nicht vorhersehbare, unverschuldete Verzögerungen beim Verfassen der Qualifikationsarbeit können in begründeten Ausnahmefällen zu einer Verlängerung des Anstellungsverhältnisses analog zu Absatz 2 berechtigen.
+
+<sup>3</sup> Mitarbeitende in drittmittelfinanzierten Projekten werden für die vereinbarte Projektdauer angestellt. Ist die Projektdauer zu kurz für den Abschluss einer wissenschaftlichen Qualifikation, erfolgt die Anstellung als Mitarbeiterin oder Mitarbeiter ohne Qualifikationsabsicht; § 24 Absatz 3 ist sinngemäss anwendbar.
 
 #### § 5
 
 **Erneute Anstellung**
 
-<sup>1</sup> Wissenschaftliche Assistentinnen und Assistenten können, wenn die Frist ihrer ersten Anstellung abgelaufen ist und sie innerhalb dieser Frist promoviert wurden, auf gemeinsamen Antrag der Professorin oder des Professors und der -wissenschaftlichen Assistentin oder des wissenschaftlichen Assistenten für maximal die gleiche Dauer als wissenschaftliche Oberassistentin oder als wissenschaftlicher Oberassistent angestellt werden, ohne dass die Stelle zur Bewerbung ausgeschrieben wird.
+<sup>1</sup> Wissenschaftliche Assistentinnen und Assistenten können, wenn sie vor Ablauf ihrer Anstellung gemäss § 4 Absätze 1 und 2 promoviert wurden, das bisherige Anstellungsverhältnis bis zum Ablauf der vorgesehenen Frist unverändert weiterführen. Alternativ können sie als wissenschaftliche Oberassistentin oder wissenschaftlicher Oberassistent angestellt werden, ohne dass die Stelle ausgeschrieben wird.
 
-<sup>2</sup> Wissenschaftliche Oberassistentinnen und Oberassistenten, welche die Habilitation innerhalb der Anstellungsdauer von fünf Jahren fertig erstellt haben, können für maximal zwei weitere Jahre angestellt werden.
+<sup>2</sup> Wissenschaftliche Oberassistentinnen und Oberassistenten, welche die Habilitation innerhalb der befristeten Anstellungsdauer nach § 4 Absätze 1 und 2 fertiggestellt haben, können für maximal zwei weitere Jahre befristet angestellt werden.
 
-<sup>3</sup> Wissenschaftliche Assistentinnen und Assistenten, die vor Ablauf ihrer Anstellung promoviert wurden, können entweder das bisherige Anstellungsverhältnis bis zum Ablauf der vorgesehenen Frist unverändert weiterführen oder auf gemeinsamen Antrag der Professorin oder des Professors und der wissenschaftlichen Assistentin oder des wissenschaftlichen Assistenten vorzeitig für die Dauer von maximal fünf Jahren als wissenschaftliche Oberassistentin oder als wissenschaftlicher Oberassistent angestellt werden, ohne dass die Stelle zur Bewerbung ausgeschrieben wird.
+<sup>3</sup> Vorbehalten bleibt nach Ablauf der befristeten Anstellungsdauer eine unbefristete Anstellung in anderer Funktion; in diesem Fall ist die Stelle grundsätzlich zur Bewerbung auszuschreiben.
 
 #### § 6
 
@@ -131,11 +130,11 @@ beschliesst:
 
 **Vorgehen im Falle von Uneinigkeiten und Verstössen**
 
-<sup>1</sup> Im Falle von Uneinigkeiten zwischen der wissenschaftlichen Assistentin oder dem wissenschaftlichen Assistenten und der vorgesetzten Person über den Inhalt der zu erstellenden oder anzupassenden Anstellungs- und Ausbildungsabsprache oder im Falle von Verstössen gegen die getroffenen Abmachungen kann die universitäre Ombudsstelle und bis zu deren Errichtung die von der Fakultät bezeichnete Anlaufstelle zur Beratung beigezogen werden. Alternativ kann die kantonale Schlichtungsstelle angegangen werden.
+<sup>1</sup> Im Falle von Uneinigkeiten zwischen der wissenschaftlichen Assistentin oder dem wissenschaftlichen Assistenten und der vorgesetzten Person über den Inhalt der zu erstellenden oder anzupassenden Anstellungs- und Ausbildungsabsprache oder im Falle von Verstössen gegen die getroffenen Abmachungen kann die universitäre Ombudsstelle angerufen werden.
 
-<sup>2</sup> Auf Wunsch der wissenschaftlichen Assistentin oder des wissenschaftlichen Assistenten können auch allfällige Betreuerinnen oder Betreuer ihrer oder seiner wissenschaftlichen Arbeit zur Beratung beigezogen werden.
+<sup>2</sup> …
 
-<sup>3</sup> Bei Nichteinhaltung von Vereinbarungen mit der Ombudsstelle kann jede der betroffenen Personen an die Dekanin oder den Dekan gelangen. Die Beschwerdemöglichkeiten nach den allgemeinen Bestimmungen bleiben vorbehalten.
+<sup>3</sup> Bei Nichteinhaltung von Vereinbarungen kann jede der betroffenen Personen an die Dekanin oder den Dekan oder die Prorektorin oder den Prorektor Personal und Professuren gelangen. Die Beschwerdemöglichkeiten nach den allgemeinen Bestimmungen bleiben vorbehalten.
 
 #### § 12
 
@@ -147,7 +146,7 @@ beschliesst:
 
 <sup>3</sup> Die Arbeitszeit wird flexibel gestaltet. Der Ausgleich der in der Anstellungs- und Ausbildungsabsprache vereinbarten Arbeitsanteile in Forschung, Lehre und weiteren Aufgaben soll in der Regel innerhalb eines akademischen Jahres erfolgen, spätestens jedoch im darauffolgenden Jahr.
 
-<sup>4</sup> Bei der Ausgestaltung der Arbeitszeit wird auf Personen mit Betreuungspflichten Rücksicht genommen. Die Universität sorgt im Rahmen ihrer Möglichkeiten für den Zugang zu Krippenplätzen.
+<sup>4</sup> Bei der Ausgestaltung der Arbeitszeit wird auf Personen mit Betreuungspflichten Rücksicht genommen. Die Universität Luzern sorgt im Rahmen ihrer Möglichkeiten für den Zugang zu Krippenplätzen.
 
 #### § 13
 
@@ -175,13 +174,13 @@ beschliesst:
 
 <sup>1</sup> Die Aufgaben der wissenschaftlichen Assistentinnen und Assistenten werden in der Anstellungs- und Ausbildungsabsprache schriftlich vereinbart.
 
-<sup>2</sup> Assistierende und Oberassistierende werden für folgende Aufgabenbereiche eingesetzt:
+<sup>2</sup> Wissenschaftliche Assistentinnen und Assistenten sowie Oberassistentinnen und Oberassistenten werden für folgende Aufgabenbereiche eingesetzt:
 
 - a. Lehre und Forschung gemäss den §§ 16–18,
 - b. Lehrmittelherstellung,
 - c. Betreuung der Studierenden,
 - d. Prüfungsaufsicht, -beisitz und Korrekturarbeiten,
-- e. Mitarbeit in der Selbstverwaltung der Universität und der Fakultät,
+- e. Mitarbeit in der Selbstverwaltung der Universität Luzern und der Fakultät,
 - f. Mitarbeit bei Forschungs- und Lehrtätigkeiten der zuständigen Professorin oder des zuständigen Professors,
 - g. Verfassen von Publikationen in eigener oder in Koautorschaft mit der Professorin oder dem Professor,
 - h. Planung und Organisation universitätsinterner Veranstaltungen (Tagungen u.Ä.),
@@ -189,7 +188,7 @@ beschliesst:
 
 <sup>3</sup> Diese Aufgaben erfolgen, abhängig von Qualifikation und Erfahrung, selbständig oder als Mithilfe des oder der Vorgesetzten.
 
-<sup>4</sup> Die drittmittelfinanzierten Forschungsmitarbeiterinnen und -mitarbeiter können für fakultäre Aufgaben herangezogen werden, soweit dies mit den Anstellungsbedingungen der finanzierenden Institutionen vereinbar ist. Ein allfälliger weitergehender Beizug ist besonders zu entschädigen.
+<sup>4</sup> Die drittmittelfinanzierten Forschungsmitarbeitenden können für fakultäre Aufgaben herangezogen werden, soweit dies mit den Anstellungsbedingungen der finanzierenden Institutionen vereinbar ist. Ein allfälliger weitergehender Beizug ist besonders zu entschädigen.
 
 #### § 16
 
@@ -209,11 +208,11 @@ beschliesst:
 
 **Zusätzliche Lehraufträge**
 
-<sup>1</sup> Die Fakultäten können den wissenschaftlichen Assistentinnen und Assistenten in Ausnahmefällen zusätzliche Lehraufträge erteilen.
+<sup>1</sup> Die Fakultäten können den wissenschaftlichen Assistentinnen und Assistenten in Ausnahmefällen zusätzliche Lehraufträge erteilen, sofern der Abschluss der Qualifikationsarbeit innerhalb der Anstellungsdauer dadurch nicht gefährdet wird.
 
 <sup>2</sup> Diese Lehraufträge werden als zusätzliches Pensum vergütet. Es gelten die Honoraransätze für Lehrpersonen.
 
-<sup>3</sup> Sämtliche Lehrpensen von drittmittelfinanzierten wissenschaftlichen Forschungsmitarbeiterinnen und -mitarbeitern werden zusätzlich zur bereits bestehenden Anstellung vergütet.
+<sup>3</sup> Lehrpensen von drittmittelfinanzierten wissenschaftlichen Forschungsmitarbeitenden werden zusätzlich vergütet, falls die Lehre aufgrund der Vorgaben der finanzierenden Institutionen nicht während der Arbeitszeit erfolgen darf.
 
 #### § 18
 
@@ -241,25 +240,25 @@ beschliesst:
 
 **Wissenschaftliche Weiterbildung**
 
-<sup>1</sup> Die wissenschaftliche Weiterbildung wird von der Universität als integrierender Teil der Nachwuchsförderung betrachtet.
+<sup>1</sup> Die wissenschaftliche Weiterbildung wird von der Universität Luzern als integrierender Teil der Nachwuchsförderung betrachtet.
 
-<sup>2</sup> Pro Kalenderjahr wird auf Antrag und im Rahmen der finanziellen Möglichkeiten der Universität über das Fakultätsbudget mindestens eine wissenschaftliche Weiterbildung (vorzugsweise aktiv, z.B. durch ein Referat) finanziell unterstützt, wobei -maximal 20 Prozent der direkten Kosten von den Antragstellerinnen und Antragstellern selbst zu tragen sind. Betragen die Kosten (Besoldung, Bildungskosten, Spesen) mehr als 5000 Franken, wird eine Weiterbildungsvereinbarung abgeschlossen. Nach den Veranstaltungen ist ein Kurzbericht zuhanden der Professur und des Dekanats von mindestens einer halben A4-Seite zu erstellen.
+<sup>2</sup> Pro Kalenderjahr wird auf Antrag und im Rahmen der finanziellen Möglichkeiten der Universität über das Fakultätsbudget mindestens eine wissenschaftliche Weiterbildung (vorzugsweise aktiv, z.B. durch ein Referat) finanziell unterstützt, wobei maximal 20 Prozent der direkten Kosten von den Antragstellenden selbst zu tragen sind. Betragen die Kosten (Besoldung, Bildungskosten, Spesen) mehr als 5000 Franken, wird eine Weiterbildungsvereinbarung abgeschlossen. Nach den Veranstaltungen ist ein Kurzbericht zuhanden der Professur und des Dekanats von mindestens einer halben A4-Seite zu erstellen.
 
 <sup>3</sup> Die Teilnahme wird mindestens zur Hälfte als Arbeitszeit angerechnet.
 
-<sup>4</sup> Die wissenschaftliche Weiterbildung von drittmittelfinanzierten Forschungsmitarbeitenden wird durch die Leitung des Forschungsprojekts geregelt und muss im Rahmen des Projektbudgets finanziert werden.
+<sup>4</sup> Für die wissenschaftliche Weiterbildung von drittmittelfinanzierten Assistentinnen und Assistenten sowie Oberassistentinnen und Oberassistenten gelten Absätze 1-3 analog; soweit möglich wird die Weiterbildung über das Projektbudget finanziert.
 
 #### § 21
 
 **Didaktische Weiterbildung**
 
-<sup>1</sup> Die Universität und die Fakultäten bieten didaktische Weiterbildungsprogramme an, die den Bedürfnissen der wissenschaftlichen Assistentinnen und Assistenten angepasst sind.
+<sup>1</sup> Die Universität Luzern und die Fakultäten bieten didaktische Weiterbildungsprogramme an, die den Bedürfnissen der wissenschaftlichen Assistentinnen und Assistenten angepasst sind.
 
-<sup>2</sup> Die internen und externen didaktischen Weiterbildungen werden von der Universität Luzern im Rahmen der finanziellen Möglichkeiten über die Fakultätsbudgets finanziert.
+<sup>2</sup> Die internen und externen didaktischen Weiterbildungen werden von der Universität im Rahmen der finanziellen Möglichkeiten über die Fakultätsbudgets finanziert.
 
 <sup>3</sup> Wissenschaftliche Assistentinnen und Assistenten, die in der Lehre tätig sind, sind zur Teilnahme an der didaktischen Weiterbildung verpflichtet. Die Teilnahme wird mindestens zur Hälfte als Arbeitszeit angerechnet.
 
-<sup>4</sup> Die didaktische Weiterbildung von drittmittelfinanzierten Forschungsmitarbeitenden wird durch die Leitung des Forschungsprojekts geregelt und muss im Rahmen des Projektbudgets finanziert werden.
+<sup>4</sup> Für die didaktische Weiterbildung von drittmittelfinanzierten Assistentinnen und Assistenten sowie Oberassistentinnen und Oberassistenten gelten die Absätze 1-3 analog; soweit möglich wird die Weiterbildung über das Projektbudget finanziert.
 
 #### § 22
 
@@ -267,11 +266,11 @@ beschliesst:
 
 <sup>1</sup> Die allgemeine Weiterbildung dient dem Erwerb oder der Erweiterung von berufsrelevanten Fähigkeiten.
 
-<sup>2</sup> Die Universität leistet Unterstützung nach Massgabe des Nutzens für die dienstliche Tätigkeit und im Rahmen des Budgets.
+<sup>2</sup> Die Universität Luzern leistet Unterstützung nach Massgabe des Nutzens für die dienstliche Tätigkeit und im Rahmen des Budgets.
 
 <sup>3</sup> Die Weiterbildungsangebote berücksichtigen die unterschiedlichen Bedürfnisse von Frauen und Männern. Die Universität stellt auch den Zugang zu Mentoring-Programmen sicher.
 
-<sup>4</sup> Die allgemeine Weiterbildung von drittmittelfinanzierten Forschungsmitarbeitenden wird durch die Leitung des Forschungsprojekts geregelt und muss im Rahmen des Projektbudgets finanziert werden.
+<sup>4</sup> Für die allgemeine Weiterbildung von drittmittelfinanzierten Assistentinnen und Assistenten sowie Oberassistentinnen und Oberassistenten gelten die Absätze 1-3 analog; soweit möglich wird die Weiterbildung über das Projektbudget finanziert.
 
 #### § 23
 
@@ -287,11 +286,11 @@ beschliesst:
 
 **Beendigung des befristeten Anstellungsverhältnisses**
 
-<sup>1</sup> Das befristete Anstellungsverhältnis endet ohne Kündigung mit Ablauf der Befristung oder durch Beendigung im gegenseitigen Einvernehmen.
+<sup>1</sup> Das befristete Anstellungsverhältnis endet ohne Kündigung mit Ablauf der Befristung, durch Kündigung einer Partei oder durch Beendigung im gegenseitigen Einvernehmen.
 
-<sup>2</sup> Die Universität kann ein Anstellungsverhältnis mit einer Frist von drei Monaten kündigen, wenn die wissenschaftliche Assistentin oder der wissenschaftliche Assistent das Dissertationsprojekt abbricht. Die entsprechende Kündigungsmöglichkeit besteht im Fall des Abbruchs des Habilitationsprojekts durch eine wissenschaftliche Oberassistentin oder einen wissenschaftlichen Oberassistenten.
+<sup>2</sup> Die Universität Luzern kann ein Anstellungsverhältnis mit einer Frist von drei Monaten kündigen, wenn die wissenschaftliche Assistentin oder der wissenschaftliche Assistent nicht innerhalb einer angemessenen Frist mit dem Dissertationsprojekt beginnt oder dieses abbricht. Analoges gilt mit Bezug auf das Habilitationsprojekt einer wissenschaftlichen Oberassistentin oder eines wissenschaftlichen Oberassistenten.
 
-<sup>3</sup> Die Anstellung von drittmittelfinanzierten Forschungsmitarbeitenden wird bei vorzeitigem Wegfall der Fremdfinanzierung aufgelöst. Bei Bekanntwerden des vorzeitigen Wegfalls der Fremdfinanzierung wird die wissenschaftliche Assistentin oder der wissenschaftliche Assistent darüber unverzüglich in Kenntnis gesetzt.
+<sup>3</sup> Die Anstellung von drittmittelfinanzierten Forschungsmitarbeitenden wird bei vorzeitigem Wegfall der Fremdfinanzierung aufgelöst. Bei Bekanntwerden des vorzeitigen Wegfalls der Fremdfinanzierung wird die wissenschaftliche Assistentin oder der wissenschaftliche Assistent darüber unverzüglich in Kenntnis gesetzt. Die Universität bemüht sich im Rahmen ihrer finanziellen Möglichkeiten darum, den Wechsel auf eine andere Qualifikationsstelle zu ermöglichen, damit die Qualifikationsarbeit abgeschlossen werden kann.
 
 #### § 25
 
@@ -311,7 +310,7 @@ beschliesst:
 
 **Arbeitszeugnis**
 
-<sup>1</sup> Die wissenschaftlichen Assistentinnen und Assistenten erhalten auf die Beendigung des Anstellungsverhältnisses hin ein qualifiziertes Arbeitszeugnis durch die Universität ausgestellt, verfasst durch die direkte Vorgesetzte oder den direkten Vorgesetzten.
+<sup>1</sup> Die wissenschaftlichen Assistentinnen und Assistenten erhalten auf die Beendigung des Anstellungsverhältnisses hin ein qualifiziertes Arbeitszeugnis durch die Universität Luzern ausgestellt, verfasst durch die direkte Vorgesetzte oder den direkten Vorgesetzten.
 
 <sup>2</sup> Auf Verlangen wird ein Zwischenzeugnis ausgestellt.
 
