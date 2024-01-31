@@ -5,11 +5,12 @@ title: "Ordonnance sur la police des tirs, les installations de tir et les autor
 short: OPTSD
 language: fr
 version: 2023-01-01
+corrected: 2024-02-01
 version_adopted: 2023-01-25
 adopted: 1998-11-25
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/503.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3288/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3161/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -129,7 +130,7 @@ ordonne:
 
 **Nomination et rétribution**
 
-<sup>1</sup> Le département nomme, pour une période de 4 ans, le président et les membres des commissions cantonales de tir.
+<sup>1</sup> Le département nomme, pour une période de quatre ans, le président et les membres des commissions cantonales de tir.
 
 <sup>2</sup> Le président et les membres de la commission cantonale sont indemnisés par la Confédération.
 

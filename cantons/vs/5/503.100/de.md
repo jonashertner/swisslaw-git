@@ -5,11 +5,12 @@ title: "Verordnung über die Aufsicht des Schiesswesens, die Schiessanlagen und 
 short: VASDS
 language: de
 version: 2023-01-01
+corrected: 2024-02-01
 version_adopted: 2023-01-25
 adopted: 1998-11-25
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/503.100"
-pdf: "https://lex.vs.ch/api/de/versions/3288/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3161/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -129,7 +130,7 @@ verordnet:
 
 **Ernennung und Entschädigungen**
 
-<sup>1</sup> Der Präsident und die Mitglieder der kantonalen Schiesskommissionen werden vom Departement für die Dauer von 4 Jahren ernannt.
+<sup>1</sup> Der Präsident und die Mitglieder der kantonalen Schiesskommissionen werden vom Departement für die Dauer von vier Jahren ernannt.
 
 <sup>2</sup> Der Präsident und die Mitglieder der kantonalen Kommissionen werden vom Bund entschädigt.
 
