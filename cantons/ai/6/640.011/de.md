@@ -5,12 +5,12 @@ title: Standeskommissionsbeschluss zum Steuergesetz und zur Steuerverordnung
 short: StKB Steuern
 language: de
 version: 2024-01-01
-valid_until: 2024-05-31
+corrected: 2024-02-01
 version_adopted: 2024-01-23
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/640.011"
-pdf: "https://ai.clex.ch/api/de/versions/2257/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2256/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -378,7 +378,7 @@ beschliesst:
 
 **Elektronische Steuerdeklarationslösung (Art. 123<sup>ter</sup> StG)**
 
-<sup>1</sup> Die elektronische Eingabe von Steuererklärungen muss mit einer von der Steuerverwaltung zur Verfügung gestellten Steuerdeklarationslösung vorgenommen werden.
+<sup>1</sup> Die elektronische Eingabe von Steuererklärungen muss mit der von der Steuerverwaltung zur Verfügung gestellten Steuerdeklarationslösung vorgenommen werden.
 
 <sup>2</sup> Das Finanzdepartement kann die Verwendung anderer elektronischer Lösungen bewilligen. Es kann für deren Einsatz Auflagen anordnen und das Erforderliche festlegen.
 
@@ -392,9 +392,9 @@ beschliesst:
 
 <sup>1</sup> Die persönliche Mitteilung zur Einreichung der elektronischen Steuererklärung enthält den persönlichen Zugangscode für die elektronische Einreichung.
 
-<sup>2</sup> Für die Nutzung der Steuerdeklarationslösung ist eine Authentifizierung mit dem persönlichen Zugangscode erforderlich. Es können weitere Authentifizierungsmerkmale verlangt werden (Multifaktor-Authentifizierung).
+<sup>2</sup> Für die Nutzung der Steuerdeklarationslösung ist vorgängig eine Registrierung mittels Zugangscodes und einer Zwei-Faktoren-Authentifizierung notwendig.
 
-<sup>3</sup> Die Zugangsdaten dürfen für die Bearbeitung und Einreichung der Steuererklärung an damit beauftragte Personen weitergegeben werden, müssen aber ansonsten vertraulich behandelt und sicher aufbewahrt werden.
+<sup>3</sup> Die Zugangsdaten dürfen für die Bearbeitung und Einreichung der Steuererklärung an damit beauftragte Personen weitergegeben werden, müssen aber ansonsten sicher aufbewahrt werden.
 
 #### Art. 21quater
 
@@ -410,17 +410,17 @@ beschliesst:
 
 **Übermittlung und Übermittlungsquittung**
 
-<sup>1</sup> Nach erfolgreicher Übermittlung der Steuererklärung erhalten die Steuerpflichtigen auf elektronischem Weg umgehend eine Meldung über den Eingang und eine Übermittlungsquittung. Die Meldung und die Quittung sind zu kontrollieren.
+<sup>1</sup> Nach der Übermittlung der Steuererklärung erhalten die Steuerpflichtigen um-gehend eine Meldung, ob die Übermittlung erfolgreich war, und eine Übermittlungsquittung. Die Meldung und die Quittung sind zu kontrollieren.
 
-<sup>2</sup> Ist die Übermittlung fehlgeschlagen und danach die Einreichungsfrist abgelaufen, gilt die Frist auch dann noch als gewahrt, wenn die Steuererklärung innert zehn Arbeitstagen nach dem fristgerechten Übermittlungsversuch mit dem amtlichen Steuererklärungsformular physisch nachgereicht wird. Der Ausdruck aus der webbasierten Steuerdeklarationslösung gilt nicht als amtliches Steuererklärungsformular.
+<sup>2</sup> Ist die Übermittlung fehlgeschlagen und danach die Einreichungsfrist abgelaufen, gilt die Frist auch dann noch als gewahrt, wenn die Steuererklärung innert zehn Arbeitstagen nach dem Übermittlungsversuch mit dem amtlichen Steuererklärungsformular physisch nachgereicht wird. Der Ausdruck aus der webbasierten Steuerdeklarationslösung gilt nicht als amtliches Steuererklärungsformular.
 
 #### Art. 21sexies
 
 **Korrektur der Steuererklärung**
 
-<sup>1</sup> Nach der erfolgreichen Übermittlung haben die Steuerpflichtigen 72 Stunden Zeit, um ihre Steuererklärung elektronisch zu korrigieren und erneut zu übermitteln. Als Einreichungszeitpunkt gilt der Zeitpunkt der Erstübermittlung.
+<sup>1</sup> Nach der erfolgreichen Übermittlung haben die Steuerpflichtigen 72 Stunden Zeit, um ihre Steuererklärung zu korrigieren. Als Einreichungszeitpunkt gilt der Zeitpunkt gemäss Übermittlungsquittung.
 
-<sup>2</sup> Nach Ablauf der 72 Stunden sind allfällige Änderungen an der elektronisch eingereichten Steuererklärung nur noch mittels schriftlicher Meldung an die kantonale Steuerverwaltung möglich.
+<sup>2</sup> Nach Ablauf der 72 Stunden sind allfällige Änderungen an der elektronisch eingereichten Steuererklärung der kantonalen Steuerverwaltung schriftlich zu melden.
 
 #### Art. 21septies
 
