@@ -4,13 +4,12 @@ number: "732.11"
 title: Strassengesetz
 short: SG
 language: de
-version: 2020-08-01
-valid_until: 2024-01-31
-version_adopted: 2020-06-24
+version: 2024-02-01
+version_adopted: 2023-06-07
 adopted: 2008-06-04
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/732.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1918/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,20 +18,21 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1918/pdf_file"
 
 (SG)
 
-vom 04.06.2008 (Stand 01.08.2020)
+vom 04.06.2008 (Stand 01.02.2024)
 
 Der Grosse Rat des Kantons Bern,
 
-in Ausführung von Artikel 34 der Kantonsverfassung[^ingress-1], gestützt auf Artikel 7 Absatz 3 des Bundesgesetzes vom 4. Oktober 1985 über Fuss- und Wanderwege (FWG)[^ingress-2], Artikel 61 Absätze 1 und 2 des Bundesgesetzes vom 8. März 1960 über die Nationalstrassen (NSG)[^ingress-3] sowie Artikel 106 Absätze 2 und 3 des eidgenössischen Strassenverkehrsgesetzes vom 19. Dezember 1958 (SVG)[^ingress-4],
+in Ausführung von Artikel 34 der Kantonsverfassung[^ingress-1], gestützt auf Artikel 7 Absatz 3 des Bundesgesetzes vom 4. Oktober 1985 über Fuss- und Wanderwege (FWG)[^ingress-2], Artikel 9 Absätze 3 und 4 des Bundesgesetzes vom 18. März 2022 über Velowege (Veloweggesetz)[^ingress-3], Artikel 61 Absätze 1 und 2 des Bundesgesetzes vom 8. März 1960 über die Nationalstrassen (NSG)[^ingress-4] sowie Artikel 106 Absätze 2 und 3 des eidgenössischen Strassenverkehrsgesetzes vom 19. Dezember 1958 (SVG)[^ingress-5],
 
 auf Antrag des Regierungsrates,
 
 beschliesst:
 
-[^ingress-1]: BSG 101.1
-[^ingress-2]: SR 704
-[^ingress-3]: SR 725.11
-[^ingress-4]: SR 741.01
+[^ingress-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
+[^ingress-2]: SR [704](https://db.clex.ch/link/Bund/704/de)
+[^ingress-3]: SR [705](https://db.clex.ch/link/Bund/705/de)
+[^ingress-4]: SR [725.11](https://db.clex.ch/link/Bund/725.11/de)
+[^ingress-5]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -46,7 +46,8 @@ beschliesst:
 - b die Finanzierung der öffentlichen Strassen,
 - c den Vollzug des eidgenössischen Strassenverkehrsrechts im Bereich Signalisation und Markierung,
 - d den Vollzug des Bundesgesetzes über Fuss- und Wanderwege,
-- e den Vollzug des Bundesgesetzes über die Nationalstrassen.
+- e den Vollzug des Bundesgesetzes über die Nationalstrassen,
+- f den Vollzug des Bundesgesetzes über Velowege.
 
 #### Art. 2
 
@@ -122,7 +123,7 @@ beschliesst:
 
 <sup>1</sup> Die Strassenhoheit steht dem Kanton und im Rahmen dieses Gesetzes den Gemeinden zu. Sie erstreckt sich auf Privatstrassen, die dem Verkehr tatsächlich offen stehen, soweit es das Gesetz bestimmt.
 
-<sup>2</sup> Kantonsstrassen stehen im Eigentum des Kantons, Gemeindestrassen im Eigentum der Gemeinden.
+<sup>2</sup> Kantonsstrassen und Nebenanlagen zu Nationalstrassen stehen im Eigentum des Kantons, Gemeindestrassen im Eigentum der Gemeinden.
 
 <sup>3</sup> Das Eigentum an einer Strasse erstreckt sich in der Regel auf alle Bestandteile.
 
@@ -130,11 +131,19 @@ beschliesst:
 
 **Änderung von Hoheit und Eigentum**
 
-<sup>1</sup> Soll die Einreihung einer Strasse mit dem Beschluss zum Strassennetzplan geändert werden, so werden die Standortgemeinden vorgängig angehört.
+<sup>1</sup> Ändern sich Funktion und Verkehrsbedeutung, können Gemeindestrassen neu in Hoheit und Eigentum des Kantons, Kantonsstrassen neu in Hoheit und Eigentum der Gemeinden eingereiht werden.
 
-<sup>2</sup> Wird die Einreihung einer Strasse mit dem Beschluss zum Strassennetzplan geändert, so gehen Eigentum und Hoheit daran von Gesetzes wegen auf die neue Trägerschaft über. Die Änderung des Eigentums ist im Grundbuch einzutragen.
+<sup>2</sup> Über die Änderung der Einreihung entscheidet der Regierungsrat nach Anhörung der Standortgemeinden.
 
-<sup>3</sup> Die bisherige Trägerschaft übergibt die Strasse in werkmängelfreiem Zustand und entschädigungslos.
+<sup>3</sup> Mit dem Beschluss des Regierungsrates über die neue Einreihung
+
+- a gehen Hoheit und Eigentum an der Strasse von Gesetzes wegen auf die neue Trägerschaft über,
+- b ist die Änderung des Eigentums im Grundbuch einzutragen.
+
+<sup>4</sup> Die bisherige Trägerschaft
+
+- a übergibt die Strasse in werkmängelfreiem Zustand und entschädigungslos oder
+- b ersetzt der neuen Trägerschaft die Kosten für die Herstellung der Werkmängelfreiheit.
 
 #### Art. 13
 
@@ -150,6 +159,8 @@ beschliesst:
 - b durch Errichtung einer Wegdienstbarkeit zugunsten der Öffentlichkeit oder
 - c durch Übertragung der Unterhaltspflicht an einer dem allgemeinen Verkehr offenen Strasse an die Gemeinde.
 
+<sup>4</sup> Die Gemeinde lässt die Widmung zum Gemeingebrauch nach Absatz 3 Buchstabe a nach Rechtskraft der Verfügung im Grundbuch anmerken.
+
 [^13-1]: BSG 721.0
 
 #### Art. 14
@@ -158,7 +169,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton arbeitet bei der Planung, der Projektierung, dem Bau und dem Betrieb der Kantonsstrassen mit den betroffenen Gemeinden partnerschaftlich zusammen.
 
-<sup>2</sup> Der Kanton arbeitet mit den betroffenen Regionalkonferenzen zusammen, wenn die Planung des Neubaus oder der Änderung einer Kantonsstrasse regionale Interessen betrifft. Die Regionalkonferenzen bestimmen, zu welchen Themen sie selbst und zu welchen Themen die betroffenen Gemeinden Stellung nehmen.
+<sup>2</sup> Er arbeitet mit den betroffenen Planungsregionen bzw. Regionalkonferenzen zusammen, wenn die Planung des Neubaus oder der Änderung einer Kantonsstrasse regionale Interessen betrifft. Die Planungsregionen bzw. Regionalkonferenzen bestimmen, zu welchen Themen sie selbst und zu welchen Themen die betroffenen Gemeinden Stellung nehmen.
 
 <sup>3</sup> Wird eine Kantonsstrasse im Siedlungsgebiet mit einem Strassenplan projektiert, so arbeitet der Kanton mit den Standortgemeinden zusammen.
 
@@ -270,7 +281,7 @@ beschliesst:
 
 - a die Kantonsstrassen, die an eine Gemeinde abgetreten werden sollen,
 - b die Gemeindestrassen, die an den Kanton abgetreten werden sollen,
-- c die Park-and-ride- und die Bike-and-ride-Anlagen von regionaler Bedeutung.
+- c …
 
 [^25-1]: SR 725.116.2
 
@@ -303,6 +314,8 @@ beschliesst:
 <sup>1</sup> Neubau und Änderung einer Strasse werden mit einem Strassenplan bewilligt.
 
 <sup>2</sup> Das Instandhalten, das Instandstellen und die Erneuerung einer Strasse sowie bewegliche Elemente im Zusammenhang mit befristeten Verkehrsversuchen bedürfen keiner Bewilligung.
+
+<sup>3</sup> Der Regierungsrat bestimmt die bewilligungsfreien Vorhaben.
 
 ### 3.2.2 Strassenplan
 
@@ -453,39 +466,62 @@ beschliesst:
 
 <sup>4</sup> Müssen die in den Plänen enthaltenen Fuss- und Wanderwegnetze oder Teile davon aufgehoben werden, so trägt in der Regel die Verursacherin oder der Verursacher die Kosten.
 
-### 4.3 Velorouten
+### 4.3 Velowege
 
 #### Art. 45
 
-**Kantonaler Sachplan Veloverkehr**
+**Sachplan Velowegnetz**
 
-<sup>1</sup> Der Regierungsrat erlässt den kantonalen Sachplan Veloverkehr.
+<sup>1</sup> Der Regierungsrat erlässt den Sachplan Velowegnetz.
 
-<sup>2</sup> Mit dem kantonalen Sachplan Veloverkehr werden die Velorouten mit kantonaler Netzfunktion für den Veloalltags- und für den Velofreizeitverkehr festgelegt. Es sind dies
+<sup>2</sup> Mit dem Sachplan Velowegnetz werden die Velowege mit kantonaler Netzfunktion für den Veloalltags- und für den Velofreizeitverkehr festgelegt. Es sind dies
 
-- a kantonale Velorouten auf und entlang von Kantonsstrassen und von Nationalstrassen dritter Klasse,
-- b Velorouten mit kantonalen Radwegen abseits von Kantonsstrassen,
-- c wichtige Velorouten auf Gemeinde- und Privatstrassen.
+- a kantonale Velowege auf und entlang von Kantonsstrassen und von Nationalstrassen dritter Klasse,
+- b kantonale Radwege abseits von Kantonsstrassen,
+- c wichtige Velowege auf Gemeinde- und Privatstrassen,
+- d wichtige Mountainbike-Routen.
+
+<sup>3</sup> Der Sachplan Velowegnetz legt die Velowege mit dem höchsten, mit einem grossen und mit einem mittleren Potenzial für den Veloalltagsverkehr fest.
+
+<sup>4</sup> Die Aufnahme eines kommunalen Velowegs in den Sachplan Velowegnetz setzt entweder eine Grundlage in einer kommunalen oder regionalen Planung voraus oder bedarf der Zustimmung aller betroffenen Gemeinden.
 
 #### Art. 46
 
-**Kantonale Velorouten**
+**Kantonale Velowege**
 
-<sup>1</sup> Der Kanton baut, betreibt und unterhält die für die Velorouten nach Artikel 45 Absatz 2 Buchstaben a und b nötigen Wegabschnitte.
+<sup>1</sup> Der Kanton baut, betreibt und unterhält die Velowege nach Artikel 45 Absatz 2 Buchstaben a und b.
 
 <sup>2</sup> Für das Bewilligungsverfahren gelten die Bestimmungen über die Bewilligung von Kantonsstrassen.
 
 #### Art. 47
 
-**Kommunale Velorouten**
+**Kommunale Velowege**
 
-<sup>1</sup> Die Gemeinden planen, bauen und unterhalten die kommunalen Velorouten.
+<sup>1</sup> Die Gemeinden planen, bauen und unterhalten
+
+- a Velowege nach Artikel 45 Absatz 2 Buchstabe c,
+- b Mountainbike-Routen nach Artikel 45 Absatz 2 Buchstabe d,
+- c die übrigen kommunalen Velowege.
 
 #### Art. 48
 
 **Signalisation**
 
-<sup>1</sup> Der Kanton signalisiert alle Velorouten nach Artikel 45 Absatz 2.
+<sup>1</sup> Der Kanton signalisiert alle Velowege nach Artikel 45 Absatz 2.
+
+#### Art. 48a
+
+**Ersatz**
+
+<sup>1</sup> Müssen die in den Plänen festgehaltenen Velowege oder Teile davon aufgehoben werden, so trägt in der Regel die Verursacherin oder der Verursacher die Kosten.
+
+### 4.4 Koordination der Wanderweg- und der Mountainbike-Routen-Planung
+
+#### Art. 48b
+
+<sup>1</sup> Die Planung der Wanderwege und der Mountainbike-Routen ist aufeinander abzustimmen.
+
+<sup>2</sup> Es wird eine gemeinsame Nutzung der Wege (Koexistenz) angestrebt.
 
 ## 5 Finanzierung von Kantons- und Gemeindestrassen sowie Beiträge
 
@@ -495,7 +531,36 @@ beschliesst:
 
 <sup>1</sup> Der Kanton trägt die Kosten für die Erfüllung seiner Aufgaben.
 
+<sup>1a</sup> Kann der Kanton mit verhältnismässigem Aufwand kein Veloangebot auf der Kantonsstrasse schaffen und sieht der Sachplan deshalb eine ersatzweise Führung des Veloalltagsverkehrs auf einer Gemeinde- oder Privatstrasse vor, trägt der Kanton die Kosten für diesen Veloweg.
+
 <sup>2</sup> Jede Gemeinde trägt die Kosten für die Erfüllung ihrer Aufgaben.
+
+#### Art. 49a
+
+**Kostenverteilung bei Strassenkreuzungen 1. Grundsätze**
+
+<sup>1</sup> Die Kosten für den Bau neuer Kreuzungen gehen zulasten der neu hinzukommenden Strasse.
+
+<sup>2</sup> An die Kosten der Änderung bestehender Kreuzungen hat jedes Gemeinwesen nach Massgabe seiner Interessen beizutragen.
+
+<sup>3</sup> Die Kosten für den Unterhalt und den Betrieb von Kreuzungen werden wie folgt verteilt:
+
+- a Bei höhengleichen Kreuzungen trägt jedes Gemeinwesen die Kosten für die Erfüllung seiner Aufgaben;
+- b bei Überführungen und Unterführungen
+  - 1\. geht der Unterhalt des Kreuzungsbauwerks zulasten der höher eingereihten Strasse,
+  - 2\. gehen der Unterhalt und der Betrieb der übrigen Teile der Kreuzung zulasten der Strasse, deren Bestandteile sie sind.
+
+#### Art. 49b
+
+**2. Vereinbarung**
+
+<sup>1</sup> Die Beteiligten können die Kosten durch Vereinbarung anders verteilen.
+
+#### Art. 49c
+
+**3. Vorgehen bei streitiger Kostenverteilung**
+
+<sup>1</sup> Ist die Kostenverteilung streitig, so erlässt die zuständige Stelle der BVD eine Verfügung.
 
 #### Art. 50
 
@@ -515,7 +580,7 @@ beschliesst:
 
 <sup>1</sup> Investitionen werden mit einem Rahmenkredit oder mit einem Objektkredit bewilligt.
 
-<sup>2</sup> Als Investitionen gelten neue Ausgaben für die Kantonsstrassen und für die kantonalen Radwege nach Artikel 45 Absatz 2 Buchstaben a und b sowie die für diese Vorhaben nötigen Projektierungskosten.
+<sup>2</sup> Als Investitionen gelten neue Ausgaben für die Kantonsstrassen und für die kantonalen Velowege nach Artikel 45 Absatz 2 Buchstaben a und b sowie die für diese Vorhaben nötigen Projektierungskosten.
 
 <sup>3</sup> Der Grosse Rat beschliesst, gestützt auf den Strassennetzplan, in der Regel alle vier Jahre einen Rahmenkredit. Das Finanzreferendum gegen den Rahmenkredit ist ausgeschlossen.
 
@@ -545,7 +610,7 @@ beschliesst:
 
 **Rahmenkredit für den baulichen Unterhalt 1. Zuständigkeit und Inhalt**
 
-<sup>1</sup> Der Regierungsrat bewilligt die Ausgaben für den baulichen Unterhalt der Kantonsstrassen und der kantonalen Radwege nach Artikel 45 Absatz 2 Buchstaben a und b abschliessend mit einem Rahmenkredit.
+<sup>1</sup> Der Regierungsrat bewilligt die Ausgaben für den baulichen Unterhalt der Kantonsstrassen und der kantonalen Velowege nach Artikel 45 Absatz 2 Buchstaben a und b abschliessend mit einem Rahmenkredit.
 
 <sup>2</sup> Zum baulichen Unterhalt zählen Ausgaben für Reparaturen, Instandsetzung und auch die vollständige Wiederherstellung ganzer Teile einer Strasse wie Brücken, Fahrbahndecken und Leiteinrichtungen.
 
@@ -567,9 +632,12 @@ beschliesst:
 
 #### Art. 59
 
-**Beiträge an Velorouten auf Gemeinde- und Privatstrassen**
+**Beiträge an Velowege**
 
-<sup>1</sup> Der Kanton leistet Beiträge an Investitionen in wichtige Velorouten auf Gemeinde- und Privatstrassen nach Artikel 45 Absatz 2 Buchstabe c.
+<sup>1</sup> Der Kanton leistet Beiträge an Investitionen in
+
+- a Velowege nach Artikel 45 Absatz 2 Buchstabe c,
+- b Mountainbike-Routen nach Artikel 45 Absatz 2 Buchstabe d.
 
 <sup>2</sup> Der Beitrag beträgt 40 Prozent der Kosten.
 
@@ -581,11 +649,22 @@ beschliesst:
 
 <sup>2</sup> Der Beitrag beträgt 40 Prozent der Kosten.
 
+#### Art. 60a
+
+**Beiträge an die Instandsetzung oder Wiederherstellung von Velo- und Wanderwegen**
+
+<sup>1</sup> Der Kanton kann einen Beitrag an die Instandsetzung oder Wiederherstellung von Velowegen nach Artikel 59 und von Wanderwegen nach Artikel 60 leisten, wenn
+
+- a ein Wegabschnitt durch Elementarereignisse erheblich beschädigt oder zerstört worden ist oder
+- b ein besonders aufwendiger Wegabschnitt wie eine Brücke saniert werden muss.
+
+<sup>2</sup> Der Beitrag beträgt höchstens 40 Prozent der Kosten.
+
 #### Art. 61
 
 **Beiträge an Park-and-ride-Anlagen**
 
-<sup>1</sup> Der Kanton leistet Beiträge an Investitionen in Park-and-ride- und in Bike-and-ride-Anlagen. Die Anlage muss Gegenstand des Strassennetzplans sein.
+<sup>1</sup> Der Kanton leistet Beiträge an Investitionen in wichtige Park-and-ride- und Bike-and-ride-Anlagen.
 
 <sup>2</sup> Der Beitrag beträgt 40 Prozent der Kosten.
 
@@ -607,9 +686,11 @@ beschliesst:
 
 #### Art. 64
 
-**Beiträge an Regionalkonferenzen**
+**Beiträge an Planungsregionen bzw. Regionalkonferenzen**
 
-<sup>1</sup> Der Kanton kann den Regionalkonferenzen für die im Rahmen der regionalen Gesamtverkehrs- und Siedlungskonzepte erarbeitete regionale Strassenplanung Beiträge ausrichten.
+<sup>1</sup> Der Kanton kann Planungsregionen bzw. Regionalkonferenzen Beiträge an die regionale Strassenplanung ausrichten.
+
+<sup>2</sup> Der Beitrag beträgt höchstens 75 Prozent der Kosten.
 
 ## 6 Strassenbenutzung
 
@@ -683,6 +764,22 @@ beschliesst:
 
 <sup>2</sup> Die Trägerschaft des öffentlichen Verkehrs ist von solchen Gebühren befreit.
 
+<sup>3</sup> Der Regierungsrat kann durch Verordnung weitere Ausnahmen von der Gebührenerhebung vorsehen.
+
+#### Art. 71a
+
+**Bemessung**
+
+<sup>1</sup> Der Kanton erhebt einmalig oder jährlich Gebühren bis 50'000 Franken und berücksichtigt bei der Bemessung
+
+- a die mit der Bewilligung oder Konzession verbundenen wirtschaftlichen Vorteile,
+- b das Interesse der Gebührenpflichtigen,
+- c die Nachteile für das öffentliche Eigentum.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten und die Tarife für die Benutzung der Kantonsstrassen durch Verordnung.
+
+<sup>3</sup> Die Gemeinden erlassen einen Gebührentarif für die Strassen in ihrer Hoheit.
+
 #### Art. 72
 
 **Verkehrsunterbrechung**
@@ -717,28 +814,25 @@ beschliesst:
 
 **Strassenentwässerung 1. Grundsätze**
 
-<sup>1</sup> Das von der Strasse natürlich abfliessende Wasser ist vom anstossenden Grundeigentum aufzunehmen.
+<sup>1</sup> Lässt das Gewässerschutzrecht eine Versickerung zu, müssen die anstossenden Grundstücke das natürlich abfliessende Strassenabwasser von öffentlichen Strassen aufnehmen.
 
-<sup>2</sup> Die Eigentümerin oder der Eigentümer der Strasse hat das Strassenwasser in Entwässerungsanlagen zu fassen und wegzuleiten (künstliche Entwässerung), wenn
+<sup>2</sup> …
 
-- a auf dem anstossenden Grundeigentum zur Aufnahme des Wassers künstliche Durchleitungsanlagen nötig wären,
-- b anstossende Kulturen durch verschmutztes Wasser stark befahrener Strassen beeinträchtigt würden und die künstliche Entwässerung ohne unverhältnismässigen Aufwand möglich ist.
+<sup>3</sup> Entsteht durch diese Beanspruchung des anstossenden Grundstücks ein namhafter Schaden, so wird er vom verursachenden Gemeinwesen behoben oder entschädigt.
+
+<sup>4</sup> Können sich die Beteiligten über die Entschädigungshöhe nicht einigen, entscheidet das Enteignungsgericht.
 
 #### Art. 76
 
 **2. Künstliche Entwässerung**
 
-<sup>1</sup> Für die künstliche Entwässerung gilt:
+<sup>1</sup> Ist eine künstliche Entwässerung erforderlich, ist die Durchleitung durch privates Grundeigentum gegen vollen Ersatz des verursachten Schadens zu dulden.
 
-- a Die Anlagen sind Bestandteile der Strasse und sie sind von der Eigentümerin oder dem Eigentümer der Strasse zu unterhalten.
-- b Die Durchleitung durch privates Grundeigentum ist gegen vollen Ersatz des verursachten Schadens zu dulden.
-- c Die Eigentümerin oder der Eigentümer einer öffentlichen Kanalisationsleitung ist verpflichtet, das Strassenabwasser zu übernehmen, wenn die Anlage dazu geeignet ist und aus der Sicht des Gewässerschutzes keine vorteilhaftere Massnahme möglich ist. Die Eigentümerin oder der Eigentümer der Strasse bezahlt dafür die einmaligen und wiederkehrenden Gebühren nach Gemeindereglement. Die Eigentümerin oder der Eigentümer der Strasse erstellt und unterhält die Strasseneinlaufschächte und Ableitungen bis zur öffentlichen Kanalisationsleitung.
+<sup>2</sup> Die Eigentümerin oder der Eigentümer einer öffentlichen Kanalisationsleitung ist verpflichtet, das Strassenabwasser zu übernehmen, wenn die Anlage dazu geeignet ist und aus der Sicht des Gewässerschutzes keine vorteilhaftere Massnahme möglich ist. Die Eigentümerin oder der Eigentümer der Strasse bezahlt dafür die einmaligen und wiederkehrenden Gebühren nach Gemeindereglement.
 
 #### Art. 77
 
-**3. Schadenersatz**
-
-<sup>1</sup> Die Eigentümerin oder der Eigentümer der Strasse hat für namhaften Schaden aufzukommen, der durch abfliessendes Strassenwasser verursacht wird. Streitigkeiten entscheidet das Enteignungsgericht.
+**…**
 
 #### Art. 78
 
@@ -789,11 +883,11 @@ beschliesst:
 
 **Lichtraumprofil**
 
-<sup>1</sup> Der Raum über der Fahrbahn von öffentlichen Strassen einschliesslich des Raums seitlich zum Fahrbahnrand (lichte Breite) ist bis auf eine Höhe von mindestens 4,50 Metern frei zu halten. Bei Versorgungsrouten kann der Regierungsrat eine Höhe von bis zu 5,50 Metern vorschreiben.
+<sup>1</sup> Der Raum über der Fahrbahn von öffentlichen Strassen, einschliesslich des Raums seitlich zum Fahrbahnrand, ist bis auf eine Höhe von mindestens 4,50 Metern freizuhalten. Bei Versorgungsrouten kann der Regierungsrat eine Höhe von bis zu 5,50 Metern vorschreiben.
 
-<sup>2</sup> Der Raum über Fuss-, Geh- und Radwegen ist in der Regel bis auf eine Höhe von 2,50 Metern frei zu halten.
+<sup>2</sup> Der Raum über Fuss-, Geh- und Radwegen ist in der Regel bis auf eine Höhe von 2,50 Metern freizuhalten.
 
-<sup>3</sup> Die lichte Breite ist auf einer Breite von 0,50 Metern freizuhalten.
+<sup>3</sup> Der an die Fahrbahn angrenzende seitliche Raum ist auf einer Breite von 0,50 Metern freizuhalten.
 
 #### Art. 84
 
@@ -830,8 +924,8 @@ beschliesst:
 - e den Landerwerb, die Enteignung, die Eigentumsbeschränkungen und die vorzeitige Besitzeinweisung,
 - f die kleinen Strassenvorhaben der Gemeinden,
 - g die Fuss- und Wanderwege,
-- h die Velorouten,
-- i die Verteilung des Anteils der Erträge der LSVA und der Motorfahrzeugsteuer auf die Gemeinden,
+- h die Velowege,
+- i …
 - k die Strassenabstände,
 - l die Strassenreklamen,
 - m die Staatsbeiträge,
@@ -843,17 +937,19 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Stelle der BVD vollzieht die Gesetzgebung von Bund und Kanton, soweit die Gesetzgebung nicht andere Organisationseinheiten für zuständig erklärt.
 
+<sup>2</sup> Sie kann die Gemeinden und die Planungsregionen bzw. Regionalkonferenzen bei ihren Aufgaben im Bereich Langsamverkehr durch fachliche Beratung und Information unterstützen.
+
 #### Art. 88
 
 **Gemeinden**
 
-<sup>1</sup> Die Gemeinden vollziehen dieses Gesetz, seine Ausführungsbestimmungen und die darauf gestützt erlassenen Verfügungen bei Gemeindestrassen, Privatstrassen im Gemeingebrauch, Fuss- und Wanderwegen sowie Radwegen, soweit der Vollzug nicht dem Kanton obliegt.
+<sup>1</sup> Die Gemeinden vollziehen dieses Gesetz, seine Ausführungsbestimmungen und die darauf gestützt erlassenen Verfügungen bei Gemeindestrassen, Privatstrassen im Gemeingebrauch, Fuss- und Wanderwegen sowie Velowegen, soweit der Vollzug nicht dem Kanton obliegt.
 
 #### Art. 89
 
 **Aufsicht über die Gemeinden**
 
-<sup>1</sup> Die zuständige Stelle der BVD beaufsichtigt den Vollzug dieses Gesetzes durch die Gemeinden.
+<sup>1</sup> Die zuständige Stelle der BVD beaufsichtigt den Vollzug des Bundesrechts durch die Gemeinden.
 
 <sup>2</sup> Vernachlässigt eine Gemeinde trotz Mahnung ihre Vollzugspflichten und werden dadurch öffentliche Interessen gefährdet, so kann an ihrer Stelle die zuständige Stelle der BVD die erforderlichen Massnahmen treffen. Die Gemeinde trägt die Kosten.
 

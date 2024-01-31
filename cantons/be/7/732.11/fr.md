@@ -4,13 +4,12 @@ number: "732.11"
 title: Loi sur les routes
 short: LR
 language: fr
-version: 2020-08-01
-valid_until: 2024-01-31
-version_adopted: 2020-06-24
+version: 2024-02-01
+version_adopted: 2023-06-07
 adopted: 2008-06-04
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/732.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1918/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2985/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,20 +18,21 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1918/pdf_file"
 
 (LR)
 
-du 04.06.2008 (état au 01.08.2020)
+du 04.06.2008 (état au 01.02.2024)
 
 Le Grand Conseil du canton de Berne,
 
-en exécution de l’article 34 de la Constitution cantonale[^ingress-1], vu l’article 7, alinéa 3 de la loi fédérale du 4 octobre 1985 sur les chemins pour piétons et les chemins de randonnée pédestre (LCPR)[^ingress-2], l’article 61, alinéas 1 et 2 de la loi fédérale du 8 mars 1960 sur les routes nationales (LRN)[^ingress-3] ainsi que l’article 106, alinéas 2 et 3 de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-4],
+en exécution de l’article 34 de la Constitution cantonale[^ingress-1], vu l’article 7, alinéa 3 de la loi fédérale du 4 octobre 1985 sur les chemins pour piétons et les chemins de randonnée pédestre (LCPR)[^ingress-2], l’article 9, alinéas 3 et 4 de la loi fédérale du 18 mars 2022 sur les voies cyclables[^ingress-3], l’article 61, alinéas 1 et 2 de la loi fédérale du 8 mars 1960 sur les routes nationales (LRN)[^ingress-4] ainsi que l’article 106, alinéas 2 et 3 de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-5],
 
 sur proposition du Conseil-exécutif,
 
 arrête:
 
-[^ingress-1]: RSB 101.1
-[^ingress-2]: RS 704
-[^ingress-3]: RS 725.11
-[^ingress-4]: RS 741.01
+[^ingress-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
+[^ingress-2]: RS [704](https://db.clex.ch/link/Bund/704/fr)
+[^ingress-3]: RS [705](https://db.clex.ch/link/Bund/705/fr)
+[^ingress-4]: RS [725.11](https://db.clex.ch/link/Bund/725.11/fr)
+[^ingress-5]: RS [741.01](https://db.clex.ch/link/Bund/741.01/fr)
 
 ## 1 Dispositions générales
 
@@ -46,7 +46,8 @@ arrête:
 - b le financement des routes publiques,
 - c l’exécution du droit fédéral de la circulation routière en matière de signalisation et de marquage,
 - d l’exécution de la loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre,
-- e l’exécution de la loi fédérale sur les routes nationales.
+- e l’exécution de la loi fédérale sur les routes nationales,
+- f l’exécution de la loi fédérale sur les voies cyclables.
 
 #### Art. 2
 
@@ -122,7 +123,7 @@ arrête:
 
 <sup>1</sup> La souveraineté en matière de routes appartient au canton et, dans le cadre de la présente loi, aux communes. Elle s’étend en outre aux routes privées ouvertes effectivement au trafic, dans la mesure prévue par la loi.
 
-<sup>2</sup> Les routes cantonales sont propriété du canton et les routes communales sont propriété des communes.
+<sup>2</sup> Les routes cantonales ainsi que les installations annexes aux routes nationales sont propriété du canton et les routes communales sont propriété des communes.
 
 <sup>3</sup> La propriété d’une route s’étend généralement à toutes ses parties intégrantes.
 
@@ -130,11 +131,19 @@ arrête:
 
 **Changement de souveraineté et de propriété**
 
-<sup>1</sup> Si la classification d’une route est modifiée par l’arrêté relatif au plan du réseau routier, les communes sur le territoire desquelles se trouve la route seront consultées au préalable.
+<sup>1</sup> En cas de modification de la fonction et de l'importance du trafic, la souveraineté et la propriété sur les routes communales peuvent désormais passer au canton, et la souveraineté et la propriété sur les routes cantonales aux communes.
 
-<sup>2</sup> Si la classification d’une route est modifiée par l’arrêté relatif au plan du réseau routier, la propriété et la souveraineté de celle-ci passent, de par la loi, de l’actuel titulaire du droit au nouveau. La modification de la propriété doit être inscrite au registre foncier.
+<sup>2</sup> Le Conseil-exécutif statue sur la modification de la classification après consultation des communes sur le territoire desquelles se trouve la route.
 
-<sup>3</sup> Le titulaire actuel du droit remet au nouveau titulaire un ouvrage exempt de défauts sans exiger de contrepartie financière.
+<sup>3</sup> Suite à l’arrêté du Conseil-exécutif sur la nouvelle classification,
+
+- a la route passe, de par la loi, sous la propriété et la souveraineté du nouveau titulaire du droit;
+- b la modification de la propriété doit être inscrite au registre foncier.
+
+<sup>4</sup> Le titulaire actuel du droit
+
+- a remet un ouvrage exempt de défauts sans exiger de contrepartie financière ou
+- b dédommage la nouvelle ou le nouveau titulaire du droit pour les coûts permettant de garantir un ouvrage exempt de défauts.
 
 #### Art. 13
 
@@ -150,6 +159,8 @@ arrête:
 - b par la constitution d’une servitude de passage en faveur de la collectivité ou
 - c par le transfert à la commune de l’obligation d’entretien d’une route ouverte au trafic général.
 
+<sup>4</sup> Après l’entrée en force de la décision, la commune fait inscrire au registre foncier une mention de l’affectation à l’usage commun selon l’alinéa 3, lettre a.
+
 [^13-1]: RSB 721.0
 
 #### Art. 14
@@ -158,7 +169,7 @@ arrête:
 
 <sup>1</sup> Le canton coopère en partenariat avec les communes concernées à la planification, à l’étude de projet, à la construction et à l’exploitation des routes cantonales.
 
-<sup>2</sup> Si la planification d’une nouvelle route cantonale ou d’une modification de route cantonale touche des intérêts régionaux, le canton coopère avec les conférences régionales concernées. Les conférences régionales déterminent sur quels thèmes elles-mêmes et les communes concernées prennent respectivement position.
+<sup>2</sup> Si la planification d’une nouvelle route cantonale ou d’une modification de route cantonale touche des intérêts régionaux, il coopère avec les régions d’aménagement ou les conférences régionales concernées. Les régions d’aménagement ou les conférences régionales déterminent sur quels thèmes elles-mêmes et les communes concernées prennent respectivement position.
 
 <sup>3</sup> Si une route cantonale est projetée dans une zone urbanisée au moyen d’un plan de route, le canton coopère avec les communes concernées.
 
@@ -268,7 +279,7 @@ arrête:
 
 - a les routes cantonales qui doivent être cédées à une commune;
 - b les routes communales qui doivent être cédées au canton;
-- c les installations de type park-and-ride et bike-and-ride d’importance régionale.
+- c …
 
 [^25-1]: RS 725.116.2
 
@@ -301,6 +312,8 @@ arrête:
 <sup>1</sup> La construction et la modification d’une route sont autorisées au moyen d’un plan de route.
 
 <sup>2</sup> Aucune autorisation n’est nécessaire pour l’entretien, la remise en état, la rénovation d’une route ni pour la mise en place d’éléments amovibles dans le cadre d’essais d’orientation du trafic à durée limitée.
+
+<sup>3</sup> Le Conseil-exécutif définit les projets exemptés d’autorisation.
 
 ### 3.2.2 Plan de route
 
@@ -451,39 +464,62 @@ arrête:
 
 <sup>4</sup> Si les chemins pour piétons et les chemins de randonnée pédestre figurant dans les plans doivent être supprimés en tout ou en partie, le ou la responsable de la suppression en supporte en règle générale les coûts.
 
-### 4.3 Itinéraires cyclables
+### 4.3 Voies cyclables
 
 #### Art. 45
 
-**Plan sectoriel cantonal pour le trafic cycliste**
+**Plan sectoriel pour le réseau de voies cyclables**
 
-<sup>1</sup> Le Conseil-exécutif établit le plan sectoriel cantonal pour le trafic cycliste.
+<sup>1</sup> Le Conseil-exécutif établit le plan sectoriel pour le réseau de voies cyclables.
 
-<sup>2</sup> Le plan sectoriel cantonal pour le trafic cycliste fixe les itinéraires cyclables assurant une fonction de réseau cantonal pour le trafic cycliste quotidien et de loisirs. Ce sont
+<sup>2</sup> Le plan sectoriel pour le réseau de voies cyclables fixe les voies cyclables assurant une fonction de réseau cantonal pour le trafic cycliste quotidien et de loisirs. Ce sont
 
-- a les itinéraires cyclables cantonaux sur et le long des routes cantonales et des routes nationales de 3<sup>e</sup> classe,
-- b les itinéraires cyclables avec pistes cyclables à l’écart des routes cantonales,
-- c les itinéraires cyclables importants sur les routes communales ou privées.
+- a les voies cyclables cantonales sur et le long des routes cantonales et des routes nationales de 3<sup>e</sup> classe,
+- b les pistes cyclables cantonales à l’écart des routes cantonales,
+- c les voies cyclables importantes sur les routes communales ou privées,
+- d les itinéraires VTT importants.
+
+<sup>3</sup> Le plan sectoriel pour le réseau de voies cyclables fixe les voies cyclables présentant un potentiel très élevé, élevé ou moyen pour le trafic cycliste quotidien.
+
+<sup>4</sup> L’inscription d’un itinéraire cyclable communal dans le plan sectoriel pour le réseau de voies cyclables requiert une base préalable dans un plan communal ou régional, ou nécessite l’approbation de l’ensemble des communes concernées.
 
 #### Art. 46
 
-**Itinéraires cyclables cantonaux**
+**Voies cyclables cantonales**
 
-<sup>1</sup> Le canton construit, exploite et entretient les tronçons de bandes cyclables nécessaires aux itinéraires selon l’article 45, alinéa 2, lettres a et b.
+<sup>1</sup> Le canton construit, exploite et entretient les voies cyclables selon l’article 45, alinéa 2, lettres a et b.
 
 <sup>2</sup> La procédure d’autorisation observe les dispositions relatives à l’autorisation de routes cantonales.
 
 #### Art. 47
 
-**Itinéraires cyclables communaux**
+**Voies cyclables communales**
 
-<sup>1</sup> Les communes planifient, construisent et entretiennent les itinéraires cyclables communaux.
+<sup>1</sup> Les communes planifient, construisent et entretiennent
+
+- a les voies cyclables selon l’article 45, alinéa 2, lettre c,
+- b les itinéraires VTT selon l’article 45, alinéa 2, lettre d,
+- c les autres voies cyclables communales.
 
 #### Art. 48
 
 **Signalisation**
 
-<sup>1</sup> Le canton pourvoit à la signalisation de tous les itinéraires cyclables selon l’article 45, alinéa 2.
+<sup>1</sup> Le canton pourvoit à la signalisation de toutes les voies cyclables selon l’article 45, alinéa 2.
+
+#### Art. 48a
+
+**Remplacement**
+
+<sup>1</sup> Si les voies cyclables figurant dans les plans doivent être supprimées en tout ou en partie, la ou le responsable de la suppression en supporte en règle générale les coûts.
+
+### 4.4 Coordination lors de la planification des chemins de randonnée pédestre et des itinéraires VTT
+
+#### Art. 48b
+
+<sup>1</sup> La planification des chemins de randonnée pédestre et celle des itinéraires VTT doivent être effectuées de manière coordonnée.
+
+<sup>2</sup> Une utilisation commune des itinéraires (principe de coexistence) est visée.
 
 ## 5 Financement des routes cantonales et communales, subventions
 
@@ -493,7 +529,36 @@ arrête:
 
 <sup>1</sup> Le canton assume les coûts inhérents à l’exécution de ses tâches.
 
+<sup>1a</sup> Si le canton ne peut pas créer d’offre pour les vélos sur la route cantonale moyennant une charge proportionnellement raisonnable et que le plan sectoriel prévoit à la place de faire passer le trafic cycliste quotidien sur une route communale ou privée, le canton assume les coûts de la voie cyclable.
+
 <sup>2</sup> Chaque commune assume les coûts inhérents à l’exécution de ses tâches.
+
+#### Art. 49a
+
+**Croisements 1. Principes de répartition des frais**
+
+<sup>1</sup> Les coûts de construction de nouveaux croisements sont à la charge du compte de la nouvelle route.
+
+<sup>2</sup> Les frais pour la modification de croisements existants sont répartis en fonction des intérêts de chaque collectivité publique.
+
+<sup>3</sup> Les frais d’entretien et d’exploitation de croisements se répartissent comme suit:
+
+- a en cas de croisement à niveau, chaque collectivité publique assume les frais inhérents à l’exécution de ses tâches;
+- b en cas de croisement à un niveau différent,
+  - 1\. les frais d’entretien de l’ouvrage d’art sont à la charge de la route classée en catégorie supérieure;
+  - 2\. l’entretien et l’exploitation des autres éléments du croisement sont à la charge des routes dont ils sont parties intégrantes.
+
+#### Art. 49b
+
+**2. Accord**
+
+<sup>1</sup> Les parties intéressées peuvent convenir d’une autre répartition des frais.
+
+#### Art. 49c
+
+**3. Procédure à suivre en cas de contestations relatives à la répartition des frais**
+
+<sup>1</sup> Le service compétent de la DTT statue par voie de décision sur les contestations relatives à la répartition des frais.
 
 #### Art. 50
 
@@ -513,7 +578,7 @@ arrête:
 
 <sup>1</sup> Les investissements sont approuvés par un crédit-cadre ou par un crédit d’objet.
 
-<sup>2</sup> Sont considérées comme investissements les dépenses nouvelles consenties pour les routes cantonales ainsi que pour les pistes cyclables cantonales selon l’article 45, alinéa 2, lettres a et b et pour les études nécessaires aux projets correspondants.
+<sup>2</sup> Sont considérées comme investissements les dépenses nouvelles consenties pour les routes cantonales ainsi que pour les voies cyclables cantonales selon l’article 45, alinéa 2, lettres a et b et pour les études nécessaires aux projets correspondants.
 
 <sup>3</sup> En se référant au plan du réseau routier, le Grand Conseil arrête en règle générale tous les quatre ans un crédit-cadre. Le crédit-cadre n’est pas soumis au référendum financier.
 
@@ -543,7 +608,7 @@ arrête:
 
 **Crédit-cadre pour le gros entretien 1. Compétence et contenu**
 
-<sup>1</sup> Le Conseil-exécutif est seul compétent pour autoriser les dépenses pour le gros entretien des routes cantonales et des pistes cyclables cantonales selon l’article 45, alinéa 2, lettres a et b au moyen d’un crédit-cadre.
+<sup>1</sup> Le Conseil-exécutif est seul compétent pour autoriser les dépenses pour le gros entretien des routes cantonales et des voies cyclables cantonales selon l’article 45, alinéa 2, lettres a et b au moyen d’un crédit-cadre.
 
 <sup>2</sup> Les coûts du gros entretien comprennent les dépenses pour les réparations, la remise en état et le renouvellement complet de composantes entières d’une route comme les ponts, les revêtements de chaussée et les dispositifs de balisage.
 
@@ -565,9 +630,12 @@ arrête:
 
 #### Art. 59
 
-**Subventions aux itinéraires cyclables sur routes communales et privées**
+**Subventions aux voies cyclables**
 
-<sup>1</sup> Le canton subventionne des investissements pour des itinéraires cyclables importants sur des routes communales ou privées selon l’article 45, alinéa 2, lettre c.
+<sup>1</sup> Le canton subventionne les investissements
+
+- a pour les voies cyclables selon l’article 45, alinéa 2, lettre c et
+- b pour les itinéraires VTT selon l’article 45, alinéa 2, lettre d.
 
 <sup>2</sup> La subvention s’élève à 40 pour cent des coûts.
 
@@ -579,11 +647,22 @@ arrête:
 
 <sup>2</sup> La subvention s’élève à 40 pour cent des coûts.
 
+#### Art. 60a
+
+**Subventions à la remise en état ou au renouvellement de voies cyclables et de chemins de randonnée pédestre**
+
+<sup>1</sup> Le canton peut allouer des subventions à la remise en état ou au renouvellement de voies cyclables selon l’article 59 et de chemins de randonnée pédestre selon l’article 60
+
+- a si un tronçon de voie a été fortement endommagé ou détruit par l’action d’éléments naturels ou
+- b si un tronçon de voie particulièrement coûteux tel qu’un pont doit être rénové.
+
+<sup>2</sup> Les subventions s’élèvent au maximum à 40 pour cent des coûts.
+
 #### Art. 61
 
 **Subventions aux installations de type park-and-ride**
 
-<sup>1</sup> Le canton subventionne les investissements destinés à des installations de type park-and-ride et bike-and-ride. L’installation doit figurer dans le plan du réseau routier.
+<sup>1</sup> Le canton subventionne les investissements destinés à des installations importantes de type park-and-ride et bike-and-ride.
 
 <sup>2</sup> La subvention s’élève à 40 pour cent des coûts.
 
@@ -605,9 +684,11 @@ arrête:
 
 #### Art. 64
 
-**Subventions aux conférences régionales**
+**Subventions aux régions d’aménagement ou aux conférences régionales**
 
-<sup>1</sup> Le canton peut subventionner les conférences régionales pour la planification régionale des routes élaborée dans le cadre des conceptions régionales des transports et de l’urbanisation.
+<sup>1</sup> Le canton peut subventionner les régions d’aménagement ou les conférences régionales pour la planification régionale des routes.
+
+<sup>2</sup> Les subventions s’élèvent au maximum à 75 pour cent des coûts.
 
 ## 6 Utilisation de la route
 
@@ -681,6 +762,22 @@ arrête:
 
 <sup>2</sup> Les organismes responsables des transports publics sont exonérés de telles taxes.
 
+<sup>3</sup> Le Conseil-exécutif peut prévoir d’autres exonérations des taxes par voie d'ordonnance.
+
+#### Art. 71a
+
+**Calcul**
+
+<sup>1</sup> Le canton prélève une fois ou chaque année des taxes allant jusqu’à 50'000 francs et prend en compte pour le calcul du montant des taxes
+
+- a les avantages économiques découlant de l’autorisation ou de la concession,
+- b l’intérêt de l’assujetti,
+- c les inconvénients pour le domaine public.
+
+<sup>2</sup> Le Conseil-exécutif règle par voie d’ordonnance les modalités de détail et les tarifs pour l’utilisation des routes cantonales.
+
+<sup>3</sup> Les communes fixent le tarif des taxes pour les routes sur lesquelles elles exercent la souveraineté.
+
 #### Art. 72
 
 **Interruption du trafic**
@@ -715,28 +812,25 @@ arrête:
 
 **Ecoulement des eaux 1. Principes**
 
-<sup>1</sup> L’eau qui s’écoule naturellement de la chaussée doit être reçue par les fonds contigus.
+<sup>1</sup> Si la législation sur la protection des eaux autorise une infiltration, les fonds contigus doivent recueillir l’eau qui s’écoule naturellement de la chaussée d’une route publique.
 
-<sup>2</sup> Il incombe au ou à la propriétaire de la route de recueillir l’eau s’écoulant de la route dans des installations propres à cet usage et de l’évacuer (écoulement artificiel) dans les cas où
+<sup>2</sup> …
 
-- a des conduites d’évacuation artificielles pour recueillir l’eau seraient nécessaires sur les fonds contigus;
-- b les cultures attenantes pourraient être endommagées par l’eau sale provenant d’une route à fort trafic et que des conduites d’évacuation artificielles peuvent être installées sans frais disproportionnés.
+<sup>3</sup> Si des dégâts importants résultent de l’utilisation du fonds contigu pour recueillir les eaux, la collectivité publique qui a causé les dégâts assure leur réparation ou leur indemnisation.
+
+<sup>4</sup> Le tribunal compétent en matière d’expropriation tranche si les parties ne parviennent pas à s’entendre sur le montant du dédommagement.
 
 #### Art. 76
 
 **2. Ecoulement artificiel**
 
-<sup>1</sup> En ce qui concerne les conduites d’évacuation,
+<sup>1</sup> Si un écoulement artificiel est nécessaire, les conduites d’évacuation traversant un terrain privé doivent être tolérées contre plein dédommagement des dégâts causés.
 
-- a les installations sont parties intégrantes de la route et elles doivent être entretenues par le ou la propriétaire de la route;
-- b les conduites traversant un terrain privé doivent être tolérées contre plein dédommagement des dégâts causés;
-- c le ou la propriétaire d’une canalisation publique est tenue de recevoir l’eau de la route lorsque ladite canalisation le permet et qu’il n’existe pas de mesure plus judicieuse du point de vue de la protection des eaux. Le ou la propriétaire de la route lui paiera des redevances uniques et périodiques conformes au règlement communal. Les bouches d’égout et les raccordements à la canalisation publique sont construits et entretenus par le ou la propriétaire de la route.
+<sup>2</sup> La ou le propriétaire d’une canalisation publique est tenu de recevoir l’eau de la route lorsque ladite canalisation le permet et qu’il n’existe pas de mesure plus judicieuse du point de vue de la protection des eaux. La ou le propriétaire de la route lui paiera des redevances uniques et périodiques conformes au règlement communal.
 
 #### Art. 77
 
-**3. Réparation du dommage**
-
-<sup>1</sup> Le ou la propriétaire de la route répond des dégâts importants causés par de l’eau s’écoulant de la route. Le tribunal compétent en matière d’expropriation tranche en cas de litige.
+**…**
 
 #### Art. 78
 
@@ -785,11 +879,11 @@ arrête:
 
 **Profil d’espace libre**
 
-<sup>1</sup> L’espace surplombant la chaussée des routes publiques, y compris la distance latérale au bord de la chaussée (largeur libre), doit être maintenu libre sur une hauteur de 4,50 m au moins. Pour les routes d’approvisionnement, le Conseil-exécutif peut prescrire une hauteur allant jusqu’à 5,50 m.
+<sup>1</sup> L’espace surplombant la chaussée des routes publiques, y compris la distance latérale au bord de la chaussée, doit être maintenu libre sur une hauteur de 4,50 m au moins. Pour les routes d’approvisionnement, le Conseil-exécutif peut prescrire une hauteur allant jusqu’à 5,50 m.
 
 <sup>2</sup> En règle générale, l’espace surplombant les trottoirs, chemins pour piétons et pistes cyclables doit être maintenu libre sur une hauteur de 2,5 m au moins.
 
-<sup>3</sup> La largeur libre doit être de 0,50 m au moins.
+<sup>3</sup> La distance latérale au bord de la chaussée doit être maintenue libre sur une largeur de 0,50 m au moins.
 
 #### Art. 84
 
@@ -826,8 +920,8 @@ arrête:
 - e l’acquisition de terrain, l’expropriation, les restrictions du droit de propriété et l’envoi en possession anticipé,
 - f les petits projets routiers des communes,
 - g les chemins pour piétons et les chemins de randonnée pédestre,
-- h les itinéraires cyclables,
-- i la participation des communes au produit de la RPLP et de l’impôt sur les véhicules à moteur,
+- h les voies cyclables,
+- i …
 - k les distances à la route,
 - l les réclames routières,
 - m les subventions cantonales,
@@ -839,17 +933,19 @@ arrête:
 
 <sup>1</sup> Le service compétent de la DTT exécute la législation de la Confédération et du canton, pour autant que la loi ne déclare pas compétentes d’autres unités administratives.
 
+<sup>2</sup> Il peut soutenir les communes et les régions d’aménagement ou les conférences régionales dans leurs tâches en donnant des informations et des conseils techniques dans le domaine de la mobilité douce.
+
 #### Art. 88
 
 **Communes**
 
-<sup>1</sup> Les communes appliquent la présente loi, ses dispositions d’exécution ainsi que les décisions fondées sur ces textes pour les routes communales, les routes privées affectées à l’usage commun, les chemins pour piétons et les chemins de randonnée pédestre ainsi que les pistes cyclables, pour autant que l’exécution n’incombe pas au canton.
+<sup>1</sup> Les communes appliquent la présente loi, ses dispositions d’exécution ainsi que les décisions fondées sur ces textes pour les routes communales, les routes privées affectées à l’usage commun, les chemins pour piétons et les chemins de randonnée pédestre ainsi que les voies cyclables, pour autant que l’exécution n’incombe pas au canton.
 
 #### Art. 89
 
 **Surveillance exercée sur les communes**
 
-<sup>1</sup> Le service compétent de la DTT exerce la surveillance de l’application de la présente loi par les communes.
+<sup>1</sup> Le service compétent de la DTT exerce la surveillance de l’application du droit fédéral par les communes.
 
 <sup>2</sup> Si une commune néglige, en dépit d’une sommation, ses devoirs d’exécution, et si de ce fait des intérêts publics sont mis en péril, le service compétent de la DTT peut prendre les mesures nécessaires à sa place. La commune en supporte les frais.
 
