@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2024)
+del 1° novembre 2017 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -141,17 +141,13 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 
 [^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## Capitolo 3: Guichet unique, progetti nel settore idroelettrico e piani direttori cantonali, interesse nazionale, costruzioni e impianti non soggetti ad autorizzazione edilizia nonché grandi impianti fotovoltaici secondo l’articolo 71*a* LEne
-
-[^chap3-1]
-
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
+## Capitolo 3: Pianificazione del territorio in relazione al potenziamento delle energie rinnovabili
 
 ### Sezione 1: Guichet unique
 
 [^chap3-sec1-1]
 
-[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
 
 #### Art. 7
 
@@ -328,6 +324,43 @@ La notifica deve essere accompagnata dalle seguenti informazioni:
 
 <sup>3</sup> L’UFE allestisce un elenco accessibile al pubblico con le informazioni di cui ai capoversi 1 e 2 e lo aggiorna costantemente.
 
+### Sezione 5: Impianti eolici di cui all’articolo 71*c* LEne
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Introdotta dal n. I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)) .
+
+#### Art. 9i
+
+**Soglia della potenza installata supplementare di 600 MW**
+
+Determinante per il calcolo ai fini della potenza installata supplementare di 600 MW degli impianti eolici di cui all’articolo 71*c* capoverso 1 LEne è la potenza installata supplementare degli impianti eolici d’interesse nazionale che sono stati autorizzati con decisioni passate in giudicato nell’ambito di una procedura in virtù dell’articolo 71*c* LEne.
+
+#### Art. 9j
+
+**Competenza dei Cantoni**
+
+Se il diritto cantonale non prevede altre competenze, l’autorità di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^9j-1] è competente per l’autorizzazione da rilasciare sulla base dell’articolo 71*c* capoverso 1 lettera a LEne.
+
+[^9j-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+#### Art. 9k
+
+**Obblighi di notifica e pubblicazione di informazioni su impianti eolici**
+
+<sup>1</sup>
+
+I Cantoni notificano immediatamente per iscritto all’UFE in relazione alle autorizzazioni di cui all’articolo 71*c* capoverso 1 lettera a LEne:
+
+- a. il deposito pubblico di domande di costruzione con indicazione dell’ubicazione dell’impianto eolico, della potenza installata dell’impianto e della produzione di elettricità annua attesa;
+- b. la concessione di autorizzazioni di prima istanza;
+- c. il passaggio in giudicato di autorizzazioni;
+- d. il ritiro di domande e la rinuncia ad autorizzazioni.
+
+<sup>2</sup> Se un impianto viene messo in esercizio, il suo gestore lo deve notificare immediatamente per iscritto all’UFE con indicazione della potenza installata e della produzione di elettricità annua attesa.
+
+<sup>3</sup> L’UFE allestisce un elenco accessibile al pubblico con i dati di cui ai capoversi 1 e 2 e lo aggiorna costantemente.
+
 ## Capitolo 4: Immissione di energia di rete e consumo proprio
 
 ### Sezione 1: Obbligo di ritiro e di rimunerazione dell’energia secondo l’articolo 15 LEne
@@ -352,7 +385,7 @@ I produttori di energia secondo l’articolo 15 LEne e i gestori di rete stabili
 <sup>4</sup> Rispettando un termine di preavviso di un mese rispetto alla fine del trimestre, i produttori possono comunicare al gestore di rete se intendono far valere o meno il loro diritto di ritiro e di rimunerazione dell’energia che producono.[^10-2]
 
 [^10-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
-[^10-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 (RU **202****3** 762).
+[^10-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 11
 

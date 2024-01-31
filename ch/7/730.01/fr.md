@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2024)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -141,13 +141,13 @@ Conformément à l’art. 19, al. 1, LEne, les gestionnaires de réseau doivent 
 
 [^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## Chapitre 3 Guichet unique, projets d’utilisation des forces hydrauliques et plans directeurs cantonaux, intérêt national, exemption de l’autorisation de construire et grandes installations photovoltaïques visées à l’art. 71*a* LEne
-
-[^chap3-1]
-
-[^chap3-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
+## Chapitre 3 Aménagement du territoire dans le cadre du développement des énergies renouvelables
 
 ### Section 1 Guichet unique
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
 
 #### Art. 7
 
@@ -323,6 +323,43 @@ Ils lui communiquent simultanément les informations suivantes:
 - b. la production annuelle d’électricité attendue, la production d’électricité attendue pour le semestre d’hiver et la puissance prévue ou effective de la grande installation photovoltaïque.
 
 <sup>3</sup> L’OFEN tient à jour une liste publique des informations énumérées aux al. 1 et 2.
+
+### Section 5 Installations éoliennes visées à l’art. 71*c* LEne
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Introduite par le ch. I de l’O du 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
+
+#### Art. 9i
+
+**Seuil de 600 MW pour la puissance installée supplémentaire**
+
+La puissance installée supplémentaire des installations éoliennes d’intérêt national au bénéfice d’une autorisation entrée en force octroyée dans le cadre d’une procédure fondée sur l’art. 71*c* LEne est déterminante pour le calcul de la puissance installée supplémentaire de 600 MW des installations éoliennes visée à l’art. 71*c*, al. 1, LEne.
+
+#### Art. 9j
+
+**Compétence des cantons**
+
+Si le droit cantonal ne prévoit pas d’autres compétences, l’autorité désignée par l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^9j-1] est compétente pour l’autorisation à octroyer sur la base de l’art. 71*c*, al. 1, let. a, LEne.
+
+[^9j-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+#### Art. 9k
+
+**Obligation d’annoncer et publication d’informations sur les installations éoliennes**
+
+<sup>1</sup>
+
+Les cantons annoncent immédiatement par écrit à l’OFEN, concernant les autorisations visées à l’art. 71*c*, al. 1, let. a, LEne:
+
+- a. la mise à l’enquête publique d’une demande d’autorisation de construire, en indiquant le site de l’installation éolienne, la puissance installée de l’installation et la production annuelle d’électricité attendue;
+- b. l’octroi d’autorisations de première instance;
+- c. l’entrée en force d’autorisations;
+- d. le retrait de demandes et la renonciation à des autorisations.
+
+<sup>2</sup> Si une installation est mise en service, son exploitant doit l’annoncer immédiatement par écrit à l’OFEN en indiquant la puissance installée et la production annuelle d’électricité attendue.
+
+<sup>3</sup> L’OFEN tient une liste accessible au public contenant les informations visées aux al. 1 et 2 et la met à jour en continu.
 
 ## Chapitre 4 Injection d’énergie de réseau et consommation propre
 
@@ -1355,7 +1392,7 @@ Les données personnelles, ainsi que les données des personnes morales, y compr
 <sup>2</sup> Les comptes annuels doivent être établis conformément aux dispositions du CO[^75-1] relatives à la comptabilité commerciale et à la présentation des comptes ainsi que conformément aux «Recommandations relatives à la présentation des comptes» (Swiss GAAP RPC)[^75-2] de la Fondation pour les recommandations relatives à la présentation des comptes.
 
 [^75-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^75-2]: [www.fer.ch](http://www.fer.ch)
+[^75-2]: [www.fer.ch/](http://www.fer.ch/)
 
 #### Art. 76
 

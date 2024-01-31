@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240101/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. Januar 2024)
+vom 1. November 2017 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -141,11 +141,11 @@ Die Netzbetreiber müssen der Vollzugsstelle vierteljährlich die Menge Elektriz
 
 [^6-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## 3. Kapitel: Guichet unique, Wasserkraftvorhaben und kantonale Richtplanung, nationales Interesse, baubewilligungsfreie Bauten und Anlagen sowie Photovoltaik-Grossanlagen nach Artikel 71*a* EnG
+## 3. Kapitel: Raumplanung im Zusammenhang mit dem Ausbau erneuerbarer Energien
 
 [^chap3-1]
 
-[^chap3-1]: Fassung gemäss Ziff. I der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
+[^chap3-1]: Fassung gemäss Ziff. I der V vom 15. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
 
 ### 1. Abschnitt: Guichet unique
 
@@ -321,6 +321,43 @@ Der Meldung sind folgende Angaben beizulegen:
 
 - a. der Standort der Photovoltaik-Grossanlage;
 - b. die erwartete jährliche Stromproduktion, die erwartete Stromproduktion im Winterhalbjahr und die geplante oder realisierte Leistung der Photovoltaik-Grossanlage.
+
+<sup>3</sup> Das BFE führt eine öffentlich zugängliche Liste mit den Angaben nach den Absätzen 1 und 2 und aktualisiert die Liste laufend.
+
+### 5. Abschnitt: Windenergieanlagen nach Artikel 71*c* EnG
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Eingefügt durch Ziff. I der V vom 15. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
+
+#### Art. 9i
+
+**Schwelle der zusätzlichen installierten Leistung von 600 MW**
+
+Massgebend für die Berechnung der zusätzlich installierten Leistung von 600 MW von Windenergieanlagen nach Artikel 71*c* Absatz 1 EnG ist die zusätzlich installierte Leistung der Windenergieanlagen von nationalem Interesse, die in einem Verfahren gestützt auf Artikel 71*c* EnG rechtskräftig bewilligt wurden.
+
+#### Art. 9j
+
+**Zuständigkeit der Kantone**
+
+Ergibt sich aus dem kantonalen Recht keine andere Zuständigkeit, so ist die Behörde nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^9j-1] für die gestützt auf Artikel 71*c* Absatz 1 Buchstabe a EnG zu erteilende Bewilligung zuständig.
+
+[^9j-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+#### Art. 9k
+
+**Meldepflichten und Veröffentlichung von Angaben zu den Windenergieanlagen**
+
+<sup>1</sup>
+
+Die Kantone melden dem BFE in Bezug auf Bewilligungen nach Artikel 71*c* Absatz 1 Buchstabe a EnG umgehend schriftlich:
+
+- a. die öffentliche Auflage von Baugesuchen mit Angabe des Standorts der Windenergieanlage, der installierten Leistung der Anlage und der erwarteten jährlichen Stromproduktion;
+- b. die Erteilung erstinstanzlicher Bewilligungen;
+- c. den Eintritt der Rechtskraft von Bewilligungen;
+- d. den Rückzug von Gesuchen und den Verzicht auf Bewilligungen.
+
+<sup>2</sup> Wird eine Anlage in Betrieb genommen, so muss der Betreiber dies dem BFE mit Angabe der installierten Leistung und der erwarteten jährlichen Stromproduktion umgehend schriftlich melden.
 
 <sup>3</sup> Das BFE führt eine öffentlich zugängliche Liste mit den Angaben nach den Absätzen 1 und 2 und aktualisiert die Liste laufend.
 
