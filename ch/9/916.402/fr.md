@@ -3,18 +3,18 @@ sr: "916.402"
 title: "Ordonnance du 16 novembre 2011 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/803"
 language: fr
-version: 2012-06-01
+version: 2024-02-01
 adopted: 2011-11-16
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/803/20120601/fr/xml/fedlex-data-admin-ch-eli-cc-2011-803-20120601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/803/20120601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/803/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2011-803-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/803/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public
 
-du 16 novembre 2011 (Etat le 1<sup>er</sup> juin 2012)
+du 16 novembre 2011 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -45,15 +45,17 @@ La présente ordonnance fixe les exigences de la formation de base, de la format
 
 **Principes**
 
-<sup>1</sup> Quiconque exerce l’une des fonctions visées à l’art. 1 doit être titulaire du certificat de capacité requis. Les personnes visées à l’art. 1, let. b à f, doivent avoir obtenu leur certificat de capacité au plus tard trois ans après leur entrée en fonction.
+<sup>1</sup> Quiconque exerce l’une des fonctions visées à l’art. 1 doit être titulaire du diplôme fédéral[^2-1] requis. Les personnes visées à l’art. 1, let. b à f, doivent avoir obtenu leur diplôme fédéral au plus tard trois ans après leur entrée en fonction.
 
-<sup>2</sup> Les vétérinaires cantonaux doivent être au moins titulaires du certificat de capacité de vétérinaire officiel.
+<sup>2</sup> Les vétérinaires cantonaux doivent être au moins titulaires du diplôme fédéral de vétérinaire officiel.
 
-<sup>3</sup> Le certificat de capacité est délivré à quiconque a suivi la formation qualifiante correspondante et réussi l’examen.
+<sup>3</sup> Le diplôme fédéral est délivré à quiconque a suivi la formation qualifiante correspondante et réussi l’examen.
 
 <sup>4</sup> Quiconque exerce l’une des fonctions visées à l’art. 1 a l’interdiction d’exercer d’autres activités susceptibles de conduire à un conflit d’intérêts.
 
 <sup>5</sup> Le taux d’occupation des personnes visées à l’art. 1, let. b et c, doit être d’au moins 30 %.
+
+[^2-1]: Nouvelle expression selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 3
 
@@ -100,13 +102,20 @@ Quiconque veut exercer l’une des fonctions visées à l’art. 1, let. a à c,
 - a. du diplôme fédéral de médecine vétérinaire; ou
 - b. d’un diplôme étranger de médecine vétérinaire reconnu conformément à l’art. 15 de la loi fédérale du 23 juin 2006 sur les professions médicales universitaires[^6-1].
 
-<sup>2</sup> Quiconque veut exercer la fonction d’expert officiel doit avoir obtenu un diplôme dans une profession médicale visée par la loi sur les professions médicales ou avoir achevé des études au niveau master dans une université ou dans une haute école spécialisée reconnues par la Commission d’examens du secteur vétérinaire public (commission d’examens; art. 15).
+<sup>2</sup>
+
+Quiconque veut exercer la fonction d’expert officiel doit avoir obtenu:
+
+- a. un diplôme dans une profession médicale visée par la loi sur les professions médicales;
+- b. un diplôme délivré par une université ou une haute école spécialisée à l’issue d’un cycle bachelor au moins et reconnu par la Commission d’examens du secteur vétérinaire public (commission d’examens), ou
+- c. un diplôme d’assistant officiel et justifier de 5 ans d’expérience professionnelle (à temps plein ou partiel) dans le domaine d’exécution concerné.[^6-2]
 
 <sup>3</sup> Quiconque veut exercer la fonction d’assistant officiel affecté au contrôle des animaux avant l’abattage et au contrôle des viandes doit avoir achevé une formation professionnelle de base dans le secteur agricole ou alimentaire. La commission d’examens peut reconnaître d’autres formations professionnelles de base.
 
 <sup>4</sup> Quiconque veut exercer la fonction d’assistant officiel affecté à d’autres tâches doit avoir achevé une formation professionnelle de base.
 
 [^6-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
 
 #### Art. 7
 
@@ -162,12 +171,12 @@ La réception des épreuves est assurée par la commission d’examens ou par le
 
 Les prestations sont notées comme suit:
 
-- [tab] 6 = très bien
-- [tab] 5 = bien
-- [tab] 4 = suffisant
-- [tab] 3 = insuffisant
-- [tab] 2 = faible
-- [tab] 1 = très faible
+- 6 = très bien
+- 5 = bien
+- 4 = suffisant
+- 3 = insuffisant
+- 2 = faible
+- 1 = très faible
 
 <sup>3</sup> Les demi-notes sont admises.
 
@@ -247,6 +256,56 @@ La commission d’examens a les tâches suivantes:
 
 [^18-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
 
+## Section 5*a* Données personnelles
+
+[^sec5a-1]
+
+[^sec5a-1]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
+
+#### Art. 18a
+
+**Enregistrement et traitement des données personnelles**
+
+<sup>1</sup> Les données personnelles collectées dans le contexte de la formation des personnes chargées des contrôles officiels sont enregistrées sur la plateforme d’apprentissage de l’OSAV.
+
+<sup>2</sup> L’OSAV peut traiter les données personnelles visées à l’annexe 3.
+
+#### Art. 18b
+
+**Droits des personnes concernées**
+
+<sup>1</sup> Les droits des personnes dont les données sont traitées par l’OSAV, notamment les droits d’accès, de rectification et de destruction, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^18b-1].
+
+<sup>2</sup> Si la personne concernée veut faire valoir ses droits, elle doit justifier de son identité et adresser une demande écrite à l’OSAV.
+
+[^18b-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 18c
+
+**Échange de données**
+
+L’OSAV peut échanger les données suivantes:
+
+- a. avec les commissions d’examens: les données visées à l’annexe 3;
+- b. avec les autorités d’exécution du canton dans lequel la personne est employée: les notes d’examen et les évaluations;
+- c. avec les participants aux programmes de formation visés à l’art. 62 de l’ordonnance du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires[^18c-1] et les intervenants: les données personnelles non sensibles.
+
+[^18c-1]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+
+#### Art. 18d
+
+**Conservation et destruction**
+
+<sup>1</sup> Les données ne sont conservées que le temps requis pour atteindre le but de leur traitement.
+
+<sup>2</sup> Elles sont effacées dès que les conditions préalables au but de leur traitement ne sont plus réunies. Les données interdépendantes enregistrées dans un système d’information sont effacées en bloc dès que les conditions préalables au but du traitement de toutes les données concernées ne sont plus réunies.
+
+<sup>3</sup> Les données qui ne sont plus nécessaires sont proposées aux Archives fédérales avec les documents qui s’y rattachent. Les données et les documents que les Archives fédérales jugent sans valeur archivistique sont détruits.
+
+<sup>4</sup> L’archivage des données est régi par les dispositions de la loi fédérale du 26 juin 1998 sur l’archivage[^18d-1].
+
+[^18d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
 ## Section 6 Dispositions finales
 
 #### Art. 19
@@ -261,7 +320,7 @@ L’abrogation et la modification du droit en vigueur sont réglées à l’anne
 
 <sup>1</sup> Les certificats de capacité délivrés conformément à l’ordonnance du 24 janvier 2007 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le Service vétérinaire public[^20-1] restent valables.
 
-<sup>2</sup> Pour les personnes qui ont commencé leur formation qualifiante avant l’entrée en vigueur de la présente ordonnance, l’art. 6 de l’ordonnance du 24 janvier 2007 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le Service vétérinaire public s'applique.
+<sup>2</sup> Pour les personnes qui ont commencé leur formation qualifiante avant l’entrée en vigueur de la présente ordonnance, l’art. 6 de l’ordonnance du 24 janvier 2007 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le Service vétérinaire public s’applique.
 
 <sup>3</sup> Les personnes qui, au moment de l’entrée en vigueur de la présente ordonnance, sont à trois ans au plus de l’âge ordinaire de la retraite AVS ne doivent pas suivre de formation qualifiante.
 
@@ -269,7 +328,7 @@ L’abrogation et la modification du droit en vigueur sont réglées à l’anne
 
 <sup>5</sup> Les personnes qui, au moment de l’entrée en vigueur de la présente ordonnance, exercent l’une des fonctions visées à l’art. 1, let. b à f, doivent passer l’examen sanctionnant leur formation qualifiante au plus tard trois ans après l’entrée en vigueur de la présente ordonnance.
 
-<sup>6</sup> L’OSAV et les vétérinaires cantonaux peuvent accorder la reconnaissance aux personnes visées à l’art. 20, al. 4, de l’ordonnance du 24 janvier 2007 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le Service vétérinaire public jusqu'au 31 mars 2012.
+<sup>6</sup> L’OSAV et les vétérinaires cantonaux peuvent accorder la reconnaissance aux personnes visées à l’art. 20, al. 4, de l’ordonnance du 24 janvier 2007 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le Service vétérinaire public jusqu’au 31 mars 2012.
 
 [^20-1]: [[RO 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)]
 
@@ -279,7 +338,7 @@ L’abrogation et la modification du droit en vigueur sont réglées à l’anne
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2012.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 7, al. 1, et 10)
 
@@ -291,7 +350,7 @@ Annexe 1*[^t-1]*
 
 ### 1.1 Formation qualifiante
 
-<sup>1</sup> Quiconque souhaite obtenir le certificat de capacité de vétérinaire officiel doit justifier d’une formation qualifiante pratique d’au moins 80 jours ouvrables. Le candidat doit:
+<sup>1</sup> Quiconque souhaite obtenir le diplôme fédéral de vétérinaire officiel doit justifier d’une formation qualifiante pratique d’au moins 80 jours ouvrables. Le candidat doit:
 
 - a. avoir effectué des travaux administratifs et des contrôles pendant au moins 10 jours ouvrables dans un ou plusieurs services vétérinaires cantonaux;
 - b. avoir vérifié dans des unités d’élevage, des abattoirs et d’autres établissements si les législations pertinentes pour le secteur vétérinaire public y sont appliquées; et
@@ -325,7 +384,7 @@ L’examen est sanctionné par six notes et comprend:
 
 <sup>2</sup> Le candidat joint les documents suivants à l’inscription visée à l’al. 1:
 
-- a. l’attestation de fin d'études;
+- a. l’attestation de fin d’études;
 - b. les pièces justificatives de sa formation qualifiante théorique ou, le cas échéant, la dispense de la commission d’examens.
 
 <sup>3</sup> La commission d’examens décide de l’admission d’un candidat aux épreuves visées au ch. 1.2, let. a à c et f.
@@ -340,9 +399,9 @@ L’examen est sanctionné par six notes et comprend:
 
 ### 2.1 Formation qualifiante
 
-Quiconque souhaite obtenir le certificat de capacité de vétérinaire officiel dirigeant doit:
+Quiconque souhaite obtenir le diplôme fédéral de vétérinaire officiel dirigeant doit:
 
-- a. être titulaire du certificat de capacité de vétérinaire officiel;
+- a. être titulaire du diplôme fédéral de vétérinaire officiel;
 - b. avoir exercé pendant au moins deux ans la fonction de vétérinaire officiel;
 - c. pouvoir justifier d’une formation qualifiante pratique d’au moins 25 jours ouvrables durant laquelle il a eu un aperçu de l’activité administrative de l’OSAV ou de celle d’un ou de plusieurs offices cantonaux;
 - d. justifier d’une formation qualifiante théorique en conduite du personnel, gestion d’entreprise et gestion des crises; et
@@ -362,7 +421,7 @@ L’examen est sanctionné par trois notes et comprend:
 
 <sup>2</sup> Le candidat joint les documents suivants à son inscription:
 
-- a. l’attestation de fin d'études et les certificats de capacité visés par la présente ordonnance qu’il a déjà obtenus;
+- a. l’attestation de fin d’études et les certificats de capacité visés par la présente ordonnance qu’il a déjà obtenus;
 - b. les pièces justificatives de sa formation qualifiante pratique et théorique ou, le cas échéant, la dispense de la commission d’examens.
 
 <sup>3</sup> La commission d’examens décide de l’admission du candidat à l’examen.
@@ -371,7 +430,7 @@ L’examen est sanctionné par trois notes et comprend:
 
 ### 3.1 Formation qualifiante
 
-<sup>1</sup> Quiconque souhaite obtenir le certificat de capacité d’expert officiel doit justifier d’une formation qualifiante pratique. Cette formation d’une durée minimale de 30 jours ouvrables porte sur l’activité administrative et l’activité de contrôle et fournit des connaissances sur la manière d’effectuer les tâches d’exécution dans le domaine spécifique.
+<sup>1</sup> Quiconque souhaite obtenir le diplôme fédéral d’expert officiel doit justifier d’une formation qualifiante pratique. Cette formation d’une durée minimale de 30 jours ouvrables porte sur l’activité administrative et l’activité de contrôle et fournit des connaissances sur la manière d’effectuer les tâches d’exécution dans le domaine spécifique.
 
 <sup>2</sup> La personne concernée doit justifier en outre d’une formation qualifiante théorique fournissant, dans le domaine spécifique et pour les types d’établissements concernés, des connaissances de la législation sur les épizooties, les denrées alimentaires, la protection des animaux et les produits thérapeutiques, y compris les procédures administrative et pénale, et des connaissances techniques approfondies.
 
@@ -391,7 +450,7 @@ L’examen est sanctionné par trois notes et comprend:
 
 <sup>2</sup> Le candidat joint à l’inscription visée à l’al. 1 les documents suivants:
 
-- a. l’attestation de fin d'études;
+- a. l’attestation de fin d’études;
 - b. les pièces justificatives de sa formation qualifiante théorique ou, le cas échéant, la dispense de la commission d’examens.
 
 <sup>3</sup> La commission d’examens décide de l’admission du candidat aux épreuves visées au ch. 3.2, let. a et b.
@@ -408,7 +467,7 @@ L’examen est sanctionné par trois notes et comprend:
 
 ### 4.1.1 Formation qualifiante
 
-<sup>1</sup> Quiconque souhaite obtenir le certificat de capacité d’assistant officiel affecté au contrôle des animaux avant l’abattage et au contrôle des viande**s** doit justifier d’une formation qualifiante théorique et pratique de 20 jours ouvrables et d’une phase d’approfondissement des connaissances de 80 jours ouvrables concernant:
+<sup>1</sup> Quiconque souhaite obtenir le diplôme fédéral d’assistant officiel affecté au contrôle des animaux avant l’abattage et au contrôle des viande**s** doit justifier d’une formation qualifiante théorique et pratique de 20 jours ouvrables et d’une phase d’approfondissement des connaissances de 80 jours ouvrables concernant:
 
 - a. les points essentiels de la législation sur les denrées alimentaires, les épizooties et la protection des animaux, dans la mesure où ils sont pertinents pour le contrôle des animaux avant l’abattage et le contrôle des viandes;
 - b. l’anatomie et les altérations pathologiques dans la mesure où ces matières sont pertinentes pour le contrôle des animaux avant l’abattage et le contrôle des viandes;
@@ -448,7 +507,7 @@ L’examen est sanctionné par trois notes et comprend:
 
 ### 4.2.1 Formation qualifiante
 
-<sup>1</sup> Quiconque souhaite obtenir le certificat de capacité d’assistant officiel affecté à d’autres tâches doit justifier d’une formation qualifiante d’au moins 30 jours ouvrables.
+<sup>1</sup> Quiconque souhaite obtenir le diplôme fédéral d’assistant officiel affecté à d’autres tâches doit justifier d’une formation qualifiante d’au moins 30 jours ouvrables.
 
 <sup>2</sup> La formation qualifiante visée à l’al. 1 comporte:
 
@@ -470,7 +529,7 @@ L’examen est sanctionné par trois notes et comprend:
 
 <sup>2</sup> Le candidat joint les documents suivants à son inscription:
 
-- a. l’attestation de fin d'études ou l'attestation de fin de sa formation professionnelle de base;
+- a. l’attestation de fin d’études ou l’attestation de fin de sa formation professionnelle de base;
 - b. les pièces justificatives de sa formation qualifiante pratique et théorique ou, le cas échéant, la dispense de la commission d’examens.
 
 <sup>3</sup> La commission d’examens décide de l’admission du candidat à l’examen.
@@ -491,6 +550,46 @@ II
 
 ## Modification du droit en vigueur
 
-...[^annex2-lvlu2-1]
+…[^annex2-lvlu2-1]
 
 [^annex2-lvlu2-1]: Les mod. peuvent être consultées au [RO 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803).
+
+Annexe 3[^t-2]
+
+(art. 18*a* et 18*c*, let. a)
+
+## Données personnelles traitées dans le cadre de la présente ordonnance
+
+[^t-2]: Introduite par le ch. II de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
+
+### Liste des données
+
+<table>
+<tr><th>Désignation</th><th>Les données avec \* peuvent être échangées avec les intervenants et les participants</th><th>Les données avec \*\* sont effacées après obtention du diplôme</th><th>Droits d’accès</th></tr>
+<tr><td>Nom</td><td>\*</td><td></td><td>OSAV</td></tr>
+<tr><td>Prénom</td><td>\*</td><td></td><td>OSAV</td></tr>
+<tr><td>Genre</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Date de naissance</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Lieu d’origine</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Numéro AVS</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Adresse professionnelle</td><td>\*</td><td></td><td>OSAV</td></tr>
+<tr><td>Adresse de facturation</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Adresse privée</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Numéro de téléphone professionnel</td><td>\*</td><td></td><td>OSAV</td></tr>
+<tr><td>Numéro de téléphone privé</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Adresse e-mail</td><td>\*</td><td></td><td>OSAV</td></tr>
+<tr><td>Employeur</td><td>\*</td><td></td><td>OSAV</td></tr>
+<tr><td>Curriculum vitæ</td><td></td><td>\*\*</td><td>OSAV</td></tr>
+<tr><td>Diplômes précédents</td><td></td><td>\*\*</td><td>OSAV</td></tr>
+<tr><td>Reconnaissances du diplôme</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Formation la plus élevée achevée</td><td>\*</td><td></td><td>OSAV</td></tr>
+<tr><td>Langue</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Procès-verbaux des épreuves</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Notes et évaluations</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Recours</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Décisions de l’OSAV et de la commission d’examens</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Décisions de l’OSAV conformément aux art. 83 et 92 de l’ordonnance du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires[^annex3-lvlu1-lvlu1-1]</td><td></td><td></td><td>OSAV</td></tr>
+<tr><td>Dispenses</td><td></td><td></td><td>OSAV</td></tr>
+</table>
+
+[^annex3-lvlu1-lvlu1-1]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)

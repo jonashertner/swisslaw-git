@@ -3,18 +3,18 @@ sr: "916.402"
 title: "Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/803"
 language: de
-version: 2012-06-01
+version: 2024-02-01
 adopted: 2011-11-16
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/803/20120601/de/xml/fedlex-data-admin-ch-eli-cc-2011-803-20120601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/803/20120601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/803/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2011-803-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/803/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen
 
-vom 16. November 2011 (Stand am 1. Juni 2012)
+vom 16. November 2011 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -45,15 +45,17 @@ Diese Verordnung regelt die Anforderungen an die Aus-, Weiter- und Fortbildung f
 
 **Grundsätze**
 
-<sup>1</sup> Wer eine Funktion nach Artikel 1 wahrnimmt, muss über das dafür erforderliche Fähigkeitszeugnis verfügen. Personen nach Artikel 1 Buchstaben b–f müssen spätestens drei Jahre nach Aufnahme der Funktion über das Fähigkeitszeugnis verfügen.
+<sup>1</sup> Wer eine Funktion nach Artikel 1 wahrnimmt, muss über das dafür erforderliche eidgenössische Diplom[^2-1] verfügen. Personen nach Artikel 1 Buchstaben b–f müssen spätestens drei Jahre nach Aufnahme der Funktion über das eidgenössische Diplom verfügen.
 
-<sup>2</sup> Kantonstierärztinnen und Kantonstierärzte müssen mindestens über das Fähigkeitszeugnis als amtliche Tierärztin oder amtlicher Tierarzt verfügen.
+<sup>2</sup> Kantonstierärztinnen und Kantonstierärzte müssen mindestens über das eidgenössische Diplom als amtliche Tierärztin oder amtlicher Tierarzt verfügen.
 
-<sup>3</sup> Das Fähigkeitszeugnis wird nach erfolgreich absolvierter Weiterbildung und bestandener Prüfung erteilt.
+<sup>3</sup> Das eidgenössische Diplom wird nach erfolgreich absolvierter Weiterbildung und bestandener Prüfung erteilt.
 
 <sup>4</sup> Wer eine Funktion nach Artikel 1 übernimmt, darf keine anderen Tätigkeiten ausüben, die zu einem Interessenkonflikt führen können.
 
 <sup>5</sup> Der Beschäftigungsgrad der Personen nach Artikel 1 Buchstaben b und c muss mindestens 30 Prozent betragen.
+
+[^2-1]: Ausdruck gemäss durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 3
 
@@ -100,13 +102,20 @@ Wer eine Funktion nach Artikel 1 Buchstaben a–c übernehmen will, muss verfüg
 - a. ein eidgenössisches Diplom in Veterinärmedizin; oder
 - b. ein anerkanntes ausländisches Diplom in Veterinärmedizin nach Artikel 15 des Medizinalberufegesetzes vom 23. Juni 2006[^6-1].
 
-<sup>2</sup> Wer die Funktion als amtliche Fachexpertin oder amtlicher Fachexperte übernehmen will, muss über ein Diplom in einem Medizinalberuf nach dem Medizinalberufegesetz verfügen oder ein Hochschul- oder Fachhochschulstudium auf Masterstufe abgeschlossen haben, das von der Prüfungskommission für das Veterinärwesen (Prüfungskommission) (Art. 15) anerkannt ist.
+<sup>2</sup>
+
+Wer die Funktion als amtliche Fachexpertin oder amtlicher Fachexperte übernehmen will, muss verfügen über:
+
+- a. ein Diplom in einem Medizinalberuf nach dem Medizinalberufegesetz;
+- b. ein Diplom einer Hoch- oder Fachhochschule mindestens auf Bachelorstufe, das von der Prüfungskommission für das Veterinärwesen (Prüfungskommission) anerkannt ist; oder
+- c. ein Diplom als amtliche Fachassistentin oder amtlicher Fachassistent mit 5 Jahren Arbeitserfahrung (Voll- oder Teilzeit) nach Abschluss, im betreffenden Vollzugsbereich.[^6-2]
 
 <sup>3</sup> Wer die Funktion als amtliche Fachassistentin oder amtlicher Fachassistent Schlachttier- und Fleischuntersuchung übernehmen will, muss eine berufliche Grundbildung im Landwirtschafts- oder Lebensmittelsektor abgeschlossen haben. Die Prüfungskommission kann weitere berufliche Grundbildungen anerkennen.
 
 <sup>4</sup> Wer die Funktion als amtliche Fachassistentin oder amtlicher Fachassistent für weitere Aufgaben übernehmen will, muss eine berufliche Grundbildung abgeschlossen haben.
 
 [^6-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^6-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
 
 #### Art. 7
 
@@ -162,12 +171,12 @@ Die Einzelfachprüfungen werden von der Prüfungskommission oder von Expertinnen
 
 Die Leistungen werden wie folgt bewertet:
 
-- [tab] 6 = sehr gut
-- [tab] 5 = gut
-- [tab] 4 = genügend
-- [tab] 3 = ungenügend
-- [tab] 2 = schlecht
-- [tab] 1 = sehr schlecht.
+- 6 = sehr gut
+- 5 = gut
+- 4 = genügend
+- 3 = ungenügend
+- 2 = schlecht
+- 1 = sehr schlecht.
 
 <sup>3</sup> Halbe Noten sind zulässig.
 
@@ -220,7 +229,7 @@ Die Prüfungskommission hat folgende Aufgaben:
 - e. Sie anerkennt ausländische Weiterbildungen.
 - f. Sie erteilt Dispense nach Artikel 7 Absatz 2.
 - g. Sie entscheidet im Rahmen ihrer Zuständigkeiten nach Anhang 1 über die Zulassung zu den Einzelfachprüfungen.
-- h. Sie stellt Fähigkeitszeugnisse aus.
+- h. Sie stellt eidgenössische Diplome aus.
 - i. Sie erstellt zuhanden des BLV und der Kantone einen Jahresbericht.
 
 <sup>2</sup> Sie kann Weiter- und Fortbildungsveranstaltungen durchführen.
@@ -247,6 +256,56 @@ Die Prüfungskommission hat folgende Aufgaben:
 
 [^18-1]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
 
+## 5*a*. Abschnitt: Personendaten
+
+[^sec5a-1]
+
+[^sec5a-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
+
+#### Art. 18a
+
+**Speicherung und Bearbeitung von Personendaten**
+
+<sup>1</sup> Personendaten im Zusammenhang mit der Ausbildung der mit der amtlichen Kontrolle betrauten Personen werden in der Lernplattform des BLV gespeichert.
+
+<sup>2</sup> Das BLV darf Personendaten nach Anhang 3 bearbeiten.
+
+#### Art. 18b
+
+**Rechte der betroffenen Personen**
+
+<sup>1</sup> Die Rechte der Personen, von denen das BLV Daten bearbeitet, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^18b-1].
+
+<sup>2</sup> Will eine betroffene Person ihre Rechte geltend machen, so muss sie sich über ihre Identität ausweisen und ein schriftliches Gesuch beim BLV einreichen.
+
+[^18b-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 18c
+
+**Datenaustausch**
+
+Das BLV darf folgende Daten austauschen:
+
+- a. mit den Prüfungskommissionen: die Daten nach Anhang 3;
+- b. mit den kantonalen Vollzugsbehörden des Kantons, in dem die Person angestellt ist: die Prüfungsnoten und die Bewertungen;
+- c. mit den Referierenden und den Teilnehmenden der Bildungsprogramme nach Artikel 62 der Verordnung vom 27. Mai 2020[^18c-1] über den Vollzug der Lebensmittelgesetzgebung: die nicht besonders schützenswerten Personendaten.
+
+[^18c-1]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+
+#### Art. 18d
+
+**Aufbewahrung und Vernichtung**
+
+<sup>1</sup> Die Daten werden nur so lange aufbewahrt, wie es der Bearbeitungszweck erfordert.
+
+<sup>2</sup> Sie werden gelöscht, sobald der Bearbeitungszweck nicht mehr gegeben ist; Daten, die in einem Informationssystem zwingend miteinander verknüpft sind, werden als Block gelöscht, sobald der Bearbeitungszweck für alle diese Daten nicht mehr gegeben ist.
+
+<sup>3</sup> Nicht mehr benötigte Daten werden mit den dazugehörigen Unterlagen dem Bundesarchiv zur Archivierung angeboten. Daten und Unterlagen, die das Bundesarchiv als nicht archivwürdig beurteilt, werden vernichtet.
+
+<sup>4</sup> Die Archivierung der Daten richtet sich nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998[^18d-1].
+
+[^18d-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
 ## 6. Abschnitt: Schlussbestimmungen
 
 #### Art. 19
@@ -259,7 +318,7 @@ Die Aufhebung und die Änderung bisherigen Rechts werden in Anhang 2 geregelt.
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Fähigkeitszeugnisse, die nach der Verordnung vom 24. Januar 2007[^20-1] über die Aus‑, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst ausgestellt wurden, bleiben gültig.
+<sup>1</sup> Eidgenössische Diplome, die nach der Verordnung vom 24. Januar 2007[^20-1] über die Aus‑, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst ausgestellt wurden, bleiben gültig.
 
 <sup>2</sup> Für Personen, die vor dem Inkrafttreten der vorliegenden Verordnung mit der Weiterbildung begonnen haben, gilt Artikel 6 der Verordnung vom 24. Januar 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst.
 
@@ -279,7 +338,7 @@ Die Aufhebung und die Änderung bisherigen Rechts werden in Anhang 2 geregelt.
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 7 Abs. 1 und 10)
 
@@ -291,7 +350,7 @@ Anhang 1*[^t-1]*
 
 ### 1.1 Weiterbildung
 
-<sup>1</sup> Wer das Fähigkeitszeugnis als amtliche Tierärztin oder als amtlicher Tierarzt erwerben will, muss eine praktische Weiterbildung von mindestens 80 Arbeitstagen vorweisen. Sie oder er muss:
+<sup>1</sup> Wer das eidgenössische Diplom als amtliche Tierärztin oder als amtlicher Tierarzt erwerben will, muss eine praktische Weiterbildung von mindestens 80 Arbeitstagen vorweisen. Sie oder er muss:
 
 - a. mindestens 10 Arbeitstage Verwaltungs- und Kontrolltätigkeit in einem oder mehreren kantonalen Veterinärdiensten absolviert haben;
 - b. in Tierhaltungen, Schlachtanlagen und weiteren Betrieben überprüft haben, ob die für das öffentliche Veterinärwesen relevanten Vorschriften eingehalten werden; und
@@ -340,9 +399,9 @@ Die Prüfung wird mit sechs Noten bewertet und umfasst:
 
 ### 2.1 Weiterbildung
 
-Wer das Fähigkeitszeugnis als leitende amtliche Tierärztin oder als leitender amtlicher Tierarzt erwerben will, muss:
+Wer das eidgenössische Diplom als leitende amtliche Tierärztin oder als leitender amtlicher Tierarzt erwerben will, muss:
 
-- a. das Fähigkeitszeugnis als amtliche Tierärztin oder amtlicher Tierarzt besitzen;
+- a. das eidgenössische Diplom als amtliche Tierärztin oder amtlicher Tierarzt besitzen;
 - b. mindestens zwei Jahre die Funktion einer amtlichen Tierärztin oder eines amtlichen Tierarztes ausgeübt haben;
 - c. eine praktische Weiterbildung von mindestens 25 Arbeitstagen vorweisen, die Einblick in die Verwaltungstätigkeit des BLV oder von kantonalen Stellen ermöglicht hat;
 - d. eine theoretische Weiterbildung über Personal- und Betriebsführung und Krisenmanagement vorweisen; und
@@ -362,7 +421,7 @@ Die Prüfung wird mit drei Noten bewertet und umfasst:
 
 <sup>2</sup> Der Prüfungsanmeldung sind beizulegen:
 
-- a. der Ausweis über den Studienabschluss sowie bereits erlangte Fähigkeitszeugnisse nach dieser Verordnung;
+- a. der Ausweis über den Studienabschluss sowie bereits erlangte eidgenössische Diplome nach dieser Verordnung;
 - b. die Belege über die praktische und die theoretische Weiterbildung oder ein Dispens der Prüfungskommission.
 
 <sup>3</sup> Die Prüfungskommission entscheidet über die Zulassung zur Prüfung.
@@ -371,7 +430,7 @@ Die Prüfung wird mit drei Noten bewertet und umfasst:
 
 ### 3.1 Weiterbildung
 
-<sup>1</sup> Wer das Fähigkeitszeugnis als amtliche Fachexpertin oder als amtlicher Fachexperte erwerben will, muss eine praktische Weiterbildung vorweisen. Diese umfasst mindestens 30 Arbeitstage Verwaltungs- und Kontrolltätigkeit und vermittelt Kenntnisse über das Vorgehen bei Vollzugsaufgaben im Fachbereich.
+<sup>1</sup> Wer das eidgenössische Diplom als amtliche Fachexpertin oder als amtlicher Fachexperte erwerben will, muss eine praktische Weiterbildung vorweisen. Diese umfasst mindestens 30 Arbeitstage Verwaltungs- und Kontrolltätigkeit und vermittelt Kenntnisse über das Vorgehen bei Vollzugsaufgaben im Fachbereich.
 
 <sup>2</sup> Sie oder er muss zudem eine theoretische Weiterbildung vorweisen, die Kenntnisse über die Tierseuchen-, Lebensmittel-, Tierschutz- und Heilmittelgesetzgebung einschliesslich des Verwaltungs- und Strafverfahrens im Fachbereich und in den massgebenden Betriebsarten sowie vertiefte Fachkenntnisse vermittelt.
 
@@ -408,7 +467,7 @@ Die Prüfung wird mit drei Noten bewertet und umfasst:
 
 ### 4.1.1 Weiterbildung
 
-<sup>1</sup> Wer das Fähigkeitszeugnis als amtliche Fachassistentin oder amtlicher Fachassistent Schlachttier- und Fleischuntersuchung erwerben will, muss eine praktische und theoretische Weiterbildung von 20 Arbeitstagen und eine Vertiefungsphase von 80 Arbeitstagen vorweisen über:
+<sup>1</sup> Wer das eidgenössische Diplom als amtliche Fachassistentin oder amtlicher Fachassistent Schlachttier- und Fleischuntersuchung erwerben will, muss eine praktische und theoretische Weiterbildung von 20 Arbeitstagen und eine Vertiefungsphase von 80 Arbeitstagen vorweisen über:
 
 - a. die Grundzüge der Lebensmittel-, Tierseuchen- und Tierschutzgesetzgebung, soweit sie für die Schlachttier- und Fleischuntersuchung von Belang sind;
 - b. die Anatomie und die krankhaften Veränderungen, soweit sie für die Schlachttier- und Fleischuntersuchung von Belang sind;
@@ -448,7 +507,7 @@ Die Prüfung wird mit drei Noten bewertet und umfasst:
 
 ### 4.2.1 Weiterbildung
 
-<sup>1</sup> Wer das Fähigkeitszeugnis als amtliche Fachassistentin oder amtlicher Fachassistent für weitere Aufgaben erwerben will, muss eine Weiterbildung von mindestens 30 Arbeitstagen vorweisen.
+<sup>1</sup> Wer das eidgenössische Diplom als amtliche Fachassistentin oder amtlicher Fachassistent für weitere Aufgaben erwerben will, muss eine Weiterbildung von mindestens 30 Arbeitstagen vorweisen.
 
 <sup>2</sup> Die Weiterbildung nach Absatz 1 umfasst:
 
@@ -494,3 +553,43 @@ II
 …[^annex2-lvlu2-1]
 
 [^annex2-lvlu2-1]: Die Änderungen können unter [AS 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)konsultiert werden.
+
+Anhang 3[^t-2]
+
+(Art. 18*a* und 18*c* Bst. a)
+
+## Personendaten, die im Rahmen dieser Verordnung bearbeitet werden
+
+[^t-2]: Eingefügt durch Ziff. II der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
+
+### Liste der Daten
+
+<table>
+<tr><th>Bezeichnung</th><th>Daten mit \* dürfen mit den Referierenden und den Teilnehmenden ausgetauscht werden</th><th>Daten mit \*\* werden nach Diplomausstellung gelöscht</th><th>Zugriffrechte</th></tr>
+<tr><td>Name</td><td>\*</td><td></td><td>BLV</td></tr>
+<tr><td>Vorname</td><td>\*</td><td></td><td>BLV</td></tr>
+<tr><td>Geschlecht</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Geburtsdatum</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Heimatort</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>AHV-Nummer</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Arbeitsadresse</td><td>\*</td><td></td><td>BLV</td></tr>
+<tr><td>Rechnungsadresse</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Privatadresse</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>geschäftliche Telefonnummer</td><td>\*</td><td></td><td>BLV</td></tr>
+<tr><td>private Telefonnummer</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>E-Mail-Adresse</td><td>\*</td><td></td><td>BLV</td></tr>
+<tr><td>Arbeitsgeber</td><td>\*</td><td></td><td>BLV</td></tr>
+<tr><td>Lebenslauf</td><td></td><td>\*\*</td><td>BLV</td></tr>
+<tr><td>Bisherige Diplome</td><td></td><td>\*\*</td><td>BLV</td></tr>
+<tr><td>Diplom-Anerkennungen</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>höchste abgeschlossene Ausbildung</td><td>\*</td><td></td><td>BLV</td></tr>
+<tr><td>Sprache</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Prüfungsprotokolle</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Noten und Bewertungen</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Rekurse</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Entscheide des BLV und der PK</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Verfügungen des BLV gemäss Artikel 83 und 92 der Verordnung vom 27. Mai 2020[^annex3-lvlu1-lvlu1-1] über den Vollzug der Lebensmittelgesetzgebung</td><td></td><td></td><td>BLV</td></tr>
+<tr><td>Dispensationen</td><td></td><td></td><td>BLV</td></tr>
+</table>
+
+[^annex3-lvlu1-lvlu1-1]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)

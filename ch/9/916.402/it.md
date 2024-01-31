@@ -3,18 +3,18 @@ sr: "916.402"
 title: "Ordinanza del 16 novembre 2011 concernente la formazione, il perfezionamento e l'aggiornamento delle persone impiegate nel settore veterinario pubblico"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/803"
 language: it
-version: 2012-06-01
+version: 2024-02-01
 adopted: 2011-11-16
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/803/20120601/it/xml/fedlex-data-admin-ch-eli-cc-2011-803-20120601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/803/20120601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/803/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2011-803-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/803/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico
 
-del 16 novembre 2011 (Stato 1° giugno 2012) (Stato 1° giugno 2012)
+del 16 novembre 2011 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -45,15 +45,17 @@ La presente ordinanza disciplina le esigenze previste per la formazione, il perf
 
 **Principi**
 
-<sup>1</sup> Chiunque svolge una funzione di cui all’articolo 1 deve essere titolare dell’attestato di capacità richiesto. Le persone di cui all’articolo 1 lettere b–f devono disporre dell’attestato di capacità richiesto al più tardi tre anni dopo aver assunto tale funzione.
+<sup>1</sup> Chiunque svolge una funzione di cui all’articolo 1 deve essere titolare del diploma federale[^2-1] di capacità richiesto. Le persone di cui all’articolo 1 lettere b–f devono disporre del diploma federale richiesto al più tardi tre anni dopo aver assunto tale funzione.
 
-<sup>2</sup> I veterinari cantonali devono almeno essere titolari dell’attestato di capacità di veterinario ufficiale.
+<sup>2</sup> I veterinari cantonali devono almeno essere titolari del diploma federale di veterinario ufficiale.
 
-<sup>3</sup> L’attestato di capacità è rilasciato a chi ha seguito con successo il perfezionamento e ha superato l’esame.
+<sup>3</sup> Il diploma federale è rilasciato a chi ha seguito con successo il perfezionamento e ha superato l’esame.
 
 <sup>4</sup> Chiunque svolge una funzione di cui all’articolo 1 non può esercitare altre attività che possono comportare un conflitto di interessi.
 
 <sup>5</sup> Il grado di occupazione delle persone di cui all’articolo 1 lettere b e c deve essere almeno del 30 per cento.
+
+[^2-1]: Nuova espressione giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -100,13 +102,20 @@ Chiunque intende assumere una funzione di cui all’articolo 1 lettere a–c dev
 - a. un diploma federale in medicina veterinaria; oppure
 - b. un diploma estero riconosciuto in medicina veterinaria conformemente all’articolo 15 della legge del 23 giugno 2006[^6-1] sulle professioni mediche.
 
-<sup>2</sup> Chiunque intende assumere la funzione di esperto ufficiale deve disporre di un diploma in una professione medica secondo la legge sulle professioni mediche oppure avere concluso uno studio universitario o di scuola universitaria professionale a livello di master, riconosciuto dalla commissione d’esame del settore veterinario pubblico (commissione d’esame; art. 15).
+<sup>2</sup>
+
+Chiunque intende assumere la funzione di esperto ufficiale deve disporre di:
+
+- a. un diploma in una professione medica secondo la legge sulle professioni mediche;
+- b. un diploma di uno studio universitario o di scuola universitaria professionale almeno a livello di bachelor, riconosciuto dalla commissione d’esame del settore veterinario pubblico (commissione d’esame); oppure
+- c. un diploma di assistente specializzato ufficiale con ulteriori cinque anni di esperienza professionale (tempo pieno o parziale) nel settore esecutivo pertinente.[^6-2]
 
 <sup>3</sup> Chiunque intende assumere la funzione di assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni deve avere concluso una formazione professionale di base nel settore agroalimentare. La commissione d’esame può riconoscere altre formazioni professionali di base.
 
 <sup>4</sup> Chiunque intende assumere la funzione di assistente specializzato ufficiale incaricato di altri compiti deve avere concluso una formazione professionale di base.
 
 [^6-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^6-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
 
 #### Art. 7
 
@@ -203,7 +212,7 @@ Una prova d’esame non superata può essere ripetuta due volte.
 
 <sup>4</sup> La commissione d’esame può deliberare validamente se è presente la maggioranza dei suoi membri. In caso di parità, il voto del presidente è preponderante.
 
-[^15-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+[^15-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -247,6 +256,56 @@ La commissione d’esame ha i seguenti compiti:
 
 [^18-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
 
+## Sezione 5*a*: Dati personali
+
+[^sec5a-1]
+
+[^sec5a-1]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
+
+#### Art. 18a
+
+**Registrazione e trattamento di dati personali**
+
+<sup>1</sup> I dati personali in relazione alla formazione delle persone incaricate dei controlli ufficiali sono registrati nella piattaforma didattica dellʼUSAV.
+
+<sup>2</sup> LʼUSAV può trattare i dati personali di cui allʼallegato 3.
+
+#### Art. 18b
+
+**Diritti delle persone interessate**
+
+<sup>1</sup> I diritti delle persone di cui l’USAV tratta i dati, in particolare il diritto d’accesso, il diritto di rettifica e il diritto di distruzione, sono retti dalla legge federale del 25 settembre 2020[^18b-1] sulla protezione dei dati.
+
+<sup>2</sup> Se una persona intende far valere i propri diritti, deve comprovare la propria identità e presentare una domanda scritta all’USAV.
+
+[^18b-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 18c
+
+**Scambio di dati**
+
+LʼUSAV può scambiare i dati seguenti:
+
+- a. con le commissioni dʼesame: i dati di cui allʼallegato 3;
+- b. con le autorità di esecuzione del Cantone nel quale la persona è impiegata: le note di esame e le valutazioni;
+- c. con i relatori e i partecipanti dei programmi di formazione di cui all’articolo 62 dell’ordinanza del 27 maggio 2020[^18c-1] sull’esecuzione della legislazione delle derrate alimentari: i dati personali che non sono degni di particolare protezione.
+
+[^18c-1]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+
+#### Art. 18d
+
+**Conservazione e distruzione**
+
+<sup>1</sup> I dati sono conservati solo per il tempo necessario allo scopo del trattamento.
+
+<sup>2</sup> Essi sono cancellati non appena lo scopo del trattamento non sussiste più; i dati che sono obbligatoriamente collegati in un sistema d’informazione sono cancellati in blocco non appena lo scopo del loro trattamento non sussiste più.
+
+<sup>3</sup> I dati che non sono più necessari sono offerti insieme ai relativi documenti all’Archivio federale per l’archiviazione. I dati e i documenti designati dall’Archivio federale come non aventi valore archivistico sono distrutti.
+
+<sup>4</sup> L’archiviazione dei dati è retta dalle prescrizioni della legge del 26 giugno 1998[^18d-1] sull’archiviazione.
+
+[^18d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
 ## Sezione 6: Disposizioni finali
 
 #### Art. 19
@@ -279,7 +338,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 La presente ordinanza entra in vigore il 1° gennaio 2012.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 7 cpv. 1 e 10)
 
@@ -291,7 +350,7 @@ Allegato 1*[^t-1]*
 
 ### 1.1 Perfezionamento
 
-<sup>1</sup> Chiunque intende ottenere l’attestato di capacità di veterinario ufficiale deve aver frequentato un corso di perfezionamento pratico di almeno 80 giorni lavorativi. In particolare deve:
+<sup>1</sup> Chiunque intende ottenere il diploma federale di veterinario ufficiale deve aver frequentato un corso di perfezionamento pratico di almeno 80 giorni lavorativi. In particolare deve:
 
 - a. avere svolto almeno 10 giorni lavorativi di attività amministrativa e di controllo in uno o in diversi servizi veterinari cantonali;
 - b. avere verificato in allevamenti di animali, in macelli e in altre aziende se le prescrizioni rilevanti per il settore veterinario pubblico sono rispettate; e
@@ -340,9 +399,9 @@ L’esame viene valutato assegnando sei note e comprende:
 
 ### 2.1 Perfezionamento
 
-Chiunque intende ottenere l’attestato di capacità di veterinario ufficiale dirigente deve:
+Chiunque intende ottenere il diploma federale di veterinario ufficiale dirigente deve:
 
-- a. essere titolare dell’attestato di capacità di veterinario ufficiale;
+- a. essere titolare del diploma federale di veterinario ufficiale;
 - b. avere svolto per almeno due anni la funzione di veterinario ufficiale;
 - c. avere svolto un perfezionamento pratico di almeno 25 giorni lavorativi che gli ha consentito di farsi un’idea dell’attività amministrativa dell’USAV oppure di uno o diversi servizi cantonali;
 - d. avere svolto un perfezionamento teorico sulla gestione del personale, sulla gestione aziendale e sulla gestione delle situazioni di crisi; e
@@ -371,7 +430,7 @@ L’esame viene valutato assegnando tre note e comprende:
 
 ### 3.1 Perfezionamento
 
-<sup>1</sup> Chiunque intende ottenere l’attestato di capacità di esperto ufficiale deve avere svolto un perfezionamento pratico. Il perfezionamento comprende almeno 30 giorni lavorativi di attività amministrativa e di controllo e fornisce le conoscenze sulla procedura relativa ai compiti esecutivi nel rispettivo settore specifico.
+<sup>1</sup> Chiunque intende ottenere il diploma federale di esperto ufficiale deve avere svolto un perfezionamento pratico. Il perfezionamento comprende almeno 30 giorni lavorativi di attività amministrativa e di controllo e fornisce le conoscenze sulla procedura relativa ai compiti esecutivi nel rispettivo settore specifico.
 
 <sup>2</sup> Deve avere inoltre frequentato un perfezionamento teorico nel quale vengono impartite, nel rispettivo settore specifico e per i principali tipi di aziende in questione, nozioni inerenti alla legislazione sulle epizoozie, sulle derrate alimentari, sulla protezione degli animali e in materia di agenti terapeutici, comprese la procedura amministrativa e penale, nonché conoscenze tecniche approfondite.
 
@@ -408,7 +467,7 @@ L’esame viene valutato assegnando tre note e comprende:
 
 ### 4.1.1 Perfezionamento
 
-<sup>1</sup> Chiunque intende ottenere l’attestato di capacità di assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni deve avere svolto un perfezionamento pratico e teorico di 20 giorni lavorativi nonché una fase di approfondimento delle conoscenze acquisite di 80 giorni lavorativi concernente:
+<sup>1</sup> Chiunque intende ottenere il diploma federale di assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni deve avere svolto un perfezionamento pratico e teorico di 20 giorni lavorativi nonché una fase di approfondimento delle conoscenze acquisite di 80 giorni lavorativi concernente:
 
 - a. gli elementi fondamentali della legislazione in materia di derrate alimentari, epizoozie e protezione degli animali, per quanto siano importanti per il controllo degli animali da macello e il controllo delle carni;
 - b. l’anatomia e le alterazioni patologiche, per quanto siano importanti per il controllo degli animali da macello e il controllo delle carni;
@@ -448,7 +507,7 @@ L’esame viene valutato assegnando tre note e comprende:
 
 ### 4.2.1 Perfezionamento
 
-<sup>1</sup> Chiunque intende ottenere l’attestato di capacità di assistente specializzato ufficiale incaricato di altri compiti deve avere svolto un perfezionamento di almeno 30 giorni lavorativi:
+<sup>1</sup> Chiunque intende ottenere il diploma federale di assistente specializzato ufficiale incaricato di altri compiti deve avere svolto un perfezionamento di almeno 30 giorni lavorativi:
 
 <sup>2</sup> Il perfezionamento di cui al capoverso 1 comprende:
 
@@ -496,3 +555,43 @@ Le seguenti ordinanze sono modificate come segue:
 …[^annex2-lvlu2-1]
 
 [^annex2-lvlu2-1]: Le mod. possono essere consultate alla RU**2011** 5803.
+
+Allegato 3[^t-2]
+
+(art. 18*a* e 18*c* lett. a)
+
+## Dati personali trattati nell’ambito della presente ordinanza
+
+[^t-2]: Introdotto dal n. II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 8](https://fedlex.data.admin.ch/eli/oc/2024/8)).
+
+### Elenco dei dati
+
+<table>
+<tr><th>Denominazione</th><th>I dati con un \* possono essere scambiati con i relatori e i partecipanti</th><th>I dati con \*\* saranno cancellati dopo il rilascio del diploma</th><th>Diritti di accesso</th></tr>
+<tr><td>Cognome</td><td>\*</td><td></td><td>USAV</td></tr>
+<tr><td>Nome</td><td>\*</td><td></td><td>USAV</td></tr>
+<tr><td>Genere</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Data di nascita</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Luogo di origine</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Numero AVS</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Indirizzo professionale</td><td>\*</td><td></td><td>USAV</td></tr>
+<tr><td>Indirizzo di fatturazione</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Indirizzo privato</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Numero di telefono professionale</td><td>\*</td><td></td><td>USAV</td></tr>
+<tr><td>Numero di telefono privato</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Indirizzo e-mail</td><td>\*</td><td></td><td>USAV</td></tr>
+<tr><td>Datore di lavoro</td><td>\*</td><td></td><td>USAV</td></tr>
+<tr><td>Curriculum vitae</td><td></td><td>\*\*</td><td>USAV</td></tr>
+<tr><td>Diplomi precedenti</td><td></td><td>\*\*</td><td>USAV</td></tr>
+<tr><td>Riconoscimenti di diplomi</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Formazione più elevata conclusa</td><td>\*</td><td></td><td>USAV</td></tr>
+<tr><td>Lingua</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Verbali d’esame</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Note e valutazioni</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Ricorsi</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Decisioni dell’USAV e della CE</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Decisioni dell’USAV conformemente agli articoli 83 e 92 dell’ordinanza del 27 maggio 2020[^annex3-lvlu1-lvlu1-1] sull’esecuzione della legislazione sulle derrate alimentari</td><td></td><td></td><td>USAV</td></tr>
+<tr><td>Dispense</td><td></td><td></td><td>USAV</td></tr>
+</table>
+
+[^annex3-lvlu1-lvlu1-1]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
