@@ -3,11 +3,11 @@ sr: "414.131.54"
 title: Verordnung der ETH Zürich vom 14. November 2017 über die Zulassungsbeschränkungen für den Bachelor-Studiengang Humanmedizin an der ETH Zürich (Zulassungsbeschränkungsverordnung Medizin der ETH Zürich)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/728"
 language: de
-version: 2021-06-01
+version: 2024-02-01
 adopted: 2017-11-14
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2017-728-20210601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-728-20240201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,16 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/de"
 
 (Zulassungsbeschränkungsverordnung Medizin der ETH Zürich)
 
-vom 14. November 2017 (Stand am 1. Juni 2021)
+vom 14. November 2017 (Stand am 1. Februar 2024)
 
 Die Schulleitung der ETH Zürich (Schulleitung),
 
-gestützt auf Artikel 16*a* Absatz 5 des ETH-Gesetzes vom 4. Oktober 1991[^ingress-1] und auf den Beschluss des ETH-Rates vom 7./8. Dezember 2016[^ingress-2] über die Beschränkung der Zulassung Studierender für das Bachelor-Studium Humanmedizin an der ETH Zürich,
+gestützt auf Artikel 16*a* Absätze 2 und 5 des ETH-Gesetzes vom 4. Oktober 1991[^ingress-1],[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: [BBl 2017 138](https://fedlex.data.admin.ch/eli/fga/2017/24)
+[^ingress-2]: Fasssung gemäss Ziff. I der V der Schulleitung der ETH Zürich vom 12. Okt. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 612](https://fedlex.data.admin.ch/eli/oc/2023/612)).
 
 ## 1. Abschnitt: Anderes anwendbares Recht
 
@@ -73,7 +73,8 @@ Studienanwärterinnen und -anwärter mit ausländischer Staatsangehörigkeit kö
 - f. Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaates der Europäischen Union, von Island, Norwegen oder des Fürstentums Liechtenstein, wenn sie in der Schweiz eine Aufenthaltsbewilligung mit dem Vermerk «Familiennachzug» als Familienmitglied einer Bürgerin oder eines Bürgers der EU/EFTA besitzen;
 - g. Kinder, deren Eltern in der Schweiz Diplomatenstatus geniessen und die eine Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten des Typs «B», «C» oder «D blau» besitzen;
 - h. Flüchtlinge, die von der Schweiz anerkannt sind.
-- [tab] <sup>2</sup> Die Dokumente nach Absatz 1, die den rechtlichen Status für die Zugangsberechtigung zum Medizinstudium belegen, müssen spätestens bis zum letzten Tag der Anmeldefrist für das Medizinstudium (Art. 6 Abs. 1) vorgelegt werden. Gegebenenfalls müssen auch die Mindestdauern nach Absatz 1 Buchstabe c, d oder e bis zu diesem Datum erfüllt sein.
+
+<sup>2</sup> Die Dokumente nach Absatz 1, die den rechtlichen Status für die Zugangsberechtigung zum Medizinstudium belegen, müssen spätestens bis zum letzten Tag der Anmeldefrist für das Medizinstudium (Art. 6 Abs. 1) vorgelegt werden. Gegebenenfalls müssen auch die Mindestdauern nach Absatz 1 Buchstabe c, d oder e bis zu diesem Datum erfüllt sein.
 
 [^2-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETH Zürich vom 15. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
 [^2-2]: [SR 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
@@ -258,4 +259,8 @@ Die Zulassungsbeschränkungsverordnung Medizin ETH Zürich vom 1. November 2016[
 
 **Inkrafttreten und Geltungsdauer**
 
-Diese Verordnung tritt am 1. Januar 2018 in Kraft und gilt bis zum 31. Januar 2024.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2018 in Kraft und gilt bis zum 31. Januar 2024.
+
+<sup>2</sup> Sie gilt ab dem 1. Februar 2024 unbefristet.[^21-1]
+
+[^21-1]: Eingefügt durch Ziff. I der V der Schulleitung der ETH Zürich vom 12. Okt. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 612](https://fedlex.data.admin.ch/eli/oc/2023/612)).

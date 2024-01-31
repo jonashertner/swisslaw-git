@@ -3,11 +3,11 @@ sr: "414.131.54"
 title: "Ordonnance de l'EPFZ du 14 novembre 2017 concernant les limitations d'admission dans la filière préparant au bachelor en médecine humaine à l'EPFZ (Ordonnance sur les limitations d'admission en médecine à l'EPFZ)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/728"
 language: fr
-version: 2021-06-01
+version: 2024-02-01
 adopted: 2017-11-14
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-728-20210601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-728-20240201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/fr"
 
 (Ordonnance sur les limitations d’admission en médecine à l’EPFZ)
 
-du 14 novembre 2017 (Etat le 1<sup>er</sup> juin 2021)
+du 14 novembre 2017 (État le 1<sup>er</sup> février 2024)
 
 La Direction de l’École polytechnique fédérale de Zurich (Direction de l’école),
 
-vu l’art. 16*a*, al. 5, de la loi du 4 octobre 1991 sur les EPF[^ingress-1], vu l’arrêté du Conseil des EPF des 7 et 8 décembre 2016 sur la limitation de l’admission des étudiants au bachelor de médecine humaine de l’ETH Zurich[^ingress-2],
+vu l’art. 16*a*, al. 2 et 5, de la loi du 4 octobre 1991 sur les EPF[^ingress-1],[^ingress-2] vu l’arrêté du Conseil des EPF des 7 et 8 décembre 2016 sur la limitation de l’admission des étudiants au bachelor de médecine humaine de l’ETH Zurich[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: [FF 2017 134](https://fedlex.data.admin.ch/eli/fga/2017/24)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’ EPFZ du 12 oct. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 612](https://fedlex.data.admin.ch/eli/oc/2023/612)).
+[^ingress-3]: [FF 2017 134](https://fedlex.data.admin.ch/eli/fga/2017/24)
 
 ## Section 1 Autre droit applicable
 
@@ -103,7 +104,7 @@ Ne sont pas autorisées à se soumettre au test d’aptitudes visé à l’art. 
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’école du 15 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
 [^4-2]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
-[^4-3]: www.swissuniversities.ch &gt; Services &gt; Inscription aux études de médecine
+[^4-3]: [www.swissuniversities.ch](http://www.swissuniversities.ch) &gt; Services &gt; Inscription aux études de médecine
 
 #### Art. 5
 
@@ -121,7 +122,7 @@ Ne sont pas admises dans la filière préparant au bachelor en médecine humaine
 
 <sup>2</sup> Les inscriptions qui n’ont pas été déposées sous la forme ou dans le délai requis ne sont pas prises en considération.
 
-[^6-1]: www.swissuniversities.ch &gt; Services &gt; Inscription aux études de médecine
+[^6-1]: [www.swissuniversities.ch](http://www.swissuniversities.ch) &gt; Services &gt; Inscription aux études de médecine
 
 #### Art. 7
 
@@ -141,7 +142,7 @@ Toute personne qui s’est inscrite dans la filière préparant au bachelor en m
 
 L’organisation et le déroulement du test d’aptitudes sont régis par la procédure fixée par la Conférence des recteurs des hautes écoles suisses[^9-1].
 
-[^9-1]: www.swissuniversities.ch &gt; Services &gt; Inscription aux études de médecine
+[^9-1]: [www.swissuniversities.ch](http://www.swissuniversities.ch) &gt; Services &gt; Inscription aux études de médecine
 
 #### Art. 10
 
@@ -243,7 +244,7 @@ L’étudiant qui veut passer d’une autre haute école à la filière de l’E
 
 <sup>2</sup> Les modalités de la demande d’admission aux études préparant au master en médecine humaine et la procédure d’attribution d’une place d’études sont fixées dans le règlement d’études de la filière préparant au bachelor en médecine humaine.
 
-[^19-1]: www.hest.ethz.ch &gt; Studium &gt; Humanmedizin &gt; Master
+[^19-1]: [www.hest.ethz.ch](http://www.hest.ethz.ch) &gt; Studium &gt; Humanmedizin &gt; Master
 
 ## Section 7 Dispositions finales
 
@@ -259,4 +260,8 @@ L’ordonnance du 1<sup>er</sup> novembre 2016 sur la limitation de l’admissio
 
 **Entrée en vigueur et durée de validité**
 
-La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018 et a effet jusqu’au 31 janvier 2024.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018 et a effet jusqu’au 31 janvier 2024.
+
+<sup>2</sup> Elle est prorogée pour une durée indéterminée à partir du 1<sup>er</sup> février 2024.[^21-1]
+
+[^21-1]: Introduit par le ch. I de l’O de la Direction de l’ EPFZ du 12 oct. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 612](https://fedlex.data.admin.ch/eli/oc/2023/612)).

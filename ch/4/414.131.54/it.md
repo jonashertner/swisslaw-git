@@ -3,11 +3,11 @@ sr: "414.131.54"
 title: "Ordinanza del PF di Zurigo del 14 novembre 2017 sulle limitazioni dell'ammissione al ciclo di studi bachelor in medicina umana del PF di Zurigo (Ordinanza sulle limitazioni dell'ammissione al bachelor in medicina del PF di Zurigo)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/728"
 language: it
-version: 2021-06-01
+version: 2024-02-01
 adopted: 2017-11-14
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2017-728-20210601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-728-20240201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/it"
 
 (Ordinanza sulle limitazioni dell’ammissione al bachelor in medicina del PF di Zurigo)
 
-del 14 novembre 2017 (Stato 1° giugno 2021)
+del 14 novembre 2017 (Stato 1° febbraio 2024)
 
 La Direzione del PF di Zurigo (Direzione),
 
-visto l’articolo 16*a* capoverso 5 della legge del 4 ottobre 1991[^ingress-1] sui PF; vista la decisione del Consiglio dei PF del 7/8 dicembre 2016[^ingress-2] sulla limitazione dell’ammissione degli studenti al ciclo di studi bachelor in medicina umana del PF di Zurigo,
+visto l’articolo 16*a* capoversi 2 e 5 della legge del 4 ottobre 1991[^ingress-1] sui PF,[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: [FF 2017 132](https://fedlex.data.admin.ch/eli/fga/2017/24)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O della Direzione del PF di Zurigo del 12 ott. 2023, in vigore dal 1° feb. 2024 ([RU 2023 612](https://fedlex.data.admin.ch/eli/oc/2023/612)).
 
 ## Sezione 1: Altro diritto applicabile
 
@@ -259,4 +259,8 @@ La Zulassungsbeschränkungsverordnung Medizin ETH Zürich del 1° novembre 2016[
 
 **Entrata in vigore e durata di validità**
 
-La presente ordinanza entra in vigore il 1° gennaio 2018 con effetto sino al 31 gennaio 2024.
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2018 con effetto sino al 31 gennaio 2024.
+
+<sup>2</sup> Con effetto dal 1° febbraio 2024, non è più limitata nel tempo.[^21-1]
+
+[^21-1]: Introdotto dal n. I dell’O della Direzione del PF di Zurigo del 12 ott. 2023, in vigore dal 1° feb. 2024 ([RU 2023 612](https://fedlex.data.admin.ch/eli/oc/2023/612)).
