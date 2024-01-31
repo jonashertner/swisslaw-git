@@ -3,20 +3,20 @@ canton: LU
 number: 545a
 title: Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 language: de
-version: 2022-08-01
-valid_until: 2024-01-31
-version_adopted: 2021-10-20
+version: 2024-02-01
+valid_until: 2024-11-30
+version_adopted: 2023-12-13
 adopted: 2018-01-24
 in_force: 2018-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/545a"
-pdf: "https://srl.lu.ch/api/de/versions/3951/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4171/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 
-vom 24.01.2018 (Stand 01.08.2022)
+vom 24.01.2018 (Stand 01.02.2024)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -40,7 +40,7 @@ beschliesst:
 - b. das Masterstudium mit einer Regelstudiendauer von drei Semestern;
 - c. Nebenfach- und Schwerpunktfachangebote.
 
-<sup>2</sup> Das Doktoratsstudium ist in einem eigenen Reglement geregelt.
+<sup>2</sup> Das Doktoratsstudium ist in einem separaten Reglement geregelt.
 
 <sup>3</sup> Ein Teilzeitstudium ist möglich. Die Studiendauer verlängert sich entsprechend.
 
@@ -62,8 +62,8 @@ beschliesst:
 
 <sup>3</sup> Die Fakultät sorgt dafür, dass
 
-- a. die Dozentinnen und Dozenten Lehrformen einsetzen, welche dem jeweiligen Stand der Hochschuldidaktik entsprechen;
-- b. sich die Dozentinnen und Dozenten im Bereich der Hochschuldidaktik und -pädagogik weiterbilden.
+- a. die Dozierenden Lehrformen einsetzen, welche dem jeweiligen Stand der Hochschuldidaktik entsprechen;
+- b. sich die Dozierenden im Bereich der Hochschuldidaktik und -pädagogik weiterbilden.
 
 ## 2 Organe und Zuständigkeiten
 
@@ -77,7 +77,7 @@ beschliesst:
 
 **Fakultätsversammlung**
 
-<sup>1</sup> Die Fakultätsversammlung erlässt die Wegleitungen zur Studien- und Prüfungsordnung.
+<sup>1</sup> Die Fakultätsversammlung erlässt die Wegleitungen zu dieser Studien- und Prüfungsordnung.
 
 #### § 6
 
@@ -97,7 +97,7 @@ beschliesst:
 
 **Dekanatsadministration**
 
-<sup>1</sup> Die Dekanatsadministration ist für die Umsetzung dieser Ordnung und der Wegleitungen verantwortlich. Die bzw. der Studiendelegierte kann einzelne Aufgaben an die Dekanatsadministration delegieren.
+<sup>1</sup> Die Dekanatsadministration ist für die Umsetzung dieser Studien- und Prüfungsordnung und der Wegleitungen verantwortlich. Die bzw. der Studiendelegierte kann einzelne Aufgaben an die Dekanatsadministration delegieren.
 
 ## 3 Zulassungs- und Studienvoraussetzungen
 
@@ -105,9 +105,9 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Für die Zulassung zum Studium gelten die Bedingungen gemäss Universitätsstatut[^9-1] und den darauf gestützten Zulassungsrichtlinien der Universität Luzern.
+<sup>1</sup> Für die Zulassung zum Studium gelten die Bedingungen gemäss § 31 des Statuts der Universität Luzern vom 12. Dezember 2001[^9-1] (Universitätsstatut) und den darauf gestützten Zulassungsrichtlinien der Universität Luzern.
 
-<sup>2</sup> Zu einem Studiengang wird nicht zugelassen, wer in derselben Studienrichtung an einer anderen Fakultät bzw. Universität des In- oder Auslandes wegen ungenügender Leistungen endgültig abgewiesen worden ist.
+<sup>2</sup> Zu einem Studiengang wird nicht zugelassen, wer in derselben Studienrichtung an einer anderen Hochschule des In- oder Auslandes wegen ungenügender Leistungen endgültig abgewiesen worden ist.
 
 [^9-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -115,7 +115,7 @@ beschliesst:
 
 **Masterstudium**
 
-<sup>1</sup> Zu einem Masterstudium wird zugelassen, wer mindestens über einen Bachelorabschluss einer universitären Hochschule oder einen äquivalenten Hochschulabschluss verfügt.
+<sup>1</sup> Zum Masterstudium wird zugelassen, wer mindestens über einen Bachelorabschluss einer universitären Hochschule oder einen äquivalenten Hochschulabschluss verfügt.
 
 <sup>2</sup> Inhaberinnen und Inhaber eines Bachelordiploms in den Studienrichtungen «Betriebswirtschaftslehre» und «Volkswirtschaftslehre» haben Anspruch auf Zulassung ohne Bedingungen, wobei sich die Zuordnung zu einer Studienrichtung daran bemisst, dass der entsprechende Anteil der Studienleistungen mindestens 60 Credits beträgt.
 
@@ -129,7 +129,7 @@ beschliesst:
 
 **Umfang und Dauer**
 
-<sup>1</sup> Während eines Bachelorstudiengangs mit der Regelstudienzeit von sechs Semestern (bei Vollzeitstudium) sind mindestens 180 Credits zu erwerben.
+<sup>1</sup> Während des Bachelorstudiengangs mit der Regelstudienzeit von sechs Semestern (bei Vollzeitstudium) sind mindestens 180 Credits zu erwerben.
 
 <sup>2</sup> Der Bachelorstudiengang gliedert sich in die Orientierungsstufe im Gesamtumfang von 60 Credits mit einer Regelstudiendauer von einem Jahr und das Hauptstudium (insgesamt 120 Credits) mit einer Regelstudiendauer von zwei Jahren im Vollzeitstudium.
 
@@ -137,11 +137,13 @@ beschliesst:
 
 **Aufbau**
 
-<sup>1</sup> Die Orientierungsstufe umfasst Lehrveranstaltungen in den Bereichen Volkswirtschaftslehre, Betriebswirtschaftslehre, Methoden sowie Rechtswissenschaft.
+<sup>1</sup> Das Bachelorstudium kann als Monostudiengang Wirtschaftswissenschaften ohne Nebenfach (nachfolgend Monostudiengang) oder als Hauptfachstudiengang Wirtschaftswissenschaften in Kombination mit einem für die Fakultät angebotenen Nebenfach (nachfolgend Hauptfachstudiengang) studiert werden.
 
-<sup>2</sup> Das Hauptstudium umfasst Lehrveranstaltungen in Volkswirtschaftslehre, Betriebswirtschaftslehre, Methoden und Rechtswissenschaft sowie einen Wahlpflichtbereich. Hinzu kommt ein Wahlbereich mit Studienleistungen aus dem Lehrangebot aller Fakultäten der Universität Luzern sowie eine schriftliche Semesterarbeit.
+<sup>2</sup> Der Monostudiengang umfasst einen Pflichtbereich mit Lehrveranstaltungen in Volkswirtschaftslehre, Betriebswirtschaftslehre, Methoden und Rechtswissenschaft. Hinzu kommt ein Wahlpflichtbereich mit wirtschaftswissenschaftlichen Studienleistungen, ein Wahlbereich mit Studienleistungen aus dem Lehrangebot aller Fakultäten der Universität Luzern sowie eine schriftliche Semesterarbeit.
 
-<sup>3</sup> Das Bachelorstudium der Fakultät bietet zwei Abschlussvarianten. Unter den in § 15 dieser Ordnung festgelegten Voraussetzungen kann das Studium mit einer Bachelorarbeit abgeschlossen werden. Sind diese Voraussetzungen nicht erfüllt oder verzichten Studierende trotz Erfüllung der Leistungen auf eine Bachelorarbeit, müssen Studienleistungen (insbesondere Lehrveranstaltungen) im entsprechenden Umfang absolviert werden.
+<sup>2<sup>bis</sup></sup> Als Hauptfachstudiengang umfasst das Bachelorstudium einen Pflichtbereich mit Lehrveranstaltungen in Volkswirtschaftslehre, Betriebswirtschaftslehre, Methoden und Rechtswissenschaft. Hinzu kommt ein Wahlpflichtbereich mit wirtschaftswissenschaftlichen Studienleistungen sowie eine schriftliche Semesterarbeit. Zusätzlich zum Hauptfach sind die erforderlichen Studienleistungen aus dem gewählten Nebenfach gemäss den Regelungen der anbietenden Fakultät zu erbringen.
+
+<sup>3</sup> Das Bachelorstudium bietet zwei Abschlussvarianten. Unter den in § 15 festgelegten Voraussetzungen kann das Studium mit einer Bachelorarbeit abgeschlossen werden. Sind diese Voraussetzungen nicht erfüllt oder verzichten Studierende trotz Erfüllung der Leistungen auf eine Bachelorarbeit, müssen Studienleistungen (insbesondere Lehrveranstaltungen) im entsprechenden Umfang absolviert werden.
 
 <sup>4</sup> Aufbau, Module, Lehrveranstaltungen, Credits sowie spezifische Sprach- und Prüfungsanforderungen sind in Wegleitungen geregelt.
 
@@ -151,7 +153,7 @@ beschliesst:
 
 **Umfang und Dauer**
 
-<sup>1</sup> Während eines Masterstudiengangs mit der Regelstudienzeit von drei Semestern (bei Vollzeitstudium) sind mindestens 90 Credits zu erwerben.
+<sup>1</sup> Das Masterstudium ist ein Monostudiengang. Während des Masterstudiengangs mit der Regelstudienzeit von drei Semestern (bei Vollzeitstudium) sind mindestens 90 Credits zu erwerben.
 
 <sup>2</sup> Der Masterstudiengang gliedert sich in einen Pflichtteil (Grundlagen) im Gesamtumfang von 24 Credits, einen Wahlpflichtbereich oder eine Spezialisierung (36 Credits), einen Wahlbereich (12 Credits) sowie eine Masterarbeit (18 Credits).
 
@@ -169,7 +171,7 @@ beschliesst:
 
 <sup>5</sup> Aufbau, Module, Lehrveranstaltungen, Credits sowie spezifische Sprach- und Prüfungsanforderungen sind in einer Wegleitung geregelt.
 
-<sup>6</sup> Bis zum Abschluss des Bachelorstudiums an der Universität Luzern können maximal 36 Credits aus dem Masterstudium erworben werden.
+<sup>6</sup> Bis zum Abschluss des Bachelorstudiums an der Universität Luzern können maximal 36 Credits aus dem Masterstudium vorgezogen werden.
 
 ## 6 Bachelorarbeit und Masterarbeit
 
@@ -177,15 +179,17 @@ beschliesst:
 
 **Voraussetzungen**
 
-<sup>1</sup> Voraussetzung zur Zulassung zu einer Bachelorarbeit ist die erfolgreiche Absolvierung der Orientierungsstufe sowie von mindestens 45 Credits im Hauptstudium, einer bestandenen Semesterarbeit sowie einem gewichteten Gesamtnotenschnitt von mindestens 5,0 oder einer Note von mindestens 5,5 bei der Semesterarbeit.
+<sup>1</sup> Voraussetzung für die Zulassung zu einer Bachelorarbeit im Monostudiengang ist die erfolgreiche Absolvierung der Orientierungsstufe sowie von mindestens 45 Credits im Hauptstudium, eine bestandene Semesterarbeit sowie ein gewichteter Gesamtnotenschnitt von mindestens 5,0 oder eine Note von mindestens 5,5 bei der Semesterarbeit.
 
 <sup>2</sup> …
+
+<sup>3</sup> Voraussetzung für die Zulassung zu einer Bachelorarbeit im Hauptfachstudiengang ist die erfolgreiche Absolvierung von mindestens 87 Credits im Hauptfach, eine bestandene Semesterarbeit sowie ein gewichteter Gesamtnotenschnitt von mindestens 5,0 im Hauptfach oder eine Note von mindestens 5,5 bei der Semesterarbeit.
 
 #### § 16
 
 **Gutachterinnen und Gutachter**
 
-<sup>1</sup> Als Gutachterinnen bzw. Gutachter für Bachelor- und Masterarbeiten kommen Professorinnen und Professoren sowie Dozentinnen und Dozenten der Fakultät mit Promotion in Frage.
+<sup>1</sup> Als Gutachterinnen bzw. Gutachter für Bachelor- und Masterarbeiten kommen Professorinnen und Professoren sowie Dozierende der Fakultät mit Promotion in Frage.
 
 #### § 17
 
@@ -195,13 +199,13 @@ beschliesst:
 
 <sup>2</sup> Als ungenügend beurteilte Bachelor- und Masterarbeiten können höchstens einmal wiederholt werden.
 
-<sup>3</sup> Die Betreuerin bzw. der Betreuer beurteilt, ob die ungenügende Arbeit überarbeitet werden kann oder ob eine Arbeit mit einem neuen Thema zu verfassen ist. Ein ungenügender erster Versuch der Arbeit wird im Leistungsnachweis als Fehlversuch aufgeführt, die Credits werden nicht als Fehlversuch-Credits gezählt. Ausgenommen sind Fälle von Plagiat oder Ghostwriting nach § 38 Absatz 1<sup>bis</sup>. Die Abgabe der überarbeiteten beziehungsweise der neuen Arbeit erfolgt auf die nächste reguläre Frist. Eine erneut ungenügende Beurteilung hat das endgültige Nichtbestehen der Bachelor- beziehungsweise der Masterarbeit und den Studienausschluss zur Folge (vgl. § 35 Abs. 2).
+<sup>3</sup> Die Betreuerin bzw. der Betreuer beurteilt, ob die ungenügende Arbeit überarbeitet werden kann oder ob eine Arbeit mit einem neuen Thema zu verfassen ist. Ein ungenügender erster Versuch der Arbeit wird im Leistungsnachweis als Fehlversuch aufgeführt, die Credits werden nicht als Fehlversuch-Credits gezählt. Ausgenommen sind Fälle von Plagiat oder Ghostwriting (§ 38 Abs. 1<sup>bis</sup>). Die Abgabe der überarbeiteten bzw. der neuen Arbeit erfolgt auf die nächste reguläre Frist. Eine erneut ungenügende Beurteilung hat das endgültige Nichtbestehen der Bachelor- bzw. der Masterarbeit und den Studienausschluss zur Folge (§ 35 Abs. 2).
 
 #### § 18
 
 **Detailregelungen**
 
-<sup>1</sup> Anmeldeverfahren, Abläufe und die detaillierten Anforderungen sind in einer Wegleitung geregelt.
+<sup>1</sup> Das Anmeldeverfahren, die Abläufe und die detaillierten Anforderungen sind in einem Leitfaden geregelt.
 
 ## 7 Nebenfach- bzw. Schwerpunktfachangebote
 
@@ -217,7 +221,7 @@ beschliesst:
 
 **Berechnung der Studienleistungen in Credits**
 
-<sup>1</sup> Die Fakultät berechnet die Studienleistungen in Credits gemäss «European Credit Transfer and Accumulation System».
+<sup>1</sup> Die Fakultät berechnet die Studienleistungen in Credits gemäss European Credit Transfer and Accumulation System (ECTS).
 
 <sup>2</sup> Die Studienprogramme beruhen auf Studienleistungen von durchschnittlich 30 Credits für die einzelnen Semester (bei Vollzeitstudium).
 
@@ -283,6 +287,8 @@ beschliesst:
 <sup>2</sup> Die Anrechnung von Studienleistungen setzt Leistungsnachweise der betreffenden Hochschulen voraus.
 
 <sup>3</sup> Die Anrechnung von Studienleistungen im Rahmen von Studierendenmobilität erfolgt mittels Learning Agreement.
+
+<sup>3<sup>bis</sup></sup> Die Anrechnung von Studienleistungen im Rahmen von Einzelkursbesuchen an anderen Schweizer Universitäten ist grundsätzlich nur im Wahlpflichtbereich, im Wahlbereich und in der Spezialisierung möglich. Eine Anrechnung im Pflichtbereich kann nur in Ausnahmefällen mit begründetem Antrag bewilligt werden.
 
 <sup>4</sup> Im Bachelorstudium können insgesamt maximal 90 Credits angerechnet werden, im Masterstudium maximal 45 Credits.
 
@@ -352,9 +358,11 @@ beschliesst:
 
 **Nachteilsausgleich allgemein und Verlängerung der Prüfungsdauer**
 
-<sup>1</sup> Hinsichtlich des Ausgleichs von Nachteilen aufgrund einer körperlichen, geistigen oder psychischen Behinderung gelten die Richtlinien der Universität. Zuständig für die Erteilung ist die oder der Studiendelegierte.
+<sup>1</sup> Hinsichtlich des Ausgleichs von Nachteilen aufgrund einer körperlichen, geistigen oder psychischen Behinderung gelten die Richtlinien der Universität für die Gewährung eines Nachteilausgleichs[^33-1]. Zuständig für die Erteilung ist die oder der Studiendelegierte.
 
 <sup>2</sup> Die bzw. der Studiendelegierte kann bei Vorliegen triftiger Gründe, insbesondere wegen einer anderen Maturitätssprache als Deutsch, die Dauer mündlicher und schriftlicher Prüfungen im Einzelfall auf Gesuch hin angemessen verlängern.
+
+[^33-1]: Beschluss des Rektors vom 12. November 2015
 
 #### § 34
 
@@ -366,7 +374,9 @@ beschliesst:
 
 **Studienausschluss**
 
-<sup>1</sup> Die Credits aller nichtbestandenen Studienleistungen (Fehlversuche) werden summiert, ausgenommen ist ein Fehlversuch bei der Bachelor- bzw. Masterarbeit. Erreicht die Gesamtsumme aller nicht bestandenen Studienleistungen das Äquivalent von 60 Credits (Bachelorstufe) bzw. 24 Credits (Masterstufe), wird die Studentin oder der Student vom Studium und der bzw. den betreffenden Studienrichtungen endgültig ausgeschlossen. Der Ausschluss wird von der Fakultät verfügt.
+<sup>1</sup> Die Credits aller nichtbestandenen Studienleistungen (Fehlversuche) werden summiert, ausgenommen ist ein Fehlversuch bei der Bachelor- bzw. der Masterarbeit. Erreicht die Gesamtsumme aller nicht bestandenen Studienleistungen im Bachelorstudium das Äquivalent von 42 Credits (Monostudiengang) bzw. 35 Credits (Hauptfachstudiengang) oder im Masterstudium das Äquivalent von 24 Credits, wird die oder der Studierende vom Studium und der bzw. den betreffenden Studienrichtungen endgültig ausgeschlossen. Der Ausschluss wird von der Fakultät verfügt.
+
+<sup>1<sup>bis</sup></sup> Mit einem Ausschluss aus dem Monostudiengang kann diese Studienrichtung an der Universität Luzern auch nicht mehr im Hauptfachstudiengang studiert werden. Mit einem Ausschluss aus dem Hauptfachstudiengang kann diese Studienrichtung an der Universität Luzern auch nicht mehr im Monostudiengang studiert werden.
 
 <sup>2</sup> Ebenfalls vom weiteren Studium ausgeschlossen wird, wer die Bachelor- bzw. Masterarbeit auch im zweiten Versuch nicht bestanden hat.
 
@@ -391,7 +401,7 @@ beschliesst:
 
 <sup>1</sup> Zur Annahme einer schriftlichen Arbeit muss mindestens die Note 4 erzielt werden.
 
-<sup>2</sup> Eine als ungenügend beurteilte schriftliche Arbeit kann innerhalb von drei Monaten nach Notenbekanntgabe überarbeitet und erneut eingereicht werden. Ausgenommen sind Fälle von Plagiat oder Ghostwriting gemäss § 38 Absatz 1<sup>bis</sup>. Wird die überarbeitete Fassung erneut als ungenügend bewertet, ist die Arbeit endgültig abgelehnt und zählt als Fehlversuch. Es ist eine Arbeit mit einem neuen Thema zu verfassen. Abschlussarbeiten unterliegen einer eigenen Regelung (vgl. § 17).
+<sup>2</sup> Eine als ungenügend beurteilte schriftliche Arbeit mit Ausnahme von Bachelor- und Masterarbeiten kann innerhalb von drei Monaten nach Notenbekanntgabe überarbeitet und erneut eingereicht werden. Ausgenommen sind Fälle von Plagiat oder Ghostwriting (§ 38 Abs. 1<sup>bis</sup>). Wird die überarbeitete Fassung erneut als ungenügend bewertet, ist die Arbeit endgültig abgelehnt und zählt als Fehlversuch. Es ist eine Arbeit mit einem neuen Thema zu verfassen. Für Bachelor- und Masterarbeiten gilt § 17.
 
 #### § 38
 
@@ -405,13 +415,17 @@ beschliesst:
 
 <sup>3</sup> Wird die Täuschung erst nach Beendigung des Studiums bekannt, kann der verliehene Grad entzogen werden.
 
+<sup>4</sup> Vorbehalten bleiben Sanktionen gemäss § 32 Absatz 2 und § 36 des Universitätsstatuts[^38-1].
+
+[^38-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
+
 ## 9 Studienabschluss
 
 #### § 39
 
 **Abschluss des Studiums**
 
-<sup>1</sup> Ein Bachelor- oder Masterstudium schliesst ab, wer alle Studienleistungen gemäss gültiger Wegleitung zum Studienaufbau bestanden und mit einer Gesamtnote von mindestens 4,0 abgeschlossen hat.
+<sup>1</sup> Ein Bachelor- oder Masterstudium schliesst ab, wer alle Studienleistungen dieser Studien- und Prüfungsordnung sowie der dazugehörigen Wegleitung bestanden und mit einer Gesamtnote von mindestens 4,0 abgeschlossen hat.
 
 <sup>2</sup> Wer das Studium endgültig nicht besteht, erhält auf Wunsch eine Bestätigung über die bestandenen Einzelprüfungen.
 
@@ -419,7 +433,9 @@ beschliesst:
 
 **Zusammensetzung der Gesamtnote des Studienabschlusses**
 
-<sup>1</sup> Die Abschlussnote des Bachelor- bzw. Masterstudiums wird als nach Credits gewichteter Durchschnitt aller benoteten Studienleistungen berechnet. Die Berechnung des Notenschnitts erfolgt exakt, das Ergebnis wird auf zwei Nachkommastellen gerundet.
+<sup>1</sup> Im Monostudiengang wird die Abschlussnote des Bachelor- bzw. Masterstudiums als nach Credits gewichteter Durchschnitt aller benoteten Studienleistungen berechnet. Die Noten von nicht bestandenen Studienleistungen fliessen in den Notenschnitt ein, sofern diese nicht in einem Wiederholversuch bestanden wurden. Wurde eine Studienleistung mit ungenügender Note zu einem späteren Zeitpunkt bestanden, so fliesst nur die Note des bestandenen Versuches in den Notenschnitt ein. Die Berechnung des Notenschnitts erfolgt exakt, das Ergebnis wird auf zwei Nachkommastellen gerundet.
+
+<sup>1<sup>bis</sup></sup> Im Hauptfachstudiengang setzt sich die Abschlussnote des Bachelorstudiums als nach Credits gewichteter Durchschnitt der Note des Hauptfachs sowie der Note des Nebenfachs zusammen. Die Berechnung der Note des Hauptfachs erfolgt analog zur Berechnung der Abschlussnote im Monostudiengang (Abs. 1). Die Note des Nebenfachs wird durch die anbietende Fakultät gemäss deren Regelungen berechnet.
 
 <sup>2</sup> Sind extern erbrachte Studienleistungen anzurechnen, legt die bzw. der Studiendelegierte die Zusammensetzung der Gesamtnote fest.
 
@@ -457,19 +473,17 @@ beschliesst:
 
 <sup>3</sup> …
 
-## 10 Schlussbestimmungen
+## 10 Schluss- und Übergangsbestimmungen
 
 #### § 44
 
-**Wegleitungen**
-
-<sup>1</sup> Die Fakultätsversammlung formuliert Wegleitungen.
+**…**
 
 #### § 45
 
 **Prüfungsgebühren**
 
-<sup>1</sup> Die Prüfungsgebühren richten sich nach den Bestimmungen über die Erhebung von Gebühren an der Universität Luzern[^45-1].
+<sup>1</sup> Die Gebühren für Studien, Prüfungen, Diplome, Abschlusszeugnisse und Zertifikate richten sich nach den Bestimmungen über die Erhebung von Gebühren an der Universität Luzern[^45-1].
 
 [^45-1]: SRL Nr. [544](https://srl.lu.ch/data/544/de)
 
@@ -477,7 +491,7 @@ beschliesst:
 
 **Härtefälle**
 
-<sup>1</sup> Zur Vermeidung von Härtefällen kann die Dekanin oder der Dekan auf schriftliches Gesuch hin ausnahmsweise von einzelnen Bestimmungen dieser Ordnung abweichen.
+<sup>1</sup> Zur Vermeidung von Härtefällen kann die Dekanin oder der Dekan auf schriftliches Gesuch hin ausnahmsweise von einzelnen Bestimmungen dieser Studien- und Prüfungsordnung abweichen.
 
 #### § 47
 
@@ -493,5 +507,18 @@ beschliesst:
 #### § 48
 
 **…**
+
+#### § 49
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Ab Herbstsemester 2024 werden alle Studiengänge unter Vorbehalt von Absatz 2 nach dieser Studien- und Prüfungsordnung durchgeführt.
+
+<sup>2</sup> Es gelten folgende Übergangsbestimmungen:
+
+- a. Für Studierende des Bachelorstudiengangs, welche ihr Studium vor dem Herbstsemester 2024 begonnen, aber nicht abgeschlossen haben, nicht endgültig abgewiesen wurden und nicht in den Hauptfachstudiengang (§ 12 Abs. 1) wechseln, richtet sich der Studienausschluss infolge Erreichens der maximalen Zahl an Fehlversuchen (§ 35 Abs. 1) bis zum individuellen Abschluss des Studiengangs, längstens jedoch bis zum Ende des Herbstsemesters 2028 nach dem alten Recht (60 Credits). Ab dem Frühlingssemester 2029 gelten für alle Studierenden des Bachelorstudiengangs automatisch ausschliesslich die Bestimmungen der vorliegenden Studien- und Prüfungsordnung.
+- b. Für Studierende des Masterstudiengangs, welche ihr Studium vor dem Herbstsemester 2022 begonnen, aber nicht abgeschlossen haben und nicht endgültig abgewiesen wurden, richtet sich der Studienausschluss infolge Erreichens der maximalen Zahl an Fehlversuchen (§ 35 Abs. 1) bis zum individuellen Abschluss des Studiengangs, längstens jedoch bis zum Ende des Herbstsemesters 2026 nach dem alten Recht (30 Credits). Ab dem Frühlingssemester 2027 gilt für alle Studierenden des Masterstudiengangs automatisch die Bestimmung der vorliegenden Studien- und Prüfungsordnung.
+
+<sup>3</sup> Absatz 2 gilt nicht für ab Herbstsemester 2024 re-immatrikulierte Studierende. Für sie gelten ausschliesslich die Bestimmungen dieser Studien- und Prüfungsordnung.
 
 G 2018-011
