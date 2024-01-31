@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 16 décembre 2016 sur les compléments alimentaires 
 short: OCAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/155"
 language: fr
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/155/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-155-20200701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/155/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-155-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20200701/fr"
 
 (OCAl)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -73,9 +73,9 @@ Ils peuvent contenir:
 
 **Étiquetage**
 
-<sup>1</sup> La dénomination spécifique d’un complément alimentaire est « complément alimentaire », complétée par le nom des catégories des vitamines, des sels minéraux ou des autres substances caractérisant le produit ou par une mention relative à la nature des vitamines, des sels minéraux ou des autres substances.
+<sup>1</sup> La dénomination spécifique d’un complément alimentaire est «complément alimentaire».[^3-1]
 
-<sup>2</sup> La teneur en vitamines, en sels minéraux ou en autres substances et leur pourcentage par rapport à l’apport de référence visé à l’annexe 10, partie A, de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^3-1] doivent être exprimés sous forme numérique par dose journalière recommandée. Le pourcentage peut aussi être exprimé sous forme graphique.
+<sup>2</sup> La teneur en vitamines, en sels minéraux ou en autres substances et leur pourcentage par rapport à l’apport de référence visé à l’annexe 10, partie A, de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^3-2] doivent être exprimés sous forme numérique par dose journalière recommandée. Le pourcentage peut aussi être exprimé sous forme graphique.
 
 <sup>3</sup> L’étiquetage doit mentionner la teneur en vitamines, sels minéraux et autres substances au moment de la remise au consommateur. Les valeurs indiquées doivent se fonder sur les valeurs moyennes visées à l’art. 26, al. 4, OIDAl.
 
@@ -84,16 +84,20 @@ Ils peuvent contenir:
 En cas de mention relative à une vitamine, à un sel minéral ou à une autre substance, doivent être compris par dose journalière recommandée:
 
 - a. pour les vitamines et les sels minéraux: au moins 15 % de l’apport de référence fixé à l’annexe 10, partie A, OIDAl;
-- b. pour les autres substances: au moins 15 % de la quantité maximale prévue à l’annexe 1.
+- b.[^3-3] pour les autres substances: au moins 15 % de la quantité maximale fixée à l’annexe 1; à titre exceptionnel, ce pourcentage peut être inférieur si, sur la base de données et d’informations scientifiques généralement reconnues, il peut être prouvé que la substance est présente en une quantité permettant d’obtenir un effet nutritionnel ou physiologique.
 
 <sup>5</sup>
 
 En cas de mention relative à des cultures de bactéries vivantes ou à de la lactase, doivent être compris par dose journalière recommandée:
 
-- a. pour les cultures de bactéries vivantes: au moins 10<sup>8</sup> UFC[^3-2];
-- b. pour la lactase: 4500 unités FCC[^3-3].
-- [tab] <sup>6</sup> L’adjonction de cultures de bactéries vivantes doit figurer dans la liste des ingrédients et dans la dénomination spécifique sous l’une des formes suivantes:
-- a. sous la nomenclature scientifique spécifique conforme aux prescriptions de l’*International Committee on Systematics of Prokaryotes*[^3-4];
+- a. pour les cultures de bactéries vivantes: au moins 10<sup>8</sup> UFC[^3-4];
+- b. pour la lactase: 4500 unités FCC[^3-5].
+
+<sup>6</sup>
+
+L’adjonction de cultures de bactéries vivantes doit figurer dans la liste des ingrédients et dans la dénomination spécifique sous l’une des formes suivantes:
+
+- a. sous la nomenclature scientifique spécifique conforme aux prescriptions de l’*International Committee on Systematics of Prokaryotes*[^3-6];
 - b. avec la mention « avec des ferments lactiques ».
 
 <sup>7</sup>
@@ -104,12 +108,16 @@ Les indications visées à l’art. 3, al. 1, let. a à i, k, m et o à q, OIDAl
 - b. un avertissement que la dose journalière recommandée ne doit pas être dépassée;
 - c. une mention précisant que les compléments alimentaires ne doivent pas être utilisés comme substituts d’une alimentation variée;
 - d. une mention indiquant que les produits doivent être tenus hors de la portée des jeunes enfants;
-- e. les avertissements ou la mention concernant le groupe cible spécifique ou les conditions d’utilisation figurant à l’annexe 1.
+- e. les avertissements ou la mention concernant le groupe cible spécifique ou les conditions d’utilisation figurant à l’annexe 1;
+- f.[^3-7] les noms des catégories des vitamines, des sels minéraux ou des autres substances caractérisant le produit, ou une mention relative à la nature des vitamines, des sels minéraux ou des autres substances.
 
-[^3-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^3-2]: UFC = unités formant colonie
-[^3-3]: FCC = *Food Chemicals Codex*
-[^3-4]: ICSP; www.the-icsp.org
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+[^3-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+[^3-4]: UFC = unités formant colonie
+[^3-5]: FCC = *Food Chemicals Codex*
+[^3-6]: ICSP; www.the-icsp.org
+[^3-7]: Introduite par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 #### Art. 4
 
@@ -151,39 +159,47 @@ Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuven
 
 [^6b-1]: Introduit par le ch. I de l’O de l’OSAV du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
 
+#### Art. 6c
+
+**Disposition transitoire de la modification du 8 décembre 2023**[^6c-1]
+
+Les denrées alimentaires non conformes à la modification du 8 décembre 2023 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^6c-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+
 #### Art. 7
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, al. 3, let. a et b, et 5, 3, al. 4, let. b, et 7, let. e)
 
 ## Vitamines, sels minéraux et autres substances: quantités maximales admises pour les adultes
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OSAV du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OSAV du 27 mai 2020 ([RO 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)). Mise à jour par le ch. II de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 ### Partie A: vitamines et sels minéraux admis
 
 <table>
 <tr><th>Vitamines et sels minéraux</th><th>Quantités maximales admises pour les adultes par dose journalière recommandée</th><th>Avertissements *(italique)*, conditions d’utilisation</th></tr>
-<tr><td>**1 Vitamines**</td><td></td><td></td></tr>
+<tr><td>1 Vitamines</td><td></td><td></td></tr>
 <tr><td>Biotine</td><td>aucune</td><td></td></tr>
 <tr><td>Acide folique</td><td>750 µg</td><td></td></tr>
-<tr><td>Niacine</td><td>600 mg; dont 10 mg sous forme d’acide nicotinique et d’hexanicotinate d’inositol (total)</td><td></td></tr>
+<tr><td>Niacine</td><td>600 mg; dont 10 mg au plus sous forme d’acide nicotinique et d’hexanicotinate d’inositol (total)</td><td></td></tr>
 <tr><td>Acide pantothénique</td><td>aucune</td><td></td></tr>
 <tr><td>Riboflavine (vitamine B2)</td><td>aucune</td><td></td></tr>
 <tr><td>Thiamine (vitamine B1)</td><td>aucune</td><td></td></tr>
-<tr><td>Vitamine A</td><td>1360 μg[^annex1-lvlu1-partA-1] (correspond à 8,2 mg de bêta-carotène)</td><td>Uniquement sous forme de bêta-carotène*.*</td></tr>
+<tr><td>Vitamine A</td><td>1360 µg[^annex1-lvlu1-partA-1] (correspond à 8,2 mg de bêta-carotène)</td><td>Uniquement sous forme de bêta-carotène*.*</td></tr>
 <tr><td>Vitamine B<sub>6</sub></td><td>15 mg</td><td></td></tr>
 <tr><td>Vitamine B<sub>12</sub></td><td>aucune</td><td></td></tr>
 <tr><td>Vitamine C</td><td>750 mg</td><td></td></tr>
 <tr><td>Vitamine D</td><td>70 µg</td><td></td></tr>
 <tr><td>Vitamine E</td><td>205 mg</td><td></td></tr>
 <tr><td>Vitamine K</td><td>225 µg</td><td>À partir d’une dose journalière de 25 µg*: il est conseillé aux personnes sous traitement anticoagulant de consulter leur médecin avant de consommer des préparations à base de vitamine K.*</td></tr>
-<tr><td>**2 Sels minéraux**</td><td></td><td></td></tr>
+<tr><td>2 Sels minéraux</td><td></td><td></td></tr>
 <tr><td>Bore</td><td>1 mg</td><td></td></tr>
 <tr><td>Calcium</td><td>750 mg</td><td></td></tr>
 <tr><td>Chlore</td><td>uniquement comme ion d’accompagnement</td><td></td></tr>
@@ -207,24 +223,24 @@ Annexe 1*[^t-1]*
 
 <table>
 <tr><th>Autres substances</th><th colspan="2">Quantités maximales admises pour les adultes par dose journalière recommandée</th><th>Avertissements *(italique)*, mention concernant le groupe cible spécifique, conditions d’utilisation</th></tr>
-<tr><td>**1 Acides aminés**</td><td colspan="2"></td><td></td></tr>
+<tr><td>1 Acides aminés</td><td colspan="2"></td><td></td></tr>
 <tr><td>L-arginine</td><td colspan="2">2500 mg</td><td></td></tr>
 <tr><td>L-citrulline</td><td colspan="2">1000 mg</td><td></td></tr>
 <tr><td>L-glutamine</td><td colspan="2">10 g</td><td></td></tr>
 <tr><td>Glycine</td><td colspan="2">5 g</td><td></td></tr>
 <tr><td>L-histidine</td><td colspan="2">600 mg</td><td></td></tr>
-<tr><td>L-isoleucine</td><td colspan="2">1200 mg</td><td></td></tr>
-<tr><td>L-leucine</td><td colspan="2">2400 mg</td><td></td></tr>
+<tr><td>L-isoleucine</td><td colspan="2">2200 mg</td><td></td></tr>
+<tr><td>L-leucine</td><td colspan="2">4000 mg</td><td></td></tr>
 <tr><td>L-lysine</td><td colspan="2">1800 mg</td><td></td></tr>
 <tr><td>L-méthionine + L-cystéine (total)</td><td colspan="2">900 mg</td><td></td></tr>
 <tr><td>L-ornithine</td><td colspan="2">2000 mg</td><td></td></tr>
 <tr><td>L-phénylalanine + L-tyrosine (total)</td><td colspan="2">1500 mg</td><td></td></tr>
 <tr><td>L-thréonine</td><td colspan="2">900 mg</td><td></td></tr>
 <tr><td>L-tryptophane</td><td colspan="2">240 mg</td><td></td></tr>
-<tr><td>L-valine</td><td colspan="2">1600 mg</td><td></td></tr>
-<tr><td colspan="2">**2 Autres substances, acides aminés non compris**</td><td></td><td></td></tr>
+<tr><td>L-valine</td><td colspan="2">2000 mg</td><td></td></tr>
+<tr><td colspan="2">2 Autres substances, acides aminés non compris</td><td></td><td></td></tr>
 <tr><td>Acide alpha-linolénique (n-3)</td><td colspan="2">2000 mg</td><td></td></tr>
-<tr><td>Bêta-alanine</td><td colspan="2">3,2 g</td><td>*Ne pas consommer pendant plus de 8 à 10 semaines.* – La substance n’est remise que sous forme de comprimés, formulés comme comprimés à libération prolongée à l’aide de produits adéquats (additifs). – La prise doit être répartie en deux doses par jour au moins, de préférence lors d’un repas.</td></tr>
+<tr><td>Bêta-alanine</td><td colspan="2">3,2 g</td><td>Ne pas consommer pendant plus de 8 à 10 semaines. – La substance n’est remise que sous forme de comprimés, formulés comme comprimés à libération prolongée à l’aide de produits adéquats (additifs). – La prise doit être répartie en deux doses par jour au moins, de préférence lors d’un repas.</td></tr>
 <tr><td>Bétaïne</td><td colspan="2">1500 mg</td><td></td></tr>
 <tr><td>Caroténoïde lutéine</td><td colspan="2">20 mg</td><td></td></tr>
 <tr><td>Caroténoïde zéaxanthine</td><td colspan="2">2 mg</td><td></td></tr>
@@ -241,7 +257,7 @@ Annexe 1*[^t-1]*
 <tr><td>Hespéridine</td><td colspan="2">430 mg</td><td>*Il est conseillé aux personnes qui prennent des médicaments de consulter leur médecin avant de consommer ces produits.*</td></tr>
 <tr><td>Inositol</td><td colspan="2">1000 mg</td><td></td></tr>
 <tr><td>Isoflavones</td><td colspan="2">50 mg (rapporté à l’aglycone)</td><td></td></tr>
-<tr><td>Catéchines, épigallocatéchine gallate (EGCG)</td><td colspan="2">90 mg (calculé comme EGCG)</td><td>*Ne pas prendre à jeun, en cas de régime hypocalorique strict ou en même temps que d**’**autres produits à base de thé vert.*</td></tr>
+<tr><td>Catéchines, épigallocatéchine gallate (EGCG)</td><td colspan="2">300 mg (calculé comme EGCG)</td><td>*Ne doit pas être consommé le même jour que d’autres produits contenant du thé vert.* *Ne doit pas être consommé par les femmes enceintes ou allaitantes et par les enfants de moins de 18 ans.* *Ne doit pas être consommé à jeun.*</td></tr>
 <tr><td>Acide linoléique conjugué (ALC)</td><td colspan="2">3 g</td><td>*Ne convient pas aux personnes diabétiques, aux adolescents et aux femmes enceintes ou qui allaitent.*</td></tr>
 <tr><td>Créatine</td><td colspan="2">3 g</td><td></td></tr>
 <tr><td>L-carnitine</td><td colspan="2">2000 mg</td><td></td></tr>
@@ -256,13 +272,13 @@ Annexe 1*[^t-1]*
 <tr><td>Concentré de tomates hydrosoluble (WSTC II)</td><td colspan="2">150 mg</td><td></td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 6, et 5, al. 1 et 2)
 
 ## Complexes nutritifs admis de vitamines, sels minéraux et autres substances
 
-[^t-2]: Mise à jour par le ch. II des O de l’OSAV du 12 mars 2018 ([RO 2018 1335](https://fedlex.data.admin.ch/eli/oc/2018/215)) et le ch. II al. 2 du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+[^t-2]: Mise à jour par le ch. II de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1335](https://fedlex.data.admin.ch/eli/oc/2018/215)), le ch. II al. 2 de l’O de l’OSAV du 27 mai 2020 ([RO 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)) et le ch. II de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 ### 1. Vitamines
 
@@ -295,6 +311,8 @@ Acide nicotinique
 Nicotinamide
 
 Hexanicotinate d’inositol ou hexaniacinate d’inositol
+
+Chlorure de nicotinamide riboside
 
 ### Riboflavine
 
@@ -530,6 +548,8 @@ Bisglycinate de magnésium
 Carbonate de magnésium
 
 Chlorure de magnésium
+
+Citrate-malate de magnésium
 
 Sels de magnésium de l’acide citrique
 

@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sugli integratori alimentari (OIAl
 short: OIAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/155"
 language: it
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/155/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-155-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/155/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-155-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20200701/it"
 
 (OIAl)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 1° febbraio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -73,9 +73,9 @@ Possono contenere:
 
 **Caratterizzazione**
 
-<sup>1</sup> La denominazione specifica per gli integratori alimentari è «integratore alimentare»; essa viene integrata con l’aggiunta del nome delle categorie di vitamine, sali minerali o altre sostanze che caratterizzano il prodotto o di un’indicazione relativa alla natura di tali vitamine, minerali o altre sostanze.
+<sup>1</sup> La denominazione specifica per gli integratori alimentari è «integratore alimentare».[^3-1]
 
-<sup>2</sup> Per gli integratori alimentari devono essere indicati, in forma numerica per dose giornaliera raccomandata, il tenore di vitamine, sali minerali o altre sostanze e le relative percentuali rispetto alle quantità di riferimento di cui all’allegato 10 parte A dell’ordinanza del DFI del 16 dicembre 2016[^3-1] concernente le informazioni sulle derrate alimentari (OID). L’indicazione della percentuale può comparire anche in forma grafica.
+<sup>2</sup> Per gli integratori alimentari devono essere indicati, in forma numerica per dose giornaliera raccomandata, il tenore di vitamine, sali minerali o altre sostanze e le relative percentuali rispetto alle quantità di riferimento di cui all’allegato 10 parte A dell’ordinanza del DFI del 16 dicembre 2016[^3-2] concernente le informazioni sulle derrate alimentari (OID). L’indicazione della percentuale può comparire anche in forma grafica.
 
 <sup>3</sup> Nella caratterizzazione occorre precisare il tenore di vitamine, sali minerali o altre sostanze al momento della consegna ai consumatori. I valori indicati devono basarsi sui valori medi di cui all’articolo 26 capoverso 4 OID.
 
@@ -84,20 +84,20 @@ Possono contenere:
 Nel caso si faccia riferimento a una vitamina, a un sale minerale o a un’altra sostanza, la dose giornaliera raccomandata deve contenere:
 
 - a. per le vitamine e i sali minerali: almeno il 15 per cento della quantità di riferimento di cui all’allegato 10, parte A OID;
-- b. per le altre sostanze: almeno il 15 per cento della quantità massima secondo l’allegato 1.
+- b.[^3-3] per le altre sostanze: almeno il 15 per cento della quantità massima secondo l’allegato 1; questa percentuale può essere eccezionalmente inferiore se si può dimostrare, sulla base di dati e informazioni scientifici generalmente riconosciuti, che la sostanza è presente in una quantità tale da produrre un effetto nutritivo o fisiologico.
 
 <sup>5</sup>
 
 Nel caso si faccia riferimento a colture batteriche vive o lattasi, la dose giornaliera raccomandata deve contenere:
 
-- a. per le colture batteriche vive: almeno 10<sup>8</sup> UFC[^3-2];
-- b. per la lattasi: almeno 4500 unità FCC[^3-3].
+- a. per le colture batteriche vive: almeno 10<sup>8</sup> UFC[^3-4];
+- b. per la lattasi: almeno 4500 unità FCC[^3-5].
 
 <sup>6</sup>
 
 L’aggiunta di colture batteriche vive deve figurare nell’elenco degli ingredienti e nella denominazione specifica come segue:
 
-- a. con la nomenclatura scientifica specifica secondo le prescrizioni dell’International Committee on Systematics of Prokaryotes[^3-4]; oppure
+- a. con la nomenclatura scientifica specifica secondo le prescrizioni dell’International Committee on Systematics of Prokaryotes[^3-6]; oppure
 - b. con l’indicazione «con batteri acidolattici».
 
 <sup>7</sup>
@@ -108,12 +108,16 @@ Oltre alle indicazioni specificate nell’articolo 3 capoverso 1 lettere a–i, 
 - b. l’avvertenza di non superare la dose giornaliera raccomandata;
 - c. un riferimento al fatto che gli integratori alimentari non devono essere utilizzati in sostituzione di un’alimentazione variata;
 - d. un riferimento al fatto che i prodotti devono essere tenuti fuori dalla portata dei bambini piccoli;
-- e. l’avvertenza o il riferimento al gruppo di destinatari specifico o alle condizioni d’uso di cui all’allegato 1.
+- e. l’avvertenza o il riferimento al gruppo di destinatari specifico o alle condizioni d’uso di cui all’allegato 1;
+- f.[^3-7] i nomi delle categorie di vitamine, sali minerali o altre sostanze che caratterizzano il prodotto o una menzione relativa alla natura di tali vitamine, sali minerali o altre sostanze.
 
-[^3-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^3-2]: UFC = Unità formanti colonia
-[^3-3]: FCC = Food Chemicals Codex
-[^3-4]: ICSP; www.the-icsp.org
+[^3-1]: Nuovo testo giusta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+[^3-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-3]: Nuovo testo giusta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+[^3-4]: UFC = Unità formanti colonia
+[^3-5]: FCC = Food Chemicals Codex
+[^3-6]: ICSP; [www.the-icsp.org](http://www.the-icsp.org)
+[^3-7]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 #### Art. 4
 
@@ -155,39 +159,47 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 [^6b-1]: Introdotto dal n. I dell’O dell’USAV del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
 
+#### Art. 6c
+
+**Disposizione transitoria della modifica dell’8 dicembre 2023**[^6c-1]
+
+Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^6c-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+
 #### Art. 7
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° maggio 2017.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 3 lett. a e b nonché 5, 3 cpv. 4 lett. b e 7 lett. e)
 
 ## Vitamine, sali minerali e altre sostanze nelle quantità massime ammesse per gli adulti
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’USAV del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’USAV del 27 mag. 2020 ([RU 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)). Aggiornato dal n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 ### Parte A: vitamine e sali minerali ammessi
 
 <table>
 <tr><th>Vitamine e sali minerali</th><th>Quantità massime ammesse per adulti per dose giornaliera raccomandata</th><th>Avvertenze (*corsivo*), condizioni d’uso</th></tr>
-<tr><td>**1 Vitamine**</td><td></td><td></td></tr>
+<tr><td>1 Vitamine</td><td></td><td></td></tr>
 <tr><td>Biotina</td><td>nessuna</td><td></td></tr>
 <tr><td>Acido folico</td><td>750 µg</td><td></td></tr>
-<tr><td>Niacina</td><td>600 mg; di cui 10 mg come acido nicotinico ed esanicotinato di inositolo (come somma)</td><td></td></tr>
+<tr><td>Niacina</td><td>600 mg; di cui 10 mg al massimo come acido nicotinico ed esanicotinato di inositolo (come somma)</td><td></td></tr>
 <tr><td>Acido pantotenico</td><td>nessuna</td><td></td></tr>
 <tr><td>Riboflavina (vitamina B2)</td><td>nessuna</td><td></td></tr>
 <tr><td>Tiamina (vitamina B1)</td><td>nessuna</td><td></td></tr>
-<tr><td>Vitamina A</td><td>1360 μg[^annex1-lvlu1-partA-1] (corrisponde a 8,2 mg di beta-carotene)</td><td>Solo come beta-carotene</td></tr>
+<tr><td>Vitamina A</td><td>1360 µg[^annex1-lvlu1-partA-1] (corrisponde a 8,2 mg di beta-carotene)</td><td>Solo come beta-carotene</td></tr>
 <tr><td>Vitamina B6</td><td>15 mg</td><td></td></tr>
 <tr><td>Vitamina B12</td><td>nessuna</td><td></td></tr>
 <tr><td>Vitamina C</td><td>750 mg</td><td></td></tr>
 <tr><td>Vitamina D</td><td>70 µg</td><td></td></tr>
 <tr><td>Vitamina E</td><td>205 mg</td><td></td></tr>
 <tr><td>Vitamina K</td><td>225 µg</td><td>*A partire da una dose giornaliera di 25* µg*: i pazienti che assumono anticoagulanti devono consultare il proprio medico prima di assumere preparati a base di vitamina K.*</td></tr>
-<tr><td>**2 Sali minerali**</td><td></td><td></td></tr>
+<tr><td>2 Sali minerali</td><td></td><td></td></tr>
 <tr><td>Boro</td><td>1 mg</td><td></td></tr>
 <tr><td>Calcio Cloruro</td><td>750 mg solo come ione di accompagnamento</td><td></td></tr>
 <tr><td>Cromo</td><td>188 µg</td><td></td></tr>
@@ -209,24 +221,24 @@ Allegato 1*[^t-1]*
 
 <table>
 <tr><th>Altre sostanze</th><th colspan="2">Quantità massime ammesse per adulti per dose giornaliera raccomandata</th><th>Avvertenze (*corsivo*), riferimento al gruppo di destinatari specifico, condizioni d’uso</th></tr>
-<tr><td>**1 Aminoacidi**</td><td colspan="2"></td><td></td></tr>
+<tr><td>1 Aminoacidi</td><td colspan="2"></td><td></td></tr>
 <tr><td>L-arginina</td><td colspan="2">2500 mg</td><td></td></tr>
 <tr><td>L-citrullina</td><td colspan="2">1000 mg</td><td></td></tr>
 <tr><td>L-glutammina</td><td colspan="2">10 g</td><td></td></tr>
 <tr><td>Glicina</td><td colspan="2">5 g</td><td></td></tr>
 <tr><td>L-istidina</td><td colspan="2">600 mg</td><td></td></tr>
-<tr><td>L-isoleucina</td><td colspan="2">1200 mg</td><td></td></tr>
-<tr><td>L-leucina</td><td colspan="2">2400 mg</td><td></td></tr>
+<tr><td>L-isoleucina</td><td colspan="2">2200 mg</td><td></td></tr>
+<tr><td>L-leucina</td><td colspan="2">4000 mg</td><td></td></tr>
 <tr><td>L-lisina</td><td colspan="2">1800 mg</td><td></td></tr>
 <tr><td>L-metionina</td><td colspan="2">900 mg</td><td></td></tr>
 <tr><td>L-ornitina</td><td colspan="2">2000 mg</td><td></td></tr>
 <tr><td>L-fenilalanina + L-tirosina (come somma)</td><td colspan="2">1500 mg</td><td></td></tr>
 <tr><td>L-treonina</td><td colspan="2">900 mg</td><td></td></tr>
 <tr><td>L-triptofano</td><td colspan="2">240 mg</td><td></td></tr>
-<tr><td>L-valina</td><td colspan="2">1600 mg</td><td></td></tr>
-<tr><td colspan="2">**2 Altre sostanze senza aminoacidi**</td><td></td><td></td></tr>
+<tr><td>L-valina</td><td colspan="2">2000 mg</td><td></td></tr>
+<tr><td colspan="2">2 Altre sostanze senza aminoacidi</td><td></td><td></td></tr>
 <tr><td>Acido alfalinoleico (n-3)</td><td colspan="2">2000 mg</td><td></td></tr>
-<tr><td>Beta-alanina</td><td colspan="2">3,2 g</td><td>*Non assumere per più di 8**–**10 settimane.* – Consegna solo sotto forma di compresse formulate con metodi adeguati (additivi) come compresse «slow-release». – L’assunzione va ripartita in almeno 2 dosi al giorno, preferibilmente durante il pasto.</td></tr>
+<tr><td>Beta-alanina</td><td colspan="2">3,2 g</td><td>Non assumere per più di 8–10 settimane. – Consegna solo sotto forma di compresse formulate con metodi adeguati (additivi) come compresse «slow-release». – L’assunzione va ripartita in almeno 2 dosi al giorno, preferibilmente durante il pasto.</td></tr>
 <tr><td>Betaina</td><td colspan="2">1500 mg</td><td></td></tr>
 <tr><td>Carotenoide luteina</td><td colspan="2">20 mg</td><td></td></tr>
 <tr><td>Carotenoide zeaxantina</td><td colspan="2">2 mg</td><td></td></tr>
@@ -243,7 +255,7 @@ Allegato 1*[^t-1]*
 <tr><td>Esperidina</td><td colspan="2">430 mg</td><td>*Se si assumono medicamenti, prima del consumo è opportuno consultare il proprio medico.*</td></tr>
 <tr><td>Inositolo</td><td colspan="2">1000 mg</td><td></td></tr>
 <tr><td>Isoflavone</td><td colspan="2">50 mg (riferiti all’aglicone)</td><td></td></tr>
-<tr><td>Catechina, epigallocatechinagallato (EGCG)</td><td colspan="2">90 mg (calcolato come EGCG)</td><td>*Non assumere a stomaco vuoto, durante una dieta ipocalorica rigorosa né in concomitanza con altri prodotti a base di tè verde.*</td></tr>
+<tr><td>Catechina, epigallocatechinagallato (EGCG)</td><td colspan="2">300 mg (calcolati come EGCG)</td><td>*Non assumere se nello stesso giorno si consumano altri prodotti contenenti tè verde.* *Non può essere assunto dalle donne in gravidanza e in allattamento e dai minori di 18 anni.* *Non assumere a stomaco vuoto.*</td></tr>
 <tr><td>Acido linoleico coniugato (CLA)</td><td colspan="2">3 g</td><td>*Non adatto ai diabetici, ai giovani, alle donne in gravidanza e in allattamento.*</td></tr>
 <tr><td>Creatina</td><td colspan="2">3 g</td><td></td></tr>
 <tr><td>L-carnitina</td><td colspan="2">2000 mg</td><td></td></tr>
@@ -258,17 +270,17 @@ Allegato 1*[^t-1]*
 <tr><td>Concentrato di pomodoro solubile in acqua (WSTC II)</td><td colspan="2">150 mg</td><td></td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 cpv. 6 nonché 5 cpv. 1 e 2)
 
 ## Composti ammessi di vitamine, sali minerali e altre sostanze
 
-[^t-2]: Aggiornato dal n. II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1335](https://fedlex.data.admin.ch/eli/oc/2018/215)) e dal n. II cpv. 2 dell’O dell’USAV del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+[^t-2]: Aggiornato dal n. II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1335](https://fedlex.data.admin.ch/eli/oc/2018/215)), dal n. II cpv. 2 dell’O dell’USAV del 27 mag. 2020 ([RU 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)) e dal n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 ### 1. Vitamine
 
-Acido pantotenico
+### Acido pantotenico
 
 D-pantotenato, calcio
 
@@ -278,11 +290,11 @@ D-pantenolo
 
 Pantetina
 
-Biotina
+### Biotina
 
 D-biotina
 
-Folato
+### Folato
 
 Acido pteroilglutammico
 
@@ -290,7 +302,7 @@ L-metil-folato di calcio
 
 Acido (6S)-5-metiltetraidrofolico, sale della glucosamina
 
-Niacina
+### Niacina
 
 Acido nicotinico
 
@@ -298,13 +310,15 @@ Nicotinamide
 
 Esanicotinato di inositolo o esaniacinato di inositolo
 
-Riboflavina
+Nicotinamide riboside cloruro
+
+### Riboflavina
 
 Riboflavina
 
 Riboflavina 5’-fosfato, sodio
 
-Tiamina mononitrato
+### Tiamina mononitrato
 
 Tiamina cloridrato
 
@@ -314,11 +328,11 @@ Tiamina monofosfato cloruro
 
 Tiamina pirofosfato cloruro
 
-Vitamina A
+### Vitamina A
 
 Beta-carotene
 
-Vitamina B6
+### Vitamina B6
 
 Piridossina cloridrato
 
@@ -326,7 +340,7 @@ Piridossina-5’-fosfato
 
 Piridossale -5’-fosfato
 
-Vitamina B12
+### Vitamina B12
 
 Cianocobalamina
 
@@ -336,7 +350,7 @@ Idrossocobalamina
 
 Metilcobalamina
 
-Vitamina C
+### Vitamina C
 
 Acido L-ascorbico
 
@@ -352,13 +366,13 @@ L-ascorbato di magnesio
 
 L-ascorbato di zinco
 
-Vitamina D
+### Vitamina D
 
 Vitamina D3 o colecalciferolo
 
 Vitamina D2 o ergocalciferolo
 
-Vitamina E
+### Vitamina E
 
 D-alfa-tocoferolo
 
@@ -370,23 +384,24 @@ DL-alfa-tocoferilacetato
 
 D-alfa-tocoferil succinato
 
-Tocoferoli misti[^annex2-lvlu1-lvl1-1]
+Tocoferoli misti[^annex2-lvlu1-lvl1-lvlu12-1]
 
-Tocotrienolo tocoferolo[^annex2-lvlu1-lvl1-2]
+Tocotrienolo tocoferolo[^annex2-lvlu1-lvl1-lvlu12-2]
 
-Vitamina K
+[^annex2-lvlu1-lvl1-lvlu12-1]: α-tocoferolo &lt;20 %, β-tocoferolo &lt; 10 %, γ-tocoferolo 50–70 %, e δ-tocoferolo 10–30 %
+[^annex2-lvlu1-lvl1-lvlu12-2]: Livelli tipici dei singoli tocoferoli e tocotrienoli sono: – 115 mg/g α-tocoferolo (minimo 101 mg/g); – 5 mg/g β-tocoferolo (minimo &lt; 1 mg/g); – 45 mg/g γ-tocoferolo (minimo 25 mg/g); – 12 mg/g δ-tocoferolo (minimo 3 mg/g); – 67 mg/g α-tocotrienolo (minimo 30 mg/g); – &lt; 1 mg/g β-tocotrienolo (minimo &lt; 1 mg/g); – 82 mg/g γ-tocotrienolo (minimo 45 mg/g); – 5 mg/g δ-tocotrienolo (minimo 1 mg/g).
+
+### Vitamina K
 
 Fillochinone o fitomenadione
 
-Menachinone[^annex2-lvlu1-lvl1-3]
+Menachinone[^annex2-lvlu1-lvl1-lvlu13-1]
 
-[^annex2-lvlu1-lvl1-1]: α-tocoferolo &lt;20 %, β-tocoferolo &lt; 10 %, γ-tocoferolo 50–70 %, e δ-tocoferolo 10–30 %
-[^annex2-lvlu1-lvl1-2]: Livelli tipici dei singoli tocoferoli e tocotrienoli sono: – 115 mg/g α-tocoferolo (minimo 101 mg/g); – 5 mg/g β-tocoferolo (minimo &lt; 1 mg/g); – 45 mg/g γ-tocoferolo (minimo 25 mg/g); – 12 mg/g δ-tocoferolo (minimo 3 mg/g); – 67 mg/g α-tocotrienolo (minimo 30 mg/g); – &lt; 1 mg/g β-tocotrienolo (minimo &lt; 1 mg/g); – 82 mg/g γ-tocotrienolo (minimo 45 mg/g); – 5 mg/g δ-tocotrienolo (minimo 1 mg/g).
-[^annex2-lvlu1-lvl1-3]: Menachinone principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
+[^annex2-lvlu1-lvl1-lvlu13-1]: Menachinone principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
 
 ### 2. Sali minerali
 
-Calcio
+### Calcio
 
 Acetato di calcio
 
@@ -430,19 +445,21 @@ Solfato di calcio
 
 Oligosaccaridi di fosforil e calcio
 
-Alghe rosse calcaree o maerl[^annex2-lvlu1-lvl2-1]
+Alghe rosse calcaree o maerl[^annex2-lvlu1-lvl2-lvlu1-1]
 
-Calcio – Magnesio – Miscele
+[^annex2-lvlu1-lvl2-lvlu1-1]: Le alghe calcificate delle specie *Lithothamnium corallioides* e *Phymatolithon calcareum* o miscele di tali prodotti.
+
+### Calcio – Magnesio – Miscele
 
 Polvere di dolomite
 
 Polvere di corallo fossile o scleratinia
 
-Cromo
+### Cromo
 
 Cloruro di cromo (III)
 
-Lievito arricchito di cromo[^annex2-lvlu1-lvl2-2]
+Lievito arricchito di cromo[^annex2-lvlu1-lvl2-lvlu3-1]
 
 Cromo (III) lattato triidrato
 
@@ -452,7 +469,9 @@ Picolinato di cromo
 
 Solfato di cromo (III)
 
-Ferro
+[^annex2-lvlu1-lvl2-lvlu3-1]: In presenza di cloruro di cromo (III) come fonte di cromo nelle colture di lievito arricchito di cromo *Saccharomyces cerevisiae* che contengono 230-300 mg di cromo/kg nella forma in polvere commercializzata. I livelli di cromo (VI) non superano lo 0,2 per cento del tenore complessivo di cromo.
+
+### Ferro
 
 Carbonato ferroso
 
@@ -488,7 +507,7 @@ Sodio ferrico EDTA
 
 Ferro (II) taurato
 
-Iodio
+### Iodio
 
 Ioduro di sodio
 
@@ -498,7 +517,7 @@ Ioduro di potassio
 
 Iodato di potassio
 
-Magnesio
+### Magnesio
 
 Acetato di magnesio
 
@@ -509,6 +528,8 @@ Bisglicinato di magnesio
 Carbonato di magnesio
 
 Cloruro di magnesio
+
+Citrato-malato di magnesio
 
 Sali di magnesio dell’acido citrico
 
@@ -542,7 +563,7 @@ Magnesio taurato
 
 Magnesio acetil taurato
 
-Manganese
+### Manganese
 
 Ascorbato di manganese
 
@@ -564,7 +585,7 @@ Pidolato di manganese
 
 Solfato di manganese
 
-Molibdeno (VI)
+### Molibdeno (VI)
 
 Molibdato di ammonio
 
@@ -572,13 +593,13 @@ Molibdato di potassio
 
 Molibdato di sodio
 
-Boro
+### Boro
 
 Acido borico
 
 Borato di sodio
 
-Potassio
+### Potassio
 
 Solfato di potassio
 
@@ -604,7 +625,7 @@ Malato di potassio
 
 Sali di potassio dell’acido ortofosforico
 
-Rame
+### Rame
 
 Carbonato di rame
 
@@ -622,11 +643,11 @@ Complesso rame-lisina
 
 Ossido di rame (II)
 
-Selenio
+### Selenio
 
 L-selenometionina
 
-Lievito arricchito di selenio[^annex2-lvlu1-lvl2-3]
+Lievito arricchito di selenio[^annex2-lvlu1-lvl2-lvlu12-1]
 
 Acido selenioso
 
@@ -636,7 +657,9 @@ Idrogenoselenito di sodio
 
 Selenito di sodio
 
-Silicio
+[^annex2-lvlu1-lvl2-lvlu12-1]: Lieviti arricchiti in selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 % e l’85 % del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non supera il 10 % del tenore complessivo di selenio estratto. I livelli di selenio inorganico non superano normalmente l’1 % del tenore complessivo di selenio estratto.
+
+### Silicio
 
 Acido ortosilicico stabilizzato con colina
 
@@ -646,7 +669,7 @@ Acido silicico (sotto forma di gel)
 
 Silicio organico (monometilsilanetriolo)
 
-Zinco
+### Zinco
 
 Acetato di zinco
 
@@ -679,10 +702,6 @@ Zinco L-pidolato
 Picolinato di zinco
 
 Solfato di zinco
-
-[^annex2-lvlu1-lvl2-1]: Le alghe calcificate delle specie *Lithothamnium corallioides* e *Phymatolithon calcareum* o miscele di tali prodotti.
-[^annex2-lvlu1-lvl2-2]: In presenza di cloruro di cromo (III) come fonte di cromo nelle colture di lievito arricchito di cromo *Saccharomyces cerevisiae* che contengono 230-300 mg di cromo/kg nella forma in polvere commercializzata. I livelli di cromo (VI) non superano lo 0,2 per cento del tenore complessivo di cromo.
-[^annex2-lvlu1-lvl2-3]: Lieviti arricchiti in selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 % e l’85 % del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non supera il 10 % del tenore complessivo di selenio estratto. I livelli di selenio inorganico non superano normalmente l’1 % del tenore complessivo di selenio estratto.
 
 ### 3. Altre sostanze
 
@@ -724,43 +743,43 @@ L-valina
 
 ### 3.2 Altre sostanze, senza aminoacidi
 
-Acidi grassi omega-3 di oli vegetali, oli di pesce o di alghe
+### Acidi grassi omega-3 di oli vegetali, oli di pesce o di alghe
 
-Acido linoleico coniugato (CLA)
+### Acido linoleico coniugato (CLA)
 
 Acido linoleico coniugato (ALC) d’olio di cartamo
 
-Acido linoleico estratto da oli commestibili
+### Acido linoleico estratto da oli commestibili
 
-Beta-alanina
+### Beta-alanina
 
 Beta-alanina, n. CAS. 107-95-9, grado di purezza 98–101%; metalli pesanti 10 ppm; Pb ≤ 3 ppm; As ≤ 1 ppm; Hg ≤0.1 ppm; Cd ≤ 1ppm
 
-Betaina
+### Betaina
 
 Cloridrato di betaina
 
-Caffeina
+### Caffeina
 
 Caffeina
 
-Catechina, epigallocatechinagallato (EGCG)
+### Catechina, epigallocatechinagallato (EGCG)
 
 Catechina, epigallocatechinagallato (EGCG) del tè verde
 
-Coenzima NADH
+### Coenzima NADH
 
 NADH
 
 Disodio NADH
 
-Coenzima Q10
+### Coenzima Q10
 
 Ubichinone
 
 Ubichinolo
 
-Colina
+### Colina
 
 Colina
 
@@ -770,43 +789,43 @@ Citrato di colina
 
 Tartrato di colina
 
-Concentrati di pomodoro solubili in acqua WSTC I e II
+### Concentrati di pomodoro solubili in acqua WSTC I e II
 
 Concentrati di pomodoro solubili in acqua WSTC I e II secondo il parere dell’EFSA Journal 2010; 8(7): 1689
 
-Condroitina solfato
+### Condroitina solfato
 
 Condroitina solfato
 
-Creatina
+### Creatina
 
 Monoidrato di creatina
 
 Creatina piruvato
 
-DHA e i suoi esteri ricavati da oli di pesce o di alghe
+### DHA e i suoi esteri ricavati da oli di pesce o di alghe
 
-EPA e i suoi esteri ricavati da oli di pesce o di alghe
+### EPA e i suoi esteri ricavati da oli di pesce o di alghe
 
-Esperidina
+### Esperidina
 
 Esperidina da arance non mature
 
-Glucosamina
+### Glucosamina
 
 Cloruro di glucosamina
 
 Solfato di glucosamina
 
-Inositolo
+### Inositolo
 
 Inositolo
 
-Isoflavone
+### Isoflavone
 
 Isoflavoni estratti da soia o trifoglio rosso
 
-L-carnitina
+### L-carnitina
 
 L-carnitina
 
@@ -814,35 +833,35 @@ L-cloridrato di carnitina
 
 L-carnitina-L-tartrato
 
-Lattasi
+### Lattasi
 
-Lattasi FCC[^annex2-lvlu1-lvl3-lvl32-1]
+Lattasi FCC[^annex2-lvlu1-lvl3-lvl32-lvlu21-1]
+
+[^annex2-lvlu1-lvl3-lvl32-lvlu21-1]: FCC = Food Chemicals Codex
+
+### Lattulosio
 
 Lattulosio
 
-Lattulosio
-
-Luteina
+### Luteina
 
 Luteina e suoi esteri ricavati da tagete
 
-Metilsulfonilmetano (MSM)
+### Metilsulfonilmetano (MSM)
 
 Metilsulfonilmetano (MSM)
 
-Proantocianidine oligomeriche (OPC)
+### Proantocianidine oligomeriche (OPC)
 
 Proantocianidine oligomeriche (OPC) d’uva o di corteccia di pino
 
-Taurina
+### Taurina
 
 Taurina
 
-Zeaxantina
+### Zeaxantina
 
 Zeaxantina da tagete
-
-[^annex2-lvlu1-lvl3-lvl32-1]: FCC = Food Chemicals Codex
 
 Allegato 3
 
@@ -852,12 +871,15 @@ Allegato 3
 
 - 1 Le colture batteriche vive utilizzate negli integratori alimentari devono essere idonee all’uso alimentare e innocue per la salute.
 - 2 Possono essere impiegate cellule vive di ceppi di una o più specie di batteri (*Species*).
-- 3 Occorre che siano soddisfatti i seguenti criteri:
-- 3\.1 le specie di batteri devono essere preferibilmente di origine umana, non devono presentare proprietà patogene per l’uomo né possedere resistenze antibiotiche trasmissibili;
-- 3\.2 le specie di batteri devono essere depositate in una collezione di ceppi internazionalmente riconosciuta;
-- 3\.3
+- 3
 
-  specie e ceppi devono essere caratterizzati con metodi di biologia molecolare. Ciò significa che:
+  Occorre che siano soddisfatti i seguenti criteri:
 
-  - a. *Species:* ibridazione DNA-DNA oppure analisi della sequenza dell’rRNA 16S;
-  - b. *Ceppi:* metodi di biologia molecolare internazionalmente accettati come le procedure di fingerprint PFGE o RAPD.
+  - 3\.1 le specie di batteri devono essere preferibilmente di origine umana, non devono presentare proprietà patogene per l’uomo né possedere resistenze antibiotiche trasmissibili;
+  - 3\.2 le specie di batteri devono essere depositate in una collezione di ceppi internazionalmente riconosciuta;
+  - 3\.3
+
+    specie e ceppi devono essere caratterizzati con metodi di biologia molecolare. Ciò significa che:
+
+    - a. *Species:* ibridazione DNA-DNA oppure analisi della sequenza dell’rRNA 16S;
+    - b. *Ceppi:* metodi di biologia molecolare internazionalmente accettati come le procedure di fingerprint PFGE o RAPD.

@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Nahrungsergänzungsmittel 
 short: VNem
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/155"
 language: de
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/155/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-155-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/155/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-155-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20200701/de"
 
 (VNem)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -73,9 +73,9 @@ Sie dürfen enthalten:
 
 **Kennzeichnung**
 
-<sup>1</sup> Die Sachbezeichnung für Nahrungsergänzungsmittel lautet «Nahrungsergänzungsmittel»; sie wird ergänzt mit den Namen der Kategorien der Vitamine, Mineralstoffe oder sonstigen Stoffe, die für das Erzeugnis charakteristisch sind, oder mit einer Angabe zur Beschaffenheit dieser Vitamine, Mineralstoffe oder sonstigen Stoffe.
+<sup>1</sup> Die Sachbezeichnung für Nahrungsergänzungsmittel lautet «Nahrungsergänzungsmittel».[^3-1]
 
-<sup>2</sup> Bei Nahrungsergänzungsmitteln sind der Gehalt an Vitaminen, Mineralstoffen oder sonstigen Stoffen und deren prozentuale Anteile an den Referenzmengen nach Anhang 10 Teil A der Verordnung des EDI vom 16. Dezember 2016[^3-1] betreffend die Information über Lebensmittel (LIV) pro empfohlener täglicher Verzehrsmenge in numerischer Form anzugeben. Die Angabe des prozentualen Anteils kann auch in grafischer Form erfolgen.
+<sup>2</sup> Bei Nahrungsergänzungsmitteln sind der Gehalt an Vitaminen, Mineralstoffen oder sonstigen Stoffen und deren prozentuale Anteile an den Referenzmengen nach Anhang 10 Teil A der Verordnung des EDI vom 16. Dezember 2016[^3-2] betreffend die Information über Lebensmittel (LIV) pro empfohlener täglicher Verzehrsmenge in numerischer Form anzugeben. Die Angabe des prozentualen Anteils kann auch in grafischer Form erfolgen.
 
 <sup>3</sup> Bei der Kennzeichnung ist auf den Gehalt an Vitaminen, Mineralstoffen und sonstigen Stoffen zum Zeitpunkt der Abgabe an die Konsumentinnen und Konsumenten hinzuweisen. Die angegebenen Werte müssen sich auf Durchschnittswerte nach Artikel 26 Absatz 4 LIV stützen.
 
@@ -84,20 +84,20 @@ Sie dürfen enthalten:
 Erfolgt ein Hinweis auf ein Vitamin, einen Mineralstoff oder einen sonstigen Stoff, so müssen pro empfohlener täglicher Verzehrsmenge enthalten sein:
 
 - a. bei Vitaminen und Mineralstoffen: mindestens 15 % der Referenzmenge nach Anhang 10 Teil A LIV;
-- b. bei sonstigen Stoffen: mindestens 15 % der Höchstmenge nach Anhang 1.
+- b.[^3-3] bei sonstigen Stoffen: mindestens 15 Prozent der Höchstmenge nach Anhang 1; dieser Anteil kann ausnahmsweise unterschritten werden, wenn anhand allgemein anerkannter wissenschaftlicher Daten und Informationen der Nachweis erbracht werden kann, dass der Stoff in einer Menge vorhanden ist, die eine ernährungsspezifische oder physiologische Wirkung erzielt.
 
 <sup>5</sup>
 
 Erfolgt ein Hinweis auf lebende Bakterienkulturen oder Lactase, so müssen pro empfohlener täglicher Verzehrsmenge enthalten sein:
 
-- a. bei lebenden Bakterienkulturen: mindestens 10<sup>8</sup> KBE[^3-2];
-- b. bei Lactase: mindestens 4500 FCC-Einheiten[^3-3].
+- a. bei lebenden Bakterienkulturen: mindestens 10<sup>8</sup> KBE[^3-4];
+- b. bei Lactase: mindestens 4500 FCC-Einheiten[^3-5].
 
 <sup>6</sup>
 
 Auf den Zusatz lebender Bakterienkulturen muss im Verzeichnis der Zutaten und in der Sachbezeichnung wie folgt hingewiesen werden:
 
-- a. unter der spezifischen wissenschaftlichen Nomenklatur nach den Vorgaben des International Committee on Systematics of Prokaryotes[^3-4]; oder
+- a. unter der spezifischen wissenschaftlichen Nomenklatur nach den Vorgaben des International Committee on Systematics of Prokaryotes[^3-6]; oder
 - b. mit der Angabe «mit Milchsäurebakterien».
 
 <sup>7</sup>
@@ -108,12 +108,16 @@ Zusätzlich zu den Angaben nach Artikel 3 Absatz 1 Buchstaben a–i, k, m und o-
 - b. ein Warnhinweis, die angegebene empfohlene Tagesdosis nicht zu überschreiten;
 - c. ein Hinweis, dass Nahrungsergänzungsmittel nicht als Ersatz für eine abwechslungsreiche Ernährung verwendet werden sollen;
 - d. ein Hinweis, dass die Produkte ausserhalb der Reichweite von kleinen Kindern zu lagern sind;
-- e. die Warnhinweise oder der Hinweis auf die spezifische Zielgruppe oder die Verwendungsbedingungen nach Anhang 1.
+- e. die Warnhinweise oder der Hinweis auf die spezifische Zielgruppe oder die Verwendungsbedingungen nach Anhang 1;
+- f.[^3-7] die Namen der Kategorien der Vitamine, Mineralstoffe oder sonstigen Stoffe, die für das Erzeugnis charakteristisch sind, oder eine Angabe zur Beschaffenheit dieser Vitamine, Mineralstoffe oder sonstigen Stoffe.
 
-[^3-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^3-2]: KBE = kolonienbildende Einheiten
-[^3-3]: FCC = Food-Chemicals-Codex
-[^3-4]: ICSP; www.the-icsp.org
+[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+[^3-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+[^3-4]: KBE = kolonienbildende Einheiten
+[^3-5]: FCC = Food-Chemicals-Codex
+[^3-6]: ICSP; www.the-icsp.org
+[^3-7]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 #### Art. 4
 
@@ -155,39 +159,47 @@ Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch
 
 [^6b-1]: Eingefügt durch Ziff. I der V des BLV vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
 
+#### Art. 6c
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^6c-1]
+
+Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^6c-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
+
 #### Art. 7
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 3 Bst. a und b sowie 5, 3 Abs. 4 Bst. b und 7 Bst. e)
 
 ## Vitamine, Mineralstoffe und sonstige Stoffe in den für Erwachsene zugelassenen Höchstmengen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BLV vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BLV vom 27. Mai 2020 ([AS 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)). Bereinigt gemäss Ziff. II der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 ### Teil A: Zulässige Vitamine und Mineralstoffe
 
 <table>
 <tr><th>Vitamine und Mineralstoffe</th><th>für Erwachsene zugelassene Höchstmengen pro empfohlener täglicher Verzehrsmenge</th><th>Warnhinweise *(kursiv),* Verwendungsbedingungen</th></tr>
-<tr><td>**1 Vitamine**</td><td></td><td></td></tr>
+<tr><td>1 Vitamine</td><td></td><td></td></tr>
 <tr><td>Biotin</td><td>keine</td><td></td></tr>
 <tr><td>Folsäure</td><td>750 µg</td><td></td></tr>
-<tr><td>Niacin</td><td>600 mg; wovon 10 mg als Nicotinsäure und Inositolhexanicotinat (Summe)</td><td></td></tr>
+<tr><td>Niacin</td><td>600 mg; wovon höchstens 10 mg als Nicotinsäure und Inositolhexanicotinat (Summe)</td><td></td></tr>
 <tr><td>Pantothensäure</td><td>keine</td><td></td></tr>
 <tr><td>Riboflavin (Vitamin B2)</td><td>keine</td><td></td></tr>
 <tr><td>Thiamin (Vitamin B1)</td><td>keine</td><td></td></tr>
-<tr><td>Vitamin A</td><td>1360 μg[^annex1-lvlu1-partA-1] (entspricht 8.2 mg Beta-Carotin)</td><td>Nur als Beta-Carotin*.*</td></tr>
+<tr><td>Vitamin A</td><td>1360 µg[^annex1-lvlu1-partA-1] (entspricht 8.2 mg Beta-Carotin)</td><td>Nur als Beta-Carotin*.*</td></tr>
 <tr><td>Vitamin B6</td><td>15 mg</td><td></td></tr>
 <tr><td>Vitamin B12</td><td>keine</td><td></td></tr>
 <tr><td>Vitamin C</td><td>750 mg</td><td></td></tr>
 <tr><td>Vitamin D</td><td>70 µg</td><td></td></tr>
 <tr><td>Vitamin E</td><td>205 mg</td><td></td></tr>
 <tr><td>Vitamin K</td><td>225 µg</td><td>Ab einer Tagesdosis von 25 µg: *Patientinnen und Patienten, die Antikoagulantien einnehmen, sollten vor der Einnahme von Vitamin K-Präparaten ihre Ärztin oder ihren Arzt konsultieren.*</td></tr>
-<tr><td>**2 Mineralstoffe**</td><td></td><td></td></tr>
+<tr><td>2 Mineralstoffe</td><td></td><td></td></tr>
 <tr><td>Bor</td><td>1 mg</td><td></td></tr>
 <tr><td>Calcium</td><td>750 mg</td><td></td></tr>
 <tr><td>Chlorid</td><td>nur als Begleition</td><td></td></tr>
@@ -211,24 +223,24 @@ Anhang 1*[^t-1]*
 
 <table>
 <tr><th>Sonstige Stoffe</th><th colspan="2">für Erwachsene zugelassene Höchstmengen pro empfohlener täglicher Verzehrsmenge</th><th>Warnhinweise *(kursiv),* Hinweis auf spezifische Zielgruppe, Verwendungsbedingungen</th></tr>
-<tr><td>**1 Aminosäuren**</td><td colspan="2"></td><td></td></tr>
+<tr><td>1 Aminosäuren</td><td colspan="2"></td><td></td></tr>
 <tr><td>L-Arginin</td><td colspan="2">2500 mg</td><td></td></tr>
 <tr><td>L-Citrullin</td><td colspan="2">1000 mg</td><td></td></tr>
 <tr><td>L-Glutamin</td><td colspan="2">10 g</td><td></td></tr>
 <tr><td>Glycin</td><td colspan="2">5 g</td><td></td></tr>
 <tr><td>L-Histidin</td><td colspan="2">600 mg</td><td></td></tr>
-<tr><td>L-Isoleucin</td><td colspan="2">1200 mg</td><td></td></tr>
-<tr><td>L-Leucin</td><td colspan="2">2400 mg</td><td></td></tr>
+<tr><td>L-Isoleucin</td><td colspan="2">2200 mg</td><td></td></tr>
+<tr><td>L-Leucin</td><td colspan="2">4000 mg</td><td></td></tr>
 <tr><td>L-Lysin</td><td colspan="2">1800 mg</td><td></td></tr>
 <tr><td>L-Methionin + L-Cystein (Summe)</td><td colspan="2">900 mg</td><td></td></tr>
 <tr><td>L-Ornithin</td><td colspan="2">2000 mg</td><td></td></tr>
 <tr><td>L-Phenylalanin + L-Tyrosin (Summe)</td><td colspan="2">1500 mg</td><td></td></tr>
 <tr><td>L-Threonin</td><td colspan="2">900 mg</td><td></td></tr>
 <tr><td>L-Tryptophan</td><td colspan="2">240 mg</td><td></td></tr>
-<tr><td>L-Valin</td><td colspan="2">1600 mg</td><td></td></tr>
-<tr><td colspan="2">**2 Sonstige Stoffe, ohne Aminosäuren**</td><td></td><td></td></tr>
+<tr><td>L-Valin</td><td colspan="2">2000 mg</td><td></td></tr>
+<tr><td colspan="2">2 Sonstige Stoffe, ohne Aminosäuren</td><td></td><td></td></tr>
 <tr><td>Alpha-Linolensäure (n-3)</td><td colspan="2">2000 mg</td><td></td></tr>
-<tr><td>Beta-Alanin</td><td colspan="2">3,2 g</td><td>*Nicht länger als 8–10 Wochen einnehmen.* – Abgabe nur als Tabletten, die mit geeigneten Mitteln (Zusatzstoffen) als «slow-release»-Tabletten formuliert werden. – Einnahme muss mindestens auf 2 Dosen pro Tag verteilt werden, vorzugsweise zu einer Mahlzeit.</td></tr>
+<tr><td>Beta-Alanin</td><td colspan="2">3,2 g</td><td>Nicht länger als 8–10 Wochen einnehmen. – Abgabe nur als Tabletten, die mit geeigneten Mitteln (Zusatzstoffen) als «slow-release»-Tabletten formuliert werden. – Einnahme muss mindestens auf 2 Dosen pro Tag verteilt werden, vorzugsweise zu einer Mahlzeit.</td></tr>
 <tr><td>Betain</td><td colspan="2">1500 mg</td><td></td></tr>
 <tr><td>Carotinoid Lutein</td><td colspan="2">20 mg</td><td></td></tr>
 <tr><td>Carotinoid Zeaxanthin</td><td colspan="2">2 mg</td><td></td></tr>
@@ -245,7 +257,7 @@ Anhang 1*[^t-1]*
 <tr><td>Hesperidin</td><td colspan="2">430 mg</td><td>*Personen, die Medikamente einnehmen, sollten vor der Einnahme ihre Ärztin oder ihren Arzt konsultieren.*</td></tr>
 <tr><td>Inositol</td><td colspan="2">1000 mg</td><td></td></tr>
 <tr><td>Isoflavone</td><td colspan="2">50 mg (bezogen auf das Aglykon)</td><td></td></tr>
-<tr><td>Katechine, Epigallocatechingallat (EGCG)</td><td colspan="2">90 mg (berechnet als EGCG)</td><td>*Nicht auf nüchternen Magen, nicht bei strikter, kalorienarmer Ernährung und nicht gleichzeitig mit anderen Produkten auf Basis von Grüntee einnehmen.*</td></tr>
+<tr><td>Katechine/Epigallocatechingallat (EGCG)</td><td colspan="2">300 mg (berechnet als EGCG)</td><td>Sollte nicht verzehrt werden, wenn am selben Tag andere Erzeugnisse mit grünem Tee konsumiert werden. Sollte nicht von schwangeren oder stillenden Frauen und Kindern unter 18 Jahren verzehrt werden. Sollte nicht auf nüchternen Magen verzehrt werden.</td></tr>
 <tr><td>konjugierte Linolsäure (CLA)</td><td colspan="2">3 g</td><td>*Für Diabetikerinnen und Diabetiker, Jugendliche, schwangere und stillende Frauen nicht geeignet.*</td></tr>
 <tr><td>Kreatin</td><td colspan="2">3 g</td><td></td></tr>
 <tr><td>L-Carnitin</td><td colspan="2">2000 mg</td><td></td></tr>
@@ -260,13 +272,13 @@ Anhang 1*[^t-1]*
 <tr><td>Wasserlösliches Tomatenkonzentrat (WSTC II)</td><td colspan="2">150 mg</td><td></td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Abs. 6 sowie 5 Abs. 1 und 2)
 
 ## Zulässige Verbindungen der Vitamine, Mineralstoffe und sonstigen Stoffe
 
-[^t-2]: Bereinigt gemäss Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1335](https://fedlex.data.admin.ch/eli/oc/2018/215)) und Ziff. II Abs. 2 der V des BLV vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+[^t-2]: Bereinigt gemäss Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1335](https://fedlex.data.admin.ch/eli/oc/2018/215)), Ziff. II Abs. 2 der V des BLV vom 27. Mai 2020 ([AS 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)) und Ziff. II der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 826](https://fedlex.data.admin.ch/eli/oc/2023/826)).
 
 ### 1. Vitamine
 
@@ -289,6 +301,8 @@ Nicotinsäure
 Nicotinamid
 
 Inositolhexanicotinat oder Inositolniacinat
+
+Nicotinamid-Ribosidchlorid
 
 ### Pantothensäure
 
@@ -560,6 +574,8 @@ Magnesiumbisglycinat
 Magnesiumcarbonat
 
 Magnesiumchlorid
+
+Magnesiumcitratmalat
 
 Magnesiumsalze der Zitronensäure
 
