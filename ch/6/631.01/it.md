@@ -4,11 +4,11 @@ title: Ordinanza del 1° novembre 2006 sulle dogane (OD)
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: it
-version: 2023-09-01
+version: 2024-02-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20240201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/it"
 
 (OD)
 
-del 1° novembre 2006 (Stato 1° settembre 2023)
+del 1° novembre 2006 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -489,7 +489,7 @@ La franchigia doganale è concessa solo a persone che:
   - 2\. 100 ettolitri a 200 ettolitri: di metà;
   - 3\. 200 ettolitri a 1000 ettolitri: a tre quarti.
 
-- [tab] <sup>3</sup> Le vinacce sono soggette a dazio.
+<sup>3</sup> Le vinacce sono soggette a dazio.
 
 #### Art. 25
 
@@ -930,7 +930,8 @@ Le merci, che sono tassate per un determinato impiego a un’aliquota di dazio r
 
 - a. impiegate dalla persona, che ha depositato il corrispondente impegno d’impiego, secondo lo scopo ivi menzionato; o
 - b. impiegate da un terzo su incarico della persona, che ha depositato il corrispondente impegno d’impiego, secondo lo scopo ivi menzionato.
-- [tab] <sup>2</sup> Esse possono essere trasmesse intatte a un terzo per essere impiegate secondo il corrispondente impegno d’impiego. La persona, che trasmette le merci, deve mettere al corrente il terzo circa il relativo impiego.
+
+<sup>2</sup> Esse possono essere trasmesse intatte a un terzo per essere impiegate secondo il corrispondente impegno d’impiego. La persona, che trasmette le merci, deve mettere al corrente il terzo circa il relativo impiego.
 
 #### Art. 54
 
@@ -1139,7 +1140,8 @@ Nei negozi in zona franca di tasse le seguenti merci possono essere vendute in e
 - b. vino spumante;
 - c. prodotti di bellezza e per la cura del corpo;
 - d. tabacchi manufatti[^69-3].
-- [tab] <sup>2</sup> L’immagazzinamento è retto dalle disposizioni sul deposito doganale aperto.
+
+<sup>2</sup> L’immagazzinamento è retto dalle disposizioni sul deposito doganale aperto.
 
 [^69-1]: Nuovo testo giusta il n. I dell’O del 20 apr. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1747](https://fedlex.data.admin.ch/eli/oc/2011/264)).
 [^69-2]: Nuovo testo giusta il n. I dell’O del 20 apr. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1747](https://fedlex.data.admin.ch/eli/oc/2011/264)).
@@ -1157,8 +1159,10 @@ Per scorte destinate ai ristoranti di bordo s’intendono:
 
 - a. prodotti commestibili e bevande destinati al vitto dei passeggeri (scorte di bordo);
 - b. merci, che sono destinate alla vendita a bordo (merci per la vendita a bordo).
-- [tab] <sup>2</sup> L’immagazzinamento è retto dalle disposizioni sul deposito doganale aperto.
-- [tab] <sup>3</sup> La preparazione di cibi e bevande è consentita.
+
+<sup>2</sup> L’immagazzinamento è retto dalle disposizioni sul deposito doganale aperto.
+
+<sup>3</sup> La preparazione di cibi e bevande è consentita.
 
 ### Capitolo 3: Basi della riscossione del dazio doganale
 
@@ -1212,10 +1216,14 @@ Ai fini di un’informazione in materia di origine, la richiesta deve contenere 
 - a. Paese o regione di destinazione;
 - b. prezzo franco fabbrica delle merci da esportare;
 - c. descrizione del trattamento o della lavorazione avvenuti, materie impiegate e loro origine, classificazione tariffale e valore, nonché altre informazioni necessarie per la determinazione dell’origine.
-- [tab] <sup>3</sup> I modelli, le prove, le foto, i piani, i cataloghi e la bibliografia specializzata necessari devono essere allegati.
-- [tab] <sup>4</sup> In caso di richieste insufficientemente documentate, l’UDSC invita il richiedente a porvi rimedio entro un adeguato termine. Se, nonostante tale esortazione, la richiesta è ancora incompleta, l’UDSC può rinunciare a rilasciare l’informazione in materia di tariffa e di origine.
-- [tab] 4<sup>bis</sup> L’UDSC fornisce l’informazione in materia di tariffa e di origine al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^73-1]
-- [tab] <sup>5</sup> Essa può trattenere la documentazione inoltrata senza obbligo d’indennità.
+
+<sup>3</sup> I modelli, le prove, le foto, i piani, i cataloghi e la bibliografia specializzata necessari devono essere allegati.
+
+<sup>4</sup> In caso di richieste insufficientemente documentate, l’UDSC invita il richiedente a porvi rimedio entro un adeguato termine. Se, nonostante tale esortazione, la richiesta è ancora incompleta, l’UDSC può rinunciare a rilasciare l’informazione in materia di tariffa e di origine.
+
+<sup>4</sup> <sup>bis</sup> L’UDSC fornisce l’informazione in materia di tariffa e di origine al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^73-1]
+
+<sup>5</sup> Essa può trattenere la documentazione inoltrata senza obbligo d’indennità.
 
 [^73-1]: Introdotto dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
@@ -1293,7 +1301,8 @@ Oltre alle indicazioni usuali prescritte, nella dichiarazione doganale la person
 - b. fornire le indicazioni necessarie all’esecuzione di disposti federali di natura non doganale;
 - c. stabilire la destinazione doganale delle merci;
 - d.[^79-1] indicare l’acquirente delle merci da esportare nonché il depositante se le merci si trovano nel regime d’esportazione e prima di essere trasportate nel territorio doganale estero sono immagazzinate in un deposito doganale aperto o un deposito franco doganale.
-- [tab] <sup>2</sup> In caso di procedura di dichiarazione doganale a due fasi, essa deve fornire queste indicazioni nella prima dichiarazione.
+
+<sup>2</sup> In caso di procedura di dichiarazione doganale a due fasi, essa deve fornire queste indicazioni nella prima dichiarazione.
 
 [^79-1]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -2237,12 +2246,14 @@ Nel traffico turistico, l’ufficio doganale emette la decisione d’imposizione
 
 [^116-1]
 
-<sup>1</sup> 1<sup>bis</sup> L’UDSC decide in merito all’autorizzazione al più tardi entro 30 giorni dalla ricezione della documentazione completa.[^116-2]
+<sup>1</sup>
 
 Nel traffico regionale, l’UDSC può autorizzare, su richiesta scritta, per carichi di merci di genere unitario come asfalto, ghiaia, malta, segatura, legname in tronchi e allumina la dichiarazione collettiva periodica, se:
 
 - a. l’importazione o l’esportazione ha luogo regolarmente e attraverso lo stesso ufficio doganale; e
 - b. la gestione degli affari dell’ufficio doganale la consentono.
+
+<sup>1</sup> <sup>bis</sup> L’UDSC decide in merito all’autorizzazione al più tardi entro 30 giorni dalla ricezione della documentazione completa.[^116-2]
 
 <sup>2</sup> Essa designa nell’autorizzazione le merci alle quali è applicabile la dichiarazione collettiva periodica.
 
@@ -2472,9 +2483,14 @@ Sono esonerati dall’obbligo di presentazione e di dichiarazione le merci esent
 
 ### (art. 44 cpv. 1 LD)
 
-- [tab] <sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve notificare senza indugio alla centrale di zona della Direzione della navigazione renana il battello merci in entrata nel territorio doganale o in uscita dallo stesso.
-- [tab] <sup>2</sup> La centrale di zona deve trasmettere il giorno lavorativo seguente all’ufficio doganale tutte le notifiche dei battelli merci entrati e usciti.
-- [tab] <sup>3</sup> La notifica deve contenere segnatamente le seguenti indicazioni:
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve notificare senza indugio alla centrale di zona della Direzione della navigazione renana il battello merci in entrata nel territorio doganale o in uscita dallo stesso.
+
+<sup>2</sup> La centrale di zona deve trasmettere il giorno lavorativo seguente all’ufficio doganale tutte le notifiche dei battelli merci entrati e usciti.
+
+<sup>3</sup>
+
+La notifica deve contenere segnatamente le seguenti indicazioni:
+
 - a. data del passaggio di frontiera;
 - b. nome, numero ufficiale e Paese d’immatricolazione del battello;
 - c. peso lordo approssimativo del carico;
@@ -3078,13 +3094,13 @@ Non sono ammesse lavorazioni che:
 
 [^183-1]
 
-<sup>1</sup> L’elenco deve contenere le seguenti indicazioni:[^183-2]
+<sup>1</sup>
 
-a. nomi, indirizzi e ramo d’attività dei locatari e sottolocatari di locali in depositi franchi doganali, nonché dei depositanti;
+L’elenco deve contenere le seguenti indicazioni:[^183-2]
 
-b. recapito in Svizzera, sempre che la sede o il domicilio di queste persone si trovi all’estero;
-
-c.[^183-3] nome e indirizzo della persona che tiene l’inventario.
+- a. nomi, indirizzi e ramo d’attività dei locatari e sottolocatari di locali in depositi franchi doganali, nonché dei depositanti;
+- b. recapito in Svizzera, sempre che la sede o il domicilio di queste persone si trovi all’estero;
+- c.[^183-3] nome e indirizzo della persona che tiene l’inventario.
 
 <sup>1bis</sup> L’elenco deve essere tenuto elettronicamente.[^183-4]
 
@@ -3256,7 +3272,7 @@ L’UDSC può riconoscere i seguenti titoli come garanzia:
 
 ### (art. 76 LD)
 
-- [tab] I titolari di conti PCD devono fornire una garanzia forfetaria, che corrisponde al 50 per cento dei tributi doganali medi di due settimane.
+I titolari di conti PCD devono fornire una garanzia forfetaria, che corrisponde al 50 per cento dei tributi doganali medi di due settimane.
 
 #### Art. 193
 
@@ -3283,7 +3299,8 @@ La garanzia ammonta:
 - a. per merci di gran consumo depositate: al 100 per cento dei tributi doganali;
 - a<sup>bis</sup>.[^194-1] per l’AEO: al massimo al 10 per cento dei tributi doganali;
 - b. negli altri casi: al 25 per cento almeno dei tributi doganali.
-- [tab] <sup>2</sup> Per transiti internazionali, l’ammontare della garanzia è determinato conformemente ai trattati internazionali.
+
+<sup>2</sup> Per transiti internazionali, l’ammontare della garanzia è determinato conformemente ai trattati internazionali.
 
 [^194-1]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -3854,8 +3871,10 @@ L’AFD può accertare o completare i dati concernenti l’identità di una pers
 
 - a.[^226-4] nei casi previsti dall’articolo 103 capoverso 1 lettere a e b LD, mediante dati dattiloscopici; il trattamento dei dati è disciplinato dall’ordinanza del 6 dicembre 2013[^226-5] sul trattamento dei dati segnaletici di natura biometrica;
 - b.[^226-6] nei casi previsti dall’articolo 103 capoverso 1 lettera a LD mediante le immagini del viso; il trattamento dei dati è disciplinato dall’ordinanza del 23 agosto 2017[^226-7] sul trattamento dei dati nell’UDSC.
-- [tab] <sup>4</sup> Essa deve cancellare i dati rilevati non appena sono stati memorizzati nella corrispondente banca dati conformemente al capoverso 3.[^226-8]
-- [tab] <sup>5</sup> Se l’Amministrazione delle dogane rileva dati biometrici conformemente al capoverso 3, senza essere un’autorità preposta all’accertamento, è tenuta a presentare le domande di cancellazione di questi dati, non appena ciò si renda necessario secondo i pertinenti disposti di natura non doganale.
+
+<sup>4</sup> Essa deve cancellare i dati rilevati non appena sono stati memorizzati nella corrispondente banca dati conformemente al capoverso 3.[^226-8]
+
+<sup>5</sup> Se l’Amministrazione delle dogane rileva dati biometrici conformemente al capoverso 3, senza essere un’autorità preposta all’accertamento, è tenuta a presentare le domande di cancellazione di questi dati, non appena ciò si renda necessario secondo i pertinenti disposti di natura non doganale.
 
 [^226-1]: Nuovo testo giusta l’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-2]: Introdotto dall’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
@@ -3893,25 +3912,38 @@ Quali mezzi di autodifesa e coattivi possono essere impiegati segnatamente:
 
 <sup>3</sup> Il DEFR disciplina l’impiego di altri mezzi di autodifesa e coattivi equivalenti.
 
-<sup>2bis</sup> Le guardie di sicurezza adottano i provvedimenti necessari quando è minacciata la sicurezza dei passeggeri, dell’equipaggio o dell’aeromobile. Possono ricorrere alla coercizione e a misure di polizia conformemente alla legge federale del 20 marzo 2008[^227-2] sulla coercizione e alle sue disposizioni esecutive.[^227-3]
-
 [^227-1]: Introdotta dall’all. n. 2 dell’O del 12 nov. 2008 concernente i poteri di polizia dell’esercito, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
-[^227-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
-[^227-3]: Introdotto dall’all. n. 2 dell’O del 12 nov. 2008 concernente i poteri di polizia dell’esercito, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
 
 #### Art. 228
 
-**Personale dell’Amministrazione delle dogane al di fuori del Corpo delle guardie di confine**
+**Dotazione di armi al personale dell’UDSC al di fuori del Corpo delle guardie di confine**[^228-1]
 
 ### (art. 106 cpv. 2 lett. a e b LD)
 
-Il seguente personale dell’UDSC al di fuori del Corpo delle guardie di confine può impiegare armi e altri mezzi di autodifesa e coattivi:
+<sup>1</sup>
 
-- a.[^228-1] il personale della divisione principale Antifrode doganale;
+Il seguente personale dell’UDSC al di fuori del Corpo delle guardie di confine può far uso di armi e altri mezzi di autodifesa e coattivi:
+
+- a. il personale della divisione principale Antifrode doganale;
 - b. il personale impiegato nel traffico turistico;
 - c. il personale delle squadre mobili per controlli nel territorio doganale o a domicilio.
 
-[^228-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+<sup>2</sup>
+
+Se le seguenti condizioni sono soddisfatte, il direttore dell’UDSC rilascia ai collaboratori che rientrano nella categoria di personale di cui al capoverso 1 l’autorizzazione a portare e far uso di armi e altri mezzi di autodifesa e coattivi:
+
+- a. il collaboratore interessato è esposto a particolari pericoli nel quadro dell’adempimento dei suoi compiti;
+- b. non vi sono motivi d’impedimento per il porto di armi e altri mezzi di autodifesa e coattivi; sono considerati motivi d’impedimento segnatamente gli indizi che lasciano supporre che il collaboratore possa mettere in pericolo se stesso o terzi;
+- c. il collaboratore interessato dispone di una formazione specifica ai sensi dell’articolo 8 della legge del 20 marzo 2008[^228-2] sulla coercizione (LCoe).
+
+<sup>3</sup> Per i collaboratori che il 31 dicembre 2021 erano impiegati presso l’UDSC quali specialisti doganali o revisori non vige alcun obbligo di porto di armi da fuoco. L’UDSC garantisce ai collaboratori che non desiderano portare un’arma da fuoco di poter assumere compiti il cui adempimento non li espone a particolari pericoli.
+
+<sup>4</sup> I collaboratori che dispongono di un’autorizzazione di cui al capoverso 2 devono partecipare alle esercitazioni di tiro e di sicurezza prescritte nonché ai perfezionamenti prescritti nei quali sono trattati i temi secondo l’articolo 30 LCoe.
+
+<sup>5</sup> L’UDSC è responsabile dell’organizzazione delle esercitazioni di tiro e di sicurezza. Per l’adempimento dei suoi compiti può collaborare con altri uffici.
+
+[^228-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^228-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
 
 #### Art. 229
 
@@ -3921,12 +3953,24 @@ Il seguente personale dell’UDSC al di fuori del Corpo delle guardie di confine
 
 <sup>1</sup>
 
-Per l’impiego di armi e di altri mezzi di autodifesa e coattivi si applicano i seguenti principi:
+Per l’uso di armi e di altri mezzi di autodifesa e coattivi da parte del personale del Corpo delle guardie di confine e del personale di cui all’articolo 228 capoverso 1 si applicano i seguenti principi:[^229-1]
 
 - a. l’impiego dev’essere annunciato preventivamente, sempre che lo scopo e le circostanze lo consentano;
 - b. l’impiego deve rendersi necessario per lo scopo previsto e non dev’essere sproporzionato.
 
 <sup>2</sup> Trattamenti crudeli, umilianti od offensivi sono vietati.
+
+[^229-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+
+#### Art. 229a
+
+**Custodia e ritiro delle armi**[^229a-1]
+
+<sup>1</sup> L’UDSC garantisce la custodia sicura di armi e munizioni.
+
+<sup>2</sup> Se riguardo a una persona si constatano motivi d’impedimento per il porto di un’arma, il superiore ritira immediatamente l’arma. Il direttore dell’UDSC decide, d’intesa con il superiore, se la persona interessata è ancora autorizzata a portare un’arma.
+
+[^229a-1]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 230
 
@@ -3958,11 +4002,13 @@ Il Corpo delle guardie di confine e il personale di cui all’articolo 228 posso
 
 **Condizioni per l’uso di armi da fuoco**
 
-### (art. 106 cpv. 1 lett. c e cpv. 2 lett. b LD)
+### (art. 106 cpv. 1 lett. c e cpv. 2 LD)
+
+[^232-1]
 
 <sup>1</sup>
 
-Il personale del Corpo delle guardie di confine può utilizzare l’arma da fuoco ai sensi dell’articolo 106 capoverso 1 lettera c LD, segnatamente:
+Il personale del Corpo delle guardie di confine e il personale di cui all’articolo 228 capoverso 1 possono far uso dell’arma da fuoco nel caso di cui all’articolo 106 capoverso 1 lettera c LD, soltanto:[^232-2]
 
 - a. quando persone che hanno commesso una grave infrazione o che sono sospettati di averla commessa, tentano di sottrarsi con la fuga al fermo o a un arresto già eseguito;
 - b. quando, sulla base di informazioni o constatazioni personali, si può o si deve ritenere che determinate persone rappresentino un pericolo incombente per l’incolumità e la vita di altri e tentino di sottrarsi con la fuga al fermo o a un arresto già eseguito;
@@ -3971,6 +4017,9 @@ Il personale del Corpo delle guardie di confine può utilizzare l’arma da fuoc
 <sup>2</sup> Può essere esploso un colpo d’avvertimento senza preavvertimento solo se le circostanze rendono impossibile l’effetto di un avvertimento (art. 229 cpv. 1 lett. a).
 
 <sup>3</sup> Per ogni impiego di armi da fuoco occorre fare rapporto all’autorità competente.
+
+[^232-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^232-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 233
 

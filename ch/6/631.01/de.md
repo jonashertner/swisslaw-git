@@ -4,11 +4,11 @@ title: Zollverordnung vom 1. November 2006 (ZV)
 short: ZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: de
-version: 2023-09-01
+version: 2024-02-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20240201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/de"
 
 (ZV)
 
-vom 1. November 2006 (Stand am 1. September 2023)
+vom 1. November 2006 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -482,7 +482,7 @@ Zollpflichtig ist die Einfuhr von Trauben und Wein, die über die in Absatz 1 fe
   - 2\. über 14 Tonnen bis 28 Tonnen Eigenmasse auf einen Viertel,
   - 3\. über 28 Tonnen bis 140 Tonnen Eigenmasse auf drei Achtel;
 
-- b
+- b.
 
   bei Neuwein in Mengen von:
 
@@ -1079,12 +1079,12 @@ Genussfertige Nahrungsmittel und alkoholfreie Getränke sind in der Menge, die d
 <tr><td>b. Butter und Rahm:</td><td>1 l/kg</td></tr>
 <tr><td>c. Öle, Fette, Margarine zu Speisezwecken:</td><td>5 l/kg</td></tr>
 <tr><td>d. alkoholische Getränke:</td><td></td></tr>
-<tr><td>[tab] 1. mit einem Alkoholgehalt bis 18 % Vol.</td><td>5 l, und</td></tr>
-<tr><td>[tab] 2. mit einem Alkoholgehalt von über 18 % Vol.</td><td>1 l</td></tr>
+<tr><td>1. mit einem Alkoholgehalt bis 18 % Vol.</td><td>5 l, und</td></tr>
+<tr><td>2. mit einem Alkoholgehalt von über 18 % Vol.</td><td>1 l</td></tr>
 <tr><td>e. Tabakfabrikate:</td><td></td></tr>
-<tr><td>[tab] 1. Zigaretten/Zigarren</td><td>250 Stück, oder</td></tr>
-<tr><td>[tab] 2. andere Tabakfabrikate</td><td>250 Gramm, oder</td></tr>
-<tr><td>[tab] 3. eine anteilmässige Auswahl dieser Erzeugnisse</td><td></td></tr>
+<tr><td>1. Zigaretten/Zigarren</td><td>250 Stück, oder</td></tr>
+<tr><td>2. andere Tabakfabrikate</td><td>250 Gramm, oder</td></tr>
+<tr><td>3. eine anteilmässige Auswahl dieser Erzeugnisse</td><td></td></tr>
 <tr><td>f. Treibstoffe, die nach Artikel 34 Absatz 2 der Mineralölsteuerverordnung vom 20. November 1996[^65-2] im Reservekanister eines Fahrzeugs eingeführt werden</td><td>25 l</td></tr>
 </table>
 
@@ -1225,7 +1225,7 @@ Für eine Ursprungsauskunft muss die Anfrage zusätzlich folgende Angaben enthal
 
 <sup>4</sup> Das BAZG fordert die anfragende Person bei ungenügend dokumentierten Anfragen auf, diese innerhalb einer angemessenen Frist nachzubessern. Ist die Anfrage trotz Aufforderung unvollständig, so kann das BAZG auf die Zolltarif- oder Ursprungsauskunft verzichten.
 
-<sup>4bis</sup> Das BAZG erteilt die Zolltarif- oder Ursprungsauskunft spätestens 40 Tage nach Erhalt der vollständigen Unterlagen.[^73-1]
+<sup>4</sup> <sup>bis</sup> Das BAZG erteilt die Zolltarif- oder Ursprungsauskunft spätestens 40 Tage nach Erhalt der vollständigen Unterlagen.[^73-1]
 
 <sup>5</sup> Es kann eingereichte Dokumentationen ohne Entschädigungspflicht zurückbehalten.
 
@@ -2257,7 +2257,7 @@ Das BAZG kann im Regionalverkehr für Ladungen einheitlicher Warengattungen wie 
 - a. die Ein- oder Ausfuhr regelmässig und über die gleiche Zollstelle erfolgt; und
 - b. es die betrieblichen Verhältnisse der Zollstelle erlauben.
 
-<sup>1bis</sup> Es entscheidet spätestens 30 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^116-2]
+<sup>1</sup> <sup>bis</sup> Es entscheidet spätestens 30 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^116-2]
 
 <sup>2</sup> Es bezeichnet in der Bewilligung die Waren, auf welche die periodische Sammelanmeldung anwendbar ist.
 
@@ -3769,7 +3769,7 @@ Das EFD regelt das Verfahren der Versteigerung von Zollpfändern und der Verwert
 
 <sup>2</sup> Das EFD legt die Zollkreise und die Grenzwachtregionen fest.
 
-3 Es regelt die Funktionen und Grade des Grenzwachtkorps.
+<sup>3</sup> Es regelt die Funktionen und Grade des Grenzwachtkorps.
 
 [^221e-1]: Ursprünglich Art. 221*a*. Eingefügt durch Anhang Ziff. 3 der Organisationsverordnung für das eidgenössische Finanzdepartement vom 17. Febr. 2010, in Kraft seit 1. März 2010 ([AS 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)).
 
@@ -3919,17 +3919,34 @@ Als Selbstverteidigungs- und Zwangsmittel dürfen namentlich eingesetzt werden:
 
 #### Art. 228
 
-**Personal des BAZG ausserhalb des Grenzwachtkorps**
+**Bewaffnung des Personals des BAZG ausserhalb des Grenzwachtkorps**[^228-1]
 
 ### (Art. 106 Abs. 2 Bst. a und b ZG)
 
+<sup>1</sup>
+
 Folgendes Personal des BAZG ausserhalb des Grenzwachtkorps darf Waffen, andere Selbstverteidigungs- und Zwangsmittel einsetzen:
 
-- a.[^228-1] das Personal der Hauptabteilung Zollfahndung;
+- a. das Personal der Hauptabteilung Zollfahndung;
 - b. das im Reiseverkehr eingesetzte Personal;
 - c. das Personal der mobilen Teams für Kontrollen im Zollgebiet oder am Domizil.
 
-[^228-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+<sup>2</sup>
+
+Gehört eine Mitarbeiterin oder ein Mitarbeiter zum Personal nach Absatz 1 und sind die folgenden Voraussetzungen erfüllt, so erteilt die Direktorin oder der Direktor des BAZG ihr oder ihm die Berechtigung zum Tragen und Einsetzen von Waffen und anderen Selbstverteidigungs- und Zwangsmitteln:
+
+- a. Sie oder er kann im Rahmen der Erfüllung ihrer oder seiner Aufgaben besonderen Gefährdungen ausgesetzt sein.
+- b. Es liegen keine Hinderungsgründe zum Tragen von Waffen und anderen Selbstverteidigungs- und Zwangsmitteln vor; als Hinderungsgründe gelten insbesondere Anhaltspunkte, die auf eine mögliche Selbst- oder Drittgefährdung schliessen lassen.
+- c. Die betreffende Mitarbeiterin oder der betreffende Mitarbeiter verfügt über eine besondere Ausbildung nach Artikel 8 des Zwangsanwendungsgesetzes vom 20. März 2008[^228-2] (ZAG).
+
+<sup>3</sup> Für Mitarbeiterinnen und Mitarbeiter, die am 31. Dezember 2021 als Zollfachleute oder als Revisor oder Revisorin beim BAZG angestellt waren, besteht keine Verpflichtung zum Tragen von Schusswaffen. Das BAZG stellt sicher, dass Mitarbeiterinnen und Mitarbeiter, die keine Schusswaffen tragen möchten, Aufgaben übernehmen können, bei deren Erfüllung sie keinen besonderen Gefährdungen ausgesetzt sind.
+
+<sup>4</sup> Wer über eine Berechtigung nach Absatz 2 verfügt, muss an den vorgeschriebenen Schiess- und Sicherheitstrainings sowie an den vorgeschriebenen Weiterbildungen teilnehmen, an denen die Themen nach Artikel 30 ZAG behandelt werden.
+
+<sup>5</sup> Für die Organisation der Schiess- und Sicherheitstrainings ist das BAZG verantwortlich. Es kann zur Wahrnehmung seiner Aufgaben mit anderen Stellen zusammenarbeiten.
+
+[^228-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^228-2]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
 
 #### Art. 229
 
@@ -3939,12 +3956,24 @@ Folgendes Personal des BAZG ausserhalb des Grenzwachtkorps darf Waffen, andere S
 
 <sup>1</sup>
 
-Für den Einsatz von Waffen und anderen Selbstverteidigungs- und Zwangsmitteln gelten folgende Grundsätze:
+Für den Einsatz von Waffen und anderen Selbstverteidigungs- und Zwangsmitteln durch das Personal des Grenzwachtkorps und das Personal nach Artikel 228 Absatz 1 gelten folgende Grundsätze:[^229-1]
 
 - a. Der Einsatz muss vorgängig angekündigt werden, sofern der Zweck und die Umstände es zulassen.
 - b. Der Einsatz muss für das angestrebte Ziel erforderlich sein und darf nicht in einem Missverhältnis dazu stehen.
 
 <sup>2</sup> Grausame, erniedrigende oder beleidigende Behandlungen sind verboten.
+
+[^229-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+
+#### Art. 229a
+
+**Aufbewahrung und Einzug von Waffen**[^229a-1]
+
+<sup>1</sup> Das BAZG sorgt für die sichere Aufbewahrung der Waffen und der Munition.
+
+<sup>2</sup> Werden bei einer Person Hinderungsgründe zum Tragen einer Waffe festgestellt, so wird diese von der oder dem Vorgesetzten unverzüglich eingezogen. Die Direktorin oder der Direktor des BAZG entscheidet nach Rücksprache mit der oder dem Vorgesetzten, ob die betreffende Person weiterhin zum Tragen einer Waffe berechtigt ist.
+
+[^229a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 230
 
@@ -3976,11 +4005,13 @@ Das Grenzwachtkorps und das Personal nach Artikel 228 dürfen zur Erfüllung ihr
 
 **Voraussetzungen für den Schusswaffengebrauch**
 
-### (Art. 106 Abs. 1 Bst. c und Abs. 2 Bst. b ZG)
+### (Art. 106 Abs. 1 Bst. c und Abs. 2 ZG)
+
+[^232-1]
 
 <sup>1</sup>
 
-Das Personal des Grenzwachtkorps kann im Sinne von Artikel 106 Absatz 1 Buchstabe c ZG von der Schusswaffe Gebrauch machen:
+Das Personal des Grenzwachtkorps und das Personal nach Artikel 228 Absatz 1 dürfen im Fall nach Artikel 106 Absatz 1 Buchstabe c ZG von der Schusswaffe nur dann Gebrauch machen:[^232-2]
 
 - a. wenn Personen, die eine schwere Widerhandlung begangen haben oder einer solchen dringend verdächtigt werden, sich der Festnahme oder einer bereits vollzogenen Verhaftung durch Flucht zu entziehen versuchen;
 - b. wenn es auf Grund von Informationen oder persönlichen Feststellungen annehmen darf oder muss, dass Personen eine unmittelbar drohende Gefahr für Leib und Leben anderer darstellen und sich der Festnahme durch Flucht zu entziehen versuchen;
@@ -3989,6 +4020,9 @@ Das Personal des Grenzwachtkorps kann im Sinne von Artikel 106 Absatz 1 Buchstab
 <sup>2</sup> Ohne Vorwarnung darf ein Warnschuss nur abgegeben werden, sofern die Umstände die Wirkung eines Warnrufes (Art. 229 Abs. 1 Bst. a) vereiteln.
 
 <sup>3</sup> Über jeden Schusswaffeneinsatz ist der zuständigen Behörde Bericht zu erstatten.
+
+[^232-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^232-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 233
 
@@ -4213,7 +4247,7 @@ Bei Einfuhren landwirtschaftlicher Erzeugnisse, für die Kontingentszollansätze
 Briefpostsendungen und Pakete, die von der Schweizerischen Post im Rahmen des Universaldienstes (Art. 3 und 4 des Postgesetzes vom 30. April 1997[^246-2]) oder von privaten Anbieterinnen und Anbietern im Rahmen ihrer Konzession befördert werden, dürfen bis zum 30. Juni 2013 nach dem bisherigen Recht angemeldet werden.
 
 [^246-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^246-2]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)Anhang Ziff. I]. Siehe heute: das Postgesetz vom 17. Dez. 2010 ([SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)).
+[^246-2]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85; [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)Anhang Ziff. I]. Siehe heute: das Postgesetz vom 17. Dez. 2010 ([SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)).
 
 #### Art. 246a
 
@@ -4325,7 +4359,7 @@ Als sensible Waren gelten:
 [^annex2-lvlu1-4]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 [^annex2-lvlu1-5]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 [^annex2-lvlu1-6]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-7]: [[AS 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211), [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474)[3160](https://fedlex.data.admin.ch/eli/oc/2001/475), [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653), **2010** 1239. [AS 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)Art. 86]. Siehe heute: die V vom 25. Mai 2011 über die Betäubungsmittelkontrolle ([SR 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)).
+[^annex2-lvlu1-7]: [[AS 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211); [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474), [3160](https://fedlex.data.admin.ch/eli/oc/2001/475); [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653); **2010** 1239. [AS 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)Art. 86]. Siehe heute: die V vom 25. Mai 2011 über die Betäubungsmittelkontrolle ([SR 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)).
 [^annex2-lvlu1-8]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^annex2-lvlu1-9]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 [^annex2-lvlu1-10]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
@@ -4360,7 +4394,7 @@ Folgende Erlasse werden aufgehoben:
 - 17\. Verordnung vom 18. Mai 2005[^annex3-lvlu1-19] über die Zuständigkeit der Oberzolldirektion im Bereich der höheren Berufsbildung für das Personal der EZV
 - 18\. Bundesratsbeschluss vom 31. Mai 1966[^annex3-lvlu1-20] über die Zollfreiheit von Treibstoffen für nichtgewerbsmässige Auslandflüge
 
-[^annex3-lvlu1-1]: [BS **6** 514; [AS 1957 1002](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040), [1960 261](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267), [1961 1178](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226), [1965 915](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917), [1972 156](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160), [1973 651](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651), [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949), [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054), [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818), [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 35, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 15, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)Art. 33 Ziff. 3, [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70)[328](https://fedlex.data.admin.ch/eli/oc/2002/72)Anhang 2 Ziff. 1]
+[^annex3-lvlu1-1]: [BS **6** 514; [AS 1957 1002](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040); [1960 261](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267); [1961 1178](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226); [1965 915](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917); [1972 156](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160); [1973 651](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651); [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949); [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054); [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818); [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 35; [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 15; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)Art. 33 Ziff. 3; [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70), [328](https://fedlex.data.admin.ch/eli/oc/2002/72)Anhang 2 Ziff. 1]
 [^annex3-lvlu1-2]: [[AS 1999 1300](https://fedlex.data.admin.ch/eli/oc/1999/176)]
 [^annex3-lvlu1-3]: In der AS nicht veröffentlicht.
 [^annex3-lvlu1-4]: In der AS nicht veröffentlicht.
@@ -4369,17 +4403,17 @@ Folgende Erlasse werden aufgehoben:
 [^annex3-lvlu1-7]: [[AS 1993 393](https://fedlex.data.admin.ch/eli/oc/1993/393_393_393)]
 [^annex3-lvlu1-8]: [[AS 1995 1821](https://fedlex.data.admin.ch/eli/oc/1995/1821_1821_1821)]
 [^annex3-lvlu1-9]: [[AS 2002 328](https://fedlex.data.admin.ch/eli/oc/2002/72)]
-[^annex3-lvlu1-10]: [[AS 1960 921](https://fedlex.data.admin.ch/eli/oc/1960/921_961_953), [2002 1365](https://fedlex.data.admin.ch/eli/oc/2002/205)]
-[^annex3-lvlu1-11]: [BS **6** 643; [AS 1972 877](https://fedlex.data.admin.ch/eli/oc/1972/877_889_809), [1978 1913](https://fedlex.data.admin.ch/eli/oc/1978/1913_1913_1913), [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 16]
+[^annex3-lvlu1-10]: [[AS 1960 921](https://fedlex.data.admin.ch/eli/oc/1960/921_961_953); [2002 1365](https://fedlex.data.admin.ch/eli/oc/2002/205)]
+[^annex3-lvlu1-11]: [BS **6** 643; [AS 1972 877](https://fedlex.data.admin.ch/eli/oc/1972/877_889_809); [1978 1913](https://fedlex.data.admin.ch/eli/oc/1978/1913_1913_1913); [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 16]
 [^annex3-lvlu1-12]: [BS **6** 685; [AS 1951 968](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)Art. 3, 4, [1965 1246](https://fedlex.data.admin.ch/eli/oc/1965/1246_1260_1248)]
-[^annex3-lvlu1-13]: [[AS 1950 623](https://fedlex.data.admin.ch/eli/oc/1950/623_647_635), [1951 968](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)Art. 3, [1961 326](https://fedlex.data.admin.ch/eli/oc/1961/326_332_339), [1990 1645](https://fedlex.data.admin.ch/eli/oc/1990/1645_1645_1645), [1998 1533](https://fedlex.data.admin.ch/eli/oc/1998/1533_1533_1533)]
-[^annex3-lvlu1-14]: [[AS 1972 337](https://fedlex.data.admin.ch/eli/oc/1972/337_341_342), [1981 621](https://fedlex.data.admin.ch/eli/oc/1981/621_621_621), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 36, [2002 1366](https://fedlex.data.admin.ch/eli/oc/2002/206)]
+[^annex3-lvlu1-13]: [[AS 1950 623](https://fedlex.data.admin.ch/eli/oc/1950/623_647_635); [1951 968](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)Art. 3; [1961 326](https://fedlex.data.admin.ch/eli/oc/1961/326_332_339); [1990 1645](https://fedlex.data.admin.ch/eli/oc/1990/1645_1645_1645); [1998 1533](https://fedlex.data.admin.ch/eli/oc/1998/1533_1533_1533)]
+[^annex3-lvlu1-14]: [[AS 1972 337](https://fedlex.data.admin.ch/eli/oc/1972/337_341_342); [1981 621](https://fedlex.data.admin.ch/eli/oc/1981/621_621_621); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 36; [2002 1366](https://fedlex.data.admin.ch/eli/oc/2002/206)]
 [^annex3-lvlu1-15]: [[AS 1962 1113](https://fedlex.data.admin.ch/eli/oc/1962/1113_1153_1156)]
 [^annex3-lvlu1-16]: [[AS 1958 590](https://fedlex.data.admin.ch/eli/oc/1958/590_615_616)]
 [^annex3-lvlu1-17]: [[AS 1968 354](https://fedlex.data.admin.ch/eli/oc/1968/354_378_378)]
 [^annex3-lvlu1-18]: [[AS 1990 846](https://fedlex.data.admin.ch/eli/oc/1990/846_846_846)]
 [^annex3-lvlu1-19]: [[AS 2005 2205](https://fedlex.data.admin.ch/eli/oc/2005/368)]
-[^annex3-lvlu1-20]: [[AS 1966 753](https://fedlex.data.admin.ch/eli/oc/1966/753_781_773), **1987** 2367]
+[^annex3-lvlu1-20]: [[AS 1966 753](https://fedlex.data.admin.ch/eli/oc/1966/753_781_773); **1987** 2367]
 
 Anhang 4
 

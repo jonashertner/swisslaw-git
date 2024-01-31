@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)"
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: fr
-version: 2023-09-01
+version: 2024-02-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20240201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20230901/fr"
 
 (OD)
 
-du 1<sup>er</sup> novembre 2006 (État le 1<sup>er</sup> septembre 2023)
+du 1<sup>er</sup> novembre 2006 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -490,7 +490,7 @@ Les raisins et le vin importés qui dépassent la quantité fixée à l’al. 1 
   - 2\. supérieure à 100 hectolitres mais inférieure ou égale à 200 hectolitres, à la moitié,
   - 3\. supérieure à 200 hectolitres mais inférieure ou égale à 1000 hectolitres, à trois quarts.
 
-- [tab] <sup>3</sup> Le marc de raisin est soumis aux droits de douane.
+<sup>3</sup> Le marc de raisin est soumis aux droits de douane.
 
 #### Art. 25
 
@@ -1161,7 +1161,7 @@ Sont réputées réserves de marchandises pour les buffets de bord:
 
 <sup>2</sup> L’entreposage est régi par les dispositions applicables aux entrepôts douaniers ouverts.
 
-- [tab] <sup>3</sup> La préparation de mets et de boissons est autorisée.
+<sup>3</sup> La préparation de mets et de boissons est autorisée.
 
 ### Chapitre 3 Bases de la perception des droits
 
@@ -1300,7 +1300,8 @@ Dans la déclaration en douane, la personne assujettie à l’obligation de déc
 - b. fournir les indications nécessaires à l’exécution des actes législatifs de la Confédération autres que douaniers;
 - c. consigner la destination douanière des marchandises;
 - d.[^79-1] indiquer, lorsque la marchandise se trouve sous le régime de l’exportation ou est entreposée dans un entrepôt douanier ouvert ou dans un dépôt franc sous douane avant l’acheminement sur territoire douanier étranger, l’identité de l’acquéreur de la marchandise à exporter ainsi que celle de l’entrepositaire.
-- [tab] <sup>2</sup> Dans une procédure de déclaration à deux phases, elle doit le faire dans la première déclaration en douane.
+
+<sup>2</sup> Dans une procédure de déclaration à deux phases, elle doit le faire dans la première déclaration en douane.
 
 [^79-1]: Introduite par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
@@ -1561,8 +1562,9 @@ Les durées de conservation sont:
 
 <sup>1</sup> Les données et les documents peuvent être conservés sur support papier, sous forme électronique ou d’une façon comparable. Les données transmises par voie électronique doivent être conservées sous forme électronique.
 
-- [tab] <sup>2</sup> La concordance des données et des documents avec les opérations commerciales qui en constituent la base doit être garantie.
-- [tab] <sup>3</sup> Les données et les documents ne peuvent être modifiés que si les modifications sont identifiables.
+<sup>2</sup> La concordance des données et des documents avec les opérations commerciales qui en constituent la base doit être garantie.
+
+<sup>3</sup> Les données et les documents ne peuvent être modifiés que si les modifications sont identifiables.
 
 <sup>4</sup> Les preuves et les certificats d’origine doivent être conservés en original aussi longtemps que le prévoient les traités internationaux ou le droit fédéral.
 
@@ -2144,10 +2146,13 @@ L’OFDF suspend le statut d’AEO lorsqu’il constate ou a des motifs suffisan
 
 - a. que les conditions visées aux art. 112*b*, 112*e* et 112*g*, let. b à h, ne sont plus remplies;
 - b. qu’une personne visée à l’art. 112*d* est fortement soupçonnée d’une infraction grave poursuivie pénalement ou d’infractions répétées poursuivies pénalement au droit fédéral au sens de l’art. 112*d* ou 112*g*, let. a, dans la mesure où l’exécution incombe à l’OFDF;
-- c. que l’AEO:
-- 1\. ne peut plus justifier d’une situation financière saine lui permettant de remplir les obligations prises en charge, compte tenu du type d’activité commerciale,
-- 2\. a présenté une demande de concordat au sens de l’art. 293 LP ou a fait l’objet d’une réquisition de faillite au sens des art. 166 et 190 à 193 LP, ou qu’il
-- 3\. ne s’est pas acquitté des droits de douane dus et de tous les autres impôts, redevances et émoluments dus.
+- c.
+
+  que l’AEO:
+
+  - 1\. ne peut plus justifier d’une situation financière saine lui permettant de remplir les obligations prises en charge, compte tenu du type d’activité commerciale,
+  - 2\. a présenté une demande de concordat au sens de l’art. 293 LP ou a fait l’objet d’une réquisition de faillite au sens des art. 166 et 190 à 193 LP, ou qu’il
+  - 3\. ne s’est pas acquitté des droits de douane dus et de tous les autres impôts, redevances et émoluments dus.
 
 <sup>2</sup> Il suspend en outre le statut d’AEO lorsque l’AEO le demande.
 
@@ -3910,17 +3915,34 @@ Peuvent notamment être utilisés comme moyens d’autodéfense ou de contrainte
 
 #### Art. 228
 
-**Personnel de l’OFDF autre que celui du Corps des gardes-frontière**
+**Armement du personnel de l’OFDF autre que le personnel du Corps des gardes-frontière**[^228-1]
 
 ### (art. 106, al. 2, let. a et b, LD)
 
+<sup>1</sup>
+
 Le personnel suivant de l’OFDF autre que celui du Corps des gardes-frontière peut faire usage d’armes et d’autres moyens d’autodéfense ou de contrainte:
 
-- a.[^228-1] le personnel de la division principale Antifraude douanière;
+- a. le personnel de la division principale Antifraude douanière;
 - b. le personnel engagé dans le trafic touristique;
 - c. le personnel des équipes mobiles affecté aux contrôles sur le territoire douanier ou à domicile.
 
-[^228-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+<sup>2</sup>
+
+Le directeur de l’OFDF autorise tout membre du personnel visé à l’al. 1 à porter et à utiliser des armes et d’autres moyens d’autodéfense ou de contrainte si les conditions suivantes sont réunies:
+
+- a. la personne concernée peut être exposée à un danger particulier lors de l’accomplissement de ses tâches;
+- b. il n’existe aucun motif empêchant le port d’armes et d’autres moyens d’autodéfense ou de contrainte; constitue notamment un tel motif tout indice laissant présumer que la personne concernée présente une menace pour elle-même ou des tiers;
+- c. la personne concernée a suivi une formation spécifique au sens de l’art. 8 de la loi du 20 mars 2008 sur l’usage de la contrainte (LUsC)[^228-2].
+
+<sup>3</sup> Les personnes qui, au 31 décembre 2021, étaient employées par l’OFDF en tant que spécialistes de douane ou en tant que réviseurs ne sont pas tenues de porter une arme à feu. L’OFDF veille à ce que les personnes qui ne souhaitent pas porter d’arme à feu puissent assumer des tâches qui ne les exposent pas à un danger particulier.
+
+<sup>4</sup> Toute personne bénéficiant de l’autorisation visée à l’al. 2 doit participer aux formations au tir et à la sécurité prescrites ainsi qu’aux formations continues prescrites qui portent sur les points énumérés à l’art. 30 LUsC.
+
+<sup>5</sup> L’OFDF est responsable de l’organisation des formations au tir et à la sécurité. Il peut collaborer avec d’autres organes pour exécuter ses tâches.
+
+[^228-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^228-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
 
 #### Art. 229
 
@@ -3930,12 +3952,24 @@ Le personnel suivant de l’OFDF autre que celui du Corps des gardes-frontière 
 
 <sup>1</sup>
 
-L’usage d’armes et d’autres moyens d’autodéfense ou de contrainte est régi par les principes suivants:
+L’usage d’armes et d’autres moyens d’autodéfense ou de contrainte par le personnel du Corps des gardes-frontière et le personnel visé à l’art. 228, al. 1, est régi par les principes suivants:[^229-1]
 
 - a. l’usage doit être annoncé préalablement, pour autant que le but et les circonstances le permettent;
 - b. l’usage doit être nécessaire pour atteindre l’objectif visé et ne doit pas être disproportionné par rapport à ce dernier.
 
 <sup>2</sup> Les traitements cruels, dégradants ou humiliants sont interdits.
+
+[^229-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+
+#### Art. 229a
+
+**Conservation et retrait d’armes**[^229a-1]
+
+<sup>1</sup> L’OFDF veille à ce que les armes et les munitions soient conservées en lieu sûr.
+
+<sup>2</sup> Si des motifs empêchant le port d’une arme sont constatés chez une personne, le supérieur hiérarchique lui retire l’arme immédiatement. Le directeur de l’OFDF décide, après consultation du supérieur hiérarchique, si la personne concernée reste autorisée à porter une arme.
+
+[^229a-1]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 230
 
@@ -3967,11 +4001,13 @@ Le Corps des gardes-frontière et le personnel visé à l’art. 228 sont autori
 
 **Conditions régissant l’usage de l’arme à feu**
 
-### (art. 106, al. 1, let. c, et al. 2, let. b, LD)
+### (art. 106, al. 1, let. c, et 2, LD)
+
+[^232-1]
 
 <sup>1</sup>
 
-Le personnel du Corps des gardes-frontière peut faire usage de l’arme à feu au sens de l’art. 106, al. 1, let. c, LD:
+Le personnel du Corps des gardes-frontière et le personnel visé à l’art. 228, al. 1, ne peuvent faire usage de l’arme à feu dans le cas visé à l’art. 106, al. 1, let. c, LD que:[^232-2]
 
 - a. lorsque des personnes ayant commis une infraction grave ou fortement soupçonnées d’avoir commis une telle infraction tentent de se soustraire par la fuite à une arrestation ou à une détention déjà réalisée;
 - b. lorsque, compte tenu d’informations ou de constatations personnelles, il peut ou doit admettre que des personnes représentent une menace immédiate pour la vie et l’intégrité corporelle d’autrui et tentent de se soustraire par la fuite à une arrestation;
@@ -3980,6 +4016,9 @@ Le personnel du Corps des gardes-frontière peut faire usage de l’arme à feu 
 <sup>2</sup> Un tir de sommation ne peut être effectué sans avertissement (art. 229, al. 1, let. a) que si les circonstances annulent l’effet de ce dernier.
 
 <sup>3</sup> Tout usage de l’arme à feu doit faire l’objet d’un rapport à l’autorité compétente.
+
+[^232-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^232-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 233
 
