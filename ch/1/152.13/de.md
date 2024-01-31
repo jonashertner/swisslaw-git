@@ -3,18 +3,18 @@ sr: "152.13"
 title: Reglement vom 9. Dezember 2010 über die Archivierung beim Bundesverwaltungsgericht
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/209"
 language: de
-version: 2011-05-01
+version: 2024-02-01
 adopted: 2010-12-09
 in_force: 2011-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/209/20110501/de/xml/fedlex-data-admin-ch-eli-cc-2011-209-20110501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/209/20110501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/209/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2011-209-20240201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/209/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Reglement über die Archivierung beim Bundesverwaltungsgericht
 
-vom 9. Dezember 2010 (Stand am 1. Mai 2011)
+vom 9. Dezember 2010 (Stand am 1. Februar 2024)
 
 Das Bundesverwaltungsgericht,
 
@@ -170,9 +170,11 @@ Einsicht in die Prozessakten während der Schutzfrist kann insbesondere gewährt
 
 **Entscheid**
 
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär entscheidet über Gesuche um Ein- sichtnahme in das Archivgut. Sie oder er hört vorher die zuständige Abteilung an.
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär entscheidet über Gesuche um Einsichtnahme in das Archivgut. Im Zweifelsfall hört sie oder er vorgängig die für das betreffende Dokument vormals zuständige Stelle an.[^12-1]
 
 <sup>2</sup> Die Verweigerung oder Einschränkung der Einsichtnahme ist zu begründen. Auf Verlangen ist eine anfechtbare Verfügung zu erlassen.
+
+[^12-1]: Fassung gemäss Ziff. I der V des BVGer vom 12. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 11](https://fedlex.data.admin.ch/eli/oc/2024/11)).
 
 #### Art. 13
 

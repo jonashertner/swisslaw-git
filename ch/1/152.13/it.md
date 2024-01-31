@@ -3,18 +3,18 @@ sr: "152.13"
 title: "Regolamento del 9 dicembre 2010 del Tribunale amministrativo federale concernente l'archiviazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/209"
 language: it
-version: 2011-05-01
+version: 2024-02-01
 adopted: 2010-12-09
 in_force: 2011-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/209/20110501/it/xml/fedlex-data-admin-ch-eli-cc-2011-209-20110501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/209/20110501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/209/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2011-209-20240201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/209/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento del Tribunale amministrativo federale concernente l’archiviazione
 
-del 9 dicembre 2010 (Stato 1° maggio 2011)
+del 9 dicembre 2010 (Stato 1° febbraio 2024)
 
 Il Tribunale amministrativo federale,
 
@@ -170,9 +170,11 @@ La consultazione degli atti di un processo durante il termine di protezione può
 
 **Decisione**
 
-<sup>1</sup> Il segretario generale decide in merito alla domanda di consultazione degli archivi. Prima di decidere, consulta la Corte competente.
+<sup>1</sup> Il segretario generale decide in merito alla domanda di consultazione degli archivi. In caso di dubbi, consulta dapprima il servizio precedentemente responsabile del documento in questione.[^12-1]
 
 <sup>2</sup> Il rifiuto o la limitazione del diritto di consultazione necessita una motivazione. Su richiesta è pronunciata una decisione impugnabile.
+
+[^12-1]: Nuovo testo giusta il n. I del R del TAF del 12 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 11](https://fedlex.data.admin.ch/eli/oc/2024/11)).
 
 #### Art. 13
 

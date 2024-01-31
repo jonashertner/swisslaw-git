@@ -3,18 +3,18 @@ sr: "152.13"
 title: "Règlement du 9 décembre 2010 sur l'archivage au Tribunal administratif fédéral"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/209"
 language: fr
-version: 2011-05-01
+version: 2024-02-01
 adopted: 2010-12-09
 in_force: 2011-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/209/20110501/fr/xml/fedlex-data-admin-ch-eli-cc-2011-209-20110501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/209/20110501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/209/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2011-209-20240201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/209/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement sur l’archivage au Tribunal administratif fédéral
 
-du 9 décembre 2010 (État le 1<sup>er</sup> mai 2011)
+du 9 décembre 2010 (État le 1<sup>er</sup> février 2024)
 
 Le Tribunal administratif fédéral,
 
@@ -170,9 +170,11 @@ La consultation des actes des procédures pendant le délai de protection peut n
 
 **Décision**
 
-<sup>1</sup> Le secrétaire général statue sur la demande de consultation des archives. Il entend la cour concernée avant de prendre sa décision.
+<sup>1</sup> Le secrétaire général statue sur la demande de consultation des archives. En cas de doute, il entend au préalable le service anciennement responsable du document concerné.[^12-1]
 
 <sup>2</sup> Le refus ou la limitation du droit de consultation doivent être motivés. Sur demande, une décision sujette à recours est rendue.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du TAF du 12 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 11](https://fedlex.data.admin.ch/eli/oc/2024/11)).
 
 #### Art. 13
 
