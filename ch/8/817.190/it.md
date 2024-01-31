@@ -4,11 +4,11 @@ title: Ordinanza del 16 dicembre 2016 concernente la macellazione e il controllo
 short: OMCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: it
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20240201-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,25 +17,26 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/it"
 
 (OMCC)
 
-del 16 dicembre 2016 (Stato 1° giugno 2022)
+del 16 dicembre 2016 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 9 capoversi 2 e 3, 10 capoversi 3 e 4, 31 capoversi 3 e 4, 32 capoverso 1 e 44 della legge del 20 giugno 2014[^ingress-1] sulle derrate alimentari (LDerr), visti gli articoli 22 e 53 capoversi 1 e 3 della legge del 1° luglio 1966[^ingress-2] sulle epizoozie,[^ingress-3]
+visti gli articoli 9 capoversi 2 e 3, 10 capoversi 3 e 4, 31 capoversi 3 e 4, 32 capoverso 1, 44 e 58 capoverso 6 della legge del 20 giugno 2014[^ingress-1] sulle derrate alimentari (LDerr); visto l’articolo 41 capoverso 3 della legge federale del 16 dicembre 2005[^ingress-2] sulla protezione degli animali; visti gli articoli 22 e 53 capoversi 1 e 3 della legge del 1° luglio 1966[^ingress-3] sulle epizoozie,[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-3]: Nuovo testo giusta l’all. n. 1 dell’O del 31 ott. 2018 , in vigore dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^ingress-2]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
-## Capitolo 1: Oggetto, campo d’applicazione e definizioni****
+## Capitolo 1: Oggetto, campo d’applicazione e definizioni
 
 [^chap1-1]
 
 [^chap1-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
-### Sezione 1: Oggetto e campo d’applicazione****
+### Sezione 1: Oggetto e campo d’applicazione
 
 [^chap1-sec1-1]
 
@@ -49,8 +50,15 @@ ordina:
 
 La presente ordinanza disciplina:
 
-- a. i requisiti relativi ai macelli, agli stabilimenti per la lavorazione della selvaggina e alla macellazione;
-- b. i requisiti relativi agli animali destinati alla macellazione;
+- a.[^1-2]
+
+  i requisiti relativi:
+
+  - 1\. ai macelli, agli stabilimenti per la lavorazione della selvaggina e alle aziende nelle quali si eseguono macellazioni occasionali,
+  - 2\. alla macellazione,
+  - 3\. agli animali destinati alla macellazione;
+
+- b.[^1-3] …
 - c. il controllo degli animali da macello e il controllo delle carni;
 - d. la produzione di derrate alimentari a partire dalla selvaggina cacciata e da animali diversi dai mammiferi e dagli uccelli.
 
@@ -59,13 +67,15 @@ La presente ordinanza disciplina:
 Non si applica:
 
 - a. alla macellazione e alla trasformazione di bestiame da macello, volatili da cortile, conigli domestici, selvaggina d’allevamento e ratiti, se la macellazione e la trasformazione della carcassa avvengono nell’effettivo di provenienza per uso domestico privato;
-- b. all’affettatura, al sezionamento e alla trasformazione della selvaggina cacciata per uso domestico privato.[^1-2]
+- b. all’affettatura, al sezionamento e alla trasformazione della selvaggina cacciata per uso domestico privato.[^1-4]
 
-<sup>3</sup> Se la presente ordinanza non dispone altrimenti, si applicano le disposizioni dell’ordinanza del 16 dicembre 2016[^1-3] sulle derrate alimentari e gli oggetti d’uso (ODerr).
+<sup>3</sup> Se la presente ordinanza non dispone altrimenti, si applicano le disposizioni dell’ordinanza del 16 dicembre 2016[^1-5] sulle derrate alimentari e gli oggetti d’uso (ODerr).
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^1-3]: Abrogata dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^1-4]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^1-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -82,12 +92,12 @@ Qualora un Paese destinatario ponga esigenze particolari in merito all’esporta
 Nella presente ordinanza si intende per:
 
 - a.[^3-1] *animali*: il bestiame da macello, i volatili da cortile, i conigli domestici, i ratiti, la selvaggina d’allevamento e cacciata, i pesci e altre specie ammessi dal Dipartimento federale dell’interno (DFI) per la produzione di derrate alimentari ai sensi dell’articolo 9 ODerr[^3-2];
-- b. *bestiame da macello:* gli animali della specie bovina, ovina, caprina, suina ed equina e gli altri animali domestici delle famiglie zoologiche dei *Bovidae* (bovidi), *Cervidae* (cervidi), *Camelidae* (camelidi), *Suidae* (suidi) ed *Equidae* (equidi);
+- b.[^3-3] *bestiame da macello:* gli animali della specie bovina, ovina, caprina, suina ed equina e gli altri animali domestici delle famiglie zoologiche dei *Bovidae* (bovidi), *Cervidae* (cervidi) e *Camelidae* (camelidi);
 - c. *volatili da cortile:* galline, tacchini, galline faraone, oche, anatre, piccioni, quaglie d’allevamento;
-- d. *ratiti:* struzzi;
+- d.[^3-4] *ratiti:* gli animali appartenenti all’ordine degli *Struthioniformes*, come struzzi, nandù ed emù;
 - e. *selvaggina d’allevamento*: la selvaggina detenuta in cattività all’interno di recinti; inclusi i camelidi (*Camelidae*), i bisonti (*Bos bison*) e la selvaggina d’allevamento biungulata dell’ordine degli artiodattili (*Artiodactyla*);
 - f. *selvaggina cacciata:* selvaggina in libertà abbattuta allo scopo di produrre derrate alimentari;
-- g. *carcassa:* il corpo di un animale dopo lo stordimento e l’uccisione o l’abbattimento;
+- g.[^3-5] *carcassa:* il corpo non scuoiato o scuoiato di un animale dopo lo stordimento e l’uccisione o l’abbattimento;
 - h.
 
   *prodotto della macellazione:* sottoprodotto della macellazione idoneo al consumo:
@@ -100,32 +110,40 @@ Nella presente ordinanza si intende per:
   *parti della carcassa:*
 
   - 1\. i prodotti della macellazione,
-  - 2\. i sottoprodotti di origine animale secondo l’articolo 3 lettera b dell’ordinanza del 25 maggio 2011[^3-3] concernente l’eliminazione dei sottoprodotti di origine animale;
+  - 2\.[^3-6] i sottoprodotti di origine animale secondo l’articolo 3 lettera b dell’ordinanza del 25 maggio 2011[^3-7] concernente i sottoprodotti di origine animale;
 
-- j. *materiale a rischio specificato:* i sottoprodotti di origine animale secondo gli articoli 179*d* capoverso 1 e 180*c* capoverso 1 dell’ordinanza del 27 giugno 1995[^3-4] sulle epizoozie (OFE);
+- j. *materiale a rischio specificato:* i sottoprodotti di origine animale secondo gli articoli 179*d* capoverso 1 e 180*c* capoverso 1 dell’ordinanza del 27 giugno 1995[^3-8] sulle epizoozie (OFE);
 - k. *macello:* stabilimento per la macellazione di animali o per la produzione di carne a partire da animali diversi dai mammiferi e dagli uccelli;
 - l. *grande azienda:* stabilimento che non è considerato azienda con un’esigua capacità produttiva;
-- m.[^3-5]
+- m.[^3-9]
 
   *azienda con un’esigua capacità produttiva*: azienda nella quale in un anno:
 
-  - 1\. si macellano meno di 1500 unità di macellazione di animali delle specie bovina, ovina, caprina, suina ed equina, calcolate conformemente all’articolo 3 capoverso 2 dell’ordinanza del 26 novembre 2003[^3-6] sul bestiame da macello; sono considerati agnelli e capretti gli animali fino a un’età di 12 mesi, oppure
-  - 2\. la quantità di carne risultante dalla macellazione di altri animali non supera 60 000 kg;
+  - 1\. si macellano meno di 1500 unità di macellazione di animali delle specie bovina, ovina, caprina, suina ed equina, calcolate conformemente all’articolo 3 capoverso 2 dell’ordinanza del 26 novembre 2003[^3-10] sul bestiame da macello; sono considerati agnelli e capretti gli animali fino a un’età di 12 mesi,
+  - 2\.[^3-11] si macellano al massimo 150 000 fra volatili da cortile e conigli domestici e il peso di macellazione risultante non supera i 200 000 kg, oppure
+  - 3\.[^3-12] il peso di macellazione risultante dalla macellazione di altri animali non supera i 200 000 kg;
 
 - n. *macellazione:* l’uccisione e il sezionamento di un animale in massimo sei parti nonché lo scuoiamento o la spiumatura e il sezionamento della selvaggina cacciata abbattuta in massimo sei parti allo scopo di ottenere prodotti alimentari;
 - o. *stabilimento per la lavorazione della selvaggina*: macello o altra azienda alimentare soggetta ad autorizzazione in cui la selvaggina cacciata e di allevamento viene macellata, ma non ulteriormente sezionata e lavorata;
-- p. *macellazione occasionale:* la macellazione, in una settimana, di meno di 10 animali fra volatili da cortile, conigli domestici o ratiti e la produzione di al massimo 1000 kg all’anno;
-- q.[^3-7] *uccisione in azienda per la produzione di carne*: stordimento e dissanguamento di animali nell’effettivo di provenienza per la produzione di carne;
-- r.[^3-8] *uccisione al pascolo per la produzione di carne*: abbattimento e dissanguamento di animali in un pascolo nell’effettivo di provenienza per la produzione di carne.
+- p.[^3-13] *macellazione occasionale:* la macellazione di volatili da cortile e conigli domestici limitata a 10 animali di ciascuna categoria in una settimana e a un peso di macellazione di 1000 kg in un anno;
+- q.[^3-14] *uccisione in azienda per la produzione di carne*: stordimento e dissanguamento di animali nell’effettivo di provenienza per la produzione di carne;
+- r.[^3-15] *uccisione al pascolo per la produzione di carne*: abbattimento e dissanguamento di animali in un pascolo nell’effettivo di provenienza per la produzione di carne.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^3-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-5]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-6]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
-[^3-7]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-8]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-5]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-6]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-7]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^3-8]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^3-9]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-10]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^3-11]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-12]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-13]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-14]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-15]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 ## Capitolo 2: Macelli e stabilimenti per la lavorazione della selvaggina
 
@@ -187,9 +205,29 @@ L’autorizzazione d’esercizio può essere revocata, qualora:
 [^6-3]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^6-4]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
+## Capitolo 2*a*: Obblighi di notifica e di autorizzazione per i detentori di animali
+
+[^chap2a-1]
+
+[^chap2a-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 6a
+
+**Macellazioni occasionali**
+
+<sup>1</sup> Possono essere eseguite macellazioni occasionali soltanto nella propria azienda.
+
+<sup>2</sup> I detentori di animali che eseguono macellazioni occasionali devono notificarlo all’autorità cantonale competente.
+
+#### Art. 6b
+
+**Uccisioni in azienda e al pascolo**
+
+I detentori di animali che eseguono uccisioni in azienda di bestiame da macello o uccisioni al pascolo di bovini ai sensi dell’articolo 9*a* devono richiedere in via preliminare un’autorizzazione all’autorità cantonale competente.
+
 ## Capitolo 3: Macellazione e igiene della macellazione
 
-### Sezione 1: Requisiti relativi agli animali e divieto di macellazione****
+### Sezione 1: Requisiti relativi agli animali e divieto di macellazione
 
 [^chap3-sec1-1]
 
@@ -217,7 +255,7 @@ Chiunque detenga animali destinati alla macellazione deve provvedere affinché s
 
 <sup>1</sup>
 
-Non possono essere macellati o uccisi per produrre derrate alimentari:
+Non possono essere macellati né uccisi per produrre derrate alimentari:[^8-1]
 
 - a. animali di età inferiore ai sette giorni;
 - b. volatili da cortile, conigli domestici, selvaggina d’allevamento e cacciata, ratiti e altri animali che sono manifestamente malati;
@@ -236,6 +274,8 @@ Non possono essere macellati o uccisi per produrre derrate alimentari:
 
 <sup>5</sup> Per la macellazione o l’uccisione di animali secondo i capoversi 3 e 4 fanno stato le disposizioni di cui all’articolo 10.
 
+[^8-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 ### Sezione 2: Luogo di macellazione
 
 #### Art. 9
@@ -247,8 +287,8 @@ Non possono essere macellati o uccisi per produrre derrate alimentari:
 Al di fuori dei macelli autorizzati sono ammessi:[^9-1]
 
 - a.[^9-2] lo stordimento e il dissanguamento di bestiame da macello malato e infortunato se il trasporto degli animali vivi non è opportuno;
-- b. le macellazioni occasionali di volatili da cortile, conigli domestici e ratiti;
-- c.[^9-3] le uccisioni in azienda e al pascolo per la produzione di carne autorizzate, compresa l’uccisione al pascolo per la produzione di carne della selvaggina d’allevamento.
+- b.[^9-3] le macellazioni occasionali;
+- c.[^9-4] le uccisioni in azienda e al pascolo autorizzate per la produzione di carne.
 
 <sup>3</sup> Se la selvaggina d’allevamento viene uccisa e dissanguata all’aperto, successivamente deve essere trasportata in un macello o in uno stabilimento per la lavorazione della selvaggina. Se viene eviscerata all’aperto, i visceri (frattaglie delle cavità toracica, addominale e pelvica) devono essere contrassegnati e sottoposti al controllo delle carni insieme alla carcassa.
 
@@ -258,9 +298,10 @@ Al di fuori dei macelli autorizzati sono ammessi:[^9-1]
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^9-2]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^9-3]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^9-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9-4]: Introdotta dal n. I dell’O del 27 mag. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
-### Sezione 2*a*:**** Uccisione in azienda e uccisione al pascolo per la produzione di carne
+### Sezione 2*a*: Uccisione in azienda e uccisione al pascolo per la produzione di carne
 
 [^chap3-sec2a-1]
 
@@ -268,30 +309,30 @@ Al di fuori dei macelli autorizzati sono ammessi:[^9-1]
 
 #### Art. 9a
 
-<sup>1</sup> Lʼuccisione in azienda per la produzione di carne è ammessa per il bestiame da macello, l’uccisione al pascolo per la produzione di carne è ammessa per gli animali della specie bovina a partire da quattro mesi di vita e per la selvaggina d’allevamento.
+[^9a-1]
+
+<sup>1</sup> L’uccisione in azienda per la produzione di carne è ammessa per il bestiame da macello, l’uccisione al pascolo per la produzione di carne è ammessa per gli animali della specie bovina a partire da quattro mesi di vita.
 
 <sup>2</sup>
 
-I detentori di animali che effettuano l’uccisione in azienda o al pascolo per la produzione di carne necessitano di un’autorizzazione dell’autorità cantonale competente. Questa autorizzazione è rilasciata alle seguenti condizioni:
+Il detentore di animali garantisce che siano rispettati i requisiti della legislazione sulla protezione degli animali per lo stordimento e il dissanguamento degli animali eseguiti da una persona esperta ai sensi dell’articolo 177 capoverso 1<sup>bis</sup> dell’ordinanza del 23 aprile 2008[^9a-2] sulla protezione degli animali; in particolare deve provvedere affinché:
 
-- a.
+- a. in caso di uccisione in azienda per la produzione di carne, gli animali vengano immobilizzati, storditi e dissanguati in una struttura adeguata;
+- b. in caso di uccisione al pascolo per la produzione di carne, gli animali vengano abbattuti e dissanguati nel rispetto delle condizioni di sicurezza;
+- c. il successo dello stordimento, il dissanguamento sufficiente e il sopraggiungere del decesso siano controllati e vengano adottate misure immediate se lo stordimento o il dissanguamento non siano stati eseguiti correttamente.
 
-  il detentore di animali garantisce che siano rispettati i requisiti della legislazione sulla protezione degli animali per lo stordimento e il dissanguamento degli animali; in particolare deve provvedere affinché:
+<sup>3</sup> Dopo lo stordimento e il dissanguamento, gli animali sono trasportati in un macello prestabilito nelle vicinanze in cui vengono immediatamente eviscerati ed è portata a termine la macellazione; sul documento di accompagnamento devono essere registrati il momento dello stordimento e del dissanguamento.
 
-  - 1\. in caso di uccisione in azienda per la produzione di carne, gli animali vengano immobilizzati in una struttura adeguata e storditi e dissanguati da una persona esperta ai sensi dell’articolo 177 capoverso 1<sup>bis</sup> dell’ordinanza del 23 aprile 2008[^9a-1] sulla protezione degli animali (OPAn),
-  - 2\. in caso di uccisione al pascolo per la produzione di carne, gli animali vengano abbattuti e dissanguati nel rispetto delle condizioni di sicurezza da una persona esperta ai sensi dell’articolo 177 capoverso 1<sup>bis</sup> OPAn,
-  - 3\. il successo dello stordimento, il dissanguamento sufficiente e il sopraggiungere del decesso siano controllati e vengano adottate misure immediate se lo stordimento o il dissanguamento non siano stati eseguiti correttamente;
+<sup>4</sup> Il detentore di animali garantisce il rispetto dei requisiti igienici in materia di uccisione; in particolare provvede a raccogliere il sangue fuoriuscito e a trasportarlo al macello insieme alle carcasse.
 
-- b. dopo il dissanguamento, gli animali sono trasportati in un macello prestabilito dove la macellazione viene terminata; sul documento di accompagnamento deve essere registrato il momento dello stordimento e del dissanguamento;
-- c. il detentore degli animali garantisce il rispetto dei requisiti igienici in materia di macellazione; in particolare provvede a raccogliere il sangue fuoriuscito e a trasportarlo al macello insieme alle carcasse.
+<sup>5</sup> Il detentore di animali deve documentare chi esegue lo stordimento e il dissanguamento degli animali nei singoli casi. Inoltre, deve documentare in modo comprensibile eventuali problemi avvenuti al momento dello stordimento e del dissanguamento e le misure adottate per porvi rimedio.
 
-<sup>3</sup> Il detentore di animali deve documentare chi esegue lo stordimento e il dissanguamento degli animali nei singoli casi. Inoltre, deve documentare in modo comprensibile eventuali problemi avvenuti al momento dello stordimento e del dissanguamento e le misure adottate per porvi rimedio.
+<sup>6</sup> In caso di uccisione in azienda per la produzione di carne, lo stordimento e il dissanguamento degli animali devono essere sorvegliati a campione, ma almeno una volta all’anno per azienda, da un veterinario ufficiale.
 
-<sup>4</sup> In caso di uccisione in azienda per la produzione di carne, lo stordimento e il dissanguamento del bestiame da macello devono essere sorvegliati a campione, ma almeno una volta all’anno per azienda, da un veterinario ufficiale.
+<sup>7</sup> In caso di uccisione al pascolo per la produzione di carne, l’abbattimento e il dissanguamento degli animali devono essere sorvegliati da un veterinario ufficiale.
 
-<sup>5</sup> In caso di uccisione al pascolo per la produzione di carne, l’abbattimento e il dissanguamento degli animali devono essere sempre sorvegliati da un veterinario ufficiale.
-
-[^9a-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9a-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 ### Sezione 3: Bestiame da macello malato o infortunato e selvaggina infortunata
 
@@ -339,18 +380,24 @@ L’azienda deve provvedere affinché persone estranee all’azienda non accedan
 
 <sup>1</sup> I macelli e gli stabilimenti per la lavorazione della selvaggina devono provvedere affinché gli animali non destinati alla macellazione o la cui macellazione è vietata non abbiano accesso all’azienda.
 
-<sup>2</sup> In deroga al capoverso 1, gli equidi, designati come animali domestici ai sensi dell’articolo 15 capoverso 2 dell’ordinanza del 18 agosto 2004[^14-1] sui medicamenti veterinari, hanno accesso alle aziende con un’esigua capacità produttiva se devono esservi uccisi ed eliminati in conformità con l’ordinanza del 25 maggio 2011[^14-2] concernente l’eliminazione dei sottoprodotti di origine animale.
+<sup>1bis</sup> Le aziende nelle quali si eseguono macellazioni occasionali devono provvedere affinché gli animali non destinati alla macellazione o la cui macellazione è vietata non abbiano accesso ai locali di macellazione.[^14-1]
+
+<sup>2</sup> In deroga al capoverso 1, gli animali della specie equina, designati come animali domestici ai sensi dell’articolo 15 capoverso 2 dell’ordinanza del 18 agosto 2004[^14-2] sui medicamenti veterinari, possono avere accesso alle aziende con un’esigua capacità produttiva se devono esservi uccisi in tempi diversi da altri animali ed eliminati in conformità con l’ordinanza del 25 maggio 2011[^14-3] concernente i sottoprodotti di origine animale.[^14-4]
 
 <sup>3</sup> Gli animali scaricati in un determinato macello devono esservi macellati. Il veterinario cantonale può, in via eccezionale, autorizzarne il trasporto in un altro luogo.
 
-[^14-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^14-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^14-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^14-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^14-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^14-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 15
 
-**Protezione contro gli animali infestanti**
+**Protezione contro gli animali infestanti**[^15-1]
 
-Gli animali infestanti (insetti, roditori, ecc.) devono essere tenuti lontani dai macelli e dagli stabilimenti per la lavorazione della selvaggina con misure adeguate.
+Gli animali infestanti, come gli insetti e i roditori, devono essere tenuti lontani dai macelli, dagli stabilimenti per la lavorazione della selvaggina e dai locali di macellazione delle aziende nelle quali si eseguono macellazioni occasionali con misure adeguate.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 16
 
@@ -364,19 +411,30 @@ Gli animali infestanti (insetti, roditori, ecc.) devono essere tenuti lontani da
 
 <sup>4</sup> La carne sequestrata e i sottoprodotti di origine animale non possono entrare in contatto con le carcasse e i prodotti della macellazione.
 
-<sup>5</sup> Il DFI disciplina le misure d’igiene nei macelli e negli stabilimenti per la lavorazione della selvaggina.
+<sup>5</sup> Il DFI disciplina le misure d’igiene nei macelli, negli stabilimenti per la lavorazione della selvaggina e nelle aziende nelle quali si eseguono macellazioni occasionali.[^16-2]
 
 [^16-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^16-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 17
 
 **Refrigerazione**
 
-<sup>1</sup> Al più tardi dopo il controllo delle carni, la carcassa e i prodotti della macellazione devono essere refrigerati, sempreché non debbano essere sezionati a caldo. La diminuzione della temperatura deve essere continua; la temperatura di refrigerazione non deve essere superiore a 7° C per le carcasse, 4° C per i volatili da cortile e i conigli domestici e 3° C per i prodotti della macellazione.
+<sup>1</sup>
+
+Le carcasse e i prodotti della macellazione devono essere refrigerati, sempreché non debbano essere sezionati e lavorati a temperatura di macellazione:
+
+- a. in caso di macellazione in macelli e stabilimenti per la lavorazione della selvaggina: al più tardi dopo il controllo delle carni;
+- b. nelle aziende nelle quali si eseguono macellazioni occasionali: immediatamente dopo la macellazione.[^17-1]
+
+<sup>1bis</sup> La diminuzione della temperatura deve essere continua; la temperatura di refrigerazione non deve essere superiore a 7° C per le carcasse, 4° C per i volatili da cortile e i conigli domestici e 3° C per i prodotti della macellazione.[^17-2]
 
 <sup>2</sup> Durante le operazioni di refrigerazione, un’adeguata aerazione deve garantire che sulle carni non si formi acqua di condensazione.
 
 <sup>3</sup> Le carcasse e i prodotti della macellazione a temperatura di macellazione possono essere trasportati non refrigerati dal macello o dallo stabilimento per la lavorazione della selvaggina al luogo in cui saranno trasformati a condizione che il trasporto non duri più di due ore.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^17-2]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 18
 
@@ -388,12 +446,13 @@ Gli animali, le carcasse e i prodotti della macellazione non possono subire un t
 
 - a. i metodi di stordimento conformi alla legislazione sulla protezione degli animali;
 - b. l’elettrostimolazione delle carcasse;
-- c. l’impiego di coadiuvanti tecnologici, disciplinati dal DFI ai sensi dell’articolo 24 ODerr[^18-1], per la scottatura dei suini e la spiumatura dei volatili;
+- c.[^18-1] l’impiego di coadiuvanti tecnologici, disciplinati dal DFI ai sensi dell’articolo 24 ODerr[^18-2], per la scottatura dei suini e la spiumatura dei volatili da cortile e dei ratiti;
 - d. l’insufflazione di aria negli ovini e nei caprini per agevolare lo scuoiamento.
 
 <sup>2</sup> Sono fatti salvi i procedimenti disciplinati dal DFI ai sensi dell’articolo 29 ODerr.
 
-[^18-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^18-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^18-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 19
 
@@ -401,21 +460,25 @@ Gli animali, le carcasse e i prodotti della macellazione non possono subire un t
 
 <sup>1</sup>
 
-L’azienda deve assicurare una sorveglianza sistematica dell’igiene. La sorveglianza comprende segnatamente:
+I macelli e gli stabilimenti per la lavorazione della selvaggina devono assicurare una sorveglianza sistematica dell’igiene. La sorveglianza comprende segnatamente:
 
 - a. controlli igienici effettuati quotidianamente;
 - b. analisi microbiologiche delle carcasse, delle superfici delle apparecchiature e delle installazioni in base al rischio secondo le disposizioni emanate dal DFI in virtù dell’articolo 10 capoverso 4 ODerr[^19-2];
 - c. la rilevazione ininterrotta della temperatura nei locali con un volume superiore a 200 m<sup>3</sup> nei quali è conservata la carne refrigerata o congelata.
 
-<sup>2</sup> La norma «ISO 17604: 2015, Microbiologia della catena alimentare – Campionamento delle carcasse per analisi microbiologica»[^19-3] vale quale procedura di riferimento per il prelievo di campioni dalle carcasse.
+<sup>2</sup> La norma «SN EN ISO 17604:2015 Microbiologia della catena alimentare – Campionamento delle carcasse per analisi microbiologica»[^19-3] vale quale procedura di riferimento per il prelievo di campioni dalle carcasse.
 
-<sup>3</sup> L’azienda deve conservare i risultati dei controlli d’igiene e delle analisi microbiologiche in base al rischio per tre anni e presentarli su richiesta agli organi ufficiali di controllo.
+<sup>3</sup> Le aziende devono conservare i risultati dei controlli d’igiene e delle analisi microbiologiche in base al rischio per tre anni e presentarli su richiesta agli organi di esecuzione ufficiali.
 
-<sup>4</sup> Per il resto si applicano le disposizioni in materia di controllo autonomo di cui agli articoli 73–85 ODerr.
+<sup>4</sup> In aziende nelle quali si eseguono macellazioni occasionali i detentori di animali devono disporre di un sistema di controllo autonomo adeguato alle dimensioni della loro azienda e al volume delle macellazioni.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+<sup>5</sup> Nel quadro del controllo autonomo devono tenere un registro di macellazione che riporti almeno la data, la specie e il numero di animali macellati. Il registro di macellazione deve essere trasmesso entro il 31 gennaio dell’anno successivo all’autorità di esecuzione cantonale competente.
+
+<sup>6</sup> Per il resto si applicano le disposizioni in materia di controllo autonomo di cui agli articoli 73–85 ODerr.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^19-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^19-3]: Il testo di questa norma può essere consultato e richiesto presso il Centro svizzero d’informazione sulle regole tecniche (SNV), Sulzerallee 70, Casella postale, CH-8404 Winterthur; www.snv.ch.
+[^19-3]: Il testo di questa norma può essere consultato e richiesto presso il Centro svizzero d’informazione sulle regole tecniche (SNV), Sulzerallee 70, Casella postale, CH-8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 19a
 
@@ -461,7 +524,11 @@ Una persona esperta è colui che ha frequentato un corso in cui ha acquisito noz
 
 <sup>2</sup> Il veterinario cantonale autorizza in via preliminare i programmi e la documentazione dei corsi e può verificarne lo svolgimento e la qualità.
 
-### Sezione 5: Notifica per la macellazione e controllo delle entrate
+### Sezione 5: Notifica per la macellazione e il controllo delle entrate nei macelli e negli stabilimenti per la lavorazione della selvaggina
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 22
 
@@ -480,9 +547,10 @@ I detentori di animali da macello, volatili da cortile, conigli domestici, selva
 - g. i risultati di precedenti controlli del bestiame da macello e di controlli delle carni su altri animali dello stesso effettivo di provenienza;
 - h. il nome e il cognome del veterinario abitualmente consultato.
 
-<sup>2</sup> I veterinari ufficiali possono chiedere ai detentori di animali di completare con ulteriori dati le informazioni di cui al capoverso 1.
+<sup>2</sup> Gli organi di esecuzione ufficiali possono chiedere ai detentori di animali di completare con ulteriori dati le informazioni di cui al capoverso 1.[^22-2]
 
 [^22-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^22-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 23
 
@@ -501,9 +569,11 @@ La notifica degli animali al macello deve riportare almeno le seguenti informazi
 
 <sup>3</sup> L’USAV può prescrivere che vengano fornite ulteriori informazioni riguardanti la catena alimentare.
 
-<sup>4</sup> Le informazioni devono essere messe a disposizione del veterinario ufficiale senza indugio.
+<sup>4</sup> Le informazioni devono essere messe a disposizione degli organi di esecuzione ufficiali[^23-1] senza indugio.
 
 <sup>5</sup> Il macello deve coordinare la consegna degli animali in modo da non ammetterne più di quanti possano essere macellati o accolti.
+
+[^23-1]: Nuova espressione giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 
 #### Art. 24
 
@@ -530,17 +600,18 @@ La dichiarazione sanitaria per i volatili da cortile deve essere effettuata da 7
 - e. la data di stabulazione e il numero degli animali stabulati;
 - f. la data di uscita dal pollaio e il numero degli animali trasferiti;
 - g. il tasso di mortalità degli animali durante l’ingrasso;
-- h. il risultato dell’analisi dei campioni prelevati dall’avicoltore per la ricerca di infezioni da *Salmonella* secondo l’articolo 257 capoverso 2 lettera c OFE[^24-4].
+- h.[^24-4] il risultato dell’analisi dei campioni prelevati dal detentore di volatili da cortile per la ricerca di infezioni da *Salmonella* secondo l’articolo 257*a* capoverso 1 lettera c OFE[^24-5].
 
 <sup>4</sup> La comparsa di eventi particolari nel periodo compreso tra l’invio della dichiarazione sanitaria e l’arrivo degli animali al macello deve essere comunicata oralmente al veterinario ufficiale.
 
-<sup>5</sup> Se è prescritto un certificato d’accompagnamento secondo l’articolo 12 OFE, la dichiarazione sanitaria effettuata dal detentore di animali deve figurare su tale documento. Per gli equidi deve figurare sul passaporto per equide. Per gli equidi macellati prima del 31 dicembre del rispettivo anno di nascita, queste indicazioni vanno riportate nell’attestato di registrazione di cui all’articolo 27 capoverso 2 OIBDTA.[^24-5]
+<sup>5</sup> Se è prescritto un certificato d’accompagnamento secondo l’articolo 12 OFE, la dichiarazione sanitaria deve essere effettuata dal detentore di animali su tale documento. Per gli animali della specie equina la dichiarazione deve avvenire nel passaporto per equide. Per gli animali della specie equina macellati prima del 31 dicembre del rispettivo anno di nascita, queste indicazioni vanno riportate nell’attestato di registrazione di cui all’articolo 27 capoverso 2 OIBDTA.[^24-6]
 
 [^24-1]: Nuovo testo giusta l’all. 3 n. II 6 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^24-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
 [^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^24-5]: Nuovo testo giusta l’all. 3 n. II 6 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-5]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-6]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 25
 
@@ -592,65 +663,70 @@ La persona responsabile:
 
 #### Art. 27
 
-**Oggetto del controllo**
+**Oggetto del controllo degli animali da macello**[^27-1]
 
-<sup>1</sup>
+<sup>1</sup> Il bestiame da macello, la selvaggina d’allevamento e i ratiti devono essere controllati prima della macellazione.
 
-Prima della macellazione il veterinario ufficiale controlla:
-
-- a. il bestiame da macello;
-- b. i volatili da cortile;
-- c. i conigli domestici;
-- d. i ratiti;
-- e. la selvaggina d’allevamento.
-
-<sup>2</sup> Nel caso di macellazioni occasionali di volatili da cortile, conigli domestici e ratiti, il controllo degli animali da macello è effettuato soltanto per campionatura.
+<sup>2</sup> Il controllo dei volatili da cortile e dei conigli domestici destinati alla macellazione può essere effettuato per campionatura su singoli animali di ciascun effettivo.
 
 <sup>3</sup> Il controllo ha luogo entro 24 ore dall’arrivo degli animali al macello e meno di 24 ore prima della loro macellazione.
 
-<sup>4</sup>
+<sup>4</sup> Nel caso di macellazioni occasionali, il controllo degli animali da macello può essere effettuato per campionatura.
+
+<sup>5</sup>
 
 Il DFI fissa:
 
 - a. le modalità del controllo;
 - b. le misure da adottare in base ai risultati del controllo.
 
+[^27-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 #### Art. 28
 
 **Controllo degli animali da macello nell’effettivo di provenienza**
 
-<sup>1</sup> Per il bestiame da macello, i volatili da cortile, i conigli domestici, i ratiti e la selvaggina d’allevamento, il controllo degli animali da macello può essere eseguito nell’effettivo di provenienza.[^28-1]
+<sup>1</sup> Per il bestiame da macello, i volatili da cortile, i conigli domestici, la selvaggina d’allevamento e i ratiti, il controllo degli animali da macello può essere eseguito nell’effettivo di provenienza.[^28-1]
 
-<sup>2</sup> Il controllo degli animali da macello nell’effettivo di provenienza deve essere eseguito da un veterinario ufficiale, il quale conferma tale controllo con un certificato di sanità.
+<sup>1bis</sup> Il controllo di bestiame da macello infortunato o malato nell’azienda di provenienza può essere eseguito dal veterinario dell’effettivo. L’idoneità alla macellazione e l’idoneità al trasporto devono essere valutate e attestate nel certificato sanitario.[^28-2]
 
-<sup>2bis</sup> Il controllo di bestiame da macello infortunato o malato nell’azienda di pro-venienza può essere eseguito dal veterinario dell’effettivo. L’idoneità alla macel-lazione e l’idoneità al trasporto devono essere valutate e attestate nel certificato sanitario.[^28-2]
+<sup>2</sup> Il controllo degli animali da macello nell’effettivo di provenienza deve essere confermato con un certificato di sanità.[^28-3]
 
-<sup>3</sup> Dopo il controllo gli animali vanno portati al macello seguendo l’itinerario più diretto, senza entrare in contatto con altri animali non controllati né durante il trasporto né al macello. La macellazione deve avvenire entro tre giorni. Nel macello, prima della macellazione, il veterinario ufficiale procede unicamente alla verifica dell’identità degli animali e a un controllo globale.
+<sup>3</sup> Dopo il controllo gli animali vanno portati al macello senza entrare in contatto con animali non controllati né durante il trasporto né al macello. La macellazione deve avvenire entro tre giorni dopo il controllo degli animali. Nel macello sono sufficienti la verifica dell’identità degli animali e un controllo globale.[^28-4]
 
 <sup>4</sup> Se gli animali non sono macellati entro tre giorni dal rilascio del certificato di sanità, occorre procedere a un nuovo esame e al rilascio di un nuovo certificato di sanità. Se hanno già lasciato l’effettivo di provenienza, occorre effettuare nel macello un controllo degli animali da macello.
 
 <sup>5</sup> La selvaggina d’allevamento può essere macellata entro 60 giorni dal rilascio del certificato sanitario, a condizione che gli animali siano nuovamente controllati nell’arco dei tre giorni precedenti la macellazione da una persona esperta ai sensi dell’articolo 21 capoverso 1. I risultati del controllo vengono fissati per scritto dalla persona esperta nel modulo rilasciato dal DFI secondo l’articolo 40. Il certificato deve essere consegnato all’acquirente.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^28-2]: Introdotto dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^28-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-2]: Originario cpv. 2<sup>bis</sup>. Introdotto dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^28-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### Sezione 2: Controllo delle carni
 
 #### Art. 29
 
-**Oggetto del controllo**
+**Oggetto del controllo delle carni[^29-1]**
 
-<sup>1</sup> Il bestiame da macello e la selvaggina d’allevamento devono essere sottoposti sistematicamente al controllo delle carni subito dopo la macellazione.
+<sup>1</sup> Il controllo delle carni deve essere eseguito a breve intervallo dalla macellazione e prima della successiva lavorazione.[^29-2]
 
-<sup>2</sup> I volatili da cortile, i conigli domestici e i ratiti devono essere sottoposti sistematicamente al controllo delle carni nei macelli immediatamente dopo la macellazione; se la macellazione è occasionale, i controlli avvengono per campionatura.
+<sup>2</sup> Nel caso del bestiame da macello, della selvaggina da allevamento e dei ratiti devono essere controllate tutte le carcasse. Il controllo delle carni dei volatili da cortile e dei conigli domestici deve essere eseguito a breve intervallo dalla macellazione e può avvenire per campionatura su singoli animali di ciascun effettivo. [^29-3]
+
+<sup>2bis</sup> In caso di macellazione occasionale, il controllo delle carni può avvenire per campionatura.[^29-4]
 
 <sup>3</sup> Il controllo delle carni ai sensi degli articoli 12 e 20 capoverso 4 deve essere effettuato in ogni caso in uno stabilimento per la lavorazione della selvaggina. Il veterinario ufficiale competente può controllare tutta la selvaggina cacciata destinata alla macellazione e i relativi certificati.
 
 <sup>4</sup> Se la selvaggina cacciata viene sottoposta a un controllo da parte del veterinario ufficiale e la presentazione per il controllo delle carni risulta incompleta secondo le disposizioni emanate dal DFI in virtù dell’articolo 38 capoverso 3, per le parti mancanti della presentazione è determinante il certificato rilasciato dalla persona esperta secondo il modulo emesso dal DFI in conformità con l’articolo 40.
 
+[^29-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-4]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 #### Art. 30
 
-**Controllo**
+**Controllo delle carni[^30-1]**
 
 <sup>1</sup>
 
@@ -659,11 +735,25 @@ Durante il controllo delle carni, devono essere esaminate le carcasse e le parti
 - a. alterazioni che possono mettere in pericolo la vita umana o conferiscono alla carne un aspetto ripugnante;
 - b. malattie, in particolare epizoozie;
 - c. materiale a rischio specificato non completamente rimosso;
-- d. microrganismi patogeni, parassiti e agenti che causano putrefazione;
-- e. sostanze estranee;
+- d.[^30-2] parassiti;
+- e.[^30-3] *…*
 - f. insudiciamenti.
 
 <sup>2</sup> Il DFI disciplina l’esecuzione del controllo delle carni e le modalità di certificazione dell’idoneità al consumo.
+
+[^30-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-3]: Abrogata dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 30a
+
+**Controllo esteso delle carni**[^30a-1]
+
+<sup>1</sup> Se il controllo delle carni rileva indizi di un possibile rischio per la salute dell’uomo o dell’animale o di un pregiudizio al benessere dell’animale mentre era ancora in vita, viene effettuato un controllo esteso delle carni della carcassa e delle parti.
+
+<sup>2</sup> Il DFI disciplina l’esecuzione del controllo esteso delle carni.
+
+[^30a-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 31
 
@@ -710,7 +800,7 @@ Vanno prelevati campioni ai fini dell’esame trichinoscopico da tutte le carcas
 
 <sup>1</sup>
 
-Al termine del controllo delle carni, il veterinario ufficiale dichiara idonei al consumo la carcassa e i prodotti della macellazione che risultano adatti per essere utilizzati senza restrizioni come derrate alimentari e che:
+Al termine del controllo delle carni, sono dichiarati idonei al consumo la carcassa e i prodotti della macellazione che risultano adatti per essere utilizzati senza restrizioni come derrate alimentari e che:[^32-1]
 
 - a.
 
@@ -724,13 +814,15 @@ Al termine del controllo delle carni, il veterinario ufficiale dichiara idonei a
 
 <sup>2</sup> Le carcasse sono in ogni caso non idonee al consumo se costituiscono un rischio per la salute dell’uomo e dell’animale.
 
+[^32-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 #### Art. 33
 
 **Sequestro**
 
 <sup>1</sup> Le carcasse, e se necessario le parti annesse, sono sequestrate qualora non si possa decidere immediatamente se sono idonee al consumo.
 
-<sup>2</sup> Se vi è il rischio di un pericolo per la salute, il veterinario ufficiale ordina le condizioni di sicurezza necessarie per la loro conservazione.
+<sup>2</sup> Se vi è il rischio di un pericolo per la salute, gli organi di esecuzione ufficiali ordinano le condizioni di sicurezza necessarie per la loro conservazione.
 
 #### Art. 34
 
@@ -740,7 +832,7 @@ Al termine del controllo delle carni, il veterinario ufficiale dichiara idonei a
 
 <sup>2</sup>
 
-In caso di contestazioni il veterinario ufficiale decide:
+In caso di contestazioni gli organi di esecuzione ufficiali decidono:
 
 - a. quali parti della carcassa sono idonee al consumo;
 - b. se la carcassa o i prodotti della macellazione devono essere sottoposti a trattamento, in particolare a congelazione, prima che possano essere dichiarati idonei al consumo;
@@ -803,12 +895,12 @@ In caso di necessità, l’autorità cantonale competente può ordinare che:
 
 In particolare devono:
 
-- a. comunicare al veterinario ufficiale con cinque giorni feriali di anticipo il programma con gli orari di macellazione e il numero di capi di bestiame da macello e selvaggina d’allevamento previsti e segnalargli modifiche sostanziali del programma almeno il giorno precedente;
-- b. fornire al veterinario ufficiale i certificati d’accompagnamento e altre dichiarazioni sanitarie affinché possa prenderne visione prima del controllo degli animali da macello;
+- a. comunicare agli organi di esecuzione ufficiali con cinque giorni feriali di anticipo il programma con gli orari di macellazione e il numero di capi di bestiame da macello e selvaggina d’allevamento previsti e segnalare modifiche sostanziali del programma almeno il giorno precedente;
+- b. fornire agli organi di esecuzione ufficiali i certificati d’accompagnamento e altre dichiarazioni sanitarie affinché possano prenderne visione prima del controllo degli animali da macello;
 - c. contrassegnare le carcasse in modo tale che possano essere chiaramente attribuite ai singoli animali consegnati;
 - d. ordinare o contrassegnare le parti da controllare in modo che, fino al termine del controllo delle carni, la loro appartenenza alle carcasse non dia adito a dubbi;
 - e. assicurarsi che le carcasse e le parti di un animale non entrino in contatto con parti di altri animali prima che sia terminato il controllo delle carni;
-- f. segnalare al veterinario ufficiale le eventuali alterazioni della carcassa e delle parti constatate personalmente;
+- f. segnalare agli organi di esecuzione ufficiali le eventuali alterazioni della carcassa e delle parti constatate personalmente;
 - g. lasciare nel locale di macellazione la carcassa e le parti per cui è prescritto il controllo delle carni fino al termine di tale controllo;
 - h.[^38-1] mettere a disposizione l’infrastruttura tecnica necessaria per il prelievo ufficiale di campioni e collaborare al controllo delle carcasse e delle loro parti con il controllo delle carni;
 - i. occuparsi dell’immediata eliminazione e della conservazione adeguata delle carcasse e delle parti contestate.
@@ -830,6 +922,93 @@ Le copie dei risultati dei controlli, delle informazioni sulla catena alimentare
 **Moduli e timbri**
 
 Il DFI stabilisce l’allestimento dei moduli e dei timbri.
+
+### Sezione 4: Sistema d’informazione per il campionamento dei bovini nei macelli
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 40a
+
+**In generale**
+
+<sup>1</sup> L’USAV provvede alla gestione di un sistema d’informazione specificamente destinato all’identificazione dei bovini dai quali deve essere prelevato un campione secondo l’articolo 31 capoverso 1 lettera e.
+
+<sup>2</sup> È prelevato un campione dai bovini per i quali il sistema d’informazione rileva una corrispondenza tra il numero d’identificazione e il numero BDTA della loro azienda detentrice di animali di provenienza e i dati di cui all’articolo 40*b* lettera a numero 1 e lettera b numero 1.
+
+#### Art. 40b
+
+**Dati**
+
+Il sistema d’informazione contiene i seguenti dati:
+
+- a.
+
+  il numero d’identificazione dei bovini:
+
+  - 1\. che adempiono le condizioni per un prelievo di campioni,
+  - 2\. dai quali è stato prelevato un campione;
+
+- b.
+
+  i numeri BDTA delle aziende detentrici di bovini:
+
+  - 1\. che adempiono le condizioni per una sorveglianza,
+  - 2\. dai quali è stato prelevato un campione;
+
+- c.
+
+  le epizoozie in relazione alle quali i campioni:
+
+  - 1\. devono essere esaminati,
+  - 2\. sono stati esaminati;
+
+- d.
+
+  i numeri BDTA dei macelli:
+
+  - 1\. nei quali devono essere prelevati i campioni,
+  - 2\. nei quali sono stati prelevati i campioni;
+
+- e. la data del prelievo e lo stato del campione;
+- f.
+
+  i laboratori:
+
+  - 1\. ai quali vanno inviati i campioni per essere esaminati,
+  - 2\. ai quali sono stati inviati i campioni;
+
+- g. i dati di accesso della persona che avvia il confronto dei dati conformemente all’articolo 40*a* capoverso 2.
+
+#### Art. 40c
+
+**Inserimento e salvataggio automatico dei dati e accesso ai dati**
+
+<sup>1</sup> L’USAV inserisce nel sistema d’informazione i dati di cui all’articolo 40*b* lettere a numero 1, b numero 1, c numero 1, d numero 1 e f numero 1.
+
+<sup>2</sup> All’arrivo dei bovini al macello, il veterinario ufficiale è responsabile dell’inserimento nel sistema d’informazione del numero d’identificazione, del numero BDTA dell’azienda detentrice di animali di provenienza e del numero BDTA del macello.
+
+<sup>3</sup> In caso di corrispondenza secondo l’articolo 40*a* capoverso 2, il sistema d’informazione salva automaticamente i dati di cui all’articolo 40*b* lettere a numero 2, b numero 2, c numero 2, e, f numero 2 e g.
+
+<sup>4</sup> Per l’accesso al sistema d’informazione le autorità cantonali notificano all’USAV i veterinari ufficiali che desiderano utilizzare il sistema d’informazione. L’USAV registra nel sistema i nominativi di queste persone e conferisce loro i necessari diritti di accesso.
+
+#### Art. 40d
+
+**Protezione, conservazione e archiviazione dei dati**
+
+<sup>1</sup> L’USAV è responsabile del rispetto delle disposizioni in materia di protezione dei dati, di sicurezza dei dati e di sicurezza informatica.
+
+<sup>2</sup>
+
+Si applicano i seguenti termini di conservazione:
+
+- a. per i dati di cui all’articolo 40*b* lettere a numero 1, b numero 1, c numero 1, d numero 1 e f numero 1: per la durata del programma di sorveglianza;
+- b. per gli altri dati: da un minimo di 10 a un massimo di 30 anni.
+
+<sup>3</sup> L’archiviazione dei dati è retta dalle disposizioni della legge del 26 giugno 1998[^40d-1] sull’archiviazione.
+
+[^40d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Capitolo 5: Controllo di animali diversi dai mammiferi e dagli uccelli
 
@@ -857,29 +1036,28 @@ Gli organi di controllo devono essere indipendenti dalle aziende da essi control
 
 #### Art. 44
 
-**Controlli da parte del personale dell’azienda**
+**Controlli da parte del personale dell’azienda**[^44-1]
 
-<sup>1</sup>
-
-Nei macelli per volatili e conigli l’autorità cantonale competente può autorizzare il personale dell’azienda ad assumere parte dei compiti degli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni ai sensi dell’articolo 54, a condizione che:
+L’autorità cantonale competente può consentire ai macelli per volatili da cortile e conigli domestici di far svolgere al proprio personale parte dei compiti degli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni ai sensi dell’articolo 54, a condizione che:
 
 - a. l’azienda abbia applicato con successo per almeno 12 mesi una corretta prassi igienica e procedure conformi al sistema HACCP;
-- b. il personale dell’azienda interessato abbia assolto con successo la formazione di assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni;
-- c. le responsabilità in materia di produzione e di controllo siano separate;
-- d. l’azienda sia titolare di una certificazione riconosciuta internazionalmente; e
-- e. l’azienda garantisca il rispetto delle prescrizioni della legislazione sulle derrate alimentari.
+- b. l’azienda sia titolare di una certificazione riconosciuta nel settore alimentare;
+- c. l’azienda garantisca il rispetto delle prescrizioni della legislazione sulle derrate alimentari;
+- d. le responsabilità in materia di produzione e di controllo siano separate;
+- e. il personale dell’azienda interessato abbia assolto con successo la formazione di assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni o sia istruito e aggiornato regolarmente, per i compiti specifici che svolge, dal veterinario ufficiale competente; e
+- f. i compiti siano svolti sotto la sorveglianza del veterinario ufficiale o dell’assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni.
 
-<sup>2</sup> È consentito svolgere attività ausiliarie nell’ambito del controllo ufficiale delle carni senza la formazione di cui al capoverso 1 lettera b. Tuttavia, per i compiti specifici che svolge, il personale dell’azienda interessato deve essere formato e aggiornato regolarmente dal veterinario ufficiale competente.[^44-1]
-
-[^44-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^44-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 45
 
 **Prelievi di campioni e analisi da parte del personale dell’azienda**
 
-<sup>1</sup> L’autorità cantonale competente può autorizzare le persone rimunerate dal macello o dallo stabilimento per la lavorazione della selvaggina a effettuare prelievi e analisi ufficiali sugli animali.
+<sup>1</sup> L’autorità cantonale competente può autorizzare il personale del macello o dello stabilimento per la lavorazione della selvaggina a effettuare prelievi e analisi ufficiali sugli animali.[^45-1]
 
 <sup>2</sup> I veterinari ufficiali si occupano della formazione di tali persone e ne dirigono e supervisionano l’attività. Possono ritirare temporaneamente l’autorizzazione se le analisi e i prelievi di campioni non sono svolti correttamente.
+
+[^45-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 46
 
@@ -899,7 +1077,7 @@ Gli organi di controllo sono rimunerati dal Cantone o dal Comune.
 
 [^47-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^47-2]: Nuovo testo giusta il n. II 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^47-3]: Il testo di questa norma può essere consultato gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^47-3]: Il testo di questa norma può essere consultato gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^47-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 ### Sezione 2: Compiti dell’USAV
@@ -975,10 +1153,10 @@ La natura e l’intensità dei controlli nei singoli macelli e stabilimenti per 
 
 <sup>2</sup>
 
-Per la determinazione del numero di controllori nei macelli e negli stabilimenti per la lavorazione della selvaggina, il Cantone tiene conto:
+Per la determinazione del numero degli organi di esecuzione ufficiali nei macelli e negli stabilimenti per la lavorazione della selvaggina, il Cantone tiene conto:[^52-1]
 
 - a. delle frequenze di macellazione e dei tempi necessari per il controllo degli animali da macello e delle carni;
-- b. del tempo necessario per le pause dei veterinari ufficiali;
+- b.[^52-2] del tempo necessario per le pause del personale degli organi di esecuzione ufficiali;
 - c. dell’interesse del macello o dello stabilimento per la lavorazione della selvaggina a uno svolgimento delle operazioni senza rallentamenti;
 - d. dei tempi di presenza che vanno osservati durante le macellazioni.
 
@@ -986,15 +1164,19 @@ Per la determinazione del numero di controllori nei macelli e negli stabilimenti
 
 Il Cantone può inoltre:
 
-- a. impiegare assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni che lavorano secondo le indicazioni dei veterinari ufficiali;
-- b.[^52-1]
+- a.[^52-3] impiegare assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni che lavorano sotto la sorveglianza o la responsabilità dei veterinari ufficiali;
+- b.[^52-4]
 
   impiegare veterinari non ufficiali per i seguenti compiti, qualora siano sufficientemente qualificati per svolgerli:
 
   - 1\. controllare gli animali da macello e le carni in aziende con un’esigua capacità produttiva,
-  - 2\. controllare gli animali da macello in caso di uccisione in azienda e al pascolo per la produzione di carne e presenziare durante l’abbattimento e il dissanguamento degli animali.
+  - 2\.[^52-5] controllare gli animali da macello in caso di uccisione in azienda e al pascolo per la produzione di carne e, in caso di uccisione al pascolo, presenziare durante l’abbattimento e il dissanguamento.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^52-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-4]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^52-5]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 53
 
@@ -1005,7 +1187,8 @@ Il Cantone può inoltre:
 I veterinari ufficiali:
 
 - a. dirigono e svolgono il controllo degli animali da macello e delle carni;
-- b.[^53-1] prelevano e analizzano campioni oppure li trasmettono a un laboratorio di cui all’articolo 47 capoverso 1;
+- a<sup>bis</sup>.[^53-1] verificano che nei macelli e negli stabilimenti di lavorazione della selvaggina le procedure siano conformi al sistema HACCP;
+- b.[^53-2] prelevano e analizzano campioni oppure li trasmettono a un laboratorio di cui all’articolo 47 capoverso 1;
 - c. controllano l’igiene della macellazione e ordinano che vengano colmate le lacune;
 - d. dispongono il rallentamento o l’interruzione del processo di macellazione se il regolare svolgimento del controllo delle carni non è più possibile o sono emerse consistenti carenze igieniche che non possono essere adeguatamente eliminate mediante misure di altro tipo;
 - e. sorvegliano l’eliminazione dei sottoprodotti di origine animale e, in particolare, del materiale a rischio specificato;
@@ -1026,36 +1209,54 @@ I veterinari ufficiali:
   - 2\. per l’igiene della macellazione,
   - 3\. per l’eliminazione dei sottoprodotti di origine animale;
 
-- i.[^53-2] sorvegliano a campione in caso di uccisione in azienda per la produzione di carne di bestiame da macello e sempre in caso di uccisione al pascolo per la produzione di carne di bovini l’abbattimento e il dissanguamento degli animali.
+- i.[^53-3] sorvegliano a campione in caso di uccisione in azienda per la produzione di carne di bestiame da macello e sempre in caso di uccisione al pascolo per la produzione di carne di bovini l’abbattimento e il dissanguamento degli animali;
+- j.[^53-4] sono responsabili delle decisioni riguardo al controllo degli animali da macello e al controllo delle carni nelle grandi aziende, anche se i controlli sono stati svolti dagli assistenti specializzati ufficiali.
 
-<sup>2</sup> Sono presenti per tutta la durata del controllo degli animali da macello e del controllo delle carni.
+<sup>2</sup> Nelle grandi aziende sono presenti durante il controllo degli animali da macello e delle carni e per la durata della macellazione.[^53-5]
 
-<sup>2bis</sup> Nelle grandi aziende sono presenti per tutta la durata della macellazione.[^53-3]
+<sup>2bis</sup> … [^53-6]
 
 <sup>3</sup> In caso di sospetto possono procedere a controlli e a esami supplementari.
 
-[^53-1]: Nuovo testo giusta il n. II 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^53-2]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^53-3]: Introdotto dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+<sup>4</sup> Sono responsabili della formazione e della formazione continua del personale dell’azienda che assume i compiti degli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni.[^53-7]
+
+[^53-1]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-2]: Nuovo testo giusta il n. II 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^53-3]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^53-4]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-5]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-6]: Introdotto dal n. I dell’O del 27 mag. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Abrogato dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-7]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 54
 
-**Assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni**
+**Assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni**[^54-1]
 
 <sup>1</sup>
 
 Gli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni possono:
 
-- a. verificare l’applicazione di una corretta prassi igienica e di procedure conformi al sistema HACCP nei macelli;
-- b. procedere a un primo controllo degli animali in occasione del controllo degli animali da macello;
-- c. procedere ai controlli prescritti su suini, volatili da cortile, conigli domestici, selvaggina d’allevamento e ratiti, se il controllo degli animali da macello è già stato eseguito nell’effettivo di provenienza;
-- d. effettuare il controllo delle carni se il controllo degli animali da macello non ha dato luogo a importanti contestazioni;
-- e. su mandato del veterinario ufficiale, prelevare campioni da sottoporre a ulteriori analisi;
-- f. su mandato del veterinario cantonale, eseguire il controllo delle carni nelle aziende isolate che effettuano esclusivamente vendita diretta al consumatore.
+- a.
+
+  sotto la responsabilità del veterinario ufficiale:
+
+  - 1\.
+
+    nelle grandi aziende:
+
+    - – eseguire il controllo degli animali da macello sui volatili da cortile e sui conigli domestici
+    - – nel caso delle altre specie di animali, sottoporre gli animali a un primo controllo prima del controllo degli animali da macello,
+
+  - 2\. verificare l’applicazione di una corretta prassi igienica e di procedure conformi al sistema HACCP nei macelli e negli stabilimenti per la lavorazione della selvaggina,
+  - 3\. prelevare campioni da sottoporre a ulteriori analisi;
+
+- b. sotto la sorveglianza del veterinario ufficiale: eseguire il controllo delle carni nelle grandi aziende;
+- c. su mandato del veterinario cantonale: eseguire il controllo degli animali da macello e delle carni nelle aziende con un’esigua capacità produttiva, se è garantito che il veterinario ufficiale è raggiungibile per un consulto;
+- d. se il controllo degli animali da macello è già stato eseguito nell’effettivo di provenienza: procedere ai controlli prescritti.
 
 <sup>2</sup>
 
-La decisione finale riguardo al controllo delle carni può essere presa dagli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni se non vi sono state contestazioni o se sono stati constatati:
+Possono prendere la decisione finale riguardo al controllo delle carni se non vi sono state contestazioni o se sono stati constatati:
 
 - a. tumori, cisti e ascessi localizzati;
 - b. aderenze dei tessuti connettivi, senza supporazione o essudazioni;
@@ -1067,7 +1268,9 @@ La decisione finale riguardo al controllo delle carni può essere presa dagli as
 - h. ferite muscolari fresche e fratture recenti;
 - i. insudiciamenti locali limitati.
 
-<sup>3</sup> In singoli casi, i controllori delle carni senza titolo di veterinario possono dichiarare non idonee al consumo anche carcasse intere di volatili da cortile e di conigli domestici.
+<sup>3</sup> In singoli casi, possono dichiarare non idonee al consumo anche carcasse intere di volatili da cortile e di conigli domestici.
+
+[^54-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 55
 
@@ -1075,7 +1278,7 @@ La decisione finale riguardo al controllo delle carni può essere presa dagli as
 
 <sup>1</sup>
 
-Il veterinario ufficiale verifica regolarmente e in funzione dei rischi che i macelli:
+Gli organi di esecuzione ufficiali verificano regolarmente e in funzione dei rischi che le aziende:[^55-1]
 
 - a.
 
@@ -1100,10 +1303,11 @@ Il veterinario ufficiale verifica regolarmente e in funzione dei rischi che i ma
 
 <sup>2</sup> I risultati dei controlli vanno registrati e valutati. Nell’ambito del controllo dell’igiene occorre tener conto dei risultati del controllo autonomo e dei sistemi documentati quali le certificazioni.
 
-<sup>3</sup> I risultati dei controlli devono essere registrati nel sistema d’informazione per i dati sui controlli secondo gli articoli 6–9 dell’ordinanza del 23 ottobre 2013[^55-1] sui sistemi d’informazione nel campo dell’agricoltura.[^55-2]
+<sup>3</sup> I risultati dei controlli devono essere registrati nel sistema d’informazione per i dati sui controlli secondo gli articoli 6–9 dell’ordinanza del 23 ottobre 2013[^55-2] sui sistemi d’informazione nel campo dell’agricoltura.[^55-3]
 
-[^55-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^55-2]: Introdotto dall’all. 4 n. II 6 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^55-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^55-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^55-3]: Introdotto dall’all. 4 n. II 6 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 56
 
@@ -1128,16 +1332,16 @@ Nel singolo caso, il veterinario cantonale può incaricare il veterinario uffici
 
 #### Art. 57
 
-**Rapporto sui controlli eseguiti**
+**Rapporto sui controlli eseguiti**[^57-1]
 
-<sup>1</sup> Il veterinario ufficiale registra quotidianamente i risultati del controllo degli animali da macello e delle carni nonché degli ulteriori controlli, riassume i relativi dati in una statistica e allestisce ogni anno un rapporto generale d’attività, all’indirizzo del veterinario cantonale.
+<sup>1</sup> Un rappresentante dell’autorità cantonale di esecuzione registra i risultati del controllo degli animali da macello e del controllo delle carni nell’apposito sistema d’informazione Fleko di cui all’ordinanza del 27 aprile 2022[^57-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O-SIFA) oppure li fa trasmettere a Fleko dai sistemi informatici dei macelli. Devono essere registrati o comunicati i numeri BDTA dei macelli e i dati di cui all’allegato 3 numero 2 O-SIFA.
 
-<sup>2</sup> L’autorità cantonale di esecuzione registra i risultati del controllo degli animali da macello e del controllo delle carni nel sistema d’informazione sui risultati del controllo degli animali da macello e del controllo delle carni (Fleko) di cui all’ordinanza del 27 aprile 2022[^57-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O-SIFA) oppure li fa trasmettere a Fleko dai sistemi informatici dei macelli. Devono essere registrati o comunicati i numeri BDTA dei macelli e i dati di cui all’allegato 3 numero 2 O-SIFA.[^57-2]
+<sup>2</sup> I risultati degli ulteriori controlli devono essere registrati e sintetizzati in una statistica. Ogni anno deve essere presentato al veterinario cantonale un rapporto generale d’attività.
 
-<sup>3</sup> La documentazione di cui al capoverso 1 deve essere conservata per tre anni civili.
+<sup>3</sup> La documentazione di cui al capoverso 2 deve essere conservata per tre anni civili.
 
-[^57-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^57-2]: Nuovo testo giusta l’all. 4 n. II 6 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^57-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^57-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ### Sezione 5: Notifiche
 
@@ -1179,7 +1383,7 @@ Il veterinario cantonale mette a disposizione dell’USAV, su richiesta:
 - d. le autorizzazioni di cui all’articolo 6;
 - e. le dichiarazioni sanitarie.
 
-<sup>4</sup> ...[^59-1]
+<sup>4</sup> …[^59-1]
 
 [^59-1]: Abrogato dall’all. n. 1 dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
@@ -1189,13 +1393,14 @@ Il veterinario cantonale mette a disposizione dell’USAV, su richiesta:
 
 **Emolumenti per il controllo degli animali da macello e delle carni**[^60-1]
 
-<sup>1</sup> Gli emolumenti per il controllo degli animali da macello e delle carni sono calcolati in funzione del lavoro necessario per il controllo. Possono essere riscossi emolumenti soltanto per i controlli funzionali allo scopo della LDerr.
+<sup>1</sup> Gli emolumenti per il controllo degli animali da macello e delle carni sono calcola-ti in funzione del lavoro necessario per il controllo.[^60-2]
 
-<sup>2</sup> b. per un controllo degli animali da macello nell’effettivo di provenienza, 30 franchi.
+<sup>2</sup>
 
 I Cantoni possono fissare i seguenti emolumenti massimi di base:
 
 - a. per una visita del macello o dello stabilimento per la lavorazione della selvaggina, 20 franchi;
+- b. per un controllo degli animali da macello nell’effettivo di provenienza, 30 franchi.
 
 <sup>3</sup>
 
@@ -1211,15 +1416,15 @@ I Cantoni fissano gli emolumenti per il controllo nel modo seguente:
 <tr><th></th><th>Franchi minimo</th><th>Franchi massimo</th></tr>
 <tr><td>a. Animale della specie bovina di almeno 8 mesi</td><td>7.50</td><td>12.–</td></tr>
 <tr><td>b. Animale della specie bovina di età inferiore a 8 mesi</td><td>5.–</td><td>10.–</td></tr>
-<tr><td>c. Ovino</td><td>0.30</td><td>8.-</td></tr>
-<tr><td>d. Caprino</td><td>0.30</td><td>8.-</td></tr>
-<tr><td>e. Suino</td><td>1.50</td><td>8.-</td></tr>
-<tr><td>f. Equino</td><td>4.50</td><td>12.-</td></tr>
-<tr><td>g. Altro bestiame da macello</td><td>4.50</td><td>8.-</td></tr>
+<tr><td>c. Ovino</td><td>0.30</td><td>8.–</td></tr>
+<tr><td>d. Caprino</td><td>0.30</td><td>8.–</td></tr>
+<tr><td>e. Suino</td><td>1.50</td><td>8.–</td></tr>
+<tr><td>f.[^60-3] Animali della specie equina</td><td>4.50</td><td>12.–</td></tr>
+<tr><td>g. Altro bestiame da macello</td><td>4.50</td><td>8.–</td></tr>
 <tr><td>h. Volatili da cortile, conigli domestici</td><td>0.01</td><td>0.20</td></tr>
-<tr><td>i. Selvaggina d’allevamento</td><td>0.75</td><td>8.-</td></tr>
+<tr><td>i. Selvaggina d’allevamento</td><td>0.75</td><td>8.–</td></tr>
 <tr><td>j. Selvaggina da penna, lepre</td><td>0.01</td><td>0.20</td></tr>
-<tr><td>k. Altra selvaggina</td><td>0.50</td><td>8.-</td></tr>
+<tr><td>k. Altra selvaggina</td><td>0.50</td><td>8.–</td></tr>
 </table>
 
 <sup>5</sup> Per ogni kg di carne al termine della macellazione, l’emolumento per il controllo, indipendentemente dalla specie animale, ammonta da tre a dieci centesimi al kg.
@@ -1232,12 +1437,14 @@ Indipendentemente dalla specie animale, l’emolumento in funzione del tempo imp
 - b. per le attività degli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni, da 60 a 100 franchi all’ora.
 
 [^60-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^60-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^60-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 61
 
 **Altri emolumenti**[^61-1]
 
-<sup>1</sup> Per la sorveglianza di un’uccisione in azienda o al pascolo per la produzione di carne da parte dei veterinari ufficiali i Cantoni possono fissare un emolumento da 100 a 160 franchi all’ora.
+<sup>1</sup> Per la sorveglianza di un’uccisione in azienda o al pascolo da parte degli organi di esecuzione ufficiali allo scopo di garantire il rispetto delle prescrizioni di igiene alimentare e di protezione degli animali i Cantoni possono fissare un emolumento da 100 a 160 franchi all’ora.[^61-2]
 
 <sup>2</sup> Per le attività svolte al di fuori dell’orario di lavoro (da lunedì a venerdì dalle 06.00 alle 20.00) possono fissare emolumenti più elevati. Essi non possono superare il doppio degli emolumenti massimi di cui all’articolo 60 capoversi 2 e 4–6.
 
@@ -1248,6 +1455,7 @@ Indipendentemente dalla specie animale, l’emolumento in funzione del tempo imp
 <sup>5</sup> Gli emolumenti per i controlli, le prestazioni e le autorizzazioni di cui all’articolo 58 capoverso 2 lettere a nonché g–i LDerr sono calcolati in funzione del tempo impiegato. I Cantoni stabiliscono la tariffa oraria. Le spese sono fatturate separatamente.
 
 [^61-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^61-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -1259,18 +1467,29 @@ Indipendentemente dalla specie animale, l’emolumento in funzione del tempo imp
 
 <sup>2</sup> Il seguente atto normativo è modificato come segue:
 
-...[^62-2]
+…[^62-2]
 
-[^62-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3]
+[^62-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3]
 [^62-2]: La mod. può essere consultata alla [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66).
 
 #### Art. 63
 
 **Disposizione transitoria**[^63-1]
 
-Le persone che all’entrata in vigore della presente ordinanza hanno terminato la formazione per cacciatori o la terminano entro il 30 aprile 2018 sono considerate persone esperte ai sensi dell’articolo 21..
+Le persone che all’entrata in vigore della presente ordinanza hanno terminato la formazione per cacciatori o la terminano entro il 30 aprile 2018 sono considerate persone esperte ai sensi dell’articolo 21.
 
 [^63-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 719](https://fedlex.data.admin.ch/eli/oc/2018/89)).
+
+#### Art. 63a
+
+**Disposizioni transitorie della modifica dell’8 dicembre 2023**[^63a-1]
+
+Si applicano i seguenti termini transitori:
+
+- a. per la notifica di cui all’articolo 5*a*, l’allestimento di un sistema di controllo autonomo e di un registro di macellazione secondo l’articolo 19 capoversi 5 e 6: sino al 31 gennaio 2025;
+- b. per gli adeguamenti organizzativi e aziendali necessari per il controllo esteso delle carni di cui all’articolo 30*a*: sino al 31 gennaio 2029.
+
+[^63a-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 64
 

@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkont
 short: VSFK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: de
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20240201-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,25 +17,26 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/de"
 
 (VSFK)
 
-vom 16. Dezember 2016 (Stand am 1. Juni 2022)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 9 Absätze 2 und 3, 10 Absätze 3 und 4, 31 Absätze 3 und 4, 32 Absatz 1 und 44 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-1] (LMG) sowie auf die Artikel 22 und 53 Absätze 1 und 3 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 9 Absätze 2 und 3, 10 Absätze 3 und 4, 31 Absätze 3 und 4, 32 Absatz 1, 44 und 58 Absatz 6 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-1] (LMG), auf Artikel 41 Absatz 3 des Tierschutzgesetzes vom 16. Dezember 2005[^ingress-2] sowie auf die Artikel 22 und 53 Absätze 1 und 3 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-3],[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-3]: Fassung gemäss Anhang Ziff. 1 der V vom 31. Okt. 2018 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Jan. 2019 ([AS 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^ingress-2]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
-## 1. Kapitel: Gegenstand, Geltungsbereich und Begriffe****
+## 1. Kapitel: Gegenstand, Geltungsbereich und Begriffe
 
 [^chap1-1]
 
 [^chap1-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
-### 1. Abschnitt: Gegenstand und Geltungsbereich****
+### 1. Abschnitt: Gegenstand und Geltungsbereich
 
 [^chap1-sec1-1]
 
@@ -49,8 +50,15 @@ verordnet:
 
 Diese Verordnung regelt:
 
-- a. die Anforderungen an Schlacht- und Wildbearbeitungsbetriebe und das Schlachten;
-- b. die Anforderungen an Tiere, die zum Schlachten bestimmt sind;
+- a.[^1-2]
+
+  die Anforderungen an:
+
+  - 1\. Schlacht- und Wildbearbeitungsbetriebe sowie an Betriebe, in denen gelegentliche Schlachtungen durchgeführt werden,
+  - 2\. das Schlachten,
+  - 3\. Tiere, die zum Schlachten bestimmt sind;
+
+- b.[^1-3] …
 - c. die Schlachttier- und Fleischuntersuchung;
 - d. die Lebensmittelgewinnung aus Jagdwild und von anderen Tieren als Säugetieren und Vögeln.
 
@@ -59,13 +67,15 @@ Diese Verordnung regelt:
 Sie gilt nicht für:
 
 - a. die Schlachtung und die Verarbeitung von Schlachtvieh, Hausgeflügel, Hauskaninchen, Gehegewild und Laufvögeln, wenn die Schlachtung und die Verarbeitung des Schlachttierkörpers im Herkunftsbestand zur privaten häuslichen Verwendung erfolgt;
-- b. das Zerteilen, das Zerlegen und die Verarbeitung von selbsterlegtem Jagdwild zur privaten häuslichen Verwendung.[^1-2]
+- b. das Zerteilen, das Zerlegen und die Verarbeitung von selbsterlegtem Jagdwild zur privaten häuslichen Verwendung.[^1-4]
 
-<sup>3</sup> Soweit diese Verordnung keine Regelung enthält, ist die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1-3] (LGV) anwendbar.
+<sup>3</sup> Soweit diese Verordnung keine Regelung enthält, ist die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1-5] (LGV) anwendbar.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^1-3]: Aufgehoben durch Ziff. I der V vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^1-4]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^1-5]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -82,12 +92,12 @@ Sofern ein Bestimmungsstaat für die Ausfuhr von Fleisch besondere Anforderungen
 In dieser Verordnung bedeuten:
 
 - a.[^3-1] *Tiere:* Schlachtvieh, Hausgeflügel, Hauskaninchen, Laufvögel, Gehege- und Jagdwild, Fische und weitere Arten, die gestützt auf Artikel 9 LGV[^3-2] vom Eidgenössischen Departement des Innern (EDI) zur Lebensmittelgewinnung zugelassen sind;
-- b. *Schlachtvieh:* Tiere der Rinder‑, Schaf‑, Ziegen‑, Schweine- und Pferdegattung und andere domestizierte Tiere der zoologischen Familien der *Bovidae* (Hornträger), *Cervidae* (Hirsche), *Camelidae* (Kamele), *Suidae* (Schweine) und *Equidae* (Pferde);
+- b.[^3-3] *Schlachtvieh:* Tiere der Rinder‑, Schaf‑, Ziegen‑, Schweine- und Pferdegattung und andere domestizierte Tiere der zoologischen Familien der *Bovidae* (Hornträger), *Cervidae* (Hirsche) und der *Camelidae* (Kamele);
 - c. *Hausgeflügel:* Huhn, Truthuhn, Perlhuhn, Gans, Ente, Taube, Zuchtwachtel;
-- d. *Laufvögel:* Strausse;
+- d.[^3-4] *Laufvögel:* Tiere der Ordnung *Struthioniformes*, wie Strausse, Nandus und Emus;
 - e. *Gehegewild:* Wild, das in der Obhut des Menschen in Gehegen gehalten wird; einschliesslich Kameliden (*Camelidae*), Bisons (*Bos bison*) und Zucht-Schalenwild der Ordnung Paarhufer (*Artiodactyla*);
 - f. *Jagdwild:* freilebendes Wild, das zum Zweck der Lebensmittelgewinnung erlegt wird;
-- g. *Schlachttierkörper:* Körper eines Tieres nach dem Betäuben und dem Töten oder nach dem Erlegen;
+- g.[^3-5] *Schlachttierkörper:* nicht enthäuteter oder enthäuteter Körper eines Tieres nach dem Betäuben und dem Töten oder nach dem Erlegen;
 - h.
 
   *Schlachterzeugnis:* geniessbares Nebenprodukt der Schlachtung:
@@ -100,32 +110,40 @@ In dieser Verordnung bedeuten:
   *Teile des Schlachttierkörpers:*
 
   - 1\. Schlachterzeugnisse,
-  - 2\. tierische Nebenprodukte nach Artikel 3 Buchstabe b der Verordnung vom 25. Mai 2011[^3-3] über die Entsorgung von tierischen Nebenprodukten;
+  - 2\.[^3-6] tierische Nebenprodukte nach Artikel 3 Buchstabe b der Verordnung vom 25. Mai 2011[^3-7] über tierische Nebenprodukte;
 
-- j. *Spezifiziertes Risikomaterial:* tierische Nebenprodukte nach den Artikeln 179*d* Absatz 1 und 180*c* Absatz 1 der Tierseuchenverordnung vom 27. Juni 1995[^3-4] (TSV);
+- j. *Spezifiziertes Risikomaterial:* tierische Nebenprodukte nach den Artikeln 179*d* Absatz 1 und 180*c* Absatz 1 der Tierseuchenverordnung vom 27. Juni 1995[^3-8] (TSV);
 - k. *Schlachtbetrieb:* Betrieb zum Schlachten von Tieren oder zum Gewinnen von Fleisch von anderen Tieren als Säugetieren und Vögeln;
 - l. *Grossbetrieb:* Betrieb, der nicht als Betrieb mit geringer Kapazität gilt;
-- m.[^3-5]
+- m.[^3-9]
 
   *Betrieb mit geringer Kapazität:* Betrieb, in dem pro Jahr:
 
-  - 1\. von Tieren der Rinder-, Schaf-, Ziegen-, Schweine- und Pferdegattung weniger als 1500 Schlachteinheiten nach Artikel 3 Absatz 2 der Schlachtviehverordnung vom 26. November 2003[^3-6] geschlachtet werden; dabei gelten als Lämmer und Gitzi Tiere bis zu einem Alter von 12 Monaten, oder
-  - 2\. die Schlachtung von anderen Tieren nicht mehr als 60 000 kg Fleisch ergibt;
+  - 1\. von Tieren der Rinder-, Schaf-, Ziegen-, Schweine- und Pferdegattung weniger als 1500 Schlachteinheiten nach Artikel 3 Absatz 2 der Schlachtviehverordnung vom 26. November 2003[^3-10] geschlachtet werden; dabei gelten als Lämmer und Gitzi Tiere bis zu einem Alter von 12 Monaten,
+  - 2\.[^3-11] von Hausgeflügel und Hauskaninchen höchstens 150 000 Tiere geschlachtet werden, deren Schlachtung nicht mehr als 200 000 kg Schlachtgewicht ergibt, oder
+  - 3\.[^3-12] die Schlachtung von anderen Tieren gesamthaft nicht mehr als 200 000 kg Schlachtgewicht ergibt;
 
 - n. *Schlachten:* Töten und Zerteilen eines Tieres in maximal Sechstel sowie Enthäuten oder Entfedern und Zerteilen von erlegtem Jagdwild in maximal Sechstel zum Zweck der Lebensmittelgewinnung;
 - o. *Wildbearbeitungsbetrieb:* Schlacht- oder anderer bewilligungspflichtiger Lebensmittelbetrieb, in dem Jagd- und Gehegewild geschlachtet, nicht aber weiter zerlegt und verarbeitet wird;
-- p. *Gelegentliche Schlachtung:* Schlachtung von weniger als 10 Tieren von Hausgeflügel, Hauskaninchen oder Laufvögeln pro Woche und höchstens 1000 kg pro Jahr;
-- q.[^3-7] *Hoftötung zur Fleischgewinnung:* Betäuben und Entbluten von Tieren im Herkunftsbestand zur Fleischgewinnung;
-- r.[^3-8] *Weidetötung zur Fleischgewinnung:* Schiessen und Entbluten von Tieren auf einer Weide im Herkunftsbestand zur Fleischgewinnung.
+- p.[^3-13] *Gelegentliche Schlachtung:* Schlachtung von Hausgeflügel oder Hauskaninchen, wobei höchstens je 10 Tiere pro Woche geschlachtet werden dürfen und die Schlachtung höchstens 1000 kg Schlachtgewicht pro Jahr ergeben darf;
+- q.[^3-14] *Hoftötung zur Fleischgewinnung:* Betäuben und Entbluten von Tieren im Herkunftsbestand zur Fleischgewinnung;
+- r.[^3-15] *Weidetötung zur Fleischgewinnung:* Schiessen und Entbluten von Tieren auf einer Weide im Herkunftsbestand zur Fleischgewinnung.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^3-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^3-4]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-5]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-6]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
-[^3-7]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-8]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-5]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-6]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-7]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^3-8]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^3-9]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-10]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^3-11]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-12]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-13]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-14]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-15]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 ## 2. Kapitel: Schlacht- und Wildbearbeitungsbetriebe
 
@@ -187,9 +205,29 @@ Die Betriebsbewilligung kann entzogen werden, wenn:
 [^6-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^6-4]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
+## 2*a*. Kapitel: Melde- und Bewilligungspflichten für Tierhalterinnen und Tierhalter
+
+[^chap2a-1]
+
+[^chap2a-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 6a
+
+**Gelegentliche Schlachtungen**
+
+<sup>1</sup> Gelegentliche Schlachtungen dürfen nur im eigenen Betrieb durchgeführt werden.
+
+<sup>2</sup> Tierhalterinnen und Tierhalter, die gelegentliche Schlachtungen durchführen, müssen sich bei der zuständigen kantonalen Behörde melden.
+
+#### Art. 6b
+
+**Hof- und Weidetötungen**
+
+Tierhalterinnen und Tierhalter, die Hoftötungen von Schlachtvieh oder Weidetötungen von Rindern nach Artikel 9*a* durchführen, müssen vorgängig eine Bewilligung der zuständigen kantonalen Behörde einholen.
+
 ## 3. Kapitel: Schlachten und Schlachthygiene
 
-### 1. Abschnitt: Anforderungen an Tiere und Schlachtverbot****
+### 1. Abschnitt: Anforderungen an Tiere und Schlachtverbot
 
 [^chap3-sec1-1]
 
@@ -217,7 +255,7 @@ Wer Tiere hält, die zum Schlachten bestimmt sind, hat dafür zu sorgen, dass di
 
 <sup>1</sup>
 
-Nicht geschlachtet oder zum Zwecke der Lebensmittelgewinnung getötet werden dürfen:
+Nicht geschlachtet oder nicht zum Zwecke der Lebensmittelgewinnung getötet werden dürfen:[^8-1]
 
 - a. Tiere, die weniger als sieben Tage alt sind;
 - b. Hausgeflügel, Hauskaninchen, Gehege- und Jagdwild, Laufvögel und andere Tiere, wenn sie augenscheinlich krank sind;
@@ -236,6 +274,8 @@ Nicht geschlachtet oder zum Zwecke der Lebensmittelgewinnung getötet werden dü
 
 <sup>5</sup> Für das Schlachten oder Töten von Tieren nach den Absätzen 3 und 4 gelten die Bestimmungen von Artikel 10.
 
+[^8-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 ### 2. Abschnitt: Ort der Schlachtung
 
 #### Art. 9
@@ -247,8 +287,8 @@ Nicht geschlachtet oder zum Zwecke der Lebensmittelgewinnung getötet werden dü
 Ausserhalb von bewilligten Schlachtbetrieben sind zulässig:
 
 - a.[^9-1] Betäuben und Entbluten von krankem und verunfalltem Schlachtvieh, wenn der Transport dem lebenden Tier nicht zumutbar ist;
-- b. gelegentliche Schlachtungen von Hausgeflügel, Hauskaninchen und Laufvögeln;
-- c.[^9-2] bewilligte Hof- und Weidetötungen zur Fleischgewinnung, inklusive die Weidetötung zur Fleischgewinnung von Gehegewild.
+- b.[^9-2] gelegentliche Schlachtungen;
+- c.[^9-3] bewilligte Hof- und Weidetötungen zur Fleischgewinnung.
 
 <sup>3</sup> Wird Gehegewild im Freien getötet und entblutet, so muss es anschliessend in einen Schlacht- oder Wildbearbeitungsbetrieb verbracht werden. Wird es im Freien ausgeweidet, so müssen die Eingeweide (Organe der Brust-, Bauch- und Beckenhöhle) gekennzeichnet und zusammen mit dem Schlachttierkörper zur Fleischuntersuchung vorgelegt werden.
 
@@ -257,9 +297,10 @@ Ausserhalb von bewilligten Schlachtbetrieben sind zulässig:
 <sup>5</sup> Jagdwild, mit Ausnahme von Hasen und Federwild, muss nach dem Erlegen in einen Wildbearbeitungsbetrieb verbracht werden. Von dieser Regelung ausgenommen ist Wild, das keine Merkmale aufweist, die darauf hinweisen, dass das Fleisch für die menschliche Gesundheit bedenklich sein könnte, und das die Jägerin oder der Jäger direkt an Konsumentinnen und Konsumenten oder an einen Einzelhandelsbetrieb im Inland zur direkten Abgabe an Konsumentinnen und Konsumenten abgibt.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^9-2]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9-3]: Eingefügt durch Ziff. I der V vom 27. Mai 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
-### 2*a*. Abschnitt:**** Hof- und Weidetötung zur Fleischgewinnung
+### 2*a*. Abschnitt: Hof- und Weidetötung zur Fleischgewinnung
 
 [^chap3-sec2a-1]
 
@@ -267,30 +308,30 @@ Ausserhalb von bewilligten Schlachtbetrieben sind zulässig:
 
 #### Art. 9a
 
-<sup>1</sup> Die Hoftötung zur Fleischgewinnung ist zulässig für Schlachtvieh, die Weidetötung zur Fleischgewinnung für Tiere der Rindergattung ab vier Monaten und für Gehegewild.
+[^9a-1]
+
+<sup>1</sup> Die Hoftötung zur Fleischgewinnung ist zulässig für Schlachtvieh, die Weidetötung zur Fleischgewinnung für Tiere der Rindergattung ab vier Monaten.
 
 <sup>2</sup>
 
-Tierhalterinnen und Tierhalter, die Hof- oder Weidetötungen zur Fleischgewinnung vornehmen wollen, bedürfen einer Bewilligung der zuständigen kantonalen Behörde. Diese wird mit folgenden Auflagen erteilt:
+Die Tierhalterin oder der Tierhalter muss gewährleisten, dass die Anforderungen der Tierschutzgesetzgebung an das Betäuben und das Entbluten der Tiere durch eine fachkundige Person nach Artikel 177 Absatz 1<sup>bis</sup> der Tierschutzverordnung vom 23. April 2008[^9a-2] eingehalten werden; sie oder er muss insbesondere dafür sorgen, dass:
 
-- a.
+- a. bei der Hoftötung zur Fleischgewinnung die Tiere in einer geeigneten Einrichtung fixiert, betäubt und entblutet werden;
+- b. bei der Weidetötung zur Fleischgewinnung die Tiere unter sicheren Bedingungen geschossen und entblutet werden;
+- c. der Betäubungserfolg, das ausreichende Entbluten sowie der Todeseintritt überprüft und unverzüglich Massnahmen ergriffen werden, wenn das Betäuben oder das Entbluten nicht korrekt erfolgt ist.
 
-  Die Tierhalterin oder der Tierhalter muss gewährleisten, dass die Anforderungen der Tierschutzgesetzgebung an das Betäuben und das Entbluten der Tiere eingehalten werden; er oder sie muss insbesondere dafür sorgen, dass:
+<sup>3</sup> Die Tiere müssen nach dem Betäuben und dem Entbluten in einen zum Voraus bestimmten, nahe gelegenen Schlachtbetrieb transportiert werden, in dem die Tiere umgehend ausgenommen und die Schlachtung beendet wird; auf dem Begleitdokument muss der Zeitpunkt des Betäubens und des Entblutens festgehalten sein.
 
-  - 1\. bei der Hoftötung zur Fleischgewinnung die Tiere in einer geeigneten Einrichtung fixiert und durch eine Fachperson nach Artikel 177 Absatz 1<sup>bis</sup> der Tierschutzverordnung vom 23. April 2008[^9a-1] (TSchV) betäubt und entblutet werden;
-  - 2\. bei der Weidetötung zur Fleischgewinnung die Tiere unter sicheren Bedingungen durch eine fachkundige Person nach Artikel 177 Absatz 1<sup>bis</sup> TSchV geschossen und entblutet werden;
-  - 3\. der Betäubungserfolg, das ausreichende Entbluten sowie der Todeseintritt überprüft werden und unverzüglich Massnahmen ergriffen werden, wenn das Betäuben oder das Entbluten nicht korrekt erfolgt ist.
+<sup>4</sup> Die Tierhalterin oder der Tierhalter muss gewährleisten, dass die hygienischen Anforderungen an die Tötung eingehalten werden; insbesondere muss sie oder er dafür sorgen, dass das Stichblut aufgefangen und zusammen mit den Schlachttierkörpern in den Schlachtbetrieb verbracht wird.
 
-- b. Die Tiere müssen nach dem Entbluten in einen zum Voraus bestimmten Schlachtbetrieb transportiert werden, in dem die Schlachtung beendet wird; auf dem Begleitdokument muss der Zeitpunkt des Betäubens und des Entblutens festgehalten sein.
-- c. Die Tierhalterin oder der Tierhalter muss gewährleisten, dass die hygienischen Anforderungen an die Schlachtung eingehalten werden; insbesondere muss sie oder er dafür sorgen, dass das Stichblut aufgefangen und zusammen mit den Schlachttierkörpern in den Schlachtbetrieb verbracht wird.
+<sup>5</sup> Sie oder er muss dokumentieren, welche Person im Einzelfall das Betäuben und das Entbluten der Tiere vornimmt. Zudem hat sie oder er allfällige Probleme beim Betäuben und beim Entbluten sowie die Massnahmen, die zu deren Behebung ergriffen wurden, nachvollziehbar zu dokumentieren.
 
-<sup>3</sup> Die Tierhalterin oder der Tierhalter muss dokumentieren, welche Person im Einzelfall das Betäuben und das Entbluten der Tiere vornimmt. Zudem hat sie oder er allfällige Probleme beim Betäuben und beim Entbluten sowie die Massnahmen, die zu deren Behebung ergriffen wurden, nachvollziehbar zu dokumentieren.
+<sup>6</sup> Bei der Hoftötung zur Fleischgewinnung müssen das Betäuben und das Entbluten der Tiere stichprobenweise, mindestens aber einmal jährlich pro Betrieb, von einer amtlichen Tierärztin oder einem amtlichen Tierarzt überwacht werden.
 
-<sup>4</sup> Bei der Hoftötung zur Fleischgewinnung muss das Betäuben und das Entbluten des Schlachtviehs stichprobenweise, mindestens aber einmal jährlich pro Betrieb, von einer amtlichen Tierärztin oder einem amtlichen Tierarzt überwacht werden.
+<sup>7</sup> Bei der Weidetötung zur Fleischgewinnung müssen der Abschuss und das Entbluten der Tiere von einer amtlichen Tierärztin oder einem amtlichen Tierarzt überwacht werden.
 
-<sup>5</sup> Bei der Weidetötung zur Fleischgewinnung muss der Abschuss und das Entbluten der Tiere immer von einer amtlichen Tierärztin oder einem amtlichen Tierarzt überwacht werden.
-
-[^9a-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9a-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 ### 3. Abschnitt: Krankes oder verunfalltes Schlachtvieh und verunfalltes Jagdwild
 
@@ -320,9 +361,11 @@ Tierhalterinnen und Tierhalter, die Hof- oder Weidetötungen zur Fleischgewinnun
 
 #### Art. 12
 
-**Verunfalltes Jagdwild**
+**Verunfalltes Jagdwild**[^12-1]
 
-Verunfalltes, noch lebend vorgefundenes Jagdwild ist nach dem Erlegen durch eine fachkundige Person nach Artikel 21 Absatz 1 auf Merkmale hin zu untersuchen, die darauf hinweisen, dass das Fleisch für die menschliche Gesundheit bedenklich sein könnte, wenn das Fleisch in Verkehr gebracht werden soll. Liegen derartige Merkmale vor, so ist der Wildkörper einer amtlichen Fleischuntersuchung zu unterziehen.
+Verunfalltes, noch lebend vorgefundenes Jagdwild ist nach dem Erlegen durch eine fachkundige Person nach Artikel 21 Absatz 1 auf Merkmale hin zu untersuchen, die darauf hinweisen, dass das Fleisch für die menschliche Gesundheit bedenklich sein könnte, wenn das Fleisch in Verkehr gebracht werden soll. Liegen derartige Merkmale vor, so ist der Schlachttierkörper einer amtlichen Fleischuntersuchung zu unterziehen.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### 4. Abschnitt: Hygiene
 
@@ -338,18 +381,24 @@ Der einzelne Betrieb muss dafür sorgen, dass betriebsfremde Personen nicht ohne
 
 <sup>1</sup> Schlacht- und Wildbearbeitungsbetriebe müssen dafür sorgen, dass Tiere, die nicht zum Schlachten bestimmt sind oder für die ein Schlachtverbot gilt, keinen Zugang zum Betrieb haben.
 
-<sup>2</sup> Abweichend von Absatz 1 haben Equiden, die nach Artikel 15 Absatz 2 der Verordnung vom 18. August 2004[^14-1] über die Tierarzneimittel als Heimtiere deklariert sind, Zugang zu Betrieben mit geringer Kapazität, wenn sie dort getötet und nach der Verordnung vom 25. Mai 2011[^14-2] über die Entsorgung von tierischen Nebenprodukten entsorgt werden sollen.
+<sup>1bis</sup> Betriebe, in denen gelegentliche Schlachtungen durchgeführt werden, müssen dafür sorgen, dass Tiere, die nicht zum Schlachten bestimmt sind oder für die ein Schlachtverbot gilt, keinen Zugang zu den Schlachträumen haben.[^14-1]
+
+<sup>2</sup> Abweichend von Absatz 1 können Tiere der Pferdegattung, die nach Artikel 15 Absatz 2 der Tierarzneimittelverordnung vom 18. August 2004[^14-2] als Heimtiere deklariert sind, Zugang zu Betrieben mit geringer Kapazität haben, wenn sie dort zeitlich getrennt von anderen Tieren getötet und nach der Verordnung vom 25. Mai 2011[^14-3] über tierische Nebenprodukte entsorgt werden sollen.[^14-4]
 
 <sup>3</sup> Tiere, die in einem Schlachtbetrieb ausgeladen worden sind, müssen dort geschlachtet werden. Die Kantonstierärztin oder der Kantonstierarzt kann ausnahmsweise bewilligen, dass die Tiere wieder wegtransportiert werden.
 
-[^14-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^14-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^14-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^14-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^14-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^14-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 15
 
-**Schutz vor Ungeziefer**
+**Schutz vor Ungeziefer**[^15-1]
 
-Ungeziefer (Insekten, Nagetiere usw.) muss mit geeigneten Massnahmen von Schlacht- und Wildbearbeitungsbetrieben ferngehalten werden.
+Ungeziefer, wie Insekten und Nagetiere, müssen mit geeigneten Massnahmen von Schlacht- und Wildbearbeitungsbetrieben sowie von Schlachträumen von Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden, ferngehalten werden.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 16
 
@@ -363,19 +412,30 @@ Ungeziefer (Insekten, Nagetiere usw.) muss mit geeigneten Massnahmen von Schlach
 
 <sup>4</sup> Beschlagnahmtes Fleisch und tierische Nebenprodukte dürfen nicht mit Schlachttierkörpern und Schlachterzeugnissen in Berührung kommen.
 
-<sup>5</sup> Das EDI regelt die Hygienemassnahmen in den Schlacht- und Wildbearbeitungsbetrieben.
+<sup>5</sup> Das EDI regelt die Hygienemassnahmen in den Schlacht- und Wildbearbeitungsbetrieben sowie in Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden.[^16-2]
 
 [^16-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^16-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 17
 
 **Kühlung**
 
-<sup>1</sup> Die Schlachttierkörper und Schlachterzeugnisse müssen spätestens nach der Fleischuntersuchung der Kühlung zugeführt werden, ausser sie sollen vorher zerlegt werden. Die Temperaturabsenkung muss kontinuierlich vorgenommen werden; die Kühltemperatur darf bei Schlachttierkörpern eine Temperatur von höchstens 7 °C, bei Hausgeflügel und Hauskaninchen höchstens 4 °C und bei Schlachterzeugnissen höchstens 3 °C erreichen.
+<sup>1</sup>
+
+Die Schlachttierkörper und Schlachterzeugnisse müssen der Kühlung zugeführt werden, ausser sie sollen schlachtwarm zerlegt und verarbeitet werden:
+
+- a. bei der Schlachtung in Schlacht- und Wildbearbeitungsbetrieben: spätestens nach der Fleischuntersuchung;
+- b. in Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden: unmittelbar nach der Schlachtung.[^17-1]
+
+<sup>1bis</sup> Die Temperaturabsenkung muss kontinuierlich vorgenommen werden; die Kühltemperatur darf bei Schlachttierkörpern eine Temperatur von höchstens 7 °C, bei Hausgeflügel und Hauskaninchen höchstens 4 °C und bei Schlachterzeugnissen höchstens 3 °C erreichen.[^17-2]
 
 <sup>2</sup> Während der Kühlung muss durch eine angemessene Belüftung sichergestellt sein, dass sich auf dem Fleisch kein Kondenswasser bildet.
 
 <sup>3</sup> Schlachtwarme Schlachttierkörper und Schlachterzeugnisse dürfen vom Schlacht- oder vom Wildbearbeitungsbetrieb zur weiteren Verarbeitung während längstens zwei Stunden ungekühlt transportiert werden.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^17-2]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 18
 
@@ -387,12 +447,13 @@ Tiere, Schlachttierkörper und Schlachterzeugnisse dürfen vor der Fleischunters
 
 - a. die Betäubungsverfahren nach der Tierschutzgesetzgebung;
 - b. die Elektrostimulation der Schlachttierkörper;
-- c. für das Brühen von Schweinen und Entfedern von Geflügel: die Verwendung von Verarbeitungshilfsstoffen, die gestützt auf Artikel 24 LGV[^18-1] vom EDI geregelt werden;
+- c.[^18-1] für das Brühen von Schweinen und Entfedern von Hausgeflügel und Laufvögeln: die Verwendung von Verarbeitungshilfsstoffen, die gestützt auf Artikel 24 LGV[^18-2] vom EDI geregelt werden;
 - d. das Aufblasen von Schafen und Ziegen zur Erleichterung des Enthäutens.
 
 <sup>2</sup> Vorbehalten bleiben die gestützt auf Artikel 29 LGV vom EDI geregelten Verfahren.
 
-[^18-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^18-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^18-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 19
 
@@ -400,21 +461,25 @@ Tiere, Schlachttierkörper und Schlachterzeugnisse dürfen vor der Fleischunters
 
 <sup>1</sup>
 
-Der Betrieb muss die Hygiene systematisch überwachen. Die Überwachung umfasst namentlich:
+Schlacht- und Wildbearbeitungsbetriebe müssen die Hygiene systematisch überwachen. Die Überwachung umfasst namentlich:
 
 - a. Sauberkeitskontrollen an jedem Arbeitstag;
 - b. risikobasierte mikrobiologische Untersuchungen von Schlachttierkörpern sowie von Oberflächen von Geräten und Einrichtungen nach den vom EDI gestützt auf Artikel 10 Absatz 4 LGV[^19-2] erlassenen Bestimmungen;
 - c. die ununterbrochene Aufzeichnung der Temperatur in Räumen mit mehr als 200 m<sup>3</sup> Inhalt, in denen gekühltes oder tiefgekühltes Fleisch gelagert wird.
 
-<sup>2</sup> Als Referenzverfahren für die Probenahme von Schlachttierkörpern gilt die Norm «SN EN ISO 17604, 2015 Mikrobiologie der Lebensmittelkette − Probenahme von Schlachttierkörpern zur mikrobiologischen Untersuchung»[^19-3].
+<sup>2</sup> Als Referenzverfahren für die Probenahme von Schlachttierkörpern gilt die Norm SN EN ISO 17604, 2015 Mikrobiologie der Lebensmittelkette Probenahme von Schlachttierkörpern zur mikrobiologischen Untersuchung»[^19-3].
 
-<sup>3</sup> Der Betrieb muss die Ergebnisse der Sauberkeitskontrollen und der risikobasierten mikrobiologischen Untersuchungen während dreier Jahre aufbewahren und auf Verlangen den amtlichen Kontrollorganen vorweisen.
+<sup>3</sup> Die Betriebe müssen die Ergebnisse der Sauberkeitskontrollen und der risikobasierten mikrobiologischen Untersuchungen während dreier Jahre aufbewahren und auf Verlangen den amtlichen Vollzugsorganen vorweisen.
 
-<sup>4</sup> Im Übrigen gelten die Bestimmungen über die Selbstkontrolle nach den Artikeln 73–85 LGV.
+<sup>4</sup> In Betrieben, in denen gelegentliche Schlachtungen durchführt werden, müssen die Tierhalterinnen und Tierhalter ein Selbstkontrollsystem führen, das der Grösse des Betriebes und dem Umfang der Schlachtungen angemessen ist.
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+<sup>5</sup> Sie müssen im Rahmen der Selbstkontrolle ein Schlachtverzeichnis führen, das mindestens das Datum sowie die Art und die Anzahl der geschlachteten Tiere enthält. Das Schlachtverzeichnis muss jeweils bis am 31. Januar des Folgejahres der zuständigen kantonalen Vollzugsbehörde übermittelt werden.
+
+<sup>6</sup> Im Übrigen gelten die Bestimmungen über die Selbstkontrolle nach den Artikeln 73–85 LGV.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^19-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^19-3]: Der Text dieser Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, Postfach, CH-8404 Winterthur; www.snv.ch.
+[^19-3]: Der Text dieser Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, Postfach, CH-8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 19a
 
@@ -440,11 +505,13 @@ Der Betrieb muss die Hygiene systematisch überwachen. Die Überwachung umfasst 
 
 <sup>5</sup> Die Befunde der Untersuchung nach Absatz 3 werden nach der vom EDI gestützt auf Artikel 40 erstellten Formularvorlage schriftlich festgehalten. Die Bescheinigung ist der Abnehmerin oder dem Abnehmer auszuhändigen.
 
-<sup>6</sup> Werden bei der Untersuchung nach Absatz 3 Merkmale festgestellt, die darauf hinweisen, dass das Fleisch für die menschliche Gesundheit bedenklich sein könnte, so ist der Wildkörper vor einer allfälligen Abgabe als Lebensmittel einer amtlichen Fleischuntersuchung zu unterziehen.
+<sup>6</sup> Werden bei der Untersuchung nach Absatz 3 Merkmale festgestellt, die darauf hinweisen, dass das Fleisch für die menschliche Gesundheit bedenklich sein könnte, so ist der Schlachttierkörper vor einer allfälligen Abgabe als Lebensmittel einer amtlichen Fleischuntersuchung zu unterziehen.[^20-1]
 
 <sup>7</sup> Fleisch von Wildschweinen, Landbären und Nutrias ist eine Probe zu entnehmen und auf Trichinellen untersuchen zu lassen. Voraussetzung für die Abgabe als Lebensmittel ist ein negatives Untersuchungsresultat. Die Abnehmerin oder der Abnehmer erhält eine Kopie des Laborberichts.
 
 <sup>8</sup> Die Vorschriften dieses Artikels gelten nicht für Hasen und Federwild.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 21
 
@@ -460,7 +527,11 @@ Als fachkundige Person gilt, wer einen Kurs besucht hat, in dem Kenntnisse erwor
 
 <sup>2</sup> Die Kantonstierärztin oder der Kantonstierarzt genehmigt vorgängig die Kursprogramme und die Kursunterlagen und kann die angebotenen Kurse hinsichtlich Durchführung und Qualität überprüfen.
 
-### 5. Abschnitt: Anmeldung zur Schlachtung und Eingangskontrolle
+### 5. Abschnitt: Anmeldung zur Schlachtung und Eingangskontrolle in Schlacht- und Wildbearbeitungsbetrieben
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 22
 
@@ -479,9 +550,10 @@ Für Schlachtvieh, Hausgeflügel, Hauskaninchen, Gehegewild und Laufvögel, die 
 - g. die Ergebnisse früherer Schlachttier- und Fleischuntersuchungen von anderen Tieren aus dem gleichen Herkunftsbestand;
 - h. den Namen der üblicherweise beigezogenen Tierärztinnen oder Tierärzte.
 
-<sup>2</sup> Die amtlichen Tierärztinnen oder Tierärzte können von den Tierhalterinnen und Tierhaltern Auskünfte zu den Informationen nach Absatz 1 verlangen.
+<sup>2</sup> Die amtlichen Vollzugsorgane können von den Tierhalterinnen und Tierhaltern Auskünfte zu den Informationen nach Absatz 1 verlangen.[^22-2]
 
 [^22-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^22-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 23
 
@@ -500,9 +572,11 @@ Die Anmeldung zur Schlachtung muss mindestens folgende Informationen enthalten:
 
 <sup>3</sup> Das BLV kann die Angabe weiterer Informationen zur Lebensmittelkette vorschreiben.
 
-<sup>4</sup> Die Informationen müssen unverzüglich der amtlichen Tierärztin oder dem amtlichen Tierarzt zur Verfügung gestellt werden.
+<sup>4</sup> Die Informationen müssen unverzüglich den amtlichen Vollzugsorganen[^23-1] zur Verfügung gestellt werden.
 
 <sup>5</sup> Der Schlachtbetrieb muss die Anlieferung der Tiere so koordinieren, dass nicht mehr Tiere angeliefert werden, als geschlachtet oder untergebracht werden können.
+
+[^23-1]: Ausdruck gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 24
 
@@ -529,17 +603,19 @@ Die Gesundheitsmeldung für Hausgeflügel muss 72 bis 12 Stunden vor der Schlach
 - e. das Datum der Einstallung und die Anzahl der eingestallten Tiere;
 - f. das Datum der Ausstallung und die Anzahl der ausgestallten Tiere;
 - g. die Sterblichkeitsrate der Tiere während der Mast;
-- h. den Befund der Untersuchung der von der Geflügelhalterin oder dem Geflügelhalter nach Artikel 257 Absatz 2 Buchstabe c TSV[^24-4] entnommenen Proben auf *Salmonella*-Infektionen.
+- h.[^24-4] den Befund der Untersuchung der von der Halterin oder dem Halter von Hausgeflügel nach Artikel 257*a* Absatz 1 Buchstabe c TSV[^24-5] entnommenen Proben auf Salmonella-Infektionen.
 
-<sup>4</sup> Das Auftreten von besonderen Ereignisse in der Zeit zwischen dem Versand der Gesundheitsmeldung und der Ankunft der Tiere im Schlachthof ist der Fleischkontrolle mündlich zu melden.
+<sup>4</sup> Das Auftreten von besonderen Ereignissen in der Zeit zwischen dem Versand der Gesundheitsmeldung und der Ankunft der Tiere im Schlachtbetrieb ist der Fleischkontrolle mündlich zu melden.[^24-6]
 
-<sup>5</sup> Ist ein Begleitdokument nach Artikel 12 TSV vorgeschrieben, so ist die Gesundheitsmeldung durch die Tierhalterin oder den Tierhalter auf diesem Dokument zu machen. Für Equiden ist sie im Equidenpass zu machen. Bei Equiden, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden, sind diese Angaben in der Aufnahmebestätigung nach Artikel 27 Absatz 2 IdTVD-V zu machen.[^24-5]
+<sup>5</sup> Ist ein Begleitdokument nach Artikel 12 TSV vorgeschrieben, so ist die Gesundheitsmeldung durch die Tierhalterin oder den Tierhalter auf diesem Dokument zu machen. Für Tiere der Pferdegattung hat die Meldung im Equidenpass zu erfolgen. Bei Tieren der Pferdegattung, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden, sind diese Angaben in der Aufnahmebestätigung nach Artikel 27 Absatz 2 der IdTVD-V zu machen.[^24-7]
 
 [^24-1]: Fassung gemäss Anhang 3 Ziff. II 6 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^24-2]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
 [^24-3]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24-4]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^24-5]: Fassung gemäss Anhang 3 Ziff. II 6 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-5]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-6]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-7]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 25
 
@@ -591,65 +667,70 @@ Die verantwortliche Person:
 
 #### Art. 27
 
-**Gegenstand der Untersuchung**
+**Gegenstand der Schlachttieruntersuchung**[^27-1]
 
-<sup>1</sup>
+<sup>1</sup> Schlachtvieh, Gehegewild und Laufvögel sind vor der Schlachtung zu untersuchen.
 
-Vor der Schlachtung sind durch eine amtliche Tierärztin oder einen amtlichen Tierarzt zu untersuchen:
-
-- a. Schlachtvieh;
-- b. Hausgeflügel;
-- c. Hauskaninchen;
-- d. Laufvögel;
-- e. Gehegewild.
-
-<sup>2</sup> Bei Hausgeflügel, Hauskaninchen und Laufvögeln muss die Schlachttieruntersuchung bei gelegentlichen Schlachtungen nur stichprobenweise durchgeführt werden.
+<sup>2</sup> Bei Hausgeflügel und Hauskaninchen kann die Schlachttieruntersuchung stichprobenweise bei einzelnen Tieren pro Herde durchgeführt werden.
 
 <sup>3</sup> Die Untersuchung hat innerhalb von 24 Stunden nach Ankunft der Tiere im Schlachtbetrieb und innerhalb von 24 Stunden vor der Schlachtung zu erfolgen.
 
-<sup>4</sup>
+<sup>4</sup> Bei gelegentlichen Schlachtungen kann die Schlachttieruntersuchung stichprobenweise durchgeführt werden.
+
+<sup>5</sup>
 
 Das EDI regelt:
 
 - a. die Durchführung der Untersuchung;
 - b. die Massnahmen aufgrund des Ergebnisses der Untersuchung.
 
+[^27-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 #### Art. 28
 
 **Schlachttieruntersuchung im Herkunftsbestand**
 
-<sup>1</sup> Bei Schlachtvieh, Hausgeflügel, Hauskaninchen, Laufvögeln und Gehegewild kann die Schlachttieruntersuchung im Herkunftsbestand durchgeführt werden.[^28-1]
+<sup>1</sup> Bei Schlachtvieh, Hausgeflügel, Hauskaninchen, Gehegewild und Laufvögeln kann die Schlachttieruntersuchung im Herkunftsbestand durchgeführt werden.[^28-1]
 
-<sup>2</sup> <sup>bis</sup> Die Untersuchung von verunfalltem oder krankem Schlachtvieh im Herkunftsbestand kann durch die Bestandestierärztin oder den Bestandestierarzt erfolgen. Die Schlachttauglichkeit und die Transportfähigkeit müssen beurteilt und auf der Gesundheitsbescheinigung bestätigt werden.[^28-2]
+<sup>1bis</sup> Die Untersuchung von verunfalltem oder krankem Schlachtvieh im Herkunftsbestand kann durch die Bestandestierärztin oder den Bestandestierarzt erfolgen. Die Schlachttauglichkeit und die Transportfähigkeit müssen beurteilt und auf der Gesundheitsbescheinigung bestätigt werden.[^28-2]
 
-<sup>2</sup> Die Schlachttieruntersuchung im Herkunftsbestand muss durch eine amtliche Tierärztin oder einen amtlichen Tierarzt durchgeführt und mit einer Gesundheitsbescheinigung bestätigt werden.
+<sup>2</sup> Die Schlachttieruntersuchung im Herkunftsbestand muss mit einer Gesundheitsbescheinigung bestätigt werden.[^28-3]
 
-<sup>3</sup> Die Tiere sind nach der Schlachttieruntersuchung auf direktem Weg zum Schlachtbetrieb zu bringen und dürfen während des Transports und im Schlachtbetrieb keinen Kontakt mit anderen, nicht untersuchten Tieren haben. Die Schlachtung hat innerhalb von drei Tagen zu erfolgen. Im Schlachtbetrieb ist durch die amtliche Tierärztin oder den amtlichen Tierarzt vor der Schlachtung nur eine Überprüfung der Identität und eine Übersichtskontrolle vorzunehmen.
+<sup>3</sup> Die Tiere sind nach der Schlachttieruntersuchung zum Schlachtbetrieb zu bringen und dürfen während des Transports und im Schlachtbetrieb keinen Kontakt mit nicht untersuchten Tieren haben. Die Schlachtung hat innerhalb von drei Tagen nach der Schlachttieruntersuchung zu erfolgen. Im Schlachtbetrieb genügen eine Überprüfung der Identität und eine Übersichtskontrolle.[^28-4]
 
 <sup>4</sup> Wenn die Tiere nicht innerhalb von drei Tagen nach Ausstellen der Gesundheitsbescheinigung geschlachtet werden, müssen sie erneut untersucht und mit einer Gesundheitsbescheinigung versehen werden. Befinden sie sich bereits auf dem Weg in den Schlachtbetrieb, muss dort eine Schlachttieruntersuchung durchgeführt werden.
 
 <sup>5</sup> Gehegewild kann innerhalb von 60 Tagen nach Ausstellen der Gesundheitsbescheinigung geschlachtet werden, sofern die Tiere innerhalb von drei Tagen vor der Schlachtung durch eine fachkundige Person nach Artikel 21 Absatz 1 erneut untersucht worden sind. Die Befunde der Untersuchung werden von der fachkundigen Person auf der vom EDI gestützt auf Artikel 40 erstellten Formularvorlage schriftlich festgehalten. Die Bescheinigung ist der Abnehmerin oder dem Abnehmer auszuhändigen.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^28-2]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-2]: Ursprünglich: Abs. 2<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^28-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### 2. Abschnitt: Fleischuntersuchung
 
 #### Art. 29
 
-**Gegenstand der Untersuchung**
+**Gegenstand der Fleischuntersuchung[^29-1]**
 
-<sup>1</sup> Bei Schlachtvieh und Gehegewild muss die Fleischuntersuchung in jedem Fall unmittelbar nach der Schlachtung durchgeführt werden.
+<sup>1</sup> Die Fleischuntersuchung muss zeitnah nach der Schlachtung und vor der weiteren Verarbeitung durchgeführt werden.[^29-2]
 
-<sup>2</sup> Bei Hausgeflügel, Hauskaninchen und Laufvögeln muss die Fleischuntersuchung in Schlachtbetrieben in jedem Fall unmittelbar nach der Schlachtung, bei gelegentlichen Schlachtungen nur stichprobenweise durchgeführt werden.
+<sup>2</sup> Bei Schlachtvieh, Gehegewild und Laufvögeln muss jeder Schlachttierkörper untersucht werden. Bei Hausgeflügel und Hauskaninchen muss die Fleischuntersuchung zeitnah nach der Schlachtung erfolgen und kann stichprobenweise bei einzelnen Tieren pro Herde durchgeführt werden.[^29-3]
+
+<sup>2bis</sup> Bei gelegentlichen Schlachtungen kann die Fleischuntersuchung stichprobenweise durchgeführt werden.[^29-4]
 
 <sup>3</sup> Die Fleischuntersuchung nach den Artikeln 12 und 20 Absatz 4 muss in jedem Fall in einem Wildbearbeitungsbetrieb durchgeführt werden. Die zuständige amtliche Tierärztin oder der zuständige amtliche Tierarzt kann sämtliches der Schlachtung zugeführte Jagdwild und die dazugehörigen Bescheinigungen kontrollieren.
 
 <sup>4</sup> Wird Jagdwild einer amtlichen Tierärztin oder einem amtlichen Tierarzt zur Untersuchung vorgelegt und ist die Präsentation zur Fleischkontrolle nach den vom EDI gestützt auf Artikel 38 Absatz 3 erlassenen Bestimmungen unvollständig, so ist für die fehlenden Teile der Präsentation die Bescheinigung massgebend, die durch die fachkundige Person gemäss der vom EDI gestützt auf Artikel 40 erstellten Formularvorlage ausgestellt wird.
 
+[^29-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-4]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 #### Art. 30
 
-**Untersuchung**
+**Fleischuntersuchung[^30-1]**
 
 <sup>1</sup>
 
@@ -658,11 +739,25 @@ Bei der Fleischuntersuchung müssen die Schlachttierkörper und die vorgeschrieb
 - a. Veränderungen, welche die menschliche Gesundheit gefährden können oder die ekelerregend sind;
 - b. Krankheiten, insbesondere Tierseuchen;
 - c. unvollständig entferntes spezifiziertes Risikomaterial;
-- d. pathogene Mikroorganismen und Parasiten sowie Verderbniserreger;
-- e. Fremdstoffe;
+- d.[^30-2] Parasiten;
+- e.[^30-3] …
 - f. Verunreinigungen.
 
 <sup>2</sup> Das EDI regelt die Durchführung der Fleischuntersuchung und die Art der Bestätigung der Genusstauglichkeit.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-3]: Aufgehoben durch Ziff. I der V vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 30a
+
+**Erweiterte Fleischuntersuchung**[^30a-1]
+
+<sup>1</sup> Bestehen bei der Fleischuntersuchung Anzeichen für ein mögliches Risiko für die Gesundheit von Mensch oder Tier oder für eine Beeinträchtigung des Tierwohls zu Lebzeiten des Tieres, so wird für den Schlachttierkörper und die Teile eine erweiterte Fleischuntersuchung durchgeführt.
+
+<sup>2</sup> Das EDI regelt die Durchführung der erweiterten Fleischuntersuchung.
+
+[^30a-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 31
 
@@ -709,7 +804,7 @@ Von allen Schlachttierkörpern der folgenden Tiere sind Proben zu erheben und au
 
 <sup>1</sup>
 
-Die amtliche Tierärztin oder der amtliche Tierarzt bezeichnet die Schlachttierkörper und die Schlachterzeugnisse nach Abschluss der Fleischuntersuchung als genusstauglich, wenn sie ohne Einschränkung zur Verwendung als Lebensmittel geeignet sind und:
+Die Schlachttierkörper und die Schlachterzeugnisse werden nach Abschluss der Fleischuntersuchung als genusstauglich bezeichnet, wenn sie ohne Einschränkung zur Verwendung als Lebensmittel geeignet sind und:[^32-1]
 
 - a.
 
@@ -721,7 +816,10 @@ Die amtliche Tierärztin oder der amtliche Tierarzt bezeichnet die Schlachttierk
 
 - b. mit den übrigen Bestimmungen des Lebensmittelrechts übereinstimmen.
 
-<sup>2</sup> Die Schlachttierkörper sind in jedem Fall ungeniessbar, wenn sie ein Risiko für die Gesundheit von Mensch und Tier darstellen können.
+<sup>2</sup> Die Schlachttierkörper sind in jedem Fall genussuntauglich, wenn sie ein Risiko für die Gesundheit von Mensch und Tier darstellen können.[^32-2]
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 33
 
@@ -729,7 +827,7 @@ Die amtliche Tierärztin oder der amtliche Tierarzt bezeichnet die Schlachttierk
 
 <sup>1</sup> Die Schlachttierkörper und wenn nötig die zugehörigen Teile werden beschlagnahmt, wenn nicht sofort entschieden werden kann, ob sie genusstauglich sind.
 
-<sup>2</sup> Wenn die Möglichkeit einer Gesundheitsgefährdung besteht, ordnet die amtliche Tierärztin oder der amtliche Tierarzt sichernde Bedingungen für die Aufbewahrung an.
+<sup>2</sup> Wenn die Möglichkeit einer Gesundheitsgefährdung besteht, ordnen die amtlichen Vollzugsorgane sichernde Bedingungen für die Aufbewahrung an.
 
 #### Art. 34
 
@@ -739,7 +837,7 @@ Die amtliche Tierärztin oder der amtliche Tierarzt bezeichnet die Schlachttierk
 
 <sup>2</sup>
 
-Bei Beanstandungen entscheidet die amtliche Tierärztin oder der amtliche Tierarzt:
+Bei Beanstandungen entscheiden die amtlichen Vollzugsorgane:
 
 - a. welche Teile des Schlachttierkörpers genusstauglich sind;
 - b. ob der Schlachttierkörper oder die Schlachterzeugnisse behandelt, insbesondere tiefgekühlt werden müssen, bevor sie als genusstauglich bezeichnet werden können;
@@ -802,12 +900,12 @@ Die zuständige kantonale Behörde kann nötigenfalls anordnen, dass:
 
 Sie müssen insbesondere:
 
-- a. der amtlichen Tierärztin oder dem amtlichen Tierarzt fünf Werktage zum Voraus das Programm mit den vorgesehenen Schlachtzeiten und der Zahl des erwarteten Schlachtviehs und Gehegewildes mitteilen und ihr oder ihm wesentliche Änderungen des Programms am Vortag melden;
-- b. die Begleitdokumente und anderen Gesundheitsmeldungen der amtlichen Tierärztin oder dem amtlichen Tierarzt vor der Schlachttieruntersuchung zur Einsichtnahme zur Verfügung stellen;
+- a. den amtlichen Vollzugsorganen fünf Werktage zum Voraus das Programm mit den vorgesehenen Schlachtzeiten und der Zahl des erwarteten Schlachtviehs und Gehegewildes mitteilen und ihnen wesentliche Änderungen des Programms am Vortag melden;
+- b. die Begleitdokumente und anderen Gesundheitsmeldungen den amtlichen Vollzugsorganen vor der Schlachttieruntersuchung zur Einsichtnahme zur Verfügung stellen;
 - c. die Schlachttierkörper so kennzeichnen, dass sie den einzelnen angelieferten Tieren eindeutig zugeordnet werden können;
 - d. die zu untersuchenden Teile bis zum Abschluss der Fleischuntersuchung so anordnen oder kennzeichnen, dass ihre Zugehörigkeit zu den Schlachttierkörpern ausser Zweifel steht;
 - e. dafür sorgen, dass die Schlachttierkörper und Teile eines Tieres vor Abschluss der Fleischuntersuchung keinen Kontakt mit Teilen anderer Tiere haben;
-- f. selbst festgestellte allfällige Veränderungen an Schlachttierkörpern und Teilen der amtlichen Tierärztin oder dem amtlichen Tierarzt melden;
+- f. selbst festgestellte allfällige Veränderungen an Schlachttierkörpern und Teilen den amtlichen Vollzugsorganen melden;
 - g. den Schlachttierkörper und die für die Fleischuntersuchung vorgeschriebenen Teile bis zum Abschluss der Fleischuntersuchung im Schlachtraum belassen;
 - h.[^38-1] die für die amtlichen Probenahmen notwendige technische Infrastruktur zur Verfügung stellen und bei der Untersuchung von Schlachttierkörpern und Teilen davon mit der Fleischkontrolle zusammenarbeiten;
 - i. für die unverzügliche Entfernung und sachgemässe Aufbewahrung von beanstandeten Schlachttierkörpern und Teilen sorgen.
@@ -829,6 +927,93 @@ Die Doppel von Untersuchungsbefunden, Informationen zur Lebensmittelkette, Begle
 **Formulare und Stempel**
 
 Das EDI legt die Ausgestaltung der Formulare und Stempel fest.
+
+### **4. Abschnitt:** **Informationssystem** für die Rindviehbeprobung im Schlachtbetrieb
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 40a
+
+**Allgemeines**
+
+<sup>1</sup> Das BLV sorgt für den Betrieb eines Informationssystems, das der Identifizierung der Rinder dient, von denen eine Probe nach Artikel 31 Absatz 1 Buchstabe e zu nehmen ist.
+
+<sup>2</sup> Eine Probe ist von denjenigen Rindern zu nehmen, bei denen das Informationssystem eine Übereinstimmung feststellt zwischen der Identifikationsnummer und der TVD-Nummer ihrer Herkunftstierhaltung sowie den Daten nach Artikel 40*b* Buchstaben a Ziffer 1 und b Ziffer 1.
+
+#### Art. 40b
+
+**Daten**
+
+Das Informationssystem enthält folgende Daten:
+
+- a.
+
+  die Identifikationsnummern der Rinder:
+
+  - 1\. welche die Voraussetzungen für eine Probenahme erfüllen,
+  - 2\. von denen eine Probe genommen wurde;
+
+- b.
+
+  die TVD-Nummern der Tierhaltungen mit Rindern:
+
+  - 1\. welche die Voraussetzungen für eine Überwachung erfüllen,
+  - 2\. von denen eine Probe genommen wurde;
+
+- c.
+
+  die Tierseuchen, auf welche die Proben:
+
+  - 1\. zu untersuchen sind,
+  - 2\. untersucht wurden;
+
+- d.
+
+  die TVD-Nummern der Schlachtbetriebe:
+
+  - 1\. in denen die Proben zu nehmen sind,
+  - 2\. in denen die Proben genommen wurden;
+
+- e. das Datum der Probenahme und den Status der Probe;
+- f.
+
+  die Laboratorien:
+
+  - 1\. in welche die Proben zur Untersuchung geschickt werden sollen,
+  - 2\. in welche die Proben geschickt wurden;
+
+- g. die Zugangsdaten der Person, die den Abgleich der Daten nach Artikel 40*a* Absatz 2 auslöst.
+
+#### Art. 40c
+
+**Eingabe und automatische Speicherung der Daten sowie Zugriff auf die Daten**
+
+<sup>1</sup> Das BLV gibt die Daten nach Artikel 40*b* Buchstaben a Ziffer 1, b Ziffer 1, c Ziffer 1, d Ziffer 1 und f Ziffer 1 in das Informationssystem ein.
+
+<sup>2</sup> Die amtliche Tierärztin oder der amtliche Tierarzt ist verantwortlich dafür, dass bei der Ankunft von Rindern im Schlachtbetrieb deren Identifikationsnummern und die TVD-Nummer ihrer Herkunftstierhaltungen sowie die TVD-Nummer des Schlachtbetriebs im Informationssystem eingegeben werden.
+
+<sup>3</sup> Bei einer Übereinstimmung nach Artikel 40*a* Absatz 2 speichert das Informationssystem automatisch die Daten nach Artikel 40*b* Buchstaben a Ziffer 2, b Ziffer 2, c Ziffer 2, e, f Ziffer 2 und g.
+
+<sup>4</sup> Für den Zugriff auf das Informationssystem melden die kantonalen Behörden dem BLV die amtlichen Tierärztinnen und die amtlichen Tierärzte, die das Informationssystem nutzen wollen. Das BLV erfasst diese Personen im Informationssystem und gewährt ihnen die erforderlichen Zugriffsrechte.
+
+#### Art. 40d
+
+**Schutz, Aufbewahrung und Archivierung der Daten**
+
+<sup>1</sup> Das BLV ist verantwortlich für die Einhaltung der Vorgaben zum Datenschutz sowie zur Daten- und zur Informatiksicherheit.
+
+<sup>2</sup>
+
+Es gelten folgende Aufbewahrungsfristen:
+
+- a. für die Daten nach Artikel 40*b* Buchstaben a Ziffer 1, b Ziffer 1, c Ziffer 1, d Ziffer 1 und f Ziffer 1: während der Dauer des Überwachungsprogramms;
+- b. für die übrigen Daten: mindestens 10 und längstens 30 Jahre.
+
+<sup>3</sup> Die Archivierung der Daten richtet sich nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998[^40d-1].
+
+[^40d-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## 5. Kapitel: Kontrolle anderer Tiere als Säugetiere und Vögel
 
@@ -856,29 +1041,29 @@ Die Kontrollorgane müssen von den Betrieben, die sie kontrollieren, unabhängig
 
 #### Art. 44
 
-**Kontrollen durch Betriebspersonal**
+**Kontrollen durch das Betriebspersonal**[^44-1]
 
-<sup>1</sup>
-
-In Geflügel- und Kaninchenschlachtbetrieben kann die zuständige kantonale Behörde gestatten, dass das Betriebspersonal teilweise die Aufgaben der amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung nach Artikel 54 übernimmt, wenn:
+Die zuständige kantonale Behörde kann Schlachtbetrieben für Hausgeflügel und Hauskaninchen gestatten, dass das Betriebspersonal teilweise die Aufgaben der amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung nach Artikel 54 übernimmt, wenn:
 
 - a. der Betrieb mindestens zwölf Monate lang erfolgreich die gute Hygienepraxis und die Verfahren nach den HACCP-Grundsätzen angewandt hat;
-- b. das betreffende Betriebspersonal die Ausbildung für amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung erfolgreich absolviert hat;
-- c. die Verantwortlichkeiten für die Produktion und Untersuchung getrennt sind;
-- d. der Betrieb über eine international anerkannte Zertifizierung verfügt; und
-- e. der Betrieb Gewähr für die Einhaltung der lebensmittelrechtlichen Vorschriften bietet.
+- b. der Betrieb über eine anerkannte Zertifizierung im Lebensmittelbereich verfügt;
+- c. der Betrieb Gewähr für die Einhaltung der lebensmittelrechtlichen Vorschriften bietet;
+- d. die Verantwortlichkeiten für die Produktion und die Untersuchung getrennt sind;
+- e. das betreffende Betriebspersonal die Ausbildung für amtliche Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung erfolgreich absolviert hat oder für die spezifischen Aufgaben, die es ausführt, von der verantwortlichen amtlichen Tierärztin oder dem verantwortlichen amtlichen Tierarzt geschult und regelmässig weitergebildet wird; und
+- f. die Aufgaben unter Aufsicht der amtlichen Tierärztin, des amtlichen Tierarztes, der amtlichen Fachassistentin Schlachttier- und Fleischuntersuchung oder des amtlichen Fachassistenten Schlachttier- und Fleischuntersuchung ausgeführt werden.
 
-<sup>2</sup> Hilfstätigkeiten bei der amtlichen Fleischkontrolle dürfen ohne die Ausbildung nach Absatz 1 Buchstabe b verrichtet werden. Das betreffende Betriebspersonal muss jedoch für die spezifischen Aufgaben, die es ausführt, von der verantwortlichen amtlichen Tierärztin oder dem verantwortlichen amtlichen Tierarzt geschult und regelmässig weitergebildet werden.[^44-1]
-
-[^44-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^44-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 45
 
-**Tests und Probenahmen durch Betriebspersonal**
+**Tests und Probenahmen durch das Betriebspersonal[^45-1]**
 
-<sup>1</sup> Die zuständige kantonale Behörde kann den von Schlacht- oder Wildbearbeitungsbetrieben entlöhnten Personen erlauben, amtliche Tests an Tieren und Probenahmen durchzuführen.
+<sup>1</sup> Die zuständige kantonale Behörde kann dem Betriebspersonal von Schlacht- oder Wildbearbeitungsbetrieben erlauben, amtliche Tests an Tieren und Probenahmen durchzuführen.[^45-2]
 
 <sup>2</sup> Die amtlichen Tierärztinnen oder Tierärzte bilden diese Personen aus, leiten und beaufsichtigen ihre Tätigkeit. Sie können die Erlaubnis vorübergehend zurückziehen, wenn die Tests und Probenahmen nicht ordnungsgemäss durchgeführt werden.
+
+[^45-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^45-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 46
 
@@ -974,10 +1159,10 @@ Art und Umfang der Überprüfung der einzelnen Schlacht- und Wildbearbeitungsbet
 
 <sup>2</sup>
 
-Bei der Festlegung der Anzahl Kontrollorgane in den Schlacht- und Wildbearbeitungsbetrieben berücksichtigt der Kanton:
+Bei der Festlegung der Anzahl amtlicher Vollzugsorgane in den Schlacht- und Wildbearbeitungsbetrieben berücksichtigt der Kanton:[^52-1]
 
 - a. die Schlachtfrequenzen und die Untersuchungszeiten bei der Schlachttier- und Fleischuntersuchung;
-- b. den Zeitbedarf für die Erholungspausen der amtlichen Tierärztinnen und Tierärzte;
+- b.[^52-2] den Zeitbedarf für die Erholungspausen des Personals der amtlichen Vollzugsorgane;
 - c. die Interessen des Schlacht- oder Wildbearbeitungsbetriebs an einem verzögerungsfreien Betriebsablauf;
 - d. die vorgeschriebenen Präsenzzeiten während den Schlachtungen.
 
@@ -985,15 +1170,19 @@ Bei der Festlegung der Anzahl Kontrollorgane in den Schlacht- und Wildbearbeitun
 
 Der Kanton kann zusätzlich:
 
-- a. amtliche Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung einsetzen, die nach den Anweisungen der amtlichen Tierärztinnen und Tierärzte arbeiten;
-- b.[^52-1]
+- a.[^52-3] amtliche Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung einsetzen, die unter der Aufsicht oder der Verantwortung der amtlichen Tierärztinnen und Tierärzte arbeiten;
+- b.[^52-4]
 
   nichtamtliche Tierärztinnen und Tierärzte einsetzen für die folgenden Aufgaben, sofern sie für die Erfüllung der Aufgabe ausreichend qualifiziert sind:
 
   - 1\. für die Schlachttier- und Fleischuntersuchung in Betrieben mit geringer Kapazität,
-  - 2\. für die Schlachttieruntersuchung bei Hof- und bei Weidetötungen zur Fleischgewinnung und für die Anwesenheit während des Abschusses und des Entblutens der Tiere.
+  - 2\.[^52-5] für die Schlachttieruntersuchung bei Hof- und bei Weidetötungen zur Fleischgewinnung und für die Anwesenheit während des Abschusses und des Entblutens der Tiere bei der Weidetötung.
 
-[^52-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^52-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-4]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^52-5]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 53
 
@@ -1004,7 +1193,8 @@ Der Kanton kann zusätzlich:
 Die amtlichen Tierärztinnen und Tierärzte:
 
 - a. leiten die Schlachttier- und Fleischuntersuchung und führen sie durch;
-- b.[^53-1] erheben Proben, untersuchen sie selbst oder übergeben sie einem Laboratorium nach Artikel 47 Absatz 1;
+- a<sup>bis</sup>.[^53-1] überprüfen die Verfahren nach den HACCP-Grundsätzen in den Schlacht- und Wildbearbeitungsbetrieben;
+- b.[^53-2] erheben Proben, untersuchen sie selbst oder übergeben sie einem Laboratorium nach Artikel 47 Absatz 1;
 - c. kontrollieren die Schlachthygiene und ordnen die Behebung von Mängeln an;
 - d. veranlassen die Verlangsamung oder den Unterbruch des Schlachtvorgangs, wenn eine ordnungsgemässe Durchführung der Fleischuntersuchung nicht mehr möglich ist oder erhebliche Hygienemängel festgestellt werden und andere Massnahmen zur Behebung der Mängel nicht ausreichen;
 - e. überwachen die Entsorgung der tierischen Nebenprodukte, insbesondere des spezifizierten Risikomaterials;
@@ -1025,36 +1215,54 @@ Die amtlichen Tierärztinnen und Tierärzte:
   - 2\. für die Hygiene der Schlachtung,
   - 3\. zur Entsorgung der tierischen Nebenprodukte;
 
-- i.[^53-2] überwachen bei der Hoftötung zur Fleischgewinnung von Schlachtvieh stichprobenweise sowie immer bei der Weidetötung zur Fleischgewinnung von Rindern den Abschuss und das Entbluten der Tiere.
+- i.[^53-3] überwachen bei der Hoftötung zur Fleischgewinnung von Schlachtvieh stichprobenweise sowie immer bei der Weidetötung zur Fleischgewinnung von Rindern den Abschuss und das Entbluten der Tiere;
+- j.[^53-4] sind für Entscheidungen der Schlachttier- und Fleischuntersuchung in Grossbetrieben verantwortlich, auch wenn die Untersuchungen durch die amtlichen Fachassistentinnen und Fachassistenten durchgeführt wurden.
 
-<sup>2</sup> Sie müssen während der gesamten Dauer der Schlachttier- und Fleischuntersuchung anwesend sein.
+<sup>2</sup> In Grossbetrieben müssen sie während der Schlachttier- und Fleischuntersuchung und während der Dauer der Schlachtung anwesend sein.[^53-5]
 
-<sup>2bis</sup> In Grossbetrieben müssen sie während der gesamten Dauer der Schlachtung anwesend sein.[^53-3]
+<sup>2bis</sup> …[^53-6]
 
 <sup>3</sup> Sie können im Verdachtsfall zusätzliche Kontrollen und Untersuchungen durchführen.
 
-[^53-1]: Fassung gemäss Ziff. II 1 der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^53-2]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+<sup>4</sup> Sie sind verantwortlich für die Aus- und Weiterbildung von Betriebspersonal, das die Aufgaben der amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung übernimmt.[^53-7]
+
+[^53-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-2]: Fassung gemäss Ziff. II 1 der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^53-3]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^53-4]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-5]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-6]: Eingefügt durch Ziff. I der V vom 27. Mai 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Aufgehoben durch Ziff. I der V vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-7]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 54
 
-**Amtliche Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung**
+**Amtliche Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung**[^54-1]
 
 <sup>1</sup>
 
-Die amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung sind befugt:
+Die amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung dürfen:
 
-- a. die gute Hygienepraxis und die Verfahren nach den HACCP-Grundsätzen in den Schlachtbetrieben zu überprüfen;
-- b. bei der Schlachttieruntersuchung die Tiere einer ersten Untersuchung zu unterziehen;
-- c. bei Schweinen, Hausgeflügel, Hauskaninchen, Gehegewild und Laufvögeln die vorgeschriebenen Kontrollen vorzunehmen, wenn die Schlachttieruntersuchung bereits im Herkunftsbestand durchgeführt worden ist;
-- d. die Fleischuntersuchung durchzuführen, wenn die Schlachttieruntersuchung keinen erheblichen Anlass zu Beanstandungen geboten hat;
-- e. im Auftrag der amtlichen Tierärztin oder des amtlichen Tierarztes Proben für weitergehende Untersuchungen zu erheben;
-- f. im Auftrag der Kantonstierärztin oder des Kantonstierarztes die Fleischuntersuchung in abgelegenen Betrieben durchzuführen, die Fleisch ausschliesslich direkt an Konsumentinnen und Konsumenten abgeben.
+- a
+
+  unter der Verantwortung der amtlichen Tierärztin oder des amtlichen Tierarztes:
+
+  - 1\.
+
+    in Grossbetrieben:
+
+    - – bei Hausgeflügel und Hauskaninchen die Schlachttieruntersuchung durchführen
+    - – bei den übrigen Tierarten die Tiere vor der Schlachttieruntersuchung einer ersten Untersuchung unterziehen,
+
+  - 2\. in den Schlacht- und Wildbearbeitungsbetrieben die gute Hygienepraxis und die Verfahren nach den HACCP-Grundsätzen überprüfen,
+  - 3\. Proben für weitergehende Untersuchungen erheben;
+
+- b unter der Aufsicht der amtlichen Tierärztin oder des amtlichen Tierarztes: in Grossbetrieben die Fleischuntersuchung durchführen.
+- c. im Auftrag der Kantonstierärztin oder des Kantonstierarztes: in Betrieben mit geringer Kapazität die Schlachttier- und die Fleischuntersuchung durchführen, wenn sichergestellt ist, dass eine amtliche Tierärztin oder ein amtlicher Tierarzt für Rücksprachen erreichbar ist;
+- d. wenn die Schlachttieruntersuchung bereits im Herkunftsbestand durchgeführt worden ist: die vorgeschriebenen Kontrollen vornehmen.
 
 <sup>2</sup>
 
-Bei der Fleischuntersuchung können die amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung den Schlussentscheid treffen, wenn keine Beanstandungen erfolgen, oder bei den nachstehenden Feststellungen:
+Sie dürfen bei der Fleischuntersuchung den Schlussentscheid treffen, wenn keine Beanstandungen erfolgen oder bei den nachstehenden Feststellungen:
 
 - a. örtlich begrenzte Geschwülste, Zysten und Abszesse;
 - b. bindegewebige Verwachsungen ohne Eiterung und ohne Ergüsse;
@@ -1066,7 +1274,9 @@ Bei der Fleischuntersuchung können die amtlichen Fachassistentinnen und Fachass
 - h. frische Fleischwunden und frische Knochenbrüche;
 - i. örtlich begrenzte Verunreinigungen.
 
-<sup>3</sup> Bei Hauskaninchen und Hausgeflügel können sie in einzelnen Fällen auch ganze Schlachttierkörper als genussuntauglich erklären.
+<sup>3</sup> Bei Hausgeflügel und Hauskaninchen dürfen sie in einzelnen Fällen auch ganze Schlachttierkörper als genussuntauglich erklären.
+
+[^54-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 55
 
@@ -1074,7 +1284,7 @@ Bei der Fleischuntersuchung können die amtlichen Fachassistentinnen und Fachass
 
 <sup>1</sup>
 
-Die amtliche Tierärztin oder der amtliche Tierarzt kontrolliert regelmässig und entsprechend den Risiken, ob in den Schlachtbetrieben:
+Die amtlichen Vollzugsorgane kontrollieren regelmässig und entsprechend den Risiken, ob in den Betrieben:[^55-1]
 
 - a.
 
@@ -1099,10 +1309,11 @@ Die amtliche Tierärztin oder der amtliche Tierarzt kontrolliert regelmässig un
 
 <sup>2</sup> Die Kontrollbefunde sind aufzuzeichnen und zu bewerten. Bei der Kontrolle der Hygiene sind die Ergebnisse der Selbstkontrolle und dokumentierte Systeme wie Zertifizierungen zu berücksichtigen.
 
-<sup>3</sup> Die Kontrollbefunde sind im Informationssystem für Kontrolldaten nach den Artikeln 6–9 der Verordnung vom 23. Oktober 2013[^55-1] über Informationssysteme im Bereich der Landwirtschaft zu erfassen.[^55-2]
+<sup>3</sup> Die Kontrollbefunde sind im Informationssystem für Kontrolldaten nach den Artikeln 6–9 der Verordnung vom 23. Oktober 2013[^55-2] über Informationssysteme im Bereich der Landwirtschaft zu erfassen.[^55-3]
 
-[^55-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^55-2]: Eingefügt durch Anhang 4 Ziff. II 6 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^55-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^55-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^55-3]: Eingefügt durch Anhang 4 Ziff. II 6 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 56
 
@@ -1127,16 +1338,16 @@ Die Kantonstierärztin oder der Kantonstierarzt kann die amtliche Tierärztin od
 
 #### Art. 57
 
-**Berichterstattung über die durchgeführten Kontrollen**
+**Berichterstattung über die durchgeführten Kontrollen**[^57-1]
 
-<sup>1</sup> Die amtliche Tierärztin oder der amtliche Tierarzt muss die Ergebnisse der Schlachttier- und Fleischuntersuchung sowie der weiteren Kontrollen täglich aufzeichnen, diese in einer Statistik zusammenfassen und jährlich einen allgemeinen Bericht über die Tätigkeit zuhanden der Kantonstierärztin oder des Kantonstierarztes erstellen.
+<sup>1</sup> Eine Vertreterin oder ein Vertreter der kantonalen Vollzugsbehörde erfasst die Ergebnisse der Schlachttier- und Fleischuntersuchung im Informationssystem über die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^57-2] über Informationssysteme des BLV für die Lebensmittelkette (ISLK-V) oder lässt sie aus den Systemen der Schlachtbetriebe an Fleko übermitteln. Zu erfassen oder zu übermitteln sind die TVD-Nummern der Schlachtbetriebe sowie die Daten nach Anhang 3 Ziffer 2 ISLK-V.
 
-<sup>2</sup> Die kantonale Vollzugsbehörde erfasst die Ergebnisse der Schlachttier- und Fleischuntersuchung im Informationssystem für die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^57-1] über Informationssysteme des BLV für die Lebensmittelkette (ISLK-V) oder lässt sie aus den Systemen der Schlachtbetriebe an das Fleko übermitteln. Zu erfassen oder zu übermitteln sind die TVD-Nummern der Schlachtbetriebe sowie die Daten nach Anhang 3 Ziffer 2 ISLK-V.[^57-2]
+<sup>2</sup> Die Ergebnisse der weiteren Kontrollen sind aufzuzeichnen und in einer Statistik zusammenzufassen. Jährlich ist ein allgemeiner Bericht über die Tätigkeit zuhanden der Kantonstierärztin oder des Kantonstierarztes zu erstellen.
 
-<sup>3</sup> Die Unterlagen nach Absatz 1 sind während drei Kalenderjahren aufzubewahren.
+<sup>3</sup> Die Unterlagen nach Absatz 2 sind während drei Kalenderjahren aufzubewahren.
 
-[^57-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^57-2]: Fassung gemäss Anhang 4 Ziff. II 6 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^57-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^57-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ### 5. Abschnitt: Meldungen
 
@@ -1188,7 +1399,7 @@ Sie oder er stellt dem BLV auf Verlangen zur Verfügung:
 
 **Gebühren für die Schlachttier- und Fleischuntersuchung**[^60-1]
 
-<sup>1</sup> Die Gebühren für die Schlachttier- und Fleischuntersuchung richten sich nach dem Aufwand für die Untersuchung. Es dürfen nur insoweit Gebühren erhoben werden, als sie dem Zweck des LMG dienen.
+<sup>1</sup> Die Gebühren für die Schlachttier- und Fleischuntersuchung richten sich nach dem Aufwand für die Untersuchung.[^60-2]
 
 <sup>2</sup>
 
@@ -1214,7 +1425,7 @@ Sie setzen die Gebühren für die Untersuchung wie folgt fest:
 <tr><td>c. Schaf</td><td>0.30</td><td>8.–</td></tr>
 <tr><td>d. Ziege</td><td>0.30</td><td>8.–</td></tr>
 <tr><td>e. Schwein</td><td>1.50</td><td>8.–</td></tr>
-<tr><td>f. Pferd</td><td>4.50</td><td>12.–</td></tr>
+<tr><td>f.[^60-3] Tiere der Pferdegattung</td><td>4.50</td><td>12.–</td></tr>
 <tr><td>g. anderes Schlachtvieh</td><td>4.50</td><td>8.–</td></tr>
 <tr><td>h. Hausgeflügel, Hauskaninchen</td><td>0.01</td><td>0.20</td></tr>
 <tr><td>i. Gehegewild</td><td>0.75</td><td>8.–</td></tr>
@@ -1232,12 +1443,14 @@ Nach Zeitaufwand beträgt die Gebühr für die Untersuchung unabhängig von der 
 - b. zwischen 60 und 100 Franken pro Stunden für die Tätigkeiten der amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung.
 
 [^60-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^60-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^60-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 61
 
 **Übrige Gebühren**[^61-1]
 
-<sup>1</sup> Die Kantone können für die Überwachung einer Hof- oder einer Weidetötung zur Fleischgewinnung durch die amtlichen Tierärztinnen und Tierärzte eine Gebühr zwischen 100 und 160 Franken pro Stunde festsetzen.
+<sup>1</sup> Die Kantone können für die Überwachung einer Hof- oder einer Weidetötung durch die amtlichen Vollzugsorgane zur Sicherstellung der Vorgaben betreffend die Lebensmittelhygiene und den Tierschutz eine Gebühr zwischen 100 und 160 Franken pro Stunde festsetzen.[^61-2]
 
 <sup>2</sup> Sie können für Tätigkeiten ausserhalb der Arbeitszeiten (von Montag bis Freitag, 06.00‒20.00 Uhr) höhere Gebühren festsetzen. Diese dürfen das Doppelte der Höchstgebühren nach Artikel 60 Absätze 2 und 4‒6 nicht übersteigen.
 
@@ -1248,6 +1461,7 @@ Nach Zeitaufwand beträgt die Gebühr für die Untersuchung unabhängig von der 
 <sup>5</sup> Die Gebühren für die Kontrollen, Dienstleistungen und Bewilligungen nach Artikel 58 Absatz 2 Buchstaben a sowie g–i LMG richten sich nach dem Zeitaufwand. Die Kantone bestimmen den Stundenansatz. Auslagen werden gesondert in Rechnung gestellt.
 
 [^61-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^61-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -1271,6 +1485,17 @@ Nach Zeitaufwand beträgt die Gebühr für die Untersuchung unabhängig von der 
 Personen, die bei Inkrafttreten dieser Verordnung die Ausbildung zur Jägerin oder zum Jäger beendet haben oder diese bis zum 30. April 2018 beenden, gelten als fachkundige Personen nach Artikel 21.
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 719](https://fedlex.data.admin.ch/eli/oc/2018/89)).
+
+#### Art. 63a
+
+**Übergangsbestimmungen zur Änderung vom 8. Dezember 2023**[^63a-1]
+
+Es gelten die folgenden Übergangsfristen:
+
+- a. für die Meldung nach Artikel 5*a*, die Erstellung eines Selbstkontrollsystems und eines Schlachtverzeichnisses nach Artikel 19 Absätze 5 und 6: bis 31. Januar 2025;
+- b. für die notwendigen organisatorischen und betrieblichen Anpassungen für die erweiterte Fleischuntersuchung nach Artikel 30*a*: bis 31. Januar 2029.
+
+[^63a-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 64
 

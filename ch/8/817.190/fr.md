@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2016 concernant l'abattage d'animaux et le co
 short: OAbCV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: fr
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20240201-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,25 +17,26 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/fr"
 
 (OAbCV)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juin 2022)
+du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 9, al. 2 et 3, 10, al. 3 et 4, 31, al. 3 et 4, 32, al. 1 et 44 de la loi du 20 juin 2014 sur les denrées alimentaires (LDAl)[^ingress-1], vu les art. 22 et 53, al. 1 et 3 de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-2],[^ingress-3]
+vu les art. 9, al. 2 et 3, 10, al. 3 et 4, 31, al. 3 et 4, 32, al. 1, 44 et 58, al. 6, de la loi du 20 juin 2014 sur les denrées alimentaires (LDAl)[^ingress-1], vu l’art. 41, al. 3, de la loi fédérale du 16 décembre 2005 sur la protection des animaux[^ingress-2], vu les art. 22 et 53, al. 1 et 3, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 31 oct. 2018 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^ingress-2]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
-## Chapitre 1 Objet, champ d’application et définitions****
+## Chapitre 1 Objet, champ d’application et définitions
 
 [^chap1-1]
 
 [^chap1-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
-### Section 1 Objet et champ d’application****
+### Section 1 Objet et champ d’application
 
 [^chap1-sec1-1]
 
@@ -49,8 +50,15 @@ arrête:
 
 La présente ordonnance fixe:
 
-- a. les exigences applicables aux abattoirs et aux établissements de traitement du gibier, ainsi qu’à l’abattage;
-- b. les exigences applicables aux animaux destinés à l’abattage;
+- a.[^1-2]
+
+  les exigences applicables:
+
+  - 1\. aux abattoirs et aux établissements de traitement du gibier, ainsi qu’aux exploitations qui pratiquent des abattages occasionnels,
+  - 2\. à l’abattage,
+  - 3\. aux animaux destinés à l’abattage;
+
+- b.[^1-3] …
 - c. le contrôle des animaux avant l’abattage et le contrôle des viandes;
 - d. la production de denrées alimentaires issues de gibier sauvage ou d’animaux autres que les mammifères et les oiseaux.
 
@@ -59,13 +67,15 @@ La présente ordonnance fixe:
 Elle ne s’applique pas:
 
 - a. à l’abattage et à la transformation du bétail de boucherie, de la volaille domestique, des lapins domestiques, du gibier d’élevage et des oiseaux coureurs, lorsque l’abattage et la transformation des carcasses sont effectués dans l’exploitation de provenance pour un usage domestique privé;
-- b. aux découpes primaire et secondaire et à la transformation du gibier sauvage tiré par soi-même pour un usage domestique privé.[^1-2]
+- b. aux découpes primaire et secondaire et à la transformation du gibier sauvage tiré par soi-même pour un usage domestique privé.[^1-4]
 
-<sup>3</sup> À moins que la présente ordonnance n’en dispose autrement, l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^1-3] est applicable.
+<sup>3</sup> À moins que la présente ordonnance n’en dispose autrement, l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^1-5] est applicable.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^1-3]: Abrogée par le ch. I de l’O du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^1-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -82,12 +92,12 @@ Les dispositions de l’ordonnance du 18 novembre 2015 réglant les échanges d�
 Au sens de la présente ordonnance, on entend par:
 
 - a.[^3-1] *animaux**:* le bétail de boucherie, la volaille domestique, les lapins domestiques, les oiseaux coureurs, le gibier d’élevage et le gibier sauvage, les poissons et les autres espèces autorisées par le Département fédéral de l’intérieur (DFI) pour la production de denrées alimentaires, sur la base de l’art. 9 ODAlOUs[^3-2];
-- b. *bétail de boucherie:* les animaux des espèces bovine, ovine, caprine, porcine et équine, et les autres animaux domestiques des familles zoologiques des *Bovidae* (bovidés), des *Cervidae* (cervidés), des *Camelidae* (camélidés), des *Suidae* (suidés) et des *Equidae* (équidés);
+- b.[^3-3] *bétail de boucherie:* les animaux des espèces bovine, ovine, caprine, porcine et équine, et les autres animaux domestiques des familles zoologiques des *Bovidae* (bovidés), des *Cervidae* (cervidés) et des *Camelidae* (camélidés);
 - c. *volaille domestique:* les poules, les dindes, les pintades, les oies, les canards, les pigeons, les cailles d’élevage;
-- d. *oiseaux coureurs:* les ratites;
+- d.[^3-4] *oiseaux coureurs:* les animaux de l’ordre des *Struthioniformes*, tels que les autruches, les nandous et les émeus;
 - e. *gibier d’élevage:* le gibier détenu dans des enclos sous la garde de l’homme, y compris les camélidés (*Camelidae*), les bisons (*Bos bison*) et le gibier d’élevage à onglons de l’ordre des artiodactyles (*Artiodactyla*);
-- f.[^3-3] *gibier sauvage**:* gibier vivant en liberté pouvant être chassé pour la production de denrées alimentaires;
-- g. *carcasse:* le corps d’un animal qui a été étourdi puis mis à mort ou qui a été tué à la chasse;
+- f.[^3-5] *gibier sauvage**:* gibier vivant en liberté pouvant être chassé pour la production de denrées alimentaires;
+- g.[^3-6] *carcasse:* le corps d’un animal dépouillé ou non qui a été étourdi puis mis à mort ou qui a été tiré à la chasse;
 - h.
 
   *abats:* les sous-produits de l’abattage destinés à être utilisés comme denrées alimentaires:
@@ -95,39 +105,47 @@ Au sens de la présente ordonnance, on entend par:
   - 1\. les viscères destinés à être utilisés comme denrées alimentaires (organes des cavités thoracique, abdominale et pelvienne),
   - 2\. les autres parties destinées à être utilisées comme denrées alimentaires, séparées de la carcasse avant le contrôle des viandes;
 
-- *i.*
+- i.
 
   *parties de la carcasse:*
 
   - 1\. les abats,
-  - 2\. les sous-produits animaux au sens de l’art. 3, let. b, de l’ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux[^3-4];
+  - 2\.[^3-7] les sous-produits animaux au sens de l’art. 3, let. b, de l’ordonnance du 25 mai 2011 concernant les sous-produits animaux[^3-8];
 
-- j. *matériel à risque spécifié:* les sous-produits animaux au sens des art. 179*d*, al. 1, et 180*c*, al. 1, de l’ordonnance du 27 juin 1995 sur les épizooties (OFE)[^3-5];
+- j. *matériel à risque spécifié:* les sous-produits animaux au sens des art. 179*d*, al. 1, et 180*c*, al. 1, de l’ordonnance du 27 juin 1995 sur les épizooties (OFE)[^3-9];
 - k. *abattoir:* un bâtiment avec ses installations destiné à l’abattage d’animaux ou à l’obtention des viandes issues d’autres animaux que les mammifères et les oiseaux;
 - l. *grands établissements:* les abattoirs qui ne sont pas considérés comme des établissements de faible capacité;
-- m.[^3-6]
+- m.[^3-10]
 
   *établissements de faible capacité:* établissement dans lequel:
 
-  - 1\. le nombre des abattages, comptés en unités d’abattage au sens de l’art. 3, al. 2, de l’ordonnance du 26 novembre 2003 sur le bétail de boucherie[^3-7] des animaux des espèces bovine, ovine, caprine, porcine et équine, est inférieur à 1500 par an; dans ce contexte, on considère comme des agneaux et des cabris les animaux jusqu’à l’âge de 12 mois, ou
-  - 2\. la quantité de viande résultant de l’abattage d’autres animaux ne dépasse pas 60 000 kg par an;
+  - 1\. le nombre des abattages, comptés en unités d’abattage au sens de l’art. 3, al. 2, de l’ordonnance du 26 novembre 2003 sur le bétail de boucherie[^3-11] des animaux des espèces bovine, ovine, caprine, porcine et équine, est inférieur à 1500 par an; dans ce contexte, on considère comme des agneaux et des cabris les animaux jusqu’à l’âge de 12 mois;
+  - 2\.[^3-12] le nombre maximal de volaille domestique et de lapins domestiques abattus est de 150 000 et leur poids mort ne dépasse pas 200 000 kg par an, ou
+  - 3\.[^3-13] le poids mort des autres animaux abattus ne dépasse pas 200 000 kg par an;
 
-- n.[^3-8] *abattage:* mise à mort d’un animal et découpe de la carcasse en six morceaux au plus ainsi que dépouillement ou plumaison du gibier sauvage et découpe de la carcasse en six morceaux au plus à des fins de production de denrées alimentaires;
+- n.[^3-14] *abattage:* mise à mort d’un animal et découpe de la carcasse en six morceaux au plus ainsi que dépouillement ou plumaison du gibier sauvage et découpe de la carcasse en six morceaux au plus à des fins de production de denrées alimentaires;
 - o. *établissement de traitement du gibier:* abattoir ou autre établissement du secteur alimentaire soumis à autorisation dans lequel du gibier sauvage ou du gibier d’élevage est abattu, mais sans découpe supplémentaire ni transformation;
-- p. *abattage occasionnel:* l’abattage de moins de 10 animaux de volaille domestique, lapins domestiques ou oiseaux coureurs par semaine et une production annuelle de 1000 kg au maximum;
-- q.[^3-9] *mise à mort à la ferme pour la production de viande:* étourdissement et saignée d’animaux dans l’exploitation de provenance pour la production de viande;
-- r.[^3-10] *mise à mort au pré pour la production de viande:* tir et saignée d’animaux sur un pré de l’exploitation de provenance pour la production de viande.
+- p.[^3-15] *abattage occasionnel:* l’abattage de volaille domestique ou de lapins domestiques à raison de 10 animaux par semaine au maximum et d’un poids mort total de 1000 kg par an au maximum;
+- q.[^3-16] *mise à mort à la ferme pour la production de viande:* étourdissement et saignée d’animaux dans l’exploitation de provenance pour la production de viande;
+- r.[^3-17] *mise à mort au pré pour la production de viande:* tir et saignée d’animaux sur un pré de l’exploitation de provenance pour la production de viande.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^3-5]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-6]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-7]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
-[^3-8]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-9]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-10]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-6]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-7]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-8]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^3-9]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^3-10]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-11]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^3-12]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-13]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-14]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-15]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-16]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-17]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 ## Chapitre 2 Abattoirs et établissements de traitement du gibier
 
@@ -147,9 +165,11 @@ Au sens de la présente ordonnance, on entend par:
 
 #### Art. 5
 
-**Principe**
+**Environnement[^5-1]**
 
 Les abattoirs et les établissements de traitement du gibier ne doivent pas être construits à proximité de sources d’émissions dont les influences peuvent être dommageables à l’hygiène des denrées alimentaires.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### Section 2 Autorisation d’exploiter un abattoir ou un établissement de traitement du gibier
 
@@ -189,9 +209,29 @@ L’autorisation d’exploiter peut être retirée si:
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^6-4]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
+## Chapitre 2*a* Obligations en matière d’annonce et d’autorisation applicables aux détenteurs d’animaux
+
+[^chap2a-1]
+
+[^chap2a-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 6a
+
+**Abattages occasionnels**
+
+<sup>1</sup> Les détenteurs d’animaux qui pratiquent des abattages occasionnels peuvent le faire uniquement dans leur exploitation.
+
+<sup>2</sup> Ils doivent s’annoncer à l’autorité cantonale compétente.
+
+#### Art. 6b
+
+**Mise à mort à la ferme ou au pré**
+
+Les détenteurs d’animaux qui pratiquent la mise à mort à la ferme de bétail de boucherie ou la mise à mort au pré de bovins au sens de l’art. 9*a*, doivent obtenir au préalable une autorisation de l’autorité cantonale compétente.
+
 ## Chapitre 3 Abattage et hygiène de l’abattage
 
-### Section 1 Exigences applicables aux animaux et interdiction d’abattage****
+### Section 1 Exigences applicables aux animaux et interdiction d’abattage
 
 [^chap3-sec1-1]
 
@@ -249,8 +289,8 @@ Il est interdit d’abattre ou de tuer à des fins de production de denrées ali
 Sont admis en dehors des abattoirs autorisés:
 
 - a.[^9-1] l’étourdissement et la saignée de bétail de boucherie malade ou accidenté, lorsque le transport de l’animal vivant est contre-indiqué;
-- b. les abattages occasionnels de volaille domestique, de lapins domestiques et d’oiseaux coureurs;
-- c.[^9-2] les mises à mort à la ferme et au pré autorisées pour la production de viande, y compris la mise à mort au pré de gibier d’élevage pour la production de viande.
+- b.[^9-2] les abattages occasionnels;
+- c.[^9-3] les mises à mort à la ferme ou au pré autorisées pour la production de viande.
 
 <sup>3</sup> Si le gibier d’élevage est tué et saigné dans la nature, il doit être ensuite transporté dans un abattoir ou un établissement de traitement du gibier. Pour le cas où il serait éviscéré dans la nature, les viscères (organes des cavités thoracique, abdominale et pelvienne) doivent être identifiés et soumis au contrôle des viandes, comme la carcasse.
 
@@ -259,9 +299,10 @@ Sont admis en dehors des abattoirs autorisés:
 <sup>5</sup> Après avoir été abattu, le gibier sauvage, à l’exception des lièvres et du gibier à plumes, doit être transporté dans un établissement de traitement du gibier. Cette disposition n’est pas applicable au gibier exempt de toute caractéristique indiquant que la viande pourrait présenter un risque sanitaire et remis directement par le chasseur aux consommateurs ou à un établissement de commerce de détail en Suisse, lequel le cède à son tour directement aux consommateurs.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^9-2]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9-3]: Introduite par le ch. I de l’O du 27 mai 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
-### Section 2*a***** Mise à mort à la ferme et au pré pour la production de viande
+### Section 2*a* Mise à mort à la ferme et au pré pour la production de viande
 
 [^chap3-sec2a-1]
 
@@ -269,30 +310,30 @@ Sont admis en dehors des abattoirs autorisés:
 
 #### Art. 9a
 
-<sup>1</sup> La mise à mort à la ferme pour la production de viande est admise pour le bétail de boucherie, la mise à mort au pré pour la production de viande est admise pour les animaux de l’espèce bovine à partir de quatre mois et pour le gibier d’élevage.
+[^9a-1]
+
+<sup>1</sup> La mise à mort à la ferme pour la production de viande est admise pour le bétail de boucherie, la mise à mort au pré pour la production de viande est admise pour les animaux de l’espèce bovine à partir de quatre mois.
 
 <sup>2</sup>
 
-Les détenteurs d’animaux qui souhaitent pratiquer la mise à mort à la ferme ou au pré pour la production de viande doivent demander une autorisation à l’autorité cantonale compétente. L’autorisation est assortie des charges suivantes:
+Le détenteur d’animaux doit garantir le respect des exigences de la législation sur la protection des animaux en ce qui concerne l’étourdissement et la saignée des animaux en faisant appel pour cela à une personne compétente au sens de l’art. 177, al. 1<sup>bis</sup>, de l’ordonnance du 23 avril 2008 sur la protection des animaux[^9a-2]; il doit veiller en particulier à ce que:
 
-- a.
+- a. en cas de mise à mort à la ferme pour la production de viande, les animaux soient immobilisés, étourdis et saignés dans une installation appropriée;
+- b. en cas de mise à mort au pré pour la production de viande, les animaux soient tirés et saignés dans des conditions sûres;
+- c. l’efficacité de l’étourdissement, la saignée suffisante et la mort effective soient vérifiées et que des mesures immédiates soient prises si l’étourdissement ou la saignée ne se sont pas passés correctement.
 
-  le détenteur doit garantir le respect des exigences de la législation sur la protection des animaux en ce qui concerne l’étourdissement et la saignée des animaux; il doit veiller en particulier à ce que:
+<sup>3</sup> Après l’étourdissement et la saignée, les animaux doivent être transportés dans un abattoir situé à proximité, déterminé au préalable, dans lequel ils sont immédiatement éviscérés et l’abattage est mené à son terme; l’heure de l’étourdissement et l’heure de la saignée doivent être inscrites dans le document d’accompagnement.
 
-  - 1\. en cas de mise à mort à la ferme pour la production de viande, les animaux soient immobilisés dans une installation appropriée, et qu’ils soient étourdis et saignés par une personne compétente au sens de l’art. 177, al. 1<sup>bis</sup>, de l’ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)[^9a-1],
-  - 2\. en cas de mise à mort au pré pour la production de viande, les animaux soient tirés dans des conditions sûres et saignés par une personne compétente au sens de l’art. 177, al. 1<sup>bis</sup>, OPAn,
-  - 3\. l’efficacité de l’étourdissement, la saignée suffisante et la mort effective soient vérifiées et que des mesures immédiates soient prises si l’étourdissement ou la saignée ne se sont pas passés correctement;
+<sup>4</sup> Le détenteur d’animaux doit garantir le respect des exigences d’hygiène lors de la mise à mort; il doit veiller notamment à ce que, lors de l’incision de saignée, le sang soit recueilli et transporté avec les carcasses à l’abattoir.
 
-- b. après l’étourdissement, les animaux doivent être transportés dans un abattoir déterminé au préalable dans lequel l’abattage est mené à son terme; l’heure de l’étourdissement et de la saignée doit être inscrite dans le document d’accompagnement;
-- c. le détenteur d’animaux doit garantir le respect des exigences d’hygiène lors de l’abattage; il doit veiller notamment à ce que, lors de l’incision de saignée, le sang soit recueilli et transporté avec les carcasses à l’abattoir.
+<sup>5</sup> Il doit consigner à chaque fois le nom de la personne qui effectue l’étourdissement et la saignée des animaux. En outre, il doit, le cas échéant, consigner de manière traçable les problèmes survenus lors de l’étourdissement et de la saignée, et les mesures qui ont été prises pour y remédier.
 
-<sup>3</sup> Le détenteur d’animaux doit consigner à chaque fois le nom de la personne qui effectue l’étourdissement et la saignée des animaux. En outre, il doit, le cas échéant, consigner de manière traçable les problèmes survenus lors de l’étourdissement et de la saignée, et les mesures qui ont été prises pour y remédier.
+<sup>6</sup> En cas de mise à mort à la ferme pour la production de viande, un vétérinaire officiel doit surveiller l’étourdissement et la saignée des animaux par sondage, mais au moins une fois par an par exploitation concernée.
 
-<sup>4</sup> En cas de mise à mort à la ferme pour la production de viande, un vétérinaire officiel doit surveiller l’étourdissement et la saignée du bétail de boucherie par sondage, mais au moins une fois par an par exploitation concernée.
+<sup>7</sup> En cas de mise à mort au pré pour la production de viande, un vétérinaire officiel doit surveiller le tir et la saignée des animaux.
 
-<sup>5</sup> En cas de mise à mort au pré pour la production de viande, un vétérinaire officiel doit toujours surveiller le tir et la saignée des animaux.
-
-[^9a-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9a-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 ### Section 3 Bétail de boucherie malade ou accidenté et gibier sauvage accidenté
 
@@ -322,9 +363,11 @@ Les détenteurs d’animaux qui souhaitent pratiquer la mise à mort à la ferme
 
 #### Art. 12
 
-**Gibier sauvage accidenté**
+**Gibier sauvage accidenté**[^12-1]
 
-Le gibier sauvage accidenté trouvé encore en vie est soumis, après avoir été mis à mort, à un contrôle mené par une personne qualifiée au sens de l’art. 21, al. 1, à la recherche d’anomalies indiquant que la viande pourrait présenter un danger pour la santé humaine, si celle-ci est destinée à être mise sur le marché. Si de telles caractéristiques sont décelées, le corps du gibier doit être soumis à un contrôle des viandes officiel.
+Le gibier sauvage accidenté trouvé encore en vie est soumis, après avoir été mis à mort, à un contrôle mené par une personne qualifiée au sens de l’art. 21, al. 1, à la recherche d’anomalies indiquant que la viande pourrait présenter un danger pour la santé humaine, si celle-ci est destinée à être mise sur le marché. Si de telles caractéristiques sont décelées, la carcasse doit être soumise à un contrôle des viandes officiel.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### Section 4 Hygiène
 
@@ -340,18 +383,24 @@ L’établissement doit veiller à ce qu’aucune personne étrangère à l’é
 
 <sup>1</sup> Les abattoirs et les établissements de traitement du gibier doivent veiller à empêcher l’introduction dans l’établissement d’animaux qui ne sont pas destinés à l’abattage ou dont l’abattage est interdit.
 
-<sup>2</sup> En dérogation à l’al. 1, les équidés déclarés comme animaux de compagnie selon l’art. 15, al. 2, de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^14-1] ont accès aux établissements de faible capacité s’ils doivent y être mis à mort et éliminés conformément à l’ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux[^14-2].
+<sup>1bis</sup> Les exploitations qui pratiquent des abattages occasionnels doivent veiller à empêcher l’introduction dans les locaux d’abattage d’animaux qui ne sont pas destinés à l’abattage ou dont l’abattage est interdit.[^14-1]
+
+<sup>2</sup> En dérogation à l’al. 1, les animaux de l’espèce équine déclarés comme animaux de compagnie conformément à l’art. 15, al. 2, de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^14-2] peuvent avoir accès aux établissements de faible capacité s’ils doivent y être mis à mort et éliminés séparément dans le temps des autres animaux et conformément à l’ordonnance du 25 mai 2011 concernant les sous-produits animaux[^14-3].[^14-4]
 
 <sup>3</sup> Une fois déchargés dans un abattoir, les animaux doivent y être abattus. À titre exceptionnel, le vétérinaire cantonal peut autoriser leur déplacement vers une autre destination.
 
-[^14-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^14-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^14-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^14-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^14-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^14-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 15
 
-**Protection contre les animaux indésirables**
+**Protection contre les nuisibles**[^15-1]
 
-Toutes les mesures doivent être prises pour préserver les abattoirs et les établissements de traitement du gibier des animaux indésirables (insectes, rongeurs, etc.).
+Toutes les mesures doivent être prises pour préserver des nuisibles, tels les insectes et les rongeurs, les abattoirs, les établissements de traitement du gibier et les locaux d’abattage des exploitations qui pratiquent des abattages occasionnels.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 16
 
@@ -365,19 +414,30 @@ Toutes les mesures doivent être prises pour préserver les abattoirs et les ét
 
 <sup>4</sup> Les viandes et les sous-produits animaux mis sous séquestre ne doivent pas entrer en contact avec les carcasses et les abats.
 
-<sup>5</sup> Le DFI fixe les règles d’hygiène dans les abattoirs et les établissements de traitement du gibier.
+<sup>5</sup> Le DFI fixe les règles d’hygiène dans les abattoirs, les établissements de traitement du gibier et les exploitations qui pratiquent des abattages occasionnels.[^16-2]
 
 [^16-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 17
 
 **Réfrigération**
 
-<sup>1</sup> Les carcasses et les abats doivent être réfrigérés au plus tard après le contrôle des viandes, à moins qu’ils ne soient destinés d’abord à la découpe. La température doit diminuer selon une courbe continue pour atteindre une température de 7 °C maximum en ce qui concerne les carcasses du bétail de boucherie, 4 °C en ce qui concerne la volaille domestique et les lapins domestiques et 3 °C pour les abats.
+<sup>1</sup>
+
+Les carcasses et les abats doivent être réfrigérés à moins qu’ils ne doivent être découpés et transformés à chaud:
+
+- a. dans le cas d’un abattage dans un abattoir ou un établissement de traitement du gibier: au plus tard après le contrôle des viandes;
+- b. dans les exploitations qui pratiquent des abattages occasionnels: immédiatement après l’abattage.[^17-1]
+
+<sup>1bis</sup> La température doit diminuer selon une courbe continue pour atteindre une température de 7° C maximum pour les carcasses du bétail de boucherie, 4° C pour la volaille domestique et les lapins domestiques et 3° C pour les abats.[^17-2]
 
 <sup>2</sup> Lors du processus de réfrigération, une ventilation adéquate doit être assurée afin d’empêcher toute condensation sur les viandes.
 
 <sup>3</sup> Les carcasses d’animaux fraîchement abattus et leurs abats peuvent être transportés non réfrigérés dans un délai de 2 heures au plus de l’abattoir ou de l’établissement de traitement du gibier vers un lieu de transformation ultérieure.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^17-2]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 18
 
@@ -389,12 +449,13 @@ Aucun traitement d’ordre chimique ou physique des animaux, des carcasses et de
 
 - a. les procédés d’étourdissement prévus par la législation sur la protection des animaux;
 - b. l’électro-stimulation des carcasses;
-- c. pour l’échaudage des porcs et la plumaison de la volaille: l’utilisation d’auxiliaires technologiques au sens de l’art. 24 ODAlOUs[^18-1], réglementée par le DFI.
+- c.[^18-1] pour l’échaudage des porcs et la plumaison de la volaille domestique et des oiseaux coureurs: l’utilisation d’auxiliaires technologiques au sens de l’art. 24 ODAlOUs[^18-2], réglementée par le DFI;
 - d. le soufflage des moutons et des chèvres en vue de faciliter le dépouillement.
 
 <sup>2</sup> Les procédures réglementées par le DFI selon l’art. 29 ODAlOUs sont réservées.
 
-[^18-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^18-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 19
 
@@ -402,7 +463,7 @@ Aucun traitement d’ordre chimique ou physique des animaux, des carcasses et de
 
 <sup>1</sup>
 
-L’établissement doit surveiller lui-même l’hygiène de façon systématique. Cette surveillance comprend notamment:
+Les abattoirs et les établissements de traitement du gibier doivent surveiller l’hygiène de façon systématique. La surveillance comprend notamment:
 
 - a. des contrôles de la propreté chaque jour ouvré;
 - b. des analyses microbiologiques effectuées en fonction des risques sur les carcasses et les surfaces d’appareils et d’équipements conformément aux dispositions édictées par le DFI en application de l’art. 10, al. 4, ODAlOUs[^19-2];
@@ -410,13 +471,17 @@ L’établissement doit surveiller lui-même l’hygiène de façon systématiqu
 
 <sup>2</sup> Les méthodes de référence du prélèvement d’échantillons sur les carcasses sont celles de la norme «SN EN ISO 17604: 2015 Microbiologie de la chaîne alimentaire – Prélèvement d’échantillons sur des carcasses en vue de leur analyse microbiologique»[^19-3].
 
-<sup>3</sup> L’établissement doit conserver pendant trois ans les résultats des contrôles de propreté et des analyses microbiologiques effectués en fonction des risques, et les présenter sur demande aux organes de contrôle officiels.
+<sup>3</sup> Les établissements doivent conserver pendant trois ans les résultats des contrôles de propreté et des analyses microbiologiques effectués en fonction des risques, et les présenter sur demande aux organes d’exécution officiels.
 
-<sup>4</sup> Pour le reste, les dispositions portant sur l’autocontrôle selon les art. 73 à 85 ODAlOUs s’appliquent.
+<sup>4</sup> Dans les exploitations qui pratiquent des abattages occasionnels, les détenteurs d’animaux doivent mettre en place un système d’autocontrôle adapté à la taille de l’exploitation et au volume des abattages.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+<sup>5</sup> Dans le cadre de l’autocontrôle, ils tiennent un registre des abattages indiquant au minimum la date, l’espèce et le nombre des animaux abattus. Le registre des abattages doit être transmis à l’autorité cantonale d’exécution compétente avant le 31 janvier de l’année suivante.
+
+<sup>6</sup> Pour le reste, les dispositions relatives à l’autocontrôle prévues aux art. 73 à 85 ODAlOUs s’appliquent.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^19-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^19-3]: Le texte de cette norme peut être consulté et commandé auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, case postale, CH-8404 Winterthur; www.snv.ch.
+[^19-3]: Le texte de cette norme peut être consulté gratuitement et commandé contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, case postale, CH-8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 19a
 
@@ -442,11 +507,13 @@ L’établissement doit surveiller lui-même l’hygiène de façon systématiqu
 
 <sup>5</sup> Les résultats du contrôle visé à l’al. 3 sont consignés par écrit sur le formulaire établi par le DFI en vertu de l’art. 40. Le certificat est remis à l’acquéreur.
 
-<sup>6</sup> Si, lors du contrôle visé à l’al. 3, des caractéristiques indiquant que la viande pourrait présenter un danger sanitaire sont constatées, le gibier doit être soumis à un contrôle officiel des viandes avant d’être cédé, le cas échéant, comme denrée alimentaire.
+<sup>6</sup> Si, lors du contrôle visé à l’al. 3, des caractéristiques indiquant que la viande pourrait présenter un danger sanitaire sont constatées, la carcasse doit être soumise à un contrôle officiel des viandes avant d’être cédée, le cas échéant, comme denrée alimentaire.[^20-1]
 
 <sup>7</sup> La viande de sangliers, d’ours terrestres et de ragondins doit faire l’objet d’un prélèvement d’échantillons pour la recherche de trichinelles. Elle peut être remise comme denrée alimentaire seulement si les résultats des analyses sont négatifs. L’acquéreur reçoit une copie des résultats des analyses.
 
 <sup>8</sup> Les dispositions du présent article ne s’appliquent ni aux lièvres, ni au gibier à plumes.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 21
 
@@ -462,7 +529,11 @@ Par personne qualifiée, on entend la personne qui a suivi un cours lui ayant pe
 
 <sup>2</sup> Le vétérinaire cantonal approuve au préalable les programmes des cours et les supports de cours, et peut contrôler l’organisation et la qualité des cours proposés.
 
-### Section 5 Annonce des animaux à l’abattage, contrôle à leur arrivée
+### Section 5 Annonce des animaux à l’abattage et contrôle à leur arrivée dans les abattoirs et les établissements de traitement du gibier
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 22
 
@@ -481,9 +552,10 @@ Concernant le bétail de boucherie, la volaille domestique, les lapins domestiqu
 - g. les résultats des contrôles avant l’abattage et des contrôles des viandes antérieurs sur d’autres animaux du même troupeau de provenance;
 - h. le nom des vétérinaires habituellement consultés.
 
-<sup>2</sup> Les vétérinaires officiels peuvent exiger du détenteur d’animaux qu’il complète les informations visées à l’al. 1.
+<sup>2</sup> Les organes d’exécution officiels peuvent exiger du détenteur d’animaux qu’il complète les informations visées à l’al. 1.[^22-2]
 
 [^22-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 23
 
@@ -502,9 +574,11 @@ L’annonce des animaux à l’abattage doit contenir au moins les informations 
 
 <sup>3</sup> L’OSAV peut exiger l’indication d’autres informations relatives à la chaîne alimentaire.
 
-<sup>4</sup> Les informations doivent être immédiatement mises à la disposition du vétérinaire officiel.
+<sup>4</sup> Les informations doivent être immédiatement mises à la disposition des organes d’exécution officiels[^23-1].
 
 <sup>5</sup> L’abattoir doit coordonner la livraison des animaux de sorte que le nombre d’animaux livrés ne dépasse pas les capacités d’abattage ou d’hébergement.
+
+[^23-1]: Nouvelle expression selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 24
 
@@ -531,17 +605,18 @@ La déclaration sanitaire pour la volaille domestique doit être faite entre 72 
 - e. la date d’installation dans le parc avicole et le nombre d’animaux introduits;
 - f. la date de sortie du parc avicole et le nombre d’animaux sortis;
 - g. le taux de mortalité pendant l’engraissement;
-- h. le résultat de l’analyse des échantillons prélevés par l’aviculteur pour le dépistage des infections à *Salmonella* prescrite par l’art. 257, al. 2, let. c, OFE[^24-4].
+- h.[^24-4] le résultat de l’analyse des échantillons prélevés par le détenteur de volaille domestique pour le dépistage des infections à *Salmonella* prescrit par l’art. 257*a*, al. 1, let. c, OFE[^24-5].
 
 <sup>4</sup> La survenue d’événements particuliers durant la période comprise entre l’envoi de la déclaration sanitaire et l’arrivée des animaux à l’abattoir doit être déclarée oralement aux organes de contrôle des viandes.
 
-<sup>5</sup> Dans les cas où un document d’accompagnement est prescrit par l’art. 12 OFE, la déclaration sanitaire effectuée par le détenteur doit figurer sur ce document. Pour les équidés, elle doit figurer sur le passeport équin. Pour les équidés qui sont abattus avant le 31 décembre de leur année de naissance, ces indications doivent figurer dans la confirmation d’enregistrement visée à l’art. 27, al. 2, OId-BDTA.[^24-5]
+<sup>5</sup> Dans les cas où un document d’accompagnement est prescrit par l’art. 12 OFE, la déclaration sanitaire effectuée par le détenteur doit figurer sur ce document, et sur le passeport équin pour les animaux de l’espèce équine. Pour les animaux de l’espèce équine qui sont abattus avant le 31 décembre de leur année de naissance, ces indications doivent figurer dans la confirmation d’enregistrement visée à l’art. 27, al. 2, Old-BDTA.[^24-6]
 
 [^24-1]: Nouvelle teneur selon l’annexe 3 ch. II 6 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^24-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
 [^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^24-5]: Nouvelle teneur selon l’annexe 3 ch. II 6 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-5]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-6]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 25
 
@@ -593,65 +668,70 @@ La personne responsable:
 
 #### Art. 27
 
-**Objet du contrôle**
+**Objet du contrôle avant l’abattage**[^27-1]
 
-<sup>1</sup>
+<sup>1</sup> Le bétail de boucherie, le gibier d’élevage et les oiseaux coureurs doivent être contrôlés avant leur abattage.
 
-Un vétérinaire officiel doit examiner avant l’abattage:
+<sup>2</sup> Le contrôle avant l’abattage de la volaille domestique et des lapins domestiques peut aussi être effectué par sondage sur un certain nombre d’animaux par troupeau.
 
-- a. le bétail de boucherie;
-- b. la volaille domestique;
-- c. les lapins domestiques;
-- d. les oiseaux coureurs;
-- e. le gibier d’élevage.
+<sup>3</sup> Le contrôle doit avoir lieu dans les 24 heures qui suivent l’arrivée des animaux à l’abattoir et moins de 24 heures avant l’abattage.
 
-<sup>2</sup> Le contrôle avant l’abattage de la volaille domestique, des lapins domestiques et des oiseaux coureurs ne doit être effectué que par sondage si les abattages sont occasionnels.
+<sup>4</sup> En cas d’abattage occasionnel, le contrôle avant l’abattage peut être effectué par sondage.
 
-<sup>3</sup> Ce contrôle doit avoir lieu dans les 24 heures qui suivent l’arrivée des animaux à l’abattoir et moins de 24 heures avant l’abattage.
+<sup>5</sup>
 
-<sup>4</sup>
-
-Le DFI fixe:
+Le DFI règle:
 
 - a. l’exécution du contrôle;
 - b. les mesures à prendre en fonction des résultats du contrôle.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 28
 
 **Animaux contrôlés dans le troupeau de provenance**
 
-<sup>1</sup> Le contrôle avant l’abattage du bétail de boucherie, de la volaille domestique, des lapins domestiques, des oiseaux coureurs et du gibier d’élevage peut être effectué dans le troupeau de provenance.[^28-1]
+<sup>1</sup> Le contrôle avant l’abattage du bétail de boucherie, de la volaille domestique, des lapins domestiques, du gibier d’élevage et des oiseaux coureurs peut être effectué dans le troupeau de provenance.[^28-1]
 
-<sup>2</sup> Lorsque le contrôle des animaux avant l’abattage a lieu dans le troupeau de provenance, il doit être effectué par un vétérinaire officiel qui doit attester ce contrôle au moyen d’un certificat sanitaire.
+<sup>1bis</sup> L’examen de bétail de boucherie accidenté ou malade dans l’exploitation peut être effectué par le vétérinaire du troupeau. L’aptitude à l’abattage et l’aptitude au transport doivent être évaluées et confirmées sur le certificat sanitaire.[^28-2]
 
-<sup>2bis</sup> L’examen de bétail de boucherie accidenté ou malade dans l’exploitation peut être effectué par le vétérinaire du troupeau. L’aptitude à l’abattage et l’aptitude au transport doivent être évaluées et confirmées sur le certificat sanitaire.[^28-2]
+<sup>2</sup> Lorsque le contrôle des animaux avant l’abattage a lieu dans le troupeau de provenance, il doit être attesté au moyen d’un certificat sanitaire.[^28-3]
 
-<sup>3</sup> Après le contrôle, les animaux doivent être transportés à l’abattoir par le chemin le plus direct, sans entrer en contact avec d’autres animaux non contrôlés ni durant le transport, ni à l’abattoir. Ils doivent être abattus dans les trois jours. À l’abattoir, le vétérinaire officiel ne doit que vérifier l’identité des animaux et faire un contrôle global avant l’abattage.
+<sup>3</sup> Après le contrôle, les animaux doivent être transportés à l’abattoir sans entrer en contact avec des animaux non contrôlés ni durant le transport, ni à l’abattoir. Ils doivent être abattus dans les trois jours suivant le contrôle avant l’abattage. À l’abattoir, une vérification d’identité et un contrôle sommaire avant l’abattage suffisent.[^28-4]
 
 <sup>4</sup> Lorsque les animaux n’ont pas été abattus dans les trois jours suivant la délivrance du certificat sanitaire, ils doivent être réexaminés et un nouveau certificat sanitaire doit être délivré. Si les animaux sont déjà en route pour l’abattoir, un nouveau contrôle des animaux avant l’abattage doit être effectué à l’abattoir.
 
 <sup>5</sup> Le gibier d’élevage peut être abattu dans les 60 jours suivant la délivrance du certificat sanitaire si l’animal fait l’objet d’un nouvel examen par une personne qualifiée en vertu de l’art. 21, al. 1, dans les 3 jours qui précèdent l’abattage. Les résultats du contrôle sont consignés par écrit par la personne qualifiée sur le formulaire établi par le DFI en vertu de l’art. 40. Le certificat est remis à l’acquéreur.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^28-2]: Introduit par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-2]: Anciennement al. 2<sup>bis</sup>. Introduit par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^28-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### Section 2 Contrôle des viandes
 
 #### Art. 29
 
-**Objet du contrôle**
+**Objet du contrôle des viandes[^29-1]**
 
-<sup>1</sup> Le bétail de boucherie et le gibier d’élevage doivent être systématiquement soumis au contrôle des viandes immédiatement après l’abattage.
+<sup>1</sup> Le contrôle des viandes doit intervenir rapidement après l’abattage et avant la transformation ultérieure.[^29-2]
 
-<sup>2</sup> La volaille domestique, les lapins domestiques et les oiseaux coureurs doivent être systématiquement soumis au contrôle des viandes immédiatement après leur abattage à l’abattoir, mais par sondage seulement si les abattages sont occasionnels.
+<sup>2</sup> S’agissant du bétail de boucherie, du gibier d’élevage et des oiseaux coureurs, chaque carcasse doit être soumise au contrôle. Le contrôle des viandes de la volaille domestique et des lapins domestiques doit intervenir rapidement après l’abattage et peut être effectué par sondage sur un certain nombre d’animaux par troupeau.[^29-3]
+
+<sup>2bis</sup> En cas d’abattage occasionnel, le contrôle des viandes peut être effectué par sondage.[^29-4]
 
 <sup>3</sup> Le contrôle des viandes visé aux art. 12 et 20, al. 4, doit être effectué, dans tous les cas, dans un établissement de traitement du gibier. Le vétérinaire officiel compétent peut contrôler tout le gibier sauvage destiné au processus d’abattage ainsi que les déclarations émises pour ces animaux.
 
 <sup>4</sup> Si du gibier sauvage est présenté à un vétérinaire officiel pour le contrôle des viandes et que toutes les conditions définies par le DFI en vertu de l’art. 38, al. 3, ne sont pas remplies, le certificat délivré par la personne qualifiée sur la base du formulaire établi par le DFI en vertu de l’art. 40 est déterminant pour les points manquants.
 
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-4]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 #### Art. 30
 
-**Contrôle**
+**Contrôle des viandes[^30-1]**
 
 <sup>1</sup>
 
@@ -660,11 +740,25 @@ Lors du contrôle des viandes, les carcasses et les parties dont le contrôle es
 - a. les altérations qui pourraient mettre en danger la santé humaine ou qui sont répugnantes;
 - b. les maladies, notamment les épizooties;
 - c. le matériel à risque spécifié incomplètement enlevé;
-- d. les micro-organismes et les parasites pathogènes ainsi que les agents d’altérations;
-- e. les substances étrangères;
+- d.[^30-2] les parasites;
+- e.[^30-3] …
 - f. les souillures.
 
 <sup>2</sup> Le DFI règle l’exécution du contrôle des viandes et la manière dont la salubrité doit être confirmée.
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-3]: Abrogée par le ch. I de l’O du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 30a
+
+**Contrôle des viandes élargi**[^30a-1]
+
+<sup>1</sup> Si, lors du contrôle des viandes, il y a des signes laissant supposer un risque pour la santé humaine ou animale ou une atteinte au bien-être de l’animal de son vivant, un contrôle des viandes élargi de la carcasse et des parties de celles-ci est effectué.
+
+<sup>2</sup> Le DFI règle l’exécution du contrôle des viandes élargi.
+
+[^30a-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 31
 
@@ -711,7 +805,7 @@ Des échantillons en vue de l’examen de recherche des trichinelles doivent êt
 
 <sup>1</sup>
 
-À la fin du contrôle des viandes, le vétérinaire officiel déclare propres à la consommation les carcasses et les abats qui conviennent sans restriction à l’utilisation comme denrées alimentaires et:
+À la fin du contrôle des viandes, sont déclarés propres à la consommation les carcasses et les abats qui conviennent sans restriction à l’utilisation comme denrées alimentaires, et:[^32-1]
 
 - a.
 
@@ -725,13 +819,15 @@ Des échantillons en vue de l’examen de recherche des trichinelles doivent êt
 
 <sup>2</sup> Les carcasses sont en tous les cas impropres à la consommation lorsqu’elles peuvent présenter un risque pour la santé humaine et la santé animale.
 
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
 #### Art. 33
 
 **Mise sous séquestre**
 
-<sup>1</sup> Le vétérinaire officiel met sous séquestre la carcasse et, si nécessaire, les parties qui lui correspondent lorsqu’il ne peut décider sur-le-champ si elles sont propres à la consommation.
+<sup>1</sup> Les organes d’exécution officiels mettent sous séquestre la carcasse et, si nécessaire, les parties qui lui correspondent lorsqu’il ne peut décider sur-le-champ si elles sont propres à la consommation.
 
-<sup>2</sup> Lorsqu’un danger pour la santé n’est pas à exclure, il ordonne leur conservation dans des conditions offrant toutes les garanties de sécurité.
+<sup>2</sup> Lorsqu’un danger pour la santé n’est pas à exclure, ils ordonnent leur conservation dans des conditions offrant toutes les garanties de sécurité.
 
 #### Art. 34
 
@@ -741,7 +837,7 @@ Des échantillons en vue de l’examen de recherche des trichinelles doivent êt
 
 <sup>2</sup>
 
-En cas de contestations, le vétérinaire officiel décide:
+En cas de contestations, les organes d’exécution officiels décident:
 
 - a. quelles parties de la carcasse sont propres à la consommation;
 - b. si la carcasse ou les abats doivent être soumis à un traitement, notamment la congélation, avant de pouvoir être déclarés propres à la consommation;
@@ -804,12 +900,12 @@ L’autorité cantonale compétente peut ordonner au besoin:
 
 Ils doivent en particulier:
 
-- a. communiquer au vétérinaire officiel, 5 jours ouvrables à l’avance, le programme avec les heures d’abattage prévues et le nombre d’animaux de bétail de boucherie et de gibier d’élevage attendus et lui annoncer la veille les changements de programme importants;
-- b. mettre à la disposition du vétérinaire officiel les documents d’accompagnement et autres déclarations sanitaires pour lui permettre d’en prendre connaissance en prévision du contrôle des animaux avant l’abattage;
+- a. communiquer aux organes d’exécution officiels, 5 jours ouvrables à l’avance, le programme avec les heures d’abattage prévues et le nombre d’animaux de bétail de boucherie et de gibier d’élevage attendus et leur annoncer la veille les changements de programme importants;
+- b. mettre à la disposition des organes d’exécution officiels les documents d’accompagnement et autres déclarations sanitaires pour leur permettre d’en prendre connaissance en prévision du contrôle des animaux avant l’abattage;
 - c. marquer chaque carcasse de telle manière qu’elle puisse être indubitablement attribuée à l’animal livré;
 - d. disposer ou marquer jusqu’à la fin du contrôle des viandes les parties à contrôler de sorte que leur appartenance aux carcasses d’origine ne fasse pas de doute;
 - e. veiller à ce que les carcasses et les parties d’un animal n’entrent pas en contact avec les parties d’autres animaux avant la fin du contrôle des viandes;
-- f. signaler au vétérinaire officiel les éventuelles altérations de carcasses et de parties de celles-ci constatées par son personnel;
+- f. signaler aux organes d’exécution officiels les éventuelles altérations de carcasses et de parties de celles-ci constatées par son personnel;
 - g. laisser dans le local d’abattage la carcasse et les parties soumises au contrôle des viandes jusqu’à la fin de ce contrôle;
 - h.[^38-1] mettre à disposition l’infrastructure technique requise pour les prélèvements officiels et collaborer avec les organes du contrôle des viandes lors du contrôle des carcasses et des parties de celles-ci;
 - i. veiller à ce que les carcasses et les parties contestées soient mises à part sans retard et conservées dans les règles.
@@ -831,6 +927,93 @@ Les abattoirs et les établissements de traitement du gibier doivent conserver d
 **Formulaires et estampilles**
 
 Le DFI règle la forme et le contenu des formulaires et des estampilles.
+
+### Section 4 Système d’information pour le prélèvement d’échantillons sur le bétail bovin à l’abattoir
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+
+#### Art. 40a
+
+**Généralités**
+
+<sup>1</sup> L’OSAV assure l’exploitation d’un système d’information servant à identifier les bovins qui doivent faire l’objet d’un prélèvement d’échantillons conformément à l’art. 31, al. 1, let. e.
+
+<sup>2</sup> Un échantillon est prélevé chez les bovins pour lesquels le système d’information identifie une concordance entre le numéro d’identification et le numéro BDTA de leur exploitation de provenance et les données visées à l’art. 40*b*, let. a, ch. 1, et b, ch 1.
+
+#### Art. 40b
+
+**Données**
+
+Le système d’information contient les données suivantes:
+
+- a.
+
+  les numéros d’identification des bovins:
+
+  - 1\. qui remplissent les conditions pour un prélèvement d’échantillons,
+  - 2\. chez lesquels un échantillon a été prélevé;
+
+- b.
+
+  les numéros BDTA des unités d’élevage détenant des bovins:
+
+  - 1\. qui remplissent les conditions pour un prélèvement d’échantillons,
+  - 2\. chez lesquels un échantillon a été prélevé;
+
+- c.
+
+  les épizooties pour le dépistage desquelles les échantillons:
+
+  - 1\. doivent être analysés,
+  - 2\. ont été analysés;
+
+- d.
+
+  les numéros BDTA des abattoirs:
+
+  - 1\. dans lesquels les échantillons doivent être prélevés,
+  - 2\. dans lesquels les échantillons ont été prélevés;
+
+- e. la date du prélèvement de l’échantillon et le statut de l’échantillon;
+- f.
+
+  les laboratoires:
+
+  - 1\. auxquels les échantillons doivent être envoyés pour analyse,
+  - 2\. auxquels les échantillons ont été envoyés;
+
+- g. les données d’accès de la personne qui déclenche la comparaison des données conformément à l’art. 40*a*, al. 2.
+
+#### Art. 40c
+
+**Saisie et enregistrement automatique des données et accès aux données**
+
+<sup>1</sup> L’OSAV saisit dans le système d’information les données visées à l’art. 40*b*, let. a, ch. 1, b, ch. 1, c, ch. 1, d, ch. 1, et f, ch. 1.
+
+<sup>2</sup> Lorsque les bovins arrivent à l’abattoir, le vétérinaire officiel est responsable de la saisie de leurs numéros d’identification, du numéro BDTA de leur exploitation de provenance et du numéro BDTA de l’abattoir dans le système d’information.
+
+<sup>3</sup> Lorsque le système d’information identifie une concordance au sens de l’art. 40*a*, al. 2, il enregistre automatiquement les données visées à l’art. 40*b*, let. a, ch. 2, b, ch. 2, c, ch. 2, e, f, ch. 2, et g.
+
+<sup>4</sup> S’agissant de l’accès au système d’information, les autorités cantonales annoncent à l’OSAV les vétérinaires officiels qui veulent l’utiliser. L’OSAV saisit les personnes concernées dans le système d’information et leur accorde les droits d’accès nécessaires.
+
+#### Art. 40d
+
+**Protection, conservation et archivage des données**
+
+<sup>1</sup> L’OSAV est responsable du respect des prescriptions en matière de protection des données, de sécurité des données et de sécurité informatique.
+
+<sup>2</sup>
+
+Les délais de conservation suivants s’appliquent:
+
+- a. pour les données visées à l’art. 40*b*, let. a, ch. 1, b, ch. 1, c, ch. 1, d, ch. 1, et f, ch. 1; pendant toute la durée du programme de surveillance;
+- b. pour les autres données: 10 ans au moins, mais 30 ans au plus.
+
+<sup>3</sup> L’archivage des données est régi par les dispositions de la loi fédérale du 26 juin 1998 sur l’archivage[^40d-1].
+
+[^40d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Chapitre 5 Contrôle des animaux autres que les mammifères et les oiseaux
 
@@ -860,30 +1043,28 @@ Les organes de contrôle doivent être indépendants des établissements où ils
 
 #### Art. 44
 
-**Contrôles effectués par le personnel de l’établissement**
+**Contrôles effectués par le personnel de l’établissement**[^44-1]
 
-<sup>1</sup>
+Dans les abattoirs de volaille domestique et de lapins domestiques, l’autorité cantonale compétente peut autoriser que le personnel de l’établissement assume en partie les tâches des assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes selon l’art. 54, à condition:
 
-Dans les abattoirs de volaille et de lapins, l’autorité cantonale compétente peut autoriser que le personnel de l’établissement assume en partie les tâches des assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes selon l’art. 54, à condition:
+- a. que l’établissement ait appliqué avec succès les bonnes pratiques d’hygiène et les procédures selon les principes HACCP pendant au moins douze mois;
+- b. que l’établissement soit titulaire d’une certification reconnue dans la filière agroalimentaire;
+- c. que l’établissement se porte garant du respect des dispositions de la législation sur les denrées alimentaires;
+- d. que les responsabilités en matière de production et de contrôle soient séparées;
+- e. que le personnel concerné de l’établissement ait terminé avec succès la formation d’assistant officiel affecté au contrôle des animaux avant l’abattage et au contrôle des viandes ou qu’il reçoive, pour les activités spécifiques qu’il effectue, une formation appropriée de la part du vétérinaire officiel responsable, suivie d’une mise à jour régulière des connaissances, et
+- f. que le personnel concerné de l’établissement exécute ces tâches sous la surveillance du vétérinaire officiel ou de l’assistant officiel affecté au contrôle des animaux avant l’abattage et au contrôle des viandes.
 
-- a. que l’établissement ait appliqué avec succès les bonnes pratiques d’hygiène et les procédures selon les principes HACCP pendant au moins 12 mois;
-- b.[^44-1] que le personnel d’exploitation concerné ait suivi avec succès la formation d’assistant officiel affecté au contrôle des animaux avant l’abattage et au contrôle des viandes;
-- c. que les responsabilités en matière de production et de contrôle soient séparées;
-- d. que l’établissement soit titulaire d’une certification reconnue au niveau international, et
-- e. que l’établissement se porte garant du respect des dispositions de la législation sur les denrées alimentaires.
-
-<sup>2</sup> Les tâches d’assistance au contrôle officiel des viandes peuvent être réalisées sans la formation prévue à l’al. 1, let. b. Cependant, le personnel concerné de l’établissement doit recevoir pour les activités spécifiques qu’il effectue une formation appropriée de la part du vétérinaire officiel responsable, suivie d’un rafraîchissement régulier des connaissances.[^44-2]
-
-[^44-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^44-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 45
 
 **Prélèvements et tests effectués par le personnel de l’établissement**
 
-<sup>1</sup> L’autorité cantonale compétente peut permettre à des personnes rémunérées par les abattoirs et les établissements de traitement du gibier d’effectuer des prélèvements et des tests officiels sur des animaux.
+<sup>1</sup> L’autorité cantonale compétente peut permettre au personnel des abattoirs ou des établissements de traitement du gibier d’effectuer des prélèvements et des tests officiels sur des animaux.[^45-1]
 
 <sup>2</sup> Les vétérinaires officiels forment ces personnes et assurent la direction et la surveillance de leurs activités. Ils peuvent momentanément leur retirer la permission si les tests et les prélèvements ne sont pas effectués de manière réglementaire.
+
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 46
 
@@ -969,7 +1150,7 @@ La nature et l’intensité de la surveillance de chaque abattoir et établissem
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
-### Section 4 Tâches des vétérinaires officiels et des assistant officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes****
+### Section 4 Tâches des vétérinaires officiels et des assistant officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes
 
 [^chap6-sec4-1]
 
@@ -983,10 +1164,10 @@ La nature et l’intensité de la surveillance de chaque abattoir et établissem
 
 <sup>2</sup>
 
-En fixant l’effectif des organes de contrôle dans un abattoir ou un établissement de traitement du gibier, le canton tient compte:
+En fixant l’effectif des organes d’exécution officiels dans un abattoir ou un établissement de traitement du gibier, le canton tient compte:[^52-1]
 
 - a. des cadences d’abattage et des laps de temps requis par le contrôle avant l’abattage et le contrôle des viandes;
-- b. du temps nécessaire pour les pauses des vétérinaires officiels;
+- b.[^52-2] du temps nécessaire pour les pauses du personnel des organes d’exécution officiels;
 - c. de l’intérêt de l’abattoir ou de l’établissement de traitement du gibier à ce que le déroulement des opérations ne soit pas retardé;
 - d. des heures de présence prescrites durant les abattages.
 
@@ -994,15 +1175,19 @@ En fixant l’effectif des organes de contrôle dans un abattoir ou un établiss
 
 Le canton peut de surcroît:
 
-- a. instituer des assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes, qui travaillent selon les instructions des vétérinaires officiels;
-- b.[^52-1]
+- a.[^52-3] instituer des assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes, qui travaillent sous la surveillance ou sous la responsabilité des vétérinaires officiels;
+- b.[^52-4]
 
   instituer des vétérinaires non officiels pour réaliser les tâches suivantes, à condition qu’ils aient les qualifications suffisantes:
 
   - 1\. effectuer le contrôle des animaux avant l’abattage et le contrôle des viandes dans les établissements de faible capacité,
-  - 2\. effectuer le contrôle des animaux avant l’abattage s’ils sont mis à mort à la ferme ou au pré pour la production de viande et assurer la présence requise lors du tir et de la saignée des animaux.
+  - 2\.[^52-5] effectuer le contrôle des animaux avant l’abattage s’ils sont mis à mort à la ferme ou au pré pour la production de viande et assurer la présence requise lors du tir et de la saignée des animaux mis à mort au pré.
 
-[^52-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-4]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^52-5]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 53
 
@@ -1013,7 +1198,8 @@ Le canton peut de surcroît:
 Les vétérinaires officiels:
 
 - a. dirigent et effectuent le contrôle des animaux avant l’abattage et le contrôle des viandes;
-- b.[^53-1] prélèvent des échantillons et les analysent eux-mêmes ou les transmettent à l’un des laboratoires visés à l’art. 47, al. 1;
+- a<sup>bis</sup>.[^53-1] vérifient la conformité des procédures aux principes HACCP dans les abattoirs et les établissements de traitement du gibier;
+- b.[^53-2] prélèvent des échantillons et les analysent eux-mêmes ou les transmettent à l’un des laboratoires visés à l’art. 47, al. 1;
 - c. contrôlent l’hygiène de l’abattage et ordonnent la correction des non-conformités;
 - d. ordonnent le ralentissement ou l’interruption du processus d’abattage si un bon déroulement du contrôle des viandes n’est plus possible ou si des non-conformités importantes compromettant l’hygiène sont constatées et que d’autres mesures ne suffisent pas pour éviter les non-conformités;
 - e. surveillent l’élimination des sous-produits animaux, notamment du matériel à risque spécifié;
@@ -1034,36 +1220,54 @@ Les vétérinaires officiels:
   - 2\. d’hygiène de l’abattage,
   - 3\. d’élimination des sous-produits animaux;
 
-- i.[^53-2] surveillent par sondage la mise à mort du bétail de boucherie à la ferme pour la production de viande et surveillent toujours le tir et la saignée des bovins mis à mort au pré pour la production de viande.
+- i.[^53-3] surveillent par sondage la mise à mort du bétail de boucherie à la ferme pour la production de viande et surveillent toujours le tir et la saignée des bovins mis à mort au pré pour la production de viande;
+- j.[^53-4] portent la responsabilité des décisions prises sur la base des résultats du contrôle des animaux avant l’abattage et du contrôle des viandes dans les grands établissements, même lorsque les contrôles ont été effectués par les assistants officiels.
 
-<sup>2</sup> Ils doivent être présents pendant toute la durée du contrôle des animaux avant l’abattage et du contrôle des viandes.
+<sup>2</sup> Dans les grands établissements, ils doivent être présents pendant le contrôle des animaux avant l’abattage et le contrôle des viandes et pendant la durée de l’abattage.[^53-5]
 
-<sup>2bis</sup> Dans les grands établissements, ils doivent être présents durant toute la durée de l’abattage.[^53-3]
+<sup>2bis</sup> …[^53-6]
 
 <sup>3</sup> En cas de suspicion, ils peuvent effectuer des contrôles et des examens supplémentaires.
 
-[^53-1]: Nouvelle teneur selon le ch. II 1 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^53-2]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^53-3]: Introduit par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+<sup>4</sup> Ils sont responsables de la formation de base et de la formation qualifiante du personnel de l’établissement qui assume les tâches des assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes.[^53-7]
+
+[^53-1]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-2]: Nouvelle teneur selon le ch. II 1 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^53-3]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^53-4]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-5]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-6]: Introduit par le ch. I de l’O du 27 mai 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Abrogé par le ch. I de l’O du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-7]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 54
 
-**Assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes**
+**Assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes**[^54-1]
 
 <sup>1</sup>
 
-Les assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes sont habilités:
+Les assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes peuvent:
 
-- a. à vérifier les bonnes pratiques d’hygiène et les procédures selon les principes HACCP dans les abattoirs;
-- b. à soumettre à un premier examen les animaux avant l’abattage;
-- c. à effectuer les contrôles prescrits sur les porcs, la volaille domestique, les lapins domestiques, le gibier d’élevage et les oiseaux coureurs, lorsque le contrôle avant l’abattage a déjà été effectué dans le troupeau de provenance;
-- d. à effectuer le contrôle des viandes, si le contrôle des animaux avant l’abattage n’a pas donné lieu à des contestations importantes;
-- e. à prélever des échantillons pour des analyses plus approfondies à la demande du vétérinaire officiel;
-- f. à effectuer le contrôle des viandes dans des établissements situés dans une région reculée du pays à la demande du vétérinaire cantonal, si ces établissements cèdent de la viande directement aux consommateurs seulement.
+- a.
+
+  sous la responsabilité du vétérinaire officiel:
+
+  - 1\.
+
+    dans les grands établissements:
+
+    - – effectuer le contrôle avant l’abattage de la volaille domestique et des lapins domestiques
+    - – soumettre les animaux des autres espèces à un examen préalable au contrôle avant l’abattage,
+
+  - 2\. vérifier les bonnes pratiques d’hygiène et la conformité des procédures aux principes HACCP dans les abattoirs et les établissements de traitement du gibier,
+  - 3\. prélever des échantillons pour des analyses plus approfondies;
+
+- b. sous la surveillance du vétérinaire officiel: effectuer le contrôle des viandes dans les grands établissements;
+- c. sur mandat du vétérinaire cantonal: effectuer le contrôle des animaux avant l’abattage et le contrôle des viandes dans les établissements de faible capacité, à condition qu’un vétérinaire officiel soit joignable en cas de questions;
+- d. lorsque le contrôle des animaux avant l’abattage a déjà été effectué dans le troupeau de provenance, effectuer les contrôles prescrits.
 
 <sup>2</sup>
 
-Lors du contrôle des viandes, les assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes ne peuvent prendre une décision finale qu’en l’absence de contestations ou si les éléments suivants sont constatés:
+Lors du contrôle des viandes, ils ne peuvent prendre une décision finale qu’en l’absence de contestations ou si les éléments suivants sont constatés:
 
 - a. tumeurs, kystes et abcès localisés;
 - b. adhérences des tissus conjonctifs, sans suppuration ni exsudations;
@@ -1075,7 +1279,9 @@ Lors du contrôle des viandes, les assistants officiels affectés au contrôle d
 - h. plaies musculaires fraîches et fractures récentes;
 - i. souillures localisées.
 
-<sup>3</sup> Dans certains cas et en ce qui concerne les lapins domestiques ou la volaille domestique, ils peuvent aussi déclarer impropres à la consommation des carcasses entières.
+<sup>3</sup> S’agissant de la volaille domestique ou des lapins domestiques, ils peuvent aussi dans certains cas déclarer impropres à la consommation des carcasses entières.
+
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 55
 
@@ -1083,7 +1289,7 @@ Lors du contrôle des viandes, les assistants officiels affectés au contrôle d
 
 <sup>1</sup>
 
-Quant à l’abattoir, le vétérinaire officiel vérifie régulièrement et en fonction des risques:
+Quant à l’établissement, le vétérinaire officiel vérifie régulièrement et en fonction des risques:[^55-1]
 
 - a.
 
@@ -1108,10 +1314,11 @@ Quant à l’abattoir, le vétérinaire officiel vérifie régulièrement et en 
 
 <sup>2</sup> Les résultats des contrôles doivent être consignés et évalués. Lors du contrôle de l’hygiène, les résultats de l’autocontrôle et des systèmes documentés, tels que les certifications, doivent être pris en considération.
 
-<sup>3</sup> Les résultats des contrôles doivent être saisis dans le système d’information pour les données de contrôle visés aux art. 6 à 9 de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture[^55-1].[^55-2]
+<sup>3</sup> Les résultats des contrôles doivent être saisis dans le système d’information pour les données de contrôle visés aux art. 6 à 9 de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture[^55-2].[^55-3]
 
-[^55-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^55-2]: Introduit par l’annexe 4 ch. II 6 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^55-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^55-3]: Introduit par l’annexe 4 ch. II 6 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 56
 
@@ -1136,16 +1343,16 @@ Dans des cas particuliers, le vétérinaire cantonal peut charger le vétérinai
 
 #### Art. 57
 
-**Rapport sur les contrôles effectués**
+**Rapport sur les contrôles effectués**[^57-1]
 
-<sup>1</sup> Le vétérinaire officiel doit consigner chaque jour par écrit les résultats du contrôle des animaux avant l’abattage, ceux du contrôle des viandes et des autres contrôles effectués. Il en fait une statistique et établit chaque année un rapport général des activités à l’attention du vétérinaire cantonal.
+<sup>1</sup> Un représentant de l’autorité cantonale d’exécution saisit les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes dans le système d’information Fleko prévu à cet effet, visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire (O-SICAL)[^57-2] ou les fait transmettre au Fleko via les systèmes informatiques de l’abattoir. Il faut saisir ou transmettre le numéro BDTA de l’abattoir et les données énumérées dans l’annexe 3, ch. 2, O-SICAL.
 
-<sup>2</sup> L’autorité d’exécution cantonale saisit les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes dans le système d’information pour les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes (Fleko) visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire (O-SICAL)[^57-1] ou les fait transmettre à Fleko via les systèmes informatiques de l’abattoir. Il faut saisir ou transmettre le numéro BDTA de l’abattoir et les données énumérées dans l’annexe 3, ch. 2, O-SICAL.[^57-2]
+<sup>2</sup> Les résultats des autres contrôles effectués doivent être consignés et synthétisés dans une statistique. Chaque année, un rapport général des activités est établi à l’attention du vétérinaire cantonal.
 
-<sup>3</sup> Les pièces mentionnées à l’al. 1 doivent être conservées durant trois années civiles.
+<sup>3</sup> Les pièces mentionnées à l’al. 2 doivent être conservées durant trois années civiles.
 
-[^57-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^57-2]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^57-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ### Section 5 Notifications
 
@@ -1197,7 +1404,7 @@ Le vétérinaire cantonal met à la disposition de l’OSAV, sur demande:
 
 **Émoluments pour le contrôle des animaux avant l’abattage et le contrôle des viandes**[^60-1]
 
-<sup>1</sup> Les émoluments pour le contrôle des animaux avant l’abattage et le contrôle des viandes sont calculés en fonction du travail nécessaire au contrôle. Des émoluments ne peuvent être perçus que dans la mesure où ils servent le but de la LDAl.
+<sup>1</sup> Les émoluments pour le contrôle des animaux avant l’abattage et le contrôle des viandes sont calculés en fonction du travail nécessaire au contrôle.[^60-2]
 
 <sup>2</sup>
 
@@ -1223,7 +1430,7 @@ Ils fixent les émoluments de contrôle selon l’une seule des modalités suiva
 <tr><td>c. mouton</td><td>0.30</td><td>8.–</td></tr>
 <tr><td>d. chèvre</td><td>0.30</td><td>8.–</td></tr>
 <tr><td>e. porc</td><td>1.50</td><td>8.–</td></tr>
-<tr><td>f. cheval</td><td>4.50</td><td>12.–</td></tr>
+<tr><td>f.[^60-3] animaux de l’espèce équine</td><td>4.50</td><td>12.-</td></tr>
 <tr><td>g. autre bétail de boucherie</td><td>4.50</td><td>8.–</td></tr>
 <tr><td>h. volaille domestique, lapin domestique</td><td>0.01</td><td>0.20</td></tr>
 <tr><td>i. gibier d’élevage</td><td>0.75</td><td>8.–</td></tr>
@@ -1241,12 +1448,14 @@ L’émolument de contrôle selon le temps consacré s’élève à, indépendam
 - b. 60 à 100 francs l’heure pour les activités des assistants officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes.
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^60-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^60-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 61
 
 **Autres émoluments**[^61-1]
 
-<sup>1</sup> Pour la surveillance, par les vétérinaires officiels, des animaux mis à mort à la ferme ou au pré pour la production de viande, les cantons peuvent fixer un émolument de 100 à 160 francs l’heure.
+<sup>1</sup> Les cantons peuvent fixer un émolument de 100 à 160 francs l’heure pour les organes d’exécution officiels qui assurent la surveillance de la mise à mort des animaux à la ferme ou au pré afin de garantir le respect des prescriptions relatives à l’hygiène des denrées alimentaire et à la protection des animaux.[^61-2]
 
 <sup>2</sup> Ils peuvent fixer des émoluments plus élevés pour des activités effectuées en dehors des heures de travail (du lundi au vendredi entre 6 h 00 et 20 h 00). Ces émoluments ne doivent pas dépasser le double des émoluments maximaux visés à l’art. 60, al. 2, et 4 à 6.
 
@@ -1257,6 +1466,7 @@ L’émolument de contrôle selon le temps consacré s’élève à, indépendam
 <sup>5</sup> Les émoluments pour les contrôles, les prestations et les autorisations visés à l’art. 58, al. 2, let. a, et g à i, LDAl sont fixés en fonction du temps consacré. Les cantons fixent le tarif horaire. Les débours sont facturés à part.
 
 [^61-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^61-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ## Chapitre 8 Dispositions finales
 
@@ -1280,6 +1490,17 @@ L’émolument de contrôle selon le temps consacré s’élève à, indépendam
 Les personnes ayant achevé la formation de chasseur à la date d’entrée en vigueur de la présente ordonnance ou au plus tard le 30 avril 2018 sont considérées comme qualifiées au sens de l’art. 21.
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 719](https://fedlex.data.admin.ch/eli/oc/2018/89)).
+
+#### Art. 63a
+
+**Dispositions transitoires de la modification du 8 décembre 2023**[^63a-1]
+
+Les délais transitoires suivants sont applicables:
+
+- a. pour l’annonce visée à l’art. 5*a*, la mise en place d’un système d’autocontrôle et d’un registre des abattages visée à l’art. 19, al. 5 et 6: jusqu’au 31 janvier 2025;
+- b. pour les adaptations organisationnelles et opérationnelles nécessaires du contrôle des viandes élargi visées à l’art. 30*a*: jusqu’au 31 janvier 2029.
+
+[^63a-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 64
 
