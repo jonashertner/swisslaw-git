@@ -3,18 +3,18 @@ sr: "817.022.12"
 title: Ordonnance du DFI du 16 décembre 2016 sur les boissons
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/220"
 language: fr
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-220-20200701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-220-20240201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les boissons
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -588,11 +588,17 @@ Les boissons contenant de la caféine sont des boissons aromatisées contenant d
 
 **Exigences**
 
-<sup>1</sup> La teneur en caféine ne doit pas excéder 160 mg/ration journalière indiquée à l’annexe 7 de l’ordonnance du DFI du 16 décembre 2016 sur l’adjonction de vitamines, de sels minéraux et de certaines autres substances aux denrées alimentaires (OASM)[^38-1].
+<sup>1</sup>
+
+La teneur en caféine ne doit pas excéder 160 mg/ration journalière, cette dernière correspondant à:
+
+- a. la ration journalière indiquée sur l’étiquette;
+- b. si la ration journalière n’est pas indiquée sur l’étiquette, 500 g de boisson ou 100 g d’«Energy shot» conformément à l’annexe 7 de l’ordonnance du DFI du 16 décembre 2016 sur l’adjonction de vitamines, de sels minéraux et de certaines autres substances aux denrées alimentaires (OASM)[^38-1].[^38-2]
 
 <sup>2</sup> Les boissons contenant de la caféine présentant une teneur en caféine supérieure à 150 mg/l peuvent contenir, en dérogation à l’annexe 1 OASM, au plus les quantités maximales indiquées à l’annexe 7. À cet égard, la teneur maximale est déterminante au moment de la remise au consommateur.
 
 [^38-1]: [RS 817.022.32](https://fedlex.data.admin.ch/eli/cc/2017/161)
+[^38-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 39
 
@@ -822,9 +828,10 @@ Dans le cas des extraits de café et de chicorée, les indications requises à l
 
 <sup>3</sup> On entend par maté (yerba, thé du Paraguay) les feuilles contenant de la caféine, légèrement torréfiées et broyées, de l’*Ilex paraguariensis*.[^58-1]
 
-<sup>4</sup> Les plantes à infusion et les fruits à infusion sont les parties de plantes et de fruits ou leurs extraits, qui, par infusion, donnent une boisson aromatique destinée à rafraîchir ou à être bue pour l’agrément.
+<sup>4</sup> Les plantes à infusion et les fruits à infusion sont les parties de plantes et de fruits ou leurs extraits, qui, ajoutés à de l’eau, donnent une boisson aromatique destinée à rafraîchir ou à être bue pour l’agrément.[^58-2]
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^58-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 59
 
@@ -1069,14 +1076,14 @@ Pour le vin mousseux, une des indications suivantes doit figurer sur l’étique
 - – «demi-sec» de 33 à 50 g
 - – «doux» supérieure à 50 g.
 
-<sup>4</sup> Pour les autres vins, une des indications suivantes peut figurer sur l’étiquette selon la teneur en sucre résiduel par litre:
+<sup>4</sup>
 
-<table>
-<tr><td>– «sec»</td><td>égale ou inférieure à 4 g</td></tr>
-<tr><td>– «demi-sec», «mi-sec» ou «légèrement doux»</td><td>supérieure à 4 g et inférieure ou égale à 12 g</td></tr>
-<tr><td>– «demi-doux», «mi-doux»</td><td>supérieure à 12 g et inférieure ou égale à 45 g</td></tr>
-<tr><td>– «doux»</td><td>supérieure à 45 g.</td></tr>
-</table>
+Pour les autres vins, une des indications suivantes peut figurer sur l’étiquette selon la teneur en sucre résiduel par litre:
+
+- – «sec» égale ou inférieure à 4 g
+- – «demi-sec», «mi-sec» ou «légèrement doux» supérieure à 4 g et inférieure ou égale à 12 g
+- – «demi-doux», «mi-doux» supérieure à 12 g et inférieure ou égale à 45 g
+- – «doux» supérieure à 45 g.
 
 <sup>5</sup> En cas d’utilisation de morceaux de chêne au sens de l’annexe 9, l’étiquette ne peut porter aucune indication faisant allusion à un récipient en bois, tel que barrique ou fût.
 
@@ -1135,11 +1142,13 @@ Le vin sans alcool et le vin mousseux sans alcool sont des vins dont on a retir�
 
 <sup>1</sup> La dénomination spécifique est «vin (mousseux) sans alcool», «vin exempt d’alcool» ou «vin (mousseux) désalcoolisé».
 
-<sup>2</sup> Aucune mention d’origine, de cépage ou de millésime n’est admise.
+<sup>2</sup> …[^79-1]
 
 <sup>3</sup> L’adjonction d’arômes en quantité supérieure à celle des composants volatils doit être déclarée.
 
 <sup>4</sup> Le vin mousseux sans alcool doit avoir été additionné d’au moins 4 g/l de dioxyde de carbone pour porter une mention telle que «contient du gaz carbonique». Celle-ci doit figurer à proximité de la dénomination spécifique.
+
+[^79-1]: Abrogé par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ### Chapitre 5 Moûts de raisins et vin de liqueur
 
@@ -1593,9 +1602,9 @@ L’édulcoration est l’opération qui consiste à utiliser un ou plusieurs de
 
 **Aromatisation**[^120-1]
 
-Les boissons spiritueuses énumérées aux art. 122 à 136, 140 à 142 et 147 ne peuvent faire l’objet d’aucune aromatisation.
+Les boissons spiritueuses énumérées aux art. 122 à 136, 140 à 142, 144, al. 4, et 147 ne peuvent faire l’objet d’aucune aromatisation.
 
-[^120-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^120-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 121
 
@@ -1603,10 +1612,11 @@ Les boissons spiritueuses énumérées aux art. 122 à 136, 140 à 142 et 147 ne
 
 La coloration de boissons spiritueuses est limitée de la manière suivante:
 
-- a. elle est interdite pour les boissons spiritueuses énumérées aux art. 130 à 136, 139 et 140;
+- a.[^121-2] elle est interdite pour les boissons spiritueuses énumérées aux art. 130 à 136, 139, 140 et 144, al. 4;
 - b. les boissons spiritueuses énumérées aux art. 122 à 129 ne peuvent être colorées qu’avec un ajout de caramel.
 
 [^121-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^121-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ### Section 2 Catégories spécifiques de boissons spiritueuses
 
@@ -1824,19 +1834,23 @@ La gentiane ou eau-de-vie de gentiane est la boisson spiritueuse élaborée à p
 
 #### Art. 144
 
-**Gin**
+**Gin**[^144-1]
 
-<sup>1</sup> Le *gin* est la boisson spiritueuse aux baies de genévrier obtenue par aromatisation d’un alcool éthylique d’origine agricole ayant les caractères organoleptiques appropriés avec des baies de genévrier (*Juniperus communis* L.) et avec d’autres substances aromatisantes naturelles ou des préparations aromatisantes. Le goût des baies de genévrier doit rester prépondérant.
+<sup>1</sup> Le *gin* est la boisson spiritueuse aux baies de genévrier obtenue par aromatisation d’un alcool éthylique d’origine agricole ayant les caractères organoleptiques appropriés avec des baies de genévrier (*Juniperus communis* L.) et avec d’autres substances aromatisantes naturelles ou des préparations aromatisantes. L’arôme de genévrier doit rester prédominant.
 
-<sup>2</sup> Le *gin* distillé (par ex. *London Gin*) est la boisson spiritueuse aux baies de genévrier obtenue exclusivement par redistillation d’un alcool éthylique d’origine agricole de qualité appropriée ayant les propriétés organoleptiques voulues avec des baies de genévrier et d’autres produits végétaux naturels.
+<sup>2</sup> Le *gin* distillé est la boisson spiritueuse aux baies de genévrier obtenue exclusivement par redistillation d’un alcool éthylique d’origine agricole ayant les propriétés organoleptiques voulues avec des baies de genévrier et d’autres produits végétaux naturels.
 
 <sup>3</sup>
 
-Il doit satisfaire aux exigences minimales suivantes:
+Le *gin* distillé doit satisfaire aux exigences minimales suivantes:
 
 - a. le produit utilisé pour la distillation doit titrer, au départ, au moins 96 % vol.;
-- b. après la redistillation, le goût de genièvre doit rester prédominant;
-- c. des substances aromatisantes naturelles ou des préparations aromatisantes peuvent également être utilisés en complément pour l’aromatisation.
+- b. après la redistillation, l’arôme de genévrier doit rester prédominant;
+- c. des substances aromatisantes naturelles ou des préparations aromatisantes peuvent également être utilisées en complément pour l’aromatisation.
+
+<sup>4</sup> Le *London* *gin* est un *gin* distillé obtenu exclusivement à partir d’alcool éthylique d’origine agricole. Son arôme lui est conféré exclusivement par la distillation d’alcool éthylique avec l’ensemble des produits végétaux naturels utilisés. Le distillat obtenu doit présenter un titre alcoométrique minimal de 70 % vol.
+
+[^144-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 145
 
@@ -1918,9 +1932,9 @@ Toute boisson spiritueuse dénommée «Crème de» suivie du nom du fruit ou de 
 
 **Nocino**[^153-1]
 
-Le *nocino* est la liqueur dont l’aromatisation est obtenue principalement par la distillation de fruits de noix entiers (*Juglans regia* L.), leur macération ou la combinaison des deux procédés.
+Le *nocino* est la liqueur dont l’aromatisation est obtenue principalement par la macération de fruits de noix entiers (*Juglans regia L.*), leur distillation ou la combinaison des deux procédés.
 
-[^153-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^153-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 154
 
@@ -1930,7 +1944,10 @@ Le *nocino* est la liqueur dont l’aromatisation est obtenue principalement par
 
 <sup>2</sup> La teneur minimale en jaune d’œuf pur est de 140 g/l de produit final.[^154-1]
 
+<sup>3</sup> Du lait et des produits laitiers peuvent être utilisés dans la production de cette liqueur.[^154-2]
+
 [^154-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^154-2]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 155
 
@@ -2002,8 +2019,11 @@ Pour les eaux-de-vie suivantes, la dénomination «eau-de-vie de …» peut êtr
 
 <sup>3</sup> Lorsque la désignation, la présentation ou l’étiquetage d’une boisson spiritueuse indique la matière première utilisée pour la fabrication de l’alcool éthylique d’origine agricole, chaque alcool agricole utilisé est mentionné dans l’ordre décroissant des quantités utilisées.
 
+<sup>4</sup> Le *gin*, le *gin* distillé et le *London gin* peuvent porter la dénomination «dry» si leur teneur en produits édulcorants ne dépasse pas 0,1 g par litre de produit final exprimée en sucre inverti.[^159-3]
+
 [^159-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^159-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^159-3]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ## Titre 7 Mise à jour des annexes
 
@@ -2031,11 +2051,11 @@ Sont abrogées:
 
 #### Art. 161a
 
-**Disposition transitoire de la modification du 27 mai 2020**[^161a-1]
+**Disposition transitoire de la modification du 8 décembre 2023**[^161a-1]
 
-Les denrées alimentaires entrant dans le champ d’application de la présente ordonnance qui ne sont pas conformes à la modification du 27 mai 2020 de la présente ordonnance peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2021. Elles peuvent être remises au consommateur jusqu’à épuisement des stocks.
+Les denrées alimentaires non conformes à la modification du 8 décembre 2023 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
 
-[^161a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^161a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 162
 
@@ -2078,7 +2098,7 @@ Les documents relatifs aux analyses physiques, chimiques et physico-chimiques de
 
 Les rapports des analyses microbiologiques doivent démontrer que les exigences de l’annexe 2 sont respectées. De plus, ils doivent également comporter des échantillons prélevés pendant une période prolongée de pluie et à la fin de cette période, ainsi que pendant la fonte des neiges.
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 6, al. 3, et 13, al. 1)
 
@@ -2135,7 +2155,7 @@ UFC: Unité formant colonie; nd: non décelable
 <tr><td>Tribromméthane (bromoforme)</td><td>1</td><td>µg/l</td><td></td></tr>
 </table>
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 17 et 26)
 
@@ -2322,11 +2342,11 @@ Annexe 8
 - 3\. Titre alcoométrique volumique total (en % vol.): somme des titres alcoométriques acquis et en puissance.
 - 4\. Titre alcoométrique volumique naturel (en % vol.): titre alcoométrique volumique total d’un produit avant tout enrichissement.
 
-Annexe 9*[^t-3]*
+Annexe 9[^t-3]
 
 (art. 69, al. 4, 72, 74, al. 1 et 2, 75, al. 5, et 86, al. 1)
 
-## Pratiques et traitements œnologiques admis, avec limites et conditions****
+## Pratiques et traitements œnologiques admis, avec limites et conditions
 
 [^annex9-lvlu1-1]
 
@@ -2348,7 +2368,7 @@ Annexe 10
 
 ## Pictogrammes autorisés selon l’art. 75, al. 1, let. e
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/fr/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/image/image4.png)
 
 Des pictogrammes conformes aux modèles ci-dessus reprenant exclusivement le lait ou l’œuf sont également autorisés.
 
@@ -2400,11 +2420,13 @@ La dénomination spécifique «vin aromatisé» peut être remplacée par une de
 
 - d. vin aromatisé à l’œuf: pour un vin aromatisé, additionné au minimum de 10 g de jaune d’œuf et au minimum de 200 g de sucre, exprimé en sucre inverti, par litre de produit fini.
 
-Annexe 14
+Annexe 14[^t-4]
 
 (art. 109, al. 2)
 
 ## Exigences applicables à l’alcool éthylique d’origine agricole
+
+[^t-4]: Mise à jour par le ch. II de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 - 1\. Propriétés organoleptiques aucun goût étranger détectable
 - 2\. Titre alcoométrique volumique minimal 96,0 % vol.
@@ -2416,19 +2438,20 @@ Annexe 14
 - méthanol 0,3
 - extrait sec 0,015
 - bases azotées volatiles, exprimées en azote 0,001
-- furfural non détectable
+- furfural 0,005
 
-Annexe 15*[^t-4]*
+Annexe 15[^t-5]
 
 (art. 118, al. 1)
 
 ## Titre alcoométrique volumique minimal (teneur en alcool) des boissons spiritueuses
 
-[^t-4]: Mise à jour par le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-5]: Mise à jour par le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)) et le ch. II de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 - a. Pastis de Marseille, absinthe 45,0 %
 - b. Whisky, eau-de-vie de pomme de terre, pastis, Mistrà[^annex15-lvlu1-1] 40,0 %
 - c. Eau-de-vie de lies, eau-de-vie de bière, Sambuca 38,0 %
+- c<sup>bis</sup>. Topinambour 38,0 %
 - d. Eau-de-vie de vin, eau-de-vie de marc, marc, eau-de-vie de fruit, eau‑de‑vie de châtaigne, eau-de-vie de cidre, eau-de-vie de poiré, eau‑de‑vie de marc de fruit, eau-de-vie de lies de fruit, eau-de-vie de … obtenue par macération et distillation, *gin*, *gin* distillé, *London gin*, eau‑de-vie de gentiane, rhum, eau-de-vie d’herbes, *vodka*, *aquavit* eau‑de-vie de raisin sec ou raisin *brandy*, *Geist*, gentiane 37,5 %
 - e. *Weinbrand*, *brandy* 36,0 %
 - f. Boisson spiritueuse de céréales, eau-de-vie de céréales, anis, anis distillé, eau‑de-vie de miel 35,0 %
@@ -2441,13 +2464,13 @@ Annexe 15*[^t-4]*
 
 [^annex15-lvlu1-1]: Le titre alcoométrique volumique minimal du *Mistrà* est de 40 % et son titre alcoométrique volumique maximal est de 47,0 %.
 
-Annexe 16*[^t-5]*
+Annexe 16[^t-6]
 
 (art. 119, al. 2)
 
 ## Édulcoration des boissons spiritueuses
 
-[^t-5]: Introduite par le ch. II al. 3 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-6]: Introduite par le ch. II al. 3 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### Teneurs maximales en sucre, exprimées en sucre inverti (g/l)
 

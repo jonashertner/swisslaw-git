@@ -3,18 +3,18 @@ sr: "817.022.12"
 title: Ordinanza del DFI del 16 dicembre 2016 sulle bevande
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/220"
 language: it
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-220-20200701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-220-20240201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulle bevande
 
-del 16 dicembre 2016 (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 1° febbraio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -591,11 +591,17 @@ Le bevande contenenti caffeina sono bevande aromatizzate contenenti caffeina o d
 
 **Requisiti**
 
-<sup>1</sup> Il tenore di caffeina non deve essere superiore a 160 mg per razione giornaliera indicata nell’allegato 7 dell’ordinanza del DFI del 16 dicembre 2016[^38-1] sull’aggiunta di vitamine, minerali e talune altre sostanze alle derrate alimentari (OAVM).
+<sup>1</sup>
+
+Il tenore di caffeina non deve essere superiore a 160 mg per razione giornaliera, laddove per razione giornaliera si intende:
+
+- a. la razione giornaliera indicata nella caratterizzazione;
+- b. se la caratterizzazione non indica una razione giornaliera: 500 g di bevanda o 100 g di Energy Shot secondo lʼallegato 7 dellʼordinanza del DFI del 16 dicembre 2016[^38-1] sullʼaggiunta di vitamine, sali minerali e altre sostanze alle derrate alimentari (OAVM).[^38-2]
 
 <sup>2</sup> Le bevande contenenti caffeina che presentano un tenore di caffeina superiore a 150 mg per litro possono, in deroga all’allegato 1 OAVM, contenere al massimo le quantità massime indicate nell’allegato 7. Il tenore massimo è determinante al momento della consegna ai consumatori.
 
 [^38-1]: [RS 817.022.32](https://fedlex.data.admin.ch/eli/cc/2017/161)
+[^38-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 39
 
@@ -825,9 +831,10 @@ Per gli estratti di caffè e di cicoria, le indicazioni secondo l’articolo 3 O
 
 <sup>3</sup> Per mate (yerba, tè del Paraguay) si intendono le foglie contenenti caffeina, leggermente torrefatte e sminuzzate grossolanamente, di *Ilex paraguariensis*.[^58-1]
 
-<sup>4</sup> I tè di erbe e di frutti sono costituiti di parti di piante, di frutti o di loro estratti, i quali per infusione in acqua danno una bevanda aromatica, destinata al rinfresco o al piacere di bere.
+<sup>4</sup> I tè di erbe e di frutti sono costituiti di parti di piante, di frutti o di loro estratti, i quali aggiunti all’acqua danno una bevanda aromatica, destinata al rinfresco o al piacere di bere.[^58-2]
 
 [^58-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^58-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 59
 
@@ -1138,11 +1145,13 @@ Il vino analcolico o lo spumante analcolico sono vini ai quali è stato sottratt
 
 <sup>1</sup> La denominazione specifica è «vino (spumante) analcolico» o «vino (spumante) senz’alcol» o «vino (spumante) dealcolizzato».
 
-<sup>2</sup> L’indicazione dell’origine, del vitigno o dell’anno di produzione non è ammessa.
+<sup>2</sup> ...[^79-1]
 
 <sup>3</sup> L’aggiunta di aromi in misura maggiore alla quantità di componenti volatili deve essere dichiarata.
 
 <sup>4</sup> Per recare una menzione quale «contiene anidride carbonica», lo spumante analcolico deve avere un tenore di anidride carbonica aggiunta almeno pari a 4 g/l. La menzione deve figurare accanto alla denominazione specifica.
+
+[^79-1]: Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ### Capitolo 5: Mosto d’uva e vino liquoroso
 
@@ -1596,9 +1605,9 @@ L’edulcorazione è il procedimento che consiste nell’impiegare, per la fabbr
 
 **Aromatizzazione**[^120-1]
 
-Non è consentito aromatizzare le bevande spiritose di cui agli articoli 122–136, 140–142 e 147.
+Non è consentito aromatizzare le bevande spiritose di cui agli articoli 122–136, 140–142, 144 capoverso 4 e 147.
 
-[^120-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^120-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 121
 
@@ -1606,10 +1615,11 @@ Non è consentito aromatizzare le bevande spiritose di cui agli articoli 122–1
 
 La colorazione delle bevande spiritose è soggetta alle seguenti limitazioni:
 
-- a. è vietata per le categorie di cui agli articoli 130–136 e 139 e 140;
+- a.[^121-2] è vietata per le categorie di cui agli articoli 130–136 nonché 139, 140 e 144 capoverso 4;
 - b. le bevande spiritose di cui agli articoli 122–129 possono essere colorate esclusivamente mediante l’aggiunta di caramello.
 
 [^121-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^121-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ### Sezione 2: Categorie specifiche di bevande spiritose
 
@@ -1827,19 +1837,23 @@ La genziana o acquavite di genziana è la bevanda spiritosa proveniente da un di
 
 #### Art. 144
 
-**Gin**
+**Gin**[^144-1]
 
-<sup>1</sup> Il gin è la bevanda spiritosa al ginepro ottenuta dall’aromatizzazione di alcool etilico di origine agricola, avente le caratteristiche organolettiche appropriate, con bacche di ginepro (*Juniperus communis L.*) e altre sostanze aromatizzanti naturali o estratti naturali di aromi. Il sapore delle bacche di ginepro deve rimanere predominante.
+<sup>1</sup> Il gin è la bevanda spiritosa al ginepro ottenuta dall’aromatizzazione di alcool etilico di origine agricola, avente le caratteristiche organolettiche appropriate, con bacche di ginepro (*Juniperus communis L.)* e altre sostanze aromatizzanti naturali o estratti naturali di aromi. L’aroma di ginepro deve rimanere predominante.
 
-<sup>2</sup> Il gin distillato (per es. «London Gin») è la bevanda spiritosa a base di bacche di ginepro ottenuta esclusivamente dalla ridistillazione di alcool etilico di origine agricola di qualità che presenti le caratteristiche organolettiche desiderate, e aggiungendo bacche di ginepro e altre sostanze vegetali naturali.
+<sup>2</sup> Il gin distillato è la bevanda spiritosa a base di bacche di ginepro ottenuta esclusivamente dalla ridistillazione di alcool etilico di origine agricola con caratteristiche organolettiche desiderate, e aggiungendo bacche di ginepro e altre sostanze vegetali naturali.
 
 <sup>3</sup>
 
 Il gin distillato deve soddisfare i seguenti requisiti minimi:
 
 - a. il prodotto iniziale della ridistillazione deve presentare un titolo alcolometrico originale almeno del 96 per cento vol.;
-- b. nella ridistillazione il sapore di ginepro deve rimanere predominante;
+- b. nella ridistillazione l’aroma di ginepro deve rimanere predominante;
 - c. per l’aromatizzazione possono essere aggiunte anche sostanze aromatizzanti naturali oppure estratti naturali di aromi.
+
+<sup>4</sup> «London Gin» è un gin distillato ottenuto esclusivamente con alcool etilico di origine agricola. Il suo aroma è prodotto esclusivamente dalla distillazione di alcool etilico con l’aggiunta di tutte le sostanze vegetali naturali utilizzate. Il titolo alcolometrico volumico minimo del distillato deve essere del 70 per cento in volume.
+
+[^144-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 145
 
@@ -1921,9 +1935,9 @@ Qualsiasi bevanda spiritosa denominata «Crema di» seguita dal nome del frutto 
 
 **Nocino**[^153-1]
 
-Il nocino è il liquore che viene aromatizzato principalmente dalla macerazione e/o dalla distillazione di noci verdi intere (*Juglans regia* L.).
+Il nocino è il liquore che viene aromatizzato principalmente dalla macerazione o dalla distillazione di noci verdi intere (*Juglans regia* L.) oppure dalla combinazione di entrambi i procedimenti.
 
-[^153-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^153-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 154
 
@@ -1933,7 +1947,10 @@ Il nocino è il liquore che viene aromatizzato principalmente dalla macerazione 
 
 <sup>2</sup> Il tenore minimo di tuorlo d’uovo puro è di 140 g/l di prodotto finito.[^154-1]
 
+<sup>3</sup> Per la fabbricazione possono essere utilizzati latte e prodotti lattiero-caseari.[^154-2]
+
 [^154-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^154-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 155
 
@@ -2005,8 +2022,11 @@ Per le seguenti acquaviti, la denominazione «acquavite di …» può essere sos
 
 <sup>3</sup> Se la designazione, la presentazione o la caratterizzazione di una bevanda spiritosa reca l’indicazione della materia prima impiegata per produrre l’alcool etilico di origine agricola, ciascun alcool agricolo utilizzato è menzionato secondo l’ordine decrescente dei quantitativi impiegati.
 
+<sup>4</sup> Il gin, il gin distillato e il London Gin possono contenere la menzione «dry» se il tenore di edulcoranti aggiunti nella bevanda spiritosa non supera 0,1 grammi per litro di prodotto finito, espresso come zucchero invertito.[^159-3]
+
 [^159-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^159-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^159-3]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ## Titolo 7: Aggiornamento degli allegati
 
@@ -2028,17 +2048,17 @@ Sono abrogate:
 - 2\. l’ordinanza del DFI del 29 novembre 2013[^161-2] sulle bevande alcoliche;
 - 3\. l’ordinanza del DFI del 23 novembre 2005[^161-3] sulle bevande analcoliche (in particolare tè, tè di erbe, caffè, succhi, sciroppi, gazose).
 
-[^161-1]: [[RU 2005 5929](https://fedlex.data.admin.ch/eli/oc/2005/795), [2013 2731](https://fedlex.data.admin.ch/eli/oc/2013/564)[4915](https://fedlex.data.admin.ch/eli/oc/2013/834)]
+[^161-1]: [[RU 2005 5929](https://fedlex.data.admin.ch/eli/oc/2005/795); [2013 2731](https://fedlex.data.admin.ch/eli/oc/2013/564), [4915](https://fedlex.data.admin.ch/eli/oc/2013/834)]
 [^161-2]: [[RU 2013 4977](https://fedlex.data.admin.ch/eli/oc/2013/839)]
 [^161-3]: [[RU 2005 6135](https://fedlex.data.admin.ch/eli/oc/2005/804), [2006 4975](https://fedlex.data.admin.ch/eli/oc/2006/774), [2008 1021](https://fedlex.data.admin.ch/eli/oc/2008/203), [2009 2023](https://fedlex.data.admin.ch/eli/oc/2009/284), [2013 5017](https://fedlex.data.admin.ch/eli/oc/2013/840)]
 
 #### Art. 161a
 
-**Disposizione transitoria della modifica del 27 maggio 2020**[^161a-1]
+**Disposizione transitoria della modifica dell’8 dicembre 2023**[^161a-1]
 
-Le derrate alimentari che rientrano nel campo d’applicazione della presente ordinanza non conformi alla modifica del 27 maggio 2020 della presente ordinanza possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore fino al 30 giugno 2021. Esse possono essere consegnate ai consumatori fino a esaurimento delle scorte.
+Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 e consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^161a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^161a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 162
 
@@ -2081,7 +2101,7 @@ I documenti che recano i risultati delle analisi fisiche, chimiche e fisico-chim
 
 La documentazione sugli esami microbiologici deve dimostrare che sono soddisfatti i requisiti di cui all’allegato 2. Deve inoltre includere campioni prelevati durante e alla fine di un periodo di piogge prolungato e durante la fusione delle nevi.
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 6 cpv. 3 e 13 cpv. 1)
 
@@ -2138,7 +2158,7 @@ UFC: unità formanti colonia; nr: non rilevabili
 <tr><td>Tribromometano (bromoformio)</td><td>1</td><td>µg/l</td><td></td></tr>
 </table>
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 17 e 26)
 
@@ -2225,7 +2245,7 @@ Allegato 5
 <tr><td>*Ribes rubrum* L.</td><td>Ribes rossi</td><td>25</td></tr>
 <tr><td>*Ribes uva-crispa* L.</td><td>Uva spina</td><td>30</td></tr>
 <tr><td>*Rosa canina* L.</td><td>Cinorrodi</td><td>40</td></tr>
-<tr><td>*Rubus fruticosus* L.agg., syn*. Rubus sect. Rubus*</td><td>More</td><td>40</td></tr>
+<tr><td>*Rubus fruticosus* L.agg., syn*.* *Rubus sect. Rubus*</td><td>More</td><td>40</td></tr>
 <tr><td>*Rubus idaeus* L.</td><td>Lamponi</td><td>40</td></tr>
 <tr><td>*Sambucus nigra* L.</td><td>Bacche di sambuco</td><td>50</td></tr>
 <tr><td>*Solanum quitoense* Lam.</td><td>Morelle di Quito</td><td>25</td></tr>
@@ -2326,11 +2346,11 @@ Allegato 8
 - 4\. Titolo alcolometrico naturale (in % vol): il titolo alcolometrico volumico totale del prodotto prima di qualsiasi arricchimento.
 - [tab]
 
-Allegato 9*[^t-3]*
+Allegato 9[^t-3]
 
 (art. 69 cpv. 4, 72, 74 cpv. 1 e 2, 75 cpv. 5 e 86 cpv. 1)
 
-## Elenco delle pratiche e dei trattamenti enologici consentiti e loro limiti e condizioni****
+## Elenco delle pratiche e dei trattamenti enologici consentiti e loro limiti e condizioni
 
 [^annex9-lvlu1-1]
 
@@ -2352,7 +2372,7 @@ Allegato 10
 
 ## Pittogrammi autorizzati secondo l’articolo 75 capoverso 1 lettera e
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/it/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/it/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/it/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/image/image4.png)
 
 Sono altresì autorizzati pittogrammi come dai modelli sopra riportati raffiguranti soltanto il latte o le uova.
 
@@ -2404,11 +2424,13 @@ Le denominazioni seguenti possono sostituire la denominazione specifica «vino a
 
 - d. vino aromatizzato all’uovo: per un vino aromatizzato contenente almeno 10 g di tuorlo d’uovo e 200 g di zucchero, espresso come zucchero invertito, per litro di prodotto finito.
 
-Allegato 14
+Allegato 14[^t-4]
 
 (art. 109 cpv. 2)
 
 ## Requisiti per l’alcool etilico di origine agricola
+
+[^t-4]: Aggiornato dal n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 - 1\. Caratteristiche organolettiche nessun sapore estraneo rilevabile
 - 2\. Titolo alcolometrico volumico minimo 96 per cento vol.
@@ -2420,19 +2442,20 @@ Allegato 14
 - metanolo 0,3
 - estratto secco 0,015
 - basi azotate volatili, espresse in azoto 0,001
-- furfurolo non rilevabile
+- furfurolo 0,005
 
-Allegato 15*[^t-4]*
+Allegato 15[^t-5]
 
 (art. 118 cpv. 1)
 
 ## Titolo alcolometrico volumico minimo (tenore di alcool) delle bevande spiritose
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-5]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)) e dal n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 - a. Pastis di Marsiglia, assenzio 45,0 %
 - b. Whisky, acquavite di patate, pastis, assenzio, Mistrà[^annex15-lvlu1-1] 40,0 %
 - c. Acquavite di fecce, acquavite di birra, sambuca 38,0 %
+- c<sup>bis</sup>. Topinambur 38,0 %
 - d. Acquavite di vino, acquavite di vinacce, marc, acquavite di frutta, acquavite di castagne, acquavite di sidro di mele o di sidro di pere, acquavite di residui di frutta, acquavite di fecce di frutta, acquavite di [nome del frutto] ottenuta dalla macerazione e dalla distillazione, gin, gin distillato, London gin, acquavite di genziana, rum, acquavite di erbe, vodka, aquavit, acquavite di uve essiccate o raisin brandy, Geist 37,5 %
 - e. Weinbrand, brandy 36,0 %
 - f. Bevanda spiritosa di cereali, acquavite di cereali, anice, anice distillato, acquavite di miele 35,0 %
@@ -2445,13 +2468,13 @@ Allegato 15*[^t-4]*
 
 [^annex15-lvlu1-1]: Il titolo alcolometrico volumico minimo del Mistrà è pari al 40 % e il suo titolo alcolometrico volumico massimo è pari al 47 %.
 
-Allegato 16*[^t-5]*
+Allegato 16[^t-6]
 
 (art. 119 cpv. 2)
 
 ## Edulcorazione delle bevande spiritose
 
-[^t-5]: Introdotto dal n. II cpv. 3 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-6]: Introdotto dal n. II cpv. 3 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### Tenori massimi di zucchero, espresso in zucchero invertito (g/l)
 

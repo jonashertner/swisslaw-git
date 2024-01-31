@@ -3,18 +3,18 @@ sr: "817.022.12"
 title: Verordnung des EDI vom 16. Dezember 2016 über Getränke
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/220"
 language: de
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-220-20200701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-220-20240201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über Getränke
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI)
 
@@ -39,7 +39,7 @@ Diese Verordnung umschreibt folgende Lebensmittel, legt die Anforderungen an sie
 - c. Gemüsesaft;
 - d. Fruchtnektar;
 - e. aromatisierte Getränke, Sirup, coffeinhaltige Getränke;
-- f. Kaffee, Kaffee-Ersatzmittel, Tee, entkoffeinierter Tee, Mate, Kräuter- und Früchtetee;
+- f. Kaffee, Kaffee-Ersatzmittel, Tee, entcoffeinierter[^1-1] Tee, Mate, Kräuter- und Früchtetee;
 - g.
 
   alkoholische Getränke, einschliesslich ihrer Entsprechungen ohne oder mit geringem Alkoholgehalt:
@@ -54,9 +54,10 @@ Diese Verordnung umschreibt folgende Lebensmittel, legt die Anforderungen an sie
   - 8\. Honigwein (Met),
   - 9\. Spirituosen.
 
-<sup>2</sup> Sie gilt nicht für Trinkwasser, das in der Verordnung des EDI vom 16. Dezember 2016[^1-1] über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen (TBDV) geregelt ist.
+<sup>2</sup> Sie gilt nicht für Trinkwasser, das in der Verordnung des EDI vom 16. Dezember 2016[^1-2] über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen (TBDV) geregelt ist.
 
-[^1-1]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^1-1]: Ausdruck gemäss durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-2]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
 
 #### Art. 2
 
@@ -360,7 +361,7 @@ Für konzentrierten, getrockneten und verdünnten Fruchtsaft, der für die unmit
 
 Bei verdünntem Fruchtsaft ist zusätzlich zu den Angaben nach Artikel 3 LIV[^20-1] der Mindestgehalt an Fruchtsaft, Fruchtmark oder einem Gemisch dieser Bestandteile in der Nähe der Sachbezeichnung anzugeben.
 
-[^20-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)**2.16**
+[^20-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 ### 2. Kapitel: Gemüsesaft
 
@@ -588,11 +589,17 @@ Coffeinhaltige Getränke sind aromatisierte Getränke mit Coffein oder mit coffe
 
 **Anforderungen**
 
-<sup>1</sup> Der Coffeingehalt darf 160 mg/Tagesration nach Anhang 7 der Verordnung des EDI vom 16. Dezember 2016[^38-1] über den Zusatz von Vitaminen, Mineralstoffen und sonstigen Stoffen in Lebensmitteln (VZVM) nicht überschreiten.
+<sup>1</sup>
+
+Der Coffeingehalt darf 160 mg/Tagesration nicht überschreiten, wobei unter Tagesration zu verstehen ist:
+
+- a. Tagesration, die in der Kennzeichnung angegeben wird;
+- b. falls in der Kennzeichnung die Angabe einer Tagesration fehlt: 500 g Getränk beziehungsweise 100 g Energyshot nach Anhang 7 der Verordnung des EDI vom 16. Dezember 2016[^38-1] über den Zusatz von Vitaminen, Mineralstoffen und sonstigen Stoffen in Lebensmitteln (VZVM).[^38-2]
 
 <sup>2</sup> Coffeinhaltige Getränke mit einem Coffeingehalt von mehr als 150 mg/l dürfen in Abweichung von Anhang 1 VZVM die Höchstmengen nach Anhang 7 nicht überschreiten. Massgebend für die Höchstmengen ist der Gehalt zum Zeitpunkt der Abgabe an die Konsumentinnen und Konsumenten.
 
-[^38-1]: [SR 817.022](https://fedlex.data.admin.ch/eli/cc/1986/647_647_647)**.****32**
+[^38-1]: [SR 817.022.32](https://fedlex.data.admin.ch/eli/cc/2017/161)
+[^38-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 39
 
@@ -608,16 +615,18 @@ Zusätzlich zu den Angaben nach Artikel 3 LIV[^39-1] sind anzugeben:
 
   bei Getränken mit einem Coffeingehalt von über 150 mg/l:
 
-  - 1\. ein Hinweis, dass das Getränk wegen des erhöhten Koffeingehalts nur in begrenzten Mengen konsumiert werden sollte,
+  - 1\.[^39-4] ein Hinweis, dass das Getränk wegen des erhöhten Coffeingehalts nur in begrenzten Mengen konsumiert werden sollte,
   - 2\. der Gehalt an Taurin und Glucuronolacton in mg/100 ml oder deren prozentualer Anteil.
 
-<sup>2</sup> Die Sachbezeichnung von Getränken mit einem Coffeingehalt von über 150 mg/l kann «koffeinhaltiges Erfrischungsgetränk», «Energydrink» oder «Energy Drink» oder bei Getränken in Portionen von weniger als 100 ml «Energyshot» oder «Energy-Shot» lauten.
+<sup>2</sup> Die Sachbezeichnung von Getränken mit einem Coffeingehalt von über 150 mg/l kann «coffeinhaltiges Erfrischungsgetränk», «Energydrink» oder «Energy Drink» oder bei Getränken in Portionen von weniger als 100 ml «Energyshot» oder «Energy-Shot» lauten.[^39-5]
 
 [^39-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 [^39-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 [^39-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^39-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^39-5]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
-## 5. Titel: Kaffee, Kaffee-Ersatzmittel, Tee, entkoffeinierter Tee, Mate, Kräuter- und Früchtetee
+## 5. Titel: Kaffee, Kaffee-Ersatzmittel, Tee, entcoffeinierter Tee, Mate, Kräuter- und Früchtetee
 
 ### 1. Kapitel: Kaffee und Kaffee-Ersatzmittel
 
@@ -653,13 +662,13 @@ Röstkaffee ist gerösteter Rohkaffee.
 
 <sup>2</sup> Röstkaffee muss, bezogen auf die Trockenmasse, mindestens 22 Massenprozent wasserlöslichen Extrakt ergeben.
 
-### 3. Abschnitt: Entkoffeinierter Kaffee
+### 3. Abschnitt: Entcoffeinierter Kaffee
 
 #### Art. 44
 
 **Begriff**
 
-Entkoffeinierter Kaffee (coffeinfreier Kaffee) ist Roh- oder Röstkaffee, der nach der Röstung einen Coffeingehalt von höchstens 0,1 Massenprozent, bezogen auf die Trockensubstanz, aufweist.
+Entcoffeinierter Kaffee (coffeinfreier Kaffee) ist Roh- oder Röstkaffee, der nach der Röstung einen Coffeingehalt von höchstens 0,1 Massenprozent, bezogen auf die Trockensubstanz, aufweist.
 
 #### Art. 45
 
@@ -671,10 +680,10 @@ Entkoffeinierter Kaffee (coffeinfreier Kaffee) ist Roh- oder Röstkaffee, der na
 
 Der Wassergehalt darf nicht höher sein als:
 
-- a. 13 Massenprozent bei entkoffeiniertem Rohkaffee;
-- b. 5 Massenprozent bei entkoffeiniertem Röstkaffee.
+- a. 13 Massenprozent bei entcoffeiniertem Rohkaffee;
+- b. 5 Massenprozent bei entcoffeiniertem Röstkaffee.
 
-<sup>3</sup> Entkoffeinierter Kaffee muss, bezogen auf die Trockenmasse, mindestens 22 Massenprozent wasserlöslichen Extrakt ergeben.
+<sup>3</sup> Entcoffeinierter Kaffee muss, bezogen auf die Trockenmasse, mindestens 22 Massenprozent wasserlöslichen Extrakt ergeben.
 
 ### 4. Abschnitt: Behandelter Kaffee
 
@@ -690,7 +699,7 @@ Behandelter Kaffee muss sich von Kaffee nach den Artikeln 40–43 analytisch ode
 
 <sup>1</sup> Die Bestimmungen der Artikel 40–43 gelten sinngemäss.
 
-<sup>2</sup> Für entkoffeinierten behandelten Kaffee gelten die Artikel 44 und 45 sinngemäss.
+<sup>2</sup> Für entcoffeinierten behandelten Kaffee gelten die Artikel 44 und 45 sinngemäss.
 
 ### 5. Abschnitt: Kaffee-Extrakt
 
@@ -720,7 +729,7 @@ Der Gehalt an aus Kaffee stammender Trockenmasse muss betragen:
 
 <sup>5</sup> Flüssiger Kaffee-Extrakt darf gebrannte oder ungebrannte Zuckerarten bis zu höchstens 12 Massenprozent enthalten.
 
-<sup>6</sup> Entkoffeinierter Kaffee-Extrakt darf, auf die Trockensubstanz bezogen, höchstens 0,3 Massenprozent Coffein enthalten.
+<sup>6</sup> Entcoffeinierter Kaffee-Extrakt darf, auf die Trockensubstanz bezogen, höchstens 0,3 Massenprozent Coffein enthalten.
 
 <sup>7</sup> Für Extrakte aus behandeltem Kaffee gelten die Artikel 46 und 47 sinngemäss.
 
@@ -810,7 +819,7 @@ Bei Extrakten aus Kaffee und Zichorien sind zusätzlich zu den Angaben nach Arti
 
 [^57-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
-### 2. Kapitel: Tee, entkoffeinierter Tee, Mate, Kräuter- und Früchtetee
+### 2. Kapitel: Tee, entcoffeinierter Tee, Mate, Kräuter- und Früchtetee
 
 #### Art. 58
 
@@ -818,13 +827,14 @@ Bei Extrakten aus Kaffee und Zichorien sind zusätzlich zu den Angaben nach Arti
 
 <sup>1</sup> Tee (grüner, schwarzer und weisser Tee sowie Oolong) sind die nach dem üblichen Verfahren zubereiteten Blattknospen und jungen Blätter des Teestrauches (*Camellia sinensis* L.).
 
-<sup>2</sup> Entkoffeinierter Tee oder coffeinfreier Tee ist Tee mit einem Coffeingehalt von höchstens 0,1 Massenprozent.
+<sup>2</sup> Entcoffeinierter Tee oder coffeinfreier Tee ist Tee mit einem Coffeingehalt von höchstens 0,1 Massenprozent.
 
 <sup>3</sup> Mate (Yerba, Paraguaytee) sind die coffeinhaltigen, schwach gerösteten und grob zerkleinerten Blätter von *Ilex paraguariensis.*[^58-1]
 
-<sup>4</sup> Kräuter- und Früchtetee sind Pflanzenteile oder deren Extrakte, die zusammen mit Wasser angebrüht ein aromatisches Getränk ergeben, das der Erfrischung oder dem Trinkgenuss dient.
+<sup>4</sup> Kräuter- und Früchtetee sind Pflanzenteile oder deren Extrakte, die zusammen mit Wasser ein aromatisches Getränk ergeben, das der Erfrischung oder dem Trinkgenuss dient.[^58-2]
 
 [^58-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^58-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 59
 
@@ -1135,11 +1145,13 @@ Alkoholfreier Wein oder alkoholfreier Schaumwein ist Wein, dem der Alkohol auf p
 
 <sup>1</sup> Die Sachbezeichnung lautet «alkoholfreier (Schaum)Wein» oder «Wein ohne Alkohol» oder «entalkoholisierter (Schaum)Wein».
 
-<sup>2</sup> Angaben über Ursprung, Traubensorten oder Jahrgang sind nicht zulässig.
+<sup>2</sup> …[^79-1]
 
 <sup>3</sup> Die Zugabe von Aromen, die über die Menge der flüchtigen Bestandteile hinausgeht, ist zu deklarieren.
 
 <sup>4</sup> Damit ein Hinweis wie «kohlensäurehaltig» angebracht werden kann, müssen alkoholfreiem Schaumwein mindestens 4 g/l Kohlendioxid zugegeben worden sein. Der Hinweis muss in der Nähe der Sachbezeichnung angebracht werden.
+
+[^79-1]: Aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ### 5. Kapitel: Traubenmost und Likörwein
 
@@ -1580,22 +1592,23 @@ Süssung ist das Verfahren, bei dem bei der Herstellung von Spirituosen eines od
 
 - a. Halbweisszucker, Weisszucker, raffinierter Weisszucker, Dextrose, Fructose, Glucosesirup, Flüssigzucker, flüssiger Invertzucker, Sirup von Invertzucker;
 - b. rektifiziertes Traubenmostkonzentrat, konzentrierter Traubenmost und frischer Traubenmost;
-- c. caramelisierter Zucker (Caramel), der ausschliesslich durch kontrolliertes Erhitzen von Saccharose ohne Zusatz von Basen, Mineralsäuren oder anderen chemischen Zusatzstoffen gewonnen wird;
+- c.[^119-1] karamelisierter Zucker (Caramelzucker), der ausschliesslich durch kontrolliertes Erhitzen von Saccharose ohne Zusatz von Basen, Mineralsäuren oder anderen chemischen Zusatzstoffen gewonnen wird;
 - d. Honig;
 - e. Johannisbrotsirup;
 - f. andere natürliche Zuckerstoffe, die eine ähnliche Wirkung wie die vorstehend genannten Erzeugnisse haben.
 
-<sup>2</sup> Die Süssung der verschiedenen Spirituosen ist in Anhang 16 geregelt.[^119-1]
+<sup>2</sup> Die Süssung der verschiedenen Spirituosen ist in Anhang 16 geregelt.[^119-2]
 
-[^119-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^119-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^119-2]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 120
 
 **Aromatisierung**[^120-1]
 
-Spirituosen nach den Artikeln 122–136, 140–142 und 147 dürfen nicht aromatisiert werden.
+Spirituosen nach den Artikeln 122–136, 140–142, 144 Absatz 4 und 147 dürfen nicht aromatisiert werden.
 
-[^120-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^120-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 121
 
@@ -1603,10 +1616,10 @@ Spirituosen nach den Artikeln 122–136, 140–142 und 147 dürfen nicht aromati
 
 Für die Färbung von Spirituosen gelten folgende Einschränkungen:
 
-- a. Spirituosen nach den Artikeln 130–136 sowie 139 und 140 dürfen nicht gefärbt werden.
-- b. Spirituosen nach den Artikeln 122–129 dürfen nur durch Zusatz von Caramel gefärbt werden.
+- a. Spirituosen nach den Artikeln 130–136 sowie 139, 140 und 144 Absatz 4 dürfen nicht gefärbt werden.
+- b. Spirituosen nach den Artikeln 122–129 dürfen nur durch Zusatz von Zuckerkulör gefärbt werden.
 
-[^121-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^121-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ### 2. Abschnitt: Spezifische Spirituosenkategorien
 
@@ -1824,19 +1837,23 @@ Enzian ist eine Spirituose, die aus Destillat von vergorenen Enzianwurzeln mit o
 
 #### Art. 144
 
-**Gin**
+**Gin**[^144-1]
 
-<sup>1</sup> Gin ist eine Spirituose mit Wacholderbeeren, die durch Aromatisieren von Ethylalkohol landwirtschaftlichen Ursprungs, der die entsprechenden sensorischen Eigenschaften aufweist, mit Wacholderbeeren (*Juniperus* *communis* L.) und mit anderen natürlichen Aromastoffen oder mit Aromaextrakten gewonnen wird. Der Wacholderbeerengeschmack muss vorherrschend bleiben.
+<sup>1</sup> Gin ist eine Spirituose mit Wacholderbeeren, die durch Aromatisieren von Ethylalkohol landwirtschaftlichen Ursprungs, der die entsprechenden sensorischen Eigenschaften aufweist, mit Wacholderbeeren (*Juniperus communis* L.) und mit anderen natürlichen Aromastoffen oder mit Aromaextrakten gewonnen wird. Das Wacholderbeerenaroma muss vorherrschend bleiben.
 
-<sup>2</sup> Destillierter Gin (z. B. «London Gin») ist eine Spirituose mit Wachholderbeeren, die ausschliesslich durch erneute Destillation von Ethylalkohol landwirtschaftlichen Ursprungs von angemessener Qualität mit den gewünschten sensorischen Eigenschaften unter Zusatz von Wacholderbeeren und anderen natürlichen pflanzlichen Stoffen hergestellt wird.
+<sup>2</sup> Destillierter Gin ist eine Spirituose mit Wachholderbeeren, die ausschliesslich durch erneute Destillation von Ethylalkohol landwirtschaftlichen Ursprungs mit den gewünschten sensorischen Eigenschaften unter Zusatz von Wacholderbeeren und anderen natürlichen pflanzlichen Stoffen hergestellt wird.
 
 <sup>3</sup>
 
 Destillierter Gin muss folgenden Mindestanforderungen genügen:
 
 - a. Das Ausgangsprodukt der erneuten Destillation muss einen ursprünglichen Alkoholgehalt von mindestens 96 Volumenprozent aufweisen.
-- b. Bei der erneuten Destillation muss der Wacholderbeerengeschmack vorherrschend bleiben.
+- b. Bei der erneuten Destillation muss das Wacholderbeerenaroma vorherrschend bleiben.
 - c. Zur Aromatisierung können zusätzlich natürliche Aromastoffe oder Aromaextrakte verwendet werden.
+
+<sup>4</sup> «London Gin» ist ein destillierter Gin, der ausschliesslich aus Ethylalkohol landwirtschaftlichen Ursprungs hergestellt wird. Sein Aroma wird ausschliesslich durch die Destillation von Ethylalkohol unter Zusatz aller verwendeten natürlichen pflanzlichen Stoffe erzeugt. Das gewonnene Destillat muss einen Mindestalkoholgehalt von 70 Volumenprozent aufweisen.
+
+[^144-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 145
 
@@ -1918,9 +1935,9 @@ Spirituosen mit der Sachbezeichnung «-crème» mit vorangestelltem Namen der ve
 
 **Nocino**[^153-1]
 
-Nocino ist ein Likör, dessen Aroma hauptsächlich durch Destillation oder Einmaischen ganzer grüner Walnüsse (*Juglans regia* L.) oder die Kombination beider Verfahren zustande kommt.
+Nocino ist ein Likör, dessen Aroma hauptsächlich durch Einmaischen oder Destillation ganzer grüner Walnüsse (*Juglans regia* L.) oder die Kombination beider Verfahren zustande kommt.
 
-[^153-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^153-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 154
 
@@ -1930,7 +1947,10 @@ Nocino ist ein Likör, dessen Aroma hauptsächlich durch Destillation oder Einma
 
 <sup>2</sup> Das Enderzeugnis muss mindestens 140 g/l reines Eigelb enthalten.[^154-1]
 
+<sup>3</sup> Bei der Herstellung dürfen Milch und Milcherzeugnisse verwendet werden.[^154-2]
+
 [^154-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^154-2]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 155
 
@@ -2002,8 +2022,11 @@ Bei folgenden Obstbränden darf die Bezeichnung «…brand» durch die Angabe de
 
 <sup>3</sup> Enthält die Bezeichnung, Aufmachung oder Kennzeichnung einer Spirituose eine Angabe zum Ausgangsstoff, der zur Herstellung des Ethylalkohols landwirtschaftlichen Ursprungs verwendet wurde, so ist jeder verwendete Alkohol landwirtschaftlichen Ursprungs in absteigender Reihenfolge der verwendeten Mengen aufzuführen.
 
+<sup>4</sup> Gin, destillierter Gin und London Gin dürfen den Hinweis «dry» enthalten, wenn der Gehalt der Spirituose an zugesetzten süssenden Erzeugnissen nicht mehr als 0,1 g pro Liter des Fertigerzeugnisses, ausgedrückt als Invertzucker, beträgt.[^159-3]
+
 [^159-1]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^159-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^159-3]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ## 7. Titel: Aktualisierung der Anhänge
 
@@ -2025,17 +2048,17 @@ Die folgenden Erlasse werden aufgehoben:
 - 2\. Verordnung des EDI vom 29. November 2013[^161-2] über alkoholische Getränke;
 - 3\. Verordnung des EDI vom 23. November 2005[^161-3] über alkoholfreie Getränke (insbesondere Tee, Kräutertee, Kaffee, Säfte, Sirup, Limonaden).
 
-[^161-1]: [[AS 2005 5929](https://fedlex.data.admin.ch/eli/oc/2005/795), [2013 4915](https://fedlex.data.admin.ch/eli/oc/2013/834)]
+[^161-1]: [[AS 2005 5929](https://fedlex.data.admin.ch/eli/oc/2005/795); [2013 4915](https://fedlex.data.admin.ch/eli/oc/2013/834)]
 [^161-2]: [[AS 2013 4977](https://fedlex.data.admin.ch/eli/oc/2013/839)]
-[^161-3]: [[AS 2005 6135](https://fedlex.data.admin.ch/eli/oc/2005/804), [2006 4975](https://fedlex.data.admin.ch/eli/oc/2006/774), [2008 1021](https://fedlex.data.admin.ch/eli/oc/2008/203), [2009 2023](https://fedlex.data.admin.ch/eli/oc/2009/284), [2013 5017](https://fedlex.data.admin.ch/eli/oc/2013/840)]
+[^161-3]: [[AS 2005 6135](https://fedlex.data.admin.ch/eli/oc/2005/804); [2006 4975](https://fedlex.data.admin.ch/eli/oc/2006/774); [2008 1021](https://fedlex.data.admin.ch/eli/oc/2008/203); [2009 2023](https://fedlex.data.admin.ch/eli/oc/2009/284); [2013 5017](https://fedlex.data.admin.ch/eli/oc/2013/840)]
 
 #### Art. 161a
 
-**Übergangsbestimmung zur Änderung vom 27. Mai 2020**[^161a-1]
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^161a-1]
 
-Lebensmittel, die in den Geltungsbereich dieser Verordnung fallen und die der Änderung vom 27. Mai 2020 dieser Verordnung nicht entsprechen, dürfen noch bis zum 30. Juni 2021 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
-[^161a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^161a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 162
 
@@ -2078,7 +2101,7 @@ Die Unterlagen über die physikalische, chemische und physikalisch-chemische Unt
 
 Aus den Unterlagen über die mikrobiologischen Untersuchungen muss hervorgehen, dass die Anforderungen nach Anhang 2 eingehalten sind. Sie müssen auch Proben enthalten, die während und am Ende einer längeren Regenperiode und während der Schneeschmelze entnommen wurden.
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 6 Abs. 3 und 13 Abs. 1)
 
@@ -2135,7 +2158,7 @@ KBE: Koloniebildende Einheit; nn: nicht nachweisbar
 <tr><td>Tribrommethan (Bromoform)</td><td>1</td><td>µg/l</td><td></td></tr>
 </table>
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 17 und 26)
 
@@ -2222,11 +2245,11 @@ Anhang 5
 <tr><td>*Ribes rubrum* L.</td><td>Rote Johannisbeeren</td><td>25</td></tr>
 <tr><td>*Ribes uva-crispa* L.</td><td>Stachelbeeren</td><td>30</td></tr>
 <tr><td>*Rosa canina* L.</td><td>Hagebutten</td><td>40</td></tr>
-<tr><td>*Rubus fruticosus* L.agg., syn*.* *Rubus sect. Rubus*</td><td>Brombeeren</td><td>40</td></tr>
+<tr><td>*Rubus fruticosus* L.agg., syn*. Rubus sect. Rubus*</td><td>Brombeeren</td><td>40</td></tr>
 <tr><td>*Rubus idaeus* L.</td><td>Himbeeren</td><td>40</td></tr>
 <tr><td>*Sambucus nigra* L.</td><td>Holunderbeeren</td><td>50</td></tr>
 <tr><td>*Solanum quitoense* Lam.</td><td>Quitoorangen</td><td>25</td></tr>
-<tr><td>*Sorbus aucupa**ria* L., syn. *Pyrus aucuparia* (L.) Gaertn.</td><td>Ebereschen</td><td>30</td></tr>
+<tr><td>*Sorbus aucuparia* L., syn. *Pyrus aucuparia* (L.) Gaertn.</td><td>Ebereschen</td><td>30</td></tr>
 <tr><td>*Vaccinium angustifolium* Aiton, *Vaccinium corymbosum* L. *Vaccinium myrtillus* L.</td><td>Heidelbeeren</td><td>40</td></tr>
 <tr><td>*Vaccinium macrocarpon* Ait. *Vaccinium oxycoccos* L. *Vaccinium vitis-idaea* L.</td><td>Cranberries und Preiselbeeren</td><td>25</td></tr>
 <tr><td></td><td>Andere Früchte dieser Kategorie</td><td>25</td></tr>
@@ -2258,7 +2281,7 @@ Anhang 5
 <tr><td>Botanischer Name</td><td>Gebräuchlicher Name der Frucht</td><td>Volumenprozent (bezogen auf das Enderzeugnis)</td></tr>
 <tr><td>*Ananas comosus* (L.) Merr.</td><td>Ananas</td><td>50</td></tr>
 <tr><td>*Malus domestica* Borkh.</td><td>Äpfel</td><td>50</td></tr>
-<tr><td>*Prunus per**sica* (L.) Batsch var. *persica*</td><td>Pfirsiche</td><td>50</td></tr>
+<tr><td>*Prunus persica* (L.) Batsch var. *persica*</td><td>Pfirsiche</td><td>50</td></tr>
 <tr><td>*Pyrus communis* L.</td><td>Birnen</td><td>50</td></tr>
 <tr><td></td><td>Zitrusfrüchte, ausser Zitronen und Limetten</td><td>50</td></tr>
 <tr><td></td><td>Andere Früchte dieser Kategorie</td><td>50</td></tr>
@@ -2279,7 +2302,7 @@ Anhang 6
 
 ### 2 Spezifikationen
 
-**Anforderungen an lebende Bakteri****enkulturen zur Verwendung in aromatisierten Getränken**
+**Anforderungen an lebende Bakterienkulturen zur Verwendung in aromatisierten Getränken**
 
 - 1 Lebende Bakterienkulturen, die in aromatisierten Getränken verwendet werden, müssen für Lebensmittelzwecke geeignet und gesundheitlich unbedenklich sein.
 - 2 Es können lebende Zellen von Stämmen einer oder verschiedener Bakterienarten (Species) eingesetzt werden.
@@ -2322,13 +2345,12 @@ Anhang 8
 - 3\. Gesamtalkoholgehalt (in Volumenprozent): die Summe des vorhandenen und des potenziellen Alkoholgehalts.
 - 4\. Natürlicher Alkoholgehalt (in Volumenprozent): der Gesamtalkoholgehalt des Erzeugnisses vor jeglicher Anreicherung.
 - [tab]
-- [tab]
 
-Anhang 9*[^t-3]*
+Anhang 9[^t-3]
 
 (Art. 69 Abs. 4, 72, 74 Abs. 1 und 2, 75 Abs. 5 sowie 86 Abs. 1)
 
-## Zulässige önologische Verfahren und Behandlungen sowie ihre Grenzen und Bedingungen****
+## Zulässige önologische Verfahren und Behandlungen sowie ihre Grenzen und Bedingungen
 
 [^annex9-lvlu1-1]
 
@@ -2342,7 +2364,6 @@ Die Schweiz zählt zur Zone CI gemäss Anlage I der Verordnung (EU) Nr. 1308/201
 Die übrigen gemäss der europäischen Gesetzgebung zulässigen önologischen Verfahren und Behandlungen sind unter Beachtung der Bedingungen für die Verwendung ebenfalls anerkannt.
 
 - [tab]
-- [tab]
 
 [^annex9-lvlu1-2]: Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers; ABl. L 149 vom 7.6.2019, S. 1.
 [^annex9-lvlu1-3]: Siehe Fussnote zu Art. 61 Abs. 3.
@@ -2353,7 +2374,7 @@ Anhang 10
 
 ## Zulässige Piktogramme nach Artikel 75 Absatz 1 Buchstabe e
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/de/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/de/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/de/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20200701/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/image/image4.png)
 
 Zulässig sind auch Piktogramme, die den obigen Vorlagen entsprechen und sich nur auf Milch oder Eier beziehen.
 
@@ -2365,7 +2386,7 @@ Anhang 11
 
 Ergänzend zur Sachbezeichnung «aromatisiertes weinhaltiges Getränk» kann eine der folgenden Bezeichnungen verwendet werden:
 
-- a. *Sangria**:* für ein aromatisiertes weinhaltiges Getränk mit einem Alkoholgehalt von weniger als 12 Volumenprozent, das mit natürlichen Zitrusfruchtaromen oder -extrakten aromatisiert wurde und das Säfte von Zitrusfrüchten, Kohlendioxid oder Gewürze enthalten und gesüsst worden sein kann; der Bezeichnung «*Sangria*» muss stets der Hinweis «hergestellt in …», gefolgt vom Namen des Produktionslandes, beigefügt werden, ausser wenn das Getränk in Spanien oder Portugal hergestellt wurde;
+- a. *Sangria:* für ein aromatisiertes weinhaltiges Getränk mit einem Alkoholgehalt von weniger als 12 Volumenprozent, das mit natürlichen Zitrusfruchtaromen oder -extrakten aromatisiert wurde und das Säfte von Zitrusfrüchten, Kohlendioxid oder Gewürze enthalten und gesüsst worden sein kann; der Bezeichnung «*Sangria*» muss stets der Hinweis «hergestellt in …», gefolgt vom Namen des Produktionslandes, beigefügt werden, ausser wenn das Getränk in Spanien oder Portugal hergestellt wurde;
 - b. *Clarea:* für ein aromatisiertes weinhaltiges Getränk aus Weisswein, das mit natürlichen Zitrusfruchtaromen oder -extrakten aromatisiert wurde und das Säfte von Zitrusfrüchten, Kohlendioxid oder Gewürze enthalten und gesüsst worden sein kann; der Bezeichnung «*Clarea*» muss stets der Hinweis «hergestellt in …», gefolgt vom Namen des Produktionslandes, beigefügt werden, ausser wenn das Getränk in Spanien hergestellt wurde;
 - c. *Zurra:* für ein aromatisiertes weinhaltiges Getränk, das durch Zusatz von Branntwein oder Weinbrand hergestellt wurde, einen Alkoholgehalt von mindestens 9 und weniger als 14 Volumenprozent aufweist und Fruchtstücke enthalten kann;
 - d. *Bitter soda:* für ein aromatisiertes weinhaltiges Getränk, das mindestens 50 Prozent Bitter vino enthält, einen Alkoholgehalt von mindestens 8 und weniger als 10,5 Volumenprozent aufweist und Kohlendioxid enthält;
@@ -2405,11 +2426,13 @@ Eine der folgenden Bezeichnungen kann die Sachbezeichnung «aromatisierter Wein�
 
 - d. aromatisierter Wein mit Ei: für einen aromatisierten Wein mit einem Gehalt von mindestens 10 Gramm Eigelb und 200 Gramm Zucker, ausgedrückt als Invertzucker, pro Liter Enderzeugnis.
 
-Anhang 14
+Anhang 14[^t-4]
 
 (Art. 109 Abs. 2)
 
 ## Anforderungen an Ethylalkohol landwirtschaftlichen Ursprungs
+
+[^t-4]: Bereinigt gemäss Ziff. II der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 - 1\. Organoleptische Eigenschaften kein feststellbarer Fremdgeschmack
 - 2\. Mindestalkoholgehalt 96,0 Volumenprozent
@@ -2421,19 +2444,20 @@ Anhang 14
 - Methanol 0,3
 - Abdampfrückstand 0,015
 - Flüchtige Stickstoffbasen, ausgedrückt als Stickstoff 0,001
-- Furfural nicht nachweisbar
+- Furfural 0,005
 
-Anhang 15*[^t-4]*
+Anhang 15[^t-5]
 
 (Art. 118 Abs. 1)
 
 ## Mindestalkoholgehalt von Spirituosen
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)) und Ziff. II der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 - a. Pastis de Marseille, Absinth 45,0 %
 - b. Whisky, Kartoffelbrand, Pastis, Mistrà[^annex15-lvlu1-1] 40,0 %
 - c. Hefebrand (Brand aus Trub, Drusenbrand), Bierbrand, Sambuca 38,0 %
+- c<sup>bis</sup>. Topinambur 38,0 %
 - d. Branntwein, Tresterbrand, Trester, Marc, Obstbrand, Kastanienbrand, Brand aus Apfel- oder Birnenwein, Brand aus Obsttrester, Obstdrusenbrand, durch Einmaischen und Destillation gewonnener …‑brand, Gin, destillierter Gin, London Gin, Enzian, Rum, Kräuterbrand, Wodka, Aquavit, Korinthenbrand oder Raisin Brandy, Geist 37,5 %
 - e. Weinbrand, Brandy 36,0 %
 - f. Getreidespirituose, Getreidebrand, Anis, destillierter Anis, Honigbrand 35,0 %
@@ -2446,13 +2470,13 @@ Anhang 15*[^t-4]*
 
 [^annex15-lvlu1-1]: Der Alkoholgehalt von Mistrà muss mindestens 40,0 Volumenprozent und darf höchstens 47,0 Volumenprozent betragen.
 
-Anhang 16*[^t-5]*
+Anhang 16[^t-6]
 
 (Art. 119 Abs. 2)
 
 ## Süssung von Spirituosen
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-6]: Eingefügt durch Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### Höchstgehalt an Zucker, ausgedrückt als Invertzucker (g/l)
 
