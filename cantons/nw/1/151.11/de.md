@@ -4,13 +4,13 @@ number: "151.11"
 title: Reglement über die Geschäftsordnung des Landrates
 short: "Landratsreglement, LRR"
 language: de
-version: 2023-05-01
-valid_until: 2024-01-31
-version_adopted: 2023-03-29
+version: 2024-02-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-27
 adopted: 1998-09-16
 in_force: 1998-10-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/151.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1137/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1137/pdf_file"
 
 (Landratsreglement, LRR)
 
-vom 16.09.1998 (Stand 01.05.2023)
+vom 16.09.1998 (Stand 01.02.2024)
 
 Der Landrat von Nidwalden,
 
@@ -925,6 +925,19 @@ Das Wort wird aufgrund der Anmeldungen erteilt; Sprecherinnen und Sprecher der K
 **Allgemein**
 
 <sup>1</sup> Das Verfahren in den Kommissionen richtet sich sinngemäss nach den Bestimmungen, die für die Verhandlungen im Landrat gelten.
+
+#### § 87a
+
+**Virtuelle Sitzungen**
+
+<sup>1</sup> Virtuelle Sitzungen werden durchgeführt, wenn eine physische Versammlung:
+
+- 1\. infolge höherer Gewalt nicht oder nur erschwert durchgeführt werden kann; oder
+- 2\. die Sitzungsteilnehmenden gefährden würde.
+
+<sup>2</sup> Das Landratsbüro stellt fest, ob die Voraussetzungen für virtuelle Sitzungen erfüllt sind.
+
+<sup>3</sup> Der Kanton hat geeignete technische Instrumente für eine sichere Durchführung der virtuellen Sitzung zur Verfügung zu stellen.
 
 #### § 88
 
