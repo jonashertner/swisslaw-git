@@ -3,11 +3,11 @@ sr: "817.023.41"
 title: "Verordnung des EDI vom 23. November 2005 über Gegenstände für den Schleimhaut-, Haut- und Haarkontakt sowie über Kerzen, Streichhölzer, Feuerzeuge und Scherzartikel (Verordnung über Gegenstände für den Humankontakt, HKV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: de
-version: 2023-11-01
+version: 2024-02-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2005-811-20231101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2005-811-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20231101/de"
 
 (Verordnung über Gegenstände für den Humankontakt)[^t-1]
 
-vom 23. November 2005 (Stand am 1. November 2023)
+vom 23. November 2005 (Stand am 1. Februar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -76,38 +76,38 @@ Diese Verordnung legt die Anforderungen fest an:
 
 <sup>2</sup> Sind Gegenstände nach Absatz 1 mit einem Überzug versehen, so muss dieser so beschaffen sein, dass der Grenzwert bei normaler Verwendung des Gegenstandes während eines Zeitraums von zwei Jahren nicht überschritten wird.[^2-3]
 
-<sup>3</sup> Erstlingsstecker und übrige Stecker, die in durchstochene Ohren oder andere durchstochene Körperteile eingeführt werden, dürfen nicht mehr als 0,2 µg Nickel pro cm<sup>2</sup> und Woche abgeben. Dies gilt auch für die Verschlussteile.[^2-4]
+<sup>3</sup> Erstlingsstecker, übrige Stecker, Teile von Ohrringen und Piercings, die in durchstochene Ohren oder andere durchstochene Körperteile eingeführt werden, dürfen nicht mehr als 0,2 µg Nickel pro cm<sup>2</sup> und Woche abgeben. Dieser Maximalwert gilt auch für die Verschlussteile.[^2-4]
 
 <sup>4</sup> Bei Gegenständen nach den Absätzen 1–3, die mit den in Anhang 1 aufgeführten technischen Normen übereinstimmen, wird vermutet, dass sie die in diesem Abschnitt festgelegten Anforderungen erfüllen, soweit diese von diesen Normen abgedeckt sind.[^2-5]
 
 [^2-1]: Fassung gemäss Ziff. I der V des EDI vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
 [^2-2]: Eingefügt durch Ziff. I der V des EDI vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
 [^2-3]: Fassung gemäss Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^2-4]: Fassung gemäss Ziff. I der V des EDI vom 11. Mai 2009, in Kraft seit 25. Mai 2009 ([AS 2009 2391](https://fedlex.data.admin.ch/eli/oc/2009/289)).
+[^2-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^2-5]: Eingefügt durch Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 #### Art. 2a
 
 **Cadmiumhaltige Gegenstände**[^2a-1]
 
-<sup>1</sup> Schmuck- und Fantasieschmuckerzeugnisse, wie Haarschmuck, Armbänder, Halsketten, Ringe, Piercings, Armbanduhren, Broschen und Manschettenknöpfe, dürfen in ihren von aussen zugänglichen Metallteilen Cadmium nicht in einer Konzentration von 0,01 oder mehr Gewichtsprozent enthalten.[^2a-2]
+<sup>1</sup> Schmuck- und Fantasieschmuckerzeugnisse, wie Haarschmuck, Armbänder, Halsketten, Ringe, Piercings, Armbanduhren, Broschen und Manschettenknöpfe, dürfen in ihren Metallteilen mit Hautkontakt Cadmium nicht in einer Konzentration von 0,01 oder mehr Gewichtsprozent enthalten.[^2a-2]
 
 <sup>2</sup> Absatz 1 gilt nicht für gebrauchte Gegenstände nach Artikel 1 Absatz 4 Buchstabe a des Bundesgesetzes vom 12. Juni 2009[^2a-3] über die Produktesicherheit.
 
 [^2a-1]: Eingefügt durch Ziff. I der V des EDI vom 13. Okt. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Fassung gemäss Ziff. I der V des EDI vom 21. Dez. 2011, in Kraft seit 1. Febr. 2012 ([AS 2012 401](https://fedlex.data.admin.ch/eli/oc/2012/41)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^2a-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^2a-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^2a-3]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 #### Art. 2b
 
 **Bleihaltige Gegenstände**[^2b-1]
 
-<sup>1</sup> Gegenstände nach Artikel 2*a* Absatz 1 dürfen in ihren von aussen zugänglichen Metallteilen Blei nicht in einer Konzentration von 0,05 oder mehr Gewichtsprozent enthalten.[^2b-2]
+<sup>1</sup> Schmuck- und Fantasieschmuckerzeugnisse dürfen in ihren Metallteilen mit Hautkontakt Blei nicht in einer Konzentration von 0,05 oder mehr Gewichtsprozent enthalten.[^2b-2]
 
 <sup>2</sup> Absatz 1 gilt nicht für gebrauchte Gegenstände nach Artikel 1 Absatz 4 Buchstabe a des Bundesgesetzes vom 12. Juni 2009[^2b-3] über die Produktesicherheit.
 
 [^2b-1]: Eingefügt durch Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^2b-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^2b-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^2b-3]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 ### 2. Abschnitt: Piercing, Tätowierung, Permanent-Make-up und verwandte Praktiken
@@ -132,47 +132,61 @@ Personen, die Piercings, Tätowierungen und Permanent-Make-up an Drittpersonen a
 
 #### Art. 5
 
-**Anforderungen an Piercing, Tätowierfarben und Farben für Permanent-Make-up**
+**Anforderung an Piercings**[^5-1]
 
-<sup>1</sup> Piercing dürfen zu keiner bleibenden Verfärbung der Haut führen.
+Piercings dürfen zu keiner bleibenden Verfärbung der Haut führen
 
-<sup>2</sup> Tätowierfarben und Farben für Permanent-Make-up dürfen bei bestimmungsgemässer Anwendung die Gesundheit der Konsumentinnen und Konsumenten nicht gefährden.
+[^5-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
-<sup>3</sup>
+#### Art. 5a
 
-Sie dürfen keine der folgenden Stoffe enthalten:
+**Anforderungen an Tätowierfarben und Farben für Permanent‑Make‑up**[^5a-1]
 
-- a.[^5-1] aromatische Amine gemäss Anhang 1*a* und Azofarbstoffe oder Pigmente, die durch reduktive Spaltung aromatische Amine gemäss Anhang 1*a* bilden; Artikel 21 gilt sinngemäss;
-- b. Farbstoffe gemäss Anhang 2;
-- c.[^5-2] Stoffe gemäss Artikel 54 Absatz 1 LGV;
-- d.[^5-3]
+<sup>1</sup>
+
+In Tätowierfarben und Farben für Permanent-Make-up dürfen folgende Stoffe in den nachstehenden Konzentrationen vorhanden sein:
+
+- a. Stoffe gemäss Artikel 54 Absatz 1 LGV: weniger als 0,5 mg/kg;
+- b.
 
   Farbstoffe gemäss Artikel 54 Absatz 3 LGV, die:
 
-  - 1\. nur in abzuspülenden Mitteln verwendet werden dürfen,
-  - 2\. nicht in Mitteln verwendet werden dürfen, die auf Schleimhäute aufgetragen werden, oder
-  - 3\. nicht in Augenmitteln verwendet werden dürfen;
+  - 1\. nur in abzuspülenden Mitteln verwendet werden dürfen: weniger als 0,5 mg/kg,
+  - 2\. die nicht in Mitteln verwendet werden dürfen, die auf Schleimhäute aufgetragen werden: weniger als 0,5 mg/kg, oder
+  - 3\. nicht in Augenmitteln verwendet werden dürfen: weniger als 0,5 mg/kg;
 
-- e.[^5-4] Stoffe, die nach der in Anhang 2 Ziffer 1 der Chemikalienverordnung vom 5. Juni 2015[^5-5] genannten Fassung der Verordnung (EG) Nr. 1272/2008 als karzinogen, mutagen oder reproduktionstoxisch (CMR) der Kategorie 1A, 1B oder 2 eingestuft werden;
-- f. Aroma- und Riechstoffe.
+- c. alle anderen Farbstoffe gemäss Artikel 54 Absatz 3 LGV;
+- d. Stoffe, die nach der in Anhang 2 Ziffer 1 der Chemikalienverordnung vom 5. Juni 2015[^5a-2] genannten Fassung der Verordnung (EG) Nr. 1272/2008[^5a-3] als karzinogen oder keimzellmutagen der Kategorie 1A, 1B oder 2 eingestuft werden, ausgenommen Stoffe, deren Einstufung sich auf Wirkungen gründet, die nur nach Exposition durch Inhalation auftreten: weniger als 0,5 mg/kg;
+- e. Stoffe, die nach der in Anhang 2 Ziffer 1 der Chemikalienverordnung vom 5. Juni 2015 genannten Fassung der Verordnung (EG) Nr. 1272/2008 als hautsensibilisierend der Kategorie 1, 1A oder 1B eingestuft werden: weniger als 10 mg/kg;
+- f.
 
-<sup>3bis</sup> Sie dürfen Schwermetalle und bestimmte weitere Stoffe höchstens bis zu den in Anhang 2*a* aufgelisteten Konzentrationen enthalten.[^5-6]
+  Stoffe, die nach der in Anhang 2 Ziffer 1 der Chemikalienverordnung vom 5. Juni 2015 genannten Fassung der Verordnung (EG) Nr. 1272/2008 als hautätzend der Kategorie 1, 1A, 1B oder 1C, als hautreizend der Kategorie 2, als augenschädigend der Kategorie 1 oder als augenreizend der Kategorie 2 eingestuft werden:
 
-<sup>3ter</sup> Ist in Tätowier- oder Permanent-Make-up-Farben Chrom(VI) in Spuren nachweisbar, so muss auf der Packung folgender Warnhinweis angebracht werden: «Enthält Chrom. Kann allergische Reaktionen auslösen».[^5-7]
+  - 1\. bei einer Verwendung ausschliesslich als pH-Regulator: weniger als 1000 mg/kg,
+  - 2\. in allen anderen Fällen: weniger als 100 mg/kg;
 
-<sup>3quater</sup> Ist in Tätowier- oder Permanent-Make-up-Farben Nickel in Spuren nachweisbar, so muss auf der Packung folgender Warnhinweis angebracht werden: «Enthält Nickel. Kann allergische Reaktionen auslösen».[^5-8]
+- g. Stoffe, die nach der in Anhang 2 Ziffer 1 der Chemikalienverordnung vom 5. Juni 2015 genannten Fassung der Verordnung (EG) Nr. 1272/2008 als reproduktionstoxisch der Kategorie 1A, 1B oder 2 eingestuft werden, ausgenommen Stoffe, deren Einstufung sich auf Wirkungen gründet, die nur nach Exposition durch Inhalation auftreten: weniger als 10 mg/kg;
+- h. Schwermetalle und bestimmte weitere Stoffe nach Anhang XVII, Eintrag 75, Anlage 13 der Verordnung (EG) Nr. 1907/2006 (EU-REACH-Verordnung)[^5a-4]: die Konzentrationen nach der EU-REACH-Verordnung.
 
-<sup>4</sup> In Tätowierfarben und Permanent-Make-up-Farben dürfen nur Konservierungsstoffe eingesetzt werden, die nach Artikel 54 Absatz 4 LGV für Produkte, die auf der Haut verbleiben, zugelassen sind.[^5-9]
+<sup>2</sup>
 
-[^5-1]: Fassung gemäss Ziff. I der V des EDI vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Die Berichtigung vom 23. Aug. 2016 betrifft nur den französischen Text ([AS 2016 2967](https://fedlex.data.admin.ch/eli/oc/2016/498)).
-[^5-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-3]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-4]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-5]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^5-6]: Eingefügt durch Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^5-7]: Eingefügt durch Ziff. I der V des EDI vom 25. Nov. 2013 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-8]: Eingefügt durch Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-9]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+Für Stoffe bestimmter Kategorien gelten in Bezug auf den Konzentrationsgrenzwert die folgenden zusätzlichen Bestimmungen:
+
+- a. Gehört ein Stoff zu mehreren Kategorien nach Absatz 1 Buchstabe a–f, so gilt für diesen Stoff der strengste Konzentrationsgrenzwert, der unter den betreffenden Buchstaben festgelegt ist.
+- b. Gehört ein Stoff zu mehreren Kategorien nach Absatz 1 Buchstabe b–g, so gilt für diesen Stoff der strengste Konzentrationsgrenzwert, der unter den betreffenden Buchstaben festgelegt ist.
+- c. Gehört ein Stoff nach Absatz 1 Buchstabe a zur Kategorie nach Absatz 1 Buchstabe g, so gilt für diesen Stoff der in Absatz 1 Buchstabe g festgelegte Konzentrationsgrenzwert.
+- d. Gehört ein Stoff nach Absatz 1 Buchstabe h zu einer Kategorie nach Absatz 1 Buchstaben a–g, so gilt für diesen Stoff der in Absatz 1 Buchstabe h festgelegte Konzentrationsgrenzwert.
+
+<sup>3</sup> Die Anforderungen nach Absatz 1 gelten nicht für Stoffe, die bei einer Temperatur von 20 °C und einem Druck von 101,3 kPa gasförmig sind oder bei einer Temperatur von 50 °C einen Dampfdruck über 300 kPa erzeugen mit Ausnahme von Formaldehyd (CAS-Nr. 50-00-0, EG-Nr. 200-001-8).
+
+<sup>4</sup> In Tätowierfarben und Permanent-Make-up-Farben dürfen unter Einhaltung der entsprechenden Anwendungsbeschränkungen nur Konservierungsstoffe verwendet werden, die nach Artikel 54 Absatz 4 LGV für Produkte, die auf der Haut verbleiben, zugelassen sind und die kein Formaldehyd abspalten.
+
+<sup>5</sup> Abweichend von den Bestimmungen in den Absätzen 1, 2 und 4 gelten für die Stoffe nach Anhang 2 die dort festgelegten Höchstkonzentrationen.
+
+[^5a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^5a-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^5a-3]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006.
+[^5a-4]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2023/1464, ABl. L 180 vom 17.7.2023, S. 12.
 
 #### Art. 6
 
@@ -202,11 +216,15 @@ Apparate und Instrumente für Piercing, Tätowierung und Permanent-Make-up oder 
 Behälter von Tätowier- und Permanent-Make-up-Farben müssen mindestens folgende Angaben aufweisen:
 
 - a. Name und Adresse der Person oder Firma, die die Farbe herstellt, einführt, abpackt, abfüllt oder abgibt;
-- b.[^8-1] die Zusammensetzung in mengenmässig absteigender Reihenfolge, nach einer gebräuchlichen Nomenklatur (IUPAC, CAS, INCI oder CI);
-- c. das Warenlos;
+- b.[^8-1] die Zusammensetzung in mengenmässig absteigender Reihenfolge, nach einer gebräuchlichen Nomenklatur (INCI, IUPAC, CAS, oder CI); muss die Bezeichnung eines verwendeten Stoffs gemäss der Chemikalienverordnung vom 5. Juni 2015[^8-2] bereits auf dem Etikett angegeben werden, so muss dieser Bestandteil nicht gemäss der vorliegenden Verordnung ausgewiesen werden;
+- c.[^8-3] eine Referenz zur Identifizierung der Charge;
 - d. das Mindesthaltbarkeitsdatum (mit Angabe von Monat und Jahr), bis zu dem die Farbmittel ihre spezifischen Eigenschaften unter angemessenen Aufbewahrungsbedingungen behalten;
 - e. die Aufbewahrungsbedingungen, die eingehalten werden müssen, damit die angegebene Mindesthaltbarkeit gewährleistet ist;
-- f. nötigenfalls Gebrauchs- und Warnhinweise.
+- f.[^8-4] nötigenfalls Gebrauchs- und Warnhinweise, sofern sie nicht bereits gemäss der Chemikalienverordnung vom 5. Juni 2015 auf dem Etikett angegeben sind;
+- g.[^8-5] den Hinweis «pH-Regulator» für Stoffe nach Artikel 5*a* Absatz 1 Buchstabe f Ziffer 1;
+- h.[^8-6] die Angabe «Gemisch zur Verwendung in Tätowierungen oder Permanent-Make-up»;
+- i.[^8-7] den Warnhinweis «Enthält Chrom. Kann allergische Reaktionen hervorrufen» für Tätowier- oder Permanent-Make-up-Farben, in denen Chrom (VI) in einer Konzentration unter dem Höchstwert nach Artikel 5*a* Absatz 1 Buchstabe h nachweisbar ist;
+- j.[^8-8] den Warnhinweis «Enthält Nickel. Kann allergische Reaktionen hervorrufen» für Tätowier- oder Permanent-Make-up-Farben in denen Nickel in einer Konzentration unter dem Höchstwert nach Artikel 5*a* Absatz 1 Buchstabe h nachweisbar ist.
 
 <sup>2</sup>
 
@@ -217,7 +235,14 @@ Verpackungen von Piercing-Schmuck müssen folgende Angaben enthalten:
 
 <sup>3</sup> Die Angaben nach den Absätzen 1 und 2 sowie über die Materialzusammensetzung von Piercing-Schmuck sind der Konsumentin oder dem Konsumenten auf Verlangen zugänglich zu machen.
 
-[^8-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^8-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^8-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-5]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-6]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-7]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-8]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 #### Art. 9
 
@@ -389,14 +414,14 @@ Die Konzentration von Zinn aus Dioctylzinnverbindungen darf in folgenden Gegenst
 
 <sup>1quater</sup> Die im Anhang XVII Eintrag 72 der Verordnung (EG) Nr. 1907/2006 (EU-REACH-Verordnung)[^22-4] aufgeführten textilen Materialien und Schuhe dürfen keine Stoffe in einer in homogenem Material gemessenen Konzentration enthalten, die gleich hoch oder höher ist als für diesen Stoff in der Anlage 12 EU-REACH-Verordnung angegeben ist.[^22-5]
 
-<sup>2</sup> Die Zulässigkeit der Verwendung von weiteren Stoffen, insbesondere von Flammschutzmitteln, richtet sich nach der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^22-6].
+<sup>2</sup> …[^22-6]
 
 [^22-1]: Aufgehoben durch Ziff. I der V des EDI vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^22-2]: Eingefügt durch Ziff. I der V des EDI vom 13. Okt. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Aufgehoben durch Ziff. I der V des EDI vom 25. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 [^22-3]: Eingefügt durch Ziff. I der V des EDI vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Siehe auch die UeB der Änd. am Schluss dieses Textes.
 [^22-4]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2018/1513; ABl. L 256 vom 12.10.2018, S. 1.
 [^22-5]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^22-6]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^22-6]: Aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 ### 7. Abschnitt: Kordeln und Zugbänder an Kinderbekleidung
 
@@ -517,12 +542,11 @@ In Abweichung von Artikel 80 Absatz 7 LGV gilt:
 
 #### Art. 28b
 
-**Übergangsbestimmung zur Änderung vom 29. September 2023**[^28b-1]
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^28b-1]
 
-Solange afokale kosmetische Kontaktlinsen gemäss Artikel 106 der Medizinprodukteverordnung vom 1. Juli 2020[^28b-2] ohne Konformitätsbescheinigung vermarktet werden dürfen, bleiben die Anforderungen nach dem bisherigen 2. Kapitel 3. Abschnitt der vorliegenden Verordnung anwendbar. Die Kontrolle dieser Anforderungen erfolgt durch die Vollzugsbehörden nach der Bundesgesetzgebung über Lebensmittel und Gebrauchsgegenstände.
+Gegenstände, die der Änderung vom 8. Dezember 2023 dieser Verordnung nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
-[^28b-1]: Eingefügt durch Anhang Ziff. 4 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^28b-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^28b-1]: Eingefügt durch Anhang Ziff. 4 der V vom 29. Sept. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)). Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 #### Art. 29
 
@@ -600,144 +624,60 @@ Anhang 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 7. März 2008 ([AS 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex1-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 7. März 2008 ([AS 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex1-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
-<tr><th>SN EN 1811+A1:2015</th><th>Referenzprüfverfahren zur Bestimmung der Nickellässigkeit von sämtlichen Stäben, die in durchstochene Körperteile eingeführt werden und Erzeugnissen, die unmittelbar und länger mit der Haut in Berührung kommen</th></tr>
-<tr><th>SN EN 12472+A1:2009</th><th>Simulierte Abrieb- und Korrosionsprüfung zum Nachweis der Nickelabgabe von mit Auflagen versehenen Gegenständen</th></tr>
-<tr><th>SN EN 16128:2011</th><th>Referenzprüfverfahren zur Bestimmung der Nickellässigkeit derjenigen Teile von Brillenfassungen und Sonnenbrillen, die bestimmungsgemäss und länger mit der Haut in Berührung kommen</th></tr>
+<tr><td>SN EN 1811:2023</td><td>Referenzprüfverfahren zur Bestimmung der Nickellässigkeit von sämtlichen Stäben, die in durchstochene Körperteile eingeführt werden und Erzeugnissen, die unmittelbar und länger mit der Haut in Berührung kommen</td></tr>
+<tr><td>SN EN 12472:2021</td><td>Simulierte Abrieb- und Korrosionsprüfung zum beschleunigten Nachweis der Nickelabgabe von mit Auflagen versehenen Gegenständen</td></tr>
+<tr><td>SN EN 16128:2016</td><td>Augenoptik – Referenzverfahren für die Bestimmung der Nickellässigkeit von Brillenfassungen und Sonnenbrillen</td></tr>
 </table>
 
 Anhang 1a[^t-3]
 
-(Art. 5 Abs. 3 Bst. a)
+[^t-3]: Ursprünglich: Anhang 1. Aufgehoben durch Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
-## Liste der aromatischen Amine, welche nicht in Tätowier- und Permanent-Make-up-Farben enthalten sein dürfen
+Anhang 2[^t-4]
 
-[^t-3]: Ursprünglich: Anhang 1. Fassung gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)) und der Berichtigung vom 20. April 2021 ([AS 2021 226](https://fedlex.data.admin.ch/eli/oc/2021/226)).
+(Art. 5*a* Abs. 5)
 
-<table>
-<tr><th>CAS[^annex1a-lvlu1-1]-Nummer</th><th>Index-Nummer</th><th>EG-Nummer</th><th>Stoff-Name</th></tr>
-<tr><td>92-67-1</td><td>612-072-00-6</td><td>202-177-1</td><td>Biphenyl-4-ylamine</td></tr>
-<tr><td>92-87-5</td><td>612-042-00-2</td><td>202-199-1</td><td>Benzidin</td></tr>
-<tr><td>95-69-2</td><td></td><td>202-411-6</td><td>4-Chlor-o-toluidin</td></tr>
-<tr><td>91-59-8</td><td>612-022-00-3</td><td>202-080-4</td><td>2-Naphthylamin</td></tr>
-<tr><td>97-56-3</td><td>611-006-00-3</td><td>202-591-2</td><td>o-Aminoazotoluol</td></tr>
-<tr><td>99-55-8</td><td></td><td>202-765-8</td><td>5-Nitro-o-toluidin</td></tr>
-<tr><td>106-47-8</td><td></td><td>203-401-0</td><td>4-Chloroanilin</td></tr>
-<tr><td>615-05-4</td><td></td><td>210-406-1</td><td>4-Methoxy-m-phenylendiamin</td></tr>
-<tr><td>101-77-9</td><td>612-051-00-1</td><td>202-974-4</td><td>4,4’-Methylendianilin</td></tr>
-<tr><td>91-94-1</td><td>612-068-00-4</td><td>202-109-0</td><td>3,3’-Dichlorobenzidin</td></tr>
-<tr><td>119-90-4</td><td>612-036-00-X</td><td>204-355-4</td><td>3,3’-Dimethoxybenzidin</td></tr>
-<tr><td>119-93-7</td><td>612-041-00-7</td><td>204-358-0</td><td>3,3’-Dimethylbenzidin</td></tr>
-<tr><td>838-88-0</td><td>612-085-00-7</td><td>212-658-8</td><td>3,3’-Methylen-di-o- toluidin</td></tr>
-<tr><td>120-71-8</td><td></td><td>204-419-1</td><td>6-Methoxy-m-toluidin</td></tr>
-<tr><td>101-14-4</td><td>612-078-00-9</td><td>202-918-9</td><td>4,4’-Methylen-bis(2-chloroanilin)</td></tr>
-<tr><td>101-80-4</td><td></td><td>202-977-0</td><td>4,4’-Oxydianilin</td></tr>
-<tr><td>139-65-1</td><td></td><td>205-370-9</td><td>4,4’-Thiodianilin</td></tr>
-<tr><td>95-53-4</td><td>612-091-00-X</td><td>202-429-0</td><td>o-Toluidin</td></tr>
-<tr><td>95-80-7</td><td>612-099-00-3</td><td>202-453-1</td><td>4-Methyl-m-phenylendiamin</td></tr>
-<tr><td>137-17-7</td><td></td><td>205-282-0</td><td>2,4,5-Trimethylanilin</td></tr>
-<tr><td>90-04-0</td><td>612-035-00-4</td><td>201-963-1</td><td>o-Anisidin</td></tr>
-<tr><td>60-09-3</td><td></td><td></td><td>4-Aminoazobenzol</td></tr>
-<tr><td>399-95-1</td><td>604-028-00-X</td><td>402-230-0</td><td>4-Amino-3-flurophenol</td></tr>
-<tr><td>95-68-1</td><td></td><td></td><td>2,4’-Xylidin</td></tr>
-<tr><td>87-62-7</td><td></td><td></td><td>2,6’-Xylidin</td></tr>
-<tr><td>293733-21-8</td><td></td><td></td><td>6-Amino-2-ethoxynaphthalin</td></tr>
-<tr><td>106-50-3</td><td></td><td>2003-404-7</td><td>para-Phenylendiamine</td></tr>
-</table>
+## Substanzen mit spezifischen Konzentrationsgrenzwerten in Tätowier- und Permanent-Make-up-Farben
 
-[^annex1a-lvlu1-1]: CAS = Chemical Abstract Service of the American Chemical Society
-
-Anhang 2
-
-(Art. 5 Abs. 3 Bst. b)
-
-## Liste der Farbstoffe, die nicht in Tätowier- und Permanent-Make-up-Farben enthalten sein dürfen
+[^t-4]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 <table>
-<tr><td>CI[^annex2-lvlu1-1]-Name</td><td>CAS-Nummer</td><td>CI-Nummer</td></tr>
-<tr><td>Acid Green 16</td><td>12768-78-4</td><td>44025</td></tr>
-<tr><td>Acid Red 26</td><td>3761-53-3</td><td>16150</td></tr>
-<tr><td>Acid Violet 17</td><td>4129-84-4</td><td>42650</td></tr>
-<tr><td>Acid Violet 49</td><td>1694-09-3</td><td>42640</td></tr>
-<tr><td>Acid Yellow 36</td><td>587-98-4</td><td>13065</td></tr>
-<tr><td>Basic Blue 7</td><td>2390-60-5</td><td>42595</td></tr>
-<tr><td>Basic Green 1</td><td>633-03-4</td><td>42040</td></tr>
-<tr><td>Basic Red 1</td><td>989-38-8</td><td>45160</td></tr>
-<tr><td>Basic Red 9</td><td>569-61-9</td><td>42500</td></tr>
-<tr><td>Basic Violet 1</td><td>8004-87-3</td><td>42535</td></tr>
-<tr><td>Basic Violet 10</td><td>81-88-9</td><td>45170</td></tr>
-<tr><td>Basic Violet 3</td><td>548-62-9</td><td>42555</td></tr>
-<tr><td>Disperse Blue 1</td><td>2475-45-8</td><td>64500</td></tr>
-<tr><td>Disperse Blue 106</td><td>12223-01-7</td><td>–</td></tr>
-<tr><td>Disperse Blue 124</td><td>61951-51-7</td><td>–</td></tr>
-<tr><td>Disperse Blue 3</td><td>2475-46-9</td><td>61505</td></tr>
-<tr><td>Disperse Blue 35</td><td>12222-75-2</td><td>–</td></tr>
-<tr><td>Disperse Orange 3</td><td>730-40-5</td><td>11005</td></tr>
-<tr><td>Disperse Orange 37</td><td>12223-33-5</td><td>–</td></tr>
-<tr><td>Disperse Red 1</td><td>2872-52-8</td><td>11110</td></tr>
-<tr><td>Disperse Red 17</td><td>3179-89-3</td><td>11210</td></tr>
-<tr><td>Disperse Yellow 3</td><td>2832-40-8</td><td>11855</td></tr>
-<tr><td>Disperse Yellow 9</td><td>6373-73-5</td><td>10375</td></tr>
-<tr><td>Pigment Orange 5</td><td>3468-63-1</td><td>12075</td></tr>
-<tr><td>Pigment Red 53</td><td>2092-56-0</td><td>15585</td></tr>
-<tr><td>Pigment Violet 3</td><td>1325-82-2</td><td>42535:2</td></tr>
-<tr><td>Pigment Violet 39</td><td>64070-98-0</td><td>42555:2</td></tr>
-<tr><td>Solvent Blue 35</td><td>17354-14-2</td><td>61554</td></tr>
-<tr><td>Solvent Orange 7</td><td>3118-97-6</td><td>12140</td></tr>
-<tr><td>Solvent Red 24</td><td>85-83-6</td><td>26105</td></tr>
-<tr><td>Solvent Red 49</td><td>509-34-2</td><td>45170:1</td></tr>
-<tr><td>Solvent Violet 9</td><td>467-63-0</td><td>42555:1</td></tr>
+<tr><th>Bezeichnung des Stoffs</th><th>CAS-Nummer</th><th>Konzentrationsgrenzwert (mg/kg)</th></tr>
+<tr><td>Phenoxyethanol</td><td>4129-84-4</td><td>1000</td></tr>
+<tr><td>Benzoesäure</td><td>1694-09-3</td><td>1000</td></tr>
+<tr><td>Isopropylalkohol</td><td>587-98-4</td><td>5000</td></tr>
+<tr><td>C.I. 51319</td><td>569-61-9</td><td>1000</td></tr>
+<tr><td>C.I. 73900</td><td>8004-87-3</td><td>1000</td></tr>
+<tr><td>C.I. 73915</td><td>81-88-9</td><td>1000</td></tr>
 </table>
+
+Anhang 2a[^t-5]
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 25. Nov. 2013 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Aufgehoben durch Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+
+Anhang 3[^t-6]
+
+(Art. 10, 11 Abs. 3 und 12 Abs. 1)
+
+## Technische Normen für afokale kosmetische Kontaktlinsen
+
+[^annex3-lvlu1-1]
+
+[^t-6]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex3-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
-<tr><td>CI-Name</td><td>CAS-Nummer</td><td>CI-Nummer</td></tr>
-<tr><td>Solvent Yellow 1</td><td>60-09-3</td><td>11000</td></tr>
-<tr><td>Solvent Yellow 2</td><td>60-11-7</td><td>11020</td></tr>
-<tr><td>Solvent Yellow 3</td><td>97-56-3</td><td>11160</td></tr>
+<tr><th>Nummer</th><th>Titel</th></tr>
+<tr><td>SN EN ISO 14534:2015</td><td>Augenoptik – Kontaktlinsen und Kontaktlinsenpflegemittel – Grundlegende Anforderungen (ISO 14534:2011)</td></tr>
+<tr><td>SN EN ISO 15223-1:2021</td><td>Medizinprodukte – Zu verwendende Symbole mit durch den Hersteller bereitgestellten Informationen – Teil 1: Allgemeine Anforderungen (ISO 15223-1:2021)</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: CI = Colour Index
-
-Anhang 2a[^t-4]
-
-(Art. 5 Abs. 3<sup>bis</sup>)
-
-## Liste mit Schwermetallen und anderen Stoffen, die in Tätowier- und Permanent-Make-up-Farben höchstens bis zu den aufgelisteten Konzentrationen enthalten sein dürfen
-
-[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 25. Nov. 2013 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-
-<table>
-<tr><th>Element oder Verbindung</th><th>Höchstkonzentration im gebrauchs-fertigen Produkt</th></tr>
-<tr><td>1 Schwermetalle</td><td></td></tr>
-<tr><td>Antimon (Sb)</td><td>2 mg/kg</td></tr>
-<tr><td>Arsen (As)</td><td>2 mg/kg</td></tr>
-<tr><td>Barium (Ba)</td><td>50 mg/kg</td></tr>
-<tr><td>Blei (Pb)</td><td>2 mg/kg</td></tr>
-<tr><td>Cadmium (Cd)</td><td>0,2 mg/kg</td></tr>
-<tr><td>Chrom (CrVI)</td><td>0,2 mg/kg</td></tr>
-<tr><td>Koblat (Co)</td><td>25 mg/kg</td></tr>
-<tr><td>Kupfer (Cu), lösliches[^annex2a-lvlu1-1]</td><td>25 mg/kg</td></tr>
-<tr><td>Nickel (Ni)</td><td>Gemäss guter Herstellungspraxis (GHP)</td></tr>
-<tr><td>Quecksilber (Hg)</td><td>0,2 mg/kg</td></tr>
-<tr><td>Selen (Se)</td><td>2 mg/kg</td></tr>
-<tr><td>Zink (Zn)</td><td>50 mg/kg</td></tr>
-<tr><td>Zinn (Sn)</td><td>50 mg/kg</td></tr>
-<tr><td>2 Weitere Stoffe</td><td></td></tr>
-<tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK**)**</td><td>0,5 mg/kg</td></tr>
-<tr><td>Benz-a-pyren (BaP)</td><td>5 µg/kg</td></tr>
-</table>
-
-[^annex2a-lvlu1-1]: Nach Extraktion in wässeriger Lösung bei pH 5,5
-
-Anhang 3[^t-5]
-
-[^t-5]: Aufgehoben durch Anhang Ziff. 4 der V vom 29. Sept. 2023, mit Wirkung seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-
-Anhang 4[^t-6]
+Anhang 4[^t-7]
 
 (Art. 15)
 
@@ -745,18 +685,18 @@ Anhang 4[^t-6]
 
 [^annex4-lvlu1-1]
 
-[^t-6]: Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex4-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^t-7]: Fassung gemäss Ziff. II der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex4-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
-<tr><td>SN EN 1273-1:2005</td><td>Artikel für Säuglinge und Kleinkinder – Kinderlaufhilfen – Sicherheitstechnische Anforderungen und Prüfverfahren</td></tr>
-<tr><td>SN EN 1466:2015</td><td>Artikel für Säuglinge und Kleinkinder – Tragetaschen und Ständer – Sicherheitstechnische Anforderungen und Prüfverfahren</td></tr>
-<tr><td>SN EN 13209-1:2004</td><td>Artikel für Säuglinge und Kleinkinder – Kindertragen – Sicherheitstechnische Anforderungen und Prüfverfahren Teil 1: Rückentragen mit Gestell</td></tr>
-<tr><td>SN EN 14350-1:2004</td><td>Artikel für Säuglinge und Kleinkinder – Artikel für flüssige Kindernahrung Teil 1: Allgemeine und mechanische Anforderungen und Prüfungen</td></tr>
+<tr><td>SN EN 1273:2020</td><td>Artikel für Säuglinge und Kleinkinder – Kinderlaufhilfen – Sicherheitstechnische Anforderungen und Prüfverfahren</td></tr>
+<tr><td>SN EN 1466:2023</td><td>Artikel für Säuglinge und Kleinkinder – Tragetaschen und Ständer – Sicherheitstechnische Anforderungen und Prüfverfahren</td></tr>
+<tr><td>SN EN 13209-1:2022</td><td>Artikel für Säuglinge und Kleinkinder – Kindertragen – Sicherheitstechnische Anforderungen und Prüfverfahren – Teil 1: Rückentragen mit Gestell</td></tr>
+<tr><td>SN EN 14350+A1:2023</td><td>Artikel für Säuglinge und Kleinkinder – Artikel für flüssige Kindernahrung – Sicherheitstechnische Anforderungen und Prüfverfahren</td></tr>
 </table>
 
-Anhang 5[^t-7]
+Anhang 5[^t-8]
 
 (Art. 18 Abs. 3)
 
@@ -764,24 +704,24 @@ Anhang 5[^t-7]
 
 [^annex5-lvlu1-1]
 
-[^t-7]: Fassung gemäss Ziff. II der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex5-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
 <tr><td>SN EN 1101/A1:2005</td><td>Textilien – Brennverhalten von Vorhängen und Gardinen – Detailliertes Verfahren zur Bestimmung der Entzündbarkeit von vertikal angeordneten Proben (kleine Flamme)</td></tr>
 <tr><td>SN EN 1102:2016</td><td>Textilien – Brennverhalten von Vorhängen und Gardinen – Detailliertes Verfahren zur Bestimmung der Flammenausbreitungseigenschaften vertikal angeordneter Proben</td></tr>
-<tr><td>SN EN 1103:2005</td><td>Textilien – Brennverhalten – Bekleidungstextilien – Detailliertes Verfahren zur Bestimmung des Brennverhaltens von Textilien</td></tr>
+<tr><td>SN EN 1103:2006</td><td>Textilien – Bekleidungstextilien – Detailliertes Verfahren zur Bestimmung des Brennverhaltens</td></tr>
 <tr><td>SN EN 13772:2011</td><td>Textilien und textile Erzeugnisse – Brennverhalten – Vorhänge und Gardinen – Messung der Flammenausbreitungseigenschaften von vertikal angeordneten Messproben mit grosser Zündquelle</td></tr>
 </table>
 
-Anhang 6[^t-8]
+Anhang 6[^t-9]
 
 (Art. 21 Abs. 1)
 
 ## Textile Materialien und Ledererzeugnisse, die keine Azofarbstoffe nach Artikel 21 Absatz 1 enthalten dürfen
 
-[^t-8]: Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 Folgende textile Materialien und Ledererzeugnisse und die gefärbten Teile davon, die mit dem menschlichen Körper längere Zeit in Berührung kommen können, dürfen keine Azofarbstoffe nach Artikel 21 Absatz 1 enthalten:
 
@@ -822,7 +762,7 @@ Anhang 7
 <tr><td>22</td><td>60-09-3</td><td>611-008-00-4</td><td>200-453-6</td><td>4-Aminoazobenzol</td></tr>
 </table>
 
-Anhang 8[^t-9]
+Anhang 8[^t-10]
 
 (Art. 21 Abs. 2)
 
@@ -830,18 +770,18 @@ Anhang 8[^t-9]
 
 [^annex8-lvlu1-1]
 
-[^t-9]: Fassung gemäss Ziff. II der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
+[^t-10]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex8-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
-<tr><td>SN EN 14362-1:2017</td><td>Textilien – Verfahren für die Bestimmung bestimmter aromatischer Amine aus Azofarbstoffen Teil 1: Nachweis der Verwendung bestimmter Azofarbstoffe mit oder ohne Extraktion der Fasern</td></tr>
-<tr><td>SN EN 14362-3:2017</td><td>Textilien – Verfahren für die Bestimmung bestimmter aromatischer Amine aus Azofarbstoffen Teil 3: Nachweis der Verwendung bestimmter Azofarbstoffe, die 4-Aminoazobenzol freisetzen können</td></tr>
-<tr><td>SN EN ISO 17234-1:2015</td><td>Leder – Chemische Prüfungen zur Bestimmung bestimmter Azofarbstoffe in gefärbten Ledern Teil 1: Bestimmung bestimmter aromatischer Amine aus Azofarbstoffen</td></tr>
-<tr><td>SN EN ISO 17234-2:2011</td><td>Leder – Chemische Prüfungen zur Bestimmung bestimmter Azofarbstoffe in gefärbten Ledern Teil 2: Bestimmung von 4-Aminoazobenzol</td></tr>
+<tr><td>SN EN ISO 14362-1:2017</td><td>Textilien – Verfahren für die Bestimmung gewisser aromatischer Amine aus Azofarbstoffen – Teil 1: Nachweis der Verwendung gewisser Azofarbstoffe mit und ohne Extraktion der Fasern (ISO 14362-1:2017)</td></tr>
+<tr><td>SN EN ISO 14362-3:2017</td><td>Textilien – Verfahren für die Bestimmung bestimmter aromatischer Amine aus Azofarbstoffen – Teil 3: Nachweis der Verwendung gewisser Azofarbstoffe, die 4-Aminoazobenzol freisetzen können (ISO 14362-3:2017)</td></tr>
+<tr><td>SN EN ISO 17234-1:2021</td><td>Leder – Chemische Prüfungen zur Bestimmung bestimmter Azofarbstoffe in gefärbten Ledern – Teil 1: Bestimmung bestimmter aromatischer Amine aus Azofarbstoffen (ISO 17234-1:2020)</td></tr>
+<tr><td>SN EN ISO 17234-2:2011</td><td>Leder – Chemische Prüfungen zur Bestimmung bestimmter Azofarbstoffe in gefärbten Ledern – Teil 2: Bestimmung von 4‑Aminoazobenzol (ISO 17234-2:2011)</td></tr>
 </table>
 
-Anhang 8a[^t-10]
+Anhang 8a[^t-11]
 
 (Art. 22*a* Abs. 2)
 
@@ -849,7 +789,7 @@ Anhang 8a[^t-10]
 
 [^annex8a-lvlu1-1]
 
-[^t-10]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 7. März 2008 ([AS 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^t-11]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 7. März 2008 ([AS 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 [^annex8a-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
@@ -857,7 +797,7 @@ Anhang 8a[^t-10]
 <tr><td>SN EN 14682:2015</td><td>Sicherheit von Kinderbekleidung – Kordeln und Zugbänder an Kinderbekleidung – Anforderungen</td></tr>
 </table>
 
-Anhang 9[^t-11]
+Anhang 9[^t-12]
 
 (Art. 25 Abs. 6)
 
@@ -865,11 +805,11 @@ Anhang 9[^t-11]
 
 [^annex9-lvlu1-1]
 
-[^t-11]: Fassung gemäss Ziff. II der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
+[^t-12]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex9-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
-<tr><td>SN EN ISO 9994/A1:2008</td><td>Feuerzeuge – Festlegungen für die Sicherheit</td></tr>
-<tr><td>SN EN 13869:2016</td><td>Feuerzeuge – Kindergesicherte Feuerzeuge – Sicherheitsanforderungen und Prüfverfahren</td></tr>
+<tr><td>SN EN ISO 9994:2019</td><td>Feuerzeuge – Festlegungen für die Sicherheit (ISO 9994:2018)</td></tr>
+<tr><td>SN EN 13869:2016</td><td>Feuerzeuge – Anforderungen an die Kindersicherheit von Feuerzeugen – Sicherheitsanforderungen und Prüfverfahren</td></tr>
 </table>

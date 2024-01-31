@@ -3,11 +3,11 @@ sr: "817.023.41"
 title: "Ordonnance du DFI du 23 novembre 2005 sur les objets destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire, et sur les bougies, les allumettes, les briquets et les articles de farces et attrapes (Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: fr
-version: 2023-11-01
+version: 2024-02-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-811-20231101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-811-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20231101/fr"
 
 (Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)[^t-1]
 
-du 23 novembre 2005 (État le 1<sup>er</sup> novembre 2023)
+du 23 novembre 2005 (État le 1<sup>er</sup> février 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -40,21 +40,22 @@ La présente ordonnance fixe les exigences s’appliquant:
   aux objets usuels suivants destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire:
 
   - 1\.[^1-1] objets contenant du métal et destinés à entrer en contact avec la peau,
-  - 2\. couleurs de tatouage et couleurs de maquillage permanent, et leur étiquetage,
+  - 2\. encres[^1-2] de tatouage et encres de maquillage permanent, et leur étiquetage,
   - 3\. appareils et instruments utilisés pour le piercing, le tatouage et le maquillage permanent,
-  - 4\.[^1-2] …
+  - 4\.[^1-3] …
   - 5\. objets usuels destinés aux nourrissons et aux enfants en bas âge,
-  - 6\.[^1-3] produits textiles visés à l’art. 64, al. 1, ODAlOUs en ce qui concerne leur inflammabilité et leur combustibilité, les substances chimiques qu’ils contiennent et leur étiquetage,
-  - 7\.[^1-4] articles en cuir en ce qui concerne les substances chimiques qu’ils contiennent,
-  - 8\.[^1-5] cordons et cordons coulissants sur des vêtements d’enfants;
+  - 6\.[^1-4] produits textiles visés à l’art. 64, al. 1, ODAlOUs en ce qui concerne leur inflammabilité et leur combustibilité, les substances chimiques qu’ils contiennent et leur étiquetage,
+  - 7\.[^1-5] articles en cuir en ce qui concerne les substances chimiques qu’ils contiennent,
+  - 8\.[^1-6] cordons et cordons coulissants sur des vêtements d’enfants;
 
 - b. aux bougies, allumettes, briquets, articles de farces et attrapes.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^1-2]: Abrogé par l’annexe ch. 4 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-2]: Nouvelle expression selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-3]: Abrogé par l’annexe ch. 4 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 [^1-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^1-5]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-6]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 ## Chapitre 2 Objets usuels destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire
 
@@ -72,38 +73,38 @@ La présente ordonnance fixe les exigences s’appliquant:
 
 <sup>2</sup> Si les objets visés à l’al. 1 sont munis d’un revêtement, ce dernier doit être de qualité telle que la valeur limite ne soit pas dépassée en cas d’utilisation normale pendant une période de deux ans.[^2-3]
 
-<sup>3</sup> Les assemblages de tiges introduites, à titre temporaire ou non, dans les oreilles percées ou dans d’autres parties percées du corps humain ne doivent pas céder plus de 0,2 µg de nickel par cm<sup>2</sup> et par semaine. Il en va de même pour les dispositifs de fermeture (poussettes).[^2-4]
+<sup>3</sup> Les assemblages de tiges ou autres parties de boucles d’oreilles et bijoux de piercing introduites, à titre temporaire ou non, dans les oreilles percées ou dans d’autres parties percées du corps humain ne doivent pas céder plus de 0,2 µg de nickel par cm<sup>2</sup> et par semaine. Cette valeur maximale s’applique aussi aux dispositifs de fermeture (poussettes).[^2-4]
 
 <sup>4</sup> Les objets visés aux al. 1 à 3 sont présumés conformes aux exigences citées dans la présente section lorsqu’ils satisfont aux normes techniques énumérées dans l’annexe 1 et qu’ils entrent dans le champ d’application de ces normes.[^2-5]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
 [^2-2]: Introduit par le ch. I de l’O du DFI du 13 oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^2-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 11 mai 2009, en vigueur depuis le 25 mai 2009 ([RO 2009 2391](https://fedlex.data.admin.ch/eli/oc/2009/289)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^2-5]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 #### Art. 2a
 
 **Objets contenant du cadmium**[^2a-1]
 
-<sup>1</sup> Les articles de bijouterie et de bijouterie fantaisie tels les accessoires pour les cheveux, bracelets, colliers, bagues, bijoux de *piercing*, montres-bracelets, broches et boutons de manchette ne doivent pas contenir de parties métalliques externes dont la teneur en cadmium est de 0,01 % ou plus du poids du métal.[^2a-2]
+<sup>1</sup> Les articles de bijouterie et de bijouterie fantaisie tels les accessoires pour les cheveux, bracelets, colliers, bagues, bijoux de piercing, montres-bracelets, broches et boutons de manchette ne doivent pas contenir de parties métalliques en contact avec la peau dont la teneur en cadmium est de 0,01 % ou plus du poids du métal.[^2a-2]
 
 <sup>2</sup> L’al. 1 ne s’applique pas aux produits d’occasion mentionnés à l’art. 1, al. 4, let. a, de la loi fédérale du 12 juin 2009 sur la sécurité des produits.[^2a-3]
 
 [^2a-1]: Introduit par le ch. I de l’O du DFI du 13 oct. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Nouvelle teneur selon le ch. I de l’O du DFI du 21 déc. 2011, en vigueur depuis le 1<sup>er</sup> fév. 2012 ([RO 2012 401](https://fedlex.data.admin.ch/eli/oc/2012/41)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^2a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^2a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^2a-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 #### Art. 2b
 
 **Objets contenant du plomb**[^2b-1]
 
-<sup>1</sup> Les objets mentionnés à l’art. 2*a*, al. 1, ne doivent pas contenir de parties métalliques externes dont la teneur en plomb est de 0,05 % ou plus du poids du métal.[^2b-2]
+<sup>1</sup> Les articles de bijouterie et de bijouterie fantaisie ne doivent pas contenir de parties métalliques entrant en contact avec la peau dont la teneur en plomb est de 0,05 % ou plus du poids du métal.[^2b-2]
 
 <sup>2</sup> L’al. 1 ne s’applique pas aux objets d’occasion visés à l’art. 1, al. 4, let. a, de la loi fédérale du 12 juin 2009 sur la sécurité des produits[^2b-3].
 
 [^2b-1]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^2b-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^2b-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^2b-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 ### Section 2 Piercing, tatouage, maquillage permanent et pratiques apparentées
@@ -128,53 +129,67 @@ Les personnes qui pratiquent le piercing, le tatouage et le maquillage permanent
 
 #### Art. 5
 
-**Exigences s’appliquant au piercing, aux couleurs de tatouage et aux couleurs de maquillage permanent**
+**Exigences s’appliquant au piercing**[^5-1]
 
-<sup>1</sup> Le piercing ne doit provoquer aucune coloration durable de la peau.
+Le piercing ne doit provoquer aucune coloration durable de la peau.
 
-<sup>2</sup> Les couleurs de tatouage et les couleurs de maquillage permanent ne doivent pas mettre en danger la santé du consommateur lorsqu’elles sont utilisées conformément à l’usage prévu.
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
-<sup>3</sup>
+#### Art. 5a
 
-Sont interdits dans ces produits:
+**Exigences s’appliquant aux encres de tatouage et aux encres de maquillage permanent**[^5a-1]
 
-- a.[^5-1] les amines aromatiques énumérées à l’annexe 1*a* et les colorants azoïques ou les pigments qui, par réduction, forment des amines aromatiques énumérées à l’annexe 1*a*; l’art. 21 est applicable par analogie;
-- b. les colorants énumérés à l’annexe 2;
-- c.[^5-2] les substances visées à l’art. 54, al. 1, ODAlOUs;
-- d.[^5-3]
+<sup>1</sup>
 
-  les colorants visés à l’art. 54, al. 3, ODAlOUs qui:
+Les encres de tatouage et de maquillage permanent peuvent contenir les substances ci-après dans les concentrations suivantes:
 
-  - 1\. peuvent être utilisés exclusivement dans les produits à rincer,
-  - 2\. ne peuvent être utilisés dans les produits destinés à être appliqués sur les muqueuses,
-  - 3\. ne peuvent être utilisés dans les produits pour les yeux;
+- a. les substances visées à l’art. 54, al. 1, ODAlOUs: moins de 0,5 mg/kg;
+- b.
 
-- e.[^5-4] les substances classées comme étant cancérogènes, mutagènes ou toxiques pour la reproduction (CMR), de catégorie 1A, 1B ou 2 dans la version du règlement (CE) n° 1272/2008 figurant à l’annexe 2, ch. 1, de l’ordonnance du 5 juin 2015 sur les produits chimiques (OChim)[^5-5];
-- f. les substances aromatisantes et les substances parfumantes.
+  les colorants visés à l’art. 54, al. 3, ODAlOUs:
 
-<sup>3bis</sup> Ces produits ne peuvent pas contenir des métaux lourds ou certaines autres substances en quantité supérieure aux concentrations figurant dans l’annexe 2*a*.[^5-6]
+  - 1\. moins de 0,5 mg/kg lorsqu’ils peuvent être utilisés exclusivement dans les produits à rincer,
+  - 2\. moins de 0,5 mg/kg lorsqu’ils ne peuvent pas être utilisés dans les produits destinés à être appliqués sur les muqueuses, ou
+  - 3\. moins de 0,5 mg/kg lorsqu’ils ne peuvent pas être utilisés dans les produits pour les yeux;
 
-<sup>3ter</sup> La présence de traces de chrome (VI) dans les couleurs de tatouage ou de maquillage permanent doit être indiquée sur l’emballage avec l’avertissement: «Contient du chrome. Peut provoquer des réactions allergiques».[^5-7]
+- c. tous les autres colorants: conformément à l’art. 54, al. 3, ODAlOUs;
+- d. les substances classées comme étant cancérogènes ou mutagènes sur les cellules germinales de catégorie 1A, 1B ou 2 dans la version du règlement (CE) n<sup>o</sup> 1272/2008[^5a-2] mentionnée à l’annexe 2, ch. 1, de l’ordonnance du 5 juin 2015 sur les produits chimiques (OChim)[^5a-3], à l’exception des substances dont la classification est basée sur des effets qui apparaissent uniquement après une exposition par inhalation: moins de 0,5 mg/kg;
+- e. les substances classées comme sensibilisants cutanés de catégorie 1, 1A, ou 1B dans la version du règlement (CE) n<sup>o</sup> 1272/2008 mentionnée à l’annexe 2, ch. 1, OChim: moins de 10 mg/kg;
+- f.
 
-<sup>3quater</sup> La présence de traces de nickel dans les couleurs de tatouage ou de maquillage permanent doit être indiquée sur l’emballage avec l’avertissement: «Contient du nickel. Peut provoquer des réactions allergiques».[^5-8]
+  les substances classées comme corrosives pour la peau de catégorie 1, 1A, 1B ou 1C, corrosives pour la peau de catégorie 2, causant des lésions oculaires de catégorie 1 ou comme causant une irritation oculaire de catégorie 2 dans la version du règlement (CE) n<sup>o</sup> 1272/2008 mentionnée à l’annexe 2, ch. 1, OChim:
 
-<sup>4</sup> Les couleurs de tatouage et de maquillage permanent ne peuvent contenir que les agents conservateurs admis à l’art. 54, al. 4, ODAlOUs pour les produits destinés à rester sur la peau.[^5-9]
+  - 1\. lorsqu’elles sont utilisées exclusivement comme régulateur de pH: moins de 1000 mg/kg,
+  - 2\. dans tous les autres cas: moins de 100 mg/kg;
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 mars 2008, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Erratum du 23 août 2016 ([RO 2016 2967](https://fedlex.data.admin.ch/eli/oc/2016/498)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-4]: Nouvelle teneur selon le ch. II 5 de l’O du DFI du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)).
-[^5-5]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^5-6]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-7]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-8]: Introduit par le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^5-9]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+- g. les substances classées comme étant toxiques pour la reproduction de catégorie 1A, 1B ou 2 dans la version du règlement (CE) n<sup>o</sup> 1272/2008 mentionnée à l’annexe 2, ch. 1, OChim, à l’exception des substances dont la classification est basée sur des effets qui apparaissent uniquement après une exposition par inhalation: moins de 10 mg/kg;
+- h. les métaux lourds et certaines autres substances visés à l’annexe XVII, entrée 75, appendice 13, du règlement (CE) n<sup>o</sup> 1907/2006 (règlement REACH)[^5a-4]: dans les concentrations indiquées dans cet appendice.
+
+<sup>2</sup>
+
+S’agissant de la limite de concentration, les dispositions ci-après s’appliquent en sus aux substances appartenant à certaines catégories:
+
+- a. si une substance entre dans plusieurs des catégories mentionnées à l’al. 1, let. a à f, c’est la limite de concentration la plus stricte fixée aux lettres concernées qui s’applique;
+- b. si une substance entre dans plusieurs des catégories mentionnées à l’al. 1, let. b à g, c’est la limite de concentration la plus stricte fixée aux lettres concernées qui s’applique;
+- c. si une substance visée à l’al. 1, let. a, entre dans la catégorie mentionnée à l’al. 1, let. g, c’est la limite de concentration fixée à la let. g qui s’applique;
+- d. si une substance visée à l’al. 1, let. h, entre dans l’une des catégories mentionnées à l’al. 1, let. a à g, c’est la limite de concentration fixée à la let. h qui s’applique.
+
+<sup>3</sup> Les exigences énoncées à l’al. 1 ne s’appliquent pas aux substances qui sont gazeuses à une température de 20 °C et une pression de 101,3 kPa ou qui exercent à 50 °C une pression de vapeur supérieure à 300 kPa, à l’exception du formaldéhyde (n° CAS 50-00-0, n° CE 200-001-8).
+
+<sup>4</sup> Les encres de tatouage et de maquillage permanent peuvent contenir, dans le respect des restrictions d’utilisation, uniquement les agents conservateurs admis à l’art. 54, al. 4, ODAlOUs pour les produits destinés à rester sur la peau et qui ne libèrent pas de formaldéhyde.
+
+<sup>5</sup> Par dérogation aux dispositions des al. 1, 2 et 4, ce sont les concentrations maximales fixées à l’annexe 2 qui s’appliquent aux substances qui y sont énumérées.
+
+[^5a-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^5a-2]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006.
+[^5a-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^5a-4]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil, le règlement (CE) n<sup>o</sup> 1488/94 de la Commission, la directive 76/769/CEE du Conseil ainsi que les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2023/1464, JO L 180 du 17.7.2023, p. 12.
 
 #### Art. 6
 
-**Exigences s’appliquant à l’hygiène des couleurs de tatouage, des couleurs de maquillage permanent et des tiges de piercing[^6-1]**
+**Exigences s’appliquant à l’hygiène des encres de tatouage, des encres de maquillage permanent et des tiges de piercing[^6-1]**
 
-<sup>1</sup> Les couleurs de tatouage et les couleurs de maquillage permanent doivent être fabriquées et conditionnées de manière à ce que leur stérilité soit garantie jusqu’à la première utilisation. Une fois l’emballage ouvert, il faut prendre toutes les précautions nécessaires pour éviter toute contamination microbienne.[^6-2]
+<sup>1</sup> Les encres de tatouage et les encres de maquillage permanent doivent être fabriquées et conditionnées de manière à ce que leur stérilité soit garantie jusqu’à la première utilisation. Une fois l’emballage ouvert, il faut prendre toutes les précautions nécessaires pour éviter toute contamination microbienne.[^6-2]
 
 <sup>2</sup> Les tiges de piercing doivent être stériles au moment de leur premier emploi.
 
@@ -191,18 +206,22 @@ Les appareils et les instruments, ou les parties de ceux-ci, utilisés pour le p
 
 #### Art. 8
 
-**Étiquetage des couleurs de tatouage, des couleurs de maquillage permanent et des bijoux piercing**
+**Étiquetage des encres de tatouage, des encres de maquillage permanent et des bijoux piercing**
 
 <sup>1</sup>
 
-Les récipients contenant des couleurs de tatouage ou de maquillage permanent doivent porter au moins les indications suivantes:
+Les récipients contenant des encres de tatouage ou de maquillage permanent doivent porter au moins les indications suivantes:
 
-- a. le nom et l’adresse de la personne ou de l’entreprise qui fabrique, importe, conditionne ou remet de telles couleurs;
-- b.[^8-1] la composition dans l’ordre décroissant de leur importance pondérale, selon une nomenclature usuelle (IUPAC, CAS, INCI ou CI);
-- c. le lot;
-- d.[^8-2] la date de durée de conservation minimale (avec mention du mois et de l’année) jusqu’à laquelle la couleur conserve ses caractéristiques spécifiques dans des conditions de conservation appropriées;
+- a. le nom et l’adresse de la personne ou de l’entreprise qui fabrique, importe, conditionne ou remet de telles encres;
+- b.[^8-1] la composition dans l’ordre décroissant de leur importance pondérale, selon une nomenclature usuelle (INCI, IUPAC, CAS ou CI); lorsque le nom d’une substance utilisée doit déjà être indiquée sur l’étiquette conformément à l’OChim[^8-2], le composant en question n’a pas besoin d’être indiqué selon la présente ordonnance;
+- c.[^8-3] un numéro de référence permettant d’identifier clairement le lot;
+- d.[^8-4] la date de durée de conservation minimale (avec mention du mois et de l’année) jusqu’à laquelle l’encre conserve ses caractéristiques spécifiques dans des conditions de conservation appropriées;
 - e. les conditions de conservation qui doivent être respectées pour que la conservation minimale soit garantie;
-- f. si nécessaire, les instructions et les précautions d’emploi.
+- f.[^8-5] si nécessaire, les instructions et les précautions d’emploi, pour autant qu’elles ne figurent pas déjà sur l’étiquette en application de l’OChim;
+- g.[^8-6] la mention «régulateur de pH» pour les substances relevant de l’art. 5*a*, al. 1, let. f, ch. 1;
+- h.[^8-7] la mention «Mélange pour le tatouage ou le maquillage permanent»;
+- i.[^8-8] l’avertissement «Contient du chrome. Peut provoquer des réactions allergiques», si la concentration en chrome (IV) des encres de tatouage ou de maquillage permanent est inférieure à la valeur maximale fixée à l’art. *5a*, al. 1, let. h;
+- j.[^8-9] l’avertissement «Contient du nickel. Peut provoquer des réactions allergiques», si la concentration en nickel des encres de tatouage ou de maquillage permanent est inférieure à la valeur maximale fixée à l’art. *5a*, al. 1, let. h.
 
 <sup>2</sup>
 
@@ -213,14 +232,21 @@ L’emballage des bijoux piercing doit porter les indications suivantes:
 
 <sup>3</sup> Les informations visées aux al. 1 et 2 ainsi que la composition du matériau des bijoux piercing doivent être communiquées sur demande au consommateur.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
+[^8-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-6]: Introduite par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-7]: Introduite par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-8]: Introduite par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-9]: Introduite par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 #### Art. 9
 
 **Directives professionnelles**[^9-1]
 
-L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) peut évaluer et recommander des directives professionnelles à titre de «bonnes pratiques» pour le *piercing*, le tatouage et le maquillage permanent.
+L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) peut évaluer et recommander des directives professionnelles à titre de «bonnes pratiques» pour le piercing, le tatouage et le maquillage permanent.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
@@ -386,14 +412,14 @@ La concentration en composés du dioctylétain ne doit pas dépasser 0,1 % en po
 
 <sup>1quater</sup> Les produits textiles et les chaussures définis à l’entrée 72 de l’annexe XVII du règlement (CE) n<sup>o</sup> 1907/2006 (règlement UE-REACH)[^22-4] ne peuvent contenir de substances dont la concentration, mesurée dans une matière homogène, est égale ou supérieure à la limite fixée pour cette substance à l’appendice 12 dudit règlement.[^22-5]
 
-<sup>2</sup> L’utilisation d’autres substances, en particulier les agents ignifuges, est régie par l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques[^22-6].
+<sup>2</sup> ...[^22-6]
 
 [^22-1]: Abrogée par le ch. I de l’O du DFI du 23 oct. 2019, avec effet au 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^22-2]: Introduit par le ch. I de l’O du DFI du 13 oct. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Abrogé par le ch. I de l’O du DFI du 25 nov. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 [^22-3]: Introduit par le ch. I de l’O du DFI du 13 oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 [^22-4]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2018/1513, JO L 256 du 12.10.2018, p. 1.
 [^22-5]: Introduit par le ch. I de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^22-6]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^22-6]: Abrogé par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 ### Section 7 Cordons et cordons coulissants sur des vêtements d’enfants
 
@@ -499,7 +525,7 @@ En dérogation à l’art 80, al. 7, ODAlOUs:
 - a. les objets contenant du nickel visés à l’art. 2, al. 3, peuvent encore être importés, fabriqués, étiquetés et remis aux consommateurs selon l’ancien droit jusqu’au 31 août 2006;
 - b. les objets usuels destinés aux nourrissons et aux enfants en bas âge visés aux art. 13 à 15 peuvent encore être importés, fabriqués, étiquetés et remis aux consommateurs selon l’ancien droit jusqu’au 31 décembre 2006;
 - c. les bougies, allumettes, briquets et articles de farces et attrapes visés aux art. 23 à 26 peuvent encore être importés, fabriqués, étiquetés et remis aux consommateurs selon l’ancien droit jusqu’au 31 décembre 2006;
-- d. les couleurs de tatouage et de maquillage permanent peuvent encore être utilisées et remises aux consommateurs selon l’ancien droit jusqu’au 31 décembre 2007.
+- d. les encres de tatouage et de maquillage permanent peuvent encore être utilisées et remises aux consommateurs selon l’ancien droit jusqu’au 31 décembre 2007.
 
 #### Art. 28a
 
@@ -516,12 +542,11 @@ En dérogation à l’art 80, al. 7, ODAlOUs:
 
 #### Art. 28b
 
-**Disposition transitoire relative à la modification du 29 septembre 2023**[^28b-1]
+**Disposition transitoire de la modification du 8 décembre 2023**[^28b-1]
 
-Tant que les lentilles de contact cosmétiques afocales peuvent être commercialisées sans certificat de conformité conformément à l’art. 106 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^28b-2], les exigences prévues à l’ancien chapitre 2, section 3, de la présente ordonnance demeurent applicables. Le contrôle de ces exigences est effectué par les autorités d’exécution au sens de la législation sur les denrées alimentaires et les objets usuels.
+Les objets non conformes à la modification du 8 décembre 2023 de la présente ordonnance peuvent être importés, fabriqués et étiqueté selon l’ancien droit jusqu’au 31 janvier 2025 et remis au consommateur jusqu’à épuisement des stocks.
 
-[^28b-1]: Introduit par l’annexe ch. 4 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^28b-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^28b-1]: Introduit par l’annexe ch. 4 de l’O du 29 sept. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)). Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 #### Art. 29
 
@@ -599,140 +624,60 @@ Annexe 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du DFI du 7 mars 2008 ([RO 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex1-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
+[^t-2]: Introduite par le ch. II al. 2 de l’O du DFI du 7 mars 2008 ([RO 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex1-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
-<tr><th>SN EN 1811+A1:2015</th><th>Méthode d’essai de référence relative à la libération du nickel par les assemblages de tiges qui sont introduites dans les parties percées du corps humain et les produits destinés à entrer en contact direct et prolongé avec la peau</th></tr>
-<tr><th>SN EN 12472+A1:2009</th><th>Méthode de simulation de l’usure et de la corrosion pour la détermination du nickel libéré par les objets revêtus</th></tr>
-<tr><th>SN EN 16128:2011</th><th>Méthode d’essai de référence relative à la libération du nickel par les parties des montures de lunettes et lunettes de soleil destinées à entrer en contact direct et prolongé avec la peau</th></tr>
+<tr><td>SN EN 1811:2023</td><td>Méthode d’essai de référence relative à la libération du nickel par les assemblages de tiges qui sont introduites dans les parties percées du corps humain et les produits destinés à entrer en contact direct et prolongé avec la peau</td></tr>
+<tr><td>SN EN 12472:2021</td><td>Méthode de simulation de l’usure et de la corrosion accélérées pour la détermination du nickel libéré par les objets revêtus</td></tr>
+<tr><td>SN EN 16128:2016</td><td>Optique ophtalmique – Méthode d’essai de référence relative à la libération du nickel par des montures de lunettes et des lunettes de soleil</td></tr>
 </table>
 
 Annexe 1a[^t-3]
 
-(art. 5, al. 3, let. a)
+[^t-3]: Anciennement annexe 1. Abrogée par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
-## Liste des amines aromatiques interdites dans les couleurs de tatouage et les couleurs de maquillage permanent
+Annexe 2[^t-4]
 
-[^t-3]: Anciennement annexe 1. Nouvelle teneur selon le ch. II de l’O du DFI du 15 nov. 2006 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Mise à jour selon le ch. II al. 2 de l’O du DFI du 13 oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Erratum du 20 avr. 2021 ([RO 2021 226](https://fedlex.data.admin.ch/eli/oc/2021/226)).
+(art. 5*a*, al. 5)
 
-<table>
-<tr><th>N<sup>o</sup> CAS[^annex1a-lvlu1-1]</th><th>Numéro d’index</th><th>Numéro CE</th><th>Substance</th></tr>
-<tr><td>92-67-1</td><td>612-072-00-6</td><td>202-177-1</td><td>biphényl-4-ylamine</td></tr>
-<tr><td>92-87-5</td><td>612-042-00-2</td><td>202-199-1</td><td>benzidine</td></tr>
-<tr><td>95-69-2</td><td></td><td>202-411-6</td><td>4-chloro-o-toluidine</td></tr>
-<tr><td>91-59-8</td><td>612-022-00-3</td><td>202-080-4</td><td>2-naphtylamine</td></tr>
-<tr><td>97-56-3</td><td>611-006-00-3</td><td>202-591-2</td><td>o-aminoazotoluène</td></tr>
-<tr><td>99-55-8</td><td></td><td>202-765-8</td><td>5-nitro-o-toluidine</td></tr>
-<tr><td>106-47-8</td><td></td><td>203-401-0</td><td>4-chloroaniline</td></tr>
-<tr><td>615-05-4</td><td></td><td>210-406-1</td><td>4-méthoxy-m-phénylènediamine</td></tr>
-<tr><td>101-77-9</td><td>612-051-00-1</td><td>202-974-4</td><td>4,4’-méthylènedianiline</td></tr>
-<tr><td>91-94-1</td><td>612-068-00-4</td><td>202-109-0</td><td>3,3’-dichlorobenzidine</td></tr>
-<tr><td>119-90-4</td><td>612-036-00-X</td><td>204-355-4</td><td>3,3’-diméthoxybenzidine</td></tr>
-<tr><td>119-93-7</td><td>612-041-00-7</td><td>204-358-0</td><td>3,3’-diméthylbenzidine</td></tr>
-<tr><td>838-88-0</td><td>612-085-00-7</td><td>212-658-8</td><td>4,4’-méthylène-di-o-toluidine</td></tr>
-<tr><td>120-71-8</td><td></td><td>204-419-1</td><td>6-méthoxy-m-toluidine</td></tr>
-<tr><td>101-14-4</td><td>612-078-00-9</td><td>202-918-9</td><td>4,4’-méthylène-bis(2-chloroaniline)</td></tr>
-<tr><td>101-80-4</td><td></td><td>202-977-0</td><td>4,4’-oxydianiline</td></tr>
-<tr><td>139-65-1</td><td></td><td>205-370-9</td><td>4,4’-thiodianiline</td></tr>
-<tr><td>95-53-4</td><td>612-091-00-X</td><td>202-429-0</td><td>o-toluidine</td></tr>
-<tr><td>95-80-7</td><td>612-099-00-3</td><td>202-453-1</td><td>4-méthyl-m-phénylènediamine</td></tr>
-<tr><td>137-17-7</td><td></td><td>205-282-0</td><td>2,4,5-triméthylaniline</td></tr>
-<tr><td>90-04-0</td><td>612-035-00-4</td><td>201-963-1</td><td>o-anisidine</td></tr>
-<tr><td>60-09-3</td><td></td><td></td><td>4-aminoazobenzène</td></tr>
-<tr><td>399-95-1</td><td>604-028-00-X</td><td>402-230-0</td><td>4-amino-3-fluorophénol</td></tr>
-<tr><td>95-68-1</td><td></td><td></td><td>2,4’-xylidine</td></tr>
-<tr><td>87-62-7</td><td></td><td></td><td>2,6’-xylidine</td></tr>
-<tr><td>293733-21-8</td><td></td><td></td><td>6-amino-2-éthoxynaphthalène</td></tr>
-<tr><td>106-50-3</td><td></td><td>2003-404-7</td><td>paraphénylènediamine</td></tr>
-</table>
+## Substances contenues dans les encres de tatouage et de maquillage permanent pour lesquelles des limites de concentration spécifiques ont été fixées
 
-[^annex1a-lvlu1-1]: CAS = Chemical Abstract Service of the American Chemical Society
-
-Annexe 2
-
-(art. 5, al. 3, let. b)
-
-## Liste des colorants interdits dans les couleurs de tatouage et les couleurs de maquillage permanent
+[^t-4]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 <table>
-<tr><th>Nom CI[^annex2-lvlu1-1]</th><th>N° CAS</th><th>N° CI</th></tr>
-<tr><td>Acid Green 16</td><td>12768-78-4</td><td>44025</td></tr>
-<tr><td>Acid Red 26</td><td>3761-53-3</td><td>16150</td></tr>
-<tr><td>Acid Violet 17</td><td>4129-84-4</td><td>42650</td></tr>
-<tr><td>Acid Violet 49</td><td>1694-09-3</td><td>42640</td></tr>
-<tr><td>Acid Yellow 36</td><td>587-98-4</td><td>13065</td></tr>
-<tr><td>Basic Blue 7</td><td>2390-60-5</td><td>42595</td></tr>
-<tr><td>Basic Green 1</td><td>633-03-4</td><td>42040</td></tr>
-<tr><td>Basic Red 1</td><td>989-38-8</td><td>45160</td></tr>
-<tr><td>Basic Red 9</td><td>569-61-9</td><td>42500</td></tr>
-<tr><td>Basic Violet 1</td><td>8004-87-3</td><td>42535</td></tr>
-<tr><td>Basic Violet 10</td><td>81-88-9</td><td>45170</td></tr>
-<tr><td>Basic Violet 3</td><td>548-62-9</td><td>42555</td></tr>
-<tr><td>Disperse Blue 1</td><td>2475-45-8</td><td>64500</td></tr>
-<tr><td>Disperse Blue 106</td><td>12223-01-7</td><td>–</td></tr>
-<tr><td>Disperse Blue 124</td><td>61951-51-7</td><td>–</td></tr>
-<tr><td>Disperse Blue 3</td><td>2475-46-9</td><td>61505</td></tr>
-<tr><td>Disperse Blue 35</td><td>12222-75-2</td><td>–</td></tr>
-<tr><td>Disperse Orange 3</td><td>730-40-5</td><td>11005</td></tr>
-<tr><td>Disperse Orange 37</td><td>12223-33-5</td><td>–</td></tr>
-<tr><td>Disperse Red 1</td><td>2872-52-8</td><td>11110</td></tr>
-<tr><td>Disperse Red 17</td><td>3179-89-3</td><td>11210</td></tr>
-<tr><td>Disperse Yellow 3</td><td>2832-40-8</td><td>11855</td></tr>
-<tr><td>Disperse Yellow 9</td><td>6373-73-5</td><td>10375</td></tr>
-<tr><td>Pigment Orange 5</td><td>3468-63-1</td><td>12075</td></tr>
-<tr><td>Pigment Red 53</td><td>2092-56-0</td><td>15585</td></tr>
-<tr><td>Pigment Violet 3</td><td>1325-82-2</td><td>42535:2</td></tr>
-<tr><td>Pigment Violet 39</td><td>64070-98-0</td><td>42555:2</td></tr>
-<tr><td>Solvent Blue 35</td><td>17354-14-2</td><td>61554</td></tr>
-<tr><td>Solvent Orange 7</td><td>3118-97-6</td><td>12140</td></tr>
-<tr><td>Solvent Red 24</td><td>85-83-6</td><td>26105</td></tr>
-<tr><td>Solvent Red 49</td><td>509-34-2</td><td>45170:1</td></tr>
-<tr><td>Solvent Violet 9</td><td>467-63-0</td><td>42555:1</td></tr>
-<tr><td>Solvent Yellow 1</td><td>60-09-3</td><td>11000</td></tr>
-<tr><td>Solvent Yellow 2</td><td>60-11-7</td><td>11020</td></tr>
-<tr><td>Solvent Yellow 3</td><td>97-56-3</td><td>11160</td></tr>
+<tr><th>Dénomination de la substance</th><th>N° CAS</th><th>Concentration maximale (mg/kg)</th></tr>
+<tr><td>Phénoxyéthanol</td><td>122-99-6</td><td>1000</td></tr>
+<tr><td>Acide benzoïque</td><td>65-85-0</td><td>1000</td></tr>
+<tr><td>Alcool isopropylique</td><td>67-63-0</td><td>5000</td></tr>
+<tr><td>C.I. 51319</td><td>6358-30-1</td><td>1000</td></tr>
+<tr><td>C.I. 73900</td><td>1047-16-1</td><td>1000</td></tr>
+<tr><td>C.I. 73915</td><td>980-26-7</td><td>1000</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: CI = Colour Index.
+Annexe 2a[^t-5]
 
-Annexe 2a[^t-4]
+[^t-5]: Introduite par le ch. II al. 2 de l’O du DFI du 25 nov. 2013 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Abrogée par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
-(art. 5, al. 3<sup>bis</sup>)
+Annexe 3[^t-6]
 
-## Liste des métaux lourds et autres substances dont les concentrations dans les couleurs de tatouage et de maquillage permanent ne peuvent pas être supérieures aux concentrations ci-dessous
+(art. 10, 11, al. 3, et 12, al. 1)
 
-[^t-4]: Introduite par le ch. II al. 2 de l’O du DFI du 25 nov. 2013 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+## Normes techniques s’appliquant aux lentilles de contact cosmétiques afocales
+
+[^annex3-lvlu1-1]
+
+[^t-6]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex3-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 
 <table>
-<tr><th>Élément ou liaison</th><th>Concentration maximale dans le produit prêt à l’emploi</th></tr>
-<tr><td>1 Métaux lourds</td><td></td></tr>
-<tr><td>Antimoine (Sb)</td><td>2 mg/kg</td></tr>
-<tr><td>Arsenic (As)</td><td>2 mg/kg</td></tr>
-<tr><td>Baryum (Ba)</td><td>50 mg/kg</td></tr>
-<tr><td>Plomb (Pb)</td><td>2 mg/kg</td></tr>
-<tr><td>Cadmium (Cd)</td><td>0,2 mg/kg</td></tr>
-<tr><td>Chrome (CrVI)</td><td>0,2 mg/kg</td></tr>
-<tr><td>Cobalt (Co)</td><td>25 mg/kg</td></tr>
-<tr><td>Cuivre (Cu), soluble[^annex2a-lvlu1-1]</td><td>25 mg/kg</td></tr>
-<tr><td>Nickel (Ni)</td><td>Selon les bonnes pratiques de fabrication (BPF)</td></tr>
-<tr><td>Mercure (Hg)</td><td>0,2 mg/kg</td></tr>
-<tr><td>Sélénium (Se)</td><td>2 mg/kg</td></tr>
-<tr><td>Zinc (Zn)</td><td>50 mg/kg</td></tr>
-<tr><td>Étain (Sn)</td><td>50 mg/kg</td></tr>
-<tr><td>2 Autres substances</td><td></td></tr>
-<tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>0,5 mg/kg</td></tr>
-<tr><td>Benzo(a)pyrène (BaP)</td><td>5 µg/kg</td></tr>
+<tr><th>Numéro</th><th>Titre</th></tr>
+<tr><td>SN EN ISO 14534:2015</td><td>Optique ophtalmique – Lentilles de contact et produits d’entretien des lentilles de contact – Exigences fondamentales</td></tr>
+<tr><td>SN EN ISO 15223-1:2017</td><td>Dispositifs médicaux – Symboles à utiliser avec les étiquettes, l’étiquetage et les informations à fournir relatifs aux dispositifs médicaux – Partie 1: Exigences générales (ISO 15223-1:2016, version corrigée 2017-03)</td></tr>
 </table>
 
-[^annex2a-lvlu1-1]: Après extraction dans une solution aqueuse à un pH 5,5
-
-Annexe 3[^t-5]
-
-[^t-5]: Abrogée par l’annexe ch. 4 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-
-Annexe 4[^t-6]
+Annexe 4[^t-7]
 
 (art. 15)
 
@@ -740,18 +685,18 @@ Annexe 4[^t-6]
 
 [^annex4-lvlu1-1]
 
-[^t-6]: Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex4-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
+[^t-7]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex4-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
-<tr><td>SN EN 1273-1:2005</td><td>Articles de puériculture – Trotteurs – Exigences de sécurité et méthodes d’essai</td></tr>
-<tr><td>SN EN 1466:2015</td><td>Articles de puériculture – Couffins et supports – Exigences de sécurité et méthodes d’essai</td></tr>
-<tr><td>SN EN 13209-1:2004</td><td>Articles de puériculture – Porte-enfants – Exigences de sécurité et méthodes d’essai Partie 1: Porte-enfants dorsaux avec armature</td></tr>
-<tr><td>SN EN 14350-1:2004</td><td>Articles de puériculture – Articles pour l’alimentation liquide Partie 1: Exigences générales et mécaniques et essais</td></tr>
+<tr><td>SN EN 1273:2020</td><td>Articles de puériculture – Trotteurs – Exigences de sécurité et méthodes d’essai</td></tr>
+<tr><td>SN EN 1466:2023</td><td>Articles de puériculture – Couffins et supports – Exigences de sécurité et méthodes d’essai</td></tr>
+<tr><td>SN EN 13209-1:2022</td><td>Articles de puériculture – Porte-enfants – Exigences de sécurité et méthodes d’essai – Partie 1: Porte-enfants dorsaux avec armature</td></tr>
+<tr><td>SN EN 14350+A1:2023</td><td>Articles de puériculture – Articles pour l’alimentation liquide – Exigences de sécurité et méthodes d’essai</td></tr>
 </table>
 
-Annexe 5[^t-7]
+Annexe 5[^t-8]
 
 (art. 18, al. 3)
 
@@ -759,24 +704,24 @@ Annexe 5[^t-7]
 
 [^annex5-lvlu1-1]
 
-[^t-7]: Nouvelle teneur selon le ch. II de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex5-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](https://www.snv.ch).
+[^t-8]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex5-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
 <tr><td>SN EN 1101/A1:2005</td><td>Textiles et produits textiles – Comportement au feu – Rideaux et tentures – Procédure détaillée pour déterminer l’allumabilité d’éprouvettes disposées verticalement (petite flamme)</td></tr>
 <tr><td>SN EN 1102:2016</td><td>Textiles et produits textiles – Comportement au feu – Rideaux et tentures – Procédure détaillée pour déterminer la propagation de flamme d’éprouvettes disposées verticalement</td></tr>
-<tr><td>SN EN 1103:2005</td><td>Textiles – Comportement au feu – Étoffes pour vêtements – Procédure détaillée pour déterminer le comportement au feu des étoffes pour vêtements</td></tr>
+<tr><td>SN EN 1103:2006</td><td>Textiles – Étoffes pour vêtements – Procédure détaillée pour déterminer le comportement au feu</td></tr>
 <tr><td>SN EN 13772:2011</td><td>Textiles et produits textiles – Comportement au feu – Rideaux et tentures – Mesurage de la propagation de flamme d’éprouvettes orientées verticalement, avec une source d’allumage importante</td></tr>
 </table>
 
-Annexe 6[^t-8]
+Annexe 6[^t-9]
 
 (art. 21, al. 1)
 
 ## Produits textiles et articles en cuir qui ne peuvent contenir aucun des colorants azoïques visés à l’art. 21, al. 1
 
-[^t-8]: Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^t-9]: Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 Ne peuvent contenir aucun des colorants azoïques visés à l’art. 21, al. 1, les produits textiles, les articles en cuir et les parties teintes de ceux-ci susceptibles d’entrer en contact direct et prolongé avec le corps humain, tels que:
 
@@ -817,7 +762,7 @@ Annexe 7
 <tr><td>22</td><td>60-09-3</td><td>611-008-00-4</td><td>200-453-6</td><td>4-aminoazobenzène</td></tr>
 </table>
 
-Annexe 8[^t-9]
+Annexe 8[^t-10]
 
 (art. 21, al. 2)
 
@@ -825,18 +770,18 @@ Annexe 8[^t-9]
 
 [^annex8-lvlu1-1]
 
-[^t-9]: Nouvelle teneur selon le ch. II de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex8-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](https://www.snv.ch).
+[^t-10]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex8-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
-<tr><td>SN EN 14362-1:2017</td><td>Textiles – Méthodes de détermination de certaines amines aromatiques dérivées de colorants Partie 1: Détection de l’utilisation de certains colorants azoïques accessibles avec ou sans extraction des fibres</td></tr>
-<tr><td>SN EN 14362-3:2017</td><td>Textiles – Méthodes de détermination de certaines amines aromatiques dérivées de colorants Partie 3: Détection de l’utilisation de certains colorants azoïques susceptibles de libérer du 4-aminoazobenzène</td></tr>
-<tr><td>SN EN ISO 17234-1:2015</td><td>Cuir – Essais chimiques pour le dosage de certains colorants azoïques dans les cuirs teints Partie 1: Dosage de certaines amines aromatiques dérivées des colorants azoïques</td></tr>
-<tr><td>SN EN ISO 17234-2:2011</td><td>Cuir – Essais chimiques pour le dosage de certains colorants azoïques dans les cuirs teints Partie 2: Dosage du 4-amino-azobenzène</td></tr>
+<tr><td>SN EN ISO 14362-1:2017</td><td>Textiles – Méthodes de détermination de certaines amines aromatiques dérivées de colorants azoïques – Partie 1: Détection de l’utilisation de certains colorants azoïques accessibles avec et sans extraction des fibres (ISO 14362-1:2017)</td></tr>
+<tr><td>SN EN ISO 14362-3:2017</td><td>Textiles – Méthodes de détermination de certaines amines aromatiques dérivées de colorants azoïques – Partie 3: Détection de l’utilisation de certains colorants azoïques susceptibles de libérer du 4-aminoazobenzène (ISO 14362-3:2017)</td></tr>
+<tr><td>SN EN ISO 17234-1:2021</td><td>Cuir – Essais chimiques pour le dosage de certains colorants azoïques dans les cuirs teints – Partie 1: Dosage de certaines amines aromatiques dérivées des colorants azoïques (ISO 17234-1:2020)</td></tr>
+<tr><td>SN EN ISO 17234-2:2011</td><td>Cuir – Essais chimiques pour le dosage de certains colorants azoïques dans les cuirs teints – Partie 2: Dosage du 4-amino-azobenzène (ISO 17234-2:2011)</td></tr>
 </table>
 
-Annexe 8a[^t-10]
+Annexe 8a[^t-11]
 
 (art. 22*a*, al. 2)
 
@@ -844,7 +789,7 @@ Annexe 8a[^t-10]
 
 [^annex8a-lvlu1-1]
 
-[^t-10]: Introduite par le ch. II al. 2 de l’O du DFI du 7 mars 2008 ([RO 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^t-11]: Introduite par le ch. II al. 2 de l’O du DFI du 7 mars 2008 ([RO 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 [^annex8a-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 <table>
@@ -852,7 +797,7 @@ Annexe 8a[^t-10]
 <tr><td>SN EN 14682:2015</td><td>Sécurité des vêtements d’enfants – Cordons et cordons coulissants – Spécifications</td></tr>
 </table>
 
-Annexe 9[^t-11]
+Annexe 9[^t-12]
 
 (art. 25, al. 6)
 
@@ -860,11 +805,11 @@ Annexe 9[^t-11]
 
 [^annex9-lvlu1-1]
 
-[^t-11]: Nouvelle teneur selon le ch. II de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex9-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](https://www.snv.ch).
+[^t-12]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^annex9-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
-<tr><td>SN EN ISO 9994/A1:2008</td><td>Briquets – Spécifications de sécurité</td></tr>
+<tr><td>SN EN ISO 9994:2019</td><td>Briquets – Spécifications de sécurité (ISO 9994:2018)</td></tr>
 <tr><td>SN EN 13869:2016</td><td>Briquets – Briquets de sécurité enfants – Exigences de sécurité et méthodes d’essai</td></tr>
 </table>
