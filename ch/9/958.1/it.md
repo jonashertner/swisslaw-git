@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 2015 sulle infrastrutture del mercato finan
 short: LInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: it
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240201-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/it"
 
 (Legge sull’infrastruttura finanziaria, LInFi)
 
-del 19 giugno 2015 (Stato 1° gennaio 2024)
+del 19 giugno 2015 (Stato 1° febbraio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2322,6 +2322,16 @@ Le persone soggette all’obbligo di comunicazione di cui all’articolo 134 o c
 **Violazione dell’obbligo di presentare un’offerta**
 
 È punito con la multa sino a 10 milioni di franchi chiunque, intenzionalmente, non dà seguito all’obbligo di presentare un’offerta (art. 135) stabilito in una decisione passata in giudicato.
+
+#### Art. 152a
+
+**Violazione degli obblighi da parte dell’offerente**[^152a-1]
+
+<sup>1</sup> È punito con la multa sino a 500 000 franchi chiunque, intenzionalmente, fornisce nel prospetto o nell’annuncio indicazioni inveritiere o incomplete (art. 127 e 131 lett. a).
+
+<sup>2</sup> Chi agisce per negligenza è punito con la multa sino a 150 000 franchi.
+
+[^152a-1]: Introdotto dal n. I della LF del 29 set. 2023, in vigore dal 1° feb. 2024 ([RU 2024 33](https://fedlex.data.admin.ch/eli/oc/2024/33); [FF 2022 2127](https://fedlex.data.admin.ch/eli/fga/2022/2127)**,** [2023 723](https://fedlex.data.admin.ch/eli/fga/2023/723)).
 
 #### Art. 153
 

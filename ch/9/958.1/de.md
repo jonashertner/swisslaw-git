@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Juni 2015 über die Finanzmarktinfrastrukturen und 
 short: FinfraG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: de
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/de"
 
 (Finanzmarktinfrastrukturgesetz, FinfraG)
 
-vom 19. Juni 2015 (Stand am 1. Januar 2024)
+vom 19. Juni 2015 (Stand am 1. Februar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2320,6 +2320,16 @@ Mit Busse bis zu 10 Millionen Franken wird bestraft, wer vorsätzlich:
 **Verletzung der Angebotspflicht**
 
 Mit Busse bis zu 10 Millionen Franken wird bestraft, wer vorsätzlich einer rechtskräftig festgestellten Pflicht zur Unterbreitung eines Angebots (Art. 135) keine Folge leistet.
+
+#### Art. 152a
+
+**Pflichtverletzungen durch den Anbieter**[^152a-1]
+
+<sup>1</sup> Mit Busse bis zu 500 000 Franken wird bestraft, wer im Prospekt oder der Voranmeldung vorsätzlich unwahre oder unvollständige Angaben macht (Art. 127 und 131 Bst. a).
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 150 000 Franken bestraft.
+
+[^152a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 33](https://fedlex.data.admin.ch/eli/oc/2024/33); [BBl 2022 3127](https://fedlex.data.admin.ch/eli/fga/2022/3127); [2023 723](https://fedlex.data.admin.ch/eli/fga/2023/723)).
 
 #### Art. 153
 

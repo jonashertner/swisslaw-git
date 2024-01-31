@@ -4,22 +4,22 @@ title: "Federal Act of 19 June 2015 on Financial Market Infrastructures and Mark
 short: FinMIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: en
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240201/en/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240201-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
 # Federal Act on Financial Market Infrastructures and Market Conduct in Securities and Derivatives Trading
 
-English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
 (Financial Market Infrastructure Act, FinMIA)
 
-of 19 June 2015 (Status as of 1 January 2024)
+of 19 June 2015 (Status as of 1 February 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -632,7 +632,7 @@ A foreign trading venue is deemed recognised if FINMA finds that:
 
 [^41-1]: Amended by No I of the FA of 17 March 2023 (Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland), in force from 1 Jan. 2024 to 31 Dec. 2028 ([AS 2023 731](https://fedlex.data.admin.ch/eli/oc/2023/731); [BBl 2022 1673](https://fedlex.data.admin.ch/eli/fga/2022/1673)).
 
-### Section 1*a.* Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland
+### Section 1*a* *.* Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland
 
 [^tit2-chap2-sec1a-1]
 
@@ -2310,13 +2310,23 @@ A fine not exceeding CHF 10 million shall be imposed on any person who wilfully:
 - a. violates the notification duty cited in Article 120 or 121;
 - b. as the owner of a qualified participation in a target company, fails to disclose the acquisition or sale of equity securities of that company (Art. 134).
 
-<sup>2</sup> A fine not exceeding CHF 100,000 shall be imposed on persons who commit the foregoing acts through negligence.
+<sup>2</sup> A fine not exceeding CHF 100,000 shall be imposed on any person who commit the foregoing acts through negligence.
 
 #### Art. 152
 
 **Breach of the duty to make an offer**
 
 A fine not exceeding CHF 10 million shall be imposed on any person who wilfully fails to comply with a legally binding duty to make an offer (Art. 135).
+
+#### Art. 152a
+
+**Breach of duty by the offeror**[^152a-1]
+
+<sup>1</sup> A fine not exceeding CHF 500,000 shall be imposed on any person who wilfully provides untrue or incomplete information in the prospectus or announcement of the offer (Art. 127 and 131 let. a).
+
+<sup>2</sup> A fine not exceeding CHF 150,000 shall be imposed on any person who commits the foregoing act through negligence.
+
+[^152a-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Feb. 2024 ([AS 2024 33](https://fedlex.data.admin.ch/eli/oc/2024/33); [BBl 2022 3127](https://fedlex.data.admin.ch/eli/fga/2022/3127); [2023 723](https://fedlex.data.admin.ch/eli/fga/2023/723)).
 
 #### Art. 153
 
@@ -2329,7 +2339,7 @@ A fine not exceeding CHF 500,000 shall be imposed on any person who wilfully:
 - a. fails to submit the mandatory report to the holders of equity security setting out his or her position in relation to the offer or fails to publish such a report (Art. 132 para. 1);
 - b. includes untrue or incomplete information in such report (Art. 132 para. 1).
 
-<sup>2</sup> A fine not exceeding CHF 150,000 shall be imposed on persons who commit the foregoing acts through negligence.
+<sup>2</sup> A fine not exceeding CHF 150,000 shall be imposed on any person who commits the foregoing act through negligence.
 
 #### Art. 154
 

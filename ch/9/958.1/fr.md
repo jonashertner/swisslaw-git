@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 2015 sur les infrastructures des marchés fina
 short: LIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: fr
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-853-20240201-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20240101/fr"
 
 (Loi sur l’infrastructure des marchés financiers, LIMF)[^t-1]
 
-du 19 juin 2015 (État le 1<sup>er</sup> janvier 2024)
+du 19 juin 2015 (État le 1<sup>er</sup> février 2024)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -2322,6 +2322,16 @@ Est puni d’une amende de 10 millions de francs au plus quiconque, intentionnel
 **Violation de l’obligation de présenter une offre**
 
 Est puni d’une amende de 10 millions de francs au plus quiconque, intentionnellement, ne se soumet pas à une décision exécutoire en constatation de l’obligation de présenter une offre (art. 135).
+
+#### Art. 152a
+
+**Violation des obligations de l’offrant**[^152a-1]
+
+<sup>1</sup> Est puni d’une amende de 500 000 francs au plus quiconque fournit intentionnellement des informations fausses ou incomplètes dans le prospectus ou l’annonce préalable (art. 127 et 131, let. a).
+
+<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 150 000 francs au plus.
+
+[^152a-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 33](https://fedlex.data.admin.ch/eli/oc/2024/33); [FF 2022 3127](https://fedlex.data.admin.ch/eli/fga/2022/3127); [2023 723](https://fedlex.data.admin.ch/eli/fga/2023/723)).
 
 #### Art. 153
 
