@@ -4,13 +4,12 @@ number: "123.22"
 title: "Ordonnance portant introduction de la loi fédérale sur les documents d'identité"
 short: OiLDI
 language: fr
-version: 2022-01-01
-valid_until: 2024-01-31
-version_adopted: 2021-12-01
+version: 2024-02-01
+version_adopted: 2023-12-06
 adopted: 2009-12-23
 in_force: 2010-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/123.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2507/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3002/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2507/pdf_file"
 
 (OiLDI)
 
-du 23.12.2009 (état au 01.01.2022)
+du 23.12.2009 (état au 01.02.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -121,7 +120,7 @@ arrête:
 
 <sup>1</sup> L’OPOP peut notamment exiger des personnes requérantes ou de leurs représentants légaux les documents supplémentaires suivants:
 
-- a certificat d’établissement,
+- a attestation de domicile,
 - b documents d’identité destinés à vérifier l’identité (passeport suisse ou carte d’identité suisse; livret pour étrangers; passeport d’un autre Etat),
 - c décision en matière de droit de garde,
 - d certificat de famille,

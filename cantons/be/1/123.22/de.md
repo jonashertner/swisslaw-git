@@ -4,13 +4,12 @@ number: "123.22"
 title: Einführungsverordnung zum eidgenössischen Ausweisgesetz
 short: EV AwG
 language: de
-version: 2022-01-01
-valid_until: 2024-01-31
-version_adopted: 2021-12-01
+version: 2024-02-01
+version_adopted: 2023-12-06
 adopted: 2009-12-23
 in_force: 2010-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/123.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2507/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3002/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2507/pdf_file"
 
 (EV AwG)
 
-vom 23.12.2009 (Stand 01.01.2022)
+vom 23.12.2009 (Stand 01.02.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -121,7 +120,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Bevölkerungsdienste kann von den antragstellenden Personen oder von der gesetzlichen Vertretung der antragstellenden Personen als weitere Dokumente insbesondere verlangen:
 
-- a Niederlassungsausweis,
+- a Wohnsitzbestätigung,
 - b Ausweise zur Prüfung der Identität (Schweizer Pass oder Schweizer Identitätskarte; Ausländerausweis; Pass eines anderen Staates),
 - c Sorgerechtsentscheid,
 - d Familienausweis,
