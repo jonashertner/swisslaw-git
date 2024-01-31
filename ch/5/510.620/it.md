@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla geoinformazione (OGI)
 short: OGI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: it
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20240201-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20240101/it"
 
 (OGI)
 
-del 21 maggio 2008 (Stato 1° gennaio 2024)
+del 21 maggio 2008 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -582,18 +582,22 @@ Sono riscossi emolumenti per:
 
 <sup>5</sup> I costi di approntamento e i costi di trasporto possono essere fatturati in aggiunta agli emolumenti di cui ai capoversi 3 e 4.
 
-**Art. 44***a*[^44-2] Costi di approntamento
+[^44-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+
+#### Art. 44a
+
+**Costi di approntamento**[^44a-1]
 
 <sup>1</sup> Per indennizzare costi di approntamento al di fuori dell’accesso secondo l’articolo 28*a* è riscosso un emolumento conformemente alle tariffe degli emolumenti del Dipartimento.
 
-<sup>2</sup> b. imballaggio e spedizione: 0–25 franchi per unità di spedizione.
+<sup>2</sup>
 
 Per l’approntamento sono inoltre riscossi i seguenti emolumenti:
 
 - a. supporto di dati: prezzo di fabbricazione per unità;
+- b. imballaggio e spedizione: 0–25 franchi per unità di spedizione.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
-[^44-2]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^44a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45
 
@@ -631,14 +635,14 @@ Sono riscossi emolumenti forfettari per:
 - b.[^46-2] l’utilizzazione di servizi e prestazioni particolari;
 - c. software;
 - d. rapporti e studi;
-- [tab] e. e f.[^46-3] ...
+- [tab] e. e f.[^46-3] …
 - g. modifiche di autorizzazioni e licenze;
 - h. la procedura per l’autorizzazione a posteriori (art. 27);
 - i. la decisione di distruzione o di confisca (art. 33).
 
 <sup>2</sup> Oltre all’emolumento forfettario possono essere riscossi i costi di approntamento e i costi di trasporto. [^46-4]
 
-<sup>3</sup> ... [^46-5]
+<sup>3</sup> … [^46-5]
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
 [^46-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
@@ -772,10 +776,10 @@ Allegato 1[^t-1]
 
 ## Catalogo dei geodati di base del diritto federale
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dal n. I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), dal n. I dell’O del 22 giu. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), dal n. II dell’O del 31 ago. 2022, ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), dall’all. 9 n. 1 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)), dal n. II dell’O del 2 nov. 2022 ([RU 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)), dall’all. n. 6 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)) e dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 761](https://fedlex.data.admin.ch/eli/oc/2023/761)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dal n. I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), dal n. I dell’O del 22 giu. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), dal n. II dell’O del 31 ago. 2022, ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), dall’all. 9 n. 1 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)), dal n. II dell’O del 2 nov. 2022 ([RU 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)), dall’all. n. 6 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)), dal n. I dell’O del 29 nov. 2023 ([RU 2023 761](https://fedlex.data.admin.ch/eli/oc/2023/761)) e dal n. II dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
 
 <table>
-<tr><th>Denominazione</th><th>Base giuridica</th><th>Servizio competente (RS *510.62* art. 8 cpv. 1) [servizio specializzato della Confederazione]</th><th>Geodati di riferimento</th><th>Catasto delle restrizioni di diritto pubblico della proprietà</th><th>Livello di autorizzazione all'accesso</th><th>Servizio di telecaricamento</th><th>Identificatore</th></tr>
+<tr><th>Denominazione</th><th>Base giuridica</th><th>Servizio competente (RS *510.62* art. 8 cpv. 1) [servizio specializzato della Confederazione]</th><th>Geodati di riferimento</th><th>Catasto delle restrizioni di diritto pubblico della proprietà</th><th>Livello di autorizzazione all’accesso</th><th>Servizio di telecaricamento</th><th>Identificatore</th></tr>
 <tr><td>Convenzione per la protezione del patrimonio mondiale culturale e naturale (patrimonio universale UNESCO, siti naturali)</td><td>RS *0.451.41*</td><td>UFAM</td><td></td><td></td><td>A</td><td>X</td><td>1</td></tr>
 <tr><td>Convenzione sulle zone umide d’importanza internazionale segnatamente come habitat degli uccelli acquatici e palustri (Convenzione di Ramsar)</td><td>RS *0.451.45*</td><td>UFAM</td><td></td><td></td><td>A</td><td>X</td><td>2</td></tr>
 <tr><td>Convenzione delle Alpi</td><td>RS *0.700.1*</td><td>ARE</td><td></td><td></td><td>A</td><td>X</td><td>3</td></tr>
@@ -826,7 +830,7 @@ Allegato 1[^t-1]
 <tr><td>Piano per il registro fondiario (estratto misurazione ufficiale)</td><td>RS *510.62* art. 29 segg. RS *211.432.2* art. 7</td><td>Cantoni [UFRF e D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>51</td></tr>
 <tr><td>Punti fissi PFP1, PFA1 (misurazione nazionale)</td><td>RS *510.62* art. 22 segg. RS *510.626* art. 2</td><td>swisstopo</td><td>X</td><td></td><td>A</td><td>X</td><td>53</td></tr>
 <tr><td>Inventario della protezione dei beni culturali con oggetti d’importanza nazionale</td><td>RS *520.31* art. 2</td><td>UFPP</td><td></td><td></td><td>A</td><td></td><td>65</td></tr>
-<tr><td>Inventario dell’approvvigionamento con acqua potabile in situazioni di emergenza</td><td>RS *531.32* art. 8 RS *814.20* art. 58</td><td>Cantoni [UFAM]</td><td></td><td></td><td>B</td><td></td><td>66</td></tr>
+<tr><td>Inventario dell’approvvigionamento con acqua potabile in situazioni di grave penuria</td><td>RS *531.32* art. 4 cpv. 1 e 2 RS *814.20* art. 58 cpv. 2[^annex1-lvlu1-1]</td><td>Cantoni [UFAM]</td><td></td><td></td><td>B</td><td></td><td>66</td></tr>
 <tr><td>Rete delle piste ciclabili</td><td>RS *700* art. 3 cpv. 3 lett. c, art. 6 cpv. 3 RS *172.217.1* art. 10 cpv. 3 lett. a</td><td>Cantoni [USTRA]</td><td></td><td></td><td>A</td><td>X</td><td>67</td></tr>
 <tr><td>Superfici per l’avvicendamento delle colture</td><td>RS *700* art. 6 cpv. 2 lett. a RS *700.1* art. 26 segg. RS *700.1* art. 28 cpv. 2</td><td>Cantoni [ARE]</td><td></td><td></td><td>A</td><td>X</td><td>68</td></tr>
 <tr><td>Piani direttori cantonali</td><td>RS *700* art. 6 segg. RS *700.1* art. 4 segg.</td><td>Cantoni [ARE]</td><td></td><td></td><td>A</td><td></td><td>69</td></tr>
@@ -852,7 +856,7 @@ Allegato 1[^t-1]
 <tr><td>Ubicazioni degli incidenti stradali</td><td>RS *741.57*</td><td>USTRA</td><td></td><td></td><td>B</td><td></td><td>95</td></tr>
 <tr><td>Zone riservate per gli impianti ferroviari</td><td>RS *742.101* art. 18*n*</td><td>UFT</td><td></td><td>X</td><td>A</td><td>X</td><td>96</td></tr>
 <tr><td>Allineamenti per gli impianti ferroviari</td><td>RS *742.101* art. 18*q*</td><td>UFT</td><td></td><td>X</td><td>A</td><td>X</td><td>97</td></tr>
-<tr><td>Rete ferroviaria e stazioni per i trasporti pubblici</td><td>RS *510.625* art. 28 RS *742.120*[^annex1-lvlu1-1] art.4 RS *745.1* art. 13 cpv. 2</td><td>UFT</td><td></td><td></td><td>A</td><td>X</td><td>98</td></tr>
+<tr><td>Rete ferroviaria e stazioni per i trasporti pubblici</td><td>RS *510.625* art. 28 RS *742.120*[^annex1-lvlu1-2] art.4 RS *745.1* art. 13 cpv. 2</td><td>UFT</td><td></td><td></td><td>A</td><td>X</td><td>98</td></tr>
 <tr><td>Impianti di trasporto a fune soggetti a concessione federale</td><td>RS *743.011* art. 10</td><td>UFT</td><td></td><td></td><td>A</td><td>X</td><td>99</td></tr>
 <tr><td>Limitazioni per la navigazione interna</td><td>RS *747.201* art. 3</td><td>Cantoni [UFT]</td><td></td><td></td><td>A</td><td>X</td><td>100</td></tr>
 <tr><td>Piano settoriale dei trasporti, parte Infrastruttura Navigazione</td><td>RS *747.219.1* art. 5 RS *700.1* art. 14 segg.</td><td>UFT [ARE]</td><td></td><td></td><td>A</td><td>X</td><td>101</td></tr>
@@ -891,7 +895,7 @@ Allegato 1[^t-1]
 <tr><td>Approvvigionamento in acqua potabile (rilevamenti di interesse nazionale)</td><td>RS *814.20* art. 57</td><td>UFAM</td><td></td><td></td><td>A</td><td>X</td><td>137</td></tr>
 <tr><td>Approvvigionamento in acqua potabile (ulteriori rilevamenti)</td><td>RS *814.20* art. 58</td><td>Cantoni [UFAM]</td><td></td><td></td><td>B</td><td></td><td>138</td></tr>
 <tr><td>Falde freatiche</td><td>RS *814.20* art. 58</td><td>Cantoni [UFAM]</td><td></td><td></td><td>A</td><td>X</td><td>139</td></tr>
-<tr><td>Inventario dei prelievi d’acqua esistenti</td><td>RS *721.80* art. 29*a* RS *814.20* art. 82 RS *814**.201* art. 36, 40</td><td>Cantoni [UFAM]</td><td></td><td></td><td>A</td><td></td><td>140</td></tr>
+<tr><td>Inventario dei prelievi d’acqua esistenti</td><td>RS *721.80* art. 29*a* RS *814.20* art. 82 RS *814.201* art. 36, 40</td><td>Cantoni [UFAM]</td><td></td><td></td><td>A</td><td></td><td>140</td></tr>
 <tr><td>Affioramenti, captazioni e impianti di ravvenamento della falda freatica</td><td>RS *814.20* art. 58 RS *814.201* art. 30</td><td>Cantoni [UFAM]</td><td></td><td></td><td>A</td><td>X</td><td>141</td></tr>
 <tr><td>Catasto dei rumori – strade nazionali</td><td>RS *814.41* art. 37, 45 RS *814.01* art. 44</td><td>USTRA [UFAM]</td><td></td><td></td><td>A</td><td></td><td>142</td></tr>
 <tr><td>Catasto dei rumori –aerodromi militari</td><td>RS *814.41* art. 37, 45 RS *814.01* art. 44</td><td>DDPS [UFAM]</td><td></td><td></td><td>A</td><td></td><td>143</td></tr>
@@ -924,7 +928,7 @@ Allegato 1[^t-1]
 <tr><td>Convenzione per la protezione del patrimonio mondiale culturale e naturale (patrimonio universale UNESCO, siti culturali)</td><td>RS *0.451.41*</td><td>UFC</td><td></td><td></td><td>A</td><td>X</td><td>179</td></tr>
 <tr><td>Atlante statistico della Svizzera</td><td>RS *510.62* art. 22 segg. RS *510.626* art. 23</td><td>UST</td><td></td><td></td><td>A</td><td></td><td>180</td></tr>
 <tr><td>Elenco ufficiale delle località con il numero postale d’avviamento e il perimetro</td><td>RS *510.625* art. 24</td><td>swisstopo</td><td></td><td></td><td>A</td><td>X</td><td>181</td></tr>
-<tr><td>Banca dati sul radon</td><td>RS *814.501* art. 162[^annex1-lvlu1-2]</td><td>Cantoni [UFSP]</td><td></td><td></td><td>B</td><td></td><td>182</td></tr>
+<tr><td>Banca dati sul radon</td><td>RS *814.501* art. 162[^annex1-lvlu1-3]</td><td>Cantoni [UFSP]</td><td></td><td></td><td>B</td><td></td><td>182</td></tr>
 <tr><td>Sicurezza dell’approvvigionamento elettrico: comprensori di rete</td><td>RS *734.7* art. 5 cpv. 1</td><td>Cantoni [ElCom]</td><td></td><td></td><td>A</td><td>X</td><td>183</td></tr>
 <tr><td>Itinerari cantonali dei trasporti speciali</td><td>RS *741.11* art. 78 segg.</td><td>Cantoni [USTRA]</td><td></td><td></td><td>A</td><td>X</td><td>184</td></tr>
 <tr><td>Dissodamenti e rimboschimento compensativo</td><td>RS *921.0* art. 5, 7 RS *921.01* art. 7, 8</td><td>Cantoni [UFAM]</td><td></td><td></td><td>A</td><td></td><td>185</td></tr>
@@ -935,8 +939,8 @@ Allegato 1[^t-1]
 <tr><td>Spazio riservato alle acque</td><td>RS *814.20* art. 36*a* RS *814.201* art. 41*a*, 41*b*</td><td>Cantoni [UFAM]</td><td></td><td>X</td><td>A</td><td>X</td><td>190</td></tr>
 <tr><td>Pianificazione delle rivitalizzazioni delle acque</td><td>RS *814.20* art. 38*a* RS *814.201* art. 41*d*</td><td>Cantoni [UFAM]</td><td></td><td></td><td>A</td><td>X</td><td>191</td></tr>
 <tr><td>Pianificazione del risanamento nell’ambito della forza idrica e relativi rapporti</td><td>RS *814.20* art. 83*b* RS *814.201* art. 41*f*, 42*b* RS *923.01* art. 9*b*</td><td>Cantoni [UFAM]</td><td></td><td></td><td>A</td><td></td><td>192</td></tr>
-<tr><td>Impianti di accumulazione sottoposti a vigilanza federale</td><td>RS *721.101* art. 2, 3 al. 2, 22, 24 RS *721.101.1* art. 29[^annex1-lvlu1-3]</td><td>UFE</td><td></td><td></td><td>A</td><td>X</td><td>193</td></tr>
-<tr><td>Impianti di accumulazione sottoposti a vigilanza cantonale</td><td>RS *721.101* art. 2, 23, 24[^annex1-lvlu1-4]</td><td>Cantoni [UFE]</td><td></td><td></td><td>A</td><td>X</td><td>194</td></tr>
+<tr><td>Impianti di accumulazione sottoposti a vigilanza federale</td><td>RS *721.101* art. 2, 3 al. 2, 22, 24 RS *721.101.1* art. 29[^annex1-lvlu1-4]</td><td>UFE</td><td></td><td></td><td>A</td><td>X</td><td>193</td></tr>
+<tr><td>Impianti di accumulazione sottoposti a vigilanza cantonale</td><td>RS *721.101* art. 2, 23, 24[^annex1-lvlu1-5]</td><td>Cantoni [UFE]</td><td></td><td></td><td>A</td><td>X</td><td>194</td></tr>
 <tr><td>Zone di tranquillità per la selvaggina (compresa la rete di percorsi)</td><td>RS *922.01* art. 4<sup>ter</sup></td><td>Cantoni [UFAM]</td><td></td><td></td><td>A</td><td>X</td><td>195</td></tr>
 <tr><td>Elenco ufficiale delle vie</td><td>RS *510.625* art. 26*a*</td><td>swisstopo</td><td>X</td><td></td><td>A</td><td>X</td><td>196</td></tr>
 <tr><td>Elenco ufficiale degli indirizzi degli edifici</td><td>RS *510.625* art. 26*c*</td><td>swisstopo</td><td>X</td><td></td><td>A</td><td>X</td><td>197</td></tr>
@@ -972,12 +976,14 @@ Allegato 1[^t-1]
 <tr><td>Infrastrutture agricole</td><td>RS *913.1* art. 59</td><td>Cantoni [UFAG]</td><td></td><td></td><td>A</td><td>X</td><td>227</td></tr>
 <tr><td>Misurazione ufficiale</td><td>RS *211.432.2* art. 6</td><td>Cantoni [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>228</td></tr>
 <tr><td>Progetti di grandi impianti fotovoltaici di cui all’articolo 71*a* LEne</td><td>RS *730.01* art. 9*h*</td><td>UFE</td><td></td><td></td><td>A</td><td>X</td><td>229</td></tr>
+<tr><td>Progetti di impianti eolici di cui all’articolo 71*c* LEne</td><td>RS *730.01* art. 9*k*</td><td>UFE</td><td></td><td></td><td>A</td><td>X</td><td>230</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [[RU 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101), [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 lett. c].
-[^annex1-lvlu1-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1°gen. 2018.
-[^annex1-lvlu1-3]: I rimandi sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex1-lvlu1-1]: I rimandi sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2024.
+[^annex1-lvlu1-2]: [[RU 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101), [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 lett. c].
+[^annex1-lvlu1-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2018.
 [^annex1-lvlu1-4]: I rimandi sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex1-lvlu1-5]: I rimandi sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 Allegato 2
 
@@ -987,6 +993,6 @@ Allegato 2
 
 Le seguenti ordinanze sono modificate come segue:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389).
