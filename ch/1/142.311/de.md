@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2024-01-01
+version: 2024-02-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240201/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240101/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. Januar 2024)
+vom 11. August 1999 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -864,7 +864,7 @@ Ein Einbezug in die Flüchtlingseigenschaft eines Ehegatten, einer eingetragenen
 
 <sup>1</sup> Die Anwesenheit einer Person, der die Schweiz Asyl gewährt hat, wird von dem Kanton geregelt, dem sie als asylsuchende Person nach ihrer Einreise zugewiesen wurde. Wurde sie während des Asylverfahrens vom SEM nach Artikel 22 Absatz 2 einem anderen Kanton zugewiesen, so ist dieser Kanton zuständig.
 
-<sup>2</sup> ...[^41-1]
+<sup>2</sup> …[^41-1]
 
 [^41-1]: Aufgehoben durch Ziff. I der V vom 24. Okt. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 
@@ -1292,34 +1292,33 @@ Anhang 2[^t-2]
 
 ## Verfolgungssichere Heimat- oder Herkunftsstaaten
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 12. Juni 2015 ([AS 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 205](https://fedlex.data.admin.ch/eli/oc/2021/205)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 12. Juni 2015 ([AS 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 809](https://fedlex.data.admin.ch/eli/oc/2023/809)).
 
 <table>
 <tr><td>Albanien</td><td>Niederlande</td></tr>
 <tr><td>Belgien</td><td>Nordmazedonien</td></tr>
-<tr><td>Benin</td><td>Norwegen</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td>Österreich</td></tr>
-<tr><td>Bulgarien</td><td>Polen</td></tr>
-<tr><td>Dänemark</td><td>Portugal</td></tr>
-<tr><td>Deutschland</td><td>Rumänien</td></tr>
-<tr><td>Estland</td><td>Schweden</td></tr>
-<tr><td>Finnland</td><td>Senegal</td></tr>
-<tr><td>Frankreich</td><td>Serbien</td></tr>
-<tr><td>Georgien</td><td>Slowakei</td></tr>
-<tr><td>Ghana</td><td>Slowenien</td></tr>
-<tr><td>Griechenland</td><td>Spanien</td></tr>
-<tr><td>Indien</td><td>Tschechien</td></tr>
-<tr><td>Irland</td><td>Ungarn</td></tr>
-<tr><td>Island</td><td>Vereinigtes Königreich</td></tr>
-<tr><td>Italien</td><td>Zypern</td></tr>
-<tr><td>Kosovo</td><td></td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>Norwegen</td></tr>
+<tr><td>Bulgarien</td><td>Österreich</td></tr>
+<tr><td>Dänemark</td><td>Polen</td></tr>
+<tr><td>Deutschland</td><td>Portugal</td></tr>
+<tr><td>Estland</td><td>Rumänien</td></tr>
+<tr><td>Finnland</td><td>Schweden</td></tr>
+<tr><td>Frankreich</td><td>Senegal</td></tr>
+<tr><td>Georgien</td><td>Serbien</td></tr>
+<tr><td>Ghana</td><td>Slowakei</td></tr>
+<tr><td>Griechenland</td><td>Slowenien</td></tr>
+<tr><td>Indien</td><td>Spanien</td></tr>
+<tr><td>Irland</td><td>Tschechien</td></tr>
+<tr><td>Island</td><td>Ungarn</td></tr>
+<tr><td>Italien</td><td>Vereinigtes Königreich</td></tr>
+<tr><td>Kosovo</td><td>Zypern</td></tr>
 <tr><td>Kroatien</td><td></td></tr>
 <tr><td>Lettland</td><td></td></tr>
 <tr><td>Liechtenstein</td><td></td></tr>
 <tr><td>Litauen</td><td></td></tr>
 <tr><td>Luxemburg</td><td></td></tr>
 <tr><td>Malta</td><td></td></tr>
-<tr><td>Moldova (ohne Transnistrien)</td><td></td></tr>
+<tr><td>Moldau (ohne Transnistrien)</td><td></td></tr>
 <tr><td>Mongolei</td><td></td></tr>
 <tr><td>Montenegro</td><td></td></tr>
 </table>
