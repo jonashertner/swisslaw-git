@@ -4,13 +4,13 @@ number: "437.11"
 title: Kantonales Sportförderungsgesetz
 short: KSpoFöG
 language: de
-version: 2022-08-01
-valid_until: 2024-01-31
-version_adopted: 2021-12-07
+version: 2024-02-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-07
 adopted: 2021-12-07
 in_force: 2022-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/437.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2622/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2986/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2622/pdf_file"
 
 (KSpoFöG)
 
-vom 07.12.2021 (Stand 01.08.2022)
+vom 07.12.2021 (Stand 01.02.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -163,12 +163,18 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann
 
-- a die Koexistenz des Fussverkehrs, Wanderns, Velofahrens und Reitens sowie von weiteren Sportaktivitäten, anderen Nutzungen auf den in Plänen festgelegten Langsamverkehrswegen und von Aktivitäten, die nicht auf Wegen ausgeübt werden, fördern,
+- a …
 - b Gemeinden bei der Umsetzung von Massnahmen auf Gemeinde- oder Privatstrassen beratend unterstützen,
 - c Beiträge an Gemeinden zur Förderung der Bewegung auf dem Velo oder fahrzeugähnlichen Geräten ausrichten,
 - d die Gemeinden dabei unterstützen, dass der Schulweg vermehrt zu Fuss oder per Velo zurückgelegt wird.
 
+<sup>1a</sup> Er kann die Koexistenz des Fussverkehrs, Wanderns, Velofahrens und Reitens sowie von weiteren Sportaktivitäten, anderen Nutzungen auf den in Plänen festgelegten Langsamverkehrswegen und von Aktivitäten, die nicht auf Wegen ausgeübt werden, fördern.
+
+<sup>1b</sup> Er unterstützt die Gemeinden sowie die Planungsregionen bzw. Regionalkonferenzen beim Informieren der Nutzerinnen und Nutzer in Zusammenhang mit Velowegen gemäss Artikel 45 Absatz 2 des Strassengesetzes vom 4. Juni 2008 (SG)[^12-1], die auch für die Nutzung durch den Fussverkehr bzw. das Wandern vorgesehen sind.
+
 <sup>2</sup> Er analysiert die Wirkung der Massnahmen und kommuniziert die Resultate in geeigneter Form.
+
+[^12-1]: BSG [732.11](https://www.belex.sites.be.ch/data/732.11/de)
 
 ## 3 Leistungssport
 

@@ -4,13 +4,13 @@ number: "437.11"
 title: "Loi cantonale sur l'encouragement du sport"
 short: LCESp
 language: fr
-version: 2022-08-01
-valid_until: 2024-01-31
-version_adopted: 2021-12-07
+version: 2024-02-01
+valid_until: 2026-08-31
+version_adopted: 2023-06-07
 adopted: 2021-12-07
 in_force: 2022-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/437.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2622/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2986/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2622/pdf_file"
 
 (LCESp)
 
-du 07.12.2021 (état au 01.08.2022)
+du 07.12.2021 (état au 01.02.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -163,12 +163,18 @@ arrête:
 
 <sup>1</sup> Le canton peut
 
-- a encourager la coexistence des pratiques de la marche à pied, de la randonnée, du cyclisme et de l'équitation avec d'autres activités sportives et utilisations sur les voies prévues dans des plans pour la mobilité douce et avec des activités qui ne sont pas pratiquées sur des voies;
+- a …
 - b conseiller les communes dans la mise en œuvre de mesures sur des routes communales ou privées;
 - c allouer des subventions à des communes en vue d'encourager l'activité physique à vélo ou au moyen d'engins assimilés à des véhicules;
 - d soutenir les communes pour que les trajets scolaires soient davantage effectués à pied ou à vélo.
 
+<sup>1a</sup> Il peut encourager la coexistence des pratiques de la marche à pied, de la randonnée, du cyclisme et de l’équitation avec d’autres activités sportives et utilisations sur les voies prévues dans des plans pour la mobilité douce et avec des activités qui ne sont pas pratiquées sur des voies.
+
+<sup>1b</sup> Il soutient les communes et les régions d’aménagement ou les conférences régionales en matière d’information aux utilisatrices et utilisateurs concernant les voies cyclables au sens de l’article 45, alinéa 2 de la loi du 4 juin 2008 sur les routes (LR)[^12-1], qui sont aussi prévues pour la pratique de la marche à pied ou de la randonnée.
+
 <sup>2</sup> Il analyse l'effet des mesures et communique les résultats sous une forme adéquate.
+
+[^12-1]: RSB [732.11](https://www.belex.sites.be.ch/data/732.11/fr)
 
 ## 3 Sport de compétition
 
