@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 23 novembre 2005 concernente l'igiene nella produz
 short: OIgPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/824"
 language: it
-version: 2020-12-08
+version: 2024-02-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/824/20201208/it/xml/fedlex-data-admin-ch-eli-cc-2005-824-20201208-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20201208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/824/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2005-824-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20201208/it"
 
 (OIgPL)
 
-del 23 novembre 2005 (Stato 8 dicembre 2020) (Stato 8 dicembre 2020)
+del 23 novembre 2005 (Stato 1° febbraio 2024)
 
-Il Dipartimento federale dell’interno (DFI)*[^ingress-1]*,
+Il Dipartimento federale dell’interno (DFI)[^ingress-1],
 
 visto l’articolo 2 dell’ordinanza del 20 ottobre 2010[^ingress-2] sul controllo del latte; visto l’articolo 7 capoverso 1 dell’ordinanza del 23 novembre 2005[^ingress-3] concernente la produzione primaria;[^ingress-4]
 
@@ -178,10 +178,10 @@ Se il latte non soddisfa le esigenze di cui all’articolo 8, i laboratori di pr
 
 <sup>3</sup> Il latte di animali che presentano segni clinici di una malattia delle mammelle può essere utilizzato quale derrata alimentare unicamente secondo le istruzioni di un veterinario.
 
-<sup>4</sup> Il colostro ai sensi dell’articolo 66*a* dell’ordinanza del DFI del 23 novembre 2005[^10-2] sulle derrate alimentari di origine animale, munto nei cinque giorni dopo il parto, può essere commercializzato. Il colostro deve essere separato dal resto del latte e consegnato con la relativa designazione. È vietato mescolare il colostro con il latte. Le esigenze d’igiene per la produzione lattiera valgono analogamente per il colostro.[^10-3]
+<sup>4</sup> ...[^10-2] Il colostro deve essere separato dal resto del latte e consegnato con la relativa designazione. È vietato mescolare il colostro con il latte. Le esigenze d’igiene per la produzione lattiera valgono analogamente per il colostro.[^10-3]
 
 [^10-1]: Abrogata dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2545](https://fedlex.data.admin.ch/eli/oc/2020/465)).
-[^10-2]: [[RU 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801), [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771)n. II, [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201)n. II e III [6037](https://fedlex.data.admin.ch/eli/oc/2008/836)n. II e III, [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282)n. II, [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671), [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837)n. II. [RU 2017 973](https://fedlex.data.admin.ch/eli/oc/2017/152)art. 105]. Vedi ora l’O del 16 dic. 2016 ([RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)).
+[^10-2]: Per. abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 [^10-3]: Introdotto dal n. I dell’O del DFI del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 567](https://fedlex.data.admin.ch/eli/oc/2008/126)).
 
 ## Sezione 5: Produzione del latte
@@ -230,15 +230,17 @@ Se il latte non soddisfa le esigenze di cui all’articolo 8, i laboratori di pr
 
 <sup>3</sup> Se la fornitura ha luogo una volta al giorno, il latte deve essere raffreddato immediatamente dopo la mungitura in modo da raggiungere, entro due ore, una temperatura uguale o inferiore a 8 °C e immagazzinato a detta temperatura.
 
-<sup>4</sup> Se la fornitura avviene ogni due giorni, il latte deve essere raffreddato ad una temperatura uguale o inferiore a 6 °C e immagazzinato a tale temperatura.
+<sup>4</sup> Se la fornitura non avviene ogni giorno, il latte deve essere raffreddato a una temperatura uguale o inferiore a 6 °C e immagazzinato a tale temperatura.[^14-1]
 
 <sup>5</sup> Il produttore deve verificare regolarmente il tempo di raffreddamento e la temperatura d’immagazzinamento. Durante il raffreddamento e l’immagazzinamento non deve verificarsi alcuna alterazione della materia grassa che possa pregiudicare la qualità del latte.
 
-<sup>6</sup> La prima mungitura può essere immagazzinata per 48 ore al massimo prima del trasporto verso l’azienda di trasformazione.
+<sup>6</sup> Nel caso del latte vaccino, la prima mungitura può essere immagazzinata per due giorni civili al massimo prima del trasporto verso l’azienda di trasformazione.[^14-2]
 
-<sup>7</sup> L’addetto alla trasformazione del latte può fissare temperature di raffreddamento diverse per la fabbricazione di formaggi. La temperatura d’immagazzinamento non può però oltrepassare i 18 °C. Non appena la temperatura di immagazzinamento oltrepassa gli 8 °C la trasformazione deve effettuarsi al più tardi 24 ore dopo l’ultima mungitura. La sicurezza alimentare deve essere garantita in ogni momento.[^14-1]
+<sup>7</sup> L’addetto alla trasformazione del latte può fissare temperature di raffreddamento diverse per la fabbricazione di formaggi. La temperatura d’immagazzinamento non può però oltrepassare i 18 °C. Non appena la temperatura di immagazzinamento oltrepassa gli 8 °C la trasformazione deve effettuarsi al più tardi 24 ore dopo l’ultima mungitura.[^14-3]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 567](https://fedlex.data.admin.ch/eli/oc/2008/126)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
+[^14-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 #### Art. 15
 
@@ -266,7 +268,9 @@ Le superfici dei materiali che entrano in contatto con il latte devono essere:
 
 <sup>2</sup> Dopo l’impiego, le superfici devono essere pulite e, se necessario, disinfettate.
 
-<sup>3</sup> Dopo ogni viaggio, o ogni serie di viaggi se il lasso di tempo tra lo scarico e il carico successivo è estremamente contenuto, ma ad ogni modo almeno una volta al giorno, i contenitori e i bidoni usati per il trasporto del latte crudo devono essere puliti e disinfettati prima di una loro riutilizzazione. Non è necessario pulire i recipienti e i bidoni ogni giorno se la fornitura del latte avviene ogni due giorni.
+<sup>3</sup> Dopo ogni viaggio, i contenitori e i bidoni usati per il trasporto del latte crudo devono essere puliti e disinfettati. Se viene fornito latte più volte al giorno e il lasso di tempo tra lo scarico e il carico successivo è estremamente contenuto, è sufficiente una pulizia e una disinfezione giornaliera dopo diversi viaggi.[^16-1]
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 #### Art. 17
 
@@ -367,13 +371,13 @@ L’ordinanza del DFE del 13 aprile 1999[^26-1] sull’assicurazione della quali
 
 La presente ordinanza entra in vigore il 1° gennaio 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 2)
 
 ## Alimenti per animali vietati o il cui impiego è soggetto a restrizioni
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI del 30 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4253](https://fedlex.data.admin.ch/eli/oc/2015/715)) e dalla correzione del 1° ott. 2019 ([RU 2019 3085](https://fedlex.data.admin.ch/eli/oc/2019/564)).
+[^t-1]: Aggiornato dal n. I dell’O del DFI del 30 ott. 2015 ([RU 2015 4253](https://fedlex.data.admin.ch/eli/oc/2015/715)) e dal n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 Al bestiame da latte e agli animali tenuti nelle stalle del bestiame da latte è vietato o, autorizzato con restrizioni, somministrare gli alimenti per animali elencati di seguito.
 
@@ -389,7 +393,6 @@ Al bestiame da latte e agli animali tenuti nelle stalle del bestiame da latte è
 - – semi di crocifere ad eccezione della colza,
 - – semi di ortaggi ad eccezione di piselli proteici, favette e fave di soia,
 - – cascami di ortaggi ad eccezione degli ortaggi di cui al numero 2,
-- – porro, cipolla, aglio e altre *allioideae*,
 - – alimenti che non soddisfano i requisiti dell’ordinanza del 10 giugno 1999[^annex1-lvlu1-lvl1-1] sul libro dei prodotti destinati all’alimentazione degli animali,
 - – alimenti composti non destinati al bestiame da latte.
 
@@ -422,7 +425,7 @@ La somministrazione di siero e di altri sottoprodotti liquidi del latte deve sod
 
 [^annex1-lvlu1-lvl4-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 5)
 

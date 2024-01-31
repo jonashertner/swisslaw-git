@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 23. November 2005 über die Hygiene bei der Milchp
 short: VHyMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/824"
 language: de
-version: 2020-12-08
+version: 2024-02-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/824/20201208/de/xml/fedlex-data-admin-ch-eli-cc-2005-824-20201208-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20201208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/824/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2005-824-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20201208/de"
 
 (VHyMP)
 
-vom 23. November 2005 (Stand am 8. Dezember 2020)
+vom 23. November 2005 (Stand am 1. Februar 2024)
 
-Das Eidgenössische Departement des Innern (EDI)*[^ingress-1]*,
+Das Eidgenössische Departement des Innern (EDI)[^ingress-1],
 
 gestützt auf Artikel 2 der Milchprüfungsverordnung vom 20. Oktober 2010[^ingress-2] und Artikel 7 Absatz 1 der Verordnung vom 23. November 2005[^ingress-3] über die Primärproduktion,[^ingress-4]
 
@@ -177,10 +177,10 @@ Verboten ist das Abliefern folgender Milch:
 
 <sup>3</sup> Milch von Tieren mit klinischen Anzeichen einer Euterkrankheit darf nur nach Anweisung einer Tierärztin oder eines Tierarztes als Lebensmittel verwendet werden.
 
-<sup>4</sup> Kolostrum nach Artikel 66*a* der Verordnung des EDI vom 23. November 2005[^10-2] über Lebensmittel tierischer Herkunft, das bis maximal fünf Tage nach der Geburt gewonnen wurde, darf vermarktet werden. Kolostrum muss getrennt von der übrigen Milch und mit entsprechender Bezeichnung abgegeben werden. Eine Vermischung von Kolostrum mit Milch ist verboten. Die Hygieneanforderungen an die Milchproduktion gelten für Kolostrum sinngemäss.[^10-3]
+<sup>4</sup> ... [^10-2] Kolostrum muss getrennt von der übrigen Milch und mit entsprechender Bezeichnung abgegeben werden. Eine Vermischung von Kolostrum mit Milch ist verboten. Die Hygieneanforderungen an die Milchproduktion gelten für Kolostrum sinngemäss.[^10-3]
 
 [^10-1]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2545](https://fedlex.data.admin.ch/eli/oc/2020/465)).
-[^10-2]: [[AS 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801), [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771), [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201)[6037](https://fedlex.data.admin.ch/eli/oc/2008/836), [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282), [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671), [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837). [AS 2017 973](https://fedlex.data.admin.ch/eli/oc/2017/152)Art. 105]. Siehe heute: V des EDI vom 16. Dez. 2016 ([SR 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)).
+[^10-2]: Satz aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 [^10-3]: Eingefügt durch Ziff. I der V des EDI vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 567](https://fedlex.data.admin.ch/eli/oc/2008/126)).
 
 ## 5. Abschnitt: Milchgewinnung
@@ -229,15 +229,17 @@ Verboten ist das Abliefern folgender Milch:
 
 <sup>3</sup> Wird die Milch täglich einmal geliefert, so muss sie direkt nach dem Melken innerhalb von zwei Stunden auf eine Temperatur von 8 °C oder tiefer abgekühlt und bei dieser Temperatur gelagert werden.
 
-<sup>4</sup> Wird die Milch jeden zweiten Tag geliefert, muss sie weiter auf 6 °C oder tiefer abgekühlt und bei dieser Temperatur gelagert werden.
+<sup>4</sup> Wird die Milch nicht täglich geliefert, so muss sie weiter auf 6 °C oder tiefer abgekühlt und bei dieser Temperatur gelagert werden.[^14-1]
 
 <sup>5</sup> Die Produzentin oder der Produzent hat die Kühlzeit und Lagertemperatur regelmässig zu überprüfen. Während der Kühlung und Lagerung darf keine qualitätsbeeinträchtigende Fettschädigung auftreten.
 
-<sup>6</sup> Das erste Gemelk darf bis zum Abtransport in den Verarbeitungsbetrieb höchstens 48 Stunden gelagert werden.
+<sup>6</sup> Bei Kuhmilch darf das erste Gemelk bis zum Abtransport in den Verarbeitungsbetrieb höchstens zwei Kalendertage gelagert werden.[^14-2]
 
-<sup>7</sup> Die Milchverarbeiterin oder der Milchverarbeiter kann für die Herstellung von Käse abweichende Kühltemperaturen festlegen. Die Lagertemperatur darf jedoch maximal 18 °C betragen. Sofern die Lagertemperatur über 8 °C liegt, muss die Verarbeitung spätestens 24 Stunden nach der Gewinnung des ältesten Gemelkes erfolgen. Die Lebensmittelsicherheit ist jederzeit zu gewährleisten.[^14-1]
+<sup>7</sup> Die Milchverarbeiterin oder der Milchverarbeiter kann für die Herstellung von Käse abweichende Kühltemperaturen festlegen. Die Lagertemperatur darf jedoch maximal 18 °C betragen. Liegt die Lagertemperatur über 8 °C, so muss die Verarbeitung spätestens 24 Stunden nach der Gewinnung des ältesten Gemelks erfolgen.[^14-3]
 
-[^14-1]: Fassung gemäss Ziff. I der V des EDI vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 567](https://fedlex.data.admin.ch/eli/oc/2008/126)).
+[^14-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
+[^14-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
+[^14-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 #### Art. 15
 
@@ -265,7 +267,9 @@ Oberflächen von Materialien, die mit Milch in Berührung kommen, müssen:
 
 <sup>2</sup> Nach Benutzung müssen die Oberflächen gereinigt und erforderlichenfalls desinfiziert werden.
 
-<sup>3</sup> Nach jeder Benutzung oder, bei sehr kurzen Zeitspannen zwischen dem Entleeren und dem Nachfüllen, nach mehreren Benutzungen, auf jeden Fall jedoch einmal pro Arbeitstag, müssen die Behälter und Tanks, die zur Beförderung von Milch verwendet werden, gereinigt und desinfiziert werden, bevor sie erneut verwendet werden. Ausgenommen von der täglichen Reinigung sind Behälter und Tanks bei zweitägigem Ablieferungsintervall.
+<sup>3</sup> Behälter und Tanks, die zur Beförderung von Milch verwendet werden, müssen nach jeder Benutzung gereinigt und desinfiziert werden. Wird Milch mehrmals pro Tag abgeliefert und sind die Zeitspannen zwischen dem Entleeren und dem Nachfüllen sehr kurz, so genügt eine tägliche Reinigung und Desinfektion nach mehreren Benutzungen.[^16-1]
+
+[^16-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 #### Art. 17
 
@@ -366,17 +370,17 @@ Die Verordnung des EVD vom 13. April 1999[^26-1] über die Qualitätssicherung b
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 2)
 
 ## Verbotene oder nur beschränkt einsetzbare Futtermittel
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 30. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4253](https://fedlex.data.admin.ch/eli/oc/2015/715)) und der Berichtigung vom 1. Okt. 2019 ([AS 2019 3085](https://fedlex.data.admin.ch/eli/oc/2019/564)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 30. Okt. 2015 ([AS 2015 4253](https://fedlex.data.admin.ch/eli/oc/2015/715)) und Ziff. II der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 Die folgenden Futtermittel dürfen Milchtieren und Tieren, die in Milchviehställen gehalten werden, nicht oder nur beschränkt verfüttert werden.
 
-1 Verbotene Futtermittel
+### 1 Verbotene Futtermittel
 
 - – Verdorbene Futtermittel
 - – Futter, das sich in Gärung befindet
@@ -388,28 +392,29 @@ Die folgenden Futtermittel dürfen Milchtieren und Tieren, die in Milchviehstäl
 - – Samen von Kreuzblütlern mit Ausnahme von Raps
 - – Samen von Gemüse mit Ausnahme von Proteinerbsen, Ackerbohnen und Sojabohnen
 - – Gemüseabfälle mit Ausnahme der Gemüse nach Ziffer 2
-- – Lauch- und Zwiebelgewächse (*Allioideae*)
-- – Futtermittel, die die Anforderungen der Futtermittelbuch-Verordnung vom 10. Juni 1999[^annex1-lvlu1-1] nicht erfüllen
+- – Futtermittel, die die Anforderungen der Futtermittelbuch-Verordnung vom 10. Juni 1999[^annex1-lvlu1-lvl1-1] nicht erfüllen
 - – Mischfuttermittel, die nicht für Milchtiere bestimmt sind
 
-2 Mengenmässig begrenzt einsetzbare Futtermittel
+[^annex1-lvlu1-lvl1-1]: [[AS 1999 2084](https://fedlex.data.admin.ch/eli/oc/1999/326), [2002 4313](https://fedlex.data.admin.ch/eli/oc/2002/698), [2003 5467](https://fedlex.data.admin.ch/eli/oc/2003/789), [2005 981](https://fedlex.data.admin.ch/eli/oc/2005/108)[6655](https://fedlex.data.admin.ch/eli/oc/2005/822), [2006 5213](https://fedlex.data.admin.ch/eli/oc/2006/790)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. V 21, [2008 3663](https://fedlex.data.admin.ch/eli/oc/2008/477), [2009 2853](https://fedlex.data.admin.ch/eli/oc/2009/374), [2010 381](https://fedlex.data.admin.ch/eli/oc/2010/44)[2511](https://fedlex.data.admin.ch/eli/oc/2010/341). [AS 2011 5699](https://fedlex.data.admin.ch/eli/oc/2011/802)Art. 22]. Siehe heute: die V des WBF vom 26. Okt. 2011 ([SR 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)).
+
+### 2 Mengenmässig begrenzt einsetzbare Futtermittel
 
 - – Kohlrüben, Weissrüben, Zichorienwurzeln: max. 10 kg Frischsubstanz pro Tier und Tag
 - – Kohlblätter, Kohlrübenblätter, Markstammkohl, Raps, Rübsen, Spörgel, Wickgemenge: insgesamt max. <sup>1</sup>/<sub>3</sub> der gesamten Ration (Trockensubstanz)
 - – Lebertran und Lebertranprodukte: max. 50 g pro Tier und Tag
 
-3 Zeitlich begrenzt einsetzbare Futtermittel
+### 3 Zeitlich begrenzt einsetzbare Futtermittel
 
 - – Rübenblattsilage: während der Vegetationsperiode verboten
 
-4 Verfütterung von Schotte und anderen flüssigen Milchnebenprodukten
+### 4 Verfütterung von Schotte und anderen flüssigen Milchnebenprodukten
 
 Bei Verfütterung von Schotte und anderen flüssigen Milchnebenprodukten sind folgende Anforderungen einzuhalten:
 
 - – Die Produkte müssen ausserhalb von Stall und Melkbereich verfüttert werden.
 - – Der Verfütterungsplatz muss befestigt und leicht zu reinigen sein und einen Abfluss in die Güllegrube haben. Bei Sömmerungsbetrieben ist unter Beachtung der Gewässerschutzvorschriften auch eine Versickerung möglich; der Sickerbereich darf für die Tiere nicht zugänglich sein.
 - – Die Tränkeeinrichtung und die Lagerbehälter müssen aus Chromnickel-Stahl oder Kunststoff sein.
-- – Schotte und andere flüssige Milchnebenprodukte sind vor der Verfütterung nach den Vorschriften von Anhang 5 Ziffer 31*a* der Verordnung vom 25. Mai 2011[^annex1-lvlu1-2] über die Entsorgung von tierischen Nebenprodukten zu erhitzen.
+- – Schotte und andere flüssige Milchnebenprodukte sind vor der Verfütterung nach den Vorschriften von Anhang 5 Ziffer 31*a* der Verordnung vom 25. Mai 2011[^annex1-lvlu1-lvl4-1] über die Entsorgung von tierischen Nebenprodukten zu erhitzen.
 - – Milchtransportbehälter dürfen zur Rücknahme, jedoch nicht zur Lagerung von Schotte und anderen flüssigen Milchnebenprodukten verwendet werden. Sie sind unmittelbar nach dem Transport zu reinigen und zu entkeimen.
 - – Die Lager- und übrigen Transportbehälter sind nach der Entleerung zu reinigen und mindestens einmal wöchentlich zu entkeimen.
 - – Die Verfütterung über Selbsttränkeeinrichtungen ist untersagt.
@@ -417,10 +422,9 @@ Bei Verfütterung von Schotte und anderen flüssigen Milchnebenprodukten sind fo
 - – Der Platz, auf dem Schotte oder andere flüssige Milchnebenprodukte verfüttert werden, ist sauber zu halten.
 - – Am Abend des Vortages oder am Morgen bezogene, nicht konservierte Schotte und nicht konservierte andere flüssige Milchnebenprodukte müssen bis spätestens am Mittag (in Sömmerungsbetrieben gleichentags) verfüttert werden.
 
-[^annex1-lvlu1-1]: [[AS 1999 2084](https://fedlex.data.admin.ch/eli/oc/1999/326), [2002 4313](https://fedlex.data.admin.ch/eli/oc/2002/698), [2003 5467](https://fedlex.data.admin.ch/eli/oc/2003/789), [2005 981](https://fedlex.data.admin.ch/eli/oc/2005/108)[6655](https://fedlex.data.admin.ch/eli/oc/2005/822), [2006 5213](https://fedlex.data.admin.ch/eli/oc/2006/790)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. V 21, [2008 3663](https://fedlex.data.admin.ch/eli/oc/2008/477), [2009 2853](https://fedlex.data.admin.ch/eli/oc/2009/374), [2010 381](https://fedlex.data.admin.ch/eli/oc/2010/44)[2511](https://fedlex.data.admin.ch/eli/oc/2010/341). [AS 2011 5699](https://fedlex.data.admin.ch/eli/oc/2011/802)Art. 22]. Siehe heute: die V des WBF vom 26. Okt. 2011 ([SR 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)).
-[^annex1-lvlu1-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^annex1-lvlu1-lvl4-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 5)
 
@@ -430,7 +434,7 @@ Anhang 2*[^t-2]*
 
 Für die Umstellung auf Fütterung ohne Silage gelten nachstehende Anforderungen:
 
-1 Allgemeine Anforderungen
+### 1 Allgemeine Anforderungen
 
 - – Wird die Milch eines Betriebes neu oder wieder zur Herstellung von Käse verwendet, ist die Silagefütterung spätestens vier Wochen vorher einzustellen.
 - – Unmittelbar nach der Umstellung auf silagefreie Fütterung sind Silagebehälter, Futterkrippe und Futtergeräte zu reinigen. Höchstens 18, mindestens jedoch vier Tage vor Aufnahme der Käseproduktion sind Ställe, Stallgeräte und Laufhöfe zu reinigen. Laufställe (auch Liegeboxen) sind vollständig auszumisten.
@@ -438,11 +442,11 @@ Für die Umstellung auf Fütterung ohne Silage gelten nachstehende Anforderungen
 - – Wird Silage auf dem Hofareal gelagert oder auf dem Betrieb an andere Tiere als laktierende Tiere wie Mast-, Jung- und Galtvieh sowie Kleinvieh und Pferde verfüttert, sind die notwendigen Vorkehrungen zu treffen, dass eine Kontamination der Milch mit Buttersäurebakterien oder -sporen ausgeschlossen ist.
 - – Durch Milchsäuregärung haltbar gemachte Futtermittel, Getreide und Körnerleguminosen sowie mit Hilfsstoffen konservierte Raufutter sind einer Silage gleichgestellt, falls sie mehr als 18 Gewichtsprozent Wasser enthalten.
 
-2 Verbotene oder beschränkt einsetzbare Futtermittel
+### 2 Verbotene oder beschränkt einsetzbare Futtermittel
 
 Während der Zeit der Käseproduktion und der vier vorhergehenden Wochen sind die folgende Futtermittel verboten oder nur beschränkt einsetzbar:
 
-2.1 Verbotene Futtermittel
+### 2.1 Verbotene Futtermittel
 
 - – Getrocknete Futtermittel in eingeweichter Form
 - – Kartoffeln gedämpft
@@ -451,33 +455,33 @@ Während der Zeit der Käseproduktion und der vier vorhergehenden Wochen sind di
 - – Silage, nachträglich getrocknet
 - – Zuckerarten und Zuckerwasser als Einzelfuttermittel
 
-2.2 Zeitlich begrenzt einsetzbare Futtermittel
+### 2.2 Zeitlich begrenzt einsetzbare Futtermittel
 
 Kartoffelflocken: Während der Vegetationsperiode ist die Verfütterung direkt in die leere Krippe verboten.
 
-3 Fütterung von Silage an andere Tiere als laktierende Tiere
+### 3 Fütterung von Silage an andere Tiere als laktierende Tiere
 
 Bei Verfütterung von Silage an andere Tiere als laktierende Tiere wie Mast-, Jung- und Galtvieh, an Kleinvieh und Pferde gelten nachstehende Anforderungen:
 
-3.1 Personalhygiene
+### 3.1 Personalhygiene
 
 - – Ausserhalb des Milchviehstalles, im Bereich wo Silage verfüttert wird, ist ein Umkleidebereich mit Handwaschgelegenheit vorhanden.
 - – Separate Kleidung und Schuhwerk sind vorhanden und werden benützt.
 
-3.2 Bauliche Anforderungen
+### 3.2 Bauliche Anforderungen
 
 - – Stall und Futtertenne der Milchtiere sind durch feste Wände (ohne Öffnungen) vom Stall und Fütterungsbereich der Tiere, die Silage erhalten, getrennt.
 - – Die Silagebehälter sind genügend von den Ställen, den Aufenthaltsräumen und den Fütterungsbereichen der Milchkühe entfernt.
 - – Die Bedienungswege des Milchviehbereiches sind vom Bereich derjenigen Tiere, die Silage erhalten, vollständig getrennt.
 - – Die Siloballenlagerplätze sind genügend von den Ställen und den Aufenthalts- und Fütterungsbereichen der Milchtiere entfernt.
 
-3.3 Verhinderung von Kontaminationen durch Silosaft, Mist und Gülle
+### 3.3 Verhinderung von Kontaminationen durch Silosaft, Mist und Gülle
 
 - – Die Silosäfte werden so entsorgt, dass eine Kontamination des Milchviehbereichs mit Buttersäurebakterien ausgeschlossen ist.
 - – Es ist sichergestellt, dass die Entmistung des Stalles der Tiere, die Silage erhalten, keine Kontamination im Milchbereich verursacht.
 - – Es ist sichergestellt, dass keine Gülle von Tieren, die Silage erhalten, in den Bereich des Milchviehstalles fliesst.
 
-3.4 Organisatorische Anforderungen
+### 3.4 Organisatorische Anforderungen
 
 - – Die Laufhöfe der Milchtiere sind genügend von Tieren, die Silage erhalten, getrennt.
 - – Es ist sichergestellt, dass die Zugänge zu den Milchtieren nicht von Tieren, die Silage erhalten, benützt werden.

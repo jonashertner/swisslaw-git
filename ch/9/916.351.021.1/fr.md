@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 23 novembre 2005 réglant l'hygiène dans la produc
 short: OHyPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/824"
 language: fr
-version: 2020-12-08
+version: 2024-02-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/824/20201208/fr/xml/fedlex-data-admin-ch-eli-cc-2005-824-20201208-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20201208/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/824/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-824-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/824/20201208/fr"
 
 (OHyPL)
 
-du 23 novembre 2005 (Etat le 8 décembre 2020)
+du 23 novembre 2005 (État le 1<sup>er</sup> février 2024)
 
-Le Département fédéral de l’intérieur (DFI)*[^ingress-1]*,
+Le Département fédéral de l’intérieur (DFI)[^ingress-1],
 
 vu l’art. 2 de l’ordonnance du 20 octobre 2010 sur le contrôle du lait[^ingress-2], vu l’art. 7, al. 1, de l’ordonnance du 23 novembre 2005 sur la production primaire[^ingress-3],[^ingress-4]
 
@@ -169,7 +169,7 @@ Il est interdit de livrer le lait suivant:
 - e. provenant de mamelles visiblement enflammées et de mamelles positives au test de Schalm;
 - f. provenant d’animaux ayant des blessures ouvertes et purulentes à la mamelle ou à proximité de celle-ci ou d’autres blessures qui peuvent altérer le lait;
 - g. obtenu durant les huit premiers jours suivant le début de la lactation;
-- h.[^10-1] ...
+- h.[^10-1] …
 - i. provenant de vaches dont la production journalière est inférieure à deux litres;
 - j. inapproprié au mode de mise en valeur prévu;
 - k. des premiers jets.
@@ -178,10 +178,10 @@ Il est interdit de livrer le lait suivant:
 
 <sup>3</sup> Le lait provenant d’animaux présentant des signes cliniques de maladie affectant la mamelle ne peut être utilisé pour la consommation humaine si ce n’est conformément aux instructions du vétérinaire.
 
-<sup>4</sup> Le colostrum au sens de l’art. 66*a* de l’ordonnance du DFI du 23 novembre 2005 sur les denrées alimentaires d’origine animale[^10-2], trait au cours des cinq premiers jours au plus suivant la mise bas, peut être commercialisé. Le colostrum doit être séparé de l’autre lait et identifié en tant que tel pour pouvoir être livré. Il est interdit de mélanger le colostrum au lait. Les prescriptions d’hygiène en matière de production laitière s’appliquent par analogie.[^10-3]
+<sup>4</sup> …[^10-2] Le colostrum doit être séparé de l’autre lait et identifié en tant que tel pour pouvoir être livré. Il est interdit de mélanger le colostrum au lait. Les prescriptions d’hygiène en matière de production laitière s’appliquent par analogie.[^10-3]
 
 [^10-1]: Abrogée par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2545](https://fedlex.data.admin.ch/eli/oc/2020/465)).
-[^10-2]: [[RO 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801), [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771), [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201)[6037](https://fedlex.data.admin.ch/eli/oc/2008/836), [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282), [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671), [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837). [RO 2017 973](https://fedlex.data.admin.ch/eli/oc/2017/152)art. 105]. Voir actuellement l’O du DFI du 16 décembre 2016 ([RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)).
+[^10-2]: Phrase abrogée par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 [^10-3]: Introduit par le ch. I de l’O du DFI du 13 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 567](https://fedlex.data.admin.ch/eli/oc/2008/126)).
 
 ## Section 5 Production de lait
@@ -230,15 +230,17 @@ Il est interdit de livrer le lait suivant:
 
 <sup>3</sup> Si le lait est livré une fois par jour, il doit être ramené dans les deux heures qui suivent la traite à une température de 8 °C ou inférieure et être entreposé à cette température.
 
-<sup>4</sup> Si le lait est livré tous les deux jours, il doit être refroidi une seconde fois à une température de 6°C ou moins et être entreposé à cette température.
+<sup>4</sup> Si le lait n’est pas livré tous les jours, il doit être refroidi à une température de 6 °C ou moins et être entreposé à cette température.[^14-1]
 
 <sup>5</sup> Le producteur doit vérifier régulièrement la durée de refroidissement et la température d’entreposage. Durant le refroidissement et l’entreposage, aucune altération de la matière grasse préjudiciable à la qualité du lait ne doit se produire.
 
-<sup>6</sup> La première traite peut être entreposée pendant 48 heures au maximum jusqu’à son acheminement vers l’établissement de transformation.
+<sup>6</sup> Lorsqu’il s’agit de lait de vache, la première traite peut être entreposée pendant deux jours calendaires au maximum jusqu’à son acheminement vers l’établissement de transformation.[^14-2]
 
-<sup>7</sup> Pour la fabrication de fromages, le transformateur de lait peut fixer d’autres températures de refroidissement. La température d’entreposage ne peut cependant dépasser 18 °C. Si elle dépasse 8 °C, le lait doit être transformé au plus tard 24 heures après la traite la plus ancienne. La sécurité alimentaire doit être garantie à tout moment.[^14-1]
+<sup>7</sup> Pour la fabrication de fromages, le transformateur de lait peut fixer d’autres températures de refroidissement. La température d’entreposage ne peut cependant dépasser 18 °C. Si elle dépasse 8 °C, le lait doit être transformé au plus tard 24 heures après la traite la plus ancienne.[^14-3]
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 567](https://fedlex.data.admin.ch/eli/oc/2008/126)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
+[^14-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 #### Art. 15
 
@@ -266,7 +268,9 @@ Les surfaces des équipements destinés à entrer en contact avec le lait doiven
 
 <sup>2</sup> Après utilisation, ces surfaces doivent être nettoyées et, au besoin, désinfectées.
 
-<sup>3</sup> Après chaque transport, ou chaque série de transports lorsque l’intervalle séparant le déchargement du chargement suivant est de très courte durée, mais dans tous les cas au moins une fois par jour, les récipients et citernes utilisés pour le transport du lait doivent être nettoyés et désinfectés avant d’être réutilisés. Le nettoyage quotidien n’est pas applicable aux récipients et citernes utilisés pour livrer le lait à intervalle de deux jours.
+<sup>3</sup> Les récipients et citernes utilisés pour le transport du lait doivent être nettoyés et désinfectés après chaque utilisation. S’ils sont utilisés plusieurs fois le même jour pour livrer le lait et que l’intervalle séparant le déchargement du chargement suivant est de très courte durée, un nettoyage et une désinfection quotidiens suffisent.[^16-1]
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 #### Art. 17
 
@@ -317,7 +321,7 @@ Les producteurs doivent veiller à ce que les installations de traite fonctionne
 
 <sup>1</sup> Les locaux de stabulation et les aires extérieures doivent être aménagés de manière à assurer à l’animal de bonnes conditions de vie, de propreté et de santé. Les lieux de traite doivent être conçus de façon à garantir la propreté et l’hygiène de la traite.
 
-- [tab] <sup>2</sup> Les sols des espaces d’attente et des lieux de traite doivent être pourvus d’un revêtement stable.
+<sup>2</sup> Les sols des espaces d’attente et des lieux de traite doivent être pourvus d’un revêtement stable.
 
 #### Art. 23
 
@@ -359,7 +363,7 @@ Si le lait est entreposé dans une citerne fermée, cette dernière doit être s
 
 L’ordonnance du DFE du 13 avril 1999 réglant l’assurance de la qualité dans l’exploitation de production laitière[^26-1] est abrogée.
 
-[^26-1]: [[RO 1999 1930](https://fedlex.data.admin.ch/eli/oc/1999/312), [2000 2707](https://fedlex.data.admin.ch/eli/oc/2000/448), [2003 343](https://fedlex.data.admin.ch/eli/oc/2003/65), [2004 4093](https://fedlex.data.admin.ch/eli/oc/2004/595)]
+[^26-1]: [[RO 1999 1930](https://fedlex.data.admin.ch/eli/oc/1999/312); [2000 2707](https://fedlex.data.admin.ch/eli/oc/2000/448); [2003 343](https://fedlex.data.admin.ch/eli/oc/2003/65); [2004 4093](https://fedlex.data.admin.ch/eli/oc/2004/595)]
 
 #### Art. 27
 
@@ -367,13 +371,13 @@ L’ordonnance du DFE du 13 avril 1999 réglant l’assurance de la qualité dan
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2006.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4, al. 2)
 
 ## Fourrages interdits ou dont l’utilisation doit être restreinte
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFI du 30 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4253](https://fedlex.data.admin.ch/eli/oc/2015/715)). Erratum du 1<sup>er</sup> oct. 2019 ([RO 2019 3085](https://fedlex.data.admin.ch/eli/oc/2019/564)).
+[^t-1]: Mise à jour par le ch. I de l’O du DFI du 30 oct. 2015 ([RO 2015 4253](https://fedlex.data.admin.ch/eli/oc/2015/715)) et le ch. II de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 832](https://fedlex.data.admin.ch/eli/oc/2023/832)).
 
 La distribution des fourrages ci-dessous aux animaux laitiers et aux animaux détenus dans les étables abritant du bétail laitier est interdite ou soumise à certaines restrictions.
 
@@ -389,7 +393,6 @@ La distribution des fourrages ci-dessous aux animaux laitiers et aux animaux dé
 - – Graines de crucifères à l’exception du colza
 - – Graines de légumes à l’exception des pois protéagineux, de la féverole et du soja
 - – Déchets de légumes à l’exception des légumes visés au ch. 2
-- – Poireaux, oignon, ail et autres *Allioideae*
 - – Fourrages ne répondant pas aux exigences de l’ordonnance du 10 juin 1999 sur le Livre des aliments pour animaux[^annex1-lvlu1-lvl1-1]
 - – Fourrages composés qui ne sont pas destinés aux animaux laitiers.
 
@@ -422,7 +425,7 @@ En cas d’affouragement de petit-lait et d’autres sous-produits laitiers, il 
 
 [^annex1-lvlu1-lvl4-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 5)
 
