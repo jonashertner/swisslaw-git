@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d'o
 short: ODAlAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: fr
-version: 2022-03-15
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2017-152-20220315-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-152-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/fr"
 
 (ODAlAn)
 
-du 16 décembre 2016 (Etat le 15 mars 2022)
+du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -77,7 +77,9 @@ Seules sont admises pour la production de denrées alimentaires les espèces ani
 - j. les crustacés;
 - k. les mollusques;
 - l. les poissons, à l’exception des poissons venimeux appartenant aux familles des poissons-ballons *(Tetraodontidae)*, des poissons-lunes *(Molidae)*, des poissons porcs-épics *(Diodontidae)* et des compères *(Canthigasteridae)*;
-- m. les grenouilles *(Rana* spp.*).*
+- m.[^2-1] les grenouilles.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 ## Chapitre 2 Exigences relatives aux denrées alimentaires d’origine animale congelées
 
@@ -236,13 +238,14 @@ La dénomination spécifique de la viande, des préparations de viande et des pr
 
 <sup>2</sup> Si un produit ne peut être classé dans l’un des groupes de produits mentionnés à l’al. 1, let. b, on indique à défaut la technologie de fabrication ou la nature du traitement.
 
-<sup>3</sup> Dans la dénomination spécifique des préparations de viande et des produits à base de viande, on indique les ingrédients non carnés qui ne sont pas usuels.
+<sup>3</sup> ...[^9-1]
 
-<sup>4</sup> À la place de la dénomination spécifique visée à l’al. 1, on admet les dénominations suivantes pour les produits à base de viande et les préparations de viande cités ci-après: boudin, boudin à la crème, viande des Grisons, cervelas, fromage d’Italie (paysan ou deli), saucisse à rôtir de veau, gendarme, saucisse au foie, saucisse de Lyon, mortadelle, lard cru, jambon cru, salami (*Milano*, *Nostrano*, *Varzi*), jambon (paysan, de derrière cuit, cuit à l’os, modèle), schüblig, saucisse à rôtir de porc, viande séchée du Tessin, viande séchée du Valais, saucisse de Vienne.[^9-1]
+<sup>4</sup> À la place de la dénomination spécifique visée à l’al. 1, on admet les dénominations suivantes pour les produits à base de viande et les préparations de viande cités ci-après: boudin, boudin à la crème, viande des Grisons, cervelas, fromage d’Italie (paysan ou deli), saucisse à rôtir de veau, gendarme, saucisse au foie, saucisse de Lyon, mortadelle, lard cru, jambon cru, salami (*Milano*, *Nostrano*, *Varzi*), jambon (paysan, de derrière cuit, cuit à l’os, modèle), schüblig, saucisse à rôtir de porc, viande séchée du Tessin, viande séchée du Valais, saucisse de Vienne.[^9-2]
 
 <sup>5</sup> La mention de l’espèce animale n’est pas nécessaire dans le cas des produits à base de viande et des préparations de viande composés exclusivement de viande de bœuf ou de porc ainsi que dans le cas des dénominations usuelles visées à l’al. 4. Si la dénomination spécifique mentionne l’une de ces deux espèces d’animaux, la part de viande de l’espèce mentionnée doit être supérieure à 50 % de la masse de la viande incorporée dans le produit.
 
-[^9-1]: Erratum du 26 fév. 2019 ([RO 2019 761](https://fedlex.data.admin.ch/eli/oc/2019/134)).
+[^9-1]: Abrogé par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^9-2]: Erratum du 26 fév. 2019 ([RO 2019 761](https://fedlex.data.admin.ch/eli/oc/2019/134)).
 
 #### Art. 10
 
@@ -375,7 +378,7 @@ Les centres de collecte et tanneries peuvent fournir de la matière première sa
 
 - a. ils doivent disposer de sols durs et de parois lisses qui soient faciles à nettoyer et à désinfecter, et, le cas échéant, ils doivent disposer d’installations de réfrigération;
 - b. ils doivent être maintenus dans un état de propreté et d’entretien adéquat, de manière à éviter toute contamination des matières premières;
-- d. si des matières premières non conformes aux critères des al. 1 à 8 sont stockées ou transformées dans ces locaux, elles doivent être maintenues séparées, pendant toute la période de réception, stockage, transformation et expédition, des matières premières conformes aux critères des al. 1 à 8.
+- c. si des matières premières non conformes aux critères des al. 1 à 8 sont stockées ou transformées dans ces locaux, elles doivent être maintenues séparées, pendant toute la période de réception, stockage, transformation et expédition, des matières premières conformes aux critères des al. 1 à 8.
 
 <sup>10</sup> La gélatine alimentaire doit présenter une teneur en protéines égale ou supérieure à 84 % masse.
 
@@ -473,16 +476,15 @@ Par *produits de la pêche*, on entend:
 
 #### Art. 18
 
-**Dénomination spécifique**
-
-<sup>1</sup>
+**Dénomination spécifique**[^18-1]
 
 La dénomination spécifique des produits de la pêche doit comprendre:
 
-- a. la mention de l’espèce animale, en donnant son nom commun et son nom scientifique;
+- a. la mention de l’espèce animale, en donnant son nom commun et son nom scientifique pour les produits visés à l’annexe I, let. a à c, du règlement (UE) n° 1379/2013[^18-2];
 - b. la dénomination «produit de la pêche» ou une dénomination conforme à l’usage professionnel.
 
-<sup>2</sup> Dans la dénomination spécifique des produits de la pêche, on doit indiquer en sus les ingrédients autres que le poisson qui ne sont pas usuels.
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^18-2]: Règlement (UE) n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n<sup>o</sup> 1184/2006 et, (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n<sup>o</sup> 104/2000 du Conseil, JO L 354 du 28.12.2013, p. 1; modifié en dernier lieu par le règlement (UE) 2020/560, JO L 130 du 23.4.2020, p. 11
 
 #### Art. 19
 
@@ -490,7 +492,7 @@ La dénomination spécifique des produits de la pêche doit comprendre:
 
 <sup>1</sup>
 
-L’étiquetage des produits définis à l’annexe I, lettres a à c du règlement (UE) n° 1379/2013[^19-1] doit comporter les indications suivantes en plus des indications requises prévues à l’art. 3 OIDAl[^19-2]:[^19-3]
+L’étiquetage des produits définis à l’annexe I, let. a à c, du règlement (UE) n° 1379/2013[^19-1] doit comporter les indications suivantes en plus des mentions obligatoires visées à l’art. 3 OIDAl[^19-2]:[^19-3]
 
 - a. la méthode de production, notamment par les intitulés suivants: «... pêché ...» ou «... pêché en eaux douces ...» ou «... élevé ...»;
 - b.[^19-4] la catégorie d’engins de pêche utilisés pour la capture en mer ou en eau douce, selon l’annexe 3.
@@ -518,9 +520,9 @@ Les produits de la pêche frais, préparés, surgelés ou transformés issus de 
 
 <sup>7</sup> ...[^19-6]
 
-[^19-1]: Règlement (UE) n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n° 1184/2006 et, (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil, JO L 354 du 28.12.2013, p. 1; modifié en dernier lieu par le règlement (UE) n° 2015/812, JO L 133 du 29.5.2015, p. 1.
+[^19-1]: Cf. note de bas de page relative à l’art. 18, let. a.
 [^19-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^19-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^19-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 [^19-5]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 [^19-6]: Abrogé par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
@@ -551,18 +553,39 @@ Les produits de la pêche non transformés appartenant aux catégories d’espè
 
 Sont admis comme des denrées alimentaires les gastéropodes terrestres des espèces suivantes:
 
-- a. *Helix pomatia Linné;*
-- b*.* *Helix aspersa Müller;*
-- c*.* *Helix lucorum;*
-- d. famille des achatinidés.
+- a. *Helix pomatia Linné*;
+- b*.* *Helix aspersa Müller*;
+- c*.* *Helix lucorum*;
+- d.[^21-1] famille des achatinidés *(Achatinidae)*;
+- e.[^21-2] famille des hélicidés *(Helicidae)*;
+- f.[^21-3] famille des hygromidés *(Hygromiidae)*;
+- g.[^21-4] famille des sphincterochilidés *(Sphincterochilidae)*.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-2]: Introduite par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-3]: Introduite par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-4]: Introduite par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+
+#### Art. 21a
+
+**Genres de grenouilles admis**[^21a-1]
+
+Sont admises comme des denrées alimentaires les grenouilles des genres suivants:
+
+- a. genres *Rana* et *Pelophylax* de la famille des *Ranidae*;
+- b. genres Fejervarya, Limmonectes et Hoplobatrachus de la famille des Dicroglossidae.
+
+[^21a-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 22
 
 **Cuisses de grenouille**
 
-<sup>1</sup> Par *cuisses de grenouille*, on entend les parties postérieures du corps des espèces *Rana* (famille des *Ranidae*).
+<sup>1</sup> Par *cuisses de grenouille*, on entend les parties postérieures du corps des grenouilles appartenant aux genres visés à l’art. 21*a*.[^22-1]
 
 <sup>2</sup> Elles doivent être sectionnées transversalement en arrière des membres antérieurs, éviscérées et dépouillées.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 23
 
@@ -766,7 +789,7 @@ Le lait entier de vache doit:
 
 **Indications complémentaires pour le lait prêt à la consommation**
 
-Pour le lait prêt à la consommation, les indications requises à l’art. 3 OIDAl[^37-1] doivent être complétées par les mentions suivantes:
+Pour le lait prêt à la consommation, les mentions obligatoires visées[^37-1] à l’art. 3 OIDAl[^37-2] doivent être complétées par les mentions suivantes:
 
 - a. tous les types de traitement destinés à prolonger la durée de conservation et à augmenter la sécurité hygiénique et microbiologique; les abréviations du type «Past», «Pasteurisation haute», «UHT» ou «stérilisé» sont admises; en cas d’utilisation supplémentaire de procédés de filtration ou de séparation, les termes «filtré» ou «séparé» doivent être indiqués;
 - b. la teneur en matière grasse en «grammes par kilogramme» ou en pour-cent («%»); dans le cas du lait entier au sens de l’art. 33, al. 1, let. a, l’indication de la teneur minimale en matière grasse est admise; l’indication doit être mentionnée à proximité de la dénomination spécifique;
@@ -775,7 +798,8 @@ Pour le lait prêt à la consommation, les indications requises à l’art. 3 OI
 - e. l’indication «Conserver à l’abri de la lumière» pour le lait pasteurisé et le lait pasteurisé à haute température;
 - f. l’indication «homogénéisé» lorsque le lait a été soumis à une homogénéisation.
 
-[^37-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^37-1]: Nouvelle expression selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)). Il a été tenu compte de cette mod. dans tout le texte.
+[^37-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 #### Art. 38
 
@@ -783,7 +807,7 @@ Pour le lait prêt à la consommation, les indications requises à l’art. 3 OI
 
 <sup>1</sup>
 
-Lorsque le lait cru est remis préemballé, les indications requises à l’art. 3 OIDAl[^38-1] doivent être complétées par les mentions suivantes:
+Lorsque le lait cru est remis préemballé, les mentions obligatoires visées à l’art. 3 OIDAl[^38-1] doivent être complétées par les mentions suivantes:
 
 - a. l’indication de la température de stockage;
 - b. l’indication qu’il s’agit de lait cru qui doit être porté à une température supérieure ou égale à 70 °C avant d’être consommé;
@@ -801,9 +825,11 @@ Lorsque le lait cru est remis préemballé, les indications requises à l’art.
 
 **Définition**
 
-<sup>1</sup> Les *produits laitiers* sont des produits obtenus par transformation du lait ou par transformation ultérieure de produits laitiers et qui peuvent contenir des ingrédients et des additifs spécifiques selon les processus de transformation et les produits.
+<sup>1</sup> Les *produits laitiers* sont des produits obtenus par transformation du lait ou par transformation ultérieure de produits laitiers et qui peuvent contenir des ingrédients spécifiques selon les processus de transformation et les produits.[^39-1]
 
 <sup>2</sup> Les dispositions propres à chaque produit sont réservées.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 40
 
@@ -817,7 +843,7 @@ Les produits laitiers peuvent contenir au maximum 300 g d’ingrédients non lac
 
 <sup>1</sup>
 
-Pour les produits laitiers, les indications requises à l’art. 3 OIDAl[^41-1] doivent être complétées par les mentions suivantes:
+Pour les produits laitiers, les mentions obligatoires visées à l’art. 3 OIDAl[^41-1] doivent être complétées par les mentions suivantes:
 
 - a.[^41-2] la teneur en matière grasse en «grammes par kilogramme», en «grammes par 100 grammes» ou en pour-cent («%») de la partie lactique;
 - b. la nature du traitement par la chaleur.
@@ -919,38 +945,36 @@ Le kéfir est obtenu par fermentation de lait. À la fermentation lactique s’a
 
 <sup>3</sup> Le *fromage affiné* est un fromage réputé prêt à la consommation uniquement après avoir été affiné durant un temps déterminé et dans des conditions définies; sont notamment réputés tels les fromages à croûte fleurie, lavée ou sèche ou affinés sans croûte.
 
-<sup>4</sup> Outre les auxiliaires technologiques, seuls les composants du lait peuvent être ajoutés lors de la fabrication du fromage affiné.
+<sup>4</sup> ...[^50-1]
+
+[^50-1]: Abrogé par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 51
 
-**Auxiliaires technologiques et procédés**
+**Fabrication et traitement du fromage**[^51-1]
 
 <sup>1</sup>
 
-Sont admis pour la fabrication du fromage:
+Outre les composants visés à l’art. 50, al. 1, et les autres composants du lait, seuls peuvent être utilisés lors de la fabrication du fromage:
 
-- a. les cultures inoffensives de bactéries lactiques et de bactéries aromatisantes, y compris les cultures spéciales, les levures et les moisissures;
-- b. les auxiliaires technologiques selon l’art. 24 ODAlOUs et le sel comestible.
+- a. les cultures de bactéries lactiques et de bactéries aromatisantes, y compris les cultures spéciales, les levures et les moisissures;
+- b. les auxiliaires technologiques et le sel comestible ainsi que le sel comestible iodé;
+- c. les épices, les fines herbes et les champignons comestibles, ainsi que les préparations aromatisantes correspondantes.
 
 <sup>2</sup>
 
-Sont admis pour conférer une certaine sapidité:
+Peuvent être utilisés pour le traitement du fromage, en plus des substances énumérées à l’al. 1:
 
-- a. le traitement de la surface du fromage avec des spiritueux au sens des art. 122 à 149 de l’ordonnance du DFI du 16 décembre 2016 sur les boissons[^51-1], ainsi qu’avec du vin, du cidre ou du vinaigre;
-- b. le fumage;
-- c. l’adjonction d’épices, d’extraits d’épices et d’autres ingrédients conférant une certaine sapidité, tels que drêches de brasserie, marc de raisin, marc de fruits.
-
-<sup>3</sup>
-
-Sont admis pour les soins des fromages:
-
-- a. le frottage à l’aide d’une solution de frottage, avec addition éventuelle de sel, de petit-lait entier, de yogourt nature, de moût, de vin ou d’une décoction d’herbes;
-- b. le lavage à l’eau, à l’eau salée, au lactosérum ou au petit-lait;
+- a. l’eau;
+- b. le petit-lait au sens de l’art. 79 et le yogourt;
 - c. les huiles végétales;
-- d. le petit-lait écrémé acidifié et le petit-lait acidifié ou recuite;
-- e. le traitement mécanique à l’aide de brosses ou de chiffons.
+- d. les spiritueux au sens des art. 122 à 149 de l’ordonnance du DFI du 16 décembre 2016 sur les boissons[^51-2], ainsi que le vin, le cidre, le moût, la bière ou le vinaigre;
+- e. les drêches de brasserie, marc de raisin, marc de fruits.
 
-[^51-1]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+<sup>3</sup> Est également admis pour conférer une certaine sapidité le procédé du fumage.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^51-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
 
 #### Art. 52
 
@@ -971,13 +995,15 @@ Sont admis pour les soins des fromages:
 <sup>2</sup> Pour le fromage affiné, on distingue, selon la teneur en eau du fromage dégraissé (tefd), les catégories de consistance suivantes:
 
 <table>
-<tr><td>a. à pâte extra-dure</td><td>jusqu’à 500 g/kg;</td></tr>
-<tr><td>b. à pâte dure</td><td>de plus de 500 et jusqu’à 540 g/kg;</td></tr>
-<tr><td>c. à pâte mi-dure</td><td>de plus de 540 et jusqu’à 650 g/kg;</td></tr>
-<tr><td>d. à pâte molle</td><td>plus de 650 g/kg.</td></tr>
+<tr><td>a. pâte extra-dure</td><td>jusqu’à 500 g/kg;</td></tr>
+<tr><td>b. pâte dure</td><td>de plus de 480 et jusqu’à 540 g/kg;</td></tr>
+<tr><td>c. pâte mi-dure</td><td>de plus de 510 et jusqu’à 650 g/kg;</td></tr>
+<tr><td>d. pâte molle</td><td>plus de 630 g/kg.[^52-1]</td></tr>
 </table>
 
 <sup>3</sup> Pour le fromage non affiné ou fromage frais, la tefd ne doit pas dépasser 880 g/kg. Pour le caillé de fromage frais, elle doit être supérieure à 880 g/kg, mais ne pas dépasser 890 g/kg.
+
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 53
 
@@ -987,16 +1013,16 @@ Sont admis pour les soins des fromages:
 
 <sup>2</sup>
 
-Les indications requises à l’art. 3 OIDAl[^53-2] doivent être complétées par les informations suivantes:
+Les mentions obligatoires visées à l’art. 3 OIDAl[^53-2] doivent être complétées par les informations suivantes:[^53-3]
 
-- a. les ingrédients ou les procédés ayant servi à conférer une certaine sapidité: épices, herbes aromatiques, fumage, spiritueux ou autres ingrédients;
+- a.[^53-4] l’utilisation d’ingrédients visés à l’art. 51, al. 1, let. c, et des substances visées à l’art. 51, al. 2, let. d et e, ainsi que le fumage;
 - b. en cas d’utilisation de babeurre: le pourcentage de babeurre en pour-cent masse;
 - c. pour le fromage affiné: la catégorie de consistance selon l’art. 52, al. 2;
 - d. l’indication «au lait cru» si du lait utilisé pour la fabrication du fromage répond à la définition du lait cru au sens de l’art. 32, al. 2, et si le processus de fabrication ne comporte pas de traitement par la chaleur ni de traitement physique ou chimique.
 
 <sup>3</sup> L’indication «à base de lait thermisé» peut être utilisée si le lait utilisé pour la fabrication du fromage a été chauffé pendant au moins 15 secondes à une température supérieure à 40 °C et inférieure à 72 °C et s’il présente une réaction positive au test de la phosphatase.
 
-<sup>4</sup> L’indication «pasteurisé» ou «à base de lait pasteurisé» peut être utilisée si, à un moment donné du processus de fabrication, le lait ou la masse mise en œuvre pour la fabrication du fromage a subi un traitement par la chaleur au sens de l’art. 49, al. 1, let. a, OHyg[^53-3].
+<sup>4</sup> L’indication «pasteurisé» ou «à base de lait pasteurisé» peut être utilisée si, à un moment donné du processus de fabrication, le lait ou la masse mise en œuvre pour la fabrication du fromage a subi un traitement par la chaleur au sens de l’art. 49, al. 1, let. a, OHyg[^53-5].
 
 <sup>5</sup> Si la totalité du lait utilisé pour la fabrication du fromage est du lait cru au sens de l’art. 32, al. 2, il est possible de le mentionner de manière appropriée, par dérogation à l’al. 2, let. d.
 
@@ -1011,7 +1037,9 @@ Si du fromage de chèvre ou de brebis n’a pas été obtenu exclusivement à pa
 
 [^53-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^53-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^53-3]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^53-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^53-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^53-5]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 
 #### Art. 54
 
@@ -1128,7 +1156,7 @@ L’extrait sec doit être:
 
 - a. pour la fonte de fromage à pâte extra-dure ou à pâte dure: égal ou supérieur à 500 g/kg;
 - b. pour la fonte de fromage à pâte mi-dure: égal ou supérieur à 450 g/kg;
-- b. pour la fonte de fromage à pâte molle: égal ou supérieur à 350 g/kg;
+- c. pour la fonte de fromage à pâte molle: égal ou supérieur à 350 g/kg;
 
 <sup>5</sup>
 
@@ -1258,7 +1286,7 @@ Les catégories de teneurs en matière grasse de la crème sont les suivantes:
 
 <sup>2</sup>
 
-Lorsque la crème crue est remise préemballée, les indications requises à l’art. 3 OIDAl[^71-1] doivent être complétées par les mentions suivantes:
+Lorsque la crème crue est remise préemballée, les mentions obligatoires visées à l’art. 3 OIDAl[^71-1] doivent être complétées par les mentions suivantes:
 
 - a. l’indication de la température de stockage;
 - b. l’indication qu’il s’agit de crème crue et qu’elle n’est pas prête à la consommation;
@@ -1337,7 +1365,7 @@ Les dénominations spécifiques suivantes doivent être utilisées:
 
 <sup>2</sup> La dénomination spécifique des matières grasses laitières à tartiner doit être complétée par l’indication en pour-cent de la teneur en matière grasse.
 
-<sup>3</sup> Les dénominations spécifiques du beurre et des matières grasses laitières à tartiner doivent être complétées par l’indication «non pasteurisé(e)» si ces produits ont été fabriqués à partir de matières premières ou d’ingrédients non soumis à un traitement par la chaleur.
+<sup>3</sup> Les dénominations spécifiques du beurre et des matières grasses laitières à tartiner doivent être complétées par l’indication «non pasteurisé(e)» si ces produits ont été fabriqués à partir de matières premières ou d’ingrédients qui n’ont pas été soumis à un traitement par la chaleur au sens de l’art. 26, al. 2 et 3, OHyg[^75-1].[^75-2]
 
 <sup>4</sup> Le beurre visé à l’art. 73, al. 1, let. a, peut aussi être dénommé «beurre de crème de lait», «beurre de crème douce» ou «beurre acidifié» s’il est obtenu à partir des matières premières correspondantes. La dénomination «beurre de crème de petit-lait» peut être employée si le beurre est obtenu à partir d’un mélange de crème de lait et de crème de petit-lait.
 
@@ -1346,6 +1374,9 @@ Les dénominations spécifiques suivantes doivent être utilisées:
 <sup>6</sup> Pour la fabrication de denrées alimentaires dont la dénomination spécifique comprend le terme beurre, comme les «biscuits au beurre» ou la «margarine au beurre», tous les types de beurres peuvent être employés comme ingrédients selon l’al. 1, let. a à c.
 
 <sup>7</sup> Le beurre trois-quarts gras peut aussi être dénommé «beurre à teneur réduite en matière grasse» et le beurre demi-gras «beurre léger» ou «beurre light».
+
+[^75-1]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^75-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 76
 
@@ -1571,7 +1602,7 @@ Lors du contrôle visuel d’un lot d’œufs destinés à être remis au consom
 
 <sup>1</sup>
 
-Si les œufs sont remis préemballés, les indications requises à l’art. 3 OIDAl[^92-1] doivent être complétées par:
+Si les œufs sont remis préemballés, les mentions obligatoires visées à l’art. 3 OIDAl[^92-1] doivent être complétées par:
 
 - a. une mention de la température de conservation, si le produit est remis au consommateur à l’état réfrigéré;
 - b. le nombre d’œufs et le poids net ou le nombre d’œufs et le poids minimum par œuf en grammes.
@@ -1589,14 +1620,16 @@ Si les œufs sont remis préemballés, les indications requises à l’art. 3 OI
 
 **Ovoproduits**
 
-Les indications requises à l’art. 3 OIDAl[^93-1] doivent être complétées par les informations suivantes:
+Les mentions obligatoires visées à l’art. 3 OIDAl[^93-1] doivent être complétées par les informations suivantes:[^93-2]
 
 - a. pour les ovoproduits qui ne sont pas destinés à la vente au détail, mais à être utilisés comme ingrédients dans la fabrication d’un autre produit: par la température à laquelle les ovoproduits doivent être conservés et la durée de leur conservation à cette température;
 - b. lorsque d’autres denrées alimentaires sont ajoutées aux ovoproduits: par la teneur en œuf, en pour-cent masse, rapportée au produit fini;
-- c. pour les œufs liquides selon l’art 57, al. 7, OHyg[^93-2]: en sus de l’indication requise à la let. b, par la mention «œufs liquides non pasteurisés – à traiter sur le lieu de destination» et par la date et l’heure auxquelles les œufs ont été cassés.
+- c.[^93-3] pour les œufs liquides selon l’art 57, al. 7, OHyg[^93-4]: en sus de l’indication requise à la let. a, par la mention «œufs liquides non pasteurisés – à traiter sur le lieu de destination» et par la date et l’heure auxquelles les œufs ont été cassés.
 
 [^93-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^93-2]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^93-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^93-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^93-4]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 
 #### Art. 94
 
@@ -1660,7 +1693,7 @@ Les dénominations spécifiques mentionnées ci-après peuvent être utilisées 
 
 <sup>2</sup> Le miel en rayons et le miel avec morceaux de rayons doivent être désignés comme tels.
 
-<sup>3</sup> Le miel présentant un goût ou une odeur étrangers, qui a commencé à fermenter ou à être effervescent, ou qui a été chauffé excessivement, doit être désigné comme «miel de pâtisserie» ou «miel industriel». Il convient d’ajouter à la dénomination spécifique la mention «destiné exclusivement à la cuisson».
+<sup>3</sup> Le miel présentant un goût ou une odeur étrangers, qui a commencé à fermenter ou à être effervescent, ou qui a été chauffé excessivement, doit être désigné comme «miel de pâtisserie» ou «miel industriel». La mention «destiné exclusivement à la cuisson» doit être associée à la dénomination spécifique.[^98-1]
 
 <sup>4</sup> Pour le miel de pâtisserie non destiné à la vente au consommateur, la dénomination spécifique complète selon l’al. 3 doit être indiquée sur les conteneurs réservés au transport, les emballages et dans les documents commerciaux.
 
@@ -1669,9 +1702,10 @@ Les dénominations spécifiques mentionnées ci-après peuvent être utilisées 
 La dénomination spécifique, excepté pour le miel de pâtisserie et le miel industriel, peut être complétée:
 
 - a. par l’indication de l’origine florale ou végétale, si le miel provient principalement de l’origine indiquée et s’il en possède les caractéristiques organoleptiques, physico-chimiques et microscopiques;
-- b. par un nom régional, territorial ou topographique, si le miel provient de l’origine indiquée; les dispositions de l’ordonnance du 28 mai 1997 sur les AOP et les IGP[^98-1] sont réservées.
+- b. par un nom régional, territorial ou topographique, si le miel provient de l’origine indiquée; les dispositions de l’ordonnance du 28 mai 1997 sur les AOP et les IGP[^98-2] sont réservées.
 
-[^98-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
+[^98-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^98-2]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 
 ### Section 2 Gelée royale
 
@@ -1729,7 +1763,7 @@ La teneur en eau du pollen de fleurs déshydraté ne doit pas excéder 8 % masse
 
 L’ordonnance du DFI du 23 novembre 2005 sur les denrées alimentaires d’origine animale[^105-1] est abrogée.
 
-[^105-1]: [[RO 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801), [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771), [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201)[6037](https://fedlex.data.admin.ch/eli/oc/2008/836), [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282), [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671), [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837)]
+[^105-1]: [[RO 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801); [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771); [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201), [6037](https://fedlex.data.admin.ch/eli/oc/2008/836); [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282); [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671); [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837)]
 
 #### Art. 105a
 
@@ -1738,6 +1772,14 @@ L’ordonnance du DFI du 23 novembre 2005 sur les denrées alimentaires d’orig
 Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2021 et remises au consommateur jusqu’à épuisement des stocks.
 
 [^105a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+
+#### Art. 105b
+
+**Disposition transitoire de la modification du 8 décembre 2023**[^105b-1]
+
+Les denrées alimentaires non conformes à la modification du 8 décembre 2023 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^105b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 106
 
@@ -1766,7 +1808,7 @@ Annexe 2
 
 (art. 10, al. 1, let. a)
 
-## Teneurs maximales en tissus adipeux et en tissus conjonctifs pour les ingrédients désignés par le terme «viande(s) de ...X****»
+## Teneurs maximales en tissus adipeux et en tissus conjonctifs pour les ingrédients désignés par le terme «viande(s) de ...X»
 
 [^annex2-lvlu1-1]
 
@@ -1850,7 +1892,7 @@ Le pH du sérum doit être:
 - 2\.1 pour le beurre de crème douce: supérieur ou égal à 6,0;
 - 2\.2 pour le beurre acidifié: inférieur ou égal à 5,5.
 
-Annexe 6*[^t-1]*
+Annexe 6[^t-1]
 
 (art. 95)
 

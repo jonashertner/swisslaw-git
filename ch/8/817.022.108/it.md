@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari di origin
 short: ODOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: it
-version: 2022-03-15
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2017-152-20220315-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-152-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/it"
 
 (ODOA)
 
-del 16 dicembre 2016 (Stato 15 marzo 2022) (Stato 15 marzo 2022)
+del 16 dicembre 2016 (Stato 1° febbraio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -77,7 +77,9 @@ Per la produzione di derrate alimentari sono ammesse esclusivamente le seguenti 
 - j. crostacei;
 - k. molluschi;
 - l. pesci, tranne i pesci velenosi delle famiglie tetraodontidi (*Tetraodontidae*), molidi (*Molidae*), diodontidi (*Diodontidae*), cantigasteridi (*Canthigasteridae*);
-- m. rane (*Rana* spp.)*.*
+- m.[^2-1] rane.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 ## Capitolo 2: **Requisiti delle derrate alimentari congelate di origine** animale
 
@@ -234,13 +236,14 @@ La denominazione specifica per la carne, i preparati di carne e i prodotti a bas
 
 <sup>2</sup> Se il prodotto non può essere assegnato a nessuno dei gruppi di prodotti menzionati nel capoverso 1 lettera b, al loro posto vanno indicati la tecnologia di fabbricazione o il genere di trattamento.
 
-<sup>3</sup> Nella denominazione specifica dei preparati di carne e dei prodotti a base di carne devono essere indicati gli ingredienti non abituali estranei alla carne.
+<sup>3</sup> …[^9-1]
 
-<sup>4</sup> Invece di una denominazione specifica ai sensi del capoverso 1, le seguenti denominazioni possono essere impiegate per i seguenti prodotti a base di carne e preparati di carne: sanguinaccio (sanguinaccio alla panna), carne secca dei Grigioni, cervelat, fleischkäse (del contadino o delicato), salsiccia di vitello da arrostire, landjäger, salsiccia di fegato, salsiccia di Lione, mortadella, pancetta piana, prosciutto crudo, salame (Milano, Nostrano, Varzi), prosciutto (cotto contadino, cotto di coscia, cotto di spalla, cotto sottovuoto), schüblig, salsiccia di maiale da arrostire, carne secca del Ticino, carne secca del Vallese, salsicce di Vienna.[^9-1]
+<sup>4</sup> Invece di una denominazione specifica ai sensi del capoverso 1, le seguenti denominazioni possono essere impiegate per i seguenti prodotti a base di carne e preparati di carne: sanguinaccio (sanguinaccio alla panna), carne secca dei Grigioni, cervelat, fleischkäse (del contadino o delicato), salsiccia di vitello da arrostire, landjäger, salsiccia di fegato, salsiccia di Lione, mortadella, pancetta piana, prosciutto crudo, salame (Milano, Nostrano, Varzi), prosciutto (cotto contadino, cotto di coscia, cotto di spalla, cotto sottovuoto), schüblig, salsiccia di maiale da arrostire, carne secca del Ticino, carne secca del Vallese, salsicce di Vienna.[^9-2]
 
 <sup>5</sup> Non è necessario indicare le specie animali per i prodotti a base di carne e i preparati di carne che sono costituiti esclusivamente da carne di animali delle specie bovina o suina e quando viene impiegata una denominazione abituale secondo il capoverso 4. Se nella denominazione specifica si menziona una delle due specie, la parte di carne della specie animale menzionata deve eccedere il 50 per cento in massa della carne trasformata presente nel prodotto.
 
-[^9-1]: La correzione del 26 feb. 2019 concerne soltanto il testo francese ([RU 2019 761](https://fedlex.data.admin.ch/eli/oc/2019/134)).
+[^9-1]: Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^9-2]: La correzione del 26 feb. 2019 concerne soltanto il testo francese ([RU 2019 761](https://fedlex.data.admin.ch/eli/oc/2019/134)).
 
 #### Art. 10
 
@@ -295,7 +298,7 @@ Sugli imballaggi e sugli involucri di carne fresca di pollame o preparati a base
 - a. come i consumatori devono manipolare igienicamente la carne fresca di pollame a casa;
 - b. che prima del consumo i prodotti devono subire un trattamento termico completo.
 
-<sup>10</sup> ...[^10-3]
+<sup>10</sup> …[^10-3]
 
 [^10-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 [^10-2]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62 cpv. 1].Ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
@@ -471,16 +474,15 @@ I *prodotti della pesca* comprendono:
 
 #### Art. 18
 
-**Denominazione specifica**
-
-<sup>1</sup>
+**Denominazione specifica**[^18-1]
 
 La denominazione specifica per i prodotti della pesca comprende:
 
-- a. l’indicazione della specie animale, con la denominazione comune e scientifica;
+- a. l’indicazione della specie animale, con la denominazione comune e la denominazione scientifica per i prodotti di cui all’allegato I lettere a–c del regolamento (UE) n. 1379/2013[^18-2];
 - b. la denominazione «prodotto della pesca» o una denominazione usuale nel ramo.
 
-<sup>2</sup> Nella denominazione specifica per i prodotti della pesca devono essere inoltre indicati gli ingredienti estranei al pesce e inusuali.
+[^18-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^18-2]: Regolamento (UE) n. 1379/2013 del Parlamento europeo e del Consiglio, dell’11 dicembre 2013, relativo all’organizzazione comune dei mercati nel settore dei prodotti della pesca e dell’acquacoltura, recante modifica ai regolamenti (CE) n. 1184/2006 e (CE) n. 1224/2009 del Consiglio e che abroga il regolamento (CE) n. 104/2000 del Consiglio, GU L 354 del 28.12.2013, pag. 1; modificato da ultimo dal regolamento (UE) 2020/560, GU L 130 del 23.4.2020, pag. 11.
 
 #### Art. 19
 
@@ -488,7 +490,7 @@ La denominazione specifica per i prodotti della pesca comprende:
 
 <sup>1</sup>
 
-L’etichettatura dei prodotti di cui all’allegato I lettere a–c ed e del regolamento (UE) n. 1379/2013[^19-1] deve contenere, oltre alle indicazioni di cui all’articolo 3 OID[^19-2], le seguenti indicazioni:[^19-3]
+L’etichettatura dei prodotti di cui all’allegato I lettere a–c ed e del regolamento (UE) n. 1379/2013[^19-1] deve contenere, oltre alle indicazioni obbligatorie di cui all’articolo 3 OID[^19-2], le seguenti indicazioni:[^19-3]
 
 - a. il metodo di produzione, in particolare con le diciture «pescato in …», «pescato in acque interne» o «allevato»;
 - b.[^19-4] la categoria di attrezzi da pesca impiegati per prodotti della pesca marittima e della pesca in acque interne secondo l’allegato 3.
@@ -514,11 +516,11 @@ I prodotti della pesca freschi, preparati, surgelati o trasformati appartenenti 
 - b. un’indicazione in merito alla possibile presenza di sostanze con effetti gastrointestinali avversi;
 - c. oltre alla denominazione specifica, il nome scientifico.
 
-<sup>7</sup> ...[^19-6]
+<sup>7</sup> …[^19-6]
 
-[^19-1]: Regolamento (UE) n. 1379/2013 del Parlamento europeo e del Consiglio, dell’11 dicembre 2013, relativo all’organizzazione comune dei mercati nel settore dei prodotti della pesca e dell’acquacoltura, recante modifica ai regolamenti (CE) n. 1184/2006 e (CE) n. 1224/2009 del Consiglio e che abroga il regolamento (CE) n. 104/2000 del Consiglio, GU L 354 del 28.12.2013, pag. 1; modificato da ultimo dal regolamento (UE) 2015/812, GU L 133 del 29.5.2015, pag. 1.
+[^19-1]: Cfr. nota a piè di pagina relativa all’art. 18 lett. a.
 [^19-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^19-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^19-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^19-4]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 [^19-5]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 [^19-6]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
@@ -552,15 +554,36 @@ Sono ammessi come derrate alimentari i gasteropodi terrestri delle seguenti spec
 - a. *Helix pomatia Linné*;
 - b. *Helix aspersa Muller*;
 - c. *Helix lucorum*;
-- d. famiglia degli acatinidi.
+- d.[^21-1] famiglia degli acatinidi (*Achatinidae*);
+- e.[^21-2] famiglia degli elicidi (*Helicidae*);
+- f.[^21-3] famiglia delle *Hygromiidae*;
+- g.[^21-4] famiglia delle *Sphincterochilidae*.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-2]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-3]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-4]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+
+#### Art. 21a
+
+**Generi di rane ammessi**[^21a-1]
+
+Sono ammesse come derrate alimentari le rane dei seguenti generi:
+
+- a. generi *Rana* e *Pelophylax* della famiglia dei *Ranidae*;
+- b. generi *Fejervarya*, *Limmonectes* e *Hoplobatrachus* della famiglia dei *Dicroglossidae*.
+
+[^21a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 22
 
 **Cosce di rana**
 
-<sup>1</sup> Le *cosce di rana* sono le parti posteriori di rane della specie *Rana* (famiglia dei ranidi).
+<sup>1</sup> Le *cosce di rana* sono le parti posteriori di rane dei generi di cui all’articolo 21*a*.[^22-1]
 
 <sup>2</sup> Devono essere sezionate trasversalmente dietro le membra anteriori, eviscerate e spellate.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 23
 
@@ -764,7 +787,7 @@ Il latte vaccino intero deve avere:
 
 **Ulteriore caratterizzazione per il latte pronto al consumo**
 
-Nel caso del latte pronto al consumo, oltre alle indicazioni di cui all’articolo 3 OID[^37-1] devono figurare:
+Nel caso del latte pronto al consumo, oltre alle indicazioni obbligatorie[^37-1] di cui all’articolo 3 OID[^37-2], devono figurare:
 
 - a. ogni tipo di trattamento atto a prolungare la conservabilità e ad aumentare la sicurezza igienico-microbiologica; sono ammesse abbreviazioni quali «past», «altamente pastorizzato», «UHT» o «sterile»; in caso di trattamento supplementare di filtrazione o separazione devono figurare indicazioni come «filtrato» o «separato»;
 - b. il tenore di grasso in «g per kg» o in percentuale («%»); nel caso del latte intero ai sensi dell’articolo 33 capoverso 1 lettera a è ammessa l’indicazione del tenore minimo di grasso; l’indicazione va applicata vicino alla denominazione specifica;
@@ -773,7 +796,8 @@ Nel caso del latte pronto al consumo, oltre alle indicazioni di cui all’artico
 - e. nel caso del latte sottoposto a pastorizzazione o pastorizzazione alta, la menzione «conservare al riparo dalla luce»;
 - f. se il latte è stato sottoposto a omogeneizzazione, la menzione «omogeneizzato».
 
-[^37-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^37-1]: Nuova espressione giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^37-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 #### Art. 38
 
@@ -781,7 +805,7 @@ Nel caso del latte pronto al consumo, oltre alle indicazioni di cui all’artico
 
 <sup>1</sup>
 
-Se il latte crudo è consegnato preimballato, oltre alle indicazioni di cui all’articolo 3 OID[^38-1] devono figurare:
+Se il latte crudo è consegnato preimballato, oltre alle indicazioni obbligatorie di cui all’articolo 3 OID[^38-1] devono figurare:
 
 - a. la temperatura di conservazione;
 - b. l’indicazione che, trattandosi di latte crudo, deve essere riscaldato ad almeno 70 °C prima del consumo;
@@ -799,9 +823,11 @@ Se il latte crudo è consegnato preimballato, oltre alle indicazioni di cui all�
 
 **Definizione**
 
-<sup>1</sup> I *prodotti a base di latte* sono prodotti ottenuti dalla lavorazione del latte o dall’ulteriore lavorazione di prodotti a base di latte che possono contenere ingredienti e additivi specifici di un determinato prodotto o processo di produzione.
+<sup>1</sup> I *prodotti a base di latte* sono prodotti ottenuti dalla lavorazione del latte o dall’ulteriore lavorazione di prodotti a base di latte che possono contenere ingredienti specifici di un determinato prodotto o processo di produzione.[^39-1]
 
 <sup>2</sup> Sono fatte salve le disposizioni specifiche del prodotto.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 40
 
@@ -815,7 +841,7 @@ I prodotti a base di latte possono contenere al massimo 300 g di ingredienti non
 
 <sup>1</sup>
 
-Nel caso dei prodotti a base di latte, oltre alle indicazioni di cui all’articolo 3 OID[^41-1] devono figurare:
+Nel caso dei prodotti a base di latte, oltre alle indicazioni obbligatorie di cui all’articolo 3 OID[^41-1] devono figurare:
 
 - a.[^41-2] il tenore di grasso nella parte di latte in «g per kg», in «g per 100 g» o in percentuale («%»);
 - b. il tipo di trattamento termico.
@@ -917,38 +943,36 @@ Il *kefir* è ottenuto mediante fermentazione del latte. Oltre alla fermentazion
 
 <sup>3</sup> Il *formaggio maturato* è formaggio pronto al consumo soltanto se è maturato per un certo periodo di tempo e a condizioni ben definite; vi rientrano il formaggio a crosta fiorita, a crosta untuosa, a crosta secca o anche maturato senza crosta.
 
-<sup>4</sup> Nella fabbricazione di formaggio maturato devono essere aggiunti, oltre ai coadiuvanti tecnologici, soltanto componenti del latte.
+<sup>4</sup> …[^50-1]
+
+[^50-1]: Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 51
 
-**Coadiuvanti tecnologici e procedimenti**
+**Fabbricazione e trattamento del formaggio**[^51-1]
 
 <sup>1</sup>
 
-Nella fabbricazione del formaggio sono permessi:
+Nella fabbricazione del formaggio, oltre ai componenti di cui all’articolo 50 capoverso 1 e agli altri componenti del latte, possono essere utilizzati soltanto:
 
-- a. colture di batteri acidolattici e aromatizzanti, incluse le colture speciali, lieviti e muffe innocui per la salute;
-- b. l’impiego di coadiuvanti tecnologici di cui all’art. 24 ODerr e di sale commestibile.
+- a. colture di batteri acidolattici e aromatizzanti, incluse le colture speciali, lieviti e muffe;
+- b. coadiuvanti tecnologici, sale commestibile e sale commestibile iodato;
+- c. spezie, erbe aromatiche e funghi commestibili nonché le loro rispettive preparazioni aromatiche.
 
 <sup>2</sup>
 
-Per conferire sapore sono permessi:
+Per il trattamento del formaggio possono essere utilizzate altre sostanze oltre a quelle indicate al capoverso 1:
 
-- a. il trattamento della superficie del formaggio con bevande spiritose secondo gli articoli 122–149 dell’ordinanza del DFI del 16 dicembre 2016[^51-1] sulle bevande, nonché con vino, sidro e aceto;
-- b. l’affumicatura;
-- c. l’aggiunta di spezie e di loro estratti nonché di altri ingredienti adatti a conferire sapore, come ad esempio vinacce di birra, vino o mosto.
-
-<sup>3</sup>
-
-Per la cura del formaggio sono permessi:
-
-- a. lo strofinamento con un liquido, eventualmente con l’aggiunta di sale, siero grasso, yogurt, mosto, vino o decotto di erbe;
-- b. il lavaggio con acqua, acqua salata, siero di latte o scotta;
+- a. acqua;
+- b. siero di latte di cui all’articolo 79 e yogurt;
 - c. oli vegetali;
-- d. siero magro acidificato nonché siero acidificato o agra;
-- e. il trattamento meccanico con spazzole o panni.
+- d. bevande spiritose di cui agli articoli 122–149 dell’ordinanza del DFI del 16 dicembre 2016[^51-2] sulle bevande, nonché vino, sidro, mosto, birra o aceto;
+- e. vinacce di birra, vino o mosto.
 
-[^51-1]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+<sup>3</sup> Per conferire sapore al formaggio è inoltre ammesso il processo di affumicatura.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^51-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
 
 #### Art. 52
 
@@ -970,12 +994,14 @@ Per la cura del formaggio sono permessi:
 
 <table>
 <tr><td>a. extra duro</td><td>fino a 500 g/kg;</td></tr>
-<tr><td>b. duro</td><td>più di 500 e fino a 540 g/kg;</td></tr>
-<tr><td>c. semiduro</td><td>più di 540 e fino a 650 g/kg;</td></tr>
-<tr><td>d. molle</td><td>più di 650 g/kg.</td></tr>
+<tr><td>b. duro</td><td>più di 480 e fino a 540 g/kg;</td></tr>
+<tr><td>c. semiduro</td><td>più di 510 e fino a 650 g/kg;</td></tr>
+<tr><td>d. molle</td><td>più di 630 g/kg.[^52-1]</td></tr>
 </table>
 
 <sup>3</sup> Nel formaggio non maturato o formaggio fresco, il valore tafs può essere al massimo di 880 g/kg. Nella gelatina di formaggio fresco, il valore tafs deve essere superiore a 880 g/kg, ma al massimo di 890 g/kg.
+
+[^52-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 53
 
@@ -985,16 +1011,16 @@ Per la cura del formaggio sono permessi:
 
 <sup>2</sup>
 
-Oltre alle indicazioni di cui all’articolo 3 OID[^53-2] devono figurare:
+Oltre alle indicazioni obbligatorie di cui all’articolo 3 OID[^53-2] devono figurare:[^53-3]
 
-- a. le sostanze o i trattamenti che conferiscono un sapore come spezie, erbe aromatiche, affumicatura, bevande spiritose o altri ingredienti;
+- a.[^53-4] l’utilizzo di ingredienti di cui all’articolo 51 capoverso 1 lettera c e di sostanze di cui all’articolo 51 capoverso 2 lettere d ed e, nonché l’affumicatura;
 - b. se viene impiegato latticello, la sua parte in per cento in massa;
 - c. nel caso del formaggio maturato, il grado di consistenza secondo l’articolo 52 capoverso 2;
 - d. la denominazione «fabbricato con latte crudo» se una parte del latte impiegato per la fabbricazione è conforme alla definizione di latte crudo secondo l’articolo 32 capoverso 2 e se il processo di fabbricazione non presuppone un trattamento termico o un trattamento fisico o chimico.
 
 <sup>3</sup> La denominazione «da latte termizzato» può essere utilizzata, se il latte impiegato per la fabbricazione del formaggio è stato riscaldato durante almeno 15 secondi a una temperatura superiore a 40 °C e inferiore a 72 °C e il latte presenta una reazione positiva al test della fosfatasi.
 
-<sup>4</sup> La denominazione «pastorizzato» o «da latte pastorizzato» può essere utilizzata, se in una fase del processo di fabbricazione il latte o la massa di formaggio sono stati sottoposti a un trattamento termico corrispondente alla pastorizzazione secondo l’articolo 49 capoverso 1 lettera a ORI[^53-3].
+<sup>4</sup> La denominazione «pastorizzato» o «da latte pastorizzato» può essere utilizzata, se in una fase del processo di fabbricazione il latte o la massa di formaggio sono stati sottoposti a un trattamento termico corrispondente alla pastorizzazione secondo l’articolo 49 capoverso 1 lettera a ORI[^53-5].
 
 <sup>5</sup> Se tutta la quantità di latte impiegata per la fabbricazione del formaggio è latte crudo ai sensi dell’articolo 32 capoverso 2, in deroga al capoverso 2 lettera d si può menzionarlo in modo adeguato.
 
@@ -1009,7 +1035,9 @@ Se il formaggio di latte di capra o di pecora non è stato fabbricato utilizzand
 
 [^53-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^53-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^53-3]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^53-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^53-4]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^53-5]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 
 #### Art. 54
 
@@ -1256,7 +1284,7 @@ Alla panna sono applicabili le seguenti categorie di tenore di grasso:
 
 <sup>2</sup>
 
-Se la panna cruda è consegnata preimballata, oltre alle indicazioni di cui all’articolo 3 OID[^71-1] devono figurare:
+Se la panna cruda è consegnata preimballata, oltre alle indicazioni obbligatorie di cui all’articolo 3 OID[^71-1] devono figurare:
 
 - a. la temperatura di conservazione;
 - b. l’indicazione che si tratta di panna cruda non pronta al consumo;
@@ -1335,7 +1363,7 @@ Si devono utilizzare le seguenti denominazioni specifiche:
 
 <sup>2</sup> Per i grassi lattieri da spalmare la denominazione specifica deve essere completata indicando il tenore di grasso in percentuale.
 
-<sup>3</sup> La denominazione specifica deve essere completata con la menzione «non pastorizzato», se il burro o i grassi lattieri da spalmare sono fabbricati con materie prime o ingredienti non trattati termicamente.
+<sup>3</sup> La denominazione specifica deve essere completata con la menzione «non pastorizzato» se il burro o i grassi lattieri da spalmare sono fabbricati con materie prime o ingredienti non sottoposti a un trattamento termico secondo l’articolo 26 capoversi 2 e 3 ORI[^75-1].[^75-2]
 
 <sup>4</sup> Il burro secondo l’articolo 73 capoverso 1 lettera a può essere designato anche come «burro di panna di latte», «burro di panna dolce» o «burro di panna acidula» se è stato ottenuto dalle materie prime corrispondenti. La denominazione «burro di latticello» può essere utilizzata se il burro è stato ottenuto da una miscela di panna di latte e panna di latticello.
 
@@ -1344,6 +1372,9 @@ Si devono utilizzare le seguenti denominazioni specifiche:
 <sup>6</sup> Per la fabbricazione di derrate alimentari la cui denominazione specifica comprenda un riferimento al burro, come «biscotti al burro» o «margarina con burro», può essere utilizzato come ingrediente qualsiasi tipo di burro secondo il capoverso 1 lettere a–c.
 
 <sup>7</sup> Il burro tre quarti grasso può essere denominato anche «burro a ridotto tenore di grasso» e il burro mezzo grasso «burro leggero» oppure «burro light».
+
+[^75-1]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^75-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 76
 
@@ -1567,7 +1598,7 @@ Al controllo visivo di una partita di uova destinate alla consegna ai consumator
 
 <sup>1</sup>
 
-Se le uova sono vendute preconfezionate, le indicazioni di cui all’articolo 3 OID[^92-1] devono essere completate:
+Se le uova sono vendute preconfezionate, le indicazioni obbligatorie di cui all’articolo 3 OID[^92-1] devono essere completate:
 
 - a. dall’indicazione della temperatura di conservazione, se il prodotto è consegnato refrigerato;
 - b. dal numero di uova e dal peso netto o dal numero di uova e dal peso netto minimo per uovo in g.
@@ -1585,14 +1616,16 @@ Se le uova sono vendute preconfezionate, le indicazioni di cui all’articolo 3 
 
 **Ovoprodotti**
 
-Le indicazioni di cui all’articolo 3 OID[^93-1] devono essere completate come segue:
+Le indicazioni obbligatorie di cui all’articolo 3 OID[^93-1] devono essere completate come segue:[^93-2]
 
 - a. per gli ovoprodotti che non sono destinati al commercio al dettaglio, ma utilizzati come ingredienti per la fabbricazione di un altro prodotto deve essere indicato a quale temperatura vanno conservati e per quanto tempo può essere garantita la conservabilità del prodotto a tale temperatura;
 - b. per gli ovoprodotti a cui sono aggiunte altre derrate alimentari, il tenore di uova deve essere indicato in per cento in massa, riferito al prodotto finito;
-- c. nel caso di uova liquide di cui all’articolo 57 capoverso 7 ORI[^93-2] deve essere apposta, oltre all’indicazione di cui alla lettera b, la dicitura «uova liquide non pastorizzate - da trattare nel luogo di destinazione», come pure la data e l’ora in cui sono state sbattute.
+- c.[^93-3] nel caso di uova liquide di cui all’articolo 57 capoverso 7 ORI[^93-4] deve essere apposta, oltre all’indicazione di cui alla lettera a, la dicitura «uova liquide non pastorizzate – da trattare nel luogo di destinazione», come pure la data e l’ora in cui sono state sbattute.
 
 [^93-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^93-2]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^93-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^93-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^93-4]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 
 #### Art. 94
 
@@ -1735,6 +1768,14 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 [^105a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
+#### Art. 105b
+
+**Disposizione transitoria della modifica dell’8 dicembre 2023**[^105b-1]
+
+Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^105b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+
 #### Art. 106
 
 **Entrata in vigore**
@@ -1762,7 +1803,7 @@ Allegato 2
 
 (art. 10 cpv. 1 lett. a)
 
-## Valori massimi delle parti di grasso e tessuto connettivo per gli ingredienti che sono designati con il termine «carne di X****»
+## Valori massimi delle parti di grasso e tessuto connettivo per gli ingredienti che sono designati con il termine «carne di X»
 
 [^annex2-lvlu1-1]
 
@@ -1846,7 +1887,7 @@ Il valore pH nel siero deve essere:
 - 2\.1 per il burro di panna dolce: di almeno 6,0;
 - 2\.2 per il burro acidulato: di al massimo 5,5.
 
-Allegato 6*[^t-1]*
+Allegato 6[^t-1]
 
 (art. 95)
 

@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel tierischer He
 short: VLtH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: de
-version: 2022-03-15
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2017-152-20220315-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-152-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/de"
 
 (VLtH)
 
-vom 16. Dezember 2016 (Stand am 15. März 2022)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -64,7 +64,7 @@ Zur Lebensmittelgewinnung sind ausschliesslich folgende Tierarten zulässig:
 
   Wild: in freier Wildbahn lebende oder in Gehegen gehaltene Landsäugetiere und Vögel; für die Lebensmittelgewinnung nicht zulässig sind:
 
-  - 1\. Fleischfresser *(Carnivora)* mit Ausnahme von Bären,
+  - 1\.[^2-1] Raubtiere *(Carnivora)* mit Ausnahme von Bären,
   - 2\. Affen und Halbaffen *(Primates)*,
   - 3\. Nagetiere *(Rodentia)* mit Ausnahme von Murmeltieren und Nutria;
 
@@ -77,7 +77,10 @@ Zur Lebensmittelgewinnung sind ausschliesslich folgende Tierarten zulässig:
 - j. Krebstiere;
 - k. Weichtiere;
 - l. Fische, ausser giftige Fische aus den Familien Kugelfische *(Tetraodontidae),* Mondfische *(Molidae),* Igelfische *(Diodontidae),* Spitzkopf-Kugelfische *(Canthigasteridae)*;
-- m. Frösche (*Rana* spp.).
+- m.[^2-2] Frösche.
+
+[^2-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^2-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 ## 2. Kapitel: Anforderungen an gefrorene Lebensmittel tierischer Herkunft
 
@@ -237,13 +240,14 @@ Die Sachbezeichnung für Fleisch, Fleischzubereitungen und Fleischerzeugnisse se
 
 <sup>2</sup> Kann das Produkt keiner der in Absatz 1 Buchstabe b genannten Produktegruppen zugeordnet werden, so muss stattdessen die Herstellungstechnologie oder die Art der Behandlung angegeben werden.
 
-<sup>3</sup> In der Sachbezeichnung von Fleischzubereitungen und Fleischerzeugnissen müssen fleischfremde, nicht übliche Zutaten angegeben werden.
+<sup>3</sup> …[^9-1]
 
-<sup>4</sup> Anstelle einer Sachbezeichnung nach Absatz 1 darf bei den folgenden Fleischerzeugnissen und Fleischzubereitungen die nachstehende Bezeichnung verwendet werden: (Rahm-)Blutwurst, Bündnerfleisch, Cervelas, (Bauern-, Deli-)Fleischkäse, Kalbsbratwurst, Landjäger, Leberwurst, Lyoner, Mortadella, Rohessspeck, Rohschinken, Salami (Milano, Nostrano, Varzi), (Bauern-, Hinter-, Koch-, Model-)Schinken, Schüblig, Schweinsbratwurst, Tessiner Trockenfleisch, Walliser Trockenfleisch, Wienerli.[^9-1]
+<sup>4</sup> Anstelle einer Sachbezeichnung nach Absatz 1 darf bei den folgenden Fleischerzeugnissen und Fleischzubereitungen die nachstehende Bezeichnung verwendet werden: (Rahm-)Blutwurst, Bündnerfleisch, Cervelas, (Bauern-, Deli-)Fleischkäse, Kalbsbratwurst, Landjäger, Leberwurst, Lyoner, Mortadella, Rohessspeck, Rohschinken, Salami (Milano, Nostrano, Varzi), (Bauern-, Hinter-, Koch-, Model-)Schinken, Schüblig, Schweinsbratwurst, Tessiner Trockenfleisch, Walliser Trockenfleisch, Wienerli.[^9-2]
 
 <sup>5</sup> Ein Hinweis auf die Tierarten ist nicht erforderlich bei Fleischerzeugnissen und Fleischzubereitungen, die ausschliesslich aus Fleisch von Tieren der Rinder- oder der Schweinegattung zusammengesetzt sind, sowie bei der Verwendung einer allgemein üblichen Bezeichnung nach Absatz 4. Wird in der Sachbezeichnung auf eine der beiden Tierarten hingewiesen, so muss deren Fleischanteil mehr als 50 Massenprozent des im Fleischerzeugnis verarbeiteten Fleisches betragen.
 
-[^9-1]: Die Berichtigung vom 26. Febr. 2019 betrifft nur den französischen Text ([AS 2019 761](https://fedlex.data.admin.ch/eli/oc/2019/134)).
+[^9-1]: Aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^9-2]: Die Berichtigung vom 26. Febr. 2019 betrifft nur den französischen Text ([AS 2019 761](https://fedlex.data.admin.ch/eli/oc/2019/134)).
 
 #### Art. 10
 
@@ -257,7 +261,7 @@ Die Zutaten aus Fleisch in Fleischzubereitungen und -erzeugnissen müssen im Ver
 - b. Innereien (Organe): «(Tierart)-(Angabe des Organs)»;
 - c. Fettgewebe: «(Tierart)-Fett»;
 - d. Speck, Schwarte, Blut und Plasma können ohne Angabe der Tierarten deklariert werden;
-- e.[^10-1] Separatorenfleisch: «(Tierart)-Separatorenfleisch» oder «Mechanisch separiertes Fleisch von (Tierart)»;
+- e.[^10-1] Separatorenfleisch: «(Tierart)-Separatorenfleisch», «Mechanisch separiertes (Tierart)-Fleisch» oder «Mechanisch getrenntes (Tierart)-Fleisch»;
 - f. Haut: «(Tierart)-Haut».
 
 <sup>2</sup> Bearbeitete Mägen, Blasen und Därme müssen mit einem Hinweis auf die Tierart, von denen diese Verarbeitungserzeugnisse stammen, deklariert werden.
@@ -300,9 +304,9 @@ Auf der Verpackung oder der Umhüllung von frischem Geflügelfleisch und von Gef
 
 <sup>10</sup> …[^10-4]
 
-[^10-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^10-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^10-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^10-3]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6 5201 Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^10-3]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6, 5201 Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^10-4]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 ## 4. Kapitel: Fleischprodukte
@@ -475,16 +479,15 @@ Bei lebenden Muscheln, lebenden Stachelhäutern, lebenden Manteltieren und leben
 
 #### Art. 18
 
-**Sachbezeichnung**
-
-<sup>1</sup>
+**Sachbezeichnung**[^18-1]
 
 Die Sachbezeichnung für Fischereierzeugnisse setzt sich zusammen aus:
 
-- a. einem Hinweis auf die Tierart unter Angabe der gemeinen und der wissenschaftlichen Bezeichnung;
+- a. einem Hinweis auf die Tierart unter Angabe der gemeinen und der wissenschaftlichen Bezeichnung bei Erzeugnissen nach Anhang I Buchstaben a–c der Verordnung (EU) Nr. 1379/2013[^18-2];
 - b. der Bezeichnung «Fischereierzeugnis» oder einer branchenüblichen Bezeichnung.
 
-<sup>2</sup> In der Sachbezeichnung von Fischereierzeugnissen müssen fischfremde, nicht übliche Zutaten zusätzlich angegeben werden.
+[^18-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^18-2]: Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates, ABl. L 354 vom 28.12.2013, S. 1; zuletzt geändert durch Verordnung (EU) 2020/560, ABl. L 130 vom 23.4.2020, S. 11.
 
 #### Art. 19
 
@@ -492,7 +495,7 @@ Die Sachbezeichnung für Fischereierzeugnisse setzt sich zusammen aus:
 
 <sup>1</sup>
 
-Die Etikettierung von Erzeugnissen nach Anhang I Buchstaben a−c der Verordnung (EU) Nr. 1379/2013[^19-1] muss zusätzlich zu den Angaben nach Artikel 3 LIV[^19-2] folgende Angaben enthalten:[^19-3]
+Die Etikettierung von Erzeugnissen nach Anhang I Buchstaben a−c der Verordnung (EU) Nr. 1379/2013[^19-1] muss zusätzlich zu den obligatorischen Angaben nach Artikel 3 LIV[^19-2] folgende Angaben enthalten:[^19-3]
 
 - a. die Produktionsmethode, insbesondere mit folgenden Worten «gefangen in …», «aus Binnenfischerei» oder «in Aquakultur gewonnen»;
 - b.[^19-4] die Kategorie des für den Fang von Erzeugnissen aus der Meeres- und der Binnenfischerei eingesetzten Gerätes nach Anhang 3.
@@ -520,9 +523,9 @@ Frische, zubereitete, tiefgefrorene oder verarbeitete Fischereierzeugnisse der F
 
 <sup>7</sup> …[^19-6]
 
-[^19-1]: Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates, ABl. L 354 vom 28.12.2013, S. 1; zuletzt geändert durch Verordnung (EU) 2015/812, ABl. L 133 vom 29.5.2015, S. 1.
+[^19-1]: Siehe Fussnote zu Art. 18 Bst. a.
 [^19-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^19-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^19-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^19-4]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 [^19-5]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 [^19-6]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
@@ -556,15 +559,36 @@ Als Lebensmittel zulässig sind Landlungenschnecken der folgenden Arten:
 - a. *Helix pomatia Linné*;
 - b. *Helix aspersa Muller*;
 - c. *Helix lucorum*;
-- d. Familie der Achatschnecken.
+- d.[^21-1] Familie der Achatschnecken (*Achatinidae*);
+- e.[^21-2] Familie der Schnirkelschnecken (*Helicidae*);
+- f.[^21-3] Familie der Laubschnecken (*Hygromiidae*);
+- g.[^21-4] Familie der Steppenschnecken (*Sphincterochilidae*).
+
+[^21-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-2]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-3]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-4]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+
+#### Art. 21a
+
+**Zulässige Froschgattungen**[^21a-1]
+
+Als Lebensmittel zulässig sind Frösche der folgenden Gattungen:
+
+- a. Gattung der *Rana* und *Pelophylax* aus der Familie der *Ranidae*;
+- b. Gattung der *Fejervarya*, *Limmonectes* und *Hoplobatrachus* aus der Familie der *Dicroglossidae*.
+
+[^21a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 22
 
 **Froschschenkel**
 
-<sup>1</sup> *Froschschenkel* sind die hinteren Körperteile von Fröschen der Art *Rana* (Familie der *Ranidae*).
+<sup>1</sup> *Froschschenkel* sind die hinteren Körperteile von Fröschen der Gattungen nach Artikel 21*a*.[^22-1]
 
 <sup>2</sup> Sie müssen im Querschnitt hinter den Vordergliedmassen abgetrennt, ausgeweidet und enthäutet sein.
+
+[^22-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 23
 
@@ -623,7 +647,7 @@ Von der Kühlung kann abgesehen werden, wenn:
 
 <sup>3</sup> Beim Verfahren zur Herstellung von rohem Fischöl muss gewährleistet sein, dass sämtliche zur Verwendung bestimmte Rohstoffe einer Behandlung unterzogen werden, die je nach Rohstoff die Schritte Erwärmen, Pressen, Trennen, Zentrifugieren, Verarbeiten, Raffinieren und Reinigen umfasst, bevor das Endprodukt in den Verkehr gebracht wird.
 
-4 Entsprechen alle Rohstoffe und Herstellungsverfahren den Anforderungen an Fischöl für den menschlichen Verzehr, so können im selben Betrieb sowohl Fischöl für den menschlichen als auch solches, das nicht für den menschlichen Verzehr bestimmt ist, hergestellt und gelagert werden.
+<sup>4</sup> Entsprechen alle Rohstoffe und Herstellungsverfahren den Anforderungen an Fischöl für den menschlichen Verzehr, so können im selben Betrieb sowohl Fischöl für den menschlichen als auch solches, das nicht für den menschlichen Verzehr bestimmt ist, hergestellt und gelagert werden.
 
 [^27-1]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 
@@ -768,7 +792,7 @@ Kuh-Vollmilch muss:
 
 **Zusätzliche Kennzeichnung für genussfertige Milch**
 
-Bei genussfertiger Milch sind zusätzlich zu den Angaben nach Artikel 3 LIV[^37-1] anzugeben:
+Bei genussfertiger Milch sind zusätzlich zu den obligatorischen Angaben[^37-1] nach Artikel 3 LIV[^37-2] anzugeben:
 
 - a. alle Arten der Behandlung zur Verlängerung der Haltbarkeit und zur Erhöhung der hygienisch-mikrobiologischen Sicherheit; Abkürzungen wie «Past», «Hochpast», «UHT» oder «Steril» sind zulässig; bei einer zusätzlichen Anwendung von Filtrations- oder Separationsbehandlungen sind die Angaben wie «filtriert» oder «separiert» anzubringen;
 - b. der Fettgehalt als «Gramm pro Kilogramm» oder als Prozentangabe («%»); bei Vollmilch nach Artikel 33 Absatz 1 Buchstabe a ist die Angabe des Mindestfettgehaltes zulässig; die Angabe ist in der Nähe der Sachbezeichnung anzubringen;
@@ -777,7 +801,8 @@ Bei genussfertiger Milch sind zusätzlich zu den Angaben nach Artikel 3 LIV[^37-
 - e. bei pasteurisierter und hochpasteurisierter Milch der Hinweis «Vor Licht geschützt aufbewahren»;
 - f. bei Milch, die einer Homogenisation unterzogen wurde, der Hinweis «Homogenisiert».
 
-[^37-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^37-1]: Ausdruck gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^37-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 
 #### Art. 38
 
@@ -785,7 +810,7 @@ Bei genussfertiger Milch sind zusätzlich zu den Angaben nach Artikel 3 LIV[^37-
 
 <sup>1</sup>
 
-Wird Rohmilch vorverpackt abgegeben, so sind zusätzlich zu den Angaben nach Artikel 3 LIV[^38-1] anzugeben:
+Wird Rohmilch vorverpackt abgegeben, so sind zusätzlich zu den obligatorischen Angaben nach Artikel 3 LIV[^38-1] anzugeben:
 
 - a. ein Hinweis auf die Lagertemperatur;
 - b. ein Hinweis, dass es sich um Rohmilch handelt, die vor dem Konsum auf mindestens 70 °C erhitzt werden muss;
@@ -803,9 +828,11 @@ Wird Rohmilch vorverpackt abgegeben, so sind zusätzlich zu den Angaben nach Art
 
 **Begriff**
 
-<sup>1</sup> *Milchprodukte* sind Erzeugnisse, die bei der Verarbeitung von Milch oder der weiteren Verarbeitung von Milchprodukten entstehen und prozess- und produktspezifische Zutaten und Zusatzstoffe enthalten können.
+<sup>1</sup> *Milchprodukte* sind Erzeugnisse, die bei der Verarbeitung von Milch oder der weiteren Verarbeitung von Milchprodukten entstehen und prozess- und produktspezifische Zutaten enthalten können.[^39-1]
 
 <sup>2</sup> Die produktspezifischen Bestimmungen bleiben vorbehalten.
+
+[^39-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 40
 
@@ -819,7 +846,7 @@ Milchprodukte dürfen höchstens 300 g milchfremde Zutaten pro Kilogramm enthalt
 
 <sup>1</sup>
 
-Für Milchprodukte sind zusätzlich zu den Angaben nach Artikel 3 LIV[^41-1] anzugeben:
+Für Milchprodukte sind zusätzlich zu den obligatorischen Angaben nach Artikel 3 LIV[^41-1] anzugeben:
 
 - a.[^41-2] der Fettgehalt im Milchanteil als «Gramm pro Kilogramm», «Gramm pro 100 Gramm» oder als Prozentangabe («%»);
 - b. die Art der Hitzebehandlung.
@@ -828,7 +855,7 @@ Für Milchprodukte sind zusätzlich zu den Angaben nach Artikel 3 LIV[^41-1] anz
 
 <sup>3</sup> Produktspezifische Kennzeichnungsvorschriften bleiben vorbehalten.
 
-<sup>4</sup> Bei Erzeugnissen, deren grösste bedruckbare Einzelfläche weniger als 10 cm<sup>2</sup> beträgt und die in Mehrfachpackungen enthalten sind, sind die Angaben nach den Absätzen 1 und 2 sowie nach Artikel 3 LIV auf der Mehrfachpackung anzubringen.
+<sup>4</sup> Bei Erzeugnissen, deren grösste bedruckbare Einzelfläche weniger als 10 cm<sup>2</sup> beträgt und die in Mehrfachpackungen enthalten sind, sind die obligatorischen Angaben nach den Absätzen 1 und 2 sowie nach Artikel 3 LIV auf der Mehrfachpackung anzubringen.
 
 <sup>5</sup> Milchprodukte, die mit Rohmilch nach Artikel 32 Absatz 2 hergestellt wurden und bei denen der Herstellungsprozess keinerlei Hitzebehandlung oder physikalische oder chemische Behandlung umfasst, sind als «mit Rohmilch hergestellt» zu kennzeichnen.
 
@@ -921,38 +948,36 @@ Bezüglich des Milchfettgehaltes gilt für:
 
 <sup>3</sup> *Gereifter Käse* ist Käse, der erst genussfertig ist, wenn er während einer bestimmten Zeit und unter definierten Bedingungen gereift worden ist; dazu gehören namentlich Käse mit schimmelgereifter, geschmierter oder trockener Rinde oder auch rindenlos gereifter Käse.
 
-<sup>4</sup> Bei der Herstellung von gereiftem Käse dürfen nebst den Verarbeitungshilfsstoffen lediglich Milchbestandteile zugegeben werden.
+<sup>4</sup> …[^50-1]
+
+[^50-1]: Aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 51
 
-**Verarbeitungshilfsstoffe und Verfahren**
+**Herstellung und Behandlung von Käse**[^51-1]
 
 <sup>1</sup>
 
-In der Käseherstellung sind erlaubt:
+Bei der Herstellung von Käse dürfen neben den Bestandteilen nach Artikel 50 Absatz 1 sowie zusätzlichen Milchbestandteilen lediglich verwendet werden:
 
-- a. Kulturen von gesundheitlich unbedenklichen Milchsäure und Aroma bildenden Bakterien, einschliesslich Spezialkulturen, Hefen und Schimmelpilzen;
-- b. die Verwendung von Verarbeitungshilfsstoffen nach Artikel 24 LGV und von Speisesalz.
+- a. Kulturen von Milchsäure und Aroma bildenden Bakterien, einschliesslich Spezialkulturen, Hefen und Schimmelpilze;
+- b. Verarbeitungshilfsstoffe und Speisesalz sowie iodiertes Speisesalz;
+- c. Gewürze, Küchenkräuter und Speisepilze sowie die ihnen jeweils entsprechenden Aromaextrakte.
 
 <sup>2</sup>
 
-Zur Geschmacksgebung sind erlaubt:
+Für die Behandlung von Käse dürfen zusätzlich zu den in Absatz 1 genannten Stoffen verwendet werden:
 
-- a. die Behandlung der Käseoberfläche mit Spirituosen nach den Artikeln 122–149 der Verordnung des EDI vom 16. Dezember 2016[^51-1] über Getränke, sowie mit Wein, Obstwein und Essig;
-- b. das Räuchern;
-- c. die Zugabe von Gewürzen und daraus hergestellten Extrakten sowie von anderen zur Geschmacksgebung geeigneten Zutaten wie z. B. Trester von Bier, Wein oder Most.
-
-<sup>3</sup>
-
-Bei der Pflege von Käse sind erlaubt:
-
-- a. das Schmieren mit Schmierewasser, allenfalls unter Zugabe von Salz, Fettsirte, Joghurt, Most, Wein oder Kräutersud;
-- b. das Waschen mit Wasser, Salzwasser, Molke oder Milchserum;
+- a. Wasser;
+- b. Molke nach Artikel 79 und Joghurt
 - c. pflanzliche Öle;
-- d. gesäuerte Magersirte beziehungsweise gesäuerte Sirte oder Sauer;
-- e. die mechanische Behandlung mit Bürsten oder Lappen.
+- d. Spirituosen nach den Artikeln 122–149 der Verordnung des EDI vom 16. Dezember 2016[^51-2] über Getränke, sowie Wein, Obstwein, Most, Bier oder Essig;
+- e. Trester von Bier, Wein oder Most.
 
-[^51-1]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+<sup>3</sup> Zur Geschmacksgebung von Käse ist zusätzlich das Verfahren des Räucherns zulässig.
+
+[^51-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^51-2]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
 
 #### Art. 52
 
@@ -974,12 +999,14 @@ Bei der Pflege von Käse sind erlaubt:
 
 <table>
 <tr><td>a. extra-hart</td><td>bis 500 g/kg;</td></tr>
-<tr><td>b. hart</td><td>mehr als 500 und bis 540 g/kg;</td></tr>
-<tr><td>c. halbhart</td><td>mehr als 540 und bis 650 g/kg;</td></tr>
-<tr><td>d. weich</td><td>mehr als 650 g/kg.</td></tr>
+<tr><td>b. hart</td><td>mehr als 480 und bis 540 g/kg;</td></tr>
+<tr><td>c. halbhart</td><td>mehr als 510 und bis 650 g/kg;</td></tr>
+<tr><td>d. weich</td><td>mehr als 630 g/kg.[^52-1]</td></tr>
 </table>
 
 <sup>3</sup> Bei ungereiftem Käse oder Frischkäse darf der wff-Wert höchstens 880 g/kg betragen. Bei der Frischkäsegallerte muss der wff-Wert mehr als 880 und darf höchstens 890 g/kg betragen.
+
+[^52-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 53
 
@@ -989,16 +1016,16 @@ Bei der Pflege von Käse sind erlaubt:
 
 <sup>2</sup>
 
-Zusätzlich zu den Angaben nach Artikel 3 LIV[^53-2] sind anzugeben:
+Zusätzlich zu den obligatorischen Angaben nach Artikel 3 LIV[^53-2] sind anzugeben:[^53-3]
 
-- a. die Geschmacksgebung durch Gewürze, Kräuter, die Behandlung mit Rauch, Spirituosen oder andere Zutaten;
+- a.[^53-4] die Verwendung von Zutaten nach Artikel 51 Absatz 1 Buchstabe c und von Stoffen nach Artikel 51 Absatz 2 Buchstaben d und e sowie das Räuchern;
 - b. bei Verwendung von Buttermilch: deren Anteil in Massenprozenten;
 - c. bei gereiftem Käse: die Festigkeitsstufe nach Artikel 52 Absatz 2;
 - d. die Bezeichnung «mit Rohmilch hergestellt», sofern ein Teil der bei der Herstellung verwendeten Milch dem Begriff von Rohmilch nach Artikel 32 Absatz 2 entspricht und der Herstellungsprozess keinerlei Hitzebehandlung oder physikalische oder chemische Behandlung umfasst.
 
 <sup>3</sup> Die Bezeichnung «aus thermisierter Milch» kann verwendet werden, wenn die für die Käseherstellung verwendete Milch während mindestens 15 Sekunden auf eine Temperatur von über 40 °C und weniger als 72 °C erwärmt wurde und die Milch einen positiven Phosphatasetest aufweist.
 
-<sup>4</sup> Die Bezeichnung «pasteurisiert» oder «aus pasteurisierter Milch» kann verwendet werden, wenn die Milch oder die Käsemasse zu einem Zeitpunkt des Herstellungsprozesses eine der Pasteurisation nach Artikel 49 Absatz 1 Buchstabe a HyV[^53-3] entsprechende Hitzebehandlung erfahren hat.
+<sup>4</sup> Die Bezeichnung «pasteurisiert» oder «aus pasteurisierter Milch» kann verwendet werden, wenn die Milch oder die Käsemasse zu einem Zeitpunkt des Herstellungsprozesses eine der Pasteurisation nach Artikel 49 Absatz 1 Buchstabe a HyV[^53-5] entsprechende Hitzebehandlung erfahren hat.
 
 <sup>5</sup> Ist die gesamte für die Käsefabrikation verwendete Milchmenge Rohmilch nach Artikel 32 Absatz 2, so kann in Abweichung von Absatz 2 Buchstabe d in geeigneter Weise darauf hingewiesen werden.
 
@@ -1013,7 +1040,9 @@ Wird Käse aus Ziegen- oder Schafmilch nicht ausschliesslich aus Ziegen- oder Sc
 
 [^53-1]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^53-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^53-3]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^53-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^53-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^53-5]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 
 #### Art. 54
 
@@ -1260,7 +1289,7 @@ Für Rahm gelten folgende Fettgehaltsstufen:
 
 <sup>2</sup>
 
-Wird Rohrahm vorverpackt abgegeben, so sind zusätzlich zu den Angaben nach Artikel 3 LIV[^71-1] anzubringen:
+Wird Rohrahm vorverpackt abgegeben, so sind zusätzlich zu den obligatorischen Angaben nach Artikel 3 LIV[^71-1] anzubringen:
 
 - a. ein Hinweis auf die Lagertemperatur;
 - b. ein Hinweis, dass es sich um Rohrahm handelt und dieser nicht als genussfertig gilt;
@@ -1339,7 +1368,7 @@ Es sind die folgenden Sachbezeichnungen zu verwenden:
 
 <sup>2</sup> Bei Milchstreichfetten ist die Sachbezeichnung mit der Angabe des Fettgehaltes in Prozenten zu ergänzen.
 
-<sup>3</sup> Werden Butter oder Milchstreichfette aus nicht wärmebehandelten Rohstoffen oder Zutaten hergestellt, so ist die Sachbezeichnung mit dem Hinweise «unpasteurisiert» zu ergänzen.
+<sup>3</sup> Werden Butter oder Milchstreichfette aus Rohstoffen oder Zutaten hergestellt, die keiner Hitzebehandlung nach Artikel 26 Absätze 2 und 3 HyV[^75-1] unterzogen wurden, so ist die Sachbezeichnung mit dem Hinweis «unpasteurisiert» zu ergänzen.[^75-2]
 
 <sup>4</sup> Butter nach Artikel 73 Absatz 1 Buchstabe a kann auch als «Milchrahmbutter», «Süssrahmbutter» oder «gesäuerte Butter» bezeichnet werden, wenn sie aus den entsprechenden Ausgangsprodukten hergestellt ist. Die Bezeichnung «Sirtenrahmbutter» darf verwendet werden, wenn die Butter aus einem Gemisch von Milch- und Sirtenrahm hergestellt worden ist.
 
@@ -1348,6 +1377,9 @@ Es sind die folgenden Sachbezeichnungen zu verwenden:
 <sup>6</sup> Zur Herstellung von Lebensmitteln, die in der Sachbezeichnung einen Hinweis auf Butter tragen, wie «Buttergebäck» oder «Margarine mit Butter», darf als Zutat Butter jeder Art nach Absatz 1 Buchstaben a–c verwendet werden.
 
 <sup>7</sup> Dreiviertelfettbutter darf auch als «Butter, fettreduziert» und Halbfettbutter als «Butter, leicht» oder «Butter, light» bezeichnet werden.
+
+[^75-1]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^75-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 76
 
@@ -1572,7 +1604,7 @@ Bei der Sichtkontrolle einer Partie von Eiern, die für die Abgabe an Konsumenti
 
 <sup>1</sup>
 
-Werden die Eier vorverpackt abgegeben, so sind die Angaben nach Artikel 3 LIV[^92-1] zu ergänzen mit:
+Werden die Eier vorverpackt abgegeben, so sind die obligatorischen Angaben nach Artikel 3 LIV[^92-1] zu ergänzen mit:
 
 - a. einem Hinweis auf die Lagertemperatur, falls das Produkt gekühlt abgegeben wird;
 - b. der Eierstückzahl und dem Nettogewicht oder der Eierstückzahl und dem Mindestgewicht pro Ei in Gramm.
@@ -1590,14 +1622,16 @@ Werden die Eier vorverpackt abgegeben, so sind die Angaben nach Artikel 3 LIV[^9
 
 **Eiprodukte**
 
-Zusätzlich zu den Angaben nach Artikel 3 LIV[^93-1] sind anzugeben:
+Zusätzlich zu den obligatorischen Angaben nach Artikel 3 LIV[^93-1] sind anzugeben:[^93-2]
 
 - a. bei Eiprodukten, die nicht für den Einzelhandel, sondern als Zutaten für die Herstellung eines anderen Erzeugnisses bestimmt sind: bei welcher Temperatur die Eiprodukte aufbewahrt werden müssen und für wie lange die Haltbarkeit des Erzeugnisses bei Einhaltung dieser Temperatur gewährleistet werden kann;
 - b. bei Eiprodukten, denen andere Lebensmittel zugesetzt werden: der Eigehalt in Massenprozenten bezogen auf das Endprodukt;
-- c. bei Flüssigei nach Artikel 57 Absatz 7 HyV[^93-2]: zusätzlich zur Angabe nach Buchstabe b «nichtpasteurisiertes Flüssigei – am Bestimmungsort zu behandeln» sowie das Datum und die Uhrzeit des Aufschlagens.
+- c.[^93-3] bei Flüssigei nach Artikel 57 Absatz 7 HyV[^93-4]: zusätzlich zur Angabe nach Buchstabe a «nichtpasteurisiertes Flüssigei – am Bestimmungsort zu behandeln» sowie das Datum und die Uhrzeit des Aufschlagens.
 
 [^93-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^93-2]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^93-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^93-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^93-4]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
 
 #### Art. 94
 
@@ -1740,6 +1774,14 @@ Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch
 
 [^105a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
+#### Art. 105b
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^105b-1]
+
+Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^105b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+
 #### Art. 106
 
 **Inkrafttreten**
@@ -1767,7 +1809,7 @@ Anhang 2
 
 (Art. 10 Abs. 1 Bst. a)
 
-## Höchstwerte der Fett- und Bindegewebeanteile für Zutaten, die mit dem Begriff «X****-fleisch» bezeichnet werden
+## Höchstwerte der Fett- und Bindegewebeanteile für Zutaten, die mit dem Begriff «X-fleisch» bezeichnet werden
 
 [^annex2-lvlu1-1]
 
