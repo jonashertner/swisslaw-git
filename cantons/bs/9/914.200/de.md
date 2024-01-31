@@ -1,0 +1,92 @@
+---
+canton: BS
+number: "914.200"
+title: Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
+short: EG IVöB
+language: de
+version: 2024-02-01
+version_adopted: 2022-06-23
+adopted: 2022-06-23
+in_force: 2024-02-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/914.200"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6137/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
+
+Submission
+
+(EG IVöB)
+
+Vom 23. Juni 2022 (Stand 1. Februar 2024)
+
+Der Grosse Rat des Kantons Basel-Stadt,
+
+gestützt auf §§ 83 und 85 der Verfassung des Kantons Basel-Stadt vom 23. März 2005[^ingress-1] und Art. 63 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB) vom 15. November 2019, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [20.1317.01](https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200110735) vom 2. Februar sowie in den Bericht der Justiz-, Sicherheits- und Sportkommission Nr. [20.1317.02](https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200110735) vom 17. Mai 2022,
+
+beschliesst:
+
+[^ingress-1]: SG [111.100](https://www.gesetzessammlung.bs.ch/data/111.100/de)
+
+#### § 1
+
+**Beitritt**
+
+<sup>1</sup> Der Kanton Basel-Stadt tritt der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB) vom 15. November 2019 bei.
+
+#### § 2
+
+**Zuschlagskriterien (Art. 29 Abs. 1 IVöB)**
+
+<sup>1</sup> Zusätzlich zu den in der IVöB erwähnten Zuschlagskriterien kann das Kriterium «Verlässlichkeit des Preises» berücksichtigt werden.
+
+#### § 3
+
+**Veröffentlichungen (Art. 48 Abs. 1 IVöB)**
+
+<sup>1</sup> Die Auftraggeber veröffentlichen Zuschläge, die ausserhalb des Staatsvertragsbereichs freihändig gemäss Art. 21 Abs. 2 IVöB erteilt wurden.
+
+#### § 4
+
+**Rechtsschutz (Art. 52 IVöB)**
+
+<sup>1</sup> Die Beschwerde gegen Verfügungen der Auftraggeber ist ab dem für das Einladungsverfahren massgebenden Auftragswert zulässig.
+
+#### § 5
+
+**Vollzugs- und Ausführungsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat regelt den Vollzug und erlässt die Ausführungsbestimmungen. Er wird insbesondere ermächtigt:
+
+- a) Vereinbarungen mit Grenzregionen und Nachbarstaaten gemäss Art. 6 Abs. 4 IVöB abzuschliessen;
+- b) die für die Kontrollen zuständigen Stellen zu bezeichnen (Art. 12 Abs. 5 IVöB);
+- c) die für den Vollzug, die Kontrolle und Aufsicht verantwortlichen Stellen zu bezeichnen bezüglich Art. 28 Abs. 1, Art. 45 Abs. 1 – 5, Art. 50 Abs. 1 und Art. 62 Abs. 1 und 2 IVöB;
+- d) Offertöffnungen als öffentlich vorzusehen (Art. 37 IVöB);
+- e) ein zusätzliches Publikationsorgan im Sinne von Art. 48 Abs. 7 IVöB zu bezeichnen;
+- f) die Befugnis des Auftraggebers zur Eröffnung von Verfügungen gemäss Art. 51 Abs. 1 IVöB zu delegieren;
+- g) die für den einheitlichen Vollzug und die Auskunftserteilung sowie Aus- und Weiterbildung im öffentlichen Beschaffungswesen zuständige kantonale Stelle zu bezeichnen;
+- h) die kantonalen Stellen für die Entgegennahme und Behandlung von Anzeigen der Arbeitnehmenden, der paritätischen Kommissionen oder von anderen Kontrollorganen bei Missachtung von Bestimmungen über den Arbeitsschutz, die Arbeitsbedingungen, die Gleichbehandlung von Frau und Mann in Bezug auf die Lohngleichheit, den Schutz der Umwelt oder von Bestimmungen über die Schwarzarbeit gemäss Art. 12 Abs. 1 – 3 IVöB zu bestimmen;
+- i) im Rahmen der staatsvertraglichen Verpflichtungen Bestimmungen zu erlassen, um die Interessen bestimmter Personengruppen oder andere wichtige Themen, insbesondere die Gleichstellung von Menschen mit Behinderungen sowie den Klima- und Umweltschutz, bei öffentlichen Beschaffungen zu fördern;
+- j) Gebühren zu erheben.
+
+#### § 6
+
+**Erklärungen, Änderungen, Rechtskraft**
+
+<sup>1</sup> Der Regierungsrat erklärt den Beitritt und Austritt zur IVöB gegenüber dem Interkantonalen Organ gemäss Art. 63 IVöB.
+
+<sup>2</sup> Der Beitritt zur IVöB wird mit der Abgabe der Beitrittserklärung an das Interkantonale Organ rechtskräftig.
+
+<sup>3</sup> Der Regierungsrat ratifiziert Änderungen der IVöB, soweit sie von untergeordneter Bedeutung sind. Ansonsten bedürfen Änderungen der IVöB sowie der Austritt daraus der Zustimmung des Grossen Rates.
+
+<sup>4</sup> Der Regierungsrat wird ermächtigt, aus der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. März 2001 auszutreten, wenn sämtliche Kantone der revidierten IVöB beigetreten sind.
+
+*Schlussbestimmung*
+
+Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.[^footer-1]
+
+KB 25.06.2022
+
+[^footer-1]: In Kraft getreten am 1. Februar 2024
