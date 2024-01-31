@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2023-12-21
+version: 2024-02-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20231221/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20231221-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20231221/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 21 décembre 2023)
+du 4 mars 2022 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -492,35 +492,43 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et, si les
 
 <sup>1</sup> La vente, la livraison, l’exportation, le transit et le transport des biens destinés au renforcement de l’industrie visés à l’annexe 23 à destination de la Fédération de Russie ou destinés à un usage dans ce pays sont interdits.
 
+<sup>1bis</sup> Le transit par la Fédération de Russie de biens destinés au renforcement de l’industrie visés à l’annexe 23*a* est interdit.[^11a-2]
+
 <sup>2</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage et les conseils techniques, ainsi que l’octroi de moyens financiers liés aux biens visés à l’al. 1 ou à la vente, à l’exportation, au transit, au transport, à la fourniture, à la fabrication, à l’entretien et à l’utilisation desdits biens à destination de la Fédération de Russie ou destinés à un usage dans ce pays sont interdits.
 
-<sup>2bis</sup> La vente directe ou indirecte, la concession sous licence ou tout autre transfert de droits de propriété intellectuelle ou de secrets d’affaires, ainsi que l’octroi de droits permettant de consulter ou de réutiliser tout matériel ou toute information protégés par des droits de propriété intellectuelle ou constituant des secrets d’affaires, en rapport avec les biens visés à l’al. 1 ou avec la fourniture, la fabrication, l’entretien et l’utilisation de ces biens, à toute personne physique ou morale, toute entité ou tout établissement en Fédération de Russie ou aux fins d’une utilisation en Fédération de Russie sont interdits.[^11a-2]
+<sup>2bis</sup> La vente directe ou indirecte, la concession sous licence ou tout autre transfert de droits de propriété intellectuelle ou de secrets d’affaires, ainsi que l’octroi de droits permettant de consulter ou de réutiliser tout matériel ou toute information protégés par des droits de propriété intellectuelle ou constituant des secrets d’affaires, en rapport avec les biens visés à l’al. 1 ou avec la fourniture, la fabrication, l’entretien et l’utilisation de ces biens, à toute personne physique ou morale, toute entité ou tout établissement en Fédération de Russie ou aux fins d’une utilisation en Fédération de Russie sont interdits.[^11a-3]
 
 <sup>3</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas aux biens et services qui sont nécessaires aux activités officielles de représentations diplomatiques ou consulaires de la Suisse ou de ses partenaires en Fédération de Russie ou d’organisations internationales jouissant d’immunités conformément au droit international.
 
 <sup>4</sup>
 
-Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 et 2 si cela est nécessaire:
+Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 à 2 si cela est nécessaire:[^11a-4]
 
 - a. à des fins médicales ou pharmaceutiques et pour une utilisation finale non militaire;
 - b. à des fins humanitaires ou d’évacuation, ou
-- c.[^11a-3] à l’usage exclusif de la Suisse afin de remplir ses obligations de maintenance dans des zones qui font l’objet d’un contrat de location à long terme entre la Suisse et la Fédération de Russie, ou
-- d.[^11a-4] à l’établissement, à l’exploitation, à l’entretien, à l’approvisionnement en combustible, au retraitement du combustible et à la sûreté des capacités nucléaires civiles, et à la poursuite de la conception, de la construction et de la mise en service exigées pour la réalisation d’installations nucléaires civiles, à la fourniture de matériaux précurseurs pour la production de radio-isotopes médicaux et d’applications médicales similaires, ou de technologies critiques pour la surveillance des rayonnements dans l’environnement, ainsi qu’à une coopération nucléaire civile, en particulier dans le domaine de la recherche et du développement.[^11a-5]
+- c.[^11a-5] à l’usage exclusif de la Suisse afin de remplir ses obligations de maintenance dans des zones qui font l’objet d’un contrat de location à long terme entre la Suisse et la Fédération de Russie, ou
+- d.[^11a-6] à l’établissement, à l’exploitation, à l’entretien, à l’approvisionnement en combustible, au retraitement du combustible et à la sûreté des capacités nucléaires civiles, et à la poursuite de la conception, de la construction et de la mise en service exigées pour la réalisation d’installations nucléaires civiles, à la fourniture de matériaux précurseurs pour la production de radio-isotopes médicaux et d’applications médicales similaires, ou de technologies critiques pour la surveillance des rayonnements dans l’environnement, ainsi qu’à une coopération nucléaire civile, en particulier dans le domaine de la recherche et du développement.[^11a-7]
 
 <sup>5</sup>
 
-Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 et 2 pour:
+Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 à 2 pour:[^11a-8]
 
 - a. les biens de la position tarifaire 8417 20 si ceux-ci sont utilisés par des personnes physiques dans leur ménage pour la fabrication de produits de boulangerie, de pâtisseries ou de biscuits;
-- b.[^11a-6] les biens des chapitres 72, 84, 85 et 90 du tarif des douanes, pour autant que ceux-ci soient indispensables à la production des biens en titane nécessaires dans l’industrie aéronautique et qu’il n’existe pas d’autre source d’approvisionnement.[^11a-7]
+- b.[^11a-9] les biens des chapitres 72, 84, 85 et 90 du tarif des douanes, pour autant que ceux-ci soient indispensables à la production des biens en titane nécessaires dans l’industrie aéronautique et qu’il n’existe pas d’autre source d’approvisionnement.[^11a-10]
+
+<sup>6</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations à l’interdiction prévue à l’al. 1<sup>bis</sup> si cela est indispensable à la production des biens en titane nécessaires dans l’industrie aéronautique et qu’il n’existe pas d’autre source d’approvisionnement.[^11a-11]
 
 [^11a-1]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^11a-2]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^11a-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^11a-4]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^11a-5]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^11a-6]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^11a-7]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^11a-2]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11a-3]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^11a-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11a-5]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^11a-6]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^11a-7]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^11a-8]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11a-9]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^11a-10]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^11a-11]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 12
 
@@ -569,13 +577,30 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 - c. aux biens visés à l’annexe 29 transportés dans les États tiers qui y sont mentionnés pendant la période qui y est fixée;
 - d. à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement, ou en réaction à des catastrophes naturelles, pour autant que le SECO ait été informé immédiatement après la constatation de l’événement ou de la catastrophe naturelle.
 
-<sup>5</sup> L’interdiction prévue à l’al. 1 ne s’applique pas à la fourniture des services de pilotage nécessaires pour des raisons de sécurité maritime.
+<sup>5</sup> Aux fins de l’application des al. 1 et 4, let. b, pour le pétrole brut russe ou les produits pétroliers russes visés à l’annexe 24, chargés à partir du 20 février 2024, les personnes physiques ou morales qui fournissent des services et qui n’ont pas accès au prix-plafond par baril fixé à l’annexe 28 pour ces biens recueillent des informations sur les prix par poste pour les coûts accessoires auprès des opérateurs en amont de la chaîne d’approvisionnement du commerce de pétrole brut russe ou de produits pétroliers russes. Ces informations sur les prix sont fournies aux contreparties et au SECO, à leur demande.[^12b-3]
 
-<sup>6</sup> Toutes les transactions relatives à l’achat ou au transport dans des États hors de la Suisse et de l’EEE de condensats de gaz naturel de la position tarifaire 2709 00 10 originaires ou provenant de la Fédération de Russie doivent être déclarées au SECO dans un délai de deux semaines, en indiquant les volumes achetés ou transportés.[^12b-3]
+<sup>6</sup> Toutes les transactions relatives à l’achat ou au transport dans des États hors de la Suisse de condensats de gaz naturel de la position tarifaire 2709 00 10 originaires ou provenant de la Fédération de Russie doivent être déclarées au SECO dans un délai de deux semaines, en indiquant les volumes achetés ou transportés.[^12b-4]
 
 [^12b-1]: Introduit par le ch. I de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 16 déc. 2022 à 18 heures ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 [^12b-2]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^12b-3]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^12b-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^12b-4]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+
+#### Art. 12c
+
+**Régime d’autorisation pour la vente de bateaux-citernes**[^12c-1]
+
+<sup>1</sup> Sont soumis à autorisation la vente, la livraison, l’exportation, le transport et le transit de bateaux-citernes de la position tarifaire 8901 20 00 pour le transport de pétrole brut ou de produits pétroliers visés à l’annexe 24 ainsi que le transfert de propriété d’une autre manière de ces biens à des personnes, à des entreprises ou à des entités en Fédération de Russie ou aux fins d’une utilisation dans ce pays.
+
+<sup>2</sup> Le SECO accorde l’autorisation après avoir consulté les services compétents du DFAE.
+
+<sup>3</sup> Il refuse l’autorisation s’il y a lieu de penser que les bateaux-citernes visés à l’al. 1 seront utilisés pour enfreindre les interdictions prévues aux art. 12*a* ou 12*b*.
+
+<sup>4</sup> La vente et le transfert de propriété d’une autre manière de bateaux-citernes visés à l’al. 1 à destination d’un État tiers doivent être déclarés sans délai au SECO, avec indication de l’identité et, le cas échéant, de l’acte de constitution du vendeur et de l’acheteur, y compris l’actionnariat et la direction, du numéro OMI d’identification du bateau-citerne et de son indicatif d’appel.
+
+<sup>5</sup> Les ventes et les transferts de propriété d’une autre manière visés aux al. 1 et 4 survenus entre le 5 décembre 2022 et le 1<sup>er</sup> février 2024 doivent être déclarés au SECO d’ici au 3 mai 2024.
+
+[^12c-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 13
 
@@ -589,7 +614,7 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
 **Exportation de biens à destination des territoires désignés**
 
-<sup>1</sup> La vente, la livraison, l’exportation et le transit de biens visés à l’annexe 7 est interdite si ces biens sont destinés à des personnes, à des entreprises ou à des entités dans les territoires désignés à l’annexe 6.
+<sup>1</sup> La vente, la livraison, l’exportation et le transit de biens visés à l’annexe 7 sont interdits si ces biens sont destinés à des personnes, à des entreprises ou à des entités dans les territoires désignés à l’annexe 6 ou à un usage sur ces territoires.[^14-1]
 
 <sup>2</sup> Il est interdit de fournir une assistance technique, des services d’intermédiation et des services de construction et d’ingénierie ainsi qu’un financement ou une aide financière en lien avec les biens visés à l’annexe 7 à des personnes, à des entreprises ou à des entités dans les territoires désignés à l’annexe 6.
 
@@ -599,25 +624,28 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
 <sup>5</sup> Dans des cas urgents dûment motivés, la vente, la livraison, le transfert ou l’exportation sont admissibles sans autorisation préalable, dans la mesure où l’exportateur informe le SECO dans les cinq jours ouvrés suivant la vente, la livraison, le transfert ou l’exportation et expose en détail les motifs justifiant la vente, la livraison, le transfert ou l’exportation sans autorisation préalable.
 
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+
 #### Art. 14a
 
 **Produits sidérurgiques**[^14a-1]
 
 <sup>1</sup> L’importation, le transport et l’achat des produits sidérurgiques visés à l’annexe 17 originaires ou provenant de la Fédération de Russie sont interdits.
 
-<sup>2</sup> L’importation, le transport et l’achat de produits sidérurgiques visés à l’annexe 17 qui ont fait l’objet de transformations dans un État tiers au moyen de produits sidérurgiques originaires ou provenant de la Fédération de Russie sont interdits.
+<sup>2</sup> L’importation, le transport et l’achat de produits sidérurgiques visés à l’annexe 17 qui ont fait l’objet de transformations dans un État tiers au moyen de produits sidérurgiques visés à l’annexe 17 originaires ou provenant de la Fédération de Russie sont interdits.[^14a-2]
 
 <sup>3</sup> La fourniture, directe ou indirecte, d’une assistance technique, de services de courtage, de moyens financiers ou d’une aide financière, y compris les produits financiers dérivés, ainsi que de produits d’assurance et de réassurance en rapport avec les activités visées aux al. 1 et 2 est interdite.
 
-<sup>4</sup> Les interdictions prévues à l’al. 1 ne s’appliquent pas à l’achat de biens faisant partie des quotas de volume d’importation fixés par l’Union européenne ni à l’importation, au transit et au transport de ces biens en Suisse ou par la Suisse.[^14a-2]
+<sup>4</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas à l’achat de biens faisant partie des quotas de volume d’importation fixés par l’Union européenne ni à l’importation, au transit et au transport de ces biens en Suisse ou par la Suisse.[^14a-3]
 
-<sup>4bis</sup> Les interdictions prévues à l’al. 2 ne s’appliquent pas à l’achat de biens faisant partie des quotas de volume d’importation fixés par l’Union européenne ni à l’importation, au transit et au transport de ces biens en Suisse ou par la Suisse, pour autant que, au moment de l’importation, une preuve du pays d’origine des intrants sidérurgiques utilisés pour la transformation de ces biens dans un pays tiers soit fournie.[^14a-3]
+<sup>4bis</sup> Au moment de l’importation de biens visés à l’al. 2 depuis un État tiers en dehors de l’EEE ou du Royaume-Uni, une preuve doit être fournie informant de l’origine des intrants transformés dans l’État tiers. Cette preuve doit être mentionnée dans la déclaration en douane.[^14a-4]
 
 <sup>5</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1 et 2, si cela est nécessaire à l’établissement, à l’exploitation, à l’entretien, à l’approvisionnement en combustible, au retraitement du combustible et à la sûreté des capacités nucléaires civiles, et à la poursuite de la conception, de la construction et de la mise en service exigées pour la réalisation d’installations nucléaires civiles, à la fourniture de matériaux précurseurs pour la production de radio-isotopes médicaux et d’applications médicales similaires, ou de technologies critiques pour la surveillance des rayonnements dans l’environnement, ainsi qu’à une coopération nucléaire civile, en particulier dans le domaine de la recherche et du développement.
 
 [^14a-1]: Introduit par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures, sous réserve de l’al. 2, en vigueur depuis le 30 sept. 2023 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^14a-3]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14a-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14a-4]: Introduit par le ch. I de l’O du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 14b
 
@@ -671,34 +699,48 @@ Il peut, après avoir consulté les services compétents du DFAE et du DFF et ju
 Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
 - a. aux biens visés à l’annexe 21 qui font partie des quotas de volume d’importation fixés par l’Union européenne;
-- b. aux biens visés à l’annexe 21, ch. 1, qui sont destinés à un État tiers en dehors de la Suisse et de l’Union européenne.[^14c-5]
+- b. aux biens visés à l’annexe 21, ch. 1, qui sont destinés à un État tiers en dehors de la Suisse et de l’Union européenne;
+- c.[^14c-5] aux biens des positions tarifaires 7201 et 7203 qui font partie des quotas de volume d’importation fixés par l’Union européenne.[^14c-6]
 
 <sup>5</sup>
 
-L’interdiction prévue à l’al. 1 ne s’applique pas aux achats en Fédération de Russie qui sont nécessaires:
+L’interdiction prévue à l’al. 1 ne s’applique pas:
 
-- a. aux activités officielles des représentations diplomatiques ou consulaires de la Suisse ou de ses partenaires en Fédération de Russie ou d’organisations internationales jouissant d’immunités conformément au droit international, ou
-- b. à l’usage personnel de ressortissants suisses, de ressortissants d’un État membre de l’EEE ou de membres de leur famille proche.[^14c-6]
+- a.
 
-<sup>6</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1 et 2, si cela est nécessaire à l’établissement, à l’exploitation, à l’entretien, à l’approvisionnement en combustible, au retraitement du combustible et à la sûreté des capacités nucléaires civiles, et à la poursuite de la conception, de la construction et de la mise en service exigées pour la réalisation d’installations nucléaires civiles, à la fourniture de matériaux précurseurs pour la production de radio-isotopes médicaux et d’applications médicales similaires, ou de technologies critiques pour la surveillance des rayonnements dans l’environnement, ainsi qu’à une coopération nucléaire civile, en particulier dans le domaine de la recherche et du développement.[^14c-7]
+  aux achats en Fédération de Russie qui sont nécessaires:
+
+  - 1\. aux activités officielles des représentations diplomatiques ou consulaires de la Suisse ou de ses partenaires en Fédération de Russie ou d’organisations internationales jouissant d’immunités conformément au droit international, ou
+  - 2\. à l’usage personnel de ressortissants suisses, de ressortissants d’un État membre de l’EEE ou de membres de leur famille proche;
+
+- b.
+
+  à l’importation:
+
+  - 1\. d’effets personnels destinés à l’usage personnel des personnes physiques se rendant en Suisse ou des membres de leur famille proche voyageant avec elles, pour autant que ces effets personnels leur appartiennent et ne soient pas destinés à la vente,
+  - 2\. de véhicules de la position tarifaire 8703 non destinés à la vente, importés en Suisse pour un usage strictement personnel et appartenant à un ressortissant suisse ou à un ressortissant d’un État membre de l’EEE, ou à un membre de sa famille proche, qui réside en Fédération de Russie,
+  - 3\. de véhicules de la position tarifaire 8703 qui sont dotés d’une plaque d’immatriculation diplomatique et qui sont nécessaires au fonctionnement des représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international, ou à l’usage personnel de leur personnel et des membres de leur famille proche.[^14c-7]
+
+<sup>6</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1 et 2, si cela est nécessaire à l’établissement, à l’exploitation, à l’entretien, à l’approvisionnement en combustible, au retraitement du combustible et à la sûreté des capacités nucléaires civiles, et à la poursuite de la conception, de la construction et de la mise en service exigées pour la réalisation d’installations nucléaires civiles, à la fourniture de matériaux précurseurs pour la production de radio-isotopes médicaux et d’applications médicales similaires, ou de technologies critiques pour la surveillance des rayonnements dans l’environnement, ainsi qu’à une coopération nucléaire civile, en particulier dans le domaine de la recherche et du développement.[^14c-8]
 
 [^14c-1]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^14c-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^14c-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^14c-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14c-5]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^14c-6]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14c-7]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^14c-5]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14c-6]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^14c-7]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14c-8]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 14d
 
-**Or et produits en or**[^14d-1]
+**Or et produits contenant de l’or[^14d-2]**[^14d-1]
 
 <sup>1</sup> L’achat d’or visé à l’annexe 26 originaire et exporté de la Fédération de Russie après le 4 août 2022 ainsi que l’importation, le transit et le transport de cet or en Suisse et par la Suisse sont interdits.
 
 <sup>2</sup> L’achat d’or visé à l’annexe 26 qui a fait l’objet de transformations dans un pays tiers au moyen d’or visé à l’al. 1 ainsi que l’importation, le transit et le transport en Suisse et par la Suisse de cet or transformé sont interdits.
 
-<sup>3</sup> L’achat de produits en or visés à l’annexe 27 originaires et exportés de la Fédération de Russie après le 4 août 2022 ainsi que l’importation, le transit et le transport de ces biens en Suisse et par la Suisse sont interdits.
+<sup>3</sup> L’achat de produits contenant de l’or visés à l’annexe 27 originaires de la Fédération de Russie et exportés de ce pays à destination de la Suisse après le 4 août 2022 ainsi que l’importation, le transit et le transport de ces biens en Suisse et par la Suisse sont interdits.[^14d-3]
 
 <sup>4</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage et l’assistance technique, ainsi que l’octroi de moyens financiers en lien avec l’achat, l’importation, le transit et le transport en Suisse et par la Suisse de biens visés aux al. 1 à 3, ou encore avec la fourniture, la fabrication, la réparation ou l’utilisation desdits biens sont interdits.
 
@@ -709,14 +751,28 @@ L’interdiction prévue à l’al. 1 ne s’applique pas aux achats en Fédéra
 <sup>7</sup> Le SECO peut autoriser des dérogations aux interdictions visées aux al. 1 à 3 pour l’importation ou le transport de biens culturels provenant de la Fédération de Russie qui sont prêtés dans le cadre d’une coopération culturelle officielle avec la Fédération de Russie.
 
 [^14d-1]: Introduit par le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^14d-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14d-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 14e
 
-**Dérogations à l’interdiction de fournir une assistance technique**[^14e-1]
+**Diamants et produits avec des diamants**[^14e-1]
 
-Les interdictions de fournir une assistance technique visées aux art. 9, al. 4, 9*a*, al. 2, 9*b*, al. 2, 11, al. 2, 12, al. 2, 12*b*, al. 2, 14, al. 2, 14*a*, al. 3, 14*c*, al. 2, et 14*d*, al. 4, ne s’appliquent pas à la fourniture des services de pilotage à des navires en passage inoffensif, au sens du droit international, qui sont nécessaires pour des raisons de sécurité maritime.
+<sup>1</sup> L’achat de diamants et de produits avec des diamants visés à l’annexe 27*a* originaires ou provenant de la Fédération de Russie ainsi que l’importation, le transit et le transport de ces biens en Suisse et par la Suisse sont interdits.
 
-[^14e-1]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+<sup>2</sup> L’achat de diamants et de produits avec des diamants visés à l’annexe 27*a* de toute origine qui ont transité par la Fédération de Russie ainsi que l’importation, le transit et le transport de ces biens en Suisse et par la Suisse sont interdits.
+
+<sup>3</sup> et <sup>4</sup> …
+
+<sup>5</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage et l’assistance technique, ainsi que l’octroi de moyens financiers en lien avec l’achat, l’importation, le transit et le transport en Suisse et par la Suisse de biens visés aux al. 1 à 4, ou encore avec la fourniture, la fabrication, la réparation ou l’utilisation desdits biens sont interdits.
+
+<sup>6</sup> Les interdictions prévues aux al. 1 à 4 ne s’appliquent pas aux produits avec des diamants visés à l’annexe 27*a*, ch. 3, qui sont destinés à l’usage personnel de personnes physiques se rendant en Suisse ou de membres de leur famille proche voyageant avec elles, pour autant que ces produits leur appartiennent et ne soient pas destinés à la vente.
+
+<sup>7</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1 à 4 pour l’importation, le transit ou le transport de biens culturels qui sont prêtés dans le cadre d’une coopération culturelle officielle avec la Fédération de Russie.
+
+<sup>8</sup> Lors de l’importation de biens visés aux al. 3 et 4, une preuve doit être fournie informant de l’origine des diamants et des produits avec des diamants transformés dans l’État tiers. Cette preuve doit être mentionnée dans la déclaration en douane.
+
+[^14e-1]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024, sous réserve de l’al. 4 en vigueur depuis le 1<sup>er</sup> mars 2024 et de l’al. 3 en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 ## Section 3 Restrictions financières
 
@@ -740,7 +796,7 @@ L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture 
 
 - a. à la réalisation d’activités humanitaires ou à la fourniture d’une aide à la population civile en lien avec la situation en Ukraine par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires ou fournir une aide à la population civile;
 - b. à l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et à l’accomplissement de missions officielles de la Confédération, ou
-- c.[^15-2] à la fourniture de services de pilotage à des navires en passage inoffensif, au sens du droit international, qui sont nécessaires pour des raisons de sécurité maritime.[^15-3]
+- c.[^15-2] …[^15-3]
 
 <sup>3bis</sup>
 
@@ -750,7 +806,12 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas non plus lorsque
 - b. de ressources et services associés nécessaires au fonctionnement, à l’entretien et à la sécurité des services de télécommunication mentionnés à la let. a;
 - c. de services de centre de données en Suisse et dans des États membres de l’EEE.[^15-4]
 
-<sup>4</sup> Le SECO peut, exceptionnellement, autoriser des dérogations aux interdictions prévues à l’al. 2 pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en lien avec la situation en Ukraine.[^15-5]
+<sup>4</sup>
+
+Le SECO peut autoriser des dérogations aux interdictions prévues à l’al. 2 pour:
+
+- a. permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en lien avec la situation en Ukraine;
+- b. permettre des paiements en faveur de Crimean Sea Ports pour les services fournis au port de pêche de Kerch, au port commercial de Yalta et au port commercial d’Evpatoria ainsi que pour les services fournis par Gosgidrografiya et par les succursales de Crimean Sea Ports situées dans des terminaux portuaires.[^15-5]
 
 <sup>5</sup>
 
@@ -771,20 +832,26 @@ Il peut autoriser le déblocage de certains avoirs ou ressources économiques ge
 - a. ces droits de propriété sont directement ou indirectement détenus par une personne physique ou morale, entreprise ou entité visée à l’annexe 8, et que
 - b. le produit de la vente ou du transfert reste gelé.[^15-10]
 
-<sup>5ter</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques à une personne physique ou morale, entreprise ou entité visée à l’annexe 8, lorsque la sauvegarde des intérêts du pays l’exige.[^15-11]
+<sup>5ter</sup>
 
-<sup>6</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-48057, SSID 175-48067 et SSID 175-48076, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 24 août 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 23 février 2022.[^15-12]
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques à une personne physique ou morale, entreprise ou entité visée à l’al. 1:
 
-<sup>7</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175‑54306, SSID 175‑54319, SSID 175‑54329 et SSID 175-54340, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 28 octobre 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 27 avril 2022.[^15-13]
+- a. lorsque la sauvegarde des intérêts du pays l’exige;
+- b. lorsqu’il a établi qu’une autorité judiciaire ou administrative en Suisse, dans un État membre de l’EEE ou au Royaume-Uni a adopté une décision, dans les conditions prévues par la loi, visant à priver, dans l’intérêt public, une personne physique ou morale, une entreprise ou une entité visée à l’al. 1 d’avoirs ou de ressources économiques, pour autant que les indemnités versées à ladite personne physique ou morale, entreprise ou entité en contrepartie de cette privation d’avoirs ou de ressources économiques soient gelées;
+- c. lorsqu’il a établi que ces avoirs ou ressources économiques sont nécessaires au paiement d’une contrepartie contractuellement convenue ou d’indemnités fixées par une autorité judiciaire ou administrative ou prévues par la loi dans le cadre du transfert obligatoire, par le gouvernement ou une autorité de la Fédération de Russie, de la propriété ou du contrôle d’une personne morale, d’une entité ou d’un établissement qui étaient précédemment détenus ou contrôlés par une personne morale, une entité ou un établissement établis en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, pour autant que la personne morale, l’entité ou l’établissement établi en Fédération de Russie qui a notamment fait l’objet d’un transfert obligatoire soit visé à l’annexe I du règlement (UE) n<sup>o</sup> 269/2014[^15-11] conformément à l’art. 3, par. 3, let. j, dudit règlement; sont réservés les avoirs et ressources économiques gelés qui sont détenus par des dépositaires centraux.[^15-12]
+
+<sup>6</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-48057, SSID 175-48067 et SSID 175-48076, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 24 août 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 23 février 2022.[^15-13]
+
+<sup>7</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175‑54306, SSID 175‑54319, SSID 175‑54329 et SSID 175-54340, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 28 octobre 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 27 avril 2022.[^15-14]
 
 <sup>8</sup>
 
 Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-56580 ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires afin:
 
 - a. de mettre fin, le 22 août 2023 au plus tard, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec l’entité avant le 4 août 2022, ou
-- b.[^15-14] de permettre la vente ou le transfert, jusqu’au 26 juillet 2023, de droits de propriété qui sont directement ou indirectement détenus par l’entité dans une personne morale, une entreprise ou une entité établie en Suisse ou dans un État membre de l’EEE.[^15-15]
+- b.[^15-15] de permettre la vente ou le transfert, jusqu’au 26 juillet 2023, de droits de propriété qui sont directement ou indirectement détenus par l’entité dans une personne morale, une entreprise ou une entité établie en Suisse ou dans un État membre de l’EEE.[^15-16]
 
-<sup>8bis</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-58307 et SSID 175-58343, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 26 juillet 2023, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 24 janvier 2023.[^15-16]
+<sup>8bis</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-58307 et SSID 175-58343, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 26 juillet 2023, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 24 janvier 2023.[^15-17]
 
 <sup>8ter</sup>
 
@@ -792,7 +859,7 @@ Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou resso
 
 - a. que ces avoirs ou ressources économiques sont nécessaires à une vente ou un transfert en cours de droits de propriété d’une personne morale, entreprise ou entité établie en Suisse ou dans un État membre de l’EEE, actuellement ou précédemment contrôlée par l’entité visée à l’annexe 8 sous le numéro SSID 175-54340;
 - b. que la vente ou le transfert est achevé au plus tard le 31 décembre 2023, et
-- c. que la vente ou le transfert est effectué sur la base d’opérations, de contrats ou d’autres accords qui ont été conclus avec les entités visées à l’annexe 8 sous les numéros SSID 175-54340 et 175-55580, ou avec la participation de celles-ci, avant le 3 juin 2022.[^15-17]
+- c. que la vente ou le transfert est effectué sur la base d’opérations, de contrats ou d’autres accords qui ont été conclus avec les entités visées à l’annexe 8 sous les numéros SSID 175-54340 et 175-55580, ou avec la participation de celles-ci, avant le 3 juin 2022.[^15-18]
 
 <sup>8quater</sup>
 
@@ -802,63 +869,84 @@ Il peut autoriser, au plus tard le 25 décembre 2023, la conversion d’un certi
 - b. que la demande de dérogation a été déposée au plus tard le 17 novembre 2023;
 - c. que le titulaire du certificat d’actions est en mesure de démontrer que cette conversion est nécessaire pour vendre les valeurs mobilières sous-jacentes;
 - d. que la vente des valeurs sous-jacentes respecte les interdictions visées aux art. 18 et 23, et
-- e. qu’aucun avoir ne sera mis à la disposition d’une quelconque autre entité visée à l’annexe 8.[^15-18]
+- e. qu’aucun avoir ne sera mis à la disposition d’une quelconque autre entité visée à l’annexe 8.[^15-19]
 
-<sup>9</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175‑48057, 175-48067, 175-48076, 175‑54306, 175‑54319, 175‑54329, 175-54340, 175‑56580, 175‑58307, 175‑58343, 175‑60615, 175‑60628, 175‑60640, 175-62977 et 175‑62994 ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour acheter, importer ou transporter des produits agricoles et alimentaires, y compris le blé et les engrais.[^15-19]
+<sup>9</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175‑48057, 175‑48067, 175‑48076, 175‑54306, 175‑54319, 175‑54329, 175-54340, 175‑56580, 175‑58307, 175‑58343, 175‑60615, 175‑60628, 175‑60640, 175-62977, 175‑62994 et 175‑70058, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour acheter, importer ou transporter des produits agricoles et alimentaires, y compris le blé et les engrais.[^15-20]
 
-<sup>9bis</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entreprise visée à l’annexe 8 sous le numéro SSID 175-55471, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entreprise, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 31 décembre 2022, à des transactions, y compris des ventes, effectuées en vue de la liquidation d’une coentreprise ou d’une institution juridique similaire créée avant le 16 mars 2022 et associant une personne morale, une entité ou un établissement visé à l’annexe 15.[^15-20]
+<sup>9bis</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entreprise visée à l’annexe 8 sous le numéro SSID 175-55471, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entreprise, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 31 décembre 2022, à des transactions, y compris des ventes, effectuées en vue de la liquidation d’une coentreprise ou d’une institution juridique similaire créée avant le 16 mars 2022 et associant une personne morale, une entité ou un établissement visé à l’annexe 15.[^15-21]
 
-<sup>9ter</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-55580, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 7 janvier 2023, aux opérations, contrats ou autres accords conclus avec cette entité avant le 3 juin 2022 ou auxquels elle était associée d’une autre manière avant cette date.[^15-21]
+<sup>9ter</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-55580, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 7 janvier 2023, aux opérations, contrats ou autres accords conclus avec cette entité avant le 3 juin 2022 ou auxquels elle était associée d’une autre manière avant cette date.[^15-22]
 
-<sup>9quater</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux personnes physiques visées à l’annexe 8 qui jouaient un rôle important dans le commerce international de produits agricoles et alimentaires, y compris le blé et les engrais, avant leur inscription sur la liste, ou la mise de certains avoirs ou ressources économiques à la disposition de ces personnes, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour acheter, livrer, transporter ou exporter des produits agricoles et alimentaires, y compris le blé et les engrais, vers des pays tiers afin d’agir sur la sécurité alimentaire.[^15-22]
+<sup>9quater</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux personnes physiques visées à l’annexe 8 qui jouaient un rôle important dans le commerce international de produits agricoles et alimentaires, y compris le blé et les engrais, avant leur inscription sur la liste, ou la mise de certains avoirs ou ressources économiques à la disposition de ces personnes, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour acheter, livrer, transporter ou exporter des produits agricoles et alimentaires, y compris le blé et les engrais, vers des pays tiers afin d’agir sur la sécurité alimentaire.[^15-23]
 
 <sup>9quinquies</sup>
 
 Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-60615, 175-60628 et 175-60640 ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires:
 
 - a. afin de mettre fin, au plus tard le 26 août 2023, aux opérations, contrats ou autres accords, y compris les relations de correspondant bancaire, conclus avec ces entités avant le 29 mars 2023, ou
-- b. pour l’entité visée à l’annexe 8 sous le numéro SSID 175-60615 en lien avec des transactions concernant le versement de fonds par la Jewish Claims Conference à des bénéficiaires en Fédération de Russie au plus tard le 26 novembre 2023, indépendamment du moment auquel ces opérations, contrats ou autres accords ont été conclus.[^15-23]
+- b.[^15-24] pour l’entité visée à l’annexe 8 sous le numéro SSID 175-60615 en lien avec des transactions concernant le versement de fonds par la Jewish Claims Conference à des bénéficiaires en Fédération de Russie au plus tard le 31 décembre 2024, indépendamment du moment auquel ces opérations, contrats ou autres accords ont été conclus.[^15-25]
 
-<sup>9sexies</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-61336 ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 26 août 2023, aux opérations, contrats ou autres accords qui ont été conclus avec cette entité ou avec la participation de celle-ci avant le 29 mars 2023.[^15-24]
+<sup>9sexies</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-61336 ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 26 août 2023, aux opérations, contrats ou autres accords qui ont été conclus avec cette entité ou avec la participation de celle-ci avant le 29 mars 2023.[^15-26]
 
-<sup>9septies</sup> Il peut autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à la personne physique visée à l’annexe 8 sous le numéro SSID 175-50994 ou la mise de certains avoirs ou ressources économiques à la disposition de cette personne physique, ou d’une entité lui appartenant, après avoir établi que ces avoirs ou ressources économiques sont nécessaires à la réalisation de transactions, y compris de ventes, qui sont strictement nécessaires pour liquider, au plus tard le 31 août 2023, une coentreprise ou une construction juridique similaire appartenant avant le 8 mars 2022 à cette personne physique ou à une entité lui appartenant.[^15-25]
+<sup>9septies</sup> Il peut autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à la personne physique visée à l’annexe 8 sous le numéro SSID 175-50994 ou la mise de certains avoirs ou ressources économiques à la disposition de cette personne physique, ou d’une entité lui appartenant, après avoir établi que ces avoirs ou ressources économiques sont nécessaires à la réalisation de transactions, y compris de ventes, qui sont strictement nécessaires pour liquider, au plus tard le 31 août 2023, une coentreprise ou une construction juridique similaire appartenant avant le 8 mars 2022 à cette personne physique ou à une entité lui appartenant.[^15-27]
+
+<sup>9octies</sup>
+
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175‑70058, après avoir établi:
+
+- a. que ces avoirs ou ressources économiques sont nécessaires pour effectuer un paiement à une personne morale ou une entité établie en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, à un ressortissant suisse, à un ressortissant d’un État membre de l’EEE ou du Royaume-Uni, ou à une personne physique titulaire d’un titre de séjour temporaire ou permanent en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, et
+- b. que ce paiement constitue une indemnité ou une prestation d’assurance faisant suite à la réalisation d’un événement assuré et qu’il n’enfreint pas l’al. 2.[^15-28]
+
+<sup>9novies</sup>
+
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux personnes physiques visées à l’annexe 8 sous les numéros SSID 175‑52264, 175‑52287, 175‑52983, 175‑53092, 175‑28544, 175‑50782, 175‑50792 et 175‑50978 ou aux entités visées à l’annexe 8 sous les numéros SSID 175‑37079 et 175‑37086, ou la mise de certains avoirs ou ressources économiques à la disposition de ces personnes physiques ou entités, après avoir établi:
+
+- a. que ces avoirs ou ressources économiques sont nécessaires à la vente et au transfert, au plus tard le 30 juin 2024, des droits de propriété détenus, directement ou indirectement, par l’une de ces personnes physiques ou entités dans une personne morale ou entité établie en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, et
+- b. que le produit de la vente et du transfert reste gelé.[^15-29]
+
+<sup>9decies</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175‑70575, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 20 juin 2024, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec cette entité avant le 1<sup>er</sup> février 2024.[^15-30]
 
 <sup>10</sup>
 
 Il peut autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à une personne physique, une entreprise ou une entité visée à l’annexe 8 ou contrôlés par cette personne physique, cette entreprise ou cette entité, ou la fourniture de services à cette personne physique, cette entreprise ou cette entité, après avoir établi que cela est strictement nécessaire à la mise en place, à la certification ou à l’évaluation d’un système:
 
 - a. qui supprime le contrôle qu’une personne physique, une entreprise ou une entité visée à l’annexe 8 exerce sur les actifs d’une entité ou d’une entreprise non visée à ladite annexe, établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE et qui est détenue ou contrôlée par la personne physique, l’entreprise ou l’entité précitée, et
-- b. qui garantit qu’aucun autre avoir ni ressource économique ne reviendra à la personne physique, à l’entreprise ou à l’entité visée à la let. a.[^15-26]
+- b. qui garantit qu’aucun autre avoir ni ressource économique ne reviendra à la personne physique, à l’entreprise ou à l’entité visée à la let. a.[^15-31]
 
-<sup>11</sup> Il autorise les dérogations visées aux al. 4 à 10 après avoir consulté les services compétents du DFAE et du DFF.[^15-27]
+<sup>11</sup> Il autorise les dérogations visées aux al. 4 à 10 après avoir consulté les services compétents du DFAE et du DFF.[^15-32]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^15-2]: Introduite par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-2]: Introduite par le ch. I de l’O du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Abrogée par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^15-3]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^15-4]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^15-5]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-5]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^15-6]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^15-7]: Abrogée par le ch. I de l’O du 29 mars 2023, avec effet au 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 [^15-8]: Introduite par le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 [^15-9]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^15-10]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-11]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-12]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-13]: Introduit par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-14]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-15]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-16]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-17]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-18]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-19]: Introduit par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-20]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-11]: Règlement (UE) n<sup>o</sup> 269/2014 du Conseil du 17 mars 2014 concernant des mesures restrictives eu égard aux actions compromettant ou menaçant l’intégrité territoriale, la souveraineté et l’indépendance de l’Ukraine; JO L 78 du 17.3.2014, modifié par le règlement (UE) 2023/2873 du Conseil du 18 décembre 2023, JO L, 2023/2873, 18.12.2023.
+[^15-12]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-13]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-14]: Introduit par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-15]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-16]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-17]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-18]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-19]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-20]: Introduit par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^15-21]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-22]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-23]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-24]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-25]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-26]: Introduit par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-22]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-23]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-24]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-25]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-26]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^15-27]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-28]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-29]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-30]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-31]: Introduit par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-32]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 16
 
@@ -944,15 +1032,15 @@ Sur des plates-formes de négociation, pour les valeurs mobilières de toute ban
 
 <sup>3</sup>
 
-Fait exception l’octroi de prêts servant:
+Fait exception l’octroi de prêts, pour autant qu’ils aient été déclarés au SECO dans un délai de trois mois à compter de leur date d’octroi, servant:[^19-1]
 
 - a. à financer les échanges commerciaux entre la Suisse ou l’Union européenne et des États tiers auxquels l’ordonnance ne s’applique pas;
 - b. à financer les livraisons de biens et les services nécessaires à l’exécution d’un contrat commercial dans le cadre visé à la let. a en provenance d’États membres de l’Union européenne ou d’États tiers;
-- c.[^19-1] à garantir le respect des exigences légales en matière de liquidité par des personnes morales ayant leur siège en Suisse ou dans l’Union européenne dans lesquelles des banques ou des entreprises visées à l’annexe 9 détiennent une participation de plus de 50 %.
+- c.[^19-2] à garantir le respect des exigences légales en matière de liquidité par des personnes morales ayant leur siège en Suisse ou dans l’Union européenne dans lesquelles des banques ou des entreprises visées à l’annexe 9 détiennent une participation de plus de 50 %.
 
 <sup>4</sup>
 
-L’octroi direct ou indirect de prêts est interdit lorsque le bénéficiaire est visé à l’art. 18, al. 4, après le 28 février 2022; fait exception l’octroi de prêts servant:
+L’octroi direct ou indirect de prêts est interdit lorsque le bénéficiaire est visé à l’art. 18, al. 4, après le 28 février 2022; fait exception l’octroi de prêts, pour autant qu’ils aient été déclarés au SECO dans un délai de trois mois à compter de leur date d’octroi, servant:[^19-3]
 
 - a. à financer le commerce entre la Suisse ou l’Union européenne et des États tiers auquel l’ordonnance ne s’applique pas;
 - b. à financer les livraisons de biens et les services nécessaires à l’exécution d’un contrat commercial dans le cadre visé à la let. a en provenance d’États membres de l’Union européenne ou d’États tiers.
@@ -968,11 +1056,12 @@ L’interdiction visée à l’al. 4 ne s’applique pas aux tirages ou décaiss
   - 1\. ont toutes été convenues avant le 28 février 2022, et
   - 2\. n’ont plus été modifiées à cette date ou postérieurement à celle-ci;
 
-- b. avant le 28 février 2022, une date d’échéance contractuelle a été fixée pour le remboursement intégral de tous les fonds mis à disposition et pour l’annulation de l’ensemble des engagements, droits et obligations découlant du contrat.
+- b. avant le 28 février 2022, une date d’échéance contractuelle a été fixée pour le remboursement intégral de tous les fonds mis à disposition et pour l’annulation de l’ensemble des engagements, droits et obligations découlant du contrat;
+- c.[^19-4] les tirages et décaissements ont été déclarés au SECO dans un délai de trois mois à compter du jour suivant la date à laquelle ils ont été effectués.
 
 <sup>6</sup>
 
-Les interdictions visées aux al. 1 et 2 ne s’appliquent pas aux tirages ou décaissements effectués en vertu d’un contrat avant le 5 mars 2022, si les conditions suivantes sont remplies:
+Les interdictions visées aux al. 1 et 2 ne s’appliquent pas aux tirages ou décaissements effectués en vertu d’un contrat conclu avant le 5 mars 2022, si les conditions suivantes sont remplies:[^19-5]
 
 - a.
 
@@ -982,9 +1071,15 @@ Les interdictions visées aux al. 1 et 2 ne s’appliquent pas aux tirages ou d�
   - 2\. n’ont plus été modifiées à cette date ou postérieurement à celle-ci;
 
 - b. avant le 5 mars 2022, une date d’échéance contractuelle a été fixée pour le remboursement intégral de tous les fonds mis à disposition et pour l’annulation de l’ensemble des engagements, droits et obligations découlant du contrat;
-- c. au moment de sa conclusion, le contrat n’enfreignait pas les interdictions prévues par la présente ordonnance en vigueur à l’époque.
+- c. au moment de sa conclusion, le contrat n’enfreignait pas les interdictions prévues par la présente ordonnance en vigueur à l’époque;
+- d.[^19-6] les tirages et décaissements ont été déclarés au SECO dans un délai de trois mois à compter du jour suivant la date à laquelle ils ont été effectués.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^19-4]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^19-5]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^19-6]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 20
 
@@ -1007,7 +1102,7 @@ Il est interdit, pour les personnes et établissements qui fournissent à titre 
 - b. à des personnes physiques résidant en Fédération de Russie, ou
 - c. à des personnes morales, entreprises ou entités établies en Fédération de Russie.[^20-4]
 
-<sup>3</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent ni aux ressortissants suisses ni aux ressortissants d’un État membre de l’EEE ou du Royaume-Uni ni aux personnes physiques titulaires d’un titre de séjour temporaire ou permanent en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^20-5]
+<sup>3</sup> Les interdictions prévues aux al. 1 à 2<sup>bis</sup> ne s’appliquent ni aux ressortissants suisses, ni aux ressortissants d’un État membre de l’EEE ou du Royaume-Uni, ni aux personnes physiques titulaires d’un titre de séjour temporaire ou permanent en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^20-5]
 
 <sup>4</sup>
 
@@ -1025,7 +1120,7 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 [^20-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^20-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^20-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^20-5]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^20-5]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^20-6]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^20-7]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
@@ -1109,7 +1204,7 @@ Il est interdit d’exercer une fonction au sein des organes directeurs:
 
 <sup>2</sup>
 
-L’interdiction prévue à l’al. 1 ne s’applique pas:[^24a-4]
+Sauf autre interdiction, l’interdiction prévue à l’al. 1 ne s’applique pas:[^24a-4]
 
 - a.[^24a-5] aux transactions nécessaires à l’achat, à l’importation ou au transport de gaz naturel, de titane, d’aluminium, de cuivre, de nickel, de palladium et de minerai de fer, depuis ou via la Fédération de Russie vers la Suisse, un État membre de l’EEE, l’Albanie, la Bosnie et Herzégovine, le Kosovo, le Monténégro, la Macédoine du Nord ou la Serbie;
 - b. aux transactions liées à des projets énergétiques hors de la Fédération de Russie dans lesquels une banque, une entreprise ou une entité visée à l’annexe 15 est un actionnaire minoritaire;
@@ -1124,7 +1219,7 @@ L’interdiction prévue à l’al. 1 ne s’applique pas:[^24a-4]
 - e.[^24a-7] aux transactions qui sont nécessaires, directement ou indirectement, à l’achat, à l’importation ou au transport, de pétrole, y compris les produits pétroliers raffinés, depuis ou via la Fédération de Russie;
 - f.[^24a-8] aux transactions qui sont nécessaires à l’achat, à l’importation ou au transport de produits pharmaceutiques, médicaux, agricoles et alimentaires, y compris le blé et les engrais;
 - g.[^24a-9] aux transactions qui sont nécessaires pour garantir l’accès aux procédures judiciaires, administratives ou arbitrales en Suisse ou dans un État membre de l’EEE, ou à la reconnaissance ou à l’exécution d’un jugement ou d’une sentence arbitrale rendus en Suisse ou dans un État membre de l’EEE;
-- h.[^24a-10] à la fourniture de services de pilotage à des navires en passage inoffensif, au sens du droit international, qui sont nécessaires pour des raisons de sécurité maritime.
+- h.[^24a-10] …
 
 <sup>3</sup>
 
@@ -1145,13 +1240,13 @@ Il peut, après avoir consulté les services compétents du DFAE et du DFF, auto
 [^24a-1]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^24a-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^24a-3]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures, sous réserve des let. b à d, en vigueur depuis le 24 fév. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^24a-4]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^24a-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^24a-5]: Nouvelle teneur selon le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 [^24a-6]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^24a-7]: Introduite par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^24a-8]: Introduite par le ch. I de l’O du 3 août 2022,([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^24a-9]: Introduite par le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^24a-10]: Introduite par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^24a-10]: Introduite par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Abrogée par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^24a-11]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 [^24a-12]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^24a-13]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
@@ -1221,7 +1316,7 @@ L’interdiction visée à l’al. 1 ne s’applique pas à la vente, à la four
 Les activités suivantes en lien avec des entreprises du secteur de l’énergie et du secteur minier de la Fédération de Russie sont interdites:
 
 - a. l’acquisition ou l’augmentation de participations dans des personnes morales, des entreprises ou des entités établies ou constituées selon le droit d’un État hors de la Suisse et de l’EEE et opérant dans le secteur de l’énergie ou le secteur minier en Fédération de Russie;
-- b. l’octroi de prêts, de crédits, ainsi que la participation à ces opérations, ou la fourniture d’une quelconque autre manière d’un financement, y compris une participation au capital, à des personnes morales, des entreprises ou des entités établies ou constituées selon le droit d’un État hors de la Suisse et de l’EEE et opérant dans le secteur de l’énergie ou le secteur minier en Fédération de Russie ou pour financer de telles personnes morales, entreprises ou entités;
+- b.[^28b-2] l’octroi de nouveaux prêts ou crédits, ainsi que la participation à ces opérations, ou la fourniture d’une quelconque autre manière d’un financement, y compris une participation au capital, à des personnes morales, à des entreprises ou à des entités établies ou constituées selon le droit d’un État hors de la Suisse et de l’EEE et opérant dans le secteur de l’énergie ou le secteur minier en Fédération de Russie ou pour financer de telles personnes morales, entreprises ou entités;
 - c. la création de coentreprises avec des personnes morales, des entreprises ou des entités établies ou constituées selon le droit d’un État hors de la Suisse et de l’EEE et opérant dans le secteur de l’énergie ou le secteur minier en Fédération de Russie;
 - d. la fourniture de services d’investissement directement ou indirectement liés aux activités visées aux let. a à c.
 
@@ -1232,9 +1327,13 @@ Le SECO peut, après avoir consulté les services compétents du DFAE, du DETEC 
 - a. nécessaires pour garantir l’approvisionnement énergétique de la Suisse ou d’États membres de l’EEE en cas de pénurie grave, déclarée ou imminente et pour le transport de pétrole et de gaz naturel, y compris de produits pétroliers raffinés, en provenance de la Fédération de Russie ou transitant par celle-ci, à destination de la Suisse ou d’États membres de l’EEE, ou
 - b. exclusivement destinées à une personne morale, une entreprise ou une entité opérant dans le secteur de l’énergie en Fédération de Russie et appartenant à une entreprise ou une entité établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE.
 
+<sup>2bis</sup> Il peut, après avoir consulté les services compétents du DFAE, du DETEC et du DFF, autoriser des dérogations aux interdictions visant le secteur de l’énergie prévues à l’al. 1, let. b, si, conformément à l’art. 24*a*, al. 2, let. b, les activités envisagées sont nécessaires pour piloter un projet gazier *offshore* en haute mer en Méditerranée dans lequel des banques, des entreprises ou des entités visées à l’annexe 15 détiennent une participation minoritaire depuis avant le 31 octobre 2017, à condition que ce projet soit exclusivement ou conjointement contrôlé ou piloté par une personne morale établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE.[^28b-3]
+
 <sup>3</sup> L’interdiction visant le secteur minier prévue à l’al. 1 ne s’applique pas aux activités qui tirent leur valeur la plus élevée de la production de l’un des matériaux énumérés à l’annexe 30 ou dont l’objectif principal est la production de l’un de ces matériaux.
 
 [^28b-1]: Introduit par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^28b-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28b-3]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 28c
 
@@ -1300,74 +1399,92 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 #### Art. 28e
 
-**Interdiction de fournir certains services**[^28e-1]
+**Interdictions concernant certains services et logiciels[^28e-2]**[^28e-1]
 
 <sup>1</sup> Il est interdit de fournir, directement ou indirectement, des services de comptabilité, de contrôle des comptes, y compris de contrôle légal des comptes, de tenue de livres ou de conseils fiscaux, ou des services de conseil en matière d’entreprise et de gestion ou des services de relations publiques, au gouvernement de la Fédération de Russie ou à des personnes morales, des entreprises ou des entités établies dans ce pays.
 
-<sup>1bis</sup> Il est interdit de fournir, directement ou indirectement, des services d’architecture et d’ingénierie, des services de conseil juridique et des services de conseil informatique au gouvernement de la Fédération de Russie ou à des personnes morales, des entreprises ou des entités établies dans ce pays.[^28e-2]
+<sup>1bis</sup> Il est interdit de fournir, directement ou indirectement, des services d’architecture et d’ingénierie, des services de conseil juridique et des services de conseil informatique au gouvernement de la Fédération de Russie ou à des personnes morales, des entreprises ou des entités établies dans ce pays.[^28e-3]
 
-<sup>1ter</sup> Il est interdit de fournir, directement ou indirectement, des services d’études de marché et de sondages d’opinion, des services d’essais et d’analyses techniques ainsi que des services de publicité au gouvernement de la Fédération de Russie ou à des personnes morales, des entreprises ou des entités établies en Fédération de Russie.[^28e-3]
+<sup>1ter</sup> Il est interdit de fournir, directement ou indirectement, des services d’études de marché et de sondages d’opinion, des services d’essais et d’analyses techniques ainsi que des services de publicité au gouvernement de la Fédération de Russie ou à des personnes morales, des entreprises ou des entités établies en Fédération de Russie.[^28e-4]
+
+<sup>1quater</sup> La vente, la livraison, l’exportation et la mise à disposition des logiciels de gestion d’entreprise et des logiciels de conception et de fabrication industrielles visés à l’annexe 32 au gouvernement de la Fédération de Russie ou à des personnes morales, à des entreprises ou à des entités établies en Fédération de Russie ainsi que le transport et le transit de ces biens par la Suisse sont interdits.[^28e-5]
+
+<sup>1quinquies</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage et les conseils techniques, ainsi que l’octroi de moyens financiers en lien avec les services ou logiciels visés aux al. 1 à 1<sup>quater</sup> ou avec la vente, l’exportation, le transit, le transport, la fourniture ou la mise à disposition de ces services ou logiciels à destination de la Fédération de Russie ou destinés à un usage dans ce pays sont interdits.[^28e-6]
 
 <sup>2</sup>
 
-Les interdictions prévues aux al. 1 à 1<sup>ter</sup> ne s’appliquent pas:
+Les interdictions prévues aux al. 1 à 1<sup>quater</sup> ne s’appliquent pas:[^28e-7]
 
-- a.[^28e-4] aux services destinés à l’usage exclusif de personnes morales, d’entreprises ou d’entités établies en Fédération de Russie qui sont détenues ou contrôlées exclusivement ou conjointement par des personnes morales, des entreprises ou des entités établies ou constituées selon le droit suisse, le droit d’un État membre de l’EEE ou le droit d’un pays partenaire;
-- b. aux activités humanitaires, telles que l’acheminement d’une assistance ou la facilitation de cet acheminement, y compris en ce qui concerne les fournitures médicales et les denrées alimentaires, ou le transfert de travailleurs humanitaires et de l’aide connexe, ou à des fins d’évacuation, pour autant que ces activités soient réalisées par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires.[^28e-5]
+- a.[^28e-8] aux services et logiciels destinés à l’usage exclusif de personnes morales, d’entreprises ou d’entités établies en Fédération de Russie qui sont détenues ou contrôlées exclusivement ou conjointement par des personnes morales, des entreprises ou des entités établies ou constituées selon le droit suisse, le droit d’un État membre de l’EEE ou le droit d’un pays partenaire;
+- b. aux activités humanitaires, telles que l’acheminement d’une assistance ou la facilitation de cet acheminement, y compris en ce qui concerne les fournitures médicales et les denrées alimentaires, ou le transfert de travailleurs humanitaires et de l’aide connexe, ou à des fins d’évacuation, pour autant que ces activités soient réalisées par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires.[^28e-9]
 
 <sup>2bis</sup>
 
 Les interdictions prévues aux al. 1 et 1<sup>bis</sup> ne s’appliquent pas aux services qui sont nécessaires:
 
 - a. à l’exercice des droits de la défense dans le cadre d’une procédure judiciaire ou du droit à un recours effectif;
-- b. pour garantir l’accès aux procédures judiciaires, administratives ou arbitrales en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, ou pour la reconnaissance ou l’exécution d’un jugement ou d’une sentence arbitrale rendus en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^28e-6]
+- b. pour garantir l’accès aux procédures judiciaires, administratives ou arbitrales en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, ou pour la reconnaissance ou l’exécution d’un jugement ou d’une sentence arbitrale rendus en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^28e-10]
 
 <sup>2ter</sup>
 
-Les interdictions prévues aux al. 1<sup>bis</sup> et 1<sup>ter</sup> ne s’appliquent pas aux services qui sont nécessaires:
+Les interdictions prévues aux al. 1<sup>bis</sup> à 1<sup>quater</sup> ne s’appliquent pas aux services et logiciels qui sont nécessaires:[^28e-11]
 
 - a. à des urgences de santé publique;
 - b. à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement;
-- c. en réaction à des catastrophes naturelles.[^28e-7]
+- c. en réaction à des catastrophes naturelles.[^28e-12]
 
-<sup>2quater</sup> L’interdiction prévue à l’al. 1<sup>bis</sup> ne s’applique pas aux services nécessaires aux mises à jour de logiciels à des fins non militaires et pour un utilisateur final non militaire.[^28e-8]
+<sup>2quater</sup> …[^28e-13]
 
 <sup>3</sup>
 
-Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 à 1<sup>ter</sup>, dès lors que des services sont nécessaires:[^28e-9]
+Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 à 1<sup>quater</sup>, dès lors que des services ou logiciels sont nécessaires:[^28e-14]
 
 - a. à des activités humanitaires, telles que l’acheminement d’une assistance ou la facilitation de cet acheminement, y compris en ce qui concerne les fournitures médicales et les denrées alimentaires ou le transfert de travailleurs humanitaires et de l’aide connexe, ou à des fins d’évacuation;
 - b. à des activités de la société civile qui promeuvent directement la démocratie, les droits de l’homme ou l’état de droit en Fédération de Russie;
-- c.[^28e-10] aux activités officielles de représentations diplomatiques ou consulaires de la Suisse et de ses partenaires ou d’organisations internationales jouissant d’immunités conformément au droit international en Fédération de Russie;
-- d.[^28e-11] pour garantir l’approvisionnement énergétique de la Suisse ou d’un État membre de l’EEE en cas de pénurie grave, déclarée ou imminente;
-- e.[^28e-12] à l’achat, à l’importation ou au transport en Suisse ou dans un État membre de l’EEE de titane, d’aluminium, de cuivre, de nickel, de palladium ou de minerai de fer;
-- f.[^28e-13] pour assurer le fonctionnement d’infrastructures, de matériels et de logiciels qui sont critiques pour la santé et la sécurité humaines ou pour la sécurité de l’environnement;
-- g.[^28e-14] à l’établissement, à l’exploitation, à l’entretien, à l’approvisionnement en combustible, au retraitement du combustible et à la sûreté des capacités nucléaires civiles, et à la poursuite de la conception, de la construction et de la mise en service exigées pour la réalisation d’installations nucléaires civiles, à la fourniture de matériaux précurseurs pour la production de radio-isotopes médicaux et d’applications médicales similaires, ou de technologies critiques pour la surveillance des rayonnements dans l’environnement, ainsi qu’à une coopération nucléaire civile, en particulier dans le domaine de la recherche et du développement;
-- h.[^28e-15]
+- c.[^28e-15] aux activités officielles de représentations diplomatiques ou consulaires de la Suisse et de ses partenaires ou d’organisations internationales jouissant d’immunités conformément au droit international en Fédération de Russie;
+- d.[^28e-16] pour garantir l’approvisionnement énergétique de la Suisse ou d’un État membre de l’EEE en cas de pénurie grave, déclarée ou imminente;
+- e.[^28e-17] à l’achat, à l’importation ou au transport en Suisse ou dans un État membre de l’EEE de titane, d’aluminium, de cuivre, de nickel, de palladium ou de minerai de fer;
+- f.[^28e-18] pour assurer le fonctionnement d’infrastructures, de matériels et de logiciels qui sont critiques pour la santé et la sécurité humaines ou pour la sécurité de l’environnement;
+- g.[^28e-19] à l’établissement, à l’exploitation, à l’entretien, à l’approvisionnement en combustible, au retraitement du combustible et à la sûreté des capacités nucléaires civiles, et à la poursuite de la conception, de la construction et de la mise en service exigées pour la réalisation d’installations nucléaires civiles, à la fourniture de matériaux précurseurs pour la production de radio-isotopes médicaux et d’applications médicales similaires, ou de technologies critiques pour la surveillance des rayonnements dans l’environnement, ainsi qu’à une coopération nucléaire civile, en particulier dans le domaine de la recherche et du développement;
+- h.[^28e-20]
 
   à la fourniture, par les opérateurs de télécommunication en Suisse ou dans un État membre de l’EEE, de services nécessaires:
 
   - 1\. au fonctionnement, à l’entretien et à la sécurité, y compris la cybersécurité, des services de communications électroniques, en Fédération de Russie, en Ukraine, en Suisse ou dans un État membre de l’EEE, entre la Fédération de Russie ou l’Ukraine et la Suisse ou un État membre de l’EEE, ou
   - 2\. aux services de centres de données en Suisse ou dans un État membre de l’EEE.
 
-<sup>4</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 et 1<sup>bis</sup> pour des services nécessaires à la mise en place, à la certification ou à l’évaluation du système visé à l’art. 15, al. 10.[^28e-16]
+<sup>4</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 et 1<sup>bis</sup> pour des services nécessaires à la mise en place, à la certification ou à l’évaluation du système visé à l’art. 15, al. 10.[^28e-21]
+
+<sup>5</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues à l’al. 1<sup>quater</sup>, pour autant que les logiciels soient nécessaires à la contribution de ressortissants russes à des projets *open source* internationaux.[^28e-22]
+
+<sup>6</sup> Les personnes morales, entreprises et entités doivent déclarer au SECO d’ici au 31 juillet 2024, puis sur une base semestrielle, les services et logiciels qu’elles fournissent ou mettent à disposition conformément à l’art. 2, al. a.[^28e-23]
+
+<sup>7</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des services ou logiciels concernés.[^28e-24]
 
 [^28e-1]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^28e-2]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-3]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28e-4]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^28e-5]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^28e-6]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28e-7]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28e-8]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28e-9]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28e-10]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-11]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-12]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-13]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-14]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-3]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-4]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^28e-5]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-6]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-7]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-8]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-9]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^28e-10]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^28e-11]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-12]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^28e-13]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-14]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^28e-15]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-16]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^28e-16]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-17]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-18]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-19]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-20]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-21]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^28e-22]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-23]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-24]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 28f
 
@@ -1509,7 +1626,7 @@ Il est interdit d’honorer les créances qui se fondent sur un contrat ou une a
 
 <sup>1</sup>
 
-Le SECO peut, jusqu’au 31 décembre 2023, autoriser des dérogations aux interdictions prévues aux art. 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* et 14*b* concernant la vente, la livraison, le transit ou le transport des biens et technologies visés aux annexes 1, 3, 4, 5, 16, 18, 19 et 23 et des biens énumérés à l’annexe 2 OCB[^30a-1] ainsi que la vente, la concession de licences ou tout autre transfert de droits de propriété intellectuelle ou de secrets d’affaires, de même que l’octroi de droits permettant de consulter ou de réutiliser tout matériel ou toute information protégés par des droits de propriété intellectuelle ou constituant des secrets d’affaires, en rapport avec les biens et technologies en question, pour autant que:[^30a-2]
+Le SECO peut, jusqu’au 30 juin 2024, autoriser des dérogations aux interdictions prévues aux art. 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* et 14*b* concernant la vente, la livraison, le transit ou le transport des biens et technologies visés aux annexes 1, 3, 4, 5, 16, 18, 19 et 23 et des biens énumérés à l’annexe 2 OCB[^30a-1] ainsi que la vente, la concession de licences ou tout autre transfert de droits de propriété intellectuelle ou de secrets d’affaires, de même que l’octroi de droits permettant de consulter ou de réutiliser tout matériel ou toute information protégés par des droits de propriété intellectuelle ou constituant des secrets d’affaires, en rapport avec les biens et technologies en question, pour autant que:[^30a-2]
 
 - a. les activités susmentionnées soient strictement nécessaires à la cession d’actifs ou à la liquidation d’activités en Fédération de Russie;
 - b.
@@ -1527,15 +1644,15 @@ Le SECO peut, jusqu’au 31 décembre 2023, autoriser des dérogations aux inter
 
 <sup>2bis</sup>
 
-Il peut, jusqu’au 31 mars 2024, autoriser des dérogations aux interdictions prévues à l’art. 11 concernant la vente, la livraison, le transit ou le transport des biens visés à l’annexe 5, pour autant que ces activités soient strictement nécessaires à la cession d’actifs d’une coentreprise:
+Il peut, jusqu’au 30 septembre 2024, autoriser des dérogations aux interdictions prévues à l’art. 11 concernant la vente, la livraison, le transit ou le transport des biens visés à l’annexe 5, pour autant que ces activités soient strictement nécessaires à la cession d’actifs d’une coentreprise:[^30a-3]
 
 - a. qui exploite une infrastructure de gazoduc entre la Russie et des pays tiers;
 - b. qui a été établie ou constituée avant le 3 mars 2022 selon le droit suisse ou le droit d’un État membre de l’EEE, et
-- c. qui associe une personne morale, une entité ou un organisme russe.[^30a-3]
+- c. qui associe une personne morale, une entité ou un organisme russe.[^30a-4]
 
 <sup>3</sup>
 
-Il peut autoriser des dérogations aux interdictions visées aux art. 14*a* et 14*c* concernant l’importation, le transit et le transport des biens énumérés dans les annexes 17 et 20 jusqu’au 30 septembre 2023, pour autant que:
+Il peut autoriser des dérogations aux interdictions prévues aux art. 14*a* et 14*c* concernant l’importation, le transit et le transport des biens énumérés aux annexes 17 et 20 jusqu’au 30 juin 2024, pour autant que:[^30a-5]
 
 - a. les activités susmentionnées soient strictement nécessaires à la cession d’actifs ou à la liquidation d’activités en Fédération de Russie;
 - b.
@@ -1550,32 +1667,38 @@ Il peut autoriser des dérogations aux interdictions visées aux art. 14*a* et 1
 - c. les biens concernés aient été physiquement situés en Fédération de Russie avant l’entrée en vigueur des interdictions prévues aux art. 14*a* et 14*c* en ce qui concerne ces biens.
 
 [^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^30a-2]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^30a-3]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^30a-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30a-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30a-4]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^30a-5]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 30b
 
-**Dérogations à l’interdiction liée aux transactions avec des sociétés d’État**
+**Dérogations à l’interdiction liée aux transactions avec des sociétés d’État**[^30b-1]
 
-Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations à l’interdiction liée aux transactions avec des sociétés d’État prévue à l’art. 24*a*, al. 1, afin de permettre les transactions strictement nécessaires, d’ici au 31 décembre 2023, à la cession d’actifs ou au retrait d’une personne morale, d’une entité ou d’un organisme établi en Suisse ou dans un État membre de l’EEE par les entités visées à l’art. 24*a*, al. 1, ou leurs établissements en Suisse ou dans un État membre de l’EEE.
+Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations à l’interdiction liée aux transactions avec des sociétés d’État prévue à l’art. 24*a*, al. 1, afin de permettre les transactions strictement nécessaires, d’ici au 31 décembre 2024, à la cession d’actifs ou au retrait d’une personne morale, d’une entité ou d’un organisme établi en Suisse ou dans un État membre de l’EEE par les entités visées à l’art. 24*a*, al. 1, ou leurs établissements en Suisse ou dans un État membre de l’EEE.
+
+[^30b-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 30c
 
-**Dérogations à l’interdiction de fournir certains services**
+**Dérogations aux interdictions concernant certains services et logiciels[^30c-1]**
 
 <sup>1</sup>
 
-Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser, jusqu’au 31 mars 2024, des dérogations à l’interdiction de fournir les services visés à l’art. 28*e*, pour autant que:[^30c-1]
+Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser, jusqu’au 31 juillet 2024, des dérogations aux interdictions prévues à l’art. 28*e*, pour autant que:
 
-- a. ces services soient strictement nécessaires à la cession d’actifs ou à la liquidation d’activités en Fédération de Russie, et que
-- b. ces services soient fournis au bénéfice exclusif de personnes morales, entités ou organismes résultant de la cession.
+- a. les services ou logiciels soient strictement nécessaires à la cession d’actifs ou à la liquidation d’activités en Fédération de Russie, et que
+- b. les services ou logiciels soient fournis au bénéfice exclusif de personnes morales, entités ou organismes résultant de la cession.[^30c-2]
 
-<sup>2</sup> Il rejette la demande d’autorisation d’une dérogation visée à l’al. 1 s’il existe des motifs suffisants de penser que les services pourraient être destinés directement ou indirectement au gouvernement de la Fédération de Russie ou à des utilisateurs finaux militaires, ou affectés à une utilisation finale militaire en Fédération de Russie.
+<sup>2</sup> Il rejette la demande d’autorisation d’une dérogation visée à l’al. 1 s’il existe des motifs suffisants de penser que les services ou logiciels concernés pourraient être destinés directement ou indirectement au gouvernement de la Fédération de Russie ou à des utilisateurs finaux militaires, ou affectés à une utilisation finale militaire en Fédération de Russie.[^30c-3]
 
-<sup>3</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser, jusqu’au 31 mars 2024, des dérogations à l’interdiction de fournir les services de conseil juridique visés à l’art. 28*e*, al. 1<sup>bis</sup>, pour autant que ces services soient légalement requis pour l’achèvement d’une vente ou le transfert de droits de propriété détenus directement ou indirectement par des personnes morales, des entités ou des organismes établis en Russie dans une personne morale, une entité ou un organisme établi dans un État membre de l’EEE ou en Suisse.[^30c-2]
+<sup>3</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser, jusqu’au 31 mars 2024, des dérogations à l’interdiction de fournir les services de conseil juridique visés à l’art. 28*e*, al. 1<sup>bis</sup>, pour autant que ces services soient légalement requis pour l’achèvement d’une vente ou le transfert de droits de propriété détenus directement ou indirectement par des personnes morales, des entités ou des organismes établis en Russie dans une personne morale, une entité ou un organisme établi dans un État membre de l’EEE ou en Suisse.[^30c-4]
 
-[^30c-1]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^30c-2]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^30c-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-4]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 ## Section 4*b* Dérogations concernant les biens et services liés au Caspian Pipeline Consortium
 
@@ -1596,6 +1719,16 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 <sup>2</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions visées à l’art. 28*e*, al. 1, concernant les services de comptabilité et de contrôle des comptes, à l’art. 28*e*, al. 1<sup>bis</sup>, concernant les services d’ingénierie et de conseil juridique et à l’art. 28*e*, al. 1<sup>te</sup>*<sup>r</sup>*, concernant les services d’analyses techniques physiques et chimiques, pour autant que ces services soient nécessaires à l’exploitation et à l’entretien essentiel, à la réparation ou au remplacement d’éléments de l’oléoduc du CPC et des infrastructures connexes.
 
+## Section 4*c* Dérogations aux interdictions pour des raisons de sécurité maritime
+
+[^sec4c-1]
+
+[^sec4c-1]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+
+#### Art. 30e
+
+Les interdictions prévues par la présente ordonnance ne s’appliquent pas à la fourniture des services de pilotage qui sont nécessaires pour des raisons de sécurité maritime.
+
 ## Section 5 Exécution et dispositions pénales
 
 #### Art. 31
@@ -1614,10 +1747,13 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 <sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières.
 
+<sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires au gel des ressources économiques, par exemple en procédant à la mention d’un blocage dans le registre foncier ou à la saisie ou à la mise sous scellé de biens de luxe.[^31-5]
+
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^31-2]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 29 juil. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^31-3]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^31-4]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^31-5]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 31a
 
@@ -1676,64 +1812,50 @@ L’ordonnance du 27 août 2014 instituant des mesures en lien avec la situation
 
 <sup>4</sup> En dérogation aux interdictions visées aux art. 4, al. 1 et 2, et 5, al. 1 et 2, le SECO autorise, jusqu’au 8 mai 2022, les demandes d’activités destinées à des fins civiles et à des destinataires finaux civils et fondées sur des contrats conclus avant le 5 mars 2022. Les destinataires finaux visés à l’annexe 2 sont couverts par cette disposition, pour autant que les activités demandées soient de nature strictement civile.
 
-<sup>5</sup> L’art. 9 ne s’applique pas aux opérations régies par un contrat antérieur au 5 mars 2022 et exécutées jusqu’au 28 mars 2022.[^35-1]
+<sup>5</sup> à <sup>7</sup> …[^35-1]
 
-<sup>6</sup> L’art. 24*a*, al. 1, ne s’applique pas aux opérations régies par un contrat antérieur au 26 mars 2022 et exécutées jusqu’au 15 mai 2022.[^35-2]
+<sup>8</sup> L’art. 14*a*, al. 1 et 2[^35-2], ne s’applique pas aux opérations régies par un contrat antérieur au 26 mars 2022 et exécutées jusqu’au 17 juin 2022.[^35-3]
 
-<sup>7</sup> L’art. 11, al. 1 et 2, ne s’applique pas aux opérations régies par un contrat antérieur au 26 mars 2022 et exécutées jusqu’au 17 septembre 2022.[^35-3]
-
-<sup>8</sup> L’art. 14*a*, al. 1 et 2[^35-4], ne s’applique pas aux opérations régies par un contrat antérieur au 26 mars 2022 et exécutées jusqu’au 17 juin 2022.[^35-5]
-
-<sup>9</sup> L’art. 10 ne s’applique pas aux opérations régies par un contrat antérieur au 5 mars 2022 et exécutées jusqu’au 3 juin 2022.[^35-6]
+<sup>9</sup> L’art. 10 ne s’applique pas aux opérations régies par un contrat antérieur au 5 mars 2022 et exécutées jusqu’au 3 juin 2022.[^35-4]
 
 <sup>10</sup>
 
 L’art. 11*a* ne s’applique pas aux opérations portant sur:
 
-- a. les biens des positions tarifaires 8703 23, 8703 24, 8703 32, 8703 33, 8703 40, 8703 50, 8703 60, 8703 70, 8703 80, 8703 90 ou 8903 d’une valeur ne dépassant pas 50 000 francs par unité, régies par un contrat antérieur au 16 août 2023 et exécutées jusqu’au 17 novembre 2023;
-- b. les biens des positions tarifaires 2710 12, 2909 60, 3905 99, 4002 19, 4002 70, 4010 11, 4010 12, 4011 20, 4012 90, 4805 93, 4810 29, 4823 90, 7216 61, 8402 11, 8454 30, 8477 10, 8477 20, 8477 59, 8477 80, 8477 90, 8514 32, 8514 40, 8525 89, 8704 21, 9024 90, 9031 10, 9031 41, 9031 49, 9031 80, 9031 90 ou 9406 20, régies par un contrat antérieur au 16 août 2023 et exécutées jusqu’au 17 novembre 2023;
-- c. les biens visés à l’annexe 23, qui y ont été inclus le 16 août 2023 et qui ne sont pas cités aux let. a et b, régies par un contrat antérieur au 16 août 2023 et exécutées jusqu’au 17 novembre 2023.[^35-7]
+- a. les biens visés à l’annexe 23, ch. 2, régies par un contrat antérieur au 1<sup>er</sup> février 2024 et exécutées jusqu’au 3 mai 2024;
+- b. les biens visés à l’annexe 23, ch. 3, régies par un contrat antérieur au 1<sup>er</sup> février 2024 et exécutées jusqu’au 1<sup>er</sup> juin 2024.[^35-5]
 
-<sup>11</sup> L’art. 12 ne s’applique pas aux opérations régies par un contrat antérieur au 28 avril 2022 et exécutées jusqu’au 29 août 2022.[^35-8]
+<sup>11</sup> …[^35-6]
 
-<sup>12</sup> et <sup>13</sup> …[^35-9]
+<sup>12</sup> et <sup>13</sup> …[^35-7]
 
-<sup>14</sup> L’art. 28*c* ne s’applique pas aux opérations régies par un contrat antérieur au 28 avril 2022 et exécutées jusqu’au 29 octobre 2022.[^35-10]
+<sup>14</sup> L’art. 28*c* ne s’applique pas aux opérations régies par un contrat antérieur au 28 avril 2022 et exécutées jusqu’au 29 octobre 2022.[^35-8]
 
 <sup>15</sup>
 
 L’art. 12*a*, al. 1 et 2, ne s’applique pas:
 
 - a. aux opérations en vue de l’achat, de l’importation, du transit ou du transport de biens de la position tarifaire 2709 00 régies par un contrat antérieur au 30 juin 2022 et exécutées jusqu’au 5 décembre 2022, ni aux opérations ponctuelles de livraison à court terme de nature similaire exécutées jusqu’au 5 décembre 2022, pour autant que les contrats existants aient été notifiés au SECO au plus tard le 21 juillet 2022 et les opérations ponctuelles de livraison à court terme, dans les dix jours suivant leur exécution;
-- b. aux opérations en vue de l’achat, de l’importation, du transit ou du transport de biens de la position tarifaire 2710 régies par un contrat antérieur au 30 juin 2022 et exécutées jusqu’au 5 février 2023, ni aux opérations ponctuelles de livraison à court terme de nature similaire exécutées jusqu’au 5 février 2023, pour autant que les contrats existants aient été notifiés au SECO au plus tard le 21 juillet 2022 et les opérations ponctuelles de livraison à court terme, dans les dix jours suivant leur exécution.[^35-11]
+- b. aux opérations en vue de l’achat, de l’importation, du transit ou du transport de biens de la position tarifaire 2710 régies par un contrat antérieur au 30 juin 2022 et exécutées jusqu’au 5 février 2023, ni aux opérations ponctuelles de livraison à court terme de nature similaire exécutées jusqu’au 5 février 2023, pour autant que les contrats existants aient été notifiés au SECO au plus tard le 21 juillet 2022 et les opérations ponctuelles de livraison à court terme, dans les dix jours suivant leur exécution.[^35-9]
 
-<sup>16</sup> L’art. 12*b*, al. 1, ne s’applique pas aux opérations régies par un contrat antérieur au 30 juin 2022 et exécutées jusqu’au 5 décembre 2022.[^35-12]
+<sup>16</sup> L’art. 12*b*, al. 1, ne s’applique pas aux opérations régies par un contrat antérieur au 30 juin 2022 et exécutées jusqu’au 5 décembre 2022.[^35-10]
 
 <sup>17</sup>
 
 L’art. 24*a*, al. 1, ne s’applique pas:
 
 - a. à la réception de paiements dus par les banques, les entreprises ou les entités visées à l’art. 24*a*, al. 1, en application de contrats exécutés avant le 15 mai 2022;
-- b.[^35-13] aux transactions, y compris les ventes, qui sont nécessaires à la liquidation jusqu’au 31 décembre 2023 d’une coentreprise ou d’une forme juridique similaire associant une banque, une entreprise ou une entité visée à l’art. 24*a*, al. 1, fondée avant le 26 mars 2022.[^35-14]
+- b.[^35-11] aux transactions, y compris les ventes, qui sont nécessaires à la liquidation d’ici au 31 décembre 2024 d’une coentreprise ou d’une forme juridique similaire associant une banque, une entreprise ou une entité visée à l’art. 24*a*, al. 1, fondée avant le 26 mars 2022.[^35-12]
 
-<sup>18</sup> L’art. 28*d*, al. 1, ne s’applique pas aux transactions nécessaires pour mettre fin, d’ici au 31 juillet 2022, aux contrats conclus avant le 28 avril 2022 qui ne sont pas conformes aux dispositions dudit article.[^35-15]
+<sup>18</sup> L’art. 28*d*, al. 1, ne s’applique pas aux transactions nécessaires pour mettre fin, d’ici au 31 juillet 2022, aux contrats conclus avant le 28 avril 2022 qui ne sont pas conformes aux dispositions dudit article.[^35-13]
 
-<sup>19</sup> L’art. 28*e*, al. 1, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, d’ici au 31 juillet 2022, aux contrats conclus avant le 30 juin 2022 qui ne sont pas conformes aux dispositions dudit article.[^35-16]
+<sup>19</sup> …[^35-14]
 
-<sup>20</sup> L’art. 9 ne s’applique pas aux opérations régies par un contrat antérieur au 24 novembre 2022 et exécutées jusqu’au 23 décembre 2022 en vue de la vente, de la livraison, de l’exportation ou du transit de biens visés à l’annexe 3, ch. 2.[^35-17]
+<sup>20</sup> …[^35-15]
 
-<sup>20bis</sup>
+<sup>20bis</sup> …[^35-16]
 
-L’art. 9, al. 1, 4 et 5, ne s’applique pas aux opérations portant sur:
-
-- a. la vente, la livraison, l’exportation et le transit de biens visés à l’annexe 3, ch. 3, régies par un contrat antérieur au 25 janvier 2023 et exécutées jusqu’au 24 février 2023;
-- b. la fourniture de services, y compris d’une assistance technique ou des services de courtage, en rapport avec les biens visés à l’annexe 3, ch. 3, régies par un contrat antérieur au 25 janvier 2023 et exécutées jusqu’au 24 février 2023;
-- c. la fourniture d’un financement ou d’une aide financière en rapport avec les biens visés à l’annexe 3, ch. 3, régies par un contrat antérieur au 25 janvier 2023 et exécutées jusqu’au 24 février 2023;
-- d.[^35-18] la vente, la livraison, l’exportation et le transit de biens visés à l’annexe 3, ch. 4, régies par un contrat antérieur au 29 mars 2023 et exécutées jusqu’au 27 avril 2023;
-- e.[^35-19] la fourniture de services, y compris d’une assistance technique ou de services de courtage, en rapport avec les biens visés à l’annexe 3, ch. 4, régies par un contrat antérieur au 29 mars 2023 et exécutées jusqu’au 27 avril 2023;
-- f.[^35-20] la fourniture d’un financement ou d’une aide financière en rapport avec les biens visés à l’annexe 3, ch. 4, régies par un contrat antérieur au 29 mars 2023 et exécutées jusqu’au 27 avril 2023.[^35-21]
-
-<sup>21</sup> à <sup>23</sup> …[^35-22]
+<sup>21</sup> à <sup>23</sup> …[^35-17]
 
 <sup>24</sup>
 
@@ -1742,7 +1864,7 @@ L’art. 12*b*, al. 2, ne s’applique pas:
 - a. aux opérations régies par un contrat antérieur au 30 juin 2022 et exécutées jusqu’au 5 décembre 2022 en vue de la fourniture de services de toutes sortes en rapport avec du pétrole brut de la position tarifaire 2709 00;
 - b. aux opérations régies par un contrat antérieur au 30 juin 2022 et exécutées jusqu’au 5 février 2023 en vue de la fourniture de services de toutes sortes en rapport avec des produits pétroliers de la position tarifaire 2710;
 - c. au paiement d’indemnités d’assurance après le 5 décembre 2022 pour du pétrole brut de la position tarifaire 2709 00 sur la base d’un contrat d’assurance conclu avant le 30 juin 2022 et pour autant que la couverture d’assurance ait cessé à la date du paiement;
-- d. au paiement d’indemnités d’assurance après le 5 février 2023 pour des produits pétroliers de la position tarifaire 2710 sur la base d’un contrat d’assurance conclu avant le 30 juin 2022 et pour autant que la couverture d’assurance ait cessé à la date du paiement.[^35-23]
+- d. au paiement d’indemnités d’assurance après le 5 février 2023 pour des produits pétroliers de la position tarifaire 2710 sur la base d’un contrat d’assurance conclu avant le 30 juin 2022 et pour autant que la couverture d’assurance ait cessé à la date du paiement.[^35-18]
 
 <sup>25</sup>
 
@@ -1750,61 +1872,68 @@ L’art. 12*b*, al. 1 et 2, ne s’applique pas:
 
 - a. au transport de pétrole brut de la position tarifaire 2709 00 effectué jusqu’au 5 décembre 2022;
 - b. au transport de produits pétroliers de la position tarifaire 2710 effectué jusqu’au 5 février 2023;
-- c.[^35-24]
+- c.[^35-19]
 
   au transport de pétrole brut ou de produits pétroliers effectué dans les 90 jours suivant une modification de l’annexe 28 ni à la fourniture d’une assistance technique, de services de courtage ou de services financiers ou à l’octroi de moyens financiers en lien avec ce transport, pour autant que:
 
   - 1\. les activités visées soient fondées sur un contrat conclu avant la modification de l’annexe 28, et que
   - 2\. le prix d’achat à la date de la conclusion du contrat n’ait pas excédé le prix-plafond fixé à l’annexe 28;
 
-- d.[^35-25] au transport de pétrole brut de la position tarifaire 2709 00 originaire ou provenant de la Fédération de Russie qui a été chargé à bord d’un navire au port de chargement avant le 16 décembre 2022 et déchargé au port de destination finale avant le 19 janvier 2023 et dont le prix d’achat excède le prix-plafond fixé à l’annexe 28;
-- e.[^35-26] au commerce, au courtage et au transport de produits pétroliers de la position tarifaire 2710 originaires ou provenant de la Fédération de Russie qui ont été chargés à bord d’un navire au port de chargement avant le 15 février 2023 et déchargés au port de destination finale avant le 11 avril 2023 et dont le prix d’achat excède le prix-plafond fixé à l’annexe 28.[^35-27]
+- d.[^35-20] au transport de pétrole brut de la position tarifaire 2709 00 originaire ou provenant de la Fédération de Russie qui a été chargé à bord d’un navire au port de chargement avant le 16 décembre 2022 et déchargé au port de destination finale avant le 19 janvier 2023 et dont le prix d’achat excède le prix-plafond fixé à l’annexe 28;
+- e.[^35-21] au commerce, au courtage et au transport de produits pétroliers de la position tarifaire 2710 originaires ou provenant de la Fédération de Russie qui ont été chargés à bord d’un navire au port de chargement avant le 15 février 2023 et déchargés au port de destination finale avant le 11 avril 2023 et dont le prix d’achat excède le prix-plafond fixé à l’annexe 28.[^35-22]
 
 <sup>26</sup>
 
 L’art. 24*a*, al. 1, ne s’applique pas:
 
 - a. à la réception de paiements dus par l’entité visée à l’annexe 15 sous le numéro SSID 175-57347, sur la base d’un contrat exécuté jusqu’au 4 février 2023;
-- b. aux transactions régies par un contrat conclu avant le 24 novembre 2022 avec l’entité visée à l’annexe 15 sous le numéro SSID 175-57347 et exécuté jusqu’au 4 février 2023;
-- c.[^35-28] à la réception de paiements dus par l’entité visée à l’annexe 15 sous le numéro SSID 175-59958, sur la base d’un contrat exécuté jusqu’au 26 avril 2023;
-- d.[^35-29] aux transactions régies par un contrat conclu avant le 25 janvier 2023 avec l’entité visée à l’annexe 15 sous le numéro SSID 175-59958 et exécuté jusqu’au 26 avril 2023.[^35-30]
+- b.[^35-23] …
+- c.[^35-24] à la réception de paiements dus par l’entité visée à l’annexe 15 sous le numéro SSID 175-59958, sur la base d’un contrat exécuté jusqu’au 26 avril 2023;
+- d.[^35-25] …[^35-26]
 
-<sup>27</sup> L’art. 28*e*, al. 1<sup>bis</sup>, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, au plus tard le 4 février 2023, aux contrats conclus avant le 24 novembre 2022 qui ne sont pas conformes aux dispositions dudit article.[^35-31]
+<sup>27</sup> …[^35-27]
 
-<sup>28</sup> L’art. 28*e*, al. 1<sup>ter</sup>, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, au plus tard le 24 février 2023, aux contrats conclus avant le 25 janvier 2023 qui ne sont pas conformes aux dispositions dudit article.[^35-32]
+<sup>28</sup> L’art. 28*e*, al. 1<sup>quater</sup>, ne s’applique pas aux opérations nécessaires pour mettre fin, au plus tard le 3 mai 2024, aux contrats conclus avant le 1<sup>er</sup> février 2024 qui ne sont pas conformes aux dispositions dudit article.[^35-28]
 
-[^35-1]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^35-2]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+<sup>29</sup> …[^35-29]
+
+<sup>30</sup>
+
+L’art. 14*c* ne s’applique pas aux opérations portant sur:
+
+- a. les biens des positions tarifaires 7205, 7408, 7604, 7605, 7607 et 7608, régies par un contrat antérieur au 1<sup>er</sup> février 2024 et exécutées jusqu’au 3 mai 2024;
+- b. les biens des positions tarifaires 2711 12, 2711 13, 2711 14, 2711 19 et 7202, régies par un contrat antérieur au 1<sup>er</sup> février 2024 et exécutées jusqu’au 20 décembre 2024.[^35-30]
+
+[^35-1]: Introduits par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Abrogés par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-2]: Actuellement: art. 14*a*, al. 1 et 3.
 [^35-3]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^35-4]: Actuellement: art. 14*a*, al. 1 et 3.
-[^35-5]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^35-6]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^35-7]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^35-4]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-5]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-6]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-7]: Introduits par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogés par le ch. I de l’O du 16 août 2023, avec effet au 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^35-8]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^35-9]: Introduits par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogés par le ch. I de l’O du 16 août 2023, avec effet au 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^35-10]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^35-11]: Introduit par le ch. I de l’O du 27 avr. ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-9]: Introduit par le ch. I de l’O du 27 avr. ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-10]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-11]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^35-12]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-13]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^35-14]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-15]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-16]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-17]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-18]: Introduite par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^35-19]: Introduite par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^35-20]: Introduite par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^35-21]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-22]: Introduits par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogés par le ch. I de l’O du 16 août 2023, avec effet au 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^35-23]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-24]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 16 déc. 2022 à 18 heures ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
-[^35-25]: Introduite par le ch. I de l’O du 16 déc. 2022 ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)). Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-26]: Introduite par le ch. I de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
-[^35-27]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-28]: Introduite par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-29]: Introduite par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-30]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-31]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-32]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-13]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-14]: Introduit par le ch. I de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-15]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-16]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-17]: Introduits par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogés par le ch. I de l’O du 16 août 2023, avec effet au 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^35-18]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-19]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 16 déc. 2022 à 18 heures ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
+[^35-20]: Introduite par le ch. I de l’O du 16 déc. 2022 ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)). Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-21]: Introduite par le ch. I de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^35-22]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-23]: Abrogée par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-24]: Introduite par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-25]: Introduite par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogée par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-26]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-27]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-28]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-29]: Entre en vigueur le 20 mars 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-30]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 36
 
@@ -1820,8 +1949,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. II al. 1 des O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 des O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)), du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)), du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)) et du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/452](https://fedlex.data.admin.ch/eli/oc/2023/452) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. II al. 1 des O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 des O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)), du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)), du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/51](https://fedlex.data.admin.ch/eli/oc/2024/51) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2[^t-2]
 
@@ -1831,16 +1960,17 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 des O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)) et du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/452](https://fedlex.data.admin.ch/eli/oc/2023/452) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 des O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/51](https://fedlex.data.admin.ch/eli/oc/2024/51) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 
-(art. 9, al. 1 à 3, 6<sup>bis</sup> et 6<sup>ter</sup>)
+(art. 9, al. 1 à 3, 6<sup>bis</sup> à 6<sup>quinquies</sup>, et 14*f*, al. 1[^t-4])
 
 ## Biens destinés à l’industrie aéronautique et spatiale
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Mise à jour par le ch. II al. 2 du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Mise à jour par le ch. II al. 2 de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)) et le ch. II al. 3 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-4]: En vigueur depuis le 20 mars 2024.
 
 ### 1. Biens inclus dans l’annexe avant le 23 novembre 2022
 
@@ -1883,13 +2013,13 @@ Annexe 3[^t-3]
 <tr><td>841191</td><td>Pièces pour turboréacteurs ou turbopropulseurs</td></tr>
 </table>
 
-Annexe 4[^t-4]
+Annexe 4[^t-5]
 
 (art. 10, al. 1 et 4)
 
 ## Biens destinés au raffinage de pétrole et à la liquéfaction du gaz naturel
 
-[^t-4]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 28 juil. 2022, en vigueur depuis le 29 juil. 2022 à 18 heures ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^t-5]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 28 juil. 2022, en vigueur depuis le 29 juil. 2022 à 18 heures ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 
 <table>
 <tr><th></th><th>N<sup>o</sup> du tarif</th><th>Désignation</th></tr>
@@ -1923,13 +2053,13 @@ Annexe 4[^t-4]
 <tr><td>ex</td><td>8479 89</td><td>Unités de désasphaltage au solvant</td></tr>
 </table>
 
-Annexe 5[^t-5]
+Annexe 5[^t-6]
 
 (art. 11, al. 1)
 
 ## Biens destinés au secteur de l’énergie
 
-[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 <table>
 <tr><th>**Code NC**</th><th>**Désignation de la marchandise**</th></tr>
@@ -1965,13 +2095,13 @@ Annexe 5[^t-5]
 <tr><td>8905 90 00</td><td>Bateaux-phares, bateaux-pompes, pontons-grues et autres bateaux pour lesquels la navigation n’est qu’accessoire par rapport à la fonction, pour la navigation maritime (sauf bateaux-dragueurs, plates-formes de forage ou d’exploitation, flottantes ou submersibles, bateaux de pêche et navires de guerre).</td></tr>
 </table>
 
-Annexe 6[^t-6]
+Annexe 6[^t-7]
 
 (art. 13, al. 1, 14, al. 1 et 2, et 25, al. 1 à 4)
 
 ## Territoires désignés
 
-[^t-6]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 11 oct. 2022, en vigueur depuis le 12 oct. 2022 à 18 heures ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)).
+[^t-7]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 11 oct. 2022, en vigueur depuis le 12 oct. 2022 à 18 heures ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)).
 
 Crimée
 
@@ -1985,13 +2115,13 @@ Zones de l’oblast ukrainien de Kherson non contrôlées par le gouvernement uk
 
 Zones de l’oblast ukrainien de Zaporijia non contrôlées par le gouvernement ukrainien
 
-Annexe 7[^t-7]
+Annexe 7[^t-8]
 
 (art. 14, al. 1 et 2)
 
 ## Biens interdits
 
-[^t-7]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 7 déc. 2022, en vigueur depuis le 8 déc. 2022 à 18 heures ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
+[^t-8]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 7 déc. 2022, en vigueur depuis le 8 déc. 2022 à 18 heures ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
 <table>
 <tr><th>**Chapitre/Code NC**</th><th>**Désignation de la marchandise**</th></tr>
@@ -2160,7 +2290,7 @@ Annexe 7[^t-7]
 <tr><td>9033</td><td>Parties et accessoires non dénommés ni compris ailleurs dans le présent chapitre, pour machines, appareils, instruments ou articles du chapitre 90</td></tr>
 </table>
 
-Annexe 8[^t-8]
+Annexe 8[^t-9]
 
 (art. 15, al. 1 et 4, et 29, al. 1)
 
@@ -2168,8 +2298,8 @@ Annexe 8[^t-8]
 
 [^annex8-lvlu1-1]
 
-[^t-8]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) et le ch. I des O du DEFR du 1<sup>er</sup> mars 2023 ([RO 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), du 6 juin 2023 ([RO 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), du 27 juin 2023 ([RO 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), le ch. II al. 1 de l’O du 16 août 2023 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et le ch. I des O du DEFR du 25 sept. 2023 ([RO 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), du 1<sup>er</sup> nov. 2023 ([RO 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)) et du 20 déc. 2023, en vigueur depuis le 21 déc. 2023 à 18 heures ([RO 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)).
-[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/819](https://fedlex.data.admin.ch/eli/oc/2023/819) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) et le ch. I des O du DEFR du 1<sup>er</sup> mars 2023 ([RO 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), du 6 juin 2023 ([RO 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), du 27 juin 2023 ([RO 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), le ch. II al. 1 de l’O du 16 août 2023 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et le ch. I des O du DEFR du 25 sept. 2023 ([RO 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), du 1<sup>er</sup> nov. 2023 ([RO 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), du 20 déc. 2023 ([RO 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)) et le ch. II al. 1 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/51](https://fedlex.data.admin.ch/eli/oc/2024/51) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9
 
@@ -2191,7 +2321,7 @@ Annexe 10
 
 [^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 11[^t-9]
+Annexe 11[^t-10]
 
 (art. 18, al. 2, let. a et b)
 
@@ -2199,7 +2329,7 @@ Annexe 11[^t-9]
 
 [^annex11-lvlu1-1]
 
-[^t-9]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-10]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex11-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 12
@@ -2222,7 +2352,7 @@ Annexe 13
 
 [^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 14[^t-10]
+Annexe 14[^t-11]
 
 (art. 27)
 
@@ -2230,27 +2360,27 @@ Annexe 14[^t-10]
 
 [^annex14-lvlu1-1]
 
-[^t-10]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^t-11]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex14-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 15[^t-11]
+Annexe 15[^t-12]
 
-(art. 24*a*, al. 1, let. a)
+(art. 15, al. 9<sup>bis</sup>, 24*a*, al. 1, let. a, et 2, let. b et d, et 28*b*, al. 2<sup>bis</sup>)
 
 ## Banques et autres entités soumises à des interdictions de transactions
 
 [^annex15-lvlu1-1]
 
-[^t-11]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-12]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)) et le ch. II al. 3 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^annex15-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 16[^t-12]
+Annexe 16[^t-13]
 
 (art. 9*a*, al. 1)
 
 ## Biens et technologies de navigation maritime
 
-[^t-12]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-13]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 Catégorie VI – Marine
 
@@ -2271,13 +2401,13 @@ Catégorie VI – Marine
 <tr><td>ex 8517</td><td>Postes téléphoniques d’usagers, y compris les téléphones intelligents et autres téléphones pour réseaux cellulaires et pour autres réseaux sans fil; autres appareils pour l’émission, la transmission ou la réception de la voix, d’images ou d’autres données, y compris les appareils pour la communication dans un réseau filaire ou sans fil (tel qu’un réseau local ou étendu), autres que ceux des n<sup>os</sup> 8443, 8525, 8527 ou 8528: (y compris parties)</td></tr>
 </table>
 
-Annexe 17[^t-13]
+Annexe 17[^t-14]
 
 (art. 14*a*, al. 1 et 2)
 
 ## Produits sidérurgiques
 
-[^t-13]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II al. 2 de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-14]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II al. 2 de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -2333,13 +2463,13 @@ Annexe 17[^t-13]
 <tr><td>7326</td><td>Ouvrages en fer ou en acier</td></tr>
 </table>
 
-Annexe 18[^t-14]
+Annexe 18[^t-15]
 
 (art. 14*b*, al. 1 et 2, let. c)
 
 ## Biens de luxe
 
-[^t-14]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II al. 2 de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-15]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II al. 2 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 Sauf indication contraire dans la présente annexe, l’interdiction prévue à l’art. 14*b* s’applique aux biens de luxe dont le coût unitaire est supérieur à 300 francs.
 
@@ -2355,8 +2485,8 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td></td><td>1604 31</td><td>Caviar</td></tr>
-<tr><td></td><td>1604 32</td><td>Succédanés de caviar</td></tr>
+<tr><td></td><td>1604 31 00</td><td>Caviar</td></tr>
+<tr><td></td><td>1604 32 00</td><td>Succédanés de caviar</td></tr>
 </table>
 
 ### 3. Truffes et préparations à base de truffes
@@ -2379,12 +2509,12 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
 <tr><td></td><td>2203 00</td><td>Bières de malt</td></tr>
-<tr><td></td><td>2204 10</td><td>Vin mousseux</td></tr>
+<tr><td></td><td>2204 10 00</td><td>Vin mousseux</td></tr>
 <tr><td></td><td>2204 21</td><td>Autres vins, en récipients d’une contenance n’excédant pas 2 l</td></tr>
 <tr><td></td><td>2204 29</td><td>Autres vins</td></tr>
 <tr><td></td><td>2205</td><td>Vermouths et autres vins de raisins frais préparés à l’aide de plantes ou de substances aromatiques</td></tr>
 <tr><td></td><td>2206 00</td><td>Autres boissons fermentées (cidre, poiré, hydromel, saké, par exemple); mélanges de boissons fermentées et mélanges de boissons fermentées et de boissons non alcooliques, non dénommés ni compris ailleurs</td></tr>
-<tr><td></td><td>2207 10</td><td>Alcool éthylique non dénaturé d’un titre alcoométrique volumique de 80 % vol ou plus</td></tr>
+<tr><td></td><td>2207 10 00</td><td>Alcool éthylique non dénaturé d’un titre alcoométrique volumique de 80 % vol ou plus</td></tr>
 <tr><td>ex</td><td>2208</td><td>Alcool éthylique non dénaturé d’un titre alcoométrique volumique de moins de 80 % vol; eaux-de-vie, liqueurs et autres boissons spiritueuses</td></tr>
 </table>
 
@@ -2392,15 +2522,15 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td></td><td>2402 10</td><td>Cigares (y compris ceux à bouts coupés) et cigarillos, contenant du tabac</td></tr>
-<tr><td>ex</td><td>2402 90</td><td>Autres</td></tr>
+<tr><td></td><td>2402 10 00</td><td>Cigares (y compris ceux à bouts coupés) et cigarillos, contenant du tabac</td></tr>
+<tr><td></td><td>2402 90 00</td><td>Autres</td></tr>
 </table>
 
 ### 6. Parfums, eaux de toilette et cosmétiques, y compris produits de beauté et de maquillage
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td></td><td>3303</td><td>Parfums et eaux de toilette</td></tr>
+<tr><td></td><td>3303 00 00</td><td>Parfums et eaux de toilette</td></tr>
 <tr><td></td><td>3304</td><td>Produits de beauté ou de maquillage préparés et préparations pour l’entretien ou les soins de la peau, autres que les médicaments, y compris les préparations antisolaires et les préparations pour bronzer; préparations pour manucures ou pédicures</td></tr>
 <tr><td></td><td>3305</td><td>Préparations capillaires</td></tr>
 <tr><td></td><td>3307</td><td>Préparations pour le prérasage, le rasage ou l’après-rasage, désodorisants corporels, préparations pour bains, dépilatoires, autres produits de parfumerie ou de toilette préparés et autres préparations cosmétiques, non dénommés ni compris ailleurs; désodorisants de locaux, préparés, même non parfumés, ayant ou non des propriétés désinfectantes</td></tr>
@@ -2411,10 +2541,10 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 
 <table>
 <tr><td></td><td>Position tarifaire</td><td>Désignation</td></tr>
-<tr><td></td><td>4201</td><td>Articles de sellerie ou de bourrellerie pour tous animaux (y compris les traits, laisses, genouillères, muselières, tapis de selles, fontes, manteaux pour chiens et articles similaires), en toutes matières</td></tr>
+<tr><td></td><td>4201 00 00</td><td>Articles de sellerie ou de bourrellerie pour tous animaux (y compris les traits, laisses, genouillères, muselières, tapis de selles, fontes, manteaux pour chiens et articles similaires), en toutes matières</td></tr>
 <tr><td></td><td>4202</td><td>Malles, valises et mallettes, y compris les mallettes de toilette et les mallettes porte-documents, serviettes, cartables, étuis à lunettes, étuis pour jumelles, appareils photographiques, caméras, instruments de musique ou armes et contenants similaires; sacs de voyage, sacs isolants pour produits alimentaires et boissons, trousses de toilette, sacs à dos, sacs à main, sacs à provisions, portefeuilles, porte-monnaie, porte-cartes, étuis à cigarettes, blagues à tabac, trousses à outils, sacs pour articles de sport, boîtes pour flacons ou bijoux, boîtes à poudre, écrins pour orfèvrerie et contenants similaires, en cuir naturel ou reconstitué, en feuilles de matières plastiques, en matières textiles, en fibre vulcanisée ou en carton, ou recouverts, en totalité ou en majeure partie, de ces mêmes matières ou de papier</td></tr>
-<tr><td></td><td>4205 00</td><td>Autres ouvrages en cuir naturel ou reconstitué</td></tr>
-<tr><td></td><td>9605</td><td>Assortiments de voyage pour la toilette des personnes, la couture ou le nettoyage des chaussures ou des vêtements</td></tr>
+<tr><td></td><td>4205 00 00</td><td>Autres ouvrages en cuir naturel ou reconstitué</td></tr>
+<tr><td></td><td>9605 00 00</td><td>Assortiments de voyage pour la toilette des personnes, la couture ou le nettoyage des chaussures ou des vêtements</td></tr>
 </table>
 
 ### 8. Vêtements, accessoires du vêtement et chaussures (indépendamment de leur matière)
@@ -2435,7 +2565,7 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><td></td><td>6110</td><td>Chandails, pull-overs, cardigans, gilets et articles similaires, y compris les sous-pulls, en bonneterie</td></tr>
 <tr><td></td><td>6111</td><td>Vêtements et accessoires du vêtement, en bonneterie, pour bébés</td></tr>
 <tr><td></td><td>6112</td><td>Survêtements de sport (trainings), combinaisons et ensembles de ski, maillots, culottes et slips de bain, en bonneterie</td></tr>
-<tr><td></td><td>6113</td><td>Vêtements confectionnés en étoffes de bonneterie des n<sup>os</sup> 5903, 5906 ou 5907</td></tr>
+<tr><td></td><td>6113 00 00</td><td>Vêtements confectionnés en étoffes de bonneterie des n<sup>os</sup> 5903, 5906 ou 5907</td></tr>
 <tr><td></td><td>6114</td><td>Autres vêtements, en bonneterie</td></tr>
 <tr><td></td><td>6115</td><td>Collants (bas-culottes), bas, mi-bas, chaussettes et autres articles chaussants, y compris les collants (bas-culottes), bas et mi-bas à compression dégressive (les bas à varices, par exemple), en bonneterie</td></tr>
 <tr><td></td><td>6116</td><td>Gants, mitaines et moufles, en bonneterie</td></tr>
@@ -2455,28 +2585,28 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><td></td><td>6213</td><td>Mouchoirs et pochettes</td></tr>
 <tr><td></td><td>6214</td><td>Châles, écharpes, foulards, cache-nez, cache-col, mantilles, voiles, voilettes et articles similaires</td></tr>
 <tr><td></td><td>6215</td><td>Cravates, nœuds papillons et foulards cravates</td></tr>
-<tr><td></td><td>6216</td><td>Gants, mitaines et moufles</td></tr>
+<tr><td></td><td>6216 00 00</td><td>Gants, mitaines et moufles</td></tr>
 <tr><td></td><td>6217</td><td>Autres accessoires confectionnés du vêtement; parties de vêtements ou d’accessoires du vêtement, autres que celles du n<sup>o</sup> 6212</td></tr>
 <tr><td></td><td>6401</td><td>Chaussures étanches à semelles extérieures et dessus en caoutchouc ou en matière plastique, dont le dessus n’a été ni réuni à la semelle extérieure par couture ou par des rivets, des clous, des vis, des tétons ou des dispositifs similaires, ni formé de différentes parties assemblées par ces mêmes procédés</td></tr>
-<tr><td></td><td>6402 20</td><td>Chaussures à semelles extérieures en cuir naturel et dessus constitués par des lanières en cuir naturel passant sur le cou‑de‑pied et entourant le gros orteil</td></tr>
-<tr><td></td><td>6402 91</td><td>Couvrant la cheville</td></tr>
-<tr><td></td><td>6402 99</td><td>Autres</td></tr>
-<tr><td></td><td>6403 19</td><td>Autres</td></tr>
-<tr><td></td><td>6403 20</td><td>Chaussures à semelles extérieures en cuir naturel et dessus constitués par des lanières en cuir naturel passant sur le cou‑de‑pied et entourant le gros orteil</td></tr>
-<tr><td></td><td>6403 40</td><td>Autres chaussures, comportant, à l’avant, une coquille de protection en métal</td></tr>
-<tr><td></td><td>6403 51</td><td>Couvrant la cheville</td></tr>
-<tr><td></td><td>6403 59</td><td>Autres</td></tr>
-<tr><td></td><td>6403 91</td><td>Couvrant la cheville</td></tr>
-<tr><td></td><td>6403 99</td><td>Autres</td></tr>
+<tr><td></td><td>6402 20 00</td><td>Chaussures à semelles extérieures en cuir naturel et dessus constitués par des lanières en cuir naturel passant sur le cou‑de‑pied et entourant le gros orteil</td></tr>
+<tr><td></td><td>6402 91 00</td><td>Couvrant la cheville</td></tr>
+<tr><td></td><td>6402 99 00</td><td>Autres</td></tr>
+<tr><td></td><td>6403 19 00</td><td>Autres</td></tr>
+<tr><td></td><td>6403 20 00</td><td>Chaussures à semelles extérieures en cuir naturel et dessus constitués par des lanières en cuir naturel passant sur le cou‑de‑pied et entourant le gros orteil</td></tr>
+<tr><td></td><td>6403 40 00</td><td>Autres chaussures, comportant, à l’avant, une coquille de protection en métal</td></tr>
+<tr><td></td><td>6403 51 00</td><td>Couvrant la cheville</td></tr>
+<tr><td></td><td>6403 59 00</td><td>Autres</td></tr>
+<tr><td></td><td>6403 91 00</td><td>Couvrant la cheville</td></tr>
+<tr><td></td><td>6403 99 00</td><td>Autres</td></tr>
 <tr><td>ex</td><td>6404 19</td><td>Pantoufles et autres chaussures d’intérieur</td></tr>
-<tr><td></td><td>6404 20</td><td>Chaussures à semelles extérieures en cuir naturel ou reconstitué</td></tr>
+<tr><td></td><td>6404 20 00</td><td>Chaussures à semelles extérieures en cuir naturel ou reconstitué</td></tr>
 <tr><td></td><td>6405</td><td>Autres chaussures</td></tr>
 <tr><td></td><td>6504</td><td>Chapeaux et autres coiffures, tressés ou fabriqués par l’assemblage de bandes en toutes matières, même garnis</td></tr>
-<tr><td></td><td>6505</td><td>Chapeaux et autres coiffures en bonneterie ou confectionnés à l’aide de dentelles, de feutre ou d’autres produits textiles, en pièces (mais non en bandes), même garnis; résilles et filets à cheveux en toutes matières, même garnis</td></tr>
-<tr><td></td><td>6506 99</td><td>Autres chapeaux et coiffures, même garnis, en autres matières</td></tr>
-<tr><td></td><td>6601 91</td><td>Parapluies, ombrelles et parasols, à mât ou manche télescopique</td></tr>
-<tr><td></td><td>6601 99</td><td>Autres</td></tr>
-<tr><td></td><td>6602</td><td>Cannes, cannes-sièges, fouets, cravaches et articles similaires</td></tr>
+<tr><td></td><td>6505 00 00</td><td>Chapeaux et autres coiffures en bonneterie ou confectionnés à l’aide de dentelles, de feutre ou d’autres produits textiles, en pièces (mais non en bandes), même garnis; résilles et filets à cheveux en toutes matières, même garnis</td></tr>
+<tr><td></td><td>6506 99 00</td><td>Autres chapeaux et coiffures, même garnis, en autres matières</td></tr>
+<tr><td></td><td>6601 91 00</td><td>Parapluies, ombrelles et parasols, à mât ou manche télescopique</td></tr>
+<tr><td></td><td>6601 99 00</td><td>Autres</td></tr>
+<tr><td></td><td>6602 00 00</td><td>Cannes, cannes-sièges, fouets, cravaches et articles similaires</td></tr>
 <tr><td>ex</td><td>9619</td><td>Couches pour bébés</td></tr>
 </table>
 
@@ -2485,21 +2615,21 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
 <tr><td></td><td>5701</td><td>Tapis en matières textiles, à points noués ou enroulés, même confectionnés</td></tr>
-<tr><td></td><td>5702 10</td><td>Tapis dits «Kelim» ou «Kilim», «Schumacks» ou «Soumak», «Karamanie» et tapis similaires tissés à la main</td></tr>
-<tr><td></td><td>5702 20</td><td>Revêtements de sol en coco</td></tr>
-<tr><td></td><td>5702 31</td><td>Autres, à velours, non confectionnés, de laine ou de poils fins</td></tr>
-<tr><td></td><td>5702 32</td><td>Autres, à velours, non confectionnés, de matières textiles synthétiques ou artificielles</td></tr>
-<tr><td></td><td>5702 39</td><td>Autres, à velours, non confectionnés, d’autres matières textiles</td></tr>
-<tr><td></td><td>5702 41</td><td>Autres, à velours, confectionnés, de laine ou de poils fins</td></tr>
-<tr><td></td><td>5702 42</td><td>Autres, à velours, confectionnés, de matières textiles synthétiques ou artificielles</td></tr>
-<tr><td></td><td>5702 50</td><td>Autres, sans velours, non confectionnés</td></tr>
-<tr><td></td><td>5702 91</td><td>Autres, sans velours, confectionnés, de laine ou de poils fins</td></tr>
-<tr><td></td><td>5702 92</td><td>Autres, sans velours, confectionnés, de matières textiles synthétiques ou artificielles</td></tr>
-<tr><td></td><td>5702 99</td><td>Autres, sans velours, confectionnés, d’autres matières textiles</td></tr>
-<tr><td></td><td>5703 00 00</td><td>Tapis et autres revêtements de sol en matières textiles (y compris le gazon), touffetés, même confectionnés</td></tr>
+<tr><td></td><td>5702 10 00</td><td>Tapis dits «Kelim» ou «Kilim», «Schumacks» ou «Soumak», «Karamanie» et tapis similaires tissés à la main</td></tr>
+<tr><td></td><td>5702 20 00</td><td>Revêtements de sol en coco</td></tr>
+<tr><td></td><td>5702 31 00</td><td>Autres, à velours, non confectionnés, de laine ou de poils fins</td></tr>
+<tr><td></td><td>5702 32 00</td><td>Autres, à velours, non confectionnés, de matières textiles synthétiques ou artificielles</td></tr>
+<tr><td></td><td>5702 39 00</td><td>Autres, à velours, non confectionnés, d’autres matières textiles</td></tr>
+<tr><td></td><td>5702 41 00</td><td>Autres, à velours, confectionnés, de laine ou de poils fins</td></tr>
+<tr><td></td><td>5702 42 00</td><td>Autres, à velours, confectionnés, de matières textiles synthétiques ou artificielles</td></tr>
+<tr><td></td><td>5702 50 00</td><td>Autres, sans velours, non confectionnés</td></tr>
+<tr><td></td><td>5702 91 00</td><td>Autres, sans velours, confectionnés, de laine ou de poils fins</td></tr>
+<tr><td></td><td>5702 92 00</td><td>Autres, sans velours, confectionnés, de matières textiles synthétiques ou artificielles</td></tr>
+<tr><td></td><td>5702 99 00</td><td>Autres, sans velours, confectionnés, d’autres matières textiles</td></tr>
+<tr><td></td><td>5703</td><td>Tapis et autres revêtements de sol en matières textiles (y compris le gazon), touffetés, même confectionnés</td></tr>
 <tr><td></td><td>5704</td><td>Tapis et autres revêtements de sol, en feutre, non touffetés ni floqués, même confectionnés</td></tr>
-<tr><td></td><td>5705</td><td>Autres tapis et revêtements de sol en matières textiles, même confectionnés</td></tr>
-<tr><td></td><td>5805</td><td>Tapisseries tissées à la main (genre Gobelins, Flandres, Aubusson, Beauvais et similaires) et tapisseries à l’aiguille (au petit point, au point de croix, par exemple), même confectionnées</td></tr>
+<tr><td></td><td>5705 00 00</td><td>Autres tapis et revêtements de sol en matières textiles, même confectionnés</td></tr>
+<tr><td></td><td>5805 00 00</td><td>Tapisseries tissées à la main (genre Gobelins, Flandres, Aubusson, Beauvais et similaires) et tapisseries à l’aiguille (au petit point, au point de croix, par exemple), même confectionnées</td></tr>
 </table>
 
 ### 10. Perles, pierres gemmes précieuses ou fines, ouvrages en perles, bijouterie et joaillerie, articles d’orfèvrerie
@@ -2512,11 +2642,11 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><td>ex</td><td>7104 91 00</td><td>Diamants, sauf destinés à des usages industriels</td></tr>
 <tr><td>ex</td><td>7105</td><td>Égrisés et poudres de pierres gemmes ou de pierres synthétiques, sauf destinés à des usages industriels</td></tr>
 <tr><td></td><td>7106</td><td>Argent (y compris l’argent doré ou vermeil et l’argent platiné), sous formes brutes ou mi-ouvrées, ou en poudre</td></tr>
-<tr><td></td><td>7107</td><td>Plaqué ou doublé d’argent sur métaux communs, sous formes brutes ou mi-ouvrées</td></tr>
+<tr><td></td><td>7107 00 00</td><td>Plaqué ou doublé d’argent sur métaux communs, sous formes brutes ou mi-ouvrées</td></tr>
 <tr><td></td><td>7108</td><td>Or (y compris l’or platiné), sous formes brutes ou mi-ouvrées, ou en poudre</td></tr>
-<tr><td></td><td>7109</td><td>Plaqué ou doublé d’or sur métaux communs ou sur argent, sous formes brutes ou mi-ouvrées</td></tr>
+<tr><td></td><td>7109 00 00</td><td>Plaqué ou doublé d’or sur métaux communs ou sur argent, sous formes brutes ou mi-ouvrées</td></tr>
 <tr><td></td><td>7110</td><td>Platine (y compris l’iridium, l’osmium, le palladium, le rhodium et le ruthénium) sous formes brutes ou mi-ouvrées, ou en poudre</td></tr>
-<tr><td></td><td>7111</td><td>Plaqué ou doublé de platine sur métaux communs, sur argent ou sur or, sous formes brutes ou mi-ouvrées</td></tr>
+<tr><td></td><td>7111 00 00</td><td>Plaqué ou doublé de platine sur métaux communs, sur argent ou sur or, sous formes brutes ou mi-ouvrées</td></tr>
 <tr><td></td><td>7113</td><td>Articles de bijouterie ou de joaillerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
 <tr><td></td><td>7114</td><td>Articles d’orfèvrerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
 <tr><td></td><td>7115</td><td>Autres ouvrages en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
@@ -2528,8 +2658,8 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
 <tr><td>ex</td><td>4907</td><td>Billets de banque</td></tr>
-<tr><td></td><td>7118 10</td><td>Monnaies n’ayant pas cours légal, autres que les pièces d’or</td></tr>
-<tr><td></td><td>7118 90</td><td>Autres</td></tr>
+<tr><td></td><td>7118 10 00</td><td>Monnaies n’ayant pas cours légal, autres que les pièces d’or</td></tr>
+<tr><td></td><td>7118 90 00</td><td>Autres</td></tr>
 </table>
 
 ### 12. Couverts en métaux précieux ou en plaqué ou doublés de métaux précieux
@@ -2546,7 +2676,7 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
 <tr><td></td><td>6911</td><td>Vaisselle, autres articles de ménage ou d’économie domestique et articles d’hygiène ou de toilette, en porcelaine</td></tr>
-<tr><td></td><td>6912</td><td>Vaisselle, autres articles de ménage ou d’économie domestique et articles d’hygiène ou de toilette, en céramique, autres qu’en porcelaine</td></tr>
+<tr><td></td><td>6912 00 00</td><td>Vaisselle, autres articles de ménage ou d’économie domestique et articles d’hygiène ou de toilette, en céramique, autres qu’en porcelaine</td></tr>
 <tr><td></td><td>6914</td><td>Autres ouvrages en céramique</td></tr>
 </table>
 
@@ -2557,143 +2687,143 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><td>ex</td><td>7009 91</td><td>Miroirs en verre, non encadrés</td></tr>
 <tr><td>ex</td><td>7009 92</td><td>Miroirs en verre, encadrés</td></tr>
 <tr><td>ex</td><td>7010</td><td>Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, ampoules et autres récipients de transport ou d’emballage, en verre; bocaux à conserves en verre; bouchons, couvercles et autres dispositifs de fermeture, en verre</td></tr>
-<tr><td></td><td>7013 22</td><td>En cristal au plomb</td></tr>
-<tr><td></td><td>7013 33</td><td>En cristal au plomb</td></tr>
-<tr><td></td><td>7013 41</td><td>En cristal au plomb</td></tr>
-<tr><td></td><td>7013 91</td><td>En cristal au plomb</td></tr>
-<tr><td>ex</td><td>7018 10</td><td>Perles de verre, imitations de perles fines ou de culture, imitations de pierres gemmes et articles similaires de verroterie</td></tr>
-<tr><td>ex</td><td>7018 90</td><td>Autres</td></tr>
-<tr><td>ex</td><td>7020 00 80</td><td>Autres ouvrages en verre, autres</td></tr>
-<tr><td>ex</td><td>9405 50</td><td>Luminaires et appareils d’éclairage non électriques</td></tr>
-<tr><td>ex</td><td>9405 91</td><td>Parties, en verre</td></tr>
+<tr><td></td><td>7013 22 00</td><td>Verres à boire à pied, en cristal au plomb</td></tr>
+<tr><td></td><td>7013 33 00</td><td>Autres verres à boire, en cristal au plomb</td></tr>
+<tr><td></td><td>7013 41 00</td><td>Objets pour le service de la table (autres que les verres à boire) ou pour la cuisine en cristal au plomb</td></tr>
+<tr><td></td><td>7013 91 00</td><td>Autres objets en cristal au plomb</td></tr>
+<tr><td></td><td>7018 10 00</td><td>Perles de verre, imitations de perles fines ou de culture, imitations de pierres gemmes et articles similaires de verroterie</td></tr>
+<tr><td>ex</td><td>7018 90 00</td><td>Autres</td></tr>
+<tr><td>ex</td><td>7020 00 00</td><td>Autres ouvrages en verre</td></tr>
+<tr><td>ex</td><td>9405 50 00</td><td>Luminaires et appareils d’éclairage non électriques</td></tr>
+<tr><td>ex</td><td>9405 91 00</td><td>Parties, en verre</td></tr>
 </table>
 
 ### 15. Articles électroniques à usage domestique d’une valeur dépassant 750 francs
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td>ex</td><td>8414 51</td><td>Ventilateurs de table, de sol, muraux, plafonniers, de toitures ou de fenêtres, à moteur électrique incorporé d’une puissance n’excédant pas 125 W</td></tr>
-<tr><td>ex</td><td>8414 59</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8414 60</td><td>Hottes dont le plus grand côté horizontal n’excède pas 120 cm</td></tr>
-<tr><td>ex</td><td>8415 10</td><td>Des types conçus pour être fixés sur une fenêtre, un mur, un plafond ou sur le sol, formant un seul corps ou du type «split-system» (systèmes à éléments séparés)</td></tr>
-<tr><td>ex</td><td>8418 10</td><td>Combinaison de réfrigérateurs et de congélateurs-conservateurs munis de portes ou de tiroirs extérieurs séparés, ou d’une combinaison de ces éléments</td></tr>
-<tr><td>ex</td><td>8418 21</td><td>Réfrigérateurs à compression</td></tr>
-<tr><td>ex</td><td>8418 29</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8418 30</td><td>Meubles congélateurs-conservateurs du type coffre, d’une capacité n’excédant pas 800 l</td></tr>
-<tr><td>ex</td><td>8418 40</td><td>Meubles congélateurs-conservateurs du type armoire, d’une capacité n’excédant pas 900 l</td></tr>
-<tr><td>ex</td><td>8419 81</td><td>Pour la préparation de boissons chaudes ou la cuisson ou le chauffage des aliments</td></tr>
-<tr><td>ex</td><td>8422 11</td><td>Machines à laver la vaisselle, de type ménager</td></tr>
-<tr><td>ex</td><td>8423 10</td><td>Pèse-personnes, y compris les pèse-bébés; balances de ménage</td></tr>
-<tr><td>ex</td><td>8443 12</td><td>Machines et appareils à imprimer offset de bureau, alimentés en feuilles dont un côté n’excède pas 22 cm et l’autre n’excède pas 36 cm, à l’état non plié</td></tr>
-<tr><td>ex</td><td>8443 31</td><td>Machines qui assurent au moins deux des fonctions suivantes: impression, copie ou transmission de télécopie, aptes à être connectées à une machine automatique de traitement de l’information ou à un réseau</td></tr>
-<tr><td>ex</td><td>8443 32</td><td>Autres, aptes à être connectées à une machine automatique de traitement de l’information ou à un réseau</td></tr>
-<tr><td>ex</td><td>8443 39</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8450 11</td><td>Machines entièrement automatiques</td></tr>
-<tr><td>ex</td><td>8450 12</td><td>Autres machines à laver, avec essoreuse centrifuge incorporée</td></tr>
-<tr><td>ex</td><td>8450 19</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8451 21</td><td>Machines à sécher, d’une capacité unitaire exprimée en poids de linge sec n’excédant pas 10 kg</td></tr>
-<tr><td>ex</td><td>8452 10</td><td>Machines à coudre de type ménager</td></tr>
-<tr><td>ex</td><td>8470 10</td><td>Calculatrices électroniques pouvant fonctionner sans source d’énergie électrique extérieure et machines de poche comportant une fonction de calcul permettant d’enregistrer, de reproduire et d’afficher des informations</td></tr>
-<tr><td>ex</td><td>8470 21</td><td>Autres machines à calculer électroniques, comportant un organe imprimant</td></tr>
-<tr><td>ex</td><td>8470 29</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8470 30</td><td>Autres machines à calculer</td></tr>
-<tr><td>ex</td><td>8472 90</td><td>Autres machines et appareils de bureau, autres</td></tr>
-<tr><td>ex</td><td>8479 60</td><td>Appareils à évaporation pour le rafraîchissement de l’air</td></tr>
-<tr><td>ex</td><td>8508 11 00</td><td>Aspirateurs, d’une puissance n’excédant pas 1500 W et dont le volume du réservoir n’excède pas 20 l</td></tr>
-<tr><td>ex</td><td>8508 19</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8508 60</td><td>Autres aspirateurs</td></tr>
-<tr><td>ex</td><td>8509 80</td><td>Autres appareils</td></tr>
-<tr><td>ex</td><td>8516 31</td><td>Sèche-cheveux</td></tr>
-<tr><td>ex</td><td>8516 50 00</td><td>Fours à micro-ondes</td></tr>
-<tr><td>ex</td><td>8516 60</td><td>Cuisinières</td></tr>
-<tr><td>ex</td><td>8516 71</td><td>Appareils pour la préparation du café ou du thé</td></tr>
-<tr><td>ex</td><td>8516 72</td><td>Grille-pain</td></tr>
-<tr><td>ex</td><td>8516 79</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8517 11</td><td>Postes téléphoniques d’usagers par fil à combinés sans fil</td></tr>
-<tr><td>ex</td><td>8517 13</td><td>Téléphones intelligents</td></tr>
-<tr><td>ex</td><td>8517 18</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8529 10</td><td>Antennes d’intérieur pour récepteurs de radiodiffusion et de télévision, y compris celles à incorporer</td></tr>
-<tr><td>ex</td><td>8529 10</td><td>Antennes et réflecteurs d’antennes de tous types; parties reconnaissables comme étant utilisées conjointement avec ces articles</td></tr>
-<tr><td>ex</td><td>8531 10</td><td>Avertisseurs électriques pour la protection contre le vol ou l’incendie et appareils similaires</td></tr>
+<tr><td></td><td>8414 51 00</td><td>Ventilateurs de table, de sol, muraux, plafonniers, de toitures ou de fenêtres, à moteur électrique incorporé d’une puissance n’excédant pas 125 W</td></tr>
+<tr><td></td><td>8414 59 00</td><td>Autres</td></tr>
+<tr><td></td><td>8414 60 00</td><td>Hottes dont le plus grand côté horizontal n’excède pas 120 cm</td></tr>
+<tr><td></td><td>8415 10 00</td><td>Machines et appareils pour le conditionnement de l’air comprenant un ventilateur à moteur et des dispositifs propres à modifier la température et l’humidité, y compris ceux dans lesquels le degré hygrométrique n’est pas réglable séparément, des types conçus pour être fixés sur une fenêtre, un mur, un plafond ou sur le sol, formant un seul corps ou du type «split-system» (systèmes à éléments séparés)</td></tr>
+<tr><td></td><td>8418 10 00</td><td>Réfrigérateurs, congélateurs-conservateurs et autres matériel, machines et appareils pour la production du froid, à équipement électrique ou autre; pompes à chaleur autres que les machines et appareils pour le conditionnement de l’air du numéro 8415, combinaison de réfrigérateurs et de congélateurs-conservateurs munis de portes ou de tiroirs extérieurs séparés, ou d’une combinaison de ces éléments</td></tr>
+<tr><td></td><td>8418 21 00</td><td>Réfrigérateurs à compression</td></tr>
+<tr><td></td><td>8418 29 00</td><td>Autres</td></tr>
+<tr><td></td><td>8418 30 00</td><td>Meubles congélateurs-conservateurs du type coffre, d’une capacité n’excédant pas 800 l</td></tr>
+<tr><td></td><td>8418 40 00</td><td>Meubles congélateurs-conservateurs du type armoire, d’une capacité n’excédant pas 900 l</td></tr>
+<tr><td></td><td>8419 81 00</td><td>Autres appareils et dispositifs pour la préparation de boissons chaudes ou la cuisson ou le chauffage des aliments</td></tr>
+<tr><td></td><td>8422 11 00</td><td>Machines à laver la vaisselle, de type ménager</td></tr>
+<tr><td></td><td>8423 10 00</td><td>Pèse-personnes, y compris les pèse-bébés; balances de ménage</td></tr>
+<tr><td></td><td>8443 12 00</td><td>Machines et appareils à imprimer offset de bureau, alimentés en feuilles dont un côté n’excède pas 22 cm et l’autre n’excède pas 36 cm, à l’état non plié</td></tr>
+<tr><td></td><td>8443 31 00</td><td>Machines qui assurent au moins deux des fonctions suivantes: impression, copie ou transmission de télécopie, aptes à être connectées à une machine automatique de traitement de l’information ou à un réseau</td></tr>
+<tr><td></td><td>8443 32 00</td><td>Autres, aptes à être connectées à une machine automatique de traitement de l’information ou à un réseau</td></tr>
+<tr><td></td><td>8443 39 00</td><td>Autres</td></tr>
+<tr><td></td><td>8450 11 00</td><td>Machines entièrement automatiques</td></tr>
+<tr><td></td><td>8450 12 00</td><td>Autres machines à laver, avec essoreuse centrifuge incorporée</td></tr>
+<tr><td></td><td>8450 19 00</td><td>Autres</td></tr>
+<tr><td></td><td>8451 21 00</td><td>Machines à sécher, d’une capacité unitaire exprimée en poids de linge sec n’excédant pas 10 kg</td></tr>
+<tr><td></td><td>8452 10 00</td><td>Machines à coudre de type ménager</td></tr>
+<tr><td></td><td>8470 10 00</td><td>Calculatrices électroniques pouvant fonctionner sans source d’énergie électrique extérieure et machines de poche comportant une fonction de calcul permettant d’enregistrer, de reproduire et d’afficher des informations</td></tr>
+<tr><td></td><td>8470 21 00</td><td>Autres machines à calculer électroniques, comportant un organe imprimant</td></tr>
+<tr><td></td><td>8470 29 00</td><td>Autres</td></tr>
+<tr><td></td><td>8470 30 00</td><td>Autres machines à calculer</td></tr>
+<tr><td></td><td>8472 90 00</td><td>Autres machines et appareils de bureau, autres</td></tr>
+<tr><td></td><td>8479 60 00</td><td>Appareils à évaporation pour le rafraîchissement de l’air</td></tr>
+<tr><td></td><td>8508 11 00</td><td>Aspirateurs à moteur électrique incorporé, d’une puissance n’excédant pas 1500 W et dont le volume du réservoir n’excède pas 20 l</td></tr>
+<tr><td></td><td>8508 19 00</td><td>Autres</td></tr>
+<tr><td></td><td>8508 60 00</td><td>Autres aspirateurs</td></tr>
+<tr><td></td><td>8509 80 00</td><td>Appareils électromécaniques à moteur électrique incorporé, à usage domestique, autres que les aspirateurs du n<sup>o</sup> 8508: autres appareils que les broyeurs et mélangeurs pour aliments; presse-fruits et presse-légumes</td></tr>
+<tr><td></td><td>8516 31 00</td><td>Sèche-cheveux</td></tr>
+<tr><td></td><td>8516 50 00</td><td>Fours à micro-ondes</td></tr>
+<tr><td>ex</td><td>8516 60 00</td><td>Cuisinières</td></tr>
+<tr><td></td><td>8516 71 00</td><td>Appareils pour la préparation du café ou du thé</td></tr>
+<tr><td></td><td>8516 72 00</td><td>Grille-pain</td></tr>
+<tr><td></td><td>8516 79 00</td><td>Autres</td></tr>
+<tr><td></td><td>8517 11 00</td><td>Postes téléphoniques d’usagers par fil à combinés sans fil</td></tr>
+<tr><td></td><td>8517 13 00</td><td>Téléphones intelligents</td></tr>
+<tr><td></td><td>8517 18 00</td><td>Autres</td></tr>
+<tr><td>ex</td><td>8529 10 00</td><td>Antennes d’intérieur pour récepteurs de radiodiffusion et de télévision, y compris celles à incorporer</td></tr>
+<tr><td></td><td>8529 10 00</td><td>Antennes et réflecteurs d’antennes de tous types; parties reconnaissables comme étant utilisées conjointement avec ces articles</td></tr>
+<tr><td></td><td>8531 10 00</td><td>Avertisseurs électriques pour la protection contre le vol ou l’incendie et appareils similaires</td></tr>
 <tr><td>ex</td><td>8543 70</td><td>Machines électriques avec fonctions de traduction ou de dictionnaire</td></tr>
 <tr><td>ex</td><td>8543 70</td><td>Amplificateurs d’antennes</td></tr>
 <tr><td>ex</td><td>8543 70</td><td>Bancs et ciels solaires et appareils similaires pour le bronzage</td></tr>
 <tr><td>ex</td><td>8543 70</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9504 50 00</td><td>Consoles et machines de jeux vidéo, autres que celles du n<sup>o</sup> 9504.30</td></tr>
-<tr><td>ex</td><td>9504 90</td><td>Autres</td></tr>
+<tr><td></td><td>9504 50 00</td><td>Consoles et machines de jeux vidéo, autres que celles du n<sup>o</sup> 9504.30</td></tr>
+<tr><td></td><td>9504 90 00</td><td>Autres</td></tr>
 </table>
 
 ### 16. Appareils électriques/électroniques ou optiques d’enregistrement et de reproduction du son et des images d’une valeur dépassant 1000 francs
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td>ex</td><td>8519</td><td>Appareils d’enregistrement du son; appareils de reproduction du son; appareils d’enregistrement et de reproduction du son</td></tr>
-<tr><td>ex</td><td>8521</td><td>Appareils d’enregistrement ou de reproduction vidéophoniques, même incorporant un récepteur de signaux vidéophoniques</td></tr>
-<tr><td>ex</td><td>8527</td><td>Appareils récepteurs pour la radiodiffusion, même combinés, sous une même enveloppe, à un appareil d’enregistrement ou de reproduction du son ou à un appareil d’horlogerie</td></tr>
-<tr><td>ex</td><td>8528 71</td><td>Non conçus pour incorporer un dispositif d’affichage ou un écran vidéo</td></tr>
-<tr><td>ex</td><td>8528 72</td><td>Autres, en couleurs</td></tr>
-<tr><td>ex</td><td>9006</td><td>Appareils photographiques; appareils et dispositifs, y compris les lampes et tubes, pour la production de la lumière-éclair en photographie, à l’exclusion des lampes et tubes à décharge du n<sup>o</sup> 8539</td></tr>
-<tr><td>ex</td><td>9007</td><td>Caméras et projecteurs cinématographiques, même incorporant des appareils d’enregistrement ou de reproduction du son</td></tr>
+<tr><td></td><td>8519</td><td>Appareils d’enregistrement du son; appareils de reproduction du son; appareils d’enregistrement et de reproduction du son</td></tr>
+<tr><td></td><td>8521</td><td>Appareils d’enregistrement ou de reproduction vidéophoniques, même incorporant un récepteur de signaux vidéophoniques</td></tr>
+<tr><td></td><td>8527</td><td>Appareils récepteurs pour la radiodiffusion, même combinés, sous une même enveloppe, à un appareil d’enregistrement ou de reproduction du son ou à un appareil d’horlogerie</td></tr>
+<tr><td></td><td>8528 71 00</td><td>Appareils récepteurs de télévision, même incorporant un appareil récepteur de radiodiffusion ou un appareil d’enregistrement ou de reproduction du son ou des images, non conçus pour incorporer un dispositif d’affichage ou un écran vidéo</td></tr>
+<tr><td></td><td>8528 72 00</td><td>Autres, en couleurs</td></tr>
+<tr><td></td><td>9006</td><td>Appareils photographiques; appareils et dispositifs, y compris les lampes et tubes, pour la production de la lumière-éclair en photographie, à l’exclusion des lampes et tubes à décharge du n<sup>o</sup> 8539</td></tr>
+<tr><td></td><td>9007</td><td>Caméras et projecteurs cinématographiques, même incorporant des appareils d’enregistrement ou de reproduction du son</td></tr>
 </table>
 
 ### 17. Véhicules pour le transport de personnes par voie terrestre, aérienne ou maritime d’une valeur unitaire dépassant 50 000 francs; téléphériques, télésièges, remonte-pentes, mécanismes de traction pour funiculaires, motos d’une valeur unitaire dépassant 5000 francs, ainsi que leurs accessoires et pièces détachées
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td>ex</td><td>4011 10</td><td>Pneumatiques neufs, en caoutchouc, des types utilisés pour les voitures de tourisme (y compris les voitures du type «break» et les voitures de course)</td></tr>
-<tr><td>ex</td><td>4011 40</td><td>Pneumatiques neufs, en caoutchouc, des types utilisés pour motocycles</td></tr>
-<tr><td>ex</td><td>4011 90</td><td>Pneumatiques neufs, en caoutchouc, autres</td></tr>
-<tr><td>ex</td><td>7009 10</td><td>Miroirs rétroviseurs pour véhicules</td></tr>
-<tr><td>ex</td><td>8407</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion)</td></tr>
-<tr><td>ex</td><td>8409</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux moteurs des n<sup>os</sup> 8407 ou 8408</td></tr>
-<tr><td>ex</td><td>8428 60</td><td>Téléphériques (y compris les télésièges et remonte-pentes); mécanismes de traction pour funiculaires</td></tr>
+<tr><td></td><td>4011 10 00</td><td>Pneumatiques neufs, en caoutchouc, des types utilisés pour les voitures de tourisme (y compris les voitures du type «break» et les voitures de course)</td></tr>
+<tr><td></td><td>4011 40 00</td><td>Pneumatiques neufs, en caoutchouc, des types utilisés pour motocycles</td></tr>
+<tr><td></td><td>4011 90 00</td><td>Pneumatiques neufs, en caoutchouc, autres</td></tr>
+<tr><td></td><td>7009 10 00</td><td>Miroirs rétroviseurs pour véhicules</td></tr>
+<tr><td></td><td>8407</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion)</td></tr>
+<tr><td></td><td>8409</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux moteurs des n<sup>os</sup> 8407 ou 8408</td></tr>
+<tr><td></td><td>8428 60 00</td><td>Téléphériques (y compris les télésièges et remonte-pentes); mécanismes de traction pour funiculaires</td></tr>
 <tr><td>ex</td><td>8512 30</td><td>Avertisseurs électriques pour la protection contre le vol des types utilisés pour véhicules automobiles</td></tr>
 <tr><td>ex</td><td>8512 30</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8512 40</td><td>Essuie-glaces, dégivreurs et dispositifs antibuée</td></tr>
-<tr><td>ex</td><td>8603</td><td>Automotrices et autorails, autres que ceux du n<sup>o</sup> 8604</td></tr>
-<tr><td>ex</td><td>8605</td><td>Voitures à voyageurs, fourgons à bagages, voitures postales et autres voitures spéciales, pour voies ferrées ou similaires (à l’exclusion des voitures du n<sup>o</sup> 8604)</td></tr>
-<tr><td>ex</td><td>8607</td><td>Parties de véhicules pour voies ferrées ou similaires</td></tr>
-<tr><td>ex</td><td>8702</td><td>Véhicules automobiles pour le transport de dix personnes ou plus, chauffeur inclus</td></tr>
-<tr><td>ex</td><td>8706</td><td>Châssis des véhicules automobiles des n<sup>os</sup> 8701 à 8705, équipés de leur moteur</td></tr>
-<tr><td>ex</td><td>8707</td><td>Carrosseries des véhicules automobiles des n<sup>os</sup> 8701 à 8705, y compris les cabines</td></tr>
-<tr><td>ex</td><td>8708</td><td>Parties et accessoires des véhicules des n<sup>os</sup> 8701 à 8705</td></tr>
-<tr><td>ex</td><td>8711</td><td>Motocycles (y compris les cyclomoteurs) et cycles équipés d’un moteur auxiliaire, avec ou sans side-cars; side-cars</td></tr>
-<tr><td>ex</td><td>8712</td><td>Bicyclettes et autres cycles (y compris les triporteurs), sans moteur</td></tr>
-<tr><td>ex</td><td>8714</td><td>Parties et accessoires des véhicules des n<sup>os</sup> 8711 à 8713</td></tr>
-<tr><td>ex</td><td>8716 10</td><td>Remorques et semi-remorques pour l’habitation ou le camping, du type caravane</td></tr>
-<tr><td>ex</td><td>8716 40</td><td>Autres remorques et semi-remorques</td></tr>
-<tr><td>ex</td><td>8716 90</td><td>Parties</td></tr>
-<tr><td>ex</td><td>8901 10</td><td>Paquebots, bateaux de croisières et bateaux similaires principalement conçus pour le transport de personnes; transbordeurs</td></tr>
-<tr><td>ex</td><td>8901 90</td><td>Autres bateaux pour le transport de marchandises et autres bateaux conçus à la fois pour le transport de personnes et de marchandises</td></tr>
+<tr><td></td><td>8512 40</td><td>Essuie-glaces, dégivreurs et dispositifs antibuée</td></tr>
+<tr><td></td><td>8603</td><td>Automotrices et autorails, autres que ceux du n<sup>o</sup> 8604</td></tr>
+<tr><td></td><td>8605 00 00</td><td>Voitures à voyageurs, fourgons à bagages, voitures postales et autres voitures spéciales, pour voies ferrées ou similaires (à l’exclusion des voitures du n<sup>o</sup> 8604)</td></tr>
+<tr><td></td><td>8607</td><td>Parties de véhicules pour voies ferrées ou similaires</td></tr>
+<tr><td></td><td>8702</td><td>Véhicules automobiles pour le transport de dix personnes ou plus, chauffeur inclus</td></tr>
+<tr><td></td><td>8706</td><td>Châssis des véhicules automobiles des n<sup>os</sup> 8701 à 8705, équipés de leur moteur</td></tr>
+<tr><td></td><td>8707</td><td>Carrosseries des véhicules automobiles des n<sup>os</sup> 8701 à 8705, y compris les cabines</td></tr>
+<tr><td></td><td>8708</td><td>Parties et accessoires des véhicules des n<sup>os</sup> 8701 à 8705</td></tr>
+<tr><td></td><td>8711</td><td>Motocycles (y compris les cyclomoteurs) et cycles équipés d’un moteur auxiliaire, avec ou sans side-cars; side-cars</td></tr>
+<tr><td></td><td>8712 00 00</td><td>Bicyclettes et autres cycles (y compris les triporteurs), sans moteur</td></tr>
+<tr><td></td><td>8714</td><td>Parties et accessoires des véhicules des n<sup>os</sup> 8711 à 8713</td></tr>
+<tr><td></td><td>8716 10 00</td><td>Remorques et semi-remorques pour l’habitation ou le camping, du type caravane</td></tr>
+<tr><td></td><td>8716 40 00</td><td>Autres remorques et semi-remorques</td></tr>
+<tr><td></td><td>8716 90 00</td><td>Parties</td></tr>
+<tr><td></td><td>8901 10 00</td><td>Paquebots, bateaux de croisières et bateaux similaires principalement conçus pour le transport de personnes; transbordeurs</td></tr>
+<tr><td></td><td>8901 90 00</td><td>Autres bateaux pour le transport de marchandises et autres bateaux conçus à la fois pour le transport de personnes et de marchandises</td></tr>
 </table>
 
 ### 18. Horloges et montres et leurs pièces
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td>ex</td><td>9101</td><td>Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mêmes types), avec boîte en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
-<tr><td>ex</td><td>9102</td><td>Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mêmes types), autres que celles du n<sup>o</sup> 9101</td></tr>
-<tr><td>ex</td><td>9103</td><td>Réveils et pendulettes, à mouvement de montre</td></tr>
-<tr><td>ex</td><td>9104 00 00</td><td>Montres de tableaux de bord et montres similaires, pour automobiles, véhicules aériens, bateaux ou autres véhicules</td></tr>
-<tr><td>ex</td><td>9105</td><td>Réveils, pendules, horloges et appareils d’horlogerie similaires, à mouvement autre que de montre</td></tr>
-<tr><td>ex</td><td>9108</td><td>Mouvements de montres, complets et assemblés</td></tr>
-<tr><td>ex</td><td>9109</td><td>Mouvements d’horlogerie, complets et assemblés, autres que de montres</td></tr>
-<tr><td>ex</td><td>9110</td><td>Mouvements d’horlogerie complets, non assemblés ou partiellement assemblés (chablons); mouvements d’horlogerie incomplets, assemblés; ébauches de mouvements d’horlogerie</td></tr>
-<tr><td>ex</td><td>9111</td><td>Boîtes de montres des n<sup>os</sup> 9101 ou 9102 et leurs parties</td></tr>
-<tr><td>ex</td><td>9112</td><td>Cages et cabinets d’appareils d’horlogerie et leurs parties</td></tr>
-<tr><td>ex</td><td>9113</td><td>Bracelets de montres et leurs parties</td></tr>
-<tr><td>ex</td><td>9114</td><td>Autres fournitures d’horlogerie</td></tr>
+<tr><td></td><td>9101</td><td>Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mêmes types), avec boîte en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
+<tr><td></td><td>9102</td><td>Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mêmes types), autres que celles du n<sup>o</sup> 9101</td></tr>
+<tr><td></td><td>9103</td><td>Réveils et pendulettes, à mouvement de montre</td></tr>
+<tr><td></td><td>9104 00 00</td><td>Montres de tableaux de bord et montres similaires, pour automobiles, véhicules aériens, bateaux ou autres véhicules</td></tr>
+<tr><td></td><td>9105</td><td>Réveils, pendules, horloges et appareils d’horlogerie similaires, à mouvement autre que de montre</td></tr>
+<tr><td></td><td>9108</td><td>Mouvements de montres, complets et assemblés</td></tr>
+<tr><td></td><td>9109</td><td>Mouvements d’horlogerie, complets et assemblés, autres que de montres</td></tr>
+<tr><td></td><td>9110</td><td>Mouvements d’horlogerie complets, non assemblés ou partiellement assemblés (chablons); mouvements d’horlogerie incomplets, assemblés; ébauches de mouvements d’horlogerie</td></tr>
+<tr><td></td><td>9111</td><td>Boîtes de montres des n<sup>os</sup> 9101 ou 9102 et leurs parties</td></tr>
+<tr><td></td><td>9112</td><td>Cages et cabinets d’appareils d’horlogerie et leurs parties</td></tr>
+<tr><td></td><td>9113</td><td>Bracelets de montres et leurs parties</td></tr>
+<tr><td></td><td>9114</td><td>Autres fournitures d’horlogerie</td></tr>
 </table>
 
 ### 19. Instruments de musique d’une valeur dépassant 1500 francs
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td>ex</td><td>9201</td><td>Pianos, même automatiques; clavecins et autres instruments à cordes à clavier</td></tr>
-<tr><td>ex</td><td>9202</td><td>Autres instruments de musique à cordes (guitares, violons, harpes, par exemple)</td></tr>
-<tr><td>ex</td><td>9205</td><td>Instruments de musique à vent (orgues à tuyaux et à clavier, accordéons, clarinettes, trompettes, cornemuses, par exemple), autres que les orchestrions et les orgues de Barbarie</td></tr>
-<tr><td>ex</td><td>9206 00 00</td><td>Instruments de musique à percussion (tambours, caisses, xylophones, cymbales, castagnettes, maracas, par exemple)</td></tr>
-<tr><td>ex</td><td>9207</td><td>Instruments de musique dont le son est produit ou doit être amplifié par des moyens électriques (orgues, guitares, accordéons, par exemple)</td></tr>
+<tr><td></td><td>9201</td><td>Pianos, même automatiques; clavecins et autres instruments à cordes à clavier</td></tr>
+<tr><td></td><td>9202</td><td>Autres instruments de musique à cordes (guitares, violons, harpes, par exemple)</td></tr>
+<tr><td></td><td>9205</td><td>Instruments de musique à vent (orgues à tuyaux et à clavier, accordéons, clarinettes, trompettes, cornemuses, par exemple), autres que les orchestrions et les orgues de Barbarie</td></tr>
+<tr><td></td><td>9206 00 00</td><td>Instruments de musique à percussion (tambours, caisses, xylophones, cymbales, castagnettes, maracas, par exemple)</td></tr>
+<tr><td></td><td>9207</td><td>Instruments de musique dont le son est produit ou doit être amplifié par des moyens électriques (orgues, guitares, accordéons, par exemple)</td></tr>
 </table>
 
 ### 20. Objets d’art, de collection ou d’antiquité
@@ -2703,71 +2833,72 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><td>ex</td><td>97</td><td>Objets d’art, de collection ou d’antiquité</td></tr>
 </table>
 
-### 21. Articles et équipements destinés à la pratique du sport, notamment du ski, du golf, de la plongée sous-marine et des sports nautiques
+### 21. Articles et équipements destinés à la pratique du sport, notamment du ski, du golf, de la plongée sous‑marine et des sports nautiques
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td>ex</td><td>4015 19 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>4015 90 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>6210 40 00</td><td>Autres vêtements pour hommes ou garçonnets</td></tr>
-<tr><td>ex</td><td>6210 50</td><td>Autres vêtements, pour femmes ou fillettes</td></tr>
-<tr><td>ex</td><td>6211 11</td><td>Pour hommes ou garçonnets</td></tr>
-<tr><td>ex</td><td>6211 12</td><td>Pour femmes ou fillettes</td></tr>
-<tr><td>ex</td><td>6211 20</td><td>Combinaisons et ensembles de ski</td></tr>
-<tr><td>ex</td><td>6216</td><td>Gants, mitaines et moufles</td></tr>
-<tr><td>ex</td><td>6402 12 00</td><td>Chaussures de ski et chaussures pour le surf des neiges</td></tr>
-<tr><td>ex</td><td>6402 19 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>6403 12 00</td><td>Chaussures de ski et chaussures pour le surf des neiges</td></tr>
-<tr><td>ex</td><td>6403 19 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>6404 11 00</td><td>Chaussures de sport; chaussures dites de tennis, de basket-ball, de gymnastique, d’entraînement et chaussures similaires</td></tr>
-<tr><td>ex</td><td>6404 19 90</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9004 90 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9020 00 00</td><td>Autres appareils respiratoires et masques à gaz, à l’exclusion des masques de protection dépourvus de mécanisme et d’élément filtrant amovible</td></tr>
-<tr><td>ex</td><td>9506 11 00</td><td>Skis</td></tr>
-<tr><td>ex</td><td>9506 12 00</td><td>Fixations pour skis</td></tr>
-<tr><td>ex</td><td>9506 19 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9506 21 00</td><td>Planches à voile</td></tr>
-<tr><td>ex</td><td>9506 29 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9506 31 00</td><td>Clubs de golf complets</td></tr>
-<tr><td>ex</td><td>9506 32 00</td><td>Balles</td></tr>
-<tr><td>ex</td><td>9506 39 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9506 40 00</td><td>Articles et matériel pour le tennis de table</td></tr>
-<tr><td>ex</td><td>9506 51 00</td><td>Raquettes de tennis, même non cordées</td></tr>
-<tr><td>ex</td><td>9506 59 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9506 61 00</td><td>Balles de tennis</td></tr>
-<tr><td>ex</td><td>9506 69 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9506 70</td><td>Patins à glace et patins à roulettes, y compris les chaussures auxquelles sont fixés des patins</td></tr>
-<tr><td>ex</td><td>9506 91 00</td><td>Articles et matériel pour la culture physique, la gymnastique ou l’athlétisme</td></tr>
-<tr><td>ex</td><td>9506 99 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>9507</td><td>Cannes à pêche, hameçons et autres articles pour la pêche à la ligne; épuisettes pour tous usages; leurres (autres que ceux des n<sup>os</sup> 9208 ou 9705) et articles de chasse similaires</td></tr>
+<tr><td></td><td>4015 19 00</td><td>Gants, mitaines et moufles, autres que ceux des types utilisés pour la médecine, la chirurgie, l’art dentaire ou l’art vétérinaire</td></tr>
+<tr><td></td><td>4015 90 00</td><td>Vêtements et accessoires du vêtement (autres que les gants, mitaines et moufles) en caoutchouc vulcanisé non durci, pour tous usages</td></tr>
+<tr><td></td><td>6210 40 00</td><td>Autres vêtements pour hommes ou garçonnets</td></tr>
+<tr><td></td><td>6210 50 00</td><td>Autres vêtements, pour femmes ou fillettes</td></tr>
+<tr><td></td><td>6211 11 00</td><td>Survêtements de sport (trainings), combinaisons et ensembles de ski, maillots, culottes et slips de bain; autres vêtements pour hommes ou garçonnets</td></tr>
+<tr><td></td><td>6211 12 00</td><td>Survêtements de sport (trainings), combinaisons et ensembles de ski, maillots, culottes et slips de bain; autres vêtements pour femmes ou fillettes</td></tr>
+<tr><td></td><td>6211 20 00</td><td>Combinaisons et ensembles de ski</td></tr>
+<tr><td></td><td>6216 00 00</td><td>Gants, mitaines et moufles</td></tr>
+<tr><td></td><td>6402 12 00</td><td>Chaussures de ski et chaussures pour le surf des neiges</td></tr>
+<tr><td></td><td>6402 19 00</td><td>Autres</td></tr>
+<tr><td></td><td>6403 12 00</td><td>Chaussures de ski et chaussures pour le surf des neiges</td></tr>
+<tr><td></td><td>6403 19 00</td><td>Autres</td></tr>
+<tr><td></td><td>6404 11 00</td><td>Chaussures de sport; chaussures dites de tennis, de basket-ball, de gymnastique, d’entraînement et chaussures similaires</td></tr>
+<tr><td></td><td>6404 19 00</td><td>Autres</td></tr>
+<tr><td></td><td>9004 90 00</td><td>Lunettes (correctrices, protectrices ou autres) et articles similaires, autres que les lunettes solaires</td></tr>
+<tr><td></td><td>9020 00 00</td><td>Autres appareils respiratoires et masques à gaz, à l’exclusion des masques de protection dépourvus de mécanisme et d’élément filtrant amovible</td></tr>
+<tr><td></td><td>9506 11 00</td><td>Skis</td></tr>
+<tr><td></td><td>9506 12 00</td><td>Fixations pour skis</td></tr>
+<tr><td></td><td>9506 19 00</td><td>Autre matériel pour la pratique du ski de neige</td></tr>
+<tr><td></td><td>9506 21 00</td><td>Planches à voile</td></tr>
+<tr><td></td><td>9506 29 00</td><td>Skis nautiques, aquaplanes et autre matériel pour la pratique des sports nautiques autres que les planches à voile</td></tr>
+<tr><td></td><td>9506 31 00</td><td>Clubs de golf complets</td></tr>
+<tr><td></td><td>9506 32 00</td><td>Balles de golf</td></tr>
+<tr><td></td><td>9506 39 00</td><td>Autre matériel pour le golf</td></tr>
+<tr><td></td><td>9506 40 00</td><td>Articles et matériel pour le tennis de table</td></tr>
+<tr><td></td><td>9506 51 00</td><td>Raquettes de tennis, même non cordées</td></tr>
+<tr><td></td><td>9506 59 00</td><td>Raquettes de badminton ou similaires, même non cordées</td></tr>
+<tr><td></td><td>9506 61 00</td><td>Balles de tennis</td></tr>
+<tr><td></td><td>9506 69 00</td><td>Autres que les balles de tennis et les balles gonflables</td></tr>
+<tr><td></td><td>9506 70 00</td><td>Patins à glace et patins à roulettes, y compris les chaussures auxquelles sont fixés des patins</td></tr>
+<tr><td></td><td>9506 91 00</td><td>Articles et matériel pour la culture physique, la gymnastique ou l’athlétisme</td></tr>
+<tr><td></td><td>9506 99 00</td><td>Autres</td></tr>
+<tr><td></td><td>9507</td><td>Cannes à pêche, hameçons et autres articles pour la pêche à la ligne; épuisettes pour tous usages; leurres (autres que ceux des n<sup>os</sup> 9208 ou 9705) et articles de chasse similaires</td></tr>
 </table>
 
 ### 22. Articles et équipements pour les billards, les jeux de quilles automatiques (bowlings, par exemple), les jeux de casino et les jeux fonctionnant par l’introduction d’une pièce de monnaie ou d’un billet de banque
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td>ex</td><td>9504 20 00</td><td>Billards de tout genre et leurs accessoires</td></tr>
-<tr><td>ex</td><td>9504 30</td><td>Autres jeux fonctionnant par l’introduction d’une pièce de monnaie, d’un billet de banque, d’une carte bancaire, d’un jeton ou par tout autre moyen de paiement, à l’exclusion des jeux de quilles automatiques (bowlings)</td></tr>
-<tr><td>ex</td><td>9504 40 00</td><td>Cartes à jouer</td></tr>
-<tr><td>ex</td><td>9504 50 00</td><td>Consoles et machines de jeux vidéo, autres que celles du n<sup>o</sup> 9504.30</td></tr>
-<tr><td>ex</td><td>9504 90 00</td><td>Autres</td></tr>
+<tr><td></td><td>9504 20 00</td><td>Billards de tout genre et leurs accessoires</td></tr>
+<tr><td></td><td>9504 30 00</td><td>Autres jeux fonctionnant par l’introduction d’une pièce de monnaie, d’un billet de banque, d’une carte bancaire, d’un jeton ou par tout autre moyen de paiement, à l’exclusion des jeux de quilles automatiques (bowlings)</td></tr>
+<tr><td></td><td>9504 40 00</td><td>Cartes à jouer</td></tr>
+<tr><td></td><td>9504 50 00</td><td>Consoles et machines de jeux vidéo, autres que celles du n<sup>o</sup> 9504.30</td></tr>
+<tr><td></td><td>9504 90 00</td><td>Autres</td></tr>
 </table>
 
 ### 23. Articles et équipements optiques de toute valeur
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><th></th><th>8525 83 00</th><th>autres, à vision nocturne, mentionnés dans la Note 3 de sous-positions du Chapitre 85</th></tr>
-<tr><th>ex</th><th>9013 80 90</th><th>Viseurs point rouge</th></tr>
+<tr><th></th><th>8525 83 00</th><th>Autres, à vision nocturne, mentionnés dans la note 3 de sous-positions du chapitre 85</th></tr>
+<tr><th>ex</th><th>9013 80 00</th><th>Viseurs point rouge</th></tr>
 </table>
 
-Annexe 19[^t-15]
+Annexe 19[^t-16]
 
-(art. 9*b*, al. 1)
+(art. 9*b*, al. 1, et 14*f*, al. 1[^t-17])
 
 ## Carburéacteurs et additifs pour carburants
 
-[^t-15]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. II al. 3 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-17]: En vigueur depuis le 20 mars 2024.
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -2806,36 +2937,40 @@ Annexe 19[^t-15]
 <tr><td>ex</td><td>3811 90</td><td>Améliorants de stabilité thermique pour d’autres liquides utilisés aux mêmes fins que les huiles minérales</td></tr>
 </table>
 
-Annexe 20[^t-16]
+Annexe 20[^t-18]
 
 (art. 14*c*, al. 1)
 
 ## Biens importants sur le plan économique
 
-[^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 2 de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Erratum du 6 oct. 2023, ne concerne que les textes allemand et italien ([RO 2023 567](https://fedlex.data.admin.ch/eli/oc/2023/567)).
+[^t-18]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 2 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
 <tr><td></td><td>0306</td><td>Crustacés, même décortiqués, vivants, frais, réfrigérés, congelés, séchés, salés ou en saumure; crustacés, même décortiqués, fumés, même cuits avant ou pendant le fumage; crustacés non décortiqués, cuits à l’eau ou à la vapeur, même réfrigérés, congelés, séchés, salés ou en saumure</td></tr>
-<tr><td></td><td>1604 31</td><td>Caviar</td></tr>
-<tr><td></td><td>1604 32</td><td>Succédanés de caviar</td></tr>
+<tr><td></td><td>1604 31 00</td><td>Caviar</td></tr>
+<tr><td></td><td>1604 32 00</td><td>Succédanés de caviar</td></tr>
 <tr><td></td><td>2208</td><td>Alcool éthylique non dénaturé d’un titre alcoométrique volumique de moins de 80 % vol; eaux-de-vie, liqueurs et autres boissons spiritueuses:</td></tr>
 <tr><td></td><td>2303</td><td>Résidus d’amidonnerie et résidus similaires, pulpes de betteraves, bagasses de cannes à sucre et autres déchets de sucrerie, drêches et déchets de brasserie ou de distillerie, même agglomérés sous forme de pellets</td></tr>
 <tr><td></td><td>2402</td><td>Cigares (y compris ceux à bouts coupés), cigarillos et cigarettes, en tabac ou en succédanés de tabac</td></tr>
 <tr><td></td><td>2523</td><td>Ciments hydrauliques (y compris les ciments non pulvérisés dits «clinkers»), même colorés</td></tr>
 <tr><td></td><td>2701</td><td>Houilles; briquettes, boulets et combustibles solides similaires obtenus à partir de la houille</td></tr>
 <tr><td></td><td>2702</td><td>Lignites, même agglomérés, à l’exclusion du jais</td></tr>
-<tr><td></td><td>2703</td><td>Tourbe (y compris la tourbe pour litière), même agglomérée</td></tr>
-<tr><td></td><td>2704</td><td>Cokes et semi-cokes de houille, de lignite ou de tourbe, même agglomérés; charbon de cornue</td></tr>
-<tr><td></td><td>2705</td><td>Gaz de houille, gaz à l’eau, gaz pauvre et gaz similaires, à l’exclusion des gaz de pétrole et autres hydrocarbures gazeux</td></tr>
-<tr><td></td><td>2706</td><td>Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les goudrons reconstitués</td></tr>
+<tr><td></td><td>2703 00 00</td><td>Tourbe (y compris la tourbe pour litière), même agglomérée</td></tr>
+<tr><td></td><td>2704 00 00</td><td>Cokes et semi-cokes de houille, de lignite ou de tourbe, même agglomérés; charbon de cornue</td></tr>
+<tr><td></td><td>2705 00 00</td><td>Gaz de houille, gaz à l’eau, gaz pauvre et gaz similaires, à l’exclusion des gaz de pétrole et autres hydrocarbures gazeux</td></tr>
+<tr><td></td><td>2706 00 00</td><td>Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les goudrons reconstitués</td></tr>
 <tr><td></td><td>2707</td><td>Huiles et autres produits provenant de la distillation des goudrons de houille de haute température; produits analogues dans lesquels les constituants aromatiques prédominent en poids par rapport aux constituants non aromatiques</td></tr>
 <tr><td></td><td>2708</td><td>Brai et coke de brai de goudron de houille ou d’autres goudrons minéraux</td></tr>
+<tr><td></td><td>2711 12</td><td>Propane, liquéfiés</td></tr>
+<tr><td></td><td>2711 13</td><td>Butanes, liquéfiés</td></tr>
+<tr><td></td><td>2711 14</td><td>Éthylène, propylène, butylène et butadiène, liquéfiés</td></tr>
+<tr><td></td><td>2711 19</td><td>Hydrocarbures gazeux, liquéfiés - autres</td></tr>
 <tr><td></td><td>2712</td><td>Vaseline; paraffine, cire de pétrole micro-cristalline, «slack wax», ozokérite, cire de lignite, cire de tourbe, autres cires minérales et produits similaires obtenus par synthèse ou par d’autres procédés, même colorés</td></tr>
 <tr><td></td><td>2713</td><td>Coke de pétrole, bitume de pétrole et autres résidus des huiles de pétrole ou de minéraux bitumineux</td></tr>
 <tr><td></td><td>2714</td><td>Bitumes et asphaltes, naturels; schistes et sables bitumineux; asphaltites et roches asphaltiques</td></tr>
-<tr><td></td><td>2715</td><td>Mélanges bitumineux à base d’asphalte ou de bitume naturels, de bitume de pétrole, de goudron minéral ou de brai de goudron minéral (mastics bitumineux, cut-backs, par exemple)</td></tr>
-<tr><td></td><td>2803</td><td>Carbone (noirs de carbone et autres formes de carbone non dénommées ni comprises ailleurs)</td></tr>
+<tr><td></td><td>2715 00 00</td><td>Mélanges bitumineux à base d’asphalte ou de bitume naturels, de bitume de pétrole, de goudron minéral ou de brai de goudron minéral (mastics bitumineux, cut-backs, par exemple)</td></tr>
+<tr><td></td><td>2803 00 00</td><td>Carbone (noirs de carbone et autres formes de carbone non dénommées ni comprises ailleurs)</td></tr>
 <tr><td></td><td>2811</td><td>Autres acides inorganiques et autres composés oxygénés inorganiques des éléments non métalliques</td></tr>
 <tr><td></td><td>2818</td><td>Corindon artificiel, chimiquement défini ou non; oxyde d’aluminium; hydroxyde d’aluminium</td></tr>
 <tr><td>ex</td><td>2825</td><td>Hydrazine et hydroxylamine et leurs sels inorganiques; autres bases inorganiques; autres oxydes, hydroxydes et peroxydes de métaux, à l’exclusion de ceux des n<sup>os</sup> 2825 20 et 2825 30</td></tr>
@@ -2855,10 +2990,10 @@ Annexe 20[^t-16]
 <tr><td></td><td>2923</td><td>Sels et hydroxydes d’ammonium quaternaire; lécithines et autres phosphoaminolipides, de constitution chimique définie ou non</td></tr>
 <tr><td></td><td>2931</td><td>Autres composés organo-inorganiques</td></tr>
 <tr><td></td><td>2933</td><td>Composés hétérocycliques à hétéroatome(s) d’azote exclusivement</td></tr>
-<tr><td></td><td>3104 20</td><td>Chlorure de potassium</td></tr>
-<tr><td></td><td>3105 20</td><td>Engrais minéraux ou chimiques contenant les trois éléments fertilisants: azote, phosphore et potassium</td></tr>
-<tr><td></td><td>3105 60</td><td>Engrais minéraux ou chimiques contenant les deux éléments fertilisants phosphore et potassium</td></tr>
-<tr><td>ex</td><td>3105 90</td><td>Autres engrais contenant du chlorure de potassium</td></tr>
+<tr><td></td><td>3104 20 00</td><td>Chlorure de potassium</td></tr>
+<tr><td></td><td>3105 20 00</td><td>Engrais minéraux ou chimiques contenant les trois éléments fertilisants: azote, phosphore et potassium</td></tr>
+<tr><td></td><td>3105 60 00</td><td>Engrais minéraux ou chimiques contenant les deux éléments fertilisants phosphore et potassium</td></tr>
+<tr><td>ex</td><td>3105 90 00</td><td>Autres engrais contenant du chlorure de potassium</td></tr>
 <tr><td></td><td>3301</td><td>Huiles essentielles (déterpénées ou non), y compris celles dites «concrètes» ou «absolues»; résinoïdes; oléorésines d’extraction; solutions concentrées d’huiles essentielles dans les graisses, les huiles fixes, les cires ou matières analogues, obtenues par enfleurage ou macération; sous-produits terpéniques résiduaires de la déterpénation des huiles essentielles; eaux distillées aromatiques et solutions aqueuses d’huiles essentielles</td></tr>
 <tr><td></td><td>3304</td><td>Produits de beauté ou de maquillage préparés et préparations pour l’entretien ou les soins de la peau, autres que les médicaments, y compris les préparations antisolaires et les préparations pour bronzer; préparations pour manucures ou pédicures</td></tr>
 <tr><td></td><td>3305</td><td>Préparations capillaires</td></tr>
@@ -2871,7 +3006,7 @@ Annexe 20[^t-16]
 <tr><td></td><td>3811</td><td>Préparations antidétonantes, inhibiteurs d’oxydation, additifs peptisants, améliorants de viscosité, additifs anticorrosifs et autres additifs préparés, pour huiles minérales (y compris l’essence) ou pour autres liquides utilisés aux mêmes fins que les huiles minérales</td></tr>
 <tr><td></td><td>3812</td><td>Préparations dites «accélérateurs de vulcanisation»; plastifiants composites pour caoutchouc ou matières plastiques, non dénommés ni compris ailleurs; préparations antioxydantes et autres stabilisateurs composites pour caoutchouc ou matières plastiques</td></tr>
 <tr><td></td><td>3817</td><td>Alkylbenzènes en mélanges et alkylnaphtalènes en mélanges autres que ceux des numéros 2707 ou 2902</td></tr>
-<tr><td></td><td>3819</td><td>Liquides pour freins hydrauliques et autres liquides préparés pour transmissions hydrauliques, ne contenant pas d’huiles de pétrole ni de minéraux bitumineux ou en contenant moins de 70 % en poids</td></tr>
+<tr><td></td><td>3819 00 00</td><td>Liquides pour freins hydrauliques et autres liquides préparés pour transmissions hydrauliques, ne contenant pas d’huiles de pétrole ni de minéraux bitumineux ou en contenant moins de 70 % en poids</td></tr>
 <tr><td></td><td>3823</td><td>Acides gras monocarboxyliques industriels; huiles acides de raffinage; alcools gras industriels</td></tr>
 <tr><td></td><td>3824</td><td>Liants préparés pour moules ou noyaux de fonderie; produits chimiques et préparations des industries chimiques ou des industries connexes(y compris celles consistant en mélanges de produits naturels), non dénommés ni compris ailleurs</td></tr>
 <tr><td></td><td>3901</td><td>Polymères de l’éthylène, sous formes primaires</td></tr>
@@ -2895,12 +3030,12 @@ Annexe 20[^t-16]
 <tr><td></td><td>4301</td><td>Pelleteries brutes (y compris les têtes, queues, pattes et autres morceaux utilisables en pelleteries), autres que les peaux brutes des n<sup>os</sup> 4101, 4102 ou 4103</td></tr>
 <tr><td></td><td>44</td><td>Bois, charbon de bois et ouvrages en bois</td></tr>
 <tr><td></td><td>4703</td><td>Pâtes chimiques de bois, à la soude ou au sulfate, autres que les pâtes à dissoudre</td></tr>
-<tr><td></td><td>4705</td><td>Pâtes de bois obtenues par la combinaison d’un traitement mécanique et d’un traitement chimique</td></tr>
-<tr><td></td><td>4801</td><td>Papier journal, en rouleaux ou en feuilles</td></tr>
+<tr><td></td><td>4705 00 00</td><td>Pâtes de bois obtenues par la combinaison d’un traitement mécanique et d’un traitement chimique</td></tr>
+<tr><td></td><td>4801 00 00</td><td>Papier journal, en rouleaux ou en feuilles</td></tr>
 <tr><td></td><td>4802</td><td>Papiers et cartons, non couchés ni enduits, des types utilisés pour l’écriture, l’impression ou d’autres fins graphiques, et papiers et cartons pour cartes ou bandes à perforer, non perforés, en rouleaux ou en feuilles de forme carrée ou rectangulaire, de tout format, autres que les papiers des n<sup>os</sup> 4801 ou 4803; papiers et cartons formés feuille à feuille (papiers et cartons à la main)</td></tr>
-<tr><td></td><td>4803</td><td>Papiers des types utilisés pour papiers de toilette, pour serviettes à démaquiller, pour essuie-mains, pour serviettes ou pour papiers similaires à usages domestiques, d’hygiène ou de toilette, ouate de cellulose et nappes de fibres de cellulose, même crêpés, plissés, gaufrés, estampés, perforés, coloriés en surface, décorés en surface ou imprimés, en rouleaux ou en feuilles</td></tr>
+<tr><td></td><td>4803 00 00</td><td>Papiers des types utilisés pour papiers de toilette, pour serviettes à démaquiller, pour essuie-mains, pour serviettes ou pour papiers similaires à usages domestiques, d’hygiène ou de toilette, ouate de cellulose et nappes de fibres de cellulose, même crêpés, plissés, gaufrés, estampés, perforés, coloriés en surface, décorés en surface ou imprimés, en rouleaux ou en feuilles</td></tr>
 <tr><td></td><td>4804</td><td>Papiers et cartons Kraft, non couchés ni enduits, en rouleaux ou en feuilles, autres que ceux des n<sup>os</sup> 4802 ou 4803</td></tr>
-<tr><td></td><td>4805</td><td>Autres papiers et cartons, non couchés ni enduits, en rouleaux ou en feuilles, n’ayant pas subi d’ouvraison complémentaire ou de traitements autres que ceux stipulés dans la Note 3 du Chapitre 48</td></tr>
+<tr><td></td><td>4805</td><td>Autres papiers et cartons, non couchés ni enduits, en rouleaux ou en feuilles, n’ayant pas subi d’ouvraison complémentaire ou de traitements autres que ceux stipulés dans la note 3 du chapitre 48</td></tr>
 <tr><td></td><td>4810</td><td>Papiers et cartons couchés au kaolin ou à d’autres substances inorganiques sur une ou sur les deux faces, avec ou sans liants, à l’exclusion de tout autre couchage ou enduction, même coloriés en surface, décorés en surface ou imprimés, en rouleaux ou en feuilles de forme carrée ou rectangulaire, de tout format</td></tr>
 <tr><td></td><td>4811</td><td>Papiers, cartons, ouate de cellulose et nappes de fibres de cellulose, couchés, enduits, imprégnés, recouverts, coloriés en surface, décorés en surface ou imprimés, en rouleaux ou en feuilles de forme carrée ou rectangulaire, de tout format autres que les produits décrits dans les libellés des n<sup>os</sup> 4803, 4809 et 4810</td></tr>
 <tr><td></td><td>4818</td><td>Papiers des types utilisés pour papiers de toilette et pour papiers similaires, ouate de cellulose ou nappes de fibres de cellulose, des types utilisés à des fins domestiques ou sanitaires, en rouleaux d’une largeur n’excédant pas 36 cm, ou coupés à format; mouchoirs, serviettes à démaquiller, essuie-mains, nappes, serviettes de table, draps de lit et articles similaires à usages domestiques, de toilette, hygiéniques ou hospitaliers, vêtements et accessoires du vêtement, en pâte à papier, papier, ouate de cellulose ou nappes de fibres de cellulose</td></tr>
@@ -2909,12 +3044,12 @@ Annexe 20[^t-16]
 <tr><td></td><td>5402</td><td>Fils de filaments synthétiques (autres que les fils à coudre), non conditionnés pour la vente au détail, y compris les monofilaments synthétiques de moins de 67 décitex</td></tr>
 <tr><td></td><td>5601</td><td>Ouates de matières textiles et articles en ces ouates; fibres textiles d’une longueur n’excédant pas 5 mm (tontisses), nœuds et noppes (boutons) de matières textiles</td></tr>
 <tr><td></td><td>5603</td><td>Nontissés, même imprégnés, enduits, recouverts ou stratifiés</td></tr>
-<tr><td></td><td>6204</td><td>Costumes tailleurs, ensembles, vestes, robes, jupes, jupes‑culottes, pantalons, salopettes à bretelles, culottes et shorts (autres que pour le bain), pour femmes ou fillettes</td></tr>
+<tr><td></td><td>6204</td><td>Costumes tailleurs, ensembles, vestes, robes, jupes, jupes-culottes, pantalons, salopettes à bretelles, culottes et shorts (autres que pour le bain), pour femmes ou fillettes</td></tr>
 <tr><td></td><td>6305</td><td>Sacs et sachets d’emballage</td></tr>
 <tr><td></td><td>6403</td><td>Chaussures à semelles extérieures en caoutchouc, matière plastique, cuir naturel ou reconstitué et dessus en cuir naturel</td></tr>
-<tr><td></td><td>6806</td><td>Laine de laitier, de scories, de roche et laines minérales similaires; vermiculite expansée, argile expansée, mousse de scories et produits minéraux similaires expansés; mélanges et ouvrages en matières minérales à usage d’isolants thermiques ou sonores ou pour l’absorption du son, à l’exclusion de ceux des n<sup>os</sup> 6811, 6812 ou du Chapitre 69</td></tr>
+<tr><td></td><td>6806</td><td>Laine de laitier, de scories, de roche et laines minérales similaires; vermiculite expansée, argile expansée, mousse de scories et produits minéraux similaires expansés; mélanges et ouvrages en matières minérales à usage d’isolants thermiques ou sonores ou pour l’absorption du son, à l’exclusion de ceux des n<sup>os</sup> 6811, 6812 ou du chapitre 69</td></tr>
 <tr><td></td><td>6807</td><td>Ouvrages en asphalte ou en produits similaires (par exemple poix de pétrole, brais, par exemple)</td></tr>
-<tr><td></td><td>6808</td><td>Panneaux, planches, carreaux, blocs et articles similaires, en fibres végétales, en paille ou en copeaux, plaquettes, particules, sciures ou autres déchets de bois, agglomérés avec du ciment, du plâtre ou d’autres liants minéraux</td></tr>
+<tr><td></td><td>6808 00 00</td><td>Panneaux, planches, carreaux, blocs et articles similaires, en fibres végétales, en paille ou en copeaux, plaquettes, particules, sciures ou autres déchets de bois, agglomérés avec du ciment, du plâtre ou d’autres liants minéraux</td></tr>
 <tr><td></td><td>6810</td><td>Ouvrages en ciment, en béton ou en pierre artificielle, même armés</td></tr>
 <tr><td></td><td>6814</td><td>Mica travaillé et ouvrages en mica, y compris le mica aggloméré ou reconstitué, même sur support en papier, carton ou en autres matières</td></tr>
 <tr><td></td><td>6815</td><td>Ouvrages en pierre ou en autres matières minérales (y compris les fibres de carbone, les ouvrages en ces matières et en tourbe), non dénommés ni compris ailleurs</td></tr>
@@ -2928,7 +3063,16 @@ Annexe 20[^t-16]
 <tr><td></td><td>7106</td><td>Argent (y compris l’argent doré ou vermeil et l’argent platiné), sous formes brutes ou mi-ouvrées, ou en poudre</td></tr>
 <tr><td></td><td>7112</td><td>Déchets et débris de métaux précieux ou de plaqué ou doublé de métaux précieux; autres déchets et débris contenant des métaux précieux ou des composés de métaux précieux du type de ceux utilisés principalement pour la récupération des métaux précieux autres que les produits du n<sup>o</sup> 8549</td></tr>
 <tr><td></td><td>7115</td><td>Autres ouvrages en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
+<tr><td></td><td>7201</td><td>Fontes brutes et fontes spiegel en gueuses, saumons ou autres formes primaires</td></tr>
+<tr><td></td><td>7202</td><td>Ferro-alliages</td></tr>
+<tr><td></td><td>7203</td><td>Produits ferreux obtenus par réduction directe des minerais de fer et autres produits ferreux spongieux, en morceaux, boulettes ou formes similaires; fer d’une pureté minimale en poids de 99,94 %, en morceaux, boulettes ou formes similaires</td></tr>
+<tr><td></td><td>7205</td><td>Grenailles et poudres de fonte brute, de fonte spiegel, de fer ou d’acier</td></tr>
+<tr><td></td><td>7408</td><td>Fils de cuivre</td></tr>
+<tr><td></td><td>7604</td><td>Barres et profilés en aluminium</td></tr>
+<tr><td></td><td>7605</td><td>Fils en aluminium</td></tr>
 <tr><td></td><td>7606</td><td>Tôles et bandes en aluminium, d’une épaisseur excédant 0,2 mm</td></tr>
+<tr><td></td><td>7607</td><td>Feuilles et bandes minces en aluminium (même imprimées ou fixées sur papier, carton, matières plastiques ou supports similaires) d’une épaisseur n’excédant pas 0,2 mm (support non compris)</td></tr>
+<tr><td></td><td>7608</td><td>Tubes et tuyaux en aluminium</td></tr>
 <tr><td></td><td>7801</td><td>Plomb sous forme brute</td></tr>
 <tr><td></td><td>8207</td><td>Outils, interchangeables, pour outillage à main, mécanique ou non, ou pour machines-outils (à emboutir, à estamper, à poinçonner, à tarauder, à fileter, à percer, à aléser, à brocher, à fraiser, à tourner, à visser, par exemple), y compris les filières pour l’étirage ou le filage (extrusion) des métaux, ainsi que les outils de forage ou de sondage</td></tr>
 <tr><td></td><td>8212</td><td>Rasoirs et leurs lames (y compris les ébauches en bandes)</td></tr>
@@ -2937,7 +3081,7 @@ Annexe 20[^t-16]
 <tr><td></td><td>8407</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion)</td></tr>
 <tr><td></td><td>8408</td><td>Moteurs à piston, à allumage par compression (moteur diesel ou semi-diesel)</td></tr>
 <tr><td></td><td>8409</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux moteurs des n<sup>os</sup> 8407 ou 8408</td></tr>
-<tr><td></td><td>8411</td><td>Turboréacteurs, turbopropulseurs et autres turbines à gaz</td></tr>
+<tr><td>ex</td><td>8411</td><td>Turboréacteurs, turbopropulseurs et autres turbines à gaz, à l’exclusion des parties de turboréacteurs et turbopropulseurs du n<sup>o</sup> 8411 91 00</td></tr>
 <tr><td></td><td>8412</td><td>Autres moteurs et machines motrices</td></tr>
 <tr><td></td><td>8413</td><td>Pompes pour liquides, même comportant un dispositif mesureur; élévateurs à liquides (</td></tr>
 <tr><td></td><td>8414</td><td>Pompes à air ou à vide, (compresseurs d’air ou d’autres gaz et ventilateurs; hottes aspirantes à extraction ou à recyclage, à ventilateur incorporé, même filtrantes; enceintes de sécurité biologique étanches aux gaz, même filtrantes</td></tr>
@@ -2952,34 +3096,34 @@ Annexe 20[^t-16]
 <tr><td></td><td>8455</td><td>Laminoirs à métaux et leurs cylindres</td></tr>
 <tr><td></td><td>8466</td><td>Parties et accessoires reconnaissables comme étant exclusivement ou principalement destinés aux machines des n<sup>os</sup> 8456 à 8465, y compris les porte-pièces et porte-outils, les filières à déclenchement automatique, les dispositifs diviseurs et autres dispositifs spéciaux se montant sur ces machines; porte-outils pour outils ou outillage à main, de tous types</td></tr>
 <tr><td></td><td>8467</td><td>Outils pneumatiques, hydrauliques ou à moteur (électrique ou non électrique) incorporé, pour emploi à la main</td></tr>
-<tr><td></td><td>8471</td><td>Machines automatiques de traitement de l’information et leurs unités; lecteurs magnétiques ou optiques, machines de mise d’informations sur support sous forme codée et machines d traitement de ces informations, non dénommés ni compris ailleurs</td></tr>
+<tr><td></td><td>8471</td><td>Machines automatiques de traitement de l’information et leurs unités; lecteurs magnétiques ou optiques, machines de mise d’informations sur support sous forme codée et machines de traitement de ces informations, non dénommés ni compris ailleurs</td></tr>
 <tr><td></td><td>8474</td><td>Machines et appareils à trier, cribler, séparer, laver, concasser, broyer, mélanger ou malaxer les terres, pierres, minerais ou autres matières minérales solides (y compris les poudres et les pâtes); machines à agglomérer, former ou mouler les combustibles minéraux solides, les pâtes céramiques, le ciment, le plâtre ou autres matières minérales en poudre ou en pâte; machines à former les moules de fonderie en sable</td></tr>
-<tr><td></td><td>8477</td><td>Machines et appareils pour le travail du caoutchouc ou des matières plastiques ou pour la fabrication de produits en ces matières, non dénommés ni compris ailleurs dans le Chapitre 84</td></tr>
-<tr><td></td><td>8479</td><td>Machines et appareils mécaniques ayant une fonction propre, non dénommés ni compris ailleurs dans le Chapitre 84</td></tr>
+<tr><td></td><td>8477</td><td>Machines et appareils pour le travail du caoutchouc ou des matières plastiques ou pour la fabrication de produits en ces matières, non dénommés ni compris ailleurs dans le chapitre 84</td></tr>
+<tr><td></td><td>8479</td><td>Machines et appareils mécaniques ayant une fonction propre, non dénommés ni compris ailleurs dans le chapitre 84</td></tr>
 <tr><td></td><td>8480</td><td>Châssis de fonderie; plaques de fond pour moules; modèles pour moules; moules pour les métaux (autres que les lingotières), les carbures métalliques, le verre, les matières minérales, le caoutchouc ou les matières plastiques</td></tr>
 <tr><td></td><td>8481</td><td>Articles de robinetterie et organes similaires pour tuyauteries, chaudières, réservoirs, cuves ou contenants similaires, y compris les détendeurs et les vannes thermostatiques</td></tr>
 <tr><td></td><td>8482</td><td>Roulements à billes, à galets, à rouleaux ou à aiguilles</td></tr>
 <tr><td></td><td>8483</td><td>Arbres de transmission (y compris les arbres à cames et les vilebrequins) et manivelles; paliers et coussinets pour machines; engrenages et roues de friction; broches filetées à billes ou à rouleaux; réducteurs, multiplicateurs et variateurs de vitesse, y compris les convertisseurs de couple; volants et poulies, y compris les poulies à moufles; embrayages et organes d’accouplement, y compris les joints d’articulation</td></tr>
-<tr><td></td><td>8487</td><td>Parties de machines ou d’appareils, non dénommées ni comprises ailleurs dans le Chapitre 84, ne comportant pas de connexions électriques, de parties isolées électriquement, de bobinages, de contacts ni d’autres caractéristiques électriques</td></tr>
+<tr><td></td><td>8487</td><td>Parties de machines ou d’appareils, non dénommées ni comprises ailleurs dans le chapitre 84, ne comportant pas de connexions électriques, de parties isolées électriquement, de bobinages, de contacts ni d’autres caractéristiques électriques</td></tr>
 <tr><td></td><td>8501</td><td>Moteurs et machines génératrices, électriques, à l’exclusion des groupes électrogènes</td></tr>
 <tr><td></td><td>8502</td><td>Groupes électrogènes et convertisseurs rotatifs électriques</td></tr>
-<tr><td></td><td>8503</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux machines des n<sup>os</sup> 8501 ou 8502</td></tr>
+<tr><td></td><td>8503 00 00</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux machines des n<sup>os</sup> 8501 ou 8502</td></tr>
 <tr><td></td><td>8504</td><td>Transformateurs électriques, convertisseurs électriques statiques (redresseurs par exemple), bobines de réactance et selfs</td></tr>
 <tr><td></td><td>8511</td><td>Appareils et dispositifs électriques d’allumage ou de démarrage pour moteurs à allumage par étincelles ou par compression (magnétos, dynamos-magnétos, bobines d’allumage, bougies d’allumage ou de chauffage, démarreurs, par exemple); génératrices (dynamos et alternateurs, par exemple) et conjoncteurs-disjoncteurs utilisés avec ces moteurs</td></tr>
 <tr><td></td><td>8516</td><td>Chauffe-eau et thermoplongeurs électriques; appareils électriques pour le chauffage des locaux, du sol ou pour usages similaires; appareils électrothermiques pour la coiffure (sèche-cheveux, appareils à friser, chauffe-fers à friser, par exemple) ou pour sécher les mains; fers à repasser électriques; autres appareils électrothermiques pour usages domestiques; résistances chauffantes, autres que celles du n<sup>o</sup> 8545</td></tr>
 <tr><td></td><td>8517</td><td>Postes téléphoniques d’usagers, y compris les téléphones intelligents et autres téléphones pour réseaux cellulaires et pour autres réseaux sans fil; autres appareils pour l’émission, la transmission ou la réception de la voix, d’images ou d’autres données, y compris les appareils pour la communication dans un réseau filaire ou sans fil (tel qu’un réseau local ou étendu); autres que ceux des n<sup>os</sup> 8443, 8525, 8527 ou 8528</td></tr>
-<tr><td></td><td>8523</td><td>Disques, bandes, dispositifs de stockage rémanent des données à base de semi-conducteurs, «cartes intelligentes» et autres supports pour l’enregistrement du son ou pour enregistrements analogues, même enregistrés, y compris les matrices et moules galvaniques pour la fabrication des disques, à l’exclusion des produits du Chapitre 37</td></tr>
+<tr><td></td><td>8523</td><td>Disques, bandes, dispositifs de stockage rémanent des données à base de semi-conducteurs, «cartes intelligentes» et autres supports pour l’enregistrement du son ou pour enregistrements analogues, même enregistrés, y compris les matrices et moules galvaniques pour la fabrication des disques, à l’exclusion des produits du chapitre 37</td></tr>
 <tr><td></td><td>8525</td><td>Appareils d’émission pour la radiodiffusion ou la télévision, même incorporant un appareil de réception ou un appareil d’enregistrement ou de reproduction du son; caméras de télévision, appareils photographiques numériques et caméscopes</td></tr>
 <tr><td></td><td>8526</td><td>Appareils de radiodétection et de radiosondage (radar), appareils de radionavigation et appareils de radiotélécommande</td></tr>
 <tr><td></td><td>8531</td><td>Appareils électriques de signalisation acoustique ou visuelle (sonneries, sirènes, tableaux annonciateurs, appareils avertisseurs pour la protection contre le vol ou l’incendie, par exemple)</td></tr>
-<tr><td></td><td>8535</td><td>Appareillage pour la coupure, le sectionnement, la protection, le branchement, le raccordement ou la connexion des circuits électriques (interrupteurs, commutateurs, coupe-circuit, parafoudres, limiteurs de tension, parasurtenseurs, prises de courant et autres connecteurs, boîtes de jonction, par exemple), pour une tension excédant 1 000 voltes</td></tr>
+<tr><td></td><td>8535</td><td>Appareillage pour la coupure, le sectionnement, la protection, le branchement, le raccordement ou la connexion des circuits électriques (interrupteurs, commutateurs, coupe-circuit, parafoudres, limiteurs de tension, parasurtenseurs, prises de courant et autres connecteurs, boîtes de jonction, par exemple), pour une tension excédant 1000 voltes</td></tr>
 <tr><td></td><td>8536</td><td>Appareillage pour la coupure, le sectionnement, la protection, le branchement, le raccordement ou la connexion des circuits électriques (interrupteurs, commutateurs, relais, coupe-circuit, parasurtenseurs, fiches et prises de courant, douilles pour lampes et autres connecteurs, boîtes de jonction, par exemple), pour une tension n’excédant pas 1000 voltes; connecteurs pour fibres optiques, faisceaux ou câbles de fibres optiques</td></tr>
-<tr><td></td><td>8537</td><td>Tableaux, panneaux, consoles, pupitres, armoires et autres supports comportant plusieurs appareils des n<sup>os</sup> 8535 ou 8536, pour la commande ou la distribution électrique, y compris ceux incorporant des instruments ou appareils du Chapitre 90 ainsi que les appareils de commande numérique, autres que les appareils de commutation du n<sup>o</sup> 8517</td></tr>
+<tr><td></td><td>8537</td><td>Tableaux, panneaux, consoles, pupitres, armoires et autres supports comportant plusieurs appareils des n<sup>os</sup> 8535 ou 8536, pour la commande ou la distribution électrique, y compris ceux incorporant des instruments ou appareils du chapitre 90 ainsi que les appareils de commande numérique, autres que les appareils de commutation du n<sup>o</sup> 8517</td></tr>
 <tr><td></td><td>8538</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux appareils des n<sup>os</sup> 8535, 8536 ou 8537</td></tr>
 <tr><td></td><td>8539</td><td>Lampes et tubes électriques à incandescence ou à décharge, y compris les articles dits «phares et projecteurs scellés» et les lampes et tubes à rayons ultraviolets ou infrarouges; lampes à arc; sources lumineuses à diodes émettrices de lumière (LED)</td></tr>
 <tr><td></td><td>8541</td><td>Dispositifs à semi-conducteur (par exemple, diodes, transistors, transducteurs à semi-conducteur); dispositifs photosensibles à semi-conducteur, y compris les cellules photovoltaïques même assemblées en modules ou constituées en panneaux; diodes émettrices de lumière (LED), même assemblées avec d’autres diodes émettrices de lumière (LED); cristaux piézo-électriques montés</td></tr>
 <tr><td></td><td>8542</td><td>Circuits intégrés électroniques</td></tr>
-<tr><td></td><td>8543</td><td>Machines et appareils électriques ayant une fonction propre, non dénommés ni compris ailleurs au Chapitre 85</td></tr>
+<tr><td></td><td>8543</td><td>Machines et appareils électriques ayant une fonction propre, non dénommés ni compris ailleurs au chapitre 85</td></tr>
 <tr><td></td><td>8544</td><td>Fils, câbles (y compris les câbles coaxiaux) et autres conducteurs isolés pour l’électricité (même laqués ou oxydés anodiquement), munis ou non de pièces de connexion; câbles de fibres optiques, constitués de fibres gainées individuellement, même comportant des conducteurs électriques ou munis de pièces de connexion</td></tr>
 <tr><td></td><td>8545</td><td>Électrodes en charbon, balais en charbon, charbons pour lampes ou pour piles et autres articles en graphite ou en autre carbone, avec ou sans métal, pour usages électriques</td></tr>
 <tr><td></td><td>8603</td><td>Automotrices et autorails, autres que ceux du n<sup>o</sup> 8604</td></tr>
@@ -2995,27 +3139,27 @@ Annexe 20[^t-16]
 <tr><td></td><td>8905</td><td>Bateaux-phares, bateaux-pompes, bateaux-dragueurs, pontons-grues et autres bateaux pour lesquels la navigation n’est qu’accessoire par rapport à la fonction principale; docks flottants; plates-formes de forage ou d’exploitation, flottantes ou submersibles</td></tr>
 <tr><td></td><td>9001</td><td>Fibres optiques et faisceaux de fibres optiques; câbles de fibres optiques autres que ceux du n<sup>o</sup> 8544; matières polarisantes en feuilles ou en plaques; lentilles (y compris les verres de contact), prismes, miroirs et autres éléments d’optique en toutes matières, non montés, autres que ceux en verre non travaillé optiquement</td></tr>
 <tr><td></td><td>9006</td><td>Appareils photographiques, appareils et dispositifs, y compris les lampes et tubes, pour la production de la lumière-éclair en photographie, à l’exclusion des lampes et tubes à décharge du n<sup>o</sup> 8539</td></tr>
-<tr><td></td><td>9013</td><td>Dispositifs à cristaux liquides ne constituant pas des articles repris plus spécifiquement ailleurs; lasers, autres que les diodes laser; autres appareils et instruments d’optique, non dénommés ailleurs au Chapitre 90</td></tr>
+<tr><td></td><td>9013</td><td>Dispositifs à cristaux liquides ne constituant pas des articles repris plus spécifiquement ailleurs; lasers, autres que les diodes laser; autres appareils et instruments d’optique, non dénommés ailleurs au chapitre 90</td></tr>
 <tr><td></td><td>9014</td><td>Boussoles, y compris les compas de navigation; autres instruments et appareils de navigation</td></tr>
 <tr><td></td><td>9026</td><td>Instruments et appareils pour la mesure ou le contrôle du débit, du niveau, de la pression ou d’autres caractéristiques variables des liquides ou des gaz (débitmètres, indicateurs de niveau, manomètres, compteurs de chaleur, par exemple), à l’exclusion des instruments et appareils des n<sup>os</sup> 9014, 9015, 9028 ou 9032</td></tr>
 <tr><td></td><td>9027</td><td>Instruments et appareils pour analyses physiques ou chimiques (polarimètres, réfractomètres, spectromètres, analyseurs de gaz ou de fumées, par exemple); instruments et appareils pour essais de viscosité, de porosité, de dilatation, de tension superficielle ou similaires ou pour mesures calorimétriques, acoustiques ou photométriques (y compris les indicateurs de temps de pose); microtomes</td></tr>
 <tr><td></td><td>9030</td><td>Oscilloscopes, analyseurs de spectre et autres instruments et appareils pour la mesure ou le contrôle de grandeurs électriques; instruments et appareils pour la mesure ou la détection des radiations alpha, bêta, gamma, X, cosmiques ou autres radiations ionisantes</td></tr>
-<tr><td></td><td>9031</td><td>Instruments, appareils et machines de mesure ou de contrôle, non dénommés ailleurs au Chapitre 90; projecteurs de profils</td></tr>
+<tr><td></td><td>9031</td><td>Instruments, appareils et machines de mesure ou de contrôle, non dénommés ailleurs au chapitre 90; projecteurs de profils</td></tr>
 <tr><td></td><td>9032</td><td>Instruments et appareils pour la régulation ou le contrôle automatiques</td></tr>
 <tr><td></td><td>9401</td><td>Sièges (à l’exclusion de ceux du n<sup>o</sup> 9402), même transformables en lits, et leurs parties</td></tr>
 <tr><td></td><td>9403</td><td>Autres meubles et leurs parties</td></tr>
 <tr><td></td><td>9404</td><td>Sommiers; articles de literie et articles similaires (matelas, couvre-pieds, édredons, coussins, poufs, oreillers, par exemple) comportant des ressorts ou bien rembourrés ou garnis intérieurement de toutes matières, y compris ceux en caoutchouc alvéolaire ou en matières plastiques alvéolaires, recouverts ou non</td></tr>
-<tr><td></td><td>9405</td><td>Luminaires et appareils d’éclairage (y compris les projecteurs) et leurs parties, non dénommés ni compris ailleurs; lampes‑réclames, enseignes lumineuses, plaques indicatrices lumineuses et articles similaires, possédant une source d’éclairage fixée à demeure, et leurs parties non dénommés ni compris ailleurs</td></tr>
+<tr><td></td><td>9405</td><td>Luminaires et appareils d’éclairage (y compris les projecteurs) et leurs parties, non dénommés ni compris ailleurs; lampes-réclames, enseignes lumineuses, plaques indicatrices lumineuses et articles similaires, possédant une source d’éclairage fixée à demeure, et leurs parties non dénommés ni compris ailleurs</td></tr>
 <tr><td></td><td>9406</td><td>Constructions préfabriquées</td></tr>
 </table>
 
-Annexe 21[^t-17]
+Annexe 21[^t-19]
 
 (art. 14*c*, al. 3 et 4)
 
 ## Quotas de volume d’importation de certains biens
 
-[^t-17]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 3 de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^t-19]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 3 de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 ### 1. Biens inclus dans l’annexe avant le 29 mars 2023
 
@@ -3033,11 +3177,11 @@ Annexe 21[^t-17]
 <tr><td>4002</td><td>Caoutchouc synthétique et factice pour caoutchouc dérivé des huiles, sous formes primaires ou en plaques, feuilles ou bandes; mélanges des produits du n<sup>o</sup> 4001 avec des produits de la présente position, sous formes primairesou en plaques, feuilles ou bandes</td><td>4072 tonnes métriques</td><td>Du 29 mars 2023 au 24 juin 2024</td></tr>
 </table>
 
-Annexe 22[^t-18]
+Annexe 22[^t-20]
 
-[^t-18]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogée par le ch. II al. 3 de l’O du 16 août 2023, avec effet au 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-20]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogée par le ch. II al. 3 de l’O du 16 août 2023, avec effet au 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
-Annexe 23[^t-19]
+Annexe 23[^t-21]
 
 (art. 11*a*, al. 1)
 
@@ -3045,16 +3189,42 @@ Annexe 23[^t-19]
 
 [^annex23-lvlu1-1]
 
-[^t-19]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. I al. 1 de l’O du DEFR du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. I de l’O du DEFR du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), le ch. II al. 1 des O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)), du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)), du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)) et du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^annex23-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/452](https://fedlex.data.admin.ch/eli/oc/2023/452) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-21]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. I al. 1 de l’O du DEFR du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. I de l’O du DEFR du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), le ch. II al. 1 des O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)), du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)), du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^annex23-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/51](https://fedlex.data.admin.ch/eli/oc/2024/51) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 24[^t-20]
+Annexe 23a[^t-22]
 
-(art. 12*a* et 12*b*)
+(art. 11*a*, al. 1<sup>bis</sup>)
+
+## Biens destinés au renforcement de l’industrie selon l’art. 11*a*, al. 1<sup>bis</sup>
+
+[^t-22]: Introduite par le ch. II al. 4 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+
+<table>
+<tr><th>Position tarifaire</th><th>Désignation</th></tr>
+<tr><td>8409 99 00</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux moteurs des n<sup>os</sup> 8407 ou 8408 – autres</td></tr>
+<tr><td>8412 21 00</td><td>Moteurs hydrauliques à mouvement rectiligne (cylindres)</td></tr>
+<tr><td>8413 50 00</td><td>Autres pompes volumétriques alternatives pour liquides</td></tr>
+<tr><td>8421 23 00</td><td>Appareils pour la filtration des huiles minérales dans les moteurs à allumage par étincelles ou par compression</td></tr>
+<tr><td>8421 31 00</td><td>Filtres d’entrée d’air pour moteurs à allumage par étincelles ou par compression</td></tr>
+<tr><td>8428 39 00</td><td>Autres appareils élévateurs, transporteurs ou convoyeurs, à action continue, pour marchandises – autres</td></tr>
+<tr><td>8429 59 00</td><td>Excavateurs, chargeuses et chargeuses-pelleteuses, autopropulsés (à l’exception des engins dont la superstructure peut effectuer une rotation de 360° et chargeuses à chargement frontal)</td></tr>
+<tr><td>8431 39 00</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux autres appareils élévateurs, transporteurs ou convoyeurs, à action continue, pour marchandises autres</td></tr>
+<tr><td>8471 30 00</td><td>Machines automatiques de traitement de l’information, portatives, d’un poids n’excédant pas 10 kg, comportant au moins une unité centrale de traitement, un clavier et un écran</td></tr>
+<tr><td>8471 70 00</td><td>Unités de mémoire pour machines automatiques de traitement de l’information</td></tr>
+<tr><td>8481 20 00</td><td>Valves pour transmissions oléohydrauliques ou pneumatiques</td></tr>
+<tr><td>8502 20 00</td><td>Groupes électrogènes à moteur à piston à allumage par étincelles (moteurs à explosion)</td></tr>
+<tr><td>8507 10 00</td><td>Accumulateurs au plomb, des types utilisés pour le démarrage des moteurs à piston</td></tr>
+<tr><td>8705 10 00</td><td>Camions-grues</td></tr>
+</table>
+
+Annexe 24[^t-23]
+
+(art. 12*a*, al. 1 à 3, 12*b*, al. 1, 3 et 5, et 12*c*, al. 1)
 
 ## Pétrole brut et produits pétroliers
 
-[^t-20]: Introduite par le ch. II de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nouvelle teneur selon le ch. II al. 2 de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^t-23]: Introduite par le ch. II de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nouvelle teneur selon le ch. II al. 2 de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Mise à jour par le ch. II al. 3 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 <table>
 <tr><td>Numéro du tarif</td><td>Désignation</td></tr>
@@ -3062,7 +3232,7 @@ Annexe 24[^t-20]
 <tr><td>2710</td><td>Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base; déchets d’huiles</td></tr>
 </table>
 
-Annexe 25[^t-21]
+Annexe 25[^t-24]
 
 (art. 29*b*)
 
@@ -3070,16 +3240,16 @@ Annexe 25[^t-21]
 
 [^annex25-lvlu1-1]
 
-[^t-21]: Introduite par le ch. II de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Mise à jour par le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), le ch. I des O du DEFR du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)) et du 9 oct. 2023, en vigueur depuis le 10 oct. 2023 à 18 heures ([RO 2023 575](https://fedlex.data.admin.ch/eli/oc/2023/575)).
+[^t-24]: Introduite par le ch. II de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Mise à jour par le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), le ch. I des O du DEFR du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)) et du 9 oct. 2023, en vigueur depuis le 10 oct. 2023 à 18 heures ([RO 2023 575](https://fedlex.data.admin.ch/eli/oc/2023/575)).
 [^annex25-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/575](https://fedlex.data.admin.ch/eli/oc/2023/575) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 26[^t-22]
+Annexe 26[^t-25]
 
 (art. 14*d*, al. 1 et 2)
 
 ## Or
 
-[^t-22]: Introduite par le ch. II al. 2 de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-25]: Introduite par le ch. II al. 2 de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 <table>
 <tr><td>Position tarifaire</td><td>Désignation</td></tr>
@@ -3088,13 +3258,13 @@ Annexe 26[^t-22]
 <tr><td>ex 7118 90</td><td>Pièces d’or</td></tr>
 </table>
 
-Annexe 27[^t-23]
+Annexe 27[^t-26]
 
 (art. 14*d*, al. 3)
 
-## Produits en or
+## Produits contenant de l’or
 
-[^t-23]: Introduite par le ch. II al. 2 de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-26]: Introduite par le ch. II al. 2 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Mise à jour par le ch. II al. 3 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 <table>
 <tr><td>Position tarifaire</td><td>Désignation</td></tr>
@@ -3102,13 +3272,49 @@ Annexe 27[^t-23]
 <tr><td>ex 7114</td><td>Articles d’orfèvrerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
 </table>
 
-Annexe 28[^t-24]
+Annexe 27a[^t-27]
+
+(art. 14*e*, al. 1 à 4 et 6)
+
+## Diamants et produits avec des diamants
+
+[^t-27]: Introduite par le ch. II al. 4 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+
+### 1. Diamants naturels
+
+<table>
+<tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
+<tr><td></td><td>7102 10 00</td><td>Diamants, non triés</td></tr>
+<tr><td></td><td>7102 31 00</td><td>Diamants, bruts ou simplement sciés, clivés ou débrutés (autres que diamants industriels)</td></tr>
+<tr><td></td><td>7102 39 00</td><td>Diamants, même travaillés, mais non montés ni sertis (autres que diamants industriels)</td></tr>
+</table>
+
+### 2. Diamants synthétiques
+
+<table>
+<tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
+<tr><td></td><td>7104 21 00</td><td>Diamants synthétiques ou reconstitués, bruts ou simplement sciés ou dégrossés</td></tr>
+<tr><td></td><td>7104 91 00</td><td>Diamants synthétiques ou reconstitués, travaillés différemment</td></tr>
+</table>
+
+### 3. Produits avec des diamants
+
+<table>
+<tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
+<tr><td>ex</td><td>7113</td><td>Articles de bijouterie ou de joaillerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux, en combinaison avec des diamants</td></tr>
+<tr><td>ex</td><td>7114</td><td>Articles d’orfèvrerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux, en combinaison avec des diamants</td></tr>
+<tr><td>ex</td><td>7115 90 00</td><td>Autres ouvrages en métaux précieux ou en plaqués ou doublés de métaux précieux, diamants</td></tr>
+<tr><td>ex</td><td>7116 20 00</td><td>Ouvrages en métaux précieux ou en pierres gemmes (naturelles, synthétiques ou reconstituées), en combinaison avec des diamants</td></tr>
+<tr><td>ex</td><td>9101</td><td>Montres-bracelets, montres de poche et montres similaires (y compris les compteurs de temps des mêmes types, en combinaison avec des diamants), avec boîte en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
+</table>
+
+Annexe 28[^t-28]
 
 (art. 12*b*, al. 3 et 4, let. b, et 35, al. 25, let. c à e)
 
 ## Prix-plafond du pétrole et des produits pétroliers
 
-[^t-24]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. II al. 2 de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^t-28]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. II al. 2 de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th><th>Prix du baril (USD)</th></tr>
@@ -3143,26 +3349,26 @@ Annexe 28[^t-24]
 <tr><td>2710 99 00</td><td>autres</td><td>45</td></tr>
 </table>
 
-Annexe 29[^t-25]
+Annexe 29[^t-29]
 
 (art. 12*b*, al. 4, let. c)
 
 ## Transport autorisé de pétrole brut et de dérivés du pétrole dans des États tiers
 
-[^t-25]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. II al. 2 de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-29]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. II al. 2 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 <table>
 <tr><th>Objet</th><th>Lieu de destination (État tiers)</th><th>Durée de validité</th></tr>
-<tr><td>Pétrole brut relevant du numéro tarifaire 2709 00, mélangé à des condensats originaires du projet Sakhalin-2</td><td>Japon</td><td>Du 5 décembre au 31 mars 2024</td></tr>
+<tr><td>Pétrole brut relevant du numéro tarifaire 2709 00, mélangé à des condensats originaires du projet Sakhalin-2</td><td>Japon</td><td>Du 5 décembre 2022 au 28 juin 2024</td></tr>
 </table>
 
-Annexe 30[^t-26]
+Annexe 30[^t-30]
 
 (art. 28*b*, al. 3)
 
 ## Matériaux du secteur minier
 
-[^t-26]: Introduite par le ch. II al. 3 de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^t-30]: Introduite par le ch. II al. 3 de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 Aluminium, y compris la bauxite
 
@@ -3193,3 +3399,47 @@ Terres rares lourdes (dysprosium, erbium, europium, gadolinium, holmium, lutéti
 Titane
 
 Vanadium
+
+Annexe 31[^t-31]
+
+(art. 14*f*, al. 1[^t-32])
+
+## Biens hautement prioritaires
+
+[^annex31-lvlu1-1]
+
+[^t-31]: Introduite par le ch. II al. 4 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-32]: En vigueur depuis le 20 mars 2024.
+[^annex31-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/51](https://fedlex.data.admin.ch/eli/oc/2024/51) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+
+Annexe 32[^t-33]
+
+(art. 28*e*, al. 1<sup>quater</sup>)
+
+## Logiciels de gestion d’entreprise et logiciels de conception et de fabrication
+
+[^t-33]: Introduite par le ch. II al. 4 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+
+### 1. Logiciels de gestion d’entreprise
+
+Systèmes servant à représenter et à piloter numériquement tous les processus se déroulant dans une entreprise, tels que:
+
+- a. la planification des ressources de l’entreprise (*enterprise resource planning*, ERP);
+- b. la gestion de la relation client (*customer relationship management*, CRM);
+- c. la veille économique (*business intelligence*, BI);
+- d. la gestion de la chaîne d’approvisionnement (*supply chain management*, SCM);
+- e. l’entrepôt de données d’entreprise (*enterprise data warehouse*, EDW);
+- f. le système informatisé de gestion de l’entretien (*computerised maintenance management system*, CMMS);
+- g. la gestion de projets;
+- h. la gestion du cycle de vie des produits (*product lifecycle management*, PLM);
+- i. les composants typiques des suites visées aux let. a à h, y compris les logiciels de comptabilité, de gestion de flotte, de logistique et de ressources humaines.
+
+### 2. Logiciels de conception et de fabrication
+
+Logiciels de conception et de fabrication utilisés dans les domaines de l’architecture, de l’ingénierie, de la construction, de la fabrication, des médias, de l’éducation et du divertissement, tels que:
+
+- a. la modélisation des informations du bâtiment (*building information modelling*, BIM);
+- b. la conception assistée par ordinateur (CAO);
+- c. la fabrication assistée par ordinateur (FAO);
+- d. la gestion par affaire (*engineer-to-order*, ETO);
+- e. les composants typiques des suites visées aux let. a à d.
