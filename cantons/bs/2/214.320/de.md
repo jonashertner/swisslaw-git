@@ -4,13 +4,12 @@ number: "214.320"
 title: Verordnung über die amtliche Vermessung
 short: VOAV
 language: de
-version: 2020-09-01
-valid_until: 2024-01-31
-version_adopted: 2020-08-25
+version: 2024-02-01
+version_adopted: 2023-12-12
 adopted: 2012-08-07
 in_force: 2012-09-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/214.320"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5002/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6129/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Amtliche Vermessung: Verordnung | Sachenrecht
 
 (VOAV)
 
-Vom 7. August 2012 (Stand 1. September 2020)
+Vom 7. August 2012 (Stand 1. Februar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -249,7 +248,7 @@ beschliesst:
 
 <sup>1</sup> Dem Grundbuch- und Vermessungsamt obliegt die Durchführung von Erneuerungsarbeiten sowie die Erstellung dafür notwendiger Vorprojekte.
 
-<sup>2</sup> Bei der Vergabe von Aufträgen ist das Gesetz über öffentliche Beschaffungen (Beschaffungsgesetz) vom 20. Mai 1999 anzuwenden.
+<sup>2</sup> Bei der Vergabe von Aufträgen ist die Gesetzgebung über das öffentliche Beschaffungswesen anzuwenden.
 
 ### VII. Flächenmasse
 
