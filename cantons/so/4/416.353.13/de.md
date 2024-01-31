@@ -3,20 +3,19 @@ canton: SO
 number: "416.353.13"
 title: Absenzen- und Disziplinarordnung der kantonalen Berufsfachschulen
 language: de
-version: 2020-08-01
-valid_until: 2024-01-31
-version_adopted: 2020-03-23
+version: 2024-02-01
+version_adopted: 2023-10-30
 adopted: 2009-06-22
 in_force: 2009-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.353.13"
-pdf: "https://bgs.so.ch/api/de/versions/4902/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5410/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Absenzen- und Disziplinarordnung der kantonalen Berufsfachschulen
 
-Vom 22.06.2009 (Stand 01.08.2020)
+Vom 22.06.2009 (Stand 01.02.2024)
 
 Das Departement für Bildung und Kultur
 
@@ -57,6 +56,14 @@ verfügt:
 <sup>1</sup> Die Lernenden besuchen den Unterricht nach Stundenplan pünktlich und regelmässig.
 
 <sup>2</sup> Das Rektorat kann die Teilnahme an Schulanlässen ausserhalb des Stundenplans für obligatorisch erklären. Es berücksichtigt dabei die Interessen der Lehrbetriebe.
+
+#### § 4bis
+
+**Freikurse**
+
+<sup>1</sup> Für den Besuch von Freikursen gelten die §§ 5-10 über Absenzen und Dispensationen und § 18 Absatz 2 über Massnahmen bei unentschuldigten Absenzen.
+
+<sup>2</sup> Austritte aus Freikursen sind jeweils auf das Semesterende möglich. In Ausnahmefällen kann das Rektorat auf Gesuch hin einen vorzeitigen Austritt bewilligen.
 
 #### § 5
 
