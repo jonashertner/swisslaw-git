@@ -4,13 +4,13 @@ number: "141.1"
 title: Gesetz über die politischen Rechte
 short: PRG
 language: de
-version: 2023-01-01
-valid_until: 2024-01-31
-version_adopted: 2022-11-23
+version: 2024-02-01
+valid_until: 2025-03-29
+version_adopted: 2023-09-05
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2992/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3157/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2992/pdf_file"
 
 (PRG)
 
-vom 05.06.2012 (Stand 01.01.2023)
+vom 05.06.2012 (Stand 01.02.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -99,7 +99,7 @@ beschliesst:
 
 <sup>2</sup> Er befindet sich in der Gemeinde, in welcher die oder der Stimmberechtigte wohnt und angemeldet ist.
 
-<sup>3</sup> Wer in einer Gemeinde anstelle des Heimatscheins einen anderen Ausweis (Heimatausweis, Interimsschein usw.) hinterlegt, kann politischen Wohnsitz erwerben. Voraussetzung dafür ist, dass sie oder er am Ort, in dem der Heimatschein liegt, nicht im Stimmregister eingetragen ist.
+<sup>3</sup> Wer in einer Gemeinde zum Aufenthalt angemeldet ist, kann politischen Wohnsitz erwerben. Voraussetzung dafür ist, dass sie oder er am Ort der Niederlassung nicht im Stimmregister eingetragen ist.
 
 <sup>4</sup> Die Stimmgemeinde (Art. 5) gilt als politischer Wohnsitz für die Ausübung des Stimmrechts für Auslandschweizerinnen und Auslandschweizer.
 
@@ -719,15 +719,15 @@ beschliesst:
 
 <sup>1</sup> Das Kantonsgebiet wird für die Wahl des Grossen Rates in die folgenden Wahlkreise eingeteilt:
 
-- 1\. 1. Wahlkreis Berner Jura: Verwaltungsregion Berner Jura
-- 2\. 2. Wahlkreis Biel-Seeland: Verwaltungsregion Seeland
-- 3\. 3. Wahlkreis Oberaargau: Verwaltungskreis Oberaargau
-- 4\. 4. Wahlkreis Emmental: Verwaltungskreis Emmental
-- 5\. 5. Wahlkreis Mittelland-Nord: Einwohnergemeinden gemäss Anhang 1
-- 6\. 6. Wahlkreis Bern: Einwohnergemeinde Bern
-- 7\. 7. Wahlkreis Mittelland-Süd: Einwohnergemeinden gemäss Anhang 2
-- 8\. 8. Wahlkreis Thun: Verwaltungskreis Thun
-- 9\. 9. Wahlkreis Oberland: Verwaltungskreise Obersimmental-Saanen, Frutigen-Niedersimmental, Interlaken Oberhasli.
+- 1\. Wahlkreis Berner Jura: Verwaltungsregion Berner Jura
+- 2\. Wahlkreis Biel-Seeland: Verwaltungsregion Seeland
+- 3\. Wahlkreis Oberaargau: Verwaltungskreis Oberaargau
+- 4\. Wahlkreis Emmental: Verwaltungskreis Emmental
+- 5\. Wahlkreis Mittelland-Nord: Einwohnergemeinden gemäss Anhang 1
+- 6\. Wahlkreis Bern: Einwohnergemeinde Bern
+- 7\. Wahlkreis Mittelland-Süd: Einwohnergemeinden gemäss Anhang 2
+- 8\. Wahlkreis Thun: Verwaltungskreis Thun
+- 9\. Wahlkreis Oberland: Verwaltungskreise Obersimmental-Saanen, Frutigen-Niedersimmental, Interlaken Oberhasli.
 
 <sup>2</sup> Der Regierungsrat nimmt die infolge der Bildung, der Aufhebung oder des Zusammenschlusses von Gemeinden nötigen Anpassungen im Anhang 1 oder im Anhang 2 vor. Er passt den Anhang 1 oder den Anhang 2 an, wenn er die Änderung eines Gemeindenamens genehmigt.
 

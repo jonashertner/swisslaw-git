@@ -4,13 +4,13 @@ number: "141.1"
 title: Loi sur les droits politiques
 short: LDP
 language: fr
-version: 2023-01-01
-valid_until: 2024-01-31
-version_adopted: 2022-11-23
+version: 2024-02-01
+valid_until: 2025-03-29
+version_adopted: 2023-09-05
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2992/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3157/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2992/pdf_file"
 
 (LDP)
 
-du 05.06.2012 (état au 01.01.2023)
+du 05.06.2012 (état au 01.02.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -99,7 +99,7 @@ arrête:
 
 <sup>2</sup> Il est la commune où l’électeur ou l’électrice habite et s’est annoncée à l’autorité locale.
 
-<sup>3</sup> La personne qui dépose dans une commune d’autres papiers (certificat de nationalité, papiers provisoires, etc.) que son acte d’origine peut y acquérir le domicile politique pour autant qu’elle ne soit pas inscrite au registre électoral du lieu où l’acte d’origine a été déposé.
+<sup>3</sup> La personne qui a annoncé son séjour dans une commune peut y acquérir le domicile politique pour autant qu’elle ne soit pas inscrite au registre électoral de son lieu d'établissement.
 
 <sup>4</sup> La commune de vote (art. 5) est considérée comme domicile politique pour les Suisses et Suissesses de l’étranger qui exercent leur droit de vote.
 
