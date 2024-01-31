@@ -3,11 +3,11 @@ sr: "420.232"
 title: "Ordonnance du 20 septembre 2017 sur le personnel de l'Agence suisse pour l'encouragement de l'innovation (Ordonnance sur le personnel d'Innosuisse)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/735"
 language: fr
-version: 2018-01-01
+version: 2024-02-01
 adopted: 2017-09-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/735/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-735-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/735/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/735/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-735-20240201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/735/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/735/20180101/fr"
 
 (Ordonnance sur le personnel d’Innosuisse)
 
-du 20 septembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 20 septembre 2017 (État le 1<sup>er</sup> février 2024)
 
 approuvée par le Conseil fédéral le 15 novembre 2017
 
@@ -51,16 +51,23 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup>
+<sup>1</sup> Les compétences en matière de conclusion, de modification et de résiliation des rapports de travail du directeur, des autres membres de la direction et du reste du personnel d’Innosuisse sont régies par les art. 7, al. 1, let. h et i, et 8, al. 2, let. h, LASEI.[^2-1]
 
-Sauf dispositions contraires dans la LASEI et la présente ordonnance, les compétences en matière de décisions de l’employeur sont réparties comme suit:
+<sup>1bis</sup>
 
-- a. le président du conseil d’administration est compétent pour les rapports de travail du directeur, du directeur suppléant et des autres membres de la direction;
-- b. la direction est compétente pour les rapports de travail du reste du personnel; elle peut déléguer cette compétence au directeur.
+Sauf disposition contraire de la LASEI ou de la présente ordonnance, toutes les autres décisions de l’employeur relèvent de la compétence:
 
-<sup>2</sup> Lorsque la direction édicte des consignes générales écrites, elle les soumet à l’approbation du conseil d’administration.
+- a. du président du conseil d’administration pour les rapports de travail du directeur;
+- b. du président du conseil d’administration et du directeur pour les rapports de travail du directeur suppléant et des autres membres de la direction;
+- c. du directeur et du responsable du service du personnel en concertation avec les chefs des divisions concernées pour les rapports de travail du reste du personnel.[^2-2]
+
+<sup>2</sup> …[^2-3]
 
 <sup>3</sup> Pour le reste, la direction est compétente pour les questions relatives au droit du personnel, à moins que la présente ordonnance n’attribue explicitement la compétence au conseil d’administration.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^2-2]: Introduit par le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^2-3]: Abrogé par le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 #### Art. 3
 
@@ -72,7 +79,7 @@ La direction rend compte au conseil d’administration régulièrement et au moi
 
 **Traitement des données personnelles**
 
-<sup>1</sup> Innosuisse peut traiter des données personnelles y compris des données sensibles et des profils de la personnalité des candidats, des employés et des anciens employés à des fins de gestion du personnel.
+<sup>1</sup> Innosuisse peut traiter des données personnelles, y compris des données sensibles des candidats, des employés et des anciens employés, à des fins de gestion du personnel.[^4-1]
 
 <sup>2</sup> Le traitement des données personnelles relève de la responsabilité du service du personnel.
 
@@ -80,10 +87,27 @@ La direction rend compte au conseil d’administration régulièrement et au moi
 
 <sup>4</sup> Les collaborateurs compétents du service du personnel peuvent communiquer les données à des tiers si la communication des données repose sur une base légale.
 
-<sup>5</sup> Les dispositions de l’OPDC[^4-1] à l’exception des chapitres 2, section 2, 3, section 2, ainsi que 4, 5 et 6 s’appliquent par analogie au traitement des données personnelles des candidats, des employés et des anciens employés d’Innosuisse.[^4-2]
+<sup>4bis</sup> Innosuisse gère, si nécessaire, ses propres systèmes d’information pour le recrutement des employés, les dossiers du personnel, la gestion des données du personnel et le contrôle de gestion du personnel.[^4-2]
 
-[^4-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
-[^4-2]: Introduit par le ch. I de l’O du Conseil d’administration d’Innosuisse du 20 sept. 2017, approuvée par le CF le 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6641](https://fedlex.data.admin.ch/eli/oc/2017/736)).
+<sup>5</sup> Les dispositions de l’ordonnance du 22 novembre 2017 concernant la protection des données personnelles du personnel de la Confédération (OPDC)[^4-3] s’appliquent par analogie au traitement des données personnelles des candidats, des employés et des anciens employés d’Innosuisse, à l’exception des art. 34, al. 3 et 4, 35, 40, al. 3, et des chapitres 6 et 7 OPDC et sous réserve des al. 6 et 7.[^4-4]
+
+<sup>6</sup>
+
+En ce qui concerne les responsabilités, les compétences et les droits de traitement relatifs aux systèmes d’information d’Innosuisse visés à l’al. 4<sup>bis</sup>, les dispositions suivantes s’appliquent en dérogation aux dispositions de l’OPDC:
+
+- a. Innosuisse est responsable des systèmes d’information visés à l’al. 4<sup>bis</sup>; elle octroie les droits d’accès sur demande du service du personnel;
+- b. les tâches des départements, de l’Office fédéral du personnel (OFPER) et des unités administratives sont assumées par Innosuisse;
+- c. les tâches des services du personnel et des centres de service spécialisés dans la gestion du personnel sont assumées par le service du personnel d’Innosuisse;
+- d. le centre de compétences Ressources humaines de l’OFPER, les domaines spécialisés de l’OFPER, les centres de service spécialisés dans la gestion du personnel et l’Office fédéral de l’informatique et de la télécommunication (OFIT) n’ont pas de droits de traitement pour les systèmes d’information d’Innosuisse relatifs à la gestion des données du personnel et au contrôle de gestion du personnel; à la place de l’OFIT, le service informatique d’Innosuisse a les droits correspondants pour le périmètre comptable d’Innosuisse.[^4-5]
+
+<sup>7</sup> En dérogation aux art. 34, al. 1, et 42*a* OPDC, aucune donnée personnelle sensible provenant des systèmes d’information d’Innosuisse visés à l’al. 4<sup>bis</sup> n’est communiquée à d’autres systèmes d’information.[^4-6]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^4-2]: Introduit par le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^4-3]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+[^4-4]: Introduit par le ch. I de l’O du Conseil d’administration d’Innosuisse du 20 sept. 2017, approuvée par le CF le 22 nov. 2017 ([RO 2017 6641](https://fedlex.data.admin.ch/eli/oc/2017/736)). Nouvelle teneur selon le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^4-5]: Introduit par le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^4-6]: Introduit par le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 ## Section 2 Mise au concours des postes et transfert du personnel de l’administration fédérale
 
@@ -95,7 +119,7 @@ La direction rend compte au conseil d’administration régulièrement et au moi
 
 <sup>2</sup> Il est possible de renoncer à une mise au concours publique lorsque les conditions mentionnées à l’art. 22, al. 2, OPers[^5-2] sont remplies ou s’il s’agit d’une rotation de postes.
 
-[^5-1]: www.innosuisse.ch
+[^5-1]: [www.innosuisse.ch](https://www.innosuisse.ch)
 [^5-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 6
@@ -121,18 +145,22 @@ La fonction de directeur est rangée dans la classe de salaire 33 conformément 
 
 #### Art. 8
 
-**Évaluation des fonctions**
+**Évaluation des fonctions (détermination de la classe de salaire)[^8-1]**
 
 <sup>1</sup>
 
 Sont compétents pour l’évaluation des fonctions:
 
-- a. le conseil d’administration pour les fonctions au sein de la direction;
-- b. la direction pour les autres fonctions.
+- a. le conseil d’administration pour les fonctions au sein de la direction, sur proposition du directeur;
+- b. la direction pour les autres fonctions.[^8-2]
 
 <sup>2</sup> L’évaluation doit correspondre à des fonctions comparables dans l’administration fédérale.
 
-<sup>3</sup> La direction informe périodiquement le conseil d’administration du respect de cette exigence. Le conseil d’administration peut donner des instructions en ce sens à la direction.
+<sup>3</sup> …[^8-3]
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^8-3]: Abrogé par le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 #### Art. 9
 
@@ -148,17 +176,22 @@ Les prestations annexes selon les art. 5 et 9, al. 2, de l’ordonnance du 19 d�
 
 <sup>1</sup> Le conseil d’administration fixe le salaire initial du directeur et le soumet à l’approbation du Conseil fédéral.
 
-<sup>2</sup> Le conseil d’administration fixe le salaire initial des autres membres de la direction sur proposition du directeur.
+<sup>2</sup> Le président du conseil d’administration et le directeur fixent le salaire initial des autres membres de la direction.[^10-1]
 
-<sup>3</sup> La direction fixe les salaires initiaux du personnel.
+<sup>3</sup> Le directeur et le responsable du service du personnel fixent, d’entente avec les chefs des divisions concernées, les salaires initiaux du reste du personnel.[^10-2]
 
 <sup>4</sup> Le conseil d’administration veille à une politique salariale cohérente fondée sur des critères objectifs.
 
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+
 #### Art. 11
 
-**Compensation du renchérissement**
+**Compensation du renchérissement**[^11-1]
 
-Le conseil d’administration décide tous les ans du versement éventuel d’une compensation du renchérissement.
+Le conseil d’administration décide tous les ans du versement éventuel d’une compensation du renchérissement. Celle-ci est plafonnée à hauteur de la compensation du renchérissement décidée par le Conseil fédéral pour le personnel de la Confédération.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 #### Art. 12
 
@@ -168,10 +201,11 @@ Le conseil d’administration décide tous les ans du versement éventuel d’un
 
 <sup>2</sup> L’indemnité pour les frais est calculée conformément à l’O-OPers[^12-2].
 
-<sup>3</sup> Il n’est pas fait usage de cartes de crédit d’entreprise.
+<sup>3</sup> …[^12-3]
 
 [^12-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^12-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^12-3]: Abrogé par le ch. I de l’O du Conseil d’administration d’Innosuisse du 22 août 2023, approuvée par le CF le 15 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 #### Art. 13
 

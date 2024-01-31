@@ -3,11 +3,11 @@ sr: "420.232"
 title: "Ordinanza del 20 settembre 2017 dell'Agenzia svizzera per la promozione dell'innovazione sul suo personale (Ordinanza sul personale di Innosuisse)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/735"
 language: it
-version: 2018-01-01
+version: 2024-02-01
 adopted: 2017-09-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/735/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-735-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/735/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/735/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-735-20240201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/735/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/735/20180101/it"
 
 (Ordinanza sul personale di Innosuisse)
 
-del 20 settembre 2017 (Stato 1° gennaio 2018)
+del 20 settembre 2017 (Stato 1° febbraio 2024)
 
 approvata dal Consiglio federale il 15 novembre 2017
 
@@ -24,7 +24,7 @@ Il consiglio d’amministrazione dell’Agenzia svizzera per la promozione dell�
 
 visto l’articolo 37 capoverso 3 della legge del 24 marzo 2000[^ingress-1] sul personale federale (LPers); visti gli articoli 7 capoverso 1 lettera f e 12 capoverso 2 della legge del 17 giugno 2016[^ingress-2] su Innosuisse (LASPI),
 
-*ordina:*
+ordina:
 
 [^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
@@ -35,32 +35,40 @@ visto l’articolo 37 capoverso 3 della legge del 24 marzo 2000[^ingress-1] sul 
 
 **Oggetto e diritto applicabile**
 
-<sup>1</sup> La presente ordinanza disciplina i rapporti di lavoro della direzione e del restante personale della segreteria di Innosuisse.
+<sup>1</sup> Le competenze in materia di costituzione, modifica e risoluzione dei rapporti di lavoro del direttore, degli altri membri della direzione e del restante personale di Innosuisse sono disciplinate negli articoli 7 capoverso 1 lettere h e i e 8 capoverso 2 lettera h LASPI.[^1-1]
 
-<sup>2</sup> Il rapporto di tirocinio presso Innosuisse è disciplinato dal Codice delle obbligazioni[^1-1] e dalla legge del 13 dicembre 2002[^1-2] sulle formazione professionale.
+<sup>2</sup> Il rapporto di tirocinio presso Innosuisse è disciplinato dal Codice delle obbligazioni[^1-2] e dalla legge del 13 dicembre 2002[^1-3] sulle formazione professionale.
 
-<sup>3</sup> Se la presente ordinanza non dispone altrimenti si applicano l’ordinanza del 3 luglio 2001[^1-3] sul personale federale (OPers), l’ordinanza del DFF del 6 dicembre 2001[^1-4] concernente l’ordinanza sul personale federale (O-OPers) nonché l’ordinanza del 26 ottobre 2011[^1-5] sulla protezione dei dati personali del personale federale.
+<sup>3</sup> Se la presente ordinanza non dispone altrimenti si applicano l’ordinanza del 3 luglio 2001[^1-4] sul personale federale (OPers), l’ordinanza del DFF del 6 dicembre 2001[^1-5] concernente l’ordinanza sul personale federale (O-OPers) nonché l’ordinanza del 26 ottobre 2011[^1-6] sulla protezione dei dati personali del personale federale.
 
-[^1-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^1-3]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^1-4]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
-[^1-5]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+[^1-1]: Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^1-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^1-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^1-5]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^1-6]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
 
 #### Art. 2
 
 **Competenza**
 
-<sup>1</sup>
+<sup>1</sup> Le competenze in materia di costituzione, modifica e risoluzione dei rapporti di lavoro del direttore, degli altri membri della direzione e del restante personale di Innosuisse sono disciplinate negli articoli 7 capoverso 1 lettere h e i e 8 capoverso 2 lettera h LASPI.[^2-1]
 
-Se la LASPI e la presente ordinanza non dispongono altrimenti, tutte le decisioni del datore di lavoro competono:
+<sup>1bis</sup>
 
-- a. al presidente del consiglio d’amministrazione, se concernono i rapporti di lavoro con il direttore, il direttore supplente e gli altri membri della direzione;
-- b. alla direzione, se concernono i rapporti di lavoro con il restante personale; la direzione può delegare questa competenza al direttore.
+Se la LASPI e la presente ordinanza non dispongono altrimenti, tutte le altre decisioni del datore di lavoro competono:
 
-<sup>2</sup> Se la direzione emana direttive scritte di applicabilità generale, queste ultime devono essere approvate dal consiglio d’amministrazione.
+- a. al presidente del consiglio d’amministrazione, se concernono i rapporti di lavoro con il direttore;
+- b. congiuntamente al presidente del consiglio d’amministrazione e al direttore, se concernono i rapporti di lavoro con il direttore supplente e gli altri membri della direzione;
+- c. congiuntamente al direttore e al responsabile del servizio del personale, d’intesa con il responsabile dell’unità interessata, se concernono i rapporti di lavoro con il restante personale.[^2-2]
+
+<sup>2</sup> *...*[^2-3]
 
 <sup>3</sup> La direzione è competente per le restanti questioni relative al diritto in materia di personale, se la presente ordinanza non attribuisce esplicitamente la competenza al consiglio d’amministrazione.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^2-2]: Introdotto dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^2-3]: Abrogato dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 #### Art. 3
 
@@ -72,7 +80,7 @@ La direzione informa regolarmente, ma almeno una volta all’anno, il consiglio 
 
 **Trattamento di dati personali**
 
-<sup>1</sup> Per finalità legate alla gestione del personale, Innosuisse può trattare dati personali, compresi quelli degni di particolare protezione e i profili della personalità di candidati nonché di impiegati e di ex dipendenti.
+<sup>1</sup> Per finalità legate alla gestione del personale, Innosuisse può trattare dati personali, compresi quelli degni di particolare protezione di candidati nonché di impiegati e di ex impiegati.[^4-1]
 
 <sup>2</sup> Il servizio del personale è responsabile del trattamento dei dati personali.
 
@@ -80,10 +88,27 @@ La direzione informa regolarmente, ma almeno una volta all’anno, il consiglio 
 
 <sup>4</sup> I collaboratori del servizio del personale competenti possono trasmettere dati a terzi se vi è una base legale.
 
-<sup>5</sup> Le disposizioni della OPDPers[^4-1], eccettuati il capitolo 2 sezione 2, il capitolo 3 sezione 2 nonché i capitoli 4, 5 e 6 si applicano per analogia al trattamento dei dati personali di candidati, impiegati ed ex dipendenti di Innosuisse.[^4-2]
+<sup>4bis</sup> Per quanto necessario, Innosuisse gestisce sistemi d’informazione propri per il reclutamento di dipendenti, per i dossier del personale, per la gestione dei dati del personale e per il controllo della gestione del personale.[^4-2]
 
-[^4-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
-[^4-2]: Introdotto dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 20 set. 2017, approvato dal CF il 12 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6641](https://fedlex.data.admin.ch/eli/oc/2017/736)).
+<sup>5</sup> Al trattamento dei dati personali di candidati, impiegati ed ex impiegati di Innosuisse si applicano per analogia, fatti salvi i capoversi 6 e 7, le disposizioni dell’ordinanza del 22 novembre 2017[^4-3] sulla protezione dei dati personali del personale federale (OPDPers), eccettuati l’articolo 34 capoversi 3 e 4, l’articolo 35, l’articolo 40 capoverso 3 e i capitoli 6 e 7 OPDPers.[^4-4]
+
+<sup>6</sup>
+
+Per le responsabilità, le competenze e i diritti di trattamento relativi ai sistemi d’informazione di Innosuisse di cui al capoverso 4<sup>bis</sup>, in deroga all’OPDPers vale quanto segue:
+
+- a. Innosuisse è responsabile dei sistemi d’informazione di cui al capoverso 4<sup>bis</sup>. Concede i diritti di accesso su richiesta del servizio del personale;
+- b. Innosuisse svolge i compiti dei dipartimenti, dell’Ufficio federale del personale (UFPER) e delle unità amministrative;
+- c. il servizio del personale di Innosuisse svolge i compiti dei servizi del personale e dei centri di prestazione di servizi in materia di personale;
+- d. il Centro di competenza Risorse umane dell’UFPER, i settori specialistici dell’UFPER, i centri di prestazione di servizi in materia di personale e l’Ufficio federale dell’informatica e della telecomunicazione (UFIT) non detengono diritti di trattamento relativi ai sistemi d’informazione di Innosuisse per la gestione dei dati del personale e per il controllo della gestione del personale; anziché dall’UFIT, i diritti per il settore contabile di Innosuisse sono detenuti dal servizio informatico di Innosuisse.[^4-5]
+
+<sup>7</sup> In deroga agli articoli 34 capoverso 1 e 42*a* OPDPers, non sono trasmessi dati personali degni di particolare protezione dai sistemi d’informazione di Innosuisse di cui al capoverso 4<sup>bis</sup> ad altri sistemi d’informazione.[^4-6]
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^4-2]: Introdotto dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^4-3]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+[^4-4]: Introdotto dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 20 set. 2017, approvato dal CF il 12 nov. 2017 ([RU 2017 6641](https://fedlex.data.admin.ch/eli/oc/2017/736)). Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^4-5]: Introdotto dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^4-6]: Introdotto dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 ## Sezione 2: Messa a concorso e trasferimento dall’Amministrazione federale
 
@@ -121,18 +146,22 @@ Alla funzione di direttore è attribuita la classe di stipendio 33 secondo l’a
 
 #### Art. 8
 
-**Valutazione delle funzioni**
+**Valutazione delle funzioni (fissazione della classe di stipendio)[^8-1]**
 
 <sup>1</sup>
 
 Le valutazioni delle funzioni competono:
 
-- a. al consiglio d’amministrazione, se concernono le funzioni della direzione;
-- b. alla direzione, se concernono le restanti funzioni.
+- a. al consiglio d’amministrazione, su proposta del direttore, se concernono le funzioni della direzione;
+- b. alla direzione, se concernono le restanti funzioni.[^8-2]
 
 <sup>2</sup> La valutazione deve corrispondere a quella di funzioni analoghe dell’Amministrazione federale.
 
-<sup>3</sup> La direzione informa periodicamente il consiglio d’amministrazione mediante un rapporto sull’adempimento di questa disposizione. A tale riguardo il consiglio d’amministrazione può impartire istruzioni alla direzione.
+<sup>3</sup> ... [^8-3]
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^8-3]: Abrogato dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 #### Art. 9
 
@@ -148,17 +177,22 @@ Le prestazioni accessorie secondo gli articoli 5 e 9 capoverso 2 dell’ordinanz
 
 <sup>1</sup> Il consiglio d’amministrazione fissa lo stipendio iniziale del direttore; lo stipendio iniziale fissato per il direttore deve essere approvato dal Consiglio federale.
 
-<sup>2</sup> Su richiesta del direttore, il consiglio d’amministrazione fissa lo stipendio iniziale dei restanti membri della direzione.
+<sup>2</sup> Il presidente del consiglio d’amministrazione fissa lo stipendio iniziale dei restanti membri della direzione congiuntamente al direttore.[^10-1]
 
-<sup>3</sup> La direzione fissa gli stipendi iniziali del personale.
+<sup>3</sup> Il direttore fissa gli stipendi iniziali del restante personale congiuntamente al responsabile del servizio del personale, d’intesa con il responsabile dell’unità interessata.[^10-2]
 
 <sup>4</sup> Il consiglio d’amministrazione provvede affinché la politica salariale sia basata su criteri uniformi e obiettivi.
 
+[^10-1]: Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
+
 #### Art. 11
 
-**Compensazione del rincaro**
+**Compensazione del rincaro**[^11-1]
 
-Il consiglio d’amministrazione decide ogni anno se concedere una compensazione del rincaro.
+Il consiglio d’amministrazione decide ogni anno se concedere una compensazione del rincaro. La compensazione del rincaro per il personale federale stabilita dal Consiglio federale costituisce il tetto massimo.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 #### Art. 12
 
@@ -168,10 +202,11 @@ Il consiglio d’amministrazione decide ogni anno se concedere una compensazione
 
 <sup>2</sup> Il calcolo dell’ammontare delle indennità si basa sull’O-OPers[^12-2].
 
-<sup>3</sup> Non sono utilizzate carte di credito aziendali.
+<sup>3</sup> ... [^12-3]
 
 [^12-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^12-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^12-3]: Abrogato dal n. I dell’O del consiglio d’amministrazione di Innosuisse del 22 ago. 2023, approvato dal CF il 15 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2024 5](https://fedlex.data.admin.ch/eli/oc/2024/5)).
 
 #### Art. 13
 
@@ -225,4 +260,4 @@ Gli anni di servizio svolti nel quadro di rapporti di lavoro presso l’Amminist
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 1° gennaio 2018.
+La presente ordinanza entra in vigore il 1° gennaio 2
