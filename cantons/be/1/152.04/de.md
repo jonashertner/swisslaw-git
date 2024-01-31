@@ -4,13 +4,13 @@ number: "152.04"
 title: Datenschutzgesetz
 short: KDSG
 language: de
-version: 2023-01-01
-valid_until: 2024-01-31
-version_adopted: 2022-06-15
+version: 2024-02-01
+valid_until: 2026-08-31
+version_adopted: 2023-09-05
 adopted: 2025-12-03
 in_force: 2026-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.04"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2718/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2999/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2718/pdf_file"
 
 (KDSG)
 
-vom 19.02.1986 (Stand 01.01.2023)
+vom 19.02.1986 (Stand 01.02.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -167,7 +167,7 @@ beschliesst:
 
 **2. durch die Einwohnerkontrolle**
 
-<sup>1</sup> Die Einwohnerkontrolle gibt einer privaten Person auf Gesuch Namen, Vornamen, Beruf, Geschlecht, Adresse, Zivilstand, Heimatort, Datum des Zu- und Wegzuges sowie Jahrgang einer Einzelperson bekannt, wenn der Gesuchsteller ein schützenswertes Interesse glaubhaft macht.
+<sup>1</sup> Die Einwohnerkontrolle gibt einer privaten Person auf Gesuch Namen, Vornamen, Geschlecht, Adresse, Zivilstand, Heimatort, Datum des Zu- und Wegzuges sowie Jahrgang einer Einzelperson bekannt, wenn der Gesuchsteller ein schützenswertes Interesse glaubhaft macht.
 
 <sup>2</sup> Das Gemeindereglement kann unter den gleichen Voraussetzungen zudem die Bekanntgabe von Titel und Sprache einer Einzelperson gestatten.
 

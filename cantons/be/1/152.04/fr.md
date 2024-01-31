@@ -4,13 +4,13 @@ number: "152.04"
 title: "Loi sur la protection des données *"
 short: LCPD
 language: fr
-version: 2023-01-01
-valid_until: 2024-01-31
-version_adopted: 2022-06-15
+version: 2024-02-01
+valid_until: 2026-08-31
+version_adopted: 2023-09-05
 adopted: 2025-12-03
 in_force: 2026-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.04"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2718/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2999/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2718/pdf_file"
 
 (LCPD)
 
-du 19.02.1986 (état au 01.01.2023)
+du 19.02.1986 (état au 01.02.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -167,7 +167,7 @@ arrête:
 
 **2. par le contrôle des habitants**
 
-<sup>1</sup> Sur requête d'une personne privée, le contrôle des habitants lui communique les nom, prénoms, profession, sexe, adresse, dates d'arrivée et de départ, état civil, lieu d'origine ainsi qu'année de naissance d'une personne, à condition qu'elle rende vraisemblable un intérêt digne de protection.
+<sup>1</sup> Sur requête d'une personne privée, le contrôle des habitantes et des habitants lui communique les nom, prénoms, sexe, adresse, dates d'arrivée et de départ, état civil, lieu d'origine ainsi qu'année de naissance d'une personne, à condition qu'elle rende vraisemblable un intérêt digne de protection.
 
 <sup>2</sup> Le règlement de commune peut en outre, et aux mêmes conditions, autoriser la communication de renseignements sur le titre et la langue d'un particulier.
 
