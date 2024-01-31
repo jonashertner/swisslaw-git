@@ -3,20 +3,19 @@ canton: VS
 number: "160.102"
 title: Ordonnance sur le vote par correspondance
 language: fr
-version: 2021-05-05
-valid_until: 2024-01-31
-version_adopted: 2021-03-10
+version: 2024-02-01
+version_adopted: 2023-12-13
 adopted: 2008-03-12
 in_force: 2008-03-28
 url: "https://lex.vs.ch/app/fr/texts_of_law/160.102"
-pdf: "https://lex.vs.ch/api/fr/versions/2892/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3287/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur le vote par correspondance
 
-du 12.03.2008 (état 05.05.2021)
+du 12.03.2008 (état 01.02.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -84,7 +83,7 @@ arrête:
 
 - a) pour les votations fédérales et pour l’élection du Conseil national, au plus tôt quatre semaines avant le jour de la votation mais au plus tard trois semaines avant cette date;
 - b) …
-- c) pour les votations et élections cantonales et communales, quinze jours au moins avant le scrutin; pour les élections au second tour et pour les élections communales de remplacement, ce délai est réduit à cinq jours.
+- c) pour les votations et élections cantonales et communales, 15 jours au moins avant le scrutin; pour les élections cantonales (second tour), ce délai est réduit à 8 jours; pour les élections communales (second tour et élections de remplacement), ce délai est réduit à 5 jours.
 
 #### Art. 7
 
@@ -107,21 +106,13 @@ arrête:
 
 **Feuille de réexpédition**
 
-<sup>1</sup> La feuille de réexpédition est préétablie par le canton et complétée par la commune. Outre le nom ou l'armoirie de la commune, la date et le genre du scrutin, elle doit comporter toutes les indications qui permettent d'identifier l'électeur (nom, prénom, sexe, année de naissance et adresse). Elle doit également mentionner que l'électeur doit apposer sa signature et coller son étiquette autocollante personnelle sous peine de nullité. Demeure réservé l’article 9a alinéa 4.
+<sup>1</sup> La feuille de réexpédition est préétablie par le canton et complétée par la commune. Outre le nom ou l'armoirie de la commune, la date et le genre du scrutin, elle doit comporter toutes les indications qui permettent d'identifier l'électeur (nom, prénom, sexe, année de naissance et adresse). Elle doit également mentionner que l'électeur doit apposer sa signature sous peine de nullité.
 
 <sup>2</sup> Une nouvelle feuille de réexpédition est établie chaque fois que le corps électoral est convoqué pour un scrutin aux urnes.
 
 #### Art. 9a
 
-**Etiquette autocollante**
-
-<sup>1</sup> Au début de la période administrative, la commune adresse à chaque citoyen des étiquettes autocollantes comprenant les données personnelles de celui-ci (nom, prénom, mention géographique). Il en va notamment de même lors de toute nouvelle inscription d'un citoyen dans le registre électoral.
-
-<sup>2</sup> Le citoyen qui vote par correspondance doit coller son étiquette autocollante personnelle sur la feuille de réexpédition, dans la case prévue à cet effet, sous peine de nullité.
-
-<sup>3</sup> Le citoyen qui a perdu ses étiquettes autocollantes personnelles peut demander, par écrit, un nouveau jeu à l'administration communale. Celle-ci peut exiger le remboursement des frais.
-
-<sup>4</sup> L’exigence de l’étiquette autocollante ne s’applique pas aux citoyens inscrits dans le registre électoral central des Suisses de l’étranger.
+**…**
 
 #### Art. 10
 
@@ -153,7 +144,7 @@ arrête:
 
 <sup>2</sup> Il introduit ensuite la ou les enveloppes de vote dans l'enveloppe de transmission avec, le cas échéant, la carte civique.
 
-<sup>3</sup> Il appose sa signature et colle son étiquette autocollante personnelle sur la feuille de réexpédition et, en l'absence de texte pré-imprimé, y inscrit l'adresse de l'administration communale destinataire.
+<sup>3</sup> Il appose sa signature sur la feuille de réexpédition et, en l'absence de texte pré-imprimé, y inscrit l'adresse de l'administration communale destinataire.
 
 <sup>4</sup> Il introduit la feuille de réexpédition dans l'enveloppe de transmission de façon à ce que l'adresse de la commune destinataire apparaisse dans la fenêtre transparente. Enfin, il ferme l'enveloppe de transmission.
 
@@ -228,7 +219,7 @@ arrête:
 <sup>1</sup> Le vote par correspondance ou par dépôt à la commune est nul si:
 
 - a) l'électeur n'a pas utilisé les enveloppes de transmission et de vote officielles;
-- b) la carte civique fait défaut ou la feuille de réexpédition ne porte pas la signature manuscrite de l'électeur ou l’électeur n’a pas collé son étiquette autocollante personnelle sur la feuille de réexpédition. Demeure réservé l’article 9a alinéa 4;
+- b) la carte civique fait défaut ou la feuille de réexpédition ne porte pas la signature manuscrite de l'électeur;
 - c) l'enveloppe de transmission n'a pas été transmise par la poste ou n'a pas été déposée dans l'urne scellée prévue à cet effet par l'administration communale (p.ex. dépôt de l'enveloppe de transmission dans la boîte aux lettres de l'administration communale);
 - d) une enveloppe de transmission comprend le matériel de vote de plusieurs électeurs (envoi groupé);
 - e) les enveloppes de vote renferment des indications en révélant la provenance; celles-ci ne sont pas ouvertes.
@@ -247,7 +238,7 @@ arrête:
 
 <sup>1</sup> Les communes adressent à l'Economat de l'Etat leurs commandes d'enveloppes de transmission, d'enveloppes de vote et de feuilles de réexpédition.
 
-<sup>2</sup> Le canton fournit gratuitement aux communes les enveloppes de transmission et de vote, les feuilles de réexpédition pour les scrutins fédéraux, cantonaux et communaux ainsi que les étiquettes autocollantes personnelles vierges.
+<sup>2</sup> Le canton fournit gratuitement aux communes les enveloppes de transmission et de vote ainsi que la feuille de réexpédition pour les scrutins fédéraux, cantonaux et communaux.
 
 <sup>3</sup> Les feuilles de réexpédition sont préétablies par le canton et complétées par les communes. Les communes sont autorisées à établir elles-mêmes les feuilles de réexpédition en y mentionnant les indications qui figurent à l'article 9 alinéa 1.
 

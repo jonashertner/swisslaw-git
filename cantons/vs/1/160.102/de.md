@@ -3,20 +3,19 @@ canton: VS
 number: "160.102"
 title: Verordnung über die briefliche Stimmabgabe
 language: de
-version: 2021-05-05
-valid_until: 2024-01-31
-version_adopted: 2021-03-10
+version: 2024-02-01
+version_adopted: 2023-12-13
 adopted: 2008-03-12
 in_force: 2008-03-28
 url: "https://lex.vs.ch/app/de/texts_of_law/160.102"
-pdf: "https://lex.vs.ch/api/de/versions/2892/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3287/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die briefliche Stimmabgabe
 
-vom 12.03.2008 (Stand 05.05.2021)
+vom 12.03.2008 (Stand 01.02.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -84,7 +83,7 @@ verordnet:
 
 - a) für die eidgenössischen Abstimmungen und für die Nationalratswahlen frühestens vier Wochen, spätestens aber drei Wochen vor dem Abstimmungstag;
 - b) …
-- c) für die kantonalen und kommunalen Wahlen und Abstimmungen mindestens 15 Tage vor dem Urnengang; für die zweiten Wahlgänge und für die kommunalen Ergänzungswahlen verkürzt sich diese Frist auf fünf Tage.
+- c) für die kantonalen und kommunalen Wahlen und Abstimmungen mindestens 15 Tage vor dem Urnengang; für die kantonalen Wahlen (2. Wahlgang) verkürzt sich diese Frist auf 8 Tage; für die kommunalen Wahlen (2. Wahlgang und Ergänzungswahlen) verkürzt sich diese Frist auf 5 Tage.
 
 #### Art. 7
 
@@ -107,21 +106,13 @@ verordnet:
 
 **Rücksendungsblatt**
 
-<sup>1</sup> Das Rücksendungsblatt wird vom Kanton vorbereitet und von der Gemeinde vervollständigt. Nebst dem Namen und dem Wappen der Gemeinde sowie dem Datum und der Art des Urnengangs, muss es alle Angaben enthalten, welche die Identifizierung des Stimmbürgers ermöglichen (Name, Vorname, Geschlecht, Geburtsjahr und Adresse). Es muss auch erwähnen, dass der Stimmbürger seine Unterschrift anbringen und die persönliche selbstklebende Etikette aufkleben muss, andernfalls die Stimmabgabe ungültig ist. Vorbehalten bleibt Artikel 9a Absatz 4.
+<sup>1</sup> Das Rücksendungsblatt wird vom Kanton vorbereitet und von der Gemeinde vervollständigt. Nebst dem Namen und dem Wappen der Gemeinde sowie dem Datum und der Art des Urnengangs, muss es alle Angaben enthalten, welche die Identifizierung des Stimmbürgers ermöglichen (Name, Vorname, Geschlecht, Geburtsjahr und Adresse). Es muss auch erwähnen, dass der Stimmbürger seine Unterschrift anbringen muss, andernfalls die Stimmabgabe ungültig ist.
 
 <sup>2</sup> Jedesmal, wenn das Stimmvolk zu einem Urnengang einberufen wird, ist ein neues Rücksendungsblatt auszustellen.
 
 #### Art. 9a
 
-**Selbstklebende Etikette**
-
-<sup>1</sup> Zu Beginn der Verwaltungsperiode stellt die Gemeinde jedem Stimmbürger selbstklebende Etiketten mit seinen persönlichen Daten (Name, Vorname, geografische Angabe) zu. Gleiches gilt namentlich bei jeder neuen Eintragung eines Stimmbürgers ins Stimmregister.
-
-<sup>2</sup> Der brieflich abstimmende Stimmbürger muss seine persönliche selbstklebende Etikette auf das Rücksendungsblatt, in das dafür vorgesehene Feld kleben, andernfalls die Stimmabgabe ungültig ist.
-
-<sup>3</sup> Der Stimmbürger, der seine persönlichen selbstklebenden Etiketten verloren hat, kann bei der Gemeindeverwaltung schriftlich einen neuen Satz beantragen. Diese kann die Erstattung der Kosten verlangen.
-
-<sup>4</sup> Die Vorschrift der selbstklebenden Etikette findet für die im zentralen Stimmregister für Auslandschweizer eingtragenen Stimmbürger keine Anwendung.
+**…**
 
 #### Art. 10
 
@@ -153,7 +144,7 @@ verordnet:
 
 <sup>2</sup> Er legt sodann das oder die Stimmkuverts, gegebenenfalls mit der Stimmkarte, in den Übermittlungsumschlag.
 
-<sup>3</sup> Er unterschreibt das Rücksendungsblatt und bringt die persönliche selbstklebende Etikette sowie, sofern die Empfängergemeinde nicht vorgedruckt ist, die Adresse der Gemeindeverwaltung an.
+<sup>3</sup> Er unterschreibt das Rücksendungsblatt und bringt, sofern die Empfängergemeinde nicht vorgedruckt ist, die Adresse der Gemeindeverwaltung an.
 
 <sup>4</sup> Er schiebt das Rücksendungsblatt derart in den Übermittlungsumschlag, dass die Adresse der Empfängergemeinde im Sichtfenster erscheint. Sodann verschliesst er den Übermittlungsumschlag.
 
@@ -228,7 +219,7 @@ verordnet:
 <sup>1</sup> Die briefliche Stimmabgabe oder die Stimmabgabe durch Hinterlegung bei der Gemeinde sind ungültig:
 
 - a) wenn der Stimmbürger nicht den amtlichen Übermittlungsumschlag und die amtlichen Stimmkuverts benützt hat;
-- b) wenn die Stimmkarte fehlt oder das Rücksendungsblatt nicht die handschriftliche Unterschrift des Stimmbürgers trägt oder der Stimmbürger seine selbstklebende Etikette nicht auf das Rücksendungsblatt geklebt hat. Vorbehalten bleibt Artikel 9a Absatz 4;
+- b) wenn die Stimmkarte fehlt oder das Rücksendungsblatt nicht die handschriftliche Unterschrift des Stimmbürgers trägt;
 - c) wenn der Übermittlungsumschlag nicht über die Post zugestellt oder nicht in die auf der Gemeindeverwaltung bereitgestellte versiegelte Urne gelegt wurde (z.B. Einwerfen des Übermittlungsumschlags in den Briefkasten der Gemeindeverwaltung);
 - d) wenn ein Übermittlungsumschlag das Stimmmaterial von mehreren Stimmbürgern enthält (gruppierter Versan;
 - e) wenn die Stimmkuverts Angaben enthalten, die auf deren Herkunft schliessen lassen; diese werden nicht geöffnet.
@@ -247,7 +238,7 @@ verordnet:
 
 <sup>1</sup> Die Gemeinden bestellen beim Staatsökonomat die Übermittlungsumschläge, die Stimmkuverts und die Rücksendungsblätter.
 
-<sup>2</sup> Der Kanton liefert den Gemeinden die Übermittlungsumschläge, die Stimmkuverts und die Rücksendungsblätter für die eidgenössischen, kantonalen und kommunalen Urnengänge sowie die leeren persönlichen selbstklebenden Etiketten unentgeltlich.
+<sup>2</sup> Der Kanton liefert den Gemeinden die Übermittlungsumschläge, die Stimmkuverts und das Rücksendungsblatt für die eidgenössischen, kantonalen und kommunalen Urnengänge unentgeltlich.
 
 <sup>3</sup> Die Rücksendungsblätter werden vom Kanton vorbereitet und von den Gemeinden vervollständigt. Die Gemeinden dürfen die Rücksendungsblätter selber erstellen, wobei diese die Angaben gemäss Artikel 9 Absatz 1 zu enthalten haben.
 
