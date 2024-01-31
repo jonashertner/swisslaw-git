@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 23 novembre 2005 concernente l'igiene nella macell
 short: OIgM
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/816"
 language: it
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/816/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2005-816-20200701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/816/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/816/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2005-816-20240201-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/816/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,33 +17,36 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/816/20200701/it"
 
 (OIgM)
 
-del 23 novembre 2005 (Stato 1° luglio 2020)
+del 23 novembre 2005 (Stato 1° febbraio 2024)
 
-Il Dipartimento federale dell’interno (DFI)*[^ingress-1]*,
+Il Dipartimento federale dell’interno (DFI)[^ingress-1],
 
-visti gli articoli 4 capoverso 4, 16 capoverso 5, 27 capoverso 4, 30 capoverso 2, 31 capoverso 7, 34 capoverso 1, 38 capoverso 3 e 40 dell’ordinanza del 16 dicembre 2016[^ingress-2] concernente la macellazione e il controllo delle carni (OMCC); visto l’articolo 303 dell’ordinanza del 27 giugno 1995[^ingress-3] sulle epizoozie,[^ingress-4]
+visti gli articoli 4 capoverso 4, 16 capoverso 5, 27 capoverso 4, 30 capoverso 2, 30*a* capoverso 2, 31 capoverso 7, 34 capoverso 1, 38 capoverso 3 e 40 dell’ordinanza del 16 dicembre 2016[^ingress-2] concernente la macellazione e il controllo delle carni (OMCC); visto l’articolo 303 dell’ordinanza del 27 giugno 1995[^ingress-3] sulle epizoozie (OFE),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
-[^ingress-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^ingress-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^ingress-2]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^ingress-3]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
-## Sezione 1: Esigenze riguardanti i macelli e gli stabilimenti per la lavorazione della selvaggina****
+## Sezione 1: Esigenze riguardanti i macelli, gli stabilimenti per la lavorazione della selvaggina e le aziende nelle quali si eseguono macellazioni occasionali
 
 [^sec1-1]
 
-[^sec1-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^sec1-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 1
 
 **...[^1-1]**
 
-I macelli e stabilimenti per la lavorazione della selvaggina[^1-2] devono soddisfare le esigenze di cui all’allegato 1.
+<sup>1</sup> I macelli e stabilimenti per la lavorazione della selvaggina[^1-2] devono soddisfare le esigenze di cui all’allegato 1.
+
+<sup>2</sup> Le aziende nelle quali si eseguono macellazioni occasionali devono soddisfare le esigenze di cui all’allegato 2.[^1-3]
 
 [^1-1]: Abrogata dal n. I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
 [^1-2]: Nuova espr. giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Di detta mod. è stato tenuto conto in tutti gli art. menzionati nella RU.
+[^1-3]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 2
 
@@ -51,17 +54,20 @@ I macelli e stabilimenti per la lavorazione della selvaggina[^1-2] devono soddis
 
 [^2-1]: Abrogato dal n. II 3 dell’O del 16 mag. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
 
-## Sezione 2: Misure d’igiene nei macelli e stabilimenti per la lavorazione della selvaggina****
+## Sezione 2: Misure d’igiene nei macelli, negli stabilimenti per la lavorazione della selvaggina e nelle aziende nelle quali si eseguono macellazioni occasionali
 
 [^sec2-1]
 
-[^sec2-1]: Nuova espr. giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^sec2-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 3
 
-Per le misure d’igiene nei macelli e stabilimenti per la lavorazione della selvaggina[^3-1] fanno stato le prescrizioni di cui all’allegato 3.
+<sup>1</sup> Per le misure d’igiene nei macelli e stabilimenti per la lavorazione della selvaggina[^3-1] fanno stato le prescrizioni di cui all’allegato 3.
 
-[^3-1]: Nuova espr. giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+<sup>2</sup> Per le misure d’igiene nei locali di macellazione e nei locali frigoriferi delle aziende nelle quali si eseguono macellazioni occasionali fanno stato le prescrizioni di cui all’allegato 3*a*.[^3-2]
+
+[^3-1]: Nuova espressione giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^3-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ## Sezione 3: Procedura di controllo degli animali da macello
 
@@ -81,13 +87,13 @@ Per il controllo degli animali da macello fanno stato le prescrizioni di cui all
 
 <sup>3</sup> Per le specialità gastronomiche il veterinario ufficiale[^5-1] può, caso per caso, autorizzare deroghe al modo di presentazione.
 
-[^5-1]: Nuova espr. giusta l’all. 2 n. 3 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-1]: Nuova espressione giusta l’all. 2 n. 3 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 6
 
-**Controllo**
+**Controllo delle carni[^6-1]**
 
-<sup>1</sup> Il veterinario ufficiale controlla la carcassa e le parti di carcassa conformemente alle prescrizioni di cui all’allegato 6.
+<sup>1</sup> Per il controllo delle carni di una carcassa e delle parti dell’animale fanno stato le prescrizioni di cui all’allegato 6.[^6-2]
 
 <sup>2</sup>
 
@@ -96,18 +102,21 @@ Se necessario, il veterinario ufficiale estende il controllo segnatamente:
 - a. prelevando campioni per analisi di laboratorio;
 - b. incidendo altre parti della carcassa e i relativi linfonodi.
 
-<sup>2bis</sup> Per i suini domestici è possibile rinunciare al prelievo di un campione per le analisi di laboratorio al fine di verificare la presenza di Trichinella, se sono soddisfatte le condizioni per l’idoneità al consumo o per il trattamento di congelazione secondo lʼallegato 7 numero 1.3.2.[^6-1]
+<sup>2bis</sup> Per i suini domestici è possibile rinunciare al prelievo di un campione per le analisi di laboratorio al fine di verificare la presenza di Trichinella, se sono soddisfatte le condizioni per l’idoneità al consumo o per il trattamento di congelazione secondo lʼallegato 7 numero 1.3.2.[^6-3]
 
 <sup>3</sup> Nella misura in cui la presente ordinanza non prescrive il procedimento, occorre applicare metodi di controllo scientificamente riconosciuti e sperimentati, in particolare quelli stabiliti a livello internazionale.
 
 <sup>4</sup> Durante il controllo vanno adottate le necessarie precauzioni per prevenire le contaminazioni.
 
-<sup>5</sup> Qualora diversi veterinari ufficiali partecipino al controllo della carcassa e delle parti di un animale, tutti i risultati che differiscono dallo stato normale devono essere comunicati alla persona che prende la decisione finale.
+<sup>5</sup> Qualora diversi organi di esecuzione ufficiali partecipino al controllo di una carcassa e delle parti dell’animale, tutti i risultati che differiscono dallo stato normale devono essere comunicati alla persona che effettua la valutazione finale.[^6-4]
 
-<sup>6</sup> Per le specialità gastronomiche il veterinario ufficiale può, di caso in caso, autorizzare deroghe alle procedure di controllo.[^6-2]
+<sup>6</sup> Per le specialità gastronomiche il veterinario ufficiale può, di caso in caso, autorizzare deroghe alle procedure di controllo.[^6-5]
 
-[^6-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
-[^6-2]: Introdotto dal n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^6-3]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^6-4]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^6-5]: Introdotto dal n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)).
 
 #### Art. 7
 
@@ -136,7 +145,7 @@ L’idoneità al consumo è dichiarata:
 
   con un bollo di idoneità al consumo:
 
-  - 1\.[^8-1] apposto sui quarti o sui sesti degli animali della specie equina e bovina; è esclusa la carne di animali della specie bovina di età inferiore a sei settimane,
+  - 1\.[^8-1] apposto sui quarti o sui sesti degli animali della specie equina e bovina; è esclusa la carne di animali della specie bovina di età inferiore a otto mesi la cui carne è sezionata in mezzene,
   - 2\. apposto su ognuna delle mezzene dell’altro bestiame da macello; per gli agnelli, i capretti e i porcellini interi è sufficiente un bollo,
   - 3\. per la selvaggina, ad eccezione delle lepri e della selvaggina da penna, si applica un solo bollo;
 
@@ -148,8 +157,8 @@ L’idoneità al consumo è dichiarata:
 
 <sup>4</sup> Per il bollo di idoneità al consumo e per tutte le bollature non ufficiali sono utilizzabili solo coloranti indelebili e ben visibili, ammessi dall’ordinanza del 23 novembre 2005[^8-2] sugli additivi.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFI del 29 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
-[^8-2]: [[RU 2005 6191](https://fedlex.data.admin.ch/eli/oc/2005/806). [RU 2007 2977](https://fedlex.data.admin.ch/eli/oc/2007/401)art. 7]. Vedi ora l’O del 22 giu. 2007 ([RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)).
+[^8-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^8-2]: [[RU 2005 6191](https://fedlex.data.admin.ch/eli/oc/2005/806). [RU 2007 2977](https://fedlex.data.admin.ch/eli/oc/2007/401)art. 7]. Vedi ora l’O del 24 nov. 2013 ([RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)).
 
 ## Sezione 5: Disposizioni di natura organizzativa e tecnica
 
@@ -160,8 +169,8 @@ L’idoneità al consumo è dichiarata:
 <sup>1</sup> I macelli e stabilimenti per la lavorazione della selvaggina[^9-1] con un impianto di trasporto delle carcasse devono regolarne la velocità in modo che per ogni carcassa e per le rispettive parti vi siano a disposizione almeno i seguenti intervalli di tempo per il controllo delle carni:
 
 <table>
-<tr><td>a. per gli animali della specie bovina di età superiore a sei settimane:</td><td>4 minuti</td></tr>
-<tr><td>b. per gli animali della specie bovina di età inferiore a sei settimane:</td><td>2 minuti</td></tr>
+<tr><td>a.[^9-2] per gli animali della specie bovina di età superiore a otto mesi:</td><td>4 minuti;</td></tr>
+<tr><td>b.[^9-3] per gli animali della specie bovina di età inferiore a otto mesi:</td><td>2 minuti;</td></tr>
 <tr><td>c. per gli animali delle specie ovina e caprina:</td><td>1 minuto</td></tr>
 <tr><td>d. per gli animali della specie suina (senza campionamento ai fini dell’esame trichinoscopico):</td><td>1 minuto</td></tr>
 <tr><td>e. per gli animali della specie equina (senza campionamento ai fini dell’esame trichinoscopico):</td><td>4 minuti</td></tr>
@@ -171,29 +180,47 @@ L’idoneità al consumo è dichiarata:
 <tr><td>i. per i volatili da cortile e i conigli domestici:</td><td>2,5 secondi</td></tr>
 </table>
 
-<sup>2</sup> Gli intervalli di tempo di cui al capoverso 1 si applicano al controllo di carcasse e di parti che non ha dato luogo a contestazioni sostanziali ed è stato eseguito in condizioni favorevoli sia dal profilo tecnico-aziendale che da quello del personale.
+<sup>2</sup>
+
+Gli intervalli di tempo di cui al capoverso 1 si applicano al controllo di una carcassa e delle parti dell’animale, se:
+
+- a. non ha dato luogo a contestazioni sostanziali;
+- b. non ha rilevato indizi di un possibile rischio per la salute dell’uomo o dell’animale o di un pregiudizio al benessere dell’animale quando era ancora in vita secondo l’articolo 30*a* capoverso 1 OMCC; ed
+- c. è stato eseguito in condizioni favorevoli sia dal profilo tecnico-aziendale che da quello del personale.[^9-4]
 
 [^9-1]: Nuova espr. giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^9-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^9-4]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 10
 
-**Analisi microbiologica delle carni**
+**Analisi microbiologica delle carni**[^10-1]
 
-<sup>1</sup>
+<sup>1</sup> L’analisi microbiologica delle carni comprende un’analisi batteriologica di parti di muscoli e di organi e un test biologico di rilevamento di sostanze inibitrici.
 
-Un’analisi microbiologica delle carni deve essere ordinata se a causa di insudiciamenti o di alterazioni patologiche della carcassa o delle sue parti risulta difficile pronunciare una decisione di idoneità al consumo, segnatamente in caso di:
+<sup>2</sup> Un’analisi microbiologica delle carni deve essere presa in considerazione se a causa di alterazioni patologiche della carcassa o delle sue parti risulta difficile pronunciare una decisione di idoneità al consumo.
 
-- a. turbe dello stato generale;
-- b. processi infiammatori o necrosi;
-- c.[^10-1] eviscerazione degli animali, ad eccezione della selvaggina cacciata, avvenuta oltre 45 minuti dopo lo stordimento e l’uccisione o non eseguita a regola d’arte;
-- d. dissanguamento dubbio;
-- e. sospetto di specifiche infezioni con microrganismi patogeni per l’uomo, p. es. salmonelle.
+<sup>3</sup>
 
-<sup>2</sup> L’analisi microbiologica delle carni non è necessaria se, a causa di uno dei motivi di contestazione secondo l’allegato 7, la carcassa deve essere eliminata come sottoprodotto di origine animale.
+L’idoneità al consumo è incerta segnatamente in caso di:
 
-<sup>3</sup> Il risultato dell’analisi microbiologica delle carni è uno degli elementi che, secondo l’allegato 7, devono essere presi in considerazione per decidere in merito all’utilizzabilità della carcassa. Il risultato favorevole dell’analisi microbiologica non è sufficiente da solo per dichiarare una carcassa senz’altro idonea al consumo.
+- a.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+  alterazioni anatomopatologiche che:
+
+  - 1\. costituiscono un focolaio attivo di disseminazione batterica, come gli *Endocarditis valvularis thromboticans*,
+  - 2\. possono essere un indizio acuto di disseminazione batterica, come una polmonite tromboembolica acuta, o
+  - 3\. costituiscono una porta d’ingresso con segni di disseminazione, come un’ulcera della suola con complicazioni;
+
+- b. sospetto di infezioni con microrganismi patogeni per l’uomo, come le salmonelle;
+- c. dissanguamento dubbio.
+
+<sup>4</sup> L’analisi microbiologica delle carni non è necessaria se, a causa di uno dei motivi di contestazione secondo l’allegato 7, la carcassa deve essere eliminata come sottoprodotto di origine animale.
+
+<sup>5</sup> Il risultato dell’analisi microbiologica delle carni è uno degli elementi che, secondo l’allegato 7, devono essere presi in considerazione per decidere in merito all’utilizzabilità della carcassa. Il risultato favorevole dell’analisi microbiologica non è sufficiente da solo per dichiarare una carcassa senz’altro idonea al consumo.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 11
 
@@ -219,6 +246,18 @@ Occorre utilizzare i seguenti moduli:
 
 [^12-1]: [[RU 1995 1703](https://fedlex.data.admin.ch/eli/oc/1995/1703_1703_1703)]
 
+#### Art. 12a
+
+**Disposizione transitoria della modifica dell’8 dicembre 2023**[^12a-1]
+
+Si applicano i seguenti termini transitori:
+
+- a. per gli adeguamenti edilizi necessari nelle aziende nelle quali si eseguono macellazioni occasionali secondo l’articolo 1 capoverso 2 e l’allegato 2: 5 anni dall’entrata in vigore della presente ordinanza;
+- b. per gli adeguamenti necessari delle misure di igiene secondo l’articolo 3 capoverso 2 e l’allegato 3*a* nelle aziende nelle quali si eseguono macellazioni occasionali: 1 anno dall’entrata in vigore della presente ordinanza;
+- c. per gli adeguamenti organizzativi e aziendali necessari dei controlli delle carni secondo l’articolo 6 capoverso 1 e l’allegato 6: 5 anni dall’entrata in vigore della presente ordinanza.
+
+[^12a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+
 #### Art. 13
 
 **Diritto previgente: abrogazione**
@@ -233,13 +272,13 @@ L’ordinanza del 3 marzo 1995[^13-1] sul controllo delle carni è abrogata.
 
 La presente ordinanza entra in vigore il 1° gennaio 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1)
 
-## [Esigenze riguardanti i macelli e gli stabilimenti per la lavorazione della selvaggina](https://www.admin.ch/opc/it/classified-compilation/20051438/index.html)
+## Esigenze riguardanti i macelli e gli stabilimenti per la lavorazione della selvaggina
 
-[^t-1]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) e dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-1]: Aggiornato dal n. I cpv. 1 e 2 nonché n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)), dal n. I dell’O del DFI del 27 mag. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Esigenze generali
 
@@ -295,7 +334,7 @@ I locali devono essere illuminati con luce naturale o dotati di un’illuminazio
 
 I locali devono disporre di un’aerazione sufficiente. Se necessario, deve essere disponibile un sistema d’aspirazione del vapore.
 
-### 1.5 Macchine frigorifere
+### 1.5 Locali frigoriferi e di congelazione
 
 I locali frigoriferi e di congelazione devono inoltre essere provvisti di:
 
@@ -340,21 +379,17 @@ Per la pulizia degli utensili che entrano in contatto con le carcasse e i prodot
 - a. recipienti a tenuta stagna, resistenti alla corrosione e facili da pulire; o
 - b. un locale apposito per grandi quantità o per l’immagazzinamento temporaneo.
 
-<sup>4</sup> I recipienti e i locali per collocare sottoprodotti di origine animale devono poter essere chiusi a chiave per evitare qualsiasi contatto con persone non autorizzate. Questi sottoprodotti devono essere refrigerati se non vengono evacuati giornalmente. Per la loro identificazione fa stato l’allegato 4 numero 11 dell’ordinanza del 25 maggio 2011[^annex1-lvlu1-lvl1-lvl19-1] concernente l’eliminazione dei sottoprodotti di origine animale[^annex1-lvlu1-lvl1-lvl19-2].
+<sup>4</sup> I recipienti e i locali per collocare sottoprodotti di origine animale devono poter essere chiusi a chiave per evitare qualsiasi contatto con persone non autorizzate. Devono essere refrigerati se i sottoprodotti di origine animale non vengono evacuati giornalmente. Per l’identificazione dei recipienti fa stato l’allegato 4 numero 11 dell’ordinanza del 25 maggio 2011[^annex1-lvlu1-lvl1-lvl19-1] concernente i sottoprodotti di origine animale (OSOAn).
 
-<sup>5</sup> Nell’area del macello o dello stabilimento per la lavorazione della selvaggina deve essere disponibile un luogo recintato per l’immagazzinamento temporaneo dei prodotti del metabolismo (letame, contenuti del rumine, dello stomaco e dell’intestino), se essi non sono evacuati giornalmente. Questo luogo deve essere concepito in modo tale che le carcasse e i prodotti della macellazione non subiscano influssi dannosi. Deve essere provvisto di una protezione contro gli uccelli e gli animali infestanti e di un drenaggio.
+<sup>5</sup> Nell’area del macello o dello stabilimento per la lavorazione della selvaggina deve essere disponibile un luogo recintato per l’immagazzinamento temporaneo dei prodotti del metabolismo (urina, contenuti del rumine, dello stomaco e dell’intestino) e del letame, se essi non sono evacuati giornalmente. Questo luogo deve essere concepito in modo tale che le carcasse e i prodotti della macellazione non subiscano influssi dannosi. Deve essere provvisto di una protezione contro gli uccelli e gli animali infestanti e di un drenaggio.
 
-[^annex1-lvlu1-lvl1-lvl19-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^annex1-lvlu1-lvl1-lvl19-2]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex1-lvlu1-lvl1-lvl19-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 ### 1.10 Acque reflue
 
-<sup>1</sup> Allo scopo di separare le sostanze solide dalle acque reflue, i macelli e stabilimenti per la lavorazione della selvaggina[^annex1-lvlu1-lvl1-lvl110-1] devono essere dotati di un impianto per la pre-depurazione delle acque reflue (impianto di flottazione o di filtrazione) oppure di scarichi nel pavimento coperti da griglie con una grandezza massima delle maglie di 1 cm<sup>2</sup>.
+<sup>1</sup> Allo scopo di separare le sostanze solide dalle acque reflue, i macelli e stabilimenti per la lavorazione della selvaggina devono essere dotati di un impianto per la pre-depurazione delle acque reflue (impianto di flottazione o di filtrazione) oppure di scarichi nel pavimento coperti da griglie con una grandezza massima delle maglie di 1 cm<sup>2</sup>.
 
-<sup>2</sup> Le sostanze solide ritenute devono essere eliminate conformemente all’ordinanza del 25 maggio 2011 concernente l’eliminazione dei sottoprodotti di origine animale[^annex1-lvlu1-lvl1-lvl110-2].
-
-[^annex1-lvlu1-lvl1-lvl110-1]: Nuova espr. giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
-[^annex1-lvlu1-lvl1-lvl110-2]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+<sup>2</sup> Le sostanze solide ritenute devono essere eliminate secondo l’OSOAn.
 
 ### 2 Esigenze generali riguardanti le grandi aziende
 
@@ -377,9 +412,12 @@ Per la pulizia degli utensili che entrano in contatto con le carcasse e i prodot
 <sup>1</sup> Le grandi aziende devono disporre di locali separati per:
 
 - a. l’accoglienza degli animali (recinti d’attesa, stalle);
-- b. la macellazione, con spazi separati per
+- b.
+
+  la macellazione, con spazi separati per:
+
   - 1\. lo stordimento e il dissanguamento,
-  - 2\. l’eviscerazione e la tolettatura;
+  - 2\. l’eviscerazione e i lavori di macellazione;
 
 - c. la lavorazione dei prodotti della macellazione;
 - d. il confezionamento e l’imballaggio dei prodotti della macellazione laddove sia previsto;
@@ -428,13 +466,12 @@ Per la pulizia degli utensili che entrano in contatto con le carcasse e i prodot
 
 <sup>2</sup> I locali di cui al capoverso 1 lettere b, c e d possono trovarsi anche fuori dal macello o dallo stabilimento per la lavorazione della selvaggina.
 
-<sup>3</sup> Nei nuovi locali di macellazione la superficie minima al suolo deve essere di 25 m<sup>2</sup>. La distanza tra le pareti opposte deve essere di almeno 3,5 m. Ciò non si applica ai locali in cui si macellano esclusivamente volatili e conigli o si lavora la selvaggina cacciata e di allevamento.
+<sup>3</sup> Nei nuovi locali di macellazione la superficie minima al suolo deve essere di 25 m<sup>2</sup>. La distanza tra le pareti opposte deve essere di almeno 3,5 m. Ciò non si applica:
 
-### 4 Esigenze particolari riguardanti i macelli per il bestiameda macello e la selvaggina d’allevamento****
+- a. ai locali in cui si macellano esclusivamente volatili da cortile e conigli domestici o si lavora la selvaggina cacciata e di allevamento;
+- b. ai macelli mobili.
 
-[^annex1-lvlu1-lvl4-1]
-
-[^annex1-lvlu1-lvl4-1]: Nuova espressione giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Di detta mod. è stato tenuto conto in tutto il testo.
+### 4 Esigenze particolari riguardanti i macelli per il bestiameda macello e la selvaggina d’allevamento
 
 ### 4.1 Grandi aziende
 
@@ -446,7 +483,7 @@ Le rampe, i recinti d’attesa, le stalle e i corridoi devono essere provvisti d
 - b. pareti lisce rivestite con materiali solidi e impermeabili, facilmente da pulire e da disinfettare;
 - c. canali di scolo per l’evacuazione dei prodotti del metabolismo;
 - d. attrezzature per semplificare il controllo degli animali da macello e l’identificazione degli animali o di gruppi di animali;
-- e. sistema di drenaggio autonomo che non comprometta la sicurezza delle derrate alimentari.
+- e. sistema di drenaggio separato per evitare che l’acqua reflua comprometta la sicurezza delle derrate alimentari.
 
 ### 4.1.2 Ulteriori locali
 
@@ -506,14 +543,14 @@ Sono necessarie le seguenti installazioni:
 
 ### 5 Esigenze particolari riguardanti i macelli per i volatili da cortile e i ratiti
 
-<sup>1</sup> Nei grandi macelli per volatili le attività indicate di seguito devono essere svolte in un locale apposito:
+<sup>1</sup> Nella macellazione di volatili da cortile o ratiti in grandi aziende, le attività indicate di seguito devono essere svolte in un locale apposito:
 
 - a. togliere gli animali dai recipienti di trasporto, effettuare il controllo degli animali da macello e prepararli allo stordimento;
 - b. stordirli, dissanguarli, spiumarli o scuoiarli;
-- c. eviscerarli e procedere alla successiva tolettatura, compresa l’aggiunta di condimenti a carcasse intere di pollame;
+- c. eviscerarli e altre procedure di macellazione, compresa l’aggiunta di condimenti a carcasse intere;
 - d. spedire le carni.
 
-<sup>2</sup> Per le persone che trattano volatili vivi o che spiumano volatili, nelle grandi aziende sono necessari uno spogliatoio e servizi igienici separati.
+<sup>2</sup> Per le persone che trattano volatili da cortile o ratiti vivi o che spiumano volatili da cortile o ratiti, nelle grandi aziende sono necessari uno spogliatoio e servizi igienici separati.
 
 <sup>3</sup> Le carcasse devono essere convogliate da un locale all’altro, e quindi nel locale di macellazione, attraverso aperture ridotte. Altre aperture tra questi locali devono avere porte a chiusura automatica.
 
@@ -527,19 +564,70 @@ Sono necessarie le seguenti installazioni:
 
 <sup>3</sup> Tali disposizioni si applicano anche alle aziende che non dispongono di un locale riservato alla macellazione.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
-(art. 2)
+(art. 1 cpv. 2 e 12*a* lett. b)
 
-[^t-2]: Abrogato dal n. II 3 dell’O del 16 mag. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
+## Esigenze riguardanti i locali delle aziende nelle quali si eseguono macellazioni occasionali
 
-Allegato 3*[^t-3]*
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
-(art. 3)
+### 1 Dotazione dei locali
+
+I locali e le attrezzature devono essere puliti, facili da pulire e disinfettare. Gli scarichi devono essere a prova di odore.
+
+### 2 Acqua
+
+Nei locali nei quali si lavorano le carcasse e i prodotti della macellazione deve essere disponibile acqua potabile fredda e calda.
+
+### 3 Illuminazione
+
+I locali devono essere illuminati con luce naturale o dotati di un’illuminazione artificiale.
+
+### 4 Aerazione
+
+I locali devono essere ben aerati.
+
+### 5 Installazioni di refrigerazione e di congelazione
+
+Devono essere disponibili installazioni di refrigerazione e, se necessario, di congelazione sufficientemente capienti e dotate di un sistema di controllo della temperatura.
+
+### 6. Dispositivi per lavarsi le mani
+
+- 6\.1 Vicino a ogni postazione di lavoro deve essere installato un lavandino.
+- 6\.2 I lavandini devono essere provvisti di:
+- 6\.2.1 rubinetti da cui scorre acqua fredda e calda oppure acqua già temperata;
+- 6\.2.2 dispositivi per l’erogazione di prodotti di pulizia e disinfezione;
+- 6\.2.3 apparecchi igienici per asciugarsi le mani; gli asciugamani di carta devono essere impilati in un distributore.
+
+### 7 Pulizia e disinfezione degli utensili
+
+Per la pulizia degli utensili, in particolare dei coltelli che entrano in contatto con le carcasse e i prodotti della macellazione, devono essere disponibili installazioni adeguate e, per la loro disinfezione, acqua a una temperatura di almeno 82 °C oppure un sistema alternativo che produca lo stesso risultato vicino alle postazioni di lavoro.
+
+### 8 Attrezzature ed utensili
+
+- 8\.1 Le attrezzature e gli utensili devono essere dotati di superfici lisce, facili da pulire e disinfettare, laddove entrano in contatto con le carcasse e i prodotti della macellazione.
+- 8\.2 Le attrezzature e gli utensili devono essere utilizzati in modo che le carcasse e i prodotti della macellazione non entrino in diretto contatto con il suolo, le pareti, le porte o gli elementi della costruzione.
+
+### 9 Eliminazione dei sottoprodotti di origine animale
+
+- 9\.1 Per la raccolta dei sottoprodotti di origine animale devono essere disponibili recipienti a tenuta stagna, chiudibili, resistenti alla corrosione e facili da pulire. I recipienti devono essere etichettati conformemente all’allegato 4 numero 11 OSOAn[^annex2-lvlu1-lvl9-1].
+- 9\.2 I sottoprodotti di origine animale devono essere eliminati immediatamente dopo la macellazione in un punto di raccolta.
+
+[^annex2-lvlu1-lvl9-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+
+### 10 Acque reflue
+
+- 10\.1 Allo scopo di separare le sostanze solide dalle acque reflue, devono essere disponibili scarichi nel pavimento coperti da griglie con una grandezza massima delle maglie di 1 cm<sup>2</sup>.
+- 10\.2 Le sostanze solide ritenute devono essere eliminate conformemente all’OSOAn.
+
+Allegato 3[^t-3]
+
+(art. 3 cpv. 1)
 
 ## Misure d’igiene nei macelli e negli stabilimenti per la lavorazione della selvaggina
 
-[^t-3]: Aggiornato dai n. II cpv. 1 delle O del DFI del 29 ott. 2008 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) e dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-3]: Aggiornato dal n. II cpv. 1 delle O del DFI del 29 ott. 2008 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), dal n. I cpv. 2 e n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)), dal n. I dell’O del DFI del 27 mag. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Prescrizioni generali d’igiene
 
@@ -559,9 +647,7 @@ Allegato 3*[^t-3]*
 
 <sup>2</sup> Nei luoghi di lavoro è vietato mangiare, bere o fumare.
 
-<sup>3</sup> Queste prescrizioni si applicano per analogia ai visitatori dei macelli e stabilimenti per la lavorazione della selvaggina[^annex3-lvlu1-lvl1-lvl11-1].
-
-[^annex3-lvlu1-lvl1-lvl11-1]: Nuova espr. giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+<sup>3</sup> Queste prescrizioni si applicano per analogia ai visitatori dei macelli e stabilimenti per la lavorazione della selvaggina.
 
 ### 1.2 Impiego delle attrezzature e degli utensili
 
@@ -616,7 +702,7 @@ Al momento della macellazione, devono essere asportate dalla carcassa le parti c
 
 <sup>4</sup> Durante lo scuoiamento, le mammelle che secernono il latte non devono essere incise; il latte o il colostro non devono insudiciare la carcassa.
 
-<sup>5</sup> L’uscita del contenuto del tubo digerente durante l’eviscerazione deve essere evitata e l’eviscerazione deve avvenire il più rapidamente possibile dopo lo stordimento.
+<sup>5</sup> L’uscita del contenuto del tubo digerente durante l’eviscerazione deve essere evitata e l’eviscerazione deve avvenire il più rapidamente possibile, ma al massimo entro 90 minuti, dopo lo stordimento e il dissanguamento.
 
 <sup>6</sup> Se sono destinati a ulteriore trasformazione in derrate alimentari:
 
@@ -680,7 +766,7 @@ Al momento della macellazione, devono essere asportate dalla carcassa le parti c
 
 ### 3.3 Pesci
 
-<sup>1</sup> Le superfici, le attrezzature e il materiale che possono venire a contatto con i pesci devono essere fabbricati con materiale appropriato, resistente alla corrosione, liscio e facile da pulire. Le superfici devono essere rivestite di un materiale solido e non tossico.
+<sup>1</sup> Le superfici, le attrezzature e il materiale che possono venire a contatto con i pesci devono essere fabbricati con materiale appropriato, resistente alla corrosione, liscio e facile da pulire.
 
 <sup>2</sup> Appena possibile dopo il caricamento a bordo, i pesci devono essere posti al riparo dalle contaminazioni e dall’azione del sole o di qualsiasi altra fonte di calore. Se vengono lavati, l’acqua deve essere pulita.
 
@@ -698,19 +784,41 @@ Al momento della macellazione, devono essere asportate dalla carcassa le parti c
 
 <sup>2</sup> Dopo la macellazione, l’epatopancreas delle lumache deve essere rimosso e non può essere consegnato quale derrata alimentare.
 
-<sup>3</sup> Immediatamente dopo la preparazione, le cosce di rana devono essere accuratamente lavate con acqua corrente potabile e refrigerate senza indugio ad una temperatura vicina a quella del ghiaccio fondente, congelate o trasformate.
+<sup>3</sup> Immediatamente dopo la preparazione, le cosce di rana devono essere accuratamente lavate con acqua corrente potabile, refrigerate senza indugio a una temperatura vicina a quella del ghiaccio fondente (tra 0 e 2 °C) e mantenute a questa temperatura, congelate o trasformate.
 
 <sup>4</sup> I crostacei, i molluschi, gli echinodermi e i tunicati che sono forniti vivi al consumatore finale devono essere conservati a temperature che non ne alterino la vitalità e non pregiudichino l’igiene alimentare.
 
-<sup>5</sup> Per i crostacei, i molluschi, gli echinodermi e i tunicati si applicano le disposizioni del numero 3.3.
+<sup>5</sup> Per i crostacei, i molluschi, gli echinodermi e i tunicati si applicano inoltre le disposizioni del numero 3.3.
 
-Allegato 4*[^t-4]*
+Allegato 3a[^t-4]
+
+(art. 3 cpv. 2 e 12*a* lett. a)
+
+## Misure d’igiene nei locali delle aziende nelle quali si eseguono macellazioni occasionali
+
+[^t-4]: Introdotto dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+
+- 1 Le persone addette alla macellazione o che lavorano in locali in cui si trovano carcasse e prodotti della macellazione non imballati devono prestare attenzione all’igiene e alla pulizia. Gli indumenti da lavoro e di protezione devono essere adeguati, chiari e puliti.
+- 2 Devono lavarsi le mani:
+- 2\.1 prima di iniziare e di riprendere il lavoro;
+- 2\.2 ogni volta che si sono insudiciate;
+- 2\.3 dopo essere entrate in contatto con animali malati e le carcasse o le parti di questi animali.
+- 3 Nei luoghi di lavoro è vietato mangiare, bere o fumare.
+- 4 I pavimenti e le pareti non devono entrare in contatto con le carcasse e i prodotti della macellazione.
+- 5 Gli utensili devono essere conservati in un luogo pulito.
+- 6 I locali e gli utensili devono essere puliti dopo o, qualora necessario, durante la macellazione e, se del caso, disinfettati.
+- 7 Durante lo scuoiamento di conigli domestici occorre fare attenzione che il pelame e la pelle scuoiati non entrino in contatto con le carcasse degli animali scuoiati.
+- 8 Durante l’eviscerazione bisogna fare attenzione che il contenuto dello stomaco e dell’intestino non insudici la carcassa. Gli insudiciamenti visibili devono essere rimossi con un coltello e singoli peli o piume con una carta asciutta.
+- 9 Durante la refrigerazione, le carcasse non devono toccarsi. Mediante un’aerazione adeguata deve essere garantito che non si formi condensa sulla carne.
+- 10 Le carcasse devono essere trasportate in contenitori puliti, facili da pulire e disinfettare e protetti da insudiciamenti.
+
+Allegato 4[^t-5]
 
 (art. 4)
 
 ## Controllo del bestiame da macello
 
-[^t-4]: Aggiornato dall’all. 2 n. 3 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+[^t-5]: Aggiornato dall’all. 2 n. 3 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Svolgimento
 
@@ -724,14 +832,16 @@ Allegato 4*[^t-4]*
 - f. sono rispettate le prescrizioni in materia di protezione degli animali;
 - g. l’animale presenta insudiciamenti evidenti;
 - h. altre constatazioni lasciano supporre che la salute dell’uomo o dell’animale potrebbe essere pregiudicata.
-- [tab] <sup>2</sup> Oltre al controllo del bestiame da macello, il veterinario ufficiale esegue un’ispezione clinica degli animali che il personale del macello o gli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni hanno scartato.
-- [tab] <sup>3</sup> I sistemi di controllo della qualità delle aziende detentrici di animali che si riferiscono ad animali chiaramente identificabili possono essere presi in considerazione.
+
+<sup>2</sup> Oltre al controllo del bestiame da macello, il veterinario ufficiale esegue un’ispezione clinica degli animali che il personale del macello o gli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni hanno scartato.
+
+<sup>3</sup> I sistemi di controllo della qualità delle aziende detentrici di animali che si riferiscono ad animali chiaramente identificabili possono essere presi in considerazione.
 
 <sup>4</sup> Se il controllo degli animali da macello è stato eseguito nell’effettivo di provenienza e nulla è emerso dal controllo visivo nonché dal controllo del certificato di sanità (allegato 13), non sono necessari altri controlli.
 
 ### 2 Misure conseguenti al controllo degli animali da macello
 
-<sup>1</sup> A seconda del risultato, il veterinario ufficiale dispone che l’animale:
+<sup>1</sup> A seconda del risultato, è disposto che l’animale:
 
 - a. sia contrassegnato ai fini di un esame più approfondito al momento del controllo delle carni;
 - b. sia isolato a titolo precauzionale;
@@ -742,19 +852,19 @@ Allegato 4*[^t-4]*
 - g. sia abbattuto e la carcassa eliminata come sottoprodotto di origine animale; oppure
 - h. sia pulito prima della macellazione.
 
-<sup>2</sup> I cavalli possono essere macellati anche in assenza della dichiarazione sanitaria. Questa deve essere consegnata al veterinario ufficiale non appena possibile. In caso contrario, le carcasse e i prodotti della macellazione sono dichiarati non idonei al consumo. Questa prescrizione si applica anche alla macellazione di cavalli fuori dal macello.
+<sup>2</sup> Animali delle specie equina possono essere macellati anche in assenza della dichiarazione sanitaria. Questa deve essere consegnata agli organi di esecuzione ufficiali non appena possibile. In caso contrario, le carcasse e i prodotti della macellazione sono dichiarati non idonei al consumo.
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-6]
 
 (art. 5 cpv. 1 e 12 cpv. 1)
 
 ## Preparazione della carcassa per il controllo delle carni
 
-[^t-5]: Aggiornato dal n. II dell’O del DFI del 15 nov. 2006 ([RU 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)), dall’all. 2 n. 3 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), dai n. II cpv. 1 delle O del DFI del 29 ott. 2008 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) e dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-6]: Aggiornato dal n. II dell’O del DFI del 15 nov. 2006 ([RU 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)), dall’all. 2 n. 3 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), dal n. II cpv. 1 delle O del DFI del 29 ott. 2008 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) e dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
 
 ### 1 Animali della specie bovina di età superiore a otto mesi
 
-- 1\.1 La carcassa dev’essere presentata come segue:
+- **1.1** **La carcassa dev’essere presentata come segue:**
 - 1\.1.1 la carcassa: senza testa, scuoiata, completamente eviscerata, le membra sopra l’osso dello stinco (*os metacarpale* e *os metatarsale*) separate, senza coda; in mezzene, in quarti o in sesti;
 - 1\.1.2 la testa: scuoiata, la lingua isolata in modo da consentire un’accurata esplorazione della cavità boccale e retroboccale; negli animali con un peso di macellazione fino a 150 kg lo scuoiamento della testa e l’isolamento della lingua non sono necessari;
 - 1\.1.3 il muso, se isolato dalla testa;
@@ -768,7 +878,7 @@ Allegato 5*[^t-5]*
 - 1\.1.11 la mammella: non scuoiata nella zona dei seni galattofori;
 - 1\.1.12 gli organi genitali femminili.
 - 1\.1.13 le zampe, se sono destinate ad uso alimentare.
-- **1.2** **Le seguenti parti della carcassa possono essere asportate prima del co****n****trollo delle carni:**
+- **1.2** **Le seguenti parti della carcassa possono essere asportate prima del controllo delle carni:**
 - 1\.2.1 il sangue;
 - 1\.2.2 gli occhi (solo negli animali di età non superiore a 12 mesi), le palpebre e i condotti uditivi esterni;
 - 1\.2.3 la pelle;
@@ -783,7 +893,7 @@ Allegato 5*[^t-5]*
 ### 2 Animali della specie bovina di età inferiore a otto mesi
 
 - **2.1** **La carcassa dev’essere presentata come segue:**
-- 2\.1.1 la carcassa: senza testa, scuoiata, eviscerata, con o senza i reni e il tessuto adiposo, le membra sopra l’osso dello stinco (*os metacarpale* e *os met**a**tarsale*) separate, senza coda; in mezzene;
+- 2\.1.1 la carcassa: senza testa, scuoiata, eviscerata, con o senza i reni e il tessuto adiposo, le membra sopra l’osso dello stinco (*os metacarpale* e *os metatarsale*) separate, senza coda; in mezzene;
 - 2\.1.2 la testa: scuoiata o non scuoiata;
 - 2\.1.3 la coda: con i muscoli dell’attaccatura;
 - 2\.1.4 le zampe: solo se sono destinate all’uso alimentare;
@@ -794,7 +904,7 @@ Allegato 5*[^t-5]*
 - 2\.1.9 i reni: isolati dal tessuto adiposo e connettivo;
 - 2\.1.10 il rumine e lo stomaco con il mesenterio;
 - 2\.1.11 l’intestino con il mesenterio, nonché l’ano.
-- **2.2** **Le seguenti parti della carcassa possono essere asportate prima del co****n****trollo delle carni:**
+- **2.2** **Le seguenti parti della carcassa possono essere asportate prima del controllo delle carni:**
 - 2\.2.1 il sangue;
 - 2\.2.2 gli occhi, le palpebre e i condotti uditivi esterni;
 - 2\.2.3 la pelle;
@@ -806,7 +916,7 @@ Allegato 5*[^t-5]*
 ### 3 Animali della specie ovina e caprina, selvaggina d’allevamento, altro bestiame da macello (non menzionato alle cifre 1, 2, 4 e 5)
 
 - **3.1** **La carcassa dev’essere presentata come segue:**
-- 3\.1.1 la carcassa: senza testa o con la testa negli animali di età inferiore a dodici mesi (se con la testa: senza occhi, palpebre, condotti uditivi esterni), scuoiata, eviscerata, con o senza reni isolati dal tessuto adiposo e connettivo, le membra sopra l’osso dello stinco (*os metacarpale* e *os metatars**a**le*) separate, con o senza coda; non divisa o in mezzene;
+- 3\.1.1 la carcassa: senza testa o con la testa negli animali di età inferiore a dodici mesi (se con la testa: senza occhi, palpebre, condotti uditivi esterni), scuoiata, eviscerata, con o senza reni isolati dal tessuto adiposo e connettivo, le membra sopra l’osso dello stinco (*os metacarpale* e *os metatarsale*) separate, con o senza coda; non divisa o in mezzene;
 - 3\.1.2 la testa: se isolata, scuoiata o non scuoiata; con gli occhi, negli animali di età superiore a dodici mesi;
 - 3\.1.3 se del caso la coda;
 - 3\.1.4 la trachea e l’esofago, i polmoni (non gonfiati), il cuore non aperto e il diaframma;
@@ -817,7 +927,7 @@ Allegato 5*[^t-5]*
 - 3\.1.9 l’intestino con il mesenterio, nonché l’ano;
 - 3\.1.10 la mammella di animali adulti;
 - 3\.1.11 gli organi genitali femminili.
-- **3.2** **Le seguenti parti della carcassa possono essere asportate prima del co****n****trollo delle carni:**
+- **3.2** **Le seguenti parti della carcassa possono essere asportate prima del controllo delle carni:**
 - 3\.2.1 il sangue;
 - 3\.2.2 gli occhi negli animali di età inferiore a dodici mesi, le palpebre e i condotti uditivi esterni;
 - 3\.2.3 la pelle;
@@ -866,7 +976,7 @@ Allegato 5*[^t-5]*
 - 5\.1.9 l’intestino con il mesenterio, nonché l’ano;
 - 5\.1.10 la mammella;
 - 5\.1.11 gli organi genitali femminili.
-- **5.2** **Le seguenti parti della carcassa possono essere asportate prima del co****n****trollo delle carni:**
+- **5.2** **Le seguenti parti della carcassa possono essere asportate prima del controllo delle carni:**
 - 5\.2.1 il sangue;
 - 5\.2.2 gli occhi;
 - 5\.2.3 la pelle;
@@ -879,7 +989,7 @@ Allegato 5*[^t-5]*
 
 - **6.1** **La carcassa dev’essere presentata come segue:**
 - 6\.1.1 la carcassa: spiumata, rispettivamente scuoiata e aperta per esaminare le cavità e i visceri. Se i visceri devono essere asportati dalla carcassa, deve essere possibile risalire alla carcassa da cui provengono.
-- **6.2** **Le seguenti parti della carcassa possono essere asportate prima del co****n****trollo delle carni:**
+- **6.2** **Le seguenti parti della carcassa possono essere asportate prima del controllo delle carni:**
 - 6\.2.1 il sangue;
 - 6\.2.2 la testa;
 - 6\.2.3 la pelle, rispettivamente le piume;
@@ -889,273 +999,352 @@ Allegato 5*[^t-5]*
 
 - **7.1** **La carcassa dev’essere presentata come segue:**
 - 7\.1.1 la carcassa: spiumata, rispettivamente scuoiata, aperta per esaminare le cavità e i visceri. Se i visceri devono essere asportati dalla carcassa, deve essere possibile risalire alla carcassa da cui provengono. Su richiesta del veterinario ufficiale, la testa e la colonna vertebrale devono essere divise a metà longitudinalmente.
-- **7.2** **Le seguenti parti della carcassa possono essere asportate prima del co****n****trollo delle carni:**
+- **7.2** **Le seguenti parti della carcassa possono essere asportate prima del controllo delle carni:**
 - 7\.2.1 il sangue;
 - 7\.2.2 la testa, eccetto quella dei cinghiali;
 - 7\.2.3 la pelle, rispettivamente le piume;
 - 7\.2.4 le zampe;
 - 7\.2.5 i visceri della cavità toracica e addominale, sempre che sia stato effettuato un controllo secondo l’articolo 21 dell’ordinanza del 23 novembre 2005 concernente la macellazione e il controllo delle carni.
 
-Allegato 6*[^t-6]*
+Allegato 6[^t-7]
 
-(art. 6 cpv. 1 e 12 cpv. 1)
+(art. 6 cpv. 1, 12 cpv. 1 e 12*a* lett. c)
 
-## Prescrizioni per il controllo delle carni
+## Prescrizioni per il controllo delle carni e il controllo esteso delle carni
 
-[^t-6]: Aggiornato dal n. II dell’O del DFI del 15 nov. 2006 ([RU 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)), dall’all. 2 n. 3 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), dai n. II cpv. 1 delle O del DFI del 29 ott. 2008 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) e dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-7]: Nuovo testo giusta il n. II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 <table>
-<tr><th></th><th>Parti della carcassa</th><th>da effettuare:</th></tr>
-<tr><td>1</td><td colspan="2">Animali della specie bovina di età superiore a otto mesi</td></tr>
-<tr><td>1.1</td><td>testa, muso</td><td>esame visivo</td></tr>
-<tr><td></td><td>gola (cavità boccale e retroboccale)</td><td>esame visivo</td></tr>
-<tr><td></td><td>linfonodi retrofaringei, sottomascellari e parotidei *(Lnn. retropharyngeales, ma**n**dibulares et parotidei)*</td><td>esame visivo, incisione</td></tr>
-<tr><td></td><td>masseteri esterni *(M. masseter)*</td><td>esame visivo, due estese incisioni parallele alla mandibola</td></tr>
-<tr><td></td><td>masseteri interni *(M. pterygoideus lat. et med.)*</td><td>esame visivo, incisione lungo un unico piano</td></tr>
-<tr><td></td><td>lingua</td><td>separazione, esame visivo, palpazione</td></tr>
-<tr><td></td><td>anello linfatico della laringe, amigdale</td><td>esame visivo, asportazione</td></tr>
-<tr><td></td><td></td><td>Se la testa di animali con un peso di macellazione fino a 150 kg non viene scuoiata, ma è destinata a scottatura e depilazione, essa deve essere oggetto di un accurato esame visivo. Si può prescindere da ulteriori controlli se nell’esame della carcassa e delle altre parti non sono state riscontrate alterazioni patologiche né la presenza di cisticerchi.</td></tr>
-<tr><td>1.2</td><td>polmoni</td><td>esame visivo, palpazione, se destinati all’uso alimentare: incisione longitudinale dei rami principali dei bronchi, incisione trasversale dei rami principali dei bronchi nel terzo posteriore dei polmoni;</td></tr>
-<tr><td></td><td>linfonodi bronchiali *(Lnn. bifurcationis, Lnn. eparteriales)*</td><td>esame visivo, incisione</td></tr>
-<tr><td></td><td>linfonodi mediastinici *(Lnn. mediastinales)*</td><td>esame visivo, incisione</td></tr>
-<tr><td></td><td>trachea</td><td>esame visivo; se il polmone è destinato all’uso alimentare: incisione longitudinale</td></tr>
-<tr><td></td><td>esofago</td><td>esame visivo</td></tr>
-<tr><td>1.3</td><td>pericardio</td><td>apertura, esame visivo</td></tr>
-<tr><td></td><td>cuore e sangue</td><td>esame visivo, estese incisioni longitudinali del cuore, apertura di entrambi i ventricoli</td></tr>
-<tr><td>1.4</td><td>diaframma</td><td>esame visivo</td></tr>
-<tr><td>1.5</td><td>fegato</td><td>esame visivo, palpazione, incisione sulla faccia gastrica *(Facies visceralis)* e alla base del lobo caudato *(Processus caudatus)* per svuotare i dotti biliari; negli animali con un peso di macellazione fino a 150 kg non è necessario incidere il fegato</td></tr>
-<tr><td></td><td>linfonodi periportali (*Lnn. portales*)</td><td>esame visivo, incisione</td></tr>
-<tr><td>1.6</td><td>stomaco e intestino</td><td>esame visivo</td></tr>
-<tr><td></td><td>mesenterio</td><td>esame visivo</td></tr>
-<tr><td></td><td>linfonodi gastrici e mesenterici *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td>esame visivo, palpazione e, se del caso, incisione</td></tr>
-<tr><td>1.7</td><td>milza</td><td>esame visivo</td></tr>
-<tr><td>1.8</td><td>reni</td><td>esame visivo</td></tr>
-<tr><td>1.9</td><td>pleura</td><td>esame visivo</td></tr>
-<tr><td></td><td>peritoneo</td><td>esame visivo</td></tr>
-<tr><td>1.10</td><td>organi genitali (ad eccezione del pene, se già scartato)</td><td>esame visivo</td></tr>
-<tr><td>1.11</td><td>mammella e secreto nelle vacche:</td><td>se la mammella è destinata all’uso alimentare: esame visivo, ciascuna metà della mammella deve essere aperta con un’incisione lunga e profonda fino alle cavità lattifere (*Sinus lactif**e**res*)</td></tr>
-<tr><td></td><td>linfonodi della mammella *(Lnn. supr**a**mammari)* nelle vacche:</td><td>se la mammella è destinata all’uso alimentare: esame visivo, incisione</td></tr>
-<tr><td>1.12</td><td>carne muscolare, tessuto adiposo e connettivo</td><td>esame visivo</td></tr>
-<tr><td>1.13</td><td>ossa, articolazioni, guaine tendinee</td><td>esame visivo</td></tr>
-<tr><td></td><td>superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
-<tr><td>1.14</td><td>superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
-<tr><td>1.15</td><td>zampe</td><td>se destinate ad uso alimentare: esame visivo</td></tr>
-<tr><td>2</td><td colspan="2">Animali della specie bovina di età inferiore a otto mesi</td></tr>
-<tr><td>2.1</td><td>testa</td><td>esame visivo</td></tr>
-<tr><td></td><td>gola (cavità boccale e retroboccale)</td><td>esame visivo</td></tr>
-<tr><td></td><td>linfonodi retrofaringei *(Lnn. retropharyngeales)*</td><td>esame visivo, incisione</td></tr>
-<tr><td></td><td>lingua</td><td>esame visivo, palpazione</td></tr>
-<tr><td></td><td>anello linfatico della faringe, amigdale</td><td>esame visivo, asportazione</td></tr>
-<tr><td></td><td></td><td>Se per la testa non è previsto lo scuoiamento bensì la scottatura e la depilazione, l’esame visivo deve essere accurato. Si può prescindere da ulteriori controlli se nell’esame della carcassa e delle altre parti non sono state riscontrate alterazioni patologiche.</td></tr>
-<tr><td>2.2</td><td>polmoni</td><td>esame visivo, palpazione se destinati all’uso alimentare: incisione longitudinale dei rami principali dei bronchi, incisione trasversale dei rami principali dei bronchi nel terzo posteriore dei polmoni;</td></tr>
-<tr><td></td><td>linfonodi bronchiali *(Lnn. bifurcationis, Lnn. eparteriales)*</td><td>esame visivo, incisione</td></tr>
-<tr><td></td><td>linfonodi mediastinici *(Lnn. mediastinales)*</td><td>esame visivo, incisione</td></tr>
-<tr><td></td><td>trachea</td><td>esame visivo, se il polmone è destinato all’uso alimentare: incisione longitudinale</td></tr>
-<tr><td></td><td>esofago</td><td>esame visivo</td></tr>
-<tr><td>2.3</td><td>pericardio</td><td>apertura, esame visivo</td></tr>
-<tr><td></td><td>cuore e sangue</td><td>esame visivo, incisioni longitudinali del cuore, apertura di entrambi i ventricoli</td></tr>
-<tr><td>2.4</td><td>diaframma</td><td>esame visivo</td></tr>
-<tr><td>2.5</td><td>fegato</td><td>esame visivo, palpazione e, se del caso, incisione</td></tr>
-<tr><td></td><td>linfonodi periportali (*Lnn. portales*)</td><td>esame visivo, se del caso, incisione</td></tr>
-<tr><td>2.6</td><td>stomaco e intestino</td><td>esame visivo</td></tr>
-<tr><td></td><td>mesenterio</td><td>esame visivo</td></tr>
-<tr><td></td><td>linfonodi gastrici e mesenterici *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td>esame visivo, palpazione e, se del caso, incisione</td></tr>
-<tr><td>2.7</td><td>milza</td><td>esame visivo, se del caso, palpazione</td></tr>
-<tr><td>2.8</td><td>reni</td><td>esame visivo, se del caso, incisione dei reni e dei linfonodi renali *(Lnn. renales)*;</td></tr>
-<tr><td>2.9</td><td>pleura</td><td>esame visivo</td></tr>
-<tr><td></td><td>peritoneo</td><td>esame visivo</td></tr>
-<tr><td>2.10</td><td>regione ombelicale</td><td>esame visivo, palpazione e, in caso di dubbio, incisione</td></tr>
-<tr><td>2.11</td><td>carne muscolare, tessuto adiposo e connettivo</td><td>esame visivo</td></tr>
-<tr><td>2.12</td><td>ossa, articolazioni, guaine tendinee</td><td>esame visivo</td></tr>
-<tr><td>2.13</td><td>articolazioni tarsali</td><td>esame visivo, in caso di sospetto, incisione</td></tr>
-<tr><td>2.14</td><td>superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
-<tr><td>2.15</td><td>zampe</td><td>se destinate ad uso alimentare: esame visivo</td></tr>
-<tr><td>3</td><td colspan="2">Animali delle specie ovina e caprina, selvaggina d’allevamento, altro bestiame da macello (non menzionato alle cifre 1, 2, 4 e 5)</td></tr>
-<tr><td>3.1</td><td>testa</td><td>esame visivo (salvo se la testa – compresi la lingua e il cervello – è esclusa dall’uso alimentare)</td></tr>
-<tr><td>3.2</td><td>polmoni</td><td>esame visivo, palpazione, incisione</td></tr>
-<tr><td></td><td>linfonodi bronchiali *(Lnn. bifurcationis, Lnn. eparteriales)*</td><td>esame visivo</td></tr>
-<tr><td></td><td>trachea</td><td>esame visivo</td></tr>
-<tr><td></td><td>esofago</td><td>esame visivo</td></tr>
-<tr><td>3.3</td><td>pericardio</td><td>esame visivo, in caso di dubbio, incisione</td></tr>
-<tr><td></td><td>cuore e sangue</td><td>esame visivo, in caso di dubbio, incisione del cuore</td></tr>
-<tr><td>3.4</td><td>diaframma</td><td>esame visivo</td></tr>
-<tr><td>3.5</td><td>fegato</td><td>esame visivo, palpazione, incisione sulla faccia gastrica *(Lobus principalis)* per esaminare i dotti biliari</td></tr>
-<tr><td></td><td>linfonodi periportali (*Lnn. portales*)</td><td>esame visivo, palpazione</td></tr>
-<tr><td>3.6</td><td>stomaco e intestino</td><td>esame visivo</td></tr>
-<tr><td></td><td>mesenterio</td><td>esame visivo</td></tr>
-<tr><td></td><td>linfonodi gastrici e mesenterici *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td>esame visivo</td></tr>
-<tr><td>3.7</td><td>milza</td><td>esame visivo</td></tr>
-<tr><td>3.8</td><td>reni</td><td>esame visivo</td></tr>
-<tr><td>3.9</td><td>pleura</td><td>esame visivo</td></tr>
-<tr><td></td><td>peritoneo</td><td>esame visivo</td></tr>
-<tr><td>3.10</td><td>organi genitali (ad eccezione del pene, se già scartato)</td><td>esame visivo</td></tr>
-<tr><td>3.11</td><td>la mammella e relativi linfonodi di animali adulti</td><td>se la mammella è destinata all’uso alimentare: esame visivo</td></tr>
-<tr><td>3.12</td><td>regione ombelicale nei giovani animali</td><td>esame visivo, palpazione</td></tr>
-<tr><td>3.13</td><td>carne muscolare, tessuto adiposo e connettivo</td><td>esame visivo</td></tr>
-<tr><td>3.14</td><td>ossa, articolazioni, guaine tendinee</td><td>esame visivo</td></tr>
-<tr><td></td><td>superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
-<tr><td>4</td><td colspan="2">Animali della specie suina</td></tr>
-<tr><td>4.1</td><td>testa</td><td>esame visivo</td></tr>
-<tr><td></td><td>gola</td><td>esame visivo</td></tr>
-<tr><td></td><td>linfonodi sottomascellari *(Lnn. mandib**u**lares)*</td><td>incisione, esame visivo</td></tr>
-<tr><td>4.2</td><td>polmoni</td><td>esame visivo, palpazione; se destinati all’uso alimentare: incisione longitudinale dei rami principali dei bronchi, incisione trasversale dei rami principali dei bronchi nel terzo posteriore dei polmoni</td></tr>
-<tr><td></td><td>linfonodi bronchiali *(Lnn. bifurcationis, Lnn. eparteriales)*</td><td>esame visivo, palpazione</td></tr>
-<tr><td></td><td>linfonodi mediastinici *(Lnn. mediastin**a**les)*</td><td>esame visivo, palpazione</td></tr>
-<tr><td></td><td>trachea</td><td>esame visivo</td></tr>
-<tr><td></td><td>esofago</td><td>esame visivo</td></tr>
-<tr><td>4.3</td><td>pericardio</td><td>apertura, esame visivo</td></tr>
-<tr><td></td><td>cuore e sangue</td><td>esame visivo, incisioni longitudinali del cuore, apertura di entrambi i ventricoli</td></tr>
-<tr><td>4.4</td><td>diaframma</td><td>esame visivo</td></tr>
-<tr><td>4.5</td><td>Fegato</td><td>esame visivo, palpazione</td></tr>
-<tr><td></td><td>linfonodi periportali e pancreatici (*Lnn. portales*)</td><td>esame visivo, palpazione</td></tr>
-<tr><td>4.6</td><td>stomaco e intestino</td><td>esame visivo</td></tr>
-<tr><td></td><td>mesenterio (*Mesenterium*)</td><td>esame visivo</td></tr>
-<tr><td></td><td>linfonodi gastrici e mesenterici *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td>esame visivo, palpazione</td></tr>
-<tr><td>4.7</td><td>Milza</td><td>esame visivo</td></tr>
-<tr><td>4.8</td><td>Reni</td><td>esame visivo</td></tr>
-<tr><td>4.9</td><td>pleura</td><td>esame visivo</td></tr>
-<tr><td></td><td>peritoneo</td><td>esame visivo</td></tr>
-<tr><td>4.10</td><td>organi genitali (ad eccezione del pene, se già scartato)</td><td>esame visivo</td></tr>
-<tr><td>4.11</td><td>mammelle e relativi linfonodi *(Lnn. supramammarii)*</td><td>esame visivo; nelle scrofe madri, se le mammelle sono destinate ad uso alimentare: esame visivo e incisione dei linfonodi</td></tr>
-<tr><td>4.12</td><td>regione ombelicale nel porcellino</td><td>esame visivo, palpazione</td></tr>
-<tr><td>4.13</td><td>carne muscolare, tessuto adiposo e connettivo</td><td>esame visivo</td></tr>
-<tr><td>4.14</td><td>muscolatura</td><td>prelievo di campioni per l’esame trichinoscopico</td></tr>
-<tr><td>4.15</td><td>ossa, articolazioni, guaine tendinee</td><td>esame visivo</td></tr>
-<tr><td></td><td>superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
-<tr><td>4.16</td><td>cotenna</td><td>esame visivo</td></tr>
-<tr><td>5</td><td colspan="2">Animali della specie equina</td></tr>
-<tr><td>5.1</td><td>testa</td><td>esame visivo</td></tr>
-<tr><td></td><td>gola (cavità boccale e retroboccale)*,* se del caso, laringe</td><td>esame visivo</td></tr>
-<tr><td></td><td>mucose delle cavità nasali e delle loro ramificazioni</td><td>se del caso, esame visivo dopo ablazione del setto nasale</td></tr>
-<tr><td></td><td>lingua</td><td>separazione, esame visivo, palpazione</td></tr>
-<tr><td></td><td>linfonodi sottomascellari, retrofaringei e parotidei *(Lnn. mandibulares, retr**o**pharyngeales et parotidei)*</td><td>esame visivo, palpazione</td></tr>
-<tr><td></td><td>amigdale</td><td>asportazione</td></tr>
-<tr><td>5.2</td><td>polmoni</td><td>esame visivo, palpazione, se destinati all’uso alimentare: incisione longitudinale dei rami principali dei bronchi, incisione trasversale dei rami principali dei bronchi nel terzo posteriore dei polmoni</td></tr>
-<tr><td></td><td>linfonodi bronchiali *(Lnn. bifurcationis, Lnn. bronchiales)*</td><td>esame visivo, palpazione</td></tr>
-<tr><td></td><td>trachea</td><td>esame visivo</td></tr>
-<tr><td></td><td>esofago</td><td>esame visivo</td></tr>
-<tr><td>5.3</td><td>pericardio</td><td>apertura, esame visivo</td></tr>
-<tr><td></td><td>cuore e sangue</td><td>esame visivo, incisioni longitudinali del cuore, apertura di entrambi i ventricoli</td></tr>
-<tr><td>5.4</td><td>diaframma</td><td>esame visivo</td></tr>
-<tr><td>5.5</td><td>fegato</td><td>esame visivo, palpazione</td></tr>
-<tr><td></td><td>linfonodi periportali e pancreatici *(Lnn. portales)*</td><td>esame visivo</td></tr>
-<tr><td>5.6</td><td>stomaco e intestino</td><td>esame visivo</td></tr>
-<tr><td></td><td>mesenterio</td><td>esame visivo</td></tr>
-<tr><td></td><td>linfonodi gastrici e mesenterici *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td>esame visivo</td></tr>
-<tr><td>5.7</td><td>milza</td><td>esame visivo</td></tr>
-<tr><td>5.8</td><td>reni</td><td>esame visivo</td></tr>
-<tr><td>5.9</td><td>pleura</td><td>esame visivo</td></tr>
-<tr><td></td><td>peritoneo</td><td>esame visivo</td></tr>
-<tr><td>5.10</td><td>organi genitali (ad eccezione del pene, se già scartato)</td><td>esame visivo</td></tr>
-<tr><td>5.11</td><td>mammelle e relativi linfonodi *(Lnn. supramammarii)*</td><td>esame visivo</td></tr>
-<tr><td>5.12</td><td>regione ombelicale nei puledri</td><td>esame visivo, palpazione</td></tr>
-<tr><td>5.13</td><td>carne muscolare, tessuto adiposo e connettivo</td><td>esame visivo</td></tr>
-<tr><td>5.14</td><td>muscolatura</td><td>prelievo di campioni per l’esame trichinoscopico</td></tr>
-<tr><td>5.15</td><td>ossa, articolazioni, guaine tendinee</td><td>esame visivo</td></tr>
-<tr><td></td><td>superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
-<tr><td>5.16</td><td>inoltre, per la ricerca della melanosi e dei melanomi nei cavalli grigi e bianchi:</td><td></td></tr>
-<tr><td></td><td>reni (devono essere isolati)</td><td>incisione attraverso l’intero organo</td></tr>
-<tr><td></td><td>muscolatura della spalla</td><td>esame visivo, sotto la cartilagine scapolare previo distacco del legamento di una spalla</td></tr>
-<tr><td></td><td>linfonodi della spalla *(Lnn. subrhombo**i**dei)*</td><td>esame visivo</td></tr>
-<tr><td>6</td><td colspan="2">Volatili da cortile, conigli selvatici</td></tr>
-<tr><td>6.1</td><td>tutte le carcasse e parti di esse</td><td>esame visivo</td></tr>
-<tr><td>6.2</td><td>visceri e cavità di un campione rappresentativo di animali</td><td>controllo quotidiano da parte di un veterinario ufficiale</td></tr>
-<tr><td>6.3</td><td>per ciascuna partita della stessa origine, ispezione approfondita di un campione casuale di parti di volatili o di volatili interi dichiarati non idonei al consumo in seguito al controllo delle carni</td><td>controllo approfondito da parte di un veterinario ufficiale</td></tr>
-<tr><td>6.4</td><td></td><td>controlli supplementari da parte del veterinario ufficiale se esiste motivo di sospettare che le carni dei volatili in causa potrebbero non essere idonee al consumo</td></tr>
-<tr><td>7</td><td colspan="2">Selvaggina cacciata</td></tr>
-<tr><td></td><td colspan="2">Il controllo si basa sul certificato del cacciatore di cui all’allegato 14 numeri 1 e 2 e in caso di presentazione incompleta anche sui dati forniti dalla persona esperta di cui all’allegato 14 numero 3.</td></tr>
-<tr><td></td><td colspan="2">Lepri e selvaggina da penna sono controllati a campione se non sussistono sospetti particolari.</td></tr>
-<tr><td>7.1</td><td>carcasse, cavità e, se necessario, organi</td><td>esame visivo per individuare le anomalie di cui all’allegato 7 numero 3.1 o altre anomalie organolettiche; in presenza di un sospetto fondato è ordinato un esame delle sostanze estranee e tutta la selvaggina avente la stessa origine è sequestrata sino a quando sono noti i risultati di laboratorio</td></tr>
-<tr><td>7.2</td><td>organi</td><td>esame visivo e, se necessario, palpazione</td></tr>
-<tr><td>7.3</td><td>muscolatura</td><td>prelievo di campioni per l’esame trichinoscopico su animali delle specie equina e suina, orsi e nutrie</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Parti della carcassa</th><th>da effettuare:</th></tr>
+<tr><td colspan="2">1</td><td colspan="3">Animali della specie bovina di età superiore a otto mesi</td></tr>
+<tr><td colspan="2">1.1</td><td colspan="3">Controllo delle carni</td></tr>
+<tr><td colspan="2">1.1.1</td><td colspan="2">testa, muso</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">gola</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi retrofaringei, sottomascellari e parotidei *(Lnn. retropharyngeales,* *mandibulares* *et parotidei)*</td><td>esame visivo, incisione</td></tr>
+<tr><td colspan="2"></td><td colspan="2">masseteri esterni *(M. masseter)*</td><td>esame visivo, due estese incisioni parallele alla mandibola</td></tr>
+<tr><td colspan="2"></td><td colspan="2">masseteri interni *(M. pterygoideus)*</td><td>esame visivo, incisione lungo un unico piano</td></tr>
+<tr><td colspan="2"></td><td colspan="2">cavità boccale e faringe</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">lingua</td><td>separazione, esame visivo</td></tr>
+<tr><td colspan="2">1.1.2</td><td colspan="2">polmoni</td><td>esame visivo, palpazione</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi mediastinici (*Lnn. mediastinales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">trachea</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">esofago</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.3</td><td colspan="2">pericardio</td><td>apertura, esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">cuore</td><td>esame visivo, estese incisioni longitudinali, apertura di entrambi i ventricoli e taglio del setto interventricolare</td></tr>
+<tr><td colspan="2">1.1.4</td><td colspan="2">diaframma</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.5</td><td colspan="2">fegato</td><td>esame visivo, palpazione, incisione sulla faccia gastrica (*Facies visceralis*) e alla base del lobo caudato (*Processus caudatus*) per l’esame dei dotti biliari</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi periportali (*Lnn. portales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.6</td><td colspan="2">stomaco e intestino</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">mesenterio</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi gastrici e mesenterici (*Lnn. gastrici*, *Lnn. mesenterici craniales et caudales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.7</td><td colspan="2">milza</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.8</td><td colspan="2">reni</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.9</td><td colspan="2">pleura</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">peritoneo</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.10</td><td colspan="2">organi genitali</td><td>esame visivo (ad eccezione del pene, se già asportato)</td></tr>
+<tr><td colspan="2">1.1.11</td><td colspan="2">mammella nelle vacche destinata all’uso alimentare</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi della mammella *(Lnn. supramammarii)* nelle vacche</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.12</td><td colspan="2">carne muscolare, tessuto adiposo e connettivo</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.13</td><td colspan="2">ossa, articolazioni, guaine tendinee</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.14</td><td colspan="2">superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.1.15</td><td colspan="2">zampe destinate all’uso alimentare</td><td>esame visivo</td></tr>
+<tr><td colspan="2">1.2</td><td colspan="3">Controllo esteso delle carni</td></tr>
+<tr><td colspan="2">1.2.1</td><td>lingua</td><td colspan="2">palpazione</td></tr>
+<tr><td colspan="2">1.2.2</td><td>polmoni destinati all’uso alimentare</td><td colspan="2">incisione trasversale dei rami principali dei bronchi nel terzo posteriore dei polmoni</td></tr>
+<tr><td colspan="2"></td><td>linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>linfonodi mediastinici (*Lnn. mediastinales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>trachea</td><td colspan="2">apertura della trachea e dei rami principali dei bronchi mediante incisione longitudinale</td></tr>
+<tr><td colspan="2">1.2.3</td><td>linfonodi gastrici e mesenterici (*Lnn. gastrici*, *Lnn. mesenterici craniales et caudales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">1.2.4</td><td>milza</td><td colspan="2">palpazione</td></tr>
+<tr><td colspan="2">1.2.5</td><td>reni</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">1.2.6</td><td>mammella nelle vacche</td><td colspan="2">palpazione, incisione; apertura di ciascuna metà della mammella mediante incisione lunga e profonda fino alle cavità lattifere</td></tr>
+<tr><td colspan="2"></td><td>linfonodi della mammella (*Lnn. supramammarii*) nelle vacche destinata all’uso alimentare</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">1.2.7</td><td>articolazioni</td><td colspan="2">palpazione e, se del caso, apertura e esame del liquido sinoviale</td></tr>
+<tr><td colspan="2">2</td><td colspan="3">Animali della specie bovina di età inferiore a otto mesi</td></tr>
+<tr><td colspan="2">2.1</td><td colspan="3">Controllo delle carni</td></tr>
+<tr><td colspan="2">2.1.1</td><td colspan="2">testa</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">gola</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi retrofaringei *(Lnn. retropharyngeales)*</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">cavità boccale e faringe</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.2</td><td colspan="2">polmoni</td><td>esame visivo, palpazione</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi mediastinici *(Lnn. mediastinales)*</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">trachea</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">esofago</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.3</td><td colspan="2">pericardio</td><td>apertura, esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">cuore</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.4</td><td colspan="2">diaframma</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.5</td><td colspan="2">fegato</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi periportali (*Lnn. portales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.6</td><td colspan="2">stomaco e intestino</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">mesenterio</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi gastrici e mesenterici (*Lnn. gastrici*, *Lnn. mesenterici craniales et caudales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.7</td><td colspan="2">milza</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.8</td><td colspan="2">reni</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.9</td><td colspan="2">pleura</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">peritoneo</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.10</td><td colspan="2">regione ombelicale</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.11</td><td colspan="2">carne muscolare, tessuto adiposo e connettivo</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.12</td><td colspan="2">ossa, articolazioni, guaine tendinee</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.13</td><td colspan="2">superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.1.14</td><td colspan="2">zampe destinate all’uso alimentare</td><td>esame visivo</td></tr>
+<tr><td colspan="2">2.2</td><td colspan="3">Controllo esteso delle carni</td></tr>
+<tr><td colspan="2">2.2.1</td><td>linfonodi retrofaringei (*Lnn. retropharyngeales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>masseteri interni (*M. pterygoideus*)</td><td colspan="2">esame visivo, incisione lungo un unico piano</td></tr>
+<tr><td colspan="2"></td><td>lingua</td><td colspan="2">controllo visivo, palpazione</td></tr>
+<tr><td colspan="2">2.2.2</td><td>polmoni destinati all’uso alimentare</td><td colspan="2">incisione trasversale dei rami principali dei bronchi nel terzo posteriore dei polmoni</td></tr>
+<tr><td colspan="2"></td><td>linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>linfonodi mediastinici (*Lnn. mediastinales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>trachea</td><td colspan="2">apertura mediante incisione longitudinale della trachea e dei rami principali dei bronchi</td></tr>
+<tr><td colspan="2">2.2.3</td><td>cuore</td><td colspan="2">incisioni longitudinali del cuore, apertura di entrambi i ventricoli e taglio del setto interventricolare</td></tr>
+<tr><td colspan="2">2.2.4</td><td>fegato</td><td colspan="2">palpazione, incisione</td></tr>
+<tr><td colspan="2"></td><td>linfonodi gastrici e mesenterici (*Lnn. gastrici*, *Lnn. mesenterici craniales et caudales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">2.2.5</td><td>milza</td><td colspan="2">palpazione</td></tr>
+<tr><td colspan="2">2.2.6</td><td>reni</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">2.2.7</td><td>regione ombelicale</td><td colspan="2">palpazione e, se del caso, incisione</td></tr>
+<tr><td colspan="2">2.2.8</td><td>articolazioni</td><td colspan="2">palpazione e, se del caso, apertura ed esame del liquido sinoviale</td></tr>
+<tr><td colspan="2">3</td><td colspan="3">Animali della specie suina</td></tr>
+<tr><td colspan="2">3.1</td><td colspan="3">Controllo delle carni</td></tr>
+<tr><td colspan="2">3.1.1</td><td>testa</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>gola</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>cavità boccale, faringe e lingua</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.2</td><td>polmoni</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>trachea</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>esofago</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.3</td><td>pericardio</td><td colspan="2">apertura, esame visivo</td></tr>
+<tr><td colspan="2"></td><td>cuore</td><td colspan="2">esame visivo, incisioni longitudinali, apertura di entrambi i ventricoli e taglio del setto interventricolare</td></tr>
+<tr><td colspan="2">3.1.4</td><td>diaframma</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.5</td><td>fegato</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>linfonodi periportali (*Lnn. portales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.6</td><td>stomaco e intestino</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>mesenterio</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>linfonodi gastrici e mesenterici (*Lnn. gastrici*, *Lnn. mesenterici craniales et caudales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.7</td><td>milza</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.8</td><td>reni</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.9</td><td>pleura</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>peritoneo</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.10</td><td>organi genitali</td><td colspan="2">esame visivo (ad eccezione del pene, se già asportato)</td></tr>
+<tr><td colspan="2">3.1.11</td><td>mammelle e relativi linfonodi (*Lnn. supramammarii*) nelle scrofe madri, se le mammelle sono destinate all’uso alimentare</td><td colspan="2">esame visivo e incisione dei linfonodi</td></tr>
+<tr><td colspan="2">3.1.12</td><td>regione ombelicale nei porcellini</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.13</td><td>carne muscolare, tessuto adiposo e connettivo</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.14</td><td>muscolatura</td><td colspan="2">se previsto, prelievo di campioni per l’esame trichinoscopico</td></tr>
+<tr><td colspan="2">3.1.15</td><td>ossa, articolazioni, guaine tendinee</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>superficie della sezione della colonna vertebrale</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.1.16</td><td>cotenna</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">3.2</td><td colspan="3">Controllo esteso delle carni</td></tr>
+<tr><td colspan="2">3.2.1</td><td colspan="2">linfonodi sottomascellari *(Lnn. mandibulares)*</td><td>esame visivo, incisione</td></tr>
+<tr><td colspan="2">3.2.2</td><td colspan="2">polmoni destinati all’uso alimentare</td><td>palpazione, incisione trasversale dei rami principali dei bronchi nel terzo posteriore dei polmoni</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi mediastinici (*Lnn. mediastinales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">trachea</td><td>apertura mediante incisione longitudinale della trachea e dei rami principali dei bronchi</td></tr>
+<tr><td colspan="2">3.2.3</td><td>fegato</td><td colspan="2">palpazione</td></tr>
+<tr><td colspan="2">3.2.4</td><td>milza</td><td colspan="2">palpazione</td></tr>
+<tr><td colspan="2">3.2.5</td><td>reni</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">3.2.6</td><td>regione ombelicale nei porcellini</td><td colspan="2">palpazione, e, se del caso, incisione</td></tr>
+<tr><td colspan="2">3.2.7</td><td>articolazioni</td><td colspan="2">palpazione e, se del caso, apertura ed esame del liquido sinoviale</td></tr>
+<tr><td colspan="2">4</td><td colspan="3">Animali della specie equina</td></tr>
+<tr><td colspan="2">4.1</td><td colspan="3">Controllo delle carni</td></tr>
+<tr><td colspan="2">4.1.1</td><td>testa</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>gola</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>cavità boccale, faringe e lingua</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">4.1.2</td><td>polmoni</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. bronchiales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>linfonodi mediastinici (*Lnn. mediastinales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>trachea</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>esofago</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">4.1.3</td><td>pericardio</td><td colspan="2">apertura, esame visivo</td></tr>
+<tr><td colspan="2"></td><td>cuore</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">4.1.4</td><td colspan="2">diaframma</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.5</td><td colspan="2">fegato</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi periportali (*Lnn. portales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.6</td><td colspan="2">stomaco e intestino</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">mesenterio</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi gastrici e mesenterici (*Lnn. gastrici*, *Lnn. mesenterici craniales et caudales*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.7</td><td colspan="2">milza</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.8</td><td colspan="2">reni</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.9</td><td colspan="2">pleura</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">peritoneo</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.10</td><td colspan="2">organi genitali</td><td>esame visivo (ad eccezione del pene, se già asportato)</td></tr>
+<tr><td colspan="2">4.1.11</td><td>mammella e linfonodi della mammella (*Lnn. supramammarii*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">4.1.12</td><td colspan="2">regione ombelicale nei puledri</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.13</td><td colspan="2">carne muscolare, tessuto adiposo e connettivo</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.14</td><td colspan="2">muscolatura</td><td>se previsto, prelievo di campioni per l’esame trichinoscopico</td></tr>
+<tr><td colspan="2">4.1.15</td><td colspan="2">ossa, articolazioni, guaine tendinee</td><td>esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">superficie della sezione della colonna vertebrale</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.1.16</td><td colspan="2">inoltre, per la ricerca della melanosi e dei melanomi nei cavalli grigi e bianchi:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">muscolatura della spalla</td><td>esame visivo, sotto la cartilagine scapolare previo distacco del legamento di una spalla</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi della spalla (*Lnn. subrhomboidei*)</td><td>esame visivo</td></tr>
+<tr><td colspan="2">4.2</td><td colspan="3">Controllo esteso delle carni</td></tr>
+<tr><td colspan="2">4.2.1</td><td>linfonodi retrofaringei, sottomascellari e parotidei (*Lnn. retropharyngeales,* *mandibulares* *et parotidei*)</td><td colspan="2">esame visivo, incisione</td></tr>
+<tr><td colspan="2">4.2.2</td><td>polmoni destinati all’uso alimentare</td><td colspan="2">palpazione, incisione trasversale dei rami principali dei bronchi nel terzo posteriore dei polmoni</td></tr>
+<tr><td colspan="2"></td><td>linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. bronchiales*) e linfonodi mediastinici (*Lnn. mediastinales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>trachea, se i polmoni sono destinati all’uso alimentare</td><td colspan="2">incisione longitudinale della trachea e dei rami principali dei bronchi</td></tr>
+<tr><td colspan="2">4.2.3</td><td>cuore</td><td colspan="2">incisioni longitudinali del cuore, apertura di entrambi i ventricoli e taglio del setto interventricolare</td></tr>
+<tr><td colspan="2">4.2.4</td><td>fegato</td><td colspan="2">palpazione, incisione</td></tr>
+<tr><td colspan="2"></td><td>linfonodi periportali (*Lnn. portales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>linfonodi gastrici e mesenterici (*Lnn. gastrici*, *Lnn. mesenterici craniales et caudales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">4.2.5</td><td>milza</td><td colspan="2">palpazione</td></tr>
+<tr><td colspan="2">4.2.6</td><td>reni negli animali grigi e bianchi</td><td colspan="2">incisione attraverso l’intero organo</td></tr>
+<tr><td colspan="2">4.2.7</td><td>regione ombelicale nei puledri</td><td colspan="2">palpazione e, se del caso, incisione</td></tr>
+<tr><td colspan="2">4.2.8</td><td>articolazioni</td><td colspan="2">palpazione e, se del caso, apertura ed esame del liquido sinoviale</td></tr>
+<tr><td colspan="2">5</td><td colspan="4">Animali delle specie ovina e caprina, altro bestiame da macello e selvaggina d’allevamento</td></tr>
+<tr><td colspan="2">5.1</td><td colspan="3">Controllo delle carni</td></tr>
+<tr><td colspan="2">5.1.1</td><td colspan="2">testa destinata all’uso alimentare</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>cavità boccale, faringe e lingua</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td>linfonodi parotidei (*Lnn. parotidei*) e linfonodi retrofaringei (*Lnn. retropharyngeales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.2</td><td colspan="2">polmoni</td><td colspan="2">esame visivo, palpazione</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi mediastinici (*Lnn. mediastinales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">trachea</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">esofago</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.3</td><td colspan="2">pericardio</td><td colspan="2">apertura, esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">cuore</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.4</td><td colspan="2">diaframma</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.5</td><td colspan="2">fegato</td><td colspan="2">esame visivo, palpazione, incisione sulla faccia gastrica (*Lobus principalis*) del fegato per l’esame dei dotti biliari</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi periportali (*Lnn. portales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.6</td><td colspan="2">stomaco e intestino</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">mesenterio</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">linfonodi gastrici e mesenterici (*Lnn. gastrici*, *Lnn. mesenterici craniales et caudales*)</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.7</td><td colspan="2">milza</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.8</td><td colspan="2">reni</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.9</td><td colspan="2">pleura</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">peritoneo</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.10</td><td colspan="2">organi genitali</td><td colspan="2">esame visivo (ad eccezione del pene, se già asportato)</td></tr>
+<tr><td colspan="2">5.1.11</td><td colspan="2">mammella destinata all’uso alimentare e linfonodi della mammella negli animali adulti</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.12</td><td colspan="2">regione ombelicale negli animali giovani</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.13</td><td colspan="2">carne muscolare, tessuto adiposo e connettivo</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.1.14</td><td colspan="2">ossa, articolazioni, guaine tendinee</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2"></td><td colspan="2">superficie della sezione della colonna vertebrale</td><td colspan="2">esame visivo</td></tr>
+<tr><td colspan="2">5.2</td><td colspan="4">Controllo esteso delle carni</td></tr>
+<tr><td colspan="2">5.2.1</td><td>lingua</td><td colspan="2">palpazione</td></tr>
+<tr><td colspan="2">5.2.2</td><td>polmoni destinati all’uso alimentare</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>linfonodi bronchiali (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>linfonodi mediastinici (*Lnn. mediastinales*)</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2"></td><td>trachea</td><td colspan="2">apertura mediante incisione longitudinale della trachea e dei rami principali dei bronchi</td></tr>
+<tr><td colspan="2"></td><td>esofago</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">5.2.3</td><td>cuore</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">5.2.4</td><td>milza</td><td colspan="2">palpazione</td></tr>
+<tr><td colspan="2">5.2.5</td><td>reni</td><td colspan="2">incisione</td></tr>
+<tr><td colspan="2">5.2.6</td><td>regione ombelicale negli animali giovani</td><td colspan="2">palpazione e, se del caso, incisione</td></tr>
+<tr><td colspan="2">5.2.7</td><td>articolazioni</td><td colspan="2">palpazione e, se del caso, incisione ed esame del liquido sinoviale</td></tr>
+<tr><td colspan="2">6</td><td colspan="4">Volatili da cortile e conigli domestici</td></tr>
+<tr><td colspan="2">6.1</td><td colspan="4">Controllo delle carni</td></tr>
+<tr><td colspan="2">6.1.1</td><td colspan="2">carcassa, visceri e cavità</td><td colspan="2">controllo di un campione rappresentativo di animali di un effettivo della stessa provenienza mediante esame visivo e, se del caso, palpazione o incisione</td></tr>
+<tr><td colspan="2">6.2</td><td colspan="4">Controllo esteso delle carni</td></tr>
+<tr><td colspan="2">6.2.1</td><td colspan="2">se sussiste il sospetto che la carne degli animali potrebbe non essere idonea al consumo</td><td colspan="2">controlli supplementari necessari mediante palpazione o incisione</td></tr>
+<tr><td colspan="2">6.2.2</td><td colspan="2">animali interi o loro parti dichiarati non idonei al consumo in seguito al controllo delle carni</td><td colspan="2">controllo approfondito di un campione rappresentativo di animali di un effettivo della stessa provenienza mediante palpazione o incisione</td></tr>
+<tr><td colspan="2">7</td><td colspan="3">Ratiti</td></tr>
+<tr><td colspan="2">7.1</td><td colspan="3">Controllo delle carni</td></tr>
+<tr><td colspan="2">7.1.1</td><td>carcassa</td><td colspan="2">esame visivo e, se del caso, palpazione o incisione</td></tr>
+<tr><td colspan="2">7.1.2</td><td>visceri e cavità</td><td colspan="2">esame visivo e, se del caso, palpazione o incisione</td></tr>
+<tr><td colspan="2">7.2</td><td colspan="3">Controllo esteso delle carni</td></tr>
+<tr><td colspan="2">7.2.1</td><td>se sussiste il sospetto che l’intero animale o sue parti potrebbero non essere idonei al consumo</td><td colspan="2">controllo approfondito specifico e, se del caso, palpazione o incisione</td></tr>
+<tr><td colspan="2">7.2.2</td><td>animali interi o loro parti dichiarati non idonei al consumo in seguito al controllo delle carni</td><td colspan="2">controllo approfondito dell’animale o di sue parti e, se del caso, palpazione o incisione</td></tr>
+<tr><td colspan="2">8</td><td colspan="4">Selvaggina cacciata</td></tr>
+<tr><td colspan="2"></td><td colspan="4">Il controllo si basa sul certificato del cacciatore di cui all’allegato 14 numeri 1 e 2 e, in caso di presentazione incompleta, anche sui dati forniti dalla persona esperta di cui all’allegato 14 numero 3. Lepri e selvaggina da penna sono controllati a campione se non sussistono sospetti particolari.</td></tr>
+<tr><td colspan="2">8.1</td><td colspan="2">carcassa e cavità</td><td colspan="2">esame visivo per individuare le anomalie di cui all’allegato 7 numero 3.1 o altre anomalie organolettiche; in caso di sospetto fondato che non siano idonee al consumo è ordinato un esame delle sostanze estranee</td></tr>
+<tr><td colspan="2">8.2</td><td colspan="2">organi</td><td colspan="2">esame visivo e, se del caso, palpazione e incisione</td></tr>
+<tr><td colspan="2">8.3</td><td colspan="2">muscolatura</td><td colspan="2">esame visivo, e, se del caso, palpazione e incisione; se previsto, prelievo di campioni per l’esame trichinoscopico</td></tr>
+<tr><td colspan="2">8.4</td><td colspan="2">testa e colonna vertebrale</td><td colspan="2">esame visivo e, se del caso, divisione longitudinale in due metà</td></tr>
 </table>
 
-Allegato 7*[^t-7]*
+Allegato 7[^t-8]
 
 (art. 6 cpv. 2<sup>bis</sup>, 7 cpv. 2 e 10 cpv. 2 e 3)
 
 ## Motivi di contestazione e misure nel controllo delle carni
 
-[^t-7]: Aggiornato dai n. I delle O del DFI del 12 nov. 2012 ([RU 2012 6847](https://fedlex.data.admin.ch/eli/oc/2012/826)), del 20 giu. 2014 ([RU 2014 2239](https://fedlex.data.admin.ch/eli/oc/2014/374)), dalla correzione del 21 ott. 2014 ([RU 2014 3291](https://fedlex.data.admin.ch/eli/oc/2014/572)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) e dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-8]: Aggiornato dal n. I delle O del DFI del 12 nov. 2012 ([RU 2012 6847](https://fedlex.data.admin.ch/eli/oc/2012/826)), del 20 giu. 2014 ([RU 2014 2239](https://fedlex.data.admin.ch/eli/oc/2014/374)), dalla correzione del 21 ott. 2014 ([RU 2014 3291](https://fedlex.data.admin.ch/eli/oc/2014/572)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)), dal n. I dell’O del DFI del 27 mag. 2020 ([RU 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Animali delle specie bovina, ovina, caprina, suina o equina, altro bestiame da macello e selvaggina d’allevamento
 
 ### 1.1 Carcassa intera non idonea al consumo
 
 - La carcassa e le sue parti, compreso il sangue, devono essere eliminate come sottoprodotti di origine animale se si costata quanto segue:
-- 1\.1.1 epizoozie altamente contagiose (constatazione di tipo clinico o patologico-anatomico):
-- a. afta epizootica;
-- b. stomatite vescicolare;
-- c. malattia vescicolosa dei suini;
-- d. peste bovina;
-- e. peste dei piccoli ruminanti;
-- f. pleuropolmonite contagiosa dei bovini;
-- g. dermatosi nodulare;
-- h. febbre della valle del Rift;
-- i. ...
-- j. vaiolo ovino e caprino;
-- k. peste equina;
-- l. peste suina africana;
-- m. peste suina classica;
-- 1\.1.2 altre malattie infettive (constatazione di tipo clinico o patologico anatomico):
-- a. rabbia;
-- b. encefalomieliti equine secondo il titolo terzo capitolo 4 sezione 9*a* dell’ordinanza del 27 giugno 1995[^annex7-lvlu1-lvl1-lvl11-1] sulle epizoozie;
-- c. morva;
-- d. carbonchio ematico;
-- e. carbonchio sintomatico;
-- f. brucellosi (*Brucella abortus, Brucella melitensis, Brucella suis*) (solo in presenza di agenti patogeni);
-- g. tubercolosi (*Mycobacterium bovis, Mycobacterium caprae* e *Mycobacterium tuberculosis*);
-- h. salmonellosi, se si costata la presenza di agenti patogeni nella muscolatura o negli organi destinati ad uso alimentare (eccetto l’intestino);
-- i. encefalopatie spongiformi trasmissibili;
-- j. scrapie;
-- k. actinobacillosi o actinomicosi generalizzata;
-- l. infiammazione generalizzata dei nodi linfatici;
-- m. tetano;
-- n. erisipela dei suini;
-- o. botulismo;
-- p. listeriosi;
-- q. paratubercolosi;
-- 1\.1.3 malattie parassitarie:
-- a. infestazione generalizzata da sarcosporidi;
-- b. infestazione generalizzata da cisticerchi vivi e morti nella muscolatura;
-- c. infestazione da Trichinella (nell’accertamento di agenti patogeni o nell’accertamento sierologico);
-- 1\.1.4 altre malattie:
-- a. sintomi clinici o patologico-anatomici di piemia, setticemia, tossiemia, batteromia o viremia;
-- b. tumori;
-- c. ascessi in diverse parti della carcassa;
-- d. ferite gravi in diverse parti della carcassa;
-- e. grave indebolimento (alterazione acquosa del tessuto adiposo nonché del midollo osseo e della muscolatura);
-- 1\.1.5 alterazioni estremamente gravi con disturbo del benessere generale a causa di malattie infiammatorie, segnatamente ai seguenti organi:
-- a. polmoni;
-- b. cuore e pericardio;
-- c. pleura e peritoneo;
-- d. stomaco;
-- e. intestino;
-- f. reni;
-- g. ovaie;
-- h. mammelle;
-- i. ombelico;
-- j. più di un’articolazione;
-- k. peritenonio;
-- l. tessuto connettivo (flemmoni);
-- 1\.1.6 carenze in relazione allo stordimento e alla macellazione:
-- a. animali morti;
-- b. animali in agonia;
-- c. animali nati morti o abortiti;
-- d. animali non sottoposti al controllo del bestiame da macello;
-- e. animali le cui parti non sono state sottoposte tutte al controllo delle carni;
-- f. animali macellati prima di aver raggiunto l’età di sette giorni;
-- g. carcasse con materiale a rischio specificato di encefalopatie spongiformi trasmissibili (se non è asportato su istruzione del veterinario ufficiale e ad eccezione della colonna vertebrale);
-- h. animali non dissanguati o dissanguati in modo insufficiente;
-- i. carcasse che presentano forti insudiciamenti fecali o scottature eccessive o che contengono corpi estranei;
-- 1\.1.7 carne che presenta chiare alterazioni per quanto riguarda il colore, l’odore, in particolare un intenso odore sessuale, la consistenza, il sapore, l’aspetto (alterazioni fisiopatologiche);
-- 1\.1.8 sostanze estranee e trattamenti:
-- a. superamento di un valore limite;
-- b. avvelenamento acuto;
-- c. individuazione di una sostanza vietata;
-- d. carcasse o loro parti, che hanno subito un trattamento fisico o a base di agenti decontaminanti inammissibile.
+- 1\.1.1 un’epizoozia altamente contagiosa (constatazione di tipo clinico o patologico-anatomico) secondo l’articolo 2 OFE;
+- 1\.1.2
 
-[^annex7-lvlu1-lvl1-lvl11-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+  altre malattie infettive (constatazione di tipo clinico o patologico anatomico):
+
+  - a. rabbia,
+  - b. encefalomieliti equine secondo il titolo terzo capitolo 4 sezione 9a dell’ordinanza del 27 giugno 1995[^annex7-lvlu1-lvl1-lvl11-1] sulle epizoozie,
+  - c. morva,
+  - d. carbonchio ematico,
+  - e. carbonchio sintomatico,
+  - f. brucellosi (Brucella abortus, Brucella melitensis, Brucella suis) (solo in presenza di agenti patogeni),
+  - g. tubercolosi (Mycobacterium bovis, Mycobacterium caprae e Mycobacterium tuberculosis),
+  - h. salmonellosi, se si costata la presenza di agenti patogeni nella muscolatura o negli organi destinati ad uso alimentare (eccetto l’intestino),
+  - i. encefalopatie spongiformi trasmissibili,
+  - j. scrapie,
+  - k. actinobacillosi o actinomicosi generalizzata,
+  - l. infiammazione generalizzata dei nodi linfatici,
+  - m. tetano,
+  - n. erisipela dei suini,
+  - o. botulismo,
+  - p. listeriosi,
+  - q. paratubercolosi;
+
+- 1\.1.3
+
+  malattie parassitarie:
+
+  - a. infestazione generalizzata da sarcosporidi,
+  - b. infestazione generalizzata da cisticerchi vivi e morti nella muscolatura,
+  - c. infestazione da Trichinella (nell’accertamento di agenti patogeni o nell’accertamento sierologico);
+
+- 1\.1.4
+
+  altre malattie:
+
+  - a. sintomi clinici o patologico-anatomici di piemia, setticemia, tossiemia, batteromia o viremia,
+  - b. tumori in diverse parti del corpo,
+  - c. ascessi in diverse parti della carcassa,
+  - d. ferite gravi in diverse parti della carcassa,
+  - e. grave indebolimento (alterazione acquosa del tessuto adiposo nonché del midollo osseo e della muscolatura);
+
+- 1\.1.5
+
+  alterazioni estremamente gravi con disturbo del benessere generale a causa di malattie infiammatorie, segnatamente ai seguenti organi:
+
+  - a. polmoni,
+  - b. cuore e pericardio,
+  - c. pleura e peritoneo,
+  - d. stomaco,
+  - e. intestino,
+  - f. reni,
+  - g. ovaie,
+  - h. mammelle,
+  - i. ombelico,
+  - j. più di un’articolazione,
+  - k. peritenonio,
+  - l. tessuto connettivo (flemmoni);
+
+- 1\.1.6
+
+  carenze in relazione allo stordimento e alla macellazione:
+
+  - a. animali morti,
+  - b. animali in agonia,
+  - c. animali nati morti o abortiti,
+  - d. animali non sottoposti al controllo del bestiame da macello,
+  - e. animali le cui parti non sono state sottoposte tutte al controllo delle carni,
+  - f. animali macellati prima di aver raggiunto l’età di sette giorni,
+  - g. carcasse con materiale a rischio specificato di encefalopatie spongiformi trasmissibili (se non è asportato su istruzione del veterinario ufficiale e ad eccezione della colonna vertebrale),
+  - h. animali non dissanguati o dissanguati in modo insufficiente,
+  - i. carcasse che presentano forti insudiciamenti fecali o scottature eccessive o che contengono corpi estranei;
+
+- 1\.1.7 carne che presenta chiare alterazioni per quanto riguarda il colore, l’odore, in particolare un intenso odore sessuale, la consistenza, il sapore, l’aspetto (alterazioni fisiopatologiche);
+- 1\.1.8
+
+  sostanze estranee e trattamenti:
+
+  - a. superamento di un valore limite,
+  - b. avvelenamento acuto,
+  - c. individuazione di una sostanza vietata,
+  - d. carcasse o loro parti, che hanno subito un trattamento fisico o a base di agenti decontaminanti inammissibile.
+
+[^annex7-lvlu1-lvl1-lvl11-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### 1.2 Parti della carcassa non idonee al consumo
 
@@ -1165,137 +1354,170 @@ Allegato 7*[^t-7]*
 - 1\.2.3 mammelle, organi genitali e sangue degli animali che hanno reagito in modo positivo o dubbio al controllo della brucellosi, anche se non è stata constatata alcuna lesione;
 - 1\.2.4 fegato e reni di animali originari di regioni in cui è stata constatata la presenza di metalli pesanti;
 - 1\.2.5 parti della carcassa oppure organi con alterazioni patologiche;
-- 1\.2.6 organi con alterazioni patologiche di origine parassitaria:
-- a. echinococchi e altri cisticerchi;
-- b. fasciola;
-- c. vermi polmonari;
-- d. ectoparassiti;
-- e. ascaridi;
-- 1\.2.7 parti della carcassa o organi con le seguenti alterazioni:
-- a. ferite recenti, fratture ossee;
-- b. ematomi;
-- c. infiammazione localizzata dei nodi linfatici;
-- d. lesioni purulente localizzate e ascessi;
-- e. tumori;
-- f. aderenze fibrose del tessuto connettivo;
-- g. alterazioni estese della cotenna;
-- h. insudiciamenti locali o corpi estranei;
-- i. sangue inquinato dal contenuto stomacale o da altre sostanze nonché sangue che, a causa dello stato di salute dell’animale da macello, può costituire un rischio per la salute;
-- j. alterazioni ripugnanti;
-- k. superamento di un valore limite per un determinato organo.
+- 1\.2.6
+
+  organi con alterazioni patologiche di origine parassitaria:
+
+  - a. echinococchi e altri cisticerchi,
+  - b. fasciola,
+  - c. vermi polmonari,
+  - d. ectoparassiti,
+  - e. ascaridi;
+
+- 1\.2.7
+
+  parti della carcassa o organi con le seguenti alterazioni:
+
+  - a. ferite recenti, fratture ossee,
+  - b. ematomi,
+  - c. infiammazione localizzata dei nodi linfatici,
+  - d. lesioni purulente localizzate e ascessi,
+  - e. tumori,
+  - f. aderenze fibrose del tessuto connettivo,
+  - g. alterazioni estese della cotenna,
+  - h. insudiciamenti locali o corpi estranei,
+  - i. sangue inquinato dal contenuto stomacale o da altre sostanze nonché sangue che, a causa dello stato di salute dell’animale da macello, può costituire un rischio per la salute,
+  - j. alterazioni ripugnanti,
+  - k. superamento di un valore limite per un determinato organo;
+
 - 1\.2.8 parte di carne contenente il microchip, qualora quest’ultimo non possa essere asportato.
 
 ### 1.3 Trattamento obbligatorio della carcassa prima di essere utilizzata come derrata alimentare
 
-- 1\.3.1 Carcasse colpite da cisticerchi (*Cysticercus bovis e Cysticercus* *cellul**o**sae;* vivi o morti), fatto salvo il numero 1.1.3 lettera b:
+- 1\.3.1 Carcasse colpite da cisticerchi (*Cysticercus bovis e Cysticercus cellulosae;* vivi o morti), fatto salvo il numero 1.1.3 lettera b:
 - devono essere immagazzinate durante un giorno ad una temperatura da 0 a 2 °C e in seguito durante 5 giorni ad una temperatura di –20 °C.
 - 1\.3.2 Trattamento di congelazione secondo il metodo di congelazione I
-- a. le carni pervenute già congelate devono essere mantenute congelate;
-- b. l’attrezzatura tecnica e l’alimentazione in energia della cella frigorifera devono essere tali da garantire che la temperatura necessaria sia raggiunta molto rapidamente e mantenuta in tutte le parti della cella frigorifera e all’interno delle carni;
-- c. l’imballaggio isolante deve essere rimosso prima della congelazione, salvo il caso in cui le carni siano già alla temperatura richiesta quando sono introdotte nella cella frigorifera, ovvero nel caso in cui l’imballaggio sia tale da non impedire il raggiungimento della temperatura desiderata entro i termini specificati;
-- d. le spedizioni devono essere tenute nella cella frigorifera separate e sotto chiave;
-- e. occorre registrare la data e l’ora di arrivo di ciascuna spedizione destinata alla cella frigorifera;
-- f. la temperatura nel locale di refrigerazione non può superare i –25 °C. Deve essere misurata mediante apparecchi termoelettrici calibrati e costantemente registrata. La temperatura non deve essere misurata direttamente nella corrente di aria fredda. Gli strumenti devono essere tenuti sotto chiave. I grafici della temperatura devono comprendere i dati del registro d’ispezione delle carni all’importazione, nonché la data e l’ora dell’inizio e della fine del processo di congelazione ed essere conservati per un anno;
-- g. le carni con diametro o spessore inferiore a 25 cm devono essere congelate per un periodo minimo di 240 ore consecutive, mentre le carni con diametro o spessore tra 25 cm e 50 cm devono essere congelate per un periodo minimo di 480 ore consecutive. Le carni con diametro o spessore superiore non possono essere sottoposte a questo processo di congelazione. La durata della congelazione è calcolata dal momento in cui nella cella frigorifera si raggiunge la temperatura di cui alla lettera f.
+  - a. le carni pervenute già congelate devono essere mantenute congelate;
+  - b. l’attrezzatura tecnica e l’alimentazione in energia della cella frigorifera devono essere tali da garantire che la temperatura necessaria sia raggiunta molto rapidamente e mantenuta in tutte le parti della cella frigorifera e all’interno delle carni;
+  - c. l’imballaggio isolante deve essere rimosso prima della congelazione, salvo il caso in cui le carni siano già alla temperatura richiesta quando sono introdotte nella cella frigorifera, ovvero nel caso in cui l’imballaggio sia tale da non impedire il raggiungimento della temperatura desiderata entro i termini specificati;
+  - d. le spedizioni devono essere tenute nella cella frigorifera separate e sotto chiave;
+  - e. occorre registrare la data e l’ora di arrivo di ciascuna spedizione destinata alla cella frigorifera;
+  - f. la temperatura nel locale di refrigerazione non può superare i –25 °C. Deve essere misurata mediante apparecchi termoelettrici calibrati e costantemente registrata. La temperatura non deve essere misurata direttamente nella corrente di aria fredda. Gli strumenti devono essere tenuti sotto chiave. I grafici della temperatura devono comprendere i dati del registro d’ispezione delle carni all’importazione, nonché la data e l’ora dell’inizio e della fine del processo di congelazione ed essere conservati per un anno;
+  - g. le carni con diametro o spessore inferiore a 25 cm devono essere congelate per un periodo minimo di 240 ore consecutive, mentre le carni con diametro o spessore tra 25 cm e 50 cm devono essere congelate per un periodo minimo di 480 ore consecutive. Le carni con diametro o spessore superiore non possono essere sottoposte a questo processo di congelazione. La durata della congelazione è calcolata dal momento in cui nella cella frigorifera si raggiunge la temperatura di cui alla lettera f.
+
 - 1\.3.3 Trattamento di congelazione secondo il metodo di congelazione 2
-- Si applicano le disposizioni generali di cui al numero 1.3.2 (metodo 1) lettere a–e e si osservano le seguenti combinazioni durata/temperatura:
-- a.
+-
 
-  le carni con diametro o spessore inferiore a 15 cm devono essere congelate secondo le seguenti combinazioni durata/temperatura:
+  Si applicano le disposizioni generali di cui al numero 1.3.2 (metodo 1) lettere a–e e si osservano le seguenti combinazioni durata/temperatura:
 
-  - – 20 giorni a meno 15 °C,
-  - – 10 giorni a meno 23 °C,
-  - – 6 giorni a meno 29 °C;
+  - a.
 
-- b.
+    le carni con diametro o spessore inferiore a 15 cm devono essere congelate secondo le seguenti combinazioni durata/temperatura:
 
-  le carni con diametro o spessore tra 15 e 50 cm devono essere congelate secondo le seguenti combinazioni durata/temperatura:
+    - – 20 giorni a una temperatura uguale o inferiore a –15 °C,
+    - – 10 giorni a una temperatura uguale o inferiore a –23 °C,
+    - – 6 giorni a una temperatura uguale o inferiore a –29 °C;
 
-  - – 30 giorni a meno 15 °C,
-  - – 20 giorni a meno 25 °C,
-  - – 12 giorni a meno 29 °C.
+  - b.
 
-- La temperatura nella cella frigorifera non deve superare il livello di temperatura d’inattivazione delle larve di Trichinella prescelto. Deve essere misurata mediante apparecchi termoelettrici calibrati e costantemente registrata. La temperatura non deve essere misurata direttamente nella corrente di aria fredda. Gli strumenti devono essere tenuti sotto chiave. I grafici della temperatura devono comprendere i dati del registro d’ispezione delle carni all’importazione, nonché la data e l’ora dell’inizio e della fine del processo di congelazione ed essere conservati per un anno.
-- Nel caso si ricorra a gallerie di congelazione e le procedure di cui ai numeri 1.3.2. e 1.3.3 non siano seguite alla lettera, l’operatore alimentare deve essere in grado di dimostrare alle competenti autorità che il metodo alternativo garantisce l’eliminazione delle Trichinelle dalle carni di suino.
+    le carni con diametro o spessore tra 15 e 50 cm devono essere congelate secondo le seguenti combinazioni durata/temperatura:
+
+    - – 30 giorni a una temperatura uguale o inferiore a –15 °C,
+    - – 20 giorni a una temperatura uguale o inferiore a –25 °C,
+    - – 12 giorni a una temperatura uguale o inferiore a –29 °C.
+
+  - La temperatura nella cella frigorifera non deve superare il livello di temperatura d’inattivazione delle larve di Trichinella prescelto. Deve essere misurata mediante apparecchi termoelettrici calibrati e costantemente registrata. La temperatura non deve essere misurata direttamente nella corrente di aria fredda. Gli strumenti devono essere tenuti sotto chiave. I grafici della temperatura devono comprendere i dati del registro d’ispezione delle carni all’importazione, nonché la data e l’ora dell’inizio e della fine del processo di congelazione ed essere conservati per un anno.
+  - Nel caso si ricorra a gallerie di congelazione e le procedure di cui ai numeri 1.3.2. e 1.3.3 non siano seguite alla lettera, l’operatore alimentare deve essere in grado di dimostrare alle competenti autorità che il metodo alternativo garantisce l’eliminazione delle Trichinelle dalle carni di suino.
+
 - 1\.3.4 Trattamento di congelazione secondo il metodo di congelazione 3
-- Il trattamento consiste nella crioessiccazione commerciale o nella congelazione di carni per combinazioni specifiche di durata/temperatura con monitoraggio della temperatura all’interno di ciascun taglio:
-- a.
+- Il trattamento consiste nella crioessiccazione commerciale o nella congelazione di carni per combinazioni specifiche di durata/temperatura con monitoraggio della temperatura all’interno di ciascun taglio.
+  - a.
 
-  si applicano le disposizioni generali di cui al numero 3.1.2 (metodo 1) lettere a–e e si osservano le seguenti combinazioni durata/temperatura:
+    Si applicano le disposizioni generali di cui al numero 3.1.2 (metodo 1) lettere a–e e si osservano le seguenti combinazioni durata/temperatura:
 
-  - – 106 ore a meno 18 °C,
-  - – 82 ore a meno 21 °C,
-  - – 63 ore a meno 23,5 °C,
-  - – 48 ore a meno 26 °C,
-  - – 35 ore a meno 29 °C,
-  - – 22 ore a meno 32 °C,
-  - – 8 ore a meno 35 °C,
-  - – 0,5 ore a meno 37 °C;
+    - – 106 ore a una temperatura uguale o inferiore a –18 °C,
+    - – 82 ore a una temperatura uguale o inferiore a –21 °C,
+    - – 63 ore a una temperatura uguale o inferiore a –23,5 °C,
+    - – 48 ore a una temperatura uguale o inferiore a –26 °C,
+    - – 35 ore a una temperatura uguale o inferiore a –29 °C,
+    - – 22 ore a una temperatura uguale o inferiore a –32 °C,
+    - – 8 ore a una temperatura uguale o inferiore a –35 °C,
+    - – 0,5 ore a una temperatura uguale o inferiore a –37 °C;
 
-- b. la temperatura deve essere misurata mediante apparecchi termoelettrici calibrati e costantemente registrata. La sonda del termometro va inserita al centro di un pezzo di carne di dimensioni non inferiori al pezzo di carne più spesso da congelare. Il pezzo in questione deve essere collocato nel punto meno favorevole della cella frigorifera, ossia né a prossimità immediata dell’impianto di raffreddamento, né direttamente nella corrente di aria fredda. Gli strumenti devono essere tenuti sotto chiave. I grafici della temperatura devono comprendere i dati del registro d’ispezione delle carni all’importazione, nonché la data e l’ora dell’inizio e della fine del processo di congelazione ed essere conservati per un anno.
+  - b. la temperatura deve essere misurata mediante apparecchi termoelettrici calibrati e costantemente registrata. La sonda del termometro va inserita al centro di un pezzo di carne di dimensioni non inferiori al pezzo di carne più spesso da congelare. Il pezzo in questione deve essere collocato nel punto meno favorevole della cella frigorifera, ossia né a prossimità immediata dell’impianto di raffreddamento, né direttamente nella corrente di aria fredda. Gli strumenti devono essere tenuti sotto chiave. I grafici della temperatura devono comprendere i dati del registro d’ispezione delle carni all’importazione, nonché la data e l’ora dell’inizio e della fine del processo di congelazione ed essere conservati per un anno.
 
-### 2 Conigli domestici, volatili da cortile e ratiti
+### 2 Volatili da cortile, conigli domestici e ratiti
 
 ### 2.1 Carcassa intera non idonea al consumo
 
 - La carcassa e le sue parti, compreso il sangue, devono essere eliminate come sottoprodotti di origine animale se si constata quanto segue:
-- 2\.1.1 epizoozie:
-- a. mixomatosi;
-- b. peste aviaria;
-- c. malattia di Newcastle;
-- d. salmonellosi;
+- 2\.1.1
+
+  epizoozie:
+
+  - a. mixomatosi,
+  - b. peste aviaria,
+  - c. malattia di Newcastle,
+  - d. salmonellosi;
+
 - 2\.1.2 malattie infettive generalizzate e focolai cronici causati da microrganismi (inclusi funghi), i cui agenti patogeni possono causare malattie nell’uomo;
 - 2\.1.3 parassitosi importante a livello di sottocute o di muscolatura e parassitosi sistemica;
-- 2\.1.4 altre malattie generali:
-- a. tumori multipli;
-- b. lesioni importanti;
-- c. ecchimosi multiple;
-- d. ascite;
-- e. cachessia;
+- 2\.1.4
+
+  altre malattie generali:
+
+  - a. tumori multipli,
+  - b. lesioni importanti,
+  - c. ecchimosi multiple,
+  - d. ascite,
+  - e. cachessia;
+
 - 2\.1.5 carne che presenta chiare alterazioni per quanto riguarda il colore, l’odore, la consistenza, il sapore, l’aspetto;
-- 2\.1.6 carenze in relazione all’uccisione e alla macellazione:
-- a. animali morti;
-- b. animali che non sono stati sottoposti al controllo del bestiame da macello;
-- c. animali le cui parti di carcassa non sono state sottoposte tutte al controllo delle carni;
-- d. animali non dissanguati o dissanguati in modo insufficiente;
-- e. carcasse insudiciate o scottate;
-- 2\.1.7 sostanze estranee e trattamenti;
-- a. superamento di un valore limite;
-- b. avvelenamento acuto;
-- c. individuazione di una sostanza vietata;
-- d. carcasse o parti di esse che hanno subíto un trattamento fisico inammissibile.
-- 2\.2 Parti della carcassa non idonee al consumo
+- 2\.1.6
+
+  carenze in relazione all’uccisione e alla macellazione:
+
+  - a. animali morti,
+  - b. animali che non sono stati sottoposti al controllo del bestiame da macello,
+  - c. animali le cui parti di carcassa non sono state sottoposte tutte al controllo delle carni,
+  - d. animali non dissanguati o dissanguati in modo insufficiente,
+  - e. carcasse insudiciate o scottate;
+
+- 2\.1.7
+
+  sostanze estranee e trattamenti:
+
+  - a. superamento di un valore limite,
+  - b. avvelenamento acuto,
+  - c. individuazione di una sostanza vietata,
+  - d. carcasse o parti di esse che hanno subíto un trattamento fisico inammissibile.
+
+### 2.2 Parti della carcassa non idonee al consumo
+
 - Se non vi sono contestazioni secondo il numero 2.1 e se vengono constatate lesioni o contaminazioni localizzate che non pregiudicano l’utilizzabilità della carne rimanente, solo le parti in causa devono essere eliminate come sottoprodotti di origine animale.
 
 ### 3 Selvaggina cacciata
 
 ### 3.1 Carcassa intera non idonea al consumo
 
-- La carcassa e le sue parti, compreso il sangue, devono essere eliminate come sottoprodotti di origine animale se si constata quanto segue:
+- La carcassa e le parti degli animali, compreso il sangue, devono essere eliminate come sottoprodotti di origine animale se si constata quanto segue:
 - 3\.1.1 tumori o ascessi che si presentino numerosi o sparsi in organi interni o nella muscolatura;
-- 3\.1.2 artrite, orchite, alterazione patologica del fegato o della milza, infiammazione dell’intestino o della regione ombelicale;
+- 3\.1.2 alterazioni acute in più di un’articolazione (poliartrite);
 - 3\.1.3 presenza di corpi estranei non dovuti al processo della caccia, nelle cavità, in particolare nello stomaco e nell’intestino, o nell’urina, con alterazioni del colore della pleura o del peritoneo;
 - 3\.1.4 parassitosi importante a livello di sottocute o di muscolatura e parassitosi sistemica;
 - 3\.1.4*a* infestazione da Trichinella (nell’accertamento di agenti patogeni o nell’accertamento sierologico);
 - 3\.1.5 formazione di gas in notevole quantità nel tubo gastroenterico con alterazione del colore degli organi interni;
-- 3\.1.6 notevoli alterazioni del colore, della consistenza o dell’odore della muscolatura o degli organi;
+- 3\.1.6 notevoli alterazioni del colore, della consistenza, dell’odore o dell’aspetto della muscolatura o degli organi;
 - 3\.1.7 vecchie fratture aperte;
-- 3\.1.8 cachessia e/o edema generalizzato o localizzato;
+- 3\.1.8 cachessia e/o edema generalizzato;
 - 3\.1.9 conglutinazioni o concrescenze recenti di organi con la pleura o il peritoneo;
 - 3\.1.10 altre alterazioni notevoli ed evidenti, come ad esempio putrefazione;
-- 3\.1.11 indizi che l’animale è morto per motivi diversi dalla caccia.
+- 3\.1.11 indizi che l’animale è morto per motivi diversi dalla caccia;
+- 3\.1.12 alterazioni patologiche vistose della muscolatura o degli organi di rilevanza sistemica.
 
 ### 3.2 Parti della carcassa non idonee al consumo
 
 - Se non vi sono contestazioni secondo il numero 3.1 e se vengono constatate lesioni o contaminazioni localizzate che non pregiudicano l’utilizzabilità della carne rimanente, solo le parti in causa devono essere eliminate come sottoprodotti di origine animale.
 
-Allegato 8
+Allegato 8[^t-9]
 
-(art. 8 cpv. 1 lett. b)
+(art 8 cpv. 1 lett. d)
 
 ## Certificato di idoneità al consumo
 
-Veterinario ufficiale
+[^t-9]: Nuovo testo giusta il n. II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+
+Organo di esecuzione ufficiale
 
 Macello
 
@@ -1307,21 +1529,23 @@ Numero di carcasse
 
 Peso
 
-Il sottoscritto veterinario ufficiale dichiara che le carcasse sopraindicate sono idonee al consumo.
+Con la sua firma, l’organo di esecuzione ufficiale dichiara che le carcasse sopraindicate sono idonee al consumo.
 
-<table>
-<tr><td>Rilasciato a</td><td>il</td><td>Firma</td></tr>
-</table>
+Rilasciato a
+
+il
+
+Firma
 
 Riproduzione del bollo di idoneità al consumo
 
-Allegato 9*[^t-8]*
+Allegato 9[^t-10]
 
 (art. 8 cpv. 3 e 12 cpv. 2)
 
 ## Bollo di idoneità al consumo
 
-[^t-8]: Aggiornato dal n. II dell’O del DFI del 15 nov. 2006 ([RU 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)) e dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^t-10]: Aggiornato dal n. II dell’O del DFI del 15 nov. 2006 ([RU 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)) e dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
 
 Il bollo di idoneità al consumo deve presentarsi come segue:
 
@@ -1350,18 +1574,18 @@ Il bollo di idoneità al consumo deve presentarsi come segue:
 
 Il bollo di idoneità al consumo per la carne di suini non sottoposti ad esame trichinoscopico e provenienti da aziende di cui all’articolo 31 capoverso 4 dell’ordinanza del 23 novembre 2005[^annex9-lvlu1-1] concernente la macellazione e il controllo delle carni è ovale, ha una larghezza di 4,5 cm, un’altezza di 2,7 cm e riporta il numero di controllo del macello. Il bollo per il controllo delle carni di cui all’allegato 5 dell’ordinanza del 3 marzo 1995[^annex9-lvlu1-2] sul controllo delle carni resta valido.
 
-[^annex9-lvlu1-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^annex9-lvlu1-1]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 [^annex9-lvlu1-2]: [[RU 1995 1703](https://fedlex.data.admin.ch/eli/oc/1995/1703_1703_1703)]
 
-Allegato 10
+Allegato 10[^t-11]
 
 (art. 11 lett. a)
 
 recto
 
 <table>
-<tr><td colspan="5">Cantone:</td></tr>
-<tr><td colspan="5">Rapporto ufficiale sul prelevamento di campioni</td></tr>
+<tr><th colspan="5">Cantone:</th></tr>
+<tr><th colspan="5">Rapporto ufficiale sul prelevamento di campioni</th></tr>
 <tr><td>Comune</td><td></td><td colspan="3"></td></tr>
 <tr><td>Macello</td><td></td><td colspan="3">Numero di controllo</td></tr>
 <tr><td>Specie animale</td><td></td><td colspan="3"></td></tr>
@@ -1381,7 +1605,7 @@ recto
 <tr><td>Carcasse/parti sequestrate</td><td></td><td>sì</td><td>no</td><td></td></tr>
 <tr><td>Luogo, data, ora:</td><td></td><td colspan="3"></td></tr>
 <tr><td colspan="5">I campioni sono stati prelevati in presenza del sottoscritto, che conferma l’esattezza dei dati riguardanti il prelevamento: Per la direzione del macello:</td></tr>
-<tr><td colspan="5">Il veterinario ufficiale:</td></tr>
+<tr><td colspan="5">L’organo di esecuzione ufficiale:</td></tr>
 <tr><td colspan="2">Altre osservazioni e indicazioni: vedi retro</td><td>sì</td><td>no</td><td></td></tr>
 </table>
 
@@ -1389,15 +1613,17 @@ recto
 <tr><td>Indicazione dei rimedi giuridici, vedi retro</td><td>\*Analisi microbiologica delle carni</td></tr>
 </table>
 
-Allegato 11*[^t-9]*
+[^t-11]: Aggiornato dal n. I cpv. 4 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+
+Allegato 11[^t-12]
 
 (art. 11 lett. b)
 
 recto
 
 <table>
-<tr><td colspan="10">Cantone:</td></tr>
-<tr><td colspan="10">Contestazione all’atto del controllo degli animali da macello e delle carni</td></tr>
+<tr><th colspan="10">Cantone:</th></tr>
+<tr><th colspan="10">Contestazione all’atto del controllo degli animali da macello e delle carni</th></tr>
 <tr><td>Comune</td><td colspan="5"></td><td colspan="4"></td></tr>
 <tr><td>Macello</td><td colspan="5"></td><td colspan="4">Numero di controllo</td></tr>
 <tr><td>Specie animale</td><td colspan="5"></td><td colspan="4"></td></tr>
@@ -1415,7 +1641,7 @@ recto
 <tr><td></td><td colspan="2">Eliminazione come sottoprodotto di origine animale</td><td colspan="3">◻</td><td colspan="4">◻</td></tr>
 <tr><td></td><td colspan="2">Altro</td><td colspan="3">◻</td><td colspan="4">◻</td></tr>
 <tr><td>**Motivazione** (vedi retro)</td><td colspan="2"></td><td colspan="3"></td><td colspan="4"></td></tr>
-<tr><td colspan="4">Conferma di ricevuta: Per il macello: Luogo, data, ora:</td><td colspan="6">Il veterinario ufficiale: Luogo, data, ora:</td></tr>
+<tr><td colspan="4">Conferma di ricevuta: Per il macello: Luogo, data, ora:</td><td colspan="6">L’organo di esecuzione ufficiale: Luogo, data, ora:</td></tr>
 <tr><td colspan="7">Notifica all’autorità cantonale</td><td>sì</td><td>no</td><td></td></tr>
 <tr><td colspan="7">Altre osservazioni e indicazioni: vedi retro</td><td>sì</td><td>no</td><td></td></tr>
 </table>
@@ -1424,9 +1650,9 @@ Indicazione dei rimedi giuridici, vedi retro
 
 (ricorso entro 10 giorni presso l’autorità designata dal Cantone)
 
-[^t-9]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^t-12]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Aggiornato dal n. I cpv. 4 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
-Allegato 12*[^t-10]*
+Allegato 12[^t-13]
 
 (art. 11 lett. c)
 
@@ -1451,7 +1677,7 @@ Comune:
 </table>
 
 <table>
-<tr><td></td><td>manzo</td><td colspan="2">pecora</td><td>capra</td><td colspan="2">suino</td><td>cavallo</td><td>volatili</td><td>altri</td></tr>
+<tr><td></td><td>manzo</td><td colspan="2">pecora</td><td>capra</td><td colspan="2">suino</td><td>animale delle specie equina</td><td>volatile da cortile</td><td>altri</td></tr>
 <tr><td>stordimento\*</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
 <tr><td>frequenza\*\*</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
 <tr><td colspan="3">\* P = pistola a proiettile captivo</td><td colspan="3">K = diossido di carbonio</td></tr>
@@ -1465,7 +1691,7 @@ Comune:
 <tr><td colspan="2">Area, recinto</td><td>Sì</td><td>No</td><td></td><td></td></tr>
 <tr><td>Pulizia e disinfezione</td><td>Veicoli per il trasporto di animali</td><td>Sì</td><td>No</td><td></td><td></td></tr>
 <tr><td></td><td>Veicoli per il trasporto delle carni</td><td>Sì</td><td>No</td><td></td><td></td></tr>
-<tr><td colspan="2">Rampe per animali/Stalle</td><td>Sì</td><td>No</td><td></td><td></td></tr>
+<tr><td colspan="2">Rampe per animali / Stalle</td><td>Sì</td><td>No</td><td></td><td></td></tr>
 <tr><td colspan="2">Locale di macellazione</td><td>Sì</td><td>No</td><td></td><td></td></tr>
 <tr><td colspan="2">Frequenza di macellazione</td><td>Sì</td><td>No</td><td></td><td></td></tr>
 <tr><td colspan="2">Impianti di stordimento</td><td>Sì</td><td>No</td><td></td><td></td></tr>
@@ -1479,15 +1705,15 @@ Comune:
 <tr><td colspan="2">Locali/installazioni per i controlli ufficiali</td><td>Sì</td><td>No</td><td></td><td></td></tr>
 </table>
 
-[^t-10]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 29 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
+[^t-13]: Nuovo testo giusta il n. II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
-Allegato 13*[^t-11]*
+Allegato 13[^t-14]
 
 (art. 11 lett. d)
 
 ## Certificato di sanità dopo il controllo degli animali da macello nell’effettivo di provenienza
 
-[^t-11]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 29 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
+[^t-14]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 29 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
 
 Veterinario ufficiale
 
@@ -1529,13 +1755,13 @@ Il sottoscritto veterinario dichiara che:
 
 Timbro ufficiale
 
-Allegato 14*[^t-12]*
+Allegato 14[^t-15]
 
 (art. 11 lett. e)
 
 ## Certificato per la vendita della selvaggina cacciata quale derrata alimentare
 
-[^t-12]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^t-15]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
 
 ### 1 Indicazioni generali
 
@@ -1567,11 +1793,11 @@ Nome e indirizzo dellʼesperto
 
 Il sottoscritto dichiara che:
 
-- A. [F0A3] la carcassa e i visceri non presentano caratteristiche indicanti che la carne può presentare un rischio per la salute umana;
+- A. ◻ la carcassa e i visceri non presentano caratteristiche indicanti che la carne può presentare un rischio per la salute umana;
 
 oppure
 
-- B. [F0A3] la carcassa presenta le seguenti alterazioni e deve dunque essere sottoposta al controllo ufficiale delle carni prima di essere eventualmente venduta quale derrata alimentare.
+- B. ◻ la carcassa presenta le seguenti alterazioni e deve dunque essere sottoposta al controllo ufficiale delle carni prima di essere eventualmente venduta quale derrata alimentare.
 
 <table>
 <tr><td>Rilasciato a</td><td>il</td><td>Firma</td></tr>

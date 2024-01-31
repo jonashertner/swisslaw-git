@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachte
 short: VHyS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/816"
 language: de
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/816/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2005-816-20200701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/816/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/816/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2005-816-20240201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/816/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,33 +17,36 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/816/20200701/de"
 
 (VHyS)
 
-vom 23. November 2005 (Stand am 1. Juli 2020)
+vom 23. November 2005 (Stand am 1. Februar 2024)
 
-Das Eidgenössische Departement der Innern (EDI)*[^ingress-1]*,
+Das Eidgenössische Departement der Innern (EDI)[^ingress-1],
 
-gestützt auf die Artikel 4 Absatz 4, 16 Absatz 5, 27 Absatz 4, 30 Absatz 2, 31 Absatz 7, 34 Absatz 1, 38 Absatz 3 und 40 der Verordnung vom 16. Dezember 2016[^ingress-2] über das Schlachten und die Fleischkontrolle (VSFK) und Artikel 303 der Tierseuchenverordnung vom 27. Juni 1995[^ingress-3],[^ingress-4]
+gestützt auf die Artikel 4 Absatz 4, 16 Absatz 5, 27 Absatz 4, 30 Absatz 2, 30*a* Absatz 2, 31 Absatz 7, 34 Absatz 1, 38 Absatz 3 und 40 der Verordnung vom 16. Dezember 2016[^ingress-2] über das Schlachten und die Fleischkontrolle (VFSK) und Artikel 303 der Tierseuchenverordnung vom 27. Juni 1995[^ingress-3] (TSV),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
-[^ingress-2]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^ingress-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^ingress-4]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^ingress-2]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^ingress-3]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^ingress-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
-## 1. Abschnitt: Anforderungen an Schlacht- und Wildbearbeitungsbetriebe****
+## 1. Abschnitt: Anforderungen an Schlacht- und an Wildbearbeitungsbetriebe sowie an Betriebe, in denen gelegentliche Schlachtungen durchgeführt werden
 
 [^sec1-1]
 
-[^sec1-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^sec1-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 1
 
-**...[^1-1]**
+**…[^1-1]**
 
-Schlacht- und Wildbearbeitungsbetriebe[^1-2] müssen den Anforderungen nach Anhang 1 genügen.
+<sup>1</sup> Schlacht- und Wildbearbeitungsbetriebe[^1-2] müssen den Anforderungen nach Anhang 1 genügen.
+
+<sup>2</sup> Betriebe, in denen gelegentliche Schlachtungen durchgeführt werden, müssen den Anforderungen nach Anhang 2 genügen.[^1-3]
 
 [^1-1]: Aufgehoben durch Ziff. I der V des EDI vom 16. Dez. 2016, mit Wirkung seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
 [^1-2]: Ausdruck gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^1-3]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 2
 
@@ -51,11 +54,19 @@ Schlacht- und Wildbearbeitungsbetriebe[^1-2] müssen den Anforderungen nach Anha
 
 [^2-1]: Aufgehoben durch Ziff. II 3 der V vom 16. Mai 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
 
-## 2. Abschnitt: Hygienemassnahmen in den Schlacht- und Wildbearbeitungsbetrieben
+## 2. Abschnitt: Hygienemassnahmen in Schlacht- und in Wildbearbeitungsbetrieben sowie in Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden
+
+[^sec2-1]
+
+[^sec2-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 3
 
-Für die Hygienemassnahmen in den Schlacht- und Wildbearbeitungsbetrieben gelten die Vorschriften nach Anhang 3.
+<sup>1</sup> Für die Hygienemassnahmen in den Schlacht- und Wildbearbeitungsbetrieben gelten die Vorschriften nach Anhang 3.
+
+<sup>2</sup> Für die Hygienemassnahmen in den Schlacht- und Kühlräumen von Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden, gelten die Vorschriften nach Anhang 3*a*.[^3-1]
+
+[^3-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ## 3. Abschnitt: Vorgehen bei der Schlachttieruntersuchung
 
@@ -79,9 +90,9 @@ Für die Schlachttieruntersuchung gelten die Vorschriften nach Anhang 4.
 
 #### Art. 6
 
-**Untersuchung**
+**Fleischuntersuchung[^6-1]**
 
-<sup>1</sup> Die amtliche Tierärztin oder amtliche Tierarzt untersucht den Schlachttierkörper und die Teile entsprechend der Untersuchungsvorschrift nach Anhang 6.
+<sup>1</sup> Für die Fleischuntersuchung eines Schlachttierkörpers und den Teilen des Tieres gelten die Vorschriften nach Anhang 6.[^6-2]
 
 <sup>2</sup>
 
@@ -90,18 +101,21 @@ Die Untersuchung ist wenn nötig auszuweiten, indem namentlich:
 - a. Proben für Laboruntersuchungen erhoben werden;
 - b. weitere Teile des Schlachttierkörpers und zugehörige Lymphknoten angeschnitten werden.
 
-<sup>2bis</sup> Bei Hausschweinen kann auf die Erhebung einer Probe für die Laboruntersuchung auf Trichinellen verzichtet werden, wenn die Voraussetzungen für die Genussuntauglichkeit oder die Gefrierbehandlung nach Anhang 7 Ziffern 1.3.2 erfüllt sind.[^6-1]
+<sup>2bis</sup> Bei Hausschweinen kann auf die Erhebung einer Probe für die Laboruntersuchung auf Trichinellen verzichtet werden, wenn die Voraussetzungen für die Genussuntauglichkeit oder die Gefrierbehandlung nach Anhang 7 Ziffern 1.3.2 erfüllt sind.[^6-3]
 
 <sup>3</sup> Soweit diese Verordnung das Vorgehen nicht vorschreibt, sind wissenschaftlich anerkannte und erprobte Untersuchungsmethoden anzuwenden, insbesondere jene, die international festgelegt sind.
 
 <sup>4</sup> Bei der Untersuchung sind Vorkehrungen zur Vermeidung von Kontaminationen zu treffen.
 
-<sup>5</sup> Sind mehrere amtliche Tierärztinnen oder amtliche Tierärzte an der Untersuchung von Schlachttierkörper und Teilen eines Tieres beteiligt, müssen alle Befunde, die vom Normalzustand abweichen, der Person bekannt gegeben werden, welche die abschliessende Beurteilung vornimmt.
+<sup>5</sup> Sind mehrere amtliche Vollzugsorgane an der Untersuchung eines Schlachttierkörpers und den Teilen des Tieres beteiligt, so müssen alle Befunde, die vom Normalzustand abweichen, der Person bekannt gegeben werden, welche die abschliessende Beurteilung vornimmt.[^6-4]
 
-<sup>6</sup> Für gastronomische Spezialitäten kann die amtliche Tierärztin oder der amtlicher Tierarzt im Einzelfall Abweichungen von der Art der Untersuchung erlauben.[^6-2]
+<sup>6</sup> Für gastronomische Spezialitäten kann die amtliche Tierärztin oder der amtlicher Tierarzt im Einzelfall Abweichungen von der Art der Untersuchung erlauben.[^6-5]
 
-[^6-1]: Eingefügt durch Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
-[^6-2]: Eingefügt durch Ziff. I der V des EDI vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)).
+[^6-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^6-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^6-3]: Eingefügt durch Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^6-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^6-5]: Eingefügt durch Ziff. I der V des EDI vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)).
 
 #### Art. 7
 
@@ -131,7 +145,7 @@ Die Genusstauglichkeit wird verfügt:
 
   mit einem Genusstauglichkeitskennzeichen:
 
-  - 1\.[^8-1] bei Fleisch von Tieren der Pferde- und Rindergattung mit je einem Stempelabdruck auf die Viertel oder Sechstel; ausgenommen davon ist Fleisch von Tieren der Rindergattung, die jünger sind als 6 Wochen,
+  - 1\.[^8-1] bei Fleisch von Tieren der Pferde- und Rindergattung mit je einem Stempelabdruck auf die Viertel oder Sechstel; ausgenommen davon ist Fleisch von Tieren der Rindergattung, die jünger sind als acht Monate, deren Fleisch als Hälften vorliegt,
   - 2\. bei anderem Schlachtvieh mit einem Stempelabdruck auf jede Hälfte; bei ganzen Lämmern, Zicklein und Ferkeln genügt ein Stempelabdruck,
   - 3\. bei Wild, ausgenommen bei Hasen und Federwild, mit einem Stempelabdruck;
 
@@ -143,8 +157,8 @@ Die Genusstauglichkeit wird verfügt:
 
 <sup>4</sup> Für die Genusstauglichkeitskennzeichnung sowie für alle nicht amtlichen Kennzeichnungen dürfen nur Farben verwendet werden, die nicht auslöschbar, gut sichtbar und nach der Zusatzstoffverordnung vom 23. November 2005[^8-2] zugelassen sind.
 
-[^8-1]: Fassung gemäss Ziff. I der V des EDI vom 29. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
-[^8-2]: [[AS 2005 6191](https://fedlex.data.admin.ch/eli/oc/2005/806). [AS 2007 2977](https://fedlex.data.admin.ch/eli/oc/2007/401)Art. 7]. Siehe heute die V vom 22. Juni 2007 ([SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)).
+[^8-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^8-2]: [[AS 2005 6191](https://fedlex.data.admin.ch/eli/oc/2005/806). [AS 2007 2977](https://fedlex.data.admin.ch/eli/oc/2007/401)Art. 7]. Siehe heute die V vom 25. Nov. 2013 ([SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)).
 
 ## 5. Abschnitt: Organisatorische und technische Bestimmungen
 
@@ -155,8 +169,8 @@ Die Genusstauglichkeit wird verfügt:
 <sup>1</sup> Schlacht- und Wildbearbeitungsbetriebe mit einer Förderanlage für Schlachttierkörper müssen deren Geschwindigkeit so regulieren, dass für jeden Schlachttierkörper und die dazugehörenden Teile mindestens folgende Zeitspanne für die Fleischuntersuchung zur Verfügung steht:[^9-1]
 
 <table>
-<tr><td>a. für Tiere der Rindergattung, die älter sind als sechs Wochen:</td><td>4 Minuten;</td></tr>
-<tr><td>b. für Tiere der Rindergattung, die jünger sind als sechs Wochen:</td><td>2 Minuten;</td></tr>
+<tr><td>a.[^9-2] für Tiere der Rindergattung, die älter sind als acht Monate:</td><td>4 Minuten;</td></tr>
+<tr><td>b.[^9-3] für Tiere der Rindergattung, die jünger sind als acht Monate</td><td>2 Minuten;</td></tr>
 <tr><td>c. für Tiere der Schaf- und Ziegengattung:</td><td>1 Minute;</td></tr>
 <tr><td>d. für Tiere der Schweinegattung (ohne Probenahme auf Trichinellen):</td><td>1 Minute;</td></tr>
 <tr><td>e. für Tiere der Pferdegattung (ohne Probenahme auf Trichinellen):</td><td>4 Minuten;</td></tr>
@@ -166,29 +180,47 @@ Die Genusstauglichkeit wird verfügt:
 <tr><td>i. für Hausgeflügel und Hauskaninchen:</td><td>2,5 Sekunden.</td></tr>
 </table>
 
-<sup>2</sup> Die Zeitspannen nach Absatz 1 gelten für die Untersuchung von Schlachttierkörpern und Teilen ohne wesentliche Beanstandung und unter günstigen betriebstechnischen und personellen Voraussetzungen.
+<sup>2</sup>
+
+Die Zeitspannen nach Absatz 1 gelten für die Untersuchung eines Schlachttierkörpers und den Teilen des Tieres, wenn:
+
+- a. keine wesentliche Beanstandung vorliegt;
+- b. es keine Anzeichen für ein mögliches Risiko für die Gesundheit von Mensch oder Tier oder für eine Beeinträchtigung des Tierwohls zu Lebzeiten des Tieres nach Artikel 30*a* Absatz 1 VSFK gibt; und
+- c. günstige betriebstechnische und personelle Voraussetzungen gegeben sind.[^9-4]
 
 [^9-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^9-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^9-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+[^9-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 10
 
-**Mikrobiologische Fleischuntersuchung**
+**Mikrobiologische Fleischuntersuchung**[^10-1]
 
-<sup>1</sup>
+<sup>1</sup> Die mikrobiologische Fleischuntersuchung umfasst eine bakteriologische Untersuchung von Muskelstücken und Organteilen sowie einen biologischen Hemmstofftest.
 
-Eine mikrobiologische Fleischuntersuchung ist zu veranlassen, wenn krankhafte Veränderungen des Schlachttierkörpers oder der dazugehörenden Teile oder Verunreinigungen einen Entscheid für die Genusstauglichkeit als fraglich erscheinen lassen, namentlich bei:
+<sup>2</sup> Die Durchführung einer mikrobiologischen Fleischuntersuchung ist zu prüfen, wenn krankhafte Veränderungen des Schlachttierkörpers oder der Teile des Tieres einen Entscheid für die Genusstauglichkeit als fraglich erscheinen lassen.
 
-- a. Störungen des Allgemeinbefindens;
-- b. Entzündungsprozessen oder Nekrosen;
-- c.[^10-1] Tieren, die später als 45 Minuten nach dem Betäuben und Töten oder nicht fachgerecht ausgeweidet wurden, ausgenommen bei Jagdwild;
-- d. fragwürdiger Ausblutung;
-- e. Verdacht auf spezifische Infektionen mit humanpathogenen Mikroorganismen, z.B. Salmonellen.
+<sup>3</sup>
 
-<sup>2</sup> Sie unterbleibt, wenn wegen eines Beanstandungsgrunds nach Anhang 7 der Schlachttierkörper als tierisches Nebenprodukt entsorgt werden muss.
+Die Genusstauglichkeit ist fraglich namentlich bei:
 
-<sup>3</sup> Das Ergebnis der mikrobiologischen Fleischuntersuchung ist als ein Element unter mehreren zu werten, die nach Anhang 7 beim Entscheid über die Verwendbarkeit des Schlachttierkörpers berücksichtigt werden müssen. Ein günstiges Ergebnis der mikrobiologischen Untersuchung allein erlaubt noch nicht, ohne weiteres einen Schlachttierkörper als genusstauglich zu bezeichnen.
+- a.
 
-[^10-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+  pathologisch anatomischen Veränderungen, die:
+
+  - 1\. einen aktiven bakteriellen Streuungsherd darstellen, wie *Endocarditis valvularis thromboticans*,
+  - 2\. ein akutes Anzeichen einer bakteriellen Streuung sein können, wie eine akute thromboembolische Pneumonie, oder
+  - 3\. eine Eintrittspforte mit Streuungszeichen darstellen, wie ein kompliziertes Klauengeschwür;
+
+- b. Verdacht auf Infektionen mit humanpathogenen Mikroorganismen, wie Salmonellen;
+- c. fragwürdiger Ausblutung.
+
+<sup>4</sup> Sie unterbleibt, wenn wegen eines Beanstandungsgrunds nach Anhang 7 der Schlachttierkörper als tierisches Nebenprodukt entsorgt werden muss.
+
+<sup>5</sup> Das Ergebnis der mikrobiologischen Fleischuntersuchung ist als ein Element unter mehreren zu werten, die nach Anhang 7 beim Entscheid über die Verwendbarkeit des Schlachttierkörpers berücksichtigt werden müssen. Ein günstiges Ergebnis der mikrobiologischen Untersuchung allein erlaubt es noch nicht, ohne weiteres einen Schlachttierkörper als genusstauglich zu bezeichnen.
+
+[^10-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 #### Art. 11
 
@@ -216,6 +248,18 @@ Die folgenden Formulare sind zu verwenden:
 
 [^12-1]: [[AS 1995 1703](https://fedlex.data.admin.ch/eli/oc/1995/1703_1703_1703)]
 
+#### Art. 12a
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^12a-1]
+
+Es gelten die folgenden Übergangsfristen:
+
+- a. für die notwendigen baulichen Anpassungen in Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden, nach Artikel 1 Absatz 2 und Anhang 2: 5 Jahre ab Inkrafttreten dieser Verordnung;
+- b. für die notwendigen Anpassungen der Hygienemassnahmen nach Artikel 3 Absatz 2 und Anhang 3*a* in Betrieben, in denen gelegentlichen Schlachtungen durchgeführt werden: 1 Jahr ab Inkrafttreten dieser Verordnung;
+- c. für die notwendigen organisatorischen und betrieblichen Anpassungen der Fleischuntersuchung nach Artikel 6 Absatz 1 und Anhang 6: 5 Jahre ab Inkrafttreten dieser Verordnung.
+
+[^12a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+
 #### Art. 13
 
 **Aufhebung bisherigen Rechts**
@@ -230,13 +274,13 @@ Die Fleischuntersuchungsverordnung vom 3. März 1995[^13-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1)
 
 ## Anforderungen an Schlacht- und Wildbearbeitungsbetriebe
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) und Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-1]: Bereinigt gemäss Ziff. I Abs.1–3 sowie II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)), Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)) und Ziff. I Abs. 1 sowie II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Allgemeine Anforderungen
 
@@ -263,7 +307,7 @@ Anhang 1*[^t-1]*
 
 <sup>2</sup> Die Böden, Wände und Decken müssen leicht gereinigt und desinfiziert werden können.
 
-<sup>3</sup> Durchgänge, in denen unverpackte Schlachttierkörper und Schlachterzeugnisse transportiert werden, müssen sinngemäss die Anforderungen nach Absatz 1 erfüllen. Sie dürfen nicht als Lagerplatz verwendet werden.
+<sup>3</sup> Durchgänge, durch die unverpackte Schlachttierkörper und Schlachterzeugnisse transportiert werden, müssen sinngemäss die Anforderungen nach den Absatz 1 erfüllen. Sie dürfen nicht als Lagerplatz verwendet werden.
 
 <sup>4</sup> Allfällige Gebäudeisolierungen müssen aus nicht verrottendem, geruchlosem Material bestehen. Sie müssen so geschützt sein, dass sie bei der Reinigung nicht beschädigt werden.
 
@@ -280,7 +324,7 @@ Anhang 1*[^t-1]*
 Die Räume müssen durch natürliches Tageslicht oder künstliche Beleuchtung erhellt werden. Die Beleuchtungsstärke beträgt mindestens:
 
 <table>
-<tr><td>[tab]</td><td>Lux</td></tr>
+<tr><td></td><td>Lux</td></tr>
 <tr><td>a. in Arbeitsräumen</td><td>220</td></tr>
 <tr><td>b. in Kühl- und Tiefkühlräumen</td><td>110</td></tr>
 <tr><td>c. in Ställen</td><td>110</td></tr>
@@ -292,7 +336,7 @@ Die Räume müssen durch natürliches Tageslicht oder künstliche Beleuchtung er
 
 Die Räume müssen belüftet und entlüftet werden. Nötigenfalls muss ein Dampfabzug vorhanden sein.
 
-### 1.5 Kühlmaschinen
+### 1.5 Kühl- und Tiefkühlräume
 
 Kühl- und Tiefkühlräume müssen zusätzlich ausgestattet sein mit:
 
@@ -310,7 +354,7 @@ Kühl- und Tiefkühlräume müssen zusätzlich ausgestattet sein mit:
   Armaturen, die:
 
   - 1\. weder von Hand noch mit dem Arm betätigt werden können,
-  - 2\. fliessendes warmes und kaltes Wasser oder auf eine angenehme Temperatur vorgemischtes Wasser spenden;
+  - 2\. fliessendes kaltes und heisses Wasser oder bereits temperiertes Wasser spenden;
 
 - b. Vorrichtungen zur Entnahme von Reinigungs- und Desinfektionsmitteln;
 - c. hygienischen Einrichtungen zum Händetrocknen; Wegwerfhandtücher müssen in einem Handtuchspender gestapelt werden; für gebrauchte Tücher muss ein Behälter vorhanden sein.
@@ -325,7 +369,7 @@ Zur Reinigung der Arbeitsgeräte, die mit Schlachttierkörpern und Schlachterzeu
 
 <sup>2</sup> Einrichtungen und Arbeitsgeräte müssen so eingesetzt werden, dass die Schlachttierkörper und Schlachterzeugnisse nicht mit dem Boden, den Wänden, den Türen oder Baukonstruktionen in Berührung kommen.
 
-<sup>3</sup> Galvanisierte Flächen sind nur zulässig, wo sie nicht mit Schlachttierkörpern und Schlachterzeugnissen in Berührung kommen.
+<sup>3</sup> Galvanisierte Flächen sind nur zulässig, wenn sie nicht mit Schlachttierkörpern und Schlachterzeugnissen in Berührung kommen.
 
 <sup>4</sup> Holz darf nur in Räumen verwendet werden, in denen die Schlachttierkörper und Schlachterzeugnisse verpackt sind.
 
@@ -340,28 +384,25 @@ Zur Reinigung der Arbeitsgeräte, die mit Schlachttierkörpern und Schlachterzeu
 - a. dichte Behälter aus korrosionsfestem Material, das leicht zu reinigen ist; oder
 - b. ein besonderer Raum für grosse Mengen oder zur Zwischenlagerung.
 
-<sup>4</sup> Die Behälter und Räume für die Aufnahme tierischer Nebenprodukte müssen zum Schutz vor unbefugtem Zugriff verschlossen werden können. Diese müssen gekühlt sein, wenn sie nicht täglich abgeführt werden. Die Kennzeichnung richtet sich nach Anhang 4 Ziffer 11 der Verordnung vom 25. Mai 2011[^annex1-lvlu1-lvl1-lvl19-1] über die Entsorgung von tierischen Nebenprodukten[^annex1-lvlu1-lvl1-lvl19-2].
+<sup>4</sup> Die Behälter und Räume für die Aufnahme von tierischen Nebenprodukten müssen zum Schutz vor unbefugtem Zugriff verschlossen werden können. Sie müssen gekühlt werden, wenn die tierischen Nebenprodukte nicht täglich abgeführt werden. Die Kennzeichnung der Behälter richtet sich nach Anhang 4 Ziffer 11 der Verordnung vom 25. Mai 2011[^annex1-lvlu1-lvl1-lvl19-1] über tierische Nebenprodukte (VTNP).
 
-<sup>5</sup> Für die Zwischenlagerung von Stoffwechselprodukten (Mist, Pansen-, Magen- und Darminhalt) auf dem Areal des Schlacht- oder des Wildbearbeitungsbetriebs muss ein eingefasster Platz vorhanden sein, wenn die Stoffwechselprodukte nicht täglich abgeführt werden. Dieser muss so angelegt sein, dass die Schlachttierkörper und die Schlachterzeugnisse nicht nachteilig beeinflusst werden. Er muss gegen Vögel und Ungeziefer geschützt und mit einem Abfluss versehen sein.
+<sup>5</sup> Für die Zwischenlagerung von Stoffwechselprodukten (Harn, Pansen-, Magen- und Darminhalt) und Mist auf dem Areal des Schlacht- oder des Wildbearbeitungsbetriebs muss ein eingefasster Platz vorhanden sein, wenn die Stoffwechselprodukte und der Mist nicht täglich abgeführt werden. Dieser muss so angelegt sein, dass die Schlachttierkörper und die Schlachterzeugnisse nicht nachteilig beeinflusst werden. Er muss gegen Vögel und Ungeziefer geschützt und mit einem Abfluss versehen sein.
 
-[^annex1-lvlu1-lvl1-lvl19-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^annex1-lvlu1-lvl1-lvl19-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^annex1-lvlu1-lvl1-lvl19-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 ### 1.10 Abwasser
 
 <sup>1</sup> Zur Entfernung von Feststoffen aus dem Abwasser müssen Schlacht- und Wildbearbeitungsbetriebe entweder über eine Einrichtung zum Vorklären des Abwassers verfügen (Flotations- oder Filteranlage) oder mit Bodenabläufen ausgestattet sein, die durch Gitter mit einer maximalen Durchlassgrösse von 1 cm<sup>2</sup> abgedeckt sind.
 
-<sup>2</sup> Die anfallenden Feststoffe sind gemäss Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten zu entsorgen[^annex1-lvlu1-lvl1-lvl110-1].
-
-[^annex1-lvlu1-lvl1-lvl110-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+<sup>2</sup> Die anfallenden Feststoffe sind gemäss VTNP zu entsorgen.
 
 ### 2 Allgemeine Anforderungen an Grossbetriebe
 
 ### 2.1 Ausstattung des Areals
 
-<sup>1</sup> Durch bauliche Massnahmen wie Mauern, Zäune oder Tore muss sichergestellt werden können, dass unbefugte Personen keinen Zutritt zum Areal der Schlachtanlage haben.
+<sup>1</sup> Durch bauliche Massnahmen wie Mauern, Zäune oder Tore muss sichergestellt werden können, dass unbefugte Personen keinen Zutritt zum Areal des Schlachtbetriebs haben.
 
-<sup>2</sup> Im Areal oder in leicht erreichbarer Nähe muss je eine Einrichtung vorhanden sein zum Reinigen und Desinfizieren:
+<sup>2</sup> Auf dem Areal oder in leicht erreichbarer Nähe muss je eine Einrichtung vorhanden sein zum Reinigen und Desinfizieren:
 
 - a. der Tiertransportfahrzeuge;
 - b. der Fleischtransportfahrzeuge.
@@ -373,12 +414,15 @@ Zur Reinigung der Arbeitsgeräte, die mit Schlachttierkörpern und Schlachterzeu
 
 ### 2.2 Räumliche Grundausstattung
 
-<sup>1</sup> In einem Grossbetrieb sind gesonderte Räume erforderlich für:
+<sup>1</sup> In einem Grossbetrieb sind separate Räume erforderlich für:
 
 - a. das Unterbringen der Tiere (Warteraum, Stall);
-- b. das Schlachten, räumlich aufgeteilt in
+- b.
+
+  das Schlachten, räumlich aufgeteilt in Bereiche für:
+
   - 1\. das Betäuben und Entbluten,
-  - 2\. das Ausnehmen und weitere Zurichten;
+  - 2\. das Ausnehmen und weitere Schlachtarbeiten;
 
 - c. das Bearbeiten der Schlachterzeugnisse;
 - d. das Umhüllen und Verpacken der Schlachterzeugnisse, sofern dies vorgesehen ist;
@@ -390,7 +434,7 @@ Zur Reinigung der Arbeitsgeräte, die mit Schlachttierkörpern und Schlachterzeu
 - j. die Entsorgung tierischer Nebenprodukte;
 - k. die amtlichen Kontrollen und Massnahmen.
 
-<sup>2</sup> ...
+<sup>2</sup> …
 
 <sup>3</sup> Die Arbeitsvorgänge nach Absatz 1 Buchstaben b, c und d können räumlich oder zeitlich getrennt sein.
 
@@ -406,7 +450,7 @@ Zur Reinigung der Arbeitsgeräte, die mit Schlachttierkörpern und Schlachterzeu
 
 <sup>3</sup> Die Toiletten dürfen keinen direkten Zugang zu Arbeits- und Lagerräumen haben.
 
-<sup>4</sup> Zur Reinigung von Schürzen und Stiefeln muss ein besonderer Raum oder ein besonderer Bereich in der Schlachtanlage vorhanden sein.
+<sup>4</sup> Zur Reinigung von Schürzen und Stiefeln muss ein besonderer Raum oder ein besonderer Bereich im Schlachtbetrieb vorhanden sein.
 
 ### 3 Allgemeine Anforderungen an Betriebe mit geringer Kapazität
 
@@ -427,14 +471,12 @@ Zur Reinigung der Arbeitsgeräte, die mit Schlachttierkörpern und Schlachterzeu
 
 <sup>2</sup> Die Räume nach Absatz 1 Buchstaben b, c und d können sich auch ausserhalb des Schlacht- oder des Wildbearbeitungsbetriebs befinden.
 
-<sup>3</sup> In neu zu errichtenden Schlachträumen beträgt die Mindestbodenfläche 25 m<sup>2</sup>. Dabei muss der Abstand zwischen einander gegenüberstehenden Wänden mindestens 3,5 m betragen. Dies gilt nicht für Räume, in denen ausschliesslich Geflügel und Kaninchen geschlachtet werden oder erlegtes Jagd- und Gehegewild bearbeitet wird.
+<sup>3</sup> In neu zu errichtenden Schlachträumen beträgt die Mindestbodenfläche 25 m<sup>2</sup>. Dabei muss der Abstand zwischen einander gegenüberstehenden Wänden mindestens 3,5 m betragen. Dies gilt nicht für:
 
-### 4. Besondere Anforderungen an Schlachtbetriebe**** für Schlachtvieh und Gehegewild****
+- a. Räume, in denen ausschliesslich Hausgeflügel und Hauskaninchen geschlachtet werden oder erlegtes Jagd- und Gehegewild bearbeitet wird;
+- b. mobile Schlachtanlagen.
 
-[^annex1-lvlu1-lvl4-1][^annex1-lvlu1-lvl4-2]
-
-[^annex1-lvlu1-lvl4-1]: Ausdruck gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^annex1-lvlu1-lvl4-2]: Ausdruck gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+### 4. Besondere Anforderungen an Schlachtbetriebe für Schlachtvieh und Gehegewild
 
 ### 4.1 Grossbetriebe
 
@@ -446,7 +488,7 @@ Rampen, Warteräume, Ställe und Treibgänge müssen wie folgt ausgestattet sein
 - b. mit glatten Wänden mit einem widerstandsfähigen, wasserundurchlässigen Belag, der leicht gereinigt und desinfiziert werden kann;
 - c. mit Abflussrinnen in den Ställen für die Stoffwechselprodukte;
 - d. mit Einrichtungen zur Erleichterung der Schlachttieruntersuchung und der Identifizierung von Tieren bzw. Tiergruppen;
-- e. mit gesonderter Abwasserableitung, welche die Sicherheit von Lebensmitteln nicht gefährdet.
+- e. mit separater Abwasserableitung, damit die Sicherheit von Lebensmitteln nicht durch Abwasser gefährdet wird.
 
 ### 4.1.2 Zusätzliche Räume
 
@@ -477,11 +519,11 @@ Rampen, Warteräume, Ställe und Treibgänge müssen wie folgt ausgestattet sein
 
 - a. ein abschliessbarer Sanitätsstall oder ein abtrennbarer Bereich im Stall mit ausschliesslich dafür vorgesehenen Wasserabläufen für das Absondern kranker oder krankheitsverdächtiger Tiere;
 - b. ein gedeckter Untersuchungsplatz für die Schlachttieruntersuchung;
-- c. in Schlachtanlagen mit automatischer Förderanlage ein beim Untersuchungsplatz beginnendes Abschiebegeleise für Schlachttierkörper, an denen zusätzliche Untersuchungen durchgeführt werden müssen;
+- c. in Schlachtbetrieben mit automatischer Förderanlage ein beim Untersuchungsplatz beginnendes Abschiebegeleise für Schlachttierkörper, an denen zusätzliche Untersuchungen durchgeführt werden müssen;
 - d. ein abschliessbarer Sanitätskühlraum oder entsprechende abschliessbare Abteile für die Aufbewahrung beanstandeter und beschlagnahmter Schlachttierkörper;
 - e. ein ausreichend ausgestatteter, abschliessbarer Büroraum oder ein Arbeitsplatz mit abschliessbarem Abteil für Untersuchungsmaterial und die administrativen Unterlagen, je nach Umfang der Schlachtungen, sowie ein Schrank für die Berufskleider.
 
-<sup>2</sup> Sofern Schlachtungen kranker oder krankheitsverdächtiger Tiere nicht in besonders dafür vorgesehenen Schlachtanlagen oder zeitlich getrennt von den übrigen Schlachtungen vorgenommen werden können, ist ein Notschlachtlokal vorzusehen.
+<sup>2</sup> Sofern Schlachtungen kranker oder krankheitsverdächtiger Tiere nicht in besonders dafür vorgesehenen Schlachtbetrieben oder zeitlich getrennt von den übrigen Schlachtungen vorgenommen werden können, ist ein Notschlachtlokal vorzusehen.
 
 <sup>3</sup> Die Untersuchungsplätze für die Fleischuntersuchung müssen ausgestattet sein mit:
 
@@ -506,14 +548,14 @@ Die folgenden Einrichtungen sind erforderlich:
 
 ### 5 Besondere Anforderungen an Schlachtbetriebe für Hausgeflügel und Laufvögel
 
-<sup>1</sup> Für Geflügelschlachtanlagen in Grossbetrieben müssen die nachstehenden Aktivitäten in einem dafür bestimmten Raum durchgeführt werden:
+<sup>1</sup> Für die Schlachtung von Hausgeflügel oder Laufvögeln in Grossbetrieben müssen die nachstehenden Aktivitäten in einem dafür bestimmten Raum durchgeführt werden:
 
 - a. das Entnehmen aus den Transportbehältern, die Schlachttieruntersuchung und das Zuführen der Tiere zum Betäuben;
 - b. das Betäuben, das Entbluten und das Entfedern oder das Enthäuten;
-- c. das Ausweiden und das weitere Zurichten einschliesslich der Zugabe von Würzstoffen an ganze Geflügelschlachtkörper;
+- c. das Ausnehmen und weitere Schlachtarbeiten einschliesslich der Zugabe von Würzstoffen an ganze Schlachttierkörper;
 - d. der Versand von Fleisch.
 
-<sup>2</sup> Für Personen, die mit lebendem Geflügel umgehen oder Geflügel entfedern, sind in Grossbetrieben ein gesonderter Umkleideraum und gesonderte Toiletten erforderlich.
+<sup>2</sup> Für Personen, die mit lebendem Hausgeflügel oder lebenden Laufvögeln umgehen oder Hausgeflügel oder Laufvögel entfedern, sind in Grossbetrieben ein separater Umkleideraum und separate Toiletten erforderlich.
 
 <sup>3</sup> Die Schlachttierkörper sind über kleine Durchreichen von einem Raum in den andern und in den Schlachtraum zu befördern. Weitere Durchgänge zwischen diesen Räumen müssen selbständig schliessende Türen haben.
 
@@ -521,25 +563,76 @@ Die folgenden Einrichtungen sind erforderlich:
 
 ### 6 Besondere Anforderungen an Wildbearbeitungsbetriebe
 
-<sup>1</sup> Die Annahme und die Lagerung von nicht gehäutetem und nicht entfedertem Wild sowie das Enthäuten und Entfedern erfolgen räumlich oder zeitlich voneinander getrennt. Der Raum für die Lagerung muss gekühlt werden.
+<sup>1</sup> Die Annahme und die Lagerung von nicht enthäutetem und nicht entfedertem Wild sowie das Enthäuten und das Entfedern erfolgen räumlich oder zeitlich voneinander getrennt. Der Raum für die Lagerung muss gekühlt werden.
 
 <sup>2</sup> Unverpacktes Fleisch muss räumlich oder zeitlich getrennt von Wild in der Decke oder im Federkleid und von verpacktem Fleisch gelagert werden.
 
 <sup>3</sup> Diese Regelungen gelten auch für Betriebe, die nicht über einen Raum zum Schlachten verfügen.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
-(Art. 2)
+(Art. 1 Abs. 2 und 12*a* Bst. b)
 
-[^t-2]: Aufgehoben durch Ziff. II 3 der V vom 16. Mai 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
+## Anforderungen an Räume von Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden
 
-Anhang 3*[^t-3]*
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
-(Art. 3)
+### 1 Ausstattung der Räume
+
+Die Räume und die Einrichtungen müssen sauber, leicht zu reinigen und zu desinfizieren sein. Die Abläufe müssen geruchssicher sein.
+
+### 2 Wasser
+
+In Räumen, in denen mit Schlachttierkörpern und Schlachterzeugnissen gearbeitet wird, muss kaltes und heisses Wasser mit Trinkwasserqualität vorhanden sein.
+
+### 3 Licht
+
+Die Räume müssen durch natürliches Tageslicht oder künstliche Beleuchtung erhellt werden.
+
+### 4 Lüftung
+
+Die Räume müssen gut belüftet sein.
+
+### 5 Kühl- und Tiefkühleinrichtungen
+
+Es müssen Kühl- und gegebenenfalls Tiefkühleinrichtungen vorhanden sein; diese müssen über eine ausreichende Kapazität und eine Temperaturkontrolle verfügen.
+
+### 6 Handwaschgelegenheit
+
+- 6\.1 In der Nähe jedes Arbeitsplatzes muss eine Handwaschgelegenheit angebracht sein.
+- 6\.2 Handwaschgelegenheiten müssen ausgestattet sein mit:
+- 6\.2.1 Armaturen, die fliessendes kaltes und heisses Wasser oder bereits temperiertes Wasser spenden;
+- 6\.2.2 Vorrichtungen zur Entnahme von Reinigungs- und Desinfektionsmitteln;
+- 6\.2.3 hygienischen Einrichtungen zum Händetrocknen; Wegwerfhandtücher müssen in einem Handtuchspender gestapelt werden.
+
+### 7 Reinigung und Desinfektion von Arbeitsgeräten
+
+Zur Reinigung der Arbeitsgeräte, die mit Schlachttierkörpern und Schlachterzeugnissen in Kontakt kommen, müssen geeignete Einrichtungen und zur Desinfektion Wasser mit einer Temperatur von mindestens 82 °C oder ein alternatives System mit gleicher Wirkung in der Nähe der Arbeitsplätze vorhanden sein.
+
+### 8 Einrichtungen und Arbeitsgeräte
+
+- 8\.1 Einrichtungen und Arbeitsgeräte müssen, wo sie mit Schlachttierkörpern und Schlachterzeugnissen in Berührung kommen, mit glatten Flächen ausgestattet sein sowie leicht gereinigt und desinfiziert werden können.
+- 8\.2 Einrichtungen und Arbeitsgeräte müssen so eingesetzt werden, dass die Schlachttierkörper und Schlachterzeugnisse nicht mit dem Boden, den Wänden, den Türen oder Baukonstruktionen in Berührung kommen.
+
+### 9 Entsorgung von tierischen Nebenprodukten
+
+- 9\.1 Für die Aufnahme der tierischen Nebenprodukte müssen dichte und verschliessbare Behälter aus korrosionsfestem Material, das leicht zu reinigen ist, vorhanden sein. Die Behälter müssen nach Anhang 4 Ziffer 11 VTNP[^annex2-lvlu1-lvl9-1] gekennzeichnet werden.
+- 9\.2 Die tierischen Nebenprodukte müssen zeitnah nach der Schlachtung in einer Sammelstelle entsorgt werden.
+
+[^annex2-lvlu1-lvl9-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+
+### 10 Abwasser
+
+- 10\.1 Zur Entfernung von Feststoffen aus dem Abwasser müssen Bodenabläufe vorhanden sein, die durch Gitter mit einer maximalen Durchlassgrösse von 1 cm<sup>2</sup> abgedeckt sind.
+- 10\.2 Die anfallenden Feststoffe sind gemäss VTNP zu entsorgen.
+
+Anhang 3[^t-3]
+
+(Art. 3 Abs. 1)
 
 ## Hygienemassnahmen in Schlacht- und Wildbearbeitungsbetrieben
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 29. Okt. 2008 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) und Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 29. Okt. 2008 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), Ziff. I Abs. 1 und 2 sowie II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)), Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)) und Ziff. I Abs. 1 und 2 sowie II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Allgemeine Hygienevorschriften
 
@@ -583,9 +676,9 @@ Anhang 3*[^t-3]*
 
 ### 2 Besondere Hygienevorschriften: Schlachtvieh und Gehegewild
 
-### 2.1 Tätigkeiten in Schlachtanlagen
+### 2.1 Tätigkeiten in Schlachtbetrieben
 
-<sup>1</sup> In den Räumen einer Schlachtanlage dürfen nur die mit dem Schlachten im Zusammenhang stehenden Tätigkeiten ausgeübt werden.
+<sup>1</sup> In den Räumen eines Schlachtbetriebs dürfen nur die mit dem Schlachten im Zusammenhang stehenden Tätigkeiten ausgeübt werden.
 
 <sup>2</sup> Erlaubt sind ferner:
 
@@ -614,7 +707,7 @@ Beim Schlachten müssen jene Teile vom Schlachttierkörper abgetrennt werden, di
 
 <sup>4</sup> Beim Enthäuten dürfen die Euter, die Milch absondern, nicht angeschnitten werden; der Schlachttierkörper darf nicht mit Milch oder Kolostrum verunreinigt werden.
 
-<sup>5</sup> Das Auslaufen von Magen- und Darminhalt während dem Ausweiden muss verhindert werden und das Ausweiden muss möglichst schnell nach dem Betäuben erfolgen.
+<sup>5</sup> Das Auslaufen von Magen- und Darminhalt während dem Ausnehmen muss verhindert werden und das Ausnehmen muss möglichst schnell, jedoch maximal innert 90 Minuten nach dem Betäuben und Entbluten erfolgt sein.
 
 <sup>6</sup> Sofern sie zur Weiterverarbeitung als Lebensmittel bestimmt sind, müssen:
 
@@ -624,20 +717,20 @@ Beim Schlachten müssen jene Teile vom Schlachttierkörper abgetrennt werden, di
 
 <sup>6bis</sup> Abweichend von Absatz 6 Buchstabe a muss der Magen von Kälbern, wenn er für die Labproduktion bestimmt ist, nur entleert werden.
 
-<sup>7</sup> Die Eingeweide der Bauchhöhle müssen sobald als möglich aus dem reinen Teil der Schlachtanlage entfernt werden.
+<sup>7</sup> Die Eingeweide der Bauchhöhle müssen sobald als möglich aus dem reinen Teil des Schlachtbetriebs entfernt werden.
 
 <sup>8</sup> Schlachttierkörper dürfen nicht mit Kot kontaminiert sein. Sichtbare Kontaminationen müssen durch Wegschneiden entfernt werden.
 
 <sup>9</sup> Kontaminationen des Fleisches mit Brühwasser sind zu vermeiden. Schlachttierkörper von Schweinen müssen mit Trinkwasser abgesprüht werden.
 
-<sup>10</sup> Falls eine Schlachtanlage nicht über ein Notschlachtlokal verfügt, müssen die für Notschlachtungen verwendeten Einrichtungen nach jedem Gebrauch gereinigt und desinfiziert werden.
+<sup>10</sup> Falls ein Schlachtbetrieb nicht über ein Notschlachtlokal verfügt, müssen die für Notschlachtungen verwendeten Einrichtungen nach jedem Gebrauch gereinigt und desinfiziert werden.
 
 ### 2.4 Unzulässige Manipulationen beim Schlachten
 
 <sup>1</sup> Es ist untersagt, Schlachttierkörper und Schlachterzeugnisse:
 
 - a. mit Tüchern oder anderen Materialien, ausgenommen mit Papierservietten zum einmaligen Gebrauch abzureiben;
-- b. ...
+- b. …
 - c. vor der Fleischuntersuchung in stehendes Wasser zu tauchen.
 
 <sup>2</sup> Schlachttierkörper, ausgenommen Schweine, dürfen vor der Fleischuntersuchung nicht mit Wasser abgespritzt werden.
@@ -646,9 +739,9 @@ Beim Schlachten müssen jene Teile vom Schlachttierkörper abgetrennt werden, di
 
 ### 3.1 Hausgeflügel, Hauskaninchen und Laufvögel
 
-<sup>1</sup> Transportbehälter für die Beförderung von lebenden Tieren zur Schlachtanlage müssen aus korrosionsbeständigem Material sowie leicht zu reinigen und zu desinfizieren sein und sofort nach Entleerung und erforderlichenfalls vor jeder Wiederverwendung gereinigt, gewaschen und desinfiziert werden.
+<sup>1</sup> Transportbehälter für die Beförderung von lebenden Tieren zum Schlachtbetrieb müssen aus korrosionsbeständigem Material sowie leicht zu reinigen und zu desinfizieren sein und sofort nach Entleerung und erforderlichenfalls vor jeder Wiederverwendung gereinigt, gewaschen und desinfiziert werden.
 
-<sup>2</sup> Der Darm muss so entfernt werden, dass die Schlachttierkörper nicht verunreinigt werden. Er ist sobald als möglich aus dem reinen Teil der Schlachtanlage zu entfernen.
+<sup>2</sup> Der Darm muss so entfernt werden, dass die Schlachttierkörper nicht verunreinigt werden. Er ist sobald als möglich aus dem reinen Teil des Schlachtbetriebs zu entfernen.
 
 <sup>3</sup> Nach dem Ausnehmen und der Fleischuntersuchung müssen die Schlachttierkörper gesäubert und so schnell wie möglich auf eine Temperatur von nicht mehr als 4 °C abgekühlt werden, es sei denn, das Fleisch wird in warmem Zustand zerlegt.
 
@@ -660,25 +753,25 @@ Beim Schlachten müssen jene Teile vom Schlachttierkörper abgetrennt werden, di
 
 <sup>1</sup> Jagdwild muss möglichst bald nach dem Erlegen entblutet werden; Magen und Därme sind herauszulösen. Bei Hasen und Federwild können Magen und Därme erst am Ort der weiteren Bearbeitung (Schlachtung) entfernt werden, wenn dies ohne ungerechtfertigte Zeitverzögerung möglich ist.
 
-<sup>2</sup> Die Wildkörper müssen nach dem Erlegen innerhalb einer angemessenen Zeitspanne auf nicht mehr als 7 °C abgekühlt werden, Hasen und Federwild auf nicht mehr als 4 °C. Während der Beförderung an den Ort der weiteren Bearbeitung muss das Übereinanderlegen von Wildkörpern vermieden werden. Soweit es die klimatischen Verhältnisse erlauben, ist eine aktive Kühlung nicht erforderlich.
+<sup>2</sup> Die Schlachttierkörper müssen nach dem Erlegen innerhalb einer angemessenen Zeitspanne auf nicht mehr als 7 °C abgekühlt werden, Hasen und Federwild auf nicht mehr als 4 °C. Während der Beförderung an den Ort der weiteren Bearbeitung muss das Übereinanderlegen von Schlachttierkörpern vermieden werden. Soweit es die klimatischen Verhältnisse erlauben, ist eine aktive Kühlung nicht erforderlich.
 
-<sup>3</sup> Bei Tieren, die auf Trichinellen untersucht werden müssen, sind mit dem Wildkörper der Kopf, ausgenommen die Hauer, und das Zwerchfell der amtlichen Tierärztin oder dem amtlichen Tierarzt vorzuweisen.
+<sup>3</sup> Bei Tieren, die auf Trichinellen untersucht werden müssen, sind mit dem Schlachttierkörper der Kopf, ausgenommen die Hauer, und das Zwerchfell der amtlichen Tierärztin oder dem amtlichen Tierarzt vorzuweisen.
 
 ### 3.2.2 Untersuchung von Jagdwild
 
-<sup>1</sup> Der Wildkörper und die Eingeweide, soweit sie herausgelöst worden sind, müssen möglichst bald nach dem Erlegen untersucht werden. Dabei ist auf auffällige Merkmale, die vor dem Erlegen oder beim Untersuchen festgestellt worden sind oder die auf Umweltkontamination hinweisen, zu achten.
+<sup>1</sup> Der Schlachttierkörper und die Eingeweide, soweit sie herausgelöst worden sind, müssen möglichst bald nach dem Erlegen untersucht werden. Dabei ist auf auffällige Merkmale, die vor dem Erlegen oder beim Untersuchen festgestellt worden sind oder die auf Umweltkontamination hinweisen, zu achten.
 
 <sup>2</sup> Über die Untersuchung ist eine Bescheinigung (Anhang 14) auszustellen.
 
 <sup>3</sup> Das Jagdwild muss wie folgt in den Wildbearbeitungsbetrieb befördert werden:
 
-- a. Werden bei der Untersuchung nach Absatz 1 keine auffälligen Merkmale festgestellt, müssen der Kopf und die Eingeweide dem Wildkörper nicht beigefügt werden, soweit dies nicht für die Trichinellenuntersuchung vorgeschrieben ist.
+- a. Werden bei der Untersuchung nach Absatz 1 keine auffälligen Merkmale festgestellt, müssen der Kopf und die Eingeweide dem Schlachttierkörper nicht beigefügt werden, soweit dies nicht für die Trichinellenuntersuchung vorgeschrieben ist.
 - b. Werden bei der Untersuchung nach Absatz 1 auffällige Merkmale festgestellt, müssen der Kopf mit Ausnahme der Hauer, des Geweihs oder der Hörner sowie die Eingeweide mit Ausnahme des Magens und der Därme beigefügt werden.
 - c. Konnte die Untersuchung nach Absatz 1 nicht durchgeführt werden, müssen der Kopf mit Ausnahme der Hauer, des Geweihs oder der Hörner sowie die Eingeweide mit Ausnahme des Magens und der Därme beigefügt werden.
 
 ### 3.3 Fische
 
-<sup>1</sup> Die Flächen, Ausrüstungsgegenstände und Materialien, mit denen die Fische in Berührung kommen, müssen aus geeignetem, korrosionsfestem Material sein, das glatt und einfach zu reinigen ist. Die Oberflächenbeschichtung muss haltbar und nicht aus toxischem Material sein.
+<sup>1</sup> Die Flächen, Ausrüstungsgegenstände und Materialien, mit denen die Fische in Berührung kommen, müssen aus geeignetem, korrosionsfestem Material sein, das glatt und einfach zu reinigen ist.
 
 <sup>2</sup> Sobald Fische dem Gewässer entnommen worden sind, müssen sie vor Verunreinigung, Sonnenstrahlen oder anderen Wärmequellen geschützt werden. Werden sie gewaschen, muss das Wasser sauber sein.
 
@@ -692,23 +785,45 @@ Beim Schlachten müssen jene Teile vom Schlachttierkörper abgetrennt werden, di
 
 ### 3.4 Andere Tiere
 
-<sup>1</sup> Schlachtanlagen, in denen Frösche geschlachtet werden, müssen über einen gesonderten Raum für die Lagerung und das Waschen lebender Frösche sowie für ihre Schlachtung und das Ausbluten verfügen. Frösche und Schnecken müssen in lebendem Zustand in die für die Bearbeitung bestimmten und entsprechend ausgerüsteten Anlagen verbracht und dort getötet werden. Andernfalls sind sie genussuntauglich.
+<sup>1</sup> Schlachtbetriebe, in denen Frösche geschlachtet werden, müssen über einen gesonderten Raum für die Lagerung und das Waschen lebender Frösche sowie für ihre Schlachtung und das Ausbluten verfügen. Frösche und Schnecken müssen in lebendem Zustand in die für die Bearbeitung bestimmten und entsprechend ausgerüsteten Anlagen verbracht und dort getötet werden. Andernfalls sind sie genussuntauglich.
 
 <sup>2</sup> Der Leber-Bauchspeichelkomplex der Schnecken muss nach dem Töten entfernt werden und darf nicht als Lebensmittel abgegeben werden.
 
-<sup>3</sup> Unmittelbar nach ihrer Gewinnung müssen Froschschenkel unter fliessendem Wasser gründlich abgewaschen und unverzüglich auf Schmelzeistemperatur abgekühlt und bei dieser gehalten, eingefroren oder verarbeitet werden.
+<sup>3</sup> Unmittelbar nach ihrer Gewinnung müssen Froschschenkel unter fliessendem Trinkwasser gründlich abgewaschen, unverzüglich auf Schmelzeistemperatur (0–2 °C) abgekühlt und bei dieser gehalten, eingefroren oder verarbeitet werden.
 
 <sup>4</sup> Krebstiere, Weichtiere, Stachelhäuter und Manteltiere, die lebend zum Endverbraucher gebracht werden, müssen bei Temperaturen gehalten und gelagert werden, die ihre Lebensfähigkeit und die Lebensmittelhygiene nicht beeinträchtigen.
 
 <sup>5</sup> Für Krebstiere, Weichtiere, Stachelhäuter und Manteltiere gelten im Übrigen die Bestimmungen von Ziffer 3.3.
 
-Anhang 4*[^t-4]*
+Anhang 3a[^t-4]
+
+(Art. 3 Abs. 2 und 12*a* Bst. a)
+
+## Hygienemassnahmen in Räumen von Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden
+
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+
+- 1 Personen, die Tiere schlachten oder sich in Räumen mit unverpackten Schlachttierkörpern und Schlachterzeugnissen aufhalten, müssen auf Hygiene und Sauberkeit achten. Die Arbeits- und Schutzkleidung muss zweckmässig, hell und sauber sein.
+- 2 Die Hände müssen gewaschen werden:
+- 2\.1 vor jeder Aufnahme und Wiederaufnahme der Arbeit;
+- 2\.2 nach jeder Verunreinigung der Hände;
+- 2\.3 nach dem Berühren von kranken Tieren sowie Schlachttierkörpern oder den Teilen dieser Tiere.
+- 3 In den Arbeitsbereichen darf nicht gegessen, getrunken oder geraucht werden.
+- 4 Böden und Wände dürfen nicht mit Schlachttierkörpern und Schlachterzeugnissen in Berührung kommen.
+- 5 Arbeitsgeräte müssen an einem sauberen Ort aufbewahrt werden.
+- 6 Räume und Arbeitsgeräte müssen nach der Schlachtung oder bei Bedarf während der Schlachtung gereinigt und gegebenenfalls desinfiziert werden.
+- 7 Beim Enthäuten von Hauskaninchen muss darauf geachtet werden, dass das gelöste Fell und die gelöste Haut nicht mit dem enthäuteten Schlachttierkörper in Kontakt kommen.
+- 8 Beim Ausnehmen muss darauf geachtet werden, dass kein Magen-Darminhalt den Schlachttierkörper verunreinigt. Sichtbare Verunreinigungen müssen mit einem Messer weggeschnitten und lose Haare oder Federn mit einem trockenen Papier entfernt werden.
+- 9 Während der Kühlung dürfen sich die Schlachttierkörper nicht berühren. Es muss durch eine angemessene Belüftung sichergestellt werden, dass sich auf dem Fleisch kein Kondenswasser bildet.
+- 10 Schlachttierkörper müssen in sauberen Behältern transportiert werden, die leicht zu reinigen und zu desinfizieren und vor Verschmutzung geschützt sind.
+
+Anhang 4[^t-5]
 
 (Art. 4)
 
 ## Schlachttieruntersuchung
 
-[^t-4]: Bereinigt gemäss Anhang 2 Ziff. 3 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst, in Kraft seit 1. April 2007 ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+[^t-5]: Bereinigt gemäss Anhang 2 Ziff. 3 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), Ziff. I Abs. 3 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) und Ziff. I Abs. 3 und II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Durchführung
 
@@ -731,7 +846,7 @@ Anhang 4*[^t-4]*
 
 ### 2 Massnahmen aufgrund der Schlachttieruntersuchung
 
-<sup>1</sup> Je nach Befund ordnet die amtliche Tierärztin oder der amtliche Tierarzt an, dass ein Tier:
+<sup>1</sup> Je nach Befund wird angeordnet, dass ein Tier:
 
 - a. für die nähere Abklärung bei der Fleischuntersuchung vorgemerkt wird;
 - b. vorsorglich abgesondert wird;
@@ -739,25 +854,22 @@ Anhang 4*[^t-4]*
 - d. unverzüglich geschlachtet werden muss;
 - e. erst nach einer angemessenen Ruhepause geschlachtet werden darf;
 - f. infolge einer Tierseuche oder eines Verdachts auf eine solche einstweilen nicht geschlachtet werden darf;
-- g. getötet und der Tierkörper als tierisches Nebenprodukt beseitigt werden muss; oder
+- g. getötet und der Schlachttierkörper als tierisches Nebenprodukt beseitigt werden muss; oder
 - h. vor der Schlachtung gereinigt wird.
 
-<sup>2</sup> Pferde können auch dann geschlachtet werden, wenn die Gesundheitsmeldung fehlt. Sie muss der amtlichen Tierärztin oder dem amtlichen Tierarzt nachgeliefert werden. Andernfalls sind Schlachttierkörper und Schlachterzeugnisse genussuntauglich. Diese Vorschrift gilt auch für das Schlachten von Pferden ausserhalb von Schlachtbetrieben.
+<sup>2</sup> Tiere der Pferdegattung können auch dann geschlachtet werden, wenn die Gesundheitsmeldung fehlt. Sie muss den amtlichen Vollzugsorganen nachgeliefert werden. Andernfalls sind Schlachttierkörper und Schlachterzeugnisse als genussuntauglich zu beurteilen.
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-6]
 
 (Art. 5 Abs. 1 und 12 Abs. 1)
 
 ## Vorbereitung des Schlachttierkörpers zur Fleischuntersuchung
 
-[^t-5]: Bereinigt gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)), Anhang 2 Ziff. 3 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), Ziff. II Abs. 1 der V des EDI vom 29. Okt. 2008 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) und Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-6]: Bereinigt gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)), Anhang 2 Ziff. 3 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), Ziff. II Abs. 1 der V des EDI vom 29. Okt. 2008 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), Ziff. I Abs. 1 und II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)), Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)) und Ziff. I Abs. 3 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Tiere der Rindergattung, die älter sind als acht Monate
 
-### 1.1
-
-Der Schlachttierkörper muss wie folgt präsentiert werden:
-
+- **1.1** **Der Schlachttierkörper muss wie folgt präsentiert werden:**
 - 1\.1.1 der Schlachttierkörper: ohne Kopf, enthäutet, vollständig ausgeweidet, die Gliedmassen über den Schienbeinen *(os metacarpale* und *os metatarsale)* abgetrennt, ohne Schwanz; in Hälften, Vierteln oder Sechsteln;
 - 1\.1.2 der Kopf: enthäutet, die Zunge so weit gelöst, dass die Maul- und Rachenschleimhaut besichtigt werden kann; bei Tieren bis zu einem Schlachtgewicht von 150 kg kann auf das Enthäuten des Kopfes und das Lösen der Zunge verzichtet werden;
 - 1\.1.3 das Flotzmaul, sofern es vom Kopf abgetrennt ist;
@@ -771,11 +883,7 @@ Der Schlachttierkörper muss wie folgt präsentiert werden:
 - 1\.1.11 das Euter: im Bereich der Zisternen nicht enthäutet;
 - 1\.1.12 die weiblichen Geschlechtsorgane;
 - 1\.1.13 die Füsse, sofern sie als Lebensmittel vorgesehen sind.
-
-### 1.2
-
-Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung entfernt werden:
-
+- **1.2** **Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleisch****untersuchung entfernt werden:**
 - 1\.2.1 das Blut;
 - 1\.2.2 die Augen (nur bei Tieren bis zu zwölf Monaten), die Lider, die äusseren Gehörgänge;
 - 1\.2.3 die Haut;
@@ -789,11 +897,8 @@ Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung
 
 ### 2 Tiere der Rindergattung, die jünger sind als acht Monate
 
-### 2.1
-
-Der Schlachttierkörper muss wie folgt präsentiert werden:
-
-- 2\.1.1 der Schlachttierkörper: ohne Kopf, enthäutet, ausgeweidet, mit oder ohne Nieren und Nierenfett, die Gliedmassen über den Schienbeinen *(os met**a**carpale* und *os metatarsale)* abgetrennt, ohne Schwanz; in Hälften;
+- **2.1** **Der Schlachttierkörper muss wie folgt präsentiert werden:**
+- 2\.1.1 der Schlachttierkörper: ohne Kopf, enthäutet, ausgeweidet, mit oder ohne Nieren und Nierenfett, die Gliedmassen über den Schienbeinen *(os metacarpale* und *os metatarsale)* abgetrennt, ohne Schwanz; in Hälften;
 - 2\.1.2 der Kopf: enthäutet oder nicht enthäutet;
 - 2\.1.3 der Schwanz: mit den ansetzenden Muskeln;
 - 2\.1.4 die Füsse, sofern sie als Lebensmittel vorgesehen sind;
@@ -804,11 +909,7 @@ Der Schlachttierkörper muss wie folgt präsentiert werden:
 - 2\.1.9 die Nieren: gelöst aus der Bindegewebekapsel und dem Nierenfett;
 - 2\.1.10 die Vormägen und der Magen mit dem Gekröse;
 - 2\.1.11 der Darm mit dem Gekröse sowie der After.
-
-### 2.2
-
-Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung entfernt werden:
-
+- **2.2** **Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleisch****untersuchung entfernt werden:**
 - 2\.2.1 das Blut;
 - 2\.2.2 die Augen, die Lider, die äusseren Gehörgänge;
 - 2\.2.3 die Haut;
@@ -819,10 +920,7 @@ Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung
 
 ### 3 Tiere der Schaf- und Ziegengattung, Gehegewild,anderes Schlachtvieh (nicht genannt unter den Ziffern 1, 2, 4 und 5)
 
-### 3.1
-
-Der Schlachttierkörper muss wie folgt präsentiert werden:
-
+- **3.1** **Der Schlachttierkörper muss wie folgt präsentiert werden:**
 - 3\.1.1 der Schlachttierkörper: ohne Kopf bei Tieren unter zwölf Monaten auch mit Kopf (wenn mit Kopf: ohne Augen, Lider, äussere Gehörgänge), enthäutet, ausgeweidet, mit oder ohne Nieren gelöst aus der Bindegewebekapsel und dem Nierenfett, die Gliedmassen über den Schienbeinen *(os metacarpale* und *os metatarsale)* abgetrennt, mit oder ohne Schwanz; ungespalten oder in Hälften;
 - 3\.1.2 der Kopf: wenn abgetrennt, enthäutet oder nicht enthäutet, bei Tieren über zwölf Monaten mit den Augen;
 - 3\.1.3 gegebenenfalls der Schwanz;
@@ -834,11 +932,7 @@ Der Schlachttierkörper muss wie folgt präsentiert werden:
 - 3\.1.9 der Darm mit dem Gekröse sowie der After;
 - 3\.1.10 das Euter erwachsener Tiere;
 - 3\.1.11 die weiblichen Geschlechtsorgane.
-
-### 3.2
-
-Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung entfernt werden:
-
+- **3.2** **Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleisch****untersuchung entfernt werden:**
 - 3\.2.1 das Blut;
 - 3\.2.2 die Augen bei Tieren unter zwölf Monaten, die Lider, die äusseren Gehörgänge;
 - 3\.2.3 die Haut;
@@ -851,11 +945,8 @@ Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung
 
 ### 4 Tiere der Schweinegattung
 
-### 4.1
-
-Der Schlachttierkörper muss wie folgt präsentiert werden:
-
-- 4\.1.1 der Schlachttierkörper: mit oder ohne Kopf, ausgeweidet, mit oder ohne Nieren gelöst aus der Bindegewebekapsel und dem Nierenfett, entborstet oder entschwartet, ohne Klauen, mit Schwanz; in Hälften, Vierteln oder Sechsteln; Muttersauen: ohne Gesäuge; Muttersauen und erwachsene Eber: die Gliedmassen über den Schienbeinen *(os metacarpale* und *os m**e**tatarsale)* abgetrennt;
+- **4.1** **Der Schlachttierkörper muss wie folgt präsentiert werden:**
+- 4\.1.1 der Schlachttierkörper: mit oder ohne Kopf, ausgeweidet, mit oder ohne Nieren gelöst aus der Bindegewebekapsel und dem Nierenfett, entborstet oder entschwartet, ohne Klauen, mit Schwanz; in Hälften, Vierteln oder Sechsteln; Muttersauen: ohne Gesäuge; Muttersauen und erwachsene Eber: die Gliedmassen über den Schienbeinen *(os metacarpale* und *os metatarsale)* abgetrennt;
 - 4\.1.2 der Kopf: abgetrennt oder am Schlachttierkörper, ohne Augen, Lider, äussere Gehörgänge;
 - 4\.1.3 die Luftröhre und die Speiseröhre, die Lunge, der nicht eröffnete Herzbeutel (Perikard) und das Zwerchfell;
 - 4\.1.4 die Leber;
@@ -866,11 +957,7 @@ Der Schlachttierkörper muss wie folgt präsentiert werden:
 - 4\.1.9 das Gesäuge von Muttersauen;
 - 4\.1.10 die weiblichen Geschlechtsorgane;
 - 4\.1.11 die Schwarte, sofern der Schlachttierkörper abgeschwartet wird.
-
-### 4.2
-
-Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung entfernt werden:
-
+- **4.2** **Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleisch****untersuchung entfernt werden:**
 - 4\.2.1 das Blut;
 - 4\.2.2 die Augen, die Lider, die äusseren Gehörgänge;
 - 4\.2.3 die Borsten;
@@ -882,10 +969,7 @@ Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung
 
 ### 5 Tiere der Pferdegattung
 
-### 5.1
-
-Der Schlachttierkörper muss wie folgt präsentiert werden:
-
+- **5.1** **Der Schlachttierkörper muss wie folgt präsentiert werden:**
 - 5\.1.1 der Schlachttierkörper: enthäutet, ohne Kopf, vollständig ausgeweidet, die Gliedmassen über den Schienbeinen *(os metacarpale* und *os metatarsale)* abgetrennt, ohne Schwanz; in Hälften, Vierteln oder Sechsteln;
 - 5\.1.2 der Kopf: enthäutet, die Zunge so weit gelöst, dass die Maul- und Rachenschleimhaut besichtigt werden kann; gegebenenfalls in der Medianebene längsgespalten zur Untersuchung auf Rotz;
 - 5\.1.3 der Schwanz mit den ansetzenden Muskeln;
@@ -897,11 +981,7 @@ Der Schlachttierkörper muss wie folgt präsentiert werden:
 - 5\.1.9 der Darm mit dem Gekröse sowie der After;
 - 5\.1.10 das Euter;
 - 5\.1.11 die weiblichen Geschlechtsorgane.
-
-### 5.2
-
-Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung entfernt werden:
-
+- **5.2** **Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleisch****untersuchung entfernt werden:**
 - 5\.2.1 das Blut;
 - 5\.2.2 die Augen;
 - 5\.2.3 die Haut;
@@ -912,16 +992,9 @@ Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung
 
 ### 6 Hausgeflügel, Hauskaninchen und Laufvögel
 
-### 6.1
-
-Der Schlachttierkörper muss wie folgt präsentiert werden:
-
-- 6\.1.1 der Schlachttierkörper: entfedert resp. enthäutet, eröffnet, so dass Leibeshöhlen und Eingeweide untersucht werden können. Falls Eingeweide vom Tierkörper abgetrennt werden, muss feststellbar bleiben, von welchem Tierkörper sie stammen.
-
-### 6.2
-
-Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung entfernt werden:
-
+- **6.1** **Der Schlachttierkörper muss wie folgt präsentiert werden:**
+- 6\.1.1 der Schlachttierkörper: entfedert resp. enthäutet, eröffnet, so dass Leibeshöhlen und Eingeweide untersucht werden können. Falls Eingeweide vom Schlachttierkörper abgetrennt werden, muss feststellbar bleiben, von welchem Schlachttierkörper sie stammen.
+- **6.2** **Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleisch****untersuchung entfernt werden:**
 - 6\.2.1 das Blut;
 - 6\.2.2 der Kopf;
 - 6\.2.3 die Haut beziehungsweise die Federn;
@@ -929,281 +1002,353 @@ Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung
 
 ### 7 Jagdwild
 
-### 7.1
-
-Der Schlachttierkörper muss wie folgt präsentiert werden:
-
-- 7\.1.1 der Schlachttierkörper: entfedert resp. enthäutet, eröffnet, so dass Leibeshöhlen untersucht werden können. Falls Eingeweide vom Tierkörper abgetrennt werden, muss feststellbar bleiben, von welchem Tierkörper sie stammen. Auf Verlangen der amtlichen Tierärztin oder des amtlichen Tierarztes sind Kopf und Wirbelsäule zu spalten.
-
-### 7.2
-
-Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleischuntersuchung entfernt werden:
-
+- **7.1** **Der Schlachttierkörper muss wie folgt präsentiert werden:**
+- 7\.1.1 der Schlachttierkörper: entfedert resp. enthäutet, eröffnet, so dass Leibeshöhlen untersucht werden können. Falls Eingeweide vom Schlachttierkörper abgetrennt werden, muss feststellbar bleiben, von welchem Schlachttierkörper sie stammen. Auf Verlangen der amtlichen Tierärztin oder des amtlichen Tierarztes sind Kopf und Wirbelsäule zu spalten.
+- **7.2** **Die folgenden Teile des Schlachttierkörpers dürfen vor der Fleisch****untersuchung entfernt werden:**
 - 7\.2.1 das Blut;
 - 7\.2.2 der Kopf, ausgenommen bei Wildschweinen;
 - 7\.2.3 die Haut beziehungsweise die Federn;
 - 7\.2.4 die Füsse;
 - 7\.2.5 die Eingeweide der Brust- und Bauchhöhle, sofern eine Kontrolle nach Artikel 21 der Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle durchgeführt worden ist.
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-7]
 
-(Art. 6 Abs. 1 und 12 Abs. 1)
+(Art. 6 Abs. 1, 12 Abs. 1 und 12*a* Bst. c)
 
-## Untersuchungsvorschrift für die Fleischuntersuchung
+## Vorschriften für die Fleischuntersuchung und die erweiterte Fleischuntersuchung
 
-[^t-6]: Bereinigt gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)), Anhang 2 Ziff. 3 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), Ziff. II Abs. 1 der V des EDI vom 29. Okt. 2008 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) und Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-7]: Fassung gemäss Ziff. II Abs. 3 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 <table>
 <tr><th></th><th>Körperteil</th><th>Tätigkeit</th></tr>
 <tr><td>1</td><td colspan="2">Tiere der Rindergattung, die älter sind als acht Monate</td></tr>
-<tr><td>1.1</td><td>Kopf, Flotzmaul</td><td>besichtigen</td></tr>
-<tr><td></td><td>Rachen (Maul- und Rachenschleimhaut)</td><td>besichtigen</td></tr>
-<tr><td></td><td>Schlundkopf-, Kehlgangs- und Ohrspeicheldrüsenlymphknoten *(Lnn. retropharyngea**les, mandibulares et parotidei)*</td><td>besichtigen, anschneiden</td></tr>
-<tr><td></td><td>äussere Kaumuskeln *(M. masseter)*</td><td>besichtigen, zwei grossflächige Schnitte parallel zum Unterkiefer</td></tr>
-<tr><td></td><td>innere Kaumuskeln *(M. pterygoideus lat. et med.)*</td><td>besichtigen, ein grossflächiger Schnitt</td></tr>
-<tr><td></td><td>Zunge</td><td>lösen, besichtigen, durchtasten</td></tr>
-<tr><td></td><td>lymphatischer Rachenring, Mandeln</td><td>besichtigen, entfernen</td></tr>
-<tr><td></td><td></td><td>Wenn der Kopf bei Tieren bis zu einem Schlachtgewicht von 150 kg nicht enthäutet, sondern zum Brühen und Enthaaren bestimmt ist, ist er sorgfältig zu besichtigen. Auf die weiteren Untersuchungen kann verzichtet werden, wenn bei der Untersuchung des Schlachttierkörpers und der übrigen Teile keine krankhaften Veränderungen und keine Zystizerken festgestellt worden sind.</td></tr>
-<tr><td>1.2</td><td>Lunge</td><td>besichtigen, durchtasten, falls Lunge zur Verwendung als Lebensmittel vorgesehen ist: Längsschnitt durch Hauptluftröhrenäste, Querschnitt im hinteren Drittel der Lunge durch Hauptluftröhrenäste;</td></tr>
-<tr><td></td><td>Lungenwurzellymphknoten *(Lnn. bifurcationis, Lnn. eparteriales)*</td><td>besichtigen, anschneiden</td></tr>
-<tr><td></td><td>Mittelfell-Lymphknoten *(Lnn. mediastinales)*</td><td>besichtigen, anschneiden</td></tr>
-<tr><td></td><td>Luftröhre *(Trachea)*</td><td>besichtigen, falls Lunge zur Verwendung als Lebensmittel vorgesehen ist: Längsschnitt</td></tr>
-<tr><td></td><td>Speiseröhre *(Oesophagus)*</td><td>besichtigen</td></tr>
-<tr><td>1.3</td><td>Herzbeutel *(Pericard)*</td><td>eröffnen, besichtigen</td></tr>
-<tr><td></td><td>Herz und Blut</td><td>besichtigen, am Herz gross- flächige Längsschnitte anlegen, beide Kammern öffnen</td></tr>
-<tr><td>1.4</td><td>Zwerchfell *(Diaphragma)*</td><td>besichtigen</td></tr>
-<tr><td>1.5</td><td>Leber</td><td>besichtigen, durchtasten, Einschnitt an Magenfläche *(Facies visceralis)* und Basis des Spigel’schen Lappens *(Processus caudatus),* sichtbare Gallengänge ausstreifen; bei Tieren bis zu einem Schlachtgewicht von 150 kg kann auf die Einschnitte an der Leber verzichtet werden</td></tr>
-<tr><td></td><td>Lymphknoten an der Leberpforte *(Lnn. portales)*</td><td>besichtigen, anschneiden</td></tr>
-<tr><td>1.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
-<tr><td></td><td>Gekröse *(Mesenterium)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Lymphknoten der Magengegend und Gekröselymphknoten *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td>besichtigen, durchtasten und erforderlichenfalls anschneiden</td></tr>
-<tr><td>1.7</td><td>Milz</td><td>besichtigen</td></tr>
-<tr><td>1.8</td><td>Nieren</td><td>besichtigen</td></tr>
-<tr><td>1.9</td><td>Brustfell *(Pleura)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Bauchfell *(Peritonäum)*</td><td>besichtigen</td></tr>
-<tr><td>1.10</td><td>Geschlechtsorgane (mit Ausnahme des Penis, falls er bereits entfernt worden ist)</td><td>besichtigen</td></tr>
-<tr><td>1.11</td><td>Euter und Sekret bei Kühen:</td><td>falls das Euter zur Verwendung als Lebensmittel vorgesehen ist: besichtigen, jede Euterhälfte durch einen langen, tiefen Einschnitt einschliesslich Zisternen *(Sinus lactiferes)* spalten</td></tr>
-<tr><td></td><td>Euterlymphknoten *(Lnn. supramammarii)* bei Kühen:</td><td>falls das Euter zur Verwendung als Lebensmittel vorgesehen ist: besichtigen, anschneiden</td></tr>
-<tr><td>1.12</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
-<tr><td>1.13</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
-<tr><td></td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
-<tr><td>1.14</td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
-<tr><td>1.15</td><td>Füsse</td><td>falls die Füsse zur Verwendung als Lebensmittel vorgesehen sind: besichtigen</td></tr>
-<tr><td>2</td><td colspan="2">Tiere der Rindergattung, die jünger sind als acht Monate</td></tr>
-<tr><td>2.1</td><td>Kopf</td><td>besichtigen</td></tr>
-<tr><td></td><td>Rachen (Maul- und Rachenschleimhaut)</td><td>besichtigen</td></tr>
-<tr><td></td><td>Schlundkopflymphknoten *(Lnn. retropharynge**ales)*</td><td>besichtigen, anschneiden</td></tr>
-<tr><td></td><td>Zunge</td><td>besichtigen, durchtasten</td></tr>
-<tr><td></td><td>lymphatischer Rachenring, Mandeln</td><td>besichtigen, entfernen</td></tr>
-<tr><td></td><td></td><td>Wenn der Kopf nicht enthäutet, sondern zum Brühen und Enthaaren bestimmt ist, ist er sorgfältig zu besichtigen. Auf die weiteren Untersuchungen kann verzichtet werden, wenn bei der Untersuchung des Schlachttierkörpers und der übrigen Teile keine krankhaften Veränderungen festgestellt worden sind.</td></tr>
-<tr><td>2.2</td><td>Lunge</td><td>besichtigen, durchtasten, falls Lunge zur Verwendung als Lebensmittel vorgesehen ist: Längsschnitt durch Hauptluftröhrenäste, Querschnitt im hinteren Drittel der Lunge durch Hauptluftröhrenäste</td></tr>
-<tr><td></td><td>Lungenwurzellymphknoten *(Lnn. bifurcationis, Lnn. eparteriales)*</td><td>besichtigen, anschneiden</td></tr>
-<tr><td></td><td>Mittelfell-Lymphknoten *(Lnn. mediastinales)*</td><td>besichtigen, anschneiden</td></tr>
-<tr><td></td><td>Luftröhre *(Trachea)*</td><td>besichtigen, falls Lunge zur Verwendung als Lebensmittel vorgesehen ist: Längsschnitt</td></tr>
-<tr><td></td><td>Speiseröhre *(Oesophagus)*</td><td>besichtigen</td></tr>
-<tr><td>2.3</td><td>Herzbeutel *(Pericard)*</td><td>eröffnen, besichtigen</td></tr>
-<tr><td></td><td>Herz und Blut</td><td>besichtigen, am Herz Längsschnitte anlegen, beide Kammern öffnen</td></tr>
-<tr><td>2.4</td><td>Zwerchfell *(Diaphragma)*</td><td>besichtigen</td></tr>
-<tr><td>2.5</td><td>Leber</td><td>besichtigen, durchtasten, erforderlichenfalls anschneiden</td></tr>
-<tr><td></td><td>Lymphknoten an der Leberpforte *(Lnn. portales)*</td><td>besichtigen, erforderlichenfalls anschneiden</td></tr>
-<tr><td>2.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
-<tr><td></td><td>Gekröse *(Mesenterium)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Lymphknoten der Magengegend und Gekröselymphknoten *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td>besichtigen, durchtasten und erforderlichenfalls anschneiden</td></tr>
-<tr><td>2.7</td><td>Milz</td><td>besichtigen, erforderlichenfalls durchtasten</td></tr>
-<tr><td>2.8</td><td>Nieren</td><td>besichtigen, erforderlichenfalls Anschnitt der Niere und ihrer Lymphknoten *(Lnn. ren**a**les)*</td></tr>
-<tr><td>2.9</td><td>Brustfell *(Pleura)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Bauchfell *(Peritonäum)*</td><td>besichtigen</td></tr>
-<tr><td>2.10</td><td>Nabelgegend</td><td>besichtigen, durchtasten, im Zweifelsfall anschneiden</td></tr>
-<tr><td>2.11</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
-<tr><td>2.12</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
-<tr><td>2.13</td><td>Tarsalgelenke</td><td>besichtigen, im Verdachtsfall anschneiden</td></tr>
-<tr><td>2.14</td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
-<tr><td>2.15</td><td>Füsse</td><td>falls die Füsse zur Verwendung als Lebensmittel vorgesehen sind: besichtigen</td></tr>
-<tr><td>3</td><td colspan="2">Tiere der Schaf- und Ziegengattung, Gehegewild, anderes Schlachtvieh (nicht genannt unter den Ziff. 1, 2, 4 und 5)</td></tr>
-<tr><td>3.1</td><td>Kopf</td><td>besichtigen (ausser wenn der Kopf – einschliesslich Zunge und Gehirn – von der Verwendung als Lebensmittel ausgeschlossen wird)</td></tr>
-<tr><td>3.2</td><td>Lunge</td><td>besichtigen, durchtasten, anschneiden</td></tr>
-<tr><td></td><td>Lungenwurzellymphknoten *(Lnn. bifurcationis, Lnn. eparteriales)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Luftröhre *(Trachea)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Speiseröhre *(O**esophagus)*</td><td>besichtigen</td></tr>
-<tr><td>3.3</td><td>Herzbeutel *(Pericard)*</td><td>besichtigen, im Zweifelsfall anschneiden</td></tr>
-<tr><td></td><td>Herz und Blut</td><td>besichtigen, Herz im Zweifelsfall anschneiden</td></tr>
-<tr><td>3.4</td><td>Zwerchfell *(Diaphragma)*</td><td>besichtigen</td></tr>
-<tr><td>3.5</td><td>Leber</td><td>besichtigen, durchtasten, Einschnitt an Magenfläche *(Lobus principalis)* zur Untersuchung der Gallengänge</td></tr>
-<tr><td></td><td>Lymphknoten an der Leberpforte *(Lnn. portales)*</td><td>besichtigen, durchtasten</td></tr>
-<tr><td>3.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
-<tr><td></td><td>Gekröse *(Mesenterium)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Lymphknoten der Magengegend und Gekröselymphknoten *(Lnn.* *gastrici, Lnn. mese**n**terici craniales et caudales)*</td><td>besichtigen</td></tr>
-<tr><td>3.7</td><td>Milz</td><td>besichtigen</td></tr>
-<tr><td>3.8</td><td>Nieren</td><td>besichtigen</td></tr>
-<tr><td>3.9</td><td>Brustfell *(Pleura)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Bauchfell *(Peritonäum)*</td><td>besichtigen</td></tr>
-<tr><td>3.10</td><td>Geschlechtsorgane(mit Ausnahme des Penis, falls er bereits entfernt worden ist)</td><td>besichtigen</td></tr>
-<tr><td>3.11</td><td>Euter und seine Lymphknoten erwachsener Tiere</td><td>falls das Euter als Lebensmittel vorgesehen ist: besichtigen</td></tr>
-<tr><td>3.12</td><td>Nabelgegend bei jungen Tieren</td><td>besichtigen, durchtasten</td></tr>
-<tr><td>3.13</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
-<tr><td>3.14</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
-<tr><td></td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
-<tr><td>4</td><td colspan="2">Tiere der Schweinegattung</td></tr>
-<tr><td>4.1</td><td>Kopf</td><td>besichtigen</td></tr>
+<tr><td>1.1</td><td colspan="2">Fleischuntersuchung</td></tr>
+<tr><td>1.1.1</td><td>Kopf, Flotzmaul</td><td>besichtigen</td></tr>
 <tr><td></td><td>Rachen</td><td>besichtigen</td></tr>
-<tr><td></td><td>Unterkieferlymphknoten *(Lnn. mandib**u**lares)*</td><td>anschneiden, besichtigen</td></tr>
-<tr><td>4.2</td><td>Lunge</td><td>besichtigen, durchtasten, falls Lunge zur Verwendung als Lebensmittel vorgesehen ist: Längsschnitt durch Hauptluftröhrenäste, Querschnitt im hinteren Drittel der Lunge durch Hauptluftröhrenäste</td></tr>
-<tr><td></td><td>Lungenwurzellymphknoten *(Lnn. bifurcationis et eparteriales)*</td><td>besichtigen, durchtasten</td></tr>
-<tr><td></td><td>Mittelfelllymphknoten *(Lnn. mediastin**a**les)*</td><td>besichtigen, durchtasten</td></tr>
-<tr><td></td><td>Luftröhre *(Trachea)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Speiseröhre *(Oesophagus)*</td><td>besichtigen</td></tr>
-<tr><td>4.3</td><td>Herzbeutel *(Pericard)*</td><td>eröffnen, besichtigen</td></tr>
-<tr><td></td><td>Herz und Blut</td><td>besichtigen, am Herz Längsschnitte anlegen, beide Kammern öffnen</td></tr>
-<tr><td>4.4</td><td>Zwerchfell *(Diaphragma)*</td><td>besichtigen</td></tr>
-<tr><td>4.5</td><td>Leber</td><td>besichtigen, durchtasten</td></tr>
-<tr><td></td><td>Lymphknoten an der Leberpforte und der Bauchspeicheldrüse *(Lnn. portales)*</td><td>besichtigen, durchtasten</td></tr>
-<tr><td>4.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
-<tr><td></td><td>Gekröse *(**Mesenterium)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Lymphknoten der Magengegend und Gekröselymphknoten *(Lnn. gastrici, Lnn. mese**n**terici craniales et caudales)*</td><td>besichtigen, durchtasten</td></tr>
-<tr><td>4.7</td><td>Milz</td><td>besichtigen</td></tr>
-<tr><td>4.8</td><td>Nieren</td><td>besichtigen</td></tr>
-<tr><td>4.9</td><td>Brustfell *(Pleura)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Bauchfell *(P**eritonäum)*</td><td>besichtigen</td></tr>
-<tr><td>4.10</td><td>Geschlechtsorgane (mit Ausnahme des Penis, falls er bereits entfernt worden ist)</td><td>besichtigen</td></tr>
-<tr><td>4.11</td><td>Gesäuge und seine Lymphknoten *(Lnn. supramammarii)*</td><td>besichtigen; bei Muttersauen, falls das Gesäuge zur Verwendung als Lebensmittel vorgesehen ist: besichtigen und Anschnitt der Lymphknoten</td></tr>
-<tr><td>4.12</td><td>Nabelgegend bei Ferkeln</td><td>besichtigen, durchtasten</td></tr>
-<tr><td>4.13</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
-<tr><td>4.14</td><td>Muskulatur</td><td>Proben zur Untersuchung auf Trichinellen erheben</td></tr>
-<tr><td>4.15</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
+<tr><td></td><td>Schlundkopflymphknoten (*Lnn. retropharyngeales*), Unterkiefer- und Ohrspeicheldrüsenlymphknoten (*Lnn. mandibulares et parotidei*)</td><td>besichtigen, anschneiden</td></tr>
+<tr><td></td><td>äussere Kaumuskeln (*M. masseter*)</td><td>besichtigen, zwei grossflächige Schnitte parallel zum Unterkiefer</td></tr>
+<tr><td></td><td>innere Kaumuskeln (*M. pterygoideus*)</td><td>besichtigen, ein grossflächiger Schnitt</td></tr>
+<tr><td></td><td>Maul und Schlund Zunge</td><td>besichtigen lösen, besichtigen</td></tr>
+<tr><td>1.1.2</td><td>Lunge</td><td>besichtigen, durchtasten</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Speiseröhre (*Oesophagus*)</td><td>besichtigen</td></tr>
+<tr><td>1.1.3</td><td>Herzbeutel (*Pericard*)</td><td>öffnen, besichtigen</td></tr>
+<tr><td></td><td>Herz</td><td>besichtigen, grossflächige Längsschnitte anlegen, öffnen beider Kammern und durchtrennen der Scheidewand</td></tr>
+<tr><td>1.1.4</td><td>Zwerchfell (*Diaphragma*)</td><td>besichtigen</td></tr>
+<tr><td>1.1.5</td><td>Leber</td><td>besichtigen, durchtasten, Einschnitt an der Magenfläche (*Facies visceralis*) und an der Basis des Spigel’schen Lappens (*Processus caudatus*) zur Untersuchung der Gallengänge</td></tr>
+<tr><td></td><td>Lymphknoten an der Leberpforte (*Lnn. portales*)</td><td>besichtigen</td></tr>
+<tr><td>1.1.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
+<tr><td></td><td>Gekröse (*Mesenterium*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lymphknoten der Magengegend und Mesenteriallymphknoten (*Lnn. gastrici, Lnn. mesenterici craniales et caudales*)</td><td>besichtigen</td></tr>
+<tr><td>1.1.7</td><td>Milz</td><td>besichtigen</td></tr>
+<tr><td>1.1.8</td><td>Nieren</td><td>besichtigen</td></tr>
+<tr><td>1.1.9</td><td>Brustfell (*Pleura*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Bauchfell (*Peritonaeum*)</td><td>besichtigen</td></tr>
+<tr><td>1.1.10</td><td>Geschlechtsorgane</td><td>besichtigen (mit Ausnahme des Penis, wenn er bereits entfernt worden ist)</td></tr>
+<tr><td>1.1.11</td><td>Euter bei Kühen, das als Lebensmittel verwendet werden soll</td><td>besichtigen</td></tr>
+<tr><td></td><td>Euterlymphknoten (*Lnn. supramammarii*) bei Kühen</td><td>besichtigen</td></tr>
+<tr><td>1.1.12</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
+<tr><td>1.1.13</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
+<tr><td>1.1.14</td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
+<tr><td>1.1.15</td><td>Füsse, die als Lebensmittel verwendet werden sollen</td><td>besichtigen</td></tr>
+<tr><td>1.2</td><td colspan="2">Erweiterte Fleischuntersuchung</td></tr>
+<tr><td>1.2.1</td><td>Zunge</td><td>durchtasten</td></tr>
+<tr><td>1.2.2</td><td>Lunge, die als Lebensmittel verwendet werden soll</td><td>Querschnitt im hinteren Drittel der Lunge durch Hauptluftröhrenäste</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>öffnen der Luftröhre und der Hauptluftröhrenäste durch Längsschnitt</td></tr>
+<tr><td>1.2.3</td><td>Lymphknoten der Magengegend und Mesentgeriallymphknoten (*Lnn. gastrici, Lnn. mesenterici craniales et caudales*)</td><td>anschneiden</td></tr>
+<tr><td>1.2.4</td><td>Milz</td><td>durchtasten</td></tr>
+<tr><td>1.2.5</td><td>Nieren</td><td>anschneiden</td></tr>
+<tr><td>1.2.6</td><td>Euter bei Kühen</td><td>durchtasten, anschneiden; jede Euterhälfte wird durch einen langen, tiefen Einschnitt bis zu den Zisternen (*Sinus lactiferes*) geöffnet</td></tr>
+<tr><td></td><td>Euterlymphknoten (*Lnn. supramammarii*) bei Kühen, wenn das Euter als Lebensmittel verwendet werden soll</td><td>anschneiden</td></tr>
+<tr><td>1.2.7</td><td>Gelenke</td><td>durchtasten, erforderlichenfalls öffnen und untersuchen der Gelenkflüssigkeit</td></tr>
+<tr><td>2</td><td colspan="2">Tiere der Rindergattung, die jünger sind als acht Monate</td></tr>
+<tr><td>2.1</td><td>Fleischuntersuchung</td><td></td></tr>
+<tr><td>2.1.1</td><td>Kopf</td><td>besichtigen</td></tr>
+<tr><td></td><td>Rachen</td><td>besichtigen</td></tr>
+<tr><td></td><td>Schlundkopflymphknoten (*Lnn. retropharyngeales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Maul und Schlund</td><td>besichtigen</td></tr>
+<tr><td>2.1.2</td><td>Lunge</td><td>besichtigen, durchtasten</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Speiseröhre (*Oesophagus*)</td><td>besichtigen</td></tr>
+<tr><td>2.1.3</td><td>Herzbeutel (*Pericard*)</td><td>öffnen, besichtigen</td></tr>
+<tr><td></td><td>Herz</td><td>besichtigen</td></tr>
+<tr><td>2.1.4</td><td>Zwerchfell (*Diaphragma*)</td><td>besichtigen</td></tr>
+<tr><td>2.1.5</td><td>Leber</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lymphknoten an der Leberpforte (*Lnn. portales*)</td><td>besichtigen</td></tr>
+<tr><td>2.1.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
+<tr><td></td><td>Gekröse (Mesenterium)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lymphknoten der Magengegend und Mesenteriallymphknoten (*Lnn. gastrici, Lnn. mesenterici craniales et caudales*)</td><td>besichtigen</td></tr>
+<tr><td>2.1.7</td><td>Milz</td><td>besichtigen</td></tr>
+<tr><td>2.1.8</td><td>Nieren</td><td>besichtigen</td></tr>
+<tr><td>2.1.9</td><td>Brustfell (*Pleura*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Bauchfell (*Peritonaeum*)</td><td>besichtigen</td></tr>
+<tr><td>2.1.10</td><td>Nabelgegend</td><td>besichtigen</td></tr>
+<tr><td>2.1.11</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
+<tr><td>2.1.12</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
+<tr><td>2.1.13</td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
+<tr><td>2.1.14</td><td>Füsse, die als Lebensmittel verwendet werden sollen</td><td>besichtigen</td></tr>
+<tr><td>2.2</td><td colspan="2">Erweiterte Fleischuntersuchung</td></tr>
+<tr><td>2.2.1</td><td>Schlundkopflymphknoten (*Lnn. retropharyngeales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>innere Kaumuskeln (*M. pterygoideus*)</td><td>besichtigen, ein grossflächiger Schnitt</td></tr>
+<tr><td></td><td>Zunge</td><td>besichtigen, durchtasten</td></tr>
+<tr><td>2.2.2</td><td>Lunge, die als Lebensmittel verwendet werden soll</td><td>Querschnitt im hinteren Drittel der Lunge durch Hauptluftröhrenäste</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>öffnen der Luftröhre und der Hauptluftröhrenäste durch Längsschnitt</td></tr>
+<tr><td>2.2.3</td><td>Herz</td><td>Längsschnitte anlegen, öffnen beider Kammern und durchtrennen der Scheidewand</td></tr>
+<tr><td>2.2.4</td><td>Leber</td><td>durchtasten, anschneiden</td></tr>
+<tr><td></td><td>Lymphknoten der Magengegend und Mesenteriallymphknoten (*Lnn. gastrici, Lnn. mesenterici craniales et caudales*)</td><td>anschneiden</td></tr>
+<tr><td>2.2.5</td><td>Milz</td><td>durchtasten</td></tr>
+<tr><td>2.2.6</td><td>Nieren</td><td>anschneiden</td></tr>
+<tr><td>2.2.7</td><td>Nabelgegend</td><td>durchtasten, erforderlichenfalls anschneiden</td></tr>
+<tr><td>2.2.8</td><td>Gelenke</td><td>durchtasten, erforderlichenfalls öffnen und untersuchen der Gelenkflüssigkeit</td></tr>
+<tr><td>3</td><td colspan="2">Tiere der Schweinegattung</td></tr>
+<tr><td>3.1</td><td>Fleischuntersuchung</td><td></td></tr>
+<tr><td>3.1.1</td><td>Kopf</td><td>besichtigen</td></tr>
+<tr><td></td><td>Rachen</td><td>besichtigen</td></tr>
+<tr><td></td><td>Maul, Schlund und Zunge</td><td>besichtigen</td></tr>
+<tr><td>3.1.2</td><td>Lunge</td><td>besichtigen</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Speiseröhre (*Oesophagus*)</td><td>besichtigen</td></tr>
+<tr><td>3.1.3</td><td>Herzbeutel (*Pericard*)</td><td>öffnen, besichtigen</td></tr>
+<tr><td></td><td>Herz</td><td>besichtigen, Längsschnitte anlegen, öffnen beider Kammern und durchtrennen der Scheidewand</td></tr>
+<tr><td>3.1.4</td><td>Zwerchfell (*Diaphragma*)</td><td>besichtigen</td></tr>
+<tr><td>3.1.5</td><td>Leber</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lymphknoten an der Leberpforte (*Lnn. portales*)</td><td>besichtigen</td></tr>
+<tr><td>3.1.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
+<tr><td></td><td>Gekröse (*Mesenterium*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lymphknoten der Magengegend und Mesenteriallymphknoten (*Lnn. gastrici, Lnn. mesenterici craniales et caudales*)</td><td>besichtigen</td></tr>
+<tr><td>3.1.7</td><td>Milz</td><td>besichtigen</td></tr>
+<tr><td>3.1.8</td><td>Nieren</td><td>besichtigen</td></tr>
+<tr><td>3.1.9</td><td>Brustfell (*Pleura*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Bauchfell (*Peritonaeum*)</td><td>besichtigen</td></tr>
+<tr><td>3.1.10</td><td>Geschlechtsorgane</td><td>besichtigen (mit Ausnahme des Penis, wenn er bereits entfernt worden ist)</td></tr>
+<tr><td>3.1.11</td><td>Gesäuge und Gesäugelymphknoten (*Lnn. supramammarii*) bei Muttersauen, wenn das Gesäuge als Lebensmittel verwendet werden soll:</td><td>besichtigen besichtigen und anschneiden der Lymphknoten</td></tr>
+<tr><td>3.1.12</td><td>Nabelgegend bei Ferkeln</td><td>besichtigen</td></tr>
+<tr><td>3.1.13</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
+<tr><td>3.1.14</td><td>Muskulatur</td><td>wenn vorgesehen, Erheben von Proben zur Untersuchung auf Trichinellen</td></tr>
+<tr><td>3.1.15</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
 <tr><td></td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
-<tr><td>4.16</td><td>Schwarte</td><td>besichtigen</td></tr>
-<tr><td>5</td><td colspan="2">Tiere der Pferdegattung</td></tr>
-<tr><td>5.1</td><td>Kopf</td><td>besichtigen</td></tr>
-<tr><td></td><td>Rachen (Maul- und Rachenschleimhaut), ggf. Kehlkopf</td><td>besichtigen</td></tr>
-<tr><td></td><td>Schleimhaut der Nasenhöhle und ihrer Nebenhöhlen</td><td>ggf. nach Ablösen der Nasenscheidewand besichtigen</td></tr>
-<tr><td></td><td>Zunge</td><td>Lösen, besichtigen, durchtasten</td></tr>
-<tr><td></td><td>Unterkiefer-, Schlundkopf- Ohrspeicheldrüsenlymphknoten *(Lnn. mandibulares, retropharyngeales et parotidei)*</td><td>besichtigen, durchtasten</td></tr>
-<tr><td></td><td>Tonsillen</td><td>entfernen</td></tr>
-<tr><td>5.2</td><td>Lunge</td><td>besichtigen, durchtasten, falls Lunge zur Verwendung als Lebensmittel vorgesehen ist: Längsschnitt durch Hauptluftröhrenäste, Querschnitt im hinteren Drittel der Lunge durch Hauptluftröhrenäste</td></tr>
-<tr><td></td><td>Lungenwurzellymphknoten *(Lnn. bifurcationis**, Lnn. Bronchiales)*</td><td>besichtigen, durchtasten</td></tr>
-<tr><td></td><td>Luftröhre *(Trachea)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Speiseröhre *(Oesophagus)*</td><td>besichtigen</td></tr>
-<tr><td>5.3</td><td>Herzbeutel *(Pericard)*</td><td>eröffnen, besichtigen</td></tr>
-<tr><td></td><td>Herz und Blut</td><td>besichtigen, am Herz Längsschnitte anlegen, beide Kammern öffnen</td></tr>
-<tr><td>5.4</td><td>Zwerchfell *(Diaphragma)*</td><td>besichtigen</td></tr>
-<tr><td>5.5</td><td>Leber</td><td>besichtigen, durchtasten</td></tr>
-<tr><td></td><td>Lymphknoten an der Leberpforte und der Bauchspeicheldrüse *(Lnn. portales)*</td><td>besichtigen</td></tr>
-<tr><td>5.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
-<tr><td></td><td>Gekröse *(Mesenterium)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Lymphknoten der Magengegend und Gekröselymphknoten *(Lnn. gastrici, Lnn. mese**n**terici craniales et caudales)*</td><td>besichtigen</td></tr>
-<tr><td>5.7</td><td>Milz</td><td>besichtigen</td></tr>
-<tr><td>5.8</td><td>Nieren</td><td>besichtigen</td></tr>
-<tr><td>5.9</td><td>Brustfell *(Pleura)*</td><td>besichtigen</td></tr>
-<tr><td></td><td>Bauchfell *(Peritonäum)*</td><td>besichtigen</td></tr>
-<tr><td>5.10</td><td>Geschlechtsorgane (mit Ausnahme des Penis, falls er bereits entfernt worden ist)</td><td>besichtigen</td></tr>
-<tr><td>5.11</td><td>Euter und seine Lymphknoten *(Lnn. supramammarii)*</td><td>besichtigen</td></tr>
-<tr><td>5.12</td><td>Nabelgegend bei Fohlen:</td><td>besichtigen, durchtasten</td></tr>
-<tr><td>5.13</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
-<tr><td>5.14</td><td>Muskulatur</td><td>Proben zur Untersuchung auf Trichinellen erheben</td></tr>
-<tr><td>5.15</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
+<tr><td>3.1.16</td><td>Schwarte</td><td>besichtigen</td></tr>
+<tr><td>3.2</td><td colspan="2">Erweiterte Fleischuntersuchung</td></tr>
+<tr><td>3.2.1</td><td>Unterkieferlymphknoten (*Lnn. mandibulares*)</td><td>besichtigen, anschneiden</td></tr>
+<tr><td>3.2.2</td><td>Lunge, die als Lebensmittel verwendet werden soll</td><td>durchtasten, Querschnitt im hinteren Drittel der Lunge durch die Hauptluftröhrenäste;</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes et eparteriales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>öffnen der Luftröhre und der Hauptluftröhrenäste durch Längsschnitt</td></tr>
+<tr><td>3.2.3</td><td>Leber</td><td>durchtasten</td></tr>
+<tr><td>3.2.4</td><td>Milz</td><td>durchtasten</td></tr>
+<tr><td>3.2.5</td><td>Nieren</td><td>anschneiden</td></tr>
+<tr><td>3.2.6</td><td>Nabelgegend bei Ferkeln</td><td>durchtasten, erforderlichenfalls anschneiden</td></tr>
+<tr><td>3.2.7</td><td>Gelenke</td><td>durchtasten, erforderlichenfalls öffnen und untersuchen der Gelenkflüssigkeit</td></tr>
+<tr><td>4</td><td colspan="2">Tiere der Pferdegattung</td></tr>
+<tr><td>4.1</td><td>Fleischuntersuchung</td><td></td></tr>
+<tr><td>4.1.1</td><td>Kopf</td><td>besichtigen</td></tr>
+<tr><td></td><td>Rachen</td><td>besichtigen</td></tr>
+<tr><td></td><td>Maul, Schlund und Zunge</td><td>besichtigen</td></tr>
+<tr><td>4.1.2</td><td>Lunge</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes*, *Lnn. bronchiales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Speiseröhre (*Oesophagus*)</td><td>besichtigen</td></tr>
+<tr><td>4.1.3</td><td>Herzbeutel (*Pericard*)</td><td>öffnen, besichtigen</td></tr>
+<tr><td></td><td>Herz</td><td>besichtigen</td></tr>
+<tr><td>4.1.4</td><td>Zwerchfell (*Diaphragma*)</td><td>besichtigen</td></tr>
+<tr><td>4.1.5</td><td>Leber</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lymphknoten an der Leberpforte (*Lnn. portales*)</td><td>besichtigen</td></tr>
+<tr><td>4.1.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
+<tr><td></td><td>Gekröse (*Mesenterium*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lymphknoten der Magengegend und Mesenteriallymphknoten (*Lnn. gastrici, Lnn. mesenterici craniales et caudales*)</td><td>besichtigen</td></tr>
+<tr><td>4.1.7</td><td>Milz</td><td>besichtigen</td></tr>
+<tr><td>4.1.8</td><td>Nieren</td><td>besichtigen</td></tr>
+<tr><td>4.1.9</td><td>Brustfell (*Pleura*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Bauchfell (*Peritonaeum*)</td><td>besichtigen</td></tr>
+<tr><td>4.1.10</td><td>Geschlechtsorgane</td><td>besichtigen (mit Ausnahme des Penis, wenn er bereits entfernt wurde)</td></tr>
+<tr><td>4.1.11</td><td>Euter und Euterlymphknoten (*Lnn. supramammarii*)</td><td>besichtigen</td></tr>
+<tr><td>4.1.12</td><td>Nabelgegend bei Fohlen</td><td>besichtigen</td></tr>
+<tr><td>4.1.13</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
+<tr><td>4.1.14</td><td>Muskulatur</td><td>wenn vorgesehen, Erheben von Proben zur Untersuchung auf Trichinellen</td></tr>
+<tr><td>4.1.15</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
 <tr><td></td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
-<tr><td>5.16</td><td>bei grauen und weissen Pferden zusätzlich zur Untersuchung auf Melanose oder Melanomata:</td><td></td></tr>
-<tr><td></td><td>Nieren (müssen freigelegt werden)</td><td>Schnitt durch gesamte Nieren</td></tr>
+<tr><td>4.1.16</td><td>bei grauen und weissen Tieren zusätzlich zur Untersuchung auf Melanose oder Melanomata:</td><td></td></tr>
 <tr><td></td><td>Muskeln der Schulter</td><td>besichtigen, unter Schulterblattknorpel nach Abheben der Muskelbänder einer Schulter</td></tr>
-<tr><td></td><td>Lymphknoten der Schulter *(Lnn. subrhomboidei)*</td><td>besichtigen</td></tr>
-<tr><td>6</td><td colspan="2">Hausgeflügel, Hauskaninchen</td></tr>
-<tr><td>6.1</td><td>Alle Schlachttierkörper und Teile davon</td><td>besichtigen</td></tr>
-<tr><td>6.2</td><td>Eingeweide und Leibeshöhlen einer repräsentativen Stichprobe von Tieren</td><td>tägliche Untersuchung durch amtliche Tierärztin oder amtlichen Tierarzt</td></tr>
-<tr><td>6.3</td><td>Bei jeder Partie ein und derselben Herkunft Stichprobenerhebung von Teilen von Tieren oder ganzen Tieren, deren Fleisch bei der Fleischuntersuchung als genussuntauglich erklärt wurde</td><td>eingehende Untersuchung durch amtliche Tierärztin oder amtlichen Tierarzt</td></tr>
-<tr><td>6.4</td><td></td><td>durch amtliche Tierärztin oder amtlichen Tierarzt: sonstige erforderliche Untersuchungen, wenn der Verdacht besteht, dass das Fleisch der betreffenden Tiere genussuntauglich sein könnte</td></tr>
-<tr><td>7</td><td colspan="2">Jagdwild</td></tr>
+<tr><td></td><td>Lymphknoten der Schulter (*Lnn. subrhomboidei*)</td><td>besichtigen</td></tr>
+<tr><td>4.2</td><td colspan="2">Erweiterte Fleischuntersuchung</td></tr>
+<tr><td>4.2.1</td><td>Schlundkopf-, Unterkiefer- und Ohrspeicheldrüsenlymphknoten (*Lnn. retropharyngeales,* *mandibulares et parotidei*)</td><td>besichtigen, anschneiden</td></tr>
+<tr><td>4.2.2</td><td>Lunge, die als Lebensmittel verwendet werden soll</td><td>durchtasten, Querschnitt im hinteren Drittel der Lunge durch Hauptluftröhrenäste;</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes*, *Lnn. bronchiales*) und Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*), wenn die Lunge als Lebensmittel verwendet werden sollen</td><td>öffnen der Luftröhre und der Hauptluftröhrenäste durch Längsschnitt;</td></tr>
+<tr><td>4.2.3</td><td>Herz</td><td>Längsschnitte anlegen, öffnen beider Kammern und durchtrennen der Scheidewand</td></tr>
+<tr><td>4.2.4</td><td>Leber</td><td>durchtasten, anschneiden</td></tr>
+<tr><td></td><td>Lymphknoten an der Leberpforte (*Lnn. portales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>Lymphknoten der Magengegend und Mesenteriallymphknoten (*Lnn. gastrici, Lnn. mesenterici craniales et caudales*)</td><td>anschneiden</td></tr>
+<tr><td>4.2.5</td><td>Milz</td><td>durchtasten</td></tr>
+<tr><td>4.2.6</td><td>Nieren bei grauen und weissen Tieren</td><td>Schnitt durch die gesamte Niere</td></tr>
+<tr><td>4.2.7</td><td>Nabelgegend bei Fohlen</td><td>durchtasten, erforderlichenfalls anschneiden</td></tr>
+<tr><td>4.2.8</td><td>Gelenke</td><td>durchtasten, erforderlichenfalls öffnen und untersuchen der Gelenkflüssigkeit</td></tr>
+<tr><td>5</td><td colspan="2">Tiere der Schaf- und Ziegengattung, anderes Schlachtvieh und Gehegewild</td></tr>
+<tr><td>5.1</td><td>Fleischuntersuchung</td><td></td></tr>
+<tr><td>5.1.1</td><td>Kopf, der als Lebensmittel verwendet werden soll</td><td>besichtigen</td></tr>
+<tr><td></td><td>Rachen, Maul und Zunge</td><td>besichtigen</td></tr>
+<tr><td></td><td>Ohrspeicheldrüsenlymphknoten (*Lnn. parotidei*) und Schlundkopflymphknoten (*Lnn. retropharyngeales*)</td><td>besichtigen</td></tr>
+<tr><td>5.1.2</td><td>Lunge</td><td>besichtigen, durchtasten</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes*, *Lnn. eparteriales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Speiseröhre (*Oesophagus*)</td><td>besichtigen</td></tr>
+<tr><td>5.1.3</td><td>Herzbeutel (*Pericard*)</td><td>öffnen, besichtigen</td></tr>
+<tr><td></td><td>Herz</td><td>besichtigen</td></tr>
+<tr><td>5.1.4</td><td>Zwerchfell (*Diaphragma*)</td><td>besichtigen</td></tr>
+<tr><td>5.1.5</td><td>Leber</td><td>besichtigen, durchtasten, Einschnitt an Magenfläche (*Lobus* *principalis*) zur Untersuchung der Gallengänge</td></tr>
+<tr><td></td><td>Lymphknoten an der Leberpforte (*Lnn. portales*)</td><td>besichtigen</td></tr>
+<tr><td>5.1.6</td><td>Magen und Darm</td><td>besichtigen</td></tr>
+<tr><td></td><td>Gekröse (*Mesenterium*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Lymphknoten der Magengegend und Mesenteriallymphknoten (*Lnn. gastrici, Lnn. mesenterici craniales et caudales*)</td><td>besichtigen</td></tr>
+<tr><td>5.1.7</td><td>Milz</td><td>besichtigen</td></tr>
+<tr><td>5.1.8</td><td>Nieren</td><td>besichtigen</td></tr>
+<tr><td>5.1.9</td><td>Brustfell (*Pleura*)</td><td>besichtigen</td></tr>
+<tr><td></td><td>Bauchfell (*Peritonaeum*)</td><td>besichtigen</td></tr>
+<tr><td>5.1.10</td><td>Geschlechtsorgane</td><td>besichtigen (mit Ausnahme des Penis, wenn er bereits entfernt worden ist)</td></tr>
+<tr><td>5.1.11</td><td>Euter, das als Lebensmittel verwendet werden soll, und Euterlymphknoten bei erwachsenen Tieren</td><td>besichtigen</td></tr>
+<tr><td>5.1.12</td><td>Nabelgegend bei jungen Tieren</td><td>besichtigen</td></tr>
+<tr><td>5.1.13</td><td>Muskelfleisch, Fett- und Bindegewebe</td><td>besichtigen</td></tr>
+<tr><td>5.1.14</td><td>Knochen, Gelenke, Sehnenscheiden</td><td>besichtigen</td></tr>
+<tr><td></td><td>Spaltfläche der Wirbelsäule</td><td>besichtigen</td></tr>
+<tr><td>5.2</td><td colspan="2">Erweiterte Fleischuntersuchung</td></tr>
+<tr><td>5.2.1</td><td>Zunge</td><td>durchtasten</td></tr>
+<tr><td>5.2.2</td><td>Lunge, die als Lebensmittel verwendet werden soll</td><td>anschneiden</td></tr>
+<tr><td></td><td>Lungenwurzellymphknoten (*Lnn. bifurcationes, Lnn. eparteriales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>Mittelfelllymphknoten (*Lnn. mediastinales*)</td><td>anschneiden</td></tr>
+<tr><td></td><td>Luftröhre (*Trachea*)</td><td>öffnen der Luftröhre und der Hauptluftröhrenäste durch Längsschnitt</td></tr>
+<tr><td></td><td>Speiseröhre (*Oesophagus*)</td><td>anschneiden</td></tr>
+<tr><td>5.2.3</td><td>Herz</td><td>anschneiden</td></tr>
+<tr><td>5.2.4</td><td>Milz</td><td>durchtasten</td></tr>
+<tr><td>5.2.5</td><td>Nieren</td><td>anschneiden</td></tr>
+<tr><td>5.2.6</td><td>Nabelgegend bei jungen Tieren</td><td>durchtasten, erforderlichenfalls anschneiden</td></tr>
+<tr><td>5.2.7</td><td>Gelenke</td><td>durchtasten, erforderlichenfalls öffnen und untersuchen der Gelenkflüssigkeit</td></tr>
+<tr><td>6</td><td colspan="2">Hausgeflügel und Hauskaninchen</td></tr>
+<tr><td>6.1</td><td>Fleischuntersuchung</td><td></td></tr>
+<tr><td>6.1.1</td><td>Schlachttierkörper, Eingeweide und Leibeshöhlen</td><td>Untersuchung einer repräsentativen Stichprobe von Tieren einer Herde ein und derselben Herkunft durch Besichtigen, und wenn erforderlich Durchtasten oder Anschneiden</td></tr>
+<tr><td>6.2</td><td>Erweiterte Fleischuntersuchung</td><td></td></tr>
+<tr><td>6.2.1</td><td>Bei Verdacht, dass das Fleisch der Tiere genussuntauglich sein könnte</td><td>sonstige erforderliche Untersuchungen durch Durchtasten oder Anschneiden</td></tr>
+<tr><td>6.2.2</td><td>Ganze Tiere oder Teile von Tieren, deren Fleisch bei der Fleischuntersuchung als genussuntauglich erklärt wurde</td><td>eingehende Untersuchung einer Stichprobe von Tieren einer Herde ein und derselben Herkunft durch Durchtasten und Anschneiden</td></tr>
+<tr><td>7</td><td colspan="2">Laufvögel</td></tr>
+<tr><td>7.1</td><td>Fleischuntersuchung</td><td></td></tr>
+<tr><td>7.1.1</td><td>Schlachttierkörper</td><td>besichtigen, wenn erforderlich durchtasten oder anschneiden</td></tr>
+<tr><td>7.1.2</td><td>Eingeweide und Leibeshöhlen</td><td>besichtigen, wenn erforderlich durchtasten oder anschneiden</td></tr>
+<tr><td>7.2</td><td>Erweiterte Fleischuntersuchung</td><td></td></tr>
+<tr><td>7.2.1</td><td>Bei Verdacht, dass das ganze Tier oder Teile davon genussuntauglich sein könnten</td><td>eingehende fallspezifische Untersuchung, wenn erforderlich durchtasten oder anschneiden</td></tr>
+<tr><td>7.2.2</td><td>Ganze Tiere oder Teile von Tieren, deren Fleisch bei der Fleischuntersuchung als genussuntauglich erklärt wurde</td><td>eingehende Untersuchung des Tieres bzw. der Teile, wenn erforderlich durchtasten oder anschneiden</td></tr>
+<tr><td>8</td><td colspan="2">Jagdwild</td></tr>
 <tr><td></td><td colspan="2">Die Untersuchung stützt sich auf die Bescheinigung der Jägerin oder des Jägers nach Anhang 14 Ziffern 1 und 2 und bei unvollständiger Präsentation zusätzlich auf die Angaben der fachkundigen Person nach Anhang 14 Ziffer 3. Hasen und Federwild werden stichprobenweise untersucht, solange kein besonderer Verdacht besteht.</td></tr>
-<tr><td>7.1</td><td>Tierkörper, Leibeshöhlen, und wenn nötig Organe</td><td>besichtigen zum Feststellen von Merkmalen nach Anhang 7 Ziffer 3.1 und weiteren organoleptischen Anomalien; bei begründetem Verdacht wird eine Fremdstoffuntersuchung angeordnet und alles Wild gleicher Herkunft bis zum Vorliegen des Laborbefundes beschlagnahmt</td></tr>
-<tr><td>7.2</td><td>Organe</td><td>besichtigen und soweit erforderlich durchtasten</td></tr>
-<tr><td>7.3</td><td>Muskulatur</td><td>Probenerhebung zur Untersuchung auf Trichinellen bei Tieren der Pferde- und Schweinegattung, Bären und Nutrias</td></tr>
+<tr><td>8.1</td><td>Schlachttierkörper, Leibeshöhlen</td><td>besichtigen zur Feststellung von Merkmalen nach Anhang 7 Ziffer 3.1 und weiteren organoleptischen Anomalien; bei begründetem Verdacht auf Genussuntauglichkeit wird eine Fremdstoffuntersuchung angeordnet</td></tr>
+<tr><td>8.2</td><td>Organe</td><td>besichtigen, wenn erforderlich durchtasten und anschneiden</td></tr>
+<tr><td>8.3</td><td>Muskulatur</td><td>besichtigen, wenn erforderlich durchtasten und anschneiden; Probenerhebung zur Untersuchung auf Trichinellen, wenn vorgesehen</td></tr>
+<tr><td>8.4</td><td>Kopf und Wirbelsäule</td><td>besichtigen, wenn erforderlich längs spalten</td></tr>
 </table>
 
-Anhang 7*[^t-7]*
+Anhang 7[^t-8]
 
 (Art. 6 Abs. 2<sup>bis</sup>, 7 Abs. 2 und 10 Abs. 2 und 3)
 
 ## Beanstandungsgründe und Massnahmen bei der Fleischuntersuchung
 
-[^t-7]: Bereinigt gemäss Ziff. I der V des EDI vom 12. Nov. 2012 ([AS 2012 6847](https://fedlex.data.admin.ch/eli/oc/2012/826)), vom 20. Juni 2014 ([AS 2014 2239](https://fedlex.data.admin.ch/eli/oc/2014/374)), der Berichtigung vom 21. Okt. 2014 ([AS 2014 3291](https://fedlex.data.admin.ch/eli/oc/2014/572)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) und Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+[^t-8]: Bereinigt gemäss Ziff. I der V des EDI vom 12. Nov. 2012 ([AS 2012 6847](https://fedlex.data.admin.ch/eli/oc/2012/826)), vom 20. Juni 2014 ([AS 2014 2239](https://fedlex.data.admin.ch/eli/oc/2014/374)), der Berichtigung vom 21. Okt. 2014 ([AS 2014 3291](https://fedlex.data.admin.ch/eli/oc/2014/572)), Ziff. I Abs. 1 und II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)), Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Tiere der Rinder‑, Schaf‑, Ziegen‑, Schweine- oder Pferdegattung sowie anderes Schlachtvieh und Gehegewild
 
 ### 1.1 Ganzer Schlachttierkörper genussuntauglich
 
 - Der Schlachttierkörper sowie die Teile davon, einschliesslich des Blutes, müssen als tierische Nebenprodukte entsorgt werden, wenn Folgendes festgestellt wird:
-- 1\.1.1 hochansteckende Tierseuchen (klinische oder pathologisch-anatomische Feststellung):
-- a. Maul- und Klauenseuche;
-- b. Vesikuläre Stomatitis;
-- c. Vesikulärkrankheit der Schweine;
-- d. Rinderpest;
-- e. Pest der kleinen Wiederkäuer;
-- f. Lungenseuche der Rinder;
-- g. *Dermatitis nodularis*;
-- h. Rifttalfieber;
-- i. ...
-- j. Schaf- und Ziegenpocken;
-- k. Pferdepest;
-- l. Afrikanische Schweinepest;
-- m. Klassische Schweinepest;
-- 1\.1.2 andere Infektionskrankheiten (klinische oder pathologisch-anatomische Feststellung):
-- a. Tollwut;
-- b. Pferdeenzephalomyelitiden nach dem 3. Titel 4. Kapitel 9*a*. Abschnitt der Tierseuchenverordnung vom 27. Juni 1995[^annex7-lvlu1-lvl1-lvl11-1];
-- c. Rotz;
-- d. Milzbrand;
-- e. Rauschbrand;
-- f. Brucellosen *(Brucella abortus, Brucella melitensis, Brucella suis)* (nur bei Erregernachweis);
-- g. Tuberkulose (*Mycobacterium bovis, Mycobacterium caprae* und *Mycobacterium tuberculosis*);
-- h. Salmonellose, sofern Erregernachweis in der Muskulatur oder in zur Verwendung als Lebensmittel vorgesehenen Organen (ausgenommen Darm);
-- i. Transmissible Spongiforme Enzephalopathien;
-- j. Traberkrankheit;
-- k. generalisierte Aktinobazillose oder Aktinomykose;
-- l. generalisierte Lymphadenitis;
-- m. Tetanus;
-- n. Hautrotlauf der Schweine;
-- o. Botulismus;
-- p. Listeriose;
-- q. Paratuberkulose;
-- 1\.1.3 parasitäre Krankheiten:
-- a. generalisierter Befall mit Sarkosporidien;
-- b. generalisierter Befall mit lebenden oder toten Zystizerken in der Muskulatur;
-- c. Befall mit Trichinellen (bei Erregernachweis oder serologischem Nachweis).
-- 1\.1.4 andere Krankheiten:
-- a. klinische oder pathologisch-anatomische Symptome von Pyämie, Septikämie, Toxämie, Bakteriämie oder Virämie;
-- b. Tumoren;
-- c. Abszesse an verschiedenen Körperteilen;
-- d. schwere Verletzungen an verschiedenen Körperteilen;
-- e. hochgradige Abzehrung (wässrige Entartung des Fettgewebes sowie des Knochenmarks und der Muskulatur);
-- 1\.1.5 hochgradige akute Veränderungen mit Störung des Allgemeinbefindens aufgrund von entzündlichen Erkrankungen, namentlich Entzündungen an folgenden Orten:
-- a. Lunge;
-- b. Herz und Herzbeutel;
-- c. Bauch- oder Brustfell;
-- d. Magen;
-- e. Darm;
-- f. Nieren;
-- g. Gebärmutter;
-- h. Euter;
-- i. Nabel;
-- j. an mehr als einem Gelenk;
-- k. Sehnenscheide;
-- l. Bindegewebe (Phlegmonen).
-- 1\.1.6 Mängel im Zusammenhang mit dem Töten und Schlachten:
-- a. umgestandene Tiere;
-- b. Tiere, die am Verenden waren;
-- c. totgeborene oder ungeborene Tiere;
-- d. Tiere, die keiner Schlachttieruntersuchung unterzogen wurden;
-- e. Tiere, bei denen nicht alle geforderten Teile des Schlachttierkörpers einer Fleischuntersuchung unterzogen wurden;
-- f. vor dem Alter von sieben Tagen geschlachtete Tiere;
-- g. Schlachttierkörper mit spezifiziertem Risikomaterial von Transmissiblen Spongiformen Enzephalopathien (soweit dieses nicht auf Anweisung der amtlichen Tierärztin oder des amtlichen Tierarztes entfernt wird und ausgenommen die Wirbelsäule);
-- h. Tiere, die nicht oder ungenügend ausgeblutet sind;
-- i. stark verunreinigte namentlich mit Fäkalien verschmutzte oder stark verbrühte Schlachttierkörper oder Schlachttierkörper mit Fremdkörpern;
-- 1\.1.7 Fleisch, das vom Üblichen deutlich abweicht bezüglich Farbe, Geruch, insbesondere starkem Geschlechtsgeruch, Konsistenz, Geschmack, Aussehen (pathophysiologische Veränderungen);
-- 1\.1.8 Fremdstoffe und Behandlungen:
-- a. Überschreiten eines Grenzwertes;
-- b. akute Vergiftung;
-- c. Nachweis eines verbotenen Stoffes;
-- d. Schlachttierkörper oder Teile davon, die auf unzulässige Weise physikalisch oder mit Dekontaminierungsmittel behandelt sind.
+- 1\.1.1 eine hochansteckende Tierseuche (klinische oder pathologisch-anatomische Feststellung) nach Artikel 2 TSV;
+- 1\.1.2
 
-[^annex7-lvlu1-lvl1-lvl11-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+  andere Infektionskrankheiten (klinische oder pathologisch-anatomische Feststellung):
+
+  - a. Tollwut;
+  - b. Pferdeenzephalomyelitiden nach dem 3. Titel 4. Kapitel 9*a*. Abschnitt der Tierseuchenverordnung vom 27. Juni 1995[^annex7-lvlu1-lvl1-lvl11-1];
+  - c. Rotz;
+  - d. Milzbrand;
+  - e. Rauschbrand;
+  - f. Brucellosen *(Brucella abortus, Brucella melitensis, Brucella suis)* (nur bei Erregernachweis);
+  - g. Tuberkulose (*Mycobacterium bovis, Mycobacterium caprae* und *Mycobacterium tuberculosis*);
+  - h. Salmonellose, sofern Erregernachweis in der Muskulatur oder in zur Verwendung als Lebensmittel vorgesehenen Organen (ausgenommen Darm);
+  - i. Transmissible Spongiforme Enzephalopathien;
+  - j. Traberkrankheit;
+  - k. generalisierte Aktinobazillose oder Aktinomykose;
+  - l. generalisierte Lymphadenitis;
+  - m. Tetanus;
+  - n. Hautrotlauf der Schweine;
+  - o. Botulismus;
+  - p. Listeriose;
+  - q. Paratuberkulose;
+
+- 1\.1.3
+
+  parasitäre Krankheiten:
+
+  - a. generalisierter Befall mit Sarkosporidien;
+  - b. generalisierter Befall mit lebenden oder toten Zystizerken in der Muskulatur;
+  - c. Befall mit Trichinellen (bei Erregernachweis oder serologischem Nachweis).
+
+- 1\.1.4
+
+  andere Krankheiten:
+
+  - a. klinische oder pathologisch-anatomische Symptome von Pyämie, Septikämie, Toxämie, Bakteriämie oder Virämie;
+  - b. Tumoren an verschiedenen Körperteilen;
+  - c. Abszesse an verschiedenen Körperteilen;
+  - d. schwere Verletzungen an verschiedenen Körperteilen;
+  - e. hochgradige Auszehrung (wässrige Entartung des Fettgewebes sowie des Knochenmarks und der Muskulatur);
+
+- 1\.1.5
+
+  hochgradige akute Veränderungen mit Störung des Allgemeinbefindens aufgrund von entzündlichen Erkrankungen, namentlich Entzündungen an folgenden Orten:
+
+  - a. Lunge;
+  - b. Herz und Herzbeutel;
+  - c. Bauch- oder Brustfell;
+  - d. Magen;
+  - e. Darm;
+  - f. Nieren;
+  - g. Gebärmutter;
+  - h. Euter;
+  - i. Nabel;
+  - j. an mehr als einem Gelenk;
+  - k. Sehnenscheide;
+  - l. Bindegewebe (Phlegmonen).
+
+- 1\.1.6
+
+  Mängel im Zusammenhang mit dem Töten und Schlachten:
+
+  - a. umgestandene Tiere;
+  - b. Tiere, die am Verenden waren;
+  - c. totgeborene oder ungeborene Tiere;
+  - d. Tiere, die keiner Schlachttieruntersuchung unterzogen wurden;
+  - e. Tiere, bei denen nicht alle geforderten Teile des Schlachttierkörpers einer Fleischuntersuchung unterzogen wurden;
+  - f. vor dem Alter von sieben Tagen geschlachtete Tiere;
+  - g. Schlachttierkörper mit spezifiziertem Risikomaterial von Transmissiblen Spongiformen Enzephalopathien (soweit dieses nicht auf Anweisung der amtlichen Tierärztin oder des amtlichen Tierarztes entfernt wird und ausgenommen die Wirbelsäule);
+  - h. Tiere, die nicht oder ungenügend ausgeblutet sind;
+  - i. stark verunreinigte namentlich mit Fäkalien verschmutzte oder stark verbrühte Schlachttierkörper oder Schlachttierkörper mit Fremdkörpern;
+
+- 1\.1.7 Fleisch, das vom Üblichen deutlich abweicht bezüglich Farbe, Geruch, insbesondere starkem Geschlechtsgeruch, Konsistenz, Geschmack, Aussehen (pathophysiologische Veränderungen);
+- 1\.1.8
+
+  Fremdstoffe und Behandlungen:
+
+  - a. Überschreiten eines Grenzwertes;
+  - b. akute Vergiftung;
+  - c. Nachweis eines verbotenen Stoffes;
+  - d. Schlachttierkörper oder Teile davon, die auf unzulässige Weise physikalisch oder mit Dekontaminierungsmittel behandelt sind.
+
+[^annex7-lvlu1-lvl1-lvl11-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### 1.2 Teile des Schlachttierkörpers genussuntauglich
 
@@ -1213,93 +1358,133 @@ Anhang 7*[^t-7]*
 - 1\.2.3 Euter, Genitaltrakt und Blut bei Tieren, die positiv oder nicht eindeutig auf einen Brucellen–Test reagiert haben, auch wenn keine Läsion festgestellt wurde;
 - 1\.2.4 Leber und Nieren von Tieren aus Regionen, die als mit Schwermetallen belastet gelten;
 - 1\.2.5 Körperteile oder Organe mit krankhaften Veränderungen;
-- 1\.2.6 Organe mir krankhaften Veränderungen parasitären Ursprungs:
-- a. Echinokokken und andere Bandwurmfinnen;
-- b. Leberegel;
-- c. Lungenwürmer;
-- d. Ektoparasiten;
-- e. Askariden;
-- 1\.2.7 Körperteile oder Organe mit folgenden Veränderungen:
-- a. frische Verletzungen, Knochenbrüche;
-- b. Blutergüsse;
-- c. lokalisierte Lymphknotenentzündung;
-- d. lokalisierte eitrige Erkrankungen und Abszesse;
-- e. Tumoren;
-- f. bindegewebige Verwachsungen;
-- g. ausgedehnte Veränderungen der Schwarte;
-- h. lokale Verunreinigungen oder Fremdkörper;
-- i. durch Mageninhalt oder andere Stoffe verunreinigtes Blut sowie Blut, das aufgrund des Gesundheitszustandes des Schlachttieres ein Gesundheitsrisiko darstellen kann;
-- j. ekelerregende Veränderungen;
-- k. Überschreiten eines Grenzwertes für ein bestimmtes Organ.
+- 1\.2.6
+
+  Organe mir krankhaften Veränderungen parasitären Ursprungs:
+
+  - a. Echinokokken und andere Bandwurmfinnen;
+  - b. Leberegel;
+  - c. Lungenwürmer;
+  - d. Ektoparasiten;
+  - e. Askariden;
+
+- 1\.2.7
+
+  Körperteile oder Organe mit folgenden Veränderungen:
+
+  - a. frische Verletzungen, Knochenbrüche;
+  - b. Blutergüsse;
+  - c. lokalisierte Lymphknotenentzündung;
+  - d. lokalisierte eitrige Erkrankungen und Abszesse;
+  - e. Tumoren;
+  - f. bindegewebige Verwachsungen;
+  - g. ausgedehnte Veränderungen der Schwarte;
+  - h. lokale Verunreinigungen oder Fremdkörper;
+  - i. durch Mageninhalt oder andere Stoffe verunreinigtes Blut sowie Blut, das aufgrund des Gesundheitszustandes des Schlachttieres ein Gesundheitsrisiko darstellen kann;
+  - j. ekelerregende Veränderungen;
+  - k. Überschreiten eines Grenzwertes für ein bestimmtes Organ.
+
 - 1\.2.8 Fleischstück, das den Mikrochip enthält, sofern dieser nicht entfernt werden kann.
 
 ### 1.3 Obligatorische Behandlung des Schlachttierkörpers, bevor er als Lebensmittel verwendet werden darf
 
-- 1\.3.1 Schlachttierkörper, die mit Zystizerken (*Cysticercus bovis* und *Cyst**i**cercus cellulosae*; lebend oder tot) befallen sind, vorbehältlich Ziffer 1.1.3 Buchstabe b:
+- 1\.3.1 Schlachttierkörper, die mit Zystizerken (*Cysticercus bovis* und *Cysticercus cellulosae*; lebend oder tot) befallen sind, vorbehältlich Ziffer 1.1.3 Buchstabe b:
 - Sie sind während einem Tag bei 0–2 °C und anschliessend während 5 Tagen bei –20 °C zu lagern.
 - 1\.3.2 Gefrierbehandlung nach dem Gefrierverfahren I
-- a. Gefroren eingeführtes Fleisch ist in gefrorenem Zustand zu halten.
-- b. Die technische Ausrüstung und die Energieversorgung des Gefrierraums müssen gewährleisten, dass die erforderlichen Temperaturen in kürzester Zeit erreicht und in allen Teilen des Raums sowie im Fleisch aufrechterhalten werden.
-- c. Vor dem Gefrieren ist die Isolierverpackung zu entfernen, ausgenommen bei Fleisch, das bereits beim Einbringen in den Gefrierraum die erforderliche Temperatur vollständig erreicht hat, sowie Fleisch, das so verpackt ist, dass es trotz der Verpackung innerhalb der vorgegebenen Zeit die erforderliche Temperatur erreicht.
-- d. Die Sendungen sind im Gefrierraum getrennt und unter Verschluss zu halten.
-- e. Datum und Uhrzeit des Einbringens einer Fleischsendung in den Gefrierraum sind aufzuzeichnen.
-- f. Die Temperatur im Gefrierraum darf nicht höher sein als –25 °C. Sie ist thermoelektrisch mit geeichten Geräten zu messen und fortlaufend aufzuzeichnen. Sie darf nicht direkt im Kaltluftstrom gemessen werden. Die Geräte sind unter Verschluss zu halten. Die Diagramme sind mit den einschlägigen Registernummern der Fleischuntersuchung bei der Einfuhr sowie mit dem Datum und der Uhrzeit des Beginns und der Beendigung des Gefrierprozesses zu versehen und nach der Zusammenstellung ein Jahr lang aufzubewahren.
-- g. Fleisch mit bis zu 25 cm Durchmesser oder Schichtdicke muss mindestens 240 Stunden ohne Unterbrechung gefroren sein; Fleisch mit 25 bis 50 cm Durchmesser oder Schichtdicke muss mindestens 480 Stunden ohne Unterbrechung gefroren sein. Fleisch mit einem größeren Durchmesser oder einer grösseren Schichtdicke darf diesem Gefrierverfahren nicht unterzogen werden. Die Gefrierzeit ist ab dem Zeitpunkt zu berechnen, an dem die Temperatur im Gefrierraum den Wert gemäss Buchstaben f erreicht.
+  - a. Gefroren eingeführtes Fleisch ist in gefrorenem Zustand zu halten.
+  - b. Die technische Ausrüstung und die Energieversorgung des Gefrierraums müssen gewährleisten, dass die erforderlichen Temperaturen in kürzester Zeit erreicht und in allen Teilen des Raums sowie im Fleisch aufrechterhalten werden.
+  - c. Vor dem Gefrieren ist die Isolierverpackung zu entfernen, ausgenommen bei Fleisch, das bereits beim Einbringen in den Gefrierraum die erforderliche Temperatur vollständig erreicht hat, sowie Fleisch, das so verpackt ist, dass es trotz der Verpackung innerhalb der vorgegebenen Zeit die erforderliche Temperatur erreicht.
+  - d. Die Sendungen sind im Gefrierraum getrennt und unter Verschluss zu halten.
+  - e. Datum und Uhrzeit des Einbringens einer Fleischsendung in den Gefrierraum sind aufzuzeichnen.
+  - f. Die Temperatur im Gefrierraum darf nicht höher sein als –25 °C. Sie ist thermoelektrisch mit geeichten Geräten zu messen und fortlaufend aufzuzeichnen. Sie darf nicht direkt im Kaltluftstrom gemessen werden. Die Geräte sind unter Verschluss zu halten. Die Diagramme sind mit den einschlägigen Registernummern der Fleischuntersuchung bei der Einfuhr sowie mit dem Datum und der Uhrzeit des Beginns und der Beendigung des Gefrierprozesses zu versehen und nach der Zusammenstellung ein Jahr lang aufzubewahren.
+  - g. Fleisch mit bis zu 25 cm Durchmesser oder Schichtdicke muss mindestens 240 Stunden ohne Unterbrechung gefroren sein; Fleisch mit 25 bis 50 cm Durchmesser oder Schichtdicke muss mindestens 480 Stunden ohne Unterbrechung gefroren sein. Fleisch mit einem größeren Durchmesser oder einer grösseren Schichtdicke darf diesem Gefrierverfahren nicht unterzogen werden. Die Gefrierzeit ist ab dem Zeitpunkt zu berechnen, an dem die Temperatur im Gefrierraum den Wert gemäss Buchstaben f erreicht.
+
 - 1\.3.3 Gefrierbehandlung nach dem Gefrierverfahren 2
-- Es gelten die allgemeinen Bestimmungen nach Ziffer 1.3.2 (Verfahren 1) Buchstaben a–e unter Anwendung der folgenden Zeit- und Temperaturkombinationen:
-- a. Fleisch mit einem Durchmesser oder einer Schichtdicke bis zu 15 cm ist nach einer der folgenden Zeit- und Temperaturkombinationen einzufrieren:
-- – 20 Tage bei minus 15 °C;
-- – 10 Tage bei minus 23 °C;
-- – 6 Tage bei minus 29 °C.
-- b. Fleisch mit einem Durchmesser oder einer Schichtdicke von 15 bis 50 cm ist nach einer der folgenden Zeit- und Temperaturkombinationen einzufrieren:
-- – 30 Tage bei minus 15 °C;
-- – 20 Tage bei minus 25 °C;
-- – 12 Tage bei minus 29 °C.
-- Die Temperatur im Gefrierraum darf die für die Abtötung von Trichinellen-Larven gewählte Temperatur nicht überschreiten. Sie ist thermoelektrisch mit geeichten Geräten zu messen und fortlaufend aufzuzeichnen. Sie darf nicht direkt im Kaltluftstrom gemessen werden. Die Geräte sind unter Verschluss zu halten. Die Diagramme sind mit den einschlägigen Registernummern der Fleischuntersuchung bei der Einfuhr sowie mit dem Datum und der Uhrzeit des Beginns und der Beendigung des Gefrierprozesses zu versehen und nach der Zusammenstellung ein Jahr lang aufzubewahren.
-- Werden Gefriertunnel verwendet und die unter den Ziffern 1.3.2. und 1.3.3 beschriebenen Verfahren nicht strikt eingehalten, so muss die Betreiberin oder der Betreiber des Lebensmittelunternehmens in der Lage sein, der zuständigen Behörde gegenüber nachzuweisen, dass mit dem alternativen Verfahren die Abtötung von Trichinenparasiten in Schweinefleisch gewährleistet ist.
+-
+
+  Es gelten die allgemeinen Bestimmungen nach Ziff. 1.3.2 (Verfahren 1) Buchstaben a–e unter Anwendung der folgenden Zeit- und Temperaturkombinationen:
+
+  - a.
+
+    Fleisch mit einem Durchmesser oder einer Schichtdicke bis zu 15 cm ist nach einer der folgenden Zeit- und Temperaturkombinationen einzufrieren:
+
+    - – 20 Tage bei höchstens minus 15 °C;
+    - – 10 Tage bei höchstens minus 23 °C;
+    - – 6 Tage bei höchstens minus 29 °C.
+
+  - b.
+
+    Fleisch mit einem Durchmesser oder einer Schichtdicke von 15–50 cm ist nach einer der folgenden Zeit- und Temperaturkombinationen einzufrieren:
+
+    - – 30 Tage bei höchstens minus 15 °C;
+    - – 20 Tage bei höchstens minus 25 °C;
+    - – 12 Tage bei höchstens minus 29 °C.
+
+  - Die Temperatur im Gefrierraum darf die für die Abtötung von Trichinellen-Larven gewählte Temperatur nicht überschreiten. Sie ist thermoelektrisch mit geeichten Geräten zu messen und fortlaufend aufzuzeichnen. Sie darf nicht direkt im Kaltluftstrom gemessen werden. Die Geräte sind unter Verschluss zu halten. Die Diagramme sind mit den einschlägigen Registernummern der Fleischuntersuchung bei der Einfuhr sowie mit dem Datum und der Uhrzeit des Beginns und der Beendigung des Gefrierprozesses zu versehen und nach der Zusammenstellung ein Jahr lang aufzubewahren.
+  - Werden Gefriertunnel verwendet und die unter den Ziffern 1.3.2. und 1.3.3 beschriebenen Verfahren nicht strikt eingehalten, so muss die Betreiberin oder der Betreiber des Lebensmittelunternehmens in der Lage sein, der zuständigen Behörde gegenüber nachzuweisen, dass mit dem alternativen Verfahren die Abtötung von Trichinenparasiten in Schweinefleisch gewährleistet ist.
+
 - 1\.3.4 Gefrierbehandlung nach dem Gefrierverfahren 3
 - Die Behandlung erfolgt durch handelsübliches Gefriertrocknen oder kontrolliertes Gefrieren nach vorgegebenen Zeit- und Temperatur-Kombinationen, wobei die Temperatur jeweils in der Mitte des Fleischstücks überwacht wird.
-- a. Es gelten die allgemeinen Bestimmungen nach Ziffer 3.1.2 (Verfahren 1) Buchstaben a–e des unter Anwendung der folgenden Zeit- und/Temperaturkombinationen:
-- – 106 Stunden bei minus 18 °C;
-- – 82 Stunden bei minus 21 °C;
-- – 63 Stunden bei minus 23,5 °C;
-- – 48 Stunden bei minus 26 °C;
-- – 35 Stunden bei minus 29 °C;
-- – 22 Stunden bei minus 32 °C;
-- – 8 Stunden bei minus 35 °C;
-- – 0,5 Stunden bei minus 37 °C.
-- b. Die Temperatur ist thermoelektrisch mit geeichten Geräten zu messen und fortlaufend aufzuzeichnen. Die Messsonde ist in den Kern eines Fleischstücks einzuführen, das nicht kleiner sein darf als das dickste einzufrierende Fleischstück. Das Fleischstück ist an der ungünstigsten Stelle des Gefrierraums zu platzieren, d. h. vom Kühlaggregat entfernt und nicht unmittelbar im Kaltluftstrom. Die Geräte sind unter Verschluss zu halten. Die Diagramme sind mit den einschlägigen Registernummern der Fleischuntersuchung bei der Einfuhr sowie dem Datum und der Uhrzeit des Beginns und der Beendigung des Gefrierprozesses zu versehen und nach der Zusammenstellung ein Jahr lang aufzubewahren.
+  - a.
 
-### 2 Hauskaninchen, Hausgeflügel und Laufvögel
+    Es gelten die allgemeinen Bestimmungen nach Ziffer 3.1.2 (Verfahren 1) Buchstaben a–e unter Anwendung der folgenden Zeit- und Temperaturkombinationen:
+
+    - – 106 Stunden bei höchstens minus 18 °C;
+    - – 82 Stunden bei höchstens minus 21 °C;
+    - – 63 Stunden bei höchstens minus 23,5 °C;
+    - – 48 Stunden bei höchstens minus 26 °C;
+    - – 35 Stunden bei höchstens minus 29 °C;
+    - – 22 Stunden bei höchstens minus 32 °C;
+    - – 8 Stunden bei höchstens minus 35 °C;
+    - – 0,5 Stunden bei höchstens minus 37 °C.
+
+  - b. Die Temperatur ist thermoelektrisch mit geeichten Geräten zu messen und fortlaufend aufzuzeichnen. Die Messsonde ist in den Kern eines Fleischstücks einzuführen, das nicht kleiner sein darf als das dickste einzufrierende Fleischstück. Das Fleischstück ist an der ungünstigsten Stelle des Gefrierraums zu platzieren, d. h. vom Kühlaggregat entfernt und nicht unmittelbar im Kaltluftstrom. Die Geräte sind unter Verschluss zu halten. Die Diagramme sind mit den einschlägigen Registernummern der Fleischuntersuchung bei der Einfuhr sowie dem Datum und der Uhrzeit des Beginns und der Beendigung des Gefrierprozesses zu versehen und nach der Zusammenstellung ein Jahr lang aufzubewahren.
+
+### 2 Hausgeflügel, Hauskaninchen und Laufvögel
 
 ### 2.1 Ganzer Schlachttierkörper genussuntauglich
 
 - Der Schlachttierkörper sowie die Teile davon, einschliesslich des Blutes, müssen als tierische Nebenprodukte entsorgt werden, wenn Folgendes festgestellt wird:
-- 2\.1.1 Tierseuchen:
-- a. Myxomatose;
-- b. Klassische Geflügelpest;
-- c. Newcastle-Krankheit;
-- d. Salmonellose;
+- 2\.1.1
+
+  Tierseuchen:
+
+  - a. Myxomatose;
+  - b. Klassische Geflügelpest;
+  - c. Newcastle-Krankheit;
+  - d. Salmonellose;
+
 - 2\.1.2 allgemeine Infektionskrankheiten und chronische, durch menschen-pathogene Mikroorganismen (einschliesslich Pilze) verursachte Herde;
 - 2\.1.3 ausgeprägte subkutane oder muskuläre Parasitosen und systemische Parasitosen;
-- 2\.1.4 andere Allgemeinerkrankungen:
-- a. multiple Tumoren;
-- b. umfangreiche Läsionen;
-- c. multiple Blutungen;
-- d. Bauchwassersucht;
-- e. Abzehrung;
+- 2\.1.4
+
+  andere Allgemeinerkrankungen:
+
+  - a. multiple Tumoren;
+  - b. umfangreiche Läsionen;
+  - c. multiple Blutungen;
+  - d. Bauchwassersucht;
+  - e. Abzehrung;
+
 - 2\.1.5 Fleisch, das vom Üblichen deutlich abweicht bezüglich Farbe, Geruch, Konsistenz, Geschmack, Aussehen;
-- 2\.1.6 Mängel im Zusammenhang mit dem Töten und Schlachten:
-- a. umgestandene Tiere;
-- b. Tiere, die keiner Schlachttieruntersuchung unterzogen wurden;
-- c. Tiere, bei denen nicht alle geforderten Teile des Schlachttierkörpers einer Fleischuntersuchung unterzogen wurden;
-- d. Tiere, die nicht oder ungenügend ausgeblutet sind;
-- e. verunreinigte oder verbrühte Schlachttierkörper;
-- 2\.1.7 Fremdstoffe und Behandlungen:
-- a. Überschreiten eines Grenzwertes;
-- b. akute Vergiftung;
-- c. Nachweis eines verbotenen Stoffes;
-- d. Schlachttierkörper oder Teile davon, die auf unzulässige Weise physikalisch behandelt sind.
+- 2\.1.6
+
+  Mängel im Zusammenhang mit dem Töten und Schlachten:
+
+  - a. umgestandene Tiere;
+  - b. Tiere, die keiner Schlachttieruntersuchung unterzogen wurden;
+  - c. Tiere, bei denen nicht alle geforderten Teile des Schlachttierkörpers einer Fleischuntersuchung unterzogen wurden;
+  - d. Tiere, die nicht oder ungenügend ausgeblutet sind;
+  - e. verunreinigte oder verbrühte Schlachttierkörper;
+
+- 2\.1.7
+
+  Fremdstoffe und Behandlungen:
+
+  - a. Überschreiten eines Grenzwertes;
+  - b. akute Vergiftung;
+  - c. Nachweis eines verbotenen Stoffes;
+  - d. Schlachttierkörper oder Teile davon, die auf unzulässige Weise physikalisch behandelt sind.
 
 ### 2.2 Teile des Schlachttierkörpers genussuntauglich
 
@@ -1311,29 +1496,32 @@ Anhang 7*[^t-7]*
 
 - Der Schlachttierkörper sowie die Teile davon, einschliesslich des Blutes, müssen als tierische Nebenprodukte entsorgt werden, wenn folgendes festgestellt wird:
 - 3\.1.1 generalisierte Tumore oder Abszesse, wenn sie in verschiedenen inneren Organen oder in der Muskulatur vorkommen;
-- 3\.1.2 Arthritis, Orchitis, pathologische Veränderungen der Leber oder Milz, Darm- oder Nabelentzündungen;
+- 3\.1.2 hochgradige akute Veränderungen an mehr als einem Gelenk (Polyarthritis);
 - 3\.1.3 nicht von der Jagd herrührende Fremdkörper in Leibeshöhlen, im Magen, Darm oder Harn, sofern Brust oder Bauchfell verfärbt sind;
 - 3\.1.4 ausgeprägte subkutane oder muskuläre Parasitosen und systemische Parasitosen;
 - 3\.1.4*a* Befall mit Trichinellen (bei Erregernachweis oder serologischem Nachweis);
 - 3\.1.5 übermässige Gasbildung im Magen- und Darmtrakt mit Verfärbung der inneren Organe;
-- 3\.1.6 erhebliche Abweichungen der Muskulatur oder der Organe in Farbe, Konsistenz oder Geruch;
+- 3\.1.6 erhebliche Abweichungen der Muskulatur oder der Organe in Farbe, Konsistenz, Geruch oder Aussehen;
 - 3\.1.7 alte, offene Knochenbrüche;
-- 3\.1.8 Auszehrung (Kachexie) oder generalisierte oder lokalisierte Ödeme
+- 3\.1.8 hochgradige Auszehrung (Kachexie) oder generalisierte Ödeme;
 - 3\.1.9 frische Verklebungen oder Verwachsungen mit Brust- oder Bauchfell;
 - 3\.1.10 sonstige augenfällige und grossflächige Veränderungen wie beispielsweise Verwesung;
-- 3\.1.11 Anzeichen, dass das Tier unabhängig von der Jagd verendet ist.
+- 3\.1.11 Anzeichen, dass das Tier unabhängig von der Jagd verendet ist;
+- 3\.1.12 ausgeprägte pathologische Veränderungen der Muskulatur oder der Organe mit systemischer Bedeutung.
 
 ### 3.2 Teile des Schlachttierkörpers genussuntauglich
 
 - Nur Teile müssen als tierische Nebenprodukte entsorgt werden, wenn keine Beanstandung nach Ziffer 3.1 erfolgt und Läsionen oder Kontaminationen, welche die Verwendbarkeit des übrigen Fleisches nicht beeinträchtigen, festgestellt werden.
 
-Anhang 8
+Anhang 8[^t-9]
 
-(Art. 8 Abs. 1 Bst. b)
+(Art. 8 Abs. 1 Bst. d)
 
 ## Bescheinigung über die Genusstauglichkeit
 
-Amtliche Tierärztin/ amtlicher Tierarzt
+[^t-9]: Fassung gemäss Ziff. II Abs. 3 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+
+Amtliches Vollzugsorgan
 
 Schlachtbetrieb
 
@@ -1345,21 +1533,23 @@ Anzahl Schlachttierkörper
 
 Gewicht
 
-Die unterzeichnete amtliche Tierärztin / der unterzeichnete amtliche Tierarzt bestätigt, dass die oben bezeichneten Schlachttierkörper genusstauglich sind.
+Das amtliche Vollzugorgan bestätigt mit seiner Unterschrift, , dass die oben bezeichneten Schlachttierkörper genusstauglich sind.
 
-<table>
-<tr><td>Ausgestellt in</td><td>am</td><td>Unterschrift</td></tr>
-</table>
+Ausgestellt in
+
+am
+
+Unterschrift
 
 Abdruck des Genusstauglichkeitskennzeichens
 
-Anhang 9*[^t-8]*
+Anhang 9[^t-10]
 
 (Art. 8 Abs. 3 und 12 Abs. 2)
 
 ## Genusstauglichkeitskennzeichen
 
-[^t-8]: Bereinigt gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)) und Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^t-10]: Bereinigt gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)) und Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
 
 Das Genusstauglichkeitskennzeichen muss wie folgt gestaltet sein:
 
@@ -1368,7 +1558,7 @@ Das Genusstauglichkeitskennzeichen muss wie folgt gestaltet sein:
   Form des Stempelabdrucks:
 
   - a. Genusstaugliches Fleisch: Oval
-  - b. und c. ...
+  - b. und c. …
 
 - 2\.
 
@@ -1388,7 +1578,7 @@ Das Genusstauglichkeitskennzeichen muss wie folgt gestaltet sein:
 
 Das Genusstauglichkeitskennzeichen für Fleisch von Schweinen, die keiner Trichinellenuntersuchung unterzogen worden sind und aus Betrieben nach Artikel 31 Absatz 4 der Verordnung vom 23. November 2005[^annex9-lvlu1-1] über das Schlachten und die Fleischkontrolle stammen, ist oval, hat eine Breite von 4,5 cm und eine Höhe von 2,7 cm und enthält die Kontrollnummer des Schlachtbetriebes. Die Fleischkontrollstempel nach Anhang 5 der Fleischuntersuchungsverordnung vom 3. März 1995[^annex9-lvlu1-2] dürfen weiterhin verwendet werden.
 
-[^annex9-lvlu1-1]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^annex9-lvlu1-1]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 [^annex9-lvlu1-2]: [[AS 1995 1703](https://fedlex.data.admin.ch/eli/oc/1995/1703_1703_1703)]
 
 Anhang 10
@@ -1419,7 +1609,7 @@ Vorderseite
 <tr><td>Schlachttierkörper/Teile beschlagnahmt</td><td></td><td></td></tr>
 <tr><td>Ort, Datum, Zeit:</td><td></td><td></td></tr>
 <tr><td colspan="3">Die Probe wurde in Gegenwart der untenstehenden Person erhoben, welche die Richtigkeit der Angaben zur Erhebung bestätigt: Für den Betrieb</td></tr>
-<tr><td colspan="3">amtliche Tierärztin/amtlicher Tierarzt:</td></tr>
+<tr><td colspan="3">Amtliches Vollzugsorgan[^t-11]:</td></tr>
 <tr><td colspan="2">Weitere Bemerkungen und Angaben siehe Rückseite</td><td></td></tr>
 </table>
 
@@ -1427,7 +1617,9 @@ Vorderseite
 <tr><td>Rechtsmittelbelehrung siehe Rückseite</td><td>\* Mikrobiologische Fleischuntersuchung</td></tr>
 </table>
 
-Anhang 11*[^t-9]*
+[^t-11]: Bereinigt gemäss Ziff. I Abs. 3 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) und Ziff. I Abs. 4 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
+
+Anhang 11[^t-12]
 
 (Art. 11 Bst. b)
 
@@ -1453,7 +1645,7 @@ Vorderseite
 <tr><td></td><td>Entsorgung als tier. Nebenprodukt</td><td colspan="2">◻</td><td colspan="4">◻</td></tr>
 <tr><td></td><td>Anderes</td><td colspan="2">◻</td><td colspan="4">◻</td></tr>
 <tr><td>**Begründung** (s. Rückseite)</td><td></td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="3">Den Empfang bestätigt: Für den Betrieb: Ort, Datum, Zeit:</td><td colspan="5">amtliche Tierärztin/amtlicher Tierarzt: Ort, Datum, Zeit:</td></tr>
+<tr><td colspan="3">Den Empfang bestätigt: Für den Betrieb: Ort, Datum, Zeit:</td><td colspan="5">Amtliches Vollzugsorgan: Ort, Datum, Zeit:</td></tr>
 <tr><td colspan="5">Meldung an die kantonale Behörde</td><td>Ja</td><td>Nein</td><td></td></tr>
 <tr><td colspan="5">Weitere Bemerkungen und Angaben siehe Rückseite</td><td>Ja</td><td>Nein</td><td></td></tr>
 </table>
@@ -1462,9 +1654,9 @@ Rechtsmittelbelehrung siehe Rückseite
 
 (Einsprache innert 10 Tagen an die vom Kanton bezeichnete Stelle)
 
-[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^t-12]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Bereinigt gemäss Ziff. I Abs. 4 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
-Anhang 12*[^t-10]*
+Anhang 12[^t-13]
 
 (Art. 11 Bst. c)
 
@@ -1477,7 +1669,7 @@ Inspektionsbericht
 Gemeinde:
 
 <table>
-<tr><td>Schlachtbetrieb</td><td>amtliche Tierärztin/amtlicher Tierarzt</td></tr>
+<tr><td>Schlachtbetrieb</td><td>amtliche Tierärztin / amtlicher Tierarzt</td></tr>
 <tr><td>Kontrollnummer (TVD-Nr.):</td><td>Name:</td></tr>
 <tr><td>Firma:</td><td>Vorname:</td></tr>
 <tr><td>Adresse:</td><td>Adresse:</td></tr>
@@ -1491,7 +1683,7 @@ Gemeinde:
 </table>
 
 <table>
-<tr><td></td><td>Rind</td><td colspan="2">Schaf</td><td>Ziege</td><td colspan="2">Schwein</td><td>Pferd</td><td>Geflügel</td><td>Andere</td></tr>
+<tr><td></td><td>Rind</td><td colspan="2">Schaf</td><td>Ziege</td><td colspan="2">Schwein</td><td>Tier der Pferdegattung</td><td>Hausgeflügel</td><td>Andere</td></tr>
 <tr><td>Betäubung\*</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
 <tr><td>Frequenz\*\*</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
 <tr><td colspan="3">\* B = Bolzenschuss</td><td colspan="3">K = Kohlendioxid</td></tr>
@@ -1519,9 +1711,9 @@ Gemeinde:
 <tr><td colspan="2">Räume/Einrichtungen für amtliche Kontrolle</td><td>Ja</td><td>Nein</td><td></td><td></td></tr>
 </table>
 
-[^t-10]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 29. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
+[^t-13]: Fassung gemäss Ziff. II Abs. 3 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
-Anhang 13*[^t-11]*
+Anhang 13[^t-14]
 
 (Art. 11 Bst. d)
 
@@ -1529,7 +1721,7 @@ Vorderseite
 
 ## Gesundheitsbescheinigung nach Schlachttieruntersuchung im Herkunftsbestand
 
-[^t-11]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 29. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
+[^t-14]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 29. Okt. 2008 ([AS 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)) und Ziff. I Abs. 1 und 3 der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168))..
 
 Amtlicher Tierarzt/ amtliche Tierärztin
 
@@ -1561,9 +1753,9 @@ Transportmittel
 
 Der unterzeichnete Tierarzt/die unterzeichnete Tierärztin erklärt, dass:
 
-- – die oben bezeichneten Tiere am ... um ... Uhr im vorgenannten Bestand der Schlachttieruntersuchung unterzogen und für gesund befunden wurden;
+- – die oben bezeichneten Tiere am … um … Uhr im vorgenannten Bestand der Schlachttieruntersuchung unterzogen und für gesund befunden wurden;
 - – die Aufzeichnungen und sonstigen Unterlagen zu den oben bezeichneten Tieren den gesetzlichen Vorschriften genügten und einer Schlachtung der Tiere nicht entgegenstehen;
-- – im Falle der Schlachtung eines verunfallten Tieres oder von Gehegewild das Töten und das Ausweiden am ... (Tag) um ... Uhr unter hygienischen Bedingungen erfolgte.
+- – im Falle der Schlachtung eines verunfallten Tieres oder von Gehegewild das Töten und das Ausweiden am … (Tag) um … Uhr unter hygienischen Bedingungen erfolgte.
 
 <table>
 <tr><td>Ausgestellt in</td><td>am</td><td>Unterschrift</td></tr>
@@ -1571,13 +1763,13 @@ Der unterzeichnete Tierarzt/die unterzeichnete Tierärztin erklärt, dass:
 
 Amtsstempel
 
-Anhang 14*[^t-12]*
+Anhang 14[^t-15]
 
 (Art. 11 Bst. e)
 
 ## Bescheinigung für die Abgabe von Jagdwild als Lebensmittel
 
-[^t-12]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^t-15]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Bereinigt gemäss Ziff. I Abs. 3 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 1](https://fedlex.data.admin.ch/eli/oc/2024/1)).
 
 ### 1 Allgemeine Angaben
 
@@ -1609,11 +1801,11 @@ Name und Adresse der fachkundigen Person
 
 Die unterzeichnende Person bestätigt, dass:
 
-- A. [F0A3] der Tierkörper und die Eingeweide keine Merkmale gezeigt haben, die darauf schliessen lassen würden, dass das Fleisch für die menschliche Gesundheit bedenklich sein könnte;
+- A. ◻ der Schlachttierkörper und die Eingeweide keine Merkmale gezeigt haben, die darauf schliessen lassen würden, dass das Fleisch für die menschliche Gesundheit bedenklich sein könnte;
 
 oder
 
-- B. [F0A3] der Tierkörper die folgenden Abweichungen aufweist und deshalb vor einer allfälligen Abgabe als Lebensmittel einer amtlichen Fleischuntersuchung zuzuführen ist.
+- B. ◻ der Schlachttierkörper die folgenden Abweichungen aufweist und deshalb vor einer allfälligen Abgabe als Lebensmittel einer amtlichen Fleischuntersuchung zuzuführen ist.
 
 <table>
 <tr><td>Ausgestellt in</td><td>am</td><td>Unterschrift</td></tr>
