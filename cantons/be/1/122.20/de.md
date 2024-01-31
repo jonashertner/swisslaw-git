@@ -4,13 +4,13 @@ number: "122.20"
 title: Einführungsgesetz zum Ausländer- und Integrationsgesetz sowie zum Asylgesetz
 short: EG AIG und AsylG
 language: de
-version: 2022-11-01
-valid_until: 2024-01-31
-version_adopted: 2022-03-09
+version: 2024-02-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-05
 adopted: 2019-12-09
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.20"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2657/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2997/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2657/pdf_file"
 
 (EG AIG und AsylG)
 
-vom 09.12.2019 (Stand 01.11.2022)
+vom 09.12.2019 (Stand 01.02.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -86,6 +86,12 @@ beschliesst:
 <sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion übt die fachliche Aufsicht über die Gemeinden aus.
 
 <sup>2</sup> Sie sorgt für eine möglichst einheitliche Rechtsanwendung und kann Weisungen erlassen.
+
+## 2a Meldungen von Kollektivhaushalten
+
+#### Art. 5a
+
+<sup>1</sup> Die Regelungen zu den Meldungen von Kollektivhaushalten gemäss den Bestimmungen der Gesetzgebung über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer gelten auch bezogen auf ausländische Personen.
 
 ## 3 Nothilfe für Personen im Asylbereich
 

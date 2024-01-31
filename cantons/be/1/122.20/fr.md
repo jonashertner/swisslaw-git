@@ -4,13 +4,13 @@ number: "122.20"
 title: "Loi portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration"
 short: Li LFAE
 language: fr
-version: 2022-11-01
-valid_until: 2024-01-31
-version_adopted: 2022-03-09
+version: 2024-02-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-05
 adopted: 2019-12-09
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.20"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2657/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2997/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2657/pdf_file"
 
 (Li LFAE)
 
-du 09.12.2019 (état au 01.11.2022)
+du 09.12.2019 (état au 01.02.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -86,6 +86,12 @@ arrête:
 <sup>1</sup> Le service compétent de la Direction de la sécurité exerce la surveillance, dans son domaine de spécialité, sur les communes.
 
 <sup>2</sup> Il assure une application du droit aussi uniforme que possible et peut édicter des directives en ce sens.
+
+## 2a Annonce des ménages collectifs
+
+#### Art. 5a
+
+<sup>1</sup> Les dispositions relatives à l’annonce des ménages collectifs au sens de la législation sur l'établissement et le séjour des Suissesses et des Suisses valent également dans le cas des personnes étrangères.
 
 ## 3 Aide d'urgence pour les personnes relevant du domaine de l'asile
 
