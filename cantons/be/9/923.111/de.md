@@ -4,13 +4,13 @@ number: "923.111"
 title: Verordnung über die Fischerei
 short: FiV
 language: de
-version: 2020-01-01
-valid_until: 2024-01-31
-version_adopted: 2019-10-16
+version: 2024-02-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-06
 adopted: 1995-09-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/923.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1792/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3005/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1792/pdf_file"
 
 (FiV)
 
-vom 20.09.1995 (Stand 01.01.2020)
+vom 20.09.1995 (Stand 01.02.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -168,9 +168,9 @@ beschliesst:
 
 <sup>1</sup> Ein Angelfischerpatent zum Grundtarif gemäss Artikel 38 Absatz 1 Buchstaben a bis c FiG können nur Personen beziehen, die
 
-- a einen gültigen Niederlassungsausweis einer Berner Einwohnergemeinde haben,
-- b als Ausländerinnen und Ausländer in einer Berner Einwohnergemeinde angemeldet und im Besitze eines Ausweises B, C oder L sind,
-- c zum Zwecke eines Studiums in einer Berner Gemeinde als Wochenaufenthalterinnen oder Wochenaufenthalter angemeldet sind,
+- a in einer Berner Einwohnergemeinde niedergelassen sind,
+- b als Ausländerinnen und Ausländer in einer Berner Einwohnergemeinde angemeldet sind,
+- c zum Zwecke eines Studiums in einer Berner Gemeinde als Wochenaufenthalterinnen und Wochenaufenthalter angemeldet sind,
 - d in einem Kanton oder einer anderen Gebietskörperschaft niedergelassen sind, mit denen der Kanton Bern hinsichtlich Angelfischerpatentgebühren ein Gegenrechtsabkommen abgeschlossen hat, sofern sie die im Gegenrechtsabkommen vereinbarten Bedingungen erfüllen.
 
 #### Art. 9

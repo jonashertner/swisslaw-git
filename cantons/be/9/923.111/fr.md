@@ -4,13 +4,13 @@ number: "923.111"
 title: Ordonnance sur la pêche
 short: OPê
 language: fr
-version: 2020-01-01
-valid_until: 2024-01-31
-version_adopted: 2019-10-16
+version: 2024-02-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-06
 adopted: 1995-09-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/923.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1792/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3005/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1792/pdf_file"
 
 (OPê)
 
-du 20.09.1995 (état au 01.01.2020)
+du 20.09.1995 (état au 01.02.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -168,9 +168,9 @@ arrête:
 
 <sup>1</sup> Ne peuvent acheter une patente de pêche à la ligne au tarif de base conformément à l’article 38, alinéa 1, lettres a à c LPê que les personnes qui
 
-- a possèdent un permis d’établissement valable d’une commune municipale bernoise,
-- b sont inscrites en tant qu’étrangers ou étrangères dans une commune municipale bernoise et possèdent un permis B, C ou L,
-- c sont inscrites en tant que résidants ou résidantes à la semaine dans une commune bernoise pour y faire des études,
+- a sont établies dans une commune municipale bernoise,
+- b sont inscrites en tant qu’étrangères ou étrangers dans une commune municipale bernoise,
+- c sont inscrites en tant que résidantes ou résidants à la semaine dans une commune bernoise pour y faire des études,
 - d se sont établies dans un canton ou dans une autre collectivité territoriale avec lesquels le canton de Berne a conclu un accord de réciprocité relatif aux émoluments des patentes de pêche à la ligne, dans la mesure où elles remplissent les conditions stipulées dans ledit accord.
 
 #### Art. 9
