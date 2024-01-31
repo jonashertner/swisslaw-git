@@ -3,13 +3,12 @@ canton: TG
 number: "413.284"
 title: Personalreglement der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene
 language: de
-version: 2021-02-01
-valid_until: 2024-01-31
-version_adopted: 2020-11-25
+version: 2024-02-01
+version_adopted: 2023-11-20
 adopted: 2013-12-04
 in_force: 2014-02-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.284"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2379/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2758/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,11 +17,9 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2379/pdf_file"
 
 Personalreglement Maturitätsschule für Erwachsene TG/SH
 
-vom 04.12.2013 (Stand 01.02.2021)
+vom 04.12.2013 (Stand 01.02.2024)
 
-*Erlassen von der Aufsichtskommission der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene gestützt auf § 6 Abs. 2 lit. a der Vereinbarung über die Thurgauisch-Schaffhauserische Maturitätsschule für Erwachsene*[^ingress-1].
-
-[^ingress-1]: RB [413.28](https://www.rechtsbuch.tg.ch/data/413.28/de)
+Erlassen von der Aufsichtskommission der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene.
 
 #### § 1
 
@@ -145,6 +142,12 @@ vom 04.12.2013 (Stand 01.02.2021)
 <sup>2</sup> Ein von der Aufsichtskommission zu bestellender Ausschuss prüft das Begehren. Der Ausschuss kann die Lehrperson, Mitglieder der Schulleitung sowie ausnahmsweise aussenstehende Fachpersonen anhören.
 
 <sup>3</sup> Der Ausschuss der Aufsichtskommission erlässt eine schriftliche Empfehlung zu Handen des Rektors oder der Rektorin. Die Empfehlung wird der Lehrperson mitgeteilt.
+
+#### § 7c
+
+**Spezielle Leistungen**
+
+<sup>1</sup> Die Aufsichtskommission kann die Ausrichtung von speziellen Leistungen für das Personal festlegen. Es gibt keinen Rechtsanspruch auf Bezug dieser speziellen Leistungen.
 
 #### § 8
 
