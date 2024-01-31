@@ -4,11 +4,11 @@ title: "Ordonnance du 25 janvier 2023 sur l’instauration d’une réserve d’
 short: OIRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/43"
 language: fr
-version: 2023-02-15
+version: 2024-02-01
 adopted: 2023-01-25
 in_force: 2023-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2023-43-20230215-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20230215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20230215/fr"
 
 (Ordonnance sur une réserve d’hiver, OIRH)
 
-du 25 janvier 2023 (État le 15 février 2023)
+du 25 janvier 2023 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -154,9 +154,12 @@ La participation à la constitution de la réserve complémentaire est ouverte a
 En concertation avec l’ElCom, le DETEC peut:
 
 - a. fixer une puissance supérieure à 1000 MW s’il est à prévoir que les besoins augmenteront;
-- b. préciser dans quel ordre de priorité et pour quel volume d’énergie les installations visées à l’al. 2 sont à inclure dans la réserve complémentaire.
+- b. préciser dans quel ordre de priorité et pour quel volume d’énergie les installations visées à l’al. 2 sont à inclure dans la réserve complémentaire;
+- c.[^6-1] ordonner à la société nationale du réseau de transport de procéder à des appels d’offres pour des groupes électrogènes de secours et des installations CCF (art. 14, al. 2).
 
 <sup>4</sup> La participation à la réserve complémentaire dure jusqu’au 31 mai 2026 au plus tard. Une éventuelle durée de participation plus longue régie par une réglementation succédant à la présente ordonnance est réservée.
+
+[^6-1]: Introduite par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 7
 
@@ -187,7 +190,7 @@ Les exploitants d’installations CCF peuvent participer à la réserve uniqueme
 
 <sup>1</sup> La réserve complémentaire est constituée avec les exploitants de centrales de réserve avec lesquels le DETEC s’est accordé en vue d’une participation à la réserve et d’une mise en service à partir du 15 février 2023.
 
-<sup>2</sup> Afin que la puissance fixée à l’art. 6, al. 1, soit atteinte, d’autres exploitants de centrales de réserve peuvent être inclus dans la réserve complémentaire. La société nationale du réseau de transport procède aux appels d’offres à cet effet et fixe les modalités préalablement en concertation avec l’OFEN.
+<sup>2</sup> Afin que la puissance visée à l’art. 6, al. 1, soit atteinte, l’OFEN peut procéder à des appels d’offres en vue d’inclure dans la réserve complémentaire d’autres exploitants de centrales de réserve existantes. Il peut en plus procéder à des appels d’offres pour de nouvelles centrales de réserve afin de pouvoir par la suite inclure au besoin leurs exploitants dans la réserve complémentaire.[^8-1]
 
 <sup>3</sup>
 
@@ -197,7 +200,13 @@ Les critères suivants sont notamment pris en compte pour l’adjudication:
 - b. le laps de temps nécessaire pour adapter et mettre en service une installation;
 - c. d’autres critères tels que la qualité technique, la possibilité d’octroi d’une autorisation, l’impact sur l’environnement, le site retenu et le raccordement au réseau du projet ainsi que la possibilité d’exploiter l’installation avec des agents énergétiques renouvelables.
 
-<sup>4</sup> Lors d’un appel d’offres visé à l’al. 2, l’ElCom exclure les offres prévoyant des rémunérations pour la disponibilité inappropriées et interrompre un appel d’offres.
+<sup>4</sup> L’OFEN peut exclure les offres prévoyant des rémunérations pour la disponibilité inappropriées et interrompre un appel d’offres.[^8-2]
+
+<sup>5</sup> Si une nouvelle centrale de réserve ne peut être incluse dans la réserve faute de base légale, il est alloué aux responsables de projet qui avaient obtenu l’adjudication une compensation destinée à couvrir les coûts qui ont été nécessaires pour l’élaboration du projet et la fourniture des prestations préalables. L’OFEN statue sur demande. Si les prestations préalables et les travaux d’élaboration du projet gardent à moyen terme une valeur pour les responsables de projet malgré la non-inclusion de la centrale dans la réserve, il en est tenu compte de manière appropriée lors de la compensation des coûts.[^8-3]
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^8-3]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 9
 
@@ -226,6 +235,10 @@ Le contrat doit en particulier préciser:
 
 <sup>4</sup> La rémunération pour la disponibilité sert à couvrir les coûts d’exploitation fixes tels que la disponibilité de l’installation, l’achat et le stockage des agents énergétiques, les coûts de personnel et les coûts de raccordement au réseau, ceci indépendamment de l’utilisation de l’installation. Le montant de la rémunération doit être approprié.
 
+<sup>5</sup> La rémunération pour la disponibilité est réduite *pro rata temporis* si un exploitant utilise la centrale de réserve pour ses propres besoins d’exploitation (art. 11, al. 2<sup>bis</sup>).[^10-1]
+
+[^10-1]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+
 #### Art. 11
 
 **Restrictions d’exploitation et exigences opérationnelles concernant les centrales de réserve**
@@ -233,6 +246,17 @@ Le contrat doit en particulier préciser:
 <sup>1</sup> Les centrales de réserve sont utilisées exclusivement pour la réserve complémentaire et ne doivent pas produire d’électricité pour le marché.
 
 <sup>2</sup> En dehors de la période de disponibilité, les exploitants sont autorisés à fournir des services-système avec ces centrales dans la mesure où ils respectent les valeurs limites d’émission et les prescriptions cantonales. La période de disponibilité dure du 1<sup>er</sup> décembre au 31 mai; l’ElCom peut, chaque année, fixer une période plus courte.
+
+<sup>2</sup>
+
+En dehors de la période de disponibilité, les exploitants sont autorisés à fournir des services-système avec les centrales de réserve à condition de respecter les valeurs limites d’émission et les prescriptions cantonales. La période de disponibilité dure du 1<sup>er</sup> décembre au 31 mai, sous réserve:
+
+- a. d’une durée plus courte fixée par l’ElCom pour l’hiver concerné;
+- b. d’une durée différente si une telle durée avait été convenue avant le début de la réserve complémentaire dans l’accord visé à l’art. 8, al. 1.[^11-1]
+
+<sup>2bis</sup> L’exploitant peut utiliser une centrale de réserve intégrée à une entreprise pour ses propres besoins d’exploitation, durant la période de disponibilité et en dehors de celle-ci, même en cas de pénurie grave, à condition de respecter les valeurs limites d’émission et les prescriptions cantonales.[^11-2]
+
+<sup>2ter</sup> Sont réservées les prescriptions dérogatoires fondées sur la LAP.[^11-3]
 
 <sup>3</sup>
 
@@ -245,6 +269,10 @@ L’OFEN peut, en accord avec l’ElCom, fixer d’autres exigences techniques g
 
 <sup>4</sup> Les exploitants des centrales de réserve peuvent utiliser les générateurs en dehors des périodes où les centrales doivent être fonctionnelles (art. 17, al. 3) afin de maintenir la tension.
 
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^11-2]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^11-3]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+
 #### Art. 12
 
 **Tarif pour l’utilisation des installations de transport par conduites**
@@ -253,11 +281,9 @@ L’OFEN peut fixer un tarif fondé sur les coûts dans les cas où les tarifs p
 
 #### Art. 13
 
-**Appels d’offres pour de nouvelles centrales de réserve**
+[^13-1]
 
-<sup>1</sup> La société nationale du réseau de transport peut, en plus de ceux prévus à l’art. 8, al. 2, procéder à d’autres appels d’offres pour de nouvelles centrales de réserve afin que celles-ci puissent être construites à temps et que leurs exploitants puissent par la suite, si nécessaire, être inclus dans la réserve complémentaire.
-
-<sup>2</sup> L’art. 8, al. 2 et 3, s’applique aux appels d’offres et aux critères d’adjudication.
+[^13-1]: Abrogé par le ch. I de l’O du 22 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 14
 
@@ -291,18 +317,23 @@ L’OFEN peut fixer un tarif fondé sur les coûts dans les cas où les tarifs p
 
 **Conditions-cadres et rémunération pour la disponibilité versée aux exploitants de groupes électrogènes de secours ou d’installations CCF**
 
-<sup>1</sup> Durant la période de disponibilité visée à l’art. 11, al. 2, les groupes électrogènes de secours et les installations CCF doivent pouvoir être fonctionnels en tout temps (art. 17, al. 3) pour la réserve complémentaire.
+<sup>1</sup> Durant la période de disponibilité, les groupes électrogènes de secours et les installations CCF doivent pouvoir en tout temps être fonctionnels (art. 17, al. 3) pour la réserve complémentaire. La période de disponibilité dure du 15 février au 30 avril.[^16-1]
 
 <sup>2</sup>
 
-Une utilisation en dehors de la réserve durant la période de disponibilité est possible:
+Sous réserve de prescriptions dérogatoires fondées sur la LAP, une utilisation par les exploitants en dehors de la réserve durant la période de disponibilité est possible:[^16-2]
 
-- a. pour les propres besoins de l’entreprise de l’exploitant concerné après un effondrement du réseau;
+- a.[^16-3] pour les propres besoins d’exploitation en cas soit d’effondrement du réseau, soit de pénurie grave, à condition que les valeurs limites d’émission et les prescriptions cantonales soient respectées;
 - b. pour la mise à disposition de services-système, dans la mesure où cela ne compromet pas la disponibilité en cas de recours à la réserve; la société nationale du réseau de transport fixe les conditions à cet effet.
 
-<sup>3</sup> La rémunération pour la disponibilité versée aux exploitants sert à couvrir leurs coûts d’exploitation fixes, tels que la disponibilité des groupes électrogènes de secours ou des installations CCF et les investissements nécessaires à cet effet au niveau des installations, indépendamment de leur utilisation. En cas de regroupement via un agrégateur, les exploitants reçoivent la rémunération sous forme de forfait.
+<sup>3</sup> La rémunération pour la disponibilité versée aux exploitants sert à couvrir leurs coûts d’exploitation fixes, tels que la disponibilité des groupes électrogènes de secours ou des installations CCF et les investissements nécessaires à cet effet au niveau des installations, indépendamment de leur utilisation. Cette rémunération est réduite *pro rata temporis* si l’exploitant utilise le groupe électrogène de secours ou l’installation CCF pour ses propres besoins d’exploitation. En cas de regroupement via un agrégateur, les exploitants reçoivent la rémunération sous forme de forfait.[^16-4]
 
 <sup>4</sup> L’OFEN peut, par analogie à l’art. 11, al. 3, fixer des exigences techniques générales pour l’exploitation des installations.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 ## Section 4 Utilisation et recours à la réserve d’électricité
 
@@ -367,7 +398,7 @@ Dans le cas d’une absence d’équilibre du marché, la société nationale du
 
 **Indemnisation en cas de recours à la réserve**
 
-<sup>1</sup> En cas de recours à la réserve, les exploitants reçoivent de la société nationale du réseau de transport une indemnisation pour l’énergie prélevée.
+<sup>1</sup> En cas de recours à la réserve, les exploitants reçoivent une indemnisation de la part de la société nationale du réseau de transport.[^20-1]
 
 <sup>2</sup> Pour la réserve hydroélectrique, la société nationale du réseau de transport détermine le montant de l’indemnisation conformément aux prescriptions de l’ElCom (art. 2, al. 3, let. d).
 
@@ -388,10 +419,11 @@ Pour les centrales de réserve, l’indemnisation couvre:
 
 <sup>5</sup> Pour les groupes électrogènes de secours et les installations CCF, l’indemnisation en cas de recours à la réserve couvre les coûts d’exploitation occasionnés par le recours à la réserve, tels que les coûts liés aux agents énergétiques, aux droits d’émission ou aux attestations nationales ou internationales, à la taxe sur le CO<sub>2</sub> ainsi qu’à d’autres moyens nécessaires à l’exploitation. L’al. 4 s’applique par analogie.
 
-<sup>6</sup> La taxe sur le CO<sub>2</sub> n’est remboursée que dans la mesure où l’exploitant ne peut pas faire valoir de droit au remboursement en vertu de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^20-1]. La même règle s’applique à l’impôt sur les huiles minérales régi par la loi du 21 juin 1996 sur l’imposition des huiles minérales[^20-2].
+<sup>6</sup> La taxe sur le CO<sub>2</sub> n’est remboursée que dans la mesure où l’exploitant ne peut pas faire valoir de droit au remboursement en vertu de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^20-2]. La même règle s’applique à l’impôt sur les huiles minérales régi par la loi du 21 juin 1996 sur l’imposition des huiles minérales[^20-3].
 
-[^20-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^20-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^20-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^20-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
 #### Art. 21
 
@@ -416,7 +448,10 @@ Les coûts de la réserve d’électricité se composent des éléments suivants
 - a. la rémunération pour la conservation versée aux exploitants de la réserve hydroélectrique;
 - b. la rémunération pour la disponibilité versée aux exploitants des centrales de réserve, des groupes électrogènes de secours ou des installations CCF participant à la réserve complémentaire;
 - c. l’indemnisation pour l’énergie prélevée versée aux exploitants concernés;
-- d. le forfait pour prestations versé aux agrégateurs.
+- d. le forfait pour prestations versé aux agrégateurs;
+- e.[^22-1] la part des coûts de l’énergie d’ajustement pour laquelle la Confédération a convenu d’une prise en charge avec les exploitants ou les agrégateurs;
+- f.[^22-2] les coûts nécessaires occasionnés par la réserve complémentaire pour lesquels la Confédération a convenu d’une prise en charge avec des tiers;
+- g.[^22-3] la compensation des coûts visée à l’art. 8, al. 5.
 
 <sup>2</sup>
 
@@ -430,13 +465,24 @@ Le financement de ces coûts est assuré par:
   - 1\. des paiements effectués par les groupes-bilan conformément à l’art. 21, al. 1,
   - 2\. des peines conventionnelles prévues de l’art. 5, al. 2, let. g, 10, al. 2, let. f, ou 15, al. 4.
 
-<sup>3</sup> La société nationale du réseau de transport tient une rubrique comptable spécifique aux ressources visées à l’al. 2. Elle effectue les paiements aux participants à la réserve, aux agrégateurs et à aux autres acteurs liés à la réserve d’électricité.
+<sup>3</sup> La société nationale du réseau de transport tient une rubrique comptable spécifique pour les ressources visées à l’al. 2. Elle effectue les paiements aux participants à la réserve, aux agrégateurs et à d’autres acteurs liés à la réserve d’électricité. Elle effectue également les paiements sur instruction et pour le compte de l’OFEN lorsque la Confédération est débiteur en vertu d’un contrat ou de la présente ordonnance.[^22-4]
 
-<sup>4</sup> Les coûts d’exécution, en particulier ceux de la société nationale du réseau de transport, y compris les travaux de préparation, sont également financés par les recettes visées à l’al. 2. Ils sont calculés jusqu’à la fin de l’exercice 2023 sur la base des coûts effectifs. Jusqu’à cette date, ils incluent les coûts de financement étranger.
+<sup>4</sup> Les coûts d’exécution, en particulier ceux de la société nationale du réseau de transport, y compris les travaux de préparation, sont également financés par les recettes visées à l’al. 2. Ils sont calculés jusqu’à la fin de l’exercice 2023 sur la base des coûts effectifs.[^22-5]
 
-<sup>5</sup> À partir de l’exercice 2024, l’art. 15 LApEl s’applique par analogie aux coûts de la réserve d’électricité imputables et l’art. 18*a*, al. 3, de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité (OApEl)[^22-1] s’applique par analogie aux différences de couverture. À partir de l’exercice 2024, la rémunération pour les valeurs patrimoniales nécessaires à la réserve d’électricité s’effectue avec le taux de rendement des fonds étrangers visé à l’annexe 1 de l’OApEl.
+<sup>5</sup> À partir de l’exercice 2024, l’art. 15 LApEl s’applique par analogie aux coûts de la réserve d’électricité imputables et l’art. 18*a*, al. 3, de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité (OApEl)[^22-6] s’applique par analogie aux différences de couverture. À partir de l’exercice 2024, la rémunération pour les valeurs patrimoniales nécessaires à la réserve d’électricité s’effectue avec le taux de rendement des fonds étrangers visé à l’annexe 1 de l’OApEl.
 
-[^22-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+<sup>6</sup> Si, sans faute de sa part, la société nationale du réseau de transport doit supporter pour la réserve d’électricité des coûts de financement effectifs qui ne sont pas entièrement imputables en vertu de l’al. 5, l’ElCom peut, sur demande, déclarer que les coûts non couverts sont imputables et ainsi les compenser. Le financement est assuré de façon analogue à l’al. 4.[^22-7]
+
+<sup>7</sup> Lorsqu’elle prend une décision au sens de l’al. 6, l’ElCom veille à ce que les coûts de financement que la société nationale du réseau de transport attribue à la réserve d’électricité correspondent effectivement à la part de celle-ci et soient globalement appropriés. Elle tient également compte dans l’évaluation de la rémunération selon l’al. 5 si celle-ci a été supérieure aux coûts de financement effectifs au cours des années précédentes.[^22-8]
+
+[^22-1]: Introduite par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-2]: Introduite par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-3]: Introduite par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-4]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-5]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-6]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^22-7]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-8]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 23
 
@@ -457,6 +503,10 @@ Le financement de ces coûts est assuré par:
 <sup>1</sup> Les agrégateurs, les exploitants participant à la réserve d’électricité et les exploitants d’installations de transport par conduites transmettent gratuitement à l’ElCom, à la société nationale du réseau de transport, au DETEC et à l’OFEN les renseignements et les documents dont ils ont besoin pour accomplir leurs tâches, en particulier concernant les niveaux de remplissage des installations de stockage, et leur donnent accès aux installations.
 
 <sup>2</sup> En cas de recours à la réserve, l’ElCom peut exiger de la part des groupes-bilan impliqués qu’ils divulguent leurs opérations de négoce liées à ce recours. Elle peut aussi exiger que d’autres négociants ou acteurs du marché divulguent les opérations réalisées en aval.
+
+<sup>3</sup> Les participants à la réserve déclarent dans les meilleurs délais à l’autorité cantonale chargée de la protection de l’air les installations avec lesquelles ils se sont engagés à participer à la réserve complémentaire.[^24-1]
+
+[^24-1]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 25
 

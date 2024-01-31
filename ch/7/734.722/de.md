@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Januar 2023 über die Errichtung einer Stromreserve f
 short: WResV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/43"
 language: de
-version: 2023-02-15
+version: 2024-02-01
 adopted: 2023-01-25
 in_force: 2023-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2023-43-20230215-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20230215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20230215/de"
 
 (Winterreserveverordnung, WResV)
 
-vom 25. Januar 2023 (Stand am 15. Februar 2023)
+vom 25. Januar 2023 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -154,9 +154,12 @@ An der Bildung der ergänzenden Reserve teilnehmen können die Betreiber von Anl
 Das UVEK kann in Absprache mit der ElCom:
 
 - a. die Leistung von 1000 MW erhöhen, wenn sich ein höherer Bedarf abzeichnet;
-- b. festlegen, in welcher Priorität und in welchem Umfang Anlagen nach Absatz 2 in die ergänzende Reserve aufzunehmen sind.
+- b. festlegen, in welcher Priorität und in welchem Umfang Anlagen nach Absatz 2 in die ergänzende Reserve aufzunehmen sind;
+- c.[^6-1] die Netzgesellschaft anweisen, Ausschreibungen für Notstromgruppen und WKK-Anlagen durchzuführen (Art. 14 Abs. 2).
 
 <sup>4</sup> Die Teilnahme an der ergänzenden Reserve dauert bis längstens am 31. Mai 2026. Vorbehalten bleibt eine allfällig längere Teilnahme aufgrund einer Nachfolgeregelung zu dieser Verordnung.
+
+[^6-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 7
 
@@ -187,7 +190,7 @@ Die Betreiber von WKK-Anlagen können nur an der Reserve teilnehmen, wenn sie f�
 
 <sup>1</sup> Die ergänzende Reserve wird mit den Betreibern von Reservekraftwerken gebildet, mit denen sich das UVEK im Hinblick auf eine Teilnahme an der Reserve und eine Inbetriebnahme ab dem 15. Februar 2023 geeinigt hat.
 
-<sup>2</sup> Zur Erreichung der Leistung nach Artikel 6 Absatz 1 können über Ausschreibungen weitere Betreiber von Reservekraftwerken in die ergänzende Reserve aufgenommen werden. Die Netzgesellschaft führt die Ausschreibungen durch und legt in Absprache mit dem BFE vorgängig die Modalitäten dafür fest.
+<sup>2</sup> Zur Erreichung der Leistung nach Artikel 6 Absatz 1 kann das BFE über Ausschreibungen weitere Betreiber von bestehenden Reservekraftwerken in die ergänzende Reserve aufnehmen. Es kann zusätzlich Ausschreibungen für neue Reservekraftwerke durchführen, damit deren Betreiber später nötigenfalls in die ergänzende Reserve aufgenommen werden können.[^8-1]
 
 <sup>3</sup>
 
@@ -197,7 +200,13 @@ Für den Zuschlag werden insbesondere die folgenden Kriterien berücksichtigt:
 - b. die Dauer, bis eine Anlage umgerüstet und einsatzbereit ist;
 - c. weitere Kriterien wie die technische Qualität, die Bewilligungsfähigkeit, die Auswirkungen auf die Umwelt, der Standort und die Netzanbindung eines Projekts sowie die Möglichkeit, die Anlage mit erneuerbaren Energieträgern zu betreiben.
 
-<sup>4</sup> Die ElCom kann in den Ausschreibungen nach Absatz 2 Angebote mit unangemessen hohen Verfügbarkeitsentgelten ausschliessen und die Ausschreibung abbrechen.
+<sup>4</sup> Das BFE kann Angebote mit unangemessen hohen Verfügbarkeitsentgelten ausschliessen und die Ausschreibung abbrechen.[^8-2]
+
+<sup>5</sup> Kommt eine Aufnahme neuer Reservekraftwerke in die Reserve mangels einer gesetzlichen Grundlage nicht zustande, so erhalten die Projektanten, denen zuvor ein Zuschlag erteilt wurde, Ersatz für die notwendigen Kosten für die Projektierung und die erforderlichen Vorleistungen. Das BFE entscheidet darüber auf Gesuch hin. Behalten die Vorleistungen und die Projektierungsarbeiten für die Projektanten mittelfristig trotz Nichtaufnahme in die Reserve einen Wert, so wird dies beim Ersatz der Kosten angemessen berücksichtigt.[^8-3]
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 9
 
@@ -226,13 +235,26 @@ In der Vereinbarung sind insbesondere festzulegen:
 
 <sup>4</sup> Mit dem Verfügbarkeitsentgelt werden die fixen, einsatzunabhängigen Kosten des Betriebs vergütet wie die Verfügbarkeit der Anlage, die Beschaffung und Lagerung der Energieträger, die Personalkosten und die Netzanschlusskosten. Die Entgelthöhe muss angemessen sein.
 
+<sup>5</sup> Das Verfügbarkeitsentgelt wird *pro rata temporis* gekürzt, wenn ein Betreiber das Reservekraftwerk für die betriebliche Eigennutzung einsetzt (Art. 11 Abs. 2<sup>bis</sup>).[^10-1]
+
+[^10-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+
 #### Art. 11
 
 **Betriebseinschränkungen und -anforderungen für Reservekraftwerke**
 
 <sup>1</sup> Die Reservekraftwerke kommen nur für die ergänzende Reserve zum Einsatz und dürfen keinen Strom für den Markt produzieren.
 
-<sup>2</sup> Ausserhalb der Verfügbarkeitsperiode dürfen die Betreiber mit Reservekraftwerken Systemdienstleistungen erbringen, sofern die Emissionsgrenzwerte und die kantonalen Vorschriften eingehalten werden. Die Verfügbarkeitsperiode dauert vom 1. Dezember bis zum 31. Mai; die ElCom kann jährlich eine kürzere Dauer festlegen.
+<sup>2</sup>
+
+Ausserhalb der Verfügbarkeitsperiode dürfen die Betreiber mit Reservekraftwerken Systemdienstleistungen erbringen, sofern die Emissionsgrenzwerte und die kantonalen Vorschriften eingehalten werden. Die Verfügbarkeitsperiode dauert vom 1. Dezember bis zum 31. Mai; vorbehalten sind:
+
+- a. eine durch die ElCom für den jeweiligen Winter festgelegte kürzere Dauer;
+- b. eine abweichende Dauer, wenn in der vor Beginn der ergänzenden Reserve erzielten Einigung nach Artikel 8 Absatz 1 eine solche vereinbart ist.[^11-1]
+
+<sup>2bis</sup> Reservekraftwerke, die in einen Geschäftsbetrieb eingebunden sind, dürfen vom Betreiber innerhalb und ausserhalb der Verfügbarkeitsperiode und selbst bei einer schweren Mangellage für eine betriebliche Eigennutzung eingesetzt werden, sofern die Emissionsgrenzwerte und die kantonalen Vorschriften eingehalten werden.[^11-2]
+
+<sup>2ter</sup> Vorbehalten bleiben abweichende Vorgaben gestützt auf das LVG.[^11-3]
 
 <sup>3</sup>
 
@@ -245,6 +267,10 @@ Das BFE kann in Absprache mit der ElCom weitere allgemeine technische Betriebsan
 
 <sup>4</sup> Die Betreiber der Reservekraftwerke können die Generatoren ausserhalb der Bereitschaftszeiten (Art. 17 Abs. 3) für die Spannungshaltung einsetzen.
 
+[^11-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^11-2]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^11-3]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+
 #### Art. 12
 
 **Tarif für die Nutzung von Rohrleitungen**
@@ -253,11 +279,9 @@ Das BFE kann im Falle von unangemessenen Tarifen für die Nutzung der Rohrleitun
 
 #### Art. 13
 
-**Ausschreibungen für neue Reservekraftwerke**
+[^13-1]
 
-<sup>1</sup> Die Netzgesellschaft kann zusätzlich zu Artikel 8 Absatz 2 weitere Ausschreibungen für neue Reservekraftwerke durchführen, damit diese rechtzeitig erstellt und ihre Betreiber später nötigenfalls in die ergänzende Reserve aufgenommen werden können.
-
-<sup>2</sup> Für die Ausschreibung und die Zuschlagskriterien gilt Artikel 8 Absätze 2 und 3.
+[^13-1]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 14
 
@@ -291,18 +315,23 @@ Das BFE kann im Falle von unangemessenen Tarifen für die Nutzung der Rohrleitun
 
 **Rahmenbedingungen und Verfügbarkeitsentgelt für die Betreiber von Notstromgruppen und WKK-Anlagen**
 
-<sup>1</sup> Die Notstromgruppen und WKK-Anlagen müssen in der Verfügbarkeitsperiode nach Artikel 11 Absatz 2 jederzeit für die ergänzenden Reserve in Betriebsbereitschaft (Art. 17 Abs. 3) gehen können.
+<sup>1</sup> Die Notstromgruppen und die WKK-Anlagen müssen in der Verfügbarkeitsperiode jederzeit für die ergänzende Reserve in Betriebsbereitschaft (Art. 17 Abs. 3) gehen können. Die Verfügbarkeitsperiode dauert vom 15. Februar bis zum 30. April.[^16-1]
 
 <sup>2</sup>
 
-Ein Einsatz während der Verfügbarkeitsperiode ausserhalb der Reserve ist möglich:
+Ein Einsatz durch die Betreiber während der Verfügbarkeitsperiode ausserhalb der Reserve ist vorbehältlich abweichender Vorgaben gestützt auf das LVG möglich:[^16-2]
 
-- a. für betriebliche Zwecke des Betreibers bei einem Netzzusammenbruch;
+- a.[^16-3] für die betriebliche Eigennutzung bei einem Netzzusammenbruch oder bei einer schweren Mangellage, sofern die Emissionsgrenzwerte und die kantonalen Vorschriften eingehalten werden;
 - b. für die Bereitstellung von Systemdienstleistungen, sofern dadurch die Abruffähigkeit für die Reserve nicht gefährdet wird; die Netzgesellschaft legt die Bedingungen dafür fest.
 
-<sup>3</sup> Mit dem Verfügbarkeitsentgelt werden den Betreibern die fixen, einsatzunabhängigen Kosten des Betriebs vergütet wie die Verfügbarkeit der Notstromgruppe oder der WKK-Anlage und die nötigen anlageseitigen Investitionen. Sind die Anlagen über Aggregatoren gebündelt, so erhalten die Betreiber das Entgelt als Pauschale.
+<sup>3</sup> Mit dem Verfügbarkeitsentgelt werden den Betreibern die fixen, einsatzunabhängigen Kosten des Betriebs vergütet, wie die Verfügbarkeit der Notstromgruppe oder der WKK-Anlage, sowie die nötigen anlageseitigen Investitionen. Das Verfügbarkeitsentgelt wird *pro rata temporis* gekürzt, wenn ein Betreiber die Notstromgruppe oder die WKK-Anlage für die betriebliche Eigennutzung einsetzt. Sind die Anlagen über Aggregatoren gebündelt, so erhalten die Betreiber das Entgelt als Pauschale.[^16-4]
 
 <sup>4</sup> Das BFE kann analog zu Artikel 11 Absatz 3 allgemeine technische Betriebsanforderungen für die Anlagen festlegen.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-4]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 ## 4. Abschnitt: Einsatz und Abruf der Stromreserve
 
@@ -367,7 +396,7 @@ Im Fall einer fehlenden Markträumung melden der Netzgesellschaft:
 
 **Abrufentschädigung**
 
-<sup>1</sup> Bei einem Abruf erhalten die Betreiber von der Netzgesellschaft eine Entschädigung für die abgerufene Energie.
+<sup>1</sup> Bei einem Abruf erhalten die Betreiber von der Netzgesellschaft eine Abrufentschädigung.[^20-1]
 
 <sup>2</sup> Bei der Wasserkraftreserve berechnet die Netzgesellschaft die Entschädigung nach den Vorgaben der ElCom (Art. 2 Abs. 3 Bst. d).
 
@@ -388,10 +417,11 @@ Bei den Reservekraftwerken werden mit der Abrufentschädigung vergütet:
 
 <sup>5</sup> Bei den Notstromgruppen und den WKK-Anlagen werden mit der Abrufentschädigung die einsatzabhängigen Kosten des Betriebs vergütet, wie die Kosten für die Energieträger, die Emissionsrechte oder die nationalen oder internationalen Bescheinigungen, die CO<sub>2</sub>-Abgabe und weitere Betriebsmittel. Absatz 4 gilt sinngemäss.
 
-<sup>6</sup> Die CO<sub>2</sub>-Abgabe wird nur soweit vergütet, als der Betreiber keinen Rückerstattungsanspruch nach dem CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^20-1] geltend machen kann. Gleiches gilt für die Mineralölsteuer nach dem Mineralölsteuergesetz vom 21. Juni 1996[^20-2].
+<sup>6</sup> Die CO<sub>2</sub>-Abgabe wird nur soweit vergütet, als der Betreiber keinen Rückerstattungsanspruch nach dem CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^20-2] geltend machen kann. Gleiches gilt für die Mineralölsteuer nach dem Mineralölsteuergesetz vom 21. Juni 1996[^20-3].
 
-[^20-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^20-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^20-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^20-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^20-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
 #### Art. 21
 
@@ -416,7 +446,10 @@ Die Kosten für die Stromreserve setzen sich zusammen aus:
 - a. dem Vorhalteentgelt an die Betreiber der Wasserkraftreserve;
 - b. dem Verfügbarkeitsentgelt an die Betreiber von Reservekraftwerken, Notstromgruppen und WKK-Anlagen in der ergänzenden Reserve;
 - c. der Abrufentschädigungen für die Betreiber;
-- d. der Dienstleistungspauschale für die Aggregatoren.
+- d. der Dienstleistungspauschale für die Aggregatoren;
+- e.[^22-1] dem Anteil der Kosten für die Ausgleichsenergie, für den der Bund mit den Betreibern oder den Aggregatoren eine Übernahme vereinbart hat;
+- f.[^22-2] den für die ergänzende Reserve notwendigen Kosten, für die der Bund mit Dritten eine Übernahme vereinbart hat;
+- g.[^22-3] dem Ersatz von Kosten nach Artikel 8 Absatz 5.
 
 <sup>2</sup>
 
@@ -430,13 +463,24 @@ Die Finanzierung dieser Kosten erfolgt:
   - 1\. den Zahlungen der Bilanzgruppen nach Artikel 21 Absatz 1,
   - 2\. den Konventionalstrafen nach Artikel 5 Absatz 2 Buchstabe g, 10 Absatz 2 Buchstabe f oder 15 Absatz 4.
 
-<sup>3</sup> Die Netzgesellschaft führt für die Mittel nach Absatz 2 eine separate Sparte. Sie führt die Zahlungen an die Reserveteilnehmer, an die Aggregatoren und an weitere Akteure mit Bezug zur Stromreserve aus.
+<sup>3</sup> Die Netzgesellschaft führt für die Mittel nach Absatz 2 eine separate Sparte. Sie führt die Zahlungen an die Reserveteilnehmer, an die Aggregatoren und an weitere Akteure mit Bezug zur Stromreserve aus. Sie führt auf Anweisung des BFE an dessen Stelle die Zahlungen auch in denjenigen Fällen aus, in denen aufgrund von Verträgen oder dieser Verordnung der Bund Schuldner ist.[^22-4]
 
-<sup>4</sup> Der Vollzugsaufwand, insbesondere derjenige der Netzgesellschaft, wird einschliesslich der Vorbereitungsarbeiten ebenfalls aus den Einnahmen nach Absatz 2 finanziert. Er berechnet sich bis zum Ende des Geschäftsjahres 2023 nach den tatsächlichen Kosten. Bis dahin umfasst er auch die Fremdfinanzierungskosten.
+<sup>4</sup> Der Vollzugsaufwand, insbesondere derjenige der Netzgesellschaft, wird einschliesslich der Vorbereitungsarbeiten ebenfalls aus den Einnahmen nach Absatz 2 finanziert. Er berechnet sich bis zum Ende des Geschäftsjahrs 2023 nach den tatsächlichen Kosten.[^22-5]
 
-<sup>5</sup> Ab dem Geschäftsjahr 2024 werden die anrechenbaren Kosten der Stromreserve analog zu Artikel 15 StromVG und die Deckungsdifferenzen nach Artikel 18*a* Absatz 3 der Stromversorgungsverordnung vom 14. März 2008[^22-1] (StromVV) berechnet. Die Verzinsung der für die Stromreserve notwendigen Vermögenswerte erfolgt ab dem Geschäftsjahr 2024 mit dem Fremdkapitalkostensatz nach Anhang 1 StromVV.
+<sup>5</sup> Ab dem Geschäftsjahr 2024 werden die anrechenbaren Kosten der Stromreserve analog zu Artikel 15 StromVG und die Deckungsdifferenzen nach Artikel 18*a* Absatz 3 der Stromversorgungsverordnung vom 14. März 2008[^22-6] (StromVV) berechnet. Die Verzinsung der für die Stromreserve notwendigen Vermögenswerte erfolgt ab dem Geschäftsjahr 2024 mit dem Fremdkapitalkostensatz nach Anhang 1 StromVV.
 
-[^22-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+<sup>6</sup> Entstehen der Netzgesellschaft für die Stromreserve unverschuldet tatsächliche Finanzierungskosten, die aufgrund von Absatz 5 nicht vollständig anrechenbar sind, so kann die ElCom diese ungedeckten Kosten auf Antrag für anrechenbar erklären und somit ausgleichen. Die Finanzierung erfolgt analog zu Absatz 4.[^22-7]
+
+<sup>7</sup> Die ElCom achtet beim Entscheid nach Absatz 6 darauf, dass die Finanzierungskosten, die die Netzgesellschaft der Stromreserve zuweist, deren Anteil entsprechen und insgesamt angemessen sind. Sie bezieht auch eine in den Vorjahren über den tatsächlichen Finanzierungskosten liegende Verzinsung nach Absatz 5 mit ein.[^22-8]
+
+[^22-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-2]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-3]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-4]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-5]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-6]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^22-7]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-8]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 23
 
@@ -457,6 +501,10 @@ Die Finanzierung dieser Kosten erfolgt:
 <sup>1</sup> Die ElCom, die Netzgesellschaft, das UVEK und das BFE erhalten für die Erfüllung ihrer Aufgaben von den Aggregatoren und den Betreibern, die an der Stromreserve teilnehmen, sowie den Rohrleitungsbetreibern kostenlos die nötigen Auskünfte und Unterlagen, insbesondere zu den Speicherständen, sowie Zugang zu den Anlagen.
 
 <sup>2</sup> Die ElCom kann im Fall eines Abrufs von den beteiligten Bilanzgruppen die Offenlegung der Handelsgeschäfte mit Bezug zum Abruf verlangen. Die Offenlegung von nachgelagerten Geschäften kann sie auch von anderen Händlern oder sonstigen Marktakteuren verlangen.
+
+<sup>3</sup> Die Reserveteilnehmer melden der kantonalen Luftreinhaltebehörde zeitnah die Anlagen der ergänzenden Reserve, mit denen sie sich zur Teilnahme verpflichtet haben.[^24-1]
+
+[^24-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 25
 
@@ -534,4 +582,4 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 …[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)]
-[^annexu1-lvlu1-2]: Die Änderungen können unter AS **202****3** 43 konsultiert werden.
+[^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)konsultiert werden.

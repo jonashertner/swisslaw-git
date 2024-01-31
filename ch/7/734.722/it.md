@@ -4,11 +4,11 @@ title: "Ordinanza del 25 gennaio 2023 sulla costituzione di una riserva di energ
 short: OREI
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/43"
 language: it
-version: 2023-02-15
+version: 2024-02-01
 adopted: 2023-01-25
 in_force: 2023-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2023-43-20230215-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20230215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20230215/it"
 
 (Ordinanza sulla riserva invernale, OREI)
 
-del 25 gennaio 2023 (Stato 15 febbraio 2023)
+del 25 gennaio 2023 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -154,9 +154,12 @@ Alla costituzione della riserva complementare possono partecipare i gestori di i
 D’intesa con la ElCom, il DATEC può:
 
 - a. aumentare la potenza di 1000 MW, se si prospetta un fabbisogno più elevato;
-- b. stabilire la priorità e l’entità con cui gli impianti di cui al capoverso 2 sono integrati nella riserva complementare.
+- b. stabilire la priorità e l’entità con cui gli impianti di cui al capoverso 2 sono integrati nella riserva complementare;
+- c.[^6-1] ordinare alla società di rete di svolgere bandi pubblici per gruppi elettrogeni di emergenza e impianti di cogenerazione (art. 14 cpv. 2).
 
 <sup>4</sup> La partecipazione alla riserva complementare dura al massimo fino al 31 maggio 2026. È fatta salva un’eventuale proroga della partecipazione a seguito di disposizioni successive alla presente ordinanza.
+
+[^6-1]: Introdotta dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 7
 
@@ -187,7 +190,7 @@ I gestori di impianti di cogenerazione possono partecipare alla riserva solament
 
 <sup>1</sup> La riserva complementare è costituita con i gestori delle centrali elettriche di riserva con cui il DATEC ha stipulato un accordo in vista della partecipazione alla riserva e della messa in esercizio a partire dal 15 febbraio 2023.
 
-<sup>2</sup> Per raggiungere la potenza di cui all’articolo 6 capoverso 1 possono essere integrati nella riserva complementare ulteriori gestori di centrali elettriche di riserva. La società di rete svolge i bandi pubblici e, d’intesa con l’UFE, ne stabilisce preventivamente le modalità.
+<sup>2</sup> Per il raggiungimento della potenza di cui all’articolo 6 capoverso 1, l’UFE può includere nella riserva complementare, tramite bandi pubblici, ulteriori gestori di centrali elettriche di riserva esistenti. Inoltre può svolgere bandi pubblici per nuove centrali elettriche di riserva, affinché i relativi gestori possano in un secondo tempo, se necessario, essere inclusi nella riserva complementare.[^8-1]
 
 <sup>3</sup>
 
@@ -197,7 +200,13 @@ Per l’aggiudicazione sono considerati in particolare i seguenti criteri:
 - b. tempo necessario affinché un impianto sia convertito e pronto all’impiego;
 - c. ulteriori criteri come la qualità tecnica, l’ammissibilità, gli effetti sull’ambiente, l’ubicazione e l’allacciamento alla rete di un progetto nonché la possibilità di alimentare l’impianto con vettori energetici rinnovabili.
 
-<sup>4</sup> La ElCom può escludere dai bandi pubblici secondo il capoverso 2 le offerte con compensi per la disponibilità eccessivamente elevati e annullare il bando pubblico.
+<sup>4</sup> L’UFE può escludere le offerte con compensi per la disponibilità eccessivamente elevati e annullare il bando pubblico.[^8-2]
+
+<sup>5</sup> Se non è possibile includere nella riserva nuove centrali elettriche di riserva a causa della mancanza di una base legale, ai promotori che avevano in precedenza ottenuto l’aggiudicazione sono rimborsate le spese necessarie per la pianificazione dei progetti e per le necessarie prestazioni preliminari. L’UFE decide in merito su richiesta. Se le prestazioni preliminari e le attività di pianificazione dei progetti mantengono a medio termine un valore per i promotori nonostante la mancata inclusione nella riserva, in sede di rimborso se ne tiene conto in misura adeguata.[^8-3]
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^8-3]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 9
 
@@ -226,13 +235,26 @@ Nell’accordo sono definiti in particolare:
 
 <sup>4</sup> Con il compenso per la disponibilità sono compensati i costi fissi della gestione indipendenti dall’impiego come la disponibilità dell’impianto, l’approvvigionamento e l’immagazzinamento dei vettori energetici, i costi del personale e i costi di raccordo alla rete. L’ammontare del compenso deve essere adeguato.
 
+<sup>5</sup> Il compenso per la disponibilità è ridotto pro rata temporis se un gestore utilizza la centrale elettrica di riserva per scopi operativi propri (art. 11 cpv. 2<sup>bis</sup>).[^10-1]
+
+[^10-1]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+
 #### Art. 11
 
 **Requisiti operativi e restrizioni d’esercizio delle centrali elettriche di riserva**
 
 <sup>1</sup> Le centrali elettriche di riserva sono impiegate solamente per la riserva complementare e non producono corrente per il mercato.
 
-<sup>2</sup> Al di fuori del periodo di disponibilità i gestori con centrali elettriche di riserva possono fornire prestazioni di servizio relative al sistema se rispettano i valori limite di emissioni e le prescrizioni cantonali. Il periodo di disponibilità dura dal 1° dicembre al 31 maggio; la ElCom può stabilire durate più brevi di anno in anno.
+<sup>2</sup>
+
+Al di fuori del periodo di disponibilità i gestori con centrali elettriche di riserva possono fornire prestazioni di servizio relative al sistema se rispettano i valori limite di emissioni e le prescrizioni cantonali. Il periodo di disponibilità va dal 1° dicembre al 31 maggio; sono fatte salve:
+
+- a. una durata più breve stabilita dalla ElCom per l’inverno in questione;
+- b. una durata diversa se essa è concordata nell’accordo raggiunto prima dell’inizio della riserva complementare secondo l’articolo 8 capoverso 1.[^11-1]
+
+<sup>2bis</sup> Le centrali di riserva integrate in un’attività aziendale possono essere utilizzate dal gestore per scopi operativi propri durante e al di fuori del periodo di disponibilità e anche in caso di grave penuria, a condizione che vengano rispettati i valori limite di emissioni e le prescrizioni cantonali.[^11-2]
+
+<sup>2ter</sup> Sono fatte salve disposizioni derogatorie fondate sulla LAP.[^11-3]
 
 <sup>3</sup>
 
@@ -245,6 +267,10 @@ D’intesa con la ElCom, l’UFE può definire ulteriori requisiti operativi tec
 
 <sup>4</sup> I gestori delle centrali elettriche di riserva possono utilizzare i generatori al di fuori dei tempi in cui gli impianti devono essere pronti all’impiego (art. 17 cpv. 3) per il mantenimento della tensione.
 
+[^11-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^11-2]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^11-3]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+
 #### Art. 12
 
 **Tariffa per l’utilizzo delle condotte**
@@ -253,11 +279,9 @@ Nel caso le tariffe per l’utilizzo delle condotte di trasporto dei vettori ene
 
 #### Art. 13
 
-**Bandi pubblici per nuove centrali elettriche di riserva**
+[^13-1]
 
-<sup>1</sup> In aggiunta all’articolo 8 capoverso 2, la società di rete può disporre lo svolgimento di ulteriori bandi pubblici per nuove centrali elettriche di riserva, affinché queste possano essere preparate per tempo e i gestori possano successivamente essere integrati nella riserva complementare in caso di necessità.
-
-<sup>2</sup> Per il bando pubblico e i criteri di aggiudicazione si applica l’articolo 8 capoversi 2 e 3.
+[^13-1]: Abrogato dal n. I dell’O del 22 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 14
 
@@ -291,18 +315,23 @@ Nel caso le tariffe per l’utilizzo delle condotte di trasporto dei vettori ene
 
 **Condizioni quadro e compenso per la disponibilità per i gestori di gruppi elettrogeni di emergenza e di impianti di cogenerazione**
 
-<sup>1</sup> Nel periodo di disponibilità di cui all’articolo 11 capoverso 2 i gruppi elettrogeni di emergenza e gli impianti di cogenerazione devono potere essere pronti all’impiego in qualsiasi momento per la riserva complementare (art. 17 cpv. 3).
+<sup>1</sup> Nel periodo di disponibilità, i gruppi elettrogeni di emergenza e gli impianti di cogenerazione devono potere essere pronti all’impiego in qualsiasi momento per la riserva complementare (art. 17 cpv. 3). Il periodo di disponibilità va dal 15 febbraio al 30 aprile.[^16-1]
 
 <sup>2</sup>
 
-Un impiego durante il periodo di disponibilità al di fuori della riserva è possibile:
+Un impiego da parte del gestore durante il periodo di disponibilità al di fuori della riserva è possibile, fatte salve disposizioni derogatorie fondate sulla LAP:[^16-2]
 
-- a. per scopi operativi del gestore in caso di interruzione di rete;
+- a.[^16-3] per scopi operativi propri in caso di interruzione della rete o di grave penuria, a condizione che vengano rispettati i valori limite di emissioni e le prescrizioni cantonali;
 - b. per la messa a disposizione di prestazioni di servizio relative al sistema, se non mette a rischio la capacità di prelievo dalla riserva; la società di rete stabilisce le relative condizioni.
 
-<sup>3</sup> Con il compenso per la disponibilità sono coperti i costi fissi dei gestori indipendenti dall’impiego come la disponibilità del gruppo elettrogeno di emergenza o dell’impianto di cogenerazione e i necessari investimenti. Se gli impianti sono raggruppati attraverso aggregatori, i gestori ricevono tale compenso in forma forfettaria.
+<sup>3</sup> Con il compenso per la disponibilità sono coperti i costi fissi dei gestori indipendenti dall’impiego come la disponibilità del gruppo elettrogeno di emergenza o dell’impianto di cogenerazione e i necessari investimenti nell’impianto. In caso di utilizzo per scopi operativi propri, il compenso per la disponibilità è ridotto pro rata temporis. Se gli impianti sono raggruppati attraverso aggregatori, i gestori ricevono tale compenso in forma forfettaria.[^16-4]
 
 <sup>4</sup> L’UFE può stabilire per gli impianti requisiti operativi tecnici generali analogamente all’articolo 11 capoverso 3.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-3]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^16-4]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 ## Sezione 4: Utilizzo e prelievo della riserva di energia elettrica
 
@@ -367,7 +396,7 @@ Nel caso di una mancata compensazione del mercato, alla società di rete sono no
 
 **Indennizzo per il prelievo**
 
-<sup>1</sup> In caso di prelievo, i gestori ricevono un indennizzo dalla società di rete per l’energia prelevata.
+<sup>1</sup> In caso di prelievo, i gestori ricevono un indennizzo per il prelievo dalla società di rete.[^20-1]
 
 <sup>2</sup> Per la riserva di energia idroelettrica la società di rete calcola l’indennizzo secondo i requisiti della ElCom (art. 2 cpv. 3 lett. d).
 
@@ -388,10 +417,11 @@ Per le centrali elettriche di riserva l’indennizzo per il prelievo compensa:
 
 <sup>5</sup> Nel caso dei gruppi elettrogeni di emergenza e degli impianti di cogenerazione, l’indennizzo per il prelievo compensa i costi della gestione dipendenti dall’utilizzo come i costi per i vettori energetici, i diritti di emissione oppure gli attestati nazionali o internazionali, la tassa sul CO<sub>2</sub> e ulteriori mezzi d’esercizio. Il capoverso 4 si applica per analogia.
 
-<sup>6</sup> La tassa sul CO<sub>2</sub> è restituita solamente se il gestore non può far valere alcun diritto di restituzione secondo la legge del 23 dicembre 2011[^20-1] sul CO<sub>2</sub>. Lo stesso vale per l’imposta sugli oli minerali secondo la legge federale del 21 giugno 1996[^20-2] sull’imposizione degli oli minerali.
+<sup>6</sup> La tassa sul CO<sub>2</sub> è restituita solamente se il gestore non può far valere alcun diritto di restituzione secondo la legge del 23 dicembre 2011[^20-2] sul CO<sub>2</sub>. Lo stesso vale per l’imposta sugli oli minerali secondo la legge federale del 21 giugno 1996[^20-3] sull’imposizione degli oli minerali.
 
-[^20-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^20-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^20-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^20-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^20-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
 #### Art. 21
 
@@ -416,7 +446,10 @@ I costi per la riserva di energia elettrica sono costituiti da:
 - a. un compenso corrisposto ai gestori della riserva di energia idroelettrica;
 - b. un compenso per la disponibilità corrisposto ai gestori di centrali elettriche di riserva, di gruppi elettrogeni di emergenza e di impianti di cogenerazione;
 - c. un indennizzo per il prelievo corrisposto ai gestori;
-- d. gli importi forfettari corrisposti agli aggregatori per i servizi prestati.
+- d. gli importi forfettari corrisposti agli aggregatori per i servizi prestati;
+- e.[^22-1] la quota dei costi dell’energia di compensazione di cui la Confederazione ha convenuto l’assunzione con i gestori o gli aggregatori;
+- f.[^22-2] i costi necessari per la riserva complementare di cui la Confederazione ha convenuto l’assunzione con terzi;
+- g.[^22-3] il rimborso delle spese secondo l’articolo 8 capoverso 5.
 
 <sup>2</sup>
 
@@ -430,13 +463,24 @@ Il finanziamento di questi costi è previsto:
   - 1\. i pagamenti dei gruppi di bilancio di cui all’articolo 21 capoverso 1,
   - 2\. le pene convenzionali di cui all’articolo 5 capoverso 2 lettera g, all’articolo 10 capoverso 2 lettera f o all’articolo 15 capoverso 4.
 
-<sup>3</sup> La società di rete gestisce i fondi di cui al capoverso 2 in un conto distinto. Essa effettua i pagamenti ai partecipanti alla riserva, agli aggregatori e ad altri operatori collegati alla riserva di energia elettrica.
+<sup>3</sup> La società di rete gestisce i fondi di cui al capoverso 2 in un conto distinto. Essa effettua i pagamenti ai partecipanti alla riserva, agli aggregatori e ad altri operatori collegati alla riserva di energia elettrica. Effettua i pagamenti su incarico dell’UFE e in sua vece anche nei casi in cui, in base a contratti o alla presente ordinanza, la debitrice è la Confederazione.[^22-4]
 
-<sup>4</sup> L’onere di esecuzione, in particolare quello della società di rete, inclusi i lavori preparatori, è pure finanziato con le entrate di cui al capoverso 2. Sino alla fine dell’esercizio 2023 si calcola sulla base dei costi effettivi. Sino ad allora comprende anche i costi per il finanziamento con capitale di terzi.
+<sup>4</sup> L’onere di esecuzione, in particolare quello della società di rete, inclusi i lavori preparatori, è pure finanziato con le entrate di cui al capoverso 2. Sino alla fine dell’esercizio 2023 il calcolo si basa sui costi effettivi.[^22-5]
 
-<sup>5</sup> A partire dall’esercizio 2024 i costi computabili della riserva di energia elettrica sono calcolati analogamente all’articolo 15 LAEl e le differenze di copertura sono calcolate secondo l’articolo 18*a* capoverso 3 dell’ordinanza del 14 marzo 2008[^22-1] sull’approvvigionamento elettrico (OAEl). A partire dall’esercizio 2024, ai valori patrimoniali necessari per la riserva di energia elettrica sono applicati interessi al tasso di costo del capitale di terzi secondo l’allegato 1 OAEl.
+<sup>5</sup> A partire dall’esercizio 2024 i costi computabili della riserva di energia elettrica sono calcolati analogamente all’articolo 15 LAEl e le differenze di copertura sono calcolate secondo l’articolo 18*a* capoverso 3 dell’ordinanza del 14 marzo 2008[^22-6] sull’approvvigionamento elettrico (OAEl). A partire dall’esercizio 2024, ai valori patrimoniali necessari per la riserva di energia elettrica sono applicati interessi al tasso di costo del capitale di terzi secondo l’allegato 1 OAEl.
 
-[^22-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+<sup>6</sup> Se per la riserva di energia elettrica la società di rete sostiene costi di finanziamento effettivi, ad essa non imputabili, che non sono interamente computabili sulla base del capoverso 5, la ElCom può, su richiesta, dichiarare computabili tali costi non coperti e quindi compensarli. Il finanziamento avviene in analogia al capoverso 4.[^22-7]
+
+<sup>7</sup> Per la decisione di cui al capoverso 6, la ElCom si accerta che i costi di finanziamento che la società di rete imputa alla riserva di energia elettrica corrispondano alla relativa quota e siano complessivamente adeguati. Essa include nella valutazione anche gli interessi di cui al capoverso 5 che negli anni precedenti hanno superato i costi di finanziamento effettivi.[^22-8]
+
+[^22-1]: Introdotta dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-2]: Introdotta dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-3]: Introdotta dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-4]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-5]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-6]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^22-7]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^22-8]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 23
 
@@ -457,6 +501,10 @@ Il finanziamento di questi costi è previsto:
 <sup>1</sup> Per l’adempimento dei propri compiti, la ElCom, la società di rete, il DATEC e l’UFE ricevono gratuitamente dagli aggregatori e dai gestori che partecipano alla riserva di energia elettrica nonché dai gestori delle condotte le informazioni e i documenti necessari, in particolare in relazione ai livelli di stoccaggio, nonché l’accesso agli impianti.
 
 <sup>2</sup> In caso di prelievo, la ElCom può esigere dai gruppi di bilancio partecipanti la dichiarazione delle transazioni commerciali relative al prelievo. Può esigere la dichiarazione anche da altri commercianti e ulteriori operatori di mercato in merito a transazioni a valle.
+
+<sup>3</sup> I partecipanti alla riserva comunicano tempestivamente all’autorità cantonale preposta al controllo dell’inquinamento atmosferico gli impianti della riserva complementare con cui si sono impegnati a partecipare.[^24-1]
+
+[^24-1]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 25
 
