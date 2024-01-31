@@ -4,11 +4,11 @@ title: Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (
 short: LGV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: de
-version: 2023-11-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2017-63-20231101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-63-20240201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20231101/de"
 
 (LGV)
 
-vom 16. Dezember 2016 (Stand am 1. November 2023)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -119,7 +119,8 @@ In dieser Verordnung sowie in den vom Eidgenössischen Departement des Innern (E
   - a. diejenigen Eigenschaften, die im Zusammenhang mit der grossen spezifischen Oberfläche des jeweiligen Materials stehen, oder
   - b. besondere physikalisch-chemische Eigenschaften, die sich von denen desselben Materials in nicht-nanoskaliger Form unterscheiden;
 
-- 31\. *anmeldepflichtige Person:* Person nach Artikel 26 des Zollgesetzes vom 18. März 2005[^2-1] (ZG).
+- 31\. *anmeldepflichtige Person:* Person nach Artikel 26 des Zollgesetzes vom 18. März 2005[^2-1] (ZG);
+- 32\.[^2-2] *Umverteilung von Lebensmitteln:* die Rückgewinnung, das Einsammeln, das Lagern und das Verteilen von überschüssigen und sicheren Lebensmitteln, die sonst entsorgt würden.
 
 <sup>2</sup> Dem Ausdruck *Höchstwert* in dieser Verordnung entsprechen in den auf diese Verordnung gestützten Verordnungen des EDI oder des BLV die Ausdrücke *Höchstmenge*, *Höchstkonzentration, Höchstgehalt, Grenzwert* und *Richtwert.*
 
@@ -127,35 +128,36 @@ In dieser Verordnung sowie in den vom Eidgenössischen Departement des Innern (E
 
 Dem in dieser Verordnung sowie in den darauf gestützten Verordnungen des EDI oder des BLV im Zusammenhang mit Gebrauchsgegenständen verwendeten Ausdruck «Zubereitung» entspricht der Ausdruck «Gemisch», wie er in folgenden Erlassen des Rechts der Europäischen Union (EU) verwendet wird:
 
-- a.[^2-2] Verordnung (EG) Nr. 1223/2009[^2-3];
-- b. Richtlinie 2009/48/EG[^2-4].
+- a.[^2-3] Verordnung (EG) Nr. 1223/2009[^2-4];
+- b. Richtlinie 2009/48/EG[^2-5].
 
 <sup>4</sup>
 
 Die übrigen Begriffe dieser Verordnung sowie der vom EDI oder vom BLV gestützt auf diese Verordnung erlassenen Verordnungen werden, unter dem Vorbehalt abweichender Definitionen im schweizerischen Lebensmittelrecht, gemäss den Definitionen verwendet, die in einer der folgenden Bestimmungen der EU enthalten sind:
 
-- a. Artikel 3 der Verordnung (EG) Nr. 178/2002[^2-5];
-- b. Artikel 2 der Verordnung (EG) Nr. 852/2004[^2-6];
-- c. Anhang I, Anhang II Abschnitt IV und Anhang III der Verordnung (EG) Nr. 853/2004[^2-7];
-- d. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 854/2004[^2-8];
-- e.[^2-9] Artikel 3 der Verordnung (EU) 2017/625[^2-10];
-- f. Artikel 2 Absatz 2 der Verordnung (EG) Nr. 282/2008[^2-11];
-- g. Artikel 2 und Anhang I der Verordnung (EG) Nr. 1169/2011[^2-12];
-- h. Artikel 3 der Richtlinie 2009/48/EG[^2-13].
+- a. Artikel 3 der Verordnung (EG) Nr. 178/2002[^2-6];
+- b. Artikel 2 der Verordnung (EG) Nr. 852/2004[^2-7];
+- c. Anhang I, Anhang II Abschnitt IV und Anhang III der Verordnung (EG) Nr. 853/2004[^2-8];
+- d. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 854/2004[^2-9];
+- e.[^2-10] Artikel 3 der Verordnung (EU) 2017/625[^2-11];
+- f. Artikel 2 Absatz 2 der Verordnung (EG) Nr. 282/2008[^2-12];
+- g. Artikel 2 und Anhang I der Verordnung (EG) Nr. 1169/2011[^2-13];
+- h. Artikel 3 der Richtlinie 2009/48/EG[^2-14].
 
 [^2-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^2-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-3]: Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 342 vom 22.12.2009, S. 59; zuletzt geändert durch Verordnung (EU) 2017/2228, ABl. L 319 vom 4.12.2017, S. 2.
-[^2-4]: Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug, ABl. L 170 vom 30.6.2009, S. 1; zuletzt geändert durch Richtlinie (EU) 2015/2117, ABl. L 192 vom 1.7.2014, S. 49.
-[^2-5]: Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit, ABl. L 31 vom 1.2.2002, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 652/2014, ABl. L 189 vom 27.6.2014, S. 1.
-[^2-6]: Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene, ABl. L 139 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 219/2009, ABl. L 87 vom 31.3.2009, S. 109.
-[^2-7]: Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs, ABl. L 139 vom 30.4.2004, S. 55; zuletzt geändert durch Verordnung (EU) 2016/355, ABl. L 67 vom 12.3.2016, S. 22.
-[^2-8]: Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für die amtliche Überwachung von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs, ABl. L 139 vom 30.4.2004, S. 206; zuletzt geändert durch Verordnung (EU) 2015/2285, ABl. L 323 vom 9.12.2015, S. 2.
-[^2-9]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-10]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2127 ABl. L 321 vom 12.12.2019, S. 111.
-[^2-11]: Verordnung (EG) Nr. 282/2008 der Kommission vom 27. März 2008 über Materialien und Gegenstände aus recyceltem Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung (EG) Nr. 2023/2006, Fassung gemäss ABl. L 86 vom 28.3.2008, S. 9; zuletzt geändert durch Verordnung (EU) 2015/1906, ABl. L 278 vom 23.10.2015, S. 11.
-[^2-12]: Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission; zuletzt geändert durch Verordnung (EU) 2015/2283, ABl. L 327 vom 11.12.2015, S. 1.
-[^2-13]: Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug, ABl. L 170 vom 30.6.2009, S. 1; zuletzt geändert durch Richtlinie (EU) 2015/2117, ABl. L 306 vom 24.11.2015.
+[^2-2]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-4]: Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 342 vom 22.12.2009, S. 59; zuletzt geändert durch Verordnung (EU) 2017/2228, ABl. L 319 vom 4.12.2017, S. 2.
+[^2-5]: Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug, ABl. L 170 vom 30.6.2009, S. 1; zuletzt geändert durch Richtlinie (EU) 2015/2117, ABl. L 192 vom 1.7.2014, S. 49.
+[^2-6]: Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit, ABl. L 31 vom 1.2.2002, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 652/2014, ABl. L 189 vom 27.6.2014, S. 1.
+[^2-7]: Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene, ABl. L 139 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 219/2009, ABl. L 87 vom 31.3.2009, S. 109.
+[^2-8]: Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs, ABl. L 139 vom 30.4.2004, S. 55; zuletzt geändert durch Verordnung (EU) 2016/355, ABl. L 67 vom 12.3.2016, S. 22.
+[^2-9]: Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für die amtliche Überwachung von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs, ABl. L 139 vom 30.4.2004, S. 206; zuletzt geändert durch Verordnung (EU) 2015/2285, ABl. L 323 vom 9.12.2015, S. 2.
+[^2-10]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-11]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2127 ABl. L 321 vom 12.12.2019, S. 111.
+[^2-12]: Verordnung (EG) Nr. 282/2008 der Kommission vom 27. März 2008 über Materialien und Gegenstände aus recyceltem Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung (EG) Nr. 2023/2006, Fassung gemäss ABl. L 86 vom 28.3.2008, S. 9; zuletzt geändert durch Verordnung (EU) 2015/1906, ABl. L 278 vom 23.10.2015, S. 11.
+[^2-13]: Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission; zuletzt geändert durch Verordnung (EU) 2015/2283, ABl. L 327 vom 11.12.2015, S. 1.
+[^2-14]: Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug, ABl. L 170 vom 30.6.2009, S. 1; zuletzt geändert durch Richtlinie (EU) 2015/2117, ABl. L 306 vom 24.11.2015.
 
 ### 2. Abschnitt: Grundsätze der Bewilligungsverfahren
 
@@ -236,6 +238,10 @@ Bei der Beurteilung, ob ein Lebensmittel gesundheitsschädlich ist, sind zu ber�
 <sup>2</sup> Bei der Beurteilung, ob ein Lebensmittel für den Verzehr durch den Menschen geeignet ist, ist zu berücksichtigen, ob das Lebensmittel, ausgehend von dem beabsichtigten Verwendungszweck, infolge einer durch Fremdstoffe oder auf andere Weise bewirkten Kontamination, durch Fäulnis, Verderb oder Zersetzung nicht für den Verzehr durch den Menschen inakzeptabel geworden ist.
 
 <sup>3</sup> Bei den Beurteilungen nach den Absätzen 1 und 2 sind zusätzlich die Kriterien nach Artikel 7 Absatz 3 LMG zu berücksichtigen.
+
+<sup>4</sup> Das EDI legt die Bedingungen für die Umverteilung von Lebensmitteln fest.[^8-1]
+
+[^8-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 9
 
@@ -387,11 +393,20 @@ Neuartige Lebensmittel sind Lebensmittel, die vor dem 15. Mai 1997 weder in der 
 
   Vitamine, Mineralstoffe und sonstige Stoffe:
 
-  - 1\. auf die ein Herstellungsverfahren gemäss Buchstabe f angewandt worden ist, oder
+  - 1\.[^15-1] auf die ein Herstellungsverfahren gemäss Buchstabe g angewandt worden ist, oder
   - 2\. die technisch hergestellte Nanomaterialien enthalten oder aus diesen bestehen;
 
 - j. Lebensmittel, die vor dem 15. Mai 1997 ausschliesslich in Nahrungsergänzungsmitteln verwendet wurden und nun in anderen Lebensmitteln als in Nahrungsergänzungsmittel verwendet werden sollen;
-- k. Lebensmittel, die in der Schweiz oder in einem Mitgliedstaat der EU gemäss den Buchstaben b und d–f als neuartig gelten, aus der Primärproduktion nach Artikel 8 LMG stammen und eine Verwendungsgeschichte als sicheres Lebensmittel in einem anderen Land als der Schweiz oder einem Mitgliedstaat der EU haben (neuartige traditionelle Lebensmittel).
+- k.[^15-2] …
+
+<sup>1bis</sup>
+
+Als neuartige traditionelle Lebensmittel gelten Lebensmittel, die:
+
+- a. weder aus der Schweiz noch aus einem Mitgliedstaat der EU stammen;
+- b. in der Schweiz oder in einem Mitgliedstaat der EU gemäss Absatz 1 Buchstaben b und d–f als neuartig gelten;
+- c. aus der Primärproduktion nach Artikel 8 LMG stammen; und
+- d. eine Verwendungsgeschichte als sicheres Lebensmittel in einem anderen Land als der Schweiz oder einem Mitgliedstaat der EU haben.[^15-3]
 
 <sup>2</sup>
 
@@ -406,6 +421,10 @@ Nicht als neuartige Lebensmittel gelten:
   - 2\. Zusatzstoffe gemäss der vom EDI gestützt auf Artikel 23 erlassenen Vorschriften über Zusatzstoffe in oder auf Lebensmitteln,
   - 3\. Lebensmittelaromen gemäss der vom EDI gestützt auf Artikel 23 erlassenen Vorschriften über Aromen,
   - 4\. Extraktionslösungsmittel, die für die Herstellung von Lebensmitteln oder Lebensmittelzutaten gemäss der vom EDI gestützt auf Artikel 27 Absatz 4 Buchstabe b erlassenen Vorschriften über technologische Verfahren und technische Hilfsstoffe in Lebensmitteln verwendet werden sollen.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^15-2]: Aufgehoben durch Ziff. I der V vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^15-3]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 16
 
@@ -579,14 +598,15 @@ Keine Bewilligung benötigt die Behandlung getrockneter aromatischer Kräuter un
 
 - a. zur Verminderung der Keimzahl oder zur Vermeidung des Befalls mit Schadorganismen erfolgt;
 - b. nicht dazu führt, dass die mittlere total absorbierte Dosis 10 kGy überschreitet; und
-- c. nach den Vorgaben des «Codex General Standard for Irradiated Foods»[^28-1] und des «Recommended International Code of Practice for Radiation Processing of Food»[^28-2] des Codex Alimentarius durchgeführt wird.
+- c.[^28-1] nach den Vorgaben des «Codex General Standard for Irradiated Foods»[^28-2] und des «Code of Practice for Radiation Processing of Food»[^28-3] des Codex Alimentarius durchgeführt wird.
 
 <sup>4</sup> Die Behandlung mit ionisierenden Strahlen wird nur bewilligt, wenn damit die Gewährleistung der Lebensmittelsicherheit bezweckt wird.
 
 <sup>5</sup> Das EDI regelt die Anforderungen an die Bestrahlung von Lebensmitteln.
 
-[^28-1]: www.codexalimentarius.org; General Standard for irradiated foods, Codex Stan 106‑1983; zuletzt geändert 2003; www.codexalimentarius.org; Recommended international Code of Practice, General Principles of Food Hygiene 1-1969; zuletzt geändert 2003.
-[^28-2]: www.codexalimentarius.org; Code of Practice for Radiation Processing of Food (CAC/RCP 19-1979).
+[^28-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^28-2]: [www.codexalimentarius.org](http://www.codexalimentarius.org/) &gt; Codex Texts &gt; Standards &gt; General Standard for irradiated foods CXS 106‑1983, Rev.1-2003.
+[^28-3]: [www.codexalimentarius.org](http://www.codexalimentarius.org/) &gt; Codex Texts &gt; Codes of Practice &gt; Code of Practice for Radiation Processing of Food, CXC 19-1979 Revision 2000, Editiorial correction 2011.
 
 #### Art. 29
 
@@ -802,25 +822,39 @@ Wissenschaftliche Daten und Informationen zur Bewilligung einer gesundheitsbezog
 
 **Offen in den Verkehr gebrachte Lebensmittel**
 
-<sup>1</sup> Über offen in den Verkehr gebrachte Lebensmittel ist in gleicher Weise zu informieren wie über vorverpackte. Auf schriftliche Angaben kann verzichtet werden, wenn die Information der Konsumentinnen und Konsumenten auf andere Weise gewährleistet ist.
+<sup>1</sup> Wer Lebensmittel offen in den Verkehr bringt, muss darüber in gleicher Weise informieren wie über vorverpackte. Auf schriftliche Angaben kann verzichtet werden, wenn die Information der Konsumentinnen und Konsumenten auf andere Weise gewährleistet ist.[^39-1]
+
+<sup>1bis</sup>
+
+Gemeinnützige steuerbefreite Organisationen dürfen Backwaren, für welche die Information nach Absatz 1 zu Zutaten, die Allergien oder andere unerwünschte Reaktionen auslösen können, aufgrund der Sammel- und Verkaufsprozesse nicht möglich ist, an einen von ihnen als bezugsberechtigt bezeichneten Personenkreis abgeben, wenn dieser darüber informiert ist, dass:
+
+- a. diese Backwaren Zutaten enthalten können, die Allergien oder andere unerwünschte Reaktionen auslösen können;
+- b. Personen, die an Allergien oder Unverträglichkeiten leiden, von der Konsumation von diesen Backwaren abgeraten wird.[^39-2]
 
 <sup>2</sup>
 
 In jedem Fall sind schriftlich anzugeben:
 
-- a.[^39-1] bei Fleisch domestizierter Huftiere, von Hausgeflügel, Laufvögeln und bei Fisch: die Herkunft des zur Lebensmittelgewinnung verwendeten Tieres;
+- a.[^39-3] bei Fleisch domestizierter Huftiere, von Hausgeflügel, Laufvögeln und bei Fisch: die Herkunft des zur Lebensmittelgewinnung verwendeten Tieres;
 - b. die Anwendung gentechnischer oder besonderer technologischer Verfahren bei der Herstellung (Art. 36 Abs. 1 Bst. h);
-- c. die Angaben nach der Landwirtschaftlichen Deklarationsverordnung vom 26. November 2003[^39-2].
+- c. die Angaben nach der Landwirtschaftlichen Deklarationsverordnung vom 26. November 2003[^39-4];
+- d.[^39-5] bei Brot und Feinbackwaren, ausser Dauerbackwaren, ganz oder in Stücken: das Produktionsland; auf die schriftliche Angabe des Produktionslandes kann verzichten werden, wenn für das Lebensmittel eine Herkunftsangabe nach Artikel 48*b* des Markenschutzgesetzes vom 28. August 1992[^39-6] gemacht wird.
 
 <sup>3</sup>
 
 Das EDI regelt:
 
 - a. wie die Angaben nach den Absätzen 1 und 2 im Einzelnen zu erfolgen haben;
-- b. unter welchen Voraussetzungen auf die Schriftlichkeit der Angaben verzichtet werden kann; Absatz 2 bleibt vorbehalten.
+- b. unter welchen Voraussetzungen auf die Schriftlichkeit der Angaben verzichtet werden kann; Absatz 2 bleibt vorbehalten;
+- c.[^39-7] welche Angaben zum Schutz der Gesundheit bei neuartigen Lebensmitteln nach Artikel 15 Absätze 1 und 1<sup>bis</sup> immer schriftlich anzugeben sind.
 
-[^39-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^39-2]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^39-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-2]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^39-4]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^39-5]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-6]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^39-7]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 40
 
@@ -1301,7 +1335,7 @@ Die Pflicht zur Selbstkontrolle beinhaltet insbesondere:
 
 **Gute Hygienepraxis**
 
-<sup>1</sup> Die gute Hygienepraxis bei Lebensmitteln umfasst alle Massnahmen, die eine Beeinträchtigung von Rohstoffen, Zwischenprodukten und Halbfabrikaten sowie Endprodukten ausschliessen. Sie richtet sich nach den international gültigen Standards des Codex Alimentarius[^76-1].
+<sup>1</sup> Die gute Hygienepraxis bei Lebensmitteln umfasst alle Massnahmen, die eine Beeinträchtigung von Rohstoffen, Zwischenprodukten und Halbfabrikaten sowie Endprodukten ausschliessen. Sie richtet sich nach den international gültigen Standards des Codex Alimentarius[^76-1].[^76-2]
 
 <sup>2</sup>
 
@@ -1315,7 +1349,8 @@ Zur Sicherstellung der guten Hygienepraxis gehören insbesondere:
 - f. der betriebsinterne und -externe Transport;
 - g. die Kennzeichnung von Rohstoffen, Zwischenprodukten und Halbfabrikaten sowie die Deklaration der Endprodukte.
 
-[^76-1]: www.codexalimentarius.org; Recommended international Code of Practice, General Principles of Food Hygiene 1-1969; zuletzt geändert 2003.
+[^76-1]: [www.codexalimentarius.org](http://www.codexalimentarius.org/) &gt; Codex Texts &gt; Codes of Practice &gt; General Principles of Food Hygiene CXC 1-1969; zuletzt geändert 2020.
+[^76-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 77
 
@@ -1381,12 +1416,13 @@ Die HACCP-Grundsätze umfassen folgende Komponenten:
 
 Sie müssen mit den betroffenen Kreisen abgesprochen sein und:
 
-- a. die einschlägigen Verfahrenskodizes des Codex Alimentarius[^80-1] berücksichtigen;
+- a.[^80-1] die einschlägigen Verfahrenskodizes des Codex Alimentarius[^80-2] berücksichtigen;
 - b. die korrekte Umsetzung der Verfahren nach Artikel 78 Absatz 1 sicherstellen.
 
 <sup>4</sup> Sie können für Kleinstbetriebe vereinfachte Anforderungen an die Selbstkontrolle festlegen.
 
-[^80-1]: www.codexalimentarius.org; Recommended international Code of Practice, General Principles of Food Hygiene 1-1969; zuletzt geändert 2003.
+[^80-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^80-2]: [www.codexalimentarius.org](http://www.codexalimentarius.org/) &gt; Codex Texts &gt; Codes of Practice &gt; General Principles of Food Hygiene CXC 1-1969; zuletzt geändert 2020.
 
 ### 5. Abschnitt: Probenahmen und Analysen
 
@@ -1594,36 +1630,45 @@ Der für die Kontrolle zuständigen Behörde sind zur Verfügung zu stellen:
 
 #### Art. 91
 
-**Erforderliche Dokumente**
+**Erforderliche Dokumente**[^91-1]
 
-<sup>1</sup> Verstärkt zu kontrollierende Lebensmittel nach Artikel 90 Absatz 1 dürfen nur dann in die Schweiz eingeführt werden, wenn der ausgefüllte und von der Grenzkontrollstelle unterzeichnete Teil II des GGED vorliegt.[^91-1]
+<sup>1</sup> Lebensmittel, die nach den Anhängen 2 und 3 LMVV[^91-2] verstärkt zu kontrollieren sind, dürfen nur dann in die Schweiz eingeführt werden, wenn der ausgefüllte und von der Grenzkontrollstelle unterzeichnete Teil II des GGED vorliegt.
 
-<sup>1<sup>bis</sup></sup> Das Original des GGED für die Einfuhr begleitet die Sendung bei ihrer Weiterbeförderung bis zu dem in diesem Dokument genannten Bestimmungsort. Das BLV kann Abweichungen festlegen.[^91-2]
+<sup>2</sup> Das Original des GGED begleitet die Sendung bei ihrer Weiterbeförderung bis zu dem in diesem Dokument genannten Bestimmungsort. Das BLV kann Abweichungen festlegen.
 
-<sup>2</sup> Die Probenahme und die Analyse gemäss Teil II des Formulars von Anhang II der Verordnung (EU) Nr. 669/2009 müssen nach den Bestimmungen der Verordnung (EG) Nr. 401/2006[^91-3] oder nach gleichwertigen Verfahren vorgenommen worden sein.
+<sup>3</sup> Für Lebensmittel, die nach Anhang 3 LMVV verstärkt zu kontrollieren sind, muss nebst dem GGED eine amtliche Bescheinigung nach Anhang IV der Durchführungsverordnung (EU) 2019/1793[^91-3] vorliegen.
 
-<sup>3</sup> Für Lebensmittel, die nach Anhang 3 LMVV verstärkt zu kontrollieren sind, muss nebst dem GGED eine amtliche Bescheinigung nach Anhang IV der Durchführungsverordnung (EU) 2019/1793[^91-4] vorliegen. Sie muss von der zuständigen Behörde des Ursprungslandes oder der zuständigen Behörde des Landes ausgestellt werden, aus dem die Sendung versandt wird. Sie ist vier Monate ab dem Datum der Ausstellung oder sechs Monate ab dem Datum der Ergebnisse der Laboranalysen gültig.[^91-5]
+<sup>4</sup> Jede Sendung nach Anhang 3 LMVV muss mit einem Identifikationscode gekennzeichnet werden. Dieser muss sich auf die mitgelieferte amtliche Bescheinigung beziehen. Jede einzelne Packung oder sonstige Verpackungseinheit der Sendung muss mit dem Code gekennzeichnet sein. Enthält eine Verpackung mehrere kleine verpackte Einheiten, so kann die umhüllende Verpackung mit dem Code versehen werden.
 
-<sup>3<sup>bis</sup></sup> Jede Sendung nach Anhang 3 LMVV muss mit einem Identifikationscode gekennzeichnet werden. Dieser muss sich auf die mitgelieferte amtliche Bescheinigung beziehen. Jede einzelne Packung oder sonstige Verpackungseinheit der Sendung muss mit dem Code gekennzeichnet sein. Enthält eine Verpackung mehrere kleine verpackte Einheiten, so kann die umhüllende Verpackung mit dem Code versehen werden.[^91-6]
-
-<sup>4</sup> Die Genusstauglichkeitsbescheinigung muss in einer Amtssprache des Bundes oder in englischer Sprache ausgestellt sein.
-
-<sup>5</sup> Sie ist während vier Monaten nach ihrer Ausstellung gültig.
-
-<sup>6</sup>
+<sup>5</sup>
 
 Das BLV kann Bestimmungen erlassen über:
 
 - a. die Verfahren, die für die Gewährleistung der Weiterverfolgbarkeit zu beachten sind;
-- b. die Dokumente, die die Waren begleiten müssen, wenn von den zuständigen Behörden Proben entnommen wurden.[^91-7]
+- b. die Dokumente, die die Waren begleiten müssen, wenn von den zuständigen Behörden Proben entnommen wurden.
 
-[^91-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^91-2]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^91-3]: Verordnung (EG) Nr. 401/2006 der Kommission vom 23. Februar 2006 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Kontrolle des Mykotoxingehalts von Lebensmittel, ABl. L 70 vom 9.3.2006, S. 12; zuletzt geändert durch Verordnung (EU) Nr. 519/2014, ABl. L 147 vom 17.5.2014, S. 29.
-[^91-4]: Durchführungsverordnung (EU) Nr. 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89.
-[^91-5]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^91-6]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^91-7]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^91-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^91-2]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^91-3]: Durchführungsverordnung (EU) Nr. 2019/1793 der Kommission vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89, zuletzt geändert durch Durchführungsverordnung (EU) 2021/1900, ABl. L 387 vom 03.11.2021, S. 78.
+
+#### Art. 91a
+
+**Amtliche Bescheinigung**[^91a-1]
+
+<sup>1</sup>
+
+Die amtliche Bescheinigung muss:
+
+- a. den Vorgaben nach Artikel 11 der Durchführungsverordnung (EU) 2019/1793[^91a-2] entsprechen;
+- b. von der zuständigen Behörde des Ursprungslandes oder der zuständigen Behörde des Landes ausgestellt werden, aus dem die Sendung versandt wird;
+- c. in einer Amtssprache des Bundes oder in englischer Sprache ausgestellt sein.
+
+<sup>2</sup> Sie ist vier Monate ab dem Datum der Ausstellung oder sechs Monate ab dem Datum der Ergebnisse der Laboranalysen gültig.
+
+<sup>3</sup> Die Probenahme und die Analysen für die amtliche Bescheinigung müssen gemäss Teil II der amtlichen Bescheinigung nach Anhang IV der Durchführungsverordnung (EU) 2019/1793 vorgenommen worden sein.
+
+[^91a-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^91a-2]: Siehe Fussnote zu Art. 91 Abs. 3.
 
 ## 6. Kapitel: Übertragung der Rechtsetzungskompetenz und Entscheidverfahren
 
@@ -1683,7 +1728,7 @@ Das EDI kann für einzelne Bereiche abweichende Übergangsfristen vorsehen:
 <sup>5</sup> Bewilligungen, die nach bisherigem Recht unbefristet erteilt worden sind, müssen bis zum 30. April 2021 erneuert werden. Sie erlöschen, wenn bis zu diesem Zeitpunkt kein Antrag auf Erneuerung gestellt wird.
 
 [^95-1]: Aufgehoben durch Ziff. I der V vom 28. März 2018, mit Wirkung seit 1. Mai 2018 ([AS 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
-[^95-2]: Eingefügt durch Ziff. I der V vom 28. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1243](https://fedlex.data.admin.ch/eli/oc/2018/199)).
+[^95-2]: Eingefügt durch Ziff. I der V vom 28. März 2018, in Kraft seit 1. Mai 2018 (AS **2018** 1243).
 
 #### Art. 95a
 
@@ -1701,6 +1746,16 @@ Solange afokale kosmetische Kontaktlinsen gemäss Artikel 106 der Medizinprodukt
 
 [^95b-1]: Eingefügt durch Anhang Ziff. 3 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 [^95b-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
+#### Art. 95c
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^95c-1]
+
+<sup>1</sup> Lebensmittel und Gebrauchsgegenstände, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>2</sup> Absatz 1 gilt nicht für die Artikel 91 und 91*a*.
+
+[^95c-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9), [24](https://fedlex.data.admin.ch/eli/oc/2024/24)).
 
 #### Art. 96
 

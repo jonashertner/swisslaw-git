@@ -4,11 +4,11 @@ title: Ordonnance du 16 décembre 2016 sur les denrées alimentaires et les obje
 short: ODAlOUs
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: fr
-version: 2023-11-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-63-20231101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-63-20240201-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20231101/fr"
 
 (ODAlOUs)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> novembre 2023)
+du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -119,7 +119,8 @@ Dans la présente ordonnance et dans les ordonnances dérivées du Département 
   - a. les propriétés liées à la grande surface spécifique des matériaux considérés, ou
   - b. les propriétés physico-chimiques spécifiques qui sont différentes de celles de la forme non nanotechnologique du même matériau;
 
-- 31\. *personne assujettie à l’obligation de déclarer:* personne selon l’art. 26 de la loi du 18 mars 2005 sur les douanes (LD)[^2-1].
+- 31\. *personne assujettie à l’obligation de déclarer:* personne selon l’art. 26 de la loi du 18 mars 2005 sur les douanes (LD)[^2-1];
+- 32\.[^2-2] *redistribution de denrées alimentaires:* la récupération, la collecte, l’entreposage et la distribution d’excédents de denrées alimentaires sûres qui auraient sinon été éliminées.
 
 <sup>2</sup> À l’expression *valeur maximale* employée dans la présente ordonnance correspondent les expressions *quantité maximale*, *concentration maximale*, *teneur maximale*, *valeur limite* et *valeur indicative*, employées dans les ordonnances dérivées du DFI ou de l’OSAV.
 
@@ -127,35 +128,36 @@ Dans la présente ordonnance et dans les ordonnances dérivées du Département 
 
 Au terme *préparation* employé en rapport avec les objets usuels dans la présente ordonnance et dans les ordonnances dérivées du DFI ou de l’OSAV correspond le terme *mélange*, tel qu’il est employé dans les actes suivants de la législation de l’Union européenne (UE):
 
-- a.[^2-2] le règlement (CE) n<sup>o</sup> 1223/2009[^2-3];
-- b. la directive 2009/48/CE[^2-4].
+- a.[^2-3] le règlement (CE) n<sup>o</sup> 1223/2009[^2-4];
+- b. la directive 2009/48/CE[^2-5].
 
 <sup>4</sup>
 
 Sous réserve de définitions divergentes de la législation alimentaire suisse, les autres termes de la présente ordonnance et des ordonnances dérivées du DFI ou de l’OSAV sont utilisés conformément aux définitions contenues dans les dispositions suivantes de l’UE:
 
-- a. art. 3 du règlement (CE) n<sup>o</sup> 178/2002[^2-5];
-- b. art. 2 du règlement (CE) n<sup>o</sup> 852/2004[^2-6];
-- c. annexes I, II, section IV, et III du règlement (CE) n<sup>o</sup> 853/2004[^2-7];
-- d. art. 2, al. 1, du règlement (CE) n<sup>o</sup> 854/2004[^2-8];
-- e.[^2-9] art. 3 du règlement (UE) 2017/625[^2-10];
-- f. art. 2, al. 2, du règlement (CE) n<sup>o</sup> 282/2008[^2-11];
-- g. art. 2 et annexe I du règlement (CE) n<sup>o</sup> 1169/2011[^2-12];
-- h. art. 3 de la directive 2009/48/CE[^2-13].
+- a. art. 3 du règlement (CE) n<sup>o</sup> 178/2002[^2-6];
+- b. art. 2 du règlement (CE) n<sup>o</sup> 852/2004[^2-7];
+- c. annexes I, II, section IV, et III du règlement (CE) n<sup>o</sup> 853/2004[^2-8];
+- d. art. 2, al. 1, du règlement (CE) n<sup>o</sup> 854/2004[^2-9];
+- e.[^2-10] art. 3 du règlement (UE) 2017/625[^2-11];
+- f. art. 2, al. 2, du règlement (CE) n<sup>o</sup> 282/2008[^2-12];
+- g. art. 2 et annexe I du règlement (CE) n<sup>o</sup> 1169/2011[^2-13];
+- h. art. 3 de la directive 2009/48/CE[^2-14].
 
 [^2-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-3]: Règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques, JO L 342 du 22.12.2009, p. 59; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2017/2228, JO L 319 du 04.12.2017, p. 2.
-[^2-4]: Directive 2009/48/CE du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets, JO L 170 du 30.6.2009, p. 1; modifiée en dernier lieu par la directive (UE) 2015/2117, JO L 192 du 1.7.2014, p. 49.
-[^2-5]: Règlement (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires, JO L 31 du 1.2.2002, p. 1; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 652/2014, JO L 189 du 27.06.2014, p. 1.
-[^2-6]: Règlement (CE) n<sup>o</sup> 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l’hygiène des denrées alimentaires, JO L 139 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 219/2009, JO L 87 du 31.3.2009, p. 109.
-[^2-7]: Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement (UE) 2016/355, JO L 67 du 12.3.2016, p. 22.
-[^2-8]: Règlement (CE) n<sup>o</sup> 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine, JO L 139 du 30.4.2004, p. 206, modifié en dernier lieu par le règlement (UE) 2015/2285, JO L 323 du 9.12.2015, p. 2.
-[^2-9]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-10]: Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n° 999/2001, (CE) n° 396/2005, (CE) n° 1069/2009, (CE) n° 1107/2009, (UE) n° 1151/2012, (UE) n° 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n° 1/2005 et (CE) n° 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n° 854/2004 et (CE) n° 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), JO L 95 du 7.4.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2019/2127, JO L 321 du 12.12.2019, p. 111.
-[^2-11]: Règlement (CE) n<sup>o</sup> 282/2008 de la Commission du 27 mars 2008 relatif aux matériaux et aux objets en matière plastique recyclée destinés à entrer en contact avec des denrées alimentaires et modifiant le règlement (CE) n<sup>o</sup> 2023/2006, version selon le JO L 86 du 28.3.2008, p. 9; modifié en dernier lieu par le règlement (UE) 2015/1906, JO L 278 du 23.10.2015, p. 11.
-[^2-12]: Règlement (EU) n<sup>o</sup> 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l’information des consommateurs sur les denrées alimentaires, modifiant les règlements (CE) n<sup>o</sup> 1924/2006 et (CE) n<sup>o</sup> 1925/2006 du Parlement européen et du Conseil et abrogeant la directive 87/250/CEE de la Commission, la directive 90/496/CEE du Conseil , la directive 1999/10/CE de la Commission, la directive 2000/13/CE du Parlement européen et du Conseil, les directives 2002/67/CE et 2008/5/CE de la Commission et le règlement (CE) n<sup>o</sup> 608/2004 de la Commission; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2015/2283 JO L 327 du 11.12.2015, p. 1.
-[^2-13]: Directive 2009/48/CE du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets, JO L 170 du 30.6.2009, p. 1; modifiée en dernier lieu par la directive (UE) 2015/2117, JO L 306 du 24.11.2015.
+[^2-2]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-4]: Règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques, JO L 342 du 22.12.2009, p. 59; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2017/2228, JO L 319 du 04.12.2017, p. 2.
+[^2-5]: Directive 2009/48/CE du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets, JO L 170 du 30.6.2009, p. 1; modifiée en dernier lieu par la directive (UE) 2015/2117, JO L 192 du 1.7.2014, p. 49.
+[^2-6]: Règlement (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires, JO L 31 du 1.2.2002, p. 1; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 652/2014, JO L 189 du 27.06.2014, p. 1.
+[^2-7]: Règlement (CE) n<sup>o</sup> 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l’hygiène des denrées alimentaires, JO L 139 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 219/2009, JO L 87 du 31.3.2009, p. 109.
+[^2-8]: Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement (UE) 2016/355, JO L 67 du 12.3.2016, p. 22.
+[^2-9]: Règlement (CE) n<sup>o</sup> 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine, JO L 139 du 30.4.2004, p. 206, modifié en dernier lieu par le règlement (UE) 2015/2285, JO L 323 du 9.12.2015, p. 2.
+[^2-10]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-11]: Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n° 999/2001, (CE) n° 396/2005, (CE) n° 1069/2009, (CE) n° 1107/2009, (UE) n° 1151/2012, (UE) n° 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n° 1/2005 et (CE) n° 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n° 854/2004 et (CE) n° 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), JO L 95 du 7.4.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2019/2127, JO L 321 du 12.12.2019, p. 111.
+[^2-12]: Règlement (CE) n<sup>o</sup> 282/2008 de la Commission du 27 mars 2008 relatif aux matériaux et aux objets en matière plastique recyclée destinés à entrer en contact avec des denrées alimentaires et modifiant le règlement (CE) n<sup>o</sup> 2023/2006, version selon le JO L 86 du 28.3.2008, p. 9; modifié en dernier lieu par le règlement (UE) 2015/1906, JO L 278 du 23.10.2015, p. 11.
+[^2-13]: Règlement (EU) n<sup>o</sup> 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l’information des consommateurs sur les denrées alimentaires, modifiant les règlements (CE) n<sup>o</sup> 1924/2006 et (CE) n<sup>o</sup> 1925/2006 du Parlement européen et du Conseil et abrogeant la directive 87/250/CEE de la Commission, la directive 90/496/CEE du Conseil , la directive 1999/10/CE de la Commission, la directive 2000/13/CE du Parlement européen et du Conseil, les directives 2002/67/CE et 2008/5/CE de la Commission et le règlement (CE) n<sup>o</sup> 608/2004 de la Commission; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2015/2283 JO L 327 du 11.12.2015, p. 1.
+[^2-14]: Directive 2009/48/CE du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets, JO L 170 du 30.6.2009, p. 1; modifiée en dernier lieu par la directive (UE) 2015/2117, JO L 306 du 24.11.2015.
 
 ### Section 2 Principes de la procédure d’autorisation
 
@@ -236,6 +238,10 @@ Lors de l’évaluation de la sécurité sanitaire d’une denrée alimentaire, 
 <sup>2</sup> Lors de l’évaluation de la comestibilité d’une denrée alimentaire, il faut se demander si, compte tenu de l’utilisation prévue, cette denrée alimentaire pourrait ne pas convenir à la consommation humaine en raison de la présence de substances étrangères ou d’une contamination d’une autre origine, ou pour cause de putréfaction, détérioration ou décomposition.
 
 <sup>3</sup> Lors des évaluations visées aux al. 1 et 2, il est tenu compte en outre des éléments mentionnés à l’art. 7, al. 3, LDAl.
+
+<sup>4</sup> Le DFI fixe les critères pour la redistribution des denrées alimentaires.[^8-1]
+
+[^8-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 9
 
@@ -387,11 +393,20 @@ Les nouvelles sortes de denrées alimentaires sont des denrées alimentaires don
 
   les vitamines, sels minéraux et autres substances:
 
-  - 1\. auxquels un procédé de fabrication au sens de la let. f a été appliqué, ou
+  - 1\.[^15-1] auxquels un procédé de fabrication au sens de la let. g a été appliqué, ou
   - 2\. qui sont composés ou qui contiennent des nanomatériaux manufacturés;
 
 - j. les denrées alimentaires utilisées exclusivement dans des compléments alimentaires avant le 15 mai 1997 et destinées à être désormais utilisées dans des denrées alimentaires autres que des compléments alimentaires;
-- k. les denrées alimentaires étrangères considérées en Suisse ou dans les États membres de l’UE comme nouvelles en vertu des let. b et d à f, issues de la production primaire au sens de l’art. 8 LDAl et ayant un historique d’utilisation sûre en tant que denrée alimentaire dans un autre pays que la Suisse ou un pays membre de l’UE (nouvelle sorte de denrées alimentaires traditionnelles).
+- k.[^15-2] …
+
+<sup>1bis</sup>
+
+Sont considérées comme nouvelles sortes de denrées alimentaires traditionnelles les denrées alimentaires qui:
+
+- a. ne proviennent pas de Suisse ni des États membre de l’UE;
+- b. sont considérées en Suisse ou dans les États membres de l’UE comme nouvelles en vertu de l’al. 1, let. b et d à f;
+- c. sont issues de la production primaire au sens de l’art. 8 LDAl, et
+- d. ont un historique d’utilisation sûre en tant que denrée alimentaire dans un pays autre que la Suisse ou qu’un État membre de l’UE.[^15-3]
 
 <sup>2</sup>
 
@@ -406,6 +421,10 @@ Ne sont pas considérées comme de nouvelles sortes de denrées alimentaires:
   - 2\. additifs conformément aux dispositions émises par le DFI en application de l’art. 23, concernant les additifs dans ou sur les denrées alimentaires,
   - 3\. arômes alimentaires conformément aux dispositions émises par le DFI en application de l’art. 23 concernant les arômes,
   - 4\. solvants d’extraction destinés à être utilisés pour la production de denrées alimentaires ou d’ingrédients alimentaires conformément aux dispositions émises par le DFI en application de l’art. 27, al. 4, let. b, concernant les procédés et auxiliaires technologiques utilisés pour le traitement des denrées alimentaires.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^15-2]: Abrogée le ch. I de l’O du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^15-3]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 16
 
@@ -573,20 +592,21 @@ Font exception les denrées alimentaires exposées aux rayonnements ionisants é
   - 2\. 14 MeV pour les neutrons,
   - 3\. 5 MeV dans les autres cas.
 
-<sup>3</sup> Le traitement des herbes et épices aromatiques séchées par des rayonnements ionisants ne nécessite aucune autorisation aux conditions suivantes:
+<sup>3</sup>
 
-a. il vise à réduire le nombre de germes ou à éviter la contamination par des organismes nocifs;
+Le traitement des herbes et épices aromatiques séchées par des rayonnements ionisants ne nécessite aucune autorisation aux conditions suivantes:
 
-b. il ne provoque pas de dépassement de la dose globale moyenne absorbée de 10 kGy;
-
-c. il est effectué selon les données de la Norme générale du Codex pour les denrées alimentaires irradiées[^28-1] et du Code d’usages international recommandé pour le traitement des aliments par irradiation[^28-2] du Codex Alimentarius.
+- a. il vise à réduire le nombre de germes ou à éviter la contamination par des organismes nocifs;
+- b. il ne provoque pas de dépassement de la dose globale moyenne absorbée de 10 kGy;
+- c.[^28-1] il est effectué selon les données de la Norme générale du Codex pour les denrées alimentaires irradiées[^28-2] et du Code d’usages international recommandé pour le traitement des aliments par irradiation[^28-3] du Codex Alimentarius.
 
 <sup>4</sup> Le traitement par des rayonnements ionisants est autorisé uniquement s’il vise à garantir la sécurité des denrées alimentaires.
 
 <sup>5</sup> Le DFI définit les exigences applicables à l’irradiation des denrées alimentaires.
 
-[^28-1]: [www.codexalimentarius.org](http://www.codexalimentarius.org/), Norme générale du Codex pour les denrées alimentaires irradiées, Codex Stan 106-1983, modifiée en dernier lieu en 2003; [www.codexalimentarius.org](http://www.codexalimentarius.org/), Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969, modifié en dernier lieu en 2003.
-[^28-2]: [www.codexalimentarius.org](http://www.codexalimentarius.org/), Code d’usages international recommandé pour le traitement des aliments par irradiation (CAC/RCP 19-1979)
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^28-2]: [www.codexalimentarius.org](http://www.codexalimentarius.org) &gt; Textes du Codex &gt; Normes officielles &gt; Norme générale pour les denrées alimentaires irradiées CXS 106-1983, Rev.1-2003.
+[^28-3]: [www.codexalimentarius.org](http://www.codexalimentarius.org) &gt; Textes du Codex &gt; Code d’usages &gt; Code d’usages pour le traitement des aliments par irradiation, CXC 19-1979 Révision 200, Correction éditoriale 2011.
 
 #### Art. 29
 
@@ -802,25 +822,39 @@ Les données et les informations scientifiques ayant servi à l’autorisation d
 
 **Denrées alimentaires mises sur le marché en vrac**
 
-<sup>1</sup> Les dispositions relatives à la déclaration des denrées alimentaires préemballées s’appliquent par analogie aux denrées alimentaires mises sur le marché en vrac. On peut se passer d’une déclaration écrite si l’information du consommateur est garantie d’une autre manière.
+<sup>1</sup> Quiconque met sur le marché en vrac des denrées alimentaires doit les déclarer par analogie avec les denrées alimentaires préemballées. On peut se passer d’une déclaration écrite si l’information du consommateur est garantie d’une autre manière.[^39-1]
+
+<sup>1bis</sup>
+
+Les organisations d’utilité publique exonérées d’impôt peuvent remettre, à des personnes qu’elles désignent comme y ayant droit, des articles de boulangerie pour lesquels les procédures de collecte et de vente ne permettent pas d’informer les consommateurs conformément à l’al. 1 quant aux ingrédients susceptibles de provoquer des allergies ou d’autres réactions indésirables, à condition de signaler aux personnes concernées que:
+
+- a. les articles de boulangerie mentionnés peuvent contenir des ingrédients susceptibles de provoquer des allergies ou d’autres réactions indésirables;
+- b. la consommation de ces articles de boulangerie est déconseillée aux personnes souffrant d’allergies ou d’intolérances.[^39-2]
 
 <sup>2</sup>
 
 Dans chaque cas, il faut cependant indiquer par écrit:
 
-- a.[^39-1] la provenance de l’animal pourvoyeur de la denrée alimentaire s’il s’agit de la viande d’ongulés domestiqués, de volailles domestiques, de ratites ou de poissons;
+- a.[^39-3] la provenance de l’animal pourvoyeur de la denrée alimentaire s’il s’agit de la viande d’ongulés domestiqués, de volailles domestiques, de ratites ou de poissons;
 - b. le recours au génie génétique ou à des procédés technologiques particuliers durant la fabrication (art. 36, al. 1, let. h);
-- c. les informations prévues dans l’ordonnance du 26 novembre 2003 sur la déclaration[^39-2].
+- c. les informations prévues dans l’ordonnance du 26 novembre 2003 sur la déclaration[^39-4];
+- d.[^39-5] pour le pain et les articles de boulangerie fine, sauf les articles de biscuiterie et de biscotterie, entiers ou en morceaux: le pays de production; l’indication par écrit du pays de production n’est pas nécessaire lorsque la provenance de la denrée alimentaire est indiquée conformément à l’art. 48*b* de la loi du 28 août 1992 sur la protection des marques[^39-6].
 
 <sup>3</sup>
 
 Le DFI règle:
 
 - a. les modalités selon lesquelles les indications visées aux al. 1 et 2 doivent être fournies;
-- b. à quelles conditions on peut se passer de fournir des indications écrites; l’al. 2 demeure réservé.
+- b. à quelles conditions on peut se passer de fournir des indications écrites; l’al. 2 demeure réservé;
+- c.[^39-7] les indications destinées à protéger la santé qui doivent toujours être déclarées par écrit pour les nouvelles sortes de denrées alimentaires visées à l’art. 15, al. 1 et 1<sup>bis</sup>.
 
-[^39-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^39-2]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-2]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^39-4]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^39-5]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^39-6]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^39-7]: Introduite par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 40
 
@@ -1050,7 +1084,7 @@ Le DFI règle:
 
 **Bonnes pratiques de fabrication**
 
-- [tab] <sup>1</sup> La fabrication des produits cosmétiques doit respecter les bonnes pratiques de fabrication.
+<sup>1</sup> La fabrication des produits cosmétiques doit respecter les bonnes pratiques de fabrication.
 
 <sup>2</sup> Le DFI peut édicter des dispositions relatives aux bonnes pratiques de fabrication.
 
@@ -1301,7 +1335,7 @@ Le devoir d’autocontrôle comprend en particulier les éléments suivants:
 
 **Bonnes pratiques d’hygiène**
 
-<sup>1</sup> Les bonnes pratiques d’hygiène pour les denrées alimentaires comprennent toutes les mesures qui permettent d’exclure les effets préjudiciables sur les matières premières, les produits intermédiaires, les produits semi-finis et les produits finis. Elles sont régies par le Code d’usages international recommandé du Codex Alimentarius[^76-1].
+<sup>1</sup> Les bonnes pratiques d’hygiène pour les denrées alimentaires comprennent toutes les mesures qui permettent d’exclure les effets préjudiciables sur les matières premières, les produits intermédiaires, les produits semi-finis et les produits finis. Elles sont régies par le Code d’usages international recommandé du Codex Alimentarius[^76-1].[^76-2]
 
 <sup>2</sup>
 
@@ -1315,7 +1349,8 @@ La garantie des bonnes pratiques d’hygiène comprend notamment:
 - f. le transport interne à l’établissement et le transport externe;
 - g. l’étiquetage des matières premières, des produits intermédiaires et des produits semi-finis ainsi que la déclaration des produits finis.
 
-[^76-1]: [www.codexalimentarius.org](http://www.codexalimentarius.org/); Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969; modifié en dernier lieu en 2003.
+[^76-1]: [www.codexalimentarius.org](http://www.codexalimentarius.org) &gt; Textes du Codex &gt; Code d’usages &gt; Principes généraux d’hygiène alimentaire CXC 1-1969; modifié en dernier lieu en 2020.
+[^76-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 77
 
@@ -1381,12 +1416,13 @@ Les principes HACCP comprennent les composantes suivantes:
 
 Ils doivent être élaborés en concertation avec les milieux concernés et:
 
-- a. tenir compte des codes des usages pertinents du Codex Alimentarius[^80-1];
+- a.[^80-1] tenir compte des codes des usages pertinents du Codex Alimentarius[^80-2];
 - b. garantir la mise en œuvre correcte des procédés visés à l’art. 78, al. 1;
 
 <sup>4</sup> Ils peuvent fixer des exigences simplifiées pour l’autocontrôle à effectuer dans les très petits établissements.
 
-[^80-1]: [www.codexalimentarius.org](http://www.codexalimentarius.org/); Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969; modifié en dernier lieu en 2003.
+[^80-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^80-2]: [www.codexalimentarius.org](http://www.codexalimentarius.org) &gt; Textes du Codex &gt; Code d’usages &gt; Principes généraux d’hygiène alimentaire CXC 1-1969; modifié en dernier lieu en 2020.
 
 ### Section 5 Prélèvements d’échantillons et analyses
 
@@ -1594,36 +1630,45 @@ Il y a lieu de mettre à la disposition de l’autorité compétente pour les co
 
 #### Art. 91
 
-**Documents requis**
+**Documents requis**[^91-1]
 
-<sup>1</sup> Les denrées alimentaires soumises à des contrôles renforcés en vertu de l’art. 90, al. 1, ne peuvent être importées en Suisse que sur présentation de la partie II du DSCE remplie et signée par le poste d’inspection frontalier.[^91-1]
+<sup>1</sup> Les denrées alimentaires soumises à des contrôles renforcés en vertu des annexes 2 et 3 OELDAl[^91-2] ne peuvent être importées en Suisse que sur présentation de la partie II du DSCE remplie et signée par le poste d’inspection frontalier.
 
-<sup>1bis</sup> L’original du DSCE accompagne le lot durant son acheminement jusqu’à son arrivée à la destination indiquée dans ledit document. Le DFI peut prévoir des dérogations.[^91-2]
+<sup>2</sup> L’original du DSCE accompagne le lot durant son acheminement jusqu’à son arrivée à la destination indiquée dans ledit document. L’OSAV peut prévoir des dérogations.
 
-<sup>2</sup> Les échantillonnages et analyses visés dans la partie II du formulaire de l’annexe II du règlement (UE) n<sup>o</sup> 669/2009 doivent être effectués conformément au règlement (CE) n<sup>o</sup> 401/2006[^91-3] ou selon des procédés équivalents.
+<sup>3</sup> Les denrées alimentaires soumises à des contrôles renforcés au sens de l’annexe 3 OELDAl doivent être accompagnées non seulement du DSCE, mais aussi du certificat officiel visé à l’annexe IV du règlement d’exécution (UE) 2019/1793[^91-3].
 
-<sup>3</sup> Les denrées alimentaires soumises à des contrôles renforcés au sens de l’annexe 3 OELDAl doivent être accompagnées non seulement du DSCE, mais aussi du certificat officiel visé à l’annexe IV du règlement d’exécution (UE) 2019/1793[^91-4]. Celui-ci doit être délivré par les autorités compétentes du pays d’origine ou par les autorités compétentes du pays duquel le lot a été expédié. Il est valable quatre mois à compter de la date de délivrance ou six mois à compter de la date des résultats des analyses de laboratoire.[^91-5]
+<sup>4</sup> Chaque lot au sens de l’annexe 3 OELDAl doit porter un code d’identification. Ce code doit se référer au certificat officiel qui accompagne le lot. Il doit figurer sur chaque emballage ou autre unité d’emballage du lot. Si un emballage contient plusieurs autres unités d’emballage, le code peut apparaître sur l’emballage principal.
 
-<sup>3bis</sup> Chaque lot au sens de l’annexe 3 OELDAl doit porter un code d’identification. Ce code doit se référer au certificat officiel qui accompagne le lot. Il doit figurer sur chaque emballage ou autre unité d’emballage du lot. Si un emballage contient plusieurs autres unités d’emballage, le code peut apparaitre sur l’emballage principal.[^91-6]
-
-<sup>4</sup> Le certificat d’exportation doit être rédigé dans l’une des langues officielles de la Confédération ou en anglais.
-
-<sup>5</sup> Il est valable quatre mois à compter de sa délivrance.
-
-<sup>6</sup>
+<sup>5</sup>
 
 L’OSAV peut édicter des dispositions sur:
 
 - a. les procédures à respecter pour garantir la traçabilité;
-- b. les documents qui doivent accompagner les marchandises lorsque des échantillons ont été prélevés par les autorités compétentes.[^91-7]
+- b. les documents qui doivent accompagner les marchandises lorsque des échantillons ont été prélevés par les autorités compétentes.
 
-[^91-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^91-2]: Introduit par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^91-3]: Règlement (CE) n<sup>o</sup> 401/2006 de la Commission du 23 février 2006 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires, JO L 70 du 9.3.2006, p. 12; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 519/2014, JO L 147 du 17.05.2014, p. 29.
-[^91-4]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n° 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 669/2009, (UE) n° 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89.
-[^91-5]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^91-6]: Introduit par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^91-7]: Introduit par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^91-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^91-2]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^91-3]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n° 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 669/2009, (UE) n° 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2021/1900, JO L 387 du 3.11.2021, p. 78.
+
+#### Art. 91a
+
+**Certificat officiel**[^91a-1]
+
+<sup>1</sup>
+
+Le certificat officiel doit:
+
+- a. remplir les exigences visées à l’art. 11 du règlement d’exécution (UE) 2019/1793[^91a-2];
+- b. être délivré par les autorités compétentes du pays d’origine ou par les autorités compétentes du pays duquel le lot a été expédié;
+- c. être rédigé dans l’une des langues officielles de la Confédération ou en anglais.
+
+<sup>2</sup> Il est valable quatre mois à compter de la date de délivrance ou six mois à compter de la date des résultats des analyses de laboratoire.
+
+<sup>3</sup> Les prélèvements d’échantillons et les analyses doivent être réalisés conformément à la partie II du certificat officiel visé à l’annexe IV du règlement d’exécution (UE) 2019/1793.
+
+[^91a-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^91a-2]: Voir note de bas de page relative à l’art. 91, al. 3.
 
 ## Chapitre 6 Délégation de la compétence législative et procédure de décision
 
@@ -1701,6 +1746,16 @@ Tant que les lentilles de contact cosmétiques afocales peuvent être commercial
 
 [^95b-1]: Introduit par l’annexe ch. 3 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 [^95b-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
+#### Art. 95c
+
+**Dispositions transitoires de la modification du 8 décembre 2023**[^95c-1]
+
+<sup>1</sup> Les denrées alimentaires et les objets usuels non conformes à la modification du 8 décembre 2023 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
+
+<sup>2</sup> L’al. 1 ne s’applique pas aux art. 91 et 91*a*.
+
+[^95c-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9), [24](https://fedlex.data.admin.ch/eli/oc/2024/24)).
 
 #### Art. 96
 
