@@ -1,21 +1,21 @@
 ---
 canton: GR
 number: "173.000"
-title: Gerichtsorganisationsgesetz - Achtung von der Justizreform 3 betroffen; siehe AGS 2023-008 und AGS 2024-003
+title: Gerichtsorganisationsgesetz
 short: GOG
 language: de
 version: 2021-07-01
-valid_until: 2024-12-31
+corrected: 2024-02-01
 version_adopted: 2021-02-16
 adopted: 2022-06-14
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3356/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3167/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gerichtsorganisationsgesetz - Achtung von der Justizreform 3 betroffen; siehe AGS 2023-008 und AGS 2024-003
+# Gerichtsorganisationsgesetz
 
 (GOG)
 

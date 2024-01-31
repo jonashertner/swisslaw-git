@@ -1,21 +1,21 @@
 ---
 canton: GR
 number: "173.000"
-title: "Lescha davart l'organisaziun giudiziala - Attenziun: pertutgà da la Refurma da las dretgiras 3; guardar CUL 2023-008 e CUL 2024-003"
+title: "Lescha davart l'organisaziun giudiziala"
 short: LOG
 language: rm
 version: 2021-07-01
-valid_until: 2024-12-31
+corrected: 2024-02-01
 version_adopted: 2021-02-16
 adopted: 2022-06-14
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/173.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3356/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3167/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha davart l'organisaziun giudiziala - Attenziun: pertutgà da la Refurma da las dretgiras 3; guardar CUL 2023-008 e CUL 2024-003
+# Lescha davart l'organisaziun giudiziala
 
 (LOG)
 

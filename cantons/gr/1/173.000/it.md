@@ -1,21 +1,21 @@
 ---
 canton: GR
 number: "173.000"
-title: "Legge sull'organizzazione giudiziaria - Attenzione, interessato dalla riforma della giustizia 3; vedi AGS 2023-008 e AGS 2024-003"
+title: "Legge sull'organizzazione giudiziaria"
 short: LOG
 language: it
 version: 2021-07-01
-valid_until: 2024-12-31
+corrected: 2024-02-01
 version_adopted: 2021-02-16
 adopted: 2022-06-14
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/173.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3356/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3167/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sull'organizzazione giudiziaria - Attenzione, interessato dalla riforma della giustizia 3; vedi AGS 2023-008 e AGS 2024-003
+# Legge sull'organizzazione giudiziaria
 
 (LOG)
 
