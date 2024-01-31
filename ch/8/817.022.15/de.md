@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für K
 short: VHK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: de
-version: 2020-07-01
+version: 2024-02-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-156-20200701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-156-20240201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20200701/de"
 
 (Kontaminantenverordnung, VHK)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. Februar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -66,28 +66,31 @@ Es berücksichtigt neben den üblichen wissenschaftlichen Unterlagen insbesonder
 - a. die Toxizität eines Stoffes;
 - b. die technisch unvermeidbare Konzentration eines Stoffes im Lebensmittel;
 - c. die Aufnahme eines Stoffes auf der Grundlage der Verzehrsmenge der betreffenden Lebensmittel;
-- d.[^2-3] ...
+- d.[^2-3] …
 - e. die Höchstgehalte, die für die wichtigsten Handelspartner der Schweiz gelten.
 
 <sup>3</sup>
 
 Es ermittelt die Höchstgehalte für:[^2-4]
 
-- a. Nitrat in Anhang 1;
+- a.[^2-5] Nitrat und Perchlorat in Anhang 1;
 - b. Mykotoxine in Anhang 2;
 - c. Metalle und Metalloide in Anhang 3;
-- d.[^2-5] 3-Monochlorpropan-1,2-diol (3-MCPD) und Glycidylfettsäureester in Anhang 4;
+- d.[^2-6] 3-Monochlorpropan-1,2-diol (3-MCPD) und Glycidylfettsäureester in Anhang 4;
 - e. Dioxine und Polychlorierte Biphenyle (PCB) in Anhang 5;
 - f. polyzyklische aromatische Kohlenwasserstoffe in Anhang 6;
 - g. Melamin und seine strukturverwandten Verbindungen in Anhang 7;
 - h. pflanzeneigene Toxine in Anhang 8;
+- h<sup>bis</sup>.[^2-7] Perfluoralkylsubstanzen (PFAS) in Anhang 8*a*;
 - i. weitere Kontaminanten in Anhang 9.
 
 [^2-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 [^2-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 [^2-3]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 [^2-4]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
-[^2-5]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^2-5]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^2-6]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^2-7]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 #### Art. 3
 
@@ -198,17 +201,29 @@ Lebensmittel, die den Anforderungen dieser Verordnung nicht genügen, dürfen no
 
 [^8a-1]: Eingefügt durch Ziff. I der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)). Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
+#### Art. 8b
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^8b-1]
+
+<sup>1</sup> Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>2</sup> In Abweichung von Absatz 1 dürfen Lebensmittel, die den Höchstgehalten für Perfluoralkylsubstanzen (PFAS) nach Anhang 8*a* nicht entsprechen, noch bis zum 31. Juli 2024 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^8b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+
 #### Art. 9
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 3 Bst. a, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
 
 ## Höchstgehalte für Nitrat in Lebensmitteln
+
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### Teil A: Erläuterungen
 
@@ -216,7 +231,7 @@ Anhang 1
 
 2 Wenn keine Angaben über die Art des Anbaus von Salat vorhanden sind, gilt der strengeren Wert für Nitrat.
 
-3 Die aufgeführten Lebensmittel beziehen sich auf die in Anhang 1 der Verordnung des EDI vom 16. Dezember 2016[^annex1-lvlu1-partA-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlicher und tierischer Herkunft definieren Erzeugnissen.
+3 Bei Obst, Gemüse und Getreide wird Bezug genommen auf die in der jeweiligen Kategorie aufgeführten Erzeugnisse gemäss der Definition nach Anhang 1 der Verordnung des EDI vom 16. Dezember 2016[^annex1-lvlu1-partA-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlicher und tierischer Herkunft (VPRH). Der Höchstgehalt für Obst gilt nicht für Hartschalenobst.
 
 [^annex1-lvlu1-partA-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
@@ -236,15 +251,25 @@ Anhang 1
 <tr><td>"</td><td>"</td><td colspan="2">6000</td><td colspan="2">Ernte vom 1. April bis 30. September</td></tr>
 <tr><td>"</td><td>Spinat</td><td colspan="2">3500</td><td colspan="2">frisch; ausgenommen Spinat, der zur Verarbeitung bestimmt ist und lose direkt vom Feld zum Verarbeitungsbetrieb befördert wird</td></tr>
 <tr><td>"</td><td>"</td><td colspan="2">2000</td><td colspan="2">haltbar gemacht, tiefgefroren oder gefroren</td></tr>
+<tr><td>Perchlorat</td><td>Blattgemüse und frische Kräuter</td><td>0,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Gemüse</td><td>0,05</td><td colspan="2">ausgenommen Blattgemüse und frische Kräuter, Grünkohl und Kürbisgewächse</td></tr>
+<tr><td>"</td><td>Getreidebeikost für Säuglinge und Kleinkinder</td><td>0,01</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Beikost für Säuglinge und Kleinkinder</td><td>0,02</td><td colspan="2">ausgenommen Getreidebeikost; bezogen auf die genussfertige Zubereitung</td></tr>
+<tr><td>"</td><td>Grünkohl</td><td>0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kräuter- und Früchtetee</td><td>0,75</td><td colspan="2">getrocknet</td></tr>
+<tr><td>"</td><td>Kürbisgewächse</td><td>0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Obst</td><td>0,05</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung, Folgenahrung und Lebensmittel für besondere medizinische Zwecke für Säuglinge und Kleinkinder</td><td>0,01</td><td colspan="2">bezogen auf die genussfertige Zubereitung</td></tr>
+<tr><td>"</td><td>Tee (*Camellia sinensis*)</td><td>0,75</td><td colspan="2">getrocknet</td></tr>
 </table>
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-2]
 
 (Art. 2 Abs. 3 Bst. b, 4 Abs. 4, 5 Abs. 1, 2 und 4 sowie 7 Abs. 1)
 
 ## Höchstgehalte für Mykotoxine in Lebensmitteln
 
-[^t-1]: Bereinigt gemäss Ziff. II und III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-2]: Bereinigt gemäss Ziff. II und III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) und vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### Teil A: Erläuterungen
 
@@ -260,7 +285,7 @@ Anhang 2*[^t-1]*
 
 6 Bei diätetischen Lebensmitteln für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind, beziehen sich die Höchstgehalte im Falle von Milch und Milcherzeugnissen auf genussfertige Erzeugnisse (als solche vermarktet oder in der vom Hersteller angegebenen Zubereitung) und im Falle von anderen Erzeugnissen als Milch und Milcherzeugnisse auf die Trockenmasse.
 
-7 Die für unverarbeitetes Getreide festgelegten Höchstgehalte gelten für unverarbeitetes Getreide, das zur ersten Verarbeitungsstufe in Verkehr gebracht wird. «Erste Verarbeitungsstufe» bedeutet jegliche physikalische oder thermische Behandlung des Korns ausser Trocknen. Verfahren zur Reinigung, zur Sortierung und zur Trocknung gelten nicht als «erste Verarbeitungsstufe», sofern das Getreidekorn selbst nicht physikalisch behandelt wird und das ganze Korn nach der Reinigung und Sortierung intakt bleibt. Bei integrierten Erzeugungs- und Verarbeitungssystemen gelten die Höchstgehalte für unverarbeitetes Getreide, sofern es für die erste Verarbeitungsstufe bestimmt ist.
+7 Der Höchstgehalt für unverarbeitetes Getreide gilt nach Trocknung und Reinigung, einschliesslich Sortierung (gegebenenfalls Farbauslese) und mechanischer Oberflächenbehandlung und vor der ersten Verarbeitungsstufe oder vor der Abgabe des unverarbeiteten Getreides an Konsumentinnen und Konsumenten. In integrierten Erzeugungs- und Verarbeitungssystemen gilt der Höchstgehalt nach Trocknung und Reinigung, einschliesslich Sortierung (gegebenenfalls Farbauslese) und mechanischer Oberflächenbehandlung und vor der ersten Verarbeitungsstufe. Unter integrierten Erzeugungs- und Verarbeitungssystemen sind Systeme zu verstehen, bei denen sämtliche eingehenden Partien im gleichen Betrieb gereinigt, sortiert und verarbeitet werden. Trocknung und Reinigung, einschliesslich Sortierung (gegebenenfalls Farbauslese) und mechanischer Oberflächenbearbeitung, gelten nicht als «erste Verarbeitungsstufe», sofern das ganze Korn intakt bleibt. Unter mechanischer Oberflächenbearbeitung ist die Reinigung von Getreide durch kräftiges Bürsten oder Scheuern in Verbindung mit Entstaubung (z. B. Staubabsaugung) zu verstehen. Soll Getreide, in dem Mutterkorn-Sklerotien vorhanden sind, einer mechanischen Oberflächenbearbeitung unterzogen werden, so muss das Getreide vor der mechanischen Oberflächenbearbeitung erst einen Reinigungsschritt durchlaufen.
 
 8 Erdnüsse, andere Ölsaaten, Hartschalenobst, Trockenobst, Reis und Mais, bei denen die festgelegten Höchstgehalte für die Erzeugnisse, die zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt sind, für Aflatoxine nicht eingehalten werden, dürfen in Verkehr gebracht werden, sofern sie:
 
@@ -278,106 +303,152 @@ Fehlt ein eindeutiger Hinweis darauf, dass die Lebensmittel nicht für den mensc
 
 Für Erdnüsse und andere Ölsaaten, die zum Zermahlen bestimmt sind, sind in Bezug auf die Einhaltung der in Teil B festgelegten Höchstgehalte für die Erzeugnisse, die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen, Ausnahmen möglich. In diesem Fall müssen die Sendungen eine Kennzeichnung aufweisen, die den Verwendungszweck eindeutig angibt, und mit dem folgenden Hinweis versehen sind: «Zum Zermahlen für die Erzeugung von raffiniertem Pflanzenöl bestimmtes Erzeugnis». Dieser Hinweis muss auf dem Etikett jeder einzelnen Verpackungseinheit, wie Beutel oder Kiste, und in den Begleitdokumenten enthalten sein. Der endgültige Bestimmungsort muss eine Mühle sein.
 
+10 Bei Obst, Gemüse und Getreide wird Bezug genommen auf die in der jeweiligen Kategorie aufgeführten Erzeugnisse gemäss der Definition nach Anhang 1 VPRH[^annex2-lvlu1-partA-1]. Der Höchstgehalt für Obst gilt nicht für Hartschalenobst.
+
+11 Der Höchstgehalt für Ergotalkaloide bezieht sich auf die Untergrenze (*Lower Bound*) der Summe der folgenden zwölf Ergotalkaloide:
+
+– Ergocornin/Ergocorninin;
+
+– Ergocristin/Ergocristinin;
+
+– Ergocryptin/Ergocryptinin (α- und β-Form);
+
+– Ergometrin/Ergometrinin;
+
+– Ergosin/Ergosinin;
+
+– Ergotamin/Ergotaminin.
+
+Bei der Untergrenze der Summe wird der Beitrag jedes nicht quantifizierten Epimers auf null festgesetzt.
+
+[^annex2-lvlu1-partA-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+
 ### Teil B: Tabelle
 
 <table>
-<tr><th colspan="2">1</th><th>2</th><th>3</th><th colspan="2">4</th></tr>
-<tr><th colspan="2">Stoff</th><th>Lebensmittel</th><th>Höchstgehalt (µg/kg)</th><th colspan="2">Bemerkungen</th></tr>
-<tr><td>Aflatoxin B<sub>1</sub></td><td colspan="2">Diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td colspan="2">0,1</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Erdnüsse und andere Ölsaaten</td><td colspan="2">8</td><td>ausgenommen Erdnüsse und andere Ölsaaten, die zum Zermahlen für die Erzeugung von raffiniertem Pflanzenöl bestimmt sind; die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
-<tr><td>"</td><td colspan="2">Erdnüsse und andere Ölsaaten und deren Verarbeitungserzeugnisse</td><td colspan="2">2</td><td>ausgenommen pflanzliche Rohöle, die zum Raffinieren bestimmt sind, und raffinierte Pflanzenöle; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Feigen</td><td colspan="2">6</td><td>getrocknet</td></tr>
-<tr><td>"</td><td colspan="2">Getreide und Getreideerzeugnisse, einschliesslich verarbeiteter Getreideerzeugnisse</td><td colspan="2">2</td><td>übrige</td></tr>
-<tr><td>"</td><td colspan="2">Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">0,1</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Hartschalenobst</td><td colspan="2">5</td><td>übrige; die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
-<tr><td>"</td><td colspan="2">Hartschalenobst und seine Verarbeitungserzeugnisse</td><td colspan="2">2</td><td>übrige; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Haselnüsse und Paranüsse</td><td colspan="2">8</td><td>die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
-<tr><td>"</td><td colspan="2">"</td><td colspan="2">5</td><td>zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Mais</td><td colspan="2">5</td><td>der vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
-<tr><td>"</td><td colspan="2">Mandeln, Pistazien und Aprikosenkerne</td><td colspan="2">12</td><td>die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
-<tr><td>"</td><td colspan="2">"</td><td colspan="2">8</td><td>zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Paprika und Chilipulver, Pfeffer, Muskatnuss, Ingwer, Kurkuma</td><td colspan="2">5</td><td>einschliesslich Gewürzmischungen, die eine oder mehrere der oben genannten Gewürzsorten enthalten; getrocknete Früchte, ganz oder gemahlen, von Paprika und Chilipulver aus *Capsicum* spp., einschliesslich Cayennepfeffer</td></tr>
-<tr><td>"</td><td colspan="2">Reis</td><td colspan="2">5</td><td>der vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
-<tr><td>"</td><td colspan="2">Trockenobst</td><td colspan="2">5</td><td>ausgenommen getrocknete Feigen; das vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
-<tr><td>"</td><td colspan="2">Trockenobst und seine Verarbeitungserzeugnisse</td><td colspan="2">2</td><td>ausgenommen getrocknete Feigen und ihre Verarbeitungserzeugnisse; die zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt sind</td></tr>
-<tr><td>Aflatoxine (Summe von B<sub>1</sub>, B<sub>2</sub>, G<sub>1</sub> und G<sub>2</sub>)</td><td colspan="2">Erdnüsse und andere Ölsaaten</td><td colspan="2">15</td><td>ausgenommen Erdnüsse und andere Ölsaaten, die zum Zermahlen für die Erzeugung von raffiniertem Pflanzenöl bestimmt sind; die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
-<tr><td>"</td><td colspan="2">Erdnüsse und andere Ölsaaten und deren Verarbeitungserzeugnisse</td><td colspan="2">4</td><td>ausgenommen pflanzliche Rohöle, die zum Raffinieren bestimmt sind und raffinierte Pflanzenöle; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Feigen</td><td colspan="2">10</td><td>getrocknet</td></tr>
-<tr><td>"</td><td colspan="2">Getreide und Getreideerzeugnisse, einschliesslich verarbeiteter Getreideerzeugnisse</td><td colspan="2">4</td><td>übrige</td></tr>
-<tr><td>"</td><td colspan="2">Hartschalenobst</td><td colspan="2">10</td><td>übrige; die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
-<tr><td>"</td><td colspan="2">Hartschalenobst und seine Verarbeitungserzeugnisse</td><td colspan="2">4</td><td>übrige; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Haselnüsse und Paranüsse</td><td colspan="2">15</td><td>die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
-<tr><td>"</td><td colspan="2">"</td><td colspan="2">10</td><td>zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Mais</td><td colspan="2">10</td><td>der vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
-<tr><td>"</td><td colspan="2">Mandeln, Pistazien und Aprikosenkerne</td><td colspan="2">15</td><td>die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
-<tr><td>"</td><td colspan="2">"</td><td colspan="2">10</td><td>zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Paprika und Chilipulver, Pfeffer, Muskatnuss, Ingwer, Kurkuma</td><td colspan="2">10</td><td>einschliesslich Gewürzmischungen, die eine oder mehrere der oben genannten Gewürzsorten enthalten; getrocknete Früchte, ganz oder gemahlen, von Paprika und Chilipulver aus *Capsicum* spp., einschliesslich Cayennepfeffer</td></tr>
-<tr><td>"</td><td colspan="2">Reis</td><td colspan="2">10</td><td>der vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
-<tr><td>"</td><td colspan="2">Trockenobst</td><td colspan="2">10</td><td>ausgenommen getrocknete Feigen; das vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
-<tr><td>"</td><td colspan="2">Trockenobst und seine Verarbeitungserzeugnisse</td><td colspan="2">4</td><td>ausgenommen getrocknete Feigen und ihre Verarbeitungserzeugnisse; die zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt sind</td></tr>
-<tr><td>Aflatoxin M<sub>1</sub></td><td colspan="2">Diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td colspan="2">0,025</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Milch</td><td colspan="2">0,05</td><td>Rohmilch, wärmebehandelte Milch und Milch zur weiteren Verarbeitung</td></tr>
-<tr><td>"</td><td colspan="2">Säuglingsanfangsnahrung und Folgenahrung</td><td colspan="2">0,025</td><td>auch Säuglingsmilchnahrung und Folgemilch</td></tr>
-<tr><td>Deoxynivalenol</td><td colspan="2">Brot, einschliesslich Kleingebäck, feine Backwaren, Kekse, Getreide-Snacks und Frühstückscerealien</td><td colspan="2">500</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Getreide, unverarbeitet</td><td colspan="2">1250</td><td>ausgenommen Hartweizen, Hafer und Mais</td></tr>
-<tr><td>"</td><td colspan="2">Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">200</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Hafer, unverarbeitet</td><td colspan="2">1750</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Hartweizen, unverarbeitet</td><td colspan="2">1750</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Mais, unverarbeitet</td><td colspan="2">1750</td><td>ausgenommen unverarbeiteter Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist</td></tr>
-<tr><td>"</td><td colspan="2">Maismahlerzeugnis als Grobgriess, Feingriess oder Pellets</td><td colspan="2">750</td><td>mit einer Partikelgrösse &gt; 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
-<tr><td>"</td><td colspan="2">Maismehl und durch Aufblähen oder Rösten hergestelltes Maismahlerzeugnis</td><td colspan="2">1250</td><td>mit einer Partikelgrösse ≤ 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
-<tr><td>"</td><td colspan="2">Teigwaren</td><td colspan="2">750</td><td>trocken, Wassergehalt ca. 12 %</td></tr>
-<tr><td>"</td><td colspan="2">zum unmittelbaren menschlichen Verzehr bestimmtes Getreide, Getreidemehl, als Enderzeugnis für den unmittelbaren menschlichen Verzehr vermarktete Kleie und Keime</td><td colspan="2">750</td><td>ausgenommen Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td></tr>
-<tr><td>Fumonisine (Summe von B<sub>1</sub> und B<sub>2</sub>)</td><td colspan="2">Frühstückscerealien und Snacks auf Maisbasis</td><td colspan="2">800</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Getreidebeikost und andere Beikost auf Maisbasis für Säuglinge und Kleinkinder</td><td colspan="2">200</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Mais, unverarbeitet</td><td colspan="2">4000</td><td>ausgenommen unverarbeiteter Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist</td></tr>
-<tr><td>"</td><td colspan="2">Mais, zum unmittelbaren menschlichen Verzehr bestimmt</td><td colspan="2">1000</td><td>ausgenommen Frühstückscerealien und Snacks auf Maisbasis und Getreidebeikost und andere Beikost auf Maisbasis für Säuglinge und Kleinkinder; zum unmittelbaren menschlichen Verzehr bestimmte Lebensmittel auf Maisbasis</td></tr>
-<tr><td>"</td><td colspan="2">Maismahlerzeugnis als Grobgriess, Feingriess oder Pellets</td><td colspan="2">1400</td><td>mit einer Partikelgrösse &gt; 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
-<tr><td>"</td><td colspan="2">Mehl und durch Aufblähen oder Rösten hergestelltes Maismahlerzeugnis</td><td colspan="2">2000</td><td>mit einer Partikelgrösse ≤ 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
-<tr><td>Mutterkorn</td><td colspan="2">Getreide</td><td colspan="2">500 000</td><td>bei Verarbeitung zu Mehl, Probenahme 1 kg</td></tr>
-<tr><td>"</td><td colspan="2">Getreidekörner</td><td colspan="2">200 000</td><td>bei Abgabe an die Konsumentin oder den Konsumenten, Probenahme 1 kg</td></tr>
-<tr><td>Ochratoxin A</td><td colspan="2">aromatisierter Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails</td><td colspan="2">2</td><td></td></tr>
-<tr><td>"</td><td colspan="2">aus unverarbeitetem Getreide gewonnene Erzeugnisse</td><td colspan="2">3</td><td>ausgenommen diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind, Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder sowie Weizengluten; einschliesslich verarbeiteter Getreideerzeugnisse und zum unmittelbaren menschlichen Verzehr bestimmter Getreide</td></tr>
-<tr><td>"</td><td colspan="2">Diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td colspan="2">0,5</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">0,5</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Getreide, unverarbeitet</td><td colspan="2">5</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Kaffee, geröstet</td><td colspan="2">5</td><td>ausgenommen löslicher Kaffee; in Bohnen oder gemahlen</td></tr>
-<tr><td>"</td><td colspan="2">Kaffee, löslich</td><td colspan="2">10</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Paprika und Chilipulver</td><td colspan="2">20</td><td>getrocknetes Obst, ganz oder gemahlen, von Paprika und Chilipulver aus *Capsicum* spp., einschliesslich Cayennepfeffer und Paprika</td></tr>
-<tr><td>"</td><td colspan="2">Pfeffer, Muskatnuss, Ingwer, Kurkuma</td><td colspan="2">15</td><td>einschliesslich getrockneter Gewürze und Gewürzmischungen sowie Gewürzmischungen, die *Capsicum* spp. enthalten</td></tr>
-<tr><td>"</td><td colspan="2">Süssholzextrakt</td><td colspan="2">80</td><td>zur Verwendung in Lebensmitteln, bestimmten Getränken und Zuckerwaren, bezogen auf den unverdünnten Extrakt, der nach einem Verfahren hergestellt wurde, bei dem aus 3 bis 4 kg Süssholzwurzel 1 kg Extrakt gewonnen wird</td></tr>
-<tr><td>"</td><td colspan="2">Süssholzwurzel</td><td colspan="2">20</td><td>als Zutat für Kräutertees; *Glycyrrhiza glabra, Glycyrrhiza inflata* und andere Sorten</td></tr>
-<tr><td>"</td><td colspan="2">Trauben</td><td colspan="2">10</td><td>getrocknet</td></tr>
-<tr><td>"</td><td colspan="2">Traubensaft, rekonstituiertes Traubensaftkonzentrat und Traubennektar</td><td colspan="2">2</td><td>zum unmittelbaren menschlichen Verzehr bestimmter Traubenmost und zum unmittelbaren menschlichen Verzehr bestimmtes rekonstituiertes Traubenmostkonzentrat</td></tr>
-<tr><td>"</td><td colspan="2">Trockenobst</td><td colspan="2">20</td><td>übriges; bezogen auf Trockenmasse</td></tr>
-<tr><td>"</td><td colspan="2">Wein</td><td colspan="2">2</td><td>ausgenommen Likörwein (Wein mit einem Alkoholgehalt von mindestens 15 Vol.-%) und Fruchtwein; einschliesslich Schaumwein</td></tr>
-<tr><td>"</td><td colspan="2">Weizengluten</td><td colspan="2">8</td><td>das nicht unmittelbar an die Konsumentin oder den Konsumenten verkauft wird</td></tr>
-<tr><td>Patulin</td><td colspan="2">Apfelsaft und feste Apfelerzeugnisse, einschliesslich Apfelkompott und Apfelpüree, für Säuglinge und Kleinkinder</td><td colspan="2">10</td><td>die mit diesem Verwendungszweck gekennzeichnet und verkauft werden</td></tr>
-<tr><td>"</td><td colspan="2">Beikost für Säuglinge und Kleinkinder</td><td colspan="2">10</td><td>ausgenommen Getreidebeikost</td></tr>
-<tr><td>"</td><td colspan="2">feste Apfelerzeugnisse, einschliesslich Apfelkompott und Apfelpüree</td><td colspan="2">25</td><td>ausgenommen Apfelsaft und feste Apfelerzeugnisse für Säuglinge und Kleinkinder und andere Beikost als Getreidebeikost für Säuglinge und Kleinkinder; fest, für den direkten Verzehr bestimmt</td></tr>
-<tr><td>"</td><td colspan="2">Fruchtsäfte, rekonstituierte Fruchtsaftkonzentrate und Fruchtnektar</td><td colspan="2">50</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Obstwein</td><td colspan="2">50</td><td>übriger</td></tr>
-<tr><td>"</td><td colspan="2">Obstwein, alkoholfrei</td><td colspan="2">50</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Spirituosen, Apfelwein und andere aus Äpfeln gewonnene oder Apfelsaft enthaltende fermentierte Getränke</td><td colspan="2">50</td><td></td></tr>
-<tr><td>Zearalenon</td><td colspan="2">Brot, feine Backwaren, Kekse, Getreide-Snacks und Frühstückscerealien</td><td colspan="2">50</td><td>ausgenommen Mais-Snacks und Frühstückscerealien auf Maisbasis; einschliesslich Kleingebäck</td></tr>
-<tr><td>"</td><td colspan="2">Getreide, unverarbeitet</td><td colspan="2">100</td><td>ausgenommen Mais</td></tr>
-<tr><td>"</td><td colspan="2">Getreide und Getreidemehl</td><td colspan="2">75</td><td>ausgenommen für den unmittelbaren menschlichen Verzehr bestimmter Mais, Snacks und Frühstückscerealien auf Maisbasis, Getreidebeikost, ausser Getreidebeikost auf Maisbasis, und andere Beikost für Säuglinge und Kleinkinder, verarbeitete Lebensmittel auf Maisbasis für Säuglinge und Kleinkinder, Maismahlerzeugnis als Grobgriess, Feingriess oder Pellets sowie Mehl und durch Aufblähen oder Rösten hergestelltes Maismahlerzeugnis; zum unmittelbaren menschlichen Verzehr; als Enderzeugnis für den unmittelbaren menschlichen Verzehr vermarktete Kleie und Keime,</td></tr>
-<tr><td>"</td><td colspan="2">Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">20</td><td>ausgenommen Getreidebeikost auf Maisbasis</td></tr>
-<tr><td>"</td><td colspan="2">Lebensmittel auf Maisbasis für Säuglinge und Kleinkinder, verarbeitet</td><td colspan="2">20</td><td></td></tr>
-<tr><td>"</td><td colspan="2">Mais, Snacks und Frühstückscerealien auf Maisbasis</td><td colspan="2">100</td><td>zum unmittelbaren menschlichen Verzehr</td></tr>
-<tr><td>"</td><td colspan="2">Mais, unverarbeitet</td><td colspan="2">350</td><td>ausgenommen unverarbeiteter Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist</td></tr>
-<tr><td>"</td><td colspan="2">Maismahlerzeugnis als Grobgriess, Feingriess oder Pellets</td><td colspan="2">200</td><td>mit einer Partikelgrösse &gt; 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
-<tr><td>"</td><td colspan="2">Maisöl</td><td colspan="2">400</td><td>raffiniert</td></tr>
-<tr><td>"</td><td colspan="2">Mehl und durch Aufblähen oder Rösten hergestelltes Maismahlerzeugnis</td><td colspan="2">300</td><td>mit einer Partikelgrösse ≤ 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
+<tr><th>1</th><th>2</th><th colspan="2">3</th><th>4</th></tr>
+<tr><th>Stoff</th><th>Lebensmittel</th><th colspan="2">Höchstgehalt</th><th>Bemerkungen</th></tr>
+<tr><td>Aflatoxin B<sub>1</sub></td><td>Diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td colspan="2">0,1 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Erdnüsse und andere Ölsaaten</td><td colspan="2">8 µg/kg</td><td>ausgenommen Erdnüsse und andere Ölsaaten, die zum Zermahlen für die Erzeugung von raffiniertem Pflanzenöl bestimmt sind; die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>Erdnüsse und andere Ölsaaten und deren Verarbeitungserzeugnisse</td><td colspan="2">2 µg/kg</td><td>ausgenommen pflanzliche Rohöle, die zum Raffinieren bestimmt sind, und raffinierte Pflanzenöle; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
+<tr><td>"</td><td>Feigen</td><td colspan="2">6 µg/kg</td><td>getrocknet</td></tr>
+<tr><td>"</td><td>Getreide und Getreideerzeugnisse, einschliesslich verarbeiteter Getreideerzeugnisse</td><td colspan="2">2 µg/kg</td><td>übrige</td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">0,1 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Hartschalenobst</td><td colspan="2">5 µg/kg</td><td>übrige; die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>Hartschalenobst und seine Verarbeitungserzeugnisse</td><td colspan="2">2 µg/kg</td><td>übrige; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
+<tr><td>"</td><td>Haselnüsse und Paranüsse</td><td colspan="2">8 µg/kg</td><td>die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">5 µg/kg</td><td>zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
+<tr><td>"</td><td>Mais</td><td colspan="2">5 µg/kg</td><td>der vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
+<tr><td>"</td><td>Mandeln, Pistazien und Aprikosenkerne</td><td colspan="2">12 µg/kg</td><td>die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">8 µg/kg</td><td>zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
+<tr><td>"</td><td>Paprika und Chilipulver, Pfeffer, Muskatnuss, Ingwer, Kurkuma</td><td colspan="2">5 µg/kg</td><td>einschliesslich Gewürzmischungen, die eine oder mehrere der oben genannten Gewürzsorten enthalten; getrocknete Früchte, ganz oder gemahlen, von Paprika und Chilipulver aus *Capsicum* spp., einschliesslich Cayennepfeffer</td></tr>
+<tr><td>"</td><td>Reis</td><td colspan="2">5 µg/kg</td><td>der vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
+<tr><td>"</td><td>Trockenobst</td><td colspan="2">5 µg/kg</td><td>ausgenommen getrocknete Feigen; das vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
+<tr><td>"</td><td>Trockenobst und seine Verarbeitungserzeugnisse</td><td colspan="2">2 µg/kg</td><td>ausgenommen getrocknete Feigen und ihre Verarbeitungserzeugnisse; die zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt sind</td></tr>
+<tr><td>Aflatoxine (Summe von B<sub>1</sub>, B<sub>2</sub>, G<sub>1</sub> und G<sub>2</sub>)</td><td>Erdnüsse und andere Ölsaaten</td><td colspan="2">15 µg/kg</td><td>ausgenommen Erdnüsse und andere Ölsaaten, die zum Zermahlen für die Erzeugung von raffiniertem Pflanzenöl bestimmt sind; die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>Erdnüsse und andere Ölsaaten und deren Verarbeitungserzeugnisse</td><td colspan="2">4 µg/kg</td><td>ausgenommen pflanzliche Rohöle, die zum Raffinieren bestimmt sind und raffinierte Pflanzenöle; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
+<tr><td>"</td><td>Feigen</td><td colspan="2">10 µg/kg</td><td>getrocknet</td></tr>
+<tr><td>"</td><td>Getreide und Getreideerzeugnisse, einschliesslich verarbeiteter Getreideerzeugnisse</td><td colspan="2">4 µg/kg</td><td>übrige</td></tr>
+<tr><td>"</td><td>Hartschalenobst</td><td colspan="2">10 µg/kg</td><td>übrige; die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>Hartschalenobst und seine Verarbeitungserzeugnisse</td><td colspan="2">4 µg/kg</td><td>übrige; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
+<tr><td>"</td><td>Haselnüsse und Paranüsse</td><td colspan="2">15 µg/kg</td><td>die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">10 µg/kg</td><td>zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
+<tr><td>"</td><td>Mais</td><td colspan="2">10 µg/kg</td><td>der vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
+<tr><td>"</td><td>Mandeln, Pistazien und Aprikosenkerne</td><td colspan="2">15 µg/kg</td><td>die vor ihrem Verzehr oder ihrer Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">10 µg/kg</td><td>zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt</td></tr>
+<tr><td>"</td><td>Paprika und Chilipulver, Pfeffer, Muskatnuss, Ingwer, Kurkuma</td><td colspan="2">10 µg/kg</td><td>einschliesslich Gewürzmischungen, die eine oder mehrere der oben genannten Gewürzsorten enthalten; getrocknete Früchte, ganz oder gemahlen, von Paprika und Chilipulver aus *Capsicum* spp., einschliesslich Cayennepfeffer</td></tr>
+<tr><td>"</td><td>Reis</td><td colspan="2">10 µg/kg</td><td>der vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
+<tr><td>"</td><td>Trockenobst</td><td colspan="2">10 µg/kg</td><td>ausgenommen getrocknete Feigen; das vor seinem Verzehr oder seiner Verwendung als Lebensmittelzutat einer Sortierung oder einer anderen physikalischen Behandlung unterzogen werden soll</td></tr>
+<tr><td>"</td><td>Trockenobst und seine Verarbeitungserzeugnisse</td><td colspan="2">4 µg/kg</td><td>ausgenommen getrocknete Feigen und ihre Verarbeitungserzeugnisse; die zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt sind</td></tr>
+<tr><td>Aflatoxin M<sub>1</sub></td><td>Diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td colspan="2">0,025 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Milch</td><td colspan="2">0,05 µg/kg</td><td>Rohmilch, wärmebehandelte Milch und Milch zur weiteren Verarbeitung</td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td colspan="2">0,025 µg/kg</td><td>auch Säuglingsmilchnahrung und Folgemilch</td></tr>
+<tr><td>Deoxynivalenol</td><td>Brot, einschliesslich Kleingebäck, feine Backwaren, Kekse, Getreide-Snacks und Frühstückscerealien</td><td colspan="2">500 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Getreide, unverarbeitet</td><td colspan="2">1250 µg/kg</td><td>ausgenommen Hartweizen, Hafer und Mais</td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">200 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Hafer, unverarbeitet</td><td colspan="2">1750 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Hartweizen, unverarbeitet</td><td colspan="2">1750 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Mais, unverarbeitet</td><td colspan="2">1750 µg/kg</td><td>ausgenommen unverarbeiteter Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist</td></tr>
+<tr><td>"</td><td>Maismahlerzeugnis als Grobgriess, Feingriess oder Pellets</td><td colspan="2">750 µg/kg</td><td>mit einer Partikelgrösse &gt; 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
+<tr><td>"</td><td>Maismehl und durch Aufblähen oder Rösten hergestelltes Maismahlerzeugnis</td><td colspan="2">1250 µg/kg</td><td>mit einer Partikelgrösse ≤ 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
+<tr><td>"</td><td>Teigwaren</td><td colspan="2">750 µg/kg</td><td>trocken, Wassergehalt ca. 12 %</td></tr>
+<tr><td>"</td><td>zum unmittelbaren menschlichen Verzehr bestimmtes Getreide, Getreidemehl, als Enderzeugnis für den unmittelbaren menschlichen Verzehr vermarktete Kleie und Keime</td><td colspan="2">750 µg/kg</td><td>ausgenommen Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td></tr>
+<tr><td>Ergotalkaloide</td><td>Mahlerzeugnisse aus Gerste, Weizen, Dinkel und Hafer</td><td>100 µg/kg</td><td colspan="2">mit einem Aschegehalt &lt; 900 mg/100 g</td></tr>
+<tr><td>"</td><td>Mahlerzeugnisse aus Gerste, Weizen, Dinkel und Hafer</td><td>150 µg/kg</td><td colspan="2">mit einem Aschegehalt ≥ 900 mg/100 g</td></tr>
+<tr><td>"</td><td>Gerste, Weizen, Dinkel und Hafer</td><td>150 µg/kg</td><td colspan="2">Körner, die für Konsumentinnen und Konsumenten bestimmt sind</td></tr>
+<tr><td>"</td><td>Mahlerzeugnisse aus Roggen</td><td>500 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Roggen</td><td>500 µg/kg</td><td colspan="2">für Konsumentinnen und Konsumenten bestimmt</td></tr>
+<tr><td>"</td><td>Getreidebeikost für Säuglinge und Kleinkinder</td><td>20 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Weizengluten</td><td>400 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>Fumonisine (Summe von B<sub>1</sub> und B<sub>2</sub>)</td><td>Frühstückscerealien und Snacks auf Maisbasis</td><td colspan="2">800 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost auf Maisbasis für Säuglinge und Kleinkinder</td><td colspan="2">200 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Mais, unverarbeitet</td><td colspan="2">4000 µg/kg</td><td>ausgenommen unverarbeiteter Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist</td></tr>
+<tr><td>"</td><td>Mais, zum unmittelbaren menschlichen Verzehr bestimmt</td><td colspan="2">1000 µg/kg</td><td>ausgenommen Frühstückscerealien und Snacks auf Maisbasis und Getreidebeikost und andere Beikost auf Maisbasis für Säuglinge und Kleinkinder; zum unmittelbaren menschlichen Verzehr bestimmte Lebensmittel auf Maisbasis</td></tr>
+<tr><td>"</td><td>Maismahlerzeugnis als Grobgriess, Feingriess oder Pellets</td><td colspan="2">1400 µg/kg</td><td>mit einer Partikelgrösse &gt; 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
+<tr><td>"</td><td>Mehl und durch Aufblähen oder Rösten hergestelltes Maismahlerzeugnis</td><td colspan="2">2000 µg/kg</td><td>mit einer Partikelgrösse ≤ 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
+<tr><td>Mutterkorn-Sklerotien</td><td>Getreide</td><td colspan="2">0,2 g/kg</td><td>unverarbeitet; ausgenommen Mais, Reis und Roggen</td></tr>
+<tr><td>"</td><td>Roggen</td><td colspan="2">0,5 g/kg</td><td>unverarbeitet</td></tr>
+<tr><td>Ochratoxin A</td><td>alkoholfreie Malzgetränke</td><td>3 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>aromatisierter Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails</td><td>2 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>aus unverarbeitetem Getreide gewonnene Erzeugnisse</td><td>3 µg/kg</td><td colspan="2">ausgenommen alkoholfreie Malzgetränke, Backwaren, Getreide-Snacks und Frühstückscerealien, diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind, Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder sowie Weizengluten; einschliesslich verarbeiteter Getreideerzeugnisse und zum unmittelbaren menschlichen Verzehr bestimmtes Getreide</td></tr>
+<tr><td>"</td><td>Backwaren, Getreide-Snacks und Frühstücks-cerealien, die keine Ölsaaten, Nüsse oder Trockenobst enthalten</td><td>2 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Backwaren, Getreide-Snacks und Frühstücks-cerealien, die mindestens 20 % getrocknete Trauben oder getrocknete Feigen enthalten</td><td>4 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Backwaren, Getreide-Snacks und Frühstücks-cerealien, die Ölsaaten, Nüsse oder Trockenobst enthalten</td><td>3 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Dattelsirup</td><td>15 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td>0,5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Feigen</td><td>8 µg/kg</td><td colspan="2">getrocknet</td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td>0,5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Getreide, unverarbeitet</td><td>5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Gewürze und Gewürzmischungen</td><td>15 µg/kg</td><td colspan="2">ausgenommen Paprika und Chilipulver aus *Capsicum* spp., Cayennepfeffer und Paprika; einschliesslich getrockneter Gewürze</td></tr>
+<tr><td>"</td><td>Eibischwurzeln, Löwezahnwurzeln und Orangenblüten</td><td>20 µg/kg</td><td colspan="2">zur Verwendung in Kräutertees oder in Kaffeeersatz</td></tr>
+<tr><td>"</td><td>Hanfsamen</td><td>5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Ingwerwurzeln</td><td>15 µg/kg</td><td colspan="2">zur Verwendung in Kräutertees</td></tr>
+<tr><td>"</td><td>Kaffee, geröstet</td><td>3 µg/kg</td><td colspan="2">ausgenommen löslicher Kaffee; in Bohnen oder gemahlen</td></tr>
+<tr><td>"</td><td>Kaffee, löslich</td><td>5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kakaopulver</td><td>3 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kräuter</td><td>10 µg/kg</td><td colspan="2">getrocknet</td></tr>
+<tr><td>"</td><td>Kürbiskerne</td><td>5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Lakritzwaren</td><td>10 µg/kg</td><td colspan="2">übrige</td></tr>
+<tr><td>"</td><td>Lakritzwaren</td><td>50 µg/kg</td><td colspan="2">mit ≥ 97 % Süssholzextrakt bezogen auf die Trockenmasse</td></tr>
+<tr><td>"</td><td>(Wasser-)Melonenkerne</td><td>5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Paprika und Chilipulver</td><td>20 µg/kg</td><td colspan="2">getrocknetes Obst, ganz oder gemahlen, von Paprika und Chilipulver aus *Capsicum* spp.; einschliesslich Cayennepfeffer und Paprika</td></tr>
+<tr><td>"</td><td>Pistazien</td><td>10 µg/kg</td><td colspan="2">die vor dem unmittelbaren Verzehr oder ihrer Verwendung als Lebensmittelzutat noch einer Sortierung und anderen physikalischen Behandlung unterzogen werden sollen</td></tr>
+<tr><td>"</td><td>Pistazien</td><td>5 µg/kg</td><td colspan="2">für den unmittelbaren Verzehr oder zur Verwendung als Zutat</td></tr>
+<tr><td>"</td><td>Sojabohnen</td><td>5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Sonnenblumenkerne</td><td>5 µg/kg</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Süssholzextrakt</td><td>80 µg/kg</td><td colspan="2">zur Verwendung in Lebensmitteln, insbesondere Getränken und Zuckerwaren; bezogen auf den unverdünnten Extrakt, der nach einem Verfahren hergestellt wurde, bei dem aus 3 bis 4 kg Süssholzwurzel 1 kg Extrakt gewonnen wird</td></tr>
+<tr><td>"</td><td>Süssholzwurzel</td><td>20 µg/kg</td><td colspan="2">als Zutat für Kräutertees; *Glycyrrhiza glabra*, *Glycyrrhiza inflata* und andere Sorten</td></tr>
+<tr><td>"</td><td>Traubensaft, rekonstituiertes Traubensaftkonzentrat und Traubennektar</td><td>2 µg/kg</td><td colspan="2">zum unmittelbaren menschlichen Verzehr bestimmter Traubenmost und zum unmittelbaren menschlichen Verzehr bestimmtes rekonstituiertes Traubenmostkonzentrat</td></tr>
+<tr><td>"</td><td>Trockenobst</td><td>2 µg/kg</td><td colspan="2">übriges</td></tr>
+<tr><td>"</td><td>Wein</td><td>2 µg/kg</td><td colspan="2">ausgenommen Likörwein (Wein mit einem Alkoholgehalt von mindestens 15 Vol. %) und Fruchtwein; einschliesslich Schaumwein</td></tr>
+<tr><td>"</td><td>Weintrauben (Korinthen, Rosinen und Sultaninen)</td><td>8 µg/kg</td><td colspan="2">getrocknet</td></tr>
+<tr><td>"</td><td>Weizengluten</td><td>8 µg/kg</td><td colspan="2">das nicht unmittelbar an die Konsumentin oder den Konsumenten abgegeben wird</td></tr>
+<tr><td>Patulin</td><td>Apfelsaft und feste Apfelerzeugnisse, einschliesslich Apfelkompott und Apfelpüree, für Säuglinge und Kleinkinder</td><td colspan="2">10 µg/kg</td><td>die mit diesem Verwendungszweck gekennzeichnet und verkauft werden</td></tr>
+<tr><td>"</td><td>Beikost für Säuglinge und Kleinkinder</td><td colspan="2">10 µg/kg</td><td>ausgenommen Getreidebeikost</td></tr>
+<tr><td>"</td><td>feste Apfelerzeugnisse, einschliesslich Apfelkompott und Apfelpüree</td><td colspan="2">25 µg/kg</td><td>ausgenommen Apfelsaft und feste Apfelerzeugnisse für Säuglinge und Kleinkinder und andere Beikost als Getreidebeikost für Säuglinge und Kleinkinder; fest, für den direkten Verzehr bestimmt</td></tr>
+<tr><td>"</td><td>Fruchtsäfte, rekonstituierte Fruchtsaftkonzentrate und Fruchtnektar</td><td colspan="2">50 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Obstwein</td><td colspan="2">50 µg/kg</td><td>übriger</td></tr>
+<tr><td>"</td><td>Obstwein, alkoholfrei</td><td colspan="2">50 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Spirituosen, Apfelwein und andere aus Äpfeln gewonnene oder Apfelsaft enthaltende fermentierte Getränke</td><td colspan="2">50 µg/kg</td><td></td></tr>
+<tr><td>Zearalenon</td><td>Brot, feine Backwaren, Kekse, Getreide-Snacks und Frühstückscerealien</td><td colspan="2">50 µg/kg</td><td>ausgenommen Mais-Snacks und Frühstückscerealien auf Maisbasis; einschliesslich Kleingebäck</td></tr>
+<tr><td>"</td><td>Getreide, unverarbeitet</td><td colspan="2">100 µg/kg</td><td>ausgenommen Mais</td></tr>
+<tr><td>"</td><td>Getreide und Getreidemehl</td><td colspan="2">75 µg/kg</td><td>zum unmittelbaren menschlichen Verzehr; einschliesslich als Enderzeugnis für den unmittelbaren menschlichen Verzehr vermarktete Kleie und Keime; ausgenommen für den unmittelbaren menschlichen Verzehr bestimmter Mais, Snacks und Frühstückscerealien auf Maisbasis, Getreidebeikost, ausser Getreidebeikost auf Maisbasis, und andere Beikost für Säuglinge und Kleinkinder, verarbeitete Lebensmittel auf Maisbasis für Säuglinge und Kleinkinder, Maismahlerzeugnis als Grobgriess, Feingriess oder Pellets sowie Mehl und durch Aufblähen oder Rösten hergestelltes Maismahlerzeugnis</td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">20 µg/kg</td><td>ausgenommen Getreidebeikost auf Maisbasis</td></tr>
+<tr><td>"</td><td>Lebensmittel auf Maisbasis für Säuglinge und Kleinkinder, verarbeitet</td><td colspan="2">20 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Mais, Snacks und Frühstückscerealien auf Maisbasis</td><td colspan="2">100 µg/kg</td><td>zum unmittelbaren menschlichen Verzehr</td></tr>
+<tr><td>"</td><td>Mais, unverarbeitet</td><td colspan="2">350 µg/kg</td><td>ausgenommen unverarbeiteter Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist</td></tr>
+<tr><td>"</td><td>Maismahlerzeugnis als Grobgriess, Feingriess oder Pellets</td><td colspan="2">200 µg/kg</td><td>mit einer Partikelgrösse &gt; 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
+<tr><td>"</td><td>Maisöl</td><td colspan="2">400 µg/kg</td><td>raffiniert</td></tr>
+<tr><td>"</td><td>Mehl und durch Aufblähen oder Rösten hergestelltes Maismahlerzeugnis</td><td colspan="2">300 µg/kg</td><td>mit einer Partikelgrösse ≤ 500 Mikrometer, die nicht zum unmittelbaren menschlichen Verzehr bestimmt sind</td></tr>
 </table>
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-3]
 
 (Art. 2 Abs. 3 Bst. c, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
 
 ## Höchstgehalte für Metalle und Metalloide
 
-[^t-2]: Bereinigt gemäss Ziff. II und III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-3]: Bereinigt gemäss Ziff. II und III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) und vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### Teil A: Erläuterungen
 
@@ -385,7 +456,7 @@ Anhang 3*[^t-2]*
 
 2 Bei Säuglingsanfangsnahrung und Folgenahrung, auch Säuglingsmilchnahrung und Folgemilch, sowie bei Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder beziehen sich die Höchstgehalte auf das im Handel erhältliche Erzeugnis.
 
-3 Die Höchstgehalte gelten für die gut gewaschenen oder gereinigten (Staub, Erde) Erzeugnisse.
+3 Die Höchstgehalte für Obst und Gemüse geltend für die geniessbaren Teile nach dem Waschen.
 
 4 Die Höchstgehalte gelten für geschälte Kartoffeln.
 
@@ -395,144 +466,217 @@ Anhang 3*[^t-2]*
 
 7 Die Höchstgehalte für Getreide gelten für die Körner.
 
+8 Bei Obst, Gemüse und Getreide wird Bezug genommen auf die in der jeweiligen Kategorie aufgeführten Erzeugnisse gemäss der Definition nach Anhang 1 VPRH[^annex3-lvlu1-partA-1]. Der Höchstgehalt für Obst gilt nicht für Hartschalenobst.
+
+[^annex3-lvlu1-partA-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+
 ### Teil B: Tabelle
 
 <table>
-<tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
-<tr><th>Stoff</th><th>Lebensmittel</th><th>Höchstgehalt (mg/kg)</th><th>Bemerkungen</th></tr>
-<tr><td>Arsen (anorganisch)</td><td>alkoholfreie Getränke</td><td>0,1</td><td colspan="2">übrige</td></tr>
-<tr><td>"</td><td>Braunalge *Sargassum fusiforme (Hizikia fusiformis)*</td><td>35</td><td colspan="2">bezogen auf Trockenmasse</td></tr>
-<tr><td>"</td><td>Fruchtsäfte, verdünnte Fruchtsäfte, Fruchtnektare und Fruchtsirupe</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Gelatine</td><td>1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Kollagen</td><td>1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Margarine</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Minarine</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Obstwein, alkoholfrei</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Reis, geschliffen, nicht parboiled (polierter oder weisser Reis)</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Reis, parboiled und geschält</td><td>0,25</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Reiskekse, Reiswaffeln, Reiskräcker und Reiskuchen</td><td>0,3</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Reis für die Herstellung von Lebensmitteln für Säuglinge und Kleinkinder</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Speisefette und Speiseöle</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Speisesalz</td><td>1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Wein</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Wermut und Bitter, alkoholfrei</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>Blei</td><td>alkoholfreie Getränke</td><td>0,2</td><td colspan="2">übrige</td></tr>
-<tr><td>"</td><td>aromatisierter Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails</td><td>0,2</td><td colspan="2">aus der Weinlese von 2001 bis 2015</td></tr>
-<tr><td>"</td><td>aromatisierter Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails</td><td>0,15</td><td colspan="2">aus der Weinlese ab 2016</td></tr>
-<tr><td>"</td><td>Blattkohle</td><td>0,3</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Blattgemüse</td><td>0,3</td><td colspan="2">ausgenommen frische Kräuter</td></tr>
-<tr><td>"</td><td>Cranbeeren</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Erdbeerbaumfrüchte</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Fleisch von Rindern, Schafen, Schweinen und Geflügel</td><td>0,1</td><td colspan="2">ausgenommen Nebenprodukte der Schlachtung</td></tr>
-<tr><td>"</td><td>Fruchtgemüse</td><td>0,05</td><td colspan="2">ausgenommen Zuckermais</td></tr>
-<tr><td>"</td><td>Fruchtsäfte, rekonstituiertes Fruchtsaftkonzentrat und Fruchtnektare, ausschliesslich aus Beeren und anderem Kleinobst</td><td>0,05</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Fruchtsäfte, rekonstituiertes Fruchtsaftkonzentrat und Fruchtnektare</td><td>0,03</td><td colspan="2">übrige</td></tr>
-<tr><td>"</td><td>Gärungsessig</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Gelatine und Kollagen</td><td>5</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Gemüse</td><td>0,1</td><td colspan="2">übriges, ausgenommen Algen</td></tr>
-<tr><td>"</td><td>Getränke für Säuglinge und Kleinkinder, die mit diesem Verwendungszweck gekennzeichnet und verkauft werden</td><td>1,5</td><td colspan="2">übrige; Zubereitung durch Aufgiessen oder Abkochen</td></tr>
-<tr><td>"</td><td>"</td><td>0,03</td><td colspan="2">übrige; einschliesslich Fruchtsäfte; vermarktet als Flüssigkeit oder Rückgewinnung nach den Anweisungen des Herstellers</td></tr>
-<tr><td>"</td><td>Getreide</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td>0,05</td><td colspan="2">ausgenommen Getränke</td></tr>
-<tr><td>"</td><td>Holunderbeeren</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Honig</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Hülsenfrüchte</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Johannisbeeren</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Judasohren (*Auricularia auricula-judae*)</td><td>10</td><td colspan="2">bezogen auf Trockenmasse; aus offener Zucht</td></tr>
-<tr><td>"</td><td>Kopffüsser</td><td>0,3</td><td colspan="2">ohne Eingeweide</td></tr>
-<tr><td>"</td><td>Krebstiere</td><td>0,5</td><td colspan="2">Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
-<tr><td>"</td><td>Lebensmittel für besondere medizinische Zwecke, die speziell für Säuglinge und Kleinkinder bestimmt sind</td><td>0,05</td><td colspan="2">vermarktet als Pulver</td></tr>
-<tr><td>"</td><td>"</td><td>0,01</td><td colspan="2">vermarktet als Flüssigkeit</td></tr>
-<tr><td>"</td><td>Muscheln</td><td>1,5</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Muskelfleisch von Fischen</td><td>0,3</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Nahrungsergänzungsmittel</td><td>3</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Nebenprodukte der Schlachtung von Rindern, Schafen, Schweinen und Geflügel</td><td>0,5</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Obst</td><td>0,1</td><td colspan="2">ausgenommen Hartschalenobst, Cranbeeren, Johannisbeeren, Holunderbeeren und Erdbeerbaumfrüchte</td></tr>
-<tr><td>"</td><td>Rohmilch, wärmebehandelte Milch und Milch zur weiteren Verarbeitung</td><td>0,02</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td>0,05</td><td colspan="2">vermarktet als Pulver</td></tr>
-<tr><td>"</td><td>"</td><td>0,01</td><td colspan="2">vermarktet als Flüssigkeit</td></tr>
-<tr><td>"</td><td>Schwarzwurzel</td><td>0,3</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Speisefette und Speiseöle</td><td>0,1</td><td colspan="2">einschliesslich Milchfett</td></tr>
-<tr><td>"</td><td>Speisesalz</td><td>2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Wein, Obst- und Fruchtwein</td><td>0,2</td><td colspan="2">aus der Weinlese von 2001 bis 2015</td></tr>
-<tr><td>"</td><td>"</td><td>0,15</td><td colspan="2">aus der Weinlese ab 2016</td></tr>
-<tr><td>"</td><td>Zuchtchampignons, Austernseitling, Shiitake</td><td>0,3</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Zuckermais</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>Cadmium</td><td>Algen</td><td>3</td><td colspan="2">bezogen auf Trockenmasse</td></tr>
-<tr><td>"</td><td>alkoholfreie Getränke</td><td>0,01</td><td colspan="2">übrige</td></tr>
-<tr><td>"</td><td>Blattgemüse und frische Kräuter, Blattkohle, Knollensellerie, Pastinake, Schwarzwurzel, Meerrettich, Zuchtchampignons, Austernseitlinge, Shiitake</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Erdnüsse</td><td>0,5</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Fleisch von Rindern, Schafen, Schweinen und Geflügel</td><td>0,05</td><td colspan="2">ausgenommen Nebenprodukte der Schlachtung</td></tr>
-<tr><td>"</td><td>Fruchtsäfte, verdünnte Fruchtsäfte, Fruchtnektare und Fruchtsirupe</td><td>0,03</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Gärungsessig und Essigsäure zu Speisezwecken</td><td>0,02</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Gelatine und Kollagen</td><td>0,5</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Gemüse und Obst</td><td>0,05</td><td colspan="2">übrige, ausgenommen Hartschalenobst</td></tr>
-<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td>0,04</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Getreidekörner</td><td>0,1</td><td colspan="2">ausgenommen Weizen und Reis</td></tr>
-<tr><td>"</td><td>Kakaopulver (100 % Gesamtkakaotrockenmasse)</td><td>0,6</td><td colspan="2">für die Konsumentinnen und Konsumenten bestimmt oder als Zutat in gesüsstem Kakaopulver (Schokoladepulver), das für Konsumentinnen und Konsumenten bestimmt ist.</td></tr>
-<tr><td>"</td><td>Kopffüsser</td><td>1</td><td colspan="2">ohne Eingeweide</td></tr>
-<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (*Brachyura und Anomura*)</td><td>0,5</td><td colspan="2">Muskelfleisch der Extremitäten</td></tr>
-<tr><td>"</td><td>Krebstiere</td><td>0,5</td><td colspan="2">Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
-<tr><td>"</td><td>Leber von Rindern, Schafen, Schweinen, Geflügel und Pferden</td><td>0,5</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Mikroalgen</td><td>0,5</td><td colspan="2">bezogen auf die Trockenmasse, ausgenommen Mikroalgen zu Nahrungsergänzungsmittelzwecken</td></tr>
-<tr><td>"</td><td>Muscheln</td><td>1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Muskelfleisch der folgenden Fischart: Unechter Bonito (*Auxis species*)</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Muskelfleisch der folgenden Fischarten: Bichique (*Sicyopterus lagocephalus*) Makrele (*Scomber species*) Thunfische (*Thunnus species Euthynnus species, Katsuwonus pelamis*)</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Muskelfleisch der folgenden Fischarten: Sardelle (Art *Engraulis*) Schwertfisch (*Xiphias gladius*) Sardine (*Sardina pilchardus*)</td><td>0,25</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Muskelfleisch von Fischen</td><td>0,05</td><td colspan="2">übrige</td></tr>
-<tr><td>"</td><td>Nahrungsergänzungsmittel</td><td>1</td><td colspan="2">ausgenommen Nahrungsergänzungsmittel, die ausschliesslich oder vorwiegend aus getrockneten marinen Algen oder aus Erzeugnissen bestehen, die aus marinen Algen gewonnen wurden, oder die aus getrockneten Muscheln bestehen</td></tr>
-<tr><td>"</td><td>Nahrungsergänzungsmittel, die ausschliesslich oder vorwiegend aus getrockneten marinen Algen oder aus Erzeugnissen bestehen, die aus marinen Algen gewonnen wurden, oder die aus getrockneten Muscheln bestehen</td><td>3</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Niere von Rindern, Schafen, Schweinen, Geflügel und Pferden</td><td>1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Obstwein, alkoholfrei</td><td>0,03</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Ölsaaten</td><td>1,5</td><td colspan="2">ausgenommen Ölsaaten zur Gewinnung von Speiseölen</td></tr>
-<tr><td>"</td><td>Pferdefleisch</td><td>0,2</td><td colspan="2">ausgenommen Nebenprodukte der Schlachtung</td></tr>
-<tr><td>"</td><td>Pilze</td><td>1</td><td colspan="2">ausgenommen Zuchtchampignons, Austernseitlinge, Shiitake</td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung, die aus Kuhmilchproteinen oder Proteinhydrolysaten hergestellt wird</td><td>0,01</td><td colspan="2">in Pulverform</td></tr>
-<tr><td>"</td><td>"</td><td>0,005</td><td colspan="2">flüssig</td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung, die nur aus Sojaproteinisolaten oder gemischt mit Kuhmilchproteinen hergestellt wird</td><td>0,02</td><td colspan="2">in Pulverform</td></tr>
-<tr><td>"</td><td>"</td><td>0,01</td><td colspan="2">flüssig</td></tr>
-<tr><td>"</td><td>Schokolade (Milchschokolade) mit &lt; 30 % Gesamtkakao-trockenmasse</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Schokolade mit ≥ 30 % und &lt; 50 % Gesamtkakaotrockenmasse</td><td>0,3</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Schokolade mit ≥ 50 % und &lt; 70 % Gesamtkakaotrockenmasse</td><td>0,8</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Schokolade mit ≥ 70 % Gesamtkakaotrockenmasse</td><td>0,9</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Sojabohnen</td><td>0,2</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Speisesalz</td><td>0,5</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Stängelgemüse, Wurzel- und Knollengemüse</td><td>0,1</td><td colspan="2">ausgenommen Stangensellerie, Knollensellerie, Pastinake, Schwarzwurzel und Meerrettich</td></tr>
-<tr><td>"</td><td>Wein</td><td>0,01</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Weizenkörner, Reiskörner, Weizenkleie und Weizenkeime</td><td>0,2</td><td colspan="2">zum direkten Verzehr</td></tr>
-<tr><td>"</td><td>Wermut und Bitter, alkoholfrei</td><td>0,03</td><td colspan="2"></td></tr>
-<tr><td>Chrom</td><td>Gelatine</td><td>10</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Kollagen</td><td>10</td><td colspan="2"></td></tr>
-<tr><td>Kupfer</td><td>Gelatine</td><td>30</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Kollagen</td><td>30</td><td colspan="2"></td></tr>
-<tr><td>Quecksilber</td><td>alkoholfreie Getränke</td><td>0,005</td><td colspan="2">übrige</td></tr>
-<tr><td>"</td><td>Fischereierzeugnisse und Muskelfleisch von Fischen</td><td>0,5</td><td colspan="2">übrige</td></tr>
-<tr><td>"</td><td>Fruchtsäfte, verdünnte Fruchtsäfte, Fruchtnektare und Fruchtsirupe</td><td>0,01</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Gelatine und Kollagen</td><td>0,15</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (Brachyura und Anomura)</td><td>0,5</td><td colspan="2">Höchstgehalt gilt für das Muskelfleisch der Extremitäten</td></tr>
-<tr><td>"</td><td>Krebstiere</td><td>0,5</td><td colspan="2">Höchstgehalt gilt für das Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
-<tr><td>"</td><td>Muscheln</td><td>0,5</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Muskelfleisch der folgenden Fischarten: Seeteufel (*Lophius species*) Seewolf (*Anarhichas lupus*) Bonito (*Sarda sarda*) Aal (*Anguilla species*) Kaiserbarsch, Granatbarsch (*Hoplostethus species*) Grenadierfisch (*Coryphaenoides rupestris*) Heilbutt (*Hippoglossus hippoglossus*) Kingklip (*Genypterus capensis*) Marlin (*Makaira species*) Scheefschnut (*Lepidorhombus species*) Meerbarbe (*Mullus species*) Rosa Kingklip (*Genypterus blacodes*) Hecht (*Esox lucius*) Einfarb-Pelamide (*Orcynopsis unicolor*) Zwergdorsch (*Tricopterus minutes*) Portugiesenhai (*Centroscymnus coelolepis*) Rochen (*Raja species*) Rotbarsch (*Sebastes marinus, S. mentella, S. Viviparus*) Pazifischer Fächerfisch (*Istiophorus platypterus*) Haarschwänze (*Lepidopus caudatus, Aphanopus carbo*) Meerbrasse (*Pagellus species*) Hai (alle Arten) Schlangenmakrele (*Lepidocybium flavobrunneum, Ruvettus pretiosus, Gempylus serpens*) Stör (*Acipenser species*) Schwertfisch (*Xiphias gladius*) Thunfisch (*Thunnus species, Euthynnus species, Katsuwonus pelamis*)</td><td>1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Nahrungsergänzungsmittel</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Obstwein, alkoholfrei</td><td>0,01</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Speisesalz</td><td>0,1</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Wermut und Bitter, alkoholfrei</td><td>0,01</td><td colspan="2"></td></tr>
-<tr><td>Zinn (anorganisch)</td><td>diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td>50</td><td colspan="2">in Dosen</td></tr>
-<tr><td>"</td><td>Dosengetränke</td><td>100</td><td colspan="2">einschliesslich Frucht- und Gemüsesäfte</td></tr>
-<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td>50</td><td colspan="2">in Dosen</td></tr>
-<tr><td>"</td><td>Lebensmittelkonserven</td><td>200</td><td colspan="2">ausgenommen Getränke</td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td>50</td><td colspan="2">in Dosen; einschliesslich Säuglingsmilchnahrung und Folgemilch</td></tr>
-<tr><td>Zink</td><td>Gelatine</td><td>50</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>Kollagen</td><td>50</td><td colspan="2"></td></tr>
+<tr><th>1</th><th>2</th><th>3</th><th colspan="2">4</th></tr>
+<tr><th>Stoff</th><th>Lebensmittel</th><th>Höchstgehalt (mg/kg)</th><th colspan="2">Bemerkungen</th></tr>
+<tr><td>Arsen (anorganisch)</td><td>alkoholfreie Getränke</td><td>0,1</td><td colspan="3">übrige</td></tr>
+<tr><td>"</td><td>Braunalge *Sargassum fusiforme (Hizikia fusiformis)*</td><td>35</td><td colspan="3">bezogen auf Trockenmasse</td></tr>
+<tr><td>"</td><td>Fruchtsäfte, verdünnte Fruchtsäfte, Fruchtnektare und Fruchtsirupe</td><td>0,2</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Gelatine</td><td>1</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Kollagen</td><td>1</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Margarine</td><td>0,1</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Minarine</td><td>0,1</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Obstwein, alkoholfrei</td><td>0,2</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Reis, geschliffen, nicht parboiled (polierter oder weisser Reis)</td><td>0,2</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Reis, parboiled oder geschält</td><td>0,25</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Reiskekse, Reiswaffeln, Reiskräcker und Reiskuchen</td><td>0,3</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Reis für die Herstellung von Lebensmitteln für Säuglinge und Kleinkinder</td><td>0,1</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Speisefette und Speiseöle</td><td>0,1</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Speisesalz</td><td>1</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Wein</td><td>0,2</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Wermut und Bitter, alkoholfrei</td><td>0,2</td><td colspan="3"></td></tr>
+<tr><td>Blei</td><td>aromatisierter Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails</td><td colspan="2">0,2</td><td colspan="2">aus der Weinlese von 2001 bis 2015</td></tr>
+<tr><td>"</td><td>aromatisierter Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails</td><td colspan="2">0,15</td><td colspan="2">aus der Weinlese ab 2016 bis 2021</td></tr>
+<tr><td>"</td><td>aromatisierter Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails</td><td colspan="2">0,1</td><td colspan="2">aus der Weinlese ab 2022</td></tr>
+<tr><td>"</td><td>Blattkohle</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Blattgemüse</td><td colspan="2">0,3</td><td colspan="2">ausgenommen frische Kräuter</td></tr>
+<tr><td>"</td><td>Blumenkohle</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Blütenstempelgewürze</td><td colspan="2">1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Cranbeeren</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Erdbeerbaumfrüchte</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Fleisch von Rindern, Schafen, Schweinen und Geflügel</td><td colspan="2">0,1</td><td colspan="2">ausgenommen Nebenprodukte der Schlachtung</td></tr>
+<tr><td>"</td><td>Fleur de sel</td><td colspan="2">2</td><td colspan="2">das aus Salzgärten mit einem Lehmboden manuell abgeschöpft wird</td></tr>
+<tr><td>"</td><td>Fruchtgemüse</td><td colspan="2">0,05</td><td colspan="2">ausgenommen Zuckermais</td></tr>
+<tr><td>"</td><td>Fruchtgewürze</td><td colspan="2">0,6</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Fruchtsäfte, rekonstituiertes Fruchtsaftkonzentrat und Fruchtnektare, ausschliesslich aus Beeren und anderem Kleinobst</td><td colspan="2">0,05</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Fruchtsäfte, rekonstituiertes Fruchtsaftkonzentrat und Fruchtnektare</td><td colspan="2">0,03</td><td colspan="2">übrige</td></tr>
+<tr><td>"</td><td>Gärungsessig</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Gelatine</td><td colspan="2">5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Getränke für Säuglinge und Kleinkinder</td><td colspan="2">0,5</td><td colspan="2">übrige; Zubereitung durch Aufgiessen oder Abkochen; die mit diesem Verwendungszweck gekennzeichnet und verkauft werden</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">0,02</td><td colspan="2">übrige; einschliesslich Fruchtsäfte; vermarktet als Flüssigkeit oder Rückgewinnung nach den Anweisungen des Herstellers; die mit diesem Verwendungszweck gekennzeichnet und verkauft werden</td></tr>
+<tr><td>"</td><td>Getreide</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">0,02</td><td colspan="2">ausgenommen Getränke</td></tr>
+<tr><td>"</td><td>graues Salz</td><td colspan="2">2</td><td colspan="2">das aus Salzgärten mit einem Lehmboden manuell abgeschöpft wird</td></tr>
+<tr><td>"</td><td>Holunderbeeren</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Honig</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Hülsenfrüchte</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Hülsengemüse</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Ingwer</td><td colspan="2">0,8</td><td colspan="2">frisch</td></tr>
+<tr><td>"</td><td>Johannisbeeren</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Judasohren (*Auricularia auricula-judae*)</td><td colspan="2">10</td><td colspan="2">bezogen auf Trockenmasse; aus offener Zucht</td></tr>
+<tr><td>"</td><td>Knospengewürze</td><td colspan="2">1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kohlrabi</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kollagen</td><td colspan="2">5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kopffüsser</td><td colspan="2">0,3</td><td colspan="2">ohne Eingeweide</td></tr>
+<tr><td>"</td><td>Kopfkohle</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Krebstiere</td><td colspan="2">0,5</td><td colspan="2">Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
+<tr><td>"</td><td>Kurkuma</td><td colspan="2">0,8</td><td colspan="2">frisch</td></tr>
+<tr><td>"</td><td>Lebensmittel für besondere medizinische Zwecke, die speziell für Säuglinge und Kleinkinder bestimmt sind</td><td colspan="2">0,02</td><td colspan="2">vermarktet als Pulver</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">0,01</td><td colspan="2">vermarktet als Flüssigkeit</td></tr>
+<tr><td>"</td><td>Lebensmittel für Sportlerinnen und Sportler mit einem definierten Gehalt an Vitaminen und Mineralstoffen oder anderen für Sportlerinnen und Sportler relevanten Stoffen</td><td colspan="2">3</td><td colspan="2">ausgenommen Getränke</td></tr>
+<tr><td>"</td><td>Likörwein aus Trauben</td><td colspan="2">0,15</td><td colspan="2">aus der Weinlese ab 2022</td></tr>
+<tr><td>"</td><td>Milch</td><td colspan="2">0,02</td><td colspan="2">roh, wärmebehandelt oder zur weiteren Verarbeitung</td></tr>
+<tr><td>"</td><td>Muscheln</td><td colspan="2">1,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Nahrungsergänzungsmittel</td><td colspan="2">3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Nebenprodukte der Schlachtung von Rindern und Schafen</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Nebenprodukte der Schlachtung von Schweinen</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Nebenprodukte der Schlachtung von Geflügel</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Obst</td><td colspan="2">0,1</td><td colspan="2">ausgenommen Cranbeeren, Erdbeerbaumfrüchte, Hartschalenobst, Holunderbeeren und Johannisbeeren</td></tr>
+<tr><td>"</td><td>Rindengewürze</td><td colspan="2">2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Samengewürze</td><td colspan="2">0,9</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td colspan="2">0,02</td><td colspan="2">vermarktet als Pulver</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">0,01</td><td colspan="2">vermarktet als Flüssigkeit</td></tr>
+<tr><td>"</td><td>Schwarzwurzeln</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Speisefette und Speiseöle</td><td colspan="2">0,1</td><td colspan="2">einschliesslich Milchfett</td></tr>
+<tr><td>"</td><td>Speisesalz</td><td colspan="2">1</td><td colspan="2">ausgenommen «Fleur de sel» und «graues Salz», die aus Salzgärten mit einem Lehmboden manuell abgeschöpft wird</td></tr>
+<tr><td>"</td><td>Stängelgemüse</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Wein, Obst- und Fruchtwein</td><td colspan="2">0,2</td><td colspan="2">aus der Weinlese von 2001 bis 2015</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">0,15</td><td colspan="2">aus der Weinlese ab 2016 bis 2021</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">0,1</td><td colspan="2">aus der Weinlese ab 2022</td></tr>
+<tr><td>"</td><td>wilde Pilze</td><td colspan="2">0,8</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Wurzel- und Knollengemüse</td><td colspan="2">0,1</td><td colspan="2">ausgenommen Ingwer, Kurkuma und Schwarzwurzeln</td></tr>
+<tr><td>"</td><td>Wurzel- und Rhizomgewürze</td><td colspan="2">1,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Zuchtchampignons, Austernseitling, Shiitake</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Zuckermais</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Zwiebelgemüse</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>Cadmium</td><td>Austernpilz</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Ananas</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Auberginen</td><td colspan="2">0,03</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Bananen</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Beeren- und Kleinobst</td><td colspan="2">0,03</td><td colspan="2">ausgenommen Himbeeren</td></tr>
+<tr><td>"</td><td>Blattgemüse</td><td colspan="2">0,1</td><td colspan="2">ausgenommen frische Kräuter, Senfsämlinge, Spinat und verwandte Arten (Blätter)</td></tr>
+<tr><td>"</td><td>Blattkohle</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Erdnüsse</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Fleisch von Rindern, Schafen, Schweinen und Geflügel</td><td colspan="2">0,05</td><td colspan="2">ausgenommen Nebenprodukte der Schlachtung</td></tr>
+<tr><td>"</td><td>Fleisch von Pferden</td><td colspan="2">0,2</td><td colspan="2">ausgenommen Nebenprodukte der Schlachtung</td></tr>
+<tr><td>"</td><td>frische Kräuter</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Fruchtgemüse</td><td colspan="2">0,02</td><td colspan="2">ausgenommen Auberginen</td></tr>
+<tr><td>"</td><td>Gärungsessig und Essigsäure zu Speisezwecken</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Gelatine</td><td colspan="2">0,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Gerste</td><td colspan="2">0,05</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">0,04</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Getränke für Säuglinge und Kleinkinder</td><td colspan="2">0,02</td><td colspan="2">vermarktet als Flüssigkeit oder Rückgewinnung nach den Anweisungen des Herstellers, einschliesslich Fruchtsäfte</td></tr>
+<tr><td>"</td><td>Getreide</td><td colspan="2">0,1</td><td colspan="2">ausgenommen Gerste, Hartweizen, Reis, Roggen, Quinoa, Weizengluten, Weizenkleie und Weizenkeime</td></tr>
+<tr><td>"</td><td>Hartschalenobst</td><td colspan="2">0,2</td><td colspan="2">ausgenommen Pinienkerne</td></tr>
+<tr><td>"</td><td>Hartweizen</td><td colspan="2">0,18</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Hülsengemüse</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Himbeeren</td><td colspan="2">0,04</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Hülsenfrüchte</td><td colspan="2">0,04</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kakaopulver (100 % Gesamtkakaotrockenmasse)</td><td colspan="2">0,6</td><td colspan="2">für die Konsumentinnen und Konsumenten bestimmt oder als Zutat in gesüsstem Kakaopulver (Schokoladepulver), das für Konsumentinnen und Konsumenten bestimmt ist</td></tr>
+<tr><td>"</td><td>Kernobst</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kiwis</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Knoblauch</td><td colspan="2">0,05</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Knollensellerie</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kohlgemüse</td><td colspan="2">0,04</td><td colspan="2">ausgenommen Blattkohle</td></tr>
+<tr><td>"</td><td>Kollagen</td><td colspan="2">0,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Kopffüsser</td><td colspan="2">1</td><td colspan="2">ohne Eingeweide</td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (*Brachyura und Anomura*)</td><td colspan="2">0,5</td><td colspan="2">Muskelfleisch der Extremitäten</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td colspan="2">0,5</td><td colspan="2">Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
+<tr><td>"</td><td>Kulturpilze</td><td colspan="2">0,05</td><td colspan="2">ausgenommen Austernpilz und Shiitake</td></tr>
+<tr><td>"</td><td>Lauch</td><td colspan="2">0,04</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Lebensmittel für Sportlerinnen und Sportler mit einem definierten Gehalt an Vitaminen und Mineralstoffen oder anderen für Sportlerinnen und Sportler relevanten Stoffen</td><td colspan="2">1</td><td colspan="2">ausgenommen Getränke und Produkte, die ausschliesslich oder vorwiegend aus getrockneten marinen Algen oder aus Erzeugnissen bestehen, die aus marinen Algen gewonnen wurden, oder die aus getrockneten Muscheln bestehen</td></tr>
+<tr><td>"</td><td>Leber von Rindern, Schafen, Schweinen, Geflügel und Pferden</td><td colspan="2">0,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Leinsamen</td><td colspan="2">0,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Mangos</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Meerrettich</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Mohnsamen</td><td colspan="2">1,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Muscheln</td><td colspan="2">1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Muskelfleisch der folgenden Fischart: Unechter Bonito (*Auxis species*)</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Muskelfleisch der folgenden Fischarten: Bichique (*Sicyopterus lagocephalus*) Makrele (*Scomber species*) Thunfische (*Thunnus species Euthynnus species*, *Katsuwonus pelamis*)</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Muskelfleisch der folgenden Fischarten: Sardelle (Art *Engraulis*) Schwertfisch (*Xiphias gladius*) Sardine (*Sardina pilchardus*)</td><td colspan="2">0,25</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen</td><td colspan="2">0,05</td><td colspan="2">übrige</td></tr>
+<tr><td>"</td><td>Nahrungsergänzungsmittel</td><td colspan="2">1</td><td colspan="2">ausgenommen Nahrungsergänzungsmittel, die ausschliesslich oder vorwiegend aus getrockneten marinen Algen oder aus Erzeugnissen bestehen, die aus marinen Algen gewonnen wurden, oder die aus getrockneten Muscheln bestehen</td></tr>
+<tr><td>"</td><td>Nahrungsergänzungsmittel, die ausschliesslich oder vorwiegend aus getrockneten marinen Algen oder aus Erzeugnissen bestehen, die aus marinen Algen gewonnen wurden, oder die aus getrockneten Muscheln bestehen</td><td colspan="2">3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Niere von Rindern, Schafen, Schweinen, Geflügel und Pferden</td><td colspan="2">1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Obst</td><td colspan="2">0,05</td><td colspan="2">übriges</td></tr>
+<tr><td>"</td><td>Ölsaaten</td><td colspan="2">0,1</td><td colspan="2">ausgenommen Erdnüsse, Leinsamen, Mohnsamen, Rapssamen, Senfsamen, Sojabohnen und Sonnenblumenkerne</td></tr>
+<tr><td>"</td><td>Papayas</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Pastinaken</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Petersilienwurzeln</td><td colspan="2">0,05</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Pinienkerne</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Proteine aus Hülsenfrüchten</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Rapssamen</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Randen</td><td colspan="2">0,06</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Reis und Quinoa</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Rettich</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Roggen</td><td colspan="2">0,05</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung, die aus Kuhmilchproteinen oder Proteinhydrolysaten hergestellt wird</td><td colspan="2">0,01</td><td colspan="2">in Pulverform</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">0,005</td><td colspan="2">flüssig</td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung, die nur aus Sojaproteinisolaten oder gemischt mit Kuhmilchproteinen hergestellt wird</td><td colspan="2">0,02</td><td colspan="2">in Pulverform</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">0,01</td><td colspan="2">flüssig</td></tr>
+<tr><td>"</td><td>Schokolade (Milchschokolade) mit &lt; 30 % Gesamtkakaotrockenmasse</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Schokolade mit ≥ 30 % und &lt; 50 % Gesamtkakaotrockenmasse</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Schokolade mit ≥ 50 % und &lt; 70 % Gesamtkakaotrockenmasse</td><td colspan="2">0,8</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Schokolade mit ≥ 70 % Gesamtkakaotrockenmasse</td><td colspan="2">0,9</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Schwarzwurzeln</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Senfsamen</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Senfsämlinge</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Shiitake</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Sojabohnen</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Sonnenblumenkerne</td><td colspan="2">0,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Speisesalz</td><td colspan="2">0,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Speiserüben</td><td colspan="2">0,05</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Spinat und verwandte Arten (Blätter)</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Stangensellerie</td><td colspan="2">0,1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Stängelgemüse</td><td colspan="2">0,03</td><td colspan="2">ausgenommen Lauch und Stangensellerie</td></tr>
+<tr><td>"</td><td>Steinobst</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Tafeloliven</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>tropisches Wurzel- und Knollengemüse</td><td colspan="2">0,05</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Weizenkeime</td><td colspan="2">0,2</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Weizenkleie</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Weizengluten</td><td colspan="2">0,15</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>wilde Pilze</td><td colspan="2">0,5</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Wurzel- und Knollengemüse</td><td colspan="2">0,1</td><td colspan="2">ausgenommen Knollensellerie, Meerrettich, Pastinaken, Petersilienwurzeln, Randen, Rettich, Schwarzwurzeln, Speiserüben, tropisches Wurzel- und Knollengemüse</td></tr>
+<tr><td>"</td><td>Zitrusfrüchte</td><td colspan="2">0,02</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Zwiebelgemüse</td><td colspan="2">0,03</td><td colspan="2">ausgenommen Knoblauch</td></tr>
+<tr><td>Chrom</td><td>Gelatine</td><td>10</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Kollagen</td><td>10</td><td colspan="3"></td></tr>
+<tr><td>Kupfer</td><td>Gelatine</td><td>30</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Kollagen</td><td>30</td><td colspan="3"></td></tr>
+<tr><td>Quecksilber</td><td>Alle Erzeugnisse pflanzlicher und tierischer Herkunft nach Anhang 1 VPRH</td><td colspan="2"></td><td colspan="2">Es gelten die Höchstgehalte für Quecksilber-Verbindungen gemäss Anhang 2 VPRH</td></tr>
+<tr><td>"</td><td>Fischereierzeugnisse und Muskelfleisch von Fischen</td><td>0,5</td><td colspan="3">übrige</td></tr>
+<tr><td>"</td><td>Kopffüsser</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (Brachyura und Anomura)</td><td>0,5</td><td colspan="3">Höchstgehalt gilt für das Muskelfleisch der Extremitäten</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td>0,5</td><td colspan="3">Höchstgehalt gilt für das Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
+<tr><td>"</td><td>Lebensmittel für Sportlerinnen und Sportler mit einem definierten Gehalt an Vitaminen und Mineralstoffen oder anderen für Sportlerinnen und Sportler relevanten Stoffen</td><td colspan="2">0,1</td><td colspan="2">ausgenommen Getränke</td></tr>
+<tr><td>"</td><td>Meerschnecken</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Muskelfleisch der folgenden Fischarten: Achselfleckbrasse (*Pagellus acarne*) Schwarzer Degenfisch (*Aphanopus carbo*) Rote Fleckbrasse (*Pagellus bogaraveo*) Bonito (*Sarda sarda*) Rotbrasse (*Pagellus erythrinus*) Escolar (*Lepidocybium flavobrunneum*) Heilbutt (*Hippoglossus species*) Kingklip (*Genypterus capensis*) Marlin (*Makaira species*) Butten (*Lepidorhombus species*) Ölfisch (*Ruvettus pretiosus*) Atlantischer Sägebauch (*Hoplostethus atlanticus*) Rosa Kingklip (*Genypterus blacodes*) Hecht (*Esox species*) Einfarb-Pelamide (*Orcynopsis unicolor*) Zwergdorsch (*Trisopterus species*) Meerbarbe (*Mullus barbatus barbatus*) Rundnasen-Grenadier (*Coryphaenoides rupestris*) Segelfisch (*Istiophorus species*) Degenfisch (*Lepidopus caudatus*) Schlangenmakrele (*Gempylus serpens*) Stör (*Acipenser species*) Streifenbarbe (*Mullus surmuletus*) Thunfische (*Thunnus species*, *Euthynnus species*, *Katsuwonus pelamis*) Haie (alle Arten) Schwertfisch (*Xiphias gladius*)</td><td colspan="2">1</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Muskelfleisch der folgenden Fischarten: Sardellen (*Engraulis species*) Alaska-Pollack (*Theragra chalcogrammus*) Kabeljau (*Gadus morhua*) Atlantischer Hering (*Clupea harengus*) Haiwelse (*Pangasius bocourti*) Karpfen (*Cyprinidae*) Kliesche (*Limanda limanda*) Makrelen (*Scomber species*) Flunder (*Platichthys flesus*) Scholle (*Pleuronectes platessa*) Sprotte (*Sprattus sprattus*) Riesenwels (*Pangasianodon gigas*) Pollack (*Pollachius pollachius*) Seelachs (*Pollachius virens*) Lachs- und Forellenarten (*Salmo species* und *Oncorhynchus species*, ausser *Salmo trutta*) Sardinen- oder Pilchard-Arten (*Dussumieria species*, *Sardina species*, *Sardinella species* und *Sardinops species*) Seezunge (*Solea solea*) Gestreifter Katfisch (*Pangasianodon hypothalamus*) Wittling (*Merlangius merlangus*)</td><td colspan="2">0,3</td><td colspan="2"></td></tr>
+<tr><td>"</td><td>Nahrungsergänzungsmittel</td><td>0,1</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Speisesalz</td><td>0,1</td><td colspan="3"></td></tr>
+<tr><td>Zinn (anorganisch)</td><td>diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td>50</td><td colspan="3">in Dosen</td></tr>
+<tr><td>"</td><td>Dosengetränke</td><td>100</td><td colspan="3">einschliesslich Frucht- und Gemüsesäfte</td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td>50</td><td colspan="3">in Dosen</td></tr>
+<tr><td>"</td><td>Lebensmittelkonserven</td><td>200</td><td colspan="3">ausgenommen Getränke</td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td>50</td><td colspan="3">in Dosen; einschliesslich Säuglingsmilchnahrung und Folgemilch</td></tr>
+<tr><td>Zink</td><td>Gelatine</td><td>50</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Kollagen</td><td>50</td><td colspan="3"></td></tr>
 </table>
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-4]
 
 (Art. 2 Abs. 3 Bst. d, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
 
 ## Höchstgehalte für 3-Monochlorpropan-1,2-diol (3-MCPD) und Glycidylfettsäureester in Lebensmitteln
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### Teil A: Erläuterungen
 
@@ -543,19 +687,26 @@ Anhang 4*[^t-3]*
 <table>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
 <tr><th>Stoff</th><th>Lebensmittel</th><th>Höchstgehalt (µg/kg)</th><th>Bemerkungen</th></tr>
-<tr><td>Glycidyl-fettsäureester</td><td>pflanzliche Öle und Fette</td><td>1000</td><td>übrige; ausgedrückt als Glycidol; die für den Endverbraucher oder zur Verwendung als Zutat in Lebensmitteln in Verkehr gebracht werden</td></tr>
-<tr><td>"</td><td>pflanzliche Öle und Fette, die für die Herstellung von Beikost und Getreidebeikost für Säuglinge und Kleinkinder bestimmt sind</td><td>500</td><td></td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung, Folgenahrung und Lebensmittel für besondere medizinische Zwecke für Säuglinge und Kleinkinder</td><td>50</td><td>in Pulverform; der Höchstgehalt bezieht sich auf das im Handel erhältliche Erzeugnis</td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung, Folgenahrung und Lebensmittel für besondere medizinische Zwecke für Säuglinge und Kleinkinder</td><td>6</td><td>als Flüssigkeit; der Höchstgehalt bezieht sich auf das im Handel erhältliche Erzeugnis</td></tr>
-<tr><th>3-MCPD</th><th>hydrolysiertes Pflanzenprotein</th><th>20</th><th>Der Höchstgehalt bezieht sich auf das flüssige Erzeugnis mit 40 % Trockenmasse; dies entspricht einem Höchstgehalt von 50 µg/kg Trockenmasse. Der Gehalt muss proportional zum Trockenmassengehalt des Erzeugnisses angepasst werden.</th></tr>
-<tr><th>"</th><th>Sojasauce</th><th>20</th><th>Der Höchstgehalt bezieht sich auf das flüssige Erzeugnis mit 40 % Trockenmasse; dies entspricht einem Höchstgehalt von 50 µg/kg Trockenmasse. Der Gehalt muss proportional zum Trockenmassengehalt des Erzeugnisses angepasst werden.</th></tr>
+<tr><td>Glycidylfettsäureester</td><td>pflanzliche Öle und Fette, Fischöle und Öle anderer mariner Organismen, die für Konsumentinnen und Konsumenten bestimmt sind oder zur Verwendung als Zutat in Lebensmitteln in Verkehr gebracht werden.</td><td>1000</td><td>ausgenommen pflanzliche Öle und Fette, Fischöle und Öle anderer mariner Organismen, die für die Herstellung von Beikost und Getreidebeikost für Säuglinge und Kleinkinder bestimmt sind; ausgedrückt als Glycidol</td></tr>
+<tr><td>"</td><td>pflanzliche Öle und Fette, Fischöle und Öle anderer mariner Organismen, die zur Herstellung von Beikost und Ge-treidebeikost für Säuglinge und Kleinkinder bestimmt sind</td><td>500</td><td>ausgedrückt als Glycidol</td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung, Folgenahrung und Lebensmittel für besondere medizinische Zwecke für Säuglinge und Kleinkinder</td><td>50</td><td>in Pulverform; ausgedrückt als Glycidol</td></tr>
+<tr><td>"</td><td>"</td><td>6</td><td>in flüssiger Form; ausgedrückt als Glycidol</td></tr>
+<tr><td>Summe aus 3‑Monochlorpropandiol (3‑MCPD) und 3‑MCPD-Fettsäureestern</td><td>Speisefette und Speiseöle aus Kokosnuss, Mais, Raps, Sonnenblumen, Sojabohnen, Ölpalmenkernen und Olivenölen (bestehend aus raffiniertem Olivenöl und nativem Olivenöl)</td><td>1250</td><td>ausgenommen native Olivenöle, pflanzliche Öle und Fette, die für die Herstellung von Beikost und Getreidebeikost für Säuglinge und Kleinkinder bestimmt sind; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt; ausgedrückt als 3‑MCPD; der Höchstgehalt gilt nur dann für Mischungen dieser Fette und Öle, wenn deren Zusammensetzung ein Geschäftsgeheimnis ist und die Wareninhaberin oder der Wareninhaber diese nicht kennt und nicht in Erfahrung bringen kann</td></tr>
+<tr><td>"</td><td>Speisefette und Speiseöle aus anderen Pflanzen (einschliesslich Oliventresterölen), Fischöle und Öle anderer mariner Organismen</td><td>2500</td><td>ausgenommen pflanzliche Öle und Fette, Fischöle und Öle anderer mariner Organismen, die für die Herstellung von Beikost und Getreidebeikost für Säuglinge und Kleinkinder bestimmt sind; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt; ausgedrückt als 3- MCPD; der Höchstgehalt gilt nur dann für Mischungen dieser Fette und Öle, wenn deren Zusammensetzung ein Geschäftsgeheimnis ist und die Wareninhaberin oder der Wareninhaber diese nicht kennt und nicht in Erfahrung bringen kann</td></tr>
+<tr><td>"</td><td>pflanzliche Öle und Fette, Fischöle und Öle anderer mariner Organismen, die für die Herstellung von Beikost und Getreidebeikost für Säuglinge und Kleinkinder bestimmt sind</td><td>750</td><td>handelt es sich bei dem Erzeugnis um ein Gemisch aus verschiedenen Ölen oder Fetten desselben oder unterschiedlichen botanischen Ursprungs, so gilt der Höchstgehalt für die Mischung; bei den für die Mischung als Zutat verwendeten Ölen und Fetten muss der für das Öl bzw. Fett festgelegte Höchstgehalt eingehalten werden; ausgedrückt als 3‑MCPD</td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung, Folgenahrung und Lebensmittel für besondere medizinische Zwecke für Säuglinge und Kleinkinder</td><td>125</td><td>in Pulverform; ausgedrückt als 3‑MCPD</td></tr>
+<tr><td>"</td><td>"</td><td>15</td><td>in flüssiger Form; ausgedrückt als 3‑MCPD</td></tr>
+<tr><td>3-MCPD</td><td>hydrolysiertes Pflanzenprotein</td><td>20</td><td>der Höchstgehalt bezieht sich auf das flüssige Erzeugnis mit 40 % Trockenmasse; dies entspricht einem Höchstgehalt von 50 µg/kg Trockenmasse. Der Gehalt muss proportional zum Trockenmassengehalt des Erzeugnisses angepasst werden</td></tr>
+<tr><td>"</td><td>Sojasauce</td><td>20</td><td>der Höchstgehalt bezieht sich auf das flüssige Erzeugnis mit 40 % Trockenmasse; dies entspricht einem Höchstgehalt von 50 µg/kg Trockenmasse; der Gehalt muss proportional zum Trockenmassengehalt des Erzeugnisses angepasst werden</td></tr>
 </table>
 
-Anhang 5
+Anhang 5[^t-5]
 
-(Art. 2 Abs. 3 Bst. e, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1 )
+(Art. 2 Abs. 3 Bst. e, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
 
 ## Höchstgehalte für Dioxine und PCB in Lebensmitteln
+
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### Teil A: Erläuterungen
 
@@ -597,52 +748,64 @@ Anhang 5
 <tr><td>Summe aus Dioxinen (WHO- PCDD/F-TEQ)</td><td>Fett von Geflügel</td><td>1,75 pg/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fett von Rindern und Schafen</td><td>2,5 pg/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fett von Schweinen</td><td>1 pg/g</td><td>bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Federwild</td><td>2 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Geflügel</td><td>1,75 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
-<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Rindern und Schafen</td><td>2,5 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Kaninchen</td><td>1 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Pferden</td><td>5 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Rindern, Schafen und Ziegen</td><td>2,5 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Schweinen</td><td>1 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Wildbret</td><td>3 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Wildschweinen (*Sus scrofa*)</td><td>5 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Frischwasserfisch, wild gefangen</td><td>3,5 pg/g</td><td>ausgenommen in Frischwasser gefangene diadrome Fischarten und deren Erzeugnissen; bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>gemischte tierische Fette</td><td>1,5 pg/g</td><td>bezogen auf Fett</td></tr>
-<tr><td>"</td><td>Hühnereier und Eierzeugnisse</td><td>2,5 pg/g</td><td>bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Geflügeleier und Eierzeugnisse</td><td>2,5 pg/g</td><td>ausgenommen Gänseeier; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Lebensmittel für Säuglinge und Kleinkinder</td><td>0,1 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
-<tr><td>"</td><td>Leber von Rindern, Geflügel und Schweinen und ihre Verarbeitungserzeugnisse</td><td>0,3 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Leber von Federwild</td><td>2,5 pg/g</td><td></td></tr>
+<tr><td>"</td><td>Leber von Rindern, Ziegen, Geflügel, Schweinen, und Pferden und ihre Verarbeitungserzeugnisse</td><td>0,3 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Leber von Schafen und ihre Verarbeitungserzeugnisse</td><td>1,25 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Muskelfleisch von Fisch und Fischereierzeugnissen sowie ihre Verarbeitungserzeugnisse</td><td>3,5 pg/g</td><td>übrige; bezogen auf Frischgewicht; Krebstiere: Höchstgehalt gilt für das Muskelfleisch der Extremitäten und des Hinterleibes. Krabben und krabbenartige Krebstiere (*Brachyura* und *Anomura*): Höchstgehalt gilt für das Muskelfleisch der Extremitäten.</td></tr>
 <tr><td>"</td><td>Muskelfleisch von Wildaal (*Anguilla anguilla*) sowie dessen Erzeugnisse</td><td>3,5 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Muskelfleisch von wild gefangenem Dornhai sowie dessen Erzeugnisse</td><td>3,5 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Öle von Meerestieren, wie Fischkörperöl, Fischleberöl und Öle anderer mariner Organismen, die zum menschlichen Verzehr bestimmt sind</td><td>1,75 pg/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>pflanzliche Öle und Fette</td><td>0,75 pg/g</td><td>bezogen auf Fett</td></tr>
-<tr><td>"</td><td>Rohmilch und Milcherzeugnisse</td><td>2,5 pg/g</td><td>bezogen auf Fett; einschliesslich Butterfett</td></tr>
+<tr><td>"</td><td>Rohmilch und Milcherzeugnisse</td><td>2 pg/g</td><td>bezogen auf Fett; einschliesslich Butterfett</td></tr>
 <tr><td>Summe aus Dioxinen und dl-PCB (WHO-PCDD/F-PCB- TEQ)</td><td>Fett von Geflügel</td><td>3 pg/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fett von Rindern und Schafen</td><td>4 pg/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fett von Schweinen</td><td>1,25 pg/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fischleber und ihre Verarbeitungserzeugnisse</td><td>20 pg/g</td><td>ausgenommen Öle von Meerestieren, wie Fischkörperöl, Fischleberöl und Öle anderer mariner Organismen, die zum menschlichen Verzehr bestimmt sind; bezogen auf Frischgewicht</td></tr>
-<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Rindern und Schafen</td><td>4 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Federwild</td><td>4 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Geflügel</td><td>3 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Kaninchen</td><td>1,5 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Pferden</td><td>10 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Rindern, Schafen und Ziegen</td><td>4 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Schweinen</td><td>1,25 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Wildbret</td><td>7,5 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Wildschweinen (*Sus scrofa*)</td><td>10 pg/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Frischwasserfisch, wild gefangen</td><td>6,5 pg/g</td><td>ausgenommen in Frischwasser gefangene diadrome Fischarten und deren Erzeugnissen; bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>gemischte tierische Fette</td><td>2,5 pg/g</td><td>bezogen auf Fett</td></tr>
-<tr><td>"</td><td>Hühnereier und Eierzeugnisse</td><td>5 pg/g</td><td>bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Geflügeleier und Eierzeugnisse</td><td>5 pg/g</td><td>ausgenommen Gänseeier; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Lebensmittel für Säuglinge und Kleinkinder</td><td>0,2 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
-<tr><td>"</td><td>Leber von Rindern, Geflügel und Schweinen und ihre Verarbeitungserzeugnisse</td><td>0,5 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Leber von Federwild</td><td>5 pg/g</td><td></td></tr>
+<tr><td>"</td><td>Leber von Rindern, Ziegen, Geflügel, Schweinen, und Pferden und ihre Verarbeitungserzeugnisse</td><td>0,5 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Leber von Schafen und ihre Verarbeitungserzeugnisse</td><td>2 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Muskelfleisch von Fisch und Fischereierzeugnissen sowie ihre Verarbeitungserzeugnisse</td><td>6,5 pg/g</td><td>übrige; bezogen auf Frischgewicht; Krebstiere: Höchstgehalt gilt für das Muskelfleisch der Extremitäten und des Hinterleibes. Krabben und krabbenartige Krebstiere (*Brachyura* und *Anomura*): Höchstgehalt gilt für das Muskelfleisch der Extremitäten.</td></tr>
 <tr><td>"</td><td>Muskelfleisch von wild gefangenem Dornhai sowie dessen Erzeugnisse</td><td>6,5 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Muskelfleisch von Wildaal (*Anguilla anguilla*) sowie dessen Erzeugnisse</td><td>10 pg/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Öle von Meerestieren, wie Fischkörperöl, Fischleberöl und Öle anderer mariner Organismen, die zum menschlichen Verzehr bestimmt sind</td><td>6 pg/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>pflanzliche Öle und Fette</td><td>1,25 pg/g</td><td>bezogen auf Fett</td></tr>
-<tr><td>"</td><td>Rohmilch und Milcherzeugnisse</td><td>5,5 pg/g</td><td>bezogen auf Fett; einschliesslich Butterfett</td></tr>
+<tr><td>"</td><td>Rohmilch und Milcherzeugnisse</td><td>4 pg/g</td><td>bezogen auf Fett; einschliesslich Butterfett</td></tr>
 <tr><td>Summe der iPCB</td><td>Fett von Geflügel</td><td>40 ng/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fett von Rindern und Schafen</td><td>40 ng/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fett von Schweinen</td><td>40 ng/g</td><td>bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fischleber und ihre Verarbeitungserzeugnisse</td><td>200 ng/g</td><td>ausgenommen Öle von Meerestieren, wie Fischkörperöl, Fischleberöl und Öle anderer mariner Organismen, die zum menschlichen Verzehr bestimmt sind; bezogen auf Frischgewicht</td></tr>
-<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Rindern und Schafen</td><td>40 ng/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Rindern, Schafen und Ziegen</td><td>40 ng/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Geflügel</td><td>40 ng/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Fleisch und Fleischerzeugnisse von Schweinen</td><td>40 ng/g</td><td>ausgenommen Nebenprodukte der Schlachtung; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Frischwasserfisch, wild gefangen</td><td>125 ng/g</td><td>ausgenommen in Frischwasser gefangene diadrome Fischarten und deren Erzeugnissen; bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>gemischte tierische Fette</td><td>40 ng/g</td><td>bezogen auf Fett</td></tr>
-<tr><td>"</td><td>Hühnereier und Eierzeugnisse</td><td>40 ng/g</td><td>bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Geflügeleier und Eierzeugnisse</td><td>40 ng/g</td><td>ausgenommen Gänseeier; bezogen auf Fett</td></tr>
 <tr><td>"</td><td>Lebensmittel für Säuglinge und Kleinkinder</td><td>1 ng/g</td><td>bezogen auf Frischgewicht</td></tr>
-<tr><td>"</td><td>Leber von Rindern, Geflügel und Schweinen und ihre Verarbeitungserzeugnisse</td><td>3 ng/g</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Leber von Rindern, Ziegen, Geflügel, Schweinen, und Pferden und ihre Verarbeitungserzeugnisse</td><td>3,0 ng/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Leber von Schafen und ihre Verarbeitungserzeugnisse</td><td>3 ng/g</td><td>bezogen auf Frischgewicht</td></tr>
 <tr><td>"</td><td>Muskelfleisch von Fisch und Fischereierzeugnissen sowie ihre Verarbeitungserzeugnisse</td><td>75 ng/g</td><td>übrige; bezogen auf Frischgewicht; Krebstiere: Höchstgehalt gilt für das Muskelfleisch der Extremitäten und des Hinterleibes. Krabben und krabbenartige Krebstiere (*Brachyura* und *Anomura*): Höchstgehalt gilt für das Muskelfleisch der Extremitäten.</td></tr>
 <tr><td>"</td><td>Muskelfleisch von wild gefangenem Dornhai sowie dessen Erzeugnisse</td><td>200 ng/g</td><td>bezogen auf Frischgewicht</td></tr>
@@ -652,13 +815,13 @@ Anhang 5
 <tr><td>"</td><td>Rohmilch und Milcherzeugnisse</td><td>40 ng/g</td><td>bezogen auf Fett; einschliesslich Butterfett</td></tr>
 </table>
 
-Anhang 6*[^t-4]*
+Anhang 6[^t-6]
 
-(Art. 2 Abs. 3 Bst. f, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1 )
+(Art. 2 Abs. 3 Bst. f, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
 
 ## Höchstgehalte für polyzyklische aromatische Kohlenwasserstoffe in Lebensmitteln
 
-[^t-4]: Bereinigt durch Berichtigung vom 12. Nov. 2019 ([AS 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)).
+[^t-6]: Bereinigt durch Berichtigung vom 12. Nov. 2019 ([AS 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### Teil A: Erläuterungen
 
@@ -675,46 +838,48 @@ Anhang 6*[^t-4]*
 ### Teil B: Tabelle
 
 <table>
-<tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
-<tr><th>Stoff</th><th>Lebensmittel</th><th>Höchstgehalt (µg/kg)</th><th>Bemerkungen</th></tr>
-<tr><td>Benzo(a)pyren</td><td>Bananenchips</td><td>2</td><td></td></tr>
-<tr><td>"</td><td>diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>Fleisch und Fleischerzeugnisse</td><td>5</td><td>wärmebehandelt; für den Verkauf an den Konsumenten oder der Konsumentin</td></tr>
-<tr><td>"</td><td>"</td><td>2</td><td>geräuchert</td></tr>
-<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>Gewürze</td><td>10</td><td>getrocknet; ausgenommen Kardamom und geräucherter *Capsicum spp.*</td></tr>
-<tr><td>"</td><td>Krabben und krabbenartige Krebstiere *(Brachyura* und *Anomura)*</td><td>2</td><td>geräuchert; Höchstgehalt gilt für das Muskelfleisch der Extremitäten</td></tr>
-<tr><td>"</td><td>Krebstiere</td><td>2</td><td>geräuchert; Höchstgehalt gilt für Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
-<tr><td>"</td><td>Kakaobohnen und daraus hergestellte Erzeugnisse</td><td>5</td><td>ausgenommen Kakaofasern und aus Kakaofasern hergestellte Erzeugnisse, die als Lebensmittelzutat verwendet werden sollen; bezogen auf Fett</td></tr>
-<tr><td>"</td><td>Kakaofasern und aus Kakaofasern hergestellte Erzeugnisse, die als Lebensmittelzutat verwendet werden sollen</td><td>3</td><td></td></tr>
-<tr><td>"</td><td>Kokosnussöl</td><td>2</td><td>für den unmittelbaren menschlichen Verzehr oder zur Verwendung als Lebensmittelzutat bestimmtes</td></tr>
-<tr><td>"</td><td>Kräuter</td><td>10</td><td>getrocknet</td></tr>
-<tr><td>"</td><td>Muscheln</td><td>6</td><td>geräuchert</td></tr>
-<tr><td>"</td><td>"</td><td>5</td><td>frisch, gekühlt oder gefroren</td></tr>
-<tr><td>"</td><td>Muskelfleisch von Fischen und Fischereierzeugnissen</td><td>2</td><td>ausgenommen Sprotten, Sprotten in Konservendosen, Muscheln; geräuchert</td></tr>
-<tr><td>"</td><td>Nahrungsergänzungsmittel, die pflanzliche Stoffe enthalten</td><td>10</td><td>ausgenommen Nahrungsergänzungsmittel, die pflanzliche Öle enthalten; einschliesslich Nahrungsergänzungsmittel, die Propolis, Gelée Royale oder Spirulina enthalten sowie Zubereitungen daraus; die Höchstgehalte gelten für Nahrungsergänzungsmittel wie sie im Handel erhältlich sind</td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td>1</td><td>einschliesslich Säuglingsmilchnahrung und Folgemilch</td></tr>
-<tr><td>"</td><td>Sprotten (*Sprattus sprattus*)</td><td>5</td><td>einschliesslich Sprotten in Konservendosen; geräuchert</td></tr>
-<tr><td>"</td><td>zum unmittelbaren menschlichen Verzehr oder zur Verwendung als Lebensmittelzutat bestimmte Öle und Fette</td><td>2</td><td>ausgenommen Kakaobutter und Kokosnussöl</td></tr>
-<tr><td>Summe von Benzo(a)pyren, Benz(a)anthracen, Benzo(b) fluoranthen und Chrysen</td><td>Bananenchips</td><td>20</td><td></td></tr>
-<tr><td>"</td><td>diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>Fleisch und Fleischerzeugnisse</td><td>30</td><td>wärmebehandelt; für den Verkauf an den Konsumenten oder der Konsumentin</td></tr>
-<tr><td>"</td><td>"</td><td>12</td><td>geräuchert</td></tr>
-<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td>1</td><td></td></tr>
-<tr><td>"</td><td>Gewürze</td><td>50</td><td>getrocknet; ausgenommen Kardamom und geräucherter *Capsicum spp.*</td></tr>
-<tr><td>"</td><td>Krabben und krabbenartige Krebstiere *(Brachyura* und *Anomura)*</td><td>12</td><td>geräuchert; Höchstgehalt gilt für das Muskelfleisch der Extremitäten</td></tr>
-<tr><td>"</td><td>Krebstiere</td><td>12</td><td>geräuchert; Höchstgehalt gilt für Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
-<tr><td>"</td><td>Kakaobohnen und daraus hergestellt Erzeugnisse</td><td>30</td><td>ausgenommen Kakaofasern und aus Kakaofasern hergestellte Erzeugnisse, die als Lebensmittelzutat verwendet werden sollen; bezogen auf Fett</td></tr>
-<tr><td>"</td><td>Kakaofasern und aus Kakaofasern hergestellte Erzeugnisse, die als Lebensmittelzutat verwendet werden sollen</td><td>15</td><td></td></tr>
-<tr><td>"</td><td>Kokosnussöl</td><td>20</td><td>für den unmittelbaren menschlichen Verzehr oder zur Verwendung als Lebensmittelzutat bestimmtes</td></tr>
-<tr><td>"</td><td>Kräuter</td><td>50</td><td>getrocknet</td></tr>
-<tr><td>"</td><td>Muscheln</td><td>35</td><td>geräuchert</td></tr>
-<tr><td>"</td><td>"</td><td>30</td><td>frisch, gekühlt oder gefroren</td></tr>
-<tr><td>"</td><td>Muskelfleisch von Fischen und Fischereierzeugnissen</td><td>12</td><td>ausgenommen Sprotten, Sprotten in Konservendosen, Muscheln; geräuchert</td></tr>
-<tr><td>"</td><td>Nahrungsergänzungsmittel, die pflanzliche Stoffe enthalten</td><td>50</td><td>ausgenommen Nahrungsergänzungsmittel, die pflanzliche Öle enthalten; einschliesslich Nahrungsergänzungsmittel, die Propolis, Gelée Royale oder Spirulina enthalten sowie Zubereitungen daraus; die Höchstgehalte gelten für Nahrungsergänzungsmittel wie sie im Handel erhältlich sind</td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td>1</td><td>einschliesslich Säuglingsmilchnahrung und Folgemilch</td></tr>
-<tr><td>"</td><td>Sprotten (*Sprattus sprattus*)</td><td>30</td><td>einschliesslich Sprotten in Konservendosen; geräuchert</td></tr>
-<tr><td>"</td><td>zum unmittelbaren menschlichen Verzehr oder zur Verwendung als Lebensmittelzutat bestimmte Öle und Fette</td><td>10</td><td>ausgenommen Kakaobutter und Kokosnussöl</td></tr>
+<tr><th>1</th><th>2</th><th colspan="2">3</th><th>4</th></tr>
+<tr><th>Stoff</th><th>Lebensmittel</th><th colspan="2">Höchstgehalt (µg/kg)</th><th>Bemerkungen</th></tr>
+<tr><td>Benzo(a)pyren</td><td>Bananenchips</td><td colspan="2">2</td><td></td></tr>
+<tr><td>"</td><td>diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td colspan="2">1</td><td></td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse</td><td colspan="2">5</td><td>wärmebehandelt; für den Verkauf an den Konsumenten oder der Konsumentin</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">2</td><td>geräuchert</td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">1</td><td></td></tr>
+<tr><td>"</td><td>Gewürze</td><td colspan="2">10</td><td>getrocknet; ausgenommen Kardamom und geräucherter *Capsicum spp.*</td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere *(Brachyura* und *Anomura)*</td><td colspan="2">2</td><td>geräuchert; Höchstgehalt gilt für das Muskelfleisch der Extremitäten</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td colspan="2">2</td><td>geräuchert; Höchstgehalt gilt für Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
+<tr><td>"</td><td>Kakaobohnen und daraus hergestellte Erzeugnisse</td><td colspan="2">5</td><td>ausgenommen Kakaofasern und aus Kakaofasern hergestellte Erzeugnisse, die als Lebensmittelzutat verwendet werden sollen; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Kakaofasern und aus Kakaofasern hergestellte Erzeugnisse, die als Lebensmittelzutat verwendet werden sollen</td><td colspan="2">3</td><td></td></tr>
+<tr><td>"</td><td>Kokosnussöl</td><td colspan="2">2</td><td>für den unmittelbaren menschlichen Verzehr oder zur Verwendung als Lebensmittelzutat bestimmtes</td></tr>
+<tr><td>"</td><td>Kräuter</td><td colspan="2">10</td><td>getrocknet</td></tr>
+<tr><td>"</td><td>Muscheln</td><td colspan="2">6</td><td>geräuchert</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">5</td><td>frisch, gekühlt oder gefroren</td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen und Fischereierzeugnissen</td><td colspan="2">2</td><td>ausgenommen Sprotten, Sprotten in Konservendosen, Muscheln; geräuchert</td></tr>
+<tr><td>"</td><td>Nahrungsergänzungsmittel, die pflanzliche Stoffe enthalten</td><td colspan="2">10</td><td>ausgenommen Nahrungsergänzungsmittel, die pflanzliche Öle enthalten; einschliesslich Nahrungsergänzungsmittel, die Propolis, Gelée Royale oder Spirulina enthalten sowie Zubereitungen daraus; die Höchstgehalte gelten für Nahrungsergänzungsmittel wie sie im Handel erhältlich sind</td></tr>
+<tr><td>"</td><td>Pulver aus Lebensmitteln pflanzlichen Ursprungs zur Zubereitung von Getränken</td><td>10</td><td colspan="2">ausgenommen Kakaobohnen und Kakaofasern sowie daraus hergestellte Erzeugnisse</td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td colspan="2">1</td><td>einschliesslich Säuglingsmilchnahrung und Folgemilch</td></tr>
+<tr><td>"</td><td>Sprotten (*Sprattus sprattus*)</td><td colspan="2">5</td><td>einschliesslich Sprotten in Konservendosen; geräuchert</td></tr>
+<tr><td>"</td><td>zum unmittelbaren menschlichen Verzehr oder zur Verwendung als Lebensmittelzutat bestimmte Öle und Fette</td><td colspan="2">2</td><td>ausgenommen Kakaobutter und Kokosnussöl</td></tr>
+<tr><td>Summe von Benzo(a)pyren, Benz(a)anthracen, Benzo(b) fluoranthen und Chrysen</td><td>Bananenchips</td><td colspan="2">20</td><td></td></tr>
+<tr><td>"</td><td>diätetische Lebensmittel für besondere medizinische Zwecke, die eigens für Säuglinge bestimmt sind</td><td colspan="2">1</td><td></td></tr>
+<tr><td>"</td><td>Fleisch und Fleischerzeugnisse</td><td colspan="2">30</td><td>wärmebehandelt; für den Verkauf an den Konsumenten oder der Konsumentin</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">12</td><td>geräuchert</td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td colspan="2">1</td><td></td></tr>
+<tr><td>"</td><td>Gewürze</td><td colspan="2">50</td><td>getrocknet; ausgenommen Kardamom und geräucherter *Capsicum spp.*</td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere *(Brachyura* und *Anomura)*</td><td colspan="2">12</td><td>geräuchert; Höchstgehalt gilt für das Muskelfleisch der Extremitäten</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td colspan="2">12</td><td>geräuchert; Höchstgehalt gilt für Muskelfleisch der Extremitäten und des Hinterleibes</td></tr>
+<tr><td>"</td><td>Kakaobohnen und daraus hergestellt Erzeugnisse</td><td colspan="2">30</td><td>ausgenommen Kakaofasern und aus Kakaofasern hergestellte Erzeugnisse, die als Lebensmittelzutat verwendet werden sollen; bezogen auf Fett</td></tr>
+<tr><td>"</td><td>Kakaofasern und aus Kakaofasern hergestellte Erzeugnisse, die als Lebensmittelzutat verwendet werden sollen</td><td colspan="2">15</td><td></td></tr>
+<tr><td>"</td><td>Kokosnussöl</td><td colspan="2">20</td><td>für den unmittelbaren menschlichen Verzehr oder zur Verwendung als Lebensmittelzutat bestimmtes</td></tr>
+<tr><td>"</td><td>Kräuter</td><td colspan="2">50</td><td>getrocknet</td></tr>
+<tr><td>"</td><td>Muscheln</td><td colspan="2">35</td><td>geräuchert</td></tr>
+<tr><td>"</td><td>"</td><td colspan="2">30</td><td>frisch, gekühlt oder gefroren</td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen und Fischereierzeugnissen</td><td colspan="2">12</td><td>ausgenommen Sprotten, Sprotten in Konservendosen, Muscheln; geräuchert</td></tr>
+<tr><td>"</td><td>Nahrungsergänzungsmittel, die pflanzliche Stoffe enthalten</td><td colspan="2">50</td><td>ausgenommen Nahrungsergänzungsmittel, die pflanzliche Öle enthalten; einschliesslich Nahrungsergänzungsmittel, die Propolis, Gelée Royale oder Spirulina enthalten sowie Zubereitungen daraus; die Höchstgehalte gelten für Nahrungsergänzungsmittel wie sie im Handel erhältlich sind</td></tr>
+<tr><td>"</td><td>Pulver aus Lebensmitteln pflanzlichen Ursprungs zur Zubereitung von Getränken</td><td>50</td><td colspan="2">ausgenommen Kakaobohnen und Kakaofasern sowie daraus hergestellte Erzeugnisse</td></tr>
+<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td colspan="2">1</td><td>einschliesslich Säuglingsmilchnahrung und Folgemilch</td></tr>
+<tr><td>"</td><td>Sprotten (*Sprattus sprattus*)</td><td colspan="2">30</td><td>einschliesslich Sprotten in Konservendosen; geräuchert</td></tr>
+<tr><td>"</td><td>zum unmittelbaren menschlichen Verzehr oder zur Verwendung als Lebensmittelzutat bestimmte Öle und Fette</td><td colspan="2">10</td><td>ausgenommen Kakaobutter und Kokosnussöl</td></tr>
 </table>
 
 Anhang 7
@@ -736,38 +901,206 @@ Anhang 7
 <tr><td>"</td><td colspan="2">Säuglingsnahrung und Folgenahrung, pulverförmig</td><td colspan="2">1</td><td colspan="2">die Höchstgehalte gelten nicht für Lebensmittel, bei denen der über 2,5 mg/kg liegende Melamingehalt nachweislich durch die zugelassene Verwendung von Cyromazin als Insektizid entsteht; der Melamingehalt darf den Cyromazingehalt nicht übersteigen</td></tr>
 </table>
 
-Anhang 8*[^t-5]*
+Anhang 8[^t-7]
 
 (Art. 2 Abs. 3 Bst. h, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
 
 ## Höchstgehalte für pflanzeneigene Toxine
 
-[^t-5]: Bereinigt gemäss Ziff. III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) und vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### Teil A: Erläuterungen
 
 1 Die Höchstgehalte gelten für den essbaren Teil der Lebensmittel, soweit nichts anderes bestimmt ist.
 
+2 Die Höchstwerte für Pyrrolizidinalkaloide beziehen sich auf:
+
+2.1 die Untergrenze der Summe der folgenden 21 Stoffe:
+
+– Intermedin/Lycopsamin, Intermedin-N-Oxid/Lycopsamin-N-Oxid, Senecionin/Senecivernin, Senecionin-N-Oxid/Senecivernin-N-Oxid, Seneciphyllin, Seneciphyllin-N-Oxid;
+
+– Retrorsin, Retrorsin-N-Oxid, Echimidin, Echimidin-N-Oxid;
+
+– Lasiocarpin, Lasiocarpin-N-Oxid;
+
+– Senkirkin;
+
+– Europin, Europin-N-Oxid;
+
+– Heliotrin und Heliotrin-N-Oxid; und
+
+2.2 die folgenden zusätzlichen 14 Pyrrolizidinalkaloide, die bekanntermassen mit einem oder mehreren der oben genannten 21 Pyrrolizidinalkaloide koeluieren, anhand bestimmter derzeit verwendeter Analysemethoden:
+
+– Indicin, Echinatin, Rinderin (mögliche Koelution mit Lycopsamin/Intermedin);
+
+– Indicin-N-Oxid, Echinatin-N-Oxid, Rinderin-N-Oxid (mögliche Koelution mit Lycopsamin-N-Oxid/Intermedin-N-Oxid);
+
+– Integerrimin (mögliche Koelution mit Senecivernin/Senecionin);
+
+– Integerrimin-N-Oxid (mögliche Koelution mit Senecivernin-N-Oxid/Senecionin-N-Oxid);
+
+– Heliosupin (mögliche Koelution mit Echimidin);
+
+– Heliosupin-N-Oxid (mögliche Koelution mit Echimidin-N-Oxid);
+
+– Spartioidin (mögliche Koelution mit Seneciphyllin);
+
+– Spartioidin-N-Oxid (mögliche Koelution mit Seneciphyllin-N-Oxid);
+
+– Usaramin (mögliche Koelution mit Retrorsin);
+
+– Usaramin-N-Oxid (mögliche Koelution mit Retrorsin-N-Oxid).
+
+2.3 Pyrrolizidinalkaloide, die einzeln und getrennt mit der verwendeten Analysemethode identifiziert werden können, sind zu quantifizieren und in die Summe einzubeziehen.
+
+3 Die Höchstgehalte für Opiumalkaloide beziehen sich auf die Summe von Morphin und Codein, wobei für den Codeingehalt ein Faktor von 0,2 verwendet wird. Deshalb bezieht sich der Höchstgehalt auf die Summe von Morphin + 0,2 × Codein.
+
+4 Bei Obst, Gemüse und Getreide wird Bezug genommen auf die in der jeweiligen Kategorie aufgeführten Erzeugnisse gemäss der Definition nach Anhang 1 VPRH[^annex8-lvlu1-partA-1]. Der Höchstgehalt für Obst gilt nicht für Hartschalenobst.
+
+5 Der Höchstgehalt für Blausäure, einschliesslich in Blausäureglycosiden gebundener Blausäure, gilt nicht für unverarbeitete ganze, geriebene, gemahlene, geknackte oder gehackte Leinsamen und unverarbeitete ganze, geriebene, gemahlene, geknackte, oder gehackte Bittermandeln, die in kleinen Mengen für Konsumentinnen und Konsumenten bestimmt sind, wenn der Hinweis «nur zum Kochen und Backen verwenden. Nicht zum roh verzehren» vorhanden ist. Diese unverarbeiteten ganzen, geriebenen, gemahlenen, geknackten oder gehackten Leinsamen mit diesem Warnhinweis müssen dem Höchstgehalt von 250 mg/kg Blausäure entsprechen.
+
+[^annex8-lvlu1-partA-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+
 ### Teil B: Tabelle
 
 <table>
-<tr><th>1</th><th>2</th><th>3</th><th colspan="2">4</th></tr>
-<tr><th>Stoff</th><th>Lebensmittel</th><th>Höchstgehalt</th><th colspan="2">Bemerkungen</th></tr>
-<tr><td>Atropin</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder, die Hirse, Sorghum, Buchweizen oder daraus gewonnene Erzeugnisse enthalten</td><td>1 µg/kg</td><td>bezogen auf das im Handel erhältliche Erzeugnis</td></tr>
-<tr><td>Blausäure, einschliesslich in Blausäureglycosiden gebundene Blausäure</td><td>Aprikosenkerne</td><td>20 mg/kg</td><td colspan="2">unverarbeitet ganz, gerieben, gemahlen, geknackt oder gehackt, die für den Endverbraucher in Verkehr gebracht werden</td></tr>
-<tr><td>Erucasäure</td><td>Lebensmittel mit zugesetzten pflanzlichen Ölen und Fetten</td><td>50 g/kg</td><td colspan="2">ausgenommen Säuglingsanfangsnahrung und Folgenahrung; der Höchstgehalt bezieht sich auf den Gehalt an Erucasäure, bezogen auf den Gesamtgehalt an Fettsäuren in der Fettphase von Lebensmitteln</td></tr>
-<tr><td>"</td><td>pflanzliche Öle und Fette</td><td>50 g/kg</td><td colspan="2">der Höchstgehalt bezieht sich auf den Gehalt an Erucasäure, bezogen auf den Gesamtgehalt an Fettsäuren in der Fettphase von Lebensmitteln</td></tr>
-<tr><td>"</td><td>Säuglingsanfangsnahrung und Folgenahrung</td><td>10 g/kg</td><td colspan="2">der Höchstgehalt bezieht sich auf den Gehalt an Erucasäure, bezogen auf den Gesamtgehalt an Fettsäuren in der Fettphase von Lebensmitteln</td></tr>
-<tr><td>Scopolamin</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder, die Hirse, Sorghum, Buchweizen oder daraus gewonnene Erzeugnisse enthalten</td><td>1 µg/kg</td><td colspan="2">bezogen auf das im Handel erhältliche Erzeugnis</td></tr>
+<tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
+<tr><th>Stoff</th><th>Lebensmittel</th><th>Höchstgehalt</th><th>Bemerkungen</th></tr>
+<tr><td>Atropin</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder, die Hirse, Sorghumhirse, Buchweizen, Mais oder daraus gewonnene Erzeugnisse enthalten</td><td>1 µg/kg</td><td>bezogen auf das im Handel erhältliche Erzeugnis</td></tr>
+<tr><td>Blausäure, einschliesslich in Blausäureglycosiden gebundene Blausäure</td><td>Aprikosenkerne</td><td>20 mg/kg</td><td>unverarbeitet ganz, gerieben, gemahlen, geknackt oder gehackt, die für Konsumentinnen und Konsumenten bestimmt sind</td></tr>
+<tr><td>"</td><td>Leinsamen</td><td>250 mg/kg</td><td>unverarbeitet ganz, gerieben, gemahlen, geknackt oder gehackt, ausgenommen Leinsamen, die für Konsumentinnen und Konsumenten bestimmt sind</td></tr>
+<tr><td>"</td><td>Leinsamen</td><td>150 mg/kg</td><td>unverarbeitet ganz, gerieben, gemahlen, geknackt oder gehackt, die für Konsumentinnen und Konsumenten bestimmt sind</td></tr>
+<tr><td>"</td><td>Mandeln</td><td>35 mg/kg</td><td>unverarbeitet ganz, gerieben, gemahlen, geknackt oder gehackt, die für Konsumentinnen und Konsumenten bestimmt sind</td></tr>
+<tr><td>"</td><td>Maniok (Kassawawurzel)</td><td>50 mg/kg</td><td>frisch, geschält</td></tr>
+<tr><td>"</td><td>Maniok-Mehl und Tapiokamehl</td><td>10 mg/kg</td><td></td></tr>
+<tr><td>Erucasäure</td><td>pflanzliche Öle und Fette</td><td>20 g/kg</td><td>ausgenommen Leindotteröl, Senföl und Borretschöl; zum unmittelbaren Verzehr oder zur Verwendung als Lebensmittelzutat bestimmt; der Höchstgehalt bezieht sich auf den Gehalt an Erucasäure; bezogen auf den Gesamtgehalt an Fettsäuren in der Fettphase von Lebensmitteln</td></tr>
+<tr><td>"</td><td>Leindotteröl, Senföl und Borretschöl</td><td>50 g/kg</td><td>mit Zustimmung der zuständigen Behörde gilt der Höchstgehalt nicht für vor Ort erzeugtes und verzehrtes Senföl; der Höchstgehalt bezieht sich auf den Gehalt an Erucasäure; bezogen auf den Gesamtgehalt an Fettsäuren in der Fettphase von Lebensmitteln</td></tr>
+<tr><td>"</td><td>Senf</td><td>35 g/kg</td><td>der Höchstgehalt bezieht sich auf den Gehalt an Erucasäure; bezogen auf den Gesamtgehalt an Fettsäuren in der Fettphase von Lebensmitteln</td></tr>
+<tr><td>Opiumalkaloide</td><td>Mohnsamen</td><td>20 mg/kg</td><td>ganz oder gemahlen, die für Konsumentinnen und Konsumenten bestimmt sind</td></tr>
+<tr><td>"</td><td>Backwaren, die Mohnsamen oder daraus gewonnenen Erzeugnisse enthalten</td><td>1,5 mg/kg</td><td></td></tr>
+<tr><td>Pyrrolizidinalkaloide</td><td>Kräutertee</td><td>200 µg/kg</td><td>ausgenommen Rotbusch, Anis (*Pimpinella anisum*), Zitronenmelisse, Kamille, Thymian, Pfefferminze, Zitronenverbene und Kräutertee für Säuglinge und Kleinkinder; getrocknet</td></tr>
+<tr><td>"</td><td>Kräutertee von Rotbusch, Anis (*Pimpinella* *anisum*), Zitronenmelisse, Kamille, Thymian, Pfefferminze, Zitronenverbene</td><td>400 µg/kg</td><td>einschliesslich Mischungen, die ausschliesslich aus diesen getrockneten Kräutern bestehen; ausgenommen Kräutertee für Säuglinge und Kleinkinder; getrocknet</td></tr>
+<tr><td>"</td><td>Tee (*Camellia sinensis*)</td><td>150 µg/kg</td><td>einschliesslich aromatisierten Tees; ausgenommen Tee für Säuglinge und Kleinkinder; getrocknet</td></tr>
+<tr><td>"</td><td>Tee (*Camellia sinensis*) und Kräutertee für Säuglinge und Kleinkinder</td><td>75 µg/kg</td><td>einschliesslich aromatisierten Tees; getrocknet</td></tr>
+<tr><td>"</td><td>Tee (*Camellia sinensis*) und Kräutertees für Säuglinge und Kleinkinder</td><td>1 µg/kg</td><td>einschliesslich aromatisierten Tees; flüssig</td></tr>
+<tr><td>"</td><td>Nahrungsergänzungsmittel mit pflanzlichen Inhaltsstoffen einschliesslich Extrakten</td><td>400 µg/kg</td><td>ausgenommen Nahrungsergänzungsmittel auf Pollenbasis</td></tr>
+<tr><td>"</td><td>Nahrungsergänzungsmittel auf Pollenbasis</td><td>500 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Pollen und Pollenprodukte</td><td>500 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Borretschblätter</td><td>750 µg/kg</td><td>frisch oder gefroren; für Konsumentinnen und Konsumenten bestimmt</td></tr>
+<tr><td>"</td><td>Kräuter</td><td>400 µg/kg</td><td>ausgenommen Borretsch, Liebstöckel, Majoran und Oregano; getrocknet</td></tr>
+<tr><td>"</td><td>Borretsch, Liebstöckel, Majoran und Oregano</td><td>1000 µg/kg</td><td>getrocknet</td></tr>
+<tr><td>"</td><td>Kreuzkümmelsamen</td><td>400 µg/kg</td><td></td></tr>
+<tr><td>Scopolamin</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder, die Hirse, Sorghumhirse, Buchweizen, Mais oder daraus gewonnene Erzeugnisse enthalten</td><td>1 µg/kg</td><td>bezogen auf das im Handel erhältliche Erzeugnis</td></tr>
+<tr><td>Tropanalkaloide (Summe aus Atropin und Scopolamin)</td><td>Buchweizen</td><td>10 µg/kg</td><td>unverarbeitet oder für Konsumentinnen und Konsumenten bestimmt</td></tr>
+<tr><td>"</td><td>Hirse</td><td>5 µg/kg</td><td>unverarbeitet oder für Konsumentinnen und Konsumenten bestimmt</td></tr>
+<tr><td>"</td><td>Kräutertee</td><td>0,2 µg/kg</td><td>flüssig</td></tr>
+<tr><td>"</td><td>Kräutertee</td><td>25 µg/kg</td><td>getrocknet; ausgenommen Kräutertee aus Anissamen</td></tr>
+<tr><td>"</td><td>Kräutertee aus Anissamen</td><td>50 µg/kg</td><td>getrocknet</td></tr>
+<tr><td>"</td><td>Mahlerzeugnisse aus Buchweizen</td><td>10 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Mahlerzeugnisse aus Hirse, Sorghumhirse und Mais</td><td>5 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Mais</td><td>15 µg/kg</td><td>unverarbeitet; ausgenommen unverarbeiteter Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist und unverarbeiteter Popcorn-Mais</td></tr>
+<tr><td>"</td><td>Mais</td><td>5 µg/kg</td><td>für Konsumentinnen und Konsumenten bestimmt</td></tr>
+<tr><td>"</td><td>Popcorn-Mais</td><td>5 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Sorghumhirse</td><td>5 µg/kg</td><td>unverarbeitet oder für Konsumentinnen und Konsumenten bestimmt</td></tr>
 </table>
 
-Anhang 9*[^t-6]*
+Anhang 8a[^t-8]
+
+(Art. 2 Abs. 3 Bst. h<sup>bis</sup>, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
+
+## Höchstgehalte für PFAS
+
+[^t-8]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+
+### Teil A
+
+1 Die Höchstgehalte gelten für die Summe aus linearen und verzweigten Stereoisomeren, ungeachtet dessen, ob sie chromatografisch getrennt sind.
+
+2 Für die Summe aus Perfluoroctansulfonsäure (PFOS), Perfluoroctansäure (PFOA), Perfluornonansäure (PFNA) und Perfluorhexansulfonsäure (PFHxS) werden Konzentrationsuntergrenzen auf Basis der Annahme berechnet, dass alle Werte unterhalb der Bestimmungsgrenze bei 0 liegen.
+
+3 Sofern der gesamte Fisch zum Verzehr bestimmt ist, gelten die Höchstgehalte für den gesamten Fisch.
+
+4 Bei Produkten in Konservendosen wird die Analyse für den gesamten Konserveninhalt durchgeführt.
+
+### Teil B: Tabelle
+
+<table>
+<tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
+<tr><th>Parameter</th><th>Lebensmittel</th><th>Höchstgehalt (µg/kg)</th><th>Bemerkungen</th></tr>
+<tr><td>PFOS</td><td>Eier</td><td>1</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (*Brachyura* und *Anomura*)</td><td>3</td><td>Muskelfleisch der Extremitäten; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td>3</td><td>Muskelfleisch der Extremitäten und des Hinterleibs; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muscheln</td><td>3</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen</td><td>2</td><td>übrige; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus* *cynoglossus*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten)</td><td>7</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Brasse (*Abramis*-Arten) Felchen (*Coregonus*-Arten) Flussbarsch (*Perca fluviatilis*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Stint (*Osmerus*-Arten) Zander (*Sander*-Arten)</td><td>35</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Brasse (*Abramis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Felchen (*Coregonus*-Arten) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Flussbarsch (*Perca fluviatilis*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Stint (*Osmerus*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten) Zander (*Sander*-Arten)</td><td>2</td><td>sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind</td></tr>
+<tr><td>"</td><td>Fleisch von Rindern, Schweinen und Geflügel</td><td>0,3</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Schafen</td><td>1</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Wild</td><td>5</td><td>ausgenommen Fleisch von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Rindern, Schafen, Schweinen und Geflügel</td><td>6</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Wild</td><td>50</td><td>ausgenommen Schlachtnebenerzeugnisse von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>PFOA</td><td>Eier</td><td>0,3</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (*Brachyura* und *Anomura*)</td><td>0,7</td><td>Muskelfleisch der Extremitäten; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td>0,7</td><td>Muskelfleisch der Extremitäten und des Hinterleibs; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muscheln</td><td>0,7</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen</td><td>0,2</td><td>übrige; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten)</td><td>1</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Brasse (*Abramis*-Arten) Felchen (*Coregonus*-Arten) Flussbarsch (*Perca fluviatilis*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Stint (*Osmerus*-Arten) Zander (*Sander*-Arten)</td><td>8</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Brasse (*Abramis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Felchen (*Coregonus*-Arten) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Flussbarsch (*Perca fluviatilis*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Stint (*Osmerus*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten) Zander (*Sander*-Arten)</td><td>0,2</td><td>sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind</td></tr>
+<tr><td>"</td><td>Fleisch von Rindern, Schweinen und Geflügel</td><td>0,8</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Schafen</td><td>0,2</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Wild</td><td>3,5</td><td>ausgenommen Fleisch von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Rindern, Schafen, Schweinen und Geflügel</td><td>0,7</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Wild</td><td>25</td><td>ausgenommen Schlachtnebenerzeugnisse von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>PFNA</td><td>Eier</td><td>0,7</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (*Brachyura* und *Anomura*)</td><td>1</td><td>Muskelfleisch der Extremitäten; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td>1</td><td>Muskelfleisch der Extremitäten und des Hinterleibs; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muscheln</td><td>1</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen</td><td>0,5</td><td>übrige; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten)</td><td>2,5</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Brasse (*Abramis*-Arten) Felchen (*Coregonus*-Arten) Flussbarsch (*Perca fluviatilis*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Stint (*Osmerus*-Arten) Zander (*Sander*-Arten)</td><td>8</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Brasse (*Abramis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Felchen (*Coregonus*-Arten) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Flussbarsch (*Perca fluviatilis*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Stint (*Osmerus*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten) Zander (*Sander*-Arten)</td><td>0,5</td><td>sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind</td></tr>
+<tr><td>"</td><td>Fleisch von Rindern, Schweinen und Geflügel</td><td>0,2</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Schafen</td><td>0,2</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Wild</td><td>1,5</td><td>ausgenommen Fleisch von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Rindern, Schafen, Schweinen und Geflügel</td><td>0,4</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Wild</td><td>45</td><td>ausgenommen Schlachtnebenerzeugnisse von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>PFHxS</td><td>Eier</td><td>0,3</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (*Brachyura* und *Anomura*)</td><td>1,5</td><td>Muskelfleisch der Extremitäten; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td>1,5</td><td>Muskelfleisch der Extremitäten und des Hinterleibs; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muscheln</td><td>1,5</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen</td><td>0,2</td><td>übrige; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten)</td><td>0,2</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Brasse (*Abramis*-Arten) Felchen (*Coregonus*-Arten) Flussbarsch (*Perca fluviatilis*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Stint (*Osmerus*-Arten) Zander (*Sander*-Arten)</td><td>1,5</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Brasse (*Abramis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Felchen (*Coregonus*-Arten) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Flussbarsch (*Perca fluviatilis*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Stint (*Osmerus*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten) Zander (*Sander*-Arten)</td><td>0,2</td><td>sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind</td></tr>
+<tr><td>"</td><td>Fleisch von Rindern, Schweinen und Geflügel</td><td>0,2</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Schafen</td><td>0,2</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Wild</td><td>0,6</td><td>ausgenommen Fleisch von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Rindern, Schafen, Schweinen und Geflügel</td><td>0,5</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Wild</td><td>3</td><td>ausgenommen Schlachtnebenerzeugnisse von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>Summe aus PFOS, PFOA, PFNA und PFHxS</td><td>Eier</td><td>1,7</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krabben und krabbenartige Krebstiere (*Brachyura* und *Anomura*)</td><td>5</td><td>Muskelfleisch der Extremitäten; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Krebstiere</td><td>5</td><td>Muskelfleisch der Extremitäten und des Hinterleibs; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muscheln</td><td>5</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch von Fischen</td><td>2</td><td>übrige; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten)</td><td>8</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Brasse (*Abramis*-Arten) Felchen (*Coregonus*-Arten) Flussbarsch (*Perca fluviatilis*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Stint (*Osmerus*-Arten) Zander (*Sander*-Arten)</td><td>45</td><td>ausgenommen, sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Muskelfleisch folgender Fischarten: Aal (*Anguilla*-Arten) Barbe (*Barbus barbus*) Bastardmakrele (*Trachurus trachurus*) Bonito (*Sarda*- und *Orcynopsis*-Arten) Brasse (*Abramis*-Arten) Europäische Sprotte (*Sprattus sprattus*) Felchen (*Coregonus*-Arten) Flunder und Rotzunge (*Platichthys flesus* und *Glyptocephalus cynoglossus*) Flussbarsch (*Perca fluviatilis*) Grosskopfmeeräsche (*Mugil cephalus*) Hecht (*Esox*-Arten) Kleine Maräne (*Coregonus albula* und *Coregonus vandesius*) Leuchtfisch (*Phosichthys argenteus*) Meerneunauge (*Petromyzon marinus*) Ostseehering (*Clupea harengus membras*) Quappe (*Lota lota*) Rotauge (*Rutilus rutilus*) Saibling (*Salvelinus*-Arten) Sardelle (*Engraulis*-Arten) Sardine und Pilchard (*Sardina*-Arten) Schleie (*Tinca tinca*) Scholle (*Pleuronectes*- und *Lepidopsetta*-Arten) Seebarsch (*Dicentrarchus*-Arten) Seewolf (*Anarhichas*-Arten) Stint (*Osmerus*-Arten) Wels und Pangasius (*Silurus*- und *Pangasius*-Arten) Wildlachs und Wildforelle (wildlebende *Salmo*- und *Oncorhynchus*-Arten) Zander (*Sander*-Arten)</td><td>2</td><td>sofern sie zur Herstellung von Beikost für Säuglinge und Kleinkinder bestimmt sind</td></tr>
+<tr><td>"</td><td>Fleisch von Rindern, Schweinen und Geflügel</td><td>1,3</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Schafen</td><td>1,6</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Fleisch von Wild</td><td>9</td><td>ausgenommen Fleisch von Bären; bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Rindern, Schafen, Schweinen und Geflügel</td><td>8</td><td>bezogen auf Frischgewicht</td></tr>
+<tr><td>"</td><td>Schlachtnebenerzeugnisse von Wild</td><td>50</td><td>ausgenommen Schlachtnebenerzeugnisse von Bären; bezogen auf Frischgewicht</td></tr>
+</table>
+
+Anhang 9[^t-9]
 
 (Art. 2 Abs. 3 Bst. i, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
 
 ## Höchstgehalte für weitere Kontaminanten in Lebensmitteln
 
-[^t-6]: Bereinigt gemäss Ziff. III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-9]: Bereinigt gemäss Ziff. III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### Teil A: Erläuterungen
 
@@ -780,65 +1113,65 @@ Anhang 9*[^t-6]*
 ### Teil B: Tabelle
 
 <table>
-<tr><th>1</th><th colspan="2">2</th><th colspan="2">3</th><th colspan="3">4</th></tr>
-<tr><th>Stoff</th><th colspan="2">Lebensmittel</th><th colspan="2">Höchstgehalt</th><th colspan="3">Bemerkungen</th></tr>
-<tr><td colspan="2">weitere mikrobielle Toxine</td><td colspan="2"></td><td></td><td colspan="3"></td></tr>
-<tr><td>Amnesie hervorrufende Algentoxine (ASP, amnesic shellfish poison)</td><td colspan="2">Muscheln</td><td colspan="2"></td><td colspan="4">siehe Domoinsäure</td></tr>
-<tr><td>Azaspirosäuren</td><td colspan="2">"</td><td colspan="2">160 µg/kg</td><td colspan="4">als Azaspirosäuren-Äquivalente</td></tr>
-<tr><td>Botulinum-Toxin</td><td colspan="2">Lebensmittel allgemein</td><td colspan="2">nd</td><td colspan="4">empfindlichste Methode</td></tr>
-<tr><td>Dinophysistoxine</td><td colspan="2">Muscheln</td><td colspan="2"></td><td colspan="4">siehe Okadainsäure</td></tr>
-<tr><td>Domoinsäure</td><td colspan="2">"</td><td colspan="2">20 mg/kg</td><td colspan="4"></td></tr>
-<tr><td>Lähmungen hervorrufende Algentoxine (PSP, paralytic shellfish poison)</td><td colspan="2">"</td><td colspan="2">800 µg/kg</td><td colspan="4">Summe</td></tr>
-<tr><td>Okadainsäure</td><td colspan="2">"</td><td colspan="2">160 µg/kg</td><td colspan="4">Okadainsäure, Dinophysistoxine und Pectenotoxine insgesamt, als Okadainsäure-Äquivalente</td></tr>
-<tr><td>Pectenotoxine</td><td colspan="2">"</td><td colspan="2"></td><td colspan="4">siehe Okadainsäure</td></tr>
-<tr><td>Saxitoxin</td><td colspan="2">"</td><td colspan="2"></td><td colspan="4">siehe Lähmungen hervorrufende Algentoxine</td></tr>
-<tr><td>Yessotoxine</td><td colspan="2">"</td><td colspan="2">3500 µg/kg</td><td colspan="4">als Yessotoxin-Äquivalente</td></tr>
-<tr><td colspan="5">Kontaminanten aus der Herstellung von Gelatine und Kollagen</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>Schwefeldioxid (SO<sub>2</sub>)</td><td colspan="2">Gelatine</td><td colspan="2">50 mg/kg</td><td colspan="4"></td></tr>
-<tr><td>"</td><td colspan="2">Kollagen</td><td colspan="2">50 mg/kg</td><td colspan="4"></td></tr>
-<tr><td>Wasserstoffperoxid (H<sub>2</sub>O<sub>2</sub>)</td><td colspan="2">Gelatine</td><td colspan="2">10 mg/kg</td><td colspan="4"></td></tr>
-<tr><td>"</td><td colspan="2">Kollagen</td><td colspan="2">10 mg/kg</td><td colspan="4"></td></tr>
-<tr><td colspan="5">Kontaminanten aus der Herstellung von alkoholischen Getränken</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>Ethylcarbamat</td><td colspan="2">Spirituosen</td><td colspan="2">1 mg/l</td><td colspan="4">gilt nicht für Spirituosen die vor 2003 erzeugt wurden (Datum der Destillation)</td></tr>
-<tr><td>Hydrogencyanid</td><td colspan="2">Brand aus Steinobsttrester</td><td colspan="2">70 mg/l</td><td colspan="4">bezogen auf reinen Alkohol; gesamt als HCN</td></tr>
-<tr><td>"</td><td colspan="2">Steinobstbrände</td><td colspan="2">70 mg/l</td><td colspan="4">"</td></tr>
-<tr><td>Methanol</td><td colspan="2">Apfelbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Aprikosenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Birnenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">ausgenommen Williamsbirnenbrand: bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Brand aus Apfel- oder Birnenwein</td><td colspan="2">1000 g/hl</td><td colspan="4">einschliesslich Brand aus Apfel- und Birnenwein: bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Brand aus Obsttrester</td><td colspan="2">1500 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Brandy oder Weinbrand</td><td colspan="2">200 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Branntwein</td><td colspan="2">200 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Brombeerbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Enzian</td><td colspan="2">1500 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Himbeerbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Holunderbeerenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Johannisbeerenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">aus roten und/oder schwarzen Johannisbeeren; bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">London Gin</td><td colspan="2">5 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Mirabellenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Obst- oder Gemüsebrand</td><td colspan="2">1000 g/hl</td><td colspan="4">übrige; bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Pfirsichbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Pflaumenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Quittenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Spirituosen</td><td colspan="2">1000 g/hl</td><td colspan="4">übrige; bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Tresterbrand oder Trester</td><td colspan="2">1000 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Vogelbeerenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Wacholderbeerenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Williamsbirnenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Wodka</td><td colspan="2">10 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>"</td><td colspan="2">Zwetschgenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
-<tr><td>Nitrosamine, flüchtige</td><td colspan="2">Bier</td><td colspan="2">0.5 µg/kg</td><td colspan="4">Summe</td></tr>
-<tr><td colspan="8">Weitere pflanzliche Inhaltsstoffe</td></tr>
-<tr><td>Morphin</td><td colspan="2">Mohnsamen</td><td colspan="2">30 mg/kg</td><td colspan="3">berechnet als Base</td></tr>
-<tr><td>Tetrahydrocannabinol, Delta 9-</td><td colspan="2">alkoholfreie Getränke</td><td colspan="2">200 µg/kg</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf trinkfertige Zubereitung</td></tr>
-<tr><td>"</td><td colspan="2">alkoholhaltige Getränke</td><td colspan="2">200 µg/kg</td><td colspan="3">ausgenommen Spirituosen; Produkte mit Hanfbestandteilen</td></tr>
-<tr><td>"</td><td colspan="2">Back- und Dauerbackwaren</td><td colspan="2">2 mg/kg</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf Trockenmasse</td></tr>
-<tr><td>"</td><td colspan="2">Hanfsamen</td><td colspan="2">10 mg/kg</td><td colspan="3">bezogen auf Trockenmasse</td></tr>
-<tr><td>"</td><td colspan="2">Hanfsamenöl</td><td colspan="2">20 mg/kg</td><td colspan="3"></td></tr>
-<tr><td>"</td><td colspan="2">Kräuter- und Früchtetee</td><td colspan="2">200 µg/kg</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf trinkfertige Zubereitung, 15 g Pflanzenteile pro kg Wasser, mit kochendem Wasser übergiessen und während 30 Minuten über 85 °C halten</td></tr>
-<tr><td>"</td><td colspan="2">pflanzliche Lebensmittel</td><td colspan="2">1 mg/kg</td><td colspan="3">übrige; Produkte mit Hanfbestandteilen; bezogen auf Trockenmasse</td></tr>
-<tr><td>"</td><td colspan="2">Spirituosen</td><td colspan="2">5 mg/l</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf reinen Alkohol</td></tr>
-<tr><td>"</td><td colspan="2">Teigwaren</td><td colspan="2">2 mg/kg</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf Trockenmasse</td></tr>
+<tr><th>1</th><th>2</th><th colspan="2">3</th><th colspan="3">4</th></tr>
+<tr><th>Stoff</th><th>Lebensmittel</th><th colspan="2">Höchstgehalt</th><th colspan="3">Bemerkungen</th></tr>
+<tr><td>weitere mikrobielle Toxine</td><td colspan="2"></td><td></td><td colspan="3"></td></tr>
+<tr><td>Amnesie hervorrufende Algentoxine (ASP, amnesic shellfish poison)</td><td>Muscheln</td><td colspan="2"></td><td colspan="4">siehe Domoinsäure</td></tr>
+<tr><td>Azaspirosäuren</td><td>"</td><td colspan="2">160 µg/kg</td><td colspan="4">als Azaspirosäuren-Äquivalente</td></tr>
+<tr><td>Botulinum-Toxin</td><td>Lebensmittel allgemein</td><td colspan="2">nd</td><td colspan="4">empfindlichste Methode</td></tr>
+<tr><td>Dinophysistoxine</td><td>Muscheln</td><td colspan="2"></td><td colspan="4">siehe Okadainsäure</td></tr>
+<tr><td>Domoinsäure</td><td>"</td><td colspan="2">20 mg/kg</td><td colspan="4"></td></tr>
+<tr><td>Lähmungen hervorrufende Algentoxine (PSP, paralytic shellfish poison)</td><td>"</td><td colspan="2">800 µg/kg</td><td colspan="4">Summe</td></tr>
+<tr><td>Okadainsäure</td><td>"</td><td colspan="2">160 µg/kg</td><td colspan="4">Okadainsäure, Dinophysistoxine und Pectenotoxine insgesamt, als Okadainsäure-Äquivalente</td></tr>
+<tr><td>Pectenotoxine</td><td>"</td><td colspan="2"></td><td colspan="4">siehe Okadainsäure</td></tr>
+<tr><td>Saxitoxin</td><td>"</td><td colspan="2"></td><td colspan="4">siehe Lähmungen hervorrufende Algentoxine</td></tr>
+<tr><td>Yessotoxine</td><td>"</td><td colspan="2">3500 µg/kg</td><td colspan="4">als Yessotoxin-Äquivalente</td></tr>
+<tr><td colspan="4">Kontaminanten aus der Herstellung von Gelatine und Kollagen</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>Schwefeldioxid (SO<sub>2</sub>)</td><td>Gelatine</td><td colspan="2">50 mg/kg</td><td colspan="4"></td></tr>
+<tr><td>"</td><td>Kollagen</td><td colspan="2">50 mg/kg</td><td colspan="4"></td></tr>
+<tr><td>Wasserstoffperoxid (H<sub>2</sub>O<sub>2</sub>)</td><td>Gelatine</td><td colspan="2">10 mg/kg</td><td colspan="4"></td></tr>
+<tr><td>"</td><td>Kollagen</td><td colspan="2">10 mg/kg</td><td colspan="4"></td></tr>
+<tr><td colspan="4">Kontaminanten aus der Herstellung von alkoholischen Getränken</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>Ethylcarbamat</td><td>Spirituosen</td><td colspan="2">1 mg/l</td><td colspan="4">gilt nicht für Spirituosen die vor 2003 erzeugt wurden (Datum der Destillation)</td></tr>
+<tr><td>Hydrogencyanid</td><td>Brand aus Steinobsttrester</td><td colspan="2">70 mg/l</td><td colspan="4">bezogen auf reinen Alkohol; gesamt als HCN</td></tr>
+<tr><td>"</td><td>Steinobstbrände</td><td colspan="2">70 mg/l</td><td colspan="4">"</td></tr>
+<tr><td>Methanol</td><td>Apfelbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Aprikosenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Birnenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">ausgenommen Williamsbirnenbrand: bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Brand aus Apfel- oder Birnenwein</td><td colspan="2">1000 g/hl</td><td colspan="4">einschliesslich Brand aus Apfel- und Birnenwein: bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Brand aus Obsttrester</td><td colspan="2">1500 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Brandy oder Weinbrand</td><td colspan="2">200 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Branntwein</td><td colspan="2">200 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Brombeerbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Enzian</td><td colspan="2">1500 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Himbeerbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Holunderbeerenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Johannisbeerenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">aus roten und/oder schwarzen Johannisbeeren; bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>London Gin</td><td colspan="2">5 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Mirabellenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Obst- oder Gemüsebrand</td><td colspan="2">1000 g/hl</td><td colspan="4">übrige; bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Pfirsichbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Pflaumenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Quittenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Spirituosen</td><td colspan="2">1000 g/hl</td><td colspan="4">übrige; bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Tresterbrand oder Trester</td><td colspan="2">1000 g/hl</td><td colspan="4">bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Vogelbeerenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Wacholderbeerenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Williamsbirnenbrand</td><td colspan="2">1350 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Wodka</td><td colspan="2">10 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>"</td><td>Zwetschgenbrand</td><td colspan="2">1200 g/hl</td><td colspan="4">"</td></tr>
+<tr><td>Nitrosamine, flüchtige</td><td>Bier</td><td colspan="2">0.5 µg/kg</td><td colspan="4">Summe</td></tr>
+<tr><td colspan="7">Weitere pflanzliche Inhaltsstoffe</td></tr>
+<tr><td>Morphin</td><td>Mohnsamen</td><td colspan="2">30 mg/kg</td><td colspan="3">berechnet als Base</td></tr>
+<tr><td>Tetrahydrocannabinol, Delta 9-</td><td>alkoholfreie Getränke</td><td colspan="2">200 µg/kg</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf trinkfertige Zubereitung</td></tr>
+<tr><td>"</td><td>alkoholhaltige Getränke</td><td colspan="2">200 µg/kg</td><td colspan="3">ausgenommen Spirituosen; Produkte mit Hanfbestandteilen</td></tr>
+<tr><td>"</td><td>Back- und Dauerbackwaren</td><td colspan="2">2 mg/kg</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf Trockenmasse</td></tr>
+<tr><td>"</td><td>Hanfsamen</td><td colspan="2">10 mg/kg</td><td colspan="3">bezogen auf Trockenmasse</td></tr>
+<tr><td>"</td><td>Hanfsamenöl</td><td colspan="2">20 mg/kg</td><td colspan="3"></td></tr>
+<tr><td>"</td><td>Kräuter- und Früchtetee</td><td colspan="2">200 µg/kg</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf trinkfertige Zubereitung, 15 g Pflanzenteile pro kg Wasser, mit kochendem Wasser übergiessen und während 30 Minuten über 85 °C halten</td></tr>
+<tr><td>"</td><td>pflanzliche Lebensmittel</td><td colspan="2">1 mg/kg</td><td colspan="3">übrige; Produkte mit Hanfbestandteilen; bezogen auf Trockenmasse</td></tr>
+<tr><td>"</td><td>Spirituosen</td><td colspan="2">5 mg/l</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf reinen Alkohol</td></tr>
+<tr><td>"</td><td>Teigwaren</td><td colspan="2">2 mg/kg</td><td colspan="3">Produkte mit Hanfbestandteilen; bezogen auf Trockenmasse</td></tr>
 </table>
 
 ### Teil C: Methoden
@@ -848,15 +1181,15 @@ Anhang 9*[^t-6]*
 2 Werden Lebensmittel zur Kontrolle des Gehalts an Kontaminanten aus der Herstellung von Gelatine und Kollagen untersucht, so gelten die Anforderungen gemäss dem Europäischen Arzneibuch *Pharmacopoea Europaea,* 10. Ausgabe (Ph. Eur. 10), vom November 2018[^annex9-lvlu1-partC-2].
 
 [^annex9-lvlu1-partC-1]: Verordnung (EG) 2074/2005 der Kommission vom 5. Dezember 2005 zur Festlegung von Durchführungsvorschriften für bestimmte unter die Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates fallende Erzeugnisse und für die in den Verordnungen (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vorgesehenen amtlichen Kontrollen, zur Abweichung von der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates und zur Änderung der Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004, ABl. L 338 vom 22.12.2005, S. 27, zuletzt geändert durch Durchführungsverordnung (EU) 2019/1139, ABl. L 180 vom 4.7.2019, S. 12.
-[^annex9-lvlu1-partC-2]: Die Pharmacopoea Europaea wird im Original vom Europarat herausgegeben. Die französische Originalausgabe kann beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, www.bundespublikationen.admin.ch, zu den in der Gebührenverordnung Publikationen vom 19. Nov. 2014 (GebV-Publ; [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)) vorgesehenen Bedingungen bezogen werden. Bis zur Herausgabe der deutschen Fassung können einzelne Texte in deutscher Sprache als Druckfahne bei der Abteilung Pharmakopöe des Schweizerischen Heilmittelinstituts (Swissmedic) bezogen werden.
+[^annex9-lvlu1-partC-2]: Die Pharmacopoea Europaea wird im Original vom Europarat herausgegeben. Die französische Originalausgabe kann beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [http://www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch), zu den in der Gebührenverordnung Publikationen vom 19. Nov. 2014 (GebV-Publ; [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)) vorgesehenen Bedingungen bezogen werden. Bis zur Herausgabe der deutschen Fassung können einzelne Texte in deutscher Sprache als Druckfahne bei der Abteilung Pharmakopöe des Schweizerischen Heilmittelinstituts (Swissmedic) bezogen werden.
 
-Anhang 10*[^t-7]*
+Anhang 10[^t-10]
 
 (Art. 3, 4 Abs. 4, 5 Abs. 1 und 2 sowie 7 Abs. 1)
 
 ## Höchstgehalte für Radionuklide nach einem nuklearen Unfall oder einem anderen radiologischen Notfall
 
-[^t-7]: Bereinigt gemäss Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), der Berichtigung vom 2. Okt. 2018 ([AS 2018 3313](https://fedlex.data.admin.ch/eli/oc/2018/534)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-10]: Bereinigt gemäss Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), der Berichtigung vom 2. Okt. 2018 ([AS 2018 3313](https://fedlex.data.admin.ch/eli/oc/2018/534)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### Teil A: Erläuterungen
 
@@ -935,13 +1268,13 @@ Anhang 10*[^t-7]*
 <tr><td>"</td><td>Säuglingsanfangs- und Folgenahrung</td><td>400</td><td>"</td></tr>
 </table>
 
-Anhang 11*[^t-8]*
+Anhang 11[^t-11]
 
 (Art. 5*a* Abs. 1, 5*b* Abs. 1 und 7 Abs. 1)
 
 ## Richtwerte für Kontaminanten zur Überprüfung der guten Verfahrenspraxis
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-11]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### Teil A: Tabelle
 
