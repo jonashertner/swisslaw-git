@@ -4,13 +4,12 @@ number: "140.15"
 title: Verordnung zum Projekt- und Projektportfolio-Management
 short: VPPM
 language: de
-version: 2019-11-01
-valid_until: 2024-01-31
-version_adopted: 2019-10-29
+version: 2024-02-01
+version_adopted: 2024-01-23
 adopted: 2017-01-24
 in_force: 2017-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.15"
-pdf: "https://bl.clex.ch/api/de/versions/2498/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3876/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2498/pdf_file"
 
 (VPPM)
 
-Vom 24.01.2017 (Stand 01.11.2019)
+Vom 24.01.2017 (Stand 01.02.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt das Vorgehen für die Abwicklung von Programmen und Projekten und das Projektportfolio-Management in der kantonalen Verwaltung.
 
-<sup>2</sup> Als kantonale Verwaltung gelten im Sinne dieser Verordnung die Direktionen und die Landeskanzlei sowie die ihnen unterstellten Dienststellen.
+<sup>2</sup> …
 
 #### § 2
 
@@ -53,8 +52,9 @@ beschliesst:
 <tr><td>d.</td><td>«Projektportfolio-Management»:</td><td>umfasst alle Aufgaben und Prozesse, die für die übergeordnete Priorisierung, Koordination, Kontrolle und Unterstützung von geplanten und laufenden Projekten notwendig sind;</td></tr>
 <tr><td>e.</td><td>«Projekt-Assessment»:</td><td>eine punktuelle Prüfung eines Projektes durch Expertinnen und Experten, die vom Projekt unabhängig sind und die den Stand eines Projektes und dessen Einbettung in die Linienorganisation einschätzen, ein fundiertes Urteil über die Erfolgschancen erstellen und bei Bedarf korrigierende Massnahmen empfehlen;</td></tr>
 <tr><td>f.</td><td>«Gesamtausgaben»:</td><td>die Summe aller in Zusammenhang mit einem Projekt stehenden einmaligen Ausgaben (Drittkosten) über die ganze Projektdauer sowie die Folgeausgaben zur Nutzung der Projektergebnisse über eine 4-jährige Nutzungsdauer;</td></tr>
-<tr><td>g.</td><td>«Informatikprojekt»:</td><td>ein Projekt, dessen Hauptziel darin besteht, Geschäftsprozesse zu digitalisieren, Datensammlungen aufzubauen oder zu nutzen, eine Fachanwendung einzuführen respektive anzupassen oder Informatikinfrastrukturen aufzubauen oder zu verbessern;</td></tr>
-<tr><td>h.</td><td>«Schlüsselprojekt»:</td><td>Projekte, die im Aufgaben- und Finanzplan und im Jahresbericht ausgewiesen werden.</td></tr>
+<tr><td>g.</td><td>«Informatik- bzw. Digitalisierungsprojekt»:</td><td>ein Projekt, dessen Hauptziel darin besteht, Geschäftsprozesse zu digitalisieren, Datensammlungen aufzubauen oder zu nutzen, eine Fachanwendung einzuführen respektive anzupassen oder Informatikinfrastrukturen aufzubauen oder zu verbessern;</td></tr>
+<tr><td>h.</td><td>«Schlüsselprojekt»:</td><td>Projekte, die im Aufgaben- und Finanzplan und im Jahresbericht ausgewiesen werden;</td></tr>
+<tr><td>i.</td><td>«Digitales Projektportfolio»:</td><td>eine einheitliche, auswertbare und aktuelle Zusammenstellung der geplanten und laufenden Informatik- bzw. Digitalisierungsprojekte.</td></tr>
 </table>
 
 #### § 3
@@ -113,22 +113,22 @@ beschliesst:
 
 **Projektleitung**
 
-<sup>1</sup> Leiterinnen und Leiter von Nicht-Informatikprojekten müssen in Abhängigkeit der Projektkategorie die folgenden Anforderungen erfüllen:
-
-<table>
-<tr><th>Bst.</th><th>Projektkategorie</th><th>Anforderung</th></tr>
-<tr><td>a.</td><td>Kleinprojekt</td><td>Basisausbildung Projektmanagement;</td></tr>
-<tr><td>b.</td><td>mittleres Projekt</td><td>Basisausbildung Projektmanagement, HERMES Foundation Zertifizierung;</td></tr>
-<tr><td>c.</td><td>Grossprojekt</td><td>Basisausbildung Projektmanagement, HERMES Foundation Zertifizierung, nachweisbare Erfahrung in der Führung von mittleren oder Grossprojekten.</td></tr>
-</table>
-
-<sup>2</sup> Leiterinnen und Leiter von Informatikprojekten müssen in Abhängigkeit der Projektkategorie die folgenden Anforderungen erfüllen:
+<sup>1</sup> Leiterinnen und Leiter von Informatik- bzw. Digitalisierungsprojekten müssen in Abhängigkeit der Projektkategorie die folgenden Anforderungen erfüllen:
 
 <table>
 <tr><th>Bst.</th><th>Projektkategorie</th><th>Anforderung</th></tr>
 <tr><td>a.</td><td>Kleinprojekt</td><td>Basisausbildung Projektmanagement;</td></tr>
 <tr><td>b.</td><td>mittleres Projekt</td><td>Basisausbildung Projektmanagement, HERMES Advanced Zertifizierung;</td></tr>
 <tr><td>c.</td><td>Grossprojekt</td><td>Basisausbildung Projektmanagement, HERMES Advanced Zertifizierung, nachweisbare Erfahrung in der Führung von mittleren oder Grossprojekten.</td></tr>
+</table>
+
+<sup>2</sup> Leiterinnen und Leiter von anderen Projekten müssen in Abhängigkeit der Projektkategorie die folgenden Anforderungen erfüllen:
+
+<table>
+<tr><th>Bst.</th><th>Projektkategorie</th><th>Anforderung</th></tr>
+<tr><td>a.</td><td>Kleinprojekt</td><td>Basisausbildung Projektmanagement;</td></tr>
+<tr><td>b.</td><td>mittleres Projekt</td><td>Basisausbildung Projektmanagement, HERMES Foundation Zertifizierung;</td></tr>
+<tr><td>c.</td><td>Grossprojekt</td><td>Basisausbildung Projektmanagement, HERMES Foundation Zertifizierung, nachweisbare Erfahrung in der Führung von mittleren oder Grossprojekten.</td></tr>
 </table>
 
 #### § 7
@@ -177,42 +177,38 @@ beschliesst:
 
 #### § 11
 
-**Informatikprojekte**
+**Informatik- bzw. Digitalisierungsprojekte**
 
-<sup>1</sup> Informatikprojekte der Kategorie mittleres oder Grossprojekt werden in einem zentralen Informatik-Projektportfolio geführt.
+<sup>1</sup> Geplante und laufende Informatik- bzw. Digitalisierungsprojekte aller Kategorien werden in einem gemeinsamen digitalen Projektportfolio geführt.
 
-<sup>2</sup> Die Führung des Informatik-Projektportfolios erfolgt gemäss separater Fachweisung zum Informatik-Projektportfolio-Management.
+<sup>2</sup> Die Führung des digitalen Projektportfolios erfolgt gemäss Fachweisung der Dienststelle Digitale Transformation (DiDiT).
 
-<sup>3</sup> Die Prozessverantwortung für das Informatik-Projektportfolio-Management liegt bei der Zentralen Informatik.
+<sup>3</sup> Die Prozessverantwortung für das digitale Projektportfolio-Management liegt bei der DiDiT.
 
-<sup>4</sup> Die Zentrale Informatik erstellt periodisch führungsrelevante Auswertungen aus dem Informatik-Projektportfolio zuhanden der Informatik- und Organisationsrates, der Direktionen und der Landeskanzlei.
+<sup>4</sup> Die DiDiT erstellt periodisch führungsrelevante Auswertungen aus dem digitalen Projektportfolio.
 
 ## 4 Projektmanagementkompetenz
+
+#### § 11a
+
+**Zuständigkeit**
+
+<sup>1</sup> Die DiDiT:
+
+- a. behandelt methodische, ausbildungsbezogene und praktische Fragen bei der Anwendung von HERMES;
+- b. unterstützt die Direktionen und die Landeskanzlei bei Bedarf;
+- c. verfolgt Entwicklungen im Bereich Projektmanagement und HERMES.
 
 #### § 12
 
 **Ausbildung**
 
-<sup>1</sup> Das Personalamt sorgt für ein Kursangebot im Bereich des Projektmanagements und der Projektmanagement-Methode HERMES. Dabei werden die kantonsspezifischen Gegebenheiten und die Bedürfnisse der Zielgruppen berücksichtigt.
+<sup>1</sup> Die DiDiT stellt Arbeitsmittel und Schulungen für die Projektmanagement-Methode HERMES zur Verfügung. Dabei werden die kantonsspezifischen Gegebenheiten und die Bedürfnisse der Zielgruppen berücksichtigt.
 
 <sup>2</sup> Die Direktionen und die Landeskanzlei sorgen dafür, dass die in ihrem Zuständigkeitsbereich tätigen Auftraggeberinnen und Auftraggeber sowie Projektleiterinnen und Projektleiter über die notwendigen Ausbildungen und Kompetenzen im Bereich des Projektmanagements und der anwendbaren Projektmanagement-Methode verfügen.
 
 #### § 13
 
-**Fachgruppe Projektmanagement**
-
-<sup>1</sup> Die Fachgruppe Projektmanagement behandelt direktionsübergreifende und methodische Aspekte im Zusammenhang mit dem Projektmanagement. Sie:
-
-- a. sorgt für den Erfahrens- und Informationsaustausch unter den Projektleiterinnen und Projektleitern;
-- b. behandelt methodische, ausbildungsbezogene und praktische Fragen bei der Anwendung von HERMES und macht diesbezügliche Empfehlungen;
-- c. tauscht sich mit anderen Anspruchsgruppen über Fragen im Zusammenhang mit der Projektabwicklung aus (z.B. Beschaffungsstelle, Aufsichtsstelle Datenschutz, Finanzkontrolle);
-- d. stellt Anleitungen, Vorlagen und Beispiele sowie kantonsspezifische Ergänzungen zur Verfügung;
-- e. organisiert ein Unterstützungsangebot für weniger erfahrene Projektleiterinnen und Projektleiter;
-- f. pflegt ein Verzeichnis der in den Direktionen und bei der Landeskanzlei tätigen Projektleiterinnen und Projektleitern;
-- g. verfolgt die Entwicklung und Trends im Bereich Projektmanagement und HERMES.
-
-<sup>2</sup> Die Direktionen und die Landeskanzlei stellen jeweils mindestens 1 HERMES-zertifizierte Projektleiterin oder 1 HERMES-zertifizierten Projektleiter als Mitglied der Fachgruppe.
-
-<sup>3</sup> Die Generalsekretärenkonferenz erlässt eine Geschäftsordnung und ernennt die Leiterin oder den Leiter der Fachgruppe. Sie oder er erstattet zuhanden der Generalsekretärenkonferenz einmal jährlich Bericht zum Stand des Projektmanagements.
+**…**
 
 GS 2017.010
