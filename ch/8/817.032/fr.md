@@ -4,11 +4,11 @@ title: Ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel d
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: fr
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-459-20240201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/fr"
 
 (OPCNP)
 
-du 27 mai 2020 (Etat le 1<sup>er</sup> juin 2022)
+du 27 mai 2020 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -376,7 +376,7 @@ En se basant sur les contrôles effectués par les autorités d’exécution, l�
 
 L’ordonnance du 16 décembre 2016 sur le plan de contrôle national de la chaîne alimentaire et des objets usuels[^22-1] est abrogée.
 
-[^22-1]: [[RO 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64), [2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)annexe 2 ch. 2 [4209](https://fedlex.data.admin.ch/eli/oc/2018/682)annexe 8 ch. 5]
+[^22-1]: [[RO 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64); [2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)annexe 2 ch. 2, [4209](https://fedlex.data.admin.ch/eli/oc/2018/682)annexe 8 ch. 5]
 
 #### Art. 23
 
@@ -392,11 +392,13 @@ La modification d’autres actes est réglée dans l’annexe 4.
 
 <sup>2</sup> L’art. 13, al. 1, entre en vigueur le 1<sup>er</sup> janvier 2021.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 7, al. 1 et 5)
 
 ## Intervalles maximaux entre les contrôles de base
+
+[^t-1]: Mise à jour par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)).
 
 ### Liste 1Exploitations pratiquant la production primaire
 
@@ -405,9 +407,10 @@ Annexe 1
 <tr><td>1.1</td><td>Exploitation à l’année</td><td></td></tr>
 <tr><td>1.1.1</td><td>Exploitation à l’année, avec production végétale, comptant plus de 5 hectares de terres ouvertes ou plus de 50 ares de cultures spéciales (contrôle de la production végétale)</td><td>8</td></tr>
 <tr><td>1.1.2</td><td>Exploitation à l’année, avec production animale, comptant plus de trois unités de gros bétail (contrôle de la production animale)</td><td>4</td></tr>
-<tr><td>1.2</td><td>Élevage de poissons produisant plus de 500 kg par an</td><td>4</td></tr>
+<tr><td>1.2</td><td>Élevage d’animaux aquatiques produisant plus de 500 kg par an</td><td>4</td></tr>
 <tr><td>1.3</td><td>Élevage d’abeilles de plus de 40 ruches</td><td>8</td></tr>
 <tr><td>1.4</td><td>Exploitation d’estivage</td><td>8</td></tr>
+<tr><td>1.5</td><td>Élevage d’insectes</td><td>4</td></tr>
 </table>
 
 ### Liste 2 Entreprises dont le champ d’activités se situe immédiatement en amont ou immédiatement en aval de la production primaire
@@ -423,8 +426,8 @@ Annexe 1
 <tr><td>2.7</td><td>Station d’insémination et de monte pour les ongulés autres que les chevaux</td><td>0,5</td></tr>
 <tr><td>2.8</td><td>Centre de collecte de produits agricoles en vrac</td><td>8</td></tr>
 <tr><td>2.9</td><td>Centre de collecte de lait</td><td>4</td></tr>
-<tr><td>2.10</td><td>Abattoir, sauf abattoir à volailles, et établissement de faible capacité au sens de l’art. 3, let. m, de l’ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV)[^annex1-lvlu1-lvlu2-1]</td><td>1</td></tr>
-<tr><td>2.11</td><td>Abattoir à volailles; abattoirs où les volailles sont abattues, habillées et emballées</td><td>1</td></tr>
+<tr><td>2.10</td><td>Grand établissement au sens de l’art. 3, let. l, de l’ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV)[^annex1-lvlu1-lvlu2-1]</td><td>1</td></tr>
+<tr><td>2.11</td><td>Établissement de faible capacité au sens de l’art. 3, let. m, OAbCV</td><td>2</td></tr>
 <tr><td>2.12</td><td>Entreprise traitant des sous-produits animaux au sens de l’art. 5 de l’ordonnance du 25 mai 2011 concernant les sous-produits animaux (OSPA)[^annex1-lvlu1-lvlu2-2]</td><td>1</td></tr>
 <tr><td>2.13</td><td>Entreprise de transformation traitant des sous-produits animaux au sens de l’art. 6 OSPA</td><td>1</td></tr>
 <tr><td>2.14</td><td>Centre de collecte de sous-produits animaux; stockage intermédiaire</td><td>2</td></tr>
@@ -435,7 +438,7 @@ Annexe 1
 [^annex1-lvlu1-lvlu2-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 [^annex1-lvlu1-lvlu2-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-### Liste 3 Entreprises soumises au devoir d’annonce selon les art. 20 et 62 de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels****
+### Liste 3 Entreprises soumises au devoir d’annonce selon les art. 20 et 62 de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels
 
 [^annex1-lvlu1-lvlu3-1]
 
@@ -448,9 +451,10 @@ Annexe 1
 <tr><td>A101</td><td>Entreprise fabriquant des produits laitiers</td><td>2</td></tr>
 <tr><td>A102</td><td>Entreprise d’affinage de fromages</td><td>2</td></tr>
 <tr><td>A103</td><td>Entreprise de conditionnement de produits fromagers</td><td>2</td></tr>
-<tr><td>A104</td><td>Abattoir, sauf abattoir à volailles, et établissement de faible capacité au sens de l’art. 3, let. m, OAbCV</td><td>voir liste 2</td></tr>
-<tr><td>A105</td><td>Abattoir à volailles; abattoir où les volailles sont abattues, habillées et emballées</td><td>voir liste 2</td></tr>
-<tr><td>A106</td><td>Établissement de découpe</td><td>1</td></tr>
+<tr><td>A104</td><td>Grand établissement au sens de l’art. 3, let. l, OAbCV</td><td>voir liste 2</td></tr>
+<tr><td>A105</td><td>Établissement de faible capacité au sens de l’art. 3, let. m, OAbCV</td><td>voir liste 2</td></tr>
+<tr><td>A106</td><td>Établissement de découpe dont les capacités de découpe correspondent aux capacités d’abattage d’un établissement de faible capacité au sens de l’art. 3, let. m, OAbCV</td><td>2</td></tr>
+<tr><td>A106a</td><td>Autre établissement de découpe</td><td>1</td></tr>
 <tr><td>A107</td><td>Entreprise fabriquant de la viande hachée</td><td>1</td></tr>
 <tr><td>A108</td><td>Entreprise de boyauderie et triperie</td><td>2</td></tr>
 <tr><td>A109</td><td>Entreprise de production de viande séparée mécaniquement</td><td>1</td></tr>
@@ -599,6 +603,6 @@ Annexe 4
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex4-lvlu1-1]
+…[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Les mod. peuvent être consultées au [RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459).

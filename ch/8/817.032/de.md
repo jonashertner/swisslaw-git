@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollpl
 short: MNKPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: de
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20240201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/de"
 
 (MNKPV)
 
-vom 27. Mai 2020 (Stand am 1. Juni 2022)
+vom 27. Mai 2020 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -392,11 +392,13 @@ Die Änderung anderer Erlasse wird in Anhang 4 geregelt.
 
 <sup>2</sup> Artikel 13 Absatz 1 tritt am 1. Januar 2021 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 7 Abs. 1 und 5)
 
 ## Maximale Zeitspannen zwischen den Grundkontrollen
+
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)).
 
 ### Liste 1Betriebe der Primärproduktion
 
@@ -405,9 +407,10 @@ Anhang 1
 <tr><td>1.1</td><td>Ganzjahresbetrieb</td><td></td></tr>
 <tr><td>1.1.1</td><td>Ganzjahresbetrieb mit pflanzlicher Produktion mit einer offenen Ackerfläche von über 5 Hektaren oder mit über 50 Aren an Spezialkulturen (Kontrolle der pflanzlichen Produktion)</td><td>8</td></tr>
 <tr><td>1.1.2</td><td>Ganzjahresbetrieb mit tierischer Produktion mit über drei Grossvieheinheiten (Kontrolle der tierischen Produktion)</td><td>4</td></tr>
-<tr><td>1.2</td><td>Fischhaltung mit einer jährlichen Produktion von mehr als 500 kg</td><td>4</td></tr>
+<tr><td>1.2</td><td>Wassertierhaltung mit einer jährlichen Produktion von mehr als 500 kg</td><td>4</td></tr>
 <tr><td>1.3</td><td>Bienenhaltung mit mehr als 40 Bienenstöcken</td><td>8</td></tr>
 <tr><td>1.4</td><td>Sömmerungsbetrieb</td><td>8</td></tr>
+<tr><td>1.5</td><td>Insektenhaltung</td><td>4</td></tr>
 </table>
 
 ### Liste 2 Betriebe mit einem Tätigkeitsbereich, der der Primärproduktion vor- oder direkt nachgelagert ist
@@ -423,8 +426,8 @@ Anhang 1
 <tr><td>2.7</td><td>Besamungs- und Deckstation für andere Huftiere als Pferde</td><td>0.5</td></tr>
 <tr><td>2.8</td><td>Sammelstelle für lose Agrarerzeugnisse</td><td>8</td></tr>
 <tr><td>2.9</td><td>Milchsammelstelle</td><td>4</td></tr>
-<tr><td>2.10</td><td>Schlachtbetrieb, ausser Geflügelschlachtbetrieb, und Betrieb mit geringer Kapazität nach Artikel 3 Buchstabe m der Verordnung vom 16. Dezember 2016[^annex1-lvlu1-lvlu2-1] über das Schlachten und die Fleischkontrolle (VSFK)</td><td>1</td></tr>
-<tr><td>2.11</td><td>Geflügelschlachtbetrieb; Schlachtbetrieb, in dem Geflügel geschlachtet, zugerichtet und verpackt wird</td><td>1</td></tr>
+<tr><td>2.10</td><td>Grossbetrieb nach Artikel 3 Buchstabe l der Verordnung vom 16. Dezember 2016[^annex1-lvlu1-lvlu2-1] über das Schlachten und die Fleischkontrolle (VSFK)</td><td>1</td></tr>
+<tr><td>2.11</td><td>Betrieb mit geringer Kapazität nach Artikel 3 Buchstabe m VSFK</td><td>2</td></tr>
 <tr><td>2.12</td><td>Betrieb, der tierische Nebenprodukte nach Artikel 5 der Verordnung vom 25. Mai 2011[^annex1-lvlu1-lvlu2-2] über tierische Nebenprodukte (VTNP)verarbeitet</td><td>1</td></tr>
 <tr><td>2.13</td><td>Verarbeitungsbetrieb im Bereich tierische Nebenprodukte nach Artikel 6 VTNP</td><td>1</td></tr>
 <tr><td>2.14</td><td>Sammelstelle von tierischen Nebenprodukten; Zwischenlagerung</td><td>2</td></tr>
@@ -435,7 +438,7 @@ Anhang 1
 [^annex1-lvlu1-lvlu2-1]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 [^annex1-lvlu1-lvlu2-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-### Liste 3: Betriebe, die der Meldepflicht nach den Artikeln 20 und 62 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016**** unterstehen
+### Liste 3: Betriebe, die der Meldepflicht nach den Artikeln 20 und 62 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 unterstehen
 
 [^annex1-lvlu1-lvlu3-1]
 
@@ -448,9 +451,10 @@ Anhang 1
 <tr><td>A101</td><td>Herstellbetrieb von Milchprodukten</td><td>2</td></tr>
 <tr><td>A102</td><td>Käsereifungsbetrieb</td><td>2</td></tr>
 <tr><td>A103</td><td>Abpackbetrieb für Käseprodukte</td><td>2</td></tr>
-<tr><td>A104</td><td>Schlachtbetrieb, ausser Geflügelschlachtbetrieb, und Betrieb mit geringer Kapazität nach Artikel 3 Buchstabe m VSFK</td><td>vgl. Liste 2</td></tr>
-<tr><td>A105</td><td>Geflügelschlachtbetrieb; Schlachtbetrieb, in dem Geflügel geschlachtet, zugerichtet und verpackt wird</td><td>vgl. Liste 2</td></tr>
-<tr><td>A106</td><td>Zerlegebetrieb</td><td>1</td></tr>
+<tr><td>A104</td><td>Grossbetrieb nach Artikel 3 Buchstabe l VSFK</td><td>vgl. Liste 2</td></tr>
+<tr><td>A105</td><td>Betrieb mit geringer Kapazität nach Artikel 3 Buchstabe m VSFK</td><td>vgl. Liste 2</td></tr>
+<tr><td>A106</td><td>Zerlegebetrieb, dessen Zerlegekapazität der Schlachtkapazität eines Betriebs mit geringer Kapazität nach Artikel 3 Buchstabe m VSFK entspricht</td><td>2</td></tr>
+<tr><td>A106a</td><td>Übrige Zerlegebetriebe</td><td>1</td></tr>
 <tr><td>A107</td><td>Herstellbetrieb von Hackfleisch</td><td>1</td></tr>
 <tr><td>A108</td><td>Herstellbetrieb von Därmen, Kutteln</td><td>2</td></tr>
 <tr><td>A109</td><td>Herstellbetrieb von Separatorenfleisch</td><td>1</td></tr>

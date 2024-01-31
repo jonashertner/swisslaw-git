@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sul piano di controllo nazionale pluriennal
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: it
-version: 2022-06-01
+version: 2024-02-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20240201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/it"
 
 (OPCNP)
 
-del 27 maggio 2020 (Stato 1° giugno 2022)
+del 27 maggio 202 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -376,7 +376,7 @@ L’UFAG e l’USAV, nei propri ambiti di competenza, pubblicano in base ai cont
 
 È abrogata l’ordinanza del 16 dicembre 2016[^22-1] sul piano di controllo nazionale della catena alimentare e degli oggetti d’uso.
 
-[^22-1]: [[RU 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64), [2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)all. 2 n. 2 [4209](https://fedlex.data.admin.ch/eli/oc/2018/682)all. 8 n. 5]
+[^22-1]: [[RU 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64); [2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)all. 2 n. 2; [4209](https://fedlex.data.admin.ch/eli/oc/2018/682)all. 8 n. 5]
 
 #### Art. 23
 
@@ -392,11 +392,13 @@ La modifica di altri atti normativi è disciplinata nell’allegato 4.
 
 <sup>2</sup> L’articolo 13 capoverso 1 entra in vigore 1° gennaio 2021.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 7 cpv. 1 e 5)
 
 ## Intervalli massimi tra i controlli di base
+
+[^t-1]: Aggiornato dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)).
 
 ### Elenco 1Aziende che effettuano produzione primaria
 
@@ -405,9 +407,10 @@ Allegato 1
 <tr><td>1.1</td><td>Azienda annuale</td><td></td></tr>
 <tr><td>1.1.1</td><td>Azienda annuale, a produzione vegetale, che conta oltre cinque ettari di superficie coltiva aperta oppure oltre 50 are di colture speciali (controllo della produzione vegetale)</td><td>8</td></tr>
 <tr><td>1.1.2</td><td>Azienda annuale, a produzione animale, che conta oltre tre unità di bestiame grosso (controllo della produzione animale)</td><td>4</td></tr>
-<tr><td>1.2</td><td>Acquacoltura con una produzione superiore a 500 kg l’anno</td><td>4</td></tr>
+<tr><td>1.2</td><td>Azienda detentrice di animali acquatici con una produzione annuale di oltre 500 kg</td><td>4</td></tr>
 <tr><td>1.3</td><td>Apicoltura con più di 40 arnie</td><td>8</td></tr>
 <tr><td>1.4</td><td>Azienda d’estivazione</td><td>8</td></tr>
+<tr><td>1.5</td><td>Azienda detentrice di insetti</td><td>4</td></tr>
 </table>
 
 ### Elenco 2 Aziende con un ambito di attività a monte o direttamente a valle della produzione primaria
@@ -423,8 +426,8 @@ Allegato 1
 <tr><td>2.7</td><td>Stazione di monta e di inseminazione per gli ungulati diversi dai cavalli</td><td>0,5</td></tr>
 <tr><td>2.8</td><td>Centro di raccolta di prodotti agricoli sfusi</td><td>8</td></tr>
 <tr><td>2.9</td><td>Centro di raccolta del latte</td><td>4</td></tr>
-<tr><td>2.10</td><td>Macello, tranne macello per pollame, e azienda con un’esigua capacità produttiva di cui all’articolo 3 lettera m dell’ordinanza del 16 dicembre 2016[^annex1-lvlu1-lvlu2-1] concernente la macellazione e il controllo delle carni (OMCC)</td><td>1</td></tr>
-<tr><td>2.11</td><td>Macello per pollame; gestione di macelli in cui il pollame è abbattuto, preparato e imballato</td><td>1</td></tr>
+<tr><td>2.10</td><td>Grande azienda di cui all’articolo 3 lettera l dell’ordinanza del 16 dicembre 2016[^annex1-lvlu1-lvlu2-1] concernente la macellazione e il controllo delle carni (OMCC)</td><td>1</td></tr>
+<tr><td>2.11</td><td>Azienda con un’esigua capacità produttiva di cui all’articolo 3 lettera m OMCC</td><td>2</td></tr>
 <tr><td>2.12</td><td>Azienda che trasforma sottoprodotti di origine animale di cui all’articolo 5 dell’ordinanza del 25 maggio 2011[^annex1-lvlu1-lvlu2-2] concernente i sottoprodotti di origine animale (OSOAn)</td><td>1</td></tr>
 <tr><td>2.13</td><td>Impianto di trasformazione che tratta sottoprodotti di origine animale di cui all’articolo 6 OSOAn</td><td>1</td></tr>
 <tr><td>2.14</td><td>Centro di raccolta di sottoprodotti di origine animale; stoccaggio intermedio</td><td>2</td></tr>
@@ -435,7 +438,7 @@ Allegato 1
 [^annex1-lvlu1-lvlu2-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 [^annex1-lvlu1-lvlu2-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
-### Elenco 3 Aziende soggette all’obbligo di notifica di cui agli articoli 20 e 62 dell’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso
+### Elenco 3 Aziende soggette all’obbligo di notifica di cui agli articoli 20 e 62 dell’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso
 
 [^annex1-lvlu1-lvlu3-1]
 
@@ -448,9 +451,10 @@ Allegato 1
 <tr><td>A101</td><td>Azienda di fabbricazione di latticini</td><td>2</td></tr>
 <tr><td>A102</td><td>Azienda di stagionatura di formaggi</td><td>2</td></tr>
 <tr><td>A103</td><td>Azienda di confezionamento di prodotti caseari</td><td>2</td></tr>
-<tr><td>A104</td><td>Macello, tranne macello per pollame, e aziende di esigua capacità produttiva di cui al’articolo 3 lettera m OMCC</td><td>vedi elenco 2</td></tr>
-<tr><td>A105</td><td>Macello per pollame; gestione di macelli in cui il pollame è abbattuto, preparato e imballato</td><td>vedi elenco 2</td></tr>
-<tr><td>A106</td><td>Stabilimento di sezionamento</td><td>1</td></tr>
+<tr><td>A104</td><td>Grande azienda di cui all’articolo 3 lettera l OMCC</td><td>vedi elenco 2</td></tr>
+<tr><td>A105</td><td>Azienda con esigua capacità produttiva di cui all’articolo 3 lettera m OMCC</td><td>vedi elenco 2</td></tr>
+<tr><td>A106</td><td>Stabilimento di sezionamento la cui capacità di sezionamento corrisponde alla capacità di macellazione di un’azienda con esigua capacità produttiva di cui all’articolo 3 lettera m OMCC</td><td>2</td></tr>
+<tr><td>A106a</td><td>Restanti stabilimenti di sezionamento</td><td>1</td></tr>
 <tr><td>A107</td><td>Azienda di fabbricazione di carne macinata</td><td>1</td></tr>
 <tr><td>A108</td><td>Azienda di lavorazione di intestini e trippe</td><td>2</td></tr>
 <tr><td>A109</td><td>Azienda di produzione di carne separata meccanicamente</td><td>1</td></tr>
