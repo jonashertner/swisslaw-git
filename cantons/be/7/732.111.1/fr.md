@@ -4,13 +4,13 @@ number: "732.111.1"
 title: Ordonnance sur les routes
 short: OR
 language: fr
-version: 2023-01-01
-valid_until: 2024-01-31
-version_adopted: 2022-11-16
+version: 2024-02-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-20
 adopted: 2008-10-29
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/732.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2738/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2987/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2738/pdf_file"
 
 (OR)
 
-du 29.10.2008 (état au 01.01.2023)
+du 29.10.2008 (état au 01.02.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -87,7 +87,11 @@ arrête:
 
 <sup>1</sup> La modification de la classification d’une route nécessite l’accord des communes sur le territoire desquelles se trouve la route. Une telle modification sans cet accord n’est possible que si la classification actuelle devait entraver des fonctions supérieures, notamment le fonctionnement du réseau routier supérieur, ou lorsqu’une route cantonale n’a plus avant tout la fonction de route cantonale.
 
-<sup>2</sup> Le Conseil-exécutif promulgue simultanément l’arrêté concernant le plan du réseau routier et la modification de la classification de la route.
+<sup>1a</sup> En règle générale, la route est remise exempte de défaut et sans qu’une contrepartie financière ne soit exigée.
+
+<sup>1b</sup> Si la route présente des défauts au moment de la remise au nouveau titulaire du droit, ce dernier et le titulaire actuel du droit conviennent du montant de l’indemnité avant la modification de la classification. Si aucune convention ne peut être conclue, le Conseil-exécutif tranche.
+
+<sup>2</sup> Le Conseil-exécutif fixe la modification de la classification de la route et la date de son entrée en vigueur par voie de décision.
 
 <sup>3</sup> Après l’entrée en force de cette décision, l’Office des ponts et chaussées fait inscrire le changement de propriétaire au registre foncier.
 
@@ -168,21 +172,53 @@ arrête:
 
 ## 3 Routes cantonales
 
+#### Art. 13a
+
+**Mise à jour et adaptation du plan du réseau routier**
+
+<sup>1</sup> L’Office des ponts et chaussées met à jour le plan du réseau routier et en informe régulièrement les personnes concernées.
+
+<sup>2</sup> Le Conseil-exécutif décide des adaptations matérielles.
+
+#### Art. 13b
+
+**Projets exemptés d'autorisation**
+
+<sup>1</sup> Sous réserve des alinéas 2 et 3, les projets ci-dessous ne nécessitent aucun permis:
+
+- a adaptation de parties intégrantes de la route à de nouvelles normes et prescriptions,
+- b mesures constructives facilement démontables (mesures provisoires),
+- c adaptation de la route à l’intérieur de l’aire de circulation disponible à l’aide d’éléments comme des îlots de protection, des dos d’âne et d’autres dispositifs similaires,
+- d aménagement, remplacement et modification technique d’installations d’éclairage,
+- e réfection de systèmes d’évacuation des eaux en vue de garantir leur fonctionnalité,
+- f installations de gestion du trafic,
+- g adaptation d’arrêts de bus aux exigences minimales en matière d’infrastructures de transport sans obstacles,
+- h trottoirs traversants,
+- i garde-corps et dispositifs de protection contre les chutes,
+- k installations photovoltaïques cantonales sur l’infrastructure routière.
+
+<sup>2</sup> Si un projet visé à l’alinéa 1 a des répercussions importantes sur le territoire et l’environnement, il nécessite un permis.
+
+<sup>3</sup> L’exemption du régime du permis de construire ne lève pas l’obligation de respecter les prescriptions applicables ni celle de demander les autres autorisations nécessaires.
+
 #### Art. 14
 
 **Procédure d’édiction simplifiée du plan de route pour les petits projets**
 
-<sup>1</sup> Pour les petits projets, au lieu de mener la procédure de participation et de réaliser la publication, il suffit d’envoyer une lettre portant sur le projet et sur la possibilité de faire opposition aux propriétaires fonciers concernés, ainsi qu’aux communes concernées et aux associations habilitées à faire opposition.
+<sup>1</sup> Pour les petits projets, la publication suffit. Une procédure de participation n’est pas nécessaire.
 
-<sup>2</sup> Sont considérés comme des petits projets:
+<sup>1a</sup> Si le cercle des personnes habilitées à former opposition peut être clairement défini et si aucun intérêt public important ne s'oppose au projet, au lieu de réaliser la publication, il suffit d’envoyer une lettre portant sur le projet et sur la possibilité de faire opposition aux propriétaires fonciers concernés, ainsi qu’aux communes concernées et aux associations habilitées à former opposition.
 
-- a le réaménagement d’une route, si les travaux n’ont pas de répercussions importantes sur la fluidité du trafic ni sur le territoire ou l’environnement,
+<sup>2</sup> Sont considérés comme des petits projets
+
+- a le réaménagement d’une route,
 - b les mesures constructives visant à effectuer des essais d’orientation du trafic,
-- c la construction d’installations d’éclairage, d’évacuation des eaux et d’autres installations similaires,
-- d la construction d’îlots de protection et d’autres dispositifs similaires,
-- e le prolongement de trottoirs et de bandes cyclables,
+- c la construction d’installations de protection contre le bruit, d’éclairage, d’évacuation des eaux et d’autres installations similaires,
+- d la construction d’îlots de protection et d’autres dispositifs similaires, si elle implique un élargissement de la route,
+- e la construction et l’extension de trottoirs,
+- e1 l’élargissement d’une route motivé par l’ajout de bandes cyclables,
 - f les mesures de protection contre les dangers naturels,
-- g tout autre projet d’importance égale ou inférieure à ceux mentionnés aux lettres a à f.
+- g tout autre projet d’importance comparable.
 
 #### Art. 15
 
@@ -254,6 +290,30 @@ arrête:
 
 <sup>1</sup> Le service hivernal inclut le déblaiement de la neige, la protection contre les congères et le déglacement.
 
+<sup>2</sup> La chaussée des routes et pistes cyclables cantonales mentionnées à l’annexe 2 doit autant que possible être déneigée et dégelée (déneigement intégral).
+
+<sup>3</sup> Sur les voies cyclables et les autres routes cantonales, il faut s’efforcer de conserver une chaussée majoritairement déneigée et dégelée.
+
+<sup>4</sup> L’Office des ponts et chaussées décide des priorités.
+
+#### Art. 21a
+
+**Restriction nocturne du service hivernal**
+
+<sup>1</sup> Le service hivernal est limité au strict nécessaire de 23 h 00 à 6 h 00 sur toutes les routes cantonales.
+
+<sup>2</sup> Sur les tronçons empruntés par les transports publics, la restriction porte sur la période allant du passage du dernier à celui du premier véhicule selon les courses figurant dans l’arrêté sur l’offre des transports publics en vigueur.
+
+<sup>3</sup> Aucun service hivernal n’est assuré pour les trajets hors arrêté sur l’offre.
+
+#### Art. 21b
+
+**Fermeture hivernale**
+
+<sup>1</sup> Les routes du col du Grimsel et du col du Susten, le tronçon Schwarzenbühl–Untere Gantrischhütte sur le territoire de la commune de Rüschegg ainsi que le col du Chasseral sont fermés durant l’hiver.
+
+<sup>2</sup> L’Office des ponts et chaussées détermine les jours de fermeture et d'ouverture des routes ainsi que les lieux à partir desquels elles sont fermées.
+
 #### Art. 22
 
 **Octroi d’autorisations portant sur les tronçons de routes cantonales**
@@ -264,23 +324,44 @@ arrête:
 
 ### 4.1 Routes
 
+#### Art. 22a
+
+**Projets exemptés d'autorisation**
+
+<sup>1</sup> Sous réserve des alinéas 2 et 3, les projets ci-dessous ne nécessitent aucun permis:
+
+- a adaptation de parties intégrantes de la route aux nouvelles normes et prescriptions,
+- b mesures constructives facilement démontables (mesures provisoires),
+- c adaptation de la route à l’aire de circulation disponible à l’aide d’éléments comme des îlots de protection, des dos d’âne et d’autres dispositifs similaires,
+- d aménagement, remplacement et modification technique d’installations d’éclairage,
+- e réfection de systèmes d’évacuation des eaux en vue de garantir leur fonctionnalité,
+- f installations de gestion du trafic,
+- g adaptation d’arrêts de bus aux exigences minimales en matière d’infrastructures de transport sans obstacles,
+- h trottoirs traversants,
+- i garde-corps et dispositifs de protection contre les chutes,
+- k installations photovoltaïques communales sur l’infrastructure routière.
+
+<sup>2</sup> Si un projet visé à l’alinéa 1 a des répercussions importantes sur le territoire et l’environnement, il nécessite un permis.
+
+<sup>3</sup> L’exemption du régime du permis de construire ne lève pas l’obligation de respecter les prescriptions applicables ni celle de demander les autres autorisations nécessaires.
+
 #### Art. 23
 
-**Procédures d’autorisation**
+**Procédures d’octroi du permis de construire**
 
 <sup>1</sup> Un permis de construire suffit pour les petits projets de construction de routes suivants:
 
 - a la construction et l’aménagement de routes de desserte de l’équipement de détail,
 - b la construction et l’aménagement de chemins pour piétons, de trottoirs et de pistes cyclables,
 - c l’élargissement d’une route motivé par l’ajout de bandes cyclables,
-- d la transformation d’une route,
-- e la construction d’installations de protection contre le bruit, d’installations d’évacuation des eaux et d’autres installations similaires,
-- f la construction d’îlots de protection,
+- d la transformation structurelle d’une route,
+- e la construction d’installations de protection contre le bruit, d’éclairage, d’évacuation des eaux et d’autres installations similaires,
+- f la construction d’îlots de protection et d’autres dispositifs similaires, si elle requiert l’élargissement de la chaussée,
 - g les mesures de protection contre les dangers naturels,
 - h les mesures constructives visant à effectuer des essais d’orientation du trafic,
 - i la suppression d’une route,
 - k la suppression ou la modification d’une affectation,
-- l tous les autres projets d’un degré d’importance égal ou inférieur à celui des projets cités aux lettres a à k.
+- l tout autre projet d’importance comparable.
 
 #### Art. 24
 
@@ -318,6 +399,16 @@ arrête:
 <sup>1</sup> L’Office des ponts et chaussées élabore le projet de plan sectoriel et mène la procédure de participation.
 
 <sup>2</sup> La procédure d’élaboration du plan sectoriel et l’effet de celui-ci sont régis par la législation en matière de construction.
+
+<sup>3</sup> Il est possible de renoncer à la procédure de participation en cas de modification mineure du plan sectoriel.
+
+#### Art. 26a
+
+**Mise à jour et adaptation**
+
+<sup>1</sup> L’Office des ponts et chaussées met périodiquement à jour le plan sectoriel.
+
+<sup>2</sup> Le Conseil-exécutif décide des adaptations matérielles.
 
 #### Art. 27
 
@@ -357,11 +448,21 @@ arrête:
 
 <sup>1</sup> Le service cantonal en charge des chemins pour piétons et des chemins de randonnée pédestre au sens de la législation fédérale est l’Office des ponts et chaussées.
 
+<sup>2</sup> Il est notamment compétent pour
+
+- a exercer la surveillance sur les chemins pour piétons et les chemins de randonnée pédestre;
+- b coordonner la planification des chemins de randonnée pédestre;
+- c informer et conseiller les communes et les régions dans le cadre de la planification, de l’aménagement, de la préservation ainsi que du remplacement des chemins pour piétons et des chemins de randonnée pédestre;
+- d mettre au point des fiches et des aides de travail;
+- e pourvoir à la signalisation des chemins de randonnée pédestre.
+
 #### Art. 32
 
 **Collaboration**
 
 <sup>1</sup> Le canton et les communes coopèrent entre eux et avec les Chemins pédestres bernois (CPB) dans l’exécution de la législation sur les chemins pour piétons et les chemins de randonnée pédestre.
+
+<sup>2</sup> L’Office des ponts et chaussées peut déléguer aux CPB les tâches visées à l’article 31, alinéa 2, lettres b à e par voie de contrat de prestations.
 
 #### Art. 33
 
@@ -376,24 +477,120 @@ arrête:
 
 <sup>3</sup> En cas de modification importante du réseau des chemins pour piétons et des chemins de randonnée pédestre, l’autorité qui accorde le permis de construire ou édicte les plans se base sur une expertise de l’Office des ponts et chaussées.
 
+### 4.3 Voies cyclables
+
+#### Art. 33a
+
+**Plan sectoriel cantonal pour le réseau de voies cyclables 1. Contenu**
+
+<sup>1</sup> Le plan sectoriel cantonal pour le réseau de voies cyclables fixe les voies cyclables assurant une fonction de réseau cantonal pour le trafic cycliste quotidien et de loisirs, parmi lesquels figurent
+
+- a les voies cyclables cantonales selon l’article 45, alinéa 2, lettres a et b LR,
+- b les liaisons de remplacement au sens de l’article 49, alinéa 1a LR,
+- c les voies cyclables communales importantes sur des routes communales et des routes privées selon l’article 45, alinéa 2, lettre c LR,
+- d les itinéraires VTT importants selon l’article 45, alinéa 2, lettre d LR.
+
+<sup>2</sup> Le plan sectoriel indique les voies cyclables cantonales ou les liaisons de remplacement à aménager, à déplacer ou à supprimer.
+
+<sup>3</sup> Il contient les exigences qualitatives posées aux voies cyclables cantonales et aux liaisons de remplacement.
+
+<sup>4</sup> Il établit les critères de définition des voies cyclables communales importantes et des itinéraires VTT importants.
+
+#### Art. 33b
+
+**2. Compétence et procédure**
+
+<sup>1</sup> L’Office des ponts et chaussées élabore le projet de plan sectoriel et mène la procédure de participation.
+
+<sup>2</sup> Il est possible de renoncer à la procédure de participation en cas de modification mineure du plan sectoriel.
+
+<sup>3</sup> La procédure d’élaboration du plan sectoriel et l’effet de celui-ci sont régis par la législation en matière de construction.
+
+#### Art. 33c
+
+**3. Mise à jour et adaptation**
+
+<sup>1</sup> L’Office des ponts et chaussées met périodiquement à jour le plan sectoriel.
+
+<sup>2</sup> Le Conseil-exécutif décide des adaptations matérielles.
+
+#### Art. 33d
+
+**Plans communaux des voies cyclables**
+
+<sup>1</sup> Les communes définissent le réseau de voies cyclables communales dans leur plan directeur ou leur plan d’affectation.
+
+<sup>2</sup> Les plans indiquent les voies cyclables communales à aménager, déplacer ou supprimer.
+
+<sup>3</sup> Ces plans se basent notamment sur
+
+- a la législation afférente aux voies cyclables,
+- b le plan sectoriel cantonal du réseau des voies cyclables,
+- c les planifications régionales du réseau cyclable,
+- d les objectifs et concepts d’aménagement local de la commune concernée et des communes avoisinantes.
+
+#### Art. 33e
+
+**Effet des plans**
+
+<sup>1</sup> La législation afférente aux voies cyclables est applicable aux chemins répertoriés dans les plans cantonaux et communaux.
+
+#### Art. 33f
+
+**Contrôle des plans**
+
+<sup>1</sup> Les plans des réseaux des voies cyclables doivent être régulièrement adaptés aux changements de conditions.
+
+#### Art. 33g
+
+**Absence d’entraves à la circulation**
+
+<sup>1</sup> La collectivité publique compétente veille à ce que la circulation sur les voies cyclables soit exempte d’entraves et autant que possible exempte de dangers.
+
+<sup>2</sup> Elle acquiert en cas de nécessité les droits de circulation pour l’utilisation des chemins qui traversent des propriétés privées.
+
+#### Art. 33h
+
+**Service cantonal spécialisé**
+
+<sup>1</sup> Le service cantonal en charge des voies cyclables au sens du droit fédéral est l’Office des ponts et chaussées.
+
+<sup>2</sup> Il est notamment compétent pour
+
+- a exercer la surveillance sur les voies cyclables;
+- b coordonner la planification du réseau de voies cyclables;
+- c informer et conseiller les communes et les régions dans le cadre de la planification, de l’aménagement, de la préservation ainsi que du remplacement des voies cyclables;
+- d mettre au point des fiches et des aides de travail;
+- e pourvoir à la signalisation des voies cyclables assurant une fonction de réseau cantonal.
+
+#### Art. 33i
+
+**Collaboration**
+
+<sup>1</sup> Le canton et les communes coopèrent entre eux et avec des organisations spécialisées appropriées comme Pro Velo, BEBike ou SuisseMobile pour l’exécution de la législation afférente aux voies cyclables.
+
+<sup>2</sup> L’Office des ponts et chaussées peut déléguer à des organisations spécialisées appropriées les tâches visées à l’article 33h, alinéa 2, lettres b à e dans un contrat de prestations.
+
+#### Art. 33k
+
+**Modifications importantes du réseau de voies cyclables**
+
+<sup>1</sup> Une modification importante du réseau de voies cyclables au sens de la législation fédérale nécessite un permis de construire, sauf si elle figure dans un plan de quartier.
+
+<sup>2</sup> L’autorité qui accorde le permis de construire ou édicte les plans décide
+
+- a de l’admissibilité de la modification,
+- b de la compensation adéquate et de la prise en charge des coûts.
+
+<sup>3</sup> En cas de modification importante du réseau de voies cyclables, l’autorité qui accorde le permis de construire ou édicte les plans se fonde sur une expertise de l’Office des ponts et chaussées.
+
 ## 5 Financement des routes cantonales et communales, subventions
 
 #### Art. 34
 
-**Part de la RPLP et de l’impôt sur les véhicules à moteur revenant aux communes**
+**…**
 
-<sup>1</sup> La part de la redevance sur le trafic des poids lourds liée aux prestations (RPLP) et de l’impôt sur les véhicules à moteur revenant aux communes est répartie comme suit:
-
-- a 50 pour cent en fonction de la longueur des routes,
-- b 50 pour cent en fonction de la longueur pondérée des routes.
-
-<sup>2</sup> La longueur des routes se calcule comme suit: longueur des routes des classes 1 à 3 selon les catégories de la carte nationale au 1:25 000 qui sont situées sur le territoire communal, sans les routes cantonales et nationales, et dix pour cent de la longueur des pistes cyclables et des chemins de randonnée pédestre figurant dans le plan sectoriel cantonal et situés en dehors des routes des classes 1 à 3.
-
-<sup>3</sup> La longueur des routes au sens de l’alinéa 2 est pondérée par les facteurs suivants:
-
-- a 3 pour les routes de première classe,
-- b 2 pour les routes de deuxième classe,
-- c 1 pour les autres routes.
+### 5.1 Crédits
 
 #### Art. 35
 
@@ -417,13 +614,20 @@ arrête:
 
 <sup>1</sup> La Direction des travaux publics et des transports a qualité pour autoriser les dépenses d’élaboration de projet de construction des routes à concurrence d’un million de francs.
 
+### 5.2 Subventions cantonales
+
 #### Art. 38
 
 **Subventions aux installations de type park-and-ride et bike-and-ride**
 
-<sup>1</sup> Le plan du réseau routier définit dans un premier temps les emplacements et besoins approximatifs à titre d’information préalable; il fixe ultérieurement, sur la base du projet, les dimensions et caractéristiques de l’installation de type park-and-ride ou bike-and-ride justifiant des subventions
+<sup>1</sup> Donnent droit à des subventions les installations de type park-and-ride ou bike-and-ride
 
-<sup>2</sup> Les subventions sont allouées pour les investissements dans les installations de type park-and-ride et bike-and-ride prévues dans le plan du réseau routier, qui sont consentis par
+- a qui permettent d'emprunter un moyen de transport public;
+- b qui se situent à proximité d’un arrêt régulièrement desservi par un moyen de transport public;
+- c qui sont fondées sur un besoin attesté;
+- d dont l’existence est assurée à long terme.
+
+<sup>2</sup> Les subventions sont allouées pour les investissements dans les installations de type park-and-ride et bike-and-ride consentis par
 
 - a les communes,
 - b les entreprises de transports ayant droit à des indemnités en vertu de la législation sur les transports publics,
@@ -431,6 +635,14 @@ arrête:
 - d les particuliers qui opèrent dans le cadre d’un mandat de prestations.
 
 <sup>3</sup> Les coûts imputables comprennent les coûts de construction au sens strict et ceux des équipements d’exploitation, dans la mesure où l’installation sert principalement à la mobilité combinée.
+
+#### Art. 38a
+
+**Subventions aux régions de planification ou aux conférences régionales**
+
+<sup>1</sup> Les planifications régionales des routes peuvent porter sur le trafic individuel motorisé, la gestion du trafic, la mobilité combinée ou le trafic cycliste et pédestre.
+
+<sup>2</sup> Le montant de la subvention est déterminé en fonction de l’intérêt cantonal.
 
 ## 6 Utilisation des routes
 
@@ -447,6 +659,38 @@ arrête:
 **Stationnement de véhicules**
 
 <sup>1</sup> Les communes peuvent édicter des dispositions pour réglementer le stationnement sur les routes publiques situées sur leur territoire.
+
+#### Art. 40a
+
+**Émoluments d’affectation**
+
+<sup>1</sup> Sont soumises aux émoluments suivants les affectations en surface et souterraines des routes cantonales ci-dessous:
+
+- a les places de stationnement pour des événements commerciaux et des manifestations sportives — 5 francs/m²/jour
+- b les installations de chantier et les espaces de stockage tels que baraquements, bennes, échafaudages, dépôts de matériaux et autres installations similaires — 5 francs/m²/semaine
+  - 1\. Les affectations de 24 heures maximum sont sans frais.
+  - 2\. Pour des affectations plus longues, des semaines complètes sont facturées.
+- c les surfaces affectées de manière fixe à un usage commercial
+  - 1\. stands, exposition d'objets destinés à la vente et autres éléments similaires — 200 francs/m²/an
+  - 2\. établissements de restauration, bars et autres lieux similaires — 100 francs/m²/an
+- d l’utilisation des conduites vides par des tiers — 35 francs/m, versement unique
+- e les ancrages, clous et autres éléments temporaires similaires — 40 francs/pièce, versement unique
+- f les conduites souterraines à l’exception de celles destinées au chauffage à distance
+  - 1\. conduites individuelles — 20 francs/m, versement unique
+  - 2\. conduites de câbles et autres conduites similaires — 30 francs/m, versement unique
+  - 3\. blocs de câbles — 50 francs/m, versement unique
+- g l’utilisation d’installations cantonales d’évacuation des eaux par des tiers
+  - 1\. raccordement des eaux de surface provenant de routes, de toits ou de places — 35 francs/m², versement unique mais d’au moins 2000 francs
+  - 2\. raccordement des eaux de source et de forage (eaux claires) — 5000 francs, versement unique
+
+<sup>2</sup> Pour les places de stationnement publiques sises sur les routes cantonales et gérées par la commune, celle-ci fixe les émoluments dans le respect de l’article 71a, alinéa 1 LR. Le revenu net annuel est partagé à parts égales entre le canton et la commune.
+
+<sup>3</sup> Ne sont pas soumises à émoluments les affectations en surface et souterraines des routes cantonales ci-dessous:
+
+- a les événements commerciaux et non commerciaux,
+- b les surfaces de stationnement pour des événements non commerciaux,
+- c les manifestations sportives,
+- d la construction et l’exploitation d’ouvrages et d’installations destinés à l’utilisation d’énergie renouvelable.
 
 ## 7 Mesures en matière de circulation routière
 
@@ -496,6 +740,8 @@ arrête:
 - c limitation de volumes et de poids;
 - d limitation de vitesse;
 - e marquage des cases de stationnement sur les routes principales.
+
+<sup>3</sup> Ne nécessitent pas l’accord de l’Office des ponts et chaussées les prescriptions en matière de circulation routière liées à des chantiers d’une durée maximale de six mois.
 
 #### Art. 45
 
@@ -609,6 +855,12 @@ arrête:
 
 <sup>1</sup> Les bâtiments et les installations situés le long des routes publiques doivent être réalisés de manière à résister à la pression sur le sol et aux sollicitations exercées par le trafic et par les activités d’entretien de la route, notamment le service hivernal.
 
+#### Art. 55a
+
+**Évacuation artificielle des eaux**
+
+<sup>1</sup> La ou le propriétaire de la route aménage et entretient les bouches d’égout et les raccordements à la canalisation publique.
+
 #### Art. 56
 
 **Distances à la route 1 Clôtures**
@@ -620,6 +872,14 @@ arrête:
 <sup>3</sup> Dans les endroits où la visibilité est restreinte, les clôtures ne doivent pas dépasser la chaussée de plus de 0,6 m.
 
 <sup>4</sup> Les clôtures pouvant présenter un danger, telles que les clôtures en fil de fer barbelé dépourvues d’un dispositif de sécurité suffisant, doivent être aménagées à une distance d’au moins 2 m du bord de la chaussée ou à 0,5 m du bord extérieur du trottoir.
+
+#### Art. 56a
+
+**Parties de bâtiment en porte-à-faux**
+
+<sup>1</sup> Les parties de bâtiment en porte-à-faux sises à une hauteur d’au moins 4,50 mètres au-dessus de la chaussée d’une route publique peuvent s’avancer jusqu’à deux mètres dans la bande de terrain interdite à la construction.
+
+<sup>2</sup> Pour les routes d’approvisionnement, la hauteur minimale prescrite par le Conseil-exécutif doit être respectée.
 
 #### Art. 57
 
@@ -657,7 +917,23 @@ arrête:
 
 #### Art. 60
 
+**Convention de prestations**
+
 <sup>1</sup> La Direction des travaux publics et des transports est compétente pour conclure des conventions de prestations relatives à l’entretien et à l’exploitation des routes nationales.
+
+<sup>2</sup> L’Office des ponts et chaussées est compétent pour adapter et compléter les conventions de prestations existantes.
+
+#### Art. 60a
+
+**Autres tâches**
+
+<sup>1</sup> L’Office des ponts et chaussées exécute les autres tâches assignées par la Confédération aux cantons.
+
+#### Art. 60b
+
+**Installations annexes**
+
+<sup>1</sup> Sauf disposition contraire du droit fédéral, la législation cantonale afférente aux routes est applicable aux installations annexes des routes nationales.
 
 ## 10 Dispositions transitoires et dispositions finales
 

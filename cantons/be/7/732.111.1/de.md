@@ -4,13 +4,13 @@ number: "732.111.1"
 title: Strassenverordnung
 short: SV
 language: de
-version: 2023-01-01
-valid_until: 2024-01-31
-version_adopted: 2022-11-16
+version: 2024-02-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-20
 adopted: 2008-10-29
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/732.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2738/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2987/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2738/pdf_file"
 
 (SV)
 
-vom 29.10.2008 (Stand 01.01.2023)
+vom 29.10.2008 (Stand 01.02.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -87,7 +87,11 @@ beschliesst:
 
 <sup>1</sup> Eine Änderung der Einreihung einer Strasse bedarf der Zustimmung der Standortgemeinden. Von der Zustimmung darf nur abgesehen werden, wenn durch die bisherige Einreihung übergeordnete Aufgaben, insbesondere das Funktionieren des übergeordneten Strassennetzes, vereitelt würden oder wenn eine Kantonsstrasse nicht mehr überwiegend Kantonsstrassenfunktion hat.
 
-<sup>2</sup> Der Regierungsrat verfügt gleichzeitig mit dem Beschluss des Strassennetzplans die Änderungen in der Strasseneinreihung.
+<sup>1a</sup> Die Strasse wird in der Regel in werkmängelfreiem Zustand und entschädigungslos übergeben.
+
+<sup>1b</sup> Wird die Strasse nicht in werkmängelfreiem Zustand übergeben, einigen sich die bisherige und die neue Trägerschaft vor der Änderung der Einreihung über die Höhe der Entschädigung. Kommt keine Vereinbarung zustande, entscheidet der Regierungsrat.
+
+<sup>2</sup> Der Regierungsrat verfügt die Änderungen in der Strasseneinreihung und ihren Zeitpunkt.
 
 <sup>3</sup> Nach dem Eintritt der Rechtskraft dieser Verfügung sorgt das Tiefbauamt für den grundbuchlichen Nachtrag der Eigentumsänderungen.
 
@@ -168,21 +172,53 @@ beschliesst:
 
 ## 3 Kantonsstrassen
 
+#### Art. 13a
+
+**Nachführung und Anpassung des Strassennetzplans**
+
+<sup>1</sup> Das Tiefbauamt führt den Strassennetzplan nach und gibt die Nachführungen regelmässig bekannt.
+
+<sup>2</sup> Inhaltliche Anpassungen beschliesst der Regierungsrat.
+
+#### Art. 13b
+
+**Bewilligungsfreie Vorhaben**
+
+<sup>1</sup> Folgende Vorhaben benötigen unter Vorbehalt der Absätze 2 und 3 keine Bewilligung:
+
+- a Anpassung von Bestandteilen der Strasse an neue Normen und Vorschriften,
+- b leicht entfernbare bauliche Massnahmen (Provisorien),
+- c Anpassung der Strasse innerhalb der vorhandenen Verkehrsfläche mit Elementen wie Schutzinseln, Bodenwellen und dergleichen,
+- d Vervollständigung, Ersatz und technische Veränderungen von Beleuchtungsanlagen,
+- e Sanierung von Strassenentwässerungen zum Erhalt ihrer Funktionalität,
+- f Anlagen des Verkehrsmanagements,
+- g Anpassung von Bushaltestellen an die Mindestanforderungen von hindernisfreien Verkehrsanlagen,
+- h Gehwegüberfahrten,
+- i Geländer und Absturzsicherungen,
+- k kantonseigene Photovoltaik-Anlagen an der Strasseninfrastruktur.
+
+<sup>2</sup> Hat ein Vorhaben gemäss Absatz 1 wesentliche Auswirkungen auf Raum und Umwelt, ist es bewilligungspflichtig.
+
+<sup>3</sup> Die Bewilligungsfreiheit entbindet nicht von der Einhaltung der anwendbaren Vorschriften und der Einholung anderer Bewilligungen.
+
 #### Art. 14
 
 **Vereinfachtes Strassenplanverfahren für kleine Vorhaben**
 
-<sup>1</sup> Bei kleinen Vorhaben genügt anstelle der Mitwirkung und der Veröffentlichung die schriftliche Mitteilung an die betroffenen Grundeigentümerinnen und Grundeigentümer, die betroffenen Gemeinden sowie die einsprachelegitimierten Verbände über das Vorhaben und die Einsprachemöglichkeit.
+<sup>1</sup> Bei kleinen Vorhaben genügt die Veröffentlichung. Ein Mitwirkungsverfahren ist nicht erforderlich.
+
+<sup>1a</sup> Kann der Kreis der Einspracheberechtigten eindeutig bestimmt werden und sind keine wesentlichen öffentlichen Interessen berührt, genügt anstelle der Veröffentlichung die schriftliche Mitteilung an die betroffenen Grundeigentümerinnen und Grundeigentümer, die betroffenen Gemeinden sowie die einspracheberechtigten Verbände über das Vorhaben und die Einsprachemöglichkeit.
 
 <sup>2</sup> Als kleine Vorhaben gelten
 
-- a die bauliche Umgestaltung einer Strasse, soweit dadurch keine wesentlichen Auswirkungen auf den Verkehrsfluss oder auf Raum und Umwelt entstehen,
+- a die bauliche Umgestaltung einer Strasse,
 - b bauliche Massnahmen für Verkehrsversuche,
-- c die Ergänzung der Strasse mit Anlagen der Beleuchtung, der Entwässerung und dergleichen,
-- d das Anbringen von Schutzinseln und dergleichen,
-- e das Verlängern von Gehwegen und Radstreifen,
+- c die Ergänzung der Strasse mit Anlagen des Lärmschutzes, der Beleuchtung, der Entwässerung und dergleichen,
+- d das Anbringen von Schutzinseln und dergleichen, wenn damit eine Verbreiterung der Strasse verbunden ist,
+- e die Neuanlage und der Ausbau von Gehwegen,
+- e1 die Verbreiterung einer Strasse für das Anbringen von Radstreifen,
 - f das Anbringen von Schutzvorkehren gegen Naturgefahren,
-- g alle weiteren Vorhaben, die von gleicher oder geringerer Bedeutung sind wie die in den Buchstaben a bis f genannten.
+- g alle weiteren Vorhaben von vergleichbarer Bedeutung.
 
 #### Art. 15
 
@@ -254,6 +290,30 @@ beschliesst:
 
 <sup>1</sup> Der Winterdienst umfasst die Schneeräumung, den Schutz vor Schneeverwehungen und die Glatteisbekämpfung.
 
+<sup>2</sup> Die Fahrbahn der in Anhang 2 genannten Kantonstrassen und kantonalen Radwegen wird nach Möglichkeit schnee- und eisfrei gehalten (Schwarzräumung).
+
+<sup>3</sup> Auf den übrigen Kantonsstrassen und den kantonalen Velowegen wird ein grösstenteils schnee- und eisfreier Zustand der Fahrbahn angestrebt.
+
+<sup>4</sup> Das Tiefbauamt entscheidet über die Prioritäten.
+
+#### Art. 21a
+
+**Nächtliche Beschränkung des Winterdienstes**
+
+<sup>1</sup> Der Winterdienst wird auf allen Kantonsstrassen ab 23.00 Uhr bis 6.00 Uhr auf das Notwendigste beschränkt.
+
+<sup>2</sup> Auf Strecken mit öffentlichem Verkehr gilt die Beschränkung zwischen dem letzten und dem ersten regulären Kurs gemäss geltendem Angebotsbeschluss.
+
+<sup>3</sup> Für Kurse ausserhalb des Angebotsbeschlusses wird kein Winterdienst betrieben.
+
+#### Art. 21b
+
+**Wintersperre**
+
+<sup>1</sup> Die Grimsel- und die Sustenpassstrasse, die Strecke Schwarzenbühl – Untere Gantrischhütte in der Gemeinde Rüschegg sowie der Übergang über den Chasseral sind im Winter gesperrt.
+
+<sup>2</sup> Das Tiefbauamt legt den Zeitpunkt der Schliessungen und Öffnungen sowie die Orte fest, ab welchen die Strassen gesperrt sind.
+
 #### Art. 22
 
 **Erteilung von Bewilligungen auf Kantonsstrassen**
@@ -264,23 +324,44 @@ beschliesst:
 
 ### 4.1 Strassen
 
+#### Art. 22a
+
+**Bewilligungsfreie Vorhaben**
+
+<sup>1</sup> Folgende Vorhaben benötigen unter Vorbehalt der Absätze 2 und 3 keine Bewilligung:
+
+- a Anpassung von Bestandteilen der Strasse an neue Normen und Vorschriften,
+- b leicht entfernbare bauliche Massnahmen (Provisorien),
+- c Anpassung der Strasse innerhalb der vorhandenen Verkehrsfläche mit Elementen wie Schutzinseln, Bodenwellen und dergleichen,
+- d Vervollständigung, Ersatz und technische Veränderungen von Beleuchtungsanlagen,
+- e Sanierung von Strassenentwässerungen zur Erhaltung ihrer Funktionalität,
+- f Anlagen des Verkehrsmanagements,
+- g Anpassung von Bushaltestellen an die Mindestanforderungen von hindernisfreien Verkehrsanlagen,
+- h Gehwegüberfahrten,
+- i Geländer und Absturzsicherungen,
+- k gemeindeeigene Photovoltaik-Anlagen an der Strasseninfrastruktur.
+
+<sup>2</sup> Hat ein Vorhaben gemäss Absatz 1 wesentliche Auswirkungen auf Raum und Umwelt, ist es bewilligungspflichtig.
+
+<sup>3</sup> Die Bewilligungsfreiheit entbindet nicht von der Einhaltung der anwendbaren Vorschriften und der Einholung anderer Bewilligungen.
+
 #### Art. 23
 
-**Bewilligungsverfahren**
+**Baubewilligungsverfahren**
 
 <sup>1</sup> Eine Baubewilligung genügt für die folgenden kleinen Strassenbauvorhaben:
 
 - a die Neuanlage und den Ausbau von Detailerschliessungsstrassen,
 - b die Neuanlage und den Ausbau von Fuss-, Geh- und Radwegen,
 - c die Verbreiterung einer Strasse für das Anbringen von Radstreifen,
-- d die Umgestaltung einer Strasse,
-- e die Ergänzung der Strasse mit Anlagen des Lärmschutzes, der Entwässerung und dergleichen,
-- f das Anbringen von Schutzinseln,
+- d die bauliche Umgestaltung einer Strasse,
+- e die Ergänzung der Strasse mit Anlagen des Lärmschutzes, der Beleuchtung, der Entwässerung und dergleichen,
+- f das Anbringen von Schutzinseln und dergleichen, wenn damit eine Verbreiterung der Strasse verbunden ist,
 - g das Anbringen von Schutzvorkehren gegen Naturgefahren,
 - h bauliche Massnahmen für Verkehrsversuche,
 - i die Aufhebung einer Strasse,
 - k die Aufhebung oder Änderung der Widmung,
-- l alle weiteren Vorhaben, die von gleicher oder geringerer Bedeutung sind wie die in den Buchstaben a bis k genannten.
+- l alle weiteren Vorhaben von vergleichbarer Bedeutung.
 
 #### Art. 24
 
@@ -318,6 +399,16 @@ beschliesst:
 <sup>1</sup> Das Tiefbauamt erarbeitet den Entwurf des Sachplans und führt die Mitwirkung durch.
 
 <sup>2</sup> Verfahren und Wirkung richten sich nach der Baugesetzgebung.
+
+<sup>3</sup> Bei geringfügigen Änderungen des Sachplans kann auf die Mitwirkung verzichtet werden.
+
+#### Art. 26a
+
+**3. Nachführung und Anpassung**
+
+<sup>1</sup> Das Tiefbauamt führt den Sachplan periodisch nach.
+
+<sup>2</sup> Inhaltliche Anpassungen beschliesst der Regierungsrat.
 
 #### Art. 27
 
@@ -357,11 +448,21 @@ beschliesst:
 
 <sup>1</sup> Das Tiefbauamt ist kantonale Fachstelle für Fuss- und Wanderwege im Sinne des Bundesrechts.
 
+<sup>2</sup> Es ist insbesondere zuständig für
+
+- a die Aufsicht über die Fuss- und Wanderwege,
+- b die Koordination der Wanderwegplanungen,
+- c die Information und Beratung der Gemeinden und Regionen bei der Planung, der Anlage und der Erhaltung sowie beim Ersatz von Fuss- und Wanderwegen,
+- d das Erstellen von Arbeitshilfen und Merkblättern,
+- e die Kennzeichnung von Wanderwegen.
+
 #### Art. 32
 
 **Zusammenarbeit**
 
 <sup>1</sup> Kanton und Gemeinden arbeiten beim Vollzug der Fuss- und Wanderweggesetzgebung untereinander und mit dem Verein Berner Wanderwege BWW zusammen.
+
+<sup>2</sup> Das Tiefbauamt kann die Aufgaben gemäss Artikel 31 Absatz 2 Buchstaben b bis e mit einem Leistungsvertrag an den Verein Berner Wanderwege BWW übertragen.
 
 #### Art. 33
 
@@ -376,24 +477,120 @@ beschliesst:
 
 <sup>3</sup> Bei erheblichen Eingriffen ins Fuss- und Wanderwegnetz stützt sich die Bewilligungs- oder Planerlassbehörde auf einen Fachbericht des Tiefbauamts.
 
+### 4.3 Velowege
+
+#### Art. 33a
+
+**Kantonaler Sachplan Velowegnetz 1. Inhalt**
+
+<sup>1</sup> Der kantonale Sachplan Velowegnetz legt die Velowege mit kantonaler Netzfunktion für den Veloalltags- und für den Velofreizeitverkehr fest. Dazu gehören
+
+- a die kantonalen Velowege gemäss Artikel 45 Absatz 2 Buchstaben a und b SG,
+- b die Ersatzverbindungen im Sinne von Artikel 49 Absatz 1a SG,
+- c die wichtigen kommunalen Velowege auf Gemeinde- und Privatstrassen gemäss Artikel 45 Absatz 2 Buchstabe c SG,
+- d die wichtigen Mountainbike-Routen gemäss Artikel 45 Absatz 2 Buchstabe d SG.
+
+<sup>2</sup> Der Sachplan zeigt auf, welche kantonalen Velowege oder Ersatzverbindungen neu zu erstellen, zu verlegen oder aufzuheben sind.
+
+<sup>3</sup> Er enthält Qualitätsanforderungen an kantonale Velowege und Ersatzverbindungen.
+
+<sup>4</sup> Er definiert die Kriterien zur Festlegung als wichtige kommunale Velowege und als wichtige Mountainbike-Routen.
+
+#### Art. 33b
+
+**2. Zuständigkeit und Verfahren**
+
+<sup>1</sup> Das Tiefbauamt erarbeitet den Entwurf des Sachplans und führt das Mitwirkungsverfahren durch.
+
+<sup>2</sup> Bei geringfügigen Änderungen des Sachplans kann auf die Mitwirkung verzichtet werden.
+
+<sup>3</sup> Verfahren und Wirkung richten sich nach der Baugesetzgebung.
+
+#### Art. 33c
+
+**3. Nachführung und Anpassung**
+
+<sup>1</sup> Das Tiefbauamt führt den Sachplan periodisch nach.
+
+<sup>2</sup> Inhaltliche Anpassungen beschliesst der Regierungsrat.
+
+#### Art. 33d
+
+**Kommunale Planung der Velowege**
+
+<sup>1</sup> Die Gemeinden legen das kommunale Velowegnetz in ihrer Richt- oder Nutzungsplanung fest.
+
+<sup>2</sup> Die Pläne zeigen auf, welche kommunalen Velowege neu zu erstellen, zu verlegen oder aufzuheben sind.
+
+<sup>3</sup> Planungsgrundlagen sind namentlich
+
+- a die Veloweggesetzgebung,
+- b der kantonale Sachplan des Velowegnetzes,
+- c die regionalen Velonetzplanungen,
+- d die Ziele und Konzepte der eigenen Ortsplanung sowie jener der benachbarten Gemeinden.
+
+#### Art. 33e
+
+**Wirkung der Planung**
+
+<sup>1</sup> Auf die in der kantonalen und kommunalen Planung bezeichneten Wege ist die Veloweggesetzgebung anwendbar.
+
+#### Art. 33f
+
+**Überprüfung der Planung**
+
+<sup>1</sup> Die Pläne der Velowegnetze sind regelmässig veränderten Verhältnissen anzupassen.
+
+#### Art. 33g
+
+**Freie Befahrbarkeit**
+
+<sup>1</sup> Das zuständige Gemeinwesen sorgt dafür, dass die Velowege frei und möglichst gefahrlos befahrbar sind.
+
+<sup>2</sup> Soweit nötig erwirbt es die Rechte für die Benutzung der Wege, die über privaten Grund führen.
+
+#### Art. 33h
+
+**Kantonale Fachstelle**
+
+<sup>1</sup> Das Tiefbauamt ist kantonale Fachstelle für Velowege im Sinne des Bundesrechts.
+
+<sup>2</sup> Es ist insbesondere zuständig für
+
+- a die Aufsicht über die Velowege,
+- b die Koordination der Planung der Velowegnetze,
+- c die Information und Beratung der Gemeinden und Regionen bei der Planung, der Anlage und der Erhaltung sowie beim Ersatz von Velowegen,
+- d das Erstellen von Arbeitshilfen und Merkblättern,
+- e die Signalisation der Velowege mit kantonaler Netzfunktion.
+
+#### Art. 33i
+
+**Zusammenarbeit**
+
+<sup>1</sup> Kanton und Gemeinden arbeiten beim Vollzug der Velogesetzgebung untereinander und mit geeigneten Fachorganisationen wie Pro Velo, BEBike oder SchweizMobil zusammen.
+
+<sup>2</sup> Das Tiefbauamt kann die Aufgaben gemäss Artikel 33h Absatz 2 Buchstaben b bis e mit einem Leistungsvertrag an geeignete Fachorganisationen übertragen.
+
+#### Art. 33k
+
+**Erhebliche Eingriffe ins Velowegnetz**
+
+<sup>1</sup> Erhebliche Eingriffe ins Velowegnetz im Sinne des Bundesrechts sind baubewilligungspflichtig, sofern der Eingriff nicht in einer Überbauungsordnung festgelegt wird.
+
+<sup>2</sup> Die Bewilligungs- oder Planerlassbehörde entscheidet
+
+- a über die Zulässigkeit des Eingriffs,
+- b über die Leistung angemessenen Ersatzes und dessen Kostentragung.
+
+<sup>3</sup> Bei erheblichen Eingriffen ins Velowegnetz stützt sich die Bewilligungs- oder Planerlassbehörde auf einen Fachbericht des Tiefbauamts.
+
 ## 5 Finanzierung von Kantons- und Gemeindestrassen sowie Beiträge
 
 #### Art. 34
 
-**Gemeindeanteil an der LSVA und an der Motorfahrzeugsteuer**
+**…**
 
-<sup>1</sup> Der Gemeindeanteil an der leistungsabhängigen Schwerverkehrsabgabe (LSVA) und an der Motorfahrzeugsteuer wird wie folgt verteilt:
-
-- a 50 Prozent nach der Strassenlänge und
-- b 50 Prozent nach der gewichteten Strassenlänge.
-
-<sup>2</sup> Massgebend für die Strassenlängen sind die Strassen auf dem Gemeindegebiet erster bis dritter Klasse gemäss Einstufung in der Landeskarte 1:25 000 ohne die Kantons- und die Nationalstrassen und zehn Prozent der Rad- und Wanderwege gemäss kantonaler Sachplanung, soweit diese nicht über Strassen erster bis dritter Klasse führen.
-
-<sup>3</sup> Die Strassenlängen gemäss Absatz 2 werden wie folgt gewichtet:
-
-- a Strassen erster Klasse mit dem Faktor 3,
-- b Strassen zweiter Klasse mit dem Faktor 2,
-- c übrige Strassen mit dem Faktor 1.
+### 5.1 Kredite
 
 #### Art. 35
 
@@ -417,20 +614,35 @@ beschliesst:
 
 <sup>1</sup> Die Bau- und Verkehrsdirektion bewilligt Ausgaben für die Kosten der Projektierung von Strassenbauten bis zu einer Höhe von einer Million Franken.
 
+### 5.2 Staatsbeiträge
+
 #### Art. 38
 
 **Beiträge an Park-and-ride- sowie Bike-and-ride- Anlagen**
 
-<sup>1</sup> Der Strassennetzplan zeigt zunächst die groben Standorte und Bedürfnisse als Vororientierung und danach aufgrund des Projekts die förderungswürdigen Dimensionen und Merkmale einer Park-and-ride- oder einer Bike-and-ride-Anlage als Festsetzung.
+<sup>1</sup> Beitragsberechtigt sind Park-and-ride- oder Bike-and-ride-Anlagen,
 
-<sup>2</sup> Beiträge werden ausgerichtet an die Investitionen für im Strassennetzplan festgelegte Park-and-ride- und Bike-and-ride-Anlagen folgender Trägerinnen und Träger:
+- a die dem Umsteigen auf ein öffentliches Verkehrsmittel dienen,
+- b die sich in der Nähe einer regelmässig bedienten Haltestelle eines öffentlichen Verkehrsmittels befinden,
+- c für die ein Bedarfsnachweis erbracht ist,
+- d deren Bestand langfristig gesichert ist.
 
-- a von Gemeinden,
-- b von Transportunternehmungen, die nach der Gesetzgebung über den öffentlichen Verkehr abgeltungsberechtigt sind,
-- c von gemischtwirtschaftlichen Unternehmungen, die mit Leistungsauftrag arbeiten,
-- d von Privaten, die mit Leistungsauftrag arbeiten.
+<sup>2</sup> Beiträge werden ausgerichtet an die Investitionen für Park-and-ride- und Bike-and-ride-Anlagen folgender Trägerinnen und Träger:
+
+- a Gemeinden,
+- b Transportunternehmungen, die nach der Gesetzgebung über den öffentlichen Verkehr abgeltungsberechtigt sind,
+- c gemischtwirtschaftliche Unternehmungen, die mit Leistungsauftrag arbeiten,
+- d Private, die mit Leistungsauftrag arbeiten.
 
 <sup>3</sup> Anrechenbar sind die reinen Baukosten sowie die Kosten für Betriebseinrichtungen, sofern die Anlage hauptsächlich der kombinierten Mobilität dient.
+
+#### Art. 38a
+
+**Beiträge an Planungsregionen bzw. Regionalkonferenzen**
+
+<sup>1</sup> Regionale Strassenplanungen können den motorisierten Individualverkehr, das Verkehrsmanagement, die kombinierte Mobilität oder den Fuss- und Veloverkehr betreffen.
+
+<sup>2</sup> Die Beitragshöhe bemisst sich nach dem kantonalen Interesse.
 
 ## 6 Strassenbenutzung
 
@@ -447,6 +659,38 @@ beschliesst:
 **Abstellen von Fahrzeugen**
 
 <sup>1</sup> Die Gemeinden können Vorschriften erlassen über das Parkieren auf öffentlichen Strassen im Gemeindegebiet.
+
+#### Art. 40a
+
+**Nutzungsgebühren**
+
+<sup>1</sup> Folgende ober- und unterirdischen Nutzungen von Kantonsstrassen sind wie folgt gebührenpflichtig:
+
+- a Parkierfläche für gewerbliche Anlässe und sportliche Veranstaltungen — CHF 5/m²/Tag
+- b Bauplatzinstallation und Lagerplätze wie Baracken, Mulden, Gerüste, Materialablagerungen und dgl. — CHF 5/m²/Woche
+  - 1\. Beanspruchungen bis 24 Stunden sind gebührenfrei.
+  - 2\. Für länger dauernde Beanspruchungen werden ganze Wochen verrechnet.
+- c Fest zugeteilte Flächen für Gewerbe
+  - 1\. Verkaufsstände, Verkaufsobjekte und dgl. — CHF 200/m²/Jahr
+  - 2\. Restaurationsbetriebe, Bars und dgl. — CHF 100/m²/Jahr
+- d Benutzung von Leerrohren durch Dritte — CHF 35/m (einmalig)
+- e Temporäre Erdanker, Nägel und dgl. — CHF 40/Stück (einmalig)
+- f Unterirdische Leitungen ausgenommen Fernwärmeleitungen
+  - 1\. einzelne Leitungen — CHF 20/m (einmalig)
+  - 2\. Kabelkanäle und dgl. — CHF 30/m (einmalig)
+  - 3\. Kabelblöcke — CHF 50/m (einmalig)
+- g Nutzung von kantonalen Strassenentwässerungsanlagen durch Dritte
+  - 1\. Anschluss von Oberflächenwasser wie Strassen-, Dach- oder Vorplatzwasser — CHF 35/m² (einmalig), mindestens aber CHF 2000
+  - 2\. Anschluss von Brunnen- oder Quellenwasser (Reinabwasser) — CHF 5000 (einmalig)
+
+<sup>2</sup> Für öffentliche Parkplätze auf Kantonsstrassen, die durch die Gemeinde bewirtschaftet werden, legt die Gemeinde die Gebühren unter Berücksichtigung von Artikel 71a Absatz 1 SG fest. Der jährliche Reinertrag wird zwischen Kanton und Gemeinde hälftig geteilt.
+
+<sup>3</sup> Folgende ober- und unterirdischen Nutzungen von Kantonsstrassen sind gebührenfrei:
+
+- a gewerbliche und nicht gewerbliche Anlässe,
+- b Parkierfläche für nicht gewerbliche Anlässe,
+- c sportliche Veranstaltungen,
+- d Bau und Betrieb von Bauten und Anlagen zur Nutzung von erneuerbarer Energie.
 
 ## 7 Verkehrsmassnahmen
 
@@ -496,6 +740,8 @@ beschliesst:
 - c Mass- und Gewichtsbeschränkungen,
 - d Geschwindigkeitsbeschränkungen,
 - e Markierung von Parkfeldern auf Hauptstrassen.
+
+<sup>3</sup> Keiner Zustimmung des Tiefbauamts bedürfen Verkehrsanordnungen im Zusammenhang mit Baustellen von einer Dauer bis sechs Monaten.
 
 #### Art. 45
 
@@ -609,6 +855,12 @@ beschliesst:
 
 <sup>1</sup> Bauten und Anlagen längs öffentlicher Strassen sind so zu erstellen, dass sie dem Erddruck und den Beanspruchungen durch den Verkehr sowie den Strassenunterhalt standhalten, insbesondere auch jenen durch den Winterdienst.
 
+#### Art. 55a
+
+**Künstliche Entwässerung**
+
+<sup>1</sup> Die Eigentümerin oder der Eigentümer der Strasse erstellt und unterhält die Strasseneinlaufschächte und Ableitungen bis zur öffentlichen Kanalisationsleitung.
+
 #### Art. 56
 
 **Strassenabstände 1 Einfriedungen, Zäune**
@@ -620,6 +872,14 @@ beschliesst:
 <sup>3</sup> An unübersichtlichen Strassenstellen dürfen Einfriedungen und Zäune die Fahrbahn um höchstens 0,6 Meter überragen.
 
 <sup>4</sup> Für gefährliche Einfriedungen und Zäune wie nicht genügend geschützte Stacheldrahtzäune gilt ein Strassenabstand von 2 Metern ab Fahrbahnrand bzw. 0,5 Metern ab Gehweghinterkante.
+
+#### Art. 56a
+
+**1a Freitragende Gebäudeteile**
+
+<sup>1</sup> Freitragende Gebäudeteile in einer Höhe von mindestens 4,50 Metern über der Fahrbahn der öffentlichen Strasse dürfen bis 2 Meter in den Bauverbotsstreifen hineinragen.
+
+<sup>2</sup> Bei Versorgungsrouten ist die vom Regierungsrat vorgeschriebene Mindesthöhe einzuhalten.
 
 #### Art. 57
 
@@ -657,7 +917,23 @@ beschliesst:
 
 #### Art. 60
 
+**Leistungsvereinbarung**
+
 <sup>1</sup> Die Bau- und Verkehrsdirektion ist zuständig für den Abschluss von Leistungsvereinbarungen über Unterhalt und Betrieb der Nationalstrassen.
+
+<sup>2</sup> Das Tiefbauamt ist zuständig für die Anpassung und Ergänzung von bestehenden Leistungsvereinbarungen.
+
+#### Art. 60a
+
+**Übrige Aufgaben**
+
+<sup>1</sup> Das Tiefbauamt erfüllt die übrigen vom Bund den Kantonen zugewiesenen Aufgaben.
+
+#### Art. 60b
+
+**Nebenanlagen**
+
+<sup>1</sup> Soweit das Bundesrecht nichts anderes bestimmt, ist auf die Nebenanlagen von Nationalstrassen die kantonale Strassengesetzgebung anwendbar.
 
 ## 10 Übergangs- und Schlussbestimmungen
 
