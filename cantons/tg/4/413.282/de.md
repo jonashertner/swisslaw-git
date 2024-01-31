@@ -3,22 +3,23 @@ canton: TG
 number: "413.282"
 title: Reglement über die Maturitätsprüfungen an der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene
 language: de
-version: 2008-02-01
-valid_until: 2024-01-31
-version_adopted: 2007-11-29
+version: 2024-02-01
+version_adopted: 2023-05-20
 adopted: 1995-12-05
 in_force: 1997-02-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.282"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2129/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Maturitätsprüfungen an der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene
 
-R Maturitätsprüfung-Maturitätschule für Erwachsene TG/SH
+Maturitätsreglement TSME
 
-vom 05.12.1995 (Stand 01.02.2008)
+vom 05.12.1995 (Stand 01.02.2024)
+
+Erlassen von der Aufsichtskommission der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene.
 
 #### § 1
 
@@ -70,7 +71,7 @@ vom 05.12.1995 (Stand 01.02.2008)
 
 **Maturaarbeit**
 
-<sup>1</sup> Die Maturaarbeit wird von einer Lehrkraft in den Fächern Deutsch, Französisch, Englisch, Mathematik, dem Schwerpunktfach oder dem Ergänzungsfach betreut und auf Grund des Arbeitsprozesses, der schriftlichen Arbeit und der mündlichen Präsentation benotet.
+<sup>1</sup> Die Maturaarbeit wird von einer Lehrkraft in einem an der Maturitätsabteilung erteilten Fach betreut und auf Grund des Arbeitsprozesses, der schriftlichen Arbeit und der mündlichen Präsentation benotet.
 
 #### § 6
 
