@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2024-01-01
+version: 2024-02-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240201/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240101/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° gennaio 2024)
+del 27 giugno 1995 (Stato 1° febbraio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -2794,15 +2794,9 @@ L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi di un 
 
 #### Art. 71e
 
-**Assunzione dei costi dei medicamenti per il trattamento dei pazienti affetti da COVID-19**[^71e-1]
-
-Gli articoli 71*a*–71*d* non si applicano all’assunzione dei costi dei:
-
-- a. medicamenti impiegati per il trattamento di pazienti affetti da COVID-19 e contenenti principi attivi elencati nell’allegato 5 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^71e-2];
-- b. medicamenti validamente omologati da Swissmedic con un’indicazione per il trattamento dei pazienti affetti da COVID-19.
+[^71e-1]
 
 [^71e-1]: Introdotto dal n. III dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 gen. 2024 ([RU 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)n. II 2).
-[^71e-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 71f
 

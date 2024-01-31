@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2024-01-01
+version: 2024-02-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240101/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> janvier 2024)
+du 27 juin 1995 (État le 1<sup>er</sup> février 2024)
 
 Le Conseil fédéral suisse,
 
@@ -2799,15 +2799,9 @@ L’assurance obligatoire des soins prend en charge les coûts d’un médicamen
 
 #### Art. 71e
 
-**Prise en charge des coûts des médicaments visant à traiter le COVID-19**[^71e-1]
-
-Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts dans les cas suivants:
-
-- a. médicaments qui sont utilisés pour traiter des patients atteints du COVID-19 et qui contiennent des substances actives énumérées à l’annexe 5 de l’ordonnance 3 COVID-19 du 19 juin 2020[^71e-2];
-- b. médicaments qui disposent d’une autorisation valable de Swissmedic avec une indication pour le traitement du COVID-19.
+[^71e-1]
 
 [^71e-1]: Introduit par le ch. III de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 31 janv. 2024 ([RO 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)ch. II 2).
-[^71e-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 71f
 

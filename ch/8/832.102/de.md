@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2024-01-01
+version: 2024-02-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240201/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240101/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2024)
+vom 27. Juni 1995 (Stand am 1. Februar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -2793,15 +2793,9 @@ Die obligatorische Krankenpflegeversicherung übernimmt die Kosten eines von der
 
 #### Art. 71e
 
-**Übernahme der Kosten von Arzneimitteln zur Behandlung von Covid-19**[^71e-1]
-
-Die Artikel 71*a*–71*d* finden für die Übernahme der Kosten in folgenden Fällen keine Anwendung:
-
-- a. Arzneimittel, die zur Behandlung von Covid-19 eingesetzt werden und Wirkstoffe enthalten, die in Anhang 5 der Covid-19-Verordnung 3 vom 19. Juni 2020[^71e-2] aufgeführt sind;
-- b. Arzneimittel, die über eine gültige Zulassung der Swissmedic mit einer Indikation für die Behandlung von Covid-19 verfügen.
+[^71e-1]
 
 [^71e-1]: Eingefügt durch Ziff. III der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 31. Jan. 2024 ([AS 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)Ziff. II 2).
-[^71e-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 71f
 
