@@ -4,7 +4,7 @@ number: "211.02"
 title: CODE du 12.01.2010 de droit privé judiciaire vaudois (CDPJ)
 short: CDPJ
 language: fr
-version: 2022-03-01
+version: 2024-02-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.02?id=ad4e8c23-b444-4fb7-82a3-3149dc38ed0e"
 ---
 
@@ -305,16 +305,13 @@ décrète
 
 <sup>1</sup> Sont de la compétence du département en charge de l'état civil [^11-1] :
 
-- 1\. l'autorisation de changer de nom ou de prénom et l'autorisation de porter le nom de l'épouse comme nom de famille (art. 30 CC [^11-2] ) ;
-- 2\. les compétences attribuées à l'autorité de surveillance en matière d'état civil, conformément à la loi sur l'état civil[^11-3] (art. 42, 43, 45 et 47 CC ; art. 32 de la loi fédérale sur le droit international privé, LDIP [^11-4] ) ;
+- 1\. l'autorisation de changer de nom ou de prénom (art. 30 al. 1 CC) ;
+- 2\. ...
 - 3\. le prononcé d'adoption (art. 268 CC) ;
-- 4\. l'autorisation de célébrer le mariage de fiancés étrangers non domiciliés en Suisse (art. 43, al. 2 LDIP).
+- 4\. ...
 
 [^10-2]: Modif. 8 du 07.11.2023: Modification Al. 1, 1; entrée en vigueur au 01.02.2024; Abrogation Al. 1, 2,4; entrée en vigueur au 01.02.2024
 [^11-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^11-2]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
-[^11-3]: Loi du 25.11.1987 sur l'état civil ([BLV 211.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.11?id=766e42d3-b11f-44cb-955f-5c29d4f23b7a))
-[^11-4]: Loi fédérale du 18.12.1987 sur le droit international privé (RS 291)
 
 #### Art. 12
 
@@ -415,14 +412,12 @@ décrète
 
 **Autres autorités [^20-2]**
 
-<sup>1</sup> L'activité à titre professionnel de mandataires visant à la conclusion d'un mariage ou à l'établissement d'un partenariat est l'objet d'une loi spéciale [^21-1] (art. 406c CO [^21-2] ).
+<sup>1</sup> L'activité à titre professionnel de mandataires visant à la conclusion d'un mariage est l'objet d'une loi spéciale (art. 406c CO).
 
-<sup>2</sup> L'organisation des registres tenus par les autorités cantonales en application du droit privé fédéral fait l'objet de lois spéciales [^21-3] .
+<sup>2</sup> L'organisation des registres tenus par les autorités cantonales en application du droit privé fédéral fait l'objet de lois spéciales [^21-1] .
 
 [^20-2]: Modif. 8 du 07.11.2023: Modification Al. 1; entrée en vigueur au 01.02.2024
-[^21-1]: Loi du 08.11.1999 sur l'activité de courtage transnationale visant à la conclusion d'un mariage ou à l'établissement d'un partenariat (BLV 221.355)
-[^21-2]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
-[^21-3]: Loi du 02.02.2010 d'application de la loi fédérale du 23.06.2006 sur l'harmonisation des registres des habitants et d'autres registres officiels de personnes ( [BLV 431.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/431.02?id=79723ea0-1b96-4588-94a6-9d1371e32ab5))
+[^21-1]: Loi du 02.02.2010 d'application de la loi fédérale du 23.06.2006 sur l'harmonisation des registres des habitants et d'autres registres officiels de personnes ( [BLV 431.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/431.02?id=79723ea0-1b96-4588-94a6-9d1371e32ab5))
 
 ### Chapitre II Actes publics, publications, communications officielles
 
@@ -503,17 +498,17 @@ décrète
 
 #### Art. 29
 
-**Communications officielles touchant l'Etat civil [^sectionSectionIV-1]**
+**... [^sectionSectionIV-1]**
 
-<sup>1</sup> En sus des informations prescrites par le droit fédéral de l'état civil, le département compétent communique le changement de nom ou de prénom, ainsi que le prononcé d'adoption, aux municipalités d'origine et de domicile de la personne qui change de nom ou de prénom, ou de l'adopté et des adoptants.
+<sup>1</sup> ...
 
 [^sectionSectionIV-1]: Modif. 8 du 07.11.2023: Abrogation tArt; entrée en vigueur au 01.02.2024; Abrogation Al. 1; entrée en vigueur au 01.02.2024
 
 #### Art. 30
 
-**Décès [^29-1]**
+**... [^29-1]**
 
-<sup>1</sup> Les officiers d'état civil communiquent tout décès au juge de paix de l'arrondissement du domicile du disparu.
+<sup>1</sup> ...
 
 [^29-1]: Modif. 8 du 07.11.2023: Abrogation tArt; entrée en vigueur au 01.02.2024; Abrogation Al. 1; entrée en vigueur au 01.02.2024
 
@@ -857,7 +852,7 @@ décrète
 
 **Etat civil [^51a-1]**
 
-<sup>1</sup> Les dispositions complémentaires du droit cantonal sur les registres et les autorités d'état civil, ainsi que sur les modalités de célébration des mariages et partenariats enregistrés, sont contenues dans une loi spéciale.
+<sup>1</sup> Les dispositions complémentaires du droit cantonal sur les registres et les autorités d'état civil, ainsi que sur les modalités de célébration des mariages, sont contenues dans une loi spéciale.
 
 [^51a-1]: Modif. 8 du 07.11.2023: Modification Al. 1; entrée en vigueur au 01.02.2024
 
