@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240201-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 1° gennaio 2024)
+del 30 settembre 2016 (Stato 1° febbraio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -340,7 +340,7 @@ Il Consiglio federale disciplina gli ulteriori dettagli del sistema di rimuneraz
 
 <sup>1</sup> I gestori vendono essi stessi la loro elettricità sul mercato.
 
-<sup>2</sup> Per singoli tipi di impianti, in particolare per quelli di piccole dimensioni, il Consiglio federale può prevedere che i gestori non debbano commercializzare direttamente l’elettricità ma che possano immetterla nella rete al prezzo di mercato di riferimento (art. 23) se la commercializzazione diretta causerebbe loro un onere sproporzionato. Il Consiglio federale può limitare tale diritto nel tempo.
+<sup>2</sup> Per singoli tipi di impianti, in particolare per quelli di piccole dimensioni, il Consiglio federale può prevedere che i gestori non debbano commercializzare direttamente l’elettricità ma che possano immetterla nella rete al prezzo di mercato di riferimento (art. 23) se la commercializzazione diretta causasse loro un onere sproporzionato. Il Consiglio federale può limitare tale diritto nel tempo.
 
 <sup>3</sup> In caso di commercializzazione diretta, la rimunerazione per l’immissione di elettricità destinata al singolo gestore si compone del ricavo da esso conseguito sul mercato e del premio per l’immissione di elettricità. Nei casi di cui al capoverso 2 si compone del prezzo di mercato di riferimento e del premio per l’immissione di elettricità.
 
@@ -1337,6 +1337,33 @@ All’ampliamento della centrale idroelettrica ad accumulazione di cui al capove
 <sup>3</sup> Il presente articolo rimane applicabile alle domande depositate pubblicamente entro il 31 dicembre 2025 nonché alle eventuali procedure di ricorso.
 
 [^71b-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 71c
+
+**Disposizione transitoria della modifica del 16 giugno 2023 (produzione di elettricità supplementare mediante impianti eolici)**[^71c-1]
+
+<sup>1</sup>
+
+Agli impianti eolici d’interesse nazionale con un piano di utilizzazione emanato dal Comune e passato in giudicato si applicano, fino a quando in Svizzera la potenza installata supplementare complessiva di tali impianti rispetto al 2021 non è pari a 600 MW, le condizioni seguenti:
+
+- a. il Cantone è competente per il rilascio dell’autorizzazione edilizia e delle autorizzazioni di competenza cantonale a essa necessariamente connesse;
+- b. le decisioni concernenti l’autorizzazione edilizia e le altre autorizzazioni di cui alla lettera a sono impugnabili mediante ricorso soltanto al tribunale cantonale superiore conformemente all’articolo 86 capoverso 2 della legge del 17 giugno 2005[^71c-2] sul Tribunale federale;
+- c. la decisione del tribunale cantonale superiore è impugnabile mediante ricorso al Tribunale federale soltanto se si pone una questione di diritto d’importanza fondamentale;
+- d. le autorità di grado superiore giudicano entro un congruo termine e, per quanto possibile, nel merito.
+
+<sup>2</sup>
+
+Le disposizioni del presente articolo si applicano anche nel caso in cui vi sia un piano di utilizzazione emanato dal Cantone e passato in giudicato, se:
+
+- a. la competenza cantonale è prevista da un atto normativo sottostante a referendum;
+- b. tale atto normativo è stato adottato prima dell’entrata in vigore del presente articolo.
+
+<sup>3</sup> Le disposizioni del presente articolo si applicano anche alle domande e ai ricorsi pendenti al momento della sua entrata in vigore. Il richiedente può esigere che l’autorità precedentemente competente giudichi la domanda o il ricorso.
+
+<sup>4</sup> Il presente articolo rimane applicabile alle domande depositate pubblicamente prima del raggiungimento dell’obiettivo di cui al capoverso 1, nonché alle eventuali procedure di ricorso, anche dopo il raggiungimento di tale obiettivo.
+
+[^71c-1]: Introdotto dal n. I 1 della LF del 16 giu. 2023 concernente l’accelerazione della procedura di autorizzazione degli impianti eolici, in vigore dal 1° feb. 2024 ([RU 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [FF 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^71c-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 72
 

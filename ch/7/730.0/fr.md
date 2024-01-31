@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240201-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> janvier 2024)
+du 30 septembre 2016 (État le 1<sup>er</sup> février 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -1336,6 +1336,33 @@ Les conditions suivantes s’appliquent à l’extension de la centrale hydroél
 <sup>3</sup> Le présente article reste applicable aux demandes mises à l’enquête publique avant le 31 décembre 2025 ainsi qu’aux éventuelles procédures de recours.
 
 [^71b-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 71c
+
+**Dispositions transitoires du 16 juin 2023 (production d’électricité supplémentaire à l’aide d’installations éoliennes)**[^71c-1]
+
+<sup>1</sup>
+
+Pour les installations éoliennes d’intérêt national dont le plan d’affectation entré en force a été décidé par la commune, les règles suivantes s’appliquent jusqu’à ce que ces installations disposent d’une puissance installée supplémentaire à l’échelle de la Suisse de 600 MW par rapport à 2021:
+
+- a. le canton est compétent pour octroyer l’autorisation de construire et les autorisations relevant de la compétence des cantons qui y sont nécessairement liées;
+- b. le recours contre les décisions relatives à l’autorisation de construire et aux autres autorisations mentionnées à la let. a n’est possible qu’auprès du tribunal cantonal supérieur visé à l’art. 86, al. 2, de la loi du 17 juin 2005 sur le Tribunal fédéral[^71c-2];
+- c. le recours subséquent au Tribunal fédéral n’est recevable que s’il soulève une question juridique de principe;
+- d. les autorités de recours se prononcent dans un délai raisonnable, dans la mesure du possible en statuant elles-mêmes sur le fond.
+
+<sup>2</sup>
+
+Ces règles s’appliquent également si le plan d’affectation entré en force a été décidé par le canton, pour autant:
+
+- a. que la compétence cantonale s’appuie, pour les plans d’affectation, sur un acte sujet à référendum;
+- b. que cet acte ait été adopté avant l’entrée en vigueur du présent article.
+
+<sup>3</sup> Ces règles s’appliquent aussi aux demandes et recours pendants au moment de l’entrée en vigueur du présent article. L’auteur de la demande peut toutefois exiger que l’autorité qui était compétente à ce moment-là statue sur la demande ou le recours concerné.
+
+<sup>4</sup> Le présent article s’applique aux demandes mises à l’enquête publique avant que l’objectif visé à l’al. 1 soit atteint, ainsi qu’aux éventuelles procédures de recours, même après que l’objectif a été atteint.
+
+[^71c-1]: Introduit par le ch. I 1 de la LF du 16 juin 2023 sur l’accélération des procédures d’autorisation pour les installations éoliennes, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [FF 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^71c-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 72
 

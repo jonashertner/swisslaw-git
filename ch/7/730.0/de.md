@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240201-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. Januar 2024)
+vom 30. September 2016 (Stand am 1. Februar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1333,6 +1333,33 @@ Für die Erweiterung des Speicherwasserkraftwerks nach Absatz 2 gilt, dass:
 <sup>3</sup> Dieser Artikel bleibt auf Gesuche, die bis am 31. Dezember 2025 öffentlich aufgelegt werden, sowie bei allfälligen Beschwerdeverfahren anwendbar.
 
 [^71b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 71c
+
+**Übergangsbestimmungen vom 16. Juni 2023 (Produktion von zusätzlicher Elektrizität aus Windenergieanlagen)**[^71c-1]
+
+<sup>1</sup>
+
+Für Windenergieanlagen von nationalem Interesse, die über einen rechtskräftigen Nutzungsplan verfügen, der von der Gemeinde beschlossen wurde, gilt bis zu einer schweizweit zusätzlich installierten Leistung solcher Anlagen von 600 MW im Vergleich zum Jahr 2021:
+
+- a. der Kanton ist zuständig für die Erteilung der Baubewilligung und der damit notwendigerweise zusammenhängenden in der Kompetenz der Kantone liegenden Bewilligungen;
+- b. gegen Entscheide über die Baubewilligung und die anderen Bewilligungen nach Buchstabe a ist nur die Beschwerde an das obere kantonale Gericht nach Artikel 86 Absatz 2 des Bundesgerichtsgesetzes vom 17. Juni 2005[^71c-2] zulässig;
+- c. gegen diese Entscheide ist die Beschwerde an das Bundesgericht nur zulässig, wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt;
+- d. die Rechtsmittelinstanzen entscheiden so weit möglich in der Sache selbst und innert angemessener Frist.
+
+<sup>2</sup>
+
+Diese Regeln kommen auch bei einem rechtskräftigen Nutzungsplan, der vom Kanton beschlossen wurde, zur Anwendung, wenn:
+
+- a. sich die kantonale Zuständigkeit für die Nutzungsplanung auf einen referendumsfähigen Erlass stützt;
+- b. dieser Erlass vor Inkrafttreten dieses Artikels verabschiedet wurde.
+
+<sup>3</sup> Diese Regeln sind auch auf Gesuche und Beschwerden anwendbar, die bei Inkrafttreten dieses Artikels hängig sind. Die Gesuchstellerin oder der Gesuchsteller kann verlangen, dass das Gesuch oder die Beschwerde von der Behörde beurteilt wird, die nach bisherigem Recht zuständig ist.
+
+<sup>4</sup> Dieser Artikel bleibt auf Gesuche, die vor Erreichung des Ziels nach Absatz 1 öffentlich aufgelegt werden, sowie auf allfällige Beschwerdeverfahren auch nach Erreichung des Ziels anwendbar.
+
+[^71c-1]: Eingefügt durch Ziff. I 1 des BG vom 16. Juni 2023 über die Beschleunigung der Bewilligungsverfahren für Windenergieanlagen, in Kraft seit 1. Febr. 2024 ([AS 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [BBl 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^71c-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 72
 

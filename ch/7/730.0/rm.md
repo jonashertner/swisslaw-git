@@ -4,11 +4,11 @@ title: "Lescha dals 30 da settember 2016 d'energia (LEn)"
 short: LEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: rm
-version: 2024-01-01
+version: 2024-02-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240101-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240201/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240201-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEn)
 
-dals 30 da settember 2016 (versiun dal 1. da schaner 2024)
+dals 30 da settember 2016 (versiun dal 1. da favrer 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1335,6 +1335,33 @@ Per amplifitgar l’ovra idroelectrica d’accumulaziun tenor l’alinea 2 valan
 <sup>3</sup> Quest artitgel resta applitgabel per dumondas che vegnan exponidas publicamain fin ils 31 da december 2025 sco er per eventualas proceduras da recurs.
 
 [^71b-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 71c
+
+**Disposiziuns transitoricas dals 16 da zercladur 2023 (producziun d’electricitad supplementara tras implants d’energia da vent)**[^71c-1]
+
+<sup>1</sup>
+
+Per implants d’energia da vent d’interess naziunal, per ils quals la vischnanca ha concludì in plan d’utilisaziun cun vigur legala, vala il suandant, fin che quests implants disponan en l’entira Svizra d’ina prestaziun installada supplementara da 600 MW cumpareglià cun l’onn 2021:
+
+- a. il chantun è cumpetent per conceder la permissiun da construcziun sco er las permissiuns ch’èn en la cumpetenza dals chantuns e che stattan necessariamain en connex cun la permissiun da construcziun;
+- b. cunter decisiuns davart la permissiun da construcziun e davart las autras permissiuns tenor la litera a poi vegnir fatg recurs mo tar la dretgira chantunala superiura tenor l’artitgel 86 alinea 2 da la Lescha dals 17 da zercladur 2005[^71c-2] davart il Tribunal federal;
+- c. cunter las decisiuns da las dretgiras chantunalas superiuras poi mo vegnir fatg recurs tar il Tribunal federal, sch’i sa tracta d’ina dumonda giuridica d’impurtanza fundamentala;
+- d. uschenavant sco pussaivel decidan las instanzas da meds legals sezzas en chaussa, e quai entaifer in termin adequat.
+
+<sup>2</sup>
+
+Questas reglas vegnan applitgadas er, en cas ch’il chantun aveva concludì in plan d’utilisaziun ch’è entrà en vigur legala, sche:
+
+- a. la cumpetenza chantunala per la planisaziun d’utilisaziun sa basa sin in decret ch’è suttamess al referendum;
+- b. quest decret è vegnì deliberà avant l’entrada en vigur da quest artitgel.
+
+<sup>3</sup> Questas reglas èn applitgablas er per dumondas e recurs ch’èn pendents il mument da l’entrada en vigur da quest artitgel. Il petent po pretender che la dumonda u il recurs vegnia giuditgà da l’autoritad ch’era cumpetenta tenor il dretg vertent.
+
+<sup>4</sup> Quest artitgel resta applitgabel per dumondas che vegnan exponidas publicamain avant che la finamira tenor l’alinea 1 è vegnida cuntanschida, sco er per eventualas proceduras da recurs, e quai er suenter che la finamira è vegnida cuntanschida.
+
+[^71c-1]: Integrà tras la cifra I 1 da la LF dals 16 da zer. 2023 davart l’acceleraziun da las proceduras da permissiun per implants d’energia da vent, en vigur dapi il 1. da favr. 2024 ([AS 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [BBl 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^71c-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 72
 
