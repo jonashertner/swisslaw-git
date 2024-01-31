@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "122.11"
-title: Gesetz über Niederlassung und Aufenthalt der Schweizer
-short: GNA
+title: Gesetz über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer
+short: NAG
 language: de
-version: 2013-01-01
-valid_until: 2024-01-31
-version_adopted: 2012-02-01
+version: 2024-02-01
+valid_until: 2026-08-31
+version_adopted: 2023-09-05
 adopted: 1985-09-12
 in_force: 1986-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1609/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2996/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über Niederlassung und Aufenthalt der Schweizer
+# Gesetz über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer
 
-(GNA)
+(NAG)
 
-vom 12.09.1985 (Stand 01.01.2013)
+vom 12.09.1985 (Stand 01.02.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -36,11 +36,16 @@ beschliesst:
 
 **Anmeldung**
 
-<sup>1</sup> Schweizer und Schweizerinnen, die in eine Gemeinde einziehen, haben sich innerhalb von 14 Tagen bei der Gemeindepolizeibehörde (Einwohnerkontrolle) persönlich anzumelden.[^1-1]
+<sup>1</sup> Schweizerinnen und Schweizer, die in eine Gemeinde einziehen, haben sich innert 14 Tagen bei der Einwohnerkontrolle anzumelden.
 
-<sup>2</sup> Für die rechtzeitige Anmeldung der Minderjährigen und Bevormundeten sind deren gesetzliche Vertreter mitverantwortlich.
+<sup>1a</sup> Die Anmeldung erfolgt
 
-[^1-1]: Die Anwendung dieses Absatzes wird bezüglich der persönlichen Anmeldung gemäss Artikel 5 der Versuchsverordnung vom 21. November 2018 zum elektronischen Umzug (eUmzug VV; BSG [122.162](https://www.belex.sites.be.ch/data/122.162/de)) (BAG [18-099](https://www.belex.sites.be.ch/frontend/change_documents/1657)) für die gemäss Artikel 4 eUmzug VV an den jeweiligen Versuchsphasen beteiligten Gemeinden ausgesetzt.
+- a digital über die vom Regierungsrat bestimmte Plattform oder
+- b persönlich bei der Einwohnerkontrolle.
+
+<sup>1b</sup> Die digitale Anmeldung setzt die gleichzeitige digitale Abmeldung in der Wegzugsgemeinde voraus.
+
+<sup>2</sup> Für die rechtzeitige Anmeldung von Minderjährigen, von Personen unter umfassender Beistandschaft und von Personen, deren Handlungsfähigkeit in Bezug auf Absatz 1 aufgrund einer errichteten Beistandschaft eingeschränkt worden ist, ist deren gesetzliche Vertretung verantwortlich.
 
 #### Art. 2
 
@@ -51,7 +56,7 @@ beschliesst:
 - a wer sich nur vorübergehend und nicht länger als drei Monate ausserhalb seines Wohnsitzes aufhalten will,
 - b wer in einem Heim oder in einer Anstalt untergebracht ist.
 
-<sup>2</sup> Die Vorschriften über die Gästekontrolle bleiben vorbehalten.
+<sup>2</sup> …
 
 #### Art. 3
 
@@ -59,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Wer in eine Gemeinde einzieht, in der er dauernd zu bleiben beabsichtigt oder wo sich der Mittelpunkt seiner Lebensbeziehungen befindet, hat sich zur Niederlassung anzumelden.
 
-<sup>2</sup> Niedergelassene haben ausserhalb ihrer Heimatgemeinde den Heimatschein zu hinterlegen und erhalten einen Niederlassungsausweis.
+<sup>2</sup> Niedergelassene können bei der Einwohnerkontrolle gegen Gebühr eine Wohnsitzbestätigung verlangen.
 
 #### Art. 4
 
@@ -67,77 +72,87 @@ beschliesst:
 
 <sup>1</sup> Wer für länger als drei Monate in die Gemeinde einzieht, ohne die Voraussetzungen der Niederlassung (Art. 3) zu erfüllen, meldet sich zum Aufenthalt an.
 
-<sup>2</sup> Aufenthalter haben einen Heimatausweis zu hinterlegen und erhalten einen Aufenthaltsausweis.
+<sup>1a</sup> Die Anmeldung erfolgt bei der Einwohnerkontrolle persönlich oder schriftlich.
+
+<sup>1b</sup> Der Regierungsrat kann die digitale Anmeldung durch Verordnung zulassen, sobald die Plattform dies ermöglicht.
+
+<sup>2</sup> Aufenthalt kann nur begründen, wer in der Schweiz niedergelassen ist.
+
+<sup>3</sup> Der Aufenthalt ist in der Einwohnerkontrolle als befristet zu führen, wobei
+
+- a die Frist in der Regel nach der Aufenthaltsdauer und der in der Meldung der Niederlassungsgemeinde angegebenen Gültigkeitsdauer bemessen wird,
+- b Fristverlängerungen möglich sind.
 
 #### Art. 5
 
-**Niederlassung und Aufenthalt minderjähriger Kinder**
-
-<sup>1</sup> Minderjährige Kinder, die im gemeinsamen Haushalt ihrer miteinander verheirateten Eltern leben, werden mit ihren vollständigen Personalien im Ausweis des Vaters oder der Mutter aufgeführt, sofern ihnen kein eigener Ausweis abgegeben wird.
-
-<sup>2</sup> Minderjährige Kinder, deren Eltern nicht miteinander verheiratet sind oder die nicht im gemeinsamen Haushalt ihrer Eltern leben, erhalten einen eigenen Ausweis.
+**…**
 
 #### Art. 6
 
-**Ausstellung der Ausweise**
+**Zustimmung der gesetzlichen Vertretung**
 
-<sup>1</sup> Die Niederlassungs- und Aufenthaltsausweise werden von der Einwohnerkontrolle ausgestellt.
+<sup>1</sup> …
 
-<sup>2</sup> Personen, die nicht selber über Aufenthalt und Niederlassung bestimmen können, werden nur mit Zustimmung des gesetzlichen Vertreters oder der Behörde im Einwohnerregister eingetragen. Der Einwohnerregisterführer löscht Eintragungen, die ohne die erforderlichen Zustimmungen erfolgt sind, von Amtes wegen.
+<sup>2</sup> Personen, die nicht selber über Niederlassung und Aufenthalt bestimmen können, werden nur mit Zustimmung der gesetzlichen Vertretung im Einwohnerregister eingetragen.
+
+<sup>3</sup> Die Einwohnerkontrolle löscht Eintragungen von Amtes wegen, die ohne die erforderliche Zustimmung erfolgt sind.
 
 #### Art. 7
 
-**Gültigkeitsdauer**
+**Identifikation**
 
-<sup>1</sup> Der Niederlassungsausweis ist unbefristet gültig.
+<sup>1</sup> Bei der digitalen Umzugsmeldung erfolgt die Identifikation gemäss der Gesetzgebung über die digitale Verwaltung.
 
-<sup>2</sup> Der Aufenthaltsausweis wird befristet. Die Frist wird in der Regel nach der Aufenthaltsdauer und der Gültigkeit der hinterlegten Ausweisschrift bemessen. Fristverlängerungen sind möglich.
+<sup>2</sup> Bei der persönlichen Anmeldung prüft die Einwohnerkontrolle die Identität von Personen
+
+- a aufgrund des Passes oder der Identitätskarte,
+- b auf andere geeignete Weise, wenn ein entsprechender Ausweis fehlt.
+
+#### Art. 7a
+
+**Meldungen von Kollektivhaushalten**
+
+<sup>1</sup> Der Regierungsrat regelt die Meldungen zu statistischen Zwecken von Kollektivhaushalten gemäss Artikel 2 Buchstabe a<sup>bis</sup> der eidgenössischen Registerharmonisierungsverordnung vom 21. November 2007 (RHV)[^7a-1] durch Verordnung.
+
+[^7a-1]: SR [431.021](https://db.clex.ch/link/Bund/431.021/de)
 
 #### Art. 8
 
 **Auskunftspflicht**
 
-<sup>1</sup> Die Meldepflichtigen haben die zur Erfüllung der gesetzlichen Aufgaben nötigen Angaben über die Person des Zugezogenen zu machen. Insbesondere sind ausreichende Bescheinigungen über den Zivilstand und den Familienbestand vorzulegen.[^8-1]
+<sup>1</sup> Die Meldepflichtigen haben die zur Erfüllung der gesetzlichen Aufgaben nötigen Angaben über die Person der oder des Zugezogenen zu machen.
 
-<sup>2</sup> Wer Unterkunft gewährt oder eine Wohnung vermietet, hat der Einwohnerkontrolle über Zu- und Weggezogene oder Mieter Auskunft zu erteilen. Arbeitgeber haben über die Namen der Arbeitnehmer Auskunft zu geben.
+<sup>2</sup> Wer Unterkunft gewährt oder eine Wohnung vermietet, hat der Einwohnerkontrolle über Zu- und Weggezogene oder Mieterinnen und Mieter Auskunft zu erteilen. Arbeitgeberinnen und Arbeitgeber haben über die Namen der Arbeitnehmerinnen und Arbeitnehmer Auskunft zu geben.
 
-<sup>3</sup> Industrielle Werke haben über die Daten Auskunft zu erteilen, die zur Bestimmung und Nachführung des Wohnungsidentifikators einer Person nach dem eidgenössischen Gebäude- und Wohnungsregister gemäss der eidgenössischen Verordnung vom 31. Mai 2000 über das eidgenössische Gebäude- und Wohnungsregister (GWR-VO)[^8-2] erforderlich sind. Die Ausführungsbestimmungen können vorsehen, dass die Auskunft über ein elektronisches Melde- oder Abrufverfahren erteilt wird.
+<sup>3</sup> Industrielle Werke haben über die Daten Auskunft zu erteilen, die zur Bestimmung und Nachführung des Wohnungsidentifikators einer Person nach dem eidgenössischen Gebäude- und Wohnungsregister gemäss der eidgenössischen Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister (VGWR)[^8-1] erforderlich sind. Der Regierungsrat kann durch Verordnung vorsehen, dass die Gemeinden die periodische Meldung verlangen und die Form der Übermittlung bestimmen können.
 
 <sup>4</sup> Die Auskünfte werden unentgeltlich erteilt.
 
-<sup>5</sup> Der zur Auskunft Verpflichtete kann zum Nachweis seiner Angaben angehalten werden. Aufenthalter haben auf Verlangen nachzuweisen, dass sie die Voraussetzungen zur Niederlassung (Art. 3) in einer anderen Gemeinde erfüllen.[^8-3]
+<sup>5</sup> Die oder der zur Auskunft Verpflichtete kann zum Nachweis ihrer oder seiner Angaben angehalten werden. Aufenthalterinnen und Aufenthalter haben auf Verlangen nachzuweisen, dass sie die Voraussetzungen zur Niederlassung (Art. 3) in einer anderen Gemeinde erfüllen.
 
-[^8-1]: Die Anwendung dieses Absatzes wird bezüglich der Identifikationsanforderungen gemäss Artikel 5 eUmzug VV (BAG [18-099](https://www.belex.sites.be.ch/frontend/change_documents/1657)) für die gemäss Artikel 4 eUmzug VV an den jeweiligen Versuchsphasen beteiligten Gemeinden ausgesetzt.
-[^8-2]: SR 431.841
-[^8-3]: Entspricht dem bisherigen Absatz 3
+[^8-1]: SR [431.841](https://db.clex.ch/link/Bund/431.841/de)
 
 #### Art. 9
 
 **Meldung von Änderungen**
 
-<sup>1</sup> Niedergelassene und Aufenthalter haben der Einwohnerkontrolle innert 14 Tagen zu melden:
+<sup>1</sup> Niedergelassene sowie Aufenthalterinnen und Aufenthalter haben der Einwohnerkontrolle Wohnungswechsel innerhalb der Gemeinde innert 14 Tagen zu melden.
 
-- a Wohnungswechsel innerhalb der Gemeinde;
-- b im Ausland eingetretene Änderungen ihres Zivilstandes.
-
-<sup>2</sup> Nach einer Änderung des Namens, des Zivilstandes oder des Bürgerrechts sind innert 60 Tagen neue Ausweisschriften zu hinterlegen.
+<sup>2</sup> Die Niederlassungsgemeinde meldet der Aufenthaltsgemeinde eine Änderung des Namens, des Zivilstands oder des Bürgerrechts.
 
 #### Art. 10
 
 **Wegzug**
 
-<sup>1</sup> Wer von einer Gemeinde wegzieht, hat sich spätestens am Tage des Wegzugs abzumelden und den neuen Wohnort anzugeben. Die Gemeinde kann die persönliche Abmeldung vorschreiben.[^10-1]
+<sup>1</sup> Wer von einer Gemeinde wegzieht, hat sich spätestens am Tage des Wegzugs abzumelden und die neue Wohnadresse anzugeben.
 
-<sup>2</sup> Die hinterlegten Ausweisschriften werden gegen Rückgabe des Niederlassungs- oder Aufenthaltsausweises herausgegeben, wenn nicht eine Person oder Behörde, die nach Gesetz über den Aufenthalt zu bestimmen hat, sich der Herausgabe widersetzt.[^10-2]
-
-[^10-1]: Die Anwendung dieses Absatzes wird bezüglich der Möglichkeit des Vorschreibens der persönlichen Abmeldung gemäss Artikel 5 eUmzug VV (BAG [18-099](https://www.belex.sites.be.ch/frontend/change_documents/1657)) für die gemäss Artikel 4 eUmzug VV an den jeweiligen Versuchsphasen beteiligten Gemeinden ausgesetzt.
-[^10-2]: Die Anwendung dieses Absatzes wird gemäss Artikel 5 eUmzug VV (BAG [18-099](https://www.belex.sites.be.ch/frontend/change_documents/1657)) für die gemäss Artikel 4 eUmzug VV an den jeweiligen Versuchsphasen beteiligten Gemeinden ausgesetzt.
+<sup>2</sup> Erfolgt die Meldung des Wegzugs nicht digital, erstattet die Wegzugsgemeinde der Zuzugsgemeinde eine Meldung über den bevorstehenden Zuzug.
 
 #### Art. 11
 
 **Register**
 
-<sup>1</sup> Die Gemeinden führen ein Register der Niedergelassenen und Aufenthalter (Einwohnerregister).
+<sup>1</sup> Die Gemeinden führen ein Register der Niedergelassenen sowie der Aufenthalterinnen und Aufenthalter (Einwohnerregister).
 
 #### Art. 12
 
@@ -155,11 +170,7 @@ beschliesst:
 
 #### Art. 14
 
-**Ersatzvornahme**
-
-<sup>1</sup> Wird die benötigte Ausweisschrift trotz Mahnung nicht hinterlegt, kann sie vom Gemeinderat oder von der nach Gemeindereglement zuständigen Amtsstelle durch Ersatzvornahme beschafft werden.
-
-<sup>2</sup> Säumige tragen die Kosten des Verfahrens.
+**…**
 
 #### Art. 15
 
@@ -173,17 +184,23 @@ beschliesst:
 
 **Strafen**
 
-<sup>1</sup> Widerhandlungen gegen die Pflicht zur Schriftenhinterlage, die Melde- und Auskunftspflicht werden mit Busse bis 500 Franken bestraft.
+<sup>1</sup> Widerhandlungen gegen die Melde- und Auskunftspflicht werden mit Busse bis 500 Franken bestraft.
 
-<sup>2</sup> Die Bussen werden nach den Bestimmungen des Dekretes über das Busseneröffnungsverfahren in den Gemeinden[^16-1] verhängt.
+<sup>2</sup> Die Bussen werden nach den Bestimmungen von Artikel 58 bis 60 des Gemeindegesetzes vom 16. März 1998 (GG)[^16-1] verhängt.
 
-[^16-1]: Aufgehoben durch Gemeindegesetz vom 16. 3. 1998; BSG 170.11
+[^16-1]: BSG [170.11](https://www.belex.sites.be.ch/data/170.11/de)
 
 #### Art. 17
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat erlässt die nötigen Ausführungsbestimmungen, namentlich über den Heimatausweis, die Registerführung, die Schriftenhinterlage, das Meldewesen, die besonderen Arten von Niederlassung und Aufenthalt und die von den Gemeinden zu beziehenden Gebühren.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes nötigen Ausführungsbestimmungen, namentlich
+
+- a zur digitalen Umzugsmeldung,
+- b zur Registerführung,
+- c zum Meldewesen,
+- d zu den besonderen Arten von Niederlassung und Aufenthalt,
+- e zu den von den Gemeinden zu beziehenden Gebühren.
 
 #### Art. 18
 
@@ -194,6 +211,14 @@ beschliesst:
 <sup>2</sup> Das Gesetz vom 22. Oktober 1961 und das Dekret vom 20. Februar 1962 über Niederlassung und Aufenthalt der Schweizer Bürger werden aufgehoben.
 
 [^18-1]: 1. 7. 1986
+
+## T1 Übergangsbestimmung der Änderung vom 05.09.2023
+
+#### Art. T1-1
+
+**Spätester Einführungszeitpunkt der digitalen Umzugsmeldung**
+
+<sup>1</sup> Die Gemeinden führen die Möglichkeit der digitalen Umzugsmeldung spätestens zwei Jahre nach Inkrafttreten dieser Änderung ein.
 
 Bern, 12. September 1985
 

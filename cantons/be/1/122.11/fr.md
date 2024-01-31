@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "122.11"
-title: "Loi sur l'établissement et le séjour des Suisses"
+title: "Loi sur l'établissement et le séjour des Suissesses et des Suisses *"
 short: LES
 language: fr
-version: 2013-01-01
-valid_until: 2024-01-31
-version_adopted: 2012-02-01
+version: 2024-02-01
+valid_until: 2026-08-31
+version_adopted: 2023-09-05
 adopted: 1985-09-12
 in_force: 1986-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1609/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2996/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Loi sur l'établissement et le séjour des Suisses
+# Loi sur l'établissement et le séjour des Suissesses et des Suisses
 
 (LES)
 
-du 12.09.1985 (état au 01.01.2013)
+du 12.09.1985 (état au 01.02.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -36,22 +36,27 @@ arrête:
 
 **Obligation de s'annoncer**
 
-<sup>1</sup> Les Suissesses et Suisses qui arrivent dans une commune sont tenus de s'annoncer personnellement à l'autorité de police communale (contrôle des habitants) dans un délai de 14 jours.[^1-1]
+<sup>1</sup> Les Suissesses et les Suisses qui arrivent dans une commune sont tenus de s'annoncer au contrôle des habitantes et des habitants dans un délai de 14 jours.
 
-<sup>2</sup> Les représentants légaux des mineurs et des personnes placées sous tutelle sont co-responsables du respect de l'obligation de s'annoncer dans le délai.
+<sup>1a</sup> L'annonce se fait
 
-[^1-1]: L'application de cet alinéa concernant l'annonce personnelle de l'arrivée est suspendue par l'article 5 de l'ordonnance exploratoire du 21 novembre 2018 sur l'annonce électronique des déménagements (OE eDéménagement; RSB [122.162](https://www.belex.sites.be.ch/data/122.162/fr)) (ROB [18-099](https://www.belex.sites.be.ch/frontend/change_documents/1657?locale=fr)) pour les communes concernées par les essais et définies à l’article 4 OE eDéménagement.
+- a électroniquement sur la plateforme désignée par le Conseil-exécutif ou
+- b personnellement auprès du contrôle des habitantes et des habitants.
+
+<sup>1b</sup> L'annonce électronique de l'arrivée présuppose l'annonce électronique simultanée du départ de la commune de provenance.
+
+<sup>2</sup> Les représentantes ou les représentants légaux des personnes mineures, placées sous curatelle de portée générale ou privées de l'exercice des droits civils pour les actes au sens de l'alinéa 1 par l'institution d'une curatelle sont responsables du respect de l'obligation de s'annoncer dans le délai.
 
 #### Art. 2
 
 **Exceptions**
 
-<sup>1</sup> Est dispensé de l'obligation de s'annoncer
+<sup>1</sup> Est dispensé de l'obligation de s'annoncer quiconque
 
-- a celui qui n'entend séjourner hors de son lieu de domicile que temporairement et pour une durée n'excédant pas trois mois;
-- b celui qui est placé dans un foyer ou dans un établissement.
+- a n'entend séjourner hors de son lieu de domicile que temporairement et pour une durée n'excédant pas trois mois;
+- b est placé dans un foyer ou dans un établissement.
 
-<sup>2</sup> Les prescriptions relatives au contrôle des clients sont réservées.
+<sup>2</sup> …
 
 #### Art. 3
 
@@ -59,91 +64,101 @@ arrête:
 
 <sup>1</sup> Quiconque s'installe dans une commune où il a l'intention de s'établir ou bien où se trouve le centre de son existence et de ses intérêts, est tenu d'annoncer son établissement.
 
-<sup>2</sup> Les personnes établies hors de leur commune d'origine doivent déposer leur acte d'origine; elles reçoivent une attestation d'établissement.
+<sup>2</sup> Les personnes établies peuvent, contre paiement d'un émolument, obtenir une attestation de domicile du contrôle des habitantes et des habitants.
 
 #### Art. 4
 
 **Séjour**
 
-<sup>1</sup> Celui qui s'installe dans la commune pour une durée de plus de trois mois, sans remplir les conditions de l'établissement (art. 3), annonce son séjour.
+<sup>1</sup> Quiconque s'installe dans une commune pour une durée de plus de trois mois sans remplir les conditions de l'établissement (art. 3) annonce son séjour.
 
-<sup>2</sup> Les personnes qui séjournent doivent déposer un certificat d'origine; elles reçoivent une attestation de séjour.
+<sup>1a</sup> L'annonce au contrôle des habitantes et des habitants se fait personnellement ou par écrit.
+
+<sup>1b</sup> Le Conseil-exécutif peut autoriser l'annonce électronique par voie d'ordonnance dès que la plateforme le permet.
+
+<sup>2</sup> Seules les personnes établies en Suisse peuvent se constituer un lieu de séjour.
+
+<sup>3</sup> Le séjour est inscrit dans le registre des habitantes et des habitants comme étant de durée limitée. Cette durée
+
+- a est en règle générale fonction de celle du séjour et de la validité mentionnée dans l'annonce faite par la commune d'établissement;
+- b peut être prolongée.
 
 #### Art. 5
 
-**Etablissement et séjour des enfants mineurs**
-
-<sup>1</sup> Les enfants mineurs, qui vivent dans le ménage commun de leurs parents mariés ensemble, sont inscrits, avec toutes leurs données personnelles, sur l’attestation de leur père ou de leur mère, pour autant qu’aucune attestation personnelle ne leur soit délivrée.
-
-<sup>2</sup> Les enfants mineurs, dont les parents ne sont pas mariés ensemble ou qui ne vivent pas dans le ménage commun de leurs parents, reçoivent leur propre attestation.
+**…**
 
 #### Art. 6
 
-**Remise des attestations**
+**Approbation de la représentante légale ou du représentant légal**
 
-<sup>1</sup> Les attestations d'établissement et de séjour sont délivrées par le contrôle des habitants.
+<sup>1</sup> …
 
-<sup>2</sup> Les personnes qui ne peuvent pas déterminer elles-mêmes leur séjour et leur établissement ne sont inscrites au registre des habitants qu'avec l'approbation du représentant légal ou de l'autorité. Le préposé au registre des habitants radie d'office les inscriptions qui y ont été portées sans l'approbation requise.
+<sup>2</sup> Les personnes qui ne peuvent pas déterminer elles-mêmes leur établissement ou leur séjour ne sont inscrites au registre des habitantes et des habitants qu'avec l'approbation de leur représentante légale ou de leur représentant légal.
+
+<sup>3</sup> Le contrôle des habitantes et des habitants radie d'office les inscriptions qui ont été portées au registre sans l'approbation requise.
 
 #### Art. 7
 
-**Validité**
+**Identification**
 
-<sup>1</sup> La validité de l'attestation d'établissement est illimitée.
+<sup>1</sup> En cas d'annonce électronique d'un déménagement, l'identification est régie par la législation sur l'administration numérique.
 
-<sup>2</sup> La validité de l'attestation de séjour est limitée. Elle est en règle générale fonction de la durée du séjour et de la validité des pièces d'identité déposées. Elle peut être prolongée.
+<sup>2</sup> En cas d'annonce personnelle d'un déménagement, le contrôle des habitantes et des habitants vérifie l'identité de la personne
+
+- a au moyen de son passeport ou de sa carte d'identité,
+- b d'une autre manière appropriée en l'absence d'un tel document.
+
+#### Art. 7a
+
+**Annonce des ménages collectifs**
+
+<sup>1</sup> Le Conseil-exécutif règle par voie d'ordonnance l'annonce des ménages collectifs à des fins statistiques au sens de l'article 2, lettre a<sup>bis</sup> de l'ordonnance fédérale du 21 novembre 2007 sur l'harmonisation de registres (OHR)[^7a-1].
+
+[^7a-1]: RS [431.021](https://db.clex.ch/link/Bund/431.021/fr)
 
 #### Art. 8
 
 **Obligation de renseigner**
 
-<sup>1</sup> Les personnes soumises à l'obligation de s'annoncer doivent fournir, sur la personne des nouveaux arrivants, les indications nécessaires à l'accomplissement des tâches légales. Des pièces suffisantes, attestant de l'état civil et de la situation de famille, doivent en particulier être présentées.[^8-1]
+<sup>1</sup> Les tiers soumis à l'obligation de déclarer doivent fournir, sur la personne des nouvelles arrivantes et des nouveaux arrivants, les indications nécessaires à l'accomplissement des tâches légales.
 
-<sup>2</sup> Celui qui offre l’hébergement ou donne un logement à bail doit fournir des renseignements au contrôle des habitants sur les arrivants et les partants ou les locataires. L’employeur doit fournir des renseignements concernant l’identité de ses employés.
+<sup>2</sup> Quiconque offre l’hébergement ou donne un logement à bail doit fournir des renseignements au contrôle des habitantes et des habitants sur les personnes arrivantes ou partantes ou les locataires. L’employeur doit fournir des renseignements concernant l’identité de ses employées et de ses employés.
 
-<sup>3</sup> Les services industriels doivent fournir des renseignements sur les données qui sont nécessaires à la détermination et la mise à jour du numéro de logement d’une personne selon le Registre fédéral des bâtiments et des logements conformément à l’ordonnance du 31 mai 2000 sur le Registre fédéral des bâtiments et des logements[^8-2]. Les dispositions d’exécution peuvent prévoir que les renseignements soient fournis dans une procédure électronique d’appel ou d’annonce.
+<sup>3</sup> Les services industriels doivent fournir des renseignements sur les données qui sont nécessaires à la détermination et à la mise à jour du numéro de logement d’une personne selon le Registre fédéral des bâtiments et des logements conformément à l’ordonnance fédérale du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements (ORegBL)[^8-1]. Le Conseil-exécutif peut habiliter les communes par voie d'ordonnance à exiger une annonce périodique et à en définir la forme de transmission.
 
 <sup>4</sup> Les renseignements sont fournis à titre gratuit.
 
-<sup>5</sup> La personne soumise à l'obligation de renseigner peut être tenue de prouver les indications qu'elle fournit. Les personnes qui séjournent doivent, sur demande, prouver qu'elles remplissent les conditions de l'établissement (art. 3) dans une autre commune.[^8-3]
+<sup>5</sup> Quiconque a une obligation de renseigner peut être tenu de prouver les indications fournies. Les personnes qui séjournent doivent, sur demande, prouver qu'elles remplissent les conditions de l'établissement (art. 3) dans une autre commune.
 
-[^8-1]: L'application de cet alinéa concernant les exigences en matière d'identification est suspendue par l'article 5 OE eDéménagement (ROB [18-099](https://www.belex.sites.be.ch/frontend/change_documents/1657?locale=fr)) pour les communes concernées par les essais et définies à l’article 4 OE eDéménagement.
-[^8-2]: RS 431.841
-[^8-3]: Ancien alinéa 3
+[^8-1]: RS [431.841](https://db.clex.ch/link/Bund/431.841/fr)
 
 #### Art. 9
 
 **Annonce de modifications**
 
-<sup>1</sup> Les personnes établies et celles qui séjournent sont tenues d'annoncer dans les 14 jours au contrôle des habitants
+<sup>1</sup> Les personnes établies et celles qui séjournent sont tenues d'annoncer dans les 14 jours au contrôle des habitantes et des habitants tout changement d'adresse à l'intérieur de la commune.
 
-- a leur changement d'adresse à l'intérieur de la commune;
-- b les modifications de leur état civil survenues à l'étranger.
-
-<sup>2</sup> En cas de changement de nom, d'état civil ou d'indigénat, les nouvelles pièces d'identité doivent être déposées dans un délai de 60 jours.
+<sup>2</sup> La commune d'établissement annonce à la commune de séjour tout changement de nom, d'état civil ou de droit de cité.
 
 #### Art. 10
 
 **Départ**
 
-<sup>1</sup> Celui qui quitte une commune est tenu d’annoncer son départ et d’indiquer son nouveau domicile le jour même de son départ au plus tard. La commune peut prescrire de s’annoncer partant personnellement.[^10-1]
+<sup>1</sup> Quiconque quitte une commune doit annoncer son départ et indiquer sa nouvelle adresse de domicile le jour même de son départ au plus tard.
 
-<sup>2</sup> Les pièces d'identité déposées sont rendues contre restitution de l'attestation d'établissement ou de séjour, si aucune personne ou autorité ayant de par la loi qualité pour déterminer le séjour ne s'oppose à la restitution desdites pièces.[^10-2]
-
-[^10-1]: L'application de cet alinéa concernant la possibilité de prescrire l'annonce personnelle du départ est suspendue par l'article 5 OE eDéménagement (ROB [18-099](https://www.belex.sites.be.ch/frontend/change_documents/1657?locale=fr)) pour les communes concernées par les essais et définies à l’article 4 OE eDéménagement.
-[^10-2]: L'application de cet alinéa est suspendue par l'article 5 OE eDéménagement (ROB [18-099](https://www.belex.sites.be.ch/frontend/change_documents/1657?locale=fr)) pour les communes concernées par les essais et définies à l’article 4 OE eDéménagement.
+<sup>2</sup> Si le départ n'est pas annoncé au moyen de la procédure électronique, la commune de provenance informe la commune concernée de l'arrivée imminente de la personne.
 
 #### Art. 11
 
 **Registre**
 
-<sup>1</sup> Les communes tiennent un registre des personnes qui sont établies et de celles qui séjournent (registre des habitants).
+<sup>1</sup> Les communes tiennent un registre des personnes qui sont établies et de celles qui séjournent (registre des habitantes et des habitants).
 
 #### Art. 12
 
 **Communication de données personnelles**
 
-<sup>1</sup> Les prescriptions sur la protection des données sont applicables à la publication de données personnelles par le contrôle des habitants.
+<sup>1</sup> Les prescriptions sur la protection des données sont applicables à la publication de données personnelles par le contrôle des habitantes et des habitants.
 
 <sup>2</sup> Les dispositions légales particulières, relatives à l'obligation de fournir des renseignements, sont réservées.
 
@@ -151,15 +166,11 @@ arrête:
 
 **Recherche par la police**
 
-<sup>1</sup> Celui qui, en dépit d'une sommation, ne respecte pas l'obligation légale de s'annoncer, peut être recherché et amené par la police.
+<sup>1</sup> Quiconque, en dépit d'une sommation, ne respecte pas l'obligation légale de s'annoncer, peut être recherché et amené par la police.
 
 #### Art. 14
 
-**Exécution par substitution**
-
-<sup>1</sup> Si en dépit d'une sommation, la pièce d'identité requise n'est pas déposée, le conseil communal ou le service compétent en vertu du règlement communal peuvent ordonner l'exécution par substitution.
-
-<sup>2</sup> Les retardataires supportent les frais de la procédure.
+**…**
 
 #### Art. 15
 
@@ -173,17 +184,23 @@ arrête:
 
 **Peines**
 
-<sup>1</sup> Les infractions à l'obligation de déposer des pièces, de s'annoncer et de renseigner sont punies d'une amende de 500 francs au plus.
+<sup>1</sup> Les infractions à l'obligation de s'annoncer ou de renseigner sont punies d'une amende de 500 francs au plus.
 
-<sup>2</sup> Les amendes sont prononcées conformément aux dispositions du décret concernant le pouvoir répressif des communes[^16-1].
+<sup>2</sup> Les amendes sont prononcées conformément aux articles 58 à 60 de la loi du 16 mars 1998 sur les communes (LCo[^16-1]).
 
-[^16-1]: Abrogé par L du 16. 3. 1998 sur les communes; RSB 170.11
+[^16-1]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
 
 #### Art. 17
 
 **Dispositions d'exécution**
 
-<sup>1</sup> Le Conseil-exécutif édicte les dispositions d'exécution nécessaires, concernant notamment le certificat d'origine, la tenue des registres, le dépôt des pièces, la procédure d'annonce, les formes particulières d'établissement et de séjour et les émoluments à percevoir par les communes.
+<sup>1</sup> Le Conseil-exécutif édicte les dispositions nécessaires à l'exécution de la présente loi, concernant notamment
+
+- a l'annonce électronique des déménagements,
+- b la tenue des registres,
+- c la procédure d'annonce,
+- d les formes particulières d'établissement et de séjour,
+- e les émoluments à percevoir par les communes.
 
 #### Art. 18
 
@@ -194,6 +211,14 @@ arrête:
 <sup>2</sup> La loi du 22 octobre 1961 et le décret du 20 février 1962 sur l'établissement et le séjour des citoyens suisses sont abrogés.
 
 [^18-1]: 1. 7. 1986
+
+## T1 Disposition transitoire de la modification du 05.09.2023
+
+#### Art. T1-1
+
+**Dernier délai d'introduction de l'annonce électronique des déménagements**
+
+<sup>1</sup> Les communes introduisent l'annonce électronique des déménagements au plus tard deux ans après l'entrée en vigueur de la présente modification.
 
 Berne, 12 septembre 1985
 
