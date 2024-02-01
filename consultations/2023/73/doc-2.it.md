@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifiche all’ordinanza sull’assicurazione malattie (OAMal) e all’ordinanza sulle prestazioni (OPre)
 document: Progetto posto in consultazione-2
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur l’assurance-maladie (OAMal) et de l’ordonnance sur les prestations de l’assurance des soins (OPAS)
 document: Projet mis en consultation-2
 language: fr
