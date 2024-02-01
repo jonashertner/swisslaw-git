@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale dell’ordinanza sulla radiotelevisione (ORTV)
 document: Progetto posto in consultazione
 language: it

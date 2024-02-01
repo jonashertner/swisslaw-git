@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur la radio et la télévision (ORTV)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Radio- und Fernsehverordnung (RTVV)
 document: Vernehmlassungsvorlage
 language: de
