@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Internationales Kaffee-Übereinkommen von 2007 vom 28. September 2007 (mit Anlagen und Resolution)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: de
-version: 2022-05-17
+version: 2024-02-02
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220517/de/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220517-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220517/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20240202/de/xml/fedlex-data-admin-ch-eli-cc-2011-608-20240202-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20240202/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. September 2009
 
 Für die Schweiz in Kraft getreten am 2. Februar 2011
 
-(Stand am 17. Mai 2022)
+(Stand am 2. Februar 2024)
 
 [^t-1]: [AS 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -639,7 +639,7 @@ Stellt der Rat fest, dass ein Mitglied seine Verpflichtungen aus diesem Überein
 
 <sup>(6)</sup> Jede Entscheidung, die hinsichtlich der Geltungsdauer und/oder Ausserkraftsetzung dieses Übereinkommens getroffen wird, sowie jede Notifikation, die beim Rat nach diesem Artikel eingeht, wird dem Depositar vom Rat ordnungsgemäss übermittelt.
 
-[^48-1]: Mittels Resolution Nr. 473 vom 10. Sept. 2021 wurde beschlossen, die Geltungsdauer des Übereink. erneut zu verlängern bis zum 1. Febr. 2024 ([AS 2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
+[^48-1]: Mittels Resolution Nr. 480 vom 28. Sept. 2023 wurde beschlossen, die Geltungsdauer des Übereink. erneut zu verlängern bis zum 1. Febr. 2026 ([AS 2024 21](https://fedlex.data.admin.ch/eli/oc/2024/21); [2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
 
 #### Art. 49
 
@@ -720,9 +720,9 @@ entscheidet:
 - g) das Übereinkommen beim Sekretariat der Vereinten Nationen registrieren zu lassen;
 - h) im Fall von Fragen zur Erfüllung der Aufgaben des Depositars, die Unterzeichnerstaaten und die Vertragsstaaten oder, wenn angebracht, den Internationalen Kaffeerat darauf aufmerksam zu machen.
 
-[^annexu1-lvlu2-1]: [SR 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^annexu1-lvlu2-1]: [SR 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
 
-Geltungsbereich am 17. Mai 2022**[^t-2]**
+Geltungsbereich am 17. Mai 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -774,7 +774,7 @@ Geltungsbereich am 17. Mai 2022**[^t-2]**
 <tr><td>Vereinigtes Königreich</td><td>31. Dezember</td><td>2020 B</td><td>31. Dezember</td><td>2020</td></tr>
 <tr><td>Vietnam</td><td>28. August</td><td>2008</td><td>2. Februar</td><td>2011</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>24. August</td><td>2010</td><td>2. Februar</td><td>2011</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen: Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Kaffee-Organisation (ICO): www.ico.org &gt; Français &gt; À notre sujet &gt; Accord de 2007 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge 3003 Bern, bezogen werden. <sup>a</sup> Vorläufige Anwendung des Übereinkommens seit dem 6. November 2009.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen: Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Kaffee-Organisation (ICO): [www.ico.org](http://www.ico.org) &gt; Français eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge 3003 Bern, bezogen werden. <sup>a</sup> Vorläufige Anwendung des Übereinkommens seit dem 6. November 2009.</td></tr>
 </table>
 
-[^t-2]: [AS 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608); [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592); [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516); [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405); [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458); [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971); [2022 309](https://fedlex.data.admin.ch/eli/oc/2022/309). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608); [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592); [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516); [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405); [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458); [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971); [2022 309](https://fedlex.data.admin.ch/eli/oc/2022/309). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

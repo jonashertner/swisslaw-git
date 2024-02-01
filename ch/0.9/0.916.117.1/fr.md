@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Accord international de 2007 sur le café du 28 septembre 2007 (avec annexe et résolution)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: fr
-version: 2022-05-17
+version: 2024-02-02
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220517/fr/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220517-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220517/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20240202/fr/xml/fedlex-data-admin-ch-eli-cc-2011-608-20240202-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20240202/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 11 septembre 2009
 
 Entré en vigueur pour la Suisse le 2 février 2011
 
-(Etat le 17 mai 2022)
+(État le 2 février 2024)
 
 [^t-1]: [RO 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -627,7 +627,7 @@ Si le Conseil considère qu’un Membre a commis une infraction aux obligations 
 
 \6) Toute décision concernant la durée et/ou la résiliation du présent Accord et toute notification reçue par le Conseil, conformément au présent article, est dûment transmise au dépositaire par le Conseil.
 
-[^48-1]: Prorogé à nouveau jusqu’au 1<sup>er</sup> fév. 2024 par la résolution n<sup>o</sup> 473 du 10 sept. 2021 ([RO 2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
+[^48-1]: Prorogé à nouveau jusqu’au 1<sup>er</sup> fév. 2026 par la résolution n<sup>o</sup> 480 du 28 sept. 2023 ([RO 2024 21](https://fedlex.data.admin.ch/eli/oc/2024/21); [2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
 
 #### Art. 49
 
@@ -708,9 +708,9 @@ décide:
 - g) Assurer l’enregistrement de l’Accord auprès du Secrétariat de l’Organisation des Nations Unies.
 - h) En cas de questions au sujet de l’accomplissement des fonctions du dépositaire, porter ces questions à l’attention des signataires et des Parties Contractantes ou, le cas échéant, du Conseil international du Café.
 
-[^annexu1-lvlu2-1]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^annexu1-lvlu2-1]: [RS 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
 
-Champ d’application le 17 mai 2022**[^t-2]**
+Champ d’application le 17 mai 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -762,7 +762,7 @@ Champ d’application le 17 mai 2022**[^t-2]**
 <tr><td>Yémen</td><td>14 juillet</td><td>2010</td><td>2 février</td><td>2011</td></tr>
 <tr><td>Zambie</td><td>3 août</td><td>2011</td><td>3 août</td><td>2011</td></tr>
 <tr><td>Zimbabwe</td><td>24 mai</td><td>2012</td><td>24 mai</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations: Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Café (OIC): www.ico.org &gt; Français &gt; À notre sujet &gt; Accord de 2007, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Application provisoire de l’accord dès le 6 novembre 2009.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations: Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Café (OIC): [www.ico.org](http://www.ico.org) &gt; Français, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Application provisoire de l’accord dès le 6 novembre 2009.</td></tr>
 </table>
 
-[^t-2]: [RO 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608); [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592); [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516); [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405); [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458); [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971); [2022 309](https://fedlex.data.admin.ch/eli/oc/2022/309). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-2]: [RO 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608); [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592); [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516); [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405); [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458); [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971); [2022 309](https://fedlex.data.admin.ch/eli/oc/2022/309). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

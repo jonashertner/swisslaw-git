@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Accordo internazionale del 2007 sul caffè del 28 settembre 2007 (con all. e Risoluzione)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: it
-version: 2022-05-17
+version: 2024-02-02
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220517/it/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220517-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220517/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20240202/it/xml/fedlex-data-admin-ch-eli-cc-2011-608-20240202-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20240202/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Londra il 28 settembre 2007 Approvato dall’Assemblea federale il 10 marzo 2009[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 settembre 2009 Entrato in vigore per la Svizzera il 2 febbraio 2011
 
-(Stato 17 maggio 2022)
+(Stato 2 febbraio 2024)
 
 [^t-1]: [RU 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -621,7 +621,7 @@ Se considera che un Membro abbia commesso un’infrazione agli obblighi che gli 
 
 \6) Qualsiasi decisione adottata riguardo alla durata e/o alla rescissione del presente Accordo e qualsiasi notifica ricevuta dal Consiglio, in conformità al presente articolo, è debitamente trasmessa dal Consiglio al depositario.
 
-[^48-1]: Validità prorogato nuovamente fino al 1° feb. 2024 dalla risoluzione no 473 del 10 set. 2021 ([RU 2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
+[^48-1]: Validità prorogata nuovamente fino al 1° feb. 2026 dalla risoluzione n. 480 del 28 set. 2023 ([RU 2024 21](https://fedlex.data.admin.ch/eli/oc/2024/21); [2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
 
 #### Art. 49
 
@@ -702,9 +702,9 @@ decide di:
 - g) provvedere alla registrazione dell’Accordo presso il Segretariato dell’Organizzazione delle Nazioni Unite;
 - h) in caso di divergenza fra uno Stato e il depositario a proposito dell’espletamento delle funzioni di quest’ultimo, sottoporre la questione all’attenzione degli Stati firmatari e delle Parti contraenti o, se del caso, del Consiglio internazionale del caffè.
 
-[^annexu1-lvlu2-1]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^annexu1-lvlu2-1]: [RS 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
 
-Campo d’applicazione il 17 maggio 2022**[^t-2]**
+Campo d’applicazione il 17 maggio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -756,7 +756,7 @@ Campo d’applicazione il 17 maggio 2022**[^t-2]**
 <tr><td>Yemen</td><td>14 luglio</td><td>2010</td><td>2 febbraio</td><td>2011</td></tr>
 <tr><td>Zambia</td><td>3 agosto</td><td>2011</td><td>3 agosto</td><td>2011</td></tr>
 <tr><td>Zimbabwe</td><td>24 maggio</td><td>2012</td><td>24 maggio</td><td>2012</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione internazionale del Caffè: www.ico.org &gt; Français &gt; À notre sujet &gt; Accord de 2007, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Applicazione provvisoria dell’Acc. dal 6 nov. 2009.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione internazionale del Caffè: [www.ico.org](http://www.ico.org) &gt; Français &gt; À notre sujet &gt; Accord de 2007, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Applicazione provvisoria dell’Acc. dal 6 nov. 2009.</td></tr>
 </table>
 
 [^t-2]: [RU 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608); [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592); [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516); [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405); [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458); [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971); [2022 309](https://fedlex.data.admin.ch/eli/oc/2022/309). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
