@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla guida automatizzata (OGA) e ordinanza sugli aiuti finanziari per promuovere soluzioni innovative per la circolazione su strade pubbliche (OAFC)
 document: Progetto posto in consultazione-2
 language: it

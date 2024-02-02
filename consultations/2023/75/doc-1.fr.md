@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la conduite automatisée (OCA) et ordonnance concernant les aides financières destinées à promouvoir des solutions innovantes pour la circulation sur la voie publique (OAFC)
 document: Projet mis en consultation
 language: fr

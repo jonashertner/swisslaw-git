@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über das automatisierte Fahren (AFV) und Verordnung über die Finanzhilfen zur Förderung neuartiger Lösungen für den Verkehr auf öffentlichen Strassen (ÖStFV)
 document: Vernehmlassungsvorlage
 language: de
