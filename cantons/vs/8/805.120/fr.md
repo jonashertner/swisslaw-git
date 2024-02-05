@@ -4,12 +4,12 @@ number: "805.120"
 title: Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les structures de soins de jour ou de nuit
 language: fr
 version: 2024-01-01
-valid_until: 2024-04-30
+corrected: 2024-02-06
 version_adopted: 2024-01-31
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.120"
-pdf: "https://lex.vs.ch/api/fr/versions/3289/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3270/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -49,18 +49,18 @@ arrête:
 
 <sup>1</sup> Pour les structures de soins de jour ou de nuit, les coûts facturables pour les prestations de soins s’élèvent, par jour, à:
 
-- a) jusqu’à 20 minutes de soins requis: — Fr. 16,50
-- b) de 21 à 40 minutes de soins requis: — Fr. 31,50
-- c) de 41 à 60 minutes de soins requis: — Fr. 50,00
-- d) de 61 à 80 minutes de soins requis: — Fr. 69,50
-- e) de 81 à 100 minutes de soins requis: — Fr. 91,50
-- f) de 101 à 120 minutes de soins requis: — Fr. 108,00
-- g) de 121 à 140 minutes de soins requis: — Fr. 128,50
-- h) de 141 à 160 minutes de soins requis: — Fr. 148,50
-- i) de 161 à 180 minutes de soins requis: — Fr. 170,00
-- j) de 181 à 200 minutes de soins requis: — Fr. 190,50
-- k) de 201 à 220 minutes de soins requis: — Fr. 209,00
-- l) plus de 220 minutes de soins requis: — Fr. 243,00
+- a) jusqu’à 20 minutes de soins requis: — Fr. 16,00
+- b) de 21 à 40 minutes de soins requis: — Fr. 31,00
+- c) de 41 à 60 minutes de soins requis: — Fr. 49,50
+- d) de 61 à 80 minutes de soins requis: — Fr. 68,50
+- e) de 81 à 100 minutes de soins requis: — Fr. 90,00
+- f) de 101 à 120 minutes de soins requis: — Fr. 106,50
+- g) de 121 à 140 minutes de soins requis: — Fr. 126,50
+- h) de 141 à 160 minutes de soins requis: — Fr. 146,00
+- i) de 161 à 180 minutes de soins requis: — Fr. 167,50
+- j) de 181 à 200 minutes de soins requis: — Fr. 187,50
+- k) de 201 à 220 minutes de soins requis: — Fr. 205,50
+- l) plus de 220 minutes de soins requis: — Fr. 239,00
 
 #### Art. 3
 
@@ -68,18 +68,18 @@ arrête:
 
 <sup>1</sup> Pour les structures de soins de jour ou de nuit, les contributions résiduelles des pouvoirs publics aux coûts de soins s’élèvent, par jour, à:
 
-- a) jusqu’à 20 minutes de soins requis: — Fr. 6,90
-- b) de 21 à 40 minutes de soins requis: — Fr. 12,30
-- c) de 41 à 60 minutes de soins requis: — Fr. 21,20
-- d) de 61 à 80 minutes de soins requis: — Fr. 31,10
-- e) de 81 à 100 minutes de soins requis: — Fr. 43,50
-- f) de 101 à 120 minutes de soins requis: — Fr. 50,40
-- g) de 121 à 140 minutes de soins requis: — Fr. 61,30
-- h) de 141 à 160 minutes de soins requis: — Fr. 71,70
-- i) de 161 à 180 minutes de soins requis: — Fr. 83,60
-- j) de 181 à 200 minutes de soins requis: — Fr. 94,50
-- k) de 201 à 220 minutes de soins requis: — Fr. 103,40
-- l) plus de 220 minutes de soins requis: — Fr. 127,80
+- a) jusqu’à 20 minutes de soins requis: — Fr. 6,40
+- b) de 21 à 40 minutes de soins requis: — Fr. 11,80
+- c) de 41 à 60 minutes de soins requis: — Fr. 20,70
+- d) de 61 à 80 minutes de soins requis: — Fr. 30,10
+- e) de 81 à 100 minutes de soins requis: — Fr. 42,00
+- f) de 101 à 120 minutes de soins requis: — Fr. 48,90
+- g) de 121 à 140 minutes de soins requis: — Fr. 59,30
+- h) de 141 à 160 minutes de soins requis: — Fr. 69,20
+- i) de 161 à 180 minutes de soins requis: — Fr. 81,10
+- j) de 181 à 200 minutes de soins requis: — Fr. 91,50
+- k) de 201 à 220 minutes de soins requis: — Fr. 99,90
+- l) plus de 220 minutes de soins requis: — Fr. 123,80
 
 #### Art. 4
 
