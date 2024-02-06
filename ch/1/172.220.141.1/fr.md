@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 15 juin 2007 pour les personnes employées e
 short: RPEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: fr
-version: 2024-01-01
+version: 2024-02-07
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240207/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240207-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240101/fr"
 
 (RPEC)
 
-du 15 juin 2007 (État le 1<sup>er</sup> janvier 2024)
+du 15 juin 2007 (État le 7 février 2024)
 
 L’organe paritaire de la caisse de prévoyance de la Confédération (OPC),
 
@@ -1226,7 +1226,7 @@ Les prestations d’invalidité sont calculées sur la base du taux de conversio
 
 <sup>6</sup> Le gain assuré et l’avoir de vieillesse accumulé au moment du décès sont déterminants pour le calcul des rentes de survivants selon l’art. 46, al. 1, let. a, et l’art. 48, al. 1, let. a.
 
-[^57-1]: Nouvelle expression selon le ch. I al. 2 de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Il n’a été tenu compte de cette mod. que dans les disp.mentionnées dans le RO.
+[^57-1]: Nouvelle expression selon le ch. I al. 2 de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Erratum du 7 fév. 2024 ([RO 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Il n’a été tenu compte de cette mod. que dans les disp.mentionnées dans le RO.
 [^57-2]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^57-3]: Nouvelle teneur de la phrase selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^57-4]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
@@ -1866,7 +1866,7 @@ Les dispositions pertinentes du CC, du CPC, de la LPP, de la LFLP et leurs dispo
 
 <sup>2</sup> La réduction des rentes de vieillesse suite à la perception d’une rente transitoire soumise à l’ancien droit est régie par l’ancien droit (annexe 6).
 
-<sup>3</sup> Les rentes octroyées en cas de résiliation administrative des rapports de service au sens de l’art. 32 des statuts de la CFA et de l’art. 43 des statuts de la CFP sont converties, à l’âge de référence, en rentes de vieillesse de même montant.
+<sup>3</sup> Les rentes octroyées en cas de résiliation administrative des rapports de service au sens de l’art. 32 des statuts de la CFA et de l’art. 43 des statuts de la CFP sont converties, à l’âge ordinaire de l’AVS, en rentes de vieillesse de même montant.
 
 <sup>4</sup>
 
@@ -1881,7 +1881,7 @@ Pour les rentes ayant pris naissance sous l’ancien droit qui ont été transf�
   au calcul de surindemnisation (art. 77):
 
   - 1\. au décès de la personne bénéficiaire d’une rente,
-  - 2\. lorsque la personne bénéficiaire d’une rente atteint l’âge de référence, ou
+  - 2\. lorsque la personne bénéficiaire d’une rente atteint l’âge ordinaire de l’AVS, ou
   - 3\. lors d’un nouveau calcul du droit aux prestations de l’AM, de l’AA ou d’une autre assurance sociale.
 
 [^103-1]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
@@ -1894,15 +1894,15 @@ Pour les rentes ayant pris naissance sous l’ancien droit qui ont été transf�
 
 Le droit au supplément fixe et à la rente transitoire ayant pris naissance sous l’ancien droit s’éteint:
 
-- a. au décès de la personne bénéficiaire d’une rente, mais au plus tard lorsque celle-ci atteint l’âge de référence;
-- b. lorsque le conjoint ou la conjointe d’une personne bénéficiaire d’une rente décède, mais au plus tard lorsqu’il ou elle atteint l’âge de référence, ou en cas de divorce, pour autant que la personne bénéficiaire d’une rente perçoive un supplément au sens de l’art. 29, al. 1, let. b, ch. 3, des statuts de la CFA ou de l’art. 40, al. 1, let. b, ch. 3, des statuts de la CFP, ou
+- a. au décès de la personne bénéficiaire d’une rente, mais au plus tard lorsque celle-ci atteint l’âge ordinaire de l’AVS;
+- b. lorsque le conjoint ou la conjointe d’une personne bénéficiaire d’une rente décède, mais au plus tard lorsqu’il ou elle atteint l’âge ordinaire de l’AVS, ou en cas de divorce, pour autant que la personne bénéficiaire d’une rente perçoive un supplément au sens de l’art. 29, al. 1, let. b, ch. 3, des statuts de la CFA ou de l’art. 40, al. 1, let. b, ch. 3, des statuts de la CFP, ou
 - c. lorsqu’un droit à une rente AI est octroyé pour la première fois, lorsque le droit à une rente AI est modifié, ou lorsque le service médical constate que le taux d’invalidité professionnelle a diminué ou augmenté, avec effet après l’entrée en vigueur du présent règlement.
 
 <sup>2</sup> Si le droit au supplément fixe s’éteint selon l’al. 1, let. c, la personne bénéficiaire d’une rente d’invalidité ayant pris naissance avant le 1<sup>er</sup> juin 2003 a droit à une rente de substitution AI, calculée selon le présent règlement, en fonction du taux d’invalidité professionnelle encore existant. Il en va de même lorsque la personne n’avait pas droit à un supplément fixe et que le droit à une rente AI est diminué pour la première fois, avec effet après l’entrée en vigueur du présent règlement.
 
 <sup>3</sup> En cas de diminution du taux d’invalidité professionnelle suite à une décision de l’AI ou du service médical avec effet après l’entrée en vigueur du présent règlement, le montant de la rente de substitution AI ayant pris naissance sous l’ancien droit est réduit proportionnellement à la diminution du taux d’invalidité professionnelle.
 
-<sup>4</sup> Le droit à la rente de substitution AI ayant pris naissance sous l’ancien droit s’éteint au décès de la personne bénéficiaire d’une rente, mais au plus tard lorsque celle-ci atteint l’âge de référence.
+<sup>4</sup> Le droit à la rente de substitution AI ayant pris naissance sous l’ancien droit s’éteint au décès de la personne bénéficiaire d’une rente, mais au plus tard lorsque celle-ci atteint l’âge ordinaire de l’AVS.
 
 [^104-1]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
@@ -1972,20 +1972,19 @@ Si la réinsertion d’une personne bénéficiaire d’une rente d’invalidité
 
 **Dispositions transitoires relatives à la modification du 21 juin 2011**[^108b-1]
 
-<sup>1</sup> La réduction à vie dès l’âge de référence[^108b-2], consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de la modification du 21 juin 2011 est régie par analogie par l’art. 103, al. 2.
+<sup>1</sup> La réduction à vie dès l’âge AVS, consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de la modification du 21 juin 2011 est régie par analogie par l’art. 103, al. 2.
 
-<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 21 juin 2011, en cas de décès avant l’âge de référence de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 103, al. 4, let. b.
+<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 21 juin 2011, en cas de décès avant l’âge AVS de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 103, al. 4, let. b.
 
 [^108b-1]: Introduit par le ch. I de la D de l’OPC du 21 juin 2011, approuvée par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^108b-2]: Nouvelle expression selon le ch. I al. 3 de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Il n’a été tenu compte de cette mod. que dans les disp.mentionnées dans le RO.
 
 #### Art. 108c
 
 **Dispositions transitoires relatives à la modification du 15 octobre 2013**[^108c-1]
 
-<sup>1</sup> La réduction à vie dès l’âge de référence, consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de la modification du 15 octobre 2013 est régie par analogie par l’art. 103, al. 2.
+<sup>1</sup> La réduction à vie dès l’âge AVS, consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de la modification du 15 octobre 2013 est régie par analogie par l’art. 103, al. 2.
 
-<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 15 octobre 2013, en cas de décès avant l’âge de référence de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 103, al. 4, let. b.
+<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 15 octobre 2013, en cas de décès avant l’âge AVS de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 103, al. 4, let. b.
 
 [^108c-1]: Introduit par le ch. I de la D de l’OPC du 15 oct. 2013, approuvée par le CF le 20 août 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2947](https://fedlex.data.admin.ch/eli/oc/2014/501)).
 
@@ -2227,16 +2226,16 @@ Annexe 4 Rente transitoire
 
 Annexe 5 Rente transitoire
 
-- I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieillesse
+- I. Réduction de la rente mensuelle de vieillesse résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence
 - II. Réduction des rentes de survivants
 
 Annexe 6 Rente transitoire
 
-I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012
+I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012
 
-II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014
+II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014
 
-- III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018
+III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018
 
 Annexe 6*a* Plans de prévoyance destinés aux personnes appartenant à des catégories particulières de personnel
 
@@ -2577,13 +2576,13 @@ Calcul/réduction de la rente de viduité ou de partenaire:
 
 Annexe 6[^t-6]
 
-(art. 103, al. 2, 108*b*, al. 1, 108*c*, al. 1, et 108i, al. 1)
+(art. 103, al. 2, 108*b*, al. 1, 108*c*, al. 1, et 108*i*, al. 1)
 
 ## Rente transitoire
 
 [^t-6]: Nouvelle teneur selon le ch. II de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
-### I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012 (art. 108*b*, al. 1)
+### I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012 (art. 108*b*, al. 1)
 
 Tableau 1: âge AVS 65
 
@@ -2648,7 +2647,7 @@ Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = rédu
 - a. âge AVS 65: 368,20 × 0,5 × 2,21 = **406,85 francs**
 - b. âge AVS 64: 280,30 × 0,5 × 2,21 = **309,75 francs**
 
-### II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014 (art. 108*c*, al. 1)
+### II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014 (art. 108*c*, al. 1)
 
 Tableau 1: âge AVS 65
 
@@ -2713,7 +2712,7 @@ Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = rédu
 - a. âge AVS 65: 338,25 × 0,5 × 2,32 = **392,35 francs**
 - b. âge AVS 64: 271,95 × 0,5 × 2,32 = **315,45 francs**
 
-### III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018 (art. 108*i*, al. 1)
+### III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018 (art. 108*i*, al. 1)
 
 Tableau 1: âge AVS 65
 

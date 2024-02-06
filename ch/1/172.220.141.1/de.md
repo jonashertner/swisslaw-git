@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 15. Juni 2007 für die Angestellten und die Rentenb
 short: VRAB
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: de
-version: 2024-01-01
+version: 2024-02-07
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240207/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240207-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240101/de"
 
 (VRAB)
 
-vom 15. Juni 2007 (Stand am 1. Januar 2024)
+vom 15. Juni 2007 (Stand am 7. Februar 2024)
 
 Das paritätische Organ des Vorsorgewerks Bund (POB),
 
@@ -1219,7 +1219,7 @@ Die Invalidenleistungen werden nach dem für das Referenzalter[^57-1] geltenden 
 
 <sup>6</sup> Für die Berechnung der Hinterlassenenrenten nach den Artikeln 46 Absatz 1 Buchstabe a und Artikel 48 Absatz 1 Buchstabe a sind der versicherte Verdienst und das Altersguthaben im Zeitpunkt des Todes massgebend.
 
-[^57-1]: Ausdruck gemäss Ziff. I Abs. 2 des Beschlusses des POB vom 7. Aug. und 27. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^57-1]: Ausdruck gemäss Ziff. I Abs. 2 des Beschlusses des POB vom 7. Aug. und 27. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Berichtigung vom 7. Febr. 2024 ([AS 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^57-2]: Fassung gemäss Ziff. I des Beschlusses des POB vom 6. Sept. 2016, vom BR genehmigt am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ([AS 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^57-3]: Fassung des letzten Satzes gemäss Beschluss des POB vom 8. Sept. 2010, vom BR genehmigt am 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([BBl 2010 9039](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^57-4]: Fassung gemäss Ziff. I des Beschlusses des POB vom 26. Juni 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ([AS 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
@@ -1278,7 +1278,7 @@ Die versicherte Person teilt PUBLICA spätestens drei Monate vor dem Bezug der �
 [^60-4]: Fassung gemäss Ziff. I des Beschlusses des POB vom 7. Aug. und 27. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^60-5]: Fassung gemäss Beschluss des POB vom 5. Nov. 2008, vom BR genehmigt am 14. Jan. 2009, in Kraft seit 1. Febr. 2009 ([BBl 2009 2721](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 [^60-6]: Eingefügt durch Ziff. I des Beschlusses des POB vom 26. Juni 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ([AS 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^60-7]: Ausdruck gemäss Ziff. I Abs. 3 des Beschlusses des POB vom 7. Aug. und 27. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^60-7]: Ausdruck gemäss Ziff. I Abs. 3 des Beschlusses des POB vom 7. Aug. und 27. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Berichtigung vom 7. Febr. 2024 ([AS 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^60-8]: Fassung gemäss Beschluss des POB vom 5. Nov. 2008, vom BR genehmigt am 14. Jan. 2009, in Kraft seit 1. Febr. 2009 ([BBl 2009 2721](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 [^60-9]: Fassung gemäss Beschluss des POB vom 5. Nov. 2008, vom BR genehmigt am 14. Jan. 2009, in Kraft seit 1. Febr. 2009 ([BBl 2009 2721](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
@@ -1847,7 +1847,7 @@ Für den Vorsorgeausgleich bei Scheidung gelten die entsprechenden Bestimmungen 
 
 <sup>2</sup> Die Kürzung der Altersrenten infolge Bezugs einer nach bisherigem Recht ausgerichteten Überbrückungsrente richtet sich nach bisherigem Recht (Anhang 6).
 
-<sup>3</sup> Die infolge administrativer Auflösung des Dienstverhältnisses im Sinne von Artikel 32 der EVK-Statuten und Artikel 43 der PKB-Statuten zugesprochenen Renten werden bei Erreichen des Referenzalters in Altersrenten gleicher Höhe umgewandelt.
+<sup>3</sup> Die infolge administrativer Auflösung des Dienstverhältnisses im Sinne von Artikel 32 der EVK-Statuten und Artikel 43 der PKB-Statuten zugesprochenen Renten werden bei Erreichen des ordentlichen AHV-Alters in Altersrenten gleicher Höhe umgewandelt.
 
 <sup>4</sup>
 
@@ -1862,7 +1862,7 @@ Für unter bisherigem Recht entstandene Renten, die nach Absatz 1 überführt wo
   die Überentschädigungsberechnung (Art. 77):
 
   - 1\. beim Tod der rentenbeziehenden Person,
-  - 2\. wenn die rentenbeziehende Person das Referenzalter erreicht, oder
+  - 2\. wenn die rentenbeziehende Person das ordentliche AHV-Alter erreicht, oder
   - 3\. bei der Neuberechnung des Leistungsanspruchs durch die MV, UV oder eine andere Sozialversicherung.
 
 [^103-1]: Fassung gemäss Beschluss des POB vom 5. Nov. 2008, vom BR genehmigt am 14. Jan. 2009, in Kraft seit 1. Febr. 2009 ([BBl 2009 2721](https://fedlex.data.admin.ch/eli/fga/2009/530)).
@@ -1875,15 +1875,15 @@ Für unter bisherigem Recht entstandene Renten, die nach Absatz 1 überführt wo
 
 Der unter bisherigem Recht entstandene Anspruch auf den festen Zuschlag und die Überbrückungsrente erlischt, wenn:
 
-- a. die rentenbeziehende Person stirbt, spätestens aber wenn sie das Referenzalter erreicht;
-- b. der Ehegatte oder die Ehegattin einer rentenbeziehenden Person stirbt, spätestens aber wenn er oder sie das Referenzalter erreicht, oder bei Scheidung der Ehe, sofern die rentenbeziehende Person einen Zuschlag gemäss Artikel 29 Absatz 1 Buchstabe b Ziffer 3 der EVK-Statuten oder gemäss Artikel 40 Absatz 1 Buchstabe b Ziffer 3 der PKB-Statuten bezieht; oder
+- a. die rentenbeziehende Person stirbt, spätestens aber wenn sie das ordentliche AHV-Alter erreicht;
+- b. der Ehegatte oder die Ehegattin einer rentenbeziehenden Person stirbt, spätestens aber wenn er oder sie das ordentliche AHV-Alter erreicht, oder bei Scheidung der Ehe, sofern die rentenbeziehende Person einen Zuschlag gemäss Artikel 29 Absatz 1 Buchstabe b Ziffer 3 der EVK-Statuten oder gemäss Artikel 40 Absatz 1 Buchstabe b Ziffer 3 der PKB-Statuten bezieht; oder
 - c. mit Wirkung nach dem Inkrafttreten dieses Reglements eine IV-Rente erstmals zugesprochen, der Anspruch auf eine IV-Rente geändert oder der Berufsinvaliditätsgrad aufgrund der Feststellungen des ärztlichen Dienstes herabgesetzt oder erhöht wird.
 
 <sup>2</sup> Erlischt gemäss Absatz 1 Buchstabe c der Anspruch auf den festen Zuschlag, so hat die Person, die eine vor dem 1. Juni 2003 entstandene Invalidenrente bezieht, entsprechend dem noch bestehenden Berufsinvaliditätsgrad Anspruch auf eine IV‑Ersatzrente nach diesem Reglement. Dasselbe gilt, wenn die Person keinen Anspruch auf einen festen Zuschlag hatte und der Anspruch auf eine IV-Rente erstmals und mit Wirkung nach dem Inkrafttreten dieses Reglements herabgesetzt wird.
 
 <sup>3</sup> Wird der Berufsinvaliditätsgrad infolge eines Entscheids der IV oder des ärztlichen Dienstes mit Wirkung nach dem Inkrafttreten dieses Reglements herabgesetzt, so wird die Höhe der unter bisherigem Recht entstandenen IV-Ersatzrente entsprechend der Herabsetzung des Berufsinvaliditätsgrades gekürzt.
 
-<sup>4</sup> Der Anspruch auf die unter bisherigem Recht entstandene IV-Ersatzrente erlischt, wenn die rentenbeziehende Person stirbt, spätestens aber wenn sie das Referenzalter erreicht.
+<sup>4</sup> Der Anspruch auf die unter bisherigem Recht entstandene IV-Ersatzrente erlischt, wenn die rentenbeziehende Person stirbt, spätestens aber wenn sie das ordentliche AHV-Alter erreicht.
 
 [^104-1]: Fassung gemäss Beschluss des POB vom 5. Nov. 2008, vom BR genehmigt am 14. Jan. 2009, in Kraft seit 1. Febr. 2009 ([BBl 2009 2721](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
@@ -1951,9 +1951,9 @@ Wird eine Person, die eine vor dem 1. Juni 2003 entstandene Invalidenrente oder 
 
 **Übergangsbestimmung zur Änderung vom 21. Juni 2011**[^108b-1]
 
-<sup>1</sup> Die bei Erreichen des Referenzalters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2008 und dem Inkrafttreten der Änderung vom 21. Juni 2011 entstandenen Altersrenten infolge Bezugs einer Überbrückungsrente richtet sich sinngemäss nach Artikel 103 Absatz 2.
+<sup>1</sup> Die bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2008 und dem Inkrafttreten der Änderung vom 21. Juni 2011 entstandenen Altersrenten infolge Bezugs einer Überbrückungsrente richtet sich sinngemäss nach Artikel 103 Absatz 2.
 
-<sup>2</sup> Die Kürzung der nach dem Inkrafttreten der Änderung vom 21. Juni 2011 entstandenen Hinterlassenenrenten richtet sich sinngemäss nach Artikel 103 Absatz 4 Buchstabe b, sofern eine Person, die eine zwischen dem 1. Juli 2008 und dem Inkrafttreten dieser Änderung entstandene Altersrente bezieht, vor Erreichen des Referenzalters stirbt.
+<sup>2</sup> Die Kürzung der nach dem Inkrafttreten der Änderung vom 21. Juni 2011 entstandenen Hinterlassenenrenten richtet sich sinngemäss nach Artikel 103 Absatz 4 Buchstabe b, sofern eine Person, die eine zwischen dem 1. Juli 2008 und dem Inkrafttreten dieser Änderung entstandene Altersrente bezieht, vor Erreichen des AHV-Alters stirbt.
 
 [^108b-1]: Eingefügt durch Ziff. I des Beschlusses des POB vom 21. Juni 2011, vom BR genehmigt am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ([AS 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
 
@@ -1961,9 +1961,9 @@ Wird eine Person, die eine vor dem 1. Juni 2003 entstandene Invalidenrente oder 
 
 **Übergangsbestimmung zur Änderung vom 15. Oktober 2013**[^108c-1]
 
-<sup>1</sup> Die bei Erreichen des Referenzalters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2012 und dem Inkrafttreten der Änderung vom 15. Oktober 2013 entstandenen Altersrenten infolge Bezugs einer Überbrückungsrente richtet sich sinngemäss nach Artikel 103 Absatz 2.
+<sup>1</sup> Die bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2012 und dem Inkrafttreten der Änderung vom 15. Oktober 2013 entstandenen Altersrenten infolge Bezugs einer Überbrückungsrente richtet sich sinngemäss nach Artikel 103 Absatz 2.
 
-<sup>2</sup> Die Kürzung der nach dem Inkrafttreten der Änderung vom 15. Oktober 2013 entstandenen Hinterlassenenrenten richtet sich sinngemäss nach Artikel 103 Absatz 4 Buchstabe b, sofern eine Person, die eine zwischen dem 1. Juli 2012 und dem Inkrafttreten dieser Änderung entstandene Altersrente bezieht, vor Erreichen des Referenzalters stirbt.
+<sup>2</sup> Die Kürzung der nach dem Inkrafttreten der Änderung vom 15. Oktober 2013 entstandenen Hinterlassenenrenten richtet sich sinngemäss nach Artikel 103 Absatz 4 Buchstabe b, sofern eine Person, die eine zwischen dem 1. Juli 2012 und dem Inkrafttreten dieser Änderung entstandene Altersrente bezieht, vor Erreichen des AHV-Alters stirbt.
 
 [^108c-1]: Eingefügt durch Ziff. I des Beschlusses des POB vom 15. Okt. 2013, vom BR genehmigt am 20. Aug. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2947](https://fedlex.data.admin.ch/eli/oc/2014/501)).
 
@@ -2559,7 +2559,7 @@ Anhang 6[^t-6]
 
 [^t-6]: Fassung gemäss Ziff. II des Beschlusses des POB vom 15. Febr. 2018, vom BR genehmigt am 25. April 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
-### I. Bei Erreichen des Referenzalters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2008 und dem 30. Juni 2012 entstandenen monatlichen Altersrente wegen bezogener Überbrückungsrente (Art. 108*b* Abs. 1)
+### I. Bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2008 und dem 30. Juni 2012 entstandenen monatlichen Altersrente wegen bezogener Überbrückungsrente (Art. 108*b* Abs. 1)
 
 Tabelle 1: AHV-Alter 65
 
@@ -2624,7 +2624,7 @@ Betrag gemäss Tabelle 1 oder 2 × Anteil des Arbeitnehmers × (ÜR pro Monat/ 1
 - a. AHV-Alter 65: 368.20 × 0.5 × 2.21 = **Fr. 406.85**
 - b. AHV-Alter 64: 280.30 × 0.5 × 2.21 = **Fr. 309.75**
 
-### II. Bei Erreichen des Referenzalters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2012 und dem 31. Dezember 2014 entstandenen monatlichen Altersrente wegen bezogener Überbrückungsrente (Art. 108*c* Abs. 1)
+### II. Bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2012 und dem 31. Dezember 2014 entstandenen monatlichen Altersrente wegen bezogener Überbrückungsrente (Art. 108*c* Abs. 1)
 
 Tabelle 1: AHV-Alter 65
 
@@ -2689,7 +2689,7 @@ Betrag gemäss Tabelle 1 oder 2 × Anteil des Arbeitnehmers × (ÜR pro Monat/ 1
 - a. AHV-Alter 65: 338.25 × 0.5 × 2.32 = **Fr. 392.35**
 - b. AHV-Alter 64: 271.95 × 0.5 × 2.32 = **Fr. 315.45**
 
-### III. Bei Erreichen des Referenzalters beginnende lebenslängliche Kürzung der zwischen dem 1. Januar 2015 und dem 31. Dezember 2018 entstandenen monatlichen Altersrente wegen bezogener Überbrückungsrente (Art. 108*i* Abs. 1)
+### III. Bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Januar 2015 und dem 31. Dezember 2018 entstandenen monatlichen Altersrente wegen bezogener Überbrückungsrente (Art. 108*i* Abs. 1)
 
 Tabelle 1: AHV-Alter 65
 

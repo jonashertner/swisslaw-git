@@ -4,11 +4,11 @@ title: Regolamento di previdenza del 15 giugno 2007 per gli impiegati e i benefi
 short: RPIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: it
-version: 2024-01-01
+version: 2024-02-07
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240207/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240207-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240101/it"
 
 (RPIC)
 
-del 15 giugno 2007 (Stato 1° gennaio 2024)
+del 15 giugno 2007 (Stato 7 febbraio 2024)
 
 L’organo paritetico della Cassa di previdenza della Confederazione (OPC),
 
@@ -1216,7 +1216,7 @@ Le prestazioni di invalidità sono calcolate secondo il tasso di conversione app
 
 <sup>6</sup> Per il calcolo delle rendite per superstiti secondo gli articoli 46 capoverso 1 lettera a e 48 capoverso 1 lettera a sono determinanti il guadagno assicurato e l’avere di vecchiaia al momento del decesso.
 
-[^57-1]: Nuova espressione giusta il n. I cpv. 2 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^57-1]: Nuova espressione giusta il n. I cpv. 2 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Correzione del 7 feb. 2024 ([RU 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^57-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^57-3]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^57-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
@@ -1275,7 +1275,7 @@ La persona assicurata comunica a PUBLICA, al più tardi tre mesi prima della ris
 [^60-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^60-5]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 [^60-6]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^60-7]: Nuova espressione giusta il n. I cpv. 3 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^60-7]: Nuova espressione giusta il n. I cpv. 3 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Correzione del 7 feb. 2024 ([RU 2024 59](https://fedlex.data.admin.ch/eli/oc/2024/59)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^60-8]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 [^60-9]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
@@ -1843,7 +1843,7 @@ Le pertinenti disposizioni del CC, del CPC, della LPP, della LFLP e le relative 
 
 <sup>2</sup> La riduzione delle rendite di vecchiaia consecutive all’ottenimento di una rendita transitoria secondo il diritto previgente è retta dal diritto previgente (all. 6).
 
-<sup>3</sup> Le rendite assegnate in seguito a scioglimento amministrativo del rapporto di servizio ai sensi dell’articolo 32 degli Statuti della CFA e dell’articolo 43 degli Statuti della CPC sono convertite in rendite di vecchiaia di uguale entità al raggiungimento dell’età di riferimento[^103-2].
+<sup>3</sup> Le rendite assegnate in seguito a scioglimento amministrativo del rapporto di servizio ai sensi dell’articolo 32 degli Statuti della CFA e dell’articolo 43 degli Statuti della CPC sono convertite in rendite di vecchiaia di uguale entità al raggiungimento dell’età ordinaria AVS.
 
 <sup>4</sup>
 
@@ -1858,11 +1858,10 @@ Il presente regolamento si applica alle rendite fondate sul diritto previgente e
   il calcolo del sovraindennizzo (art. 77):
 
   - 1\. in caso di decesso del beneficiario della rendita,
-  - 2\. al raggiungimento dell’età di riferimento da parte del beneficiario della rendita, oppure
+  - 2\. al raggiungimento dell’età ordinaria AVS da parte del beneficiario della rendita, oppure
   - 3\. in caso di nuovo calcolo del diritto alle prestazioni da parte dell’assicurazione militare, dell’assicurazione contro gli infortuni o di un’altra assicurazione sociale.
 
 [^103-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^103-2]: Nuova espr. giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 104
 
@@ -1872,7 +1871,7 @@ Il presente regolamento si applica alle rendite fondate sul diritto previgente e
 
 Il diritto al supplemento fisso e alla rendita transitoria fondato sul diritto previgente si estingue:
 
-- a. quando il beneficiario della rendita decede, ma al più tardi quando raggiunge l’età di riferimento;
+- a. quando il beneficiario della rendita decede, ma al più tardi quando raggiunge l’età ordinaria AVS;
 - b. quando il coniuge del beneficiario della rendita decede, ma al più tardi quando raggiunge l’età di riferimento oppure in caso di divorzio, sempreché il beneficiario della rendita percepisca un supplemento ai sensi dell’articolo 29 capoverso 1 lettera b numero 3 degli Statuti della CFA o ai sensi dell’articolo 40 capoverso 1 lettera b numero 3 degli Statuti della CPC; oppure
 - c. quando, con effetto a contare dall’entrata in vigore del presente regolamento, è assegnata per la prima volta una rendita AI, il diritto a una rendita AI è modificato oppure il grado di invalidità professionale è aumentato o ridotto in base alle constatazioni del servizio medico.
 
@@ -1880,7 +1879,7 @@ Il diritto al supplemento fisso e alla rendita transitoria fondato sul diritto p
 
 <sup>3</sup> Se il grado di invalidità professionale è ridotto in seguito a una decisione dell’AI o del servizio medico, con effetto a contare dall’entrata in vigore del presente regolamento, l’entità della rendita AI di sostituzione fondata sul diritto previgente è ridotta in maniera corrispondente alla riduzione del grado di invalidità professionale.
 
-<sup>4</sup> Il diritto alla rendita AI di sostituzione fondato sul diritto previgente si estingue quando il beneficiario della rendita decede, ma al più tardi quando raggiunge l’età di riferimento.
+<sup>4</sup> Il diritto alla rendita AI di sostituzione fondato sul diritto previgente si estingue quando il beneficiario della rendita decede, ma al più tardi quando raggiunge l’età ordinaria AVS.
 
 [^104-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
@@ -1949,9 +1948,9 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 **Disposizioni transitorie relative alla modifica del 21 giugno 2011**[^108b-1]
 
-<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età di riferimento delle rendite di vecchiaia insorte tra il 1° luglio 2008 e l’entrata in vigore della modifica del 21 giugno 2011, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
+<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età AVS delle rendite di vecchiaia insorte tra il 1° luglio 2008 e l’entrata in vigore della modifica del 21 giugno 2011, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
 
-<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 21 giugno 2011 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2008 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età di riferimento.
+<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 21 giugno 2011 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2008 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età AVS.
 
 [^108b-1]: Introdotto dal n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
 
@@ -1959,9 +1958,9 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 **Disposizioni transitorie della modifica del 15 ottobre 2013**[^108c-1]
 
-<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età di riferimento delle rendite di vecchiaia insorte tra il 1° luglio 2012 e l’entrata in vigore della modifica del 15 ottobre 2013, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
+<sup>1</sup> La riduzione a vita a partire raggiungimento dell’età AVS delle rendite di vecchiaia insorte tra il 1° luglio 2012 e l’entrata in vigore della modifica del 15 ottobre 2013, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
 
-<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 ottobre 2013 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2012 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età di riferimento.
+<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 ottobre 2013 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2012 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età AVS.
 
 [^108c-1]: Introdotto dal n. I della Dec. dell’OPC del 15 ott. 2013, approvata dal CF il 20 ago. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2947](https://fedlex.data.admin.ch/eli/oc/2014/501)).
 
@@ -2098,9 +2097,9 @@ Se è nato un diritto alla rendita di invalidità o di invalidità professionale
 
 **Disposizioni transitorie della modifica del 15 febbraio 2018: riduzione delle rendite di vecchiaia e per superstiti dovuta all’ottenimento di una rendita transitoria**[^108i-1]
 
-<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età di riferimento delle rendite di vecchiaia insorte tra il 1° gennaio 2015 e il 31 dicembre 2018, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
+<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età AVS delle rendite di vecchiaia insorte tra il 1° gennaio 2015 e il 31 dicembre 2018, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
 
-<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 febbraio 2018 è retta per analogia dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 decede prima del raggiungimento dell’età di riferimento.
+<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 febbraio 2018 è retta per analogia dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 decede prima del raggiungimento dell’età AVS.
 
 [^108i-1]: Introdotto dal n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
@@ -2205,7 +2204,7 @@ II. Riscatto della riduzione della rendita mensile di vecchiaia in caso di riduz
 
 Allegato 5 Rendita transitoria
 
-I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
+I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età di riferimento in caso di ottenimento della rendita transitoria
 
 II. Riduzione della rendita per superstiti
 
@@ -2562,7 +2561,7 @@ Allegato 6[^t-6]
 
 [^t-6]: Nuovo testo giusta il n. II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
-### I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria (art. 108*b* cpv. 1)
+### I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 108*b* cpv. 1)
 
 Tabella 1: età AVS 65
 
@@ -2627,7 +2626,7 @@ Importo secondo le tabelle 1 o 2 × quota del lavoratore × (RT al mese/1000) = 
 - a. età AVS 65: 368.20 × 0.5 × 2.21 = **fr. 406.85**
 - b. età AVS 64: 280.30 × 0.5 × 2.21 = **fr. 309.75**
 
-### II. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2012 e il 31 dicembre 2014 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria (art. 108*c* cpv. 1)
+### II. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2012 e il 31 dicembre 2014 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 108*c* cpv. 1)
 
 Tabella 1: età AVS 65
 
@@ -2692,7 +2691,7 @@ Importo secondo le tabelle 1 o 2 × quota del lavoratore × (RT al mese/1000) = 
 - a. età AVS 65: 338.25 × 0.5 × 2.32 = **fr. 392.35**
 - b. età AVS 64: 271.95 × 0.5 × 2.32 = **fr. 315.45**
 
-### III. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria (art. 108*i* cpv. 1)
+### III. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 108*i* cpv. 1)
 
 Tabella 1: età AVS 65
 
