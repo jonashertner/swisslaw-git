@@ -3,11 +3,11 @@ sr: "0.741.619.621"
 title: Abkommen vom 3. April 2002 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Usbekistan über den grenzüberschreitenden Personen- und Güterverkehr auf der Strasse (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/48"
 language: de
-version: 2002-08-15
+version: 2024-02-08
 adopted: 2002-04-03
 in_force: 2002-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/48/20020815/de/xml/fedlex-data-admin-ch-eli-cc-2004-48-20020815-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/48/20020815/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/48/20240208/de/xml/fedlex-data-admin-ch-eli-cc-2004-48-20240208-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/48/20240208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,13 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/48/20020815/de"
 
 AS **2004** 619
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen am 3. April 2002 In Kraft getreten durch Notenaustausch am 15. August 2002
 
-(Stand am 27. Januar 2004)
-
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
+(Stand am 8. Februar 2024)
 
 Der Schweizerische Bundesrat und die Regierung der Republik Usbekistan
 
@@ -74,28 +72,21 @@ Gelegentliche Personenbeförderungen, die unter den nachfolgenden Voraussetzunge
 
 #### Art. 4
 
-**Güterbeförderungen**
+**Güterbeförderungen**[^4-1]
 
-Unter der Voraussetzung einer Bewilligung ist jeder Unternehmer einer Vertragspartei berechtigt, vorübergehend ein leeres oder beladenes Fahrzeug in das Staatsgebiet der anderen Vertragspartei einzuführen, um Güter zu befördern:
+Jeder Unternehmer einer Vertragspartei ist berechtigt, ohne eine Genehmigung vorübergehend ein leeres oder beladenes Fahrzeug in das Staatsgebiet der anderen Vertragspartei einzuführen, um Güter zu befördern:
 
 - a. zwischen einem Ort im Staatsgebiet der einen Vertragspartei und einem Ort im Staatsgebiet der anderen Vertragspartei; oder
 - b. vom Staatsgebiet der anderen Vertragspartei in einen Drittstaat oder von einem Drittstaat ins Staatsgebiet der anderen Vertragspartei; oder
 - c. im Transit durch das Staatsgebiet der anderen Vertragspartei.
 
+[^4-1]: Fassung gemäss Art. 1 des Prot. vom 23. Juni 2023, in Kraft seit 8. Febr. 2024 ([AS 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)).
+
 #### Art. 5
 
-**Ausnahmen von der Genehmigungspflicht**
+[^5-1]
 
-Von der Genehmigung befreit sind:
-
-- a. Güterbeförderungen mit Kraftfahrzeugen, deren Nutzlast 3,5 Tonnen nicht übersteigt;
-- b. die Beförderung von Umzugsmobiliar mit Fahrzeugen, die besonders hierfür eingerichtet sind;
-- c. die Beförderung von Material, Zubehör und Tieren zu oder von Theater‑, Musik‑, Film‑, Sport‑, Zirkus‑, Messe- oder Jahrmarktsverantstaltungen sowie die Beförderung von Materialien für Radiosendungen, Film- oder Fernsehaufnahmen, die vorübergehend eingeführt werden;
-- d. die Beförderung von beschädigten Fahrzeugen, die Leerfahrten eines Fahrzeuges, das für die Güterbeförderung eingerichtet ist, als Ersatzfahrzeug für ein auf dem Gebiet der anderen Vertragspartei in Panne geratenes Fahrzeug sowie die Fortsetzung der Beförderung mit dem Ersatzfahrzeug; für diese Beförderungen werden Beweise benötigt, welche die Durchführung der Beförderung rechtfertigen;
-- e. die Beförderung von Leichen;
-- f. die erste Beförderung eines Fahrzeuges, das im Staatsgebiet der einen Vertragspartei erworben wurde;
-- g. die Beförderung von Postsendungen;
-- h. die Beförderung von notwendigen Gütern für die humanitäre Hilfe.
+[^5-1]: Aufgehoben durch Art. 2 des Prot. vom 23. Juni 2023, mit Wirkung seit 8. Febr. 2024 ([AS 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)).
 
 #### Art. 6
 
@@ -179,3 +170,7 @@ Dem Wunsch des Fürstentums Liechtenstein entsprechend, erstreckt sich das Abkom
 <sup>2</sup> Das Abkommen gilt für eine unbestimmte Dauer; es kann von jeder Vertragspartei auf diplomatischem Weg unter Einhaltung einer Kündigungsfrist von sechs Monaten, ab dem Datum, wenn die andere Vertragspartei die Mitteilung erhalten hat, schriftlich gekündigt werden.
 
 *Zu Urkund dessen* haben die von ihren Regierungen gehörig Bevollmächtigten dieses Abkommen unterzeichnet. Geschehen zu Taschkent, am 3. April 2002, in zwei Originalen in französischer und usbekischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Für den Schweizerischen Bundesrat: Für die Regierung der Republik Usbekistan: Wilhelm Meier Abdulaziz Kamilov
+
+Protokoll[^t-1]
+
+[^t-1]: Bereinigt gemäss Art. 3 des Prot. vom 23. Juni 2023, in Kraft seit 8. Febr. 2024 ([AS 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)). Dieses Protokoll wird in der AS nicht veröffentlicht.

@@ -3,11 +3,11 @@ sr: "0.741.619.621"
 title: "Accord du 3 avril 2002 entre le Conseil fédéral suisse et le Gouvernement de la République d'Ouzbékistan relatif aux transports internationaux par route de personnes et de marchandises (avec prot.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/48"
 language: fr
-version: 2002-08-15
+version: 2024-02-08
 adopted: 2002-04-03
 in_force: 2002-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/48/20020815/fr/xml/fedlex-data-admin-ch-eli-cc-2004-48-20020815-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/48/20020815/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/48/20240208/fr/xml/fedlex-data-admin-ch-eli-cc-2004-48-20240208-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/48/20240208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu le 3 avril 2002 Entré en vigueur par échange de notes le 15 août 2002
 
-(Etat le 27 janvier 2004)
+(État le 8 février 2024)
 
 Le Conseil fédéral suisse et le Gouvernement de la République d’Ouzbékistan,
 
@@ -72,28 +72,21 @@ Les transports occasionnels de personnes remplissant les conditions suivantes so
 
 #### Art. 4
 
-**Transports de marchandises**
+**Transports de marchandises**[^4-1]
 
-Tout transporteur d’une Partie contractante a le droit, moyennant autorisation délivrée par les autorités compétentes des Parties contractantes, d’importer temporairement un véhicule vide ou chargé sur le territoire de l’autre Partie contractante afin de transporter des marchandises:
+Tout transporteur d’une Partie contractante a le droit, sans autorisation, d’importer temporairement un véhicule vide ou chargé sur le territoire de l’État de l’autre Partie contractante afin de transporter des marchandises:
 
-- a. entre un endroit du territoire d’une Partie contractante et un endroit du territoire de l’autre Partie contractante; ou
-- b. au départ du territoire de l’autre Partie contractante vers un pays tiers ou en provenance d’un pays tiers vers le territoire de l’autre Partie contractante, une autorisation spéciale étant dans ce cas délivrée; ou
-- c. en transit par le territoire de l’autre Partie contractante.
+- a. entre un endroit du territoire de l’État d’une Partie contractante et un endroit du territoire de l’État de l’autre Partie contractante, ou
+- b. au départ du territoire de l’État de l’autre Partie contractante vers un pays tiers ou en provenance d’un pays tiers vers le territoire de l’État de l’autre Partie contractante, ou
+- c. en transit par le territoire de l’État de l’autre Partie contractante.
+
+[^4-1]: Nouvelle teneur selon l’art. 1 du Prot. du 23 juin 2023, en vigueur depuis le 8 fév. 2024 ([RO 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)).
 
 #### Art. 5
 
-**Exceptions au régime de l’autorisation**
+[^5-1]
 
-Sont exempts d’autorisations:
-
-- a. les transports de marchandises par véhicules automobiles dont la charge utile ne dépasse pas 3,5 tonnes;
-- b. les transports de mobilier de déménagement effectués à l’aide de véhicules spécialement aménagés à cet effet;
-- c. les transports de matériel, d’accessoires et d’animaux à destination ou en provenance de manifestations théâtrales, musicales, cinématographiques, sportives, de cirques, de foires ou de kermesse, ainsi que ceux destinés aux enregistrements radiophoniques, aux prises de vues cinématographiques ou à la télévision et importés à titre temporaire;
-- d. le transport de véhicules endommagés, le déplacement à vide d’un véhicule affecté au transport de marchandises et destiné à remplacer un véhicule tombé hors d’usage sur le territoire de l’autre Partie contractante ainsi que la poursuite du transport par le véhicule de remplacement. Ces transports devront être munis de preuves justifiant l’exécution du transport;
-- e. les transports funéraires;
-- f. le premier transport d’un véhicule acquis dans le territoire de l’une des Parties contractantes;
-- g. les transports postaux;
-- h. les transports d’articles nécessaires pour l’aide humanitaire.
+[^5-1]: Abrogé par l’art. 2 du Prot. du 23 juin 2023, avec effet au 8 fév. 2024 ([RO 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)).
 
 #### Art. 6
 
@@ -177,3 +170,7 @@ Conformément au désir du Gouvernement de la Principauté de Liechtenstein, le 
 <sup>2</sup> L’accord sera valable pour une durée indéterminée; il pourra être dénoncé par chaque Partie contractante, par la voie diplomatique, avec un préavis écrit de 6 mois à compter de la réception de la communication de l’autre Partie contractante.
 
 *En foi de quoi*, les soussignés, dûment autorisés par leurs Gouvernements respectifs, ont signé le présent Accord. Fait à Tachkent, le 3 avril 2002, en deux originaux en langues française et ouzbèque, les deux textes faisant également foi. Pour le Conseil fédéral suisse: Pour le Gouvernement de la République d’Ouzbékistan: Wilhelm Meier Abdulaziz Kamilov
+
+Protocole[^t-1]
+
+[^t-1]: Mise à jour par l’art. 3 du Prot. du 23 juin 2023, en vigueur depuis le 8 fév. 2024 ([RO 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)). Ce protocole n’est pas publié au RO.

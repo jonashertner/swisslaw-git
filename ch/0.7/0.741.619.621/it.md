@@ -3,11 +3,11 @@ sr: "0.741.619.621"
 title: Accordo del 3 aprile 2002 tra il Consiglio federale svizzero e il Governo della Repubblica di Uzbekistan relativo ai trasporti internazionali su strada di persone e merci (con prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/48"
 language: it
-version: 2002-08-15
+version: 2024-02-08
 adopted: 2002-04-03
 in_force: 2002-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/48/20020815/it/xml/fedlex-data-admin-ch-eli-cc-2004-48-20020815-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/48/20020815/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/48/20240208/it/xml/fedlex-data-admin-ch-eli-cc-2004-48-20240208-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/48/20240208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,13 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/48/20020815/it"
 
 RU **2004** 619
 
-Traduzione*[^t-1]*
+Traduzione
 
 Concluso il 3 aprile 2002 Entrato in vigore mediante scambio di note il 15 agosto 2002
 
-(Stato 27 gennaio 2004)
-
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+(Stato 8 febbraio 2024)
 
 Il Consiglio federale svizzero e il Governo della Repubblica di Uzbekistan
 
@@ -81,26 +79,19 @@ I trasporti occasionali di persone che adempiono le seguenti condizioni sono ese
 
 **Trasporti di merci**
 
-Ogni trasportatore di una Parte contraente in possesso di un’autorizzazione rilasciata dalle autorità competenti delle Parti contraenti è autorizzato a importare temporaneamente un veicolo vuoto o carico sul territorio dell’altra Parte contraente, per trasportare merci:
+Ogni trasportatore di una Parte contraente è autorizzato a importare temporaneamente senza autorizzazione un veicolo vuoto o carico sul territorio dello Stato dell’altra Parte contraente, per trasportare merci:
 
-- a) tra un luogo del territorio di una Parte contraente e un luogo del territorio dell’altra Parte contraente; o
-- b) dal territorio dell’altra Parte contraente verso uno Stato terzo o da uno Stato terzo verso il territorio dell’altra Parte contraente; in tal caso è rilasciata un’autorizzazione speciale; o
-- a) in transito attraverso il territorio dell’altra Parte contraente.
+- a. tra un luogo del territorio di una Parte contraente e un luogo del territorio dell’altra Parte contraente; o
+- b. dal territorio dell’altra Parte contraente verso uno Stato terzo o da uno Stato terzo verso il territorio dell’altra Parte contraente; o
+- c. in transito attraverso il territorio dell’altra Parte contraente.[^4-1]
+
+[^4-1]: Nuovo testo giusta l’art. 1 del Prot. del 23 giu. 2023, in vigore dall’8 feb. 2024 ([RU 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)).
 
 #### Art. 5
 
-**Eccezioni all’obbligo dell’autorizzazione**
+[^5-1]
 
-Sono esentati dall’obbligo dell’autorizzazione:
-
-- a) i trasporti di merci mediante veicoli automobili il cui carico utile non supera 3,5 tonnellate;
-- b) i trasporti di mobili in trasloco effettuati con veicoli speciali adibiti a tale scopo;
-- c) i trasporti di materiale, di accessori e di animali destinati a manifestazioni teatrali, musicali, cinematografiche, sportive, di circhi, di fiere o di sagre o in provenienza dagli stessi, nonché quelli destinati a registrazioni radiofoniche e riprese cinematografiche o televisive e importati a titolo temporaneo;
-- d) i trasporti di veicoli danneggiati, il viaggio a vuoto di un veicolo idoneo al trasporto di merci e destinato a sostituire un veicolo non più utilizzabile sul territorio dell’altra Parte contraente nonché il proseguimento del trasporto da parte del veicolo sostitutivo. Per questi trasporti devono essere esibite le prove che giustificano la loro esecuzione;
-- e) i trasporti funebri;
-- f) il primo trasporto di un veicolo acquistato nel territorio di una delle Parti contraenti;
-- g) i trasporti postali;
-- h) i trasporti di articoli necessari per l’aiuto umanitario.
+[^5-1]: Abrogato dall’art. 2 del Prot. del 23 giu. 2023, con effetto dall’8 feb. 2024 ([RU 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)).
 
 #### Art. 6
 
@@ -183,4 +174,6 @@ Conformemente al desiderio del Governo del Principato del Liechtenstein, il pres
 
 <sup>2</sup> L’Accordo è valido per una durata indeterminata; può essere denunciato da ogni Parte contraente, per via diplomatica, mediante notifica scritta; la denuncia avrà effetto sei mesi dopo la data in cui l’altra Parte contraente ne ha ricevuto notifica.
 
-*In fede di che,* i plenipotenziari debitamente autorizzati dai loro Governi, hanno firmato il presente Accordo. Fatto a Taškent, il 3 aprile 2002, in due esemplari originali, nelle lingue francese e uzbeca, i due testi facenti parimenti fede. Per il Consiglio federale svizzero: Per il Governo della Repubblica di Uzbekistan: Wilhelm Meier Abdulaziz Kamilov
+*In fede di che,* i plenipotenziari debitamente autorizzati dai loro Governi, hanno firmato il presente Accordo. Fatto a Taškent, il 3 aprile 2002, in due esemplari originali, nelle lingue francese e uzbeca, i due testi facenti parimenti fede. Per il Consiglio federale svizzero: Wilhelm Meier Per il Governo della Repubblica di Uzbekistan: Abdulaziz Kamilov **Protocollo**[^t-1]
+
+[^t-1]: Aggiornato dall’art. 3 del Prot. del 23 giu. 2023, in vigore dall’8 feb. 2024 ([RU 2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)). Non pubblicato nella RU ([RU 2004 619](https://fedlex.data.admin.ch/eli/oc/2004/48); [2024 83](https://fedlex.data.admin.ch/eli/oc/2024/83)).
