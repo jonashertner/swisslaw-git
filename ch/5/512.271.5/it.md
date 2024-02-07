@@ -4,20 +4,22 @@ title: "Ordinanza del DDPS del 21 novembre 2018 concernente l'Istituto di medici
 short: OIMeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/774"
 language: it
-version: 2019-01-01
+version: 2024-02-08
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/774/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-774-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/774/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/774/20240208/it/xml/fedlex-data-admin-ch-eli-cc-2018-774-20240208-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/774/20240208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DDPS concernente l’Istituto di medicina aeronautica
 
-(OIMA)
+(OIMeA)[^t-1]
 
-del 21 novembre 2018 (Stato 1° gennaio 2019)
+del 21 novembre 2018 (Stato 8 febbraio 2024)
+
+[^t-1]: Correzione dell’8 feb. 2024 ([RU 2024 61](https://fedlex.data.admin.ch/eli/oc/2024/61)).
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS), d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni,
 

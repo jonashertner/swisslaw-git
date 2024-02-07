@@ -4,20 +4,22 @@ title: Verordnung des VBS vom 21. November 2018 über das Fliegerärztliche Inst
 short: VFAI
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/774"
 language: de
-version: 2019-01-01
+version: 2024-02-08
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/774/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-774-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/774/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/774/20240208/de/xml/fedlex-data-admin-ch-eli-cc-2018-774-20240208-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/774/20240208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des VBS über das Fliegerärztliche Institut
 
-(VFAI)
+(VFAI)[^t-1]
 
-vom 21. November 2018 (Stand am 1. Januar 2019)
+vom 21. November 2018 (Stand am 8. Februar 2024)
+
+[^t-1]: Die Berichtigung vom 8. Febr. 2024 betrifft nur den italienischen Text ([AS 2024 61](https://fedlex.data.admin.ch/eli/oc/2024/61)).
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS), im Einvernehmen mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation,
 
