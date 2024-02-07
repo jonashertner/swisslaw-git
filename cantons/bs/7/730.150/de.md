@@ -3,13 +3,13 @@ canton: BS
 number: "730.150"
 title: Spezielle Bauvorschriften und Bebauungspläne
 language: de
-version: 2023-07-13
-valid_until: 2024-02-07
-version_adopted: 2023-05-11
+version: 2024-02-08
+valid_until: 2024-05-09
+version_adopted: 2023-12-06
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5991/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6135/pdf_file"
 text: pdf
 ---
 
@@ -645,13 +645,15 @@ Nr.
 
 238 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung des Bebauungsplans Nr. 109 sowie Änderung des Bebauungsplans Nr. 160 im Bereich Gartenstrasse, Nauenstrasse, Peter Merian-Strasse, Peter Merian-Brücke, Hochstrasse, Solothurnerstrasse, Meret Oppenheim-Strasse, Bahnhof Basel SBB (Areal Nauentor). Vom 17. März 2021
 
-**XI**
-
 **252**
 
 239 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereich Steinenvorstadt, Steinentorstrasse und Birsig-Parkplatz (Hochhaus Heuwaage). Vom 14. April 2021 255
 
-240 GRB betreffend Festsetzung eines Bebauungsplans, Zonenänderung, Änderung Lärmempfindlichkeitsstufe, Änderung Wohnanteilplan sowie Änderungen Bau- und Strassenlinien im Bereich St. Jakobs-Strasse, Güberbahnhof Wolf (Areal Wolf). Vom 15. März 2023 Riehen Gottesacker am Hörnli: Vorplatz
+**XI**
+
+240 GRB betreffend Festsetzung eines Bebauungsplans, Zonenänderung, Änderung Lärmempfindlichkeitsstufe, Änderung Wohnanteilplan sowie Änderungen Bau- und Strassenlinien im Bereich St. Jakobs-Strasse, Güberbahnhof Wolf (Areal Wolf). Vom 15. März 2023
+
+241 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung Lärmempfindlichkeitsstufenplan, Änderung Wohnanteilplan sowie neue Bau- und Strassenlinien und neue Baugrenzen im Bereich Innerer Egliseeweg, Riehenstrasse, Säckingerstrasse, Laufenburgerstrasse (Areal Zur Eiche). Vom 6. Dezember 2024 261 Riehen Gottesacker am Hörnli: Vorplatz
 
 GRB vom 23. Oktober 1930
 
@@ -6976,7 +6978,7 @@ Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am f
 
 RRB vom 11. Januar 2022
 
-Der Regierungsrat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999<sup>1)</sup> und ergänzend zum Grossratsbeschluss betreffend Festsetzung eines Bebauungsplans im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage vom 16. Mai 2018, beschliesst:
+Der Regierungsrat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>1)</sup> und ergänzend zum Grossratsbeschluss betreffend Festsetzung eines Bebauungsplans im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage vom 16. Mai 2018, beschliesst:
 
 I. Festsetzung eines Bebauungsplans
 
@@ -7716,6 +7718,48 @@ VI. Publikation
 Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hStJakobsStrasse-1]
 
 [^hStJakobsStrasse-1]: In Kraft seit 11. 5. 2023 (KB 6. 5. 2023).
+
+### Innerer Egliseeweg, Riehenstrasse, Säckingerstrasse, Laufenburgerstrasse (Areal zur Eiche)
+
+Vom 6. Dezember 2023
+
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>334)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 23.0506.01 vom 28. Juni 2023 und nach dem mündlichen Antrag der Bau- und Planungskommission vom 6. Dezember 2023, beschliesst:
+
+I. Zonenänderung
+
+Der Zonenänderungsplan Nr. 14'400 von Städtebau & Architektur vom 7. November 2022 wird verbindlich erklärt.
+
+II. Festsetzung eines Bebauungsplans
+
+- 1\. Der Bebauungsplan Nr. 14’397 von Städtebau & Architektur vom 07. November 2022 wird verbindlich erklärt.
+
+- 2\. Der Bebauungsplan beinhaltet folgende Vorschriften:
+
+- a. Bei guter städtebaulicher, architektonischer und freiraumplanerischer Gesamtwirkung und unter Beachtung des bestehenden Siedlungscharakters kann die Bewilligungsbehörde über den bestehenden Baukubus gemäss Stadt- und Dorfbild Schonzone hinausgehende bauliche Massnahmen zulassen.
+
+- b. Dabei sind Baukörper bis maximal 4 Vollgeschosse und ein Dachgeschoss, sowie Wand höhen bis 12 m und Gebäudehöhen bis 17 m zulässig. Die maximal zulässige bauliche Ausnutzung bestimmt sich nur aus der Ausnutzungsziffer und darf den Wert von 1.1 nicht überschreiten.
+
+- c. Zum Nachweis der guten Gesamtwirkung kann die zuständige Stelle ein qualitätssicherndes Varianzverfahren verlangen.
+
+- d. Die Zielwerte des SIA-Effizienzpfads Energie sind einzuhalten. Strengere kantonale Vorgaben gehen diesen Zielwerten vor.
+
+III. Änderung Lärmempfindlichkeitsstufenplan
+
+Der Plan Neue Lärmempfindlichkeitsstufen Nr. 14’404 von Städtebau & Architektur vom 7. November 2022 wird verbindlich erklärt.
+
+IV. Änderung Wohnanteilplan
+
+Der Plan Neuer Wohnanteil Nr. 14’402 von Städtebau & Architektur vom 7. November 2022 wird verbindlich erklärt.
+
+V. Bau- und Strassenlinien, Baugrenzen
+
+Der Linienplan Nr. 14’398 von Städtebau & Architektur vom 7. November 2022 wird verbindlich erklärt.
+
+VI. Publikation
+
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hInnererEgliseeweg-1]
+
+[^hInnererEgliseeweg-1]: In Kraft seit 8. 2. 2024 (KB 3. 2. 2024).
 
 ## Weitere Fussnoten
 
