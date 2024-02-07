@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: Verordnung des BLV vom 15. Oktober 2021 über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: de
-version: 2023-11-29
+version: 2024-02-08
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20231129/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20231129-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20231129/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20240208/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20240208-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20240208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union
 
-vom 15. Oktober 2021 (Stand am 29. November 2023)[^t-1]
+vom 15. Oktober 2021 (Stand am 8. Februar 2024)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des BLV vom 23. Jan. 2023, in Kraft seit 25. Jan. 2023 ([AS 2023 22](https://fedlex.data.admin.ch/eli/oc/2023/22)).
 
@@ -29,19 +29,34 @@ verordnet:
 
 #### Art. 1
 
-**Einfuhrverbot für lebendes Geflügel und Eintagsküken**
+**Einfuhrverbot für lebendes Geflügel und Eintagsküken**[^1-1]
 
-Die Einfuhr von lebendem Geflügel und Eintagsküken aus den im Anhang festgelegten Sperrzonen ist verboten.
+Die Einfuhr von lebendem Geflügel und Eintagsküken aus den im Anhang festgelegten Schutz- und Überwachungszonen und weiteren Sperrzonen (Sperrzonen) ist verboten.
+
+[^1-1]: Fassung gemäss Ziff. I der V des BLV vom 6. Febr. 2024, in Kraft seit 8. Febr. 2024 ([AS 2024 60](https://fedlex.data.admin.ch/eli/oc/2024/60)).
 
 #### Art. 2
 
-**Einfuhr von Geflügelfleisch**
+**Einfuhr von Geflügelfleisch**[^2-1]
 
-<sup>1</sup> Die Einfuhr von Geflügelfleisch aus den im Anhang festgelegten Sperrzonen ist verboten.
+<sup>1</sup> Die Einfuhr von Geflügelfleisch von Tieren, die in den im Anhang festgelegten Sperrzonen gehalten wurden, ist verboten.
 
-<sup>2</sup> Erlaubt ist die Einfuhr von Geflügelfleisch, das einer Wärmebehandlung nach Anhang VII der Delegierten Verordnung (EU) 2020/687[^2-1] unterzogen wurde, die den Erreger der Aviären Influenza abtötet.
+<sup>2</sup>
 
-[^2-1]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; geändert durch Delegierte Verordnung (EU) 2021/1140, ABl. L 247 vom 13.7.2021, S. 50.
+Abweichend von Absatz 1 dürfen folgende Erzeugnisse eingeführt werden:
+
+- a. Geflügelfleisch von in einer Sperrzone gehaltenen Tieren, das einer Wärmebehandlung nach Anhang VII der Delegierten Verordnung (EU) 2020/687[^2-2] unterzogen wurde, die den Erreger der Aviären Influenza abtötet;
+- b.
+
+  frisches Geflügelfleisch von in einer Sperrzone, die nicht Schutzzone ist, gehaltenen Tieren, wenn:
+
+  - 1\. jede einzelne Sendung von der zuständigen Behörde am Herkunftsort nach den Vorgaben der Artikel 42, 43 und 49 der Delegierten Verordnung (EU) 2020/687 genehmigt worden ist,
+  - 2\. die Kantonstierärztin oder der Kantonstierarzt vorgängig die Zustimmung für die Einfuhr gegeben hat,
+  - 3\. der Bestimmungsbetrieb vor dem Versand jeder Sendung der zuständigen Behörde am Herkunftsort die Annahme der Sendung schriftlich bestätigt hat, und
+  - 4\. die Sendung ohne Entladen und ohne Unterbrechung bis zum Entladen in den Bestimmungsbetrieb verbracht wird.
+
+[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 6. Febr. 2024, in Kraft seit 8. Febr. 2024 ([AS 2024 60](https://fedlex.data.admin.ch/eli/oc/2024/60)).
+[^2-2]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; zuletzt geändert durch Delegierte Verordnung (EU) 2023/751, ABl. L 100 vom 13.4.2023, S. 7.
 
 #### Art. 3
 
@@ -65,11 +80,12 @@ Die Einfuhr von tierischen Nebenprodukten aus den im Anhang festgelegten Sperr-z
 
 #### Art. 6
 
-**Gesundheitsbescheinigungen**
+**Gesundheitsbescheinigungen**[^6-1]
 
-Geflügelfleisch und Erzeugnisse aus Verarbeitungseiern aus Sperrzonen müssen von einer Gesundheitsbescheinigung nach Artikel 7 Ziffer 1 der Durchführungsverordnung (EU) 2020/2235[^6-1] begleitet werden.
+Geflügelfleisch und Erzeugnisse aus Verarbeitungseiern aus Sperrzonen müssen von einer Gesundheitsbescheinigung nach Artikel 7 Ziffer 1 der Durchführungsverordnung (EU) 2020/2235[^6-2] begleitet werden.
 
-[^6-1]: Durchführungsverordnung (EU) 2020/2235 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Tieren und Waren und für deren Verbringungen innerhalb der Union, hinsicht-lich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung der Verordnung (EG) Nr. 599/2004, der Durchführungsverordnungen (EU) Nr. 636/2014 und (EU) 2019/628, der Richtlinie 98/68/EG und der Entscheidungen 2000/572/EG, 2003/779/EG und 2007/240/EG, ABl. L 442 vom 30.12.2020, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2021/1471, ABl. L 326 vom 15.9.2021, S. 1.
+[^6-1]: Fassung gemäss Ziff. I der V des BLV vom 6. Febr. 2024, in Kraft seit 8. Febr. 2024 ([AS 2024 60](https://fedlex.data.admin.ch/eli/oc/2024/60)).
+[^6-2]: Durchführungsverordnung (EU) 2020/2235 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Tieren und Waren und für deren Verbringungen innerhalb der Union, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung der Verordnung (EG) Nr. 599/2004, der Durchführungsverordnungen (EU) Nr. 636/2014 und (EU) 2019/628, der Richtlinie 98/68/EG und der Entscheidungen 2000/572/EG, 2003/779/EG und 2007/240/EG, ABl. L 442 vom 30.12.2020, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2023/2744, ABl. L, 2023/2744, 15.12.2023.
 
 #### Art. 7
 
@@ -91,7 +107,7 @@ Anhang[^t-2]
 
 ## Betroffene Gebiete und Sperrzonen
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLV vom 24. Nov. 2023, in Kraft seit 29. Nov. 2023 ([AS 2023 690](https://fedlex.data.admin.ch/eli/oc/2023/690)).
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 6. Febr. 2024, in Kraft seit 8. Febr. 2024 ([AS 2024 60](https://fedlex.data.admin.ch/eli/oc/2024/60)).
 
 ### 1 Sperrzonen in den betroffenen Mitgliedstaaten der EU
 
@@ -99,19 +115,29 @@ Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Sperrzonen we
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2023/2447</td><td>Durchführungsbeschluss (EU) 2023/2447 der Kommission vom 24. Oktober 2023 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L vom 30.10.2023; zuletzt geändert durch Durchführungsbeschluss (EU) 2023/2578, ABl. L vom 20.11.2023</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2023/2447</td><td>Durchführungsbeschluss (EU) 2023/2447 der Kommission vom 24. Oktober 2023 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L vom 30.10.2023; zuletzt geändert durch Durchführungsbeschluss (EU) 2024/416, ABl. L, 2024/416, 31.1.2024</td></tr>
 </table>
 
 ### 2 Betroffene Mitgliedstaaten der EU
 
 In folgenden Mitgliedstaaten der EU bestehen Sperrzonen:
 
+Belgien
+
 Bulgarien
 
 Dänemark
 
+Deutschland
+
+Frankreich
+
 Polen
 
 Rumänien
+
+Schweden
+
+Slowakei
 
 Ungarn

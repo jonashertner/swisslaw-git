@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: Ordonnance de l’OSAV du 15 octobre 2021 instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne et en Irlande du Nord
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: fr
-version: 2023-11-29
+version: 2024-02-08
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20231129/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20231129-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20231129/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20240208/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20240208-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20240208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne
 
-du 15 octobre 2021 (État le 29 novembre 2023)[^t-1]
+du 15 octobre 2021 (État le 8 février 2024)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 23 janv. 2023, en vigueur depuis le 25 janv. 2023 ([RO 2023 22](https://fedlex.data.admin.ch/eli/oc/2023/22)).
 
@@ -29,19 +29,34 @@ arrête:
 
 #### Art. 1
 
-**Interdiction d’importer des volailles vivantes et des poussins d’un jour**
+**Interdiction d’importer des volailles vivantes et des poussins d’un jour**[^1-1]
 
-L’importation de volailles vivantes et de poussins d’un jour en provenance des zones réglementées visées dans l’annexe est interdite.
+L’importation de volailles vivantes et de poussins d’un jour en provenance des zones de protection, des zones de surveillances et d’autres zones réglementées (zones réglementées) visées dans l’annexe est interdite.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 6 fév. 2024, en vigueur depuis le 8 fév. 2024 ([RO 2024 60](https://fedlex.data.admin.ch/eli/oc/2024/60)).
 
 #### Art. 2
 
-**Importation de viande de volaille**
+**Importation de viande de volaille**[^2-1]
 
-<sup>1</sup> L’importation de viande de volaille en provenance des zones réglementées visées dans l’annexe est interdite.
+<sup>1</sup> L’importation de viande de volaille issue d’animaux détenus dans les zones réglementées visées dans l’annexe est interdite.
 
-<sup>2</sup> L’impotation de viande de volaille est admise si la viande a été soumise à l’un des traitements thermiques prévus à l’annexe VII du règlement délégué (UE) 2020/687[^2-1] visant à éliminer l’agent de l’influenza aviaire.
+<sup>2</sup>
 
-[^2-1]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles-ci, JO L 174 du 3.6.2020, p. 64; modifié par le règlement délégué (UE) 2021/1140, JO L 247 du 13.7.2021, p. 50
+Par dérogation à l’al. 1, les produits suivants peuvent être importés:
+
+- a. en provenance d’une zone réglementée: la viande de volaille qui a été soumise à l’un des traitements thermiques prévus à l’annexe VII du règlement délégué (UE) 2020/687[^2-2] visant à éliminer l’agent de l’influenza aviaire;
+- b.
+
+  en provenance d’une zone réglementée autre qu’une zone de protection: la viande de volaille fraîche, si:
+
+  - 1\. l’autorité compétente du lieu de provenance a autorisé chaque lot conformément aux dispositions des art. 42, 43 et 49 du règlement délégué (UE) 2020/687,
+  - 2\. le vétérinaire cantonal a préalablement autorisé l’importation,
+  - 3\. avant l’expédition du lot, l’établissement de destination a confirmé par écrit à l’autorité compétente du lieu de provenance qu’il accepte le lot, et que
+  - 4\. le lot est transporté à l’établissement de destination sans déchargement ni arrêt jusqu’au déchargement dans cet établissement.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 6 fév. 2024, en vigueur depuis le 8 fév. 2024 ([RO 2024 60](https://fedlex.data.admin.ch/eli/oc/2024/60)).
+[^2-2]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles‑ci, JO L 174 du 3.6.2020, p. 64; modifié en dernier lieu par le règlement délégué (UE) 2023/751, JO L 100 du 13.4.2023, p. 7
 
 #### Art. 3
 
@@ -65,11 +80,12 @@ L’importation de sous-produits animaux en provenance des zones réglementées 
 
 #### Art. 6
 
-**Certificats sanitaires**
+**Certificats sanitaires**[^6-1]
 
-Les lots de viande de volaille et de produits à base d’œufs de fabrication en provenance de zones réglementées doivent être accompagnés d’un certificat sanitaire selon l’art. 7, par. 1, du règlement d’exécution (UE) 2020/2235[^6-1].
+Les lots de viande de volaille et de produits à base d’œufs de fabrication en provenance de zones réglementées doivent être accompagnés d’un certificat sanitaire visé à l’art. 7, par. 1, du règlement d’exécution (UE) 2020/2235[^6-2].
 
-[^6-1]: Règlement d’exécution (UE) 2020/2235 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire, les modèles de certificat officiel et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois de certaines catégories d’animaux et de biens, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n° 599/2004, les règlements d’exécution (UE) n° 636/2014 et (UE) 2019/628, la directive 98/68/CE et les décisions 2000/572/CE, 2003/779/CE et 2007/240/CE, JO L 442 du 30.12.2020, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/1471, JO L 326 du 15.9.2021, p. 1
+[^6-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 6 fév. 2024, en vigueur depuis le 8 fév. 2024 ([RO 2024 60](https://fedlex.data.admin.ch/eli/oc/2024/60)).
+[^6-2]: Règlement d’exécution (UE) 2020/2235 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire, les modèles de certificat officiel et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois de certaines catégories d’animaux et de biens, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 599/2004, les règlements d’exécution (UE) n<sup>o</sup> 636/2014 et (UE) 2019/628, la directive 98/68/CE et les décisions 2000/572/CE, 2003/779/CE et 2007/240/CE, JO L 442 du 30.12.2020, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2023/2744, JO L, 2023/2744, 15.12.2023.
 
 #### Art. 7
 
@@ -91,7 +107,7 @@ Annexe[^t-2]
 
 ## Régions et zones réglementées
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 24 nov. 2023, en vigueur depuis le 29 nov. 2023 ([RO 2023 690](https://fedlex.data.admin.ch/eli/oc/2023/690)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 6 fév. 2024, en vigueur depuis le 8 fév. 2024 ([RO 2024 60](https://fedlex.data.admin.ch/eli/oc/2024/60)).
 
 ### 1 Zones réglementées dans les États membres de l’UE concernés
 
@@ -99,19 +115,29 @@ Les États membres de l’UE concernés ainsi que leurs zones réglementées son
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et dates de publication des actes modificateurs</th></tr>
-<tr><td>Décision d’exécution (UE) 2023/2447</td><td>Décision d’exécution (UE) 2023/2447 de la Commission du 24 octobre 2023 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L du 30.10.2023; modifiée en dernier lieu par la décision d’exécution (UE) 2023/2578, JO L du 20.11.2023</td></tr>
+<tr><td>Décision d’exécution (UE) 2023/2447</td><td>Décision d’exécution (UE) 2023/2447 de la Commission du 24 octobre 2023 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L du 30.10.2023; modifiée en dernier lieu par la décision d’exécution (UE) 2024/416, JO L, 2024/416, 31.1.2024</td></tr>
 </table>
 
 ### 2 États membres de l’UE
 
 Des zones réglementées ont été délimitées dans les États membres de l’UE suivants:
 
+Allemagne
+
+Belgique
+
 Bulgarie
 
 Danemark
+
+France
 
 Hongrie
 
 Pologne
 
 Roumanie
+
+Slovaquie
+
+Suède
