@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance régissant la taxe sur la valeur ajoutée (OTVA)
 document: Projet mis en consultation
 language: fr
