@@ -4,13 +4,13 @@ number: "700.1"
 title: Verordnung zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe
 short: PBV
 language: de
-version: 2023-05-27
-valid_until: 2024-02-09
-version_adopted: 2023-05-16
+version: 2024-02-10
+valid_until: 2024-07-05
+version_adopted: 2024-02-06
 adopted: 2012-09-18
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2661/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2756/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ PBV
 
 (PBV)
 
-vom 18.09.2012 (Stand 27.05.2023)
+vom 18.09.2012 (Stand 10.02.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -368,6 +368,8 @@ vom 18.09.2012 (Stand 27.05.2023)
 
 <sup>1</sup> Bestehende Bauten und Anlagen dürfen nach aussen nachisoliert werden, auch wenn dadurch der vorgeschriebene Grenz- oder Gebäudeabstand unterschritten wird.
 
+<sup>1<sup>bis</sup></sup> Luft/Wasser-Wärmepumpen dürfen den vorgeschriebenen Grenzabstand bis zu einem Abstand von 1.50 m unterschreiten.
+
 <sup>2</sup> …
 
 <sup>3</sup> Dachvorsprünge dürfen den vorgeschriebenen Grenzabstand auf der ganzen Fassadenlänge maximal 1.00 m unterschreiten.
@@ -403,7 +405,7 @@ vom 18.09.2012 (Stand 27.05.2023)
 <sup>1</sup> Für energieeffizientes Bauen werden auf die im Baureglement oder in Sondernutzungsplänen festgelegten Nutzungsziffern folgende Zuschläge gewährt:
 
 - 1\. …
-- 2\. 20 % bei der Geschossflächenziffer und 10 % bei der Baumassenziffer für Gebäude, die den Minergie-P-Baustandard erfüllen oder deren opake Teile der Aussenhülle einen U-Wert von 0.12 W/m²K oder weniger und deren Fenster einen U-Wert von 0.8 W/m²K oder weniger einhalten.
+- 2\. 20 % bei der Geschossflächenziffer und 10 % bei der Baumassenziffer und bei der Überbauungsziffer für Gebäude, die den Minergie-P-Baustandard erfüllen oder deren opake Teile der thermischen Gebäudehülle bis 2 m im Erdreich einen U-Wert von 0.12 W/m²K oder weniger und deren Fenster einen U-Wert von 0.80 W/m²K oder weniger einhalten
 
 #### § 36
 
