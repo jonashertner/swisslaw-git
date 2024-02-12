@@ -4,11 +4,11 @@ title: Règlement du 20 novembre 2006 du Tribunal fédéral (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: fr
-version: 2024-01-01
+version: 2024-02-13
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240213/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240213-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/fr"
 
 (RTF)
 
-du 20 novembre 2006 (État le 1<sup>er</sup> janvier 2024)
+du 20 novembre 2006 (État le 13 février 2024)
 
 Le Tribunal fédéral,
 
@@ -636,12 +636,11 @@ La deuxième Cour de droit civil traite les recours en matière civile et les re
 - c.[^34-2] poursuite pour dettes et faillite (sauf mainlevées provisoires et définitives);
 - d. tenue des registres et décisions sur la reconnaissance et l’exécution de décisions ainsi que sur l’entraide en matière civile selon l’art. 72, al. 2, let. b, LTF dans les domaines prévus aux let. a à c ci-dessus.
 
-<sup>2</sup> La deuxième Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 CPC[^34-3].[^34-4]
+<sup>2</sup> La deuxième Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF).[^34-3]
 
 [^34-1]: Anciennement art. 32.
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^34-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^34-4]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^34-3]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)). Erratum du 13 fév. 2024 ([RO 2024 66](https://fedlex.data.admin.ch/eli/oc/2024/66)).
 
 #### Art. 35
 

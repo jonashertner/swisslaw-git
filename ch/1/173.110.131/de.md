@@ -4,11 +4,11 @@ title: Reglement vom 20. November 2006 für das Bundesgericht (BGerR)
 short: BGerR
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: de
-version: 2024-01-01
+version: 2024-02-13
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240213/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240213-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/de"
 
 (BGerR)
 
-vom 20. November 2006 (Stand am 1. Januar 2024)
+vom 20. November 2006 (Stand am 13. Februar 2024)
 
 Das Bundesgericht,
 
@@ -634,12 +634,11 @@ Die Zweite zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen un
 - c.[^34-2] Schuldbetreibung und Konkurs (ohne provisorische und definitive Rechtsöffnungen);
 - d. Registersachen und Entscheide über die Anerkennung und Vollstreckung von Entscheiden sowie über die Rechtshilfe in Zivilsachen gemäss Artikel 72 Absatz 2 Buchstabe b BGG in den Rechtsgebieten nach Buchstaben a und c dieses Absatzes.
 
-<sup>2</sup> Die Zweite zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 ZPO[^34-3].[^34-4]
+<sup>2</sup> Die Zweite zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG).[^34-3]
 
 [^34-1]: Ursprünglich: Art. 32.
 [^34-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^34-3]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^34-4]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^34-3]: Fassung gemäss Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)). Berichtigung vom 13. Febr. 2024 ([AS 2024 66](https://fedlex.data.admin.ch/eli/oc/2024/66)).
 
 #### Art. 35
 

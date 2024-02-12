@@ -4,11 +4,11 @@ title: Regolamento del 20 novembre 2006 del Tribunale federale (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: it
-version: 2024-01-01
+version: 2024-02-13
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240213/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240213-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240101/it"
 
 (RTF)
 
-del 20 novembre 2006 (Stato 1° gennaio 2024)
+del 20 novembre 2006 (Stato 13 febbraio 2024)
 
 Il Tribunale federale,
 
@@ -632,12 +632,11 @@ La seconda Corte di diritto civile tratta i ricorsi in materia civile e i ricors
 - c.[^34-2] esecuzione e fallimenti (senza rigetto provvisorio e definitivo);
 - d. tenuta dei registri e decisioni sul riconoscimento e l’esecuzione di decisioni nonché sull’assistenza giudiziaria in materia civile ai sensi dell’art. 72 capoverso 2 lettera b LTF nei campi secondo le lettere a e c di questo capoverso.
 
-<sup>2</sup> La seconda Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF) e i ricorsi contro i lodi giusta l’articolo 389 CPC[^34-3].[^34-4]
+<sup>2</sup> La seconda Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF).[^34-3]
 
 [^34-1]: Originario art. 32.
 [^34-2]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^34-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^34-4]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^34-3]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)). Correzione del 13 feb. 2024 ([RU 2024 66](https://fedlex.data.admin.ch/eli/oc/2024/66)).
 
 #### Art. 35
 
