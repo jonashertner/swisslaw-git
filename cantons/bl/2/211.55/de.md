@@ -3,20 +3,20 @@ canton: BL
 number: "211.55"
 title: Verordnung über die Gebühren für die Nachführungsarbeiten in der amtlichen Vermessung
 language: de
-version: 2023-04-01
-valid_until: 2024-02-15
-version_adopted: 2023-03-28
+version: 2024-02-16
+valid_until: 2024-12-31
+version_adopted: 2024-02-06
 adopted: 1997-11-25
 in_force: 1997-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.55"
-pdf: "https://bl.clex.ch/api/de/versions/3569/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3882/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren für die Nachführungsarbeiten in der amtlichen Vermessung
 
-Vom 25.11.1997 (Stand 01.04.2023)
+Vom 25.11.1997 (Stand 16.02.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -100,7 +100,7 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für das Material (§ 2 Abs. 2) werden vom Regierungsrat periodisch gemäss der Preisentwicklung angepasst.
 
-<sup>2</sup> Die übrigen Gebühren betragen ein teuerungsbedingtes Vielfaches der Preistarife der HO33, die auf der Preisbasis von 1992 beruhen. Das Vielfache wird durch den Anwendungsfaktor bestimmt, der von der Kommission Preisbasis IGS und KGK periodisch gemäss der Preisentwicklung angepasst wird. Der Anwendungsfaktor beträgt 1,23.
+<sup>2</sup> Die übrigen Gebühren betragen ein teuerungsbedingtes Vielfaches der Preistarife der HO33, die auf der Preisbasis von 1992 beruhen. Das Vielfache wird durch den Anwendungsfaktor bestimmt, der von der Kommission Preisbasis IGS und KGK periodisch gemäss der Preisentwicklung angepasst wird. Der Anwendungsfaktor beträgt 1,25.
 
 <sup>3</sup> Die Mehrwertsteuer ist in den Gebühren nicht eingerechnet.
 
