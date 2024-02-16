@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les services de télécommunication (OST)
 document: Projet mis en consultation
 language: fr
