@@ -1,30 +1,32 @@
 ---
 canton: VS
 number: "923.170"
-title: "Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2019-2023"
+title: "Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2024-2028"
 language: fr
-version: 2023-02-01
-valid_until: 2024-02-20
-version_adopted: 2023-02-08
+version: 2024-02-21
+valid_until: 2025-01-31
+version_adopted: 2024-02-21
 adopted: 2024-02-21
 in_force: 2024-02-21
 url: "https://lex.vs.ch/app/fr/texts_of_law/923.170"
-pdf: "https://lex.vs.ch/api/fr/versions/3167/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3293/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2019-2023
+# Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2024-2028
 
-du 28.11.2018 (état 01.02.2023)
+du 21.02.2024 (état 21.02.2024)
 
 Le Conseil d'Etat du canton du Valais
 
 vu la loi fédérale sur la pêche du 21 juin 1991 (LFSP);
 
-vu les articles 33, 35, 50 et 69 de la loi cantonale sur la pêche du 15 novembre 1996;
+vu l'ordonnance relative à la loi fédérale sur la pêche du 24 novembre 1993 (OLFP);
 
-vu l’ordonnance sur l’exercice de la pêche du 19 novembre 2008;
+vu la loi cantonale sur la pêche du 15 novembre 1996 (LcSP);
+
+vu l’ordonnance sur l’exercice de la pêche du 19 novembre 2008 (OcPê);
 
 sur la proposition du département en charge de la pêche,
 
@@ -40,7 +42,7 @@ arrête:
 
 <sup>1</sup> Les plans et cours d'eau ouverts à la pêche sont énumérés ci-après et reportés sur une carte interactive (ci-après: carte de pêche).
 
-<sup>2</sup> La carte de pêche du service, sur la base de la carte 1:25'000, comporte les différentes couches relatives aux périmètres et éléments en lien avec la pratique de la pêche.
+<sup>2</sup> La carte de pêche du service en charge de la pêche (ci-après: service), sur la base de la carte 1:25'000, comporte les différentes couches relatives aux périmètres et éléments en lien avec la pratique de la pêche.
 
 <sup>3</sup> Sur la carte de pêche, les périmètres et tronçons suivent des éléments marquants du paysage (routes, chemins, cours d'eau, etc.). En l’absence d'une délimitation visible, ces limites sont signalées par un balisage dans le terrain.
 
@@ -76,27 +78,28 @@ arrête:
 - v) la Morge, en aval du pont du Diable;
 - w) la Printze, en aval du pont de la route principale à Beuson;
 - x) la Fare, en aval de la confluence de la Fare de Chassoure et Rosey;
-- y) la Losentze, en aval du chemin des Applayes;
-- z) la Salentze, en aval du pont le Favouay-Morthey;
-- aa) la Dranse de Bagnes, en aval du pont de Champsec;
-- ab) la Dranse d’Entremont, en aval du pont de la Tsi;
-- ac) la Dranse de Ferret, en aval du pont de Praz-de-Fort;
-- ad) le Durnand, en aval du pont du Borgeaud;
-- ae) le Trient, en aval du pont des Leysettes;
-- af) la Salanfe/Pissevache, en aval du pied de la cascade; du pied de la cascade jusqu’au vieux pont de la centrale EOS, la pêche n’est autorisée que sur la rive droite pour des raison de sécurité;
-- ag) le Torrent de Mauvoisin, en aval du pont des Cases;
-- ah) le Saint-Barthélemy;
-- ai) la Vièze de Champéry, en aval du pont des Moulins à Champéry;
-- aj) le Torrent de la Greffe, en aval de la route cantonale à son embouchure dans le fossé des Talons (Le Vaux);
-- ak) l'Avançon, en aval de la route cantonale à son embouchure au Stockalper;
-- al) le Torrent de Mayen, en aval de la route cantonale à sa jonction avec l’Avançon;
-- am) le Fossau, en aval de la route cantonale.
+- y) la Salentze, en aval du pont le Favouay-Morthey;
+- z) la Dranse de Bagnes, en aval du pont de Champsec;
+- aa) la Dranse d’Entremont, en aval du pont de la Tsi;
+- ab) la Dranse de Ferret, en aval du pont de Praz-de-Fort;
+- ac) le Durnand, en aval du pont du Borgeaud;
+- ad) le Trient, en aval du pont des Leysettes;
+- ae) la Salanfe/Pissevache, en aval du pied de la cascade; du pied de la cascade jusqu’au vieux pont de la centrale EOS, la pêche n’est autorisée que sur la rive droite pour des raison de sécurité;
+- af) le Torrent de Mauvoisin, en aval du pont des Cases;
+- ag) le Saint-Barthélemy;
+- ah) la Vièze de Champéry, en aval du pont des Moulins à Champéry;
+- ai) le Torrent de la Greffe, en aval de la route cantonale à son embouchure dans le fossé des Talons (Le Vaux);
+- aj) l'Avançon, en aval de la route cantonale à son embouchure au Stockalper;
+- ak) le Torrent de Mayen, en aval de la route cantonale à sa jonction avec l’Avançon;
+- al) le Fossau, en aval de la route cantonale.
 
 #### Art. 3
 
 **Rivières de montagne**
 
-<sup>1</sup> Le permis cantonal donne le droit de pêcher dans les rivières de montagne. Sont considérés comme rivières de montagne les cours d'eau, les tronçons de rivières et tous les torrents non-mentionnés à l'article 2, à l'exception des réserves.
+<sup>1</sup> Le permis cantonal donne le droit de pêcher dans les rivières de montagne.
+
+<sup>2</sup> Sont considérés comme rivières de montagne les cours d'eau, les tronçons de rivières et tous les torrents non-mentionnés à l'article 2, à l'exception des réserves.
 
 #### Art. 4
 
@@ -105,7 +108,7 @@ arrête:
 <sup>1</sup> Le permis cantonal donne le droit de pêcher dans les lacs de montagne suivants:
 
 - a) le Totensee;
-- b) le Geschinersee, à l'exception de la partie est du lac, définie par balisage. Dans la partie ouverte du lac, seule la pêche à la mouche est autorisée;
+- b) le Geschinersee, à l'exception de la partie est du lac, définie par balisage. Dans la partie ouverte du lac, seule la pêche à la mouche est autorisée. La fermeture de la pêche intervient le dernier dimanche d'octobre;
 - c) la retenue de Zen-Binnen;
 - d) l’Hobschensee;
 - e) le Mattmarksee;
@@ -139,10 +142,10 @@ arrête:
 <sup>1</sup> Le permis cantonal donne le droit de pêcher dans les gouilles suivantes:
 
 - a) la gouille du "Baggersee" à Rarogne;
-- b) le lac de la Corne à Sierre/Grône, à l’exception de la partie ouest du lac, définie par balisage;
-- c) les Gouilles de la Bourgeoisie de Sion aux Iles (Grande gouille et gouille camping);
-- d) l'étang du Rosel à Martigny;
-- e) la gouille des Mangettes à Monthey, à l’exception de la zone nature de la partie ouest du lac, définie par balisage; la pêche, dans la partie ouverte, est autorisée uniquement depuis les berges.
+- b) la Corne à Sierre/Grône, à l’exception de la partie ouest du plan d'eau, définie par balisage;
+- c) les gouilles de la Bourgeoisie de Sion aux Iles (Grande gouille et Gouille du camping);
+- d) le Rosel à Martigny;
+- e) la gouille des Mangettes à Monthey, à l’exception de la zone nature de la partie ouest du plan d'eau, définie par balisage; la pêche, dans la partie ouverte, est autorisée uniquement depuis les berges.
 
 #### Art. 6
 
@@ -168,19 +171,21 @@ arrête:
   - 1\. les bras latéraux à Gletscherbode (sur le plat de Gletsch),
   - 2\. les Löüwenebach,Wilerbach, Oberbach, Muttbach, Glingulwasser,
   - 3\. le torrent d’Erlensand à Gluringen,
-  - 4\. le Torrent du Lussen à Obergesteln,
+  - 4\. le Lussenkanal à Obergesteln,
   - 5\. le canal en aval de la pisciculture à Biel jusqu’à la confluence avec le Rhône,
   - 6\. le Lengtalwasser, sur toute sa longueur seule la pratique de la pêche à la mouche est autorisée,
   - 7\. le Geschinerbach, affluent du Lac de Geschinen,
   - 8\. le Niederbach,
-  - 9\. l'effluent du Lac de Geschinen jusqu’à la confluence avec le Rhône;
+  - 9\. l'effluent du Lac de Geschinen jusqu’à la confluence avec le Rhône,
+  - 10\. l'Aegina, de la centrale de Zum Loch à la prise d'eau de Ta, seule la pratique de la pêche à la mouche est autorisée;
 - b) district de Brigue:
   - 1\. le Riedbach, sur les communes de Brigue et Ried-Brigue,
   - 2\. la Saltina, de la centrale de Grindji à l'entrée des gorges, seule la pratique de la pêche à la mouche est autorisée,
   - 3\. le Kelchbach, de la confluence avec le Rhône à l'entrée des gorges en amont de Schloss,
   - 4\. le Bruchji, de la confluence avec le Kelchbach à Wiichje;
 - c) district de Viège:
-  - 1\. la Vispa, de l’entrée de Saas-Almagell (confluence avec le Leebach) jusqu’au barrage de Mattmark, seuls les leurres artificiels sont autorisés;
+  - 1\. la Saaservispa, de l’entrée de Saas-Almagell (confluence avec le Leebach) jusqu’à la prise d'eau de Zermeiggern, seuls les leurres artificiels sont autorisés,
+  - 2\. la Saaservispa, de la prise d'eau de Zermeiggern au mur du barrage de Mattmark;
 - d) district de Rarogne:
   - 1\. l'Uistre Talbach,
   - 2\. l'Innre Talbach;
@@ -189,20 +194,32 @@ arrête:
 - f) district de Sierre:
   - 1\. la Navizence, de l’embouchure du torrent de Pinsec au bassin d’accumulation de Vissoie,
   - 2\. le Torrent de Pinsec,
-  - 3\. la Lienne, du pont de Saint-Gérard au pont des Hombes;
+  - 3\. la Lienne, du pont de Saint-Gérard au pont des Hombes,
+  - 4\. la Gougra, du départ du sentier au point 2075 jusqu'au mur du barrage de Moiry;
 - g) district de Sion:
   - 1\. le Torrent de Drône;
-- h) district de Conthey:
-  - 1\. la Printse, de la fin de la plaine de Siviez jusqu’au barrage de Cleuson, sans la Printse de Tortin;
-- i) district d’Entremont:
+- h) district d'Hérens:
+  - 1\. l'Evolèna, en amont de la rue Centrale,
+  - 2\. la Borgne, de la passerelle de l'Institut universitaire Kurt Bösch (IUKB) au pont de la route de Bramois;
+- i) district de Conthey:
+  - 1\. la Printse, de la fin de la plaine de Siviez jusqu’au barrage de Cleuson, sans la Printse de Tortin,
+  - 2\. la Derbonne, tout le tronçon en amont du captage sur la lizerne,
+  - 3\. la Morge, du tuyau aérien qui traverse la Morge au pont de la Morge,
+  - 4\. l'Ojintze;
+- j) district d’Entremont:
   - 1\. le Torrent de Bruson et torrent la Dransette (Le Pessot) à Lourtier, sur la totalité des parcours,
-  - 2\. les torrents en amont du lac de Champex jusqu’à la route du Lac, en amont du dépotoir;
-  - 3\. …
-- j) district de Martigny:
-  - 1\. les deux torrents du Mont aboutissant au canal de Sarvaz-Gru,
-  - 2\. le secteur des gouilles de la Bierle, en rive droite du Trient, de la confluence avec le Trient jusqu'à la source;
-- k) district de Monthey:
-  - 1\. le Nant de Choëx, de l’embouchure de la Vièze jusqu’à la grande chute contre le mont.
+  - 2\. les torrents en amont du lac de Champex jusqu’au Chemin d'Arpette, en amont du dépotoir,
+  - 3\. le Torrent d'Allèves,
+  - 4\. le Torrent de Pallasuit,
+  - 5\. la Dranse d'Entremont, du pont de Vichères au pont de la Dranse,
+  - 6\. le Pesseu;
+- k) district de Martigny:
+  - 1\. les 2 torrents du Mont aboutissant au canal de Sarvaz-Gru,
+  - 2\. le secteur des gouilles de la Bierle, en rive droite du Trient, de la confluence avec le Trient jusqu'à la source,
+  - 3\. la Fare de Chassoure, du pont au point 1845 jusqu'au lac des Vaux;
+- l) district de Monthey:
+  - 1\. le Nant de Choëx, de l’embouchure de la Vièze jusqu’à la grande chute contre le mont,
+  - 2\. la Saufla, du chemin pédestre au point 1140 jusqu'à la chute d'eau de la Luy.
 
 #### Art. 9
 
@@ -216,14 +233,15 @@ arrête:
 - b) district de Rarogne:
   - 1\. le Nordkanal,
   - 2\. le Grossgrundkanal,
-  - 3\. le Wannenmosskanal;
+  - 3\. le Wannenmosskanal,
+  - 4\. le Galdikanal, du pont de Rottustrasse au Bietschbach;
 - c) district de Loèche:
   - 1\. le canal Obere Phüla, partie supérieure, depuis la STEP jusqu'à sa source,
   - 2\. le canal Mühlackern,
   - 3\. le canal du Russen du pont de Zudannazstrasse au pont de la Pisciculture;
 - d) district de Sierre:
   - 1\. le canal de Crêtelongue du pont du Robinson à l’embouchure de la Rèche,
-  - 2\. le canal de Granges dans les marais de Pouta-Fontana (réserve voir affiche),
+  - 2\. le canal de Granges dans les marais de Pouta-Fontana (selon panneaux sur site),
   - 3\. le canal alimentant la pisciculture de Sierre,
   - 4\. l’ancien lit de la Raspille à proximité du Rhône,
   - 5\. le canal du Milieu en amont de l’exutoire de la STEP à Granges;
@@ -241,7 +259,7 @@ arrête:
   - 1\.3. le canal du Milieu,
   - 1\.4. le canal de Sarvaz-Gru,
   - 1\.5. le canal du Bienvenu,
-  - 2\. les tronçons suivants des ces canaux demeurent toutefois réservés, il s'agit:
+  - 2\. les tronçons suivants des ces canaux demeurent réservés, il s'agit:
   - 2\.1. sur le canal de Fully:
   - 2\.1.1. du pont du Grand-Blettay (en amont de l’écluse) jusqu’au pont de l’autoroute (les Mûres),
   - 2\.1.2. du pont de Châtaignier au premier pont aval de Châtaignier,
@@ -268,17 +286,17 @@ arrête:
 
 <sup>1</sup> Les plans d’eau non mentionnés aux articles 4 et 5 sont considérés comme des réserves, à moins qu’ils ne soient affermés, et de ce fait, soumis à la régale de la pêche.
 
-<sup>2</sup> Les lacs de montagne et les gouilles de plaine en statut de protection particulier, lié à la loi sur la protection de la nature (LPN), constituent des réserves de pêche:
+<sup>2</sup> Les plans d'eau en statut de protection particulier, lié à la loi fédérale sur la protection de la nature et du paysage (LPN), constituent des réserves de pêche:
 
-- a) le site de Derborence,
-- b) la gouille des Epines,
+- a) le site de Derborence;
+- b) la gouille des Epines;
 - c) les Etangs de Pouta-Fontana.
 
 #### Art. 11
 
 **Ouvrages destinés à la migration piscicole**
 
-<sup>1</sup> Il est interdit de pêcher dans un ouvrage destiné à la montaison et/ou la dévalaison, ainsi que vingt mètres en amont et en aval de ceux-ci.
+<sup>1</sup> Il est interdit de pêcher dans un ouvrage destiné à la montaison et/ou la dévalaison, ainsi que 20 mètres en amont et en aval de ceux-ci.
 
 #### Art. 12
 
@@ -294,7 +312,7 @@ arrête:
 
 **Canal de Lavey**
 
-<sup>1</sup> Les titulaires d’un permis de pêche valaisan domicilié-e-s dans le district de Saint-Maurice ont l'autorisation de pêcher dans le canal de décharge de l’usine électrique de Lavey, sur la rive gauche uniquement, en conformité avec le règlement cantonal vaudois sur la pêche. Les poissons capturés sur ce parcours doivent être inscrits sur le carnet de prises valaisan.
+<sup>1</sup> Les titulaires d’un permis de pêche valaisan domiciliées ou domiciliés dans le district de Saint-Maurice ont l'autorisation de pêcher dans le canal de décharge de l’usine électrique de Lavey, sur la rive gauche uniquement, en conformité avec le règlement cantonal vaudois sur la pêche. Les poissons capturés sur ce parcours doivent être inscrits sur le carnet de prises valaisan.
 
 ## 2 Permis
 
@@ -302,15 +320,17 @@ arrête:
 
 **Délivrance des permis**
 
-<sup>1</sup> Les permis canaux sont délivrés par les sections de la Fédération cantonale valaisanne des pêcheurs amateurs (ci-après: FCVPA). Les permis valables pour les autres eaux cantonales sont délivrés par le service ou pour les permis journaliers et deux jours par la FCVPA. Les modalités de délivrance ainsi que les points de vente sont disponibles sur les sites Internet du service et de la FCVPA.
+<sup>1</sup> Les permis canaux sont délivrés par les sections de la Fédération cantonale valaisanne des pêcheurs amateurs (ci-après: FCVPA).
+
+<sup>2</sup> Les permis valables pour les autres eaux cantonales sont délivrés par le service ou pour les permis journaliers et deux jours également par la FCVPA.
+
+<sup>3</sup> Les modalités de délivrance ainsi que les points de vente sont disponibles sur les sites Internet du service et de la FCVPA.
 
 #### Art. 15
 
-**Prix des permis**
+**Prix des permis, taxes et émoluments divers a) Rhône, rivières, lacs de montagne et gouilles**
 
-<sup>1</sup> Les prix des différents permis sont fixés comme suit:
-
-<sup>2</sup> Rhône, rivières, lacs de montagne et gouilles
+<sup>1</sup> Le prix des différents permis est fixé comme suit:
 
 <table>
 <tr><th>Type de permis</th><th>Lieu de domicile</th><th>Taxe</th><th>Repeuplement</th><th>Taxe FCVPA</th><th>TOTAL</th></tr>
@@ -322,7 +342,17 @@ arrête:
 <tr><td>Journalier</td><td></td><td>Fr. 15</td><td>Fr. 10</td><td></td><td>Fr. 25</td></tr>
 </table>
 
-<sup>3</sup> Canaux
+<sup>2</sup> Pour les permis journaliers et deux jours, un supplément de 5 francs maximum est perçu pour les frais de délivrance.
+
+<sup>3</sup> Les jeunes qui ont atteint l’âge de 13 ans révolus ont droit à une réduction de 50 pour cent de la taxe de base. Le tarif adulte est dû dès 16 ans révolus.
+
+<sup>4</sup> Les personnes étrangères, en possession d’un permis de séjour et dont le domicile est en Valais, s’acquittent du prix du permis fixé pour les personnes résidant en Valais.
+
+#### Art. 16
+
+**b) Canaux**
+
+<sup>1</sup> Le prix des différents permis est fixé comme suit:
 
 <table>
 <tr><th>Type de permis</th><th>Lieu de domicile</th><th>Taxe</th><th>Repeuplement</th><th>Fournitures</th><th>Taxe FCVPA</th><th>TOTAL</th></tr>
@@ -332,20 +362,43 @@ arrête:
 <tr><td>Journalier</td><td></td><td>Fr. 15</td><td>Fr. 10</td><td></td><td></td><td>Fr. 25</td></tr>
 </table>
 
-<sup>4</sup> Émoluments divers
+<sup>2</sup> Pour les permis journaliers et deux jours, un supplément de 5 francs maximum est perçu pour les frais de délivrance.
+
+<sup>3</sup> Les jeunes qui ont atteint l’âge de 13 ans révolus ont droit à une réduction de 50 pour cent de la taxe de base. Le tarif adulte est dû dès 16 ans révolus.
+
+<sup>4</sup> Les personnes étrangères, en possession d’un permis de séjour et dont le domicile est en Valais, s’acquittent du prix du permis fixé pour les personnes résidant en Valais.
+
+#### Art. 17
+
+**c) Taxe de repeuplement**
+
+<sup>1</sup> La taxe de repeuplement est due une seule fois par année, soit lors de la délivrance du permis cantonal annuel, soit lors de la délivrance du permis annuel pour les canaux.
+
+#### Art. 18
+
+**d) Supplément pour les non-membres**
+
+<sup>1</sup> La pêcheuse ou le pêcheur, quel que soit son domicile, non membre d’une section de pêche affiliée à la FCVPA, est tenue ou tenu de verser un supplément de 80 francs par permis annuel et de 40 francs par permis mi-mensuel en compensation du travail de repeuplement effectué par les sections et de leur collaboration avec l’Etat pour la pratique de la pêche dans le canton. Ce supplément est ristourné à la FCVPA.
+
+#### Art. 19
+
+**e) Droit spécial**
+
+<sup>1</sup> Le droit spécial pour la promotion de la santé, selon l'arrêté du Conseil d'Etat est dû en sus une seule fois, lors de la délivrance du premier permis annuel (cantonal ou canal).
+
+#### Art. 20
+
+**f) Émoluments divers**
+
+<sup>1</sup> Les émoluments divers sont fixés comme suit:
 
 <table>
 <tr><th></th><th>TOTAL</th></tr>
 <tr><td>Permis de remplacement canal</td><td>Fr. 10</td></tr>
-<tr><td>Carte piscicole</td><td>Fr. 10</td></tr>
 <tr><td>Duplicata carnet</td><td>Fr. 50</td></tr>
 </table>
 
-<sup>5</sup> Les jeunes qui ont atteint l’âge de 13 ans révolus ont droit à une réduction de 50 pour cent de la taxe de base. Le tarif adulte est dû dès 16 ans révolus.
-
-<sup>6</sup> Les personnes étrangères, en possession d’un permis de séjour et dont le domicile est en Valais, s’acquittent du prix du permis fixé pour les résident-e-s valaisan-ne-s.
-
-#### Art. 16
+#### Art. 21
 
 **Surtaxe pour les plans d'eau affermés**
 
@@ -353,67 +406,54 @@ arrête:
 
 <sup>2</sup> Cette perception se fait au moyen de timbres fournis annuellement par le service, sur demande de la fermière ou du fermier. La fermière ou le fermier est responsable de toute pêche pratiquée dans son plan d’eau. En cas de pêche sans timbres sur le document faisant office de permis, elle ou il encourt des sanctions pénales et administratives allant jusqu'à la révocation du contrat d’affermage en cas de faute grave ou répétée.
 
-#### Art. 17
-
-**Supplément pour les non-membres**
-
-<sup>1</sup> La pêcheuse ou le pêcheur, quel que soit son domicile, non membre d’une section de pêche affiliée à la FCVPA, est tenu-e de verser un supplément de 80 francs par permis annuel et de 40 francs par permis mi-mensuel en compensation du travail de repeuplement effectué par les sections et de leur collaboration avec l’Etat pour la pratique de la pêche dans le canton. Ce supplément est ristourné à la FCVPA.
-
-#### Art. 18
-
-**Droit spécial et taxe de repeuplement**
-
-<sup>1</sup> Le droit spécial pour la promotion de la santé, selon la décision du Conseil d'Etat du 2 novembre 2016 est dû une seule fois, lors de la délivrance du premier permis annuel (cantonal ou canal).
-
-<sup>2</sup> La taxe de repeuplement est due une seule fois par année, soit lors de la délivrance du permis cantonal annuel, soit lors de la délivrance du permis annuel pour les canaux.
-
 ## 3 Mesures de protection
 
-#### Art. 19
+#### Art. 22
 
 **Mesure minimale du poisson**
 
-<sup>1</sup> Quel que soit la nature du permis, et pour autant que dans le présent arrêté il n’y ait pas d’autres restrictions spécifiques au plan d’eau, le prélèvement journalier maximum autorisé est le suivant:
+<sup>1</sup> A défaut d'une mesure minimale spécifiquement fixée pour un plan d'eau dans le présent arrêté, les mesures minimales suivantes sont valables:
 
 - a) namaycush (Cristivomer) — 30cm
 - b) corégone — 30cm
 - c) omble chevalier — 26cm
-- d) fario — 24cm[^19-1]
+- d) fario — 24cm
 - e) arc, saumon de fontaine — 24cm
 - f) brochet — 60cm
 - g) tanche — 25cm
 - h) carpe — 60cm
 - i) perche — 15cm
 
-[^19-1]: Pour les tronçons réservés aux leurres artificiels la mesure est fixée à 30cm et pour ceux réservés à la pratique de la pêche à la mouche à 40cm.
+<sup>2</sup> Pour les tronçons réservés aux leurres artificiels, la mesure minimale de capture de la truite fario est fixée à 30 centimètres et pour ceux réservés à la pratique de la pêche à la mouche à 40 centimètres.
 
-#### Art. 20
+#### Art. 23
 
 **Limitation de capture**
 
-<sup>1</sup> Quel que soit la nature du permis, et pour autant que dans le présent arrêté il n’y ait pas d’autres restrictions spécifiques au plan d’eau, le prélèvement journalier maximum autorisé est le suivant:
+<sup>1</sup> Quelle que soit la nature du permis, et pour autant que dans le présent arrêté il n’y ait pas d’autres restrictions spécifiques au plan d’eau, le prélèvement journalier maximum autorisé est le suivant:
 
 - a) brochets et tanches — 4 pièces par jour
-- b) salmonidés — 5 pièces par jour, mais au maximum 300 par année[^20-1][^20-2]
+- b) salmonidés — 5 pièces par jour, mais au maximum 300 par année
 - c) perches — 50 pièces par jour
 - d) vairons — 50 pièces par jour
 - e) carpes — 2 pièces par jour
 
-[^20-1]: La limitation de capture est fixée à 8 pièces par jour pour les permis annuels, mais au maximum 300 par année.
-[^20-2]: Pour les tronçons réservés à la pratique de la pêche à la mouche la limite est fixée à 2 pièces par jour.
+<sup>2</sup> Pour les permis annuels, la limitation de capture des salmonidés est fixée à 8 pièces par jour, mais au maximum 300 par année.
 
-#### Art. 21
+<sup>3</sup> Pour les tronçons réservés à la pratique de la pêche à la mouche, la limite de capture des salmonidés est fixée à 2 pièces par jour.
+
+#### Art. 24
 
 **Écrevisses**
 
-<sup>1</sup> L’écrevisse est protégée sur tout le territoire cantonal.
+<sup>1</sup> Les écrevisses sont protégées sur tout le territoire cantonal.
 
-### 4 Dispositions finales
+## 4 Disposition finale
 
-#### Art. 22
+#### Art. 25
 
-**Exécution et abrogation**
+**Exécution**
 
-<sup>1</sup> Le Département en charge de la pêche est chargé de l’exécution du présent arrêté qui abroge l’arrêté du 27 novembre 2013 sur l’exercice de la pêche ainsi que ses avenants.
+<sup>1</sup> Le département en charge de la pêche est chargé de l’exécution du présent arrêté.
 
-RCV RO/AGS 2018-075
+RCV RO/AGS 2024-022
