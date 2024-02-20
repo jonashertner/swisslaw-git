@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Verordnung des BLV vom 6. August 2021 über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: de
-version: 2023-11-15
+version: 2024-02-21
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20231115/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20231115-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20231115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20240221/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20240221-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20240221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen
 
-vom 6. August 2021 (Stand am 15. November 2023)
+vom 6. August 2021 (Stand am 21. Februar 2024)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -59,14 +59,15 @@ Sie regelt die Einfuhr der folgenden Tiere und Tierprodukte aus Mitgliedstaaten 
 
 Die Einfuhr von lebenden Tieren und Tierprodukten nach Artikel 1 Absatz 2 aus den folgenden Gebieten der betroffenen Mitgliedstaaten ist verboten:
 
-- a. aus den in der Durchführungsverordnung (EU) 2023/594[^2-1] geregelten Sperrzonen und infizierten Zonen;
-- b. aus den gestützt auf die Delegierte Verordnung (EU) 2020/687[^2-2] festgelegten infizierten Zonen und Sperrzonen.[^2-3]
+- a.[^2-1] aus den in der Durchführungsverordnung (EU) 2023/594[^2-2] geregelten Sperrzonen und infizierten Zonen;
+- b. aus den gestützt auf die Delegierte Verordnung (EU) 2020/687[^2-3] festgelegten infizierten Zonen und Sperrzonen.[^2-4]
 
 <sup>2</sup> Die Einfuhr von lebenden Wildschweinen aus dem gesamten Hoheitsgebiet von Mitgliedstaaten der EU, Island und Norwegen ist verboten.
 
-[^2-1]: Durchführungsverordnung (EU) 2023/594 der Kommission vom 16. März 2023 mit besonderen Seuchenbekämpfungsmassnahmen in Bezug auf die Afrikanische Schweinepest und zur Aufhebung der Durchführungsverordnung (EU) 2021/605, ABl. L 79 vom 17.3.2023, S. 65; zuletzt geändert durch Durchführungsverordnung (EU) 2023/2469, ABl. L vom 3.11.2023.
-[^2-2]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; zuletzt geändert durch Delegierte Verordnung (EU) 2023/751, ABl. L 100 vom 13.4.2023, S. 7.
-[^2-3]: Fassung gemäss Ziff. I der V des BLV vom 10. Nov. 2023, in Kraft seit 15. Nov. 2023 ([AS 2023 644](https://fedlex.data.admin.ch/eli/oc/2023/644)).
+[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2024, in Kraft seit 21. Febr. 2024 ([AS 2024 77](https://fedlex.data.admin.ch/eli/oc/2024/77)).
+[^2-2]: Durchführungsverordnung (EU) 2023/594 der Kommission vom 16. März 2023 mit besonderen Seuchenbekämpfungsmassnahmen in Bezug auf die Afrikanische Schweinepest und zur Aufhebung der Durchführungsverordnung (EU) 2021/605, ABl. L 79 vom 17.3.2023, S. 65; zuletzt geändert durch Durchführungsverordnung (EU) 2024/483, ABl. L, 2024/483, 6.2.2024.
+[^2-3]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; zuletzt geändert durch Delegierte Verordnung (EU) 2023/751, ABl. L 100 vom 13.4.2023, S. 7.
+[^2-4]: Fassung gemäss Ziff. I der V des BLV vom 10. Nov. 2023, in Kraft seit 15. Nov. 2023 ([AS 2023 644](https://fedlex.data.admin.ch/eli/oc/2023/644)).
 
 #### Art. 3
 
@@ -137,7 +138,7 @@ Anhang[^t-1]
 
 ## Betroffene Mitgliedstaaten und Gebiete
 
-[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 10. Nov. 2023, in Kraft seit 15. Nov. 2023 ([AS 2023 644](https://fedlex.data.admin.ch/eli/oc/2023/644)).
+[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 16. Febr. 2024, in Kraft seit 21. Febr. 2024 ([AS 2024 77](https://fedlex.data.admin.ch/eli/oc/2024/77)).
 
 ### 1 Sperrzonen und infizierte Zonen nach der Durchführungsverordnung (EU) 2023/594
 
@@ -145,7 +146,7 @@ Die Mitgliedstaaten der EU und die dort geltenden Sperrzonen und infizierten Zon
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsverordnung (EU) 2023/594</td><td>Durchführungsverordnung (EU) 2023/594 der Kommission vom 16. März 2023 mit besonderen Seuchenbekämpfungsmassnahmen in Bezug auf die Afrikanische Schweinepest und zur Aufhebung der Durchführungsverordnung (EU) 2021/605, ABl. L 79 vom 17.3.2023, S. 65; zuletzt geändert durch Durchführungsverordnung (EU) 2023/2469, ABl. L vom 3.11.2023</td></tr>
+<tr><td>Durchführungsverordnung (EU) 2023/594</td><td>Durchführungsverordnung (EU) 2023/594 der Kommission vom 16. März 2023 mit besonderen Seuchenbekämpfungsmassnahmen in Bezug auf die Afrikanische Schweinepest und zur Aufhebung der Durchführungsverordnung (EU) 2021/605, ABl. L 79 vom 17.3.2023, S. 65; zuletzt geändert durch Durchführungsverordnung (EU) 2024/483, ABl. L, 2024/483, 6.2.2024</td></tr>
 </table>
 
 ### 1.1 Sperrzonen nach Anhang I der Durchführungsverordnung (EU) 2023/594
@@ -174,6 +175,8 @@ Lettland
 
 Polen
 
+Schweden
+
 Slowakei
 
 Tschechien
@@ -190,6 +193,8 @@ Deutschland
 
 Estland
 
+Griechenland
+
 Italien
 
 Kroatien
@@ -199,6 +204,8 @@ Lettland
 Litauen
 
 Polen
+
+Schweden
 
 Slowakei
 
@@ -210,15 +217,13 @@ Ungarn
 
 In folgenden Mitgliedstaaten der EU bestehen Sperrzonen III:
 
-Bulgarien
-
 Deutschland
-
-Estland
 
 Griechenland
 
 Italien
+
+Kroatien
 
 Lettland
 
@@ -237,21 +242,13 @@ In Anhang II der Durchführungsverordnung (EU) 2023/594 werden bestimmte Gebiete
 
 ### Mitgliedstaaten mit infizierten Zonen
 
-In folgenden Mitgliedstaaten der EU bestehen infizierte Zonen:
-
-Italien
+In folgendem Mitgliedstaat der EU bestehen infizierte Zonen:
 
 Kroatien
-
-Schweden
 
 ### Mitgliedstaaten mit Sperrzonen
 
-In folgenden Mitgliedstaaten der EU bestehen Sperrzonen:
-
-Italien
-
-Kroatien
+Es gibt keine Mitgliedstaaten der EU mit Sperrzonen nach Anhang II der Durchführungsverordnung (EU) 2023/594.
 
 ### 2 Infizierte Zonen und Sperrzonen nach der Delegierten Verordnung (EU) 2020/687
 

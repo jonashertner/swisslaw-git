@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordonnance de l’OSAV du 6 août 2021 instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: fr
-version: 2023-11-15
+version: 2024-02-21
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20231115/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20231115-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20231115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20240221/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20240221-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20240221/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège
 
-du 6 août 2021 (État le 15 novembre 2023)
+du 6 août 2021 (État le 21 février 2024)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -59,14 +59,15 @@ Elle règle l’importation en provenance des États membres de l’Union europ�
 
 Il est interdit d’importer les animaux et produits animaux visés à l’art. 1, al. 2, en provenance des zones ci-après des États membres concernés:
 
-- a. zones infectées et zones réglementées dans le règlement d’exécution (UE) 2023/594[^2-1];
-- b. zones infectées et zones réglementées définies sur la base du règlement délégué (UE) 2020/687[^2-2].[^2-3]
+- a.[^2-1] zones infectées et zones réglementées dans le règlement d’exécution (UE) 2023/594[^2-2];
+- b. zones infectées et zones réglementées définies sur la base du règlement délégué (UE) 2020/687[^2-3].[^2-4]
 
 <sup>2</sup> Il est interdit d’importer des sangliers vivants en provenance de l’entier du territoire des États membres de l’UE, de Norvège et d’Islande.
 
-[^2-1]: Règlement d’exécution (UE) 2023/594 de la Commission du 16 mars 2023 établissant des mesures spéciales de lutte contre la peste porcine africaine et abrogeant le règlement d’exécution (UE) 2021/605, JO L 79 du 17.3.2023, p. 65; modifié en dernier lieu par le règlement d’exécution (UE) 2023/2469, JO L du 3.11.2023.
-[^2-2]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles‑ci, JO L 174 du 3.6.2020, p. 64; modifié en dernier lieu par le règlement délégué (UE) 2023/751, JO L 100 du 13.4.2023, p. 7.
-[^2-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 10 nov. 2023, en vigueur depuis le 15 nov. 2023 ([RO 2023 644](https://fedlex.data.admin.ch/eli/oc/2023/644)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 16 fév. 2024, en vigueur depuis le 21 fév. 2024 ([RO 2024 77](https://fedlex.data.admin.ch/eli/oc/2024/77)).
+[^2-2]: Règlement d’exécution (UE) 2023/594 de la Commission du 16 mars 2023 établissant des mesures spéciales de lutte contre la peste porcine africaine et abrogeant le règlement d’exécution (UE) 2021/605, JO L 79 du 17.3.2023, p. 65; modifié en dernier lieu par le règlement d’exécution (UE) 2024/483, JO L, 2024/483, 6.2.2024.
+[^2-3]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles‑ci, JO L 174 du 3.6.2020, p. 64; modifié en dernier lieu par le règlement délégué (UE) 2023/751, JO L 100 du 13.4.2023, p. 7.
+[^2-4]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 10 nov. 2023, en vigueur depuis le 15 nov. 2023 ([RO 2023 644](https://fedlex.data.admin.ch/eli/oc/2023/644)).
 
 #### Art. 3
 
@@ -137,7 +138,7 @@ Annexe[^t-1]
 
 ## États membres et zones concernés
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 10 nov. 2023, en vigueur depuis le 15 nov. 2023 ([RO 2023 644](https://fedlex.data.admin.ch/eli/oc/2023/644)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 16 fév. 2024, en vigueur depuis le 21 fév. 2024 ([RO 2024 77](https://fedlex.data.admin.ch/eli/oc/2024/77)).
 
 ### 1 Zones réglementées et zones infectées selon le règlement d’exécution (UE) 2023/594
 
@@ -145,7 +146,7 @@ Les États membres de l’UE et les zones réglementées et les zones infectées
 
 <table>
 <tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
-<tr><td>Règlement d’exécution (UE) 2023/594</td><td>Règlement d’exécution (UE) 2023/594 de la Commission du 16 mars 2023 établissant des mesures spéciales de lutte contre la peste porcine africaine et abrogeant le règlement d’exécution (UE) 2021/605, JO L 79 du 17.3.2023, p. 65; modifié en dernier lieu par le règlement d’exécution (UE) 2023/2469, JO L du 3.11.2023</td></tr>
+<tr><td>Règlement d’exécution (UE) 2023/594</td><td>Règlement d’exécution (UE) 2023/594 de la Commission du 16 mars 2023 établissant des mesures spéciales de lutte contre la peste porcine africaine et abrogeant le règlement d’exécution (UE) 2021/605, JO L 79 du 17.3.2023, p. 65; modifié en dernier lieu par le règlement d’exécution (UE) 2024/483, JO L, 2024/483, 6.2.2024</td></tr>
 </table>
 
 ### 1.1 Zones réglementées figurant à l’annexe I du règlement d’exécution (UE) 2023/594
@@ -176,6 +177,8 @@ Lettonie
 
 Pologne
 
+Suède
+
 Slovaquie
 
 Tchéquie
@@ -192,6 +195,8 @@ Croatie
 
 Estonie
 
+Grèce
+
 Hongrie
 
 Italie
@@ -201,6 +206,8 @@ Lettonie
 Lituanie
 
 Pologne
+
+Suède
 
 Slovaquie
 
@@ -212,9 +219,7 @@ Des zones réglementées III ont été délimitées dans les États membres de l
 
 Allemagne
 
-Bulgarie
-
-Estonie
+Croatie
 
 Grèce
 
@@ -237,21 +242,13 @@ L’annexe II du règlement d’exécution (UE) 2023/594 classe certaines zones 
 
 ### États membres comprenant des zones infectées
 
-Des zones infectées ont été délimitées dans les États membres de l’UE suivants:
+Des zones infectées ont été délimitées dans l’État membre de l’UE suivant:
 
 Croatie
-
-Italie
-
-Suède
 
 ### États membres comprenant des zones réglementées
 
-Des zones réglementées ont été délimitées dans les États membres de l’UE suivants:
-
-Croatie
-
-Italie
+Aucune zone réglementée selon l’annexe II du règlement d’exécution (UE) 2023/594 n’a été délimitée dans les États membres de l’UE.
 
 ### 2 Zones infectées et zones réglementées selon le règlement délégué (UE) 2020/687
 
@@ -259,7 +256,7 @@ Italie
 
 Aucune zone infectée selon le règlement délégué (UE) 2020/687[^annexu1-lvlu1-lvl2-lvl21-1] n’a été délimitée dans les États membres de l’UE hors des zones mentionnées au ch. 1.
 
-[^annexu1-lvlu1-lvl2-lvl21-1]: Cf. note de bas de page relative à l’art. 2, al. 1, let. b.
+[^annexu1-lvlu1-lvl2-lvl21-1]: Cf. note de bas de page relative à l’art. 2, al. 1, let. b
 
 ### 2.2 Zones réglementées
 
