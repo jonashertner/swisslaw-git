@@ -3,11 +3,11 @@ sr: "0.672.923.21"
 title: Abkommen vom 5. Mai 1997 zwischen der Schweiz und Kanada zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (mit Auslegungsprotokoll und Briefwechsel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/299"
 language: de
-version: 2013-10-31
+version: 2024-02-21
 adopted: 1997-05-05
 in_force: 1998-04-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/299/20131031/de/xml/fedlex-data-admin-ch-eli-cc-2002-299-20131031-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/299/20131031/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/299/20240221/de/xml/fedlex-data-admin-ch-eli-cc-2002-299-20240221-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/299/20240221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2002** 2014; BBl **1997** III 1453
 
 Abgeschlossen am 5. Mai 1997 Von der Bundesversammlung genehmigt am 19. Dezember 1997[^t-1] Ratifikationsurkunden ausgetauscht am 21. April 1998 In Kraft getreten am 21. April 1998
 
-(Stand am 31. Oktober 2013)
+(Stand am 21. Februar 2024)
 
 [^t-1]: [AS 2002 2013](https://fedlex.data.admin.ch/eli/oc/2002/298)
 
@@ -44,7 +44,9 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 <sup>2.</sup> Als Steuern vom Einkommen und vom Vermögen gelten alle Steuern, die vom Gesamteinkommen, vom Gesamtvermögen oder von Teilen des Einkommens oder des Vermögens erhoben werden, einschliesslich der Steuern vom Gewinn aus der Veräusserung beweglichen oder unbeweglichen Vermögens sowie der Steuern vom Vermögenszuwachs.
 
-<sup>3.</sup> Zu den bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere
+<sup>3.</sup>
+
+Zu den bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere:
 
 - a) in Kanada: die von der kanadischen Regierung auf Grund des Einkommenssteuergesetzes erhobenen Steuern,
 - (im Folgenden als «kanadische Steuer» bezeichnet);
@@ -199,15 +201,17 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 <sup>3.</sup> Die Absätze 1 und 2 gelten auch für die in diesen Absätzen genannten Gewinne eines Unternehmens eines Vertragsstaates aus der Beteiligung an einem Pool, einer Betriebsgemeinschaft oder einer internationalen Betriebsstelle.
 
-<sup>4.</sup> In diesem Artikel,
+<sup>4.</sup>
+
+In diesem Artikel:
 
 - a) umfasst der Ausdruck «Gewinne» Zinsen auf Mitteln, die unmittelbar aus dem Betrieb von Schiffen oder Luftfahrzeugen im internationalen Verkehr stammen, sofern diese Zinsen Nebeneinkünfte darstellen;
 - b)
 
   umfasst der Ausdruck «Betrieb von Schiffen oder Luftfahrzeugen im internationalen Verkehr» durch eine Person:
 
-  - (i) die Vercharterung oder Vermietung von Schiffen oder Luftfahrzeugen und
-  - (ii) die Vermietung von Containern und ähnlichen Ausrüstungen
+  - (i) die Vercharterung oder Vermietung von Schiffen oder Luftfahrzeugen, und
+  - (ii) die Vermietung von Containern und ähnlichen Ausrüstungen,
 
 - durch diese Person, sofern diese Vercharterung oder Vermietung eine Nebentätigkeit zum Betrieb von Schiffen oder Luftfahrzeugen im internationalen Verkehr durch diese Person darstellt.
 
@@ -217,12 +221,12 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 **Verbundene Unternehmen**
 
-<sup>1.</sup> Wenn
+<sup>1.</sup> und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
 
-und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
+Wenn:
 
-- a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist oder
-- b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind
+- a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist; oder
+- b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind,
 
 <sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet – und entsprechend besteuert – mit denen ein Unternehmen des anderen Vertragsstaates in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Vertragsstaates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so können sich die zuständigen Behörden der Vertragsstaaten zur Herbeiführung einer Einigung über die Berichtigung der Gewinne in den beiden Vertragsstaaten konsultieren.
 
@@ -240,7 +244,7 @@ und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finan
 
 Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber, wenn der Empfänger der Dividenden der Nutzungsberechtigte ist, nicht übersteigen:
 
-- a) 5 vom Hundert des Bruttobetrags der Dividenden, wenn der Nutzungsberechtigte eine Gesellschaft ist, die über mindestens 10 vom Hundert der Stimmrechte und des Kapitals der die Dividenden zahlenden Gesellschaft verfügt;
+- a)[^10-2] 5 vom Hundert des Bruttobetrags der Dividenden, wenn der Nutzungsberechtigte eine Gesellschaft ist, die unmittelbar oder mittelbar über mindestens 10 vom Hundert der Stimmrechte und des Kapitals der die Dividenden zahlenden Gesellschaft verfügt;
 - b) 15 vom Hundert des Bruttobetrags der Dividenden in allen anderen Fällen.
 
 <sup>3.</sup>
@@ -273,14 +277,15 @@ Ungeachtet aller sonstigen Bestimmungen dieses Abkommens kann Kanada die den in 
 - b) aller Steuern, die in Kanada auf diesen Gewinnen erhoben werden, ausgenommen die in diesem Absatz erwähnte zusätzliche Steuer;
 - c) der in Kanada reinvestierten Gewinne, wobei Einverständnis darüber besteht, dass dieser Abzugsbetrag nach den gegenwärtig geltenden Bestimmungen des kanadischen Rechts über die Ermittlung des Abzugs für Anlagen in kanadischen Vermögenswerten und nach späteren Änderungen dieser Bestimmungen, die den allgemeinen Grundsatz dieser Bestimmung nicht beeinträchtigen sollen, berechnet wird; und
 - d) fünfhunderttausend kanadischer Dollars (Can$ 500 000) abzüglich aller Beträge, die
-  - (i) von der Gesellschaft oder
-  - (ii) von einer mit ihr verbundenen Person auf Grund einer gleichen oder ähnlichen Geschäftstätigkeit wie diejenige der Gesellschaft
+  - (i) von der Gesellschaft, oder
+  - (ii) von einer mit ihr verbundenen Person auf Grund einer gleichen oder ähnlichen Geschäftstätigkeit wie diejenige der Gesellschaft;
 
 - nach diesem Buchstaben d) abgezogen worden sind; im Sinne dieses Buchstabens d) gilt eine Gesellschaft als mit einer anderen Gesellschaft verbunden, wenn eine Gesellschaft die andere unmittelbar oder mittelbar beherrscht oder wenn beide Gesellschaften unmittelbar oder mittelbar von derselben Person oder denselben Personen beherrscht werden, oder wenn die Preisgestaltung zwischen den beiden Gesellschaften nicht den Gesetzen des freien Marktes folgt.
 
 <sup>8.</sup> Die Bestimmungen der Absätze 1, 2 Buchstabe b) und 5 gelten auch für Einkünfte, die eine in der Schweiz ansässige Person aus einem Nachlass (estate) oder einem Trust bezieht, die in Kanada ansässige Personen sind. Bei Anwendung von Artikel 22 Absatz 2 Buchstabe b) umfasst der Ausdruck «Dividenden» auch die genannten Einkünfte.
 
 [^10-1]: Bereinigt gemäss Art. IV des Prot. vom 22. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 16. Dez. 2011 ([AS 2012 417](https://fedlex.data.admin.ch/eli/oc/2012/47)[415](https://fedlex.data.admin.ch/eli/oc/2012/46); [BBl 2011 139](https://fedlex.data.admin.ch/eli/fga/2011/5)).
+[^10-2]: Berichtigung vom 21. Febr. 2024 ([AS 2024 79](https://fedlex.data.admin.ch/eli/oc/2024/79)).
 
 #### Art. 11
 
@@ -323,7 +328,7 @@ Ungeachtet aller sonstigen Bestimmungen dieses Abkommens kann Kanada die den in 
 Ungeachtet des Absatzes 2 können:
 
 - a) Lizenzgebühren für Urheberrechte und andere ähnliche Vergütungen für die Herstellung oder Wiedergabe literarischer, dramatischer, musikalischer oder anderer künstlerischer Werke (ausgenommen jedoch Lizenzgebühren für kinematographische Filme oder für Filme, Bildaufzeichnungen oder andere Wiedergabemittel für das Fernsehen);
-- b) Lizenzgebühren für die Benutzung oder für das Recht auf Benutzung von Computersoftware; und,
+- b) Lizenzgebühren für die Benutzung oder für das Recht auf Benutzung von Computersoftware; und
 - c)[^12-1] Lizenzgebühren für die Benutzung oder das Recht auf Benutzung von Patenten oder für die Mitteilung gewerblicher, kaufmännischer oder wissenschaftlicher Erfahrung (ausgenommen der Mitteilung auf Grund eines Miet- oder Franchisingvertrages),
 
 <sup>4.</sup> Der in diesem Artikel verwendete Ausdruck «Lizenzgebühren» bedeutet Vergütungen jeder Art, die für die Benutzung oder für das Recht auf Benutzung von Urheberrechten, Patenten, Marken, Mustern oder Modellen, Plänen, geheimen Formeln oder Verfahren oder sonstigen immateriellen Gütern oder für die Benutzung oder das Recht auf Benutzung gewerblicher, kaufmännischer oder wissenschaftlicher Ausrüstungen oder für die Mitteilung gewerblicher, kaufmännischer oder wissenschaftlicher Erfahrungen gezahlt werden; dieser Ausdruck umfasst auch Vergütungen jeder Art für kinematographische Filme und für Filme, Bildaufzeichnungen oder andere Wiedergabemittel für das Fernsehen.
@@ -390,8 +395,8 @@ Gewinne, die eine in einem Vertragsstaat ansässige Person aus der Veräusserung
 
 Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn:
 
-- a) der Empfänger sich im anderen Staat insgesamt nicht länger als 183 Tage während des betreffenden Steuerjahres aufhält, und
-- b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Staat ansässig ist, und
+- a) der Empfänger sich im anderen Staat insgesamt nicht länger als 183 Tage während des betreffenden Steuerjahres aufhält; und
+- b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Staat ansässig ist; und
 - c) die Vergütungen nicht von einer Betriebsstätte oder einer festen Einrichtung getragen werden, die der Arbeitgeber im anderen Staat hat.
 
 <sup>3.</sup> Ungeachtet der vorstehenden Bestimmungen dieses Artikels können Vergütungen für unselbständige Arbeit, die an Bord eines Schiffes oder Luftfahrzeuges ausgeübt wird, das ein Unternehmen eines Vertragsstaates im internationalen Verkehr betreibt, in diesem Staat besteuert werden.
@@ -622,7 +627,7 @@ Dieses Abkommen bleibt auf unbestimmte Zeit in Kraft, kann aber von jedem Vertra
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Bern am 5. Mai 1997 im Doppel in französischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Für den Schweizerischen Bundesrat: Kaspar Villiger Für die Regierung von Kanada: Réjean Frenette
 
-Auslegungsprotokoll**[^t-2]**
+Auslegungsprotokoll[^t-2]
 
 Der Schweizerische Bundesrat und die Regierung von Kanada
 
@@ -649,7 +654,7 @@ Absatz 3 Buchstabe c ist nicht anzuwenden, wenn der für eine Schuldverpflichtun
 - d) Obwohl Artikel 25 des Abkommens die für den Informationsaustausch möglichen Verfahrensweisen nicht einschränkt, sind die Vertragsstaaten nicht verpflichtet, Informationen auf automatischer oder spontaner Basis auszutauschen.
 - e) Es besteht Einvernehmen darüber, dass im Falle des Austauschs von Informationen die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts über die Rechte der Steuerpflichtigen vorbehalten bleiben, bevor die Informationen an den ersuchenden Staat übermittelt werden. Es besteht im Weiteren Einvernehmen darüber, dass diese Bestimmung dazu dient, der steuerpflichtigen Person ein ordnungsgemässes Verfahren zu gewähren, und nicht bezweckt, den wirksamen Informationsaustausch zu verhindern oder übermässig zu verzögern.
 
-## Briefwechsel zwischen dem Schweizerischen Bundesrat und der Regierung von Kanada zur Änderung des Abkommens zwischen dem Schweizerischen Bundesrat und der Regierung von Kanada zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen, unterzeichnet am 5. Mai 1997 in Bern****
+## Briefwechsel zwischen dem Schweizerischen Bundesrat und der Regierung von Kanada zur Änderung des Abkommens zwischen dem Schweizerischen Bundesrat und der Regierung von Kanada zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen, unterzeichnet am 5. Mai 1997 in Bern
 
 [^annexu1-lvlu2-1]
 
@@ -681,7 +686,7 @@ Genehmigen Sie, Ihre Exzellenz, die Versicherung meiner ausgezeichneten Hochacht
 <tr><td></td><td>Hans-Rudolf Merz Bundesrat</td></tr>
 </table>
 
-## Artikel XIII des Protokolls vom 22. Oktober 2010****
+## Artikel XIII des Protokolls vom 22. Oktober 2010
 
 [^annexu1-lvlu3-1]
 
@@ -697,7 +702,7 @@ Genehmigen Sie, Ihre Exzellenz, die Versicherung meiner ausgezeichneten Hochacht
 - a) Artikel X Absatz 2 dieses Protokolls Anwendung auf Verfahren, die am Datum des Inkrafttretens dieses Protokolls bei den zuständigen Behörden hängig sind oder die nach diesem Datum hängig werden;
 - b) Artikel X Absatz 4 dieses Protokolls ab dem Datum Anwendung, das in dem in dieser Bestimmung genannten diplomatischen Notenwechsel festgelegt wird.
 
-## Briefwechsel vom 28. Juni/23. Juli 2012 zwischen dem Schweizerischen Bundesrat und der Regierung von Kanada betreffend das am 22. Oktober 2010 in Bern unterzeichnete Protokoll zur Änderung des am 5. Mai 1997 in Bern unterzeichneten Abkommens zwischen dem Schweizerischen Bundesrat und der Regierung von Kanada zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen****
+## Briefwechsel vom 28. Juni/23. Juli 2012 zwischen dem Schweizerischen Bundesrat und der Regierung von Kanada betreffend das am 22. Oktober 2010 in Bern unterzeichnete Protokoll zur Änderung des am 5. Mai 1997 in Bern unterzeichneten Abkommens zwischen dem Schweizerischen Bundesrat und der Regierung von Kanada zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 
 [^annexu1-lvlu4-1]
 

@@ -3,11 +3,11 @@ sr: "0.672.923.21"
 title: Convenzione del 5 maggio 1997 tra la Confederazione Svizzera e il Canada per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (con Prot. e Scambi di lettere)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/299"
 language: it
-version: 2013-10-31
+version: 2024-02-21
 adopted: 1997-05-05
 in_force: 1998-04-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/299/20131031/it/xml/fedlex-data-admin-ch-eli-cc-2002-299-20131031-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/299/20131031/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/299/20240221/it/xml/fedlex-data-admin-ch-eli-cc-2002-299-20240221-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/299/20240221/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/299/20131031/it"
 
 RU **2002** 2014: FF **1997** III 1453
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa il 5 maggio 1997 Approvata dall’Assemblea federale il 19 dicembre 1997[^t-2] Ratificata con strumenti scambiati il 21 aprile 1998 Entrata in vigore il 21 aprile 1998
+Conclusa il 5 maggio 1997 Approvata dall’Assemblea federale il 19 dicembre 1997[^t-1] Ratificata con strumenti scambiati il 21 aprile 1998 Entrata in vigore il 21 aprile 1998
 
-(Stato 31 ottobre 2013)
+(Stato 21 febbraio 2024)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 2002 2013](https://fedlex.data.admin.ch/eli/oc/2002/298)
+[^t-1]: [RU 2002 2013](https://fedlex.data.admin.ch/eli/oc/2002/298)
 
 Il Consiglio federale svizzero e il Governo del Canada,
 
@@ -51,7 +50,7 @@ Le imposte attuali cui si applica la Convenzione sono in particolare:
 
 - a) per quanto concerne il Canada: le imposte prelevate dal Governo del Canada in base alla legge concernente l’imposta sul reddito (loi de l’impôt sur le revenu) (qui di seguito indicate quali «imposta canadese»);
 - b) per quanto concerne la Svizzera: le imposte federali, cantonali e comunali
-  - (i) sul reddito (reddito complessivo, reddito del lavoro, reddito del patrimonio, utili industriali e commerciali, utili di capitale e altri redditi); e
+  - (i) sul reddito (reddito complessivo, reddito del lavoro, reddito del patrimonio, utili industriali e commerciali, utili di capitale e altri redditi), e
   - (ii) sul patrimonio (patrimonio complessivo, patrimonio mobiliare ed immobiliare, patrimonio industriale e commerciale, capitale e riserve ed altri elementi del patrimonio),
   - [tab] (qui di seguito indicate quali «imposta svizzera»).
 
@@ -69,8 +68,8 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
 
   il termine «Canada», usato in senso geografico, designa il territorio del Canada compresi:
 
-- (A) le zone situate fuori delle acque territoriali canadesi che, in accordo con il diritto internazionale e secondo il diritto canadese, appartengono alle zone sulle quali il Canada può esercitare i suoi diritti per quanto concerne il fondo e il sottosuolo marini nonché le loro risorse naturali; e
-- (B) i mari e lo spazio aereo sovrastante le zone menzionate nella lettera (A) in relazione ad attività concernenti l’esplorazione e l’estrazione di risorse naturali in esse contenute;
+- (A) le zone situate fuori delle acque territoriali canadesi che, in accordo con il diritto internazionale e secondo il diritto canadese, appartengono alle zone sulle quali il Canada può esercitare i suoi diritti per quanto concerne il fondo e il sottosuolo marini nonché le loro risorse naturali, e
+- (B) i mari e lo spazio aereo sovrastante le zone menzionate nella lettera (A) in relazione ad attività concernenti l’esplorazione e l’estrazione di risorse naturali in esse contenute,
 
   - (ii) il termine «Svizzera» designa la Confederazione Svizzera;
 
@@ -82,7 +81,7 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
 
   l’espressione «autorità competente» designa:
 
-  - (i) per quanto concerne il Canada, il «Ministre du Revenu national» o il suo rappresentante autorizzato;
+  - (i) per quanto concerne il Canada, il «Ministre du Revenu national» o il suo rappresentante autorizzato,
   - (ii) per quanto concerne la Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato;
 
 - g) il termine «imposta» designa, a seconda del contesto, l’imposta canadese o l’imposta svizzera;
@@ -90,7 +89,7 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
 
   il termine «cittadini» designa:
 
-  - (i) tutte le persone fisiche che hanno la cittadinanza di uno Stato contraente;
+  - (i) tutte le persone fisiche che hanno la cittadinanza di uno Stato contraente,
   - (ii) tutte le persone giuridiche, le società di persone e associazioni di persone costituite conformemente alla legislazione in vigore in uno Stato contraente.
 
 [^3-1]: Nuovo testo giusta l’art. I del Prot. del 22 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 16 dic. 2011 ([RU 2012 417](https://fedlex.data.admin.ch/eli/oc/2012/47)[415](https://fedlex.data.admin.ch/eli/oc/2012/46); [FF 2011 137](https://fedlex.data.admin.ch/eli/fga/2011/5)).
@@ -206,8 +205,8 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
   il termine «esercizio, in traffico internazionale, di navi o di aeromobili» da parte di una persona comprende:
 
-  - (i) il noleggio o la locazione di navi o di aeromobili e
-  - (ii) la locazione di contenitori ed equipaggiamenti analoghi
+  - (i) il noleggio o la locazione di navi o di aeromobili, e
+  - (ii) la locazione di contenitori ed equipaggiamenti analoghi,
 
 - da parte di questa persona, a condizione che detto noleggio o detta locazione costituisca un’attività accessoria dell’esercizio, in traffico internazionale, di navi o di aeromobili da parte di questa persona.
 
@@ -219,7 +218,7 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 Allorché:
 
-- a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente o
+- a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente
 
 <sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato – e tassa in conseguenza – utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, le autorità competenti degli Stati contraenti possono consultarsi in vista di raggiungere un accordo sugli adeguamenti da portare agli utili nei due Stati contraenti.
@@ -238,7 +237,7 @@ Allorché:
 
 Tuttavia, tali dividendi possono essere tassati anche nello Stato contraente di cui la società che paga i dividendi è residente ed in conformità alla legislazione di detto Stato, ma, se la persona che riceve i dividendi ne è il beneficiario effettivo, l’imposta così applicata non può eccedere:
 
-- a) il 5 per cento dell’ammontare lordo dei dividendi, se il beneficiario effettivo è una società che detiene direttamente o indirettamente almeno il 10 per cento dei diritti di voto e del capitale della società che paga i dividendi;
+- a)[^10-2] il 5 per cento dell’ammontare lordo dei dividendi, se il beneficiario effettivo è una società che detiene direttamente o indirettamente almeno il 10 per cento dei diritti di voto e del capitale della società che paga i dividendi;
 - b) il 15 per cento dell’ammontare lordo dei dividendi, in tutti gli altri casi.
 
 <sup>3.</sup>
@@ -274,14 +273,15 @@ Nessuna disposizione della presente Convenzione può essere interpretata nel sen
 
   cinquecentomila dollari canadesi ($ 500 000), meno tutti gli ammontari dedotti secondo la presente lettera d):
 
-  - (i) dalla società o
-  - (ii) da una persona ad essa associata in virtù d’una attività commerciale identica o analoga a quella esercitata dalla società;
+  - (i) dalla società, o
+  - (ii) da una persona ad essa associata in virtù d’una attività commerciale identica o analoga a quella esercitata dalla società,
 
 - ai sensi della presente lettera d) una società è considerata associata ad un’altra società se l’una controlla direttamente o indirettamente l’altra o se le due società sono direttamente o indirettamente controllate dalla stessa persona o dalle stesse persone o se la strutturazione dei prezzi tra le due società non segue la legge del libero mercato.
 
 <sup>8.</sup> Le disposizioni dei paragrafi 1, 2 lettera b) e 5 sono applicabili anche ai redditi che un residente di Svizzera realizza da una successione (estate) o da un trust residenti del Canada. Per l’applicazione della lettera b) del paragrafo 2 dell’articolo 22, il termine «dividendi» comprende anche i menzionati redditi.
 
 [^10-1]: Aggiornato dall’art. IV del Prot. del 22 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 16 dic. 2011 ([RU 2012 417](https://fedlex.data.admin.ch/eli/oc/2012/47)[415](https://fedlex.data.admin.ch/eli/oc/2012/46); [FF 2011 137](https://fedlex.data.admin.ch/eli/fga/2011/5)).
+[^10-2]: La correzione del 21 feb. 2024 concerne soltanto il testo tedesco ([RU 2024 79](https://fedlex.data.admin.ch/eli/oc/2024/79)).
 
 #### Art. 11
 
@@ -349,15 +349,15 @@ Nonostante le disposizioni del paragrafo 2:
 
 Gli utili che un’impresa residente di uno Stato contraente ritrae dall’alienazione:
 
-- a) di navi o di aeromobili impiegati dall’impresa principalmente nel traffico internazionale o
-- b) di beni mobili (compresi contenitori e relativi equipaggiamenti) utilizzati dall’impresa principalmente in relazione con l’esercizio di dette navi o di detti aeromobili nel traffico internazionale
+- a) di navi o di aeromobili impiegati dall’impresa principalmente nel traffico internazionale; o
+- b) di beni mobili (compresi contenitori e relativi equipaggiamenti) utilizzati dall’impresa principalmente in relazione con l’esercizio di dette navi o di detti aeromobili nel traffico internazionale,
 
 <sup>4.</sup> sono imponibili in questo altro Stato. Ai sensi del presente paragrafo l’espressione «beni immobili» comprende le azioni di una società conformemente alla lettera a) o una partecipazione ad una società di persone o ad un trust conformemente alla lettera b) ma non comprende altri beni, ad eccezione dei beni locativi nei quali la società, la società di persone o il trust esercita la sua attività.
 
 Gli utili che un residente di uno Stato contraente ritrae dall’alienazione:
 
-- a) di azioni (escluse le azioni quotate ad una borsa riconosciuta dell’altro Stato contraente) che fanno parte di una importante partecipazione al capitale di una società residente di questo altro Stato e il cui valore proviene principalmente da beni immobili situati in questo altro Stato o
-- b) di una importante partecipazione ad una società di persone o ad un trust costituito in virtù della legislazione dell’altro Stato contraente ed il cui valore proviene principalmente da beni immobili situati in questo altro Stato
+- a) di azioni (escluse le azioni quotate ad una borsa riconosciuta dell’altro Stato contraente) che fanno parte di una importante partecipazione al capitale di una società residente di questo altro Stato e il cui valore proviene principalmente da beni immobili situati in questo altro Stato; o
+- b) di una importante partecipazione ad una società di persone o ad un trust costituito in virtù della legislazione dell’altro Stato contraente ed il cui valore proviene principalmente da beni immobili situati in questo altro Stato,
 
 <sup>5.</sup> Quando un residente di uno Stato contraente aliena beni nell’ambito di una costituzione, di una ristrutturazione, di una fusione, di una scissione o di un’operazione analoga e gli utili o i redditi provenienti da questa alienazione non sono riconosciuti ai fini dell’imposizione in questo Stato, se la persona che acquista i beni lo richiede, l’autorità competente dell’altro Stato contraente può, a condizioni per lui soddisfacenti, accettare di differire il riconoscimento degli utili o dei redditi relativi ai detti beni ai fini dell’imposizione in questo altro Stato fino al momento e nel modo precisati nell’accordo.
 
@@ -367,7 +367,7 @@ Gli utili che un residente di uno Stato contraente ritrae dall’alienazione:
 
 7.[^13-2] Le disposizioni del paragrafo 6 non pregiudicano il diritto del Canada di assoggettare ad imposta, conformemente alla sua legislazione, gli utili che una persona fisica residente di Svizzera ritrae dall’alienazione di un bene, tranne gli utili ai quali si applicano le disposizioni del paragrafo 8, se l’alienante:
 
-- a) possiede la cittadinanza canadese o è stato residente del Canada per almeno quindici anni prima dell’alienazione del bene e
+- a) possiede la cittadinanza canadese o è stato residente del Canada per almeno quindici anni prima dell’alienazione del bene; e
 - b) è stato residente del Canada in un momento qualunque nel corso dei cinque anni immediatamente precedenti all’alienazione del bene.
 
 [^13-1]: Introdotto dall’art. VII del Prot. del 22 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 16 dic. 2011 ([RU 2012 417](https://fedlex.data.admin.ch/eli/oc/2012/47)[415](https://fedlex.data.admin.ch/eli/oc/2012/46); [FF 2011 137](https://fedlex.data.admin.ch/eli/fga/2011/5)).
@@ -391,8 +391,8 @@ Gli utili che un residente di uno Stato contraente ritrae dall’alienazione:
 
 Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente svolta nell’altro Stato contraente sono imponibili soltanto nel primo Stato se:
 
-- a) il beneficiario soggiorna nell’altro Stato per un periodo o periodi che non oltrepassano in totale i 183 giorni nel corso dell’anno fiscale considerato, e
-- b) le rimunerazioni sono pagate da, o per conto di, un datore di lavoro che non è residente dell’altro Stato, e
+- a) il beneficiario soggiorna nell’altro Stato per un periodo o periodi che non oltrepassano in totale i 183 giorni nel corso dell’anno fiscale considerato; e
+- b) le rimunerazioni sono pagate da, o per conto di, un datore di lavoro che non è residente dell’altro Stato; e
 - c) l’onere delle rimunerazioni non è sostenuto da una stabile organizzazione o da una base fissa che il datore di lavoro ha nell’altro Stato.
 
 <sup>3.</sup> Nonostante le disposizioni precedenti del presente articolo, le rimunerazioni ricevute da un’impresa di uno Stato contraente per un’attività dipendente svolta a bordo di navi o aeromobili esercitati nel traffico internazionale, sono imponibili in detto altro Stato.
@@ -478,9 +478,9 @@ Per quanto concerne la Svizzera, la doppia imposizione sarà evitata nel modo se
 
   - (i) computo dell’imposta pagata in Canada, giusta le disposizioni degli articoli 10, 11 e 12, sull’imposta svizzera sui redditi di suddetto residente; la somma così computata non può, tuttavia, eccedere la frazione dell’imposta svizzera, calcolata prima del computo, corrispondente ai redditi imponibili in Canada; o
   - (ii) riduzione forfettaria dell’imposta svizzera; o
-  - (iii) esenzione parziale dall’imposta svizzera dei dividendi, degli interessi o dei canoni di cui si tratta, pari almeno all’imposta prelevata in Canada sull’ammontare lordo dei dividendi, degli interessi o dei canoni.
+  - (iii) esenzione parziale dall’imposta svizzera dei dividendi, degli interessi o dei canoni di cui si tratta, pari almeno all’imposta prelevata in Canada sull’ammontare lordo dei dividendi, degli interessi o dei canoni,
 
-- La Svizzera determina il tipo di sgravio applicabile e regola la procedura conformemente alle prescrizioni svizzere sull’applicazione delle convenzioni internazionali stipulate dalla Confederazione Svizzera per evitare le doppie imposizioni;
+- la Svizzera determina il tipo di sgravio applicabile e regola la procedura conformemente alle prescrizioni svizzere sull’applicazione delle convenzioni internazionali stipulate dalla Confederazione Svizzera per evitare le doppie imposizioni;
 - c) le disposizioni della lettera a) non limitano il diritto della Svizzera di imporre gli utili menzionati nel paragrafo 7 dell’articolo 13;
 - d) qualora un residente di Svizzera riceva pensioni o rendite che, conformemente alle disposizioni del paragrafo 1 dell’articolo 18 sono imponibili in Canada, la Svizzera accorda, su domanda del residente, uno sgravio pari ad un terzo dell’ammontare netto delle pensioni o delle rendite.
 
@@ -527,7 +527,7 @@ le controversie irrisolte di questo caso devono essere sottoposte a un arbitrato
 
 6.[^24-5] Se:
 
-- a) una persona ha sottoposto, ai sensi del paragrafo 1, un caso all’autorità competente di uno Stato contraente adducendo che le misure adottate da uno o da entrambi gli Stati contraenti hanno comportato per lei un’imposizione non conforme alla presente Convenzione, e
+- a) una persona ha sottoposto, ai sensi del paragrafo 1, un caso all’autorità competente di uno Stato contraente adducendo che le misure adottate da uno o da entrambi gli Stati contraenti hanno comportato per lei un’imposizione non conforme alla presente Convenzione; e
 - b) le autorità competenti non sono in grado di risolvere il caso in via di amichevole composizione ai sensi del paragrafo 2 entro tre anni dalla presentazione del caso all’autorità competente dell’altro Stato contraente,
 
 [^24-1]: Aggiornato dall’art. X del Prot. del 22 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 16 dic. 2011 ([RU 2012 417](https://fedlex.data.admin.ch/eli/oc/2012/47)[415](https://fedlex.data.admin.ch/eli/oc/2012/46); [FF 2011 137](https://fedlex.data.admin.ch/eli/fga/2011/5)).
@@ -604,7 +604,7 @@ I contributi per i servizi prestati durante un anno, pagati per lo stesso anno, 
 
 La presente Convenzione entrerà in vigore alla data dello scambio degli strumenti di ratifica e le sue disposizioni si applicheranno:
 
-- a) con riferimento alle imposte trattenute alla fonte, agli ammontari pagati o accreditati a non residenti il, o dopo il, 1° gennaio dell’anno nel corso del quale la Convenzione è entrata in vigore e
+- a) con riferimento alle imposte trattenute alla fonte, agli ammontari pagati o accreditati a non residenti il, o dopo il, 1° gennaio dell’anno nel corso del quale la Convenzione è entrata in vigore; e
 - b) con riferimento alle altre imposte, agli anni fiscali che iniziano il, o dopo il, 1° gennaio dell’anno nel corso del quale la Convenzione è entrata in vigore.
 
 <sup>3.</sup> Le disposizioni della Convenzione tra il Canada e la Svizzera per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio firmata a Berna il 20 agosto 1976[^28-1] cesseranno di avere effetto per le imposte alle quali la presente Convenzione si applica conformemente alle disposizioni del paragrafo 2.
@@ -620,9 +620,9 @@ La presente Convenzione rimarrà in vigore per una durata illimitata ma potrà e
 - a) con riferimento alle imposte trattenute alla fonte, agli ammontari pagati o accreditati a non residenti il, o dopo il, 1° gennaio dell’anno civile successivo a quello in cui è stata notificata la denuncia; e
 - b) con riferimento alle altre imposte, agli anni fiscali che iniziano il, o dopo il, 1° gennaio dell’anno civile successivo a quello in cui è stata notificata la denuncia.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Berna, il 5 maggio 1997, in due esemplari in lingua francese e inglese, ciascun testo facente egualmente fede. Per il Consiglio federale svizzero: Per il Governo del Canada: Kaspar Villiger Réjean Frenette
+*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Berna, il 5 maggio 1997, in due esemplari in lingua francese e inglese, ciascun testo facente egualmente fede. Per il Consiglio federale svizzero: Kaspar Villiger Per il Governo del Canada: Réjean Frenette
 
-Protocollo relativo all’interpretazione**[^t-3]**
+Protocollo relativo all’interpretazione[^t-2]
 
 Il Consiglio federale svizzero e il Governo del Canada
 
@@ -649,11 +649,11 @@ La lettera c) del paragrafo 3 non si applica se tutto o parte degli interessi pa
 - d) Sebbene l’articolo 25 della Convenzione non limiti i diversi possibili metodi per lo scambio di informazioni, gli Stati contraenti non sono obbligati a effettuare scambi di informazioni spontanei o automatici.
 - e) Resta inteso che, prima della trasmissione delle informazioni allo Stato richiedente, nel caso di uno scambio di informazioni si applicano nello Stato richiesto le norme di procedura amministrativa relative ai diritti del contribuente. Resta inoltre inteso che questa disposizione serve a garantire al contribuente una procedura regolare e non mira a ostacolare o ritardare senza motivo gli scambi effettivi di informazioni.
 
-## Scambio di lettere tra il Consiglio federale svizzero e il Governo del Canada che completa la Convenzione tra la Confederazione Svizzera e il Canada per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio conclusa a Berna il 5 maggio 1997****
+## Scambio di lettere tra il Consiglio federale svizzero e il Governo del Canada che completa la Convenzione tra la Confederazione Svizzera e il Canada per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio conclusa a Berna il 5 maggio 1997
 
 [^annexu1-lvlu2-1]
 
-[^t-3]: Introdotto dall’art. XII del Prot. del 22 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 16 dic. 2011 ([RU 2012 415](https://fedlex.data.admin.ch/eli/oc/2012/46)[417](https://fedlex.data.admin.ch/eli/oc/2012/47); [FF 2011 137](https://fedlex.data.admin.ch/eli/fga/2011/5)).
+[^t-2]: Introdotto dall’art. XII del Prot. del 22 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 16 dic. 2011 ([RU 2012 415](https://fedlex.data.admin.ch/eli/oc/2012/46)[417](https://fedlex.data.admin.ch/eli/oc/2012/47); [FF 2011 137](https://fedlex.data.admin.ch/eli/fga/2011/5)).
 [^annexu1-lvlu2-1]: [RU 2012 415](https://fedlex.data.admin.ch/eli/oc/2012/46)[417](https://fedlex.data.admin.ch/eli/oc/2012/47); [FF 2011 137](https://fedlex.data.admin.ch/eli/fga/2011/5)
 
 Entrato in vigore il 16 dicembre 2011
@@ -684,7 +684,7 @@ Voglia gradire, Sua Eccellenza, l’espressione della mia alta stima.
 <tr><td></td><td>Hans-Rudolf Merz Consigliere federale</td></tr>
 </table>
 
-## Art. XIII del protocollo del 22 ottobre 2010****
+## Art. XIII del protocollo del 22 ottobre 2010
 
 [^annexu1-lvlu3-1]
 
@@ -700,7 +700,7 @@ Voglia gradire, Sua Eccellenza, l’espressione della mia alta stima.
 - a) il paragrafo 2 dell’articolo X del presente Protocollo si applica nei confronti degli affari oggetto di un esame da parte delle autorità competenti alla data dell’entrata in vigore del presente Protocollo e nei confronti degli affari il cui esame comincia dopo tale data;
 - b) il paragrafo 4 dell’articolo X del presente Protocollo ha effetto alla data precisata nello scambio di note diplomatiche menzionate in questo paragrafo.
 
-Scambio di lettere del 28 giugno/23 luglio 2012**[^annexu1-lvlu3-2]**
+Scambio di lettere del 28 giugno/23 luglio 2012[^annexu1-lvlu3-2]
 
 tra il Consiglio federale svizzero e il Governo del Canada relativo al Protocollo fatto a Berna il 22 ottobre 2010 che modifica la Convenzione tra la Confederazione Svizzera e il Canada per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio, conclusa a Berna il 5 maggio 1997
 
