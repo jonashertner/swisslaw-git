@@ -3,11 +3,11 @@ sr: "0.642.045.43"
 title: Accordo del 23 dicembre 2020 tra la Confederazione Svizzera e la Repubblica Italiana relativo all’imposizione dei lavoratori frontalieri (con prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/410"
 language: it
-version: 2023-07-17
+version: 2024-02-21
 adopted: 2020-12-23
 in_force: 2023-07-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20230717/it/xml/fedlex-data-admin-ch-eli-cc-2023-410-20230717-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20230717/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20240221/it/xml/fedlex-data-admin-ch-eli-cc-2023-410-20240221-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20240221/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Concluso il 23 dicembre 2020 Approvato dall’Assemblea federale il 18 marzo 2022[^t-1] Entrato in vigore mediante scambio di note il 17 luglio 2023
 
-(Stato 17 luglio 2023)
+(Stato 21 febbraio 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 18 mar. 2022 ([RU 2023 409](https://fedlex.data.admin.ch/eli/oc/2023/409)).
 
@@ -32,7 +32,7 @@ tenendo conto dei costi sostenuti dalle aree di frontiera per infrastrutture e s
 
 considerando l’importante contributo che i lavoratori frontalieri forniscono, a vari livelli, all’economia delle aree di frontiera in cui lavorano;
 
-considerando che entrambi gli Stati contraenti applicano un sistema di imposizione mondiale dei loro residenti e che, pertanto, l’imposizione finale avviene nello Stato di residenza;
+considerando che entrambi gli Stati contraenti applicano un sistema di imposizione mondiale dei loro residenti e che, pertanto, l’imposizione finale avviene nello Stato di residenza,
 
 hanno convenuto quanto segue:
 
@@ -61,7 +61,7 @@ Ai fini del presente Accordo:
 
   - i) è fiscalmente residente in un Comune il cui territorio si trova, totalmente o parzialmente, nella zona di 20 km dal confine con l’altro Stato contraente,
   - ii) svolge un’attività di lavoro dipendente nell’area di frontiera dell’altro Stato contraente per un datore di lavoro residente, una stabile organizzazione o una base fissa di detto altro Stato, e
-  - iii) ritorna, in linea di principio, quotidianamente al proprio domicilio principale nello Stato di residenza ai sensi del punto i.;
+  - iii) ritorna, in linea di principio, quotidianamente al proprio domicilio principale nello Stato di residenza ai sensi del punto i,
 
 - le autorità competenti degli Stati contraenti stabiliscono con procedura di amichevole composizione le modalità di applicazione dei punti i. e iii. della presente lettera;
 - c)
@@ -171,7 +171,7 @@ Il presente Accordo entra in vigore alla data di ricezione dell’ultima delle n
 
 **Regime transitorio**
 
-<sup>1.</sup> Nonostante il paragrafo 1 dell’articolo 3, i salari, gli stipendi e le altre remunerazioni analoghe ricevute dai lavoratori frontalieri residenti in Italia che alla data di entrata in vigore svolgono oppure che tra il 31 dicembre 2018 e la data dell’entrata in vigore hanno svolto un’attività di lavoro dipendente nell’area di frontiera in Svizzera per un datore di lavoro ivi residente, una stabile organizzazione o una base fissa svizzere, restano imponibili soltanto in Svizzera.
+<sup>1.</sup> Nonostante il paragrafo 1 dell’articolo 3, i salari, gli stipendi e le altre remunerazioni analoghe ricevute dai lavoratori frontalieri residenti in Italia che alla data di entrata in vigore svolgono oppure che tra il 31 dicembre 2018 e la data dell’entrata in vigore hanno svolto un’attività di lavoro dipendente nell’area di frontiera in Svizzera per un datore di lavoro ivi residente, una stabile organizzazione o una base fissa svizzere, restano imponibili soltanto in Svizzera.[^9-1]
 
 <sup>2.</sup> Ognuno dei Cantoni dei Grigioni, del Ticino e del Vallese verserà ogni anno a beneficio dei comuni italiani di confine, per gli anni fiscali di riferimento sino all’anno fiscale che termina il 31 dicembre 2033, una parte del gettito fiscale proveniente dalla imposizione – a livello federale, cantonale e comunale – dei salari, degli stipendi e delle altre remunerazioni analoghe ricevute dai lavoratori frontalieri ai sensi del paragrafo 1 del presente articolo.
 
@@ -185,9 +185,10 @@ Il presente Accordo entra in vigore alla data di ricezione dell’ultima delle n
 
 <sup>7.</sup> L’articolo 7 non si applica ai lavoratori frontalieri ai sensi del paragrafo 1 del presente articolo.
 
-<sup>8.</sup> Qualora l’autorità competente di uno degli Stati contraenti venga a conoscenza di uno o più casi di abuso evidente e manifesto delle disposizioni del paragrafo 1 del presente articolo, tale autorità può sottoporre il caso o i casi all’autorità competente dell’altro Stato contraente, in base alle disposizioni previste all’articolo 6 paragrafo 1 dell’Accordo e all’articolo 26 della Convenzione contro le doppie imposizioni del 1976[^9-1] e successive modifiche, al fine di definire il corretto trattamento fiscale ai fini dell’Accordo.
+<sup>8.</sup> Qualora l’autorità competente di uno degli Stati contraenti venga a conoscenza di uno o più casi di abuso evidente e manifesto delle disposizioni del paragrafo 1 del presente articolo, tale autorità può sottoporre il caso o i casi all’autorità competente dell’altro Stato contraente, in base alle disposizioni previste all’articolo 6 paragrafo 1 dell’Accordo e all’articolo 26 della Convenzione contro le doppie imposizioni del 1976[^9-2] e successive modifiche, al fine di definire il corretto trattamento fiscale ai fini dell’Accordo.
 
-[^9-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^9-1]: La correzione del 21 feb. 2024 concerne soltanto i testi tedesco e francese ([RU 2024 78](https://fedlex.data.admin.ch/eli/oc/2024/78)).
+[^9-2]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
 
 #### Art. 10
 

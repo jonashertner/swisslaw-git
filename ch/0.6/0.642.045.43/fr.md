@@ -3,11 +3,11 @@ sr: "0.642.045.43"
 title: Accord du 23 décembre 2020 entre la Confédération suisse et la République italienne relatif à l’imposition des travailleurs frontaliers (avec prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/410"
 language: fr
-version: 2023-07-17
+version: 2024-02-21
 adopted: 2020-12-23
 in_force: 2023-07-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20230717/fr/xml/fedlex-data-admin-ch-eli-cc-2023-410-20230717-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20230717/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20240221/fr/xml/fedlex-data-admin-ch-eli-cc-2023-410-20240221-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20240221/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu le 23 décembre 2020 Approuvé par l’Assemblée fédérale le 18 mars 2022[^t-1] Entré en vigueur par échange de notes le 17 juillet 2023
 
-(État le 17 juillet 2023)
+(État le 21 février 2024)
 
 [^t-1]: Art. 1, al. 1, let. a, de l’AF du 18 mars 2022 ([RO 2023 409](https://fedlex.data.admin.ch/eli/oc/2023/409)).
 
@@ -171,7 +171,7 @@ Le présent Accord entre en vigueur à la date de réception de la dernière des
 
 **Régime transitoire**
 
-<sup>1.</sup> Nonobstant l’art. 3, par. 1, les salaires, traitements et autres rémunérations similaires reçus par les travailleurs frontaliers résidents d’Italie qui, à la date de l’entrée en vigueur, exercent, ou ont exercé entre le 31 décembre 2018 et la date de l’entrée en vigueur, une activité lucrative dépendante dans la région frontalière en Suisse pour un employeur résident, un établissement stable ou une base fixe suisse, ne sont imposables qu’en Suisse.
+<sup>1.</sup> Nonobstant l’art. 3, par. 1, les salaires, traitements et autres rémunérations similaires reçus par les travailleurs frontaliers résidents d’Italie qui, à la date de l’entrée en vigueur, exercent, ou ont exercé entre le 31 décembre 2018 et la date de l’entrée en vigueur, une activité lucrative dépendante dans la région frontalière en Suisse pour un employeur résident, un établissement stable ou une base fixe suisse, ne restent imposables qu’en Suisse.[^9-1]
 
 <sup>2.</sup> Chacun des cantons des Grisons, du Tessin et du Valais verse chaque année en faveur des communes italiennes sises à la frontière, pour les années fiscales de référence jusqu’à l’année fiscale se terminant le 31 décembre 2033, une partie des recettes fiscales provenant de l’imposition - aux niveaux fédéral, cantonal et communal - des salaires, traitements et autres rémunérations similaires perçus par les travailleurs frontaliers au sens du par. 1 du présent article.
 
@@ -185,9 +185,10 @@ Le présent Accord entre en vigueur à la date de réception de la dernière des
 
 <sup>7.</sup> L’art. 7 ne s’applique pas aux travailleurs frontaliers au sens du par. 1 du présent article.
 
-<sup>8.</sup> Lorsque l’autorité compétente de l’un des États contractants a connaissance d’un ou de plusieurs cas d’abus manifeste et évident des dispositions du par. 1 du présent article, elle peut soumettre le cas, ou les cas, à l’autorité compétente de l’autre État contractant, conformément aux dispositions du par. 1 de l’art. 6 de l’Accord et à l’art. 26 de la Convention de 1976 contre la double imposition[^9-1] ultérieurement modifiée, en vue de déterminer le traitement fiscal approprié aux fins de l’Accord.
+<sup>8.</sup> Lorsque l’autorité compétente de l’un des États contractants a connaissance d’un ou de plusieurs cas d’abus manifeste et évident des dispositions du par. 1 du présent article, elle peut soumettre le cas, ou les cas, à l’autorité compétente de l’autre État contractant, conformément aux dispositions du par. 1 de l’art. 6 de l’Accord et à l’art. 26 de la Convention de 1976 contre la double imposition[^9-2] ultérieurement modifiée, en vue de déterminer le traitement fiscal approprié aux fins de l’Accord.
 
-[^9-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^9-1]: Erratum du 21 fév. 2024 ([RO 2024 78](https://fedlex.data.admin.ch/eli/oc/2024/78)).
+[^9-2]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
 
 #### Art. 10
 

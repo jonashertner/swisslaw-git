@@ -3,11 +3,11 @@ sr: "0.642.045.43"
 title: Abkommen vom 23. Dezember 2020 zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Besteuerung der Grenzgängerinnen und Grenzgänger (mit Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/410"
 language: de
-version: 2023-07-17
+version: 2024-02-21
 adopted: 2020-12-23
 in_force: 2023-07-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20230717/de/xml/fedlex-data-admin-ch-eli-cc-2023-410-20230717-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20230717/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20240221/de/xml/fedlex-data-admin-ch-eli-cc-2023-410-20240221-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20240221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2023** 410; BBl **2021** 1917
 
 Abgeschlossen am 23. Dezember 2020 Von der Bundesversammlung genehmigt am 18. März 2022[^t-1] In Kraft getreten durch Notenaustausch am 17. Juli 2023
 
-(Stand am 17. Juli 2023)
+(Stand am 21. Februar 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 18. März 2022 ([AS 2023 409](https://fedlex.data.admin.ch/eli/oc/2023/409))
 
@@ -171,7 +171,7 @@ Das vorliegende Abkommen tritt am Tag des Eingangs der letzten der Notifikatione
 
 **Übergangsregelung**
 
-<sup>1.</sup> Ungeachtet des Artikels 3 Absatz 1 sind Löhne, Gehälter und ähnliche Vergütungen, die in Italien ansässige Grenzgängerinnen und Grenzgänger erhalten, die im Zeitpunkt des Inkrafttretens oder zwischen dem 31. Dezember 2018 und dem Zeitpunkt des Inkrafttretens im Grenzgebiet in der Schweiz für einen dort ansässigen Arbeitgeber, eine schweizerische Betriebsstätte oder eine schweizerische feste Einrichtung beschäftigt waren, nur in der Schweiz steuerbar.
+<sup>1.</sup> Ungeachtet des Artikels 3 Absatz 1 bleiben Löhne, Gehälter und ähnliche Vergütungen, die in Italien ansässige Grenzgängerinnen und Grenzgänger erhalten, die im Zeitpunkt des Inkrafttretens oder zwischen dem 31. Dezember 2018 und dem Zeitpunkt des Inkrafttretens im Grenzgebiet in der Schweiz für einen dort ansässigen Arbeitgeber, eine schweizerische Betriebsstätte oder eine schweizerische feste Einrichtung beschäftigt waren, nur in der Schweiz steuerbar.[^9-1]
 
 <sup>2.</sup> Jeder der Kantone Graubünden, Tessin und Wallis wird jedes Jahr, bis zum Steuerjahr, das am 31. Dezember 2033 endet, zugunsten der italienischen Grenzgemeinden einen Teil des Steuerbetrags überweisen, den die Besteuerung – durch Bund, Kanton und Gemeinde – der Gehälter, Löhne und ähnlichen Vergütungen abwirft, die von den Grenzgängerinnen und Grenzgängern im Sinne von Absatz 1 dieses Artikels bezogen werden.
 
@@ -185,9 +185,10 @@ Das vorliegende Abkommen tritt am Tag des Eingangs der letzten der Notifikatione
 
 <sup>7.</sup> Artikel 7 gilt nicht für Grenzgängerinnen und Grenzgänger im Sinne von Absatz 1 dieses Artikels.
 
-<sup>8.</sup> Erhält die zuständige Behörde eines Vertragsstaats Kenntnis von einem oder mehreren Fällen eines offensichtlichen und offenkundigen Missbrauchs der Bestimmungen des Absatzes 1 dieses Artikels, so kann diese Behörde den Fall oder die Fälle gemäss Artikel 6 Absatz 1 des Abkommens und Artikel 26 des Doppelbesteuerungsabkommens von 1976[^9-1] in seiner geänderten Fassung der zuständigen Behörde des anderen Vertragsstaats unterbreiten, um die angemessene steuerliche Behandlung für die Zwecke des Abkommens zu bestimmen.
+<sup>8.</sup> Erhält die zuständige Behörde eines Vertragsstaats Kenntnis von einem oder mehreren Fällen eines offensichtlichen und offenkundigen Missbrauchs der Bestimmungen des Absatzes 1 dieses Artikels, so kann diese Behörde den Fall oder die Fälle gemäss Artikel 6 Absatz 1 des Abkommens und Artikel 26 des Doppelbesteuerungsabkommens von 1976[^9-2] in seiner geänderten Fassung der zuständigen Behörde des anderen Vertragsstaats unterbreiten, um die angemessene steuerliche Behandlung für die Zwecke des Abkommens zu bestimmen.
 
-[^9-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^9-1]: Berichtigung vom 21. Febr. 2024 ([AS 2024 78](https://fedlex.data.admin.ch/eli/oc/2024/78)).
+[^9-2]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
 
 #### Art. 10
 
