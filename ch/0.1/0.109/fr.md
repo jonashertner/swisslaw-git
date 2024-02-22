@@ -3,11 +3,11 @@ sr: "0.109"
 title: Convention du 13 décembre 2006 relative aux droits des personnes handicapées
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: fr
-version: 2022-10-04
+version: 2024-02-23
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20221004/fr/xml/fedlex-data-admin-ch-eli-cc-2014-245-20221004-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20221004/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20240223/fr/xml/fedlex-data-admin-ch-eli-cc-2014-245-20240223-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20240223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 avril 2014
 
 Entrée en vigueur pour la Suisse le 15 mai 2014
 
-(État le 4 octobre 2022)
+(État le 23 février 2024)
 
 [^t-1]: [RO 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -720,7 +720,7 @@ Les textes anglais, arabe, chinois, espagnol, français et russe de la présente
 
 *En foi de quoi* les plénipotentiaires soussignés, dûment habilités par leurs gouvernements respectifs, ont signé la présente Convention. (Suivent les signatures)
 
-Champ d’application le 4 octobre 2022[^t-2]
+Champ d’application le 23 février 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -755,6 +755,7 @@ Champ d’application le 4 octobre 2022[^t-2]
 <tr><td>Burkina Faso</td><td>23 juillet</td><td>2009</td><td>22 août</td><td>2009</td></tr>
 <tr><td>Burundi</td><td>22 mai</td><td>2014</td><td>21 juin</td><td>2014</td></tr>
 <tr><td>Cambodge</td><td>20 décembre</td><td>2012</td><td>19 janvier</td><td>2013</td></tr>
+<tr><td>Cameroun</td><td>28 septembre</td><td>2023</td><td>28 octobre</td><td>2023</td></tr>
 <tr><td>Canada\*</td><td>11 mars</td><td>2010</td><td>10 avril</td><td>2010</td></tr>
 <tr><td>Cap-Vert</td><td>10 octobre</td><td>2011</td><td>9 novembre</td><td>2011</td></tr>
 <tr><td>Chili</td><td>29 juillet</td><td>2008</td><td>28 août</td><td>2008</td></tr>
@@ -802,6 +803,7 @@ Champ d’application le 4 octobre 2022[^t-2]
 <tr><td>Hongrie\*\*</td><td>20 juillet</td><td>2007</td><td>3 mai</td><td>2008</td></tr>
 <tr><td>Îles Cook</td><td>8 mai</td><td>2009 A</td><td>7 juin</td><td>2009</td></tr>
 <tr><td>Îles Marshall</td><td>17 mars</td><td>2015 A</td><td>16 avril</td><td>2015</td></tr>
+<tr><td>Îles Salomon</td><td>22 juin</td><td>2023</td><td>22 juillet</td><td>2023</td></tr>
 <tr><td>Inde</td><td>1<sup>er</sup> octobre</td><td>2007</td><td>3 mai</td><td>2008</td></tr>
 <tr><td>Indonésie</td><td>30 novembre</td><td>2011</td><td>30 décembre</td><td>2011</td></tr>
 <tr><td>Iran\*</td><td>23 octobre</td><td>2009 A</td><td>22 novembre</td><td>2009</td></tr>
@@ -823,6 +825,7 @@ Champ d’application le 4 octobre 2022[^t-2]
 <tr><td>Lettonie\*\*</td><td>1<sup>er</sup> mars</td><td>2010</td><td>31 mars</td><td>2010</td></tr>
 <tr><td>Libéria</td><td>26 juillet</td><td>2012</td><td>25 août</td><td>2012</td></tr>
 <tr><td>Libye\*</td><td>13 février</td><td>2018</td><td>15 mars</td><td>2018</td></tr>
+<tr><td>Liechtenstein\*</td><td>18 décembre</td><td>2023</td><td>17 janvier</td><td>2024</td></tr>
 <tr><td>Lituanie\*</td><td>18 août</td><td>2010</td><td>17 septembre</td><td>2010</td></tr>
 <tr><td>Luxembourg</td><td>26 septembre</td><td>2011</td><td>26 octobre</td><td>2011</td></tr>
 <tr><td>Macédoine du Nord</td><td>29 décembre</td><td>2011</td><td>28 janvier</td><td>2012</td></tr>
@@ -888,6 +891,7 @@ Champ d’application le 4 octobre 2022[^t-2]
 <tr><td>Slovénie</td><td>24 avril</td><td>2008</td><td>24 mai</td><td>2008</td></tr>
 <tr><td>Somalie</td><td>6 août</td><td>2019</td><td>5 septembre</td><td>2019</td></tr>
 <tr><td>Soudan</td><td>24 avril</td><td>2009</td><td>24 mai</td><td>2009</td></tr>
+<tr><td>Soudan du Sud</td><td>5 février</td><td>2024 A</td><td>6 mars</td><td>2024</td></tr>
 <tr><td>Sri Lanka</td><td>8 février</td><td>2016</td><td>9 mars</td><td>2016</td></tr>
 <tr><td>Suède\*\*</td><td>15 décembre</td><td>2008</td><td>14 janvier</td><td>2009</td></tr>
 <tr><td>Suisse\*\*</td><td>15 avril</td><td>2014 A</td><td>15 mai</td><td>2014</td></tr>
@@ -896,6 +900,7 @@ Champ d’application le 4 octobre 2022[^t-2]
 <tr><td>Tanzanie</td><td>10 novembre</td><td>2009</td><td>10 décembre</td><td>2009</td></tr>
 <tr><td>Tchad</td><td>20 juin</td><td>2019</td><td>20 juillet</td><td>2020</td></tr>
 <tr><td>Thaïlande</td><td>29 juillet</td><td>2008</td><td>28 août</td><td>2008</td></tr>
+<tr><td>Timor-Leste</td><td>17 janvier</td><td>2023 A</td><td>16 février</td><td>2023</td></tr>
 <tr><td>Togo</td><td>1<sup>er</sup> mars</td><td>2011</td><td>31 mars</td><td>2011</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>25 juin</td><td>2015</td><td>25 juillet</td><td>2015</td></tr>
 <tr><td>Tunisie</td><td>2 avril</td><td>2008</td><td>3 mai</td><td>2008</td></tr>
@@ -911,7 +916,7 @@ Champ d’application le 4 octobre 2022[^t-2]
 <tr><td>Yémen</td><td>26 mars</td><td>2009</td><td>25 avril</td><td>2009</td></tr>
 <tr><td>Zambie</td><td>1<sup>er</sup> février</td><td>2010</td><td>3 mars</td><td>2010</td></tr>
 <tr><td>Zimbabwe</td><td>23 septembre</td><td>2013 A</td><td>23 octobre</td><td>2013</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

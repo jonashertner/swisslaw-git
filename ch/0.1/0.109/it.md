@@ -3,11 +3,11 @@ sr: "0.109"
 title: Convenzione del 13 dicembre 2006 sui diritti delle persone con disabilità
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: it
-version: 2022-10-04
+version: 2024-02-23
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20221004/it/xml/fedlex-data-admin-ch-eli-cc-2014-245-20221004-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20221004/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20240223/it/xml/fedlex-data-admin-ch-eli-cc-2014-245-20240223-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20240223/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2014** 1119; FF **2013** 575
 
 Traduzione
 
-Conclusa a New York il 13 dicembre 2006
+Conclusa a New York il 13 dicembre 2006 Approvata dall’Assemblea federale il 13 dicembre 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 15 aprile 2014 Entrata in vigore per la Svizzera il 15 maggio 2014
 
-Approvata dall’Assemblea federale il 13 dicembre 2013[^t-1]
-
-Strumento di adesione depositato dalla Svizzera il 15 aprile 2014
-
-Entrata in vigore per la Svizzera il 15 maggio 2014
-
-(Stato 4 ottobre 2022)
+(Stato 23 febbraio 2024)
 
 [^t-1]: [RU 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -720,7 +714,7 @@ I testi in arabo, cinese, francese, inglese, russo e spagnolo della presente Con
 
 *In fede di che* i sottoscritti Plenipotenziari, essendo debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 4 ottobre 2022[^t-2]
+Campo d’applicazione il 23 febbraio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -753,6 +747,7 @@ Campo d’applicazione il 4 ottobre 2022[^t-2]
 <tr><td>Burkina Faso</td><td>23 luglio</td><td>2009</td><td>22 agosto</td><td>2009</td></tr>
 <tr><td>Burundi</td><td>22 maggio</td><td>2014</td><td>21 giugno</td><td>2014</td></tr>
 <tr><td>Cambogia</td><td>20 dicembre</td><td>2012</td><td>19 gennaio</td><td>2013</td></tr>
+<tr><td>Camerun</td><td>28 settembre</td><td>2023</td><td>28 ottobre</td><td>2023</td></tr>
 <tr><td>Canada\*</td><td>11 marzo</td><td>2010</td><td>10 aprile</td><td>2010</td></tr>
 <tr><td>Capo Verde</td><td>10 ottobre</td><td>2011</td><td>9 novembre</td><td>2011</td></tr>
 <tr><td>Ceca, Repubblica\*\*</td><td>28 settembre</td><td>2009</td><td>28 ottobre</td><td>2009</td></tr>
@@ -767,7 +762,6 @@ Campo d’applicazione il 4 ottobre 2022[^t-2]
 <tr><td>Comore</td><td>16 giugno</td><td>2016</td><td>16 luglio</td><td>2016</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>2 settembre</td><td>2014</td><td>2 ottobre</td><td>2014</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>30 settembre</td><td>2015 A</td><td>30 ottobre</td><td>2015</td></tr>
-<tr><td>Cook, Isole</td><td>8 maggio</td><td>2009 A</td><td>7 giugno</td><td>2009</td></tr>
 <tr><td>Corea del Nord</td><td>6 dicembre</td><td>2016</td><td>5 gennaio</td><td>2017</td></tr>
 <tr><td>Corea del Sud <sup>a</sup></td><td>11 dicembre</td><td>2008</td><td>10 gennaio</td><td>2009</td></tr>
 <tr><td>Costa d’Avorio</td><td>10 gennaio</td><td>2014</td><td>9 febbraio</td><td>2014</td></tr>
@@ -801,8 +795,8 @@ Campo d’applicazione il 4 ottobre 2022[^t-2]
 <tr><td>Grenada</td><td>27 agosto</td><td>2014</td><td>26 settembre</td><td>2014</td></tr>
 <tr><td>Guatemala</td><td>7 aprile</td><td>2009</td><td>7 maggio</td><td>2009</td></tr>
 <tr><td>Guinea</td><td>8 febbraio</td><td>2008</td><td>3 maggio</td><td>2008</td></tr>
-<tr><td>Guinea-Bissau</td><td>24 settembre</td><td>2014</td><td>24 ottobre</td><td>2014</td></tr>
 <tr><td>Guinea equatoriale</td><td>25 marzo</td><td>2022 A</td><td>24 aprile</td><td>2022</td></tr>
+<tr><td>Guinea-Bissau</td><td>24 settembre</td><td>2014</td><td>24 ottobre</td><td>2014</td></tr>
 <tr><td>Guyana</td><td>10 settembre</td><td>2014</td><td>10 ottobre</td><td>2014</td></tr>
 <tr><td>Haiti</td><td>23 luglio</td><td>2009 A</td><td>22 agosto</td><td>2009</td></tr>
 <tr><td>Honduras</td><td>14 aprile</td><td>2008</td><td>14 maggio</td><td>2008</td></tr>
@@ -824,6 +818,7 @@ Campo d’applicazione il 4 ottobre 2022[^t-2]
 <tr><td>Lettonia\*\*</td><td>1° marzo</td><td>2010</td><td>31 marzo</td><td>2010</td></tr>
 <tr><td>Liberia</td><td>26 luglio</td><td>2012</td><td>25 agosto</td><td>2012</td></tr>
 <tr><td>Libia\*</td><td>13 febbraio</td><td>2018</td><td>15 marzo</td><td>2018</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>18 dicembre</td><td>2023</td><td>17 gennaio</td><td>2024</td></tr>
 <tr><td>Lituania\*</td><td>18 agosto</td><td>2010</td><td>17 settembre</td><td>2010</td></tr>
 <tr><td>Lussemburgo</td><td>26 settembre</td><td>2011</td><td>26 ottobre</td><td>2011</td></tr>
 <tr><td>Macedonia del Nord</td><td>29 dicembre</td><td>2011</td><td>28 gennaio</td><td>2012</td></tr>
@@ -853,6 +848,7 @@ Campo d’applicazione il 4 ottobre 2022[^t-2]
 <tr><td>Nigeria</td><td>24 settembre</td><td>2010</td><td>24 ottobre</td><td>2010</td></tr>
 <tr><td>Norvegia\* \*\*</td><td>3 giugno</td><td>2013</td><td>3 luglio</td><td>2013</td></tr>
 <tr><td>Nuova Zelanda <sup>a</sup></td><td>25 settembre</td><td>2008</td><td>25 ottobre</td><td>2008</td></tr>
+<tr><td>Cook, Isole</td><td>8 maggio</td><td>2009 A</td><td>7 giugno</td><td>2009</td></tr>
 <tr><td>Oman</td><td>6 gennaio</td><td>2009</td><td>5 febbraio</td><td>2009</td></tr>
 <tr><td>Paesi Bassi\* \*\*</td><td>14 giugno</td><td>2016</td><td>14 luglio</td><td>2016</td></tr>
 <tr><td>Pakistan</td><td>5 luglio</td><td>2011</td><td>4 agosto</td><td>2011</td></tr>
@@ -871,6 +867,7 @@ Campo d’applicazione il 4 ottobre 2022[^t-2]
 <tr><td>Russia</td><td>25 settembre</td><td>2012</td><td>25 ottobre</td><td>2012</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>17 ottobre</td><td>2019</td><td>16 novembre</td><td>2019</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>29 ottobre</td><td>2010 A</td><td>28 novembre</td><td>2010</td></tr>
+<tr><td>Salomone, Isole</td><td>22 giugno</td><td>2023</td><td>22 luglio</td><td>2023</td></tr>
 <tr><td>Samoa</td><td>2 dicembre</td><td>2016</td><td>1° gennaio</td><td>2017</td></tr>
 <tr><td>San Marino</td><td>22 febbraio</td><td>2008</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Santa Lucia</td><td>11 giugno</td><td>2020</td><td>11 luglio</td><td>2020</td></tr>
@@ -888,11 +885,13 @@ Campo d’applicazione il 4 ottobre 2022[^t-2]
 <tr><td>Sri Lanka</td><td>8 febbraio</td><td>2016</td><td>9 marzo</td><td>2016</td></tr>
 <tr><td>Sudafrica</td><td>30 novembre</td><td>2007</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Sudan</td><td>24 aprile</td><td>2009</td><td>24 maggio</td><td>2009</td></tr>
+<tr><td>Sudan del Sud</td><td>5 febbraio</td><td>2024 A</td><td>6 marzo</td><td>2024</td></tr>
 <tr><td>Suriname\*</td><td>29 marzo</td><td>2017</td><td>28 aprile</td><td>2017</td></tr>
 <tr><td>Svezia\*\*</td><td>15 dicembre</td><td>2008</td><td>14 gennaio</td><td>2009</td></tr>
 <tr><td>Svizzera\*\*</td><td>15 aprile</td><td>2014 A</td><td>15 maggio</td><td>2014</td></tr>
 <tr><td>Tanzania</td><td>10 novembre</td><td>2009</td><td>10 dicembre</td><td>2009</td></tr>
 <tr><td>Thailandia</td><td>29 luglio</td><td>2008</td><td>28 agosto</td><td>2008</td></tr>
+<tr><td>Timor Est</td><td>17 gennaio</td><td>2023 A</td><td>16 febbraio</td><td>2023</td></tr>
 <tr><td>Togo</td><td>1° marzo</td><td>2011</td><td>31 marzo</td><td>2011</td></tr>
 <tr><td>Trinidad e Tobago</td><td>25 giugno</td><td>2015</td><td>25 luglio</td><td>2015</td></tr>
 <tr><td>Tunisia</td><td>2 aprile</td><td>2008</td><td>3 maggio</td><td>2008</td></tr>
@@ -911,7 +910,7 @@ Campo d’applicazione il 4 ottobre 2022[^t-2]
 <tr><td>Yemen</td><td>26 marzo</td><td>2009</td><td>25 aprile</td><td>2009</td></tr>
 <tr><td>Zambia</td><td>1° febbraio</td><td>2010</td><td>3 marzo</td><td>2010</td></tr>
 <tr><td>Zimbabwe</td><td>23 settembre</td><td>2013 A</td><td>23 ottobre</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obboezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

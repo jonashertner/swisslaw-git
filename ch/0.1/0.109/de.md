@@ -3,11 +3,11 @@ sr: "0.109"
 title: Übereinkommen vom 13. Dezember 2006 über die Rechte von Menschen mit Behinderungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: de
-version: 2022-10-04
+version: 2024-02-23
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20221004/de/xml/fedlex-data-admin-ch-eli-cc-2014-245-20221004-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20221004/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20240223/de/xml/fedlex-data-admin-ch-eli-cc-2014-245-20240223-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20240223/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 15. April 2014
 
 In Kraft getreten für die Schweiz am 15. Mai 2014
 
-(Stand am 4. Oktober 2022)
+(Stand am 23. Februar 2024)
 
 [^t-1]: [AS 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -727,7 +727,7 @@ Der arabische, der chinesische, der englische, der französische, der russische 
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 4. Oktober 2022[^t-2]
+Geltungsbereich am 23. Februar 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -764,7 +764,6 @@ Geltungsbereich am 4. Oktober 2022[^t-2]
 <tr><td>China</td><td>1. August</td><td>2008</td><td>31. August</td><td>2008</td></tr>
 <tr><td>Hongkong\*</td><td>1. August</td><td>2008</td><td>31. August</td><td>2008</td></tr>
 <tr><td>Macau</td><td>1. August</td><td>2008</td><td>31. August</td><td>2008</td></tr>
-<tr><td>Cook-Inseln</td><td>8. Mai</td><td>2009 B</td><td>7. Juni</td><td>2009</td></tr>
 <tr><td>Costa Rica</td><td>1. Oktober</td><td>2008</td><td>31. Oktober</td><td>2008</td></tr>
 <tr><td>Côte d’Ivoire</td><td>10. Januar</td><td>2014</td><td>9. Februar</td><td>2014</td></tr>
 <tr><td>Dänemark</td><td>24. Juli</td><td>2009</td><td>23. August</td><td>2009</td></tr>
@@ -805,6 +804,7 @@ Geltungsbereich am 4. Oktober 2022[^t-2]
 <tr><td>Jemen</td><td>26. März</td><td>2009</td><td>25. April</td><td>2009</td></tr>
 <tr><td>Jordanien</td><td>31. März</td><td>2008</td><td>3. Mai</td><td>2008</td></tr>
 <tr><td>Kambodscha</td><td>20. Dezember</td><td>2012</td><td>19. Januar</td><td>2013</td></tr>
+<tr><td>Kamerun</td><td>28. September</td><td>2023</td><td>28. Oktober</td><td>2023</td></tr>
 <tr><td>Kanada\*</td><td>11. März</td><td>2010</td><td>10. April</td><td>2010</td></tr>
 <tr><td>Kap Verde</td><td>10. Oktober</td><td>2011</td><td>9. November</td><td>2011</td></tr>
 <tr><td>Kasachstan</td><td>21. April</td><td>2015</td><td>21. Mai</td><td>2015</td></tr>
@@ -826,6 +826,7 @@ Geltungsbereich am 4. Oktober 2022[^t-2]
 <tr><td>Lettland\*\*</td><td>1. März</td><td>2010</td><td>31. März</td><td>2010</td></tr>
 <tr><td>Liberia</td><td>26. Juli</td><td>2012</td><td>25. August</td><td>2012</td></tr>
 <tr><td>Libyen\*</td><td>13. Februar</td><td>2018</td><td>15. März</td><td>2018</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>18. Dezember</td><td>2023</td><td>17. Januar</td><td>2024</td></tr>
 <tr><td>Litauen\*</td><td>18. August</td><td>2010</td><td>17. September</td><td>2010</td></tr>
 <tr><td>Luxemburg</td><td>26. September</td><td>2011</td><td>26. Oktober</td><td>2011</td></tr>
 <tr><td>Madagaskar</td><td>12. Juni</td><td>2015</td><td>12. Juli</td><td>2015</td></tr>
@@ -850,6 +851,7 @@ Geltungsbereich am 4. Oktober 2022[^t-2]
 <tr><td>Nauru</td><td>27. Juni</td><td>2012 B</td><td>27. Juli</td><td>2012</td></tr>
 <tr><td>Nepal</td><td>7. Mai</td><td>2010</td><td>6. Juni</td><td>2010</td></tr>
 <tr><td>Neuseeland <sup>a</sup></td><td>25. September</td><td>2008</td><td>25. Oktober</td><td>2008</td></tr>
+<tr><td>Cook-Inseln</td><td>8. Mai</td><td>2009 B</td><td>7. Juni</td><td>2009</td></tr>
 <tr><td>Nicaragua</td><td>7. Dezember</td><td>2007</td><td>3. Mai</td><td>2008</td></tr>
 <tr><td>Niederlande\* \*\*</td><td>14. Juni</td><td>2016</td><td>14. Juli</td><td>2016</td></tr>
 <tr><td>Niger</td><td>24. Juni</td><td>2008</td><td>24. Juli</td><td>2008</td></tr>
@@ -871,6 +873,7 @@ Geltungsbereich am 4. Oktober 2022[^t-2]
 <tr><td>Ruanda</td><td>15. Dezember</td><td>2008 B</td><td>14. Januar</td><td>2009</td></tr>
 <tr><td>Rumänien\*\*</td><td>31. Januar</td><td>2011</td><td>2. März</td><td>2011</td></tr>
 <tr><td>Russland</td><td>25. September</td><td>2012</td><td>25. Oktober</td><td>2012</td></tr>
+<tr><td>Salomoninseln</td><td>22. Juni</td><td>2023</td><td>22. Juli</td><td>2023</td></tr>
 <tr><td>Sambia</td><td>1. Februar</td><td>2010</td><td>3. März</td><td>2010</td></tr>
 <tr><td>Samoa</td><td>2. Dezember</td><td>2016</td><td>1. Januar</td><td>2017</td></tr>
 <tr><td>San Marino</td><td>22. Februar</td><td>2008</td><td>3. Mai</td><td>2008</td></tr>
@@ -893,11 +896,13 @@ Geltungsbereich am 4. Oktober 2022[^t-2]
 <tr><td>St. Lucia</td><td>11. Juni</td><td>2020</td><td>11. Juli</td><td>2020</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>29. Oktober</td><td>2010 B</td><td>28. November</td><td>2010</td></tr>
 <tr><td>Sudan</td><td>24. April</td><td>2009</td><td>24. Mai</td><td>2009</td></tr>
+<tr><td>Südsudan</td><td>5. Februar</td><td>2024 B</td><td>6. März</td><td>2024</td></tr>
 <tr><td>Suriname\*</td><td>29. März</td><td>2017</td><td>28. April</td><td>2017</td></tr>
 <tr><td>Syrien\*</td><td>10. Juli</td><td>2009</td><td>9. August</td><td>2009</td></tr>
 <tr><td>Südafrika</td><td>30. November</td><td>2007</td><td>3. Mai</td><td>2008</td></tr>
 <tr><td>Tansania</td><td>10. November</td><td>2009</td><td>10. Dezember</td><td>2009</td></tr>
 <tr><td>Thailand</td><td>29. Juli</td><td>2008</td><td>28. August</td><td>2008</td></tr>
+<tr><td>Timor-Leste</td><td>17. Januar</td><td>2023 B</td><td>16. Februar</td><td>2023</td></tr>
 <tr><td>Togo</td><td>1. März</td><td>2011</td><td>31. März</td><td>2011</td></tr>
 <tr><td>Trinidad und Tobago</td><td>25. Juni</td><td>2015</td><td>25. Juli</td><td>2015</td></tr>
 <tr><td>Tschad</td><td>20. Juni</td><td>2019</td><td>20. Juli</td><td>2019</td></tr>
@@ -921,4 +926,4 @@ Geltungsbereich am 4. Oktober 2022[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-2]: [AS 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
