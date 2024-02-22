@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla limitazione del servizio universale nel traffico postale e dei pagamenti in una situazione di grave penuria di elettricità
 document: Progetto posto in consultazione-2
 language: it

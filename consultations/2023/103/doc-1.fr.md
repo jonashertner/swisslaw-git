@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance relative à la restriction du service universel dans le domaine des services postaux et de paiement dans une situation de pénurie grave d’électricité
 document: Projet mis en consultation
 language: fr

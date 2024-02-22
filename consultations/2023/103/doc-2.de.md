@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Einschränkung der Grundversorgung im Post- und Zahlungsverkehr in einer schweren Strommangellage
 document: Vernehmlassungsvorlage-2
 language: de
