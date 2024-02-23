@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Estensione del campo di applicazione dell’ordinanza per gli autisti e attuazione della mozione 20.4478 Dittli
 document: Progetto posto in consultazione
 language: it

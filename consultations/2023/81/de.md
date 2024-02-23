@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ausweitung des Geltungsbereichs der Chauffeurverordnung sowie Umsetzung der Motion 20.4478 Dittli
 document: Vernehmlassungsvorlage
 language: de

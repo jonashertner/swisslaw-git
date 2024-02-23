@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Extension du champ d’application de l’ordonnance sur les chauffeurs et mise en œuvre de la motion 20.4478 Dittli
 document: Projet mis en consultation
 language: fr
