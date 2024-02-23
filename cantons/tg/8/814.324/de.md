@@ -1,95 +1,123 @@
 ---
 canton: TG
 number: "814.324"
-title: "Vereinbarung zwischen den Kantonen St. Gallen und Thurgau über den Anschluss des Abwassers aus den Ortsgemeinden Rickenbach, Wilen und Busswil TG an das Kanalnetz und die zentrale Kläranlage der politischen Gemeinde Wil SG"
+title: Interkantonale Vereinbarung über den Abwasserverband Thurau
 language: de
-version: 1970-06-15
-valid_until: 2024-02-23
-version_adopted: 1970-06-15
+version: 2024-02-24
+version_adopted: 2024-02-20
 adopted: 2024-02-20
 in_force: 2024-02-24
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.324"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2254/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vereinbarung zwischen den Kantonen St. Gallen und Thurgau über den Anschluss des Abwassers aus den Ortsgemeinden Rickenbach, Wilen und Busswil TG an das Kanalnetz und die zentrale Kläranlage der politischen Gemeinde Wil SG
+# Interkantonale Vereinbarung über den Abwasserverband Thurau
 
-Vereinbarung SG/TG - Abwasseranschluss an Kläranlage Wil
+Abwasserverband Thurau
 
-vom 15.06.1970 (Stand 15.06.1970)
+vom 20.02.2024 (Stand 24.02.2024)
 
-**Die Regierungen der Kantone St. Gallen und Thurgau,**
+Erlassen von der Regierung des Kantons St.Gallen und dem Regierungsrat des Kantons Thurgau gestützt auf Art. 137 Abs. 2 des st.gallischen Gemeindegesetzes (GG)[^ingress-1] und Art. 55 des st.gallischen Vollzugsgesetzes zur eidgenössischen Gewässerschutzgesetzgebung[^ingress-2] sowie § 43 Abs. 2 der Verfassung des Kantons Thurgau (KV)[^ingress-3] und § 2 Abs. 2 des thurgauischen Einführungsgesetzes zum Bundesgesetz über den Schutz der Gewässer[^ingress-4].
 
-gestützt auf Art. 65 der Verfassung des Kantons St. Gallen vom 16. November 1890 und auf § 9 und § 10 des thurgauischen Einführungsgesetzes vom 23. April 1959 zum Bundesgesetz vom 16. März 1955 über den Schutz der Gewässer gegen Verunreinigung[^ingress-1],
-
-**vereinbaren:**
-
-[^ingress-1]: Jetzt EG zum BG über den Schutz der Gewässer; RB [814.20](https://www.rechtsbuch.tg.ch/data/814.20/de).
+[^ingress-1]: sGS [151.2](https://db.clex.ch/link/SG/151.2/de)
+[^ingress-2]: sGS [752.2](https://db.clex.ch/link/SG/752.2/de)
+[^ingress-3]: RB [101](https://www.rechtsbuch.tg.ch/data/101/de)
+[^ingress-4]: RB [814.20](https://www.rechtsbuch.tg.ch/data/814.20/de)
 
 #### Art. 1
 
-<sup>1</sup> Die politische Gemeinde Wil und die Ortsgemeinden Rickenbach, Wilen und Busswil[^1-1] werden ermächtigt, die auf ihren Gebieten anfallenden Abwasser in der Weise gemeinsam zu sammeln, zu reinigen und abzuleiten, dass die Abwasser der Ortsgemeinden Rickenbach, Wilen und Busswil mit angemessener finanzieller Beteiligung dieser Gemeinden dem Kanalisationssystem und der zentralen Kläranlage der politischen Gemeinde Wil zugeleitet werden.
+**Gründung Zweckverband**
 
-<sup>2</sup> Die an der gemeinsamen Abwasserbeseitigung beteiligten Gemeinden regeln ihre gegenseitigen Rechte und Pflichten betreffend Bau, Betrieb und Unterhalt sowie betreffend die Beteiligung an den Bau- und Betriebskosten durch Vertrag. Der Vertrag bedarf der Genehmigung durch die zuständigen Behörden der Kantone St. Gallen und Thurgau.
+<sup>1</sup> Die st.gallischen politischen Gemeinden Jonschwil, Oberuzwil, Uzwil, Wil, Zuzwil, Kirchberg, Niederhelfenschwil sowie die thurgauischen politischen Gemeinden Rickenbach, Sirnach, Wilen und Wuppenau werden ermächtigt, sich für Planung, Bau, Betrieb und Unterhalt einer zentralen Abwasserreinigungsanlage, einer Kanalisation und von Sonderbauwerken zu einem Zweckverband (nachfolgend Verband) zusammenzuschliessen.
 
-[^1-1]: Jetzt Politische Gemeinden Rickenbach, Wilen und Sirnach.
+<sup>2</sup> Die beteiligten Gemeinden legen Zweck und Organisation des Verbands sowie Rechte und Pflichten der Verbandsgemeinden unter sich und gegenüber dem Verband in einer Zweckverbands-Vereinbarung fest. Diese bedarf zur Rechtsgültigkeit der Genehmigung durch die zuständigen Behörden[^1-1] der Vereinbarungskantone.
+
+[^1-1]: Im Kanton St. Gallen: Bau- und Umweltdepartement (Art. 4 Abs. 1 lit. b GG); im Kanton Thurgau: der Regierungsrat (§ 39 Abs. 2 EG ZGB und § 46 Abs. 2 GemG).
 
 #### Art. 2
 
-<sup>1</sup> Auf den Bau, Bestand, Unterhalt und Betrieb der eine technische Einheit bildenden Anlage findet, unter Vorbehalt abweichender vertraglicher Vereinbarung, das Recht am Ort der gelegenen Sache Anwendung.
+**Beitritt weiterer politischen Gemeinden**
 
-<sup>2</sup> Die Vorschriften des Bundesrechtes, insbesondere des Bundesgesetzes über den Schutz der Gewässer gegen Verunreinigung[^2-1] und der Gesetzgebung der örtlich zuständigen Kantone bleiben vorbehalten.
+<sup>1</sup> Dem Verband können weitere politische Gemeinden der Kantone St.Gallen und Thurgau beitreten.
 
-[^2-1]: Jetzt BG über den Schutz der Gewässer; SR [814.20](https://db.clex.ch/link/Bund/814.20/de).
+<sup>2</sup> Die zuständigen Behörden[^2-1] können durch übereinstimmende Beschlüsse den Verband verpflichten, weitere Gemeinden aufzunehmen.
+
+[^2-1]: Im Kanton St. Gallen: die Regierung (Art. 138 Abs. 1 GG); im Kanton Thurgau: der Regierungsrat (§ 38 Abs. 1 GemG).
 
 #### Art. 3
 
-<sup>1</sup> Anstände zwischen den Vertragsgemeinden und Privaten oder Körperschaften des öffentlichen Rechts werden von den zuständigen kantonalen Behörden und Gerichten entschieden.
+**Rechtsnatur und Sitz**
+
+<sup>1</sup> Der Verband ist eine öffentlich-rechtliche Körperschaft mit eigener Rechtspersönlichkeit.
+
+<sup>2</sup> Sein Sitz ist in Uzwil.
 
 #### Art. 4
 
-<sup>1</sup> Öffentlich-rechtliche Anstände zwischen den thurgauischen Vertragsgemeinden und der politischen Gemeinde Wil aus der Anwendung des Vertrages oder beim Bau, Unterhalt und Betrieb der gemeinsam benutzten Anlagen werden, sofern eine Vermittlung der Baudepartemente der Kantone St. Gallen und Thurgau erfolglos verlaufen ist, durch ein Schiedsgericht entschieden.
+**Anwendbares Recht**
+
+<sup>1</sup> Für die Verantwortlichkeit der Verbandsorgane und, soweit nichts anderes vereinbart wird, für die Besorgung der Verbandsangelegenheiten sind die einschlägigen gesetzlichen Vorschriften des Kantons St.Gallen massgebend.
+
+<sup>2</sup> Für Bau, Bestand und Betrieb der verbandseigenen Anlagen findet das Recht der gelegenen Sache Anwendung, soweit die Zweckverbandsvereinbarung keine anderslautenden Vorschriften enthält.
+
+<sup>3</sup> Die Vorschriften des Bundesrechts, insbesondere der eidgenössischen Gewässerschutzgesetzgebung, und die den Verbandsgemeinden aufgrund der Gesetzgebung ihres Kantons obliegenden besonderen Pflichten bleiben vorbehalten.
 
 #### Art. 5
 
-<sup>1</sup> Verlangt eine Vertragsgemeinde einen Schiedsspruch, so ernennt jeder Vertragskanton binnen einer Frist von 30 Tagen je einen Schiedsrichter. Die Schiedsrichter ernennen binnen einer weiteren Frist von 15 Tagen einen weiteren Schiedsrichter als Obmann. Können sie sich auf den Obmann nicht einigen, so ist dessen Wahl durch den Präsidenten des Schweizerischen Bundesgerichts zu treffen.
+**Aufsicht**
 
-<sup>2</sup> Das Schiedsgericht legt die Verfahrensgrundsätze fest. Fehlen solche, so finden die Bestimmungen der Zivilprozessordnung des Kantons St. Gallen sinngemäss Anwendung.
+<sup>1</sup> Die Aufsicht über den Verband wird von den zuständigen Behörden des Kantons St.Gallen im Einvernehmen mit den zuständigen Behörden des Kantons Thurgau ausgeübt. Vorbehalten bleibt die Aufsicht der Vereinbarungskantone über ihre Gemeinden.
 
 #### Art. 6
 
-<sup>1</sup> Die Entscheide des Schiedsgerichts sind, unter Vorbehalt allfälliger eidgenössischer Rechtsmittel, endgültig. Sie sind den Regierungen der Vertragskantone mitzuteilen.
+**Streitigkeiten innerhalb des Verbands, a) Grundsatz**
 
-<sup>2</sup> Die Vertragskantone sind verpflichtet, den vom Schiedsgericht oder den zuständigen Behörden des anderen Vertragskantons gefällten Entscheiden Nachachtung zu verschaffen.
+<sup>1</sup> Die Verbandsgemeinden und der Verband legen Streitigkeiten möglichst durch Verhandlung oder Vermittlung bei.
 
-<sup>3</sup> Entscheide, die eine Geldforderung betreffen, sind im Sinne von Art. 80 Abs. 2 des Bundesgesetzes über Schuldbetreibung und Konkurs[^6-1] vollstreckbaren gerichtlichen Urteilen gleichgestellt.
-
-[^6-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
+<sup>2</sup> Können sie sich nicht einigen, entscheidet ein Schiedsgericht über Streitigkeiten zwischen den Verbandsgemeinden oder zwischen dem Verband und seinen Mitgliedern.
 
 #### Art. 7
 
-<sup>1</sup> Zivilrechtliche Streitigkeiten zwischen den thurgauischen Vertragsgemeinden und der politischen Gemeinde Wil sowie Anstände, bei welchen einer Vertragsgemeinde lediglich die Rechtsstellung eines Privaten zukommt, fallen in die Zuständigkeit der ordentlichen Gerichts- und Verwaltungsbehörden.
+**b) Schiedsgerichtsverfahren**
+
+<sup>1</sup> Die Regierungen der Vereinbarungskantone bestimmen innert 30 Tagen nach Anrufung des Schiedsgerichtes je eine Schiedsrichterin oder einen Schiedsrichter. Die Schiedspersonen bezeichnen gemeinsam innert 30 Tagen als drittes Mitglied des Schiedsgerichtes eine Präsidentin oder einen Präsidenten.
+
+<sup>2</sup> Können sich die beiden Schiedspersonen nicht über ein Präsidium einigen, wird dieses von der Präsidentin oder dem Präsidenten des Kantonsgerichtes des Kantons St.Gallen bestimmt.
+
+<sup>3</sup> Das Schiedsgericht hat seinen Sitz in Uzwil.
+
+<sup>4</sup> Im Übrigen bestimmt sich das Verfahren nach den Vorschriften der Schweizerischen Zivilprozessordnung (ZPO)[^7-1] .
+
+[^7-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### Art. 8
 
-<sup>1</sup> Zivil- und öffentlich-rechtliche Streitigkeiten und Anstände zwischen den Ortsgemeinden Rickenbach und Wilen aus dem zwischen diesen Gemeinden abgeschlossenen Vertrag über den Anschluss von Abwasser aus der Ortsgemeinde Rickenbach an das Kanalnetz der Ortsgemeinde Wilen sind nicht Gegenstand dieser Vereinbarung.
+**Streitigkeiten zwischen dem Verband und Dritten**
+
+<sup>1</sup> Öffentlich-rechtliche Streitigkeiten zwischen dem Verband und Dritten werden von den zuständigen Gerichts- und Verwaltungsbehörden des Kantons St.Gallen entschieden.
 
 #### Art. 9
 
-<sup>1</sup> Anstände zwischen den Vertragskantonen über die Beseitigung bestehender Missstände sowie über die Anwendung und Auslegung dieser Vereinbarung sind gemäss Art. 113 Ziff. 2 der Bundesverfassung (BV)[^9-1] dem Schweizerischen Bundesgericht zu unterbreiten.
+**Zivilrechtliche Streitigkeiten**
 
-[^9-1]: Jetzt Art. 189 Abs. 1 lit. c BV; SR [101](https://db.clex.ch/link/Bund/101/de).
+<sup>1</sup> Zivilrechtliche Streitigkeiten sowie Anstände, bei denen einer Verbandsgemeinde oder dem Verband die Rechtsstellung eines Privaten zukommt, werden von den ordentlichen Gerichts- und Verwaltungsbehörden entschieden.
 
 #### Art. 10
 
-<sup>1</sup> Die Anpassung dieser Vereinbarung an die zukünftige Gesetzgebung des Bundes und der Vertragskantone bleibt vorbehalten. Die Vertragskantone setzen sich darüber ins Einvernehmen.
+**Vollstreckung**
+
+<sup>1</sup> Die Regierungen der Vereinbarungskantone verpflichten sich, die Entscheide des Schiedsgerichts oder der zuständigen Gerichts- und Verwaltungsbehörden des anderen Vereinbarungskantons zu beachten und zu vollstrecken.
 
 #### Art. 11
 
-<sup>1</sup> Diese Vereinbarung wird in sechs Exemplaren ausgefertigt und unterzeichnet. Sie tritt mit ihrer Unterzeichnung in Kraft[^11-1] und trägt das Datum, an dem der zweitunterzeichnende Kanton Thurgau seine Unterschrift erteilt.
+**Streitbeilegung**
 
-[^11-1]: Vom RR des Kantons SG am 28. April 1970, vom RR des Kantons TG am 15. Juni 1970 genehmigt.
+<sup>1</sup> Bei Streitigkeiten zwischen den Vereinbarungskantonen, die sich aus dieser Vereinbarung ergeben, bemühen sich die Regierungen um eine Beilegung durch Verhandlung oder Vermittlung.
 
--
+<sup>2</sup> Kann die Streitigkeit nicht beigelegt werden, entscheidet auf Klage hin das Bundesgericht gemäss Art. 120 Abs. 1 lit. b des Bundesgerichtsgesetzes (BGG)[^11-1].
+
+[^11-1]: SR [173.110](https://db.clex.ch/link/Bund/173.110/de)
+
+8/2024
