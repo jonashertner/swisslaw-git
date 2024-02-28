@@ -5,11 +5,12 @@ title: Westschweizer Vereinbarung über Geldspiele
 short: "Convention romande sur les jeux d’argent, CORJA"
 language: de
 version: 2021-01-01
+corrected: 2024-02-29
 version_adopted: 2019-11-25
 adopted: 2019-11-25
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.54"
-pdf: "https://lex.vs.ch/api/de/versions/3295/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2777/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.

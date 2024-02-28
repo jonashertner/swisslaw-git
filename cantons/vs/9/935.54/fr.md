@@ -5,11 +5,12 @@ title: "Convention romande sur les jeux d'argent"
 short: CORJA
 language: fr
 version: 2021-01-01
+corrected: 2024-02-29
 version_adopted: 2019-11-25
 adopted: 2019-11-25
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/935.54"
-pdf: "https://lex.vs.ch/api/fr/versions/3295/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2777/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -182,7 +183,7 @@ arrêtent:
 
 #### Art. 14
 
-<sup>1</sup> La Conférence des Présidentes et des Présidents des Organes de Répartition (CPOR) et la Conférence des Présidentes et des Présidents des Organes de Répartition du sport (CPORS) sont composées de la présidente ou du président de chacun des six organes cantonaux de répartition, ou à défaut d'une autre personne représentant l'organe. Elles s'organisent elles-mêmes.
+<sup>1</sup> La Conférence des Présidentes et des Présidents des Organes de Répartition (CPQR) et la Conférence des Présidentes et des Présidents des Organes de Répartition du sport (CPQRS) sont composées de la présidente ou du président de chacun des six organes cantonaux de répartition, ou à défaut d'une autre personne représentant l'organe. Elles s'organisent elles-mêmes.
 
 <sup>2</sup> Elles ont les attributions suivantes:
 
