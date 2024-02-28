@@ -10,7 +10,7 @@ version_adopted: 2023-10-31
 adopted: 1998-04-09
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/811.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3592/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -499,7 +499,7 @@ als Gesetz:[^ingress-4]
 - c) Einkünfte aus Baurechtsverträgen;
 - d) Einkünfte aus der Ausbeutung von Kies, Sand und anderen Bestandteilen des Bodens.
 
-<sup>2</sup> Der Mietwert nach Abs. 1 Bst. b dieser Bestimmung entspricht dem mittleren Preis, zu dem Grundstücke gleicher oder ähnlicher Grösse, Lage und Beschaffenheit in der betreffenden Gegend vermietet werden. Er ist auch dann voll steuerbar, wenn das Grundstück zu einem tieferen Mietzins an eine nahe stehende Person vermietet oder verpachtet wird.
+<sup>2</sup> Der Mietwert nach Abs. 1 Bst. b dieser Bestimmung entspricht dem mittleren Preis, zu dem Grundstücke gleicher oder ähnlicher Grösse, Lage und Beschaffenheit in der betreffenden Gegend vermietet werden.
 
 <sup>3</sup> Der Mietwert des Eigenheims, das der Steuerpflichtige an seinem Wohnsitz dauernd selbst bewohnt, wird um 30 Prozent herabgesetzt. Einer dauerhaften Unternutzung wird auf Antrag Rechnung getragen.
 
