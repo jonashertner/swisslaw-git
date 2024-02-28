@@ -5,12 +5,12 @@ title: Gemeindegesetz
 short: GG
 language: de
 version: 2023-06-01
-corrected: 2023-02-21
+corrected: 2024-02-29
 version_adopted: 2022-11-15
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3469/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3472/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -852,9 +852,9 @@ als Gesetz:[^ingress-2]
 
 #### Art. 74a
 
-**c) Verfahren**
+**c) ergänzendes Recht**
 
-<sup>1</sup> Das Verfahren richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative[^74a-1].
+<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative[^74a-1] sachgemäss angewendet.
 
 <sup>2</sup> Die Gemeindeordnung kann andere Fristen vorsehen.
 
@@ -868,7 +868,7 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Kommt das Referendum zustande, werden den Stimmberechtigten Vorlage und Eventualantrag gleichzeitig unterbreitet.
 
-<sup>3</sup> Das Verfahren richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative über Initiative und Gegenvorschlag.
+<sup>3</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative über Initiative und Gegenvorschlag sachgemäss angewendet.
 
 #### Art. 76
 
@@ -888,11 +888,17 @@ als Gesetz:[^ingress-2]
 
 #### Art. 78
 
-**c) Verfahren**
+**c) Unterbreitung**
 
 <sup>1</sup> Kommt das Referendum zustande, sind den Stimmberechtigten Vorlage und Volksvorschlag gleichzeitig zu unterbreiten.
 
-<sup>2</sup> Das Verfahren richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative über Initiative und Gegenvorschlag.
+<sup>2</sup> …
+
+#### Art. 78a
+
+**d) ergänzendes Recht**
+
+<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative über Referendum, Initiative und Gegenvorschlag sachgemäss angewendet.
 
 #### Art. 79
 
@@ -912,14 +918,14 @@ als Gesetz:[^ingress-2]
 
 #### Art. 81
 
-**c) Verfahren**
+**c) ergänzendes Recht**
 
-<sup>1</sup> Für das Verfahren werden sachgemäss angewendet:
+<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend sachgemäss angewendet:
 
 - a) bei Initiativbegehren in Form der einfachen Anregung die Vorschriften des Gesetzes über Referendum und Initiative über die Einheitsinitiative;
 - b) bei Initiativbegehren in Form des ausgearbeiteten Entwurfs die Vorschriften des Gesetzes über Referendum und Initiative über die Gesetzesinitiative.
 
-<sup>2</sup> Die Gemeindeordnung kann andere Fristen vorsehen.
+<sup>2</sup> Die Gemeindeordnung kann andere Fristen und eine andere Mindestgrösse des Initiativkomitees vorsehen.
 
 ### 3. Volksmotion
 
