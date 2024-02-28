@@ -3,11 +3,11 @@ sr: "0.103.29"
 title: "Accord du 27 février 1995 instituant l'Institut international pour la démocratie et l'assistance électorale (International IDEA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/234"
 language: fr
-version: 2019-11-12
+version: 2024-02-29
 adopted: 1995-02-27
 in_force: 2006-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/234/20191112/fr/xml/fedlex-data-admin-ch-eli-cc-2006-234-20191112-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/234/20191112/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/234/20240229/fr/xml/fedlex-data-admin-ch-eli-cc-2006-234-20240229-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/234/20240229/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2006** 1363; FF **2004** 3477
 
 Traduction
 
-Conclu le 27 février 1995
+Conclu le 27 février 1995 Approuvé par l’Assemblée fédérale le 18 mars 2005[^t-1] Instrument d’adhésion suisse déposé le 27 mars 2006 Entré en vigueur pour la Suisse le 26 avril 2006
 
-Approuvé par l’Assemblée fédérale le 18 mars 2005[^t-1]
-
-Instrument d’adhésion suisse déposé le 27 mars 2006
-
-Entré en vigueur pour la Suisse le 26 avril 2006
-
-(Etat le 12 novembre 2019)
+(État le 29 février 2024)
 
 [^t-1]: [RO 2006 1361](https://fedlex.data.admin.ch/eli/oc/2006/233)
 
@@ -279,27 +273,29 @@ Tout État ou organisation intergouvernementale peut à tout moment notifier au 
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord, établi en un seul original en langue anglaise déposé auprès du Secrétaire général, qui en transmettra des exemplaires à tous les membres de l’Institut. Fait à Stockholm, le 27 février 1995. *(Suivent les signatures)*
 
-Champ d’application le 12 novembre 2019**[^t-2]**
+Champ d’application le 29 février 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th></th></tr>
-<tr><td>Afrique du Sud</td><td>Ghana</td></tr>
-<tr><td>Allemagne</td><td>Luxembourg</td></tr>
-<tr><td>Australie</td><td>Maurice</td></tr>
-<tr><td>Barbade</td><td>Mexique</td></tr>
-<tr><td>Belgique</td><td>Mongolie</td></tr>
-<tr><td>Bénin</td><td>Namibie</td></tr>
-<tr><td>Botswana</td><td>Norvège</td></tr>
-<tr><td>Brésil</td><td>Panama</td></tr>
-<tr><td>Canada</td><td>Pays-Bas</td></tr>
-<tr><td>Cap-Vert</td><td>Pérou</td></tr>
-<tr><td>Chili</td><td>Philippines</td></tr>
-<tr><td>Costa Rica</td><td>Portugal</td></tr>
-<tr><td>Danemark</td><td>République dominicaine</td></tr>
-<tr><td>Espagne</td><td>Suède</td></tr>
+<tr><td>Afrique du Sud</td><td>Indonésie</td></tr>
+<tr><td>Allemagne</td><td>Ghana</td></tr>
+<tr><td>Australie</td><td>Luxembourg</td></tr>
+<tr><td>Barbade</td><td>Maurice</td></tr>
+<tr><td>Belgique</td><td>Mexique</td></tr>
+<tr><td>Bénin</td><td>Mongolie</td></tr>
+<tr><td>Botswana</td><td>Namibie</td></tr>
+<tr><td>Brésil</td><td>Norvège</td></tr>
+<tr><td>Canada</td><td>Panama</td></tr>
+<tr><td>Cap-Vert</td><td>Pays-Bas</td></tr>
+<tr><td>Chili</td><td>Pérou</td></tr>
+<tr><td>Costa Rica</td><td>Philippines</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>Portugal</td></tr>
+<tr><td>Espagne</td><td>République dominicaine</td></tr>
+<tr><td>Estonie</td><td>Suède</td></tr>
 <tr><td>Finlande</td><td>Suisse</td></tr>
+<tr><td>France</td><td>Tunisie</td></tr>
 <tr><td>Inde</td><td>Uruguay</td></tr>
-<tr><td>Indonésie</td><td></td></tr>
+<tr><td colspan="3"><sup>a</sup> Le Danemark n’est plus membre de l’IDEA depuis 2014.</td></tr>
 </table>
 
-[^t-2]: [RO 2006 1363](https://fedlex.data.admin.ch/eli/oc/2006/234), [2014 91](https://fedlex.data.admin.ch/eli/oc/2014/7), [2017 2477](https://fedlex.data.admin.ch/eli/oc/2017/230), [2019 3781](https://fedlex.data.admin.ch/eli/oc/2019/685). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2006 1363](https://fedlex.data.admin.ch/eli/oc/2006/234); [2014 91](https://fedlex.data.admin.ch/eli/oc/2014/7); [2017 2477](https://fedlex.data.admin.ch/eli/oc/2017/230); [2019 3781](https://fedlex.data.admin.ch/eli/oc/2019/685); [2024 95](https://fedlex.data.admin.ch/eli/oc/2024/95). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

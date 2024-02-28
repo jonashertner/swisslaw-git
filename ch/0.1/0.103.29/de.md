@@ -3,11 +3,11 @@ sr: "0.103.29"
 title: Übereinkommen vom 27. Februar 1995 zur Gründung des Internationalen Instituts für Demokratie und Wahlhilfe (International IDEA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/234"
 language: de
-version: 2019-11-12
+version: 2024-02-29
 adopted: 1995-02-27
 in_force: 2006-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/234/20191112/de/xml/fedlex-data-admin-ch-eli-cc-2006-234-20191112-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/234/20191112/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/234/20240229/de/xml/fedlex-data-admin-ch-eli-cc-2006-234-20240229-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/234/20240229/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 27. März 2006
 
 Für die Schweiz in Kraft getreten am 26. April 2006
 
-(Stand am 12. November 2019)
+(Stand am 29. Februar 2024)
 
 [^t-1]: [AS 2006 1361](https://fedlex.data.admin.ch/eli/oc/2006/233)
 
@@ -60,7 +60,9 @@ sind wie folgt übereingekommen:
 
 <sup>2.</sup> Das Institut hat seinen Sitz in Stockholm, sofern der Rat nicht beschliesst, es an einen anderen Ort zu verlegen. Das Institut kann Büros an anderen Orten einrichten, wenn dies zur Unterstützung seines Programms notwendig ist.
 
-<sup>3.</sup> International IDEA besitzt volle Rechtspersönlichkeit und hat die für die Wahrnehmung seiner Aufgaben und Erreichung seiner Ziele notwendigen Fähigkeiten; unter anderem hat es die Fähigkeit;
+<sup>3.</sup>
+
+International IDEA besitzt volle Rechtspersönlichkeit und hat die für die Wahrnehmung seiner Aufgaben und Erreichung seiner Ziele notwendigen Fähigkeiten; unter anderem hat es die Fähigkeit:
 
 - a) unbewegliches und bewegliches Vermögen zu erwerben und zu veräussern;
 - b) Verträge und sonstige Vereinbarungen zu schliessen;
@@ -279,27 +281,29 @@ Jeder Staat oder jede zwischenstaatliche Organisation kann dem Generalsekretär 
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen in einer Urschrift in englischer Sprache unterschrieben; diese wird beim Generalsekretär hinterlegt, der Abschriften an alle Mitglieder des Instituts übermittelt. Geschehen zu Stockholm am 27. Februar 1995 in englischer Sprache. (Es folgen die Unterschriften)
 
-Geltungsbereich am 12. November 2019**[^t-2]**
+Geltungsbereich am 29. Februar 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th></th></tr>
-<tr><td>Australien</td><td>Luxemburg</td></tr>
-<tr><td>Barbados</td><td>Mauritius</td></tr>
-<tr><td>Belgien</td><td>Mexiko</td></tr>
-<tr><td>Benin</td><td>Mongolei</td></tr>
-<tr><td>Botsuana</td><td>Namibia</td></tr>
-<tr><td>Brasilien</td><td>Niederlande</td></tr>
-<tr><td>Chile</td><td>Norwegen</td></tr>
-<tr><td>Costa Rica</td><td>Panama</td></tr>
-<tr><td>Dänemark</td><td>Peru</td></tr>
-<tr><td>Deutschland</td><td>Philippinen</td></tr>
-<tr><td>Dominikanische Republik</td><td>Portugal</td></tr>
+<tr><td>Australien</td><td>Kap Verde</td></tr>
+<tr><td>Barbados</td><td>Luxemburg</td></tr>
+<tr><td>Belgien</td><td>Mauritius</td></tr>
+<tr><td>Benin</td><td>Mexiko</td></tr>
+<tr><td>Botsuana</td><td>Mongolei</td></tr>
+<tr><td>Brasilien</td><td>Namibia</td></tr>
+<tr><td>Chile</td><td>Niederlande</td></tr>
+<tr><td>Costa Rica</td><td>Norwegen</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>Panama</td></tr>
+<tr><td>Deutschland</td><td>Peru</td></tr>
+<tr><td>Dominikanische Republik</td><td>Philippinen</td></tr>
+<tr><td>Estland</td><td>Portugal</td></tr>
 <tr><td>Finnland</td><td>Schweden</td></tr>
-<tr><td>Ghana</td><td>Schweiz</td></tr>
-<tr><td>Indien</td><td>Spanien</td></tr>
-<tr><td>Indonesien</td><td>Südafrika</td></tr>
+<tr><td>Frankreich</td><td>Schweiz</td></tr>
+<tr><td>Ghana</td><td>Spanien</td></tr>
+<tr><td>Indien</td><td>Südafrika</td></tr>
+<tr><td>Indonesien</td><td>Tunesien</td></tr>
 <tr><td>Kanada</td><td>Uruguay</td></tr>
-<tr><td>Kap Verde</td><td></td></tr>
+<tr><td colspan="3"><sup>a</sup> Dänemark ist seit 2014 nicht mehr Mitglied der IDEA.</td></tr>
 </table>
 
-[^t-2]: [AS 2014 91](https://fedlex.data.admin.ch/eli/oc/2014/7), [2017 2477](https://fedlex.data.admin.ch/eli/oc/2017/230)und [2019 3781](https://fedlex.data.admin.ch/eli/oc/2019/685). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2006 1363](https://fedlex.data.admin.ch/eli/oc/2006/234); [2014 91](https://fedlex.data.admin.ch/eli/oc/2014/7); [2017 2477](https://fedlex.data.admin.ch/eli/oc/2017/230); [2019 3781](https://fedlex.data.admin.ch/eli/oc/2019/685); [2024 95](https://fedlex.data.admin.ch/eli/oc/2024/95). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

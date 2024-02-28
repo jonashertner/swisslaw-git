@@ -3,11 +3,11 @@ sr: "0.103.29"
 title: "Accordo del 27 febbraio 1995 istitutivo dell'Istituto internazionale per la democrazia e l'assistenza elettorale (International IDEA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/234"
 language: it
-version: 2019-11-12
+version: 2024-02-29
 adopted: 1995-02-27
 in_force: 2006-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/234/20191112/it/xml/fedlex-data-admin-ch-eli-cc-2006-234-20191112-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/234/20191112/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/234/20240229/it/xml/fedlex-data-admin-ch-eli-cc-2006-234-20240229-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/234/20240229/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2006** 1363; FF **2004** 3281
 
 Traduzione
 
-Concluso il 27 febbraio 1995
+Concluso il 27 febbraio 1995 Approvato dall’Assemblea federale il 18 marzo 2005[^t-1] Strumenti d’adesione svizzeri depositati il 27 marzo 2006 Entrato in vigore per la Svizzera il 26 aprile 2006
 
-Approvato dall’Assemblea federale il 18 marzo 2005[^t-1]
-
-Strumenti d’adesione svizzeri depositati il 27 marzo 2006
-
-Entrato in vigore per la Svizzera il 26 aprile 2006
-
-(Stato 12 novembre 2019)
+(Stato 29 febbraio 2024)
 
 [^t-1]: [RU 2006 1361](https://fedlex.data.admin.ch/eli/oc/2006/233)
 
@@ -279,27 +273,29 @@ Ogni Stato o organizzazione intergovernativa può in qualsiasi momento notificar
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo, redatto in un unico esemplare in lingua inglese depositato presso il Segretario generale che ne trasmetterà copie a tutti i membri dell’Istituto. Fatto a Stoccolma, il 27 febbraio 1995. (Seguono le firme)
 
-Campo d’applicazione il 12 novembre 2019**[^t-2]**
+Campo d’applicazione il 29 febbraio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th></th></tr>
-<tr><td>Australia</td><td>Indonesia</td></tr>
-<tr><td>Barbados</td><td>Lussemburgo</td></tr>
-<tr><td>Belgio</td><td>Maurizio</td></tr>
-<tr><td>Benin</td><td>Messico</td></tr>
-<tr><td>Botswana</td><td>Mongolia</td></tr>
-<tr><td>Brasile</td><td>Namibia</td></tr>
-<tr><td>Canada</td><td>Norvegia</td></tr>
-<tr><td>Capo Verde</td><td>Paesi Bassi</td></tr>
-<tr><td>Cile</td><td>Panama</td></tr>
-<tr><td>Costa Rica</td><td>Perù</td></tr>
+<tr><td>Australia</td><td>India</td></tr>
+<tr><td>Barbados</td><td>Indonesia</td></tr>
+<tr><td>Belgio</td><td>Lussemburgo</td></tr>
+<tr><td>Benin</td><td>Maurizio</td></tr>
+<tr><td>Botswana</td><td>Messico</td></tr>
+<tr><td>Brasile</td><td>Mongolia</td></tr>
+<tr><td>Canada</td><td>Namibia</td></tr>
+<tr><td>Capo Verde</td><td>Norvegia</td></tr>
+<tr><td>Cile</td><td>Paesi Bassi</td></tr>
+<tr><td>Costa Rica</td><td>Panama</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td>Perù</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>Portogallo</td></tr>
-<tr><td>Danimarca</td><td>Spagna</td></tr>
-<tr><td>Filippine</td><td>Sudafrica</td></tr>
-<tr><td>Finlandia</td><td>Svezia</td></tr>
-<tr><td>Germania</td><td>Svizzera</td></tr>
+<tr><td>Estonia</td><td>Sudafrica</td></tr>
+<tr><td>Filippine</td><td>Svezia</td></tr>
+<tr><td>Finlandia</td><td>Spagna</td></tr>
+<tr><td>Francia</td><td>Svizzera</td></tr>
+<tr><td>Germania</td><td>Tunisia</td></tr>
 <tr><td>Ghana</td><td>Uruguay</td></tr>
-<tr><td>India</td><td></td></tr>
+<tr><td colspan="3"><sup>a</sup> La Danimarca non è più membro dell’IDEA dal 2014.</td></tr>
 </table>
 
-[^t-2]: [RU 2006 1363](https://fedlex.data.admin.ch/eli/oc/2006/234), [2014 91](https://fedlex.data.admin.ch/eli/oc/2014/7), [2017 2477](https://fedlex.data.admin.ch/eli/oc/2017/230), [2019 3781](https://fedlex.data.admin.ch/eli/oc/2019/685). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2006 1363](https://fedlex.data.admin.ch/eli/oc/2006/234); [2014 91](https://fedlex.data.admin.ch/eli/oc/2014/7); [2017 2477](https://fedlex.data.admin.ch/eli/oc/2017/230); [2019 3781](https://fedlex.data.admin.ch/eli/oc/2019/685); [2024 95](https://fedlex.data.admin.ch/eli/oc/2024/95). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
