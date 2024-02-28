@@ -10,7 +10,7 @@ version_adopted: 2023-10-31
 adopted: 1998-04-09
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/811.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3591/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3592/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -2076,7 +2076,7 @@ als Gesetz:[^ingress-4]
 
 <sup>1</sup> Von den steuerbaren Zuwendungen werden für die Berechnung der Steuer abgezogen:
 
-- a) für jeden Elternteil, Stief- und Pflegeelternteil sowie die Nachkommen von Stief- und Pflegekindern Fr. 25 000.–;
+- a) für jeden Elternteil, Stief- und Pflegeelternteil, die Nachkommen von Stief- und Pflegekindern sowie Konkubinatspartner Fr. 25 000.–;
 - b) für die übrigen Empfänger Fr. 10 000.–.
 
 <sup>2</sup> Bei mehreren Zuwendungen vom gleichen Erblasser oder Schenker an den gleichen Empfänger wird der steuerfreie Betrag insgesamt nur einmal abgezogen.
@@ -2089,7 +2089,7 @@ als Gesetz:[^ingress-4]
 
 <sup>1</sup> Die Steuer beträgt:
 
-- a) 10 Prozent für die Eltern, Stief- und Pflegeeltern sowie die Nachkommen von Stief- und Pflegekindern;
+- a) 10 Prozent für die Eltern, Stief- und Pflegeeltern, die Nachkommen von Stief- und Pflegekindern sowie Konkubinatspartner;
 - b) 20 Prozent für die Geschwister, Schwiegereltern, Schwiegersohn, Schwiegertochter und Grosseltern;
 - c) 30 Prozent für die übrigen Empfänger.
 
