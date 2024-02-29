@@ -3,26 +3,26 @@ canton: ZG
 number: "413.111"
 title: Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 language: de
-version: 2022-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-11-04
+version: 2024-03-01
+valid_until: 2026-07-31
+version_adopted: 2024-02-15
 adopted: 2026-07-13
 in_force: 2026-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.111"
-pdf: "https://bgs.zg.ch/api/de/versions/2282/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2532/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 
-Vom 5. Juni 2012 (Stand 1. Januar 2022)
+Vom 5. Juni 2012 (Stand 1. März 2024)
 
 Das Amt für Berufsbildung des Kantons Zug,
 
 gestützt auf § 2 Abs. 2 Bst. a–c des Einführungsgesetzes zu den Bundesgesetzen über die Berufsbildung und die Fachhochschulen vom 30. August 2001[^ingress-1],
 
-verfügt:
+beschliesst:
 
 [^ingress-1]: BGS [413.11](https://bgs.zg.ch/data/413.11/de)
 
@@ -67,6 +67,8 @@ verfügt:
 
 <sup>9</sup> Die Abrechnung erfolgt am Ende des Kalenderjahrs. Der Kanton kann per Ende des 1. Quartals eine Vorauszahlung von maximal 70 % des erwarteten Kantonsbeitrags leisten.
 
+<sup>10</sup> Das Amt für Berufsbildung übernimmt den Arbeitgeberbeitrag für Lernende ohne Lehrvertrag, welcher beim Besuch der überbetrieblichen Kurse anfällt.
+
 #### § 3
 
 **Bildungsbewilligung**
@@ -99,6 +101,8 @@ verfügt:
 
 <sup>2</sup> Gesuche um Befreiung von Kursen für Berufsbildnerinnen und Berufsbildner sind dem Amt mit der Meldung der/des Berufsbildungsverantwortlichen einzureichen. Dem Gesuch sind die Unterlagen zum Nachweis einer gleichwertigen Ausbildung beizulegen.
 
+<sup>3</sup> Auf Gesuch hin kann sich das Amt für Berufsbildung an den Kosten eines anderweitig absolvierten Kurses (durchgeführt durch einen anderen Anbieter) beteiligen, sofern dieser denselben Qualitätsansprüchen genügt.
+
 #### § 7
 
 **Aufnahmeverfahren an die Berufsmaturitätsschulen**
@@ -119,6 +123,8 @@ verfügt:
 
 <sup>7</sup> Für gelernte Berufsleute, die im Besitz eines eidgenössischen Fähigkeitszeugnisses sind, kommt das Aufnahmeverfahren an eine Berufsmaturitätsschule (BM 2) gemäss Abs. 3 und 4 in erwachsenengerechter Form sinngemäss zur Anwendung und ist in den Reglementen der Berufsmaturitätsschulen des Kantons Zug geregelt.
 
+<sup>7a</sup> Die Berufsmaturitätsschulen reichen dem Amt für Berufsbildung ihre Reglemente nach erfolgter Anpassung ein[^7-2].
+
 <sup>8</sup> Die Anmeldung an eine Berufsmaturitätsschule (BM 2) für gelernte Berufsleute, die im Besitz eines eidgenössischen Fähigkeitszeugnisses sind, erfolgt direkt an die entsprechende Berufsmaturitätsschule.
 
 <sup>9</sup> Mit Bezug auf den Eintritt in eine Berufsmaturitätsschule für gelernte Berufsleute entscheidet das Amt über die Gleichwertigkeit von Berufsabschlüssen, die ausserhalb der SBFI-Normen erworben worden sind.
@@ -126,6 +132,7 @@ verfügt:
 <sup>10</sup> In Grenz- und Spezialfällen entscheidet das Amt über die Aufnahme.
 
 [^7-1]: BGS [412.113](https://bgs.zg.ch/data/412.113/de)
+[^7-2]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
 
 #### § 7a
 
