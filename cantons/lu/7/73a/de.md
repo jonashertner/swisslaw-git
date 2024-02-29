@@ -4,13 +4,13 @@ number: 73a
 title: Besoldungsverordnung für das Staatspersonal
 short: BVO
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2024-11-05
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/73a"
-pdf: "https://srl.lu.ch/api/de/versions/4289/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4289/pdf_file"
 
 (BVO)
 
-vom 24.09.2002 (Stand 01.01.2024)
+vom 24.09.2002 (Stand 01.03.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -94,13 +94,17 @@ beschliesst:
 
 #### § 7
 
-**Lohnband**
+**Lohnanteile und Tendenzkurve**
 
-<sup>1</sup> Für jede Lohnklasse besteht ein Lohnband, welches sich aus den folgenden drei Lohnanteilen ergibt:
+<sup>1</sup> Der Lohn innerhalb einer Lohnklasse ergibt sich aus den folgenden drei Lohnanteilen:
 
 - a. Der Funktionsanteil berücksichtigt die Grundanforderungen der Funktion. Er entspricht dem Mindestlohn der Lohnklasse.
-- b. Der Erfahrungsanteil berücksichtigt die nutzbare Erfahrung der Angestellten. Er beträgt maximal 22,5 Prozent des Funktionsanteils. Es bestehen 15 degressiv zunehmende Erfahrungsstufen. In der Regel erhöht sich die nutzbare Erfahrung jedes Jahr um eine Stufe. Die Erhöhung erfolgt auf denselben Zeitpunkt wie die generelle und die individuelle Lohnanpassung. Funktionsanteil und Erfahrungsanteil ergeben addiert den unteren Rand des Lohnbandes.
-- c. Der Leistungsanteil berücksichtigt die Leistung der Angestellten und ist wie folgt definiert: Der untere Rand des Lohnbandes gemäss Unterabsatz b entspricht dem 90‑Prozent-Wert des Leistungsanteils, woraus sich der 100-Prozent-Wert als mittlerer Verlauf und der obere Rand des Lohnbandes bei 110 Prozent ergeben. Die Abweichung vom mittleren Verlauf beträgt höchstens +/–10 Prozent. Die Leistung der Angestellten wird gemäss den §§ 62 ff. der Personalverordnung[^7-1] beurteilt.
+- b. Der Erfahrungsanteil berücksichtigt die nutzbare Erfahrung der oder des Angestellten. Es bestehen 15 degressiv zunehmende Erfahrungsstufen. Eine Stufe stellt die durchschnittliche nutzbare Erfahrung eines Jahres dar. Für die Beurteilung des Erfahrungszuwachses der oder des Angestellten können die Erfahrungsstufen in halbe Stufen aufgeteilt werden. Massgebend dabei ist die Abweichung vom für die Funktion typischen durchschnittlichen Erfahrungszuwachs. Die Dienststelle Personal erlässt Weisungen dazu.
+- c. Der Leistungsanteil berücksichtigt die Leistung der oder des Angestellten. Die Leistung wird gemäss den §§ 62 ff. der Personalverordnung[^7-1] beurteilt.
+
+<sup>2</sup> Für jede Lohnklasse wird eine Tendenzkurve festgelegt, welche den Lohn bei guter Leistung und entsprechender Erfahrung aufzeigt. Sie verläuft degressiv zwischen 111 Prozent des Minimalwertes der Lohnklasse bei Erfahrungsstufe 0 und 90 Prozent des Maximalwertes der Lohnklasse bei Erfahrungsstufe 15.
+
+<sup>3</sup> Die Tendenzkurve dient als Grundlage für die Festlegung und Entwicklung des Lohnes. Aus ihr lassen sich keine direkten Lohnansprüche ableiten.
 
 [^7-1]: SRL Nr. [52](https://srl.lu.ch/data/52/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
 
@@ -108,11 +112,13 @@ beschliesst:
 
 **Lohnfestlegung**
 
-<sup>1</sup> Die zuständige Behörde legt den Lohn innerhalb des Lohnbandes fest. Die Höhe des Lohnes richtet sich grundsätzlich nach
+<sup>1</sup> Die zuständige Behörde legt den Lohn innerhalb der zugewiesenen Lohnklasse fest. Die Höhe des Lohnes richtet sich grundsätzlich nach
 
 - a. der Lohnklasse, der die ausgeübte Funktion zugewiesen ist,
 - b. der nutzbaren Erfahrung und der Leistung der oder des Angestellten,
 - c. den bewilligten Mitteln.
+
+<sup>1<sup>bis</sup></sup> Der Erfahrungszuwachs und die Leistung der oder des Angestellten werden jedes Jahr gemäss § 7 Absatz 1b und c beurteilt.
 
 <sup>2</sup> Interne Quervergleiche und die Lage auf dem Arbeitsmarkt können ergänzend berücksichtigt werden.
 
@@ -122,7 +128,7 @@ beschliesst:
 
 **Erstmalige Einreihung in das Lohnsystem**
 
-<sup>1</sup> Die zuständige Behörde legt den Lohn zu Beginn des Arbeitsverhältnisses aufgrund der Kriterien gemäss § 7a fest, wobei an die Stelle der gemessenen Leistung die Leistungserwartung tritt.
+<sup>1</sup> Die zuständige Behörde legt den Lohn zu Beginn des Arbeitsverhältnisses aufgrund der Kriterien gemäss § 7a fest, wobei an die Stelle der beurteilten Leistung die Leistungserwartung tritt.
 
 <sup>2</sup> Die berufliche und die ausserberufliche Erfahrung werden berücksichtigt, soweit sie für die Funktion nutzbar sind. Berücksichtigt werden insbesondere
 
@@ -162,7 +168,7 @@ beschliesst:
 
 **Individuelle Lohnanpassungen**
 
-<sup>1</sup> Die zuständige Behörde legt unter Berücksichtigung des Beurteilungswertes und der für die Lohnfestlegung massgebenden Kriterien nach den jährlichen Vorgaben des Regierungsrates die individuellen Lohnanpassungen fest und teilt diese den Angestellten mit.
+<sup>1</sup> Die zuständige Behörde legt unter Berücksichtigung der erbrachten Leistung und des individuellen Erfahrungszuwachses nach den jährlichen Vorgaben des Regierungsrates die individuellen Lohnanpassungen fest und teilt diese den Angestellten mit.
 
 <sup>2</sup> Die individuellen Lohnanpassungen von Angestellten, die von einem gesetzgebenden Organ gewählt werden, richten sich nach der Entwicklung der nutzbaren Erfahrung.
 
@@ -458,7 +464,7 @@ beschliesst:
 
 [^38-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
-## 8 Schlussbestimmungen
+## 8 Übergangs- und Schlussbestimmungen
 
 #### § 39
 
@@ -475,6 +481,20 @@ beschliesst:
 <sup>1</sup> Die Besoldungsverordnung für das Staatspersonal vom 11. Juli 1989[^40-1] wird aufgehoben.
 
 [^40-1]: K 1989 1398 und G 1990 97 und 220 (SRL Nr. 73a)
+
+#### § 40a
+
+**Übergangsbestimmung zur Änderung vom (Tendenzkurve)**
+
+<sup>1</sup> Die Tendenzkurven der Lohnklassen 14 bis 18 betragen per 1. März 2024 mindestens 111 Prozent des Minimalwerts der Lohnklasse und maximal
+
+- a. 87,1 Prozent des Maximalwertes der Lohnklasse bei Lohnklasse 14
+- b. 86,5 Prozent des Maximalwertes der Lohnklasse bei Lohnklasse 15
+- c. 86,0 Prozent des Maximalwertes der Lohnklasse bei Lohnklasse 16
+- d. 85,4 Prozent des Maximalwertes der Lohnklasse bei Lohnklasse 17
+- e. 84,9 Prozent des Maximalwertes der Lohnklasse bei Lohnklasse 18
+
+<sup>2</sup> Die Werte in Absatz 1a–e werden jährlich per 1. März in jeweils fünf gleichmässigen Schritten angehoben, bis sie 90 Prozent des Maximalwerts der jeweiligen Lohnklasse entsprechen. Die erste Anhebung erfolgt per 1. März 2024, die letzte per 1. März 2028.
 
 #### § 41
 
