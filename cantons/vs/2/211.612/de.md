@@ -3,20 +3,20 @@ canton: VS
 number: "211.612"
 title: Verordnung über die Führung des informatisierten Grundbuchs
 language: de
-version: 2021-03-01
-valid_until: 2024-02-29
-version_adopted: 2020-12-23
+version: 2024-03-01
+valid_until: 2025-09-30
+version_adopted: 2024-02-07
 adopted: 2012-10-17
 in_force: 2013-02-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.612"
-pdf: "https://lex.vs.ch/api/de/versions/2791/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Führung des informatisierten Grundbuchs
 
-vom 17.10.2012 (Stand 01.03.2021)
+vom 17.10.2012 (Stand 01.03.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -48,51 +48,68 @@ verordnet:
 
 <sup>1</sup> Jedes Grundbuchamt führt für die im informatisierten Grundbuch aufgenommenen Grundstücke ein Eigentümerregister, ein Gläubigerregister und ein Register "übrige Berechtigte" mittels Informatik.
 
-## 2 Öffentlicher Zugang
+## 2
 
 #### Art. 3
 
-**Elektronische Auskunft und Einsichtnahme**
+**…**
 
-<sup>1</sup> Jede Person hat über das Internet Zugang zu den öffentlich zugänglichen Daten des Hauptbuchs im Umfang von Artikel 27 GBV.
-
-<sup>2</sup> Die Daten können nur grundstücksbezogen abgerufen werden und das Auskunftssystem ist vor Serienabfragen geschützt.
-
-## 3 Erweiterter Zugang
+## 3 Elektronischer Zugang zu den Grundbuchdaten
 
 #### Art. 4
 
-**Zugriffsberechtigung**
+**Organisation**
 
-<sup>1</sup> Der erweiterte Zugang kann den in Artikel 28 GBV genannten Personen und Behörden durch die Dienststelle der Grundbuchämter und der Geomatik erteilt werden.
+<sup>1</sup> Die für das Grundbuchwesen zuständige Dienststelle (nachfolgend: Dienststelle) ist für die Einrichtung und Verwaltung der Systeme für den elektronischen Zugang zu den Grundbuchdaten zuständig. Sie kann ihre Aufgaben gemäss Artikel 949d ZGB delegieren.
 
-<sup>2</sup> Der Anhang 1 legt den Rahmen fest, innerhalb welchem die Zugriffsberechtigung erteilt werden kann.
+<sup>2</sup> …
+
+#### Art. 4a
+
+**Allgemeine Bestimmungen**
+
+<sup>1</sup> Der elektronische Zugang zu den Grundbuchdaten umfasst den öffentlichen Zugang gemäss Artikel 27 GBV (nachfolgenden Art. 5) und den erweiterten Zugang gemäss Artikel 28 GBV (nachfolgenden Art. 6).
+
+<sup>2</sup> Ein elektronischer Zugang zu den Grundbuchdaten darf nur bestimmten Benutzern und innerhalb des im Anhang 1 dieser Verordnung festgelegten Rahmens erteilt werden. Die Dienststelle definiert die Gruppenzugehörigkeit der Benutzer, die einen Zugang ersuchen, sowie deren Rollen und Rechte, die ihnen erteilt werden können, je nach Interesse und Begründung.
+
+<sup>3</sup> Die Dienststelle kann eine Zugriffsberechtigung verweigern, einschränken oder entziehen, insbesondere wenn:
+
+- a) die Daten missbräuchlich abgerufen, verwendet oder bearbeitet werden; als missbräuchlich gilt insbesondere der unberechtigte Zugriff oder die unrechtmässige Bearbeitung von Daten, namentlich die Bearbeitung zu Zwecken der Kundengewinnung; in diesen Fällen wird die Zugriffsberechtigung gemäss Artikel 30 Absatz 4 GBV verweigert, eingeschränkt oder unverzüglich entzogen;
+- b) ein Missbrauch festgestellt wurde und der Benutzer nicht nachgewiesen hat, dass ausreichende Massnahmen ergriffen wurden, um seinen Verpflichtungen künftig nachzukommen;
+- c) das Interesse an der Zugriffsberechtigung nicht oder nicht mehr gerechtfertigt ist;
+- d) der Stand der Technik einen rechtskonformen Zugriff nicht oder nicht mehr ermöglicht.
+
+<sup>4</sup> Entscheidungen der Dienststelle über die Verweigerung, die Einschränkung oder den Entzug einer Zugriffsberechtigung sind auf Antrag zu begründen und können angefochten werden. Die Dienststelle kann aus wichtigen Gründen die aufschiebende Wirkung ganz oder teilweise entziehen.
 
 #### Art. 5
 
-**Regelung der Einzelheiten**
+**Öffentlicher Zugang**
 
-<sup>1</sup> Die zum erweiterten Zugang berechtigten Personen sind verpflichtet, mit der Dienststelle der Grundbuchämter und der Geomatik (nachfolgend: Dienststelle) eine Vereinbarung nach dem verbindlichen Muster des eidgenössischen Amtes für Grundbuch- und Bodenrecht abzuschliessen.
+<sup>1</sup> Die Daten des elektronischen Hauptbuchs, die jede Person einsehen kann ohne ein Interesse glaubhaft machen zu müssen, nach Artikel 27 Absatz 1 GBV, sind in Anhang 1 dieser Verordnung definiert.
 
-<sup>2</sup> Diese Vereinbarung regelt namentlich die Art und Weise des Zugriffs, die Zugriffskontrolle, den Verwendungszweck der bezogenen Daten, den Schutz vor unbefugtem Zugang zu den Daten, die Einschränkungen hinsichtlich der Weitergabe von Daten an Dritte und die Folgen missbräuchlicher Bearbeitung der Daten.
+<sup>2</sup> Der öffentliche Zugang wird den Benutzern elektronisch über ein Abrufsystem mit Benutzererkennung gewährt.
 
-<sup>3</sup> Die Weitergabe der Daten an unberechtigte Dritte sowie die Benutzung des erweiterten Zugangs durch unberechtigte Dritte ist verboten.
+<sup>3</sup> Der öffentliche Zugang findet nur grundstücksbezogen statt und das Auskunftssystem ist vor Serienabfragen geschützt (Art. 27 Abs. 2 GBV).
 
 #### Art. 6
 
-**Verfahren**
+**Erweiterter Zugang**
 
-<sup>1</sup> Der erweiterte Zugang wird den Berechtigten durch einen elektronischen Zugriff im Abrufverfahren gewährt.
+<sup>1</sup> Der erweiterte Zugang kann den in Artikel 28 GBV genannten Personen und Behörden, und innerhalb des im Anhang 1 dieser Verordnung festgelegten Rahmens, erteilt werden.
 
-<sup>2</sup> Die Zugriffe werden vom Auskunftssystem automatisch protokolliert und die Protokolle werden während zwei Jahren aufbewahrt.
+<sup>2</sup> Der erweiterte Zugang wird den Benutzern elektronisch über ein Abrufsystem mit Benutzererkennung gewährt.
 
-<sup>3</sup> Werden Daten missbräuchlich verwendet oder bearbeitet, entzieht die Dienststelle die Zugriffsberechtigung mittels beschwerdefähiger Verfügung unverzüglich.
+<sup>3</sup> Die Benutzer sind verpflichtet, mit der Dienststelle eine Vereinbarung gemäss Artikel 29 GBV abzuschliessen.
+
+<sup>4</sup> Die Weitergabe der Daten an unberechtigte Dritte sowie die Benutzung des erweiterten Zugangs durch unberechtigte Dritte ist verboten.
+
+<sup>5</sup> Beim erweiterten elektronischen Zugang werden Zugriffe vom System automatisch protokolliert. Die Protokolle enthalten mindestens folgende Angaben: Identität und Funktion der Person oder Behörde, die auf das System zugreift, sowie Grundstücksnummer und Zugriffszeitpunkt. Sie werden während zwei Jahren aufbewahrt (Art. 30 Abs. 1 GBV).
 
 #### Art. 7
 
-**Gebührenerhebung**
+**Gebühren**
 
-<sup>1</sup> Für den erweiterten Zugang werden Gebühren in Form einer jährlichen Pauschalgebühr und einer Gebühr pro Abfrage gemäss Anhang 2 erhoben.
+<sup>1</sup> Für elektronische Zugänge zu den Grundbuchdaten werden Gebühren nach Anhang 2 dieser Verordnung erhoben.
 
 ## 3a Elektronischer Geschäftsverkehr
 
@@ -158,118 +175,127 @@ verordnet:
 
 <sup>1</sup> Die besonderen Vereinbarungen gemäss Artikel 5, welche durch die verschiedenen Berechtigten vor Erlass der vorliegenden Änderung unterzeichnet worden, bleiben in Kraft. Die Bestimmungen dieser Vereinbarungen werden ausgedehnt und finden zwingend auf die Zugriffsberechtigungen Anwendung.
 
-## A1 Anhang 1 zu Artikel 4
+## T2 Übergangsbestimmung der Änderung vom 07.02.2024
+
+#### Art. T2-1
+
+<sup>1</sup> Die besonderen Vereinbarungen, welche durch die verschiedenen Benutzer vor jeder Änderung dieser Verordnung unterzeichnet worden sind, bleiben in Kraft. Die Bestimmungen dieser Vereinbarungen werden ausgedehnt oder angepasst und finden zwingend auf die Zugriffsberechtigung Anwendung.
+
+## A1 Anhang 1 – Rollen, Rechte und Nutzergruppen (Art. 4a Abs. 2, Art. 5 Abs. 1 und Art. 6 Abs. 1)
 
 #### Art. A1-1
+
+**Rollen**
+
+<sup>1</sup> …
+
+<sup>2</sup>
+
+<table>
+<tr><th></th><th>R0</th><th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>R5</th><th>R6</th></tr>
+<tr><td>Eigentum\*\*</td><td>X\*\*\*</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Dominierte Grundstücke</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Plan GIS / ÖREB</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Belegnummer und Erwerbsart</td><td></td><td>X\*</td><td>X\*</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Dienstbarkeiten</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Grundlasten</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Anmerkungen (öffentlich)\*\*\*\*</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Anmerkungen (alle)</td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Pfandrechte</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
+<tr><td>Vormerkungen</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
+<tr><td>Pendente Tagebucheinträge</td><td></td><td></td><td></td><td>X\*</td><td>X\*</td><td>X\*</td><td>X\*</td></tr>
+<tr><td>Katasterwerte</td><td></td><td></td><td></td><td>X\*</td><td>X\*</td><td>X\*</td><td>X\*</td></tr>
+<tr><td>Korrespondenzadresse</td><td></td><td>X\*</td><td>X\*</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Grundstückbezogene Suche</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Personenbezogene Suche (Eigentümer oder Berechtigter)</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td></tr>
+</table>
+
+<sup>3</sup> \* Je nach Interesse und Begründung.
+
+\*\* Bezeichnung und Beschreibung des Grundstücks, Name und Identität des Eigentümers, Eigentumsart und Erwerbsdatum (Art. 26 Abs. 1 Bst. a GBV).
+
+\*\*\* Nur Bezeichnung und Beschreibung des Grundstücks, Name des Eigentümers und Eigentumsart (Art. 27 Abs. 1 GBV).
+
+\*\*\*\* Gemäss Artikel 26 Absatz 1 Buchstabe c GBV.
+
+#### Art. A1-2
+
+**Rechte**
 
 <sup>1</sup>
 
 <table>
-<tr><th>Benutzer</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th></tr>
-<tr><td>Notar</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td></tr>
-<tr><td>Im Geometerregister eingetragene Ingenieur-Geometer</td><td>nein</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Departement für Finanzen und Institutionen:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Generalsekretariat</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Finanzverwaltung\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td></tr>
-<tr><td>Steuerverwaltung\*\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>ja</td><td>ja</td></tr>
-<tr><td>Dienststelle für Personalmanagement</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für innere und kommunale Angelegenheiten:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Juristische Sektion</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>2. Sektion Gemeindefinanzen</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Sekretariat für Gleichstellung und Familie</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Rechtsdienst für Finanzen und Personal</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Informatik</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Departement für Bildung und Sicherheit:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Generalsekretariat</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Rechtsdienst für Sicherheit und Justiz</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Kantonspolizei:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Stab/Abteilung Wirtschaftsdelikte</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>ja</td><td>ja</td></tr>
-<tr><td>Dienststelle für zivile Sicherheit und Militär:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Kantonales Amt für Zivilschutz/ZS-Bauten</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Strassenverkehr und Schifffahrt</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Strafanstalten</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Bevölkerung und Migration</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Verwaltungs- und Rechtsdienst für Bildungsfragen und Sport</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für tertiäre Bildung</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Unterichtswesen</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Berufsbildung\*\*</td><td>nein</td><td>nein</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Jugend</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Departement für Volkswirtschaft, Energie und Raumentwicklung:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Generalsekretariat</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Verwaltungs- und Rechtsdienst</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td></tr>
-<tr><td>Dienststelle für Wirtschaftsentwicklung</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Handel, Industrie und Arbeit</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Landwirtschaft\*\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td></tr>
-<tr><td>Diensstelle für Energie und Wasserkraft</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Raumentwicklung</td><td>ja</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Grundbuchämter und der Geomatik</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td></tr>
-<tr><td>Kantonale Arbeitslosenkasse</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Departement für Verkehr, Bau und Umwelt</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Generalsekratriat</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Verwaltungs- und Rechtsdienst</td><td>ja</td><td>nein</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td></tr>
-<tr><td>Dienststelle für Verkehrsfragen</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Strassen- und Flussbau\*\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td></tr>
-<tr><td>Dienststelle für Hochbau, Denkmalpflege und Archäologie:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Immobilienverwaltung\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>2. Heimatschutz\*\*\*\*</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Umweltschutz</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Jagd, Fischerei und Wildtiere</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Wald und Landschaft\*\*\*</td><td>nein</td><td>nein</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Departement für Gesundheit, Soziales und Kultur</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Generalsekretariat</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Gesundheitswesen:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Sektion Verwaltung und Finanzen\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Verbraucherschutz und Veterinärwesen</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Sozialwesen:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Juristische Sektion</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>ja</td><td>ja</td></tr>
-<tr><td>Medizinischpädagogisches Zentrum La Castalie</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dienststelle für Kultur</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Betreibungs- und Konkursämter</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>ja</td><td>ja</td></tr>
-<tr><td>Staatskanzlei:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Verwaltungs- und Rechtsdienst</td><td>ja</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td></tr>
-<tr><td>2. Information</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Finanzinspektorat\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td></tr>
-<tr><td>Parlamentsdienst</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Justizbehörden</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Staatsanwaltschaft\*\*\*\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>ja</td><td>ja</td></tr>
-<tr><td>Gemeindebehörden\*\*\*\*\*\*</td><td>nein</td><td>nein</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Registerhalter\*\*\*\*\*\*</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>ja</td></tr>
-<tr><td>Institutionen (gemäss Art. 28 Abs. 1 Bst. b GBV)</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Rechtsanwälte</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
-<tr><td>Dritte zu Grundstücken, die ihnen gehören</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>ja</td><td>nein</td><td>nein</td><td>ja</td></tr>
-<tr><td>Dritte zu Grundstücke an denen sie berechtigt sind</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td><td>nein</td></tr>
+<tr><th>Recht</th><th>Beschreibung</th></tr>
+<tr><td>RE24\*</td><td>Suche nach Eigentümern beschränkt auf Grundstücke, die dem Benutzer gehören</td></tr>
+<tr><td>RE25\*</td><td>Suche nach Berechtigten beschränkt auf Grundstücke, an denen der Benutzer Rechte hat</td></tr>
+<tr><td>RE26</td><td>Suche nach Eigentümern</td></tr>
+<tr><td>RE27</td><td>Suche nach Berechtigten</td></tr>
+<tr><td>RE28a</td><td>Anzeigen des Verlaufs</td></tr>
+<tr><td>RE28b</td><td>Suche im Verlauf</td></tr>
+<tr><td>RE29\*\*</td><td>Belege</td></tr>
 </table>
 
-<sup>2</sup> 1 = Erwerbsart; 2 = Pfandrechte; 3 = Dienstbarkeiten; 4 = Grundlasten; 5 = Vormerkungen; 6 = Anmerkungen (alle); 7 = Anmerkungen i.S. v. 26 Abs. 1 Bst. c GBV; 8 = Belege; 9 = Suche personenbezogen; 10 = Historik.
+<sup>2</sup> \* Nach dem Stand der Technik (vgl. Art. 4a Abs. 3 Bst. d)
+
+\*\* Das Recht RE29 kann nur unter den Voraussetzungen von Artikel 28 Absatz 2 GBV und je nach Interesse und Begründung erteilt werden.
+
+#### Art. A1-3
+
+**Nutzergruppen**
+
+<sup>1</sup>
+
+<table>
+<tr><th></th><th>Gruppe</th><th>Kanton</th><th>Schweiz</th></tr>
+<tr><td>A</td><td>Personen, die befugt sind, öffentliche Urkunden zu erstellen und ihre Hilfspersonen</td><td>R6 mit RE26 bis RE29</td><td>R1\*</td></tr>
+<tr><td>B</td><td>Im Geometerregister eingetragene Ingenieur-Geometer und ihre Hilfspersonen</td><td>R1 oder R2 (auf bestimmte Aufgaben beschränkt: R5\*)</td><td>R0</td></tr>
+<tr><td>C</td><td>Kantonale Behörden</td><td>R0 bis R6 mit RE24 bis RE29\*</td><td>idem</td></tr>
+<tr><td>D</td><td>Kommunale Behörden</td><td>R0 bis R6 mit RE24 bis RE29 (begrenzt auf das Gebiet der betroffenen Gemeinde)\*</td><td>R0</td></tr>
+<tr><td>D1</td><td>Registerhalter</td><td>R1 oder R3 mit RE26 bis RE28b (begrenzt auf das Gebiet der betroffenen Gemeinde)</td><td>R0</td></tr>
+<tr><td>E</td><td>Im Anwaltsregister eingetragene Anwälte</td><td>R1</td><td>R0</td></tr>
+<tr><td>F</td><td>Bundesbehörden</td><td>R0 bis R6 mit RE24 bis RE29\*</td><td>idem</td></tr>
+<tr><td>G-L</td><td>Banken, Schweizerische Gesellschaft für Hotelkredit, Pensionskassen, Versicherungen, Anerkannte Institutionen nach Artikel 76 Absatz 1 Buchstabe a BGBB</td><td>R1, R2 oder R5\*</td><td>idem</td></tr>
+<tr><td>M1</td><td>Bestimmte Eigentümer</td><td>R0, R1 oder/bis R6 mit RE24 und RE29\*/\*\*</td><td>R0</td></tr>
+<tr><td>M2</td><td>Inhaber von bestimmten Rechten</td><td>R0, R1 oder/bis R6 mit RE25\*/\*\*</td><td>R0</td></tr>
+<tr><td>N</td><td>Immobilienverwaltungen, die von Eigentümern oder Berechtigten als Hilfspersonen zum Zugang ermächtigt worden sind</td><td>R0 oder R1\*/\*\*</td><td>R0</td></tr>
+<tr><td>P0</td><td>Öffentlicher Zugang (Art. 27 Abs. 1 GBV)</td><td>R0</td><td>R0</td></tr>
+</table>
+
+<sup>2</sup> \* Je nach Interesse und Begründung.
+
+\*\* Nach dem Stand der Technik (vgl. Art. 4a Abs. 3 Bst. d)
 
 <sup>3</sup> Beschränkungen:
 
-\*\* Beschränkung auf die sich im Eigentum des Kantons befindlichen Grundstücke
+A/B/C/D/D1/F: Beschränkter Zugang zu den Daten, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen (Art. 28 Abs. 1 Bst. a GBV).
 
-\*\*\* je nach Sektion Einschränkungen entsprechend amtlicher Tätigkeit
+E: Beschränkter Zugang zu den Daten, die sie zur Ausübung des Berufs im Zusammenhang mit grundstücksbezogenen Geschäften benötigen (Art. 28 Abs. 1 Bst. c GBV).
 
-\*\*\*\* Grundstücke im Privateigentum
+G-L: Beschränkter Zugang zu den Daten, die sie zur Erfüllung ihrer Aufgaben im Hypothekargeschäft benötigen (Art. 28 Abs. 1 Bst. b GBV).
 
-\*\*\*\*\* Beschränkung, wo Sachverhaltsabklärung von Amtes wegen
+M1: Beschränkter Zugang zu den Daten der Grundstücke, die ihnen gehören (Art. 28 Abs. 1 Bst. d Ziff. 1 GBV).
 
-\*\*\*\*\*\* Beschränkung auf die jeweilige Gemeinde
+M2: Beschränkter Zugang zu den Daten der Grundstücke, an denen ihnen Rechte zustehen, sofern sie die Daten zur Ausübung ihrer Geschäftstätigkeit oder zur Wahrnehmung ihrer Rechte benötigen (Art. 28 Abs. 1 Bst. d Ziff. 2 GBV).
 
-## A2 Anhang 2 zu Artikel 7
+N: Beschränkter Zugang zu den Daten, die für den Zugang als Hilfspersonen der in Artikel 28 Absatz 1 Buchstabe d GBV genannten Personen erforderlich sind (Art. 28 Abs. 1 Bst. e GBV).
+
+P0: Der öffentliche Zugang findet nur grundstücksbezogen statt und das Auskunftssystem ist vor Serienabfragen geschützt (Art. 27 Abs. 2 GBV).
+
+## A2 Anhang 2 – Gebühren (Art. 7)
 
 #### Art. A2-1
 
 **Gebühren für den Zugang zu den informatisierten Grundbuchdaten**
 
-<sup>1</sup> Öffentlich zugängliche Daten des Hauptbuches: der Zugang zu den öffentlichen Daten gemäss Artikel 27 Absatz 1 GBV ist gebührenfrei.
+<sup>1</sup> Der Zugang zu den öffentlichen Daten gemäss Artikel 27 Absatz 1 GBV (Art. 5 dieser Verordnung) ist gebührenfrei.
 
 <sup>2</sup> Erweiterter Zugang:
 
-- a) Urkundspersonen - Ingenieur-Geometer - Personen gemäss Artikel 28 Absatz 1 Buchstabe b GBV:
+- a) alle Personen, vorbehaltlich der folgenden Buchstaben:
   - 1\. einmalige Gebühr (Behandeln Gesuch, Vereinbarung, Aufschaltung Konto) — Fr. 200
-  - 2\. die jährliche Pauschalgebühr beträgt (die jährliche Pauschalgebühr wird im Voraus erhoben) — Fr. 50
+  - 2\. jährliche Pauschalgebühr (die jährliche Pauschalgebühr wird im Voraus erhoben) — Fr. 50
   - 3\. zusätzlich je Abfrage pro Grundstück (die Erhebung der Gebühr für die zusätzliche Gebühr je Abfrage erfolgt ebenfalls einmal jährlich) — Fr. 1
-- b) Kantonale und kommunale Behörden:
-  - 1\. der Zugang zu den informatiserten Grundbuchdaten erfolgt für die kommunalen und kantonalen Behörden gebührenfrei.
+- b) Bundesbehörden, kantonale und kommunale Behörden:
+  - 1\. der Zugang zu den Daten ist gebührenfrei.
 
 CSW BO/Abl. 5/2013

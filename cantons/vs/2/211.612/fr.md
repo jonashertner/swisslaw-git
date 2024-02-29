@@ -3,20 +3,20 @@ canton: VS
 number: "211.612"
 title: Ordonnance sur la tenue du registre foncier informatisé
 language: fr
-version: 2021-03-01
-valid_until: 2024-02-29
-version_adopted: 2020-12-23
+version: 2024-03-01
+valid_until: 2025-09-30
+version_adopted: 2024-02-07
 adopted: 2012-10-17
 in_force: 2013-02-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.612"
-pdf: "https://lex.vs.ch/api/fr/versions/2791/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3291/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la tenue du registre foncier informatisé
 
-du 17.10.2012 (état 01.03.2021)
+du 17.10.2012 (état 01.03.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -48,51 +48,68 @@ ordonne:
 
 <sup>1</sup> Chaque registre foncier tient, pour les immeubles immatriculés dans le registre foncier informatisé, un registre des propriétaires, un registre des créanciers et un registre des "autres bénéficiaires" par voie informatique.
 
-## 2 Accès public
+## 2
 
 #### Art. 3
 
-**Renseignements électroniques et accès aux données**
+**…**
 
-<sup>1</sup> Toute personne a accès par Internet aux données du grand livre ouvertes au public conformément à l’article 27 ORF.
-
-<sup>2</sup> L’accès aux données n’a lieu qu’en relation avec un immeuble déterminé et le système d’informations est protégé contre les appels en série.
-
-## 3 Accès étendu
+## 3 Accès en ligne aux données du registre foncier
 
 #### Art. 4
 
-**Titulaires du droit**
+**Organisation**
 
-<sup>1</sup> L’accès étendu peut être donné par le service des registres fonciers et de la géomatique aux personnes et autorités prévues à l’article 28 ORF.
+<sup>1</sup> Le service en charge du registre foncier (ci-après: le service) est compétent pour la mise en place et la gestion des systèmes d’accès en ligne aux données du registre foncier. Il peut déléguer ses tâches conformément à l’article 949d CC.
 
-<sup>2</sup> L’annexe 1 fixe le cadre dans lequel l’accès étendu aux titulaires du droit peut être attribué.
+<sup>2</sup> …
+
+#### Art. 4a
+
+**Dispositions générales**
+
+<sup>1</sup> L’accès en ligne aux données du registre foncier comprend l’accès public au sens de l’article 27 ORF (art. 5 ci-après) et l’accès étendu au sens de l’article 28 ORF (art. 6 ci-après).
+
+<sup>2</sup> Un accès en ligne aux données du registre foncier ne peut être attribué qu’aux utilisateurs prévus et dans le cadre fixé à l’annexe 1 de la présente ordonnance. Le service définit le groupe d’appartenance des utilisateurs qui requièrent un accès, ainsi que les rôles et droits qui peuvent leur être attribués, en fonction de leurs intérêt et justification.
+
+<sup>3</sup> Le service peut refuser, restreindre ou retirer un droit d’accès, notamment si:
+
+- a) les données sont consultées, utilisées ou traitées abusivement; sont en particulier considérés comme abusifs l’accès non autorisé ou le traitement illicite des données, notamment le traitement à des fins de démarchage; dans ces cas, le droit d’accès est refusé, restreint ou retiré immédiatement, conformément à l’article 30 alinéa 4 ORF;
+- b) un abus a été constaté et qu’aucune preuve n’a été apportée par l’utilisateur que des mesures suffisantes ont été prises pour respecter à l’avenir ses obligations;
+- c) l’intérêt au droit d’accès n’est pas ou plus justifié;
+- d) l’état de la technique ne permet pas ou plus un accès conforme au droit.
+
+<sup>4</sup> Les décisions du service en matière de refus, restriction ou retrait d’un droit d’accès sont motivées sur demande et susceptibles de recours. Le service peut, pour de justes motifs, retirer totalement ou partiellement l’effet suspensif.
 
 #### Art. 5
 
-**Règlement des détails**
+**Accès public**
 
-<sup>1</sup> Les personnes ayant droit à l’accès étendu ont l’obligation de conclure avec le service des registres fonciers et de la géomatique (ci-après: le service) une convention conforme aux modèles obligatoires de l’Office fédéral chargé du droit du registre foncier et du droit foncier.
+<sup>1</sup> Les données du grand livre en ligne que toute personne peut consulter sans être tenue de rendre vraisemblable un intérêt, selon l'article 27 alinéa 1 ORF, sont définies à l'annexe 1 de la présente ordonnance.
 
-<sup>2</sup> La convention règle notamment le type et le mode d’accès, le contrôle de l’appel de données, le but des données obtenues, la protection contre l’accès non autorisé aux données par des tiers, les restrictions s’agissant de leur remise à un tiers et les conséquences du traitement abusif des données.
+<sup>2</sup> L’accès public est octroyé aux utilisateurs de manière électronique au moyen d’un système d’appel avec identifiant d’utilisateur.
 
-<sup>3</sup> La transmission des données à des tiers non autorisés et l’utilisation de l’accès étendu par des tiers non autorisés sont interdites.
+<sup>3</sup> L’accès public n’a lieu qu’en relation avec un immeuble déterminé et le système d’informations est protégé contre les appels en série (art. 27 al. 2 ORF).
 
 #### Art. 6
 
-**Procédure**
+**Accès étendu**
 
-<sup>1</sup> L’accès étendu est donné à l’ayant droit au moyen d’un accès électronique dans la procédure d’appel.
+<sup>1</sup> L’accès étendu peut être octroyé aux personnes et autorités prévues à l’article 28 ORF et dans le cadre fixé à l'annexe 1 de la présente ordonnance.
 
-<sup>2</sup> Les accès doivent être enregistrés automatiquement par le système et conservés pendant deux ans.
+<sup>2</sup> L’accès étendu est octroyé aux utilisateurs de manière électronique au moyen d’un système d’appel avec identifiant d’utilisateur.
 
-<sup>3</sup> Si les données sont utilisées ou traitées abusivement, le droit d’accès est retiré immédiatement par décision du service susceptible de recours.
+<sup>3</sup> Les utilisateurs ont l’obligation de conclure avec le service une convention conforme à l’article 29 ORF.
+
+<sup>4</sup> La transmission des données à des tiers non autorisés et l’utilisation de l’accès étendu par des tiers non autorisés sont interdites.
+
+<sup>5</sup> Le système enregistre automatiquement les consultations effectuées au moyen d’un accès étendu en ligne. Les fichiers journaux indiquent au moins l’identité et la fonction de la personne ou la désignation de l’autorité qui effectue la consultation, le numéro de l’immeuble, la date et l’heure de la consultation. Ils sont conservés pendant deux ans (art. 30 al. 1 ORF).
 
 #### Art. 7
 
-**Emolument pour accès**
+**Emoluments**
 
-<sup>1</sup> L’accès étendu entraîne la perception d’un émolument forfaitaire annuel et un émolument calculé selon le nombre d’appels, conformément à l’annexe 2.
+<sup>1</sup> Les accès en ligne aux données du registre foncier entraînent la perception d’émoluments conformément à l’annexe 2 de la présente ordonnance.
 
 ## 3a Communications et transactions électroniques
 
@@ -158,118 +175,127 @@ ordonne:
 
 <sup>1</sup> Les conventions particulières de l’article 5 signées par les différents titulaires du droit avant la présente modification restent valables. Les clauses de ces conventions sont étendues et s’appliquent obligatoirement au nouvel accès de données.
 
-## A1 Annexe 1 à l'article 4
+## T2 Disposition transitoire de la modification du 07.02.2024
+
+#### Art. T2-1
+
+<sup>1</sup> Les conventions particulières signées par les différents utilisateurs avant toute modification de la présente ordonnance restent valables. Les clauses de ces conventions sont étendues ou adaptées et s’appliquent obligatoirement au nouvel accès de données.
+
+## A1 Annexe 1 – Rôles, droits et groupes d'utilisateurs (art. 4a al. 2, art. 5 al. 1 et art. 6 al. 1)
 
 #### Art. A1-1
+
+**Rôles**
+
+<sup>1</sup> …
+
+<sup>2</sup>
+
+<table>
+<tr><th></th><th>R0</th><th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>R5</th><th>R6</th></tr>
+<tr><td>Propriété\*\*</td><td>X\*\*\*</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Immeubles dépendants</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Plan SIT / RDPPF</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>No. de PJ et mode d’acquisition</td><td></td><td>X\*</td><td>X\*</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Servitudes</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Charges foncières</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Mentions (publiques)\*\*\*\*</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Mentions (toutes)</td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Droits de gage</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
+<tr><td>Annotations</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
+<tr><td>Inscription du journal en cours</td><td></td><td></td><td></td><td>X\*</td><td>X\*</td><td>X\*</td><td>X\*</td></tr>
+<tr><td>Valeurs cadastrales</td><td></td><td></td><td></td><td>X\*</td><td>X\*</td><td>X\*</td><td>X\*</td></tr>
+<tr><td>Adresses de correspondance</td><td></td><td>X\*</td><td>X\*</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Recherche par immeuble déterminé</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Recherche par personne (propriétaire ou titulaire de droits)</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td></tr>
+</table>
+
+<sup>3</sup> \* Selon intérêt et justification.
+
+\*\* Désignation et état descriptif de l’immeuble, nom et identité du propriétaire, forme de propriété et date d'acquisition (art. 26 al. 1 let. a ORF).
+
+\*\*\* Uniquement désignation et état descriptif de l’immeuble, nom du propriétaire et forme de propriété (art. 27 al. 1 ORF).
+
+\*\*\*\* Selon l’article 26 alinéa 1 lettre c ORF.
+
+#### Art. A1-2
+
+**Droits**
 
 <sup>1</sup>
 
 <table>
-<tr><th>Utilisateur</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th></tr>
-<tr><td>Notaire</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td></tr>
-<tr><td>Ingenieurs-géomètres (inscrits au registre des géomètres)</td><td>non</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Département des finances et des institutions:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Etat-major</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Administration cantonale des finances\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>oui</td></tr>
-<tr><td>Service cantonal des contributions\*\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>oui</td><td>oui</td></tr>
-<tr><td>Service des ressources humaines</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service des affaires intérieures et communales:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Section juridique</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>2. Section des finances communales</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Secrétariat à l'égalité et à la famille</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service juridique des finances et du personnel</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service cantonal de l'informatique</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Département de la formation et de la sécurité:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Etat-major</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service juridique de la sécurité et de la justice</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Police cantonale:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Etat-major/Section financière</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>oui</td><td>oui</td></tr>
-<tr><td>Service de la sécurité civile et militaire:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Office cantonal de la protection civile/Constructions Pci</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la circulation et de la navigation</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Etablissements pénitentiaires</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la population et des migrations</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service administratif et juridique de la formation et du sport</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la formation tertiaire</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de l'enseignement</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la formation professionnelle\*\*</td><td>non</td><td>non</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service cantonal de la jeunesse</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Département de l'économie, de l'énergie et du territoire:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Etat-major</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service administratif et juridique</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>oui</td></tr>
-<tr><td>Service du développement économique</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de l'industrie, du commerce et du travail</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de l'agriculture\*\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>oui</td></tr>
-<tr><td>Service de l'énergie et des forces hydrauliques</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service du développement territorial</td><td>oui</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service des registre fonciers et de la géomatique</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td></tr>
-<tr><td>Caisse cantonale de chômage</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Département des transports, de l'équipement et de l'environnement:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Etat-major</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service administratif et juridique</td><td>oui</td><td>non</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>oui</td></tr>
-<tr><td>Service des transports</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service des routes et des cours d'eau\*\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>oui</td></tr>
-<tr><td>Service des bâtiments, monuments et archéologie:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Gestion des immeubles\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>2. Patrimoine\*\*\*\*</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la protection de l'environnement</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la chasse, de la pêche et de la faune</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service des forêts et du paysage\*\*\*</td><td>non</td><td>non</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Département de la santé, des affaires sociales et de la culture:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Etat-major</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la santé publique:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Section gestion et finances\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la consommation et affaires vétérinaires</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de l'action sociale:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Section juridique</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>oui</td><td>oui</td></tr>
-<tr><td>Centre médico-éducatif, La Castalie</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de protection des travailleurs et des relations du travail</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Service de la culture</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Offices des poursuites et faillites</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>oui</td><td>oui</td></tr>
-<tr><td>Chancellerie d'Etat:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1. Affaires juridique</td><td>oui</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>oui</td></tr>
-<tr><td>2. Information</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Inspection cantonale des finances\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>oui</td></tr>
-<tr><td>Service parlementaire</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Autorités judiciaires</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Ministère public\*\*\*\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>oui</td><td>oui</td></tr>
-<tr><td>Administrations communales\*\*\*\*\*\*</td><td>non</td><td>non</td><td>oui</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Teneurs des cadastres\*\*\*\*\*\*</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>oui</td></tr>
-<tr><td>Institutions (art. 28 al. 1 let. b ORF)</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>avocats</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
-<tr><td>Personnes pour les immeubles qui leur appartiennent</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>oui</td><td>non</td><td>non</td><td>oui</td></tr>
-<tr><td>Personnes pour les immeubles sur lesquels elles ont des droits</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td><td>non</td></tr>
+<tr><th>Droit</th><th>Description</th></tr>
+<tr><td>D24\*</td><td>Recherche par propriétaire limitée aux immeubles propriétés de l’utilisateur</td></tr>
+<tr><td>D25\*</td><td>Recherche par titulaire de droits limitée aux immeubles sur lesquels l’utilisateur détient des droits</td></tr>
+<tr><td>D26</td><td>Recherche par propriétaire</td></tr>
+<tr><td>D27</td><td>Recherche par titulaire de droits</td></tr>
+<tr><td>D28a</td><td>Affichage de l’historique</td></tr>
+<tr><td>D28b</td><td>Recherche dans l’historique</td></tr>
+<tr><td>D29\*\*</td><td>Pièces justificatives</td></tr>
 </table>
 
-<sup>2</sup> 1 = mode d'acquisition; 2 = droits de gage; 3 = servitudes; 4 = charges foncières;5 = annotations; 6 = mentions (toutes); 7 = mentions (Art. 26. al. 1 let. c ORF); 8 = pièces justificatives; 9 = recherche par personne; 10 = historique.
+<sup>2</sup> \* Selon l'état de la technique (cf. art. 4a al. 3 let. d).
+
+\*\* Le droit D29 ne peut être octroyé que dans les conditions de l’articlle 28 alinéa 2 ORF, selon intérêt et justification.
+
+#### Art. A1-3
+
+**Groupes d'utilisateurs**
+
+<sup>1</sup>
+
+<table>
+<tr><th></th><th>Groupe</th><th>Canton</th><th>Suisse</th></tr>
+<tr><td>A</td><td>Personnes habilitées à dresser des actes authentiques et leurs auxiliaires</td><td>R6 avec D26 à D29</td><td>R1\*</td></tr>
+<tr><td>B</td><td>Ingénieurs géomètres inscrits au registre des géomètres et leurs auxiliaires</td><td>R1 ou R2 (limité à des travaux spécifiques : R5\*)</td><td>R0</td></tr>
+<tr><td>C</td><td>Autorités cantonales</td><td>R0 à R6 avec D24 à D29\*</td><td>idem</td></tr>
+<tr><td>D</td><td>Autorités communales</td><td>R0 à R6 avec D24 à D29 (limité au territoire de la commune concernée)\*</td><td>R0</td></tr>
+<tr><td>D1</td><td>Teneurs de registre</td><td>R1 ou R3 avec D26 à D28b (limité au territoire de la commune concernée)</td><td>R0</td></tr>
+<tr><td>E</td><td>Avocats inscrits au registre des avocats</td><td>R1</td><td>R0</td></tr>
+<tr><td>F</td><td>Autorités fédérales</td><td>R0 à R6 avec D24 à D29\*</td><td>idem</td></tr>
+<tr><td>G-L</td><td>Banques, Société suisse de crédit hôtelier, Caisses de pension, Assurances, Institutions reconnues selon l’article 76 alinéa 1 lettre a LDFR</td><td>R1, R2 ou R5\*</td><td>idem</td></tr>
+<tr><td>M1</td><td>Propriétaires déterminés</td><td>R0, R1 ou/à R6 avec D24 et D29\*/\*\*</td><td>R0</td></tr>
+<tr><td>M2</td><td>Titulaires de droits déterminés</td><td>R0, R1 ou/à R6 avec D25\*/\*\*</td><td>R0</td></tr>
+<tr><td>N</td><td>Gérances immobilières habilitées à effectuer des consultations en tant qu’auxiliaires de propriétaires ou de titulaires de droits</td><td>R0 ou R1\*/\*\*</td><td>R0</td></tr>
+<tr><td>P0</td><td>Accès public (art. 27 al. 1 ORF)</td><td>R0</td><td>R0</td></tr>
+</table>
+
+<sup>2</sup> \* Selon intérêt et justification.
+
+\*\* Selon l'état de la technique (cf. art. 4a al. 3 let. d).
 
 <sup>3</sup> Limitations:
 
-\*\* limitation aux immeubles propriété du canton
+A/B/C/D/D1/F: Accès limité aux données nécessaires à l’accomplissement de leurs tâches légales (art. 28 al. 1 let. a ORF).
 
-\*\*\* d'après la section, restrictions en fonction des activités officielles
+E: Accès limité aux données nécessaires à l’exercice de leur profession, en rapport avec les actes juridiques concernant des immeubles (art. 28 al. 1 let. c ORF).
 
-\*\*\*\* immeubles de propriété privée
+G-L: Accès limité aux données nécessaires à l’accomplissement de leurs tâches dans le domaine hypothécaire (art. 28 al. 1 let. b ORF).
 
-\*\*\*\*\* limitation aux cas où l'établissement des faits s'effectue d'office
+M1: Accès limité aux immeubles qui leur appartiennent (art. 28 al. 1 let. d ch. 1 ORF).
 
-\*\*\*\*\*\* limitation à la commune respective
+M2: Accès limité aux immeubles sur lesquels ils ont des droits, pour autant que ces données soient nécessaires à l’exercice de leur activité ou à la défense de leurs intérêts (art. 28 al. 1 let. d ch. 2 ORF).
 
-## A2 Annexe 2 à l'article 7
+N: Accès limité aux données nécessaires aux consultations en tant qu’auxiliaires des personnes visées à l’article 28 alinéa 1 lettre d ORF (art. 28 al. 1 let. e ORF).
+
+P0: L’accès public n’a lieu qu’en relation avec un immeuble déterminé et le système d’informations est protégé contre les appels en série (art. 27 al. 2 ORF).
+
+## A2 Annexe 2 – Emoluments (art. 7)
 
 #### Art. A2-1
 
 **Emoluments pour l’accès au registre foncier informatisé**
 
-<sup>1</sup> Données du grand livre ouvertes au public: l’accès aux donnés publiques selon l’article 27 alinéa 1 ORF est gratuit.
+<sup>1</sup> L’accès aux donnés publiques selon l'article 27 alinéa 1 ORF (art. 5 de la présente ordonnance) est gratuit.
 
 <sup>2</sup> Accès étendu:
 
-- a) les personnes habilitées à dresser des actes authentiques - ingénieurs-géomètres - personnes selon l’article 28 alinéa 1 lettre b ORF:
+- a) toutes personnes, sous réserve des lettres suivantes:
   - 1\. émolument unique (demande de traitement, convention, ouverture de compte) — Fr. 200
   - 2\. émolument forfaitaire annuel (l’émolument forfaitaire annuel est prélevé à l’avance) — Fr. 50
   - 3\. en plus, par appel d’immeuble (le prélèvement de l’émolument par appel s’effectue aussi une fois par année) — Fr. 1
-- b) autorités cantonales et communales:
-  - 1\. l’accès aux données informatisées du grand livre est gratuit pour les autorités cantonales et communales.
+- b) autorités fédérales, cantonales et communales:
+  - 1\. l’accès aux données est gratuit.
 
 RCV BO/Abl. 5/2013
