@@ -4,11 +4,11 @@ title: "Ordinanza del 3 ottobre 1994 sul libero passaggio nella previdenza profe
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: it
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240301-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it"
 
 (Ordinanza sul libero passaggio, OLP)
 
-del 3 ottobre 1994 (Stato 1° gennaio 2024)
+del 3 ottobre 1994 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visto l’articolo 26 capoverso 1 della legge del 17 dicembre 1993[^ingress-1] s
 
 ordina:
 
-[^ingress-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^ingress-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^ingress-3]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^ingress-1]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^ingress-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^ingress-3]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^ingress-4]: Nuovo testo giusta l’all. n. 1 dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## Sezione 1: Caso di libero passaggio
@@ -42,8 +42,8 @@ ordina:
 
 <sup>3</sup> I datori di lavoro devono annunciare all’istituto di previdenza gli assicurati che contraggono matrimonio o un’unione domestica registrata.[^1-2]
 
-[^1-1]: Nuova espr. giusta l’all. n. II 35 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^1-2]: Nuovo testo giusta il n. I 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^1-1]: Nuova espr. giusta l’all. cifra II n. 35 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^1-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 2
 
@@ -94,7 +94,7 @@ Il tasso d’interesse giusta l’articolo 17 capoversi 1 e 4 LFLP equivale al t
 
 <sup>5</sup> L’aumento di cui all’articolo 17 capoverso 1 LFLP raggiunge il 4 per cento nel 21° anno di età ed in seguito aumenta annualmente del 4 per cento.
 
-[^6-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^6-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^6-2]: Nuovo testo giusta l’all. n. 3 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^6-3]: Nuovo testo giusta l’all. n. 6 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -104,8 +104,8 @@ Il tasso d’interesse giusta l’articolo 17 capoversi 1 e 4 LFLP equivale al t
 
 L’articolo 60*a* dell’ordinanza del 18 aprile 1984[^6a-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (OPP 2) è applicabile alla limitazione dell’acquisto delle prestazioni regolamentari complete (art. 9 cpv. 2 LFLP).
 
-[^6a-1]: Introdotto dal n. II dell’O del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3086](https://fedlex.data.admin.ch/eli/oc/2000/559)).
-[^6a-2]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^6a-1]: Introdotto dalla cifra II dell’O del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3086](https://fedlex.data.admin.ch/eli/oc/2000/559)).
+[^6a-2]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 
 #### Art. 7
 
@@ -114,7 +114,7 @@ L’articolo 60*a* dell’ordinanza del 18 aprile 1984[^6a-2] sulla previdenza p
 Il tasso d’interesse di mora equivale al tasso d’interesse minimo stabilito nella LPP, aumentato dell’uno per cento. L’articolo 65*d* capoverso 4 LPP[^7-2] non è applicabile.
 
 [^7-1]: Nuovo testo giusta l’all. n. 3 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^7-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^7-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 8
 
@@ -122,7 +122,7 @@ Il tasso d’interesse di mora equivale al tasso d’interesse minimo stabilito 
 
 Il tasso d’interesse tecnico è fissato in un intervallo tra l’1,0 e il 3,5 per cento.
 
-[^8-1]: Nuovo testo giusta il n. I 1 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^8-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 #### Art. 8a
 
@@ -134,12 +134,12 @@ Il tasso d’interesse tecnico è fissato in un intervallo tra l’1,0 e il 3,5 
 
 <sup>2</sup> Per il periodo anteriore al 1° gennaio 1985, si applica il tasso del 4 per cento.
 
-[^8a-1]: Introdotto dal n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 1999 3604](https://fedlex.data.admin.ch/eli/oc/1999/520)).
-[^8a-2]: Nuovo testo giusta il n. I 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^8a-3]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^8a-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^8a-1]: Introdotto dalla cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 1999 3604](https://fedlex.data.admin.ch/eli/oc/1999/520)).
+[^8a-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^8a-3]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^8a-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^8a-5]: Nuovo testo giusta l’all. n. 3 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^8a-6]: Introdotto dal n. I 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^8a-6]: Introdotto dalla cifra I n. 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 9
 
@@ -164,7 +164,7 @@ Per polizze di libero passaggio si intendono le assicurazioni di capitale o di r
 
 <sup>3</sup> Per conti di libero passaggio si intendono i contratti speciali destinati esclusivamente e irrevocabilmente alla previdenza e stipulati con una fondazione che adempie le condizioni stabilite dall’articolo 19[^10-2]. Questi contratti possono essere completati con un’assicurazione invalidità o morte.
 
-[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^10-2]: Ora: art. 19 e 19*a*
 
 #### Art. 11
@@ -173,7 +173,7 @@ Per polizze di libero passaggio si intendono le assicurazioni di capitale o di r
 
 Gli articoli 14 LFLP e 331*c* del Codice delle obbligazioni (CO)[^11-1] sono applicabili per analogia alle polizze di libero passaggio e alle assicurazioni complementari giusta l’articolo 10 capoverso 3 secondo periodo.
 
-[^11-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -183,7 +183,7 @@ Gli articoli 14 LFLP e 331*c* del Codice delle obbligazioni (CO)[^11-1] sono app
 
 <sup>2</sup> Gli assicurati possono cambiare in ogni momento l’istituto di libero passaggio o la forma di mantenimento della previdenza.
 
-[^12-1]: Nuovo testo gisuta il n. II dell’O del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3086](https://fedlex.data.admin.ch/eli/oc/2000/559)).
+[^12-1]: Nuovo testo giusta il cifra II dell’O del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3086](https://fedlex.data.admin.ch/eli/oc/2000/559)).
 
 #### Art. 13
 
@@ -199,10 +199,10 @@ Gli articoli 14 LFLP e 331*c* del Codice delle obbligazioni (CO)[^11-1] sono app
 
 <sup>5</sup> Per il conto di libero passaggio sotto forma di risparmio puro, l’ammontare del capitale di previdenza equivale alla prestazione d’uscita apportata, unitamente agli interessi; per il conto di libero passaggio sotto forma di risparmio vincolato a investimenti (risparmio in titoli) equivale al valore corrente dell’investimento. Se convenuto per scritto, possono essere dedotte le spese amministrative e le spese per le assicurazioni complementari di cui all’articolo 10 capoverso 3 secondo periodo.[^13-4]
 
-[^13-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^13-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^13-3]: Nuovo testo giusta il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
-[^13-4]: Introdotto dal n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
+[^13-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^13-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
+[^13-4]: Introdotto dalla cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 
 #### Art. 14
 
@@ -231,8 +231,8 @@ Sono considerati beneficiari per il mantenimento della previdenza:
 <sup>2</sup> Gli assicurati possono specificare nel contratto i diritti dei singoli beneficiari e includere nella cerchia delle persone previste dal capoverso 1 lettera b numero 1 anche quelle del numero 2.[^15-4]
 
 [^15-1]: Nuovo testo giusta l’all. n. 3 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^15-2]: Nuovo testo giusta il n. I 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^15-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^15-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^15-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^15-4]: Nuovo testo giusta l’all. n. 3 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 
 #### Art. 15a
@@ -243,7 +243,7 @@ Sono considerati beneficiari per il mantenimento della previdenza:
 
 <sup>2</sup> La prestazione divenuta disponibile è attribuita ai beneficiari successivi nell’ordine previsto nell’articolo 15.
 
-[^15a-1]: Introdotto dal n. I 1 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^15a-1]: Introdotto dalla cifra I n. 1 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 #### Art. 16
 
@@ -255,7 +255,7 @@ Sono considerati beneficiari per il mantenimento della previdenza:
 
 <sup>3</sup> Se l’assicurato è coniugato o vive in unione domestica registrata, il versamento della prestazione di vecchiaia sotto forma di capitale è ammesso soltanto con il consenso scritto del coniuge o del partner registrato. Se l’assicurato non può procurarsi il consenso o quest’ultimo gli è negato, egli può rivolgersi al giudice civile.[^16-3]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3450](https://fedlex.data.admin.ch/eli/oc/1996/3450_3450_3450)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3450](https://fedlex.data.admin.ch/eli/oc/1996/3450_3450_3450)).
 [^16-2]: Nuovo testo giusta l’all. n. 6 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^16-3]: Introdotto dall’all. n. 1 dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
@@ -265,9 +265,9 @@ Sono considerati beneficiari per il mantenimento della previdenza:
 
 Il capitale di previdenza o il diritto alle prestazioni non ancora esigibili non può essere ceduto né costituito in pegno. Sono fatti salvi gli articoli 22 e 22*d* LFLP, l’articoli 30*b* LPP[^17-2] e l’articolo 331*d* CO[^17-3].
 
-[^17-1]: Nuovo testo giusta il n. I 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^17-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^17-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^17-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^17-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 18
 
@@ -289,10 +289,10 @@ Il capitale di previdenza o il diritto alle prestazioni non ancora esigibili non
 
 <sup>4</sup> L’autorità preposta alla vigilanza sull’istituto collettore può in particolare ordinare l’esecuzione di perizie e simulazioni di crisi (stress test). Se la sicurezza delle prestazioni risulta essere non sufficientemente garantita, prende misure appropriate; può anche esigere modifiche all’investimento del patrimonio.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
-[^19-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^19-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^19-4]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
+[^19-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^19-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^19-4]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 
 #### Art. 19a
 
@@ -304,23 +304,24 @@ Il capitale di previdenza o il diritto alle prestazioni non ancora esigibili non
 
 <sup>3</sup>
 
-I titoli devono essere depositati presso banche o società di intermediazione mobiliare soggette alla vigilanza della FINMA. Le società di intermediazione mobiliare devono disporre di un’autorizzazione della FINMA alla custodia in deposito. Sono ammessi i seguenti investimenti:[^19a-3]
+I titoli devono essere depositati presso banche o società di intermediazione mobiliare soggette alla vigilanza della FINMA. Le società di intermediazione mobiliare devono disporre di un’autorizzazione della FINMA alla custodia in deposito. In deroga all’articolo 53 OPP 2, sono ammessi esclusivamente i seguenti investimenti:[^19a-3]
 
 - a. obbligazioni con garanzia diretta o indiretta della Confederazione o dei Cantoni, lettere di pegno svizzere, obbligazioni di cassa e depositi a termine di banche soggette alla vigilanza della FINMA; i crediti devono essere in franchi svizzeri; si può rinunciare ad applicare le limitazioni per i singoli debitori;
-- b. investimenti collettivi di capitale soggetti alla vigilanza della FINMA, distribuiti con la sua autorizzazione o emessi da fondazioni d’investimento svizzere;
-- c.[^19a-4] investimenti nel quadro di un contratto di gestione patrimoniale concluso dalla fondazione di libero passaggio con banche, società di intermediazione mobiliare, direzioni dei fondi o gestori di patrimoni collettivi secondo l’articolo 24 della legge del 15 giugno 2018[^19a-5] sugli istituti finanziari soggetti alla vigilanza della FINMA; la determinazione, l’acquisto e la vendita delle quote di questo tipo di investimenti, gli interessi degli assicurati che vi partecipano e la copertura dei diritti di partecipazione devono essere costantemente chiaramente garantiti; il contratto di gestione patrimoniale deve prevedere esplicitamente il rispetto per analogia degli articoli 49–58 OPP 2.
+- b.[^19a-4] investimenti collettivi soggetti alla vigilanza della FINMA o approvati dalla stessa per essere offerti in Svizzera oppure emessi da fondazioni d’investimento svizzere;
+- c.[^19a-5] investimenti nel quadro di un contratto di gestione patrimoniale concluso dalla fondazione di libero passaggio con banche, società di intermediazione mobiliare, direzioni dei fondi o gestori di patrimoni collettivi secondo l’articolo 24 della legge del 15 giugno 2018[^19a-6] sugli istituti finanziari soggetti alla vigilanza della FINMA; la determinazione, l’acquisto e la vendita delle quote di questo tipo di investimenti, gli interessi degli assicurati che vi partecipano e la copertura dei diritti di partecipazione devono essere costantemente chiaramente garantiti; il contratto di gestione patrimoniale deve prevedere esplicitamente il rispetto per analogia degli articoli 49–58 OPP 2.
 
-[^19a-1]: Introdotto dal n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
-[^19a-2]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^19a-3]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^19a-4]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^19a-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^19a-1]: Introdotto dalla cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
+[^19a-2]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^19a-3]: Nuovo testo giusta l’all. n. 5 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^19a-4]: Nuovo testo giusta l’all. n. 5 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^19a-5]: Nuovo testo giusta l’all. 1 cifra II n. 6 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^19a-6]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ## Sezione 2*a*: Ufficio centrale del 2° pilastro
 
 [^sec2a-1]
 
-[^sec2a-1]: Introdotta dal n. I dell’O del 19 apr. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1773](https://fedlex.data.admin.ch/eli/oc/1999/285)).
+[^sec2a-1]: Introdotta dalla cifra I dell’O del 19 apr. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1773](https://fedlex.data.admin.ch/eli/oc/1999/285)).
 
 #### Art. 19a<sup>bis</sup>
 
@@ -393,7 +394,7 @@ Nel suo rapporto annuale il Fondo di garanzia riferisce in merito all’attivit�
 
 <sup>2</sup> Il Fondo di garanzia può riscuotere dagli istituti che gestiscono conti o polizze di libero passaggio, alla fine di ogni anno civile, un contributo destinato a coprire le spese risultanti dai casi trasmessi.
 
-[^19f-1]: [RS 831.432.1](https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662)
+[^19f-1]: [RS 831.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10106)
 [^19f-2]: Nuovo testo giusta l’all. n. 1 dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## Sezione 2*b*: Divorzio e scioglimento giudiziale dell’unione domestica registrata
@@ -471,7 +472,7 @@ In caso di divorzio, oltre ai dati di cui all’articolo 24 capoverso 3 LFLP, l�
 - i. la riduzione della rendita d’invalidità secondo l’articolo 24 capoverso 5 LPP[^19k-1];
 - j. altre informazioni necessarie per l’esecuzione del conguaglio della previdenza professionale.
 
-[^19k-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^19k-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 ## Sezione 3: Disposizioni finali
 
@@ -479,7 +480,7 @@ In caso di divorzio, oltre ai dati di cui all’articolo 24 capoverso 3 LFLP, l�
 
 [^20-1]
 
-[^20-1]: Abrogato dal n. IV 48 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^20-1]: Abrogato dalla cifra IV n. 48 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 21
 
@@ -501,13 +502,13 @@ L’ordinanza del 12 novembre 1986[^21-1] sul mantenimento della previdenza e de
 
 [^23-1]
 
-[^23-1]: Abrogato dal n. IV 48 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^23-1]: Abrogato dalla cifra IV n. 48 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 23a
 
 [^23a-1]
 
-[^23a-1]: Introdotto dal n. I dell’O del 19 apr. 1999 ([RU 1999 1773](https://fedlex.data.admin.ch/eli/oc/1999/285)). Abrogato dal n. IV 48 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 19 apr. 1999 ([RU 1999 1773](https://fedlex.data.admin.ch/eli/oc/1999/285)). Abrogato dalla cifra IV n. 48 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 24
 
@@ -519,7 +520,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1995.
 
 [^u1-1]
 
-[^u1-1]: [RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650). Abrogata dal n. I dell’O del 17 set. 2010, con effetto dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
+[^u1-1]: [RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650). Abrogata dalla cifra I dell’O del 17 set. 2010, con effetto dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 
 ## Disposizione finale della modifica del 17 settembre 2010
 
@@ -561,24 +562,24 @@ Allegato[^t-1]
 
 ## Conversione della parte di rendita in una rendita vitalizia
 
-[^t-1]: Introdotto dall’all. n. 1 dell’O del 10 giu. 2016 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)). Aggiornato dal n. I 1 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^t-1]: Introdotto dall’all. n. 1 dell’O del 10 giu. 2016 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)). Aggiornato dalla cifra I n. 1 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 \1. La parte di rendita assegnata al coniuge creditore è convertita in una rendita vitalizia applicando la formula seguente:
 
 <table>
-<tr><td>rendita vitalizia = parte di rendita</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image1.png)</td></tr>
+<tr><td>rendita vitalizia = parte di rendita</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/it/xml/image/image1.png)</td></tr>
 </table>
 
 \2. Ove:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image2.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge debitore (in funzione del suo sesso e della sua età);
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/it/xml/image/image2.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge debitore (in funzione del suo sesso e della sua età);
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image3.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge creditore (in funzione del suo sesso e della sua età);
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/it/xml/image/image3.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge creditore (in funzione del suo sesso e della sua età);
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image4.png) designa l’aspettativa del coniuge debitore (in funzione del suo sesso e della sua età) a una rendita vedovile vitalizia pagabile in rate mensili, calcolata secondo il metodo collettivo;
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/it/xml/image/image4.png) designa l’aspettativa del coniuge debitore (in funzione del suo sesso e della sua età) a una rendita vedovile vitalizia pagabile in rate mensili, calcolata secondo il metodo collettivo;
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/it/xml/image/image5.png) il rapporto tra l’importo della rendita vedovile stabilita dal regolamento e quello della rendita corrente del coniuge debitore.
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/it/xml/image/image5.png) il rapporto tra l’importo della rendita vedovile stabilita dal regolamento e quello della rendita corrente del coniuge debitore.
 
 \3. I valori attuali e le aspettative sono calcolati utilizzando le basi tecniche LPP pertinenti al momento determinante per il calcolo. Sono impiegate le tavole generazionali non consolidate applicabili nell’anno civile del calcolo e la media ponderata dei tassi d’interesse tecnici medi figuranti nell’ultimo rapporto sulla situazione finanziaria degli istituti di previdenza pubblicato dalla Commissione di alta vigilanza della previdenza professionale[^annexu1-lvlu1-1].
 
-[^annexu1-lvlu1-1]: Consultabile (in tedesco e in francese) all’indirizzo seguente: www.oak-bv.admin.ch&gt; Temi &gt; Rilevamento situazione finanziaria.
+[^annexu1-lvlu1-1]: Consultabile (in tedesco e in francese) all’indirizzo seguente: www.oak-bv.admin.ch &gt; Temi &gt; Rilevamento situazione finanziaria.

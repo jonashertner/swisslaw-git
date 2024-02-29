@@ -4,11 +4,11 @@ title: "Ordonnance du 3 octobre 1994 sur le libre passage dans la prévoyance pr
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: fr
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240301-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr"
 
 (Ordonnance sur le libre passage, OLP)
 
-du 3 octobre 1994 (État le 1<sup>er</sup> janvier 2024)
+du 3 octobre 1994 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu l’art. 26, al. 1 de la loi du 17 décembre 1993 sur le libre passage (LFLP)
 
 arrête:
 
-[^ingress-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^ingress-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^ingress-3]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^ingress-1]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^ingress-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^ingress-3]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^ingress-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## Section 1 Cas de libre passage
@@ -94,7 +94,7 @@ Le taux d’intérêt visé à l’art. 17, al. 1 et 4, LFLP correspond au taux 
 
 <sup>5</sup> La majoration prévue à l’art. 17, al. 1, LFLP, est, à 21 ans, de 4 pour cent et elle augmente de 4 pour cent par an.
 
-[^6-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^6-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^6-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^6-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -105,7 +105,7 @@ Le taux d’intérêt visé à l’art. 17, al. 1 et 4, LFLP correspond au taux 
 La limitation prévue à l’art. 60*a* de l’ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité (OPP 2)[^6a-2] s’applique au rachat des prestations réglementaires complètes (art. 9, al. 2, LFLP).
 
 [^6a-1]: Introduit par le ch. II de l’O du 27 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3086](https://fedlex.data.admin.ch/eli/oc/2000/559)).
-[^6a-2]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^6a-2]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 
 #### Art. 7
 
@@ -114,7 +114,7 @@ La limitation prévue à l’art. 60*a* de l’ordonnance du 18 avril 1984 sur l
 Le taux de l’intérêt moratoire correspond au taux d’intérêt minimal fixé dans la LPP[^7-2], augmenté de 1 %. L’art. 65*d*, al. 4, LPP n’est pas applicable.
 
 [^7-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^7-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^7-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 8
 
@@ -136,8 +136,8 @@ Le taux d’intérêt technique est fixé dans une fourchette comprise entre 1,0
 
 [^8a-1]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3604](https://fedlex.data.admin.ch/eli/oc/1999/520)).
 [^8a-2]: Nouvelle teneur selon le ch. I 2 de l’O du 29 sept. 2006 sur la mise en oeuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^8a-3]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^8a-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^8a-3]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^8a-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^8a-5]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^8a-6]: Introduit par le ch. I 2 de l’O du 29 sept. 2006 sur la mise en oeuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
@@ -164,7 +164,7 @@ Par polices de libre passage, on entend des assurances de capital ou de rentes, 
 
 <sup>3</sup> Par comptes de libre passage, on entend des contrats spéciaux qui sont affectés exclusivement et irrévocablement à la prévoyance et qui ont été conclus avec une fondation qui remplit les conditions fixées à l’art. 19[^10-2]. Ces contrats peuvent être complétés par une assurance décès ou invalidité.
 
-[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^10-2]: Actuellement: art. 19 et 19*a*.
 
 #### Art. 11
@@ -173,7 +173,7 @@ Par polices de libre passage, on entend des assurances de capital ou de rentes, 
 
 Les art. 14 LFLP et 331*c* du code des obligations (CO)[^11-1] sont applicables par analogie aux polices de libre passage ainsi qu’aux assurances complémentaires visées à l’art. 10, al. 3, deuxième phrase.
 
-[^11-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -199,8 +199,8 @@ Les art. 14 LFLP et 331*c* du code des obligations (CO)[^11-1] sont applicables 
 
 <sup>5</sup> Pour un compte de libre passage sous forme d’épargne pure, le montant du capital de prévoyance correspond à la prestation de sortie apportée, majorée des intérêts, et, pour un compte de libre passage sous forme d’épargne liée à des placements (épargne-titres), à la valeur actuelle de ces derniers. Les frais administratifs et le coût des assurances complémentaires au sens de l’art. 10, al. 3, 2<sup>e</sup> phrase, peuvent être déduits si cela a été convenu par écrit. [^13-4]
 
-[^13-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^13-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^13-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^13-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 [^13-4]: Introduit par le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 
@@ -232,7 +232,7 @@ Les personnes suivantes ont qualité de bénéficiaires s’agissant du maintien
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^15-2]: Nouvelle teneur selon le ch. I 2 de l’O du 29 sept. 2006 sur la mise en oeuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^15-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^15-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^15-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 
 #### Art. 15a
@@ -266,8 +266,8 @@ Les personnes suivantes ont qualité de bénéficiaires s’agissant du maintien
 Le capital de prévoyance et le droit aux prestations non exigibles ne peuvent être ni cédés ni mis en gage. Les art. 22 et 22*d* LFLP, 30*b* LPP[^17-2] et 331*d* CO[^17-3] sont réservés.
 
 [^17-1]: Nouvelle teneur selon le ch. I 2 de l’O du 29 sept. 2006 sur la mise en œuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^17-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^17-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^17-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 18
 
@@ -290,9 +290,9 @@ Le capital de prévoyance et le droit aux prestations non exigibles ne peuvent �
 <sup>4</sup> L’autorité de surveillance de l’institution supplétive peut en particulier ordonner des expertises et des tests de résistance. Si la sécurité des prestations s’avère insuffisante, elle prend les mesures appropriées; elle peut aussi exiger un ajustement des placements.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
-[^19-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^19-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^19-4]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^19-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^19-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^19-4]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 
 #### Art. 19a
 
@@ -304,17 +304,18 @@ Le capital de prévoyance et le droit aux prestations non exigibles ne peuvent �
 
 <sup>3</sup>
 
-Les titres doivent être déposés auprès d’une banque ou d’une maison de titres soumise à la surveillance de la FINMA. Les maisons de titres doivent être autorisées par la FINMA à accepter des dépôts. Sont autorisés les placements suivants:[^19a-3]
+Les titres doivent être déposés auprès d’une banque ou d’une maison de titres soumise à la surveillance de la FINMA. Les maisons de titres doivent être autorisées par la FINMA à accepter des dépôts. Seuls les placements suivants sont autorisés en dérogation à l’art. 53 OPP 2:[^19a-3]
 
 - a. obligations bénéficiant de la garantie directe ou indirecte de la Confédération ou des cantons, lettres de gage suisses, obligations de caisse et dépôts à échéance fixe de banques soumises à la surveillance de la FINMA, ces créances étant libellées en francs suisses; il est possible de renoncer à une limite par débiteur;
-- b. placements collectifs soumis à la surveillance de la FINMA, ou distribués en Suisse avec l’autorisation de celle-ci, ou lancés par une fondation de placement suisse;
-- c.[^19a-4] placements opérés dans le cadre d’un mandat de gestion de fortune conclu par la fondation de libre passage avec une banque, une maison de titres, une direction de fonds ou un gestionnaire de fortune collective au sens de l’art. 24 de la loi fédérale du 15 juin 2018 sur les établissements financiers[^19a-5] soumis à la surveillance de la FINMA; l’évaluation, l’achat et le rachat des parts du portefeuille, l’intérêt des assurés impliqués et la couverture des droits de participation doivent être clairement garantis en tout temps; le mandat de gestion de fortune doit mentionner explicitement que les art. 49 à 58 OPP 2 s’appliquent par analogie.
+- b.[^19a-4] placements collectifs soumis à la surveillance de la FINMA, proposés en Suisse avec l’approbation de celle‑ci ou lancés par une fondation de placement suisse;
+- c.[^19a-5] placements opérés dans le cadre d’un mandat de gestion de fortune conclu par la fondation de libre passage avec une banque, une maison de titres, une direction de fonds ou un gestionnaire de fortune collective au sens de l’art. 24 de la loi fédérale du 15 juin 2018 sur les établissements financiers[^19a-6] soumis à la surveillance de la FINMA; l’évaluation, l’achat et le rachat des parts du portefeuille, l’intérêt des assurés impliqués et la couverture des droits de participation doivent être clairement garantis en tout temps; le mandat de gestion de fortune doit mentionner explicitement que les art. 49 à 58 OPP 2 s’appliquent par analogie.
 
 [^19a-1]: Introduit par le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
-[^19a-2]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^19a-3]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^19a-4]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^19a-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^19a-2]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^19a-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^19a-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^19a-5]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^19a-6]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ## Section 2*a* Centrale du 2<sup>e</sup> pilier
 
@@ -393,7 +394,7 @@ Le fonds de garantie fait état, dans son rapport annuel, des activités de la C
 
 <sup>2</sup> Le fonds de garantie peut, à la fin de l’année civile, prélever auprès des institutions qui gèrent des comptes ou des polices de libre passage une cotisation couvrant les coûts qui résultent pour lui de la transmission de cas.
 
-[^19f-1]: [RS 831.432.1](https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662)
+[^19f-1]: [RS 831.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10106)
 [^19f-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## Section 2*b* Divorce et dissolution judiciaire du partenariat enregistré
@@ -471,7 +472,7 @@ En cas de divorce, l’institution de prévoyance ou de libre passage doit, sur 
 - i. le montant de l’adaptation de la rente d’invalidité visée à l’art. 24, al. 5, LPP[^19k-1];
 - j. les autres informations nécessaires à l’exécution du partage de la prévoyance.
 
-[^19k-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^19k-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 ## Section 3 Dispositions finales
 
@@ -565,14 +566,14 @@ Annexe[^t-1]
 
 \1. La part de rente attribuée au conjoint créancier est convertie en rente viagère selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image1.png)
 
 \2. où:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
 
 \3. Les valeurs actuelles et expectatives de rentes sont calculées d’après les bases techniques LPP pertinentes au moment déterminant pour le calcul. Les tables de génération sans renforcement pour l’année civile considérée et la moyenne pondérée des taux d’intérêt techniques moyens indiquées dans le dernier rapport sur la situation financière des institutions de prévoyance publié par la Commission de haute surveillance de la prévoyance professionnelle[^annexu1-lvlu1-1] sont appliquées.
 

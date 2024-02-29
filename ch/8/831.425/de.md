@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflich
 short: FZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: de
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240301-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de"
 
 (Freizügigkeitsverordnung, FZV)
 
-vom 3. Oktober 1994 (Stand am 1. Januar 2024)
+vom 3. Oktober 1994 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf Artikel 26 Absatz 1 des Freizügigkeitsgesetzes vom 17. Dezember 1
 
 verordnet:
 
-[^ingress-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^ingress-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^ingress-3]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^ingress-1]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^ingress-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^ingress-3]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^ingress-4]: Fassung gemäss Anhang Ziff. 1 der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## 1. Abschnitt: Freizügigkeitsfall
@@ -94,7 +94,7 @@ Der Zinssatz nach Artikel 17 Absätze 1 und 4 FZG entspricht dem Mindestzinssatz
 
 <sup>5</sup> Der Zuschlag nach Artikel 17 Absatz 1 FZG beträgt im Alter 21 4 Prozent und erhöht sich jährlich um 4 Prozent.
 
-[^6-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^6-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^6-2]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^6-3]: Fassung gemäss Anhang Ziff. 6 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -105,7 +105,7 @@ Der Zinssatz nach Artikel 17 Absätze 1 und 4 FZG entspricht dem Mindestzinssatz
 Für den Einkauf in die vollen reglementarischen Leistungen (Art. 9 Abs. 2 FZG) gilt die Einschränkung nach Artikel 60*a* der Verordnung vom 18. April 1984[^6a-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2).
 
 [^6a-1]: Eingefügt durch Ziff. II der V vom 27. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3086](https://fedlex.data.admin.ch/eli/oc/2000/559)).
-[^6a-2]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^6a-2]: [SR 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 
 #### Art. 7
 
@@ -114,7 +114,7 @@ Für den Einkauf in die vollen reglementarischen Leistungen (Art. 9 Abs. 2 FZG) 
 Der Verzugszinssatz entspricht dem BVG-Mindestzinssatz plus einem Prozent. Artikel 65*d* Absatz 4 BVG[^7-2] ist nicht anwendbar.
 
 [^7-1]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^7-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^7-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 8
 
@@ -136,8 +136,8 @@ Der Zinsrahmen für den technischen Zinssatz beträgt 1,0–3,5 Prozent.
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 1999 3604](https://fedlex.data.admin.ch/eli/oc/1999/520)).
 [^8a-2]: Fassung gemäss Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^8a-3]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^8a-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^8a-3]: [SR 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^8a-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^8a-5]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^8a-6]: Eingefügt durch Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
@@ -164,7 +164,7 @@ Als Freizügigkeitspolicen gelten besondere, ausschliesslich und unwiderruflich 
 
 <sup>3</sup> Als Freizügigkeitskonten gelten besondere, ausschliesslich und unwiderruflich der Vorsorge dienende Verträge mit einer Stiftung, welche die Voraussetzungen nach Artikel 19[^10-2] erfüllt. Diese Verträge können durch eine Versicherung für den Todes- oder Invaliditätsfall ergänzt werden.
 
-[^10-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^10-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^10-2]: Heute: nach Art. 19 und 19*a*.
 
 #### Art. 11
@@ -173,7 +173,7 @@ Als Freizügigkeitspolicen gelten besondere, ausschliesslich und unwiderruflich 
 
 Artikel 14 FZG und Artikel 331*c* des Obligationenrechts (OR)[^11-1] gelten sinngemäss für Freizügigkeitspolicen sowie für Zusatzversicherungen nach Artikel 10 Absatz 3 zweiter Satz.
 
-[^11-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -199,8 +199,8 @@ Artikel 14 FZG und Artikel 331*c* des Obligationenrechts (OR)[^11-1] gelten sinn
 
 <sup>5</sup> Beim Freizügigkeitskonto in Form der reinen Sparlösung entspricht die Höhe des Vorsorgekapitals der eingebrachten Austrittsleistung mit Zins, beim Freizügigkeitskonto in Form der anlagegebundenen Sparlösung (Wertschriftensparen) dem aktuellen Wert der Anlage. Verwaltungskosten sowie Aufwendungen für Zusatzversicherungen nach Artikel 10 Absatz 3 zweiter Satz können abgezogen werden, wenn dies schriftlich vereinbart ist.[^13-4]
 
-[^13-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^13-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^13-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^13-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^13-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 [^13-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 
@@ -232,7 +232,7 @@ Für die Erhaltung des Vorsorgeschutzes gelten als Begünstigte:
 
 [^15-1]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^15-2]: Fassung gemäss Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^15-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^15-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^15-4]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 
 #### Art. 15a
@@ -266,8 +266,8 @@ Für die Erhaltung des Vorsorgeschutzes gelten als Begünstigte:
 Das Vorsorgekapital oder der nicht fällige Leistungsanspruch kann weder verpfändet noch abgetreten werden. Vorbehalten bleiben die Artikel 22 und 22*d* FZG sowie die Artikel 30*b* BVG[^17-2] und 331*d* OR[^17-3].
 
 [^17-1]: Fassung gemäss Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^17-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^17-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^17-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 18
 
@@ -290,9 +290,9 @@ Das Vorsorgekapital oder der nicht fällige Leistungsanspruch kann weder verpfä
 <sup>4</sup> Die Aufsichtsbehörde über die Auffangeinrichtung kann insbesondere Gutachten und Stresstests anordnen. Erweist sich die Sicherheit der Leistungen als ungenügend, so trifft sie angemessene Massnahmen; sie kann auch die Anpassung der Vermögensanlage verlangen.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
-[^19-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^19-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^19-4]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^19-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^19-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^19-4]: [SR 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 
 #### Art. 19a
 
@@ -304,17 +304,18 @@ Das Vorsorgekapital oder der nicht fällige Leistungsanspruch kann weder verpfä
 
 <sup>3</sup>
 
-Die Wertschriften sind bei Banken oder Wertpapierhäusern zu deponieren, die der Aufsicht der FINMA unterstehen. Die Wertpapierhäuser müssen von der FINMA für die Depotverwahrung zugelassen sein. Folgende Anlagen sind zulässig:[^19a-3]
+Die Wertschriften sind bei Banken oder Wertpapierhäusern zu deponieren, die der Aufsicht der FINMA unterstehen. Die Wertpapierhäuser müssen von der FINMA für die Depotverwahrung zugelassen sein. In Abweichung von Artikel 53 BVV 2 sind ausschliesslich folgende Anlagen zulässig:[^19a-3]
 
 - a. Anleihensobligationen mit direkter oder indirekter Garantie von Bund oder Kantonen, schweizerische Pfandbriefe, Kassenobligationen und Festgelder von der Aufsicht der FINMA unterstellten Banken; entsprechende Forderungen müssen auf Schweizer Franken lauten; von einer Begrenzung einzelner Schuldner kann abgesehen werden;
-- b. kollektive Kapitalanlagen, die der Aufsicht der FINMA unterstehen oder von ihr in der Schweiz zum Vertrieb zugelassen sind oder die von schweizerischen Anlagestiftungen aufgelegt wurden;
-- c.[^19a-4] Anlagen im Rahmen eines Vermögensverwaltungsvertrags, den die Freizügigkeitsstiftung mit der Aufsicht der FINMA unterstellten Banken, Wertpapierhäusern, Fondsleitungen oder Verwaltern von Kollektivvermögen nach Artikel 24 des Finanzinstitutsgesetzes vom 15. Juni 2018[^19a-5] abgeschlossen hat; die Ermittlung, der Kauf und die Rücknahme der Anteile an solchen Anlagen, das Interesse der beteiligten Versicherten sowie die Deckung der Anteilsrechte müssen jederzeit in nachvollziehbarer Weise gewährleistet sein; im Vermögensverwaltungsvertrag ist die sinngemässe Einhaltung der Artikel 49–58 BVV 2 ausdrücklich festzuhalten.
+- b.[^19a-4] kollektive Anlagen, die der Aufsicht der FINMA unterstehen oder von ihr zum Angebot in der Schweiz genehmigt worden sind oder die von schweizerischen Anlagestiftungen aufgelegt wurden;
+- c.[^19a-5] Anlagen im Rahmen eines Vermögensverwaltungsvertrags, den die Freizügigkeitsstiftung mit der Aufsicht der FINMA unterstellten Banken, Wertpapierhäusern, Fondsleitungen oder Verwaltern von Kollektivvermögen nach Artikel 24 des Finanzinstitutsgesetzes vom 15. Juni 2018[^19a-6] abgeschlossen hat; die Ermittlung, der Kauf und die Rücknahme der Anteile an solchen Anlagen, das Interesse der beteiligten Versicherten sowie die Deckung der Anteilsrechte müssen jederzeit in nachvollziehbarer Weise gewährleistet sein; im Vermögensverwaltungsvertrag ist die sinngemässe Einhaltung der Artikel 49–58 BVV 2 ausdrücklich festzuhalten.
 
 [^19a-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
-[^19a-2]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^19a-3]: Fassung gemäss Anhang 1 Ziff. II 6 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^19a-4]: Fassung gemäss Anhang 1 Ziff. II 6 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^19a-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^19a-2]: [SR 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^19a-3]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^19a-4]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^19a-5]: Fassung gemäss Anhang 1 Ziff. II 6 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^19a-6]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ## 2*a*. Abschnitt: Zentralstelle 2. Säule
 
@@ -395,7 +396,7 @@ Der Sicherheitsfonds berichtet in seinem Jahresbericht über die Tätigkeit der 
 
 <sup>2</sup> Der Sicherheitsfonds kann von Einrichtungen, die Freizügigkeitskonten oder ‑policen führen, jeweils per Jahresende einen kostendeckenden Beitrag für die vermittelten Fälle erheben.
 
-[^19f-1]: [SR 831.432.1](https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662)
+[^19f-1]: [SR 831.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10106)
 [^19f-2]: Fassung gemäss Anhang Ziff. 1 der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## 2*b*. Abschnitt: Scheidung und gerichtliche Auflösung der eingetragenen Partnerschaft
@@ -473,7 +474,7 @@ Im Falle der Scheidung hat die Vorsorge- oder Freizügigkeitseinrichtung der ver
 - i. die Kürzung der Invalidenrente nach Artikel 24 Absatz 5 BVG[^19k-1];
 - j. weitere Auskünfte, die für die Durchführung des Vorsorgeausgleichs nötig sind.
 
-[^19k-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^19k-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 ## 3. Abschnitt: Schlussbestimmungen
 
@@ -567,14 +568,14 @@ Anhang[^t-1]
 
 \1. Der dem berechtigten Ehegatten zugesprochene Rentenanteil wird wie folgt in eine lebenslange Rente umgerechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image1.png)
 
 \2. Dabei bezeichnet:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240101/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
 
 \3. Die Barwerte und Anwartschaften werden auf der Basis der technischen Grundlagen BVG berechnet, die im für die Umrechnung massgebenden Zeitpunkt bestehen. Dabei werden die im Kalenderjahr der Berechnung geltenden unverstärkten Generationentafeln und der gewichtete Durchschnitt der technischen Durchschnittszinssätze gemäss dem zuletzt veröffentlichten Bericht der Oberaufsichtskommission Berufliche Vorsorge[^annexu1-lvlu1-1] zur finanziellen Lage der Vorsorgeeinrichtungen verwendet.
 
