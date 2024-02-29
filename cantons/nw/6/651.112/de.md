@@ -4,13 +4,12 @@ number: "651.112"
 title: Reglement betreffend das Parkieren von Motorfahrzeugen auf kantonseigenen oder vom Kanton gemieteten Liegenschaften
 short: Parkplatzreglement
 language: de
-version: 2023-06-01
-valid_until: 2024-02-29
-version_adopted: 2023-05-09
+version: 2024-03-01
+version_adopted: 2024-02-20
 adopted: 1997-07-21
 in_force: 1997-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/651.112"
-pdf: "https://gesetze.nw.ch/api/de/versions/1136/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1259/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1136/pdf_file"
 
 (Parkplatzreglement)
 
-vom 21.07.1997 (Stand 01.06.2023)
+vom 21.07.1997 (Stand 01.03.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -73,12 +72,10 @@ beschliesst:
 
 <sup>5</sup> Parkplätze D:
 
-- 1\. Stansstaderstrasse 54, Stans (Kantonalbank, Staatsarchiv)
-
 <sup>6</sup> Parkplätze E:
 
 - 1\. Rathausplatz 1 Ost und West, Stans
-- 2\. Dorfplatz 2, Stans (Regierungsgebäude)
+- 2\. …
 - 3\. Engelbergstrasse 34, Stans
 - 4\. Marktgasse 3, Stans (Zivilstandsamt)
 - 5\. Marktgasse 4, Stans (Gericht)
@@ -154,10 +151,7 @@ beschliesst:
   - d) 6 Stunden: — Fr. 4.–
   - e) 9 Stunden: — Fr. 5.–
   - f) 12 bis 24 Stunden (maximal 24 Stunden): — Fr. 6.–
-- 3\. …
-- 4\. die Parkplätze D:
-  - a) 90 Minuten: — gratis
-  - b) jede weitere Stunde: — Fr. –.50
+- 3\.–4. …
 - 5\. die Parkplätze E:
   - a) bis 30 Minuten: — gratis
   - b) bis 60 Minuten: — Fr. 1.–
@@ -166,7 +160,7 @@ beschliesst:
 
 <sup>2</sup> Das Parkieren auf den Parkplätzen A und E ist in der Zeit von 19.00 Uhr bis 08.00 Uhr (Montag bis Freitag) beziehungsweise ab 17.00 Uhr an Samstagen sowie an Sonn- und Feiertagen gebührenfrei.
 
-<sup>3</sup> Das Parkieren auf den Parkplätzen D ist in der Zeit von 19.00 Uhr bis 07.00 Uhr (Montag bis Samstag) beziehungsweise an Sonn- und Feiertagen gebührenfrei.
+<sup>3</sup> …
 
 <sup>4</sup> Die Gebühren betragen für die Parkplätze F:
 
