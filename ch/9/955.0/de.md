@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 10. Oktober 1997 über die Bekämpfung der Geldwäscher
 short: GwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: de
-version: 2023-09-01
+version: 2024-03-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20240301-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/de"
 
 (Geldwäschereigesetz, GwG)[^t-1]
 
-vom 10. Oktober 1997 (Stand am 1. September 2023)
+vom 10. Oktober 1997 (Stand am 1. März 2024)
 
 [^t-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 95 und 98 der Bundesverfassung[^ingress-1],[^ingress-2
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 [^ingress-3]: [BBl 1996 III 1101](https://fedlex.data.admin.ch/eli/fga/1996/3_1101_1057_993)
 
@@ -40,7 +40,7 @@ beschliesst:
 Dieses Gesetz regelt die Bekämpfung der Geldwäscherei im Sinne von Artikel 305<sup>bis</sup> des Strafgesetzbuches[^1-2] (StGB), die Bekämpfung der Terrorismusfinanzierung im Sinne von Artikel 260<sup>quinquies</sup> Absatz 1 StGB und die Sicherstellung der Sorgfalt bei Finanzgeschäften.
 
 [^1-1]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^1-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 2
 
@@ -60,7 +60,7 @@ Finanzintermediäre sind:
 - a.[^2-2] die Banken nach Artikel 1*a* des Bankengesetzes vom 8. November 1934[^2-3] (BankG) und die Personen nach Artikel 1*b* BankG;
 - a<sup>bis</sup>.[^2-4] die Vermögensverwalter und die Trustees nach Artikel 2 Absatz 1 Buchstaben a und b des Finanzinstitutsgesetzes vom 15. Juni 2018[^2-5] (FINIG);
 - b.[^2-6] die Fondsleitungen nach Artikel 2 Absatz 1 Buchstabe d FINIG;
-- b<sup>bis</sup>.[^2-7] die Investmentgesellschaften mit variablem Kapital, die Kommanditgesellschaften für kollektive Kapitalanlagen und die Investmentgesellschaften mit festem Kapital im Sinne des Kollektivanlagengesetzes vom 23. Juni 2006[^2-8] sowie die Verwalter von Kollektivvermögen nach Artikel 2 Absatz 1 Buchstabe c FINIG;
+- b<sup>bis</sup>.[^2-7] die Bewilligungsträger nach Artikel 13 Absatz 2 Buchstaben b–d des Kollektivanlagengesetzes vom 23. Juni 2006[^2-8] (KAG) und die Verwalter von Kollektivvermögen nach Artikel 2 Absatz 1 Buchstabe c FINIG;
 - c.[^2-9] die Versicherungseinrichtungen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^2-10], welche die direkte Lebensversicherung betreiben oder Anteile einer kollektiven Kapitalanlage anbieten oder vertreiben;
 - d.[^2-11] die Wertpapierhäuser nach Artikel 2 Absatz 1 Buchstabe e FINIG;
 - d<sup>bis</sup>.[^2-12] die zentralen Gegenparteien und die Zentralverwahrer nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^2-13] (FinfraG);
@@ -89,30 +89,32 @@ Vom Geltungsbereich dieses Gesetzes ausgenommen sind:
 - a. die Schweizerische Nationalbank;
 - b. steuerbefreite Einrichtungen der beruflichen Vorsorge;
 - c. Personen, die ihre Dienstleistungen ausschliesslich gegenüber steuerbefreiten Einrichtungen der beruflichen Vorsorge erbringen;
-- d. Finanzintermediäre nach Absatz 3, die ihre Dienstleistungen ausschliesslich gegenüber Finanzintermediären nach Absatz 2 erbringen oder gegenüber ausländischen Finanzintermediären, die einer gleichwertigen Aufsicht unterstellt sind wie diese.
+- d. Finanzintermediäre nach Absatz 3, die ihre Dienstleistungen ausschliesslich gegenüber Finanzintermediären nach Absatz 2 erbringen oder gegenüber ausländischen Finanzintermediären, die einer gleichwertigen Aufsicht unterstellt sind wie diese;
+- e.[^2-23] Limited Qualified Investor Funds (L-QIF) in der Rechtsform der Investmentgesellschaft mit variablem Kapital (SICAV) oder der Kommanditgesellschaft für kollektive Kapitalanlagen (KmGK), wenn das nach Artikel 118*h* Absatz 1, 2 oder 4 KAG für die Geschäftsführung zuständige Institut die Erfüllung der in diesem Gesetz enthaltenen Pflichten übernimmt.
 
 [^2-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^2-2]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-3]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^2-4]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^2-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-5]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^2-6]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-7]: Eingefügt durch Anhang Ziff. II 9 des Kollektivanlagengesetzes vom 23. Juni 2006 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)). Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-8]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-7]: Eingefügt durch Anhang Ziff. II 9 des Kollektivanlagengesetzes vom 23. Juni 2006 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)). Fassung gemäss Anhang Ziff. 6 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^2-8]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^2-9]: Fassung gemäss Anhang Ziff. II 9 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^2-10]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^2-10]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^2-11]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-12]: Eingefügt durch Anhang Ziff. 12 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^2-13]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^2-13]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^2-14]: Eingefügt durch Anhang Ziff. 12 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^2-15]: Eingefügt durch Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^2-16]: Eingefügt durch Anhang Ziff. 4 des Spielbankengesetz vom 18. Dez. 1998 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Fassung gemäss Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^2-17]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^2-17]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^2-18]: Eingefügt durch Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^2-19]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^2-20]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-20]: [SR 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^2-21]: Aufgehoben durch Anhang Ziff. II 8 des Versicherungsaufsichtsgesetzes vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^2-22]: Aufgehoben durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-23]: Eingefügt duch Anhang Ziff. 6 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 2a
 
@@ -164,7 +166,7 @@ Als politisch exponierte Person im Sinne dieses Gesetzes gelten:
 
 [^3-1]: Zweiter Satz eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^3-2]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^3-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^3-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^3-4]: Fassung gemäss Anhang 2 Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 4
@@ -215,7 +217,7 @@ Der Finanzintermediär muss die Hintergründe und den Zweck einer Transaktion od
 
 [^6-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^6-2]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^6-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^6-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^6-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 7
@@ -278,7 +280,7 @@ Sie müssen die Hintergründe und den Zweck eines Geschäfts abklären, wenn:
 <sup>5</sup> Der Bundesrat konkretisiert die Pflichten nach den Absätzen 1 und 2 und legt fest, wie diese zu erfüllen sind.
 
 [^8a-1]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^8a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. Abschnitt: Pflichten bei Geldwäschereiverdacht
 
@@ -318,7 +320,7 @@ Eine Händlerin oder ein Händler muss der Meldestelle unverzüglich Meldung ers
 <sup>2</sup> Der Meldepflicht nicht unterworfen sind Anwältinnen, Anwälte, Notarinnen und Notare, soweit ihre Tätigkeit dem Berufsgeheimnis nach Artikel 321 StGB untersteht.
 
 [^9-1]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^9-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^9-3]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^9-4]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^9-5]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -339,7 +341,7 @@ Eine Händlerin oder ein Händler muss der Meldestelle unverzüglich Meldung ers
 <sup>2</sup> Er führt Kundenaufträge, die bedeutende Vermögenswerte betreffen, nur in einer Form aus, die es den Strafverfolgungsbehörden erlaubt, deren Spur weiterzuverfolgen.[^9a-3]
 
 [^9a-1]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^9a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^9a-3]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 9b
@@ -355,7 +357,7 @@ Eine Händlerin oder ein Händler muss der Meldestelle unverzüglich Meldung ers
 <sup>4</sup> Nach dem Abbruch der Geschäftsbeziehung ist das Informationsverbot nach Artikel 10*a* Absatz 1 weiterhin einzuhalten.
 
 [^9b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^9b-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9b-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 10
 
@@ -368,7 +370,7 @@ Eine Händlerin oder ein Händler muss der Meldestelle unverzüglich Meldung ers
 <sup>2</sup> Er erhält die Vermögenssperre aufrecht, bis eine Verfügung der zuständigen Strafverfolgungsbehörde bei ihm eintrifft, längstens aber fünf Werktage ab dem Zeitpunkt, in dem ihm die Meldestelle im Falle von Absatz 1 die Übermittlung der gemeldeten Informationen mitgeteilt hat oder er im Falle von Absatz 1<sup>bis</sup> der Meldestelle Meldung erstattet hat.[^10-4]
 
 [^10-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^10-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^10-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^10-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
@@ -396,11 +398,11 @@ Der Finanzintermediär darf einen anderen diesem Gesetz unterstellten Finanzinte
 <sup>6</sup> Ausgenommen vom Informationsverbot nach den Absätzen 1 und 5 bleibt die Wahrung eigener Interessen im Rahmen eines Zivilprozesses oder eines Straf- oder Verwaltungsverfahrens.[^10a-9]
 
 [^10a-1]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^10a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^10a-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^10a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^10a-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^10a-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10a-5]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^10a-6]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^10a-6]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^10a-7]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10a-8]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^10a-9]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
@@ -421,8 +423,8 @@ Dieser Straf- und Haftungsausschluss gilt auch für:
 - d. Selbstregulierungsorganisationen, die Meldung nach Artikel 27 Absatz 4 erstatten.[^11-4]
 
 [^11-1]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^11-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^11-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^11-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^11-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^11-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 3. Abschnitt: Herausgabe von Informationen
@@ -445,7 +447,7 @@ Dieser Straf- und Haftungsausschluss gilt auch für:
 
 <sup>5</sup> Der Straf- und Haftungsausschluss nach Artikel 11 gilt sinngemäss.
 
-[^11a-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11a-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^11a-2]: Eingefügt durch Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^11a-3]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -470,7 +472,7 @@ Die Aufsicht über die Einhaltung der Pflichten nach dem 2. Kapitel liegt für F
 [^12-3]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^12-4]: Fassung gemäss Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^12-5]: Eingefügt durch Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^12-6]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^12-6]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^12-7]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^12-8]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -522,13 +524,13 @@ Kommt eine Händlerin oder ein Händler der Meldepflicht nicht nach, so erstatte
 
 [^15-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^15-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^15-3]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^15-3]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^15-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-5]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-6]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-7]: Fassung gemäss Anhang 2 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-8]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^15-9]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-9]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^15-10]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^15-11]: Eingefügt durch Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -556,7 +558,7 @@ Die FINMA, die ESBK, die interkantonale Behörde, das Zentralamt und die Aufsich
 
 [^16-1]: Fassung gemäss Anhang 2 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^16-2]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^16-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^16-4]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^16-5]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^16-6]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
@@ -663,7 +665,7 @@ Die mit der GwG-Kontrolle beauftragten Anwältinnen und Anwälte sowie Notarinne
 <sup>2</sup> Sie kann für juristische Personen sowie Kollektiv- und Kommanditgesellschaften deren Auflösung und für Einzelfirmen deren Löschung im Handelsregister anordnen.
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^20-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^20-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 21 und 22
 
@@ -727,7 +729,7 @@ Sie erstattet der zuständigen Strafverfolgungsbehörde unverzüglich Anzeige, w
 [^23-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 [^23-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^23-4]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^23-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^23-6]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^23-7]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^23-8]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
@@ -760,7 +762,7 @@ Als Selbstregulierungsorganisationen werden Organisationen anerkannt, die:
 
 [^24-1]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^24-2]: Eingefügt durch Anhang Ziff. 7 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften) ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)). Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^24-3]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^24-4]: Fassung gemäss Anhang Ziff. II 3 des Postorganisationsgesetzes vom 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [BBl 2009 5265](https://fedlex.data.admin.ch/eli/fga/2009/919)).
 
 #### Art. 24a
@@ -789,8 +791,8 @@ Die leitende Prüferin oder der leitende Prüfer wird zur Leitung von Prüfungen
 <sup>5</sup> Die Selbstregulierungsorganisationen können weitere Zulassungskriterien für Prüfgesellschaften und leitende Prüferinnen und Prüfer vorsehen.
 
 [^24a-1]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24a-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^24a-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^24a-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^24a-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 25
 
@@ -861,7 +863,7 @@ Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie den begründeten V
 [^27-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^27-3]: Fassung gemäss Anhang 2 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^27-4]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^27-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^27-6]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^27-7]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^27-8]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
@@ -874,10 +876,10 @@ Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie den begründeten V
 
 <sup>2</sup> Wird einer Selbstregulierungsorganisation die Anerkennung entzogen, so müssen die ihr angeschlossenen Finanzintermediäre innerhalb von zwei Monaten ein Gesuch um Anschluss an eine andere Selbstregulierungsorganisation einreichen.[^28-3]
 
-<sup>3</sup> und <sup>4</sup> …[^28-4]
+<sup>3 und <sup>4</sup></sup> …[^28-4]
 
 [^28-1]: Fassung gemäss Anhang Ziff. 17 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^28-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^28-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^28-3]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^28-4]: Aufgehoben durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -922,7 +924,7 @@ Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie den begründeten V
 <sup>4</sup> Die FINMA, die ESBK, die interkantonale Behörde und das Zentralamt koordinieren allfällige Interventionen bei einem Finanzintermediär mit den zuständigen Strafverfolgungsbehörden. Sie nehmen vor einer allfälligen Weiterleitung der erhaltenen Informationen und Unterlagen Rücksprache mit den zuständigen Strafverfolgungsbehörden.[^29a-6]
 
 [^29a-1]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^29a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^29a-3]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^29a-4]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^29a-5]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -1010,7 +1012,7 @@ Dem Ersuchen einer ausländischen Meldestelle wird nicht entsprochen, wenn:
 Soweit dieses Gesetz bezüglich Datenbearbeitung und Amtshilfe durch die Meldestelle keine Bestimmungen enthält, werden der erste und der vierte Abschnitt des Bundesgesetzes vom 7. Oktober 1994[^31a-2] über kriminalpolizeiliche Zentralstellen des Bundes sinngemäss angewendet.
 
 [^31a-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
-[^31a-2]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^31a-2]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 
 #### Art. 32
 
@@ -1023,7 +1025,7 @@ Soweit dieses Gesetz bezüglich Datenbearbeitung und Amtshilfe durch die Meldest
 <sup>3</sup> Der Name der Person, die die Meldung des Finanzintermediärs oder der Händlerin oder des Händlers erstattet hat oder die der Informationspflicht nach Artikel 11*a* nachgekommen ist, darf von der Meldestelle nicht an ausländische Strafverfolgungsbehörden weitergegeben werden.[^32-4]
 
 [^32-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
-[^32-2]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^32-2]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 [^32-3]: Aufgehoben durch Ziff. I des BG vom 21. Juni 2013, mit Wirkung seit 1. Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 [^32-4]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)). Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -1036,7 +1038,7 @@ Soweit dieses Gesetz bezüglich Datenbearbeitung und Amtshilfe durch die Meldest
 Die Bearbeitung von Personendaten richtet sich nach dem Datenschutzgesetz vom 25. September 2020[^33-2].
 
 [^33-1]: Fassung gemäss Anhang 1 Ziff. II 95 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 34
 
@@ -1051,10 +1053,10 @@ Die Bearbeitung von Personendaten richtet sich nach dem Datenschutzgesetz vom 25
 <sup>4</sup> Fünf Jahre nach erfolgter Meldung sind die Daten zu vernichten.
 
 [^34-1]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^34-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^34-3]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^34-4]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^34-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
 [^34-6]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 35
@@ -1065,8 +1067,8 @@ Die Bearbeitung von Personendaten richtet sich nach dem Datenschutzgesetz vom 25
 
 <sup>2</sup> Die Meldestelle kann Informationen mit der FINMA, der ESBK, der interkantonalen Behörde, dem Zentralamt und den Strafverfolgungsbehörden über ein Abrufverfahren austauschen.[^35-4]
 
-[^35-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^35-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^35-1]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^35-2]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^35-3]: Fassung gemäss Anhang 1 Ziff. 9 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^35-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
@@ -1148,7 +1150,7 @@ Zur Erfüllung ihrer Aufgaben kann die Meldestelle mittels Abrufverfahren überp
 <sup>2</sup> Für Handelsprüfer und Gruppengesellschaften, die unter das EMKG[^42-2] fallen, gelten die Schlussbestimmungen des EMKG.[^42-3]
 
 [^42-1]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^42-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^42-2]: [SR 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^42-3]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 43

@@ -4,22 +4,22 @@ title: "Federal Act of 10 October 1997 on Combating Money Laundering and Terrori
 short: AMLA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: en
-version: 2023-09-01
+version: 2024-03-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20240301/en/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20240301-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20240301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
 # Federal Act on Combating Money Laundering and Terrorist Financing
 
-English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
 (Anti-Money Laundering Act, AMLA)[^t-1]
 
-of 10 October 1997 (Status as of 1 September 2023)
+of 10 October 1997 (Status as of 1 March 2024)
 
 [^t-1]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -31,7 +31,7 @@ and having considered the Federal Council Dispatch dated 17 June 1996[^ingress-3
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No I of the FA of 21 June 2013, in force since 1 Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 [^ingress-3]: [BBl 1996 III 1101](https://fedlex.data.admin.ch/eli/fga/1996/3_1101_1057_993)
 
@@ -44,7 +44,7 @@ decrees:
 This Act regulates the combating of money laundering as defined in Article 305<sup>bis</sup> of the Swiss Criminal Code[^1-2] (SCC), the combating of terrorist financing as defined in Article 260<sup>quinquies</sup> paragraph 1 SCC, and the due diligence required in financial transactions.
 
 [^1-1]: Amended by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^1-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 2
 
@@ -64,10 +64,10 @@ Financial intermediaries are:
 - a.[^2-2] banks as defined in Article 1*a* of the Banking Act of 8 November 1934[^2-3] (BankA) and the persons defined in Article 1*b* BankA;
 - a<sup>bis</sup>.[^2-4] portfolio managers and trustees as defined in Article 2 paragraph 1 letters a and b of the Financial Institutions Act of 15 June 2018[^2-5] (FinIA);
 - b.[^2-6] fund management companies as defined in Article 2 paragraph 1 letter d FinIA;
-- b<sup>bis</sup>.[^2-7] investment companies with variable capital, limited partnerships for collective investment and investment companies with fixed capital in accordance with the Collective Investment Schemes Act of 23 June 2006[^2-8], as well as the managers of collective assets in accordance with Article 2 paragraph 1 letter c FinIA;
+- b<sup>bis</sup>.[^2-7] licensees in accordance with Article 13 paragraph 2 letters b–d the Collective Investment Schemes Act of 23 June 2006[^2-8], (CISA) and the managers of collective assets in accordance with Article 2 paragraph 1 letter c FinIA;
 - c.[^2-9] insurance institutions as defined in the Insurance Supervision Act of 17 December 2004[^2-10] that deal in direct life insurance or offer or distribute shares in collective investment schemes;
 - d.[^2-11] securities firms in accordance with Article 2 paragraph 1 letter e FinIA;
-- [tab] d<sup>bis</sup>.[^2-12] central counterparties and central securities depositories in accordance with the Financial Market Infrastructure Act of 19 June 2015[^2-13] (FinMIA);
+- d<sup>bis</sup>.[^2-12] central counterparties and central securities depositories in accordance with the Financial Market Infrastructure Act of 19 June 2015[^2-13] (FinMIA);
 - d<sup>ter</sup>.[^2-14] payment systems that require authorisation from the Swiss Financial Market Supervisory Authority (FINMA) in accordance with Article 4 paragraph 2 FinMIA;
 - d<sup>quater</sup>.[^2-15] trading facilities for DLT securities in accordance with Article 73*a* FinMIA (DLT trading facilities);
 - e.[^2-16] casinos as defined in the Gambling Act of 29 September 2017[^2-17] (GamblA);
@@ -93,30 +93,32 @@ This Act does not apply to:
 - a. the Swiss National Bank;
 - b. tax-exempt occupational pension institutions;
 - c. persons who provide their services solely to tax-exempt occupational pension institutions;
-- d. financial intermediaries within the meaning of paragraph 3 who provide their services solely to financial intermediaries within the meaning of paragraph 2 or to foreign financial intermediaries who are subject to equivalent supervision.
+- d. financial intermediaries within the meaning of paragraph 3 who provide their services solely to financial intermediaries within the meaning of paragraph 2 or to foreign financial intermediaries who are subject to equivalent supervision;
+- e.[^2-23] limited qualified investor funds (L-QIF) in the legal form of an investment company with variable capital (SICAV) or a limited partnership for collective investment (LPCI) if the institution responsible for management in accordance with Article 118*h* paragraph 1, 2 or 4 CISA assumes responsibility for complying with the duties under this Act.
 
 [^2-1]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^2-2]: Amended by Annex No II 15 des Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-3]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^2-4]: Inserted by Annex No II 15 of the Financial Institutions Act of 15 June 2018 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^2-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-5]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^2-6]: Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-7]: Inserted by Annex No II 9 des Collective Investment Schemes Act of 23 June 2006 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)). Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-8]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-7]: Inserted by Annex No II 9 des Collective Investment Schemes Act of 23 June 2006 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)). Amended by Annex No 6 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^2-8]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^2-9]: Amended by Annex No II 9 of the Collective Investment Schemes Act of 23 June 2006, in force since 1 Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^2-10]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^2-10]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^2-11]: Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-12]: Inserted by Annex No 12 of the Financial Market Infrastructure Act of 19 June 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^2-13]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^2-13]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^2-14]: Inserted by Annex No 12 of the Financial Market Infrastructure Act of 19 June 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^2-15]: Inserted by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^2-16]: Inserted by Annex No 4 of the Gambling Act of 18 Dec. 1998 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Amended by Annex No II 8 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^2-17]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^2-17]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^2-18]: Inserted by Annex No II 8 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^2-19]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^2-20]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-20]: [SR 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^2-21]: Repealed by Annex No II 8 of the Insurance Supervision Act of 17 Dec. 2004, with effect from 1 Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^2-22]: Repealed by Annex No II 15 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-23]: Inserted by Annex No 6 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 2a
 
@@ -136,7 +138,7 @@ Politically exposed persons in terms of this Act are:
 
 <sup>4</sup> Domestic politically exposed persons are no longer regarded as being politically exposed in terms of this Act when 18 months have elapsed since they relinquished their position. The general duties of due diligence for financial intermediaries are reserved.
 
-- [tab] <sup>5</sup> An international sports federation in terms of paragraph 1 letter c is the International Olympic Committee and the non-governmental organisations that it recognised that regulate one or more official sports at global level.
+<sup>5</sup> An international sports federation in terms of paragraph 1 letter c is the International Olympic Committee and the non-governmental organisations that it recognised that regulate one or more official sports at global level.
 
 [^2a-1]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -168,7 +170,7 @@ Politically exposed persons in terms of this Act are:
 
 [^3-1]: Second sentence inserted by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^3-2]: Amended by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^3-3]: The name of the administrative unit has been changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). This change has been made throughout the text.
+[^3-3]: The name of the administrative unit has been changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). This change has been made throughout the text.
 [^3-4]: Amended by Annex 2 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 4
@@ -215,11 +217,11 @@ The financial intermediary must clarify the economic background and the purpose 
 
 <sup>3</sup> Business relationships with foreign politically exposed persons and their family members or close associates in terms of Article 2*a* paragraph 2 are deemed in every case to be business relationships with a higher risk.
 
-- [tab] <sup>4</sup> Business relationships with domestic politically exposed persons and politically exposed persons in international organisations and their family members or close associates in terms of Article 2*a* paragraph 2 are deemed when combined with one or more further risk criteria to be business relationships with a higher risk.
+<sup>4</sup> Business relationships with domestic politically exposed persons and politically exposed persons in international organisations and their family members or close associates in terms of Article 2*a* paragraph 2 are deemed when combined with one or more further risk criteria to be business relationships with a higher risk.
 
 [^6-1]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^6-2]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^6-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^6-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^6-4]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 7
@@ -282,7 +284,7 @@ They must clarify the economic background and purpose of a transaction if:
 <sup>5</sup> The Federal Council shall specify the details of the duties under paragraphs 1 and 2 and stipulate how they are to be fulfilled.
 
 [^8a-1]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^8a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Section 2 Duties in the Event of a Suspicion of Money Laundering
 
@@ -322,7 +324,7 @@ A dealer must immediately file a report with the Reporting Office if it knows or
 <sup>2</sup> Lawyers and notaries are not subject to the duty to report insofar as they are bound in their activities by professional secrecy in terms of Article 321 SCC.
 
 [^9-1]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^9-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^9-3]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^9-4]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^9-5]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -343,7 +345,7 @@ A dealer must immediately file a report with the Reporting Office if it knows or
 <sup>2</sup> The financial intermediary shall execute customer orders involving significant assets solely in a form that allows the prosecution authorities to follow their trail.[^9a-3]
 
 [^9a-1]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^9a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^9a-3]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 9b
@@ -359,7 +361,7 @@ A dealer must immediately file a report with the Reporting Office if it knows or
 <sup>4</sup> After the business relationship has been terminated, the prohibition on providing information under Article 10*a* paragraph 1 must continue to be complied with.
 
 [^9b-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^9b-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9b-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 10
 
@@ -372,7 +374,7 @@ A dealer must immediately file a report with the Reporting Office if it knows or
 <sup>2</sup> It shall continue to freeze the assets until it receives a ruling from the competent prosecution authority, but at most for five working days from the date on which the Reporting Office gives notice of transmitting the reported information under paragraph 1 or on which it filed the report with the Reporting Office under paragraph 1<sup>bis</sup>.[^10-4]
 
 [^10-1]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^10-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^10-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^10-3]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10-4]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
@@ -400,11 +402,11 @@ The financial intermediary may also inform another financial intermediary subjec
 <sup>6</sup> The prohibition on providing information under paragraphs 1 and 5 does not apply to protecting personal interests in the context of a civil action or criminal or administrative proceedings.[^10a-9]
 
 [^10a-1]: Inserted by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^10a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^10a-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^10a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^10a-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^10a-4]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10a-5]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^10a-6]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^10a-6]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^10a-7]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10a-8]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^10a-9]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
@@ -425,8 +427,8 @@ This exclusion of prosecution and liability also applies to:
 - d. self-regulatory organisations that file a report under Article 27 paragraph 4.[^11-4]
 
 [^11-1]: Amended by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^11-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^11-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^11-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^11-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^11-4]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Section 3 Provision of Information
@@ -449,7 +451,7 @@ This exclusion of prosecution and liability also applies to:
 
 <sup>5</sup> The exclusion of criminal and civil liability under Article 11 applies by analogy.
 
-[^11a-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11a-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^11a-2]: Inserted by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^11a-3]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -474,7 +476,7 @@ The following authorities and organisations shall supervise compliance by financ
 [^12-3]: Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^12-4]: Amended by Annex No II 8 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^12-5]: Inserted by Annex No II 8 of the Gambling Act of 29 Sept. 2017 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^12-6]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^12-6]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^12-7]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^12-8]: Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -526,13 +528,13 @@ If a dealer fails to comply with its duty to report, the audit firm shall immedi
 
 [^15-1]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^15-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^15-3]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^15-3]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^15-4]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-5]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-6]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-7]: Amended by Annex 2 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-8]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^15-9]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-9]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^15-10]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^15-11]: Inserted by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -560,7 +562,7 @@ FINMA, the FGB, the intercantonal authority, the Central Office and the supervis
 
 [^16-1]: Amended by Annex 2 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^16-2]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^16-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^16-4]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^16-5]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^16-6]: Inserted by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
@@ -667,7 +669,7 @@ The lawyers and notaries instructed to carry out AMLA inspections must meet the 
 <sup>2</sup> It may order the liquidation of legal entities and general and limited partnerships, and the deletion of sole proprietorships from the commercial register.
 
 [^20-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^20-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^20-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 21 and 22
 
@@ -731,7 +733,7 @@ It must notify the responsible prosecution authority immediately if it has reaso
 [^23-2]: Amended by No I of the FA of 21 June 2013, in force since 1 Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 [^23-3]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^23-4]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^23-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^23-6]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^23-7]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^23-8]: Amended by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
@@ -762,7 +764,14 @@ Organisations are recognised as self-regulatory organisations if they:
 
 <sup>2</sup> The self-regulatory organisations of the licensed transport undertakings under the Public Transport Act of 20 March 2009[^24-3] must be independent of their respective managements.[^24-4]
 
-**Art. 24**a[^24-5] Licensing of audit firms and lead auditors
+[^24-1]: Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^24-2]: Inserted by Annex No 7 of the FA of 20 June 2014 (Consolidation of Oversight of Audit Companies) ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)). Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^24-3]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^24-4]: Amended by Annex No II 3 of the Postal Services Organisation Act of 17 Dec. 2010, in force since 1 Oct. 2012 ([AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [BBl 2009 5265](https://fedlex.data.admin.ch/eli/fga/2009/919)).
+
+#### Art. 24a
+
+**Licensing of audit firms and lead auditors**[^24a-1]
 
 <sup>1</sup> The self-regulatory organisation shall grant the audit firms and lead auditors the necessary licence and supervise their activity.
 
@@ -770,9 +779,9 @@ Organisations are recognised as self-regulatory organisations if they:
 
 The audit firm shall be licensed if:
 
-- a. it is licensed as an auditor by the Federal Audit Oversight Authority in accordance with Article 6 of the Auditor Oversight Act of 16 December 2005[^24-6];
+- a. it is licensed as an auditor by the Federal Audit Oversight Authority in accordance with Article 6 of the Auditor Oversight Act of 16 December 2005[^24a-2];
 - b. it is adequately organised for this audit; and
-- c. it does not perform any other activity requiring authorisation under the financial market acts in accordance with Article 1 paragraph 1 of the FINMASA[^24-7].
+- c. it does not perform any other activity requiring authorisation under the financial market acts in accordance with Article 1 paragraph 1 of the FINMASA[^24a-3].
 
 <sup>3</sup>
 
@@ -783,13 +792,11 @@ The lead auditor shall be licensed to lead audits in accordance with paragraph 1
 
 <sup>4</sup> Article 17 of the Auditor Oversight Act applies by analogy to the self-regulatory organisation's withdrawal of the licence granted to audit firms and lead auditors in accordance with paragraph 1, as well as to its issuing of a reprimand.
 
-[^24-1]: Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24-2]: Inserted by Annex No 7 of the FA of 20 June 2014 (Consolidation of Oversight of Audit Companies) ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)). Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^24-4]: Amended by Annex No II 3 of the Postal Services Organisation Act of 17 Dec. 2010, in force since 1 Oct. 2012 ([AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [BBl 2009 5265](https://fedlex.data.admin.ch/eli/fga/2009/919)).
-[^24-5]: Inserted by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24-6]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^24-7]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+<sup>5</sup> The self-regulatory organizations may stipulate further admission criteria for audit firms and lead auditors.
+
+[^24a-1]: Inserted by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^24a-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^24a-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 25
 
@@ -860,7 +867,7 @@ They shall immediately submit a report to the Reporting Office if they have reas
 [^27-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^27-3]: Amended by Annex 2 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^27-4]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^27-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^27-6]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^27-7]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^27-8]: Inserted by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
@@ -873,10 +880,10 @@ They shall immediately submit a report to the Reporting Office if they have reas
 
 <sup>2</sup> If a self-regulatory organisation has its recognition withdrawn, its affiliated financial intermediaries must submit a request for affiliation with another self-regulatory organisation within two months.[^28-3]
 
-<sup>3</sup> and <sup>4</sup> ...[^28-4]
+<sup>3 and <sup>4</sup></sup> ...[^28-4]
 
 [^28-1]: Amended by Annex No 17 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^28-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^28-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^28-3]: Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^28-4]: Repealed by Annex No II 15 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -921,7 +928,7 @@ They shall immediately submit a report to the Reporting Office if they have reas
 <sup>4</sup> FINMA, the FGB, the intercantonal authority and the Central Office shall coordinate any interventions in relation to a financial intermediary with the competent prosecution authorities. They shall consult the competent prosecution authorities before passing on any information or documents received.[^29a-6]
 
 [^29a-1]: Inserted by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^29a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^29a-3]: Amended by Annex No II 6 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^29a-4]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^29a-5]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -961,7 +968,7 @@ The Reporting Office may pass on the personal data and other information that ar
 
 It may pass on the following information in particular:
 
-- [tab] a.[^30-2]the name of the financial intermediary or the dealer, provided the anonymity is preserved of the person making the report or who has complied with a duty to provide information under this Act;
+- a.[^30-2] the name of the financial intermediary or the dealer, provided the anonymity is preserved of the person making the report or who has complied with a duty to provide information under this Act;
 - b. account holders, account numbers and account balances;
 - c. beneficial owners;
 - d. details of transactions.
@@ -1009,7 +1016,7 @@ A request for information from a foreign reporting office shall not be granted i
 Unless this Act provides otherwise in relation to data processing and administrative assistance provided by the Reporting Office, the first and fourth sections of the Federal Act of 7 October 1994[^31a-2] on the Central Offices of the Federal Criminal Police apply by analogy.
 
 [^31a-1]: Inserted by No I of the FA of 21 June 2013, in force since 1 Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
-[^31a-2]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^31a-2]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 
 #### Art. 32
 
@@ -1022,7 +1029,7 @@ Unless this Act provides otherwise in relation to data processing and administra
 <sup>3</sup> The name of the person who made the report on behalf of the financial intermediary or the dealer or who complied with the duty to provide information under Article 11*a* may not be passed on by the Reporting Office to foreign prosecution authorities.[^32-4]
 
 [^32-1]: Amended by No I of the FA of 21 June 2013, in force since 1 Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
-[^32-2]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^32-2]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 [^32-3]: Repealed by No I of the FA of 21 June 2013, with effect from 1 Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 [^32-4]: Inserted by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)). Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -1035,7 +1042,7 @@ Unless this Act provides otherwise in relation to data processing and administra
 The processing of personal data is governed by the Data Protection Act of 25 September 2020[^33-2].
 
 [^33-1]: Amended by Annex 1 No II 95 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 34
 
@@ -1050,10 +1057,10 @@ The processing of personal data is governed by the Data Protection Act of 25 Sep
 <sup>4</sup> The data must be destroyed five years after the report is filed.
 
 [^34-1]: Amended by Annex 2 No 2 of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^34-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^34-3]: Amended by Annex 2 No 2 of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^34-4]: Amended by Annex 2 No 2 of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^34-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^34-6]: Amended by Annex 2 No 2 of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 35
@@ -1064,8 +1071,8 @@ The processing of personal data is governed by the Data Protection Act of 25 Sep
 
 <sup>2</sup> The Reporting Office may exchange information with FINMA, the FGB, the intercantonal authority, the Central Office and the prosecution authorities via remote access.[^35-4]
 
-[^35-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^35-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^35-1]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^35-2]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^35-3]: Amended by Annex 1 No 9 of the FA of 13 June 2008 on Federal Police Information Systems, in force since 5 Dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^35-4]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
@@ -1147,14 +1154,14 @@ In order to fulfil its duties, the Reporting Office may by means of a computeris
 <sup>2</sup> The final provisions of the PMCA[^42-2] apply to trade assayers and group companies subject to the PMCA.[^42-3]
 
 [^42-1]: Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^42-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^42-2]: [SR 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^42-3]: Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 43
 
 **Amendment of current legislation**
 
-Relevant to the French Text only
+*Relevant to the French Text only*
 
 #### Art. 44
 

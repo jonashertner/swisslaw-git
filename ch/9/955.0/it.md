@@ -4,11 +4,11 @@ title: "Legge federale del 10 ottobre 1997 relativa alla lotta contro il ricicla
 short: LRD
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: it
-version: 2023-09-01
+version: 2024-03-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20240301-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/it"
 
 (Legge sul riciclaggio di denaro, LRD)[^t-1]
 
-del 10 ottobre 1997 (Stato 1° settembre 2023)
+del 10 ottobre 1997 (Stato 1° marzo 2024)
 
 [^t-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -29,7 +29,7 @@ visto il messaggio del Consiglio federale del 17 giugno 1996[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [FF 2012 6199](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 [^ingress-3]: [FF 1996 III 993](https://fedlex.data.admin.ch/eli/fga/1996/3_1101_1057_993)
 
@@ -42,7 +42,7 @@ decreta:
 La presente legge disciplina la lotta contro il riciclaggio di denaro ai sensi dell’articolo 305<sup>bis</sup> del Codice penale (CP)[^1-2], la lotta contro il finanziamento del terrorismo ai sensi dell’articolo 260<sup>quinquies</sup> capoverso 1 CP e la diligenza richiesta in materia di operazioni finanziarie.
 
 [^1-1]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 2
 
@@ -62,12 +62,12 @@ Sono intermediari finanziari:
 - a.[^2-2] le banche secondo l’articolo 1*a* della legge dell’8 novembre 1934[^2-3] sulle banche (LBCR) e le persone secondo l’articolo 1*b* LBCR;
 - a<sup>bis</sup>.[^2-4] i gestori patrimoniali e i trustee secondo l’articolo 2 capoverso 1 lettere a e b della legge del 15 giugno 2018[^2-5] sugli istituti finanziari (LIsFi);
 - b.[^2-6] le direzioni dei fondi secondo l’articolo 2 capoverso 1 lettera d LIsFi;
-- [tab] b<sup>bis</sup>.[^2-7] le società di investimento a capitale variabile, le società in accomandita per investimenti collettivi di capitale e le società di investimento a capitale fisso ai sensi della legge del 23 giugno 2006[^2-8] sugli investimenti collettivi nonché i gestori di patrimoni collettivi secondo l’articolo 2 capoverso 1 lettera c LIsFi;
+- b<sup>bis</sup>.[^2-7] i titolari dell’autorizzazione di cui all’articolo 13 capoverso 2 lettere b–d della legge del 23 giugno 2006[^2-8] sugli investimenti collettivi (LICol) e i gestori di patrimoni collettivi di cui all’articolo 2 capoverso 1 lettera c LIsFi;
 - c.[^2-9] gli istituti d’assicurazione secondo la legge del 17 dicembre 2004[^2-10] sulla sorveglianza degli assicuratori che praticano l’assicurazione diretta sulla vita od offrono o distribuiscono quote di una società collettiva di capitali;
 - d.[^2-11] le società di intermediazione mobiliare secondo l’articolo 2 capoverso 1 lettera e LIsFi;
 - d<sup>bis</sup>.[^2-12] le controparti centrali e i depositari centrali secondo la legge del 19 giugno 2015[^2-13] sull’infrastruttura finanziaria (LInFi);
 - d<sup>ter</sup>.[^2-14] i sistemi di pagamento, in quanto necessitano di un’autorizzazione dell’Autorità federale di vigilanza sui mercati finanziari (FINMA) secondo l’articolo 4 capoverso 2 LInFi;
-- [tab] d<sup>quater</sup>.[^2-15] i sistemi di negoziazione per valori mobiliari TRD secondo l’articolo 73*a* LInFi (sistemi di negoziazione TRD);
+- d<sup>quater</sup>.[^2-15] i sistemi di negoziazione per valori mobiliari TRD secondo l’articolo 73*a* LInFi (sistemi di negoziazione TRD);
 - e.[^2-16] le case da gioco ai sensi della legge federale del 29 settembre 2017[^2-17] sui giochi in denaro (LGD);
 - f.[^2-18] gli organizzatori di giochi di grande estensione ai sensi della LGD;
 - g.[^2-19] i saggiatori del commercio e le società del gruppo secondo l’articolo 42<sup>bis</sup> della legge del 20 giugno 1933[^2-20] sul controllo dei metalli preziosi (LCMP).
@@ -91,30 +91,32 @@ Sono esclusi dal campo di applicazione della presente legge:
 - a. la Banca nazionale svizzera;
 - b. le istituzioni della previdenza professionale esonerate dall’obbligo fiscale;
 - c. le persone che offrono i loro servizi esclusivamente a istituzioni della previdenza professionale esonerate dall’obbligo fiscale;
-- d. gli intermediari finanziari di cui al capoverso 3 che offrono i loro servizi esclusivamente a intermediari finanziari conformemente al capoverso 2 o a intermediari finanziari esteri, sottoposti ad una vigilanza equivalente.
+- d. gli intermediari finanziari di cui al capoverso 3 che offrono i loro servizi esclusivamente a intermediari finanziari conformemente al capoverso 2 o a intermediari finanziari esteri, sottoposti ad una vigilanza equivalente;
+- e.[^2-23] i fondi riservati a investitori qualificati (L-QIF) che rivestono la forma giuridica della società di investimento a capitale variabile (SICAV) o della società in accomandita per investimenti collettivi di capitale (SAcCol), se l’istituto cui compete la gestione secondo l’articolo 118*h* capoverso 1, 2 o 4 LICol assicura l’adempimento degli obblighi previsti nella presente legge.
 
 [^2-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^2-2]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-3]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^2-4]: Introdotta dall’all. n. II 15 della LF del 15 giu. 2018 sugli istituti ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Nuovo testo giusta dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^2-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-5]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^2-6]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-7]: Introdotta dall’all. n. II 9 della L del 23 giu. 2006 sugli investimenti collettivi ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)). Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-8]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-7]: Introdotta dall’all. n. II 9 della L del 23 giu. 2006 sugli investimenti collettivi ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)). Nuovo testo giusta l’all. n. 6 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^2-8]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^2-9]: Nuovo testo giusta l’all. n. II 9 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^2-10]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^2-10]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^2-11]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-12]: Introdotta dall’all. n. 12 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^2-13]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^2-13]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^2-14]: Introdotta dall’all. n. 12 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^2-15]: Introdotta dal n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^2-16]: Introdotta dall’all. n. 4 della LF del 18 dic. 1998 sulle case da gioco ([RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 129](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nuovo testo giusta l’all. n. II 8 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^2-17]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^2-17]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^2-18]: Introdotta dall’all. n. II 8 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^2-19]: Introdotta dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^2-20]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-20]: [RS 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^2-21]: Abrogata dall’all. n. II 8 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, con effetto dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^2-22]: Abrogata dall’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-23]: Introdotta dall’all. n. 6 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 2a
 
@@ -166,7 +168,7 @@ Per persone politicamente esposte a tenore della presente legge s’intendono le
 
 [^3-1]: Per. introdotto dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^3-2]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^3-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^3-4]: Nuovo testo giusta l’all. 2 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 4
@@ -217,7 +219,7 @@ L’intermediario finanziario deve chiarire le circostanze e lo scopo di una tra
 
 [^6-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^6-2]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^6-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^6-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^6-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 7
@@ -280,7 +282,7 @@ I commercianti devono chiarire le circostanze e lo scopo di una transazione comm
 <sup>5</sup> Il Consiglio federale concretizza gli obblighi di cui ai capoversi 1 e 2 e ne stabilisce le modalità di adempimento.
 
 [^8a-1]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^8a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Sezione 2: Obblighi in caso di sospetto di riciclaggio di denaro
 
@@ -321,7 +323,7 @@ Il commerciante che sa o ha il sospetto fondato che il denaro contante utilizzat
 
 [^9-1]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^9-2]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^9-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^9-4]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^9-5]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^9-6]: Introdotta dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -341,7 +343,7 @@ Il commerciante che sa o ha il sospetto fondato che il denaro contante utilizzat
 <sup>2</sup> L’intermediario finanziario esegue gli ordini dei clienti che riguardano importanti valori patrimoniali soltanto in una forma tale da consentire alle autorità di perseguimento penale di seguirne la traccia.[^9a-3]
 
 [^9a-1]: Introdotto dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^9a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^9a-3]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 9b
@@ -357,7 +359,7 @@ Il commerciante che sa o ha il sospetto fondato che il denaro contante utilizzat
 <sup>4</sup> Dopo l’interruzione della relazione d’affari il divieto d’informazione di cui all’articolo 10*a* capoverso 1 deve continuare a essere rispettato.
 
 [^9b-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^9b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9b-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 10
 
@@ -370,7 +372,7 @@ Il commerciante che sa o ha il sospetto fondato che il denaro contante utilizzat
 <sup>2</sup> L’intermediario finanziario protrae il blocco dei beni fino a ricevimento di una decisione della competente autorità di perseguimento penale, ma al massimo per cinque giorni feriali a contare da quando l’Ufficio di comunicazione gli ha notificato di aver trasmesso le informazioni comunicate nel caso di cui al capoverso 1 o da quando egli ha effettuato la comunicazione all’Ufficio di comunicazione nel caso di cui al capoverso 1<sup>bis</sup>.[^10-4]
 
 [^10-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^10-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^10-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^10-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
@@ -398,11 +400,11 @@ Può altresì informare un altro intermediario finanziario sottoposto alla prese
 <sup>6</sup> Il divieto di informare di cui ai capoversi 1 e 5 non si applica quando si tratta di tutelare interessi propri nell’ambito di un processo civile o di un procedimento penale o amministrativo.[^10a-9]
 
 [^10a-1]: Introdotto dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^10a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^10a-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^10a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^10a-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^10a-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10a-5]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^10a-6]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^10a-6]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^10a-7]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^10a-8]: Introdotto dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^10a-9]: Introdotto dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -423,8 +425,8 @@ Il capoverso 1 si applica anche:
 - d. agli organismi di autodisciplina che effettuano comunicazioni ai sensi dell’articolo 27 capoverso 4.[^11-4]
 
 [^11-1]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^11-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^11-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^11-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^11-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^11-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Sezione 3: Consegna di informazioni
@@ -447,7 +449,7 @@ Il capoverso 1 si applica anche:
 
 <sup>5</sup> L’esclusione della responsabilità penale e civile ai sensi dell’articolo 11 si applica per analogia.
 
-[^11a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11a-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^11a-2]: Introdotto dall’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^11a-3]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -471,7 +473,7 @@ La vigilanza relativa all’osservanza degli obblighi secondo il capitolo 2 da p
 [^12-2]: Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^12-3]: Nuovo testo giusta l’all. n. II 8 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^12-4]: Introdotta dall’all. n. II 8 della LF del 29 set. 2017 sui giochi in denaro ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^12-5]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^12-5]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^12-6]: Introdotta dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^12-7]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -523,13 +525,13 @@ Se un commerciante viene meno all’obbligo di comunicazione, l’impresa di rev
 
 [^15-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^15-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^15-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^15-3]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^15-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-5]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-6]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-7]: Nuovo testo giusta l’all. 2 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^15-8]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^15-9]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-9]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^15-10]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^15-11]: Introdotta dall’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -551,19 +553,20 @@ La FINMA, la CFCG, l’autorità intercantonale, l’Ufficio centrale e gli orga
 - a.[^16-3] sia stato commesso un reato ai sensi degli articoli 260<sup>ter</sup>, 305<sup>bis</sup> o 305<sup>ter</sup> capoverso 1 CP[^16-4];
 - b.[^16-5] valori patrimoniali provengano da un crimine o da un delitto fiscale qualificato di cui all’articolo 305<sup>bis</sup> numero 1<sup>bis</sup> CP;
 - c.[^16-6] valori patrimoniali sottostiano alla facoltà di disporre di un’organizzazione criminale o terroristica; o
-- d. valori patrimoniali servano al finanziamento del terrorismo (art. 260<sup>quinquies</sup> cpv. 1 CP),
+- d.[^16-7] valori patrimoniali servano al finanziamento del terrorismo (art. 260<sup>quinquies</sup> cpv. 1 CP),
 
 <sup>2</sup> Tale obbligo sussiste soltanto nella misura in cui l’intermediario finanziario o l’organismo di autodisciplina non vi abbiano già adempiuto.
 
-<sup>3</sup> L’organismo di vigilanza trasmette nel contempo alla FINMA una copia della comunicazione.[^16-7]
+<sup>3</sup> L’organismo di vigilanza trasmette nel contempo alla FINMA una copia della comunicazione.[^16-8]
 
 [^16-1]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^16-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^16-3]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^16-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^16-5]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^16-6]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^16-7]: Introdotto dall’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^16-7]: Introdotta dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^16-8]: Introdotto dall’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Sezione 3: Vigilanza sugli intermediari finanziari ai sensi dell’articolo 2 capoverso 2
 
@@ -606,7 +609,7 @@ La FINMA ha i seguenti compiti nell’ambito della vigilanza sugli intermediari 
 - b.[^18-3] vigila sugli organismi di autodisciplina;
 - c. approva i regolamenti emanati dagli organismi di autodisciplina secondo l’articolo 25, come pure le relative modifiche;
 - d. provvede affinché gli organismi di autodisciplina facciano applicare i loro regolamenti;
-- [tab] e. ed f.[^18-4] ...
+- e. e f.[^18-4] ...
 
 <sup>2</sup> ...[^18-5]
 
@@ -666,7 +669,7 @@ Gli avvocati e i notai incaricati di effettuare i controlli LRD devono:
 <sup>2</sup> La FINMA può ordinare lo scioglimento delle persone giuridiche, delle società in nome collettivo e delle società in accomandita e la radiazione dal registro di commercio delle ditte individuali.
 
 [^20-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^20-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^20-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 21 e 22
 
@@ -696,7 +699,7 @@ La FINMA trasmette a sua volta i dati ricevuti dal DFF:
 
 <sup>4</sup> Il DFF non trasmette alcun dato alla FINMA, alla CFCG, all’autorità intercantonale e all’Ufficio centrale se, dopo avere sentito il Dipartimento federale degli affari esteri, il DFGP, il Dipartimento federale della difesa, della protezione della popolazione e dello sport e il Dipartimento federale dell’economia, della formazione e della ricerca, deve presumere che siano stati violati i diritti umani o principi dello Stato di diritto.[^22a-6]
 
-[^22a-1]: www.un.org &gt; Français &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Résolutions &gt; 2001 &gt; 1373
+[^22a-1]: [www.un.org](http://www.un.org) &gt; Français &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Résolutions &gt; 2001 &gt; 1373
 [^22a-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^22a-3]: Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^22a-4]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -731,7 +734,7 @@ L’Ufficio di comunicazione, se ha il sospetto fondato che:
 [^23-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^23-4]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^23-5]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^23-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^23-7]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^23-8]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^23-9]: Introdotto dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -763,7 +766,7 @@ Sono riconosciute quali organismi di autodisciplina le organizzazioni che:
 
 [^24-1]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^24-2]: Introdotta dall’all. n. 7 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit) ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)). Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24-3]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^24-3]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^24-4]: Nuovo testo giusta l’all. n. II 3 della LF del 17 dic. 2010 sull’organizzazione della Posta, in vigore dal 1° ott. 2012 ([RU 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [FF 2009 4573](https://fedlex.data.admin.ch/eli/fga/2009/919)).
 
 #### Art. 24a
@@ -792,8 +795,8 @@ L’auditor responsabile è abilitato a esercitare la funzione di responsabile d
 <sup>5</sup> Gli organismi di autodisciplina possono prevedere ulteriori criteri per l’abilitazione delle società di audit e degli auditor responsabili.
 
 [^24a-1]: Introdotto dall’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^24a-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^24a-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^24a-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 25
 
@@ -856,19 +859,20 @@ Gli organismi di autodisciplina, se hanno il sospetto fondato che:[^27-4]
 - a.[^27-5] sia stato commesso un reato ai sensi degli articoli 260<sup>ter</sup> o 305<sup>bis</sup> CP[^27-6];
 - b.[^27-7] valori patrimoniali provengano da un crimine o da un delitto fiscale qualificato di cui all’articolo 305<sup>bis</sup> numero 1<sup>bis</sup> CP;
 - c.[^27-8] valori patrimoniali sottostiano alla facoltà di disporre di un’organizzazione criminale o terroristica; o
-- d. valori patrimoniali servano al finanziamento del terrorismo (art. 260<sup>quinquies</sup> cpv. 1 CP),
+- d.[^27-9] valori patrimoniali servano al finanziamento del terrorismo (art. 260<sup>quinquies</sup> cpv. 1 CP),
 
-<sup>5</sup> L’obbligo di cui al capoverso 4 decade se un intermediario finanziario affiliato a un organismo di autodisciplina vi ha già adempiuto.[^27-9]
+<sup>5</sup> L’obbligo di cui al capoverso 4 decade se un intermediario finanziario affiliato a un organismo di autodisciplina vi ha già adempiuto.[^27-10]
 
 [^27-1]: Nuovo testo giusta l’all. n. 17 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^27-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^27-3]: Nuovo testo della per. finale giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^27-4]: Nuovo testo giusta l’all. 2 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^27-5]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^27-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^27-7]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^27-8]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^27-9]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^27-9]: Introdotta dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^27-10]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
 #### Art. 28
 
@@ -878,10 +882,10 @@ Gli organismi di autodisciplina, se hanno il sospetto fondato che:[^27-4]
 
 <sup>2</sup> In caso di revoca del riconoscimento a un organismo di autodisciplina, gli intermediari finanziari che gli sono affiliati devono presentare entro due mesi una richiesta di affiliazione a un altro organismo di autodisciplina.[^28-3]
 
-<sup>3</sup> e <sup>4</sup> ...[^28-4]
+<sup>3 e <sup>4</sup></sup> ...[^28-4]
 
 [^28-1]: Nuovo testo giusta l’all. n. 17 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^28-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^28-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^28-3]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^28-4]: Abrogati dall’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -926,7 +930,7 @@ Gli organismi di autodisciplina, se hanno il sospetto fondato che:[^27-4]
 <sup>4</sup> La FINMA, la CFCG, l’autorità intercantonale e l’Ufficio centrale coordinano gli eventuali interventi nei confronti di un intermediario finanziario con le competenti autorità di perseguimento penale. Consultano le competenti autorità di perseguimento penale prima di un’eventuale trasmissione delle informazioni e dei documenti ricevuti.[^29a-6]
 
 [^29a-1]: Introdotto dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^29a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^29a-3]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^29a-4]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^29a-5]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -1014,7 +1018,7 @@ L’Ufficio di comunicazione non dà seguito alla richiesta di un ufficio di com
 Per quanto la presente legge non contenga disposizioni sul trattamento dei dati e l’assistenza amministrativa da parte dell’Ufficio di comunicazione, si applicano per analogia le sezioni 1 e 4 della legge federale del 7 ottobre 1994[^31a-2] sugli Uffici centrali di polizia giudiziaria della Confederazione.
 
 [^31a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [FF 2012 6199](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
-[^31a-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^31a-2]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 
 #### Art. 32
 
@@ -1027,7 +1031,7 @@ Per quanto la presente legge non contenga disposizioni sul trattamento dei dati 
 <sup>3</sup> L’Ufficio di comunicazione non è autorizzato a trasmettere ad autorità estere di perseguimento penale il nome della persona che ha trasmesso la comunicazione dell’intermediario finanziario o del commerciante oppure della persona che ha adempiuto l’obbligo d’informare di cui all’articolo 11*a*.[^32-4]
 
 [^32-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [FF 2012 6199](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
-[^32-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^32-2]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 [^32-3]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° nov. 2013 ([RU 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [FF 2012 6199](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 [^32-4]: Introdotto dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)). Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -1040,7 +1044,7 @@ Per quanto la presente legge non contenga disposizioni sul trattamento dei dati 
 Il trattamento di dati personali è disciplinato dalla legge federale del 25 settembre 2020[^33-2] sulla protezione dei dati.
 
 [^33-1]: Nuovo testo giusta l’all. 1 n. II 95 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^33-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 34
 
@@ -1055,10 +1059,10 @@ Il trattamento di dati personali è disciplinato dalla legge federale del 25 set
 <sup>4</sup> I dati devono essere distrutti cinque anni dopo l’avvenuta comunicazione.
 
 [^34-1]: Nuovo testo giusta l’all. 2 n. 2 della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^34-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^34-3]: Nuovo testo giusta l’all. 2 n. 2 della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^34-4]: Nuovo testo giusta l’all. 2 n. 2 della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^34-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
 [^34-6]: Nuovo testo giusta l’all. 2 n. 2 della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 35
@@ -1069,8 +1073,8 @@ Il trattamento di dati personali è disciplinato dalla legge federale del 25 set
 
 <sup>2</sup> L’Ufficio di comunicazione può scambiare informazioni con la FINMA, la CFCG, l’autorità intercantonale, l’Ufficio centrale e le autorità di perseguimento penale mediante una procedura di richiamo.[^35-4]
 
-[^35-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^35-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^35-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^35-2]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^35-3]: Nuovo testo giusta l’all. 1 n. 9 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^35-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
@@ -1152,14 +1156,14 @@ Per svolgere i suoi compiti, l’Ufficio di comunicazione può verificare, media
 <sup>2</sup> Ai saggiatori del commercio e alle società del gruppo secondo la LCMP[^42-2] si applicano le disposizioni finali di tale legge.[^42-3]
 
 [^42-1]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^42-2]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^42-2]: [RS 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^42-3]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 43
 
 **Modifica del diritto vigente**
 
-### Concerne solo il testo francese
+*Concerne solo il testo francese*
 
 #### Art. 44
 
