@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2007 über die Eidgenössische Finanzmarktaufs
 short: FINMAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: de
-version: 2024-01-01
+version: 2024-03-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240301-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/de"
 
 (Finanzmarktaufsichtsgesetz, FINMAG)
 
-vom 22. Juni 2007 (Stand am 1. Januar 2024)
+vom 22. Juni 2007 (Stand am 1. März 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -84,10 +84,12 @@ Der Bund schafft eine Behörde für die Aufsicht über den Finanzmarkt nach folg
 Der Finanzmarktaufsicht unterstehen:
 
 - a. die Personen, die nach den Finanzmarktgesetzen eine Bewilligung, eine Anerkennung, eine Zulassung oder eine Registrierung der Finanzmarktaufsichtsbehörde benötigen; und
-- b. die kollektiven Kapitalanlagen;
-- c.[^3-1] …
+- b.[^3-1] die kollektiven Kapitalanlagen nach dem Kollektivanlagengesetz vom 23. Juni 2006[^3-2], die über eine Bewilligung oder Genehmigung verfügen oder über eine solche verfügen müssen;
+- c.[^3-3] …
 
-[^3-1]: Aufgehoben durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^3-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^3-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-3]: Aufgehoben durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 4
 
@@ -697,7 +699,7 @@ Die FINMA kann folgenden Personen die Tätigkeit im Handel mit Finanzinstrumente
 
 <sup>1</sup> Die FINMA ist befugt, anderen inländischen Aufsichtsbehörden sowie der Schweizerischen Nationalbank nicht öffentlich zugängliche Informationen zu übermitteln, die diese zur Erfüllung ihrer Aufgaben benötigen.
 
-- [tab] <sup>1bis</sup> Die FINMA und die Aufsichtsbehörde nach dem Krankenversicherungsaufsichtsgesetz vom 26. September 2014[^39-2] koordinieren ihre Aufsichtstätigkeiten. Sie informieren sich gegenseitig, sobald sie von Vorkommnissen Kenntnis erhalten, die für die andere Aufsichtsbehörde von Bedeutung sind.[^39-3]
+<sup>1bis</sup> Die FINMA und die Aufsichtsbehörde nach dem Krankenversicherungsaufsichtsgesetz vom 26. September 2014[^39-2] koordinieren ihre Aufsichtstätigkeiten. Sie informieren sich gegenseitig, sobald sie von Vorkommnissen Kenntnis erhalten, die für die andere Aufsichtsbehörde von Bedeutung sind.[^39-3]
 
 <sup>2</sup> Die FINMA kann zudem mit dem EFD nicht öffentlich zugängliche Informationen über bestimmte Finanzmarktteilnehmer austauschen, wenn es der Aufrechterhaltung der Stabilität des Finanzsystems dient.[^39-4]
 
@@ -1093,14 +1095,14 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 
 Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
 
-- a.[^47-1] die nach den Finanzmarktgesetzen vorgeschriebene Jahresrechnung nicht durch eine zugelassene Prüfgesellschaft prüfen oder eine von der FINMA oder einer Aufsichtsorganisation angeordnete Prüfung nicht vornehmen lässt;
+- a.[^47-1] die nach den Finanzmarktgesetzen vorgeschriebene Jahresrechnung nicht durch eine zugelassene Prüfgesellschaft prüfen oder eine in den Finanzmarktgesetzen vorgeschriebene oder von der FINMA oder einer Aufsichtsorganisation angeordnete Prüfung nicht vornehmen lässt;
 - b. die Pflichten, die ihm oder ihr gegenüber der Prüfgesellschaft oder gegenüber der oder dem Beauftragten obliegen, nicht erfüllt.
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
 
 <sup>3</sup> …[^47-2]
 
-[^47-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^47-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^47-2]: Aufgehoben durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 48

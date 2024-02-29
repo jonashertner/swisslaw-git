@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2007 concernente l'Autorità federale di vi
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: it
-version: 2024-01-01
+version: 2024-03-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240301-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/it"
 
 (Legge sulla vigilanza dei mercati finanziari, LFINMA[^t-1])
 
-del 22 giugno 2007 (Stato 1° gennaio 2024)
+del 22 giugno 2007 (Stato 1° marzo 2024)
 
 [^t-1]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -86,10 +86,12 @@ La Confederazione istituisce un’autorità di vigilanza sui mercati finanziari 
 Sottostanno alla vigilanza sui mercati finanziari:
 
 - a. le persone che in virtù delle leggi sui mercati finanziari necessitano di un’autorizzazione, di un riconoscimento, di un’abilitazione o di una registrazione dell’autorità di vigilanza sui mercati finanziari; e
-- b. gli investimenti collettivi di capitale;
-- c.[^3-1] ...
+- b.[^3-1] gli investimenti collettivi di capitale ai sensi della legge del 23 giugno 2006[^3-2] sugli investimenti collettivi che dispongono o devono disporre di un’autorizzazione o di un’approvazione;
+- c.[^3-3] ...
 
-[^3-1]: Abrogata dall’all. n. 8 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), con effetto dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^3-1]: Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^3-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-3]: Abrogata dall’all. n. 8 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), con effetto dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 4
 
@@ -1095,14 +1097,14 @@ Se la verifica è effettuata da una società di audit secondo il capoverso 1, gl
 
 È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, intenzionalmente:
 
-- a.[^47-1] omette di fare verificare da una società di audit abilitata il consuntivo annuale prescritto dalle leggi sui mercati finanziari o di fare effettuare una verifica ordinata dalla FINMA o da un organismo di vigilanza;
+- a.[^47-1] omette di far verificare da una società di audit abilitata il consuntivo annuale prescritto dalle leggi sui mercati finanziari o di far effettuare una verifica prescritta dalle leggi sui mercati finanziari oppure ordinata dalla FINMA o da un organismo di vigilanza;
 - b. non adempie gli obblighi che gli incombono nei confronti della società di audit o della persona incaricata.
 
 <sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 250 000 franchi.
 
 <sup>3</sup> …[^47-2]
 
-[^47-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^47-1]: Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^47-2]: Abrogato dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 48

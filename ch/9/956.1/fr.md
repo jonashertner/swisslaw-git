@@ -4,11 +4,11 @@ title: "Loi du 22 juin 2007 sur l'Autorité fédérale de surveillance des march
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: fr
-version: 2024-01-01
+version: 2024-03-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240301-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/fr"
 
 (Loi sur la surveillance des marchés financiers, LFINMA)
 
-du 22 juin 2007 (État le 1<sup>er</sup> janvier 2024)
+du 22 juin 2007 (État le 1<sup>er</sup> mars 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -84,10 +84,12 @@ La Confédération crée une autorité chargée de surveiller les marchés finan
 Sont assujettis à la surveillance des marchés financiers:
 
 - a. les personnes qui, selon les lois sur les marchés financiers, doivent obtenir une autorisation, une reconnaissance, un agrément ou un enregistrement de l’autorité de surveillance des marchés financiers, et
-- b. les placements collectifs de capitaux;
-- c.[^3-1] …
+- b.[^3-1] les placements collectifs de capitaux au sens de la loi du 23 juin 2006 sur les placements collectifs[^3-2] qui disposent ou doivent disposer d’une autorisation ou d’une approbation;
+- c.[^3-3] …
 
-[^3-1]: Abrogée par l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^3-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-3]: Abrogée par l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 4
 
@@ -1093,14 +1095,14 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:
 
-- a.[^47-1] ne fait pas procéder par une société d’audit agréée à l’audit des comptes annuels prescrit par les lois sur les marchés financiers ou omet de faire procéder à l’audit exigé par la FINMA ou un organisme de surveillance;
+- a.[^47-1] ne fait pas procéder par une société d’audit agréée à l’audit des comptes annuels prescrit par les lois sur les marchés financiers ou omet de faire procéder à l’audit prescrits par les lois sur les marchés financiers ou exigé par la FINMA ou un organisme de surveillance;
 - b. ne remplit pas les obligations qui lui incombent envers la société d’audit ou la personne mandatée.
 
 <sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.
 
 <sup>3</sup> …[^47-2]
 
-[^47-1]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^47-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^47-2]: Abrogé par l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 48

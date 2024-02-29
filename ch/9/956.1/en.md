@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 2007 on the Swiss Financial Market Supervisory Au
 short: FINMASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: en
-version: 2024-01-01
+version: 2024-03-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240301-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Supervision Act, FINMASA)
 
-of 22 June 2007 (Status as of 1 January 2024)
+of 22 June 2007 (Status as of 1 March 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -86,10 +86,12 @@ The Confederation shall create an authority for the supervision of the financial
 The following are subject to financial market supervision:
 
 - a. persons and entities that under the financial market acts require to be licensed recognised, or registered by the Financial Market Supervisory Authority; and
-- b. collective capital investments;
-- c.[^3-1] ...
+- b.[^3-1] collective capital investments under the Collective Investment Schemes Act of 23 June 2006[^3-2] that have been or must be licensed or approved;
+- c.[^3-3] ...
 
-[^3-1]: Repealed by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), with effect from 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^3-1]: Amended by Annex No 7 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^3-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-3]: Repealed by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), with effect from 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 4
 
@@ -253,14 +255,19 @@ The Board of Directors regulates in an ordinance:
 
 <sup>5</sup> The Board of Directors shall submit the ordinance to the Federal Council for approval.
 
-**Art. 13**a[^13-3] Data processing
+[^13-1]: Amended by Annex No 4 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 13a
+
+**Data processing**[^13a-1]
 
 <sup>1</sup>
 
-FINMA shall process, in hard copy or in one or more information systems, the data on its employees and on job applicants necessary for performing the tasks in accordance with this Act. It may delegate the processing to a processor. The data processed relate in particular to:[^13-4]
+FINMA shall process, in hard copy or in one or more information systems, the data on its employees and on job applicants necessary for performing the tasks in accordance with this Act. It may delegate the processing to a processor. The data processed relate in particular to:[^13a-2]
 
-- a.[^13-5] the application process;
-- a<sup>bis</sup>.[^13-6] creating, executing and terminating an employment relationship;
+- a.[^13a-3] the application process;
+- a<sup>bis</sup>.[^13a-4] creating, executing and terminating an employment relationship;
 - b. personnel and wage management;
 - c. personnel development;
 - d. performance appraisal;
@@ -268,7 +275,7 @@ FINMA shall process, in hard copy or in one or more information systems, the dat
 
 <sup>2</sup>
 
-It may process the following data pertaining to its employees necessary for performing the tasks set out in paragraph 1, including sensitive personal data:[^13-7]
+It may process the following data pertaining to its employees necessary for performing the tasks set out in paragraph 1, including sensitive personal data:[^13a-5]
 
 - a. personal details;
 - b. state of health details with regard to working ability;
@@ -286,13 +293,11 @@ It shall issue implementing regulations with regard to:
 - d. the data categories under paragraph 2;
 - e. data protection and security.
 
-[^13-1]: Amended by Annex No 4 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^13-3]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-4]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^13-5]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^13-6]: Inserted by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^13-7]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-1]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13a-2]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-3]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-4]: Inserted by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-5]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -610,7 +615,9 @@ Where there are indications of violations of supervisory provisions and if FINMA
 
 <sup>2</sup> The prohibition from practising a profession may be imposed for a period of up to five years.
 
-**Art. 33**a[^33-1] Prohibition from performing an activity
+#### Art. 33a
+
+**Prohibition from performing an activity**[^33a-1]
 
 <sup>1</sup>
 
@@ -621,7 +628,7 @@ Where the following persons seriously violate the provisions of the financial ma
 
 <sup>2</sup> If the prohibited activity also covers an activity in an area under the supervision of another supervisory authority, this authority is to be consulted and informed of the decision.
 
-[^33-1]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^33a-1]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 34
 
@@ -719,13 +726,15 @@ FINMA may refuse to disclose information that is not publicly accessible or to h
 
 At the request of any of the authorities concerned, the Federal Administrative Court rules on disputes relating to the cooperation between FINMA on the one hand and prosecution authorities or other domestic authorities on the other.
 
-**Art. 41**a[^41-1] Communication of judgments
+#### Art. 41a
+
+**Communication of judgments**[^41a-1]
 
 <sup>1</sup> The cantonal civil courts and the Federal Supreme Court shall provide FINMA free of charge with a full copy of their judgment in relation to disputes between a supervised person or entity and creditors, investors or insured parties.
 
 <sup>2</sup> FINMA shall forward to the supervisory organisation the judgments concerning the supervisory organisation's supervised persons and entities.
 
-[^41-1]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^41a-1]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Section 4 Cooperation with Foreign Bodies
 
@@ -1063,14 +1072,13 @@ For audits conducted by an audit company in accordance with paragraph 1, a lead 
 
 **Violations of obligations by agents[^46-1]**
 
-<sup>1</sup>
+<sup>1</sup> is liable to a custodial sentence of up to three years or to a monetary penalty.
 
 Any person who as an agent wilfully and seriously violates the supervisory provisions by:[^46-2]
 
 - a.[^46-3] falsely stating essential information in the report or withholding essential information;
 - b. failing to make a mandatory report to FINMA; or
 - c. failing to make an order under Article 27 to the audited supervised person or entity,
-- [tab] is liable to a custodial sentence of up to three years or to a monetary penalty.
 
 <sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250 000 francs.
 
@@ -1089,7 +1097,7 @@ Any person who as an agent wilfully and seriously violates the supervisory provi
 
 Any person who wilfully:
 
-- a.[^47-1] fails to have the annual financial statements required by the financial market acts audited by a licensed audit company or to have an audit carried out that has been ordered by FINMA or a supervisory organisation;
+- a.[^47-1] fails to have the annual financial statements required by the financial market acts audited by a licensed audit company or to have an audit carried out that is required under the financial market acts or that has been ordered by FINMA or a supervisory organisation;
 - b. fails to fulfil his or her obligations vis-à-vis the audit company or the agent,
 - [tab] is liable to a custodial sentence of up to three years or to a monetary penalty.
 
@@ -1097,7 +1105,7 @@ Any person who wilfully:
 
 <sup>3</sup> ...[^47-2]
 
-[^47-1]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^47-1]: Amended by Annex No 7 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^47-2]: Repealed by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, with effect from 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 48
