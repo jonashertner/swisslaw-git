@@ -3,13 +3,13 @@ canton: FR
 number: "781.16"
 title: Arrêté fixant les émoluments en matière de circulation routière
 language: fr
-version: 2022-07-01
-valid_until: 2024-02-29
-version_adopted: 2022-05-03
+version: 2024-03-01
+valid_until: 2025-08-31
+version_adopted: 2023-11-28
 adopted: 1991-07-12
 in_force: 1991-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/781.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7492/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7895/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7492/pdf_file"
 
 Circulation routière, émoluments – A
 
-du 12.07.1991 (version entrée en vigueur le 01.07.2022)
+du 12.07.1991 (version entrée en vigueur le 01.03.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -48,7 +48,7 @@ Arrête:
 
 <sup>1</sup> L'obtention d'un permis de conduire est assujettie aux émoluments forfaitaires suivants:
 
-- a) pour la catégorie A ou la sous-catégorie A1: — Fr. 170
+- a) pour la catégorie A ou la sous-catégorie A1: — Fr. 190
 - b) pour la catégorie B, la sous-catégorie B1 ou la catégorie spéciale F: — Fr. 190
 - c) pour les catégories C, D, CE ou les sous-catégories C1, D1: — Fr. 210 à 300
 - d) pour les catégories BE, DE ou les sous-catégories C1E et D1E: — Fr. 180
@@ -60,7 +60,7 @@ Arrête:
 
 - a) pour la théorie: — Fr. 30
 - b) pour la pratique:
-  - 1\. catégorie A ou sous-catégorie A1: — Fr. 90
+  - 1\. catégorie A ou sous-catégorie A1: — Fr. 110
   - 2\. catégorie B ou sous-catégorie B1: — Fr. 110
   - 3\. autres catégories ou sous-catégories: — Fr. 90 à 250
 
@@ -257,8 +257,8 @@ Arrête:
 - e) pour un abonnement forfaitaire annuel pour la fourniture de renseignements aux compagnies d'assurances et professionnelles de la branche, selon l'importance du travail: — Fr. 50 à 4000
 - f) pour la délivrance d'une vignette pour cyclomoteurs: — Fr. 5 à 10
 - g) pour les tâches administratives et techniques en vue de la délivrance des plaques professionnelles, selon l'importance du travail: — Fr. 50 à 250
-- h) pour l'envoi d'un téléfax, en fonction de la destination, par page: — Fr. 2 à 10
-- i) pour le remboursement par chèque d'un crédit d'impôt: — Fr. 5 à 20
+- h) …
+- i) …
 - j) pour les travaux effectués par du personnel spécialisé en informatique, y compris les frais d'utilisation de moyens informatiques, par heure et par personne: — Fr. 100 à 250
 - k) pour les recherches de police par traitement électronique des données (TED), par cas: — Fr. 200 à 800
 - l) pour les tâches ou travaux, effectués par le personnel de l'OCN, qui ne font pas l'objet d'un émolument selon une autre disposition du présent arrêté, par heure et par personne: — Fr. 40 à 100

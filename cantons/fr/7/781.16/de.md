@@ -3,13 +3,13 @@ canton: FR
 number: "781.16"
 title: Beschluss über die Strassenverkehrsgebühren
 language: de
-version: 2022-07-01
-valid_until: 2024-02-29
-version_adopted: 2022-05-03
+version: 2024-03-01
+valid_until: 2025-08-31
+version_adopted: 2023-11-28
 adopted: 1991-07-12
 in_force: 1991-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/781.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7492/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7895/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7492/pdf_file"
 
 Strassenverkehrsgebühren – B
 
-vom 12.07.1991 (Fassung in Kraft getreten am 01.07.2022)
+vom 12.07.1991 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -48,7 +48,7 @@ beschliesst:
 
 <sup>1</sup> Für die Erlangung eines Führerausweises werden folgende Pauschalgebühren erhoben:
 
-- a) für die Kategorie A oder die Unterkategorie A1: — Fr. 170
+- a) für die Kategorie A oder die Unterkategorie A1: — Fr. 190
 - b) für die Kategorie B, die Unterkategorie B1 oder die Spezialkategorie F: — Fr. 190
 - c) für die Kategorien C, D, CE oder die Unterkategorien C1, D1: — Fr. 210–300
 - d) für die Kategorien BE, DE oder die Unterkategorien C1E, D1E: — Fr. 180
@@ -60,7 +60,7 @@ beschliesst:
 
 - a) für die Theorieprüfung: — Fr. 30
 - b) für die praktische Prüfung:
-  - 1\. Kategorie A oder Unterkategorie A1: — Fr. 90
+  - 1\. Kategorie A oder Unterkategorie A1: — Fr. 110
   - 2\. Kategorie B oder Unterkategorie B1: — Fr. 110
   - 3\. weitere Kategorien oder Unterkategorien: — Fr. 90–250
 
@@ -257,8 +257,8 @@ beschliesst:
 - e) für ein Jahrespauschalabonnement für Auskünfte an Versicherungsgesellschaften und Unternehmen der Berufsbranche, je nach Arbeitsaufwand: — Fr. 50–4000
 - f) für den Verkauf einer Vignette für Motorfahrräder: — Fr. 5–10
 - g) für administrative und technische Arbeiten für die Aushändigung von Händlerschildern, je nach Arbeitsaufwand: — Fr. 50–250
-- h) für die Sendung eines Telefaxes, je nach Bestimmungsort, pro Seite: — Fr. 2–10
-- i) für die Rückzahlung eines Steuerkredites mittels eines Checks: — Fr. 5–20
+- h) …
+- i) …
 - j) für Arbeiten, die durch einen Informatik-Spezialisten durchgeführt wurden, inklusive Benutzungsgebühren für die Informatik-Geräte, pro Stunde und Person: — Fr. 100–250
 - k) für polizeiliche Recherchen mittels elektronischer Datenverarbeitung, pro Fall: — Fr. 200–800
 - l) für die vom Personal des Amtes ausgeführten Aufgaben und Arbeiten, deren Gebühr durch keine Bestimmung des vorliegenden Beschlusses geregelt wird: — Fr. 40–100
