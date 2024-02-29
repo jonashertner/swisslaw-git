@@ -4,13 +4,13 @@ number: "755"
 title: Strassengesetz
 short: StrG
 language: de
-version: 2020-01-01
-valid_until: 2024-02-29
-version_adopted: 2019-02-18
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-04
 adopted: 1995-03-21
 in_force: 1996-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/755"
-pdf: "https://srl.lu.ch/api/de/versions/3502/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4181/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3502/pdf_file"
 
 (StrG)
 
-vom 21.03.1995 (Stand 01.01.2020)
+vom 21.03.1995 (Stand 01.03.2024)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -799,6 +799,8 @@ beschliesst:
 **Projektauflage, Aussteckung, Markierung**
 
 <sup>1</sup> Das Kantonsstrassenprojekt ist durch die vom Regierungsrat in der Verordnung bezeichnete Instruktionsinstanz öffentlich bekannt zu machen und zusammen mit den Beilagen öffentlich aufzulegen. Ist das Projektbewilligungsverfahren (Leitverfahren gemäss § 192a des Planungs- und Baugesetzes) mit weiteren Verfahren zu koordinieren, sorgt die Instruktionsinstanz für eine gemeinsame öffentliche Auflage aller massgebenden Unterlagen.
+
+<sup>1<sup>bis</sup></sup> Vor der öffentlichen Auflage ist den von einem Landerwerb betroffenen Grundeigentümerschaften frühzeitig ein Entwurf des Landerwerbsvertrags zu unterbreiten. Der Regierungsrat kann in der Verordnung Ausnahmen vorsehen für den Erwerb von geringfügigen Flächen oder wenn die frühzeitige Aushändigung des Entwurfes aufgrund besonderer Umstände zu erheblichen Verzögerungen in der weiteren Projektplanung führen würde.
 
 <sup>2</sup> Das Projekt ist während 20 Tagen öffentlich aufzulegen. In der Bekanntmachung ist auf die Einsprachemöglichkeit während der Auflagefrist hinzuweisen.
 
