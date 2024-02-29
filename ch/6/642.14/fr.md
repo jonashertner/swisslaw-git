@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts dire
 short: LHID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: fr
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240301-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/fr"
 
 (LHID)
 
-du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2024)
+du 14 décembre 1990 (État le 1<sup>er</sup> mars 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -422,7 +422,7 @@ Le contribuable qui possède des immeubles privés peut déduire les frais néce
 [^9-13]: Introduite par le ch. I 2 de la LF sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^9-14]: Nouvelle teneur selon le ch. I 2 de la LF du 3 oct. 2008 sur le traitement fiscal des frais de remise en état des immeubles, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [FF 2007 7501](https://fedlex.data.admin.ch/eli/fga/2007/1291)[7517](https://fedlex.data.admin.ch/eli/fga/2007/1293)).
 [^9-15]: Nouvelle teneur selon l’annexe ch. II 4 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^9-16]: Nouvelle teneur selon l’annexe ch. II 4 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^9-16]: Introduit par l’annexe ch. II 4 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 10
 
@@ -643,12 +643,13 @@ L’impôt sur les gains immobiliers est fixé pour la période fiscale au cours
 
 **Assujettissement à raison du rattachement personnel**
 
-<sup>1</sup> Les sociétés de capitaux, les sociétés coopératives, les associations, les fondations et les autres personnes morales sont assujetties à l’impôt lorsqu’elles ont leur siège ou leur administration effective dans le canton. Les placements collectifs qui possèdent des immeubles en propriété directe au sens de l’art. 58 LPCC[^20-1] sont assimilés aux autres personnes morales. Les sociétés d’investissement à capital fixe au sens de l’art. 110 LPCC sont imposées comme des sociétés de capitaux.[^20-2]
+<sup>1</sup> Les sociétés de capitaux, les sociétés coopératives, les associations, les fondations et les autres personnes morales sont assujetties à l’impôt lorsqu’elles ont leur siège ou leur administration effective dans le canton. Les placements collectifs qui possèdent des immeubles en propriété directe au sens de l’art. 58 ou 118*a* LPCC[^20-1] sont assimilés aux autres personnes morales.[^20-2] Les sociétés d’investissement à capital fixe au sens de l’art. 110 LPCC sont imposées comme des sociétés de capitaux.[^20-3]
 
 <sup>2</sup> Les personnes morales, les sociétés commerciales et les communautés de personnes étrangères sont assimilées aux personnes morales suisses dont elles se rapprochent le plus par leur forme juridique ou leurs structures effectives.
 
 [^20-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^20-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^20-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^20-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 21
 
@@ -1314,6 +1315,10 @@ Est compétent pour la taxation ordinaire ultérieure:
 
 <sup>2</sup> Les cantons se prêtent gratuitement l’assistance administrative et l’entraide judiciaire pour le prélèvement de l’impôt à la source.
 
+## Titre 5 Procédure
+
+### Chapitre 1 Principes généraux et procédure de taxation
+
 #### Art. 38b
 
 **Procédures électroniques**[^38b-1]
@@ -1325,10 +1330,6 @@ Est compétent pour la taxation ordinaire ultérieure:
 <sup>3</sup> Ils prévoient que l’autorité fiscale remet des documents au contribuable sous forme électronique avec l’accord de ce dernier.
 
 [^38b-1]: Introduit par le ch. I 4 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-
-## Titre 5 Procédure
-
-### Chapitre 1 Principes généraux et procédure de taxation
 
 #### Art. 39
 
@@ -1593,9 +1594,11 @@ Celui qui, malgré sommation, aura manqué intentionnellement ou par négligence
 
 <sup>1</sup> Le contribuable qui, intentionnellement ou par négligence, aura fait en sorte qu’une taxation ne soit pas effectuée alors qu’elle aurait dû l’être ou qu’une taxation entrée en force soit incomplète,
 
-- [tab] celui qui, tenu de percevoir un impôt à la source ne l’aura pas retenu ou n’aura pas retenu un montant suffisant, intentionnellement ou par négligence,
-- [tab] celui qui, intentionnellement ou par négligence, aura obtenu une restitution illégale ou une remise injustifiée d’impôt,
-- [tab] sera puni d’une amende proportionnée à sa faute, allant du tiers au triple de l’impôt soustrait; en règle générale, l’amende sera égale au montant simple de l’impôt soustrait.[^56-1]
+celui qui, tenu de percevoir un impôt à la source ne l’aura pas retenu ou n’aura pas retenu un montant suffisant, intentionnellement ou par négligence,
+
+celui qui, intentionnellement ou par négligence, aura obtenu une restitution illégale ou une remise injustifiée d’impôt,
+
+sera puni d’une amende proportionnée à sa faute, allant du tiers au triple de l’impôt soustrait; en règle générale, l’amende sera égale au montant simple de l’impôt soustrait.[^56-1]
 
 <sup>1bis</sup>
 

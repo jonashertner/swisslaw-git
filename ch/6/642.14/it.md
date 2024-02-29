@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'armonizzazione delle imposte di
 short: LAID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: it
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240301-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/it"
 
 (LAID)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2024)
+del 14 dicembre 1990 (Stato 1° marzo 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -194,7 +194,7 @@ Sono esenti dall’imposta soltanto:
 - f. i sussidi d’assistenza provenienti da fondi pubblici o privati;
 - g. le prestazioni versate in adempimento di un obbligo fondato sul diritto di famiglia, ad eccezione degli alimenti percepiti dal coniuge divorziato o separato legalmente o di fatto, nonché degli alimenti che uno dei genitori percepisce per i figli sotto la sua autorità parentale;
 - h.[^7-12] il soldo del servizio militare e civile, nonché l’importo giornaliero per le piccole spese versato nel servizio civile;
-- [tab] h<sup>bis</sup>.[^7-13] il soldo dei pompieri di milizia sino a concorrenza di un ammontare determinato dal diritto cantonale per prestazioni in relazione all’adempimento dei compiti fondamentali dei pompieri (esercitazioni, servizi di picchetto, corsi, ispezioni e interventi effettivi per salvataggi, lotta contro gli incendi, lotta contro i sinistri in generale e contro i sinistri causati da elementi naturali e simili); sono eccettuati gli importi forfettari per i quadri, le indennità di funzione, le indennità per i lavori amministrativi e le indennità per prestazioni volontarie fornite dai pompieri;
+- h<sup>bis</sup>.[^7-13] il soldo dei pompieri di milizia sino a concorrenza di un ammontare determinato dal diritto cantonale per prestazioni in relazione all’adempimento dei compiti fondamentali dei pompieri (esercitazioni, servizi di picchetto, corsi, ispezioni e interventi effettivi per salvataggi, lotta contro gli incendi, lotta contro i sinistri in generale e contro i sinistri causati da elementi naturali e simili); sono eccettuati gli importi forfettari per i quadri, le indennità di funzione, le indennità per i lavori amministrativi e le indennità per prestazioni volontarie fornite dai pompieri;
 - i. i versamenti a titolo di riparazione morale;
 - k. i proventi ricevuti in virtù della legislazione federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità.
 - l.[^7-14] le vincite ai giochi da casinò ammessi secondo la legge federale del 29 settembre 2017[^7-15] sui giochi in denaro (LGD) realizzate nelle case da gioco, purché tali vincite non provengano da un’attività lucrativa indipendente;
@@ -346,7 +346,7 @@ Le riserve occulte di un’impresa di persone (impresa individuale, società di 
 [^8-6]: Nuovo testo giusta l’all. n. 8 della LF del 16 dic. 2005 (diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^8-7]: Nuovo testo giusta l’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^8-8]: Introdotto dall’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^8-9]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^8-9]: Nuovo testo giusta il n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 #### Art. 8a
 
@@ -376,7 +376,7 @@ Sono deduzioni generali:
 - f. i premi e i contributi versati per le indennità per la perdita di guadagno, per l’assicurazione contro la disoccupazione e per l’assicurazione obbligatoria contro gli infortuni;
 - g. i versamenti, premi e contributi per assicurazioni sulla vita, contro le malattie e, in quanto non compresa sotto la lettera f, contro gli infortuni, nonché gli interessi dei capitali a risparmio del contribuente e delle persone al cui sostentamento egli provvede, sino a concorrenza di un ammontare determinato dal diritto cantonale; questo importo può essere forfettario;
 - h.[^9-5] le spese per malattia e infortunio del contribuente o delle persone al cui sostentamento egli provvede, quando tali spese sono sopportate dal contribuente medesimo e superano una franchigia determinata dal diritto cantonale;
-- [tab] h<sup>bis</sup> [^9-6] le spese per disabilità del contribuente o delle persone disabili ai sensi della legge del 13 dicembre 2002[^9-7] sui disabili al cui sostentamento egli provvede, quando tali spese sono sopportate dal contribuente medesimo;
+- h<sup>bis</sup> [^9-6] le spese per disabilità del contribuente o delle persone disabili ai sensi della legge del 13 dicembre 2002[^9-7] sui disabili al cui sostentamento egli provvede, quando tali spese sono sopportate dal contribuente medesimo;
 - i.[^9-8] le prestazioni volontarie in contanti e in altri beni, entro i limiti determinati dal diritto cantonale, a persone giuridiche con sede in Svizzera che sono esentate dall’imposta in virtù del loro scopo pubblico o di utilità pubblica (art. 23 cpv. 1 lett. f) nonché alla Confederazione, ai Cantoni, ai Comuni e ai loro stabilimenti (art. 23 cpv. 1 lett. a–c);
 - k. una deduzione dal reddito lavorativo che uno dei coniugi consegue indipendentemente dalla professione, dal commercio o dall’impresa dell’altro, sino a concorrenza di un ammontare determinato dal diritto cantonale; la stessa deduzione è concessa quando uno dei due coniugi collabora in modo determinante alla professione, al commercio o all’impresa dell’altro;
 - l.[^9-9]
@@ -643,12 +643,13 @@ L’imposta sugli utili da sostanza immobiliare è fissata per il periodo fiscal
 
 **Assoggettamento in virtù dell’appartenenza personale**
 
-<sup>1</sup> Le società di capitali, le società cooperative, le associazioni, le fondazioni e le altre persone giuridiche sono assoggettate all’imposta se hanno la loro sede o la loro amministrazione effettiva nel Cantone. Sono assimilati alle altre persone giuridiche gli investimenti collettivi di capitale con possesso fondiario diretto ai sensi dell’articolo 58 LICol[^20-1]. Le società di investimento a capitale fisso ai sensi dell’articolo 110 LICol sono tassate come le società di capitali.[^20-2]
+<sup>1</sup> Le società di capitali, le società cooperative, le associazioni, le fondazioni e le altre persone giuridiche sono assoggettate all’imposta se hanno la loro sede o la loro amministrazione effettiva nel Cantone. Sono assimilati alle altre persone giuridiche gli investimenti collettivi di capitale con possesso fondiario diretto ai sensi dell’articolo 58 o 118*a* LICol[^20-1].[^20-2] Le società di investimento a capitale fisso ai sensi dell’articolo 110 LICol sono tassate come le società di capitali.[^20-3]
 
 <sup>2</sup> Le persone giuridiche, le società commerciali estere e altre comunità estere di persone senza personalità giuridica sono assimilate alle persone giuridiche svizzere con le quali esse, per la loro natura giuridica o la loro forma effettiva, hanno maggior affinità.
 
 [^20-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^20-2]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^20-2]: Nuovo testo del secondo per. giusta l’all. n. 3 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^20-3]: Nuovo testo giusta l’all. n. II 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 21
 
@@ -1316,6 +1317,10 @@ Per la tassazione ordinaria ulteriore è competente:
 
 <sup>2</sup> I Cantoni si prestano gratuitamente assistenza amministrativa e giudiziaria per la riscossione dell’imposta alla fonte.
 
+## Titolo quinto: Procedura
+
+### Capitolo 1: Principi generali e procedura di tassazione
+
 #### Art. 38b
 
 **Procedure elettroniche**[^38b-1]
@@ -1327,10 +1332,6 @@ Per la tassazione ordinaria ulteriore è competente:
 <sup>3</sup> I Cantoni prevedono che l’autorità fiscale notifichi al contribuente, previo suo assenso, documenti in formato elettronico.
 
 [^38b-1]: Introdotto dal n. I 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-
-## Titolo quinto: Procedura
-
-### Capitolo 1: Principi generali e procedura di tassazione
 
 #### Art. 39
 

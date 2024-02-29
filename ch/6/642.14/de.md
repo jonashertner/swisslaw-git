@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. Dezember 1990 über die Harmonisierung der direkten
 short: StHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: de
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20240301-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20240101/de"
 
 (Steuerharmonisierungsgesetz, StHG)[^t-1]
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2024)
+vom 14. Dezember 1990 (Stand am 1. März 2024)
 
 [^t-1]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -28,7 +28,7 @@ gestützt auf die Artikel 127 Absatz 3 und 129 Absätze 1 und 2 der Bundesverfas
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Verein‑ fachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^ingress-2]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 [^ingress-3]: [BBl 1983 III 1](https://fedlex.data.admin.ch/eli/fga/1983/3_1_1_1)
 
 ## Erster Titel: Allgemeine Bestimmungen
@@ -378,7 +378,7 @@ Allgemeine Abzüge sind:
 - f. die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und für die obligatorische Unfallversicherung;
 - g. die Einlagen, Prämien und Beiträge für die Lebens‑, die Kranken- und die nicht unter Buchstabe f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zu einem nach kantonalem Recht bestimmten Betrag, der pauschaliert werden kann;
 - h.[^9-5] die Krankheits- und Unfallkosten des Steuerpflichtigen und der von ihm unterhaltenen Personen, soweit der Steuerpflichtige die Kosten selber trägt und diese einen vom kantonalen Recht bestimmten Selbstbehalt übersteigen;
-- [tab] h<sup>bis</sup>.[^9-6] die behinderungsbedingten Kosten des Steuerpflichtigen oder der von ihm unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002[^9-7], soweit der Steuerpflichtige die Kosten selber trägt;
+- h<sup>bis</sup>.[^9-6] die behinderungsbedingten Kosten des Steuerpflichtigen oder der von ihm unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002[^9-7], soweit der Steuerpflichtige die Kosten selber trägt;
 - i.[^9-8] die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu dem nach kantonalem Recht bestimmten Ausmass an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 23 Abs. 1 Bst. f), sowie an Bund, Kantone, Gemeinden und deren Anstalten (Art. 23 Abs. 1 Bst. a–c);
 - k. ein Abzug vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, bis zu einem nach kantonalem Recht bestimmten Betrag; ein gleichartiger Abzug ist zulässig bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten;
 - l.[^9-9]
@@ -645,12 +645,13 @@ Die Grundstückgewinnsteuer wird für die Steuerperiode festgesetzt, in der die 
 
 **Steuerpflicht aufgrund persönlicher Zugehörigkeit**
 
-<sup>1</sup> Kapitalgesellschaften, Genossenschaften, Vereine, Stiftungen und die übrigen juristischen Personen sind steuerpflichtig, wenn sich ihr Sitz oder ihre tatsächliche Verwaltung im Kanton befindet. Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 KAG[^20-1]. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden wie Kapitalgesellschaften besteuert.[^20-2]
+<sup>1</sup> Kapitalgesellschaften, Genossenschaften, Vereine, Stiftungen und die übrigen juristischen Personen sind steuerpflichtig, wenn sich ihr Sitz oder ihre tatsächliche Verwaltung im Kanton befindet. Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 oder 118*a* KAG[^20-1].[^20-2] Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden wie Kapitalgesellschaften besteuert.[^20-3]
 
 <sup>2</sup> Juristische Personen, ausländische Handelsgesellschaften und andere ausländische Personengesamtheiten ohne juristische Persönlichkeit werden den inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
 [^20-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^20-2]: Fassung gemäss Anhang Ziff. II 7 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^20-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^20-3]: Fassung gemäss Anhang Ziff. II 7 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 21
 
