@@ -4,28 +4,27 @@ number: "415.100"
 title: Gesetz betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche
 short: "Kinder- und Jugendgesetz, KJG"
 language: de
-version: 2015-01-01
-valid_until: 2024-02-29
-version_adopted: 2014-12-10
+version: 2024-03-01
+version_adopted: 2023-12-13
 adopted: 2014-12-10
 in_force: 2015-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/415.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3254/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6645/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche
 
-Kinder- und Jugendgesetz | Jugendhilfe / Schulfürsorge
+Jugendhilfe / Schulfürsorge
 
 (Kinder- und Jugendgesetz, KJG)
 
-Vom 10. Dezember 2014 (Stand 1. Januar 2015)
+Vom 10. Dezember 2014 (Stand 1. März 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
-gestützt auf das Übereinkommen über die Rechte des Kindes vom 20. November 1989[^ingress-1] sowie auf § 11 Abs. 1 lit. f und § 17 der Verfassung des Kantons Basel-Stadt vom 23. März 2005[^ingress-2], nach Einsichtnahme in den Ratschlag des Regierungsrates [Nr. 14.0743.01](http://www.grosserrat.bs.ch/gnr?=14.0743) vom 24. Juni 2014 sowie in den Bericht der Bildungs- und Kulturkommission [Nr. 14.0743.02](http://www.grosserrat.bs.ch/gnr?=14.0743) vom 20. Oktober 2014,
+gestützt auf das Übereinkommen über die Rechte des Kindes vom 20. November 1989[^ingress-1] sowie auf § 11 Abs. 1 lit. f und § 17 der Verfassung des Kantons Basel-Stadt vom 23. März 2005[^ingress-2], nach Einsichtnahme in den Ratschlag des Regierungsrates [Nr. 14.0743.01](https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200106658) vom 24. Juni 2014 sowie in den Bericht der Bildungs- und Kulturkommission [Nr. 14.0743.02](https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200106658) vom 20. Oktober 2014,
 
 beschliesst:
 
@@ -123,6 +122,20 @@ beschliesst:
 
 <sup>2</sup> Die Leistungen können beschränkt werden. Das zuständige Departement beziehungsweise die zuständige Stelle der Gemeinden bestimmen die Einzelheiten der Leistungen, insbesondere den Umfang und den Zugang.
 
+#### § 9a
+
+**Frühe Deutschförderung**
+
+<sup>1</sup> Kanton und Gemeinden sorgen für ein ausreichendes Angebot von früher Deutschförderung fremdsprachiger Kinder im Vorschulbereich. Sie fördern hierzu insbesondere die Deutschförderung in Spielgruppen und Kindertagesstätten.
+
+<sup>2</sup> Kinder mit Förderbedarf in Deutsch sind verpflichtet, vor der Einschulung während eines Schuljahres an drei Halbtagen pro Woche ein geeignetes Förderangebot zu besuchen. Der Besuch einer Spielgruppe mit Deutschförderung ist in diesem Umfang unentgeltlich.
+
+<sup>3</sup> Das zuständige Departement oder die zuständige Stelle der Gemeinden sorgt unter Mitwirkung der Erziehungsberechtigten für die Abklärung des Förderbedarfs.
+
+<sup>4</sup> Die Erziehungsberechtigten sorgen bei festgestelltem Förderbedarf dafür, dass ihr Kind das Förderangebot regelmässig besucht. Der Besuch eines Angebots kann vom zuständigen Departement oder von der zuständigen Stelle der Gemeinden angeordnet werden.
+
+<sup>5</sup> Bei wiederholter Verletzung ihrer Pflichten können die Erziehungsberechtigten vom zuständigen Departement oder von der zuständigen Stelle der Gemeinden mit einer Busse bis Fr. 1'000 belegt werden.
+
 #### § 10
 
 **Ergänzende Hilfen zur Erziehung, Abklärungen und Gutachten**
@@ -192,9 +205,12 @@ beschliesst:
 
 #### § 17
 
-**Kinder- und Jugendkommission**
+**Kinder- und Jugendkommission[^17-1]**
 
-<sup>1</sup> Der Regierungsrat wählt eine Fachkommission zum Zweck der Beratung und der Förderung der Zusammenarbeit. Die Kinder- und Jugendkommission setzt sich zusammen aus Vertreterinnen und Vertretern der Gemeinden, der Leistungserbringer sowie der zuständigen kantonalen Fachstellen.
+<sup>1</sup> Der Regierungsrat wählt eine Fachkommission zum Zweck der Beratung und der Förderung der Zusammenarbeit. Die Kinder- und Jugendkommission[^17-2] setzt sich zusammen aus Vertreterinnen und Vertretern der Gemeinden, der Leistungserbringer sowie der zuständigen kantonalen Fachstellen.
+
+[^17-1]: Umbenennung von «Kinder- und Jugendkommission» in «Kinder-, Jugend- und Familienkommission» per 1. Juli 2025.
+[^17-2]: Umbenennung von «Kinder- und Jugendkommission» in «Kinder-, Jugend- und Familienkommission» per 1. Juli 2025.
 
 #### § 18
 
