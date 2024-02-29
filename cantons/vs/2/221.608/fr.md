@@ -1,0 +1,359 @@
+---
+canton: VS
+number: "221.608"
+title: "Arrêté édictant un contrat-type de travail pour l'agriculture"
+language: fr
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2024-04-24
+adopted: 2024-04-24
+in_force: 2024-03-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/221.608"
+pdf: "https://lex.vs.ch/api/fr/versions/3310/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
+
+# Arrêté édictant un contrat-type de travail pour l'agriculture
+
+du 24.04.2024 (état 01.03.2024)
+
+Le Conseil d'Etat du canton du Valais
+
+vu les articles 359 à 360 du Code des obligations du 30 mars 1911 (CO);
+
+vu l'article 31 de la loi cantonale sur le travail du 12 mai 2016 (LcTr);
+
+vu les partenaires sociaux entendus;
+
+vu la publication du projet d'arrêté édictant un contrat-type de travail pour l'agriculture dans le Bulletin officiel du Canton du Valais numéro RE-VS15-0000000592 du 2 avril 2024;
+
+sur proposition du département en charge des affaires sociales,
+
+arrête:
+
+## 1 Champ d'application et effets
+
+#### Art. 1
+
+**Champ d'application**
+
+<sup>1</sup> Le présent contrat-type de travail régit les rapports de travail entre les employeurs et les travailleurs des exploitations agricoles du canton du Valais.
+
+<sup>2</sup> Sont réputées exploitations agricoles les entreprises, quelle que soit leur nature juridique, où l’on pratique, à titre principal ou accessoire, l'exploitation de champs et de prés, l'arboriculture fruitière, la viticulture, la culture maraîchère, la culture des baies, la garde d'animaux d'élevage et de rente, l'aviculture et l'apiculture.
+
+<sup>3</sup> Sont réputées travailleurs toutes les personnes qui exécutent en permanence ou temporairement contre une rémunération des travaux agricoles dans une exploitation agricole au sens de l'alinéa 2.
+
+<sup>4</sup> Sont exclus du champ d'application du présent contrat-type de travail:
+
+- a) les fromagers;
+- b) les employés de cave;
+- c) les employés d'alpage;
+- d) les apprentis liés par un contrat conforme à la loi fédérale sur la formation professionnelle;
+- e) les travailleurs tenus d’accomplir des stages dans le cadre de leur cursus de formation;
+- f) les travailleurs accomplissant un stage limité à 2 semaines au maximum à l'occasion de la découverte d'une profession;
+- g) les travailleurs qui bénéficient d’une mesure financée par l’assurance-chômage (LACI) ou par le canton du Valais et destinée à faciliter une réinsertion professionnelle sur le marché du travail, (p. ex. stage GETAC), à l’exception de ceux qui bénéficient d’allocations d’initiation au travail (AIT).
+
+#### Art. 2
+
+**Effets**
+
+<sup>1</sup> Le présent contrat-type de travail est réputé exprimer la volonté des parties contractantes, à moins qu'elles n'y dérogent par un accord écrit dans les limites fixées par les dispositions des articles 361 et 362 du Code des obligations (CO).
+
+## 2 Dispositions générales
+
+#### Art. 3
+
+**Obligations générales du travailleur**
+
+<sup>1</sup> Le travailleur exécute avec soin le travail qui lui est confié et sauvegarde fidèlement les intérêts légitimes de l'employeur (art. 321a al. 1 CO).
+
+<sup>2</sup> Il est tenu d'utiliser selon les règles en la matière les machines, les instruments de travail, les appareils et les installations techniques ainsi que les véhicules de l'employeur, et de les traiter avec soin, de même que le matériel mis à sa disposition pour l'exécution de son travail (art. 321a al. 2 CO).
+
+<sup>3</sup> Le travailleur observe selon les règles de la bonne foi les directives générales de l'employeur et les instructions particulières qui lui ont été données (art. 321d al. 2 CO).
+
+<sup>4</sup> Le travailleur répond du dommage qu'il cause à l'employeur intentionnellement ou par négligence. La mesure de diligence incombant au travailleur se détermine par le contrat, compte tenu du risque professionnel, de l'instruction ou des connaissances techniques nécessaires pour accomplir le travail promis, ainsi que des aptitudes et qualités du travailleur que l'employeur connaissait ou aurait dû connaître (art. 321e CO).
+
+<sup>5</sup> La réparation du dommage causé doit être exigée dans les plus brefs délais dès la constatation des dégâts.
+
+#### Art. 4
+
+**Obligations générales de l'employeur**
+
+<sup>1</sup> L'employeur protège et respecte, dans les rapports de travail, la personnalité du travailleur; il manifeste les égards voulus pour sa santé et veille au maintien de la moralité. En particulier, il veille à ce que les travailleurs ne soient pas harcelés sexuellement et qu’ils ne soient pas, le cas échéant, désavantagés en raison de tels actes. (art. 328 al. 1 CO).
+
+<sup>2</sup> Il prend pour protéger la vie et la santé du travailleur, les mesures commandées par l'expérience, applicables en l'état de la technique, et adaptées aux conditions de l'exploitation ou du ménage, dans la mesure où les rapports de travail et la nature du travail permettent équitablement de l'exiger de lui (art. 328 al. 2 CO).
+
+#### Art. 5
+
+**Prévention des accidents**
+
+<sup>1</sup> Les entreprises prendront les mesures utiles pour assurer la sécurité des travailleurs conformément à la loi sur l'assurance-accident (LAA) et son ordonnance sur la prévention des accidents (OPA), ainsi qu'aux directives de la Commission fédérale de coordination pour la sécurité au travail (CFST).
+
+<sup>2</sup> Toutes les mesures de prévention prescrites seront appliquées. Les travailleurs sont tenus de signaler à leurs responsables des défectuosités du matériel et des installations qu'ils pourraient constater.
+
+## 3 Début et fin du contrat de travail
+
+#### Art. 6
+
+**Temps d'essai**
+
+<sup>1</sup> Le premier mois des rapports de travail est considéré comme temps d'essai.
+
+<sup>2</sup> Lors d’une réduction effective du temps d’essai par suite de maladie, accident ou l’exercice d’une obligation légale incombant au travailleur sans qu’il ait demandé de l’assumer, le temps d’essai est prolongé d’autant.
+
+#### Art. 7
+
+**Délais de résiliation**
+
+<sup>1</sup> Chaque partie peut résilier le contrat de travail:
+
+- a) durant le temps d'essai, à tout moment moyennant un délai de 7 jours;
+- b) après l'expiration du temps d'essai et jusqu'à la fin de la 1<sup>re</sup> année de service, un mois à l'avance pour la fin d'un mois;
+- c) dès la 2<sup>e</sup> année de service, 2 mois à l'avance pour la fin d'un mois;
+- d) dès la 10<sup>e</sup> e année de service, 3 mois à l'avance pour la fin d'un mois.
+
+<sup>2</sup> Les délais de résiliation prévus ci-dessus s’appliquent également pour les contrats de durée déterminée avec durée maximale.
+
+<sup>3</sup> Après dénonciation du contrat, l'employeur accorde au travailleur le temps nécessaire pour se chercher un autre emploi et, le cas échéant, un autre logement.
+
+<sup>4</sup> Demeure réservée la résiliation immédiate pour justes motifs au sens des articles 337 à 337d CO.
+
+<sup>5</sup> Si les rapports de travail sont convenus avec un logement, le droit de l’utiliser prend fin en même temps que les rapports de travail. Le droit du travail prime sur le droit du bail à loyer. Lorsque les rapports de travail ont été conclus pour une durée indéterminée, les délais de congé prévus aux articles 266a et suivants CO doivent être respectés.
+
+#### Art. 8
+
+**Résiliation en temps inopportun**
+
+<sup>1</sup> Au cours d'une période de service militaire ou de protection civile, d'incapacité de travail par suite de maladie, d'accident, de grossesse ou d'accouchement, l'employeur ne peut résilier le contrat de travail que dans la mesure permise par l'article 336c CO.
+
+<sup>2</sup> Si le travailleur tombe malade pendant le délai de congé, ce délai est suspendu au sens de l'article 336c alinéa 2 CO durant 30 jours au maximum au cours de la 1<sup>re</sup> année de service, durant 90 jours de la 2<sup>e</sup> à la 5<sup>e</sup> année de service et durant 180 jours à partir de la 6<sup>e</sup> année de service. Lorsque le terme auquel les rapports de travail doivent cesser ne coïncide pas avec la fin du délai de congé qui a recommencé à courir, ce délai est prolongé jusqu'à la fin du mois (art. 336c al. 3 CO).
+
+<sup>3</sup> Pour autant que le présent CTT n'en dispose pas autrement, les prescriptions légales sur la protection contre le licenciement sont applicables, notamment:
+
+- a) articles 336 et suivants CO concernant la résiliation abusive;
+- b) article 336d CO concernant la résiliation en temps inopportun par le travailleur;
+- c) articles 337c et 337d CO concernant les conséquences d'une résiliation injustifiée, d'une non-entrée en service ou d'un abandon injustifié de l'emploi.
+
+## 4 Durée du travail et du repos
+
+#### Art. 9
+
+**Durée du travail**
+
+<sup>1</sup> La durée hebdomadaire du travail est de 48 heures en moyenne annuelle. Elle est de 53 heures et 45 minutes pour les travailleurs principalement préposés à la garde du bétail et de 55 heures pour ceux dont le contrat de travail ne dépasse pas 4 mois par année.
+
+<sup>2</sup> L’horaire effectué lors du travail à l’alpage n’est pas pris en compte pour la moyenne annuelle.
+
+<sup>3</sup> La durée journalière de travail est de 10 heures du 1<sup>er</sup> mai au 30 septembre et de 9 heures le reste de l’année, y compris les pauses usuelles du matin et de l’après-midi limitées à 15 minutes chacune.
+
+<sup>4</sup> Un repos d’une heure, non compris dans le temps de travail, est accordé pour le repas de midi.
+
+<sup>5</sup> Le repos quotidien est de 10 heures au moins pour les jeunes de moins de 18 ans et de 9 heures au moins pour les autres travailleurs.
+
+<sup>6</sup> N’est pas compris dans le temps de travail le trajet entre le domicile et le siège de l'entreprise ou le centre de l’exploitation. Par contre, le trajet entre ce dernier et le lieu de travail est compris dans le temps de travail.
+
+<sup>7</sup> L’employeur tient un registre écrit des heures effectuées (y compris les heures supplémentaires) et le fait signer chaque mois par le travailleur. A défaut, la tenue des heures établie par le travailleur servira de moyen de preuves en cas de litige.
+
+#### Art. 10
+
+**Heures supplémentaires**
+
+<sup>1</sup> A la demande de l'employeur, le travailleur doit exécuter des heures supplémentaires, dans la mesure où il peut s'en charger et où les règles de la bonne foi le permettent.
+
+<sup>2</sup> L'employeur peut, avec l'accord du travailleur, compenser les heures supplémentaires dans la mesure où elles dépassent la moyenne annuelle par un congé d'une durée au moins égale. Les heures supplémentaires non compensées d’ici au 31 mars de l’année suivante donnent droit au salaire majoré de 25 pour cent.
+
+<sup>3</sup> Pour les travailleurs dont le contrat de travail ne dépasse pas 4 mois durant l'année, le supplément de 25 pour cent n'est dû que dès la 56<sup>e</sup> heure hebdomadaire sans égard à la moyenne annuelle.
+
+#### Art. 11
+
+**Femmes enceintes**
+
+<sup>1</sup> Les femmes enceintes peuvent en tout temps se dispenser de travailler sur simple avis de leur part.
+
+<sup>2</sup> Elles ne peuvent reprendre leur travail que 8 semaines après l'accouchement. Au-delà des 8 semaines qui suivent l'accouchement, les mères qui allaitent leur enfant ne peuvent être occupées que si elles y consentent. L'employeur leur donnera le temps nécessaire pour l'allaitement.
+
+#### Art. 12
+
+**Repos hebdomadaire**
+
+<sup>1</sup> L'employeur accorde au travailleur un jour et demi de congé par semaine, à l'exception des travailleurs occupés exclusivement aux travaux de récolte.
+
+<sup>2</sup> Les travailleurs qui ne sont pas habituellement occupés au soin ou à la garde du bétail sont en principe libres tous les dimanches et jours fériés.
+
+<sup>3</sup> Chaque fois qu'une demi-journée de congé est accordée à un travailleur, la durée de travail ne doit pas excéder 5 heures durant cette journée.
+
+<sup>4</sup> Les travailleurs préposés à la garde du bétail occupés les dimanches et jours fériés doivent disposer pendant ces jours d'au moins 7 heures consécutives de temps libre entre 9 heures et 16 heures. Pour cette catégorie de travailleurs, ce temps libre équivaut à une demi-journée de congé. La durée du travail ne doit pas dépasser 6 heures le jour où est accordée cette demi-journée.
+
+<sup>5</sup> Pour les travailleurs préposés à la garde du bétail, un congé de 24 heures consécutives doit coïncider avec un dimanche ou jour férié une fois par mois.
+
+## 5 Nourriture et logement
+
+#### Art. 13
+
+<sup>1</sup> La fourniture de la nourriture et/ou du logement fait l'objet d'un accord librement conclu entre l'employeur et le travailleur au début des rapports de travail.
+
+<sup>2</sup> Tout employeur qui loge ses travailleurs, avec ou sans pension, est tenu de leur procurer des locaux convenables et salubres, ainsi que, le cas échéant, une nourriture en quantité et qualité adéquates.
+
+## 6 Vacances et congés spéciaux
+
+#### Art. 14
+
+**Vacances**
+
+<sup>1</sup> Le droit aux vacances est de 4 semaines par année.
+
+<sup>2</sup> Les jeunes travailleurs jusqu'à l'âge de 20 ans révolus ainsi que les travailleurs de plus de 50 ans révolus ont droit à 5 semaines de vacances par année.
+
+<sup>3</sup> L’indemnité afférente aux vacances est de 8,33 pour cent du salaire brut lorsque le droit aux vacances est de 4 semaines et de 10,64 pour cent lorsqu’il est de 5 semaines.
+
+<sup>4</sup> Les jours de congé que l'employeur est tenu de payer en vertu de l'article 16 du présent contrat-type ne comptent pas comme vacances.
+
+<sup>5</sup> Pour une durée d'activité inférieure à une année, les vacances sont accordées proportionnellement à la durée de l'engagement.
+
+<sup>6</sup> Le salaire pendant les vacances doit correspondre au salaire complet en période de travail. Il comprend le salaire en espèce et une indemnité d'entretien, conforme aux normes AVS, dans la mesure où celle-ci est fournie par l'employeur.
+
+<sup>7</sup> Lorsque au cours d'une année de service, le travailleur est, par sa propre faute, empêché de travailler pendant plus d'un mois au total, l'employeur peut réduire la durée de ses vacances d'un douzième par mois complet d'absence (art. 329b al. 1 CO).
+
+<sup>8</sup> Si la durée de l'empêchement n'est pas supérieure à un mois au cours d'une année de service, et si elle est provoquée, sans qu'il y ait faute de sa part, par des causes inhérentes à la personne du travailleur, telles que maladie, accident, accomplissement d'une obligation légale ou d'une fonction publique, l'employeur n'a pas le droit de réduire la durée des vacances (art. 329b al. 2 CO). En revanche, dès le 2<sup>e</sup> mois complet d’incapacité de travail, le droit aux vacances peut être réduit d’un douzième par mois complet d’absence.
+
+<sup>9</sup> L'employeur fixe la date des vacances en tenant compte des désirs du travailleur dans la mesure compatible avec les intérêts de l'exploitation ou du ménage (art. 329c al. 2 CO).
+
+#### Art. 15
+
+**Jours fériés**
+
+<sup>1</sup> Les jours fériés légaux suivants sont payés (sauf s'ils coïncident avec un dimanche) selon la moyenne horaire mensuelle: Nouvel-An (1<sup>er</sup> janvier), Saint-Joseph (19 mars), Ascension, Fête-Dieu, Fête nationale (1<sup>er</sup> août), Assomption (15 août), Toussaint (1<sup>er</sup> novembre), Immaculée Conception (8 décembre) et Noël (25 décembre).
+
+#### Art. 16
+
+**Congés**
+
+<sup>1</sup> Le travailleur a droit aux congés payés ci-après:
+
+- a) mariage du travailleur — 3 jours
+- b) mariage d'un enfant — 1 jour
+- c) décès du conjoint, d'un enfant — 3 jours
+- d) décès du père, de la mère, d'un frère, d'une soeur, d'un beau-parent — 2 jours
+- e) décès d'un grand-parent, d'un beau-frère, d'une belle-soeur — 1 jour
+- f) déménagement (1x par an) — 1 jour
+- g) recrutement, libération militaire, inspection — 1 jour
+
+<sup>2</sup> La perte de salaire résultant d'absences justifiées est compensée à 100 pour cent.
+
+<sup>3</sup> En cas de maternité, la travailleuse a droit, après l’accouchement, à un congé d’au moins 14 semaines conformément à l’article 329f CO. L’autre parent légal a droit à un congé de 2 semaines conformément à l’article 329g CO.
+
+## 7 Salaire
+
+#### Art. 17
+
+**Salaire**
+
+<sup>1</sup> Le salaire doit correspondre à la formation, à l'expérience professionnelle et aux aptitudes du travailleur.
+
+<sup>2</sup> Le salaire est payé mensuellement au plus tard le 5<sup>e</sup> jour du mois suivant. A sa demande, un décompte écrit est remis au travailleur. Ce décompte contient le nombre d’heures de travail effectuées et précise également les montants qui correspondent aux vacances. Ce droit aux vacances est calculé prorata temporis.
+
+<sup>3</sup> Le salaire en nature est calculé selon les normes de la législation sur l'assurance-vieillesse et survivants (AVS).
+
+<sup>4</sup> Les salaires horaires minimums bruts, sans suppléments, sont fixés comme suit:
+
+- a) responsable d'exploitation avec formation supérieure ou formation jugée équivalente et occupant régulièrement des collaboratrices ou des collaborateurs (personne responsable de l'engagement du personnel et des décomptes des salaires) selon entente mais au minimum — Fr. 27,95
+- b) chef d'équipe avec CFC ou justifiant d'au moins 4 ans d'expérience dans l'agriculture et ayant sous ses ordres au moins 3 collaboratrices ou collaborateurs
+  - 1\. dès la 1<sup>re</sup> année — Fr. 23,90
+  - 2\. dès la 2<sup>e</sup> année — Fr. 25,60
+  - 3\. dès la 3<sup>e</sup> année — Fr. 26,75
+- c) travailleur qualifié avec CFC ou diplôme d'école d'agriculture et travailleur justifiant de qualifications équivalentes dans l'agriculture
+  - 1\. dès la 1<sup>re</sup> année — Fr. 19,95
+  - 2\. dès la 2<sup>e</sup> année — Fr. 21,10
+  - 3\. dès la 3<sup>e</sup> année — Fr. 23,25
+- d) travailleur qualifié avec attestation fédérale de formation professionnelle
+  - 1\. dès la 1<sup>re</sup> année — Fr. 16,95
+  - 2\. dès la 2<sup>e</sup> année — Fr. 17,45
+  - 3\. dès la 3<sup>e</sup> année — Fr. 17,95
+- e) travailleur non qualifié
+  - 1\. jusqu'à la fin du 4<sup>e</sup> mois d’activité dans la même exploitation agricole — Fr. 14,70
+  - 2\. dès le 5<sup>e</sup> mois d’activité dans la même exploitation agricole — Fr. 14,70
+  - 3\. après 18 mois d’activité dans la même exploitation agricole — Fr. 16,55
+
+<sup>5</sup> Le salaire mensuel se calcule en multipliant le nombre d'heures prévues dans le présent contrat-type par les salaires horaires minimums tel que stipulés à l'alinéa 4. Sont réservées les heures supplémentaires éventuelles.
+
+## 8 Assurances
+
+#### Art. 18
+
+**Assurance maladie**
+
+<sup>1</sup> Le travailleur doit être assuré par son employeur auprès d'une caisse maladie sauf les cas où l'employé apporte la preuve par un certificat d'affiliation qu'il est déjà assuré aux conditions prescrites ci-après:
+
+- a) les soins médicaux et pharmaceutiques;
+- b) les frais d'hospitalisation en chambre commune dans un établissement hospitalier public ainsi que les autres prestations usuelles minimums prévues par la législation fédérale sur l'assurance-maladie.
+
+<sup>2</sup> Si l’employeur est au bénéfice d'une assurance maladie collective pour frais médicaux et pharmaceutiques, la prime correspondante équivalente pour les prestations prévues à l’alinéa 1 sera déduite du salaire de l’employé.
+
+#### Art. 19
+
+**Assurance perte de gain maladie - contrat de travail supérieur à 4 mois**
+
+<sup>1</sup> L’employeur est tenu d’assurer, dans une assurance de son choix garantissant le libre passage en assurance individuelle, les travailleurs pour une indemnité journalière selon la loi fédérale sur l'assurance-maladie (LAMal) égale au moins à 80 pour cent du salaire durant au moins 720 jours dans une période de 900 jours consécutifs.
+
+<sup>2</sup> Durant le délai d'attente, l'employeur garantit le paiement du salaire à raison de 80 pour cent du salaire brut AVS.
+
+<sup>3</sup> La prime d'assurance est à la charge de l'employeur et du travailleur pour moitié chacun.
+
+#### Art. 20
+
+**Assurance perte de gain en cas de maladie - contrat de travail inférieur ou égal à 4 mois**
+
+<sup>1</sup> L’employeur est tenu d'assurer, dans une assurance de son choix, le travailleur pour une indemnité journalière selon la LAMal égale au moins à 80 pour cent du salaire. La durée des prestations est limitée à la durée du contrat.
+
+<sup>2</sup> L’employeur paie le 80 pour cent du salaire durant le délai d’attente.
+
+<sup>3</sup> La prime relative à l'indemnité journalière est à la charge de l'employeur et de l'employé pour moitié chacun.
+
+#### Art. 21
+
+**Assurance-accidents**
+
+<sup>1</sup> Les travailleurs sont assurés conformément à la loi fédérale sur l'assurance-accidents (LAA). Les travailleurs à temps partiel occupés moins de 8 heures par semaine ne sont pas assurés contre les accidents non professionnels.
+
+<sup>2</sup> Les primes relatives à l'assurance obligatoire contre les accidents et les maladies professionnels sont à la charge de l'employeur, celles relatives à l'assurance obligatoire contre les accidents non professionnels à la charge du travailleur (art. 91 LAA).
+
+<sup>3</sup> Les jours d'attente sont à la charge de l'employeur à raison de 80 pour cent du salaire.
+
+<sup>4</sup> Tout accident doit être annoncé immédiatement au chef de l'entreprise, ou à son représentant s'il est sur place, sinon au bureau de l'entreprise.
+
+#### Art. 22
+
+**Prévoyance professionnelle**
+
+<sup>1</sup> La loi fédérale sur la prévoyance professionnelle, vieillesse, survivants et invalidité (LPP) est applicable.
+
+## 9 Divers
+
+#### Art. 23
+
+**Certificat de travail**
+
+<sup>1</sup> Le travailleur peut demander en tout temps à l'employeur un certificat portant sur la nature et la durée des rapports de travail, ainsi que sur la qualité de son travail et sa conduite (art. 330a al. 1CO).
+
+<sup>2</sup> A la demande expresse du travailleur, le certificat ne porte que sur la nature et la durée des rapports de travail (art. 330a al. 2 CO).
+
+#### Art. 24
+
+**Litiges individuels**
+
+<sup>1</sup> La procédure du règlement des litiges individuels résultant du contrat de travail est définie aux articles 34 et suivants de la loi cantonale sur le travail (LcTr).
+
+#### Art. 25
+
+**Remise du contrat-type**
+
+<sup>1</sup> Lors de la conclusion du contrat, l'employeur remet un exemplaire du contrat-type de travail au travailleur.
+
+#### Art. 26
+
+**Réserves**
+
+<sup>1</sup> Demeurent réservées, lors de l'entrée en vigueur du présent contrat-type de travail, les conditions plus favorables aux travailleurs.
+
+RCV RO/AGS 2024-050
