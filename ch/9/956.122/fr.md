@@ -4,11 +4,11 @@ title: "Ordonnance du 15 octobre 2008 réglant la perception d'émoluments et de
 short: Oém-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: fr
-version: 2024-01-01
+version: 2024-03-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20240301-fr-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240101/fr"
 
 (Ordonnance sur les émoluments et les taxes de la FINMA, Oém-FINMA)
 
-du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2024)
+du 15 octobre 2008 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ svu les art. 15 et 55 de la loi du 22 juin 2007 sur la surveillance des marchés
 
 arrête:
 
-[^ingress-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Chapitre 1 Dispositions générales
 
@@ -63,7 +63,7 @@ Dans la mesure du possible, la FINMA impute ses coûts directement aux domaines 
 - a<sup>ter</sup>.[^3-4] …
 - a<sup>quater</sup>[^3-5] domaine des plates-formes de négociation et des systèmes de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués (systèmes de négociation fondés sur la TRD) (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
 - a<sup>quinquies</sup>.[^3-6] domaine des contreparties centrales, des dépositaires centraux, des référentiels centraux et des systèmes de paiement (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
-- [tab] a<sup>sexies</sup>.[^3-7] domaine des personnes visées à l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^3-8];
+- a<sup>sexies</sup>.[^3-7] domaine des personnes visées à l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^3-8];
 - b.[^3-9] domaine des placements collectifs de capitaux (art. 15, al. 2, let. a<sup>bis</sup> et b, LFINMA);
 - c. domaine des entreprises d’assurance (art. 15, al. 2, let. c, LFINMA);
 - d. domaine des intermédiaires en assurance non liés à une entreprise (art. 15, al. 2, let. c, LFINMA);
@@ -81,7 +81,7 @@ Dans la mesure du possible, la FINMA impute ses coûts directement aux domaines 
 [^3-5]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^3-6]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^3-7]: Introduite par le ch. II 3 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^3-8]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^3-8]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^3-9]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^3-10]: Abrogée par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^3-11]: Abrogée par l’annexe ch. 5 de l’O du 5 nov. 2014 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
@@ -120,7 +120,7 @@ Est tenue de payer des émoluments toute personne qui:
 
 Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^6-1] sont applicables dans la mesure où la présente ordonnance ne contient pas de réglementation spéciale.
 
-[^6-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^6-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 7
 
@@ -167,7 +167,7 @@ La FINMA peut majorer l’émolument de 50 % au plus de l’émolument ordinaire
 Lorsqu’un audit ou une procédure de surveillance s’achève sans décision, la facturation et la décision d’émolument sont régies par l’art. 11 OGEmol[^10-2].
 
 [^10-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^10-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^10-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapitre 3 Taxes de surveillance
 
@@ -232,7 +232,7 @@ Lorsqu’un audit ou une procédure de surveillance s’achève sans décision, 
 
 <sup>3</sup> L’échéance, le sursis et la prescription se fondent sur les dispositions de l’OGEmol[^15-1].
 
-[^15-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^15-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Section 2 Grandes banques, autres banques et maisons de titres et bourses
 
@@ -272,10 +272,10 @@ La taxe de base annuelle s’élève à:
 <sup>3</sup> La taxe de base annuelle visée à l’al. 1 est majorée de 3000 francs pour tout gestionnaire de fortune ou trustee dont la surveillance courante est exercée exclusivement dans le cadre de la surveillance du groupe, conformément à l’art. 83, al. 1, de l’ordonnance du 6 novembre 2019 sur les établissements financiers[^16-5].[^16-6]
 
 [^16-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^16-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^16-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^16-3]: Abrogée par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^16-4]: Nouvelle teneur selon l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^16-5]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^16-5]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^16-6]: Introduit par l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 17
@@ -367,11 +367,11 @@ Pour les petits systèmes de négociation fondés sur la TRD visés à l’art. 
 - a. 7500 francs s’ils ne fournissent pas de services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF;
 - b. 50 000 francs s’ils fournissent des services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF.[^19a-6]
 
-[^19a-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19a-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^19a-2]: Nouvelle teneur selon le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^19a-3]: Introduit par le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^19a-4]: Introduit par le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^19a-5]: [RS 958.11](https://fedlex.data.admin.ch/eli/cc/2015/854)
+[^19a-5]: [RS 958.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11627)
 [^19a-6]: Introduit par le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 19b
@@ -391,7 +391,7 @@ Le montant financé par la taxe complémentaire est couvert comme suit:
 
 <sup>2</sup> La taxe complémentaire sur le chiffre d’affaires réalisé sur les transactions sur valeurs mobilières est fixée en fonction du nombre de transactions et du volume total de l’année qui précède l’année de taxation, qui doivent être communiqués à la bourse conformément à l’ordonnance de la FINMA du 3 décembre 2015 sur l’infrastructure des marchés financiers[^19c-1].
 
-[^19c-1]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^19c-1]: [RS 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 #### Art. 19d
 
@@ -399,7 +399,7 @@ Le montant financé par la taxe complémentaire est couvert comme suit:
 
 Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* du code des obligations[^19d-1].
 
-[^19d-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19d-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 2*b* Personnes visées à l’art. 1*b* LB
 
@@ -413,7 +413,7 @@ Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* 
 
 La taxe de base annuelle s’élève à 3000 francs par personne visée à l’art. 1*b* LB[^19e-1].
 
-[^19e-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^19e-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 19f
 
@@ -425,7 +425,7 @@ La taxe de base annuelle s’élève à 3000 francs par personne visée à l’a
 
 <sup>3</sup> Le produit brut comprend tous les produits et revenus visés à l’art. 959*b* du code des obligations[^19f-1]. Est déterminant le produit brut sans réductions sur ventes.
 
-[^19f-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19f-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 3 Placements collectifs de capitaux
 
@@ -467,6 +467,8 @@ La taxe de base annuelle s’élève à:
 
 - h. 5000 francs pour les banques dépositaires de placements collectifs suisses.[^20-4]
 
+<sup>1bis</sup> Lorsqu’une direction de fonds de placement ou un gestionnaire de fortune collective dispose d’une autorisation complémentaire pour exercer l’activité de trustee, la taxe de base correspond à la taxe de base annuelle visée à l’al. 1, let. a ou g, plus 5000 francs.[^20-5]
+
 <sup>2</sup>
 
 La taxe de base concernant les placements collectifs suisses est payée par:
@@ -476,17 +478,18 @@ La taxe de base concernant les placements collectifs suisses est payée par:
 - c. la société en commandite de placements collectifs;
 - d. la SICAF.
 
-<sup>3</sup> La taxe de base concernant les placements collectifs étrangers est payée par le représentant (art. 123, al. 1, de la loi du 23 juin 2006 sur les placements collectifs, LPCC[^20-5]). Lorsque plusieurs représentants sont désignés pour un placement collectif étranger, ceux-ci en répondent solidairement.
+<sup>3</sup> La taxe de base concernant les placements collectifs étrangers est payée par le représentant (art. 123, al. 1, de la loi du 23 juin 2006 sur les placements collectifs, LPCC[^20-6]). Lorsque plusieurs représentants sont désignés pour un placement collectif étranger, ceux-ci en répondent solidairement.
 
-<sup>4</sup> Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* du code des obligations[^20-6].[^20-7]
+<sup>4</sup> Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* du code des obligations[^20-7].[^20-8]
 
 [^20-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^20-2]: Abrogée par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1er janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-3]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
-[^20-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^20-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^20-7]: Introduit par le ch. I de l’O du 21 nov. 2012 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-5]: Introduit par l’annexe ch. 9 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^20-6]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^20-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^20-8]: Introduit par le ch. I de l’O du 21 nov. 2012 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 21
 
@@ -532,7 +535,7 @@ La taxe complémentaire pour les placements collectifs suisses est payée par:
 <sup>3</sup> Les banques dépositaires de placements collectifs suisses paient la taxe complémentaire en fonction de leur produit brut. Ce dernier correspond à la commission de la banque dépositaire.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
-[^23-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^23-3]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Section 4 Entreprises d’assurance
@@ -554,9 +557,9 @@ La taxe de base s’élève à:
 
 <sup>3</sup> La taxe de base des groupes d’assurance et des conglomérats d’assurance est payée par l’entreprise qui est désignée comme interlocutrice selon l’art. 191, al. 3, de l’ordonnance du 9 novembre 2005 sur la surveillance (OS)[^24-3].
 
-[^24-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^24-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^24-2]: Nouvelle teneur selon le ch. III 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^24-3]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^24-3]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 
 #### Art. 25
 
@@ -587,13 +590,13 @@ Le montant déterminant des primes encaissées est constitué par:
 
 <sup>5</sup> Est assujettie à la taxe complémentaire des groupes d’assurance et des conglomérats d’assurance l’entreprise qui est désignée comme interlocutrice selon l’art. 191, al. 3, de l’OS[^25-7].
 
-[^25-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^25-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^25-2]: Nouvelle teneur selon le ch. III 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^25-3]: Introduit par le ch. I de l’O du 25 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
 [^25-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^25-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^25-6]: Nouvelle teneur selon le ch. III 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^25-7]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^25-7]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 
 #### Art. 26
 
@@ -601,7 +604,7 @@ Le montant déterminant des primes encaissées est constitué par:
 
 Les coûts encourus au titre des intermédiaires liés à une entreprise d’assurance selon l’art. 43, al. 2, LSA[^26-1] sont pris en charge par les entreprises d’assurance et les caisses-maladie.
 
-[^26-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^26-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 ### Section 5 Intermédiaires non liés à une entreprise d’assurance
 
@@ -657,9 +660,9 @@ Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* 
 
 <sup>3</sup> S’agissant des organismes d’autorégulation intégrés dans les structures commerciales d’une association professionnelle ou d’une entreprise et qui ne tiennent pas de comptabilité indépendante, on tient compte des dépenses brutes en lieu et place du produit brut pour le calcul de la taxe de surveillance.
 
-[^31-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^31-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^31-2]: Nouvelle teneur selon l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^31-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^31-3]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^31-4]: Introduite par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Section 6*a* Organismes de surveillance au sens du titre 3 LFINMA
@@ -746,7 +749,7 @@ Le droit en vigueur s’applique pour la perception des émoluments dans les pro
 <sup>2</sup> Les infrastructures des marchés financiers visées à l’art. 159, al. 2, de la loi sur l’infrastructure des marchés financiers sont soumises à taxation à compter de la date de leur reconnaissance ou de leur autorisation.
 
 [^39b-1]: Introduit par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^39b-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^39b-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 39c
 
@@ -777,8 +780,8 @@ Annexe[^t-1]
 <tr><td>1.1*a* Décision concernant l’octroi d’une autorisation en tant que représentation de banques et de maisons de titres étrangères (art. 2 LB; art. 58 LEFin)</td><td>5 000–30 000</td></tr>
 <tr><td>1.2 Décision concernant l’octroi d’une autorisation complémentaire pour les banques ou les maisons de titres et décision sur une participation qualifiée (art. 3, al. 5, et 3<sup>ter</sup> LB; art. 8 et 11, al. 5, LEFin)</td><td>1 000–30 000</td></tr>
 <tr><td>1.3 Décision sur la reconnaissance d’une agence de notation (art. 6, al. 1, de l’O du 1<sup>er</sup> juin 2012 sur les fonds propres, OFR[^annexu1-lvlu1-3])</td><td>5 000–30 000</td></tr>
-<tr><td>1.4 …</td><td></td></tr>
-<tr><td>1.5 …</td><td></td></tr>
+<tr><td>1.4 ...</td><td></td></tr>
+<tr><td>1.5 ...</td><td></td></tr>
 <tr><td>1.6 Décision sur la modification des statuts, des contrats de société ou des règlements d’une banque ou d’une maison de titres (art. 3, al. 3, LB; art. 8 LEFin)</td><td>500–10 000</td></tr>
 <tr><td>1.6*a* Décision sur l’autorisation d’une modification significative pour les banques ou les maisons de titres (art. 8*a*, al. 2, OB[^annexu1-lvlu1-4]; art. 8, al. 2, LEFin)</td><td>200–4 000</td></tr>
 <tr><td>1.7 Décision en relation avec des demandes de décision préalable, de dérogation ou d’assouplissement concernant la publicité de participations, selon les art. 120 ss de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^annexu1-lvlu1-5]</td><td>3 000–30 000</td></tr>
@@ -794,9 +797,9 @@ Annexe[^t-1]
 <tr><td>2.5 Décision sur l’approbation de la modification du contrat de fonds de placement ou des statuts et du règlement de placement ou du contrat de société de placements collectifs ouverts ou fermés (art. 16 et 27 LPCC)</td><td>500–5 000</td></tr>
 <tr><td>2.6 Décision sur l’approbation de l’offre à des investisseurs non qualifiés d’un placement collectif étranger (art. 15, al. 1, let. e, en relation avec l’art. 120 LPCC)</td><td>1 000–10 000</td></tr>
 <tr><td>2.7 Décision concernant la constatation de la conformité à la loi de la modification des documents d’un placement collectif étranger (art. 15, al. 1, let. e, LPCC)</td><td>300–5 000</td></tr>
-<tr><td>2.8 …</td><td></td></tr>
+<tr><td>2.8 ...</td><td></td></tr>
 <tr><td>2.9 Décision concernant l’approbation du mandat d’experts chargés des estimations pour les fonds immobiliers (art. 64 LPCC)</td><td>1 000–5 000</td></tr>
-<tr><td>2.10 …</td><td></td></tr>
+<tr><td>2.10 ...</td><td></td></tr>
 <tr><td>2.11 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA)</td><td>1 000–5 000</td></tr>
 <tr><td>3 Domaine des entreprises d’assurance</td><td></td></tr>
 <tr><td>3.1 Décision concernant l’octroi de l’autorisation d’exercer l’activité d’assurance (art. 3, al. 1, et art. 4 LSA[^annexu1-lvlu1-7])</td><td>5 000–50 000</td></tr>
@@ -811,7 +814,7 @@ Annexe[^t-1]
 <tr><td>3.10 Mesures conservatoires (art. 51 ss LSA)</td><td>1 000–10 000</td></tr>
 <tr><td>3.11 Décisions en relation avec la cessation volontaire de l’activité de l’entreprise (art. 60 LSA)</td><td>500–10 000</td></tr>
 <tr><td>3.12 Attestations de solvabilité et autres attestations (art. 1 LSA)</td><td>300–1 000</td></tr>
-<tr><td>3.13 …</td><td></td></tr>
+<tr><td>3.13 ...</td><td></td></tr>
 <tr><td>3.14 Contrôles particuliers des rapports annuels (art. 25 LSA)</td><td>1 000–10 000</td></tr>
 <tr><td>4 Domaine des intermédiaires d’assurances</td><td></td></tr>
 <tr><td>4.1 Inscription dans le registre, par personne physique (art. 43, al. 1, LSA)</td><td>300–3 000</td></tr>
@@ -821,13 +824,13 @@ Annexe[^t-1]
 <tr><td>5 Domaine des organismes d’autorégulation</td><td></td></tr>
 <tr><td>5.1 Procédure de reconnaissance (art. 18, al. 1, let. a, et art. 24 ss LBA[^annexu1-lvlu1-11])</td><td>9 000–20 000</td></tr>
 <tr><td>5.2 Mutations (art. 24 et 25 LBA)</td><td>200–10 000</td></tr>
-<tr><td>5.3 …</td><td></td></tr>
+<tr><td>5.3 ...</td><td></td></tr>
 <tr><td>5.4 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA)</td><td>500–5 000</td></tr>
 <tr><td>6 Domaine des organismes de surveillance au sens du titre 3 LFINMA[^annexu1-lvlu1-12]</td><td></td></tr>
 <tr><td>6.1 Décision concernant l’octroi d’une autorisation en tant que gestionnaire de fortune ou trustee (art. 5 et 17 ss LEFin)</td><td>2 000–20 000</td></tr>
 <tr><td>6.2 Décision concernant l’autorisation en cas de modification significative chez un gestionnaire de fortune ou un trustee (art. 8, al. 2, LEFin)</td><td>200–4 000</td></tr>
 <tr><td>6.3 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise en tant que gestionnaire de fortune ou de trustee</td><td>500–5 000</td></tr>
-<tr><td>7 …</td><td></td></tr>
+<tr><td>7 ...</td><td></td></tr>
 <tr><td>8 Émoluments généraux</td><td></td></tr>
 <tr><td>8.1 Décision sur une demande selon l’art. 42 ou 43 LFINMA</td><td>3 000–15 000</td></tr>
 <tr><td>8.2 Coûts pour la reconnaissance de décisions d’insolvabilité étrangères</td><td>3 000–10 000</td></tr>
@@ -835,15 +838,15 @@ Annexe[^t-1]
 <tr><td>9.1 Les coûts pour photocopies s’élèvent à 50 centimes par page.</td><td></td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^annexu1-lvlu1-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^annexu1-lvlu1-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^annexu1-lvlu1-4]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^annexu1-lvlu1-5]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annexu1-lvlu1-6]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annexu1-lvlu1-7]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^annexu1-lvlu1-8]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^annexu1-lvlu1-9]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
-[^annexu1-lvlu1-10]: [RS 0.961.514](https://fedlex.data.admin.ch/eli/cc/2001/43)
-[^annexu1-lvlu1-11]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^annexu1-lvlu1-12]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^annexu1-lvlu1-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^annexu1-lvlu1-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^annexu1-lvlu1-3]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^annexu1-lvlu1-4]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^annexu1-lvlu1-5]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annexu1-lvlu1-6]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^annexu1-lvlu1-7]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^annexu1-lvlu1-8]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^annexu1-lvlu1-9]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
+[^annexu1-lvlu1-10]: [RS 0.961.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4353)
+[^annexu1-lvlu1-11]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^annexu1-lvlu1-12]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
