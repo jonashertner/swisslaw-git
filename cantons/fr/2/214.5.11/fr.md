@@ -4,13 +4,13 @@ number: "214.5.11"
 title: "Règlement d'exécution de la loi sur le registre foncier"
 short: RELRF
 language: fr
-version: 2022-02-01
-valid_until: 2024-02-29
-version_adopted: 2022-02-25
+version: 2024-03-01
+valid_until: 2025-01-31
+version_adopted: 2024-02-20
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/214.5.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8589/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8590/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Registre foncier – R
 
 (RELRF)
 
-du 09.12.1986 (version entrée en vigueur le 01.02.2022)
+du 09.12.1986 (version entrée en vigueur le 01.03.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -132,7 +132,7 @@ Arrête:
 <sup>1</sup> Les instructions de l'Autorité de surveillance sont transmises à la Direction et, dans la mesure où elles ont un intérêt pour l'exercice de leur profession,
 
 - a) aux notaires, avec l'approbation de la Direction de la sécurité, de la justice et du sport, par l'intermédiaire du président ou de la présidente de la Chambre des notaires, et
-- b) aux géomètres, par l'intermédiaire du Service du cadastre et de la géomatique.
+- b) aux ingénieur-e-s géomètres brevetés, par l'intermédiaire du Service de la géoinformation.
 
 #### Art. 17
 
@@ -158,7 +158,7 @@ Arrête:
 
 **Décision d'exécution (Art. 14 LRF) – Publication**
 
-<sup>1</sup> Lorsqu'il dépose le cadastre transitoire au registre foncier, le Service du cadastre et de la géomatique avise la Direction.
+<sup>1</sup> Lorsqu'il dépose le cadastre transitoire au registre foncier, le Service de la géoinformation avise la Direction.
 
 <sup>2</sup> La décision prise par le Conseil d'Etat en vue de l'établissement du registre foncier fédéral est publiée par le Registre foncier au début des travaux d'exécution.
 
@@ -230,7 +230,7 @@ Arrête:
 
 **Procès-verbal et lieu (Art. 24 LRF)**
 
-<sup>1</sup> Le ou la géomètre tient un procès-verbal de la séance.
+<sup>1</sup> L'ingénieur‑e géomètre adjudicataire tient un procès-verbal de la séance.
 
 <sup>2</sup> La séance a lieu, en règle générale, au Registre foncier.
 
@@ -263,7 +263,7 @@ Arrête:
 
 **Clôture de la procédure des reconnaissances (Art. 27 LRF) – Documents cadastraux**
 
-<sup>1</sup> Lorsque les modifications survenues lors des séances de reconnaissances ont été opérées sur les documents cadastraux, le ou la géomètre établit, à l'intention du conservateur ou de la conservatrice, une liste de ces modifications. Le conservateur ou la conservatrice transmet une copie de la liste au Service du cadastre et de la géomatique.
+<sup>1</sup> Lorsque les modifications survenues lors des séances de reconnaissances ont été opérées sur les documents cadastraux, l'ingénieur‑e géomètre adjudicataire établit, à l'intention du conservateur ou de la conservatrice, une liste de ces modifications. Le conservateur ou la conservatrice transmet une copie de la liste au Service de la géoinformation.
 
 #### Art. 31
 
@@ -280,7 +280,7 @@ Arrête:
 - e) la liste des personnes convoquées qui ne se sont pas présentées, et
 - f) s'il y a lieu, d'autres observations.
 
-<sup>3</sup> Le conservateur ou la conservatrice transmet une copie de la décision de clôture de la procédure des reconnaissances au Service du cadastre et de la géomatique.
+<sup>3</sup> Le conservateur ou la conservatrice transmet une copie de la décision de clôture de la procédure des reconnaissances au Service de la géoinformation.
 
 ### 2.3 Mise à l'enquête du registre foncier fédéral
 
@@ -288,7 +288,7 @@ Arrête:
 
 **Enquêtes partielles (Art. 28 LRF)**
 
-<sup>1</sup> Exceptionnellement, le conservateur ou la conservatrice peut, avec l'accord du Service du cadastre et de la géomatique, procéder à des enquêtes partielles, par étapes, pour autant qu'il ne soit pas nécessaire d'établir des verbaux pour définir le périmètre objet de l'enquête partielle.
+<sup>1</sup> Exceptionnellement, le conservateur ou la conservatrice peut, avec l'accord du Service de la géoinformation, procéder à des enquêtes partielles, par étapes, pour autant qu'il ne soit pas nécessaire d'établir des verbaux pour définir le périmètre objet de l'enquête partielle.
 
 <sup>2</sup> L'entrée en vigueur se fait alors séparément pour chacune des étapes.
 
@@ -627,7 +627,7 @@ Arrête:
 
 <sup>4</sup> Les avis imposés par le droit fédéral sont réservés.
 
-<sup>5</sup> Le Service du cadastre et de la géomatique est informé, par voie informatique, de l'état de traitement des verbaux déposés au Registre foncier.
+<sup>5</sup> Le Service de la géoinformation est informé, par voie informatique, de l'état de traitement des verbaux déposés au Registre foncier.
 
 #### Art. 63
 

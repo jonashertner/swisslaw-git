@@ -4,13 +4,13 @@ number: "214.5.11"
 title: Ausführungsreglement zum Gesetz über das Grundbuch
 short: ARGBG
 language: de
-version: 2022-02-01
-valid_until: 2024-02-29
-version_adopted: 2022-02-25
+version: 2024-03-01
+valid_until: 2025-01-31
+version_adopted: 2024-02-20
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/214.5.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8589/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8590/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Grundbuch – R
 
 (ARGBG)
 
-vom 09.12.1986 (Fassung in Kraft getreten am 01.02.2022)
+vom 09.12.1986 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -132,7 +132,7 @@ beschliesst:
 <sup>1</sup> Die Weisungen der Aufsichtsbehörde werden der Direktion zugestellt und, soweit sie für die Ausübung ihres Berufes von Bedeutung sind:
 
 - a) mit Genehmigung der Sicherheits-, Justiz- und Sportdirektion den Notarinnen und Notaren über die Präsidentin oder den Präsidenten der Notariatskammer und
-- b) den Geometerinnen und Geometern über das Amt für Vermessung und Geomatik.
+- b) den patentierten Ingenieur-Geometerinnen und Ingenieur-Geometern über das Amt für Geoinformation.
 
 #### Art. 17
 
@@ -158,7 +158,7 @@ beschliesst:
 
 **Beschluss betreffend Ausführung (Art. 14 GBG) – Veröffentlichung**
 
-<sup>1</sup> Hinterlegt das Amt für Vermessung und Geomatik beim Grundbuchamt den Übergangskataster, so teilt es dies der Direktion mit.
+<sup>1</sup> Hinterlegt das Amt für Geoinformation beim Grundbuchamt den Übergangskataster, so teilt es dies der Direktion mit.
 
 <sup>2</sup> Der Beschluss des Staatsrats zur Anlegung des eidgenössischen Grundbuchs wird vom Grundbuchamt zu Beginn der Arbeiten veröffentlicht.
 
@@ -230,7 +230,7 @@ beschliesst:
 
 **Protokoll und Sitzungsort (Art. 24 GBG)**
 
-<sup>1</sup> Die Geometerin oder der Geometer führt das Sitzungsprotokoll.
+<sup>1</sup> Die beauftragte Ingenieur-Geometerin oder der beauftragte Ingenieur-Geometer führt das Sitzungsprotokoll.
 
 <sup>2</sup> Die Sitzungen werden in der Regel auf dem Grundbuchamt durchgeführt.
 
@@ -263,7 +263,7 @@ beschliesst:
 
 **Schluss des Anerkennungsverfahrens (Art. 27 GBG) – Vermessungsdokumente**
 
-<sup>1</sup> Die Geometerin oder der Geometer erstellt für die Grundbuchverwalterin oder den Grundbuchverwalter eine Liste der vorgenommenen Änderungen, sobald die in den Anerkennungssitzungen vorgenommenen Änderungen nachgeführt sind. Die Grundbuchverwalterin oder der Grundbuchverwalter stellt dem Amt für Vermessung und Geomatik eine Kopie dieser Liste zu.
+<sup>1</sup> Die beauftragte Ingenieur-Geometerin oder der beauftragte Ingenieur-Geometer erstellt für die Grundbuchverwalterin oder den Grundbuchverwalter eine Liste der vorgenommenen Änderungen, sobald die in den Anerkennungssitzungen vorgenommenen Änderungen nachgeführt sind. Die Grundbuchverwalterin oder der Grundbuchverwalter stellt dem Amt für Geoinformation eine Kopie dieser Liste zu.
 
 #### Art. 31
 
@@ -280,7 +280,7 @@ beschliesst:
 - e) die Liste der Personen, die vorgeladen wurden, aber nicht erschienen sind, und
 - f) wenn nötig andere Bemerkungen.
 
-<sup>3</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter stellt dem Amt für Vermessung und Geomatik eine Kopie der Schlussverfügung des Anerkennungsverfahrens zu.
+<sup>3</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter stellt dem Amt für Geoinformation eine Kopie der Schlussverfügung des Anerkennungsverfahrens zu.
 
 ### 2.3 Auflage des eidgenössischen Grundbuches
 
@@ -288,7 +288,7 @@ beschliesst:
 
 **Teilweise Auflagen (Art. 28 GBG)**
 
-<sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter kann in Ausnahmefällen und mit der Zustimmung des Amtes für Vermessung und Geomatik die Blätter eines neu vermessenen Gebietes etappenweise auflegen, wenn keine Verbale notwendig sind, die den Perimeter der Teilauflagen zuerst bestimmen müssen.
+<sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter kann in Ausnahmefällen und mit der Zustimmung des Amtes für Geoinformation die Blätter eines neu vermessenen Gebietes etappenweise auflegen, wenn keine Verbale notwendig sind, die den Perimeter der Teilauflagen zuerst bestimmen müssen.
 
 <sup>2</sup> Die Inkraftsetzung erfolgt etappenweise.
 
@@ -627,7 +627,7 @@ beschliesst:
 
 <sup>4</sup> Die von der Bundesgesetzgebung vorgesehenen Anzeigen bleiben vorbehalten.
 
-<sup>5</sup> Das Amt für Vermessung und Geomatik wird auf elektronischem Weg über den Bearbeitungsstand der auf dem Grundbuchamt abgegebenen Verbale informiert.
+<sup>5</sup> Das Amt für Geoinformation wird auf digitalem Weg über den Bearbeitungsstand der auf dem Grundbuchamt abgegebenen Verbale informiert.
 
 #### Art. 63
 
