@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
 language: de
-version: 2022-12-01
-valid_until: 2024-02-29
-version_adopted: 2022-11-08
+version: 2024-03-01
+valid_until: 2024-11-30
+version_adopted: 2024-02-20
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7624/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8036/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7624/pdf_file"
 
 Verwaltungseinheiten der Direktionen und der Staatskanzlei – V
 
-vom 09.07.2002 (Fassung in Kraft getreten am 01.12.2022)
+vom 09.07.2002 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -162,7 +162,7 @@ beschliesst:
 - d) …
 - e) das Amt für Personal und Organisation (POA);
 - f) das Amt für Informatik und Telekommunikation (ITA);
-- g) das Amt für Vermessung und Geomatik (VGA);
+- g) das Amt für Geoinformation (GeoIA);
 - h) die Grundbuchämter (nach Bezirk: GBSa, GBSense, GBGr, GBSee, GBGl, GBBr, GBVi).
 
 <sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:

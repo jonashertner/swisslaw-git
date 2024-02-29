@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: "Ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 language: fr
-version: 2022-12-01
-valid_until: 2024-02-29
-version_adopted: 2022-11-08
+version: 2024-03-01
+valid_until: 2024-11-30
+version_adopted: 2024-02-20
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7624/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8036/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7624/pdf_file"
 
 Unités administratives des Directions et de la Chancellerie – O
 
-du 09.07.2002 (version entrée en vigueur le 01.12.2022)
+du 09.07.2002 (version entrée en vigueur le 01.03.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -162,7 +162,7 @@ Arrête:
 - d) …
 - e) le Service du personnel et d'organisation (SPO);
 - f) le Service de l'informatique et des télécommunications (SITel);
-- g) le Service du cadastre et de la géomatique (SCG);
+- g) le Service de la géoinformation (SGéo);
 - h) les Registres fonciers (par district: RFSa, RFSi, RFGr, RFLac, RFGl, RFBr, RFVe).
 
 <sup>2</sup> Lui sont rattachées administrativement les unités suivantes:
