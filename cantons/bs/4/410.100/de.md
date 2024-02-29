@@ -3,22 +3,22 @@ canton: BS
 number: "410.100"
 title: Schulgesetz
 language: de
-version: 2021-01-01
-valid_until: 2024-02-29
-version_adopted: 2019-09-18
+version: 2024-03-01
+valid_until: 2024-08-11
+version_adopted: 2023-12-13
 adopted: 1929-04-04
 in_force: 1929-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5971/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6221/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Schulgesetz
 
-Schulgesetz | Schulen
+Schulen
 
-Vom 4. April 1929 (Stand 1. Januar 2021)
+Vom 4. April 1929 (Stand 1. März 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -450,15 +450,7 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 
 #### § 56a
 
-**Sprachliche Förderung in Deutsch vor der Einschulung**
-
-<sup>1</sup> Verfügt ein Vorschulkind im Hinblick auf den Eintritt in den Kindergarten über unzureichende Deutschkenntnisse, so haben dessen Erziehungsberechtigte ihr Kind während einem Jahr an zwei halben Tagen pro Woche eine Einrichtung mit integrierter Sprachförderung besuchen zu lassen.
-
-<sup>2</sup> Die Volksschulleitung[^56a-1] bzw. die zuständige Stelle der Gemeinden sorgt in Zusammenarbeit mit allen Beteiligten für die Ermittlung der Kinder mit Förderbedarf; sie informiert und unterstützt die Erziehungsberechtigten und sichert die Qualität des Förderangebots.
-
-<sup>3</sup> Nötigenfalls verfügt die Volksschulleitung bzw. die zuständige Stelle der Gemeinden den Besuch einer Einrichtung durch das Kind.
-
-[^56a-1]: Zuständig ist neu die Leitung Jugend, Familie und Sport.
+**…**
 
 #### § 57
 
@@ -1082,7 +1074,7 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 - b) sie dürfen ihre Kinder nicht wissentlich von der Schule fernbleiben lassen;
 - c) sie nehmen an Elternveranstaltungen und Gesprächen teil, die von einer Lehr- und Fachperson oder von der Schulleitung angeordnet werden;
 - d) sie halten ihre Kinder zum Einhalten der Regeln und Weisungen der Schule an.
-- e) sie lassen ihr Vorschulkind, sofern es im Hinblick auf den Kindergarteneintritt über unzureichende Deutschkenntnisse verfügt, eine Einrichtung mit integrierter Sprachförderung besuchen.
+- e) …
 
 <sup>9</sup> Erziehungsberechtigte, die ihre Pflichten gemäss Abs. 8 wiederholt verletzen, können auf Antrag der Schulleitung oder der Leitung Volksschulen bzw. der zuständigen Stelle der Gemeinden mit einer Ordnungsbusse bis CHF 1'000 belegt werden. In den vom Kanton geführten Schulen entscheidet die Departementsvorsteherin bzw. der Departementsvorsteher, in den von den Gemeinden geführten Schulen die zuständige Stelle der Gemeinden.
 
