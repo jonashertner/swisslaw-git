@@ -4,7 +4,7 @@ number: "850.61"
 title: "LOI du 10.02.2004 sur les mesures d'aide et d'intégration pour personnes handicapées (LAIH)"
 short: LAIH
 language: fr
-version: 2024-01-01
+version: 2024-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.61?id=8515f5f1-5503-47fa-8ea7-9df0c12c04d5"
 ---
 
@@ -1128,13 +1128,31 @@ Dans ces domaines, il collabore directement avec la direction de l'établissemen
 [^47-1]: Modif. 15 du 17.12.2025: Modification Al. 1-2; entrée en vigueur au 01.03.2026
 [^48-1]: Règlement du 17.12.2014 d'application de la loi du 10.02.2004 sur les mesures d'aide et d'intégration des personnes handicapées ([BLV 850.61.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.61.1?id=1529594a-eeca-4a99-849a-4c37c498818a))
 
+#### Art. 48a
+
+**Avances d'aides [^48-2]**
+
+<sup>1</sup> Lorsqu'une aide individuelle est accordée à une personne propriétaire de biens immobiliers ou d'autres valeurs dont on ne peut exiger la réalisation immédiate, cette aide est considérée comme une avance. Cette avance peut également couvrir les frais annexes au placement.
+
+<sup>2</sup> Pour que l'avance soit accordée, son remboursement doit être garanti par un gage immobilier, respectivement un gage mobilier. La constitution, de même que la radiation du gage, incombent à la personne qui sollicite l'aide individuelle, sur demande de la direction en charge de l'octroi des prestations au sens de la présente loi.
+
+<sup>3</sup> Le remboursement de l'avance est exigé à la suite de la réalisation du bien immobilier, respectivement du bien mobilier, ou d'une autre opération donnant accès à des liquidités, mais au plus tard au décès du bénéficiaire.
+
+<sup>4</sup> Une obligation de remboursement incombe également aux héritiers du bénéficiaire de l'avance, pour autant qu'ils tirent profit de la succession.
+
+<sup>5</sup> La direction en charge de l'octroi des prestations au sens de la présente loi réclame, par voie de décision, le remboursement des avances octroyées.
+
+<sup>6</sup> Le règlement fixe les modalités.
+
+[^48-2]: Modif. 14 du 12.12.2023: Introduction Art. 48a; entrée en vigueur au 01.03.2024
+
 #### Art. 49
 
-**Héritiers [^48-2]**
+**Héritiers [^48a-1]**
 
 <sup>1</sup> Les héritiers sont tenus au remboursement de l'aide touchée par le bénéficiaire défunt, pour autant qu'ils tirent profit de la situation, et jusqu'à concurrence de celui-ci, que l'aide ait été obtenue indûment ou que le département se soit substitué pour le paiement de la contribution personnelle et/ou des frais annexes au placement.
 
-[^48-2]: Modif. 15 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.03.2026
+[^48a-1]: Modif. 15 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.03.2026
 
 #### Art. 50
 
