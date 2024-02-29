@@ -4,11 +4,11 @@ title: Handelsregisterverordnung vom 17. Oktober 2007 (HRegV)
 short: HRegV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: de
-version: 2023-09-01
+version: 2024-03-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/de"
 
 (HRegV)
 
-vom 17. Oktober 2007 (Stand am 1. September 2023)
+vom 17. Oktober 2007 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -2091,16 +2091,17 @@ Bei Kommanditgesellschaften für kollektive Kapitalanlagen müssen ins Handelsre
 - e. das Datum des Gesellschaftsvertrags;
 - f. die Dauer der Gesellschaft;
 - g. der Zweck;
-- h. der Betrag der gesamten Kommanditsumme;
+- h.[^99-1] der Betrag der gesamten Kommanditsumme oder die Bandbreite der Kommanditsumme;
 - i. falls die Kommanditsumme ganz oder teilweise in Form einer Sacheinlage geleistet wird, deren Gegenstand und Wert;
 - j. die Firma, der Sitz und die Unternehmens-Identifikationsnummer der unbeschränkt haftenden Gesellschafterinnen und die für diese handelnden natürlichen Personen;
 - k. die zur Vertretung berechtigten Personen;
-- l.[^99-1] die Tatsache, dass die Prüfung nach KAG[^99-2] durchgeführt wird;
-- m.[^99-3] die zugelassene Prüfgesellschaft;
+- l.[^99-2] die Tatsache, dass die Prüfung nach KAG[^99-3] durchgeführt wird;
+- m.[^99-4] die zugelassene Prüfgesellschaft;
 
-[^99-1]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^99-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^99-3]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^99-1]: Fassung gemäss Anhang Ziff. 2 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^99-2]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^99-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^99-4]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 #### Art. 100
 

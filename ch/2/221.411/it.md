@@ -4,11 +4,11 @@ title: Ordinanza del 17 ottobre 2007 sul registro di commercio (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: it
-version: 2023-09-01
+version: 2024-03-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/it"
 
 (ORC)
 
-del 17 ottobre 2007 (Stato 1° settembre 2023)
+del 17 ottobre 2007 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -2081,16 +2081,17 @@ L’iscrizione nel registro di commercio delle società in accomandita per inves
 - e. la data del contratto di società;
 - f. la durata della società;
 - g. lo scopo;
-- h. l’importo del capitale accomandato totale;
+- h.[^99-1] l’importo del capitale accomandato complessivo o i limiti del margine di variazione del capitale accomandato;
 - i. se l’importo del capitale accomandato è fornito interamente o parzialmente sotto forma di un conferimento in natura, il suo oggetto e valore;
 - j. la ditta, la sede e il numero d’identificazione delle imprese dei soci illimitatamente responsabili e le persone fisiche che agiscono in loro nome;
 - k. le persone autorizzate a rappresentare;
-- l.[^99-1] il fatto che l’audit è effettuato conformemente alle disposizioni della LICol[^99-2];
-- m.[^99-3] la società di audit abilitata.
+- l.[^99-2] il fatto che l’audit è effettuato conformemente alle disposizioni della LICol[^99-3];
+- m.[^99-4] la società di audit abilitata.
 
-[^99-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^99-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^99-3]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^99-1]: Nuovo testo giusta l’all. n. 2 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^99-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^99-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^99-4]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 #### Art. 100
 

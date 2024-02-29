@@ -4,11 +4,11 @@ title: Ordonnance du 17 octobre 2007 sur le registre du commerce (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: fr
-version: 2023-09-01
+version: 2024-03-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230901-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230901/fr"
 
 (ORC)
 
-du 17 octobre 2007 (État le 1<sup>er</sup> septembre 2023)
+du 17 octobre 2007 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -2076,16 +2076,17 @@ L’inscription au registre du commerce d’une société en commandite de place
 - e. la date du contrat de société;
 - f. la durée de la société;
 - g. son but;
-- h. le montant total de la commandite;
+- h.[^99-1] le montant total de la commandite ou la fourchette du montant total des commandites;
 - i. lorsque la commandite revêt en tout ou en partie la forme d’un apport en nature, l’objet de cet apport et sa valeur;
 - j. la raison de commerce, le siège et le numéro d’identification des associés indéfiniment responsables, ainsi que les personnes physiques qui agissent en leur nom;
 - k. les personnes habilitées à représenter la société;
-- l.[^99-1] le fait que l’audit a lieu selon les dispositions de la LPCC[^99-2];
-- m.[^99-3] la société d’audit agréée.
+- l.[^99-2] le fait que l’audit a lieu selon les dispositions de la LPCC[^99-3];
+- m.[^99-4] la société d’audit agréée.
 
-[^99-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^99-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^99-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^99-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^99-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^99-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^99-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 #### Art. 100
 
