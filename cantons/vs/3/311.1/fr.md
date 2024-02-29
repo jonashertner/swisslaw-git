@@ -4,13 +4,13 @@ number: "311.1"
 title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-03-16
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2023-06-15
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3540/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3543/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3540/pdf_file"
 
 (LACP)
 
-du 12.05.2016 (état 01.01.2024)
+du 12.05.2016 (état 01.03.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -315,6 +315,8 @@ ordonne:[^ingress-1]
 **Affaires administratives - Règles de procédure**
 
 <sup>1</sup> Sous réserve des dispositions du droit fédéral, la LPJA s'applique aux décisions prises par l'autorité administrative.
+
+<sup>1<sup>bis</sup></sup> Ces décisions peuvent faire l'objet d'une réclamation au sens des articles 34a à 34g LPJA dans les 30 jours dès leur notification. La réclamation n'a pas d'effet suspensif, sauf décision contraire de l'autorité administrative.
 
 <sup>2</sup> N'a pas d'effet suspensif, sauf décision contraire du juge saisi, le recours de droit administratif contre:
 

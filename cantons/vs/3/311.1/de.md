@@ -4,13 +4,13 @@ number: "311.1"
 title: Einführungsgesetz zum Strafgesetzbuch
 short: EGStGB
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-03-16
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2023-06-15
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/de/versions/3540/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3540/pdf_file"
 
 (EGStGB)
 
-vom 12.05.2016 (Stand 01.01.2024)
+vom 12.05.2016 (Stand 01.03.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -315,6 +315,8 @@ verordnet:[^ingress-1]
 **Administrative Strafsachen - Verfahrensregeln**
 
 <sup>1</sup> Vorbehältlich der Bestimmungen des Bundesrechts ist für Entscheide, die von einer Verwaltungsbehörde gefällt werden, das VVRG anwendbar.
+
+<sup>1<sup>bis</sup></sup> Gegen diese Entscheide kann innerhalb von 30 Tagen nach ihrer Zustellung eine Einsprache nach den Artikeln 34a bis 34g VVRG eingereicht werden. Die Einsprache hat keine aufschiebende Wirkung, sofern die Verwaltungsbehörde nichts anderes beschliesst.
 
 <sup>2</sup> Unter Vorbehalt eines gegenteiligen Entscheids des befassten Richters haben Verwaltungsgerichtsbeschwerden keine aufschiebende Wirkung gegen:
 
