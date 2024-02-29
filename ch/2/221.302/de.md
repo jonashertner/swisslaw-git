@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Zulassung und Beaufsichtigu
 short: RAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: de
-version: 2023-09-01
+version: 2024-03-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-533-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2007-533-20240301-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/de"
 
 (Revisionsaufsichtsgesetz, RAG)
 
-vom 16. Dezember 2005 (Stand am 1. September 2023)
+vom 16. Dezember 2005 (Stand am 1. März 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 Absatz 1, 122 Absatz 1 und 123 Absatz 1 der Bundesv
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
 ## 1. Abschnitt: Gegenstand und Begriffe
@@ -51,20 +51,24 @@ In diesem Gesetz gelten als:
   *Revisionsdienstleistungen:*
 
   - 1\. Prüfungen und Bestätigungen, die nach bundesrechtlichen Vorschriften durch eine zugelassene Revisorin, einen zugelassenen Revisor, eine zugelassene Revisionsexpertin, einen zugelassenen Revisionsexperten oder ein staatlich beaufsichtigtes Revisionsunternehmen vorgenommen werden müssen,
-  - 2\. Prüfungen, die nach Artikel 24 Absatz 1 Buchstabe a des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^2-2] (FINMAG) durch eine zugelassene Prüfgesellschaft vorgenommen werden;
+  - 2\.[^2-2] Prüfungen, die nach Artikel 24 Absatz 1 Buchstabe a des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^2-3] (FINMAG) oder nach Artikel 118*i* des Kollektivanlagengesetzes vom 23. Juni 2006[^2-4] (KAG) durch eine zugelassene Prüfgesellschaft vorgenommen werden;
 
 - b. *Revisionsunternehmen:* im Handelsregister eingetragene Einzelunternehmen, Personengesellschaften oder juristische Personen, die Revisionsdienstleistungen erbringen;
-- c.[^2-3]
+- c.[^2-5]
 
   *Gesellschaften des öffentlichen Interesses:*
 
-  - 1\. Publikumsgesellschaften im Sinne von Artikel 727 Absatz 1 Ziffer 1 des Obligationenrechts (OR)[^2-4],
-  - 2\. Beaufsichtigte im Sinn von Artikel 3 FINMAG, die eine nach Artikel 9*a* des vorliegenden Gesetzes zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 FINMAG beauftragen müssen.
+  - 1\. Publikumsgesellschaften im Sinne von Artikel 727 Absatz 1 Ziffer 1 des Obligationenrechts (OR)[^2-6],
+  - 2\. Beaufsichtigte im Sinn von Artikel 3 FINMAG, die eine nach Artikel 9*a* des vorliegenden Gesetzes zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 FINMAG beauftragen müssen,
+  - 3\.[^2-7] kollektive Kapitalanlagen nach Artikel 118*a* KAG, für die eine nach Artikel 9*a* des vorliegenden Gesetzes zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 118*i* KAG beauftragt werden muss.
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^2-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^2-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^2-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^2-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^2-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-5]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^2-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-7]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ## 2. Abschnitt: Allgemeine Bestimmungen über die Zulassung zur Erbringung von Revisionsdienstleistungen
 
@@ -218,9 +222,9 @@ Eine Person wird zur Leitung von Prüfungen nach Artikel 2 Buchstabe a Ziffer 2 
 <sup>5</sup> …[^9a-6]
 
 [^9a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^9a-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^9a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^9a-3]: Aufgehoben durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9a-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^9a-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^9a-5]: Eingefügt durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^9a-6]: Aufgehoben durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -246,7 +250,7 @@ Eine Person wird zur Leitung von Prüfungen nach Artikel 2 Buchstabe a Ziffer 2 
 
 <sup>2</sup> Eine Gesellschaft des öffentlichen Interesses darf keine Personen beschäftigen, die während der zwei vorausgegangenen Jahre Revisionsdienstleistungen für diese Gesellschaft geleitet haben oder im betreffenden Revisionsunternehmen eine Entscheidfunktion inne hatten.
 
-[^11-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -316,7 +320,7 @@ Die Aufsichtsbehörde entscheidet auf Gesuch hin über die Zulassung von:
 <sup>3</sup> Die registrierten natürlichen Personen und Revisionsunternehmen müssen der Aufsichtsbehörde jede Änderung von eingetragenen Tatsachen mitteilen.
 
 [^15-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^15-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^15-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^15-3]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 15a
@@ -344,8 +348,8 @@ Folgende Personen und Unternehmen müssen der Aufsichtsbehörde alle Auskünfte 
 Zur Erfüllung ihrer gesetzlichen Aufgabe kann die Aufsichtsbehörde Personendaten sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Personendaten im Sinne des Datenschutzgesetzes vom 25. September 2020[^15b-2] und besonders schützenswerter Daten juristischer Personen im Sinne des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^15b-3], bearbeiten.
 
 [^15b-1]: Eingefügt durch Anhang 1 Ziff. II 21 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^15b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15b-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15b-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^15b-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 16
 
@@ -476,12 +480,12 @@ Die Strafverfolgungsbehörden melden der Aufsichtsbehörde sämtliche Verfahren,
 - c.[^24-3] Artikel 69 des Finanzinstitutsgesetzes vom 15. Juni 2018[^24-4];
 - d.[^24-5] Artikel 147 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^24-6].
 
-[^24-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^24-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^24-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^24-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^24-3]: Fassung gemäss Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^24-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^24-5]: Eingefügt durch Anhang Ziff. 2 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^24-6]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^24-6]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 25
 
@@ -489,7 +493,7 @@ Die Strafverfolgungsbehörden melden der Aufsichtsbehörde sämtliche Verfahren,
 
 Die kantonalen Zivilgerichte und das Bundesgericht melden der Aufsichtsbehörde sämtliche Verfahren betreffend die Revisionshaftung (Art. 755 OR[^25-1]) im Zusammenhang mit einer von einem staatlich beaufsichtigten Revisionsunternehmen erbrachten Revisionsdienstleistung und stellen ihr die Urteile sowie andere Entscheide zu, welche ein solches Verfahren abschliessen.
 
-[^25-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 25a
 
@@ -498,7 +502,7 @@ Die kantonalen Zivilgerichte und das Bundesgericht melden der Aufsichtsbehörde 
 Die Selbstregulierungsorganisationen (SRO) nach dem Geldwäschereigesetz vom 10. Oktober 1997[^25a-2] melden der Aufsichtsbehörde alle Vorkommnisse und übermitteln ihr alle Auskünfte und Unterlagen im Zusammenhang mit einer Prüfgesellschaft oder einer leitenden Prüferin oder einem leitenden Prüfer, welche die Aufsichtsbehörde zur Erfüllung ihrer Aufgaben benötigt.
 
 [^25a-1]: Eingefügt durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^25a-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^25a-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 26
 
@@ -588,7 +592,7 @@ Die Organe der Aufsichtsbehörde sind:
 <sup>6</sup> Er legt die Entschädigungen der Mitglieder des Verwaltungsrates fest. Für das Honorar der Mitglieder des Verwaltungsrates und die weiteren mit diesen Personen vereinbarten Vertragsbedingungen gilt Artikel 6*a* Absätze 1–4 des Bundespersonalgesetzes vom 24. März 2000[^30-2] (BPG).
 
 [^30-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^30-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^30-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 30a
 
@@ -654,7 +658,7 @@ Sie hat insbesondere folgende Aufgaben:
 <sup>3</sup> Für den Lohn der Direktorin oder des Direktors sowie der Angehörigen des geschäftsleitenden Kaders und des weiteren Personals, das in vergleichbarer Weise entlöhnt wird, sowie für die weiteren mit diesen Personen vereinbarten Vertragsbedingungen findet Artikel 6*a* Absätze 1−4 BPG[^33-2] entsprechende Anwendung.[^33-3]
 
 [^33-1]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^33-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^33-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 33a
@@ -666,7 +670,7 @@ Sie hat insbesondere folgende Aufgaben:
 <sup>2</sup> Die Aufsichtsbehörde ist Arbeitgeberin nach Artikel 32*b* Absatz 2 BPG.
 
 [^33a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^33a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 34
 
@@ -695,7 +699,7 @@ Sie hat insbesondere folgende Aufgaben:
 <sup>5</sup> Die Anzeigepflicht bei behördenexternen Sachverhalten richtet sich nach Artikel 24 Absatz 3.
 
 [^34a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^34a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^34a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 34b
 
@@ -717,7 +721,7 @@ Sie hat insbesondere folgende Aufgaben:
 
 <sup>3</sup> Die Aufsichtsbehörde bildet die für die Ausübung ihrer Aufsichtstätigkeit erforderlichen Reserven im Umfang von höchstens einem Jahresbudget.
 
-[^35-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^35-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 36
@@ -741,13 +745,14 @@ Die Aufsichtsbehörde haftet nur, wenn:
 - a. sie wesentliche Amtspflichten verletzt hat; und
 - b. Schäden nicht auf Pflichtverletzungen einer Revisorin, eines Revisors, einer Revisionsexpertin, eines Revisionsexperten oder eines Revisionsunternehmens zurückzuführen sind.
 
-<sup>2bis</sup> Die Verantwortlichkeit der nach Artikel 24 Absatz 1 Buchstabe a des FINMAG[^36a-3] beauftragten Prüfgesellschaften richtet sich nach den Bestimmungen des Aktienrechts (Art. 752–760 OR[^36a-4]).[^36a-5]
+<sup>2bis</sup> Die Verantwortlichkeit der nach Artikel 24 Absatz 1 Buchstabe a FINMAG[^36a-3] und Artikel 118*i* KAG[^36a-4] beauftragten Prüfgesellschaften richtet sich nach den Bestimmungen des Aktienrechts (Art. 752–760 OR[^36a-5]).[^36a-6]
 
 [^36a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^36a-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^36a-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^36a-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^36a-5]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^36a-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^36a-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^36a-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^36a-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^36a-6]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften) ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)). Fassung gemäss Anhang Ziff. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 37
 
@@ -799,9 +804,9 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer verstösst gegen:
 
 <sup>4</sup> Die Verfolgung von Übertretungen verjährt nach sieben Jahren.
 
-[^39-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^39-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^39-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 39a
 
@@ -813,7 +818,7 @@ Von der Ermittlung der strafbaren Personen nach Artikel 39 kann Umgang genommen 
 - b. für die Widerhandlungen gegen die Bestimmungen dieses Gesetzes eine Busse von höchstens 20 000 Franken in Betracht fällt.
 
 [^39a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^39a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39a-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 40
 
@@ -836,7 +841,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:[^40-1
 [^40-1]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^40-2]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^40-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^40-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 9. Abschnitt: Schlussbestimmungen
 
@@ -879,7 +884,7 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 <sup>2</sup> Die Aufsichtsbehörde übernimmt alle Verfahren der FINMA, die gegen Prüfgesellschaften, die Prüfungen nach den Finanzmarktgesetzen (Art. 1 Abs. 1 FINMAG[^43a-2]) durchführen, sowie gegen leitende Prüferinnen und leitende Prüfer solcher Prüfungen eröffnet wurden und die bei Inkrafttreten der Änderung vom 20. Juni 2014 noch nicht rechtskräftig entschieden sind.
 
 [^43a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^43a-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^43a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 43b
 
@@ -898,7 +903,7 @@ Für Revisionsunternehmen, die Revisionsdienstleistungen für Gesellschaften nac
 
 Bis zum Inkrafttreten des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^44-1] wird der Rechtsschutz in Ergänzung zu den allgemeinen Bestimmungen über die Bundesrechtspflege wie folgt geregelt: Die Rekurskommission EVD beurteilt Beschwerden gegen Verfügungen der Aufsichtsbehörde.
 
-[^44-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352), in Kraft seit 1. Jan. 2007
+[^44-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621), in Kraft seit 1. Jan. 2007
 
 #### Art. 45
 

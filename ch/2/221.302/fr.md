@@ -4,20 +4,22 @@ title: "Loi fédérale du 16 décembre 2005 sur l'agrément et la surveillance d
 short: LSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: fr
-version: 2023-09-01
+version: 2024-03-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-533-20230901-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-533-20240301-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur l’agrément et la surveillance des réviseurs
+# Loi fédérale sur l’agrément et la surveillance des réviseurs\*
 
-(Loi sur la surveillance de la révision, LSR)
+(Loi sur la surveillance de la révision, LSR)[^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> septembre 2023)
+du 16 décembre 2005 (État le 1<sup>er</sup> mars 2024)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +27,7 @@ vu les art. 95, al. 1, 122, al. 1, et 123, al. 1, de la Constitution[^ingress-1]
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
 ## Section 1 Objet et définitions
@@ -51,20 +53,24 @@ Au sens de la présente loi on entend par:
   *prestations en matière de révision:*
 
   - 1\. les vérifications et les attestations qui, en vertu du droit fédéral, doivent être opérées ou délivrées par un réviseur agréé, un expert-réviseur agréé ou par une entreprise de révision soumise à la surveillance de l’État,
-  - 2\. les audits au sens de l’art. 24, al. 1, let. a, de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^2-2] qui sont effectués par une société d’audit agréée;
+  - 2\.[^2-2] les audits au sens de l’art. 24, al. 1, let. a, de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^2-3] ou de l’art. 118*i* de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^2-4] qui sont effectués par une société d’audit agréée;
 
 - b. *entreprises de révision:* les entreprises individuelles, les sociétés de personnes ou les personnes morales inscrites au registre du commerce qui fournissent des prestations en matière de révision;
-- c.[^2-3]
+- c.[^2-5]
 
   *sociétés d’intérêt public:*
 
-  - 1\. les sociétés ouvertes au public au sens de l’art. 727, al. 1, ch. 1, du code des obligations (CO)[^2-4],
-  - 2\. les assujettis au sens de l’art. 3 LFINMA, qui doivent charger une société d’audit agréée au sens de l’art. 9*a* de la présente loi d’effectuer un audit selon l’art. 24 LFINMA.
+  - 1\. les sociétés ouvertes au public au sens de l’art. 727, al. 1, ch. 1, du code des obligations (CO)[^2-6],
+  - 2\. les assujettis au sens de l’art. 3 LFINMA, qui doivent charger une société d’audit agréée au sens de l’art. 9*a* de la présente loi d’effectuer un audit selon l’art. 24 LFINMA,
+  - 3\.[^2-7] les placements collectifs de capitaux visés à l’art. 118*a* LPCC pour lesquels une société d’audit agréée selon l’art. 9*a* de la présente loi doit être chargée de procéder à l’audit au sens de l’art. 118*i* LPCC.
 
 [^2-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^2-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^2-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^2-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^2-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^2-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-5]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^2-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-7]: Introduit par l’annexe ch. 1 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ## Section 2 Dispositions générales régissant l’agrément des personnes qui fournissent des prestations en matière de révision
 
@@ -154,7 +160,7 @@ Doivent également être agréées en qualité d’entreprises de révision soum
 
 - a. des sociétés régies par le droit étranger et dont les titres de participation sont cotés en bourse en Suisse;
 - b.[^8-2] des sociétés régies par le droit étranger qui sont débitrices d’emprunts par obligations cotés en bourse en Suisse;
-- [tab] c. et d.[^8-3] *...*
+- c. et d.[^8-3] *...*
 
 <sup>2</sup> Les entreprises de révision qui sont placées sous la surveillance d’une autorité étrangère reconnue par le Conseil fédéral ne doivent pas être agréées.
 
@@ -220,9 +226,9 @@ Une personne est habilitée à diriger un audit selon l’art. 2, let. a, ch. 2 
 <sup>5</sup> ...[^9a-6]
 
 [^9a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^9a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^9a-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^9a-3]: Abrogé par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9a-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^9a-4]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^9a-5]: Introduit par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^9a-6]: Abrogé par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -248,7 +254,7 @@ Outre les obligations légales générales régissant l’indépendance de l’o
 
 <sup>2</sup> Une société d’intérêt public ne peut s’adjoindre les services de personnes qui, pendant les deux années précédentes, ont dirigé des prestations en matière de révision pour cette société ou qui exerçaient des fonctions décisionnelles dans l’entreprise de révision concernée.
 
-[^11-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -318,7 +324,7 @@ L’autorité de surveillance statue, sur demande, sur l’agrément:
 <sup>3</sup> Les personnes physiques et les entreprises de révision inscrites au registre communiquent à l’autorité de surveillance toute modification de faits inscrits.
 
 [^15-1]: Introduite par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^15-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^15-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^15-3]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 15a
@@ -346,8 +352,8 @@ Les personnes et les entreprises ci-après fournissent à l’autorité de surve
 Pour accomplir leurs tâches légales, l’autorité de surveillance peut traiter des données personnelles et des données concernant des personnes morales, y compris des données sensibles au sens de la loi fédérale du 25 septembre 2020 sur la protection des données[^15b-2] et des données sensibles concernant des personnes morales au sens de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^15b-3].
 
 [^15b-1]: Introduit par l’annexe 1 ch. II 21 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^15b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15b-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^15b-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 16
 
@@ -479,12 +485,12 @@ Les autorités de poursuite pénale informent l’autorité de surveillance de t
 - c.[^24-3] art. 69 de la loi fédérale du 15 juin 2018 sur les établissements financiers[^24-4];
 - d.[^24-5] art. 147 de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^24-6].
 
-[^24-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^24-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^24-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^24-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^24-3]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^24-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^24-5]: Introduite par l’annexe ch. 2 de la LF du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^24-6]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^24-6]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 25
 
@@ -492,7 +498,7 @@ Les autorités de poursuite pénale informent l’autorité de surveillance de t
 
 Les tribunaux civils cantonaux et le Tribunal fédéral informent l’autorité de surveillance de toutes les procédures ayant trait à la responsabilité dans la révision (art. 755 CO[^25-1]) en relation avec une prestation fournie par une entreprise de révision sous surveillance de l’État; ils lui communiquent les jugements et les autres prononcés clôturant de telles procédures.
 
-[^25-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 25a
 
@@ -501,7 +507,7 @@ Les tribunaux civils cantonaux et le Tribunal fédéral informent l’autorité 
 Les organismes d’autorégulation au sens de la loi du 10 octobre 1997 sur le blanchiment d’argent[^25a-2] communiquent à l’autorité de surveillance tout fait et tout document et information en relation avec une société d’audit ou un auditeur responsable dont l’autorité a besoin pour accomplir ses tâches.
 
 [^25a-1]: Introduit par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^25a-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^25a-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 26
 
@@ -593,7 +599,7 @@ Les organes de l’autorité de surveillance sont:
 <sup>6</sup> Il fixe les indemnités des membres du conseil d’administration. L’art. 6*a*, al. 1 à 4, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^30-2] s’applique aux honoraires des membres du conseil d’administration et aux autres clauses convenues avec ces personnes.
 
 [^30-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^30-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^30-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 30a
 
@@ -659,7 +665,7 @@ La direction a notamment les attributions suivantes:
 <sup>3</sup> L’art. 6*a*, al. 1 à 4, LPers[^33-2] s’applique par analogie au salaire du directeur ainsi qu’à celui des membres du cadre dirigeant et du reste du personnel ayant un traitement comparable ainsi qu’aux autres clauses convenues avec ces personnes.[^33-3]
 
 [^33-1]: Abrogé par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^33-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^33-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 33a
@@ -671,7 +677,7 @@ La direction a notamment les attributions suivantes:
 <sup>2</sup> L’autorité de surveillance est employeur au sens de l’art. 32*b*, al. 2, LPers.
 
 [^33a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^33a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 34
 
@@ -700,7 +706,7 @@ La direction a notamment les attributions suivantes:
 <sup>5</sup> L’obligation de dénoncer des faits externes au service est régie par l’art. 24, al. 3.
 
 [^34a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^34a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^34a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 34b
 
@@ -722,7 +728,7 @@ La direction a notamment les attributions suivantes:
 
 <sup>3</sup> L’autorité de surveillance constitue les réserves qui sont nécessaires à l’exercice de son activité de surveillance; leur montant ne peut pas dépasser un budget annuel.
 
-[^35-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^35-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 36
@@ -746,13 +752,14 @@ La responsabilité de l’autorité de surveillance n’est engagée qu’aux co
 - a. l’autorité de surveillance a violé des devoirs essentiels de fonction;
 - b. le dommage n’a pas été causé par le réviseur, l’expert-réviseur ou l’entreprise de révision qui ont violé leurs obligations.
 
-<sup>2bis</sup> La responsabilité des sociétés d’audit désignées en vertu de l’art. 24, al. 1, let. a, LFINMA[^36a-3] est régie par le droit de la société anonyme (art. 752 à 760 CO[^36a-4]).[^36a-5]
+<sup>2bis</sup> La responsabilité des sociétés d’audit désignées en vertu de l’art. 24, al. 1, let. a, LFINMA[^36a-3] et de l’art. 118*i* LPCC[^36a-4] est régie par le droit de la société anonyme (art. 752 à 760 CO[^36a-5]).[^36a-6]
 
 [^36a-1]: Introduit par l’annexe ch. 3 de la LF du 23 déc. 2011 (Droit comptable), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^36a-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^36a-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^36a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^36a-5]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^36a-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^36a-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^36a-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^36a-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^36a-6]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit) ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 37
 
@@ -804,9 +811,9 @@ Est puni d’une amende de 100 000 francs au plus quiconque:
 
 <sup>4</sup> La poursuite des contraventions à la présente loi se prescrit par sept ans.
 
-[^39-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^39-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^39-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 39a
 
@@ -818,7 +825,7 @@ Il est possible de renoncer à poursuivre les personnes punissables selon l’ar
 - b. l’amende entrant en ligne de compte pour les infractions aux dispositions de la présente loi ne dépasse pas 20 000 francs.
 
 [^39a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^39a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39a-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 40
 
@@ -841,7 +848,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 [^40-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 [^40-2]: Introduite par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^40-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^40-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Section 9 Dispositions finales
 
@@ -884,7 +891,7 @@ La modification du droit en vigueur est réglée en annexe.
 <sup>2</sup> L’autorité de surveillance reprend toutes les procédures ouvertes par la FINMA contre des sociétés d’audit fournissant des prestations d’audit au sens des lois sur les marchés financiers (art. 1, al. 1, LFINMA[^43a-2]) et contre des auditeurs responsables ouvertes avant l’entrée en vigueur de la modification du 20 juin 2014 et non encore entrées en force.
 
 [^43a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^43a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^43a-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 43b
 
@@ -903,7 +910,7 @@ Les entreprises de révision qui fournissent des prestations en matière de rév
 
 Les dispositions générales de la procédure fédérale sont applicables. Par ailleurs, jusqu’à l’entrée en vigueur de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^44-1], les voies de droit sont réglées comme suit: la commission de recours du DFE statue sur les recours contre les décisions de l’autorité de surveillance.
 
-[^44-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352), en vigueur depuis le 1<sup>er</sup> janv. 2007
+[^44-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621), en vigueur depuis le 1<sup>er</sup> janv. 2007
 
 #### Art. 45
 

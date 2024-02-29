@@ -4,11 +4,11 @@ title: "Federal Act of 16 December 2005 on the Licensing and Oversight of Audito
 short: AOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: en
-version: 2023-09-01
+version: 2024-03-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-533-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2007-533-20240301-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20230901/en"
 
 (Auditor Oversight Act, AOA)
 
-of 16 December 2005 (Status as of 1 September 2023)
+of 16 December 2005 (Status as of 1 March 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -25,7 +25,7 @@ based on Articles 95 paragraph 1, 122 paragraph 1 and 123 paragraph 1 of the Fed
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
 ## Section 1 Subject Matter and Definitions
@@ -51,17 +51,24 @@ In this Act:
   *audit services* means:
 
   - 1\. audits and confirmations which in accordance with federal regulations must be conducted by a licensed auditor, a licensed audit expert or an audit firm under state oversight,
-  - 2\. audits which in accordance with Article. 24, paragraph 1 letter a of the Financial Market Supervision Act of 22 June 2007[^2-2] (FINMASA) must be conducted by a licensed audit company for regulatory audits;
+  - 2\.[^2-2] audits which in accordance with Article. 24, paragraph 1 letter a of the Financial Market Supervision Act of 22 June 2007[^2-3] (FINMASA) or Article 118*i* of the Collective Investment Schemes Act of 23 June 2006[^2-4] (CISA) must be conducted by a licensed audit company for regulatory audits;
 
 - b. *audit firm* means a sole proprietorship, partnership or legal entity that is entered in the Commercial Register and provides audit services;
-- c.[^2-3] *public interest entities* means:
-- 1\. publicly traded companies in accordance with Article 727 paragraph 1 number 1 of the Code of Obligations (CO)[^2-4],
-- 2\. supervised persons and entities within the meaning of Article 3 FINMASA which in accordance with Article 9*a* of this Act must mandate a licensed audit company for regulatory audit with an audit in accordance with Article 24 FINMASA.
+- c.[^2-5]
+
+  *public interest entities* means:
+
+  - 1\. publicly traded companies in accordance with Article 727 paragraph 1 number 1 of the Code of Obligations (CO)[^2-6],
+  - 2\. supervised persons and entities as defined in Article 3 FINMASA which must be audited in accordance with Article 24 FINMASA by an audit company licensed in accordance with Article 9*a* of this Act,
+  - 3\.[^2-7] collective investment schemes in terms of Article 118*a* CISA which must be audited in accordance with Article 118*i* CISA by an audit company licensed in accordance with Article 9*a* of this Act.
 
 [^2-1]: Amended by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685), [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^2-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^2-3]: Amended by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^2-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-2]: Amended by Annex No 1 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^2-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^2-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-5]: Amended by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^2-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-7]: Inserted by No 1 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ## Section 2 General Provisions on the Licensing of Providers of Audit Services
 
@@ -143,10 +150,13 @@ An audit firm shall be licensed as an audit expert or auditor if:
 
 **Special cases of international relevance**
 
-- [tab] <sup>1</sup> A licence as an audit firm under state oversight is also required for audit firms providing auditing services as defined in Article 2 letter a number 1 or comparable services under foreign law for:[^8-1]
+<sup>1</sup>
+
+A licence as an audit firm under state oversight is also required for audit firms providing auditing services as defined in Article 2 letter a number 1 or comparable services under foreign law for:[^8-1]
+
 - a. companies incorporated under foreign law whose shares are listed on a Swiss stock exchange;
 - b.[^8-2] companies incorporated under foreign law whose bonds are listed on a Swiss stock exchange;
-- [tab] c. and d.[^8-3]*...*
+- c. and d.[^8-3] ...
 
 <sup>2</sup> The licensing obligation does not apply if the audit firm is subject to the oversight of a foreign audit oversight authority that is recognised by the Federal Council.
 
@@ -212,9 +222,9 @@ A person is licensed to lead audits in accordance with Article 2 letter a number
 <sup>5</sup> ...[^9a-6]
 
 [^9a-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^9a-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^9a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^9a-3]: Repealed by Annex No II 3 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9a-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^9a-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^9a-5]: Inserted by Annex No II 3 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141))
 [^9a-6]: Repealed by Annex No II 3 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -240,7 +250,7 @@ In addition to the general statutory provisions on the independence of auditors 
 
 <sup>2</sup> A public interest entity may not employ any persons who have been in charge of audit services for this company or have held a decision-making position at the audit firm concerned over the two preceding years.
 
-[^11-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -310,7 +320,7 @@ The Oversight Authority shall decide, on application, on the licensing of:
 <sup>3</sup> Registered individuals and audit firms must inform the Oversight Authority of any change to the details entered in the register.
 
 [^15-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^15-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^15-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^15-3]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 15a
@@ -338,8 +348,8 @@ The following persons and companies must provide the Oversight Authority with al
 In order to fulfil its statutory duty, the Oversight Authority may process personal data and data relating to legal entities, including sensitive personal data as defined in the Data Protection Act of 25 September 2020[^15b-2] and sensitive data relating to legal entities as defined in the Government and Administration Organisation Act of 21 March 1997[^15b-3].
 
 [^15b-1]: Inserted by Annex 1 No II 21 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^15b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15b-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15b-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^15b-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 16
 
@@ -349,7 +359,7 @@ In order to fulfil its statutory duty, the Oversight Authority may process perso
 
 <sup>1bis</sup> ...[^16-2]
 
-<sup>1</sup> <sup>ter</sup> In the event of suspected violations of legal duties, the Oversight Authority shall conduct a corresponding inspection independent of the inspection cycle in accordance with paragraph 1.[^16-3]
+<sup>1<sup>ter</sup></sup> In the event of suspected violations of legal duties, the Oversight Authority shall conduct a corresponding inspection independent of the inspection cycle in accordance with paragraph 1.[^16-3]
 
 <sup>2</sup>
 
@@ -470,12 +480,12 @@ The criminal prosecution authorities shall notify the Oversight Authority of all
 - c.[^24-3] Article 69 of the Financial Institutions Act of 15 June 2018[^24-4];
 - d.[^24-5] Article 147 of the Financial Market Infrastructure Act of 19 June 2015[^24-6].
 
-[^24-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^24-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^24-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^24-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^24-3]: Amended by Annex No II 3 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^24-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^24-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^24-5]: Inserted by Annex No 2 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^24-6]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^24-6]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 25
 
@@ -483,7 +493,7 @@ The criminal prosecution authorities shall notify the Oversight Authority of all
 
 The cantonal civil courts and the Federal Supreme Court shall notify the Oversight Authority of all proceedings relating to auditors’ liability (Article 755 CO[^25-1]) that are connected with an auditing service provided by an audit firm under state oversight. They shall supply it with the judgments and other decisions that conclude such proceedings.
 
-[^25-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 25a
 
@@ -492,7 +502,7 @@ The cantonal civil courts and the Federal Supreme Court shall notify the Oversig
 Self-regulatory organisations (SRO) under the Anti-Money Laundering Act of 10 October 1997[^25a-2] shall notify the Oversight Authority of any incidents in connection with an audit company or a lead auditor and provide it with all the information and documents that the Oversight Authority requires to fulfil its tasks.
 
 [^25a-1]: Inserted by Annex No II 3 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^25a-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^25a-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 26
 
@@ -582,7 +592,7 @@ The governing bodies of the Oversight Authority are:
 <sup>6</sup> It determines the remuneration of the members of the Board of Directors. Article 6a paragraphs 1-4 of the Federal Personnel Act of 24 March 2000[^30-2] (FPA) applies to the fee paid to the members of the Board of Directors and the other contractual terms and conditions agreed with these persons.
 
 [^30-1]: Amended by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685), [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^30-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^30-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 30a
 
@@ -601,7 +611,7 @@ The Board of Directors has the following tasks:
 - i. It supervises the Executive Board.
 - j. It provides an internal control system and risk management adapted for the Oversight Authority.
 - k. It determines the appropriation of reserves.
-- 1\. It approves the budget.
+- l. It approves the budget.
 - m. It drafts and approves an annual report for each fiscal year; it submits the revised annual report to the Federal Council for approval; simultaneously it requests discharge from the Federal Council and publishes the annual report following approval.
 
 [^30a-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
@@ -648,18 +658,19 @@ In particular, it has the following tasks:
 <sup>3</sup> Article 6a paragraphs 1-4 FPA[^33-2] applies to the salary of the Chief Executive and of the members of the Executive Board and other personnel remunerated in comparable ways and to the other contractual provisions agreed with these persons.[^33-3]
 
 [^33-1]: Repealed by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), with effect from 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); BBl 2013 6857).
-[^33-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^33-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^33-3]: Amended by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685), [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 33a
 
 **Pensions Fund**[^33a-1]
 
-- [tab] <sup>1</sup> The Executive Board and the other personnel are insured with PUBLICA in accordance with Articles 32*a*-32*m* FPA[^33a-2].
-- [tab] <sup>2</sup> The Oversight Authority is the employer in accordance with Article 32*b* paragraph 2 FPA.
+<sup>1</sup> The Executive Board and the other personnel are insured with PUBLICA in accordance with Articles 32*a*-32*m* FPA[^33a-2].
+
+<sup>2</sup> The Oversight Authority is the employer in accordance with Article 32*b* paragraph 2 FPA.
 
 [^33a-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^33a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 34
 
@@ -688,7 +699,7 @@ In particular, it has the following tasks:
 <sup>5</sup> The duty to report in relation to external circumstances is based on Article 24 paragraph 3.
 
 [^34a-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^34a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^34a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 34b
 
@@ -710,7 +721,7 @@ In particular, it has the following tasks:
 
 <sup>3</sup> The Oversight Authority shall create the reserves it requires to perform its oversight activities. These shall not exceed the amount of one year’s budget.
 
-[^35-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^35-2]: Amended by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685), [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 36
@@ -734,13 +745,14 @@ The Oversight Authority is liable only if:
 - a. it has violated essential official duties; and
 - b. the loss or damage is not attributable to the breach of duty by an auditor, an audit expert or an audit firm.
 
-<sup>2bis</sup> The mandated audit company in accordance with Article 24 paragraph 1 letter a of the FINMASA[^36a-3] is responsible under the provisions of the Stock Company Law (Articles 752-760 CO[^36a-4]).[^36a-5]
+<sup>2bis</sup> The mandated audit company in accordance with Article 24 paragraph 1 letter a of the FINMASA[^36a-3] and Article 118*i* CISA[^36a-4] is responsible under the provisions of the Stock Company Law (Articles 752-760 CO[^36a-5]).[^36a-6]
 
 [^36a-1]: Inserted by Annex No 3 of the Federal Act of 23 Dec. 2011 (Accounting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^36a-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^36a-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^36a-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^36a-5]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^36a-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^36a-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^36a-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^36a-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^36a-6]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight) ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)). Amended by Annex No 1 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 37
 
@@ -792,9 +804,9 @@ Any person who contravenes:
 
 <sup>4</sup> The right to prosecute contraventions is limited to seven years.
 
-[^39-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^39-2]: Amended by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685), [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^39-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 39a
 
@@ -806,7 +818,7 @@ The identification of the specific offenders in accordance with Article 39 may b
 - b. a fine of no more than 20 000 francs comes into consideration for the contraventions of the provisions of this Act.
 
 [^39a-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^39a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39a-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 40
 
@@ -817,7 +829,7 @@ The identification of the specific offenders in accordance with Article 39 may b
 Any person who commits any of the following offences shall be liable to a custodial sentence not exceeding three years or a monetary penalty:[^40-1]
 
 - a. providing an auditing service without the necessary licence or despite being prohibited from practising his or her profession;
-- [tab] a<sup>bis</sup>.[^40-2] providing false information in the audit report or in the audit report or audit confirmation about essential facts or withholds essential facts;
+- a<sup>bis</sup>.[^40-2] providing false information in the audit report or in the audit report or audit confirmation about essential facts or withholds essential facts;
 - b.[^40-3] failing to grant the Oversight Authority access to his or her business premises (Article 13 paragraph 2), fails to provide it with the requested information or fails to submit the requested documents (Art. 15*a* para. 1) or provides it with false or incomplete information;
 - c. failing to comply with the duties to document and retain records as an audit firm under state oversight (Art. 730*c* CO[^40-4]);
 - d. as a third party engaged by the Oversight Authority (Article 20), disclosing a secret, during or after completion of the activity, that was entrusted to it in this capacity or that came to its attention in this capacity (the federal and cantonal provisions on the duty to testify and the duty to inform an authority shall continue to apply).
@@ -829,7 +841,7 @@ Any person who commits any of the following offences shall be liable to a custod
 [^40-1]: Amended by Art. 333 of the Swiss Criminal Code in the wording of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^40-2]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^40-3]: Amended by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685), [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^40-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Section 9 Final Provisions
 
@@ -872,7 +884,7 @@ The amendment of current legislation is regulated in the Annex.
 <sup>2</sup> The Oversight Authority takes over all proceedings from FINMA which were initiated against audit companies performing audits under the financial market acts (Article 1 paragraph 1 FINMASA[^43a-2]) as well as against lead auditors of such audits and which by the enactment of the amendment of 20 June 2014 have not yet been legally decided.
 
 [^43a-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^43a-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^43a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 43b
 
@@ -880,9 +892,8 @@ The amendment of current legislation is regulated in the Annex.
 
 The following applies to audit firms that provide audit services to the companies described in Article 8 paragraph 1 letter b and that have bonds listed on a Swiss stock exchange on the date on which the amendment of 30 September 2016 comes into force:
 
-a. Any audit firm not exempted from the licensing obligation must be licensed as an audit firm under state oversight at the latest within six months of the amendment of 30 September 2016 coming into force.
-
-b. Any audit firm exempted from the licensing obligation must register with the Oversight Authority or ensure that investors are explicitly informed that the audit firm is not under state oversight at the latest within six months of the amendment of 30 September 2016 coming into force.
+- a. Any audit firm not exempted from the licensing obligation must be licensed as an audit firm under state oversight at the latest within six months of the amendment of 30 September 2016 coming into force.
+- b. Any audit firm exempted from the licensing obligation must register with the Oversight Authority or ensure that investors are explicitly informed that the audit firm is not under state oversight at the latest within six months of the amendment of 30 September 2016 coming into force.
 
 [^43b-1]: Inserted by No I of the FA of 30 Sept. 2016 (Extra-territorial Scope of Audit Oversight), in force since 1 Oct. 2017 ([AS 2017 4859](https://fedlex.data.admin.ch/eli/oc/2017/527); [BBl 2015 5717](https://fedlex.data.admin.ch/eli/fga/2015/1316)).
 
@@ -892,7 +903,7 @@ b. Any audit firm exempted from the licensing obligation must register with the 
 
 Until the Administrative Court Act of 17 June 2005[^44-1] comes into force, rights of appeal shall be regulated as follows, supplementing the general provisions on the administration of federal justice: the Appeals Commission of the Federal Department of Economic Affairs shall decide on appeals against decisions of the Oversight Authority.
 
-[^44-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352),in force since 1 Jan. 2007.
+[^44-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621), in force since 1 Jan. 2007.
 
 #### Art. 45
 
