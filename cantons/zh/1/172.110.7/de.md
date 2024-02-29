@@ -4,11 +4,11 @@ number: "172.110.7"
 title: Organisationsverordnung der Baudirektion (BDOV)
 short: BDOV
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2024-03-01
+version: "2024-03-01"
+nachtrag: "124"
+valid_until: 2025-07-01
 adopted: 2012-07-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_7-2012_07_06-2012_10_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_7-2012_07_06-2012_10_01-124.html"
 text: pdf
 ---
 
@@ -63,7 +63,7 @@ Die Baudirektion gliedert sich in folgende Verwaltungseinheiten:
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 24 - 124
 
 <sup>2</sup> Sie oder er führt als direkt Unterstellte die Generalsekretärin oder den Generalsekretär, die Leiterinnen oder Leiter der Ämter und des Human Resources sowie ihre oder seine Direktionsassistenz.
 
@@ -84,7 +84,7 @@ Die Baudirektion gliedert sich in folgende Verwaltungseinheiten:
 <sup>4</sup> Es führt zudem eine Liste der Ausschlüsse im Sinne von § 4 b der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen[^3-2].
 
 [^3-1]: Fassung gemäss Vfg. vom 29. Oktober 2020 (OS 75, 558; ABl 2020-11-06). In Kraft seit 1. Januar 2021.
-[^3-2]: Obsolet.
+[^3-2]: SR 943.03.
 
 #### § 4
 
@@ -134,7 +134,7 @@ der Verwaltungseinheiten
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 24 - 124
 
 <sup>2</sup> Sie a. setzen die internen und übergeordneten Ziele um,
 
@@ -203,7 +203,7 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt periodisch ein Kad
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 24 - 124
 
 ### 4. Abschnitt: Ausgaben und deren Umsetzung
 
@@ -236,17 +236,23 @@ Ausgaben werden ab Fr. 50 000 mittels begründeter Verfügung bewilligt. Bis Fr.
 
 **Entscheide im Vergabeverfahren**
 
-§ 16.[^15-1] Die für das Geschäft verantwortlichen Verwaltungseinheiten können in laufenden Vergabeverfahren unabhängig von der Vergabekompetenz über die Auswahl der Teilnehmerinnen und Teilnehmer im selektiven Verfahren, den Ausschluss von Anbietenden und den Abbruch des Verfahrens entscheiden. Sie erlassen die entsprechenden Verfügungen. Die Verwaltungseinheiten erlassen nach dem Vergabeentscheid die Zuschlagsverfügung.
+§ 16.[^15-1] Die für das Geschäft verantwortlichen Verwaltungseinheiten führen Vergabeverfahren im Rahmen ihrer Kompetenzen gemäss Anhang I selbstständig. Sie erlassen die entsprechenden Verfügungen.
 
-[^15-1]: Fassung gemäss Vfg. vom 29. Oktober 2020 (OS 75, 558; ABl 2020-11-06). In Kraft seit 1. Januar 2021.
+[^15-1]: Fassung gemäss Vfg. vom 12. Januar 2024 (OS 79, 45; ABl 2024-01-26). In Kraft seit 1. März 2024.
+[^15-2]: Fassung gemäss Vfg. vom 29. Oktober 2020 (OS 75, 558; ABl 2020-11-06). In Kraft seit 1. Januar 2021.
 
 #### § 17
 
 **Verträge zur Umsetzung von Vergabeentscheiden**
 
-<sup>1</sup> Die für das Geschäft zuständigen Verwaltungseinheiten schliessen die Verträge zur Umsetzung der Vergabeentscheide ab. Ab Fr. 50 000 muss ein schriftlicher Vertrag abgeschlossen werden.[^15-1]
+<sup>1</sup> Die für das Geschäft zuständigen Verwaltungseinheiten schliessen die Verträge zur Umsetzung der Vergabeentscheide ab. Ab Fr. 50 000 muss ein schriftlicher Vertrag abgeschlossen werden.[^15-2]
 
 <sup>2</sup> Verträge sind mit Doppelunterschrift zu unterzeichnen. Ausgenommen davon sind öffentlich zu beurkundende Verträge.
+
+<sup>3</sup> Verträge können mit einer qualifizierten elektronischen Signatur gemäss dem Bundesgesetz über die elektronische Signatur vom 18. März 2016[^17-1] unterzeichnet werden. Die Baudirektion erlässt eine entsprechende Weisung.[^17-2]
+
+[^17-1]: SR 943.03.
+[^17-2]: Eingefügt durch Vfg. vom 12. Januar 2024 (OS 79, 45; ABl 2024-01-26). In Kraft seit 1. März 2024.
 
 ### 5. Abschnitt: Kommunikation und Medien
 
@@ -292,7 +298,7 @@ Die Direktion stellt den Mitarbeitenden Informationen von allgemeinem Interesse 
 
 **7**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 24 - 124
 
 [^22-1]: Eingefügt durch Vfg. vom 29. Oktober 2020 (OS 75, 558; ABl 2020-11-06). In Kraft seit 1. Januar 2021.
 
@@ -304,7 +310,7 @@ Die Direktion stellt den Mitarbeitenden Informationen von allgemeinem Interesse 
 
 Diese Verordnung tritt am 1. Oktober 2012 Kraft.
 
-[^23-1]: Fassung gemäss Vfg. vom 29. Oktober 2020 (OS 75, 558; ABl 2020-11-06). In Kraft seit 1. Januar 2021.
+[^23-1]: Fassung gemäss Vfg. vom 12. Januar 2024 (OS 79, 45; ABl 2024-01-26). In Kraft seit 1. März 2024.
 
 ### Anhang
 
@@ -322,19 +328,23 @@ und des Generalsekretariats oder Direktionsvorsteher
 
 **wiederkehrend jährlich**
 
-jährlich Neue oder gebundene Ausgaben (cid:2)500 000 (cid:2)100 000 Gebundene wiederkehrende Ausgaben – (cid:2)500 000 zulasten eines der im Anhang 1 FCV[^hAusgabenkompetenzen-1] aufgeführten Konten Gebundene Ausgaben, sofern sie (cid:2)500 000 (cid:2)500 000 aufgrund einer der im Anhang 2 FCV[^hAusgabenkompetenzen-1] aufgeführten Bestimmungen bewilligt werden Miet-, Baurechts- und Pachtverträge – (cid:2)200 000 (nur IMA) Beitragszusicherungen von (cid:2)500 000 – Investitionsbeiträgen Vergabe von Aufträgen an Dritte (cid:2)500 000 (cid:2)100 000 Vergabe von Aufträgen (cid:2)1,5 Mio.
-
 **(cid:2)1 Mio. (cid:2)200 000 – &gt;500 000**
+
+jährlich Neue oder gebundene Ausgaben (cid:2)500 000 (cid:2)100 000 Gebundene wiederkehrende Ausgaben – (cid:2)500 000 zulasten eines der im Anhang 1 FCV[^hAusgabenkompetenzen-1] aufgeführten Konten Gebundene Ausgaben, sofern sie (cid:2)500 000 (cid:2)500 000 aufgrund einer der im Anhang 2 FCV[^hAusgabenkompetenzen-1] aufgeführten Bestimmungen bewilligt werden Miet-, Baurechts- und Pachtverträge – (cid:2)200 000 (nur IMA) Beitragszusicherungen von (cid:2)500 000 Investitionsbeiträgen Beitragszusicherungen für (cid:2)1 Mio.
 
 **(nach oben unbegrenzt)**
 
-**&gt;500 000 &gt;500 000 (nach oben (nach oben unbegrenzt) unbegrenzt)**
+**&gt;1 Mio. &gt;500 000 (nach oben (nach oben unbegrenzt) unbegrenzt)**
 
 **– (cid:2)200 000**
 
-**(cid:2)1 Mio. –**
+**(cid:2)1 Mio.**
 
-**(cid:2)1 Mio. (cid:2)200 000 (cid:2)3 Mio.**
+**(cid:2)1 Mio.**
+
+**(cid:2)1 Mio. (cid:2)200 000 (cid:2)4 Mio.**
+
+kommunale Wasserbauprojekte Vergabe von Aufträgen an Dritte (cid:2)1 Mio. (cid:2)200 000 Vergabe von Aufträgen (cid:2)4 Mio.
 
 im Zusammenhang mit Bauten des Kantons Prozesse führen und Vergleiche (cid:2)500 000 abschliessen bis zu einem Streitwert von Übertragung nicht mehr (cid:2)500 000 benötigter Vermögenswerte des Verwaltungsvermögens in das Finanzvermögen sowie deren Veräusserung Übertragung nicht mehr benötigter (cid:2)1 Mio.
 
@@ -348,10 +358,10 @@ Immobilien des Verwaltungsvermögens in das Finanzvermögen (nur IMA) Abschluss 
 
 **(cid:2)1 Mio.**
 
-lichen Rechtsgeschäften (nur IMA)
+lichen Rechten (nur IMA)
 
 **9**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 24 - 124
 
 [^hAusgabenkompetenzen-1]: LS 611.2.
