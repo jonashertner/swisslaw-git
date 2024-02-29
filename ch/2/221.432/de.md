@@ -4,11 +4,11 @@ title: Verordnung vom 21. November 2012 über die anerkannten Standards zur Rech
 short: VASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/812"
 language: de
-version: 2020-01-01
+version: 2024-03-01
 adopted: 2012-11-21
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/812/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2012-812-20200101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/812/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2012-812-20240301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20200101/de"
 
 (VASR)
 
-vom 21. November 2012 (Stand am 1. Januar 2020)
+vom 21. November 2012 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -58,11 +58,12 @@ Für Unternehmen, die der Pflicht zur Buchführung und Rechnungslegung gemäss A
 
 <sup>1</sup> Für Banken gemäss Bankengesetz vom 8. November 1934 und für Wertpapierhäuser gemäss Finanzinstitutsgesetz vom 15. Juni 2018 sind die Rechnungslegungsvorschriften der Eidgenössischen Finanzmarktaufsicht (FINMA) für Banken und Wertpapierhäuser (Art. 25–42 der Bankenverordnung vom 30. April 2014[^2-1]) einem anerkannten Standard zur Rechnungslegung gleichgestellt.[^2-2]
 
-<sup>2</sup> Für kollektive Kapitalanlagen gemäss dem Kollektivanlagengesetz vom 23. Juni 2006[^2-3] (KAG) sind die Rechnungslegungsvorschriften der FINMA für kollektive Kapitalanlagen (Art. 91 KAG) einem anerkannten Standard zur Rechnungslegung gleichgestellt.
+<sup>2</sup> Für kollektive Kapitalanlagen gemäss dem Kollektivanlagengesetz vom 23. Juni 2006[^2-3] (KAG) sind die Rechnungslegungsvorschriften des Bundesrates und der FINMA für kollektive Kapitalanlagen (Art. 91 und 118*i* Abs. 6 KAG) einem anerkannten Standard zur Rechnungslegung gleichgestellt.[^2-4]
 
 [^2-1]: SR **952.01**
 [^2-2]: Fassung gemäss Anhang 1 Ziff. II 2 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^2-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-4]: Fassung gemäss Anhang Ziff. 3 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 3
 

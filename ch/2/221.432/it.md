@@ -4,11 +4,11 @@ title: Ordinanza del 21 novembre 2012 sulle norme contabili riconosciute (ONCR)
 short: ONCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/812"
 language: it
-version: 2020-01-01
+version: 2024-03-01
 adopted: 2012-11-21
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/812/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2012-812-20200101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/812/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2012-812-20240301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20200101/it"
 
 (ONCR)
 
-del 21 novembre 2012 (Stato 1° gennaio 2020)
+del 21 novembre 2012 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -58,11 +58,12 @@ Per le imprese assoggettate all’obbligo di tenere la contabilità e di present
 
 <sup>1</sup> Per le banche secondo la legge dell’8 novembre 1934 sulle banche e per le società di intermediazione mobiliare secondo la legge del 15 giugno 2018 sugli istituti finanziari, le pertinenti prescrizioni contabili (art. 25–42 dell’ordinanza del 30 aprile 2014[^2-1] sulle banche) dell’Autorità federale di vigilanza sui mercati finanziari (FINMA) equivalgono a una norma contabile riconosciuta.[^2-2]
 
-<sup>2</sup> Per gli investimenti collettivi di capitale secondo la legge del 23 giugno 2006[^2-3] sugli investimenti collettivi di capitale (LICol), le pertinenti prescrizioni contabili della FINMA equivalgono a una norma contabile riconosciuta (art. 91 LICol).
+<sup>2</sup> Per gli investimenti collettivi di capitale secondo la legge del 23 giugno 2006[^2-3] sugli investimenti collettivi di capitale (LICol), le pertinenti prescrizioni contabili del Consiglio federale e della FINMA equivalgono a una norma contabile riconosciuta (art. 91 e 118*i* cpv. 6 LICol).[^2-4]
 
 [^2-1]: RS **952.01**
 [^2-2]: Nuovo testo giusta l’all. 1 n. II 2 dell’O del 6 nov. 2 sugli istituti finanziari 019, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^2-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-4]: Nuovo testo giusta l’all. n. 3 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 3
 

@@ -4,11 +4,11 @@ title: Ordonnance du 21 novembre 2012 sur les normes comptables reconnues (ONCR)
 short: ONCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/812"
 language: fr
-version: 2020-01-01
+version: 2024-03-01
 adopted: 2012-11-21
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/812/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-812-20200101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/812/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2012-812-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/812/20200101/fr"
 
 (ONCR)
 
-du 21 novembre 2012 (État le 1<sup>er</sup> janvier 2020)
+du 21 novembre 2012 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -47,10 +47,10 @@ Les normes comptables ci-après sont réputées reconnues pour les entreprises q
 
 <sup>2</sup> L’organisme qui édite la norme détermine les versions linguistiques autorisées.
 
-[^1-1]: www.ifrs.org
-[^1-2]: www.fer.ch
-[^1-3]: www.fasb.org
-[^1-4]: www.ifac.org/public-sector
+[^1-1]: [www.ifrs.org](http://www.ifrs.org)
+[^1-2]: [www.fer.ch](http://www.fer.ch)
+[^1-3]: [www.fasb.org](http://www.fasb.org)
+[^1-4]: [www.ipsasb.org](https://www.ipsasb.org/)
 
 #### Art. 2
 
@@ -58,11 +58,12 @@ Les normes comptables ci-après sont réputées reconnues pour les entreprises q
 
 <sup>1</sup> Les prescriptions de l’Autorité fédérale de surveillance des marchés financiers (FINMA) en matière d’établissement des comptes pour les banques et les maisons de titres (art. 25 à 42 de l’ordonnance du 30 avril 2014 sur les banques[^2-1]) équivalent à une norme comptable reconnue pour les banques au sens de la loi du 8 novembre 1934 sur les banques et pour les maisons de titres au sens de la loi fédérale du 15 juin 2018 sur les établissements financiers.[^2-2]
 
-<sup>2</sup> Les prescriptions de la FINMA en matière de placements collectifs de capitaux (art. 91 LPCC) équivalent à une norme comptable reconnue pour les placements collectifs de capitaux au sens de la loi fédérale du 23 juin 2006 sur les placements collectifs de capitaux (LPCC)[^2-3].
+<sup>2</sup> Les prescriptions du Conseil fédéral et de la FINMA en matière de placements collectifs de capitaux (art. 91 et 118*i*, al. 6 de la loi du 23 juin 2006 sur les placements collectifs [LPCC][^2-3]) équivalent à une norme comptable reconnue pour les placements collectifs de capitaux au sens de la LPCC.[^2-4]
 
 [^2-1]: RS **952.01**
 [^2-2]: Nouvelle teneur selon l’annexe 1 ch. II 2 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^2-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 3
 
