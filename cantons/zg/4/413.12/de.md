@@ -4,13 +4,12 @@ number: "413.12"
 title: Reglement über die Organisation und den Betrieb der Bildungszentren
 short: Reglement Bildungszentren
 language: de
-version: 2023-02-24
-valid_until: 2024-02-29
-version_adopted: 2023-02-15
+version: 2024-03-01
+version_adopted: 2024-02-21
 adopted: 2007-12-19
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.12"
-pdf: "https://bgs.zg.ch/api/de/versions/2415/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2415/pdf_file"
 
 (Reglement Bildungszentren)
 
-Vom 19. Dezember 2007 (Stand 24. Februar 2023)
+Vom 19. Dezember 2007 (Stand 1. März 2024)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
@@ -124,11 +123,11 @@ beschliesst:
 
 <sup>1</sup> Lehrpersonen mit mindestens dem halben ordentlichen Pensum bilden die Lehrerinnen- und Lehrerkonferenz, die von der Rektorin oder vom Rektor geleitet wird. Die Schulleitung kann weitere Lehrpersonen einladen.
 
-<sup>2</sup> Die Konferenz dient der gegenseitigen Information. Sie hat Antragsrecht gegenüber der Schulleitung sowie das Recht, Eingaben an die Kommission zu richten.
+<sup>2</sup> Die Konferenz dient der gegenseitigen Information. Sie hat Antragsrecht gegenüber der Schulleitung sowie das Recht, Eingaben an die Schulkommission Berufsbildung zu richten.
 
 <sup>3</sup> Die Konferenz schlägt der Volkswirtschaftsdirektion die Vertreterin oder den Vertreter der Lehrerschaft in der Kommission zur Wahl vor.
 
-<sup>4</sup> Die Konferenz tagt mindestens einmal pro Semester auf Einladung der Rektorin oder des Rektors oder auf Antrag ihrer Mitglieder. Sie ist für ihre Mitglieder obligatorisch und wird in der Regel ausserhalb der Schulzeit durchgeführt.
+<sup>4</sup> Die Konferenz tagt mindestens einmal pro Semester auf Einladung der Rektorin oder des Rektors oder auf Antrag mindestens der Hälfte ihrer Mitglieder. Sie ist für ihre Mitglieder obligatorisch und wird in der Regel ausserhalb der Schulzeit durchgeführt.
 
 ## 3. Lehrpersonen
 
@@ -145,7 +144,7 @@ beschliesst:
 - a) unterrichten die Lernenden lernzielorientiert. Dazu gehört auch, dass sie den Unterricht bzw. die Bildungsmassnahmen planen, vorbereiten, organisieren, auswerten und dokumentieren;
 - b) informieren, beraten und unterstützen die Lernenden sowie die Schulleitung und arbeiten positiv mit ihnen zusammen;
 - c) dokumentieren die Unterrichtsqualitätsnachweise;
-- d) arbeiten in Teams bei Projekten, bei der Schulentwicklung und bei Lehrabschlussprüfungen mit;
+- d) arbeiten in Teams bei Projekten, bei der Schulentwicklung und im Rahmen des Qualifikationsverfahrens mit;
 - e) nehmen an angeordneten Mitarbeitergesprächen, Konferenzen, Sitzungen und Veranstaltungen teil;
 - f) bilden sich regelmässig und zielorientiert persönlich, fachlich sowie pädagogisch-didaktisch weiter. Sie nehmen insbesondere an schulinternen und schulexternen Weiterbildungsveranstaltungen teil. Die Weiterbildung hat sich auch an der Arbeits- und Berufswelt zu orientieren. Die Schulleitung kann Lehrpersonen anweisen, bestimmte Kurse zu besuchen.
 
@@ -189,7 +188,7 @@ beschliesst:
 
 **Zeugnis**
 
-<sup>1</sup> Berufliche Grundbildung: Zeugnisse über den obligatorischen schulischen Unterricht werden in der Regel pro Semester ausgestellt. Einzelheiten sind in den jeweiligen Bildungsverordnungen geregelt. Das Zeugnis ist vom verantwortlichen Berufsbildner bzw. von der verantwortlichen Berufsbildnerin und – bei Unmündigen – von einer oder einem Erziehungsberechtigten zu unterzeichnen.
+<sup>1</sup> Berufliche Grundbildung: Zeugnisse über den obligatorischen schulischen Unterricht werden in der Regel pro Semester ausgestellt. Einzelheiten sind in den jeweiligen Bildungsverordnungen geregelt. Das Zeugnis ist vom verantwortlichen Berufsbildner bzw. von der verantwortlichen Berufsbildnerin und – bei Unmündigen – von einer oder einem Erziehungsberechtigten zu visieren.
 
 <sup>2</sup> Berufliche Weiterbildung: Der Zeitpunkt und die Häufigkeit der Abgabe von Zeugnissen und ähnlichen Dokumenten richtet sich nach den Ausbildungskonzepten der betreffenden Angebote.
 
@@ -217,12 +216,6 @@ beschliesst:
 
 #### § 15
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2008 in Kraft.
-
-<sup>2</sup> Das Reglement über die Organisation und den Betrieb der Bildungszentren (Reglement Bildungszentren) vom 3. November 2006[^15-1] wird aufgehoben.
-
-[^15-1]: GS 28, 843
+**…**
 
 GS 29, 615
