@@ -4,13 +4,12 @@ number: "393.411"
 title: Verordnung zum Hundegesetz
 short: "Hundeverordnung, HuV"
 language: de
-version: 2016-05-01
-valid_until: 2024-02-29
-version_adopted: 2015-12-09
+version: 2024-03-01
+version_adopted: 2023-12-20
 adopted: 2012-03-07
 in_force: 2012-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/393.411"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2227/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3664/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2227/pdf_file"
 
 (Hundeverordnung, HuV)
 
-Vom 07.03.2012 (Stand 01.05.2016)
+Vom 07.03.2012 (Stand 01.03.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -58,7 +57,7 @@ beschliesst:
 - a) den Wegzug von Personen, gegen die Massnahmen gemäss § 9 Abs. 2 HuG verfügt wurden,
 - b) eingegangene Meldungen von ausserkantonal verfügten Massnahmen zum Schutz von Menschen und Tieren.
 
-<sup>2</sup> Sie meldet dem kantonalen Veterinärdienst nach erfolgloser Mahnung Hundehaltende, die nicht über die Sachkundenachweise gemäss Art. 68 TSchV verfügen.
+<sup>2</sup> …
 
 <sup>3</sup> Stellt die Gemeinde das Halten eines Hundes mit erhöhtem Gefährdungspotenzial ohne kantonale Berechtigung fest, erstattet sie dem kantonalen Veterinärdienst Meldung.
 
@@ -85,7 +84,7 @@ beschliesst:
 
 <sup>1</sup> Personen, die einen Hund halten oder für länger als drei Monate übernehmen, gelten als Hundehaltende. Sie haben die in § 7 Abs. 1 HuG normierten Sachverhalte innert zehn Tagen an die Wohnsitzgemeinde zu melden.
 
-<sup>2</sup> Das Halten eines Hundes aus eigener Zucht muss ab dem sechsten Lebensmonat gemeldet werden.
+<sup>2</sup> …
 
 #### § 6
 
@@ -138,6 +137,8 @@ beschliesst:
 - d) Pit Bull Terrier, American Pit Bull Terrier und American Bully,
 - e) Rottweiler.
 
+<sup>2</sup> Ausgenommen sind Rottweiler gemäss Absatz 1 lit. e, die durch das Bundesamt für Zoll und Grenzsicherheit (BAZG) sowie die Polizei als Diensthunde eingesetzt werden.
+
 #### § 12
 
 **Halteberechtigung; Unterlagen und Angaben**
@@ -164,7 +165,7 @@ beschliesst:
 
 <sup>1</sup> Hundehaltende, die eine Anerkennung gemäss § 15 HuG geltend machen wollen, haben die in anderen Kantonen oder im Ausland ausgestellten Berechtigungen zum Halten von Hunden mit erhöhtem Gefährdungspotenzial oder Nachweise absolvierter Hundeerziehungskurse und Prüfungen einzureichen.
 
-<sup>2</sup> Der kantonale Veterinärdienst kann weitere Unterlagen einfordern oder eine Wesensbeurteilung des Hundes vornehmen.
+<sup>2</sup> Der kantonale Veterinärdienst kann weitere Unterlagen einfordern oder eine Wesensüberprüfung des Hundes anordnen.
 
 #### § 14
 
@@ -172,9 +173,9 @@ beschliesst:
 
 <sup>1</sup> Die Halteberechtigung wird auf die hundehaltende Person ausgestellt und gilt nur für einen bestimmten Hund.
 
-<sup>2</sup> Gemeldete Tierheime nach Art. 101 Abs. 1 lit. a TSchV können vermittelbare Hunde mit erhöhtem Gefährdungspotenzial ohne Berechtigung halten. Sie führen eine Bestandskontrolle.
+<sup>2</sup> Gemeldete Tierheime gemäss Art. 101 Abs. 1 lit. a TSchV können vermittelbare Hunde mit erhöhtem Gefährdungspotenzial ohne Berechtigung halten. Sie melden umgehend Zu- und Abgänge solcher Hunde.
 
-<sup>3</sup> Mit der Halteberechtigung erhalten die Hundehaltenden einen Ausweis. Wer den Hund im öffentlich zugänglichen Raum frei laufen lässt, hat den Ausweis auf Verlangen der Polizei vorzuweisen.
+<sup>3</sup> Mit der Halteberechtigung erhalten die Hundehaltenden einen Ausweis. Auf Verlangen der Polizei, des BAZG und des Veterinärdienstes ist der Ausweis vorzuweisen.
 
 #### § 15
 
@@ -255,17 +256,17 @@ beschliesst:
 
 #### § 21
 
-**Grundsatz; Höhe; Rückerstattung**
+**Grundsatz; Höhe**
 
-<sup>1</sup> Für das Halten eines mehr als drei Monate alten Hundes ist eine Hundetaxe zu entrichten. Für Hunde aus eigener Zucht ist diese ab dem sechsten Lebensmonat zu leisten.
+<sup>1</sup> Für das Halten eines mehr als drei Monate alten Hundes ist eine Hundetaxe zu entrichten.
 
-<sup>2</sup> Die Hundetaxe beträgt pro Jahr Fr. 120.–. Sie wird im Monat Mai erhoben.
+<sup>2</sup> Die Hundetaxe beträgt pro Jahr Fr. 120.–. Sie wird im Monat Mai mit Stichtag 30. April erhoben.
 
-<sup>3</sup> Für die nach dem 31. Oktober bis zum 30. April taxpflichtig werdenden Hunde ist die halbe Taxe zu entrichten.
+<sup>3</sup> …
 
-<sup>4</sup> Personen, die die Hundetaxe entrichtet und zwischen dem 1. Mai und dem 31. Oktober die Hundehaltung aufgegeben und dies fristgerecht gemeldet haben, wird auf Antrag die Hälfte der Hundetaxe zurückerstattet.
+<sup>4</sup> …
 
-<sup>5</sup> Wer nach Bezahlung der Hundetaxe einen Hund ersetzt oder innerkantonal seine Wohnsitzgemeinde ändert, hat für das laufende Jahr keine weitere Abgabe zu entrichten.
+<sup>5</sup> …
 
 #### § 22
 
@@ -273,20 +274,26 @@ beschliesst:
 
 <sup>1</sup> Von der Hundetaxe befreit sind Hundehaltende von im Einsatz stehenden
 
-- a) Katastrophen- und Flächensuchhunden gemäss Schweizerischem Verein für Such- und Rettungshunde (REDOG),
+- a) Katastrophen- und Flächensuchhunden eines durch die Internationale Rettungshunde Organisation (IRO) zertifizierten Vereins,
 - a<sup>bis</sup>) Lawinenhunden der Alpinen Rettung Schweiz (ARS),
 - b) Blindenführhunden,
-- c) Behindertenhunden,
+- c) Assistenzhunden,
 - d) Schweisshunden,
-- e) Diensthunden, die in der Armee, beim Grenzwachtkorps oder bei der Polizei eingesetzt werden.
+- e) Diensthunden, die in der Armee, beim BAZG oder bei der Polizei eingesetzt werden,
+- f) Herdenschutzhunden, die durch das Bundesamt für Umwelt (BAFU) gefördert werden (offizielle Herdenschutzhunde),
+- g) weiteren Herdengebrauchshunden (Schäferhunde, Koppelgebrauchshunde, Treibhunde), die von direktzahlungsberechtigten Landwirtschaftsbetrieben eingesetzt werden,
+- h) Hunden, die für öffentliche Aufgaben eingesetzt werden oder dafür in Ausbildung sind.
 
 <sup>2</sup> Die Hundehaltenden gemäss Absatz 1 reichen der Gemeinde die für die Befreiung von der Hundetaxe erforderlichen Unterlagen ein. Im Einzelnen sind dies für
 
-- a) Katastrophen- und Flächensuchhunde (REDOG) und Lawinenhunde (ARS): Nachweis der Einsatzverpflichtung,
+- a) Katastrophen- und Flächensuchhunde eines durch die IRO zertifizierten Vereins sowie Lawinenhunde der ARS: Nachweis der Einsatzverpflichtung,
 - b) Blindenführhunde: Nachweis einer von der Invalidenversicherung (IV) anerkannten Blindenführhundeschule,
-- c) Behindertenhunde: Nachweis der Ausbildung durch den Schweizerischen Verein für die Ausbildung von Hilfshunden für motorisch Behinderte oder Epileptiker und Bescheinigung der IV über die Erfordernis,
-- d) Schweisshunde: Nachweis der bestandenen Prüfung und Bescheinigung des Obmanns der Jagdgesellschaft über den Einsatz als akkreditierter Schweisshund,
-- e) Diensthunde: Bescheinigung der vorgesetzten Amtsstelle.
+- c) Assistenzhunde: Nachweis der Ausbildung durch eine Organisation, die Mitglied der Assistance Dogs International ist, und Nachweis einer Kostengutsprache für den Hund durch die IV,
+- d) Schweisshunde: Nachweis der bestandenen Prüfung und Bescheinigung der Jagdgesellschaft über den Einsatz als akkreditierter Schweisshund,
+- e) Diensthunde: Bescheinigung der vorgesetzten Amtsstelle,
+- f) offizielle Herdenschutzhunde: entsprechende Registrierung in Amicus,
+- g) weitere Herdengebrauchshunde: Nachweis von Direktzahlungen an den Betrieb sowie einer erfolgreich abgeschlossenen Arbeitsprüfung beim Schweizerischen Verein für die Ausbildung von Herdengebrauchshunden (Swiss Sheep Dog Society) oder bei der landwirtschaftlichen Beratungszentrale Agridea,
+- h) Hunde, die für öffentliche Aufgaben eingesetzt werden oder dafür in Ausbildung stehen: Bestätigung der zuständigen Stelle.
 
 #### § 23
 
