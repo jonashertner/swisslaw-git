@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 sur les émoluments perçus en application
 short: Oem-LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: fr
-version: 2023-01-23
+version: 2024-03-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230123/fr"
 
 (Tarif des émoluments LEI, Oem-LEI)
 
-du 24 octobre 2007 (État le 23 janvier 2023)
+du 24 octobre 2007 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral,
 
@@ -215,7 +215,7 @@ Le SEM ou le DFAE, dans le cadre de sa compétence en matière de visas, peuvent
 - a. afin de protéger des intérêts culturels ou sportifs, des intérêts en matière de politique extérieure, des intérêts en matière de politique de développement ou d’autres domaines d’intérêt public essentiels pour la Suisse, ou
 - b. pour des raisons humanitaires ou en raison d’obligations internationales.[^12-4]
 
-<sup>3</sup> Le SEM ou le DFAE, dans le cadre de sa compétence en matière de visas, peut augmenter les émoluments à l’égard de ressortissants de certains États, si un accord international le prévoit.[^12-5]
+<sup>3</sup> Le SEM ou le DFAE, dans le cadre de sa compétence en matière de visas, peut augmenter ou réduire les émoluments à l’égard de ressortissants de certains États, si un accord international le prévoit.[^12-5]
 
 <sup>4</sup> Sont réservés les émoluments prévus dans les accords internationaux.
 
@@ -225,7 +225,7 @@ Le SEM ou le DFAE, dans le cadre de sa compétence en matière de visas, peuvent
 [^12-2]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
 [^12-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^12-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^12-5]: Nouvelle teneur selon le ch. I de l’O du 11 janv. 2023, en vigueur depuis le 11 janv. 2023 à 18 heures ([RO 2023 10](https://fedlex.data.admin.ch/eli/oc/2023/10)).
+[^12-5]: Nouvelle teneur selon le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 76](https://fedlex.data.admin.ch/eli/oc/2024/76)).
 
 #### Art. 13
 
@@ -256,7 +256,7 @@ Les visas sont délivrés gratuitement aux étrangers suivants:
   - 2\. ses ascendants et ceux de son conjoint qui sont à charge,
   - 3\. dans le cas d’un étudiant, son conjoint et leurs enfants à charge.[^13-4]
 
-<sup>1bis</sup> En dérogation à l’al. 1, let. c, les visas ne sont pas délivrés gratuitement aux titulaires d’un passeport officiel valable de la République de Gambie. Les engagements internationaux de la Suisse en tant qu’État hôte de conférences et d’organisations internationales sont réservés.[^13-5]
+<sup>1bis</sup> Par dérogation à l’al. 1, let. c, les visas ne sont pas délivrés gratuitement aux titulaires d’un passeport officiel valable émis par un État donné, si un accord international le prévoit. L’al. 1, let. i, ne s’applique pas. Les engagements internationaux de la Suisse en tant qu’État hôte de conférences et d’organisations internationales sont réservés.[^13-5]
 
 <sup>2</sup>
 
@@ -271,7 +271,7 @@ Après entente avec le DFAE, le SEM peut assujettir à l’émolument les titula
 [^13-2]: Recommandation du Parlement européen et du Conseil du 28 sept. 2005 visant à faciliter la délivrance par les États membres de visas uniformes de court séjour pour les chercheurs ressortissants de pays tiers se déplaçant aux fins de recherche scientifique dans la Communauté (JO L 289 du 3.11.2005, p. 23).
 [^13-3]: Introduite par le ch. II de l’O du 12 mars 2010, en vigueur depuis le 5 avr. 2010 ([RO 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
 [^13-4]: Nouvelle teneur selon le ch. I 2 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^13-5]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 5 nov. 2021 ([RO 2021 637](https://fedlex.data.admin.ch/eli/oc/2021/637)).
+[^13-5]: Introduit par le ch. I de l’O du 27 oct. 2021 ([RO 2021 637](https://fedlex.data.admin.ch/eli/oc/2021/637)). Nouvelle teneur selon le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 76](https://fedlex.data.admin.ch/eli/oc/2024/76)).
 [^13-6]: Introduit par le ch. I 2 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 ## Section 5 Dispositions finales

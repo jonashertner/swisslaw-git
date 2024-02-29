@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über die Gebühren zum Ausländer- und 
 short: GebV-AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: de
-version: 2023-01-23
+version: 2024-03-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20240301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230123/de"
 
 (Gebührenverordnung AIG, GebV-AIG)
 
-vom 24. Oktober 2007 (Stand am 23. Januar 2023)
+vom 24. Oktober 2007 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -216,7 +216,7 @@ Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann in E
 - a. dies der Förderung kultureller oder sportlicher Interessen oder aussenpolitischer, entwicklungspolitischer und sonstiger erheblicher öffentlicher Interessen der Schweiz dient; oder
 - b. humanitäre Gründe oder internationale Verpflichtungen bestehen.[^12-4]
 
-<sup>3</sup> Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann gegenüber von Staatsangehörigen bestimmter Staaten die Visumgebühr erhöhen, wenn ein internationales Abkommen dies vorsieht.[^12-5]
+<sup>3</sup> Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann gegenüber von Staatsangehörigen bestimmter Staaten die Visumgebühr erhöhen oder herabsetzen, wenn ein internationales Abkommen dies vorsieht.[^12-5]
 
 <sup>4</sup> Vorbehalten bleiben Visumgebühren, die in internationalen Abkommen festgelegt sind.
 
@@ -226,7 +226,7 @@ Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann in E
 [^12-2]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
 [^12-3]: Fassung gemäss Anhang Ziff. 1 der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^12-4]: Fassung gemäss Anhang Ziff. 1 der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^12-5]: Fassung gemäss Ziff. I der V vom 11. Jan. 2023, in Kraft seit 11. Jan. 2023 um 18.00 Uhr ([AS 2023 10](https://fedlex.data.admin.ch/eli/oc/2023/10)).
+[^12-5]: Fassung gemäss Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 76](https://fedlex.data.admin.ch/eli/oc/2024/76)).
 
 #### Art. 13
 
@@ -257,7 +257,7 @@ Folgenden Ausländerinnen und Ausländern wird das Visum gebührenfrei erteilt:
   - 2\. den Verwandten in aufsteigender Linie und den Verwandten des Ehegatten in aufsteigender Linie, denen Unterhalt gewährt wird,
   - 3\. bei Studentinnen/Studenten dem Ehegatten und den Kindern, denen Unterhalt gewährt wird.[^13-4]
 
-<sup>1bis</sup> In Abweichung von Absatz 1 Buchstabe c wird Inhaberinnen und Inhabern eines gültigen offiziellen Passes der Republik Gambia das Visum nicht gebührenfrei erteilt. Vorbehalten bleiben internationale Verpflichtungen der Schweiz als Gaststaat von Konferenzen und internationalen Organisationen.[^13-5]
+<sup>1bis</sup> In Abweichung von Absatz 1 Buchstabe c wird Inhaberinnen und Inhabern eines gültigen offiziellen Passes eines bestimmten Staates das Visum nicht gebührenfrei erteilt, wenn ein internationales Abkommen dies vorsieht. Absatz 1 Buchstabe i findet keine Anwendung. Vorbehalten bleiben internationale Verpflichtungen der Schweiz als Gaststaat von Konferenzen und internationalen Organisationen.[^13-5]
 
 <sup>2</sup>
 
@@ -272,7 +272,7 @@ Das SEM kann im Einvernehmen mit dem EDA Inhaberinnen und Inhaber eines offiziel
 [^13-2]: Empfehlung des Europäischen Parlaments und des Rates vom 28. Sept. 2005 zur Erleichterung der Ausstellung einheitlicher Visa durch die Mitgliedstaaten für den kurzfristigen Aufenthalt an Forscher aus Drittstaaten, die sich zu Forschungszwecken innerhalb der Gemeinschaft bewegen (ABl. L 289 vom 3.11.2005, S. 23).
 [^13-3]: Eingefügt durch Ziff. II der V vom 12. März 2010, in Kraft seit 5. April 2010 ([AS 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
 [^13-4]: Fassung gemäss Ziff. I 2 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^13-5]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 5. Nov. 2021 ([AS 2021 637](https://fedlex.data.admin.ch/eli/oc/2021/637)).
+[^13-5]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021 ([AS 2021 637](https://fedlex.data.admin.ch/eli/oc/2021/637)). Fassung gemäss Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 76](https://fedlex.data.admin.ch/eli/oc/2024/76)).
 [^13-6]: Eingefügt durch Ziff. I 2 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 ## 5. Abschnitt: Schlussbestimmungen
