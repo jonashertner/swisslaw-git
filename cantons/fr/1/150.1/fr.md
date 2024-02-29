@@ -4,13 +4,13 @@ number: "150.1"
 title: Code de procédure et de juridiction administrative
 short: CPJA
 language: fr
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-10-12
+version: 2024-03-01
+valid_until: 2026-09-30
+version_adopted: 2023-11-24
 adopted: 1991-05-23
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/150.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7924/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7947/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Code de procédure et de juridiction administrative (CPJA)
 
 (CPJA)
 
-du 23.05.1991 (version entrée en vigueur le 01.01.2024)
+du 23.05.1991 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1261,7 +1261,7 @@ Décrète:
 
 - a) la Commission de recours de l'Université;
 - b) la Commission de recours en matière d'améliorations foncières;
-- c) la Commission de recours en matière de premier relevé.
+- c) la Commission de recours en matière de premier relevé et de renouvellement.
 
 #### Art. 118
 

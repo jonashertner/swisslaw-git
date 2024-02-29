@@ -4,13 +4,13 @@ number: "150.1"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-10-12
+version: 2024-03-01
+valid_until: 2026-09-30
+version_adopted: 2023-11-24
 adopted: 1991-05-23
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/150.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7924/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7947/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gesetz über die Verwaltungsrechtspflege (VRG)
 
 (VRG)
 
-vom 23.05.1991 (Fassung in Kraft getreten am 01.01.2024)
+vom 23.05.1991 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1261,7 +1261,7 @@ beschliesst:
 
 - a) die Rekurskommission der Universität;
 - b) die Rekurskommission für Bodenverbesserungen;
-- c) die Rekurskommission für die Ersterhebung.
+- c) die Rekurskommission für die Ersterhebung und Erneuerung.
 
 #### Art. 118
 
