@@ -3,20 +3,20 @@ canton: AG
 number: "411.731"
 title: Verordnung über die Mittel der Schulräte der Bezirke und die Entschädigung deren Mitglieder
 language: de
-version: 2008-07-01
-valid_until: 2024-02-29
-version_adopted: 2008-04-23
+version: 2024-03-01
+valid_until: 2026-07-31
+version_adopted: 2023-12-20
 adopted: 2003-11-26
 in_force: 2004-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.731"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1317/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3396/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Mittel der Schulräte der Bezirke und die Entschädigung deren Mitglieder
 
-Vom 26.11.2003 (Stand 01.07.2008)
+Vom 26.11.2003 (Stand 01.03.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -31,29 +31,37 @@ beschliesst:
 
 **Mittel für allgemeine Aufgaben**
 
-<sup>1</sup> Zur Bestreitung der laufenden Ausgaben, die für die Erledigung der Aufgaben gemäss § 77 Abs. 1 und Abs. 2 des Schulgesetzes erforderlich sind, erhält der Schulrat jedes Bezirks jährlich einen Sockelbeitrag von Fr. 800.– zuzüglich einem Pauschalbetrag von Fr. 10.– pro Volksschulabteilung im jeweiligen Bezirk.
+<sup>1</sup> Zur Bestreitung der laufenden Ausgaben, die für die Erledigung allgemeiner Aufgaben und der Aufgabe gemäss § 77 Abs. 4 des Schulgesetzes erforderlich sind, erhält der Schulrat jedes Bezirks jährlich einen Sockelbeitrag von Fr. 1'000.– zuzüglich eines Pauschalbetrags von Fr. 15.– pro Volksschulabteilung im jeweiligen Bezirk.
 
-<sup>2</sup> Der Pauschalbetrag pro Volksschulabteilung wird reduziert, wenn die Reserven des Schulrats den Betrag gemäss Abs. 1 überschreiten.
+<sup>2</sup> Der Pauschalbetrag pro Volksschulabteilung wird reduziert, wenn die Reserven des Schulrats den Betrag gemäss Absatz 1 überschreiten.
+
+#### § 1a
+
+**Mittel für Orientierungs- und Weiterbildungsveranstaltungen**
+
+<sup>1</sup> Zusätzlich zu den Mitteln gemäss § 1 Abs. 1 richtet der Kanton jedem Schulrat des Bezirks auf Gesuch hin für durchgeführte Orientierungs- und Weiterbildungsveranstaltungen einen Beitrag von insgesamt höchstens Fr. 1'000.– pro Jahr aus.
+
+<sup>2</sup> Gesuche um Beiträge an Orientierungs- und Weiterbildungsveranstaltungen sind spätestens 3 Monate nach deren Durchführung beim zuständigen Departement einzureichen und ausreichend zu dokumentieren.
 
 #### § 2
 
-**Mittel für Beschwerden**
+**Mittel für Beschwerden und Beschwerdeentschädigung für die Mitglieder**
 
-<sup>1</sup> Für die Bearbeitung jeder Beschwerde gemäss § 77 Abs. 3 des Schulgesetzes richtet der Kanton dem Schulrat jedes Bezirks einen Pauschalbetrag von Fr. 800.– aus.
+<sup>1</sup> Für die Bearbeitung jeder Beschwerde gemäss § 77 Abs. 3 des Schulgesetzes richtet der Kanton dem Schulrat des betreffenden Bezirks einen Pauschalbetrag von Fr. 1'500.– aus.
+
+<sup>2</sup> Der Pauschalbetrag wird zur Entschädigung derjenigen Mitglieder eingesetzt, die eine Beschwerde bearbeiten.
+
+<sup>3</sup> Teilen sich mehrere Mitglieder die Bearbeitung einer Beschwerde, wird der Pauschalbetrag nach Massgabe des Aufwands unter ihnen aufgeteilt.
 
 #### § 3
 
 **Allgemeine Entschädigung für die Mitglieder**
 
-<sup>1</sup> Für die Teilnahme an Sitzungen und die Anfertigung von Protokollen im Zusammenhang mit den allgemeinen Aufgaben gemäss § 77 Abs. 1 und Abs. 2 des Schulgesetzes erhalten die Mitglieder der Schulräte vom Kanton Entschädigungen und Ersatz ihrer Auslagen gemäss Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen.
+<sup>1</sup> Für die Teilnahme an Sitzungen und die Anfertigung von Protokollen im Zusammenhang mit ihrer Tätigkeit als Schulrätinnen und Schulräte erhalten alle Mitglieder vom Kanton Entschädigungen und den Ersatz ihrer Auslagen gemäss dem Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen.
 
 #### § 4
 
-**Beschwerdeentschädigung für die Mitglieder**
-
-<sup>1</sup> Mitglieder der Schulräte, die Beschwerden bearbeiten, werden hiefür zusätzlich mit dem Pauschalbetrag gemäss § 2 entschädigt.
-
-<sup>2</sup> Teilen sich mehrere Mitglieder diese Aufgabe, wird der Pauschalbetrag nach Massgabe des Aufwands unter ihnen aufgeteilt.
+**…**
 
 #### § 5
 
@@ -69,7 +77,7 @@ beschliesst:
 
 **Inkasso und Mahnwesen**
 
-<sup>1</sup> Der Kanton übernimmt das Inkasso und Mahnwesen für die vom Schulrat im Beschwerdeverfahren erhobenen Staats- und Kanzleigebühren.
+<sup>1</sup> Der Kanton übernimmt das Inkasso und das Mahnwesen für die vom Schulrat im Beschwerdeverfahren erhobenen Staats- und Kanzleigebühren sowie Auslagen.
 
 #### § 7
 
