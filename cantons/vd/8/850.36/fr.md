@@ -4,7 +4,7 @@ number: "850.36"
 title: LOI du 10.02.2004 sur le recouvrement et les avances sur pensions alimentaires (LRAPA)
 short: LRAPA
 language: fr
-version: 2023-05-01
+version: 2024-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.36?id=9c8ecc6f-78bf-4105-8750-6989a62d5614"
 ---
 
@@ -127,10 +127,10 @@ décrète
 
 **Aide au recouvrement, mandat [^7-1]**
 
-<sup>1</sup> Le service entreprend les démarches amiables ou judiciaires utiles à permettre l'encaissement des prestations dues :
+<sup>1</sup> Le service entreprend les démarches amiables ou judiciaires utiles en vue de permettre l'encaissement des prestations dues à la personne créancière.
 
-- a. à un enfant ;
-- b. à un adulte se trouvant dans une situation économique difficile, telle que définie par un règlement du Conseil d'Etat.
+- a. ...
+- b. ...
 
 <sup>1bis</sup> Il agit en qualité de mandataire de la personne créancière.
 
@@ -141,13 +141,17 @@ décrète
 
 <sup>3</sup> Il verse à la personne créancière les montants recouvrés dans leur intégralité.
 
-[^7-1]: Modif. 6 du 22.11.2022: Modification Al. 1; entrée en vigueur au 01.05.2023; Introduction Al. 1, a-b; entrée en vigueur au 01.05.2023; Introduction Al. 1bis; entrée en vigueur au 01.05.2023; Abrogation Al. 2; entrée en vigueur au 01.05.2023; Modification Al. 3; entrée en vigueur au 01.05.2023 · Modif. 7 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.03.2024; Abrogation Al. 1, a-b; entrée en vigueur au 01.03.2024; Introduction Art. 9, Al. 1bis,1ter; entrée en vigueur au 01.03.2024
+[^7-1]: Modif. 6 du 22.11.2022: Modification Al. 1; entrée en vigueur au 01.05.2023; Introduction Al. 1, a-b; entrée en vigueur au 01.05.2023; Introduction Al. 1bis; entrée en vigueur au 01.05.2023; Abrogation Al. 2; entrée en vigueur au 01.05.2023; Modification Al. 3; entrée en vigueur au 01.05.2023 · Modif. 7 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.03.2024; Abrogation Al. 1, a-b; entrée en vigueur au 01.03.2024
 
 #### Art. 9
 
 **Avances sur contributions d'entretien, cession [^8-1]**
 
 <sup>1</sup> L'Etat peut accorder à la personne créancière, qui se trouve dans une situation économique difficile, des avances totales ou partielles sur les contributions d'entretien courantes. Un règlement du Conseil d'Etat fixe les limites de fortune et de revenu en deçà desquelles les avances sont octroyées, ainsi que les limites d'avances.
+
+<sup>1bis</sup> L'Etat n'octroie aucun droit aux avances sur contributions d'entretien à la personne créancière sans enfants à charge.
+
+<sup>1ter</sup> En dérogation à l'alinéa 1bis, l'enfant majeur peut prétendre à une avance sur contributions d'entretien lorsqu'il ne fait pas ménage commun avec ses parents.
 
 <sup>2</sup> L'octroi d'avances à la personne créancière est subordonné à la cession à l'Etat de ses droits sur la contribution d'entretien future. L'Etat est subrogé au créancier jusqu'à concurrence des avances accordées.
 
