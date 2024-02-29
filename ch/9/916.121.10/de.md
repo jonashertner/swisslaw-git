@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 1998 über die Ein- und Ausfuhr von Gemüse, 
 short: VEAGOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: de
-version: 2023-01-01
+version: 2024-03-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20240301-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/de"
 
 (VEAGOG)
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2023)
+vom 7. Dezember 1998 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -259,16 +259,16 @@ Die Anteile an den Zollkontingenten Nummer 20 und 21 werden nach der Reihenfolge
 <sup>2</sup> Das Zollkontingent wird in folgenden Teilmengen für die Einfuhr freigegeben:
 
 <table>
-<tr><td>Zollkontingentsteilmenge</td><td>Periode für die Einfuhr zum KZA</td></tr>
-<tr><td>20 000 Pflanzen</td><td>2. Februar bis 31. Dezember</td></tr>
-<tr><td>20 000 Pflanzen</td><td>2. März bis 31. Dezember</td></tr>
-<tr><td>10 000 Pflanzen</td><td>3. November bis 31. Dezember</td></tr>
-<tr><td>10 000 Pflanzen</td><td>30. November bis 31. Dezember.[^18a-3]</td></tr>
+<tr><th>Zollkontingentsteilmenge</th><th>Periode für die Einfuhr zum KZA</th></tr>
+<tr><td>20 000 Pflanzen</td><td>3. Februar bis 31. Dezember</td></tr>
+<tr><td>20 000 Pflanzen</td><td>4. März bis 31. Dezember</td></tr>
+<tr><td>10 000 Pflanzen</td><td>4. November bis 31. Dezember</td></tr>
+<tr><td>10 000 Pflanzen</td><td>2. Dezember bis 31. Dezember.[^18a-3]</td></tr>
 </table>
 
 [^18a-1]: Eingefügt durch Ziff. I der V vom 8. März 2002 ([AS 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)). Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Febr. 2010 ([AS 2009 6361](https://fedlex.data.admin.ch/eli/oc/2009/775)).
 [^18a-2]: [SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^18a-3]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+[^18a-3]: Fassung gemäss Ziff. I der V des BLW vom 10. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 55](https://fedlex.data.admin.ch/eli/oc/2024/55)).
 
 ## 3. Kapitel: Vollzugsbestimmungen
 

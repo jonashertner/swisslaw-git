@@ -4,11 +4,11 @@ title: "Ordinanza del 7 dicembre 1998 concernente l'importazione e l'esportazion
 short: OIEVFF
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: it
-version: 2023-01-01
+version: 2024-03-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20240301-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/it"
 
 (OIEVFF)
 
-del 7 dicembre 1998 (Stato 1° gennaio 2023)
+del 7 dicembre 1998 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -259,16 +259,16 @@ Le quote dei contingenti doganali n. 20 e 21 sono attribuite in funzione dell'or
 <sup>2</sup> Il contingente doganale è liberato per l’importazione nella misura delle parti seguenti:
 
 <table>
-<tr><td>Parte del contingente doganale</td><td>Periodo per l’importazione all’ADC</td></tr>
-<tr><td>20 000 piante</td><td>2 febbraio – 31 dicembre</td></tr>
-<tr><td>20 000 piante</td><td>2 marzo – 31 dicembre</td></tr>
-<tr><td>10 000 piante</td><td>3 novembre – 31 dicembre</td></tr>
-<tr><td>10 000 piante</td><td>30 novembre – 31 dicembre.[^18a-3]</td></tr>
+<tr><th>Parte del contingente doganale</th><th>Periodo per l’importazione all’ADC</th></tr>
+<tr><td>20 000 piante</td><td>3 febbraio – 31 dicembre</td></tr>
+<tr><td>20 000 piante</td><td>4 marzo – 31 dicembre</td></tr>
+<tr><td>10 000 piante</td><td>4 novembre – 31 dicembre</td></tr>
+<tr><td>10 000 piante</td><td>2 dicembre – 31 dicembre.[^18a-3]</td></tr>
 </table>
 
 [^18a-1]: Introdotto dal n. I dell’O dell’ 8 mar. 2002 ([RU 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)). Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° feb. 2010 ([RU 2009 6361](https://fedlex.data.admin.ch/eli/oc/2009/775)).
 [^18a-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^18a-3]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+[^18a-3]: Nuovo testo giusta il n. I dell’O dell’UFAG del 10 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 55](https://fedlex.data.admin.ch/eli/oc/2024/55)).
 
 ## Capitolo 3: Disposizioni d’esecuzione
 

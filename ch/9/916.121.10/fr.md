@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 1998 sur l'importation et l'exportation de lé
 short: OIELFP
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: fr
-version: 2023-01-01
+version: 2024-03-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20240301-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/fr"
 
 (OIELFP)
 
-du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2023)
+du 7 décembre 1998 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -261,16 +261,16 @@ Les parts des contingents tarifaires n<sup>os</sup> 20 et 21 sont attribuées da
 <sup>2</sup> Le contingent tarifaire est libéré à raison des parties de contingent tarifaire suivantes:
 
 <table>
-<tr><td>Partie de contingent tarifaire</td><td>Période réservée à l’importation au TC</td></tr>
-<tr><td>20 000 plants</td><td>2 février au 31 décembre</td></tr>
-<tr><td>20 000 plants</td><td>2 mars au 31 décembre</td></tr>
-<tr><td>10 000 plants</td><td>3 novembre au 31 décembre</td></tr>
-<tr><td>10 000 plants</td><td>30 novembre au 31 décembre [^18a-3]</td></tr>
+<tr><th>Partie de contingent tarifaire</th><th>Période réservée à l’importation au TC</th></tr>
+<tr><td>20 000 plants</td><td>3 février au 31 décembre</td></tr>
+<tr><td>20 000 plants</td><td>4 mars au 31 décembre</td></tr>
+<tr><td>10 000 plants</td><td>4 novembre au 31 décembre</td></tr>
+<tr><td>10 000 plants</td><td>2 décembre au 31 décembre .[^18a-3]</td></tr>
 </table>
 
 [^18a-1]: Introduit par le ch. I de l’O du 8 mars 2002 ([RO 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)). Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> fév. 2010 ([RO 2009 6361](https://fedlex.data.admin.ch/eli/oc/2009/775)).
 [^18a-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^18a-3]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+[^18a-3]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 10 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 (RO **20****24** 55).
 
 ## Chapitre 3 Dispositions d’exécution
 
