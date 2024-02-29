@@ -4,11 +4,11 @@ title: "Ordinanza del 22 giugno 2011 sulle fondazioni d'investimento (OFond)"
 short: OFond
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: it
-version: 2022-01-01
+version: 2024-03-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-459-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/it"
 
 (OFond)
 
-del 10 e 22 giugno 2011 (Stato 1° gennaio 2022)
+del 10 e 22 giugno 2011 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -587,12 +587,13 @@ Ai gruppi d’investimento misti si applicano i principi seguenti:[^29-1]
 Gli investimenti alternativi sono autorizzati mediante:
 
 - a. i gruppi d’investimento secondo l’articolo 28;
-- b. gli investimenti collettivi assoggettati alla vigilanza della FINMA o a un’autorità di vigilanza straniera equivalente oppure autorizzati dalla FINMA alla distribuzione in Svizzera;
+- b.[^29-4] gli investimenti collettivi secondo l’articolo 30;
 - c. i certificati e i prodotti strutturati, sempre che si basino su un ampio indice nel settore degli investimenti alternativi.
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del 21 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 [^29-2]: Introdotta dal n. I dell’O del 21 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 [^29-3]: Introdotta dal n. I dell’O del 21 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^29-4]: Nuovo testo giusta l’all. n. 4 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 30
 
@@ -606,19 +607,30 @@ Gli investimenti alternativi sono autorizzati mediante:
 
 <sup>3</sup>
 
-La quota di un investimento collettivo non può eccedere il 20 per cento del patrimonio del gruppo d’investimento, salvo se l’investimento collettivo:
+Il patrimonio d’investimento può essere collocato in investimenti collettivi svizzeri, se l’investimento collettivo:
 
-- a. è assoggettato alla vigilanza della FINMA o è stato autorizzato da quest’ultima alla distribuzione in Svizzera;
-- b. è stato lanciato da fondazioni d’investimento svizzere.
+- a. è assoggettato alla vigilanza della FINMA;
+- b. è stato lanciato da fondazioni d’investimento svizzere; o
+- c. è un fondo riservato a investitori qualificati (L-QIF) secondo la legge del 23 giugno 2006[^30-3] sugli investimenti collettivi (LICol).[^30-4]
 
-<sup>3bis</sup> La quota di un investimento collettivo estero può eccedere il 20 per cento del patrimonio del gruppo d’investimento, se questo investimento è stato autorizzato da un’autorità di vigilanza estera con cui la FINMA ha concluso un accordo ai sensi dell’articolo 120 capoverso 2 lettera e della legge del 23 giugno 2006[^30-3] sugli investimenti collettivi.[^30-4]
+<sup>3bis</sup>
+
+La quota di un investimento collettivo estero deve essere limitata a un massimo del 20 per cento del patrimonio del gruppo d’investimento; può eccedere il 20 per cento del patrimonio del gruppo d’investimento se:
+
+- a. l’investimento collettivo è stato approvato dalla FINMA conformemente all’articolo 120 capoverso 1 LICol;
+- b. l’investimento collettivo è assoggettato alla vigilanza di un’autorità di vigilanza estera con cui la FINMA ha concluso un accordo ai sensi dell’articolo 120 capoverso 2 lettera e LICol; o
+- c. la direzione del fondo o la società del fondo nonché l’amministratore di patrimoni dell’investimento collettivo e l’ente di custodia sono assoggettati alla vigilanza della FINMA o di un’autorità di vigilanza estera con cui la FINMA ha concluso un accordo ai sensi dell’articolo 120 capoverso 2 lettera e LICol.[^30-5]
+
+<sup>3ter</sup> Nel caso di investimenti secondo il capoverso 3 lettera c o 3<sup>bis</sup> lettera c, la fondazione deve informare gli investitori, per scritto, sui rischi legati a questo investimento.[^30-6]
 
 <sup>4</sup> Il ricorso a investimenti collettivi non può pregiudicare il rispetto delle direttive di investimento né la salvaguardia della responsabilità gestionale.
 
 [^30-1]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 [^30-2]: Nuovo testo del per. giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 [^30-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^30-4]: Introdotto dal n. I dell’O del 21 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^30-4]: Nuovo testo giusta l’all. n. 4 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^30-5]: Introdotto dal n. I dell’O del 21 giu. 2019 ([RU 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)). Nuovo testo giusta l’all. n. 4 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^30-6]: Introdotto dall’all. n. 4 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 31
 

@@ -4,11 +4,11 @@ title: Verordnung vom 22. Juni 2011 über die Anlagestiftungen (ASV)
 short: ASV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: de
-version: 2022-01-01
+version: 2024-03-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-459-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/de"
 
 (ASV)
 
-vom 10. und 22. Juni 2011 (Stand am 1. Januar 2022)
+vom 10. und 22. Juni 2011 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -587,12 +587,13 @@ Für gemischte Anlagegruppen gelten folgende Grundsätze:[^29-1]
 Alternative Anlagen sind zulässig mittels:
 
 - a. Anlagegruppen nach Artikel 28; oder
-- b. kollektiven Anlagen, die der Aufsicht der FINMA oder einer gleichwertigen ausländischen Aufsichtsbehörde unterstehen oder von der FINMA in der Schweiz zum Vertrieb zugelassen sind;
+- b.[^29-4] kollektiver Anlagen nach Artikel 30;
 - c. Zertifikaten und strukturierten Produkten, sofern sie auf einen breiten Index im Bereich alternativer Anlagen ausgerichtet sind.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 21. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 [^29-2]: Eingefügt durch Ziff. I der V vom 21. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 [^29-3]: Eingefügt durch Ziff. I der V vom 21. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^29-4]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 30
 
@@ -606,19 +607,30 @@ Alternative Anlagen sind zulässig mittels:
 
 <sup>3</sup>
 
-Der Anteil einer kollektiven Anlage ist auf höchstens 20 Prozent des Vermögens der Anlagegruppe zu beschränken, sofern die kollektive Anlage nicht:
+Anlagevermögen darf in schweizerischen kollektiven Anlagen angelegt werden, wenn die kollektive Anlage:
 
-- a. der Aufsicht der FINMA untersteht oder von ihr in der Schweiz zum Vertrieb zugelassen ist;
-- b. von schweizerischen Anlagestiftungen aufgelegt wurde.
+- a. der Aufsicht der FINMA untersteht;
+- b. von schweizerischen Anlagestiftungen aufgelegt wurde; oder
+- c. ein Limited Qualified Investor Fund nach dem Kollektivanlagengesetz vom 23. Juni 2006[^30-3] (KAG) ist.[^30-4]
 
-<sup>3bis</sup> Der Anteil einer ausländischen kollektiven Anlage kann mehr als 20 Prozent des Vermögens der Anlagegruppe betragen, sofern diese Anlage von einer ausländischen Aufsichtsbehörde zugelassen ist, mit welcher die FINMA eine Vereinbarung nach Artikel 120 Absatz 2 Buchstabe e des Kollektivanlagengesetzes vom 23. Juni 2006[^30-3] abgeschlossen hat.[^30-4]
+<sup>3bis</sup>
+
+Der Anteil einer ausländischen kollektiven Anlage ist auf höchstens 20 Prozent des Vermögens einer Anlagegruppe zu beschränken; er darf mehr als 20 Prozent des Vermögens der Anlagegruppe betragen, wenn:
+
+- a. die kollektive Anlage von der FINMA nach Artikel 120 Absatz 1 KAG genehmigt wurde;
+- b. die kollektive Anlage der Aufsicht einer ausländischen Aufsichtsbehörde untersteht, mit der die FINMA eine Vereinbarung nach Artikel 120 Absatz 2 Buchstabe e KAG abgeschlossen hat; oder
+- c. die Fondsleitung oder die Fondsgesellschaft sowie der Vermögensverwalter der kollektiven Anlage und die Verwahrstelle der Aufsicht der FINMA oder einer ausländischen Aufsichtsbehörde unterstehen, mit der die FINMA eine Vereinbarung nach Artikel 120 Absatz 2 Buchstabe e KAG abgeschlossen hat.[^30-5]
+
+<sup>3ter</sup> Die Stiftung muss die Anleger bei Anlagen nach Absatz 3 Buchstabe c oder Absatz 3<sup>bis</sup> Buchstabe c über die mit dieser Investition verbundenen Risiken schriftlich informieren.[^30-6]
 
 <sup>4</sup> Die Anlage in kollektiven Anlagen darf die Einhaltung der Anlagerichtlinien und die Wahrung der Führungsverantwortung nicht beeinträchtigen.
 
 [^30-1]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 [^30-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 17. Nov. 2022, in Kraft seit 1. Jan. 2022 ([AS 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 [^30-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^30-4]: Eingefügt durch Ziff. I der V vom 21. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^30-4]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^30-5]: Eingefügt durch Ziff. I der V vom 21. Juni 2019 ([AS 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)). Fassung gemäss Anhang Ziff. 4 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^30-6]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 31
 

@@ -4,11 +4,11 @@ title: Ordonnance du 22 juin 2011 sur les fondations de placement (OFP)
 short: OFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: fr
-version: 2022-01-01
+version: 2024-03-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-459-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/fr"
 
 (OFP)
 
-des 10 et 22 juin 2011 (État le 1<sup>er</sup> janvier 2022)
+des 10 et 22 juin 2011 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -587,12 +587,13 @@ Les principes suivants s’appliquent pour les groupes de placements mixtes:[^29
 Les placements alternatifs sont autorisés au moyen:
 
 - a. de groupes de placements au sens de l’art. 28;
-- b. de placements collectifs soumis à la surveillance de la FINMA ou d’une autorité de surveillance étrangère comparable, ou autorisés à la vente en Suisse par la FINMA;
+- b.[^29-4] de placements collectifs au sens de l’art. 30;
 - c. de certificats et de produits structurés, à condition qu’ils s’opèrent en fonction d’un large indice du domaine des placements alternatifs.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 [^29-2]: Introduite par le ch. I de l’O du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 [^29-3]: Introduite par le ch. I de l’O du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^29-4]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 30
 
@@ -606,19 +607,30 @@ Les placements alternatifs sont autorisés au moyen:
 
 <sup>3</sup>
 
-La part d’un placement collectif est limitée à 20 % au maximum de la fortune du groupe de placements, pour autant que le placement collectif:
+La fortune de placement peut être placée dans des placements collectifs suisses si le placement collectif:
 
-- a. n’est pas soumis à la surveillance de la FINMA ou autorisé par celle-ci à la vente en Suisse;
-- b. n’a pas été lancé par des fondations de placement suisses.
+- a. est soumis à la surveillance de la FINMA;
+- b. a été lancé par des fondations de placement suisse, ou
+- c. est un *Limited Qualified Investor Fund* au sens de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^30-3].[^30-4]
 
-<sup>3bis</sup> La part d’un placement collectif étranger peut dépasser 20 % de la fortune du groupe de placements si ce placement est autorisé par une autorité de surveillance étrangère avec laquelle la FINMA a conclu une convention en vertu de l’art. 120, al. 2, let. e, de la loi du 23 juin 2006 sur les placements collectifs[^30-3].[^30-4]
+<sup>3bis</sup>
+
+La part d’un placement collectif étranger doit être limitée à 20 % de la fortune du groupe de placements; elle peut dépasser 20 % de la fortune si:
+
+- a. le placement collectif a été approuvé par la FINMA conformément à l’art. 120, al. 1, LPCC;
+- b. le placement collectif est soumis à la surveillance d’une autorité de surveillance étrangère avec laquelle la FINMA a conclu une convention en vertu de l’art. 120, al. 2, let. e, LPCC, ou
+- c. la direction du fonds ou la société de fonds ainsi que le gestionnaire du placement collectif et le dépositaire sont soumis à la surveillance de la FINMA ou d’une autorité de surveillance étrangère avec laquelle la FINMA a conclu une convention en vertu de l’art. 120, al. 2, let. e, LPCC.[^30-5]
+
+<sup>3ter</sup> En cas de placement selon l’al. 3, let. c, ou l’al. 3<sup>bis</sup>, let c, la fondation doit informer les investisseurs des risques liés à cet investissement en la forme écrite.[^30-6]
 
 <sup>4</sup> Le placement dans des placements collectifs ne peut pas porter atteinte au respect des directives de placement et de la responsabilité de direction.
 
 [^30-1]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 [^30-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 [^30-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^30-4]: Introduit par le ch. I de l’O du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^30-4]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^30-5]: Introduit par le ch. I de l’O du 21 juin 2019 ([RO 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^30-6]: Introduit par l’annexe ch. 4 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 31
 
