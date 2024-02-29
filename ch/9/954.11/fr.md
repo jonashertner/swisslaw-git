@@ -4,11 +4,11 @@ title: Ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)
 short: OEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: fr
-version: 2023-01-23
+version: 2024-03-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20240301-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/fr"
 
 (OEFin)
 
-du 6 novembre 2019 (État le 23 janvier 2023)
+du 6 novembre 2019 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -713,6 +713,16 @@ La FINMA délivre l’autorisation visée à l’art. 24, al. 3, LEFin au gestio
 - b. s’il remplit les conditions d’autorisation ressortant de l’art. 24, al. 1, LEFin, et
 - c. si le droit suisse ou le droit étranger applicable prévoit que la gestion de fortune collective ne peut être déléguée qu’à un gestionnaire de fortune collective soumis à surveillance.
 
+#### Art. 36a
+
+**Autorisation complémentaire**[^36a-1]
+
+### (art. 6 LEFin)
+
+Les gestionnaires de fortune collective qui veulent également exercer l’activité de trustee doivent obtenir une autorisation complémentaire.
+
+[^36a-1]: Introduit par l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
 #### Art. 37
 
 **Organisation**
@@ -861,7 +871,9 @@ Sont considérés comme des frais fixes au sens de l’al. 1:
 
 <sup>5</sup> La part des charges de personnel qui dépend exclusivement du résultat de l’exploitation ou qui ne peut faire l’objet d’aucune prétention est déduite des charges de personnel.
 
-<sup>6</sup> La FINMA peut accorder des assouplissements si les circonstances le justifient.
+<sup>6</sup> La FINMA peut décider d’assouplir ou de renforcer ces exigences si les circonstances le justifient.[^44-1]
+
+[^44-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 45
 
@@ -923,11 +935,13 @@ Doivent être déduits lors du calcul des fonds propres:
 
 <sup>1</sup> Les gestionnaires de fortune collective sont soumis aux dispositions du CO[^47-1] régissant l’établissement des comptes. S’ils sont également soumis à des prescriptions en matière d’établissement des comptes plus strictes prévues par une législation spéciale, celles-ci priment.
 
-<sup>2</sup> Le gestionnaire de fortune collective remet son rapport de gestion et le rapport détaillé destiné à l’organe responsable de la haute direction, de la surveillance et du contrôle à la FINMA dans les 30 jours qui suivent leur approbation par l’organe responsable de la gestion. Il joint au rapport de gestion un état des fonds propres nécessaires et de ceux disponibles à la date de clôture du bilan.
+<sup>2</sup> Le gestionnaire de fortune collective remet à la FINMA son rapport de gestion, le rapport de révision synthétique à l’intention de l’assemblée générale ou de l’assemblée des associés et le rapport de révision détaillé destiné à l’organe responsable de la haute direction, de la surveillance et du contrôle dans les six mois qui suivent la clôture de l’exercice financier. Il joint au rapport de gestion un état des fonds propres nécessaires et de ceux disponibles à la date de clôture du bilan.[^47-2]
 
-<sup>3</sup> L’al. 2 n’est pas applicable aux gestionnaires de fortune collective qui bénéficient d’une dérogation fondée sur l’art. 37, al. 5.
+<sup>3</sup> Les gestionnaires de fortune collective qui, en vertu de l’art. 37, al. 4 et 5, sont libérés de l’obligation de désigner un organe particulier pour la haute direction, la surveillance et le contrôle, n’ont pas l’obligation d’établir le rapport de révision détaillé.[^47-3]
 
 [^47-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^47-2]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^47-3]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 48
 
@@ -957,6 +971,16 @@ Gérer des fonds de placement de façon indépendante et en son propre nom pour 
 <sup>2</sup> Les établissements financiers qui s’occupent exclusivement de l’administration d’une société d’investissement à capital variable (SICAV) à gestion externe au sens de la LPCC[^49-1] exercent une activité de gestion de fonds de placement et sont soumis à autorisation en tant que direction de fonds, conformément à l’art. 5, al. 1, en relation avec l’art. 32 LEFin.
 
 [^49-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+
+#### Art. 49a
+
+**Autorisation complémentaire**[^49a-1]
+
+### (art. 6 LEFin)
+
+Les directions de fonds qui veulent également opérer en tant que trustees doivent obtenir une autorisation complémentaire.
+
+[^49a-1]: Introduit par l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 50
 
@@ -1177,9 +1201,10 @@ Doivent être déduits lors du calcul des fonds propres:
 
 <sup>1</sup> Les directions de fonds sont soumises aux dispositions du CO[^62-1] régissant l’établissement des comptes. Si elles sont également soumises à des prescriptions en matière d’établissement des comptes plus strictes prévues par une législation spéciale, celles-ci priment.
 
-<sup>2</sup> La direction de fonds remet son rapport de gestion et le rapport détaillé destiné à l’organe responsable de la haute direction, de la surveillance et du contrôle à la FINMA dans les 30 jours qui suivent leur approbation par l’organe responsable de la gestion. Elle joint au rapport de gestion un état des fonds propres nécessaires et de ceux disponibles à la date de clôture du bilan.
+<sup>2</sup> La direction de fonds remet à la FINMA son rapport de gestion, le rapport de révision synthétique à l’intention de l’assemblée générale et le rapport de révision détaillé destiné à l’organe responsable de la haute direction, de la surveillance et du contrôle dans les six mois qui suivent la clôture de l’exercice financier. Elle joint au rapport de gestion un état des fonds propres nécessaires et de ceux disponibles à la date de clôture du bilan.[^62-2]
 
 [^62-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-2]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 63
 
@@ -1597,8 +1622,14 @@ La représentation d’un établissement financier étranger qui fournit des ser
 
 <sup>2</sup> L’interdiction visée à l’art. 58, al. 2, LEFin[^82-2] d’établir une représentation en Suisse pour une direction de fonds étrangère s’applique exclusivement aux activités de représentation afférentes à la direction et à l’administration de fonds de placement.
 
+<sup>3</sup> Lorsqu’un établissement financier étranger établit plusieurs représentations en Suisse, il doit demander une autorisation pour chaque représentation.[^82-3]
+
+<sup>4</sup> L’établissement financier étranger qui souhaite dissoudre une représentation doit en demande préalablement l’autorisation à la FINMA.[^82-4]
+
 [^82-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 [^82-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^82-3]: Introduit par l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^82-4]: Introduit par l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Chapitre 3 Surveillance
 
@@ -1637,10 +1668,13 @@ L’organisme de surveillance contrôle de manière continue si les assujettis, 
 
 <sup>5</sup> Seule la FINMA est habilitée à rendre des décisions. Elle intervient dans la surveillance courante exercée par l’organisme de surveillance lorsque c’est nécessaire pour assurer l’application des lois sur les marchés financiers énumérées à l’art. 1, al. 1, LFINMA.
 
+<sup>6</sup> Lorsque des gestionnaires de fortune collective ou des directions de fonds opèrent en tant que trustees, la FINMA exerce la surveillance courante de cette activité. La société chargée de l’audit doit être la même que celle qui contrôle l’activité de gestionnaire de fortune collective ou de direction de fonds en vertu de l’art. 63, al. 1, LEFin.[^84-5]
+
 [^84-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^84-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 [^84-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^84-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^84-5]: Introduit par l’annexe ch. 8 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 85
 

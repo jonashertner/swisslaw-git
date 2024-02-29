@@ -4,11 +4,11 @@ title: "Verordnung vom 6. November 2019 über die Finanzinstitute (Finanzinstitu
 short: FINIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: de
-version: 2023-01-23
+version: 2024-03-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20240301-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/de"
 
 (Finanzinstitutsverordnung, FINIV)
 
-vom 6. November 2019 (Stand am 23. Januar 2023)
+vom 6. November 2019 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -713,6 +713,16 @@ Die FINMA erteilt einem Vermögensverwalter nach Artikel 24 Absatz 2 FINIG eine 
 - b. die Bewilligungsvoraussetzungen nach Artikel 24 Absatz 1 FINIG erfüllt sind; und
 - c. das schweizerische oder das anwendbare ausländische Recht vorsieht, dass die Verwaltung von Kollektivvermögen nur einem beaufsichtigten Verwalter von Kollektivvermögen übertragen werden kann.
 
+#### Art. 36a
+
+**Zusatzbewilligung**[^36a-1]
+
+### (Art. 6 FINIG)
+
+Verwalter von Kollektivvermögen, die auch als Trustees tätig werden wollen, brauchen dafür eine Zusatzbewilligung.
+
+[^36a-1]: Eingefügt durch Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
 #### Art. 37
 
 **Organisation**
@@ -860,7 +870,9 @@ Als Fixkosten nach Absatz 1 gelten:
 
 <sup>5</sup> Der Teil des Personalaufwandes, der ausschliesslich vom Geschäftsergebnis abhängig ist oder auf den kein Rechtsanspruch besteht, ist vom Personalaufwand abzuziehen.
 
-<sup>6</sup> Die FINMA kann in begründeten Fällen Erleichterungen gewähren.
+<sup>6</sup> Die FINMA kann in begründeten Fällen Erleichterungen gewähren oder Verschärfungen anordnen.[^44-1]
+
+[^44-1]: Fassung gemäss Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 45
 
@@ -922,11 +934,13 @@ Bei der Berechnung der Eigenmittel sind abzuziehen:
 
 <sup>1</sup> Auf Verwalter von Kollektivvermögen kommen die Rechnungslegungsvorschriften des OR[^47-1] zur Anwendung. Unterliegen die Verwalter von Kollektivvermögen strengeren spezialgesetzlichen Rechnungslegungsvorschriften, so gehen diese vor.
 
-<sup>2</sup> Der Verwalter von Kollektivvermögen reicht den Geschäftsbericht und den umfassenden Bericht an das Organ für die Oberleitung, Aufsicht und Kontrolle innerhalb von 30 Tagen nach der Genehmigung durch das Organ für die Geschäftsführung der FINMA ein. Er legt dem Geschäftsbericht eine Aufstellung über die am Bilanzstichtag vorgeschriebenen und die vorhandenen Eigenmittel bei.
+<sup>2</sup> Der Verwalter von Kollektivvermögen reicht den Geschäftsbericht, den zusammenfassenden Revisionsbericht an die General- oder Gesellschafterversammlung und den umfassenden Revisionsbericht an das Organ für die Oberleitung, Aufsicht und Kontrolle innerhalb von sechs Monaten nach Abschluss des Geschäftsjahres der FINMA ein. Er legt dem Geschäftsbericht eine Aufstellung über die am Bilanzstichtag vorgeschriebenen und die vorhandenen Eigenmittel bei.[^47-2]
 
-<sup>3</sup> Absatz 2 gilt nicht für Verwalter von Kollektivvermögen, denen gestützt auf Artikel 37 Absatz 5 eine Ausnahme gewährt wird.
+<sup>3</sup> Für Verwalter von Kollektivvermögen, die gestützt auf Artikel 37 Absätze 4 und 5 von der Pflicht zur Bestimmung eines besonderen Organs für die Oberleitung, Aufsicht und Kontrolle befreit sind, entfällt die Pflicht zur Erstellung des umfassenden Revisionsberichts.[^47-3]
 
 [^47-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^47-2]: Fassung gemäss Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^47-3]: Fassung gemäss Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 48
 
@@ -956,6 +970,16 @@ Die selbstständige Verwaltung von Anlagefonds in eigenem Namen und für Rechnun
 <sup>2</sup> Institute, die ausschliesslich die Administration für eine fremdverwaltete Investmentgesellschaft mit variablem Kapital (SICAV) nach KAG[^49-1] praktizieren, nehmen die selbstständige Verwaltung von Anlagefonds wahr und sind als Fondsleitungen nach Artikel 5 Absatz 1 in Verbindung mit Artikel 32 FINIG bewilligungspflichtig.
 
 [^49-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+
+#### Art. 49a
+
+**Zusatzbewilligung**[^49a-1]
+
+### (Art. 6 FINIG)
+
+Fondsleitungen, die auch als Trustees tätig werden wollen, brauchen dafür eine Zusatzbewilligung.
+
+[^49a-1]: Eingefügt durch Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 50
 
@@ -1176,9 +1200,10 @@ Bei der Berechnung der Eigenmittel sind abzuziehen:
 
 <sup>1</sup> Auf Fondsleitungen kommen die Rechnungslegungsvorschriften des OR[^62-1] zur Anwendung. Unterliegen die Fondsleitungen strengeren spezialgesetzlichen Rechnungslegungsvorschriften, so gehen diese vor.
 
-<sup>2</sup> Die Fondsleitung reicht den Geschäftsbericht und den umfassenden Bericht an das Organ für die Oberleitung, Aufsicht und Kontrolle innerhalb von 30 Tagen nach der Genehmigung durch das Organ für die Geschäftsführung der FINMA ein. Sie legt dem Geschäftsbericht eine Aufstellung über die am Bilanzstichtag vorgeschriebenen und die vorhandenen Eigenmittel bei.
+<sup>2</sup> Die Fondsleitung reicht den Geschäftsbericht, den zusammenfassenden Revisionsbericht an die Generalversammlung und den umfassenden Revisionsbericht an das Organ für die Oberleitung, Aufsicht und Kontrolle innerhalb von sechs Monaten nach Abschluss des Geschäftsjahres der FINMA ein. Sie legt dem Geschäftsbericht eine Aufstellung über die am Bilanzstichtag vorgeschriebenen und die vorhandenen Eigenmittel bei.[^62-2]
 
 [^62-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-2]: Fassung gemäss Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 63
 
@@ -1595,8 +1620,14 @@ Die Vertretung eines ausländischen Finanzinstituts, die Finanzdienstleistungen 
 - b. ihre Kundenberaterinnen und -berater in ein Beraterregister nach Artikel 28 FIDLEG eintragen lassen, wenn diese ihre Dienstleistungen in der Schweiz nicht ausschliesslich gegenüber professionellen oder institutionellen Kunden nach Artikel 4 FIDLEG erbringen.
 - [tab] <sup>2</sup> Das Verbot zur Errichtung einer Vertretung einer ausländischen Fondsleitung nach Artikel 58 Absatz 2 FINIG[^82-2] gilt ausschliesslich für Vertretungstätigkeiten in Bezug auf die Leitung und Verwaltung von Anlagefonds.
 
+<sup>3</sup> Errichtet ein ausländisches Finanzinstitut mehrere Vertretungen in der Schweiz, so muss es für jede Vertretung eine Bewilligung einholen.[^82-3]
+
+<sup>4</sup> Das ausländische Finanzinstitut muss vor der Aufhebung einer Vertretung die Genehmigung der FINMA einholen.[^82-4]
+
 [^82-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 [^82-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^82-3]: Eingefügt durch Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^82-4]: Eingefügt durch Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## 3. Kapitel: Aufsicht
 
@@ -1635,10 +1666,13 @@ Die Aufsichtsorganisation prüft laufend, ob die ihr unterstellten Beaufsichtigt
 
 <sup>5</sup> Der Erlass von Verfügungen ist der FINMA vorbehalten. Die FINMA tritt in die laufende Aufsicht der Aufsichtsorganisation ein, wenn dies zur Durchsetzung der Finanzmarktgesetze nach Artikel 1 Absatz 1 FINMAG nötig ist.
 
+<sup>6</sup> Sind Verwalter von Kollektivvermögen oder Fondsleitungen als Trustees tätig, so übt die FINMA die laufende Aufsicht über diese Tätigkeit aus. Für die Prüfung ist dieselbe Prüfgesellschaft zu beauftragen wie für die Tätigkeit als Verwalter von Kollektivvermögen oder Fondsleitung nach Artikel 63 Absatz 1 FINIG.[^84-5]
+
 [^84-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^84-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 [^84-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^84-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^84-5]: Eingefügt durch Anhang Ziff. 8 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 85
 

@@ -4,11 +4,11 @@ title: Ordinanza del 6 novembre 2019 sugli istituti finanziari (OIsFi)
 short: OIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: it
-version: 2023-01-23
+version: 2024-03-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20240301-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/it"
 
 (OIsFi)
 
-del 6 novembre 2019 (Stato 23 gennaio 2023)
+del 6 novembre 2019 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -713,6 +713,16 @@ La FINMA rilascia a un gestore patrimoniale di cui all’articolo 24 capoverso 2
 - b. le condizioni di autorizzazione di cui all’articolo 24 capoverso 1 LIsFi sono adempiute; e
 - c. il diritto svizzero o il diritto estero applicabile prevede che la gestione di patrimoni collettivi possa essere delegata soltanto a un gestore di patrimoni collettivi sottoposto a vigilanza.
 
+#### Art. 36a
+
+**Autorizzazione completiva**[^36a-1]
+
+### (art. 6 LIsFi)
+
+I gestori di patrimoni collettivi che intendono operare anche come trustee necessitano di un’autorizzazione completiva.
+
+[^36a-1]: Introdotto dall’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
 #### Art. 37
 
 **Organizzazione**
@@ -861,7 +871,9 @@ Si considerano costi fissi secondo il capoverso 1:
 
 <sup>5</sup> La quota di spese per il personale che dipende esclusivamente dal risultato dell’esercizio o sulla quale non esiste alcuna pretesa legale deve essere dedotta dalle spese per il personale.
 
-<sup>6</sup> In casi motivati, la FINMA può accordare agevolazioni.
+<sup>6</sup> In casi motivati, la FINMA può accordare agevolazioni od ordinare inasprimenti.[^44-1]
+
+[^44-1]: Nuovo testo giusta l’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 45
 
@@ -923,11 +935,13 @@ Nel calcolo dei fondi propri vanno dedotti:
 
 <sup>1</sup> Ai gestori di patrimoni collettivi si applicano le disposizioni relative alla presentazione dei conti del CO[^47-1]. Se i gestori di patrimoni collettivi sottostanno a disposizioni più severe relative alla presentazione dei conti previste da leggi speciali, queste sono preminenti.
 
-<sup>2</sup> Il gestore di patrimoni collettivi consegna alla FINMA, entro 30 giorni dall’approvazione da parte dell’organo di gestione, il rapporto di attività e la relazione completa destinati all’organo di alta direzione, vigilanza e controllo. Allega al rapporto di attività un elenco dei fondi propri prescritti per il giorno di riferimento del bilancio e di quelli disponibili.
+<sup>2</sup> Il gestore di patrimoni collettivi consegna alla FINMA, entro sei mesi dalla chiusura dell’esercizio, il rapporto di attività, la relazione di revisione riassuntiva destinata all’assemblea generale o all’assemblea dei soci nonché la relazione di revisione completa destinata all’organo di alta direzione, vigilanza e controllo. Allega al rapporto di attività un elenco dei fondi propri prescritti per il giorno di riferimento del bilancio e di quelli disponibili.[^47-2]
 
-<sup>3</sup> Il capoverso 2 non si applica ai gestori di patrimoni collettivi cui è concessa un’eccezione in virtù dell’articolo 37 capoverso 5.
+<sup>3</sup> L’obbligo di redigere la relazione di revisione completa decade per i gestori di patrimoni collettivi che in virtù dell’articolo 37 capoversi 4 e 5 sono esonerati dall’obbligo di istituire un organo particolare di alta direzione, vigilanza e controllo.[^47-3]
 
 [^47-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^47-2]: Nuovo testo giusta l’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^47-3]: Nuovo testo giusta l’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 48
 
@@ -955,6 +969,16 @@ La gestione autonoma del fondo di investimento in nome proprio e per conto degli
 - d. l’esercizio di tutti i diritti appartenenti al fondo di investimento.
 
 [^49-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+
+#### Art. 49a
+
+**Autorizzazione completiva**[^49a-1]
+
+### (art. 6 LIsFi)
+
+Le direzioni dei fondi che intendono operare anche come trustee necessitano di un’autorizzazione completiva.
+
+[^49a-1]: Introdotto dall’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 50
 
@@ -1174,9 +1198,10 @@ Nel calcolo dei fondi propri vanno dedotti:
 
 <sup>1</sup> Alle direzioni dei fondi si applicano le disposizioni relative alla presentazione dei conti del CO[^62-1]. Se le direzioni dei fondi sottostanno a disposizioni più severe relative alla presentazione dei conti previste da leggi speciali, queste sono preminenti.
 
-<sup>2</sup> Entro 30 giorni dall’approvazione da parte dell’organo di gestione, la direzione del fondo consegna alla FINMA il rapporto di attività e la relazione completa destinati all’organo di alta direzione, vigilanza e controllo. Allega al rapporto di attività un elenco dei fondi propri prescritti per il giorno di riferimento del bilancio e di quelli disponibili.
+<sup>2</sup> La direzione del fondo consegna alla FINMA, entro sei mesi dalla chiusura dell’esercizio, il rapporto di attività, la relazione di revisione riassuntiva destinata all’assemblea generale e la relazione di revisione completa destinata all’organo di alta direzione, vigilanza e controllo. Allega al rapporto di attività un elenco dei fondi propri prescritti per il giorno di riferimento del bilancio e di quelli disponibili.[^62-2]
 
 [^62-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-2]: Nuovo testo giusta l’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 63
 
@@ -1594,8 +1619,14 @@ La rappresentanza di un istituto finanziario estero che fornisce servizi finanzi
 
 <sup>2</sup> Il divieto di costituire una rappresentanza di una direzione dei fondi estera conformemente all’articolo 58 capoverso 2 LIsFi[^82-2] è applicabile esclusivamente in caso di attività di rappresentanza riferite alla direzione e all’amministrazione di fondi d’investimento.
 
+<sup>3</sup> Se costituisce più rappresentanze in Svizzera, l’istituto finanziario estero deve richiedere l’autorizzazione per ognuna di esse.[^82-3]
+
+<sup>4</sup> Prima di procedere allo scioglimento di una rappresentanza, l’istituto finanziario estero deve richiedere l’approvazione della FINMA.[^82-4]
+
 [^82-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 [^82-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^82-3]: Introdotto dall’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^82-4]: Introdotto dall’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Capitolo 3: Vigilanza
 
@@ -1634,10 +1665,13 @@ L’organismo di vigilanza verifica in modo continuato se gli assoggettati alla 
 
 <sup>5</sup> La facoltà di emanare decisioni è riservata alla FINMA. La FINMA subentra all’organismo di vigilanza nell’attività di vigilanza continua se ciò è necessario ai fini dell’esecuzione delle leggi sui mercati finanziari di cui all’articolo 1 capoverso 1 LFINMA.
 
+<sup>6</sup> Se i gestori di patrimoni collettivi o le direzioni dei fondi operano come trustee, la FINMA esercita la vigilanza continua su queste attività. Per la verifica deve essere incaricata la stessa società di audit che si occupa della verifica dell’attività di gestore di patrimoni collettivi o di direzione dei fondi secondo l’articolo 63 capoverso 1 LIsFi.[^84-5]
+
 [^84-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^84-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 [^84-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^84-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^84-5]: Introdotto dall’all. n. 8 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 85
 

@@ -4,11 +4,11 @@ title: "Ordinance of 6 November 2019 on Financial Institutions (Financial Instit
 short: FinIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: en
-version: 2023-01-23
+version: 2024-03-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20230123-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20240301-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20240301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Ordinance, FinIO)
 
-of 6 November 2019 (Status as of 23 January 2023)
+of 6 November 2019 (Status as of 1 March 2024)
 
 The Swiss Federal Council,
 
@@ -715,6 +715,16 @@ FINMA shall grant a portfolio manager in accordance with Article 24 paragraph 2 
 - b. the conditions of authorisation in accordance with Article 24 paragraph 1 FinIA are satisfied; and
 - c. Swiss or applicable foreign law provides that the management of collective assets may only be delegated to a supervised manager of collective assets.
 
+#### Art. 36a
+
+**Additional authorisation**[^36a-1]
+
+### (Art. 6 FinIA)
+
+Managers of collective assets also wishing to act as trustees require additional authorisation for this.
+
+[^36a-1]: Inserted by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
 #### Art. 37
 
 **Organisation**
@@ -862,7 +872,9 @@ Fixed costs in accordance with paragraph 1 are:
 
 <sup>5</sup> The portion of personnel expenses which is exclusively dependent on the business result or in relation to which no legal entitlement exists is to be deducted from personnel expenses.
 
-<sup>6</sup> Where there are legitimate grounds for so doing, FINMA may ease requirements.
+<sup>6</sup> Where there are legitimate grounds for so doing, FINMA may ease requirements or impose stricter requirements.[^44-1]
+
+[^44-1]: Amended by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 45
 
@@ -924,11 +936,13 @@ The following shall be deducted when calculating the level of capital adequacy:
 
 <sup>1</sup> Managers of collective assets are subject to the accounting regulations of the CO[^47-1]. Where managers of collective assets are subject to specific, more stringent accounting standards, such regulations take precedence.
 
-<sup>2</sup> The manager of collective assets shall submit to FINMA the annual report and the full report for the body responsible for governance, supervision and control within 30 days of receiving approval from the body responsible for management. The manager of collective assets shall append to the annual report a list of the prescribed and available capital as at the balance sheet date.
+<sup>2</sup> The manager of collective assets shall submit to FINMA the annual report, the summary audit company report to the general meeting or members’ general meeting and the full audit company report for the body responsible for governance, supervision and control within six months days of the end of the financial year. The manager of collective assets shall append to the annual report a list of the prescribed and available capital as at the balance sheet date.[^47-2]
 
-<sup>3</sup> Paragraph 2 does not apply to managers of collective assets which are granted an exemption in accordance with Article 37 paragraph 5.
+<sup>3</sup> The duty to prepare a full audit company report does not apply to managers of collective assets that are granted an exemption in accordance with Article 37 paragraphs 4 and 5 from the duty to appoint a special body responsible for governance, supervision and control.[^47-3]
 
 [^47-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^47-2]: Amended by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^47-3]: Amended by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 48
 
@@ -958,6 +972,16 @@ The independent management of investment funds in its own name and for the accou
 <sup>2</sup> Institutions which engage solely in administration activities for externally managed SICAVs pursuant to CISA[^49-1] manage investment funds independently and as fund management companies require authorisation in accordance with Article 5 paragraph 1 in conjunction with Article 32 FinIA.
 
 [^49-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+
+#### Art. 49a
+
+**Additional authorisation**[^49a-1]
+
+### (Art. 6 FinIA)
+
+Fund management companies also wishing to act as trustees require additional authorisation for this.
+
+[^49a-1]: Inserted by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 50
 
@@ -1174,13 +1198,14 @@ The following shall be deducted when calculating the level of capital adequacy:
 
 **Accounting and annual report**
 
-### (Art. 9, 33, 36 und 37 FinIA)
+### (Art. 9, 33, 36 and 37 FinIA)
 
 <sup>1</sup> Fund management companies are subject to the accounting regulations of the CO[^62-1]. Where fund management companies are subject to specific, more stringent accounting standards, such regulations take precedence.
 
-<sup>2</sup> The fund management company shall submit to FINMA the annual report and the full report for the body responsible for governance, supervision and control within 30 days of receiving approval from the body responsible for management. The fund management company shall append to the annual report a list of the prescribed and available capital as at the balance sheet date.
+<sup>2</sup> The fund management company shall submit to FINMA the annual report, the summary audit company report to the general meeting and the full audit company report for the body responsible for governance, supervision and control within six months of the end of the financial year. The fund management company shall append to the annual report a list of the prescribed and available capital as at the balance sheet date.[^62-2]
 
 [^62-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-2]: Amended by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 63
 
@@ -1196,7 +1221,7 @@ Internal documentation of the fund management companies must allow the audit fir
 
 ### (Art. 39 FinIA)
 
-Article 27 CISA[^64-1] und Article 41 of the Collective Investment Schemes Ordinance of 22 November 2006[^64-2] apply by analogy to a change of fund management company.
+Article 27 CISA[^64-1] and Article 41 of the Collective Investment Schemes Ordinance of 22 November 2006[^64-2] apply by analogy to a change of fund management company.
 
 [^64-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^64-2]: [SR 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
@@ -1591,15 +1616,21 @@ The foreign financial institution shall obtain the approval of FINMA before clos
 
 <sup>1</sup>
 
-The representative office of a foreign financial institution that provides financial services in accordance with Article 3 letter c of the FinSA[^82-1] must:
+The representation of a foreign financial institution that provides financial services in accordance with Article 3 letter c of the FinSA[^82-1] must:
 
 - a. comply with the provisions of the FinSA;
 - b. enter its client advisers in a register of advisers in accordance with Article 28 of the FinSA if they do not exclusively provide their services in Switzerland to professional or institutional clients in accordance with Article 4 of the FinSA.
 
-<sup>2</sup> The prohibition on establishing a representative office of a foreign fund management company in accordance with Article 58 paragraph 2 of the FinIA[^82-2] applies exclusively to the office's activities in relation to the administration and management of investment funds.
+<sup>2</sup> The prohibition on establishing a representation of a foreign fund management company in accordance with Article 58 paragraph 2 of the FinIA[^82-2] applies exclusively to the representation's activities in relation to the administration and management of investment funds.
+
+<sup>3</sup> If a foreign financial institution establishes two or more representations in Switzerland, it must obtain authorisation for each representation.[^82-3]
+
+<sup>4</sup> The foreign financial institution must obtain approval from FINMA before closing a representation.[^82-4]
 
 [^82-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 [^82-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^82-3]: Inserted by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^82-4]: Inserted by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Chapter 3 Supervision
 
@@ -1638,10 +1669,13 @@ The supervisory organisation shall verify on an ongoing basis whether the entiti
 
 <sup>5</sup> The issuance of rulings is reserved to FINMA. FINMA shall intervene in the ongoing supervision by the supervisory organisation if this is necessary to enforce the financial market acts in accordance with Article 1 paragraph 1 FINMASA.
 
+<sup>6</sup> If managers of collective assets or fund management companies act as trustees, FINMA shall exercise day-to-day supervision over their activities. The same audit firm shall be appointed auditor as for activities as a manager of collective assets or fund management company under Article 63 paragraph 1 FinIA.[^84-5]
+
 [^84-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^84-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 [^84-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^84-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^84-5]: Inserted by Annex No 8 of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 85
 
