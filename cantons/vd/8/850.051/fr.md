@@ -4,7 +4,7 @@ number: "850.051"
 title: "LOI du 02.12.2003 sur l'action sociale vaudoise (LASV)"
 short: LASV
 language: fr
-version: 2023-01-01
+version: 2024-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051?id=8b71b9d3-03d0-4865-8475-19e60cc46a73"
 ---
 
@@ -189,9 +189,9 @@ décrète
 
 **Directives de financement [^10-1]**
 
-<sup>1</sup> A défaut de contrat de prestations, le département émet des directives qui déterminent les modalités du subventionnement des frais de fonctionnement des autorités d'application.
+<sup>1</sup> A défaut de contrat de prestations, le département émet des directives qui déterminent les modalités du subventionnement des frais de fonctionnement et d'investissement des autorités d'application.
 
-[^10-1]: Modif. 16 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.03.2024; Introduction Art. 44, Al. 3; entrée en vigueur au 01.03.2024
+[^10-1]: Modif. 16 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.03.2024
 
 #### Art. 12
 
@@ -664,6 +664,12 @@ décrète
 <sup>1</sup> L'obligation de remboursement se prescrit par dix ans à compter du jour où la dernière prestation a été versée. A l'égard des héritiers de la personne aidée, l'obligation de remboursement se prescrit par une année dès la dévolution de la succession.
 
 <sup>2</sup> …
+
+<sup>3</sup> Le délai de prescription de dix ans visé à l'alinéa 1 est interrompu :
+
+- a. à chaque compensation effectuée par prélèvement du forfait RI au sens de l'article 43a, alinéa 1 LASV ;
+- b. lorsque l'autorité prend une mesure tendant à fixer ou faire valoir sa créance et en informe le bénéficiaire ou une personne solidairement responsable avec lui ;
+- c. lorsqu'une poursuite pénale est introduite ensuite d'une prestation indûment perçue, notamment en cas d'escroquerie (article 146 CP) et d'obtention illicite de prestations (article 148a CP).
 
 [^43a-1]: Modif. 10 du 13.12.2011: Abrogation Al. 2; entrée en vigueur au 01.01.2012 · Modif. 16 du 12.12.2023: Introduction Al. 3; entrée en vigueur au 01.03.2024
 
