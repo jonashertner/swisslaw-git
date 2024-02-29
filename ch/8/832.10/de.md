@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240301-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Januar 2024)
+vom 18. März 1994 (Stand am 1. März 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -124,16 +124,16 @@ Die versicherungspflichtigen Personen können unter den Versicherern, die nach d
 
 #### Art. 4a
 
-**Wahl des Versicherers für versicherungspflichtige Familienangehörige mit Wohnort in einem Mitgliedstaat der Europäischen Union[^4a-2], in Island oder in Norwegen**[^4a-1]
+**Wahl des Versicherers für versicherungspflichtige Familienangehörige mit in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich[^4a-2]**[^4a-1]
 
 Es sind beim selben Versicherer versichert:
 
-- a. die auf Grund der Erwerbstätigkeit in der Schweiz versicherungspflichtigen Personen und deren versicherungspflichtigen Familienangehörigen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen;
-- b. die auf Grund des Bezugs einer schweizerischen Rente versicherungspflichtigen Personen und deren versicherungspflichtigen Familienangehörigen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen;
-- c. die auf Grund des Bezugs einer Leistung der schweizerischen Arbeitslosenversicherung versicherungspflichtigen Personen und deren versicherungspflichtigen Familienangehörigen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen.
+- a. die auf Grund der Erwerbstätigkeit in der Schweiz versicherungspflichtigen Personen und deren versicherungspflichtigen Familienangehörigen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen;
+- b. die auf Grund des Bezugs einer schweizerischen Rente versicherungspflichtigen Personen und deren versicherungspflichtigen Familienangehörigen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen;
+- c. die auf Grund des Bezugs einer Leistung der schweizerischen Arbeitslosenversicherung versicherungspflichtigen Personen und deren versicherungspflichtigen Familienangehörigen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen.
 
 [^4a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)). Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^4a-2]: Ausdruck gemäss Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)). Die Anpassung wurde im ganzen Text vorgenommen.
+[^4a-2]: Ausdruck gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)). Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 5
 
@@ -159,17 +159,17 @@ Es sind beim selben Versicherer versichert:
 
 #### Art. 6a
 
-**Kontrolle des Beitritts und Zuweisung an einen Versicherer für Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen[^6a-2]**[^6a-1]
+**Kontrolle des Beitritts und Zuweisung an einen Versicherer für Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich[^6a-2]**[^6a-1]
 
 <sup>1</sup>
 
 Die Kantone informieren über die Versicherungspflicht:
 
-- a. die auf Grund einer Erwerbstätigkeit in der Schweiz versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen;
-- b. die auf Grund des Bezugs einer Leistung der schweizerischen Arbeitslosenversicherung versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen;
-- c. die auf Grund des Bezugs einer schweizerischen Rente versicherungspflichtigen Personen, die ihren Wohnort von der Schweiz in einen Mitgliedstaat der Europäischen Union, nach Island oder nach Norwegen verlegen.[^6a-3]
+- a. die auf Grund einer Erwerbstätigkeit in der Schweiz versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen;
+- b. die auf Grund des Bezugs einer Leistung der schweizerischen Arbeitslosenversicherung versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen;
+- c. die auf Grund des Bezugs einer schweizerischen Rente versicherungspflichtigen Personen, die ihren Wohnort von der Schweiz in einen Mitgliedstaat der Europäischen Union, nach Island, nach Norwegen oder ins Vereinigte Königreich[^6a-3] verlegen.[^6a-4]
 
-<sup>2</sup> Mit den Informationen nach Absatz 1 gelten auch die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnhaften Familienangehörigen als informiert.[^6a-4]
+<sup>2</sup> Mit den Informationen nach Absatz 1 gelten auch die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnhaften Familienangehörigen als informiert.[^6a-5]
 
 <sup>3</sup> Die vom Kanton bezeichnete Behörde weist Personen, die ihrer Versicherungspflicht nicht rechtzeitig nachkommen, einem Versicherer zu. Sie entscheidet über Anträge um Befreiung von der Versicherungspflicht. Artikel 18 Absätze 2<sup>bis</sup> und 2<sup>ter</sup> bleiben vorbehalten.
 
@@ -177,8 +177,9 @@ Die Kantone informieren über die Versicherungspflicht:
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000, in Kraft seit 1. Juni 2002 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)).
 [^6a-2]: Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^6a-3]: Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^6a-3]: Ausdruck gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
 [^6a-4]: Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^6a-5]: Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
 #### Art. 7
 
@@ -324,11 +325,11 @@ Der Bundesrat regelt:
 
 <sup>2</sup> Die gemeinsame Einrichtung übernimmt die Kosten für die gesetzlichen Leistungen anstelle von zahlungsunfähigen Versicherern nach Artikel 51 KVAG[^18-2].[^18-3]
 
-<sup>2bis</sup> Die gemeinsame Einrichtung entscheidet über Anträge um Befreiung von der Versicherungspflicht von Rentnern und Rentnerinnen sowie deren Familienangehörigen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen.[^18-4]
+<sup>2bis</sup> Die gemeinsame Einrichtung entscheidet über Anträge um Befreiung von der Versicherungspflicht von Rentnern und Rentnerinnen sowie deren Familienangehörigen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen.[^18-4]
 
-<sup>2ter</sup> Sie weist Rentner und Rentnerinnen sowie deren Familienangehörige, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen und die ihrer Versicherungspflicht nicht rechtzeitig nachkommen, einem Versicherer zu.[^18-5]
+<sup>2ter</sup> Sie weist Rentner und Rentnerinnen sowie deren Familienangehörige, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen und die ihrer Versicherungspflicht nicht rechtzeitig nachkommen, einem Versicherer zu.[^18-5]
 
-<sup>2quater</sup> Sie unterstützt die Kantone bei der Durchführung der Prämienverbilligung nach Artikel 65*a* für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen.[^18-6]
+<sup>2quater</sup> Sie unterstützt die Kantone bei der Durchführung der Prämienverbilligung nach Artikel 65*a* für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen.[^18-6]
 
 <sup>2quinquies</sup> Sie führt die Prämienverbilligung nach Artikel 66*a* durch.[^18-7]
 
@@ -782,17 +783,17 @@ Anstalten oder deren Abteilungen, die der stationären Behandlung akuter Krankhe
 
 <sup>1ter</sup> Absatz 1<sup>bis</sup> gilt sinngemäss für Geburtshäuser.[^41-5]
 
-<sup>2</sup> Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen, können für die stationäre Behandlung in der Schweiz unter den Listenspitälern frei wählen.[^41-6]
+<sup>2</sup> Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, können für die stationäre Behandlung in der Schweiz unter den Listenspitälern frei wählen.[^41-6]
 
 <sup>2bis</sup>
 
-Bei folgenden Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen, übernehmen der Versicherer und der Kanton, an den die Versicherten einen Anknüpfungspunkt haben, bei stationärer Behandlung in einem Listenspital die Vergütung höchstens nach dem Tarif, der in einem Listenspital dieses Kantons für die betreffende Behandlung gilt:
+Bei folgenden Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, übernehmen der Versicherer und der Kanton, an den die Versicherten einen Anknüpfungspunkt haben, bei stationärer Behandlung in einem Listenspital die Vergütung höchstens nach dem Tarif, der in einem Listenspital dieses Kantons für die betreffende Behandlung gilt:
 
 - a. Grenzgänger und Grenzgängerinnen sowie deren Familienangehörige;
 - b. Familienangehörige von Niedergelassenen, von Aufenthaltern und Aufenthalterinnen und von Kurzaufenthaltern und Kurzaufenthalterinnen;
 - c. Bezüger und Bezügerinnen einer Leistung der schweizerischen Arbeitslosenversicherung sowie deren Familienangehörige.[^41-7]
 
-<sup>2ter</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen und eine schweizerische Rente beziehen, sowie bei deren Familienangehörigen, übernehmen der Versicherer und die Kantone gemeinsam bei stationärer Behandlung in einem Listenspital die Vergütung höchstens nach dem Tarif für die betreffende Behandlung, der in einem Listenspital des Referenzkantons gilt. Der Bundesrat legt den Referenzkanton fest.[^41-8]
+<sup>2ter</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen und eine schweizerische Rente beziehen, sowie bei deren Familienangehörigen, übernehmen der Versicherer und die Kantone gemeinsam bei stationärer Behandlung in einem Listenspital die Vergütung höchstens nach dem Tarif für die betreffende Behandlung, der in einem Listenspital des Referenzkantons gilt. Der Bundesrat legt den Referenzkanton fest.[^41-8]
 
 <sup>3</sup> Beansprucht die versicherte Person bei einer stationären Behandlung aus medizinischen Gründen ein nicht auf der Spitalliste des Wohnkantons aufgeführtes Spital, so übernehmen der Versicherer und der Wohnkanton die Vergütung anteilsmässig nach Artikel 49*a*. Mit Ausnahme des Notfalls ist dafür eine Bewilligung des Wohnkantons notwendig.[^41-9]
 
@@ -1094,7 +1095,7 @@ Die Kantone übernehmen den kantonalen Anteil für folgende Personen:
 - a. Versicherte, die im Kanton wohnen;
 - b.
 
-  folgende Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen, bei stationärer Behandlung in der Schweiz:
+  folgende Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, bei stationärer Behandlung in der Schweiz:
 
   - 1\. Grenzgänger und Grenzgängerinnen sowie deren Familienangehörige,
   - 2\. Familienangehörige von Niedergelassenen, von Aufenthaltern und Aufenthalterinnen und von Kurzaufenthaltern und Kurzaufenthalterinnen,
@@ -1106,7 +1107,7 @@ Die Kantone übernehmen den kantonalen Anteil für folgende Personen:
 
 <sup>3</sup> Der Wohnkanton entrichtet seinen Anteil direkt dem Spital. Die Modalitäten werden zwischen Spital und Kanton vereinbart. Versicherer und Kanton können vereinbaren, dass der Kanton seinen Anteil dem Versicherer leistet und dieser dem Spital beide Anteile überweist. Die Rechnungsstellung zwischen Spital und Versicherer richtet sich nach Artikel 42.
 
-<sup>3bis</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen und die eine schweizerische Rente beziehen, sowie bei deren Familienangehörigen, übernehmen die Kantone bei stationärer Behandlung in der Schweiz gemeinsam den vom Standortkanton festgelegten kantonalen Anteil. Dieser kantonale Anteil wird auf die einzelnen Kantone im Verhältnis zu ihrer Wohnbevölkerung aufgeteilt.[^49a-5]
+<sup>3bis</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen und die eine schweizerische Rente beziehen, sowie bei deren Familienangehörigen, übernehmen die Kantone bei stationärer Behandlung in der Schweiz gemeinsam den vom Standortkanton festgelegten kantonalen Anteil. Dieser kantonale Anteil wird auf die einzelnen Kantone im Verhältnis zu ihrer Wohnbevölkerung aufgeteilt.[^49a-5]
 
 <sup>4</sup> Mit Spitälern oder Geburtshäusern, welche nach Artikel 39 nicht auf der Spitalliste stehen, aber die Voraussetzungen nach den Artikeln 38 und 39 Absatz 1 Buchstaben a–c und f erfüllen, können die Versicherer Verträge über die Vergütung von Leistungen aus der obligatorischen Krankenpflegeversicherung abschliessen.[^49a-6] Diese Vergütung darf nicht höher sein als der Anteil an den Vergütungen nach Absatz 2.
 
@@ -1587,7 +1588,7 @@ Pilotprojekte, die einen der folgenden Bereiche betreffen, dürfen von Bestimmun
 
 <sup>3bis</sup> Der Bundesrat kann die Prämienermässigungen nach Absatz 3 festlegen.[^61-4]
 
-<sup>4</sup> Für Versicherte,die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen, sind die Prämien je Wohnsitzstaat zu berechnen. Der Bundesrat erlässt Vorschriften, wie die Prämien dieser Versicherten und das Inkasso zu gestalten sind.[^61-5]
+<sup>4</sup> Für Versicherte,die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, sind die Prämien je Wohnsitzstaat zu berechnen. Der Bundesrat erlässt Vorschriften, wie die Prämien dieser Versicherten und das Inkasso zu gestalten sind.[^61-5]
 
 <sup>5</sup> …[^61-6]
 
@@ -1617,7 +1618,7 @@ Der eine Elternteil schuldet die Prämien allein, wenn der andere Elternteil nac
 
 #### Art. 61b
 
-**Prämienerhebung für Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen**[^61b-1]
+**Prämienerhebung für Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich**[^61b-1]
 
 Die Prämien der Familienangehörigen einer auf Grund einer Erwerbstätigkeit in der Schweiz, des Bezugs einer schweizerischen Rente oder einer Leistung der schweizerischen Arbeitslosenversicherung versicherten Person werden bei dieser Person erhoben.
 
@@ -1724,20 +1725,20 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 
 <sup>7</sup> Die Kantone können versicherte Personen, die ihrer Prämienpflicht trotz Betreibung nicht nachkommen, auf einer Liste erfassen, welche nur den Leistungserbringern, der Gemeinde und dem Kanton zugänglich ist. Die Versicherer schieben für diese Versicherten auf Meldung des Kantons die Übernahme der Kosten für Leistungen mit Ausnahme der Notfallbehandlungen auf und erstatten der zuständigen kantonalen Behörde Meldung über den Leistungsaufschub und dessen Aufhebung nach Begleichung der ausstehenden Forderungen. Eine Notfallbehandlung liegt vor, wenn die Behandlung nicht aufgeschoben werden kann. Dies ist der Fall, wenn die versicherte Person ohne sofortige Behandlung gesundheitliche Schäden oder den Tod befürchten muss oder die Gesundheit anderer Personen gefährden kann.[^64a-5]
 
-<sup>7bis</sup> Versicherte, die volljährig geworden sind, können den Versicherer in Abweichung von Absatz 6 auf das Ende des Kalenderjahres auch wechseln, wenn Prämien, Kostenbeteiligungen, Verzugszinse oder Betreibungskosten aus der Zeit ihrer Minderjährigkeit ausstehen. Bei versicherungspflichtigen Familienangehörigen mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen geht Artikel 4*a* vor.[^64a-6]
+<sup>7bis</sup> Versicherte, die volljährig geworden sind, können den Versicherer in Abweichung von Absatz 6 auf das Ende des Kalenderjahres auch wechseln, wenn Prämien, Kostenbeteiligungen, Verzugszinse oder Betreibungskosten aus der Zeit ihrer Minderjährigkeit ausstehen. Bei versicherungspflichtigen Familienangehörigen mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, Norwegen oder im Vereinigten Königreich geht Artikel 4*a* vor.[^64a-6]
 
 <sup>7ter</sup> Die Kantone und die Versicherer tauschen ihre Daten nach einem einheitlichen Standard aus. Der Bundesrat regelt die Einzelheiten, nachdem er die Kantone und die Versicherer angehört hat.[^64a-7]
 
 <sup>8</sup> Der Bundesrat legt die Aufgaben der Revisionsstelle fest und bezeichnet die einem Verlustschein gleichzusetzenden Rechtstitel. Er regelt zudem die Gebühren für Mahnungen und Zahlungsaufforderungen, die Einzelheiten des Mahn- und Betreibungsverfahrens sowie der Zahlungen der Kantone an die Versicherer.[^64a-8]
 
-<sup>9</sup> Der Bundesrat erlässt Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen der versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen. Ist es nach dem Recht des betreffenden Staates möglich, dass der Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so kann der Bundesrat die Kantone zur Übernahme von 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren, verpflichten. Ist es nach dem Recht des betreffenden Staates nicht möglich, so kann der Bundesrat den Versicherern das Recht gewähren, die Übernahme der Kosten für die Leistungen aufzuschieben.[^64a-9]
+<sup>9</sup> Der Bundesrat erlässt Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen der versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen. Ist es nach dem Recht des betreffenden Staates möglich, dass der Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so kann der Bundesrat die Kantone zur Übernahme von 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren, verpflichten. Ist es nach dem Recht des betreffenden Staates nicht möglich, so kann der Bundesrat den Versicherern das Recht gewähren, die Übernahme der Kosten für die Leistungen aufzuschieben.[^64a-9]
 
 [^64a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^64a-3]: Siehe auch die UeB Änd. 19.3.2010 am Schluss dieses Textes.
 [^64a-4]: Fassung gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-5]: Dritter und vierter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-6]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-6]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Fassung gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
 [^64a-7]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-8]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-9]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
@@ -1774,9 +1775,9 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 
 #### Art. 65a
 
-**Prämienverbilligung durch die Kantone für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen**[^65a-1]
+**Prämienverbilligung durch die Kantone für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen**[^65a-1]
 
-Die Kantone gewähren folgenden Versicherten in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen, Prämienverbilligungen:
+Die Kantone gewähren folgenden Versicherten in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, Prämienverbilligungen:
 
 - a. den Grenzgängern und Grenzgängerinnen sowie deren Familienangehörigen;
 - b. den Familienangehörigen von Kurzaufenthaltern und ‑aufenthalterinnen, von Aufenthaltern und Aufenthalterinnen und von Niedergelassenen;
@@ -1798,9 +1799,9 @@ Die Kantone gewähren folgenden Versicherten in bescheidenen wirtschaftlichen Ve
 
 #### Art. 66a
 
-**Prämienverbilligung durch den Bund für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen[^66a-2]**[^66a-1]
+**Prämienverbilligung durch den Bund für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen[^66a-2]**[^66a-1]
 
-<sup>1</sup> Der Bund gewährt den Versicherten in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen und eine schweizerische Rente beziehen, Prämienverbilligungen; die Verbilligung wird auch ihren in der Schweiz versicherten Familienangehörigen gewährt.[^66a-3]
+<sup>1</sup> Der Bund gewährt den Versicherten in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen und eine schweizerische Rente beziehen, Prämienverbilligungen; die Verbilligung wird auch ihren in der Schweiz versicherten Familienangehörigen gewährt.[^66a-3]
 
 <sup>2</sup> Die Finanzierung der Beiträge zur Prämienverbilligung an die Versicherten nach Absatz 1 erfolgt durch den Bund.
 

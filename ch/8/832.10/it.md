@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240301-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° gennaio 2024)
+del 18 marzo 1994 (Stato 1° marzo 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -125,16 +125,16 @@ Le persone tenute ad assicurarsi possono scegliere liberamente tra gli assicurat
 
 #### Art. 4a
 
-**Scelta dell’assicuratore per i familiari tenuti ad assicurarsi e residenti in uno Stato membro dell’Unione europea[^4a-2], in Islanda o in Norvegia**[^4a-1]
+**Scelta dell’assicuratore per i familiari tenuti ad assicurarsi e residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito[^4a-2]**[^4a-1]
 
 Sono assicurati presso lo stesso assicuratore:
 
-- a. la persona tenuta ad assicurarsi in virtù dell’attività lucrativa esercitata in Svizzera e i suoi familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia;
-- b. la persona tenuta ad assicurarsi poiché percepisce una rendita svizzera e i suoi familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia;
-- c. la persona tenuta ad assicurarsi poiché percepisce una prestazione dell’assicurazione svizzera contro la disoccupazione e i suoi familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia.
+- a. la persona tenuta ad assicurarsi in virtù dell’attività lucrativa esercitata in Svizzera e i suoi familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito;
+- b. la persona tenuta ad assicurarsi poiché percepisce una rendita svizzera e i suoi familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito;
+- c. la persona tenuta ad assicurarsi poiché percepisce una prestazione dell’assicurazione svizzera contro la disoccupazione e i suoi familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito.
 
 [^4a-1]: Introdotto dal n. I della LF del 6 ott. 2000 ([RU 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3537](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nuovo testo giusta il n. I 8 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^4a-2]: Nuova espr. giusta il n. I della LF del 30 set. 2016 (Adeguamento delle disposizioni con pertinenza internazionale), in vigore dal 1° gen. 2018 ([RU 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4a-2]: Nuova espressione giusta l’all. n. 1 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero la Convenzione sul coordinamento della sicurezza sociale tra la Svizzera e il Regno Unito, in vigore dal 1° mar. 2024 ([RU 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -160,17 +160,17 @@ Sono assicurati presso lo stesso assicuratore:
 
 #### Art. 6a
 
-**Controllo dell’affiliazione e assegnazione a un assicuratore degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia[^6a-2]**[^6a-1]
+**Controllo dell’affiliazione e assegnazione a un assicuratore degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito[^6a-2]**[^6a-1]
 
 <sup>1</sup>
 
 I Cantoni informano circa l’obbligo di assicurazione:
 
-- a. le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che sono tenute ad assicurarsi in virtù di un’attività lucrativa esercitata in Svizzera;
-- b. le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che sono tenute ad assicurarsi poiché percepiscono una prestazione dell’assicurazione svizzera contro la disoccupazione;
-- c. le persone tenute ad assicurarsi poiché percepiscono una rendita svizzera e che trasferiscono la loro residenza in uno Stato membro dell’Unione europea, in Islanda o in Norvegia.[^6a-3]
+- a. le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che sono tenute ad assicurarsi in virtù di un’attività lucrativa esercitata in Svizzera;
+- b. le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che sono tenute ad assicurarsi poiché percepiscono una prestazione dell’assicurazione svizzera contro la disoccupazione;
+- c. le persone tenute ad assicurarsi poiché percepiscono una rendita svizzera e che trasferiscono la loro residenza in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito.[^6a-3]
 
-<sup>2</sup> L’informazione secondo il capoverso 1 vale automaticamente per i familiari residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia.[^6a-4]
+<sup>2</sup> L’informazione secondo il capoverso 1 vale automaticamente per i familiari residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito.[^6a-4]
 
 <sup>3</sup> L’autorità designata dal Cantone assegna a un assicuratore le persone che non hanno assolto tempestivamente l’obbligo di assicurazione. Decide inoltre delle domande di esenzione dall’obbligo di assicurazione. È fatto salvo l’articolo 18 capoversi 2<sup>bis</sup> e 2<sup>ter</sup>.
 
@@ -324,11 +324,11 @@ Il Consiglio federale disciplina:
 
 <sup>2</sup> L’istituzione comune assume i costi delle prestazioni legali in vece degli assicuratori insolvibili conformemente all’articolo 51 LVAMal[^18-2].[^18-3]
 
-<sup>2bis</sup> L’Istituzione comune decide delle domande di esenzione dall’obbligo di assicurazione di beneficiari di rendite e dei loro familiari che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia.[^18-4]
+<sup>2bis</sup> L’Istituzione comune decide delle domande di esenzione dall’obbligo di assicurazione di beneficiari di rendite e dei loro familiari che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito.[^18-4]
 
-<sup>2ter</sup> Essa assegna a un assicuratore i beneficiari di rendite e i loro familiari che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che non hanno assolto tempestivamente l’obbligo di assicurazione.[^18-5]
+<sup>2ter</sup> Essa assegna a un assicuratore i beneficiari di rendite e i loro familiari che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che non hanno assolto tempestivamente l’obbligo di assicurazione.[^18-5]
 
-<sup>2quater</sup> Essa assiste i Cantoni nell’applicazione della riduzione dei premi a favore degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia, conformemente all’articolo 65*a*.[^18-6]
+<sup>2quater</sup> Essa assiste i Cantoni nell’applicazione della riduzione dei premi a favore degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito, conformemente all’articolo 65*a*.[^18-6]
 
 <sup>2quinquies</sup> Essa effettua la riduzione dei premi conformemente all’articolo 66*a*.[^18-7]
 
@@ -782,17 +782,17 @@ Gli stabilimenti e i rispettivi reparti adibiti alla cura ospedaliera di malatti
 
 <sup>1ter</sup> Il capoverso 1<sup>bis</sup> si applica per analogia alle case per partorienti.[^41-5]
 
-<sup>2</sup> In caso di cura ospedaliera in Svizzera, gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia hanno la libera scelta tra gli ospedali figuranti nell’elenco.[^41-6]
+<sup>2</sup> In caso di cura ospedaliera in Svizzera, gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito hanno la libera scelta tra gli ospedali figuranti nell’elenco.[^41-6]
 
 <sup>2bis</sup>
 
-Se i seguenti assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia si avvalgono di cure ospedaliere in un ospedale figurante nell’elenco, l’assicuratore e il Cantone con cui essi hanno un rapporto assumono la remunerazione al massimo secondo la tariffa applicata per la cura in questione in un ospedale figurante nell’elenco di tale Cantone:
+Se i seguenti assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito si avvalgono di cure ospedaliere in un ospedale figurante nell’elenco, l’assicuratore e il Cantone con cui essi hanno un rapporto assumono la remunerazione al massimo secondo la tariffa applicata per la cura in questione in un ospedale figurante nell’elenco di tale Cantone:
 
 - a. i frontalieri e i loro familiari;
 - b. i familiari dei domiciliati, dei dimoranti annuali e dei dimoranti temporanei;
 - c. i beneficiari di una prestazione dell’assicurazione svizzera contro la disoccupazione e i loro familiari.[^41-7]
 
-<sup>2ter</sup> Se gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e percepiscono una rendita svizzera o i loro familiari si avvalgono di cure ospedaliere in un ospedale figurante nell’elenco, l’assicuratore e tutti i Cantoni congiuntamente assumono la remunerazione al massimo secondo la tariffa applicata per la cura in questione in un ospedale figurante nell’elenco del Cantone di riferimento. Il Consiglio federale designa il Cantone di riferimento.[^41-8]
+<sup>2ter</sup> Se gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e percepiscono una rendita svizzera o i loro familiari si avvalgono di cure ospedaliere in un ospedale figurante nell’elenco, l’assicuratore e tutti i Cantoni congiuntamente assumono la remunerazione al massimo secondo la tariffa applicata per la cura in questione in un ospedale figurante nell’elenco del Cantone di riferimento. Il Consiglio federale designa il Cantone di riferimento.[^41-8]
 
 <sup>3</sup> Se in caso di cura ospedaliera, per motivi d’ordine medico, l’assicurato ricorre ai servizi di un ospedale che non figura nell’elenco del Cantone di domicilio, l’assicuratore e il Cantone remunerano la loro quotaparte rispettiva giusta l’articolo 49*a*. Salvo nei casi d’urgenza, è necessaria un’autorizzazione del Cantone di domicilio.[^41-9]
 
@@ -1085,7 +1085,7 @@ I Cantoni assumono la quotaparte cantonale:
 - a. per gli assicurati domiciliati nel loro territorio;
 - b.
 
-  in caso di cura ospedaliera in Svizzera, per i seguenti assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia:
+  in caso di cura ospedaliera in Svizzera, per i seguenti assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito:
 
   - 1\. i frontalieri e i loro familiari,
   - 2\. i familiari dei domiciliati, dei dimoranti annuali e dei dimoranti temporanei,
@@ -1097,7 +1097,7 @@ I Cantoni assumono la quotaparte cantonale:
 
 <sup>3</sup> Il Cantone di domicilio versa la sua quotaparte direttamente all’ospedale. Le modalità vengono concordate tra l’ospedale e il Cantone. L’assicuratore e il Cantone possono convenire che il Cantone paghi la sua quotaparte all’assicuratore e che quest’ultimo versi entrambe le quoteparti all’ospedale. La fatturazione tra l’ospedale e l’assicuratore è disciplinata dall’articolo 42.
 
-<sup>3bis</sup> Per gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che percepiscono una rendita svizzera, nonché per i loro familiari, in caso di cura ospedaliera in Svizzera i Cantoni assumono congiuntamente la quotaparte cantonale fissata dal Cantone di ubicazione. Tale quotaparte è ripartita sui singoli Cantoni proporzionalmente alla popolazione residente.[^49a-5]
+<sup>3bis</sup> Per gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che percepiscono una rendita svizzera, nonché per i loro familiari, in caso di cura ospedaliera in Svizzera i Cantoni assumono congiuntamente la quotaparte cantonale fissata dal Cantone di ubicazione. Tale quotaparte è ripartita sui singoli Cantoni proporzionalmente alla popolazione residente.[^49a-5]
 
 <sup>4</sup> Con gli ospedali o con le case per partorienti che non figurano nell’elenco ospedaliero secondo l’articolo 39, ma che adempiono le condizioni di cui agli articoli 38 e 39 capoverso 1 lettere a–c e f, gli assicuratori possono concludere convenzioni sulla remunerazione delle prestazioni dell’assicurazione obbligatoria delle cure medico-sanitarie.[^49a-6] Detta remunerazione non può essere superiore alla quotaparte secondo il capoverso 2.
 
@@ -1578,7 +1578,7 @@ I progetti pilota che concernono uno degli ambiti qui appresso possono derogare 
 
 <sup>3bis</sup> Il Consiglio federale può stabilire le riduzioni di premio di cui al capoverso 3.[^61-4]
 
-<sup>4</sup> Per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia i premi sono calcolati in funzione dello Stato di residenza. Il Consiglio federale emana prescrizioni sulla determinazione e l’incasso dei premi di questi assicurati.[^61-5]
+<sup>4</sup> Per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito i premi sono calcolati in funzione dello Stato di residenza. Il Consiglio federale emana prescrizioni sulla determinazione e l’incasso dei premi di questi assicurati.[^61-5]
 
 <sup>5</sup> ...[^61-6]
 
@@ -1608,7 +1608,7 @@ Un genitore è unico debitore dei premi se l’altro genitore attesta che:
 
 #### Art. 61b
 
-**Riscossione dei premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia**[^61b-1]
+**Riscossione dei premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito**[^61b-1]
 
 I premi dei familiari di una persona assicurata in virtù di un’attività lucrativa esercitata in Svizzera o perché percepisce una rendita svizzera o una prestazione dell’assicurazione svizzera contro la disoccupazione sono riscossi presso questa persona.
 
@@ -1715,20 +1715,20 @@ L’assicuratore non può riscuotere alcuna partecipazione ai costi per:
 
 <sup>7</sup> Gli assicurati che nonostante l’esecuzione non pagano i premi possono essere registrati dai Cantoni in un elenco accessibile unicamente ai fornitori di prestazioni, ai Comuni e al Cantone interessato. Su notificazione del Cantone, l’assicuratore sospende l’assunzione dei costi delle prestazioni fornite a questi assicurati, salvo nei casi d’urgenza medica, e informa l’autorità cantonale competente della sospensione delle prestazioni e dell’annullamento di tale sospensione dopo il pagamento dei crediti in arretrato da parte degli assicurati. Vi è urgenza medica quando un trattamento non può essere differito. Tale è il caso quando l’assicurato, in assenza di un trattamento immediato, deve temere danni alla salute o la morte, oppure può mettere in pericolo la salute di altre persone.[^64a-5]
 
-<sup>7bis</sup> Gli assicurati diventati maggiorenni possono cambiare assicuratore alla fine dell’anno civile, in deroga al capoverso 6, anche se vi sono premi, partecipazioni ai costi, interessi di mora o spese di esecuzione in arretrato risalenti al periodo della loro minore età. Ai familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia si applica l’articolo 4*a*.[^64a-6]
+<sup>7bis</sup> Gli assicurati che diventano maggiorenni possono cambiare assicuratore alla fine dell’anno civile, in deroga al capoverso 6, anche se vi sono premi, partecipazioni ai costi, interessi di mora o spese di esecuzione in arretrato risalenti al periodo della loro minore età. Ai familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito si applica l’articolo 4*a*.[^64a-6]
 
 <sup>7ter</sup> I Cantoni e gli assicuratori scambiano i loro dati sulla base di uno standard uniforme. Il Consiglio federale disciplina le modalità dopo aver sentito i Cantoni e gli assicuratori.[^64a-7]
 
 <sup>8</sup> Il Consiglio federale stabilisce i compiti dell’organo di revisione e designa i titoli considerati equivalenti all’attestato di carenza di beni. Disciplina inoltre le spese di sollecito e di diffida, le modalità relative alla procedura di diffida e di esecuzione e le modalità di pagamento dei Cantoni agli assicuratori.[^64a-8]
 
-<sup>9</sup> Il Consiglio federale emana disposizioni relative al mancato pagamento dei premi e delle partecipazioni ai costi per le persone tenute ad assicurarsi residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia. Se il diritto di tale Stato permette all’assicuratore di recuperare i premi e le partecipazioni ai costi non pagati, il Consiglio federale può obbligare i Cantoni ad assumere l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3. Se il diritto di tale Stato non lo permette, il Consiglio federale può accordare agli assicuratori il diritto di sospendere l’assunzione dei costi delle prestazioni.[^64a-9]
+<sup>9</sup> Il Consiglio federale emana disposizioni relative al mancato pagamento dei premi e delle partecipazioni ai costi per le persone tenute ad assicurarsi residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito. Se il diritto di tale Stato permette all’assicuratore di recuperare i premi e le partecipazioni ai costi non pagati, il Consiglio federale può obbligare i Cantoni ad assumere l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3. Se il diritto di tale Stato non lo permette, il Consiglio federale può accordare agli assicuratori il diritto di sospendere l’assunzione dei costi delle prestazioni.[^64a-9]
 
 [^64a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-3]: Vedi anche la disp. trans. della mod. del 19 mar. 2010 alla fine del presente testo.
 [^64a-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 (RU **2003** 678; [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-5]: Terzo e quarto per. introdotti dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-6]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-6]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi) ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Nuovo testo giusta l’all. n. 1 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero la Convenzione sul coordinamento della sicurezza sociale tra la Svizzera e il Regno Unito, in vigore dal 1° mar. 2024 ([RU 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
 [^64a-7]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-8]: Nuovo testo del secondo per. giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-9]: Secondo e terzo per. introdotti dal n. I della LF del 30 set. 2016 (Adeguamento delle disposizioni con pertinenza internazionale), in vigore dal 1° gen. 2018 ([RU 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
@@ -1765,9 +1765,9 @@ L’assicuratore non può riscuotere alcuna partecipazione ai costi per:
 
 #### Art. 65a
 
-**Riduzione dei premi da parte dei Cantoni a favore degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia**[^65a-1]
+**Riduzione dei premi da parte dei Cantoni a favore degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito**[^65a-1]
 
-I Cantoni accordano riduzioni dei premi ai seguenti assicurati di condizioni economiche modeste che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia:
+I Cantoni accordano riduzioni dei premi ai seguenti assicurati di condizioni economiche modeste che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito:
 
 - a. ai frontalieri e ai loro familiari;
 - b. ai familiari dei dimoranti temporanei, dei dimoranti annuali e dei domiciliati;
@@ -1789,9 +1789,9 @@ I Cantoni accordano riduzioni dei premi ai seguenti assicurati di condizioni eco
 
 #### Art. 66a
 
-**Riduzione dei premi da parte della Confederazione a favore degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia[^66a-2]**[^66a-1]
+**Riduzione dei premi da parte della Confederazione a favore degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito[^66a-2]**[^66a-1]
 
-<sup>1</sup> La Confederazione accorda riduzioni dei premi agli assicurati di condizioni economiche modeste che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che beneficiano di una rendita svizzera; la riduzione è accordata anche ai loro familiari assicurati in Svizzera.[^66a-3]
+<sup>1</sup> La Confederazione accorda riduzioni dei premi agli assicurati di condizioni economiche modeste che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che beneficiano di una rendita svizzera; la riduzione è accordata anche ai loro familiari assicurati in Svizzera.[^66a-3]
 
 <sup>2</sup> La Confederazione assume il finanziamento dei sussidi per la riduzione dei premi agli assicurati di cui al capoverso 1.
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240301-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 1<sup>er</sup> janvier 2024)
+du 18 mars 1994 (État le 1<sup>er</sup> mars 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -125,16 +125,16 @@ Les personnes tenues de s’assurer choisissent librement parmi les assureurs au
 
 #### Art. 4a
 
-**Choix de l’assureur pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne[^4a-2], en Islande ou en Norvège**[^4a-1]
+**Choix de l’assureur pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni[^4a-2]**[^4a-1]
 
 Sont assurées par le même assureur:
 
-- a. les personnes tenues de s’assurer parce qu’elles exercent une activité lucrative en Suisse et les membres de leur famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège;
-- b. les personnes tenues de s’assurer parce qu’elles touchent une rente suisse et les membres de leur famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège;
-- c. les personnes tenues de s’assurer parce qu’elles perçoivent une prestation de l’assurance-chômage suisse et les membres de leur famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège.
+- a. les personnes tenues de s’assurer parce qu’elles exercent une activité lucrative en Suisse et les membres de leur famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni;
+- b. les personnes tenues de s’assurer parce qu’elles touchent une rente suisse et les membres de leur famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni;
+- c. les personnes tenues de s’assurer parce qu’elles perçoivent une prestation de l’assurance-chômage suisse et les membres de leur famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni.
 
 [^4a-1]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^4a-2]: Nouvelle expression selon le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4a-2]: Nouvelle expression selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre de la conv. sur la coordination de la sécurité sociale entre la Suisse et le Royaume‑Uni, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
 
@@ -160,17 +160,17 @@ Sont assurées par le même assureur:
 
 #### Art. 6a
 
-**Contrôle et affiliation d’office des assurés résidant dans un État membre de l’Union européenne, en Islande ou en Norvège[^6a-2]**[^6a-1]
+**Contrôle et affiliation d’office des assurés résidant dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni[^6a-2]**[^6a-1]
 
 <sup>1</sup>
 
 Les cantons informent sur l’obligation de s’assurer:
 
-- a. les personnes qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui sont tenues de s’assurer parce qu’elles exercent une activité lucrative en Suisse;
-- b. les personnes qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui sont tenues de s’assurer parce qu’elles perçoivent une prestation de l’assurance-chômage suisse;
-- c. les personnes qui sont tenues de s’assurer parce qu’elles touchent une rente suisse et qui transfèrent leur résidence de Suisse dans un État membre de l’Union européenne, en Islande ou en Norvège.[^6a-3]
+- a. les personnes qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni et qui sont tenues de s’assurer parce qu’elles exercent une activité lucrative en Suisse;
+- b. les personnes qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni et qui sont tenues de s’assurer parce qu’elles perçoivent une prestation de l’assurance-chômage suisse;
+- c. les personnes qui sont tenues de s’assurer parce qu’elles touchent une rente suisse et qui transfèrent leur résidence de Suisse dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni.[^6a-3]
 
-<sup>2</sup> L’information prévue à l’al. 1 vaut d’office pour les membres de la famille qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège.[^6a-4]
+<sup>2</sup> L’information prévue à l’al. 1 vaut d’office pour les membres de la famille qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni.[^6a-4]
 
 <sup>3</sup> L’autorité désignée par le canton affilie d’office les personnes qui n’ont pas donné suite à l’obligation de s’assurer en temps utile. Elle statue sur les demandes d’exception à l’obligation de s’assurer. L’art. 18, al. 2<sup>bis</sup> et 2<sup>ter</sup>, est réservé.
 
@@ -324,11 +324,11 @@ Le Conseil fédéral règle:
 
 <sup>2</sup> L’institution commune prend en charge les coûts afférents aux prestations légales en lieu et place des assureurs insolvables conformément à l’art. 51 LSAMal[^18-2].[^18-3]
 
-<sup>2bis</sup> L’institution commune statue sur les demandes de dérogation à l’obligation de s’assurer déposées par des rentiers et des membres de leur famille qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège.[^18-4]
+<sup>2bis</sup> L’institution commune statue sur les demandes de dérogation à l’obligation de s’assurer déposées par des rentiers et des membres de leur famille qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni.[^18-4]
 
-<sup>2ter</sup> Elle affilie d’office les rentiers ainsi que les membres de leur famille qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui n’ont pas donné suite à l’obligation de s’assurer en temps utile.[^18-5]
+<sup>2ter</sup> Elle affilie d’office les rentiers ainsi que les membres de leur famille qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni et qui n’ont pas donné suite à l’obligation de s’assurer en temps utile.[^18-5]
 
-<sup>2quater</sup> Elle assiste les cantons dans l’exécution de la réduction des primes prévue à l’art. 65*a* en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège.[^18-6]
+<sup>2quater</sup> Elle assiste les cantons dans l’exécution de la réduction des primes prévue à l’art. 65*a* en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni.[^18-6]
 
 <sup>2quinquies</sup> Elle procède à la réduction des primes conformément à l’art. 66*a*.[^18-7]
 
@@ -784,17 +784,17 @@ Les établissements et celles de leurs divisions qui servent au traitement hospi
 
 <sup>1ter</sup> L’al. 1<sup>bis</sup> s’applique par analogie aux maisons de naissance.[^41-5]
 
-<sup>2</sup> En cas de traitement hospitalier en Suisse, les assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège ont le libre choix entre les hôpitaux répertoriés.[^41-6]
+<sup>2</sup> En cas de traitement hospitalier en Suisse, les assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni ont le libre choix entre les hôpitaux répertoriés.[^41-6]
 
 <sup>2bis</sup>
 
-Si les assurés suivants qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège se soumettent à un traitement hospitalier dans un hôpital répertorié, l’assureur et le canton auquel ils sont rattachés assument la rémunération à concurrence du tarif applicable pour ce traitement dans un hôpital répertorié du canton en question:
+Si les assurés suivants qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni se soumettent à un traitement hospitalier dans un hôpital répertorié, l’assureur et le canton auquel ils sont rattachés assument la rémunération à concurrence du tarif applicable pour ce traitement dans un hôpital répertorié du canton en question:
 
 - a. les frontaliers et les membres de leur famille;
 - b. les membres de la famille des personnes qui sont titulaires d’une autorisation d’établissement, d’une autorisation de séjour ou d’une autorisation de séjour de courte durée en Suisse;
 - c. les personnes qui perçoivent une prestation de l’assurance-chômage suisse et les membres de leur famille.[^41-7]
 
-<sup>2ter</sup> Si des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui touchent une rente suisse ou des membres de leur famille se soumettent à un traitement hospitalier dans un hôpital répertorié, l’assureur et les cantons assument conjointement la rémunération à concurrence du tarif applicable pour ce traitement dans un hôpital répertorié du canton de référence. Le Conseil fédéral détermine le canton de référence.[^41-8]
+<sup>2ter</sup> Si des assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni et qui touchent une rente suisse ou des membres de leur famille se soumettent à un traitement hospitalier dans un hôpital répertorié, l’assureur et les cantons assument conjointement la rémunération à concurrence du tarif applicable pour ce traitement dans un hôpital répertorié du canton de référence. Le Conseil fédéral détermine le canton de référence.[^41-8]
 
 <sup>3</sup> Si, pour des raisons médicales, l’assuré se soumet à un traitement hospitalier fourni par un hôpital non répertorié du canton de résidence, l’assureur et le canton de résidence prennent à leur charge leur part respective de rémunération au sens de l’art. 49*a*. À l’exception du cas d’urgence, une autorisation du canton de résidence est nécessaire.[^41-9]
 
@@ -1097,7 +1097,7 @@ Les cantons prennent en charge la part cantonale:
 - a. des assurés qui résident sur leur territoire;
 - b.
 
-  des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui sont hospitalisés en Suisse, s’ils appartiennent aux catégories suivantes:
+  des assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni et qui sont hospitalisés en Suisse, s’ils appartiennent aux catégories suivantes:
 
   - 1\. les frontaliers et les membres de leur famille,
   - 2\. les membres de la famille des personnes qui sont titulaires d’une autorisation d’établissement, d’une autorisation de séjour ou d’une autorisation de séjour de courte durée en Suisse,
@@ -1109,7 +1109,7 @@ Les cantons prennent en charge la part cantonale:
 
 <sup>3</sup> Le canton de résidence verse sa part de la rémunération directement à l’hôpital. Les modalités sont convenues entre l’hôpital et le canton. L’assureur et le canton peuvent convenir que le canton paie sa part à l’assureur, et que ce dernier verse les deux parts à l’hôpital. La facturation entre l’hôpital et l’assureur est réglée à l’art. 42.
 
-<sup>3bis</sup> En cas de traitement hospitalier en Suisse suivi par des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui touchent une rente suisse ou par des membres de leur famille, les cantons assument collectivement la prise en charge de la part cantonale fixée par le canton où se situe l’hôpital. Le montant dû à ce titre par chacun des cantons est réparti entre eux proportionnellement à leur population résidante.[^49a-5]
+<sup>3bis</sup> En cas de traitement hospitalier en Suisse suivi par des assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni et qui touchent une rente suisse ou par des membres de leur famille, les cantons assument collectivement la prise en charge de la part cantonale fixée par le canton où se situe l’hôpital. Le montant dû à ce titre par chacun des cantons est réparti entre eux proportionnellement à leur population résidante.[^49a-5]
 
 <sup>4</sup> Les assureurs peuvent conclure avec les hôpitaux ou les maisons de naissance non répertoriés au sens de l’art. 39, mais qui remplissent les conditions fixées aux art. 38 et 39, al. 1, let. a à c et f, des conventions sur la rémunération des prestations fournies au titre de l’assurance obligatoire des soins.[^49a-6] Cette rémunération ne peut être plus élevée que la part visée à l’al. 2.
 
@@ -1591,7 +1591,7 @@ Les projets pilotes qui concernent l’un des domaines suivants peuvent déroger
 
 <sup>3bis</sup> Le Conseil fédéral peut fixer les réductions de primes visées à l’al. 3.[^61-4]
 
-<sup>4</sup> Pour les assurés résidant dans un État membre de l’Union européenne, en Islande ou en Norvège, les primes sont calculées en fonction de l’État de résidence. Le Conseil fédéral édicte les dispositions sur la fixation et l’encaissement des primes de ces assurés.[^61-5]
+<sup>4</sup> Pour les assurés résidant dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni, les primes sont calculées en fonction de l’État de résidence. Le Conseil fédéral édicte les dispositions sur la fixation et l’encaissement des primes de ces assurés.[^61-5]
 
 <sup>5</sup> …[^61-6]
 
@@ -1621,7 +1621,7 @@ Un parent est seul débiteur des primes si l’autre parent atteste que:
 
 #### Art. 61b
 
-**Prélèvement des primes des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège**[^61b-1]
+**Prélèvement des primes des assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni**[^61b-1]
 
 Les primes des membres de la famille d’une personne qui est assurée parce qu’elle exerce une activité lucrative en Suisse, parce qu’elle touche une rente suisse ou parce qu’elle perçoit une prestation de l’assurance-chômage suisse sont prélevées auprès de ladite personne.
 
@@ -1728,20 +1728,20 @@ L’assureur ne peut prélever aucune participation aux coûts des prestations s
 
 <sup>7</sup> Les cantons peuvent tenir une liste des assurés qui ne paient pas leurs primes malgré les poursuites, liste à laquelle n’ont accès que les fournisseurs de prestations, la commune et le canton. Sur notification du canton, l’assureur suspend la prise en charge des prestations fournies à ces assurés, à l’exception de celles relevant de la médecine d’urgence, et avise l’autorité cantonale compétente de la suspension de sa prise en charge et, lorsque les assurés ont acquitté leurs créances, de l’annulation de cette suspension. Une prestation relevant de la médecine d’urgence consiste en une prestation qui ne peut pas être repoussée. C’est le cas lorsque l’assuré, en l’absence d’un traitement immédiat, doit craindre une atteinte à la santé, voire la mort, ou qu’il peut mettre en danger la santé d’autres personnes.[^64a-5]
 
-<sup>7bis</sup> Les assurés qui deviennent majeurs peuvent changer d’assureur à la fin de l’année civile en dérogation à l’al. 6 même si des arriérés de primes et de participations aux coûts, des intérêts moratoires et des frais de poursuite datant de la période de leur minorité sont impayés. Pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège, l’art. 4*a* s’applique.[^64a-6]
+<sup>7bis</sup> Les assurés qui deviennent majeurs peuvent changer d’assureur à la fin de l’année civile en dérogation à l’al. 6 même si des arriérés de primes et de participations aux coûts, des intérêts moratoires et des frais de poursuite datant de la période de leur minorité sont impayés. Pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni, l’art. 4*a* s’applique.[^64a-6]
 
 <sup>7ter</sup> Les cantons et les assureurs échangent leurs données selon une procédure uniforme. Le Conseil fédéral règle les modalités après avoir entendu les cantons et les assureurs.[^64a-7]
 
 <sup>8</sup> Le Conseil fédéral règle les tâches de l’organe de révision et désigne les titres jugés équivalents à un acte de défaut de biens. Il règle également les frais de rappel et de sommation, les modalités de la procédure de sommation et de poursuite ainsi que les modalités des versements des cantons aux assureurs.[^64a-8]
 
-<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-9]
+<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-9]
 
 [^64a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476), [FF 2009 5973](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5987](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-3]: Voir aussi les dips. trans. de la mod. du 19 mars 2010 à la fin du texte.
 [^64a-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-5]: 3<sup>e</sup> et 4<sup>e</sup> phrases introduites par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-6]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-6]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes) ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre de la conv. sur la coordination de la sécurité sociale entre la Suisse et le Royaume‑Uni, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
 [^64a-7]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-8]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 [^64a-9]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
@@ -1778,9 +1778,9 @@ L’assureur ne peut prélever aucune participation aux coûts des prestations s
 
 #### Art. 65a
 
-**Réduction des primes par les cantons en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège**[^65a-1]
+**Réduction des primes par les cantons en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni**[^65a-1]
 
-Les cantons accordent une réduction des primes aux assurés de condition économique modeste désignés ci-après qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège, soit:
+Les cantons accordent une réduction des primes aux assurés de condition économique modeste désignés ci-après qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni, soit:
 
 - a. aux frontaliers ainsi qu’aux membres de leur famille;
 - b. aux membres de la famille des personnes titulaires d’une autorisation d’établissement, d’une autorisation de séjour ou d’une autorisation de séjour de courte durée en Suisse;
@@ -1802,9 +1802,9 @@ Les cantons accordent une réduction des primes aux assurés de condition écono
 
 #### Art. 66a
 
-**Réduction des primes par la Confédération en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège[^66a-2]**[^66a-1]
+**Réduction des primes par la Confédération en faveur des assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni[^66a-2]**[^66a-1]
 
-<sup>1</sup> La Confédération accorde une réduction des primes aux assurés de condition économique modeste qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège et qui touchent une rente suisse ainsi qu’aux membres de leur famille.[^66a-3]
+<sup>1</sup> La Confédération accorde une réduction des primes aux assurés de condition économique modeste qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni et qui touchent une rente suisse ainsi qu’aux membres de leur famille.[^66a-3]
 
 <sup>2</sup> La Confédération assume le financement des subsides destinés à la réduction des primes des assurés visés à l’al. 1.
 
