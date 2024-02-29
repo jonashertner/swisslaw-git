@@ -3,13 +3,12 @@ canton: FR
 number: "917.11"
 title: Ausführungsreglement zum Gesetz über die Bodenverbesserungen
 language: de
-version: 2022-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-12-14
+version: 2024-03-01
+version_adopted: 2024-02-20
 adopted: 1992-08-11
 in_force: 1992-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7049/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7978/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7049/pdf_file"
 
 Bodenverbesserungen – R
 
-vom 11.08.1992 (Fassung in Kraft getreten am 01.01.2022)
+vom 11.08.1992 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -326,7 +325,7 @@ beschliesst:
 
 <sup>2</sup> Überschreitet die Differenz zwischen der Fläche gemäss Güterzusammenlegung und der im Grundbuch eingetragenen Fläche die übliche Toleranzgrenze, so ist die Fläche gemäss Güterzusammenlegung in Form einer Bemerkung in der Liegenschaftsbeschreibung des Grundbuchs einzutragen.
 
-<sup>3</sup> Diese Eintragung untersteht der Genehmigung des Amtes für Vermessung und Geomatik und von Grangeneuve.
+<sup>3</sup> Diese Eintragung untersteht der Genehmigung des Amtes für Geoinformation und von Grangeneuve.
 
 #### Art. 34
 
@@ -488,7 +487,7 @@ beschliesst:
 
 <sup>1</sup> Im Hinblick auf die Erstellung des Übergangskatasters zieht der Geometer den Grundbuchverwalter bei, wenn er den Wortlaut der Eintragungen, der Vormerkungen und der Anmerkungen festsetzt.
 
-<sup>2</sup> Die Pläne und die Grundstückbeschreibung des Übergangskatasters werden gemäss den unter Mitwirkung des Amtes für Vermessung und Geomatik ausgearbeiteten Weisungen erstellt und von diesem Amt kontrolliert.
+<sup>2</sup> Die Pläne und die Grundstückbeschreibung des Übergangskatasters werden gemäss den unter Mitwirkung des Amtes für Geoinformation ausgearbeiteten Weisungen erstellt und von diesem Amt kontrolliert.
 
 #### Art. 53
 
