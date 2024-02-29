@@ -4,11 +4,11 @@ title: "Lescha federala dals 15 da zercladur 2018 davart ils instituts da finanz
 short: LIFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: rm
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/rm/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/rm/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart ils instituts da finanzas, LIFin)
 
-dals 15 da zercladur 2018 (versiun dal 1. d’avust 2021)
+dals 15 da zercladur 2018 (versiun dal 1. da mars 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -399,9 +399,12 @@ L’administratur da facultads collectivas annunzia la surpigliada da ses dretgs
 
 #### Art. 32
 
-**Definiziun**
+**Noziun**[^32-1]
 
-Sco direcziun da fonds vala, tgi che administrescha independentamain fonds d’investiziun en l’agen num e sin quint dals investiders.
+Sco direcziun dal fond vala, tgi che administrescha independentamain fonds d’investiziun en l’agen num e sin quint dals investiders tenor l’artitgel 15 alinea 1 litera a da la Lescha dals 23 da zercladur 2006[^32-2] davart las investiziuns collectivas (LICol) u procura per l’administraziun d’ina SICAV tenor l’artitgel 13 alinea 2 litera b LICol.
+
+[^32-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 17 da dec. 2021, en vigur dapi il 1. da mars 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^32-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 33
 
@@ -482,13 +485,43 @@ La direcziun da fonds ha il dretg:
 
 [^39-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
+#### Art. 39a
+
+**Midada da la direcziun d’in Limited Qualified Investor Fund**[^39a-1]
+
+<sup>1</sup> L’artitgel 39 alineas 2–6 n’è betg applitgabel per la midada da la direcziun d’in Limited Qualified Investor Fund (L-QIF) en la furma giuridica d’in fond d’investiziun contractual.
+
+<sup>2</sup> Il contract da transferiment è mo valaivel, sch’el vegn concludì en scrit u en in’autra furma che permetta ina cumprova tras text e sch’el è vegnì approvà ordavant da la banca da deposit.
+
+<sup>3</sup> La direcziun vertenta dal fond communitgescha il transferiment planisà en ils organs da publicaziun ed inditgescha, cura che la midada vegn exequida.
+
+<sup>4</sup> D’ina publicaziun tenor l’alinea 3 poi vegnir desistì, sche tut ils investiders vegnan infurmads – en scrit u en in’autra furma che permetta ina cumprova tras text – davart il transferiment e davart il mument da l’execuziun da la midada.
+
+<sup>5</sup>
+
+La midada da la direcziun dal fond dastga vegnir exequida il pli baud:
+
+- a. en cas d’in fond d’investiziun contractual, nua ch’ina restituziun è pussaivla da tut temp: 30 dis suenter la publicaziun tenor l’alinea 3 u suenter l’infurmaziun tenor l’alinea 4;
+- b. en cas d’in fond d’investiziun contractual, nua ch’ina restituziun n’è betg pussaivla da tut temp: il di suenter il di che las cumparts pon vegnir restituidas resguardond ils termins da restituziun e las datas contractualas u reglamentaricas, sch’il contract dal fond vegniss disditg il 30. di suenter la publicaziun tenor l’alinea 3 u suenter l’infurmaziun tenor l’alinea 4.
+
+<sup>6</sup> Sch’il termin da disditga contractual u reglamentaric è pli lung che 30 dis, dastga la midada vegnir exequida pli baud che tenor l’alinea 5, sche tut ils investiders dattan lur consentiment en scrit u en in’autra furma che permetta ina cumprova tras text, il pli baud dentant 30 dis suenter la publicaziun tenor l’alinea 3 u suenter l’infurmaziun tenor l’alinea 4.
+
+[^39a-1]: Integrà tras la cifra 5 da l’agiunta da la LF dals 17 da dec. 2021, en vigur dapi il 1. da mars 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
 #### Art. 40
 
 **Excorporaziun da la facultad dal fond**
 
-<sup>1</sup> En cas d’in concurs da la direcziun da fonds vegnan ils bains ed ils dretgs che appartegnan al fond d’investiziun excorporads a favur dals investiders. Resalvads restan ils dretgs da la direcziun da fonds tenor l’artitgel 38.
+<sup>1</sup>
+
+En cas d’in concurs da la direcziun dal fond vegn separà il suandant a favur dals investiders u dals possessurs dals contos:
+
+- a. bains e dretgs che appartegnan al fond d’investiziun, cun resalva dals dretgs da la direcziun dal fond tenor l’artitgel 38;
+- b. cumparts d’investiziuns collectivas da chapital ch’èn accreditadas a contos da cumparts.[^40-1]
 
 <sup>2</sup> Debits da la direcziun da fonds, che na resultan betg dal contract da fond, na pon betg vegnir scuntrads cun pretensiuns che appartegnan al fond d’investiziun.
+
+[^40-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 17 da dec. 2021, en vigur dapi il 1. da mars 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### 4. secziun Chasas da vaglias
 

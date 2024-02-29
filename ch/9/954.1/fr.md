@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)
 short: LEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: fr
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/fr"
 
 (LEFin)[^t-1]\*
 
-du 15 juin 2018 (État le 1<sup>er</sup> août 2021)
+du 15 juin 2018 (État le 1<sup>er</sup> mars 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -399,9 +399,12 @@ Le gestionnaire de fortune collective annonce au préalable la reprise de ses dr
 
 #### Art. 32
 
-**Définition**
+**Définition**[^32-1]
 
-Est réputé direction de fonds quiconque gère des fonds de placement pour le compte d’investisseurs, de façon indépendante et en son propre nom.
+Est réputé direction de fonds quiconque, pour le compte d’investisseurs, de façon indépendante et en son propre nom, gère des fonds de placement conformément à l’art. 15, al. 1, let. a, de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^32-2] ou assume l’administration de la SICAV visée à l’art. 13, al. 2, let. b, LPCC.
+
+[^32-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^32-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 33
 
@@ -482,13 +485,43 @@ La direction de fonds a droit:
 
 [^39-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
+#### Art. 39a
+
+**Changement de direction d’un Limited Qualified Investor Fund**[^39a-1]
+
+<sup>1</sup> L’art. 39, al. 2 à 6, ne s’applique pas au changement de direction d’un *Limited Qualified Investor Fund* (L-QIF) revêtant la forme d’un fonds de placement contractuel.
+
+<sup>2</sup> Pour être valable, le contrat de transfert doit être passé par écrit ou sous toute autre forme permettant d’en établir la preuve par un texte; il doit être soumis à l’accord préalable de la banque dépositaire.
+
+<sup>3</sup> La direction de fonds en place publie le transfert projeté dans les organes de publication du L-QIF en indiquant le moment du changement.
+
+<sup>4</sup> La publication prévue à l’al. 3 n’est pas nécessaire si tous les investisseurs sont informés, par écrit ou sous toute autre forme permettant d’en établir la preuve par un texte, du transfert et du moment du changement.
+
+<sup>5</sup>
+
+Le changement de direction de fonds est réalisé au plus tôt:
+
+- a. pour un fonds de placement contractuel assorti d’une possibilité de rachat en tout temps: 30 jours après la publication prévue à l’al. 3 ou l’information visée à l’al. 4;
+- b. pour un fonds de placement contractuel non assorti d’une possibilité de rachat en tout temps: le jour suivant le terme auquel les parts peuvent être rachetées en respect des délais de rachat et des termes contractuels ou réglementaires, si le contrat de fonds de placement est résilié pour le trentième jour après la publication prévue à l’al. 3 ou l’information visée à l’al. 4.
+
+<sup>6</sup> Lorsque le délai de dénonciation contractuel ou réglementaire est supérieur à 30 jours, le changement peut être réalisé avant le moment prévu à l’al. 5 si tous les investisseurs donnent leur accord par écrit ou sous toute autre forme permettant d’en établir la preuve par un texte, mais au plus tôt 30 jours après la publication prévue à l’al. 3 ou l’information visée à l’al. 4.
+
+[^39a-1]: Introduit par l’annexe ch. 5 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
 #### Art. 40
 
 **Distraction de la fortune collective du fonds**
 
-<sup>1</sup> Les biens et les droits appartenant au fonds de placement sont distraits au bénéfice des investisseurs en cas de faillite de la direction de fonds. Les prétentions de la direction de fonds au sens de l’art. 38 sont réservées.
+<sup>1</sup>
+
+Sont distraits au bénéfice des investisseurs ou des titulaires de compte en cas de faillite de la direction de fonds:
+
+- a. les biens et les droits appartenant au fonds de placement, sous réserve des prétentions de la direction de fonds au sens de l’art. 38;
+- b. les parts de placements collectifs inscrites au crédit de comptes de parts.[^40-1]
 
 <sup>2</sup> Les dettes de la direction de fonds ne découlant pas du contrat de fonds de placement ne peuvent pas être compensées avec des créances appartenant au fonds de placement.
+
+[^40-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### Section 4 Maisons de titres
 
@@ -579,7 +612,7 @@ Les dispositions de la LB[^47-1] concernant le capital complémentaire s’appli
 
 **Établissement des comptes**
 
-- [tab] Les dispositions de la LB[^48-1] concernant l’établissement des comptes s’appliquent par analogie.
+Les dispositions de la LB[^48-1] concernant l’établissement des comptes s’appliquent par analogie.
 
 [^48-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
@@ -901,7 +934,7 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 **Coordination avec la modification de la loi sur le blanchiment d’argent dans le cadre de la loi fédérale sur les jeux d’argent du 29 septembre 2017**[^74a-1]
 
-... [^74a-2]
+… [^74a-2]
 
 [^74a-1]: Introduit par l’erratum de la CdR de l’Ass. féd. du 24 sept. 2019 ([RO 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)). Erratum de la CdR de l’Ass. féd. du 31 janvier 2020, publié le 18 fév. 2020 ([RO 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
 [^74a-2]: Les disp. de coordination peuvent être consultées au [RO 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)et **2020** 501.
@@ -952,7 +985,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RO 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044), [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)annexe ch. II 7, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 146, [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)annexe ch. 16 [6257](https://fedlex.data.admin.ch/eli/oc/2008/851), [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)annexe ch. 8, [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250), [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)annexe ch. 6, [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304), ch. I 3 [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)annexe ch. 11]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801).

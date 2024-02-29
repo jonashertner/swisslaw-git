@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Juni 2018 über die Finanzinstitute (Finanzinstitut
 short: FINIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: de
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/de"
 
 (Finanzinstitutsgesetz, FINIG)
 
-vom 15. Juni 2018 (Stand am 1. August 2021)
+vom 15. Juni 2018 (Stand am 1. März 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -397,9 +397,12 @@ Der Verwalter von Kollektivvermögen meldet die Übernahme seiner Rechte und Pfl
 
 #### Art. 32
 
-**Begriff**
+**Begriff**[^32-1]
 
-Als Fondsleitung gilt, wer in eigenem Namen und für Rechnung der Anlegerinnen und Anleger selbstständig Anlagefonds verwaltet.
+Als Fondsleitung gilt, wer in eigenem Namen und für Rechnung der Anlegerinnen und Anleger selbstständig Anlagefonds nach Artikel 15 Absatz 1 Buchstabe a des Kollektivanlagengesetzes vom 23. Juni 2006[^32-2] (KAG) verwaltet oder die Administration einer SICAV nach Artikel 13 Absatz 2 Buchstabe b KAG wahrnimmt.
+
+[^32-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^32-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 33
 
@@ -480,13 +483,43 @@ Die Fondsleitung hat Anspruch auf:
 
 [^39-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
+#### Art. 39a
+
+**Wechsel der Fondsleitung eines Limited Qualified Investor Fund**[^39a-1]
+
+<sup>1</sup> Artikel 39 Absätze 2–6 findet auf den Wechsel der Fondsleitung eines Limited Qualified Investor Fund (L-QIF) in der Rechtsform eines vertraglichen Anlagefonds keine Anwendung.
+
+<sup>2</sup> Der Übertragungsvertrag bedarf zu seiner Gültigkeit der Schriftform oder einer anderen Form, die den Nachweis durch Text ermöglicht, sowie der vorgängigen Zustimmung der Depotbank.
+
+<sup>3</sup> Die bisherige Fondsleitung gibt die geplante Übertragung in den Publikationsorganen bekannt und weist darauf hin, wann der Wechsel vollzogen wird.
+
+<sup>4</sup> Auf eine Publikation nach Absatz 3 kann verzichtet werden, wenn sämtliche Anlegerinnen und Anleger schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, über die Übertragung und den Zeitpunkt des Vollzugs des Wechsels informiert werden.
+
+<sup>5</sup>
+
+Der Wechsel der Fondsleitung kann frühestens vollzogen werden:
+
+- a. im Fall eines vertraglichen Anlagefonds mit jederzeitiger Rückgabemöglichkeit: 30 Tage nach der Publikation nach Absatz 3 oder der Information nach Absatz 4;
+- b. im Fall eines vertraglichen Anlagefonds ohne jederzeitige Rückgabemöglichkeit: am Tag nach dem Tag, an dem die Anteile unter Beachtung der vertraglichen oder reglementarischen Rückgabefristen und Termine zurückgegeben werden können, wenn der Fondsvertrag am 30. Tag nach der Publikation nach Absatz 3 oder der Information nach Absatz 4 gekündigt würde.
+
+<sup>6</sup> Dauert die vertragliche oder reglementarische Kündigungsfrist länger als 30 Tage, so kann der Vollzug früher als nach Absatz 5 erfolgen, wenn sämtliche Anlegerinnen und Anleger schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zustimmen, frühestens aber 30 Tage nach der Publikation nach Absatz 3 oder der Information nach Absatz 4.
+
+[^39a-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
 #### Art. 40
 
 **Absonderung des Fondsvermögens**
 
-<sup>1</sup> Sachen und Rechte, die zum Anlagefonds gehören, werden im Konkurs der Fondsleitung zugunsten der Anlegerinnen und Anleger abgesondert. Vorbehalten bleiben die Ansprüche der Fondsleitung nach Artikel 38.
+<sup>1</sup>
+
+Im Konkurs der Fondsleitung werden zugunsten der Anlegerinnen und Anleger oder Kontoinhaberinnen und Kontoinhaber abgesondert:
+
+- a. Sachen und Rechte, die zum Anlagefonds gehören, unter Vorbehalt der Ansprüche der Fondsleitung nach Artikel 38;
+- b. Anteile kollektiver Kapitalanlagen, die Anteilskonten gutgeschrieben sind.[^40-1]
 
 <sup>2</sup> Schulden der Fondsleitung, die sich nicht aus dem Fondsvertrag ergeben, können nicht mit Forderungen, die zum Anlagefonds gehören, verrechnet werden.
+
+[^40-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### 4. Abschnitt: Wertpapierhäuser
 

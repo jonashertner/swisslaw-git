@@ -4,11 +4,11 @@ title: "Federal Act of 15 June 2018 on Financial Institutions (Financial Institu
 short: FinIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: en
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Act, FinIA)
 
-of 15 June 2018 (Status as of 1 August 2021)
+of 15 June 2018 (Status as of 1 March 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -399,9 +399,12 @@ A manager of collective assets shall give advance notice of the assumption of it
 
 #### Art. 32
 
-**Definition**
+**Definition**[^32-1]
 
-A fund management company is an entity that manages investment funds independently in its own name and for the account of investors.
+A fund management company is an entity that manages investment funds independently in its own name and for the account of investors in accordance with Article 15 paragraph 1 letter a of the Collective Investment Schemes Act (CISA) of 23 June 2006[^32-2] or administers a SICAV in accordance with Article 13 paragraph 2 letter b CISA.
+
+[^32-1]: Amended by Annex No 5 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^32-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 33
 
@@ -470,9 +473,9 @@ The fund management company is entitled to:
 
 <sup>1</sup> The rights and duties of the fund management company may be transferred to another fund management company.
 
-<sup>2</sup> In order to be effective, the transfer agreement between the outgoing and incoming fund management company must be made in writing or in another form demonstrable via text and must have the consent of the custodian bank and the approval of FINMA.
+<sup>2</sup> In order to be effective, the transfer agreement between the outgoing and incoming fund management company must be done in writing or in another form demonstrable by text and must have the consent of the custodian bank and the approval of FINMA.
 
-<sup>3</sup> Prior to approval by FINMA, the outgoing fund management company shall publish the proposed transfer in the publication media.
+<sup>3</sup> Prior to approval by FINMA, the outgoing fund management company shall give notice of the proposed transfer in the publication media.
 
 <sup>4</sup> The investors must be informed in these publications of their right to lodge objections with FINMA within 30 days of publication. The procedure is based on the Administrative Procedure Act of 20 December 1968[^39-1].
 
@@ -482,13 +485,43 @@ The fund management company is entitled to:
 
 [^39-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
+#### Art. 39a
+
+**Change in the fund management company of a Limited Qualified Investor Fund**[^39a-1]
+
+<sup>1</sup> Article 39 paragraphs 2–6 does not apply to a change in the fund management company of a Limited Qualified Investor Fund (L-QIF) in the legal form of a contractual investment fund.
+
+<sup>2</sup> In order to be effective, the transfer agreement must be done in writing or in another form demonstrable by text, and must be approved in advance by the custodian bank.
+
+<sup>3</sup> The previous fund management company shall give notice of the proposed transfer in the publication media and indicate when the change will take place.
+
+<sup>4</sup> Publication in accordance with paragraph 3 may be waived if all investors are informed of the transfer and the date of completion of the change in writing or in another form that demonstrable by text.
+
+<sup>5</sup>
+
+The change of fund management company may be completed at the earliest:
+
+- a. in the case of a contractual investment fund with the option of redemption at any time: 30 days after notice in accordance with paragraph 3 or the information in accordance with paragraph 4 is given;
+- b. in the case of a contractual investment fund without the option of redemption at any time: on the day after the day on which the units may be redeemed in accordance with the contractual or regulatory redemption periods and deadlines if the fund contract were to be terminated on the 30th day after notice in accordance with paragraph 3 or the information in accordance with paragraph 4 is given.
+
+<sup>6</sup> If the contractual or regulatory notice period lasts longer than 30 days, execution may take place earlier than required by paragraph 5 if all investors agree in writing or in another form demonstrable by text, but no earlier than 30 days after notice in accordance with paragraph 3 or the information in accordance with paragraph 4 is given.
+
+[^39a-1]: Inserted by Annex No 5 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
 #### Art. 40
 
 **Segregation of the fund assets**
 
-<sup>1</sup> In the event of the bankruptcy of the fund management company, assets and rights belonging to the investment fund shall be segregated in favour of the investors. The foregoing is without prejudice to the fund management company's claims under Article 38.
+<sup>1</sup>
+
+In the event of the bankruptcy of the fund management company, the following shall be segregated for the benefit of the investors or account holders:
+
+- a. assets and rights belonging to the investment fund, without prejudice to the fund management company's claims under Article 38;
+- b. units in collective investment schemes that are credited to unit accounts.[^40-1]
 
 <sup>2</sup> Debts incurred by the fund management company that do not result from the fund contract may not be set off against claims belonging to the investment fund.
+
+[^40-1]: Amended by Annex No 5 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### Section 4 Securities Firms
 
@@ -904,7 +937,7 @@ The repeal and amendment of other legislative instruments are set out in the Ann
 ...[^74a-2]
 
 [^74a-1]: Inserted by the correction made by the Federal Assembly Drafting Committee of 24 Sept. 2019 ([AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)).
-[^74a-2]: The coordination provisions can be consulted under [AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)and [AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91). Correction by Federal Assembly Drafting Committee of 31 Jan. 2020, published on 18 Febr. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
+[^74a-2]: The coordination provisions can be consulted under [AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)and [AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91). Correction by Federal Assembly Drafting Committee of 31 Jan. 2020, published on 18 Feb. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
 
 #### Art. 75
 
@@ -954,5 +987,5 @@ The legislative instruments below are amended as follows:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044), [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Annex No II 7, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 146, [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)Annex No 16, [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)Annex No 8, [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250), [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)Annex No 6, [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304)No I 3 [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)Annex No 11]
+[^annexu1-lvlu1-1]: [[AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68), [2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044); [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Annex No II 7; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 146; [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)Annex No 16; [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)Annex No 8; [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)Annex No 6; [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304)No I 3, [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)Annex No 11]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801).

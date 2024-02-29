@@ -4,11 +4,11 @@ title: "Legge federale del 15 giugno 2018 sugli istituti finanziari (Legge sugli
 short: LIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: it
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/it"
 
 (Legge sugli istituti finanziari, LIsFi)
 
-del 15 giugno 2018 (Stato 1° agosto 2021)
+del 15 giugno 2018 (Stato 1° marzo 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -397,9 +397,12 @@ Il gestore di patrimoni collettivi comunica previamente l’assunzione dei suoi 
 
 #### Art. 32
 
-**Definizione**
+**Definizione**[^32-1]
 
-Per direzione del fondo s’intende chiunque gestisce autonomamente fondi di investimento in nome proprio e per conto degli investitori.
+Per direzione del fondo s’intende chiunque, in nome proprio e per conto degli investitori, gestisce autonomamente fondi di investimento di cui all’articolo 15 capoverso 1 lettera a della legge del 23 giugno 2006[^32-2] sugli investimenti collettivi (LICol) o esercita l’amministrazione di una SICAV di cui all’articolo 13 capoverso 2 lettera b LICol.
+
+[^32-1]: Nuovo testo giusta l’all. n. 5 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^32-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 33
 
@@ -480,13 +483,43 @@ La direzione del fondo ha diritto:
 
 [^39-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
+#### Art. 39a
+
+**Cambiamento della direzione di un fondo riservato a investitori qualificati**[^39a-1]
+
+<sup>1</sup> L’articolo 39 capoversi 2–6 non si applica al cambiamento della direzione di un fondo riservato a investitori qualificati (L-QIF) che riveste la forma giuridica di un fondo contrattuale di investimento.
+
+<sup>2</sup> Per essere valido, il contratto di trasferimento deve avere la forma scritta o un’altra forma che ne consenta la prova per testo e ottenere dapprima l’accordo della banca depositaria.
+
+<sup>3</sup> La direzione in carica rende noto negli organi di pubblicazione il previsto trasferimento e indica quando sarà eseguito il cambiamento.
+
+<sup>4</sup> Si può omettere una pubblicazione secondo il capoverso 3 se tutti gli investitori vengono informati, per scritto o in un’altra forma che consenta la prova per testo, sul trasferimento e sul momento dell’esecuzione del cambiamento.
+
+<sup>5</sup>
+
+Il cambiamento della direzione del fondo può essere eseguito al più presto:
+
+- a. nel caso di un fondo contrattuale di investimento con possibilità di riscatto in qualsiasi momento, 30 giorni dopo la pubblicazione secondo il capoverso 3 o l’informazione secondo il capoverso 4;
+- b. nel caso di un fondo contrattuale di investimento senza possibilità di riscatto in qualsiasi momento, il giorno successivo alla data in cui le quote possono essere riscattate nel rispetto dei termini di riscatto e delle scadenze contrattuali o regolamentari, se il contratto fosse disdetto il 30° giorno dopo la pubblicazione secondo il capoverso 3 o l’informazione secondo il capoverso 4.
+
+<sup>6</sup> Qualora il termine contrattuale o regolamentare di disdetta superi i 30 giorni, il cambiamento può essere eseguito prima di quanto previsto al capoverso 5 se tutti gli investitori hanno dato il loro consenso per scritto o in un’altra forma che ne consenta la prova per testo, ma al più presto 30 giorni dopo la pubblicazione secondo il capoverso 3 o l’informazione secondo il capoverso 4.
+
+[^39a-1]: Introdotto dall’all. n. 5 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
 #### Art. 40
 
 **Scorporo del patrimonio del fondo**
 
-<sup>1</sup> In caso di fallimento della direzione del fondo i beni e i diritti appartenenti al fondo di investimento sono scorporati in favore degli investitori. Sono fatte salve le pretese della direzione del fondo di cui all’articolo 38.
+<sup>1</sup>
+
+In caso di fallimento della direzione del fondo, sono scorporati in favore degli investitori o dei titolari dei conti:
+
+- a. i beni e i diritti appartenenti al fondo di investimento, fatte salve le pretese della direzione del fondo di cui all’articolo 38;
+- b. le quote di investimenti collettivi di capitale accreditate su conti di quote.[^40-1]
 
 <sup>2</sup> I debiti della direzione del fondo che non risultano dal contratto del fondo non possono essere compensati con crediti appartenenti al fondo di investimento.
+
+[^40-1]: Nuovo testo giusta l’all. n. 5 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### Sezione 4: Società di intermediazione mobiliare
 
@@ -952,5 +985,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044), [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. II 7, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 146, [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)all. n. 16 [6257](https://fedlex.data.admin.ch/eli/oc/2008/851), [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)all. n. 8, [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250), [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)all. n. 6, [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304)n. I 3 [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)all. n. 11]
+[^annexu1-lvlu1-1]: [[RU 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68), [2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044); [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. II 7; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 146; [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)all. n. 16 [6257](https://fedlex.data.admin.ch/eli/oc/2008/851); [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)all. n. 8; [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)all. n. 6; [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304)n. I 3, [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)all. n. 11]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801).
