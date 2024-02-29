@@ -4,13 +4,13 @@ number: "812.1"
 title: Loi sur les eaux
 short: LCEaux
 language: fr
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-03-26
+version: 2024-03-01
+valid_until: 2026-07-31
+version_adopted: 2023-11-24
 adopted: 2009-12-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/812.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7651/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7956/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Eaux – L
 
 (LCEaux)
 
-du 18.12.2009 (version entrée en vigueur le 01.01.2023)
+du 18.12.2009 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -179,7 +179,7 @@ Décrète:
 
 **Plan général d'évacuation des eaux (PGEE)**
 
-<sup>1</sup> Chaque commune établit pour son territoire un plan général d'évacuation des eaux (art. 5 OEaux) en conformité avec le plan directeur de bassin versant. Elle veille à ce qu'il soit coordonné avec le plan d'aménagement local.
+<sup>1</sup> Chaque commune établit pour son territoire un plan général d'évacuation des eaux (art. 5 OEaux) en conformité avec le plan directeur de bassin versant. Elle veille à ce qu'il soit coordonné avec le plan d'aménagement local. En outre, elle transmet les données du PGEE au service compétent.
 
 <sup>2</sup> Le PGEE définit notamment les installations d'évacuation et d'épuration des eaux à réaliser et les priorités de mise en œuvre. La commune les reprend dans son programme d'équipement.
 
@@ -235,9 +235,9 @@ Décrète:
 
 **Zones de protection des eaux souterraines – Procédure**
 
-<sup>1</sup> La procédure d'approbation des plans d'affectation des zones et de leur réglementation est applicable par analogie au plan et au règlement des zones de protection des eaux souterraines.
+<sup>1</sup> La procédure d'approbation des plans d'affectation des zones et de leur réglementation est applicable par analogie au plan et au règlement des zones de protection des eaux souterraines, à l'exception de l'enquête publique au cours de laquelle les plans et les règlements des zones de protection des eaux souterraines peuvent être consultés dans le cadastre des restrictions de droit public à la propriété foncière.
 
-<sup>2</sup> Au terme de la procédure, les zones de protection sont reportées à titre indicatif sur le plan d'affectation des zones.
+<sup>2</sup> Au terme de la procédure, les zones de protection des eaux souterraines sont publiées dans le cadastre des restrictions de droit public à la propriété foncière et reportées à titre indicatif sur le plan d'affectation des zones.
 
 #### Art. 19
 
@@ -251,7 +251,10 @@ Décrète:
 
 <sup>1</sup> L'Etat établit les plans des périmètres de protection des eaux souterraines (art. 21 al. 1 LEaux).
 
-<sup>2</sup> La procédure d'approbation des plans d'affectation cantonaux selon l'article 22 LATeC est applicable par analogie. Au terme de la procédure, les périmètres sont reportés à titre indicatif sur le plan d'affectation des zones.
+<sup>2</sup> La procédure d'approbation des plans d'affectation cantonaux selon l'article 22 LATeC est applicable par analogie, sous réserve des dispositions suivantes:
+
+- a) les plans et les règlements des périmètres de protection des eaux souterraines peuvent être consultés dans le cadastre des restrictions de droit public à la propriété foncière;
+- b) au terme de la procédure, les périmètres de protection des eaux souterraines sont publiés dans le cadastre des restrictions de droit public à la propriété foncière.
 
 <sup>3</sup> Les frais engagés par l'Etat pour l'établissement du plan ainsi que les éventuelles indemnités à verser en cas de restriction du droit de propriété sont à la charge des futurs détenteurs ou détentrices de captages d'eaux souterraines ou d'installations d'alimentation artificielle des eaux souterraines (art. 21 al. 2 LEaux).
 
@@ -286,7 +289,7 @@ Décrète:
 - a) laisser libre de toute intervention le tracé encore naturel ou proche de l'état naturel des cours d'eau;
 - b) protéger les tronçons de cours d'eau dont le tracé est encore naturel ou proche de l'état naturel;
 - c) reconstituer les conditions permettant aux cours d'eau de s'écouler dans un tracé naturel et de retrouver des biotopes proches de l'état naturel, chaque fois que cela est techniquement possible et économiquement supportable, notamment par leur remise à ciel ouvert;
-- d) réaménager les rives afin qu'elles puissent, chaque fois que cela est techniquement possible et économiquement supportable, retrouver leurs fonctions naturelles, en réservant l'espace minimal nécessaire au cours d'eau.
+- d) réaménager les rives afin qu'elles puissent, chaque fois que cela est techniquement possible et économiquement supportable, retrouver leurs fonctions naturelles, en tenant compte de l'espace réservé aux eaux.
 
 #### Art. 24
 
@@ -296,21 +299,21 @@ Décrète:
 
 #### Art. 25
 
-**Espace minimal nécessaire aux cours d'eau**
+**Espace réservé aux eaux**
 
-<sup>1</sup> L'espace minimal nécessaire aux cours d'eau sert à la protection contre les crues et à la préservation des fonctions écologiques. Il est délimité par l'Etat.
+<sup>1</sup> L'espace réservé aux eaux sert à la protection contre les crues et à la préservation des fonctions écologiques. Il est délimité par l'Etat.
 
-<sup>2</sup> Si l'espace minimal nécessaire d'un cours d'eau n'est pas délimité, le service compétent le détermine localement pour les projets qui lui sont soumis. A défaut d'une telle détermination, l'espace minimal nécessaire est fixé à 20 mètres à partir de la ligne moyenne des hautes eaux.
+<sup>2</sup> Si l'espace réservé aux eaux n'est pas délimité, le service compétent le détermine localement pour les projets qui lui sont soumis. A défaut d'une telle détermination, l'espace minimal nécessaire est fixé à 20 mètres à partir de la ligne moyenne des hautes eaux.
 
-<sup>3</sup> La distance d'une construction à la limite de l'espace minimal nécessaire est de 4 mètres au minimum.
+<sup>3</sup> La distance d'une construction à la limite de l'espace réservé aux eaux est de 4 mètres au minimum.
 
-<sup>4</sup> L'espace minimal nécessaire est classé en zone protégée par le plan d'affectation des zones; à défaut, il fait l'objet d'une mesure particulière de protection. La procédure d'approbation des plans d'affectation des zones et de leur réglementation est applicable.
+<sup>4</sup> L'espace réservé aux eaux est classé en zone protégée par le plan d'affectation des zones; à défaut, il fait l'objet d'une mesure particulière de protection. La procédure d'approbation des plans d'affectation des zones et de leur réglementation est applicable.
 
-<sup>5</sup> Tout dépôt de matériaux et toute modification du terrain naturel sont interdits dans l'espace minimal nécessaire.
+<sup>5</sup> Tout dépôt de matériaux et toute modification du terrain naturel sont interdits dans l'espace réservé aux eaux.
 
-<sup>6</sup> L'implantation de chemins pédestres ou de dessertes agricoles est possible dans l'espace minimal nécessaire.
+<sup>6</sup> L'implantation de chemins pédestres ou de dessertes agricoles est possible dans l'espace réservé aux eaux.
 
-<sup>7</sup> Des aménagements extérieurs légers sont permis entre l'espace minimal nécessaire et la distance de construction à la condition que la circulation puisse s'y effectuer librement.
+<sup>7</sup> Des aménagements extérieurs légers sont permis entre l'espace réservé aux eaux et la distance de construction à la condition que la circulation puisse s'y effectuer librement.
 
 #### Art. 26
 
@@ -366,7 +369,7 @@ Décrète:
 
 **Acquisition de terrain – Forme**
 
-<sup>1</sup> Les actes authentiques relatifs aux transferts de propriété nécessaires à l'aménagement de cours d'eau peuvent être reçus par un ou une géomètre officiel-le dans les formes prévues par la législation sur la mensuration officielle.
+<sup>1</sup> Les actes authentiques relatifs aux transferts de propriété nécessaires à l'aménagement de cours d'eau peuvent être reçus par un ou une ingénieur‑e géomètre officiel‑le dans les formes prévues par la législation sur la mensuration officielle.
 
 <sup>2</sup> Les transferts opérés en application du présent article sont exonérés des émoluments du registre foncier et des droits de mutation.
 

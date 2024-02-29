@@ -4,13 +4,13 @@ number: "812.1"
 title: Gewässergesetz
 short: GewG
 language: de
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-03-26
+version: 2024-03-01
+valid_until: 2026-07-31
+version_adopted: 2023-11-24
 adopted: 2009-12-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/812.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7651/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7956/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gewässergesetz
 
 (GewG)
 
-vom 18.12.2009 (Fassung in Kraft getreten am 01.01.2023)
+vom 18.12.2009 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -179,7 +179,7 @@ beschliesst:
 
 **Genereller Entwässerungsplan (GEP)**
 
-<sup>1</sup> Jede Gemeinde erstellt für ihr Gebiet – in Übereinstimmung mit dem Richtplan des Einzugsgebiets – einen Generellen Entwässerungsplan (Art. 5 GSchV). Sie sorgt dafür, dass dieser auf den Ortsplan abgestimmt ist.
+<sup>1</sup> Jede Gemeinde erstellt für ihr Gebiet – in Übereinstimmung mit dem Richtplan des Einzugsgebiets – einen generellen Entwässerungsplan (Art. 5 GSchV). Sie sorgt dafür, dass dieser auf den Ortsplan abgestimmt ist. Sie leitet zudem die Daten des GEP an die zuständige Dienststelle weiter.
 
 <sup>2</sup> Der GEP legt insbesondere fest, welche Abwasseranlagen mit welcher Priorität verwirklicht werden müssen. Die Gemeinde überträgt diese Vorgaben in ihr Erschliessungsprogramm.
 
@@ -235,9 +235,9 @@ beschliesst:
 
 **Grundwasserschutzzonen – Verfahren**
 
-<sup>1</sup> Das Genehmigungsverfahren für die Zonennutzungspläne und deren Reglemente gilt sinngemäss für die Grundwasserschutzzonen.
+<sup>1</sup> Das Genehmigungsverfahren für die Zonennutzungspläne und deren Reglemente gilt sinngemäss für den Plan und das Reglement der Grundwasserschutzzonen, mit Ausnahme der öffentlichen Auflage, während der die Pläne und Reglemente der Grundwasserschutzzonen im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen eingesehen werden können.
 
-<sup>2</sup> Nach Abschluss des Verfahrens werden die Schutzzonen zur Information in den Zonennutzungsplan übertragen.
+<sup>2</sup> Nach Abschluss des Verfahrens werden die Grundwasserschutzzonen im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen publiziert und zur Information in den Zonennutzungsplan übertragen.
 
 #### Art. 19
 
@@ -251,7 +251,10 @@ beschliesst:
 
 <sup>1</sup> Der Staat erstellt die Pläne der Grundwasserschutzareale (Art. 21 Abs. 1 GSchG).
 
-<sup>2</sup> Das Genehmigungsverfahren für die kantonalen Nutzungspläne nach Artikel 22 RPBG gilt sinngemäss für die Grundwasserschutzareale. Nach Abschluss des Verfahrens werden die Areale zur Information in den Zonennutzungsplan übertragen.
+<sup>2</sup> Das Genehmigungsverfahren für die kantonalen Nutzungspläne nach Artikel 22 RPBG gilt sinngemäss für die Grundwasserschutzareale. Folgende Bestimmungen bleiben vorbehalten:
+
+- a) die Pläne und Reglemente der Grundwasserschutzareale können im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen eingesehen werden;
+- b) nach Abschluss des Verfahrens werden die Grundwasserschutzareale im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen publiziert.
 
 <sup>3</sup> Die vom Staat getragenen Kosten für die Erstellung des Plans und die allfälligen Entschädigungen von Eigentumsbeschränkungen werden auf die späteren Inhaberinnen und Inhaber der Grundwasserfassungen oder -anreicherungsanlagen überwälzt (Art. 21 Abs. 2 GSchG).
 
@@ -286,7 +289,7 @@ beschliesst:
 - a) Bei natürlichen oder naturnahen Gewässerverläufen wird auf Eingriffe verzichtet.
 - b) Fliessgewässerabschnitte mit natürlichem oder naturnahem Verlauf werden geschützt.
 - c) Wo immer es technisch möglich und wirtschaftlich tragbar ist, werden die Voraussetzungen für einen natürlichen Verlauf der Fliessgewässer und für naturnahe Biotope wiederhergestellt, indem namentlich eingedolte Wasserläufe offen gelegt werden.
-- d) Wo immer es technisch möglich und wirtschaftlich tragbar ist, werden die Ufer so umgestaltet, dass sie ihre natürlichen Funktionen wieder erfüllen können; dabei wird der minimale Raumbedarf der Fliessgewässer berücksichtigt.
+- d) Wo immer es technisch möglich und wirtschaftlich tragbar ist, werden die Ufer so umgestaltet, dass sie ihre natürlichen Funktionen wieder erfüllen können; dabei wird der Gewässerraum berücksichtigt.
 
 #### Art. 24
 
@@ -296,21 +299,21 @@ beschliesst:
 
 #### Art. 25
 
-**Minimaler Raumbedarf von Fliessgewässern**
+**Gewässerraum**
 
-<sup>1</sup> Der minimale Raumbedarf von Fliessgewässern dient dem Schutz vor Hochwasser und der Gewährleistung der natürlichen Funktionen des Gewässers. Er wird vom Staat festgelegt.
+<sup>1</sup> Der Gewässerraum dient dem Schutz vor Hochwasser und der Gewährleistung der natürlichen Funktionen des Gewässers. Er wird vom Staat festgelegt.
 
-<sup>2</sup> Ist der minimale Raumbedarf eines Fliessgewässers nicht festgelegt, so wird er von der zuständigen Dienststelle fallweise für die ihr unterbreiteten Projekte bestimmt. Wird er nicht festgelegt, so beträgt er 20 Meter ab dem mittleren Hochwasserstand.
+<sup>2</sup> Ist der Gewässerraum nicht festgelegt, so wird er von der zuständigen Dienststelle fallweise für die ihr unterbreiteten Projekte bestimmt. Wird er nicht festgelegt, so beträgt er 20 Meter ab dem mittleren Hochwasserstand.
 
-<sup>3</sup> Bauten müssen einen Mindestabstand von 4 Metern zur Grenzlinie des minimalen Raumbedarfs einhalten.
+<sup>3</sup> Bauten müssen einen Mindestabstand von 4 Metern zur Grenzlinie des Gewässerraums einhalten.
 
-<sup>4</sup> Der minimale Raumbedarf wird über den Zonennutzungsplan als Schutzzone definiert. Andernfalls ist er Gegenstand einer besonderen Schutzmassnahme. Es gilt das Genehmigungsverfahren für die Zonennutzungspläne und deren Reglemente.
+<sup>4</sup> Der Gewässerraum wird über den Zonennutzungsplan als Schutzzone definiert. Andernfalls ist er Gegenstand einer besonderen Schutzmassnahme. Es gilt das Genehmigungsverfahren für die Zonennutzungspläne und deren Reglemente.
 
-<sup>5</sup> Innerhalb des minimalen Raumbedarfs sind weder Materiallagerungen noch Änderungen des natürlichen Geländes zulässig.
+<sup>5</sup> Innerhalb des Gewässerraums sind weder Materiallagerungen noch Änderungen des natürlichen Geländes zulässig.
 
-<sup>6</sup> Wanderwege und Zufahrten für die Landwirtschaft sind innerhalb des minimalen Raumbedarfs zulässig.
+<sup>6</sup> Wanderwege und Zufahrten für die Landwirtschaft sind innerhalb des Gewässerraums zulässig.
 
-<sup>7</sup> Zwischen der Grenzlinie des minimalen Raumbedarfs und dem Bauabstand sind leichte Umgebungsarbeiten erlaubt, sofern der Durchgang nicht behindert wird.
+<sup>7</sup> Zwischen der Grenzlinie des Gewässerraums und dem Bauabstand sind leichte Umgebungsarbeiten erlaubt, sofern der Durchgang nicht behindert wird.
 
 #### Art. 26
 
@@ -366,7 +369,7 @@ beschliesst:
 
 **Landerwerb – Form**
 
-<sup>1</sup> Die öffentlichen Urkunden über Eigentumsübertragungen, die für Wasserbauarbeiten an Fliessgewässern nötig sind, können von der amtlichen Geometerin oder vom amtlichen Geometer in der von der Gesetzgebung über die amtliche Vermessung vorgesehenen Form angefertigt werden.
+<sup>1</sup> Die öffentlichen Urkunden über Eigentumsübertragungen, die für Wasserbauarbeiten an Fliessgewässern nötig sind, können von der amtlichen Ingenieur-Geometerin oder vom amtlichen Ingenieur-Geometer in der von der Gesetzgebung über die amtliche Vermessung vorgesehenen Form angefertigt werden.
 
 <sup>2</sup> Die Eigentumsübertragungen nach diesem Artikel sind von Grundbuch- und Handänderungsgebühren befreit.
 
