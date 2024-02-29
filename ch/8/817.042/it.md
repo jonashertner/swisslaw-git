@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2024-02-01
+version: 2024-03-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240201/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° febbraio 2024)
+del 27 maggio 2020 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1855,16 +1855,16 @@ Allegato 1
 
 Allegato 2[^t-1]
 
-(art. 37 cpv. 1, 38 cpv. 1 lett. b, 2 e 5)
+(art. 37 cpv. 1 e 38 cpv. 1 lett. b, 2 e 5)
 
 ## Derrate alimentari non di origine animale provenienti da determinati Paesi che sono soggetti temporaneamente ai controlli ufficiali approfonditi secondo gli articoli 37−43
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+[^t-1]: Aggiornato dal n. I dell’O dell’USAV del 13 feb. 2024, in vigore dal 1° mar. 2024 ([RU 2024 65](https://fedlex.data.admin.ch/eli/oc/2024/65)).
 
 - 1\. Tutte le derrate alimentari iscritte nell’allegato I del regolamento di esecuzione (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato I.
 
-[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1110, GU L 147 del 7.6.2023, pag. 111.
+[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2024/286, GU L 2024/286, 17.1.2024.
 
 Allegato 3[^t-2]
 

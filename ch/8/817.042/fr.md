@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2024-02-01
+version: 2024-03-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240201/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (État le 1<sup>er</sup> février 2024)
+du 27 mai 2020 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1872,12 +1872,12 @@ Annexe 2[^t-1]
 
 ## Denrées alimentaires d’origine non animale provenant de certains pays, temporairement soumises à des contrôles renforcés en vertu des art. 37 à 43
 
-[^t-1]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 7 juil. 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+[^t-1]: Mise à jour par le ch. I de l’O de l’OSAV du 13 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 65](https://fedlex.data.admin.ch/eli/oc/2024/65)).
 
 - 1\. Ensemble des denrées alimentaires figurant à l’annexe I du règlement d’exécution (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. Les procédures d’échantillonnage et les méthodes d’analyses sont régies par l’annexe III du règlement d’exécution, dans la mesure où l’annexe I du règlement d’exécution y renvoie.
 
-[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n° 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 669/2009, (UE) n° 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2023/1110, JO L 147 du 7.6.2023, p. 111.
+[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2024/286, JO L, 2024/286, 17.1.2024
 
 Annexe 3[^t-2]
 
