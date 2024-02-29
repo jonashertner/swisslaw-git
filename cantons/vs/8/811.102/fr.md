@@ -4,13 +4,12 @@ number: "811.102"
 title: Ordonnance sur la surveillance des professions de la santé
 short: OSPS
 language: fr
-version: 2021-01-01
-valid_until: 2024-02-29
-version_adopted: 2020-11-25
+version: 2024-03-01
+version_adopted: 2024-04-10
 adopted: 2020-11-25
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/811.102"
-pdf: "https://lex.vs.ch/api/fr/versions/2778/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3306/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2778/pdf_file"
 
 (OSPS)
 
-du 25.11.2020 (état 01.01.2021)
+du 25.11.2020 (état 01.03.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -120,7 +119,7 @@ ordonne:
 
 <sup>2</sup> En particulier, les dispositions de l’article 10 LPJA sont applicables en matière de récusation.
 
-<sup>3</sup> Lorsqu’une plainte émane d’un patient, les professionnels visés par la plainte sont automatiquement déliés du secret professionnel à l’égard du département, du SSP et de la CCSPS, et le cas échéant du secret de fonction, dans les limites des données nécessaires à l’instruction de la plainte. Dans les autres cas, la procédure ordinaire de levée du secret s’applique.
+<sup>3</sup> Lorsqu’une plainte émane d’un patient ou de son mandataire, les professionnels visés par la plainte sont automatiquement déliés du secret professionnel à l’égard du département, du SSP et de la CCSPS, et le cas échéant du secret de fonction, dans les limites des données nécessaires à l’instruction de la plainte. Dans les autres cas, la procédure ordinaire de levée du secret s’applique.
 
 <sup>4</sup> Les autorités compétentes en charge de la surveillance des professions de la santé n’ont pas la compétence de statuer sur les actions en responsabilité civile ni pour allouer des dommages-intérêts ou des torts moraux. Elles n’ont pas non plus la compétence de modifier ou d’annuler les notes d’honoraires ou factures des praticiens et des institutions sanitaires.
 
@@ -204,6 +203,10 @@ ordonne:
 
 <sup>3</sup> Les parties ne reçoivent ni la proposition de décision du SSP ni le préavis de la CCSPS, lesquels constituent des documents préparatoires internes de l’administration.
 
+<sup>4</sup> Lorsqu'il le juge utile, le bureau des plaintes, le cas échéant sur proposition de la CCSPS, peut communiquer l'issue de la procédure au plaignant.
+
+<sup>5</sup> Afin de préserver des intérêts de santé publique, le bureau des plaintes a en outre la possibilité d'informer la direction d'une institution de santé de l'ouverture ou de l'issue d'une procédure concernant l'un de ses employés.
+
 #### Art. 14
 
 **Délais**
@@ -218,7 +221,7 @@ ordonne:
 
 <sup>2</sup> Les tâches du bureau sont les suivantes:
 
-- a) proposer au département le classement des plaintes et dénonciations qui sont manifestement irrecevables ou mal fondées;
+- a) classer les plaintes et les dénonciations qui sont manifestement irrecevables ou mal fondées, ainsi que celles dont l'objet ne peut être déterminé ou se situe hors du champ de compétences des autorités de surveillance;
 - b) examiner l’opportunité de proposer une médiation;
 - c) proposer au département des mesures provisionnelles ou prendre lui-même de telles mesures;
 - d) décider l’ouverture d’une procédure dont l’instruction est confiée au responsable des instructions.

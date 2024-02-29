@@ -4,13 +4,12 @@ number: "811.102"
 title: Verordnung über die Beaufsichtigung der Gesundheitsberufe
 short: VBGB
 language: de
-version: 2021-01-01
-valid_until: 2024-02-29
-version_adopted: 2020-11-25
+version: 2024-03-01
+version_adopted: 2024-04-10
 adopted: 2020-11-25
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/811.102"
-pdf: "https://lex.vs.ch/api/de/versions/2778/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3306/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2778/pdf_file"
 
 (VBGB)
 
-vom 25.11.2020 (Stand 01.01.2021)
+vom 25.11.2020 (Stand 01.03.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -120,7 +119,7 @@ verordnet:
 
 <sup>2</sup> Insbesondere sind die Bestimmungen von Artikel 10 VVRG bezüglich Ausstands anwendbar.
 
-<sup>3</sup> Wenn ein Patient Beschwerde einlegt, sind die Fachpersonen, gegen die Beschwerde eingelegt wurde, ausschliesslich in Bezug auf die für das Verfahren notwendigen Daten automatisch gegenüber dem Departement, der DGW und der BAKGB vom Berufsgeheimnis und gegebenenfalls vom Amtsgeheimnis befreit. Andernfalls ist das ordentliche Verfahren zur Aufhebung des Berufsgeheimnisses anwendbar.
+<sup>3</sup> Wenn ein Patient oder sein Vertreter Beschwerde einlegt, sind die Fachpersonen, gegen die Beschwerde eingelegt wurde, ausschliesslich in Bezug auf die für das Verfahren notwendigen Daten automatisch gegenüber dem Departement, der DGW und der BAKGB vom Berufsgeheimnis und gegebenenfalls vom Amtsgeheimnis befreit. Andernfalls ist das ordentliche Verfahren zur Aufhebung des Berufsgeheimnisses anwendbar.
 
 <sup>4</sup> Die für die Beaufsichtigung der Gesundheitsberufe zuständigen Behörden haben keine Entscheidungsbefugnis in Bezug auf zivilrechtliche Haftungsklagen, Schadensersatz- und Genugtuungsansprüche. Sie sind ebenso wenig befugt, Honorarforderungen oder Rechnungen der Behandelnden und der Krankeninstitution zu ändern oder aufzuheben.
 
@@ -204,6 +203,10 @@ verordnet:
 
 <sup>3</sup> Die Parteien erhalten weder den Entscheidungsvorschlag der DGW noch die Vormeinung der BAKGB, welche interne Vorbereitungsdokumente der Verwaltung sind.
 
+<sup>4</sup> Wenn sie es für sinnvoll hält, kann die Beschwerdestelle, gegebenenfalls auf Vorschlag der BAKGB, den Beschwerdeführer über den Ausgang des Verfahrens informieren.
+
+<sup>5</sup> Um die Interessen der öffentlichen Gesundheit zu wahren, hat die Beschwerdestelle zudem die Möglichkeit, die Leitung einer Gesundheitseinrichtung über die Eröffnung oder den Ausgang eines Verfahrens, das einen ihrer Angestellten betrifft, zu informieren.
+
 #### Art. 14
 
 **Fristen**
@@ -218,7 +221,7 @@ verordnet:
 
 <sup>2</sup> Die Aufgaben dieser Stelle sind die folgenden:
 
-- a) dem Departement die Einstellung des Verfahrens in Bezug auf Beschwerden und Anzeigen vorzuschlagen, wenn diese offensichtlich unzulässig oder unbegründet sind;
+- a) die Beschwerden und Anzeigen, die offensichtlich unzulässig oder unbegründet sind, sowie Beschwerden und Anzeigen, deren Gegenstand nicht bestimmt werden kann oder ausserhalb des Zuständigkeitsbereichs der Aufsichtsbehörden liegt, zu den Akten legen;
 - b) zu untersuchen, ob die Möglichkeit besteht, eine Schlichtung vorzuschlagen;
 - c) dem Departement vorsorgliche Massnahmen vorzuschlagen oder selbst solche Massnahmen zu ergreifen;
 - d) die Eröffnung eines Verfahrens zu beschliessen, dessen Untersuchung dem Untersuchungsverantwortlichen übertragen wird.
