@@ -4,11 +4,11 @@ title: "Ordinanza del 19 maggio 2010 concernente l'immissione in commercio di pr
 short: OIPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: it
-version: 2024-02-01
+version: 2024-03-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20240301-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240201/it"
 
 (Ordinanza sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, OIPPE)
 
-del 19 maggio 2010 (Stato 1° febbraio 2024)
+del 19 maggio 2010 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -96,9 +96,9 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
   - 4\. i lavori soggetti alla legge del 20 giugno 1933[^2-29] sul controllo dei metalli preziosi che non soddisfano le prescrizioni in materia di titoli e di designazione, caratterizzazione e composizione materiale di cui agli articoli 1–3 e 5–21 della suddetta legge,
   - 5\.[^2-30]
 
-    i seguenti apparecchi che non rispettano le prescrizioni tecniche di cui agli articoli 3–8 e agli allegati 1.1, 1.3, 1.15–1.16, 1.18, 1.21, 2.4, 2.14–2.15 e 3.2 dell’ordinanza del 1° novembre 2017[^2-31] sull’efficienza energetica:
+    i seguenti apparecchi che non rispettano le prescrizioni tecniche di cui agli articoli 3–8 e agli allegati 1.3, 1.15-1.16, 1.18, 1.21, 2.4, 2.14–2.15 e 3.2 dell’ordinanza del 1° novembre 2017[^2-31] sull’efficienza energetica:
 
-    - – frigoriferi con raccordo alla rete,
+    - – ...[^2-32]
     - – asciugabiancheria domestiche con raccordo alla rete,
     - – nel caso di scaldacqua e serbatoi di accumulo dell’acqua calda: scaldacqua elettrici convenzionali aventi un volume utile di ≥ 150 litri e serbatoi di accumulo dell’acqua calda aventi un volume utile di ≤ 500 litri,
     - – nel caso di apparecchi per il riscaldamento d’ambiente e apparecchi di riscaldamento misti: apparecchi elettrici per il riscaldamento d’ambiente e apparecchi elettrici di riscaldamento misti,
@@ -107,14 +107,14 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
     - – nel caso di set top box con raccordo alla rete: set top box complessi,
     - – piani cottura, forni aperti per gratinare o mantenere calde le vivande con forte calore superiore (salamandre) e friggitrici professionali con raccordo alla rete,
     - – lavastoviglie professionali con raccordo alla rete,
+    - – macchine da caffè per uso domestico con raccordo alla rete.
 
-  - – macchine da caffè per uso domestico con raccordo alla rete.
-  - 6\.[^2-32] legno e prodotti del legno soggetti all’ordinanza del 4 giugno 2010[^2-33] sulla dichiarazione concernente il legno e i prodotti del legno, che non soddisfano le prescrizioni in materia di dichiarazione di cui agli articoli 2–4 di detta ordinanza,
-  - 7\.[^2-34] ...
-  - 8\.[^2-35] pellicce e prodotti di pellicceria soggetti all’ordinanza del 7 dicembre 2012[^2-36] sulla dichiarazione delle pellicce, non conformi alle prescrizioni di cui agli articoli 2*a*–7 dell’ordinanza suddetta, relative alla dichiarazione,
-  - 9\.[^2-37] i contatori d’elettricità diversi dai contatori di energia attiva per i quali il Dipartimento federale di giustizia e polizia ha emanato disposizioni in virtù dell’articolo 33 dell’ordinanza del 15 febbraio 2006[^2-38] sugli strumenti di misurazione, segnatamente i contatori d’elettricità per la misurazione dell’energia reattiva, la misurazione della potenza e la creazione del profilo di carico,
-  - 10\.[^2-39] pellet e mattonelle in legno allo stato naturale, nella misura in cui non soddisfano le esigenze di cui all’allegato 5 cifra 32 OIAt,
-  - 11\.[^2-40] cosmetici che non soddisfano i requisiti di cui all’articolo 6 capoverso 1 dell’ordinanza del DFI del 16 dicembre 2016[^2-41] sui cosmetici.
+  - 6\.[^2-33] legno e prodotti del legno soggetti all’ordinanza del 4 giugno 2010[^2-34] sulla dichiarazione concernente il legno e i prodotti del legno, che non soddisfano le prescrizioni in materia di dichiarazione di cui agli articoli 2–4 di detta ordinanza,
+  - 7\.[^2-35] ...
+  - 8\.[^2-36] pellicce e prodotti di pellicceria soggetti all’ordinanza del 7 dicembre 2012[^2-37] sulla dichiarazione delle pellicce, non conformi alle prescrizioni di cui agli articoli 2*a*–7 dell’ordinanza suddetta, relative alla dichiarazione,
+  - 9\.[^2-38] i contatori d’elettricità diversi dai contatori di energia attiva per i quali il Dipartimento federale di giustizia e polizia ha emanato disposizioni in virtù dell’articolo 33 dell’ordinanza del 15 febbraio 2006[^2-39] sugli strumenti di misurazione, segnatamente i contatori d’elettricità per la misurazione dell’energia reattiva, la misurazione della potenza e la creazione del profilo di carico,
+  - 10\.[^2-40] pellet e mattonelle in legno allo stato naturale, nella misura in cui non soddisfano le esigenze di cui all’allegato 5 cifra 32 OIAt,
+  - 11\.[^2-41] cosmetici che non soddisfano i requisiti di cui all’articolo 6 capoverso 1 dell’ordinanza del DFI del 16 dicembre 2016[^2-42] sui cosmetici.
 
 [^2-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Abrogato dal n. II 2 dell’O del 17 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -145,18 +145,19 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
 [^2-27]: [[RU 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)all. 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 n. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. 6. [RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)all. 2 n. I]
 [^2-28]: Abrogato dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2022 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-29]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-30]: Nuovo testo giusta il n. III dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^2-30]: Nuovo testo giusta i n. III e IV dell’O del 24 mag. 2023, in vigore dal 1° apr.. 2024 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 [^2-31]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^2-32]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-33]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
-[^2-34]: Introdotto dal n. I 4 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Abrogato dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2023 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-35]: Introdotto dall’art. 13 dell’O del 7 dic. 2012 sulla dichiarazione delle pellicce ([RU 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nuovo testo giusta il n. II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-36]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
-[^2-37]: Introdotto dal n. I dell’O del 26 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
-[^2-38]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^2-39]: Introdotto dal n. III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^2-40]: Introdotto dal n. II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^2-41]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^2-32]: Abrogato dal n. I dell’O del 29 mar. 2023, con effetto dal 1° mar. 2024 ([RU 2023 179](https://fedlex.data.admin.ch/eli/oc/2023/179)).
+[^2-33]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
+[^2-34]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
+[^2-35]: Introdotto dal n. I 4 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Abrogato dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2023 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-36]: Introdotto dall’art. 13 dell’O del 7 dic. 2012 sulla dichiarazione delle pellicce ([RU 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nuovo testo giusta il n. II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-37]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-38]: Introdotto dal n. I dell’O del 26 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
+[^2-39]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-40]: Introdotto dal n. III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-41]: Introdotto dal n. II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^2-42]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
 
 #### Art. 3
 
