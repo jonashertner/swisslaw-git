@@ -3,26 +3,26 @@ canton: ZG
 number: "413.113"
 title: Ausführungsbestimmungen 3 zum Einführungsgesetz Berufsbildung (Prüfungs- und Promotionsreglement für die Berufsmaturität am Gewerblich-industriellen Bildungszentrum und am Kaufmännischen Bildungszentrum)
 language: de
-version: 2017-01-01
-valid_until: 2024-02-29
-version_adopted: 2016-11-22
+version: 2024-03-01
+valid_until: 2026-07-31
+version_adopted: 2024-02-15
 adopted: 2005-11-21
 in_force: 2005-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.113"
-pdf: "https://bgs.zg.ch/api/de/versions/1586/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2534/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen 3 zum Einführungsgesetz Berufsbildung (Prüfungs- und Promotionsreglement für die Berufsmaturität am Gewerblich-industriellen Bildungszentrum und am Kaufmännischen Bildungszentrum)
 
-Vom 21. November 2005 (Stand 1. Januar 2017)
+Vom 21. November 2005 (Stand 1. März 2024)
 
 Das Amt für Berufsbildung des Kantons Zug,
 
 gestützt auf § 2 Abs. 2 Bst. a des Einführungsgesetzes zu den Bundesgesetzen über die Berufsbildung und die Fachhochschulen (EG Berufsbildung) vom 30. August 2001[^ingress-1],
 
-verfügt:
+beschliesst:
 
 [^ingress-1]: BGS [413.11](https://bgs.zg.ch/data/413.11/de)
 
@@ -62,6 +62,8 @@ verfügt:
 <sup>2</sup> Der Entscheid über das Bestehen der Berufsmatura wird auf Antrag der Leitung der Berufsmaturitätsschule von der Prüfungsnotenkonferenz gefällt.
 
 <sup>3</sup> Der Entscheid kann im Zirkularverfahren gefällt werden.
+
+<sup>4</sup> Die Prüfungsnotenkonferenz ist zuständig für die Bearbeitung von Einsprachen.
 
 #### § 4
 
@@ -117,7 +119,7 @@ verfügt:
 
 <sup>1</sup> Kandidatinnen und Kandidaten, die wegen Krankheit, Unfall oder aus anderen wichtigen Gründen an den Prüfungen nicht teilnehmen können, haben dies unverzüglich der Leitung der Berufsmaturitätsschule oder der Prüfungsleitung zu melden. Bei Krankheit oder Unfall ist ein Arztzeugnis einzureichen.
 
-<sup>2</sup> Bei Fernbleiben ohne wichtigen Grund wird im entsprechenden Fach die Note 1 erteilt.
+<sup>2</sup> Bei Fernbleiben ohne wichtigen Grund gilt die Prüfung im entsprechenden Fach als abgelegt und nicht bestanden.
 
 #### § 11
 
@@ -131,7 +133,7 @@ verfügt:
 
 **Widerhandlung gegen die Prüfungsordnung**
 
-<sup>1</sup> Kandidatinnen und Kandidaten, welche gegen die Prüfungsordnung verstossen, aus eigenem Verschulden eine Prüfung bzw. einen Prüfungsteil nicht ablegen, nicht rechtzeitig oder nicht am vorgegebenen Prüfungsort erscheinen, wird im betreffenden Fach bzw. Prüfungsteil die Note 1 erteilt.
+<sup>1</sup> Kandidatinnen und Kandidaten, welche gegen die Prüfungsordnung verstossen, aus eigenem Verschulden eine Prüfung bzw. einen Prüfungsteil nicht ablegen, nicht rechtzeitig oder nicht am vorgegebenen Prüfungsort erscheinen, gilt das betreffende Fach bzw. der betreffende Prüfungsteil als abgelegt und nicht bestanden.
 
 <sup>2</sup> Bei leichtem Verschulden kann die Prüfungsleitung auf Gesuch der Kandidatin/ des Kandidaten eine Nachprüfung ansetzen. Die Kandidatin/der Kandidat trägt die Kosten der Nachprüfung bis maximal Fr. 500.– pro Fach.
 
@@ -153,10 +155,6 @@ verfügt:
 
 #### § 15
 
-**Inkrafttreten und Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Dieses Reglement tritt rückwirkend am 1. August 2005 in Kraft.
-
-<sup>2</sup> Mit dem Inkrafttreten dieses Reglements werden alle ihm vorangegangenen und widersprechenden Erlasse aufgehoben.
+**…**
 
 GS 28, 539
