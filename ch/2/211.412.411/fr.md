@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> octobre 1984 sur l'acquisition d'immeubles 
 short: OAIE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164"
 language: fr
-version: 2022-11-09
+version: 2024-03-01
 adopted: 1984-10-01
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20221109/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20221109-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20221109/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20240301-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20221109/fr"
 
 (OAIE)
 
-du 1<sup>er</sup> octobre 1984 (État le 9 novembre 2022)
+du 1<sup>er</sup> octobre 1984 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -74,7 +74,7 @@ Ne sont pas considérés comme des personnes à l’étranger les ressortissants
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 23 janv. 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 [^2-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
-[^2-4]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^2-4]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/260)
 [^2-5]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)). Erratum du 9 nov. 2022 ([RO 2022 656](https://fedlex.data.admin.ch/eli/oc/2022/656)).
 [^2-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^2-7]: Nouvelle teneur selon le ch. I 2 de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
@@ -199,7 +199,9 @@ Est considérée comme acquisition par une personne physique (art. 2, al. 2, let
 
 <sup>1</sup> Si une personne à l’étranger, son conjoint, son partenaire enregistré ou ses enfants de moins de 18 ans sont déjà propriétaires d’une résidence secondaire au sens de l’art. 9, al. 1, let. c, LFAIE, d’un logement de vacances ou d’un appartement dans un apparthôtel, elle ne peut acquérir un autre immeuble de ce genre qu’à la condition d’aliéner d’abord le premier (art. 12, let. d, LFAIE).[^11-1]
 
-<sup>2</sup> En règle générale, les autorisations doivent au moins être assorties des charges suivantes (art. 14 LFAIE) qui seront mentionnées au registre foncier;
+<sup>2</sup>
+
+En règle générale, les autorisations doivent au moins être assorties des charges suivantes (art. 14 LFAIE) qui seront mentionnées au registre foncier:
 
 - a. obligation d’affecter de manière durable l’immeuble au but pour lequel l’acquisition a été autorisée et de requérir le consentement de l’autorité de première instance pour toute modification de l’affectation;
 - b. lorsqu’il s’agit d’un terrain à bâtir, obligation d’entreprendre la construction dans un délai raisonnable et de requérir le consentement de l’autorité de première instance pour toute modification importante des plans;
@@ -326,7 +328,7 @@ En cas d’acquisition d’une résidence secondaire par un frontalier dans la r
 [^18a-1]: Introduit par le ch. I de l’O du 10 sept. 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^18a-2]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 [^18a-3]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
-[^18a-4]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^18a-4]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/260)
 [^18a-5]: Introduit par le ch. I de l’O du 23 janv. 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
 #### Art. 18b
@@ -345,15 +347,17 @@ L’office du registre du commerce, en règle générale, ne renvoie le requéra
 
 Avant de prendre une décision, l’autorité de première instance prend l’avis:
 
-- a. du secrétariat de la Commission fédérale des banques, lorsqu’il s’agit de l’assujettissement au régime de l’autorisation pour l’acquisition de parts d’un fonds de placement immobilier qui ne fait pas l’objet d’un marché régulier ou de parts d’un patrimoine analogue (art. 4, al. 1, let. c, LFAIE);
-- b. de l’Office fédéral des assurances privées, lorsqu’il s’agit de l’autorisation d’acquérir un immeuble devant servir de placement à une institution d’assurance étrangère ou sous domination étrangère (art. 8, al. 1, let. b, LFAIE), ou lorsqu’il s’agit de révocation des charges (art. 11, al. 4);
+- a.[^19-1] de l’Autorité fédérale de surveillance des marchés financiers, lorsqu’il s’agit de l’assujettissement au régime de l’autorisation pour l’acquisition de parts d’un fonds de placement immobilier qui ne fait pas l’objet d’un marché régulier ou de parts d’un patrimoine analogue (art. 4, al. 1, let. c, LFAIE) et qui requiert une autorisation ou une approbation relevant du droit des marchés financiers;
+- b. de l’Autorité fédérale de surveillance des marchés financiers[^19-2], lorsqu’il s’agit de l’autorisation d’acquérir un immeuble devant servir de placement à une institution d’assurance étrangère ou sous domination étrangère (art. 8, al. 1, let. b, LFAIE), ou lorsqu’il s’agit de révocation des charges (art. 11, al. 4);
 - c. de l’autorité fiscale cantonale, qui constate si l’acquéreur est exonéré de l’impôt fédéral direct pour l’immeuble en cause, lorsque celui-ci est prétendument affecté à un but de prévoyance en faveur du personnel d’établissements stables en Suisse ou à des buts d’intérêt public (art. 8, al. 1, let. c, LFAIE);
 - d. de l’autorité cantonale compétente, lorsqu’il s’agit d’un immeuble destiné à la construction de logements à caractère social ou comprenant de tels logements (art. 9, al. 1, let. a, LFAIE);
-- e.[^19-1] des autorités cantonale et fédérale compétentes lorsqu’il s’agit d’examiner s’il existe des intérêts justifiant l’acquisition d’une résidence secondaire au sens de l’art. 9, al. 1, let. c, LFAIE.
+- e.[^19-3] des autorités cantonale et fédérale compétentes lorsqu’il s’agit d’examiner s’il existe des intérêts justifiant l’acquisition d’une résidence secondaire au sens de l’art. 9, al. 1, let. c, LFAIE.
 
 <sup>2</sup> L’autorité de première instance peut prendre l’avis d’autres autorités fédérales ou cantonales pour établir un état de fait (art. 22, al. 1 et 24, al. 1, LFAIE).
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 23 janv. 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
+[^19-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^19-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 23 janv. 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
 #### Art. 20
 

@@ -4,11 +4,11 @@ title: Verordnung vom 1. Oktober 1984 über den Erwerb von Grundstücken durch P
 short: BewV
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164"
 language: de
-version: 2022-11-09
+version: 2024-03-01
 adopted: 1984-10-01
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20221109/de/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20221109-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20221109/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20240301-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20221109/de"
 
 (BewV)
 
-vom 1. Oktober 1984 (Stand am 9. November 2022)
+vom 1. Oktober 1984 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -74,7 +74,7 @@ Nicht als Personen im Ausland gelten die folgenden Personen, sofern sie ihren Wo
 [^2-1]: Fassung gemäss Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 [^2-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^2-3]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
-[^2-4]: [SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^2-4]: [SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/260)
 [^2-5]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)). Berichtigung vom 9. Nov. 2022 ([AS 2022 656](https://fedlex.data.admin.ch/eli/oc/2022/656)).
 [^2-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^2-7]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
@@ -328,7 +328,7 @@ Für den Erwerb einer Zweitwohnung durch einen Grenzgänger in der Region des Ar
 [^18a-1]: Eingefügt durch Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^18a-2]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 [^18a-3]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
-[^18a-4]: [SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^18a-4]: [SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/260)
 [^18a-5]: Eingefügt durch Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
 #### Art. 18b
@@ -347,7 +347,7 @@ Das Handelsregisteramt verweist die anmeldende Person in der Regel nur dann an d
 
 Die Bewilligungsbehörde holt, bevor sie entscheidet, die Stellungnahme ein:
 
-- a. der Eidgenössischen Finanzmarktaufsicht[^19-1], wenn es sich um die Bewilligungspflicht für den Erwerb von Anteilen an einem Immobilienanlagefonds ohne regelmässigen Markt oder an einem ähnlichen Vermögen handelt (Art. 4 Abs. 1 Bst. c BewG);
+- a.[^19-1] der Eidgenössischen Finanzmarktaufsicht, wenn es sich um die Bewilligungspflicht für den Erwerb von Anteilen an einem Immobilienanlagefonds ohne regelmässigen Markt oder an einem ähnlichen Vermögen handelt (Art. 4 Abs. 1 Bst. c BewG), der oder das einer finanzmarktrechtlichen Bewilligung oder Genehmigung bedarf;
 - b. der Eidgenössischen Finanzmarktaufsicht[^19-2], wenn es sich um die Bewilligung für den Erwerb als Anlage ausländischer und ausländisch beherrschter Versicherungseinrichtungen (Art. 8 Abs. 1 Bst. b BewG) oder um den Widerruf von Auflagen (Art. 11 Abs. 4) handelt;
 - c. der kantonalen Steuerbehörde darüber, ob der Erwerber für das Grundstück von der direkten Bundessteuer befreit ist, wenn es sich um die Bewilligung für den Erwerb zur Personalvorsorge inländischer Betriebsstätten oder zu gemeinnützigen Zwecken handelt (Art. 8 Abs. 1 Bst. c BewG);
 - d. der zuständigen kantonalen Behörde, wenn das Grundstück dem sozialen Wohnungsbau dient oder sich darauf solche neu erstellten Wohnungen befinden (Art. 9 Abs. 1 Bst. a BewG);
@@ -355,7 +355,7 @@ Die Bewilligungsbehörde holt, bevor sie entscheidet, die Stellungnahme ein:
 
 <sup>2</sup> Die Bewilligungsbehörde kann die Stellungnahme anderer Bundes- oder kantonalen Behörden einholen, um einen Sachverhalt abzuklären (Art. 22 Abs. 1 und 24 Abs. 1 BewG).
 
-[^19-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^19-1]: Fassung gemäss Anhang Ziff. 1 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^19-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 [^19-3]: Fassung gemäss Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
@@ -398,11 +398,11 @@ Es werden aufgehoben:
 
 <sup>2</sup> Auflagen aufgrund von Bewilligungen, die nach dem früheren Recht (BB vom 23. März 1961[^21-3] über den Erwerb von Grundstücken durch Personen im Ausland, BRB vom 26. Juni 1972[^21-4] betreffend Verbot der Anlage ausländischer Gelder in inländischen Grundstücken und V vom 10. Nov. 1976[^21-5] über den Erwerb von Grundstücken in Fremdenverkehrsorten durch Personen im Ausland) erteilt worden sind, bleiben in Kraft; vorbehalten bleiben Absatz 2 der Schlussbestimmungen der Änderung vom 30. April 1997[^21-6] sowie die Schlussbestimmungen der Änderungen vom 8. Oktober 1999[^21-7], vom 14. Dezember 2001[^21-8] und vom 25. September 2020[^21-9] des BewG.[^21-10]
 
-[^21-1]: [[AS 1974 94](https://fedlex.data.admin.ch/eli/oc/1974/94_94_95)[1010](https://fedlex.data.admin.ch/eli/oc/1974/1010__), [1976 607](https://fedlex.data.admin.ch/eli/oc/1976/607_607_607)]
+[^21-1]: [[AS 1974 94](https://fedlex.data.admin.ch/eli/oc/1974/94_94_95), [1010](https://fedlex.data.admin.ch/eli/oc/1974/1010__); [1976 607](https://fedlex.data.admin.ch/eli/oc/1976/607_607_607)]
 [^21-2]: [[AS 1964 322](https://fedlex.data.admin.ch/eli/oc/1964/322_314_314)]
-[^21-3]: [AS 1961 203](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213), [1965 1239](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240), [1970 1199](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195), [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83), [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)Ziff. II, [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914)
+[^21-3]: [AS 1961 203](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213); [1965 1239](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240); [1970 1199](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195); [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83); [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)Ziff. II; [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914)
 [^21-4]: [AS 1972 1062](https://fedlex.data.admin.ch/eli/oc/1972/1062_1074_1238)
-[^21-5]: [AS 1976 2389](https://fedlex.data.admin.ch/eli/oc/1976/2389_2389_2389), [1979 806](https://fedlex.data.admin.ch/eli/oc/1979/806_806_806), [1980 1875](https://fedlex.data.admin.ch/eli/oc/1980/1875_1875_1875), [1981 2070](https://fedlex.data.admin.ch/eli/oc/1981/2070_2070_2070), [1982 2235](https://fedlex.data.admin.ch/eli/oc/1982/2235_2235_2235), [1983 1614](https://fedlex.data.admin.ch/eli/oc/1983/1614_1614_1614)
+[^21-5]: [AS 1976 2389](https://fedlex.data.admin.ch/eli/oc/1976/2389_2389_2389); [1979 806](https://fedlex.data.admin.ch/eli/oc/1979/806_806_806); [1980 1875](https://fedlex.data.admin.ch/eli/oc/1980/1875_1875_1875); [1981 2070](https://fedlex.data.admin.ch/eli/oc/1981/2070_2070_2070); [1982 2235](https://fedlex.data.admin.ch/eli/oc/1982/2235_2235_2235); [1983 1614](https://fedlex.data.admin.ch/eli/oc/1983/1614_1614_1614)
 [^21-6]: [AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086)
 [^21-7]: [AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)
 [^21-8]: [AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)
