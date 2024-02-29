@@ -4,13 +4,13 @@ number: "780.1"
 title: Mobilitätsgesetz
 short: MobG
 language: de
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-11-05
+version: 2024-03-01
+valid_until: 2026-02-28
+version_adopted: 2023-11-24
 adopted: 2021-11-05
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/780.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7591/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7955/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mobilität – G
 
 (MobG)
 
-vom 05.11.2021 (Fassung in Kraft getreten am 01.01.2023)
+vom 05.11.2021 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -947,7 +947,7 @@ beschliesst:
 
 **Planungszonen – Inhalt**
 
-<sup>1</sup> Um die freie Verfügung über den benötigten Boden für den Bau einer Mobilitätsinfrastruktur zu sichern, kann die Direktion beziehungsweise die Gemeinde Planungszonen erlassen.
+<sup>1</sup> Um die freie Verfügung über den benötigten Boden für den Bau einer Mobilitätsinfrastruktur zu sichern, kann die Direktion beziehungsweise die Gemeinde nach positiver Stellungnahme der Direktion Planungszonen erlassen.
 
 <sup>2</sup> In den Planungszonen darf ohne die Bewilligung der Direktion, wenn es sich um eine Mobilitätsinfrastruktur, für die der Staat einen Mobilitätsinfrastrukturplan erstellt hat, handelt, beziehungsweise der Gemeinde, wenn es sich um eine andere Mobilitätsinfrastruktur handelt, kein Neu- und kein Umbau ausgeführt werden, der den Wert des Gebäudes oder Grundstücks mehrt.
 
@@ -957,9 +957,9 @@ beschliesst:
 
 **Planungszonen – Verfahren**
 
-<sup>1</sup> Die Festlegung der Planungszone wird in den Gemeinden durch Veröffentlichung im Amtsblatt und durch Auflage der Pläne auf der Gemeindeschreiberei bekannt gegeben, wo sie während dreissig Tagen eingesehen werden können. Die betroffenen Grundeigentümerschaften werden persönlich benachrichtigt.
+<sup>1</sup> Die Festlegung der Planungszonen wird von der Direktion im Amtsblatt des Kantons Freiburg veröffentlicht. Die Planungszonen können im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen eingesehen werden. Die betroffenen Grundstückseigentümerschaften werden mit separatem Schreiben benachrichtigt.
 
-<sup>2</sup> Wer von den Plänen betroffen ist, kann während der öffentlichen Auflage bei der Behörde, welche die Pläne erlassen hat, Einsprache erheben.
+<sup>2</sup> Wer von den Planungszonen betroffen ist, kann während der öffentlichen Auflage bei der Behörde, welche die Planungszonen erlassen hat, Einsprache erheben.
 
 <sup>3</sup> Die zuständige Behörde führt eine Einigungsverhandlung mit den Einsprechenden durch und entscheidet bei deren Scheitern über die Einsprachen.
 
@@ -972,6 +972,8 @@ beschliesst:
 <sup>1</sup> Die Planungszonen fallen mit der öffentlichen Auflage des Mobilitätsinfrastrukturplans oder spätestens fünf Jahre nach ihrer Veröffentlichung dahin.
 
 <sup>2</sup> Die Direktion kann diese Frist aus wichtigen Gründen um drei Jahre verlängern.
+
+<sup>3</sup> Hinfällige Planungszonen werden aus dem Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen entfernt.
 
 ### 4.1.1.3 Erarbeitung
 
@@ -1169,7 +1171,7 @@ beschliesst:
 
 **Öffentliche Urkunden**
 
-<sup>1</sup> Die für den freihändigen Landerwerb erforderlichen öffentlichen Urkunden können von der amtlichen Geometerin oder vom amtlichen Geometer in der Form gemäss der Gesetzgebung über die amtliche Vermessung ausgefertigt werden, wenn die folgenden beiden Bedingungen erfüllt sind:
+<sup>1</sup> Die für den freihändigen Landerwerb erforderlichen öffentlichen Urkunden können von der amtlichen Ingenieur-Geometerin oder vom amtlichen Ingenieur-Geometer in der Form gemäss der Gesetzgebung über die amtliche Vermessung ausgefertigt werden, wenn die folgenden beiden Bedingungen erfüllt sind:
 
 - a) sie beziehen sich auf Landerwerb durch ein Gemeinwesen im Hinblick auf den Bau oder Ausbau von Mobilitätsinfrastrukturen; und
 - b) sie beziehen sich weder auf den Erwerb ganzer Parzellen im Hinblick auf einen Abtausch oder eine spätere Güterzusammenlegung noch auf einen vorsorglichen Erwerb vor der Auflage eines Projekts.
@@ -1186,7 +1188,7 @@ beschliesst:
 
 <sup>2</sup> Die Anmerkung wird auf die Anmeldung durch das Gemeinwesen hin eingetragen.
 
-<sup>3</sup> Die Anmerkung wird von Amtes wegen zum Zeitpunkt des von der amtlichen Geometerin oder vom amtlichen Geometer beantragten Eigentumsübergangs gelöscht.
+<sup>3</sup> Die Anmerkung wird von der Grundbuchverwalterin oder vom Grundbuchverwalter von Amtes wegen zum Zeitpunkt des von der amtlichen Ingenieur-Geometerin oder vom amtlichen Ingenieur-Geometer beantragten Eigentumsübergangs gelöscht.
 
 #### Art. 110
 

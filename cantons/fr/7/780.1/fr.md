@@ -4,13 +4,13 @@ number: "780.1"
 title: Loi sur la mobilité
 short: LMob
 language: fr
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-11-05
+version: 2024-03-01
+valid_until: 2026-02-28
+version_adopted: 2023-11-24
 adopted: 2021-11-05
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/780.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7591/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7955/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Mobilité – L
 
 (LMob)
 
-du 05.11.2021 (version entrée en vigueur le 01.01.2023)
+du 05.11.2021 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -947,7 +947,7 @@ Décrète:
 
 **Zones réservées – Contenu**
 
-<sup>1</sup> En vue d'assurer la libre disposition des terrains nécessaires à la construction d'une infrastructure de mobilité, la Direction, respectivement la commune sur préavis favorable de la Direction, peut établir des plans de zones réservées.
+<sup>1</sup> En vue d'assurer la libre disposition des terrains nécessaires à la construction d'une infrastructure de mobilité, la Direction, respectivement la commune sur préavis favorable de la Direction, peut déterminer des zones réservées.
 
 <sup>2</sup> Dans les zones réservées, aucune construction nouvelle, aucune transformation augmentant la valeur des bâtiments ou des fonds ne peut être faite sans l'autorisation de la Direction, s'il s'agit d'une infrastructure de mobilité dont le plan d'infrastructure de mobilité a été établi par l'Etat, ou de la commune, s'il s'agit d'une autre infrastructure de mobilité.
 
@@ -957,9 +957,9 @@ Décrète:
 
 **Zones réservées – Procédure**
 
-<sup>1</sup> La fixation des zones réservées est rendue publique par publication dans la Feuille officielle et dépôt des plans au secrétariat des communes concernées où ils peuvent être consultés durant trente jours. Les propriétaires fonciers concernés sont informés par courrier séparé.
+<sup>1</sup> La fixation des zones réservées est publiée dans la Feuille officielle du canton de Fribourg par la Direction. Les zones réservées peuvent être consultées dans le cadastre des restrictions de droit public à la propriété foncière. Les propriétaires fonciers concernés sont informés par courrier séparé.
 
-<sup>2</sup> Quiconque est touché par les plans peut faire opposition auprès de l'autorité qui a édicté les plans pendant la durée de l'enquête publique.
+<sup>2</sup> Quiconque est touché par les zones réservées peut faire opposition auprès de l'autorité qui a édicté les plans pendant la durée de l'enquête publique.
 
 <sup>3</sup> L'autorité en charge du projet rend une décision sur les oppositions après avoir tenté la conciliation avec les opposants.
 
@@ -972,6 +972,8 @@ Décrète:
 <sup>1</sup> Les zones réservées deviennent caduques dès la mise à l'enquête d'un plan d'infrastructure de mobilité et, au plus tard, cinq ans après leur publication.
 
 <sup>2</sup> La Direction peut prolonger ce délai de trois ans pour justes motifs.
+
+<sup>3</sup> Les zones réservées caduques sont retirées du cadastre des restrictions de droit public à la propriété foncière.
 
 ### 4.1.1.3 Etablissement
 
@@ -1169,7 +1171,7 @@ Décrète:
 
 **Actes authentiques**
 
-<sup>1</sup> Les actes authentiques nécessaires aux acquisitions de gré à gré peuvent être reçus par un ou une géomètre officiel-le dans la forme prévue par la législation sur la mensuration officielle aux deux conditions suivantes:
+<sup>1</sup> Les actes authentiques nécessaires aux acquisitions de gré à gré peuvent être reçus par un ou une ingénieur-e géomètre officiel-le dans la forme prévue par la législation sur la mensuration officielle aux deux conditions suivantes:
 
 - a) ils ont trait à l'acquisition de terrains par une collectivité publique pour la construction ou le réaménagement d'infrastructures de mobilité; et
 - b) ils n'ont pas pour objet l'acquisition de parcelles entières en vue d'un échange ou d'un remaniement ultérieur, ni d'une façon générale des acquisitions provisionnelles opérées avant la mise à l'enquête du projet.
@@ -1186,7 +1188,7 @@ Décrète:
 
 <sup>2</sup> La mention est inscrite sur réquisition de la collectivité publique.
 
-<sup>3</sup> La mention est radiée d'office par le conservateur au moment du transfert de propriété déposé par le géomètre officiel.
+<sup>3</sup> La mention est radiée d'office par le conservateur ou la conservatrice au moment du transfert de propriété déposé par l'ingénieur-e géomètre officiel-le.
 
 #### Art. 110
 
