@@ -4,13 +4,13 @@ number: "721.1"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2023-04-01
-valid_until: 2024-02-29
-version_adopted: 2023-03-01
+version: 2024-03-01
+valid_until: 2024-04-30
+version_adopted: 2024-01-24
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2811/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2995/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2811/pdf_file"
 
 (BauV)
 
-vom 06.03.1985 (Stand 01.04.2023)
+vom 06.03.1985 (Stand 01.03.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -203,7 +203,7 @@ beschliesst:
 <sup>1</sup> Bei Einzonungen von Kulturland für Wohn-, Misch- und Kernzonen gelten folgende Anforderungen an die Erschliessung mit dem öffentlichen Verkehr:
 
 <table>
-<tr><th></th><th>Eingezonte Fläche</th><th>Erschliessungsgüteklasse (EGK)</th></tr>
+<tr><th></th><th>Fläche</th><th>Erschliessungsgüteklasse (EGK)</th></tr>
 <tr><td>a</td><td>bis 0,5 ha</td><td>mindestens EGK F</td></tr>
 <tr><td>b</td><td>grösser als 0,5 bis 1,0 ha</td><td>mindestens EGK E</td></tr>
 <tr><td>c</td><td>grösser als 1,0 ha</td><td>mindestens EGK D</td></tr>
@@ -212,16 +212,22 @@ beschliesst:
 <sup>2</sup> Bei Einzonungen von Kulturland für Arbeitszonen und übrige Bauzonen gelten folgende Anforderungen an die Erschliessung mit dem öffentlichen Verkehr:
 
 <table>
-<tr><th></th><th>Eingezonte Fläche</th><th>Erschliessungsgüteklassen (EGK)</th></tr>
-<tr><td>a</td><td>Arbeitszone bis 0,5 ha</td><td>keine Mindestanforderungen</td></tr>
-<tr><td>b</td><td>übrige Bauzonen ohne erheblichen Publikumsverkehr</td><td>keine Mindestanforderungen</td></tr>
-<tr><td>c</td><td>Arbeitszone grösser als 0,5 ha</td><td>mindestens EGK D</td></tr>
-<tr><td>d</td><td>übrige Bauzonen mit erheblichem Publikumsverkehr</td><td>mindestens EGK F</td></tr>
+<tr><th></th><th>Fläche und Verkehrsaufkommen</th><th>Erschliessungsgüteklasse (EGK)</th></tr>
+<tr><td>a</td><td>bis 0,5 ha</td><td>keine Mindestanforderungen</td></tr>
+<tr><td>b</td><td>grösser als 0,5 ha bis 1,0 ha ohne erhebliches Verkehrsaufkommen</td><td>mindestens EGK F</td></tr>
+<tr><td>c</td><td>grösser als 0,5 ha bis 1,0 ha mit erheblichem Verkehrsaufkommen</td><td>mindestens EGK E</td></tr>
+<tr><td>d</td><td>grösser als 1,0 ha ohne erhebliches Verkehrsaufkommen</td><td>mindestens EGK E</td></tr>
+<tr><td>e</td><td>grösser als 1,0 ha mit erheblichem Verkehrsaufkommen</td><td>mindestens EGK D</td></tr>
 </table>
+
+<sup>2a</sup> Von den Anforderungen nach Absatz 2 kann abgewichen werden bei Einzonungen von Kulturland für Arbeitszonen
+
+- a für die massvolle Erweiterung eines bestehenden Betriebs oder
+- b für ein ausserhalb des Einzugsgebiets des öffentlichen Verkehrs standortgebundenes störendes Vorhaben.
 
 <sup>3</sup> Die Erschliessungsgüteklassen werden im kantonalen Richtplan umschrieben.
 
-<sup>4</sup> In Gemeinden des Raumtyps "Hügel- und Berggebiete" kann von den Anforderungen nach den Absätzen 1 und 2 abgewichen werden. Im Übrigen darf von den Anforderungen nur abgewichen werden, wenn die Einzonung innerhalb des bestehenden Einzugsbereichs des öffentlichen Verkehrs gesetzlich ausgeschlossen ist.
+<sup>4</sup> In Gemeinden des Raumtyps "Hügel- und Berggebiete" kann von den Anforderungen nach den Absätzen 1 und 2 abgewichen werden.
 
 #### Art. 11e
 

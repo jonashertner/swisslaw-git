@@ -4,13 +4,13 @@ number: "721.1"
 title: Ordonnance sur les constructions
 short: OC
 language: fr
-version: 2023-04-01
-valid_until: 2024-02-29
-version_adopted: 2023-03-01
+version: 2024-03-01
+valid_until: 2024-04-30
+version_adopted: 2024-01-24
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2811/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2995/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2811/pdf_file"
 
 (OC)
 
-du 06.03.1985 (état au 01.04.2023)
+du 06.03.1985 (état au 01.03.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -204,7 +204,7 @@ arrête:
 <sup>1</sup> En cas de classement de terres cultivables en zone d’habitation, zone mixte ou zone centrale, les exigences en matière de desserte par les transports publics sont les suivantes:
 
 <table>
-<tr><th></th><th>Surface du terrain classé en zone à bâtir</th><th>Niveau de qualité de la desserte (NQTP)</th></tr>
+<tr><th></th><th>Surface du terrain</th><th>Niveau de qualité de la desserte (NQTP)</th></tr>
 <tr><td>a</td><td>jusqu’à 0,5 ha</td><td>au moins NQTP F</td></tr>
 <tr><td>b</td><td>de 0,5 à 1,0 ha</td><td>au moins NQTP E</td></tr>
 <tr><td>c</td><td>plus que 1,0 ha</td><td>au moins NQTP D</td></tr>
@@ -213,16 +213,22 @@ arrête:
 <sup>2</sup> En cas de classement de terres cultivables en zone d’activités ou en zone à bâtir d’un autre type, les exigences en matière de desserte par les transports publics sont les suivantes:
 
 <table>
-<tr><th></th><th>Surface classée</th><th>Niveau de qualité de la desserte (NQTP)</th></tr>
-<tr><td>a</td><td>zone d’activités jusqu’à 0,5 ha</td><td>aucune exigence minimale</td></tr>
-<tr><td>b</td><td>autre zone à bâtir peu fréquentée</td><td>aucune exigence minimale</td></tr>
-<tr><td>c</td><td>zone d’activités de plus de 0,5 ha</td><td>au moins NQTP D</td></tr>
-<tr><td>d</td><td>autre zone à bâtir fréquentée</td><td>au moins NQTP F</td></tr>
+<tr><th></th><th>Surface du terrain et volume du trafic</th><th>Niveau de qualité de la desserte (NQTP)</th></tr>
+<tr><td>a</td><td>jusqu’à 0,5 ha</td><td>aucune exigence minimale</td></tr>
+<tr><td>b</td><td>de 0,5 à 1,0 ha sans volume important de trafic</td><td>au moins NQTP F</td></tr>
+<tr><td>c</td><td>de 0,5 à 1,0 ha avec volume important de trafic</td><td>au moins NQTP E</td></tr>
+<tr><td>d</td><td>plus que 1,0 ha sans volume important de trafic</td><td>au moins NQTP E</td></tr>
+<tr><td>e</td><td>plus que 1,0 ha avec volume important de trafic</td><td>au moins NQTP D</td></tr>
 </table>
+
+<sup>2a</sup> En cas de classement de terres cultivables en zone d’activités, des dérogations aux exigences formulées à l’alinéa 2 sont possibles
+
+- a pour l’agrandissement mesuré d’une entreprise existante ou
+- b pour un projet causant des perturbations dont l’emplacement, imposé par sa destination, est hors du rayon desservi par les transports publics.
 
 <sup>3</sup> Les niveaux de qualité de la desserte (NQTP) sont décrits dans le plan directeur cantonal.
 
-<sup>4</sup> Dans les communes du type d’espace «régions de collines et de montagne», des dérogations aux exigences formulées aux alinéas 1 et 2 sont possibles. Au surplus, des exceptions ne sont admises que lorsque le classement dans le rayon desservi par les transports publics existant est exclu de par la loi.
+<sup>4</sup> Dans les communes du type d’espace «régions de collines et de montagne», des dérogations aux exigences formulées aux alinéas 1 et 2 sont possibles.
 
 #### Art. 11e
 
