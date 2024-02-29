@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2006 sugli investimenti collettivi di capit
 short: LICol
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: it
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-822-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2006-822-20240301-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20230101/it"
 
 (Legge sugli investimenti collettivi, LICol)
 
-del 23 giugno 2006 (Stato 1° gennaio 2023)
+del 23 giugno 2006 (Stato 1° marzo 2024)
 
 L’Assemblea federale della Confederazione Svizzera;
 
@@ -25,7 +25,7 @@ visti gli articoli 98 capoversi 1 e 2, nonché 122 capoverso 1 della Costituzion
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)
 
 ## Titolo primo: Disposizioni generali
@@ -79,7 +79,7 @@ Alla presente legge non sono sottoposte le società d’investimento svizzere ne
 [^2-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-3]: Abrogate dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-4]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^2-5]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^2-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^2-6]: Introdotta dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogata dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-7]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-8]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -105,37 +105,43 @@ Alla presente legge non sono sottoposte le società d’investimento svizzere ne
 
 <sup>3</sup> Il Consiglio federale può stabilire il numero minimo di investitori a seconda della forma giuridica e della cerchia dei destinatari. Può ammettere investimenti collettivi di capitale di un unico investitore qualificato (fondi a investitore unico) secondo l’articolo 10 capoverso 3 in combinato disposto con l’articolo 4 capoverso 3 lettere b, e e f della legge del 15 giugno 2018[^7-1] sui servizi finanziari (LSerFi).[^7-2] [^7-3]
 
-<sup>4</sup> Nel caso di un fondo a investitore unico, la direzione del fondo e la SICAV possono delegare le decisioni di investimento all’investitore in questione. La FINMA può dispensare quest’ultimo dall’obbligo di essere sottoposto a una vigilanza riconosciuta di cui all’articolo 31 capoverso 3 o 36 capoverso 3.[^7-4]
+<sup>4</sup> Nel caso di un fondo a investitore unico, la direzione del fondo e la società di investimento a capitale variabile (SICAV) possono delegare le decisioni di investimento all’investitore in questione. L’Autorità federale di vigilanza sui mercati finanziari (FINMA) può dispensare quest’ultimo dall’obbligo di autorizzazione di cui all’articolo 14 capoverso 1 della legge del 15 giugno 2018[^7-4] sugli istituti finanziari (LIsFi) o dall’obbligo di essere sottoposto a una vigilanza riconosciuta di cui all’articolo 36 capoverso 3 della presente legge.[^7-5]
 
-<sup>5</sup> Gli investimenti collettivi di capitale devono avere sede e amministrazione principale in Svizzera.[^7-5]
+<sup>5</sup> Gli investimenti collettivi di capitale devono avere sede e amministrazione principale in Svizzera.[^7-6]
 
-[^7-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^7-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^7-2]: Nuovo testo del per. giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-3]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^7-4]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^7-5]: Introdotto dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^7-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^7-6]: Introdotto dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 8
 
 **Investimenti collettivi di capitale aperti**
 
-<sup>1</sup> Gli investimenti collettivi di capitale aperti rivestono la forma del fondo contrattuale di investimento (art. 25 segg.) oppure quella della società di investimento a capitale variabile (SICAV, art. 36 segg.).
+<sup>1</sup> Gli investimenti collettivi di capitale aperti rivestono la forma del fondo contrattuale di investimento (art. 25 segg.) oppure quella della SICAV (art. 36 segg.)*.*[^8-1]
 
 <sup>2</sup> Nel caso degli investimenti collettivi di capitale aperti gli investitori vantano nei confronti del patrimonio collettivo un diritto immediato o mediato al rimborso delle loro quote al valore netto di inventario.
 
 <sup>3</sup> Gli investimenti collettivi di capitale aperti dispongono di un regolamento del fondo. Nel caso del fondo contrattuale di investimento esso corrisponde al contratto collettivo di investimento (contratto del fondo) e in quello della SICAV allo statuto e al regolamento di investimento.
 
+[^8-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
 #### Art. 9
 
 **Investimenti collettivi di capitale chiusi**
 
-<sup>1</sup> Gli investimenti collettivi di capitale chiusi rivestono la forma della società in accomandita per investimenti collettivi di capitale (art. 98 segg.) o quella della società di investimento a capitale fisso (SICAF, art. 110 segg.).
+<sup>1</sup> Gli investimenti collettivi di capitale chiusi rivestono la forma della società in accomandita per investimenti collettivi di capitale (SAcCol, art. 98–109) o quella della società di investimento a capitale fisso (SICAF, art. 110–118). [^9-1]
 
 <sup>2</sup> Nel caso degli investimenti collettivi di capitale chiusi gli investitori non vantano nei confronti del patrimonio collettivo alcun diritto immediato o mediato al rimborso delle loro quote al valore netto di inventario.
 
-<sup>3</sup> La società in accomandita per investimenti collettivi di capitale si fonda su un contratto di società.
+<sup>3</sup> La SAcCol[^9-2] si fonda su un contratto di società.
 
 <sup>4</sup> La SICAF si fonda sullo statuto ed emana un regolamento di investimento.
+
+[^9-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^9-2]: Nuova espressione giusta il n. I cpv. 1della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 10
 
@@ -149,30 +155,43 @@ Alla presente legge non sono sottoposte le società d’investimento svizzere ne
 
 <sup>3bis</sup> ...[^10-3]
 
-<sup>3ter</sup> Sono considerati investitori qualificati anche i clienti privati per i quali un intermediario finanziario di cui all’articolo 4 capoverso 3 lettera a LSerFi o un intermediario finanziario estero sottostante a una vigilanza prudenziale equivalente fornisce, nell’ambito di un rapporto durevole di gestione patrimoniale o di consulenza in investimenti, servizi di gestione patrimoniale o di consulenza in investimenti ai sensi dell’articolo 3 lettera c numeri 3 e 4 LSerFi, sempre che i suddetti clienti non abbiano dichiarato di non voler essere considerati tali. La dichiarazione deve essere fornita in forma scritta o in un’altra forma che ne consenta la prova per testo.[^10-4]
+<sup>3ter</sup>
 
-<sup>4</sup> ...[^10-5]
+Sono considerati investitori qualificati anche i clienti privati:
+
+- a.
+
+  per i quali una delle seguenti persone fornisce, nell’ambito di un rapporto durevole di gestione patrimoniale o di consulenza in investimenti, servizi di gestione patrimoniale o di consulenza in investimenti ai sensi dell’articolo 3 lettera c numeri 3 e 4 LSerFi:
+
+  - 1\. un intermediario finanziario di cui all’articolo 4 capoverso 3 lettera a LSerFi,
+  - 2\. un intermediario finanziario estero sottostante a una vigilanza prudenziale come quella dell’intermediario finanziario di cui al numero 1,
+  - 3\. un’impresa di assicurazione ai sensi della legge del 17 dicembre 2004[^10-4] sulla sorveglianza degli assicuratori (LSA); e
+
+- b. che non hanno dichiarato, per scritto o in un’altra forma che consenta la prova per testo, di non voler essere considerati tali.[^10-5]
+
+<sup>4</sup> ...[^10-6]
 
 <sup>5</sup>
 
-La FINMA può esentare integralmente o parzialmente gli investimenti collettivi di capitale da determinate disposizioni delle leggi sui mercati finanziari ai sensi dell’articolo 1 capoverso 1 della legge del 22 giugno 2007[^10-6] sulla vigilanza dei mercati finanziari (LFINMA), sempreché essi siano accessibili esclusivamente a investitori qualificati e l’obiettivo di protezione della presente legge non ne risulti pregiudicato, segnatamente dalle disposizioni su:[^10-7]
+La FINMA può esentare integralmente o parzialmente gli investimenti collettivi di capitale da determinate disposizioni delle leggi sui mercati finanziari ai sensi dell’articolo 1 capoverso 1 della legge del 22 giugno 2007[^10-7] sulla vigilanza dei mercati finanziari (LFINMA), sempreché essi siano accessibili esclusivamente a investitori qualificati e l’obiettivo di protezione della presente legge non ne risulti pregiudicato, segnatamente dalle disposizioni su:[^10-8]
 
-- a.[^10-8] ...
-- b.[^10-9] ...
+- a.[^10-9] ...
+- b.[^10-10] ...
 - c. l’obbligo dell’allestimento del rapporto semestrale;
 - d. l’obbligo di concedere agli investitori il diritto di disdetta in qualsiasi momento;
 - e. l’obbligo di emissione e di rimborso delle quote in contanti;
 - f. la ripartizione dei rischi.
 
-[^10-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^10-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^10-2]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^10-3]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-4]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-5]: Abrogato dall’all. n. 3 della L del sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^10-7]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-8]: Abrogata dal n. I della LF del 28 set. 2012, con effetto dal 1° giu. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^10-9]: Abrogata dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-4]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^10-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^10-6]: Abrogato dall’all. n. 3 della L del sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-7]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^10-8]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-9]: Abrogata dal n. I della LF del 28 set. 2012, con effetto dal 1° giu. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^10-10]: Abrogata dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 11
 
@@ -186,9 +205,9 @@ Le quote sono crediti nei confronti della direzione del fondo sotto forma di par
 
 <sup>1</sup> La designazione dell’investimento collettivo di capitale non deve prestare a confusioni o inganni, in particolare in riferimento agli investimenti.
 
-<sup>2</sup> Le designazioni come «fondo di investimento», «fondo di collocamento», «società di investimento a capitale variabile», «SICAV», «società in accomandita per investimenti collettivi di capitale», «SAcCol», «società di investimento a capitale fisso» e «SICAF» possono essere utilizzate soltanto per designare gli investimenti collettivi di capitale corrispondenti, sottoposti alla presente legge.[^12-1]
+<sup>2</sup> Le designazioni come «fondo di investimento», «fondo di collocamento», «società di investimento a capitale variabile», «SICAV», «società in accomandita per investimenti collettivi di capitale», «SAcCol», «società di investimento a capitale fisso», «SICAF», «fondo riservato a investitori qualificati» e «L-QIF» possono essere utilizzate soltanto per designare gli investimenti collettivi di capitale corrispondenti, sottoposti alla presente legge.[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. III della LF del 25 set. 2015 (Diritto delle ditte commerciali), in vigore dal 1° lug. 2016 ([RU 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [FF 2014 8039](https://fedlex.data.admin.ch/eli/fga/2014/2039)).
+[^12-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### Capitolo 3: Autorizzazione e approvazione
 
@@ -206,25 +225,28 @@ Devono chiedere l’autorizzazione:
 
 - a.[^13-2] ...
 - b. la SICAV;
-- c. la società in accomandita per investimenti collettivi di capitale;
+- c. la SAcCol;
 - d. la SICAF;
 - e.[^13-3] la banca depositaria;
-- [tab] f. e g.[^13-4] ...
+- f. e g.[^13-4] ...
 - h. il rappresentante di investimenti collettivi di capitale esteri.
 
-<sup>3</sup> Il Consiglio federale può esentare dall’obbligo dell’autorizzazione i rappresentanti già sottoposti a un’altra vigilanza statale equivalente.[^13-5]
+<sup>2bis</sup> Il fondo riservato a investitori qualificati (L-QIF) che riveste la forma giuridica della SICAV o della SAcCol non necessita di un’autorizzazione.[^13-5]
 
-<sup>4</sup> ...[^13-6]
+<sup>3</sup> Il Consiglio federale può esentare dall’obbligo dell’autorizzazione i rappresentanti già sottoposti a un’altra vigilanza statale equivalente.[^13-6]
 
-<sup>5</sup> Le persone di cui al capoverso 2 lettere b–d possono essere iscritte nel registro di commercio soltanto ad avvenuto rilascio dell’autorizzazione da parte della FINMA.[^13-7]
+<sup>4</sup> ...[^13-7]
+
+<sup>5</sup> Le persone di cui al capoverso 2 lettere b–d possono essere iscritte nel registro di commercio soltanto ad avvenuto rilascio dell’autorizzazione da parte della FINMA.[^13-8]
 
 [^13-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-2]: Abrogata dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-3]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-4]: Abrogate dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-5]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-6]: Abrogato dal n. I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^13-7]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-5]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^13-6]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-7]: Abrogato dal n. I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^13-8]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 14
 
@@ -257,7 +279,7 @@ Si considerano persone che detengono una partecipazione qualificata, per quanto 
 
 [^14-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-2]: Introdotta dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^14-4]: Introdotto dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^14-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-6]: Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -273,12 +295,16 @@ I seguenti documenti necessitano dell’approvazione della FINMA:
 
 - a. il contratto di investimento collettivo del fondo di investimento (art. 25);
 - b. lo statuto e il regolamento di investimento della SICAV;
-- c. il contratto di società della società in accomandita per investimenti collettivi di capitale;
+- c. il contratto di società della SAcCol;
 - d. lo statuto e il regolamento di investimento della SICAF;
 - e.[^15-1] i documenti corrispondenti degli investimenti collettivi di capitale esteri che sono offerti a investitori non qualificati.
-- [tab] <sup>2</sup> Se il fondo di investimento o la SICAV sono strutturati come investimenti collettivi di capitale aperti multi-comparto (art. 92 segg.), ogni segmento e ogni categoria di azioni necessitano di un’apposita approvazione.
+
+<sup>2</sup> Se il fondo di investimento o la SICAV sono strutturati come investimenti collettivi di capitale aperti multi-comparto (art. 92 segg.), ogni segmento e ogni categoria di azioni necessitano di un’apposita approvazione.
+
+<sup>3</sup> I documenti di un L-QIF e la loro modifica non necessitano né dell’approvazione di cui al capoverso 1 né dell’approvazione di cui al capoverso 2.[^15-2]
 
 [^15-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-2]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 16
 
@@ -323,17 +349,18 @@ Il Consiglio federale può prevedere una procedura semplificata di autorizzazion
 Le persone che gestiscono, custodiscono o rappresentano investimenti collettivi di capitale e i loro mandatari hanno in particolare i seguenti obblighi:[^20-1]
 
 - a. obbligo di fedeltà: operano in modo autonomo e tutelano esclusivamente gli interessi degli investitori;
-- b. obbligo di diligenza: adottano le misure organizzative indispensabili a un’attività ineccepibile;
-- c.[^20-2] obbligo di informazione: rendono conto degli investimenti collettivi che gestiscono, custodiscono e rappresentano e informano in merito a tutte le tasse e le spese che gravano direttamente o indirettamente sugli investitori nonché alle indennità da parte di terzi, in particolare provvigioni, ribassi o altri vantaggi patrimoniali.
+- b.[^20-2] obbligo di diligenza: adottano le misure organizzative indispensabili a un’attività irreprensibile;
+- c.[^20-3] obbligo di informazione: rendono conto degli investimenti collettivi che gestiscono, custodiscono e rappresentano e informano in merito a tutte le tasse e le spese che gravano direttamente o indirettamente sugli investitori nonché alle indennità da parte di terzi, in particolare provvigioni, ribassi o altri vantaggi patrimoniali.
 
-<sup>2</sup> ...[^20-3]
+<sup>2</sup> ...[^20-4]
 
-<sup>3</sup> Le persone che gestiscono, custodiscono o rappresentano investimenti collettivi di capitale e i loro mandatari adottano tutte le misure necessarie al fine di adempiere questi obblighi per l’insieme delle loro attività.[^20-4]
+<sup>3</sup> Le persone che gestiscono, custodiscono o rappresentano investimenti collettivi di capitale e i loro mandatari adottano tutte le misure necessarie al fine di adempiere questi obblighi per l’insieme delle loro attività.[^20-5]
 
 [^20-1]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-2]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-3]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-4]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^20-3]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-4]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 21
 
@@ -346,7 +373,7 @@ Le persone che gestiscono, custodiscono o rappresentano investimenti collettivi 
 <sup>3</sup> I titolari dell’autorizzazione e i loro mandatari possono assumere investimenti per conto proprio e cedere propri investimenti soltanto al valore di mercato.
 
 [^21-1]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^21-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^21-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^21-3]: Nuovo testo del per. giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 22
@@ -367,7 +394,7 @@ Le persone che gestiscono, custodiscono o rappresentano investimenti collettivi 
 
 <sup>4</sup> Il capoverso 3 si applica anche a ogni segmento di un investimento collettivo di capitale aperto multi-comparto ai sensi degli articoli 92 segg.
 
-[^23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24
 
@@ -420,7 +447,7 @@ Il fondo contrattuale di investimento (fondo di investimento) è basato su un co
 
 <sup>4</sup> La FINMA pubblica la sua decisione negli organi di pubblicazione.
 
-[^27-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^27-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^27-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 ### Sezione 3: ...
@@ -450,11 +477,12 @@ La società di investimento a capitale variabile (SICAV) è una società:
 
 <sup>2</sup> La SICAV dispone di un patrimonio minimo. Il Consiglio federale ne stabilisce l’entità e il termine entro il quale esso deve essere accumulato.
 
-<sup>3</sup> La SICAV può delegare le decisioni di investimento soltanto a persone che dispongono dell’autorizzazione necessaria all’esercizio di tale attività. Gli articoli 14 e 35 della legge del 15 giugno 2018[^36-3] sugli istituti finanziari (LIsFi) si applicano per analogia.[^36-4]
+<sup>3</sup> La SICAV può delegare le decisioni di investimento soltanto a persone che dispongono dell’autorizzazione necessaria all’esercizio di tale attività Gli articoli 14 e 35 LIsFi[^36-3] si applicano per analogia.[^36-4] [^36-5]
 
 [^36-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^36-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^36-4]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^36-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^36-4]: Nuovo testo del secondo per. giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^36-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 37
 
@@ -466,7 +494,7 @@ La società di investimento a capitale variabile (SICAV) è una società:
 
 <sup>3</sup> ...[^37-3]
 
-[^37-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^37-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^37-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^37-3]: Abrogato dal n. I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -478,7 +506,7 @@ La società di investimento a capitale variabile (SICAV) è una società:
 
 <sup>2</sup> Per il rimanente si applicano le disposizioni del Codice delle obbligazioni[^38-1] relative alla ditta della società anonima.
 
-[^38-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39
 
@@ -565,7 +593,9 @@ La SICAV si dota di un regolamento di investimento. Il suo contenuto è discipli
 
 <sup>1</sup> La SICAV deve far capo a una banca depositaria ai sensi degli articoli 72–74.
 
-<sup>2</sup> In casi motivati la FINMA può autorizzare deroghe a questo obbligo, se
+<sup>2</sup>
+
+In casi motivati la FINMA può autorizzare deroghe a questo obbligo, se:
 
 - a. la SICAV è accessibile esclusivamente a investitori qualificati;
 - b. uno o più istituti sottostanti a una vigilanza equivalente effettuano le transazioni connesse all’esecuzione e sono specializzati in simili transazioni («*prime broker*»); e
@@ -580,7 +610,7 @@ La SICAV si dota di un regolamento di investimento. Il suo contenuto è discipli
 Le disposizioni sulle offerte pubbliche di acquisto (art. 125–141 della L del 19 giu. 2015[^45-2] sull’infrastruttura finanziaria) non si applicano alla SICAV.
 
 [^45-1]: Nuovo testo giusta l’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^45-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^45-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 ### Sezione 2: Diritti e obblighi degli azionisti
 
@@ -600,7 +630,7 @@ Le disposizioni sulle offerte pubbliche di acquisto (art. 125–141 della L del 
 
 <sup>4</sup> Lo statuto può prevedere che gli azionisti imprenditori e gli azionisti investitori abbiano entrambi diritto ad almeno un seggio nel consiglio di amministrazione sia nelle SICAV con gestione autonoma che in quelle con gestione di terzi.[^46-3]
 
-[^46-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^46-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^46-2]: Per. introdotto dal n. I 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^46-3]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -613,7 +643,7 @@ Le disposizioni sulle offerte pubbliche di acquisto (art. 125–141 della L del 
 <sup>2</sup> Le conseguenze dell’inosservanza dell’obbligo di annunciare sono rette dall’articolo 697*m* del Codice delle obbligazioni.
 
 [^46a-1]: Introdotto dal n. I 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^46a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 47
 
@@ -631,7 +661,7 @@ Le disposizioni sulle offerte pubbliche di acquisto (art. 125–141 della L del 
 
 Sempreché la presente legge non disponga altrimenti, i diritti di controllo sono retti dalle disposizioni del Codice delle obbligazioni[^48-1] sui diritti di controllo degli azionisti.
 
-[^48-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 49
 
@@ -651,7 +681,7 @@ Per il rimanente sono applicabili le disposizioni degli articoli 78 segg.
 
 <sup>3</sup> Per quanto il Consiglio federale non preveda altrimenti, per il rimanente si applicano le disposizioni del Codice delle obbligazioni[^50-1] sull’assemblea generale della società anonima.[^50-2]
 
-[^50-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^50-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^50-2]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 51
@@ -670,11 +700,11 @@ Per il rimanente sono applicabili le disposizioni degli articoli 78 segg.
 
 <sup>6</sup> Per quanto il Consiglio federale non preveda altrimenti, per il rimanente si applicano le disposizioni del Codice delle obbligazioni[^51-5] sul consiglio di amministrazione della società anonima.[^51-6]
 
-[^51-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^51-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^51-2]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^51-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^51-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^51-4]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^51-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^51-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^51-6]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 52
@@ -713,7 +743,8 @@ Nell’ambito di un’amministrazione efficiente la direzione del fondo e la SIC
 - b. operazioni pensionistiche;
 - c. assunzione di crediti, ma soltanto a titolo temporaneo e sino a concorrenza di una determinata percentuale;
 - d. costituzione in pegno o fornitura di garanzia, ma soltanto sino a concorrenza di una determinata percentuale.
-- [tab] <sup>2</sup> Il Consiglio federale può autorizzare altre tecniche di investimento come le vendite a scoperto e la concessione di crediti.
+
+<sup>2</sup> Il Consiglio federale può autorizzare altre tecniche di investimento come le vendite a scoperto e la concessione di crediti.
 
 <sup>3</sup> Esso stabilisce le percentuali. La FINMA disciplina i dettagli.
 
@@ -891,7 +922,7 @@ Per questi fondi possono in particolare essere effettuati investimenti che:
 
 <sup>5</sup> La FINMA può consentire che i servizi connessi all’esecuzione delle transazioni di un altro fondo per investimenti alternativi che effettua investimenti diretti siano forniti da un istituto sottoposto a vigilanza e specializzato in simili transazioni («*p**rime broker*»). Essa può stabilire i compiti di controllo che la direzione del fondo e la SICAV devono assumere.
 
-[^71-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^71-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^71-2]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^71-3]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -905,10 +936,11 @@ Per questi fondi possono in particolare essere effettuati investimenti che:
 
 <sup>1</sup> La banca depositaria deve essere una banca ai sensi della legge dell’8 novembre 1934[^72-1] sulle banche e deve disporre di un’organizzazione adeguata alla sua attività di banca depositaria di investimenti collettivi di capitale.[^72-2]
 
-<sup>2</sup> Oltre alle persone responsabili della gestione, anche le persone incaricate di svolgere i compiti della banca depositaria devono adempiere le esigenze di cui all’articolo 14 capoverso 1 lettera a.
+<sup>2</sup> Oltre alle persone responsabili della gestione, anche le persone incaricate di svolgere i compiti della banca depositaria devono adempiere le esigenze di cui all’articolo 14 capoverso 1 lettere a e a<sup>bis</sup>.[^72-3]
 
-[^72-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^72-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^72-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^72-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 73
 
@@ -930,7 +962,7 @@ La banca depositaria provvede al rispetto della legge e del regolamento del fond
 
 <sup>4</sup> Il Consiglio federale disciplina i requisiti per le attività della banca depositaria e può introdurre direttive per la protezione dei depositi in titoli.[^73-4]
 
-[^73-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^73-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^73-2]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^73-3]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^73-4]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
@@ -945,7 +977,7 @@ La banca depositaria provvede al rispetto della legge e del regolamento del fond
 
 <sup>3</sup> La FINMA pubblica la sua decisione negli organi di pubblicazione.
 
-[^74-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^74-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^74-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^74-3]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -974,17 +1006,31 @@ Mediante la conclusione del contratto o tramite la sottoscrizione e il versament
 
 <sup>3</sup> Il Consiglio federale disciplina i dettagli nel caso degli investimenti collettivi di capitale con diverse classi di quote.
 
-<sup>4</sup> La FINMA può autorizzare deroghe all’obbligo di versamento e pagamento.
+<sup>4</sup> La FINMA può autorizzare deroghe all’obbligo di versamento e pagamento in contanti.[^78-1]
 
 <sup>5</sup> Nel caso degli investimenti collettivi di capitale multi-comparto i diritti patrimoniali sono disciplinati dagli articoli 93 capoverso 2 e 94 capoverso 2.
+
+[^78-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
+#### Art. 78a
+
+**Liquidità**[^78a-1]
+
+<sup>1</sup> La direzione del fondo o la SICAV garantisce una liquidità dell’investimento collettivo di capitale adeguata agli investimenti, alla politica di investimento, alla ripartizione dei rischi, alla cerchia degli investitori e alla frequenza di riscatto.
+
+<sup>2</sup> Il Consiglio federale può precisare ulteriormente quest’obbligo.
+
+[^78a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 79
 
 **Eccezioni al diritto di riscatto in qualsiasi momento**
 
-<sup>1</sup> Il Consiglio federale può, a mente delle direttive di investimento (art. 54 segg., 59 segg. e 69 segg.), prevedere eccezioni al diritto di riscatto in qualsiasi momento nel caso di investimenti collettivi di capitale di più difficile valutazione o con accesso limitato al mercato.
+<sup>1</sup> Il Consiglio federale può, a mente delle prescrizioni di investimento (art. 54–57, 59–62, 69–71, 118*n* e 118*o*), prevedere eccezioni al diritto di riscatto in qualsiasi momento nel caso di investimenti collettivi di capitale di più difficile valutazione o con accesso limitato al mercato.[^79-1]
 
 <sup>2</sup> Esso può tuttavia sospendere il diritto di riscatto in qualsiasi momento al massimo per cinque anni.
+
+[^79-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 80
 
@@ -1061,7 +1107,7 @@ In caso di prelievo illecito di beni o di privazione di vantaggi patrimoniali a 
 
 Per ogni investimento collettivo di capitale aperto è tenuta una contabilità separata. Sono applicabili gli articoli 662 segg. del Codice delle obbligazioni[^87-1] sempreché la presente legge o le disposizioni di esecuzione non dispongano altrimenti.
 
-[^87-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). Ora: gli art. 957 segg. CO.
+[^87-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818). Ora: gli art. 957 segg. CO.
 
 #### Art. 88
 
@@ -1092,7 +1138,7 @@ Un rapporto annuale è pubblicato per ogni investimento collettivo di capitale a
   - 1\. modifiche del regolamento del fondo,
   - 2\. questioni essenziali di interpretazione della legge e del regolamento del fondo,
   - 3\. cambiamenti di direzione del fondo e di banca depositaria,
-  - 4\.[^89-1] cambiamenti di persone responsabili della direzione del fondo, della SICAV o del gestore patrimoniale di investimenti collettivi di capitale,
+  - 4\.[^89-1] cambiamenti di persone responsabili della direzione del fondo, della SICAV o del gestore di patrimoni collettivi[^89-2],
   - 5\. contenzioso;
 
 - h. il risultato dell’investimento collettivo di capitale aperto (*performance*), eventualmente confrontato con investimenti similari (*benchmark*);
@@ -1100,14 +1146,15 @@ Un rapporto annuale è pubblicato per ogni investimento collettivo di capitale a
 
 <sup>2</sup> Il conto patrimoniale del fondo di investimento e il bilancio della SICAV devono essere allestiti in base ai valori venali.
 
-<sup>3</sup> Un rapporto semestrale deve essere pubblicato entro due mesi dalla fine della prima metà dell’esercizio. Esso contiene un conto patrimoniale non sottoposto a verifica[^89-2] o un bilancio non sottoposto a verifica e un conto economico, come pure le indicazioni di cui al capoverso 1 lettere b, c ed e.
+<sup>3</sup> Un rapporto semestrale deve essere pubblicato entro due mesi dalla fine della prima metà dell’esercizio. Esso contiene un conto patrimoniale non sottoposto a verifica[^89-3] o un bilancio non sottoposto a verifica e un conto economico, come pure le indicazioni di cui al capoverso 1 lettere b, c ed e.
 
 <sup>4</sup> I rapporti annuali e semestrali devono essere inoltrati alla FINMA al più tardi contemporaneamente alla loro pubblicazione.
 
 <sup>5</sup> Essi devono essere tenuti gratuitamente a disposizione delle persone interessate durante un periodo di dieci anni.
 
 [^89-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^89-2]: Nuova espressione giusta l’all.n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^89-2]: Nuova espressione giusta il n. I cpv. 3 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^89-3]: Nuova espressione giusta l’all.n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 90
 
@@ -1170,7 +1217,7 @@ Sono ammesse le seguenti ristrutturazioni di investimenti collettivi di capitale
 <sup>2</sup> Una ristrutturazione ai sensi del capoverso 1 lettere b e c può essere iscritta nel registro di commercio soltanto successivamente alla sua approvazione da parte della FINMA conformemente all’articolo 15.
 
 [^95-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^95-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^95-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 96
 
@@ -1220,7 +1267,7 @@ La SICAV è sciolta:
 
 <sup>3</sup> Gli azionisti investitori della SICAV hanno diritto a una quota proporzionale del risultato della liquidazione. Gli azionisti imprenditori sono collocati nel grado successivo. Per il rimanente sono applicabili gli articoli 737 segg. del Codice delle obbligazioni[^97-1].
 
-[^97-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^97-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Titolo terzo: Investimenti collettivi di capitale chiusi
 
@@ -1230,17 +1277,18 @@ La SICAV è sciolta:
 
 **Definizione**
 
-<sup>1</sup> La società in accomandita per investimenti collettivi di capitale è una società il cui scopo esclusivo è l’investimento collettivo di capitale. Un socio almeno è illimitatamente responsabile (accomandatario), mentre gli altri soci (accomandanti) rispondono soltanto sino a un determinato conferimento patrimoniale (capitale accomandato).
+<sup>1</sup> La società in accomandita per investimenti collettivi di capitale (SAcCol) è una società il cui scopo esclusivo è l’investimento collettivo di capitale.[^98-1] Un socio almeno è illimitatamente responsabile (accomandatario), mentre gli altri soci (accomandanti) rispondono soltanto sino a un determinato conferimento patrimoniale (capitale accomandato).
 
-<sup>2</sup> Gli accomandatari devono essere società anonime con sede in Svizzera. Se non dispone di un’autorizzazione quale gestore patrimoniale di investimenti collettivi di capitale, una società anonima può operare come accomandataria soltanto in un’unica società in accomandita per investimenti collettivi di capitale.[^98-1]
+<sup>2</sup> Gli accomandatari devono essere società anonime con sede in Svizzera. Se non dispone di un’autorizzazione quale gestore di patrimoni collettivi, una società anonima può operare come accomandataria soltanto in un’unica SAcCol.[^98-2]
 
-<sup>2bis</sup> Le condizioni di autorizzazione di cui all’articolo 14 si applicano per analogia agli accomandatari.[^98-2]
+<sup>2bis</sup> Le condizioni di autorizzazione di cui all’articolo 14 si applicano per analogia agli accomandatari.[^98-3]
 
-<sup>3</sup> Gli accomandanti devono essere investitori qualificati ai sensi dell’articolo 10 capoverso 3 o 3<sup>ter</sup>.[^98-3]
+<sup>3</sup> Gli accomandanti devono essere investitori qualificati ai sensi dell’articolo 10 capoverso 3 o 3<sup>ter</sup>.[^98-4]
 
-[^98-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^98-2]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^98-3]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^98-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^98-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^98-3]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^98-4]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 99
 
@@ -1248,7 +1296,7 @@ La SICAV è sciolta:
 
 Sempreché la presente legge non preveda altrimenti, si applicano le disposizioni del Codice delle obbligazioni[^99-1] relative alla società in accomandita.
 
-[^99-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^99-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 100
 
@@ -1277,7 +1325,7 @@ Il contratto di società deve contenere disposizioni relative:
 - a. alla ditta e alla sede;
 - b. allo scopo;
 - c. alla ditta e alla sede degli accomandatari;
-- d. all’importo del capitale accomandato complessivo:
+- d.[^102-1] all’importo del capitale accomandato complessivo o ai limiti del margine di variazione del capitale accomandato;
 - e. alla durata;
 - f. alle esigenze di ingresso e di uscita degli accomandanti;
 - g. alla tenuta del registro degli accomandanti;
@@ -1285,11 +1333,30 @@ Il contratto di società deve contenere disposizioni relative:
 - i. alla delega della gestione e della rappresentanza;
 - j. al ricorso a un ufficio di deposito e a un ufficio di pagamento.
 
-<sup>2</sup> Il contratto di società necessita della forma scritta.
+<sup>2</sup> Il contratto di società necessita, all’atto della costituzione, del consenso e della firma di tutti i soci.[^102-2]
 
-<sup>3</sup> ...[^102-1]
+<sup>3</sup> ...[^102-3]
 
-[^102-1]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^102-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102-3]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 102a
+
+**Modifica del contratto di società**[^102a-1]
+
+<sup>1</sup> La modifica del contratto di società necessita del consenso e della firma di tutti i soci.
+
+<sup>2</sup>
+
+Il contratto di società può essere modificato per decisione della maggioranza dei soci se:
+
+- a. il contratto stesso lo prevede; e
+- b. la decisione risulta da un atto pubblico.
+
+<sup>3</sup> Il contratto di società modificato per decisione della maggioranza dei soci necessita unicamente della firma degli accomandatari.
+
+[^102a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 103
 
@@ -1305,7 +1372,7 @@ Il contratto di società deve contenere disposizioni relative:
 
 <sup>1</sup> Gli accomandanti sono autorizzati a effettuare, senza il consenso dell’accomandatario, altre operazioni per conto proprio e per conto di terzi e a partecipare ad altre imprese.
 
-<sup>2</sup> Sempreché il contratto di società non preveda altrimenti, gli accomandatari possono effettuare, senza il consenso degli accomandanti, altre operazioni per conto proprio e per conto di terzi e partecipare ad altre imprese, purché ciò sia reso pubblico e non pregiudichi gli interessi della società in accomandita per investimenti collettivi di capitale.
+<sup>2</sup> Sempreché il contratto di società non preveda altrimenti, gli accomandatari possono effettuare, senza il consenso degli accomandanti, altre operazioni per conto proprio e per conto di terzi e partecipare ad altre imprese, purché ciò sia reso pubblico e non pregiudichi gli interessi della SAcCol.
 
 #### Art. 105
 
@@ -1317,15 +1384,17 @@ Il contratto di società deve contenere disposizioni relative:
 
 <sup>3</sup> Il Consiglio federale può prescrivere l’esclusione coatta. Essa è retta dall’articolo 82.
 
-[^105-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^105-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 106
 
 **Consultazione e informazione**
 
-<sup>1</sup> Gli accomandanti sono autorizzati a consultare in ogni momento i libri della società. I segreti d’affari delle società in cui investe la società in accomandita rimangono preservati.
+<sup>1</sup> Gli accomandanti sono autorizzati a consultare in ogni momento i libri della società. I segreti d’affari delle società in cui investe la SAcCol[^106-1] rimangono preservati.
 
 <sup>2</sup> Gli accomandanti hanno il diritto di essere informati almeno una volta per trimestre sull’andamento degli affari della società.
+
+[^106-1]: Nuova espressione giusta il n. I cpv. 2 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 107
 
@@ -1367,7 +1436,7 @@ La società di investimento a capitale fisso (SICAF) è una società anonima ai 
 
 <sup>2</sup> Tra i mezzi propri e il patrimonio complessivo della SICAF deve sussistere un adeguato rapporto. Il Consiglio federale disciplina tale rapporto.[^110-2]
 
-[^110-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^110-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^110-2]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 111
@@ -1378,7 +1447,7 @@ La società di investimento a capitale fisso (SICAF) è una società anonima ai 
 
 <sup>2</sup> Per il rimanente si applicano le disposizioni del Codice delle obbligazioni[^111-1] relative alla ditta della società anonima.
 
-[^111-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 112
 
@@ -1386,7 +1455,7 @@ La società di investimento a capitale fisso (SICAF) è una società anonima ai 
 
 Sempreché la presente legge non preveda altrimenti, si applicano le disposizioni del Codice delle obbligazioni[^112-1] relative alla società anonima.
 
-[^112-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^112-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 113
 
@@ -1398,7 +1467,7 @@ Sempreché la presente legge non preveda altrimenti, si applicano le disposizion
 
 <sup>3</sup> Il Consiglio federale può prescrivere il riscatto coatto. Esso è retto dall’articolo 82.
 
-[^113-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^113-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 114
 
@@ -1436,6 +1505,233 @@ Oltre alle disposizioni della legislazione sulle società anonime in materia di 
 
 La SICAF designa una società di audit (art. 126 segg.).
 
+## Titolo terzo *a*: Fondo riservato a investitori qualificati
+
+[^tit3a-1]
+
+[^tit3a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
+### Capitolo 1: Disposizioni generali
+
+#### Art. 118a
+
+**Definizione e applicabilità della legge**
+
+<sup>1</sup>
+
+Il fondo riservato a investitori qualificati (L-QIF) è un investimento collettivo di capitale:
+
+- a. accessibile esclusivamente a investitori qualificati;
+- b. accessibile, nel caso in cui i mezzi siano collocati direttamente in immobili, esclusivamente a investitori considerati clienti professionali secondo l’articolo 4 capoverso 3 lettere a–h LSerFi[^118a-1];
+- c. amministrato conformemente alle disposizioni degli articoli 118*g* e 118*h*; e
+- d. che non dispone né di un’autorizzazione né di un’approvazione della FINMA e non è assoggettato alla vigilanza di questa.
+
+<sup>2</sup> Il L-QIF sottostà alla presente legge, sempreché questa non disponga altrimenti.
+
+[^118a-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+
+#### Art. 118b
+
+**Modifica dello stato di autorizzazione o di approvazione**
+
+<sup>1</sup>
+
+Un investimento collettivo di capitale che dispone di un’autorizzazione o di un’approvazione della FINMA può rinunciarvi se:
+
+- a. adempie i requisiti di cui all’articolo 118*a* capoverso 1 lettere a–c; e
+- b. è garantito che gli interessi degli investitori siano tutelati.
+
+<sup>2</sup> Il Consiglio federale disciplina i dettagli. Stabilisce le misure atte a garantire che gli interessi degli investitori siano tutelati.
+
+#### Art. 118c
+
+**Forma giuridica**
+
+Il L-QIF può rivestire la forma giuridica del fondo contrattuale di investimento, della SICAV o della SAcCol.
+
+#### Art. 118d
+
+**Prescrizioni di investimento e disposizioni sulla vigilanza non applicabili ai L-QIF**
+
+Non si applicano ai L-QIF:
+
+- a. le prescrizioni di investimento di cui agli articoli 53–71 e 103;
+- b. le disposizioni che attribuiscono alla FINMA una competenza decisionale nel singolo caso o una competenza in materia di vigilanza (art. 7 cpv. 4 secondo periodo, 10 cpv. 5, 26 cpv. 1, 27, 39 cpv. 2, 44*a* cpv. 2, 47 cpv. 2, 74, 78 cpv. 4, 81 cpv. 2, 83 cpv. 3, 89 cpv. 4, 91, 95 cpv. 2, 96 cpv. 1 lett. c, 2 lett. c e 4, 109 lett. c, 126, 132–134, 136–139 e 144).
+
+#### Art. 118e
+
+**Informazione degli investitori e designazione**
+
+<sup>1</sup>
+
+Sulla prima pagina dei documenti di un L-QIF e nella pubblicità di questo si deve:
+
+- a. utilizzare la designazione «Fondo riservato a investitori qualificati», «Limited Qualified Investor Fund» o «L-QIF»;
+- b. specificare che il L-QIF non dispone né di un’autorizzazione né di un’approvazione della FINMA e non è assoggettato alla vigilanza di questa.
+
+<sup>2</sup> La ditta di un L-QIF che riveste la forma giuridica della SICAV o della SAcCol deve contenere la designazione «Fondo riservato a investitori qualificati», «Limited Qualified Investor Fund» o l’abbreviazione «L-QIF» e la designazione della relativa forma giuridica.
+
+<sup>3</sup> Un L-QIF non può essere designato «fondo in valori mobiliari», «fondo immobiliare», «altro fondo per investimenti tradizionali» o «altro fondo per investimenti alternativi».
+
+#### Art. 118f
+
+**Obbligo di notifica e rilevamento di dati**
+
+<sup>1</sup> L’istituto cui compete l’amministrazione secondo gli articoli 118*g* capoverso 1 e 118*h* capoverso 1, 2 o 4 notifica entro 14 giorni al Dipartimento federale delle finanze (DFF) l’assunzione dell’amministrazione di un L-QIF o la rinuncia alla stessa. Il Consiglio federale può definire le indicazioni che la notifica deve contenere.
+
+<sup>2</sup> Il DFF tiene un elenco pubblico di tutti i L-QIF e degli istituti cui compete l’amministrazione secondo gli articoli 118*g* capoverso 1 e 118*h* capoverso 1, 2 o 4.
+
+<sup>3</sup> A scopi statistici, il DFF può rilevare dati relativi all’attività commerciale del L-QIF presso quest’ultimo e presso gli istituti cui compete l’amministrazione secondo gli articoli 118*g* capoverso 1 e 118*h* capoverso 1, 2 o 4.
+
+<sup>4</sup> Il DFF può incaricare terzi del rilevamento di questi dati oppure obbligare le persone di cui al capoverso 3 a notificarglieli.
+
+<sup>5</sup> L’articolo 144 capoversi 2 e 3 si applica per analogia.
+
+#### Art. 118g
+
+**Amministrazione di un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento**
+
+<sup>1</sup> Il L-QIF che riveste la forma giuridica del fondo contrattuale di investimento è amministrato da una direzione del fondo.
+
+<sup>2</sup>
+
+Alle condizioni di cui agli articoli 14 capoverso 1 e 35 LIsFi[^118g-1], la direzione del fondo può delegare le decisioni di investimento a:
+
+- a. un gestore di patrimoni collettivi secondo l’articolo 2 capoverso 1 lettera c LIsFi;
+- b.
+
+  un gestore estero di patrimoni collettivi, se:
+
+  - 1\. questi sottostà a una regolamentazione e a vigilanza adeguate nello Stato di sede, e
+  - 2\. la FINMA e l’autorità di vigilanza estera competente nel caso specifico hanno concluso un accordo sulla collaborazione e lo scambio di informazioni, sempreché il diritto estero richieda la conclusione di un simile accordo.
+
+<sup>3</sup> Alle condizioni di cui agli articoli 14 capoverso 1 e 27 capoverso 1 LIsFi, il gestore di patrimoni collettivi può delegare le decisioni di investimento alle persone di cui al capoverso 2 della presente disposizione.
+
+<sup>4</sup> Nel contratto del fondo vanno designate le persone a cui sono delegate le decisioni di investimento.
+
+[^118g-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 118h
+
+**Amministrazione di un L-QIF che riveste la forma giuridica della SICAV o della SAcCol**
+
+<sup>1</sup> Il L-QIF che riveste la forma giuridica della SICAV deve delegare sia l’amministrazione sia le decisioni di investimento alla medesima direzione del fondo.
+
+<sup>2</sup> Il L-QIF che riveste la forma giuridica della SAcCol deve delegare la gestione a un gestore di patrimoni collettivi.
+
+<sup>3</sup> La subdelega delle decisioni di investimento è retta dall’articolo 118*g* capoversi 2 e 3.
+
+<sup>4</sup> Il L-QIF che riveste la forma giuridica della SAcCol non è tenuto a delegare la gestione se i suoi accomandatari sono banche, imprese di assicurazione ai sensi della LSA[^118h-1], società di intermediazione mobiliare, direzioni di un fondo o gestori di patrimoni collettivi.
+
+<sup>5</sup> Nello statuto o nel contratto di società vanno designate le persone a cui è delegata la gestione o l’amministrazione.
+
+[^118h-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+
+#### Art. 118i
+
+**Verifica, contabilità, valutazione e rendiconto**
+
+<sup>1</sup> La verifica del L-QIF deve essere affidata a una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori conformemente all’articolo 9*a* capoverso 1 della legge del 16 dicembre 2005[^118i-1] sui revisori.
+
+<sup>2</sup> Il conto annuale ed eventualmente il conto di gruppo del L-QIF e di tutte le società immobiliari che gli appartengono devono essere sottoposti alla verifica di un’impresa di revisione sotto sorveglianza statale secondo i principi della revisione ordinaria del Codice delle obbligazioni[^118i-2].
+
+<sup>3</sup> La verifica deve essere affidata alla medesima società che ha svolto l’audit per l’istituto cui compete l’amministrazione secondo l’articolo 118*g* capoverso 1 o 118*h* capoverso 1, 2 o 4.
+
+<sup>4</sup> Alla tutela del segreto da parte della società di audit si applica per analogia l’articolo 730*b* capoverso 2 del Codice delle obbligazioni.
+
+<sup>5</sup> I costi della verifica sono a carico del L-QIF.
+
+<sup>6</sup> Il Consiglio federale disciplina i dettagli della verifica. Può emanare ulteriori prescrizioni relative alla contabilità, alla valutazione, al rendiconto e all’obbligo di pubblicazione.
+
+[^118i-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^118i-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+### Capitolo 2: Statuto degli investitori nel caso di L-QIF che sono investimenti collettivi di capitale aperti
+
+#### Art. 118j
+
+**Redazione e modifica del contratto del fondo**
+
+<sup>1</sup> Nel caso di un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento, la direzione del fondo redige il contratto del fondo e si procura l’accordo della banca depositaria.
+
+<sup>2</sup>
+
+Se intende modificare il contratto del fondo, la direzione del fondo si procura previamente l’accordo della banca depositaria e pubblica negli organi di pubblicazione del L-QIF:
+
+- a. un compendio delle principali modifiche;
+- b. l’indicazione dei luoghi dove le modifiche testuali del contratto possono essere ottenute gratuitamente; e
+- c. l’indicazione della data di entrata in vigore delle modifiche.
+
+<sup>3</sup> Si può omettere una pubblicazione secondo il capoverso 2 se tutti gli investitori vengono informati, per scritto o in un’altra forma che ne consenta la prova per testo, sul tenore delle modifiche e sulla data della loro entrata in vigore.
+
+<sup>4</sup>
+
+Le modifiche del contratto del fondo entrano in vigore al più presto:
+
+- a. nel caso di un fondo contrattuale di investimento con possibilità di riscatto in qualsiasi momento, 30 giorni dopo la pubblicazione secondo il capoverso 2 o l’informazione secondo il capoverso 3;
+- b. nel caso di un fondo contrattuale di investimento senza possibilità di riscatto in qualsiasi momento, il giorno successivo alla data in cui le quote possono essere riscattate nel rispetto dei termini di riscatto e delle scadenze contrattuali o regolamentari, se il contratto del fondo fosse disdetto il 30° giorno dopo la pubblicazione secondo il capoverso 2 o l’informazione secondo il capoverso 3.
+
+<sup>5</sup> Qualora il termine contrattuale o regolamentare di disdetta superi i 30 giorni, le modifiche possono entrare in vigore prima di quanto previsto al capoverso 4 se tutti gli investitori hanno dato il loro consenso per scritto o in un’altra forma che ne consenta la prova per testo, ma al più presto 30 giorni dopo la pubblicazione secondo il capoverso 2 o l’informazione secondo il capoverso 3.
+
+#### Art. 118k
+
+**Cambiamento di banca depositaria**
+
+<sup>1</sup> L’articolo 39*a* LIsFi[^118k-1] si applica per analogia al cambiamento di banca depositaria nel caso di un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento.
+
+<sup>2</sup> Il cambiamento di banca depositaria di un L-QIF che riveste la forma giuridica della SICAV necessita di un contratto in forma scritta o in un’altra forma che ne consenta la prova per testo. Il cambiamento deve essere pubblicato senza indugio negli organi di pubblicazione della SICAV.
+
+[^118k-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 118l
+
+**Deroghe all’obbligo di versamento e pagamento in contanti**
+
+Nel caso di un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento o della SICAV, sono consentite deroghe all’obbligo di versamento e pagamento in contanti di cui all’articolo 78 purché previste dai seguenti documenti:
+
+- a. il contratto del fondo, nel caso di un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento;
+- b. il regolamento di investimento, nel caso di un L-QIF che riveste la forma giuridica della SICAV.
+
+#### Art. 118m
+
+**Dilazione del rimborso in casi straordinari**
+
+Nel caso di un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento o della SICAV, in casi straordinari la direzione del fondo può, nell’interesse di tutti gli investitori, disporre una dilazione limitata nel tempo del rimborso delle quote.
+
+### Capitolo 3: Prescrizioni di investimento
+
+#### Art. 118n
+
+**Investimenti e tecniche di investimento**
+
+<sup>1</sup>
+
+Gli investimenti ammessi per il L-QIF sono disciplinati nei seguenti documenti:
+
+- a. nel contratto del fondo, nel caso di un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento;
+- b. nel regolamento di investimento, nel caso di un L-QIF che riveste la forma giuridica della SICAV;
+- c. nel contratto di società, nel caso di un L-QIF che riveste la forma giuridica della SAcCol.
+
+<sup>2</sup> Se il L-QIF effettua investimenti alternativi, nella designazione, nei documenti di cui al capoverso 1 e nella pubblicità sono indicati i rischi particolari connessi a tali investimenti.
+
+<sup>3</sup> Il Consiglio federale disciplina le tecniche di investimento e le limitazioni di investimento.
+
+#### Art. 118o
+
+**Ripartizione dei rischi**
+
+La ripartizione dei rischi di un L-QIF è descritta nei documenti di cui all’articolo 118*n* capoverso 1.
+
+#### Art. 118p
+
+**Prescrizioni speciali per investimenti immobiliari**
+
+<sup>1</sup> Se un L-QIF effettua investimenti immobiliari, si applica per analogia l’articolo 63 capoversi 1–3.
+
+<sup>2</sup> Per il L-QIF sono designate almeno due persone fisiche indipendenti o una persona giuridica indipendente come periti incaricati delle stime degli investimenti immobiliari.
+
+<sup>3</sup> Il Consiglio federale disciplina le deroghe al capoverso 1 e le esigenze relative ai periti incaricati delle stime di cui al capoverso 2. Disciplina segnatamente le deroghe al divieto di assunzione e di cessione di cui all’articolo 63 capoversi 2 e 3.
+
 ## Titolo quarto: Investimenti collettivi di capitale esteri
 
 ### Capitolo 1: Definizione e approvazione
@@ -1463,7 +1759,7 @@ Si considerano investimenti collettivi di capitale aperti esteri:
 
 L’approvazione è concessa se:[^120-2]
 
-- a.[^120-3] l’investimento collettivo di capitale, la direzione del fondo o la società, il gestore patrimoniale dell’investimento collettivo di capitale e l’ente di custodia sono sottoposti a una vigilanza statale volta a proteggere gli investitori;
+- a.[^120-3] l’investimento collettivo di capitale, la direzione del fondo o la società, il gestore di patrimoni collettivi e l’ente di custodia sono sottoposti a una vigilanza statale volta a proteggere gli investitori;
 - b.[^120-4] la direzione del fondo o la società nonché l’ente di custodia sottostanno a una normativa equivalente alle disposizioni della presente legge per quanto riguarda l’organizzazione, i diritti degli investitori e la politica di investimento;
 - c. la designazione dell’investimento collettivo di capitale non induce in inganno, né presta a confusione;
 - d.[^120-5] sono stati designati un rappresentante e un ufficio di pagamento per le quote offerte in Svizzera;
@@ -1484,7 +1780,7 @@ L’approvazione è concessa se:[^120-2]
 [^120-5]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-6]: Introdotta dal della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-7]: Introdotto dal della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^120-8]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^120-8]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^120-9]: Introdotto dal della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-10]: Introdotto dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1496,7 +1792,7 @@ L’approvazione è concessa se:[^120-2]
 
 <sup>2</sup> Gli investitori possono esigere l’emissione e il riscatto delle quote presso l’ufficio di pagamento.
 
-[^121-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^121-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 122
 
@@ -1514,7 +1810,7 @@ Il Consiglio federale è autorizzato a concludere, sulla base del riconoscimento
 
 <sup>2</sup> La direzione del fondo e la società si impegnano a fornire al rappresentante tutte le informazioni necessarie all’assunzione dei suoi compiti.
 
-[^123-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^123-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^123-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 124
@@ -1558,7 +1854,7 @@ Le seguenti persone incaricano una società di audit abilitata dall’Autorità 
 
 - a.[^126-4] la direzione del fondo per i fondi di investimento che amministra;
 - b. la SICAV;
-- c. la società in accomandita per investimenti collettivi di capitale;
+- c. la SAcCol;
 - d. la SICAF;
 - e.[^126-5] ...
 - f. il rappresentante di investimenti collettivi di capitale esteri.
@@ -1573,15 +1869,15 @@ Le seguenti persone incaricano una società di audit abilitata dall’Autorità 
 
 <sup>6</sup> Il Consiglio federale disciplina i dettagli. Può autorizzare la FINMA a emanare disposizioni d’esecuzione negli ambiti di portata ridotta, segnatamente negli ambiti prevalentemente tecnici.[^126-11]
 
-[^126-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^126-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^126-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^126-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^126-3]: Nuovo testo giusta l’all. n. 4 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^126-4]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-5]: Abrogata dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-6]: Abrogato dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^126-7]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-8]: Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^126-9]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126-9]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^126-10]: Introdotto dall’all. n. 4 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^126-11]: Introdotto dall’all. n. 4 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
@@ -1617,7 +1913,10 @@ Le seguenti persone incaricano una società di audit abilitata dall’Autorità 
 
 <sup>2</sup> Essa non controlla l’opportunità politico-commerciale delle decisioni prese dai titolari dell’autorizzazione.
 
+<sup>3</sup> I L-QIF non sono sottoposti alla vigilanza della FINMA.[^132-2]
+
 [^132-1]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^132-2]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 133
 
@@ -1632,7 +1931,7 @@ Le seguenti persone incaricano una società di audit abilitata dall’Autorità 
 <sup>4</sup> Se una decisione esecutoria della FINMA rimane disattesa nonostante diffida, la FINMA può, a spese della parte inadempiente, eseguire essa stessa l’operazione ordinata.
 
 [^133-1]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^133-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^133-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^133-3]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 134
@@ -1671,8 +1970,8 @@ La FINMA può disporre la liquidazione di titolari dell’autorizzazione ai qual
 
 [^137-1]: Nuovo testo giusta l’all. n. 3 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^137-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^137-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^137-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^137-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^137-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^137-5]: Nuovo testo giusta l’all. n. 11 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^137-6]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -1687,7 +1986,7 @@ La FINMA può disporre la liquidazione di titolari dell’autorizzazione ai qual
 <sup>3</sup> La FINMA può prendere decisioni e disposizioni derogatorie.
 
 [^138-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 138a
 
@@ -1717,7 +2016,7 @@ Il liquidatore del fallimento può proporre alla FINMA di:
 <sup>3</sup> La FINMA prende le disposizioni necessarie per chiudere la procedura. Rende pubblica la chiusura.
 
 [^138b-1]: Introdotto dal della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138b-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138b-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^138b-3]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^138b-4]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1728,7 +2027,7 @@ Il liquidatore del fallimento può proporre alla FINMA di:
 Gli articoli 37*f* e 37*g* della legge dell’8 novembre 1934[^138c-2] sulle banche si applicano per analogia al riconoscimento dei decreti esteri di fallimento e delle misure estere di insolvenza nonché al coordinamento con la procedura estera di insolvenza.
 
 [^138c-1]: Introdotto dal della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138c-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^138c-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 138d
 
@@ -1741,7 +2040,7 @@ Gli articoli 37*f* e 37*g* della legge dell’8 novembre 1934[^138c-2] sulle ban
 <sup>3</sup> I ricorsi nella procedura di fallimento non hanno effetto sospensivo. Su domanda, il giudice dell’istruzione può accordare l’effetto sospensivo.
 
 [^138d-1]: Introdotto dall’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^138d-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138d-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 139
 
@@ -1790,7 +2089,7 @@ Gli articoli 37*f* e 37*g* della legge dell’8 novembre 1934[^138c-2] sulle ban
 
 [^144-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^144-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^144-3]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^144-3]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 
 ## Titolo sesto: Responsabilità e disposizioni penali
 
@@ -1806,7 +2105,7 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 
 - a. alla direzione del fondo;
 - b. alla SICAV;
-- c. alla società in accomandita per investimenti collettivi di capitale;
+- c. alla SAcCol;
 - d. alla SICAF;
 - e. alla banca depositaria;
 - f.[^145-2] al gestore di patrimoni collettivi;
@@ -1820,15 +2119,15 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 
 <sup>4</sup> La responsabilità degli organi della direzione del fondo, della SICAV e della SICAF è retta dalle disposizioni del Codice delle obbligazioni[^145-7] relative alla società anonima.
 
-<sup>5</sup> La responsabilità della società in accomandita per investimenti collettivi di capitale è retta dalle disposizioni del Codice delle obbligazioni relative alla società in accomandita.
+<sup>5</sup> La responsabilità della SAcCol è retta dalle disposizioni del Codice delle obbligazioni relative alla società in accomandita.
 
 [^145-1]: Nuovo testo della seconda frase giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-3]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^145-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^145-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^145-5]: Nuovo testo del terzo per. giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-6]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^145-7]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^145-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 146
 
@@ -1916,20 +2215,24 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 - c.[^149-1] ...
 - d. non effettua le comunicazioni prescritte alla FINMA, alla Banca nazionale svizzera o agli investitori o vi inserisce false indicazioni;
 - e.[^149-2] ...
-- f.[^149-3] non tiene in modo corretto il registro delle azioni di cui all’articolo 46 capoverso 3.
+- f.[^149-3] non tiene in modo corretto il registro delle azioni di cui all’articolo 46 capoverso 3;
+- g.[^149-4] viola le disposizioni sull’informazione degli investitori e sulla designazione di L-QIF (art. 118*e*);
+- h.[^149-5] viola l’obbligo di notifica di cui all’articolo 118*f* capoverso 1.
 
-<sup>2</sup> ...[^149-4]
+<sup>2</sup> ...[^149-6]
 
-<sup>3</sup> ...[^149-5]
+<sup>3</sup> ...[^149-7]
 
-<sup>4</sup> ...[^149-6]
+<sup>4</sup> ...[^149-8]
 
 [^149-1]: Abrogata dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^149-2]: Abrogata dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^149-3]: Introdotta dal n. I 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^149-4]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^149-5]: Abrogato dall’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^149-6]: Abrogato dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^149-4]: Introdotta dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^149-5]: Introdotta dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^149-6]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^149-7]: Abrogato dall’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^149-8]: Abrogato dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 150
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2006 über die kollektiven Kapitalanlagen (Kol
 short: KAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: de
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-822-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2006-822-20240301-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20230101/de"
 
 (Kollektivanlagengesetz, KAG)
 
-vom 23. Juni 2006 (Stand am 1. Januar 2023)
+vom 23. Juni 2006 (Stand am 1. März 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 98 Absätze 1 und 2 und 122 Absatz 1 der Bundesverfass
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)
 
 ## 1. Titel: Allgemeine Bestimmungen
@@ -79,7 +79,7 @@ Investmentgesellschaften in der Form einer schweizerischen Aktiengesellschaft un
 [^2-2]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-3]: Aufgehoben durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-4]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^2-5]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^2-5]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^2-6]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Aufgehoben durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-7]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Aufgehoben durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-8]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -105,15 +105,16 @@ Investmentgesellschaften in der Form einer schweizerischen Aktiengesellschaft un
 
 <sup>3</sup> Der Bundesrat kann die Mindestanzahl der Anlegerinnen und Anleger je nach Rechtsform und Adressatenkreis bestimmen. Er kann kollektive Kapitalanlagen für eine einzige qualifizierte Anlegerin oder einen einzigen qualifizierten Anleger (Einanlegerfonds) nach Artikel 10 Absatz 3 in Verbindung mit Artikel 4 Absatz 3 Buchstaben b, e und f des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^7-1] (FIDLEG) zulassen.[^7-2] [^7-3]
 
-<sup>4</sup> Bei Einanlegerfonds können die Fondsleitung und die Investmentgesellschaft mit variablem Kapital (SICAV) die Anlageentscheide an die einzige Anlegerin oder an den einzigen Anleger delegieren. Die FINMA kann diesen von der Pflicht befreien, sich einer anerkannten Aufsicht nach Artikel 31 Absatz 3 beziehungsweise Artikel 36 Absatz 3 zu unterstellen.[^7-4]
+<sup>4</sup> Bei Einanlegerfonds können die Fondsleitung und die Investmentgesellschaft mit variablem Kapital (SICAV) die Anlageentscheide auf die einzige Anlegerin oder auf den einzigen Anleger übertragen. Die Eidgenössische Finanzmarktaufsicht (FINMA) kann diese oder diesen von der Bewilligungspflicht nach Artikel 14 Absatz 1 des Finanzinstitutsgesetzes vom 15. Juni 2018[^7-4] (FINIG) beziehungsweise von der Pflicht, sich einer anerkannten Aufsicht nach Artikel 36 Absatz 3 des vorliegenden Gesetzes zu unterstellen, befreien.[^7-5]
 
-<sup>5</sup> Kollektive Kapitalanlagen müssen ihren Sitz und ihre Hauptverwaltung in der Schweiz haben.[^7-5]
+<sup>5</sup> Kollektive Kapitalanlagen müssen ihren Sitz und ihre Hauptverwaltung in der Schweiz haben.[^7-6]
 
-[^7-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^7-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^7-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-3]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^7-4]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^7-5]: Eingefügt durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^7-5]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^7-6]: Eingefügt durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 8
 
@@ -129,13 +130,16 @@ Investmentgesellschaften in der Form einer schweizerischen Aktiengesellschaft un
 
 **Geschlossene kollektive Kapitalanlagen**
 
-<sup>1</sup> Geschlossene kollektive Kapitalanlagen weisen entweder die Form der Kommanditgesellschaft für kollektive Kapitalanlagen (Art. 98 ff.) oder die Form der Investmentgesellschaft mit festem Kapital (SICAF, Art. 110 ff.) auf.
+<sup>1</sup> Geschlossene kollektive Kapitalanlagen weisen entweder die Form der Kommanditgesellschaft für kollektive Kapitalanlagen (KmGK, Art. 98–109) oder die Form der Investmentgesellschaft mit festem Kapital (SICAF, Art. 110–118) auf.[^9-1]
 
 <sup>2</sup> Bei geschlossenen kollektiven Kapitalanlagen haben die Anlegerinnen und Anleger zulasten des Kollektivvermögens weder unmittelbar noch mittelbar einen Rechtsanspruch auf Rückgabe ihrer Anteile zum Nettoinventarwert.
 
-<sup>3</sup> Die Kommanditgesellschaft für kollektive Kapitalanlagen beruht auf einem Gesellschaftsvertrag.
+<sup>3</sup> Die KmGK[^9-2] beruht auf einem Gesellschaftsvertrag.
 
 <sup>4</sup> Die SICAF beruht auf Statuten und erlässt ein Anlagereglement.
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^9-2]: Ausdruck gemäss Ziff. I Abs. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Die Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 10
 
@@ -149,30 +153,43 @@ Investmentgesellschaften in der Form einer schweizerischen Aktiengesellschaft un
 
 <sup>3bis</sup> …[^10-3]
 
-<sup>3ter</sup> Als qualifizierte Anlegerinnen und Anleger gelten auch Privatkundinnen und ‑kunden, für die ein Finanzintermediär nach Artikel 4 Absatz 3 Buchstabe a FIDLEG oder ein ausländischer Finanzintermediär, der einer gleichwertigen prudenziellen Aufsicht untersteht, im Rahmen eines auf Dauer angelegten Vermögensverwaltungs- oder Anlageberatungsverhältnisses Vermögensverwaltung oder Anlageberatung im Sinne von Artikel 3 Buchstabe c Ziffern 3 und 4 FIDLEG erbringt, sofern sie nicht erklärt haben, nicht als solche gelten zu wollen. Die Erklärung muss schriftlich oder in anderer durch Text nachweisbarer Form vorliegen.[^10-4]
+<sup>3ter</sup>
 
-<sup>4</sup> …[^10-5]
+Als qualifizierte Anlegerinnen und Anleger gelten auch Privatkundinnen und -kunden:
+
+- a.
+
+  für die eine der folgenden Personen im Rahmen eines auf Dauer angelegten Vermögensverwaltungs- oder Anlageberatungsverhältnisses Vermögensverwaltung oder Anlageberatung im Sinne von Artikel 3 Buchstabe c Ziffern 3 und 4 FIDLEG erbringt:
+
+  - 1\. ein Finanzintermediär nach Artikel 4 Absatz 3 Buchstabe a FIDLEG,
+  - 2\. ein ausländischer Finanzintermediär, der einer prudenziellen Aufsicht untersteht wie der Finanzintermediär nach Ziffer 1,
+  - 3\. ein Versicherungsunternehmen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^10-4] (VAG); und
+
+- b. die nicht schriftlich oder in anderer durch Text nachweisbarer Form erklärt haben, nicht als solche gelten zu wollen.[^10-5]
+
+<sup>4</sup> …[^10-6]
 
 <sup>5</sup>
 
-Die FINMA kann kollektive Kapitalanlagen ganz oder teilweise von bestimmten Vorschriften der Finanzmarktgesetze im Sinne von Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^10-6] (FINMAG) befreien, sofern sie ausschliesslich qualifizierten Anlegerinnen und Anlegern offenstehen und der Schutzzweck dieses Gesetzes dadurch nicht beeinträchtigt wird, namentlich von den Vorschriften über:[^10-7]
+Die FINMA kann kollektive Kapitalanlagen ganz oder teilweise von bestimmten Vorschriften der Finanzmarktgesetze im Sinne von Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^10-7] (FINMAG) befreien, sofern sie ausschliesslich qualifizierten Anlegerinnen und Anlegern offenstehen und der Schutzzweck dieses Gesetzes dadurch nicht beeinträchtigt wird, namentlich von den Vorschriften über:[^10-8]
 
-- a.[^10-8] …
-- b.[^10-9] …
+- a.[^10-9] …
+- b.[^10-10] …
 - c. die Pflicht zur Erstellung eines Halbjahresberichtes;
 - d. die Pflicht, den Anlegerinnen und Anlegern das Recht auf jederzeitige Kündigung einzuräumen;
 - e. die Pflicht zur Ausgabe und Rücknahme der Anteile in bar;
 - f. die Risikoverteilung.
 
-[^10-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^10-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^10-2]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^10-3]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-4]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-5]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^10-7]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-8]: Aufgehoben durch Ziff. I des BG vom 28. Sept. 2012, mit Wirkung seit 1. Juni 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^10-9]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-4]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^10-5]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^10-6]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-7]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^10-8]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-9]: Aufgehoben durch Ziff. I des BG vom 28. Sept. 2012, mit Wirkung seit 1. Juni 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^10-10]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 11
 
@@ -186,9 +203,9 @@ Anteile sind Forderungen gegen die Fondsleitung auf Beteiligung an Vermögen und
 
 <sup>1</sup> Die Bezeichnung der kollektiven Kapitalanlage darf nicht zu Verwechslung oder Täuschung Anlass geben, insbesondere nicht in Bezug auf die Anlagen.
 
-<sup>2</sup> Bezeichnungen wie «Anlagefonds», «Investmentfonds», «Investmentgesellschaft mit variablem Kapital», «SICAV», «Kommanditgesellschaft für kollektive Kapitalanlagen», «KmGK», «Investmentgesellschaft mit festem Kapital» und «SICAF» dürfen nur für die entsprechenden, diesem Gesetz unterstellten kollektiven Kapitalanlagen verwendet werden.[^12-1]
+<sup>2</sup> Bezeichnungen wie «Anlagefonds», «Investmentfonds», «Investmentgesellschaft mit variablem Kapital», «SICAV», «Kommanditgesellschaft für kollektive Kapitalanlagen», «KmGK», «Investmentgesellschaft mit festem Kapital», «SICAF», «Limited Qualified Investor Fund» oder «L-QIF» dürfen nur für die entsprechenden, diesem Gesetz unterstellten kollektiven Kapitalanlagen verwendet werden.[^12-1]
 
-[^12-1]: Fassung gemäss Ziff. III des BG vom 25. Sept. 2015 (Firmenrecht), in Kraft seit 1. Juli 2016 ([AS 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [BBl 2014 9305](https://fedlex.data.admin.ch/eli/fga/2014/2039)).
+[^12-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### 3. Kapitel: Bewilligung und Genehmigung
 
@@ -206,25 +223,28 @@ Eine Bewilligung beantragen müssen:
 
 - a.[^13-2] …
 - b. die SICAV;
-- c. die Kommanditgesellschaft für kollektive Kapitalanlagen;
+- c. die KmGK;
 - d. die SICAF;
 - e.[^13-3] die Depotbank;
 - f. und g.[^13-4] …
 - h. der Vertreter ausländischer kollektiver Kapitalanlagen.
 
-<sup>3</sup> Der Bundesrat kann Vertreter, die bereits einer anderen gleichwertigen staatlichen Aufsicht unterstehen, von der Bewilligungspflicht befreien.[^13-5]
+<sup>2bis</sup> Keiner Bewilligung bedarf ein Limited Qualified Investor Fund (L-QIF) in der Rechtsform der SICAV oder der KmGK.[^13-5]
 
-<sup>4</sup> …[^13-6]
+<sup>3</sup> Der Bundesrat kann Vertreter, die bereits einer anderen gleichwertigen staatlichen Aufsicht unterstehen, von der Bewilligungspflicht befreien.[^13-6]
 
-<sup>5</sup> Die Personen nach Absatz 2 Buchstaben b–d dürfen erst nach Erteilung der Bewilligung durch die FINMA in das Handelsregister eingetragen werden.[^13-7]
+<sup>4</sup> …[^13-7]
+
+<sup>5</sup> Die Personen nach Absatz 2 Buchstaben b–d dürfen erst nach Erteilung der Bewilligung durch die FINMA in das Handelsregister eingetragen werden.[^13-8]
 
 [^13-1]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-2]: Aufgehoben durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-3]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-4]: Aufgehoben durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-5]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-6]: Aufgehoben durch Ziff. I des BG vom 28. Sept. 2012, mit Wirkung seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^13-7]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^13-6]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-7]: Aufgehoben durch Ziff. I des BG vom 28. Sept. 2012, mit Wirkung seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^13-8]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 14
 
@@ -257,7 +277,7 @@ Als qualifiziert beteiligt gelten, sofern sie an den Personen nach Artikel 13 Ab
 
 [^14-1]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-2]: Eingefügt durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^14-4]: Eingefügt durch Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^14-5]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-6]: Aufgehoben durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -273,13 +293,16 @@ Der Genehmigung der FINMA bedürfen folgende Dokumente:
 
 - a. der Kollektivanlagevertrag des Anlagefonds (Art. 25);
 - b. die Statuten und das Anlagereglement der SICAV;
-- c. der Gesellschaftsvertrag der Kommanditgesellschaft für kollektive Kapitalanlagen;
+- c. der Gesellschaftsvertrag der KmGK;
 - d. die Statuten und das Anlagereglement der SICAF;
 - e.[^15-1] die entsprechenden Dokumente ausländischer kollektiver Kapitalanlagen, die nicht qualifizierten Anlegerinnen und Anlegern angeboten werden.
 
 <sup>2</sup> Ist der Anlagefonds oder die SICAV als offene kollektive Kapitalanlage mit Teilvermögen (Art. 92 ff.) ausgestaltet, so bedarf jedes Teilvermögen beziehungsweise jede Aktienkategorie einer eigenen Genehmigung.
 
+<sup>3</sup> Die Dokumente eines L-QIF und deren Änderung bedürfen weder einer Genehmigung nach Absatz 1 noch einer Genehmigung nach Absatz 2.[^15-2]
+
 [^15-1]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 16
 
@@ -324,17 +347,18 @@ Der Bundesrat kann für kollektive Kapitalanlagen ein vereinfachtes Bewilligungs
 Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten erfüllen dabei insbesondere die folgenden Pflichten:[^20-1]
 
 - a. Treuepflicht: Sie handeln unabhängig und wahren ausschliesslich die Interessen der Anlegerinnen und Anleger;
-- b. Sorgfaltspflicht: Sie treffen die organisatorischen Massnahmen, die für eine einwandfreie Geschäftsführung erforderlich sind;
-- c.[^20-2] Informationspflicht: Sie legen Rechenschaft ab über die von ihnen verwalteten, aufbewahrten und vertretenen kollektiven Kapitalanlagen und informieren über sämtliche den Anlegerinnen und Anlegern direkt oder indirekt belasteten Gebühren und Kosten sowie über von Dritten zugeflossene Entschädigungen, insbesondere Provisionen, Rabatte oder sonstige vermögenswerte Vorteile.
+- b.[^20-2] Sorgfaltspflicht: Sie treffen die organisatorischen Massnahmen, die für eine einwandfreie Geschäftstätigkeit erforderlich sind;
+- c.[^20-3] Informationspflicht: Sie legen Rechenschaft ab über die von ihnen verwalteten, aufbewahrten und vertretenen kollektiven Kapitalanlagen und informieren über sämtliche den Anlegerinnen und Anlegern direkt oder indirekt belasteten Gebühren und Kosten sowie über von Dritten zugeflossene Entschädigungen, insbesondere Provisionen, Rabatte oder sonstige vermögenswerte Vorteile.
 
-<sup>2</sup> …[^20-3]
+<sup>2</sup> …[^20-4]
 
-<sup>3</sup> Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten treffen für ihre gesamte Geschäftstätigkeit alle zur Erfüllung dieser Pflichten notwendigen Massnahmen.[^20-4]
+<sup>3</sup> Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten treffen für ihre gesamte Geschäftstätigkeit alle zur Erfüllung dieser Pflichten notwendigen Massnahmen.[^20-5]
 
 [^20-1]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-2]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-3]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-4]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^20-3]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-4]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-5]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 21
 
@@ -347,7 +371,7 @@ Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, s
 <sup>3</sup> Sie dürfen Anlagen auf eigene Rechnung nur zum Marktpreis übernehmen und Anlagen aus eigenen Beständen nur zum Marktpreis abtreten.
 
 [^21-1]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^21-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^21-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^21-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 22
@@ -368,7 +392,7 @@ Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, s
 
 <sup>4</sup> Absatz 3 gilt auch für jedes Teilvermögen einer offenen kollektiven Kapitalanlage im Sinne von Artikel 92 ff.
 
-[^23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24
 
@@ -421,7 +445,7 @@ Der vertragliche Anlagefonds (Anlagefonds) basiert auf einem Kollektivanlagevert
 
 <sup>4</sup> Die FINMA veröffentlicht ihren Entscheid in den Publikationsorganen.
 
-[^27-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^27-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^27-2]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 ### 3. Abschnitt: …
@@ -451,11 +475,12 @@ Die SICAV ist eine Gesellschaft:
 
 <sup>2</sup> Die SICAV weist ein Mindestvermögen auf. Der Bundesrat legt dessen Höhe fest und die Frist, innerhalb der dieses geäufnet werden muss.
 
-<sup>3</sup> Anlageentscheide darf die SICAV nur Personen übertragen, die über eine für diese Tätigkeit erforderliche Bewilligung verfügen. Die Artikel 14 und 35 des Finanzinstitutsgesetzes vom 15. Juni 2018[^36-3] (FINIG) gelten sinngemäss.[^36-4]
+<sup>3</sup> Anlageentscheide darf die SICAV nur Personen übertragen, die über eine für diese Tätigkeit erforderliche Bewilligung verfügen. Die Artikel 14 und 35 FINIG[^36-3] gelten sinngemäss. [^36-4] [^36-5]
 
 [^36-2]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^36-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^36-4]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^36-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^36-4]: Fassung gemäss des zweiten Satzes gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^36-5]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 37
 
@@ -467,7 +492,7 @@ Die SICAV ist eine Gesellschaft:
 
 <sup>3</sup> …[^37-3]
 
-[^37-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^37-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^37-2]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^37-3]: Aufgehoben durch Ziff. I des BG vom 28. Sept. 2012, mit Wirkung seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -479,7 +504,7 @@ Die SICAV ist eine Gesellschaft:
 
 <sup>2</sup> Im Übrigen kommen die Bestimmungen des Obligationenrechtes[^38-1] über die Firma der Aktiengesellschaft zur Anwendung.
 
-[^38-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39
 
@@ -583,7 +608,7 @@ Die FINMA kann in begründeten Fällen Ausnahmen von dieser Pflicht bewilligen, 
 Die Bestimmungen über öffentliche Kaufangebote (Art. 125‒141 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^45-2]) sind auf die SICAV nicht anwendbar.
 
 [^45-1]: Fassung gemäss Anhang Ziff. 9 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^45-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^45-2]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 ### 2. Abschnitt: Rechte und Pflichten der Aktionärinnen und Aktionäre
 
@@ -603,7 +628,7 @@ Die Bestimmungen über öffentliche Kaufangebote (Art. 125‒141 des Finanzmarkt
 
 <sup>4</sup> Die Statuten können vorsehen, dass die Unternehmeraktionärinnen und -aktionäre sowie die Anlegeraktionärinnen und -aktionäre sowohl bei der selbst- als auch bei der fremdverwalteten SICAV einen Anspruch auf mindestens je einen Verwaltungsratssitz haben.[^46-3]
 
-[^46-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^46-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^46-2]: Zweiter Satz eingefügt durch Ziff. I 6 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^46-3]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -616,7 +641,7 @@ Die Bestimmungen über öffentliche Kaufangebote (Art. 125‒141 des Finanzmarkt
 <sup>2</sup> Die Folgen der Nichteinhaltung der Meldepflicht bestimmen sich nach Artikel 697*m* des Obligationenrechts.
 
 [^46a-1]: Eingefügt durch Ziff. I 6 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^46a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 47
 
@@ -634,7 +659,7 @@ Die Bestimmungen über öffentliche Kaufangebote (Art. 125‒141 des Finanzmarkt
 
 Die Kontrollrechte richten sich nach den Bestimmungen des Obligationenrechtes[^48-1] über die Kontrollrechte der Aktionärinnen und Aktionäre, soweit dieses Gesetz nichts anderes vorsieht.
 
-[^48-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 49
 
@@ -654,7 +679,7 @@ Im Übrigen kommen die Artikel 78 ff. zur Anwendung.
 
 <sup>3</sup> Sofern der Bundesrat nichts anderes vorsieht, kommen im Übrigen die Bestimmungen des Obligationenrechts[^50-1] über die Generalversammlung der Aktiengesellschaft zur Anwendung.[^50-2]
 
-[^50-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^50-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^50-2]: Fassung gemäss Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 51
@@ -673,11 +698,11 @@ Im Übrigen kommen die Artikel 78 ff. zur Anwendung.
 
 <sup>6</sup> Sofern der Bundesrat nichts anderes vorsieht, kommen im Übrigen die Bestimmungen des Obligationenrechts[^51-5] über den Verwaltungsrat der Aktiengesellschaft zur Anwendung.[^51-6]
 
-[^51-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^51-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^51-2]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^51-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^51-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^51-4]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^51-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^51-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^51-6]: Fassung gemäss Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 52
@@ -899,7 +924,7 @@ Für diese Fonds können insbesondere Anlagen getätigt werden:
 
 <sup>5</sup> Die FINMA kann gestatten, dass die mit der Abwicklung der Transaktionen verbundenen Dienstleistungen eines direkt anlegenden übrigen Fonds für alternative Anlagen durch ein beaufsichtigtes Institut, das für solche Transaktionen spezialisiert ist («Prime Broker»), erbracht werden. Sie kann festlegen, welche Kontrollaufgaben die Fondsleitung und die SICAV wahrnehmen müssen.
 
-[^71-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^71-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^71-2]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^71-3]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -913,10 +938,11 @@ Für diese Fonds können insbesondere Anlagen getätigt werden:
 
 <sup>1</sup> Die Depotbank muss eine Bank im Sinne des BankG[^72-1] sein und über eine für ihre Tätigkeit als Depotbank von kollektiven Kapitalanlagen angemessene Organisation verfügen.[^72-2]
 
-<sup>2</sup> Neben den mit der Geschäftsführung betrauten Personen müssen auch die mit den Aufgaben der Depotbanktätigkeit betrauten Personen die Anforderungen nach Artikel 14 Absatz 1 Buchstabe a erfüllen.
+<sup>2</sup> Neben den mit der Geschäftsführung betrauten Personen müssen auch die mit den Aufgaben der Depotbanktätigkeit betrauten Personen die Anforderungen nach Artikel 14 Absatz 1 Buchstaben a und a<sup>bis</sup> erfüllen.[^72-3]
 
-[^72-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^72-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^72-2]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^72-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 73
 
@@ -938,7 +964,7 @@ Die Depotbank sorgt dafür, dass die Fondsleitung oder die SICAV das Gesetz und 
 
 <sup>4</sup> Der Bundesrat regelt die Anforderungen für die Tätigkeiten der Depotbank und kann Vorgaben zum Schutz der Wertpapieranlagen einführen.[^73-5]
 
-[^73-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^73-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^73-2]: Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^73-3]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^73-4]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
@@ -954,7 +980,7 @@ Die Depotbank sorgt dafür, dass die Fondsleitung oder die SICAV das Gesetz und 
 
 <sup>3</sup> Die FINMA veröffentlicht den Entscheid in den Publikationsorganen.
 
-[^74-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^74-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^74-2]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^74-3]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -987,13 +1013,25 @@ Die Anlegerinnen und Anleger erwerben mit Vertragsabschluss beziehungsweise mit 
 
 <sup>5</sup> Bei kollektiven Kapitalanlagen mit Teilvermögen richten sich die Vermögensrechte nach den Artikeln 93 Absatz 2 und 94 Absatz 2.
 
+#### Art. 78a
+
+**Liquidität**[^78a-1]
+
+<sup>1</sup> Die Fondsleitung oder die SICAV stellt eine den Anlagen, der Anlagepolitik, der Risikoverteilung, dem Anlegerkreis und der Rücknahmefrequenz angemessene Liquidität der kollektiven Kapitalanlage sicher.
+
+<sup>2</sup> Der Bundesrat kann diese Pflicht weiter präzisieren.
+
+[^78a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
 #### Art. 79
 
 **Ausnahmen vom Recht auf jederzeitige Rückgabe**
 
-<sup>1</sup> Der Bundesrat kann nach Massgabe der Anlagevorschriften (Art. 54 ff., 59 ff. und Art. 69 ff.) bei kollektiven Kapitalanlagen mit erschwerter Bewertung oder beschränkter Marktgängigkeit Ausnahmen vom Recht auf jederzeitige Rückgabe vorsehen.
+<sup>1</sup> Der Bundesrat kann nach Massgabe der Anlagevorschriften (Art. 54–57, 59–62, 69–71, 118*n* und 118*o*) bei kollektiven Kapitalanlagen mit erschwerter Bewertung oder beschränkter Marktgängigkeit Ausnahmen vom Recht auf jederzeitige Rückgabe vorsehen.[^79-1]
 
 <sup>2</sup> Er darf das Recht auf jederzeitige Rückgabe jedoch höchstens fünf Jahre aussetzen.
+
+[^79-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 80
 
@@ -1070,7 +1108,7 @@ Werden der offenen kollektiven Kapitalanlage widerrechtlich Vermögensrechte ent
 
 Für jede offene kollektive Kapitalanlage muss gesondert Buch geführt werden. Soweit dieses Gesetz oder die Ausführungsbestimmungen nichts anderes vorsehen, kommen die Artikel 662 ff. des Obligationenrechtes[^87-1] zur Anwendung.
 
-[^87-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). Heute: Art. 957 ff. OR.
+[^87-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818). Heute: Art. 957 ff. OR.
 
 #### Art. 88
 
@@ -1101,7 +1139,7 @@ Für jede offene kollektive Kapitalanlage wird innerhalb von vier Monaten nach A
   - 1\. Änderungen des Fondsreglements,
   - 2\. wesentliche Fragen der Auslegung von Gesetz und Fondsreglement,
   - 3\. den Wechsel von Fondsleitung und Depotbank,
-  - 4\.[^89-1] Änderungen der geschäftsführenden Personen der Fondsleitung, der SICAV oder des Vermögensverwalters kollektiver Kapitalanlagen,
+  - 4\.[^89-1] Änderungen der geschäftsführenden Personen der Fondsleitung, der SICAV oder des Verwalters von Kollektivvermögen[^89-2],
   - 5\. Rechtsstreitigkeiten;
 
 - h. das Ergebnis der offenen kollektiven Kapitalanlage (Performance), allenfalls im Vergleich zu ähnlichen Anlagen (Benchmark);
@@ -1116,6 +1154,7 @@ Für jede offene kollektive Kapitalanlage wird innerhalb von vier Monaten nach A
 <sup>5</sup> Sie sind während zehn Jahren interessierten Personen kostenlos zur Einsicht zur Verfügung zu halten.
 
 [^89-1]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^89-2]: Ausdruck gemäss Ziff. I Abs. 3 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Die Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 90
 
@@ -1178,7 +1217,7 @@ Folgende Umstrukturierungen von offenen kollektiven Kapitalanlagen sind zulässi
 <sup>2</sup> Eine Umstrukturierung nach Absatz 1 Buchstaben b und c darf erst ins Handelsregister eingetragen werden, nachdem sie von der FINMA nach Artikel 15 genehmigt worden ist.
 
 [^95-1]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^95-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^95-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 96
 
@@ -1228,7 +1267,7 @@ Die SICAV wird aufgelöst:
 
 <sup>3</sup> Bei der SICAV haben die Anlegeraktionärinnen und -aktionäre ein Recht auf einen verhältnismässigen Anteil am Ergebnis der Liquidation. Die Unternehmeraktionärinnen und -aktionäre werden nachrangig befriedigt. Im Übrigen kommen die Artikel 737 ff. des Obligationenrechtes[^97-1] zur Anwendung.
 
-[^97-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^97-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 3. Titel: Geschlossene kollektive Kapitalanlagen
 
@@ -1238,17 +1277,18 @@ Die SICAV wird aufgelöst:
 
 **Begriff**
 
-<sup>1</sup> Die Kommanditgesellschaft für kollektive Kapitalanlagen ist eine Gesellschaft, deren ausschliesslicher Zweck die kollektive Kapitalanlage ist. Wenigstens ein Mitglied haftet unbeschränkt (Komplementär), die anderen Mitglieder (Kommanditärinnen und Kommanditäre) haften nur bis zu einer bestimmten Vermögenseinlage (der Kommanditsumme).
+<sup>1</sup> Die Kommanditgesellschaft für kollektive Kapitalanlagen (KmGK) ist eine Gesellschaft, deren ausschliesslicher Zweck die kollektive Kapitalanlage ist.[^98-1] Wenigstens ein Mitglied haftet unbeschränkt (Komplementär), die anderen Mitglieder (Kommanditärinnen und Kommanditäre) haften nur bis zu einer bestimmten Vermögenseinlage (der Kommanditsumme).
 
-<sup>2</sup> Komplementäre müssen Aktiengesellschaften mit Sitz in der Schweiz sein. Aktiengesellschaften ohne Bewilligung als Vermögensverwalter kollektiver Kapitalanlagen dürfen nur in einer einzigen Kommanditgesellschaft für kollektive Kapitalanlagen als Komplementär tätig sein.[^98-1]
+<sup>2</sup> Komplementäre müssen Aktiengesellschaften mit Sitz in der Schweiz sein. Aktiengesellschaften ohne Bewilligung als Verwalter von Kollektivvermögen dürfen nur in einer einzigen KmGK als Komplementär tätig sein.[^98-2]
 
-<sup>2bis</sup> Für die Komplementäre gelten die Bewilligungsvoraussetzungen nach Artikel 14 sinngemäss.[^98-2]
+<sup>2bis</sup> Für die Komplementäre gelten die Bewilligungsvoraussetzungen nach Artikel 14 sinngemäss.[^98-3]
 
-<sup>3</sup> Kommanditärinnen und Kommanditäre müssen qualifizierte Anlegerinnen und Anleger nach Artikel 10 Absatz 3 oder 3<sup>ter</sup> sein.[^98-3]
+<sup>3</sup> Kommanditärinnen und Kommanditäre müssen qualifizierte Anlegerinnen und Anleger nach Artikel 10 Absatz 3 oder 3<sup>ter</sup> sein.[^98-4]
 
-[^98-1]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^98-2]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^98-3]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^98-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^98-2]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^98-3]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^98-4]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 99
 
@@ -1256,7 +1296,7 @@ Die SICAV wird aufgelöst:
 
 Sofern dieses Gesetz nichts anderes vorsieht, kommen die Bestimmungen des Obligationenrechtes[^99-1] über die Kommanditgesellschaft zur Anwendung.
 
-[^99-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^99-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 100
 
@@ -1285,7 +1325,7 @@ Der Gesellschaftsvertrag muss Bestimmungen enthalten über:
 - a. die Firma und den Sitz;
 - b. den Zweck;
 - c. die Firma und den Sitz der Komplementäre;
-- d. den Betrag der gesamten Kommanditsumme;
+- d.[^102-1] den Betrag der gesamten Kommanditsumme oder die Bandbreite der Kommanditsumme (Kapitalband);
 - e. die Dauer;
 - f. die Bedingungen über den Ein- und Austritt der Kommanditärinnen und Kommanditäre;
 - g. die Führung eines Registers der Kommanditärinnen und Kommanditäre;
@@ -1293,11 +1333,30 @@ Der Gesellschaftsvertrag muss Bestimmungen enthalten über:
 - i. die Delegation der Geschäftsführung sowie der Vertretung;
 - j. den Beizug einer Depot- und einer Zahlstelle.
 
-<sup>2</sup> Der Gesellschaftsvertrag bedarf der Schriftform.
+<sup>2</sup> Der Gesellschaftsvertrag bedarf bei Gründung der Zustimmung und der Unterschrift sämtlicher Gesellschafter.[^102-2]
 
-<sup>3</sup> …[^102-1]
+<sup>3</sup> …[^102-3]
 
-[^102-1]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^102-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102-3]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 102a
+
+**Änderung des Gesellschaftsvertrags**[^102a-1]
+
+<sup>1</sup> Die Änderung des Gesellschaftsvertrags bedarf der Zustimmung und der Unterschrift sämtlicher Gesellschafter.
+
+<sup>2</sup>
+
+Der Gesellschaftsvertrag kann durch Mehrheitsbeschlüsse geändert werden, sofern:
+
+- a. dies im Gesellschaftsvertrag vorgesehen ist; und
+- b. der Beschluss öffentlich beurkundet wird.
+
+<sup>3</sup> Der durch einen Mehrheitsbeschluss geänderte Gesellschaftsvertrag bedarf ausschliesslich der Unterschrift der Komplementäre.
+
+[^102a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 103
 
@@ -1313,7 +1372,7 @@ Der Gesellschaftsvertrag muss Bestimmungen enthalten über:
 
 <sup>1</sup> Die Kommanditärinnen und Kommanditäre sind ohne Zustimmung der Komplementäre berechtigt, für eigene und für fremde Rechnung andere Geschäfte zu betreiben und sich an anderen Unternehmen zu beteiligen.
 
-<sup>2</sup> Sofern der Gesellschaftsvertrag nichts anderes vorsieht, dürfen die Komplementäre ohne Zustimmung der Kommanditärinnen und Kommanditäre für eigene und für fremde Rechnung andere Geschäfte betreiben und sich an anderen Unternehmen beteiligen, sofern dies offen gelegt wird und die Interessen der Kommanditgesellschaft für kollektive Kapitalanlagen dadurch nicht beeinträchtigt werden.
+<sup>2</sup> Sofern der Gesellschaftsvertrag nichts anderes vorsieht, dürfen die Komplementäre ohne Zustimmung der Kommanditärinnen und Kommanditäre für eigene und für fremde Rechnung andere Geschäfte betreiben und sich an anderen Unternehmen beteiligen, sofern dies offen gelegt wird und die Interessen der KmGK dadurch nicht beeinträchtigt werden.
 
 #### Art. 105
 
@@ -1325,15 +1384,17 @@ Der Gesellschaftsvertrag muss Bestimmungen enthalten über:
 
 <sup>3</sup> Der Bundesrat kann den Zwangsausschluss vorschreiben. Dieser richtet sich nach Artikel 82.
 
-[^105-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^105-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 106
 
 **Einsicht und Auskunft**
 
-<sup>1</sup> Die Kommanditärinnen und Kommanditäre sind berechtigt, jederzeit Einsicht in die Geschäftsbücher der Gesellschaft zu nehmen. Geschäftsgeheimnisse der Gesellschaften, in die die Kommanditgesellschaft investiert, bleiben gewahrt.
+<sup>1</sup> Die Kommanditärinnen und Kommanditäre sind berechtigt, jederzeit Einsicht in die Geschäftsbücher der Gesellschaft zu nehmen. Geschäftsgeheimnisse der Gesellschaften, in die die KmGK[^106-1] investiert, bleiben gewahrt.
 
 <sup>2</sup> Die Kommanditärinnen und Kommanditäre haben mindestens einmal vierteljährlich Anspruch auf Auskunft über den Geschäftsgang der Gesellschaft.
+
+[^106-1]: Ausdruck gemäss Ziff. I Abs. 3 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Die Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 107
 
@@ -1375,7 +1436,7 @@ Die SICAF ist eine Aktiengesellschaft im Sinne des Obligationenrechts[^110-1] (A
 
 <sup>2</sup> Zwischen den eigenen Mitteln der SICAF und deren Gesamtvermögen muss ein angemessenes Verhältnis bestehen. Der Bundesrat regelt dieses Verhältnis.[^110-2]
 
-[^110-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^110-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^110-2]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 111
@@ -1386,7 +1447,7 @@ Die SICAF ist eine Aktiengesellschaft im Sinne des Obligationenrechts[^110-1] (A
 
 <sup>2</sup> Im Übrigen kommen die Bestimmungen des Obligationenrechtes[^111-1] über die Firma der Aktiengesellschaft zur Anwendung.
 
-[^111-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 112
 
@@ -1394,7 +1455,7 @@ Die SICAF ist eine Aktiengesellschaft im Sinne des Obligationenrechts[^110-1] (A
 
 Sofern dieses Gesetz nichts anderes vorsieht, kommen die Bestimmungen des Obligationenrechtes[^112-1] über die Aktiengesellschaft zur Anwendung.
 
-[^112-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^112-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 113
 
@@ -1442,6 +1503,233 @@ Für die Rechenschaftsablage kommen neben den aktienrechtlichen Bestimmungen üb
 
 Die SICAF bezeichnet eine Prüfgesellschaft (Art. 126 ff.).
 
+## 3*a*. Titel: Limited Qualified Investor Fund
+
+[^tit3a-1]
+
+[^tit3a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 118a
+
+**Begriff und Anwendbarkeit des Gesetzes**
+
+<sup>1</sup>
+
+Ein L-QIF ist eine kollektive Kapitalanlage, die:
+
+- a. ausschliesslich qualifizierten Anlegerinnen und Anlegern offensteht;
+- b. für den Fall, dass sie ihre Mittel direkt in Immobilien anlegt, ausschliesslich Anlegerinnen und Anlegern offensteht, die professionelle Kundinnen und Kunden nach Artikel 4 Absatz 3 Buchstaben a–h FIDLEG[^118a-1] sind;
+- c. gemäss den Vorschriften der Artikel 118*g* und 118*h* verwaltet wird; und
+- d. weder über eine Bewilligung noch eine Genehmigung der FINMA verfügt und auch nicht von der FINMA beaufsichtigt wird.
+
+<sup>2</sup> Er untersteht diesem Gesetz, soweit dieses nichts anderes bestimmt.
+
+[^118a-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+
+#### Art. 118b
+
+**Änderung des Bewilligungs- oder Genehmigungsstatus**
+
+<sup>1</sup>
+
+Eine kollektive Kapitalanlage, die über eine Bewilligung oder Genehmigung der FINMA verfügt, kann diese zurückgeben, wenn:
+
+- a. sie die Voraussetzungen nach Artikel 118*a* Absatz 1 Buchstaben a−c erfüllt; und
+- b. sichergestellt ist, dass die Interessen der Anlegerinnen und Anleger gewahrt werden.
+
+<sup>2</sup> Der Bundesrat regelt die Einzelheiten. Er legt die Massnahmen fest, die sicherstellen, dass die Interessen der Anlegerinnen und Anleger gewahrt werden.
+
+#### Art. 118c
+
+**Rechtsform**
+
+Der L-QIF kann die Rechtsform des vertraglichen Anlagefonds, der SICAV oder der KmGK haben.
+
+#### Art. 118d
+
+**Auf L-QIF nicht anwendbare Anlagevorschriften und Bestimmungen zur Aufsicht**
+
+Auf L-QIF nicht anwendbar sind:
+
+- a. die Anlagevorschriften nach den Artikeln 53–71 und 103;
+- b. die Bestimmungen, die der FINMA eine Kompetenz zur Entscheidung im Einzelfall oder eine Aufsichtskompetenz zusprechen (Art. 7 Abs. 4 zweiter Satz, 10 Abs. 5, 26 Abs. 1, 27, 39 Abs. 2, 44*a* Abs. 2, 47 Abs. 2, 74, 78 Abs. 4, 81 Abs. 2, 83 Abs. 3, 89 Abs. 4, 91, 95 Abs. 2, 96 Abs. 1 Bst. c, Abs. 2 Bst. c und Abs. 4, 109 Bst. c, 126, 132–134, 136–139 und 144).
+
+#### Art. 118e
+
+**Information der Anlegerinnen und Anleger und Bezeichnung**
+
+<sup>1</sup>
+
+Auf der ersten Seite in den Fondsdokumenten eines L-QIF sowie in der Werbung für einen L-QIF ist:
+
+- a. die Bezeichnung «Limited Qualified Investor Fund» oder «L-QIF» zu verwenden;
+- b. der Hinweis anzubringen, dass der L-QIF weder über eine Bewilligung noch über eine Genehmigung der FINMA verfügt und auch nicht von ihr beaufsichtigt wird.
+
+<sup>2</sup> Die Firma eines L-QIF in der Rechtsform der SICAV oder KmGK muss die Bezeichnung «Limited Qualified Investor Fund» oder deren Abkürzung «L-QIF» sowie die Bezeichnung der entsprechenden Rechtsform enthalten.
+
+<sup>3</sup> Ein L-QIF darf nicht als «Effektenfonds», «Immobilienfonds», «übriger Fonds für traditionelle Anlagen» oder «übriger Fonds für alternative Anlagen» bezeichnet werden.
+
+#### Art. 118f
+
+**Meldepflicht und Erhebung von Daten**
+
+<sup>1</sup> Das nach Artikel 118*g* Absatz 1 oder 118*h* Absatz 1, 2 oder 4 für die Verwaltung zuständige Institut meldet dem Eidgenössischen Finanzdepartement (EFD) die Übernahme oder Aufgabe der Verwaltung eines L-QIF innert 14 Tagen. Der Bundesrat kann festlegen, welche Angaben diese Meldungen enthalten müssen.
+
+<sup>2</sup> Das EFD führt ein öffentlich zugängliches Verzeichnis über sämtliche L-QIF und die jeweils für die Verwaltung nach Artikel 118*g* Absatz 1 oder 118*h* Absatz 1, 2 oder 4 zuständigen Institute.
+
+<sup>3</sup> Es kann beim L-QIF und den nach Artikel 118*g* Absatz 1 oder 118*h* Absatz 1, 2 oder 4 für die Verwaltung zuständigen Instituten zu statistischen Zwecken Daten über die Geschäftstätigkeit des L-QIF erheben.
+
+<sup>4</sup> Es kann diese Daten durch Dritte erheben lassen oder die in Absatz 3 genannten Personen verpflichten, ihm diese zu melden.
+
+<sup>5</sup> Artikel 144 Absätze 2 und 3 gilt sinngemäss.
+
+#### Art. 118g
+
+**Verwaltung von L-QIF in der Rechtsform eines vertraglichen Anlagefonds**
+
+<sup>1</sup> Ein L-QIF in der Rechtsform des vertraglichen Anlagefonds wird von einer Fondsleitung verwaltet.
+
+<sup>2</sup>
+
+Die Fondsleitung darf die Anlageentscheide unter den Voraussetzungen nach den Artikeln 14 Absatz 1 und 35 FINIG[^118g-1] übertragen:
+
+- a. einem Verwalter von Kollektivvermögen nach Artikel 2 Absatz 1 Buchstabe c FINIG;
+- b.
+
+  einem ausländischen Verwalter von Kollektivvermögen, wenn:
+
+  - 1\. dieser in seinem Sitzstaat einer angemessenen Regulierung und Aufsicht untersteht, und
+  - 2\. zwischen der FINMA und der jeweils zuständigen ausländischen Aufsichtsbehörde eine Vereinbarung über die Zusammenarbeit und den Informationsaustausch besteht, sofern das ausländische Recht eine solche verlangt.
+
+<sup>3</sup> Der Verwalter von Kollektivvermögen darf die Anlageentscheide unter den Voraussetzungen nach den Artikeln 14 Absatz 1 und 27 Absatz 1 FINIG auf Personen nach Absatz 2 dieser Bestimmung übertragen.
+
+<sup>4</sup> Im Fondsvertrag ist anzugeben, wem die Anlageentscheide übertragen werden.
+
+[^118g-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 118h
+
+**Verwaltung von L-QIF in der Rechtsform der SICAV und KmGK**
+
+<sup>1</sup> Ein L-QIF in der Rechtsform der SICAV muss die Administration und die Anlageentscheide ein und derselben Fondsleitung übertragen.
+
+<sup>2</sup> Ein L-QIF in der Rechtsform der KmGK muss die Geschäftsführung an einen Verwalter von Kollektivvermögen übertragen.
+
+<sup>3</sup> Die Weiterübertragung der Anlageentscheide richtet sich nach Artikel 118*g* Absätze 2 und 3.
+
+<sup>4</sup> Ein L-QIF in der Rechtsform der KmGK muss die Geschäftsführung nicht übertragen, wenn die Komplementäre Banken, Versicherungsunternehmen im Sinne des VAG[^118h-1], Wertpapierhäuser, Fondsleitungen oder Verwalter von Kollektivvermögen sind.
+
+<sup>5</sup> In den Statuten oder im Gesellschaftsvertrag ist anzugeben, wem die Geschäftsführung oder die Administration übertragen wird.
+
+[^118h-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+
+#### Art. 118i
+
+**Prüfung, Buchführung, Bewertung und Rechenschaftsablage**
+
+<sup>1</sup> Für den L-QIF ist eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^118i-1] zugelassene Prüfgesellschaft mit einer Prüfung zu beauftragen.
+
+<sup>2</sup> Die Jahresrechnung und gegebenenfalls die Konzernrechnung des L-QIF und jeder zu diesem gehörenden Immobiliengesellschaft müssen von einem staatlich beaufsichtigten Revisionsunternehmen nach den Grundsätzen der ordentlichen Revision des Obligationenrechts[^118i-2] geprüft werden.
+
+<sup>3</sup> Für die Prüfung ist dieselbe Prüfgesellschaft zu beauftragen wie für das nach Artikel 118*g* Absatz 1 oder 118*h* Absatz 1, 2 oder 4 für die Verwaltung zuständige Institut.
+
+<sup>4</sup> Für die Geheimhaltung durch die Prüfgesellschaft gilt Artikel 730*b* Absatz 2 des Obligationenrechts sinngemäss.
+
+<sup>5</sup> Der L-QIF trägt die Kosten der Prüfung.
+
+<sup>6</sup> Der Bundesrat regelt die Einzelheiten der Prüfung. Er kann zusätzliche Vorschriften über die Buchführung, die Bewertung, die Rechenschaftsablage und die Publikationspflicht erlassen.
+
+[^118i-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^118i-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+### 2. Kapitel: Stellung der Anlegerinnen und Anleger bei L-QIF, die offene kollektive Kapitalanlagen sind
+
+#### Art. 118j
+
+**Erstellung und Änderung des Fondsvertrags**
+
+<sup>1</sup> Bei einem L-QIF in der Rechtsform des vertraglichen Anlagefonds erstellt die Fondsleitung den Fondsvertrag und holt die Zustimmung der Depotbank ein.
+
+<sup>2</sup>
+
+Beabsichtigt die Fondsleitung Änderungen am Fondsvertrag, so holt sie im Voraus die Zustimmung der Depotbank ein und veröffentlicht in den Publikationsorganen des L-QIF:
+
+- a. eine Zusammenfassung der wesentlichen Änderungen;
+- b. einen Hinweis auf die Stellen, wo die Vertragsänderungen im Wortlaut kostenlos bezogen werden können; und
+- c. einen Hinweis darauf, wann die Änderungen in Kraft treten.
+
+<sup>3</sup> Auf eine Publikation nach Absatz 2 kann verzichtet werden, wenn sämtliche Anlegerinnen und Anleger schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, über den Wortlaut der Änderungen und den Zeitpunkt des Inkrafttretens der Änderung informiert werden.
+
+<sup>4</sup>
+
+Die Änderungen des Fondsvertrags treten frühestens in Kraft:
+
+- a. im Fall eines vertraglichen Anlagefonds mit jederzeitiger Rückgabemöglichkeit: 30 Tage nach der Publikation nach Absatz 2 oder der Information nach Absatz 3;
+- b. im Fall eines vertraglichen Anlagefonds ohne jederzeitige Rückgabemöglichkeit: am Tag nach dem Tag, an dem die Anteile unter Beachtung der vertraglichen oder reglementarischen Rückgabefristen und Termine zurückgegeben werden können, wenn der Fondsvertrag am 30. Tag nach der Publikation nach Absatz 2 oder der Information nach Absatz 3 gekündigt würde.
+
+<sup>5</sup> Dauert die vertragliche oder reglementarische Kündigungsfrist länger als 30 Tage, so können die Änderungen früher als nach Absatz 4 in Kraft treten, wenn sämtliche Anlegerinnen und Anleger schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zustimmen, frühestens aber 30 Tage nach der Publikation nach Absatz 2 oder der Information nach Absatz 3.
+
+#### Art. 118k
+
+**Wechsel der Depotbank**
+
+<sup>1</sup> Artikel 39*a* FINIG[^118k-1] findet auf den Wechsel der Depotbank bei einem L-QIF in der Rechtsform des vertraglichen Anlagefonds sinngemäss Anwendung.
+
+<sup>2</sup> Der Wechsel der Depotbank eines L-QIF in der Rechtsform der SICAV bedarf eines Vertrags in schriftlicher oder in einer anderen Form, die den Nachweis durch Text ermöglicht. Der Wechsel ist unverzüglich in den Publikationsorganen der SICAV zu veröffentlichen.
+
+[^118k-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 118l
+
+**Ausnahmen von der Pflicht zur Ein- und Auszahlung in bar**
+
+Bei einem L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV sind Ausnahmen von der Pflicht zur Ein- und Auszahlung in bar nach Artikel 78 gestattet, wenn sie in folgenden Dokumenten vorgesehen sind:
+
+- a. im Fall eines L-QIF in der Rechtsform des vertraglichen Anlagefonds: im Fondsvertrag;
+- b. im Fall eines L-QIF in der Rechtsform der SICAV: im Anlagereglement.
+
+#### Art. 118m
+
+**Aufschub der Rückzahlung in ausserordentlichen Fällen**
+
+Bei einem L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV kann die Fondsleitung in ausserordentlichen Fällen im Interesse der Gesamtheit der Anlegerinnen und Anleger einen befristeten Aufschub der Rückzahlung der Anteile anordnen.
+
+### 3. Kapitel: Anlagevorschriften
+
+#### Art. 118n
+
+**Anlagen und Anlagetechniken**
+
+<sup>1</sup>
+
+Die für den L-QIF zulässigen Anlagen sind in den folgenden Dokumenten zu regeln:
+
+- a. im Fall eines L-QIF in der Rechtsform des vertraglichen Anlagefonds: im Fondsvertrag;
+- b. im Fall eines L-QIF in der Rechtsform der SICAV: im Anlagereglement;
+- c. im Fall eines L-QIF in der Form der KmGK: im Gesellschaftsvertrag.
+
+<sup>2</sup> Investiert der L-QIF in alternative Anlagen, so ist auf die besonderen Risiken, die mit diesen Anlagen verbunden sind, in der Bezeichnung, in den Dokumenten nach Absatz 1 sowie in der Werbung hinzuweisen.
+
+<sup>3</sup> Der Bundesrat regelt Anlagetechniken und Anlagebeschränkungen.
+
+#### Art. 118o
+
+**Risikoverteilung**
+
+Die Risikoverteilung eines L-QIF ist in den Dokumenten nach Artikel 118*n* Absatz 1 zu umschreiben.
+
+#### Art. 118p
+
+**Sondervorschriften bei Immobilienanlagen**
+
+<sup>1</sup> Investiert ein L-QIF in Immobilienanlagen, so gilt Artikel 63 Absätze 1–3 sinngemäss.
+
+<sup>2</sup> Für den L-QIF sind mindestens zwei unabhängige natürliche Personen oder eine unabhängige juristische Person als Schätzungsexpertinnen oder Schätzungsexperten für Immobilienanlagen zu beauftragen.
+
+<sup>3</sup> Der Bundesrat regelt die Ausnahmen von Absatz 1 und die Anforderungen an die Schätzungsexpertinnen und Schätzungsexperten nach Absatz 2. Er regelt namentlich die Ausnahmen vom Übernahme- und Abtretungsverbot nach Artikel 63 Absätze 2 und 3.
+
 ## 4. Titel: Ausländische kollektive Kapitalanlagen
 
 ### 1. Kapitel: Begriff und Genehmigung
@@ -1469,7 +1757,7 @@ Als ausländische offene kollektive Kapitalanlagen gelten:
 
 Die Genehmigung wird erteilt, wenn:
 
-- a.[^120-2] die kollektive Kapitalanlage, die Fondsleitung oder die Gesellschaft, der Vermögensverwalter der kollektiven Kapitalanlage und die Verwahrstelle einer dem Anlegerschutz dienenden öffentlichen Aufsicht unterstehen;
+- a.[^120-2] die kollektive Kapitalanlage, die Fondsleitung oder die Gesellschaft, der Verwalter von Kollektivvermögen und die Verwahrstelle einer dem Anlegerschutz dienenden öffentlichen Aufsicht unterstehen;
 - b.[^120-3] die Fondsleitung oder die Gesellschaft sowie die Verwahrstelle hinsichtlich Organisation, Anlegerrechte und Anlagepolitik einer Regelung unterstehen, die den Bestimmungen dieses Gesetzes gleichwertig ist;
 - c. die Bezeichnung der kollektiven Kapitalanlage nicht zu Täuschung oder Verwechslung Anlass gibt;
 - d.[^120-4] für die in der Schweiz angebotenen Anteile ein Vertreter und eine Zahlstelle bezeichnet sind;
@@ -1489,7 +1777,7 @@ Die Genehmigung wird erteilt, wenn:
 [^120-4]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-5]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-6]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^120-7]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^120-7]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^120-8]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-9]: Eingefügt durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1501,7 +1789,7 @@ Die Genehmigung wird erteilt, wenn:
 
 <sup>2</sup> Die Anlegerinnen und Anleger können die Ausgabe und Rücknahme der Anteile bei der Zahlstelle verlangen.
 
-[^121-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^121-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 122
 
@@ -1519,7 +1807,7 @@ Der Bundesrat ist befugt, auf der Grundlage gegenseitiger Anerkennung gleichwert
 
 <sup>2</sup> Die Fondsleitung und die Gesellschaft verpflichten sich, dem Vertreter alle Informationen zur Verfügung zu stellen, die er zur Wahrnehmung seiner Aufgaben braucht.
 
-[^123-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^123-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^123-2]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 124
@@ -1553,7 +1841,7 @@ Der Gerichtsstand liegt:
 
 [^tit5-1]
 
-[^tit5-1]: Ausdruck gemäss Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)). Die Anpassung wurde im ganzen Text vorgenommen.
+[^tit5-1]: Ausdruck gemäss Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)). Die Änd. wurde im ganzen Text vorgenommen.
 
 ### 1. Kapitel: Prüfung
 
@@ -1567,7 +1855,7 @@ Folgende Personen müssen eine von der Eidgenössischen Revisionsaufsichtsbehör
 
 - a.[^126-4] die Fondsleitung für die von ihr verwalteten Anlagefonds;
 - b. die SICAV;
-- c. die Kommanditgesellschaft für kollektive Kapitalanlagen;
+- c. die KmGK;
 - d. die SICAF;
 - e.[^126-5] …
 - f. der Vertreter ausländischer kollektiver Kapitalanlagen.
@@ -1582,15 +1870,15 @@ Folgende Personen müssen eine von der Eidgenössischen Revisionsaufsichtsbehör
 
 <sup>6</sup> Der Bundesrat regelt die Einzelheiten. Er kann die FINMA ermächtigen, in Belangen von beschränkter Tragweite, namentlich in vorwiegend technischen Angelegenheiten, Ausführungsbestimmungen zu erlassen.[^126-11]
 
-[^126-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^126-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^126-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^126-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^126-3]: Fassung gemäss Anhang Ziff. 4 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^126-4]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-5]: Aufgehoben durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-6]: Aufgehoben durch Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^126-7]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-8]: Aufgehoben durch Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^126-9]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126-9]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^126-10]: Eingefügt durch Anhang Ziff. 4 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^126-11]: Eingefügt durch Anhang Ziff. 4 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
@@ -1626,7 +1914,10 @@ Folgende Personen müssen eine von der Eidgenössischen Revisionsaufsichtsbehör
 
 <sup>2</sup> Sie überprüft die geschäftspolitische Zweckmässigkeit der Entscheide der Bewilligungsträger nicht.
 
+<sup>3</sup> L-QIF unterstehen nicht der Aufsicht der FINMA.[^132-2]
+
 [^132-1]: Fassung gemäss Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^132-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 133
 
@@ -1641,7 +1932,7 @@ Folgende Personen müssen eine von der Eidgenössischen Revisionsaufsichtsbehör
 <sup>4</sup> Wird eine vollstreckbare Verfügung der FINMA nach vorgängiger Mahnung innert der angesetzten Frist nicht befolgt, so kann die FINMA auf Kosten der säumigen Partei die angeordnete Handlung selber vornehmen.
 
 [^133-1]: Fassung gemäss Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^133-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^133-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^133-3]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 134
@@ -1680,8 +1971,8 @@ Bewilligungsträger, denen die Bewilligung entzogen wurde, oder kollektive Kapit
 
 [^137-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^137-2]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^137-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^137-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^137-3]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^137-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^137-5]: Fassung gemäss Anhang Ziff. 11 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^137-6]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -1696,7 +1987,7 @@ Bewilligungsträger, denen die Bewilligung entzogen wurde, oder kollektive Kapit
 <sup>3</sup> Die FINMA kann abweichende Verfügungen und Anordnungen treffen.
 
 [^138-1]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 138a
 
@@ -1726,7 +2017,7 @@ Die Konkursliquidatorin oder der Konkursliquidator kann der FINMA beantragen:
 <sup>3</sup> Die FINMA trifft die nötigen Anordnungen zur Schliessung des Verfahrens. Sie macht die Schliessung öffentlich bekannt.
 
 [^138b-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138b-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^138b-3]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^138b-4]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1737,7 +2028,7 @@ Die Konkursliquidatorin oder der Konkursliquidator kann der FINMA beantragen:
 Für die Anerkennung ausländischer Konkursdekrete und Insolvenzmassnahmen sowie für die Koordination mit ausländischen Insolvenzverfahren gelten die Artikel 37*f* und 37*g* des BankG[^138c-2] sinngemäss.
 
 [^138c-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138c-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^138c-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 138d
 
@@ -1750,7 +2041,7 @@ Für die Anerkennung ausländischer Konkursdekrete und Insolvenzmassnahmen sowie
 <sup>3</sup> Beschwerden im Konkursverfahren haben keine aufschiebende Wirkung. Die Instruktionsrichterin oder der Instruktionsrichter kann die aufschiebende Wirkung auf Gesuch hin erteilen.
 
 [^138d-1]: Eingefügt durch Anhang Ziff. 9 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^138d-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138d-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 139
 
@@ -1799,7 +2090,7 @@ Für die Anerkennung ausländischer Konkursdekrete und Insolvenzmassnahmen sowie
 
 [^144-1]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^144-2]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^144-3]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^144-3]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 
 ## 6. Titel: Verantwortlichkeit und Strafbestimmungen
 
@@ -1815,7 +2106,7 @@ Wer Pflichten verletzt, haftet der Gesellschaft, den einzelnen Anlegerinnen und 
 
 - a. der Fondsleitung,
 - b. der SICAV,
-- c. der Kommanditgesellschaft für kollektive Kapitalanlagen,
+- c. der KmGK,
 - d. der SICAF,
 - e. der Depotbank,
 - f.[^145-2] der Verwalter von Kollektivvermögen;
@@ -1829,15 +2120,15 @@ Wer Pflichten verletzt, haftet der Gesellschaft, den einzelnen Anlegerinnen und 
 
 <sup>4</sup> Die Verantwortlichkeit der Organe der Fondsleitung, der SICAV und SICAF richtet sich nach den Bestimmungen des Obligationenrechts[^145-7] über die Aktiengesellschaft.
 
-<sup>5</sup> Die Verantwortlichkeit der Kommanditgesellschaft für kollektive Kapitalanlagen richtet sich nach den Bestimmungen des Obligationenrechts über die Kommanditgesellschaft.
+<sup>5</sup> Die Verantwortlichkeit der KmGK richtet sich nach den Bestimmungen des Obligationenrechts über die Kommanditgesellschaft.
 
 [^145-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-2]: Fassung gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-3]: Fassung gemäss Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^145-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^145-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^145-5]: Fassung des dritten Satzes gemäss Anhang Ziff. II 13 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-6]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^145-7]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^145-7]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 146
 
@@ -1926,20 +2217,24 @@ Mit Busse bis zu 500 000 Franken wird bestraft, wer vorsätzlich:
 - c.[^149-1] …
 - d. die vorgeschriebenen Meldungen an die FINMA, die Schweizerische Nationalbank oder die Anlegerinnen und Anleger unterlässt oder darin falsche Angaben macht;
 - e.[^149-2] …
-- f.[^149-3] das Aktienbuch im Sinne von Artikel 46 Absatz 3 nicht korrekt führt.
+- f.[^149-3] das Aktienbuch im Sinne von Artikel 46 Absatz 3 nicht korrekt führt;
+- g.[^149-4] gegen die Bestimmung über die Information der Anlegerinnen und Anleger und die Bezeichnung von L-QIF verstösst (Art. 118*e*);
+- h.[^149-5] gegen die Meldepflicht nach Artikel 118*f* Absatz 1 verstösst.
 
-<sup>2</sup> …[^149-4]
+<sup>2</sup> …[^149-6]
 
-<sup>3</sup> …[^149-5]
+<sup>3</sup> …[^149-7]
 
-<sup>4</sup> …[^149-6]
+<sup>4</sup> …[^149-8]
 
 [^149-1]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^149-2]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^149-3]: Eingefügt durch Ziff. I 6 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^149-4]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^149-5]: Aufgehoben durch Anhang Ziff. 9 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^149-6]: Aufgehoben durch Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^149-4]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^149-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^149-6]: Aufgehoben durch Anhang Ziff. 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^149-7]: Aufgehoben durch Anhang Ziff. 9 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^149-8]: Aufgehoben durch Anhang Ziff. 14 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 150
 

@@ -4,11 +4,11 @@ title: "Federal Act of 23 June 2006 on Collective Investment Schemes (Collective
 short: CISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: en
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2006-822-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2006-822-20240301-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Collective Investment Schemes Act, CISA)
 
-of 23 June 2006 (Status as of 1 January 2023)
+of 23 June 2006 (Status as of 1 March 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -57,11 +57,11 @@ This Act governs the following, irrespective of their legal status:
 
 The following are not governed by this Act:
 
-- a. institutions and ancillary institutions in the occupational pensions sector, in- cluding investment foundations;
+- a. institutions and ancillary institutions in the occupational pensions sector, including investment foundations;
 - b. social security institutions and compensation funds;
 - c. public authorities and institutions;
 - d. operating companies which are engaged in business activities;
-- e. companies which by way of a majority of the votes or by any another way bring together one or more companies to form a group under single man- agement (holding companies);
+- e. companies which by way of a majority of the votes or by any another way bring together one or more companies to form a group under single management (holding companies);
 - f. investment clubs whose members are in a position to manage their financial interests themselves;
 - g. associations and foundations as defined in the Swiss Civil Code[^2-5];
 - h.[^2-6] ...
@@ -81,7 +81,7 @@ Investment companies in the form of a Swiss company limited by shares are not go
 [^2-2]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-3]: Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-4]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^2-5]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^2-5]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^2-6]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-7]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-8]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -107,15 +107,16 @@ Investment companies in the form of a Swiss company limited by shares are not go
 
 <sup>3</sup> The Federal Council may stipulate a minimum number of investors in accordance with the legal status and target group. It may authorise collective investment schemes for a single qualified investor (single investor fund) in accordance with Article 10 paragraph 3 in conjunction with Article 4 paragraph 3 letters b, e and f of the Financial Services Act of 15 June 2018[^7-1] (FinSA).[^7-2] [^7-3]
 
-<sup>4</sup> In the case of single investor funds, the fund management company and the in- vestment company with variable capital (SICAV) may delegate the investment decisions to the single investor. FINMA may exempt them from the duty to subject themselves to supervision recognised under Article 31 paragraph 3 and Article 36 paragraph 3, respectively.[^7-4]
+<sup>4</sup> In the case of single investor funds, the fund management company and the investment company with variable capital (SICAV) may transfer the investment decisions to the single investor. The Swiss Financial Market Supervisory Authority (FINMA) may exempt them from the duty to obtain authorisation in accordance with Article 14 paragraph 1 of the Financial Institutions Act of 15 June 2018[^7-4] (FinIA) or from the duty to subject themselves to supervision recognised under Article 36 paragraph 3 of this Act.[^7-5]
 
-<sup>5</sup> Collective investment schemes must have their registered office and head office in Switzerland.[^7-5]
+<sup>5</sup> Collective investment schemes must have their registered office and head office in Switzerland.[^7-6]
 
-[^7-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^7-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^7-2]: Second sentence amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-3]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495))
-[^7-4]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495))
-[^7-5]: Inserted by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^7-5]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^7-6]: Inserted by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 8
 
@@ -131,13 +132,16 @@ Investment companies in the form of a Swiss company limited by shares are not go
 
 **Closed-ended collective investment schemes**
 
-<sup>1</sup> Closed-ended collective investment schemes may be in the form of a limited partnership for collective capital investments (Art. 98 et seq.) or an investment company with fixed capital (SICAF, Art. 110 et seq.).
+<sup>1</sup> Closed-ended collective investment schemes may be in the form of a limited partnership for collective investment (LPCI, Art. 98–109) or an investment company with fixed capital (SICAF, Art. 110–118)[^9-1].
 
 <sup>2</sup> In the case of closed-ended collective investment schemes, investors have neither a direct nor an indirect legal entitlement at the expense of the collective assets to the redemption of their units at the net asset value.
 
-<sup>3</sup> Limited partnerships for collective investment are based on a company agreement.
+<sup>3</sup> LPCIs[^9-2] are based on a company agreement.
 
 <sup>4</sup> SICAFs are based on articles of association and issue a set of investment regulations.
+
+[^9-1]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^9-2]: New expr. by No I para. 1 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)). This change has been made in the AS provisions specified.
 
 #### Art. 10
 
@@ -151,30 +155,43 @@ Investment companies in the form of a Swiss company limited by shares are not go
 
 <sup>3bis</sup> ...[^10-3]
 
-<sup>3ter</sup> Qualified investors also include retail clients for whom a financial intermediary in accordance with Article 4 paragraph 3 letter a FinSA or a foreign financial intermediary that is subject to equivalent prudential supervision provides portfolio management or investment advice in accordance with Article 3 letter c items 3 and 4 FinSA within the scope of a permanent portfolio management or investment advice relationship, provided they have not declared that they do not wish to be treated as such. Such declaration must be made in writing or in another form demonstrable via text.[^10-4]
+<sup>3ter</sup>
 
-<sup>4</sup> ...[^10-5]
+Qualified investors also include retail clients:
+
+- a.
+
+  for whom one of the following persons provides portfolio management or investment advice in accordance with Article 3 letter c numbers 3 and 4 FinSA within the scope of a permanent portfolio management or investment advice relationship:
+
+  - 1\. a financial intermediary in accordance with Article 4 paragraph 3 letter a FinSA,
+  - 2\. a foreign financial intermediary that is subject to prudential supervision in the same way as the financial intermediary under number 1,
+  - 3\. an insurance company pursuant to the Insurance Oversight Act of 17 December 2004[^10-4] (IOA); and
+
+- b. who have not declared in writing or in another form verifiable by text that they do not wish to be considered as such.[^10-5]
+
+<sup>4</sup> ...[^10-6]
 
 <sup>5</sup>
 
-The FINMA may fully or partially exempt collective investment schemes from certain provisions of the financial market acts within the meaning of Article 1 paragraph 1 of the Financial Market Supervision Act of 22 June 2007[^10-6] (FINMASA), provided that they are exclusively open towards qualified investors and that the protective purpose of this Act is not impaired, specifically from the provisions concerning:[^10-7]
+The FINMA may fully or partially exempt collective investment schemes from certain provisions of the financial market acts within the meaning of Article 1 paragraph 1 of the Financial Market Supervision Act of 22 June 2007[^10-7] (FINMASA), provided that they are exclusively open towards qualified investors and that the protective purpose of this Act is not impaired, specifically from the provisions concerning:[^10-8]
 
-- a.[^10-8] ...
-- b.[^10-9] ...
+- a.[^10-9] ...
+- b.[^10-10] ...
 - c. the requirement to produce a semi-annual report;
 - d. the requirement to provide investors with the right to terminate their invest- ment at any time;
 - e. the requirement to issue and redeem units in cash;
 - f. risk diversification.
 
-[^10-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^10-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^10-2]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^10-3]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-4]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-5]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^10-7]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-8]: Repealed by No I of the FA of 28 Sept. 2012, with effect from 1 June 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^10-9]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-4]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^10-5]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^10-6]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-7]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^10-8]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-9]: Repealed by No I of the FA of 28 Sept. 2012, with effect from 1 June 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^10-10]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 11
 
@@ -186,11 +203,11 @@ Units are claims against the fund management company conferring entitlement to t
 
 **Protection against confusion or deception**
 
-<sup>1</sup> The designation «collective investment scheme» must not provide any grounds for confusion or deception, in particular in relation to the investments.
+<sup>1</sup> The designation ‘collective investment scheme’ must not provide any grounds for confusion or deception, in particular in relation to the investments.
 
-<sup>2</sup> Designations such as «investment fund», «investment company with variable capital», «SICAV», «limited partnership for collective investment», «investment company with fixed capital» and «SICAF» may only be used for the relevant collective investment schemes governed by this Act.[^12-1]
+<sup>2</sup> Designations such as ‘investment fund’, ‘investment company with variable capital’, ‘SICAV’, ‘limited partnership for collective investment’ or ‘LPCI’, ‘investment company with fixed capital’», ‘SICAF’, ‘Limited Qualified Investor Fund’ or ‘L-QIF’ may only be used for the relevant collective investment schemes governed by this Act.[^12-1]
 
-[^12-1]: Amended by No III of the FA of 25 Sept. 2015 (Law on Business Names), in force since 1 July 2016 ([AS 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [BBl 2014 9305](https://fedlex.data.admin.ch/eli/fga/2014/2039)).
+[^12-1]: Amended by No I of the FA of 17 Dec 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### Chapter 3 Authorisation and Approval
 
@@ -208,25 +225,28 @@ The following must apply for authorisation:
 
 - a.[^13-2] ...
 - b. SICAVs;
-- c. limited partnerships for collective investment;
+- c. LPCIs;
 - d. SICAFs;
 - e.[^13-3] the custodian bank;
-- [tab] f. and g.[^13-4] ...
+- f. and g.[^13-4] ...
 - h. representatives of foreign collective investment schemes.
 
-<sup>3</sup> Representatives who are already subject to other equivalent official supervision may be granted exemption from the duty to obtain authorisation by the Federal Council.[^13-5]
+<sup>2bis</sup> No authorisation is required for a Limited Qualified Investor Fund (L-QIF) in the legal form of a SICAV or LPCI.[^13-5]
 
-<sup>4</sup> ...[^13-6]
+<sup>3</sup> Representatives who are already subject to other equivalent official supervision may be granted exemption from the duty to obtain authorisation by the Federal Council.[^13-6]
 
-<sup>5</sup> The persons cited in paragraph 2 letters b–d may only be entered in the Commercial Register once authorisation has been granted by FINMA.[^13-7]
+<sup>4</sup> ...[^13-7]
+
+<sup>5</sup> The persons cited in paragraph 2 letters b–d may only be entered in the Commercial Register once authorisation has been granted by FINMA.[^13-8]
 
 [^13-1]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-2]: Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-3]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-4]: Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-5]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-6]: Repealed by No I of the FA of 28 Sept. 2012, with effect from 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^13-7]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-5]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^13-6]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-7]: Repealed by No I of the FA of 28 Sept. 2012, with effect from 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^13-8]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 14
 
@@ -259,7 +279,7 @@ The following are deemed to be significant equity holders, provided they directl
 
 [^14-1]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-2]: Inserted by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^14-4]: Inserted by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^14-5]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); BBL **2012** 3639). Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-6]: Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -275,13 +295,16 @@ The following documents are required for obtaining the approval of FINMA:
 
 - a. for investment fund, the collective investment contract (Art. 25);
 - b. for SICAVs, the articles of association and investment regulations;
-- c. for limited partnerships for collective investment, the company agreement;
+- c. for LPCIs, the company agreement;
 - d. SICAFs, the articles of association and investment regulations;
 - e.[^15-1] the relevant documents of foreign collective investment schemes which are offered to non-qualified investors.
 
-<sup>2</sup> If an investment fund or SICAV is structured as an open-ended collective invest- ment scheme with subfunds (Art. 92 et seq.), each subfund or category of shares requires individual approval.
+<sup>2</sup> If an investment fund or SICAV is structured as an open-ended collective investment scheme with subfunds (Art. 92 et seq.), each subfund or category of shares requires individual approval.
+
+<sup>3</sup> The documents of an L-QIF and their amendment require neither an approval pursuant to paragraph 1 nor an approval pursuant to paragraph 2.[^15-2]
 
 [^15-1]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-2]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 16
 
@@ -313,9 +336,9 @@ The Federal Council may specify a simplified authorisation and approval procedur
 
 ### Chapter 4 Protection of Investors' Interests
 
-[^tit1-chap3-chap4-1]
+[^tit1-chap4-1]
 
-[^tit1-chap3-chap4-1]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit1-chap4-1]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 20
 
@@ -326,17 +349,18 @@ The Federal Council may specify a simplified authorisation and approval procedur
 Persons who manage or represent collective investment schemes or hold the assets of these schemes in safekeeping, as well as their agents must fulfil the following duties in particular:[^20-1]
 
 - a. duty of loyalty: they act independently and exclusively in the interests of the investors;
-- b. due diligence: they implement the organisational measures that are necessary for irreproachable business conduct;
-- c.[^20-2] duty to provide information: They shall render account of the collective investment schemes which they manage and represent and the assets of these schemes which they hold in safekeeping, and provide information on all of the fees and costs incurred directly or indirectly by investors as well as compensation from third parties, particularly commissions, discounts or other financial benefits.
+- b.[^20-2] due diligence: they implement the organisational measures that are necessary for irreproachable business conduct;
+- c.[^20-3] duty to provide information: They shall render account of the collective investment schemes which they manage and represent and the assets of these schemes which they hold in safekeeping, and provide information on all of the fees and costs incurred directly or indirectly by investors as well as compensation from third parties, particularly commissions, discounts or other financial benefits.
 
-<sup>2</sup> ...[^20-3]
+<sup>2</sup> ...[^20-4]
 
-<sup>3</sup> Persons who manage or represent collective investment schemes or hold their assets in safekeeping, as well as their agents, shall take all necessary precautions to ensure that all duties in relation to all their business activities are performed properly.[^20-4]
+<sup>3</sup> Persons who manage or represent collective investment schemes or hold their assets in safekeeping, as well as their agents, shall take all necessary precautions to ensure that all duties in relation to all their business activities are performed properly.[^20-5]
 
 [^20-1]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-2]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-3]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-4]: Inserted by No I of the FA of 28 Sept. 2012 (RU **2013** 585; [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-2]: Amended by No of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^20-3]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-4]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-5]: Inserted by No I of the FA of 28 Sept. 2012 (RU **2013** 585; [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 21
 
@@ -349,7 +373,7 @@ Persons who manage or represent collective investment schemes or hold the assets
 <sup>3</sup> Assets acquired for their own account may only be purchased at market price, while any sale of own-account assets must also be at market price.
 
 [^21-1]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^21-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^21-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^21-3]: Second sentence amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 22
@@ -370,7 +394,7 @@ Persons who manage or represent collective investment schemes or hold the assets
 
 <sup>4</sup> Paragraph 3 also applies to each subfund of an open-ended collective investment scheme as defined in Article 92 et seq.
 
-[^23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24
 
@@ -388,14 +412,14 @@ Persons who manage or represent collective investment schemes or hold the assets
 
 <sup>1</sup>
 
-The contractual fund (investment fund) is based on a collective investment agree- ment (fund contract) under which the fund management company commits itself to:
+The contractual fund (investment fund) is based on a collective investment agree-ment (fund contract) under which the fund management company commits itself to:
 
 - a. involving investors in accordance with the number and type of units which they have acquired in the investment fund;
 - b. managing the fund's assets in accordance with the provisions of the fund contract at its own discretion and for its own account.
 
 <sup>2</sup> The custodian bank is a party to the contract in accordance with the tasks conferred on it by the law and by the fund contract.
 
-<sup>3</sup> The investment fund must have the stipulated minimum assets. The Federal Coun- cil determines the level thereof, and the period in which it must be accumulated.
+<sup>3</sup> The investment fund must have the stipulated minimum assets. The Federal Coun-cil determines the level thereof, and the period in which it must be accumulated.
 
 ### Section 2 The Fund Contract
 
@@ -405,7 +429,7 @@ The contractual fund (investment fund) is based on a collective investment agree
 
 <sup>1</sup> The fund management company draws up the fund contract and, with the consent of the custodian bank, submits it to FINMA for approval.
 
-<sup>2</sup> The fund contract sets out the rights and duties of the investors, the fund manage- ment company and the custodian bank.
+<sup>2</sup> The fund contract sets out the rights and duties of the investors, the fund manage-ment company and the custodian bank.
 
 <sup>3</sup> The Federal Council determines the minimum contents.[^26-1]
 
@@ -423,7 +447,7 @@ The contractual fund (investment fund) is based on a collective investment agree
 
 <sup>4</sup> FINMA publishes its decision in the media of publication.
 
-[^27-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^27-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^27-2]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 (RU **2013** 585; [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 ### Section 3 ...
@@ -453,11 +477,12 @@ SICAV is a company:
 
 <sup>2</sup> A SICAV shall have a minimum level of assets. The Federal Council determines the level and the period within which it must be accumulated.
 
-<sup>3</sup> The SICAV may delegate investment decisions only to persons who hold the authorisation required for this activity. Articles 14 and 35 of the Financial Institutions Act of 15 June 2018[^36-3] (FinIA) apply *mutatis mutandis*.[^36-4]
+<sup>3</sup> The SICAV may delegate investment decisions only to persons who hold the authorisation required for this activity. Articles 14 and 35 of the FinIA[^36-3] apply *mutatis mutandis*.[^36-4] [^36-5]
 
 [^36-2]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^36-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^36-4]: Inserted by by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^36-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^36-4]: Second sentence amended the No I oft he FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^36-5]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 37
 
@@ -469,7 +494,7 @@ SICAV is a company:
 
 <sup>3</sup> ...[^37-3]
 
-[^37-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^37-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^37-2]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^37-3]: Repealed by No I of the FA of 28 Sept. 2012, with effect from 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -477,11 +502,11 @@ SICAV is a company:
 
 **Company name**
 
-<sup>1</sup> The company name must contain a description of the legal status or the abbrevia- tion thereof (SICAV).
+<sup>1</sup> The company name must contain a description of the legal status or the abbrevia-tion thereof (SICAV).
 
 <sup>2</sup> In all other respects, the provisions of the Code of Obligations[^38-1] regarding the name of companies limited by shares apply.
 
-[^38-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39
 
@@ -585,7 +610,7 @@ FINMA may grant exemptions from this duty if justified, provided:
 The provisions on public takeover offers (Arts. 125 to 141 of the Financial Market Infrastructure Act of 19 June 2015[^45-2]) do not apply to SICAVs.
 
 [^45-1]: Amended by Annex No 9 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^45-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^45-2]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 ### Section 2 Shareholders' Rights and Obligations
 
@@ -605,7 +630,7 @@ The provisions on public takeover offers (Arts. 125 to 141 of the Financial Mark
 
 <sup>4</sup> The articles of association may specify that the company shareholders and investor shareholders are both entitled to at least one seat on the board of directors in the case of self-managed as well as externally managed SICAVs.[^46-3]
 
-[^46-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^46-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^46-2]: Second sentence inserted by No I 6 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^46-3]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -618,7 +643,7 @@ The provisions on public takeover offers (Arts. 125 to 141 of the Financial Mark
 <sup>2</sup> The consequences of failure to comply with obligation to give notice are governed by Article 697*m* of the Code of Obligations.
 
 [^46a-1]: Inserted by No I 6 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^46a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 47
 
@@ -636,7 +661,7 @@ The provisions on public takeover offers (Arts. 125 to 141 of the Financial Mark
 
 Inspection rights are based on the provisions of the Code of Obligations[^48-1] regarding the shareholders’ inspection rights unless this Act provides otherwise.
 
-[^48-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 49
 
@@ -656,7 +681,7 @@ In all other respects, Articles 78 et seq. apply.
 
 <sup>3</sup> Unless otherwise provided for by the Federal Council, in all other respects, the provisions of the Code of Obligations[^50-1] regarding the general meetings of companies limited by shares apply.[^50-2]
 
-[^50-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^50-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^50-2]: Amended by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 51
@@ -675,11 +700,11 @@ In all other respects, Articles 78 et seq. apply.
 
 <sup>6</sup> Unless otherwise provided for by the Federal Council, in all other respects, the provisions of the Code of Obligations[^51-5] regarding the board of directors of companies limited by shares apply.[^51-6]
 
-[^51-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^51-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^51-2]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^51-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^51-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^51-4]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^51-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^51-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^51-6]: Amended by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 52
@@ -899,9 +924,9 @@ The following investments in particular may be conducted for these funds:
 
 <sup>4</sup> ...[^71-3]
 
-<sup>5</sup> FINMA may allow the transaction-related settlement services of a directly invest- ing other fund for alternative investments to be provided by a regulated institution specializing in such transactions (prime broker). It may specify which monitoring functions must be undertaken by the fund management company and the SICAV.
+<sup>5</sup> FINMA may allow the transaction-related settlement services of another fund for alternative investments investing directly to be provided by a regulated institution specializing in such transactions (prime broker). It may specify which monitoring functions must be undertaken by the fund management company and the SICAV.
 
-[^71-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^71-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^71-2]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^71-3]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -915,10 +940,11 @@ The following investments in particular may be conducted for these funds:
 
 <sup>1</sup> The custodian bank must be a bank pursuant to the Federal Act on Banks and Savings Banks of 8 November 1934[^72-1] and have an appropriate organisational structure to act as custodian bank to collective investment schemes.[^72-2]
 
-<sup>2</sup> In addition to the persons entrusted with the management, the persons entrusted with the tasks of custodian bank activity must also comply with the requirements laid down in Article 14 paragraph 1 letter a.
+<sup>2</sup> In addition to the persons entrusted with the management, the persons entrusted with the tasks of custodian bank activity must also comply with the requirements laid down in Article 14 paragraph 1 letters a and a<sup>bis</sup>.[^72-3]
 
-[^72-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^72-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^72-2]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^72-3]: Amended by No I of the FA of 17 Dec 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 73
 
@@ -940,7 +966,7 @@ The custodian bank ensures that the fund management company or the SICAV complie
 
 <sup>4</sup> The Federal Council regulates the requirements for acting as a custodian bank and may specify parameters for the protection of the securities investments.[^73-5]
 
-[^73-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^73-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^73-2]: Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^73-3]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by Annex No 3 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^73-4]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
@@ -956,7 +982,7 @@ The custodian bank ensures that the fund management company or the SICAV complie
 
 <sup>3</sup> FINMA shall publish its decision in the media of publication.
 
-[^74-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^74-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^74-2]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^74-3]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -989,13 +1015,25 @@ On concluding a contract, or subscribing and paying in cash, investors acquire:
 
 <sup>5</sup> In the case of collective investment schemes with subfunds, the asset entitlements are based on Article 93 paragraph 2 and Article 94 paragraph 2.
 
+#### Art. 78a
+
+**Liquidity**[^78a-1]
+
+<sup>1</sup> The fund management company or the SICAV shall ensure that the liquidity of the collective investment scheme is appropriate to the investments, the investment policy, the risk diversification, the investor base and the redemption frequency.
+
+<sup>2</sup> The Federal Council may further specify this duty.
+
+[^78a-1]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
 #### Art. 79
 
 **Exceptions from the right to redeem at any time**
 
-<sup>1</sup> In accordance with the investment provisions (Art. 54 et seq., Art. 59 et seq. and Art. 69 et seq.), the Federal Council may in the case of collective investment schemes whose value is difficult to ascertain, or which have limited marketability, specify exemptions from the right to redeem at any time.
+<sup>1</sup> In accordance with the investment provisions (Art. 54–57, 59–62, 69–71, 118*n* and 118*o*), the Federal Council may in the case of collective investment schemes whose value is difficult to ascertain, or which have limited marketability, specify exemptions from the right to redeem at any time.[^79-1]
 
 <sup>2</sup> However, it may only suspend the right to redeem at any time for a maximum period of five years.
+
+[^79-1]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 80
 
@@ -1072,7 +1110,7 @@ If the open-ended collective investment scheme is unlawfully denied asset entitl
 
 Separate books of account must be kept for each open-ended collective investment scheme. Unless this Act or the implementing regulations provide otherwise, Article 662 et seq. of the Code of Obligations[^87-1] apply.
 
-[^87-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). Today, Art. 957 et seq.
+[^87-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818). Today, Art. 957 et seq.
 
 #### Art. 88
 
@@ -1103,7 +1141,7 @@ An annual report shall be published for each open-ended collective investment sc
   - 1\. amendments to the fund regulations,
   - 2\. material questions concerning interpretation of this Act and the fund regulations,
   - 3\. a change of fund management company and custodian bank,
-  - 4\.[^89-1] changes concerning the executive officers at the fund management company, SICAV or asset manager of collective investment schemes,
+  - 4\.[^89-1] changes concerning the executive officers at the fund management company, SICAV or manager of collective assets[^89-2],
   - 5\. legal disputes;
 
 - h. the performance of the open-ended collective investment scheme, possibly benchmarking it with comparable investments;
@@ -1118,6 +1156,7 @@ An annual report shall be published for each open-ended collective investment sc
 <sup>5</sup> These are made available for inspection free of charge to interested parties for ten years.
 
 [^89-1]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^89-2]: New expr. by No I para. 3 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)). This change has been made in the AS provisions specified.
 
 #### Art. 90
 
@@ -1180,7 +1219,7 @@ The following restructurings of open-ended collective investment schemes are per
 <sup>2</sup> A restructuring in accordance with paragraph 1 letters b and c may only be entered in the Commercial Register following FINMA’s approval in accordance with Article 15.
 
 [^95-1]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^95-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^95-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 96
 
@@ -1210,7 +1249,7 @@ A SICAV is dissolved:
 
   by order of FINMA:
 
-  - 1\. if it was formed for a fixed period: based on reasonable cause, by reso- lution of the company shareholders, provided such resolution is carried by at least two thirds of the company shares,
+  - 1\. if it was formed for a fixed period: based on reasonable cause, by reso-lution of the company shareholders, provided such resolution is carried by at least two thirds of the company shares,
   - 2\. if the minimum assets fall below the stipulated amount,
   - 3\. in the cases specified in Article 133 et seq.;
 
@@ -1218,7 +1257,7 @@ A SICAV is dissolved:
 
 <sup>3</sup> For the dissolution of subfunds, paragraphs 1 and 2 apply accordingly.
 
-<sup>4</sup> The fund management company and the SICAV shall notify FINMA of the disso- lution forthwith, and shall announce the dissolution in the media of publication.
+<sup>4</sup> The fund management company and the SICAV shall notify FINMA of the disso-lution forthwith, and shall announce the dissolution in the media of publication.
 
 #### Art. 97
 
@@ -1230,7 +1269,7 @@ A SICAV is dissolved:
 
 <sup>3</sup> In the case of a SICAV, investors have the right to a proportionate share of the proceeds of the liquidation. The rights of company shareholders are subordinate. In all other respects, Articles 737 et seq. of the Code of Obligations[^97-1] apply.
 
-[^97-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^97-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Title 3 Closed-Ended Collective Investment Schemes
 
@@ -1240,17 +1279,18 @@ A SICAV is dissolved:
 
 **Definition**
 
-<sup>1</sup> A limited partnership for collective investment is a partnership whose sole object is collective investment. At least one member bears unlimited liability (general partner), while the other members (limited partners) are liable only up to a specified amount (limited partner’s contribution).
+<sup>1</sup> A limited partnership for collective investment (LPCI) is a partnership whose sole object is collective investment.[^98-1] At least one member bears unlimited liability (general partner), while the other members (limited partners) are liable only up to a specified amount (limited partners’ contribution).
 
-<sup>2</sup> General partners must be companies limited by shares with their registered office in Switzerland. Companies limited by shares without authorisation as managers of collective assets may only be active as a general partner in one limited partnership for collective investment.[^98-1]
+<sup>2</sup> General partners must be companies limited by shares with their registered office in Switzerland. Companies limited by shares without authorisation as managers of collective assets may only be active as a general partner in one LPCI.[^98-2]
 
-<sup>2bis</sup> The conditions for obtaining an authorisation as defined in Article 14 also apply to the general partners.[^98-2]
+<sup>2bis</sup> The conditions for obtaining an authorisation as defined in Article 14 also apply to the general partners.[^98-3]
 
-<sup>3</sup> Limited partners must be qualified investors as defined in Article 10 paragraph 3 or 3<sup>ter</sup>.[^98-3]
+<sup>3</sup> Limited partners must be qualified investors as defined in Article 10 paragraph 3 or 3<sup>ter</sup>.[^98-4]
 
-[^98-1]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^98-2]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^98-3]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^98-1]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^98-2]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^98-3]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^98-4]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 99
 
@@ -1258,7 +1298,7 @@ A SICAV is dissolved:
 
 Unless this Act provides otherwise, the provisions of the Code of Obligations[^99-1] concerning limited partnerships apply.
 
-[^99-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^99-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 100
 
@@ -1287,7 +1327,7 @@ The partnership agreement must contain provisions regarding:
 - a. the partnership name and its registered office;
 - b. the object;
 - c. the company name and the registered office of the general partners;
-- d. total limited partners' contributions;
+- d.[^102-1] total limited partners' contribution, or the range of the limited partners’ contribution (fluctuation band);
 - e. the duration;
 - f. the conditions of the limited partners’ joining and departing;
 - g. the maintenance of a register of limited partners;
@@ -1295,11 +1335,30 @@ The partnership agreement must contain provisions regarding:
 - i. the delegation of management and representation;
 - j. the appointment of a custodian bank and a paying agent.
 
-<sup>2</sup> The partnership agreement must be in writing.
+<sup>2</sup> The partnership agreement requires the approval and signature of all the partners on formation of the company.[^102-2]
 
-<sup>3</sup> ...[^102-1]
+<sup>3</sup> ...[^102-3]
 
-[^102-1]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^102-1]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102-3]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 102a
+
+**Amendment of the partnership agreement**[^102a-1]
+
+<sup>1</sup> Amendments to the partnership agreement require the consent and signature of all the partners.
+
+<sup>2</sup>
+
+The partnership agreement may be amended by majority resolution, provided that:
+
+- a. this is provided for in the partnership agreement; and
+- b. the resolution is publicly notarised.
+
+<sup>3</sup> The partnership agreement amended by a majority resolution requires the signature of the general partners only.
+
+[^102a-1]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 103
 
@@ -1315,7 +1374,7 @@ The partnership agreement must contain provisions regarding:
 
 <sup>1</sup> The limited partners are entitled without the consent of the general partners to conduct other business transactions for their own account and on behalf of third parties and to participate in other companies.
 
-<sup>2</sup> Unless the partnership agreement provides otherwise, the general partners may without the consent of the limited partners conduct other business transactions for their own account and on behalf of third parties and participate in other companies, provided this is disclosed and the interests of the limited partnership for collective investment are not impaired as a consequence.
+<sup>2</sup> Unless the partnership agreement provides otherwise, the general partners may without the consent of the limited partners conduct other business transactions for their own account and on behalf of third parties and participate in other companies, provided this is disclosed and the interests of the LPCI are not impaired as a consequence.
 
 #### Art. 105
 
@@ -1327,15 +1386,17 @@ The partnership agreement must contain provisions regarding:
 
 <sup>3</sup> The Federal Council may prescribe compulsory exclusion. This shall be based on Article 82.
 
-[^105-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^105-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 106
 
 **Inspection and information**
 
-<sup>1</sup> The limited partners are entitled to inspect the business accounts of the partnership at any time. Business confidentiality with regard to the companies in which the limited partnership invests shall be preserved.
+<sup>1</sup> The limited partners are entitled to inspect the business accounts of the partnership at any time. Business confidentiality with regard to the companies in which the LPCI[^106-1] invests shall be preserved.
 
 <sup>2</sup> The limited partners are entitled to obtain information about the business performance of the partnership at least once every quarter.
+
+[^106-1]: New expr. by No I para. 3 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)). This change has been made in the AS provisions specified.
 
 #### Art. 107
 
@@ -1377,7 +1438,7 @@ SICAF is a company limited by shares pursuant to the Code of Obligations[^110-1]
 
 <sup>2</sup> There must be an appropriate relationship between a SICAF’s equity and its total assets. The Federal Council defines this relationship.[^110-2]
 
-[^110-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^110-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^110-2]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 111
@@ -1388,7 +1449,7 @@ SICAF is a company limited by shares pursuant to the Code of Obligations[^110-1]
 
 <sup>2</sup> In all other respects, the provisions of the Code of Obligations[^111-1] regarding the name of companies limited by shares apply.
 
-[^111-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 112
 
@@ -1396,7 +1457,7 @@ SICAF is a company limited by shares pursuant to the Code of Obligations[^110-1]
 
 Unless this Act provides otherwise, the provisions of the Code of Obligations[^112-1] concerning companies limited by shares apply.
 
-[^112-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^112-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 113
 
@@ -1444,6 +1505,233 @@ With respect to the financial statements, Article 89 paragraph 1 letters a and c
 
 A SICAF shall appoint an audit company (Art. 126 et seq.).
 
+## Title 3*a* Limited Qualified Investor Fund
+
+[^tit3a-1]
+
+[^tit3a-1]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+
+### Chapter 1 General Provisions
+
+#### Art. 118a
+
+**Definition and applicability of the Act**
+
+<sup>1</sup>
+
+An L-QIF is a collective investment scheme that:
+
+- a. is only open to qualified investors;
+- b. in the event that it invests its funds directly in real estate, is open only to investors who are professional clients in accordance with Article 4 paragraph 3 letters a–h FinSA[^118a-1];
+- c. is managed in accordance with Articles 118g and 118h; and
+- d. has neither authorisation nor approval from FINMA and is not supervised by FINMA .
+
+<sup>2</sup> It is subject to this Act unless it provides otherwise.
+
+[^118a-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+
+#### Art. 118b
+
+**Change of authorisation or approval status**
+
+<sup>1</sup>
+
+A collective investment scheme that has authorisation or approval from FINMA may surrender this if:
+
+- a. it meets the conditions set out in Article 118a paragraph 1 letters a−c; and
+- b. it is ensured that the interests of the investors are safeguarded.
+
+<sup>2</sup> The Federal Council shall regulate the details. It shall lay down the measures to ensure that the interests of investors are safeguarded.
+
+#### Art. 118c
+
+**Legal status**
+
+The L-QIF may have the legal status of a contractual fund, a SICAV or an LPCI.
+
+#### Art. 118d
+
+**Investment provisions not applicable to L-QIFs and provisions on supervision**
+
+The following are not applicable to L-QIFs:
+
+- a. the investment provisions set out in Articles 53–71 and 103;
+- b. the provisions that grant FINMA the power to decide in individual cases or supervisory powers (Art. 7 para. 4 second sentence, 10 para. 5, 26 para. 1, 27, 39 para. 2, 44a para. 2, 47 para. 2, 74, 78 para. 4, 81 para. 2, 83 para. 3, 89 para. 4, 91, 95 para. 2, 96 para. 1 let. c, para. 2 let. c and para. 4, 109 let. c, 126, 132-134, 136-139 and 144).
+
+#### Art. 118e
+
+**Information for investors and designations**
+
+<sup>1</sup>
+
+On the first page of the fund documents of an L-QIF and in advertisements for an L-QIF:
+
+- a. the designation ‘Limited Qualified Investor Fund’ or ‘L-QIF’ must be used;
+- b. state that the L-QIF has neither authorisation nor approval from FINMA and is not supervised by FINMA.
+
+<sup>2</sup> The name of an L-QIF in the legal form of a SICAV or KmGK must contain the designation ‘Limited Qualified Investor Fund’ or its abbreviation ‘L-QIF’ and an indication of the relevant legal form.
+
+<sup>3</sup> An L-QIF may not be designated as a ‘securities fund’, ‘real estate fund’, ‘other fund for traditional investments’ or ‘other fund for alternative investments’.
+
+#### Art. 118f
+
+**Duty to notify and collection of data**
+
+<sup>1</sup> The institution responsible for administration in accordance with Article 118*g* paragraph 1 or 118*h* paragraph 1, 2 or 4 shall notify the Federal Department of Finance (FDF) within 14 days of taking over or ceasing administration of an L-QIF. The Federal Council may determine what information the notification must contain.
+
+<sup>2</sup> The FDF shall maintain a publicly accessible list of all L-QIFs and the institutions responsible for their administration in accordance with Article 118*g* paragraph 1 or 118*h* paragraph 1, 2 or 4.
+
+<sup>3</sup> The FDF may collect data on the business activities of the L-QIF from the L-QIF and the institutions responsible for administration in accordance with Article 118*g* paragraph 1 or 118*h* paragraph 1, 2 or 4 for statistical purposes.
+
+<sup>4</sup> The FDF may have this data collected by third parties or require the persons referred to in paragraph 3 to report it to it.
+
+<sup>5</sup> Article 144 paragraphs 2 and 3 apply by analogy.
+
+#### Art. 118g
+
+**Management of L-QIFs in the legal form of a contractual fund**
+
+<sup>1</sup> An L-QIF in the legal form of a contractual fund is managed by a fund management company.
+
+<sup>2</sup>
+
+The fund management company may delegate the investment decisions under the conditions set out in Articles 14 paragraph 1 and 35 FinIA[^118g-1] to:
+
+- a. a manager of collective assets in accordance with Article 2 paragraph 1 letter c FinIA;
+- b.
+
+  a foreign manager of collective assets if:
+
+  - 1\. they are subject to appropriate regulation and supervision in their country of domicile, and
+  - 2\. an agreement on cooperation and the exchange of information exists between FINMA and the competent foreign supervisory authority, insofar as such an agreement is required by foreign law.
+
+<sup>3</sup> The manager of collective assets may delegate investment decisions to persons in accordance with paragraph 2 of this provision subject to the conditions set out in Article 14 paragraph 1 and Article 27 paragraph 1 FinIA.
+
+<sup>4</sup> The fund contract must specify to whom the investment decisions are delegated.
+
+[^118g-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 118h
+
+**Management of L-QIFs in the legal form of a SICAV and LPCI**
+
+<sup>1</sup> The administration and investment decision of an L-QIF in the legal form of a SICAV must be delegated to one and the same fund management company.
+
+<sup>2</sup> The management of an L-QIF in the legal form of an LPCI must be delegated to a manager of collective assets.
+
+<sup>3</sup> The sub-delegation of investment decisions is governed by Article 118g paragraphs 2 and 3.
+
+<sup>4</sup> The management of an L-QIF in the legal form of an LPCI need not be delegated if the general partners are banks, insurance companies within the meaning of the IOA[^118h-1], securities firms, fund management companies or managers of collective assets.
+
+<sup>5</sup> The articles of association or partnership agreement must specify to whom the management or administration is delegated.
+
+[^118h-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+
+#### Art. 118i
+
+**Audit, accounting, valuation and financial statements**
+
+<sup>1</sup> An audit company licensed by the Federal Audit Oversight Authority in accordance with Article 9*a* paragraph 1 of the Auditor Oversight Act of 16 December 2005[^118i-1] must be appointed to audit the L-QIF.
+
+<sup>2</sup> The annual accounts and if applicable their consolidated accounts of the L-QIF and each real estate company belonging to it must be audited by an audit firm under state oversight in accordance with the principles of the Code of Obligations [^118i-2].
+
+<sup>3</sup> The same audit company shall be appointed for the audit as for the institution responsible for the administration in accordance with Article 118*g* paragraph 1 or 118*h* paragraph 1, 2 or 4.
+
+<sup>4</sup> Article 730*b* paragraph 2 of the Code of Obligations applies accordingly to confidentiality by the audit company.
+
+<sup>5</sup> The L-QIF shall bear the costs of the audit.
+
+<sup>6</sup> The Federal Council shall regulate the details of the audit. It may issue additional regulations on accounting, valuation, financial statements and publication requirements.
+
+[^118i-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^118i-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+### Chapter 2 Position of Investors in L-QIFs that are Open-Ended Collective Investment Schemes
+
+#### Art. 118j
+
+**Preparation and amendment of the fund contract**
+
+<sup>1</sup> In the case of an L-QIF in the legal form of a contractual fund, the fund management company shall draw up the fund contract and obtain the consent of the custodian bank.
+
+<sup>2</sup>
+
+If the fund management company intends to amend the fund contract, it shall obtain the consent of the custodian bank in advance and publish the following in the L-QIF's media of publication:
+
+- a. a summary of the significant amendments;
+- b. a reference to the locations where the full wording of the contractual amendments may be obtained free of charge; and
+- c. an indication of when the amendments will come into force.
+
+<sup>3</sup> Publication in accordance with paragraph 2 may be dispensed with if all investors are informed in writing or in another form verifiable by text of the wording of the amendments and the date on which the amendment enters into force.
+
+<sup>4</sup>
+
+The amendments to the fund contract shall come into force at the earliest:
+
+- a. in the case of a contractual investment fund with a redemption option at any time: 30 days after publication pursuant to paragraph 2 or provision of information pursuant to paragraph 3;
+- b. in the case of a contractual fund without the possibility of redemption at any time: on the day after the day on which the units may be surrendered in compliance with the contractual or regulatory redemption periods and deadlines if the fund contract were terminated on the 30th day after publication pursuant to paragraph 2 or the provision of information pursuant to paragraph 3.
+
+<sup>5</sup> If the contractual or regulatory notice period lasts longer than 30 days, the changes may come into force earlier than in accordance with paragraph 4 if all investors agree in writing or in another form verifiable by text, but no earlier than 30 days after publication in accordance with paragraph 2 or the provision of information in accordance with paragraph 3.
+
+#### Art. 118k
+
+**Change of custodian bank**
+
+<sup>1</sup> Article 39*a* FinIA[^118k-1] applies accordingly to a change of custodian bank for an L-QIF in the legal form of the contractual fund.
+
+<sup>2</sup> The change of custodian bank of an L-QIF in the legal form of a SICAV requires an agreement in writing or in another form verifiable by text. The change must be published immediately in the SICAV's media of publication.
+
+[^118k-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 118l
+
+**Derogation from the duty to make payments in and out of the fund in cash**
+
+In the case of an L-QIF in the legal form of the contractual fund or the SICAV, derogation from the duty to make payments in and out of the fund in cash in accordance with Article 78 may be allowed if it is provided for in the following document:
+
+- a. in the case of an L-QIF in the legal form of the contractual fund: in the fund contract;
+- b. in the case of an L-QIF in the legal form of a SICAV: in the investment regulations.
+
+#### Art. 118m
+
+**Deferred repayment in exceptional instances**
+
+In the case of an L-QIF in the legal form of a contractual fund or SICAV, the fund management company may order a limited deferment of the repayment of the units in the interest of all investors.
+
+### Chapter 3 Investment Provisions
+
+#### Art. 118n
+
+**Investment and investment techniques**
+
+<sup>1</sup>
+
+The investments permitted for the L-QIF must be set out in the following documents:
+
+- a. in the case of an L-QIF in the legal form of a contractual fund: in the fund contract;
+- b. in the case of an L-QIF in the legal form of a SICAV: in the investment regulations;
+- c. in the case of an L-QIF in the form of an LPCI: in the partnership agreement.
+
+<sup>2</sup> If the L-QIF invests in alternative investments, reference must be made to the particular risks associated with these investments in the designation, in the documents in accordance with paragraph 1 and in the advertising material.
+
+<sup>3</sup> The Federal Council shall regulate investment provisions and investment restrictions.
+
+#### Art. 118o
+
+**Risk diversification**
+
+The risk diversification of an L-QIF must be described in the documents in accordance with Article 118*n* paragraph 1.
+
+#### Art. 118p
+
+**Special provisions for real estate investments**
+
+<sup>1</sup> If an L-QIF invests in real estate investments, Article 63 paragraphs 1–3 applies accordingly.
+
+<sup>2</sup> At least two natural persons or one legal entity shall be appointed as valuation experts for real estate investments for the L-QIF.
+
+<sup>3</sup> The Federal Council shall regulate the derogations from paragraph 1 and the requirements for the valuation experts in accordance with paragraph 2. In particular, it shall regulate the derogations from the prohibition on takeovers and assignments in accordance with Article 63 paragraphs 2 and 3.
+
 ## Title 4 Foreign Collective Investment Schemes
 
 ### Chapter 1 Definition and Approval
@@ -1471,8 +1759,8 @@ The following are considered foreign open-ended collective investment schemes:
 
 Approval is granted if:
 
-- a.[^120-2] the collective investment scheme, fund management company or company, asset manager of the collective investment scheme and depository are sub- ject to public supervision intended to protect investors;
-- b.[^120-3] with regard to organization, investor rights and investment policy, the fund management company or company and the depository are subject to regula- tions which are equivalent to the provisions of this Act;
+- a.[^120-2] the collective investment scheme, fund management company or company, manager of collective assets and depository are subject to public supervision intended to protect investors;
+- b.[^120-3] with regard to organization, investor rights and investment policy, the fund management company or company and the depository are subject to regulations which are equivalent to the provisions of this Act;
 - c. the designation of the collective investment scheme does not provide grounds for confusion or deception;
 - d.[^120-4] a representative and a paying agent are appointed for the offer of units in Switzerland;
 - e.[^120-5] there is an agreement on cooperation and the exchange of information between FINMA and the foreign supervisory authorities relevant to the offer.
@@ -1491,7 +1779,7 @@ Approval is granted if:
 [^120-4]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-5]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-6]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^120-7]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^120-7]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^120-8]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-9]: Inserted by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1503,7 +1791,7 @@ Approval is granted if:
 
 <sup>2</sup> The investors may request the issue and redemption of the units from the paying agent.
 
-[^121-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^121-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 122
 
@@ -1521,7 +1809,7 @@ Assuming the mutual recognition of regulations and measures of an equivalent sta
 
 <sup>2</sup> The fund management and the investment scheme company undertake to provide the representative with the information the latter may require for the performance of its tasks.
 
-[^123-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^123-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^123-2]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 124
@@ -1555,7 +1843,7 @@ The place of jurisdiction is:
 
 [^tit5-1]
 
-[^tit5-1]: Term in accordance with Annex No 14 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)). This change has been made throughout the text.
+[^tit5-1]: Term in accordance with Annex No 14 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)). This amendment has been made throughout the text.
 
 ### Chapter 1 Audit
 
@@ -1569,7 +1857,7 @@ The following persons must appoint an audit company licensed by Federal Audit Ov
 
 - a.[^126-4]. fund management companies for the investment funds they manage;
 - b. SICAVs;
-- c. limited partnerships for collective investment;
+- c. LPCI;
 - d. SICAFs;
 - e.[^126-5] ...
 - f. representatives of foreign collective investment schemes.
@@ -1584,15 +1872,15 @@ The following persons must appoint an audit company licensed by Federal Audit Ov
 
 <sup>6</sup> The Federal Council shall regulate the details. It may authorise FINMA to issue implementing provisions on matters of limited scope, and in particular on largely technical matters.[^126-11]
 
-[^126-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^126-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^126-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^126-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^126-3]: Amended by Annex No 4 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^126-4]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-5]: Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-6]: Repealed by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, with effect from 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^126-7]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-8]: Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^126-9]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126-9]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^126-10]: Inserted by Annex No 4 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^126-11]: Inserted by Annex No 4 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
@@ -1606,7 +1894,7 @@ The following persons must appoint an audit company licensed by Federal Audit Ov
 
 **Duty to provide information**[^130-1]
 
-<sup>1</sup> The valuation experts and real estate companies belonging to the collective in vestment scheme shall provide the audit company with full access to the accounting records, the accounting vouchers, the records and to the reports of the valuation experts; moreover, they shall supply them with all the information needed to perform the audit function.
+<sup>1</sup> The valuation experts and real estate companies belonging to the collective investment scheme shall provide the audit company with full access to the accounting records, the accounting vouchers, the records and to the reports of the valuation experts; moreover, they shall supply them with all the information needed to perform the audit function.
 
 <sup>2</sup> The audit company of the custodian bank and the audit company of the other licensees cooperate with each other.
 
@@ -1628,7 +1916,10 @@ The following persons must appoint an audit company licensed by Federal Audit Ov
 
 <sup>2</sup> It does not review the expediency of the business decisions taken by the licensees.
 
+<sup>3</sup> L-QIFs are not subject to FINMA supervision.[^132-2]
+
 [^132-1]: Amended by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^132-2]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 133
 
@@ -1643,7 +1934,7 @@ The following persons must appoint an audit company licensed by Federal Audit Ov
 <sup>4</sup> If an enforceable order issued by FINMA is not complied with after prior warning within the deadline that has been set, FINMA may itself carry out the required actions at the expense of the negligent party.
 
 [^133-1]: Amended by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^133-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^133-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^133-3]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 134
@@ -1678,12 +1969,12 @@ Licensees from which authorisation has been withdrawn or collective investment s
 
 <sup>2</sup> The provisions on composition proceedings (Art. 293–336 of the Federal Act of 11 April 1889[^137-3] on Debt Enforcement and Bankruptcy, DEBA) and on notification of the court (Art. 716*a* para. 1 no. 8, 725*a* para. 3, 725*b* para. 3 and 728*c* para. 3 of the Code of Obligations[^137-4]) do not apply to the licensee referred to in paragraph 1.[^137-5]
 
-<sup>3</sup> FINMA appoints one or more bankruptcy liquidators. These are subject to supervi- sory control by FINMA and shall provide FINMA with a report if requested.[^137-6]
+<sup>3</sup> FINMA appoints one or more bankruptcy liquidators. These are subject to supervi-sory control by FINMA and shall provide FINMA with a report if requested.[^137-6]
 
 [^137-1]: Amended by Annex No 3 of the FA of 18 March 2011 (Securing Investments), in force since 1 Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^137-2]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^137-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^137-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^137-3]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^137-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^137-5]: Amended by Annex No 11 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^137-6]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -1698,7 +1989,7 @@ Licensees from which authorisation has been withdrawn or collective investment s
 <sup>3</sup> FINMA may issue different rulings and orders.
 
 [^138-1]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 138a
 
@@ -1728,7 +2019,7 @@ The bankruptcy liquidator may apply to FINMA for the following:
 <sup>3</sup> FINMA issues the necessary orders for the closure of the proceedings. It announces the closure publicly.
 
 [^138b-1]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138b-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^138b-3]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^138b-4]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1739,7 +2030,7 @@ The bankruptcy liquidator may apply to FINMA for the following:
 Articles 37*f* and 37*g* of the Federal Act on Banks and Savings Banks of 8 November 1934[^138c-2] apply to recognising foreign bankruptcy decrees and insolvency measures, as well as for coordination with foreign insolvency proceedings.
 
 [^138c-1]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^138c-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^138c-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 138d
 
@@ -1752,7 +2043,7 @@ Articles 37*f* and 37*g* of the Federal Act on Banks and Savings Banks of 8 Nove
 <sup>3</sup> Appeals in bankruptcy proceedings have no suspensive effect. The instructing judge can restore the suspensive effect on request.
 
 [^138d-1]: Inserted by Annex No 9 of the Financial Market Infrastructure Act of 19 June 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^138d-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^138d-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 139
 
@@ -1801,7 +2092,7 @@ Articles 37*f* and 37*g* of the Federal Act on Banks and Savings Banks of 8 Nove
 
 [^144-1]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^144-2]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^144-3]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^144-3]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 
 ## Title 6 Liability and Criminal Provisions
 
@@ -1817,7 +2108,7 @@ Any person who breaches their duties is liable to the company, the individual in
 
 - a. the fund management company;
 - b. the SICAV;
-- c. the limited partnership for collective investment;
+- c. the LPCI;
 - d. the SICAF;
 - e. the custodian bank;
 - f.[^145-2] the manager of collective assets;
@@ -1829,17 +2120,17 @@ Any person who breaches their duties is liable to the company, the individual in
 
 <sup>3</sup> Any person who assigns the fulfilment of a task to a third party is liable for the losses caused by that third party unless they prove that they applied the degree of due diligence with regard to the selection, instruction and monitoring required in the given circumstances. The Federal Council may regulate the requirements for monitoring, subject to Article 68 paragraph 3 FinIA[^145-4].[^145-5] [^145-6]
 
-<sup>4</sup> The liability of the executive and governing bodies of the fund management com- pany, SICAV and SICAF is based on the provisions of the Code of Obligations[^145-7] governing companies limited by shares.
+<sup>4</sup> The liability of the executive and governing bodies of the fund management company, SICAV and SICAF is based on the provisions of the Code of Obligations[^145-7] governing companies limited by shares.
 
-<sup>5</sup> The liability of a limited partnership for collective investment is based on the provisions of the Code of Obligations governing limited partnerships.
+<sup>5</sup> The liability of an LPCI is based on the provisions of the Code of Obligations governing limited partnerships.
 
 [^145-1]: Second sentence amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-2]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-3]: Amended by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, with effect from 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^145-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^145-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^145-5]: Third sentence amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-6]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^145-7]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^145-7]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 146
 
@@ -1928,20 +2219,24 @@ Any person who wilfully does any of the following is liable to a fine not exceed
 - c.[^149-1] ...
 - d. fails to file the required notification with FINMA, the Swiss National Bank or investors, or provides false information therein;
 - e.[^149-2] ...
-- f.[^149-3] fails to keep the share register in terms of Article 46 paragraph 3 correctly.
+- f.[^149-3] fails to keep the share register in terms of Article 46 paragraph 3 correctly;
+- g.[^149-4] commits a breach of the provision concerning the provision of information to investors and the designation of L-QIFs (Art. 118*e*);
+- h.[^149-5] commits a breach of the reporting duty under Article 118*f* paragraph 1.
 
-<sup>2</sup> ...[^149-4]
+<sup>2</sup> ...[^149-6]
 
-<sup>3</sup> ...[^149-5]
+<sup>3</sup> ...[^149-7]
 
-<sup>4</sup> ...[^149-6]
+<sup>4</sup> ...[^149-8]
 
 [^149-1]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^149-2]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^149-3]: Inserted by No I 6 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^149-4]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^149-5]: Repealed by Annex No 9 of the Financial Market Infrastructure Act of 19 June 2015, with effect from 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^149-6]: Repealed by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, with effect from 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^149-4]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^149-5]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^149-6]: Repealed by Annex No 3 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^149-7]: Repealed by Annex No 9 of the Financial Market Infrastructure Act of 19 June 2015, with effect from 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^149-8]: Repealed by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, with effect from 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 150
 
