@@ -4,13 +4,12 @@ number: "635.1.1"
 title: Gesetz über die Handänderungs- und Grundpfandrechtssteuern
 short: HGStG
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-09-06
+version: 2024-03-01
+version_adopted: 2023-11-24
 adopted: 1996-05-01
 in_force: 1997-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/635.1.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7944/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8656/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Handänderungs- und Grundpfandrechtssteuern – G
 
 (HGStG)
 
-vom 01.05.1996 (Fassung in Kraft getreten am 01.01.2024)
+vom 01.05.1996 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -94,7 +93,9 @@ beschliesst:
 
 **Grundstücke**
 
-<sup>1</sup> Grundstücke im Sinne dieses Gesetzes sind die in Artikel 655 des Schweizerischen Zivilgesetzbuches umschriebenen Grundstücke.
+<sup>1</sup> Grundstücke im Sinne dieses Gesetzes sind die in Artikel 655 des Schweizerischen Zivilgesetzbuches[^6-1] umschriebenen Grundstücke.
+
+[^6-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 7
 
@@ -126,7 +127,7 @@ beschliesst:
 - b) Grundstücksübertragungen an kirchliche Körperschaften und öffentlich-rechtlich anerkannte juristische Personen des Kirchenrechts, soweit die Grundstücke unmittelbar und unwiderruflich für einen religiösen, erzieherischen oder sozialen Zweck bestimmt sind;
 - c) Grundstücksübertragungen an private Institutionen, soweit die Grundstücke unmittelbar und unwiderruflich für einen gemeinnützigen Zweck im Erziehungs-, im Gesundheits- oder im Sozialhilfe- und Sozialvorsorgewesen bestimmt sind und somit die öffentlichen Körperschaften des Kantons bei der Erfüllung ihrer gesetzlichen Aufgaben unterstützt werden;
 - d) Grundstücksübertragungen als Dotation an eine Einrichtung der beruflichen Vorsorge im Sinne der Spezialgesetzgebung, sofern die betreffenden Objekte dauernd und ausschliesslich für Vorsorgezwecke zugunsten des Personals bestimmt sind;
-- e) Grundstücksübertragungen bei einer Umstrukturierung im Sinne der Artikel 20 Abs. 1 und 103 Abs. 1 und 4 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern; die Handänderungssteuern werden erhoben, wenn die Voraussetzungen für eine nachträgliche Besteuerung nach den Artikeln 20 Abs. 2 und 103 Abs. 3 und 5 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern erfüllt sind;
+- e) Grundstücksübertragungen bei einer Umstrukturierung im Sinne der Artikel 20 Abs. 1 und 103 Abs. 1 und 4 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^9-1]; die Handänderungssteuern werden erhoben, wenn die Voraussetzungen für eine nachträgliche Besteuerung nach den Artikeln 20 Abs. 2 und 103 Abs. 3 und 5 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^9-2] erfüllt sind;
 - e<sup>bis</sup>) Grundstücksübertragungen im Sinne von Artikel 4 Bst. e, die Immobiliengesellschaften betreffen, deren Aktiven hauptsächlich aus Grundstücken bestehen, sofern diese Grundstücke ganz oder teilweise dem Handels oder Fabrikationszweck dieser Gesellschaften dienen;
 - f) Grundstücksübertragungen zwischen Verwandten in gerader Linie und zwischen Ehegatten;
 - f1) Grundstücksübertragungen, die einer Teilung zwischen ehemaligen Ehegatten gleichkommen, wenn es dabei um die von einem der geschiedenen Ehegatten bewohnte Wohnung der Familie geht;
@@ -135,12 +136,15 @@ beschliesst:
 - i) die Umwandlung von einer Form von gemeinschaftlichem Grundeigentum in eine andere, sofern die Personen und die Anteile nicht ändern;
 - j) die Umwandlung eines Nutzniessungsrechts in ein gleichwertiges Wohnrecht oder umgekehrt;
 - k) die rechtliche Übertragung von Grundstücken einer Immobiliengesellschaft, wenn und soweit eine weitere Steuererhebung für die natürlichen Personen, die direkt oder indirekt die Beteiligungsrechte innehaben, aufgrund einer bereits erfolgten Erhebung nach Artikel 4 Bst. e wirtschaftlich einer Doppelbesteuerung gleichkäme; ferner sind von der Steuerpflicht befreit die rechtlichen Übertragungen von Grundstücken von einer Immobiliengesellschaft an einen Inhaber von Beteiligungsrechten, dem die Eigenschaft einer natürlichen Person zukommt, im Verhältnis seiner Rechte und im Falle der vollständigen Auflösung der Gesellschaft;
-- l) Grundstücksübertragungen im Zusammenhang mit Bodenverbesserungen, die vom Amt, das nach der Gesetzgebung über die Bodenverbesserungen in diesem Bereich zuständig ist [^9-1], visiert wurden, sowie Eigentumsübertragungen im Zusammenhang mit katastertechnisch bedingten Grenzbereinigungen von geringer Bedeutung;
+- l) Grundstücksübertragungen im Zusammenhang mit Bodenverbesserungen, die vom gemäss Gesetzgebung für die Bodenverbesserungen zuständigen Amt[^9-3] visiert wurden, und Eigentumsübertragungen für Grenzvereinfachungen oder -bereinigungen gestützt auf Artikel 28 des Gesetzes vom 24. November 2023 über Geoinformation[^9-4];
 - m) die in anderen gesetzlichen Bestimmungen ausdrücklich vorgesehenen Fälle.
 
 <sup>2</sup> Die Stellung der eingetragenen Partner entspricht derjenigen der Ehegatten.
 
-[^9-1]: Heute: Grangeneuve oder Amt für Wald und Natur.
+[^9-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
+[^9-2]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
+[^9-3]: Heute: Grangeneuve oder Amt für Wald und Natur.
+[^9-4]: SGF [214.7.1](https://bdlf.fr.ch/data/214.7.1/de)
 
 #### Art. 10
 
@@ -302,14 +306,15 @@ In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaf
 
 <sup>2</sup> Das für die direkten Steuern zuständige Amt[^24-3] teilt auf Ersuchen die für die Anwendung dieses Gesetzes erforderlichen Elemente mit. Diese Daten können durch ein elektronisches Abrufverfahren zugänglich gemacht werden.
 
-<sup>3</sup> Das für die direkten Steuern zuständige Amt meldet den zuständigen Grundbuchämtern von Amtes wegen die ihm zur Kenntnis gelangten Fälle von Aktienübertragungen oder Übertragungen von Gesellschaftsanteilen im Sinne von Artikel 4 Abs. 1 Bst. e sowie die Fälle der nachträglichen Besteuerung nach den Artikeln 20 Abs. 2 und 103 Abs. 3 und 5 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern.
+<sup>3</sup> Das für die direkten Steuern zuständige Amt meldet den zuständigen Grundbuchämtern von Amtes wegen die ihm zur Kenntnis gelangten Fälle von Aktienübertragungen oder Übertragungen von Gesellschaftsanteilen im Sinne von Artikel 4 Abs. 1 Bst. e sowie die Fälle der nachträglichen Besteuerung nach den Artikeln 20 Abs. 2 und 103 Abs. 3 und 5 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^24-4].
 
-<sup>4</sup> Die für die Bau- und Raumplanung zuständige Direktion[^24-4] teilt dem zuständigen Grundbuchamt von Amtes wegen die von ihr ausgestellten Abbaubewilligungen für die Ausbeutung eines Grundstücks mit.
+<sup>4</sup> Die für die Bau- und Raumplanung zuständige Direktion[^24-5] teilt dem zuständigen Grundbuchamt von Amtes wegen die von ihr ausgestellten Abbaubewilligungen für die Ausbeutung eines Grundstücks mit.
 
 [^24-1]: Heute: Finanzdirektion.
 [^24-2]: Heute: kantonaler Finanzdienst.
 [^24-3]: Heute: Kantonale Steuerverwaltung.
-[^24-4]: Heute: Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
+[^24-4]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
+[^24-5]: Heute: Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
 
 #### Art. 25
 
@@ -361,9 +366,11 @@ In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaf
 
 <sup>2</sup> Bei Grundstücksübertragungen müssen diese Belege schriftliche und mit der Unterschrift der Vertragsparteien oder ihrer Vertreter versehene Angaben über den Betrag sämtlicher vereinbarter Leistungen enthalten.
 
-<sup>3</sup> Die Parteien und ihre Vertreter, die Urkundsperson und die betreffende Gemeinde müssen die von ihnen angeforderten zusätzlichen Angaben nachreichen. Im Übrigen gelten die Artikel 142, 149, 159, 160 und 162 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern.
+<sup>3</sup> Die Parteien und ihre Vertreter, die Urkundsperson und die betreffende Gemeinde müssen die von ihnen angeforderten zusätzlichen Angaben nachreichen. Im Übrigen gelten die Artikel 142, 149, 159, 160 und 162 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^29-1].
 
 <sup>4</sup> Wird der Betrag der vereinbarten Leistungen nicht angegeben oder stimmen die Leistungen offenbar nicht mit dem Verkehrs- oder Realwert überein oder reichen die Grundlagen nicht aus, so können die Grundbuchämter die Steuern nach eigenem Ermessen aufgrund der Angaben, über die sie verfügen, festsetzen; wenn nötig unterbreiten sie den Fall vorgängig einer Schätzungskommission.
+
+[^29-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 30
 
@@ -465,7 +472,9 @@ In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaf
 
 **Revision**
 
-<sup>1</sup> Rechtskräftige Entscheide können aus den Gründen und nach dem Verfahren nach den Artikeln 188, 189 und 190 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern, die sinngemäss gelten, revidiert werden.
+<sup>1</sup> Rechtskräftige Entscheide können aus den Gründen und nach dem Verfahren nach den Artikeln 188, 189 und 190 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^41-1], die sinngemäss gelten, revidiert werden.
+
+[^41-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 ## 7 Steuerbezug
 
@@ -493,7 +502,9 @@ In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaf
 
 **Sicherung**
 
-<sup>1</sup> Die Bezahlung der Steuern, der Zusatzabgabe und der Verzugszinsen wird durch ein gesetzliches Grundpfandrecht sichergestellt (Art. 73 EGZGB).
+<sup>1</sup> Die Bezahlung der Steuern, der Zusatzabgabe und der Verzugszinsen wird durch ein gesetzliches Grundpfandrecht sichergestellt (Art. 73 EGZGB[^44-1]).
+
+[^44-1]: SGF [210.1](https://bdlf.fr.ch/data/210.1/de)
 
 #### Art. 45
 
@@ -533,11 +544,13 @@ In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaf
 - b) die Parteien das steuerpflichtige Geschäft rückgängig gemacht haben und der Schuldner den Nachweis erbringt, dass die Voraussetzungen für einen gesetzlichen Nichtigkeits- oder Aufhebungsgrund erfüllt sind;
 - c) der Entscheid, auf Grund dessen die Zahlung erfolgt ist, infolge einer Einsprache, einer Beschwerde oder einer Revision aufgehoben oder abgeändert wird;
 - d) er irrtümlicherweise einen nicht geschuldeten Betrag oder mehr als den geschuldeten Betrag bezahlt hat;
-- e) die Voraussetzungen nach Artikel 86 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs erfüllt sind.
+- e) die Voraussetzungen nach Artikel 86 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs[^48-1] erfüllt sind.
 
 <sup>2</sup> Eine Rückerstattung wird nicht gewährt, wenn sich herausstellt, dass im Rahmen des steuerpflichtigen Geschäfts vorsätzlich Steuern hinterzogen wurden.
 
 <sup>3</sup> Mit der Rückerstattung wird ein Zins vergütet, der vom Zeitpunkt der Zahlung an zu einem von der Direktion festgesetzten Satz berechnet wird.
+
+[^48-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
 #### Art. 49
 
@@ -575,7 +588,7 @@ In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaf
 
 <sup>1</sup> Mit einer Busse in der Höhe des einfachen bis vierfachen Betrags der hinterzogenen Steuern bestraft wird, wer vorsätzlich oder fahrlässig:
 
-- a) bewirkt, dass eine Veranlagung zu Unrecht unterbleibt, insbesondere indem er ein Geschäft oder das Eintreten eine Bedingung, welche die Steuererhebung begründet, nicht innert der gesetzlichen Frist meldet;
+- a) bewirkt, dass eine Veranlagung zu Unrecht unterbleibt, insbesondere indem er ein Geschäft oder das Eintreten einer Bedingung, welche die Steuererhebung begründet, nicht innert der gesetzlichen Frist meldet;
 - b) bewirkt, dass eine rechtskräftige Veranlagung unvollständig ist;
 - c) eine unrechtmässige Rückerstattung (Art. 48), einen ungerechtfertigten Erlass (Art. 46) oder eine unzulässige Reduktion der Bemessungsgrundlage (Art. 19a) erwirkt.
 
@@ -631,7 +644,10 @@ In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaf
 
 <sup>1</sup> Für die strafbaren Handlungen nach Artikel 58 Abs. 1 ist der ordentliche Strafrichter zuständig.
 
-<sup>2</sup> Die allgemeinen Bestimmungen des Schweizerischen Strafgesetzbuches und das Justizgesetz gelten unter Vorbehalt der besonderen Bestimmungen in den Artikeln 65 und 66.
+<sup>2</sup> Die allgemeinen Bestimmungen des Schweizerischen Strafgesetzbuches[^59-1] und das Justizgesetz[^59-2] gelten unter Vorbehalt der besonderen Bestimmungen in den Artikeln 65 und 66.
+
+[^59-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^59-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 ## 9 Verjährung und Verwirkung
 
@@ -669,7 +685,9 @@ In jedem Fall ist ein Abzug nur für den ersten Anteil am erworbenen gemeinschaf
 
 **Steuern und Zusatzabgaben – Stillstand und Unterbrechung der Verjährung**
 
-<sup>1</sup> Der Artikel 151 Abs. 2 und 3 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern gilt sinngemäss für den Stillstand und die Unterbrechung der Verjährung.
+<sup>1</sup> Der Artikel 151 Abs. 2 und 3 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^64-1] gilt sinngemäss für den Stillstand und die Unterbrechung der Verjährung.
+
+[^64-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 65
 

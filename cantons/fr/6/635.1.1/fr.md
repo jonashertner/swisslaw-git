@@ -4,13 +4,12 @@ number: "635.1.1"
 title: Loi sur les droits de mutation et les droits sur les gages immobiliers
 short: LDMG
 language: fr
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-09-06
+version: 2024-03-01
+version_adopted: 2023-11-24
 adopted: 1996-05-01
 in_force: 1997-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.1.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7944/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8656/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Droits de mutation et droits sur les gages immobiliers – L
 
 (LDMG)
 
-du 01.05.1996 (version entrée en vigueur le 01.01.2024)
+du 01.05.1996 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -94,7 +93,9 @@ Décrète:
 
 **Immeubles**
 
-<sup>1</sup> Sont considérés comme immeubles au sens de la présente loi les immeubles définis par l'article 655 du code civil suisse.
+<sup>1</sup> Sont considérés comme immeubles au sens de la présente loi les immeubles définis par l'article 655 du code civil suisse[^6-1].
+
+[^6-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 7
 
@@ -126,7 +127,7 @@ Décrète:
 - b) les transferts immobiliers aux corporations ecclésiastiques et aux personnes juridiques canoniques reconnues de droit public, dans la mesure où les immeubles sont directement et irrévocablement affectés à un but religieux, éducatif ou social;
 - c) les transferts immobiliers à des institutions privées, dans la mesure où les immeubles sont directement et irrévocablement affectés à un but d'utilité publique dans le domaine de l'instruction et de la santé publiques ou de l'aide et de la prévoyance sociales et aident ainsi les collectivités publiques du canton dans leurs tâches légalement prescrites;
 - d) les transferts immobiliers effectués à titre de dotation d'institutions de prévoyance professionnelle conformes à la législation spéciale, pour autant qu'ils portent sur des objets destinés à être affectés durablement et exclusivement à la prévoyance en faveur du personnel;
-- e) les transferts immobiliers en cas de restructuration au sens des articles 20 al. 1 et 103 al. 1 et 4 de la loi du 6 juin 2000 sur les impôts cantonaux directs; les droits de mutation sont prélevés en cas de réalisation des conditions d'un rappel d'impôt au sens des articles 20 al. 2 et 103 al. 3 et 5 de la loi du 6 juin 2000 sur les impôts cantonaux directs;
+- e) les transferts immobiliers en cas de restructuration au sens des articles 20 al. 1 et 103 al. 1 et 4 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^9-1]; les droits de mutation sont prélevés en cas de réalisation des conditions d'un rappel d'impôt au sens des articles 20 al. 2 et 103 al. 3 et 5 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^9-2];
 - e<sup>bis</sup>) les transferts immobiliers au sens de l'article 4 let. e dans une société immobilière dont les immeubles représentent le principal actif, dans la mesure où la société les affecte en tout ou en partie à l'exploitation de son commerce ou de son industrie;
 - f) les transferts immobiliers entre parents en ligne directe ou entre époux;
 - f1) les transferts immobiliers tenant lieu de partage entre ex-époux, lorsqu'ils portent sur le logement familial occupé par l'un ou l'autre des ex-époux;
@@ -135,12 +136,15 @@ Décrète:
 - i) la transformation d'une forme de propriété collective immobilière en une autre forme, sans que les personnes ni les parts changent;
 - j) la conversion d'un droit d'usufruit en un droit d'habitation équivalent ou inversement;
 - k) les transferts juridiques d'immeubles d'une société immobilière, si et dans la mesure où, pour les personnes physiques qui en détiennent directement ou indirectement les droits de participation, un nouveau prélèvement constituerait économiquement une double imposition en raison d'un prélèvement déjà opéré en application de l'article 4 let. e; sont par ailleurs exonérés les transferts juridiques d'immeubles d'une société immobilière à un détenteur de droits de participation revêtant la qualité de personne physique, en proportion de ses droits et en cas de liquidation totale de la société;
-- l) les transferts immobiliers déterminés par des opérations d'améliorations foncières et visés par le service, qui selon la législation sur les améliorations foncières, est compétent en la matière[^9-1] ainsi que les transferts de propriétés réalisés en vue d'une régularisation peu importante de limites dictées par des raisons cadastrales;
+- l) les transferts immobiliers déterminés par des opérations d'améliorations foncières et visés par le service qui, selon la législation sur les améliorations foncières, est compétent en la matière[^9-3] ainsi que les transferts de propriétés réalisés en vue d'une simplification ou d'une rectification de limites fondée sur l'article 28 de la loi du 24 novembre 2023 sur la géoinformation[^9-4];
 - m) les cas expressément prévus par d'autres dispositions légales.
 
 <sup>2</sup> Les partenaires enregistrés ont le même statut que les époux.
 
-[^9-1]: Actuellement: Grangeneuve ou Service des forêts et de la nature.
+[^9-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
+[^9-2]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
+[^9-3]: Actuellement: Grangeneuve ou Service des forêts et de la nature.
+[^9-4]: RSF [214.7.1](https://bdlf.fr.ch/data/214.7.1/fr)
 
 #### Art. 10
 
@@ -302,14 +306,15 @@ Dans tous les cas, une déduction ne peut être admise que pour la première par
 
 <sup>2</sup> Le Service chargé des impôts directs[^24-3] communique sur demande les éléments nécessaires à l'application de la présente loi. Ces données peuvent être rendues accessibles au moyen d'une procédure d'appel électronique.
 
-<sup>3</sup> Le Service chargé des impôts directs communique d'office au Registre foncier compétent les cas de transfert d'actions ou de parts sociales au sens de l'article 4 al. 1 let. e qui sont parvenus à sa connaissance ainsi que les cas de rappel d'impôt au sens des articles 20 al. 2 et 103 al. 3 et 5 de la loi du 6 juin 2000 sur les impôts cantonaux directs.
+<sup>3</sup> Le Service chargé des impôts directs communique d'office au Registre foncier compétent les cas de transfert d'actions ou de parts sociales au sens de l'article 4 al. 1 let. e qui sont parvenus à sa connaissance ainsi que les cas de rappel d'impôt au sens des articles 20 al. 2 et 103 al. 3 et 5 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^24-4].
 
-<sup>4</sup> La Direction chargée de l'aménagement du territoire et des constructions[^24-4] communique d'office au Registre foncier compétent les autorisations d'exploitation de la substance d'un immeuble qu'elle délivre.
+<sup>4</sup> La Direction chargée de l'aménagement du territoire et des constructions[^24-5] communique d'office au Registre foncier compétent les autorisations d'exploitation de la substance d'un immeuble qu'elle délivre.
 
 [^24-1]: Actuellement: Direction des finances.
 [^24-2]: Actuellement: Service financier cantonal.
 [^24-3]: Actuellement: Service cantonal des contributions.
-[^24-4]: Actuellement: Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
+[^24-4]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
+[^24-5]: Actuellement: Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 
 #### Art. 25
 
@@ -361,9 +366,11 @@ Dans tous les cas, une déduction ne peut être admise que pour la première par
 
 <sup>2</sup> Pour les transferts immobiliers, ces pièces doivent comprendre ou être accompagnées d'une indication, écrite et revêtue de la signature des parties ou de leurs représentants à l'acte, chiffrant toutes les prestations convenues.
 
-<sup>3</sup> Les parties et leurs représentants à l'acte, l'officier public instrumentant et la commune concernée doivent fournir les indications complémentaires qui leur sont demandées; les articles 142, 149, 159, 160 et 162 de la loi du 6 juin 2000 sur les impôts cantonaux directs sont au surplus applicables.
+<sup>3</sup> Les parties et leurs représentants à l'acte, l'officier public instrumentant et la commune concernée doivent fournir les indications complémentaires qui leur sont demandées; les articles 142, 149, 159, 160 et 162 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^29-1] sont au surplus applicables.
 
 <sup>4</sup> Si les prestations convenues ne sont pas chiffrées ou ne paraissent pas correspondre à la valeur vénale ou réelle, ou si des éléments suffisants font défaut, les Registres fonciers peuvent fixer les droits par appréciation sur la base des données dont ils disposent, au besoin après avoir soumis le cas à une commission d'estimation.
+
+[^29-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 30
 
@@ -465,7 +472,9 @@ Dans tous les cas, une déduction ne peut être admise que pour la première par
 
 **Révision**
 
-<sup>1</sup> Les décisions passées en force peuvent être révisées pour les motifs et selon la procédure prévus par les articles 188, 189 et 190 de la loi du 6 juin 2000 sur les impôts cantonaux directs applicables par analogie.
+<sup>1</sup> Les décisions passées en force peuvent être révisées pour les motifs et selon la procédure prévus par les articles 188, 189 et 190 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^41-1] applicables par analogie.
+
+[^41-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 ## 7 Perception
 
@@ -493,7 +502,9 @@ Dans tous les cas, une déduction ne peut être admise que pour la première par
 
 **Garanties**
 
-<sup>1</sup> Le paiement des droits, des centimes additionnels et de l'intérêt moratoire est garanti par une hypothèque légale (art. 73 LACC).
+<sup>1</sup> Le paiement des droits, des centimes additionnels et de l'intérêt moratoire est garanti par une hypothèque légale (art. 73 LACC[^44-1]).
+
+[^44-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
 
 #### Art. 45
 
@@ -533,11 +544,13 @@ Dans tous les cas, une déduction ne peut être admise que pour la première par
 - b) lorsque les parties ont annulé l'opération soumise à prélèvement et que le débiteur apporte la preuve que les conditions d'une cause légale de nullité ou d'annulabilité sont réunies;
 - c) lorsque la décision en vertu de laquelle il a payé est annulée ou modifiée par suite de réclamation, de recours ou de révision;
 - d) lorsque, par erreur, il a payé ce qu'il ne devait pas ou plus qu'il ne devait;
-- e) lorsque les conditions posées par l'article 86 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite sont remplies.
+- e) lorsque les conditions posées par l'article 86 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^48-1] sont remplies.
 
 <sup>2</sup> La restitution n'a pas lieu lorsqu'il se révèle que l'opération ayant fondé le prélèvement comprend une soustraction commise intentionnellement.
 
 <sup>3</sup> La restitution se fait avec un intérêt calculé dès le jour du paiement à un taux fixé par la Direction.
+
+[^48-1]: RS [281.1](https://db.clex.ch/link/Bund/281.1/fr)
 
 #### Art. 49
 
@@ -631,7 +644,10 @@ Dans tous les cas, une déduction ne peut être admise que pour la première par
 
 <sup>1</sup> L'infraction visée à l'article 58 al. 1 est de la compétence du juge pénal ordinaire.
 
-<sup>2</sup> Les dispositions générales du code pénal suisse et la loi sur la justice sont applicables sous réserve des règles spéciales figurant aux articles 65 et 66.
+<sup>2</sup> Les dispositions générales du code pénal suisse[^59-1] et la loi sur la justice[^59-2] sont applicables sous réserve des règles spéciales figurant aux articles 65 et 66.
+
+[^59-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+[^59-2]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 ## 9 Prescription et péremption
 
@@ -669,7 +685,9 @@ Dans tous les cas, une déduction ne peut être admise que pour la première par
 
 **Droits et centimes additionnels – Suspension et interruption de la prescription**
 
-<sup>1</sup> L'article 151 al. 2 et 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs est applicable par analogie à la suspension et à l'interruption de la prescription.
+<sup>1</sup> L'article 151 al. 2 et 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^64-1] est applicable par analogie à la suspension et à l'interruption de la prescription.
+
+[^64-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 65
 
