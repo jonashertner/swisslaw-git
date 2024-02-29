@@ -1,32 +1,32 @@
 ---
 canton: VS
 number: "916.500"
-title: "Arrêté concernant l'estivage 2023"
+title: "Arrêté concernant l'estivage 2024"
 language: fr
-version: 2023-03-01
-valid_until: 2024-02-29
-version_adopted: 2023-03-14
+version: 2024-03-01
+valid_until: 2025-02-28
+version_adopted: 2024-02-28
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/fr/versions/3200/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3296/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté concernant l'estivage 2023
+# Arrêté concernant l'estivage 2024
 
-du 14.03.2023 (état 01.03.2023)
+du 28.02.2024 (état 01.03.2024)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi fédérale sur les denrées alimentaires et les objets usuels du 20 juin 2014 (Loi sur les denrées alimentaires, LDAI);
+vu la loi fédérale sur les denrées alimentaires et les objets usuels du 20 juin 2014 (loi sur les denrées alimentaires, LDAI);
 
-vu la loi fédérale sur la protection des eaux du 24 janviers 1991 (LEaux);
+vu la loi fédérale sur la protection des eaux du 24 janvier 1991 (LEaux);
 
 vu l'article 32 alinéa 1 de l'ordonnance fédérale sur les épizooties du 27 juin 1995 (OFE);
 
-vu les articles 69, 77, 78 et 101 de l'ordonnance fédérale sur la protection des animaux du 23 avril 2008 (OPAn);
+vu les articles 69, 77, 78 et 101 de l’ordonnance fédérale sur la protection des animaux du 23 avril 2008 (OPAn);
 
 sur la proposition du département en charge de la santé,
 
@@ -35,6 +35,8 @@ arrête:
 ## 1 Généralités
 
 #### Art. 1
+
+**Généralités**
 
 <sup>1</sup> Tous les animaux estivés sur des pâturages ou sur des alpages doivent être sains et indemnes de maladies contagieuses.
 
@@ -158,7 +160,7 @@ arrête:
 - b) la confirmation officielle que le troupeau de provenance est reconnu officiellement indemne de leucose, de tuberculose et de brucellose;
 - c) au cours des 30 derniers jours, les bovins qu'il est prévu d'estiver ont séjourné dans l'exploitation de provenance et ils n'ont pas eu de contact avec des animaux importés;
 - d) nombre d’animaux de l’espèce bovine et identification des animaux (marque auriculaire);
-- e) numéro d’agrément du transporteur (si la distance de transport est supérieure à 50km);
+- e) numéro d’agrément du transporteur (si la distance de transport est supérieure à 50 km);
 - f) adresse de l’exploitation de destination, y compris code d’enregistrement du pâturage; en cas de pacage frontalier en Allemagne, cette rubrique ne doit pas être remplie.
 
 <sup>4</sup> Une convention écrite doit être conclue entre le vétérinaire officiel et le détenteur d'animaux. Dans cette convention, le détenteur d'animaux déclare accepter toutes les mesures prévues et les autres mesures prises au niveau local dans le pays de destination et il s'engage à supporter tous les frais liés au contrôle. La convention doit contenir une disposition stipulant que le détenteur d'animaux est tenu d'informer les autorités étrangères (annonce de l'arrivée des animaux et de la date prévue du retour en Suisse).
@@ -183,7 +185,7 @@ arrête:
 
 <sup>2</sup> Les autorités vétérinaires compétentes procèdent sans tarder à un contrôle vétérinaire officiel des animaux au lieu de destination. Le détenteur d'animaux doit annoncer à temps, à l'autorité vétérinaire étrangère, l'arrivée des animaux sur le lieu de pacage.
 
-<sup>3</sup> Selon la décision 2001/672 CE, les animaux doivent être enregistrés dans la banque de données nationale sur les mouvements d’animaux du pays destination au plus tard 7 jours après la date de montée à l'alpage.
+<sup>3</sup> Selon la décision 2001/672/CE, les animaux doivent être enregistrés dans la banque de données nationale sur les mouvements d’animaux du pays destination au plus tard 7 jours après la date de montée à l'alpage.
 
 <sup>4</sup> Le vétérinaire officiel de l'exploitation d'estivage procède à l’examen des animaux dans les 48 heures avant leur départ et établit un certificat sanitaire pour le retour des animaux du pacage frontalier. A cette fin, il utilisera, pour les bovins, le certificat sanitaire pour l'estivage reproduit dans le système TRACES. Le détenteur suisse des animaux doit demander le certificat requis et annoncer à temps à l'autorité étrangère la date du retour des animaux en Suisse. Le certificat sanitaire pour le retour des bovins du pacage frontalier doit comporter les données suivantes:
 
@@ -378,7 +380,7 @@ arrête:
 
 <sup>2</sup> L’aire de traite mobile doit être située en dehors des zones de protection des eaux S. En zone S3, elle peut être autorisée au cas par cas par l'autorité compétente avec un sol imperméabilisé et les eaux évacuées dans un réservoir à lisier.
 
-<sup>3</sup> La distance jusqu'aux eaux superficielles doit être de 20 mètres au minimum. Il convient d'augmenter cette distance ou de renoncer à la place en cas de situation particulièrement défavorable (écoulements dirigés).
+<sup>3</sup> La distance entre le poste de traite pour la salle de traite mobile et les jusqu'aux eaux superficielles doit être de 20 mètres au minimum. Il convient d'augmenter cette distance ou de renoncer à la place en cas de situation particulièrement défavorable (écoulements dirigés).
 
 #### Art. 29
 
@@ -417,4 +419,4 @@ arrête:
 
 <sup>3</sup> Le vétérinaire cantonal de même que le chimiste cantonal (section 7) sont chargés de l’exécution des présentes prescriptions. Ils sont autorisés à prendre d’urgence les mesures qu’ils jugeront utiles en vue de l'exécution du présent arrêté.
 
-RCV RO/AGS 2023-036
+RCV RO/AGS 2024-026

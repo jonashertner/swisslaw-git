@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "916.500"
-title: Beschluss über die Sömmerung 2023
+title: Beschluss über die Sömmerung 2024
 language: de
-version: 2023-03-01
-valid_until: 2024-02-29
-version_adopted: 2023-03-14
+version: 2024-03-01
+valid_until: 2025-02-28
+version_adopted: 2024-02-28
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/de/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/de/versions/3200/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Sömmerung 2023
+# Beschluss über die Sömmerung 2024
 
-vom 14.03.2023 (Stand 01.03.2023)
+vom 28.02.2024 (Stand 01.03.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -36,13 +36,15 @@ beschliesst:
 
 #### Art. 1
 
+**Allgemeines**
+
 <sup>1</sup> Alle Tiere, welche zum Zweck der Sömmerung auf Weiden und Alpen getrieben werden, müssen gesund und frei von ansteckenden Krankheiten sein.
 
 <sup>2</sup> Tiere, die mit Fahrzeugen ins Sömmerungsgebiet gebracht werden, dürfen nicht mit Schlacht- oder Handelsvieh zusammen befördert werden. Der Transport darf nur in gereinigten und desinfizierten Tiertransportfahrzeugen erfolgen.
 
 <sup>3</sup> Die auf der Alp verantwortlichen Tierhalter oder Tierhalterinnen sowie das weitere Alppersonal sind verpflichtet, die Sömmerungstiere gewissenhaft und im Rahmen des Möglichen täglich zu beobachten und beim geringsten Krankheitsverdacht den zuständigen Tierarzt beizuziehen.
 
-<sup>4</sup> Die Sömmerung beginnt am 15. Mai und endet am 15. Oktober. Der Kantonstierarzt kann auf schriftliches und begründetes Gesuch hin die Erlaubnis für eine Sömmerungsdauer bis am 30. Oktober erteilen. Wenn sich Tiere über diesem Datum hinaus auf der Sommerweide befinden und von extremen Wetterbedingungen bedroht sein sollten, müssen sie sofort von ihrem Besitzer wegtransportiert und geschützt werden. Ist letzterer nicht bekannt oder ist er nicht handlungsfähig, ist die Gemeinde dafür verantwortlich, alle notwendigen Massnahmen gemäss Artikel 15 Absatz 2 des Ausführungsgesetzes zum eidgenössischen Tierschutzgesetz (AGTSchG) zu ergreifen. Sie kann sich letztlich an den Wildhüter wenden, der nach positiver Vormeinung des Kantonstierarztes die betroffenen Tiere abschiessen kann.
+<sup>4</sup> Die Sömmerung beginnt am 15. Mai und endet am 15. Oktober. Der Kantonstierarzt kann auf schriftliches und begründetes Gesuch hin die Erlaubnis für eine Sömmerungsdauer bis am 30. Oktober erteilen. Wenn sich Tiere über dieses Datum hinaus auf der Sommerweide befinden sollten und von extremen Wetterbedingungen bedroht sein sollten, müssten sie sofort von ihrem Besitzer entalpt und in einen Unterstand gebracht werden. Ist letzterer nicht bekannt oder ist er nicht handlungsfähig, ist die Gemeinde dafür verantwortlich, alle notwendigen Massnahmen gemäss Artikel 15 Absatz 2 des Ausführungsgesetzes zum eidgenössischen Tierschutzgesetz (AGTSchG) zu ergreifen. Sie kann sich letztlich an den Wildhüter wenden, der nach positiver Vormeinung des Kantonstierarztes die betroffenen Tiere erschiessen kann.
 
 <sup>5</sup> Aufzeichnungspflicht für Tierarzneimittel: Gemäss der Tierarzneimittelverordnung (TAMV) gilt die Aufzeichnungspflicht für fast alle Tierarzneimittel, die bei den Nutztieren angewendet werden (alle verschreibungspflichtigen Tierarzneimittel, alle Tierarzneimittel mit Absetzfristen, umgewidmete oder eingeführte Tierarzneimittel, nicht zulassungspflichtige, nach formula magistralis hergestellte Tierarzneimittel). Werden auf der Alp Tierarzneimittel verabreicht, so müssen folgende Aufzeichnungen in einem Behandlungsjournal vorgenommen werden:
 
@@ -55,7 +57,7 @@ beschliesst:
 - g) die Daten der Freigabe der verschiedenen vom Nutztier gewonnenen Lebensmittel;
 - h) der Name der abgabeberechtigten Person, die das Tierarzneimittel verschrieben, abgegeben oder verabreicht hat.
 
-<sup>6</sup> Werden Medikamente auf Vorrat bezogen, muss mit dem Tierarzt eine Tierarzneimittelvereinbarung abgeschlossen werden. Wird eine Tierarzneimittelvereinbarung abgeschlossen, muss der Tierarzt im Sömmerungsbetrieb während der Sömmerungsperiode mindestens einen Betriebsbesuch durchführen (Art. 10 Anhang 1 TAMV). Bei Medikamenten, die auf Vorrat bezogen oder zurückgegeben werden, müssen folgende Aufzeichnungen in einer Inventarliste vorgenommen werden:
+<sup>6</sup> Werden Medikamente auf Vorrat bezogen, muss mit dem Tierarzt eine Tierarzneimittelvereinbarung abgeschlossen werden. Wird eine Tierarzneimittelvereinbarung abgeschlossen, muss der Tierarzt im Sömmerungsbetrieb während der Sömmerungsperiode mindestens einen Betriebsbesuch durchführen (Art. 10 und Anhang 1 TAMV). Bei Medikamenten, die auf Vorrat bezogen oder zurückgegeben werden, müssen folgende Aufzeichnungen in einer Inventarliste vorgenommen werden:
 
 - a) das Datum der Übergabe;
 - b) der Handelsname;
@@ -79,6 +81,8 @@ beschliesst:
 ## 2 Tierverkehrskontrolle
 
 #### Art. 3
+
+**Grundsatz**
 
 <sup>1</sup> Für die Sömmerung gelten grundsätzlich alle Gesetze, Verordnungen und Weisungen wie für den übrigen Tierverkehr. Die nachfolgenden Punkte sind besonders zu beachten.
 
@@ -188,7 +192,7 @@ beschliesst:
 - a) Datum des Abtransportes;
 - b) Anzahl der Rinder und Kennzeichnung (Nummer der Ohrmarke);
 - c) Anschrift des Bestimmungsbetriebes;
-- d) Zulassungsnummer des Transportunternehmens (bei Transportstrecken über 50km);
+- d) Zulassungsnummer des Transportunternehmens (bei Transportstrecken über 50 km);
 - e) Bestätigung des Amtstierarztes, die Rinder innerhalb von 48 Stunden vor der Rückkehr in den Heimatbetrieb untersucht und frei von Anzeichen einer Infektionskrankheit befunden zu haben;
 - f) Bestätigung des Amtstierarztes, dass die Sömmerungsweide nicht wegen einer Rinderkrankheit gesperrt werden musste oder während der Weidezeit ein Tuberkulose-, Brucellose- oder Leukosefall aufgetreten ist.
 
@@ -317,7 +321,7 @@ beschliesst:
 - a) dem kantonalen Herdenschutzbeauftragten (DLW, Landwirtschaftszentrum Visp);
 - b) einem Vertreter des Veterinäramtes (Vetamt, Dienststelle für Verbraucherschutz und Veterinärwesen, DVSV);
 - c) einem Vertreter der Dienststelle für Jagd, Fischerei und Wildtiere (DJFW);
-- d) ein Vertreter der Vereinigung «Walliser Wanderwege» (Valrando).
+- d) ein Vertreter der Vereinigung "Walliser Wanderwege" (Valrando).
 
 <sup>6</sup> Vorfälle, die durch geprüfte, im Sinne von Absatz 2, Nutzhunde verursacht werden, werden vom Vetamt nach Artikel 39 AGTSchG behandelt. In diesen Fällen ist der Halter nach Artikel 77 TSchV dafür verantwortlich, dass sein Hund weder Menschen noch Tiere gefährdet.
 
@@ -376,7 +380,7 @@ beschliesst:
 
 <sup>2</sup> Der Melkplatz muss sich ausserhalb von Gewässerschutzzonen S befinden. In der Gewässerschutzzone S3 kann das Aufstellen eines mobilen Melkstandes von Fall zu Fall von der zuständigen Behörde bewilligt werden, wenn der Boden undurchlässig ist, und die Abwasser in einer Güllengrube gesammelt werden.
 
-<sup>3</sup> Der Abstand des Melkplatzes für den mobilen Melkstand zu Oberflächengewässern muss mindestens 20 Meter betragen. Bei sehr ungünstigen Bedingungen muss der Abstand erhöht oder die Anlage verlegt werden.
+<sup>3</sup> Der Abstand des Melkplatzes für den mobilen Melkstand zu Oberflächengewässern muss mindestens 20 Meter betragen. Bei sehr ungünstigen Bedingungen muss der Abstand erhöht oder die Anlage verlegt werden (gerichtete Abflüsse).
 
 #### Art. 29
 
@@ -415,4 +419,4 @@ beschliesst:
 
 <sup>3</sup> Der Kantonstierarzt sowie der Kantonschemiker (Abschnitt 7) sind mit der Ausführung der vorliegenden Vorschriften beauftragt. Sie sind ermächtigt, in Dringlichkeitsfällen, alle ihnen notwendig erscheinenden Massnahmen zur Ausführung dieses Beschlusses zu treffen.
 
-CSW RO/AGS 2023-036
+CSW RO/AGS 2024-026
