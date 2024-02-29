@@ -4,13 +4,13 @@ number: "214.5.1"
 title: Loi sur le registre foncier
 short: LRF
 language: fr
-version: 2016-01-01
-valid_until: 2024-02-29
-version_adopted: 2015-03-17
+version: 2024-03-01
+valid_until: 2025-11-30
+version_adopted: 2023-11-24
 adopted: 1986-02-28
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/214.5.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6373/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7949/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Registre foncier – L
 
 (LRF)
 
-du 28.02.1986 (version entrée en vigueur le 01.01.2016)
+du 28.02.1986 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -277,13 +277,13 @@ Décrète:
 
 **Commission de reconnaissance**
 
-<sup>1</sup> Les reconnaissances sont effectuées par le conservateur ou la conservatrice, en présence du ou de la géomètre adjudicataire et de la personne déléguée par le conseil communal.
+<sup>1</sup> Les reconnaissances sont effectuées par le conservateur ou la conservatrice, en présence de l'ingénieur-e géomètre adjudicataire et de la personne déléguée par le conseil communal.
 
-<sup>2</sup> Exceptionnellement et avec l'accord du service spécialisé en matière de mensuration officielle[^24-1], le ou la géomètre peut se faire représenter.
+<sup>2</sup> Exceptionnellement et avec l'accord du service spécialisé en matière de géoinformation[^24-1], l'ingénieur-e géomètre adjudicataire peut se faire représenter.
 
-<sup>3</sup> Dans les cas simples ou lorsque le registre foncier fédéral est introduit sans premier relevé préalable, le conservateur ou la conservatrice dispense le ou la géomètre et la personne déléguée par la commune de participer aux séances.
+<sup>3</sup> Dans les cas simples ou lorsque le registre foncier fédéral est introduit sans premier relevé préalable, le conservateur ou la conservatrice dispense l'ingénieur-e géomètre adjudicataire et la personne déléguée par la commune de participer aux séances.
 
-[^24-1]: Actuellement: Service du cadastre et de la géomatique.
+[^24-1]: Actuellement: Service de la géoinformation.
 
 #### Art. 25
 
@@ -317,7 +317,7 @@ Décrète:
 
 - a) toutes les fiches du cadastre transitoire ont été soumises à la procédure de reconnaissance, en particulier que toutes les personnes qui devaient être convoquées l'ont été régulièrement,
 - b) tous les consentements nécessaires au sens de l'article 20 ont été obtenus, notamment ceux des titulaires de droits de gage et de servitudes personnelles,
-- c) le ou la géomètre a opéré sur les documents cadastraux les modifications survenues lors des reconnaissances, et
+- c) l'ingénieur-e géomètre adjudicataire a opéré sur les documents cadastraux les modifications survenues lors des reconnaissances, et
 - d) il n'y a plus de cas en suspens.
 
 <sup>2</sup> La décision est contresignée par les autres membres de la commission de reconnaissance.
@@ -433,12 +433,12 @@ Décrète:
 
 **Frais**
 
-<sup>1</sup> Les frais relatifs à l'établissement du registre foncier fédéral sont supportés par l'Etat, sous réserve
+<sup>1</sup> Les frais relatifs à l'établissement du registre foncier fédéral sont supportés par l'Etat, sous réserve:
 
 - a) des frais liés à la présence de la personne déléguée par la commune aux séances de reconnaissances, qui sont supportés par la commune,
 - b) des frais d'établissement d'actes ou de plans, qui sont supportés par les bénéficiaires,
 - c) des frais d'établissement des titres hypothécaires et de mise à jour des actes hypothécaires, qui sont supportés par les titulaires des droits de gage, et
-- d) lorsque le registre foncier fédéral est établi en relation avec l'exécution d'un premier relevé, des frais liés à la présence du ou de la géomètre aux séances de reconnaissances, qui sont inclus dans la répartition des frais prévue dans la législation sur la mensuration officielle.
+- d) lorsque le registre foncier fédéral est établi en relation avec l'exécution d'un premier relevé, des frais liés à la présence de l'ingénieur-e géomètre adjudicataire aux séances de reconnaissances, qui sont inclus dans la répartition des frais prévue dans la législation sur la mensuration officielle.
 
 ### 2.2 Procédure après remaniement parcellaire
 
@@ -712,7 +712,7 @@ Décrète:
 <sup>2</sup> Ne sont pas publiées, outre les acquisitions faites par voie de succession,
 
 - a) les acquisitions de biens-fonds non bâtis d'une surface inférieure à 50 m² pour les terrains à bâtir et à 1000 m² pour les autres terrains,
-- b) les acquisitions de biens-fonds opérées en vertu d'actes authentiques instrumentés par les géomètres ou les conservateurs ou conservatrices, et
+- b) les acquisitions de biens-fonds opérées en vertu d'actes authentiques instrumentés par les ingénieur‑e‑s géomètres officiels ou les conservateurs ou conservatrices, et
 - c) les acquisitions de parts de copropriété ou de propriété par étages d'importance minime, notamment lorsque ces parts ne confèrent à leur titulaire que l'utilisation d'une place de stationnement, d'un garage, d'une cave ou d'un local analogue.
 
 #### Art. 59b
@@ -759,7 +759,7 @@ Décrète:
 
 <sup>1</sup> A titre exceptionnel, le conservateur ou la conservatrice peut exiger la production d'une copie vidimée des pièces annexées à la minute (procurations, autorisations, etc.).
 
-<sup>2</sup> Lorsque l'acte dont l'inscription est requise emporte modification, division ou réunion de biens-fonds, ou immatriculation ou modification d'un droit distinct et permanent de superficie sur un immeuble, le verbal établi conformément à la législation sur la mensuration officielle est joint à l'expédition destinée au Service.
+<sup>2</sup> Lorsque l'acte dont l'inscription est requise emporte modification, division ou réunion de biens-fonds, ou immatriculation ou modification d'un droit distinct et permanent de superficie sur un immeuble, le verbal de mutation foncière établi conformément à la législation sur la mensuration officielle est joint à l'expédition destinée au Service.
 
 <sup>3</sup> Les réquisitions, autorisations et autres déclarations faites par les autorités doivent être signées et munies des sceaux officiels.
 
@@ -794,7 +794,7 @@ Décrète:
 <sup>1</sup> La personne qui recourt peut agir personnellement ou se faire représenter par:
 
 - a) les notaires ou les personnes autorisées à exercer la profession d'avocat dans le canton, ou
-- b) les géomètres officiels qui ont instrumenté les actes dont les réquisitions d'inscription ont été rejetées ou déclarées irrecevables.
+- b) les ingénieur-e-s géomètres officiels qui ont instrumenté les actes dont les réquisitions d'inscription ont été rejetées ou déclarées irrecevables.
 
 <sup>2</sup> La personne mandataire justifie de ses pouvoirs par une procuration écrite, qui est jointe au recours; à défaut, le membre de l'Autorité de surveillance délégué à l'instruction de la cause (ci-après: la personne déléguée à l'instruction) lui fixe un bref délai pour produire une procuration, sous peine d'irrecevabilité.
 

@@ -4,13 +4,13 @@ number: "214.5.1"
 title: Gesetz über das Grundbuch
 short: GBG
 language: de
-version: 2016-01-01
-valid_until: 2024-02-29
-version_adopted: 2015-03-17
+version: 2024-03-01
+valid_until: 2025-11-30
+version_adopted: 2023-11-24
 adopted: 1986-02-28
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/214.5.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6373/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7949/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Grundbuch – G
 
 (GBG)
 
-vom 28.02.1986 (Fassung in Kraft getreten am 01.01.2016)
+vom 28.02.1986 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -275,13 +275,13 @@ beschliesst:
 
 **Anerkennungskommission**
 
-<sup>1</sup> Die Anerkennungen werden von der Grundbuchverwalterin oder vom Grundbuchverwalter durchgeführt. Die beauftragte Geometerin oder der beauftragte Geometer und eine vom Gemeinderat delegierte Person sind ebenfalls anwesend.
+<sup>1</sup> Die Anerkennungen werden von der Grundbuchverwalterin oder vom Grundbuchverwalter durchgeführt. Die beauftragte Ingenieur-Geometerin oder der beauftragte Ingenieur-Geometer und eine vom Gemeinderat delegierte Person sind ebenfalls anwesend.
 
-<sup>2</sup> Ausnahmsweise und mit dem Einverständnis des Amtes, das für die amtliche Vermessung zuständig ist[^24-1], kann sich die Geometerin oder der Geometer vertreten lassen.
+<sup>2</sup> Ausnahmsweise und mit dem Einverständnis des Amtes, das für die Geoinformation zuständig ist[^24-1], kann sich die beauftragte Ingenieur-Geometerin oder der beauftragte Ingenieur-Geometer vertreten lassen.
 
-<sup>3</sup> In einfachen Fällen und wenn das eidgenössische Grundbuch ohne vorherige neue Ersterhebung eingeführt wird, kann die Grundbuchverwalterin oder der Grundbuchverwalter die Geometerin oder den Geometer sowie die von der Gemeinde delegierte Person von der Teilnahme an den Anerkennungssitzungen dispensieren.
+<sup>3</sup> In einfachen Fällen und wenn das eidgenössische Grundbuch ohne vorherige neue Ersterhebung eingeführt wird, kann die Grundbuchverwalterin oder der Grundbuchverwalter die beauftragte Ingenieur-Geometerin oder den beauftragten Ingenieur-Geometer und die von der Gemeinde delegierte Person von der Teilnahme an den Anerkennungssitzungen dispensieren.
 
-[^24-1]: Heute: Amt für Vermessung und Geomatik.
+[^24-1]: Heute: Amt für Geoinformation.
 
 #### Art. 25
 
@@ -315,7 +315,7 @@ beschliesst:
 
 - a) alle Blätter des Übergangskatasters Gegenstand des Anerkennungsverfahrens waren, und alle Betroffenen ordnungsgemäss vorgeladen wurden,
 - b) alle notwendigen Zustimmungen gemäss Artikel 20 eingeholt wurden, insbesondere die der Grundpfandgläubigerinnen und Grundpfandgläubiger und der Berechtigten von Personaldienstbarkeiten,
-- c) die Geometerin oder der Geometer auf den Vermessungsdokumenten alle Änderungen nachgeführt hat, die während den Anerkennungen vorgenommen wurden, und
+- c) die beauftragte Ingenieur-Geometerin oder der beauftragte Ingenieur-Geometer auf den Vermessungsdokumenten alle Änderungen nachgeführt hat, die während den Anerkennungen vorgenommen wurden, und
 - d) keine Fälle mehr hängig sind.
 
 <sup>2</sup> Die Schlussverfügung wird von den übrigen Mitgliedern der Anerkennungskommission gegengezeichnet.
@@ -436,7 +436,7 @@ beschliesst:
 - a) die Anwesenheit der Person, die die Gemeinde an den Anerkennungssitzungen vertritt; diese werden von der Gemeinde übernommen,
 - b) die Ausfertigung von Urkunden oder Plänen; diese werden von den Begünstigten übernommen,
 - c) die Nachführung und Neuausfertigung der Grundpfandtitel und Grundpfandverschreibungen; diese werden von den Grundpfandgläubigerinnen und Grundpfandgläubigern übernommen, und
-- d) die Anwesenheit der Geometerin oder des Geometers an den Anerkennungssitzungen für die Anlegung des eidgenössischen Grundbuches im Zusammenhang mit der neuen Ersterhebung; diese sind in der Kostenverteilung gemäss Gesetzgebung über die amtliche Vermessung inbegriffen.
+- d) die Anwesenheit der beauftragten Ingenieur-Geometerin oder des beauftragten Ingenieur-Geometers an den Anerkennungssitzungen für die Anlegung des eidgenössischen Grundbuches im Zusammenhang mit der neuen Ersterhebung; diese sind in der Kostenverteilung gemäss Gesetzgebung über die amtliche Vermessung inbegriffen.
 
 ### 2.2 Verfahren nach erfolgter Güterzusammenlegung
 
@@ -710,7 +710,7 @@ beschliesst:
 <sup>2</sup> Nicht veröffentlicht werden, nebst den Erwerbsgeschäften aus Erbschaften:
 
 - a) der Erwerb von nicht bebauten Liegenschaften von weniger als 50 m² bei Bauland und weniger als 1000 m² bei anderem Land;
-- b) der Erwerb von Liegenschaften, der von der Geometerin oder vom Geometer beziehungsweise von der Grundbuchverwalterin oder vom Grundbuchverwalter beurkundet wird;
+- b) der Erwerb von Liegenschaften, der von der amtlichen Ingenieur-Geometerin oder vom amtlichen Ingenieur-Geometer beziehungsweise von der Grundbuchverwalterin oder vom Grundbuchverwalter beurkundet wird;
 - c) der Erwerb von Miteigentumsanteilen oder Stockwerkeigentum von geringer Bedeutung, insbesondere wenn diese der Inhaberin oder dem Inhaber nur die Nutzung eines Parkplatzes, einer Garage, eines Kellers oder eines ähnlichen Lokals einräumen.
 
 #### Art. 59b
@@ -757,7 +757,7 @@ beschliesst:
 
 <sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter kann in Ausnahmefällen beglaubigte Kopien von Beilagen zu Urkunden verlangen (Vollmachten, Ermächtigungen usw.).
 
-<sup>2</sup> Werden durch Urkunden Liegenschaften abgeändert, geteilt oder vereinigt oder wird ein selbständiges und dauerndes Baurecht auf einem Grundstück aufgenommen oder abgeändert, so ist der für das Amt bestimmten Ausfertigung ein Verbal beizulegen; dieses muss gemäss der Gesetzgebung über die amtliche Vermessung erstellt werden.
+<sup>2</sup> Werden durch Urkunden Liegenschaften abgeändert, geteilt oder vereinigt oder wird ein selbständiges und dauerndes Baurecht auf einem Grundstück aufgenommen oder abgeändert, so ist der für das Amt bestimmten Ausfertigung ein Grenzmutationsverbal beizulegen; dieses muss gemäss der Gesetzgebung über die amtliche Vermessung erstellt werden.
 
 <sup>3</sup> Begehren, Ermächtigungen und andere Erklärungen von Behörden sind mit Unterschriften und Amtsstempeln zu versehen.
 
@@ -792,7 +792,7 @@ beschliesst:
 <sup>1</sup> Die Beschwerde führende Person kann selbst Beschwerde einreichen oder sich vertreten lassen von:
 
 - a) einer Notarin oder einem Notar oder einer zur Ausübung des Anwaltsberufs im Kanton befugten Person, oder
-- b) einer amtlichen Geometerin oder einem amtlichen Geometer, wenn diese oder dieser eine für unzulässig erklärte oder abgewiesene Urkunde ausgefertigt hat.
+- b) einer amtlichen Ingenieur-Geometerin oder einem amtlichen Ingenieur-Geometer, wenn diese oder dieser eine für unzulässig erklärte oder abgewiesene Urkunde ausgefertigt hat.
 
 <sup>2</sup> Die beauftragte Person weist sich über ihre Befugnisse mit einer schriftlichen Vollmacht aus, die mit der Beschwerde einzureichen ist. Weist sie sich nicht durch Vollmacht aus, so setzt ihr das mit der Abklärung beauftragte Mitglied der Aufsichtsbehörde (die mit der Abklärung beauftragte Person) unter Androhung der Verwirkung eine kurze Frist, die Vollmacht nachzureichen.
 
