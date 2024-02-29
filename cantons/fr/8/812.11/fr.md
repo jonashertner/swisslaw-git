@@ -4,13 +4,12 @@ number: "812.11"
 title: Règlement sur les eaux
 short: RCEaux
 language: fr
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2022-12-20
+version: 2024-03-01
+version_adopted: 2024-03-08
 adopted: 2011-06-21
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/812.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7703/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7992/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Eaux – R
 
 (RCEaux)
 
-du 21.06.2011 (version entrée en vigueur le 01.01.2023)
+du 21.06.2011 (version entrée en vigueur le 01.03.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -80,7 +79,7 @@ Arrête:
 
 <sup>4</sup> Il établit et tient à jour les secteurs de protection des eaux (art.15 LCEaux).
 
-<sup>4<sup>bis</sup></sup> Il délimite l'espace réservé aux eaux (espace minimal nécessaire aux cours d'eau, art. 25 LCEaux).
+<sup>4<sup>bis</sup></sup> Il délimite l'espace réservé aux eaux (art. 25 LCEaux).
 
 <sup>5</sup> Il est chargé de la police de la protection des eaux (art. 49 LEaux), en collaboration avec d'autres organes.
 
@@ -229,6 +228,12 @@ Arrête:
 <sup>1</sup> Le programme d'équipement (art. 42 LATeC) intègre les exigences du PGEE (art. 12 al. 2 LCEaux).
 
 <sup>2</sup> Lors de chaque modification du plan d'aménagement local ayant une incidence sur la protection des eaux, le PGEE doit être simultanément adapté.
+
+#### Art. 16a
+
+**Mise en œuvre du plan général d'évacuation des eaux (PGEE) (art. 12 al. 1 LCEaux) – Contenu du PGEE et transmission**
+
+<sup>1</sup> Le Service édicte des directives qui précisent les données et les documents que doit contenir le PGEE, ainsi que leur représentation, leur forme et leur mode de transmission.
 
 #### Art. 17
 
@@ -605,7 +610,7 @@ Arrête:
 
 **Espace réservé aux eaux (art. 36a LEaux)**
 
-<sup>1</sup> L'espace réservé aux eaux (espace minimal nécessaire aux cours d'eau selon art. 25 LCEaux) est garanti de manière différenciée selon l'affectation préexistante des surfaces concernées:
+<sup>1</sup> L'espace réservé aux eaux est garanti de manière différenciée selon l'affectation préexistante des surfaces concernées:
 
 - a) lorsque des terres adjacentes à l'espace réservé aux eaux sont nouvellement affectées à la zone à bâtir, l'espace réservé aux eaux est classé en zone protégée;
 - b) dans les autres cas, l'espace réservé aux eaux est garanti par une limite de construction, qui se superpose à la zone d'affectation préexistante (mesures particulières de protection selon art. 25 al. 4 LCEaux).

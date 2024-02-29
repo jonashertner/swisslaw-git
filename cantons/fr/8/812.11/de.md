@@ -4,13 +4,12 @@ number: "812.11"
 title: Gewässerreglement
 short: GewR
 language: de
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2022-12-20
+version: 2024-03-01
+version_adopted: 2024-03-08
 adopted: 2011-06-21
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/812.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7703/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7992/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gewässerreglement
 
 (GewR)
 
-vom 21.06.2011 (Fassung in Kraft getreten am 01.01.2023)
+vom 21.06.2011 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -80,7 +79,7 @@ beschliesst:
 
 <sup>4</sup> Es unterteilt das kantonale Gebiet in Gewässerschutzbereiche und hält diese Unterteilung auf dem neuesten Stand (Art. 15 GewG).
 
-<sup>4<sup>bis</sup></sup> Es legt den Gewässerraum fest (minimaler Raumbedarf der Fliessgewässer nach Artikel 25 GewG).
+<sup>4<sup>bis</sup></sup> Es legt den Gewässerraum fest (Art. 25 GewG).
 
 <sup>5</sup> Es ist in Zusammenarbeit mit anderen Stellen für die Gewässerschutzpolizei (Art. 49 GSchG) zuständig.
 
@@ -229,6 +228,12 @@ beschliesst:
 <sup>1</sup> Das Erschliessungsprogramm (Art. 42 RPBG) integriert die Vorgaben des GEP (Art. 12 Abs. 2 GewG).
 
 <sup>2</sup> Bei Änderungen des Ortsplans, die Auswirkungen auf den Gewässerschutz haben, wird der GEP gleichzeitig angepasst.
+
+#### Art. 16a
+
+**Umsetzung des generellen Entwässerungsplans (GEP) (Art. 12 Abs. 1 GewG) – Inhalt des GEP und Übermittlung**
+
+<sup>1</sup> Das Amt erlässt Richtlinien zu den Daten und Dokumenten, die der GEP enthalten muss, sowie zu deren Darstellung, Form und Art der Übermittlung.
 
 #### Art. 17
 
@@ -605,7 +610,7 @@ beschliesst:
 
 **Gewässerraum (Art. 36a GSchG)**
 
-<sup>1</sup> Der Gewässerraum (entspricht dem minimalen Raumbedarf von Fliessgewässern nach Art. 25 GewG) wird je nach der bestehenden Nutzung der betroffenen Grundstücke unterschiedlich geschützt:
+<sup>1</sup> Der Gewässerraum wird je nach der bestehenden Nutzung der betroffenen Grundstücke unterschiedlich geschützt:
 
 - a) Wurden die an den Gewässerraum angrenzenden Grundstücke neu als Bauzone ausgeschieden, so wird der Gewässerraum der Schutzzone zugeteilt.
 - b) Andernfalls wird der Gewässerraum über einen minimalen Bauabstand geschützt, der in die bestehende Zone hineinreicht (besondere Schutzmassnahmen nach Art. 25 Abs. 4 GewG).
