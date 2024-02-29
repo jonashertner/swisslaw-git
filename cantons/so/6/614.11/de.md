@@ -4,13 +4,13 @@ number: "614.11"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
+version: 2024-03-01
+valid_until: 2024-12-31
 version_adopted: 2024-09-03
 adopted: 1985-12-01
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.11"
-pdf: "https://bgs.so.ch/api/de/versions/5502/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5503/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5502/pdf_file"
 
 (Steuergesetz)
 
-Vom 01.12.1985 (Stand 01.01.2024)
+Vom 01.12.1985 (Stand 01.03.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -1266,7 +1266,7 @@ beschliesst:
 <sup>1</sup> Als juristische Personen werden besteuert
 
 - a) die Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften und Gesellschaften mit beschränkter Haftung) und die Genossenschaften. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG[^84-1] werden als Kapitalgesellschaften besteuert;
-- b) die Vereine, die Stiftungen und die übrigen juristischen Personen. Den übrigen juristischen Personen sind die kollektiven Kapitalanlagen mit direktem Grundbesitz gemäss Artikel 58 KAG gleichgestellt.
+- b) die Vereine, die Stiftungen und die übrigen juristischen Personen. Den übrigen juristischen Personen sind die kollektiven Kapitalanlagen mit direktem Grundbesitz gemäss Artikel 58 oder 118a KAG gleichgestellt.
 
 <sup>2</sup> Ausländische juristische Personen sowie die nach § 17 steuerpflichtigen ausländischen Handelsgesellschaften und Personengesamtheiten werden den inländischen juristischen Personen gleichgestellt, denen sie rechtlich und tatsächlich am ähnlichsten sind.
 
