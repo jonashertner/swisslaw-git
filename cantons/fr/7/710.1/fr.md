@@ -4,13 +4,13 @@ number: "710.1"
 title: "Loi sur l'aménagement du territoire et les constructions"
 short: LATeC
 language: fr
-version: 2023-10-01
-valid_until: 2024-02-29
-version_adopted: 2023-08-25
+version: 2024-03-01
+valid_until: 2026-09-30
+version_adopted: 2023-11-24
 adopted: 2008-12-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7946/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7954/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aménagement du territoire et constructions – L
 
 (LATeC)
 
-du 02.12.2008 (version entrée en vigueur le 01.10.2023)
+du 02.12.2008 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1160,27 +1160,27 @@ Décrète:
 
 <sup>3</sup> Si le droit à l'équipement est reconnu définitivement, le requérant ou la requérante peut équiper les terrains, selon le permis octroyé ou les plans approuvés par l'autorité compétente, ou faire l'avance des frais d'équipement. La part de la commune est exigible dès le moment où les installations d'équipement sont réalisées.
 
-### 2.6 Remaniement de terrains à bâtir et régularisation de limites
+### 2.6 Remaniement de terrains à bâtir et modification de limites
 
 #### Art. 105
 
 **But**
 
-<sup>1</sup> Le remaniement de terrains à bâtir et la régularisation de limites doivent permettre de faire correspondre le parcellaire existant au plan d'aménagement local, de sorte que les immeubles se prêtent à une utilisation rationnelle et conforme au droit, du point de vue de leur situation, de leur forme et de leur grandeur.
+<sup>1</sup> Le remaniement de terrains à bâtir et la modification de limites doivent permettre de faire correspondre le parcellaire existant au plan d'aménagement local, de sorte que les immeubles se prêtent à une utilisation rationnelle et conforme au droit, du point de vue de leur situation, de leur forme et de leur grandeur.
 
 <sup>2</sup> En plus de la formation de parcelles aptes à la construction, le remaniement de terrains à bâtir peut servir à la restructuration et à l'assainissement d'un quartier, à la réservation de terrains et droits nécessaires aux équipements de quartier et autres ouvrages d'intérêt général ainsi qu'à la réalisation des équipements.
 
-<sup>3</sup> Les transferts de propriété imposés par le remaniement ou la régularisation de limites sont exonérés des droits de mutation.
+<sup>3</sup> Les transferts de propriété imposés par le remaniement ou la modification de limites sont exonérés des droits de mutation.
 
 #### Art. 106
 
-**Groupement volontaire de parcelles et régularisation de limites volontaire**
+**Groupement volontaire de parcelles et modification de limites volontaire**
 
-<sup>1</sup> Plusieurs propriétaires peuvent convenir par écrit de procéder à un groupement de parcelles ou à une régularisation de limites. Ils désignent un ou une géomètre breveté-e et, au besoin, la direction de l'entreprise et des experts ou expertes.
+<sup>1</sup> Plusieurs propriétaires peuvent convenir par écrit de procéder à un groupement de parcelles ou à une modification de limites. Ils désignent un ou une ingénieur‑e géomètre breveté‑e et, au besoin, la direction de l'entreprise et des experts ou expertes.
 
-<sup>2</sup> Les géomètres ne peuvent recevoir des actes authentiques relatifs aux transferts de propriété dans les formes prévues par la législation sur la mensuration officielle que s'ils ont la qualité de géomètres officiels au sens de cette même législation.
+<sup>2</sup> Les ingénieur‑e‑s géomètres officiels peuvent recevoir des actes authentiques relatifs aux transferts de propriété dans les formes prévues par la législation sur la mensuration officielle.
 
-<sup>3</sup> Avant de faire la réquisition d'inscription, le ou la géomètre soumet ces actes à l'approbation de la Direction.
+<sup>3</sup> Avant de faire la réquisition d'inscription, l'ingénieur‑e géomètre officiel‑le soumet ces actes à l'approbation de la Direction.
 
 #### Art. 107
 
@@ -1212,7 +1212,7 @@ Décrète:
 
 <sup>1</sup> Le plan de remaniement, comprenant le périmètre, l'ancien état et l'estimation des immeubles et des droits réels, la répartition des nouvelles parcelles, les compensations en espèces et les indemnisations, l'ancien et le nouvel état des servitudes et des charges foncières ainsi que la clef de répartition des frais, est mis à l'enquête durant trente jours pour que les intéressés puissent en prendre connaissance. Les propriétaires et les titulaires de droits réels supprimés ou modifiés doivent en être informés. Pendant le délai d'enquête, toute personne intéressée peut formuler une opposition écrite et motivée à la commission de classification.
 
-<sup>2</sup> A l'issue de la procédure d'enquête relative au nouvel état des propriétés et des servitudes, le ou la géomètre breveté-e procède aux travaux de mensuration et à l'établissement des documents de mutation, qui forment le cadastre transitoire. Celui-ci est soumis à l'approbation du Conseil d'Etat, après avoir été mis à l'enquête publique.
+<sup>2</sup> A l'issue de la procédure d'enquête relative au nouvel état des propriétés et des servitudes, l'ingénieur‑e géomètre breveté‑e procède aux travaux de mensuration et à l'établissement des documents de mutation, qui forment le cadastre transitoire. Celui-ci est soumis à l'approbation du Conseil d'Etat, après avoir été mis à l'enquête publique.
 
 <sup>3</sup> Par cette approbation, le transfert des propriétés est opéré, et le nouvel état des servitudes et charges foncières entre en vigueur.
 
@@ -1226,9 +1226,9 @@ Décrète:
 
 #### Art. 111
 
-**Régularisation de limites imposée**
+**Modification de limites imposée**
 
-<sup>1</sup> A défaut d'entente sur une régularisation de limites demandée par un ou une propriétaire ou le conseil communal, celui-ci charge une commission de classification de trois membres ainsi qu'un ou une géomètre breveté-e d'établir un plan des modifications qui est soumis aux propriétaires.
+<sup>1</sup> A défaut d'entente sur une modification de limites demandée par un ou une propriétaire ou le conseil communal, celui-ci charge une commission de classification de trois membres ainsi qu'un ou une ingénieur-e géomètre breveté-e d'établir un plan des modifications qui est soumis aux propriétaires.
 
 <sup>2</sup> L'article 106 al. 2 et 3 est applicable.
 
@@ -1953,7 +1953,7 @@ Décrète:
 
 <sup>1</sup> Le certificat de conformité, établi par le maître de l'ouvrage avec le concours d'une personne qualifiée au sens de l'article 8, atteste que l'ouvrage est conforme aux plans approuvés et aux conditions d'octroi du permis.
 
-<sup>2</sup> Ce certificat doit être accompagné d'une déclaration d'un ou d'une géomètre breveté-e attestant que l'ouvrage est construit conformément au plan de situation et que l'abornement et les points fixes de mensuration ont été, le cas échéant, remis en état.
+<sup>2</sup> Ce certificat doit être accompagné d'une déclaration d'un ou d'une ingénieur‑e géomètre breveté‑e attestant que l'ouvrage est construit conformément au plan de situation et que l'abornement et les points fixes de mensuration ont été, le cas échéant, remis en état.
 
 #### Art. 167
 

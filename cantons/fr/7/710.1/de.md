@@ -4,13 +4,13 @@ number: "710.1"
 title: Raumplanungs- und Baugesetz
 short: RPBG
 language: de
-version: 2023-10-01
-valid_until: 2024-02-29
-version_adopted: 2023-08-25
+version: 2024-03-01
+valid_until: 2026-09-30
+version_adopted: 2023-11-24
 adopted: 2008-12-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7946/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7954/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Raumplanungs- und Baugesetz
 
 (RPBG)
 
-vom 02.12.2008 (Fassung in Kraft getreten am 01.10.2023)
+vom 02.12.2008 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1160,27 +1160,27 @@ beschliesst:
 
 <sup>3</sup> Ist der Entscheid über den Erschliessungsanspruch rechtskräftig, so kann die gesuchstellende Person gemäss der erteilten Bewilligung oder den von der zuständigen Behörde genehmigten Plänen die Grundstücke selber erschliessen oder die Erschliessungskosten bevorschussen. Der Kostenanteil der Gemeinde ist fällig, sobald die Erschliessungsanlagen verwirklicht sind.
 
-### 2.6 Baulandumlegung und Grenzbereinigung
+### 2.6 Baulandumlegung und Grenzänderung
 
 #### Art. 105
 
 **Zweck**
 
-<sup>1</sup> Mit der Baulandumlegung und der Grenzbereinigung soll die bestehende Parzellenordnung so auf den Ortsplan abgestimmt werden, dass sich die Grundstücke in Lage, Form und Grösse für eine recht- und zweckmässige bauliche Nutzung eignen.
+<sup>1</sup> Mit der Baulandumlegung und der Grenzänderung soll die bestehende Parzellenordnung so auf den Ortsplan abgestimmt werden, dass sich die Grundstücke in Lage, Form und Grösse für eine recht- und zweckmässige bauliche Nutzung eignen.
 
 <sup>2</sup> Zusätzlich zur Bildung geeigneter Bauparzellen kann eine Baulandumlegung dazu dienen, ein Quartier neu zu gliedern und zu sanieren, Land und erforderliche Rechte für die Erschliessung von Quartieren und anderen im öffentlichen Interesse stehenden Bauwerken sicherzustellen und die Ausführung der Erschliessung zu gewährleisten.
 
-<sup>3</sup> Die für die Baulandumlegung oder Grenzbereinigung erforderlichen Grundstücksübertragungen sind von den Handänderungssteuern befreit.
+<sup>3</sup> Die für die Baulandumlegung oder Grenzänderung erforderlichen Grundstücksübertragungen sind von den Handänderungssteuern befreit.
 
 #### Art. 106
 
-**Freiwillige Parzellenumlegung und Grenzbereinigung**
+**Freiwillige Parzellenumlegung und Grenzänderung**
 
-<sup>1</sup> Mehrere Grundeigentümerinnen und -eigentümer können schriftlich vereinbaren, eine Parzellenumlegung oder eine Grenzbereinigung vorzunehmen. Sie bezeichnen eine patentierte Geometerin bzw. einen patentierten Geometer und, wenn nötig, die Unternehmensdirektion sowie Fachpersonen.
+<sup>1</sup> Mehrere Grundeigentümerinnen und -eigentümer können schriftlich vereinbaren, eine Parzellenumlegung oder eine Grenzänderung vorzunehmen. Sie bezeichnen eine patentierte Ingenieur-Geometerin bzw. einen patentierten Ingenieur-Geometer und, wenn nötig, die Unternehmensdirektion sowie Fachpersonen.
 
-<sup>2</sup> Nur amtliche Geometerinnen und Geometer im Sinne des Gesetzes über die amtliche Vermessung können die öffentlichen Urkunden über die Eigentumsübertragung in den von dieser Gesetzgebung vorgesehenen Formen ausfertigen.
+<sup>2</sup> Die amtlichen Ingenieur-Geometerinnen und Ingenieur-Geometer können die öffentlichen Urkunden über die Eigentumsübertragung in den Formen gemäss der Gesetzgebung über die amtliche Vermessung ausfertigen.
 
-<sup>3</sup> Die Geometerinnen oder Geometer unterbreiten diese Urkunden der Direktion zur Genehmigung, bevor sie sie zur Eintragung anmelden.
+<sup>3</sup> Die amtlichen Ingenieur-Geometerinnen oder Ingenieur-Geometer unterbreiten diese Urkunden der Direktion zur Genehmigung, bevor sie sie zur Eintragung anmelden.
 
 #### Art. 107
 
@@ -1212,7 +1212,7 @@ beschliesst:
 
 <sup>1</sup> Der Landumlegungsplan, der den Perimeter, den alten Bestand und die Schätzung der Grundstücke und Sachenrechte, die Zuteilung der neuen Parzellen, den Barausgleich und die Entschädigungen, den alten und neuen Zustand der Dienstbarkeiten und Grundlasten sowie den Kostenverteiler umfasst, wird für die Betroffenen während 30 Tagen aufgelegt. Die Grundeigentümerschaft und die Inhaberinnen und Inhaber von gelöschten oder geänderten dinglichen Rechten werden davon in Kenntnis gesetzt. Während der Auflagefrist kann jede interessierte Person eine schriftliche und begründete Einsprache an die Schätzungskommission richten.
 
-<sup>2</sup> Am Ende des Auflageverfahrens über den neuen Besitzstand und die Dienstbarkeiten nimmt die patentierte Geometerin oder der patentierte Geometer die Vermessungsarbeiten vor und erstellt die Handänderungsakten, die den Übergangskataster bilden. Dieser muss nach der öffentlichen Auflage dem Staatsrat zur Genehmigung unterbreitet werden.
+<sup>2</sup> Am Ende des Auflageverfahrens über den neuen Besitzstand und die Dienstbarkeiten nimmt die patentierte Ingenieur-Geometerin oder der patentierte Ingenieur-Geometer die Vermessungsarbeiten vor und erstellt die Handänderungsakten, die den Übergangskataster bilden. Dieser muss nach der öffentlichen Auflage dem Staatsrat zur Genehmigung unterbreitet werden.
 
 <sup>3</sup> Mit der Genehmigung erfolgt der Eigentumsübergang, und der neue Zustand der Dienstbarkeiten und Grundlasten tritt in Kraft.
 
@@ -1226,9 +1226,9 @@ beschliesst:
 
 #### Art. 111
 
-**Angeordnete Grenzbereinigung**
+**Angeordnete Grenzänderung**
 
-<sup>1</sup> Kommt für eine Grenzbereinigung, die die Grundeigentümerschaft oder der Gemeinderat beantragt hat, keine Einigung zustande, so beauftragt der Gemeinderat eine Schätzungskommission von drei Mitgliedern und eine patentierte Geometerin oder einen patentierten Geometer mit der Ausarbeitung eines Grenzänderungsplans, der der Eigentümerschaft unterbreitet wird.
+<sup>1</sup> Kommt für eine Grenzänderung, welche die Grundeigentümerschaft oder der Gemeinderat beantragt hat, keine Einigung zustande, so beauftragt der Gemeinderat eine Schätzungskommission von drei Mitgliedern und eine patentierte Ingenieur-Geometerin oder einen patentierten Ingenieur-Geometer mit der Ausarbeitung eines Grenzänderungsplans, welcher der Eigentümerschaft unterbreitet wird.
 
 <sup>2</sup> Artikel 106 Abs. 2 und 3 ist anwendbar.
 
@@ -1953,7 +1953,7 @@ beschliesst:
 
 <sup>1</sup> Die Bauherrschaft muss unter Mitwirkung einer befähigten Person nach Artikel 8 einen Übereinstimmungsnachweis erstellen, der bestätigt, dass das Bauwerk den genehmigten Plänen und den Bedingungen der Baubewilligung entspricht.
 
-<sup>2</sup> Dieser Bescheinigung ist eine Erklärung einer amtlichen Geometerin bzw. eines amtlichen Geometers beizufügen, in der bestätigt wird, dass das Bauwerk gemäss Situationsplan erstellt und die Vermarkung sowie gegebenenfalls die Vermessungsfixpunkte wiederhergestellt worden sind.
+<sup>2</sup> Dieser Bescheinigung ist eine Erklärung einer patentierten Ingenieur-Geometerin bzw. eines patentierten Ingenieur-Geometers beizufügen, in der bestätigt wird, dass das Bauwerk gemäss Situationsplan erstellt und die Vermarkung sowie gegebenenfalls die Vermessungsfixpunkte wiederhergestellt worden sind.
 
 #### Art. 167
 
