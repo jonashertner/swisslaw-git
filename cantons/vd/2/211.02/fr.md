@@ -4,7 +4,7 @@ number: "211.02"
 title: CODE du 12.01.2010 de droit privé judiciaire vaudois (CDPJ)
 short: CDPJ
 language: fr
-version: 2024-02-01
+version: 2024-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.02?id=ad4e8c23-b444-4fb7-82a3-3149dc38ed0e"
 ---
 
@@ -638,6 +638,25 @@ décrète
 <sup>2</sup> Si, en raison du défaut de collaboration du bénéficiaire de l'assistance judiciaire, le département ne peut établir sa situation financière, celle-ci est présumée lui permettre de rembourser les avances fournies par l'Etat au titre de l'assistance judiciaire.
 
 [^39a-3]: Modif. 6 du 11.12.2018: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1-2; entrée en vigueur au 01.03.2019; Introduction Art. 39b; entrée en vigueur au 01.03.2019
+
+#### Art. 39c
+
+**Médiation civile [^39b-1]**
+
+<sup>1</sup> Lorsque les parties procèdent à une médiation au sens des articles 213 et suivants CPC, le juge peut, sur requête, leur octroyer l'assistance judiciaire pour les frais de la médiation aux conditions suivantes:
+
+- a. les parties recourent à un médiateur agréé au sens de l'article 40;
+- b. les conditions posées par l'article 117 CPC, applicable par analogie, sont remplies par la partie requérant l'assistance judiciaire.
+
+<sup>2</sup> La requête d'assistance judiciaire peut être déposée en début ou en cours de médiation.
+
+<sup>3</sup> L'assistance judiciaire ne s'étend en principe qu'aux frais du médiateur. Le juge peut l'étendre à d'autres frais s'il l'estime nécessaire.
+
+<sup>4</sup> L'assistance judiciaire est octroyée pour une durée fixée par le juge, mais au maximum pour un total de dix heures de médiation par situation. Le juge peut prolonger cette durée sur requête s'il estime, sur la base d'un rapport du médiateur, que la procédure de médiation peut aboutir à brève échéance.
+
+<sup>5</sup> L'article 123 CPC est applicable au remboursement de l'assistance judiciaire octroyée pour la médiation.
+
+[^39b-1]: Modif. 9 du 13.12.2023: Introduction Art. 39c; entrée en vigueur au 01.03.2024
 
 #### Art. 40
 
