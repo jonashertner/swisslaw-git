@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2023-07-15
+version: 2024-03-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230715/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230715-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20240301-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230715/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)[^t-1]
 
-del 27 ottobre 1976 (Stato 15 luglio 2023)
+del 27 ottobre 1976 (Stato 1° marzo 2024)
 
 [^t-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -398,13 +398,14 @@ Il riconoscimento si estingue alla fine dell’anno in cui il titolare compie 75
 Per la notifica dei risultati alle autorità cantonali, i medici utilizzano i moduli di cui:
 
 - a. all’allegato 3 per esami secondo gli articoli 6 capoverso 4 lettera a numero 1, 11*b*, 27 capoverso 1 e 65 capoverso 2 lettera d;
-- b. all’allegato 3*a* per esami secondo gli articoli 7 capoverso 1<sup>bis</sup> e 9 capoverso 4;
+- b. all’allegato 3*a* per esami secondo gli articoli 7 capoverso 1<sup>bis</sup> e ...[^5i-2];
 - c. all’allegato 4 per esami secondo l’articolo 9 capoverso 1.
 
-<sup>5</sup> Le autorità cantonali possono mettere a disposizione i moduli di cui al capoverso 4 in forma elettronica. Se un’autorità cantonale ricorre a tale possibilità, può chiedere di ricevere i moduli solo elettronicamente.[^5i-2]
+<sup>5</sup> Le autorità cantonali possono mettere a disposizione i moduli di cui al capoverso 4 in forma elettronica. Se un’autorità cantonale ricorre a tale possibilità, può chiedere di ricevere i moduli solo elettronicamente.[^5i-3]
 
 [^5i-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^5i-2]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^5i-2]: Il riferimento è stato cancellato il 1° feb. 2019 ai sensi dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^5i-3]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 5j
 
@@ -569,19 +570,37 @@ Il candidato alla licenza di condurre della sottocategoria D1 deve aver condotto
 
 <sup>1</sup>
 
-Prima di presentare una domanda per il rilascio di una licenza per allievo conducente, di una licenza di condurre o di un permesso per il trasporto professionale di persone, il richiedente deve sottoporsi a un controllo della vista effettuato:
+Il richiedente che non possiede ancora una licenza per allievo conducente o una licenza di condurre valide deve sottoporsi a un controllo della vista prima di presentare una delle seguenti domande:
 
-- a. da un medico in possesso di un diploma federale o estero riconosciuto esercitante in Svizzera; oppure
-- b. da un ottico diplomato esercitante in Svizzera.
+- a.
+
+  domanda per il rilascio di una licenza per allievo conducente:
+
+  - 1\. della categoria A,
+  - 2\. della categoria B,
+  - 3\. della sottocategoria A1,
+  - 4\. della sottocategoria B1,
+  - 5\. della categoria speciale F;
+
+- b.
+
+  domanda per il rilascio di una licenza di condurre:
+
+  - 1\. della categoria speciale M,
+  - 2\. della categoria speciale G.[^9-2]
+
+<sup>1bis</sup> Il controllo della vista deve essere effettuato da un medico in possesso di un diploma federale o estero riconosciuto, un ottico diplomato o un optometrista BSc, tutti esercitanti in Svizzera.[^9-3]
 
 <sup>2</sup> Durante l’esame devono essere controllati l’acuità visiva, il campo visivo e la motilità oculare (diplopia).
 
 <sup>3</sup> L’esame della vista non deve risalire a più di 24 mesi prima della presentazione della domanda.
 
-<sup>4</sup> ...[^9-2]
+<sup>4</sup> ...[^9-4]
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^9-2]: Abrogato dal n. I dell’O del 21 nov. 2018, con effetto dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^9-3]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^9-4]: Abrogato dal n. I dell’O del 21 nov. 2018, con effetto dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
 #### Art. 10
 
@@ -675,23 +694,31 @@ Se la domanda è presentata per la prima volta, il richiedente deve presentarsi 
 
 **Esame della domanda**[^11b-1]
 
-<sup>1</sup>
+<sup>1</sup> L’autorità cantonale verifica se sono adempiuti i requisiti per l’ottenimento di una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone.
 
-L’autorità cantonale verifica se sono adempiuti i requisiti per l’ottenimento di una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone. Essa:
+<sup>2</sup>
 
-- a. invita i richiedenti che intendono conseguire una licenza di condurre delle categorie C o D o delle sottocategorie C1 o D1 oppure un permesso per il trasporto professionale di persone a sottoporsi a una visita presso un medico che abbia il riconoscimento di livello 2;
-- b invita i richiedenti che hanno superato il 65° anno d’età, presentano disabilità fisiche oppure sulla cui idoneità medica a condurre veicoli a motore sussistono dubbi per altri motivi a sottoporsi a una visita presso un medico che abbia almeno un riconoscimento di livello 3;
-- c. invita i richiedenti a sottoporsi a una visita presso uno psicologo del traffico riconosciuto secondo l’articolo 5*c* qualora nutra dei dubbi circa l’idoneità caratteriale o psichica a condurre veicoli a motore;
-- d. convoca un richiedente minorenne o sotto curatela generale e il suo rappresentante legale se quest’ultimo si rifiuta di firmare il modulo di domanda;
-- e.[^11b-2] verifica se il richiedente è registrato nel SIAC Provvedimenti.
+L’autorità cantonale verifica se il richiedente è registrato nel SIAC Provvedimenti. In caso affermativo, non può rilasciare, in particolare:
 
-<sup>2</sup> L’autorità cantonale può richiedere un estratto 3 per autorità del casellario giudiziale informatizzato VOSTRA e, in caso di dubbio, un certificato di buona condotta rilasciato dalla polizia.[^11b-3]
+- a. durante la revoca temporanea o il divieto di far uso per una durata limitata della licenza per allievo conducente o della licenza di condurre: una licenza per allievo conducente o una licenza di condurre o un permesso per il trasporto professionale di persone per una categoria di licenza che, se già posseduta prima della revoca o del divieto, avrebbe dovuto essere soggetta alla stessa misura (art. 33);
+- b. durante la revoca definitiva o il divieto di far uso per una durata indeterminata della licenza per allievo conducente o della licenza di condurre: una licenza per allievo conducente o una licenza di condurre o un permesso per il trasporto professionale di persone se i motivi della revoca o del divieto impediscono il rilascio della categoria di licenza in questione o del permesso per il trasporto professionale di persone.
 
-<sup>3</sup> Le persone che soffrono di epilessia sono ammesse alla circolazione soltanto su presentazione di un rapporto favorevole rilasciato da un medico specialista in neurologia.
+<sup>3</sup>
 
-[^11b-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^11b-2]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11b-3]: Nuovo testo giusta l’all. 10 n. II 20 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+L’autorità cantonale invita:
+
+- a. i richiedenti che intendono conseguire una licenza di condurre delle categorie C o D o delle sottocategorie C1 o D1 oppure un permesso per il trasporto professionale di persone e non possiedono ancora una licenza di condurre di queste categorie o sottocategorie né un permesso per il trasporto professionale di persone a sottoporsi a una visita presso un medico che abbia il riconoscimento di livello 2;
+- b. i richiedenti che hanno superato il 75° anno d’età e intendono conseguire per la prima volta una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone a sottoporsi a una visita presso un medico che abbia un riconoscimento almeno di livello 3;
+- c. i richiedenti che presentano disabilità fisiche oppure sulla cui idoneità medica a condurre veicoli a motore sussistono dubbi per altri motivi a sottoporsi a una visita presso un medico che abbia un riconoscimento almeno di livello 3;
+- d. i richiedenti sulla cui idoneità caratteriale o psichica a condurre veicoli a motore sussistono dubbi a sottoporsi a una visita presso uno psicologo del traffico riconosciuto secondo l’articolo 5*c*.
+
+<sup>4</sup> Se il rappresentante legale di un richiedente minorenne o sotto curatela generale si rifiuta di firmare il modulo di domanda, l’autorità cantonale lo convoca insieme al richiedente.
+
+<sup>5</sup> L’autorità cantonale può richiedere un estratto 3 per autorità del casellario giudiziale informatizzato VOSTRA e, in caso di dubbio, un certificato di buona condotta rilasciato dalla polizia.
+
+<sup>6</sup> Le persone che soffrono di epilessia sono ammesse alla circolazione soltanto su presentazione di un rapporto favorevole rilasciato da un medico specialista in neurologia.
+
+[^11b-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 11c
 
@@ -844,15 +871,16 @@ Nella licenza per allievo conducente devono essere iscritte le seguenti autorizz
 
 - a. la licenza per allievo conducente della categoria C o della sottocategoria C1 autorizza a effettuare corse di scuola guida con un autoveicolo della categoria B;
 - b.[^17-3] i sordi e le persone che presentano disabilità fisiche possono effettuare corse di scuola guida soltanto se accompagnati da una persona ufficialmente autorizzata a formarli;
-- c. gli apprendisti conducenti di autocarri possono effettuare corse di scuola guida soltanto se accompagnati da un maestro conducente o da una persona autorizzata a formarli. Nelle corse di scuola guida con un veicolo a motore della categoria B questo accompagnamento è necessario soltanto fino al compimento dei 18 anni d’età;
-- d.[^17-4] la licenza per allievo conducente della sottocategoria C1 autorizza a effettuare corse di scuola guida con un autoveicolo dei servizi antincendio il cui peso totale supera i 7500 kg e con un autocarro per la scuola guida della categoria C.
+- c.[^17-4] gli apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC», «meccanico di manutenzione per automobili AFC» con indirizzo «veicoli utilitari» o «meccatronico d’automobili AFC» con indirizzo «veicoli utilitari» possono effettuare corse di scuola guida con un veicolo a motore della categoria C o una combinazione di veicoli della categoria CE soltanto se accompagnati da un maestro conducente o una persona autorizzata a formarli. Se possiedono la licenza di condurre della categoria C, possono effettuare corse di scuola guida con una combinazione di veicoli della categoria CE senza accompagnatore;
+- d.[^17-5] la licenza per allievo conducente della sottocategoria C1 autorizza a effettuare corse di scuola guida con un autoveicolo dei servizi antincendio il cui peso totale supera i 7500 kg e con un autocarro per la scuola guida della categoria C.
 
 <sup>6</sup> Durante le corse di scuola guida gli allievi conducenti non possono effettuare trasporti professionali di persone.
 
 [^17-1]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^17-2]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^17-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^17-4]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^17-4]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^17-5]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 17a
 
@@ -1187,13 +1215,27 @@ Sono tenuti a sottoporsi a una visita di controllo di idoneità alla guida:
 
 - a.
 
-  ogni cinque anni fino al 50° anno di età e successivamente ogni tre anni, i seguenti conducenti di veicoli:
+  i titolari di una licenza di condurre delle categorie C o D, delle sottocategorie C1 o D1 o di un permesso per il trasporto professionale di persone nonché gli esperti della circolazione:
 
-  - 1\. i titolari di una licenza di condurre delle categorie C e D e delle sottocategorie C1 e D1,
-  - 2\. i titolari di un permesso per il trasporto professionale di persone di cui all’articolo 25;
+  - 1\. ogni cinque anni, fatta eccezione per il primo esame dopo il compimento del 50° anno d’età che dev’essere effettuato entro i 53 anni,
+  - 2\. dopo il primo esame svolto dopo il compimento del 50° anno d’età, ogni tre anni, fatta eccezione per il primo esame dopo il compimento del 75° anno d’età che dev’essere effettuato entro i 77 anni;
 
-- b.[^27-2] ogni due anni, i titolari di licenza che hanno superato i 75 anni di età;
-- c. i titolari di licenza affetti o precedentemente affetti da gravi minorazioni fisiche dovute a lesioni da incidente o a malattie.
+- b. i titolari di una licenza di condurre ogni due anni a partire dal compimento del 75° anno d’età;
+- c. i titolari di una licenza di condurre affetti o precedentemente affetti da gravi minorazioni fisiche dovute a lesioni da incidente o a malattie.[^27-2]
+
+<sup>1bis</sup>
+
+L’autorità cantonale ricorda alle persone di cui al capoverso 1 lettere a e b l’obbligo di sottoporsi a una visita di controllo di idoneità alla guida. Il promemoria è inviato:
+
+- a. per la prima visita di controllo di persone di cui al capoverso 1 lettera a: tre mesi prima del termine di scadenza calcolato a partire dalla data dell’ultimo esame medico di idoneità alla guida;
+- b. per la prima visita di controllo di persone di cui al capoverso 1 lettera b: entro un mese dal compimento dei 75 anni;
+- c. per tutte le visite di controllo successive: tre mesi prima del termine di presentazione del risultato dell’esame ai sensi del capoverso 1<sup>ter</sup>.[^27-3]
+
+<sup>1ter</sup> Con il promemoria l’autorità cantonale ricorda alle persone di cui al capoverso 1 lettere a e b che il risultato dell’esame deve essere presentato entro tre mesi dall’invio del promemoria e per tutte le visite di controllo successive entro il termine ultimo. Questo è calcolato a partire dalla data dell’ultimo esame svolto.[^27-4]
+
+<sup>1quater</sup> Dopo il primo esame medico di idoneità alla guida, l’autorità cantonale ricorda alle persone di cui al capoverso 1 lettera c le successive visite di controllo eventualmente necessarie.[^27-5]
+
+<sup>1quinquies</sup> L’autorità cantonale può eccezionalmente estendere i termini per la presentazione dei risultati degli esami.[^27-6]
 
 <sup>2</sup> La visita di controllo di idoneità alla guida deve essere effettuata sotto la responsabilità di un medico di cui all’articolo 5*a*<sup>bis</sup>.
 
@@ -1207,7 +1249,11 @@ L’autorità cantonale può:
 <sup>4</sup> L’autorità cantonale può, in singoli casi, disporre che una visita di controllo di idoneità alla guida sia limitata a taluni punti o estesa ad altri; in questi casi il medico non è vincolato ai moduli di cui agli allegati 2 e 2*a*.
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 15 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^27-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-3]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-4]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-5]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-6]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 12*b* Formazione complementare per i titolari di una licenza di condurre in prova
 
@@ -1643,15 +1689,15 @@ I conducenti di veicoli a motore provenienti dall’estero possono condurre in S
 Hanno bisogno di una licenza di condurre svizzera:
 
 - a. i conducenti provenienti dall’estero, residenti in Svizzera da 12 mesi e che durante questo periodo non hanno soggiornato per più di tre mesi consecutivi all’estero;
-- b.[^42-10] le persone che conducono a titolo professionale veicoli a motore immatricolati in Svizzera delle categorie C o D oppure delle sottocategorie C1 o D1 o hanno bisogno di un permesso secondo l’articolo 25.
+- b.[^42-10] le persone in possesso di una licenza di condurre valevole rilasciata da uno Stato non membro dell’UE o dell’AELS che conducono a titolo professionale veicoli a motore immatricolati in Svizzera delle categorie C o D oppure delle sottocategorie C1 o D1 o che necessitano di un permesso secondo l’articolo 25; è escluso il personale di circhi e baracconi.[^42-11]
 
 <sup>3ter</sup>
 
-Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007[^42-11] sullo Stato ospite, a condizione che: [^42-12]
+Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007[^42-12] sullo Stato ospite, a condizione che: [^42-13]
 
-- a.[^42-13] siano titolari di una licenza di condurre nazionale valevole;
+- a.[^42-14] siano titolari di una licenza di condurre nazionale valevole;
 - b. non possiedano la cittadinanza svizzera o non abbiano avuto la loro residenza permanente in Svizzera prima di entrare in funzione; e
-- c. siano titolari di una carta di legittimazione rilasciata dal Dipartimento federale degli affari esteri che attesti che sono al beneficio dell’immunità di giurisdizione.[^42-14]
+- c. siano titolari di una carta di legittimazione rilasciata dal Dipartimento federale degli affari esteri che attesti che sono al beneficio dell’immunità di giurisdizione.[^42-15]
 
 <sup>4</sup> La licenza di condurre straniera che il conducente ha ottenuto eludendo le disposizioni della presente ordinanza sull’ottenimento della licenza svizzera, o quelle di competenza dello Stato dove è domiciliato, non può essere utilizzata in Svizzera.
 
@@ -1664,11 +1710,12 @@ Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di
 [^42-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^42-8]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-9]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-10]: Introdotta dal n. I dell’O del 7 mar. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)). Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^42-11]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^42-12]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-13]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-14]: Introdotto dall’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^42-10]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-11]: Introdotta dal n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
+[^42-12]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^42-13]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-14]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-15]: Introdotto dall’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 43
 
@@ -1688,26 +1735,27 @@ Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di
 
 **Ottenimento della licenza di condurre svizzera**[^44-1]
 
-<sup>1</sup> Al titolare di una licenza di condurre nazionale straniera valevole è rilasciata la licenza di condurre svizzera della rispettiva categoria se, durante una corsa di controllo, dimostra di conoscere le norme della circolazione ed è in grado di condurre in modo sicuro veicoli delle categorie per le quali la licenza è valevole. I conducenti di autoveicoli devono effettuare la corsa di controllo con un veicolo della categoria che autorizza a condurre tutti i veicoli delle categorie iscritte nella licenza. Se il titolare della licenza è inoltre autorizzato a condurre un motoveicolo, non è effettuata nessuna ulteriore corsa di controllo per quest’ultima categoria. Agli esami medici si applicano per analogia gli articoli 7 capoversi 1 e 1<sup>bis</sup>, 9, 11*b* capoverso 1 e 27.[^44-2]
+<sup>1</sup> Al titolare di una licenza di condurre nazionale straniera valevole è rilasciata la licenza di condurre svizzera della rispettiva categoria se, durante una corsa di controllo, dimostra di conoscere le norme della circolazione ed è in grado di condurre in modo sicuro veicoli delle categorie per le quali la licenza è valevole. I conducenti di autoveicoli devono effettuare la corsa di controllo con un veicolo della categoria che autorizza a condurre tutti i veicoli delle categorie iscritte nella licenza. Se il titolare della licenza è inoltre autorizzato a condurre un motoveicolo, non è effettuata nessuna ulteriore corsa di controllo per quest’ultima categoria. Agli esami medici si applicano per analogia gli articoli 7 capoversi 1 e 1<sup>bis</sup>, 9, 11*b* capoverso 3 lettere a e c[^44-2], 27.[^44-3]
 
-<sup>1bis</sup> La corsa di controllo non può essere ripetuta.[^44-3]
+<sup>1bis</sup> La corsa di controllo non può essere ripetuta.[^44-4]
 
-<sup>1ter</sup> Se la persona interessata non si presenta, senza giustificarsi, alla corsa di controllo, questa è considerata non superata. L’autorità, quando ordina la corsa di controllo, deve informare sulle conseguenze dell’omessa partecipazione.[^44-4]
+<sup>1ter</sup> Se la persona interessata non si presenta, senza giustificarsi, alla corsa di controllo, questa è considerata non superata. L’autorità, quando ordina la corsa di controllo, deve informare sulle conseguenze dell’omessa partecipazione.[^44-5]
 
-<sup>1quater</sup> Se la persona interessata non supera la corsa di controllo, le è vietato l’uso della licenza di condurre straniera.[^44-5]
+<sup>1quater</sup> Se la persona interessata non supera la corsa di controllo, le è vietato l’uso della licenza di condurre straniera.[^44-6]
 
 <sup>2</sup> La licenza di condurre svizzera per autisti professionali di veicoli a motore è rilasciata a conducenti di veicoli a motore provenienti dall’estero soltanto se, oltre alla corsa di controllo, provano ad un esame di conoscere il disciplinamento in vigore in Svizzera per tale tipo di conducenti.
 
 <sup>3</sup> I conducenti di ciclomotori, di motoleggere, di veicoli a motore agricoli e forestali e di veicoli a motore di lavoro esteri, che desiderano ottenere la licenza di condurre svizzera devono sostenere un esame di conducente se non sono titolari di una licenza straniera corrispondente.
 
-<sup>4</sup> Le autorità che rilasciano una licenza di condurre svizzera devono restituire le licenze rilasciate dagli Stati membri dell’UE o dell’AELS all’autorità di emissione. Le altre licenze devono essere restituite all’autorità di emissione o consegnate al titolare. Il contenuto delle licenze straniere viene registrato.[^44-6]
+<sup>4</sup> Le autorità che rilasciano una licenza di condurre svizzera devono restituire le licenze rilasciate dagli Stati membri dell’UE o dell’AELS all’autorità di emissione. Le altre licenze devono essere restituite all’autorità di emissione o consegnate al titolare. Il contenuto delle licenze straniere viene registrato.[^44-7]
 
 [^44-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^44-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^44-3]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° mar. 2014.
+[^44-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^44-4]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^44-5]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^44-6]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-6]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-7]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 44a
 
@@ -3308,9 +3356,10 @@ Chi, in virtù dell’articolo 151*d* capoversi 9 e 10, è autorizzato a condurr
 
 <sup>1</sup> Una licenza di condurre della sottocategoria D1 ottenuta fino al 14 luglio 2023 (fatto salvo l’art. 151*d* cpv. 10) autorizza a condurre a titolo professionale nel traffico interno anche autoveicoli adibiti al trasporto di persone con più di otto posti a sedere, ma non più di 16, escluso quello del conducente, e posti in piedi.
 
-<sup>2</sup> ...
+<sup>2</sup> Le persone di cui all’articolo 11*b* capoverso 3 lettera a che hanno presentato domanda per una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone prima del 1° marzo 2024 e possiedono già una licenza delle categorie C o D, delle sottocategorie C1 o D1 o il permesso per il trasporto professionale di persone, non sono convocate dall’autorità cantonale a un esame medico di idoneità alla guida.[^151p-2]
 
 [^151p-1]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023, il cpv. 2 dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^151p-2]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 152
 
@@ -3790,7 +3839,7 @@ Allegato 4[^t-8]
 
 ## Domanda per il rilascio di una licenza per allievo conducente, di una licenza di condurre o del permesso per il trasporto professionale di persone
 
-[^t-8]: Nuovo testo giusta il n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dal n. II cpv. 3 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)), dal n. II cpv. 1 delle O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) e del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^t-8]: Nuovo testo giusta il n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dal n. II cpv. 3 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)), dal n. II cpv. 1 delle O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) e del 10 mag. 2023, in vigore dal 15 lug. 2023, con riserva dei n. 5.5, 5.52 e 5.5, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 <table>
 <tr><td>1</td><td>Dati personali</td><td></td></tr>
@@ -3882,21 +3931,21 @@ Allegato 4[^t-8]
 -
 
 - In caso di risposta affermativa a una delle domande da 5.1 a 5.3, si deve allegare alla presente un rapporto del medico curante (altrimenti la domanda va trasmessa imperativamente a un medico riconosciuto di al minimo livello 3).
-- 5\.5 Esame della vista (valido 24 mesi):
+- 5\.5 Esame della vista (valido 24 mesi): solo per i richiedenti di una licenza per allievo conducente delle categorie A o B, delle sottocategorie A1 o B1 o della categoria speciale F e i richiedenti di una licenza di condurre delle categorie speciali G o M che ancora non possiedono una licenza per allievo conducente o una licenza di condurre valida:
 
-5.51 Acuità visiva: Da lontano: non corr.: corr.: A destra: A sinistra: A destra: A sinistra: 5.52 Campo visivo orizzontale 1° gruppo medico ≥ 120 &lt; 120 2° gruppo medico ≥ 140 &lt; 140 Difetti campimetrici no sì destra sinistra verso l’alto verso il basso 5.53 Motilità oculare verificata verso l’alto a destra, a destra, in basso a destra, verso l’alto a sinistra, a sinistra, in basso a sinistra Diplopia no sì, direzione:
+5.51 Acuità visiva: Da lontano: non corr.: corr.: A destra: A sinistra: A destra: A sinistra: 5.52 Campo visivo orizzontale 1° gruppo medico ≥ 120 &lt; 120 Difetti campimetrici no sì destra sinistra verso l’alto verso il basso 5.53 Motilità oculare verificata verso l’alto a destra, a destra, in basso a destra, verso l’alto a sinistra, a sinistra, in basso a sinistra Diplopia no sì, direzione:
 
 - 5\.54 Osservazioni
 
 <table>
 <tr><td>5.55</td><td>Valutazione</td><td></td><td>Requisiti del:</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>1° gruppo medico</td><td></td><td>2° gruppo medico</td></tr>
-<tr><td></td><td></td><td></td><td>soddisfatti senza ausilio visivo</td><td></td><td>soddisfatti senza ausilio visivo</td></tr>
-<tr><td></td><td></td><td></td><td>soddisfatti solo con ausilio visivo</td><td></td><td>soddisfatti solo con ausilio visivo</td></tr>
-<tr><td></td><td></td><td></td><td>non soddisfatti</td><td></td><td>non soddisfatti</td></tr>
+<tr><td></td><td></td><td></td><td>1° gruppo medico</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>soddisfatti senza ausilio visivo</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>soddisfatti solo con ausilio visivo</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>non soddisfatti</td><td></td><td></td></tr>
 </table>
 
-Data: Timbro e firma:
+Data: Timbro e firma del medico o di un altro esperto (art. 9 cpv. 1<sup>bis</sup>) che ha effettuato l’esame della vista:
 
 - **6** **Tutela e curatela**
 - È minorenne o sotto curatela generale? sì no
@@ -4167,7 +4216,7 @@ Allegato 12[^t-15]
 
 ## Esame pratico di conducente
 
-[^t-15]: Introdotto dal n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dal n. II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dal n. II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) e dai n. II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)) e del 18 dic. 2015 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)), dal n. I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)) e dal n. II cpv. 3 dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29))
+[^t-15]: Introdotto dal n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dal n. II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dal n. II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) e dai n. II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)) e del 18 dic. 2015 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)), dal n. I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)), dal n. II cpv. 3 dell’O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) e dal n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### I. R Requisiti d’ammissione
 

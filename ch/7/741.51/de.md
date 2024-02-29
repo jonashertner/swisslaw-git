@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2023-07-15
+version: 2024-03-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230715/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230715-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20240301-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230715/de"
 
 (Verkehrszulassungsverordnung,[^t-1] VZV)
 
-vom 27. Oktober 1976 (Stand am 15. Juli 2023)
+vom 27. Oktober 1976 (Stand am 1. März 2024)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -400,12 +400,14 @@ Die Anerkennung erlischt am Ende des Jahres, in dem deren Inhaber das 75. Alters
 Die Ärzte verwenden zur Meldung der Untersuchungsergebnisse an die kantonalen Behörden die Formulare nach:
 
 - a. Anhang 3 bei Untersuchungen nach den Artikeln 6 Absatz 4 Buchstabe a Ziffer 1, 11*b*, 27 Absatz 1 und 65 Absatz 2 Buchstabe d;
-- b. Anhang 3*a* bei Untersuchungen nach Artikel 7 Absatz 1<sup>bis</sup> und 9 Absatz 4;
+- b. Anhang 3*a* bei Untersuchungen nach Artikel 7 Absatz 1<sup>bis</sup> …[^5i-2];
 - c. Anhang 4 bei Untersuchungen nach Artikel 9 Absatz 1.
-- [tab] <sup>5</sup> Die kantonalen Behörden können die Formulare nach Absatz 4 elektronisch zur Verfügung stellen. Wenn eine kantonale Behörde von dieser Möglichkeit Gebrauch macht, kann sie verlangen, dass ihr diese Formulare ausschliesslich elektronisch übermittelt werden.[^5i-2]
+
+<sup>5</sup> Die kantonalen Behörden können die Formulare nach Absatz 4 elektronisch zur Verfügung stellen. Wenn eine kantonale Behörde von dieser Möglichkeit Gebrauch macht, kann sie verlangen, dass ihr diese Formulare ausschliesslich elektronisch übermittelt werden.[^5i-3]
 
 [^5i-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^5i-2]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^5i-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Febr. 2019 gestrichen.
+[^5i-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 5j
 
@@ -569,19 +571,37 @@ Wer den Führerausweis der Unterkategorie D1 erwerben will, muss:
 
 <sup>1</sup>
 
-Vor der Einreichung eines Gesuchs um die Erteilung eines Lernfahr- oder Führerausweises oder einer Bewilligung zum berufsmässigen Personentransport muss der Gesuchsteller sein Sehvermögen summarisch prüfen lassen:
+Vor der Einreichung eines der folgenden Gesuche muss der Gesuchsteller, sofern er noch keinen gültigen Lernfahr- oder Führerausweis besitzt, sein Sehvermögen summarisch prüfen lassen:
 
-- a. bei einem in der Schweiz tätigen Arzt mit einem eidgenössischen oder einem anerkannten ausländischen Diplom; oder
-- b. bei einem in der Schweiz tätigen diplomierten Augenoptiker.
+- a.
+
+  Gesuch um die Erteilung eines Lernfahrfahrausweises:
+
+  - 1\. der Kategorie A,
+  - 2\. der Kategorie B,
+  - 3\. der Unterkategorie A1,
+  - 4\. der Unterkategorie B1,
+  - 5\. der Spezialkategorie F;
+
+- b.
+
+  Gesuch um einen Führerausweis:
+
+  - 1\. der Spezialkategorie M,
+  - 2\. der Spezialkategorie G.[^9-2]
+
+<sup>1bis</sup> Die Prüfung des Sehvermögens muss bei einem in der Schweiz tätigen Arzt mit einem eidgenössischen oder einem anerkannten ausländischen Diplom oder bei einem in der Schweiz tätigen diplomierten Augenoptiker oder Optometristen BScn erfolgen.[^9-3]
 
 <sup>2</sup> Zu untersuchen sind die Sehschärfe, das Gesichtsfeld und die Augenbeweglichkeit (Doppelsehen).
 
 <sup>3</sup> Der Sehtest darf im Zeitpunkt der Einreichung des Gesuchs nicht mehr als 24 Monate zurückliegen.
 
-<sup>4</sup> …[^9-2]
+<sup>4</sup> …[^9-4]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^9-2]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^9-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^9-4]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
 #### Art. 10
 
@@ -675,23 +695,31 @@ Wird das Gesuch erstmals eingereicht, muss der Gesuchsteller persönlich vorspre
 
 **Prüfung des Gesuchs**[^11b-1]
 
-<sup>1</sup>
+<sup>1</sup> Die kantonale Behörde prüft, ob die Voraussetzungen für den Erwerb eines Lernfahr- oder Führerausweises oder einer Bewilligung zum berufsmässigen Personentransport erfüllt sind.
 
-Die kantonale Behörde prüft, ob die Voraussetzungen für den Erwerb eines Lernfahr- oder Führerausweises oder einer Bewilligung zum berufsmässigen Personentransport erfüllt sind. Sie:
+<sup>2</sup>
 
-- a. weist Gesuchsteller, die den Führerausweis der Kategorien C oder D oder der Unterkategorien C1 oder D1 oder eine Bewilligung zum berufsmässigen Personentransport erwerben wollen, an einen Arzt mit der Anerkennung der Stufe 2;
-- b. weist Gesuchsteller, die das 65. Altersjahr überschritten haben, körperbehindert sind oder an deren medizinischer Eignung zum Führen von Motorfahrzeugen sie aus anderen Gründen zweifelt, an einen Arzt mit mindestens der Anerkennung der Stufe 3;
-- c. weist Gesuchsteller zur Untersuchung an einen anerkannten Verkehrspsychologen nach Artikel 5*c*, sofern sie an deren charakterlicher oder psychischer Eignung zum Führen von Motorfahrzeugen zweifelt;
-- d. hört einen minderjährigen oder unter umfassender Beistandschaft stehenden Gesuchsteller und seinen gesetzlichen Vertreter an, sofern Letzterer seine Unterschrift auf dem Gesuchsformular verweigert;
-- e.[^11b-2] klärt ab, ob der Gesuchsteller im IVZ-Massnahmen verzeichnet ist.
+Sie klärt ab, ob der Gesuchsteller im IVZ-Massnahmen verzeichnet ist. Ist er im IVZ-Massnahmen verzeichnet, so darf die kantonale Behörde namentlich in den folgenden Fällen nicht erteilen:
 
-<sup>2</sup> Sie kann einen Behördenauszug 3 aus dem Strafregister-Informationssystem VOSTRA und in Zweifelsfällen einen polizeilichen Führungsbericht einholen.[^11b-3]
+- a. während eines befristeten Entzugs des Lernfahr- oder des Führerausweises oder einer befristeten Aberkennung: einen Lernfahr- oder Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport für eine Ausweiskategorie, die, wäre sie vor dem Entzug oder der Aberkennung bereits vorhanden gewesen, ebenfalls hätte entzogen oder aberkannt werden müssen (Art. 33);
+- b. während eines unbefristeten Entzugs des Lernfahr- oder des Führerausweises oder einer Aberkennung auf unbestimmte Zeit: einen Lernfahr- oder Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport für eine Ausweiskategorie, sofern die Entzugs- oder Aberkennungsgründe der Erteilung dieser Ausweiskategorie oder der Bewilligung zum berufsmässigen Personentransport entgegenstehen.
 
-<sup>3</sup> Personen mit Epilepsie werden nur aufgrund eines befürwortenden Berichtes eines Facharztes für Neurologie zum Verkehr zugelassen.
+<sup>3</sup>
 
-[^11b-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^11b-2]: Fassung gemäss Anhang 4 Ziff. II 8 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11b-3]: Fassung gemäss Anhang 10 Ziff. II 20 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+Sie weist:
+
+- a. Gesuchsteller, die den Führerausweis der Kategorien C oder D oder der Unterkategorien C1 oder D1 oder die Bewilligung zum berufsmässigen Personentransport erwerben wollen und die noch keinen Führerausweis dieser Kategorien oder Unterkategorien oder noch keine Bewilligung zum berufsmässigen Personentransport besitzen: an einen Arzt mit Anerkennung der Stufe 2;
+- b. Gesuchsteller, die das 75. Altersjahr überschritten haben und erstmals einen Lernfahr- oder Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport erwerben wollen: an einen Arzt mit mindestens einer Anerkennung der Stufe 3;
+- c. Gesuchsteller, die körperbehindert sind oder an deren medizinischer Eignung zum Führen von Motorfahrzeugen sie aus anderen Gründen zweifelt: an einen Arzt mit mindestens einer Anerkennung der Stufe 3;
+- d. Gesuchsteller, an deren charakterlicher oder psychischer Eignung zum Führen von Motorfahrzeugen sie zweifelt: an einen anerkannten Verkehrspsychologen nach Artikel 5*c*.
+
+<sup>4</sup> Wenn der gesetzliche Vertreter eines minderjährigen oder unter umfassender Beistandschaft stehenden Gesuchstellers seine Unterschrift auf dem Gesuchsformular verweigert, hört die kantonale Behörde den Gesuchsteller und seinen gesetzlichen Vertreter an.
+
+<sup>5</sup> Die kantonale Behörde kann einen Behördenauszug 3 aus dem Strafregister-Informationssystem VOSTRA und in Zweifelsfällen einen polizeilichen Führungsbericht einholen.
+
+<sup>6</sup> Personen mit Epilepsie werden nur aufgrund eines befürwortenden Berichtes eines Facharztes für Neurologie zum Verkehr zugelassen
+
+[^11b-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 11c
 
@@ -843,14 +871,15 @@ Folgende Berechtigungen und Auflagen sind im Lernfahrausweis einzutragen:
 
 - a. der Lernfahrausweis der Kategorie C oder der Unterkategorie C1 berechtigt zu Lernfahrten mit einem Motorwagen der Kategorie B;
 - b. gehörlose und körperbehinderte Personen dürfen nur von einem behördlich anerkannten Ausbilder begleitet werden;
-- c. Lastwagenführer-Lehrlinge dürfen Lernfahrten nur in Begleitung eines Fahrlehrers oder eines befugten Ausbilders ausführen. Auf Lernfahrten mit einem Motorfahrzeug der Kategorie B ist diese Begleitung nur bis zum vollendeten 18. Altersjahr erforderlich;
-- d.[^17-3] der Lernfahrausweis der Unterkategorie C1 berechtigt zu Lernfahrten mit Feuerwehrmotorwagen, die ein Gesamtgewicht von mehr als 7500 kg aufweisen, und Fahrschullastwagen der Kategorie C.
+- c.[^17-3] Lernende der beruflichen Grundbildungen «Strassentransportfachfrau/Strassentransportfachmann EFZ», «Automobil-Fachfrau/Automobil-Fachmann EFZ» mit der Fachrichtung «Nutzfahrzeuge» und «Automobil-Mechatronikerin/Automobil-Mechatroniker EFZ» mit der Fachrichtung «Nutzfahrzeuge» dürfen Lernfahrten mit einem Motorfahrzeug der Kategorie C oder einer Fahrzeugkombination der Kategorie CE nur in Begleitung eines Fahrlehrers oder eines befugten Ausbilders durchführen; besitzen die Lernenden den Führerausweis der Kategorie C, dürfen sie Lernfahrten mit einer Fahrzeugkombination der Kategorie CE ohne Begleitperson durchführen;
+- d.[^17-4] der Lernfahrausweis der Unterkategorie C1 berechtigt zu Lernfahrten mit Feuerwehrmotorwagen, die ein Gesamtgewicht von mehr als 7500 kg aufweisen, und Fahrschullastwagen der Kategorie C.
 
 <sup>6</sup> Auf Lernfahrten dürfen keine berufsmässigen Personentransporte durchgeführt werden.
 
 [^17-1]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^17-2]: Fassung gemäss Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^17-3]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^17-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^17-4]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 17a
 
@@ -1183,13 +1212,27 @@ Die Pflicht, sich einer verkehrsmedizinischen Kontrolluntersuchung zu unterziehe
 
 - a.
 
-  die folgenden Fahrzeugführer bis zum 50. Altersjahr alle fünf Jahre, danach alle drei Jahre:
+  Inhaber eines Führerausweises der Kategorien C oder D, der Unterkategorien C1 oder D1 oder der Bewilligung zum berufsmässigen Personentransport sowie Verkehrsexperten:
 
-  - 1\. Inhaber eines Führerausweises der Kategorien C und D sowie der Unterkategorien C1 und D1,
-  - 2\. Inhaber der Bewilligung zum berufsmässigen Personentransport nach Artikel 25,
+  - 1\. alle fünf Jahre, vorbehältlich der ersten Untersuchung nach dem vollendeten 50. Altersjahr mit spätestens 53 Jahren,
+  - 2\. nach der ersten Untersuchung, die nach dem vollendeten 50. Altersjahr stattgefunden hat, alle drei Jahre, vorbehältlich der ersten Untersuchung nach dem vollendeten 75. Altersjahr mit spätestens 77 Jahren;
 
-- b.[^27-2] über 75-jährige Ausweisinhaber alle zwei Jahre;
-- c. Ausweisinhaber während oder nach schweren körperlichen Beeinträchtigungen durch Unfallverletzungen oder Krankheiten.
+- b. Inhaber eines Führerausweises ab dem vollendeten 75. Altersjahr: alle zwei Jahre;
+- c. Inhaber eines Führerausweises während oder nach schweren körperlichen Beeinträchtigungen durch Unfallverletzungen oder Krankheiten.[^27-2]
+
+<sup>1bis</sup>
+
+Die kantonale Behörde erinnert die nach Absatz 1 Buchstaben a und b untersuchungspflichtigen Personen an die Pflicht, sich einer verkehrsmedizinischen Untersuchung zu unterziehen. Die Erinnerung erfolgt:
+
+- a. für die erstmalige Kontrolluntersuchung von Personen nach Absatz 1 Buchstabe a: drei Monate vor dem Ablauf der Untersuchungsfrist, die ab dem Datum der letzten verkehrsmedizinischen Untersuchung berechnet wird;
+- b. für die erstmalige Kontrolluntersuchung von Personen nach Absatz 1 Buchstabe b: innerhalb von einem Monat nach dem Vollenden des 75. Altersjahres;
+- c. für alle nachfolgenden Kontrolluntersuchungen: drei Monate vor dem Eintritt der Fälligkeit des Untersuchungsergebnisses nach Absatz 1<sup>ter</sup>.[^27-3]
+
+<sup>1ter</sup> Die kantonale Behörde weist mit der Erinnerung der nach Absatz 1 Buchstaben a und b untersuchungspflichtigen Personen darauf hin, dass das Untersuchungsergebnis innerhalb von drei Monaten ab dem Versand der Erinnerung und bei nachfolgenden Kontrolluntersuchungen jedenfalls auf deren spätesten Termin hin vorliegen muss. Dieser berechnet sich ab dem Datum der zuletzt durchgeführten Untersuchung.[^27-4]
+
+<sup>1quater</sup> Die kantonale Behörde erinnert die nach Absatz 1 Buchstabe c untersuchungspflichtigen Personen nach der verkehrsmedizinischen Erstuntersuchung an die allenfalls erforderlichen nachfolgenden Kontrolluntersuchungen.[^27-5]
+
+<sup>1quinquies</sup> Die kantonale Behörde darf die Fristen zur Einreichung der Untersuchungsergebnisse ausnahmsweise erstrecken.[^27-6]
 
 <sup>2</sup> Die verkehrsmedizinische Kontrolluntersuchung muss unter der Verantwortung eines Arztes nach Artikel 5*a*<sup>bis</sup> durchgeführt werden.
 
@@ -1203,7 +1246,11 @@ Die kantonale Behörde kann:
 <sup>4</sup> Die kantonale Behörde kann im Einzelfall anordnen, dass der Umfang einer verkehrsmedizinischen Untersuchung auszudehnen oder einzuschränken ist; der Arzt ist in diesem Fall nicht an die Formulare nach den Anhängen 2 und 2*a* gebunden.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^27-2]: Fassung gemäss Ziff. I der V vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-4]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-5]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^27-6]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### 12*b* Weiterausbildung für Inhaber eines Führerausweises auf Probe
 
@@ -1641,7 +1688,7 @@ Motorfahrzeugführer aus dem Ausland dürfen in der Schweiz nur Motorfahrzeuge f
 Einen schweizerischen Führerausweis benötigen:
 
 - a. Fahrzeugführer aus dem Ausland, die seit zwölf Monaten in der Schweiz wohnen und sich in dieser Zeit nicht länger als drei Monate ununterbrochen im Ausland aufgehalten haben;
-- b.[^42-10] Personen, die berufsmässig in der Schweiz immatrikulierte Motorfahrzeuge der Kategorien C oder D oder der Unterkategorien C1 oder D1 führen oder einer Bewilligung nach Artikel 25 bedürfen.[^42-11]
+- b.[^42-10] Personen mit einem gültigen Führerausweis, der nicht von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurde, die berufsmässig in der Schweiz immatrikulierte Motorfahrzeuge der Kategorien C oder D oder der Unterkategorien C1 oder D1 führen oder einer Bewilligung nach Artikel 25 bedürfen; ausgenommen ist das Zirkus- und Schaustellerpersonal.[^42-11]
 
 <sup>3ter</sup>
 
@@ -1662,7 +1709,7 @@ Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 
 [^42-7]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^42-8]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-9]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-10]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^42-10]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-11]: Eingefügt durch Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^42-12]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^42-13]: Eingefügt durch Anhang Ziff. 11 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
@@ -1685,26 +1732,27 @@ Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 
 
 **Erwerb des schweizerischen Führerausweises**[^44-1]
 
-<sup>1</sup> Dem Inhaber eines gültigen nationalen ausländischen Ausweises wird der schweizerische Führerausweis der entsprechenden Kategorie erteilt, wenn er auf einer Kontrollfahrt nachweist, dass er die Verkehrsregeln kennt und Fahrzeuge der Kategorien, für die der Ausweis gelten soll, sicher zu führen versteht. Führer von Motorwagen haben die Kontrollfahrt auf einem Fahrzeug der Kategorie abzulegen, welche zum Führen aller im Ausweis eingetragenen Kategorien berechtigt. Besitzt der Ausweisinhaber zusätzlich die Berechtigung zum Führen von Motorrädern, so wird dafür keine weitere Kontrollfahrt durchgeführt. Für die ärztlichen Untersuchungen gelten die Artikel 7 Absätze 1 und 1<sup>bis</sup>, 9, 11*b* Absatz 1 sowie 27 sinngemäss.[^44-2]
+<sup>1</sup> Dem Inhaber eines gültigen nationalen ausländischen Ausweises wird der schweizerische Führerausweis der entsprechenden Kategorie erteilt, wenn er auf einer Kontrollfahrt nachweist, dass er die Verkehrsregeln kennt und Fahrzeuge der Kategorien, für die der Ausweis gelten soll, sicher zu führen versteht. Führer von Motorwagen haben die Kontrollfahrt auf einem Fahrzeug der Kategorie abzulegen, welche zum Führen aller im Ausweis eingetragenen Kategorien berechtigt. Besitzt der Ausweisinhaber zusätzlich die Berechtigung zum Führen von Motorrädern, so wird dafür keine weitere Kontrollfahrt durchgeführt. Für die ärztlichen Untersuchungen gelten die Artikel 7 Absätze 1 und 1<sup>bis</sup>, 9, 11*b* Absatz 3 Buchstaben a und c[^44-2] sowie 27 sinngemäss.[^44-3]
 
-<sup>1bis</sup> Die Kontrollfahrt kann nicht wiederholt werden.[^44-3]
+<sup>1bis</sup> Die Kontrollfahrt kann nicht wiederholt werden.[^44-4]
 
-<sup>1ter</sup> Bleibt die betroffene Person der Kontrollfahrt unentschuldigt fern, gilt diese als nicht bestanden. Die Behörde muss bei der Anordnung der Kontrollfahrt auf diese Säumnisfolge aufmerksam machen.[^44-4]
+<sup>1ter</sup> Bleibt die betroffene Person der Kontrollfahrt unentschuldigt fern, gilt diese als nicht bestanden. Die Behörde muss bei der Anordnung der Kontrollfahrt auf diese Säumnisfolge aufmerksam machen.[^44-5]
 
-<sup>1quater</sup> Besteht die betroffene Person die Kontrollfahrt nicht, wird der ausländische Führerausweis aberkannt.[^44-5]
+<sup>1quater</sup> Besteht die betroffene Person die Kontrollfahrt nicht, wird der ausländische Führerausweis aberkannt.[^44-6]
 
 <sup>2</sup> Der zum berufsmässigen Führen von Motorfahrzeugen berechtigende schweizerische Führerausweis wird Motorfahrzeugführern aus dem Ausland nur erteilt, wenn sie zusätzlich zur Kontrollfahrt an einer Prüfung nachweisen, dass sie die in der Schweiz für solche Führer geltende Regelung kennen.
 
 <sup>3</sup> Führer von ausländischen Motorfahrrädern, Kleinmotorrädern, land- und forstwirtschaftlichen Motorfahrzeugen und Arbeitsmotorfahrzeugen, die sich um den schweizerischen Führerausweis bewerben, haben eine Führerprüfung abzulegen, wenn sie nicht im Besitz eines entsprechenden ausländischen Ausweises sind.
 
-<sup>4</sup> Wenn die Behörden einen schweizerischen Führerausweis erteilen, müssen sie Ausweise, die von EU- oder EFTA-Staaten ausgestellt worden sind, an die Ausstellungsbehörde zurücksenden. Andere Ausweise müssen sie an die Ausstellungsbehörde zurücksenden oder dem Inhaber aushändigen. Der Inhalt der ausländischen Ausweise wird registriert.[^44-6]
+<sup>4</sup> Wenn die Behörden einen schweizerischen Führerausweis erteilen, müssen sie Ausweise, die von EU- oder EFTA-Staaten ausgestellt worden sind, an die Ausstellungsbehörde zurücksenden. Andere Ausweise müssen sie an die Ausstellungsbehörde zurücksenden oder dem Inhaber aushändigen. Der Inhalt der ausländischen Ausweise wird registriert.[^44-7]
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^44-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^44-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. März 2024 angepasst.
+[^44-3]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^44-4]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^44-5]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^44-6]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-6]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^44-7]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 44a
 
@@ -3314,7 +3362,7 @@ Wer gestützt auf Artikel 151*d* Absätze 9 und 10 Fahrzeuge mit einem Gesamtgew
 
 <sup>1</sup> Ein bis am 14. Juli 2023 erworbener Führerausweis der Unterkategorie D1 (unter Vorbehalt von Art. 151*d* Abs. 10) berechtigt im Binnenverkehr auch zum berufsmässigen Führen von Motorwagen zum Personentransport mit mehr als 8, aber nicht mehr als 16 Sitzplätzen ausser dem Führersitz und Stehplätzen.
 
-<sup>2</sup> …
+<sup>2</sup> Personen nach Artikel 11*b* Absatz 3 Buchstabe a, die das Gesuch um den Lernfahrausweis, den Führerausweis oder die Bewilligung zum berufsmässigen Personentransport vor dem 1. März 2024 eingereicht haben und bereits einen Führerausweis der Kategorien C oder D, der Unterkategorien C1 oder D1 oder die Bewilligung zum berufsmässigen Personentransport besitzen, werden von der kantonalen Behörde nicht zu einer verkehrsmedizinischen Untersuchung aufgeboten.
 
 [^151p-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023, Abs. 2 in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
@@ -3795,7 +3843,7 @@ Anhang 4[^t-8]
 
 ## Gesuch um die Erteilung eines Lernfahr- oder Führerausweises oder der Bewilligung zum berufsmässigen Personentransport
 
-[^t-8]: Fassung gemäss Ziff. II Abs. 1 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II Abs. 3 der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)), Ziff. II Abs. 1 der V vom 14. Dez. 2018 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) und vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 1 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II Abs. 3 der V vom 1. Juli 2015 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)), Ziff. II Abs. 1 der V vom 14. Dez. 2018 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) und vom 10. Mai 2023, in Kraft seit 15. Juli 2023, Ziff. 5.5, 5.52 und 5.55 seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 <table>
 <tr><td>1</td><td>Personalien</td><td></td></tr>
@@ -3887,7 +3935,7 @@ Anhang 4[^t-8]
 -
 
 - Falls eine der Fragen unter 5.1−5.3 mit «Ja» beantwortet wird, muss diesem Gesuch ein Bericht der behandelnden Ärztin oder des behandelnden Arztes beigelegt werden (andernfalls zwingende Überweisung an eine anerkannte Ärztin/einen anerkannten Arzt mindestens der Stufe 3).
-- 5\.5 Sehtest (gültig: 24 Monate):
+- 5\.5 Sehtest (gültig: 24 Monate): nur Gesuchsteller um einen Lernfahrausweis der Kategorien A oder B, der Unterkategorien A1 oder B1 oder der Spezialkategorie F und Gesuchsteller um einen Führerausweis der Spezialkategorien G oder M, die noch keinen gültigen Lernfahr- oder Führerausweis besitzen:
 
 <table>
 <tr><td>5.51</td><td>Sehschärfe:</td><td></td><td></td><td></td><td></td></tr>
@@ -3897,7 +3945,6 @@ Anhang 4[^t-8]
 
 <table>
 <tr><td>5.52</td><td>Horizontales Gesichtsfeld</td><td>1. medizinische Gruppe</td><td></td><td>≥ 120</td><td></td><td>&lt; 120</td></tr>
-<tr><td></td><td></td><td>2. medizinische Gruppe</td><td></td><td>≥ 140</td><td></td><td>&lt; 140</td></tr>
 </table>
 
 <table>
@@ -3914,13 +3961,13 @@ Anhang 4[^t-8]
 
 <table>
 <tr><td>5.55</td><td>Beurteilung</td><td></td><td>Anforderungen der:</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>1. medizinischen Gruppe</td><td></td><td>2. medizinischen Gruppe</td></tr>
-<tr><td></td><td></td><td></td><td>ohne Sehhilfe erfüllt</td><td></td><td>ohne Sehhilfe erfüllt</td></tr>
-<tr><td></td><td></td><td></td><td>nur mit Sehhilfe erfüllt</td><td></td><td>nur mit Sehhilfe erfüllt</td></tr>
-<tr><td></td><td></td><td></td><td>nicht erfüllt</td><td></td><td>nicht erfüllt</td></tr>
+<tr><td></td><td></td><td></td><td>1. medizinischen Gruppe</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>ohne Sehhilfe erfüllt</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>nur mit Sehhilfe erfüllt</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>nicht erfüllt</td><td></td><td></td></tr>
 </table>
 
-Datum: Stempel und Unterschrift:
+Datum: Stempel und Unterschrift des Arztes oder einer anderen Fachperson (Art. 9 Abs. 1<sup>bis</sup>), die den Sehtest durchgeführt hat:
 
 - **6** **Vormundschaft und Beistandschaft**
 - Sind Sie minderjährig oder stehen Sie ja nein unter umfassender Beistandschaft?
@@ -4186,11 +4233,11 @@ Der Nachweis der Kenntnisse in Ziffer I wird durch Prüfung der folgenden Aspekt
 
 Anhang 12[^t-15]
 
-(Art. 22)
+(Art. 22 Abs. 2 und 88 Abs. 1)
 
 ## Praktische Führerprüfung
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), vom 18. Dez. 2015 ([AS 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) und vom Ziff. II Abs. 3 der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), vom 18. Dez. 2015 ([AS 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) und vom Ziff. II Abs. 3 der V vom 14. Dez. 2018 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) und Ziff. II Abs. 1 der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 ### I. Zulassungsbedingungen
 
@@ -4361,10 +4408,10 @@ Vorausgesetzt wird eine flüssige, routinierte Fahrweise mit ausgeprägtem Verke
 
 ### IV. Prüfungsdauer und -strecke
 
-Die Prüfungsdauer und -strecke müssen so bemessen sein, dass die Fähigkeiten und Verhaltensweisen gemäss diesem Anhang beurteilt werden können. Die Prüfungsdauer soll in keinem Falle weniger betragen als:
+Die Prüfungsdauer und -strecke müssen so bemessen sein, dass die Fähigkeiten und Verhaltensweisen gemäss diesem Anhang beurteilt werden können. Die Prüfungsdauer soll inkl. Begrüssung und Verabschiedung des Kandidaten in keinem Falle weniger betragen als:
 
-- – 30 Minuten für die Kategorie A und die Unterkategorie A1;
-- – 60 Minuten für die Kategorien B, BE, DE, die Unterkategorien B1, C1, D1, C1E und D1E, die Spezialkategorie F sowie für die Bewilligung zum berufsmässigen Personentransport nach Artikel 25. Die Prüfungsfahrt für den Fähigkeitsausweis zum Personentransport oder den Fähigkeitsausweis zum Gütertransport nach Artikel 14 Absatz 3 der Chauffeurzulassungsverordnung vom 15. Juni 2007[^annex12-lvlu1-lvlIV-1] kann direkt anschliessend absolviert werden;
+- – 60 Minuten für die Kategorien A und B, die Unterkategorien A1 und B1 sowie die Spezialkategorie F, wobei mindestens 45 Minuten im öffentlichen Strassenverkehr absolviert werden müssen;
+- – 60 Minuten für die Kategorien BE und DE, die Unterkategorien C1, D1, C1E und D1E sowie die Bewilligung zum berufsmässigen Personentransport nach Artikel 25; die Prüfungsfahrt für den Fähigkeitsausweis zum Personentransport oder den Fähigkeitsausweis zum Gütertransport nach Artikel 14 Absatz 3 der Chauffeurzulassungsverordnung vom 15. Juni 2007[^annex12-lvlu1-lvlIV-1] kann direkt anschliessend absolviert werden;
 - – 90 Minuten für die Kategorien C und CE;
 - – 120 Minuten für die Kategorie D.
 
