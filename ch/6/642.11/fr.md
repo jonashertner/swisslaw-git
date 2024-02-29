@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: fr
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240301-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240101/fr"
 
 (LIFD)
 
-du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2024)
+du 14 décembre 1990 (État le 1<sup>er</sup> mars 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -63,7 +63,9 @@ La taxation et la perception de l’impôt fédéral direct sont effectuées par
 
 <sup>2</sup> Une personne a son domicile en Suisse au regard du droit fiscal lorsqu’elle y réside avec l’intention de s’y établir durablement ou lorsqu’elle y a un domicile légal spécial en vertu du droit fédéral.
 
-<sup>3</sup> Une personne séjourne en Suisse au regard du droit fiscal lorsque, sans interruption notable,
+<sup>3</sup>
+
+Une personne séjourne en Suisse au regard du droit fiscal lorsque, sans interruption notable:
 
 - a. elle y réside pendant 30 jours au moins et y exerce une activité lucrative;
 - b. elle y réside pendant 90 jours au moins sans y exercer d’activité lucrative.
@@ -100,7 +102,7 @@ Les personnes physiques qui, au regard du droit fiscal, ne sont ni domiciliées 
 - a. elles exercent une activité lucrative en Suisse;
 - b.[^5-1] en leur qualité de membres de l’administration ou de la direction d’une personne morale qui a son siège ou un établissement stable en Suisse, elles reçoivent des tantièmes, jetons de présence, indemnités fixes, participations de collaborateur ou autres rémunérations;
 - c. elles sont titulaires ou usufruitières de créances garanties par un gage immobilier ou un nantissement sur des immeubles sis en Suisse;
-- d. en suite d’une activité pour le compte d’autrui régie par le droit public, elles reçoivent des pensions, des retraites ou d’autres prestations d’un employeur ou d’une caisse de prévoyance qui a son siège en Suisse;
+- d. ensuite d’une activité pour le compte d’autrui régie par le droit public, elles reçoivent des pensions, des retraites ou d’autres prestations d’un employeur ou d’une caisse de prévoyance qui a son siège en Suisse;
 - e. elles perçoivent des revenus provenant d’institutions suisses de droit privé ayant trait à la prévoyance professionnelle ou aux formes reconnues de prévoyance individuelle liée;
 - f.[^5-2] en raison de leur activité dans le trafic international, à bord d’un bateau, d’un aéronef ou d’un véhicule de transports routiers, elles reçoivent un salaire ou d’autres rémunérations d’un employeur ayant son siège ou un établissement stable en Suisse; les marins travaillant à bord de navires de haute mer sont exemptés de cet impôt.
 
@@ -433,7 +435,7 @@ L’al. 4 ne s’applique pas aux réserves issues d’apports de capital:
 
 <sup>8</sup> L’al. 3 ne s’applique aux apports et aux agios qui sont versés pendant la durée d’une marge de fluctuation du capital au sens des art. 653*s* ss du code des obligations (CO)[^20-12] que dans la mesure où ils dépassent les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.[^20-13]
 
-[^20-1]: Nouvelle teneur selon le ch. I 1 de la LF du 23 juin 2006 sur des mod. urgentes de l’imposition des entreprises, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4883](https://fedlex.data.admin.ch/eli/oc/2006/760); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^20-1]: Introduit par le ch. I 1 de la LF du 23 juin 2006 sur des mod. urgentes de l’imposition des entreprises, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4883](https://fedlex.data.admin.ch/eli/oc/2006/760); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^20-2]: Nouvelle teneur selon le ch. I 5 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 [^20-3]: Nouvelle teneur selon le ch. II 2 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^20-4]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
@@ -868,7 +870,7 @@ Sont déduits du revenu:
 
 <sup>3</sup> Les montants d’impôt inférieurs à 25 francs ne sont pas perçus.
 
-[^36-1]: Nouvelle teneur selon l’art. 2 al. 1 de l’O du DFF du 1<sup>er</sup> sept. 2023 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2024 (RO **202****3**493).
+[^36-1]: Nouvelle teneur selon l’art. 2 al. 1 de l’O du DFF du 1<sup>er</sup> sept. 2023 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^36-2]: Nouvelle teneur selon l’art. 2 al. 2 de l’O du DFF du 1<sup>er</sup> sept. 2023 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^36-3]: Introduit par le ch. I 1 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants ([[RO 2010 455](http://www.admin.ch/ch/f/as/2010/455.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/60); [[FF 2009 4237](http://www.admin.ch/ch/f/ff/2009/4237.pdf)](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nouvelle teneur selon l’art. 2 al. 3 de l’O du DFF du 1<sup>er</sup> sept. 2023 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 
@@ -994,12 +996,13 @@ Les personnes morales soumises à l’impôt sont:
 - a. les sociétés de capitaux (sociétés anonymes, sociétés en commandite par actions, sociétés à responsabilité limitée) et les sociétés coopératives;
 - b. les associations, fondations et autres personnes morales.
 
-<sup>2</sup> Les placements collectifs qui possèdent des immeubles en propriété directe au sens de l’art. 58 LPCC[^49-1] sont assimilés aux autres personnes morales. Les sociétés d’investissement à capital fixe au sens de l’art 110 LPCC sont imposées comme des sociétés de capitaux.[^49-2]
+<sup>2</sup> Les placements collectifs qui possèdent des immeubles en propriété directe au sens de l’art. 58 ou 118*a* LPCC[^49-1] sont assimilés aux autres personnes morales.[^49-2] Les sociétés d’investissement à capital fixe au sens de l’art 110 LPCC sont imposées comme des sociétés de capitaux.[^49-3]
 
 <sup>3</sup> Les personnes morales étrangères ainsi que les sociétés commerciales et les communautés étrangères de personnes imposables selon l’art. 11, sont assimilées aux personnes morales suisses dont elles se rapprochent le plus par leur forme juridique ou leur structure effective.
 
 [^49-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^49-2]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^49-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^49-3]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 ### Chapitre 2 Conditions de l’assujettissement
 
@@ -1909,7 +1912,7 @@ Toute personne appelée à prendre une décision ou à participer de manière d�
 
 - a. si elle a un intérêt personnel dans l’affaire;
 - b.[^109-1] si elle est le conjoint ou le partenaire enregistré d’une partie ou mène de fait une vie de couple avec elle;
-- [tab] b<sup>bis</sup>.[^109-2] si elle est parente ou alliée d’une partie en ligne directe ou en ligne collatérale jusqu’au troisième degré;
+- b<sup>bis</sup>.[^109-2] si elle est parente ou alliée d’une partie en ligne directe ou en ligne collatérale jusqu’au troisième degré;
 - c. si elle représente une partie ou a agi pour une partie dans la même affaire;
 - d. si, pour d’autres raisons, elle pourrait avoir une opinion préconçue dans l’affaire.
 
@@ -3277,11 +3280,9 @@ L’art. 47, al. 2, de la loi fédérale du 20 septembre 1949 sur l’assurance 
 
 **Modification de la LAVS**
 
-### …
+…[^203-1]
 
-[^203-subdiv-1]
-
-[^203-subdiv-1]: La mod. peut être consultée au [RO 1991 1184](https://fedlex.data.admin.ch/eli/oc/1991/1184_1184_1184).
+[^203-1]: La mod. peut être consultée au [RO 1991 1184](https://fedlex.data.admin.ch/eli/oc/1991/1184_1184_1184).
 
 ### Titre 4 Dispositions transitoires
 

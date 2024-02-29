@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)
 short: DBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: de
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240301-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240101/de"
 
 (DBG)
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2024)
+vom 14. Dezember 1990 (Stand am 1. März 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -611,7 +611,7 @@ Sind Sanktionen nach Absatz 3 Buchstaben c und d von einer ausländischen Straf-
 [^27-2]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^27-3]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^27-4]: Eingefügt durch Ziff. I des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
-[^27-5]: Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^27-5]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 28
 
@@ -706,7 +706,7 @@ Von den Einkünften werden abgezogen:
   - 2\. 1800 Franken für die übrigen Steuerpflichtigen;
 
 - h.[^33-7] die Krankheits- und Unfallkosten des Steuerpflichtigen und der von ihm unterhaltenen Personen, soweit der Steuerpflichtige die Kosten selber trägt und diese 5 Prozent der um die Aufwendungen (Art. 26–33) verminderten steuerbaren Einkünfte übersteigen;
-- [tab] h<sup>bis</sup>.[^33-8] die behinderungsbedingten Kosten des Steuerpflichtigen oder der von ihm unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002[^33-9], soweit der Steuerpflichtige die Kosten selber trägt;
+- h<sup>bis</sup>.[^33-8] die behinderungsbedingten Kosten des Steuerpflichtigen oder der von ihm unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002[^33-9], soweit der Steuerpflichtige die Kosten selber trägt;
 - i.[^33-10]
 
   die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 400 Franken an politische Parteien, die:[^33-11]
@@ -996,12 +996,13 @@ Als juristische Personen werden besteuert:
 - a. die Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung) und die Genossenschaften;
 - b. die Vereine, die Stiftungen und die übrigen juristischen Personen.
 
-<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 KAG[^49-1]. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden wie Kapitalgesellschaften besteuert.[^49-2]
+<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 oder 118*a* KAG[^49-1].[^49-2] Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden wie Kapitalgesellschaften besteuert.[^49-3]
 
 <sup>3</sup> Ausländische juristische Personen sowie nach Artikel 11 steuerpflichtige, ausländische Handelsgesellschaften und andere ausländische Personengesamtheiten ohne juristische Persönlichkeit werden den inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
 [^49-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^49-2]: Fassung gemäss Anhang Ziff. II 6 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^49-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^49-3]: Fassung gemäss Anhang Ziff. II 6 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 ### 2. Kapitel: Steuerliche Zugehörigkeit
 
@@ -1133,7 +1134,7 @@ Der steuerbare Reingewinn setzt sich zusammen aus:
   - – Einzahlungen auf das Eigenkapital aus Mitteln der juristischen Person, soweit sie nicht aus als Gewinn versteuerten Reserven erfolgen,
   - – offene und verdeckte Gewinnausschüttungen und geschäftsmässig nicht begründete Zuwendungen an Dritte;
 
-- [tab] c. den der Erfolgsrechnung nicht gutgeschriebenen Erträgen, mit Einschluss der Kapital-, Aufwertungs- und Liquidationsgewinne, vorbehältlich Artikel 64. …[^58-1]
+- c. den der Erfolgsrechnung nicht gutgeschriebenen Erträgen, mit Einschluss der Kapital-, Aufwertungs- und Liquidationsgewinne, vorbehältlich Artikel 64. …[^58-1]
 
 <sup>2</sup> Der steuerbare Reingewinn juristischer Personen, die keine Erfolgsrechnung erstellen, bestimmt sich sinngemäss nach Absatz 1.
 
@@ -1592,14 +1593,14 @@ Personen, die nach Artikel 83 Absatz 1 der Quellensteuer unterliegen, werden nac
 
 <sup>1</sup> Im Ausland wohnhafte Künstler, wie Bühnen-, Film-, Rundfunk- oder Fernsehkünstler, Musiker und Artisten, sowie Sportler und Referenten sind für Einkünfte aus ihrer in der Schweiz ausgeübten persönlichen Tätigkeit und für weitere damit verbundene Entschädigungen steuerpflichtig. Dies gilt auch für Einkünfte und Entschädigungen, die nicht dem Künstler, Sportler oder Referenten selber, sondern einem Dritten zufliessen, der seine Tätigkeit organisiert hat.[^92-1]
 
-<sup>2</sup> Die Steuer beträgt:
+<sup>2</sup>
 
-<table>
-<tr><td>–</td><td>bei Tageseinkünften bis 200 Franken</td><td>0,8 Prozent;</td></tr>
-<tr><td>–</td><td>bei Tageseinkünften von 201 bis 1000 Franken</td><td>2,4 Prozent;</td></tr>
-<tr><td>–</td><td>bei Tageseinkünften von 1001 bis 3000 Franken</td><td>5 Prozent;</td></tr>
-<tr><td>–</td><td>bei Tageseinkünften über 3000 Franken</td><td>7 Prozent.</td></tr>
-</table>
+Die Steuer beträgt:
+
+- – bei Tageseinkünften bis 200 Franken 0,8 Prozent;
+- – bei Tageseinkünften von 201 bis 1000 Franken 2,4 Prozent;
+- – bei Tageseinkünften von 1001 bis 3000 Franken 5 Prozent;
+- – bei Tageseinkünften über 3000 Franken 7 Prozent.
 
 <sup>3</sup>
 
@@ -1911,7 +1912,7 @@ Wer beim Vollzug dieses Gesetzes in einer Sache zu entscheiden oder an einer Ver
 
 - a. an der Sache ein persönliches Interesse hat;
 - b.[^109-1] mit einer Partei durch Ehe oder eingetragene Partnerschaft verbunden ist oder mit ihr eine faktische Lebensgemeinschaft führt;
-- [tab] b<sup>bis</sup>.[^109-2] mit einer Partei in gerader Linie oder bis zum dritten Grade in der Seitenlinie verwandt oder verschwägert ist;
+- b<sup>bis</sup>.[^109-2] mit einer Partei in gerader Linie oder bis zum dritten Grade in der Seitenlinie verwandt oder verschwägert ist;
 - c. Vertreter einer Partei ist oder für eine Partei in der gleichen Sache tätig war;
 - d. aus andern Gründen in der Sache befangen sein könnte.
 

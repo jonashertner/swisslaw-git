@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'imposta federale diretta (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: it
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240301-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240101/it"
 
 (LIFD)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2024)
+del 14 dicembre 1990 (Stato 1° marzo 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -997,12 +997,13 @@ Sono imponibili come persone giuridiche:
 - a. le società di capitali (società anonime, società in accomandita per azioni e società a garanzia limitata) come pure le società cooperative;
 - b. le associazioni, le fondazioni e le altre persone giuridiche.
 
-<sup>2</sup> Gli investimenti collettivi di capitale con possesso fondiario diretto ai sensi dell’articolo 58 LICol[^49-1] sono assimilati alle altre persone giuridiche. Le società di investimento a capitale fisso ai sensi dell’articolo 110 LICol sono tassate come le società di capitali.[^49-2]
+<sup>2</sup> Gli investimenti collettivi di capitale con possesso fondiario diretto ai sensi dell’articolo 58 o 118*a* LICol[^49-1] sono assimilati alle altre persone giuridiche.[^49-2] Le società di investimento a capitale fisso ai sensi dell’articolo 110 LICol sono tassate come le società di capitali.[^49-3]
 
 <sup>3</sup> Le persone giuridiche straniere, nonché le società commerciali e le altre comunità di persone straniere senza personalità giuridica imponibili giusta l’articolo 11, sono assimilate alle persone giuridiche svizzere con le quali esse, per la loro natura giuridica o la loro forma effettiva, hanno maggior affinità.
 
 [^49-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^49-2]: Nuovo testo giusta l’all. n. II 6 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^49-2]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^49-3]: Nuovo testo giusta l’all. n. II 6 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 ### Capitolo 2: Appartenenza fiscale
 
@@ -1912,7 +1913,7 @@ Chiunque, nell’esecuzione della presente legge, deve prendere una decisione o 
 
 - a. ha un interesse personale nella causa;
 - b.[^109-1] è il coniuge o il partner registrato di una parte o convive di fatto con lei;
-- [tab] b<sup>bis</sup>.[^109-2] è parente o affine in linea retta, o in linea collaterale fino al terzo grado, con una parte;
+- b<sup>bis</sup>.[^109-2] è parente o affine in linea retta, o in linea collaterale fino al terzo grado, con una parte;
 - c. è rappresentante di una parte o ha agito per essa nella medesima causa;
 - d. può avere per altri motivi una prevenzione nella causa.
 
@@ -3276,7 +3277,7 @@ L’articolo 47 capoverso 2 della legge federale del 20 settembre 1949[^202-1] s
 
 **Modificazione della LAVS**
 
-<sup>...</sup> [^203-1]
+…[^203-1]
 
 [^203-1]: La mod. può essere consultata alla [RU 1991 1184](https://fedlex.data.admin.ch/eli/oc/1991/1184_1184_1184).
 
@@ -3313,7 +3314,7 @@ I contributi dell’assicurato per l’acquisto di anni d’assicurazione sono d
 <sup>2</sup> Nel caso di assicurazioni di capitali secondo l’articolo 20 capoverso 1 lettera a concluse nel periodo tra il 1° gennaio 1994 e il 31 dicembre 1998, i proventi sono esenti d’imposta se al momento del pagamento il rapporto contrattuale dura da almeno cinque anni e se l’assicurato ha compiuto il 60° anno di età.[^205a-2]
 
 [^205a-1]: Introdotto dal n. I del DF del 7 ott. 1994, in vigore dal 1° gen. 1995 ([RU 1995 1445](https://fedlex.data.admin.ch/eli/oc/1995/1445_1445_1445); [FF 1993 I 948](https://fedlex.data.admin.ch/eli/fga/1993/1_1196_1120_948)).
-[^205a-2]: Nuovo testo giusta il n. I 5 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^205a-2]: Introdotto dal n. I 5 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
 #### Art. 205b
 
