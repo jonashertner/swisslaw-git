@@ -4,20 +4,21 @@ number: "73"
 title: Besoldungsordnung für das Staatspersonal
 short: BO
 language: de
-version: 2012-01-01
-valid_until: 2024-02-29
-version_adopted: 2011-09-12
+version: 2024-03-01
+version_adopted: 2023-09-11
 adopted: 2011-09-12
 in_force: 2012-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/73"
-pdf: "https://srl.lu.ch/api/de/versions/2263/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4179/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Besoldungsordnung für das Staatspersonal
 
-vom 12.09.2011 (Stand 01.01.2012)
+(BO)
+
+vom 12.09.2011 (Stand 01.03.2024)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -38,29 +39,29 @@ beschliesst:
 
 <table>
 <tr><th>Klasse</th><th>Minimum (Fr.)</th><th>Maximum (Fr.)</th></tr>
-<tr><td>1</td><td>40 688</td><td>60 919</td></tr>
-<tr><td>2</td><td>43 943</td><td>65 793</td></tr>
-<tr><td>3</td><td>47 459</td><td>71 057</td></tr>
-<tr><td>4</td><td>51 257</td><td>76 744</td></tr>
-<tr><td>5</td><td>55 357</td><td>82 882</td></tr>
-<tr><td>6</td><td>59 624</td><td>89 271</td></tr>
-<tr><td>7</td><td>64 214</td><td>96 143</td></tr>
-<tr><td>8</td><td>69 149</td><td>103 532</td></tr>
-<tr><td>9</td><td>74 480</td><td>111 514</td></tr>
-<tr><td>10</td><td>80 218</td><td>120 105</td></tr>
-<tr><td>11</td><td>86 384</td><td>129 337</td></tr>
-<tr><td>12</td><td>93 040</td><td>139 302</td></tr>
-<tr><td>13</td><td>100 019</td><td>149 751</td></tr>
-<tr><td>14</td><td>107 523</td><td>160 986</td></tr>
-<tr><td>15</td><td>115 579</td><td>173 048</td></tr>
-<tr><td>16</td><td>124 136</td><td>185 860</td></tr>
-<tr><td>17</td><td>133 320</td><td>199 610</td></tr>
-<tr><td>18</td><td>143 048</td><td>214 175</td></tr>
+<tr><td>1</td><td>46 116</td><td>62 639</td></tr>
+<tr><td>2</td><td>46 116</td><td>67 651</td></tr>
+<tr><td>3</td><td>48 799</td><td>73 064</td></tr>
+<tr><td>4</td><td>52 704</td><td>78 911</td></tr>
+<tr><td>5</td><td>56 920</td><td>85 222</td></tr>
+<tr><td>6</td><td>61 307</td><td>91 792</td></tr>
+<tr><td>7</td><td>66 027</td><td>98 858</td></tr>
+<tr><td>8</td><td>71 102</td><td>106 455</td></tr>
+<tr><td>9</td><td>76 583</td><td>114 663</td></tr>
+<tr><td>10</td><td>82 483</td><td>123 496</td></tr>
+<tr><td>11</td><td>88 823</td><td>132 989</td></tr>
+<tr><td>12</td><td>95 667</td><td>143 235</td></tr>
+<tr><td>13</td><td>102 843</td><td>153 980</td></tr>
+<tr><td>14</td><td>110 559</td><td>172 815</td></tr>
+<tr><td>15</td><td>118 842</td><td>186 983</td></tr>
+<tr><td>16</td><td>127 641</td><td>202 124</td></tr>
+<tr><td>17</td><td>137 084</td><td>218 457</td></tr>
+<tr><td>18</td><td>147 087</td><td>235 869</td></tr>
 </table>
 
-<sup>2</sup> Der minimal ausgerichtete Lohn für in Klassen eingereihte Funktionen beträgt grundsätzlich 44 850 Franken. Der Regierungsrat regelt die Ausnahmen.
+<sup>2</sup> Der minimal ausgerichtete Lohn für in Klassen eingereihte Funktionen beträgt grundsätzlich 52 000 Franken. Der Regierungsrat regelt die Ausnahmen.
 
-<sup>3</sup> Die Minimal- und die Maximalwerte der Lohnklassen und der minimal ausgerichtete Lohn entsprechen dem Stand im Jahr 2011. Diese Werte erhöhen sich durch die ab 2012 gewährten generellen Lohnanpassungen.
+<sup>3</sup> Die Minimal- und die Maximalwerte der Lohnklassen entsprechen dem Stand im Jahr 2023. Diese Werte erhöhen sich durch die ab 2024 gewährten generellen Lohnanpassungen.
 
 #### § 2
 
