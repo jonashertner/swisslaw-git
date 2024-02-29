@@ -4,11 +4,11 @@ title: Ordinanza del 13 novembre 1985 sulla legittimazione alle deduzioni fiscal
 short: OPP 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: it
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/it"
 
 (OPP 3)
 
-del 13 novembre 1985 (Stato 1° gennaio 2024)
+del 13 novembre 1985 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -179,11 +179,12 @@ L’intestatario della previdenza può sciogliere il rapporto di previdenza, se:
 
 <sup>2</sup> I fondi investiti a proprio nome da una fondazione bancaria presso una banca sono considerati depositi a risparmio di ogni singolo intestatario della previdenza ai sensi della legge dell’8 novembre 1934 sulle banche.
 
-<sup>3</sup> Gli articoli 49–58 dell’ordinanza del 18 aprile 1984[^5-3] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità si applicano per analogia all’investimento dei fondi della convenzione di previdenza vincolata sotto forma di risparmio in titoli. In deroga alla presente disposizione, tutti i fondi possono essere investiti in prodotti con garanzia del capitale o in obbligazioni con debitori che presentano un’elevata solvibilità.
+<sup>3</sup> Gli articoli 49–58 dell’ordinanza del 18 aprile 1984[^5-3] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (OPP 2) si applicano per analogia all’investimento dei fondi della convenzione di previdenza vincolata sotto forma di risparmio in titoli. In deroga alla presente disposizione, tutti i fondi possono essere investiti in prodotti con garanzia del capitale o in obbligazioni con debitori che presentano un’elevata solvibilità. Non sono ammessi gli investimenti in fondi riservati a investitori qualificati (L-QIF) e in investimenti collettivi di capitale esteri che non sono assoggettati a una vigilanza estera.[^5-4]
 
 [^5-1]: Nuovo testo giusta l’all. n. 2 dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^5-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^5-3]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^5-4]: Nuovo testo giusta l’all. n. 6 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Sezione 2: Trattamento fiscale
 

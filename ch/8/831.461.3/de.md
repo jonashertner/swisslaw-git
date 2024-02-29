@@ -4,11 +4,11 @@ title: Verordnung vom 13. November 1985 über die steuerliche Abzugsberechtigung
 short: BVV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: de
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/de"
 
 (BVV 3)
 
-vom 13. November 1985 (Stand am 1. Januar 2024)
+vom 13. November 1985 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -180,11 +180,12 @@ Der Vorsorgenehmer kann das Vorsorgeverhältnis auflösen, wenn er sein Vorsorge
 
 <sup>2</sup> Gelder, welche die Bankstiftung im eigenen Namen bei einer Bank anlegt, gelten als Spareinlagen jedes einzelnen Vorsorgenehmers im Sinne des Bankengesetzes vom 8. November 1934.
 
-<sup>3</sup> Für die Anlage der Gelder der gebundenen Vorsorgevereinbarung gelten beim Wertschriftensparen die Artikel 49–58 der Verordnung vom 18. April 1984[^5-3] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2) sinngemäss. Abweichend davon kann vollständig in ein kapitalerhaltendes Produkt oder eine Obligation guter Bonität investiert werden.
+<sup>3</sup> Für die Anlage der Gelder der gebundenen Vorsorgevereinbarung gelten beim Wert-schriftensparen die Artikel 49–58 der Verordnung vom 18. April 1984[^5-3] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2) sinngemäss. Abweichend davon kann vollständig in ein kapitalerhaltendes Produkt oder eine Obligation guter Bonität investiert werden. Unzulässig sind Anlagen in Limited Qualified Investor Funds sowie in ausländische kollektive Kapitalanlagen, die keiner ausländischen Aufsicht unterstehen.[^5-4]
 
 [^5-1]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^5-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^5-3]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^5-4]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## 2. Abschnitt: Steuerliche Behandlung
 

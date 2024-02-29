@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1985 sur les déductions admises fiscalement po
 short: OPP 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: fr
-version: 2024-01-01
+version: 2024-03-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20240101/fr"
 
 (OPP 3)
 
-du 13 novembre 1985 (État le 1<sup>er</sup> janvier 2024)
+du 13 novembre 1985 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -178,11 +178,12 @@ Le preneur de prévoyance peut résilier le rapport de prévoyance:
 
 <sup>2</sup> Les fonds placés par une fondation bancaire en son nom auprès d’une banque sont considérés comme des dépôts d’épargne, au sens de la loi du 8 novembre 1934 sur les banques, de chacun des preneurs de prévoyance.
 
-<sup>3</sup> Les art. 49 à 58 de l’ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité (OPP 2)[^5-3] s’appliquent par analogie au placement des fonds de la prévoyance liée sous forme d’épargne-titres. Par dérogation, il peut être investi en totalité dans un produit avec garantie du capital ou dans une obligation de débiteurs très solvables.
+<sup>3</sup> Les art. 49 à 58 de l’ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité (OPP 2)[^5-3] s’appliquent par analogie au placement des fonds de la prévoyance liée sous forme d’épargne-titres. Par dérogation, il est possible d’investir en totalité dans un produit avec garantie du capital ou dans une obligation de débiteurs très solvables. Les placements dans des *Limited Qualified Investor Funds* ainsi que les placements collectifs de capitaux étrangers qui ne sont soumis à aucune surveillance étrangère ne sont pas autorisés.[^5-4]
 
 [^5-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 19 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^5-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^5-3]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^5-4]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Section 2 Traitement fiscal
 
