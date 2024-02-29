@@ -3,20 +3,19 @@ canton: AG
 number: "155.612"
 title: Reglement der Justizleitung über die Anzahl der übrigen Richterinnen und Richter (nebenamtliche Richterinnen und Richter an den Bezirksgerichten; Fachrichterinnen und Fachrichter des Kindes- und Erwachsenenschutzes; Mitglieder der Schlichtungsbehörden für Miete und Pacht; Mitglieder der Schlichtungsstelle für Gleichstellungsfragen; Friedensrichterinnen und Friedensrichter nach Kreisen)
 language: de
-version: 2022-03-01
-valid_until: 2024-02-29
-version_adopted: 2022-01-14
+version: 2024-03-01
+version_adopted: 2024-01-22
 adopted: 2012-06-07
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/155.612"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3159/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement der Justizleitung über die Anzahl der übrigen Richterinnen und Richter (nebenamtliche Richterinnen und Richter an den Bezirksgerichten; Fachrichterinnen und Fachrichter des Kindes- und Erwachsenenschutzes; Mitglieder der Schlichtungsbehörden für Miete und Pacht; Mitglieder der Schlichtungsstelle für Gleichstellungsfragen; Friedensrichterinnen und Friedensrichter nach Kreisen)
 
-Vom 07.06.2012 (Stand 01.03.2022)
+Vom 07.06.2012 (Stand 01.03.2024)
 
 Die Justizleitung des Kantons Aargau,
 
@@ -68,7 +67,7 @@ beschliesst:
 
 **Abteilung Familiengericht**
 
-<sup>1</sup> Die Familiengerichte im Kanton Aargau verfügen gesamthaft über 17–25 Fachrichterinnen beziehungsweise Fachrichter KESR in Voll- und Teilpensen. Die Stellvertretung erfolgt im ganzen Kanton aufgrund eines von der Justizleitung genehmigten Vertretungsplans[^3-1].
+<sup>1</sup> Die Familiengerichte im Kanton Aargau verfügen gesamthaft über 17–28 Fachrichterinnen beziehungsweise Fachrichter KESR in Voll- und Teilpensen. Die Stellvertretung erfolgt im ganzen Kanton aufgrund eines von der Justizleitung genehmigten Vertretungsplans[^3-1].
 
 <sup>2</sup> Sie verfügen gesamthaft über bis zu 14–18 nebenamtliche Fachrichterinnen beziehungsweise Fachrichter KESR. Der Einsatz der nebenamtlichen Fachrichterinnen und Fachrichter KESR erfolgt im Rahmen ihres Fachgebietes. Die Stellvertretung erfolgt im ganzen Kanton.
 
