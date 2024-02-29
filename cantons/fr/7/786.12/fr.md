@@ -4,13 +4,12 @@ number: "786.12"
 title: "Ordonnance sur les aéronefs sans occupants d'un poids inférieur à 30 kg"
 short: OAero
 language: fr
-version: 2022-02-01
-valid_until: 2024-02-29
-version_adopted: 2022-03-18
+version: 2024-03-01
+version_adopted: 2024-02-20
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/786.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7365/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7976/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Aéronefs sans occupants – O
 
 (OAero)
 
-du 14.12.2021 (version entrée en vigueur le 01.02.2022)
+du 14.12.2021 (version entrée en vigueur le 01.03.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -171,7 +170,7 @@ Arrête:
 
 - a) le Service de la sécurité alimentaire et des affaires vétérinaires (SAAV);
 - b) le Service archéologique de l'Etat de Fribourg (SAEF);
-- c) le Service du cadastre et de la géomatique (SCG);
+- c) le Service de la géoinformation (SGéo);
 - d) le Service des forêts et de la nature (SFN);
 - e) le Service des ponts et chaussées (SPC).
 

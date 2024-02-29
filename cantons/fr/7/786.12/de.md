@@ -4,13 +4,12 @@ number: "786.12"
 title: Verordnung über unbemannte Luftfahrzeuge mit einem Gewicht von weniger als 30 kg
 short: LfzV
 language: de
-version: 2022-02-01
-valid_until: 2024-02-29
-version_adopted: 2022-03-18
+version: 2024-03-01
+version_adopted: 2024-02-20
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/786.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7365/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7976/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Unbemannte Luftfahrzeuge – V
 
 (LfzV)
 
-vom 14.12.2021 (Fassung in Kraft getreten am 01.02.2022)
+vom 14.12.2021 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -171,7 +170,7 @@ beschliesst:
 
 - a) das Amt für Lebensmittelsicherheit und Veterinärwesen (LSVW);
 - b) das Amt für Archäologie des Kantons Freiburg (AAFR);
-- c) das Amt für Vermessung und Geomatik (VGA);
+- c) das Amt für Geoinformation (GeoIA);
 - d) das Amt für Wald und Natur (WNA);
 - e) das Tiefbauamt (TBA).
 
